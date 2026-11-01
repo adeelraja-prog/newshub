@@ -1,3 +1,5 @@
-google-generativeai
-pillow
+feedparser
 requests
+trafilatura
+pillow
+cairosvg
