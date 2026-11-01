@@ -1,5 +1,3 @@
-feedparser
-requests
-trafilatura
+google-generativeai
 pillow
-cairosvg
+requests
