@@ -142,7 +142,7 @@ def gemini_json(prompt):
             "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"}}
     headers = {"x-goog-api-key": env("GEMINI_API_KEY")}
     last = None
-    for attempt in range(3):
+    for attempt in range(8):
         try:
             r = requests.post(url, headers=headers, json=body, timeout=120)
             if r.status_code == 200:
@@ -151,7 +151,7 @@ def gemini_json(prompt):
             last = f"{r.status_code} {r.text[:200]}"
         except Exception as ex:
             last = str(ex)
-        time.sleep(8 * (attempt + 1))
+        time.sleep(15 * (attempt + 1))
     raise RuntimeError(f"Gemini failed: {last}")
 
 
