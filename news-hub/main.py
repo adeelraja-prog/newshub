@@ -40,7 +40,7 @@ def env(name, default=""):
     return os.getenv(name, default).strip()
 
 
-MODEL = env("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL = env("GEMINI_MODEL", "gemini-3.8-flash")
 DRY_RUN = env("DRY_RUN") == "1"
 QUIET = env("QUIET_HOURS", "1-6")          # PKT hours "start-end", empty = never quiet
 MAX_PER_RUN = int(env("MAX_PER_RUN", "1"))  # normal stories per run
