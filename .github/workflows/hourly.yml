@@ -22,8 +22,8 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq libcairo2 libraqm0
-      - run: pip install -r requirements.txt
-      - run: python main.py
+      - run: pip install -r news-hub/requirements.txt
+      - run: python news-hub/main.py
         env:
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
