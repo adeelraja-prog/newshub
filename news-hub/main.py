@@ -4,10 +4,10 @@ import requests
 from PIL import Image, ImageDraw, ImageFont
 import google.generativeai as genai
 
-# Load environment variables
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-FB_PAGE_ID = os.environ.get("FB_PAGE_ID")
-FB_PAGE_TOKEN = os.environ.get("FB_PAGE_TOKEN")
+# Load environment variables with strip to prevent any trailing spaces or newlines
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+FB_PAGE_ID = os.environ.get("FB_PAGE_ID", "").strip()
+FB_PAGE_TOKEN = os.environ.get("FB_PAGE_TOKEN", "").strip()
 
 print("Initializing News Hub...")
 
@@ -25,7 +25,6 @@ def load_state():
             with open(state_file, "r") as f:
                 data = json.load(f)
                 if isinstance(data, dict):
-                    # Ensure processed_links exists
                     if "processed_links" not in data:
                         data["processed_links"] = []
                     return data
@@ -44,7 +43,6 @@ def save_state(state):
 
 def fetch_latest_news():
     print("Fetching latest news...")
-    # Dummy placeholder news for testing or integration with your sources.py
     return {
         "title": "Major Tech Breakthrough in AI Automation",
         "link": "https://example.com/ai-news-1",
