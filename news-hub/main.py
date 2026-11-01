@@ -23,7 +23,12 @@ def load_state():
     if os.path.exists(state_file):
         try:
             with open(state_file, "r") as f:
-                return json.load(f)
+                data = json.load(f)
+                if isinstance(data, dict):
+                    # Ensure processed_links exists
+                    if "processed_links" not in data:
+                        data["processed_links"] = []
+                    return data
         except Exception as e:
             print(f"Error loading state.json: {e}")
     return {"processed_links": []}
@@ -38,7 +43,6 @@ def save_state(state):
         print(f"Error saving state.json: {e}")
 
 def fetch_latest_news():
-    # Example news fetching logic (You can plug in your sources here)
     print("Fetching latest news...")
     # Dummy placeholder news for testing or integration with your sources.py
     return {
@@ -49,18 +53,15 @@ def fetch_latest_news():
 
 def generate_poster(news_item):
     print("Generating branded news poster...")
-    # Create a base image for the poster
     width, height = 1200, 630
-    image = Image.new("RGB", (width, height), color=(15, 23, 42)) # Dark slate background
+    image = Image.new("RGB", (width, height), color=(15, 23, 42))
     draw = ImageDraw.Draw(image)
     
     try:
-        # Load a default font or fallback
         font_title = ImageFont.load_default()
     except Exception:
         font_title = None
 
-    # Draw text onto the poster
     draw.text((50, 80), "BREAKING NEWS", fill=(239, 68, 68), font=font_title)
     draw.text((50, 150), news_item["title"], fill=(255, 255, 255), font=font_title)
     
@@ -76,17 +77,11 @@ def post_to_facebook(news_item, poster_path):
 
     print("Posting to Facebook page...")
     url = f"https://graph.facebook.com/v18.0/{FB_PAGE_ID}/photos"
-    
     caption = f"{news_item['title']}\n\n{news_item['summary']}\n\nRead more: {news_item['link']}"
     
     with open(poster_path, "rb") as image_file:
-        files = {
-            'source': image_file
-        }
-        data = {
-            'caption': caption,
-            'access_token': FB_PAGE_TOKEN
-        }
+        files = {'source': image_file}
+        data = {'caption': caption, 'access_token': FB_PAGE_TOKEN}
         response = requests.post(url, data=data, files=files)
         
         if response.status_code == 200:
@@ -103,7 +98,7 @@ def main():
         print("No new stories found.")
         return
 
-    if news["link"] in state["processed_links"]:
+    if news["link"] in state.get("processed_links", []):
         print("News item already processed. Skipping.")
         return
 
@@ -113,7 +108,9 @@ def main():
     # Publish to Facebook
     post_to_facebook(news, poster_path)
 
-    # Update state
+    # Update state safely
+    if "processed_links" not in state:
+        state["processed_links"] = []
     state["processed_links"].append(news["link"])
     save_state(state)
     print("Pipeline execution completed successfully.")
