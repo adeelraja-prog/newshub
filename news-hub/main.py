@@ -138,34 +138,43 @@ def collect(state):
 # ---------- Gemini ----------
 # Model names change; Google's docs currently recommend 3.8 Flash for new projects.
 MODELS = [m for m in (MODEL, env("GEMINI_FALLBACK_MODEL", "gemini-3.5-flash-lite")) if m]
-BUDGET = int(env("GEMINI_BUDGET_SECONDS", "180"))  # hard time limit per Gemini call
+BUDGET = int(env("GEMINI_BUDGET_SECONDS", "300"))   # hard time limit per Gemini call
+THINKING = env("GEMINI_THINKING", "low")            # less "thinking" = much faster; "" to disable
 RETRY_CODES = {429, 500, 502, 503, 504}
 
 
 def gemini_json(prompt):
-    body = {"contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"}}
+    cfg = {"temperature": 0.2, "responseMimeType": "application/json", "maxOutputTokens": 4096}
+    if THINKING:
+        cfg["thinkingConfig"] = {"thinkingLevel": THINKING}
+    body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": cfg}
     headers = {"x-goog-api-key": env("GEMINI_API_KEY")}
     deadline = time.time() + BUDGET
     last = "no attempt made"
     for model in dict.fromkeys(MODELS):  # primary first, then fallback
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-        for attempt in range(3):
+        attempt = 0
+        while attempt < 2:
             left = deadline - time.time()
             if left <= 5:
                 raise RuntimeError(f"Gemini failed (time budget used up): {last}")
             try:
-                r = requests.post(url, headers=headers, json=body, timeout=min(60, left))
+                r = requests.post(url, headers=headers, json=body, timeout=min(100, left))
                 if r.status_code == 200:
                     text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
                     return json.loads(text)
                 last = f"{model}: {r.status_code} {r.text[:200]}"
+                if r.status_code == 400 and "thinking" in r.text.lower() and "thinkingConfig" in cfg:
+                    del cfg["thinkingConfig"]  # this model does not accept the setting: retry without
+                    print("[warn] model rejected thinkingConfig, retrying without it")
+                    continue
                 if r.status_code not in RETRY_CODES:
                     break  # permanent problem with this model (e.g. 404): try the next one
             except Exception as ex:
                 last = f"{model}: {ex}"
+            attempt += 1
             if attempt < 2:  # no sleep after the final attempt
-                time.sleep(min(5 * 2 ** attempt, max(deadline - time.time() - 5, 0)))
+                time.sleep(min(8, max(deadline - time.time() - 5, 0)))
         print(f"[warn] Gemini {last}")
     raise RuntimeError(f"Gemini failed: {last}")
 
@@ -218,7 +227,7 @@ def article_text(item):
         return ""
     try:
         r = requests.get(item["link"], headers=UA, timeout=20)
-        return (trafilatura.extract(r.text) or "")[:2500]
+        return (trafilatura.extract(r.text) or "")[:1800]
     except Exception:
         return ""
 
@@ -234,7 +243,7 @@ def write_posts(chosen):
     blocks, blobs = [], []
     for n, st in enumerate(chosen, 1):
         parts, blob = [], ""
-        for m in st["members"][:4]:
+        for m in st["members"][:3]:
             body = article_text(m) or m["snippet"]
             parts.append(f"[{m['source']}] {m['title']}\n{body}")
             blob += f" {m['title']} {body}"
