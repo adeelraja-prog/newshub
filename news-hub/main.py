@@ -22,7 +22,12 @@ import requests
 import editorial as ed
 import poster
 import youtube_promo as yt
-from sources import SOURCES, TRENDS_URLS
+from sources import SOURCES
+
+try:
+    from sources import TRENDS_URLS
+except ImportError:  # an older sources.py without the trends list must not stop the bot
+    TRENDS_URLS = ["https://trends.google.com/trending/rss?geo=PK"]
 
 try:
     import trafilatura
