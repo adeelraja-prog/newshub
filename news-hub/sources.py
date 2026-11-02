@@ -32,3 +32,10 @@ SOURCES = [
     gnews("Pakistan site:nytimes.com when:1d", "NY Times"),
     gnews("Pakistan site:aljazeera.com when:1d", "Al Jazeera"),
 ]
+
+
+# Google Trends "trending now" feed for Pakistan (tried in order; skipped if unreachable)
+TRENDS_URLS = [
+    "https://trends.google.com/trending/rss?geo=PK",
+    "https://trends.google.com/trends/trendingsearches/daily/rss?geo=PK",
+]
