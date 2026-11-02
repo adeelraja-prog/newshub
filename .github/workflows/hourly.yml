@@ -1,11 +1,11 @@
 name: news-hub
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/10 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
-        description: "Make posters but do not post anywhere"
+        description: "Dry run: build the report, queue plan and posters, publish nothing, save nothing"
         type: boolean
         default: true
 permissions:
@@ -27,25 +27,45 @@ jobs:
           cache-dependency-path: news-hub/requirements.txt
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq libcairo2 libraqm0
       - run: pip install -r requirements.txt
+      - name: Restore saved memory (kept on its own branch so your main branch stays clean)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          mkdir -p /tmp/data && cd /tmp/data && git init -q
+          REMOTE="https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git"
+          if git ls-remote --exit-code --heads "$REMOTE" bot-data >/dev/null 2>&1; then
+            git fetch -q "$REMOTE" bot-data && git checkout -q -B bot-data FETCH_HEAD
+          else
+            cp "${GITHUB_WORKSPACE}/news-hub/state.json" "${GITHUB_WORKSPACE}/news-hub/queue.json" . 2>/dev/null || true
+          fi
       - run: python main.py
         env:
+          STATE_DIR: /tmp/data
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           WHATSAPP_BRIDGE_URL: ${{ secrets.WHATSAPP_BRIDGE_URL }}
           WHATSAPP_BRIDGE_TOKEN: ${{ secrets.WHATSAPP_BRIDGE_TOKEN }}
-      - name: Download posters (dry run preview)
+      - name: Download posters and report (dry run preview)
         if: ${{ always() && github.event.inputs.dry_run == 'true' }}
         uses: actions/upload-artifact@v4
         with:
-          name: posters
-          path: news-hub/posters/
+          name: posters-and-report
+          path: |
+            news-hub/posters/
+            news-hub/reports/
           if-no-files-found: ignore
-      - name: Save state and posters
-        if: ${{ github.event.inputs.dry_run != 'true' }}
+      - name: Save memory
+        if: ${{ always() && github.event.inputs.dry_run != 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
         run: |
+          cd /tmp/data
           git config user.name "newshub-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add -A state.json posters
-          git diff --cached --quiet || (git commit -m "update" && git push)
+          git add -A
+          if git rev-parse --verify -q HEAD >/dev/null; then git commit -q --amend -m "bot data" ; else git commit -q -m "bot data"; fi
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" HEAD:bot-data
