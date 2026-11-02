@@ -104,8 +104,14 @@ def load_json(path, default):
 
 
 def save_json(path, data):
-    with open(path, "w") as f:
+    """Atomically persist bot state so an interrupted run cannot truncate JSON."""
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp, path)
 
 
 def iso(dt):
@@ -787,10 +793,22 @@ def main():
         print(f"[info] analysis skipped (queue depth {depth}, last analysis "
               f"{'never' if not last_an else int((t0 - last_an).total_seconds() // 60)} min ago); stories wait in the pool")
         candidates = []
+    # CHECKPOINT BEFORE AI: collected stories, seen IDs, rolling pool and history
+    # must survive even if Gemini times out or the runner is interrupted.
+    if not DRY_RUN:
+        ts = t0.timestamp()
+        for it in new_items:
+            state.setdefault("seen", {})[it["id"]] = ts
+        state["seen"] = {k: v for k, v in state.get("seen", {}).items() if v > ts - 3 * 86400}
+        state.update(pool=pool, history=history, published=published, last_run=iso(t0))
+        save_json(STATE_FILE, state)
+        save_json(QUEUE_FILE, queue)
+
     if candidates:
-        state["last_analysis"] = iso(t0)
         try:
             stories = analyse(candidates)
+            # Advance the analysis clock only after Gemini has returned valid output.
+            state["last_analysis"] = iso(t0)
             for c in candidates:
                 c["hist"]["analysed_n"] = c["n_sources"]
             info["lists"] = ed.top_lists(stories)
@@ -835,18 +853,16 @@ def main():
         f.write(report)
 
     if not DRY_RUN:
-        ts = t0.timestamp()
-        for it in new_items:
-            state.setdefault("seen", {})[it["id"]] = ts
-        state["seen"] = {k: v for k, v in state["seen"].items() if v > ts - 3 * 86400}
-        state.update(pool=pool, history=history, published=published, last_run=iso(t0))
+        # Final checkpoint includes newly queued/published items and the successful
+        # analysis timestamp, if any. A Gemini outage is a degraded run, not a
+        # fatal workflow failure: the pending pool remains available next run.
         for p in glob.glob(f"{POSTER_DIR}/*.jpg"):
             if os.path.getmtime(p) < time.time() - 3 * 86400:
                 os.remove(p)
         save_json(STATE_FILE, state)
         save_json(QUEUE_FILE, queue)
-        if not gemini_ok and not any(i["status"] == "queued" for i in queue["items"]):
-            sys.exit(1)
+        if not gemini_ok:
+            print("[warn] DEGRADED RUN: Gemini unavailable; collected stories safely saved for retry.")
 
 
 if __name__ == "__main__":
