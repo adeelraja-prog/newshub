@@ -24,6 +24,8 @@ CATS = {
     "tech_mobile": ("device-mobile", "موبائل"), "tech_laptop": ("device-laptop", "لیپ ٹاپ"),
     "tech_apps": ("apps", "ایپس"), "science": ("brain", "سائنس"), "weather": ("sun", "موسم"),
     "fashion": ("shirt", "فیشن"), "lifestyle": ("news", "طرزِ زندگی"), "other": ("news", "خبر"),
+    "crime": ("alert-octagon", "جرم"), "war": ("sword", "جنگ"), "us_politics": ("flag", "امریکی سیاست"),
+    "engage": ("message-question", "آپ کی رائے"),
 }
 # palette: bg, shape, accent, text, muted
 PALETTES = [
@@ -83,7 +85,7 @@ def wrap(text, font, max_w):
     return lines
 
 
-def fit_urdu(text, max_w, max_h, start=84, lo=40, maxlines=5, spacing=1.8):
+def fit_urdu(text, max_w, max_h, start=108, lo=58, maxlines=5, spacing=1.7):
     size = start
     while True:
         f = urdu(size)
@@ -137,11 +139,11 @@ def footer(c, y, center=False, line=True):
         if src:
             c.d.text((W / 2, y + 78), src, font=latin(28, 400), fill=c.mu, anchor="ma")
     else:
-        c.d.text((M, y + 36), src, font=latin(30, 400), fill=c.mu)
-        c.d.text((W - M, y + 34), c.handle, font=latin(36, 700), fill=c.tx, anchor="ra")
+        c.d.text((M, y + 34), src, font=latin(32, 400), fill=c.mu)
+        c.d.text((W - M, y + 30), c.handle, font=latin(40, 700), fill=c.tx, anchor="ra")
 
 
-def en_line(c, y, x=None, anchor="ra", size=38, maxlines=2, maxy=None):
+def en_line(c, y, x=None, anchor="ra", size=42, maxlines=2, maxy=None):
     f = latin(size, 400)
     for ln in wrap(c.en, f, W - 2 * M)[:maxlines]:
         if maxy and y > maxy:
@@ -174,7 +176,7 @@ def L0(c):  # classic: header badge, label + bar, right-aligned headline
         pill(c, W - M, 90)
     c.d.text((W - M, 450), c.label, font=urdu(38), fill=c.mu, anchor="rm")
     c.d.rectangle((W - M - 120, 500, W - M, 510), fill=c.accent)
-    f, lines, lh = fit_urdu(c.ur, W - 2 * M, 470)
+    f, lines, lh = fit_urdu(c.ur, W - 2 * M, 520)
     y = draw_lines(c, lines, f, lh, 535)
     en_line(c, min(max(y + 10, 880), H - 150 - 30 - 104))
     footer(c, H - 150)
@@ -188,7 +190,7 @@ def L1(c):  # band: coloured top band with big icon, centred headline below
     if c.breaking:
         pill(c, W - 40, 30, 250, 76)
     c.d.text((W // 2, 430), c.label, font=urdu(36), fill=c.band_ink, anchor="mm")
-    f, lines, lh = fit_urdu(c.ur, W - 2 * M, 440, start=80)
+    f, lines, lh = fit_urdu(c.ur, W - 2 * M, 470, start=100)
     y = draw_lines(c, lines, f, lh, 530, x=W // 2, anchor="mm")
     en_line(c, min(max(y + 10, 1000), H - 250), x=W // 2, anchor="ma", size=36)
     brand(c, M, H - 230, 110)
@@ -203,7 +205,7 @@ def L2(c):  # card: diagonal accent stripe, headline inside a rounded card sized
     brand(c, M, 60, 120)
     if c.breaking:
         pill(c, W - M, 70, 270, 84)
-    f, lines, lh = fit_urdu(c.ur, W - 2 * M - 60, 520, start=76)
+    f, lines, lh = fit_urdu(c.ur, W - 2 * M - 60, 540, start=96)
     top = 330
     bottom = top + 100 + len(lines) * lh + 30
     c.d.rounded_rectangle((M - 10, top, W - M + 10, bottom), radius=36, fill=c.shape)
@@ -213,18 +215,18 @@ def L2(c):  # card: diagonal accent stripe, headline inside a rounded card sized
     footer(c, H - 130, line=False)
 
 
-def L3(c):  # spotlight: big circle with icon, centred headline
-    c.d.ellipse((W // 2 - 330, 90, W // 2 + 330, 750), fill=c.shape)
-    c.d.ellipse((W // 2 - 250, 170, W // 2 + 250, 670), outline=c.accent, width=6)
-    ic = icon(c.icon, 300, c.tx, "1.3")
-    c.img.paste(ic, (W // 2 - 150, 270), ic)
+def L3(c):  # spotlight: circle with icon, big centred headline
+    c.d.ellipse((W // 2 - 270, 80, W // 2 + 270, 620), fill=c.shape)
+    c.d.ellipse((W // 2 - 210, 140, W // 2 + 210, 560), outline=c.accent, width=6)
+    ic = icon(c.icon, 230, c.tx, "1.3")
+    c.img.paste(ic, (W // 2 - 115, 235), ic)
     brand(c, M, 50, 100)
     if c.breaking:
         pill(c, W - M, 56, 250, 76)
-    c.d.text((W // 2, 790), c.label, font=urdu(36), fill=c.accent, anchor="mm")
-    f, lines, lh = fit_urdu(c.ur, W - 2 * M, 330, start=72, maxlines=3)
-    y = draw_lines(c, lines, f, lh, 830, x=W // 2, anchor="mm")
-    en_line(c, min(max(y + 6, 1180), H - 200), x=W // 2, anchor="ma", size=32, maxlines=1)
+    c.d.text((W // 2, 665), c.label, font=urdu(40), fill=c.accent, anchor="mm")
+    f, lines, lh = fit_urdu(c.ur, W - 2 * M, 420, start=96, maxlines=4)
+    y = draw_lines(c, lines, f, lh, 700, x=W // 2, anchor="mm")
+    en_line(c, min(max(y + 4, 1120), H - 215), x=W // 2, anchor="ma", size=34, maxlines=1)
     footer(c, H - 140, center=True)
 
 
@@ -235,7 +237,7 @@ def L4(c):  # frame: inset border, huge centred headline
     c.d.text((W // 2, 130), c.label, font=urdu(44), fill=c.accent, anchor="mm")
     if c.breaking:
         pill(c, W // 2 + 145, 190, 290, 84)
-    f, lines, lh = fit_urdu(c.ur, W - 2 * M - 20, 600, start=92, maxlines=5)
+    f, lines, lh = fit_urdu(c.ur, W - 2 * M - 20, 640, start=110, maxlines=5)
     total = len(lines) * lh
     top = max(300, 470 - total / 2 + (60 if c.breaking else 0))
     y = draw_lines(c, lines, f, lh, top, x=W // 2, anchor="mm")
@@ -251,7 +253,7 @@ def L5(c):  # split: top headline, bottom accent panel with brand + English
     if c.breaking:
         pill(c, W - M, 175)
     c.d.rectangle((W - M - 100, 155 + (130 if c.breaking else 0), W - M, 165 + (130 if c.breaking else 0)), fill=c.accent)
-    f, lines, lh = fit_urdu(c.ur, W - 2 * M, 540 - (130 if c.breaking else 0), start=84)
+    f, lines, lh = fit_urdu(c.ur, W - 2 * M, 540 - (130 if c.breaking else 0), start=100)
     draw_lines(c, lines, f, lh, 205 + (130 if c.breaking else 0))
     f2 = latin(40, 700)
     yy = H - ph + 40
@@ -268,7 +270,7 @@ def L5(c):  # split: top headline, bottom accent panel with brand + English
 LAYOUTS = [L0, L1, L2, L3, L4, L5]
 
 
-def render(headline_ur, headline_en, category, breaking, sources, handle, out_path, variant=0):
+def render(headline_ur, headline_en, category, breaking, sources, handle, out_path, variant=0, tag=None):
     icon_name, label = CATS.get(category, CATS["other"])
     pal = PALETTES[(variant * 3 + sum(map(ord, category))) % len(PALETTES)]
     c = Ctx()
@@ -278,9 +280,11 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
     c.band_ink = "#FFFFFF" if not light and (c.accent not in ("#F2B705", "#FFC857", "#35D0BA", "#FFD400", "#FF6B35")) else "#111111"
     if light:
         c.band_ink = "#FFFFFF"
-    c.img = Image.new("RGB", (W, H), c.bg)
+    base = Image.new("RGB", (W, H), c.bg)
+    dark = Image.new("RGB", (W, H), mix(c.bg, "#000000", 0.10 if light else 0.32))
+    c.img = Image.composite(dark, base, Image.linear_gradient("L").resize((W, H)))  # soft depth, darker at the bottom
     c.d = ImageDraw.Draw(c.img)
-    c.ur, c.en, c.icon, c.label = headline_ur, headline_en, icon_name, label
+    c.ur, c.en, c.icon, c.label = headline_ur, headline_en, icon_name, (tag or label)
     c.breaking, c.sources, c.handle = breaking, sources or [], handle
     LAYOUTS[variant % NLAYOUTS](c)
     c.img.save(out_path, "JPEG", quality=92)
