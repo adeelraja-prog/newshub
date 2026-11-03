@@ -160,10 +160,27 @@ def prelim_score(cluster, sig, now):
     return s - max(0, age_h - 2) * 4
 
 
+CAT_BOOST = {"tech_ai": 12, "tech_gadgets": 10, "tech_mobile": 10, "tech_laptop": 9, "tech_apps": 8, "tech": 10,
+             "economy": 7, "science": 6, "health": 6, "politics": 5, "weather": 5, "fashion": 4, "lifestyle": 4}
+
+
 def composite(st):
     base = (0.40 * st["importance"] + 0.25 * st["trend_score"] + 0.15 * st["viral_potential"]
             + 0.20 * st["pakistan_relevance"])
-    return round(base + (5 if st.get("has_wire_or_official") else 0), 1)
+    return round(base + (5 if st.get("has_wire_or_official") else 0) + CAT_BOOST.get(st.get("category"), 0), 1)
+
+
+def interleave(chosen):
+    """Breaking first, then avoid two stories of the same category back to back."""
+    first = [s for s in chosen if s["priority"] == "breaking"]
+    rest = [s for s in chosen if s["priority"] != "breaking"]
+    out, last = list(first), (first[-1]["category"] if first else None)
+    while rest:
+        pick = next((s for s in rest if s["category"] != last), rest[0])
+        rest.remove(pick)
+        out.append(pick)
+        last = pick["category"]
+    return out
 
 
 def top_lists(stories, k=5):
@@ -174,7 +191,7 @@ def top_lists(stories, k=5):
     }
 
 
-def select_balanced(stories, n, min_conf, min_comp, break_urg, break_conf, max_breaking=1):
+def select_balanced(stories, n, min_conf, min_comp, break_urg, break_conf, max_breaking=1, max_per_cat=3):
     """Round-robin across the three rankings; one story is never taken twice."""
     ok = [s for s in stories
           if s["confidence"] >= min_conf and s["composite"] >= min_comp and s["claim_status"] != "unverified"]
@@ -188,10 +205,12 @@ def select_balanced(stories, n, min_conf, min_comp, break_urg, break_conf, max_b
             ids.add(s["id"])
     order = ["important", "trending", "viral"]
     pos = {k: 0 for k in order}
+    per_cat = {}
     while len(chosen) < n:
         progressed = False
         for k in order:
-            while pos[k] < len(lists[k]) and lists[k][pos[k]]["id"] in ids:
+            while pos[k] < len(lists[k]) and (lists[k][pos[k]]["id"] in ids
+                                              or per_cat.get(lists[k][pos[k]]["category"], 0) >= max_per_cat):
                 pos[k] += 1
             if pos[k] < len(lists[k]) and len(chosen) < n:
                 s = lists[k][pos[k]]
@@ -199,10 +218,11 @@ def select_balanced(stories, n, min_conf, min_comp, break_urg, break_conf, max_b
                 s["picked_from"] = k
                 chosen.append(s)
                 ids.add(s["id"])
+                per_cat[s["category"]] = per_cat.get(s["category"], 0) + 1
                 progressed = True
         if not progressed:
             break
-    return chosen
+    return interleave(chosen)
 
 
 # ---------- schedule ----------
