@@ -26,6 +26,11 @@ import youtube_promo as yt
 from sources import SOURCES
 
 try:
+    from sources import BLOCKED_NAMES, BLOCKED_EXACT, BLOCKED_HOST_ENDINGS
+except ImportError:
+    BLOCKED_NAMES, BLOCKED_EXACT, BLOCKED_HOST_ENDINGS = [], [], ()
+
+try:
     from sources import TRENDS_URLS
 except ImportError:  # an older sources.py without the trends list must not stop the bot
     TRENDS_URLS = ["https://trends.google.com/trending/rss?geo=PK"]
@@ -42,7 +47,7 @@ STATE_FILE, QUEUE_FILE = os.path.join(STATE_DIR, "state.json"), os.path.join(STA
 POSTER_DIR = "posters"
 CATEGORIES = ["politics", "economy", "security", "sports", "world", "courts", "disaster", "health",
               "tech", "tech_ai", "tech_gadgets", "tech_mobile", "tech_laptop", "tech_apps",
-              "science", "weather", "fashion", "lifestyle", "other"]
+              "science", "weather", "fashion", "lifestyle", "crime", "war", "us_politics", "other"]
 
 
 def env(name, default=""):
@@ -161,12 +166,27 @@ def collect_new(state):
                 title = re.sub(r"\s+-\s+[^-]+$", "", title)
             if src["kind"] == "world" and not ed.PK_RE.search(title + " " + snippet):
                 continue
+            if is_blocked(name, link):
+                BLOCKED_COUNT[0] += 1
+                continue
             ids.add(iid)
             stats[name] = stats.get(name, 0) + 1
             items.append({"id": iid, "source": name, "kind": src["kind"], "title": title,
                           "snippet": snippet, "link": link, "ts": iso(ts)})
     print(f"[info] collected {len(items)} new items")
     return items, stats
+
+
+BLOCKED_COUNT = [0]
+
+
+def is_blocked(name, link):
+    """Indian outlets are never used as a news source."""
+    n = (name or "").lower().strip()
+    if n in BLOCKED_EXACT or any(b in n for b in BLOCKED_NAMES):
+        return True
+    host = re.sub(r"^https?://", "", (link or "").lower()).split("/")[0]
+    return bool(BLOCKED_HOST_ENDINGS) and host.endswith(tuple(BLOCKED_HOST_ENDINGS))
 
 
 def fetch_trends():
@@ -276,9 +296,12 @@ For each cluster return:
 - "pakistan_relevance": 0-100 (for tech, science, health, sports, fashion, lifestyle and weather news rate general
    Pakistani audience interest; major worldwide tech news is of high interest)
 - category hints: tech_ai = AI news, tech_gadgets = devices and hardware, tech_mobile = phones, tech_laptop = laptops
-   and PCs, tech_apps = apps and software, tech = other technology, science, weather, fashion, lifestyle
+   and PCs, tech_apps = apps and software, tech = other technology, science, weather, fashion, lifestyle, crime = crimes and
+   court-reported offences, war = wars and armed conflicts (Iran, Gaza, Ukraine...), us_politics = US politics and elections
 - "viral_potential": 0-100 (editorial ESTIMATE of shareability: human interest, controversy, major personalities,
    surprise). This is an estimate, not measured data.
+- "public_interest": 0-100 (direct effect on ordinary people's money or daily life in Pakistan: petrol, electricity,
+   gas, flour, sugar, taxes, salaries, relief packages, price cuts or rises score 80-100)
 - "urgency": 0-100 (is it worth posting right now?)
 - "confidence": 0-100 (strength of sourcing; one outlet citing anonymous sources = low; official statement,
    court order, or several independent outlets = high)
@@ -336,7 +359,9 @@ def analyse(clusters):
             "id": c["id"], "cluster": c, "event": (s.get("event") or c["title"]).strip(),
             "category": s.get("category") if s.get("category") in CATEGORIES else "other",
             "importance": clamp(s.get("importance")), "pakistan_relevance": clamp(s.get("pakistan_relevance")),
-            "viral_potential": clamp(s.get("viral_potential")), "urgency": clamp(s.get("urgency")),
+            "viral_estimate": clamp(s.get("viral_potential")), "viral_measured": c["sig"].get("viral_measured", 0),
+            "viral_potential": round(0.6 * clamp(s.get("viral_potential")) + 0.4 * c["sig"].get("viral_measured", 0)),
+            "public_interest": clamp(s.get("public_interest")), "urgency": clamp(s.get("urgency")),
             "confidence": clamp(s.get("confidence")),
             "lifecycle": s.get("lifecycle") or "emerging", "claim_status": s.get("claim_status") or "developing",
             "is_global": bool(s.get("is_global")), "why_pk": (s.get("why_pakistani_audience_cares") or "").strip(),
@@ -383,6 +408,8 @@ For each STORY return:
 - "primary_keyword", "secondary_keywords" (max 5), "entities": {{"people":[],"organisations":[],"locations":[]}}
 - "hashtags": max 5 relevant hashtags, no stuffing, each starting with #
 - "search_summary": max 160 characters
+ANGLE: find the strongest FACTUAL angle: the single most surprising or consequential fact in the text, stated
+plainly, so readers stop scrolling. Never exaggerate beyond the text.
 RULES: Use ONLY facts in the provided text. Keep names, numbers, dates exactly as given. No invented quotes.
 Creative but never misleading clickbait. Avoid generic newspaper phrasing and repetitive AI patterns (no "Breaking:",
 "Shocking", "You won't believe"). Attribute allegations ("alleged", "according to"). If sources disagree, say so.
@@ -430,6 +457,49 @@ def write_batch(stories):
     return out
 
 
+def fact_prompt(blocks):
+    return """You are a strict fact-checker for a news page. For each ITEM compare the CAPTION with the SOURCE TEXT.
+Verdict "ok" only if EVERY factual claim in the caption (who, what, numbers, dates, places, quotes, causes) is stated in
+or directly supported by the source text, allegations are attributed, and nothing is exaggerated beyond the source.
+Punchy wording is fine; extra claims are not. Otherwise verdict "unsupported" and list the issues.
+Return JSON: {"checks": [{"n": 1, "verdict": "ok" or "unsupported", "issues": ["..."]}]}
+
+""" + "\n\n".join(blocks)
+
+
+def fact_check(stories, written):
+    """Returns (verified, failed). 'failed' = no verdict because the check itself failed (story can be retried)."""
+    if not written:
+        return written, []
+    blocks = {}
+    for n, w in written.items():
+        s_ = stories[n - 1]
+        heads = " | ".join(m["title"] for m in s_["cluster"]["members"][:5])
+        cap = " ".join([w["headline_used"], w["poster_headline_en"], w["caption_opening"], w["summary_en"],
+                        w["attribution_line"]])
+        blocks[n] = f"ITEM {n}\nSOURCE TEXT: {heads} || {s_['excerpt'][:1500] or 'headlines only'}\nCAPTION: {cap}"
+    verdicts, keys = {}, list(blocks)
+    for i in range(0, len(keys), 8):
+        try:
+            data = gemini_json(fact_prompt([blocks[k] for k in keys[i:i + 8]]))
+            for ck in data.get("checks", []):
+                if isinstance(ck.get("n"), int):
+                    verdicts[ck["n"]] = ck
+        except Exception as ex:
+            print(f"[warn] fact-check batch failed: {ex}")
+            USAGE["errors"].append(str(ex)[:140])
+    ok, failed = {}, []
+    for n, w in written.items():
+        ck = verdicts.get(n)
+        if ck is None:
+            failed.append(n)
+        elif str(ck.get("verdict", "")).lower() == "ok":
+            ok[n] = w
+        else:
+            print(f"[fact-check] dropped: {stories[n - 1]['event'][:60]} | {'; '.join(map(str, ck.get('issues', [])))[:120]}")
+    return ok, failed
+
+
 def write_posts(stories, size=8):
     """Writing in batches of 8 keeps each Gemini answer small; one failed batch does not lose the others."""
     out = {}
@@ -455,7 +525,7 @@ def build_caption(story, w):
 def count_day(queue, state, day, include_queued=True):
     n = 0
     for it in queue["items"]:
-        if it.get("type") == "youtube":
+        if it.get("type") in ("youtube", "engage"):
             continue
         if it["status"] == "published" and parse(it["published"]["time"]).astimezone(PKT).date() == day:
             n += 1
@@ -493,10 +563,11 @@ def assign_slot(queue, t0):
 
 def enqueue(queue, story, w, caption, t0):
     prio = story.get("priority", "normal")
-    slot = t0 if prio == "breaking" else assign_slot(queue, t0)
+    slot = t0 if prio in ("breaking", "high") else assign_slot(queue, t0)
     item = {
         "qid": story["id"], "status": "queued", "priority": prio, "created": iso(t0), "not_before": iso(slot),
         "attempts": 0, "caption": caption, "category": story["category"],
+        "tag": "عوامی مفاد" if story.get("public_interest", 0) >= 70 else None,
         "poster": {"ur": w["poster_headline_ur"].strip(), "en": w["poster_headline_en"].strip()},
         "headline": w["headline_used"], "headline_alt": w["headline_alt"],
         "tokens": sorted(story["cluster"]["tokens"])[:14], "title": story["cluster"]["title"],
@@ -504,7 +575,8 @@ def enqueue(queue, story, w, caption, t0):
         "meta": {"keywords": [w["primary_keyword"]] + list(w.get("secondary_keywords") or []),
                  "entities": w.get("entities") or {}, "hashtags": w["hashtags"], "search_summary": w["search_summary"],
                  "scores": {k: story[k] for k in ("importance", "trend_score", "viral_potential", "pakistan_relevance",
-                                                  "urgency", "confidence", "composite")},
+                                                  "public_interest", "urgency", "confidence", "composite")},
+                 "viral_estimate": story["viral_estimate"], "viral_measured": story["viral_measured"],
                  "trend_basis": story["trend_basis"], "trend_notes": story["trend_notes"], "x_signal": story["x_signal"],
                  "lifecycle": story["lifecycle"], "claim_status": story["claim_status"], "why_pk": story["why_pk"],
                  "explanation": story["explanation"], "original_source": story["original_source"],
@@ -519,7 +591,7 @@ def enqueue(queue, story, w, caption, t0):
 def housekeeping(queue, t0):
     for it in queue["items"]:
         if it["status"] == "queued":  # stale only counts from the scheduled time, never before it
-            ttl = {"breaking": 3, "promo": 24}.get(it["priority"], QUEUE_TTL_H)
+            ttl = 3 if it.get("type") == "engage" else {"breaking": 3, "high": 6, "promo": 24}.get(it["priority"], QUEUE_TTL_H)
             if t0 - parse(it["not_before"]) > timedelta(hours=ttl):
                 it["status"] = "expired"
     cutoff = t0 - timedelta(days=3)
@@ -537,17 +609,17 @@ def pick_due(queue, t0):
     due = [i for i in queue["items"] if i["status"] == "queued" and parse(i["not_before"]) <= t0]
     if not due:
         return None, "nothing due yet"
-    order = {"breaking": 0, "promo": 1}
+    order = {"breaking": 0, "high": 1, "promo": 2}
     due.sort(key=lambda i: (order.get(i["priority"], 2), -i["meta"]["scores"]["composite"]))
     last = last_published(queue)
     today = t0.astimezone(PKT).date()
     done = count_day(queue, None, today, include_queued=False)
     gap = current_gap(queue)
     for it in due:
-        if it["priority"] in ("breaking", "promo"):
+        if it["priority"] in ("breaking", "high", "promo"):
             if last and t0 - last < timedelta(minutes=BREAKING_GAP_MIN):
                 continue
-            if it["priority"] == "breaking" and done >= MAX_PER_DAY + BREAKING_EXTRA:
+            if it["priority"] in ("breaking", "high") and done >= MAX_PER_DAY + BREAKING_EXTRA:
                 continue
             return it, ""
         if not (WINDOW_START <= t0.astimezone(PKT).hour < WINDOW_END):
@@ -619,7 +691,7 @@ def make_poster(item, tag):
     os.makedirs(POSTER_DIR, exist_ok=True)
     path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
     poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
-                  [item["source_name"]], HANDLE, path, variant=POSTER_N[0])
+                  [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"))
     POSTER_N[0] += 1
     return path
 
@@ -634,7 +706,9 @@ def publish_one(queue, state, item, t0):
             print(f"[facebook] FAILED: {ex}")
     else:
         path = make_poster(item, t0.astimezone(PKT).strftime("%Y%m%d-%H%M"))
-        for name, fn in (("facebook", post_facebook), ("whatsapp", post_whatsapp)):
+        targets = (("facebook", post_facebook),) if item.get("type") == "engage" else \
+                  (("facebook", post_facebook), ("whatsapp", post_whatsapp))
+        for name, fn in targets:
             try:  # one platform failing never blocks the other
                 res = fn(path, item["caption"])
                 if res:
@@ -648,7 +722,7 @@ def publish_one(queue, state, item, t0):
         item["published"] = {"time": iso(t0), "facebook_post_id": fb_id,
                              "facebook_post_url": f"https://www.facebook.com/{fb_id}" if fb_id else None,
                              "public_check": "not verified - open the post link in a private/logged-out browser"}
-        if item.get("type") != "youtube":
+        if item.get("type") not in ("youtube", "engage"):
             state.setdefault("published", []).append({"tokens": item["tokens"], "time": iso(t0), "title": item["title"]})
         print("[queue] published", item["qid"], item["published"]["facebook_post_url"] or "")
     else:
@@ -692,6 +766,9 @@ def build_report(info):
               f"- Supporting coverage: " + ", ".join(f"{x['name']}" for x in m['supporting']),
               f"- Keywords: {', '.join(m['keywords'])} | hashtags: {' '.join(m['hashtags'])}",
               f"- Scheduled: {pkt(parse(it['not_before']))}", f"- Caption:\n```\n{it['caption']}\n```", ""]
+    e_ = info["eng"]["queued"]
+    L += ["## Engagement posts", f"- Queued this run: {', '.join(e_) if e_ else 'none (outside the 13:00 / 18:30 / 21:00 PKT windows or nothing to ask)'}",
+          f"- Indian outlets blocked this run: {BLOCKED_COUNT[0]} items", ""]
     y = info["yt"]
     L += ["## YouTube promotion (new uploads only)",
           f"- Videos seen in the 3 channel feeds: {y['checked']}"
@@ -721,6 +798,10 @@ def youtube_step(state, queue, t0):
     except Exception as ex:
         videos, errors = [], [str(ex)]
     info["errors"], info["checked"] = errors, len(videos)
+    main_ch = [v for v in videos if v["channel"] == "Adeel Raja"]
+    main_ch.sort(key=lambda v: v["ts"].timestamp() if v["ts"] else 0, reverse=True)
+    if main_ch:
+        state["yt_recent"] = [{"title": v["title"], "link": v["link"]} for v in main_ch[:6]]
     if state.get("yt_seen") is None:
         if videos:  # first run: remember what already exists, promote nothing old
             state["yt_seen"] = {v["video_id"]: iso(t0) for v in videos}
@@ -752,6 +833,75 @@ def youtube_step(state, queue, t0):
     return info
 
 
+# ---------- engagement posts (questions that make people comment) ----------
+ENGAGE_SLOTS = [(13, 0, "poll_story"), (18, 30, "poll_video"), (21, 0, "poll_topic")]
+NUM_EMOJI = ["1️⃣", "2️⃣", "3️⃣", "4️⃣"]
+
+
+def engage_prompt(kinds, headlines, videos):
+    return f"""You write engagement posts for a Pakistani news page on Facebook, in natural Urdu script (no Hindi vocabulary).
+Posts are QUESTIONS people answer in the comments. Return JSON {{"engage": [...]}} with one object per requested slot:
+{{"slot": "...", "question_ur": "short punchy question (max 14 words)", "question_en": "same, English",
+"options": ["2 to 3 short Urdu answer options"]}}
+Slots requested: {kinds}
+- poll_story: ask the public's opinion on ONE of these recent headlines (fair, neutral wording, no leading question):
+  {headlines}
+- poll_topic: ask which topic the NEXT video of the journalist Adeel Raja should cover; offer 3 options taken from
+  these headlines: {headlines}
+- poll_video: handled elsewhere, skip it.
+Never state facts that are not in the headlines. Be neutral on political questions."""
+
+
+def engagement_step(state, queue, t0):
+    info = {"queued": []}
+    local = t0.astimezone(PKT)
+    day = str(local.date())
+    done = state.setdefault("engage_done", {})
+    state["engage_done"] = done = {k: v for k, v in done.items() if k == day}
+    todo = []
+    for h, m, kind in ENGAGE_SLOTS:
+        slot = local.replace(hour=h, minute=m, second=0, microsecond=0)
+        if kind not in done.get(day, []) and slot <= local <= slot + timedelta(hours=3):
+            todo.append(kind)
+    if not todo:
+        return info
+    recent = sorted([i for i in queue["items"] if i["status"] == "published" and i.get("type") not in ("youtube", "engage")],
+                    key=lambda i: i["published"]["time"], reverse=True)[:5]
+    headlines = [i["headline"] for i in recent]
+    vids = state.get("yt_recent", [])[:3]
+    ai = {}
+    need_ai = [k for k in todo if k in ("poll_story", "poll_topic") and headlines]
+    if need_ai:
+        try:
+            for e in gemini_json(engage_prompt(need_ai, headlines, vids)).get("engage", []):
+                if isinstance(e, dict) and e.get("slot") in need_ai:
+                    ai[e["slot"]] = e
+        except Exception as ex:
+            print(f"[warn] engagement writing failed: {ex}")
+    for kind in todo:
+        if kind == "poll_video":
+            if len(vids) < 2:
+                continue
+            q_ur, q_en = "آپ کو عدیل راجہ ویوز کی کون سی ویڈیو سب سے اچھی لگی؟", "Which Adeel Raja video did you like most?"
+            lines = [f"{NUM_EMOJI[i]} {v['title']}\n{v['link']}" for i, v in enumerate(vids)]
+        else:
+            e = ai.get(kind)
+            opts = [o for o in (e or {}).get("options", []) if isinstance(o, str) and o.strip()][:3]
+            if not e or not e.get("question_ur") or len(opts) < 2:
+                continue
+            q_ur, q_en = e["question_ur"].strip(), (e.get("question_en") or "").strip()
+            lines = [f"{NUM_EMOJI[i]} {o.strip()}" for i, o in enumerate(opts)]
+        caption = "\n\n".join([q_ur, "\n".join(lines), "اپنا جواب نمبر کے ساتھ کمنٹ میں لکھیں 👇", "#AdeelRaja #آپ_کی_رائے"])
+        queue["items"].append({
+            "qid": f"eng-{day}-{kind}", "type": "engage", "status": "queued", "priority": "promo", "created": iso(t0),
+            "not_before": iso(t0), "attempts": 0, "caption": caption, "category": "engage", "tag": None,
+            "poster": {"ur": q_ur, "en": q_en}, "headline": f"[Poll] {q_ur}", "tokens": [], "title": q_ur,
+            "source_name": "Adeel Raja", "meta": {"scores": {"composite": 90}, "kind": kind}})
+        done.setdefault(day, []).append(kind)
+        info["queued"].append(kind)
+    return info
+
+
 # ---------- main ----------
 def main():
     t0 = now()
@@ -768,6 +918,7 @@ def main():
     pool += [i for i in new_items if i["id"] not in pool_ids]
     trends, trends_basis = fetch_trends()
     yt_info = youtube_step(state, queue, t0)
+    eng_info = engagement_step(state, queue, t0)
 
     items = [{**p, "ts": parse(p["ts"])} for p in pool]
     clusters = ed.cluster_items(items)
@@ -803,7 +954,7 @@ def main():
 
     info = {"now": t0, "new_items": len(new_items), "pool": len(pool), "clusters": len(clusters), "dups": dups,
             "unchanged": unchanged, "stats": stats, "trends_basis": trends_basis, "n_trends": len(trends),
-            "queued_now": [], "queue": queue, "publish_note": "", "yt": yt_info}
+            "queued_now": [], "queue": queue, "publish_note": "", "yt": yt_info, "eng": eng_info}
     gemini_ok = True
     depth = sum(1 for i in queue["items"] if i["status"] == "queued" and i["priority"] == "normal")
     last_an = parse(state["last_analysis"]) if state.get("last_analysis") else None
@@ -824,6 +975,9 @@ def main():
             chosen = ed.select_balanced(stories, SELECT_N, MIN_CONFIDENCE, min_comp,
                                         BREAK_URGENCY, BREAK_CONFIDENCE)
             written = write_posts(chosen) if chosen else {}
+            written, unchecked = fact_check(chosen, written)   # nothing is queued without passing the fact-check
+            for n in unchecked:  # fact-check could not run for these: retry them next time
+                chosen[n - 1]["cluster"]["hist"]["analysed_n"] = None
             for n, s in enumerate(chosen, 1):
                 w = written.get(n)
                 if not w:
