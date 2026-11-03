@@ -100,7 +100,7 @@ def make_cluster(members):
         "members": members, "tokens": tokens, "title": lead["title"], "lead": lead,
         "sources": names, "n_sources": len(names),
         "first_pub": members[0]["ts"], "last_pub": members[-1]["ts"],
-        "has_wire": any(s.lower() in WIRES for s in names),
+        "has_wire": any(s.lower().startswith(tuple(WIRES)) for s in names),
         "has_official": any(s.lower() in OFFICIAL for s in names),
         "pk": any(PK_RE.search(m["title"]) for m in members),
     }
@@ -144,8 +144,12 @@ def trend_signals(cluster, trends, hist, now):
     if emerging:
         score += 10
         notes.append("emerging: multiple outlets within 3 hours")
+    vm = sum(1 for m in cluster["members"] if VIRAL_RE.search(m["title"] + " " + m.get("snippet", "")))
+    if vm:
+        notes.append(f"{vm} outlet(s) describe it as viral / trending on social media")
+    viral_measured = min(100, 35 * vm + (25 if match else 0) + 10 * max(growth, 0) + (10 if emerging else 0))
     basis = "measured" if (n >= 2 or match or growth > 0) else "none"
-    return {"trend_score": min(100, score), "trend_basis": basis, "trend_notes": notes,
+    return {"viral_measured": viral_measured, "trend_score": min(100, score), "trend_basis": basis, "trend_notes": notes,
             "growth": growth, "emerging": emerging, "google_trend": bool(match), "x_signal": "unavailable"}
 
 
@@ -161,19 +165,23 @@ def prelim_score(cluster, sig, now):
 
 
 CAT_BOOST = {"tech_ai": 12, "tech_gadgets": 10, "tech_mobile": 10, "tech_laptop": 9, "tech_apps": 8, "tech": 10,
-             "economy": 7, "science": 6, "health": 6, "politics": 5, "weather": 5, "fashion": 4, "lifestyle": 4}
+             "economy": 7, "science": 6, "health": 6, "politics": 5, "weather": 5, "fashion": 4, "lifestyle": 4,
+             "crime": 7, "war": 7, "us_politics": 6}
+SENSITIVE = ("politics", "security", "courts", "crime", "war", "us_politics")
+SURE_TYPES = ("official_document", "official_statement", "court_order", "wire")
+VIRAL_RE = re.compile(r"\bviral\b|goes viral|went viral|trending on|social media (users|reacts|erupts)|وائرل|ٹرینڈ", re.I)
 
 
 def composite(st):
     base = (0.40 * st["importance"] + 0.25 * st["trend_score"] + 0.15 * st["viral_potential"]
-            + 0.20 * st["pakistan_relevance"])
+            + 0.20 * st["pakistan_relevance"] + 0.30 * st.get("public_interest", 0))
     return round(base + (5 if st.get("has_wire_or_official") else 0) + CAT_BOOST.get(st.get("category"), 0), 1)
 
 
 def interleave(chosen):
     """Breaking first, then avoid two stories of the same category back to back."""
-    first = [s for s in chosen if s["priority"] == "breaking"]
-    rest = [s for s in chosen if s["priority"] != "breaking"]
+    first = [s for s in chosen if s["priority"] in ("breaking", "high")]
+    rest = [s for s in chosen if s["priority"] not in ("breaking", "high")]
     out, last = list(first), (first[-1]["category"] if first else None)
     while rest:
         pick = next((s for s in rest if s["category"] != last), rest[0])
@@ -193,14 +201,27 @@ def top_lists(stories, k=5):
 
 def select_balanced(stories, n, min_conf, min_comp, break_urg, break_conf, max_breaking=1, max_per_cat=3):
     """Round-robin across the three rankings; one story is never taken twice."""
-    ok = [s for s in stories
-          if s["confidence"] >= min_conf and s["composite"] >= min_comp and s["claim_status"] != "unverified"]
+    def sure_enough(s):  # sensitive topics need stronger sourcing
+        if s["category"] in SENSITIVE:
+            return s["confidence"] >= 70 and (s["cluster"]["n_sources"] >= 2
+                                              or s["cluster"].get("has_wire")
+                                              or s.get("original_source", {}).get("type") in SURE_TYPES)
+        return True
+
+    ok = [s for s in stories if s["confidence"] >= min_conf and s["composite"] >= min_comp
+          and s["claim_status"] != "unverified" and sure_enough(s)]
     lists = top_lists(ok, k=len(ok) or 1)
     chosen, ids = [], set()
     for s in sorted(ok, key=lambda s: -s["urgency"]):
         if s["urgency"] >= break_urg and s["confidence"] >= break_conf and len(
                 [c for c in chosen if c["priority"] == "breaking"]) < max_breaking:
             s["priority"] = "breaking"
+            chosen.append(s)
+            ids.add(s["id"])
+    for s in sorted(ok, key=lambda s: -s.get("public_interest", 0)):  # public interest jumps the queue
+        if (s["id"] not in ids and s.get("public_interest", 0) >= 80 and s["confidence"] >= 75
+                and len([c for c in chosen if c["priority"] == "high"]) < 2):
+            s["priority"] = "high"
             chosen.append(s)
             ids.add(s["id"])
     order = ["important", "trending", "viral"]
@@ -222,6 +243,7 @@ def select_balanced(stories, n, min_conf, min_comp, break_urg, break_conf, max_b
                 progressed = True
         if not progressed:
             break
+    chosen.sort(key=lambda s: (s["priority"] not in ("breaking", "high"), -(s.get("public_interest", 0) >= 60)))
     return interleave(chosen)
 
 
