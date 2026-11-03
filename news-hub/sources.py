@@ -54,6 +54,20 @@ SOURCES = [
     {"name": "Pakistan Today", "kind": "local", "url": "https://www.pakistantoday.com.pk/feed/"},
     {"name": "Profit", "kind": "local", "url": "https://profit.pakistantoday.com.pk/feed/"},
 
+    # public interest (highest priority), crime, wars, US elections, India events, viral stories
+    gnews("Pakistan petrol price when:1d", "Petrol prices"),
+    gnews("Pakistan electricity tariff load shedding when:1d", "Electricity"),
+    gnews("Pakistan gas flour sugar price relief package when:1d", "Prices"),
+    gnews("Pakistan crime murder arrested police when:1d", "Crime"),
+    gnews("Iran war when:1d", "Iran"),
+    gnews("Gaza Israel war when:1d", "War"),
+    gnews("Ukraine Russia war when:1d", "War"),
+    gnews("US election results when:1d", "US election"),
+    gnews("India student protest when:2d", "India"),
+    gnews("India protest when:2d", "India"),
+    gnews("viral video Pakistan when:1d", "Viral"),
+    gnews("trending on social media Pakistan when:1d", "Viral"),
+
     # weather, fashion, lifestyle via Google News searches
     gnews("Pakistan weather forecast Met Department when:1d", "Weather"),
     gnews("Pakistan fashion when:3d", "Fashion"),
@@ -66,3 +80,14 @@ TRENDS_URLS = [
     "https://trends.google.com/trending/rss?geo=PK",
     "https://trends.google.com/trends/trendingsearches/daily/rss?geo=PK",
 ]
+
+
+# Indian outlets are NEVER used as a news source (events inside India are still covered via BBC, Al Jazeera, Reuters...)
+BLOCKED_NAMES = ["times of india", "timesofindia", "ndtv", "hindustan times", "india today", "the hindu",
+                 "indian express", "zee news", "zeenews", "republic world", "republic tv", "news18", "firstpost",
+                 "wion", "economic times", "livemint", "theprint", "the print", "scroll.in", "the wire",
+                 "outlook india", "deccan herald", "deccan chronicle", "telegraph india", "financial express",
+                 "business standard", "abp news", "aaj tak", "india tv", "dna india", "mid-day", "moneycontrol",
+                 "oneindia", "jagran", "bhaskar", "hindustan"]
+BLOCKED_EXACT = ["ani", "pti", "ians", "uni", "mint", "the quint"]
+BLOCKED_HOST_ENDINGS = (".in", ".co.in")
