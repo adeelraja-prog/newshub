@@ -14,6 +14,7 @@ import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 
 import feedparser
@@ -39,8 +40,9 @@ UA = {"User-Agent": "Mozilla/5.0 (compatible; NewsHubBot/2.0)"}
 STATE_DIR = env_dir = os.getenv("STATE_DIR", ".").strip() or "."   # the workflow keeps saved memory on its own branch
 STATE_FILE, QUEUE_FILE = os.path.join(STATE_DIR, "state.json"), os.path.join(STATE_DIR, "queue.json")
 POSTER_DIR = "posters"
-CATEGORIES = ["politics", "economy", "security", "sports", "world", "courts",
-              "disaster", "health", "tech", "other"]
+CATEGORIES = ["politics", "economy", "security", "sports", "world", "courts", "disaster", "health",
+              "tech", "tech_ai", "tech_gadgets", "tech_mobile", "tech_laptop", "tech_apps",
+              "science", "weather", "fashion", "lifestyle", "other"]
 
 
 def env(name, default=""):
@@ -64,13 +66,14 @@ FORCE_PRE = fnum("FORCE_ANALYSIS_SCORE", 70)     # a very strong story triggers 
 DEPTH_SKIP = fnum("QUEUE_DEPTH_SKIP", 14)        # enough queued: skip analysis (saves Gemini quota)
 YT_MAX_AGE_H = fnum("YT_MAX_AGE_HOURS", 24)      # only promote videos uploaded within this many hours
 WINDOW_START, WINDOW_END = fnum("WINDOW_START", 9), fnum("WINDOW_END", 23)   # PKT hours
-SELECT_N = fnum("SELECT_N", 8)                   # stories queued per run
+SELECT_N = fnum("SELECT_N", 10)                   # stories queued per run
 QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before a queued story is dropped
 MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 14)          # do not queue stories that would post later than this
 # --- editorial thresholds ---
-MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 60), fnum("MIN_COMPOSITE", 45)
+MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 55), fnum("MIN_COMPOSITE", 32)
+FILL_COMPOSITE = fnum("FILL_COMPOSITE", 24)       # lower bar when the queue is nearly empty, so posting never dries up
 BREAK_URGENCY, BREAK_CONFIDENCE = fnum("BREAK_URGENCY", 85), fnum("BREAK_CONFIDENCE", 75)
-ANALYSE_TOP = fnum("ANALYSE_TOP", 12)
+ANALYSE_TOP = fnum("ANALYSE_TOP", 30)
 POOL_HOURS = fnum("POOL_HOURS", 6)
 
 USAGE = {"calls": 0, "prompt_tokens": 0, "output_tokens": 0, "errors": []}
@@ -104,14 +107,8 @@ def load_json(path, default):
 
 
 def save_json(path, data):
-    """Atomically persist bot state so an interrupted run cannot truncate JSON."""
-    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
-    tmp = path + ".tmp"
-    with open(tmp, "w", encoding="utf-8") as f:
+    with open(path, "w") as f:
         json.dump(data, f, ensure_ascii=False)
-        f.flush()
-        os.fsync(f.fileno())
-    os.replace(tmp, path)
 
 
 def iso(dt):
@@ -193,7 +190,7 @@ def fetch_trends():
 
 def fetch_article(item):
     """Article text + links to possible original sources. Only for direct publisher links."""
-    if item["kind"] != "local":
+    if item["kind"] not in ("local", "topic"):
         return "", []
     try:
         r = requests.get(item["link"], headers=UA, timeout=15)
@@ -211,7 +208,7 @@ RETRY_CODES = {500, 502, 503, 504}
 
 
 def gemini_json(prompt):
-    cfg = {"temperature": 0.2, "responseMimeType": "application/json", "maxOutputTokens": 8192}
+    cfg = {"temperature": 0.2, "responseMimeType": "application/json", "maxOutputTokens": 16384}
     if THINKING:
         cfg["thinkingConfig"] = {"thinkingLevel": THINKING}
     body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": cfg}
@@ -276,7 +273,10 @@ For each cluster return:
 - "category": one of {CATEGORIES}
 - "importance": 0-100 (national/political/economic/judicial/security/international significance, public impact,
    institutional decisions; NOT how many outlets covered it)
-- "pakistan_relevance": 0-100
+- "pakistan_relevance": 0-100 (for tech, science, health, sports, fashion, lifestyle and weather news rate general
+   Pakistani audience interest; major worldwide tech news is of high interest)
+- category hints: tech_ai = AI news, tech_gadgets = devices and hardware, tech_mobile = phones, tech_laptop = laptops
+   and PCs, tech_apps = apps and software, tech = other technology, science, weather, fashion, lifestyle
 - "viral_potential": 0-100 (editorial ESTIMATE of shareability: human interest, controversy, major personalities,
    surprise). This is an estimate, not measured data.
 - "urgency": 0-100 (is it worth posting right now?)
@@ -301,8 +301,10 @@ Return JSON: {{"stories":[...]}}.
 
 def analyse(clusters):
     blocks, link_maps = [], []
+    with ThreadPoolExecutor(8) as pool_ex:  # fetch the lead articles in parallel
+        fetched = list(pool_ex.map(lambda c: fetch_article(c["lead"]), clusters))
     for n, c in enumerate(clusters, 1):
-        text, links = fetch_article(c["lead"])
+        text, links = fetched[n - 1]
         c["excerpt"] = text
         cand = list(links)
         for m in c["members"][:6]:
@@ -315,7 +317,7 @@ def analyse(clusters):
         sig = "; ".join(c["sig"]["trend_notes"]) or "single outlet"
         lines = "\n".join(f"L{i + 1} {u}" for i, u in enumerate(cand))
         blocks.append(f"CLUSTER {n}\nHeadlines:\n{heads}\nMeasured signals: {sig}\n"
-                      f"Lead article excerpt ({c['lead']['source']}): {text or 'NOT AVAILABLE (headlines only)'}\n"
+                      f"Lead article excerpt ({c['lead']['source']}): {text[:700] or 'NOT AVAILABLE (headlines only)'}\n"
                       f"CANDIDATE LINKS:\n{lines}")
     data = gemini_json(analysis_prompt(blocks))
     out = []
@@ -349,7 +351,8 @@ def analyse(clusters):
             "sources": c["sources"], "first_pub": iso(c["first_pub"]),
             "last_update": iso(c["last_pub"]),
         }
-        if story["is_global"] and story["pakistan_relevance"] < 30:
+        if (story["is_global"] and story["pakistan_relevance"] < 30 and not story["category"].startswith("tech")
+                and story["category"] not in ("science", "health", "fashion", "lifestyle", "sports", "weather")):
             continue
         story["composite"] = ed.composite(story)
         out.append(story)
@@ -388,7 +391,7 @@ Return JSON: {{"stories":[...]}}.
 """ + "\n\n".join(blocks)
 
 
-def write_posts(stories):
+def write_batch(stories):
     blocks, blobs = [], []
     for n, s in enumerate(stories, 1):
         c = s["cluster"]
@@ -398,7 +401,7 @@ def write_posts(stories):
                  f"first reported by: {s['discovery']['name']}; independent corroboration: "
                  f"{', '.join(s['corroborating']) or 'none identified'}; claim status: {s['claim_status']}")
         blobs.append(" ".join([heads, s["excerpt"], s["event"]]))
-        blocks.append(f"STORY {n}\nEvent: {s['event']}\nHeadlines: {heads}\nText: {s['excerpt'] or 'headlines only'}\n"
+        blocks.append(f"STORY {n}\nEvent: {s['event']}\nHeadlines: {heads}\nText: {s['excerpt'][:1200] or 'headlines only'}\n"
                       f"Category: {s['category']}\nAttribution facts: {facts}")
     data = gemini_json(writing_prompt(blocks))
     out = {}
@@ -427,10 +430,22 @@ def write_posts(stories):
     return out
 
 
+def write_posts(stories, size=8):
+    """Writing in batches of 8 keeps each Gemini answer small; one failed batch does not lose the others."""
+    out = {}
+    for start in range(0, len(stories), size):
+        try:
+            for k, w in write_batch(stories[start:start + size]).items():
+                out[start + k] = w
+        except Exception as ex:
+            print(f"[warn] writing batch {start // size + 1} failed: {ex}")
+            USAGE["errors"].append(str(ex)[:140])
+    return out
+
+
 def build_caption(story, w):
-    link = story["original_source"]["url"] or story["discovery"]["url"]
     parts = [w["caption_opening"].strip(), w["summary_en"].strip(), w["summary_ur"].strip(),
-             f"{w['attribution_line'].strip()}: {link}"]
+             w["attribution_line"].strip()]   # source NAME only: no links in captions
     if w["hashtags"]:
         parts.append(" ".join(w["hashtags"]))
     return "\n\n".join(parts)
@@ -597,11 +612,15 @@ def post_whatsapp(path, text):
     return True
 
 
+POSTER_N = [0]  # rotates layout + colour so no two posters in a row look alike
+
+
 def make_poster(item, tag):
     os.makedirs(POSTER_DIR, exist_ok=True)
     path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
     poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
-                  [item["source_name"]], HANDLE, path)
+                  [item["source_name"]], HANDLE, path, variant=POSTER_N[0])
+    POSTER_N[0] += 1
     return path
 
 
@@ -740,6 +759,7 @@ def main():
     queue = load_json(QUEUE_FILE, {"items": []})
     queue.setdefault("items", [])
     housekeeping(queue, t0)
+    POSTER_N[0] = state.get("poster_n", 0)
 
     # rolling pool of recent items so clusters keep their full coverage between runs
     new_items, stats = collect_new(state)
@@ -777,7 +797,7 @@ def main():
             c["hist"] = hist
     for c in candidates:
         c["pre"] = ed.prelim_score(c, c["sig"], t0)
-    candidates = [c for c in sorted(candidates, key=lambda c: -c["pre"]) if c["pre"] > 0][:ANALYSE_TOP]
+    candidates = [c for c in sorted(candidates, key=lambda c: -c["pre"]) if c["pre"] > -15][:ANALYSE_TOP]
     print(f"[info] pool {len(pool)} -> {len(clusters)} clusters -> {len(candidates)} to analyse "
           f"(dups {dups}, unchanged {unchanged})")
 
@@ -793,26 +813,15 @@ def main():
         print(f"[info] analysis skipped (queue depth {depth}, last analysis "
               f"{'never' if not last_an else int((t0 - last_an).total_seconds() // 60)} min ago); stories wait in the pool")
         candidates = []
-    # CHECKPOINT BEFORE AI: collected stories, seen IDs, rolling pool and history
-    # must survive even if Gemini times out or the runner is interrupted.
-    if not DRY_RUN:
-        ts = t0.timestamp()
-        for it in new_items:
-            state.setdefault("seen", {})[it["id"]] = ts
-        state["seen"] = {k: v for k, v in state.get("seen", {}).items() if v > ts - 3 * 86400}
-        state.update(pool=pool, history=history, published=published, last_run=iso(t0))
-        save_json(STATE_FILE, state)
-        save_json(QUEUE_FILE, queue)
-
     if candidates:
+        state["last_analysis"] = iso(t0)
         try:
             stories = analyse(candidates)
-            # Advance the analysis clock only after Gemini has returned valid output.
-            state["last_analysis"] = iso(t0)
             for c in candidates:
                 c["hist"]["analysed_n"] = c["n_sources"]
             info["lists"] = ed.top_lists(stories)
-            chosen = ed.select_balanced(stories, SELECT_N, MIN_CONFIDENCE, MIN_COMPOSITE,
+            min_comp = MIN_COMPOSITE if depth >= 4 else FILL_COMPOSITE
+            chosen = ed.select_balanced(stories, SELECT_N, MIN_CONFIDENCE, min_comp,
                                         BREAK_URGENCY, BREAK_CONFIDENCE)
             written = write_posts(chosen) if chosen else {}
             for n, s in enumerate(chosen, 1):
@@ -853,16 +862,18 @@ def main():
         f.write(report)
 
     if not DRY_RUN:
-        # Final checkpoint includes newly queued/published items and the successful
-        # analysis timestamp, if any. A Gemini outage is a degraded run, not a
-        # fatal workflow failure: the pending pool remains available next run.
+        ts = t0.timestamp()
+        for it in new_items:
+            state.setdefault("seen", {})[it["id"]] = ts
+        state["seen"] = {k: v for k, v in state["seen"].items() if v > ts - 3 * 86400}
+        state.update(pool=pool, history=history, published=published, last_run=iso(t0), poster_n=POSTER_N[0])
         for p in glob.glob(f"{POSTER_DIR}/*.jpg"):
             if os.path.getmtime(p) < time.time() - 3 * 86400:
                 os.remove(p)
         save_json(STATE_FILE, state)
         save_json(QUEUE_FILE, queue)
-        if not gemini_ok:
-            print("[warn] DEGRADED RUN: Gemini unavailable; collected stories safely saved for retry.")
+        if not gemini_ok and not any(i["status"] == "queued" for i in queue["items"]):
+            sys.exit(1)
 
 
 if __name__ == "__main__":
