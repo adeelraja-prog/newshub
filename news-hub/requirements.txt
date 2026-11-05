@@ -3,3 +3,4 @@ requests
 trafilatura
 pillow
 cairosvg
+numpy
