@@ -1,60 +1,76 @@
-"""Poster generator v4 (mobile first). Dark, rich palettes; accent colour only in thin details.
-6 layouts x 10 palettes x 6 background decorations, rotating. Urdu or English headline. Optional person photo.
-1080x1350 JPEG. Breaking = big red ribbon at the top. No time stamp, no tags."""
+"""ADEEL RAJA poster system v5 (single file). Black & ivory editorial identity.
+4 base templates x flip x 3 background styles = 24 rotating compositions, each in its category colour.
+render(...) keeps the same signature the news bot already uses. 1080x1350 JPEG."""
 import io
+import math
 import os
 
 import cairosvg
+import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
 W, H = 1080, 1350
 M = 70
 HERE = os.path.dirname(os.path.abspath(__file__))
+IVORY, CHARCOAL, CHAR2 = "#F4EFE6", "#121214", "#1C1C20"
+GOLD, SILVER, MUTED, RED = "#C8A96A", "#A9AAAE", "#6F6F75", "#D90429"
+TAGLINE = ["NEWS", "CONTEXT", "PERSPECTIVE"]
+HANDLE_YT, HANDLE_X = "@adeelrajaviews", "@adeelraja"
 
 
 def asset(*p):
     return os.path.join(HERE, "assets", *p)
 
 
-CATS = {  # category: (icon, Urdu label, English label)
-    "politics": ("building-bank", "سیاست", "POLITICS"), "economy": ("coin-rupee", "معیشت", "ECONOMY"),
-    "security": ("shield", "سیکیورٹی", "SECURITY"), "sports": ("trophy", "کھیل", "SPORTS"),
-    "world": ("world", "دنیا", "WORLD"), "courts": ("gavel", "عدالت", "COURTS"),
-    "disaster": ("alert-triangle", "حادثہ", "DISASTER"), "health": ("heartbeat", "صحت", "HEALTH"),
-    "tech": ("cpu", "ٹیکنالوجی", "TECH"), "tech_ai": ("robot", "مصنوعی ذہانت", "AI"),
-    "tech_gadgets": ("device-desktop", "گیجٹس", "GADGETS"), "tech_mobile": ("device-mobile", "موبائل", "MOBILE"),
-    "tech_laptop": ("device-laptop", "لیپ ٹاپ", "LAPTOPS"), "tech_apps": ("apps", "ایپس", "APPS"),
-    "science": ("brain", "سائنس", "SCIENCE"), "weather": ("sun", "موسم", "WEATHER"),
-    "fashion": ("shirt", "فیشن", "FASHION"), "lifestyle": ("news", "طرزِ زندگی", "LIFESTYLE"),
-    "crime": ("alert-octagon", "جرم", "CRIME"), "war": ("sword", "جنگ", "WAR"),
-    "us_politics": ("flag", "امریکی سیاست", "US POLITICS"), "engage": ("message-question", "آپ کی رائے", "YOUR VOICE"),
-    "other": ("news", "خبر", "NEWS"),
+# category: (icon, Urdu label, English label, accent colour)
+CATS = {
+    "economy": ("coin-rupee", "معیشت", "ECONOMY", "#C8A96A"),
+    "politics": ("building-bank", "سیاست", "POLITICS", "#7C9BD6"),
+    "security": ("shield", "دفاع و سلامتی", "SECURITY", "#8E9F62"),
+    "courts": ("gavel", "عدالت", "COURTS", "#B5546B"),
+    "crime": ("alert-octagon", "جرم", "CRIME", "#D07A4F"),
+    "war": ("sword", "جنگ", "WAR", "#B8573F"),
+    "us_politics": ("flag", "امریکی سیاست", "US POLITICS", "#6F8BE8"),
+    "world": ("world", "دنیا", "WORLD", "#9FB2D6"),
+    "health": ("heartbeat", "صحت", "HEALTH", "#4FB6A5"),
+    "science": ("brain", "سائنس", "SCIENCE", "#A58FE8"),
+    "tech": ("cpu", "ٹیکنالوجی", "TECH", "#4CC9F0"),
+    "tech_ai": ("robot", "مصنوعی ذہانت", "AI", "#9B8CFF"),
+    "tech_gadgets": ("device-desktop", "گیجٹس", "GADGETS", "#5CC8E0"),
+    "tech_mobile": ("device-mobile", "موبائل", "MOBILE", "#5BA8FF"),
+    "tech_laptop": ("device-laptop", "لیپ ٹاپ", "LAPTOPS", "#7C9CFF"),
+    "tech_apps": ("apps", "ایپس", "APPS", "#B388FF"),
+    "sports": ("trophy", "کھیل", "SPORTS", "#5CBF6E"),
+    "weather": ("sun", "موسم", "WEATHER", "#6EC1E4"),
+    "fashion": ("shirt", "فیشن", "FASHION", "#E58AB0"),
+    "lifestyle": ("news", "طرزِ زندگی", "LIFESTYLE", "#E6A27A"),
+    "disaster": ("alert-triangle", "حادثہ", "DISASTER", "#E6A23C"),
+    "engage": ("message-question", "آپ کی رائے", "YOUR VOICE", "#C8A96A"),
+    "other": ("news", "خبر", "NEWS", "#A9AAAE"),
 }
-# bg, shape, accent, text, muted
-PALETTES = [
-    ("#0B1730", "#142550", "#E63946", "#FFFFFF", "#9FB0C8"),   # navy / red
-    ("#0A2F25", "#11443A", "#F4B942", "#FFFFFF", "#A8CDBB"),   # emerald / gold
-    ("#2A0A14", "#401224", "#FF8FA3", "#FFFFFF", "#D3A5AB"),   # wine / rose
-    ("#150F3D", "#221A5C", "#2EE6C5", "#FFFFFF", "#B5ACE0"),   # violet / mint
-    ("#052B33", "#0A4350", "#FF7A45", "#FFFFFF", "#9CC7CF"),   # teal / orange
-    ("#121316", "#202228", "#E63946", "#FFFFFF", "#A3A3AD"),   # charcoal / red
-    ("#081A3A", "#0F2E66", "#4CC9F0", "#FFFFFF", "#A9BDE0"),   # midnight / cyan
-    ("#240B2B", "#38144A", "#FF5D8F", "#FFFFFF", "#CBA9D6"),   # plum / pink
-    ("#0C2415", "#143A24", "#B8E986", "#FFFFFF", "#A9C9B2"),   # forest / lime
-    ("#24120B", "#3A1D12", "#FFB703", "#FFFFFF", "#D2B8A8"),   # espresso / amber
-]
-RED = "#D90429"
-NDECOR = 6
 
 
+# ---------- fonts ----------
 def urdu(size):
     return ImageFont.truetype(asset("fonts", "NotoNastaliqUrdu.ttf"), size, layout_engine=ImageFont.Layout.RAQM)
 
 
-def latin(size, weight=400):
+def sans(size, weight=500):
     f = ImageFont.truetype(asset("fonts", "NotoSans.ttf"), size)
     try:
         f.set_variation_by_axes([weight, 100])
+    except Exception:
+        pass
+    return f
+
+
+def serif(size, weight=800):
+    path = asset("fonts", "PlayfairDisplay.ttf")
+    if not os.path.exists(path):
+        return sans(size, 800)
+    f = ImageFont.truetype(path, size)
+    try:
+        f.set_variation_by_axes([weight])
     except Exception:
         pass
     return f
@@ -64,16 +80,6 @@ def mix(c1, c2, t):
     a = [int(c1[i:i + 2], 16) for i in (1, 3, 5)]
     b = [int(c2[i:i + 2], 16) for i in (1, 3, 5)]
     return "#%02x%02x%02x" % tuple(round(a[i] + (b[i] - a[i]) * t) for i in range(3))
-
-
-def icon(name, size, color, stroke="1.2"):
-    path = asset("icons", name + ".svg")
-    if not os.path.exists(path):
-        path = asset("icons", "news.svg")
-    with open(path, encoding="utf-8") as f:
-        svg = f.read().replace("currentColor", color).replace('stroke-width="2"', f'stroke-width="{stroke}"')
-    png = cairosvg.svg2png(bytestring=svg.encode(), output_width=size, output_height=size)
-    return Image.open(io.BytesIO(png)).convert("RGBA")
 
 
 def wrap(text, font, max_w):
@@ -90,257 +96,351 @@ def wrap(text, font, max_w):
     return lines
 
 
-class Ctx:
-    pass
+# ---------- brand kit ----------
+def spaced_width(text, font, tracking):
+    return sum(font.getlength(ch) for ch in text) + tracking * (len(text) - 1)
 
 
-def fit_main(c, max_w, max_h, start=108, lo=58, maxlines=5):
-    """Headline font fitting. Urdu: Nastaliq. English mode: bold sans, left aligned."""
+def spaced(d, x, y, text, font, fill, tracking, align="l"):
+    total = spaced_width(text, font, tracking)
+    x = x - total / 2 if align == "m" else x - total if align == "r" else x
+    for ch in text:
+        d.text((x, y), ch, font=font, fill=fill, anchor="ls")
+        x += font.getlength(ch) + tracking
+    return total
+
+
+def lockup(img, x, y, align="l", scale=1.0, ink=IVORY, sub=SILVER, gold=GOLD):
+    """ADEEL RAJA wordmark + hairline + NEWS · CONTEXT · PERSPECTIVE. Returns (width, height)."""
+    d = ImageDraw.Draw(img)
+    fs = int(98 * scale)
+    wf, tf = serif(fs, 800), sans(int(23 * scale), 600)
+    tw_ = 7 * scale
+    ww = spaced_width("ADEEL RAJA", wf, tw_)
+    base = y + fs * 0.82
+    left = x if align == "l" else x - ww / 2 if align == "m" else x - ww
+    spaced(d, left, base, "ADEEL RAJA", wf, ink, tw_, "l")
+    ry = base + 20 * scale
+    d.line((left, ry, left + ww, ry), fill=gold, width=max(2, int(3 * scale)))
+    sep = " · "
+    plain = sep.join(TAGLINE)
+    tw = sum(tf.getlength(ch) for ch in plain)
+    track = max(2.0, (ww - tw) / (len(plain) - 1))
+    tx, ty = left, ry + 24 * scale + tf.size * 0.8
+    for i, w_ in enumerate(TAGLINE):
+        for ch in w_:
+            d.text((tx, ty), ch, font=tf, fill=sub, anchor="ls")
+            tx += tf.getlength(ch) + track
+        if i < len(TAGLINE) - 1:
+            for ch in sep:
+                d.text((tx, ty), ch, font=tf, fill=gold if ch == "·" else sub, anchor="ls")
+                tx += tf.getlength(ch) + track
+    return ww, int(ty + tf.size * 0.3 - y)
+
+
+def brand_icon(name, size, color):
+    path = asset("brand", name + ".svg")
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as f:
+        svg = f.read().replace("<svg ", f'<svg fill="{color}" ', 1)
+    png = cairosvg.svg2png(bytestring=svg.encode(), output_width=size, output_height=size)
+    return Image.open(io.BytesIO(png)).convert("RGBA")
+
+
+def social_footer(img, cx, y, ink, sub):
+    """[YouTube] @adeelrajaviews  |  [X] @adeelraja"""
+    d = ImageDraw.Draw(img)
+    f = sans(34, 600)
+    isz, gap, pad = 44, 14, 34
+    yt, xi = brand_icon("youtube", isz, ink), brand_icon("x", int(isz * 0.86), ink)
+    iw1, iw2 = (yt.width if yt else 0), (xi.width if xi else 0)
+    w1 = iw1 + (gap if yt else 0) + f.getlength(HANDLE_YT)
+    w2 = iw2 + (gap if xi else 0) + f.getlength(HANDLE_X)
+    x0 = cx - (w1 + pad * 2 + 2 + w2) / 2
+    if yt:
+        img.paste(yt, (int(x0), int(y)), yt)
+    d.text((x0 + iw1 + (gap if yt else 0), y + isz / 2), HANDLE_YT, font=f, fill=ink, anchor="lm")
+    sx = x0 + w1 + pad
+    d.line((sx, y + 4, sx, y + isz - 4), fill=sub, width=2)
+    x2 = sx + pad
+    if xi:
+        img.paste(xi, (int(x2), int(y + (isz - xi.height) / 2)), xi)
+    d.text((x2 + iw2 + (gap if xi else 0), y + isz / 2), HANDLE_X, font=f, fill=ink, anchor="lm")
+
+
+def icon(name, size, color, stroke="1.2"):
+    path = asset("icons", name + ".svg")
+    if not os.path.exists(path):
+        path = asset("icons", "news.svg")
+    with open(path, encoding="utf-8") as f:
+        svg = f.read().replace("currentColor", color).replace('stroke-width="2"', f'stroke-width="{stroke}"')
+    png = cairosvg.svg2png(bytestring=svg.encode(), output_width=size, output_height=size)
+    return Image.open(io.BytesIO(png)).convert("RGBA")
+
+
+def portrait_circle(size, ring, ring_w=5):
+    im = Image.open(asset("adeel.jpg")).convert("RGB")
+    side = min(im.size)
+    im = im.crop(((im.width - side) // 2, 0, (im.width - side) // 2 + side, side)).resize((size, size), Image.LANCZOS)
+    im = ImageOps.autocontrast(im.convert("L"), cutoff=1)
+    im = ImageOps.colorize(im, black="#0B0B0D", mid="#7A7468", white=IVORY)
+    out = Image.new("RGBA", (size + 2 * ring_w, size + 2 * ring_w), (0, 0, 0, 0))
+    ImageDraw.Draw(out).ellipse((0, 0, out.width - 1, out.height - 1), fill=ring)
+    mask = Image.new("L", (size, size), 0)
+    ImageDraw.Draw(mask).ellipse((0, 0, size - 1, size - 1), fill=255)
+    out.paste(im, (ring_w, ring_w), mask)
+    return out
+
+
+# ---------- backgrounds ----------
+def background(c, style):
+    rng = np.random.default_rng(7 + style)
+    if c.dark:
+        base = Image.new("RGB", (W, H), CHARCOAL)
+        glow = Image.new("L", (W, H), 0)
+        gd = ImageDraw.Draw(glow)
+        if style == 0:
+            gd.ellipse((W * 0.1, H * 0.05, W * 0.9, H * 0.7), fill=70)
+        elif style == 1:
+            gd.ellipse((W * 0.45, -H * 0.1, W * 1.3, H * 0.45), fill=85)
+        else:
+            gd.polygon([(0, H * 0.2), (W, 0), (W, H * 0.25), (0, H * 0.5)], fill=60)
+        glow = glow.filter(ImageFilter.GaussianBlur(190))
+        base = Image.composite(Image.new("RGB", (W, H), mix(CHAR2, c.acc, 0.17)), base, glow)
+        if style == 1:
+            dr = ImageDraw.Draw(base)
+            for x in range(0, W, 54):
+                dr.line((x, 0, x, H), fill=mix(CHARCOAL, "#FFFFFF", 0.035), width=1)
+    else:
+        base = Image.new("RGB", (W, H), IVORY)
+        edge = Image.new("L", (W, H), 255)
+        ImageDraw.Draw(edge).ellipse((-W * 0.2, -H * 0.1, W * 1.2, H * 1.1), fill=0)
+        edge = edge.filter(ImageFilter.GaussianBlur(150)).point(lambda v: int(v * 0.16))
+        base = Image.composite(Image.new("RGB", (W, H), "#D9D2C3"), base, edge)
+        if style == 1:
+            dr = ImageDraw.Draw(base)
+            for y in range(60, H, 46):
+                dr.line((0, y, W, y), fill=mix(IVORY, "#000000", 0.04), width=1)
+    noise = Image.fromarray(rng.normal(128, 38, (H, W)).clip(0, 255).astype("uint8"), "L").convert("RGB")
+    return Image.blend(base, noise, 0.035)
+
+
+# ---------- text blocks ----------
+def fit_headline(c, max_w, max_h, start=112, lo=58, maxlines=4):
     size = start
     while True:
         if c.english:
-            f, spacing = latin(size, 800), 1.18
+            f, lh = sans(size, 800), size * 1.2
             lines = wrap(c.en, f, max_w)
         else:
-            f, spacing = urdu(size), 1.7
+            f, lh = urdu(size), size * 1.72
             lines = wrap(c.ur, f, max_w)
-        lh = size * spacing
         if (len(lines) <= maxlines and len(lines) * lh <= max_h) or size <= lo:
             return f, lines, lh
         size -= 4
 
 
-def draw_lines(c, lines, f, lh, y, x=None, anchor="rm"):
-    x = W - M if x is None else x
-    if c.english and anchor == "rm":          # English reads left to right
-        x, anchor = M if x == W - M else x - 0, "lm"
+def draw_headline(c, f, lines, lh, x, y, align):
+    if c.english and align == "r":
+        align, x = "l", M
+    anchor = {"m": "mm", "r": "rm", "l": "lm"}[align]
     for ln in lines:
-        c.d.text((x, y + lh / 2), ln, font=f, fill=c.tx, anchor=anchor)
+        c.d.text((x, y + lh / 2), ln, font=f, fill=c.ink, anchor=anchor)
         y += lh
     return y
 
 
-def sub_line(c, y, x=None, anchor="ra", size=42, maxlines=2):
-    if c.english or not c.en:
-        return y
-    f = latin(size, 400)
-    for ln in wrap(c.en, f, W - 2 * M)[:maxlines]:
-        c.d.text((x if x is not None else W - M, y), ln, font=f, fill=c.sub, anchor=anchor)
-        y += size * 1.38
+def under_height(c):
+    return (58 if (not c.english and c.en) else 0) + (40 if c.source else 0)
+
+
+def under_text(c, x, y, align):
+    """Optional English translation + source credit. Returns the new y."""
+    d = c.d
+    anchor = {"m": "ma", "r": "ra", "l": "la"}[align]
+    if c.english and align == "r":
+        anchor, x = "la", M
+    if not c.english and c.en:
+        d.text((x, y), c.en, font=sans(36, 500), fill=c.sub, anchor=anchor)
+        y += 58
+    if c.source:
+        d.text((x, y), "Source: " + c.source, font=sans(26, 500), fill=c.mute, anchor=anchor)
+        y += 40
     return y
 
 
-def circle_photo(path, size):
-    im = Image.open(path).convert("RGB").resize((size, size), Image.LANCZOS)
-    mask = Image.new("L", (size, size), 0)
-    ImageDraw.Draw(mask).ellipse((0, 0, size - 1, size - 1), fill=255)
-    out = Image.new("RGBA", (size, size), (0, 0, 0, 0))
-    out.paste(im, (0, 0), mask)
-    return out
-
-
-def brand(c, x, y, size=130, align="left"):
-    c.d.ellipse((x - 6, y - 6, x + size + 6, y + size + 6), fill=c.tx)
-    c.img.paste(circle_photo(asset("adeel.jpg"), size), (x, y), circle_photo(asset("adeel.jpg"), size))
-    if align == "left":
-        c.d.text((x + size + 24, y + size * 0.14), "Adeel Raja", font=latin(int(size * 0.40), 700), fill=c.tx)
-        c.d.text((x + size + 26, y + size * 0.62), "News hub", font=latin(int(size * 0.22), 400), fill=c.mu)
-    else:
-        cx = x + size / 2
-        c.d.text((cx, y + size + 22), "Adeel Raja", font=latin(int(size * 0.34), 700), fill=c.tx, anchor="ma")
-        c.d.text((cx, y + size + 22 + size * 0.40), "News hub", font=latin(int(size * 0.20), 400), fill=c.mu, anchor="ma")
-
-
-def ribbon(c):
-    """BREAKING: full-width red ribbon, very large text."""
-    c.d.rectangle((0, 0, W, 132), fill=RED)
-    c.d.rectangle((0, 132, W, 140), fill=mix(RED, "#000000", 0.35))
-    if c.english:
-        c.d.text((W / 2, 68), "BREAKING NEWS", font=latin(78, 800), fill="#FFFFFF", anchor="mm")
-    else:
-        c.d.text((W / 2, 64), "بریکنگ نیوز", font=urdu(86), fill="#FFFFFF", anchor="mm")
-
-
-def footer(c, y, center=False, line=True):
-    if line:
-        c.d.line((M, y, W - M, y), fill=mix(c.bg, c.tx, 0.25), width=2)
-    src = "Source: " + ", ".join(c.sources[:1]) if c.sources else ""
-    if center:
-        c.d.text((W / 2, y + 28), c.handle, font=latin(40, 700), fill=c.tx, anchor="ma")
-        if src:
-            c.d.text((W / 2, y + 80), src, font=latin(30, 400), fill=c.mu, anchor="ma")
-    else:
-        c.d.text((M, y + 36), src, font=latin(32, 400), fill=c.mu)
-        c.d.text((W - M, y + 30), c.handle, font=latin(40, 700), fill=c.tx, anchor="ra")
-
-
-def faint_icon(c, x, y, size, strength=0.07):
-    ic = icon(c.icon, size, mix(c.bg, c.tx, strength))
-    c.img.paste(ic, (x, y), ic)
-
-
-def decor(c, kind):
+def label_row(c, x, y, align):
+    """[BREAKING teaser] ECONOMY · معیشت - in category colour (red for breaking)."""
     d = c.d
-    if kind == 0:      # big circles
-        d.ellipse((W - 520, -240, W + 260, 540), fill=c.shape)
-        d.ellipse((-280, H - 560, 420, H + 160), fill=c.shape)
-    elif kind == 1:    # dot grid
-        for gx in range(40, W, 60):
-            for gy in range(40, H, 60):
-                d.ellipse((gx - 3, gy - 3, gx + 3, gy + 3), fill=c.shape)
-    elif kind == 2:    # diagonal hairlines
-        for k in range(-H, W, 70):
-            d.line((k, 0, k + H, H), fill=c.shape, width=3)
-    elif kind == 3:    # soft corner glow
-        glow = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-        gd = ImageDraw.Draw(glow)
-        gd.ellipse((W - 700, -300, W + 300, 700), fill=mix(c.bg, c.accent, 0.35) + "88")
-        c.img.paste(glow.filter(ImageFilter.GaussianBlur(120)), (0, 0), glow.filter(ImageFilter.GaussianBlur(120)))
-        c.d = ImageDraw.Draw(c.img)
-    elif kind == 4:    # wide subtle diagonal band
-        d.polygon([(0, H * 0.58), (W, H * 0.36), (W, H * 0.36 + 220), (0, H * 0.58 + 220)], fill=c.shape)
-    else:              # rings
-        for r in (260, 400, 540):
-            d.ellipse((W - 180 - r, 160 - r, W - 180 + r, 160 + r), outline=c.shape, width=5)
-            d.ellipse((120 - r, H - 120 - r, 120 + r, H - 120 + r), outline=c.shape, width=5)
+    ef, uf = sans(26, 700), urdu(40)
+    et, ut = c.label_en, c.label_ur
+    ew = spaced_width(et, ef, 6)
+    uw = uf.getlength(ut)
+    lab_w = ew + 28 + uw
+    pill_w = 0
+    if c.breaking:
+        pf = sans(22, 800) if c.english else urdu(40)
+        pt = "BREAKING" if c.english else "بریکنگ نیوز"
+        pill_w = (spaced_width(pt, pf, 4) if c.english else pf.getlength(pt)) + 44
+    total = lab_w + (pill_w + 22 if pill_w else 0)
+    x0 = x - total / 2 if align == "m" else x if align == "l" else x - total
+    cx = x0
+    if c.breaking:
+        d.rounded_rectangle((cx, y - 28, cx + pill_w, y + 32), radius=10, fill=RED)
+        if c.english:
+            spaced(d, cx + 22, y + 11, pt, pf, "#FFFFFF", 4, "l")
+        else:
+            d.text((cx + pill_w / 2, y + 0), pt, font=pf, fill="#FFFFFF", anchor="mm")
+        cx += pill_w + 22
+    spaced(d, cx, y + 12, et, ef, c.acc, 6, "l")
+    d.text((cx + ew + 28, y - 6), ut, font=uf, fill=c.acc, anchor="lm")
+    ly = y + 38
+    hx0 = x0 if align == "l" else (x - 40 if align == "m" else x - 80)
+    d.line((hx0, ly, hx0 + 80, ly), fill=c.acc, width=3)
 
 
-# ---------- layouts ----------
-def L0(c):  # classic
-    oy = 140 if c.breaking else 0
-    faint_icon(c, 50, 300 + oy // 2, 460)
-    brand(c, M, 60 + oy, 140)
-    c.d.text((W - M, 470 + oy // 2), c.label, font=(latin(34, 700) if c.english else urdu(42)), fill=c.mu, anchor="rm")
-    c.d.rectangle((W - M - 130, 515 + oy // 2, W - M, 525 + oy // 2), fill=c.accent)
-    f, lines, lh = fit_main(c, W - 2 * M, 500 - oy // 2)
-    y = draw_lines(c, lines, f, lh, 550 + oy // 2)
-    sub_line(c, min(max(y + 10, 900), H - 150 - 30 - 104))
-    footer(c, H - 150)
+def text_block(c, x, align, top, bottom, start=112, maxlines=4, valign="m"):
+    """Label + headline + translation/source, vertically centred in [top, bottom]."""
+    max_h = bottom - top - 70 - 30 - under_height(c) - 20
+    f, lines, lh = fit_headline(c, 940 if align != "m" else 900, max_h, start=start, maxlines=maxlines)
+    total = 70 + 30 + len(lines) * lh + 20 + under_height(c)
+    y0 = top + (bottom - top - total) / 2 if valign == "m" else top
+    label_row(c, x, y0 + 28, align)
+    y = draw_headline(c, f, lines, lh, x, y0 + 100, align)
+    under_text(c, x, y + 20, align)
 
 
-def L1(c):  # centred
-    oy = 140 if c.breaking else 0
-    faint_icon(c, W // 2 - 280, 200 + oy, 560, 0.06)
-    brand(c, W // 2 - 60, 50 + oy, 120, align="center")
-    c.d.text((W // 2, 430 + oy), c.label, font=(latin(34, 700) if c.english else urdu(42)), fill=c.accent, anchor="mm")
-    f, lines, lh = fit_main(c, W - 2 * M, 560 - oy, start=104)
-    y = draw_lines(c, lines, f, lh, 480 + oy, x=W // 2, anchor="mm")
-    sub_line(c, min(max(y + 6, 960), H - 260), x=W // 2, anchor="ma", size=38)
-    footer(c, H - 140, center=True)
+# ---------- icon watermark + optional licensed-photo backdrop ----------
+def watermark(c, size, x, y, strength=None):
+    st = strength if strength is not None else (0.13 if c.dark else 0.09)
+    col = mix(CHARCOAL if c.dark else IVORY, c.acc, st)
+    ic = icon(c.icon_name, size, col, "0.8")
+    c.img.paste(ic, (int(x), int(y)), ic)
+    c.d = ImageDraw.Draw(c.img)
 
 
-def L2(c):  # frame
-    oy = 140 if c.breaking else 0
-    c.d.rectangle((26, 26 + oy, W - 26, H - 26), outline=c.accent, width=8)
-    c.d.rectangle((50, 50 + oy, W - 50, H - 50), outline=mix(c.bg, c.tx, 0.16), width=2)
-    faint_icon(c, W - 470, H - 640, 400, 0.07)
-    c.d.text((W // 2, 130 + oy), c.label, font=(latin(38, 700) if c.english else urdu(46)), fill=c.accent, anchor="mm")
-    f, lines, lh = fit_main(c, W - 2 * M - 20, 620 - oy, start=110)
-    top = max(250 + oy, 470 - len(lines) * lh / 2 + oy / 2)
-    y = draw_lines(c, lines, f, lh, top, x=W // 2, anchor="mm")
-    sub_line(c, min(max(y + 10, 900), H - 330), x=W // 2, anchor="ma", size=38)
-    brand(c, W // 2 - 55, H - 290, 110, align="center")
-
-
-def L3(c):  # spotlight: circle holds the icon (or the person's photo)
-    oy = 140 if c.breaking else 0
-    cy = 340 + oy
-    c.d.ellipse((W // 2 - 270, cy - 270, W // 2 + 270, cy + 270), fill=c.shape)
-    c.d.ellipse((W // 2 - 215, cy - 215, W // 2 + 215, cy + 215), outline=c.accent, width=6)
-    if c.person:
-        c.img.paste(circle_photo_img(c.person, 400), (W // 2 - 200, cy - 200), circle_photo_img(c.person, 400))
-        if c.credit:
-            c.d.text((W // 2, cy + 232), c.credit, font=latin(22, 400), fill=c.mu, anchor="ma")
-    else:
-        ic = icon(c.icon, 230, c.tx, "1.3")
-        c.img.paste(ic, (W // 2 - 115, cy - 115), ic)
-    brand(c, M, 50 + oy, 90)
-    c.d.text((W // 2, cy + 300), c.label, font=(latin(36, 700) if c.english else urdu(42)), fill=c.accent, anchor="mm")
-    f, lines, lh = fit_main(c, W - 2 * M, 410 - oy // 2, start=96, maxlines=4)
-    y = draw_lines(c, lines, f, lh, cy + 335, x=W // 2, anchor="mm")
-    sub_line(c, min(max(y + 4, 1130), H - 215), x=W // 2, anchor="ma", size=34, maxlines=1)
-    footer(c, H - 140, center=True)
-
-
-def L4(c):  # card
-    oy = 140 if c.breaking else 0
-    brand(c, M, 60 + oy, 120)
-    f, lines, lh = fit_main(c, W - 2 * M - 70, 560 - oy // 2, start=100)
-    top = 330 + oy
-    bottom = top + 110 + len(lines) * lh + 30
-    c.d.rounded_rectangle((M - 10, top, W - M + 10, bottom), radius=36, fill=c.shape)
-    c.d.rounded_rectangle((W - M - 4, top + 30, W - M + 4, bottom - 30), radius=4, fill=c.accent)
-    c.d.text((W - M - 36, top + 60), c.label, font=(latin(34, 700) if c.english else urdu(40)), fill=c.accent, anchor="rm")
-    draw_lines(c, lines, f, lh, top + 100, x=W - M - 36)
-    sub_line(c, min(bottom + 30, H - 250), x=W - M, size=38)
-    footer(c, H - 130, line=False)
-
-
-def L5(c):  # portrait: person photo fades into the background (only used when a photo exists)
-    oy = 140 if c.breaking else 0
-    ph = c.person.convert("RGB")
-    side = min(ph.size)
-    ph = ph.crop(((ph.width - side) // 2, 0, (ph.width - side) // 2 + side, side)).resize((W, W), Image.LANCZOS)
-    mask = Image.linear_gradient("L").rotate(180).resize((W, W))        # opaque top -> transparent bottom
-    mask = ImageOps.autocontrast(mask).point(lambda v: min(255, int(v * 1.25)))
-    c.img.paste(ph, (0, oy), mask)
+def backdrop_photo(c, side="right"):
+    """A licence-checked photo of the person in the story, faded into the background."""
+    if c.person is None:
+        return
+    ph = c.person
+    r = 980 / ph.height
+    ph = ph.resize((int(ph.width * r), 980), Image.LANCZOS)
+    w, h = ph.size
+    xs = np.linspace(0, 1, w)[None, :]
+    ys = np.linspace(0, 1, h)[:, None]
+    m = np.clip(xs / 0.55, 0, 1) if side == "right" else np.clip((1 - xs) / 0.55, 0, 1)
+    m = m * np.clip((1 - ys) / 0.5, 0, 1) * np.clip(ys / 0.15, 0, 1)
+    m = (m * m * (3 - 2 * m)) * 0.42
+    alpha = Image.fromarray((m * 255).astype("uint8"), "L")
+    px = W - w if side == "right" else 0
+    c.img.paste(ph.convert("RGB"), (px, 150), alpha)
     c.d = ImageDraw.Draw(c.img)
     if c.credit:
-        c.d.text((W - M, oy + 640), c.credit, font=latin(22, 400), fill=c.mu, anchor="ra")
-    brand(c, M, 40 + oy, 100)
-    c.d.text((W - M, 700 + oy // 3), c.label, font=(latin(34, 700) if c.english else urdu(42)), fill=c.accent, anchor="rm")
-    f, lines, lh = fit_main(c, W - 2 * M, 430 - oy // 2, start=96, maxlines=4)
-    y = draw_lines(c, lines, f, lh, 740 + oy // 3)
-    sub_line(c, min(max(y + 4, 1160), H - 215), size=34, maxlines=1)
-    footer(c, H - 130)
+        c.d.text((W - M if side == "right" else M, 1170), c.credit, font=sans(20, 500), fill=c.mute,
+                 anchor="rb" if side == "right" else "lb")
 
 
-def circle_photo_img(im, size):
-    side = min(im.size)
-    im = im.convert("RGB").crop(((im.width - side) // 2, 0, (im.width - side) // 2 + side, side)).resize((size, size), Image.LANCZOS)
-    mask = Image.new("L", (size, size), 0)
-    ImageDraw.Draw(mask).ellipse((0, 0, size - 1, size - 1), fill=255)
-    out = Image.new("RGBA", (size, size), (0, 0, 0, 0))
-    out.paste(im, (0, 0), mask)
-    return out
-
-
-PLAIN = [L0, L1, L2, L3, L4]
-WITH_PERSON = [L5, L3]
-
-
-def stylise_person(path, c):
-    """Duotone grade in the poster's colours: a recognisable Adeel Raja look for third-party photos."""
+def stylise_person(path, acc):
     im = ImageOps.autocontrast(Image.open(path).convert("L"), cutoff=2)
-    tone = ImageOps.colorize(im, black=mix(c.bg, "#000000", 0.35), mid=mix(c.bg, c.accent, 0.45), white="#FFFFFF")
-    return tone
+    return ImageOps.colorize(im, black="#0B0B0D", mid=mix("#0B0B0D", acc, 0.35), white="#E9E4D9")
+
+
+def finish(c, line_y=1200):
+    c.d.line((M, line_y, W - M, line_y), fill=c.rule, width=2)
+    social_footer(c.img, W // 2, line_y + 30, c.ink, c.sub)
+
+
+# ---------- the four templates ----------
+def T1(c, flip, style):
+    backdrop_photo(c, "right")
+    watermark(c, 880, (W - 880) // 2 + (60 if flip else -60), 330)
+    cx = M - 12 if not flip else W - M - 96 - 10
+    pc = portrait_circle(96, c.gold)
+    c.img.paste(pc, (cx, 56), pc)
+    lockup(c.img, W // 2, 62, "m", 1.0, c.ink, c.sub, c.gold)
+    text_block(c, W // 2, "m", 290, 1170, start=116)
+    finish(c)
+
+
+def T2(c, flip, style):
+    backdrop_photo(c, "left" if flip else "right")
+    watermark(c, 820, W - 560 if not flip else -260, 640)
+    pc = portrait_circle(104, c.gold)
+    c.img.paste(pc, (M, 58), pc)
+    lockup(c.img, M + pc.width + 24, 62, "l", 0.80, c.ink, c.sub, c.gold)
+    text_block(c, W - M, "r", 280, 1170, start=116)
+    finish(c)
+
+
+def T3(c, flip, style):
+    backdrop_photo(c, "right")
+    watermark(c, 900, W - 640 if not flip else -260, -140)
+    text_block(c, W - M if not flip else W // 2, "r" if not flip else "m", 90, 900, start=116)
+    pc = portrait_circle(100, c.gold)
+    if not flip:
+        c.img.paste(pc, (M, 960), pc)
+        lockup(c.img, M + pc.width + 24, 962, "l", 0.80, c.ink, c.sub, c.gold)
+    else:
+        c.img.paste(pc, (W // 2 - 330, 960), pc)
+        lockup(c.img, W // 2 - 330 + pc.width + 24, 962, "l", 0.80, c.ink, c.sub, c.gold)
+    finish(c)
+
+
+def T4(c, flip, style):
+    backdrop_photo(c, "left")
+    watermark(c, 860, -200 if not flip else W - 640, 600)
+    if not flip:
+        lockup(c.img, M, 62, "l", 0.92, c.ink, c.sub, c.gold)
+        pc = portrait_circle(120, c.gold, 5)
+        c.img.paste(pc, (W - M - pc.width, 70), pc)
+    else:
+        lockup(c.img, W - M, 62, "r", 0.92, c.ink, c.sub, c.gold)
+        pc = portrait_circle(120, c.gold, 5)
+        c.img.paste(pc, (M, 70), pc)
+    text_block(c, W - M, "r", 290, 1170, start=116)
+    finish(c, 1195)
+
+
+TEMPLATES = [T1, T2, T3, T4]
 
 
 def render(headline_ur, headline_en, category, breaking, sources, handle, out_path, variant=0, tag=None,
            person=None, credit=None):
-    icon_name, label_ur, label_en = CATS.get(category, CATS["other"])
-    pal = PALETTES[(variant * 3 + sum(map(ord, category))) % len(PALETTES)]
+    """Same signature the bot already calls. variant selects template / flip / background style."""
+    icon_name, lab_ur, lab_en, acc = CATS.get(category, CATS["other"])
     c = Ctx()
-    c.bg, c.shape, c.accent, c.tx, c.mu = pal
-    c.sub = mix(c.bg, c.tx, 0.80)
+    t = variant % 4
+    flip = (variant // 4) % 2
+    style = (variant // 8) % 3
+    c.dark = t != 3
+    c.acc = RED if breaking else acc
+    if not c.dark:
+        c.acc = mix(c.acc, "#000000", 0.30)
+    c.gold = GOLD if c.dark else "#B08D4F"
+    c.ink = IVORY if c.dark else CHARCOAL
+    c.sub = SILVER if c.dark else "#5E584B"
+    c.mute = MUTED if c.dark else "#8A8272"
+    c.rule = "#34343A" if c.dark else "#C9BFA9"
+    c.panel_bg = CHAR2 if c.dark else "#E4DCCB"
     c.english = not (headline_ur or "").strip()
-    c.ur, c.en, c.icon = headline_ur or "", headline_en or "", icon_name
-    c.label = label_en if c.english else label_ur
-    c.breaking, c.sources, c.handle, c.credit = breaking, sources or [], handle, credit
-    base = Image.new("RGB", (W, H), c.bg)
-    dark = Image.new("RGB", (W, H), mix(c.bg, "#000000", 0.38))
-    c.img = Image.composite(dark, base, Image.linear_gradient("L").resize((W, H)))
-    c.d = ImageDraw.Draw(c.img)
-    decor(c, (variant + sum(map(ord, category))) % NDECOR)
+    c.ur, c.en = headline_ur or "", headline_en or ""
+    c.icon_name, c.label_ur, c.label_en = icon_name, lab_ur, lab_en
+    c.breaking, c.credit = breaking, credit
+    c.source = (sources or [""])[0]
     c.person = None
     if person and os.path.exists(person):
         try:
-            c.person = stylise_person(person, c)
+            c.person = stylise_person(person, c.acc)
         except Exception:
             c.person = None
-    layouts = WITH_PERSON if c.person is not None else PLAIN
-    layouts[variant % len(layouts)](c)
-    if breaking:
-        ribbon(c)
-    c.img.save(out_path, "JPEG", quality=92)
+    c.img = background(c, style)
+    c.d = ImageDraw.Draw(c.img)
+    TEMPLATES[t](c, flip, style)
+    c.img.save(out_path, "JPEG", quality=94)
     return out_path
+
+
+class Ctx:
+    pass
