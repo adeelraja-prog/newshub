@@ -252,7 +252,8 @@ def draw_headline(c, f, lines, lh, x, y, align):
 
 
 def under_height(c):
-    return (58 if (not c.english and c.en) else 0) + (40 if c.source else 0)
+    # Reserve room for the red editorial divider and the English translation.
+    return (76 if (not c.english and c.en) else 0) + (40 if c.source else 0)
 
 
 def under_text(c, x, y, align):
@@ -262,8 +263,18 @@ def under_text(c, x, y, align):
     if c.english and align == "r":
         anchor, x = "la", M
     if not c.english and c.en:
-        d.text((x, y), c.en, font=sans(36, 500), fill=c.sub, anchor=anchor)
-        y += 58
+        # Separate the primary Urdu headline from its English translation.
+        # Keep the rule aligned with the headline block across all four templates.
+        rule_w, rule_y = 88, y + 5
+        if align == "m":
+            rule_x1 = x - rule_w / 2
+        elif align == "r":
+            rule_x1 = x - rule_w
+        else:
+            rule_x1 = x
+        d.line((rule_x1, rule_y, rule_x1 + rule_w, rule_y), fill=RED, width=4)
+        d.text((x, y + 37), c.en, font=sans(36, 500), fill=c.sub, anchor=anchor)
+        y += 76
     if c.source:
         d.text((x, y), "Source: " + c.source, font=sans(26, 500), fill=c.mute, anchor=anchor)
         y += 40
