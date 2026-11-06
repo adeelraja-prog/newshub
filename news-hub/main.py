@@ -349,6 +349,8 @@ def gemini_json(prompt):
     # Free-tier providers are optional. The workflow reads credentials from repository
     # secrets; absent credentials are skipped without stopping RSS collection or queue work.
     providers = [
+        ("Groq-Free", env("GROQ_API_KEY"), "https://api.groq.com/openai/v1/chat/completions",
+         (env("GROQ_MODEL") or "openai/gpt-oss-20b"), {}),
         ("Cloudflare-Workers-AI-Free", env("CLOUDFLARE_API_TOKEN"),
          f"https://api.cloudflare.com/client/v4/accounts/{env('CLOUDFLARE_ACCOUNT_ID')}/ai/v1/chat/completions"
          if env("CLOUDFLARE_ACCOUNT_ID") else "",
