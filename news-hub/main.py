@@ -591,14 +591,19 @@ def enqueue(queue, story, w, caption, t0):
 
 
 def housekeeping(queue, t0):
+    # Never silently discard a queued story. Once its planned slot is too old,
+    # retain it for editorial review instead of marking it expired.
     for it in queue["items"]:
-        if it["status"] == "queued":  # stale only counts from the scheduled time, never before it
+        if it["status"] == "queued":
             ttl = 3 if it.get("type") == "engage" else {"breaking": 3, "high": 6, "promo": 24}.get(it["priority"], QUEUE_TTL_H)
             if t0 - parse(it["not_before"]) > timedelta(hours=ttl):
-                it["status"] = "expired"
+                it["status"] = "needs_review"
+                it["needs_review_at"] = iso(t0)
+                it["review_reason"] = "Scheduled slot passed; retained for editorial review, not published or deleted."
+    # Keep review items until explicitly resolved; retain recent history for audit.
     cutoff = t0 - timedelta(days=3)
     queue["items"] = [i for i in queue["items"]
-                      if parse(i["created"]) > cutoff or i["status"] == "queued"]
+                      if parse(i["created"]) > cutoff or i["status"] in ("queued", "needs_review")]
 
 
 def last_published(queue):
