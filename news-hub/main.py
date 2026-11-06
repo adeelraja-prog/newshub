@@ -351,10 +351,14 @@ def gemini_json(prompt):
     providers = [
         ("Groq-Free", env("GROQ_API_KEY"), "https://api.groq.com/openai/v1/chat/completions",
          (env("GROQ_MODEL") or "openai/gpt-oss-20b"), {}),
-        ("Cloudflare-Workers-AI-Free", env("CLOUDFLARE_API_TOKEN"),
+        ("Cloudflare-Gemma4-Free", env("CLOUDFLARE_API_TOKEN"),
          f"https://api.cloudflare.com/client/v4/accounts/{env('CLOUDFLARE_ACCOUNT_ID')}/ai/v1/chat/completions"
          if env("CLOUDFLARE_ACCOUNT_ID") else "",
-         (env("CLOUDFLARE_MODEL") or "@cf/zai-org/glm-4.7-flash"), {}),
+         (env("CLOUDFLARE_MODEL") or "@cf/google/gemma-4-26b-a4b-it"), {}),
+        ("Cloudflare-GLM47-Free", env("CLOUDFLARE_API_TOKEN"),
+         f"https://api.cloudflare.com/client/v4/accounts/{env('CLOUDFLARE_ACCOUNT_ID')}/ai/v1/chat/completions"
+         if env("CLOUDFLARE_ACCOUNT_ID") else "",
+         "@cf/zai-org/glm-4.7-flash", {}),
         ("OpenRouter-Free", env("OPENROUTER_API_KEY"), "https://openrouter.ai/api/v1/chat/completions",
          (env("OPENROUTER_MODEL") or "openrouter/free"), {"HTTP-Referer": "https://github.com/adeelraja-prog/newshub",
                                                        "X-Title": "Adeel Raja News Hub"}),
