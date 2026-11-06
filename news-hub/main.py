@@ -82,7 +82,7 @@ BREAK_URGENCY, BREAK_CONFIDENCE = fnum("BREAK_URGENCY", 85), fnum("BREAK_CONFIDE
 ANALYSE_TOP = fnum("ANALYSE_TOP", 30)
 POOL_HOURS = fnum("POOL_HOURS", 6)
 
-USAGE = {"calls": 0, "prompt_tokens": 0, "output_tokens": 0, "errors": []}
+USAGE = {"calls": 0, "prompt_tokens": 0, "output_tokens": 0, "errors": [], "providers_used": None, "ai_unavailable": False}
 
 
 # ---------- helpers ----------
@@ -254,53 +254,123 @@ THINKING = env("GEMINI_THINKING", "low")
 RETRY_CODES = {500, 502, 503, 504}
 
 
+def _openai_compatible_json(provider, url, key, model, prompt, deadline, extra_headers=None):
+    """Call a configured OpenAI-compatible free-tier provider; never silently use a paid model."""
+    left = deadline - time.time()
+    if left <= 5:
+        raise RuntimeError(f"{provider}: shared AI time budget exhausted")
+    headers = {"Authorization": f"Bearer {key}", "Content-Type": "application/json"}
+    headers.update(extra_headers or {})
+    body = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": "Return only valid JSON. Follow the user's requested JSON schema exactly. Do not invent facts, sources, quotes, or URLs."},
+            {"role": "user", "content": prompt},
+        ],
+        "temperature": 0.2,
+        "response_format": {"type": "json_object"},
+        "stream": False,
+    }
+    USAGE["calls"] += 1
+    response = requests.post(url, headers=headers, json=body, timeout=min(55, left))
+    if response.status_code != 200:
+        raise RuntimeError(f"{provider}: HTTP {response.status_code} {response.text[:180]}")
+    payload = response.json()
+    content = payload["choices"][0]["message"]["content"]
+    if isinstance(content, list):
+        content = "".join(x.get("text", "") for x in content if isinstance(x, dict))
+    result = json.loads(content)
+    USAGE["providers_used"] = provider
+    usage = payload.get("usage") or {}
+    USAGE["prompt_tokens"] += usage.get("prompt_tokens", 0) or 0
+    USAGE["output_tokens"] += usage.get("completion_tokens", 0) or 0
+    print(f"[ai] successful provider: {provider} ({model})")
+    return result
+
+
 def gemini_json(prompt):
+    """AI failover chain: Gemini models -> Groq -> OpenRouter free router -> Cloudflare Workers AI.
+    Providers are skipped unless their credentials exist. No paid model is selected by this code.
+    If all providers fail, callers retain stories for a later run; fact-check remains fail-closed.
+    """
     cfg = {"temperature": 0.2, "responseMimeType": "application/json", "maxOutputTokens": 16384}
     if THINKING:
         cfg["thinkingConfig"] = {"thinkingLevel": THINKING}
     body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": cfg}
-    headers = {"x-goog-api-key": env("GEMINI_API_KEY")}
+    gemini_key = env("GEMINI_API_KEY")
     deadline = time.time() + BUDGET
-    last = "no attempt made"
-    for model in dict.fromkeys(MODELS):
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-        attempt = 0
-        while attempt < 3:
-            left = deadline - time.time()
-            if left <= 5:
-                USAGE["errors"].append("time budget used up")
-                raise RuntimeError(f"Gemini failed (time budget used up): {last}")
-            try:
-                USAGE["calls"] += 1
-                r = requests.post(url, headers=headers, json=body, timeout=min(100, left))
-                if r.status_code == 200:
-                    data = r.json()
-                    um = data.get("usageMetadata", {})
-                    USAGE["prompt_tokens"] += um.get("promptTokenCount", 0)
-                    USAGE["output_tokens"] += um.get("candidatesTokenCount", 0)
-                    return json.loads(data["candidates"][0]["content"]["parts"][0]["text"])
-                last = f"{model}: {r.status_code} {r.text[:160]}"
-                USAGE["errors"].append(last)
-                if r.status_code == 400 and "thinking" in r.text.lower() and "thinkingConfig" in cfg:
-                    del cfg["thinkingConfig"]
-                    continue
-                if r.status_code == 429:  # honour Retry-After once; otherwise treat as quota exhausted
-                    ra = r.headers.get("Retry-After", "")
-                    if ra.isdigit() and int(ra) <= 60 and attempt == 0:
-                        time.sleep(int(ra))
-                        attempt += 1
+    last = "no configured provider succeeded"
+    if gemini_key:
+        for model in dict.fromkeys(MODELS):
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+            attempt = 0
+            while attempt < 3:
+                left = deadline - time.time()
+                if left <= 5:
+                    break
+                try:
+                    USAGE["calls"] += 1
+                    r = requests.post(url, headers={"x-goog-api-key": gemini_key}, json=body,
+                                      timeout=min(70, left))
+                    if r.status_code == 200:
+                        data = r.json()
+                        um = data.get("usageMetadata", {})
+                        USAGE["prompt_tokens"] += um.get("promptTokenCount", 0)
+                        USAGE["output_tokens"] += um.get("candidatesTokenCount", 0)
+                        result = json.loads(data["candidates"][0]["content"]["parts"][0]["text"])
+                        USAGE["providers_used"] = "Gemini"
+                        print(f"[ai] successful provider: Gemini ({model})")
+                        return result
+                    last = f"Gemini {model}: HTTP {r.status_code} {r.text[:160]}"
+                    USAGE["errors"].append(last)
+                    if r.status_code == 400 and "thinking" in r.text.lower() and "thinkingConfig" in cfg:
+                        del cfg["thinkingConfig"]
                         continue
-                    break
-                if r.status_code not in RETRY_CODES:
-                    break
-            except Exception as ex:
-                last = f"{model}: {ex}"
-                USAGE["errors"].append(last)
-            attempt += 1
-            if attempt < 3:
-                time.sleep(min(5 * 2 ** (attempt - 1), max(deadline - time.time() - 5, 0)))
-        print(f"[warn] Gemini {last}")
-    raise RuntimeError(f"Gemini failed: {last}")
+                    if r.status_code == 429:
+                        retry_after = r.headers.get("Retry-After", "")
+                        if retry_after.isdigit() and int(retry_after) <= 8 and attempt == 0:
+                            time.sleep(int(retry_after))
+                            attempt += 1
+                            continue
+                        break
+                    if r.status_code not in RETRY_CODES:
+                        break
+                except Exception as ex:
+                    last = f"Gemini {model}: {ex}"
+                    USAGE["errors"].append(last)
+                attempt += 1
+                if attempt < 3:
+                    time.sleep(min(3 * 2 ** (attempt - 1), max(deadline - time.time() - 5, 0)))
+            print(f"[warn] {last}")
+    else:
+        print("[ai] Gemini key not configured; trying configured backups")
+
+    # Free-tier providers are optional. The workflow reads credentials from repository
+    # secrets; absent credentials are skipped without stopping RSS collection or queue work.
+    providers = [
+        ("Groq", env("GROQ_API_KEY"), "https://api.groq.com/openai/v1/chat/completions",
+         env("GROQ_MODEL", "openai/gpt-oss-20b"), {}),
+        ("OpenRouter-Free", env("OPENROUTER_API_KEY"), "https://openrouter.ai/api/v1/chat/completions",
+         env("OPENROUTER_MODEL", "openrouter/free"), {"HTTP-Referer": "https://github.com/adeelraja-prog/newshub",
+                                                       "X-Title": "Adeel Raja News Hub"}),
+    ]
+    cf_key, cf_account = env("CLOUDFLARE_API_TOKEN"), env("CLOUDFLARE_ACCOUNT_ID")
+    if cf_key and cf_account:
+        providers.append(("Cloudflare-Workers-AI", cf_key,
+                          f"https://api.cloudflare.com/client/v4/accounts/{cf_account}/ai/v1/chat/completions",
+                          env("CLOUDFLARE_MODEL", "@cf/meta/llama-3.1-8b-instruct"), {}))
+    for provider, key, url, model, headers in providers:
+        if not key:
+            print(f"[ai] {provider} backup not configured; skipped")
+            continue
+        try:
+            return _openai_compatible_json(provider, url, key, model, prompt, deadline, headers)
+        except Exception as ex:
+            last = str(ex)
+            USAGE["errors"].append(last[:200])
+            print(f"[warn] {provider} backup failed: {last[:180]}")
+    USAGE["ai_unavailable"] = True
+    raise RuntimeError(f"All configured AI providers failed or were unavailable: {last}")
 
 
 def clamp(v, default=0):
