@@ -419,10 +419,9 @@ def T4(c, flip, style):
 def T5(c, flip, style):
     """A cleaner, high-contrast headline-first poster: no watermark, portrait badge or decorative clutter."""
     palettes = [
-        (CHARCOAL, IVORY, SILVER, GOLD),                    # 1. Charcoal / ivory / gold
-        (IVORY, CHARCOAL, "#5E584B", "#B08D4F"),             # 2. Ivory / charcoal / antique gold
-        ("#101A2B", IVORY, "#B8C0CC", "#D6B56F"),            # 3. Midnight navy / ivory / champagne
-        ("#281820", "#F6F0E8", "#C9B9B8", "#C99A72"),        # 4. Deep burgundy / warm ivory / copper
+        (CHARCOAL, "#F7F4EE", "#B9B9BE", GOLD),             # 1. Dark Editorial
+        ("#F7F5F0", "#171719", "#66636A", "#B08D4F"),       # 2. Light Editorial
+        ("#FFFFFF", "#171719", "#66636A", RED),             # 3. White + Red
     ]
     bg, ink, sub, gold = palettes[style % len(palettes)]
     c.img = Image.new("RGB", (W, H), bg)
@@ -460,7 +459,7 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
     # Keep four restrained colour treatments rotating for visual variety.
     t = 4
     flip = 0
-    style = variant % 4
+    style = variant % 3
     c.dark = t != 3
     c.acc = RED if breaking else acc
     if not c.dark:
