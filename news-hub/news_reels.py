@@ -244,7 +244,7 @@ def render_story(item,folder):
     cursor=folder/"editorial_cursor.png"; make_cursor(cursor)
     out=folder/"news_story_reel.mp4"; music=folder/"original_news_bed.wav"
     # Give each story beat 4.2 seconds; the old 2.55-second pacing was too fast to read.
-    scene=4.2; outro_time=1.5; duration=scene*3+outro_time
+    scene=4.2; outro_time=1.5; duration=scene*3+outro_time-0.35*3
     make_original_music(music,duration)
     inputs=[]
     for idx,p in enumerate(paths):
@@ -262,13 +262,13 @@ def render_story(item,folder):
       "[x1][v2]xfade=transition=fade:duration=0.35:offset=7.70[x2];"
       "[x2][v3]xfade=transition=wipeleft:duration=0.35:offset=11.55,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,"
-      "drawbox=x=0:y=0:w='iw*min(t/13.5,1)':h=10:color=0xD90429@0.98:t=fill[base];"
+      "drawbox=x=0:y=0:w='iw*min(t/12.7,1)':h=10:color=0xD90429@0.98:t=fill[base];"
       "[5:v]scale=78:96,format=rgba,colorchannelmixer=aa=0.98[cur];"
       "[base][cur]overlay=x='if(lt(t,4.2),170+115*t,if(lt(t,8.4),650-105*(t-4.2),180+75*(t-8.4)))':"
       "y='if(lt(t,4.2),690+22*sin(t*2),if(lt(t,8.4),910-25*sin(t*2),700+18*sin(t*2)))':"
       "enable='between(t,0.55,12.0)'[v];"
       "[4:a]aresample=44100,afade=t=in:st=0:d=0.3,"
-      "afade=t=out:st=13.4:d=0.5,volume=0.9[a]"
+      "afade=t=out:st=12.55:d=0.5,volume=0.9[a]"
     )
     result=subprocess.run(["ffmpeg","-y",*inputs,"-filter_complex",graph,
         "-map","[v]","-map","[a]","-t",str(duration),"-c:v","libx264","-preset","veryfast",
