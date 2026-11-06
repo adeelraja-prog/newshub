@@ -127,38 +127,55 @@ def add_statements(ledger, candidates):
     return added, rejected
 
 
-def candidate_comparisons(ledger, min_confidence=70):
-    """Find same-person/same-issue records with materially different stance labels.
+def _issue_tokens(value):
+    return {x for x in re.findall(r"[a-z0-9]{3,}", _text(value, 220).casefold())
+            if x not in {"the", "and", "for", "with", "from", "policy", "issue"}}
 
-    This is a lead for an editor, not proof of hypocrisy or a publishable contradiction.
-    """
-    groups = {}
-    for rec in ledger.get("statements", []):
-        if rec.get("confidence", 0) < min_confidence:
-            continue
-        if rec.get("review_status") == "rejected":
-            continue
-        groups.setdefault(rec.get("issue_key"), []).append(rec)
-    out = []
-    for key, rows in groups.items():
-        rows.sort(key=lambda x: x.get("date", ""))
-        if len(rows) < 2:
-            continue
-        for i, older in enumerate(rows[:-1]):
-            for newer in rows[i + 1:]:
-                if older.get("stance") == "unclear" or newer.get("stance") == "unclear":
-                    continue
-                if older.get("stance") == newer.get("stance"):
-                    continue
-                if older.get("person", "").casefold() != newer.get("person", "").casefold():
-                    continue
-                out.append({
-                    "issue_key": key, "person": newer["person"], "topic": newer["topic"],
-                    "older_statement_id": older["id"], "newer_statement_id": newer["id"],
-                    "older_date": older["date"], "newer_date": newer["date"],
-                    "older_source": older["source_name"], "newer_source": newer["source_name"],
-                    "editorial_status": "needs_human_comparison",
-                    "warning": "Different stance labels are a research lead, not proof of contradiction. "
-                               "Check context, wording, dates and whether circumstances changed."
-                })
+
+def _same_issue(a, b):
+    if _text(a.get("person"), 120).casefold() != _text(b.get("person"), 120).casefold():
+        return False
+    ta, tb = _issue_tokens(a.get("topic")), _issue_tokens(b.get("topic"))
+    if not ta or not tb:
+        return False
+    overlap = len(ta & tb) / len(ta | tb)
+    return overlap >= 0.55 or (len(ta & tb) >= 2 and len(ta & tb) / min(len(ta), len(tb)) >= 0.8)
+
+
+def candidate_comparisons(ledger, min_confidence=70):
+    """Create research leads from same-person, same-issue records with changed stance labels."""
+    rows = [r for r in ledger.get("statements", [])
+            if r.get("confidence", 0) >= min_confidence and r.get("review_status") != "rejected"
+            and r.get("stance") in {"support", "oppose", "conditional"}]
+    rows.sort(key=lambda x: (x.get("person", "").casefold(), x.get("date", "")))
+    out, seen = [], set()
+    for i, older in enumerate(rows):
+        for newer in rows[i + 1:]:
+            if newer.get("person", "").casefold() != older.get("person", "").casefold():
+                if newer.get("person", "").casefold() > older.get("person", "").casefold():
+                    break
+                continue
+            if newer.get("date", "") <= older.get("date", "") or older.get("stance") == newer.get("stance"):
+                continue
+            if not _same_issue(older, newer):
+                continue
+            pair = tuple(sorted((older.get("id", ""), newer.get("id", ""))))
+            if pair in seen:
+                continue
+            seen.add(pair)
+            out.append({
+                "comparison_id": hashlib.sha256("|".join(pair).encode()).hexdigest()[:20],
+                "person": newer["person"], "topic": newer["topic"],
+                "older_statement_id": older["id"], "newer_statement_id": newer["id"],
+                "older_date": older["date"], "newer_date": newer["date"],
+                "older_position": older["position"], "newer_position": newer["position"],
+                "older_stance": older["stance"], "newer_stance": newer["stance"],
+                "older_source": older["source_name"], "older_source_url": older["source_url"],
+                "newer_source": newer["source_name"], "newer_source_url": newer["source_url"],
+                "older_evidence": older.get("source_excerpt", ""),
+                "newer_evidence": newer.get("source_excerpt", ""),
+                "editorial_status": "needs_human_comparison",
+                "warning": "Research lead only. Verify original wording, full context, dates, source quality, "
+                           "intervening events and whether the position legitimately changed. Never auto-publish."
+            })
     return out
