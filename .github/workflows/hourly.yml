@@ -48,15 +48,16 @@ jobs:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           WHATSAPP_BRIDGE_URL: ${{ secrets.WHATSAPP_BRIDGE_URL }}
           WHATSAPP_BRIDGE_TOKEN: ${{ secrets.WHATSAPP_BRIDGE_TOKEN }}
-      - name: Download posters and report (dry run preview)
+      - name: Save generated posters, reels and report as workflow artifacts
         if: ${{ always() && github.event.inputs.dry_run == 'true' }}
         uses: actions/upload-artifact@v4
         with:
-          name: posters-and-report
+          name: adeel-raja-news-assets
           path: |
             news-hub/posters/
             news-hub/reels/
             news-hub/reports/
+          retention-days: 7
           if-no-files-found: ignore
       - name: Save memory
         if: ${{ always() && github.event.inputs.dry_run != 'true' }}
