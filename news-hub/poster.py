@@ -438,6 +438,10 @@ def T5(c, flip, style):
     c.d.rectangle((0, 0, 14, H), fill=rail)
     c.d.rectangle((M, 208, W - M, 211), fill=gold)
     lockup(c.img, M, 54, "l", 0.72, c.ink, c.sub, c.gold)
+    # Restore Adeel Raja's circular portrait badge on the clean Editorial Hero.
+    # The source asset is news-hub/assets/adeel.jpg and remains the canonical portrait.
+    pc = portrait_circle(112, c.gold, 5)
+    c.img.paste(pc, (W - M - pc.width, 48), pc)
     label_row(c, M, 300, "l")
 
     align = "l" if c.english else "r"
