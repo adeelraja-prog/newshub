@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-11T05:20:28.508138+00:00",
+  "statements": [
+    {
+      "person": "Salman Safdar",
+      "topic": "Imran Khan blood pressure",
+      "position": "Stated that Imran Khan's blood pressure had reportedly reached 192 on 1 November 2026.",
+      "quote": "",
+      "quote_verified": false,
+      "date": "2026-11-01",
+      "source_name": "ARY News",
+      "source_url": "https://arynews.tv/pti-founder-at-risk-of-brain-haemorrhage-and-heart-attack-lawyer-warns",
+      "kind": "reported_position",
+      "stance": "unclear",
+      "confidence": 100,
+      "source_excerpt": "Barrister Safdar said Imran Khan’s blood pressure had reportedly reached 192 on 1 November 2026.",
+      "review_status": "needs_editor_review",
+      "id": "46704b0990fa59999920a9d4",
+      "issue_key": "767b23043ba9b7cb2267"
+    }
+  ]
+}
