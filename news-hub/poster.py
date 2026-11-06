@@ -426,6 +426,8 @@ def T5(c, flip, style):
     bg, ink, sub, gold = palettes[style % len(palettes)]
     c.img = Image.new("RGB", (W, H), bg)
     c.d = ImageDraw.Draw(c.img)
+    # Editorial photo backdrop, duotone processed in the channel's visual identity.
+    backdrop_photo(c, "right" if c.english else "left")
     c.ink, c.sub, c.gold = ink, sub, gold
     if style == 2:
         c.acc = RED
