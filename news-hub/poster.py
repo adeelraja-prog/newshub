@@ -456,10 +456,10 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
     """Same signature the bot already calls. variant selects template / flip / background style."""
     icon_name, lab_ur, lab_en, acc = CATS.get(category, CATS["other"])
     c = Ctx()
-    # Keep the four established compositions in rotation and introduce the new editorial hero
-    # immediately, then once every five posters. Existing render(...) callers remain unchanged.
-    t = 4 if variant % 5 == 0 else (variant - 1) % 4
-    flip = (variant // 5) % 2
+    # Approved standard: the clean Editorial Hero (T5) is now the only poster layout.
+    # Keep the three restrained colour treatments rotating for visual variety.
+    t = 4
+    flip = 0
     style = (variant // 10) % 3
     c.dark = t != 3
     c.acc = RED if breaking else acc
