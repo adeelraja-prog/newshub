@@ -21,7 +21,7 @@ def wrap(text,f,width):
     return lines
 def verified(item):
     m=item.get("meta") or {}; o=m.get("original_source") or {}; d=m.get("discovery") or {}
-    return (m.get("fact_check")=="passed" and m.get("claim_status") not in ("unverified","allegation")
+    return (m.get("fact_check")=="passed" and m.get("claim_status") == "confirmed"
             and int((m.get("scores") or {}).get("confidence",0))>=70
             and bool(o.get("url") or d.get("url")) and bool(item.get("source_name")))
 def panels(item):
