@@ -169,16 +169,25 @@ def render_story(item,folder):
     for idx,p in enumerate(paths):
         inputs += ["-loop","1","-t",f"{scene if idx<3 else outro_time:.2f}","-i",str(p)]
     inputs += ["-i",str(music)]
+    # Normalize EVERY visual input to identical 30 fps, 1/30 timebase,
+    # zero-based PTS, square pixels and yuv420p BEFORE xfade.  Merely setting
+    # output -r or settb on the final output does not normalize xfade inputs.
     graph=(
-      "[0:v]zoompan=z='min(zoom+0.00035,1.025)':d=77:s=1080x1920:fps=30,format=yuv420p[v0];"
-      "[1:v]zoompan=z='min(zoom+0.00030,1.022)':d=77:s=1080x1920:fps=30,format=yuv420p[v1];"
-      "[2:v]zoompan=z='min(zoom+0.00035,1.025)':d=77:s=1080x1920:fps=30,format=yuv420p[v2];"
-      "[3:v]scale=1080:1920,format=yuv420p[v3];"
+      "[0:v]zoompan=z='min(zoom+0.00035,1.025)':d=77:s=1080x1920:fps=30,"
+      "fps=30,settb=expr=1/30,setpts=PTS-STARTPTS,setsar=1,format=yuv420p[v0];"
+      "[1:v]zoompan=z='min(zoom+0.00030,1.022)':d=77:s=1080x1920:fps=30,"
+      "fps=30,settb=expr=1/30,setpts=PTS-STARTPTS,setsar=1,format=yuv420p[v1];"
+      "[2:v]zoompan=z='min(zoom+0.00035,1.025)':d=77:s=1080x1920:fps=30,"
+      "fps=30,settb=expr=1/30,setpts=PTS-STARTPTS,setsar=1,format=yuv420p[v2];"
+      "[3:v]scale=1080:1920,fps=30,settb=expr=1/30,setpts=PTS-STARTPTS,"
+      "setsar=1,format=yuv420p[v3];"
       "[v0][v1]xfade=transition=smoothleft:duration=0.28:offset=2.27[x1];"
       "[x1][v2]xfade=transition=fade:duration=0.26:offset=4.54[x2];"
       "[x2][v3]xfade=transition=wipeleft:duration=0.22:offset=6.81,"
+      "fps=30,settb=expr=1/30,setpts=PTS-STARTPTS,"
       "drawbox=x=0:y=0:w='iw*min(t/0.65,1)':h=8:color=0xD90429@0.98:t=fill[v];"
-      "[4:a]afade=t=in:st=0:d=0.25,afade=t=out:st=7.8:d=0.18,volume=1.0[a]"
+      "[4:a]aresample=44100,afade=t=in:st=0:d=0.25,"
+      "afade=t=out:st=7.8:d=0.18,volume=1.0[a]"
     )
     result=subprocess.run(["ffmpeg","-y",*inputs,"-filter_complex",graph,
         "-map","[v]","-map","[a]","-t",str(duration),"-c:v","libx264","-preset","veryfast",
