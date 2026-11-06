@@ -23,6 +23,8 @@ import requests
 
 import editorial as ed
 import poster
+import news_memory as nm
+import controversy as controversy_desk
 import youtube_promo as yt
 from sources import SOURCES
 
@@ -557,8 +559,10 @@ def write_batch(stories):
                  f"first reported by: {s['discovery']['name']}; independent corroboration: "
                  f"{', '.join(s['corroborating']) or 'none identified'}; claim status: {s['claim_status']}")
         blobs.append(" ".join([heads, s["excerpt"], s["event"]]))
+        memory_context = s.get("related_memory") or []
         blocks.append(f"STORY {n}\nEvent: {s['event']}\nHeadlines: {heads}\nText: {s['excerpt'][:1200] or 'headlines only'}\n"
-                      f"Category: {s['category']}\nAttribution facts: {facts}")
+                      f"Category: {s['category']}\nRelated dated archive (research leads only; do not present as verified current facts): {memory_context}\n"
+                      f"Attribution facts: {facts}")
     data = gemini_json(writing_prompt(blocks))
     out = {}
     need = ("headline_primary", "headline_alt", "poster_headline_ur", "poster_headline_en", "caption_opening",
@@ -1338,6 +1342,12 @@ def main():
         state["last_analysis"] = iso(t0)
         try:
             stories = analyse(candidates)
+            memory_path = os.path.join(STATE_DIR, "event-memory.json")
+            for story in stories:
+                story["related_memory"] = nm.related_memory(story, memory_path, limit=3)
+            if not DRY_RUN and stories:
+                added_memory, total_memory = nm.remember(stories, memory_path, iso(t0))
+                print(f"[memory] archived {added_memory} new dated events; total archive {total_memory}")
             for c in candidates:
                 c["hist"]["analysed_n"] = c["n_sources"]
             info["lists"] = ed.top_lists(stories)
