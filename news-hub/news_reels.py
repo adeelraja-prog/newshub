@@ -243,32 +243,33 @@ def render_story(item,folder):
     outro=folder/"adeel_raja_outro.jpg"; make_outro(outro); paths.append(outro)
     cursor=folder/"editorial_cursor.png"; make_cursor(cursor)
     out=folder/"news_story_reel.mp4"; music=folder/"original_news_bed.wav"
-    # Give each story beat 4.2 seconds; the old 2.55-second pacing was too fast to read.
-    scene=4.2; outro_time=1.5; duration=scene*3+outro_time-0.35*3
+    # Slow editorial pacing: six seconds per story beat plus a two-second outro.
+    # The previous 4.2-second beats still felt rushed on a phone screen.
+    scene=6.0; transition=0.4; outro_time=2.0; duration=scene*3+outro_time-transition*3
     make_original_music(music,duration)
     inputs=[]
     for idx,p in enumerate(paths):
         inputs += ["-loop","1","-t",f"{scene if idx<3 else outro_time:.2f}","-i",str(p)]
     inputs += ["-i",str(music),"-loop","1","-t",f"{duration:.2f}","-i",str(cursor)]
     graph=(
-      "[0:v]zoompan=z='min(zoom+0.00065,1.082)':d=126:s=1080x1920:fps=30,"
+      "[0:v]zoompan=z='min(zoom+0.00038,1.070)':d=180:s=1080x1920:fps=30,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v0];"
-      "[1:v]zoompan=z='min(zoom+0.00060,1.076)':d=126:s=1080x1920:fps=30,"
+      "[1:v]zoompan=z='min(zoom+0.00036,1.066)':d=180:s=1080x1920:fps=30,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v1];"
       "[2:v]zoompan=z='min(zoom+0.00065,1.082)':d=126:s=1080x1920:fps=30,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v2];"
       "[3:v]scale=1080:1920,settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v3];"
-      "[v0][v1]xfade=transition=smoothleft:duration=0.35:offset=3.85[x1];"
-      "[x1][v2]xfade=transition=fade:duration=0.35:offset=7.70[x2];"
-      "[x2][v3]xfade=transition=wipeleft:duration=0.35:offset=11.55,"
+      "[v0][v1]xfade=transition=smoothleft:duration=0.4:offset=5.6[x1];"
+      "[x1][v2]xfade=transition=fade:duration=0.4:offset=11.2[x2];"
+      "[x2][v3]xfade=transition=wipeleft:duration=0.4:offset=16.8,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,"
-      "drawbox=x=0:y=0:w='iw*min(t/12.7,1)':h=10:color=0xD90429@0.98:t=fill[base];"
+      "drawbox=x=0:y=0:w='iw*min(t/18.7,1)':h=10:color=0xD90429@0.98:t=fill[base];"
       "[5:v]scale=78:96,format=rgba,colorchannelmixer=aa=0.98[cur];"
-      "[base][cur]overlay=x='if(lt(t,4.2),170+115*t,if(lt(t,8.4),650-105*(t-4.2),180+75*(t-8.4)))':"
-      "y='if(lt(t,4.2),690+22*sin(t*2),if(lt(t,8.4),910-25*sin(t*2),700+18*sin(t*2)))':"
-      "enable='between(t,0.55,12.0)'[v];"
+      "[base][cur]overlay=x='if(lt(t,6),170+77*t,if(lt(t,12),632-70*(t-6),212+50*(t-12)))':"
+      "y='if(lt(t,6),690+15*sin(t*1.2),if(lt(t,12),910-17*sin(t*1.2),700+12*sin(t*1.2)))':"
+      "enable='between(t,0.55,18.2)'[v];"
       "[4:a]aresample=44100,afade=t=in:st=0:d=0.3,"
-      "afade=t=out:st=12.55:d=0.5,volume=0.9[a]"
+      "afade=t=out:st=18.5:d=0.5,volume=0.9[a]"
     )
     result=subprocess.run(["ffmpeg","-y",*inputs,"-filter_complex",graph,
         "-map","[v]","-map","[a]","-t",str(duration),"-c:v","libx264","-preset","veryfast",
@@ -276,7 +277,7 @@ def render_story(item,folder):
         "-movflags","+faststart",str(out)],capture_output=True,text=True,timeout=600)
     if result.returncode or not out.exists():
         raise RuntimeError("Animated news Reel render failed: "+result.stderr[-2000:])
-    print(f"[news-reels] rendered photo-led Reel ({'lead image' if photo else 'graphic fallback'}), 4.2s beats, moving editorial pointer, kinetic progress rail and branded outro")
+    print(f"[news-reels] rendered photo-led Reel ({'lead image' if photo else 'graphic fallback'}), 6.0s reading beats, 2.0s outro, slower camera motion, moving editorial pointer and progress rail; total {duration:.1f}s")
     return out, opening
 
 def post_reel(video,caption,title):
