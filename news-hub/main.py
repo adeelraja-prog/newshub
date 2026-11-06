@@ -716,8 +716,66 @@ def post_whatsapp(path, text):
 POSTER_N = [0]  # rotates layout + colour so no two posters in a row look alike
 
 
+def find_google_image(item):
+    """Optional Google Programmable Search image lookup, restricted to reusable licences."""
+    key, cx = env("GOOGLE_CSE_API_KEY"), env("GOOGLE_CSE_CX")
+    if not key or not cx:
+        return None
+    query = " ".join([item.get("headline", ""), item.get("category", "")])[:180]
+    try:
+        r = requests.get("https://www.googleapis.com/customsearch/v1", params={
+            "key": key, "cx": cx, "q": query, "searchType": "image",
+            "num": 8, "rights": "cc_publicdomain|cc_attribute|cc_sharealike",
+            "safe": "active", "imgSize": "large"
+        }, headers=UA, timeout=15)
+        r.raise_for_status()
+        for hit in r.json().get("items", []):
+            url = hit.get("link", "")
+            if url.startswith("https://"):
+                return url
+    except Exception as ex:
+        print(f"[image] Google image search unavailable: {ex}")
+    return None
+
+
+def download_editorial_image(url, item, tag, source_label):
+    """Download and validate a publisher/search image before poster processing."""
+    if not url or not url.startswith("https://"):
+        return None, None
+    try:
+        r = requests.get(url, headers=UA, timeout=20, stream=True)
+        r.raise_for_status()
+        ctype = r.headers.get("Content-Type", "").split(";")[0].lower()
+        if not ctype.startswith("image/"):
+            return None, None
+        content = r.content
+        if len(content) < 10000 or len(content) > 12000000:
+            return None, None
+        from PIL import Image
+        import io
+        im = Image.open(io.BytesIO(content)).convert("RGB")
+        if im.width < 360 or im.height < 240:
+            return None, None
+        target_ratio = 4 / 5
+        ratio = im.width / im.height
+        if ratio > target_ratio:
+            nw = int(im.height * target_ratio)
+            left = max(0, (im.width - nw) // 2)
+            im = im.crop((left, 0, left + nw, im.height))
+        else:
+            nh = int(im.width / target_ratio)
+            top = max(0, (im.height - nh) // 2)
+            im = im.crop((0, top, im.width, top + nh))
+        path = os.path.join(POSTER_DIR, f"image-{tag}-{item['qid']}.jpg")
+        im.save(path, "JPEG", quality=92)
+        return path, source_label
+    except Exception as ex:
+        print(f"[image] Image rejected: {ex}")
+        return None, None
+
+
 def licensed_commons_image(item, tag):
-    """Find a reusable, attribution-checked image from Wikimedia Commons; never scrape random Google thumbnails."""
+    """Fallback search limited to reusable Wikimedia Commons images."""
     query = " ".join([item.get("headline", ""), item.get("category", "")])[:180]
     try:
         r = requests.get("https://commons.wikimedia.org/w/api.php", params={
@@ -734,28 +792,38 @@ def licensed_commons_image(item, tag):
             if not re.search(r"CC0|Public domain|CC BY(?:-SA)?", license_name, re.I):
                 continue
             url = info.get("thumburl") or info.get("url")
-            if not url or urlparse(url).scheme != "https":
-                continue
-            img = requests.get(url, headers=UA, timeout=25)
-            img.raise_for_status()
-            if len(img.content) < 12000 or len(img.content) > 12000000:
-                continue
-            ctype = img.headers.get("Content-Type", "")
-            if not ctype.startswith("image/"):
-                continue
-            path = os.path.join(POSTER_DIR, f"image-{tag}-{item['qid']}.jpg")
-            with open(path, "wb") as f:
-                f.write(img.content)
-            artist = re.sub("<[^>]+>", "", (meta.get("Artist") or {}).get("value", ""))
-            page_url = page.get("canonicalurl", "")
-            credit = f"Image: {artist or 'Wikimedia Commons'} · {license_name}"
-            if page_url:
-                credit += f" · {page_url}"
-            return path, credit
+            path, _ = download_editorial_image(url, item, tag, "Wikimedia Commons")
+            if path:
+                return path, None
     except Exception as ex:
         print(f"[image] Commons lookup unavailable: {ex}")
     return None, None
 
+
+def editorial_image(item, tag):
+    # Prefer the image supplied with the actual publisher article/feed, including APP and PTV feeds.
+    candidates = []
+    if item.get("image_url"):
+        candidates.append((item["image_url"], "Publisher article image"))
+    google_url = find_google_image(item)
+    if google_url:
+        candidates.append((google_url, "Google reuse-licensed image"))
+    for url, label in candidates:
+        path, credit = download_editorial_image(url, item, tag, label)
+        if path:
+            return path, credit
+    return licensed_commons_image(item, tag)
+
+
+def make_poster(item, tag):
+    os.makedirs(POSTER_DIR, exist_ok=True)
+    path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
+    image_path, credit = editorial_image(item, tag)
+    poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
+                  [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"),
+                  person=image_path, credit=credit)
+    POSTER_N[0] += 1
+    return path
 
 def make_poster(item, tag):
     os.makedirs(POSTER_DIR, exist_ok=True)
