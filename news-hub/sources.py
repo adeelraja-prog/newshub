@@ -24,6 +24,11 @@ SOURCES = [
 
     # Google News searches (headline + snippet only)
     gnews("Pakistan when:2h", "Google News"),
+    gnews("Pakistan federal government parliament Supreme Court national policy economy security when:6h", "Pakistan National Desk"),
+    gnews("Pakistan major national political development constitutional crisis election federal cabinet when:6h", "Pakistan National Politics"),
+    gnews("world major international conflict diplomacy global economy elections disaster when:6h", "International Desk"),
+    gnews("Reuters world major international news when:6h", "Reuters World"),
+    gnews("AP world major international news when:6h", "AP World"),
     gnews("Pakistan site:reuters.com when:1d", "Reuters"),
     gnews("Pakistan site:apnews.com when:1d", "AP"),
     gnews("Pakistan site:bloomberg.com when:1d", "Bloomberg"),
@@ -58,7 +63,6 @@ SOURCES = [
     gnews("Pakistan petrol price when:1d", "Petrol prices"),
     gnews("Pakistan electricity tariff load shedding when:1d", "Electricity"),
     gnews("Pakistan gas flour sugar price relief package when:1d", "Prices"),
-    gnews("Pakistan crime murder arrested police when:1d", "Crime"),
     gnews("Iran war when:1d", "Iran"),
     gnews("Gaza Israel war when:1d", "War"),
     gnews("Ukraine Russia war when:1d", "War"),
@@ -71,13 +75,9 @@ SOURCES = [
     gnews("India Bollywood entertainment film actors music site:reuters.com when:2d", "Reuters India entertainment"),
     gnews("India entertainment Bollywood film industry site:apnews.com when:2d", "AP India entertainment"),
     gnews("India cricket sports culture science technology site:bbc.com/news when:2d", "BBC India"),
-    gnews("viral video Pakistan when:1d", "Viral"),
-    gnews("trending on social media Pakistan when:1d", "Viral"),
 
     # weather, fashion, lifestyle via Google News searches
     gnews("Pakistan weather forecast Met Department when:1d", "Weather"),
-    gnews("Pakistan fashion when:3d", "Fashion"),
-    gnews("fashion trends when:2d", "Fashion"),
 ]
 
 
