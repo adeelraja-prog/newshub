@@ -14,6 +14,7 @@ import os
 import re
 import sys
 import time
+from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 
@@ -171,8 +172,14 @@ def collect_new(state):
                 continue
             ids.add(iid)
             stats[name] = stats.get(name, 0) + 1
+            media = (e.get("media_thumbnail") or e.get("media_content") or [])
+            image_url = next((x.get("url") for x in media if isinstance(x, dict) and x.get("url")), "")
+            if not image_url:
+                image_url = next((x.get("href") for x in (e.get("links") or [])
+                                  if isinstance(x, dict) and x.get("rel") == "enclosure"
+                                  and str(x.get("type", "")).startswith("image/")), "")
             items.append({"id": iid, "source": name, "kind": src["kind"], "title": title,
-                          "snippet": snippet, "link": link, "ts": iso(ts)})
+                          "snippet": snippet, "link": link, "image_url": image_url, "ts": iso(ts)})
     print(f"[info] collected {len(items)} new items")
     return items, stats
 
@@ -209,15 +216,27 @@ def fetch_trends():
 
 
 def fetch_article(item):
-    """Article text + links to possible original sources. Only for direct publisher links."""
+    """Fetch article text, candidate sources and its publisher-supplied lead image."""
     if item["kind"] not in ("local", "topic"):
-        return "", []
+        return "", [], item.get("image_url", "")
     try:
         r = requests.get(item["link"], headers=UA, timeout=15)
         text = (trafilatura.extract(r.text) if trafilatura else "") or ""
-        return text[:1800], ed.extract_candidate_links(r.text)
+        image_url = item.get("image_url", "")
+        if not image_url:
+            from urllib.parse import urljoin
+            for tag in re.findall(r"<meta[^>]+>", r.text, re.I):
+                if "og:image" not in tag.lower():
+                    continue
+                hit = re.search(r'content=["]([^"]+)["]', tag, re.I)
+                if not hit:
+                    hit = re.search(r"content=[']([^']+)[']", tag, re.I)
+                if hit:
+                    image_url = urljoin(item["link"], html.unescape(hit.group(1)))
+                    break
+        return text[:1800], ed.extract_candidate_links(r.text), image_url
     except Exception:
-        return "", []
+        return "", [], item.get("image_url", "")
 
 
 # ---------- Gemini ----------
@@ -329,8 +348,9 @@ def analyse(clusters):
     with ThreadPoolExecutor(8) as pool_ex:  # fetch the lead articles in parallel
         fetched = list(pool_ex.map(lambda c: fetch_article(c["lead"]), clusters))
     for n, c in enumerate(clusters, 1):
-        text, links = fetched[n - 1]
+        text, links, image_url = fetched[n - 1]
         c["excerpt"] = text
+        c["image_url"] = image_url or c["lead"].get("image_url", "")
         cand = list(links)
         for m in c["members"][:6]:
             cu = ed.canonical_url(m["link"])
@@ -375,6 +395,7 @@ def analyse(clusters):
             "trend_score": c["sig"]["trend_score"], "trend_basis": c["sig"]["trend_basis"],
             "trend_notes": c["sig"]["trend_notes"], "x_signal": c["sig"]["x_signal"],
             "has_wire_or_official": c["has_wire"] or c["has_official"], "excerpt": c["excerpt"],
+            "image_url": c.get("image_url", ""),
             "sources": c["sources"], "first_pub": iso(c["first_pub"]),
             "last_update": iso(c["last_pub"]),
         }
@@ -569,6 +590,7 @@ def enqueue(queue, story, w, caption, t0):
     item = {
         "qid": story["id"], "status": "queued", "priority": prio, "created": iso(t0), "not_before": iso(slot),
         "attempts": 0, "caption": caption, "category": story["category"],
+        "image_url": story.get("image_url", ""),
         "tag": "عوامی مفاد" if story.get("public_interest", 0) >= 70 else None,
         "poster": {"ur": w["poster_headline_ur"].strip(), "en": w["poster_headline_en"].strip()},
         "headline": w["headline_used"], "headline_alt": w["headline_alt"],
@@ -694,11 +716,122 @@ def post_whatsapp(path, text):
 POSTER_N = [0]  # rotates layout + colour so no two posters in a row look alike
 
 
+def find_google_image(item):
+    """Optional Google Programmable Search image lookup, restricted to reusable licences."""
+    key, cx = env("GOOGLE_CSE_API_KEY"), env("GOOGLE_CSE_CX")
+    if not key or not cx:
+        return None
+    query = " ".join([item.get("headline", ""), item.get("category", "")])[:180]
+    try:
+        r = requests.get("https://www.googleapis.com/customsearch/v1", params={
+            "key": key, "cx": cx, "q": query, "searchType": "image",
+            "num": 8, "rights": "cc_publicdomain|cc_attribute|cc_sharealike",
+            "safe": "active", "imgSize": "large"
+        }, headers=UA, timeout=15)
+        r.raise_for_status()
+        for hit in r.json().get("items", []):
+            url = hit.get("link", "")
+            if url.startswith("https://"):
+                return url
+    except Exception as ex:
+        print(f"[image] Google image search unavailable: {ex}")
+    return None
+
+
+def download_editorial_image(url, item, tag, source_label):
+    """Download and validate a publisher/search image before poster processing."""
+    if not url or not url.startswith("https://"):
+        return None, None
+    try:
+        r = requests.get(url, headers=UA, timeout=20, stream=True)
+        r.raise_for_status()
+        ctype = r.headers.get("Content-Type", "").split(";")[0].lower()
+        if not ctype.startswith("image/"):
+            return None, None
+        content = r.content
+        if len(content) < 10000 or len(content) > 12000000:
+            return None, None
+        from PIL import Image
+        import io
+        im = Image.open(io.BytesIO(content)).convert("RGB")
+        if im.width < 360 or im.height < 240:
+            return None, None
+        target_ratio = 4 / 5
+        ratio = im.width / im.height
+        if ratio > target_ratio:
+            nw = int(im.height * target_ratio)
+            left = max(0, (im.width - nw) // 2)
+            im = im.crop((left, 0, left + nw, im.height))
+        else:
+            nh = int(im.width / target_ratio)
+            top = max(0, (im.height - nh) // 2)
+            im = im.crop((0, top, im.width, top + nh))
+        path = os.path.join(POSTER_DIR, f"image-{tag}-{item['qid']}.jpg")
+        im.save(path, "JPEG", quality=92)
+        return path, source_label
+    except Exception as ex:
+        print(f"[image] Image rejected: {ex}")
+        return None, None
+
+
+def licensed_commons_image(item, tag):
+    """Fallback search limited to reusable Wikimedia Commons images."""
+    query = " ".join([item.get("headline", ""), item.get("category", "")])[:180]
+    try:
+        r = requests.get("https://commons.wikimedia.org/w/api.php", params={
+            "action": "query", "format": "json", "generator": "search",
+            "gsrsearch": "filetype:bitmap " + query, "gsrnamespace": 6, "gsrlimit": 8,
+            "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1400
+        }, headers=UA, timeout=20)
+        r.raise_for_status()
+        pages = (r.json().get("query") or {}).get("pages") or {}
+        for page in pages.values():
+            info = (page.get("imageinfo") or [{}])[0]
+            meta = info.get("extmetadata") or {}
+            license_name = re.sub("<[^>]+>", "", (meta.get("LicenseShortName") or {}).get("value", ""))
+            if not re.search(r"CC0|Public domain|CC BY(?:-SA)?", license_name, re.I):
+                continue
+            url = info.get("thumburl") or info.get("url")
+            path, _ = download_editorial_image(url, item, tag, "Wikimedia Commons")
+            if path:
+                return path, None
+    except Exception as ex:
+        print(f"[image] Commons lookup unavailable: {ex}")
+    return None, None
+
+
+def editorial_image(item, tag):
+    # Prefer the image supplied with the actual publisher article/feed, including APP and PTV feeds.
+    candidates = []
+    if item.get("image_url"):
+        candidates.append((item["image_url"], "Publisher article image"))
+    google_url = find_google_image(item)
+    if google_url:
+        candidates.append((google_url, "Google reuse-licensed image"))
+    for url, label in candidates:
+        path, credit = download_editorial_image(url, item, tag, label)
+        if path:
+            return path, credit
+    return licensed_commons_image(item, tag)
+
+
 def make_poster(item, tag):
     os.makedirs(POSTER_DIR, exist_ok=True)
     path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
+    image_path, credit = editorial_image(item, tag)
     poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
-                  [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"))
+                  [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"),
+                  person=image_path, credit=credit)
+    POSTER_N[0] += 1
+    return path
+
+def make_poster(item, tag):
+    os.makedirs(POSTER_DIR, exist_ok=True)
+    path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
+    image_path, credit = licensed_commons_image(item, tag)
+    poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
+                  [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"),
+                  person=image_path, credit=credit)
     POSTER_N[0] += 1
     return path
 
