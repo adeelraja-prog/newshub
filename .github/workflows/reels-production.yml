@@ -32,7 +32,7 @@ jobs:
       - name: Install FFmpeg and Urdu font support
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-extra
+          sudo apt-get install -y -qq ffmpeg libraqm0 fonts-noto-core
 
       - name: Install Reels dependencies
         run: |
