@@ -414,7 +414,41 @@ def T4(c, flip, style):
     finish(c, 1195)
 
 
-TEMPLATES = [T1, T2, T3, T4]
+
+
+# ---------- new clean editorial hero layout (inspired by global newsroom hierarchy) ----------
+def T5(c, flip, style):
+    """A cleaner, high-contrast headline-first poster: no watermark, portrait badge or decorative clutter."""
+    palettes = [
+        (CHARCOAL, IVORY, SILVER, GOLD),
+        (IVORY, CHARCOAL, "#5E584B", "#B08D4F"),
+        ("#101A2B", IVORY, "#B8C0CC", "#D6B56F"),
+    ]
+    bg, ink, sub, gold = palettes[style % len(palettes)]
+    c.img = Image.new("RGB", (W, H), bg)
+    c.d = ImageDraw.Draw(c.img)
+    c.ink, c.sub, c.gold = ink, sub, gold
+    c.rule = "#34343A" if bg != IVORY else "#C9BFA9"
+    c.mute = sub
+    # One strong editorial rail; red is reserved for genuinely breaking items.
+    rail = RED if c.breaking else c.acc
+    c.d.rectangle((0, 0, 14, H), fill=rail)
+    c.d.rectangle((M, 208, W - M, 211), fill=gold)
+    lockup(c.img, M, 54, "l", 0.72, c.ink, c.sub, c.gold)
+    label_row(c, M, 300, "l")
+
+    align = "l" if c.english else "r"
+    x = M if c.english else W - M
+    f, lines, lh = fit_headline(c, 900, 650, start=132, lo=62, maxlines=5)
+    y = 430
+    y = draw_headline(c, f, lines, lh, x, y, align)
+    under_text(c, x, y + 34, align)
+
+    # Deliberate negative space; only one footer rule and the existing social signature.
+    c.d.line((M, 1190, W - M, 1190), fill=c.rule, width=2)
+    social_footer(c.img, W // 2, 1222, c.ink, c.sub)
+
+TEMPLATES = [T1, T2, T3, T4, T5]
 
 
 def render(headline_ur, headline_en, category, breaking, sources, handle, out_path, variant=0, tag=None,
@@ -422,9 +456,11 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
     """Same signature the bot already calls. variant selects template / flip / background style."""
     icon_name, lab_ur, lab_en, acc = CATS.get(category, CATS["other"])
     c = Ctx()
-    t = variant % 4
-    flip = (variant // 4) % 2
-    style = (variant // 8) % 3
+    # Keep the four established compositions in rotation and introduce the new editorial hero
+    # immediately, then once every five posters. Existing render(...) callers remain unchanged.
+    t = 4 if variant % 5 == 0 else (variant - 1) % 4
+    flip = (variant // 5) % 2
+    style = (variant // 10) % 3
     c.dark = t != 3
     c.acc = RED if breaking else acc
     if not c.dark:
