@@ -719,6 +719,8 @@ def enqueue(queue, story, w, caption, t0):
                  "viral_estimate": story["viral_estimate"], "viral_measured": story["viral_measured"],
                  "trend_basis": story["trend_basis"], "trend_notes": story["trend_notes"], "x_signal": story["x_signal"],
                  "lifecycle": story["lifecycle"], "claim_status": story["claim_status"], "why_pk": story["why_pk"],
+                 "scope": story["scope"], "importance_class": story["importance_class"],
+                 "national_impact": story["national_impact"], "global_impact": story["global_impact"],
                  "explanation": story["explanation"], "original_source": story["original_source"],
                  "discovery": story["discovery"], "corroborating": story["corroborating"],
                  "first_published": story["first_pub"], "last_update": story["last_update"],
