@@ -766,7 +766,9 @@ def download_editorial_image(url, item, tag, source_label):
             nh = int(im.width / target_ratio)
             top = max(0, (im.height - nh) // 2)
             im = im.crop((0, top, im.width, top + nh))
-        path = os.path.join(POSTER_DIR, f"image-{tag}-{item['qid']}.jpg")
+        import hashlib
+        image_key = hashlib.sha256(url.encode("utf-8")).hexdigest()[:10]
+        path = os.path.join(POSTER_DIR, f"image-{tag}-{item['qid']}-{image_key}.jpg")
         im.save(path, "JPEG", quality=92)
         return path, source_label
     except Exception as ex:
@@ -861,10 +863,18 @@ def editorial_image(item, tag):
         if url and url not in seen:
             seen.add(url)
             unique.append((url, label))
-    for url, label in unique:
-        path, credit = download_editorial_image(url, item, tag, label)
-        if path:
-            return path, None  # no source-credit overlay on the public poster
+    # Download candidates concurrently; the first valid image wins, regardless of source.
+    with ThreadPoolExecutor(max_workers=min(8, max(1, len(unique)))) as pool:
+        downloads = {pool.submit(download_editorial_image, url, item, tag, label): (url, label)
+                     for url, label in unique}
+        for future in as_completed(downloads):
+            try:
+                path, _ = future.result()
+            except Exception as ex:
+                print(f"[image] Candidate download failed: {ex}")
+                continue
+            if path:
+                return path, None  # no source-credit overlay on the public poster
     return None, None
 
 def make_poster(item, tag):
