@@ -1,6 +1,5 @@
-"""ADEEL RAJA poster system v5 (single file). Black & ivory editorial identity.
-4 base templates x flip x 3 background styles = 24 rotating compositions, each in its category colour.
-render(...) keeps the same signature the news bot already uses. 1080x1350 JPEG."""
+"""ADEEL RAJA poster system v5. One Clean Editorial Hero layout with four rotating colourways.
+Category accent and breaking-news treatment remain consistent. 1080x1350 JPEG."""
 import io
 import math
 import os
@@ -458,7 +457,7 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
     icon_name, lab_ur, lab_en, acc = CATS.get(category, CATS["other"])
     c = Ctx()
     # Approved standard: the clean Editorial Hero (T5) is now the only poster layout.
-    # Keep the three restrained colour treatments rotating for visual variety.
+    # Keep four restrained colour treatments rotating for visual variety.
     t = 4
     flip = 0
     style = variant % 4
