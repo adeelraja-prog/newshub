@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Turn already-published, editorially fact-checked News Hub posts into animated Facebook Reels."""
-import json,os,re,subprocess,sys
+import io,json,os,re,subprocess,sys
 from pathlib import Path
 from datetime import datetime,timezone,timedelta
 import requests
@@ -67,11 +67,46 @@ def draw_paragraph(draw,text,f,y,max_width,fill,direction="ltr",line_gap=16,max_
         y += line_h+line_gap
     return y
 
-def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,total=3):
-    im=Image.new("RGB",(W,H),NAVY); d=ImageDraw.Draw(im)
-    # High-contrast, phone-first editorial card. Keep all key text inside central safe zone.
+def load_story_photo(item,folder):
+    """Load the story's supplied lead image for use as a visual background."""
+    url=str(item.get("image_url") or "").strip()
+    if not url.startswith("https://"): return None
+    try:
+        r=requests.get(url,headers={"User-Agent":"Mozilla/5.0 (compatible; AdeelRajaNewsHub/1.0)"},timeout=25)
+        r.raise_for_status()
+        if not r.headers.get("Content-Type","").lower().startswith("image/"): return None
+        if len(r.content)<10000 or len(r.content)>15000000: return None
+        im=Image.open(io.BytesIO(r.content)).convert("RGB")
+        if im.width<360 or im.height<240: return None
+        path=folder/"story_photo.jpg"
+        im.save(path,quality=93)
+        return path
+    except Exception as exc:
+        print(f"[news-reels] lead image unavailable: {exc}")
+        return None
+
+def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,total=3,photo=None):
+    if photo and Path(photo).exists():
+        src=Image.open(photo).convert("RGB")
+        scale=max(W/src.width,H/src.height)
+        nw,nh=int(src.width*scale),int(src.height*scale)
+        src=src.resize((nw,nh),Image.LANCZOS)
+        shift=max(0,nw-W)*((slide_no-1)/max(1,total-1))
+        top=max(0,(nh-H)*0.42)
+        im=src.crop((int(shift),int(top),int(shift)+W,int(top)+H)).convert("RGBA")
+        shade=Image.new("RGBA",(W,H),(13,18,29,132))
+        im=Image.alpha_composite(im,shade).convert("RGB")
+    else:
+        im=Image.new("RGB",(W,H),NAVY)
+    d=ImageDraw.Draw(im)
     d.rectangle((0,0,W,14),fill=RED)
-    d.rectangle((64,250,1016,1660),fill=(18,25,39),outline=(48,58,75),width=2)
+    if photo and Path(photo).exists():
+        panel=Image.new("RGBA",(952,1410),(18,25,39,150))
+        im.paste(panel,(64,250),panel)
+        d=ImageDraw.Draw(im)
+        d.rectangle((64,250,1016,1660),outline=(68,78,96),width=2)
+    else:
+        d.rectangle((64,250,1016,1660),fill=(18,25,39),outline=(48,58,75),width=2)
     d.text((W//2,104),"ADEEL RAJA",font=font(FONT_EN,42),fill=IVORY,anchor="mm")
     d.line((360,145,720,145),fill=GOLD,width=3)
     d.text((W//2,184),"NEWS  ·  CONTEXT  ·  PERSPECTIVE",font=font(FONT_EN,18),fill=MUTED,anchor="mm")
@@ -81,7 +116,6 @@ def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,tot
     d.text((W//2,405),eyebrow.upper(),font=font(FONT_EN,23),fill=(224,184,111),anchor="mm")
     direction="rtl" if urdu else "ltr"
     main_font=font(FONT_UR if urdu else FONT_EN,72 if urdu else 66)
-    # The main message is vertically centred; font automatically shrinks to fit.
     approx_lines=wrap(d,main,main_font,850,direction)
     main_size=72 if urdu else 66
     while len(approx_lines)>5 and main_size>44:
@@ -100,6 +134,16 @@ def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,tot
     d.text((W//2,1740),"@adeelrajaviews",font=font(FONT_EN,25),fill=IVORY,anchor="mm")
     d.text((W//2,1795),f"{slide_no:02d} / {total:02d}",font=font(FONT_EN,19),fill=GOLD,anchor="mm")
     im.save(path,quality=95)
+
+def make_cursor(path):
+    """A small high-contrast editorial pointer used to guide the viewer's eye."""
+    cur=Image.new("RGBA",(92,112),(0,0,0,0))
+    d=ImageDraw.Draw(cur)
+    pts=[(9,5),(9,82),(29,63),(48,103),(64,95),(45,56),(76,55)]
+    d.polygon(pts,fill=(255,255,255,255),outline=(8,12,20,255))
+    d.line(pts+[pts[0]],fill=(8,12,20,255),width=5,joint="curve")
+    d.ellipse((57,78,87,108),fill=(217,4,41,230),outline=(255,255,255,240),width=3)
+    cur.save(path)
 
 def make_outro(path):
     # Minimal end-slate: small brand mark, shown only for the final beat.
@@ -157,45 +201,47 @@ def render_story(item,folder):
       ("WHY IT MATTERS",summary_ur,"",True)
     ]
     folder.mkdir(parents=True,exist_ok=True); paths=[]
+    photo=load_story_photo(item,folder)
     for i,(eyebrow,main,secondary,is_urdu) in enumerate(slides,1):
         p=folder/f"slide_{i:02d}.jpg"
-        make_slide(p,category,eyebrow,main,secondary,is_urdu,i,len(slides)); paths.append(p)
+        make_slide(p,category,eyebrow,main,secondary,is_urdu,i,len(slides),photo); paths.append(p)
     outro=folder/"adeel_raja_outro.jpg"; make_outro(outro); paths.append(outro)
+    cursor=folder/"editorial_cursor.png"; make_cursor(cursor)
     out=folder/"news_story_reel.mp4"; music=folder/"original_news_bed.wav"
-    # Fast 9-second mobile Reel: three readable story beats, then a very brief logo sting.
-    scene=2.55; outro_time=0.78; duration=scene*3+outro_time
+    # Give each story beat 4.2 seconds; the old 2.55-second pacing was too fast to read.
+    scene=4.2; outro_time=1.5; duration=scene*3+outro_time
     make_original_music(music,duration)
     inputs=[]
     for idx,p in enumerate(paths):
         inputs += ["-loop","1","-t",f"{scene if idx<3 else outro_time:.2f}","-i",str(p)]
-    inputs += ["-i",str(music)]
-    # Normalize EVERY visual input to identical 30 fps, 1/30 timebase,
-    # zero-based PTS, square pixels and yuv420p BEFORE xfade.  Merely setting
-    # output -r or settb on the final output does not normalize xfade inputs.
+    inputs += ["-i",str(music),"-loop","1","-t",f"{duration:.2f}","-i",str(cursor)]
     graph=(
-      "[0:v]zoompan=z='min(zoom+0.00035,1.025)':d=77:s=1080x1920:fps=30,"
+      "[0:v]zoompan=z='min(zoom+0.00065,1.082)':d=126:s=1080x1920:fps=30,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v0];"
-      "[1:v]zoompan=z='min(zoom+0.00030,1.022)':d=77:s=1080x1920:fps=30,"
+      "[1:v]zoompan=z='min(zoom+0.00060,1.076)':d=126:s=1080x1920:fps=30,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v1];"
-      "[2:v]zoompan=z='min(zoom+0.00035,1.025)':d=77:s=1080x1920:fps=30,"
+      "[2:v]zoompan=z='min(zoom+0.00065,1.082)':d=126:s=1080x1920:fps=30,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v2];"
-      "[3:v]scale=1080:1920,settb=AVTB,setpts=PTS-STARTPTS,fps=30,"
-      "setsar=1,format=yuv420p[v3];"
-      "[v0][v1]xfade=transition=smoothleft:duration=0.28:offset=2.27[x1];"
-      "[x1][v2]xfade=transition=fade:duration=0.26:offset=4.54[x2];"
-      "[x2][v3]xfade=transition=wipeleft:duration=0.22:offset=6.81,"
+      "[3:v]scale=1080:1920,settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v3];"
+      "[v0][v1]xfade=transition=smoothleft:duration=0.35:offset=3.85[x1];"
+      "[x1][v2]xfade=transition=fade:duration=0.35:offset=7.70[x2];"
+      "[x2][v3]xfade=transition=wipeleft:duration=0.35:offset=11.55,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,"
-      "drawbox=x=0:y=0:w='iw*min(t/0.65,1)':h=8:color=0xD90429@0.98:t=fill[v];"
-      "[4:a]aresample=44100,afade=t=in:st=0:d=0.25,"
-      "afade=t=out:st=7.8:d=0.18,volume=1.0[a]"
+      "drawbox=x=0:y=0:w='iw*min(t/13.5,1)':h=10:color=0xD90429@0.98:t=fill[base];"
+      "[5:v]scale=78:96,format=rgba,colorchannelmixer=aa=0.98[cur];"
+      "[base][cur]overlay=x='if(lt(t,4.2),170+115*t,if(lt(t,8.4),650-105*(t-4.2),180+75*(t-8.4)))':"
+      "y='if(lt(t,4.2),690+22*sin(t*2),if(lt(t,8.4),910-25*sin(t*2),700+18*sin(t*2)))':"
+      "enable='between(t,0.55,12.0)'[v];"
+      "[4:a]aresample=44100,afade=t=in:st=0:d=0.3,"
+      "afade=t=out:st=13.4:d=0.5,volume=0.9[a]"
     )
     result=subprocess.run(["ffmpeg","-y",*inputs,"-filter_complex",graph,
         "-map","[v]","-map","[a]","-t",str(duration),"-c:v","libx264","-preset","veryfast",
         "-crf","19","-pix_fmt","yuv420p","-c:a","aac","-b:a","192k","-shortest",
         "-movflags","+faststart",str(out)],capture_output=True,text=True,timeout=600)
     if result.returncode or not out.exists():
-        raise RuntimeError("Animated news Reel render failed: "+result.stderr[-1600:])
-    print("[news-reels] rendered 3 readable story beats, smooth transitions, punchy original newsroom bed and 0.78s small-logo sonic sting")
+        raise RuntimeError("Animated news Reel render failed: "+result.stderr[-2000:])
+    print(f"[news-reels] rendered photo-led Reel ({'lead image' if photo else 'graphic fallback'}), 4.2s beats, moving editorial pointer, kinetic progress rail and branded outro")
     return out, opening
 
 def post_reel(video,caption,title):
