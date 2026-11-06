@@ -500,75 +500,88 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
 
 
 def render_mobile_value_card(c, info):
-    """Mobile-first 4:5 value-addition card. Facts are supplied by the verified editorial desk."""
+    """Phone-first 4:5 value-addition card with distinct explainer, data and timeline layouts."""
     bg = "#111216" if (info.get("theme") or "dark") == "dark" else "#F7F5F0"
     ink = "#F7F4EE" if bg == "#111216" else "#171719"
     sub = "#C2C0BC" if bg == "#111216" else "#5F5B55"
-    accent = c.acc if c.acc else GOLD
+    panel = "#24262D" if bg == "#111216" else "#EAE6DE"
+    track = "#45464D" if bg == "#111216" else "#D5D0C7"
+    accent = c.acc or GOLD
     c.img = Image.new("RGB", (W, H), bg)
     d = ImageDraw.Draw(c.img)
     d.rectangle((0, 0, 14, H), fill=RED if c.breaking else accent)
-    # compact masthead and strong visual hierarchy for phone screens
-    lockup(c.img, M, 40, "l", 0.58, ink, sub, GOLD)
-    d.line((M, 174, W-M, 174), fill=accent, width=3)
-    labels = {"explainer":"THE STORY EXPLAINED", "data":"THE NUMBERS", "timeline":"WHAT HAPPENED WHEN", "factcheck":"CLAIM vs EVIDENCE"}
+    lockup(c.img, M, 38, "l", 0.56, ink, sub, GOLD)
+    d.line((M, 164, W-M, 164), fill=accent, width=3)
     kind = info.get("type", "explainer")
-    spaced(d, M, 225, labels.get(kind, "THE STORY"), sans(25, 800), accent, 3)
-    title = str(info.get("title") or c.en or c.ur or "What you need to know")[:120]
-    tf = sans(58, 800)
+    labels = {"explainer": "THE STORY EXPLAINED", "data": "THE NUMBERS",
+              "timeline": "WHAT HAPPENED WHEN", "factcheck": "CLAIM vs EVIDENCE"}
+    spaced(d, M, 205, labels.get(kind, "THE STORY"), sans(24, 800), accent, 3)
+    title = str(info.get("title") or c.en or c.ur or "What you need to know")[:110]
+    tf = sans(55, 800)
     lines = wrap(title, tf, W-2*M)
     if len(lines) > 3:
-        tf = sans(48, 800); lines = wrap(title, tf, W-2*M)
-    y = 280
+        tf = sans(45, 800)
+        lines = wrap(title, tf, W-2*M)
+    y = 255
     for line in lines[:3]:
-        d.text((M,y), line, font=tf, fill=ink)
-        y += int(tf.size*1.18)
-    y += 24
-    entries = info.get("points") or []
+        d.text((M, y), line, font=tf, fill=ink)
+        y += int(tf.size * 1.16)
+    y += 20
     if kind == "timeline":
-        entries = info.get("timeline") or entries
-    if kind == "data":
-        entries = info.get("data_points") or entries
-    if kind == "factcheck":
-        entries = info.get("evidence_points") or entries
-    entries = [x for x in entries if isinstance(x, dict) and str(x.get("text") or x.get("label") or "").strip()][:4]
-    if kind == "data" and entries:
-        # A clean vertical bar comparison; numbers and units are printed exactly as supplied.
-        vals=[]
+        entries = [x for x in (info.get("timeline") or info.get("points") or []) if isinstance(x, dict)][:4]
+        if entries:
+            xline = M + 12
+            d.line((xline, y+12, xline, min(1080, y+len(entries)*174)), fill=track, width=5)
+            for e in entries:
+                date = str(e.get("date") or e.get("label") or "DATE NOT PROVIDED")[:42]
+                body = str(e.get("text") or e.get("detail") or e.get("description") or "")[:150]
+                d.ellipse((xline-10, y+8, xline+10, y+28), fill=accent)
+                d.text((M+42, y), date, font=sans(27, 800), fill=accent)
+                bf = sans(26, 500)
+                for j, line in enumerate(wrap(body, bf, W-2*M-48)[:3]):
+                    d.text((M+42, y+42+j*34), line, font=bf, fill=ink)
+                y += 174
+    elif kind == "data":
+        entries = [x for x in (info.get("data_points") or info.get("points") or []) if isinstance(x, dict)][:4]
+        vals = []
         for e in entries:
-            try: vals.append(max(0.0,float(e.get("value"))))
-            except Exception: vals.append(0.0)
-        vmax=max(vals) if vals else 0
-        for i,e in enumerate(entries):
-            label=str(e.get("label",""))[:46]
-            value=str(e.get("display_value") or e.get("value_text") or e.get("value") or "")
-            d.text((M,y),label,font=sans(27,600),fill=sub)
-            d.text((W-M,y),value,font=sans(30,800),fill=ink,anchor="ra")
+            try:
+                vals.append(max(0.0, float(e.get("value"))))
+            except (TypeError, ValueError):
+                vals.append(0.0)
+        vmax = max(vals) if vals else 0
+        for i, e in enumerate(entries):
+            label = str(e.get("label") or "")[:48]
+            value = str(e.get("display_value") or e.get("value_text") or e.get("value") or "")[:32]
+            d.text((M, y), label, font=sans(26, 600), fill=sub)
+            d.text((W-M, y), value, font=sans(31, 800), fill=ink, anchor="ra")
             y += 42
-            barw=int((W-2*M)*(vals[i]/vmax)) if vmax else 0
-            d.rounded_rectangle((M,y,W-M,y+13),radius=6,fill="#34363D")
-            if barw: d.rounded_rectangle((M,y,M+barw,y+13),radius=6,fill=accent)
-            y += 34
+            barw = int((W-2*M) * (vals[i] / vmax)) if vmax else 0
+            d.rounded_rectangle((M, y, W-M, y+15), radius=7, fill=track)
+            if barw:
+                d.rounded_rectangle((M, y, M+barw, y+15), radius=7, fill=accent)
+            y += 66
     else:
-        for i,e in enumerate(entries):
-            label=str(e.get("date") or e.get("label") or e.get("heading") or ("0"+str(i+1)))[-48:]
-            body=str(e.get("text") or e.get("detail") or e.get("description") or "")[:170]
-            d.rounded_rectangle((M,y,W-M,y+145),radius=18,fill="#24262D" if bg=="#111216" else "#EAE6DE")
-            d.rounded_rectangle((M,y,M+8,y+145),radius=4,fill=accent)
-            d.text((M+28,y+20),label,font=sans(27,800),fill=accent)
-            bf=sans(26,500)
-            wrapped=wrap(body,bf,W-2*M-58)
-            by=y+61
-            for line in wrapped[:2]:
-                d.text((M+28,by),line,font=bf,fill=ink); by+=34
-            y += 164
-            if y > 1050: break
-    source=str(info.get("source_note") or c.source or "")
+        key = "evidence_points" if kind == "factcheck" else "points"
+        entries = [x for x in (info.get(key) or info.get("points") or []) if isinstance(x, dict)][:3]
+        for i, e in enumerate(entries):
+            label = str(e.get("label") or e.get("heading") or ("KEY POINT " + str(i+1)))[:48]
+            body = str(e.get("text") or e.get("detail") or e.get("description") or "")[:155]
+            d.rounded_rectangle((M, y, W-M, y+190), radius=18, fill=panel)
+            d.rounded_rectangle((M, y, M+8, y+190), radius=4, fill=accent)
+            d.text((M+28, y+20), label, font=sans(27, 800), fill=accent)
+            bf = sans(26, 500)
+            for j, line in enumerate(wrap(body, bf, W-2*M-58)[:3]):
+                d.text((M+28, y+66+j*35), line, font=bf, fill=ink)
+            y += 208
+    source = str(info.get("source_note") or c.source or "")[:100]
     if source:
-        d.text((M,1130),("Sources: "+source)[:88],font=sans(20,500),fill=sub)
-    d.line((M,1180,W-M,1180),fill="#45464D" if bg=="#111216" else "#D5D0C7",width=2)
-    social_footer(c.img,W//2,1210,ink,sub)
-    c.d=ImageDraw.Draw(c.img)
+        sf = sans(18, 500)
+        for i, line in enumerate(wrap("SOURCE: " + source, sf, W-2*M)[:2]):
+            d.text((M, 1090+i*25), line, font=sf, fill=sub)
+    d.line((M, 1150, W-M, 1150), fill=track, width=2)
+    social_footer(c.img, W//2, 1180, ink, sub)
+    c.d = ImageDraw.Draw(c.img)
 
 
 class Ctx:
