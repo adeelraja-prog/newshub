@@ -311,14 +311,21 @@ def _parse_time(value):
 def _editorial_reel_score(item,now_utc):
     """Select only fresh, verified, high-value stories for scarce Reel slots."""
     published=item.get("published") or {}
-    published_at=_parse_time(published.get("time"))
-    if not published_at:
-        return None
-    age=(now_utc-published_at.astimezone(timezone.utc)).total_seconds()/3600
-    if age<0 or age>MAX_STORY_AGE_HOURS:
-        return None
     meta=item.get("meta") or {}
     scores=meta.get("scores") or {}
+    # Measure freshness from the original story timestamp, not the later Facebook repost time.
+    original_at=_parse_time(meta.get("first_published"))
+    if not original_at:
+        return None
+    age=(now_utc-original_at.astimezone(timezone.utc)).total_seconds()/3600
+    if age<0 or age>MAX_STORY_AGE_HOURS:
+        return None
+    if meta.get("scope") not in ("national", "international") or meta.get("importance_class") != "major":
+        return None
+    if float(meta.get("national_impact",0) or 0) < 70 and meta.get("scope") == "national":
+        return None
+    if float(meta.get("global_impact",0) or 0) < 80 and meta.get("scope") == "international" and float(scores.get("pakistan_relevance",0) or 0) < 75:
+        return None
     try:
         composite=float(scores.get("composite",0) or 0)
         confidence=float(scores.get("confidence",0) or 0)
@@ -345,8 +352,8 @@ def main():
         print("[news-reels] bot-data queue is unavailable; nothing published"); return
     data=load_json(QUEUE,{"items":[]}); items=data.get("items",[])
     state=load_json(STATE,{"done":[],"seeded":False})
-    published=[i for i in items if i.get("status")=="published" and i.get("type") not in ("youtube","engage")
-               and i.get("published",{}).get("facebook_post_id")]
+    published=[i for i in items if i.get("status")=="published" and i.get("type") not in ("youtube","engage","repost","promo")
+               and i.get("priority") not in ("promo",) and i.get("published",{}).get("facebook_post_id")]
     if not state.get("seeded"):
         state["done"]=list(dict.fromkeys(state.get("done",[])+[i.get("qid") for i in published if i.get("qid")]))
         state["seeded"]=True; save_state(state)
