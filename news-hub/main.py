@@ -1290,41 +1290,78 @@ Never state facts that are not in the headlines. Be neutral on political questio
 
 
 def controversy_scan(stories, ledger_path, comparisons_path):
-    """Archive only source-backed, explicitly dated public positions for later comparison."""
+    """Build a source-linked political statement archive and editor-only comparison desk."""
     political = [s for s in stories if s.get("category") in ("politics", "courts", "security", "us_politics")
                  and s.get("confidence", 0) >= 75 and s.get("excerpt")]
     if not political:
         return {"added": 0, "comparisons": 0}
-    blocks = []
-    for i, s in enumerate(political[:3], 1):
-        blocks.append(f"ITEM {i}\nARTICLE DATE: {s.get('first_pub','')}\n"
-                      f"ARTICLE SOURCE: {s.get('discovery',{}).get('name','')}\n"
-                      f"ARTICLE URL: {s.get('discovery',{}).get('url','')}\n"
-                      f"ARTICLE TEXT: {s.get('excerpt','')[:1600]}")
-    prompt = """You are a careful political archive researcher. Extract only explicit public positions/statements
-made by named public figures in the supplied source text. Return JSON {"statements":[...]}.
-Each item: person, topic, position (neutral paraphrase), date (ISO-8601 only if the text explicitly gives the
-statement date; otherwise empty), source_name, source_url (must be the supplied ARTICLE URL), kind
-(reported_position, official_statement, interview, parliamentary_record, court_record or social_post),
-stance (support, oppose, conditional or unclear), confidence (0-100), source_excerpt (short exact supporting
-passage). Do not invent dates, names, positions or links. Do not create a statement from a journalist's opinion.
-Do not provide verbatim quote field. If no explicit statement date is available, do not output that item.
-These are research leads requiring human editorial review, not publishable accusations.
+    blocks, allowed_sources = [], set()
+    for i, s in enumerate(political[:4], 1):
+        candidates = []
+        for m in (s.get("cluster") or {}).get("members", [])[:8]:
+            u = m.get("link", "")
+            if u.startswith("https://") and u not in candidates:
+                candidates.append(u)
+        original = (s.get("original_source") or {}).get("url")
+        if original and original.startswith("https://") and original not in candidates:
+            candidates.insert(0, original)
+        discovery = (s.get("discovery") or {}).get("url")
+        if discovery and discovery.startswith("https://") and discovery not in candidates:
+            candidates.append(discovery)
+        allowed_sources.update(candidates)
+        blocks.append(f"ITEM {i}\nEVENT: {s.get('event','')}\n"
+                      f"ARTICLE DATE: {s.get('first_pub','')}\n"
+                      f"ARTICLE SOURCES (use only these exact URLs): {candidates}\n"
+                      f"ARTICLE TEXT: {s.get('excerpt','')[:2200]}")
+    prompt = """You are the evidence researcher for a political Controversy Cell.
+Extract BOTH current and historical public positions only when the supplied article text explicitly
+describes what a named public figure said, did, voted for, signed, ordered or formally supported/opposed.
+A historical position mentioned in a current article is useful: preserve its own statement/event date,
+not the article publication date. Never infer a statement date from an article date.
+Return JSON {"statements":[...]}.
+Each record: person, topic (specific policy/issue, consistent wording across records),
+position (neutral concise paraphrase), date (ISO-8601 only when explicitly stated),
+source_name, source_url (must be copied exactly from that ITEM's ARTICLE SOURCES),
+kind (reported_position, official_statement, interview, parliamentary_record, court_record or social_post),
+stance (support, oppose, conditional or unclear), confidence (0-100),
+source_excerpt (short exact contiguous passage from supplied ARTICLE TEXT supporting this position).
+Do not invent a quote, date, name, stance, link, context or source. Do not turn a journalist's opinion
+or allegation into the person's position. If the article only says "previously" without a date, omit it.
+If a historical claim is reported without a primary document link, retain the reporting source but clearly
+do not imply it is a primary record. No accusation or contradiction is publishable from this extraction.
+These are research leads for human editorial review only.
 \n\n""" + "\n\n".join(blocks)
     try:
         result = gemini_json(prompt)
         ledger = controversy_desk.load_ledger(ledger_path)
-        added, rejected = controversy_desk.add_statements(ledger, result.get("statements", []))
+        safe = []
+        rejected_source = 0
+        for raw in result.get("statements", []):
+            if not isinstance(raw, dict):
+                continue
+            if raw.get("source_url") not in allowed_sources:
+                rejected_source += 1
+                continue
+            excerpt = str(raw.get("source_excerpt") or "").strip()
+            # Require the evidence excerpt to be present in the actual fetched article text.
+            if not excerpt or not any(excerpt in str(s.get("excerpt", "")) for s in political):
+                rejected_source += 1
+                continue
+            safe.append(raw)
+        added, rejected = controversy_desk.add_statements(ledger, safe)
         controversy_desk.save_ledger(ledger, ledger_path)
         comparisons = controversy_desk.candidate_comparisons(ledger, min_confidence=75)
-        os.makedirs(os.path.dirname(comparisons_path), exist_ok=True)
+        folder = os.path.dirname(comparisons_path)
+        if folder:
+            os.makedirs(folder, exist_ok=True)
         save_json(comparisons_path, {"updated_at": iso(now()), "items": comparisons})
-        print(f"[controversy] archived {len(added)} dated positions; {len(comparisons)} comparison leads; rejected {len(rejected)}")
-        return {"added": len(added), "comparisons": len(comparisons), "rejected": len(rejected)}
+        print(f"[controversy] archived {len(added)} dated positions; {len(comparisons)} comparison leads; "
+              f"rejected {len(rejected) + rejected_source}")
+        return {"added": len(added), "comparisons": len(comparisons),
+                "rejected": len(rejected) + rejected_source}
     except Exception as ex:
         print(f"[controversy] research scan deferred safely: {ex}")
         return {"added": 0, "comparisons": 0, "error": str(ex)[:180]}
-
 
 def engagement_step(state, queue, t0):
     info = {"queued": []}
