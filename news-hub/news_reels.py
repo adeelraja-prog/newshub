@@ -98,26 +98,39 @@ def make_outro(path):
     im.save(path,quality=96)
 
 def make_original_music(path,duration):
-    # A freshly synthesized, royalty-safe ambient news bed (no samples or borrowed track).
-    import math, struct, wave
-    rate=44100; total=int(rate*duration); frames=[]
-    chords=[(110.00,130.81,164.81),(98.00,123.47,146.83),(87.31,110.00,130.81),(98.00,123.47,146.83)]
-    melody=[(0.0,440.00),(1.0,392.00),(2.0,349.23),(3.0,392.00),
-            (4.0,493.88),(5.0,440.00),(6.0,392.00),(7.0,349.23),
-            (8.0,392.00),(9.0,440.00),(10.0,523.25),(11.0,493.88),
-            (12.0,440.00),(13.0,392.00),(14.0,349.23)]
+    # Original, royalty-safe newsroom bed: pulsing low-end, tight percussive ticks,
+    # restrained cinematic brass-like stabs and a confident resolving finish.
+    import math, struct, wave, random
+    rate=44100; total=int(rate*duration); frames=[]; rng=random.Random(2406)
+    chords=[(73.42,110.00,146.83),(65.41,98.00,130.81),(82.41,123.47,164.81),(73.42,110.00,146.83)]
+    beat=60.0/112.0
     for n in range(total):
-        t=n/rate; bar=int(t/4)%len(chords); phase=t%4
-        fade=min(1.0,t/0.7,(duration-t)/1.1)
-        pad=sum(math.sin(2*math.pi*hz*t)*0.075 for hz in chords[bar])
-        pad+=0.025*math.sin(2*math.pi*chords[bar][0]*2*t)
-        lead=0.0
-        for onset,hz in melody:
-            age=t-onset
-            if 0<=age<0.85:
-                env=math.exp(-age*3.2)*min(1.0,age*18)
-                lead+=0.10*env*(math.sin(2*math.pi*hz*age)+0.25*math.sin(2*math.pi*hz*2*age))
-        sample=max(-0.8,min(0.8,(pad+lead)*fade))
+        t=n/rate; step=int(t/beat); phase=t%beat
+        bar=(step//4)%len(chords)
+        fade=min(1.0,t/0.35,(duration-t)/0.9)
+        # Warm, low cinematic pulse with a short kick on every beat.
+        bass=0.13*math.sin(2*math.pi*chords[bar][0]*t)
+        bass+=0.055*math.sin(2*math.pi*chords[bar][1]*t)
+        kick=0.0
+        if phase<0.16:
+            env=math.exp(-phase*24)
+            kick=0.34*env*math.sin(2*math.pi*(58-22*phase/0.16)*phase)
+        # Dry snare/clap-like noise on beats 2 and 4; soft hi-hat on subdivisions.
+        snare=0.0
+        if step%4 in (1,3) and phase<0.095:
+            snare=(rng.random()*2-1)*0.11*math.exp(-phase*42)
+        hat=0.0
+        if phase<0.025:
+            hat=(rng.random()*2-1)*0.035*math.exp(-phase*130)
+        # Short tonal newsroom stabs every second bar, not a constant thin melody.
+        stab=0.0
+        if step%8==0 and phase<0.42:
+            env=math.exp(-phase*7)
+            stab=sum(math.sin(2*math.pi*hz*phase) for hz in chords[bar][1:])*0.045*env
+        # Gentle high pulse keeps the bed moving under the voice/story.
+        tick=0.018*math.sin(2*math.pi*880*t)*(0.5+0.5*math.sin(2*math.pi*2*t))
+        sample=(bass+kick+snare+hat+stab+tick)*fade
+        sample=max(-0.85,min(0.85,sample))
         value=int(sample*32767)
         frames.append(struct.pack("<hh",value,value))
     with wave.open(str(path),"wb") as wav:
@@ -125,17 +138,15 @@ def make_original_music(path,duration):
 
 def render_story(item,folder):
     poster=item.get("poster") or {}; caption=[x.strip() for x in (item.get("caption") or "").split("\n\n") if x.strip()]
-    # Caption fields were fact-checked before this item entered the News Hub queue.
     opening=caption[0] if len(caption)>0 else item.get("headline","")
     summary_en=caption[1] if len(caption)>1 else (poster.get("en") or item.get("headline",""))
     summary_ur=caption[2] if len(caption)>2 else (poster.get("ur") or opening)
-    attribution=caption[3] if len(caption)>3 else ("Source: "+str(item.get("source_name") or "News Hub"))
     category=str(item.get("category") or "NEWS").replace("_"," ")
+    # Story-first editorial sequence: hook, concise context, why it matters, branded outro.
     slides=[
       ("THE STORY",poster.get("ur") or opening,poster.get("en") or "",True),
       ("WHAT HAPPENED",summary_en,"",False),
-      ("اردو خلاصہ",summary_ur,"",True),
-      ("SOURCE & CONTEXT",attribution,"Adeel Raja  |  News · Context · Perspective",False)
+      ("WHY IT MATTERS",summary_ur,"",True)
     ]
     folder.mkdir(parents=True,exist_ok=True); paths=[]
     for i,(eyebrow,main,secondary,is_urdu) in enumerate(slides,1):
@@ -143,33 +154,30 @@ def render_story(item,folder):
         make_slide(p,category,eyebrow,main,secondary,is_urdu,i,len(slides)); paths.append(p)
     outro=folder/"adeel_raja_outro.jpg"; make_outro(outro); paths.append(outro)
     out=folder/"news_story_reel.mp4"; music=folder/"original_news_bed.wav"
-    duration=14.2
+    duration=11.8
     make_original_music(music,duration)
     inputs=[]
     for p in paths: inputs += ["-loop","1","-t","3.2","-i",str(p)]
     inputs += ["-i",str(music)]
-    # Subtle push-in on every card, animated gold reveal bar, clean cross-fades,
-    # then a dedicated branded end card. Original generated instrumental is mixed in.
+    # Reel-style editorial motion, varied transitions, and an animated branded end-card reveal.
     graph=(
-      "[0:v]zoompan=z='min(zoom+0.00055,1.055)':d=96:s=1080x1920:fps=30,format=yuv420p[v0];"
-      "[1:v]zoompan=z='min(zoom+0.00055,1.055)':d=96:s=1080x1920:fps=30,format=yuv420p[v1];"
-      "[2:v]zoompan=z='min(zoom+0.00055,1.055)':d=96:s=1080x1920:fps=30,format=yuv420p[v2];"
-      "[3:v]zoompan=z='min(zoom+0.00055,1.055)':d=96:s=1080x1920:fps=30,format=yuv420p[v3];"
-      "[4:v]zoompan=z='min(zoom+0.00075,1.07)':d=96:s=1080x1920:fps=30,format=yuv420p[v4];"
-      "[v0][v1]xfade=transition=slideleft:duration=0.45:offset=2.75[x1];"
-      "[x1][v2]xfade=transition=fade:duration=0.45:offset=5.50[x2];"
-      "[x2][v3]xfade=transition=slideright:duration=0.45:offset=8.25[x3];"
-      "[x3][v4]xfade=transition=fade:duration=0.55:offset=11.00,"
-      "drawbox=x=0:y=0:w='iw*min(t/1.2,1)':h=12:color=0xC8A96A@0.95:t=fill[v];"
-      "[5:a]afade=t=in:st=0:d=0.8,afade=t=out:st=12.8:d=1.4,volume=0.72[a]"
+      "[0:v]zoompan=z='min(zoom+0.00085,1.075)':d=96:s=1080x1920:fps=30,format=yuv420p[v0];"
+      "[1:v]zoompan=z='min(zoom+0.00070,1.065)':d=96:s=1080x1920:fps=30,format=yuv420p[v1];"
+      "[2:v]zoompan=z='min(zoom+0.00090,1.08)':d=96:s=1080x1920:fps=30,format=yuv420p[v2];"
+      "[3:v]zoompan=z='min(zoom+0.00110,1.10)':d=96:s=1080x1920:fps=30,format=yuv420p[v3];"
+      "[v0][v1]xfade=transition=slideleft:duration=0.38:offset=2.82[x1];"
+      "[x1][v2]xfade=transition=fade:duration=0.38:offset=5.64[x2];"
+      "[x2][v3]xfade=transition=slideright:duration=0.48:offset=8.46,"
+      "drawbox=x=0:y=0:w='iw*min(t/0.9,1)':h=10:color=0xD90429@0.98:t=fill[v];"
+      "[4:a]afade=t=in:st=0:d=0.45,afade=t=out:st=10.2:d=1.5,volume=0.92[a]"
     )
     result=subprocess.run(["ffmpeg","-y",*inputs,"-filter_complex",graph,
         "-map","[v]","-map","[a]","-t",str(duration),"-c:v","libx264","-preset","veryfast",
-        "-crf","20","-pix_fmt","yuv420p","-c:a","aac","-b:a","160k","-shortest",
+        "-crf","19","-pix_fmt","yuv420p","-c:a","aac","-b:a","192k","-shortest",
         "-movflags","+faststart",str(out)],capture_output=True,text=True,timeout=600)
     if result.returncode or not out.exists():
         raise RuntimeError("Animated news Reel render failed: "+result.stderr[-1200:])
-    print("[news-reels] rendered 5-scene motion edit with original instrumental, transitions and Adeel Raja outro")
+    print("[news-reels] rendered 3-story-scene Reel with original newsroom music, motion transitions and Adeel Raja outro")
     return out, opening
 
 def post_reel(video,caption,title):
