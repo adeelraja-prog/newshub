@@ -706,6 +706,54 @@ def post_facebook_link(text, link):
     return r.json().get("id") or True
 
 
+def post_facebook_story(path, text):
+    """Publish a Page photo Story using Meta's two-step Page Stories API."""
+    page, token = env("FB_PAGE_ID"), env("FB_PAGE_TOKEN")
+    if not (page and token):
+        raise RuntimeError("Facebook Story publishing requires the existing FB_PAGE_ID and FB_PAGE_TOKEN.")
+    # Stories are 9:16. Fit the complete 4:5 editorial poster into a branded 9:16 canvas
+    # instead of cropping away the headline or important information.
+    from PIL import Image, ImageDraw
+    story_path = path.rsplit(".", 1)[0] + "-story.jpg"
+    with Image.open(path) as src:
+        src = src.convert("RGB")
+        canvas = Image.new("RGB", (1080, 1920), "#121214")
+        src.thumbnail((1080, 1350), Image.Resampling.LANCZOS)
+        x, y = (1080 - src.width) // 2, (1920 - src.height) // 2
+        canvas.paste(src, (x, y))
+        draw = ImageDraw.Draw(canvas)
+        draw.rectangle((0, 0, 1080, 9), fill="#D90429")
+        draw.rectangle((0, 1911, 1080, 1920), fill="#D90429")
+        canvas.save(story_path, "JPEG", quality=92, optimize=True)
+    try:
+        with open(story_path, "rb") as image_file:
+            uploaded = requests.post(
+                f"https://graph.facebook.com/v21.0/{page}/photos",
+                data={"published": "false", "access_token": token},
+                files={"source": image_file}, timeout=90)
+        if uploaded.status_code >= 300:
+            raise RuntimeError(f"Facebook unpublished Story photo upload failed {uploaded.status_code}: {uploaded.text[:400]}")
+        photo_id = uploaded.json().get("id")
+        if not photo_id:
+            raise RuntimeError("Facebook did not return a staged photo ID for the Story.")
+        published = requests.post(
+            f"https://graph.facebook.com/v21.0/{page}/photo_stories",
+            data={"photo_id": photo_id, "access_token": token}, timeout=90)
+        if published.status_code >= 300:
+            raise RuntimeError(f"Facebook Story publication failed {published.status_code}: {published.text[:400]}")
+        result = published.json()
+        story_id = result.get("post_id") or result.get("id")
+        if not story_id:
+            raise RuntimeError("Facebook did not return a Story ID; publication is unconfirmed: " + str(result)[:400])
+        print("[facebook-story] published", story_id)
+        return story_id
+    finally:
+        try:
+            os.remove(story_path)
+        except OSError:
+            pass
+
+
 def post_whatsapp(path, text):
     url, token = env("WHATSAPP_BRIDGE_URL").rstrip("/"), env("WHATSAPP_BRIDGE_TOKEN")
     if not url:
@@ -915,7 +963,7 @@ def make_poster(item, tag):
 
 
 def publish_one(queue, state, item, t0):
-    ok, fb_id = False, None
+    ok, fb_id, story_id = False, None, None
     if item.get("type") == "youtube":
         try:
             res = post_facebook_link(item["caption"], item["link"])
@@ -924,25 +972,42 @@ def publish_one(queue, state, item, t0):
             print(f"[facebook] FAILED: {ex}")
     else:
         path = make_poster(item, t0.astimezone(PKT).strftime("%Y%m%d-%H%M"))
-        targets = (("facebook", post_facebook),) if item.get("type") == "engage" else \
-                  (("facebook", post_facebook), ("whatsapp", post_whatsapp))
-        for name, fn in targets:
-            try:  # one platform failing never blocks the other
-                res = fn(path, item["caption"])
-                if res:
-                    ok = True
-                    if name == "facebook" and res is not True:
-                        fb_id = str(res)
+        route = item.get("distribution") or (
+            "story_only" if item.get("priority") == "story" else
+            "post_and_story" if item.get("priority") in ("breaking", "high") else "post_only")
+        if item.get("type") == "engage":
+            route = "post_only"
+        if route in ("post_only", "post_and_story"):
+            targets = (("facebook", post_facebook),) if item.get("type") == "engage" else \
+                      (("facebook", post_facebook), ("whatsapp", post_whatsapp))
+            for name, fn in targets:
+                try:
+                    res = fn(path, item["caption"])
+                    if res:
+                        ok = True
+                        if name == "facebook" and res is not True:
+                            fb_id = str(res)
+                except Exception as ex:
+                    print(f"[{name}] FAILED: {ex}")
+        if route in ("story_only", "post_and_story"):
+            try:
+                story_id = post_facebook_story(path, item["caption"])
+                ok = ok or bool(story_id)
             except Exception as ex:
-                print(f"[{name}] FAILED: {ex}")
+                item["story_error"] = str(ex)[:500]
+                print(f"[facebook-story] FAILED: {ex}")
     if ok:
         item["status"] = "published"
+        item["distribution"] = item.get("distribution") or route if item.get("type") != "youtube" else "post_only"
         item["published"] = {"time": iso(t0), "facebook_post_id": fb_id,
                              "facebook_post_url": f"https://www.facebook.com/{fb_id}" if fb_id else None,
-                             "public_check": "not verified - open the post link in a private/logged-out browser"}
+                             "facebook_story_id": story_id,
+                             "facebook_story_url": f"https://www.facebook.com/{story_id}" if story_id else None,
+                             "story_status": "published" if story_id else ("failed" if item.get("story_error") else "not_selected"),
+                             "public_check": "API accepted publication; public visibility not independently verified"}
         if item.get("type") not in ("youtube", "engage"):
             state.setdefault("published", []).append({"tokens": item["tokens"], "time": iso(t0), "title": item["title"]})
-        print("[queue] published", item["qid"], item["published"]["facebook_post_url"] or "")
+        print("[queue] published", item["qid"], item["published"]["facebook_post_url"] or item["published"]["facebook_story_url"] or "")
     else:
         item["attempts"] += 1
         if item["attempts"] >= 5:
