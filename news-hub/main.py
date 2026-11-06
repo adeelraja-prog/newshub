@@ -1223,6 +1223,43 @@ Slots requested: {kinds}
 Never state facts that are not in the headlines. Be neutral on political questions."""
 
 
+def controversy_scan(stories, ledger_path, comparisons_path):
+    """Archive only source-backed, explicitly dated public positions for later comparison."""
+    political = [s for s in stories if s.get("category") in ("politics", "courts", "security", "us_politics")
+                 and s.get("confidence", 0) >= 75 and s.get("excerpt")]
+    if not political:
+        return {"added": 0, "comparisons": 0}
+    blocks = []
+    for i, s in enumerate(political[:3], 1):
+        blocks.append(f"ITEM {i}\nARTICLE DATE: {s.get('first_pub','')}\n"
+                      f"ARTICLE SOURCE: {s.get('discovery',{}).get('name','')}\n"
+                      f"ARTICLE URL: {s.get('discovery',{}).get('url','')}\n"
+                      f"ARTICLE TEXT: {s.get('excerpt','')[:1600]}")
+    prompt = """You are a careful political archive researcher. Extract only explicit public positions/statements
+made by named public figures in the supplied source text. Return JSON {"statements":[...]}.
+Each item: person, topic, position (neutral paraphrase), date (ISO-8601 only if the text explicitly gives the
+statement date; otherwise empty), source_name, source_url (must be the supplied ARTICLE URL), kind
+(reported_position, official_statement, interview, parliamentary_record, court_record or social_post),
+stance (support, oppose, conditional or unclear), confidence (0-100), source_excerpt (short exact supporting
+passage). Do not invent dates, names, positions or links. Do not create a statement from a journalist's opinion.
+Do not provide verbatim quote field. If no explicit statement date is available, do not output that item.
+These are research leads requiring human editorial review, not publishable accusations.
+\n\n""" + "\n\n".join(blocks)
+    try:
+        result = gemini_json(prompt)
+        ledger = controversy_desk.load_ledger(ledger_path)
+        added, rejected = controversy_desk.add_statements(ledger, result.get("statements", []))
+        controversy_desk.save_ledger(ledger, ledger_path)
+        comparisons = controversy_desk.candidate_comparisons(ledger, min_confidence=75)
+        os.makedirs(os.path.dirname(comparisons_path), exist_ok=True)
+        save_json(comparisons_path, {"updated_at": iso(now()), "items": comparisons})
+        print(f"[controversy] archived {len(added)} dated positions; {len(comparisons)} comparison leads; rejected {len(rejected)}")
+        return {"added": len(added), "comparisons": len(comparisons), "rejected": len(rejected)}
+    except Exception as ex:
+        print(f"[controversy] research scan deferred safely: {ex}")
+        return {"added": 0, "comparisons": 0, "error": str(ex)[:180]}
+
+
 def engagement_step(state, queue, t0):
     info = {"queued": []}
     local = t0.astimezone(PKT)
@@ -1348,6 +1385,15 @@ def main():
             if not DRY_RUN and stories:
                 added_memory, total_memory = nm.remember(stories, memory_path, iso(t0))
                 print(f"[memory] archived {added_memory} new dated events; total archive {total_memory}")
+                last_scan = parse(state["last_controversy_scan"]) if state.get("last_controversy_scan") else None
+                if last_scan is None or t0 - last_scan >= timedelta(hours=6):
+                    political = [s for s in stories if s.get("category") in ("politics", "courts", "security", "us_politics")]
+                    if political:
+                        controversy_info = controversy_scan(
+                            stories, os.path.join(STATE_DIR, "controversy-ledger.json"),
+                            os.path.join(STATE_DIR, "controversy-comparisons.json"))
+                        state["last_controversy_scan"] = iso(t0)
+                        info["controversy"] = controversy_info
             for c in candidates:
                 c["hist"]["analysed_n"] = c["n_sources"]
             info["lists"] = ed.top_lists(stories)
