@@ -1,7 +1,5 @@
 name: news-hub
 on:
-  schedule:
-    - cron: "*/10 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -42,7 +40,7 @@ jobs:
       - run: python main.py
         env:
           STATE_DIR: /tmp/data
-          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+          DRY_RUN: "1"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
@@ -60,7 +58,7 @@ jobs:
           retention-days: 7
           if-no-files-found: ignore
       - name: Save memory
-        if: ${{ always() && github.event.inputs.dry_run != 'true' }}
+        if: false
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
