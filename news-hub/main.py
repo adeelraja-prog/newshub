@@ -411,10 +411,12 @@ For each cluster return:
 - "lifecycle": first_signal | emerging | confirmed | trending | saturated
 - "claim_status": confirmed | allegation | developing | unverified
 - "is_global": true if the event happened outside Pakistan
-- "scope": national | international | regional | local
+- "scope": national | provincial | international | local
 - "importance_class": major | routine | minor
-- "national_impact": 0-100 (country-wide institutional or public impact)
-- "global_impact": 0-100 (consequences beyond one country)
+- "national_impact": 0-100
+- "regional_impact": 0-100 (impact within the relevant province/territory and its population)
+- "global_impact": 0-100
+- "region": Azad Jammu and Kashmir | Gilgit-Baltistan | Punjab | Sindh | Khyber Pakhtunkhwa | Balochistan | null
 - "why_pakistani_audience_cares": explain Pakistan impact OR why it is a major world event
 - "original_source": {{"type": official_document | official_statement | court_order | social_post |
    exclusive_report | wire | unknown, "name": who originally said/reported it, "url_ref": the L-number of a link
@@ -422,17 +424,25 @@ For each cluster return:
 - "corroborating": names of OTHER independent outlets (not mere repeaters) that confirm it, if clear
 - "explanation": why you ranked it this way (max 25 words)
 STRICT EDITORIAL SCOPE:
-- Publish only NATIONAL (Pakistan-wide / federal institutions / national policy / major national politics /
-  courts / economy / security / public services with broad impact) or INTERNATIONAL (major wars, diplomacy,
-  global economy, major elections, major disasters, major science/technology and events with global consequences).
-- Reject REGIONAL and LOCAL stories: routine district incidents, local crime, local political statements, routine
-  transfers, small ceremonies, minor accidents, local disputes, routine city weather and viral clips.
-- A Pakistani city mention does NOT make a story national. Explain the country-wide consequence.
+- Publish only NATIONAL, PROVINCIAL/REGIONAL-OF-NATIONAL-IMPORTANCE, or INTERNATIONAL stories.
+- Pakistan national desk: federal institutions, national policy, major national politics, courts, economy,
+  security and public services with broad impact.
+- Provincial/regional desk MUST cover major developments from Azad Jammu & Kashmir, Gilgit-Baltistan,
+  Punjab, Sindh, Khyber Pakhtunkhwa and Balochistan. Do NOT reject a story merely because it is provincial
+  or geographically limited to one of these regions.
+- Give a provincial story high priority when it has major consequences for public safety, governance,
+  constitutional/federal relations, rights, major infrastructure, natural disasters, public health, education,
+  water/energy, economy, security or a large affected population. A major provincial political development
+  can qualify when it changes governance, policy or public accountability.
+- Reject routine district incidents, ordinary local crime, minor political statements, routine transfers,
+  small ceremonies, minor accidents, petty disputes, routine city weather and recycled viral clips.
+- Distinguish a consequential provincial story from a routine local item by impact, scale, evidence and public interest.
 - International stories need not mention Pakistan if genuinely globally significant.
 - Routine celebrity gossip, social trends and recycled clips are not news without major public-interest significance.
-- Set importance_class=major only for consequential events. If in doubt, mark routine.
-- National stories require national_impact >=70. International stories require global_impact >=80 OR a clear
-  Pakistan-wide consequence (pakistan_relevance >=75 and a specific explanation).
+- Set importance_class=major only for consequential events. If in doubt mark routine.
+- National stories require national_impact >=70. Provincial/regional stories require regional_impact >=70.
+  International stories require global_impact >=80 OR a clear Pakistan-wide consequence
+  (pakistan_relevance >=75 and a specific explanation).
 - Viral potential and outlet count must NEVER compensate for low public importance.
 Never invent a source, link, quote or confirmation. If you cannot tell who originally reported it, use
 type "unknown". If only the excerpt was read, say so in "basis". Distinguish confirmed facts from allegations and
@@ -490,7 +500,8 @@ def analyse(clusters):
             "lifecycle": s.get("lifecycle") or "emerging", "claim_status": s.get("claim_status") or "developing",
             "is_global": bool(s.get("is_global")), "scope": str(s.get("scope") or "unknown").lower(),
             "importance_class": str(s.get("importance_class") or "unknown").lower(),
-            "national_impact": clamp(s.get("national_impact")), "global_impact": clamp(s.get("global_impact")),
+            "national_impact": clamp(s.get("national_impact")), "regional_impact": clamp(s.get("regional_impact")),
+            "region": str(s.get("region") or "").strip(), "global_impact": clamp(s.get("global_impact")),
             "why_pk": (s.get("why_pakistani_audience_cares") or "").strip(),
             "original_source": {"type": otype, "name": (os_.get("name") or "unknown").strip(),
                                 "url": url, "basis": (os_.get("basis") or "").strip()},
@@ -505,11 +516,14 @@ def analyse(clusters):
             "last_update": iso(c["last_pub"]),
         }
         # Hard final gate: no routine regional/local, minor or weakly sourced items.
-        if story["scope"] not in ("national", "international") or story["importance_class"] != "major":
+        if story["scope"] not in ("national", "provincial", "international") or story["importance_class"] != "major":
             continue
         if story["confidence"] < 75 or story["importance"] < 75 or story["public_interest"] < 65:
             continue
         if story["scope"] == "national" and story["national_impact"] < 70:
+            continue
+        if story["scope"] == "provincial" and (story["regional_impact"] < 70 or story["region"] not in
+                ("Azad Jammu and Kashmir", "Gilgit-Baltistan", "Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan")):
             continue
         if story["scope"] == "international" and story["global_impact"] < 80:
             if story["pakistan_relevance"] < 75 or not story["why_pk"]:
@@ -724,7 +738,8 @@ def enqueue(queue, story, w, caption, t0):
                  "trend_basis": story["trend_basis"], "trend_notes": story["trend_notes"], "x_signal": story["x_signal"],
                  "lifecycle": story["lifecycle"], "claim_status": story["claim_status"], "why_pk": story["why_pk"],
                  "scope": story["scope"], "importance_class": story["importance_class"],
-                 "national_impact": story["national_impact"], "global_impact": story["global_impact"],
+                 "region": story["region"], "national_impact": story["national_impact"],
+                 "regional_impact": story["regional_impact"], "global_impact": story["global_impact"],
                  "explanation": story["explanation"], "original_source": story["original_source"],
                  "discovery": story["discovery"], "corroborating": story["corroborating"],
                  "first_published": story["first_pub"], "last_update": story["last_update"],
