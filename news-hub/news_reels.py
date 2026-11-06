@@ -83,6 +83,46 @@ def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,tot
     d.text((W//2,1870),f"{slide_no:02d} / {total:02d}",font=font(FONT_EN,20),fill=GOLD,anchor="mm")
     im.save(path,quality=95)
 
+def make_outro(path):
+    im=Image.new("RGB",(W,H),NAVY); d=ImageDraw.Draw(im)
+    # Purpose-built branded end card; no external logo asset or copyrighted material.
+    d.rectangle((0,0,W,18),fill=GOLD)
+    d.ellipse((170,490,910,1230),outline=(45,54,70),width=5)
+    d.ellipse((235,555,845,1165),outline=(62,70,84),width=2)
+    d.rounded_rectangle((330,700,750,1120),radius=210,outline=GOLD,width=5)
+    d.text((W//2,850),"AR",font=font(FONT_EN,150),fill=IVORY,anchor="mm")
+    d.line((300,1200,780,1200),fill=GOLD,width=4)
+    d.text((W//2,1300),"ADEEL RAJA",font=font(FONT_EN,76),fill=IVORY,anchor="mm")
+    d.text((W//2,1380),"NEWS  ·  CONTEXT  ·  PERSPECTIVE",font=font(FONT_EN,23),fill=MUTED,anchor="mm")
+    d.text((W//2,1510),"@adeelrajaviews",font=font(FONT_EN,31),fill=GOLD,anchor="mm")
+    im.save(path,quality=96)
+
+def make_original_music(path,duration):
+    # A freshly synthesized, royalty-safe ambient news bed (no samples or borrowed track).
+    import math, struct, wave
+    rate=44100; total=int(rate*duration); frames=[]
+    chords=[(110.00,130.81,164.81),(98.00,123.47,146.83),(87.31,110.00,130.81),(98.00,123.47,146.83)]
+    melody=[(0.0,440.00),(1.0,392.00),(2.0,349.23),(3.0,392.00),
+            (4.0,493.88),(5.0,440.00),(6.0,392.00),(7.0,349.23),
+            (8.0,392.00),(9.0,440.00),(10.0,523.25),(11.0,493.88),
+            (12.0,440.00),(13.0,392.00),(14.0,349.23)]
+    for n in range(total):
+        t=n/rate; bar=int(t/4)%len(chords); phase=t%4
+        fade=min(1.0,t/0.7,(duration-t)/1.1)
+        pad=sum(math.sin(2*math.pi*hz*t)*0.075 for hz in chords[bar])
+        pad+=0.025*math.sin(2*math.pi*chords[bar][0]*2*t)
+        lead=0.0
+        for onset,hz in melody:
+            age=t-onset
+            if 0<=age<0.85:
+                env=math.exp(-age*3.2)*min(1.0,age*18)
+                lead+=0.10*env*(math.sin(2*math.pi*hz*age)+0.25*math.sin(2*math.pi*hz*2*age))
+        sample=max(-0.8,min(0.8,(pad+lead)*fade))
+        value=int(sample*32767)
+        frames.append(struct.pack("<hh",value,value))
+    with wave.open(str(path),"wb") as wav:
+        wav.setnchannels(2); wav.setsampwidth(2); wav.setframerate(rate); wav.writeframes(b"".join(frames))
+
 def render_story(item,folder):
     poster=item.get("poster") or {}; caption=[x.strip() for x in (item.get("caption") or "").split("\n\n") if x.strip()]
     # Caption fields were fact-checked before this item entered the News Hub queue.
@@ -101,20 +141,35 @@ def render_story(item,folder):
     for i,(eyebrow,main,secondary,is_urdu) in enumerate(slides,1):
         p=folder/f"slide_{i:02d}.jpg"
         make_slide(p,category,eyebrow,main,secondary,is_urdu,i,len(slides)); paths.append(p)
-    out=folder/"news_story_reel.mp4"
-    # 4 editorial cards with smooth cross-fades; the words remain exactly those in the checked post.
+    outro=folder/"adeel_raja_outro.jpg"; make_outro(outro); paths.append(outro)
+    out=folder/"news_story_reel.mp4"; music=folder/"original_news_bed.wav"
+    duration=15.6
+    make_original_music(music,duration)
     inputs=[]
     for p in paths: inputs += ["-loop","1","-t","3.2","-i",str(p)]
-    graph=("[0:v]fps=30,format=yuv420p[v0];[1:v]fps=30,format=yuv420p[v1];"
-           "[2:v]fps=30,format=yuv420p[v2];[3:v]fps=30,format=yuv420p[v3];"
-           "[v0][v1]xfade=transition=fade:duration=0.35:offset=2.85[x1];"
-           "[x1][v2]xfade=transition=fade:duration=0.35:offset=5.70[x2];"
-           "[x2][v3]xfade=transition=fade:duration=0.35:offset=8.55,format=yuv420p[v]")
-    result=subprocess.run(["ffmpeg","-y",*inputs,"-filter_complex",graph,"-map","[v]","-an",
-        "-c:v","libx264","-preset","veryfast","-crf","21","-pix_fmt","yuv420p","-movflags","+faststart",str(out)],
-        capture_output=True,text=True,timeout=300)
+    inputs += ["-i",str(music)]
+    # Subtle push-in on every card, animated gold reveal bar, clean cross-fades,
+    # then a dedicated branded end card. Original generated instrumental is mixed in.
+    graph=(
+      "[0:v]zoompan=z='min(zoom+0.00055,1.055)':d=96:s=1080x1920:fps=30,format=yuv420p[v0];"
+      "[1:v]zoompan=z='min(zoom+0.00055,1.055)':d=96:s=1080x1920:fps=30,format=yuv420p[v1];"
+      "[2:v]zoompan=z='min(zoom+0.00055,1.055)':d=96:s=1080x1920:fps=30,format=yuv420p[v2];"
+      "[3:v]zoompan=z='min(zoom+0.00055,1.055)':d=96:s=1080x1920:fps=30,format=yuv420p[v3];"
+      "[4:v]zoompan=z='min(zoom+0.00075,1.07)':d=96:s=1080x1920:fps=30,format=yuv420p[v4];"
+      "[v0][v1]xfade=transition=slideleft:duration=0.45:offset=2.75[x1];"
+      "[x1][v2]xfade=transition=fade:duration=0.45:offset=5.50[x2];"
+      "[x2][v3]xfade=transition=slideright:duration=0.45:offset=8.25[x3];"
+      "[x3][v4]xfade=transition=fade:duration=0.55:offset=11.00,"
+      "drawbox=x=0:y=0:w='iw*min(t/1.2,1)':h=12:color=0xC8A96A@0.95:t=fill[v];"
+      "[5:a]afade=t=in:st=0:d=0.8,afade=t=out:st=14.2:d=1.4,volume=0.72[a]"
+    )
+    result=subprocess.run(["ffmpeg","-y",*inputs,"-filter_complex",graph,
+        "-map","[v]","-map","[a]","-t",str(duration),"-c:v","libx264","-preset","veryfast",
+        "-crf","20","-pix_fmt","yuv420p","-c:a","aac","-b:a","160k","-shortest",
+        "-movflags","+faststart",str(out)],capture_output=True,text=True,timeout=600)
     if result.returncode or not out.exists():
-        raise RuntimeError("Animated news Reel render failed: "+result.stderr[-700:])
+        raise RuntimeError("Animated news Reel render failed: "+result.stderr[-1200:])
+    print("[news-reels] rendered 5-scene motion edit with original instrumental, transitions and Adeel Raja outro")
     return out, opening
 
 def post_reel(video,caption,title):
