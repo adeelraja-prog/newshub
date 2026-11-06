@@ -68,22 +68,57 @@ def draw_paragraph(draw,text,f,y,max_width,fill,direction="ltr",line_gap=16,max_
     return y
 
 def load_story_photo(item,folder):
-    """Load the story's supplied lead image for use as a visual background."""
-    url=str(item.get("image_url") or "").strip()
-    if not url.startswith("https://"): return None
+    """Use a supplied lead image, then keyless CC0/public-domain image search fallbacks."""
+    candidates=[]
+    supplied=str(item.get("image_url") or "").strip()
+    if supplied.startswith("https://"):
+        candidates.append(supplied)
+    query=" ".join([str(item.get("headline") or item.get("title") or ""),str(item.get("category") or "news")])[:180]
     try:
-        r=requests.get(url,headers={"User-Agent":"Mozilla/5.0 (compatible; AdeelRajaNewsHub/1.0)"},timeout=25)
+        r=requests.get("https://api.openverse.org/v1/images/",params={
+            "q":query,"page_size":12,"license":"cc0,pdm"
+        },headers={"User-Agent":"Mozilla/5.0 (compatible; AdeelRajaNewsHub/1.0)"},timeout=20)
         r.raise_for_status()
-        if not r.headers.get("Content-Type","").lower().startswith("image/"): return None
-        if len(r.content)<10000 or len(r.content)>15000000: return None
-        im=Image.open(io.BytesIO(r.content)).convert("RGB")
-        if im.width<360 or im.height<240: return None
-        path=folder/"story_photo.jpg"
-        im.save(path,quality=93)
-        return path
+        for hit in r.json().get("results",[]):
+            url=hit.get("url") or hit.get("thumbnail")
+            if url and url.startswith("https://"): candidates.append(url)
     except Exception as exc:
-        print(f"[news-reels] lead image unavailable: {exc}")
-        return None
+        print(f"[news-reels] Openverse image search unavailable: {exc}")
+    try:
+        r=requests.get("https://commons.wikimedia.org/w/api.php",params={
+            "action":"query","format":"json","generator":"search","gsrsearch":"filetype:bitmap "+query,
+            "gsrnamespace":6,"gsrlimit":10,"prop":"imageinfo","iiprop":"url|extmetadata","iiurlwidth":1400
+        },headers={"User-Agent":"Mozilla/5.0 (compatible; AdeelRajaNewsHub/1.0)"},timeout=20)
+        r.raise_for_status()
+        pages=(r.json().get("query") or {}).get("pages") or {}
+        for page in pages.values():
+            info=(page.get("imageinfo") or [{}])[0]
+            meta=info.get("extmetadata") or {}
+            licence=re.sub("<[^>]+>","",(meta.get("LicenseShortName") or {}).get("value",""))
+            if re.search(r"CC0|Public domain",licence,re.I):
+                url=info.get("thumburl") or info.get("url")
+                if url and url.startswith("https://"): candidates.append(url)
+    except Exception as exc:
+        print(f"[news-reels] Commons image search unavailable: {exc}")
+    seen=set()
+    for url in candidates:
+        if url in seen: continue
+        seen.add(url)
+        try:
+            r=requests.get(url,headers={"User-Agent":"Mozilla/5.0 (compatible; AdeelRajaNewsHub/1.0)"},timeout=25)
+            r.raise_for_status()
+            if not r.headers.get("Content-Type","").lower().startswith("image/"): continue
+            if len(r.content)<10000 or len(r.content)>15000000: continue
+            im=Image.open(io.BytesIO(r.content)).convert("RGB")
+            if im.width<360 or im.height<240: continue
+            path=folder/"story_photo.jpg"
+            im.save(path,quality=93)
+            print("[news-reels] a usable lead photograph was selected")
+            return path
+        except Exception:
+            continue
+    print("[news-reels] no usable lead photograph found; graphic fallback will be used")
+    return None
 
 def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,total=3,photo=None):
     if photo and Path(photo).exists():
