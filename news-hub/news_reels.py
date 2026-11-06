@@ -143,7 +143,7 @@ def render_story(item,folder):
         make_slide(p,category,eyebrow,main,secondary,is_urdu,i,len(slides)); paths.append(p)
     outro=folder/"adeel_raja_outro.jpg"; make_outro(outro); paths.append(outro)
     out=folder/"news_story_reel.mp4"; music=folder/"original_news_bed.wav"
-    duration=15.6
+    duration=14.2
     make_original_music(music,duration)
     inputs=[]
     for p in paths: inputs += ["-loop","1","-t","3.2","-i",str(p)]
@@ -161,7 +161,7 @@ def render_story(item,folder):
       "[x2][v3]xfade=transition=slideright:duration=0.45:offset=8.25[x3];"
       "[x3][v4]xfade=transition=fade:duration=0.55:offset=11.00,"
       "drawbox=x=0:y=0:w='iw*min(t/1.2,1)':h=12:color=0xC8A96A@0.95:t=fill[v];"
-      "[5:a]afade=t=in:st=0:d=0.8,afade=t=out:st=14.2:d=1.4,volume=0.72[a]"
+      "[5:a]afade=t=in:st=0:d=0.8,afade=t=out:st=12.8:d=1.4,volume=0.72[a]"
     )
     result=subprocess.run(["ffmpeg","-y",*inputs,"-filter_complex",graph,
         "-map","[v]","-map","[a]","-t",str(duration),"-c:v","libx264","-preset","veryfast",
