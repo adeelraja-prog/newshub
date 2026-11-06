@@ -46,15 +46,20 @@ def main():
         print("[clips] initial baseline saved; newly uploaded videos will be clipped on the next cycle")
         return
     pending=[v for v in latest if v["id"] not in state["done"] and state["failed"].get(v["id"],0)<3]
+    failed_this_run=[]
     for video in pending[:C.MAX_VIDEOS_PER_RUN]:
         print("[clips] processing",video["channel"],video["id"],video["title"])
         try: ok=process(video)
         except Exception: traceback.print_exc(); ok=False
         if ok:
             state["done"].append(video["id"]); state["failed"].pop(video["id"],None)
-        else: state["failed"][video["id"]]=state["failed"].get(video["id"],0)+1
+        else:
+            state["failed"][video["id"]]=state["failed"].get(video["id"],0)+1
+            failed_this_run.append(video["id"])
         save_state(state)
         shutil.rmtree(C.WORK/video["id"],ignore_errors=True)
     state["done"]=list(dict.fromkeys(state["done"]))[-500:]; save_state(state)
+    if failed_this_run:
+        raise RuntimeError("YouTube clip Reel processing failed for: "+", ".join(failed_this_run))
 
 if __name__=="__main__": main()
