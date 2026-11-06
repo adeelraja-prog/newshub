@@ -39,12 +39,12 @@ def render(src:Path,segs,clip,out_dir:Path,idx:int):
     ass=out_dir/f"subs{idx}.ass"; build_ass(segs,clip["start"],clip["end"],clip["hook"],ass)
     out=out_dir/f"reel_{idx}.mp4"; duration=clip["end"]-clip["start"]
     if C.REEL_MODE=="blur":
-        vf=("[0:v]split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:5[bg];"
-            f"[b]scale=1080:-2[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,subtitles={ass.name}[v]")
+        vf=("[0:v]split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:5,fps=30,settb=AVTB[bg];"
+            f"[b]scale=1080:-2,fps=30,settb=AVTB[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2:shortest=1,subtitles={ass.name},fps=30,settb=AVTB[v]")
         opts=["-filter_complex",vf,"-map","[v]","-map","0:a?"]
-    else: opts=["-vf",f"scale=-2:1920,crop=1080:1920,subtitles={ass.name}"]
+    else: opts=["-vf",f"scale=-2:1920,crop=1080:1920,fps=30,settb=AVTB,subtitles={ass.name},fps=30"]
     args=["ffmpeg","-y","-ss",f"{clip['start']:.2f}","-i",str(src),"-t",f"{duration:.2f}",*opts,
-        "-r","30","-c:v","libx264","-preset","veryfast","-crf","23","-pix_fmt","yuv420p",
+        "-r","30","-fps_mode","cfr","-video_track_timescale","30000","-c:v","libx264","-preset","veryfast","-crf","23","-pix_fmt","yuv420p",
         "-c:a","aac","-b:a","128k","-movflags","+faststart",out.name]
     r=subprocess.run(args,cwd=out_dir,capture_output=True,text=True,timeout=900)
     if r.returncode or not out.exists(): print("[render] ffmpeg failed:",r.stderr[-700:]); return None
