@@ -1,5 +1,7 @@
 name: news-hub
 on:
+  schedule:
+    - cron: "*/10 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -23,7 +25,7 @@ jobs:
           python-version: "3.12"
           cache: pip
           cache-dependency-path: news-hub/requirements.txt
-      - run: sudo apt-get update -qq && sudo apt-get install -y -qq libcairo2 libraqm0 ffmpeg
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq libcairo2 libraqm0
       - run: pip install -r requirements.txt
       - name: Restore saved memory (kept on its own branch so your main branch stays clean)
         env:
@@ -40,25 +42,23 @@ jobs:
       - run: python main.py
         env:
           STATE_DIR: /tmp/data
-          DRY_RUN: "1"
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           WHATSAPP_BRIDGE_URL: ${{ secrets.WHATSAPP_BRIDGE_URL }}
           WHATSAPP_BRIDGE_TOKEN: ${{ secrets.WHATSAPP_BRIDGE_TOKEN }}
-      - name: Save generated posters, reels and report as workflow artifacts
-        if: always()
+      - name: Download posters and report (dry run preview)
+        if: ${{ always() && github.event.inputs.dry_run == 'true' }}
         uses: actions/upload-artifact@v4
         with:
-          name: adeel-raja-news-assets
+          name: posters-and-report
           path: |
             news-hub/posters/
-            news-hub/reels/
             news-hub/reports/
-          retention-days: 7
           if-no-files-found: ignore
       - name: Save memory
-        if: false
+        if: ${{ always() && github.event.inputs.dry_run != 'true' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
