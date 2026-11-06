@@ -4,7 +4,7 @@ from pathlib import Path
 def env(*names,default=None):
     for name in names:
         value=os.environ.get(name)
-        if value: return value
+        if value is not None and value.strip(): return value.strip()
     return default
 
 BASE=Path(__file__).resolve().parent.parent
@@ -25,4 +25,6 @@ SUB_SIZE=int(env("SUB_SIZE",default="66"))
 FB_GRAPH="https://graph.facebook.com/"+env("FB_GRAPH_VERSION",default="v23.0")
 # Uses only the existing News Hub page credentials passed by the workflow.
 FB_PAGE_ID=env("FB_PAGE_ID"); FB_TOKEN=env("FB_PAGE_TOKEN")
+if FB_PAGE_ID and not FB_PAGE_ID.isdigit():
+    raise RuntimeError("FB_PAGE_ID must contain only the numeric Facebook Page ID; check the existing secret for embedded whitespace or extra characters.")
 DRY_RUN=env("DRY_RUN",default="0")=="1"
