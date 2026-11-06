@@ -189,7 +189,7 @@ BLOCKED_COUNT = [0]
 
 def has_devanagari(text):
     """Reject Hindi/Devanagari content; newsroom output is Urdu and English only."""
-    return bool(re.search(r"[\\u0900-\\u097F]", text or ""))
+    return bool(re.search(r"[\u0900-\u097F]", text or ""))
 
 
 def is_blocked(name, link):
