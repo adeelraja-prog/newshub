@@ -459,7 +459,7 @@ TEMPLATES = [T1, T2, T3, T4, T5]
 
 
 def render(headline_ur, headline_en, category, breaking, sources, handle, out_path, variant=0, tag=None,
-           person=None, credit=None):
+           person=None, credit=None, value_addition=None):
     """Same signature the bot already calls. variant selects template / flip / background style."""
     icon_name, lab_ur, lab_en, acc = CATS.get(category, CATS["other"])
     c = Ctx()
@@ -491,9 +491,84 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
             c.person = None
     c.img = background(c, style)
     c.d = ImageDraw.Draw(c.img)
-    TEMPLATES[t](c, flip, style)
+    if value_addition and isinstance(value_addition, dict) and value_addition.get("type") in ("explainer", "data", "timeline", "factcheck"):
+        render_mobile_value_card(c, value_addition)
+    else:
+        TEMPLATES[t](c, flip, style)
     c.img.save(out_path, "JPEG", quality=94)
     return out_path
+
+
+def render_mobile_value_card(c, info):
+    """Mobile-first 4:5 value-addition card. Facts are supplied by the verified editorial desk."""
+    bg = "#111216" if (info.get("theme") or "dark") == "dark" else "#F7F5F0"
+    ink = "#F7F4EE" if bg == "#111216" else "#171719"
+    sub = "#C2C0BC" if bg == "#111216" else "#5F5B55"
+    accent = c.acc if c.acc else GOLD
+    c.img = Image.new("RGB", (W, H), bg)
+    d = ImageDraw.Draw(c.img)
+    d.rectangle((0, 0, 14, H), fill=RED if c.breaking else accent)
+    # compact masthead and strong visual hierarchy for phone screens
+    lockup(c.img, M, 40, "l", 0.58, ink, sub, GOLD)
+    d.line((M, 174, W-M, 174), fill=accent, width=3)
+    labels = {"explainer":"THE STORY EXPLAINED", "data":"THE NUMBERS", "timeline":"WHAT HAPPENED WHEN", "factcheck":"CLAIM vs EVIDENCE"}
+    kind = info.get("type", "explainer")
+    spaced(d, M, 225, labels.get(kind, "THE STORY"), sans(25, 800), accent, 3)
+    title = str(info.get("title") or c.en or c.ur or "What you need to know")[:120]
+    tf = sans(58, 800)
+    lines = wrap(title, tf, W-2*M)
+    if len(lines) > 3:
+        tf = sans(48, 800); lines = wrap(title, tf, W-2*M)
+    y = 280
+    for line in lines[:3]:
+        d.text((M,y), line, font=tf, fill=ink)
+        y += int(tf.size*1.18)
+    y += 24
+    entries = info.get("points") or []
+    if kind == "timeline":
+        entries = info.get("timeline") or entries
+    if kind == "data":
+        entries = info.get("data_points") or entries
+    if kind == "factcheck":
+        entries = info.get("evidence_points") or entries
+    entries = [x for x in entries if isinstance(x, dict) and str(x.get("text") or x.get("label") or "").strip()][:4]
+    if kind == "data" and entries:
+        # A clean vertical bar comparison; numbers and units are printed exactly as supplied.
+        vals=[]
+        for e in entries:
+            try: vals.append(max(0.0,float(e.get("value"))))
+            except Exception: vals.append(0.0)
+        vmax=max(vals) if vals else 0
+        for i,e in enumerate(entries):
+            label=str(e.get("label",""))[:46]
+            value=str(e.get("display_value") or e.get("value_text") or e.get("value") or "")
+            d.text((M,y),label,font=sans(27,600),fill=sub)
+            d.text((W-M,y),value,font=sans(30,800),fill=ink,anchor="ra")
+            y += 42
+            barw=int((W-2*M)*(vals[i]/vmax)) if vmax else 0
+            d.rounded_rectangle((M,y,W-M,y+13),radius=6,fill="#34363D")
+            if barw: d.rounded_rectangle((M,y,M+barw,y+13),radius=6,fill=accent)
+            y += 34
+    else:
+        for i,e in enumerate(entries):
+            label=str(e.get("date") or e.get("label") or e.get("heading") or ("0"+str(i+1)))[-48:]
+            body=str(e.get("text") or e.get("detail") or e.get("description") or "")[:170]
+            d.rounded_rectangle((M,y,W-M,y+145),radius=18,fill="#24262D" if bg=="#111216" else "#EAE6DE")
+            d.rounded_rectangle((M,y,M+8,y+145),radius=4,fill=accent)
+            d.text((M+28,y+20),label,font=sans(27,800),fill=accent)
+            bf=sans(26,500)
+            wrapped=wrap(body,bf,W-2*M-58)
+            by=y+61
+            for line in wrapped[:2]:
+                d.text((M+28,by),line,font=bf,fill=ink); by+=34
+            y += 164
+            if y > 1050: break
+    source=str(info.get("source_note") or c.source or "")
+    if source:
+        d.text((M,1130),("Sources: "+source)[:88],font=sans(20,500),fill=sub)
+    d.line((M,1180,W-M,1180),fill="#45464D" if bg=="#111216" else "#D5D0C7",width=2)
+    social_footer(c.img,W//2,1210,ink,sub)
+    c.d=ImageDraw.Draw(c.img)
 
 
 class Ctx:
