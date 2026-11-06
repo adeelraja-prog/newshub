@@ -14,7 +14,7 @@ PAGE=os.getenv("FB_PAGE_ID",""); TOKEN=os.getenv("FB_PAGE_TOKEN","")
 GRAPH="https://graph.facebook.com/"+os.getenv("FB_GRAPH_VERSION","v23.0")
 MAX_PER_RUN=int(os.getenv("NEWS_REELS_MAX_PER_RUN","1"))
 FONT_UR=BASE/"assets"/"fonts"/"NotoNastaliqUrdu.ttf"
-FONT_EN=BASE/"assets"/"fonts"/"NotoSans.ttf"
+FONT_EN=Path("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf")
 W,H=1080,1920
 NAVY=(13,18,29); IVORY=(245,240,230); GOLD=(200,169,106); MUTED=(169,170,174); RED=(217,4,41)
 
