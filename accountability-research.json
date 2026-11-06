@@ -1,0 +1,2211 @@
+{
+  "schema_version": 1,
+  "cases": [
+    {
+      "id": "1ab8e05b18b5f4006f0e",
+      "created_at": "2026-11-07T10:57:25.665691+00:00",
+      "updated_at": "2026-11-07T10:57:25.665691+00:00",
+      "event": "The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+      "category": "disaster",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "vision of"
+        ],
+        "accountability_cues": [
+          "delay"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+        "Find prior promises, earlier phases and delivery records for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+        "Find independent audit, parliamentary, court or regulator records for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+        "Seek a response from the responsible department and affected people for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "2e70327ec09ce5f1b3b3",
+      "created_at": "2026-11-07T11:29:30.560039+00:00",
+      "updated_at": "2026-11-07T11:29:30.560039+00:00",
+      "event": "The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+      "category": "politics",
+      "claim_status": "allegation",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "launched"
+        ],
+        "accountability_cues": [
+          "tender",
+          "contract",
+          "investigation",
+          "corruption"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+        "Find prior promises, earlier phases and delivery records for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+        "Find independent audit, parliamentary, court or regulator records for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+        "Seek a response from the responsible department and affected people for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "4123ae263a43311b099c",
+      "created_at": "2026-11-07T15:10:24.510480+00:00",
+      "updated_at": "2026-11-07T15:10:24.510480+00:00",
+      "event": "The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announces"
+        ],
+        "accountability_cues": [
+          "cost"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+        "Find prior promises, earlier phases and delivery records for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+        "Find independent audit, parliamentary, court or regulator records for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+        "Seek a response from the responsible department and affected people for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs)."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "78248bd2c8879f72b02b",
+      "created_at": "2026-11-07T17:38:56.212602+00:00",
+      "updated_at": "2026-11-07T17:38:56.212602+00:00",
+      "event": "Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+      "category": "tech",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "launches"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+        "Find prior promises, earlier phases and delivery records for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+        "Find independent audit, parliamentary, court or regulator records for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+        "Seek a response from the responsible department and affected people for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "333d13351947d95abc34",
+      "created_at": "2026-11-07T20:57:22.624914+00:00",
+      "updated_at": "2026-11-07T20:57:22.624914+00:00",
+      "event": "Federal Minister Tarar announced that the new auto policy aims to deliver affordable, quality, and environment-friendly vehicles for citizens.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announces"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Federal Minister Tarar announced that the new auto policy aims to deliver affordable, quality, and environment-friendly vehicles for citizens.",
+        "Find prior promises, earlier phases and delivery records for: Federal Minister Tarar announced that the new auto policy aims to deliver affordable, quality, and environment-friendly vehicles for citizens.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Federal Minister Tarar announced that the new auto policy aims to deliver affordable, quality, and environment-friendly vehicles for citizens.",
+        "Find independent audit, parliamentary, court or regulator records for: Federal Minister Tarar announced that the new auto policy aims to deliver affordable, quality, and environment-friendly vehicles for citizens.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Federal Minister Tarar announced that the new auto policy aims to deliver affordable, quality, and environment-friendly vehicles for citizens.",
+        "Seek a response from the responsible department and affected people for: Federal Minister Tarar announced that the new auto policy aims to deliver affordable, quality, and environment-friendly vehicles for citizens."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "3dc4c1fb8f09902f60ee",
+      "created_at": "2026-11-08T05:17:47.025171+00:00",
+      "updated_at": "2026-11-08T05:17:47.025171+00:00",
+      "event": "Official data revealed an 80 percent increase in alleged police encounter killings in Karachi, with 200 suspects shot dead over 10 months.",
+      "category": "crime",
+      "claim_status": "confirmed",
+      "research_status": "leads_found",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": false,
+        "investigation_signal": true,
+        "promo_cues": [],
+        "accountability_cues": [],
+        "score_penalty": 0,
+        "decision": "research_required",
+        "reason": "Sensitive police-use-of-force story requires independent corroboration before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Build a date-by-date register of Punjab CCD encounter reports, deaths and injuries; retain original article URLs.",
+        "Find Punjab Police/CCD official statements, FIRs and press briefings for each reported incident.",
+        "Find court petitions, orders, magisterial inquiries, FIA/NCHR proceedings and inquest information.",
+        "Compare HRCP encounter/death totals with official Punjab Police data; document period and methodology differences.",
+        "Seek case-level responses from CCD/Punjab Police and families or lawyers; distinguish allegations from findings.",
+        "Check CCD operational statements, legal mandate, use-of-force rules and independent oversight."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": [
+        {
+          "title": "HRCP demands judicial probe into Punjab’s CCD encounter killings - Voicepk.net",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaE9BbDBmM0RSRnJLQUJ0N1lZZkY1am9WZ2RibUZxZWZ2cjlYSGlpYUk2bEdaWFUtLU1mR3AxdDMwUm9aeWpORmlHOTVJeV8xT21abHpQY01wZm00NzhXX3FqMFB0eTFyZS1OTU9iMjdZOTNxbURidl9QU3lzc3hnd3dOQVVjUnl6a1BQVE5BTTFVaGs2MWJj?oc=5",
+          "source_name": "Voicepk.net",
+          "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaE9BbDBmM0RSRnJLQUJ0N1lZZkY1am9WZ2RibUZxZWZ2cjlYSGlpYUk2bEdaWFUtLU1mR3AxdDMwUm9aeWpORmlHOTVJeV8xT21abHpQY01wZm00NzhXX3FqMFB0eTFyZS1OTU9iMjdZOTNxbURidl9QU3lzc3hnd3dOQVVjUnl6a1BQVE5BTTFVaGs2MWJj?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "HRCP calls for judicial probe into Punjab CCD ‘encounter’ killings - The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTJFUmRiTHdEX0tBajV4VkdlWXdfRFM1dy1GTDk3czE5TWFPUUV6dExKUXIxb3REbHN4Uk5zUzdKZzF3cHluYUtIa1A4TF9vdEQ0VlQ0andfaGhfQjNZUUVaYXdyOEduZ21sWWE5d1BDRFJ4WDZoRk1kYTY1azJZd0dvVUx3S19lUHpKbEx2WXVldWZNbWp5bW5OOW9MYjQyTGFZ0gGrAUFVX3lxTE1HbF92aVFtQl9rUXNxZWVoQUxfdUY3ZGJnN0V5OTMwYm53WkNGa3I4aWNaT0tSSG9MQkU1NDFqdEZvaUFyNjhWMnlxNTBaR3VVUnVwQVpSZUJmbTNPM0k4UEVhRlNaQml2dkZWeHNMS3VsN2Q5TDZvbkpKM1l6bWVOYXpxM1RJSnZOeUk3ZGR4VGdSVkVKc1hURm9peTZ0SjhuM2lvYnJsWVg0dw?oc=5",
+          "source_name": "The Express Tribune",
+          "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTJFUmRiTHdEX0tBajV4VkdlWXdfRFM1dy1GTDk3czE5TWFPUUV6dExKUXIxb3REbHN4Uk5zUzdKZzF3cHluYUtIa1A4TF9vdEQ0VlQ0andfaGhfQjNZUUVaYXdyOEduZ21sWWE5d1BDRFJ4WDZoRk1kYTY1azJZd0dvVUx3S19lUHpKbEx2WXVldWZNbWp5bW5OOW9MYjQyTGFZ0gGrAUFVX3lxTE1HbF92aVFtQl9rUXNxZWVoQUxfdUY3ZGJnN0V5OTMwYm53WkNGa3I4aWNaT0tSSG9MQkU1NDFqdEZvaUFyNjhWMnlxNTBaR3VVUnVwQVpSZUJmbTNPM0k4UEVhRlNaQml2dkZWeHNMS3VsN2Q5TDZvbkpKM1l6bWVOYXpxM1RJSnZOeUk3ZGR4VGdSVkVKc1hURm9peTZ0SjhuM2lvYnJsWVg0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Deadly surge in police encounters in Punjab alarming: HRCP - Pakistan - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03VFBCNDNIZ1NfWnktTWFaYVQwc1J6S2pzWWxvR2NFdFoteVIzTUtmUUR5dDlPR1RIRVNEMDJPQm9WMlo1UnJKZA?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Tue, 14 Oct 2025 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03VFBCNDNIZ1NfWnktTWFaYVQwc1J6S2pzWWxvR2NFdFoteVIzTUtmUUR5dDlPR1RIRVNEMDJPQm9WMlo1UnJKZA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Police encounters in Pakistan point to a pattern of deliberate violence - Human Rights Research Center | HRRC",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2Fsc0JDTzZ3YXRaNnBJNTlGVi1hR01VN09jZEpNWG1xTWRBRlpnckhabS1ZYUhFbENsaU1La1V3VDQwNEZrV3NWU0VZZ1JHaW92LTN3OWs1MHBFZmc1LTdrdTlqbTlIbjc1WjdQb0ZWc3RWREpyckdvbGdUTFdjWG5XVXFqYXIyZzlNc2pUNW9FcWZ4WHhwYjdoa3dKWXZhYXdFLTE2RERkc1NmSFFNTWVn?oc=5",
+          "source_name": "Human Rights Research Center | HRRC",
+          "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2Fsc0JDTzZ3YXRaNnBJNTlGVi1hR01VN09jZEpNWG1xTWRBRlpnckhabS1ZYUhFbENsaU1La1V3VDQwNEZrV3NWU0VZZ1JHaW92LTN3OWs1MHBFZmc1LTdrdTlqbTlIbjc1WjdQb0ZWc3RWREpyckdvbGdUTFdjWG5XVXFqYXIyZzlNc2pUNW9FcWZ4WHhwYjdoa3dKWXZhYXdFLTE2RERkc1NmSFFNTWVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Punjab CCD encounters: Rising death toll sparks alarm - Voicepk.net",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXlJMHI0dTdQS1UxRFYtZi04VTE4bTY4eUM3c0ZXTTRnY2szdHNIclpxY0gtem9uRUxBOGZkUEFSMERYWU95Rm96MWtoc2xSQnpJRXRjRERGQms0Tkl6UWp0QnBwcW9pT0tqb2lyZGc3cnVaY2l6cGNLYWJvRnNyR3NiSHVoUTRy?oc=5",
+          "source_name": "Voicepk.net",
+          "published_raw": "Wed, 29 Oct 2025 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXlJMHI0dTdQS1UxRFYtZi04VTE4bTY4eUM3c0ZXTTRnY2szdHNIclpxY0gtem9uRUxBOGZkUEFSMERYWU95Rm96MWtoc2xSQnpJRXRjRERGQms0Tkl6UWp0QnBwcW9pT0tqb2lyZGc3cnVaY2l6cGNLYWJvRnNyR3NiSHVoUTRy?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "PA speaker dilly-dallies on the question of ‘fake’ encounters by CCD - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kQzI3ZHhoU2l5b2hiWVFKZGYwa0VNVkVDSGRVaXhsajF3VVNMMDQydy1yQWlWRk5VR1hEU0c3c2czTVpRNk9Ccg?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Mon, 09 Mar 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kQzI3ZHhoU2l5b2hiWVFKZGYwa0VNVkVDSGRVaXhsajF3VVNMMDQydy1yQWlWRk5VR1hEU0c3c2czTVpRNk9Ccg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Punjab govt rejects allegations of CM-ordered CCD encounters after Multan incident suspect's death - The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM1hlM0ROcjRLQXcybURHWWg3LWdrY0JZMnNValRXTjk2c1dGd2hFVFlOMzNyRmJpSTBaUWJDVmRGbXdaTFpKd0t3RTNpWF8tR3lPa1E5SDE1Z0lYbEx0NUVpNzU2SzNCTEltQVpqa3Z3cl9wWUE2YXhTU19ERTRmbF9QVEFMNmdCd21iRmFYZ1VSUXNjUmhtQXB4bGVqSGNFeWttandWczJLUmprUXBoS3VaNnIweks3QllrS1I2RTRicTA4UEtwaXRGb2hzY0nSAdcBQVVfeXFMTXRyX2k3WkJaTUJDLTZ5cVc0UWRvbDFUUjlQRjZqX0lSdXVFck9NWUwwT2J5dWFydUEya1BpZTgxdVV5bWpWUjJRVms1NzVNY1pLSWtsS2lJRHJ6bHhDLXRGYlZHc3hDQkw0SXc4OXA2WjhYbDBLV3VBNWNXNFFuQ1ptZHkwMGR6VG9iYTlfeVllTDM5SlhLYy1SREQzQnhjMFgyZlVpQS1UaUI2VGZLb2FnUDRQSWpMOWJwbHFOZEV2eFJMNVZNaU9pbkRkMTRRMU51ZUpQRGc?oc=5",
+          "source_name": "The Express Tribune",
+          "published_raw": "Thu, 22 Oct 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM1hlM0ROcjRLQXcybURHWWg3LWdrY0JZMnNValRXTjk2c1dGd2hFVFlOMzNyRmJpSTBaUWJDVmRGbXdaTFpKd0t3RTNpWF8tR3lPa1E5SDE1Z0lYbEx0NUVpNzU2SzNCTEltQVpqa3Z3cl9wWUE2YXhTU19ERTRmbF9QVEFMNmdCd21iRmFYZ1VSUXNjUmhtQXB4bGVqSGNFeWttandWczJLUmprUXBoS3VaNnIweks3QllrS1I2RTRicTA4UEtwaXRGb2hzY0nSAdcBQVVfeXFMTXRyX2k3WkJaTUJDLTZ5cVc0UWRvbDFUUjlQRjZqX0lSdXVFck9NWUwwT2J5dWFydUEya1BpZTgxdVV5bWpWUjJRVms1NzVNY1pLSWtsS2lJRHJ6bHhDLXRGYlZHc3hDQkw0SXc4OXA2WjhYbDBLV3VBNWNXNFFuQ1ptZHkwMGR6VG9iYTlfeVllTDM5SlhLYy1SREQzQnhjMFgyZlVpQS1UaUI2VGZLb2FnUDRQSWpMOWJwbHFOZEV2eFJMNVZNaU9pbkRkMTRRMU51ZUpQRGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Lawmaker’s open letter calls for debate on CCD functioning - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95cFh2MnppQ2hDXzRtb2pWWEdrZnZhOU9fendqQ2ZIUkdTZ3VJUGZDTDY5WTdiWFpBeDRaT1hQTUZXSU9Lbktndw?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Sun, 01 Mar 2026 08:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95cFh2MnppQ2hDXzRtb2pWWEdrZnZhOU9fendqQ2ZIUkdTZ3VJUGZDTDY5WTdiWFpBeDRaT1hQTUZXSU9Lbktndw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Deadly crackdown or extra-judicial surge? Punjab CCD kills 9 fugitives of gang in just a week - Voicepk.net",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0NPd0llZThPMzh6SV9MeXV4ZWhZaDBBYmU0U3Y5QXJsRUR3eklvM3QzWTlVY1R4bjRjZ2tqS2x6RC05SERVbnlFRk5PLXMwbDFfVlZNZXpjOEhoVFVNZmVJSm1iSExPejFoN1VQdXhUOEdobGU2a000TXZwN1ZxWFZSYzEyQjNFSmM5Y1RqVGRoTkFrOG1pMEZYbEQ2Y1dmQXE5NHFhTHZNZmdIVkoxaE1FZWs1TDBiWG9RUTRR?oc=5",
+          "source_name": "Voicepk.net",
+          "published_raw": "Sat, 28 Jun 2025 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025"
+        },
+        {
+          "title": "Punjab CCD claims to have ‘arrested’ crime rate - Pakistan - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wZW5zR054NGxYTDRhZWxGVlkxLVpnZHUxbk8xODlSUGJfaUhZdG83ekMwVTdxNEFYUFNzV0FNRWRzQktJNXZaQw?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025"
+        },
+        {
+          "title": "Killing numbers - The News Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DWUhOQ2RoSzhab1ZGNS1xWklDajZqU3VucGJFS2ZobE1kSEpkWWVuVlZ4c0htUnNXd0xmZUh0SEhHS3NOR1FodFVDY0NoVXJ2Wmtva0dzeGZrZTZqTnQwell5a1owY2xN?oc=5",
+          "source_name": "The News Pakistan",
+          "published_raw": "Sun, 08 Nov 2026 00:44:02 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        },
+        {
+          "title": "‘Where are the courts?’: Killing of Multan suspect in alleged CCD encounter sparks concern among lawyers, journalists - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UWHV1QjE0VHpYRkJ1RzY5eXRORTJuNWluTnZVLThKdEpBdF90LUd0dWNOel9wS3ZlY0lMa1V4dTVvejc3bUJqcQ?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Wed, 21 Oct 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        },
+        {
+          "title": "Man accused of running over Multan teenager killed in alleged CCD encounter - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IdDdIVkpqUUc4Z19obWRZSnNZaXhzWlAza2huRmczZnV3YXNrMUZVeHB2WDFuZWZuZTIyUXFFYW9GZldmMEJoRQ?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Wed, 21 Oct 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        },
+        {
+          "title": "Man accused of running over Multan teenager killed in CCD encounter - The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEFkS2VYMkw0VW9ScjQ1ZGZzUUl1ZFJsYnVQcFhtTE42NnByQjU5anhscF9CRFJkbWljMHFVdDFqV2t4RFN2aUF4a0tMd0JpYjhSOVZSMEdLcTYtclRVZWR2MXdTVXg1NXp3REI5UzlKOWhTOTItU2R1WDVZdUJtU0tnZndfLXU1YUFuRFQ2VEtCcUtzclZ3TXJYaE1QaURVZTdpU04wVdIBrwFBVV95cUxQQkpzN1ZqV2xRZUdMckxMLTlsZ2pSRmJWam9STmJCbld6SDl2ZUtIMEdLYjBqSTJZY05VaUtFOGZwRzhUdVhLcmhrMGgxelVsc3VtSGQ5YmdlVHZZSnFOZmVnWTA2ZlVHZTI5cjZsc2tHejRZX3pPcXI5WHFMWENaQ1RBdElKdTUzSjM3VnpZQkZORkNETFJWNU80UU5TMV9DaTlFZjZPTXJLSThvUjYw?oc=5",
+          "source_name": "The Express Tribune",
+          "published_raw": "Wed, 21 Oct 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        },
+        {
+          "title": "Under custody suspects killed in 'encounter' - The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0lVdml1NjhlUHBxN2RXYTdrSWZFMy1fTkstTkpLakpNQzROSEhqaFpGZmR2NHFGRnktVm16MHFtdk9aaTY1STlqZmZZNVBFOFZBZGNjdTlKWkRqdTVOeFpzTzVqMG5VMTBmYy1MU1M5SFRaWUt5bkZ2UEFHQUxKZU05THZKd9IBjgFBVV95cUxQSlJ5NkZOV3M3d3N5ZTBVclhDVE94Qy1EYkJ4MjluVzlCeHk3U19lUmVLMEN2UWt6VGVxYjQxNGJZeHNnbU01UVd5d1RoUlp4T1V0RmxTRlIzSGhRcTNtTlV3X25FMVhWQUhOdG8wdFd0YWVxUjVQV3JXRnFnVEVNdmVtR2tVSEFwZmc5LWdn?oc=5",
+          "source_name": "The Express Tribune",
+          "published_raw": "Sat, 03 Oct 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        },
+        {
+          "title": "Prime suspect in 7-year-old Sargodha girl's murder case killed during CCD encounter, police say - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54Z3pBT0szdDlzSDdDenhMRnFwS2tUUVBHWTl1Rkpva29RRlZRMTZTQWRQSnlSLWFuREtXbkZrb00tZVdPRVRRcA?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Wed, 24 Jun 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        }
+      ]
+    },
+    {
+      "id": "0330996d3b4f2a5e6dd2",
+      "created_at": "2026-11-08T12:22:33.951466+00:00",
+      "updated_at": "2026-11-08T12:22:33.951466+00:00",
+      "event": "The Human Rights Commission of Pakistan raised concerns over Karachi police conducting 200 alleged extrajudicial encounters in 10 months.",
+      "category": "crime",
+      "claim_status": "confirmed",
+      "research_status": "leads_found",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": false,
+        "investigation_signal": true,
+        "promo_cues": [],
+        "accountability_cues": [],
+        "score_penalty": 0,
+        "decision": "research_required",
+        "reason": "Sensitive police-use-of-force story requires independent corroboration before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Build a date-by-date register of Punjab CCD encounter reports, deaths and injuries; retain original article URLs.",
+        "Find Punjab Police/CCD official statements, FIRs and press briefings for each reported incident.",
+        "Find court petitions, orders, magisterial inquiries, FIA/NCHR proceedings and inquest information.",
+        "Compare HRCP encounter/death totals with official Punjab Police data; document period and methodology differences.",
+        "Seek case-level responses from CCD/Punjab Police and families or lawyers; distinguish allegations from findings.",
+        "Check CCD operational statements, legal mandate, use-of-force rules and independent oversight."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": [
+        {
+          "title": "HRCP demands judicial probe into Punjab’s CCD encounter killings - Voicepk.net",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaE9BbDBmM0RSRnJLQUJ0N1lZZkY1am9WZ2RibUZxZWZ2cjlYSGlpYUk2bEdaWFUtLU1mR3AxdDMwUm9aeWpORmlHOTVJeV8xT21abHpQY01wZm00NzhXX3FqMFB0eTFyZS1OTU9iMjdZOTNxbURidl9QU3lzc3hnd3dOQVVjUnl6a1BQVE5BTTFVaGs2MWJj?oc=5",
+          "source_name": "Voicepk.net",
+          "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaE9BbDBmM0RSRnJLQUJ0N1lZZkY1am9WZ2RibUZxZWZ2cjlYSGlpYUk2bEdaWFUtLU1mR3AxdDMwUm9aeWpORmlHOTVJeV8xT21abHpQY01wZm00NzhXX3FqMFB0eTFyZS1OTU9iMjdZOTNxbURidl9QU3lzc3hnd3dOQVVjUnl6a1BQVE5BTTFVaGs2MWJj?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "HRCP calls for judicial probe into Punjab CCD ‘encounter’ killings - The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTJFUmRiTHdEX0tBajV4VkdlWXdfRFM1dy1GTDk3czE5TWFPUUV6dExKUXIxb3REbHN4Uk5zUzdKZzF3cHluYUtIa1A4TF9vdEQ0VlQ0andfaGhfQjNZUUVaYXdyOEduZ21sWWE5d1BDRFJ4WDZoRk1kYTY1azJZd0dvVUx3S19lUHpKbEx2WXVldWZNbWp5bW5OOW9MYjQyTGFZ0gGrAUFVX3lxTE1HbF92aVFtQl9rUXNxZWVoQUxfdUY3ZGJnN0V5OTMwYm53WkNGa3I4aWNaT0tSSG9MQkU1NDFqdEZvaUFyNjhWMnlxNTBaR3VVUnVwQVpSZUJmbTNPM0k4UEVhRlNaQml2dkZWeHNMS3VsN2Q5TDZvbkpKM1l6bWVOYXpxM1RJSnZOeUk3ZGR4VGdSVkVKc1hURm9peTZ0SjhuM2lvYnJsWVg0dw?oc=5",
+          "source_name": "The Express Tribune",
+          "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTJFUmRiTHdEX0tBajV4VkdlWXdfRFM1dy1GTDk3czE5TWFPUUV6dExKUXIxb3REbHN4Uk5zUzdKZzF3cHluYUtIa1A4TF9vdEQ0VlQ0andfaGhfQjNZUUVaYXdyOEduZ21sWWE5d1BDRFJ4WDZoRk1kYTY1azJZd0dvVUx3S19lUHpKbEx2WXVldWZNbWp5bW5OOW9MYjQyTGFZ0gGrAUFVX3lxTE1HbF92aVFtQl9rUXNxZWVoQUxfdUY3ZGJnN0V5OTMwYm53WkNGa3I4aWNaT0tSSG9MQkU1NDFqdEZvaUFyNjhWMnlxNTBaR3VVUnVwQVpSZUJmbTNPM0k4UEVhRlNaQml2dkZWeHNMS3VsN2Q5TDZvbkpKM1l6bWVOYXpxM1RJSnZOeUk3ZGR4VGdSVkVKc1hURm9peTZ0SjhuM2lvYnJsWVg0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Police encounters in Pakistan point to a pattern of deliberate violence - Human Rights Research Center | HRRC",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2Fsc0JDTzZ3YXRaNnBJNTlGVi1hR01VN09jZEpNWG1xTWRBRlpnckhabS1ZYUhFbENsaU1La1V3VDQwNEZrV3NWU0VZZ1JHaW92LTN3OWs1MHBFZmc1LTdrdTlqbTlIbjc1WjdQb0ZWc3RWREpyckdvbGdUTFdjWG5XVXFqYXIyZzlNc2pUNW9FcWZ4WHhwYjdoa3dKWXZhYXdFLTE2RERkc1NmSFFNTWVn?oc=5",
+          "source_name": "Human Rights Research Center | HRRC",
+          "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2Fsc0JDTzZ3YXRaNnBJNTlGVi1hR01VN09jZEpNWG1xTWRBRlpnckhabS1ZYUhFbENsaU1La1V3VDQwNEZrV3NWU0VZZ1JHaW92LTN3OWs1MHBFZmc1LTdrdTlqbTlIbjc1WjdQb0ZWc3RWREpyckdvbGdUTFdjWG5XVXFqYXIyZzlNc2pUNW9FcWZ4WHhwYjdoa3dKWXZhYXdFLTE2RERkc1NmSFFNTWVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Deadly surge in police encounters in Punjab alarming: HRCP - Pakistan - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03VFBCNDNIZ1NfWnktTWFaYVQwc1J6S2pzWWxvR2NFdFoteVIzTUtmUUR5dDlPR1RIRVNEMDJPQm9WMlo1UnJKZA?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Tue, 14 Oct 2025 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03VFBCNDNIZ1NfWnktTWFaYVQwc1J6S2pzWWxvR2NFdFoteVIzTUtmUUR5dDlPR1RIRVNEMDJPQm9WMlo1UnJKZA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Punjab CCD encounters: Rising death toll sparks alarm - Voicepk.net",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXlJMHI0dTdQS1UxRFYtZi04VTE4bTY4eUM3c0ZXTTRnY2szdHNIclpxY0gtem9uRUxBOGZkUEFSMERYWU95Rm96MWtoc2xSQnpJRXRjRERGQms0Tkl6UWp0QnBwcW9pT0tqb2lyZGc3cnVaY2l6cGNLYWJvRnNyR3NiSHVoUTRy?oc=5",
+          "source_name": "Voicepk.net",
+          "published_raw": "Wed, 29 Oct 2025 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXlJMHI0dTdQS1UxRFYtZi04VTE4bTY4eUM3c0ZXTTRnY2szdHNIclpxY0gtem9uRUxBOGZkUEFSMERYWU95Rm96MWtoc2xSQnpJRXRjRERGQms0Tkl6UWp0QnBwcW9pT0tqb2lyZGc3cnVaY2l6cGNLYWJvRnNyR3NiSHVoUTRy?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "PA speaker dilly-dallies on the question of ‘fake’ encounters by CCD - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kQzI3ZHhoU2l5b2hiWVFKZGYwa0VNVkVDSGRVaXhsajF3VVNMMDQydy1yQWlWRk5VR1hEU0c3c2czTVpRNk9Ccg?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Mon, 09 Mar 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kQzI3ZHhoU2l5b2hiWVFKZGYwa0VNVkVDSGRVaXhsajF3VVNMMDQydy1yQWlWRk5VR1hEU0c3c2czTVpRNk9Ccg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Punjab govt rejects allegations of CM-ordered CCD encounters after Multan incident suspect's death - The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM1hlM0ROcjRLQXcybURHWWg3LWdrY0JZMnNValRXTjk2c1dGd2hFVFlOMzNyRmJpSTBaUWJDVmRGbXdaTFpKd0t3RTNpWF8tR3lPa1E5SDE1Z0lYbEx0NUVpNzU2SzNCTEltQVpqa3Z3cl9wWUE2YXhTU19ERTRmbF9QVEFMNmdCd21iRmFYZ1VSUXNjUmhtQXB4bGVqSGNFeWttandWczJLUmprUXBoS3VaNnIweks3QllrS1I2RTRicTA4UEtwaXRGb2hzY0nSAdcBQVVfeXFMTXRyX2k3WkJaTUJDLTZ5cVc0UWRvbDFUUjlQRjZqX0lSdXVFck9NWUwwT2J5dWFydUEya1BpZTgxdVV5bWpWUjJRVms1NzVNY1pLSWtsS2lJRHJ6bHhDLXRGYlZHc3hDQkw0SXc4OXA2WjhYbDBLV3VBNWNXNFFuQ1ptZHkwMGR6VG9iYTlfeVllTDM5SlhLYy1SREQzQnhjMFgyZlVpQS1UaUI2VGZLb2FnUDRQSWpMOWJwbHFOZEV2eFJMNVZNaU9pbkRkMTRRMU51ZUpQRGc?oc=5",
+          "source_name": "The Express Tribune",
+          "published_raw": "Thu, 22 Oct 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM1hlM0ROcjRLQXcybURHWWg3LWdrY0JZMnNValRXTjk2c1dGd2hFVFlOMzNyRmJpSTBaUWJDVmRGbXdaTFpKd0t3RTNpWF8tR3lPa1E5SDE1Z0lYbEx0NUVpNzU2SzNCTEltQVpqa3Z3cl9wWUE2YXhTU19ERTRmbF9QVEFMNmdCd21iRmFYZ1VSUXNjUmhtQXB4bGVqSGNFeWttandWczJLUmprUXBoS3VaNnIweks3QllrS1I2RTRicTA4UEtwaXRGb2hzY0nSAdcBQVVfeXFMTXRyX2k3WkJaTUJDLTZ5cVc0UWRvbDFUUjlQRjZqX0lSdXVFck9NWUwwT2J5dWFydUEya1BpZTgxdVV5bWpWUjJRVms1NzVNY1pLSWtsS2lJRHJ6bHhDLXRGYlZHc3hDQkw0SXc4OXA2WjhYbDBLV3VBNWNXNFFuQ1ptZHkwMGR6VG9iYTlfeVllTDM5SlhLYy1SREQzQnhjMFgyZlVpQS1UaUI2VGZLb2FnUDRQSWpMOWJwbHFOZEV2eFJMNVZNaU9pbkRkMTRRMU51ZUpQRGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Lawmaker’s open letter calls for debate on CCD functioning - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95cFh2MnppQ2hDXzRtb2pWWEdrZnZhOU9fendqQ2ZIUkdTZ3VJUGZDTDY5WTdiWFpBeDRaT1hQTUZXSU9Lbktndw?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Sun, 01 Mar 2026 08:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025",
+          "resolved_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95cFh2MnppQ2hDXzRtb2pWWEdrZnZhOU9fendqQ2ZIUkdTZ3VJUGZDTDY5WTdiWFpBeDRaT1hQTUZXSU9Lbktndw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "article_excerpt": "",
+          "extraction_status": "fetch_failed_or_blocked"
+        },
+        {
+          "title": "Deadly crackdown or extra-judicial surge? Punjab CCD kills 9 fugitives of gang in just a week - Voicepk.net",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0NPd0llZThPMzh6SV9MeXV4ZWhZaDBBYmU0U3Y5QXJsRUR3eklvM3QzWTlVY1R4bjRjZ2tqS2x6RC05SERVbnlFRk5PLXMwbDFfVlZNZXpjOEhoVFVNZmVJSm1iSExPejFoN1VQdXhUOEdobGU2a000TXZwN1ZxWFZSYzEyQjNFSmM5Y1RqVGRoTkFrOG1pMEZYbEQ2Y1dmQXE5NHFhTHZNZmdIVkoxaE1FZWs1TDBiWG9RUTRR?oc=5",
+          "source_name": "Voicepk.net",
+          "published_raw": "Sat, 28 Jun 2025 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025"
+        },
+        {
+          "title": "Punjab CCD claims to have ‘arrested’ crime rate - Pakistan - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wZW5zR054NGxYTDRhZWxGVlkxLVpnZHUxbk8xODlSUGJfaUhZdG83ekMwVTdxNEFYUFNzV0FNRWRzQktJNXZaQw?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Punjab CCD\" encounters deaths dates 2025"
+        },
+        {
+          "title": "Killing numbers - The News Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DWUhOQ2RoSzhab1ZGNS1xWklDajZqU3VucGJFS2ZobE1kSEpkWWVuVlZ4c0htUnNXd0xmZUh0SEhHS3NOR1FodFVDY0NoVXJ2Wmtva0dzeGZrZTZqTnQwell5a1owY2xN?oc=5",
+          "source_name": "The News Pakistan",
+          "published_raw": "Sun, 08 Nov 2026 01:20:58 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        },
+        {
+          "title": "‘Where are the courts?’: Killing of Multan suspect in alleged CCD encounter sparks concern among lawyers, journalists - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UWHV1QjE0VHpYRkJ1RzY5eXRORTJuNWluTnZVLThKdEpBdF90LUd0dWNOel9wS3ZlY0lMa1V4dTVvejc3bUJqcQ?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Wed, 21 Oct 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        },
+        {
+          "title": "Man accused of running over Multan teenager killed in alleged CCD encounter - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IdDdIVkpqUUc4Z19obWRZSnNZaXhzWlAza2huRmczZnV3YXNrMUZVeHB2WDFuZWZuZTIyUXFFYW9GZldmMEJoRQ?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Wed, 21 Oct 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        },
+        {
+          "title": "Man accused of running over Multan teenager killed in CCD encounter - The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEFkS2VYMkw0VW9ScjQ1ZGZzUUl1ZFJsYnVQcFhtTE42NnByQjU5anhscF9CRFJkbWljMHFVdDFqV2t4RFN2aUF4a0tMd0JpYjhSOVZSMEdLcTYtclRVZWR2MXdTVXg1NXp3REI5UzlKOWhTOTItU2R1WDVZdUJtU0tnZndfLXU1YUFuRFQ2VEtCcUtzclZ3TXJYaE1QaURVZTdpU04wVdIBrwFBVV95cUxQQkpzN1ZqV2xRZUdMckxMLTlsZ2pSRmJWam9STmJCbld6SDl2ZUtIMEdLYjBqSTJZY05VaUtFOGZwRzhUdVhLcmhrMGgxelVsc3VtSGQ5YmdlVHZZSnFOZmVnWTA2ZlVHZTI5cjZsc2tHejRZX3pPcXI5WHFMWENaQ1RBdElKdTUzSjM3VnpZQkZORkNETFJWNU80UU5TMV9DaTlFZjZPTXJLSThvUjYw?oc=5",
+          "source_name": "The Express Tribune",
+          "published_raw": "Wed, 21 Oct 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        },
+        {
+          "title": "Under custody suspects killed in 'encounter' - The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0lVdml1NjhlUHBxN2RXYTdrSWZFMy1fTkstTkpLakpNQzROSEhqaFpGZmR2NHFGRnktVm16MHFtdk9aaTY1STlqZmZZNVBFOFZBZGNjdTlKWkRqdTVOeFpzTzVqMG5VMTBmYy1MU1M5SFRaWUt5bkZ2UEFHQUxKZU05THZKd9IBjgFBVV95cUxQSlJ5NkZOV3M3d3N5ZTBVclhDVE94Qy1EYkJ4MjluVzlCeHk3U19lUmVLMEN2UWt6VGVxYjQxNGJZeHNnbU01UVd5d1RoUlp4T1V0RmxTRlIzSGhRcTNtTlV3X25FMVhWQUhOdG8wdFd0YWVxUjVQV3JXRnFnVEVNdmVtR2tVSEFwZmc5LWdn?oc=5",
+          "source_name": "The Express Tribune",
+          "published_raw": "Sat, 03 Oct 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        },
+        {
+          "title": "Prime suspect in 7-year-old Sargodha girl's murder case killed during CCD encounter, police say - Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54Z3pBT0szdDlzSDdDenhMRnFwS2tUUVBHWTl1Rkpva29RRlZRMTZTQWRQSnlSLWFuREtXbkZrb00tZVdPRVRRcA?oc=5",
+          "source_name": "Dawn",
+          "published_raw": "Wed, 24 Jun 2026 07:00:00 GMT",
+          "status": "unverified_research_lead",
+          "query": "\"Crime Control Department\" Punjab encounter killed suspects"
+        }
+      ]
+    },
+    {
+      "id": "7b0f08ba7c805798e981",
+      "created_at": "2026-11-08T13:22:45.837434+00:00",
+      "updated_at": "2026-11-08T13:22:45.837434+00:00",
+      "event": "The US military announced the creation of a task force to disrupt land transit routes into Iran used for weapons shipments.",
+      "category": "war",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "launches"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The US military announced the creation of a task force to disrupt land transit routes into Iran used for weapons shipments.",
+        "Find prior promises, earlier phases and delivery records for: The US military announced the creation of a task force to disrupt land transit routes into Iran used for weapons shipments.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The US military announced the creation of a task force to disrupt land transit routes into Iran used for weapons shipments.",
+        "Find independent audit, parliamentary, court or regulator records for: The US military announced the creation of a task force to disrupt land transit routes into Iran used for weapons shipments.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The US military announced the creation of a task force to disrupt land transit routes into Iran used for weapons shipments.",
+        "Seek a response from the responsible department and affected people for: The US military announced the creation of a task force to disrupt land transit routes into Iran used for weapons shipments."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "360789a0fd706e293408",
+      "created_at": "2026-11-08T13:22:45.837434+00:00",
+      "updated_at": "2026-11-08T13:22:45.837434+00:00",
+      "event": "Defence Minister Khawaja Asif stated that Pakistan could consider creating up to 12 administrative units if established on administrative rather than ethnic grounds.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "vision of"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Defence Minister Khawaja Asif stated that Pakistan could consider creating up to 12 administrative units if established on administrative rather than ethnic grounds.",
+        "Find prior promises, earlier phases and delivery records for: Defence Minister Khawaja Asif stated that Pakistan could consider creating up to 12 administrative units if established on administrative rather than ethnic grounds.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Defence Minister Khawaja Asif stated that Pakistan could consider creating up to 12 administrative units if established on administrative rather than ethnic grounds.",
+        "Find independent audit, parliamentary, court or regulator records for: Defence Minister Khawaja Asif stated that Pakistan could consider creating up to 12 administrative units if established on administrative rather than ethnic grounds.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Defence Minister Khawaja Asif stated that Pakistan could consider creating up to 12 administrative units if established on administrative rather than ethnic grounds.",
+        "Seek a response from the responsible department and affected people for: Defence Minister Khawaja Asif stated that Pakistan could consider creating up to 12 administrative units if established on administrative rather than ethnic grounds."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "c3c6983e51e04b67962e",
+      "created_at": "2026-11-08T14:54:29.262044+00:00",
+      "updated_at": "2026-11-08T14:54:29.262044+00:00",
+      "event": "News anchor Rabia Ahsan was found shot dead inside her home in Rawalpindi, and police have taken her husband into custody.",
+      "category": "crime",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": false,
+        "investigation_signal": true,
+        "promo_cues": [],
+        "accountability_cues": [
+          "investigation"
+        ],
+        "score_penalty": 0,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: News anchor Rabia Ahsan was found shot dead inside her home in Rawalpindi, and police have taken her husband into custody.",
+        "Find prior promises, earlier phases and delivery records for: News anchor Rabia Ahsan was found shot dead inside her home in Rawalpindi, and police have taken her husband into custody.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: News anchor Rabia Ahsan was found shot dead inside her home in Rawalpindi, and police have taken her husband into custody.",
+        "Find independent audit, parliamentary, court or regulator records for: News anchor Rabia Ahsan was found shot dead inside her home in Rawalpindi, and police have taken her husband into custody.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: News anchor Rabia Ahsan was found shot dead inside her home in Rawalpindi, and police have taken her husband into custody.",
+        "Seek a response from the responsible department and affected people for: News anchor Rabia Ahsan was found shot dead inside her home in Rawalpindi, and police have taken her husband into custody."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "53a4990f7c32df3bb106",
+      "created_at": "2026-11-08T15:25:45.841021+00:00",
+      "updated_at": "2026-11-08T15:25:45.841021+00:00",
+      "event": "Defence Minister Khawaja Asif has supported the creation of 12 new administrative provinces in Pakistan, provided they are not formed on ethnic or linguistic grounds.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "vision of"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Defence Minister Khawaja Asif has supported the creation of 12 new administrative provinces in Pakistan, provided they are not formed on ethnic or linguistic grounds.",
+        "Find prior promises, earlier phases and delivery records for: Defence Minister Khawaja Asif has supported the creation of 12 new administrative provinces in Pakistan, provided they are not formed on ethnic or linguistic grounds.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Defence Minister Khawaja Asif has supported the creation of 12 new administrative provinces in Pakistan, provided they are not formed on ethnic or linguistic grounds.",
+        "Find independent audit, parliamentary, court or regulator records for: Defence Minister Khawaja Asif has supported the creation of 12 new administrative provinces in Pakistan, provided they are not formed on ethnic or linguistic grounds.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Defence Minister Khawaja Asif has supported the creation of 12 new administrative provinces in Pakistan, provided they are not formed on ethnic or linguistic grounds.",
+        "Seek a response from the responsible department and affected people for: Defence Minister Khawaja Asif has supported the creation of 12 new administrative provinces in Pakistan, provided they are not formed on ethnic or linguistic grounds."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "f6e6312ae9a40f611e5a",
+      "created_at": "2026-11-09T04:32:22.725439+00:00",
+      "updated_at": "2026-11-09T04:32:22.725439+00:00",
+      "event": "As COP31 opens in Antalya, a UN report warns global temperatures could rise by 2.6°C, highlighting critical climate vulnerabilities for Pakistan.",
+      "category": "weather",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "pledges"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: As COP31 opens in Antalya, a UN report warns global temperatures could rise by 2.6°C, highlighting critical climate vulnerabilities for Pakistan.",
+        "Find prior promises, earlier phases and delivery records for: As COP31 opens in Antalya, a UN report warns global temperatures could rise by 2.6°C, highlighting critical climate vulnerabilities for Pakistan.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: As COP31 opens in Antalya, a UN report warns global temperatures could rise by 2.6°C, highlighting critical climate vulnerabilities for Pakistan.",
+        "Find independent audit, parliamentary, court or regulator records for: As COP31 opens in Antalya, a UN report warns global temperatures could rise by 2.6°C, highlighting critical climate vulnerabilities for Pakistan.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: As COP31 opens in Antalya, a UN report warns global temperatures could rise by 2.6°C, highlighting critical climate vulnerabilities for Pakistan.",
+        "Seek a response from the responsible department and affected people for: As COP31 opens in Antalya, a UN report warns global temperatures could rise by 2.6°C, highlighting critical climate vulnerabilities for Pakistan."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "c54ae6935f3d5b4b8f2c",
+      "created_at": "2026-11-09T05:37:51.104340+00:00",
+      "updated_at": "2026-11-09T05:37:51.104340+00:00",
+      "event": "The Pakistani government increased the maximum loan limit under the Prime Minister's Youth Business and Agriculture Loan schemes to Rs25 million and lowered the minimum eligibility age to 18.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced",
+          "raises",
+          "increases"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 12,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Pakistani government increased the maximum loan limit under the Prime Minister's Youth Business and Agriculture Loan schemes to Rs25 million and lowered the minimum eligibility age to 18.",
+        "Find prior promises, earlier phases and delivery records for: The Pakistani government increased the maximum loan limit under the Prime Minister's Youth Business and Agriculture Loan schemes to Rs25 million and lowered the minimum eligibility age to 18.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Pakistani government increased the maximum loan limit under the Prime Minister's Youth Business and Agriculture Loan schemes to Rs25 million and lowered the minimum eligibility age to 18.",
+        "Find independent audit, parliamentary, court or regulator records for: The Pakistani government increased the maximum loan limit under the Prime Minister's Youth Business and Agriculture Loan schemes to Rs25 million and lowered the minimum eligibility age to 18.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Pakistani government increased the maximum loan limit under the Prime Minister's Youth Business and Agriculture Loan schemes to Rs25 million and lowered the minimum eligibility age to 18.",
+        "Seek a response from the responsible department and affected people for: The Pakistani government increased the maximum loan limit under the Prime Minister's Youth Business and Agriculture Loan schemes to Rs25 million and lowered the minimum eligibility age to 18."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "af884104b813b2a243a1",
+      "created_at": "2026-11-09T09:13:46.540743+00:00",
+      "updated_at": "2026-11-09T09:13:46.540743+00:00",
+      "event": "Nvidia has launched an independent investigation into CEO Jensen Huang following his disclosure of an intimate relationship with a woman identified by US intelligence as a suspected Chinese spy.",
+      "category": "tech",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "launched",
+          "launches",
+          "announced"
+        ],
+        "accountability_cues": [
+          "investigation",
+          "probe"
+        ],
+        "score_penalty": 12,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Nvidia has launched an independent investigation into CEO Jensen Huang following his disclosure of an intimate relationship with a woman identified by US intelligence as a suspected Chinese spy.",
+        "Find prior promises, earlier phases and delivery records for: Nvidia has launched an independent investigation into CEO Jensen Huang following his disclosure of an intimate relationship with a woman identified by US intelligence as a suspected Chinese spy.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Nvidia has launched an independent investigation into CEO Jensen Huang following his disclosure of an intimate relationship with a woman identified by US intelligence as a suspected Chinese spy.",
+        "Find independent audit, parliamentary, court or regulator records for: Nvidia has launched an independent investigation into CEO Jensen Huang following his disclosure of an intimate relationship with a woman identified by US intelligence as a suspected Chinese spy.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Nvidia has launched an independent investigation into CEO Jensen Huang following his disclosure of an intimate relationship with a woman identified by US intelligence as a suspected Chinese spy.",
+        "Seek a response from the responsible department and affected people for: Nvidia has launched an independent investigation into CEO Jensen Huang following his disclosure of an intimate relationship with a woman identified by US intelligence as a suspected Chinese spy."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "3468b5864e79317e383c",
+      "created_at": "2026-11-09T12:12:45.486817+00:00",
+      "updated_at": "2026-11-09T12:12:45.486817+00:00",
+      "event": "Prime Minister Shehbaz Sharif directed the foreign ministry to urgently escalate humanitarian assistance for Gaza following heavy rains that flooded displacement tents.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "directs"
+        ],
+        "accountability_cues": [
+          "shortage"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Prime Minister Shehbaz Sharif directed the foreign ministry to urgently escalate humanitarian assistance for Gaza following heavy rains that flooded displacement tents.",
+        "Find prior promises, earlier phases and delivery records for: Prime Minister Shehbaz Sharif directed the foreign ministry to urgently escalate humanitarian assistance for Gaza following heavy rains that flooded displacement tents.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Prime Minister Shehbaz Sharif directed the foreign ministry to urgently escalate humanitarian assistance for Gaza following heavy rains that flooded displacement tents.",
+        "Find independent audit, parliamentary, court or regulator records for: Prime Minister Shehbaz Sharif directed the foreign ministry to urgently escalate humanitarian assistance for Gaza following heavy rains that flooded displacement tents.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Prime Minister Shehbaz Sharif directed the foreign ministry to urgently escalate humanitarian assistance for Gaza following heavy rains that flooded displacement tents.",
+        "Seek a response from the responsible department and affected people for: Prime Minister Shehbaz Sharif directed the foreign ministry to urgently escalate humanitarian assistance for Gaza following heavy rains that flooded displacement tents."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "fe2a519d9593ce2b8d0c",
+      "created_at": "2026-11-09T16:40:58.140511+00:00",
+      "updated_at": "2026-11-09T16:40:58.140511+00:00",
+      "event": "Pakistan and Saudi Arabia investors launched a joint private equity fund to boost trade and bilateral investment.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "launched"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Pakistan and Saudi Arabia investors launched a joint private equity fund to boost trade and bilateral investment.",
+        "Find prior promises, earlier phases and delivery records for: Pakistan and Saudi Arabia investors launched a joint private equity fund to boost trade and bilateral investment.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Pakistan and Saudi Arabia investors launched a joint private equity fund to boost trade and bilateral investment.",
+        "Find independent audit, parliamentary, court or regulator records for: Pakistan and Saudi Arabia investors launched a joint private equity fund to boost trade and bilateral investment.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Pakistan and Saudi Arabia investors launched a joint private equity fund to boost trade and bilateral investment.",
+        "Seek a response from the responsible department and affected people for: Pakistan and Saudi Arabia investors launched a joint private equity fund to boost trade and bilateral investment."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "872284abbeecd4929fb7",
+      "created_at": "2026-11-09T19:35:34.059524+00:00",
+      "updated_at": "2026-11-09T19:35:34.059524+00:00",
+      "event": "US President Trump's 'Board of Peace' stated that Israel must act immediately to help Gaza cope with winter weather and severe flooding.",
+      "category": "war",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: US President Trump's 'Board of Peace' stated that Israel must act immediately to help Gaza cope with winter weather and severe flooding.",
+        "Find prior promises, earlier phases and delivery records for: US President Trump's 'Board of Peace' stated that Israel must act immediately to help Gaza cope with winter weather and severe flooding.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: US President Trump's 'Board of Peace' stated that Israel must act immediately to help Gaza cope with winter weather and severe flooding.",
+        "Find independent audit, parliamentary, court or regulator records for: US President Trump's 'Board of Peace' stated that Israel must act immediately to help Gaza cope with winter weather and severe flooding.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: US President Trump's 'Board of Peace' stated that Israel must act immediately to help Gaza cope with winter weather and severe flooding.",
+        "Seek a response from the responsible department and affected people for: US President Trump's 'Board of Peace' stated that Israel must act immediately to help Gaza cope with winter weather and severe flooding."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "b4ec8d3d64161f18b459",
+      "created_at": "2026-11-10T17:59:44.955599+00:00",
+      "updated_at": "2026-11-10T17:59:44.955599+00:00",
+      "event": "Lawyer Salman Safdar warned that incarcerated former PM Imran Khan is at risk of a brain haemorrhage or heart attack without immediate medical treatment.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "decision to"
+        ],
+        "accountability_cues": [
+          "court"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Lawyer Salman Safdar warned that incarcerated former PM Imran Khan is at risk of a brain haemorrhage or heart attack without immediate medical treatment.",
+        "Find prior promises, earlier phases and delivery records for: Lawyer Salman Safdar warned that incarcerated former PM Imran Khan is at risk of a brain haemorrhage or heart attack without immediate medical treatment.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Lawyer Salman Safdar warned that incarcerated former PM Imran Khan is at risk of a brain haemorrhage or heart attack without immediate medical treatment.",
+        "Find independent audit, parliamentary, court or regulator records for: Lawyer Salman Safdar warned that incarcerated former PM Imran Khan is at risk of a brain haemorrhage or heart attack without immediate medical treatment.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Lawyer Salman Safdar warned that incarcerated former PM Imran Khan is at risk of a brain haemorrhage or heart attack without immediate medical treatment.",
+        "Seek a response from the responsible department and affected people for: Lawyer Salman Safdar warned that incarcerated former PM Imran Khan is at risk of a brain haemorrhage or heart attack without immediate medical treatment."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "6b565d2027f172fa2fd7",
+      "created_at": "2026-11-10T18:47:23.146990+00:00",
+      "updated_at": "2026-11-10T18:47:23.146990+00:00",
+      "event": "The Pakistani government slashed the price of petrol by Rs8 per litre and high-speed diesel by Rs7 per litre.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announces",
+          "announced",
+          "introduced"
+        ],
+        "accountability_cues": [
+          "cost",
+          "budget"
+        ],
+        "score_penalty": 12,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Pakistani government slashed the price of petrol by Rs8 per litre and high-speed diesel by Rs7 per litre.",
+        "Find prior promises, earlier phases and delivery records for: The Pakistani government slashed the price of petrol by Rs8 per litre and high-speed diesel by Rs7 per litre.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Pakistani government slashed the price of petrol by Rs8 per litre and high-speed diesel by Rs7 per litre.",
+        "Find independent audit, parliamentary, court or regulator records for: The Pakistani government slashed the price of petrol by Rs8 per litre and high-speed diesel by Rs7 per litre.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Pakistani government slashed the price of petrol by Rs8 per litre and high-speed diesel by Rs7 per litre.",
+        "Seek a response from the responsible department and affected people for: The Pakistani government slashed the price of petrol by Rs8 per litre and high-speed diesel by Rs7 per litre."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "1207e15cc6bdc9d38c5c",
+      "created_at": "2026-11-10T18:47:23.146990+00:00",
+      "updated_at": "2026-11-10T18:47:23.146990+00:00",
+      "event": "Pakistan's Chashma-5 nuclear power plant project reached a major construction milestone with the placement of its reactor dome.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "ceremony"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Pakistan's Chashma-5 nuclear power plant project reached a major construction milestone with the placement of its reactor dome.",
+        "Find prior promises, earlier phases and delivery records for: Pakistan's Chashma-5 nuclear power plant project reached a major construction milestone with the placement of its reactor dome.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Pakistan's Chashma-5 nuclear power plant project reached a major construction milestone with the placement of its reactor dome.",
+        "Find independent audit, parliamentary, court or regulator records for: Pakistan's Chashma-5 nuclear power plant project reached a major construction milestone with the placement of its reactor dome.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Pakistan's Chashma-5 nuclear power plant project reached a major construction milestone with the placement of its reactor dome.",
+        "Seek a response from the responsible department and affected people for: Pakistan's Chashma-5 nuclear power plant project reached a major construction milestone with the placement of its reactor dome."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "26e6666aae211b4bd393",
+      "created_at": "2026-11-10T18:47:23.146990+00:00",
+      "updated_at": "2026-11-10T18:47:23.146990+00:00",
+      "event": "Commercial banks in Pakistan announced plans to spend Rs 100 billion from their resources to boost overseas remittances and lower transfer costs.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced",
+          "decided",
+          "plans to"
+        ],
+        "accountability_cues": [
+          "audit",
+          "cost"
+        ],
+        "score_penalty": 12,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Commercial banks in Pakistan announced plans to spend Rs 100 billion from their resources to boost overseas remittances and lower transfer costs.",
+        "Find prior promises, earlier phases and delivery records for: Commercial banks in Pakistan announced plans to spend Rs 100 billion from their resources to boost overseas remittances and lower transfer costs.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Commercial banks in Pakistan announced plans to spend Rs 100 billion from their resources to boost overseas remittances and lower transfer costs.",
+        "Find independent audit, parliamentary, court or regulator records for: Commercial banks in Pakistan announced plans to spend Rs 100 billion from their resources to boost overseas remittances and lower transfer costs.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Commercial banks in Pakistan announced plans to spend Rs 100 billion from their resources to boost overseas remittances and lower transfer costs.",
+        "Seek a response from the responsible department and affected people for: Commercial banks in Pakistan announced plans to spend Rs 100 billion from their resources to boost overseas remittances and lower transfer costs."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "037eea22a7c76df8ba39",
+      "created_at": "2026-11-10T19:37:56.922612+00:00",
+      "updated_at": "2026-11-10T19:37:56.922612+00:00",
+      "event": "Prime Minister Shehbaz Sharif attended the dome placement ceremony of the Chashma-5 nuclear power plant, highlighting its role in Pakistan's clean energy and energy security.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "ceremony"
+        ],
+        "accountability_cues": [
+          "cost"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Prime Minister Shehbaz Sharif attended the dome placement ceremony of the Chashma-5 nuclear power plant, highlighting its role in Pakistan's clean energy and energy security.",
+        "Find prior promises, earlier phases and delivery records for: Prime Minister Shehbaz Sharif attended the dome placement ceremony of the Chashma-5 nuclear power plant, highlighting its role in Pakistan's clean energy and energy security.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Prime Minister Shehbaz Sharif attended the dome placement ceremony of the Chashma-5 nuclear power plant, highlighting its role in Pakistan's clean energy and energy security.",
+        "Find independent audit, parliamentary, court or regulator records for: Prime Minister Shehbaz Sharif attended the dome placement ceremony of the Chashma-5 nuclear power plant, highlighting its role in Pakistan's clean energy and energy security.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Prime Minister Shehbaz Sharif attended the dome placement ceremony of the Chashma-5 nuclear power plant, highlighting its role in Pakistan's clean energy and energy security.",
+        "Seek a response from the responsible department and affected people for: Prime Minister Shehbaz Sharif attended the dome placement ceremony of the Chashma-5 nuclear power plant, highlighting its role in Pakistan's clean energy and energy security."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "870c3929c68094191c1c",
+      "created_at": "2026-11-10T20:26:42.737057+00:00",
+      "updated_at": "2026-11-10T20:26:42.737057+00:00",
+      "event": "Prime Minister Shehbaz Sharif and Army Chief Field Marshal Syed Asim Munir attended the dome placement ceremony of the Chashma-5 nuclear power plant.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "ceremony"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Prime Minister Shehbaz Sharif and Army Chief Field Marshal Syed Asim Munir attended the dome placement ceremony of the Chashma-5 nuclear power plant.",
+        "Find prior promises, earlier phases and delivery records for: Prime Minister Shehbaz Sharif and Army Chief Field Marshal Syed Asim Munir attended the dome placement ceremony of the Chashma-5 nuclear power plant.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Prime Minister Shehbaz Sharif and Army Chief Field Marshal Syed Asim Munir attended the dome placement ceremony of the Chashma-5 nuclear power plant.",
+        "Find independent audit, parliamentary, court or regulator records for: Prime Minister Shehbaz Sharif and Army Chief Field Marshal Syed Asim Munir attended the dome placement ceremony of the Chashma-5 nuclear power plant.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Prime Minister Shehbaz Sharif and Army Chief Field Marshal Syed Asim Munir attended the dome placement ceremony of the Chashma-5 nuclear power plant.",
+        "Seek a response from the responsible department and affected people for: Prime Minister Shehbaz Sharif and Army Chief Field Marshal Syed Asim Munir attended the dome placement ceremony of the Chashma-5 nuclear power plant."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "330a8fadd9670e7afdc3",
+      "created_at": "2026-11-11T04:20:56.915176+00:00",
+      "updated_at": "2026-11-11T04:20:56.915176+00:00",
+      "event": "A study presented in Lahore reveals that Pakistan's 9 pm shop-closing rule has reduced daily retail transactions by 42 percent.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "introduced"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: A study presented in Lahore reveals that Pakistan's 9 pm shop-closing rule has reduced daily retail transactions by 42 percent.",
+        "Find prior promises, earlier phases and delivery records for: A study presented in Lahore reveals that Pakistan's 9 pm shop-closing rule has reduced daily retail transactions by 42 percent.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: A study presented in Lahore reveals that Pakistan's 9 pm shop-closing rule has reduced daily retail transactions by 42 percent.",
+        "Find independent audit, parliamentary, court or regulator records for: A study presented in Lahore reveals that Pakistan's 9 pm shop-closing rule has reduced daily retail transactions by 42 percent.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: A study presented in Lahore reveals that Pakistan's 9 pm shop-closing rule has reduced daily retail transactions by 42 percent.",
+        "Seek a response from the responsible department and affected people for: A study presented in Lahore reveals that Pakistan's 9 pm shop-closing rule has reduced daily retail transactions by 42 percent."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "e775ec1252818490b697",
+      "created_at": "2026-11-11T05:19:45.889496+00:00",
+      "updated_at": "2026-11-11T05:19:45.889496+00:00",
+      "event": "Prime Minister Shehbaz Sharif arrived to outline Pakistan's climate priorities and glacial melt threats at the COP31 summit in Turkiye.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "established"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Prime Minister Shehbaz Sharif arrived to outline Pakistan's climate priorities and glacial melt threats at the COP31 summit in Turkiye.",
+        "Find prior promises, earlier phases and delivery records for: Prime Minister Shehbaz Sharif arrived to outline Pakistan's climate priorities and glacial melt threats at the COP31 summit in Turkiye.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Prime Minister Shehbaz Sharif arrived to outline Pakistan's climate priorities and glacial melt threats at the COP31 summit in Turkiye.",
+        "Find independent audit, parliamentary, court or regulator records for: Prime Minister Shehbaz Sharif arrived to outline Pakistan's climate priorities and glacial melt threats at the COP31 summit in Turkiye.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Prime Minister Shehbaz Sharif arrived to outline Pakistan's climate priorities and glacial melt threats at the COP31 summit in Turkiye.",
+        "Seek a response from the responsible department and affected people for: Prime Minister Shehbaz Sharif arrived to outline Pakistan's climate priorities and glacial melt threats at the COP31 summit in Turkiye."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "73e2404d8bdbfaf73c55",
+      "created_at": "2026-11-11T06:17:30.436121+00:00",
+      "updated_at": "2026-11-11T06:17:30.436121+00:00",
+      "event": "OGDCL announced a gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Khairpur, Sindh.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced"
+        ],
+        "accountability_cues": [
+          "shortage"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: OGDCL announced a gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Khairpur, Sindh.",
+        "Find prior promises, earlier phases and delivery records for: OGDCL announced a gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Khairpur, Sindh.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: OGDCL announced a gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Khairpur, Sindh.",
+        "Find independent audit, parliamentary, court or regulator records for: OGDCL announced a gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Khairpur, Sindh.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: OGDCL announced a gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Khairpur, Sindh.",
+        "Seek a response from the responsible department and affected people for: OGDCL announced a gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Khairpur, Sindh."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "ee87c616778230a8f259",
+      "created_at": "2026-11-11T07:32:35.702465+00:00",
+      "updated_at": "2026-11-11T07:32:35.702465+00:00",
+      "event": "The Capital Development Authority plans to launch an exclusive electric bus service with 30 pink buses for women in Islamabad.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "decided",
+          "plans to",
+          "introduced"
+        ],
+        "accountability_cues": [
+          "contract"
+        ],
+        "score_penalty": 12,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Capital Development Authority plans to launch an exclusive electric bus service with 30 pink buses for women in Islamabad.",
+        "Find prior promises, earlier phases and delivery records for: The Capital Development Authority plans to launch an exclusive electric bus service with 30 pink buses for women in Islamabad.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Capital Development Authority plans to launch an exclusive electric bus service with 30 pink buses for women in Islamabad.",
+        "Find independent audit, parliamentary, court or regulator records for: The Capital Development Authority plans to launch an exclusive electric bus service with 30 pink buses for women in Islamabad.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Capital Development Authority plans to launch an exclusive electric bus service with 30 pink buses for women in Islamabad.",
+        "Seek a response from the responsible department and affected people for: The Capital Development Authority plans to launch an exclusive electric bus service with 30 pink buses for women in Islamabad."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "1d35fecd7b3eed6f6863",
+      "created_at": "2026-11-11T08:31:46.398772+00:00",
+      "updated_at": "2026-11-11T09:27:10.905847+00:00",
+      "event": "India's air pollution monitors were overwhelmed by severe toxic smog, exceeding measurement limits following Diwali celebrations.",
+      "category": "weather",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "introduced"
+        ],
+        "accountability_cues": [
+          "failed"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: India's air pollution monitors were overwhelmed by severe toxic smog, exceeding measurement limits following Diwali celebrations.",
+        "Find prior promises, earlier phases and delivery records for: India's air pollution monitors were overwhelmed by severe toxic smog, exceeding measurement limits following Diwali celebrations.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: India's air pollution monitors were overwhelmed by severe toxic smog, exceeding measurement limits following Diwali celebrations.",
+        "Find independent audit, parliamentary, court or regulator records for: India's air pollution monitors were overwhelmed by severe toxic smog, exceeding measurement limits following Diwali celebrations.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: India's air pollution monitors were overwhelmed by severe toxic smog, exceeding measurement limits following Diwali celebrations.",
+        "Seek a response from the responsible department and affected people for: India's air pollution monitors were overwhelmed by severe toxic smog, exceeding measurement limits following Diwali celebrations."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "64c90133ca49ba5ea4e0",
+      "created_at": "2026-11-11T10:24:54.396145+00:00",
+      "updated_at": "2026-11-11T10:24:54.396145+00:00",
+      "event": "OGDCL has announced a new gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Sindh's Khairpur district.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announces",
+          "announced"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 8,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: OGDCL has announced a new gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Sindh's Khairpur district.",
+        "Find prior promises, earlier phases and delivery records for: OGDCL has announced a new gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Sindh's Khairpur district.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: OGDCL has announced a new gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Sindh's Khairpur district.",
+        "Find independent audit, parliamentary, court or regulator records for: OGDCL has announced a new gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Sindh's Khairpur district.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: OGDCL has announced a new gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Sindh's Khairpur district.",
+        "Seek a response from the responsible department and affected people for: OGDCL has announced a new gas and condensate discovery at its Bitrisim Northwest-1 exploratory well in Sindh's Khairpur district."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "84b4eae0aba50678f870",
+      "created_at": "2026-11-11T10:24:54.396145+00:00",
+      "updated_at": "2026-11-11T10:24:54.396145+00:00",
+      "event": "PIMS hospital issued an official statement declaring Imran Khan's medical condition satisfactory following overnight examinations and eye treatment.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "orders"
+        ],
+        "accountability_cues": [
+          "court"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: PIMS hospital issued an official statement declaring Imran Khan's medical condition satisfactory following overnight examinations and eye treatment.",
+        "Find prior promises, earlier phases and delivery records for: PIMS hospital issued an official statement declaring Imran Khan's medical condition satisfactory following overnight examinations and eye treatment.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: PIMS hospital issued an official statement declaring Imran Khan's medical condition satisfactory following overnight examinations and eye treatment.",
+        "Find independent audit, parliamentary, court or regulator records for: PIMS hospital issued an official statement declaring Imran Khan's medical condition satisfactory following overnight examinations and eye treatment.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: PIMS hospital issued an official statement declaring Imran Khan's medical condition satisfactory following overnight examinations and eye treatment.",
+        "Seek a response from the responsible department and affected people for: PIMS hospital issued an official statement declaring Imran Khan's medical condition satisfactory following overnight examinations and eye treatment."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "ddd615cae3fccd1ee3c8",
+      "created_at": "2026-11-11T17:41:31.207686+00:00",
+      "updated_at": "2026-11-11T17:41:31.207686+00:00",
+      "event": "PTI lawyers met jailed former prime minister Imran Khan at Adiala Jail following Islamabad High Court orders to discuss under-trial cases.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "orders"
+        ],
+        "accountability_cues": [
+          "court"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: PTI lawyers met jailed former prime minister Imran Khan at Adiala Jail following Islamabad High Court orders to discuss under-trial cases.",
+        "Find prior promises, earlier phases and delivery records for: PTI lawyers met jailed former prime minister Imran Khan at Adiala Jail following Islamabad High Court orders to discuss under-trial cases.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: PTI lawyers met jailed former prime minister Imran Khan at Adiala Jail following Islamabad High Court orders to discuss under-trial cases.",
+        "Find independent audit, parliamentary, court or regulator records for: PTI lawyers met jailed former prime minister Imran Khan at Adiala Jail following Islamabad High Court orders to discuss under-trial cases.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: PTI lawyers met jailed former prime minister Imran Khan at Adiala Jail following Islamabad High Court orders to discuss under-trial cases.",
+        "Seek a response from the responsible department and affected people for: PTI lawyers met jailed former prime minister Imran Khan at Adiala Jail following Islamabad High Court orders to discuss under-trial cases."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "7171afad7abacf204c49",
+      "created_at": "2026-11-13T17:34:37.464565+00:00",
+      "updated_at": "2026-11-13T17:34:37.464565+00:00",
+      "event": "The federal government has set a December 31 deadline to make Islamabad Pakistan's first fully cashless city.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "decided"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The federal government has set a December 31 deadline to make Islamabad Pakistan's first fully cashless city.",
+        "Find prior promises, earlier phases and delivery records for: The federal government has set a December 31 deadline to make Islamabad Pakistan's first fully cashless city.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The federal government has set a December 31 deadline to make Islamabad Pakistan's first fully cashless city.",
+        "Find independent audit, parliamentary, court or regulator records for: The federal government has set a December 31 deadline to make Islamabad Pakistan's first fully cashless city.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The federal government has set a December 31 deadline to make Islamabad Pakistan's first fully cashless city.",
+        "Seek a response from the responsible department and affected people for: The federal government has set a December 31 deadline to make Islamabad Pakistan's first fully cashless city."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "a2e0b74fddee1efb9001",
+      "created_at": "2026-11-13T18:23:00.318437+00:00",
+      "updated_at": "2026-11-13T18:23:00.318437+00:00",
+      "event": "The federal government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced",
+          "introduced"
+        ],
+        "accountability_cues": [
+          "cost",
+          "budget"
+        ],
+        "score_penalty": 8,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The federal government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+        "Find prior promises, earlier phases and delivery records for: The federal government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The federal government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+        "Find independent audit, parliamentary, court or regulator records for: The federal government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The federal government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+        "Seek a response from the responsible department and affected people for: The federal government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "f169528f68c28181fd77",
+      "created_at": "2026-11-13T19:20:16.984084+00:00",
+      "updated_at": "2026-11-13T20:11:32.718108+00:00",
+      "event": "The Pakistani government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced",
+          "introduced"
+        ],
+        "accountability_cues": [
+          "cost",
+          "budget"
+        ],
+        "score_penalty": 8,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Pakistani government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+        "Find prior promises, earlier phases and delivery records for: The Pakistani government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Pakistani government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+        "Find independent audit, parliamentary, court or regulator records for: The Pakistani government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Pakistani government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged.",
+        "Seek a response from the responsible department and affected people for: The Pakistani government reduced the price of petrol by Rs2 per litre while keeping high-speed diesel unchanged."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "72a78ad2d092ba6bcaf8",
+      "created_at": "2026-11-13T20:57:03.602329+00:00",
+      "updated_at": "2026-11-13T20:57:03.602329+00:00",
+      "event": "The Pakistani government reduced the price of petrol by Rs2 per litre to Rs330 per litre while keeping high-speed diesel unchanged.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced",
+          "introduced"
+        ],
+        "accountability_cues": [
+          "cost",
+          "budget"
+        ],
+        "score_penalty": 8,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Pakistani government reduced the price of petrol by Rs2 per litre to Rs330 per litre while keeping high-speed diesel unchanged.",
+        "Find prior promises, earlier phases and delivery records for: The Pakistani government reduced the price of petrol by Rs2 per litre to Rs330 per litre while keeping high-speed diesel unchanged.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Pakistani government reduced the price of petrol by Rs2 per litre to Rs330 per litre while keeping high-speed diesel unchanged.",
+        "Find independent audit, parliamentary, court or regulator records for: The Pakistani government reduced the price of petrol by Rs2 per litre to Rs330 per litre while keeping high-speed diesel unchanged.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Pakistani government reduced the price of petrol by Rs2 per litre to Rs330 per litre while keeping high-speed diesel unchanged.",
+        "Seek a response from the responsible department and affected people for: The Pakistani government reduced the price of petrol by Rs2 per litre to Rs330 per litre while keeping high-speed diesel unchanged."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "2ece4d1c59a55465ba26",
+      "created_at": "2026-11-14T05:38:35.868449+00:00",
+      "updated_at": "2026-11-14T05:38:35.868449+00:00",
+      "event": "Japan has announced a $4.3 million grant to Pakistan to procure over 28 million oral polio vaccine doses for immunization campaigns in 2027.",
+      "category": "health",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announces",
+          "announced"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 8,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Japan has announced a $4.3 million grant to Pakistan to procure over 28 million oral polio vaccine doses for immunization campaigns in 2027.",
+        "Find prior promises, earlier phases and delivery records for: Japan has announced a $4.3 million grant to Pakistan to procure over 28 million oral polio vaccine doses for immunization campaigns in 2027.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Japan has announced a $4.3 million grant to Pakistan to procure over 28 million oral polio vaccine doses for immunization campaigns in 2027.",
+        "Find independent audit, parliamentary, court or regulator records for: Japan has announced a $4.3 million grant to Pakistan to procure over 28 million oral polio vaccine doses for immunization campaigns in 2027.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Japan has announced a $4.3 million grant to Pakistan to procure over 28 million oral polio vaccine doses for immunization campaigns in 2027.",
+        "Seek a response from the responsible department and affected people for: Japan has announced a $4.3 million grant to Pakistan to procure over 28 million oral polio vaccine doses for immunization campaigns in 2027."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "8d3f5351f829a76a4726",
+      "created_at": "2026-11-14T06:29:21.200778+00:00",
+      "updated_at": "2026-11-14T06:29:21.200778+00:00",
+      "event": "The federal government reduced the price of petrol by Rs2 per litre while keeping diesel rates unchanged.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced",
+          "introduced"
+        ],
+        "accountability_cues": [
+          "cost",
+          "budget"
+        ],
+        "score_penalty": 8,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The federal government reduced the price of petrol by Rs2 per litre while keeping diesel rates unchanged.",
+        "Find prior promises, earlier phases and delivery records for: The federal government reduced the price of petrol by Rs2 per litre while keeping diesel rates unchanged.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The federal government reduced the price of petrol by Rs2 per litre while keeping diesel rates unchanged.",
+        "Find independent audit, parliamentary, court or regulator records for: The federal government reduced the price of petrol by Rs2 per litre while keeping diesel rates unchanged.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The federal government reduced the price of petrol by Rs2 per litre while keeping diesel rates unchanged.",
+        "Seek a response from the responsible department and affected people for: The federal government reduced the price of petrol by Rs2 per litre while keeping diesel rates unchanged."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "40d5cc272b3015a6cfca",
+      "created_at": "2026-11-14T06:44:46.406068+00:00",
+      "updated_at": "2026-11-14T06:54:54.171954+00:00",
+      "event": "A Lahore green bus conductor was fired after a video went viral showing him mistreating and pushing a female passenger.",
+      "category": "crime",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "orders",
+          "decided",
+          "established"
+        ],
+        "accountability_cues": [
+          "failed"
+        ],
+        "score_penalty": 12,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: A Lahore green bus conductor was fired after a video went viral showing him mistreating and pushing a female passenger.",
+        "Find prior promises, earlier phases and delivery records for: A Lahore green bus conductor was fired after a video went viral showing him mistreating and pushing a female passenger.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: A Lahore green bus conductor was fired after a video went viral showing him mistreating and pushing a female passenger.",
+        "Find independent audit, parliamentary, court or regulator records for: A Lahore green bus conductor was fired after a video went viral showing him mistreating and pushing a female passenger.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: A Lahore green bus conductor was fired after a video went viral showing him mistreating and pushing a female passenger.",
+        "Seek a response from the responsible department and affected people for: A Lahore green bus conductor was fired after a video went viral showing him mistreating and pushing a female passenger."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "2abfcce2027484632589",
+      "created_at": "2026-11-14T06:54:54.171954+00:00",
+      "updated_at": "2026-11-14T07:05:38.726734+00:00",
+      "event": "Pakistan will host the FIH Hockey Men’s Nations Cup in Lahore in February 2027 after a 24-year gap.",
+      "category": "sports",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced",
+          "approved",
+          "ceremony"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 12,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Pakistan will host the FIH Hockey Men’s Nations Cup in Lahore in February 2027 after a 24-year gap.",
+        "Find prior promises, earlier phases and delivery records for: Pakistan will host the FIH Hockey Men’s Nations Cup in Lahore in February 2027 after a 24-year gap.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Pakistan will host the FIH Hockey Men’s Nations Cup in Lahore in February 2027 after a 24-year gap.",
+        "Find independent audit, parliamentary, court or regulator records for: Pakistan will host the FIH Hockey Men’s Nations Cup in Lahore in February 2027 after a 24-year gap.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Pakistan will host the FIH Hockey Men’s Nations Cup in Lahore in February 2027 after a 24-year gap.",
+        "Seek a response from the responsible department and affected people for: Pakistan will host the FIH Hockey Men’s Nations Cup in Lahore in February 2027 after a 24-year gap."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "fc6661f5b0346acf8656",
+      "created_at": "2026-11-14T09:13:00.806424+00:00",
+      "updated_at": "2026-11-14T09:13:00.806424+00:00",
+      "event": "Authorities in Punjab launched a crackdown on illegal stubble burning in Lahore as smog blankets the region.",
+      "category": "weather",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "launched"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Authorities in Punjab launched a crackdown on illegal stubble burning in Lahore as smog blankets the region.",
+        "Find prior promises, earlier phases and delivery records for: Authorities in Punjab launched a crackdown on illegal stubble burning in Lahore as smog blankets the region.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Authorities in Punjab launched a crackdown on illegal stubble burning in Lahore as smog blankets the region.",
+        "Find independent audit, parliamentary, court or regulator records for: Authorities in Punjab launched a crackdown on illegal stubble burning in Lahore as smog blankets the region.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Authorities in Punjab launched a crackdown on illegal stubble burning in Lahore as smog blankets the region.",
+        "Seek a response from the responsible department and affected people for: Authorities in Punjab launched a crackdown on illegal stubble burning in Lahore as smog blankets the region."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "03bbd0de31d27865b94e",
+      "created_at": "2026-11-14T09:13:00.806424+00:00",
+      "updated_at": "2026-11-14T09:13:00.806424+00:00",
+      "event": "The Balochistan Assembly unanimously adopted a resolution recommending basic Arabic as a compulsory subject in government primary schools.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "approved",
+          "reviews"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 8,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Balochistan Assembly unanimously adopted a resolution recommending basic Arabic as a compulsory subject in government primary schools.",
+        "Find prior promises, earlier phases and delivery records for: The Balochistan Assembly unanimously adopted a resolution recommending basic Arabic as a compulsory subject in government primary schools.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Balochistan Assembly unanimously adopted a resolution recommending basic Arabic as a compulsory subject in government primary schools.",
+        "Find independent audit, parliamentary, court or regulator records for: The Balochistan Assembly unanimously adopted a resolution recommending basic Arabic as a compulsory subject in government primary schools.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Balochistan Assembly unanimously adopted a resolution recommending basic Arabic as a compulsory subject in government primary schools.",
+        "Seek a response from the responsible department and affected people for: The Balochistan Assembly unanimously adopted a resolution recommending basic Arabic as a compulsory subject in government primary schools."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "785ae177c7673352d98a",
+      "created_at": "2026-11-14T10:32:17.737865+00:00",
+      "updated_at": "2026-11-14T14:12:51.131277+00:00",
+      "event": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi announced the immediate suspension of all gold mining and cancellation of leases across the province.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "launched",
+          "announces",
+          "announced",
+          "orders"
+        ],
+        "accountability_cues": [
+          "contract"
+        ],
+        "score_penalty": 16,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Khyber Pakhtunkhwa Governor Faisal Karim Kundi announced the immediate suspension of all gold mining and cancellation of leases across the province.",
+        "Find prior promises, earlier phases and delivery records for: Khyber Pakhtunkhwa Governor Faisal Karim Kundi announced the immediate suspension of all gold mining and cancellation of leases across the province.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Khyber Pakhtunkhwa Governor Faisal Karim Kundi announced the immediate suspension of all gold mining and cancellation of leases across the province.",
+        "Find independent audit, parliamentary, court or regulator records for: Khyber Pakhtunkhwa Governor Faisal Karim Kundi announced the immediate suspension of all gold mining and cancellation of leases across the province.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Khyber Pakhtunkhwa Governor Faisal Karim Kundi announced the immediate suspension of all gold mining and cancellation of leases across the province.",
+        "Seek a response from the responsible department and affected people for: Khyber Pakhtunkhwa Governor Faisal Karim Kundi announced the immediate suspension of all gold mining and cancellation of leases across the province."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "84f4605e4ea6142c9c42",
+      "created_at": "2026-11-14T11:52:06.842017+00:00",
+      "updated_at": "2026-11-14T11:52:06.842017+00:00",
+      "event": "Pakistan's Foreign Office announced that Islamabad will host the 30th Economic Cooperation Organization Council of Foreign Ministers meeting on Nov 15-16.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Pakistan's Foreign Office announced that Islamabad will host the 30th Economic Cooperation Organization Council of Foreign Ministers meeting on Nov 15-16.",
+        "Find prior promises, earlier phases and delivery records for: Pakistan's Foreign Office announced that Islamabad will host the 30th Economic Cooperation Organization Council of Foreign Ministers meeting on Nov 15-16.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Pakistan's Foreign Office announced that Islamabad will host the 30th Economic Cooperation Organization Council of Foreign Ministers meeting on Nov 15-16.",
+        "Find independent audit, parliamentary, court or regulator records for: Pakistan's Foreign Office announced that Islamabad will host the 30th Economic Cooperation Organization Council of Foreign Ministers meeting on Nov 15-16.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Pakistan's Foreign Office announced that Islamabad will host the 30th Economic Cooperation Organization Council of Foreign Ministers meeting on Nov 15-16.",
+        "Seek a response from the responsible department and affected people for: Pakistan's Foreign Office announced that Islamabad will host the 30th Economic Cooperation Organization Council of Foreign Ministers meeting on Nov 15-16."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "06aa777d47a610f17a43",
+      "created_at": "2026-11-14T11:52:06.842017+00:00",
+      "updated_at": "2026-11-14T11:52:06.842017+00:00",
+      "event": "The Foreign Office announced the nomination of Climate Minister Musadik Malik to represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Foreign Office announced the nomination of Climate Minister Musadik Malik to represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Find prior promises, earlier phases and delivery records for: The Foreign Office announced the nomination of Climate Minister Musadik Malik to represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Foreign Office announced the nomination of Climate Minister Musadik Malik to represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Find independent audit, parliamentary, court or regulator records for: The Foreign Office announced the nomination of Climate Minister Musadik Malik to represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Foreign Office announced the nomination of Climate Minister Musadik Malik to represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Seek a response from the responsible department and affected people for: The Foreign Office announced the nomination of Climate Minister Musadik Malik to represent Pakistan at the SCO Civilisational Dialogue in New Delhi."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "ae5bb9e3bae1157802f5",
+      "created_at": "2026-11-14T11:52:06.842017+00:00",
+      "updated_at": "2026-11-14T13:26:19.303235+00:00",
+      "event": "Microsoft announced that its global services, including Outlook and Teams, have been fully restored after a day-long worldwide outage.",
+      "category": "tech",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced",
+          "introduced"
+        ],
+        "accountability_cues": [
+          "court"
+        ],
+        "score_penalty": 8,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Microsoft announced that its global services, including Outlook and Teams, have been fully restored after a day-long worldwide outage.",
+        "Find prior promises, earlier phases and delivery records for: Microsoft announced that its global services, including Outlook and Teams, have been fully restored after a day-long worldwide outage.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Microsoft announced that its global services, including Outlook and Teams, have been fully restored after a day-long worldwide outage.",
+        "Find independent audit, parliamentary, court or regulator records for: Microsoft announced that its global services, including Outlook and Teams, have been fully restored after a day-long worldwide outage.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Microsoft announced that its global services, including Outlook and Teams, have been fully restored after a day-long worldwide outage.",
+        "Seek a response from the responsible department and affected people for: Microsoft announced that its global services, including Outlook and Teams, have been fully restored after a day-long worldwide outage."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "7925221dc09d9d02aacc",
+      "created_at": "2026-11-14T13:26:19.303235+00:00",
+      "updated_at": "2026-11-14T13:26:19.303235+00:00",
+      "event": "The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Find prior promises, earlier phases and delivery records for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Find independent audit, parliamentary, court or regulator records for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Seek a response from the responsible department and affected people for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "d6bf8ef6a1adff9495fc",
+      "created_at": "2026-11-14T13:26:19.303235+00:00",
+      "updated_at": "2026-11-14T13:26:19.303235+00:00",
+      "event": "The State Bank of Pakistan reported that Pakistan's domestic debt dropped by over Rs 1.6 trillion during the first quarter of the fiscal year.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "special initiative"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The State Bank of Pakistan reported that Pakistan's domestic debt dropped by over Rs 1.6 trillion during the first quarter of the fiscal year.",
+        "Find prior promises, earlier phases and delivery records for: The State Bank of Pakistan reported that Pakistan's domestic debt dropped by over Rs 1.6 trillion during the first quarter of the fiscal year.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The State Bank of Pakistan reported that Pakistan's domestic debt dropped by over Rs 1.6 trillion during the first quarter of the fiscal year.",
+        "Find independent audit, parliamentary, court or regulator records for: The State Bank of Pakistan reported that Pakistan's domestic debt dropped by over Rs 1.6 trillion during the first quarter of the fiscal year.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The State Bank of Pakistan reported that Pakistan's domestic debt dropped by over Rs 1.6 trillion during the first quarter of the fiscal year.",
+        "Seek a response from the responsible department and affected people for: The State Bank of Pakistan reported that Pakistan's domestic debt dropped by over Rs 1.6 trillion during the first quarter of the fiscal year."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "cabb0eaf345956786770",
+      "created_at": "2026-11-14T14:12:51.131277+00:00",
+      "updated_at": "2026-11-14T14:12:51.131277+00:00",
+      "event": "Pakistan and 16 other countries condemned an Israeli airstrike on the Nasser Hospital in southern Gaza.",
+      "category": "war",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "established"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Pakistan and 16 other countries condemned an Israeli airstrike on the Nasser Hospital in southern Gaza.",
+        "Find prior promises, earlier phases and delivery records for: Pakistan and 16 other countries condemned an Israeli airstrike on the Nasser Hospital in southern Gaza.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Pakistan and 16 other countries condemned an Israeli airstrike on the Nasser Hospital in southern Gaza.",
+        "Find independent audit, parliamentary, court or regulator records for: Pakistan and 16 other countries condemned an Israeli airstrike on the Nasser Hospital in southern Gaza.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Pakistan and 16 other countries condemned an Israeli airstrike on the Nasser Hospital in southern Gaza.",
+        "Seek a response from the responsible department and affected people for: Pakistan and 16 other countries condemned an Israeli airstrike on the Nasser Hospital in southern Gaza."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "10844f71e6751cafa678",
+      "created_at": "2026-11-14T14:54:12.241663+00:00",
+      "updated_at": "2026-11-14T15:27:22.429426+00:00",
+      "event": "The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announced"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Find prior promises, earlier phases and delivery records for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Find independent audit, parliamentary, court or regulator records for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi.",
+        "Seek a response from the responsible department and affected people for: The Foreign Office announced that Climate Change Minister Musadik Malik will represent Pakistan at the SCO Civilisational Dialogue in New Delhi."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "212a079fd35b2b073ebb",
+      "created_at": "2026-11-14T17:20:45.426615+00:00",
+      "updated_at": "2026-11-14T17:20:45.426615+00:00",
+      "event": "The Punjab government approved Rs3.246 billion for a new Traffic Management and Command Centre at Qurban Police Lines in Lahore.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "launches",
+          "approved",
+          "reviews",
+          "development package"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 16,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Punjab government approved Rs3.246 billion for a new Traffic Management and Command Centre at Qurban Police Lines in Lahore.",
+        "Find prior promises, earlier phases and delivery records for: The Punjab government approved Rs3.246 billion for a new Traffic Management and Command Centre at Qurban Police Lines in Lahore.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Punjab government approved Rs3.246 billion for a new Traffic Management and Command Centre at Qurban Police Lines in Lahore.",
+        "Find independent audit, parliamentary, court or regulator records for: The Punjab government approved Rs3.246 billion for a new Traffic Management and Command Centre at Qurban Police Lines in Lahore.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Punjab government approved Rs3.246 billion for a new Traffic Management and Command Centre at Qurban Police Lines in Lahore.",
+        "Seek a response from the responsible department and affected people for: The Punjab government approved Rs3.246 billion for a new Traffic Management and Command Centre at Qurban Police Lines in Lahore."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "dcc78c52eecb74b15e78",
+      "created_at": "2026-11-14T19:22:31.699640+00:00",
+      "updated_at": "2026-11-14T19:22:31.699640+00:00",
+      "event": "The Punjab government has approved the transfer of operational control and maintenance of its Gulfstream G500 jet to the Pakistan Air Force.",
+      "category": "politics",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "approves",
+          "approved",
+          "decision to"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 12,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Punjab government has approved the transfer of operational control and maintenance of its Gulfstream G500 jet to the Pakistan Air Force.",
+        "Find prior promises, earlier phases and delivery records for: The Punjab government has approved the transfer of operational control and maintenance of its Gulfstream G500 jet to the Pakistan Air Force.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Punjab government has approved the transfer of operational control and maintenance of its Gulfstream G500 jet to the Pakistan Air Force.",
+        "Find independent audit, parliamentary, court or regulator records for: The Punjab government has approved the transfer of operational control and maintenance of its Gulfstream G500 jet to the Pakistan Air Force.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Punjab government has approved the transfer of operational control and maintenance of its Gulfstream G500 jet to the Pakistan Air Force.",
+        "Seek a response from the responsible department and affected people for: The Punjab government has approved the transfer of operational control and maintenance of its Gulfstream G500 jet to the Pakistan Air Force."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "8471a06808c0378017ba",
+      "created_at": "2026-11-14T19:22:31.699640+00:00",
+      "updated_at": "2026-11-14T19:22:31.699640+00:00",
+      "event": "Pakistan Railways achieved a historic milestone by crossing Rs 100 billion in revenue for the first time.",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "approved",
+          "plans to"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 8,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Pakistan Railways achieved a historic milestone by crossing Rs 100 billion in revenue for the first time.",
+        "Find prior promises, earlier phases and delivery records for: Pakistan Railways achieved a historic milestone by crossing Rs 100 billion in revenue for the first time.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Pakistan Railways achieved a historic milestone by crossing Rs 100 billion in revenue for the first time.",
+        "Find independent audit, parliamentary, court or regulator records for: Pakistan Railways achieved a historic milestone by crossing Rs 100 billion in revenue for the first time.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Pakistan Railways achieved a historic milestone by crossing Rs 100 billion in revenue for the first time.",
+        "Seek a response from the responsible department and affected people for: Pakistan Railways achieved a historic milestone by crossing Rs 100 billion in revenue for the first time."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    }
+  ],
+  "updated_at": "2026-11-14T19:22:31.699640+00:00"
+}
