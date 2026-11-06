@@ -427,6 +427,8 @@ def T5(c, flip, style):
     c.img = Image.new("RGB", (W, H), bg)
     c.d = ImageDraw.Draw(c.img)
     c.ink, c.sub, c.gold = ink, sub, gold
+    if style == 2:
+        c.acc = RED
     c.rule = "#34343A" if bg != IVORY else "#C9BFA9"
     c.mute = sub
     # One strong editorial rail; red is reserved for genuinely breaking items.
