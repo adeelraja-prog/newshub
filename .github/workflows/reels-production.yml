@@ -39,6 +39,9 @@ jobs:
           pip install -r news-hub/requirements.txt
           pip install -r news-hub/requirements-reels.txt
 
+      - name: Validate Reel editor syntax
+        working-directory: news-hub
+        run: python -m py_compile news_reels.py reels_main.py
       - name: Cache Whisper model
         uses: actions/cache@v4
         with:
