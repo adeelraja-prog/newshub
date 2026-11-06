@@ -60,7 +60,11 @@
     "27b384f798",
     "efc7e84088",
     "70e02c48d4",
-    "cf099d5433"
+    "cf099d5433",
+    "de748061e9"
   ],
-  "seeded": true
+  "seeded": true,
+  "last_reel_at": "2026-11-06T18:12:57.438443+00:00",
+  "last_reel_qid": "de748061e9",
+  "last_reel_score": 148.2
 }
