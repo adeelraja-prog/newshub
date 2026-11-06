@@ -23,7 +23,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sub,{C.SUB_FONT},{C.SUB_SIZE},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,0,2,70,70,430,1
-Style: Hook,{C.SUB_FONT},{C.SUB_SIZE+8},&H0000E6FF,&H0000E6FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,8,0,8,70,70,220,1
+Style: Hook,{C.SUB_FONT},{C.SUB_SIZE+8},&H0000E6FF,&H0000E6FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,8,0,8,70,70,220,1\nStyle: Brand,Noto Sans,30,&H00C8A96A,&H00C8A96A,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,8,70,70,70,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
