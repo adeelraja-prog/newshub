@@ -656,7 +656,9 @@ def fact_prompt(blocks):
     return """You are a strict fact-checker for a news page. For each ITEM compare the CAPTION with the SOURCE TEXT.
 Verdict "ok" only if EVERY factual claim in the caption (who, what, numbers, dates, places, quotes, causes) is stated in
 or directly supported by the source text, allegations are attributed, and nothing is exaggerated beyond the source.
-Punchy wording is fine; extra claims are not. Otherwise verdict "unsupported" and list the issues.
+Punchy wording is fine; extra claims are not. Also verify every factual element in VALUE ADDITION:
+dates, amounts, comparisons, labels, chronology and source notes. If any element is unsupported by SOURCE TEXT
+or the supplied dated archive, verdict must be "unsupported".
 Return JSON: {"checks": [{"n": 1, "verdict": "ok" or "unsupported", "issues": ["..."]}]}
 
 """ + "\n\n".join(blocks)
@@ -672,7 +674,9 @@ def fact_check(stories, written):
         heads = " | ".join(m["title"] for m in s_["cluster"]["members"][:5])
         cap = " ".join([w["headline_used"], w["poster_headline_en"], w["caption_opening"], w["summary_en"],
                         w["attribution_line"]])
-        blocks[n] = f"ITEM {n}\nSOURCE TEXT: {heads} || {s_['excerpt'][:1500] or 'headlines only'}\nCAPTION: {cap}"
+        value_addition = json.dumps(w.get("value_addition") or {"type": "none"}, ensure_ascii=False)
+        blocks[n] = (f"ITEM {n}\nSOURCE TEXT: {heads} || {s_['excerpt'][:1500] or 'headlines only'}"
+                     f"\nCAPTION: {cap}\nVALUE ADDITION: {value_addition}")
     verdicts, keys = {}, list(blocks)
     for i in range(0, len(keys), 8):
         try:
