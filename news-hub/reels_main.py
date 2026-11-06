@@ -35,20 +35,17 @@ def process(video):
     return success
 
 def main():
-    state=load_state(); latest=[]
+    state=load_state()
+    backlog=[]
     for channel in C.CHANNELS:
-        video=yt.latest_video(channel)
-        if video: latest.append(video)
-    # First deployment records the current latest uploads, preventing an old video being reposted.
-    if not state.get("seeded"):
-        state["done"]=list(dict.fromkeys(state["done"]+[v["id"] for v in latest]))
-        state["seeded"]=True; save_state(state)
-        print("[clips] initial baseline saved; newly uploaded videos will be clipped on the next cycle")
-        return
-    pending=[v for v in latest if v["id"] not in state["done"] and state["failed"].get(v["id"],0)<3]
+        backlog.extend(yt.recent_videos(channel,C.LOOKBACK_DAYS,C.SCAN_LIMIT))
+    backlog.sort(key=lambda v:(v["upload_date"],v["channel"],v["id"]))
+    pending=[v for v in backlog if v["id"] not in state["done"]
+             and state["failed"].get(v["id"],0)<3]
+    print(f"[clips] {len(backlog)} videos in {C.LOOKBACK_DAYS}-day backlog; {len(pending)} pending; oldest first")
     failed_this_run=[]
     for video in pending[:C.MAX_VIDEOS_PER_RUN]:
-        print("[clips] processing",video["channel"],video["id"],video["title"])
+        print("[clips] processing",video["upload_date"],video["channel"],video["id"],video["title"])
         try: ok=process(video)
         except Exception: traceback.print_exc(); ok=False
         if ok:
@@ -58,7 +55,8 @@ def main():
             failed_this_run.append(video["id"])
         save_state(state)
         shutil.rmtree(C.WORK/video["id"],ignore_errors=True)
-    state["done"]=list(dict.fromkeys(state["done"]))[-500:]; save_state(state)
+    state["done"]=list(dict.fromkeys(state["done"]))[-1000:]
+    save_state(state)
     if failed_this_run:
         raise RuntimeError("YouTube clip Reel processing failed for: "+", ".join(failed_this_run))
 
