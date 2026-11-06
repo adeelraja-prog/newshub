@@ -41,6 +41,7 @@ def pick(segs,n):
         hook=(c.get("hook") or "").strip()
         if not (C.CLIP_MIN<=e-s<=C.CLIP_MAX) or not hook or hook not in " ".join(x["text"] for x in segs): continue
         if any(not(e<=x["start"] or s>=x["end"]) for x in chosen): continue
-        chosen.append({"start":s,"end":e,"hook":hook,"caption":(c.get("caption") or "").strip()})
+        source_text=" ".join(x["text"] for x in segs if x["start"]>=s-0.05 and x["end"]<=e+0.05)
+        chosen.append({"start":s,"end":e,"hook":hook,"caption":source_text})
         if len(chosen)>=n: break
     return chosen
