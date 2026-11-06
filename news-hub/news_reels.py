@@ -348,9 +348,6 @@ def _editorial_reel_score(item,now_utc):
     return composite + viral*0.10 + public_interest*0.08 + pakistan*0.05 + priority_bonus + freshness
 
 def main():
-    if os.getenv("ENABLE_NEWS_REELS", "0").strip().lower() not in ("1", "true", "yes", "on"):
-        print("[news-reels] production publishing is PAUSED; new visual system must pass preview validation first")
-        return
     if not QUEUE.exists():
         print("[news-reels] bot-data queue is unavailable; nothing published"); return
     data=load_json(QUEUE,{"items":[]}); items=data.get("items",[])
