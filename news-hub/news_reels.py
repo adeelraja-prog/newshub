@@ -48,101 +48,109 @@ def wrap(draw,text,f,max_width,direction):
     if current: lines.append(current)
     return lines
 
-def draw_paragraph(draw,text,f,y,max_width,fill,direction="ltr",line_gap=24,max_lines=7):
-    lines=wrap(draw,text,f,max_width,direction)[:max_lines]
+def draw_paragraph(draw,text,f,y,max_width,fill,direction="ltr",line_gap=16,max_lines=6):
+    # Stable, readable lines: reduce type size to fit instead of clipping or letting
+    # long text drift outside the central mobile-safe reading area.
+    size=f.size
+    while size>42:
+        candidate=font(FONT_UR if direction=="rtl" else FONT_EN,size)
+        lines=wrap(draw,text,candidate,max_width,direction)
+        if len(lines)<=max_lines: break
+        size-=4
+    candidate=font(FONT_UR if direction=="rtl" else FONT_EN,size)
+    lines=wrap(draw,text,candidate,max_width,direction)[:max_lines]
+    line_h=int(size*1.55)
     for line in lines:
-        draw.text((W//2,y),line,font=f,fill=fill,anchor="mm",align="center",direction=direction,
-                  language="ur" if direction=="rtl" else "en")
-        y += int(f.size*1.55)+line_gap
+        draw.text((W//2,y),line,font=candidate,fill=fill,anchor="mm",align="center",
+                  direction=direction,language="ur" if direction=="rtl" else "en",
+                  stroke_width=1,stroke_fill=(8,12,20))
+        y += line_h+line_gap
     return y
 
-def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,total=4):
+def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,total=3):
     im=Image.new("RGB",(W,H),NAVY); d=ImageDraw.Draw(im)
-    # restrained editorial geometry, no stock imagery or fabricated visual claims
-    d.rectangle((0,0,W,18),fill=GOLD)
-    d.ellipse((720,-250,1320,350),outline=(36,43,57),width=5)
-    d.ellipse((-320,1450,320,2090),outline=(36,43,57),width=5)
-    d.text((W//2,112),"ADEEL RAJA",font=font(FONT_EN,52),fill=IVORY,anchor="mm")
-    d.line((270,158,810,158),fill=GOLD,width=3)
-    d.text((W//2,198),"NEWS  ·  CONTEXT  ·  PERSPECTIVE",font=font(FONT_EN,20),fill=MUTED,anchor="mm")
-    pill=category.upper().replace("_"," ")
-    d.rounded_rectangle((W//2-190,285,W//2+190,350),radius=24,fill=(34,40,53),outline=GOLD,width=2)
-    d.text((W//2,318),pill[:24],font=font(FONT_EN,24),fill=GOLD,anchor="mm")
-    d.text((W//2,430),eyebrow.upper(),font=font(FONT_EN,22),fill=MUTED,anchor="mm")
-    is_urdu=urdu
-    f=font(FONT_UR,76 if is_urdu else 66)
-    direction="rtl" if is_urdu else "ltr"
-    y=650
-    y=draw_paragraph(d,main,f,y,900,IVORY if slide_no!=1 else (255,248,232),direction,line_gap=26,max_lines=8)
+    # High-contrast, phone-first editorial card. Keep all key text inside central safe zone.
+    d.rectangle((0,0,W,14),fill=RED)
+    d.rectangle((64,250,1016,1660),fill=(18,25,39),outline=(48,58,75),width=2)
+    d.text((W//2,104),"ADEEL RAJA",font=font(FONT_EN,42),fill=IVORY,anchor="mm")
+    d.line((360,145,720,145),fill=GOLD,width=3)
+    d.text((W//2,184),"NEWS  ·  CONTEXT  ·  PERSPECTIVE",font=font(FONT_EN,18),fill=MUTED,anchor="mm")
+    pill=category.upper().replace("_"," ")[:22]
+    d.rounded_rectangle((W//2-170,260,W//2+170,316),radius=20,fill=(35,43,58),outline=GOLD,width=2)
+    d.text((W//2,288),pill,font=font(FONT_EN,21),fill=GOLD,anchor="mm")
+    d.text((W//2,405),eyebrow.upper(),font=font(FONT_EN,23),fill=(224,184,111),anchor="mm")
+    direction="rtl" if urdu else "ltr"
+    main_font=font(FONT_UR if urdu else FONT_EN,72 if urdu else 66)
+    # The main message is vertically centred; font automatically shrinks to fit.
+    approx_lines=wrap(d,main,main_font,850,direction)
+    main_size=72 if urdu else 66
+    while len(approx_lines)>5 and main_size>44:
+        main_size-=4
+        main_font=font(FONT_UR if urdu else FONT_EN,main_size)
+        approx_lines=wrap(d,main,main_font,850,direction)
+    block_h=min(len(approx_lines),5)*int(main_size*1.55)
+    y=max(570,880-block_h//2)
+    y=draw_paragraph(d,main,main_font,y,850,IVORY,direction,line_gap=14,max_lines=5)
     if secondary:
-        d.line((340,min(y+25,1450),740,min(y+25,1450)),fill=GOLD,width=4)
-        sf=font(FONT_EN,34)
-        draw_paragraph(d,secondary,sf,min(y+100,1510),880,MUTED,"ltr",line_gap=12,max_lines=4)
-    d.line((70,1760,1010,1760),fill=(55,62,75),width=2)
-    d.text((W//2,1815),"@adeelrajaviews     ·     @adeelraja",font=font(FONT_EN,27),fill=IVORY,anchor="mm")
-    d.text((W//2,1870),f"{slide_no:02d} / {total:02d}",font=font(FONT_EN,20),fill=GOLD,anchor="mm")
+        y=min(max(y+65,1320),1450)
+        d.line((390,y-32,690,y-32),fill=GOLD,width=3)
+        sf=font(FONT_EN,29)
+        draw_paragraph(d,secondary,sf,y,820,(202,207,215),"ltr",line_gap=8,max_lines=3)
+    d.line((100,1690,980,1690),fill=(64,72,87),width=2)
+    d.text((W//2,1740),"@adeelrajaviews",font=font(FONT_EN,25),fill=IVORY,anchor="mm")
+    d.text((W//2,1795),f"{slide_no:02d} / {total:02d}",font=font(FONT_EN,19),fill=GOLD,anchor="mm")
     im.save(path,quality=95)
 
 def make_outro(path):
+    # Minimal end-slate: small brand mark, shown only for the final beat.
     im=Image.new("RGB",(W,H),NAVY); d=ImageDraw.Draw(im)
-    # Purpose-built branded end card; no external logo asset or copyrighted material.
-    d.rectangle((0,0,W,18),fill=GOLD)
-    d.ellipse((170,490,910,1230),outline=(45,54,70),width=5)
-    d.ellipse((235,555,845,1165),outline=(62,70,84),width=2)
-    d.rounded_rectangle((330,700,750,1120),radius=210,outline=GOLD,width=5)
-    d.text((W//2,850),"AR",font=font(FONT_EN,150),fill=IVORY,anchor="mm")
-    d.line((300,1200,780,1200),fill=GOLD,width=4)
-    d.text((W//2,1300),"ADEEL RAJA",font=font(FONT_EN,76),fill=IVORY,anchor="mm")
-    d.text((W//2,1380),"NEWS  ·  CONTEXT  ·  PERSPECTIVE",font=font(FONT_EN,23),fill=MUTED,anchor="mm")
-    d.text((W//2,1510),"@adeelrajaviews",font=font(FONT_EN,31),fill=GOLD,anchor="mm")
+    d.rectangle((0,0,W,10),fill=RED)
+    d.rounded_rectangle((430,760,650,980),radius=108,outline=GOLD,width=4)
+    d.text((W//2,870),"AR",font=font(FONT_EN,78),fill=IVORY,anchor="mm")
+    d.text((W//2,1035),"ADEEL RAJA",font=font(FONT_EN,30),fill=IVORY,anchor="mm")
     im.save(path,quality=96)
 
 def make_original_music(path,duration):
-    # Original, royalty-safe newsroom bed: pulsing low-end, tight percussive ticks,
-    # restrained cinematic brass-like stabs and a confident resolving finish.
-    import math, struct, wave, random
-    rate=44100; total=int(rate*duration); frames=[]; rng=random.Random(2406)
-    chords=[(73.42,110.00,146.83),(65.41,98.00,130.81),(82.41,123.47,164.81),(73.42,110.00,146.83)]
-    beat=60.0/112.0
+    # Original punchy newsroom score plus a distinct three-note sonic logo at the end.
+    import math,struct,wave,random
+    rate=44100; total=int(rate*duration); frames=[]; rng=random.Random(1706)
+    beat=60.0/120.0
+    roots=[55.0,49.0,61.74,55.0]
     for n in range(total):
-        t=n/rate; step=int(t/beat); phase=t%beat
-        bar=(step//4)%len(chords)
-        fade=min(1.0,t/0.35,(duration-t)/0.9)
-        # Warm, low cinematic pulse with a short kick on every beat.
-        bass=0.13*math.sin(2*math.pi*chords[bar][0]*t)
-        bass+=0.055*math.sin(2*math.pi*chords[bar][1]*t)
+        t=n/rate; step=int(t/beat); phase=t%beat; bar=(step//4)%4
+        fade=min(1.0,t/0.18,(duration-t)/0.12)
+        bass=0.16*math.sin(2*math.pi*roots[bar]*t)+0.06*math.sin(2*math.pi*roots[bar]*2*t)
         kick=0.0
-        if phase<0.16:
-            env=math.exp(-phase*24)
-            kick=0.34*env*math.sin(2*math.pi*(58-22*phase/0.16)*phase)
-        # Dry snare/clap-like noise on beats 2 and 4; soft hi-hat on subdivisions.
+        if phase<0.14:
+            kick=0.40*math.exp(-phase*26)*math.sin(2*math.pi*(68-28*phase/0.14)*phase)
         snare=0.0
-        if step%4 in (1,3) and phase<0.095:
-            snare=(rng.random()*2-1)*0.11*math.exp(-phase*42)
+        if step%4 in (1,3) and phase<0.08:
+            snare=(rng.random()*2-1)*0.12*math.exp(-phase*48)
         hat=0.0
-        if phase<0.025:
-            hat=(rng.random()*2-1)*0.035*math.exp(-phase*130)
-        # Short tonal newsroom stabs every second bar, not a constant thin melody.
+        if phase<0.018: hat=(rng.random()*2-1)*0.045*math.exp(-phase*180)
         stab=0.0
-        if step%8==0 and phase<0.42:
-            env=math.exp(-phase*7)
-            stab=sum(math.sin(2*math.pi*hz*phase) for hz in chords[bar][1:])*0.045*env
-        # Gentle high pulse keeps the bed moving under the voice/story.
-        tick=0.018*math.sin(2*math.pi*880*t)*(0.5+0.5*math.sin(2*math.pi*2*t))
-        sample=(bass+kick+snare+hat+stab+tick)*fade
-        sample=max(-0.85,min(0.85,sample))
-        value=int(sample*32767)
-        frames.append(struct.pack("<hh",value,value))
+        if step%8==0 and phase<0.26:
+            stab=sum(math.sin(2*math.pi*h*phase) for h in (220,277.18,329.63))*0.045*math.exp(-phase*8)
+        # Three ascending clean tones: a separate sonic signature as the small logo appears.
+        stinger_start=duration-0.78
+        stinger=0.0
+        for onset,hz in ((stinger_start,523.25),(stinger_start+0.19,659.25),(stinger_start+0.38,783.99)):
+            age=t-onset
+            if 0<=age<0.42:
+                env=math.exp(-age*5.5)*min(1.0,age*30)
+                stinger+=0.18*env*(math.sin(2*math.pi*hz*age)+0.22*math.sin(2*math.pi*hz*2*age))
+        bed=(bass+kick+snare+hat+stab)*min(1.0,max(0.0,(duration-0.9-t)/0.25))
+        sample=max(-0.88,min(0.88,(bed+stinger)*fade))
+        value=int(sample*32767); frames.append(struct.pack("<hh",value,value))
     with wave.open(str(path),"wb") as wav:
         wav.setnchannels(2); wav.setsampwidth(2); wav.setframerate(rate); wav.writeframes(b"".join(frames))
 
 def render_story(item,folder):
     poster=item.get("poster") or {}; caption=[x.strip() for x in (item.get("caption") or "").split("\n\n") if x.strip()]
-    opening=caption[0] if len(caption)>0 else item.get("headline","")
+    opening=caption[0] if caption else item.get("headline","")
     summary_en=caption[1] if len(caption)>1 else (poster.get("en") or item.get("headline",""))
     summary_ur=caption[2] if len(caption)>2 else (poster.get("ur") or opening)
     category=str(item.get("category") or "NEWS").replace("_"," ")
-    # Story-first editorial sequence: hook, concise context, why it matters, branded outro.
     slides=[
       ("THE STORY",poster.get("ur") or opening,poster.get("en") or "",True),
       ("WHAT HAPPENED",summary_en,"",False),
@@ -154,30 +162,31 @@ def render_story(item,folder):
         make_slide(p,category,eyebrow,main,secondary,is_urdu,i,len(slides)); paths.append(p)
     outro=folder/"adeel_raja_outro.jpg"; make_outro(outro); paths.append(outro)
     out=folder/"news_story_reel.mp4"; music=folder/"original_news_bed.wav"
-    duration=11.8
+    # Fast 9-second mobile Reel: three readable story beats, then a very brief logo sting.
+    scene=2.55; outro_time=0.78; duration=scene*3+outro_time
     make_original_music(music,duration)
     inputs=[]
-    for p in paths: inputs += ["-loop","1","-t","3.2","-i",str(p)]
+    for idx,p in enumerate(paths):
+        inputs += ["-loop","1","-t",f"{scene if idx<3 else outro_time:.2f}","-i",str(p)]
     inputs += ["-i",str(music)]
-    # Reel-style editorial motion, varied transitions, and an animated branded end-card reveal.
     graph=(
-      "[0:v]zoompan=z='min(zoom+0.00085,1.075)':d=96:s=1080x1920:fps=30,format=yuv420p[v0];"
-      "[1:v]zoompan=z='min(zoom+0.00070,1.065)':d=96:s=1080x1920:fps=30,format=yuv420p[v1];"
-      "[2:v]zoompan=z='min(zoom+0.00090,1.08)':d=96:s=1080x1920:fps=30,format=yuv420p[v2];"
-      "[3:v]zoompan=z='min(zoom+0.00110,1.10)':d=96:s=1080x1920:fps=30,format=yuv420p[v3];"
-      "[v0][v1]xfade=transition=slideleft:duration=0.38:offset=2.82[x1];"
-      "[x1][v2]xfade=transition=fade:duration=0.38:offset=5.64[x2];"
-      "[x2][v3]xfade=transition=slideright:duration=0.48:offset=8.46,"
-      "drawbox=x=0:y=0:w='iw*min(t/0.9,1)':h=10:color=0xD90429@0.98:t=fill[v];"
-      "[4:a]afade=t=in:st=0:d=0.45,afade=t=out:st=10.2:d=1.5,volume=0.92[a]"
+      "[0:v]zoompan=z='min(zoom+0.00035,1.025)':d=77:s=1080x1920:fps=30,format=yuv420p[v0];"
+      "[1:v]zoompan=z='min(zoom+0.00030,1.022)':d=77:s=1080x1920:fps=30,format=yuv420p[v1];"
+      "[2:v]zoompan=z='min(zoom+0.00035,1.025)':d=77:s=1080x1920:fps=30,format=yuv420p[v2];"
+      "[3:v]scale=1080:1920,format=yuv420p[v3];"
+      "[v0][v1]xfade=transition=smoothleft:duration=0.28:offset=2.27[x1];"
+      "[x1][v2]xfade=transition=fade:duration=0.26:offset=4.54[x2];"
+      "[x2][v3]xfade=transition=wipeleft:duration=0.22:offset=6.81,"
+      "drawbox=x=0:y=0:w='iw*min(t/0.65,1)':h=8:color=0xD90429@0.98:t=fill[v];"
+      "[4:a]afade=t=in:st=0:d=0.25,afade=t=out:st=7.8:d=0.18,volume=1.0[a]"
     )
     result=subprocess.run(["ffmpeg","-y",*inputs,"-filter_complex",graph,
         "-map","[v]","-map","[a]","-t",str(duration),"-c:v","libx264","-preset","veryfast",
         "-crf","19","-pix_fmt","yuv420p","-c:a","aac","-b:a","192k","-shortest",
         "-movflags","+faststart",str(out)],capture_output=True,text=True,timeout=600)
     if result.returncode or not out.exists():
-        raise RuntimeError("Animated news Reel render failed: "+result.stderr[-1200:])
-    print("[news-reels] rendered 3-story-scene Reel with original newsroom music, motion transitions and Adeel Raja outro")
+        raise RuntimeError("Animated news Reel render failed: "+result.stderr[-1600:])
+    print("[news-reels] rendered 3 readable story beats, smooth transitions, punchy original newsroom bed and 0.78s small-logo sonic sting")
     return out, opening
 
 def post_reel(video,caption,title):
