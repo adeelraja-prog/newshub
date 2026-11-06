@@ -256,7 +256,7 @@ def render_story(item,folder):
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v0];"
       "[1:v]zoompan=z='min(zoom+0.00036,1.066)':d=180:s=1080x1920:fps=30,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v1];"
-      "[2:v]zoompan=z='min(zoom+0.00065,1.082)':d=126:s=1080x1920:fps=30,"
+      "[2:v]zoompan=z='min(zoom+0.00038,1.070)':d=180:s=1080x1920:fps=30,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v2];"
       "[3:v]scale=1080:1920,settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v3];"
       "[v0][v1]xfade=transition=smoothleft:duration=0.4:offset=5.6[x1];"
