@@ -10,8 +10,10 @@ BASE=Path(__file__).resolve().parent
 STATE=Path(os.getenv("NEWS_REEL_STATE_FILE",str(BASE/"news-reels-processed.json")))
 QUEUE=Path(os.getenv("NEWS_REEL_QUEUE_FILE","/tmp/news-queue.json"))
 OUT=Path(os.getenv("NEWS_REEL_WORK_DIR","/tmp/news-reels"))
-PAGE=os.getenv("FB_PAGE_ID",""); TOKEN=os.getenv("FB_PAGE_TOKEN","")
-GRAPH="https://graph.facebook.com/"+os.getenv("FB_GRAPH_VERSION","v23.0")
+PAGE=os.getenv("FB_PAGE_ID","").strip(); TOKEN=os.getenv("FB_PAGE_TOKEN","").strip()
+if PAGE and not PAGE.isdigit():
+    raise RuntimeError("FB_PAGE_ID must contain only the numeric Facebook Page ID after trimming; check the existing secret.")
+GRAPH="https://graph.facebook.com/"+os.getenv("FB_GRAPH_VERSION","v23.0").strip()
 MAX_PER_RUN=int(os.getenv("NEWS_REELS_MAX_PER_RUN","1"))
 FONT_UR=BASE/"assets"/"fonts"/"NotoNastaliqUrdu.ttf"
 FONT_EN=Path("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf")
@@ -116,12 +118,14 @@ def render_story(item,folder):
     return out, opening
 
 def post_reel(video,caption,title):
-    if not PAGE or not TOKEN: raise RuntimeError("Existing FB_PAGE_ID / FB_PAGE_TOKEN credentials unavailable.")
-    url=f"{GRAPH}/{PAGE}/video_reels"
-    start=requests.post(url,data={"upload_phase":"start","access_token":TOKEN},timeout=60); start.raise_for_status()
+    page_id=PAGE.strip(); token=TOKEN.strip()
+    if not page_id or not token: raise RuntimeError("Existing FB_PAGE_ID / FB_PAGE_TOKEN credentials unavailable.")
+    if not page_id.isdigit(): raise RuntimeError("FB_PAGE_ID must be numeric after trimming; Facebook request was not sent.")
+    url=f"{GRAPH}/{page_id}/video_reels"
+    start=requests.post(url,data={"upload_phase":"start","access_token":token},timeout=60); start.raise_for_status()
     data=start.json(); vid=data["video_id"]; upload_url=data["upload_url"]
     with video.open("rb") as f:
-        upload=requests.post(upload_url,data=f,timeout=900,headers={"Authorization":f"OAuth {TOKEN}",
+        upload=requests.post(upload_url,data=f,timeout=900,headers={"Authorization":f"OAuth {token}",
             "offset":"0","file_size":str(video.stat().st_size),"Content-Type":"application/octet-stream"})
     upload.raise_for_status()
     finish=requests.post(url,data={"upload_phase":"finish","video_id":vid,"video_state":"PUBLISHED",
@@ -156,8 +160,8 @@ def main():
             state["done"].append(qid)
         except Exception as exc:
             print(f"[news-reels] failed {qid}: {exc}")
-            # Failed stories are retried on the next scheduled cycle; no self-certification or fake publish status.
-            continue
+            # Fail the Actions step so publishing failures cannot appear as a green workflow.
+            raise
         finally:
             if qid in state.get("done",[]): 
                 import shutil; shutil.rmtree(OUT/re.sub(r"[^A-Za-z0-9_-]","_",str(qid)),ignore_errors=True)
