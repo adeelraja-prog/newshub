@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "cases": [
+    {
+      "id": "1ab8e05b18b5f4006f0e",
+      "created_at": "2026-11-07T10:57:25.665691+00:00",
+      "updated_at": "2026-11-07T10:57:25.665691+00:00",
+      "event": "The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+      "category": "disaster",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "vision of"
+        ],
+        "accountability_cues": [
+          "delay"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+        "Find prior promises, earlier phases and delivery records for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+        "Find independent audit, parliamentary, court or regulator records for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions.",
+        "Seek a response from the responsible department and affected people for: The Sindh government officially declared Tharparkar a calamity-hit district and ordered emergency measures due to severe drought conditions."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "2e70327ec09ce5f1b3b3",
+      "created_at": "2026-11-07T11:29:30.560039+00:00",
+      "updated_at": "2026-11-07T11:29:30.560039+00:00",
+      "event": "The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+      "category": "politics",
+      "claim_status": "allegation",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "launched"
+        ],
+        "accountability_cues": [
+          "tender",
+          "contract",
+          "investigation",
+          "corruption"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+        "Find prior promises, earlier phases and delivery records for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+        "Find independent audit, parliamentary, court or regulator records for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure.",
+        "Seek a response from the responsible department and affected people for: The Khyber Pakhtunkhwa government cancelled development tenders worth Rs8.92 billion amid allegations of kickbacks during the PTI tenure."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "4123ae263a43311b099c",
+      "created_at": "2026-11-07T15:10:24.510480+00:00",
+      "updated_at": "2026-11-07T15:10:24.510480+00:00",
+      "event": "The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+      "category": "economy",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "announces"
+        ],
+        "accountability_cues": [
+          "cost"
+        ],
+        "score_penalty": 4,
+        "decision": "eligible_for_normal_review",
+        "reason": "No unresolved research blocker detected.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+        "Find prior promises, earlier phases and delivery records for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+        "Find independent audit, parliamentary, court or regulator records for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs).",
+        "Seek a response from the responsible department and affected people for: The federal government announced a new auto policy focusing on cheaper vehicles and electric vehicles (EVs)."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    },
+    {
+      "id": "78248bd2c8879f72b02b",
+      "created_at": "2026-11-07T17:38:56.212602+00:00",
+      "updated_at": "2026-11-07T17:38:56.212602+00:00",
+      "event": "Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+      "category": "tech",
+      "claim_status": "confirmed",
+      "research_status": "open_no_leads",
+      "editorial_status": "held_not_publishable",
+      "soft_pr_review": {
+        "soft_pr_signal": true,
+        "investigation_signal": false,
+        "promo_cues": [
+          "launches"
+        ],
+        "accountability_cues": [],
+        "score_penalty": 4,
+        "decision": "research_required",
+        "reason": "Promotional framing requires independent accountability evidence before scheduling.",
+        "requires_accountability_research": true
+      },
+      "research_questions": [
+        "Find the original announcement and exact date for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+        "Find prior promises, earlier phases and delivery records for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+        "Find budget, per-unit cost, procurement/tender and supplier records for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+        "Find independent audit, parliamentary, court or regulator records for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+        "Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy.",
+        "Seek a response from the responsible department and affected people for: Pakistan has introduced 45 new vehicle safety standards aligned with the UN's WP.29 code under its new auto policy."
+      ],
+      "evidence": [],
+      "timeline": [],
+      "data_points": [],
+      "note": "Research lead only. No allegation or conclusion is implied.",
+      "source_leads": []
+    }
+  ],
+  "updated_at": "2026-11-07T17:38:56.212602+00:00"
+}
