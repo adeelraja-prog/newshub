@@ -22,6 +22,7 @@ import requests
 
 import editorial as ed
 import poster
+import reel_engine
 import youtube_promo as yt
 from sources import SOURCES
 
@@ -577,6 +578,8 @@ def enqueue(queue, story, w, caption, t0):
                  "scores": {k: story[k] for k in ("importance", "trend_score", "viral_potential", "pakistan_relevance",
                                                   "public_interest", "urgency", "confidence", "composite")},
                  "viral_estimate": story["viral_estimate"], "viral_measured": story["viral_measured"],
+                 "fact_check": "passed", "claim_status": story.get("claim_status"),
+                 "original_source": story.get("original_source"), "discovery": story.get("discovery"),
                  "trend_basis": story["trend_basis"], "trend_notes": story["trend_notes"], "x_signal": story["x_signal"],
                  "lifecycle": story["lifecycle"], "claim_status": story["claim_status"], "why_pk": story["why_pk"],
                  "explanation": story["explanation"], "original_source": story["original_source"],
@@ -693,8 +696,13 @@ def make_poster(item, tag):
     poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
                   [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"))
     POSTER_N[0] += 1
+    if item.get("type") not in ("youtube", "engage") and (item.get("meta") or {}).get("fact_check") == "passed":
+        try:
+            reel_engine.render_reel(item, f"reels/{tag}-{item['qid']}.mp4")
+            print(f"[reel] rendered reels/{tag}-{item['qid']}.mp4")
+        except Exception as ex:
+            print(f"[reel] not generated: {ex}")
     return path
-
 
 def publish_one(queue, state, item, t0):
     ok, fb_id = False, None
