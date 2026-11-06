@@ -165,8 +165,8 @@ def prelim_score(cluster, sig, now):
 
 
 CAT_BOOST = {"tech_ai": 12, "tech_gadgets": 10, "tech_mobile": 10, "tech_laptop": 9, "tech_apps": 8, "tech": 10,
-             "economy": 7, "science": 6, "health": 6, "politics": 5, "weather": 5, "fashion": 4, "lifestyle": 4,
-             "crime": 7, "war": 7, "us_politics": 6}
+             "economy": 8, "science": 7, "health": 8, "politics": 16, "weather": 8, "fashion": 5, "lifestyle": 5,
+             "crime": 8, "war": 8, "us_politics": 10, "sports": 10, "courts": 10, "security": 9}
 SENSITIVE = ("politics", "security", "courts", "crime", "war", "us_politics")
 SURE_TYPES = ("official_document", "official_statement", "court_order", "wire")
 VIRAL_RE = re.compile(r"\bviral\b|goes viral|went viral|trending on|social media (users|reacts|erupts)|وائرل|ٹرینڈ", re.I)
@@ -231,7 +231,7 @@ def select_balanced(stories, n, min_conf, min_comp, break_urg, break_conf, max_b
         progressed = False
         for k in order:
             while pos[k] < len(lists[k]) and (lists[k][pos[k]]["id"] in ids
-                                              or per_cat.get(lists[k][pos[k]]["category"], 0) >= max_per_cat):
+                                              or per_cat.get(lists[k][pos[k]]["category"], 0) >= (5 if lists[k][pos[k]]["category"] == "politics" else 4 if lists[k][pos[k]]["category"] == "economy" else max_per_cat)):
                 pos[k] += 1
             if pos[k] < len(lists[k]) and len(chosen) < n:
                 s = lists[k][pos[k]]
