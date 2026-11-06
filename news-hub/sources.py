@@ -26,6 +26,13 @@ SOURCES = [
     gnews("Pakistan when:2h", "Google News"),
     gnews("Pakistan federal government parliament Supreme Court national policy economy security when:6h", "Pakistan National Desk"),
     gnews("Pakistan major national political development constitutional crisis election federal cabinet when:6h", "Pakistan National Politics"),
+    # Provincial and territory desks: major public-interest developments only after editorial scoring.
+    gnews("Azad Jammu Kashmir major government politics court security disaster public policy when:12h", "AJK Desk"),
+    gnews("Gilgit Baltistan major government politics court security disaster infrastructure when:12h", "Gilgit-Baltistan Desk"),
+    gnews("Punjab Pakistan major provincial government assembly court economy disaster public policy when:12h", "Punjab Desk"),
+    gnews("Sindh Pakistan major provincial government assembly court economy disaster public policy when:12h", "Sindh Desk"),
+    gnews("Khyber Pakhtunkhwa major provincial government assembly security court disaster public policy when:12h", "Khyber Pakhtunkhwa Desk"),
+    gnews("Balochistan Pakistan major provincial government assembly security court disaster public policy when:12h", "Balochistan Desk"),
     gnews("world major international conflict diplomacy global economy elections disaster when:6h", "International Desk"),
     gnews("Reuters world major international news when:6h", "Reuters World"),
     gnews("AP world major international news when:6h", "AP World"),
