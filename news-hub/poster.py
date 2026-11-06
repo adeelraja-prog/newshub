@@ -531,16 +531,16 @@ def render_mobile_value_card(c, info):
         entries = [x for x in (info.get("timeline") or info.get("points") or []) if isinstance(x, dict)][:4]
         if entries:
             xline = M + 12
-            d.line((xline, y+12, xline, min(1080, y+len(entries)*174)), fill=track, width=5)
+            d.line((xline, y+12, xline, min(1080, y+len(entries)*150)), fill=track, width=5)
             for e in entries:
                 date = str(e.get("date") or e.get("label") or "DATE NOT PROVIDED")[:42]
                 body = str(e.get("text") or e.get("detail") or e.get("description") or "")[:150]
                 d.ellipse((xline-10, y+8, xline+10, y+28), fill=accent)
                 d.text((M+42, y), date, font=sans(27, 800), fill=accent)
                 bf = sans(26, 500)
-                for j, line in enumerate(wrap(body, bf, W-2*M-48)[:3]):
+                for j, line in enumerate(wrap(body, bf, W-2*M-48)[:2]):
                     d.text((M+42, y+42+j*34), line, font=bf, fill=ink)
-                y += 174
+                y += 150
     elif kind == "data":
         entries = [x for x in (info.get("data_points") or info.get("points") or []) if isinstance(x, dict)][:4]
         vals = []
