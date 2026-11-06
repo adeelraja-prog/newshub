@@ -300,8 +300,10 @@ For each cluster return:
    court-reported offences, war = wars and armed conflicts (Iran, Gaza, Ukraine...), us_politics = US politics and elections
 - "viral_potential": 0-100 (editorial ESTIMATE of shareability: human interest, controversy, major personalities,
    surprise). This is an estimate, not measured data.
-- "public_interest": 0-100 (direct effect on ordinary people's money or daily life in Pakistan: petrol, electricity,
-   gas, flour, sugar, taxes, salaries, relief packages, price cuts or rises score 80-100)
+- "public_interest": 0-100 (how strongly ordinary Pakistanis care about or are affected by this event. Include political
+   decisions, governance, elections, PTI/PML-N and other major parties, parliament, courts, accountability,
+   security, jobs, education, health, weather/disasters, sports and culture, as well as household costs.
+   Do NOT automatically score only economic stories highest; score political/public-affairs interest realistically.)
 - "urgency": 0-100 (is it worth posting right now?)
 - "confidence": 0-100 (strength of sourcing; one outlet citing anonymous sources = low; official statement,
    court order, or several independent outlets = high)
@@ -617,9 +619,9 @@ def pick_due(queue, t0):
     gap = current_gap(queue)
     for it in due:
         if it["priority"] in ("breaking", "high", "promo"):
-            if last and t0 - last < timedelta(minutes=BREAKING_GAP_MIN):
+            if it["priority"] != "breaking" and last and t0 - last < timedelta(minutes=BREAKING_GAP_MIN):
                 continue
-            if it["priority"] in ("breaking", "high") and done >= MAX_PER_DAY + BREAKING_EXTRA:
+            if it["priority"] == "high" and done >= MAX_PER_DAY + BREAKING_EXTRA:
                 continue
             return it, ""
         if not (WINDOW_START <= t0.astimezone(PKT).hour < WINDOW_END):
