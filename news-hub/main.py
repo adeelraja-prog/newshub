@@ -879,7 +879,7 @@ def editorial_image(item, tag):
         try:
             r = requests.get("https://api.openverse.org/v1/images/", params={
                 "q": query, "page_size": 20,
-                "license": "cc0,pdm,by,by-sa"
+                "license": "cc0,pdm"
             }, headers=UA, timeout=20)
             r.raise_for_status()
             found = []
@@ -907,7 +907,7 @@ def editorial_image(item, tag):
                 info = (page.get("imageinfo") or [{}])[0]
                 meta = info.get("extmetadata") or {}
                 license_name = re.sub("<[^>]+>", "", (meta.get("LicenseShortName") or {}).get("value", ""))
-                if re.search(r"CC0|Public domain|CC BY(?:-SA)?", license_name, re.I):
+                if re.search(r"CC0|Public domain", license_name, re.I):
                     url = info.get("thumburl") or info.get("url")
                     if url:
                         found.append((url, "Wikimedia Commons"))
@@ -944,17 +944,6 @@ def editorial_image(item, tag):
 def make_poster(item, tag):
     os.makedirs(POSTER_DIR, exist_ok=True)
     path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
-    image_path, credit = editorial_image(item, tag)
-    poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
-                  [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"),
-                  person=image_path, credit=credit)
-    POSTER_N[0] += 1
-    return path
-
-def make_poster(item, tag):
-    os.makedirs(POSTER_DIR, exist_ok=True)
-    path = f"posters/{tag}-{item['qid']}.jpg"
-    # Use the multi-source selector; the previous duplicate definition shadowed it.
     image_path, credit = editorial_image(item, tag)
     poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
                   [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"),
