@@ -86,7 +86,8 @@ jobs:
             printf '%s' "$YT_COOKIES" > news-hub/cookies.txt
           fi
 
-      - name: Run YouTube video-to-clip Reels bot
+      - name: Run YouTube video-to-clip Reels bot (paused to prevent excess Reels)
+        if: ${{ false }}
         working-directory: news-hub
         env:
           REEL_STATE_FILE: /tmp/reels-state/clips-processed.json
@@ -106,6 +107,10 @@ jobs:
           NEWS_REEL_STATE_FILE: /tmp/reels-state/news-processed.json
           NEWS_REEL_QUEUE_FILE: /tmp/news-queue.json
           NEWS_REELS_MAX_PER_RUN: "1"
+          NEWS_REEL_INTERVAL_MINUTES: "180"
+          NEWS_REEL_MAX_AGE_HOURS: "18"
+          NEWS_REEL_MIN_COMPOSITE: "70"
+          NEWS_REEL_MIN_CONFIDENCE: "80"
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
         run: python news_reels.py
