@@ -63,8 +63,6 @@ SOURCES = [
     gnews("Gaza Israel war when:1d", "War"),
     gnews("Ukraine Russia war when:1d", "War"),
     gnews("US election results when:1d", "US election"),
-    gnews("India student protest when:2d", "India"),
-    gnews("India protest when:2d", "India"),
     gnews("viral video Pakistan when:1d", "Viral"),
     gnews("trending on social media Pakistan when:1d", "Viral"),
 
@@ -88,6 +86,11 @@ BLOCKED_NAMES = ["times of india", "timesofindia", "ndtv", "hindustan times", "i
                  "wion", "economic times", "livemint", "theprint", "the print", "scroll.in", "the wire",
                  "outlook india", "deccan herald", "deccan chronicle", "telegraph india", "financial express",
                  "business standard", "abp news", "aaj tak", "india tv", "dna india", "mid-day", "moneycontrol",
-                 "oneindia", "jagran", "bhaskar", "hindustan"]
+                 "oneindia", "jagran", "bhaskar", "hindustan", "telangana news", "telangana today", "the hans india", "deccan chronicle",
+                 "new indian express", "deccan herald", "the telangana", "sakshi", "eenadu", "andhra jyothy",
+                 "greatandhra", "oneindia telugu"]
 BLOCKED_EXACT = ["ani", "pti", "ians", "uni", "mint", "the quint"]
-BLOCKED_HOST_ENDINGS = (".in", ".co.in")
+BLOCKED_HOST_ENDINGS = (".in", ".co.in", "telanganatoday.com", "telangananews.com",
+                        "thehansindia.com", "deccanchronicle.com", "newindianexpress.com",
+                        "deccanherald.com", "sakshi.com", "eenadu.net", "andhrajyothy.com",
+                        "greatandhra.com", "oneindia.com")
