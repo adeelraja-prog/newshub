@@ -801,19 +801,71 @@ def licensed_commons_image(item, tag):
 
 
 def editorial_image(item, tag):
-    # Prefer the image supplied with the actual publisher article/feed, including APP and PTV feeds.
+    """Discover image candidates from all available sources concurrently; use the first valid result."""
+    from concurrent.futures import ThreadPoolExecutor, as_completed
     candidates = []
+    # The original publisher's RSS/OG image is one candidate, not an exclusive source.
     if item.get("image_url"):
-        candidates.append((item["image_url"], "Publisher article image"))
-    google_url = find_google_image(item)
-    if google_url:
-        candidates.append((google_url, "Google reuse-licensed image"))
+        candidates.append((item["image_url"], "Publisher image"))
+    # Ask Google Images and Commons in parallel; no fixed publisher-vs-search preference.
+    def google_candidates():
+        key, cx = env("GOOGLE_CSE_API_KEY"), env("GOOGLE_CSE_CX")
+        if not key or not cx:
+            return []
+        query = " ".join([item.get("headline", ""), item.get("category", "")])[:180]
+        try:
+            r = requests.get("https://www.googleapis.com/customsearch/v1", params={
+                "key": key, "cx": cx, "q": query, "searchType": "image",
+                "num": 10, "rights": "cc_publicdomain|cc_attribute|cc_sharealike",
+                "safe": "active", "imgSize": "large"
+            }, headers=UA, timeout=15)
+            r.raise_for_status()
+            return [(x.get("link", ""), "Google Images · reuse-filtered")
+                    for x in r.json().get("items", []) if x.get("link", "").startswith("https://")]
+        except Exception as ex:
+            print(f"[image] Google Images lookup unavailable: {ex}")
+            return []
+
+    def commons_candidates():
+        query = " ".join([item.get("headline", ""), item.get("category", "")])[:180]
+        try:
+            r = requests.get("https://commons.wikimedia.org/w/api.php", params={
+                "action": "query", "format": "json", "generator": "search",
+                "gsrsearch": "filetype:bitmap " + query, "gsrnamespace": 6, "gsrlimit": 10,
+                "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1400
+            }, headers=UA, timeout=20)
+            r.raise_for_status()
+            found = []
+            pages = (r.json().get("query") or {}).get("pages") or {}
+            for page in pages.values():
+                info = (page.get("imageinfo") or [{}])[0]
+                meta = info.get("extmetadata") or {}
+                license_name = re.sub("<[^>]+>", "", (meta.get("LicenseShortName") or {}).get("value", ""))
+                if re.search(r"CC0|Public domain|CC BY(?:-SA)?", license_name, re.I):
+                    url = info.get("thumburl") or info.get("url")
+                    if url:
+                        found.append((url, "Wikimedia Commons"))
+            return found
+        except Exception as ex:
+            print(f"[image] Commons lookup unavailable: {ex}")
+            return []
+
+    with ThreadPoolExecutor(max_workers=2) as pool:
+        futures = [pool.submit(google_candidates), pool.submit(commons_candidates)]
+        for future in as_completed(futures):
+            candidates.extend(future.result())
+
+    # Remove duplicate URLs; preserve the order in which sources returned them.
+    seen, unique = set(), []
     for url, label in candidates:
+        if url and url not in seen:
+            seen.add(url)
+            unique.append((url, label))
+    for url, label in unique:
         path, credit = download_editorial_image(url, item, tag, label)
         if path:
-            return path, credit
-    return licensed_commons_image(item, tag)
-
+            return path, None  # no source-credit overlay on the public poster
+    return None, None
 
 def make_poster(item, tag):
     os.makedirs(POSTER_DIR, exist_ok=True)
