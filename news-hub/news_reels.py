@@ -14,7 +14,11 @@ PAGE=os.getenv("FB_PAGE_ID","").strip(); TOKEN=os.getenv("FB_PAGE_TOKEN","").str
 if PAGE and not PAGE.isdigit():
     raise RuntimeError("FB_PAGE_ID must contain only the numeric Facebook Page ID after trimming; check the existing secret.")
 GRAPH="https://graph.facebook.com/"+os.getenv("FB_GRAPH_VERSION","v23.0").strip()
-MAX_PER_RUN=int(os.getenv("NEWS_REELS_MAX_PER_RUN","1"))
+MAX_PER_RUN=1  # one editorially selected Reel per publishing window
+MIN_REEL_INTERVAL_MINUTES=int(os.getenv("NEWS_REEL_INTERVAL_MINUTES","180"))
+MAX_STORY_AGE_HOURS=int(os.getenv("NEWS_REEL_MAX_AGE_HOURS","18"))
+MIN_REEL_COMPOSITE=float(os.getenv("NEWS_REEL_MIN_COMPOSITE","70"))
+MIN_REEL_CONFIDENCE=float(os.getenv("NEWS_REEL_MIN_CONFIDENCE","80"))
 FONT_UR=BASE/"assets"/"fonts"/"NotoNastaliqUrdu.ttf"
 FONT_EN=Path("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf")
 W,H=1080,1920
@@ -297,6 +301,45 @@ def post_reel(video,caption,title):
     if finish.json().get("success") is not True: raise RuntimeError("Facebook did not confirm Reel publication: "+str(finish.json()))
     return vid
 
+def _parse_time(value):
+    try:
+        parsed=datetime.fromisoformat(str(value).replace("Z","+00:00"))
+        return parsed if parsed.tzinfo else parsed.replace(tzinfo=timezone.utc)
+    except Exception:
+        return None
+
+def _editorial_reel_score(item,now_utc):
+    """Select only fresh, verified, high-value stories for scarce Reel slots."""
+    published=item.get("published") or {}
+    published_at=_parse_time(published.get("time"))
+    if not published_at:
+        return None
+    age=(now_utc-published_at.astimezone(timezone.utc)).total_seconds()/3600
+    if age<0 or age>MAX_STORY_AGE_HOURS:
+        return None
+    meta=item.get("meta") or {}
+    scores=meta.get("scores") or {}
+    try:
+        composite=float(scores.get("composite",0) or 0)
+        confidence=float(scores.get("confidence",0) or 0)
+        viral=float(scores.get("viral_potential",item.get("viral_estimate",0)) or 0)
+        public_interest=float(scores.get("public_interest",0) or 0)
+        pakistan=float(scores.get("pakistan_relevance",0) or 0)
+    except (TypeError,ValueError):
+        return None
+    priority=str(item.get("priority") or "normal").lower()
+    claim=str(item.get("claim_status") or meta.get("claim_status") or "confirmed").lower()
+    lifecycle=str(item.get("lifecycle") or meta.get("lifecycle") or "confirmed").lower()
+    if confidence < MIN_REEL_CONFIDENCE or claim not in ("confirmed","corroborated") or lifecycle in ("unverified","disputed","needs_review"):
+        return None
+    if composite < MIN_REEL_COMPOSITE and priority not in ("breaking","high"):
+        return None
+    # Editorial mix: relevance, public interest and shareability influence selection,
+    # but none can override the verification and freshness gates above.
+    priority_bonus={"breaking":18,"high":10,"normal":0}.get(priority,0)
+    freshness=max(0,12-age)*0.35
+    return composite + viral*0.10 + public_interest*0.08 + pakistan*0.05 + priority_bonus + freshness
+
 def main():
     if not QUEUE.exists():
         print("[news-reels] bot-data queue is unavailable; nothing published"); return
@@ -307,28 +350,52 @@ def main():
     if not state.get("seeded"):
         state["done"]=list(dict.fromkeys(state.get("done",[])+[i.get("qid") for i in published if i.get("qid")]))
         state["seeded"]=True; save_state(state)
-        print(f"[news-reels] baseline saved for {len(published)} existing published stories; new posts will be animated")
+        print(f"[news-reels] baseline saved for {len(published)} existing published stories; new posts will be considered")
         return
-    pending=[i for i in published if i.get("qid") not in state["done"]]
-    pending.sort(key=lambda x:x.get("published",{}).get("time",""),reverse=True)
-    for item in pending[:MAX_PER_RUN]:
-        # A News Hub queue item reaches this stage only after editorial fact_check returned verdict=ok,
-        # and this worker further requires successful publication to Facebook.
+
+    now_utc=datetime.now(timezone.utc)
+    last_reel=_parse_time(state.get("last_reel_at"))
+    if last_reel:
+        elapsed=(now_utc-last_reel).total_seconds()/60
+        remaining=MIN_REEL_INTERVAL_MINUTES-elapsed
+        if remaining>0:
+            print(f"[news-reels] cadence guard: next Reel slot in {remaining:.0f} minutes; no Reel generated")
+            return
+
+    done=set(state.get("done",[]))
+    candidates=[]
+    for item in published:
         qid=item.get("qid")
-        try:
-            folder=OUT/re.sub(r"[^A-Za-z0-9_-]","_",str(qid)); video,opening=render_story(item,folder)
-            caption=(item.get("caption") or "")+"\n\n#AdeelRaja #Pakistan"
-            reel_id=post_reel(video,caption,item.get("headline") or opening)
-            print(f"[news-reels] published animated story Reel {reel_id} for {qid}")
-            state["done"].append(qid)
-        except Exception as exc:
-            print(f"[news-reels] failed {qid}: {exc}")
-            # Fail the Actions step so publishing failures cannot appear as a green workflow.
-            raise
-        finally:
-            if qid in state.get("done",[]): 
-                import shutil; shutil.rmtree(OUT/re.sub(r"[^A-Za-z0-9_-]","_",str(qid)),ignore_errors=True)
-        save_state(state)
-    state["done"]=list(dict.fromkeys(state.get("done",[])))[-1000:]; save_state(state)
+        if not qid or qid in done:
+            continue
+        score=_editorial_reel_score(item,now_utc)
+        if score is None:
+            continue
+        candidates.append((score,item))
+    if not candidates:
+        print("[news-reels] no fresh, verified story meets the editorial Reel threshold; poster remains a post, no automatic Reel")
+        return
+    candidates.sort(key=lambda pair:(pair[0],pair[1].get("published",{}).get("time","")),reverse=True)
+    score,item=candidates[0]
+    qid=item["qid"]
+    print(f"[news-reels] editorial selection: {qid}, score={score:.1f}, category={item.get('category','news')}, headline={item.get('headline','')[:120]}")
+    try:
+        folder=OUT/re.sub(r"[^A-Za-z0-9_-]","_",str(qid))
+        video,opening=render_story(item,folder)
+        caption=(item.get("caption") or "")+"\n\n#AdeelRaja #Pakistan"
+        reel_id=post_reel(video,caption,item.get("headline") or opening)
+        print(f"[news-reels] published selected animated Reel {reel_id} for {qid}")
+        state.setdefault("done",[]).append(qid)
+        state["last_reel_at"]=now_utc.isoformat()
+        state["last_reel_qid"]=qid
+        state["last_reel_score"]=round(score,2)
+    except Exception as exc:
+        print(f"[news-reels] failed {qid}: {exc}")
+        raise
+    finally:
+        import shutil
+        shutil.rmtree(OUT/re.sub(r"[^A-Za-z0-9_-]","_",str(qid)),ignore_errors=True)
+    state["done"]=list(dict.fromkeys(state.get("done",[])))[-1000:]
+    save_state(state)
 
 if __name__=="__main__": main()
