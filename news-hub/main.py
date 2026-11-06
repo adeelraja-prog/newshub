@@ -72,14 +72,14 @@ FORCE_PRE = fnum("FORCE_ANALYSIS_SCORE", 70)     # a very strong story triggers 
 DEPTH_SKIP = fnum("QUEUE_DEPTH_SKIP", 14)        # enough queued: skip analysis (saves Gemini quota)
 YT_MAX_AGE_H = fnum("YT_MAX_AGE_HOURS", 24)      # only promote videos uploaded within this many hours
 WINDOW_START, WINDOW_END = fnum("WINDOW_START", 9), fnum("WINDOW_END", 23)   # PKT hours
-SELECT_N = fnum("SELECT_N", 10)                   # stories queued per run
+SELECT_N = fnum("SELECT_N", 4)                   # stories queued per run
 QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before a queued story is dropped
 MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 14)          # do not queue stories that would post later than this
 # --- editorial thresholds ---
-MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 55), fnum("MIN_COMPOSITE", 32)
-FILL_COMPOSITE = fnum("FILL_COMPOSITE", 24)       # lower bar when the queue is nearly empty, so posting never dries up
+MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 75), fnum("MIN_COMPOSITE", 70)
+FILL_COMPOSITE = fnum("FILL_COMPOSITE", 65)       # lower bar when the queue is nearly empty, so posting never dries up
 BREAK_URGENCY, BREAK_CONFIDENCE = fnum("BREAK_URGENCY", 85), fnum("BREAK_CONFIDENCE", 75)
-ANALYSE_TOP = fnum("ANALYSE_TOP", 30)
+ANALYSE_TOP = fnum("ANALYSE_TOP", 18)
 POOL_HOURS = fnum("POOL_HOURS", 6)
 
 USAGE = {"calls": 0, "prompt_tokens": 0, "output_tokens": 0, "errors": [], "providers_used": None, "ai_unavailable": False}
@@ -165,8 +165,7 @@ def collect_new(state):
                 if st:
                     name = st
                 title = re.sub(r"\s+-\s+[^-]+$", "", title)
-            if src["kind"] == "world" and not ed.PK_RE.search(title + " " + snippet):
-                continue
+            # Keep genuinely global events even when Pakistan is not named; editorial scope gates decide.
             if is_blocked(name, link) or has_devanagari(title + " " + snippet):
                 BLOCKED_COUNT[0] += 1
                 continue
@@ -404,13 +403,30 @@ For each cluster return:
 - "lifecycle": first_signal | emerging | confirmed | trending | saturated
 - "claim_status": confirmed | allegation | developing | unverified
 - "is_global": true if the event happened outside Pakistan
-- "why_pakistani_audience_cares": one sentence (required for global events; reject with relevance<30 if none)
+- "scope": national | international | regional | local
+- "importance_class": major | routine | minor
+- "national_impact": 0-100 (country-wide institutional or public impact)
+- "global_impact": 0-100 (consequences beyond one country)
+- "why_pakistani_audience_cares": explain Pakistan impact OR why it is a major world event
 - "original_source": {{"type": official_document | official_statement | court_order | social_post |
    exclusive_report | wire | unknown, "name": who originally said/reported it, "url_ref": the L-number of a link
    from that cluster's CANDIDATE LINKS if one is the original source, else "", "basis": short explanation}}
 - "corroborating": names of OTHER independent outlets (not mere repeaters) that confirm it, if clear
 - "explanation": why you ranked it this way (max 25 words)
-RULES: Never invent a source, link, quote or confirmation. If you cannot tell who originally reported it, use
+STRICT EDITORIAL SCOPE:
+- Publish only NATIONAL (Pakistan-wide / federal institutions / national policy / major national politics /
+  courts / economy / security / public services with broad impact) or INTERNATIONAL (major wars, diplomacy,
+  global economy, major elections, major disasters, major science/technology and events with global consequences).
+- Reject REGIONAL and LOCAL stories: routine district incidents, local crime, local political statements, routine
+  transfers, small ceremonies, minor accidents, local disputes, routine city weather and viral clips.
+- A Pakistani city mention does NOT make a story national. Explain the country-wide consequence.
+- International stories need not mention Pakistan if genuinely globally significant.
+- Routine celebrity gossip, social trends and recycled clips are not news without major public-interest significance.
+- Set importance_class=major only for consequential events. If in doubt, mark routine.
+- National stories require national_impact >=70. International stories require global_impact >=80 OR a clear
+  Pakistan-wide consequence (pakistan_relevance >=75 and a specific explanation).
+- Viral potential and outlet count must NEVER compensate for low public importance.
+Never invent a source, link, quote or confirmation. If you cannot tell who originally reported it, use
 type "unknown". If only the excerpt was read, say so in "basis". Distinguish confirmed facts from allegations and
 speculation. Several outlets repeating the same wire report are NOT independent corroboration.
 Return JSON: {{"stories":[...]}}.
@@ -464,7 +480,10 @@ def analyse(clusters):
             "public_interest": clamp(s.get("public_interest")), "urgency": clamp(s.get("urgency")),
             "confidence": clamp(s.get("confidence")),
             "lifecycle": s.get("lifecycle") or "emerging", "claim_status": s.get("claim_status") or "developing",
-            "is_global": bool(s.get("is_global")), "why_pk": (s.get("why_pakistani_audience_cares") or "").strip(),
+            "is_global": bool(s.get("is_global")), "scope": str(s.get("scope") or "unknown").lower(),
+            "importance_class": str(s.get("importance_class") or "unknown").lower(),
+            "national_impact": clamp(s.get("national_impact")), "global_impact": clamp(s.get("global_impact")),
+            "why_pk": (s.get("why_pakistani_audience_cares") or "").strip(),
             "original_source": {"type": otype, "name": (os_.get("name") or "unknown").strip(),
                                 "url": url, "basis": (os_.get("basis") or "").strip()},
             "corroborating": [x for x in (s.get("corroborating") or []) if isinstance(x, str)][:4],
@@ -477,8 +496,17 @@ def analyse(clusters):
             "sources": c["sources"], "first_pub": iso(c["first_pub"]),
             "last_update": iso(c["last_pub"]),
         }
-        if (story["is_global"] and story["pakistan_relevance"] < 30 and not story["category"].startswith("tech")
-                and story["category"] not in ("science", "health", "fashion", "lifestyle", "sports", "weather")):
+        # Hard final gate: no routine regional/local, minor or weakly sourced items.
+        if story["scope"] not in ("national", "international") or story["importance_class"] != "major":
+            continue
+        if story["confidence"] < 75 or story["importance"] < 75 or story["public_interest"] < 65:
+            continue
+        if story["scope"] == "national" and story["national_impact"] < 70:
+            continue
+        if story["scope"] == "international" and story["global_impact"] < 80:
+            if story["pakistan_relevance"] < 75 or not story["why_pk"]:
+                continue
+        if story["is_global"] and story["scope"] != "international":
             continue
         story["composite"] = ed.composite(story)
         out.append(story)
