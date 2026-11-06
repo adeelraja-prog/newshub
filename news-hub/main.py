@@ -439,11 +439,27 @@ STRICT EDITORIAL SCOPE:
 - Distinguish a consequential provincial story from a routine local item by impact, scale, evidence and public interest.
 - International stories need not mention Pakistan if genuinely globally significant.
 - Routine celebrity gossip, social trends and recycled clips are not news without major public-interest significance.
-- Set importance_class=major only for consequential events. If in doubt mark routine.
-- National stories require national_impact >=70. Provincial/regional stories require regional_impact >=70.
-  International stories require global_impact >=80 OR a clear Pakistan-wide consequence
-  (pakistan_relevance >=75 and a specific explanation).
-- Viral potential and outlet count must NEVER compensate for low public importance.
+DIGITAL-FIRST TWO-LANE EDITORIAL MODEL:
+- We serve digital audiences, not a legacy bulletin. Assess public importance AND digital audience interest separately.
+- LANE A — IMPORTANT NEWS: national, major provincial/territory, or major international developments.
+  National impact >=70; provincial regional_impact >=70; international global_impact >=80 OR clear Pakistan relevance >=75.
+- LANE B — VERIFIED DIGITAL / VIRAL: a genuinely fast-growing public conversation, widely shared original video,
+  major public reaction, remarkable human-interest event, consumer issue, sports/culture moment, creator/platform
+  story, or an unusual event that digital audiences are actively discussing.
+- Viral lane is NOT limited to stories labelled "viral" by publishers. Look for measured trend signals, coverage
+  growth, original post/video, credible public reaction, and clear audience relevance. Treat AI-estimated
+  viral_potential separately from measured trend_score; never describe an estimate as measured reach.
+- Viral-lane minimums: confidence >=65, public_interest >=60, viral_potential >=80 AND measured trend_score >=45
+  OR a verifiable original public post/video with strong public-interest relevance. Sensitive political, security,
+  crime and conflict claims still require confidence >=75 and source verification; allegations must be labelled.
+- Reject recycled clips, old stories repackaged as new, engagement bait, manipulated media, unverified claims,
+  private-person humiliation, and trends with no meaningful audience relevance.
+- Routine regional/local items remain rejected unless they qualify for the verified digital lane AND have clear
+  public-interest value; this does not turn ordinary local crime into a national story.
+- Set importance_class=major only for consequential events. Digital-lane items may be routine but must meet
+  the separate viral-lane threshold.
+- Viral potential can earn a story a place in the digital lane, but cannot convert it into a national-impact story
+  or justify presenting an allegation as fact.
 Never invent a source, link, quote or confirmation. If you cannot tell who originally reported it, use
 type "unknown". If only the excerpt was read, say so in "basis". Distinguish confirmed facts from allegations and
 speculation. Several outlets repeating the same wire report are NOT independent corroboration.
@@ -515,10 +531,13 @@ def analyse(clusters):
             "sources": c["sources"], "first_pub": iso(c["first_pub"]),
             "last_update": iso(c["last_pub"]),
         }
-        # Hard final gate: no routine regional/local, minor or weakly sourced items.
-        if story["scope"] not in ("national", "provincial", "international") or story["importance_class"] != "major":
+        # Two-lane final gate: consequential journalism OR verified digital conversation.
+        valid_scope = story["scope"] in ("national", "provincial", "international")
+        if not valid_scope:
             continue
-        if story["confidence"] < 75 or story["importance"] < 75 or story["public_interest"] < 65:
+        if story["confidence"] < 65 or story["public_interest"] < 60:
+            continue
+        if story["is_global"] and story["scope"] != "international":
             continue
         if story["scope"] == "national" and story["national_impact"] < 70:
             continue
@@ -528,8 +547,15 @@ def analyse(clusters):
         if story["scope"] == "international" and story["global_impact"] < 80:
             if story["pakistan_relevance"] < 75 or not story["why_pk"]:
                 continue
-        if story["is_global"] and story["scope"] != "international":
+        major_lane = (story["importance_class"] == "major" and story["importance"] >= 75)
+        measured_viral_lane = (story["viral_potential"] >= 80 and story["trend_score"] >= 45
+                               and story["public_interest"] >= 60)
+        sensitive = story["category"] in ("politics", "courts", "security", "crime", "war", "us_politics")
+        if sensitive and story["confidence"] < 75:
+            measured_viral_lane = False
+        if not major_lane and not measured_viral_lane:
             continue
+        story["editorial_lane"] = "important_news" if major_lane else "digital_viral"
         story["composite"] = ed.composite(story)
         out.append(story)
     return out
