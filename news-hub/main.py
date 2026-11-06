@@ -224,11 +224,14 @@ def fetch_article(item):
         text = (trafilatura.extract(r.text) if trafilatura else "") or ""
         image_url = item.get("image_url", "")
         if not image_url:
-            for pattern in (r'<meta[^>]+property=["\\']og:image["\\'][^>]+content=["\\']([^"\\']+)',
-                            r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+property=["\\']og:image["\\']'):
-                hit = re.search(pattern, r.text, re.I)
+            from urllib.parse import urljoin
+            for tag in re.findall(r"<meta[^>]+>", r.text, re.I):
+                if "og:image" not in tag.lower():
+                    continue
+                hit = re.search(r'content=["]([^"]+)["]', tag, re.I)
+                if not hit:
+                    hit = re.search(r"content=[']([^']+)[']", tag, re.I)
                 if hit:
-                    from urllib.parse import urljoin
                     image_url = urljoin(item["link"], html.unescape(hit.group(1)))
                     break
         return text[:1800], ed.extract_candidate_links(r.text), image_url
