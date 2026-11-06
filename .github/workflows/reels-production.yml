@@ -46,6 +46,7 @@ jobs:
           key: adeel-raja-whisper-small-v1
 
       - name: Restore independent Reels state
+        id: restore_state
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
@@ -70,7 +71,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
         run: |
-          git fetch -q "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" bot-data || true
+          git fetch -q "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" refs/heads/bot-data
           if git cat-file -e FETCH_HEAD:queue.json 2>/dev/null; then
             git show FETCH_HEAD:queue.json > /tmp/news-queue.json
           else
@@ -110,7 +111,7 @@ jobs:
         run: python news_reels.py
 
       - name: Save separate Reels state
-        if: ${{ always() }}
+        if: ${{ always() && steps.restore_state.outcome == 'success' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
