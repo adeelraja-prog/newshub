@@ -348,19 +348,16 @@ def gemini_json(prompt):
     # Free-tier providers are optional. The workflow reads credentials from repository
     # secrets; absent credentials are skipped without stopping RSS collection or queue work.
     providers = [
-        ("Groq", env("GROQ_API_KEY"), "https://api.groq.com/openai/v1/chat/completions",
-         (env("GROQ_MODEL") or "openai/gpt-oss-20b"), {}),
+        ("Cloudflare-Workers-AI-Free", env("CLOUDFLARE_API_TOKEN"),
+         f"https://api.cloudflare.com/client/v4/accounts/{env('CLOUDFLARE_ACCOUNT_ID')}/ai/v1/chat/completions"
+         if env("CLOUDFLARE_ACCOUNT_ID") else "",
+         (env("CLOUDFLARE_MODEL") or "@cf/zai-org/glm-4.7-flash"), {}),
         ("OpenRouter-Free", env("OPENROUTER_API_KEY"), "https://openrouter.ai/api/v1/chat/completions",
          (env("OPENROUTER_MODEL") or "openrouter/free"), {"HTTP-Referer": "https://github.com/adeelraja-prog/newshub",
                                                        "X-Title": "Adeel Raja News Hub"}),
     ]
-    cf_key, cf_account = env("CLOUDFLARE_API_TOKEN"), env("CLOUDFLARE_ACCOUNT_ID")
-    if cf_key and cf_account:
-        providers.append(("Cloudflare-Workers-AI", cf_key,
-                          f"https://api.cloudflare.com/client/v4/accounts/{cf_account}/ai/v1/chat/completions",
-                          (env("CLOUDFLARE_MODEL") or "@cf/meta/llama-3.1-8b-instruct"), {}))
     for provider, key, url, model, headers in providers:
-        if not key:
+        if not key or not url:
             print(f"[ai] {provider} backup not configured; skipped")
             continue
         try:
