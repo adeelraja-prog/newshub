@@ -1308,11 +1308,16 @@ def controversy_scan(stories, ledger_path, comparisons_path):
         discovery = (s.get("discovery") or {}).get("url")
         if discovery and discovery.startswith("https://") and discovery not in candidates:
             candidates.append(discovery)
-        for url in candidates:
-            source_text[url] = str(s.get("excerpt", ""))[:2200]
+        # The fetched excerpt belongs to the discovery article only.
+        evidence_url = (s.get("discovery") or {}).get("url", "")
+        evidence_name = (s.get("discovery") or {}).get("name", "unknown")
+        if evidence_url.startswith("https://"):
+            source_text[evidence_url] = {"name": evidence_name, "text": str(s.get("excerpt", ""))[:2200]}
         blocks.append(f"ITEM {i}\nEVENT: {s.get('event','')}\n"
                       f"ARTICLE DATE: {s.get('first_pub','')}\n"
-                      f"ARTICLE SOURCES (use only these exact URLs): {candidates}\n"
+                      f"FETCHED ARTICLE SOURCE NAME: {evidence_name}\n"
+                      f"FETCHED ARTICLE URL (only URL allowed for this excerpt): {evidence_url}\n"
+                      f"Other source references (not fetched): {candidates}\n"
                       f"ARTICLE TEXT: {s.get('excerpt','')[:2200]}")
     prompt = """You are the evidence researcher for a political Controversy Cell.
 Extract BOTH current and historical public positions only when the supplied article text explicitly
@@ -1322,7 +1327,7 @@ not the article publication date. Never infer a statement date from an article d
 Return JSON {"statements":[...]}.
 Each record: person, topic (specific policy/issue, consistent wording across records),
 position (neutral concise paraphrase), date (ISO-8601 only when explicitly stated),
-source_name, source_url (must be copied exactly from that ITEM's ARTICLE SOURCES),
+source_name (must exactly match FETCHED ARTICLE SOURCE NAME), source_url (must exactly match FETCHED ARTICLE URL),
 kind (reported_position, official_statement, interview, parliamentary_record, court_record or social_post),
 stance (support, oppose, conditional or unclear), confidence (0-100),
 source_excerpt (short exact contiguous passage from supplied ARTICLE TEXT supporting this position).
@@ -1340,12 +1345,13 @@ These are research leads for human editorial review only.
         for raw in result.get("statements", []):
             if not isinstance(raw, dict):
                 continue
-            if raw.get("source_url") not in source_text:
+            source = source_text.get(raw.get("source_url"))
+            if not source or raw.get("source_name") != source["name"]:
                 rejected_source += 1
                 continue
             excerpt = str(raw.get("source_excerpt") or "").strip()
-            # Require evidence to appear in the text associated with that exact linked source.
-            if not excerpt or excerpt not in source_text.get(raw.get("source_url"), ""):
+            # Require evidence to appear in the fetched text for that exact publisher URL.
+            if not excerpt or excerpt not in source["text"]:
                 rejected_source += 1
                 continue
             safe.append(raw)
