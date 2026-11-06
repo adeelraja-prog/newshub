@@ -810,22 +810,23 @@ def editorial_image(item, tag):
     if item.get("image_url"):
         candidates.append((item["image_url"], "Publisher image"))
     # Ask Google Images and Commons in parallel; no fixed publisher-vs-search preference.
-    def google_candidates():
-        key, cx = env("GOOGLE_CSE_API_KEY"), env("GOOGLE_CSE_CX")
-        if not key or not cx:
-            return []
+    def openverse_candidates():
+        # Free, keyless image search API. Results are filtered to openly licensed works.
         query = " ".join([item.get("headline", ""), item.get("category", "")])[:180]
         try:
-            r = requests.get("https://www.googleapis.com/customsearch/v1", params={
-                "key": key, "cx": cx, "q": query, "searchType": "image",
-                "num": 10, "rights": "cc_publicdomain|cc_attribute|cc_sharealike",
-                "safe": "active", "imgSize": "large"
-            }, headers=UA, timeout=15)
+            r = requests.get("https://api.openverse.org/v1/images/", params={
+                "q": query, "page_size": 20,
+                "license": "cc0,pdm,by,by-sa"
+            }, headers=UA, timeout=20)
             r.raise_for_status()
-            return [(x.get("link", ""), "Google Images · reuse-filtered")
-                    for x in r.json().get("items", []) if x.get("link", "").startswith("https://")]
+            found = []
+            for hit in r.json().get("results", []):
+                url = hit.get("url") or hit.get("thumbnail")
+                if url and url.startswith("https://"):
+                    found.append((url, "Openverse · openly licensed"))
+            return found
         except Exception as ex:
-            print(f"[image] Google Images lookup unavailable: {ex}")
+            print(f"[image] Openverse lookup unavailable: {ex}")
             return []
 
     def commons_candidates():
@@ -853,7 +854,7 @@ def editorial_image(item, tag):
             return []
 
     with ThreadPoolExecutor(max_workers=2) as pool:
-        futures = [pool.submit(google_candidates), pool.submit(commons_candidates)]
+        futures = [pool.submit(openverse_candidates), pool.submit(commons_candidates)]
         for future in as_completed(futures):
             candidates.extend(future.result())
 
