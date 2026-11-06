@@ -1108,6 +1108,9 @@ def engagement_step(state, queue, t0):
             if not e or not e.get("question_ur") or len(opts) < 2:
                 continue
             q_ur, q_en = e["question_ur"].strip(), (e.get("question_en") or "").strip()
+            if has_devanagari(q_ur + " " + q_en + " " + " ".join(opts)):
+                print(f"[skip] {kind}: Hindi/Devanagari poll output rejected")
+                continue
             lines = [f"{NUM_EMOJI[i]} {o.strip()}" for i, o in enumerate(opts)]
         caption = "\n\n".join([q_ur, "\n".join(lines), "اپنا جواب نمبر کے ساتھ کمنٹ میں لکھیں 👇", "#AdeelRaja #آپ_کی_رائے"])
         queue["items"].append({
