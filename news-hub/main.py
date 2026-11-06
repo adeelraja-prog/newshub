@@ -953,14 +953,14 @@ def make_poster(item, tag):
 
 def make_poster(item, tag):
     os.makedirs(POSTER_DIR, exist_ok=True)
-    path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
-    image_path, credit = licensed_commons_image(item, tag)
+    path = f"posters/{tag}-{item['qid']}.jpg"
+    # Use the multi-source selector; the previous duplicate definition shadowed it.
+    image_path, credit = editorial_image(item, tag)
     poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
                   [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"),
                   person=image_path, credit=credit)
     POSTER_N[0] += 1
     return path
-
 
 def publish_one(queue, state, item, t0):
     ok, fb_id, story_id = False, None, None
