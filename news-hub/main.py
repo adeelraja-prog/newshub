@@ -1295,7 +1295,7 @@ def controversy_scan(stories, ledger_path, comparisons_path):
                  and s.get("confidence", 0) >= 75 and s.get("excerpt")]
     if not political:
         return {"added": 0, "comparisons": 0}
-    blocks, allowed_sources = [], set()
+    blocks, source_text = [], {}
     for i, s in enumerate(political[:4], 1):
         candidates = []
         for m in (s.get("cluster") or {}).get("members", [])[:8]:
@@ -1308,7 +1308,8 @@ def controversy_scan(stories, ledger_path, comparisons_path):
         discovery = (s.get("discovery") or {}).get("url")
         if discovery and discovery.startswith("https://") and discovery not in candidates:
             candidates.append(discovery)
-        allowed_sources.update(candidates)
+        for url in candidates:
+            source_text[url] = str(s.get("excerpt", ""))[:2200]
         blocks.append(f"ITEM {i}\nEVENT: {s.get('event','')}\n"
                       f"ARTICLE DATE: {s.get('first_pub','')}\n"
                       f"ARTICLE SOURCES (use only these exact URLs): {candidates}\n"
@@ -1339,12 +1340,12 @@ These are research leads for human editorial review only.
         for raw in result.get("statements", []):
             if not isinstance(raw, dict):
                 continue
-            if raw.get("source_url") not in allowed_sources:
+            if raw.get("source_url") not in source_text:
                 rejected_source += 1
                 continue
             excerpt = str(raw.get("source_excerpt") or "").strip()
-            # Require the evidence excerpt to be present in the actual fetched article text.
-            if not excerpt or not any(excerpt in str(s.get("excerpt", "")) for s in political):
+            # Require evidence to appear in the text associated with that exact linked source.
+            if not excerpt or excerpt not in source_text.get(raw.get("source_url"), ""):
                 rejected_source += 1
                 continue
             safe.append(raw)
