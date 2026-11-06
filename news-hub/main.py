@@ -167,7 +167,7 @@ def collect_new(state):
                 title = re.sub(r"\s+-\s+[^-]+$", "", title)
             if src["kind"] == "world" and not ed.PK_RE.search(title + " " + snippet):
                 continue
-            if is_blocked(name, link):
+            if is_blocked(name, link) or has_devanagari(title + " " + snippet):
                 BLOCKED_COUNT[0] += 1
                 continue
             ids.add(iid)
@@ -187,13 +187,21 @@ def collect_new(state):
 BLOCKED_COUNT = [0]
 
 
+def has_devanagari(text):
+    """Reject Hindi/Devanagari content; newsroom output is Urdu and English only."""
+    return bool(re.search(r"[\\u0900-\\u097F]", text or ""))
+
+
 def is_blocked(name, link):
-    """Indian outlets are never used as a news source."""
+    """Reject Indian publishers/domains and Hindi-language source items."""
     n = (name or "").lower().strip()
     if n in BLOCKED_EXACT or any(b in n for b in BLOCKED_NAMES):
         return True
-    host = re.sub(r"^https?://", "", (link or "").lower()).split("/")[0]
-    return bool(BLOCKED_HOST_ENDINGS) and host.endswith(tuple(BLOCKED_HOST_ENDINGS))
+    host = re.sub(r"^https?://", "", (link or "").lower()).split("/")[0].split(":")[0]
+    if host.startswith("www."):
+        host = host[4:]
+    return bool(BLOCKED_HOST_ENDINGS) and (host.endswith(tuple(BLOCKED_HOST_ENDINGS))
+           or any(host == d or host.endswith("." + d) for d in BLOCKED_HOST_ENDINGS if not d.startswith(".")))
 
 
 def fetch_trends():
@@ -349,6 +357,9 @@ def analyse(clusters):
         fetched = list(pool_ex.map(lambda c: fetch_article(c["lead"]), clusters))
     for n, c in enumerate(clusters, 1):
         text, links, image_url = fetched[n - 1]
+        # If the full article is Hindi/Devanagari, reject the entire cluster.
+        if has_devanagari(text):
+            continue
         c["excerpt"] = text
         c["image_url"] = image_url or c["lead"].get("image_url", "")
         cand = list(links)
@@ -463,6 +474,10 @@ def write_batch(stories):
             continue
         if not all(isinstance(w.get(k), str) and w[k].strip() for k in need):
             print(f"[skip] story {n}: incomplete AI output")
+            continue
+        # Never publish Hindi/Devanagari: captions and poster lines must be Urdu + English only.
+        if has_devanagari(" ".join(str(v) for v in w.values() if isinstance(v, (str, list)))):
+            print(f"[skip] story {n}: Hindi/Devanagari output rejected")
             continue
         english = " ".join(w[k] for k in ("headline_primary", "headline_alt", "poster_headline_en",
                                           "caption_opening", "summary_en"))
