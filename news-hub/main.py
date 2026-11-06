@@ -585,11 +585,23 @@ For each STORY return:
 - "primary_keyword", "secondary_keywords" (max 5), "entities": {{"people":[],"organisations":[],"locations":[]}}
 - "hashtags": max 5 relevant hashtags, no stuffing, each starting with #
 - "search_summary": max 160 characters
+- "value_addition": object with:
+  "type": "explainer" | "data" | "timeline" | "factcheck" | "none",
+  "title": short mobile-first explanatory title,
+  "points": up to 3 concise, useful facts,
+  "data_points": up to 4 objects { "label": "...", "value": number, "display_value": "exact sourced value" },
+  "timeline": up to 4 objects { "date": "sourced date", "text": "what happened" },
+  "evidence_points": up to 3 objects { "label": "claim/evidence/status", "text": "what the supplied source establishes" },
+  "source_note": short source attribution.
+Choose ONE best visual format only when supplied evidence supports it; otherwise type="none".
 ANGLE: find the strongest FACTUAL angle: the single most surprising or consequential fact in the text, stated
-plainly, so readers stop scrolling. Never exaggerate beyond the text.
-RULES: Use ONLY facts in the provided text. Keep names, numbers, dates exactly as given. No invented quotes.
-Creative but never misleading clickbait. Avoid generic newspaper phrasing and repetitive AI patterns (no "Breaking:",
-"Shocking", "You won't believe"). Attribute allegations ("alleged", "according to"). If sources disagree, say so.
+plainly, so readers stop scrolling. Then add useful context: what changed, what it means, who is affected, or what
+happens next. Do not merely repeat statements from different sides.
+RULES: Use ONLY facts in the provided text and supplied dated archive. Keep names, numbers, dates exactly as given.
+Do not invent statistics, comparisons, timelines, legal implications, quotes, sources or context. A chart needs
+actual comparable numbers and units in the source. A timeline needs explicitly dated events. A fact-check needs
+a specific claim and evidence. If evidence is insufficient, use type="none". Creative but never misleading.
+Attribute allegations ("alleged", "according to"). If sources disagree, say so.
 Return JSON: {{"stories":[...]}}.
 
 """ + "\n\n".join(blocks)
@@ -753,6 +765,7 @@ def enqueue(queue, story, w, caption, t0):
         "image_url": story.get("image_url", ""),
         "tag": "عوامی مفاد" if story.get("public_interest", 0) >= 70 else None,
         "poster": {"ur": w["poster_headline_ur"].strip(), "en": w["poster_headline_en"].strip()},
+        "value_addition": w.get("value_addition") if isinstance(w.get("value_addition"), dict) else {"type": "none"},
         "headline": w["headline_used"], "headline_alt": w["headline_alt"],
         "tokens": sorted(story["cluster"]["tokens"])[:14], "title": story["cluster"]["title"],
         "source_name": story["original_source"]["name"] if story["original_source"]["url"] else story["discovery"]["name"],
@@ -1095,7 +1108,7 @@ def make_poster(item, tag):
     image_path, credit = editorial_image(item, tag)
     poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
                   [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"),
-                  person=image_path, credit=credit)
+                  person=image_path, credit=credit, value_addition=item.get("value_addition"))
     POSTER_N[0] += 1
     return path
 
