@@ -531,7 +531,7 @@ def render_mobile_value_card(c, info):
         entries = [x for x in (info.get("timeline") or info.get("points") or []) if isinstance(x, dict)][:4]
         if entries:
             xline = M + 12
-            d.line((xline, y+12, xline, min(1080, y+len(entries)*150)), fill=track, width=5)
+            d.line((xline, y+12, xline, min(1045, y+len(entries)*135)), fill=track, width=5)
             for e in entries:
                 date = str(e.get("date") or e.get("label") or "DATE NOT PROVIDED")[:42]
                 body = str(e.get("text") or e.get("detail") or e.get("description") or "")[:150]
@@ -539,8 +539,11 @@ def render_mobile_value_card(c, info):
                 d.text((M+42, y), date, font=sans(27, 800), fill=accent)
                 bf = sans(26, 500)
                 for j, line in enumerate(wrap(body, bf, W-2*M-48)[:2]):
-                    d.text((M+42, y+42+j*34), line, font=bf, fill=ink)
-                y += 150
+                    d.text((M+42, y+42+j*32), line, font=bf, fill=ink)
+                src = str(e.get("source") or "")[:48]
+                if src:
+                    d.text((M+42, y+108), "SOURCE: " + src, font=sans(16, 500), fill=sub)
+                y += 135
     elif kind == "data":
         entries = [x for x in (info.get("data_points") or info.get("points") or []) if isinstance(x, dict)][:4]
         vals = []
@@ -555,7 +558,10 @@ def render_mobile_value_card(c, info):
             value = str(e.get("display_value") or e.get("value_text") or e.get("value") or "")[:32]
             d.text((M, y), label, font=sans(26, 600), fill=sub)
             d.text((W-M, y), value, font=sans(31, 800), fill=ink, anchor="ra")
-            y += 42
+            src = str(e.get("source") or "")[:42]
+            if src:
+                d.text((M, y+38), "SOURCE: " + src, font=sans(15, 500), fill=sub)
+            y += 60
             barw = int((W-2*M) * (vals[i] / vmax)) if vmax else 0
             d.rounded_rectangle((M, y, W-M, y+15), radius=7, fill=track)
             if barw:
@@ -567,13 +573,16 @@ def render_mobile_value_card(c, info):
         for i, e in enumerate(entries):
             label = str(e.get("label") or e.get("heading") or ("KEY POINT " + str(i+1)))[:48]
             body = str(e.get("text") or e.get("detail") or e.get("description") or "")[:155]
-            d.rounded_rectangle((M, y, W-M, y+190), radius=18, fill=panel)
-            d.rounded_rectangle((M, y, M+8, y+190), radius=4, fill=accent)
-            d.text((M+28, y+20), label, font=sans(27, 800), fill=accent)
-            bf = sans(26, 500)
-            for j, line in enumerate(wrap(body, bf, W-2*M-58)[:3]):
-                d.text((M+28, y+66+j*35), line, font=bf, fill=ink)
-            y += 208
+            d.rounded_rectangle((M, y, W-M, y+176), radius=18, fill=panel)
+            d.rounded_rectangle((M, y, M+8, y+176), radius=4, fill=accent)
+            d.text((M+28, y+16), label, font=sans(25, 800), fill=accent)
+            bf = sans(24, 500)
+            for j, line in enumerate(wrap(body, bf, W-2*M-58)[:2]):
+                d.text((M+28, y+57+j*31), line, font=bf, fill=ink)
+            src = str(e.get("source") or "")[:48]
+            if src:
+                d.text((M+28, y+137), "SOURCE: " + src, font=sans(15, 500), fill=sub)
+            y += 188
     source = str(info.get("source_note") or c.source or "")[:100]
     if source:
         sf = sans(18, 500)
