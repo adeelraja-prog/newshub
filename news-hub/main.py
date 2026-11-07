@@ -558,7 +558,7 @@ def analyse(clusters):
         if not major_lane and not measured_viral_lane:
             continue
         story["editorial_lane"] = "important_news" if major_lane else "digital_viral"
-        story["composite"] = ed.composite(story)
+        story["composite"] = max(0, ed.composite(story) - story["quality_review"].get("score_penalty", 0))
         out.append(story)
     return out
 
