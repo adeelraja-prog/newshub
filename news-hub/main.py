@@ -620,8 +620,10 @@ def write_batch(stories):
                  f"{', '.join(s['corroborating']) or 'none identified'}; claim status: {s['claim_status']}")
         blobs.append(" ".join([heads, s["excerpt"], s["event"]]))
         memory_context = s.get("related_memory") or []
+        source_urls = [f"{m.get('source','unknown')}: {m.get('link','')}" for m in c["members"][:8] if m.get("link")]
         blocks.append(f"STORY {n}\nEvent: {s['event']}\nHeadlines: {heads}\nText: {s['excerpt'][:1200] or 'headlines only'}\n"
-                      f"Category: {s['category']}\nRelated dated archive (research leads only; do not present as verified current facts): {memory_context}\n"
+                      f"Category: {s['category']}\nSupplied source URLs (use exact URL only when supplied text supports the fact): {source_urls}\n"
+                      f"Related dated archive (research leads only; do not present as verified current facts): {memory_context}\n"
                       f"Attribution facts: {facts}")
     data = gemini_json(writing_prompt(blocks))
     out = {}
@@ -1505,7 +1507,12 @@ def main():
                 if review.get("decision") == "research_required":
                     research_holds.append(story)
                     if not DRY_RUN:
-                        eq.ensure_research_case(story, research_path, iso(t0))
+                        try:
+                            found = eq.attach_research_leads(story, research_path, iso(t0), limit=16)
+                            print(f"[research] stored {found} unverified discovery leads for: {story['event'][:70]}")
+                        except Exception as research_error:
+                            print(f"[research] discovery unavailable; case retained: {research_error}")
+                            eq.ensure_research_case(story, research_path, iso(t0))
             if research_holds:
                 print(f"[quality] held {len(research_holds)} promotional-led stories for accountability research; not queued")
                 stories = [s for s in stories if (s.get("quality_review") or {}).get("decision") != "research_required"]
