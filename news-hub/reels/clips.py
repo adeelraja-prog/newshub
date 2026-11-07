@@ -8,7 +8,7 @@ Reject greetings, incomplete sentences, repeated material, context-dependent fra
 Do not invent facts, quotes, names or numbers. Hook must be an exact short Urdu phrase from the transcript.
 Return one JSON object: {{"clips":[{{"start":number,"end":number,"hook":"exact Urdu phrase","caption":"factual Urdu caption based only on transcript"}}]}}."""
 
-def _fmt(segs): return "\\n".join(f"[{s['start']:.2f}-{s['end']:.2f}] {s['text']}" for s in segs)
+def _fmt(segs): return "\n".join(f"[{s['start']:.2f}-{s['end']:.2f}] {s['text']}" for s in segs)
 
 def _parse(content):
     data=json.loads(content)
@@ -16,7 +16,7 @@ def _parse(content):
     return data if isinstance(data,list) else []
 
 def _ask(segs,n):
-    prompt=PROMPT.format(n=n,mn=C.CLIP_MIN,mx=C.CLIP_MAX)+"\\nTRANSCRIPT:\\n"+_fmt(segs)
+    prompt=PROMPT.format(n=n,mn=C.CLIP_MIN,mx=C.CLIP_MAX)+"\nTRANSCRIPT:\n"+_fmt(segs)
     errors=[]
     key=C.env("GEMINI_API_KEY")
     if key:
