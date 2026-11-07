@@ -130,7 +130,7 @@ def extract_research_article(url):
             text=trafilatura.extract(response.text,include_comments=False,include_tables=True,favor_recall=True) or ''
         except Exception:
             text=re.sub(r'<(script|style)[^>]*>.*?</\\1>',' ',response.text,flags=re.I|re.S)
-            text=re.sub(r'<[^>]+>',' ',text); text=re.sub(r'\\s+',' ',text)
+            text=re.sub(r'<[^>]+>',' ',text); text=re.sub(r'\s+',' ',text)
         return text[:5000], response.url
     except Exception:
         return '', url
