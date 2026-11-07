@@ -25,6 +25,7 @@ import editorial as ed
 import poster
 import news_memory as nm
 import controversy as controversy_desk
+import editorial_quality as eq
 import youtube_promo as yt
 from sources import SOURCES
 
@@ -531,6 +532,7 @@ def analyse(clusters):
             "sources": c["sources"], "first_pub": iso(c["first_pub"]),
             "last_update": iso(c["last_pub"]),
         }
+        story["quality_review"] = eq.assess_story(story)
         # Two-lane final gate: consequential journalism OR verified digital conversation.
         valid_scope = story["scope"] in ("national", "provincial", "international")
         if not valid_scope:
@@ -588,17 +590,17 @@ For each STORY return:
 - "value_addition": object with:
   "type": "explainer" | "data" | "timeline" | "factcheck" | "none",
   "title": short mobile-first explanatory title,
-  "points": up to 3 concise, useful facts,
-  "data_points": up to 4 objects { "label": "...", "value": number, "display_value": "exact sourced value" },
-  "timeline": up to 4 objects { "date": "sourced date", "text": "what happened" },
-  "evidence_points": up to 3 objects { "label": "claim/evidence/status", "text": "what the supplied source establishes" },
+  "points": up to 3 objects with concise facts plus exact "source" and "url" provenance,
+  "data_points": up to 4 objects {{ "label": "...", "value": number, "display_value": "exact sourced value", "source": "source name", "url": "exact supplied URL" }},
+  "timeline": up to 4 objects {{ "date": "sourced date", "text": "what happened", "source": "source name", "url": "exact supplied URL" }},
+  "evidence_points": up to 3 objects {{ "label": "claim/evidence/status", "text": "what the supplied source establishes", "source": "source name", "url": "exact supplied URL" }},
   "source_note": short source attribution.
 Choose ONE best visual format only when supplied evidence supports it; otherwise type="none".
 ANGLE: find the strongest FACTUAL angle: the single most surprising or consequential fact in the text, stated
 plainly, so readers stop scrolling. Then add useful context: what changed, what it means, who is affected, or what
 happens next. Do not merely repeat statements from different sides.
 RULES: Use ONLY facts in the provided text and supplied dated archive. Keep names, numbers, dates exactly as given.
-Do not invent statistics, comparisons, timelines, legal implications, quotes, sources or context. A chart needs
+Every displayed point must carry the exact source name and URL supplied in the input. If you cannot attach provenance, use type="none". Do not invent statistics, comparisons, timelines, legal implications, quotes, sources or context. A chart needs
 actual comparable numbers and units in the source. A timeline needs explicitly dated events. A fact-check needs
 a specific claim and evidence. If evidence is insufficient, use type="none". Creative but never misleading.
 Attribute allegations ("alleged", "according to"). If sources disagree, say so.
@@ -641,6 +643,10 @@ def write_batch(stories):
         if not numbers(english) <= numbers(blobs[n - 1]):
             print(f"[skip] story {n}: a number is not in the source text")
             continue
+        visual_ok, visual_reason = eq.validate_value_addition(w.get("value_addition") or {"type": "none"})
+        if not visual_ok:
+            print(f"[value-addition] story {n}: visual downgraded to none: {visual_reason}")
+            w["value_addition"] = {"type": "none", "reason": visual_reason}
         tags = []
         for t in w.get("hashtags") or []:
             t = "#" + re.sub(r"[^\w]", "", str(t))
@@ -1489,6 +1495,20 @@ def main():
         state["last_analysis"] = iso(t0)
         try:
             stories = analyse(candidates)
+            # Soft-PR desk: retain promotional announcements as research leads, but do not schedule
+            # them until independent accountability evidence is found. This is a hold, not a verdict.
+            research_path = os.path.join(STATE_DIR, "accountability-research.json")
+            research_holds = []
+            for story in stories:
+                review = story.get("quality_review") or eq.assess_story(story)
+                story["quality_review"] = review
+                if review.get("decision") == "research_required":
+                    research_holds.append(story)
+                    if not DRY_RUN:
+                        eq.ensure_research_case(story, research_path, iso(t0))
+            if research_holds:
+                print(f"[quality] held {len(research_holds)} promotional-led stories for accountability research; not queued")
+                stories = [s for s in stories if (s.get("quality_review") or {}).get("decision") != "research_required"]
             memory_path = os.path.join(STATE_DIR, "event-memory.json")
             for story in stories:
                 story["related_memory"] = nm.related_memory(story, memory_path, limit=3)
