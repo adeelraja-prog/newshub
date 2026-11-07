@@ -58,7 +58,7 @@ def assess_story(story):
         "وزیراعلیٰ", "صوبائی حکومت", "وفاقی حکومت"
     ))
     soft_pr = bool(promo) and government_actor and (official or not accountability)
-    investigation_signal = any(term in text for term in ('ccd','crime control department','encounter','extrajudicial','custodial death','police custody','use of force','police firing','مقابلہ','پولیس مقابلہ'))
+    investigation_signal = any(term in text for term in ('ccd','crime control department','police encounter','police encounters','encounter with police','extrajudicial','custodial death','police custody','use of force','police firing','مقابلہ','پولیس مقابلہ'))
     hold = (soft_pr and not (accountability and (corroboration >= 1 or has_numbers and public_impact))) or (investigation_signal and (int(story.get('confidence') or 0) < 80 or corroboration < 1))
     penalty = min(18, 4 * len(promo)) if soft_pr else 0
     return {
