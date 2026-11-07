@@ -78,6 +78,6 @@ def pick(segs,n):
         if any(not(e<=x["start"] or s>=x["end"]) for x in chosen): continue
         source_text=" ".join(x["text"] for x in segs if x["start"]>=s-0.05 and x["end"]<=e+0.05)
         if len(source_text.split())<12: continue
-        chosen.append({"start":s,"end":e,"hook":hook,"caption":source_text})
+        chosen.append({"start":s,"end":e,"hook":hook,"caption":source_text,"source_text":source_text})
         if len(chosen)>=n: break
     return chosen
