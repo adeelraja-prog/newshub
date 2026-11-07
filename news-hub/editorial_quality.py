@@ -119,9 +119,28 @@ def discover_research_leads(story, limit=16):
         except Exception: continue
     return leads
 
+def extract_research_article(url):
+    """Fetch article text as an unverified research aid; never promote it to verified evidence."""
+    try:
+        response=requests.get(url,headers={'User-Agent':'Mozilla/5.0 (compatible; AdeelRajaNewsResearch/1.0)'},timeout=12)
+        response.raise_for_status()
+        if 'html' not in response.headers.get('content-type','').lower(): return '', response.url
+        try:
+            import trafilatura
+            text=trafilatura.extract(response.text,include_comments=False,include_tables=True,favor_recall=True) or ''
+        except Exception:
+            text=re.sub(r'<(script|style)[^>]*>.*?</\\1>',' ',response.text,flags=re.I|re.S)
+            text=re.sub(r'<[^>]+>',' ',text); text=re.sub(r'\\s+',' ',text)
+        return text[:5000], response.url
+    except Exception:
+        return '', url
 def attach_research_leads(story, path, now_iso, limit=16):
     """Persist search results as leads, explicitly not verified evidence."""
     row,_=ensure_research_case(story,path,now_iso); leads=discover_research_leads(story,limit)
+    for lead in leads[:8]:
+        excerpt,resolved=extract_research_article(lead['url'])
+        lead['resolved_url']=resolved; lead['article_excerpt']=excerpt
+        lead['extraction_status']='text_extracted_unverified' if excerpt else 'fetch_failed_or_blocked'
     data=_load(path)
     for case in data['cases']:
         if case.get('id')==row['id']:
