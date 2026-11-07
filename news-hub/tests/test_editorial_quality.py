@@ -8,8 +8,18 @@ class EditorialQualityTests(unittest.TestCase):
            "public_interest":75,"national_impact":75,"corroborating":[]}
         r=q.assess_story(s)
         self.assertEqual(r["decision"],"research_required")
-        self.assertIn("No allegation", "No allegation")  # decision is a research hold, not a verdict
+        self.assertTrue(r["requires_accountability_research"])
+        self.assertIn("Promotional framing", r["reason"])
 
+    def test_ccd_encounter_requires_independent_research(self):
+        s={"event":"Punjab CCD encounter reported in Faisalabad","confidence":75,"corroborating":[]}
+        r=q.assess_story(s)
+        self.assertTrue(r["investigation_signal"])
+        self.assertEqual(r["decision"],"research_required")
+
+    def test_private_product_launch_is_not_government_pr(self):
+        s={"event":"A technology startup launches a new laptop","original_source":{"type":"exclusive_report"}}
+        self.assertFalse(q.assess_story(s)["soft_pr_signal"])
     def test_accountability_context_can_clear_soft_pr_hold(self):
         s={"event":"Government laptop scheme faces audit over procurement cost and delivery delays",
            "original_source":{"type":"official_statement"},"public_interest":80,"national_impact":80,
