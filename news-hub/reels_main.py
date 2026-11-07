@@ -4,7 +4,7 @@ from pathlib import Path
 from reels import config as C, yt, asr, clips, render, fb
 
 REPORT_DIR=Path(os.getenv("REEL_REPORT_DIR",str(C.WORK/"reports")))
-MODE=os.getenv("REEL_MODE","scan").lower()
+MODE=os.getenv("REEL_RUN_MODE","scan").lower()
 
 def load_state():
     try: state=json.loads(C.STATE_FILE.read_text(encoding="utf-8"))
