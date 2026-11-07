@@ -66,6 +66,16 @@ def assess_story(story):
 
 def research_questions(story):
     event = str(story.get("event") or "the announced programme").strip()
+    lower=event.lower()
+    if "ccd" in lower or "encounter" in lower or "crime control department" in lower:
+        return [
+            "Build a date-by-date register of Punjab CCD encounter reports, deaths and injuries; retain original article URLs.",
+            "Find Punjab Police/CCD official statements, FIRs and press briefings for each reported incident.",
+            "Find court petitions, orders, magisterial inquiries, FIA/NCHR proceedings and inquest information.",
+            "Compare HRCP encounter/death totals with official Punjab Police data; document period and methodology differences.",
+            "Seek case-level responses from CCD/Punjab Police and families or lawyers; distinguish allegations from findings.",
+            "Check CCD operational statements, legal mandate, use-of-force rules and independent oversight.",
+        ]
     return [
         f"Find the original announcement and exact date for: {event}",
         f"Find prior promises, earlier phases and delivery records for: {event}",
