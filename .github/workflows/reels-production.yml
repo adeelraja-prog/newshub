@@ -2,7 +2,7 @@ name: Adeel Raja Reels Production
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -94,7 +94,7 @@ jobs:
           REEL_REPORT_DIR: /tmp/reels-state/reports
           REEL_CHANNELS: ${{ vars.REEL_CHANNELS || '@adeelrajaviews,@adeelrajashorts,@adeelrajaclips' }}
           REEL_MAX_VIDEOS: "1"
-          REEL_MIN_GAP_MINUTES: "90"
+          REEL_MIN_GAP_MINUTES: "240"
           REEL_CLIPS_PER_VIDEO: "3"
           REEL_LOOKBACK_DAYS: "3"
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
