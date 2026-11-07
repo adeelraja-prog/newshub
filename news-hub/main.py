@@ -680,11 +680,12 @@ def fact_check(stories, written):
     for n, w in written.items():
         s_ = stories[n - 1]
         heads = " | ".join(m["title"] for m in s_["cluster"]["members"][:5])
+        source_refs = " | ".join(f"{m.get('source','unknown')}: {m.get('link','')}" for m in s_["cluster"]["members"][:8] if m.get("link"))
         cap = " ".join([w["headline_used"], w["poster_headline_en"], w["caption_opening"], w["summary_en"],
                         w["attribution_line"]])
         value_addition = json.dumps(w.get("value_addition") or {"type": "none"}, ensure_ascii=False)
         blocks[n] = (f"ITEM {n}\nSOURCE TEXT: {heads} || {s_['excerpt'][:1500] or 'headlines only'}"
-                     f"\nCAPTION: {cap}\nVALUE ADDITION: {value_addition}")
+                     f"\nSUPPLIED SOURCE URLS: {source_refs}\nCAPTION: {cap}\nVALUE ADDITION: {value_addition}")
     verdicts, keys = {}, list(blocks)
     for i in range(0, len(keys), 8):
         try:
