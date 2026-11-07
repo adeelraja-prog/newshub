@@ -1,0 +1,80 @@
+name: Adeel Raja Scheduled Reel Publisher
+
+on:
+  schedule:
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: adeel-raja-reels-production
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: news-hub/requirements-reels.txt
+
+      - name: Install FFmpeg and Urdu font support
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg libcairo2 libraqm0 fonts-noto-core
+
+      - name: Install Reels dependencies
+        run: |
+          pip install -r news-hub/requirements.txt
+          pip install -r news-hub/requirements-reels.txt
+
+      - name: Restore independent Reels queue and state
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          mkdir -p /tmp/reels-state
+          cd /tmp/reels-state
+          git init -q
+          git config user.name "adeel-raja-reels-bot"
+          git config user.email "reels-bot@users.noreply.github.com"
+          REMOTE="https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git"
+          git remote add origin "$REMOTE"
+          if git ls-remote --exit-code --heads "$REMOTE" reels-data >/dev/null 2>&1; then
+            git fetch -q origin reels-data
+            git checkout -q -B reels-data FETCH_HEAD
+          else
+            git checkout -q -b reels-data
+          fi
+          touch clips-processed.json
+
+      - name: Publish one queued YouTube Reel
+        working-directory: news-hub
+        env:
+          REEL_STATE_FILE: /tmp/reels-state/clips-processed.json
+          REEL_REPORT_DIR: /tmp/reels-state/reports
+          REEL_RUN_MODE: publish
+          REEL_MODE: blur
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+        run: python reels_main.py
+
+      - name: Save Reel queue and publishing state
+        if: ${{ always() }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          cd /tmp/reels-state
+          git add clips-processed.json
+          if ! git diff --cached --quiet; then
+            git commit -m "reels: publish next queued clip and update state"
+            git push -u origin HEAD:reels-data
+          fi
