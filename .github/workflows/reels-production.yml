@@ -95,6 +95,7 @@ jobs:
           REEL_STATE_FILE: /tmp/reels-state/clips-processed.json
           REEL_CHANNELS: ${{ vars.REEL_CHANNELS || '@adeelrajaviews,@adeelrajashorts,@adeelrajaclips' }}
           REEL_MAX_VIDEOS: "1"
+          REEL_MIN_GAP_MINUTES: "90"
           REEL_CLIPS_PER_VIDEO: "1"
           REEL_LOOKBACK_DAYS: "3"
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
