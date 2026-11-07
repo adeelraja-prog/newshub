@@ -66,8 +66,8 @@ MODEL = env("GEMINI_MODEL", "gemini-3.8-flash")
 DRY_RUN = env("DRY_RUN") == "1"
 HANDLE = env("HANDLE", "@adeelrajaviews")
 # --- schedule (all configurable) ---
-MAX_PER_DAY = fnum("MAX_PER_DAY", 48)            # normal news posts per day (target is 24+)
-DAILY_TARGET = fnum("DAILY_TARGET", 24)
+MAX_PER_DAY = fnum("MAX_PER_DAY", 12)            # quality ceiling; fewer posts are acceptable
+DAILY_TARGET = 0  # no daily volume target; quality is the objective
 BREAKING_EXTRA = fnum("BREAKING_EXTRA", 20)      # breaking news is effectively never blocked by the daily limit
 BREAKING_GAP_MIN = fnum("BREAKING_GAP_MIN", 10)  # minimum gap after any post (breaking and YouTube promos)
 ANALYSIS_EVERY_MIN = fnum("ANALYSIS_EVERY_MIN", 25)  # Gemini analysis cadence (collecting happens every run)
@@ -80,7 +80,7 @@ QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before
 MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 14)          # do not queue stories that would post later than this
 # --- editorial thresholds ---
 MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 75), fnum("MIN_COMPOSITE", 70)
-FILL_COMPOSITE = fnum("FILL_COMPOSITE", 65)       # lower bar when the queue is nearly empty, so posting never dries up
+FILL_COMPOSITE = fnum("FILL_COMPOSITE", 70)       # never lower the quality bar to fill an empty queue
 BREAK_URGENCY, BREAK_CONFIDENCE = fnum("BREAK_URGENCY", 85), fnum("BREAK_CONFIDENCE", 75)
 ANALYSE_TOP = fnum("ANALYSE_TOP", 18)
 POOL_HOURS = fnum("POOL_HOURS", 6)
@@ -1223,7 +1223,7 @@ def build_report(info):
           f"- Feed errors: {len(y['errors'])}" + "".join(f"\n  - {e[:120]}" for e in y["errors"]), ""]
     today = info["now"].astimezone(PKT).date()
     L += ["## Today", f"- News posts published today: {count_day(info['queue'], None, today, include_queued=False)} "
-          f"(target {DAILY_TARGET}, maximum {MAX_PER_DAY}) | current spacing: {current_gap(info['queue'])} min | "
+          f"(maximum {MAX_PER_DAY}; no daily volume target) | current spacing: {current_gap(info['queue'])} min | "
           f"normal stories waiting: {sum(1 for i in info['queue']['items'] if i['status'] == 'queued' and i['priority'] == 'normal')}", ""]
     L.append("## Queue status")
     for it in info["queue"]["items"]:
