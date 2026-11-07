@@ -1,5 +1,7 @@
 {
   "done": [],
   "failed": {},
-  "seeded": true
+  "seeded": true,
+  "queue": [],
+  "queued_video_ids": []
 }
