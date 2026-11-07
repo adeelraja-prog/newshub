@@ -1,6 +1,9 @@
 name: Adeel Raja Queued Reel Publisher
 
 on:
+  push:
+    paths:
+      - ".github/workflows/reels-publisher.yml"
   schedule:
     - cron: "0 0,6,12,18 * * *"
   workflow_dispatch:
