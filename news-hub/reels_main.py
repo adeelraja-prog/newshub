@@ -1,4 +1,5 @@
-import json,shutil,traceback
+import json,shutil,traceback,os
+from datetime import datetime,timezone,timedelta
 from reels import config as C, yt, asr, clips, render, fb
 
 def load_state():
@@ -42,6 +43,17 @@ def main():
     backlog.sort(key=lambda v:(v["upload_date"],v["channel"],v["id"]))
     pending=[v for v in backlog if v["id"] not in state["done"]
              and state["failed"].get(v["id"],0)<3]
+    gap_minutes=int(os.getenv("REEL_MIN_GAP_MINUTES","90"))
+    last=state.get("last_published_at")
+    if last:
+        try:
+            last_dt=datetime.fromisoformat(last.replace("Z","+00:00"))
+            remaining=gap_minutes-(datetime.now(timezone.utc)-last_dt).total_seconds()/60
+            if remaining>0:
+                print(f"[clips] {len(pending)} videos pending; publishing cooldown active for {remaining:.0f} more minutes")
+                return
+        except Exception:
+            print("[clips] invalid last_published_at; continuing with queue")
     print(f"[clips] {len(backlog)} videos in {C.LOOKBACK_DAYS}-day backlog; {len(pending)} pending; oldest first")
     failed_this_run=[]
     for video in pending[:C.MAX_VIDEOS_PER_RUN]:
@@ -50,6 +62,8 @@ def main():
         except Exception: traceback.print_exc(); ok=False
         if ok:
             state["done"].append(video["id"]); state["failed"].pop(video["id"],None)
+            if not C.DRY_RUN:
+                state["last_published_at"]=datetime.now(timezone.utc).isoformat()
         else:
             state["failed"][video["id"]]=state["failed"].get(video["id"],0)+1
             failed_this_run.append(video["id"])
