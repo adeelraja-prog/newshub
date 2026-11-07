@@ -589,12 +589,14 @@ For each STORY return:
 - "search_summary": max 160 characters
 - "value_addition": object with:
   "type": "explainer" | "data" | "timeline" | "factcheck" | "none",
-  "title": short mobile-first explanatory title,
-  "points": up to 3 objects with concise facts plus exact "source" and "url" provenance,
-  "data_points": up to 4 objects {{ "label": "...", "value": number, "display_value": "exact sourced value", "source": "source name", "url": "exact supplied URL" }},
-  "timeline": up to 4 objects {{ "date": "sourced date", "text": "what happened", "source": "source name", "url": "exact supplied URL" }},
-  "evidence_points": up to 3 objects {{ "label": "claim/evidence/status", "text": "what the supplied source establishes", "source": "source name", "url": "exact supplied URL" }},
+  "title": short explanatory title in English,
+  "title_ur": same title in natural, fluent Urdu SCRIPT,
+  "points": up to 3 objects {{ "label": "short English heading", "label_ur": "same heading in Urdu SCRIPT", "text": "clear factual explanation in English", "text_ur": "same explanation in natural Urdu SCRIPT", "source": "exact source name", "url": "exact supplied URL" }},
+  "data_points": up to 4 objects {{ "label": "English label", "label_ur": "Urdu-script label", "value": number, "display_value": "exact sourced value", "source": "source name", "url": "exact supplied URL" }},
+  "timeline": up to 4 objects {{ "date": "sourced date", "text": "what happened in English", "text_ur": "same in Urdu SCRIPT", "source": "source name", "url": "exact supplied URL" }},
+  "evidence_points": up to 3 objects {{ "label": "claim/evidence/status in English", "label_ur": "same in Urdu SCRIPT", "text": "what the supplied source establishes in English", "text_ur": "same in Urdu SCRIPT", "source": "source name", "url": "exact supplied URL" }},
   "source_note": short source attribution.
+LANGUAGE HARD RULE: English must be proper English; Urdu must be written ONLY in Urdu/Arabic script. NEVER use Roman Urdu, transliterated Urdu, Hindi, or Devanagari. If Urdu-script wording cannot be produced accurately, leave the Urdu field empty; never transliterate.
 Choose ONE best visual format only when supplied evidence supports it; otherwise type="none".
 ANGLE: find the strongest FACTUAL angle: the single most surprising or consequential fact in the text, stated
 plainly, so readers stop scrolling. Then add useful context: what changed, what it means, who is affected, or what
