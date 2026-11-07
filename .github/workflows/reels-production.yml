@@ -92,11 +92,11 @@ jobs:
       - name: Run YouTube long-form video-to-clip Reels bot
         working-directory: news-hub
         env:
-          REEL_STATE_FILE: /tmp/reels-state/clips-processed.json
+          REEL_STATE_FILE: /tmp/reels-state/clips-processed.json\n          REEL_REPORT_DIR: /tmp/reels-state/reports
           REEL_CHANNELS: ${{ vars.REEL_CHANNELS || '@adeelrajaviews,@adeelrajashorts,@adeelrajaclips' }}
           REEL_MAX_VIDEOS: "1"
           REEL_MIN_GAP_MINUTES: "90"
-          REEL_CLIPS_PER_VIDEO: "1"
+          REEL_CLIPS_PER_VIDEO: "3"
           REEL_LOOKBACK_DAYS: "3"
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
@@ -126,7 +126,7 @@ jobs:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
         run: python news_reels.py
 
-      - name: Save separate Reels state
+      - name: Upload YouTube transcript and Reel script reports\n        if: ${{ always() }}\n        uses: actions/upload-artifact@v4\n        with:\n          name: adeel-raja-youtube-transcripts-and-reel-scripts\n          path: /tmp/reels-state/reports/\n          if-no-files-found: ignore\n          retention-days: 14\n\n      - name: Save separate Reels state
         if: ${{ always() && steps.restore_state.outcome == 'success' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
