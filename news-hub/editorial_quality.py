@@ -8,6 +8,9 @@ from __future__ import annotations
 import json, re, hashlib
 from pathlib import Path
 from datetime import date
+from urllib.parse import quote, urlparse
+import requests
+import xml.etree.ElementTree as ET
 
 PROMO_CUES = (
     "inaugurates", "launched", "launches", "distributes", "distributed",
@@ -71,6 +74,47 @@ def research_questions(story):
         f"Verify beneficiaries, geographic coverage, delivery numbers and implementation outcomes for: {event}",
         f"Seek a response from the responsible department and affected people for: {event}",
     ]
+
+def research_search_queries(story):
+    event=str(story.get('event') or '').strip()
+    text=_text(story)
+    if 'ccd' in text or 'encounter' in text or 'crime control department' in text:
+        return ['"Punjab CCD" encounters deaths dates 2025', '"Crime Control Department" Punjab encounter killed suspects', 'Punjab CCD encounter FIR court inquiry HRCP', 'Punjab Police CCD official statement encounters data']
+    return [f'"{event}" original announcement', f'"{event}" previous promise delivery record', f'"{event}" audit procurement cost beneficiaries', f'"{event}" court inquiry independent report']
+
+def discover_research_leads(story, limit=16):
+    """Search public Google News RSS without a paid API; results are unverified leads, never evidence."""
+    leads=[]; seen=set(); headers={'User-Agent':'Mozilla/5.0 (compatible; AdeelRajaNewsResearch/1.0)'}
+    for query in research_search_queries(story):
+        url='https://news.google.com/rss/search?q='+quote(query)+'&hl=en-PK&gl=PK&ceid=PK:en'
+        try:
+            response=requests.get(url,headers=headers,timeout=18); response.raise_for_status()
+            root=ET.fromstring(response.content)
+            for item in root.findall('.//item'):
+                title=(item.findtext('title') or '').strip(); link=(item.findtext('link') or '').strip()
+                pub=(item.findtext('pubDate') or '').strip(); source=item.find('source')
+                source_name=(source.text or '').strip() if source is not None else ''
+                host=urlparse(link).hostname or ''
+                blocked=('timesofindia','ndtv','thehindu','hindustantimes','indiatoday','indianexpress')
+                if not title or not link or link in seen or host.endswith('.in') or any(x in host.lower() for x in blocked): continue
+                seen.add(link); leads.append({'title':title,'url':link,'source_name':source_name,'published_raw':pub,'status':'unverified_research_lead','query':query})
+                if len(leads)>=limit: return leads
+        except Exception: continue
+    return leads
+
+def attach_research_leads(story, path, now_iso, limit=16):
+    """Persist search results as leads, explicitly not verified evidence."""
+    row,_=ensure_research_case(story,path,now_iso); leads=discover_research_leads(story,limit)
+    data=_load(path)
+    for case in data['cases']:
+        if case.get('id')==row['id']:
+            known={x.get('url') for x in case.get('source_leads',[])}
+            case.setdefault('source_leads',[]).extend(x for x in leads if x['url'] not in known)
+            case['updated_at']=now_iso; case['research_status']='leads_found' if case['source_leads'] else 'open_no_leads'
+            break
+    data['updated_at']=now_iso; target=Path(path); target.parent.mkdir(parents=True,exist_ok=True)
+    tmp=target.with_suffix(target.suffix+'.tmp'); tmp.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8'); tmp.replace(target)
+    return len(leads)
 
 def _load(path):
     try:
