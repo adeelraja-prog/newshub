@@ -1,4 +1,4 @@
-name: Adeel Raja Scheduled Reel Publisher
+name: Adeel Raja Queued Reel Publisher
 
 on:
   schedule:
@@ -9,33 +9,32 @@ permissions:
   contents: write
 
 concurrency:
-  group: adeel-raja-reels-production
+  group: adeel-raja-reels-state
   cancel-in-progress: false
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: pip
           cache-dependency-path: news-hub/requirements-reels.txt
-
       - name: Install FFmpeg and Urdu font support
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg libcairo2 libraqm0 fonts-noto-core
-
       - name: Install Reels dependencies
         run: |
           pip install -r news-hub/requirements.txt
           pip install -r news-hub/requirements-reels.txt
-
-      - name: Restore independent Reels queue and state
+      - name: Validate Reel editor syntax
+        working-directory: news-hub
+        run: python -m py_compile reels_main.py
+      - name: Restore persistent Reel queue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
@@ -54,8 +53,15 @@ jobs:
             git checkout -q -b reels-data
           fi
           touch clips-processed.json
-
-      - name: Publish one queued YouTube Reel
+          mkdir -p reports
+      - name: Optional YouTube cookies
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+        run: |
+          if [ -n "$YT_COOKIES" ]; then
+            printf '%s' "$YT_COOKIES" > news-hub/cookies.txt
+          fi
+      - name: Render and publish one queued Reel to Facebook
         working-directory: news-hub
         env:
           REEL_STATE_FILE: /tmp/reels-state/clips-processed.json
@@ -65,8 +71,15 @@ jobs:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
         run: python reels_main.py
-
-      - name: Save Reel queue and publishing state
+      - name: Upload Reel processing reports
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: adeel-raja-reel-publisher-reports
+          path: /tmp/reels-state/reports/
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: Save persistent Reel queue
         if: ${{ always() }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -75,6 +88,6 @@ jobs:
           cd /tmp/reels-state
           git add clips-processed.json
           if ! git diff --cached --quiet; then
-            git commit -m "reels: publish next queued clip and update state"
+            git commit -m "reels: publish queued clip and save state"
             git push -u origin HEAD:reels-data
           fi
