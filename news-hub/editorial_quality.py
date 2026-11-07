@@ -53,15 +53,17 @@ def assess_story(story):
                         int(story.get("national_impact") or 0),
                         int(story.get("regional_impact") or 0)) >= 70
     soft_pr = bool(promo) and (official or not accountability)
-    hold = soft_pr and not (accountability and (corroboration >= 1 or has_numbers and public_impact))
+    investigation_signal = any(term in text for term in ('ccd','crime control department','encounter','extrajudicial','custodial death','police custody','use of force','police firing','مقابلہ','پولیس مقابلہ'))
+    hold = (soft_pr and not (accountability and (corroboration >= 1 or has_numbers and public_impact))) or (investigation_signal and (int(story.get('confidence') or 0) < 80 or corroboration < 1))
     penalty = min(18, 4 * len(promo)) if soft_pr else 0
     return {
-        "soft_pr_signal": soft_pr, "promo_cues": promo[:8],
+        "soft_pr_signal": soft_pr, "investigation_signal": investigation_signal, "promo_cues": promo[:8],
         "accountability_cues": accountability[:10], "score_penalty": penalty,
         "decision": "research_required" if hold else "eligible_for_normal_review",
-        "reason": ("Promotional framing detected; require independent delivery, cost, beneficiary or outcome evidence before scheduling."
-                   if hold else "No unresolved promotional-only blocker detected."),
-        "requires_accountability_research": soft_pr,
+        "reason": ("Promotional framing requires independent accountability evidence before scheduling." if soft_pr and hold else
+                   "Sensitive police-use-of-force story requires independent corroboration before scheduling." if investigation_signal and hold else
+                   "No unresolved research blocker detected."),
+        "requires_accountability_research": soft_pr or investigation_signal,
     }
 
 def research_questions(story):
