@@ -1501,11 +1501,12 @@ def main():
             # them until independent accountability evidence is found. This is a hold, not a verdict.
             research_path = os.path.join(STATE_DIR, "accountability-research.json")
             research_holds = []
+            research_cases = []
             for story in stories:
                 review = story.get("quality_review") or eq.assess_story(story)
                 story["quality_review"] = review
-                if review.get("decision") == "research_required":
-                    research_holds.append(story)
+                if review.get("requires_accountability_research"):
+                    research_cases.append(story)
                     if not DRY_RUN:
                         try:
                             found = eq.attach_research_leads(story, research_path, iso(t0), limit=16)
@@ -1513,8 +1514,10 @@ def main():
                         except Exception as research_error:
                             print(f"[research] discovery unavailable; case retained: {research_error}")
                             eq.ensure_research_case(story, research_path, iso(t0))
+                if review.get("decision") == "research_required":
+                    research_holds.append(story)
             if research_holds:
-                print(f"[quality] held {len(research_holds)} promotional-led stories for accountability research; not queued")
+                print(f"[quality] held {len(research_holds)} stories for accountability research; not queued")
                 stories = [s for s in stories if (s.get("quality_review") or {}).get("decision") != "research_required"]
             memory_path = os.path.join(STATE_DIR, "event-memory.json")
             for story in stories:
