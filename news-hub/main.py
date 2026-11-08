@@ -593,11 +593,15 @@ For each STORY return:
   "title_ur": same title in natural, fluent Urdu SCRIPT,
   "points": up to 3 objects {{ "label": "short English heading", "label_ur": "same heading in Urdu SCRIPT", "text": "clear factual explanation in English", "text_ur": "same explanation in natural Urdu SCRIPT", "source": "exact source name", "url": "exact supplied URL" }},
   "data_points": up to 4 objects {{ "label": "English label", "label_ur": "Urdu-script label", "value": number, "display_value": "exact sourced value", "source": "source name", "url": "exact supplied URL" }},
+  "history": up to 6 chronological objects {{ "date": "effective date in YYYY-MM-DD", "value": numeric comparable value, "display_value": "exact price/value and unit", "source": "exact source name", "url": "exact supplied URL" }},
+  "unit": exact unit such as "PKR per litre",
+  "period_note": exact start/end period and duration only if supported by dated evidence.
   "timeline": up to 4 objects {{ "date": "sourced date", "text": "what happened in English", "text_ur": "same in Urdu SCRIPT", "source": "source name", "url": "exact supplied URL" }},
   "evidence_points": up to 3 objects {{ "label": "claim/evidence/status in English", "label_ur": "same in Urdu SCRIPT", "text": "what the supplied source establishes in English", "text_ur": "same in Urdu SCRIPT", "source": "source name", "url": "exact supplied URL" }},
   "source_note": short source attribution.
 LANGUAGE HARD RULE: English must be proper English; Urdu must be written ONLY in Urdu/Arabic script. NEVER use Roman Urdu, transliterated Urdu, Hindi, or Devanagari. If Urdu-script wording cannot be produced accurately, leave the Urdu field empty; never transliterate.
 Choose ONE best visual format only when supplied evidence supports it; otherwise type="none".
+HISTORICAL-PRICE RULE: If the story concerns petrol, diesel, electricity tariff, gas tariff, or another changing price, do not create a one-point explainer or a decorative single bar. Research the historical sequence using dated source records. Include at least 3 chronological history points with effective dates, comparable numeric values, units, exact source names and URLs. State the previous price, new price, effective-from date, and the period the previous price applied ONLY when reliable dated records establish them. If you cannot verify at least 3 dated comparable points, set type="none" and explain the research gap; never invent history or duration.
 ANGLE: find the strongest FACTUAL angle: the single most surprising or consequential fact in the text, stated
 plainly, so readers stop scrolling. Then add useful context: what changed, what it means, who is affected, or what
 happens next. Do not merely repeat statements from different sides.
