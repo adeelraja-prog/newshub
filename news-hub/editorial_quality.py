@@ -213,20 +213,34 @@ def build_value_addition(evidence, title, preferred="auto"):
             "source_note":rows[0]["source_name"]}
 
 def validate_value_addition(value):
-    """Reject unsupported/empty charts and undated timeline items before poster rendering."""
+    """Reject weak visuals and historical charts without dated comparable provenance."""
     if not isinstance(value,dict): return False, "not an object"
     kind=value.get("type")
     if kind=="none": return True, "no visual addition requested"
     if kind=="timeline":
         rows=value.get("timeline") or value.get("points") or []
-        if not rows: return False, "timeline has no dated events"
+        if len(rows)<2: return False, "timeline needs at least two dated events"
         for row in rows:
             if not isinstance(row,dict) or not row.get("date") or not row.get("text") or not row.get("source") or not row.get("url"):
                 return False, "timeline entry missing date, fact or source provenance"
-        return True, "timeline evidence fields present"
+        return True, "dated timeline provenance present"
     if kind=="data":
+        history=value.get("history") or value.get("series") or []
+        if history:
+            if len(history)<3: return False, "historical chart needs at least three dated comparable points"
+            dates=[]; vals=[]
+            for row in history:
+                if not isinstance(row,dict) or not row.get("date") or not row.get("source") or not row.get("url") or row.get("value") is None:
+                    return False, "historical point missing date, numeric value or source URL"
+                try: vals.append(float(row.get("value")))
+                except (TypeError,ValueError): return False, "historical chart contains a non-numeric value"
+                dates.append(str(row.get("date")))
+            if dates != sorted(dates) or len(set(dates)) != len(dates):
+                return False, "historical points must be unique and chronological"
+            if not value.get("unit"): return False, "historical chart missing comparable unit"
+            return True, "historical chart has dated comparable sourced values"
         rows=value.get("data_points") or value.get("points") or []
-        if not rows: return False, "data card has no values"
+        if len(rows)<2: return False, "data comparison needs at least two sourced comparable values"
         for row in rows:
             if not isinstance(row,dict) or row.get("value") is None or not row.get("label") or not row.get("source") or not row.get("url"):
                 return False, "data point missing comparable value or source provenance"
@@ -234,7 +248,7 @@ def validate_value_addition(value):
     if kind in ("explainer","factcheck"):
         key="evidence_points" if kind=="factcheck" else "points"
         rows=value.get(key) or value.get("points") or []
-        if not rows: return False, "visual card has no evidence points"
+        if len(rows)<2: return False, "explainer needs at least two substantive evidence points"
         if any(not isinstance(x,dict) or not x.get("text") or not x.get("source") or not x.get("url") for x in rows):
             return False, "visual point missing source provenance"
         return True, "evidence provenance fields present"
