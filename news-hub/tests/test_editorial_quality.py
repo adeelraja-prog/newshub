@@ -34,8 +34,18 @@ class EditorialQualityTests(unittest.TestCase):
             self.assertGreaterEqual(len(row["research_questions"]),5)
 
     def test_visual_requires_dated_provenance(self):
-        ok,_=q.validate_value_addition({"type":"timeline","timeline":[{"date":"2025-01-01","text":"Fact","source":"Dawn","url":"https://dawn.com/a"}]})
+        ok,_=q.validate_value_addition({"type":"timeline","timeline":[
+            {"date":"2025-01-01","text":"First fact","source":"Dawn","url":"https://dawn.com/a"},
+            {"date":"2025-02-01","text":"Second fact","source":"Reuters","url":"https://reuters.com/a"}]})
         self.assertTrue(ok)
+        ok,_=q.validate_value_addition({"type":"data","unit":"PKR/litre","history":[
+            {"date":"2026-01-01","value":250,"source":"Dawn","url":"https://dawn.com/a"},
+            {"date":"2026-02-01","value":260,"source":"Dawn","url":"https://dawn.com/b"},
+            {"date":"2026-03-01","value":245,"source":"Dawn","url":"https://dawn.com/c"}]})
+        self.assertTrue(ok)
+        ok,_=q.validate_value_addition({"type":"data","unit":"PKR/litre","history":[
+            {"date":"2026-01-01","value":250,"source":"Dawn","url":"https://dawn.com/a"}]})
+        self.assertFalse(ok)
         ok,_=q.validate_value_addition({"type":"timeline","timeline":[{"date":"2025-01-01","text":"Fact"}]})
         self.assertFalse(ok)
 
@@ -43,7 +53,6 @@ class EditorialQualityTests(unittest.TestCase):
         evidence=[q.verified_evidence_record("Dawn","https://dawn.com/a","2025-01-01","Exact quote","First dated fact"),
                   q.verified_evidence_record("","", "","", "Unverified fact")]
         visual=q.build_value_addition(evidence,"Timeline")
-        self.assertEqual(visual["type"],"explainer")
-        self.assertEqual(len(visual["points"]),1)
+        self.assertEqual(visual["type"],"none")
 
 if __name__=="__main__": unittest.main()
