@@ -500,97 +500,83 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
 
 
 def render_mobile_value_card(c, info):
-    """Phone-first 4:5 value-addition card with distinct explainer, data and timeline layouts."""
-    bg = "#111216" if (info.get("theme") or "dark") == "dark" else "#F7F5F0"
-    ink = "#F7F4EE" if bg == "#111216" else "#171719"
-    sub = "#C2C0BC" if bg == "#111216" else "#5F5B55"
-    panel = "#24262D" if bg == "#111216" else "#EAE6DE"
-    track = "#45464D" if bg == "#111216" else "#D5D0C7"
-    accent = c.acc or GOLD
-    c.img = Image.new("RGB", (W, H), bg)
-    d = ImageDraw.Draw(c.img)
-    d.rectangle((0, 0, 14, H), fill=RED if c.breaking else accent)
-    lockup(c.img, M, 38, "l", 0.56, ink, sub, GOLD)
-    d.line((M, 164, W-M, 164), fill=accent, width=3)
-    kind = info.get("type", "explainer")
-    labels = {"explainer": "THE STORY EXPLAINED", "data": "THE NUMBERS",
-              "timeline": "WHAT HAPPENED WHEN", "factcheck": "CLAIM vs EVIDENCE"}
-    spaced(d, M, 205, labels.get(kind, "THE STORY"), sans(24, 800), accent, 3)
-    title = str(info.get("title") or c.en or c.ur or "What you need to know")[:110]
-    tf = sans(55, 800)
-    lines = wrap(title, tf, W-2*M)
-    if len(lines) > 3:
-        tf = sans(45, 800)
-        lines = wrap(title, tf, W-2*M)
-    y = 255
-    for line in lines[:3]:
-        d.text((M, y), line, font=tf, fill=ink)
-        y += int(tf.size * 1.16)
-    y += 20
-    if kind == "timeline":
-        entries = [x for x in (info.get("timeline") or info.get("points") or []) if isinstance(x, dict)][:4]
-        if entries:
-            xline = M + 12
-            d.line((xline, y+12, xline, min(1045, y+len(entries)*135)), fill=track, width=5)
-            for e in entries:
-                date = str(e.get("date") or e.get("label") or "DATE NOT PROVIDED")[:42]
-                body = str(e.get("text") or e.get("detail") or e.get("description") or "")[:150]
-                d.ellipse((xline-10, y+8, xline+10, y+28), fill=accent)
-                d.text((M+42, y), date, font=sans(27, 800), fill=accent)
-                bf = sans(26, 500)
-                for j, line in enumerate(wrap(body, bf, W-2*M-48)[:2]):
-                    d.text((M+42, y+42+j*32), line, font=bf, fill=ink)
-                src = str(e.get("source") or "")[:48]
-                if src:
-                    d.text((M+42, y+108), "SOURCE: " + src, font=sans(16, 500), fill=sub)
-                y += 135
-    elif kind == "data":
-        entries = [x for x in (info.get("data_points") or info.get("points") or []) if isinstance(x, dict)][:4]
-        vals = []
-        for e in entries:
-            try:
-                vals.append(max(0.0, float(e.get("value"))))
-            except (TypeError, ValueError):
-                vals.append(0.0)
-        vmax = max(vals) if vals else 0
-        for i, e in enumerate(entries):
-            label = str(e.get("label") or "")[:48]
-            value = str(e.get("display_value") or e.get("value_text") or e.get("value") or "")[:32]
-            d.text((M, y), label, font=sans(26, 600), fill=sub)
-            d.text((W-M, y), value, font=sans(31, 800), fill=ink, anchor="ra")
-            src = str(e.get("source") or "")[:42]
-            if src:
-                d.text((M, y+38), "SOURCE: " + src, font=sans(15, 500), fill=sub)
-            y += 60
-            barw = int((W-2*M) * (vals[i] / vmax)) if vmax else 0
-            d.rounded_rectangle((M, y, W-M, y+15), radius=7, fill=track)
-            if barw:
-                d.rounded_rectangle((M, y, M+barw, y+15), radius=7, fill=accent)
-            y += 66
+    """Premium evidence-led mobile explainer with a labelled historical line chart."""
+    bg="#111216"; ink="#F7F4EE"; sub="#C2C0BC"; panel="#242832"; track="#454B57"; accent=c.acc or GOLD
+    c.img=Image.new("RGB",(W,H),bg); d=ImageDraw.Draw(c.img)
+    d.rectangle((0,0,16,H),fill=RED if c.breaking else accent)
+    lockup(c.img,M,28,"l",0.52,ink,sub,GOLD); d.line((M,158,W-M,158),fill=accent,width=3)
+    kind=str(info.get("type") or "explainer")
+    labels={"explainer":"THE STORY EXPLAINED","data":"HISTORICAL DATA","timeline":"HISTORICAL TIMELINE","factcheck":"CLAIM vs EVIDENCE"}
+    spaced(d,M,198,labels.get(kind,"THE STORY"),sans(23,800),accent,3)
+    title=str(info.get("title") or c.en or "What you need to know")[:110]
+    y=232
+    for line in wrap(title,sans(51,800),W-2*M)[:2]:
+        d.text((M,y),line,font=sans(51,800),fill=ink); y+=58
+    title_ur=str(info.get("title_ur") or "")
+    if title_ur:
+        for line in wrap(title_ur,urdu(37),W-2*M)[:2]:
+            d.text((W-M,y+3),line,font=urdu(37),fill=accent,anchor="ra",direction="rtl"); y+=54
+    y+=15
+    series=[x for x in (info.get("history") or info.get("series") or []) if isinstance(x,dict)]
+    if kind=="data" and len(series)>=3:
+        series=series[-6:]; vals=[]
+        for row in series:
+            try: vals.append(float(row.get("value")))
+            except (TypeError,ValueError): vals.append(None)
+        valid=[v for v in vals if v is not None]
+        if len(valid)>=3:
+            top=y+18; bottom=min(810,top+330); left=M+70; right=W-M-24
+            vmin=min(valid); vmax=max(valid); span=max(1.0,vmax-vmin)
+            d.rounded_rectangle((M,top-8,W-M,bottom+72),radius=22,fill=panel)
+            for k in range(4):
+                v=vmin+span*k/3; yy=bottom-int((v-vmin)/span*(bottom-top))
+                d.line((left,yy,right,yy),fill=track,width=2)
+                d.text((M+14,yy),f"{v:,.0f}",font=sans(17,600),fill=sub,anchor="lm")
+            coords=[]
+            for i,v in enumerate(vals):
+                if v is None: continue
+                xx=left+int(i*(right-left)/max(1,len(vals)-1)); yy=bottom-int((v-vmin)/span*(bottom-top))
+                coords.append((xx,yy))
+            if len(coords)>1:d.line(coords,fill=accent,width=7,joint="curve")
+            for idx,(xx,yy) in enumerate(coords):
+                d.ellipse((xx-9,yy-9,xx+9,yy+9),fill=ink,outline=accent,width=4)
+                d.text((xx,yy-22),f"{vals[idx]:,.0f}",font=sans(17,800),fill=ink,anchor="ms")
+            dates=[str(x.get("date") or "") for x in series]
+            d.text((left,bottom+30),dates[0][:16],font=sans(17,600),fill=sub,anchor="lm")
+            d.text((right,bottom+30),dates[-1][:16],font=sans(17,600),fill=sub,anchor="rm")
+            d.text((W-M-18,top+12),str(info.get("unit") or "PKR per litre")[:30],font=sans(17,700),fill=accent,anchor="ra")
+            y=bottom+94
+            for row in series[-4:]:
+                d.text((M+22,y),f"{str(row.get('date') or '')[:16]}   {str(row.get('display_value') or row.get('value') or '')[:20]}",font=sans(18,650),fill=ink); y+=25
+            y+=12
+    elif kind=="timeline":
+        for row in [x for x in (info.get("timeline") or info.get("points") or []) if isinstance(x,dict)][:4]:
+            d.rounded_rectangle((M,y,W-M,y+112),radius=18,fill=panel)
+            d.text((M+22,y+12),str(row.get("date") or "DATE NOT VERIFIED")[:34],font=sans(24,800),fill=accent)
+            for j,line in enumerate(wrap(str(row.get("text") or "")[:125],sans(22,500),W-2*M-44)[:2]):
+                d.text((M+22,y+48+j*27),line,font=sans(22,500),fill=ink)
+            d.text((W-M-20,y+91),str(row.get("source") or "")[:42],font=sans(14,600),fill=sub,anchor="ra"); y+=124
     else:
-        key = "evidence_points" if kind == "factcheck" else "points"
-        entries = [x for x in (info.get(key) or info.get("points") or []) if isinstance(x, dict)][:3]
-        for i, e in enumerate(entries):
-            label = str(e.get("label") or e.get("heading") or ("KEY POINT " + str(i+1)))[:48]
-            body = str(e.get("text") or e.get("detail") or e.get("description") or "")[:155]
-            d.rounded_rectangle((M, y, W-M, y+176), radius=18, fill=panel)
-            d.rounded_rectangle((M, y, M+8, y+176), radius=4, fill=accent)
-            d.text((M+28, y+16), label, font=sans(25, 800), fill=accent)
-            bf = sans(24, 500)
-            for j, line in enumerate(wrap(body, bf, W-2*M-58)[:2]):
-                d.text((M+28, y+57+j*31), line, font=bf, fill=ink)
-            src = str(e.get("source") or "")[:48]
-            if src:
-                d.text((M+28, y+137), "SOURCE: " + src, font=sans(15, 500), fill=sub)
-            y += 188
-    source = str(info.get("source_note") or c.source or "")[:100]
-    if source:
-        sf = sans(18, 500)
-        for i, line in enumerate(wrap("SOURCE: " + source, sf, W-2*M)[:2]):
-            d.text((M, 1090+i*25), line, font=sf, fill=sub)
-    d.line((M, 1150, W-M, 1150), fill=track, width=2)
-    social_footer(c.img, W//2, 1180, ink, sub)
-    c.d = ImageDraw.Draw(c.img)
+        key="evidence_points" if kind=="factcheck" else "points"
+        for i,row in enumerate([x for x in (info.get(key) or info.get("points") or []) if isinstance(x,dict)][:3]):
+            d.rounded_rectangle((M,y,W-M,y+190),radius=20,fill=panel); d.rectangle((M,y,M+10,y+190),fill=accent)
+            d.text((M+28,y+16),str(row.get("label") or f"KEY POINT {i+1}")[:48],font=sans(27,800),fill=accent)
+            lu=str(row.get("label_ur") or "")
+            if lu:d.text((W-M-24,y+52),lu,font=urdu(29),fill=accent,anchor="ra",direction="rtl")
+            for j,line in enumerate(wrap(str(row.get("text") or "")[:190],sans(24,500),W-2*M-60)[:2]):
+                d.text((M+28,y+55+j*31),line,font=sans(24,500),fill=ink)
+            bu=str(row.get("text_ur") or "")
+            if bu:
+                for j,line in enumerate(wrap(bu,urdu(27),W-2*M-60)[:2]):
+                    d.text((W-M-24,y+120+j*34),line,font=urdu(27),fill=ink,anchor="ra",direction="rtl")
+            d.text((M+28,y+167),str(row.get("source") or "SOURCE NOT PROVIDED")[:52],font=sans(15,600),fill=sub); y+=202
+    note=str(info.get("period_note") or info.get("source_note") or c.source or "")[:130]
+    if note:
+        d.text((M,1110),"PERIOD / SOURCE",font=sans(17,800),fill=accent)
+        for j,line in enumerate(wrap(note,sans(17,500),W-2*M)[:2]):
+            d.text((M,1133+j*22),line,font=sans(17,500),fill=sub)
+    d.line((M,1182,W-M,1182),fill=track,width=2); social_footer(c.img,W//2,1200,ink,sub)
+    c.d=ImageDraw.Draw(c.img)
 
 
 class Ctx:
