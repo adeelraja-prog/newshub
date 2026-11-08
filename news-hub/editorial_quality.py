@@ -199,18 +199,12 @@ def build_value_addition(evidence, title, preferred="auto"):
           and x.get("source_name") and x.get("source_url") and x.get("date")
           and x.get("exact_excerpt") and x.get("fact")]
     rows.sort(key=lambda x:x["date"])
-    if not rows:
-        return {"type":"none","reason":"No fully sourced evidence packet."}
+    if len(rows)<2:
+        return {"type":"none","reason":"At least two independently sourced evidence points are required."}
     timeline=[{"date":x["date"],"text":x["fact"],"source":x["source_name"],"url":x["source_url"]}
               for x in rows[:4]]
-    if len(timeline)>=2:
-        return {"type":"timeline","title":title,"timeline":timeline,
-                "source_note":"Sources and dates are attached to each timeline entry."}
-    return {"type":"explainer","title":title,
-            "points":[{"label":"Verified finding","text":rows[0]["fact"],
-                       "source":rows[0]["source_name"],"url":rows[0]["source_url"],
-                       "date":rows[0]["date"]}],
-            "source_note":rows[0]["source_name"]}
+    return {"type":"timeline","title":title,"timeline":timeline,
+            "source_note":"Sources and dates are attached to each timeline entry."}
 
 def validate_value_addition(value):
     """Reject weak visuals and historical charts without dated comparable provenance."""
