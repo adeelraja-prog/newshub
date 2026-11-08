@@ -627,9 +627,24 @@ def write_batch(stories):
         blobs.append(" ".join([heads, s["excerpt"], s["event"]]))
         memory_context = s.get("related_memory") or []
         source_urls = [f"{m.get('source','unknown')}: {m.get('link','')}" for m in c["members"][:8] if m.get("link")]
+        story_text = " ".join([s.get("event",""), heads, s.get("excerpt","")]).lower()
+        price_topic = any(term in story_text for term in ("petrol", "gasoline", "diesel", "fuel price", "petroleum price", "پیٹرول", "پٹرول", "ڈیزل"))
+        price_research = []
+        if price_topic:
+            try:
+                leads = eq.discover_research_leads({"event": s.get("event","")}, limit=8)
+                for lead in leads[:6]:
+                    excerpt, resolved = eq.extract_research_article(lead["url"])
+                    if excerpt:
+                        price_research.append({"date": lead.get("published_raw",""), "source": lead.get("source_name",""),
+                                               "url": resolved, "title": lead.get("title",""), "article_text": excerpt[:1800]})
+                print(f"[price-history] collected {len(price_research)} external research extracts for story {n}")
+            except Exception as research_error:
+                print(f"[price-history] research unavailable for story {n}: {research_error}")
         blocks.append(f"STORY {n}\nEvent: {s['event']}\nHeadlines: {heads}\nText: {s['excerpt'][:1200] or 'headlines only'}\n"
                       f"Category: {s['category']}\nSupplied source URLs (use exact URL only when supplied text supports the fact): {source_urls}\n"
                       f"Related dated archive (research leads only; do not present as verified current facts): {memory_context}\n"
+                      f"External price-history research extracts (source text for verification; use only explicit effective dates and figures, cite exact URL): {price_research}\n"
                       f"Attribution facts: {facts}")
     data = gemini_json(writing_prompt(blocks))
     out = {}
@@ -689,9 +704,20 @@ def fact_check(stories, written):
         source_refs = " | ".join(f"{m.get('source','unknown')}: {m.get('link','')}" for m in s_["cluster"]["members"][:8] if m.get("link"))
         cap = " ".join([w["headline_used"], w["poster_headline_en"], w["caption_opening"], w["summary_en"],
                         w["attribution_line"]])
-        value_addition = json.dumps(w.get("value_addition") or {"type": "none"}, ensure_ascii=False)
+        value_addition_obj = w.get("value_addition") or {"type": "none"}
+        value_addition = json.dumps(value_addition_obj, ensure_ascii=False)
+        research_texts = []
+        history_rows = value_addition_obj.get("history") or value_addition_obj.get("series") or []
+        for row in history_rows[:6]:
+            url = row.get("url") if isinstance(row,dict) else ""
+            if not url: continue
+            excerpt, resolved = eq.extract_research_article(url)
+            if excerpt:
+                research_texts.append({"date": row.get("date"), "source": row.get("source"),
+                                       "url": resolved, "article_text": excerpt[:1800]})
         blocks[n] = (f"ITEM {n}\nSOURCE TEXT: {heads} || {s_['excerpt'][:1500] or 'headlines only'}"
-                     f"\nSUPPLIED SOURCE URLS: {source_refs}\nCAPTION: {cap}\nVALUE ADDITION: {value_addition}")
+                     f"\nSUPPLIED SOURCE URLS: {source_refs}\nHISTORICAL RESEARCH SOURCE TEXTS: {research_texts}"
+                     f"\nCAPTION: {cap}\nVALUE ADDITION: {value_addition}")
     verdicts, keys = {}, list(blocks)
     for i in range(0, len(keys), 8):
         try:
