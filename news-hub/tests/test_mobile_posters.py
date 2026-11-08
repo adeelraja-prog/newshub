@@ -11,9 +11,11 @@ class MobileValuePosterTests(unittest.TestCase):
         cases = [
             {"type": "explainer", "title": "What changed?", "points": [
                 {"label": "THE CHANGE", "text": "The policy was revised."}]},
-            {"type": "data", "title": "The numbers", "data_points": [
-                {"label": "Earlier", "value": 10, "display_value": "10"},
-                {"label": "Now", "value": 20, "display_value": "20"}]},
+            {"type": "data", "title": "Historical price movement", "unit": "PKR per litre",
+             "history": [
+                {"date": "2026-01-01", "value": 250, "display_value": "Rs 250"},
+                {"date": "2026-02-01", "value": 260, "display_value": "Rs 260"},
+                {"date": "2026-03-01", "value": 245, "display_value": "Rs 245"}]},
             {"type": "timeline", "title": "Key dates", "timeline": [
                 {"date": "2020-01-01", "text": "The first event."},
                 {"date": "2024-01-01", "text": "The later event."}]},
