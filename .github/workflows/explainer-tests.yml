@@ -1,0 +1,36 @@
+name: Explainer Renderer Tests
+
+on:
+  push:
+    paths:
+      - "news-hub/poster.py"
+      - "news-hub/main.py"
+      - "news-hub/editorial_quality.py"
+      - "news-hub/tests/test_mobile_posters.py"
+      - "news-hub/tests/test_editorial_quality.py"
+      - ".github/workflows/explainer-tests.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: news-hub
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install system font and image dependencies
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq libcairo2 libraqm0
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Compile newsroom modules
+        run: python -m py_compile main.py poster.py editorial_quality.py
+      - name: Run editorial and poster tests
+        run: python -m unittest discover -s tests -v
