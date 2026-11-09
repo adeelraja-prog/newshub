@@ -129,10 +129,16 @@ def trend_signals(cluster, trends, hist, now):
             if ov >= math.ceil(0.6 * len(t["tokens"])):
                 match = t
                 break
+    x_match = None
     if match:
-        score += 30
-        notes.append(f"Google Trends Pakistan: '{match['query']}' (rank {match['rank'] + 1}"
-                     + (f", {match['traffic']}" if match.get("traffic") else "") + ")")
+        if match.get("source") == "X Pakistan Trends":
+            x_match = match
+            score += 28
+            notes.append(f"Pakistan X trend snapshot: '{match['query']}' (rank {match['rank'] + 1}; discovery signal only)")
+        else:
+            score += 24
+            notes.append(f"Google Trends Pakistan: '{match['query']}' (rank {match['rank'] + 1}"
+                         + (f", {match['traffic']}" if match.get("traffic") else "") + ")")
     growth = 0
     if hist is not None:
         growth = n - hist.get("n_sources", n)
@@ -150,7 +156,7 @@ def trend_signals(cluster, trends, hist, now):
     viral_measured = min(100, 35 * vm + (25 if match else 0) + 10 * max(growth, 0) + (10 if emerging else 0))
     basis = "measured" if (n >= 2 or match or growth > 0) else "none"
     return {"viral_measured": viral_measured, "trend_score": min(100, score), "trend_basis": basis, "trend_notes": notes,
-            "growth": growth, "emerging": emerging, "google_trend": bool(match), "x_signal": "unavailable"}
+            "growth": growth, "emerging": emerging, "google_trend": bool(match and match.get("source") != "X Pakistan Trends"), "x_signal": "measured" if x_match else "unavailable"}
 
 
 def prelim_score(cluster, sig, now):
@@ -159,14 +165,15 @@ def prelim_score(cluster, sig, now):
     s += 15 if cluster["has_official"] else 0
     s += 10 if cluster["pk"] else 0
     s += 20 if sig["google_trend"] else 0
+    s += 16 if sig.get("x_signal") == "measured" else 0
     s += 10 if sig["growth"] > 0 else 0
     age_h = (now - cluster["last_pub"]).total_seconds() / 3600
     return s - max(0, age_h - 2) * 4
 
 
 CAT_BOOST = {"tech_ai": 12, "tech_gadgets": 10, "tech_mobile": 10, "tech_laptop": 9, "tech_apps": 8, "tech": 10,
-             "economy": 8, "science": 7, "health": 8, "politics": 16, "weather": 8, "fashion": 5, "lifestyle": 5,
-             "crime": 8, "war": 8, "us_politics": 10, "sports": 10, "courts": 10, "security": 9}
+             "economy": 8, "science": 7, "health": 8, "politics": 22, "weather": 8, "fashion": 5, "lifestyle": 5,
+             "crime": 8, "war": 8, "us_politics": 10, "sports": 10, "courts": 18, "security": 12}
 SENSITIVE = ("politics", "security", "courts", "crime", "war", "us_politics")
 SURE_TYPES = ("official_document", "official_statement", "court_order", "wire")
 VIRAL_RE = re.compile(r"\bviral\b|goes viral|went viral|trending on|social media (users|reacts|erupts)|وائرل|ٹرینڈ", re.I)
@@ -181,7 +188,7 @@ def composite(st):
     public_affairs_text = " ".join(str(st.get(k) or "") for k in ("event","headline","title","why_pk")).lower()
     public_affairs = any(term in public_affairs_text for term in (
         "imran khan","pti","supreme court","high court","judiciary","judge","constitutional",
-        "political prisoner","detention","election commission","civil liberties","media freedom",
+        "political prisoner","detention","adiala","barrister gohar","sohail afridi","election commission","civil liberties","media freedom",
         "عمران خان","پی ٹی آئی","سپریم کورٹ","ہائی کورٹ","عدلیہ","جج","آئینی"
     ))
     return round(base + (5 if st.get("has_wire_or_official") else 0)
