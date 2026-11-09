@@ -1,6 +1,10 @@
 {
   "done": [],
-  "failed": {},
+  "failed": {
+    "9Y0zxad3-J0": 1,
+    "3wp4e0fpDio": 1,
+    "KjawIaz6cCI": 1
+  },
   "seeded": true,
   "queue": [],
   "queued_video_ids": []
