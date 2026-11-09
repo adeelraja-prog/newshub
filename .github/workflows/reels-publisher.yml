@@ -77,7 +77,7 @@ jobs:
           REEL_STATE_FILE: /tmp/reels-state/clips-processed.json
           REEL_REPORT_DIR: /tmp/reels-state/reports
           REEL_RUN_MODE: publish
-          REEL_MODE: fill
+          REEL_MODE: blur
           REEL_MIN_GAP_MINUTES: "360"
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
