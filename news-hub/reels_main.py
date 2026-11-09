@@ -43,7 +43,7 @@ def scan_and_queue(state):
     for channel in C.CHANNELS:
         try: backlog.extend(yt.recent_videos(channel,C.LOOKBACK_DAYS,C.SCAN_LIMIT))
         except Exception as exc: print(f"[yt] channel scan failed for {channel}: {exc}")
-    backlog.sort(key=lambda v:(v["upload_date"],v["channel"],v["id"]))
+    backlog.sort(key=lambda v:(v.get("sort_date") or v.get("upload_date") or "",v["channel"],v["id"]),reverse=True)
     already=set(state["done"]) | set(state["queued_video_ids"])
     pending=[v for v in backlog if v["id"] not in already and state["failed"].get(v["id"],0)<3]
     print(f"[yt] {len(backlog)} recent uploads found; {len(pending)} not yet queued")
@@ -53,6 +53,13 @@ def scan_and_queue(state):
             print("[clips] analysing long video",video["channel"],video["id"],video["title"])
             source=yt.download(video["id"],folder)
             if not source: raise RuntimeError("public YouTube download failed")
+            probe=subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","default=noprint_wrappers=1:nokey=1",str(source)],
+                                 capture_output=True,text=True,timeout=30)
+            try: source_duration=float(probe.stdout.strip())
+            except (TypeError,ValueError): source_duration=0
+            if source_duration and source_duration<180:
+                raise RuntimeError(f"source is only {source_duration:.0f}s; not a long-form upload")
+            if not source_duration: print("[clips] source duration unavailable; proceeding with transcript validation")
             transcript=asr.transcribe(source,folder)
             if not transcript: raise RuntimeError("Whisper returned an empty transcript")
             print(f"[clips] transcript ready: {len(transcript)} timestamped segments")
