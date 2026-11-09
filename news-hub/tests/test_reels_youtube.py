@@ -12,6 +12,11 @@ class YouTubeDiscoveryTests(unittest.TestCase):
         self.assertIn("--cookies",args)
         self.assertIn(str(Path(__file__)),args)
 
+    def test_authentication_challenge_is_classified_for_retry(self):
+        self.assertTrue(yt.is_auth_error("Sign in to confirm you're not a bot"))
+        self.assertTrue(yt.is_auth_error("Use --cookies for authentication"))
+        self.assertFalse(yt.is_auth_error("Video unavailable"))
+
     def test_null_metadata_is_reported_as_a_clear_error(self):
         fake=SimpleNamespace(returncode=0,stdout="null",stderr="")
         with patch("reels.yt.subprocess.run",return_value=fake):
