@@ -14,7 +14,7 @@ import xml.etree.ElementTree as ET
 
 PROMO_CUES = (
     "inaugurates", "launched", "launches", "distributes", "distributed",
-    "hands over", "hands out", "announces", "announced", "pledges", "directs", "orders", "reviews",
+    "hands over", "hands out", "announces", "announced", "approves", "approved", "pledges", "directs", "orders", "reviews",
     "holds meeting", "chairs meeting", "inauguration", "ceremony", "historic achievement",
     "record achievement", "landmark initiative", "under the leadership",
     "vision of", "special initiative", "government initiative", "laptop scheme",
