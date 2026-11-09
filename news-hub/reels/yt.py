@@ -12,8 +12,7 @@ def _base(public_client=True):
     args=["yt-dlp","--no-warnings","--ignore-errors"]
     if public_client:
         args += ["--extractor-args","youtube:player_client=tv_embedded,ios,web_safari"]
-    cookie_file=Path(__file__).resolve().parents[1]/"cookies.txt"
-    if cookie_file.exists(): args += ["--cookies",str(cookie_file)]
+    if COOKIE_FILE.exists(): args += ["--cookies",str(COOKIE_FILE)]
     return args
 
 def _upload_date(info):
@@ -138,8 +137,7 @@ def download(video_id,out_dir:Path):
     out=out_dir/"src.mp4"
     url=f"https://www.youtube.com/watch?v={video_id}"
     fallback=["yt-dlp","--no-warnings","--extractor-args","youtube:player_client=tv_embedded,ios,web_safari"]
-    cookie_file=Path(__file__).resolve().parents[1]/"cookies.txt"
-    if cookie_file.exists(): fallback += ["--cookies",str(cookie_file)]
+    if COOKIE_FILE.exists(): fallback += ["--cookies",str(COOKIE_FILE)]
     fallback += ["-f","bv*[height<=720]+ba/b[height<=720]/b","--merge-output-format","mp4","-o",str(out),url]
     attempts=[
         _base()+["-f","bv*[height<=1080]+ba/b[height<=1080]/b","--merge-output-format","mp4","-o",str(out),url],
