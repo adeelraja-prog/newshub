@@ -584,116 +584,102 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
 
 
 def render_mobile_value_card(c, info):
-    """Premium, mobile-first explainer: clear hierarchy, large evidence panels and sourced context."""
-    bg="#101722"; ink="#F8F6F0"; sub="#C7CDD6"; panel="#1D2938"; panel2="#243448"
-    track="#425064"; accent=c.acc or GOLD
-    c.img=Image.new("RGB",(W,H),bg); d=ImageDraw.Draw(c.img)
-    d.rectangle((0,0,18,H),fill=RED if c.breaking else accent)
-    lockup(c.img,M,22,"l",0.44,ink,sub,GOLD)
-    d.line((M,132,W-M,132),fill=accent,width=3)
-    kind=str(info.get("type") or "explainer")
-    labels={"explainer":"THE STORY — EXPLAINED","data":"THE NUMBERS — IN CONTEXT",
-            "timeline":"WHAT HAPPENED — WHEN","factcheck":"CLAIM — CHECKED AGAINST EVIDENCE"}
-    spaced(d,M,164,labels.get(kind,"THE STORY — EXPLAINED"),sans(22,800),accent,2)
-    title=str(info.get("title") or c.en or "What you need to know")[:110]
-    y=205
-    for line in wrap(title,sans(43,800),W-2*M)[:2]:
-        d.text((M,y),line,font=sans(43,800),fill=ink); y+=52
-    title_ur=str(info.get("title_ur") or c.ur or "").strip()
-    if title_ur:
-        for line in wrap(title_ur,urdu(34),W-2*M)[:2]:
-            d.text((W-M,y+4),line,font=urdu(34),fill=accent,anchor="ra",direction="rtl",language="ur")
-            y+=51
-    y+=22
+    """Premium editorial explainer: photo-led hero, clear hierarchy, restrained data cards."""
+    bg = "#0B111B"
+    ink = "#F7F5F0"
+    muted = "#B9C2CF"
+    panel = "#151F2D"
+    line = "#2A394B"
+    accent = RED if c.breaking else (c.acc or GOLD)
+    im = Image.new("RGB", (W, H), bg)
+    d = ImageDraw.Draw(im)
 
-    if kind=="data":
-        series=[x for x in (info.get("history") or info.get("series") or []) if isinstance(x,dict)]
-        series=series[-6:]
-        vals=[]
-        for row in series:
-            try: vals.append(float(row.get("value")))
-            except (TypeError,ValueError): vals.append(None)
-        valid=[v for v in vals if v is not None]
-        if len(valid)>=3:
-            top=y+18; bottom=top+300; left=M+86; right=W-M-28
-            vmin=min(valid); vmax=max(valid); span=max(1.0,vmax-vmin)
-            d.rounded_rectangle((M,top-16,W-M,bottom+86),radius=24,fill=panel,outline=track,width=2)
-            d.text((M+26,top+2),"HISTORICAL TREND",font=sans(19,800),fill=accent)
-            d.text((W-M-24,top+2),str(info.get("unit") or "VALUE")[:28],font=sans(17,700),fill=sub,anchor="ra")
-            chart_top=top+55; chart_bottom=bottom-8
-            for k in range(4):
-                v=vmin+span*k/3; yy=chart_bottom-int((v-vmin)/span*(chart_bottom-chart_top))
-                d.line((left,yy,right,yy),fill=track,width=2)
-                d.text((M+18,yy),f"{v:,.0f}",font=sans(17,600),fill=sub,anchor="lm")
-            coords=[]
-            for i,v in enumerate(vals):
-                if v is None: continue
-                xx=left+int(i*(right-left)/max(1,len(vals)-1))
-                yy=chart_bottom-int((v-vmin)/span*(chart_bottom-chart_top))
-                coords.append((xx,yy,v))
-            if len(coords)>1:d.line([(xx,yy) for xx,yy,_ in coords],fill=accent,width=8,joint="curve")
-            for xx,yy,value in coords:
-                d.ellipse((xx-10,yy-10,xx+10,yy+10),fill=ink,outline=accent,width=4)
-                d.text((xx,yy-26),f"{value:,.0f}",font=sans(17,800),fill=ink,anchor="ms")
-            d.text((left,chart_bottom+24),str(series[0].get("date") or "")[:16],font=sans(16,600),fill=sub,anchor="lm")
-            d.text((right,chart_bottom+24),str(series[-1].get("date") or "")[:16],font=sans(16,600),fill=sub,anchor="rm")
-            y=bottom+102
-            for row in series[-3:]:
-                d.text((M+20,y),f'{str(row.get("date") or "")[:16]}   {str(row.get("display_value") or row.get("value") or "")[:22]}',
-                       font=sans(17,650),fill=ink); y+=28
-        else:
-            d.rounded_rectangle((M,y,W-M,y+160),radius=22,fill=panel,outline=track,width=2)
-            d.text((M+28,y+26),"NOT ENOUGH VERIFIED HISTORY",font=sans(23,800),fill=accent)
-            d.text((M+28,y+76),"A historical chart is withheld until at least three dated, comparable values are sourced.",
-                   font=sans(20,500),fill=ink)
-            y+=185
-    elif kind=="timeline":
-        rows=[x for x in (info.get("timeline") or info.get("points") or []) if isinstance(x,dict)][:4]
-        for index,row in enumerate(rows):
-            h=132
-            d.rounded_rectangle((M,y,W-M,y+h),radius=20,fill=panel,outline=track,width=2)
-            d.ellipse((M+25,y+25,M+73,y+73),fill=accent)
-            d.text((M+49,y+49),str(index+1),font=sans(20,800),fill=bg,anchor="mm")
-            d.text((M+94,y+17),str(row.get("date") or "DATE NOT VERIFIED")[:34],font=sans(22,800),fill=accent)
-            for j,line in enumerate(wrap(str(row.get("text") or "")[:145],sans(20,500),W-2*M-125)[:2]):
-                d.text((M+94,y+53+j*27),line,font=sans(20,500),fill=ink)
-            d.text((W-M-22,y+h-18),str(row.get("source") or "SOURCE NOT PROVIDED")[:45],font=sans(14,600),fill=sub,anchor="rs")
-            y+=h+14
+    # Hero image is editorial evidence, not decoration. Use a sourced person/photo when available.
+    hero_h = 500
+    if c.person is not None:
+        hero = ImageOps.fit(c.person.convert("RGB"), (W, hero_h),
+                            method=Image.Resampling.LANCZOS, centering=(0.5, 0.38))
+        im.paste(hero, (0, 0))
+        shade = Image.new("RGBA", (W, hero_h), (5, 10, 18, 105))
+        im.paste(Image.alpha_composite(im.crop((0, 0, W, hero_h)).convert("RGBA"), shade).convert("RGB"), (0, 0))
     else:
-        key="evidence_points" if kind=="factcheck" else "points"
-        rows=[x for x in (info.get(key) or info.get("points") or []) if isinstance(x,dict)][:3]
-        for i,row in enumerate(rows):
-            h=206
-            d.rounded_rectangle((M,y,W-M,y+h),radius=22,fill=panel if i%2==0 else panel2,outline=track,width=2)
-            d.rounded_rectangle((M+20,y+18,M+86,y+82),radius=16,fill=accent)
-            d.text((M+53,y+50),f"0{i+1}",font=sans(22,800),fill=bg,anchor="mm")
-            label=str(row.get("label") or ("THE CLAIM" if kind=="factcheck" and i==0 else f"KEY FACT {i+1}"))
-            d.text((M+108,y+22),label[:42],font=sans(22,800),fill=accent)
-            label_ur=str(row.get("label_ur") or "")
-            if label_ur:
-                d.text((W-M-22,y+60),label_ur,font=urdu(25),fill=accent,anchor="ra",direction="rtl",language="ur")
-            en=str(row.get("text") or "")[:210]
-            for j,line in enumerate(wrap(en,sans(21,500),W-2*M-56)[:3]):
-                d.text((M+28,y+91+j*29),line,font=sans(21,500),fill=ink)
-            ur=str(row.get("text_ur") or "")
-            if ur:
-                lines=wrap(ur,urdu(25),W-2*M-56)[:2]
-                for j,line in enumerate(lines):
-                    d.text((W-M-24,y+151+j*29),line,font=urdu(25),fill=ink,anchor="ra",direction="rtl",language="ur")
-            source=str(row.get("source") or "SOURCE NOT PROVIDED")
-            d.text((M+28,y+h-18),source[:54],font=sans(14,650),fill=sub,anchor="ls")
-            y+=h+14
+        # Restrained typographic cover when no relevant licensed image exists.
+        d.rectangle((0, 0, W, hero_h), fill="#111D2B")
+        d.ellipse((W-420, -230, W+160, 350), outline="#26384B", width=3)
+        d.ellipse((W-350, -160, W+90, 280), outline="#1E3042", width=2)
+        d.rectangle((M, 350, M+120, 357), fill=accent)
 
-    note=str(info.get("period_note") or info.get("source_note") or c.source or "")[:150]
-    footer_y=1128
+    d = ImageDraw.Draw(im)
+    d.rectangle((0, 0, 12, H), fill=accent)
+    # Compact brand system and category label.
+    lockup(im, M, 24, "l", 0.40, ink, muted, GOLD)
+    kind = str(info.get("type") or "explainer")
+    labels = {"explainer":"THE STORY / EXPLAINED", "data":"THE NUMBERS / IN CONTEXT",
+              "timeline":"THE TIMELINE", "factcheck":"FACT CHECK"}
+    spaced(d, M, 174, labels.get(kind, "THE STORY / EXPLAINED"), sans(22, 800), accent, 2)
+    title_en = str(info.get("title") or c.en or "THE STORY").strip()[:115]
+    y = 220
+    for line_text in wrap(title_en.upper(), sans(48, 800), W-2*M)[:2]:
+        d.text((M, y), line_text, font=sans(48, 800), fill=ink)
+        y += 58
+    title_ur = str(info.get("title_ur") or c.ur or "").strip()
+    if title_ur:
+        for line_text in wrap(title_ur, urdu(39), W-2*M)[:2]:
+            d.text((W-M, y+3), line_text, font=urdu(39), fill=ink, anchor="ra",
+                   direction="rtl", language="ur")
+            y += 58
+
+    # Transition into a calm editorial canvas.
+    body_top = hero_h + 22
+    d.rectangle((M, body_top, M+70, body_top+5), fill=accent)
+    rows_key = "evidence_points" if kind == "factcheck" else ("timeline" if kind == "timeline" else "points")
+    rows = [x for x in (info.get(rows_key) or info.get("points") or []) if isinstance(x, dict)][:3]
+    if kind == "data":
+        rows = [x for x in (info.get("data_points") or info.get("points") or []) if isinstance(x, dict)][:3]
+    y = body_top + 26
+    available_bottom = 1110
+    if kind == "data":
+        # No decorative pseudo-chart: display only the sourced values actually supplied.
+        series = [x for x in (info.get("history") or info.get("series") or []) if isinstance(x, dict)][-3:]
+        rows = series or rows
+    card_h = 178 if len(rows) >= 3 else (218 if len(rows) == 2 else 250)
+    gap = 14
+    for idx, row in enumerate(rows):
+        if y + card_h > available_bottom:
+            break
+        d.rounded_rectangle((M, y, W-M, y+card_h), radius=20, fill=panel, outline=line, width=2)
+        d.rounded_rectangle((M+20, y+22, M+82, y+84), radius=16, fill=accent)
+        d.text((M+51, y+53), f"{idx+1:02d}", font=sans(24, 800), fill=bg, anchor="mm")
+        label = str(row.get("label") or row.get("date") or
+                    ("THE CLAIM" if kind == "factcheck" and idx == 0 else f"KEY POINT {idx+1}"))[:48]
+        d.text((M+105, y+28), label.upper(), font=sans(20, 800), fill=accent)
+        en = str(row.get("text") or row.get("fact") or row.get("display_value") or row.get("value") or "")[:190]
+        ty = y+68
+        for line_text in wrap(en, sans(22, 500), W-2*M-58)[:2]:
+            d.text((M+28, ty), line_text, font=sans(22, 500), fill=ink)
+            ty += 30
+        ur = str(row.get("text_ur") or row.get("fact_ur") or "").strip()
+        if ur and ty+42 < y+card_h-14:
+            for line_text in wrap(ur, urdu(26), W-2*M-58)[:1]:
+                d.text((W-M-24, ty+5), line_text, font=urdu(26), fill="#E8D8B6",
+                       anchor="ra", direction="rtl", language="ur")
+        source = str(row.get("source") or "")
+        if source:
+            d.text((M+28, y+card_h-18), source[:58], font=sans(14, 600), fill=muted, anchor="ls")
+        y += card_h + gap
+
+    # Source/date strip; never imply an unsupported visual fact.
+    note = str(info.get("period_note") or info.get("source_note") or c.source or "")[:155]
+    footer_y = 1142
+    d.line((M, footer_y, W-M, footer_y), fill=line, width=2)
     if note:
-        d.rounded_rectangle((M,footer_y,W-M,footer_y+72),radius=16,fill="#182231",outline=track,width=1)
-        d.text((M+18,footer_y+13),"SOURCE & TIME PERIOD",font=sans(15,800),fill=accent)
-        for j,line in enumerate(wrap(note,sans(15,500),W-2*M-36)[:2]):
-            d.text((M+18,footer_y+37+j*19),line,font=sans(15,500),fill=sub)
-    d.line((M,1220,W-M,1220),fill=track,width=2)
-    social_footer(c.img,W//2,1232,ink,sub)
-    c.d=ImageDraw.Draw(c.img)
+        d.text((M, footer_y+18), "SOURCES & CONTEXT", font=sans(15, 800), fill=accent)
+        for j, line_text in enumerate(wrap(note, sans(15, 500), W-2*M)[:2]):
+            d.text((M, footer_y+43+j*20), line_text, font=sans(15, 500), fill=muted)
+    d.line((M, 1260, W-M, 1260), fill=line, width=2)
+    social_footer(im, W//2, 1280, ink, muted)
+    c.img = im
+    c.d = ImageDraw.Draw(c.img)
 
 
 class Ctx:
