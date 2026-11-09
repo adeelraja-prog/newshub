@@ -462,6 +462,19 @@ STRICT EDITORIAL SCOPE:
 - Distinguish a consequential provincial story from a routine local item by impact, scale, evidence and public interest.
 - International stories need not mention Pakistan if genuinely globally significant.
 - Routine celebrity gossip, social trends and recycled clips are not news without major public-interest significance.
+PUBLIC-AFFAIRS PRIORITY AND PRESS-RELEASE FILTER:
+- Give serious editorial attention to Imran Khan, PTI, opposition politics, access to political prisoners,
+  court proceedings, Supreme Court and High Court orders, judicial independence, constitutional disputes,
+  election legitimacy, civil liberties, media freedom, accountability and major public protests.
+- Do not allow routine government publicity to crowd these subjects out of the national desk.
+- A government press release is a source lead, NOT automatically a news story. Routine announcements,
+  meetings, ceremonial launches, inaugurations, routine transfers, directions to officials, job/scheme publicity
+  and claims of achievements must not be labelled major merely because a minister or department announced them.
+- Hold publicity-led announcements unless there is a material policy/legal change, independently verified
+  implementation, measurable public consequence, significant budget/cost, court/parliamentary scrutiny,
+  documented failure, or strong independent corroboration.
+- Prefer what changed for citizens, who is affected, what legal authority applies, what evidence exists,
+  what has not been delivered, and what happens next. Do not rewrite press-release language as journalism.
 DIGITAL-FIRST TWO-LANE EDITORIAL MODEL:
 - We serve digital audiences, not a legacy bulletin. Assess public importance AND digital audience interest separately.
 - LANE A — IMPORTANT NEWS: national, major provincial/territory, or major international developments.
