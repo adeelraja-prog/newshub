@@ -40,7 +40,7 @@ jobs:
           pip install -r news-hub/requirements-reels.txt
       - name: Validate Reel editor syntax
         working-directory: news-hub
-        run: python -m py_compile reels_main.py
+        run: python -m py_compile reels_main.py reels/yt.py reels/asr.py reels/clips.py reels/render.py reels/fb.py
       - name: Restore persistent Reel queue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -77,7 +77,7 @@ jobs:
           REEL_STATE_FILE: /tmp/reels-state/clips-processed.json
           REEL_REPORT_DIR: /tmp/reels-state/reports
           REEL_RUN_MODE: publish
-          REEL_MODE: blur
+          REEL_MODE: fill
           REEL_MIN_GAP_MINUTES: "360"
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
