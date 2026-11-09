@@ -63,6 +63,9 @@ jobs:
         run: |
           if [ -n "$YT_COOKIES" ]; then
             printf '%s' "$YT_COOKIES" > news-hub/cookies.txt
+            echo "YouTube cookie file supplied to the downloader."
+          else
+            echo "::warning::YT_COOKIES is not configured; queued video downloads may be blocked."
           fi
       - name: Render and publish one queued Reel to Facebook
         working-directory: news-hub
