@@ -1,5 +1,15 @@
 name: news-hub
 on:
+  push:
+    paths:
+      - ".github/workflows/hourly.yml"
+      - "news-hub/main.py"
+      - "news-hub/editorial.py"
+      - "news-hub/editorial_policy.py"
+      - "news-hub/editorial_quality.py"
+      - "news-hub/sources.py"
+      - "news-hub/poster.py"
+      - "news-hub/news_reels.py"
   schedule:
     - cron: "*/10 * * * *"
   workflow_dispatch:
@@ -44,7 +54,7 @@ jobs:
       - run: python main.py
         env:
           STATE_DIR: /tmp/data
-          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+          DRY_RUN: ${{ github.event_name == 'push' && '1' || (github.event.inputs.dry_run == 'true' && '1' || '') }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
@@ -58,7 +68,7 @@ jobs:
           WHATSAPP_BRIDGE_URL: ${{ secrets.WHATSAPP_BRIDGE_URL }}
           WHATSAPP_BRIDGE_TOKEN: ${{ secrets.WHATSAPP_BRIDGE_TOKEN }}
       - name: Download posters and report (dry run preview)
-        if: ${{ always() && github.event.inputs.dry_run == 'true' }}
+        if: ${{ always() && (github.event_name == 'push' || github.event.inputs.dry_run == 'true') }}
         uses: actions/upload-artifact@v4
         with:
           name: posters-and-report
@@ -67,7 +77,7 @@ jobs:
             news-hub/reports/
           if-no-files-found: ignore
       - name: Save memory
-        if: ${{ always() && github.event.inputs.dry_run != 'true' }}
+        if: ${{ always() && github.event_name != 'push' && github.event.inputs.dry_run != 'true' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
