@@ -1156,10 +1156,12 @@ def editorial_image(item, tag):
                 info = (page.get("imageinfo") or [{}])[0]
                 meta = info.get("extmetadata") or {}
                 license_name = re.sub("<[^>]+>", "", (meta.get("LicenseShortName") or {}).get("value", ""))
-                if re.search(r"CC0|Public domain", license_name, re.I):
+                if re.search(r"CC0|Public domain|CC BY(?:-SA)?", license_name, re.I):
                     url = info.get("thumburl") or info.get("url")
                     if url:
-                        found.append((url, "Wikimedia Commons"))
+                        artist=re.sub("<[^>]+>","",(meta.get("Artist") or {}).get("value","")).strip()
+                        attribution=f"Image: {artist or 'Wikimedia Commons contributor'} · {license_name} (Commons)"
+                        found.append((url, attribution))
             return found
         except Exception as ex:
             print(f"[image] Commons lookup unavailable: {ex}")
