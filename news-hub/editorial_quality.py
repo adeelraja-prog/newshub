@@ -15,7 +15,9 @@ import xml.etree.ElementTree as ET
 PROMO_CUES = (
     "inaugurates", "launched", "launches", "distributes", "distributed",
     "hands over", "hands out", "announces", "announced", "approves", "approved", "pledges", "directs", "orders", "reviews",
-    "holds meeting", "chairs meeting", "inauguration", "ceremony", "historic achievement",
+    "decides", "decided", "decision to", "takes decision", "plans to", "plans new", "introduces", "introduced",
+    "sets up", "set up", "establishes", "established", "unveils", "unveiled", "raises", "increases",
+    "holds meeting", "chairs meeting", "inauguration", "ceremony", "historic achievement", "special package",
     "record achievement", "landmark initiative", "under the leadership",
     "vision of", "special initiative", "government initiative", "laptop scheme",
     "free laptops", "scholarship scheme", "development package",
@@ -24,8 +26,8 @@ PROMO_CUES = (
 )
 ACCOUNTABILITY_CUES = (
     "audit", "procurement", "tender", "contract", "cost", "budget",
-    "delay", "shortage", "shortfall", "beneficiaries", "delivered",
-    "delivery", "failed", "inquiry", "investigation", "court", "overrun",
+    "delay", "shortage", "shortfall", "failed", "inquiry", "investigation", "court", "overrun",
+    "probe", "challenged", "lawsuit", "protest", "criticism", "not implemented", "not delivered",
     "corruption", "mismanagement", "unavailable", "not delivered",
     "آڈٹ", "ٹینڈر", "لاگت", "بجٹ", "تاخیر", "قلت", "فراہم", "تحقیقات",
     "عدالت", "بدانتظامی", "کرپشن",
@@ -54,9 +56,10 @@ def assess_story(story):
                         int(story.get("national_impact") or 0),
                         int(story.get("regional_impact") or 0)) >= 70
     government_actor = any(term in text for term in (
-        "government", "govt", "federal govt", "provincial govt", "chief minister", "cm ", "minister",
-        "punjab government", "federal government", "provincial government", "government department",
-        "public department", "وزیر", "حکومت",
+        "government", "govt", "federal govt", "provincial govt", "chief minister", "cm ", "prime minister",
+        "federal cabinet", "provincial cabinet", "ministry", "minister", "punjab govt", "sindh govt",
+        "kpk govt", "balochistan govt", "punjab government", "federal government", "provincial government",
+        "government department", "public department", "وزیر", "حکومت",
         "وزیراعلیٰ", "صوبائی حکومت", "وفاقی حکومت"
     ))
     soft_pr = bool(promo) and government_actor and (official or not accountability)
