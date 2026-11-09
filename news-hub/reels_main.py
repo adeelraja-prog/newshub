@@ -1,4 +1,4 @@
-import json,shutil,traceback,os,re,subprocess
+import json,shutil,traceback,os,re,subprocess,hashlib
 from datetime import datetime,timezone
 from pathlib import Path
 from reels import config as C, yt, asr, clips, render, fb
@@ -47,11 +47,24 @@ def scan_and_queue(state):
     already=set(state["done"]) | set(state["queued_video_ids"])
     blocked=state.setdefault("blocked",{})
     if yt.COOKIE_FILE.exists():
+        try: cookie_fingerprint=hashlib.sha256(yt.COOKIE_FILE.read_bytes()).hexdigest()
+        except Exception: cookie_fingerprint=None
+        if cookie_fingerprint and cookie_fingerprint!=state.get("cookie_fingerprint"):
+            blocked.clear()
+            state["cookie_fingerprint"]=cookie_fingerprint
+            for video in backlog: state["failed"].pop(video["id"],None)
+            print("[yt] YouTube cookie file changed; retrying previously blocked uploads")
+    else:
+        state["cookie_fingerprint"]=None
         for video in backlog:
-            blocked.pop(video["id"],None)
-            state["failed"][video["id"]]=0
+            if video["id"] not in already:
+                blocked[video["id"]]="YT_COOKIES secret is not configured"
+                state["failed"].pop(video["id"],None)
+        save_state(state)
+        print("[yt] YT_COOKIES is missing. Channel discovery works, but GitHub-hosted downloads require a valid YouTube session; no videos will be discarded or repeatedly retried.")
+        return
     pending=[v for v in backlog if v["id"] not in already and state["failed"].get(v["id"],0)<3
-             and (yt.COOKIE_FILE.exists() or v["id"] not in blocked)]
+             and v["id"] not in blocked]
     print(f"[yt] {len(backlog)} recent uploads found; {len(pending)} not yet queued")
     for video in pending[:C.MAX_VIDEOS_PER_RUN]:
         folder=C.WORK/video["id"]; folder.mkdir(parents=True,exist_ok=True)
