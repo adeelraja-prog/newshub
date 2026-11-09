@@ -7,6 +7,18 @@ import poster
 
 
 class MobileValuePosterTests(unittest.TestCase):
+    def test_new_bilingual_cover_renders_with_and_without_a_photo(self):
+        with tempfile.TemporaryDirectory() as folder:
+            photo=os.path.join(folder,"source.jpg")
+            Image.new("RGB",(900,600),(70,90,120)).save(photo)
+            for index, source_photo in enumerate((None,photo)):
+                path=os.path.join(folder,f"cover-{index}.jpg")
+                poster.render("پاکستان میں نئی اہم پیش رفت","A major development in Pakistan",
+                              "politics",False,["Dawn"],"@adeelrajaviews",path,person=source_photo)
+                with Image.open(path) as image:
+                    self.assertEqual(image.size,(1080,1350))
+                    self.assertEqual(image.format,"JPEG")
+
     def test_explainer_data_and_timeline_render_as_phone_cards(self):
         cases = [
             {"type": "explainer", "title": "What changed?", "points": [
