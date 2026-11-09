@@ -45,26 +45,13 @@ def scan_and_queue(state):
         except Exception as exc: print(f"[yt] channel scan failed for {channel}: {exc}")
     backlog.sort(key=lambda v:(v.get("sort_date") or v.get("upload_date") or "",v["channel"],v["id"]),reverse=True)
     already=set(state["done"]) | set(state["queued_video_ids"])
-    blocked=state.setdefault("blocked",{})
+    # Attempt public, unauthenticated yt-dlp downloads first; cookies are optional.
     if yt.COOKIE_FILE.exists():
-        try: cookie_fingerprint=hashlib.sha256(yt.COOKIE_FILE.read_bytes()).hexdigest()
-        except Exception: cookie_fingerprint=None
-        if cookie_fingerprint and cookie_fingerprint!=state.get("cookie_fingerprint"):
-            blocked.clear()
-            state["cookie_fingerprint"]=cookie_fingerprint
-            for video in backlog: state["failed"].pop(video["id"],None)
-            print("[yt] YouTube cookie file changed; retrying previously blocked uploads")
+        print("[yt] optional cookie file detected; downloader will use it")
     else:
-        state["cookie_fingerprint"]=None
-        for video in backlog:
-            if video["id"] not in already:
-                blocked[video["id"]]="YT_COOKIES secret is not configured"
-                state["failed"].pop(video["id"],None)
-        save_state(state)
-        print("[yt] YT_COOKIES is missing. Channel discovery works, but GitHub-hosted downloads require a valid YouTube session; no videos will be discarded or repeatedly retried.")
-        return
+        print("[yt] no cookie file; attempting public unauthenticated YouTube download")
     pending=[v for v in backlog if v["id"] not in already and state["failed"].get(v["id"],0)<3
-             and v["id"] not in blocked]
+             ]
     print(f"[yt] {len(backlog)} recent uploads found; {len(pending)} not yet queued")
     for video in pending[:C.MAX_VIDEOS_PER_RUN]:
         folder=C.WORK/video["id"]; folder.mkdir(parents=True,exist_ok=True)
@@ -93,9 +80,8 @@ def scan_and_queue(state):
         except Exception as exc:
             traceback.print_exc()
             if "YOUTUBE_AUTH_REQUIRED" in str(exc):
-                state.setdefault("blocked",{})[video["id"]]=str(exc)[:500]
                 state["failed"][video["id"]]=0
-                print(f"[clips] paused {video['id']} without consuming retries; waiting for YT_COOKIES")
+                print(f"[clips] paused {video['id']} without consuming retries; a later anonymous retry")
             else:
                 state["failed"][video["id"]]=state["failed"].get(video["id"],0)+1
                 print(f"[clips] failed to analyse {video['id']}: {exc}")
