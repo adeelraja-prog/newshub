@@ -18,7 +18,7 @@ class EditorialQualityTests(unittest.TestCase):
         self.assertEqual(q.assess_story(s)["decision"],"research_required")
 
     def test_documented_material_tariff_decision_can_pass_pr_hold(self):
-        s={"event":"NEPRA approves new electricity tariff under notified policy",
+        s={"event":"Government approves new electricity tariff under notified policy",
            "original_source":{"type":"official_document"},"public_interest":90,
            "national_impact":90,"corroborating":[]}
         self.assertEqual(q.assess_story(s)["decision"],"eligible_for_normal_review")
