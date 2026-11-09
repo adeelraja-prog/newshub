@@ -1123,7 +1123,15 @@ def editorial_image(item, tag):
     # The original publisher's RSS/OG image is one candidate, not an exclusive source.
     if item.get("image_url"):
         candidates.append((item["image_url"], f"Image: {item.get('source_name') or 'original publisher'}"))
-    # Ask Google Images and Commons in parallel; no fixed publisher-vs-search preference.
+    # Prefer the article's own lead image first; search fallbacks are used only if it fails.
+    if item.get("image_url"):
+        direct_path,direct_credit=download_editorial_image(
+            item["image_url"],item,tag,f"Image: {item.get('source_name') or 'original publisher'}")
+        if direct_path:
+            print(f"[image] publisher lead image selected for {item.get('headline','')[:80]}")
+            return direct_path,direct_credit
+        print(f"[image] publisher lead image unavailable; searching licensed alternatives for {item.get('headline','')[:80]}")
+    # Search openly licensed image libraries when the publisher does not provide a usable image.
     def openverse_candidates():
         # Free, keyless image search API. Results are filtered to openly licensed works.
         entities=(item.get("meta") or {}).get("entities") or {}
