@@ -136,10 +136,11 @@ def pkt(dt):
 # ---------- 1. collect ----------
 def collect_new(state):
     t0 = now()
-    since = t0 - timedelta(hours=12)
+    # Strict freshness: a 10-minute poll must not make undated/old stories look new.
+    since = t0 - timedelta(hours=fnum("INGEST_LOOKBACK_HOURS", 3))
     if state.get("last_run"):
         since = max(since, parse(state["last_run"]))
-    since -= timedelta(minutes=10)
+    since -= timedelta(minutes=12)
     seen = state.setdefault("seen", {})
     items, ids = [], set()
     stats = {}
@@ -159,8 +160,12 @@ def collect_new(state):
             iid = ed.hashlib.sha1(ed.canonical_url(link).encode()).hexdigest()[:12]
             if iid in seen or iid in ids:
                 continue
-            ts = entry_time(e) or t0
-            if ts < since:
+            ts = entry_time(e)
+            # Missing timestamps are not proof of freshness: reject instead of stamping now.
+            if ts is None:
+                stats[src["name"] + " · missing timestamp"] = stats.get(src["name"] + " · missing timestamp", 0) + 1
+                continue
+            if ts > t0 + timedelta(minutes=5) or ts < since:
                 continue
             snippet = clean(e.get("summary", ""))[:300]
             name = src["name"]
