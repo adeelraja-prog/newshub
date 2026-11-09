@@ -80,10 +80,22 @@ def pick(segs,n):
             e=min(segs,key=lambda x:abs(x["end"]-float(c["end"])))["end"]
         except Exception: continue
         hook=(c.get("hook") or "").strip()
-        if not (C.CLIP_MIN<=e-s<=C.CLIP_MAX) or not hook or hook not in " ".join(x["text"] for x in segs): continue
-        if any(not(e<=x["start"] or s>=x["end"]) for x in chosen): continue
+        caption=(c.get("caption") or "").strip()
         source_text=" ".join(x["text"] for x in segs if x["start"]>=s-0.05 and x["end"]<=e+0.05)
+        # Reject weak, mistranscribed, Roman-Urdu or Hindi-script packaging instead of
+        # allowing an AI fallback to put visibly broken Urdu on the Page.
+        def urdu_ok(value):
+            value=str(value or "")
+            if any("\\u0900" <= ch <= "\\u097f" for ch in value): return False
+            urdu=sum(1 for ch in value if "\\u0620" <= ch <= "\\u06ff")
+            latin=sum(1 for ch in value if ch.isascii() and ch.isalpha())
+            return urdu>=4 and urdu>=latin
+        if not (C.CLIP_MIN<=e-s<=C.CLIP_MAX) or not hook or hook not in " ".join(x["text"] for x in segs): continue
+        if not urdu_ok(hook) or not urdu_ok(caption): 
+            print("[clips] rejected candidate: hook/caption is not clean Urdu script")
+            continue
+        if any(not(e<=x["start"] or s>=x["end"]) for x in chosen): continue
         if len(source_text.split())<12: continue
-        chosen.append({"start":s,"end":e,"hook":hook,"caption":(c.get("caption") or source_text),"source_text":source_text})
+        chosen.append({"start":s,"end":e,"hook":hook,"caption":caption,"source_text":source_text})
         if len(chosen)>=n: break
     return chosen
