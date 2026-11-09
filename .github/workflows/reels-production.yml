@@ -107,7 +107,7 @@ jobs:
           REEL_CHANNELS: ${{ vars.REEL_LONGFORM_CHANNELS || '@adeelrajaviews' }}
           REEL_MAX_VIDEOS: "3"
           REEL_RUN_MODE: scan
-          REEL_MODE: fill
+          REEL_MODE: blur
           REEL_CLIPS_PER_VIDEO: "3"
           REEL_LOOKBACK_DAYS: "7"
           REEL_SCAN_LIMIT: "30"
