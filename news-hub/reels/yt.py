@@ -4,6 +4,8 @@ from pathlib import Path
 import requests,feedparser
 from . import config as C
 
+KNOWN_CHANNEL_IDS = {"@adeelrajaviews": "UCS5Lljc_YNJU4aLXGMCYAOQ"}
+
 def _base(public_client=True):
     # Public, unauthenticated YouTube extractor clients only.
     args=["yt-dlp","--no-warnings","--ignore-errors"]
@@ -59,8 +61,8 @@ def _rss_videos(channel_id,handle,cutoff):
         print(f"[yt] {handle}: RSS supplied {len(videos)} dated recent uploads")
         return videos
     except Exception as exc:
-        print(f"[yt] {handle}: channel RSS fallback unavailable: {str(exc)[:350]}")
-        return []
+        print(f"[yt] {handle}: RSS unavailable: {str(exc)[:350]}")
+        return None
 
 def recent_videos(handle,lookback_days=None,limit=None):
     """Discover public channel uploads, preferring RSS dates over per-video metadata calls."""
@@ -68,17 +70,21 @@ def recent_videos(handle,lookback_days=None,limit=None):
     count=limit or C.SCAN_LIMIT
     url=f"https://www.youtube.com/{handle}/videos"
     cutoff=datetime.now(timezone.utc).date()-timedelta(days=days)
+    known_id=KNOWN_CHANNEL_IDS.get(handle.lower())
+    if known_id:
+        rss=_rss_videos(known_id,handle,cutoff)
+        if rss is not None: return rss[-count:]
     try:
         listing=_run_json(_base()+["--flat-playlist","--playlist-end",str(count),"-J",url],timeout=240)
     except Exception as exc:
         raise RuntimeError(f"[yt] public channel listing failed for {handle}: {exc}")
     entries=[e for e in (listing.get("entries") or []) if isinstance(e,dict) and e.get("id")]
     channel_id=listing.get("channel_id") or listing.get("id")
-    if channel_id:
+    if channel_id and str(channel_id)!=known_id:
         rss=_rss_videos(str(channel_id),handle,cutoff)
-        if rss: return rss[-count:]
+        if rss is not None: return rss[-count:]
     videos=[]; missing_dates=0; detail_failures=0
-    for entry in entries:
+    for entry in entries[:min(count,25)]:
         video_id=entry["id"]
         uploaded=_upload_date(entry)
         title=entry.get("title") or ""
