@@ -245,7 +245,6 @@ def render_story(item,folder):
         p=folder/f"slide_{i:02d}.jpg"
         make_slide(p,category,eyebrow,main,secondary,is_urdu,i,len(slides),photo); paths.append(p)
     outro=folder/"adeel_raja_outro.jpg"; make_outro(outro); paths.append(outro)
-    cursor=folder/"editorial_cursor.png"; make_cursor(cursor)
     out=folder/"news_story_reel.mp4"; music=folder/"original_news_bed.wav"
     # Slow editorial pacing: six seconds per story beat plus a two-second outro.
     # The previous 4.2-second beats still felt rushed on a phone screen.
@@ -254,7 +253,7 @@ def render_story(item,folder):
     inputs=[]
     for idx,p in enumerate(paths):
         inputs += ["-loop","1","-t",f"{scene if idx<3 else outro_time:.2f}","-i",str(p)]
-    inputs += ["-i",str(music),"-loop","1","-t",f"{duration:.2f}","-i",str(cursor)]
+    inputs += ["-i",str(music)]
     graph=(
       "[0:v]zoompan=z='min(zoom+0.00038,1.070)':d=180:s=1080x1920:fps=30,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,setsar=1,format=yuv420p[v0];"
@@ -268,10 +267,7 @@ def render_story(item,folder):
       "[x2][v3]xfade=transition=wipeleft:duration=0.4:offset=16.8,"
       "settb=AVTB,setpts=PTS-STARTPTS,fps=30,"
       "drawbox=x=0:y=0:w='iw*min(t/18.7,1)':h=10:color=0xD90429@0.98:t=fill[base];"
-      "[5:v]scale=78:96,format=rgba,colorchannelmixer=aa=0.98[cur];"
-      "[base][cur]overlay=x='if(lt(t,6),170+77*t,if(lt(t,12),632-70*(t-6),212+50*(t-12)))':"
-      "y='if(lt(t,6),690+15*sin(t*1.2),if(lt(t,12),910-17*sin(t*1.2),700+12*sin(t*1.2)))':"
-      "enable='between(t,0.55,18.2)'[v];"
+      "[base]format=yuv420p[v];"
       "[4:a]aresample=44100,afade=t=in:st=0:d=0.3,"
       "afade=t=out:st=18.5:d=0.5,volume=0.9[a]"
     )
@@ -281,7 +277,7 @@ def render_story(item,folder):
         "-movflags","+faststart",str(out)],capture_output=True,text=True,timeout=600)
     if result.returncode or not out.exists():
         raise RuntimeError("Animated news Reel render failed: "+result.stderr[-2000:])
-    print(f"[news-reels] rendered photo-led Reel ({'lead image' if photo else 'graphic fallback'}), 6.0s reading beats, 2.0s outro, slower camera motion, moving editorial pointer and progress rail; total {duration:.1f}s")
+    print(f"[news-reels] rendered photo-led Reel ({'lead image' if photo else 'graphic fallback'}), 6.0s reading beats, 2.0s outro, slower camera motion and progress rail, no cursor overlay; total {duration:.1f}s")
     return out, opening
 
 def post_reel(video,caption,title):
