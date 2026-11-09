@@ -3,8 +3,10 @@ from . import config as C
 
 PROMPT="""Select the {n} best NON-OVERLAPPING Urdu video moments from this timestamped transcript.
 Each clip must be {mn}-{mx} seconds, start/end at transcript segment boundaries, start with a strong hook and end after a complete thought.
-Prefer self-contained news developments, explanations, strong arguments, revelations, clear questions and answers.
-Reject greetings, incomplete sentences, repeated material, context-dependent fragments and clips that need missing footage.
+Prefer complete, self-contained story arcs: identify where each distinct story begins, include its essential context and outcome, and stop only after the point is fully made.
+Prioritise distinct stories within a multi-topic vlog; never split one story arbitrarily to fill the quota.
+Reject greetings, incomplete sentences, repeated material, context-dependent fragments, teasers without payoff, and clips that need missing footage.
+If fewer than {n} genuinely complete, non-overlapping stories exist, return fewer clips. Quality is more important than filling the quota.
 Do not invent facts, quotes, names or numbers. Hook must be an exact short Urdu phrase from the transcript.
 Return one JSON object: {{"clips":[{{"start":number,"end":number,"hook":"exact Urdu phrase","caption":"factual Urdu caption based only on transcript"}}]}}."""
 
@@ -68,7 +70,11 @@ def _fallback(segs):
 
 def pick(segs,n):
     chosen=[]
-    for c in _ask(segs,n)+_fallback(segs):
+    ai_candidates=_ask(segs,n)
+    if not ai_candidates:
+        print("[clips] no AI editorial selection available; refusing arbitrary time-window clips")
+        return []
+    for c in ai_candidates:
         try:
             s=min(segs,key=lambda x:abs(x["start"]-float(c["start"])))["start"]
             e=min(segs,key=lambda x:abs(x["end"]-float(c["end"])))["end"]
