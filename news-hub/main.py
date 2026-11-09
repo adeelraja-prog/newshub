@@ -256,6 +256,10 @@ def fetch_trends():
         page=html.unescape(page)
         stamp=re.search(r"Trending now\s*[—-]\s*([A-Za-z]{3} \d{1,2}, \d{4} \d{2}:\d{2} UTC)",page)
         if not stamp:
+            # Some page layouts are not retained by article extraction; retry against server-rendered HTML text.
+            page=html.unescape(re.sub(r"<[^>]+>","\n",xr.text))
+            stamp=re.search(r"Trending now\s*[—-]\s*([A-Za-z]{3} \d{1,2}, \d{4} \d{2}:\d{2} UTC)",page)
+        if not stamp:
             raise ValueError("X trend snapshot has no verifiable update timestamp")
         observed=datetime.strptime(stamp.group(1),"%b %d, %Y %H:%M UTC").replace(tzinfo=timezone.utc)
         age=(datetime.now(timezone.utc)-observed).total_seconds()/3600
