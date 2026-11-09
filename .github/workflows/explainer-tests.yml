@@ -8,6 +8,7 @@ on:
       - "news-hub/editorial_quality.py"
       - "news-hub/tests/test_mobile_posters.py"
       - "news-hub/tests/test_editorial_quality.py"
+      - "news-hub/tests/test_language_validation.py"
       - "news-hub/reels/yt.py"
       - "news-hub/reels/clips.py"
       - "news-hub/reels/render.py"
