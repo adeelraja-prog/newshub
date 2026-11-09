@@ -631,7 +631,7 @@ def render_mobile_value_card(c, info):
                 xx=left+int(i*(right-left)/max(1,len(vals)-1))
                 yy=chart_bottom-int((v-vmin)/span*(chart_bottom-chart_top))
                 coords.append((xx,yy,v))
-            if len(coords)>1:d.line(coords,fill=accent,width=8,joint="curve")
+            if len(coords)>1:d.line([(xx,yy) for xx,yy,_ in coords],fill=accent,width=8,joint="curve")
             for xx,yy,value in coords:
                 d.ellipse((xx-10,yy-10,xx+10,yy+10),fill=ink,outline=accent,width=4)
                 d.text((xx,yy-26),f"{value:,.0f}",font=sans(17,800),fill=ink,anchor="ms")
