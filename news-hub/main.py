@@ -249,6 +249,7 @@ def fetch_trends():
                 break
         except Exception as ex:
             print(f"[warn] Google Trends feed failed: {ex}")
+    # Accept only ranked topics from a fresh snapshot; never treat a trend as evidence.
     try:
         xurl="https://twitter-trends.snaplytics.io/pakistan/"
         xr=requests.get(xurl,headers=UA,timeout=20); xr.raise_for_status()
