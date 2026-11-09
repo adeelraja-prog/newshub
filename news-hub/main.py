@@ -254,23 +254,23 @@ def fetch_trends():
         xr=requests.get(xurl,headers=UA,timeout=20); xr.raise_for_status()
         page=(trafilatura.extract(xr.text) if trafilatura else "") or re.sub(r"<[^>]+>","\n",xr.text)
         page=html.unescape(page)
-        stamp=re.search(r"Trending now\\s*[—-]\\s*([A-Za-z]{3} \\d{1,2}, \\d{4} \\d{2}:\\d{2} UTC)",page)
+        stamp=re.search(r"Trending now\s*[—-]\s*([A-Za-z]{3} \d{1,2}, \d{4} \d{2}:\d{2} UTC)",page)
         if not stamp:
             raise ValueError("X trend snapshot has no verifiable update timestamp")
         observed=datetime.strptime(stamp.group(1),"%b %d, %Y %H:%M UTC").replace(tzinfo=timezone.utc)
         age=(datetime.now(timezone.utc)-observed).total_seconds()/3600
         if age < -0.25 or age > 3:
             raise ValueError(f"X trend snapshot is stale ({age:.1f} hours old)")
-        section=re.search(r"Trending now[^\\n]*\\n(.*?)(?:\\n(?:1 hour ago|1 hours ago|Trending 1 hour ago|###))",page,re.S|re.I)
+        section=re.search(r"Trending now[^\n]*\n(.*?)(?:\n(?:1 hour ago|1 hours ago|Trending 1 hour ago|###))",page,re.S|re.I)
         if not section:
             raise ValueError("could not isolate current X trend list")
         count=0
         for line in section.group(1).splitlines():
-            hit=re.match(r"\\s*(\\d{1,2})[.)]\\s+(.*)",line)
+            hit=re.match(r"\s*(\d{1,2})[.)]\s+(.*)",line)
             if not hit: continue
             rank=int(hit.group(1))-1
-            topic=re.sub(r"^#\\d+\\s*","",hit.group(2)).strip()
-            topic=re.sub(r"\\s+(?:Politics|Sports|Football|Entertainment|Business & finance)\\s*·?.*$","",topic,flags=re.I)
+            topic=re.sub(r"^#\d+\s*","",hit.group(2)).strip()
+            topic=re.sub(r"\s+(?:Politics|Sports|Football|Entertainment|Business & finance)\s*·?.*$","",topic,flags=re.I)
             topic=clean(topic)
             if not topic or rank<0 or rank>=50: continue
             out.append({"query":topic,"traffic":"","rank":rank,"source":"X Pakistan Trends",
