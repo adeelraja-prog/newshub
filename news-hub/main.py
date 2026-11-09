@@ -770,6 +770,36 @@ Return JSON: {"checks": [{"n": 1, "verdict": "ok" or "unsupported", "issues": ["
 """ + "\n\n".join(blocks)
 
 
+
+def _history_date_variants(value):
+    try:
+        day=datetime.strptime(str(value)[:10],"%Y-%m-%d")
+    except (TypeError,ValueError):
+        return []
+    return [
+        day.strftime("%Y-%m-%d"), day.strftime("%d %B %Y"), day.strftime("%B %d, %Y"),
+        day.strftime("%d %b %Y"), day.strftime("%b %d, %Y"),
+        day.strftime("%d %B"), day.strftime("%B %d"), day.strftime("%d-%m-%Y")
+    ]
+
+
+def _history_row_matches_source(row, article_text):
+    """Require the exact numeric value and effective date to appear in the cited article."""
+    text=str(article_text or "").lower()
+    if not text or not isinstance(row,dict):
+        return False
+    try:
+        value=float(row.get("value"))
+    except (TypeError,ValueError):
+        return False
+    number_variants={f"{value:g}",f"{value:.2f}",f"{value:.1f}"}
+    display=str(row.get("display_value") or "")
+    number_variants.update(re.sub(r",","",x) for x in re.findall(r"\d[\d,]*(?:\.\d+)?",display))
+    number_match=any(re.search(r"(?<!\d)"+re.escape(v)+r"(?!\d)",text) for v in number_variants if v)
+    date_match=any(v.lower() in text for v in _history_date_variants(row.get("date")))
+    return number_match and date_match
+
+
 def fact_check(stories, written):
     """Returns (verified, failed). 'failed' = no verdict because the check itself failed (story can be retried)."""
     if not written:
@@ -797,7 +827,28 @@ def fact_check(stories, written):
             excerpt, resolved = eq.extract_research_article(url)
             if excerpt:
                 research_texts.append({"date": row.get("date"), "source": row.get("source"),
-                                       "url": resolved, "article_text": excerpt[:1800]})
+                                       "url": resolved, "requested_url": url, "article_text": excerpt[:1800]})
+        if str(value_addition_obj.get("type") or "")=="data":
+            history=value_addition_obj.get("history") or value_addition_obj.get("series") or []
+            if history:
+                source_text_by_url={}
+                for source_record in research_texts:
+                    source_text_by_url[source_record.get("requested_url")]=source_record.get("article_text","")
+                    source_text_by_url[source_record.get("url")]=source_record.get("article_text","")
+                verified_rows=[]
+                for row in history:
+                    source_text=source_text_by_url.get(row.get("url"),"")
+                    if _history_row_matches_source(row,source_text):
+                        verified_rows.append(row)
+                    else:
+                        print(f"[fact-check] historical data point rejected: {row.get('date')} {row.get('display_value') or row.get('value')} not found in cited article text")
+                if len(verified_rows)<3:
+                    print(f"[fact-check] historical chart removed for item {n}: fewer than three values independently matched to cited article text")
+                    value_addition_obj={"type":"none","reason":"Historical dates and prices did not pass deterministic source-text verification."}
+                else:
+                    value_addition_obj["history"]=verified_rows
+                    value_addition_obj.pop("series",None)
+                value_addition=json.dumps(value_addition_obj,ensure_ascii=False)
         blocks[n] = (f"ITEM {n}\nSOURCE TEXT: {heads} || {s_['excerpt'][:1500] or 'headlines only'}"
                      f"\nSUPPLIED SOURCE URLS: {source_refs}\nHISTORICAL RESEARCH SOURCE TEXTS: {research_texts}"
                      f"\nCAPTION: {cap}\nVALUE ADDITION: {value_addition}")
