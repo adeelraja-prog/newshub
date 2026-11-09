@@ -30,10 +30,9 @@ SOURCES = [
     gnews("Pakistan opposition Governor rule Khyber Pakhtunkhwa parliament political crisis when:2h", "Pakistan Political Crisis Desk"),
 
     gnews("Pakistan security incident terror attack blast when:1h", "Security Breaking Desk"),
-    # Search-indexed X posts only; no live X API is currently connected.
+    # Search-indexed X posts complement the timestamp-checked public Pakistan X trend snapshot in main.py.
     gnews("Pakistan site:x.com Imran Khan PTI when:2h", "X Search · PTI"),
     gnews("Pakistan site:x.com judiciary court when:2h", "X Search · Judiciary"),
-    gnews("Pakistan when:2h", "Google News"),
     gnews("Pakistan federal government parliament Supreme Court national policy economy security when:6h", "Pakistan National Desk"),
     gnews("Pakistan major national political development constitutional crisis election federal cabinet when:6h", "Pakistan National Politics"),
     # Dedicated public-affairs monitoring: PTI, Imran Khan, courts, judges and constitutional rights.
