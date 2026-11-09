@@ -848,6 +848,7 @@ def fact_check(stories, written):
                 else:
                     value_addition_obj["history"]=verified_rows
                     value_addition_obj.pop("series",None)
+                w["value_addition"]=value_addition_obj
                 value_addition=json.dumps(value_addition_obj,ensure_ascii=False)
         blocks[n] = (f"ITEM {n}\nSOURCE TEXT: {heads} || {s_['excerpt'][:1500] or 'headlines only'}"
                      f"\nSUPPLIED SOURCE URLS: {source_refs}\nHISTORICAL RESEARCH SOURCE TEXTS: {research_texts}"
