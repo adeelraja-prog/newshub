@@ -65,10 +65,6 @@ def assess_story(story):
         "court order", "parliament", "constitutional", "price increase", "price hike",
         "قانون", "ترمیم", "ٹیرف", "ٹیکس", "بجٹ", "عدالتی حکم"
     ))
-    implementation_evidence = any(term in text for term in (
-        "effective from", "takes effect", "implemented", "in force", "gazette", "notification issued",
-        "enacted", "نافذ العمل", "نوٹیفکیشن جاری"
-    ))
     independent_accountability = corroboration >= 1 and bool(accountability)
     documented_material_decision = (story.get("original_source") or {}).get("type") == "official_document" and material_change and public_impact
     hold = (soft_pr and not (independent_accountability or documented_material_decision)) or (investigation_signal and (int(story.get('confidence') or 0) < 80 or corroboration < 1))
