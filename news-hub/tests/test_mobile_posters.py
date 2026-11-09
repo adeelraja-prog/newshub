@@ -18,6 +18,9 @@ class MobileValuePosterTests(unittest.TestCase):
                 with Image.open(path) as image:
                     self.assertEqual(image.size,(1080,1350))
                     self.assertEqual(image.format,"JPEG")
+                    # Adeel's permanent portrait badge stays visible on standard posters too.
+                    pixel=image.convert("RGB").getpixel((929,48))
+                    self.assertLess(sum(abs(a-b) for a,b in zip(pixel,(200,169,106))),65)
 
     def test_explainer_data_and_timeline_render_as_phone_cards(self):
         cases = [
