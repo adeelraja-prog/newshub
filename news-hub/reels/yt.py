@@ -153,5 +153,8 @@ def download(video_id,out_dir:Path):
                 return out
             errors.append((r.stderr or "download returned no file")[-500:])
         except subprocess.TimeoutExpired: errors.append("download timed out")
-    print(f"[yt] public download failed for {video_id}: {' | '.join(errors)}")
+    detail=" | ".join(errors)
+    print(f"[yt] public download failed for {video_id}: {detail}")
+    if any("Sign in to confirm" in e or "cookies" in e.lower() for e in errors):
+        raise RuntimeError("YOUTUBE_AUTH_REQUIRED: YouTube is blocking anonymous downloads; configure the YT_COOKIES GitHub Actions secret.")
     return None
