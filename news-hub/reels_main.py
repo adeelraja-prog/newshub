@@ -45,7 +45,11 @@ def scan_and_queue(state):
         except Exception as exc: print(f"[yt] channel scan failed for {channel}: {exc}")
     backlog.sort(key=lambda v:(v.get("sort_date") or v.get("upload_date") or "",v["channel"],v["id"]),reverse=True)
     already=set(state["done"]) | set(state["queued_video_ids"])
-    pending=[v for v in backlog if v["id"] not in already and state["failed"].get(v["id"],0)<3]
+    blocked=state.setdefault("blocked",{})
+    if yt.COOKIE_FILE.exists():
+        for video in backlog: blocked.pop(video["id"],None)
+    pending=[v for v in backlog if v["id"] not in already and state["failed"].get(v["id"],0)<3
+             and (yt.COOKIE_FILE.exists() or v["id"] not in blocked)]
     print(f"[yt] {len(backlog)} recent uploads found; {len(pending)} not yet queued")
     for video in pending[:C.MAX_VIDEOS_PER_RUN]:
         folder=C.WORK/video["id"]; folder.mkdir(parents=True,exist_ok=True)
@@ -73,8 +77,13 @@ def scan_and_queue(state):
             print(f"[queue] added {len(selected)} Reels for {video['id']}; total waiting: {len(state['queue'])}")
         except Exception as exc:
             traceback.print_exc()
-            state["failed"][video["id"]]=state["failed"].get(video["id"],0)+1
-            print(f"[clips] failed to analyse {video['id']}: {exc}")
+            if "YOUTUBE_AUTH_REQUIRED" in str(exc):
+                state.setdefault("blocked",{})[video["id"]]=str(exc)[:500]
+                state["failed"][video["id"]]=0
+                print(f"[clips] paused {video['id']} without consuming retries; waiting for YT_COOKIES")
+            else:
+                state["failed"][video["id"]]=state["failed"].get(video["id"],0)+1
+                print(f"[clips] failed to analyse {video['id']}: {exc}")
         finally:
             shutil.rmtree(folder,ignore_errors=True)
         save_state(state)
