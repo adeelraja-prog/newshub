@@ -26,6 +26,7 @@ import poster
 import news_memory as nm
 import controversy as controversy_desk
 import editorial_quality as eq
+import editorial_policy as ep
 import youtube_promo as yt
 from sources import SOURCES
 
@@ -79,9 +80,9 @@ SELECT_N = fnum("SELECT_N", 4)                   # stories queued per run
 QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before a queued story is dropped
 MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 14)          # do not queue stories that would post later than this
 # --- editorial thresholds ---
-MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 75), fnum("MIN_COMPOSITE", 70)
-FILL_COMPOSITE = fnum("FILL_COMPOSITE", 70)       # never lower the quality bar to fill an empty queue
-BREAK_URGENCY, BREAK_CONFIDENCE = fnum("BREAK_URGENCY", 85), fnum("BREAK_CONFIDENCE", 75)
+MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 80), fnum("MIN_COMPOSITE", 82)
+FILL_COMPOSITE = fnum("FILL_COMPOSITE", 82)       # never lower the quality bar to fill an empty queue
+BREAK_URGENCY, BREAK_CONFIDENCE = fnum("BREAK_URGENCY", 90), fnum("BREAK_CONFIDENCE", 80)
 ANALYSE_TOP = fnum("ANALYSE_TOP", 18)
 POOL_HOURS = fnum("POOL_HOURS", 6)
 
@@ -1597,6 +1598,16 @@ def main():
             if research_holds:
                 print(f"[quality] held {len(research_holds)} stories for accountability research; not queued")
                 stories = [s for s in stories if (s.get("quality_review") or {}).get("decision") != "research_required"]
+            # Deterministic national-headline gate: model scores alone cannot publish routine items.
+            eligible_stories=[]
+            for story in stories:
+                accepted, reason=ep.eligible(story)
+                if accepted:
+                    eligible_stories.append(story)
+                else:
+                    print(f"[quality] held non-headline item ({reason}): {str(story.get('event') or '')[:100]}")
+            stories=eligible_stories
+            print(f"[quality] {len(stories)} stories remain after strict national/provincial/international headline gate")
             memory_path = os.path.join(STATE_DIR, "event-memory.json")
             for story in stories:
                 story["related_memory"] = nm.related_memory(story, memory_path, limit=3)
