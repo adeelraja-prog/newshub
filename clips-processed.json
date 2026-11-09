@@ -3,9 +3,17 @@
   "failed": {
     "9Y0zxad3-J0": 3,
     "3wp4e0fpDio": 3,
-    "KjawIaz6cCI": 3
+    "KjawIaz6cCI": 3,
+    "P6dkEA5tMDk": 0,
+    "5KJWSTUbg1Q": 0,
+    "QKSTh797GvM": 0
   },
   "seeded": true,
   "queue": [],
-  "queued_video_ids": []
+  "queued_video_ids": [],
+  "blocked": {
+    "P6dkEA5tMDk": "YOUTUBE_AUTH_REQUIRED: YouTube is blocking anonymous downloads; configure the YT_COOKIES GitHub Actions secret.",
+    "5KJWSTUbg1Q": "YOUTUBE_AUTH_REQUIRED: YouTube is blocking anonymous downloads; configure the YT_COOKIES GitHub Actions secret.",
+    "QKSTh797GvM": "YOUTUBE_AUTH_REQUIRED: YouTube is blocking anonymous downloads; configure the YT_COOKIES GitHub Actions secret."
+  }
 }
