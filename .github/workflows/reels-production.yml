@@ -88,6 +88,9 @@ jobs:
         run: |
           if [ -n "$YT_COOKIES" ]; then
             printf '%s' "$YT_COOKIES" > news-hub/cookies.txt
+            echo "YouTube cookie file supplied to the downloader."
+          else
+            echo "::warning::YT_COOKIES is not configured; YouTube may block video downloads from this runner."
           fi
 
       - name: Check YouTube download access
