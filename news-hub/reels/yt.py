@@ -5,6 +5,7 @@ import requests,feedparser
 from . import config as C
 
 KNOWN_CHANNEL_IDS = {"@adeelrajaviews": "UCS5Lljc_YNJU4aLXGMCYAOQ"}
+COOKIE_FILE = C.BASE / "cookies.txt"
 
 def _base(public_client=True):
     # Public, unauthenticated YouTube extractor clients only.
