@@ -14,7 +14,8 @@ import xml.etree.ElementTree as ET
 
 PROMO_CUES = (
     "inaugurates", "launched", "launches", "distributes", "distributed",
-    "hands over", "hands out", "announces", "pledges", "historic achievement",
+    "hands over", "hands out", "announces", "announced", "pledges", "directs", "orders", "reviews",
+    "holds meeting", "chairs meeting", "inauguration", "ceremony", "historic achievement",
     "record achievement", "landmark initiative", "under the leadership",
     "vision of", "special initiative", "government initiative", "laptop scheme",
     "free laptops", "scholarship scheme", "development package",
@@ -53,8 +54,9 @@ def assess_story(story):
                         int(story.get("national_impact") or 0),
                         int(story.get("regional_impact") or 0)) >= 70
     government_actor = any(term in text for term in (
-        "government", "chief minister", "minister", "punjab government", "federal government",
-        "provincial government", "government department", "public department", "وزیر", "حکومت",
+        "government", "govt", "federal govt", "provincial govt", "chief minister", "cm ", "minister",
+        "punjab government", "federal government", "provincial government", "government department",
+        "public department", "وزیر", "حکومت",
         "وزیراعلیٰ", "صوبائی حکومت", "وفاقی حکومت"
     ))
     soft_pr = bool(promo) and government_actor and (official or not accountability)
