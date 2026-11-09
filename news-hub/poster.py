@@ -474,10 +474,19 @@ def T6(c, flip, style):
         c.d=ImageDraw.Draw(c.img)
         for yy in range(photo_h):
             t=yy/max(1,photo_h-1)
-            col=mix(bg,gold,0.16*(1-t))
+            col=mix(bg,gold,0.18*(1-t))
             c.d.line((0,yy,W,yy),fill=col,width=1)
-        watermark(c,560,(W-560)//2,110,0.30)
+        # Never leave the visual field empty: use a category-specific editorial graphic
+        # when a relevant, usable photograph cannot be sourced.
+        try:
+            artwork=icon(c.icon_name,430,gold).convert("RGBA")
+            artwork.putalpha(62)
+            c.img.paste(artwork,((W-artwork.width)//2,125),artwork)
+        except Exception:
+            watermark(c,560,(W-560)//2,110,0.30)
         c.d=ImageDraw.Draw(c.img)
+        c.d.ellipse((W//2-265,photo_h//2-265,W//2+265,photo_h//2+265),outline=mix(bg,gold,0.42),width=3)
+        c.d.ellipse((W//2-225,photo_h//2-225,W//2+225,photo_h//2+225),outline=mix(bg,gold,0.26),width=2)
     c.d=ImageDraw.Draw(c.img)
     # Brand and story label sit over the image, with a high-contrast scrim.
     c.d.rounded_rectangle((M,34,W-M,184),radius=24,fill=(8,11,17),outline=(255,255,255,55),width=2)
