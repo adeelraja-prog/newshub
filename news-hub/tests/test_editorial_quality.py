@@ -11,6 +11,18 @@ class EditorialQualityTests(unittest.TestCase):
         self.assertTrue(r["requires_accountability_research"])
         self.assertIn("Promotional framing", r["reason"])
 
+    def test_routine_government_job_announcement_is_held_even_with_numbers(self):
+        s={"event":"Federal Govt announces 5,375 jobs for Balochistan residents",
+           "original_source":{"type":"official_statement"},"public_interest":80,
+           "national_impact":80,"corroborating":[]}
+        self.assertEqual(q.assess_story(s)["decision"],"research_required")
+
+    def test_documented_material_tariff_decision_can_pass_pr_hold(self):
+        s={"event":"NEPRA approves new electricity tariff under notified policy",
+           "original_source":{"type":"official_document"},"public_interest":90,
+           "national_impact":90,"corroborating":[]}
+        self.assertEqual(q.assess_story(s)["decision"],"eligible_for_normal_review")
+
     def test_ccd_encounter_requires_independent_research(self):
         s={"event":"Punjab CCD encounter reported in Faisalabad","confidence":75,"corroborating":[]}
         r=q.assess_story(s)
