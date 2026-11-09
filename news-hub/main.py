@@ -1115,22 +1115,27 @@ def editorial_image(item, tag):
     candidates = []
     # The original publisher's RSS/OG image is one candidate, not an exclusive source.
     if item.get("image_url"):
-        candidates.append((item["image_url"], "Publisher image"))
+        candidates.append((item["image_url"], f"Image: {item.get('source_name') or 'original publisher'}"))
     # Ask Google Images and Commons in parallel; no fixed publisher-vs-search preference.
     def openverse_candidates():
         # Free, keyless image search API. Results are filtered to openly licensed works.
-        query = " ".join([item.get("headline", ""), item.get("category", "")])[:180]
+        entities=(item.get("meta") or {}).get("entities") or {}
+        names=" ".join((entities.get("people") or [])[:2]+(entities.get("organisations") or [])[:2])
+        query = " ".join([item.get("headline", ""), names, item.get("category", "")])[:220]
         try:
             r = requests.get("https://api.openverse.org/v1/images/", params={
-                "q": query, "page_size": 20,
-                "license": "cc0,pdm"
+                "q": query, "page_size": 30,
+                "license": "cc0,pdm,by,by-sa"
             }, headers=UA, timeout=20)
             r.raise_for_status()
             found = []
             for hit in r.json().get("results", []):
                 url = hit.get("url") or hit.get("thumbnail")
                 if url and url.startswith("https://"):
-                    found.append((url, "Openverse · openly licensed"))
+                    creator=str(hit.get("creator") or "creator not listed").strip()
+                    licence=str(hit.get("license") or "open licence").upper()
+                    attribution=f"Image: {creator} · {licence} (Openverse)"
+                    found.append((url, attribution))
             return found
         except Exception as ex:
             print(f"[image] Openverse lookup unavailable: {ex}")
@@ -1177,12 +1182,12 @@ def editorial_image(item, tag):
                      for url, label in unique}
         for future in as_completed(downloads):
             try:
-                path, _ = future.result()
+                path, credit = future.result()
             except Exception as ex:
                 print(f"[image] Candidate download failed: {ex}")
                 continue
             if path:
-                return path, None  # no source-credit overlay on the public poster
+                return path, credit
     return None, None
 
 def make_poster(item, tag):
