@@ -25,6 +25,10 @@ SOURCES = [
     # Google News searches (headline + snippet only)
     gnews("Pakistan breaking news when:1h", "Pakistan Breaking Desk"),
     gnews("Pakistan Imran Khan PTI judiciary court order when:1h", "Political and Court Breaking Desk"),
+    gnews("Pakistan Imran Khan Adiala jail court orders access medical treatment when:2h", "Imran Khan and Adiala Breaking Desk"),
+    gnews("Pakistan PTI Supreme Court Islamabad High Court judicial independence constitutional rights when:2h", "PTI and Judiciary Breaking Desk"),
+    gnews("Pakistan opposition Governor rule Khyber Pakhtunkhwa parliament political crisis when:2h", "Pakistan Political Crisis Desk"),
+
     gnews("Pakistan security incident terror attack blast when:1h", "Security Breaking Desk"),
     # Search-indexed X posts only; no live X API is currently connected.
     gnews("Pakistan site:x.com Imran Khan PTI when:2h", "X Search · PTI"),
