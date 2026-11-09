@@ -491,6 +491,9 @@ def T6(c, flip, style):
     # Brand and story label sit over the image, with a high-contrast scrim.
     c.d.rounded_rectangle((M,34,W-M,184),radius=24,fill=(8,11,17),outline=(255,255,255,55),width=2)
     lockup(c.img,M+24,47,"l",0.48,ink,sub,gold)
+    # Adeel Raja's portrait is permanent brand identity, separate from the news subject.
+    owner_badge = portrait_circle(104, gold, 5)
+    c.img.paste(owner_badge, (W-M-24-owner_badge.width, 48), owner_badge)
     label=(c.label_ur or c.label_en or "NEWS")[:28]
     c.d.rounded_rectangle((W-M-245,205,W-M,258),radius=18,fill=gold)
     c.d.text((W-M-122,231),str(c.label_en or label)[:22],font=sans(19,800),fill=bg,anchor="mm")
@@ -613,6 +616,9 @@ def render_mobile_value_card(c, info):
     d.rectangle((0, 0, 12, H), fill=accent)
     # Compact brand system and category label.
     lockup(im, M, 24, "l", 0.40, ink, muted, GOLD)
+    # Keep Adeel's portrait visible even when the hero image is a news subject.
+    owner_badge = portrait_circle(104, GOLD, 5)
+    im.paste(owner_badge, (W-M-owner_badge.width, 24), owner_badge)
     kind = str(info.get("type") or "explainer")
     labels = {"explainer":"THE STORY / EXPLAINED", "data":"THE NUMBERS / IN CONTEXT",
               "timeline":"THE TIMELINE", "factcheck":"FACT CHECK"}
