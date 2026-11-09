@@ -325,9 +325,12 @@ def _editorial_reel_score(item,now_utc):
     age=(now_utc-original_at.astimezone(timezone.utc)).total_seconds()/3600
     if age<0 or age>MAX_STORY_AGE_HOURS:
         return None
-    if meta.get("scope") not in ("national", "international") or meta.get("importance_class") != "major":
+    scope=str(meta.get("scope") or item.get("scope") or "").lower()
+    if scope not in ("national", "provincial", "international") or meta.get("importance_class") != "major":
         return None
-    if float(meta.get("national_impact",0) or 0) < 70 and meta.get("scope") == "national":
+    if float(meta.get("national_impact",0) or 0) < 70 and scope == "national":
+        return None
+    if float(meta.get("regional_impact",0) or 0) < 85 and scope == "provincial":
         return None
     if float(meta.get("global_impact",0) or 0) < 80 and meta.get("scope") == "international" and float(scores.get("pakistan_relevance",0) or 0) < 75:
         return None
@@ -349,8 +352,10 @@ def _editorial_reel_score(item,now_utc):
     # Editorial mix: relevance, public interest and shareability influence selection,
     # but none can override the verification and freshness gates above.
     priority_bonus={"breaking":18,"high":10,"normal":0}.get(priority,0)
+    category=str(item.get("category") or meta.get("category") or "").lower()
+    political_bonus={"politics":20,"courts":18,"security":12,"economy":8}.get(category,0)
     freshness=max(0,12-age)*0.35
-    return composite + viral*0.10 + public_interest*0.08 + pakistan*0.05 + priority_bonus + freshness
+    return composite + viral*0.10 + public_interest*0.08 + pakistan*0.05 + priority_bonus + political_bonus + freshness
 
 def main():
     if not QUEUE.exists():
