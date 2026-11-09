@@ -506,6 +506,15 @@ For each cluster return:
    from that cluster's CANDIDATE LINKS if one is the original source, else "", "basis": short explanation}}
 - "corroborating": names of OTHER independent outlets (not mere repeaters) that confirm it, if clear
 - "explanation": why you ranked it this way (max 25 words)
+REAL-TIME DESK RULES:
+- The supplied timestamps are Pakistan local time. Treat the newest verified publication time as the story's freshness clock.
+- Prefer a genuinely new development published within the last 60 minutes; next prefer 1-3 hour developments.
+- A story older than 6 hours is NOT a breaking/latest item. Keep it only if there is a clearly new material development, a major continuing crisis, or exceptional public importance; explain what changed now.
+- Never recycle an old article simply because it appeared in a new feed scan. Distinguish original publication time from feed update time.
+- If the supplied headlines are stale, duplicated, weakly sourced or lack a material update, return fewer stories. Do not fill a quota.
+- Breaking claims require a credible source and clear attribution. Label allegations as allegations; do not convert claims into established facts.
+- Prioritise Pakistan's live political, judicial, security, economic and public-service developments alongside major global events. Do not let generic international wires crowd out important Pakistan developments.
+- Headline and Urdu copy must be specific, natural Pakistani Urdu. Avoid literal machine translation, Hindi vocabulary/script, exaggerated clickbait and unsupported certainty.
 STRICT EDITORIAL SCOPE:
 - Publish only NATIONAL, PROVINCIAL/REGIONAL-OF-NATIONAL-IMPORTANCE, or INTERNATIONAL stories.
 - Pakistan national desk: federal institutions, national policy, major national politics, courts, economy,
