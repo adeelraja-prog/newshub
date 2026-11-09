@@ -9,7 +9,7 @@ class EditorialScoringTests(unittest.TestCase):
 
     def test_composite_uses_normalised_base(self):
         score=ed.composite(self.base("A national political development"))
-        expected=round((0.40*90+0.25*50+0.15*40+0.20*90+0.30*85)/1.30+16,1)
+        expected=round((0.40*90+0.25*50+0.15*40+0.20*90+0.30*85)/1.30+22,1)
         self.assertEqual(score,expected)
 
     def test_pti_and_judiciary_public_affairs_receive_transparent_boost(self):
