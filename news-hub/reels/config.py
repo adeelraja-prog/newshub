@@ -13,6 +13,7 @@ STATE_FILE=Path(env("REEL_STATE_FILE",default=str(Path(__file__).resolve().paren
 CHANNELS=[x.strip() for x in env("REEL_CHANNELS",default="@adeelrajaviews").split(",") if x.strip()]
 CHANNEL_CREDIT=env("REEL_CREDIT",default="@adeelrajaviews")
 MAX_VIDEOS_PER_RUN=int(env("REEL_MAX_VIDEOS",default="2"))
+MIN_GAP_MINUTES=int(env("REEL_MIN_GAP_MINUTES",default="360"))
 LOOKBACK_DAYS=int(env("REEL_LOOKBACK_DAYS",default="15"))
 SCAN_LIMIT=int(env("REEL_SCAN_LIMIT",default="100"))
 CLIPS_PER_VIDEO=int(env("REEL_CLIPS_PER_VIDEO",default="1"))
