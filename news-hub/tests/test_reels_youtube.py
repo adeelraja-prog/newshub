@@ -6,10 +6,11 @@ from reels import yt
 
 class YouTubeDiscoveryTests(unittest.TestCase):
     def test_base_uses_optional_cookies_file(self):
-        with patch("reels.yt.COOKIE_FILE.exists",return_value=True):
+        from pathlib import Path
+        with patch("reels.yt.COOKIE_FILE",Path(__file__)):
             args=yt._base()
         self.assertIn("--cookies",args)
-        self.assertIn(str(yt.COOKIE_FILE),args)
+        self.assertIn(str(Path(__file__)),args)
 
     def test_null_metadata_is_reported_as_a_clear_error(self):
         fake=SimpleNamespace(returncode=0,stdout="null",stderr="")
