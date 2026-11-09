@@ -746,10 +746,16 @@ def fact_check(stories, written):
         value_addition_obj = w.get("value_addition") or {"type": "none"}
         value_addition = json.dumps(value_addition_obj, ensure_ascii=False)
         research_texts = []
-        history_rows = value_addition_obj.get("history") or value_addition_obj.get("series") or []
-        for row in history_rows[:6]:
-            url = row.get("url") if isinstance(row,dict) else ""
-            if not url: continue
+        visual_rows=[]
+        for key in ("history","series","timeline","points","evidence_points","data_points"):
+            rows=value_addition_obj.get(key) or []
+            if isinstance(rows,list):
+                visual_rows.extend(row for row in rows if isinstance(row,dict))
+        seen_visual_urls=set()
+        for row in visual_rows[:10]:
+            url=str(row.get("url") or "").strip()
+            if not url or url in seen_visual_urls: continue
+            seen_visual_urls.add(url)
             excerpt, resolved = eq.extract_research_article(url)
             if excerpt:
                 research_texts.append({"date": row.get("date"), "source": row.get("source"),
