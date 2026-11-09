@@ -66,6 +66,10 @@ def assess_story(story):
         "قانون", "ترمیم", "ٹیرف", "ٹیکس", "بجٹ", "عدالتی حکم"
     ))
     independent_accountability = corroboration >= 1 and bool(accountability)
+    investigation_signal = any(term in text for term in (
+        "ccd", "crime control department", "police encounter", "encounter killing",
+        "encounter deaths", "extrajudicial", "پولیس مقابلہ", "پولیس مقابلوں", "سی سی ڈی"
+    ))
     documented_material_decision = (story.get("original_source") or {}).get("type") == "official_document" and material_change and public_impact
     hold = (soft_pr and not (independent_accountability or documented_material_decision)) or (investigation_signal and (int(story.get('confidence') or 0) < 80 or corroboration < 1))
     penalty = min(18, 4 * len(promo)) if soft_pr else 0
