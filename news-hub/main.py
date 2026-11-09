@@ -828,8 +828,24 @@ def fact_check(stories, written):
             if excerpt:
                 research_texts.append({"date": row.get("date"), "source": row.get("source"),
                                        "url": resolved, "requested_url": url, "article_text": excerpt[:1800]})
+        story_context=" ".join([str(s_.get("event") or ""),str(s_.get("excerpt") or ""),heads]).lower()
+        price_topic=any(term in story_context for term in (
+            "petrol","diesel","fuel price","gasoline","petroleum price","electricity tariff",
+            "gas tariff","fuel prices","پیٹرول","پٹرول","ڈیزل","ایندھن کی قیمت"
+        ))
+        if price_topic and str(value_addition_obj.get("type") or "")!="data":
+            print(f"[fact-check] price explainer removed for item {n}: a sourced historical data chart is required")
+            value_addition_obj={"type":"none","reason":"Price stories require a dated historical data series."}
+            w["value_addition"]=value_addition_obj
+            value_addition=json.dumps(value_addition_obj,ensure_ascii=False)
         if str(value_addition_obj.get("type") or "")=="data":
             history=value_addition_obj.get("history") or value_addition_obj.get("series") or []
+            if price_topic and len(history)<3:
+                print(f"[fact-check] price chart removed for item {n}: fewer than three dated historical values")
+                value_addition_obj={"type":"none","reason":"Price stories require at least three dated historical values."}
+                w["value_addition"]=value_addition_obj
+                value_addition=json.dumps(value_addition_obj,ensure_ascii=False)
+                history=[]
             if history:
                 source_text_by_url={}
                 for source_record in research_texts:
