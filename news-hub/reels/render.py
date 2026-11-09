@@ -23,11 +23,12 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sub,{C.SUB_FONT},{C.SUB_SIZE},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,0,2,70,70,430,1
-Style: Hook,{C.SUB_FONT},{C.SUB_SIZE+8},&H0000E6FF,&H0000E6FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,8,0,8,70,70,220,1\nStyle: Brand,Noto Sans,30,&H00C8A96A,&H00C8A96A,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,8,70,70,70,1
+Style: Hook,{C.SUB_FONT},{C.SUB_SIZE+8},&H0000E6FF,&H0000E6FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,8,0,8,70,70,220,1\nStyle: Brand,Noto Sans,26,&H00C8A96A,&H00C8A96A,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,2,70,70,85,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
     lines=[]
+    lines.append(f"Dialogue: 2,{_ts(0)},{_ts(end-start)},Brand,,0,0,0,,@adeelrajaviews")
     if hook: lines.append(f"Dialogue: 1,{_ts(0)},{_ts(3)},Hook,,0,0,0,,{_clean(hook)}")
     for i,ch in enumerate(chunks):
         s=ch[0]["start"]-start; e=ch[-1]["end"]-start+0.15
@@ -45,7 +46,7 @@ def render(src:Path,segs,clip,out_dir:Path,idx:int):
     else: opts=["-vf",f"scale=-2:1920,crop=1080:1920,fps=30,settb=AVTB,subtitles={ass.name},fps=30"]
     args=["ffmpeg","-y","-ss",f"{clip['start']:.2f}","-i",str(src),"-t",f"{duration:.2f}",*opts,
         "-r","30","-fps_mode","cfr","-video_track_timescale","30000","-c:v","libx264","-preset","veryfast","-crf","23","-pix_fmt","yuv420p",
-        "-c:a","aac","-b:a","128k","-movflags","+faststart",out.name]
+        "-c:a","aac","-b:a","160k","-af","loudnorm=I=-16:TP=-1.5:LRA=11","-movflags","+faststart",out.name]
     r=subprocess.run(args,cwd=out_dir,capture_output=True,text=True,timeout=900)
     if r.returncode or not out.exists(): print("[render] ffmpeg failed:",r.stderr[-700:]); return None
     return out
