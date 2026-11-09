@@ -23,6 +23,12 @@ SOURCES = [
     {"name": "Al Jazeera", "kind": "world", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
 
     # Google News searches (headline + snippet only)
+    gnews("Pakistan breaking news when:1h", "Pakistan Breaking Desk"),
+    gnews("Pakistan Imran Khan PTI judiciary court order when:1h", "Political and Court Breaking Desk"),
+    gnews("Pakistan security incident terror attack blast when:1h", "Security Breaking Desk"),
+    # Search-indexed X posts only; no live X API is currently connected.
+    gnews("Pakistan site:x.com Imran Khan PTI when:2h", "X Search · PTI"),
+    gnews("Pakistan site:x.com judiciary court when:2h", "X Search · Judiciary"),
     gnews("Pakistan when:2h", "Google News"),
     gnews("Pakistan federal government parliament Supreme Court national policy economy security when:6h", "Pakistan National Desk"),
     gnews("Pakistan major national political development constitutional crisis election federal cabinet when:6h", "Pakistan National Politics"),
@@ -69,8 +75,9 @@ SOURCES = [
     {"name": "TechJuice", "kind": "local", "url": "https://www.techjuice.pk/feed/"},
     {"name": "PhoneWorld", "kind": "local", "url": "https://www.phoneworld.com.pk/feed/"},
     {"name": "The Current", "kind": "local", "url": "https://thecurrent.pk/feed/"},
-    {"name": "Pakistan Today", "kind": "local", "url": "https://www.pakistantoday.com.pk/feed/"},
-    {"name": "Profit", "kind": "local", "url": "https://profit.pakistantoday.com.pk/feed/"},
+    # The direct Pakistan Today / Profit feeds returned 404 in production; use indexed search until verified.
+    gnews("site:pakistantoday.com.pk Pakistan when:1d", "Pakistan Today Search"),
+    gnews("site:profit.pakistantoday.com.pk Pakistan economy business when:1d", "Profit Search"),
 
     # public interest (highest priority), crime, wars, US elections, India events, viral stories
     gnews("Pakistan petrol price when:1d", "Petrol prices"),
