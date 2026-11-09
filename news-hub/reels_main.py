@@ -128,6 +128,13 @@ def publish_one(state):
         if not source: raise RuntimeError("could not download source video for queued clip")
         output=render.render(source,transcript,clip,folder,0)
         if not output: raise RuntimeError("vertical Reel rendering failed")
+        # Preserve the exact exported MP4 as a GitHub Actions artifact so the owner
+        # can inspect the finished video even after the temporary render folder is cleaned.
+        REPORT_DIR.mkdir(parents=True,exist_ok=True)
+        export_name=f'{video["id"]}-{int(float(clip.get("start",0)))}-{int(float(clip.get("end",0)))}-reel.mp4'
+        export_path=REPORT_DIR/export_name
+        shutil.copy2(output,export_path)
+        print(f"[export] vertical Reel rendered and saved for review: {export_path}")
         caption=(clip.get("caption") or video["title"])
         caption += f'\n\n🎥 Full video: https://www.youtube.com/watch?v={video["id"]}\n#AdeelRaja'
         if C.DRY_RUN:
