@@ -16,6 +16,13 @@ def _base(public_client=True):
     if COOKIE_FILE.exists(): args += ["--cookies",str(COOKIE_FILE)]
     return args
 
+def is_auth_error(error):
+    value=str(error or "").lower()
+    return any(term in value for term in (
+        "sign in to confirm", "confirm you're not a bot", "confirm you are not a bot",
+        "cookies-from-browser", "pass cookies", "authentication required", "login required"
+    ))
+
 def _upload_date(info):
     if not isinstance(info,dict): return None
     raw=info.get("upload_date") or info.get("release_date")
