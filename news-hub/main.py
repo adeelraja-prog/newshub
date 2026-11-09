@@ -194,6 +194,28 @@ def has_devanagari(text):
     return bool(re.search(r"[\u0900-\u097F]", text or ""))
 
 
+def has_urdu_script(text):
+    """Require Urdu-script content in fields explicitly designated as Urdu."""
+    value=str(text or "")
+    urdu_letters=len(re.findall(r"[\\u0620-\\u064A\\u066E-\\u06D3]",value))
+    latin_letters=len(re.findall(r"[A-Za-z]",value))
+    total=urdu_letters+latin_letters
+    return urdu_letters>=4 and (total==0 or urdu_letters/total>=0.55)
+
+
+def has_roman_urdu_output(w):
+    """Check Urdu-designated fields without penalising English fields or Latin acronyms."""
+    fields=[w.get("poster_headline_ur"),w.get("summary_ur")]
+    visual=w.get("value_addition") or {}
+    if isinstance(visual,dict):
+        fields.append(visual.get("title_ur"))
+        for key in ("points","timeline","evidence_points","data_points"):
+            for row in visual.get(key) or []:
+                if isinstance(row,dict):
+                    fields.extend((row.get("label_ur"),row.get("text_ur")))
+    return any(str(x or "").strip() and not has_urdu_script(x) for x in fields)
+
+
 def is_blocked(name, link):
     """Reject Indian publishers/domains and Hindi-language source items."""
     n = (name or "").lower().strip()
@@ -595,7 +617,7 @@ For each STORY return:
   "data_points": up to 4 objects {{ "label": "English label", "label_ur": "Urdu-script label", "value": number, "display_value": "exact sourced value", "source": "source name", "url": "exact supplied URL" }},
   "history": up to 6 chronological objects {{ "date": "effective date in YYYY-MM-DD", "value": numeric comparable value, "display_value": "exact price/value and unit", "source": "exact source name", "url": "exact supplied URL" }},
   "unit": exact unit such as "PKR per litre",
-  "period_note": exact start/end period and duration only if supported by dated evidence.
+  "period_note": exact start/end period and duration only if supported by dated evidence,
   "timeline": up to 4 objects {{ "date": "sourced date", "text": "what happened in English", "text_ur": "same in Urdu SCRIPT", "source": "source name", "url": "exact supplied URL" }},
   "evidence_points": up to 3 objects {{ "label": "claim/evidence/status in English", "label_ur": "same in Urdu SCRIPT", "text": "what the supplied source establishes in English", "text_ur": "same in Urdu SCRIPT", "source": "source name", "url": "exact supplied URL" }},
   "source_note": short source attribution.
@@ -660,6 +682,9 @@ def write_batch(stories):
         # Never publish Hindi/Devanagari: captions and poster lines must be Urdu + English only.
         if has_devanagari(" ".join(str(v) for v in w.values() if isinstance(v, (str, list)))):
             print(f"[skip] story {n}: Hindi/Devanagari output rejected")
+            continue
+        if has_roman_urdu_output(w):
+            print(f"[skip] story {n}: Urdu-designated fields contain Roman Urdu or insufficient Urdu script")
             continue
         english = " ".join(w[k] for k in ("headline_primary", "headline_alt", "poster_headline_en",
                                           "caption_opening", "summary_en"))
