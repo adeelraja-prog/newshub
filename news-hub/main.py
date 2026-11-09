@@ -781,7 +781,9 @@ def _history_date_variants(value):
         day.strftime("%d %b %Y"), day.strftime("%b %d, %Y"),
         f"{day.day} {day.strftime('%B %Y')}", f"{day.strftime('%B')} {day.day}, {day.year}",
         f"{day.day} {day.strftime('%b %Y')}", f"{day.strftime('%b')} {day.day}, {day.year}",
-        day.strftime("%d %B"), day.strftime("%B %d"), day.strftime("%d-%m-%Y")
+        day.strftime("%d %B"), day.strftime("%B %d"), day.strftime("%d-%m-%Y"),
+        f"{day.day} {day.strftime('%B')} {day.year}", f"{day.strftime('%B')} {day.day}, {day.year}",
+        f"{day.day} {day.strftime('%b')} {day.year}", f"{day.strftime('%b')} {day.day}, {day.year}"
     ]
 
 
