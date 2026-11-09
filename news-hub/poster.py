@@ -504,11 +504,17 @@ def T6(c, flip, style):
     en=str(c.en or "").strip()
     y=728
     if ur:
+        # Fit the Urdu headline to the real panel height; never force a long title into a clipped fixed-size block.
+        max_urdu=3
         uf=urdu(58)
-        ulines=wrap(ur,uf,W-2*M-24)[:3]
+        ulines=wrap(ur,uf,W-2*M-24)
+        while len(ulines)>max_urdu and uf.size>42:
+            uf=urdu(uf.size-2); ulines=wrap(ur,uf,W-2*M-24)
+        ulines=ulines[:max_urdu]
+        line_h=int(uf.size*1.34)
         for line in ulines:
             c.d.text((W-M-8,y),line,font=uf,fill=ink,anchor="ra",direction="rtl",language="ur")
-            y+=79
+            y+=line_h
     else:
         for line in wrap(en,sans(48,800),W-2*M)[:3]:
             c.d.text((M,y),line,font=sans(48,800),fill=ink); y+=57
@@ -517,8 +523,11 @@ def T6(c, flip, style):
         c.d.line((M,y,W-M,y),fill=(86,91,102),width=2)
         y+=23
         ef=sans(31,650)
-        for line in wrap(en,ef,W-2*M)[:2]:
-            c.d.text((M,y),line,font=ef,fill=sub); y+=42
+        en_lines=wrap(en,ef,W-2*M)
+        while len(en_lines)>2 and ef.size>24:
+            ef=sans(ef.size-2,600); en_lines=wrap(en,ef,W-2*M)
+        for line in en_lines[:2]:
+            c.d.text((M,y),line,font=ef,fill=sub); y+=int(ef.size*1.34)
     source=str(c.source or "")[:54]
     if source:
         c.d.text((M,1192),"SOURCE  /  ماخذ",font=sans(16,800),fill=gold)
@@ -621,11 +630,11 @@ def render_mobile_value_card(c, info):
                 if v is None: continue
                 xx=left+int(i*(right-left)/max(1,len(vals)-1))
                 yy=chart_bottom-int((v-vmin)/span*(chart_bottom-chart_top))
-                coords.append((xx,yy))
+                coords.append((xx,yy,v))
             if len(coords)>1:d.line(coords,fill=accent,width=8,joint="curve")
-            for idx,(xx,yy) in enumerate(coords):
+            for xx,yy,value in coords:
                 d.ellipse((xx-10,yy-10,xx+10,yy+10),fill=ink,outline=accent,width=4)
-                d.text((xx,yy-26),f"{vals[idx]:,.0f}",font=sans(17,800),fill=ink,anchor="ms")
+                d.text((xx,yy-26),f"{value:,.0f}",font=sans(17,800),fill=ink,anchor="ms")
             d.text((left,chart_bottom+24),str(series[0].get("date") or "")[:16],font=sans(16,600),fill=sub,anchor="lm")
             d.text((right,chart_bottom+24),str(series[-1].get("date") or "")[:16],font=sans(16,600),fill=sub,anchor="rm")
             y=bottom+102
