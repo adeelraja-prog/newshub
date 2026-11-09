@@ -205,16 +205,27 @@ def has_urdu_script(text):
 
 
 def has_roman_urdu_output(w):
-    """Check Urdu-designated fields without penalising English fields or Latin acronyms."""
+    """Require proper Urdu script in Urdu fields; reject Roman Urdu and missing explainer translations."""
     fields=[w.get("poster_headline_ur"),w.get("summary_ur")]
+    if any(not has_urdu_script(x) for x in fields):
+        return True
     visual=w.get("value_addition") or {}
-    if isinstance(visual,dict):
-        fields.append(visual.get("title_ur"))
+    if isinstance(visual,dict) and visual.get("type") not in (None,"none"):
+        title_ur=visual.get("title_ur")
+        if not has_urdu_script(title_ur):
+            return True
         for key in ("points","timeline","evidence_points","data_points"):
             for row in visual.get(key) or []:
-                if isinstance(row,dict):
-                    fields.extend((row.get("label_ur"),row.get("text_ur")))
-    return any(str(x or "").strip() and not has_urdu_script(x) for x in fields)
+                if not isinstance(row,dict): continue
+                if key=="data_points":
+                    required=(row.get("label_ur"),)
+                elif key=="timeline":
+                    required=(row.get("text_ur"),)
+                else:
+                    required=(row.get("label_ur"),row.get("text_ur"))
+                if any(not has_urdu_script(value) for value in required):
+                    return True
+    return False
 
 
 def is_blocked(name, link):
