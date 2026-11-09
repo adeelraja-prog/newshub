@@ -20,7 +20,7 @@ def is_auth_error(error):
     value=str(error or "").lower()
     return any(term in value for term in (
         "sign in to confirm", "confirm you're not a bot", "confirm you are not a bot",
-        "cookies-from-browser", "pass cookies", "--cookies", "cookies for authentication", "authentication required", "login required"
+        "cookies-from-browser", "pass cookies", "--cookies", "cookies for authentication", "--cookies for authentication", "authentication required", "login required"
     ))
 
 def _upload_date(info):
