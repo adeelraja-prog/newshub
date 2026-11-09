@@ -10,6 +10,7 @@ on:
       - "news-hub/sources.py"
       - "news-hub/poster.py"
       - "news-hub/news_reels.py"
+      - "news-hub/tests/**"
   schedule:
     - cron: "*/10 * * * *"
   workflow_dispatch:
