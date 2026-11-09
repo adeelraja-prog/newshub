@@ -5,6 +5,12 @@ from types import SimpleNamespace
 from reels import yt
 
 class YouTubeDiscoveryTests(unittest.TestCase):
+    def test_base_uses_optional_cookies_file(self):
+        with patch("reels.yt.COOKIE_FILE.exists",return_value=True):
+            args=yt._base()
+        self.assertIn("--cookies",args)
+        self.assertIn(str(yt.COOKIE_FILE),args)
+
     def test_null_metadata_is_reported_as_a_clear_error(self):
         fake=SimpleNamespace(returncode=0,stdout="null",stderr="")
         with patch("reels.yt.subprocess.run",return_value=fake):
