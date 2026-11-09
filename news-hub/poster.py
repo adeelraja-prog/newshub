@@ -455,7 +455,74 @@ def T5(c, flip, style):
     c.d.line((M, 1190, W - M, 1190), fill=c.rule, width=2)
     social_footer(c.img, W // 2, 1222, c.ink, c.sub)
 
-TEMPLATES = [T1, T2, T3, T4, T5]
+def T6(c, flip, style):
+    """Photo-led bilingual newsroom cover: Urdu headline first, English context second."""
+    palettes=[
+        ("#10141D","#F8F5EF","#C7CBD3",GOLD),
+        ("#15131A","#FFF8F0","#D1C7C1","#D98A62"),
+        ("#101820","#F7F8FA","#BFCBD5","#69B7C7"),
+    ]
+    bg,ink,sub,gold=palettes[style%len(palettes)]
+    c.img=Image.new("RGB",(W,H),bg)
+    photo_h=760
+    if c.person is not None:
+        photo=ImageOps.fit(c.person.convert("RGB"),(W,photo_h),method=Image.Resampling.LANCZOS,centering=(0.5,0.42))
+        c.img.paste(photo,(0,0))
+        overlay=Image.new("RGBA",(W,photo_h),(5,8,14,92))
+        c.img.paste(Image.alpha_composite(c.img.crop((0,0,W,photo_h)).convert("RGBA"),overlay).convert("RGB"),(0,0))
+    else:
+        c.d=ImageDraw.Draw(c.img)
+        for yy in range(photo_h):
+            t=yy/max(1,photo_h-1)
+            col=mix(bg,gold,0.16*(1-t))
+            c.d.line((0,yy,W,yy),fill=col,width=1)
+        watermark(c,560,(W-560)//2,110,0.30)
+        c.d=ImageDraw.Draw(c.img)
+    c.d=ImageDraw.Draw(c.img)
+    # Brand and story label sit over the image, with a high-contrast scrim.
+    c.d.rounded_rectangle((M,34,W-M,184),radius=24,fill=(8,11,17),outline=(255,255,255,55),width=2)
+    lockup(c.img,M+24,47,"l",0.48,ink,sub,gold)
+    label=(c.label_ur or c.label_en or "NEWS")[:28]
+    c.d.rounded_rectangle((W-M-245,205,W-M,258),radius=18,fill=gold)
+    c.d.text((W-M-122,231),str(c.label_en or label)[:22],font=sans(19,800),fill=bg,anchor="mm")
+    if c.breaking:
+        c.d.rounded_rectangle((M,205,M+230,258),radius=18,fill=RED)
+        c.d.text((M+115,231),"BREAKING NEWS",font=sans(18,800),fill="#FFFFFF",anchor="mm")
+    # A strong, full-width headline panel overlaps the photograph intentionally.
+    c.d.rounded_rectangle((28,650,W-28,H-26),radius=30,fill=bg,outline=gold,width=3)
+    c.d.rectangle((M,690,W-M,695),fill=gold)
+    ur=str(c.ur or "").strip()
+    en=str(c.en or "").strip()
+    y=728
+    if ur:
+        uf=urdu(58)
+        ulines=wrap(ur,uf,W-2*M-24)[:3]
+        for line in ulines:
+            c.d.text((W-M-8,y),line,font=uf,fill=ink,anchor="ra",direction="rtl",language="ur")
+            y+=79
+    else:
+        for line in wrap(en,sans(48,800),W-2*M)[:3]:
+            c.d.text((M,y),line,font=sans(48,800),fill=ink); y+=57
+    if ur and en:
+        y+=7
+        c.d.line((M,y,W-M,y),fill=(86,91,102),width=2)
+        y+=23
+        ef=sans(31,650)
+        for line in wrap(en,ef,W-2*M)[:2]:
+            c.d.text((M,y),line,font=ef,fill=sub); y+=42
+    source=str(c.source or "")[:54]
+    if source:
+        c.d.text((M,1192),"SOURCE  /  ماخذ",font=sans(16,800),fill=gold)
+        c.d.text((M,1218),source,font=sans(18,600),fill=sub)
+    if c.credit:
+        credit=str(c.credit)[:70]
+        c.d.text((W-M,1218),credit,font=sans(14,500),fill=sub,anchor="ra")
+    c.d.line((M,1260,W-M,1260),fill=(86,91,102),width=2)
+    social_footer(c.img,W//2,1280,ink,sub)
+    c.d=ImageDraw.Draw(c.img)
+
+
+TEMPLATES = [T1, T2, T3, T4, T5, T6]
 
 
 def render(headline_ur, headline_en, category, breaking, sources, handle, out_path, variant=0, tag=None,
@@ -463,9 +530,8 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
     """Same signature the bot already calls. variant selects template / flip / background style."""
     icon_name, lab_ur, lab_en, acc = CATS.get(category, CATS["other"])
     c = Ctx()
-    # Approved standard: the clean Editorial Hero (T5) is now the only poster layout.
-    # Keep four restrained colour treatments rotating for visual variety.
-    t = 4
+    # New photo-led bilingual Editorial Cover.
+    t = 5
     flip = 0
     style = variant % 3
     c.dark = t != 3
