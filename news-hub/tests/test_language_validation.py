@@ -12,6 +12,23 @@ class UrduScriptValidationTests(unittest.TestCase):
             "summary_ur":"Imran Khan ki hearing kal hogi"
         }))
 
+    def test_rejects_explainer_with_missing_urdu_translation(self):
+        self.assertTrue(has_roman_urdu_output({
+            "poster_headline_ur":"عمران خان کی سماعت کل ہوگی",
+            "summary_ur":"عدالت نے کیس کی سماعت کل تک ملتوی کر دی ہے",
+            "value_addition":{"type":"explainer","title":"What happened","points":[
+                {"label":"Court order","text":"The hearing was postponed."}]}
+        }))
+
+    def test_accepts_fully_bilingual_explainer(self):
+        self.assertFalse(has_roman_urdu_output({
+            "poster_headline_ur":"عمران خان کی سماعت کل ہوگی",
+            "summary_ur":"عدالت نے کیس کی سماعت کل تک ملتوی کر دی ہے",
+            "value_addition":{"type":"explainer","title":"What happened","title_ur":"کیا ہوا؟","points":[
+                {"label":"Court order","label_ur":"عدالتی حکم","text":"The hearing was postponed.",
+                 "text_ur":"سماعت ملتوی کر دی گئی۔"}]}
+        }))
+
     def test_accepts_urdu_script_fields(self):
         self.assertFalse(has_roman_urdu_output({
             "poster_headline_ur":"عمران خان کی سماعت کل ہوگی",
