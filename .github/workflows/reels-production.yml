@@ -1,12 +1,6 @@
 name: Adeel Raja Reels Production
 
 on:
-  push:
-    paths:
-      - ".github/workflows/reels-production.yml"
-      - "news-hub/reels/yt.py"
-      - "news-hub/reels/clips.py"
-      - "news-hub/reels_main.py"
   schedule:
     - cron: "0 12,21 * * *"
   workflow_dispatch:
