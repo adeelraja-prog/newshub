@@ -230,22 +230,60 @@ def is_blocked(name, link):
 
 
 def fetch_trends():
+    """Combine Google Trends with a timestamp-checked public Pakistan X trend snapshot.
+    X trends are discovery signals only; they never verify the underlying claim.
+    """
+    out=[]; basis=[]
     for url in TRENDS_URLS:
         try:
             r = requests.get(url, headers=UA, timeout=20)
             r.raise_for_status()
             feed = feedparser.parse(r.content)
-            out = []
             for rank, e in enumerate(feed.entries):
                 q = clean(e.get("title", ""))
                 if q:
                     out.append({"query": q, "traffic": e.get("ht_approx_traffic", ""), "rank": rank,
-                                "tokens": ed.toks(q)})
-            if out:
-                return out, "measured (Google Trends Pakistan feed)"
+                                "source": "Google Trends", "tokens": ed.toks(q)})
+            if feed.entries:
+                basis.append("Google Trends Pakistan")
+                break
         except Exception as ex:
-            print(f"[warn] trends feed failed: {ex}")
-    return [], "unavailable"
+            print(f"[warn] Google Trends feed failed: {ex}")
+    try:
+        xurl="https://twitter-trends.snaplytics.io/pakistan/"
+        xr=requests.get(xurl,headers=UA,timeout=20); xr.raise_for_status()
+        page=(trafilatura.extract(xr.text) if trafilatura else "") or re.sub(r"<[^>]+>","\n",xr.text)
+        page=html.unescape(page)
+        stamp=re.search(r"Trending now\\s*[—-]\\s*([A-Za-z]{3} \\d{1,2}, \\d{4} \\d{2}:\\d{2} UTC)",page)
+        if not stamp:
+            raise ValueError("X trend snapshot has no verifiable update timestamp")
+        observed=datetime.strptime(stamp.group(1),"%b %d, %Y %H:%M UTC").replace(tzinfo=timezone.utc)
+        age=(datetime.now(timezone.utc)-observed).total_seconds()/3600
+        if age < -0.25 or age > 3:
+            raise ValueError(f"X trend snapshot is stale ({age:.1f} hours old)")
+        section=re.search(r"Trending now[^\\n]*\\n(.*?)(?:\\n(?:1 hour ago|1 hours ago|Trending 1 hour ago|###))",page,re.S|re.I)
+        if not section:
+            raise ValueError("could not isolate current X trend list")
+        count=0
+        for line in section.group(1).splitlines():
+            hit=re.match(r"\\s*(\\d{1,2})[.)]\\s+(.*)",line)
+            if not hit: continue
+            rank=int(hit.group(1))-1
+            topic=re.sub(r"^#\\d+\\s*","",hit.group(2)).strip()
+            topic=re.sub(r"\\s+(?:Politics|Sports|Football|Entertainment|Business & finance)\\s*·?.*$","",topic,flags=re.I)
+            topic=clean(topic)
+            if not topic or rank<0 or rank>=50: continue
+            out.append({"query":topic,"traffic":"","rank":rank,"source":"X Pakistan Trends",
+                        "observed_at":observed.isoformat(),"tokens":ed.toks(topic)})
+            count+=1
+        if count:
+            basis.append(f"public X Pakistan trend snapshot ({count} topics; {age:.1f}h old)")
+            print(f"[trends] loaded {count} timestamp-checked Pakistan X trends")
+        else:
+            print("[warn] X trend page loaded but no ranked topics could be parsed")
+    except Exception as ex:
+        print(f"[warn] X trend snapshot unavailable: {str(ex)[:240]}")
+    return out, (" + ".join(basis) if basis else "unavailable")
 
 
 def fetch_article(item):
