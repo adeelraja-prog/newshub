@@ -24,6 +24,16 @@ class YouTubeDiscoveryTests(unittest.TestCase):
         self.assertEqual(result,expected)
         rss.assert_called_once()
 
+    def test_known_main_channel_uses_rss_without_playlist_metadata(self):
+        today=datetime.now(timezone.utc).date().isoformat()
+        expected=[{"id":"abcdefghijk","title":"Latest vlog","channel":"@adeelrajaviews","upload_date":today}]
+        with patch("reels.yt._rss_videos",return_value=expected) as rss, \
+             patch("reels.yt._run_json") as extractor:
+            result=yt.recent_videos("@adeelrajaviews",lookback_days=7,limit=30)
+        self.assertEqual(result,expected)
+        rss.assert_called_once_with("UCS5Lljc_YNJU4aLXGMCYAOQ","@adeelrajaviews",unittest.mock.ANY)
+        extractor.assert_not_called()
+
     def test_rss_feed_parses_video_id_and_published_date(self):
         today=datetime.now(timezone.utc)
         entry={"yt_videoid":"abcdefghijk","title":"Latest vlog","link":"https://www.youtube.com/watch?v=abcdefghijk",
