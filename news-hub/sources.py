@@ -26,6 +26,12 @@ SOURCES = [
     gnews("Pakistan when:2h", "Google News"),
     gnews("Pakistan federal government parliament Supreme Court national policy economy security when:6h", "Pakistan National Desk"),
     gnews("Pakistan major national political development constitutional crisis election federal cabinet when:6h", "Pakistan National Politics"),
+    # Dedicated public-affairs monitoring: PTI, Imran Khan, courts, judges and constitutional rights.
+    gnews("Pakistan Imran Khan PTI latest court hearing detention access legal team when:6h", "PTI and Imran Khan Desk"),
+    gnews("Pakistan PTI opposition political developments protest parliament party leadership when:6h", "PTI Opposition Desk"),
+    gnews("Pakistan Supreme Court Islamabad High Court Lahore High Court judges judiciary constitutional rights when:6h", "Judiciary and Courts Desk"),
+    gnews("Pakistan court order political prisoners detention civil liberties media freedom when:6h", "Rights and Accountability Desk"),
+    gnews("Pakistan parliament opposition constitutional amendment election commission accountability when:6h", "Parliament and Constitution Desk"),
     # Provincial and territory desks: major public-interest developments only after editorial scoring.
     gnews("Azad Jammu Kashmir major government politics court security disaster public policy when:12h", "AJK Desk"),
     gnews("Gilgit Baltistan major government politics court security disaster infrastructure when:12h", "Gilgit-Baltistan Desk"),
