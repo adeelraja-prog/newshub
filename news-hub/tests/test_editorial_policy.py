@@ -5,7 +5,7 @@ class NationalHeadlineGateTests(unittest.TestCase):
     def base(self, **updates):
         story={"scope":"national","importance_class":"major","confidence":90,
                "importance":90,"public_interest":90,"national_impact":90,
-               "regional_impact":90,"global_impact":90,"pakistan_relevance":90,
+               "regional_impact":90,"global_impact":90,"pakistan_relevance":90,"urgency":90,
                "why_pk":"Direct public impact"}
         story.update(updates)
         return story
@@ -16,6 +16,9 @@ class NationalHeadlineGateTests(unittest.TestCase):
     def test_routine_or_minor_story_is_rejected(self):
         ok,reason=policy.eligible(self.base(importance_class="minor"))
         self.assertFalse(ok); self.assertIn("major",reason)
+
+    def test_non_urgent_old_story_is_rejected(self):
+        self.assertFalse(policy.eligible(self.base(urgency=40))[0])
 
     def test_low_public_interest_story_is_rejected(self):
         self.assertFalse(policy.eligible(self.base(public_interest=50))[0])
