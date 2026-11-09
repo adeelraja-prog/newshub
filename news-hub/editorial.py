@@ -122,13 +122,15 @@ def trend_signals(cluster, trends, hist, now):
     if n >= 2:
         score += min(40, 10 * (n - 1))
         notes.append(f"{n} independent outlets: {', '.join(cluster['sources'][:5])}")
-    match = None
+    matches = []
     for t in trends:
         if t["tokens"]:
             ov = len(t["tokens"] & cluster["tokens"])
             if ov >= math.ceil(0.6 * len(t["tokens"])):
-                match = t
-                break
+                matches.append(t)
+    # Prefer a measured Pakistan X signal over a Google Trends match when both apply.
+    match = next((t for t in matches if t.get("source") == "X Pakistan Trends"),
+                 matches[0] if matches else None)
     x_match = None
     if match:
         if match.get("source") == "X Pakistan Trends":
