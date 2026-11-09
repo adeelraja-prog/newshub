@@ -173,9 +173,19 @@ VIRAL_RE = re.compile(r"\bviral\b|goes viral|went viral|trending on|social media
 
 
 def composite(st):
-    base = (0.40 * st["importance"] + 0.25 * st["trend_score"] + 0.15 * st["viral_potential"]
-            + 0.20 * st["pakistan_relevance"] + 0.30 * st.get("public_interest", 0))
-    return round(base + (5 if st.get("has_wire_or_official") else 0) + CAT_BOOST.get(st.get("category"), 0), 1)
+    # The previous weights summed to 1.30, inflating every candidate's score.
+    # Normalise the evidence score to a 0-100 base before adding transparent bonuses.
+    raw = (0.40 * st["importance"] + 0.25 * st["trend_score"] + 0.15 * st["viral_potential"]
+           + 0.20 * st["pakistan_relevance"] + 0.30 * st.get("public_interest", 0))
+    base = raw / 1.30
+    public_affairs_text = " ".join(str(st.get(k) or "") for k in ("event","headline","title","why_pk")).lower()
+    public_affairs = any(term in public_affairs_text for term in (
+        "imran khan","pti","supreme court","high court","judiciary","judge","constitutional",
+        "political prisoner","detention","election commission","civil liberties","media freedom",
+        "عمران خان","پی ٹی آئی","سپریم کورٹ","ہائی کورٹ","عدلیہ","جج","آئینی"
+    ))
+    return round(base + (5 if st.get("has_wire_or_official") else 0)
+                 + CAT_BOOST.get(st.get("category"), 0) + (6 if public_affairs else 0), 1)
 
 
 def interleave(chosen):
