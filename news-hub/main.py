@@ -1649,6 +1649,28 @@ def main():
     else:
         print("[info] no new story clusters to analyse (no Gemini call made)")
 
+    # Revalidate stories already in the queue after the stricter editorial policy rollout.
+    # Old queued posts without sufficient provenance are held for human review, never auto-published.
+    held_old=0
+    for queued in queue["items"]:
+        if queued.get("status")!="queued" or queued.get("type") in ("youtube","engage"):
+            continue
+        meta=queued.get("meta") or {}
+        scores=meta.get("scores") or {}
+        legacy_story={"scope":meta.get("scope"),"importance_class":meta.get("importance_class"),
+                      "confidence":scores.get("confidence"),"importance":scores.get("importance"),
+                      "public_interest":scores.get("public_interest"),"national_impact":meta.get("national_impact"),
+                      "regional_impact":meta.get("regional_impact"),"global_impact":meta.get("global_impact"),
+                      "pakistan_relevance":scores.get("pakistan_relevance"),"why_pk":meta.get("why_pk")}
+        accepted,reason=ep.eligible(legacy_story)
+        if not accepted:
+            queued["status"]="needs_review"
+            queued["needs_review_at"]=iso(t0)
+            queued["review_reason"]="Strict headline recheck: "+reason
+            held_old+=1
+    if held_old:
+        print(f"[quality] moved {held_old} legacy queued stories to needs_review under the new headline gate")
+
     # publish at most one due post
     item, why = pick_due(queue, t0)
     if item is None:
