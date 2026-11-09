@@ -47,7 +47,9 @@ def scan_and_queue(state):
     already=set(state["done"]) | set(state["queued_video_ids"])
     blocked=state.setdefault("blocked",{})
     if yt.COOKIE_FILE.exists():
-        for video in backlog: blocked.pop(video["id"],None)
+        for video in backlog:
+            blocked.pop(video["id"],None)
+            state["failed"][video["id"]]=0
     pending=[v for v in backlog if v["id"] not in already and state["failed"].get(v["id"],0)<3
              and (yt.COOKIE_FILE.exists() or v["id"] not in blocked)]
     print(f"[yt] {len(backlog)} recent uploads found; {len(pending)} not yet queued")
