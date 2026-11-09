@@ -197,7 +197,7 @@ def has_devanagari(text):
 def has_urdu_script(text):
     """Require Urdu-script content in fields explicitly designated as Urdu."""
     value=str(text or "")
-    urdu_letters=len(re.findall(r"[\\u0620-\\u064A\\u066E-\\u06D3]",value))
+    urdu_letters=len(re.findall(r"[\u0620-\u064A\u066E-\u06D3]",value))
     latin_letters=len(re.findall(r"[A-Za-z]",value))
     total=urdu_letters+latin_letters
     return urdu_letters>=4 and (total==0 or urdu_letters/total>=0.55)
