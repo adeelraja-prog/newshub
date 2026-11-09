@@ -41,6 +41,14 @@ class YouTubeDiscoveryTests(unittest.TestCase):
         rss.assert_called_once_with("UCS5Lljc_YNJU4aLXGMCYAOQ","@adeelrajaviews",unittest.mock.ANY)
         extractor.assert_not_called()
 
+    def test_download_surfaces_youtube_bot_gate_as_auth_required(self):
+        from pathlib import Path
+        import tempfile
+        failed=SimpleNamespace(returncode=1,stdout="",stderr="Sign in to confirm you're not a bot")
+        with tempfile.TemporaryDirectory() as tmp, patch("reels.yt.subprocess.run",return_value=failed):
+            with self.assertRaisesRegex(RuntimeError,"YOUTUBE_AUTH_REQUIRED"):
+                yt.download("abcdefghijk",Path(tmp))
+
     def test_rss_feed_parses_video_id_and_published_date(self):
         today=datetime.now(timezone.utc)
         entry={"yt_videoid":"abcdefghijk","title":"Latest vlog","link":"https://www.youtube.com/watch?v=abcdefghijk",
