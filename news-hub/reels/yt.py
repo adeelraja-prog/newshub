@@ -10,9 +10,9 @@ COOKIE_FILE = C.BASE / "cookies.txt"
 
 def _base(public_client=True):
     # Public, unauthenticated YouTube extractor clients only.
-    args=["yt-dlp","--no-warnings","--ignore-errors"]
+    args=["yt-dlp","--no-warnings","--ignore-errors","--remote-components","ejs:github"]
     if public_client:
-        args += ["--extractor-args","youtube:player_client=tv_embedded,ios,web_safari"]
+        args += ["--extractor-args","youtube:player_client=tv_embedded,ios,web_safari,android"]
     if COOKIE_FILE.exists(): args += ["--cookies",str(COOKIE_FILE)]
     return args
 
@@ -142,26 +142,40 @@ def latest_video(handle):
     return videos[0] if videos else None
 
 def download(video_id,out_dir:Path):
+    """Try multiple supported yt-dlp clients and format fallbacks; never silently mark auth blocks as processed."""
     out=out_dir/"src.mp4"
     url=f"https://www.youtube.com/watch?v={video_id}"
-    fallback=["yt-dlp","--no-warnings","--extractor-args","youtube:player_client=tv_embedded,ios,web_safari"]
-    if COOKIE_FILE.exists(): fallback += ["--cookies",str(COOKIE_FILE)]
-    fallback += ["-f","bv*[height<=720]+ba/b[height<=720]/b","--merge-output-format","mp4","-o",str(out),url]
-    attempts=[
-        _base()+["-f","bv*[height<=1080]+ba/b[height<=1080]/b","--merge-output-format","mp4","-o",str(out),url],
-        fallback
+    client_sets=[
+        "tv_embedded,ios,web_safari,android",
+        "ios,web_safari",
+        "android,web"
     ]
     errors=[]
-    for args in attempts:
-        try:
-            r=subprocess.run(args,capture_output=True,text=True,timeout=900)
-            if r.returncode==0 and out.exists() and out.stat().st_size>1024:
-                print(f"[yt] downloaded public video {video_id}")
-                return out
-            errors.append((r.stderr or "download returned no file")[-500:])
-        except subprocess.TimeoutExpired: errors.append("download timed out")
-    detail=" | ".join(errors)
-    print(f"[yt] public download failed for {video_id}: {detail}")
+    for clients in client_sets:
+        base=["yt-dlp","--no-warnings","--ignore-errors","--remote-components","ejs:github",
+              "--extractor-args",f"youtube:player_client={clients}"]
+        if COOKIE_FILE.exists():
+            base += ["--cookies",str(COOKIE_FILE)]
+        for fmt in ("bv*[height<=1080]+ba/b[height<=1080]/b",
+                    "bv*[height<=720]+ba/b[height<=720]/b",
+                    "best[ext=mp4]/best"):
+            try:
+                r=subprocess.run(base+["-f",fmt,"--merge-output-format","mp4",
+                    "--no-playlist","--retries","2","--fragment-retries","2",
+                    "-o",str(out),url],capture_output=True,text=True,timeout=900)
+                if r.returncode==0 and out.exists() and out.stat().st_size>1024:
+                    print(f"[yt] downloaded {video_id} using client={clients}, format={fmt}")
+                    return out
+                errors.append(f"{clients}/{fmt}: {(r.stderr or 'no file')[-350:]}")
+            except subprocess.TimeoutExpired:
+                errors.append(f"{clients}/{fmt}: timed out")
+            except Exception as exc:
+                errors.append(f"{clients}/{fmt}: {str(exc)[-250:]}")
+            try:
+                if out.exists(): out.unlink()
+            except OSError: pass
+    detail=" | ".join(errors[-6:])
+    print(f"[yt] all download fallbacks failed for {video_id}: {detail}")
     if is_auth_error(detail):
         raise RuntimeError("YOUTUBE_AUTH_REQUIRED: YouTube is blocking anonymous downloads; configure the YT_COOKIES GitHub Actions secret.")
     return None
