@@ -5,7 +5,7 @@ class NationalHeadlineGateTests(unittest.TestCase):
     def base(self, **updates):
         story={"scope":"national","importance_class":"major","confidence":90,
                "importance":90,"public_interest":90,"national_impact":90,
-               "regional_impact":90,"global_impact":90,"pakistan_relevance":90,"urgency":90,
+               "regional_impact":90,"global_impact":90,"pakistan_relevance":90,"urgency":80,"urgency":90,
                "why_pk":"Direct public impact"}
         story.update(updates)
         return story
