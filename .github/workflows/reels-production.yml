@@ -102,7 +102,6 @@ jobs:
           REEL_CLIPS_PER_VIDEO: "3"
           REEL_LOOKBACK_DAYS: "7"
           REEL_SCAN_LIMIT: "30"
-          REEL_SCAN_LIMIT: "30"
           REEL_CLIP_MIN: "30"
           REEL_CLIP_MAX: "90"
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
