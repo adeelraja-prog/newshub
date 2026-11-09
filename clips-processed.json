@@ -1,19 +1,25 @@
 {
   "done": [],
-  "failed": {
-    "9Y0zxad3-J0": 3,
-    "3wp4e0fpDio": 3,
-    "KjawIaz6cCI": 3,
-    "P6dkEA5tMDk": 0,
-    "5KJWSTUbg1Q": 0,
-    "QKSTh797GvM": 0
-  },
+  "failed": {},
   "seeded": true,
   "queue": [],
   "queued_video_ids": [],
   "blocked": {
-    "P6dkEA5tMDk": "YOUTUBE_AUTH_REQUIRED: YouTube is blocking anonymous downloads; configure the YT_COOKIES GitHub Actions secret.",
-    "5KJWSTUbg1Q": "YOUTUBE_AUTH_REQUIRED: YouTube is blocking anonymous downloads; configure the YT_COOKIES GitHub Actions secret.",
-    "QKSTh797GvM": "YOUTUBE_AUTH_REQUIRED: YouTube is blocking anonymous downloads; configure the YT_COOKIES GitHub Actions secret."
-  }
+    "P6dkEA5tMDk": "YT_COOKIES secret is not configured",
+    "5KJWSTUbg1Q": "YT_COOKIES secret is not configured",
+    "QKSTh797GvM": "YT_COOKIES secret is not configured",
+    "ipUdd-5x_L4": "YT_COOKIES secret is not configured",
+    "vwVDefAiqnQ": "YT_COOKIES secret is not configured",
+    "Ww--VIGscWQ": "YT_COOKIES secret is not configured",
+    "9Y0zxad3-J0": "YT_COOKIES secret is not configured",
+    "bmC6GHMNiHE": "YT_COOKIES secret is not configured",
+    "J6iMJPMWVCk": "YT_COOKIES secret is not configured",
+    "GHAnAqKvIDk": "YT_COOKIES secret is not configured",
+    "3wp4e0fpDio": "YT_COOKIES secret is not configured",
+    "KjawIaz6cCI": "YT_COOKIES secret is not configured",
+    "tnHCarZJV3c": "YT_COOKIES secret is not configured",
+    "_2RqrkYEmsw": "YT_COOKIES secret is not configured",
+    "IE1TIomiA-Q": "YT_COOKIES secret is not configured"
+  },
+  "cookie_fingerprint": null
 }
