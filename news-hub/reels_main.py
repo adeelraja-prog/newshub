@@ -78,6 +78,16 @@ def publish_one(state):
     if not state["queue"]:
         print("[queue] no prepared Reel is waiting to publish")
         return
+    last=state.get("last_published_at")
+    if last:
+        try:
+            previous=datetime.fromisoformat(last)
+            elapsed=(datetime.now(timezone.utc)-previous).total_seconds()/60
+            if elapsed<C.MIN_GAP_MINUTES:
+                print(f"[queue] publishing cooldown active: {elapsed:.0f}/{C.MIN_GAP_MINUTES} minutes elapsed")
+                return
+        except (TypeError,ValueError):
+            print("[queue] previous publish timestamp is invalid; proceeding with guarded queue")
     item=state["queue"][0]
     video=item["video"]; clip=item["clip"]; transcript=item["transcript"]
     folder=C.WORK/video["id"]; folder.mkdir(parents=True,exist_ok=True)
