@@ -72,20 +72,25 @@ def draw_paragraph(draw,text,f,y,max_width,fill,direction="ltr",line_gap=16,max_
     return y
 
 def load_story_photo(item,folder):
-    """Use a supplied lead image, then keyless CC0/public-domain image search fallbacks."""
+    """Use publisher or openly licensed CC0/CC-BY/CC-BY-SA lead images with attribution."""
     candidates=[]
     supplied=str(item.get("image_url") or "").strip()
     if supplied.startswith("https://"):
-        candidates.append(supplied)
-    query=" ".join([str(item.get("headline") or item.get("title") or ""),str(item.get("category") or "news")])[:180]
+        candidates.append((supplied,f"Image: {item.get('source_name') or 'original publisher'}"))
+    entities=(item.get("meta") or {}).get("entities") or {}
+    names=" ".join((entities.get("people") or [])[:2]+(entities.get("organisations") or [])[:2])
+    query=" ".join([str(item.get("headline") or item.get("title") or ""),names,str(item.get("category") or "news")])[:220]
     try:
         r=requests.get("https://api.openverse.org/v1/images/",params={
-            "q":query,"page_size":12,"license":"cc0,pdm"
+            "q":query,"page_size":20,"license":"cc0,pdm,by,by-sa"
         },headers={"User-Agent":"Mozilla/5.0 (compatible; AdeelRajaNewsHub/1.0)"},timeout=20)
         r.raise_for_status()
         for hit in r.json().get("results",[]):
             url=hit.get("url") or hit.get("thumbnail")
-            if url and url.startswith("https://"): candidates.append(url)
+            if url and url.startswith("https://"):
+                creator=str(hit.get("creator") or "creator not listed").strip()
+                licence=str(hit.get("license") or "open licence").upper()
+                candidates.append((url,f"Image: {creator} · {licence} (Openverse)"))
     except Exception as exc:
         print(f"[news-reels] Openverse image search unavailable: {exc}")
     try:
@@ -99,13 +104,15 @@ def load_story_photo(item,folder):
             info=(page.get("imageinfo") or [{}])[0]
             meta=info.get("extmetadata") or {}
             licence=re.sub("<[^>]+>","",(meta.get("LicenseShortName") or {}).get("value",""))
-            if re.search(r"CC0|Public domain",licence,re.I):
+            if re.search(r"CC0|Public domain|CC BY(?:-SA)?",licence,re.I):
                 url=info.get("thumburl") or info.get("url")
-                if url and url.startswith("https://"): candidates.append(url)
+                if url and url.startswith("https://"):
+                    artist=re.sub("<[^>]+>","",(meta.get("Artist") or {}).get("value","")).strip()
+                    candidates.append((url,f"Image: {artist or 'Wikimedia Commons contributor'} · {licence} (Commons)"))
     except Exception as exc:
         print(f"[news-reels] Commons image search unavailable: {exc}")
     seen=set()
-    for url in candidates:
+    for url,credit in candidates:
         if url in seen: continue
         seen.add(url)
         try:
@@ -117,14 +124,14 @@ def load_story_photo(item,folder):
             if im.width<360 or im.height<240: continue
             path=folder/"story_photo.jpg"
             im.save(path,quality=93)
-            print("[news-reels] a usable lead photograph was selected")
-            return path
+            print("[news-reels] a usable lead photograph was selected with attribution")
+            return path,credit
         except Exception:
             continue
     print("[news-reels] no usable lead photograph found; graphic fallback will be used")
-    return None
+    return None,""
 
-def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,total=3,photo=None):
+def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,total=3,photo=None,photo_credit=""):
     if photo and Path(photo).exists():
         src=Image.open(photo).convert("RGB")
         scale=max(W/src.width,H/src.height)
@@ -169,6 +176,8 @@ def make_slide(path,category,eyebrow,main,secondary="",urdu=False,slide_no=1,tot
         d.line((390,y-32,690,y-32),fill=GOLD,width=3)
         sf=font(FONT_EN,29)
         draw_paragraph(d,secondary,sf,y,820,(202,207,215),"ltr",line_gap=8,max_lines=3)
+    if photo_credit:
+        d.text((W//2,1650),str(photo_credit)[:90],font=font(FONT_EN,15),fill=(205,210,220),anchor="mm")
     d.line((100,1690,980,1690),fill=(64,72,87),width=2)
     d.text((W//2,1740),"@adeelrajaviews",font=font(FONT_EN,25),fill=IVORY,anchor="mm")
     d.text((W//2,1795),f"{slide_no:02d} / {total:02d}",font=font(FONT_EN,19),fill=GOLD,anchor="mm")
@@ -240,10 +249,10 @@ def render_story(item,folder):
       ("WHY IT MATTERS",summary_ur,"",True)
     ]
     folder.mkdir(parents=True,exist_ok=True); paths=[]
-    photo=load_story_photo(item,folder)
+    photo,photo_credit=load_story_photo(item,folder)
     for i,(eyebrow,main,secondary,is_urdu) in enumerate(slides,1):
         p=folder/f"slide_{i:02d}.jpg"
-        make_slide(p,category,eyebrow,main,secondary,is_urdu,i,len(slides),photo); paths.append(p)
+        make_slide(p,category,eyebrow,main,secondary,is_urdu,i,len(slides),photo,photo_credit); paths.append(p)
     outro=folder/"adeel_raja_outro.jpg"; make_outro(outro); paths.append(outro)
     out=folder/"news_story_reel.mp4"; music=folder/"original_news_bed.wav"
     # Slow editorial pacing: six seconds per story beat plus a two-second outro.
