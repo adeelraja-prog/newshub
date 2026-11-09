@@ -36,7 +36,7 @@ jobs:
 
       - name: Validate Reel editor syntax
         working-directory: news-hub
-        run: python -m py_compile news_reels.py reels_main.py
+        run: python -m py_compile news_reels.py reels_main.py reels/yt.py reels/asr.py reels/clips.py reels/render.py reels/fb.py
       - name: Cache Whisper model
         uses: actions/cache@v4
         with:
@@ -87,30 +87,18 @@ jobs:
             echo "::warning::YT_COOKIES is not configured; YouTube may block video downloads from this runner."
           fi
 
-      - name: Check YouTube download access
-        id: yt_access
-        run: |
-          if [ -s news-hub/cookies.txt ]; then
-            echo "available=true" >> "$GITHUB_OUTPUT"
-            echo "[yt] YouTube session cookies are configured."
-          else
-            echo "available=false" >> "$GITHUB_OUTPUT"
-            echo "::warning::YouTube is requiring a signed-in session on the GitHub runner. Add the YT_COOKIES repository secret to enable long-form Reels. The scan is paused; no retry counters will be consumed."
-          fi
-
       - name: Scan YouTube long-form videos and build the Reel queue
-        if: steps.yt_access.outputs.available == 'true'
         working-directory: news-hub
         env:
           REEL_STATE_FILE: /tmp/reels-state/clips-processed.json
           REEL_REPORT_DIR: /tmp/reels-state/reports
           REEL_CHANNELS: ${{ vars.REEL_LONGFORM_CHANNELS || '@adeelrajaviews' }}
-          REEL_MAX_VIDEOS: "3"
+          REEL_MAX_VIDEOS: "5"
           REEL_RUN_MODE: scan
-          REEL_MODE: blur
+          REEL_MODE: fill
           REEL_CLIPS_PER_VIDEO: "3"
-          REEL_LOOKBACK_DAYS: "7"
-          REEL_SCAN_LIMIT: "30"
+          REEL_LOOKBACK_DAYS: "30"
+          REEL_SCAN_LIMIT: "100"
           REEL_CLIP_MIN: "30"
           REEL_CLIP_MAX: "90"
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
