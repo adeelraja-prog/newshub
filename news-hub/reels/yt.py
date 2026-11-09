@@ -10,7 +10,9 @@ def _base(public_client=True):
     # Public, unauthenticated YouTube extractor clients only.
     args=["yt-dlp","--no-warnings","--ignore-errors"]
     if public_client:
-        args += ["--extractor-args","youtube:player_client=android,web_safari"]
+        args += ["--extractor-args","youtube:player_client=tv_embedded,ios,web_safari"]
+    cookie_file=Path(__file__).resolve().parents[1]/"cookies.txt"
+    if cookie_file.exists(): args += ["--cookies",str(cookie_file)]
     return args
 
 def _upload_date(info):
@@ -65,7 +67,7 @@ def _rss_videos(channel_id,handle,cutoff):
         return None
 
 def recent_videos(handle,lookback_days=None,limit=None):
-    """Discover public channel uploads, preferring RSS dates over per-video metadata calls."""
+    """Discover channel uploads; use verified dates when available, otherwise retain newest-first entries."""
     days=lookback_days or C.LOOKBACK_DAYS
     count=limit or C.SCAN_LIMIT
     url=f"https://www.youtube.com/{handle}/videos"
@@ -73,49 +75,74 @@ def recent_videos(handle,lookback_days=None,limit=None):
     known_id=KNOWN_CHANNEL_IDS.get(handle.lower())
     if known_id:
         rss=_rss_videos(known_id,handle,cutoff)
-        if rss is not None: return rss[-count:]
+        if rss: return rss[:count]
     try:
         listing=_run_json(_base()+["--flat-playlist","--playlist-end",str(count),"-J",url],timeout=240)
     except Exception as exc:
         raise RuntimeError(f"[yt] public channel listing failed for {handle}: {exc}")
-    entries=[e for e in (listing.get("entries") or []) if isinstance(e,dict) and e.get("id")]
+    entries=[e for e in (listing.get("entries") or []) if isinstance(e,dict) and e.get("id")][:count]
     channel_id=listing.get("channel_id") or listing.get("id")
     if channel_id and str(channel_id)!=known_id:
         rss=_rss_videos(str(channel_id),handle,cutoff)
-        if rss is not None: return rss[-count:]
-    videos=[]; missing_dates=0; detail_failures=0
-    for entry in entries[:min(count,25)]:
+        if rss: return rss[:count]
+
+    # YouTube may allow a public newest-first channel listing but block individual metadata
+    # behind a sign-in challenge. Try detailed metadata for only the first ten entries.
+    # Keep the channel's actual order for undated uploads rather than dropping every video.
+    videos=[]; seen=set(); missing_dates=0; detail_failures=0
+    today=datetime.now(timezone.utc).date()
+    for index,entry in enumerate(entries):
         video_id=entry["id"]
         uploaded=_upload_date(entry)
         title=entry.get("title") or ""
-        if uploaded is None:
-            video_url=f"https://www.youtube.com/watch?v={video_id}"
+        if uploaded is None and index<min(count,10):
             try:
-                detail=_run_json(_base()+["--skip-download","--no-playlist","-J",video_url],timeout=90)
+                detail=_run_json(_base()+["--skip-download","--no-playlist","-J",
+                                         f"https://www.youtube.com/watch?v={video_id}"],timeout=45)
                 uploaded=_upload_date(detail)
                 title=detail.get("title") or title
             except Exception as exc:
                 detail_failures+=1
-                print(f"[yt] public metadata unavailable for {video_id}: {str(exc)[-300:]}")
-        if uploaded is None:
+                if index<3: print(f"[yt] newest video metadata blocked for {video_id}: {str(exc)[-220:]}")
+        duration=entry.get("duration")
+        if duration is not None:
+            try:
+                if float(duration)<180: continue
+            except (TypeError,ValueError): pass
+        if uploaded is not None:
+            if uploaded<cutoff: continue
+            date_value=uploaded.isoformat()
+            sort_date=date_value
+            verified=True
+        else:
             missing_dates+=1
-            continue
-        if uploaded<cutoff: continue
-        videos.append({"id":video_id,"title":title,"channel":handle,"upload_date":uploaded.isoformat()})
-    videos.sort(key=lambda v:(v["upload_date"],v["id"]))
-    print(f"[yt] {handle}: public scan found {len(videos)} uploads in last {days} days; undated {missing_dates}; metadata errors {detail_failures}; authenticated access not used")
-    return videos[-count:]
+            date_value="undated"
+            # Smaller index means newer item in YouTube's /videos ordering.
+            sort_date=(today-timedelta(days=index)).isoformat()
+            verified=False
+        if video_id in seen: continue
+        seen.add(video_id)
+        videos.append({"id":video_id,"title":title,"channel":handle,"upload_date":date_value,
+                       "sort_date":sort_date,"date_verified":verified})
+    videos.sort(key=lambda v:(v.get("sort_date") or "",v["id"]),reverse=True)
+    print(f"[yt] {handle}: {len(videos)} candidates; {missing_dates} upload dates unavailable; "
+          f"{detail_failures} metadata lookups blocked; channel order fallback used for undated videos")
+    return videos[:count]
 
 def latest_video(handle):
     videos=recent_videos(handle,lookback_days=1,limit=5)
-    return videos[-1] if videos else None
+    return videos[0] if videos else None
 
 def download(video_id,out_dir:Path):
     out=out_dir/"src.mp4"
     url=f"https://www.youtube.com/watch?v={video_id}"
+    fallback=["yt-dlp","--no-warnings","--extractor-args","youtube:player_client=tv_embedded,ios,web_safari"]
+    cookie_file=Path(__file__).resolve().parents[1]/"cookies.txt"
+    if cookie_file.exists(): fallback += ["--cookies",str(cookie_file)]
+    fallback += ["-f","bv*[height<=720]+ba/b[height<=720]/b","--merge-output-format","mp4","-o",str(out),url]
     attempts=[
         _base()+["-f","bv*[height<=1080]+ba/b[height<=1080]/b","--merge-output-format","mp4","-o",str(out),url],
-        ["yt-dlp","--no-warnings","-f","bv*[height<=720]+ba/b[height<=720]/b","--merge-output-format","mp4","-o",str(out),url]
+        fallback
     ]
     errors=[]
     for args in attempts:
