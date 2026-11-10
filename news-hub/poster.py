@@ -620,46 +620,75 @@ def T7(c, flip, style):
     if c.breaking:
         d.text((W-M,bottom+36),"BREAKING",font=sans(27,900),fill="#FFFFFF",anchor="rm")
 
-    # Ivory headline panel with Urdu as the hero and English as supporting context.
+    # Headline panel: measure real glyph bounds. Nastaliq has deep descenders;
+    # fixed line-height estimates caused Urdu and English to collide in production.
     panel_top=776
     d.rectangle((0,panel_top,W,H),fill=paper)
     d.rectangle((M,panel_top+28,W-M,panel_top+32),fill=gold)
     ur=str(c.ur or "").strip()
     en=str(c.en or "").strip()
-    y=panel_top+78
-    if ur:
-        uf=urdu(72)
-        lines=wrap(ur,uf,W-2*M-24)
-        while len(lines)>3 and uf.size>48:
-            uf=urdu(uf.size-2)
-            lines=wrap(ur,uf,W-2*M-24)
-        lines=lines[:3]
-        lh=int(uf.size*1.42)
+
+    def urdu_metrics(lines, font):
+        metrics=[]
+        total=0
         for line in lines:
-            d.text((W-M,y),line,font=uf,fill=ink,anchor="ra",direction="rtl",language="ur")
-            y+=lh
+            bb=d.textbbox((0,0),line,font=font,anchor="rt",direction="rtl",language="ur")
+            h=max(1,bb[3]-bb[1])
+            metrics.append((bb,h))
+            total+=h
+        if len(lines)>1:
+            total+=(len(lines)-1)*8
+        return metrics,total
+
+    content_top=panel_top+72
+    content_bottom=1135
+    y=content_top
+    if ur:
+        # Fit the complete Urdu headline into a measured two/three-line block.
+        size=62
+        while True:
+            uf=urdu(size)
+            lines=wrap(ur,uf,W-2*M-24)
+            metrics,block_h=urdu_metrics(lines,uf)
+            if (len(lines)<=3 and block_h<=205) or size<=34:
+                break
+            size-=2
+        # At the minimum size preserve readability and avoid silently dropping words.
+        for line,(bb,h) in zip(lines,metrics):
+            d.text((W-M,y-bb[1]),line,font=uf,fill=ink,anchor="rt",direction="rtl",language="ur")
+            y+=h+8
+        if lines:
+            y-=8
     else:
-        ef=sans(61,900)
+        ef=sans(58,900)
         lines=wrap(en.upper(),ef,W-2*M)
-        while len(lines)>3 and ef.size>42:
+        while len(lines)>3 and ef.size>38:
             ef=sans(ef.size-2,900)
             lines=wrap(en.upper(),ef,W-2*M)
         for line in lines[:3]:
+            bb=d.textbbox((M,y),line,font=ef)
             d.text((M,y),line,font=ef,fill=ink)
-            y+=int(ef.size*1.18)
+            y=max(y,bb[3])+8
 
     if ur and en:
-        y+=10
-        d.line((M,y,M+82,y),fill=red,width=5)
-        y+=28
-        ef=sans(30,650)
+        # Keep translation in a separate, non-overlapping block below Urdu.
+        y+=20
+        d.rectangle((M,y,M+76,y+5),fill=red)
+        y+=22
+        ef=sans(27,650)
         en_lines=wrap(en,ef,W-2*M)
-        while len(en_lines)>2 and ef.size>23:
-            ef=sans(ef.size-2,600)
+        while len(en_lines)>2 and ef.size>20:
+            ef=sans(ef.size-1,600)
             en_lines=wrap(en,ef,W-2*M)
         for line in en_lines[:2]:
+            bb=d.textbbox((M,y),line,font=ef)
             d.text((M,y),line,font=ef,fill=muted)
-            y+=int(ef.size*1.34)
+            y=bb[3]+5
+
+    # Hard layout guard: if unusually long copy exceeds the editorial panel,
+    # fail visibly in tests rather than silently drawing into the attribution.
+    if y>content_bottom:
+        raise ValueError(f"Poster headline block overflow: bottom={y}, limit={content_bottom}")
 
     # Clean attribution footer with prominent creator credit and social identity.
     fy=1162
