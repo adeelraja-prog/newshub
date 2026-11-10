@@ -543,7 +543,115 @@ def T6(c, flip, style):
     c.d=ImageDraw.Draw(c.img)
 
 
-TEMPLATES = [T1, T2, T3, T4, T5, T6]
+
+def T7(c, flip, style):
+    """Adeel Raja flagship newsroom poster: bold masthead, documentary image, strong Urdu hierarchy."""
+    palettes = [
+        ("#101820", "#F7F5F0", "#BFC8D2", "#D71920"),
+        ("#111827", "#FFFDF8", "#C7CBD2", "#E5A83B"),
+        ("#151515", "#FFFFFF", "#C8C8C8", "#C62828"),
+    ]
+    bg, paper, muted, red = palettes[style % len(palettes)]
+    accent = red if c.breaking else c.acc
+    im = Image.new("RGB", (W, H), paper)
+    d = ImageDraw.Draw(im)
+
+    # Masthead: a consistent, unmistakable publisher identity.
+    d.rectangle((0, 0, W, 190), fill=bg)
+    d.rectangle((0, 0, 16, H), fill=accent)
+    lockup(im, M, 22, "l", 0.66, "#FFFFFF", "#C7CBD2", "#E5B85C")
+    badge = portrait_circle(112, "#E5B85C", 5)
+    im.paste(badge, (W-M-badge.width, 30), badge)
+    d = ImageDraw.Draw(im)
+    d.text((M, 153), "INDEPENDENT JOURNALISM  /  PAKISTAN & THE WORLD",
+           font=sans(16, 700), fill="#AEB8C4")
+
+    # Documentary image panel. Never invent a news photograph.
+    photo_top, photo_bottom = 190, 575
+    if c.person is not None:
+        hero = ImageOps.fit(c.person.convert("RGB"), (W, photo_bottom-photo_top),
+                            method=Image.Resampling.LANCZOS, centering=(0.5, 0.40))
+        im.paste(hero, (0, photo_top))
+        shade = Image.new("RGBA", (W, photo_bottom-photo_top), (5, 10, 18, 55))
+        im.paste(Image.alpha_composite(im.crop((0, photo_top, W, photo_bottom)).convert("RGBA"),
+                                       shade).convert("RGB"), (0, photo_top))
+    else:
+        d = ImageDraw.Draw(im)
+        d.rectangle((0, photo_top, W, photo_bottom), fill="#202C39")
+        # Graphic newsroom treatment when no verified story photograph is available.
+        d.polygon([(0, photo_top+300), (W, photo_top+35), (W, photo_bottom), (0, photo_bottom)],
+                  fill="#263747")
+        d.ellipse((W-470, photo_top-190, W+120, photo_top+400), outline="#526273", width=3)
+        d.ellipse((W-390, photo_top-110, W+40, photo_top+320), outline="#394B5D", width=3)
+        art = icon(c.icon_name, 260, accent).convert("RGBA")
+        art.putalpha(115)
+        im.paste(art, (W-390, photo_top+45), art)
+        d = ImageDraw.Draw(im)
+        d.rectangle((M, photo_bottom-18, M+120, photo_bottom-10), fill=accent)
+
+    d = ImageDraw.Draw(im)
+    # Category strap bridges the image and headline like a broadcast newsroom lower-third.
+    d.rectangle((0, photo_bottom-4, W, photo_bottom+62), fill=accent)
+    category = (str(c.label_en or "NEWS").upper())[:28]
+    d.text((M, photo_bottom+28), category, font=sans(23, 800), fill="#FFFFFF", anchor="lm")
+    if c.breaking:
+        d.text((W-M, photo_bottom+28), "BREAKING", font=sans(22, 800), fill="#FFFFFF", anchor="rm")
+
+    # Headline panel: large Urdu first, compact English context second.
+    y = 675
+    ur = str(c.ur or "").strip()
+    en = str(c.en or "").strip()
+    if ur:
+        uf = urdu(66)
+        lines = wrap(ur, uf, W-2*M-20)
+        while len(lines) > 3 and uf.size > 44:
+            uf = urdu(uf.size-2)
+            lines = wrap(ur, uf, W-2*M-20)
+        lines = lines[:3]
+        line_h = int(uf.size * 1.48)
+        for line in lines:
+            d.text((W-M, y), line, font=uf, fill="#15191F", anchor="ra",
+                   direction="rtl", language="ur")
+            y += line_h
+    else:
+        ef = sans(58, 800)
+        lines = wrap(en.upper(), ef, W-2*M)
+        while len(lines) > 3 and ef.size > 40:
+            ef = sans(ef.size-2, 800)
+            lines = wrap(en.upper(), ef, W-2*M)
+        for line in lines[:3]:
+            d.text((M, y), line, font=ef, fill="#15191F")
+            y += int(ef.size*1.16)
+
+    if ur and en:
+        y += 14
+        d.rectangle((M, y, M+72, y+5), fill=accent)
+        y += 24
+        ef = sans(29, 600)
+        elines = wrap(en, ef, W-2*M)
+        while len(elines) > 2 and ef.size > 23:
+            ef = sans(ef.size-2, 600)
+            elines = wrap(en, ef, W-2*M)
+        for line in elines[:2]:
+            d.text((M, y), line, font=ef, fill="#505B66")
+            y += int(ef.size*1.35)
+
+    # Footer has source attribution and the creator's identity, not competing decoration.
+    footer_y = 1160
+    d.line((M, footer_y, W-M, footer_y), fill="#D5D9DE", width=2)
+    source = str(c.source or "").strip()
+    if source:
+        d.text((M, footer_y+24), "SOURCE", font=sans(15, 800), fill=accent)
+        d.text((M, footer_y+53), source[:52], font=sans(19, 600), fill="#59636E")
+    d.text((W-M, footer_y+26), "PRESENTED BY", font=sans(14, 800), fill="#7A838D", anchor="ra")
+    d.text((W-M, footer_y+58), "ADEEL RAJA", font=sans(25, 800), fill="#171B20", anchor="ra")
+    d.line((M, 1260, W-M, 1260), fill="#D5D9DE", width=2)
+    social_footer(im, W//2, 1280, "#171B20", "#68727D")
+    c.img = im
+    c.d = ImageDraw.Draw(c.img)
+
+
+TEMPLATES = [T1, T2, T3, T4, T5, T6, T7]
 
 
 def render(headline_ur, headline_en, category, breaking, sources, handle, out_path, variant=0, tag=None,
@@ -551,8 +659,8 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
     """Same signature the bot already calls. variant selects template / flip / background style."""
     icon_name, lab_ur, lab_en, acc = CATS.get(category, CATS["other"])
     c = Ctx()
-    # New photo-led bilingual Editorial Cover.
-    t = 5
+    # Flagship redesign replaces the previous generic cover.
+    t = 6
     flip = 0
     style = variant % 3
     c.dark = t != 3
