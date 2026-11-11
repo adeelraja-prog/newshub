@@ -1359,7 +1359,7 @@ def make_poster(item, tag):
 
 def publish_one(queue, state, item, t0):
     """Only mark a news item published when its primary Facebook destination confirms success."""
-    fb_id, story_id = None, None
+    fb_id, story_id, whatsapp_ok = None, None, False
     if item.get("type") == "youtube":
         try:
             res = post_facebook_link(item["caption"], item["link"])
