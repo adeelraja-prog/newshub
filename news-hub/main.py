@@ -67,16 +67,16 @@ MODEL = env("GEMINI_MODEL", "gemini-3.8-flash")
 DRY_RUN = env("DRY_RUN") == "1"
 HANDLE = env("HANDLE", "@adeelrajaviews")
 # --- schedule (all configurable) ---
-MAX_PER_DAY = fnum("MAX_PER_DAY", 12)            # quality ceiling; fewer posts are acceptable
-DAILY_TARGET = 0  # no daily volume target; quality is the objective
+MAX_PER_DAY = fnum("MAX_PER_DAY", 56)            # four normal news posters/hour across the 14-hour publishing window
+DAILY_TARGET = MAX_PER_DAY  # operational target: 4/hour; quality gates still reject weak or unverified stories
 BREAKING_EXTRA = fnum("BREAKING_EXTRA", 20)      # breaking news is effectively never blocked by the daily limit
 BREAKING_GAP_MIN = fnum("BREAKING_GAP_MIN", 10)  # minimum gap after any post (breaking and YouTube promos)
-ANALYSIS_EVERY_MIN = fnum("ANALYSIS_EVERY_MIN", 25)  # Gemini analysis cadence (collecting happens every run)
+ANALYSIS_EVERY_MIN = fnum("ANALYSIS_EVERY_MIN", 10)  # Gemini analysis cadence (collecting happens every run)
 FORCE_PRE = fnum("FORCE_ANALYSIS_SCORE", 70)     # a very strong story triggers analysis immediately
 DEPTH_SKIP = fnum("QUEUE_DEPTH_SKIP", 14)        # enough queued: skip analysis (saves Gemini quota)
 YT_MAX_AGE_H = fnum("YT_MAX_AGE_HOURS", 24)      # only promote videos uploaded within this many hours
 WINDOW_START, WINDOW_END = fnum("WINDOW_START", 9), fnum("WINDOW_END", 23)   # PKT hours
-SELECT_N = fnum("SELECT_N", 2)                   # stories queued per run
+SELECT_N = fnum("SELECT_N", 4)                   # stories queued per run
 QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before a queued story is dropped
 MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 14)          # do not queue stories that would post later than this
 # --- editorial thresholds ---
@@ -961,9 +961,8 @@ def count_day(queue, state, day, include_queued=True):
 
 
 def current_gap(queue, extra=0):
-    """Adaptive spacing: busy queue -> 10 min, medium -> 15, quiet -> 30."""
-    depth = sum(1 for i in queue["items"] if i["status"] == "queued" and i["priority"] == "normal") + extra
-    return 10 if depth >= 8 else 15 if depth >= 4 else 30
+    """Four normal news posters per hour means a fixed 15-minute publishing cadence."""
+    return 15
 
 
 def assign_slot(queue, t0):
@@ -1040,7 +1039,7 @@ def last_published(queue):
 
 
 def pick_due(queue, t0):
-    """At most ONE post per run: breaking first, then YouTube promos, then the best normal story."""
+    """Publish one due item per five-minute run, respecting the 15-minute normal-news cadence."""
     due = [i for i in queue["items"] if i["status"] == "queued" and parse(i["not_before"]) <= t0]
     if not due:
         return None, "nothing due yet"
