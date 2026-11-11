@@ -45,7 +45,7 @@ class MobileValuePosterTests(unittest.TestCase):
                     self.assertEqual(image.format, "JPEG")
                     # The permanent Adeel Raja portrait badge must be visible on explainers.
                     if index == 0:
-                        pixel = image.convert("RGB").getpixel((953, 24))
+                        pixel = image.convert("RGB").getpixel((952, 35))
                         self.assertLess(sum(abs(a-b) for a,b in zip(pixel,(200,169,106))), 65)
 
 
