@@ -144,13 +144,18 @@ def collect_new(state):
     seen = state.setdefault("seen", {})
     items, ids = [], set()
     stats = {}
+    source_health = []
     for src in SOURCES:
         try:
             r = requests.get(src["url"], headers=UA, timeout=20)
             r.raise_for_status()
             feed = feedparser.parse(r.content)
+            source_health.append((src["name"], r.status_code, len(feed.entries), bool(getattr(feed, "bozo", False))))
+            if not feed.entries:
+                print(f"[warn] {src['name']} returned an empty/unreadable feed (HTTP {r.status_code})")
         except Exception as ex:
             print(f"[warn] {src['name']} failed: {ex}")
+            source_health.append((src["name"], "ERROR", 0, True))
             stats[src["name"]] = stats.get(src["name"], 0)
             continue
         for e in feed.entries:
@@ -188,7 +193,14 @@ def collect_new(state):
                                   and str(x.get("type", "")).startswith("image/")), "")
             items.append({"id": iid, "source": name, "kind": src["kind"], "title": title,
                           "snippet": snippet, "link": link, "image_url": image_url, "ts": iso(ts)})
-    print(f"[info] collected {len(items)} new items")
+    ok_sources = sum(1 for _, status, count, _ in source_health if status == 200 and count > 0)
+    empty_sources = sum(1 for _, status, count, _ in source_health if count == 0)
+    failed_sources = sum(1 for _, status, count, _ in source_health if status == "ERROR")
+    print(f"[sources] configured={len(SOURCES)} active={ok_sources} empty={empty_sources} failed={failed_sources}")
+    for name, status, count, bozo in source_health:
+        if status == "ERROR" or count == 0 or bozo:
+            print(f"[source-health] {name}: status={status} entries={count} malformed={bozo}")
+    print(f"[info] collected {len(items)} new items from {len(SOURCES)} configured feeds/searches")
     return items, stats
 
 
