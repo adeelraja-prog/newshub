@@ -145,19 +145,30 @@ def collect_new(state):
     items, ids = [], set()
     stats = {}
     source_health = []
-    for src in SOURCES:
+
+    def fetch_source(src):
         try:
-            r = requests.get(src["url"], headers=UA, timeout=20)
-            r.raise_for_status()
-            feed = feedparser.parse(r.content)
-            source_health.append((src["name"], r.status_code, len(feed.entries), bool(getattr(feed, "bozo", False))))
-            if not feed.entries:
-                print(f"[warn] {src['name']} returned an empty/unreadable feed (HTTP {r.status_code})")
+            response = requests.get(src["url"], headers=UA, timeout=12)
+            response.raise_for_status()
+            parsed = feedparser.parse(response.content)
+            return src, response.status_code, parsed, None
         except Exception as ex:
-            print(f"[warn] {src['name']} failed: {ex}")
+            return src, "ERROR", None, str(ex)
+
+    # Fetch sources concurrently: expanding coverage must not make each newsroom
+    # cycle wait serially for every slow or unavailable publisher.
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        fetched_sources = list(pool.map(fetch_source, SOURCES))
+
+    for src, status, feed, error in fetched_sources:
+        if error:
+            print(f"[warn] {src['name']} failed: {error}")
             source_health.append((src["name"], "ERROR", 0, True))
             stats[src["name"]] = stats.get(src["name"], 0)
             continue
+        source_health.append((src["name"], status, len(feed.entries), bool(getattr(feed, "bozo", False))))
+        if not feed.entries:
+            print(f"[warn] {src['name']} returned an empty/unreadable feed (HTTP {status})")
         for e in feed.entries:
             link, title = e.get("link", ""), clean(e.get("title", ""))
             if not link or not title:
