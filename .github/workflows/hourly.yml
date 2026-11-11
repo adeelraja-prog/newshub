@@ -12,7 +12,7 @@ on:
       - "news-hub/news_reels.py"
       - "news-hub/tests/**"
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
