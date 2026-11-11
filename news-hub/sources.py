@@ -11,12 +11,16 @@ def gnews(query, label):
 
 SOURCES = [
     # kind="local": full article text is fetched for the rewrite
-    {"name": "Dawn", "kind": "local", "url": "https://www.dawn.com/feeds/latest-news/"},
-    {"name": "Geo News", "kind": "local", "url": "https://www.geo.tv/rss/1/1"},
+    {"name": "Dawn Pakistan", "kind": "local", "url": "https://www.dawn.com/feeds/pakistan/"},
+    {"name": "Dawn Latest", "kind": "local", "url": "https://www.dawn.com/feeds/latest-news/"},
+    {"name": "Geo News", "kind": "local", "url": "https://www.geo.tv/rss/1/0"},
     {"name": "ARY News", "kind": "local", "url": "https://arynews.tv/feed"},
     {"name": "Express Tribune", "kind": "local", "url": "https://tribune.com.pk/feed/home"},
-    # UNVERIFIED URL: check it works, otherwise it is just skipped
-    {"name": "Express News", "kind": "local", "url": "https://www.express.pk/feed/"},
+    {"name": "Express Urdu", "kind": "local", "url": "https://www.express.pk/feed/"},
+    {"name": "The Nation", "kind": "local", "url": "https://nation.com.pk/rss/top-stories"},
+    {"name": "Jang Urdu", "kind": "local", "url": "https://jang.com.pk/rss/1/1"},
+    {"name": "The News International", "kind": "local", "url": "https://www.thenews.com.pk/rss/1/1"},
+    {"name": "UrduPoint", "kind": "local", "url": "https://www.urdupoint.com/rss/urdupoint.rss"},
 
     # kind="world": only items that mention Pakistan are kept
     {"name": "BBC", "kind": "world", "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml"},
@@ -24,6 +28,18 @@ SOURCES = [
 
     # Google News searches (headline + snippet only)
     gnews("Pakistan breaking news when:1h", "Pakistan Breaking Desk"),
+    # Channel-specific Google News discovery for major Pakistani TV desks.
+    gnews("site:samaa.tv Pakistan breaking news when:1h", "Samaa TV"),
+    gnews("site:capitaltv.pk Pakistan news when:2h", "Capital TV"),
+    gnews("site:dunyanews.tv Pakistan latest news when:1h", "Dunya News"),
+    gnews("site:express.pk Pakistan latest news when:1h", "Express News Urdu"),
+    gnews("site:expressnews.tv Pakistan news when:2h", "Express News TV"),
+    gnews("site:bolnews.com Pakistan breaking news when:1h", "BOL News"),
+    gnews("site:humnews.pk Pakistan latest news when:2h", "Hum News"),
+    gnews("site:92newshd.tv Pakistan latest news when:2h", "92 News"),
+    gnews("site:gnnhd.tv Pakistan latest news when:2h", "GNN"),
+    gnews("site:aaj.tv Pakistan latest news when:2h", "Aaj News"),
+    gnews("site:ptv.com.pk Pakistan news when:3h", "PTV News"),
     gnews("Pakistan Imran Khan PTI judiciary court order when:1h", "Political and Court Breaking Desk"),
     gnews("Pakistan Imran Khan Adiala jail court orders access medical treatment when:2h", "Imran Khan and Adiala Breaking Desk"),
     gnews("Pakistan PTI Supreme Court Islamabad High Court judicial independence constitutional rights when:2h", "PTI and Judiciary Breaking Desk"),
