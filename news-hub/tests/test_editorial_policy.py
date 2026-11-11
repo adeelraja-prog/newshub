@@ -13,9 +13,9 @@ class NationalHeadlineGateTests(unittest.TestCase):
     def test_major_national_headline_passes(self):
         self.assertTrue(policy.eligible(self.base())[0])
 
-    def test_routine_or_minor_story_is_rejected(self):
-        ok,reason=policy.eligible(self.base(importance_class="minor"))
-        self.assertFalse(ok); self.assertIn("major",reason)
+    def test_significant_national_story_does_not_need_major_label(self):
+        ok, reason = policy.eligible(self.base(importance_class="minor", importance=74, public_interest=70))
+        self.assertTrue(ok, reason)
 
     def test_non_urgent_old_story_is_rejected(self):
         self.assertFalse(policy.eligible(self.base(urgency=40))[0])
