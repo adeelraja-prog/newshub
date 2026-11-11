@@ -1357,13 +1357,23 @@ def make_poster(item, tag):
     return path
 
 def publish_one(queue, state, item, t0):
-    ok, fb_id, story_id = False, None, None
+    """Only mark a news item published when its primary Facebook destination confirms success."""
+    fb_id, story_id = None, None
     if item.get("type") == "youtube":
         try:
             res = post_facebook_link(item["caption"], item["link"])
-            ok, fb_id = bool(res), (str(res) if res and res is not True else None)
+            if not res:
+                raise RuntimeError("Facebook did not confirm the link post.")
+            fb_id = str(res) if res is not True else None
         except Exception as ex:
             print(f"[facebook] FAILED: {ex}")
+            item["attempts"] += 1
+            if item["attempts"] >= 5:
+                item["status"] = "failed"
+            print(f"[queue] publish failed (attempt {item['attempts']}); stays queued for retry")
+            return False
+        route = "post_only"
+        ok = True
     else:
         path = make_poster(item, t0.astimezone(PKT).strftime("%Y%m%d-%H%M"))
         route = item.get("distribution") or (
@@ -1371,33 +1381,48 @@ def publish_one(queue, state, item, t0):
             "post_and_story" if item.get("priority") in ("breaking", "high") else "post_only")
         if item.get("type") == "engage":
             route = "post_only"
+
+        facebook_ok = False
+        whatsapp_ok = False
+        story_ok = False
+
         if route in ("post_only", "post_and_story"):
-            targets = (("facebook", post_facebook),) if item.get("type") == "engage" else \
-                      (("facebook", post_facebook), ("whatsapp", post_whatsapp))
-            for name, fn in targets:
+            try:
+                res = post_facebook(path, item["caption"])
+                facebook_ok = bool(res)
+                if facebook_ok and res is not True:
+                    fb_id = str(res)
+            except Exception as ex:
+                item["facebook_error"] = str(ex)[:500]
+                print(f"[facebook] FAILED: {ex}")
+            if item.get("type") != "engage":
                 try:
-                    res = fn(path, item["caption"])
-                    if res:
-                        ok = True
-                        if name == "facebook" and res is not True:
-                            fb_id = str(res)
+                    whatsapp_ok = bool(post_whatsapp(path, item["caption"]))
                 except Exception as ex:
-                    print(f"[{name}] FAILED: {ex}")
+                    item["whatsapp_error"] = str(ex)[:500]
+                    print(f"[whatsapp] FAILED: {ex}")
+
         if route in ("story_only", "post_and_story"):
             try:
                 story_id = post_facebook_story(path, item["caption"])
-                ok = ok or bool(story_id)
+                story_ok = bool(story_id)
             except Exception as ex:
                 item["story_error"] = str(ex)[:500]
                 print(f"[facebook-story] FAILED: {ex}")
+
+        # WhatsApp success must never hide a Facebook failure. For feed routes,
+        # the Page feed post is the primary destination. Story-only items require a Story ID.
+        ok = story_ok if route == "story_only" else facebook_ok
+
     if ok:
         item["status"] = "published"
-        item["distribution"] = item.get("distribution") or route if item.get("type") != "youtube" else "post_only"
+        item["distribution"] = route
         item["published"] = {"time": iso(t0), "facebook_post_id": fb_id,
                              "facebook_post_url": f"https://www.facebook.com/{fb_id}" if fb_id else None,
                              "facebook_story_id": story_id,
                              "facebook_story_url": f"https://www.facebook.com/{story_id}" if story_id else None,
                              "story_status": "published" if story_id else ("failed" if item.get("story_error") else "not_selected"),
+                             "whatsapp_status": "sent" if whatsapp_ok else ("not_selected" if item.get("type") == "engage" else "failed_or_unconfigured"),
                              "public_check": "API accepted publication; public visibility not independently verified"}
         if item.get("type") not in ("youtube", "engage"):
             state.setdefault("published", []).append({"tokens": item["tokens"], "time": iso(t0), "title": item["title"]})
