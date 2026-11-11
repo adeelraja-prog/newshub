@@ -668,9 +668,12 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
     # Automatically export square feed and vertical story versions from the
     # exact same approved master artwork. Keep aspect ratio; never stretch.
     stem, _ext = os.path.splitext(out_path)
-    square = ImageOps.fit(c.img.convert("RGB"), (1080, 1080),
-                          method=Image.Resampling.LANCZOS, centering=(0.5, 0.5))
-    square.save(stem + "_square.jpg", "JPEG", quality=94, optimize=True)
+    square_bg = Image.new("RGB", (1080, 1080), "#05142D")
+    square_fg = ImageOps.contain(c.img.convert("RGB"), (1080, 1080),
+                                 method=Image.Resampling.LANCZOS)
+    square_bg.paste(square_fg, ((1080-square_fg.width)//2,
+                                (1080-square_fg.height)//2))
+    square_bg.save(stem + "_square.jpg", "JPEG", quality=94, optimize=True)
 
     story_bg = Image.new("RGB", (1080, 1920), "#05142D")
     story_fg = ImageOps.contain(c.img.convert("RGB"), (1080, 1920),
