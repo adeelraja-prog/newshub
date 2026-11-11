@@ -80,8 +80,8 @@ SELECT_N = fnum("SELECT_N", 4)                   # stories queued per run
 QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before a queued story is dropped
 MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 14)          # do not queue stories that would post later than this
 # --- editorial thresholds ---
-MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 80), fnum("MIN_COMPOSITE", 82)
-FILL_COMPOSITE = fnum("FILL_COMPOSITE", 82)       # never lower the quality bar to fill an empty queue
+MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 75), fnum("MIN_COMPOSITE", 72)
+FILL_COMPOSITE = fnum("FILL_COMPOSITE", 72)       # never lower the quality bar to fill an empty queue
 BREAK_URGENCY, BREAK_CONFIDENCE = fnum("BREAK_URGENCY", 90), fnum("BREAK_CONFIDENCE", 80)
 ANALYSE_TOP = fnum("ANALYSE_TOP", 18)
 POOL_HOURS = fnum("POOL_HOURS", 6)
@@ -653,7 +653,8 @@ def analyse(clusters):
         if story["scope"] == "international" and story["global_impact"] < 80:
             if story["pakistan_relevance"] < 75 or not story["why_pk"]:
                 continue
-        major_lane = (story["importance_class"] == "major" and story["importance"] >= 75)
+        major_lane = (story["importance"] >= 70 and story["public_interest"] >= 65
+                      and (story["scope"] != "national" or story["national_impact"] >= 70))
         measured_viral_lane = (story["viral_potential"] >= 80 and story["trend_score"] >= 45
                                and story["public_interest"] >= 60)
         sensitive = story["category"] in ("politics", "courts", "security", "crime", "war", "us_politics")
