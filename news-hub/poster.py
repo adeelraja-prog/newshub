@@ -560,149 +560,68 @@ def portrait_color_circle(size, ring, ring_w=7):
 
 
 def T7(c, flip, style):
-    """Flagship broadcast-editorial design: navy masthead, full-width hero, Urdu-first headline."""
-    navy = "#071B3A"
-    navy2 = "#0C2A56"
-    paper = "#F7F5F0"
-    ink = "#101820"
-    muted = "#596574"
-    gold = "#F2C230"
-    red = "#D71920"
-    accent = red if c.breaking else c.acc
-    im = Image.new("RGB",(W,H),paper)
-    d = ImageDraw.Draw(im)
-
-    # Deep-blue masthead with restrained broadcast texture.
-    d.rectangle((0,0,W,250),fill=navy)
-    d.polygon([(0,0),(270,0),(0,210)],fill=navy2)
-    d.polygon([(W,0),(W-220,0),(W,180)],fill=navy2)
-    # Dotted globe motif: a subtle identity texture, not a copied network logo.
-    for yy in range(22,218,13):
-        for xx in range(250,W-170,13):
-            nx=(xx-620)/390
-            ny=(yy-118)/112
-            if nx*nx+ny*ny < 1 and ((xx//13+yy//13)%3 != 0):
-                d.ellipse((xx,yy,xx+3,yy+3),fill="#183A69")
-
-    # Large readable wordmark and descriptor.
-    d.text((M,116),"ADEEL RAJA",font=sans(76,900),fill="#FFFFFF",anchor="lm")
-    d.rectangle((M,160, M+450,165),fill=gold)
-    d.text((M,201),"INDEPENDENT JOURNALISM  /  PAKISTAN & THE WORLD",
-           font=sans(17,700),fill="#D6DFEB",anchor="lm")
-    badge=portrait_color_circle(178,gold,7)
-    im.paste(badge,(W-M-badge.width,35),badge)
+    """Locked Adeel Raja broadcast poster: small portrait, oversized Urdu-first news headline."""
+    navy="#05142D"; navy2="#0B2447"; gold="#D4AF37"; red="#AA0A14"
+    white="#FFFFFF"; muted="#C7D0DC"; ink="#101820"
+    im=Image.new("RGB",(W,H),navy); d=ImageDraw.Draw(im)
+    d.rectangle((0,0,W,330),fill=navy)
+    d.polygon([(0,0),(230,0),(0,175)],fill=navy2)
+    d.polygon([(W,0),(W-190,0),(W,150)],fill=navy2)
+    d.text((M,91),"ADEEL",font=sans(82,900),fill=gold,anchor="lm")
+    d.text((M+255,91),"RAJA",font=sans(82,900),fill=white,anchor="lm")
+    d.rounded_rectangle((M,145,M+214,193),radius=12,fill=white)
+    d.text((M+107,169),"JOURNALIST",font=sans(21,900),fill=navy,anchor="mm")
+    d.text((M,236),"عدیل راجہ",font=urdu(38),fill=white,anchor="lm",direction="rtl",language="ur")
+    d.text((M,286),"Former Exec. Producer ARY News  |  Ex-CNN",font=sans(20,600),fill=muted,anchor="lm")
+    badge=portrait_color_circle(116,gold,6)
+    im.paste(badge,(W-M-badge.width,46),badge)
     d=ImageDraw.Draw(im)
-
-    # Full-bleed editorial visual area. A supplied, relevant photo is used when present;
-    # otherwise use a clean category graphic, never fabricate documentary evidence.
-    top,bottom=250,700
-    if c.person is not None:
-        hero=ImageOps.fit(c.person.convert("RGB"),(W,bottom-top),
-                          method=Image.Resampling.LANCZOS,centering=(0.5,0.40))
-        im.paste(hero,(0,top))
-        shade=Image.new("RGBA",(W,bottom-top),(4,12,25,45))
-        im.paste(Image.alpha_composite(im.crop((0,top,W,bottom)).convert("RGBA"),shade).convert("RGB"),(0,top))
-    else:
-        d.rectangle((0,top,W,bottom),fill="#172B43")
-        # Geometric world-stage motif provides visual weight without pretending to be a news photo.
-        d.ellipse((W-540,top-180,W+90,bottom+180),outline="#405875",width=3)
-        d.ellipse((W-465,top-105,W+15,bottom+105),outline="#314A68",width=2)
-        d.polygon([(0,top+340),(W,top+60),(W,bottom),(0,bottom)],fill="#203B59")
-        art=icon(c.icon_name,285,accent).convert("RGBA")
-        art.putalpha(150)
-        im.paste(art,(W-400,top+70),art)
-        d=ImageDraw.Draw(im)
-
-    # Broadcast lower-third category strip.
-    d.rectangle((0,bottom-2,W,bottom+76),fill=accent)
-    d.text((M,bottom+36),str(c.label_en or "NEWS").upper()[:28],
-           font=sans(29,900),fill="#FFFFFF",anchor="lm")
-    if c.breaking:
-        d.text((W-M,bottom+36),"BREAKING",font=sans(27,900),fill="#FFFFFF",anchor="rm")
-
-    # Headline panel: measure real glyph bounds. Nastaliq has deep descenders;
-    # fixed line-height estimates caused Urdu and English to collide in production.
-    panel_top=776
-    d.rectangle((0,panel_top,W,H),fill=paper)
-    d.rectangle((M,panel_top+28,W-M,panel_top+32),fill=gold)
-    ur=str(c.ur or "").strip()
-    en=str(c.en or "").strip()
-
-    def urdu_metrics(lines, font):
-        metrics=[]
-        total=0
-        for line in lines:
-            bb=d.textbbox((0,0),line,font=font,anchor="rt",direction="rtl",language="ur")
-            h=max(1,bb[3]-bb[1])
-            metrics.append((bb,h))
-            total+=h
-        if len(lines)>1:
-            total+=(len(lines)-1)*8
-        return metrics,total
-
-    content_top=panel_top+72
-    content_bottom=1135
-    y=content_top
+    d.text((W-M,204),"AGAHI AWARD 2016",font=sans(16,800),fill=gold,anchor="ra")
+    d.rectangle((0,340,W,426),fill=red)
+    d.text((W//2,383),"●  BREAKING NEWS",font=sans(31,900),fill=white,anchor="mm")
+    ur=str(c.ur or "").strip(); en=str(c.en or "").strip()
+    top,bottom=470,1050
     if ur:
-        # Fit the complete Urdu headline into a measured two/three-line block.
-        size=62
-        while True:
-            uf=urdu(size)
-            lines=wrap(ur,uf,W-2*M-24)
-            metrics,block_h=urdu_metrics(lines,uf)
-            if (len(lines)<=3 and block_h<=205) or size<=34:
-                break
+        size=86
+        while size>38:
+            f=urdu(size); lines=wrap(ur,f,W-2*M); heights=[]
+            for line in lines:
+                bb=d.textbbox((0,0),line,font=f,anchor="rt",direction="rtl",language="ur")
+                heights.append(max(1,bb[3]-bb[1]))
+            total=sum(heights)+max(0,len(lines)-1)*14
+            if len(lines)<=4 and total<=bottom-top: break
             size-=2
-        # At the minimum size preserve readability and avoid silently dropping words.
-        for line,(bb,h) in zip(lines,metrics):
-            d.text((W-M,y-bb[1]),line,font=uf,fill=ink,anchor="rt",direction="rtl",language="ur")
-            y+=h+8
-        if lines:
-            y-=8
+        y=top+max(0,(bottom-top-total)//2)
+        for line,h in zip(lines,heights):
+            bb=d.textbbox((0,0),line,font=f,anchor="rt",direction="rtl",language="ur")
+            d.text((W//2,y-bb[1]),line,font=f,fill=ink,anchor="rt",direction="rtl",language="ur")
+            y+=h+14
     else:
-        ef=sans(58,900)
-        lines=wrap(en.upper(),ef,W-2*M)
-        while len(lines)>3 and ef.size>38:
-            ef=sans(ef.size-2,900)
-            lines=wrap(en.upper(),ef,W-2*M)
-        for line in lines[:3]:
-            bb=d.textbbox((M,y),line,font=ef)
-            d.text((M,y),line,font=ef,fill=ink)
-            y=max(y,bb[3])+8
-
-    if ur and en:
-        # Keep translation in a separate, non-overlapping block below Urdu.
-        y+=20
-        d.rectangle((M,y,M+76,y+5),fill=red)
-        y+=22
-        ef=sans(27,650)
-        en_lines=wrap(en,ef,W-2*M)
-        while len(en_lines)>2 and ef.size>20:
-            ef=sans(ef.size-1,600)
-            en_lines=wrap(en,ef,W-2*M)
-        for line in en_lines[:2]:
-            bb=d.textbbox((M,y),line,font=ef)
-            d.text((M,y),line,font=ef,fill=muted)
-            y=bb[3]+5
-
-    # Hard layout guard: if unusually long copy exceeds the editorial panel,
-    # fail visibly in tests rather than silently drawing into the attribution.
-    if y>content_bottom:
-        raise ValueError(f"Poster headline block overflow: bottom={y}, limit={content_bottom}")
-
-    # Clean attribution footer with prominent creator credit and social identity.
-    fy=1162
-    d.line((M,fy,W-M,fy),fill="#D4D9DF",width=2)
-    source=str(c.source or "").strip()
-    if source:
-        d.text((M,fy+25),"SOURCE",font=sans(15,900),fill=accent)
-        d.text((M,fy+55),source[:48],font=sans(19,600),fill=muted)
-    d.text((W-M,fy+25),"PRESENTED BY",font=sans(15,800),fill="#7B8490",anchor="ra")
-    d.text((W-M,fy+60),"ADEEL RAJA",font=sans(29,900),fill=navy,anchor="ra")
-    d.line((M,1260,W-M,1260),fill="#D4D9DF",width=2)
-    social_footer(im,W//2,1280,navy,"#68727D")
-    c.img=im
-    c.d=ImageDraw.Draw(c.img)
+        size=76
+        while size>38:
+            f=sans(size,900); lines=wrap(en.upper(),f,W-2*M); heights=[]
+            for line in lines:
+                bb=d.textbbox((0,0),line,font=f); heights.append(max(1,bb[3]-bb[1]))
+            total=sum(heights)+12*max(0,len(lines)-1)
+            if len(lines)<=4 and total<=bottom-top: break
+            size-=2
+        y=top+max(0,(bottom-top-total)//2)
+        for line,h in zip(lines,heights):
+            d.text((W//2,y),line,font=f,fill=ink,anchor="mt"); y+=h+12
+    if en and ur:
+        d.line((M,1080,W-M,1080),fill=gold,width=3)
+        ef=sans(27,600); detail_lines=wrap(en,ef,W-2*M)
+        while len(detail_lines)>2 and ef.size>19:
+            ef=sans(ef.size-2,600); detail_lines=wrap(en,ef,W-2*M)
+        yy=1100
+        for line in detail_lines[:2]:
+            d.text((M,yy),line,font=ef,fill="#596574"); yy+=ef.size+8
+    fy=1190
+    d.rectangle((0,fy,W,H),fill="#020A18")
+    d.text((W//2,fy+26),"TRUTH  •  ANALYSIS  •  INSIGHT",font=sans(19,800),fill=gold,anchor="mt")
+    d.text((W//2,fy+65),"YouTube / Facebook / Instagram  @adeelrajaviews",font=sans(18,600),fill=white,anchor="mt")
+    d.text((W//2,fy+101),"X  @adeelraja",font=sans(19,700),fill=white,anchor="mt")
+    c.img=im; c.d=ImageDraw.Draw(c.img)
 
 
 TEMPLATES = [T1, T2, T3, T4, T5, T6, T7]
