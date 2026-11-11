@@ -808,7 +808,7 @@ def render_mobile_value_card(c, info):
 
     body_top, footer_top, gap = 582, 1140, 14
     count = len(rows)
-    card_h = min(172, int((footer_top-body_top-gap*max(0,count-1))/count)) if count else 0
+    card_h = min(245, int((footer_top-body_top-gap*max(0,count-1))/count)) if count else 0
     y = body_top
     for idx, row in enumerate(rows):
         d.rounded_rectangle((M,y,W-M,y+card_h), radius=12, fill=panel, outline=line, width=2)
