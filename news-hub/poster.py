@@ -562,7 +562,7 @@ def portrait_color_circle(size, ring, ring_w=7):
 def T7(c, flip, style):
     """Locked Adeel Raja broadcast poster: small portrait, oversized Urdu-first news headline."""
     navy="#05142D"; navy2="#0B2447"; gold="#D4AF37"; red="#AA0A14"
-    white="#FFFFFF"; muted="#C7D0DC"; ink="#101820"
+    white="#FFFFFF"; muted="#C7D0DC"; ink=white
     im=Image.new("RGB",(W,H),navy); d=ImageDraw.Draw(im)
     d.rectangle((0,0,W,330),fill=navy)
     d.polygon([(0,0),(230,0),(0,175)],fill=navy2)
@@ -615,7 +615,7 @@ def T7(c, flip, style):
             ef=sans(ef.size-2,600); detail_lines=wrap(en,ef,W-2*M)
         yy=1100
         for line in detail_lines[:2]:
-            d.text((M,yy),line,font=ef,fill="#596574"); yy+=ef.size+8
+            d.text((M,yy),line,font=ef,fill=muted); yy+=ef.size+8
     fy=1190
     d.rectangle((0,fy,W,H),fill="#020A18")
     d.text((W//2,fy+26),"TRUTH  •  ANALYSIS  •  INSIGHT",font=sans(19,800),fill=gold,anchor="mt")
@@ -632,8 +632,9 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
     """Same signature the bot already calls. variant selects template / flip / background style."""
     icon_name, lab_ur, lab_en, acc = CATS.get(category, CATS["other"])
     c = Ctx()
-    # Flagship redesign replaces the previous generic cover.
-    t = 6
+    # Locked Adeel Raja navy newsroom design: small portrait, white Urdu headline.
+    # Do not route production through the older photo-led template.
+    t = 7
     flip = 0
     style = variant % 3
     c.dark = t != 3
