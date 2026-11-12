@@ -19,8 +19,15 @@ class MobileValuePosterTests(unittest.TestCase):
                     self.assertEqual(image.size,(1080,1350))
                     self.assertEqual(image.format,"JPEG")
                     # Adeel's permanent portrait badge stays visible on standard posters too.
-                    pixel=image.convert("RGB").getpixel((952,46))
-                    self.assertLess(sum(abs(a-b) for a,b in zip(pixel,(242,194,48))),65)
+                    rgb=image.convert("RGB")
+                    badge=rgb.crop((875,40,1010,180))
+                    gold_pixels=sum(1 for px in badge.getdata()
+                                    if px[0]>160 and 105<px[1]<220 and px[2]<100)
+                    self.assertGreater(gold_pixels,100)
+                    # The approved navy master must have visible high-contrast headline ink.
+                    headline=rgb.crop((70,470,1010,1050))
+                    bright_pixels=sum(1 for px in headline.getdata() if min(px)>185)
+                    self.assertGreater(bright_pixels,100)
 
     def test_explainer_data_and_timeline_render_as_phone_cards(self):
         cases = [
