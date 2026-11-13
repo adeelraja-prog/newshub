@@ -5,7 +5,6 @@ Every run (30 min):  collect -> cluster -> measured signals -> Gemini analysis (
 -> balanced selection -> Gemini writing -> QUEUE (queue.json) -> publish at most ONE due post.
 Facebook authorization and posting code (post_facebook) is unchanged from v1.
 """
-import base64
 import calendar
 import glob
 import html
@@ -27,7 +26,6 @@ import news_memory as nm
 import controversy as controversy_desk
 import editorial_quality as eq
 import editorial_policy as ep
-import youtube_promo as yt
 from sources import SOURCES
 
 try:
@@ -974,7 +972,7 @@ def build_caption(story, w):
 def count_day(queue, state, day, include_queued=True):
     n = 0
     for it in queue["items"]:
-        if it.get("type") in ("youtube", "engage"):
+        if it.get("type") == "engage":
             continue
         if it["status"] == "published" and parse(it["published"]["time"]).astimezone(PKT).date() == day:
             n += 1
@@ -1106,20 +1104,6 @@ def post_facebook(path, text):
     return r.json().get("post_id") or r.json().get("id") or True
 
 
-def post_facebook_link(text, link):
-    """YouTube promo: a normal Page post with a link preview. Same Page token and permission as before."""
-    page, token = env("FB_PAGE_ID"), env("FB_PAGE_TOKEN")
-    if not (page and token):
-        print("[facebook] not configured")
-        return False
-    r = requests.post(f"https://graph.facebook.com/v21.0/{page}/feed",
-                      data={"message": text, "link": link, "access_token": token}, timeout=60)
-    if r.status_code != 200:
-        raise RuntimeError(f"{r.status_code} {r.text[:300]}")
-    print("[facebook] posted link", r.json().get("id"))
-    return r.json().get("id") or True
-
-
 def post_facebook_story(path, text):
     """Publish a Page photo Story using Meta's two-step Page Stories API."""
     page, token = env("FB_PAGE_ID"), env("FB_PAGE_TOKEN")
@@ -1168,29 +1152,7 @@ def post_facebook_story(path, text):
             pass
 
 
-def post_whatsapp(path, text):
-    url, token = env("WHATSAPP_BRIDGE_URL").rstrip("/"), env("WHATSAPP_BRIDGE_TOKEN")
-    if not url:
-        print("[whatsapp] not configured")
-        return False
-    for _ in range(8):  # wake the free host and wait until WhatsApp is connected
-        try:
-            if requests.get(url + "/health", timeout=40).json().get("connected"):
-                break
-        except Exception:
-            pass
-        time.sleep(15)
-    with open(path, "rb") as f:
-        b64 = base64.b64encode(f.read()).decode()
-    r = requests.post(url + "/send", headers={"Authorization": "Bearer " + token},
-                      json={"caption": text, "image_b64": b64}, timeout=120)
-    if r.status_code != 200:
-        raise RuntimeError(f"{r.status_code} {r.text[:300]}")
-    print("[whatsapp] posted")
-    return True
 
-
-POSTER_N = [0]  # rotates layout + colour so no two posters in a row look alike
 
 
 def find_google_image(item):
@@ -1375,88 +1337,37 @@ def make_poster(item, tag):
     path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
     image_path, credit = editorial_image(item, tag)
     poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
-                  [item["source_name"]], HANDLE, path, variant=POSTER_N[0], tag=item.get("tag"),
+                  [item["source_name"]], HANDLE, path, variant=0, tag=item.get("tag"),
                   person=image_path, credit=credit, value_addition=item.get("value_addition"))
-    POSTER_N[0] += 1
     return path
 
 def publish_one(queue, state, item, t0):
-    """Only mark a news item published when its primary Facebook destination confirms success."""
-    fb_id, story_id, whatsapp_ok = None, None, False
-    if item.get("type") == "youtube":
-        try:
-            res = post_facebook_link(item["caption"], item["link"])
-            if not res:
-                raise RuntimeError("Facebook did not confirm the link post.")
-            fb_id = str(res) if res is not True else None
-        except Exception as ex:
-            print(f"[facebook] FAILED: {ex}")
-            item["attempts"] += 1
-            if item["attempts"] >= 5:
-                item["status"] = "failed"
-            print(f"[queue] publish failed (attempt {item['attempts']}); stays queued for retry")
-            return False
-        route = "post_only"
-        ok = True
-    else:
-        path = make_poster(item, t0.astimezone(PKT).strftime("%Y%m%d-%H%M"))
-        route = item.get("distribution") or (
-            "story_only" if item.get("priority") == "story" else
-            "post_and_story" if item.get("priority") in ("breaking", "high") else "post_only")
-        if item.get("type") == "engage":
-            route = "post_only"
-
-        facebook_ok = False
-        whatsapp_ok = False
-        story_ok = False
-
-        if route in ("post_only", "post_and_story"):
-            try:
-                res = post_facebook(path, item["caption"])
-                facebook_ok = bool(res)
-                if facebook_ok and res is not True:
-                    fb_id = str(res)
-            except Exception as ex:
-                item["facebook_error"] = str(ex)[:500]
-                print(f"[facebook] FAILED: {ex}")
-            if item.get("type") != "engage":
-                try:
-                    whatsapp_ok = bool(post_whatsapp(path, item["caption"]))
-                except Exception as ex:
-                    item["whatsapp_error"] = str(ex)[:500]
-                    print(f"[whatsapp] FAILED: {ex}")
-
-        if route in ("story_only", "post_and_story"):
-            try:
-                story_id = post_facebook_story(path, item["caption"])
-                story_ok = bool(story_id)
-            except Exception as ex:
-                item["story_error"] = str(ex)[:500]
-                print(f"[facebook-story] FAILED: {ex}")
-
-        # WhatsApp success must never hide a Facebook failure. For feed routes,
-        # the Page feed post is the primary destination. Story-only items require a Story ID.
-        ok = story_ok if route == "story_only" else facebook_ok
-
-    if ok:
-        item["status"] = "published"
-        item["distribution"] = route
-        item["published"] = {"time": iso(t0), "facebook_post_id": fb_id,
-                             "facebook_post_url": f"https://www.facebook.com/{fb_id}" if fb_id else None,
-                             "facebook_story_id": story_id,
-                             "facebook_story_url": f"https://www.facebook.com/{story_id}" if story_id else None,
-                             "story_status": "published" if story_id else ("failed" if item.get("story_error") else "not_selected"),
-                             "whatsapp_status": "sent" if whatsapp_ok else ("not_selected" if item.get("type") == "engage" else "failed_or_unconfigured"),
-                             "public_check": "API accepted publication; public visibility not independently verified"}
-        if item.get("type") not in ("youtube", "engage"):
-            state.setdefault("published", []).append({"tokens": item["tokens"], "time": iso(t0), "title": item["title"]})
-        print("[queue] published", item["qid"], item["published"]["facebook_post_url"] or item["published"]["facebook_story_url"] or "")
-    else:
-        item["attempts"] += 1
+    """Generate one branded news poster and publish it to the Facebook Page feed."""
+    if item.get("type") == "engage":
+        item["status"] = "needs_review"
+        item["review_reason"] = "Only news posters are enabled."
+        return False
+    path = make_poster(item, t0.astimezone(PKT).strftime("%Y%m%d-%H%M"))
+    try:
+        res = post_facebook(path, item["caption"])
+        if not res:
+            raise RuntimeError("Facebook did not confirm the Page photo post.")
+        fb_id = str(res) if res is not True else None
+    except Exception as ex:
+        item["facebook_error"] = str(ex)[:500]
+        item["attempts"] = item.get("attempts", 0) + 1
         if item["attempts"] >= 5:
             item["status"] = "failed"
-        print(f"[queue] publish failed (attempt {item['attempts']}); stays queued for retry")
-    return ok
+        print(f"[facebook] FAILED: {ex}; poster remains queued for retry")
+        return False
+    item["status"] = "published"
+    item["distribution"] = "facebook_feed"
+    item["published"] = {"time": iso(t0), "facebook_post_id": fb_id,
+                         "facebook_post_url": f"https://www.facebook.com/{fb_id}" if fb_id else None,
+                         "public_check": "API accepted publication; public visibility not independently verified"}
+    state.setdefault("published", []).append({"tokens": item.get("tokens", []), "time": iso(t0), "title": item.get("title", item.get("headline", ""))})
+    print("[queue] Facebook poster published", item.get("qid"), item["published"]["facebook_post_url"] or "")
+    return True
 
 
 # ---------- report ----------
@@ -1516,202 +1427,6 @@ def build_report(info):
     return "\n".join(L)
 
 
-# ---------- YouTube promotion (new uploads only) ----------
-def youtube_step(state, queue, t0):
-    info = {"checked": 0, "new": [], "errors": [], "seeded": 0}
-    try:
-        videos, errors = yt.fetch_videos(UA)
-    except Exception as ex:
-        videos, errors = [], [str(ex)]
-    info["errors"], info["checked"] = errors, len(videos)
-    main_ch = [v for v in videos if v["channel"] == "Adeel Raja"]
-    main_ch.sort(key=lambda v: v["ts"].timestamp() if v["ts"] else 0, reverse=True)
-    if main_ch:
-        state["yt_recent"] = [{"title": v["title"], "link": v["link"]} for v in main_ch[:6]]
-    if state.get("yt_seen") is None:
-        if videos:  # first run: remember what already exists, promote nothing old
-            state["yt_seen"] = {v["video_id"]: iso(t0) for v in videos}
-            info["seeded"] = len(videos)
-        return info
-    seen = state["yt_seen"]
-    fresh = [v for v in videos if v["video_id"] not in seen]
-    for v in fresh:
-        seen[v["video_id"]] = iso(t0)
-    fresh = [v for v in fresh if v["ts"] is None or t0 - v["ts"] <= timedelta(hours=YT_MAX_AGE_H)]
-    if not fresh:
-        return info
-    captions = {}
-    try:
-        for s_ in gemini_json(yt.caption_prompt(fresh)).get("stories", []):
-            n, c = s_.get("n"), (s_.get("caption") or "").strip()
-            if isinstance(n, int) and 1 <= n <= len(fresh) and c:
-                captions[n] = c
-    except Exception as ex:
-        print(f"[warn] YouTube caption writing failed, using plain template: {ex}")
-    for n, v in enumerate(fresh, 1):
-        text = f"{captions[n]}\n\n▶️ {v['link']}" if n in captions else yt.fallback_caption(v)
-        queue["items"].append({
-            "qid": "yt-" + v["video_id"], "type": "youtube", "status": "queued", "priority": "promo",
-            "created": iso(t0), "not_before": iso(t0), "attempts": 0, "caption": text, "category": "youtube",
-            "headline": f"[YouTube] {v['title']}", "link": v["link"], "tokens": [], "title": v["title"],
-            "meta": {"scores": {"composite": 100}, "channel": v["channel"]}})
-        info["new"].append(v)
-    return info
-
-
-# ---------- engagement posts (questions that make people comment) ----------
-ENGAGE_SLOTS = [(13, 0, "poll_story"), (18, 30, "poll_video"), (21, 0, "poll_topic")]
-NUM_EMOJI = ["1️⃣", "2️⃣", "3️⃣", "4️⃣"]
-
-
-def engage_prompt(kinds, headlines, videos):
-    return f"""You write engagement posts for a Pakistani news page on Facebook, in natural Urdu script (no Hindi vocabulary).
-Posts are QUESTIONS people answer in the comments. Return JSON {{"engage": [...]}} with one object per requested slot:
-{{"slot": "...", "question_ur": "short punchy question (max 14 words)", "question_en": "same, English",
-"options": ["2 to 3 short Urdu answer options"]}}
-Slots requested: {kinds}
-- poll_story: ask the public's opinion on ONE of these recent headlines (fair, neutral wording, no leading question):
-  {headlines}
-- poll_topic: ask which topic the NEXT video of the journalist Adeel Raja should cover; offer 3 options taken from
-  these headlines: {headlines}
-- poll_video: handled elsewhere, skip it.
-Never state facts that are not in the headlines. Be neutral on political questions."""
-
-
-def controversy_scan(stories, ledger_path, comparisons_path):
-    """Build a source-linked political statement archive and editor-only comparison desk."""
-    political = [s for s in stories if s.get("category") in ("politics", "courts", "security", "us_politics")
-                 and s.get("confidence", 0) >= 75 and s.get("excerpt")]
-    if not political:
-        return {"added": 0, "comparisons": 0}
-    blocks, source_text = [], {}
-    for i, s in enumerate(political[:4], 1):
-        candidates = []
-        for m in (s.get("cluster") or {}).get("members", [])[:8]:
-            u = m.get("link", "")
-            if u.startswith("https://") and u not in candidates:
-                candidates.append(u)
-        original = (s.get("original_source") or {}).get("url")
-        if original and original.startswith("https://") and original not in candidates:
-            candidates.insert(0, original)
-        discovery = (s.get("discovery") or {}).get("url")
-        if discovery and discovery.startswith("https://") and discovery not in candidates:
-            candidates.append(discovery)
-        # The fetched excerpt belongs to the discovery article only.
-        evidence_url = (s.get("discovery") or {}).get("url", "")
-        evidence_name = (s.get("discovery") or {}).get("name", "unknown")
-        if evidence_url.startswith("https://"):
-            source_text[evidence_url] = {"name": evidence_name, "text": str(s.get("excerpt", ""))[:2200]}
-        blocks.append(f"ITEM {i}\nEVENT: {s.get('event','')}\n"
-                      f"ARTICLE DATE: {s.get('first_pub','')}\n"
-                      f"FETCHED ARTICLE SOURCE NAME: {evidence_name}\n"
-                      f"FETCHED ARTICLE URL (only URL allowed for this excerpt): {evidence_url}\n"
-                      f"Other source references (not fetched): {candidates}\n"
-                      f"ARTICLE TEXT: {s.get('excerpt','')[:2200]}")
-    prompt = """You are the evidence researcher for a political Controversy Cell.
-Extract BOTH current and historical public positions only when the supplied article text explicitly
-describes what a named public figure said, did, voted for, signed, ordered or formally supported/opposed.
-A historical position mentioned in a current article is useful: preserve its own statement/event date,
-not the article publication date. Never infer a statement date from an article date.
-Return JSON {"statements":[...]}.
-Each record: person, topic (specific policy/issue, consistent wording across records),
-position (neutral concise paraphrase), date (ISO-8601 only when explicitly stated),
-source_name (must exactly match FETCHED ARTICLE SOURCE NAME), source_url (must exactly match FETCHED ARTICLE URL),
-kind (reported_position, official_statement, interview, parliamentary_record, court_record or social_post),
-stance (support, oppose, conditional or unclear), confidence (0-100),
-source_excerpt (short exact contiguous passage from supplied ARTICLE TEXT supporting this position).
-Do not invent a quote, date, name, stance, link, context or source. Do not turn a journalist's opinion
-or allegation into the person's position. If the article only says "previously" without a date, omit it.
-If a historical claim is reported without a primary document link, retain the reporting source but clearly
-do not imply it is a primary record. No accusation or contradiction is publishable from this extraction.
-These are research leads for human editorial review only.
-\n\n""" + "\n\n".join(blocks)
-    try:
-        result = gemini_json(prompt)
-        ledger = controversy_desk.load_ledger(ledger_path)
-        safe = []
-        rejected_source = 0
-        for raw in result.get("statements", []):
-            if not isinstance(raw, dict):
-                continue
-            source = source_text.get(raw.get("source_url"))
-            if not source or raw.get("source_name") != source["name"]:
-                rejected_source += 1
-                continue
-            excerpt = str(raw.get("source_excerpt") or "").strip()
-            # Require evidence to appear in the fetched text for that exact publisher URL.
-            if not excerpt or excerpt not in source["text"]:
-                rejected_source += 1
-                continue
-            safe.append(raw)
-        added, rejected = controversy_desk.add_statements(ledger, safe)
-        controversy_desk.save_ledger(ledger, ledger_path)
-        comparisons = controversy_desk.candidate_comparisons(ledger, min_confidence=75)
-        folder = os.path.dirname(comparisons_path)
-        if folder:
-            os.makedirs(folder, exist_ok=True)
-        save_json(comparisons_path, {"updated_at": iso(now()), "items": comparisons})
-        print(f"[controversy] archived {len(added)} dated positions; {len(comparisons)} comparison leads; "
-              f"rejected {len(rejected) + rejected_source}")
-        return {"added": len(added), "comparisons": len(comparisons),
-                "rejected": len(rejected) + rejected_source}
-    except Exception as ex:
-        print(f"[controversy] research scan deferred safely: {ex}")
-        return {"added": 0, "comparisons": 0, "error": str(ex)[:180]}
-
-def engagement_step(state, queue, t0):
-    info = {"queued": []}
-    local = t0.astimezone(PKT)
-    day = str(local.date())
-    done = state.setdefault("engage_done", {})
-    state["engage_done"] = done = {k: v for k, v in done.items() if k == day}
-    todo = []
-    for h, m, kind in ENGAGE_SLOTS:
-        slot = local.replace(hour=h, minute=m, second=0, microsecond=0)
-        if kind not in done.get(day, []) and slot <= local <= slot + timedelta(hours=3):
-            todo.append(kind)
-    if not todo:
-        return info
-    recent = sorted([i for i in queue["items"] if i["status"] == "published" and i.get("type") not in ("youtube", "engage")],
-                    key=lambda i: i["published"]["time"], reverse=True)[:5]
-    headlines = [i["headline"] for i in recent]
-    vids = state.get("yt_recent", [])[:3]
-    ai = {}
-    need_ai = [k for k in todo if k in ("poll_story", "poll_topic") and headlines]
-    if need_ai:
-        try:
-            for e in gemini_json(engage_prompt(need_ai, headlines, vids)).get("engage", []):
-                if isinstance(e, dict) and e.get("slot") in need_ai:
-                    ai[e["slot"]] = e
-        except Exception as ex:
-            print(f"[warn] engagement writing failed: {ex}")
-    for kind in todo:
-        if kind == "poll_video":
-            if len(vids) < 2:
-                continue
-            q_ur, q_en = "آپ کو عدیل راجہ ویوز کی کون سی ویڈیو سب سے اچھی لگی؟", "Which Adeel Raja video did you like most?"
-            lines = [f"{NUM_EMOJI[i]} {v['title']}\n{v['link']}" for i, v in enumerate(vids)]
-        else:
-            e = ai.get(kind)
-            opts = [o for o in (e or {}).get("options", []) if isinstance(o, str) and o.strip()][:3]
-            if not e or not e.get("question_ur") or len(opts) < 2:
-                continue
-            q_ur, q_en = e["question_ur"].strip(), (e.get("question_en") or "").strip()
-            if has_devanagari(q_ur + " " + q_en + " " + " ".join(opts)):
-                print(f"[skip] {kind}: Hindi/Devanagari poll output rejected")
-                continue
-            lines = [f"{NUM_EMOJI[i]} {o.strip()}" for i, o in enumerate(opts)]
-        caption = "\n\n".join([q_ur, "\n".join(lines), "اپنا جواب نمبر کے ساتھ کمنٹ میں لکھیں 👇", "#AdeelRaja #آپ_کی_رائے"])
-        queue["items"].append({
-            "qid": f"eng-{day}-{kind}", "type": "engage", "status": "queued", "priority": "promo", "created": iso(t0),
-            "not_before": iso(t0), "attempts": 0, "caption": caption, "category": "engage", "tag": None,
-            "poster": {"ur": q_ur, "en": q_en}, "headline": f"[Poll] {q_ur}", "tokens": [], "title": q_ur,
-            "source_name": "Adeel Raja", "meta": {"scores": {"composite": 90}, "kind": kind}})
-        done.setdefault(day, []).append(kind)
-        info["queued"].append(kind)
-    return info
-
-
 # ---------- main ----------
 def main():
     t0 = now()
@@ -1719,7 +1434,6 @@ def main():
     queue = load_json(QUEUE_FILE, {"items": []})
     queue.setdefault("items", [])
     housekeeping(queue, t0)
-    POSTER_N[0] = state.get("poster_n", 0)
 
     # rolling pool of recent items so clusters keep their full coverage between runs
     new_items, stats = collect_new(state)
@@ -1727,8 +1441,6 @@ def main():
     pool_ids = {p["id"] for p in pool}
     pool += [i for i in new_items if i["id"] not in pool_ids]
     trends, trends_basis = fetch_trends()
-    yt_info = youtube_step(state, queue, t0)
-    eng_info = engagement_step(state, queue, t0)
 
     items = [{**p, "ts": parse(p["ts"])} for p in pool]
     clusters = ed.cluster_items(items)
@@ -1855,7 +1567,7 @@ def main():
     # Old queued posts without sufficient provenance are held for human review, never auto-published.
     held_old=0
     for queued in queue["items"]:
-        if queued.get("status")!="queued" or queued.get("type") in ("youtube","engage"):
+        if queued.get("status")!="queued" or queued.get("type") == "engage":
             continue
         meta=queued.get("meta") or {}
         scores=meta.get("scores") or {}
@@ -1873,7 +1585,7 @@ def main():
     if held_old:
         print(f"[quality] moved {held_old} legacy queued stories to needs_review under the new headline gate")
 
-    # publish at most one due post
+    # Publish at most one Facebook news poster per run
     item, why = pick_due(queue, t0)
     if item is None:
         info["publish_note"] = f"No post published: {why}."
@@ -1899,7 +1611,7 @@ def main():
         for it in new_items:
             state.setdefault("seen", {})[it["id"]] = ts
         state["seen"] = {k: v for k, v in state["seen"].items() if v > ts - 3 * 86400}
-        state.update(pool=pool, history=history, published=published, last_run=iso(t0), poster_n=POSTER_N[0])
+        state.update(pool=pool, history=history, published=published, last_run=iso(t0))
         for p in glob.glob(f"{POSTER_DIR}/*.jpg"):
             if os.path.getmtime(p) < time.time() - 3 * 86400:
                 os.remove(p)
