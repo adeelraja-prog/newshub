@@ -1,4 +1,4 @@
-name: Newsroom and Reels Regression Tests
+name: Newsroom Poster Regression Tests
 
 on:
   push:
@@ -15,12 +15,6 @@ on:
       - "news-hub/tests/test_editorial_scoring.py"
       - "news-hub/tests/test_language_validation.py"
       - "news-hub/tests/test_price_history_validation.py"
-      - "news-hub/reels/yt.py"
-      - "news-hub/reels/clips.py"
-      - "news-hub/reels/render.py"
-      - "news-hub/news_reels.py"
-      - "news-hub/reels_main.py"
-      - "news-hub/tests/test_reels_youtube.py"
       - ".github/workflows/explainer-tests.yml"
   workflow_dispatch:
 
@@ -44,6 +38,6 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
       - name: Compile newsroom modules
-        run: python -m py_compile main.py poster.py editorial_quality.py editorial_policy.py news_reels.py reels_main.py reels/yt.py reels/clips.py reels/render.py
+        run: python -m py_compile main.py poster.py editorial_quality.py editorial_policy.py
       - name: Run editorial and poster tests
         run: python -m unittest discover -s tests -v
