@@ -72,7 +72,6 @@ BREAKING_GAP_MIN = fnum("BREAKING_GAP_MIN", 10)  # minimum gap after any post (b
 ANALYSIS_EVERY_MIN = fnum("ANALYSIS_EVERY_MIN", 10)  # Gemini analysis cadence (collecting happens every run)
 FORCE_PRE = fnum("FORCE_ANALYSIS_SCORE", 70)     # a very strong story triggers analysis immediately
 DEPTH_SKIP = fnum("QUEUE_DEPTH_SKIP", 14)        # enough queued: skip analysis (saves Gemini quota)
-YT_MAX_AGE_H = fnum("YT_MAX_AGE_HOURS", 24)      # only promote videos uploaded within this many hours
 WINDOW_START, WINDOW_END = fnum("WINDOW_START", 9), fnum("WINDOW_END", 23)   # PKT hours
 SELECT_N = fnum("SELECT_N", 4)                   # stories queued per run
 QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before a queued story is dropped
