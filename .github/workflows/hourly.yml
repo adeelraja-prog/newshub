@@ -9,7 +9,6 @@ on:
       - "news-hub/editorial_quality.py"
       - "news-hub/sources.py"
       - "news-hub/poster.py"
-      - "news-hub/news_reels.py"
       - "news-hub/tests/**"
   schedule:
     - cron: "*/5 * * * *"
@@ -51,7 +50,7 @@ jobs:
             cp "${GITHUB_WORKSPACE}/news-hub/state.json" "${GITHUB_WORKSPACE}/news-hub/queue.json" . 2>/dev/null || true
           fi
       - name: Validate newsroom Python files
-        run: python -m py_compile main.py editorial.py poster.py sources.py controversy.py news_memory.py editorial_policy.py editorial_quality.py news_reels.py && python -m unittest discover -s tests -v
+        run: python -m py_compile main.py editorial.py poster.py sources.py controversy.py news_memory.py editorial_policy.py editorial_quality.py && python -m unittest discover -s tests -v
       - run: python main.py
         env:
           STATE_DIR: /tmp/data
@@ -66,8 +65,6 @@ jobs:
           CLOUDFLARE_MODEL: ${{ vars.CLOUDFLARE_MODEL }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
-          WHATSAPP_BRIDGE_URL: ${{ secrets.WHATSAPP_BRIDGE_URL }}
-          WHATSAPP_BRIDGE_TOKEN: ${{ secrets.WHATSAPP_BRIDGE_TOKEN }}
       - name: Download posters and report (dry run preview)
         if: ${{ always() && (github.event_name == 'push' || github.event.inputs.dry_run == 'true') }}
         uses: actions/upload-artifact@v4
