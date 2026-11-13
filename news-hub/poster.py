@@ -1,5 +1,4 @@
-"""ADEEL RAJA poster system v5. One Clean Editorial Hero layout with four rotating colourways.
-Category accent and breaking-news treatment remain consistent. 1080x1350 JPEG."""
+"""ADEEL RAJA fixed premium newsroom poster. Single locked navy editorial master."""
 import io
 import math
 import os
@@ -624,19 +623,19 @@ def T7(c, flip, style):
     c.img=im; c.d=ImageDraw.Draw(c.img)
 
 
-TEMPLATES = [T1, T2, T3, T4, T5, T6, T7]
+TEMPLATES = [T7]
 
 
 def render(headline_ur, headline_en, category, breaking, sources, handle, out_path, variant=0, tag=None,
            person=None, credit=None, value_addition=None):
-    """Same signature the bot already calls. variant selects template / flip / background style."""
+    """Render one fixed Adeel Raja navy newsroom poster. Content changes; visual identity stays locked."""
     icon_name, lab_ur, lab_en, acc = CATS.get(category, CATS["other"])
     c = Ctx()
     # Locked Adeel Raja navy newsroom design is T7, the seventh template (zero-based index 6).
     # Keep production on this master; never route through the older photo-led template.
-    t = 6
+    t = 0
     flip = 0
-    style = variant % 3
+    style = 0
     c.dark = t != 3
     c.acc = RED if breaking else acc
     if not c.dark:
