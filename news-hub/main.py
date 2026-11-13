@@ -1200,6 +1200,12 @@ def main():
     state = load_json(STATE_FILE, {})
     queue = load_json(QUEUE_FILE, {"items": []})
     queue.setdefault("items", [])
+    # Retire legacy video-promo and engagement items from persistent bot-data.
+    before = len(queue["items"])
+    queue["items"] = [it for it in queue["items"] if it.get("type") not in ("youtube", "engage")]
+    retired = before - len(queue["items"])
+    if retired:
+        print(f"[queue] retired {retired} legacy non-poster items; Facebook news posters only")
     housekeeping(queue, t0)
 
     # rolling pool of recent items so clusters keep their full coverage between runs
