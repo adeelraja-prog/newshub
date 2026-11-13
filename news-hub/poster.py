@@ -632,9 +632,9 @@ def render(headline_ur, headline_en, category, breaking, sources, handle, out_pa
     """Same signature the bot already calls. variant selects template / flip / background style."""
     icon_name, lab_ur, lab_en, acc = CATS.get(category, CATS["other"])
     c = Ctx()
-    # Locked Adeel Raja navy newsroom design: small portrait, white Urdu headline.
-    # Do not route production through the older photo-led template.
-    t = 7
+    # Locked Adeel Raja navy newsroom design is T7, the seventh template (zero-based index 6).
+    # Keep production on this master; never route through the older photo-led template.
+    t = 6
     flip = 0
     style = variant % 3
     c.dark = t != 3
