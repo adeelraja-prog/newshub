@@ -20,7 +20,7 @@ class MobileValuePosterTests(unittest.TestCase):
                     self.assertEqual(image.format,"JPEG")
                     # Adeel's permanent portrait badge stays visible on standard posters too.
                     rgb=image.convert("RGB")
-                    badge=rgb.crop((875,40,1010,180))
+                    badge=rgb.crop((65,200,205,340))
                     gold_pixels=sum(1 for px in badge.getdata()
                                     if px[0]>160 and 105<px[1]<220 and px[2]<100)
                     self.assertGreater(gold_pixels,100)
