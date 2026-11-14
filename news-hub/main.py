@@ -16,6 +16,7 @@ import time
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -129,6 +130,67 @@ def parse(s):
 
 def pkt(dt):
     return dt.astimezone(PKT).strftime("%a %d %b, %I:%M %p PKT")
+
+
+# Audience prime-time windows are evaluated in each audience's own timezone.
+# Pakistan remains the primary desk; UK, Gulf and North American windows guide diaspora/global selection.
+AUDIENCE_MARKETS = {
+    "Pakistan": ("Asia/Karachi", 19, 23),
+    "Gulf": ("Asia/Dubai", 19, 22),
+    "UK": ("Europe/London", 18, 22),
+    "North America East": ("America/Toronto", 18, 22),
+    "North America West": ("America/Vancouver", 18, 22),
+}
+
+
+def active_prime_markets(instant):
+    active = []
+    for market, (zone, start, end) in AUDIENCE_MARKETS.items():
+        local = instant.astimezone(ZoneInfo(zone))
+        if start <= local.hour < end:
+            active.append(market)
+    return active
+
+
+def audience_clock_context(instant):
+    rows = []
+    for market, (zone, start, end) in AUDIENCE_MARKETS.items():
+        local = instant.astimezone(ZoneInfo(zone))
+        peak = "PRIME TIME" if start <= local.hour < end else "outside prime time"
+        rows.append(f"{market}: {local.strftime('%a %I:%M %p')} local ({peak}; target {start:02d}:00-{end:02d}:00)")
+    active = active_prime_markets(instant)
+    return "Active prime-time markets: " + (", ".join(active) if active else "none") + ". Local clocks: " + "; ".join(rows)
+
+
+def choose_poster_language(story, slot):
+    """Urdu remains default; English is targeted to global stories and diaspora prime-time slots."""
+    market = str(story.get("target_market") or "").strip().lower()
+    scope = str(story.get("scope") or "").lower()
+    global_impact = int(story.get("global_impact") or 0)
+    active = set(active_prime_markets(slot))
+    # A major international story gets an English-first creative when its audience market is active.
+    if scope == "international" and (global_impact >= 80 or market in {
+        "uk", "gulf", "north america", "global", "united states", "canada", "united kingdom"
+    }):
+        if market in ("uk", "united kingdom") and "UK" in active:
+            return "en"
+        if market in ("gulf", "uae", "saudi arabia") and "Gulf" in active:
+            return "en"
+        if market in ("north america", "united states", "canada", "usa") and (
+            "North America East" in active or "North America West" in active
+        ):
+            return "en"
+        if market in ("global", "world") and active:
+            return "en"
+    # Pakistan stories stay Urdu-led. During UK/North America evening, reserve one in five
+    # eligible stories for English to reach overseas Pakistanis without overwhelming the core audience.
+    diaspora_prime = bool(active.intersection({"UK", "North America East", "North America West"}))
+    if diaspora_prime and story.get("scope") in ("national", "provincial"):
+        import hashlib
+        key = str(story.get("id") or story.get("cluster", {}).get("id") or story.get("event") or "")
+        if int(hashlib.sha1(key.encode("utf-8")).hexdigest()[:8], 16) % 5 == 0:
+            return "en"
+    return "ur"
 
 
 # ---------- 1. collect ----------
@@ -494,6 +556,7 @@ def analysis_prompt(blocks):
 event reported by one or more outlets. Assess every cluster using ONLY the information given.
 For each cluster return:
 - "n": cluster number
+- "target_market": Pakistan | UK | Gulf | North America | Global. Choose the principal country/market where the event is happening or whose audience is most directly affected; use Pakistan for Pakistani domestic stories.
 - "event": one neutral sentence describing the actual event
 - "category": one of {CATEGORIES}
 - "importance": 0-100 (national/political/economic/judicial/security/international significance, public impact,
@@ -522,6 +585,8 @@ For each cluster return:
 - "global_impact": 0-100
 - "region": Azad Jammu and Kashmir | Gilgit-Baltistan | Punjab | Sindh | Khyber Pakhtunkhwa | Balochistan | null
 - "why_pakistani_audience_cares": explain Pakistan impact OR why it is a major world event
+- Audience clock right now (calculated from live local clocks): {audience_clock_context(now())}
+- When UK or North American prime time is active, give additional consideration to major stories from those markets and Pakistan stories important to overseas Pakistanis. When Pakistan or Gulf prime time is active, keep Pakistan national news dominant. Never invent a market connection or lower verification standards.
 - "original_source": {{"type": official_document | official_statement | court_order | social_post |
    exclusive_report | wire | unknown, "name": who originally said/reported it, "url_ref": the L-number of a link
    from that cluster's CANDIDATE LINKS if one is the original source, else "", "basis": short explanation}}
@@ -652,6 +717,7 @@ def analyse(clusters):
             "confidence": clamp(s.get("confidence")),
             "lifecycle": s.get("lifecycle") or "emerging", "claim_status": s.get("claim_status") or "developing",
             "is_global": bool(s.get("is_global")), "scope": str(s.get("scope") or "unknown").lower(),
+"target_market": str(s.get("target_market") or ("Pakistan" if str(s.get("scope") or "").lower() in ("national", "provincial") else "Global")).strip(),
             "importance_class": str(s.get("importance_class") or "unknown").lower(),
             "national_impact": clamp(s.get("national_impact")), "regional_impact": clamp(s.get("regional_impact")),
             "region": str(s.get("region") or "").strip(), "global_impact": clamp(s.get("global_impact")),
@@ -1021,8 +1087,11 @@ def assign_slot(queue, t0):
 def enqueue(queue, story, w, caption, t0):
     prio = story.get("priority", "normal")
     slot = t0 if prio in ("breaking", "high") else assign_slot(queue, t0)
+    target_market = story.get("target_market") or ("Pakistan" if story.get("scope") in ("national", "provincial") else "Global")
+    poster_language = choose_poster_language({**story, "target_market": target_market}, slot)
     item = {
         "qid": story["id"], "status": "queued", "priority": prio, "created": iso(t0), "not_before": iso(slot),
+        "target_market": target_market, "poster_language": poster_language,
         "attempts": 0, "caption": caption, "category": story["category"],
         "image_url": story.get("image_url", ""),
         "tag": "عوامی مفاد" if story.get("public_interest", 0) >= 70 else None,
@@ -1120,11 +1189,12 @@ def make_poster(item, tag):
     """Render from the fixed local newsroom master; no external image API or missing image helper."""
     os.makedirs(POSTER_DIR, exist_ok=True)
     path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
-    poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"],
+    english_poster = item.get("poster_language", "ur") == "en"
+    poster.render("" if english_poster else item["poster"]["ur"], item["poster"]["en"], item["category"],
                   item["priority"] == "breaking", [item.get("source_name") or "News Desk"],
                   HANDLE, path, variant=0, tag=item.get("tag"),
                   person=None, credit=item.get("source_name") or "News Desk",
-                  value_addition=item.get("value_addition"))
+                  value_addition=None if english_poster else item.get("value_addition"))
     return path
 
 def publish_one(queue, state, item, t0):
