@@ -28,6 +28,15 @@ SOURCES = [
 
     # Google News searches (headline + snippet only)
     gnews("Pakistan breaking news when:1h", "Pakistan Breaking Desk"),
+    # Publisher-specific Google News discovery is a fallback when a publisher blocks
+    # GitHub Actions cloud IPs or its RSS endpoint is unavailable. These are leads,
+    # not independent verification; article provenance is checked by the editorial desk.
+    gnews("site:dawn.com Pakistan when:3h", "Dawn Search"),
+    gnews("site:geo.tv Pakistan when:3h", "Geo News Search"),
+    gnews("site:tribune.com.pk Pakistan when:3h", "Express Tribune Search"),
+    gnews("site:express.pk Pakistan when:3h", "Express Urdu Search"),
+    gnews("site:expressnews.tv Pakistan when:3h", "Express News TV Search"),
+    gnews("site:samaa.tv Pakistan when:3h", "Samaa TV Search"),
     # Channel-specific Google News discovery for major Pakistani TV desks.
     gnews("site:samaa.tv Pakistan breaking news when:1h", "Samaa TV"),
     gnews("site:capitaltv.pk Pakistan news when:2h", "Capital TV"),
