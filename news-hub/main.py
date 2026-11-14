@@ -1170,15 +1170,7 @@ def build_report(info):
               f"- Supporting coverage: " + ", ".join(f"{x['name']}" for x in m['supporting']),
               f"- Keywords: {', '.join(m['keywords'])} | hashtags: {' '.join(m['hashtags'])}",
               f"- Scheduled: {pkt(parse(it['not_before']))}", f"- Caption:\n```\n{it['caption']}\n```", ""]
-    e_ = info["eng"]["queued"]
-    L += ["## Engagement posts", f"- Queued this run: {', '.join(e_) if e_ else 'none (outside the 13:00 / 18:30 / 21:00 PKT windows or nothing to ask)'}",
-          f"- Indian outlets blocked this run: {BLOCKED_COUNT[0]} items", ""]
-    y = info["yt"]
-    L += ["## YouTube promotion (new uploads only)",
-          f"- Videos seen in the 3 channel feeds: {y['checked']}"
-          + (f" | first run: remembered {y['seeded']} existing videos, promoted none" if y["seeded"] else ""),
-          f"- New videos queued for promotion: {len(y['new'])}" + "".join(f"\n  - {v['channel']}: {v['title']}" for v in y["new"]),
-          f"- Feed errors: {len(y['errors'])}" + "".join(f"\n  - {e[:120]}" for e in y["errors"]), ""]
+    L += [f"- Indian outlets blocked this run: {BLOCKED_COUNT[0]} items", ""]
     today = info["now"].astimezone(PKT).date()
     L += ["## Today", f"- News posts published today: {count_day(info['queue'], None, today, include_queued=False)} "
           f"(maximum {MAX_PER_DAY}; no daily volume target) | current spacing: {current_gap(info['queue'])} min | "
