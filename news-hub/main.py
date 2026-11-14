@@ -137,6 +137,7 @@ def pkt(dt):
 AUDIENCE_MARKETS = {
     "Pakistan": ("Asia/Karachi", 19, 23),
     "Gulf": ("Asia/Dubai", 19, 22),
+    "Saudi Arabia": ("Asia/Riyadh", 19, 22),
     "UK": ("Europe/London", 18, 22),
     "North America East": ("America/Toronto", 18, 22),
     "North America West": ("America/Vancouver", 18, 22),
@@ -174,7 +175,9 @@ def choose_poster_language(story, slot):
     }):
         if market in ("uk", "united kingdom") and "UK" in active:
             return "en"
-        if market in ("gulf", "uae", "saudi arabia") and "Gulf" in active:
+        if market in ("gulf", "uae") and "Gulf" in active:
+            return "en"
+        if market in ("saudi arabia", "saudi") and "Saudi Arabia" in active:
             return "en"
         if market in ("north america", "united states", "canada", "usa") and (
             "North America East" in active or "North America West" in active
