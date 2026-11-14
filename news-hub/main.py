@@ -141,6 +141,7 @@ AUDIENCE_MARKETS = {
     "UK": ("Europe/London", 18, 22),
     "North America East": ("America/Toronto", 18, 22),
     "North America West": ("America/Vancouver", 18, 22),
+    "Australia": ("Australia/Sydney", 18, 22),
 }
 
 
@@ -185,13 +186,19 @@ def choose_poster_language(story, slot):
             return "en"
         if market in ("global", "world") and active:
             return "en"
-    # Pakistan stories stay Urdu-led. During UK/North America evening, reserve one in five
-    # eligible stories for English to reach overseas Pakistanis without overwhelming the core audience.
-    diaspora_prime = bool(active.intersection({"UK", "North America East", "North America West"}))
-    if diaspora_prime and story.get("scope") in ("national", "provincial"):
+    # Pakistan remains the core audience. During overseas-diaspora evening peaks,
+    # deliberately allocate one in four eligible Pakistan stories to English.
+    # Gulf/Saudi evening gets a lighter one-in-five English mix; Australia is included too.
+    diaspora_prime = bool(active.intersection({
+        "UK", "Gulf", "Saudi Arabia", "North America East", "North America West", "Australia"
+    }))
+    if diaspora_prime and scope in ("national", "provincial"):
         import hashlib
         key = str(story.get("id") or story.get("cluster", {}).get("id") or story.get("event") or "")
-        if int(hashlib.sha1(key.encode("utf-8")).hexdigest()[:8], 16) % 5 == 0:
+        digest = int(hashlib.sha1(key.encode("utf-8")).hexdigest()[:8], 16)
+        divisor = 5 if active.intersection({"Gulf", "Saudi Arabia"}) and not active.intersection(
+            {"UK", "North America East", "North America West", "Australia"}) else 4
+        if digest % divisor == 0:
             return "en"
     return "ur"
 
@@ -1173,19 +1180,48 @@ def pick_due(queue, t0):
 
 
 # ---------- publishing (Facebook code unchanged from v1 except it returns the post id) ----------
+GRAPH_API_VERSION = env("FB_GRAPH_VERSION", "v27.0")
+
+
 def post_facebook(path, text):
     page, token = env("FB_PAGE_ID"), env("FB_PAGE_TOKEN")
     if not (page and token):
         print("[facebook] not configured")
         return False
     with open(path, "rb") as f:
-        r = requests.post(f"https://graph.facebook.com/v21.0/{page}/photos",
+        r = requests.post(f"https://graph.facebook.com/{GRAPH_API_VERSION}/{page}/photos",
                           data={"caption": text, "access_token": token},
                           files={"source": f}, timeout=90)
     if r.status_code != 200:
         raise RuntimeError(f"{r.status_code} {r.text[:300]}")
-    print("[facebook] posted", r.json().get("post_id") or r.json().get("id"))
+    print("[facebook] feed photo posted", r.json().get("post_id") or r.json().get("id"))
     return r.json().get("post_id") or r.json().get("id") or True
+
+
+def post_facebook_photo_story(path):
+    """Publish a separately uploaded 9:16 image as a Facebook Page Story."""
+    page, token = env("FB_PAGE_ID"), env("FB_PAGE_TOKEN")
+    if not (page and token):
+        raise RuntimeError("Facebook Page credentials are not configured")
+    # Stories require a fresh, unpublished photo upload; a feed-post photo ID cannot be reused.
+    with open(path, "rb") as f:
+        upload = requests.post(
+            f"https://graph.facebook.com/{GRAPH_API_VERSION}/{page}/photos",
+            data={"published": "false", "access_token": token},
+            files={"source": f}, timeout=90)
+    if upload.status_code != 200:
+        raise RuntimeError(f"Story photo upload {upload.status_code}: {upload.text[:300]}")
+    photo_id = upload.json().get("id")
+    if not photo_id:
+        raise RuntimeError(f"Story photo upload returned no photo id: {upload.text[:300]}")
+    story = requests.post(
+        f"https://graph.facebook.com/{GRAPH_API_VERSION}/{page}/photo_stories",
+        data={"photo_id": photo_id, "access_token": token}, timeout=90)
+    if story.status_code != 200 or not story.json().get("success"):
+        raise RuntimeError(f"Facebook Story publish {story.status_code}: {story.text[:300]}")
+    story_id = story.json().get("post_id")
+    print("[facebook-story] photo Story published", story_id or "")
+    return story_id or True
 
 
 def make_poster(item, tag):
@@ -1215,12 +1251,35 @@ def publish_one(queue, state, item, t0):
             item["status"] = "failed"
         print(f"[facebook] FAILED: {ex}; poster remains queued for retry")
         return False
+    story_id = None
+    story_status = "not_attempted"
+    story_path = os.path.splitext(path)[0] + "_story.jpg"
+    try:
+        if os.path.exists(story_path):
+            story_id = post_facebook_photo_story(story_path)
+            story_status = "published"
+        else:
+            story_status = "missing_story_asset"
+            print("[facebook-story] no vertical Story export found")
+    except Exception as story_error:
+        story_status = "failed"
+        item["facebook_story_error"] = str(story_error)[:500]
+        print(f"[facebook-story] FAILED (feed post remains successful): {story_error}")
+
     item["status"] = "published"
     item["distribution"] = "facebook_feed"
     item["published"] = {"time": iso(t0), "facebook_post_id": fb_id,
                          "facebook_post_url": f"https://www.facebook.com/{fb_id}" if fb_id else None,
+                         "facebook_story_id": str(story_id) if story_id else None,
+                         "facebook_story_status": story_status,
                          "public_check": "API accepted publication; public visibility not independently verified"}
-    state.setdefault("published", []).append({"tokens": item.get("tokens", []), "urls": item.get("urls", []), "time": iso(t0), "title": item.get("title", item.get("headline", ""))})
+    state.setdefault("published", []).append({
+        "tokens": item.get("tokens", []), "urls": item.get("urls", []), "time": iso(t0),
+        "title": item.get("title", item.get("headline", "")),
+        "poster_language": item.get("poster_language", "ur"),
+        "target_market": item.get("target_market", "Pakistan"),
+        "facebook_post_id": fb_id, "facebook_story_status": story_status
+    })
     print("[queue] Facebook poster published", item.get("qid"), item["published"]["facebook_post_url"] or "")
     return True
 
