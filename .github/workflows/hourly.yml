@@ -13,11 +13,6 @@ on:
   schedule:
     - cron: "*/10 * * * *"
   workflow_dispatch:
-    inputs:
-      dry_run:
-        description: "Dry run: build the report, queue plan and posters, publish nothing, save nothing"
-        type: boolean
-        default: true
 permissions:
   contents: write
 concurrency: news-hub
@@ -54,7 +49,6 @@ jobs:
       - run: python main.py
         env:
           STATE_DIR: /tmp/data
-          DRY_RUN: ${{ github.event_name == 'push' && '1' || (github.event.inputs.dry_run == 'true' && '1' || '') }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
@@ -65,17 +59,8 @@ jobs:
           CLOUDFLARE_MODEL: ${{ vars.CLOUDFLARE_MODEL }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
-      - name: Download posters and report (dry run preview)
-        if: ${{ always() && (github.event_name == 'push' || github.event.inputs.dry_run == 'true') }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: posters-and-report
-          path: |
-            news-hub/posters/
-            news-hub/reports/
-          if-no-files-found: ignore
       - name: Save memory
-        if: ${{ always() && github.event_name != 'push' && github.event.inputs.dry_run != 'true' }}
+        if: ${{ always() }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
