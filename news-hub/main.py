@@ -65,8 +65,8 @@ MODEL = env("GEMINI_MODEL", "gemini-3.8-flash")
 DRY_RUN = env("DRY_RUN") == "1"
 HANDLE = env("HANDLE", "@adeelrajaviews")
 # --- schedule (all configurable) ---
-MAX_PER_DAY = fnum("MAX_PER_DAY", 56)            # four normal news posters/hour across the 14-hour publishing window
-DAILY_TARGET = MAX_PER_DAY  # operational target: 4/hour; quality gates still reject weak or unverified stories
+MAX_PER_DAY = fnum("MAX_PER_DAY", 84)            # six normal news posters/hour across the 14-hour publishing window
+DAILY_TARGET = MAX_PER_DAY  # operational capacity: one poster every 10 minutes, 09:00-23:00 PKT
 BREAKING_EXTRA = fnum("BREAKING_EXTRA", 20)      # breaking news is effectively never blocked by the daily limit
 BREAKING_GAP_MIN = fnum("BREAKING_GAP_MIN", 10)  # minimum gap after any post (breaking and YouTube promos)
 ANALYSIS_EVERY_MIN = fnum("ANALYSIS_EVERY_MIN", 10)  # Gemini analysis cadence (collecting happens every run)
@@ -594,7 +594,7 @@ Return JSON: {{"stories":[...]}}.
 
 
 def analyse(clusters):
-    blocks, link_maps = [], []
+    blocks, link_maps, analysed_clusters = [], [], []
     with ThreadPoolExecutor(8) as pool_ex:  # fetch the lead articles in parallel
         fetched = list(pool_ex.map(lambda c: fetch_article(c["lead"]), clusters))
     for n, c in enumerate(clusters, 1):
@@ -611,19 +611,30 @@ def analyse(clusters):
                 cand.append(cu)
         cand = cand[:10]
         link_maps.append({f"L{i + 1}": u for i, u in enumerate(cand)})
+        analysed_clusters.append(c)
         heads = "\n".join(f"- [{m['source']}] {m['title']} ({pkt(m['ts'])})" for m in c["members"][:8])
         sig = "; ".join(c["sig"]["trend_notes"]) or "single outlet"
         lines = "\n".join(f"L{i + 1} {u}" for i, u in enumerate(cand))
-        blocks.append(f"CLUSTER {n}\nHeadlines:\n{heads}\nMeasured signals: {sig}\n"
+        blocks.append(f"CLUSTER {len(blocks) + 1}\nHeadlines:\n{heads}\nMeasured signals: {sig}\n"
                       f"Lead article excerpt ({c['lead']['source']}): {text[:700] or 'NOT AVAILABLE (headlines only)'}\n"
                       f"CANDIDATE LINKS:\n{lines}")
+    if not blocks:
+        print("[editorial] no clusters had usable English/Urdu article text")
+        return []
     data = gemini_json(analysis_prompt(blocks))
+    assessments = data.get("stories", []) if isinstance(data, dict) else []
+    print(f"[editorial] model returned {len(assessments)} assessments for {len(blocks)} clusters")
     out = []
-    for s in data.get("stories", []):
-        n = s.get("n")
-        if not isinstance(n, int) or not 1 <= n <= len(clusters):
+    for s in assessments:
+        try:
+            n = int(s.get("n"))
+        except (TypeError, ValueError, AttributeError):
+            print(f"[editorial] ignored assessment with invalid cluster number: {s.get('n') if isinstance(s, dict) else 'non-object'}")
             continue
-        c = clusters[n - 1]
+        if not 1 <= n <= len(analysed_clusters):
+            print(f"[editorial] ignored out-of-range cluster number: {n}")
+            continue
+        c = analysed_clusters[n - 1]
         os_ = s.get("original_source") or {}
         ref = os_.get("url_ref", "")
         url = link_maps[n - 1].get(ref, "")           # links can only come from the supplied list
@@ -661,23 +672,23 @@ def analyse(clusters):
         valid_scope = story["scope"] in ("national", "provincial", "international")
         if not valid_scope:
             continue
-        if story["confidence"] < 65 or story["public_interest"] < 60:
+        sensitive = story["category"] in ("politics", "courts", "security", "crime", "war", "us_politics")
+        if story["confidence"] < (75 if sensitive else 65) or story["public_interest"] < 50:
             continue
         if story["is_global"] and story["scope"] != "international":
             continue
-        if story["scope"] == "national" and story["national_impact"] < 70:
+        if story["scope"] == "national" and story["national_impact"] < 55:
             continue
-        if story["scope"] == "provincial" and (story["regional_impact"] < 70 or story["region"] not in
+        if story["scope"] == "provincial" and (story["regional_impact"] < 55 or story["region"] not in
                 ("Azad Jammu and Kashmir", "Gilgit-Baltistan", "Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan")):
             continue
-        if story["scope"] == "international" and story["global_impact"] < 80:
-            if story["pakistan_relevance"] < 75 or not story["why_pk"]:
+        if story["scope"] == "international" and story["global_impact"] < 65:
+            if story["pakistan_relevance"] < 70 or not story["why_pk"]:
                 continue
-        major_lane = (story["importance"] >= 70 and story["public_interest"] >= 65
-                      and (story["scope"] != "national" or story["national_impact"] >= 70))
-        measured_viral_lane = (story["viral_potential"] >= 80 and story["trend_score"] >= 45
-                               and story["public_interest"] >= 60)
-        sensitive = story["category"] in ("politics", "courts", "security", "crime", "war", "us_politics")
+        major_lane = (story["importance"] >= 60 and story["public_interest"] >= 55
+                      and (story["scope"] != "national" or story["national_impact"] >= 55))
+        measured_viral_lane = (story["viral_potential"] >= 75 and story["trend_score"] >= 35
+                               and story["public_interest"] >= 50)
         if sensitive and story["confidence"] < 75:
             measured_viral_lane = False
         if not major_lane and not measured_viral_lane:
@@ -982,8 +993,8 @@ def count_day(queue, state, day, include_queued=True):
 
 
 def current_gap(queue, extra=0):
-    """Four normal news posters per hour means a fixed 15-minute publishing cadence."""
-    return 15
+    """One normal Facebook poster every 10 minutes during the publishing window."""
+    return 10
 
 
 def assign_slot(queue, t0):
@@ -1060,7 +1071,7 @@ def last_published(queue):
 
 
 def pick_due(queue, t0):
-    """Publish one due item per five-minute run, respecting the 15-minute normal-news cadence."""
+    """Publish one due Facebook poster per ten-minute scheduled run."""
     due = [i for i in queue["items"] if i["status"] == "queued" and parse(i["not_before"]) <= t0]
     if not due:
         return None, "nothing due yet"
