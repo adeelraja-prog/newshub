@@ -592,8 +592,10 @@ def T7(c, flip, style):
             size-=2
         y=top+max(0,(bottom-top-total)//2)
         for line,h in zip(lines,heights):
-            bb=d.textbbox((0,0),line,font=f,anchor="rt",direction="rtl",language="ur")
-            d.text((W//2,y-bb[1]),line,font=f,fill=ink,anchor="rt",direction="rtl",language="ur")
+            # No story photograph is guaranteed in the master layout. Centre every
+            # Urdu headline line in the full canvas so an unused image area never
+            # leaves the typography stranded on one side.
+            d.text((W//2,y),line,font=f,fill=ink,anchor="mt",direction="rtl",language="ur")
             y+=h+14
     else:
         size=76
@@ -606,6 +608,7 @@ def T7(c, flip, style):
             size-=2
         y=top+max(0,(bottom-top-total)//2)
         for line,h in zip(lines,heights):
+            # English-only fallback uses the same centred headline axis.
             d.text((W//2,y),line,font=f,fill=ink,anchor="mt"); y+=h+12
     if en and ur:
         d.line((M,1080,W-M,1080),fill=gold,width=3)
