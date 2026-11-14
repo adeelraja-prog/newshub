@@ -673,13 +673,13 @@ def analyse(clusters):
         if not valid_scope:
             continue
         sensitive = story["category"] in ("politics", "courts", "security", "crime", "war", "us_politics")
-        if story["confidence"] < (75 if sensitive else 65) or story["public_interest"] < 50:
+        if story["confidence"] < (75 if sensitive else 65) or story["public_interest"] < 55:
             continue
         if story["is_global"] and story["scope"] != "international":
             continue
         if story["scope"] == "national" and story["national_impact"] < 55:
             continue
-        if story["scope"] == "provincial" and (story["regional_impact"] < 55 or story["region"] not in
+        if story["scope"] == "provincial" and (story["regional_impact"] < 70 or story["region"] not in
                 ("Azad Jammu and Kashmir", "Gilgit-Baltistan", "Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan")):
             continue
         if story["scope"] == "international" and story["global_impact"] < 65:
