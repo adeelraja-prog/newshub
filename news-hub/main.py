@@ -65,14 +65,14 @@ MODEL = env("GEMINI_MODEL", "gemini-3.8-flash")
 DRY_RUN = env("DRY_RUN") == "1"
 HANDLE = env("HANDLE", "@adeelrajaviews")
 # --- schedule (all configurable) ---
-MAX_PER_DAY = fnum("MAX_PER_DAY", 84)            # six normal news posters/hour across the 14-hour publishing window
-DAILY_TARGET = MAX_PER_DAY  # operational capacity: one poster every 10 minutes, 09:00-23:00 PKT
+MAX_PER_DAY = fnum("MAX_PER_DAY", 144)           # ten-minute cadence, 24 hours a day
+DAILY_TARGET = MAX_PER_DAY  # operational capacity: one Facebook poster every 10 minutes, 24/7 PKT
 BREAKING_EXTRA = fnum("BREAKING_EXTRA", 20)      # breaking news is effectively never blocked by the daily limit
 BREAKING_GAP_MIN = fnum("BREAKING_GAP_MIN", 10)  # minimum gap after any post (breaking and YouTube promos)
 ANALYSIS_EVERY_MIN = fnum("ANALYSIS_EVERY_MIN", 10)  # Gemini analysis cadence (collecting happens every run)
 FORCE_PRE = fnum("FORCE_ANALYSIS_SCORE", 70)     # a very strong story triggers analysis immediately
 DEPTH_SKIP = fnum("QUEUE_DEPTH_SKIP", 14)        # enough queued: skip analysis (saves Gemini quota)
-WINDOW_START, WINDOW_END = fnum("WINDOW_START", 9), fnum("WINDOW_END", 23)   # PKT hours
+WINDOW_START, WINDOW_END = fnum("WINDOW_START", 0), fnum("WINDOW_END", 24)   # PKT hours; 24/7 publishing
 SELECT_N = fnum("SELECT_N", 4)                   # stories queued per run
 QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before a queued story is dropped
 MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 14)          # do not queue stories that would post later than this
