@@ -1030,6 +1030,7 @@ def enqueue(queue, story, w, caption, t0):
         "value_addition": w.get("value_addition") if isinstance(w.get("value_addition"), dict) else {"type": "none"},
         "headline": w["headline_used"], "headline_alt": w["headline_alt"],
         "tokens": sorted(story["cluster"]["tokens"])[:14], "title": story["cluster"]["title"],
+        "urls": sorted({ed.canonical_url(m.get("link", "")) for m in story["cluster"]["members"] if m.get("link")}),
         "source_name": story["original_source"]["name"] if story["original_source"]["url"] else story["discovery"]["name"],
         "meta": {"keywords": [w["primary_keyword"]] + list(w.get("secondary_keywords") or []),
                  "entities": w.get("entities") or {}, "hashtags": w["hashtags"], "search_summary": w["search_summary"],
@@ -1146,7 +1147,7 @@ def publish_one(queue, state, item, t0):
     item["published"] = {"time": iso(t0), "facebook_post_id": fb_id,
                          "facebook_post_url": f"https://www.facebook.com/{fb_id}" if fb_id else None,
                          "public_check": "API accepted publication; public visibility not independently verified"}
-    state.setdefault("published", []).append({"tokens": item.get("tokens", []), "time": iso(t0), "title": item.get("title", item.get("headline", ""))})
+    state.setdefault("published", []).append({"tokens": item.get("tokens", []), "urls": item.get("urls", []), "time": iso(t0), "title": item.get("title", item.get("headline", ""))})
     print("[queue] Facebook poster published", item.get("qid"), item["published"]["facebook_post_url"] or "")
     return True
 
@@ -1229,8 +1230,8 @@ def main():
     items = [{**p, "ts": parse(p["ts"])} for p in pool]
     clusters = ed.cluster_items(items)
     history = [h for h in state.get("history", []) if t0 - parse(h["last_seen"]) < timedelta(hours=24)]
-    published = [p for p in state.get("published", []) if t0 - parse(p["time"]) < timedelta(hours=48)]
-    queued_tokens = [{"tokens": i["tokens"]} for i in queue["items"] if i["status"] in ("queued", "published")]
+    published = [p for p in state.get("published", []) if t0 - parse(p["time"]) < timedelta(days=30)]
+    queued_tokens = [{"tokens": i.get("tokens", []), "urls": i.get("urls", [])} for i in queue["items"] if i["status"] in ("queued", "published")]
 
     dups = unchanged = 0
     candidates = []
@@ -1238,7 +1239,19 @@ def main():
         hi = ed.match_list(c["tokens"], history)
         hist = history[hi] if hi is not None else None
         c["sig"] = ed.trend_signals(c, trends, hist, t0)
-        if ed.match_list(c["tokens"], published + queued_tokens, thr=0.5) is not None:
+        # Cross-run deduplication: match canonical article URLs first, then story-token similarity.
+        cluster_urls = {ed.canonical_url(m.get("link", "")) for m in c["members"] if m.get("link")}
+        duplicate = False
+        for prior in published + queued_tokens:
+            prior_urls = {ed.canonical_url(u) for u in prior.get("urls", []) if u}
+            if cluster_urls and prior_urls and cluster_urls.intersection(prior_urls):
+                duplicate = True
+                break
+            prior_tokens = prior.get("tokens", [])
+            if prior_tokens and ed.sim(c["tokens"], frozenset(prior_tokens)) >= 0.50:
+                duplicate = True
+                break
+        if duplicate:
             dups += 1
         elif hist and hist.get("analysed_n") is not None and c["n_sources"] < hist["analysed_n"] + 2:
             unchanged += 1
