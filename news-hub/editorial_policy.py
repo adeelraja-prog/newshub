@@ -4,10 +4,10 @@ Keeps a high factual bar without requiring every publishable story to be labelle
 ALLOWED_SCOPES = {"national", "provincial", "international"}
 MIN_CONFIDENCE = 65
 MIN_IMPORTANCE = 60
-MIN_PUBLIC_INTEREST = 50
-MIN_URGENCY = 30
+MIN_PUBLIC_INTEREST = 55
+MIN_URGENCY = 50
 MIN_NATIONAL_IMPACT = 55
-MIN_REGIONAL_IMPACT = 55
+MIN_REGIONAL_IMPACT = 70
 MIN_GLOBAL_IMPACT = 65
 
 
