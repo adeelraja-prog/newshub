@@ -1238,8 +1238,11 @@ def make_poster(item, tag):
 
 def publish_one(queue, state, item, t0):
     """Generate one branded news poster and publish it to the Facebook Page feed."""
-    path = make_poster(item, t0.astimezone(PKT).strftime("%Y%m%d-%H%M"))
     try:
+        # Rendering is part of the delivery path too: keep a bad font/image/template
+        # from aborting the entire scheduled newsroom cycle. The queued item remains
+        # retryable and the error is recorded just like a failed delivery attempt.
+        path = make_poster(item, t0.astimezone(PKT).strftime("%Y%m%d-%H%M"))
         res = post_facebook(path, item["caption"])
         if not res:
             raise RuntimeError("Facebook did not confirm the Page photo post.")
