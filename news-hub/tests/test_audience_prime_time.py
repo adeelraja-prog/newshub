@@ -19,7 +19,8 @@ class AudiencePrimeTimeTests(unittest.TestCase):
         self.assertEqual(choose_poster_language(story, instant), "en")
 
     def test_pakistan_stories_default_to_urdu_outside_diaspora_prime_time(self):
-        instant = datetime(2026, 11, 14, 20, 0, tzinfo=ZoneInfo("Asia/Karachi"))
+        # 16:00 PKT is outside the Pakistan, Gulf, UK and North American evening windows.
+        instant = datetime(2026, 11, 14, 16, 0, tzinfo=ZoneInfo("Asia/Karachi"))
         story = {"id": "stable-test-story", "scope": "national", "target_market": "Pakistan"}
         self.assertEqual(choose_poster_language(story, instant), "ur")
 
