@@ -558,6 +558,35 @@ def portrait_color_circle(size, ring, ring_w=7):
     return out
 
 
+
+def draw_shining_gold_text(img, x, y, text, font, anchor="ra"):
+    """Render a compact metallic-gold brand line with a restrained highlight."""
+    probe = ImageDraw.Draw(img)
+    bbox = probe.textbbox((0, 0), text, font=font)
+    tw, th = max(1, bbox[2] - bbox[0]), max(1, bbox[3] - bbox[1])
+    mask = Image.new("L", (tw + 4, th + 4), 0)
+    ImageDraw.Draw(mask).text((2 - bbox[0], 2 - bbox[1]), text, font=font, fill=255)
+    stops = [(0.0, (130, 91, 25)), (0.34, (224, 190, 91)),
+             (0.52, (255, 239, 174)), (0.72, (211, 169, 65)),
+             (1.0, (150, 107, 30))]
+    grad = Image.new("RGB", mask.size)
+    px = grad.load()
+    for xx in range(grad.width):
+        t = xx / max(1, grad.width - 1)
+        for k in range(len(stops) - 1):
+            if stops[k][0] <= t <= stops[k + 1][0]:
+                a, ca = stops[k]; b, cb = stops[k + 1]
+                f = (t - a) / max(1e-6, b - a)
+                col = tuple(round(ca[i] + (cb[i] - ca[i]) * f) for i in range(3))
+                break
+        else:
+            col = stops[-1][1]
+        for yy in range(grad.height):
+            px[xx, yy] = col
+    pos = (int(x - mask.width), int(y - 2)) if anchor == "ra" else (int(x), int(y - 2))
+    img.paste(grad, pos, mask)
+
+
 def T7(c, flip, style):
     """Locked Adeel Raja broadcast poster: small portrait, oversized Urdu-first news headline."""
     navy="#05142D"; navy2="#0B2447"; gold="#D4AF37"; red="#AA0A14"
@@ -576,6 +605,7 @@ def T7(c, flip, style):
     im.paste(badge,(W-M-badge.width,46),badge)
     d=ImageDraw.Draw(im)
     d.text((W-M,204),"AGAHI AWARD 2016",font=sans(16,800),fill=gold,anchor="ra")
+    draw_shining_gold_text(im, W-M, 232, "AWARD-WINNING JOURNALIST", sans(16,800), anchor="ra")
     d.rectangle((0,340,W,426),fill=red)
     d.text((W//2,383),"●  BREAKING NEWS",font=sans(31,900),fill=white,anchor="mm")
     ur=str(c.ur or "").strip(); en=str(c.en or "").strip()
