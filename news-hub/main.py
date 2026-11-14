@@ -77,8 +77,8 @@ SELECT_N = fnum("SELECT_N", 4)                   # stories queued per run
 QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before a queued story is dropped
 MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 14)          # do not queue stories that would post later than this
 # --- editorial thresholds ---
-MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 75), fnum("MIN_COMPOSITE", 72)
-FILL_COMPOSITE = fnum("FILL_COMPOSITE", 72)       # never lower the quality bar to fill an empty queue
+MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 65), fnum("MIN_COMPOSITE", 55)
+FILL_COMPOSITE = fnum("FILL_COMPOSITE", 52)       # verified current stories can fill normal slots
 BREAK_URGENCY, BREAK_CONFIDENCE = fnum("BREAK_URGENCY", 90), fnum("BREAK_CONFIDENCE", 80)
 ANALYSE_TOP = fnum("ANALYSE_TOP", 18)
 POOL_HOURS = fnum("POOL_HOURS", 6)
