@@ -1328,22 +1328,30 @@ def main():
             # Maintain a rolling 24-28 approved-story buffer. Never overfill it;
             # breaking stories remain eligible for immediate treatment separately.
             normal_slots_left = max(0, QUEUE_CAP - depth)
-            selection_limit = min(SELECT_N, normal_slots_left)
+            # Still inspect the candidate set at a full normal buffer so a genuinely
+            # urgent breaking/high-priority item can bypass the routine buffer cap.
+            selection_limit = min(SELECT_N, normal_slots_left) if normal_slots_left else SELECT_N
             chosen = ed.select_balanced(stories, selection_limit, MIN_CONFIDENCE, min_comp,
                                         BREAK_URGENCY, BREAK_CONFIDENCE) if selection_limit else []
-            print(f"[queue] normal approved buffer={depth}/{QUEUE_CAP}; replenishment slots={selection_limit}")
+            print(f"[queue] normal approved buffer={depth}/{QUEUE_CAP}; replenishment slots={min(SELECT_N, normal_slots_left)}; urgent review remains enabled")
             written = write_posts(chosen) if chosen else {}
             written, unchecked = fact_check(chosen, written)   # nothing is queued without passing the fact-check
             for n in unchecked:  # fact-check could not run for these: retry them next time
                 chosen[n - 1]["cluster"]["hist"]["analysed_n"] = None
+            normal_added = 0
             for n, s in enumerate(chosen, 1):
                 w = written.get(n)
                 if not w:
                     continue
-                if s.get("priority") != "breaking" and assign_slot(queue, t0) - t0 > timedelta(hours=MAX_AHEAD_H):
+                if s.get("priority") not in ("breaking", "high") and depth + normal_added >= QUEUE_CAP:
+                    print(f"[queue] normal buffer full ({QUEUE_CAP}); holding for next cycle: {s['event'][:60]}")
+                    continue
+                if s.get("priority") not in ("breaking", "high") and assign_slot(queue, t0) - t0 > timedelta(hours=MAX_AHEAD_H):
                     print(f"[info] queue is full for the next {MAX_AHEAD_H}h; skipped: {s['event'][:60]}")
                     continue
                 it = enqueue(queue, s, w, build_caption(s, w), t0)
+                if it["priority"] == "normal":
+                    normal_added += 1
                 info["queued_now"].append(it)
         except Exception as ex:  # a Gemini outage must never publish incomplete output
             gemini_ok = False
