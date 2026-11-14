@@ -71,17 +71,18 @@ BREAKING_EXTRA = fnum("BREAKING_EXTRA", 20)      # breaking news is effectively 
 BREAKING_GAP_MIN = fnum("BREAKING_GAP_MIN", 10)  # minimum gap after any post (breaking and YouTube promos)
 ANALYSIS_EVERY_MIN = fnum("ANALYSIS_EVERY_MIN", 10)  # Gemini analysis cadence (collecting happens every run)
 FORCE_PRE = fnum("FORCE_ANALYSIS_SCORE", 70)     # a very strong story triggers analysis immediately
-DEPTH_SKIP = fnum("QUEUE_DEPTH_SKIP", 14)        # enough queued: skip analysis (saves Gemini quota)
+DEPTH_SKIP = fnum("QUEUE_DEPTH_SKIP", 24)        # replenish only below the 24-story buffer threshold
+QUEUE_CAP = fnum("QUEUE_CAP", 28)                 # hard cap for normal approved stories
 WINDOW_START, WINDOW_END = fnum("WINDOW_START", 0), fnum("WINDOW_END", 24)   # PKT hours; 24/7 publishing
-SELECT_N = fnum("SELECT_N", 4)                   # stories queued per run
+SELECT_N = fnum("SELECT_N", 4)                   # add up to four approved stories per analysis cycle
 QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before a queued story is dropped
-MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 14)          # do not queue stories that would post later than this
+MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 6)          # do not queue stories that would post later than this
 # --- editorial thresholds ---
 MIN_CONFIDENCE, MIN_COMPOSITE = fnum("MIN_CONFIDENCE", 65), fnum("MIN_COMPOSITE", 55)
 FILL_COMPOSITE = fnum("FILL_COMPOSITE", 52)       # verified current stories can fill normal slots
 BREAK_URGENCY, BREAK_CONFIDENCE = fnum("BREAK_URGENCY", 90), fnum("BREAK_CONFIDENCE", 80)
-ANALYSE_TOP = fnum("ANALYSE_TOP", 18)
-POOL_HOURS = fnum("POOL_HOURS", 6)
+ANALYSE_TOP = fnum("ANALYSE_TOP", 30)
+POOL_HOURS = fnum("POOL_HOURS", 8)
 
 USAGE = {"calls": 0, "prompt_tokens": 0, "output_tokens": 0, "errors": [], "providers_used": None, "ai_unavailable": False}
 
@@ -1324,8 +1325,13 @@ def main():
                 c["hist"]["analysed_n"] = c["n_sources"]
             info["lists"] = ed.top_lists(stories)
             min_comp = MIN_COMPOSITE if depth >= 4 else FILL_COMPOSITE
-            chosen = ed.select_balanced(stories, SELECT_N, MIN_CONFIDENCE, min_comp,
-                                        BREAK_URGENCY, BREAK_CONFIDENCE)
+            # Maintain a rolling 24-28 approved-story buffer. Never overfill it;
+            # breaking stories remain eligible for immediate treatment separately.
+            normal_slots_left = max(0, QUEUE_CAP - depth)
+            selection_limit = min(SELECT_N, normal_slots_left)
+            chosen = ed.select_balanced(stories, selection_limit, MIN_CONFIDENCE, min_comp,
+                                        BREAK_URGENCY, BREAK_CONFIDENCE) if selection_limit else []
+            print(f"[queue] normal approved buffer={depth}/{QUEUE_CAP}; replenishment slots={selection_limit}")
             written = write_posts(chosen) if chosen else {}
             written, unchecked = fact_check(chosen, written)   # nothing is queued without passing the fact-check
             for n in unchecked:  # fact-check could not run for these: retry them next time
