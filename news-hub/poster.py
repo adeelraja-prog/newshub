@@ -634,18 +634,25 @@ def T7(c, flip, style):
             d.text((W//2,y),line,font=f,fill=ink,anchor="mt",direction="rtl",language="ur")
             y+=h+14
     else:
-        size=76
-        while size>38:
+        # English edition: same navy/gold/red identity, but a cleaner,
+        # more spacious international-news typographic treatment.
+        # Urdu master remains completely unchanged.
+        d.text((M,486),"PAKISTAN  /  GLOBAL DESK",
+               font=sans(19,800),fill=gold,anchor="la")
+        size=82
+        while size>46:
             f=sans(size,900); lines=wrap(en.upper(),f,W-2*M); heights=[]
             for line in lines:
                 bb=d.textbbox((0,0),line,font=f); heights.append(max(1,bb[3]-bb[1]))
-            total=sum(heights)+12*max(0,len(lines)-1)
-            if len(lines)<=4 and total<=bottom-top: break
+            total=sum(heights)+20*max(0,len(lines)-1)
+            if len(lines)<=4 and total<=bottom-530: break
             size-=2
-        y=top+max(0,(bottom-top-total)//2)
+        y=530+max(0,(bottom-530-total)//2)
         for line,h in zip(lines,heights):
-            # English-only fallback uses the same centred headline axis.
-            d.text((W//2,y),line,font=f,fill=ink,anchor="mt"); y+=h+12
+            d.text((M,y),line,font=f,fill=ink,anchor="lt")
+            y+=h+20
+        d.rounded_rectangle((M,min(1015,y+12),M+96,min(1021,y+18)),
+                            radius=3,fill=gold)
     if en and ur:
         d.line((M,1080,W-M,1080),fill=gold,width=3)
         ef=sans(27,600); detail_lines=wrap(en,ef,W-2*M)
