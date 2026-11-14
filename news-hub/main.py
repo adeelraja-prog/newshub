@@ -1202,6 +1202,11 @@ def build_report(info):
 # ---------- main ----------
 def main():
     t0 = now()
+    if DRY_RUN:
+        # Preview artifacts must contain only posters produced by this run, never stale files.
+        os.makedirs(POSTER_DIR, exist_ok=True)
+        for old_poster in glob.glob(f"{POSTER_DIR}/*.jpg"):
+            os.remove(old_poster)
     state = load_json(STATE_FILE, {})
     queue = load_json(QUEUE_FILE, {"items": []})
     queue.setdefault("items", [])
