@@ -1104,12 +1104,14 @@ def post_facebook(path, text):
 
 
 def make_poster(item, tag):
+    """Render from the fixed local newsroom master; no external image API or missing image helper."""
     os.makedirs(POSTER_DIR, exist_ok=True)
     path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
-    image_path, credit = editorial_image(item, tag)
-    poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"], item["priority"] == "breaking",
-                  [item["source_name"]], HANDLE, path, variant=0, tag=item.get("tag"),
-                  person=image_path, credit=credit, value_addition=item.get("value_addition"))
+    poster.render(item["poster"]["ur"], item["poster"]["en"], item["category"],
+                  item["priority"] == "breaking", [item.get("source_name") or "News Desk"],
+                  HANDLE, path, variant=0, tag=item.get("tag"),
+                  person=None, credit=item.get("source_name") or "News Desk",
+                  value_addition=item.get("value_addition"))
     return path
 
 def publish_one(queue, state, item, t0):
