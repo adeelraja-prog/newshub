@@ -615,6 +615,8 @@ def T7(c, flip, style):
         yy=1100
         for line in detail_lines[:2]:
             d.text((M,yy),line,font=ef,fill=muted); yy+=ef.size+8
+    source_line = str(c.source or "News Desk")[:72]
+    d.text((M,1155),f"SOURCE: {source_line}",font=sans(16,600),fill=muted,anchor="lm")
     fy=1190
     d.rectangle((0,fy,W,H),fill="#020A18")
     d.text((W//2,fy+26),"TRUTH  •  ANALYSIS  •  INSIGHT",font=sans(19,800),fill=gold,anchor="mt")
