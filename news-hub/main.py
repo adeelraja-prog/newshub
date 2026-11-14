@@ -1457,15 +1457,11 @@ def main():
             if not DRY_RUN and stories:
                 added_memory, total_memory = nm.remember(stories, memory_path, iso(t0))
                 print(f"[memory] archived {added_memory} new dated events; total archive {total_memory}")
-                last_scan = parse(state["last_controversy_scan"]) if state.get("last_controversy_scan") else None
-                if last_scan is None or t0 - last_scan >= timedelta(hours=6):
-                    political = [s for s in stories if s.get("category") in ("politics", "courts", "security", "us_politics")]
-                    if political:
-                        controversy_info = controversy_scan(
-                            stories, os.path.join(STATE_DIR, "controversy-ledger.json"),
-                            os.path.join(STATE_DIR, "controversy-comparisons.json"))
-                        state["last_controversy_scan"] = iso(t0)
-                        info["controversy"] = controversy_info
+                # The historical controversy scanner was removed during the poster-only
+                # simplification. Do not call a missing function here: optional research
+                # tooling must never abort the core collect -> verify -> queue -> publish path.
+                # Keep the dated event memory above; controversy comparisons remain disabled
+                # until a real, tested scanner is implemented.
             for c in candidates:
                 c["hist"]["analysed_n"] = c["n_sources"]
             info["lists"] = ed.top_lists(stories)
