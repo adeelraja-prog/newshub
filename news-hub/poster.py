@@ -599,13 +599,19 @@ def T7(c, flip, style):
     d.text((M+255,91),"RAJA",font=sans(82,900),fill=white,anchor="lm")
     d.rounded_rectangle((M,145,M+214,193),radius=12,fill=white)
     d.text((M+107,169),"JOURNALIST",font=sans(21,900),fill=navy,anchor="mm")
-    d.text((M,236),"عدیل راجہ",font=urdu(38),fill=white,anchor="lm",direction="rtl",language="ur")
-    d.text((M,286),"Former Exec. Producer ARY News  |  Ex-CNN",font=sans(20,600),fill=muted,anchor="lm")
+
+    # Portrait-led credentials lockup: portrait on the left, credentials on the
+    # right. Keep the Agahi award year off this compact masthead as requested.
     badge=portrait_color_circle(116,gold,6)
-    im.paste(badge,(W-M-badge.width,46),badge)
+    im.paste(badge,(M,205),badge)
     d=ImageDraw.Draw(im)
-    d.text((W-M,204),"AGAHI AWARD 2016",font=sans(16,800),fill=gold,anchor="ra")
-    draw_shining_gold_text(im, W-M, 232, "AWARD-WINNING JOURNALIST", sans(16,800), anchor="ra")
+    cred_x=M+145
+    draw_shining_gold_text(im, cred_x, 214, "AWARD-WINNING JOURNALIST",
+                           sans(19,800), anchor="la")
+    d.text((cred_x,251),"Former Executive Producer, ARY News",
+           font=sans(18,650),fill=white,anchor="la")
+    d.text((cred_x,282),"Former CNN Contributor",
+           font=sans(18,600),fill=muted,anchor="la")
     d.rectangle((0,340,W,426),fill=red)
     d.text((W//2,383),"●  BREAKING NEWS",font=sans(31,900),fill=white,anchor="mm")
     ur=str(c.ur or "").strip(); en=str(c.en or "").strip()
