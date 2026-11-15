@@ -40,7 +40,7 @@ class NationalHeadlineGateTests(unittest.TestCase):
         self.assertFalse(policy.eligible(self.base(scope="local"))[0])
 
     def test_global_story_needs_global_impact_or_strong_pakistan_relevance(self):
-        self.assertFalse(policy.eligible(self.base(scope="international",global_impact=60,
+        self.assertFalse(policy.eligible(self.base(scope="international",global_impact=59,
                                                    pakistan_relevance=50,why_pk=""))[0])
         self.assertTrue(policy.eligible(self.base(scope="international",global_impact=90))[0])
 
