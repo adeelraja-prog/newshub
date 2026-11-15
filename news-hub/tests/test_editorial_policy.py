@@ -21,6 +21,9 @@ class NationalHeadlineGateTests(unittest.TestCase):
         self.assertEqual(policy.priority_band(self.base(urgency=50, importance=60, public_interest=60,
                                                         national_impact=50)), "P3")
 
+    def test_stale_story_is_p5(self):
+        self.assertEqual(policy.priority_band(self.base(stale=True)), "P5")
+
     def test_priority_band_unclear_source_is_p4(self):
         self.assertEqual(policy.priority_band(self.base(original_source={"type":"unknown","url":""})), "P4")
 
