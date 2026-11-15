@@ -1381,9 +1381,22 @@ def main():
             print("[queue] quarantined record with invalid status")
             row["status"] = "needs_review"
             row["review_reason"] = "Invalid or missing queue status"
-        if not row.get("headline") or not row.get("caption") or not row.get("not_before"):
+        row.setdefault("priority", "normal")
+        row.setdefault("meta", {})
+        if not isinstance(row["meta"], dict):
+            row["meta"] = {}
+        row["meta"].setdefault("scores", {})
+        if not isinstance(row["meta"]["scores"], dict):
+            row["meta"]["scores"] = {}
+        row["meta"]["scores"].setdefault("composite", 0)
+        row.setdefault("poster_language", "ur")
+        if not row.get("headline") or not row.get("caption") or not row.get("not_before") or not isinstance(row.get("poster"), dict):
             row["status"] = "needs_review"
             row["review_reason"] = "Incomplete queue record; manual review required"
+            row.setdefault("needs_review_at", iso(t0))
+        if row.get("status") == "published" and not (isinstance(row.get("published"), dict) and row["published"].get("time")):
+            row["status"] = "needs_review"
+            row["review_reason"] = "Published record missing publication timestamp; manual reconciliation required"
             row.setdefault("needs_review_at", iso(t0))
         valid_items.append(row)
     queue["items"] = valid_items
@@ -1519,6 +1532,11 @@ def main():
                                         BREAK_URGENCY, BREAK_CONFIDENCE) if selection_limit else []
             print(f"[queue] normal approved buffer={depth}/{QUEUE_CAP}; replenishment slots={min(SELECT_N, normal_slots_left)}; urgent review remains enabled")
             written = write_posts(chosen) if chosen else {}
+            # Retry selected stories if creative generation failed; don't let an AI
+            # writing outage mark the cluster as fully analysed.
+            for n, story in enumerate(chosen, 1):
+                if n not in written:
+                    story["cluster"]["hist"]["analysed_n"] = None
             written, unchecked = fact_check(chosen, written)   # nothing is queued without passing the fact-check
             for n in unchecked:  # fact-check could not run for these: retry them next time
                 chosen[n - 1]["cluster"]["hist"]["analysed_n"] = None
