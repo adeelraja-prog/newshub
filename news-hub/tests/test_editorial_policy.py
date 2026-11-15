@@ -18,16 +18,25 @@ class NationalHeadlineGateTests(unittest.TestCase):
         self.assertTrue(ok, reason)
 
     def test_non_urgent_old_story_is_rejected(self):
-        self.assertFalse(policy.eligible(self.base(urgency=40))[0])
+        self.assertFalse(policy.eligible(self.base(urgency=34))[0])
 
     def test_low_public_interest_story_is_rejected(self):
-        self.assertFalse(policy.eligible(self.base(public_interest=50))[0])
+        self.assertFalse(policy.eligible(self.base(public_interest=49))[0])
 
     def test_major_provincial_public_interest_story_is_allowed(self):
-        self.assertTrue(policy.eligible(self.base(scope="provincial",regional_impact=88))[0])
+        self.assertTrue(policy.eligible(self.base(scope="provincial",regional_impact=60))[0])
+
+    def test_borderline_verified_national_story_is_allowed(self):
+        ok, reason = policy.eligible(self.base(importance=55, public_interest=50,
+                                                confidence=70, national_impact=45, urgency=35))
+        self.assertTrue(ok, reason)
+
+    def test_sensitive_story_keeps_higher_confidence_floor(self):
+        self.assertFalse(policy.eligible(self.base(category="politics", confidence=69))[0])
+        self.assertTrue(policy.eligible(self.base(category="politics", confidence=70))[0])
 
     def test_local_or_low_impact_provincial_story_is_rejected(self):
-        self.assertFalse(policy.eligible(self.base(scope="provincial",regional_impact=60))[0])
+        self.assertFalse(policy.eligible(self.base(scope="provincial",regional_impact=59))[0])
         self.assertFalse(policy.eligible(self.base(scope="local"))[0])
 
     def test_global_story_needs_global_impact_or_strong_pakistan_relevance(self):
