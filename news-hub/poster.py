@@ -750,7 +750,7 @@ def render_mobile_value_card(c, info):
     d = ImageDraw.Draw(im)
 
     kind = str(info.get("type") or "explainer").lower()
-    labels = {"explainer":"THE STORY / EXPLAINED", "data":"THE NUMBERS / IN CONTEXT",
+    labels = {"explainer":"EXPLAINER  |  THE STORY / EXPLAINED", "data":"THE NUMBERS / IN CONTEXT",
               "timeline":"THE TIMELINE", "factcheck":"FACT CHECK"}
     spaced(d, M, 242, labels.get(kind, "THE STORY / EXPLAINED"),
            sans(20, 800), accent, 2)
@@ -804,9 +804,14 @@ def render_mobile_value_card(c, info):
         body = str(row.get("text") or row.get("fact") or row.get("display_value") or row.get("value") or "").strip()
         body_font = sans(21,500)
         ty = y+58
-        for ln in wrap(body, body_font, W-2*M-56)[:2]:
+        max_body_lines = 3 if kind == "explainer" else 2
+        body_lines = wrap(body, body_font, W-2*M-56)
+        if kind == "explainer" and len(body_lines) > max_body_lines:
+            body_font = sans(19,500)
+            body_lines = wrap(body, body_font, W-2*M-56)
+        for ln in body_lines[:max_body_lines]:
             d.text((M+28,ty),ln,font=body_font,fill=ink)
-            ty += 27
+            ty += int(body_font.size * 1.3)
         ur_body = str(row.get("text_ur") or row.get("fact_ur") or "").strip()
         if ur_body and ty+35 < y+card_h-24:
             uf = urdu(24)
