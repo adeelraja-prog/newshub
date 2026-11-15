@@ -61,6 +61,24 @@ class EditorialQualityTests(unittest.TestCase):
         ok,_=q.validate_value_addition({"type":"timeline","timeline":[{"date":"2025-01-01","text":"Fact"}]})
         self.assertFalse(ok)
 
+    def test_explainer_rejects_short_generic_text(self):
+        ok, reason = q.validate_value_addition({"type":"explainer","points":[
+            {"text":"This happened today.","source":"Dawn","url":"https://dawn.com/a"},
+            {"text":"Officials gave a statement.","source":"Dawn","url":"https://dawn.com/b"}]})
+        self.assertFalse(ok)
+        self.assertIn("18 meaningful", reason)
+
+    def test_explainer_accepts_substantive_sourced_points(self):
+        ok, _ = q.validate_value_addition({"type":"explainer","points":[
+            {"text":"The court suspended the notification after finding that the department had not followed the procedure required by the relevant law.","source":"Dawn","url":"https://dawn.com/a"},
+            {"text":"The order means the earlier arrangement remains in place until the next hearing, when the government must explain its legal position to the court.","source":"Dawn","url":"https://dawn.com/b"}]})
+        self.assertTrue(ok)
+
+    def test_explainer_rejects_four_overloaded_points(self):
+        point={"text":"The court suspended the notification after finding that the department had not followed the procedure required by the relevant law.","source":"Dawn","url":"https://dawn.com/a"}
+        ok, _ = q.validate_value_addition({"type":"explainer","points":[point,point,point,point]})
+        self.assertFalse(ok)
+
     def test_value_addition_uses_only_verified_records(self):
         evidence=[q.verified_evidence_record("Dawn","https://dawn.com/a","2025-01-01","Exact quote","First dated fact"),
                   q.verified_evidence_record("","", "","", "Unverified fact")]
