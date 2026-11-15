@@ -1194,7 +1194,8 @@ def enqueue(queue, story, w, caption, t0):
                  "explanation": story["explanation"], "original_source": story["original_source"],
                  "discovery": story["discovery"], "corroborating": story["corroborating"],
                  "first_published": story["first_pub"], "last_update": story["last_update"],
-                 "supporting": [{"name": m["source"], "url": m["link"]} for m in story["cluster"]["members"][:6]]},
+                 "supporting": [{"name": m["source"], "url": m["link"]} for m in story["cluster"]["members"][:6]],
+                  "editorial_priority_band": story.get("editorial_priority_band", "P3")},
     }
     queue["items"].append(item)
     return item
@@ -1226,8 +1227,10 @@ def pick_due(queue, t0):
     due = [i for i in queue["items"] if i["status"] == "queued" and parse(i["not_before"]) <= t0]
     if not due:
         return None, "nothing due yet"
-    order = {"breaking": 0, "high": 1, "promo": 2}
-    due.sort(key=lambda i: (order.get(i["priority"], 2), -i["meta"]["scores"]["composite"]))
+    order = {"P1": 0, "P2": 1, "P3": 2, "P4": 3, "P5": 4}
+    due.sort(key=lambda i: (order.get((i.get("meta") or {}).get("editorial_priority_band", "P3"), 2),
+                            {"breaking": 0, "high": 1, "normal": 2}.get(i.get("priority"), 2),
+                            -((i.get("meta") or {}).get("scores") or {}).get("composite", 0)))
     last = last_published(queue)
     today = t0.astimezone(PKT).date()
     done = count_day(queue, None, today, include_queued=False)
@@ -1488,6 +1491,7 @@ def main():
                 break
         if duplicate:
             dups += 1
+            print(f"[priority] P5 DUPLICATE — excluded: {c['title'][:90]}")
         elif hist and hist.get("analysed_n") is not None and c["n_sources"] < hist["analysed_n"] + 2:
             unchanged += 1
         else:
@@ -1553,7 +1557,26 @@ def main():
                 else:
                     print(f"[quality] held non-headline item ({reason}): {str(story.get('event') or '')[:100]}")
             stories=eligible_stories
-            print(f"[quality] {len(stories)} stories remain after strict national/provincial/international headline gate")
+            # P1-P3 are publishable ranks. P4 is retained for manual/editorial review;
+            # P5 duplicates and stale items never enter the active queue.
+            publishable = []
+            review_log = state.setdefault("editorial_review", [])
+            for story in stories:
+                band = ep.priority_band(story, trusted_publisher=is_trusted_publisher_story(story))
+                story["editorial_priority_band"] = band
+                if band == "P4":
+                    review_log.append({"id": story.get("id"), "event": story.get("event"),
+                                       "band": "P4", "reason": (story.get("quality_review") or {}).get("reason")
+                                                  or "Original source or claim status needs editorial review",
+                                       "source": (story.get("original_source") or {}).get("name"),
+                                       "url": (story.get("original_source") or {}).get("url"),
+                                       "held_at": iso(t0), "status": "held_not_publishable"})
+                    print(f"[priority] P4 HOLD — not scheduled: {str(story.get('event') or '')[:90]}")
+                    continue
+                publishable.append(story)
+            state["editorial_review"] = review_log[-500:]
+            stories = publishable
+            print(f"[priority] publishable P1-P3={len(stories)}; P4 held for review; P5 duplicates/stale excluded")
             memory_path = os.path.join(STATE_DIR, "event-memory.json")
             for story in stories:
                 story["related_memory"] = nm.related_memory(story, memory_path, limit=3)
