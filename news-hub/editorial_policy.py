@@ -36,3 +36,27 @@ def eligible(story):
         if int(story.get("pakistan_relevance", 0) or 0) < 70 or not story.get("why_pk"):
             return False, "neither globally significant nor strongly relevant to Pakistan"
     return True, "eligible"
+
+
+def priority_band(story, trusted_publisher=False):
+    """P1-P4 editorial desk classification. P5 is assigned to duplicate/stale intake rejects."""
+    review = story.get("quality_review") or {}
+    source = story.get("original_source") or {}
+    source_unclear = (not trusted_publisher and
+                      (str(source.get("type", "unknown")).lower() == "unknown" or
+                       not source.get("url")))
+    if (review.get("decision") == "research_required" or
+        str(story.get("claim_status", "")).lower() == "unverified" or source_unclear):
+        return "P4"
+    confidence = int(story.get("confidence", 0) or 0)
+    urgency = int(story.get("urgency", 0) or 0)
+    if urgency >= 85 and confidence >= 75:
+        return "P1"
+    importance = int(story.get("importance", 0) or 0)
+    public_interest = int(story.get("public_interest", 0) or 0)
+    national = int(story.get("national_impact", 0) or 0)
+    regional = int(story.get("regional_impact", 0) or 0)
+    global_ = int(story.get("global_impact", 0) or 0)
+    if importance >= 70 or public_interest >= 80 or national >= 70 or regional >= 75 or global_ >= 80:
+        return "P2"
+    return "P3"
