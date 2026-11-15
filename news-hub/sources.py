@@ -18,6 +18,18 @@ TRUSTED_PUBLISHERS = {
 }
 
 SOURCES = [
+    # FIRST FETCH BATCH: all ten approved Pakistani publisher desks are submitted
+    # together before general discovery feeds. The collector has 12 workers.
+    gnews("site:geo.tv Pakistan when:1h", "Geo News Fast Lane"),
+    gnews("site:arynews.tv Pakistan when:1h", "ARY News Fast Lane"),
+    gnews("site:samaa.tv Pakistan when:1h", "Samaa Fast Lane"),
+    gnews("site:expressnews.tv Pakistan when:1h", "Express News Fast Lane"),
+    gnews("site:dawn.com Pakistan when:1h", "Dawn Fast Lane"),
+    gnews("site:jang.com.pk Pakistan when:1h", "Jang Fast Lane"),
+    gnews("site:thenews.com.pk Pakistan when:1h", "The News Fast Lane"),
+    gnews("site:tribune.com.pk Pakistan when:1h", "Express Tribune Fast Lane"),
+    gnews("site:dunyanews.tv Pakistan when:1h", "Dunya News Fast Lane"),
+    gnews("site:dunyanews.tv Pakistan latest when:1h", "Dunya News TV Fast Lane"),
     # kind="local": full article text is fetched for the rewrite
     {"name": "Dawn Pakistan", "kind": "local", "url": "https://www.dawn.com/feeds/pakistan/"},
     {"name": "Dawn Latest", "kind": "local", "url": "https://www.dawn.com/feeds/latest-news/"},
@@ -35,13 +47,6 @@ SOURCES = [
     {"name": "Al Jazeera", "kind": "world", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
 
     # Google News searches (headline + snippet only)
-    # Trusted publisher discovery feeds — first-lane sources, no AI second-source check.
-    gnews("site:samaa.tv Pakistan when:1h", "Samaa"),
-    gnews("site:expressnews.tv Pakistan when:1h", "Express News"),
-    gnews("site:jang.com.pk Pakistan when:1h", "Jang"),
-    gnews("site:thenews.com.pk Pakistan when:1h", "The News International"),
-    gnews("site:dunyanews.tv Pakistan when:1h", "Dunya News"),
-    gnews("site:dunyanews.tv Pakistan latest news when:1h", "Dunya News TV"),
     gnews("Pakistan breaking news when:1h", "Pakistan Breaking Desk"),
     # Publisher-specific Google News discovery is a fallback when a publisher blocks
     # GitHub Actions cloud IPs or its RSS endpoint is unavailable. These are leads,
