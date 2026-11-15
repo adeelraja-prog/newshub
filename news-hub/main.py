@@ -1601,6 +1601,12 @@ def main():
             chosen = ed.select_balanced(stories, selection_limit, MIN_CONFIDENCE, min_comp,
                                         BREAK_URGENCY, BREAK_CONFIDENCE) if selection_limit else []
             print(f"[queue] normal approved buffer={depth}/{QUEUE_CAP}; replenishment slots={min(SELECT_N, normal_slots_left)}; urgent review remains enabled")
+            for story in chosen:
+                band = story.get("editorial_priority_band", "P3")
+                if band == "P1":
+                    story["priority"] = "breaking"
+                elif band == "P2" and story.get("priority") == "normal":
+                    story["priority"] = "high"
             written = write_posts(chosen) if chosen else {}
             # Retry selected stories if creative generation failed; don't let an AI
             # writing outage mark the cluster as fully analysed.
