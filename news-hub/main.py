@@ -1562,8 +1562,17 @@ def main():
             publishable = []
             review_log = state.setdefault("editorial_review", [])
             for story in stories:
+                # A saturated story with no fresh publisher update for six hours is P5.
+                try:
+                    story["stale"] = (story.get("lifecycle") == "saturated" and
+                                      t0 - parse(story.get("last_update")) > timedelta(hours=6))
+                except Exception:
+                    story["stale"] = False
                 band = ep.priority_band(story, trusted_publisher=is_trusted_publisher_story(story))
                 story["editorial_priority_band"] = band
+                if band == "P5":
+                    print(f"[priority] P5 STALE — excluded: {str(story.get('event') or '')[:90]}")
+                    continue
                 if band == "P4":
                     review_log.append({"id": story.get("id"), "event": story.get("event"),
                                        "band": "P4", "reason": (story.get("quality_review") or {}).get("reason")
