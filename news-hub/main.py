@@ -108,16 +108,39 @@ def entry_time(e):
 
 def load_json(path, default):
     try:
-        with open(path) as f:
+        with open(path, encoding="utf-8") as f:
             data = json.load(f)
-            return data if isinstance(data, type(default)) else default
-    except Exception:
+        if not isinstance(data, type(default)):
+            raise ValueError(f"unexpected JSON root type in {path}")
+        return data
+    except FileNotFoundError:
+        return default
+    except Exception as ex:
+        # Preserve a damaged state file for diagnosis instead of silently overwriting it.
+        backup = f"{path}.corrupt-{int(time.time())}"
+        try:
+            os.replace(path, backup)
+            print(f"[state] invalid {path} preserved as {backup}: {ex}")
+        except OSError:
+            print(f"[state] invalid {path}; could not preserve original: {ex}")
         return default
 
 
 def save_json(path, data):
-    with open(path, "w") as f:
-        json.dump(data, f, ensure_ascii=False)
+    # Atomic replace: an interrupted write must not leave half a JSON document.
+    import tempfile
+    directory = os.path.dirname(os.path.abspath(path))
+    os.makedirs(directory, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(prefix=".newshub-", suffix=".tmp", dir=directory)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp, path)
+    finally:
+        if os.path.exists(tmp):
+            os.remove(tmp)
 
 
 def iso(dt):
@@ -1346,7 +1369,24 @@ def main():
             os.remove(old_poster)
     state = load_json(STATE_FILE, {})
     queue = load_json(QUEUE_FILE, {"items": []})
-    queue.setdefault("items", [])
+    if not isinstance(queue.get("items"), list):
+        print("[queue] invalid items collection; resetting queue container")
+        queue = {"items": []}
+    valid_items = []
+    for row in queue["items"]:
+        if not isinstance(row, dict):
+            print("[queue] discarded malformed non-object record")
+            continue
+        if row.get("status") not in ("queued", "published", "failed", "needs_review"):
+            print("[queue] quarantined record with invalid status")
+            row["status"] = "needs_review"
+            row["review_reason"] = "Invalid or missing queue status"
+        if not row.get("headline") or not row.get("caption") or not row.get("not_before"):
+            row["status"] = "needs_review"
+            row["review_reason"] = "Incomplete queue record; manual review required"
+            row.setdefault("needs_review_at", iso(t0))
+        valid_items.append(row)
+    queue["items"] = valid_items
     # Retire legacy video-promo and engagement items from persistent bot-data.
     before = len(queue["items"])
     queue["items"] = [it for it in queue["items"] if it.get("type") not in ("youtube", "engage")]
