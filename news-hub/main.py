@@ -27,7 +27,7 @@ import news_memory as nm
 import controversy as controversy_desk
 import editorial_quality as eq
 import editorial_policy as ep
-from sources import SOURCES
+from sources import SOURCES, TRUSTED_PUBLISHERS
 
 try:
     from sources import BLOCKED_NAMES, BLOCKED_EXACT, BLOCKED_HOST_ENDINGS
@@ -224,6 +224,41 @@ def choose_poster_language(story, slot):
         if digest % divisor == 0:
             return "en"
     return "ur"
+
+
+def is_trusted_publisher_story(story):
+    """True only when the declared original publisher is one of the approved first-lane outlets."""
+    original = story.get("original_source") or {}
+    candidates = [original.get("name", ""), original.get("url", "")]
+    cluster = story.get("cluster") or {}
+    lead = cluster.get("lead") or {}
+    candidates.extend([lead.get("source", ""), lead.get("link", "")])
+    members = cluster.get("members") or []
+    for member in members:
+        if isinstance(member, dict):
+            candidates.extend([member.get("source", ""), member.get("link", "")])
+    aliases = {
+        "geo news": "geo.tv", "geo": "geo.tv",
+        "ary news": "arynews.tv", "ary": "arynews.tv",
+        "samaa": "samaa.tv", "samaa tv": "samaa.tv",
+        "express news": "expressnews.tv", "express": "express.pk",
+        "dawn": "dawn.com", "dawn pakistan": "dawn.com",
+        "jang": "jang.com.pk", "jang urdu": "jang.com.pk",
+        "the news": "thenews.com.pk", "the news international": "thenews.com.pk",
+        "express tribune": "tribune.com.pk",
+        "dunya news": "dunyanews.tv", "dunya news tv": "dunyanews.tv",
+    }
+    for value in candidates:
+        text = str(value or "").strip().lower()
+        if not text:
+            continue
+        if text in aliases:
+            return True
+        host = urlparse(text if "://" in text else "https://" + text).hostname or ""
+        host = host.removeprefix("www.")
+        if any(host == domain or host.endswith("." + domain) for domain in TRUSTED_PUBLISHERS):
+            return True
+    return False
 
 
 # ---------- 1. collect ----------
@@ -967,9 +1002,21 @@ def _history_row_matches_source(row, article_text):
 
 
 def fact_check(stories, written):
-    """Returns (verified, failed). 'failed' = no verdict because the check itself failed (story can be retried)."""
+    """Trusted publishers use the fast lane; other publishers receive the additional AI source check."""
     if not written:
         return written, []
+    fast_lane, check_written = {}, {}
+    for n, w in written.items():
+        story = stories[n - 1]
+        if is_trusted_publisher_story(story):
+            fast_lane[n] = w
+            source_name = (story.get("original_source") or {}).get("name") or "trusted publisher"
+            print(f"[fact-check] fast lane: {source_name} — original published report; skipping second-source AI check")
+        else:
+            check_written[n] = w
+    if not check_written:
+        return fast_lane, []
+    written = check_written
     blocks = {}
     for n, w in written.items():
         s_ = stories[n - 1]
@@ -1045,7 +1092,7 @@ def fact_check(stories, written):
         except Exception as ex:
             print(f"[warn] fact-check batch failed: {ex}")
             USAGE["errors"].append(str(ex)[:140])
-    ok, failed = {}, []
+    ok, failed = dict(fast_lane), []
     for n, w in written.items():
         ck = verdicts.get(n)
         if ck is None:
