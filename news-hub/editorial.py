@@ -222,9 +222,12 @@ def select_balanced(stories, n, min_conf, min_comp, break_urg, break_conf, max_b
     """Round-robin across the three rankings; one story is never taken twice."""
     def sure_enough(s):  # sensitive topics need stronger sourcing
         if s["category"] in SENSITIVE:
-            return s["confidence"] >= 70 and (s["cluster"]["n_sources"] >= 2
-                                              or s["cluster"].get("has_wire")
-                                              or s.get("original_source", {}).get("type") in SURE_TYPES)
+            cluster = s.get("cluster") or {}
+            source = s.get("original_source") or {}
+            return s["confidence"] >= 70 and (cluster.get("n_sources", 0) >= 2
+                                              or cluster.get("has_wire")
+                                              or cluster.get("has_official")
+                                              or source.get("type") in SURE_TYPES)
         return True
 
     ok = [s for s in stories if s["confidence"] >= min_conf and s["composite"] >= min_comp
