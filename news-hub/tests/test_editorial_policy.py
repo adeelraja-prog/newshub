@@ -24,7 +24,7 @@ class NationalHeadlineGateTests(unittest.TestCase):
         self.assertEqual(policy.priority_band(self.base(original_source={"type":"unknown","url":""})), "P4")
 
     def test_trusted_publisher_can_use_fast_lane_with_single_original_source(self):
-        self.assertEqual(policy.priority_band(self.base(original_source={"type":"unknown","url":""}),
+        self.assertEqual(policy.priority_band(self.base(urgency=50, original_source={"type":"unknown","url":""}),
                                               trusted_publisher=True), "P3")
 
     def test_soft_pr_research_hold_is_p4(self):
