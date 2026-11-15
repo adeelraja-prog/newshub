@@ -9,6 +9,14 @@ def gnews(query, label):
     return {"name": label, "kind": "gnews", "url": url}
 
 
+# Established Pakistani publishers: these are the first editorial intake lane.
+# Stories originally published by these outlets bypass the additional AI second-source
+# fact-check stage; the original article, date, URL and attribution are still recorded.
+TRUSTED_PUBLISHERS = {
+    "geo.tv", "arynews.tv", "samaa.tv", "expressnews.tv", "express.pk",
+    "dawn.com", "jang.com.pk", "thenews.com.pk", "tribune.com.pk", "dunyanews.tv",
+}
+
 SOURCES = [
     # kind="local": full article text is fetched for the rewrite
     {"name": "Dawn Pakistan", "kind": "local", "url": "https://www.dawn.com/feeds/pakistan/"},
@@ -27,6 +35,13 @@ SOURCES = [
     {"name": "Al Jazeera", "kind": "world", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
 
     # Google News searches (headline + snippet only)
+    # Trusted publisher discovery feeds — first-lane sources, no AI second-source check.
+    gnews("site:samaa.tv Pakistan when:1h", "Samaa"),
+    gnews("site:expressnews.tv Pakistan when:1h", "Express News"),
+    gnews("site:jang.com.pk Pakistan when:1h", "Jang"),
+    gnews("site:thenews.com.pk Pakistan when:1h", "The News International"),
+    gnews("site:dunyanews.tv Pakistan when:1h", "Dunya News"),
+    gnews("site:dunyanews.tv Pakistan latest news when:1h", "Dunya News TV"),
     gnews("Pakistan breaking news when:1h", "Pakistan Breaking Desk"),
     # Publisher-specific Google News discovery is a fallback when a publisher blocks
     # GitHub Actions cloud IPs or its RSS endpoint is unavailable. These are leads,
