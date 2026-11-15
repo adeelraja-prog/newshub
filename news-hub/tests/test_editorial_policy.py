@@ -10,6 +10,26 @@ class NationalHeadlineGateTests(unittest.TestCase):
         story.update(updates)
         return story
 
+    def test_priority_band_breaking_is_p1(self):
+        self.assertEqual(policy.priority_band(self.base(urgency=90, confidence=80)), "P1")
+
+    def test_priority_band_high_impact_is_p2(self):
+        self.assertEqual(policy.priority_band(self.base(urgency=60, importance=75)), "P2")
+
+    def test_priority_band_ordinary_eligible_story_is_p3(self):
+        self.assertEqual(policy.priority_band(self.base(urgency=50, importance=60, public_interest=60,
+                                                        national_impact=50)), "P3")
+
+    def test_priority_band_unclear_source_is_p4(self):
+        self.assertEqual(policy.priority_band(self.base(original_source={"type":"unknown","url":""})), "P4")
+
+    def test_trusted_publisher_can_use_fast_lane_with_single_original_source(self):
+        self.assertEqual(policy.priority_band(self.base(original_source={"type":"unknown","url":""}),
+                                              trusted_publisher=True), "P3")
+
+    def test_soft_pr_research_hold_is_p4(self):
+        self.assertEqual(policy.priority_band(self.base(quality_review={"decision":"research_required"})), "P4")
+
     def test_major_national_headline_passes(self):
         self.assertTrue(policy.eligible(self.base())[0])
 
