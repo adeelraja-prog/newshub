@@ -6,7 +6,8 @@ class NationalHeadlineGateTests(unittest.TestCase):
         story={"scope":"national","importance_class":"major","confidence":90,
                "importance":90,"public_interest":90,"national_impact":90,
                "regional_impact":90,"global_impact":90,"pakistan_relevance":90,"urgency":80,"urgency":90,
-               "why_pk":"Direct public impact"}
+               "why_pk":"Direct public impact",
+               "original_source":{"type":"exclusive_report","url":"https://publisher.example/story"}}
         story.update(updates)
         return story
 
@@ -24,7 +25,8 @@ class NationalHeadlineGateTests(unittest.TestCase):
         self.assertEqual(policy.priority_band(self.base(original_source={"type":"unknown","url":""})), "P4")
 
     def test_trusted_publisher_can_use_fast_lane_with_single_original_source(self):
-        self.assertEqual(policy.priority_band(self.base(urgency=50, original_source={"type":"unknown","url":""}),
+        self.assertEqual(policy.priority_band(self.base(urgency=50, importance=60, public_interest=60, national_impact=50,
+                                                        original_source={"type":"unknown","url":""}),
                                               trusted_publisher=True), "P3")
 
     def test_soft_pr_research_hold_is_p4(self):
