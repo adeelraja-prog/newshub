@@ -40,6 +40,8 @@ def eligible(story):
 
 def priority_band(story, trusted_publisher=False):
     """P1-P4 editorial desk classification. P5 is assigned to duplicate/stale intake rejects."""
+    if story.get("stale"):
+        return "P5"
     review = story.get("quality_review") or {}
     source = story.get("original_source") or {}
     source_unclear = (not trusted_publisher and
