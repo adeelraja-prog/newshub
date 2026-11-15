@@ -258,7 +258,14 @@ def validate_value_addition(value):
         key="evidence_points" if kind=="factcheck" else "points"
         rows=value.get(key) or value.get("points") or []
         if len(rows)<2: return False, "explainer needs at least two substantive evidence points"
-        if any(not isinstance(x,dict) or not x.get("text") or not x.get("source") or not x.get("url") for x in rows):
-            return False, "visual point missing source provenance"
-        return True, "evidence provenance fields present"
+        if kind=="explainer" and len(rows)>3:
+            return False, "explainer is limited to three focused points"
+        for row in rows:
+            if not isinstance(row,dict) or not row.get("text") or not row.get("source") or not row.get("url"):
+                return False, "visual point missing source provenance"
+            if kind=="explainer" and len(str(row.get("text") or "").split()) < 18:
+                return False, "each explainer point must contain at least 18 meaningful English words"
+        if kind=="explainer" and sum(len(str(row.get("text") or "").split()) for row in rows) < 45:
+            return False, "explainer needs at least 45 substantive English words across its points"
+        return True, "substantive evidence and source provenance present"
     return False, "unknown visual format"
