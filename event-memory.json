@@ -38752,7 +38752,536 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f48df820ff2c54b940b0f4d9",
+      "remembered_at": "2026-11-16T17:14:47.823073+00:00",
+      "event_date": "2026-11-16T10:49:08+00:00",
+      "last_update": "2026-11-16T16:59:27+00:00",
+      "event": "China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "beijing",
+        "china",
+        "chinese",
+        "city",
+        "discuss",
+        "donald",
+        "due",
+        "first",
+        "hold",
+        "jinping",
+        "leaders",
+        "meet",
+        "monday",
+        "peace",
+        "presidents",
+        "putin",
+        "russia",
+        "said",
+        "says",
+        "shenzhen",
+        "sidelines",
+        "southern",
+        "states",
+        "summit",
+        "the",
+        "their",
+        "they",
+        "this",
+        "thursday",
+        "trilateral",
+        "trump",
+        "united",
+        "vladimir",
+        "week",
+        "when",
+        "will",
+        "world"
+      ],
+      "source_excerpt": "The leaders of China, Russia and the United States will discuss “world peace” when they hold their first trilateral summit in Shenzhen this week, Beijing said on Monday. Presidents Xi Jinping, Donald Trump and Vladimir Putin are due to meet in the southern Chinese city on Thursday on the sidelines o",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2044928/china-says-xi-trump-putin-to-discuss-world-peace-in-trilateral-summit",
+          "published_at": "2026-11-16T10:49:08+00:00"
+        },
+        {
+          "name": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY21wUHdVOGJSb09zY0NuRG0yRnNIdm1femhxTUtPZXFBOXBGb3k0RkVvYlEtTjB5NmU3R2xCbXFlSUdVcDV0Z3hSUXhKeWZZNHNBTm5GTVpLU1YtR1N2OGVzU2xqc1dLMTZpR2MtZFJkS2JJYlVnVHJ1eFUyempJekdkYmJPc0R4enNvQkk2THpPbXFIeERxNTRLQzBTNHpuRGk2eEZGa1cxRHhPcjNOY2hqZWPSAbQBQVVfeXFMUDR0ZWtGVjgzNldFVm5xMldVbWp4M1RaVklGY0loNktmVXRZZFN1eE9sc1RsdDVkZmU5a3pFeEZVUThGVEJERURHeklHbGhiVGFfX214UUFadkNmMXNPc3BROG12N0thWV8xVnZiaEZmQk5Qa2FYZG1yRUtPdk56RldDYnpjNkhlUjZtVTZRcUR6X0p6aFhhR0o3dWtGdHJfNmNIc2piSTlVZVAxak5fdW9XMXVT?oc=5",
+          "published_at": "2026-11-16T16:08:09+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XU2FHeHlySjZKQ3c3cm5BSmlja0Z2cGVXWDV3UDJWQ0xhODFfcUFYN1ZMMllpTnNlVEtzUlRRSnkzckNhY3VCLW1Da3VTaXBtdEZJV1dPbV9MWXdFaE9ENExlVUpFNi05cnp6bmZfNUh4T3VCZDR3?oc=5",
+          "published_at": "2026-11-16T16:59:27+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/china-says-xi-trump-putin-to-discuss-world-peace",
+          "published_at": "2026-11-16T16:59:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2044928/china-says-xi-trump-putin-to-discuss-world-peace-in-trilateral-summit",
+        "publisher_url": "https://www.dawn.com/news/2044928/china-says-xi-trump-putin-to-discuss-world-peace-in-trilateral-summit",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a69aaf435a28bf6a4b1a8ccd",
+      "remembered_at": "2026-11-16T17:14:47.823073+00:00",
+      "event_date": "2026-11-16T09:31:36+00:00",
+      "last_update": "2026-11-16T16:36:00+00:00",
+      "event": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aircraft",
+        "amid",
+        "arrives",
+        "carrier",
+        "east",
+        "god",
+        "iran",
+        "may",
+        "message",
+        "middle",
+        "our",
+        "protect",
+        "roosevelt",
+        "saying",
+        "shares",
+        "tensions",
+        "the",
+        "theodore",
+        "third",
+        "troops",
+        "trump",
+        "uss",
+        "with"
+      ],
+      "source_excerpt": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+          "published_at": "2026-11-16T09:31:36+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1NBQUNHT2stZk9oNUZPV3VvNTBBTHUtOEhhRDRWcHJJYWp0SkNWZ3NBMW9aQTZELU15OUE0TWtNRjA4bVpTTS11T1JpNHBjMGRYZElTbk5saDJ4eEZ4YjRocHoxdmt3ZkdRMlR3UHZneXVydFkzX1FCS2pYVVlZVTdhNjJfc3N5N2lOMnJVYzdoMmhOc1JFNklXTm5YdGpaX1QyQXBjRjVyTW9MeXpIdEIzVWhoM1lBLTVhRHE1Y0xsUdIBxwFBVV95cUxObXNOeDZuMzFFLTM4cjF5aEg0Q29GajRaT2tma1RWTVFTMEZ1RllMbnk4eG55YnRWbTdHNkNwV1hZYW1rMmM3VWp4TWVleGlQdEZPazBkdUo4WjN4UFdLeFhiNXk3Y1JtcWp3M2F1U2JBVWt1b1RtM0ZhOVVoaTlCdkttQ0ZPR0xRZjNMY1l3alhQRkw3ZWhuejdCcC1ra1RseXFJY1VmZUxObGoxNEFORWpQdnVmMkhuTHEwakpYdTlqc2w0Q2xv?oc=5",
+          "published_at": "2026-11-16T09:37:29+00:00"
+        },
+        {
+          "name": "Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkplZ0Q2N2I4VUpFRkh3cTRsMDNhTkg4Z0RiQ1hkdEkxRlpHbjlBNDJfbnNWNEhxUzFHVURmWjVib2FKWWIwX25hZXAtendMUUgwUUdZb1I3WmlDWVF5UnpxNnFNMllPN2RITWZ4ckNVRTB5OHdqODhKNlJGeW92QXpWbkZiTmZHaFkwanllUjd5bnkwbEI5a3V5X0IzMDlxbno5VXJmSDlFallzU0w4b19jSFpGdFZDMWVn?oc=5",
+          "published_at": "2026-11-16T13:27:34+00:00"
+        },
+        {
+          "name": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1FKeGllU2NnMkhHSDFuRC1zVFRnREZnTGo1NnhzQlpFMDJPS3ZfeE01WWhSUzdIOW1oamYzRDlULVpTU0ZzTUNQQlBCaXlkU2F1UkkzeVI5Q0hMWTZ2MHhxTjZfZjdvSzAwUWFENHRPbFZqMkFDSzlxbmRIUDY3ZnQ0WHNXMWhYUVRQSGtUa2tuQ1FzTmJ1d2dXN19rU25KWGhwMnBXTQ?oc=5",
+          "published_at": "2026-11-16T16:36:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d4f5865af87a8d31acfe5f58",
+      "remembered_at": "2026-11-16T17:14:47.823073+00:00",
+      "event_date": "2026-11-16T16:39:36+00:00",
+      "last_update": "2026-11-16T17:14:41+00:00",
+      "event": "Trump backs possible return of Jensen Huang as Nvidia CEO",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "backs",
+        "ceo",
+        "huang",
+        "jensen",
+        "nvidia",
+        "possible",
+        "return",
+        "samaa",
+        "trump"
+      ],
+      "source_excerpt": "Trump backs possible return of Jensen Huang as Nvidia CEO samaa tv",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+          "published_at": "2026-11-16T16:39:36+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHNNbzVCSTRvTEx5RmlENXlmaUlRaUxwNnBVWnI0U3owemlEdkZTakJoZVd5TERWRzFDY2xyTmxpYTdGUEZQd0M3NHpqN2lMYldnSjVfUU12SS1XNVZ1ZU54dE1xdy0xWUNZUnNRQ0RVU3hxV3RnXzRlN1hmeldRU01RdDFZLVZtSDlqaUcxWHFwdkFaVE1zbA?oc=5",
+          "published_at": "2026-11-16T16:42:05+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/trump-backs-potential-return-of-jensen-huang-as-nvidia-ceo",
+          "published_at": "2026-11-16T17:14:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHNNbzVCSTRvTEx5RmlENXlmaUlRaUxwNnBVWnI0U3owemlEdkZTakJoZVd5TERWRzFDY2xyTmxpYTdGUEZQd0M3NHpqN2lMYldnSjVfUU12SS1XNVZ1ZU54dE1xdy0xWUNZUnNRQ0RVU3hxV3RnXzRlN1hmeldRU01RdDFZLVZtSDlqaUcxWHFwdkFaVE1zbA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "376be6ba57d710f48d047dfb",
+      "remembered_at": "2026-11-16T17:14:47.823073+00:00",
+      "event_date": "2026-11-16T12:51:00+00:00",
+      "last_update": "2026-11-16T16:48:37+00:00",
+      "event": "LeBron James climbs to third on NBA assists list as 76ers beat Pacers 131-124",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "124",
+        "131",
+        "76ers",
+        "aaron",
+        "and",
+        "another",
+        "assists",
+        "attempt",
+        "ball",
+        "beat",
+        "climbs",
+        "contested",
+        "day",
+        "defenders",
+        "drew",
+        "for",
+        "james",
+        "kicked",
+        "king",
+        "layup",
+        "lebron",
+        "list",
+        "milestone",
+        "nba",
+        "nesmith",
+        "november",
+        "pacers",
+        "pascal",
+        "siakam",
+        "sunday",
+        "the",
+        "then",
+        "third"
+      ],
+      "source_excerpt": "LeBron James climbs to third on NBA assists list as 76ers beat Pacers 131-124 Another day, another milestone for the King James! LeBron James drew defenders Pascal Siakam and Aaron Nesmith on a contested layup attempt on Sunday, November 15, then kicked the ball...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691307-lebron-james-climbs-to-third-on-nba-assists-list-as-76ers-beat-pacers-131-124",
+          "published_at": "2026-11-16T12:51:00+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1NfWThXZEUtcVJsQ2s4TGpGVGhLcjhQWVR3MkNnWHRDVUxPNjhuRzBrbHZMcy0xcXFldHNYZGUzR3JWQWdZaGhiTC1nZ2hyUDVBNm1UYnNjbTRhcmJ3dnZ0SzhkcmhlUW5WSE1RZ29HeUI4c1l5TWtWSDZfbUdlbEJ1ZHo3LThhdi1jY2k4dGZBUEZ4Y3c?oc=5",
+          "published_at": "2026-11-16T16:48:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691307-lebron-james-climbs-to-third-on-nba-assists-list-as-76ers-beat-pacers-131-124",
+        "publisher_url": "https://www.geo.tv/latest/691307-lebron-james-climbs-to-third-on-nba-assists-list-as-76ers-beat-pacers-131-124",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7c2f02770090b66bd640a800",
+      "remembered_at": "2026-11-16T17:14:47.823073+00:00",
+      "event_date": "2026-11-16T15:59:43+00:00",
+      "last_update": "2026-11-16T16:04:55+00:00",
+      "event": "Trump says may meet with N. Korean leader Kim in China",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "china",
+        "kim",
+        "korean",
+        "leader",
+        "may",
+        "meet",
+        "says",
+        "trump",
+        "with"
+      ],
+      "source_excerpt": "Trump says may meet with N. Korean leader Kim in China",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/trump-says-may-meet-with-n-korean-leader-kim-in-china",
+          "published_at": "2026-11-16T15:59:43+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2044961/trump-says-he-might-meet-with-north-koreas-kim-jong-un-in-china",
+          "published_at": "2026-11-16T16:04:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/trump-says-may-meet-with-n-korean-leader-kim-in-china",
+        "publisher_url": "https://arynews.tv/trump-says-may-meet-with-n-korean-leader-kim-in-china",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "98943f41f5dc38b2e5e0b456",
+      "remembered_at": "2026-11-16T17:14:47.823073+00:00",
+      "event_date": "2026-11-16T15:11:23+00:00",
+      "last_update": "2026-11-16T15:55:21+00:00",
+      "event": "ن لیگی رکن پنجاب اسمبلی نعیم اعجاز اور ان کے بھائی کے وارنٹ گرفتاری جاری",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اسمبلی",
+        "اعجاز",
+        "اور",
+        "بھائی",
+        "جاری",
+        "رکن",
+        "عدالت",
+        "فائلپاکستان",
+        "فوٹو",
+        "لیگ",
+        "لیگی",
+        "مسلم",
+        "ملزمان",
+        "نعیم",
+        "وارنٹ",
+        "پنجاب",
+        "کردیے",
+        "گئے۔",
+        "گرفتار",
+        "گرفتاری"
+      ],
+      "source_excerpt": "فوٹو: فائلپاکستان مسلم لیگ کے رکن پنجاب اسمبلی نعیم اعجاز اور ان کے بھائی کے وارنٹ گرفتاری جاری کردیے گئے۔ عدالت نے ملزمان کو گرفتار...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1633989",
+          "published_at": "2026-11-16T15:11:23+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5012736",
+          "published_at": "2026-11-16T15:55:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1633989",
+        "publisher_url": "https://jang.com.pk/news/1633989",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "de5d67563f1b1cf2ecae1f73",
+      "remembered_at": "2026-11-16T17:14:47.823073+00:00",
+      "event_date": "2026-11-16T16:46:05+00:00",
+      "last_update": "2026-11-16T16:46:05+00:00",
+      "event": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "backs",
+        "challenge",
+        "challenger",
+        "chief",
+        "diallo",
+        "election",
+        "emerges",
+        "federation",
+        "fifa",
+        "football",
+        "france",
+        "french",
+        "infantino",
+        "philippe",
+        "presidential",
+        "strong",
+        "uefa",
+        "upcoming"
+      ],
+      "source_excerpt": "French Football Federation chief Diallo emerges as a strong challenger in FIFA's upcoming presidential election.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
+          "published_at": "2026-11-16T16:46:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b0be50d201823b5855a88287",
+      "remembered_at": "2026-11-16T17:14:47.823073+00:00",
+      "event_date": "2026-11-16T17:03:45+00:00",
+      "last_update": "2026-11-16T17:03:45+00:00",
+      "event": "Iran braces for natural gas shortages during winter energy imbalance",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "braces",
+        "during",
+        "energy",
+        "for",
+        "gas",
+        "imbalance",
+        "iran",
+        "jazeera",
+        "natural",
+        "shortages",
+        "winter"
+      ],
+      "source_excerpt": "Iran braces for natural gas shortages during winter energy imbalance Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0dpX0xPOTVZeWlMZFZTX2VnWXpheHVpSWFyWDk1Z2ZzajItUnJFODBubHdxSE8tTzdEQzVuUURvbVR1MUt3VXJGUUdrYktndXdhd2VyNFZOSUtNWmFiYmcwekxReDc5SnJsckxaVHU3ZXFBc3QyTHI1MnNsbWJxTDBnUmhRdE54Y1VDY1ZJZXZMTVV2RjdDTDhTMm04SEY5SWd1N01kTzBXZTVlWFdF0gG0AUFVX3lxTFBuZERWUU1qM1dMcDJlUWQxZ3pBT014TjZpUlZma0ZLZk90NDRxUnUzT3RSaWQwbUcxNkdKVUVKa01kRHpoUnJIT1hOM3hfM0xQeFZSSXM3WUhrRUVlWnlRM2EzVHNuS0tXd3J4SU9KdXFFSmNkbWxVSWs4VzFuXzNLYlZwb3E0Y0wycEdabDlRdVNBT1dpUWZfWE1VWmk5RXI1R2lfdFRCanZqX0FxNGI5YVl0UQ?oc=5",
+          "published_at": "2026-11-16T17:03:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0dpX0xPOTVZeWlMZFZTX2VnWXpheHVpSWFyWDk1Z2ZzajItUnJFODBubHdxSE8tTzdEQzVuUURvbVR1MUt3VXJGUUdrYktndXdhd2VyNFZOSUtNWmFiYmcwekxReDc5SnJsckxaVHU3ZXFBc3QyTHI1MnNsbWJxTDBnUmhRdE54Y1VDY1ZJZXZMTVV2RjdDTDhTMm04SEY5SWd1N01kTzBXZTVlWFdF0gG0AUFVX3lxTFBuZERWUU1qM1dMcDJlUWQxZ3pBT014TjZpUlZma0ZLZk90NDRxUnUzT3RSaWQwbUcxNkdKVUVKa01kRHpoUnJIT1hOM3hfM0xQeFZSSXM3WUhrRUVlWnlRM2EzVHNuS0tXd3J4SU9KdXFFSmNkbWxVSWs4VzFuXzNLYlZwb3E0Y0wycEdabDlRdVNBT1dpUWZfWE1VWmk5RXI1R2lfdFRCanZqX0FxNGI5YVl0UQ?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "161b95b4c47d0c67b5226610",
+      "remembered_at": "2026-11-16T17:14:47.823073+00:00",
+      "event_date": "2026-11-16T16:30:49+00:00",
+      "last_update": "2026-11-16T16:30:49+00:00",
+      "event": "Saudi HR Ministry warns: Break the new rules, face the penalties",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "break",
+        "face",
+        "ministry",
+        "new",
+        "penalties",
+        "rules",
+        "saudi",
+        "the",
+        "warns"
+      ],
+      "source_excerpt": "Saudi HR Ministry warns: Break the new rules, face the penalties ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTFGNG9TUGVhWkw4WWsyX0FaZldiWkZTeUpHajJfVjhjc0JIUFlvcEdvOHdSZWR2b1VNc2FJMlJ5eWM2dVpkWmo2ODdqd2ZmZnhhSXJNY0xnSmFpVjVHUXFMT0R6ODhncUV2RlpBemlyZUxkRmxJR3FUcEhOeGpQandYYlVrU0lH?oc=5",
+          "published_at": "2026-11-16T16:30:49+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/saudi-hr-ministry-warns-break-the-new-rules-face-the-penalties",
+          "published_at": "2026-11-16T16:30:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTFGNG9TUGVhWkw4WWsyX0FaZldiWkZTeUpHajJfVjhjc0JIUFlvcEdvOHdSZWR2b1VNc2FJMlJ5eWM2dVpkWmo2ODdqd2ZmZnhhSXJNY0xnSmFpVjVHUXFMT0R6ODhncUV2RlpBemlyZUxkRmxJR3FUcEhOeGpQandYYlVrU0lH?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-16T16:00:19.581837+00:00"
+  "updated_at": "2026-11-16T17:14:47.823073+00:00"
 }

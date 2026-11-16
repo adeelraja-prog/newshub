@@ -1,126 +1,127 @@
-# News Hub report - Mon 16 Nov, 09:00 PM PKT
+# News Hub report - Mon 16 Nov, 10:14 PM PKT
 
 ## Collection
-- New items this run: 255 | items in rolling pool: 939
-- Unique story clusters: 781 (duplicates merged: 158)
-- Clusters dropped as already published/queued: 14; unchanged since last analysis: 10
-- Items per outlet: UrduPoint 101, Geo News 22, TechJuice 11, ARY News 10, ProPakistani 10, Al Jazeera 9, BBC 7, Dawn 6, X 6, Engadget 6, Jang Urdu 5, The Verge 5
+- New items this run: 141 | items in rolling pool: 928
+- Unique story clusters: 763 (duplicates merged: 165)
+- Clusters dropped as already published/queued: 11; unchanged since last analysis: 9
+- Items per outlet: UrduPoint 58, Geo News 10, ARY News 8, X 6, TechCrunch 5, samaa tv 4, The Verge 4, Engadget 4, Wired 4, TechJuice 4, Profit by Pakistan Today 4, ARYnews.tv 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- China says Xi-Putin-Trump meeting has 'groundbreaking significance' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lukaku retires from international football | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Klopp says Infantino worse than Blatter | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP projects 3.5-4.5% GDP growth for FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Third US aircraft carrier arrives in Middle East amid tensions with Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Robert Pattinson: How the Twilight star became 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- China says Xi-Putin-Trump meeting has 'groundbreaking significance' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lukaku retires from international football | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Klopp says Infantino worse than Blatter | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP projects 3.5-4.5% GDP growth for FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Third US aircraft carrier arrives in Middle East amid tensions with Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Robert Pattinson: How the Twilight star became 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- China says Xi-Putin-Trump meeting has 'groundbreaking significance' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lukaku retires from international football | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Klopp says Infantino worse than Blatter | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP projects 3.5-4.5% GDP growth for FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Third US aircraft carrier arrives in Middle East amid tensions with Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Robert Pattinson: How the Twilight star became 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 102/107 | empty: 4 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### China says Xi-Putin-Trump meeting has 'groundbreaking significance'  [NORMAL]
-- Poster:  / China says Xi-Putin-Trump meeting has 'groundbreaking significance' | category other
-- Alternative headline: China says Xi-Putin-Trump meeting has 'groundbreaking significance'
+### SBP projects 3.5-4.5% GDP growth for FY27  [NORMAL]
+- Poster:  / SBP projects 3.5-4.5% GDP growth for FY27 | category other
+- Alternative headline: SBP projects 3.5-4.5% GDP growth for FY27
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691272-china-says-xi-putin-trump-meeting-has-groundbreaking-significance | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691272-china-says-xi-putin-trump-meeting-has-groundbreaking-significance
-- Supporting coverage: Geo News, Geo News, U.S. News & World Report, Reuters
-- Keywords: China says Xi-Putin-Trump meeting has | hashtags: 
-- Scheduled: Mon 16 Nov, 09:00 PM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHFtWUw2VUtPV1MxWk9JaEtNcUR4RFNDUFBMaWRFLVBfeHlvZGhKNHFpTXdrUjJmNEdiSUJuZFM1aFp1d0l1NFdTTEFrclJka3FyLW5QcmlhV0k4U1NxWng3WW1HUUlqdmVnVktBQ3lTc2w4aHhBOVhzY2RsY3U5UA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHFtWUw2VUtPV1MxWk9JaEtNcUR4RFNDUFBMaWRFLVBfeHlvZGhKNHFpTXdrUjJmNEdiSUJuZFM1aFp1d0l1NFdTTEFrclJka3FyLW5QcmlhV0k4U1NxWng3WW1HUUlqdmVnVktBQ3lTc2w4aHhBOVhzY2RsY3U5UA?oc=5
+- Supporting coverage: Investify, Investify, Investify, The Express Tribune, TechJuice, Profit by Pakistan Today
+- Keywords: SBP projects 3.5-4.5% GDP growth | hashtags: 
+- Scheduled: Mon 16 Nov, 10:14 PM PKT
 - Caption:
 ```
-China says Xi-Putin-Trump meeting has 'groundbreaking significance'
+SBP projects 3.5-4.5% GDP growth for FY27
 
-Visitors stand in front of an artwork depicting US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping at an exhibition, which is called "Yalta 2.0" and opened to make a reference to the 1945 Yalta Conference, at an art gallery in Livadia park in Yalta,...
+SBP projects 3.5-4.5% GDP growth for FY27 The Express Tribune
 
-Source: Geo News
+Source: The Express Tribune
 ```
 
-### Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond  [NORMAL]
-- Poster:  / Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | category other
-- Alternative headline: Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond
+### China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit  [NORMAL]
+- Poster:  / China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit | category other
+- Alternative headline: China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691340-judi-dench-snubs-robert-pattinson-nicholas-hoult-as-next-james-bond | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691340-judi-dench-snubs-robert-pattinson-nicholas-hoult-as-next-james-bond
-- Supporting coverage: Geo News, The Verge, Dawn Latest
-- Keywords: Judi Dench snubs Robert Pattinson, | hashtags: 
-- Scheduled: Mon 16 Nov, 09:10 PM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2044928/china-says-xi-trump-putin-to-discuss-world-peace-in-trilateral-summit | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2044928/china-says-xi-trump-putin-to-discuss-world-peace-in-trilateral-summit
+- Supporting coverage: Dawn Latest, South China Morning Post, ARYnews.tv, ARY News
+- Keywords: China says Xi, Trump, Putin | hashtags: 
+- Scheduled: Mon 16 Nov, 10:24 PM PKT
 - Caption:
 ```
-Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond
+China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit
 
-Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond Dame Judi Dench has her own thoughts about who should play the next 007. The veteran actress — who has starred in eight James Bond films — told British Vogue over the weekend that an unknown actor would be her...
+The leaders of China, Russia and the United States will discuss “world peace” when they hold their first trilateral summit in Shenzhen this week, Beijing said on Monday. Presidents Xi Jinping, Donald Trump and Vladimir Putin are due to meet in the southern Chinese city on Thursday on the sidelines o
 
-Source: Geo News
+Source: Dawn Latest
 ```
 
-### Lukaku retires from international football  [NORMAL]
-- Poster:  / Lukaku retires from international football | category other
-- Alternative headline: Lukaku retires from international football
+### Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result  [NORMAL]
+- Poster:  / Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result | category other
+- Alternative headline: Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/lukaku-retires-from-international-football | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/lukaku-retires-from-international-football
-- Supporting coverage: ARY News, Al Jazeera
-- Keywords: Lukaku retires from international football | hashtags: 
-- Scheduled: Mon 16 Nov, 09:20 PM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2044953/shaun-tait-kusal-mendis-want-extra-push-for-pakistan-sri-lanka-series-result | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2044953/shaun-tait-kusal-mendis-want-extra-push-for-pakistan-sri-lanka-series-result
+- Supporting coverage: Dawn Latest, Dawn, Geo News, Geo News
+- Keywords: Shaun Tait, Kusal Mendis want | hashtags: 
+- Scheduled: Mon 16 Nov, 10:34 PM PKT
 - Caption:
 ```
-Lukaku retires from international football
+Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result
 
-Lukaku retires from international football
+Sri Lankan skipper Kusal Mendis and Pakistan bowling coach Shaun Tait urged their teams to push hard for a result in the second and final Test starting on Tuesday in Rawalpindi. A combination of bad weather and less penetrative bowling on a seemingly grassy pitch left the first Test without a result
 
-Source: ARY News
+Source: Dawn Latest
 ```
 
-### Klopp says Infantino worse than Blatter  [NORMAL]
-- Poster:  / Klopp says Infantino worse than Blatter | category other
-- Alternative headline: Klopp says Infantino worse than Blatter
+### Third US aircraft carrier arrives in Middle East amid tensions with Iran  [NORMAL]
+- Poster:  / Third US aircraft carrier arrives in Middle East amid tensions with Iran | category other
+- Alternative headline: Third US aircraft carrier arrives in Middle East amid tensions with Iran
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, Al Jazeera
-- Keywords: Klopp says Infantino worse than | hashtags: 
-- Scheduled: Mon 16 Nov, 09:30 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera, Al-Monitor, The Telegraph
+- Keywords: Third US aircraft carrier arrives | hashtags: 
+- Scheduled: Mon 16 Nov, 10:44 PM PKT
 - Caption:
 ```
-Klopp says Infantino worse than Blatter
+Third US aircraft carrier arrives in Middle East amid tensions with Iran
 
-Germany manager Jurgen Klopp says he "didn't think things could get worse after Sepp Blatter, but someone has managed to do just that" as he calls for Fifa president Gianni Infantino to be replaced.
+Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.
 
-Source: BBC World
+Source: Al Jazeera
 ```
 
-- Indian outlets blocked this run: 5 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -194,9 +195,9 @@ Source: BBC World
 - [needs_review] normal | I had to explain to my teacher what a young carer was - we need more s | Mon 16 Nov, 12:49 PM PKT
 - [needs_review] normal | Iran war live: Third US carrier arrives, Iran warns it could strike fi | Mon 16 Nov, 02:58 PM PKT
 - [published] normal | Geo Pakistan | 16 November 2026 | Mon 16 Nov, 03:08 PM PKT
-- [queued] normal | Pakistan Shaheens leave for Rising Stars Asia Cup | Mon 16 Nov, 03:18 PM PKT
-- [queued] normal | Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid acc | Mon 16 Nov, 03:28 PM PKT
-- [queued] normal | 13-year-old girl's murder case: Islamabad court grants police 4-day ph | Mon 16 Nov, 04:24 PM PKT
+- [needs_review] normal | Pakistan Shaheens leave for Rising Stars Asia Cup | Mon 16 Nov, 03:18 PM PKT
+- [needs_review] normal | Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid acc | Mon 16 Nov, 03:28 PM PKT
+- [published] normal | 13-year-old girl's murder case: Islamabad court grants police 4-day ph | Mon 16 Nov, 04:24 PM PKT
 - [queued] normal | Action against terrorism must for economic cooperation with Afghanista | Mon 16 Nov, 04:34 PM PKT
 - [queued] normal | In open letter to FCC, SC and IHC chief justices, Imran pleads for med | Mon 16 Nov, 04:44 PM PKT
 - [queued] normal | Prince and Princess of Wales play street cricket in Mumbai | Mon 16 Nov, 04:54 PM PKT
@@ -208,9 +209,13 @@ Source: BBC World
 - [queued] normal | Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | Mon 16 Nov, 09:10 PM PKT
 - [queued] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
 - [queued] normal | Klopp says Infantino worse than Blatter | Mon 16 Nov, 09:30 PM PKT
+- [queued] normal | SBP projects 3.5-4.5% GDP growth for FY27 | Mon 16 Nov, 10:14 PM PKT
+- [queued] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
+- [queued] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
+- [queued] normal | Third US aircraft carrier arrives in Middle East amid tensions with Ir | Mon 16 Nov, 10:44 PM PKT
 
 ## Publishing this run
-- Published 'Geo Pakistan | 16 November 2026'.
+- Published '13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
