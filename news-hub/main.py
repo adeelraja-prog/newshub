@@ -1579,8 +1579,12 @@ def publish_one(queue, state, item, t0):
     try:
         persist_publish_claim()
     except Exception as checkpoint_error:
-        # Do not make an external Facebook call unless the no-duplicate claim is durable.
+        # No Facebook call occurred. Restore queued status; if the remote claim landed
+        # despite a transport error, the final workflow save reconciles it safely.
+        item["status"] = "queued"
+        item.pop("publishing_started", None)
         item["facebook_error"] = f"Pre-publish checkpoint failed: {checkpoint_error}"[:500]
+        save_json(QUEUE_FILE, queue)
         print(f"[facebook] blocked: durable queue checkpoint failed; no post attempted: {checkpoint_error}")
         return False
 
