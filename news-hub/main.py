@@ -868,7 +868,15 @@ def analyse(clusters):
     direct_stories = [make_direct_publisher_story(c) for c in direct_clusters]
     if direct_stories:
         print(f"[publisher-fast-lane] {len(direct_stories)} stories bypass AI assessment, scoring and second-source checks")
-    return direct_stories + analyse_ai(regular_clusters) if regular_clusters else direct_stories
+    # The regular AI lane is optional: its outage must never discard trusted-publisher stories.
+    ordinary_stories = []
+    if regular_clusters:
+        try:
+            ordinary_stories = analyse_ai(regular_clusters)
+        except Exception as ex:
+            print(f"[editorial] AI assessment unavailable for non-fast-lane items; trusted publisher lane continues: {ex}")
+            USAGE["errors"].append(str(ex)[:140])
+    return direct_stories + ordinary_stories
 
 
 def analyse_ai(clusters):
