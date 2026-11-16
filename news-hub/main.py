@@ -757,39 +757,45 @@ Return JSON: {{"stories":[...]}}.
 """ + "\n\n".join(blocks)
 
 
+FAST_LANE_NAMES = {
+    "geo", "geo news", "geo news fast lane", "ary", "ary news", "ary news fast lane",
+    "samaa", "samaa tv", "samaa fast lane", "express news", "express news fast lane",
+    "express", "dawn", "dawn pakistan", "dawn latest", "dawn fast lane",
+    "jang", "jang urdu", "jang fast lane", "the news", "the news international",
+    "the news fast lane", "express tribune", "express tribune fast lane",
+    "dunya news", "dunya news tv", "dunya news fast lane", "dunya news tv fast lane",
+    "bbc", "bbc news", "bbc world", "bbc india", "bbc india politics",
+    "bbc india entertainment", "bbc india sports and culture",
+    "cnn", "cnn news", "cnn international", "cnn india politics",
+    "cnn india entertainment", "cnn india sports and culture",
+    "al jazeera", "al jazeera english", "al jazeera india politics",
+    "al jazeera india entertainment", "al jazeera india sports and culture",
+}
+
+
+def is_fast_lane_member(member):
+    name = str(member.get("source") or "").strip().lower()
+    url = str(member.get("link") or "")
+    host = (urlparse(url).hostname or "").removeprefix("www.")
+    allowed_domains = set(TRUSTED_PUBLISHERS) | INTERNATIONAL_DESKS
+    if any(host == d or host.endswith("." + d) for d in allowed_domains):
+        return not is_international_pakistan_item(name, url, member.get("title", ""))
+    return name in FAST_LANE_NAMES and not is_international_pakistan_item(
+        name, url, member.get("title", "")
+    )
+
+
 def is_direct_publisher_cluster(cluster):
     """Exact allowlist only: trusted Pakistani publishers and approved international India desks."""
-    trusted_names = {
-        "geo", "geo news", "geo news fast lane", "ary", "ary news", "ary news fast lane",
-        "samaa", "samaa tv", "samaa fast lane", "express news", "express news fast lane",
-        "express", "dawn", "dawn pakistan", "dawn latest", "dawn fast lane",
-        "jang", "jang urdu", "jang fast lane", "the news", "the news international",
-        "the news fast lane", "express tribune", "express tribune fast lane",
-        "dunya news", "dunya news tv", "dunya news fast lane", "dunya news tv fast lane",
-        "bbc", "bbc news", "bbc world", "bbc india", "bbc india politics",
-        "bbc india entertainment", "bbc india sports and culture",
-        "cnn", "cnn news", "cnn international", "cnn india politics",
-        "cnn india entertainment", "cnn india sports and culture",
-        "al jazeera", "al jazeera english", "al jazeera india politics",
-        "al jazeera india entertainment", "al jazeera india sports and culture",
-    }
-    allowed_domains = set(TRUSTED_PUBLISHERS) | INTERNATIONAL_DESKS
-    for member in cluster.get("members", []):
-        name = str(member.get("source") or "").strip().lower()
-        url = str(member.get("link") or "")
-        host = urlparse(url).hostname or ""
-        host = host.removeprefix("www.")
-        if any(host == d or host.endswith("." + d) for d in allowed_domains):
-            if not is_international_pakistan_item(name, url, member.get("title", "")):
-                return True
-        if name in trusted_names and not is_international_pakistan_item(name, url, member.get("title", "")):
-            return True
-    return False
+    return any(is_fast_lane_member(m) for m in cluster.get("members", []) if isinstance(m, dict))
 
 
 def make_direct_publisher_story(cluster):
     """Build a publishable story directly from a named publisher's published headline."""
-    lead = cluster["lead"]
+    # Attribute the poster to the approved publisher even when another cluster member
+    # happened to rank first during generic clustering.
+    lead = next((m for m in cluster.get("members", []) if is_fast_lane_member(m)), cluster["lead"])
+    cluster["lead"] = lead
     source_name = str(lead.get("source") or "Publisher").strip()
     headline = clean(lead.get("title") or cluster.get("title") or "")
     excerpt = clean(cluster.get("excerpt") or lead.get("snippet") or "")[:1500]
@@ -1044,7 +1050,7 @@ def write_batch(stories):
                 "headline_choice": "primary", "poster_headline_ur": "اہم خبر",
                 "poster_headline_en": title[:90], "caption_opening": title,
                 "summary_en": excerpt or title,
-                "summary_ur": "یہ خبر اصل خبر رساں ادارے کی شائع کردہ رپورٹ پر مبنی ہے۔",
+                "summary_ur": "",
                 "attribution_line": f"Source: {source_name}",
                 "primary_keyword": " ".join(title.split()[:4]), "secondary_keywords": [],
                 "entities": {}, "hashtags": [], "search_summary": title[:155],
@@ -1094,7 +1100,7 @@ def write_batch(stories):
         source_name = story["original_source"]["name"]
         out[n] = {
             "headline_primary": title, "headline_alt": title, "headline_choice": "primary",
-            "poster_headline_ur": "اہم خبر", "poster_headline_en": title[:90],
+            "poster_headline_ur": "", "poster_headline_en": title[:90],
             "caption_opening": title, "summary_en": excerpt or title,
             "summary_ur": "یہ خبر اصل خبر رساں ادارے کی شائع کردہ رپورٹ پر مبنی ہے۔",
             "attribution_line": f"Source: {source_name}", "primary_keyword": " ".join(title.split()[:4]),
@@ -1318,7 +1324,8 @@ def enqueue(queue, story, w, caption, t0):
     prio = story.get("priority", "normal")
     slot = t0 if prio in ("breaking", "high") else assign_slot(queue, t0)
     target_market = story.get("target_market") or ("Pakistan" if story.get("scope") in ("national", "provincial") else "Global")
-    poster_language = choose_poster_language({**story, "target_market": target_market}, slot)
+    poster_language = ("en" if not str(w.get("poster_headline_ur") or "").strip()
+                       else choose_poster_language({**story, "target_market": target_market}, slot))
     item = {
         "qid": story["id"], "status": "queued", "priority": prio, "created": iso(t0), "not_before": iso(slot),
         "target_market": target_market, "poster_language": poster_language,
