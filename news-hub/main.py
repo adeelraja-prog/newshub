@@ -908,11 +908,18 @@ def make_direct_publisher_story(cluster):
     """Build a publishable story directly from a named publisher's published headline."""
     # Attribute the poster to the approved publisher even when another cluster member
     # happened to rank first during generic clustering.
-    lead = next((m for m in cluster.get("members", []) if is_fast_lane_member(m)), cluster["lead"])
+    lead = next((m for m in cluster.get("members", []) if is_fast_lane_member(m)), None)
+    if not lead:
+        raise ValueError("Direct publisher story has no verified original-publisher member")
+    # A trusted outlet may be one member in a cluster whose generic lead is untrusted.
+    # Use only the trusted outlet's own title, snippet, URL and image for direct copy.
     cluster["lead"] = lead
+    cluster["title"] = clean(lead.get("title") or "")
+    cluster["excerpt"] = clean(lead.get("snippet") or "")
+    cluster["image_url"] = lead.get("image_url") or ""
     source_name = str(lead.get("source") or "Publisher").strip()
-    headline = clean(lead.get("title") or cluster.get("title") or "")
-    excerpt = clean(cluster.get("excerpt") or lead.get("snippet") or "")[:1500]
+    headline = clean(lead.get("title") or "")
+    excerpt = clean(lead.get("snippet") or "")[:1500]
     global_outlet = any(x in source_name.lower() for x in ("bbc", "cnn", "al jazeera"))
     # Only an explicit publisher marker triggers immediate breaking treatment.
     # Event words in an otherwise routine/older report must not bypass the queue.
@@ -939,8 +946,8 @@ def make_direct_publisher_story(cluster):
         "corroborating": [], "explanation": "Direct publisher lane; no AI assessment or second-source check.",
         "discovery": {"name": source_name, "url": lead.get("link", "")},
         "trend_score": 0, "trend_basis": "not_assessed", "trend_notes": [], "x_signal": "unavailable",
-        "has_wire_or_official": False, "excerpt": excerpt, "image_url": cluster.get("image_url", ""),
-        "sources": cluster.get("sources", [source_name]), "first_pub": iso(cluster["first_pub"]),
+        "has_wire_or_official": False, "excerpt": excerpt, "image_url": lead.get("image_url", ""),
+        "sources": [source_name], "first_pub": iso(cluster["first_pub"]),
         "last_update": iso(cluster["last_pub"]), "composite": 0,
         "editorial_lane": "publisher_fast_lane", "direct_source": True,
         "editorial_priority_band": "P1" if urgent else "P2",
