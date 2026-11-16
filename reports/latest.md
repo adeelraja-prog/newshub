@@ -1,138 +1,126 @@
-# News Hub report - Mon 16 Nov, 12:19 PM PKT
+# News Hub report - Mon 16 Nov, 02:58 PM PKT
 
 ## Collection
-- New items this run: 118 | items in rolling pool: 504
-- Unique story clusters: 457 (duplicates merged: 47)
-- Clusters dropped as already published/queued: 15; unchanged since last analysis: 85
-- Items per outlet: UrduPoint 70, ARY News 9, Geo News 8, ProPakistani 8, TechJuice 7, Al Jazeera 3, BBC Science 3, The Current 3, BBC Health 2, BBC Business 2, The Nation 1, TechCrunch 1
+- New items this run: 280 | items in rolling pool: 629
+- Unique story clusters: 552 (duplicates merged: 77)
+- Clusters dropped as already published/queued: 20; unchanged since last analysis: 42
+- Items per outlet: UrduPoint 102, Geo News 26, ARY News 16, Al Jazeera 13, TechJuice 12, samaa tv 11, ProPakistani 10, The Current 9, Profit by Pakistan Today 7, Dawn Pakistan 6, Dawn 5, UNITED24 Media 4
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- England topple Spain as Belgium smash Italy to reach Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How Russia is preparing Iran for the next escalation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US and rivals spar over next UN boss as race lurches towards deadline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- I had to explain to my teacher what a young carer was - we need more support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It felt like I was dying': Why some teenagers don't go to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Third US carrier arrives, Iran warns it could strike first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Geo Pakistan | 16 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan Shaheens leave for Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- England topple Spain as Belgium smash Italy to reach Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How Russia is preparing Iran for the next escalation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US and rivals spar over next UN boss as race lurches towards deadline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- I had to explain to my teacher what a young carer was - we need more support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It felt like I was dying': Why some teenagers don't go to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Third US carrier arrives, Iran warns it could strike first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Geo Pakistan | 16 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan Shaheens leave for Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- England topple Spain as Belgium smash Italy to reach Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How Russia is preparing Iran for the next escalation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US and rivals spar over next UN boss as race lurches towards deadline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- I had to explain to my teacher what a young carer was - we need more support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It felt like I was dying': Why some teenagers don't go to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Third US carrier arrives, Iran warns it could strike first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Geo Pakistan | 16 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan Shaheens leave for Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 25/107 | empty: 0 | failed: 82 | malformed/partial: 82
-- Trusted publisher desks with at least one healthy source: 4/10
-- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Samaa, Express News, Dawn, The News International, Dunya News, Dunya News TV
+- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### England topple Spain as Belgium smash Italy to reach Nations League quarters  [NORMAL]
-- Poster:  / England topple Spain as Belgium smash Italy to reach Nations League quarters | category other
-- Alternative headline: England topple Spain as Belgium smash Italy to reach Nations League quarters
+### Iran war live: Third US carrier arrives, Iran warns it could strike first  [NORMAL]
+- Poster:  / Iran war live: Third US carrier arrives, Iran warns it could strike first | category other
+- Alternative headline: Iran war live: Third US carrier arrives, Iran warns it could strike first
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzh6c3o5bEFNTllEY21FaVJJTkk3SzBhWWtBV1hjQkxETmNSTXdQemp5TXBqbTUxTHVlVzNKbzEzYjFidWtMNld5OFFFY1ZIYmkwd2ZuUEdBZ2Fabmc1YjR5ZUJUbzdfLVFRT1pPNlRBdGgxSHNxQWlBbmlWSXhWOS1HRHBjdUU3YkRhTmltSEhpa3FsNTFDUUF0Mm9PTmFDU2wtZXpReDkwWG81XzJqZFMycE53MVdFZlY4SE1pZ9IBxAFBVV95cUxOOG9VVnFZTngzajNEOWVjZk9SbV8td3JQOUk2MnpQYVBrd1Z0VEFGd29xTVdFRlhRR3daUi11LVQxNDlVaE91cUYtMVZxelVrejhnVlVmQU14RDZTZEtndTNjdGJfeU5DZ1Fwc0wxM2RzME5lQnJKNm1veEZLRVk4V2ptY1hqQk93Qmh3YmFqOGJ4dVJlVjI2ck8zNXNpem1BYnRKa2FTTWVnMEtyT29wa2h3QnFwMDJaNkNiWVNGYmJWUmFJ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzh6c3o5bEFNTllEY21FaVJJTkk3SzBhWWtBV1hjQkxETmNSTXdQemp5TXBqbTUxTHVlVzNKbzEzYjFidWtMNld5OFFFY1ZIYmkwd2ZuUEdBZ2Fabmc1YjR5ZUJUbzdfLVFRT1pPNlRBdGgxSHNxQWlBbmlWSXhWOS1HRHBjdUU3YkRhTmltSEhpa3FsNTFDUUF0Mm9PTmFDU2wtZXpReDkwWG81XzJqZFMycE53MVdFZlY4SE1pZ9IBxAFBVV95cUxOOG9VVnFZTngzajNEOWVjZk9SbV8td3JQOUk2MnpQYVBrd1Z0VEFGd29xTVdFRlhRR3daUi11LVQxNDlVaE91cUYtMVZxelVrejhnVlVmQU14RDZTZEtndTNjdGJfeU5DZ1Fwc0wxM2RzME5lQnJKNm1veEZLRVk4V2ptY1hqQk93Qmh3YmFqOGJ4dVJlVjI2ck8zNXNpem1BYnRKa2FTTWVnMEtyT29wa2h3QnFwMDJaNkNiWVNGYmJWUmFJ?oc=5
+- Supporting coverage: X, X, The Sunday Guardian, Times Now, Al Jazeera, The National
+- Keywords: Iran war live: Third US | hashtags: 
+- Scheduled: Mon 16 Nov, 02:58 PM PKT
+- Caption:
+```
+Iran war live: Third US carrier arrives, Iran warns it could strike first
+
+Iran war live: Third US carrier arrives, Iran warns it could strike first Al Jazeera
+
+Source: Al Jazeera
+```
+
+### Geo Pakistan | 16 November 2026  [NORMAL]
+- Poster:  / Geo Pakistan | 16 November 2026 | category other
+- Alternative headline: Geo Pakistan | 16 November 2026
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2044807/england-topple-spain-as-belgium-smash-italy-to-reach-nations-league-quarters | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2044807/england-topple-spain-as-belgium-smash-italy-to-reach-nations-league-quarters
-- Supporting coverage: Dawn Latest, Dawn, The Daily Star, ARY News
-- Keywords: England topple Spain as Belgium | hashtags: 
-- Scheduled: Mon 16 Nov, 12:19 PM PKT
+- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYlRjUXhwZ1N4eXU4NUNiajFZQkJxcW1qZzI4TU1vZ01MWi13bGNPeEhVTWctQXJfWmVsQWtpOE43MUI3aTl4eEVqbzdJZTZoMUJOeGtfd2JzY092ZUNZa1FkN1ZXVjlYZVVKaUtNR0RxRlBfYWhpcEdfX2tqRUk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYlRjUXhwZ1N4eXU4NUNiajFZQkJxcW1qZzI4TU1vZ01MWi13bGNPeEhVTWctQXJfWmVsQWtpOE43MUI3aTl4eEVqbzdJZTZoMUJOeGtfd2JzY092ZUNZa1FkN1ZXVjlYZVVKaUtNR0RxRlBfYWhpcEdfX2tqRUk?oc=5
+- Supporting coverage: Dawn, Pakistan Observer, TechJuice, Geo News, Daily Jang ePaper, Daily Jang ePaper
+- Keywords: Geo Pakistan | 16 November | hashtags: 
+- Scheduled: Mon 16 Nov, 03:08 PM PKT
 - Caption:
 ```
-England topple Spain as Belgium smash Italy to reach Nations League quarters
+Geo Pakistan | 16 November 2026
 
-England ended Spain’s unbeaten run in competitive matches at 44 on Sunday, beating the world champions 3-2 on their own patch, while Belgium thumped Italy 4-1 to join France in the Nations League quarter-finals. Thomas Tuchel’s team won Group A3, level on 15 points with Spain, after the hugely impre
+Geo Pakistan | 16 November 2026 Geo News
 
-Source: Dawn Latest
+Source: Geo News
 ```
 
-### How Russia is preparing Iran for the next escalation  [NORMAL]
-- Poster:  / How Russia is preparing Iran for the next escalation | category other
-- Alternative headline: How Russia is preparing Iran for the next escalation
+### Pakistan Shaheens leave for Rising Stars Asia Cup  [NORMAL]
+- Poster:  / Pakistan Shaheens leave for Rising Stars Asia Cup | category other
+- Alternative headline: Pakistan Shaheens leave for Rising Stars Asia Cup
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: How Russia is preparing Iran | hashtags: 
-- Scheduled: Mon 16 Nov, 12:29 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/pakistan-shaheens-leave-for-rising-stars-asia-cup | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/pakistan-shaheens-leave-for-rising-stars-asia-cup
+- Supporting coverage: ARY News, Aaj English TV
+- Keywords: Pakistan Shaheens leave for Rising | hashtags: 
+- Scheduled: Mon 16 Nov, 03:18 PM PKT
 - Caption:
 ```
-How Russia is preparing Iran for the next escalation
+Pakistan Shaheens leave for Rising Stars Asia Cup
 
-Russian space intelligence sharing can help Tehran get ready for an imminent US assault.
+Pakistan Shaheens leave for Rising Stars Asia Cup
 
-Source: Al Jazeera
+Source: ARY News
 ```
 
-### US and rivals spar over next UN boss as race lurches towards deadline  [NORMAL]
-- Poster:  / US and rivals spar over next UN boss as race lurches towards deadline | category other
-- Alternative headline: US and rivals spar over next UN boss as race lurches towards deadline
+### Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access  [NORMAL]
+- Poster:  / Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access | category other
+- Alternative headline: Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: US and rivals spar over | hashtags: 
-- Scheduled: Mon 16 Nov, 12:39 PM PKT
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDZnQW9DLVcwc005V2d3cjdGRXNqTEVQalBkVGlQLTRtMUdDM0VUWVBmWU1vMDFRRkhmdURnczNWQ0xUUEJ4cVR6a0hpano5amZobEJBYmdUamk2a3NuTzItZEU0TDAzaEFkSzg0QktBQkY2VWoxa3NPTzNCUTQ5MEdFZHZ5VzZiWi1CMmE1WVU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDZnQW9DLVcwc005V2d3cjdGRXNqTEVQalBkVGlQLTRtMUdDM0VUWVBmWU1vMDFRRkhmdURnczNWQ0xUUEJ4cVR6a0hpano5amZobEJBYmdUamk2a3NuTzItZEU0TDAzaEFkSzg0QktBQkY2VWoxa3NPTzNCUTQ5MEdFZHZ5VzZiWi1CMmE1WVU?oc=5
+- Supporting coverage: ARYnews.tv, ARY News, BBC World, Ahram Online
+- Keywords: Australia, UK, Canada, Italy urge | hashtags: 
+- Scheduled: Mon 16 Nov, 03:28 PM PKT
 - Caption:
 ```
-US and rivals spar over next UN boss as race lurches towards deadline
+Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access
 
-Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.
+Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access ARYnews.tv
 
-Source: Al Jazeera
+Source: ARYnews.tv
 ```
 
-### I had to explain to my teacher what a young carer was - we need more support  [NORMAL]
-- Poster:  / I had to explain to my teacher what a young carer was - we need more support | category other
-- Alternative headline: I had to explain to my teacher what a young carer was - we need more support
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: I had to explain to | hashtags: 
-- Scheduled: Mon 16 Nov, 12:49 PM PKT
-- Caption:
-```
-I had to explain to my teacher what a young carer was - we need more support
-
-Neraya says young carers such as herself want the chance of "a childhood of our own".
-
-Source: BBC Health
-```
-
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 9 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 12
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -192,8 +180,8 @@ Source: BBC Health
 - [published] high | CDA finalises revised PC-I for Islamabad cricket stadium at Rs16.7bn | Mon 16 Nov, 07:48 AM PKT
 - [published] high | Yemeni government forces reportedly retreat in setback against Houthis | Mon 16 Nov, 07:48 AM PKT
 - [needs_review] high | School Assembly News: Top headlines, thought and GK questions for Nov  | Mon 16 Nov, 07:48 AM PKT
-- [queued] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
-- [queued] normal | Restoration of student unions demanded | Mon 16 Nov, 09:01 AM PKT
+- [needs_review] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
+- [published] normal | Restoration of student unions demanded | Mon 16 Nov, 09:01 AM PKT
 - [queued] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
 - [queued] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
 - [queued] normal | Indonesian president apologises to Singapore, Malaysia for wildfire ha | Mon 16 Nov, 10:31 AM PKT
@@ -204,9 +192,13 @@ Source: BBC Health
 - [queued] normal | How Russia is preparing Iran for the next escalation | Mon 16 Nov, 12:29 PM PKT
 - [queued] normal | US and rivals spar over next UN boss as race lurches towards deadline | Mon 16 Nov, 12:39 PM PKT
 - [queued] normal | I had to explain to my teacher what a young carer was - we need more s | Mon 16 Nov, 12:49 PM PKT
+- [queued] normal | Iran war live: Third US carrier arrives, Iran warns it could strike fi | Mon 16 Nov, 02:58 PM PKT
+- [queued] normal | Geo Pakistan | 16 November 2026 | Mon 16 Nov, 03:08 PM PKT
+- [queued] normal | Pakistan Shaheens leave for Rising Stars Asia Cup | Mon 16 Nov, 03:18 PM PKT
+- [queued] normal | Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid acc | Mon 16 Nov, 03:28 PM PKT
 
 ## Publishing this run
-- Published 'Vulcan Rocket Fails During Launch, Dealing Blow To SpaceX Competitors'.
+- Published 'Restoration of student unions demanded'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

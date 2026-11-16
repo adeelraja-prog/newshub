@@ -33495,7 +33495,1524 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a719bbe2de9db8e17a05c53a",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T02:15:00+00:00",
+      "last_update": "2026-11-16T09:37:29+00:00",
+      "event": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrives",
+        "carrier",
+        "could",
+        "first",
+        "iran",
+        "jazeera",
+        "live",
+        "strike",
+        "third",
+        "war",
+        "warns"
+      ],
+      "source_excerpt": "Iran war live: Third US carrier arrives, Iran warns it could strike first Al Jazeera",
+      "sources": [
+        {
+          "name": "X",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56M1RMbURucUJQTFM4RG1VZmhnSEJVTnk3RkF5U0txQTJRVW56VmlRMTNXdVhrdHBuS0djbVp4VGFTd0hQWTRyOVFvbGdzRWI4LVdMbFdKc2lNc3o1b2dzalZlV20weHpUbnJHYg?oc=5",
+          "published_at": "2026-11-16T02:15:00+00:00"
+        },
+        {
+          "name": "X",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3dEpESGNSUy0xNml1ZC1tZXg3TFctRnF5ZkJZcnJkdU5vQ3duRlBlRmlkVUxEbkJSQzF5VTJjd0FjUzVDQTlRc0U1SGJLWTNBMDhiVzU3OERDb3VHZFFpelBB?oc=5",
+          "published_at": "2026-11-16T02:15:00+00:00"
+        },
+        {
+          "name": "The Sunday Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQbFI5cXYySHE2ZE5qZ25hN2VOZnR4UngtQzBHY2pxczVsQUl6VTlRTTAzZ2NmVXFnMkZwTzgwSFB4MkhMc2JNYmJ1NVBCU3lTd0hjTlRCb25zWlBUUUF3eS1EajNVX001V1pzRDZiNU9NMEluZERFV1p4U1o0NXZRYzRGd3V4cTQ3REgyb0gwT3o0OTdRSE1nWVl3MWlDU0dXRjNQWHpZemJsOG55N3NubjBCY3c2aUQxUzdSWlByQkZDalNUSEx6X191Um1OcGZlV0lOVXZSNzBhQXRmRDFhdjZ4VzFiMlNSSm1BUXA2dnVOclpaWTg0Wk9POVJMaVpUbnhqcnc2dG5kYnBldkZZU1E1eHppLVdoaGFxb19mRG1iRDk4QU1Od2pZdDFETmZhS1JSWEpmSGrSAb4CQVVfeXFMTWQ3dkxyUEJqclFkRUdlNWFReFV1M1hxR3N1YlRfNjZtMnRxY21lX0prNWhtRzVZdWJrRXFPdXl4cVNMRXBwcHRnX1NiNkxxaUV0Zm9oTWZPVFZzZk9qQkxVSXhlZ3BYS21wMHQ1czg1TWNVUEcxUkZpYm9PUzhub1ZfQ1RIR3E1WjBsclFXd1JtVTNJejEyNDZOUTZoX0dDTDN3MkxjU2FyVktHQzdTd2pXak1VZktPcHAtZ3BMQkt5LVpQVEJHWkE5NWVFdDVGRWZwY3RQaEdsSDJtNFhDTlI3SFBZZ1A4Rk9pN043TUl3TE9rVGZiQ0JtTmw3ZWFHZkpNTURvTnlzUlpJOG5qREdBY2J3TFZnOU1PM2loend2WEMtUzFNNHZLRDU3aElYRG9qVmtJMGxjck9HeEpR?oc=5",
+          "published_at": "2026-11-16T02:23:03+00:00"
+        },
+        {
+          "name": "Times Now",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPblZ3em9NY09BR1dubDJBQ3VXNVlheWZzdGVWWmYyZUY1d3lQSDRLZ3dmY2U3Q1lZQ0Rsa3hScmlHQzhldlVrdzl1Q21ZMlpzel9CVDk2M3A3Yl9NWGc1djVBemtFdHF4aUdnZnRQMlNQVWUzY3lzTWVGQ0hiQUEwWDlnTzVnZlRsWm9nVEZ5OEhuZkJRNTBZWHFsTFdGMDh1STBNd19QdVZvb1hJcG1CdGt0clBGYzZWTnF1RWR6Q2F6MTY2SFNCSmZYNWwxSFdlLUFkNWt2NWJhYVQ0bmE1YmhiMGN0RHVCbmZ4dtIB8gFBVV95cUxPTEZFbHE5Z1lhTmR3ZzFGMzBjZ0ZjczVSaFZjYXFTWU1DQ0U1aVZRVzB3ck1oNkNaaHE4UmdzNHFvcEc1dTJBM1lVNk1XTmRyZ0hsaXgzMG0xV2prOHJ3dkI1UEcxSWVKMEgwSUVlTk9jNHpRaTNyRVc0MS1wVVEwU2VsZGp6aXR5UklJSjlUSEwwZG5OMmRrZmNNazJkLVVrZHhLT2FVcXZEeTFPaDhnaGNjVUNxemxWaHc3am9xUzlweUlVMzMzMUhJSlQ0MUI4NjVQaEdQSnRqdzNYRFFlV3ZaOXpVM1hpN1N3NThwZnJVUQ?oc=5",
+          "published_at": "2026-11-16T02:56:54+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzh6c3o5bEFNTllEY21FaVJJTkk3SzBhWWtBV1hjQkxETmNSTXdQemp5TXBqbTUxTHVlVzNKbzEzYjFidWtMNld5OFFFY1ZIYmkwd2ZuUEdBZ2Fabmc1YjR5ZUJUbzdfLVFRT1pPNlRBdGgxSHNxQWlBbmlWSXhWOS1HRHBjdUU3YkRhTmltSEhpa3FsNTFDUUF0Mm9PTmFDU2wtZXpReDkwWG81XzJqZFMycE53MVdFZlY4SE1pZ9IBxAFBVV95cUxOOG9VVnFZTngzajNEOWVjZk9SbV8td3JQOUk2MnpQYVBrd1Z0VEFGd29xTVdFRlhRR3daUi11LVQxNDlVaE91cUYtMVZxelVrejhnVlVmQU14RDZTZEtndTNjdGJfeU5DZ1Fwc0wxM2RzME5lQnJKNm1veEZLRVk4V2ptY1hqQk93Qmh3YmFqOGJ4dVJlVjI2ck8zNXNpem1BYnRKa2FTTWVnMEtyT29wa2h3QnFwMDJaNkNiWVNGYmJWUmFJ?oc=5",
+          "published_at": "2026-11-16T03:31:32+00:00"
+        },
+        {
+          "name": "The National",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUhsb2pnODdZNmUya1pnTkFma1Rsb0ozYnVkNGRzd0M0Q0VHT2xuVHhkaFc1NlREdnBiT2d0aW1oTjNRXzVOWkxnRmdzX1pvcmx4dWRIQmJySzFSOG52ZHZ3S0FpWTZOcFllRFRaaTg0ZEFsam8zdHlkME9rdFZGbWdxaVZtMDB6THQ2aGdCaEdLZjRMeTZfNURNZEUyWGoycVBkTg?oc=5",
+          "published_at": "2026-11-16T07:37:49+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/uss-theodore-roosevelt-arrives-in-middle-east-as-tensions-with-iran-continue-to-rise/",
+          "published_at": "2026-11-16T07:43:35+00:00"
+        },
+        {
+          "name": "Yeni Safak English",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0M4RlU4NjNsRlE0dDlMbTR2dDYtQlJnSVhHamIyMy1qdU91ZmpxcGNQaVNqdlVabUVucVlTVHgyUTNSZ0RuYkxucjluWlhqaTQ4VWVFRmQyZVVwRHpmUFBlTVVmcXdfWlBnTnJzR0xxalBIZnFLbzM1eGJjYVNBVk9yYzFCdVlFdmNtU050U1FDQTZyM293T0dRT2NfYzFBRlRCTk5R?oc=5",
+          "published_at": "2026-11-16T08:02:19+00:00"
+        },
+        {
+          "name": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFRfSUtNVGxKbW90bm12THlGQnJhTTFKUXJMOHZaVmlBaWRPNy01ZFltZmwzVkx1UXZHZGswZTdZUGd2SUJxT3Nvc0kzQy1kbUVQYklKbHVMMUhsM3ZlQlpfMlhKR2J1NnZFNW5JVm5mMWs1eWhNd2MtQjNOeWxmVktVQQ?oc=5",
+          "published_at": "2026-11-16T08:44:00+00:00"
+        },
+        {
+          "name": "Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZnRzVG9uZWRKWVoxeHN0TmN0M3NlWElEdjZtb05aYmR6UzhPNXluenR3TFJRVVBUT1JNRjZSRUw1em14d0lISXFfdW1yUXFOTXMtRjhraHdyV1JhRFVSdzRIdms2NU4zd1pMUjg4cWNySnNxRFdxMWI4VDVHX19ndmhRc0FoMHVFNWdhWXZFRDltMU52VEd5UFRkSjZqMDZpYzhyT25WeHZGeGF3bElPaWVhVUdwZlA4TXdXcWxscVBmRlNTZnJmektR0gHcAUFVX3lxTFBWeEpRNXBnTzFqeDNQRHB5aXpYcFktYjM3OFJWdVd3dHBHWFNORnptNV9RUndudzRSaTc4QkppYl9TemJIcGNfcDlRdFB6Wm9XVW5JelM1TnRTUF8tVVRid0luREhpdlZEMTMxb2NwclNfYzJXMS1xc2paME5GTUZkTWxDek16cGdSRlpUczJfU3U5eDdEdG1NNmpWQ1Vlby1lbFJ4Z0gzWi01djcxLTRtOEZRellUSXFzSVlxNGphcllrQWFBdzdFVFNvdEotZkhtX3Uxam5fVXV5Mlg?oc=5",
+          "published_at": "2026-11-16T08:52:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzh6c3o5bEFNTllEY21FaVJJTkk3SzBhWWtBV1hjQkxETmNSTXdQemp5TXBqbTUxTHVlVzNKbzEzYjFidWtMNld5OFFFY1ZIYmkwd2ZuUEdBZ2Fabmc1YjR5ZUJUbzdfLVFRT1pPNlRBdGgxSHNxQWlBbmlWSXhWOS1HRHBjdUU3YkRhTmltSEhpa3FsNTFDUUF0Mm9PTmFDU2wtZXpReDkwWG81XzJqZFMycE53MVdFZlY4SE1pZ9IBxAFBVV95cUxOOG9VVnFZTngzajNEOWVjZk9SbV8td3JQOUk2MnpQYVBrd1Z0VEFGd29xTVdFRlhRR3daUi11LVQxNDlVaE91cUYtMVZxelVrejhnVlVmQU14RDZTZEtndTNjdGJfeU5DZ1Fwc0wxM2RzME5lQnJKNm1veEZLRVk4V2ptY1hqQk93Qmh3YmFqOGJ4dVJlVjI2ck8zNXNpem1BYnRKa2FTTWVnMEtyT29wa2h3QnFwMDJaNkNiWVNGYmJWUmFJ?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c4ab83ba65d977fc4de16e41",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T02:45:07+00:00",
+      "last_update": "2026-11-16T09:22:24+00:00",
+      "event": "Geo Pakistan | 16 November 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "geo",
+        "news",
+        "november",
+        "pakistan"
+      ],
+      "source_excerpt": "Geo Pakistan | 16 November 2026 Geo News",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQWk9aeWRHOHdBeGNUbWhtM0FTd0FDb3Q3SldCcG9RNmVtbGxaNUh2THN5UUpKTThzUWpuTkZYRFI5UkY3WDdkUGJKWEpnZVRNVkJTUTU3VGxWNWUxYjRja1pYMHZqMzk0YkE?oc=5",
+          "published_at": "2026-11-16T02:45:07+00:00"
+        },
+        {
+          "name": "Pakistan Observer",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzl2Sy1Oc0tna3RNVm5yTTFfRlZwVHdQVHI5OGpCVG83Z2R5a0w0SlgxR2F1aTJTOVJTaHBRaU1RM0pmTk10elB6R1hfNTZWRE5QQXFlUHN0Y3d5Ylh0bkRIU1lDUnl3N2JETTNLWFZ1MHBoT29uQ3JWaktxNjBDMWFDOHh4TGdIeWh5aFdWd3ZuaDI2RklpaE5kWkhyTjVjQlZuSQ?oc=5",
+          "published_at": "2026-11-16T03:12:24+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/rs100-prize-bond-draw-result-announced-for-november-16-2026/",
+          "published_at": "2026-11-16T04:35:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYlRjUXhwZ1N4eXU4NUNiajFZQkJxcW1qZzI4TU1vZ01MWi13bGNPeEhVTWctQXJfWmVsQWtpOE43MUI3aTl4eEVqbzdJZTZoMUJOeGtfd2JzY092ZUNZa1FkN1ZXVjlYZVVKaUtNR0RxRlBfYWhpcEdfX2tqRUk?oc=5",
+          "published_at": "2026-11-16T08:11:59+00:00"
+        },
+        {
+          "name": "Daily Jang ePaper",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OM0IxMGZIUzdDNWRURlotcE1kOUYzMGVGcUdjWFFYRWZJeTNCTGpQQnktREVWUTBjNVlXTlpIZkRSR19FSExMYzZTSXZseHVJMDg2Qk1BYlM?oc=5",
+          "published_at": "2026-11-16T09:22:23+00:00"
+        },
+        {
+          "name": "Daily Jang ePaper",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82aC1WSV9McDJQNkkwLUFGVFdOOTV3bkpNd2dDVmc1NjdXOHVzWnFscEVaeWNaY1BFWlhtcXg4ekNBdm9nUWR5aHlOaGdYR3Zma21tLXZqemw?oc=5",
+          "published_at": "2026-11-16T09:22:24+00:00"
+        },
+        {
+          "name": "Daily Jang ePaper",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WSDhWREdvbUtHVkNYTUtuUTh3VEVuZU9wbmwyV3l1UHF3d2tTZnlwbGxxaHJGeUdOQjBacU9LYzJqV1ZBT0dFb1JvNmY4OXQxdXhpR2l1bEQ?oc=5",
+          "published_at": "2026-11-16T09:22:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYlRjUXhwZ1N4eXU4NUNiajFZQkJxcW1qZzI4TU1vZ01MWi13bGNPeEhVTWctQXJfWmVsQWtpOE43MUI3aTl4eEVqbzdJZTZoMUJOeGtfd2JzY092ZUNZa1FkN1ZXVjlYZVVKaUtNR0RxRlBfYWhpcEdfX2tqRUk?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "293c91f6ab8bd41f1e02680b",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:22:48+00:00",
+      "last_update": "2026-11-16T09:52:57+00:00",
+      "event": "Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "aid",
+        "allow",
+        "arynews",
+        "australia",
+        "canada",
+        "gaza",
+        "israel",
+        "italy",
+        "rapid",
+        "urge"
+      ],
+      "source_excerpt": "Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDZnQW9DLVcwc005V2d3cjdGRXNqTEVQalBkVGlQLTRtMUdDM0VUWVBmWU1vMDFRRkhmdURnczNWQ0xUUEJ4cVR6a0hpano5amZobEJBYmdUamk2a3NuTzItZEU0TDAzaEFkSzg0QktBQkY2VWoxa3NPTzNCUTQ5MEdFZHZ5VzZiWi1CMmE1WVU?oc=5",
+          "published_at": "2026-11-16T08:22:48+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/australia-uk-canada-italy-urge-israel-to-allow-rapid-gaza-aid-access",
+          "published_at": "2026-11-16T08:22:48+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T08:56:04+00:00"
+        },
+        {
+          "name": "Ahram Online",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMFJ2LTdPbzhzVzU2WmxPT0tWNDAwLUNjQ0J0SjFXNDBTQnFqQ0hucWMxMGtNMHg2LUtzS0k1RUFqaGd5UFA4WUhEU1ZJYXAwcmVyanZLc1BuTURQZ3VKU1FMc3JsYUVlMFNCM19vN0RCOXRSMUNEZVdDaUpZODJ4V3hyaVQtX1RObWVjdVNNR1hwV3MtUkFNUm5mckhycGNuY3ZxMzliSW9ua3hKaEFpd1hsN05hYXoweWtPdDZWbkJFc2N3M3loeDNWOTJlNDhm?oc=5",
+          "published_at": "2026-11-16T09:52:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDZnQW9DLVcwc005V2d3cjdGRXNqTEVQalBkVGlQLTRtMUdDM0VUWVBmWU1vMDFRRkhmdURnczNWQ0xUUEJ4cVR6a0hpano5amZobEJBYmdUamk2a3NuTzItZEU0TDAzaEFkSzg0QktBQkY2VWoxa3NPTzNCUTQ5MEdFZHZ5VzZiWi1CMmE1WVU?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "67fea9264a70bfc94de7b958",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:18:49+00:00",
+      "last_update": "2026-11-16T08:33:07+00:00",
+      "event": "13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "case",
+        "court",
+        "dawn",
+        "day",
+        "girl",
+        "grants",
+        "islamabad",
+        "murder",
+        "old",
+        "physical",
+        "police",
+        "remand",
+        "suspects",
+        "year"
+      ],
+      "source_excerpt": "13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0FpXzF1WGotMVFLM2RrelhuZnlmMFR6MjhLazlYWE1fUm1kTGFwWGh0UnJuVW1LakVOYVFOVEgzZlBseFZCSmJqUVE0aW92NTVEVHl6N3RDMUdEWE9wcWh4cms0Y2xGU2dUaElkd2N4ejlxWHBRZk9NQVA4Qm84ZzZ3TVNuSElCLUFNVEZBM0dCaVcxZUdnVU1aRl84SjVkQXZ5cE5rUDd6aTBNejFxMkJKWFBVcEQ0UGlhbms3bmR6UQ?oc=5",
+          "published_at": "2026-11-16T08:18:49+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2044915/13-year-old-girls-murder-case-islamabad-court-grants-police-4-day-physical-remand-suspects",
+          "published_at": "2026-11-16T08:33:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0FpXzF1WGotMVFLM2RrelhuZnlmMFR6MjhLazlYWE1fUm1kTGFwWGh0UnJuVW1LakVOYVFOVEgzZlBseFZCSmJqUVE0aW92NTVEVHl6N3RDMUdEWE9wcWh4cms0Y2xGU2dUaElkd2N4ejlxWHBRZk9NQVA4Qm84ZzZ3TVNuSElCLUFNVEZBM0dCaVcxZUdnVU1aRl84SjVkQXZ5cE5rUDd6aTBNejFxMkJKWFBVcEQ0UGlhbms3bmR6UQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2da83819c84b9694cd3f475b",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T06:34:10+00:00",
+      "last_update": "2026-11-16T09:00:06+00:00",
+      "event": "FCC allows PHC to hear Article 199 cases except KP governor’s rule, MPO cases",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "199",
+        "allows",
+        "article",
+        "cases",
+        "except",
+        "fcc",
+        "governor",
+        "hear",
+        "mpo",
+        "phc",
+        "rule"
+      ],
+      "source_excerpt": "FCC allows PHC to hear Article 199 cases except KP governor’s rule, MPO cases",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/fcc-allows-phc-to-hear-article-199-cases-except-kp-governors-rule-mpo-cases",
+          "published_at": "2026-11-16T06:34:10+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691269-fcc-allows-phc-to-hear-article-199-cases-except-those-concerning-emergency-measures",
+          "published_at": "2026-11-16T08:19:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVHI0UVU0TEhwQ2FFTUJXM3RxZ2N4TjBjaUJlVkI2d3JGS0kzNmdtMUtxWjdrTDlzMTdkd2UzRHlqSUY2MmtsTHVOdmt2UE1oNHlfWUh4NU42b2VLNHRSM2VENHlERGhCVmRfeHZjai04OERlRUtBbkVTd0h1NmtYbzEzWC1UeFh5WjNCNEJ3cFBEWTlwZWFvTVMxYUhIeVo0OE5QQjZDOVUzWUxQVTdLYmNINUJiUHc?oc=5",
+          "published_at": "2026-11-16T08:19:00+00:00"
+        },
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdURfSzdSdHp6TEVDcXNJaE5pbHg2YjdyWVROTEk3ZzRnNXpUTzdWLWFRVndpUnhaLXpmci1IU3hsNkc1eS1Ua01xNXlnX1pOX0FjV0ttZEVGWjBITVNvYWtSM1hKSk9heDlJeTg2Sk95MnFjOVVEMFZHTmpmcGlsNUdvWmhka2dYRktITG9GSlFCUlFvcnJyei0xMFZLbHlIZWlBXzhpX3lUOTVs0gFWQVVfeXFMTnVYRlNEN1BrSHM0Yk42SE45bXhfRTdUb0dEV3hUbzY1VnJhY3I4dWcwdkZpYjlHM1FOYTc3Ullvd05mZ2Rqbjd6c1VPenF2M0k3Mmc0V1E?oc=5",
+          "published_at": "2026-11-16T09:00:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/fcc-allows-phc-to-hear-article-199-cases-except-kp-governors-rule-mpo-cases",
+        "publisher_url": "https://arynews.tv/fcc-allows-phc-to-hear-article-199-cases-except-kp-governors-rule-mpo-cases",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "45624941177e0fe2c048f631",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T07:44:06+00:00",
+      "last_update": "2026-11-16T09:03:41+00:00",
+      "event": "Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "action",
+        "afghanistan",
+        "against",
+        "cooperation",
+        "eco",
+        "economic",
+        "for",
+        "geo",
+        "must",
+        "news",
+        "pakistan",
+        "tells",
+        "terrorism",
+        "with"
+      ],
+      "source_excerpt": "Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEUzRE1RNWRobzl4ZjZ0aVBLYlhvRkZBNUJTUW5UQ0tNdFVXdUlLX0RuaC14RGRsc0FNTHo2WTlWVnlVb1ZNWmhvUXgtTGRfZGVRQUc1dVNVcVV5dElVWXI5d2w5LVYwTjc0ZHN4Z2RLX09MZmFWVlA1LW1JZWtJZy1vUkVfRWU3ZTZuTzZrWUZvRTR1TEpRNlBfRnN3WkxvSzVpaHZSLWJveExnRk05dk43em1yMUx5?oc=5",
+          "published_at": "2026-11-16T07:44:06+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/action-against-terrorism-must-for-economic-cooperation-with-afghanistan-pakistan-tells-eco/",
+          "published_at": "2026-11-16T08:08:17+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Eb0Z0N1ZsYTZEN25mSTdGX1lKcUVSajltR01NTXFMT3hGNGwydEZZaGxOV1pQeXB0QTlSU3plSjZnQThqZDBPTA?oc=5",
+          "published_at": "2026-11-16T09:03:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEUzRE1RNWRobzl4ZjZ0aVBLYlhvRkZBNUJTUW5UQ0tNdFVXdUlLX0RuaC14RGRsc0FNTHo2WTlWVnlVb1ZNWmhvUXgtTGRfZGVRQUc1dVNVcVV5dElVWXI5d2w5LVYwTjc0ZHN4Z2RLX09MZmFWVlA1LW1JZWtJZy1vUkVfRWU3ZTZuTzZrWUZvRTR1TEpRNlBfRnN3WkxvSzVpaHZSLWJveExnRk05dk43em1yMUx5?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7f46e0f6098aa8725507f940",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:29:00+00:00",
+      "last_update": "2026-11-16T08:29:00+00:00",
+      "event": "Child maid's death: Islamabad court hands senior cop's wife, Qari to police on four-day remand",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afp",
+        "after",
+        "against",
+        "behind",
+        "being",
+        "capital",
+        "case",
+        "child",
+        "complaints",
+        "condition",
+        "cop",
+        "court",
+        "crime",
+        "critical",
+        "day",
+        "death",
+        "dies",
+        "fatima",
+        "filepolice",
+        "four",
+        "hands",
+        "hospital",
+        "islamabad",
+        "local",
+        "maid",
+        "murder",
+        "officer",
+        "old",
+        "past",
+        "people",
+        "police",
+        "qari",
+        "register",
+        "remand",
+        "resurface",
+        "scene",
+        "senior",
+        "shifted",
+        "stand",
+        "tape",
+        "wife",
+        "year"
+      ],
+      "source_excerpt": "People stand behind a crime scene tape. — AFP/FilePolice register murder case after 13-year-old maid dies in capital.Fatima dies in hospital after being shifted in critical condition.Past complaints against police officer resurface after maid's death. ISLAMABAD: A local court...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691268-child-maids-death-islamabad-court-hands-senior-cops-wife-qari-to-police-on-four-day-remand",
+          "published_at": "2026-11-16T08:29:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzZ3LXlEQkFsYUY2R0xoa0dtVnNqQ0o4R0RSSzluRVE0RTIyZDFTVnF2Ynl5cUdWRWRlN0dNZHBELUlDT3NVQWxZSU9CTTFYR1U1NS1zS21BTFQ5cGxDSDlLcW42a0ZHVERQLTA5ZzVDLWdldWhtRjB0WjEwc3N5VUZYQVA3cXVzYmExeGpZM2pYdm9xU05JLVlyZ0szYTZBYTJxMGU5bXBNUE0yeTg4RWg5MldMM2VpRVQtR3JmS1E?oc=5",
+          "published_at": "2026-11-16T08:29:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691268-child-maids-death-islamabad-court-hands-senior-cops-wife-qari-to-police-on-four-day-remand",
+        "publisher_url": "https://www.geo.tv/latest/691268-child-maids-death-islamabad-court-hands-senior-cops-wife-qari-to-police-on-four-day-remand",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7a7c268abdb2c6e18c992bcc",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:47:47+00:00",
+      "last_update": "2026-11-16T08:47:47+00:00",
+      "event": "Punjab orders recall of five medicines over quality, safety concerns",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "concerns",
+        "five",
+        "medicines",
+        "orders",
+        "over",
+        "punjab",
+        "quality",
+        "recall",
+        "safety"
+      ],
+      "source_excerpt": "Punjab orders recall of five medicines over quality, safety concerns ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHVEdWRDWFNhMlk5VjZxOHVtb1k2bzRXY2g1ZjhYMGFhVHZGRUpneXRvSmVUZnpNTW1PS0syS2dnY09tWlVNZUhJb1VpU05YSlc5Mk1xWDNhdFFQNnhPRDM4dFpiWE5ZcWdEa1dnSFRydWhwQTBRTURqZmRkZEh1VXBfZ3Uzem1HNmtfRmlpOA?oc=5",
+          "published_at": "2026-11-16T08:47:47+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-orders-recall-of-five-medicines-over-quality-safety-concerns",
+          "published_at": "2026-11-16T08:47:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHVEdWRDWFNhMlk5VjZxOHVtb1k2bzRXY2g1ZjhYMGFhVHZGRUpneXRvSmVUZnpNTW1PS0syS2dnY09tWlVNZUhJb1VpU05YSlc5Mk1xWDNhdFFQNnhPRDM4dFpiWE5ZcWdEa1dnSFRydWhwQTBRTURqZmRkZEh1VXBfZ3Uzem1HNmtfRmlpOA?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5dfdb14e8908e17e37dc86cf",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:54:58+00:00",
+      "last_update": "2026-11-16T08:54:58+00:00",
+      "event": "Ronaldinho comes out retirement for 45 mins in Italy’s third division",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "came",
+        "comes",
+        "division",
+        "football",
+        "for",
+        "italy",
+        "legend",
+        "match",
+        "mins",
+        "minutes",
+        "out",
+        "play",
+        "retirement",
+        "ronaldinho",
+        "third"
+      ],
+      "source_excerpt": "Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
+          "published_at": "2026-11-16T08:54:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aec94ff11f16626f9d25c5e4",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:49:51+00:00",
+      "last_update": "2026-11-16T08:49:51+00:00",
+      "event": "Kachin: where Myanmar’s rare earth minerals are in tight grip",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "dollars",
+        "earth",
+        "grip",
+        "kachin",
+        "lies",
+        "millions",
+        "minerals",
+        "myanmar",
+        "northern",
+        "rare",
+        "state",
+        "tight",
+        "where",
+        "worth"
+      ],
+      "source_excerpt": "In Myanmar’s northern state of Kachin lies millions of dollars worth of rare earth minerals.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
+          "published_at": "2026-11-16T08:49:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cf351c7e584f5a5494ca315e",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:45:07+00:00",
+      "last_update": "2026-11-16T08:45:07+00:00",
+      "event": "Ahmed Tibi appointed as deputy speaker of Israel’s Knesset",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahmed",
+        "appointed",
+        "breaking",
+        "deputy",
+        "israel",
+        "knesset",
+        "news",
+        "speaker",
+        "story",
+        "this",
+        "tibi"
+      ],
+      "source_excerpt": "This is a breaking news story.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
+          "published_at": "2026-11-16T08:45:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c5dcf8f33801f56e0a27a221",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:23:19+00:00",
+      "last_update": "2026-11-16T08:23:19+00:00",
+      "event": "Over 2,000 people cross over from Senegal into Spain’s Canary Islands",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "around",
+        "canary",
+        "cross",
+        "crossed",
+        "days",
+        "from",
+        "have",
+        "into",
+        "islands",
+        "migrants",
+        "over",
+        "people",
+        "senegal",
+        "spain",
+        "two"
+      ],
+      "source_excerpt": "Around 2,000 migrants have crossed into Spain’s Canary Islands from Senegal in two days.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
+          "published_at": "2026-11-16T08:23:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1c8c6f789abcfeac8f4c67c2",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:20:17+00:00",
+      "last_update": "2026-11-16T08:24:33+00:00",
+      "event": "Russia out of IIHF World Junior Ice Hockey as Canada refuses entry",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "arbitration",
+        "back",
+        "being",
+        "bumped",
+        "canada",
+        "court",
+        "entry",
+        "for",
+        "hockey",
+        "ice",
+        "iihf",
+        "junior",
+        "make",
+        "norway",
+        "out",
+        "refuses",
+        "room",
+        "ruling",
+        "russia",
+        "sport",
+        "the",
+        "tournament",
+        "world"
+      ],
+      "source_excerpt": "Norway back in the tournament after being bumped to make room for Russia after a Court of Arbitration for Sport ruling.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/16/russia-out-of-iihf-world-junior-ice-hockey-as-canada-refuses-entry?traffic_source=rss",
+          "published_at": "2026-11-16T08:20:17+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORXRhVzBlcXV2d0tRVVRrcWVsV2REWjQ3RXhYMmJaUHViYllHYUhySXZUdkZtaVhMX191QVlVd21VZGtOaWNkZ1JZb28xZGZya3dqV2EzODk3OTBIdlhfRkdVeFh0V0JnUzloWjZ1OGZfaXdFMGJkSWpPNWQ4M1NCQ1pCcmdMeWVRcU5uTk9kSjljaHloX25pV2Z5TTdQYkZLaTJ5NzVjQmxmY0NNOHAw0gG0AUFVX3lxTFBTMVlqY1JKRlNDU0FrS3NmSG5FTXdxbWpIb1ZXOFlyVzIyNUNQajdYdlFkLXc1QVFOa0xLUHFsMHFVRlNpTXgtR19kQzdWTU1wdEZGbTJwLTJCTkZVazU1S2V6OWxKZnBvS2dVQ3JIQW9TY19pcUJrNFJaX0g2RUJQX2xhejBzTUQzelB0TmN4N1VtRzY0S01qc1V2WGV1ZVpsd2E2UFI2eXltVUkweEFRcHNkaQ?oc=5",
+          "published_at": "2026-11-16T08:24:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/16/russia-out-of-iihf-world-junior-ice-hockey-as-canada-refuses-entry?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/16/russia-out-of-iihf-world-junior-ice-hockey-as-canada-refuses-entry?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b6e18fc633c3bf94f00d229",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:14:48+00:00",
+      "last_update": "2026-11-16T08:14:48+00:00",
+      "event": "Ecuador’s president denies existence of US military base",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activities",
+        "base",
+        "country",
+        "daniel",
+        "denies",
+        "ecuador",
+        "existence",
+        "for",
+        "military",
+        "noboa",
+        "personnel",
+        "president",
+        "says",
+        "temporary",
+        "the"
+      ],
+      "source_excerpt": "Daniel Noboa says US personnel in the country for 'temporary activities'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
+          "published_at": "2026-11-16T08:14:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f04653d74754d3fa5e01b6a2",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T09:42:11+00:00",
+      "last_update": "2026-11-16T09:42:11+00:00",
+      "event": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "25s",
+        "being",
+        "costs",
+        "create",
+        "cutting",
+        "employment",
+        "five",
+        "for",
+        "gradually",
+        "insurance",
+        "jobs",
+        "key",
+        "launched",
+        "more",
+        "national",
+        "over",
+        "reducing",
+        "report",
+        "suggest",
+        "the",
+        "this",
+        "under",
+        "urges",
+        "week",
+        "will",
+        "years"
+      ],
+      "source_excerpt": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T09:42:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a7897bd1f5d0e8bca9b3084",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:13:17+00:00",
+      "last_update": "2026-11-16T08:13:17+00:00",
+      "event": "Prince and Princess of Wales play street cricket in Mumbai",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bbc",
+        "cricket",
+        "mumbai",
+        "play",
+        "prince",
+        "princess",
+        "street",
+        "wales"
+      ],
+      "source_excerpt": "Prince and Princess of Wales play street cricket in Mumbai BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fbS1sY1ZfRk9BeHM3TmZZSDFnNjBJMTZSNVpDS2RtX2xLSG5nNU50UXVXV3RIRXN1QkxSY3c2X2tLLTc3WVRqanpmRHg0LXo5QmZsR052NjA?oc=5",
+          "published_at": "2026-11-16T08:13:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fbS1sY1ZfRk9BeHM3TmZZSDFnNjBJMTZSNVpDS2RtX2xLSG5nNU50UXVXV3RIRXN1QkxSY3c2X2tLLTc3WVRqanpmRHg0LXo5QmZsR052NjA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f46fb9760ad69bf98fbb9145",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T07:54:09+00:00",
+      "last_update": "2026-11-16T07:54:09+00:00",
+      "event": "Why is China resisting a nuclear treaty with the US and Russia?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arsenal",
+        "beijing",
+        "capabilities",
+        "china",
+        "could",
+        "has",
+        "its",
+        "limit",
+        "moscow",
+        "nuclear",
+        "pact",
+        "resisting",
+        "russia",
+        "smaller",
+        "than",
+        "that",
+        "the",
+        "treaty",
+        "washington",
+        "why",
+        "with",
+        "worries"
+      ],
+      "source_excerpt": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
+          "published_at": "2026-11-16T07:54:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f1775791b497526b5ceed15f",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T07:43:51+00:00",
+      "last_update": "2026-11-16T07:43:51+00:00",
+      "event": "Yellow weather warnings issued for snow and ice as temperatures plummet",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bringing",
+        "colder",
+        "for",
+        "grip",
+        "hill",
+        "ice",
+        "issued",
+        "northern",
+        "parts",
+        "plummet",
+        "snow",
+        "some",
+        "spell",
+        "temperatures",
+        "the",
+        "threat",
+        "times",
+        "warnings",
+        "weather",
+        "will",
+        "wintry",
+        "yellow"
+      ],
+      "source_excerpt": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T07:43:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f7c7ce85353a01f657924d37",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T07:42:48+00:00",
+      "last_update": "2026-11-16T07:42:48+00:00",
+      "event": "At least 11 killed in blaze on Thailand’s Phuket island",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "also",
+        "are",
+        "arson",
+        "authorities",
+        "blaze",
+        "but",
+        "cause",
+        "fire",
+        "have",
+        "injured",
+        "investigating",
+        "island",
+        "killed",
+        "least",
+        "out",
+        "phuket",
+        "ruled",
+        "thailand",
+        "the",
+        "which"
+      ],
+      "source_excerpt": "Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
+          "published_at": "2026-11-16T07:42:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9edc82cc9743ae4c1a0fbdce",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T07:24:45+00:00",
+      "last_update": "2026-11-16T07:24:45+00:00",
+      "event": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "34kg",
+        "abandoning",
+        "agency",
+        "airport",
+        "american",
+        "anti",
+        "arrested",
+        "attempted",
+        "basketball",
+        "cannabis",
+        "drugs",
+        "his",
+        "leave",
+        "luggage",
+        "nigerian",
+        "player",
+        "says",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T07:24:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f83c62370e9dc6453e82c71c",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T07:26:47+00:00",
+      "last_update": "2026-11-16T09:42:10+00:00",
+      "event": "Jay Shah re-elected as ICC chairman for second term",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "chairman",
+        "elected",
+        "for",
+        "icc",
+        "jay",
+        "samaa",
+        "second",
+        "shah",
+        "term"
+      ],
+      "source_excerpt": "Jay Shah re-elected as ICC chairman for second term samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkc5ZzVSQ21xWE51ZTIwQnNvcDBnRkpqQVFNWjRhQ0wxZ2xKODlTYnJBdlNYc2g5N0JUUmt4YVZEOGlLT2VjazM0UGhfV3lpUTZSRmtwS3kwYVdtZkRuYTNpS1lJWHNiR3NTek1UVmFOdkZvY1dLamZUeTFIcE42NVU2bU8zcmwxRFZR?oc=5",
+          "published_at": "2026-11-16T07:26:47+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/shah-elected-for-second-term-as-icc-chair",
+          "published_at": "2026-11-16T09:42:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkc5ZzVSQ21xWE51ZTIwQnNvcDBnRkpqQVFNWjRhQ0wxZ2xKODlTYnJBdlNYc2g5N0JUUmt4YVZEOGlLT2VjazM0UGhfV3lpUTZSRmtwS3kwYVdtZkRuYTNpS1lJWHNiR3NTek1UVmFOdkZvY1dLamZUeTFIcE42NVU2bU8zcmwxRFZR?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f3b233df5f656df056c1584f",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T09:18:55+00:00",
+      "last_update": "2026-11-16T09:18:55+00:00",
+      "event": "SC grants post-arrest bail to 4 suspects in human placenta smuggling case",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abbasi",
+        "ahmad",
+        "ahmed",
+        "alleged",
+        "and",
+        "aqeel",
+        "arrest",
+        "arrested",
+        "bail",
+        "bench",
+        "case",
+        "chi",
+        "comprising",
+        "court",
+        "four",
+        "granted",
+        "grants",
+        "headed",
+        "human",
+        "illegal",
+        "islamabad",
+        "justice",
+        "khan",
+        "member",
+        "monday",
+        "placenta",
+        "placentas",
+        "post",
+        "purchase",
+        "relating",
+        "sale",
+        "shahzad",
+        "smuggling",
+        "supreme",
+        "suspects",
+        "the",
+        "three",
+        "two"
+      ],
+      "source_excerpt": "ISLAMABAD: The Supreme Court (SC) on Monday granted post-arrest bail to four suspects arrested in a case relating to the alleged illegal purchase and sale of human placentas. A two-member bench, headed by Justice Shahzad Ahmad Khan and comprising Justice Aqeel Ahmed Abbasi, granted bail to three Chi",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2044914/sc-grants-post-arrest-bail-to-4-suspects-in-human-placenta-smuggling-case",
+          "published_at": "2026-11-16T09:18:55+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRkFyX2wwa2xEeVp4S1NQcVNPek1MR0kzOWR2bFpYRzY3aFZlQXI2XzhhRjBKNGQxX2tSOEV2bV9DR1J5QWdvVEZZUjBjYTlacWxQX3NDZVNrX0lpQ29sUVdpTlRGa0hidnZiMmNlLW5RWkYwdWNwWDNLUlN3Y2w2MVVhMXE3cVBra2NfdzFleVV6OFlyN1RTNFVhbGtoSmRtNEZIck5ySmhEbjQ?oc=5",
+          "published_at": "2026-11-16T09:18:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2044914/sc-grants-post-arrest-bail-to-4-suspects-in-human-placenta-smuggling-case",
+        "publisher_url": "https://www.dawn.com/news/2044914/sc-grants-post-arrest-bail-to-4-suspects-in-human-placenta-smuggling-case",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "adc3badafe76bd9a5a2ea22f",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:05:27+00:00",
+      "last_update": "2026-11-16T09:26:23+00:00",
+      "event": "DRAP issues alert over fake children’s vaccine in vial form",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alert",
+        "children",
+        "drap",
+        "fake",
+        "form",
+        "issues",
+        "over",
+        "vaccine",
+        "vial"
+      ],
+      "source_excerpt": "DRAP issues alert over fake children’s vaccine in vial form",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/drap-issues-alert-over-fake-childrens-vaccine-in-vial-form",
+          "published_at": "2026-11-16T08:05:27+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/16/drap-issues-alert-over-fake-vaccine-for-children/",
+          "published_at": "2026-11-16T09:26:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/drap-issues-alert-over-fake-childrens-vaccine-in-vial-form",
+        "publisher_url": "https://arynews.tv/drap-issues-alert-over-fake-childrens-vaccine-in-vial-form",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4530f690a0c5f7d628075730",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T07:11:46+00:00",
+      "last_update": "2026-11-16T08:54:05+00:00",
+      "event": "3 ایم پی او کے تحت گرفتاریاں، پی ٹی آئی کی درخواست منظور، وفاقی آئینی عدالت کی اپنے حکم میں ترمیم",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "آئی",
+        "آئینی",
+        "انصاف",
+        "اپنے",
+        "ایم",
+        "تحت",
+        "تحریک",
+        "ترمیم",
+        "حکم",
+        "درخواست",
+        "عدالت",
+        "فائل",
+        "فوٹوخیبرپختونخوا",
+        "متعلق",
+        "منظور",
+        "منظور،",
+        "میں",
+        "وفاقی",
+        "پاکستان",
+        "کیس",
+        "گرفتاریاں،",
+        "گرفتاریوں"
+      ],
+      "source_excerpt": "---فائل فوٹوخیبرپختونخوا میں 3 ایم پی او کے تحت گرفتاریوں سے متعلق کیس میں وفاقی آئینی عدالت نے پاکستان تحریک انصاف کی درخواست منظور...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1633907",
+          "published_at": "2026-11-16T07:11:46+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5011945",
+          "published_at": "2026-11-16T08:15:04+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5011980",
+          "published_at": "2026-11-16T08:54:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1633907",
+        "publisher_url": "https://jang.com.pk/news/1633907",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aa778844ea20c7004ffdf14f",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T09:14:11+00:00",
+      "last_update": "2026-11-16T09:14:11+00:00",
+      "event": "Pakistan federal govt debt surges by Rs6,053bn in one year",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "053bn",
+        "debt",
+        "federal",
+        "govt",
+        "one",
+        "pakistan",
+        "rs6",
+        "samaa",
+        "surges",
+        "year"
+      ],
+      "source_excerpt": "Pakistan federal govt debt surges by Rs6,053bn in one year samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMldDcTJ5em5YTlBhc1c2TU10WWtfTHVyY01KdmtnOTVfdjQ2YW5nVzA3YWltVjJfMTVKR3FNV0NKbkJ4QXZpaWZYazRfckJlQ1kxLTUwQ0h2UU1DOE05V1FkMGhaZENoNjItZ1BubkpHeFBmR0tHaFJyOExhWFQzUVVfaFNsUWpa?oc=5",
+          "published_at": "2026-11-16T09:14:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMldDcTJ5em5YTlBhc1c2TU10WWtfTHVyY01KdmtnOTVfdjQ2YW5nVzA3YWltVjJfMTVKR3FNV0NKbkJ4QXZpaWZYazRfckJlQ1kxLTUwQ0h2UU1DOE05V1FkMGhaZENoNjItZ1BubkpHeFBmR0tHaFJyOExhWFQzUVVfaFNsUWpa?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3113ade22bbd2c571224e9d1",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T08:55:15+00:00",
+      "last_update": "2026-11-16T08:55:15+00:00",
+      "event": "Punjab Is Running Out of Water: UN Report Explained | Pakistan | Dawn News English",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "english",
+        "explained",
+        "news",
+        "out",
+        "pakistan",
+        "punjab",
+        "report",
+        "running",
+        "water"
+      ],
+      "source_excerpt": "Punjab Is Running Out of Water: UN Report Explained | Pakistan | Dawn News English Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTDlIYW1vcG9vRWxDbmo5bHJRS21ibEpuLXZIN29wZXJ6cXZXY3JxU3BEM2JiaFZCMk9ZekFNaEtoNmFBN1RRc3JiZlVFWnlRR0ptQUlzMTIzUWhQbGttWDhYQlNRZ3VCWWREMVlFdEpxa2g5Y1BzcEhQd1JIUS1hamF6ZmpkS0U1WmhyeEFuMHkzdjdIYzdJNjZReEVYSloxcUx4bjJiWjNmcVduT1FjMA?oc=5",
+          "published_at": "2026-11-16T08:55:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTDlIYW1vcG9vRWxDbmo5bHJRS21ibEpuLXZIN29wZXJ6cXZXY3JxU3BEM2JiaFZCMk9ZekFNaEtoNmFBN1RRc3JiZlVFWnlRR0ptQUlzMTIzUWhQbGttWDhYQlNRZ3VCWWREMVlFdEpxa2g5Y1BzcEhQd1JIUS1hamF6ZmpkS0U1WmhyeEFuMHkzdjdIYzdJNjZReEVYSloxcUx4bjJiWjNmcVduT1FjMA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ba776f92a0c4e57bc14a6c19",
+      "remembered_at": "2026-11-16T09:58:23.109473+00:00",
+      "event_date": "2026-11-16T09:39:50+00:00",
+      "last_update": "2026-11-16T09:39:50+00:00",
+      "event": "FCC conditionally allows PHC to hear cases related to PTI workers' preventive detention",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activists",
+        "allowing",
+        "allows",
+        "and",
+        "cases",
+        "conditionally",
+        "constitutional",
+        "court",
+        "detention",
+        "directives",
+        "earlier",
+        "fcc",
+        "federal",
+        "following",
+        "hear",
+        "high",
+        "imposit",
+        "islamabad",
+        "its",
+        "maintenance",
+        "modified",
+        "monday",
+        "mpo",
+        "order",
+        "ordinance",
+        "peshawar",
+        "phc",
+        "preventive",
+        "pti",
+        "public",
+        "related",
+        "the",
+        "under",
+        "workers"
+      ],
+      "source_excerpt": "ISLAMABAD: The Federal Constitutional Court (FCC) modified its earlier directives on Monday, conditionally allowing the Peshawar High Court (PHC) to hear cases related to the preventive detention of PTI workers and activists under the Maintenance of Public Order Ordinance (MPO) following the imposit",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2044911/fcc-conditionally-allows-phc-to-hear-cases-related-to-pti-workers-preventive-detention",
+          "published_at": "2026-11-16T09:39:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2044911/fcc-conditionally-allows-phc-to-hear-cases-related-to-pti-workers-preventive-detention",
+        "publisher_url": "https://www.dawn.com/news/2044911/fcc-conditionally-allows-phc-to-hear-cases-related-to-pti-workers-preventive-detention",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-16T07:19:09.328128+00:00"
+  "updated_at": "2026-11-16T09:58:23.109473+00:00"
 }
