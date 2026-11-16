@@ -926,6 +926,7 @@ def make_direct_publisher_story(cluster):
         "region": "", "global_impact": 0,
         "why_pk": "Published by an established international newsroom." if global_outlet else "Published by an established Pakistani newsroom.",
         "original_source": {"type": source_type, "name": source_name, "url": lead.get("link", ""),
+                            "publisher_url": lead.get("publisher_url") or lead.get("link", ""),
                             "basis": "Original publisher feed/search item; direct publishing lane."},
         "corroborating": [], "explanation": "Direct publisher lane; no AI assessment or second-source check.",
         "discovery": {"name": source_name, "url": lead.get("link", "")},
@@ -2208,31 +2209,78 @@ def main():
     else:
         print("[info] no new story clusters to analyse (no Gemini call made)")
 
-    # Revalidate stories already in the queue after the stricter editorial policy rollout.
-    # Old queued posts without sufficient provenance are held for human review, never auto-published.
-    held_old=0
+    # Revalidate legacy queued stories against the CURRENT source policy before any post.
+    # This prevents pre-rollout Indian/unsupported sources or unverified fast-lane labels
+    # from slipping through after the rules have changed.
+    held_old = 0
+    excluded_old = 0
     for queued in queue["items"]:
-        if queued.get("status")!="queued" or queued.get("type") == "engage":
+        if queued.get("status") != "queued" or queued.get("type") == "engage":
             continue
-        meta=queued.get("meta") or {}
-        # Trusted publisher items carry an explicit direct-source marker and are not
-        # retroactively sent through the ordinary AI score gate on the next run.
-        if meta.get("direct_source"):
+        meta = queued.get("meta") or {}
+        original = meta.get("original_source") or {}
+        discovery = meta.get("discovery") or {}
+        names = [str(x or "").strip() for x in (
+            discovery.get("name"), original.get("name"), queued.get("source_name")
+        ) if str(x or "").strip()]
+        source_label = " | ".join(names)
+        source_text = " ".join(str(x or "") for x in (
+            queued.get("headline"), queued.get("title"), queued.get("caption"),
+            discovery.get("name"), original.get("name")
+        ))
+        candidate_urls = [
+            original.get("publisher_url"), original.get("url"),
+            discovery.get("publisher_url"), discovery.get("url")
+        ]
+        source_url = next((str(u) for u in candidate_urls if u), "")
+        if is_blocked(source_label, source_url, source_text):
+            queued["status"] = "failed"
+            queued["failure_reason"] = "Excluded by current source policy (Indian outlet, India-source restriction, or excluded Pakistan report)."
+            meta["source_policy_excluded"] = True
+            queued["meta"] = meta
+            excluded_old += 1
             continue
-        scores=meta.get("scores") or {}
-        legacy_story={"scope":meta.get("scope"),"importance_class":meta.get("importance_class"),
-                      "confidence":scores.get("confidence"),"importance":scores.get("importance"),
-                      "public_interest":scores.get("public_interest"),"urgency":scores.get("urgency"),"national_impact":meta.get("national_impact"),
-                      "regional_impact":meta.get("regional_impact"),"global_impact":meta.get("global_impact"),
-                      "pakistan_relevance":scores.get("pakistan_relevance"),"why_pk":meta.get("why_pk")}
-        accepted,reason=ep.eligible(legacy_story)
+
+        allowed_publisher_url = ""
+        for candidate_url in candidate_urls:
+            host = (urlparse(str(candidate_url or "")).hostname or "").removeprefix("www.")
+            if any(host == d or host.endswith("." + d) for d in set(TRUSTED_PUBLISHERS) | INTERNATIONAL_DESKS):
+                allowed_publisher_url = str(candidate_url)
+                break
+        publisher_member = {
+            "source": source_label, "link": source_url,
+            "publisher_url": allowed_publisher_url
+        }
+        claimed_direct = bool(meta.get("direct_source") or meta.get("source_lane") == "publisher_fast_lane")
+        verified_direct = is_fast_lane_member(publisher_member)
+        if claimed_direct and not verified_direct:
+            queued["status"] = "needs_review"
+            queued["needs_review_at"] = iso(t0)
+            queued["review_reason"] = "Legacy fast-lane item lacks a verifiable original publisher domain; held to prevent an unverified post."
+            held_old += 1
+            continue
+        if verified_direct:
+            meta["direct_source"] = True
+            meta["source_lane"] = "publisher_fast_lane"
+            meta.setdefault("editorial_priority_band", "P2")
+            queued["meta"] = meta
+            continue
+
+        scores = meta.get("scores") or {}
+        legacy_story = {"scope": meta.get("scope"), "importance_class": meta.get("importance_class"),
+                        "confidence": scores.get("confidence"), "importance": scores.get("importance"),
+                        "public_interest": scores.get("public_interest"), "urgency": scores.get("urgency"),
+                        "national_impact": meta.get("national_impact"),
+                        "regional_impact": meta.get("regional_impact"), "global_impact": meta.get("global_impact"),
+                        "pakistan_relevance": scores.get("pakistan_relevance"), "why_pk": meta.get("why_pk")}
+        accepted, reason = ep.eligible(legacy_story)
         if not accepted:
-            queued["status"]="needs_review"
-            queued["needs_review_at"]=iso(t0)
-            queued["review_reason"]="Strict headline recheck: "+reason
-            held_old+=1
-    if held_old:
-        print(f"[quality] moved {held_old} legacy queued stories to needs_review under the new headline gate")
+            queued["status"] = "needs_review"
+            queued["needs_review_at"] = iso(t0)
+            queued["review_reason"] = "Strict headline recheck: " + reason
+            held_old += 1
+    if held_old or excluded_old:
+        print(f"[queue-policy] held for review={held_old}; excluded by current source rules={excluded_old}")
 
     publish_ok = True
     # Publish at most one Facebook news poster per run
