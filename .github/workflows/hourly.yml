@@ -15,7 +15,9 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-concurrency: news-hub
+concurrency:
+  group: news-hub
+  cancel-in-progress: false
 defaults:
   run:
     working-directory: news-hub   # the project lives in the news-hub folder of the repo
@@ -44,9 +46,13 @@ jobs:
           else
             cp "${GITHUB_WORKSPACE}/news-hub/state.json" "${GITHUB_WORKSPACE}/news-hub/queue.json" . 2>/dev/null || true
           fi
-      - name: Validate newsroom Python files
-        run: python -m py_compile main.py editorial.py poster.py sources.py controversy.py news_memory.py editorial_policy.py editorial_quality.py && python -m unittest discover -s tests -v
-      - run: python main.py
+      - name: Compile newsroom Python files
+        run: python -m py_compile main.py editorial.py poster.py sources.py controversy.py news_memory.py editorial_policy.py editorial_quality.py
+      - name: Run editorial and poster regression tests
+        if: ${{ github.event_name != 'schedule' }}
+        run: python -m unittest discover -s tests -v
+      - name: Run newsroom
+        run: python main.py
         env:
           STATE_DIR: /tmp/data
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -71,3 +77,18 @@ jobs:
           git add -A
           if git rev-parse --verify -q HEAD >/dev/null; then git commit -q --amend -m "bot data" ; else git commit -q -m "bot data"; fi
           git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" HEAD:bot-data
+      - name: Prepare production audit artifact
+        if: always()
+        run: |
+          mkdir -p audit-artifacts/posters
+          cp /tmp/data/reports/latest.md audit-artifacts/latest-report.md 2>/dev/null || true
+          cp posters/*.jpg audit-artifacts/posters/ 2>/dev/null || true
+          printf 'run_id=%s\\nevent=%s\\nsha=%s\\n' "${GITHUB_RUN_ID}" "${GITHUB_EVENT_NAME}" "${GITHUB_SHA}" > audit-artifacts/run-metadata.txt
+      - name: Upload newsroom diagnostics and poster previews
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: newsroom-run-${{ github.run_id }}
+          path: news-hub/audit-artifacts/
+          if-no-files-found: warn
+          retention-days: 14
