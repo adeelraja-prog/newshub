@@ -869,7 +869,14 @@ def make_direct_publisher_story(cluster):
 def analyse(clusters):
     direct_clusters = [c for c in clusters if is_direct_publisher_cluster(c)]
     regular_clusters = [c for c in clusters if not is_direct_publisher_cluster(c)]
-    direct_stories = [make_direct_publisher_story(c) for c in direct_clusters]
+    direct_stories = []
+    for cluster in direct_clusters:
+        try:
+            direct_stories.append(make_direct_publisher_story(cluster))
+        except Exception as ex:
+            print(f"[publisher-fast-lane] malformed publisher item retained for retry: {ex}")
+            if isinstance(cluster.get("hist"), dict):
+                cluster["hist"]["analysed_n"] = None
     if direct_stories:
         print(f"[publisher-fast-lane] {len(direct_stories)} stories bypass AI assessment, scoring and second-source checks")
     # The regular AI lane is optional: its outage must never discard trusted-publisher stories.
