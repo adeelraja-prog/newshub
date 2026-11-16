@@ -1641,7 +1641,7 @@ def post_facebook_photo_story(path):
         raise RuntimeError(f"Story photo upload returned no photo id: {upload.text[:300]}")
     story = requests.post(
         f"https://graph.facebook.com/{GRAPH_API_VERSION}/{page}/photo_stories",
-        data={"photo_id": photo_id, "access_token": token}, timeout=90)
+        data={"photo_id": photo_id, "access_token": token}, timeout=25)
     if story.status_code != 200 or not story.json().get("success"):
         raise RuntimeError(f"Facebook Story publish {story.status_code}: {story.text[:300]}")
     story_id = story.json().get("post_id")
