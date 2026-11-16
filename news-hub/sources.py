@@ -18,8 +18,8 @@ TRUSTED_PUBLISHERS = {
 }
 
 SOURCES = [
-    # FIRST FETCH BATCH: all ten approved Pakistani publisher desks are submitted
-    # together before general discovery feeds. The collector has 12 workers.
+    # FIRST FETCH BATCH: all ten approved publisher labels are covered across nine
+    # unique domains (Dunya News and Dunya TV share one site), before general discovery feeds.
     gnews("site:geo.tv", "Geo News Fast Lane"),
     gnews("site:arynews.tv", "ARY News Fast Lane"),
     gnews("site:samaa.tv", "Samaa Fast Lane"),
