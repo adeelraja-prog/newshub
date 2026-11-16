@@ -376,6 +376,27 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             with self.subTest(name=name):
                 self.assertTrue(newsroom.is_blocked(name, url, "International news report"))
 
+    def test_mixed_cluster_direct_copy_uses_trusted_publisher_member_only(self):
+        instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
+        untrusted = {"source": "The Guardian", "kind": "local",
+                     "link": "https://www.theguardian.com/world/example",
+                     "title": "Syndicated headline from an untrusted cluster lead",
+                     "snippet": "Syndicated excerpt"}
+        trusted = {"source": "Geo News", "kind": "local",
+                   "link": "https://www.geo.tv/news/example",
+                   "title": "Geo News original headline",
+                   "snippet": "Geo News original excerpt"}
+        cluster = {"id": "mixed-cluster", "members": [untrusted, trusted],
+                   "lead": untrusted, "title": untrusted["title"], "excerpt": "",
+                   "sources": ["The Guardian", "Geo News"],
+                   "first_pub": instant, "last_pub": instant, "sig": {"viral_measured": 0}}
+        story = newsroom.make_direct_publisher_story(cluster)
+        self.assertEqual(story["event"], "Geo News original headline")
+        self.assertEqual(story["original_source"]["name"], "Geo News")
+        self.assertEqual(story["excerpt"], "Geo News original excerpt")
+        self.assertEqual(story["sources"], ["Geo News"])
+        self.assertEqual(story["cluster"]["lead"]["source"], "Geo News")
+
     def test_nonbreaking_trusted_publisher_story_uses_normal_queue(self):
         instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
         member = {"source": "Dawn", "link": "https://www.dawn.com/news/example",
