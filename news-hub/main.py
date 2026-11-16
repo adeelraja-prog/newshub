@@ -2044,7 +2044,13 @@ def main():
                 is_direct_publisher_cluster(c) and has_explicit_breaking_publisher_item(c)
                 for c in candidates
             )
-            defer_ordinary = depth < QUEUE_CAP or direct_breaking_waiting
+            normal_slots_left = max(0, QUEUE_CAP - depth)
+            direct_candidate_count = sum(1 for c in candidates if is_direct_publisher_cluster(c))
+            # Defer ordinary AI only when trusted items can fill every normal slot.
+            # If there are fewer trusted items, use the remaining capacity for the verified AI lane.
+            defer_ordinary = direct_breaking_waiting or (
+                normal_slots_left > 0 and direct_candidate_count >= min(SELECT_N, normal_slots_left)
+            )
             stories = analyse(candidates, defer_ordinary=defer_ordinary)
             # Soft-PR desk: retain promotional announcements as research leads, but do not schedule
             # them until independent accountability evidence is found. This is a hold, not a verdict.
