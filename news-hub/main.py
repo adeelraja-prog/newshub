@@ -397,9 +397,9 @@ INTERNATIONAL_DESKS = {
     "bbc.com", "bbc.co.uk", "cnn.com", "aljazeera.com",
 }
 PAKISTAN_TOPIC = re.compile(
-    r"\\b(pakistan|pakistani|islamabad|rawalpindi|lahore|karachi|peshawar|quetta|"
+    r"\b(pakistan|pakistani|islamabad|rawalpindi|lahore|karachi|peshawar|quetta|"
     r"punjab|sindh|balochistan|khyber pakhtunkhwa|pti|imran khan|shahbaz sharif|"
-    r"shehbaz sharif|asif zardari)\\b|پاکستان|اسلام آباد|راولپنڈی|لاہور|کراچی|پشاور|کوئٹہ",
+    r"shehbaz sharif|asif zardari)\b|پاکستان|اسلام آباد|راولپنڈی|لاہور|کراچی|پشاور|کوئٹہ",
     re.I,
 )
 
