@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""Adeel Raja News Hub v2: an editorial desk, not an RSS poster.
+"""Adeel Raja News Hub: ten-minute Facebook newsroom pipeline.
 
-Every ten-minute run: collect -> cluster -> direct publisher lane / AI analysis -> queue -> publish one due post.
--> balanced selection -> Gemini writing -> QUEUE (queue.json) -> publish at most ONE due post.
-Facebook authorization and posting code (post_facebook) is unchanged from v1.
+Collect -> cluster -> trusted publisher fast lane / ordinary AI desk -> write -> queue
+-> durably checkpoint -> publish at most one due Facebook Page post per run.
 """
 import calendar
 import glob
@@ -1425,7 +1424,7 @@ def enqueue(queue, story, w, caption, t0):
 
 def housekeeping(queue, t0):
     # Never silently discard a queued story. Once its planned slot is too old,
-    # retain it for editorial review instead of marking it expired.
+    # move it to a time-bounded review archive instead of publishing it late.
     for it in queue["items"]:
         if it["status"] == "queued":
             ttl = 3 if it.get("type") == "engage" else {"breaking": 3, "high": 6, "promo": 24}.get(it["priority"], QUEUE_TTL_H)
