@@ -1965,7 +1965,6 @@ def main():
                 if story.get("direct_source"):
                     publishable_direct = story
                     publishable_direct["quality_review"] = {"decision": "approved", "score_penalty": 0}
-                    research_cases.append(publishable_direct) if False else None
                     continue
                 review = story.get("quality_review") or eq.assess_story(story)
                 story["quality_review"] = review
@@ -2083,7 +2082,9 @@ def main():
             for n, story in enumerate(chosen, 1):
                 if n not in written:
                     story["cluster"]["hist"]["analysed_n"] = None
-            written, unchecked = fact_check(chosen, written)   # nothing is queued without passing the fact-check
+            # Trusted publisher fast-lane items bypass this check; all other written items
+            # remain fail-closed and are retried if their additional AI check is unavailable.
+            written, unchecked = fact_check(chosen, written)
             for n in unchecked:  # fact-check could not run for these: retry them next time
                 chosen[n - 1]["cluster"]["hist"]["analysed_n"] = None
             normal_added = 0
