@@ -367,7 +367,7 @@ def collect_new(state):
                 print(f"[source-health] skipped malformed entry from {src.get('name','unknown')}: {entry_error}")
                 continue
     ok_sources = sum(1 for _, status, count, bozo in source_health if status == 200 and count > 0 and not bozo)
-    empty_sources = sum(1 for _, status, count, _ in source_health if count == 0)
+    empty_sources = sum(1 for _, status, count, _ in source_health if status != "ERROR" and count == 0)
     failed_sources = sum(1 for _, status, count, _ in source_health if status == "ERROR")
     malformed_sources = sum(1 for _, status, count, bozo in source_health if bozo)
     active_names = [name for name, status, count, bozo in source_health if status == 200 and count > 0 and not bozo]
@@ -380,7 +380,6 @@ def collect_new(state):
     for name, status, count, bozo in source_health:
         if status == "ERROR" or count == 0 or bozo:
             print(f"[source-health] {name}: status={status} entries={count} malformed={bozo}")
-    SOURCE_HEALTH[:] = source_health
     print(f"[info] collected {len(items)} new items from {len(SOURCES)} configured feeds/searches")
     return items, stats
 
