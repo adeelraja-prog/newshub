@@ -32,6 +32,12 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             "India election results and parliament debate"
         ))
 
+    def test_india_desk_label_still_excludes_its_pakistan_story(self):
+        self.assertTrue(newsroom.is_blocked(
+            "BBC India General Desk", "https://news.google.com/rss/articles/example",
+            "Pakistan cabinet decision in Islamabad"
+        ))
+
     def test_indian_outlet_is_blocked_even_when_story_is_international(self):
         self.assertTrue(newsroom.is_blocked(
             "The Hindu", "https://www.thehindu.com/news/example",
