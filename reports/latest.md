@@ -1,32 +1,32 @@
-# News Hub report - Mon 16 Nov, 02:58 PM PKT
+# News Hub report - Mon 16 Nov, 04:24 PM PKT
 
 ## Collection
-- New items this run: 280 | items in rolling pool: 629
-- Unique story clusters: 552 (duplicates merged: 77)
-- Clusters dropped as already published/queued: 20; unchanged since last analysis: 42
-- Items per outlet: UrduPoint 102, Geo News 26, ARY News 16, Al Jazeera 13, TechJuice 12, samaa tv 11, ProPakistani 10, The Current 9, Profit by Pakistan Today 7, Dawn Pakistan 6, Dawn 5, UNITED24 Media 4
+- New items this run: 183 | items in rolling pool: 617
+- Unique story clusters: 537 (duplicates merged: 80)
+- Clusters dropped as already published/queued: 20; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 60, Geo News 14, ProPakistani 11, Dunya News 10, Al Jazeera 9, samaa tv 8, ARY News 6, Dawn 4, The Express Tribune 4, Investify 4, X 3, The Current 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Iran war live: Third US carrier arrives, Iran warns it could strike first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Geo Pakistan | 16 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan Shaheens leave for Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Prince and Princess of Wales play street cricket in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tehran trusts Islamabad as ‘good friend’, says Araghchi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Iran war live: Third US carrier arrives, Iran warns it could strike first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Geo Pakistan | 16 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan Shaheens leave for Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Prince and Princess of Wales play street cricket in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tehran trusts Islamabad as ‘good friend’, says Araghchi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Iran war live: Third US carrier arrives, Iran warns it could strike first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Geo Pakistan | 16 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan Shaheens leave for Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Prince and Princess of Wales play street cricket in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tehran trusts Islamabad as ‘good friend’, says Araghchi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
@@ -37,90 +37,90 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Iran war live: Third US carrier arrives, Iran warns it could strike first  [NORMAL]
-- Poster:  / Iran war live: Third US carrier arrives, Iran warns it could strike first | category other
-- Alternative headline: Iran war live: Third US carrier arrives, Iran warns it could strike first
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzh6c3o5bEFNTllEY21FaVJJTkk3SzBhWWtBV1hjQkxETmNSTXdQemp5TXBqbTUxTHVlVzNKbzEzYjFidWtMNld5OFFFY1ZIYmkwd2ZuUEdBZ2Fabmc1YjR5ZUJUbzdfLVFRT1pPNlRBdGgxSHNxQWlBbmlWSXhWOS1HRHBjdUU3YkRhTmltSEhpa3FsNTFDUUF0Mm9PTmFDU2wtZXpReDkwWG81XzJqZFMycE53MVdFZlY4SE1pZ9IBxAFBVV95cUxOOG9VVnFZTngzajNEOWVjZk9SbV8td3JQOUk2MnpQYVBrd1Z0VEFGd29xTVdFRlhRR3daUi11LVQxNDlVaE91cUYtMVZxelVrejhnVlVmQU14RDZTZEtndTNjdGJfeU5DZ1Fwc0wxM2RzME5lQnJKNm1veEZLRVk4V2ptY1hqQk93Qmh3YmFqOGJ4dVJlVjI2ck8zNXNpem1BYnRKa2FTTWVnMEtyT29wa2h3QnFwMDJaNkNiWVNGYmJWUmFJ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzh6c3o5bEFNTllEY21FaVJJTkk3SzBhWWtBV1hjQkxETmNSTXdQemp5TXBqbTUxTHVlVzNKbzEzYjFidWtMNld5OFFFY1ZIYmkwd2ZuUEdBZ2Fabmc1YjR5ZUJUbzdfLVFRT1pPNlRBdGgxSHNxQWlBbmlWSXhWOS1HRHBjdUU3YkRhTmltSEhpa3FsNTFDUUF0Mm9PTmFDU2wtZXpReDkwWG81XzJqZFMycE53MVdFZlY4SE1pZ9IBxAFBVV95cUxOOG9VVnFZTngzajNEOWVjZk9SbV8td3JQOUk2MnpQYVBrd1Z0VEFGd29xTVdFRlhRR3daUi11LVQxNDlVaE91cUYtMVZxelVrejhnVlVmQU14RDZTZEtndTNjdGJfeU5DZ1Fwc0wxM2RzME5lQnJKNm1veEZLRVk4V2ptY1hqQk93Qmh3YmFqOGJ4dVJlVjI2ck8zNXNpem1BYnRKa2FTTWVnMEtyT29wa2h3QnFwMDJaNkNiWVNGYmJWUmFJ?oc=5
-- Supporting coverage: X, X, The Sunday Guardian, Times Now, Al Jazeera, The National
-- Keywords: Iran war live: Third US | hashtags: 
-- Scheduled: Mon 16 Nov, 02:58 PM PKT
-- Caption:
-```
-Iran war live: Third US carrier arrives, Iran warns it could strike first
-
-Iran war live: Third US carrier arrives, Iran warns it could strike first Al Jazeera
-
-Source: Al Jazeera
-```
-
-### Geo Pakistan | 16 November 2026  [NORMAL]
-- Poster:  / Geo Pakistan | 16 November 2026 | category other
-- Alternative headline: Geo Pakistan | 16 November 2026
+### 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects  [NORMAL]
+- Poster:  / 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | category other
+- Alternative headline: 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYlRjUXhwZ1N4eXU4NUNiajFZQkJxcW1qZzI4TU1vZ01MWi13bGNPeEhVTWctQXJfWmVsQWtpOE43MUI3aTl4eEVqbzdJZTZoMUJOeGtfd2JzY092ZUNZa1FkN1ZXVjlYZVVKaUtNR0RxRlBfYWhpcEdfX2tqRUk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYlRjUXhwZ1N4eXU4NUNiajFZQkJxcW1qZzI4TU1vZ01MWi13bGNPeEhVTWctQXJfWmVsQWtpOE43MUI3aTl4eEVqbzdJZTZoMUJOeGtfd2JzY092ZUNZa1FkN1ZXVjlYZVVKaUtNR0RxRlBfYWhpcEdfX2tqRUk?oc=5
-- Supporting coverage: Dawn, Pakistan Observer, TechJuice, Geo News, Daily Jang ePaper, Daily Jang ePaper
-- Keywords: Geo Pakistan | 16 November | hashtags: 
-- Scheduled: Mon 16 Nov, 03:08 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0FpXzF1WGotMVFLM2RrelhuZnlmMFR6MjhLazlYWE1fUm1kTGFwWGh0UnJuVW1LakVOYVFOVEgzZlBseFZCSmJqUVE0aW92NTVEVHl6N3RDMUdEWE9wcWh4cms0Y2xGU2dUaElkd2N4ejlxWHBRZk9NQVA4Qm84ZzZ3TVNuSElCLUFNVEZBM0dCaVcxZUdnVU1aRl84SjVkQXZ5cE5rUDd6aTBNejFxMkJKWFBVcEQ0UGlhbms3bmR6UQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0FpXzF1WGotMVFLM2RrelhuZnlmMFR6MjhLazlYWE1fUm1kTGFwWGh0UnJuVW1LakVOYVFOVEgzZlBseFZCSmJqUVE0aW92NTVEVHl6N3RDMUdEWE9wcWh4cms0Y2xGU2dUaElkd2N4ejlxWHBRZk9NQVA4Qm84ZzZ3TVNuSElCLUFNVEZBM0dCaVcxZUdnVU1aRl84SjVkQXZ5cE5rUDd6aTBNejFxMkJKWFBVcEQ0UGlhbms3bmR6UQ?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, Dawn Pakistan
+- Keywords: 13-year-old girl's murder case: Islamabad | hashtags: 
+- Scheduled: Mon 16 Nov, 04:24 PM PKT
 - Caption:
 ```
-Geo Pakistan | 16 November 2026
+13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects
 
-Geo Pakistan | 16 November 2026 Geo News
+13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects Dawn
+
+Source: Dawn
+```
+
+### Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO  [NORMAL]
+- Poster:  / Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO | category other
+- Alternative headline: Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEUzRE1RNWRobzl4ZjZ0aVBLYlhvRkZBNUJTUW5UQ0tNdFVXdUlLX0RuaC14RGRsc0FNTHo2WTlWVnlVb1ZNWmhvUXgtTGRfZGVRQUc1dVNVcVV5dElVWXI5d2w5LVYwTjc0ZHN4Z2RLX09MZmFWVlA1LW1JZWtJZy1vUkVfRWU3ZTZuTzZrWUZvRTR1TEpRNlBfRnN3WkxvSzVpaHZSLWJveExnRk05dk43em1yMUx5?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEUzRE1RNWRobzl4ZjZ0aVBLYlhvRkZBNUJTUW5UQ0tNdFVXdUlLX0RuaC14RGRsc0FNTHo2WTlWVnlVb1ZNWmhvUXgtTGRfZGVRQUc1dVNVcVV5dElVWXI5d2w5LVYwTjc0ZHN4Z2RLX09MZmFWVlA1LW1JZWtJZy1vUkVfRWU3ZTZuTzZrWUZvRTR1TEpRNlBfRnN3WkxvSzVpaHZSLWJveExnRk05dk43em1yMUx5?oc=5
+- Supporting coverage: Geo News, The Current, Dawn
+- Keywords: Action against terrorism must for | hashtags: 
+- Scheduled: Mon 16 Nov, 04:34 PM PKT
+- Caption:
+```
+Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO
+
+Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO Geo News
 
 Source: Geo News
 ```
 
-### Pakistan Shaheens leave for Rising Stars Asia Cup  [NORMAL]
-- Poster:  / Pakistan Shaheens leave for Rising Stars Asia Cup | category other
-- Alternative headline: Pakistan Shaheens leave for Rising Stars Asia Cup
+### In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi  [NORMAL]
+- Poster:  / In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi | category other
+- Alternative headline: In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/pakistan-shaheens-leave-for-rising-stars-asia-cup | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/pakistan-shaheens-leave-for-rising-stars-asia-cup
-- Supporting coverage: ARY News, Aaj English TV
-- Keywords: Pakistan Shaheens leave for Rising | hashtags: 
-- Scheduled: Mon 16 Nov, 03:18 PM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2044922/in-open-letter-to-fcc-sc-and-ihc-chief-justices-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2044922/in-open-letter-to-fcc-sc-and-ihc-chief-justices-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi
+- Supporting coverage: Dawn Pakistan, Pakistan Observer, Dawn Pakistan
+- Keywords: In open letter to FCC, | hashtags: 
+- Scheduled: Mon 16 Nov, 04:44 PM PKT
 - Caption:
 ```
-Pakistan Shaheens leave for Rising Stars Asia Cup
+In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi
 
-Pakistan Shaheens leave for Rising Stars Asia Cup
+Incarcerated PTI founder and former prime minister Imran Khan on Monday appealed for medical treatment for himself and his wife Bushra Bibi in an open letter to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and the Islamabad High Court (IHC). The letter was sha
 
-Source: ARY News
+Source: Dawn Pakistan
 ```
 
-### Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access  [NORMAL]
-- Poster:  / Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access | category other
-- Alternative headline: Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access
+### Prince and Princess of Wales play street cricket in Mumbai  [NORMAL]
+- Poster:  / Prince and Princess of Wales play street cricket in Mumbai | category other
+- Alternative headline: Prince and Princess of Wales play street cricket in Mumbai
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDZnQW9DLVcwc005V2d3cjdGRXNqTEVQalBkVGlQLTRtMUdDM0VUWVBmWU1vMDFRRkhmdURnczNWQ0xUUEJ4cVR6a0hpano5amZobEJBYmdUamk2a3NuTzItZEU0TDAzaEFkSzg0QktBQkY2VWoxa3NPTzNCUTQ5MEdFZHZ5VzZiWi1CMmE1WVU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDZnQW9DLVcwc005V2d3cjdGRXNqTEVQalBkVGlQLTRtMUdDM0VUWVBmWU1vMDFRRkhmdURnczNWQ0xUUEJ4cVR6a0hpano5amZobEJBYmdUamk2a3NuTzItZEU0TDAzaEFkSzg0QktBQkY2VWoxa3NPTzNCUTQ5MEdFZHZ5VzZiWi1CMmE1WVU?oc=5
-- Supporting coverage: ARYnews.tv, ARY News, BBC World, Ahram Online
-- Keywords: Australia, UK, Canada, Italy urge | hashtags: 
-- Scheduled: Mon 16 Nov, 03:28 PM PKT
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fbS1sY1ZfRk9BeHM3TmZZSDFnNjBJMTZSNVpDS2RtX2xLSG5nNU50UXVXV3RIRXN1QkxSY3c2X2tLLTc3WVRqanpmRHg0LXo5QmZsR052NjA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fbS1sY1ZfRk9BeHM3TmZZSDFnNjBJMTZSNVpDS2RtX2xLSG5nNU50UXVXV3RIRXN1QkxSY3c2X2tLLTc3WVRqanpmRHg0LXo5QmZsR052NjA?oc=5
+- Supporting coverage: BBC
+- Keywords: Prince and Princess of Wales | hashtags: 
+- Scheduled: Mon 16 Nov, 04:54 PM PKT
 - Caption:
 ```
-Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access
+Prince and Princess of Wales play street cricket in Mumbai
 
-Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid access ARYnews.tv
+Prince and Princess of Wales play street cricket in Mumbai BBC
 
-Source: ARYnews.tv
+Source: BBC
 ```
 
-- Indian outlets blocked this run: 9 items
+- Indian outlets blocked this run: 10 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -182,9 +182,9 @@ Source: ARYnews.tv
 - [needs_review] high | School Assembly News: Top headlines, thought and GK questions for Nov  | Mon 16 Nov, 07:48 AM PKT
 - [needs_review] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
 - [published] normal | Restoration of student unions demanded | Mon 16 Nov, 09:01 AM PKT
-- [queued] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
-- [queued] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
-- [queued] normal | Indonesian president apologises to Singapore, Malaysia for wildfire ha | Mon 16 Nov, 10:31 AM PKT
+- [needs_review] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
+- [needs_review] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
+- [published] normal | Indonesian president apologises to Singapore, Malaysia for wildfire ha | Mon 16 Nov, 10:31 AM PKT
 - [queued] normal | Iraqi armed group denies involvement in oil smuggling, calls probe a ‘ | Mon 16 Nov, 10:41 AM PKT
 - [queued] normal | Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in  | Mon 16 Nov, 10:51 AM PKT
 - [queued] normal | Pope Leo flies to mass in the Papacoptero | Mon 16 Nov, 11:01 AM PKT
@@ -196,9 +196,13 @@ Source: ARYnews.tv
 - [queued] normal | Geo Pakistan | 16 November 2026 | Mon 16 Nov, 03:08 PM PKT
 - [queued] normal | Pakistan Shaheens leave for Rising Stars Asia Cup | Mon 16 Nov, 03:18 PM PKT
 - [queued] normal | Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid acc | Mon 16 Nov, 03:28 PM PKT
+- [queued] normal | 13-year-old girl's murder case: Islamabad court grants police 4-day ph | Mon 16 Nov, 04:24 PM PKT
+- [queued] normal | Action against terrorism must for economic cooperation with Afghanista | Mon 16 Nov, 04:34 PM PKT
+- [queued] normal | In open letter to FCC, SC and IHC chief justices, Imran pleads for med | Mon 16 Nov, 04:44 PM PKT
+- [queued] normal | Prince and Princess of Wales play street cricket in Mumbai | Mon 16 Nov, 04:54 PM PKT
 
 ## Publishing this run
-- Published 'Restoration of student unions demanded'.
+- Published 'Indonesian president apologises to Singapore, Malaysia for wildfire haze'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

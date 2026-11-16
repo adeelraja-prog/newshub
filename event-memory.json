@@ -35012,7 +35012,949 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6815ea2f9d9f062e222803b2",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T09:51:15+00:00",
+      "last_update": "2026-11-16T10:30:00+00:00",
+      "event": "In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "appealed",
+        "bibi",
+        "bushra",
+        "chief",
+        "constitutional",
+        "court",
+        "fcc",
+        "federal",
+        "for",
+        "former",
+        "founder",
+        "high",
+        "him",
+        "himself",
+        "his",
+        "ihc",
+        "imran",
+        "incarcerated",
+        "islamabad",
+        "justices",
+        "khan",
+        "letter",
+        "medical",
+        "minister",
+        "monday",
+        "open",
+        "pleads",
+        "prime",
+        "pti",
+        "sha",
+        "supreme",
+        "the",
+        "treatment",
+        "was",
+        "wife"
+      ],
+      "source_excerpt": "Incarcerated PTI founder and former prime minister Imran Khan on Monday appealed for medical treatment for himself and his wife Bushra Bibi in an open letter to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and the Islamabad High Court (IHC). The letter was sha",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2044922/in-open-letter-to-fcc-sc-and-ihc-chief-justices-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi",
+          "published_at": "2026-11-16T09:51:15+00:00"
+        },
+        {
+          "name": "Pakistan Observer",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWURFVy1TaElZZHlUdkZnMGhIYTE2ZEhqTUZ4M2JReTFNLTNnbE5pUTNONThwc1k2ZEd1dXgwTVNpTGFuV0hZQ2JYOTJlbDNBMnN2WFdZVTRIckJzeEdmNnlTLXpqZUtTRmhmVUtWby1GTkwybW11QkdJdkk4MjlaTHhKMkZBXy1NTFRBS0tzaXdCNUxwUzFpZjRyMnI3bThTX2ZZakFwN2tSdUZkUGt0NHU2WU9YTVU?oc=5",
+          "published_at": "2026-11-16T10:26:38+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2044922/i-may-not-return-alive-in-open-letter-to-top-judges-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi",
+          "published_at": "2026-11-16T10:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2044922/in-open-letter-to-fcc-sc-and-ihc-chief-justices-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi",
+        "publisher_url": "https://www.dawn.com/news/2044922/in-open-letter-to-fcc-sc-and-ihc-chief-justices-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2dfdf58f5364ef1a96bbbee1",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T11:00:32+00:00",
+      "last_update": "2026-11-16T11:00:32+00:00",
+      "event": "Tehran trusts Islamabad as ‘good friend’, says Araghchi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "araghchi",
+        "dawn",
+        "friend",
+        "good",
+        "islamabad",
+        "says",
+        "tehran",
+        "trusts"
+      ],
+      "source_excerpt": "Tehran trusts Islamabad as ‘good friend’, says Araghchi Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3NPa2JHWE1CWXc2XzhjZmtqSllvQUZsTV9GTkRJemFmcnNSZFk2LWk0bURrMjhUMHJxUmw5SXZpNHh5VHYzc24tWEx5U1NnMXpUVWNvVWJONWJfcTd2UHMxNWhVZWswUkp4LUhJenhEYXFpRk5sa2ZqRW9KQmdOaHZOSFVIRWRZd00waXVhbw?oc=5",
+          "published_at": "2026-11-16T11:00:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3NPa2JHWE1CWXc2XzhjZmtqSllvQUZsTV9GTkRJemFmcnNSZFk2LWk0bURrMjhUMHJxUmw5SXZpNHh5VHYzc24tWEx5U1NnMXpUVWNvVWJONWJfcTd2UHMxNWhVZWswUkp4LUhJenhEYXFpRk5sa2ZqRW9KQmdOaHZOSFVIRWRZd00waXVhbw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe4f39b67664340b831fc257",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T10:41:20+00:00",
+      "last_update": "2026-11-16T10:41:20+00:00",
+      "event": "13 Years Old Girl Murder Case at Islamabad Police Headquarters: Shocking Details Emerge | Dunya News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "case",
+        "details",
+        "dunya",
+        "emerge",
+        "girl",
+        "headquarters",
+        "islamabad",
+        "murder",
+        "news",
+        "old",
+        "police",
+        "shocking",
+        "years"
+      ],
+      "source_excerpt": "13 Years Old Girl Murder Case at Islamabad Police Headquarters: Shocking Details Emerge | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbU00aTdrM3BEZm8yZ2loazg4U3AzUUs5ZFNLMXZGMVQ2QktxMG5TQnZpUE5nRzdWbktreGNNSUpySkJGaE5pM2ZRWFF0VVdhWUFYcV85Z2dJVHhkdHN5NkJKMDlqeTdoTUlUMWhhRXVkVnZ2U1VQS1E2ZHNRYmpELVUyMkFpdlZFX0xhS3FQdEZQRjZLU2xPc1ZtSE4zdWlhRTFYZlE3Z2IzNlVtUnNONkZoVUpJczhUWHI0Yk14TU9uOUkyeVhVVWpPN2phQXlLQlktamFsVk5mR1FYSFdXVWlIVHVaS0tGT0hYNQ?oc=5",
+          "published_at": "2026-11-16T10:41:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbU00aTdrM3BEZm8yZ2loazg4U3AzUUs5ZFNLMXZGMVQ2QktxMG5TQnZpUE5nRzdWbktreGNNSUpySkJGaE5pM2ZRWFF0VVdhWUFYcV85Z2dJVHhkdHN5NkJKMDlqeTdoTUlUMWhhRXVkVnZ2U1VQS1E2ZHNRYmpELVUyMkFpdlZFX0xhS3FQdEZQRjZLU2xPc1ZtSE4zdWlhRTFYZlE3Z2IzNlVtUnNONkZoVUpJczhUWHI0Yk14TU9uOUkyeVhVVWpPN2phQXlLQlktamFsVk5mR1FYSFdXVWlIVHVaS0tGT0hYNQ?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "86ddb057fe21e0820b6022ee",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T10:30:35+00:00",
+      "last_update": "2026-11-16T10:30:35+00:00",
+      "event": "Preparations Complete to Change Islamabad�s Administrative Status | Breaking News | Dunya News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administrative",
+        "breaking",
+        "change",
+        "complete",
+        "dunya",
+        "islamabad",
+        "news",
+        "preparations",
+        "status"
+      ],
+      "source_excerpt": "Preparations Complete to Change Islamabad�s Administrative Status | Breaking News | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM2szWkZxRV8zUzY4SXJScnFENkppUjBjVWJOdmprQklzbUw5ZWo2WDFwUWwtdU85OUdPOGItYjBOanFwc3N6cDFELUlXV2ltcDZlMWJrNmFraE9uOG5mcWFBSl83M0MybVhRMW1NTDBHbDZHVFR6Ul9yWGRQV1Fjck1pTFN1WWNvQ1dOTllzNWpYbTFCNURlNnZxY0lHLWk4bzYzR1RXMUN3LWVtdHRxa1lYOFhGQUhQUVBLak5aTzQ3dF84ZkpyRUp6SWRNQlBtNzh0ZHNnWldJMG5RU2lwX0V3?oc=5",
+          "published_at": "2026-11-16T10:30:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM2szWkZxRV8zUzY4SXJScnFENkppUjBjVWJOdmprQklzbUw5ZWo2WDFwUWwtdU85OUdPOGItYjBOanFwc3N6cDFELUlXV2ltcDZlMWJrNmFraE9uOG5mcWFBSl83M0MybVhRMW1NTDBHbDZHVFR6Ul9yWGRQV1Fjck1pTFN1WWNvQ1dOTllzNWpYbTFCNURlNnZxY0lHLWk4bzYzR1RXMUN3LWVtdHRxa1lYOFhGQUhQUVBLak5aTzQ3dF84ZkpyRUp6SWRNQlBtNzh0ZHNnWldJMG5RU2lwX0V3?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "90d8d6077f6334a2407cfd04",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T10:38:17+00:00",
+      "last_update": "2026-11-16T11:10:47+00:00",
+      "event": "PTI Founder sends letter to Chief Justice of Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "chief",
+        "founder",
+        "justice",
+        "letter",
+        "pakistan",
+        "pti",
+        "sends"
+      ],
+      "source_excerpt": "PTI Founder sends letter to Chief Justice of Pakistan",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pti-founder-sends-letter-to-chief-justice-of-pakistan",
+          "published_at": "2026-11-16T10:38:17+00:00"
+        },
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbG43RGJyOWVjMEpsVlF0d05YUTVHVlROYmZrcVlZWk9TS3ZMZFpDQnJsVXVGMU9TS0RGN2FTNFJPY0VIYzVsUTRRSlFTU3J0OWs4ZnVQcXlzSWdralNSdjF3YmhzNjczNG5LWHpybldCMFBmTHNoTHQxX28yQkZadnUyY0FQOVk2UklqSTIwVmt0RnZ5NVFZdWhIbURsbnh0NXVrX1VlYnJwWk92RGhBdFQ0WlRoZGtlb1RrX3VtNkdUZDhvUWU2NjhYZzJmZkNXUWtz?oc=5",
+          "published_at": "2026-11-16T11:10:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pti-founder-sends-letter-to-chief-justice-of-pakistan",
+        "publisher_url": "https://arynews.tv/pti-founder-sends-letter-to-chief-justice-of-pakistan",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8c4820e923076a6c32151ed4",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T10:21:00+00:00",
+      "last_update": "2026-11-16T11:10:17+00:00",
+      "event": "In letter to top judges, jailed Imran says he is 'highly vulnerable to brain haemorrhage, cardiac arrest'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2022",
+        "addresses",
+        "after",
+        "arrest",
+        "brain",
+        "cancer",
+        "cardiac",
+        "centre",
+        "chief",
+        "conference",
+        "during",
+        "following",
+        "former",
+        "haemorrhage",
+        "highly",
+        "hospital",
+        "imran",
+        "incident",
+        "jailed",
+        "judges",
+        "khan",
+        "khanum",
+        "lahore",
+        "letter",
+        "long",
+        "march",
+        "memorial",
+        "minister",
+        "news",
+        "november",
+        "pakistan",
+        "prime",
+        "research",
+        "reutersimran",
+        "says",
+        "shaukat",
+        "shooting",
+        "the",
+        "top",
+        "urges",
+        "vulnerable",
+        "was",
+        "wazirabad",
+        "wounded"
+      ],
+      "source_excerpt": "Former prime minister Imran Khan addresses a news conference after he was wounded following a shooting incident during a long march in Wazirabad, at the Shaukat Khanum Memorial Cancer Hospital & Research Centre in Lahore, Pakistan, on November 4, 2022. — ReutersImran urges chief...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691284-in-letter-to-top-judges-jailed-imran-says-he-is-highly-vulnerable-to-brain-haemorrhage-cardiac-arrest",
+          "published_at": "2026-11-16T10:21:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUkYyVnUya0lLNTFFVEJVcU5adl9nbjVndXNzVWxsczRURHFuNV8tUjRnYktlMndEcEkwdDVMZXQ4VW1aWHVMajRSU2VWWFExdlJ3QURON2JQQUtzYXZjcFc4M3JVSDVud0xneXhVSVE2N0Vmb1F4ZEpaVFVyQnF5S1k2eEZxX0haY0w2YmlrajJ4bS1DenZySVRlb1YySHBMSm9ILTN2Z0M5SVVfOUxZeUdPVm8tS3JjV3NZSmtocERsRm4wRHBGY2NXSmpXX00?oc=5",
+          "published_at": "2026-11-16T10:21:00+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/in-letter-to-top-judges-jailed-imran-khan-says-he-is-at-risk-of-brain-haemorrhage-cardiac-arrest/",
+          "published_at": "2026-11-16T11:10:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691284-in-letter-to-top-judges-jailed-imran-says-he-is-highly-vulnerable-to-brain-haemorrhage-cardiac-arrest",
+        "publisher_url": "https://www.geo.tv/latest/691284-in-letter-to-top-judges-jailed-imran-says-he-is-highly-vulnerable-to-brain-haemorrhage-cardiac-arrest",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a711bdc8afb67f58d7ba61ed",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T09:57:12+00:00",
+      "last_update": "2026-11-16T11:05:47+00:00",
+      "event": "Imran Khan writes to chief justices, raises alarm over his and Bushra Bibi’s health",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alarm",
+        "and",
+        "bibi",
+        "bushra",
+        "chief",
+        "health",
+        "his",
+        "imran",
+        "justices",
+        "khan",
+        "over",
+        "raises",
+        "samaa",
+        "writes"
+      ],
+      "source_excerpt": "Imran Khan writes to chief justices, raises alarm over his and Bushra Bibi’s health samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFNCRlFJQ2F6LXdGcmRLZTlXVkFXWU9XSHhMczZMRndzbWVWVzVfMUxJS3R1cXpTYndzRUhtRlRQN0JaX3V5Nl91bkV2akR3R1AteUlwYm50SXV0X1diZEQ0YTdoUjlUbDVMb3Z0VjMzcjVUaDZNMG44bzdHZUVMY2FFbjAxZWJNNHNCY0QyWHppUDVCeWZ4anpERVViUjZQODFUNXVGNTlRS0c2b3NfWXRHamw?oc=5",
+          "published_at": "2026-11-16T09:57:12+00:00"
+        },
+        {
+          "name": "X",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FNGJMZ1hCOGJHbWFTY1V0d1gxaEExWFFvajJMLU4zbk5KMXc3TW9XMEFoMTdwY294MVRUUklzV2lxSFdELURiaVpIWlptQ3A2UE53TVkyS05FVktuVWd6SE02T2s?oc=5",
+          "published_at": "2026-11-16T11:05:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFNCRlFJQ2F6LXdGcmRLZTlXVkFXWU9XSHhMczZMRndzbWVWVzVfMUxJS3R1cXpTYndzRUhtRlRQN0JaX3V5Nl91bkV2akR3R1AteUlwYm50SXV0X1diZEQ0YTdoUjlUbDVMb3Z0VjMzcjVUaDZNMG44bzdHZUVMY2FFbjAxZWJNNHNCY0QyWHppUDVCeWZ4anpERVViUjZQODFUNXVGNTlRS0c2b3NfWXRHamw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2db38e9002aae96357678918",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T08:49:13+00:00",
+      "last_update": "2026-11-16T08:49:13+00:00",
+      "event": "Gulf stocks dip as Bahrain attacks, Hormuz security concerns weigh",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attacks",
+        "bahrain",
+        "concerns",
+        "dawn",
+        "dip",
+        "gulf",
+        "hormuz",
+        "security",
+        "stocks",
+        "weigh"
+      ],
+      "source_excerpt": "Gulf stocks dip as Bahrain attacks, Hormuz security concerns weigh Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnJEMDhBbm1JdWtpZzIzMUl6eDNjel9aWjg5Qjc4U19weVpRUUFRVXdYclNPWjRRR0xlaENOZ3UtRDJDRk5VR0hXODVvM3hKNDdlYlpocVRJUzhYWkY5RV9EY01pVk9aeThKd0ptaFFldkpMZmhQY0lJOGRUMjZQa1pmZVQ0bFhPem1XTm1Ndm83bjFjVXJPWTRXeEZNZlQ4?oc=5",
+          "published_at": "2026-11-16T08:49:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnJEMDhBbm1JdWtpZzIzMUl6eDNjel9aWjg5Qjc4U19weVpRUUFRVXdYclNPWjRRR0xlaENOZ3UtRDJDRk5VR0hXODVvM3hKNDdlYlpocVRJUzhYWkY5RV9EY01pVk9aeThKd0ptaFFldkpMZmhQY0lJOGRUMjZQa1pmZVQ0bFhPem1XTm1Ndm83bjFjVXJPWTRXeEZNZlQ4?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1b10ad17c4274647d6bf6874",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T08:18:41+00:00",
+      "last_update": "2026-11-16T08:18:41+00:00",
+      "event": "Bahrain says its air defences intercepted several Iranian attacks",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "attacks",
+        "bahrain",
+        "defences",
+        "express",
+        "intercepted",
+        "iranian",
+        "its",
+        "says",
+        "several",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Bahrain says its air defences intercepted several Iranian attacks The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDFBMmZWZEF6bHFUejBrd084dkZBS2tYaHhrUnpnVTZnb0MzV0N6RDBvdngtRjFkX3c0bllkSVlCa254Y0FZRU05UjdLQW1iN1Q0aU9LV1ZSQU5kWkFUNVBwbFF1OVJ4QWtlQmplN2VPNTNCdVMxaVl1c3I2U0FmQUtQNnUzWDIzMjVRYzdxRjVuYlY5WnM0OWJJZEZ1TFV1S09TRGdCMEFYZlVfcmxLYi1VYTdCQTBlSnQwTQ?oc=5",
+          "published_at": "2026-11-16T08:18:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDFBMmZWZEF6bHFUejBrd084dkZBS2tYaHhrUnpnVTZnb0MzV0N6RDBvdngtRjFkX3c0bllkSVlCa254Y0FZRU05UjdLQW1iN1Q0aU9LV1ZSQU5kWkFUNVBwbFF1OVJ4QWtlQmplN2VPNTNCdVMxaVl1c3I2U0FmQUtQNnUzWDIzMjVRYzdxRjVuYlY5WnM0OWJJZEZ1TFV1S09TRGdCMEFYZlVfcmxLYi1VYTdCQTBlSnQwTQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "39b462f09022ffc08ef8b79a",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T11:05:47+00:00",
+      "last_update": "2026-11-16T11:05:47+00:00",
+      "event": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acumen",
+        "after",
+        "and",
+        "backing",
+        "business",
+        "ceo",
+        "elon",
+        "goals",
+        "have",
+        "his",
+        "huang",
+        "including",
+        "jensen",
+        "musk",
+        "nvidia",
+        "ouster",
+        "peers",
+        "potential",
+        "praised",
+        "risks",
+        "silicon",
+        "the",
+        "valley",
+        "why"
+      ],
+      "source_excerpt": "Huang's peers, including Elon Musk, have praised his business acumen and potential risks to the US's AI goals.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
+          "published_at": "2026-11-16T11:05:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3a722b296bdb658a0c4aa396",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T10:28:22+00:00",
+      "last_update": "2026-11-16T10:28:22+00:00",
+      "event": "Lebanon’s second airport could provide economic and political benefits",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "airport",
+        "and",
+        "benefits",
+        "could",
+        "country",
+        "devastated",
+        "economic",
+        "establishment",
+        "for",
+        "gives",
+        "lebanon",
+        "more",
+        "options",
+        "political",
+        "provide",
+        "second",
+        "the",
+        "travel",
+        "war"
+      ],
+      "source_excerpt": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+          "published_at": "2026-11-16T10:28:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2fef8b058d60d2671b22b69a",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T10:12:28+00:00",
+      "last_update": "2026-11-16T10:12:28+00:00",
+      "event": "Jordan bans Telegram over national security concerns",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "amid",
+        "attack",
+        "bans",
+        "church",
+        "comes",
+        "concerns",
+        "crackdown",
+        "deadly",
+        "greek",
+        "jordan",
+        "last",
+        "measure",
+        "month",
+        "national",
+        "orthodox",
+        "over",
+        "security",
+        "telegram",
+        "the"
+      ],
+      "source_excerpt": "The measure comes amid a security crackdown after last month's deadly attack on a Greek Orthodox church.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+          "published_at": "2026-11-16T10:12:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "71984c33f16efdad95bb0ae0",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T10:03:11+00:00",
+      "last_update": "2026-11-16T10:07:33+00:00",
+      "event": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "collapse",
+        "collective",
+        "could",
+        "defence",
+        "divide",
+        "europe",
+        "has",
+        "individual",
+        "moscow",
+        "nations",
+        "nato",
+        "nonaggression",
+        "pacts",
+        "proposed",
+        "russia",
+        "seeks",
+        "shatter",
+        "stalls",
+        "talks",
+        "ukraine",
+        "which",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+          "published_at": "2026-11-16T10:03:11+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTdwQ0doWjlyZXNRZEVpOGd6aVVCNmFQTkdNT3lBOU9kY1d1YlZJSWRldWFDTUFoWjQ4TUE1TEpwbTlWTkJ6ckszT1g2RmJENVQzZ01lMVRScG1UQk1ZbHR1OHRaUWJLUWxGdmxYQnlGclFiU1FRLXNSZTF2ZUcwbGM2bk5OdDh2aGctWUhkdjlBU3pFVzhZRW9aSG5ob3cwVVFGc1dIV0pZbGZsQTBHUNIBtgFBVV95cUxPVEJNajdIOXd2dzZfTmxhZ2dZT2RuTXVNY2tRSDNQNlBPVFBFMXJJbmhIMEpnT0VlNl9ET1FpNHB4dDZYVDAwZERCdlNuZ0VmLUI0dmpueDRBM1dQckI1azNtNF81a0JPMlBUd1o0RVJ6Y3h1SldrZkZjd1Y5NldYZnR3SGVSVzZrV1hiZ1Vob1Y1dThRZjI2TmxHTUhNQzdQcUdfM3FDZjFjT18zbGdzc1VQZWNWZw?oc=5",
+          "published_at": "2026-11-16T10:07:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9635f1ad091989b6bcf9ed97",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T09:57:37+00:00",
+      "last_update": "2026-11-16T09:57:37+00:00",
+      "event": "Antimicrobial resistance could kill 39 million people over 25 years: WHO",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agency",
+        "and",
+        "antibiotics",
+        "antimicrobial",
+        "could",
+        "future",
+        "growing",
+        "health",
+        "kill",
+        "medicine",
+        "medicines",
+        "million",
+        "modern",
+        "other",
+        "over",
+        "people",
+        "resistance",
+        "says",
+        "threatens",
+        "who",
+        "years"
+      ],
+      "source_excerpt": "UN's health agency says growing resistance to antibiotics and other medicines threatens 'future of modern medicine'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
+          "published_at": "2026-11-16T09:57:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a5e5b360f23c4d2a7354c73c",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T09:52:11+00:00",
+      "last_update": "2026-11-16T09:52:11+00:00",
+      "event": "Sadiq Khan: Global North must take responsibility for climate change",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bears",
+        "brunt",
+        "change",
+        "climate",
+        "cop31",
+        "for",
+        "global",
+        "khan",
+        "must",
+        "nations",
+        "north",
+        "responsibility",
+        "sadiq",
+        "south",
+        "support",
+        "take",
+        "the",
+        "urges",
+        "wealthy",
+        "which"
+      ],
+      "source_excerpt": "At COP31, Sadiq Khan urges wealthy nations to support the Global South, which bears the brunt of climate change.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss",
+          "published_at": "2026-11-16T09:52:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "37c4fae862ba4dd175b4f2f5",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T10:57:48+00:00",
+      "last_update": "2026-11-16T10:57:48+00:00",
+      "event": "Two mass shootings in South Africa leave 17 dead",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "and",
+        "crime",
+        "curb",
+        "dead",
+        "gauteng",
+        "highlight",
+        "kwazulu",
+        "leave",
+        "mass",
+        "natal",
+        "shootings",
+        "south",
+        "struggle",
+        "the",
+        "two",
+        "violent"
+      ],
+      "source_excerpt": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T10:57:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b7cee745c28fed6013631f5",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T10:14:24+00:00",
+      "last_update": "2026-11-16T10:14:24+00:00",
+      "event": "Police probe after Queen Victoria pyramid cairn at Balmoral vandalised",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "balmoral",
+        "bbc",
+        "cairn",
+        "police",
+        "probe",
+        "pyramid",
+        "queen",
+        "vandalised",
+        "victoria"
+      ],
+      "source_excerpt": "Police probe after Queen Victoria pyramid cairn at Balmoral vandalised BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NVZBVjE1WTNzYkl6TTk3eEFVdnh4SFVyYUp0TzNvZUwxM3RrZWFSai05aGhUcEozR2JSLUtLNnZaSFhVaTNGSG4yTmFacnYtUkFBWmh4M1FvVjg?oc=5",
+          "published_at": "2026-11-16T10:14:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NVZBVjE1WTNzYkl6TTk3eEFVdnh4SFVyYUp0TzNvZUwxM3RrZWFSai05aGhUcEozR2JSLUtLNnZaSFhVaTNGSG4yTmFacnYtUkFBWmh4M1FvVjg?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c3f7f33ded5cf55a5ad115b8",
+      "remembered_at": "2026-11-16T11:24:23.220540+00:00",
+      "event_date": "2026-11-16T10:35:55+00:00",
+      "last_update": "2026-11-16T10:35:55+00:00",
+      "event": "Prince William, Prince of Wales",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "prince",
+        "wales",
+        "william"
+      ],
+      "source_excerpt": "Prince William, Prince of Wales BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHaFpvNnptTUIxQTFQQnlPQnc0TGlOd0NVNWlTblNNTUF6aXpWd2VIcS1DNVg4dll4ZVZZZHZjMjkyRGpncHJGb0pHTTNkNVdtdmo5T20tZw?oc=5",
+          "published_at": "2026-11-16T10:35:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHaFpvNnptTUIxQTFQQnlPQnc0TGlOd0NVNWlTblNNTUF6aXpWd2VIcS1DNVg4dll4ZVZZZHZjMjkyRGpncHJGb0pHTTNkNVdtdmo5T20tZw?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-16T09:58:23.109473+00:00"
+  "updated_at": "2026-11-16T11:24:23.220540+00:00"
 }
