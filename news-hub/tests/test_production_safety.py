@@ -105,6 +105,13 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
                 }]}
                 self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
 
+    def test_trusted_name_on_untrusted_direct_feed_domain_is_not_fast_lane(self):
+        cluster = {"members": [{
+            "source": "Geo News", "kind": "local", "source_verified": True,
+            "link": "https://example.com/rss", "title": "National Assembly session begins"
+        }]}
+        self.assertFalse(newsroom.is_direct_publisher_cluster(cluster))
+
     def test_unverified_google_news_label_cannot_claim_trusted_publisher_identity(self):
         cluster = {"members": [{
             "source": "Geo News Fast Lane", "kind": "gnews", "source_verified": False,
