@@ -433,6 +433,8 @@ def is_international_pakistan_item(name, link, text=""):
         "cnn india entertainment", "cnn india sports and culture",
         "al jazeera", "al jazeera english", "al jazeera india politics",
         "al jazeera india entertainment", "al jazeera india sports and culture",
+        "bbc india general desk", "cnn india general desk", "al jazeera india general desk",
+        "bbc india economy", "al jazeera india public affairs",
     }
     return international and bool(PAKISTAN_TOPIC.search((text or "") + " " + n))
 
@@ -795,6 +797,8 @@ FAST_LANE_NAMES = {
     "cnn india entertainment", "cnn india sports and culture",
     "al jazeera", "al jazeera english", "al jazeera india politics",
     "al jazeera india entertainment", "al jazeera india sports and culture",
+    "bbc india general desk", "cnn india general desk", "al jazeera india general desk",
+    "bbc india economy", "al jazeera india public affairs",
 }
 
 
