@@ -146,6 +146,13 @@ SOURCES = [
     gnews("India cricket sports culture science technology site:cnn.com when:3h", "CNN India sports and culture"),
     gnews("India cricket sports culture science technology site:aljazeera.com when:3h", "Al Jazeera India sports and culture"),
 
+    # Broad India desk: international publishers only; Indian outlets are blocked at intake.
+    gnews("India latest news politics economy elections courts society site:bbc.com/news when:3h", "BBC India General Desk"),
+    gnews("India latest news politics economy elections courts society site:cnn.com when:3h", "CNN India General Desk"),
+    gnews("India latest news politics economy elections courts society site:aljazeera.com when:3h", "Al Jazeera India General Desk"),
+    gnews("India economy business industry inflation trade jobs site:bbc.com/news when:3h", "BBC India Economy"),
+    gnews("India disaster weather climate environment health site:aljazeera.com when:3h", "Al Jazeera India Public Affairs"),
+
     # weather, fashion, lifestyle via Google News searches
     gnews("Pakistan weather forecast Met Department when:3h", "Weather"),
 ]
