@@ -1406,10 +1406,13 @@ def housekeeping(queue, t0):
                 it["status"] = "needs_review"
                 it["needs_review_at"] = iso(t0)
                 it["review_reason"] = "Scheduled slot passed; retained for editorial review, not published or deleted."
-    # Keep review items until explicitly resolved; retain recent history for audit.
+    # Keep recent review items for audit, but do not let weeks of expired queue rows
+    # accumulate forever. The bot-data branch and run artifacts retain older history.
     cutoff = t0 - timedelta(days=3)
     queue["items"] = [i for i in queue["items"]
-                      if parse(i["created"]) > cutoff or i["status"] == "queued"]
+                      if parse(i["created"]) > cutoff or i["status"] == "queued"
+                      or (i["status"] == "needs_review" and valid_timestamp(i.get("needs_review_at"))
+                          and parse(i["needs_review_at"]) > cutoff)]
     # Keep a bounded review archive in the active queue file; older review rows
     # remain represented in Git history and run artifacts, not forever in hot state.
     reviews = sorted((i for i in queue["items"] if i["status"] == "needs_review"),
