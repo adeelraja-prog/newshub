@@ -26,6 +26,18 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             "Pakistan flood emergency in Sindh"
         ))
 
+    def test_indian_punjab_story_is_not_misclassified_as_pakistan(self):
+        self.assertFalse(newsroom.is_blocked(
+            "BBC News", "https://www.bbc.com/news/world-asia-india-example",
+            "Punjab state election results in India"
+        ))
+
+    def test_pakistan_punjab_story_is_still_excluded_from_bbc(self):
+        self.assertTrue(newsroom.is_blocked(
+            "BBC News", "https://news.google.com/rss/articles/example",
+            "Punjab government announces decision after Maryam Nawaz meeting"
+        ))
+
     def test_india_story_from_cnn_and_al_jazeera_remains_allowed(self):
         self.assertFalse(newsroom.is_blocked(
             "CNN India General Desk", "https://news.google.com/rss/articles/example",
