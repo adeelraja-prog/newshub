@@ -381,9 +381,6 @@ def collect_new(state):
         if status == "ERROR" or count == 0 or bozo:
             print(f"[source-health] {name}: status={status} entries={count} malformed={bozo}")
     SOURCE_HEALTH[:] = source_health
-    fast_rows = [r for r in source_health if "fast lane" in r[0].lower()]
-    fast_active = sum(1 for _, status, count, _ in fast_rows if status == 200 and count > 0)
-    print(f"[source-health] trusted fast-lane feeds active={fast_active}/{len(fast_rows)}")
     print(f"[info] collected {len(items)} new items from {len(SOURCES)} configured feeds/searches")
     return items, stats
 
