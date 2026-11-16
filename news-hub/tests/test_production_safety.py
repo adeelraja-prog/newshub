@@ -86,7 +86,7 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
 
     def test_exact_pakistani_publisher_uses_fast_lane(self):
         cluster = {"members": [{
-            "source": "Geo News", "link": "https://news.google.com/rss/articles/example",
+            "source": "Geo News", "kind": "gnews", "source_verified": True, "link": "https://news.google.com/rss/articles/example",
             "title": "National Assembly session begins"
         }]}
         self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
@@ -100,7 +100,7 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         for name in publishers:
             with self.subTest(publisher=name):
                 cluster = {"members": [{
-                    "source": name, "link": "https://news.google.com/rss/articles/example",
+                    "source": name, "kind": "gnews", "source_verified": True, "link": "https://news.google.com/rss/articles/example",
                     "title": "Publisher reports a new development"
                 }]}
                 self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
