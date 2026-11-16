@@ -727,7 +727,73 @@ Return JSON: {{"stories":[...]}}.
 """ + "\n\n".join(blocks)
 
 
+def is_direct_publisher_cluster(cluster):
+    """Publisher-originated reports from the approved desks skip AI assessment and scoring gates."""
+    trusted = set(TRUSTED_PUBLISHERS)
+    international = {"bbc.com", "bbc.co.uk", "cnn.com", "aljazeera.com"}
+    for member in cluster.get("members", []):
+        name = str(member.get("source") or "").lower()
+        url = str(member.get("link") or "").lower()
+        host = urlparse(url).hostname or ""
+        host = host.removeprefix("www.")
+        if any(host == d or host.endswith("." + d) for d in trusted | international):
+            return True
+        if any(x in name for x in ("geo news", "ary news", "samaa", "express news", "dawn",
+                                   "jang", "the news international", "express tribune", "dunya news",
+                                   "bbc", "cnn", "al jazeera")):
+            return True
+    return False
+
+
+def make_direct_publisher_story(cluster):
+    """Build a publishable story directly from a named publisher's published headline."""
+    lead = cluster["lead"]
+    source_name = str(lead.get("source") or "Publisher").strip()
+    headline = clean(lead.get("title") or cluster.get("title") or "")
+    excerpt = clean(cluster.get("excerpt") or lead.get("snippet") or "")[:1500]
+    global_outlet = any(x in source_name.lower() for x in ("bbc", "cnn", "al jazeera"))
+    breaking_terms = ("breaking", "just in", "developing", "live:", "blast", "attack",
+                      "explosion", "earthquake", "killed", "resigns", "court orders",
+                      "arrested", "crash", "emergency")
+    urgent = any(x in (headline + " " + excerpt).lower() for x in breaking_terms)
+    source_type = "wire" if source_name.lower() in ("reuters", "associated press", "ap") else "published_report"
+    story = {
+        "id": cluster["id"], "cluster": cluster, "event": headline, "category": "other",
+        "importance": 90, "pakistan_relevance": 90 if not global_outlet else 60,
+        "viral_estimate": 0, "viral_measured": cluster.get("sig", {}).get("viral_measured", 0),
+        "viral_potential": 0, "public_interest": 90, "urgency": 95 if urgent else 70,
+        "confidence": 95, "lifecycle": "emerging", "claim_status": "developing",
+        "is_global": global_outlet, "scope": "international" if global_outlet else "national",
+        "target_market": "Global" if global_outlet else "Pakistan",
+        "importance_class": "major", "national_impact": 80, "regional_impact": 0,
+        "region": "", "global_impact": 85 if global_outlet else 0,
+        "why_pk": "Published by an established international newsroom." if global_outlet else "Published by an established Pakistani newsroom.",
+        "original_source": {"type": source_type, "name": source_name, "url": lead.get("link", ""),
+                            "basis": "Original publisher feed/search item; direct publishing lane."},
+        "corroborating": [], "explanation": "Direct publisher lane; no AI assessment or second-source check.",
+        "discovery": {"name": source_name, "url": lead.get("link", "")},
+        "trend_score": 0, "trend_basis": "publisher", "trend_notes": [], "x_signal": "unavailable",
+        "has_wire_or_official": False, "excerpt": excerpt, "image_url": cluster.get("image_url", ""),
+        "sources": cluster.get("sources", [source_name]), "first_pub": iso(cluster["first_pub"]),
+        "last_update": iso(cluster["last_pub"]), "composite": 100,
+        "editorial_lane": "publisher_fast_lane", "direct_source": True,
+        "editorial_priority_band": "P1" if urgent else "P2",
+    }
+    story["quality_review"] = {"decision": "approved", "score_penalty": 0, "reason": "Approved publisher fast lane"}
+    story["priority"] = "breaking" if urgent else "high"
+    return story
+
+
 def analyse(clusters):
+    direct_clusters = [c for c in clusters if is_direct_publisher_cluster(c)]
+    regular_clusters = [c for c in clusters if not is_direct_publisher_cluster(c)]
+    direct_stories = [make_direct_publisher_story(c) for c in direct_clusters]
+    if direct_stories:
+        print(f"[publisher-fast-lane] {len(direct_stories)} stories bypass AI assessment, scoring and second-source checks")
+    return direct_stories + analyse_ai(regular_clusters) if regular_clusters else direct_stories
+
+
+def analyse_ai(clusters):
     blocks, link_maps, analysed_clusters = [], [], []
     with ThreadPoolExecutor(8) as pool_ex:  # fetch the lead articles in parallel
         fetched = list(pool_ex.map(lambda c: fetch_article(c["lead"]), clusters))
@@ -917,7 +983,29 @@ def write_batch(stories):
                       f"Related dated archive (research leads only; do not present as verified current facts): {memory_context}\n"
                       f"External price-history research extracts (source text for verification; use only explicit effective dates and figures, cite exact URL): {price_research}\n"
                       f"Attribution facts: {facts}")
-    data = gemini_json(writing_prompt(blocks))
+    try:
+        data = gemini_json(writing_prompt(blocks))
+    except Exception as ai_error:
+        print(f"[writer] AI unavailable; using source-faithful fallback for direct publisher items: {ai_error}")
+        data = {"stories": []}
+        for n, story in enumerate(stories, 1):
+            if not story.get("direct_source"):
+                continue
+            c = story["cluster"]
+            title = clean(c["lead"].get("title") or story["event"])[:110]
+            excerpt = clean(story.get("excerpt") or c["lead"].get("snippet") or title)[:420]
+            source_name = story["original_source"]["name"]
+            data["stories"].append({
+                "n": n, "headline_primary": title, "headline_alt": title,
+                "headline_choice": "primary", "poster_headline_ur": "اہم خبر",
+                "poster_headline_en": title[:90], "caption_opening": title,
+                "summary_en": excerpt or title,
+                "summary_ur": "یہ خبر اصل خبر رساں ادارے کی شائع کردہ رپورٹ پر مبنی ہے۔",
+                "attribution_line": f"Source: {source_name}",
+                "primary_keyword": " ".join(title.split()[:4]), "secondary_keywords": [],
+                "entities": {}, "hashtags": [], "search_summary": title[:155],
+                "value_addition": {"type": "none"}
+            })
     out = {}
     need = ("headline_primary", "headline_alt", "poster_headline_ur", "poster_headline_en", "caption_opening",
             "summary_en", "summary_ur", "attribution_line", "primary_keyword", "search_summary")
@@ -1532,6 +1620,11 @@ def main():
             research_holds = []
             research_cases = []
             for story in stories:
+                if story.get("direct_source"):
+                    publishable_direct = story
+                    publishable_direct["quality_review"] = {"decision": "approved", "score_penalty": 0}
+                    research_cases.append(publishable_direct) if False else None
+                    continue
                 review = story.get("quality_review") or eq.assess_story(story)
                 story["quality_review"] = review
                 if review.get("requires_accountability_research"):
@@ -1551,6 +1644,9 @@ def main():
             # Deterministic national-headline gate: model scores alone cannot publish routine items.
             eligible_stories=[]
             for story in stories:
+                if story.get("direct_source"):
+                    eligible_stories.append(story)
+                    continue
                 accepted, reason=ep.eligible(story)
                 if accepted:
                     eligible_stories.append(story)
@@ -1568,7 +1664,7 @@ def main():
                                       t0 - parse(story.get("last_update")) > timedelta(hours=6))
                 except Exception:
                     story["stale"] = False
-                band = ep.priority_band(story, trusted_publisher=is_trusted_publisher_story(story))
+                band = story.get("editorial_priority_band") if story.get("direct_source") else ep.priority_band(story, trusted_publisher=is_trusted_publisher_story(story))
                 story["editorial_priority_band"] = band
                 if band == "P5":
                     print(f"[priority] P5 STALE — excluded: {str(story.get('event') or '')[:90]}")
@@ -1607,8 +1703,13 @@ def main():
             # Still inspect the candidate set at a full normal buffer so a genuinely
             # urgent breaking/high-priority item can bypass the routine buffer cap.
             selection_limit = min(SELECT_N, normal_slots_left) if normal_slots_left else SELECT_N
-            chosen = ed.select_balanced(stories, selection_limit, MIN_CONFIDENCE, min_comp,
-                                        BREAK_URGENCY, BREAK_CONFIDENCE) if selection_limit else []
+            direct_ready = [s for s in stories if s.get("direct_source")]
+            ordinary_ready = [s for s in stories if not s.get("direct_source")]
+            chosen = direct_ready[:SELECT_N]
+            remaining = max(0, selection_limit - len(chosen))
+            if remaining:
+                chosen.extend(ed.select_balanced(ordinary_ready, remaining, MIN_CONFIDENCE, min_comp,
+                                                  BREAK_URGENCY, BREAK_CONFIDENCE))
             print(f"[queue] normal approved buffer={depth}/{QUEUE_CAP}; replenishment slots={min(SELECT_N, normal_slots_left)}; urgent review remains enabled")
             for story in chosen:
                 band = story.get("editorial_priority_band", "P3")
