@@ -1803,12 +1803,6 @@ def main():
                 # tooling must never abort the core collect -> verify -> queue -> publish path.
                 # Keep the dated event memory above; controversy comparisons remain disabled
                 # until a real, tested scanner is implemented.
-            chosen_cluster_ids = {str(x.get("cluster", {}).get("id")) for x in chosen}
-            # Unselected direct-publisher stories must remain eligible for the next cycle;
-            # otherwise the rolling history would mark them analysed and silently lose them.
-            for c in candidates:
-                if not is_direct_publisher_cluster(c) or str(c.get("id")) in chosen_cluster_ids:
-                    c["hist"]["analysed_n"] = c["n_sources"]
             info["lists"] = ed.top_lists(stories)
             min_comp = MIN_COMPOSITE if depth >= 4 else FILL_COMPOSITE
             # Maintain a rolling 24-28 approved-story buffer. Never overfill it;
@@ -1830,6 +1824,11 @@ def main():
             if remaining:
                 chosen.extend(ed.select_balanced(ordinary_ready, remaining, MIN_CONFIDENCE, min_comp,
                                                   BREAK_URGENCY, BREAK_CONFIDENCE))
+            chosen_cluster_ids = {str(x.get("cluster", {}).get("id")) for x in chosen}
+            # Unselected direct-publisher stories remain eligible for the next cycle.
+            for c in candidates:
+                if not is_direct_publisher_cluster(c) or str(c.get("id")) in chosen_cluster_ids:
+                    c["hist"]["analysed_n"] = c["n_sources"]
             print(f"[queue] normal approved buffer={depth}/{QUEUE_CAP}; replenishment slots={min(SELECT_N, normal_slots_left)}; urgent review remains enabled")
             for story in chosen:
                 band = story.get("editorial_priority_band", "P3")
