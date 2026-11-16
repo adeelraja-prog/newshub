@@ -1,7 +1,7 @@
 import os
 import tempfile
 import unittest
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from unittest.mock import patch
 
 import main as newsroom
@@ -282,6 +282,18 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(story["confidence"], 0)
         self.assertEqual(story["importance"], 0)
         self.assertEqual(story["public_interest"], 0)
+
+    def test_breaking_post_obeys_global_ten_minute_gap(self):
+        last = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
+        item = {"qid": "breaking", "status": "queued", "priority": "breaking",
+                "not_before": last.isoformat(), "meta": {"editorial_priority_band": "P1"}}
+        previous = {"qid": "previous", "status": "published", "priority": "normal",
+                    "published": {"time": last.isoformat()}}
+        queue = {"items": [previous, item]}
+        due, _ = newsroom.pick_due(queue, last + timedelta(minutes=5))
+        self.assertIsNone(due)
+        due, _ = newsroom.pick_due(queue, last + timedelta(minutes=10))
+        self.assertEqual(due["qid"], "breaking")
 
 
 if __name__ == "__main__":
