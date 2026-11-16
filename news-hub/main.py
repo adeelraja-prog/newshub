@@ -234,38 +234,19 @@ def choose_poster_language(story, slot):
 
 
 def is_trusted_publisher_story(story):
-    """True only when the declared original publisher is one of the approved first-lane outlets."""
+    """Trusted fast-lane status requires the original article URL to match an approved domain."""
     original = story.get("original_source") or {}
-    candidates = [original.get("name", ""), original.get("url", "")]
-    cluster = story.get("cluster") or {}
-    lead = cluster.get("lead") or {}
-    candidates.extend([lead.get("source", ""), lead.get("link", "")])
-    members = cluster.get("members") or []
-    for member in members:
-        if isinstance(member, dict):
-            candidates.extend([member.get("source", ""), member.get("link", "")])
-    aliases = {
-        "geo news": "geo.tv", "geo": "geo.tv",
-        "ary news": "arynews.tv", "ary": "arynews.tv",
-        "samaa": "samaa.tv", "samaa tv": "samaa.tv",
-        "express news": "expressnews.tv", "express": "express.pk",
-        "dawn": "dawn.com", "dawn pakistan": "dawn.com",
-        "jang": "jang.com.pk", "jang urdu": "jang.com.pk",
-        "the news": "thenews.com.pk", "the news international": "thenews.com.pk",
-        "express tribune": "tribune.com.pk",
-        "dunya news": "dunyanews.tv", "dunya news tv": "dunyanews.tv",
+    original_record = {
+        "source": original.get("name", ""),
+        "link": original.get("url", ""),
+        "publisher_url": original.get("publisher_url") or original.get("url", ""),
     }
-    for value in candidates:
-        text = str(value or "").strip().lower()
-        if not text:
-            continue
-        if text in aliases:
-            return True
-        host = urlparse(text if "://" in text else "https://" + text).hostname or ""
-        host = host.removeprefix("www.")
-        if any(host == domain or host.endswith("." + domain) for domain in TRUSTED_PUBLISHERS):
-            return True
-    return False
+    if is_fast_lane_member(original_record):
+        return True
+    cluster = story.get("cluster") or {}
+    records = [cluster.get("lead") or {}]
+    records.extend(m for m in (cluster.get("members") or []) if isinstance(m, dict))
+    return any(is_fast_lane_member(record) for record in records)
 
 
 # ---------- 1. collect ----------
