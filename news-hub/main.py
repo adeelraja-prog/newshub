@@ -2016,7 +2016,12 @@ def main():
         hist = history[hi] if hi is not None else None
         c["sig"] = ed.trend_signals(c, trends, hist, t0)
         # Cross-run deduplication: match canonical article URLs first, then story-token similarity.
-        cluster_urls = {ed.canonical_url(m.get("link", "")) for m in c["members"] if m.get("link")}
+        cluster_urls = {
+                ed.canonical_url(url)
+                for member in c["members"]
+                for url in (member.get("link"), member.get("publisher_url"))
+                if url
+            }
         duplicate = False
         for prior in published + queued_tokens:
             prior_urls = {ed.canonical_url(u) for u in prior.get("urls", []) if u}
