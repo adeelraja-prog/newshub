@@ -1789,6 +1789,8 @@ def publish_one(queue, state, item, t0):
     state.setdefault("published", []).append({
         "tokens": item.get("tokens", []), "urls": item.get("urls", []), "time": iso(t0),
         "title": item.get("title", item.get("headline", "")),
+        "headline": item.get("headline", ""), "category": item.get("category", "other"),
+        "source_name": item.get("source_name", ""), "priority": item.get("priority", "normal"),
         "poster_language": item.get("poster_language", "ur"),
         "target_market": item.get("target_market", "Pakistan"),
         "facebook_post_id": fb_id, "facebook_story_status": story_status
@@ -1864,6 +1866,14 @@ def build_report(info):
 
 
 # ---------- main ----------
+def recent_published_history(state, t0):
+    """Return a valid 30-day publication history, including posts published this run."""
+    rows = state.get("published", []) if isinstance(state.get("published"), list) else []
+    return [p for p in rows if isinstance(p, dict) and isinstance(p.get("tokens"), (list, tuple))
+            and isinstance(p.get("urls", []), list) and valid_timestamp(p.get("time"))
+            and t0 - parse(p["time"]) < timedelta(days=30)]
+
+
 def main():
     t0 = now()
     if DRY_RUN:
@@ -1952,9 +1962,7 @@ def main():
     history = [h for h in state.get("history", []) if isinstance(h, dict)
                and isinstance(h.get("tokens"), (list, tuple)) and h.get("tokens")
                and valid_timestamp(h.get("last_seen")) and t0 - parse(h["last_seen"]) < timedelta(hours=24)]
-    published = [p for p in state.get("published", []) if isinstance(p, dict)
-                 and isinstance(p.get("tokens"), (list, tuple)) and isinstance(p.get("urls", []), list)
-                 and valid_timestamp(p.get("time")) and t0 - parse(p["time"]) < timedelta(days=30)]
+    published = recent_published_history(state, t0)
     queued_tokens = [{"tokens": i.get("tokens", []), "urls": i.get("urls", [])} for i in queue["items"] if i["status"] in ("queued", "published")]
 
     dups = unchanged = 0
@@ -2235,6 +2243,9 @@ def main():
         for it in new_items:
             state.setdefault("seen", {})[it["id"]] = ts
         state["seen"] = {k: v for k, v in state["seen"].items() if v > ts - 3 * 86400}
+        # publish_one() may have appended a post after the initial history snapshot.
+        # Refresh from state before saving so the just-published item is never overwritten.
+        published = recent_published_history(state, t0)
         state.update(pool=pool, history=history, published=published, last_run=iso(t0))
         for p in glob.glob(f"{POSTER_DIR}/*.jpg"):
             if os.path.getmtime(p) < time.time() - 3 * 86400:
