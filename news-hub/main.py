@@ -319,7 +319,7 @@ def collect_new(state):
                     name = st
                 title = re.sub(r"\s+-\s+[^-]+$", "", title)
             # Keep genuinely global events even when Pakistan is not named; editorial scope gates decide.
-            if is_blocked(name, link) or has_devanagari(title + " " + snippet):
+            if is_blocked(name, link, title + " " + snippet) or has_devanagari(title + " " + snippet):
                 BLOCKED_COUNT[0] += 1
                 continue
             ids.add(iid)
@@ -384,16 +384,46 @@ def has_roman_urdu_output(w):
     return False
 
 
-def is_blocked(name, link):
-    """Reject Indian publishers/domains and Hindi-language source items."""
+INTERNATIONAL_DESKS = {
+    "bbc.com", "bbc.co.uk", "cnn.com", "aljazeera.com",
+}
+PAKISTAN_TOPIC = re.compile(
+    r"\\b(pakistan|pakistani|islamabad|rawalpindi|lahore|karachi|peshawar|quetta|"
+    r"punjab|sindh|balochistan|khyber pakhtunkhwa|pti|imran khan|shahbaz sharif|"
+    r"shehbaz sharif|asif zardari)\\b|پاکستان|اسلام آباد|راولپنڈی|لاہور|کراچی|پشاور|کوئٹہ",
+    re.I,
+)
+
+
+def is_international_pakistan_item(name, link, text=""):
+    """The user excludes Pakistan-related reports from BBC, CNN and Al Jazeera."""
+    n = (name or "").lower().strip()
+    host = urlparse(link or "").hostname or ""
+    host = host.removeprefix("www.")
+    international = any(host == d or host.endswith("." + d) for d in INTERNATIONAL_DESKS)
+    international = international or n in {
+        "bbc", "bbc news", "bbc world", "bbc india", "bbc india politics",
+        "bbc india entertainment", "bbc india sports and culture",
+        "cnn", "cnn news", "cnn international", "cnn india politics",
+        "cnn india entertainment", "cnn india sports and culture",
+        "al jazeera", "al jazeera english", "al jazeera india politics",
+        "al jazeera india entertainment", "al jazeera india sports and culture",
+    }
+    return international and bool(PAKISTAN_TOPIC.search((text or "") + " " + n))
+
+
+def is_blocked(name, link, text=""):
+    """Reject Indian publishers/domains, Hindi items and excluded Pakistan stories from international desks."""
     n = (name or "").lower().strip()
     if n in BLOCKED_EXACT or any(b in n for b in BLOCKED_NAMES):
         return True
-    host = re.sub(r"^https?://", "", (link or "").lower()).split("/")[0].split(":")[0]
-    if host.startswith("www."):
-        host = host[4:]
-    return bool(BLOCKED_HOST_ENDINGS) and (host.endswith(tuple(BLOCKED_HOST_ENDINGS))
-           or any(host == d or host.endswith("." + d) for d in BLOCKED_HOST_ENDINGS if not d.startswith(".")))
+    host = urlparse(link or "").hostname or ""
+    host = host.removeprefix("www.")
+    indian_host = bool(BLOCKED_HOST_ENDINGS) and (
+        host.endswith(tuple(BLOCKED_HOST_ENDINGS))
+        or any(host == d or host.endswith("." + d) for d in BLOCKED_HOST_ENDINGS if not d.startswith("."))
+    )
+    return indian_host or is_international_pakistan_item(name, link, text)
 
 
 def fetch_trends():
@@ -728,19 +758,31 @@ Return JSON: {{"stories":[...]}}.
 
 
 def is_direct_publisher_cluster(cluster):
-    """Publisher-originated reports from the approved desks skip AI assessment and scoring gates."""
-    trusted = set(TRUSTED_PUBLISHERS)
-    international = {"bbc.com", "bbc.co.uk", "cnn.com", "aljazeera.com"}
+    """Exact allowlist only: trusted Pakistani publishers and approved international India desks."""
+    trusted_names = {
+        "geo", "geo news", "geo news fast lane", "ary", "ary news", "ary news fast lane",
+        "samaa", "samaa tv", "samaa fast lane", "express news", "express news fast lane",
+        "express", "dawn", "dawn pakistan", "dawn latest", "dawn fast lane",
+        "jang", "jang urdu", "jang fast lane", "the news", "the news international",
+        "the news fast lane", "express tribune", "express tribune fast lane",
+        "dunya news", "dunya news tv", "dunya news fast lane", "dunya news tv fast lane",
+        "bbc", "bbc news", "bbc world", "bbc india", "bbc india politics",
+        "bbc india entertainment", "bbc india sports and culture",
+        "cnn", "cnn news", "cnn international", "cnn india politics",
+        "cnn india entertainment", "cnn india sports and culture",
+        "al jazeera", "al jazeera english", "al jazeera india politics",
+        "al jazeera india entertainment", "al jazeera india sports and culture",
+    }
+    allowed_domains = set(TRUSTED_PUBLISHERS) | INTERNATIONAL_DESKS
     for member in cluster.get("members", []):
-        name = str(member.get("source") or "").lower()
-        url = str(member.get("link") or "").lower()
+        name = str(member.get("source") or "").strip().lower()
+        url = str(member.get("link") or "")
         host = urlparse(url).hostname or ""
         host = host.removeprefix("www.")
-        if any(host == d or host.endswith("." + d) for d in trusted | international):
-            return True
-        if any(x in name for x in ("geo news", "ary news", "samaa", "express news", "dawn",
-                                   "jang", "the news international", "express tribune", "dunya news",
-                                   "bbc", "cnn", "al jazeera")):
+        if any(host == d or host.endswith("." + d) for d in allowed_domains):
+            if not is_international_pakistan_item(name, url, member.get("title", "")):
+                return True
+        if name in trusted_names and not is_international_pakistan_item(name, url, member.get("title", "")):
             return True
     return False
 
@@ -780,7 +822,9 @@ def make_direct_publisher_story(cluster):
         "editorial_priority_band": "P1" if urgent else "P2",
     }
     story["quality_review"] = {"decision": "approved", "score_penalty": 0, "reason": "Approved publisher fast lane"}
-    story["priority"] = "breaking" if urgent else "high"
+    # Only genuinely urgent items bypass the normal ten-minute queue. Other trusted
+    # publisher stories retain P2 ordering but use normal scheduled slots and the buffer cap.
+    story["priority"] = "breaking" if urgent else "normal"
     return story
 
 
@@ -1365,16 +1409,19 @@ GRAPH_API_VERSION = env("FB_GRAPH_VERSION", "v27.0")
 def post_facebook(path, text):
     page, token = env("FB_PAGE_ID"), env("FB_PAGE_TOKEN")
     if not (page and token):
-        print("[facebook] not configured")
-        return False
+        raise RuntimeError("Facebook Page ID/token is not configured; item remains queued.")
     with open(path, "rb") as f:
         r = requests.post(f"https://graph.facebook.com/{GRAPH_API_VERSION}/{page}/photos",
                           data={"caption": text, "access_token": token},
                           files={"source": f}, timeout=90)
     if r.status_code != 200:
-        raise RuntimeError(f"{r.status_code} {r.text[:300]}")
-    print("[facebook] feed photo posted", r.json().get("post_id") or r.json().get("id"))
-    return r.json().get("post_id") or r.json().get("id") or True
+        raise requests.HTTPError(f"Facebook Graph API {r.status_code}: {r.text[:300]}", response=r)
+    payload = r.json()
+    post_id = payload.get("post_id") or payload.get("id")
+    if not post_id:
+        raise RuntimeError(f"Facebook accepted an upload response without a usable post id: {str(payload)[:300]}")
+    print("[facebook] feed photo posted", post_id)
+    return post_id
 
 
 def post_facebook_photo_story(path):
@@ -1416,23 +1463,58 @@ def make_poster(item, tag):
     return path
 
 def publish_one(queue, state, item, t0):
-    """Generate one branded news poster and publish it to the Facebook Page feed."""
+    """Render, durably claim, publish once, then persist Facebook's confirmation."""
     try:
-        # Rendering is part of the delivery path too: keep a bad font/image/template
-        # from aborting the entire scheduled newsroom cycle. The queued item remains
-        # retryable and the error is recorded just like a failed delivery attempt.
         path = make_poster(item, t0.astimezone(PKT).strftime("%Y%m%d-%H%M"))
-        res = post_facebook(path, item["caption"])
-        if not res:
-            raise RuntimeError("Facebook did not confirm the Page photo post.")
-        fb_id = str(res) if res is not True else None
     except Exception as ex:
-        item["facebook_error"] = str(ex)[:500]
+        item["poster_error"] = str(ex)[:500]
         item["attempts"] = item.get("attempts", 0) + 1
         if item["attempts"] >= 5:
             item["status"] = "failed"
-        print(f"[facebook] FAILED: {ex}; poster remains queued for retry")
+        print(f"[poster] FAILED: {ex}; item retained for retry/review")
         return False
+
+    if not (env("FB_PAGE_ID") and env("FB_PAGE_TOKEN")):
+        item["publish_blocked"] = "Facebook Page credentials missing"
+        print("[facebook] credentials missing; no attempt consumed and item remains queued")
+        return False
+
+    # Persist a claim BEFORE the external side effect. If the runner dies after
+    # Facebook accepts the upload but before local persistence, the next run will
+    # quarantine this record rather than blindly publish a duplicate.
+    item["status"] = "publishing"
+    item["attempts"] = item.get("attempts", 0) + 1
+    item["publishing_started"] = iso(t0)
+    item.pop("publish_blocked", None)
+    save_json(QUEUE_FILE, queue)
+
+    try:
+        fb_id = str(post_facebook(path, item["caption"]))
+    except requests.HTTPError as ex:
+        # An explicit Graph API error is a confirmed rejection; safe to retry with a cap.
+        item["facebook_error"] = str(ex)[:500]
+        item["status"] = "queued" if item["attempts"] < 5 else "failed"
+        save_json(QUEUE_FILE, queue)
+        print(f"[facebook] API rejected post: {ex}; status={item['status']}")
+        return False
+    except (requests.Timeout, requests.ConnectionError) as ex:
+        # The server may have accepted the upload before the connection failed.
+        item["status"] = "needs_review"
+        item["needs_review_at"] = iso(t0)
+        item["review_reason"] = "Facebook upload outcome uncertain after network failure; check Page before retrying."
+        item["facebook_error"] = str(ex)[:500]
+        save_json(QUEUE_FILE, queue)
+        print(f"[facebook] outcome uncertain; quarantined to prevent duplicate publication: {ex}")
+        return False
+    except Exception as ex:
+        item["status"] = "needs_review"
+        item["needs_review_at"] = iso(t0)
+        item["review_reason"] = "Facebook response did not provide a confirmed post ID; check Page before retrying."
+        item["facebook_error"] = str(ex)[:500]
+        save_json(QUEUE_FILE, queue)
+        print(f"[facebook] no confirmed post ID; quarantined to prevent duplicates: {ex}")
+        return False
+
     story_id = None
     story_status = "not_attempted"
     story_path = os.path.splitext(path)[0] + "_story.jpg"
@@ -1451,7 +1533,7 @@ def publish_one(queue, state, item, t0):
     item["status"] = "published"
     item["distribution"] = "facebook_feed"
     item["published"] = {"time": iso(t0), "facebook_post_id": fb_id,
-                         "facebook_post_url": f"https://www.facebook.com/{fb_id}" if fb_id else None,
+                         "facebook_post_url": f"https://www.facebook.com/{fb_id}",
                          "facebook_story_id": str(story_id) if story_id else None,
                          "facebook_story_status": story_status,
                          "public_check": "API accepted publication; public visibility not independently verified"}
@@ -1462,9 +1544,9 @@ def publish_one(queue, state, item, t0):
         "target_market": item.get("target_market", "Pakistan"),
         "facebook_post_id": fb_id, "facebook_story_status": story_status
     })
-    print("[queue] Facebook poster published", item.get("qid"), item["published"]["facebook_post_url"] or "")
+    save_json(QUEUE_FILE, queue)
+    print("[queue] Facebook poster published", item.get("qid"), item["published"]["facebook_post_url"])
     return True
-
 
 # ---------- report ----------
 def build_report(info):
@@ -1533,10 +1615,14 @@ def main():
         if not isinstance(row, dict):
             print("[queue] discarded malformed non-object record")
             continue
-        if row.get("status") not in ("queued", "published", "failed", "needs_review"):
+        if row.get("status") not in ("queued", "publishing", "published", "failed", "needs_review"):
             print("[queue] quarantined record with invalid status")
             row["status"] = "needs_review"
             row["review_reason"] = "Invalid or missing queue status"
+        if row.get("status") == "publishing":
+            row["status"] = "needs_review"
+            row["needs_review_at"] = iso(t0)
+            row["review_reason"] = "Previous run stopped during Facebook upload; publication outcome is uncertain. Check Page before retrying to prevent duplicates."
         row.setdefault("priority", "normal")
         row.setdefault("meta", {})
         if not isinstance(row["meta"], dict):
@@ -1580,6 +1666,11 @@ def main():
     dups = unchanged = 0
     candidates = []
     for c in clusters:
+        if any(is_international_pakistan_item(m.get("source", ""), m.get("link", ""),
+                                              m.get("title", "") + " " + m.get("snippet", ""))
+               for m in c.get("members", [])):
+            print(f"[source-policy] excluded Pakistan-related BBC/CNN/Al Jazeera item: {c['title'][:90]}")
+            continue
         hi = ed.match_list(c["tokens"], history)
         hist = history[hi] if hi is not None else None
         c["sig"] = ed.trend_signals(c, trends, hist, t0)
@@ -1712,8 +1803,12 @@ def main():
                 # tooling must never abort the core collect -> verify -> queue -> publish path.
                 # Keep the dated event memory above; controversy comparisons remain disabled
                 # until a real, tested scanner is implemented.
+            chosen_cluster_ids = {str(x.get("cluster", {}).get("id")) for x in chosen}
+            # Unselected direct-publisher stories must remain eligible for the next cycle;
+            # otherwise the rolling history would mark them analysed and silently lose them.
             for c in candidates:
-                c["hist"]["analysed_n"] = c["n_sources"]
+                if not is_direct_publisher_cluster(c) or str(c.get("id")) in chosen_cluster_ids:
+                    c["hist"]["analysed_n"] = c["n_sources"]
             info["lists"] = ed.top_lists(stories)
             min_comp = MIN_COMPOSITE if depth >= 4 else FILL_COMPOSITE
             # Maintain a rolling 24-28 approved-story buffer. Never overfill it;
@@ -1723,8 +1818,14 @@ def main():
             # urgent breaking/high-priority item can bypass the routine buffer cap.
             selection_limit = min(SELECT_N, normal_slots_left) if normal_slots_left else SELECT_N
             direct_ready = [s for s in stories if s.get("direct_source")]
+            direct_breaking = [s for s in direct_ready if s.get("priority") == "breaking"]
+            direct_normal = [s for s in direct_ready if s.get("priority") != "breaking"]
             ordinary_ready = [s for s in stories if not s.get("direct_source")]
-            chosen = direct_ready[:SELECT_N]
+            # Breaking bypasses the routine buffer. Non-breaking trusted stories use
+            # remaining normal slots, so a 4-per-cycle intake cannot overwhelm 1-per-cycle publishing.
+            chosen = direct_breaking
+            remaining = max(0, selection_limit - len(chosen))
+            chosen.extend(direct_normal[:remaining])
             remaining = max(0, selection_limit - len(chosen))
             if remaining:
                 chosen.extend(ed.select_balanced(ordinary_ready, remaining, MIN_CONFIDENCE, min_comp,
