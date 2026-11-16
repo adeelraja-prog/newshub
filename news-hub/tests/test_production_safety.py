@@ -111,6 +111,18 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(story["priority"], "normal")
         self.assertEqual(story["editorial_priority_band"], "P2")
 
+    def test_publisher_breaking_tag_bypasses_normal_queue(self):
+        instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
+        member = {"source": "Dawn", "link": "https://www.dawn.com/news/example",
+                  "title": "Supreme Court issues urgent order", "breaking_label": True}
+        cluster = {"id": "tagged-breaking", "members": [member], "lead": member,
+                   "title": member["title"], "excerpt": "The court issued an urgent order.",
+                   "sources": ["Dawn"], "first_pub": instant, "last_pub": instant,
+                   "sig": {"viral_measured": 0}}
+        story = newsroom.make_direct_publisher_story(cluster)
+        self.assertEqual(story["priority"], "breaking")
+        self.assertEqual(story["editorial_priority_band"], "P1")
+
     def test_explicit_breaking_label_bypasses_normal_queue(self):
         instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
         member = {"source": "Geo News", "link": "https://www.geo.tv/news/example",
