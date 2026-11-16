@@ -302,6 +302,12 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             ("OpIndia", "https://www.opindia.com/example"),
             ("Swarajya", "https://swarajyamag.com/example"),
             ("NewsLaundry", "https://www.newslaundry.com/example"),
+            ("Times Now", "https://www.timesnownews.com/example"),
+            ("NewsX", "https://www.newsx.com/example"),
+            ("The Lallantop", "https://www.thelallantop.com/example"),
+            ("The Better India", "https://www.thebetterindia.com/example"),
+            ("Bar and Bench", "https://www.barandbench.com/example"),
+            ("The Federal", "https://thefederal.com/example"),
             ("ANI", "https://www.aninews.in/example"),
             ("PTI", "https://www.ptinews.com/example"),
         ]:
