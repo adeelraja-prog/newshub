@@ -1619,7 +1619,7 @@ def pick_due(queue, t0):
             return it, ""
         if not (WINDOW_START <= t0.astimezone(PKT).hour < WINDOW_END):
             continue
-        if last and t0 - last < timedelta(minutes=max(gap - 1, 1)):
+        if last and t0 - last < timedelta(minutes=gap):
             continue
         if done >= MAX_PER_DAY:
             continue
