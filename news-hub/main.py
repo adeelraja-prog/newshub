@@ -1542,7 +1542,7 @@ def make_poster(item, tag):
                   item["priority"] == "breaking", [item.get("source_name") or "News Desk"],
                   HANDLE, path, variant=0, tag=item.get("tag"),
                   person=None, credit=item.get("source_name") or "News Desk",
-                  value_addition=None if english_poster else item.get("value_addition"))
+                  value_addition=item.get("value_addition"))
     return path
 
 def persist_publish_claim():
