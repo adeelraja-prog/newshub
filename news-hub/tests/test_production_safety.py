@@ -375,6 +375,18 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(story["importance"], 0)
         self.assertEqual(story["public_interest"], 0)
 
+    def test_direct_publisher_p2_is_not_starved_by_unscored_composite(self):
+        now = datetime(2026, 11, 16, 8, 0, tzinfo=timezone(timedelta(hours=5)))
+        direct = {"qid": "direct", "status": "queued", "not_before": newsroom.iso(now - timedelta(minutes=1)),
+                  "priority": "normal", "meta": {"direct_source": True, "editorial_priority_band": "P2",
+                  "scores": {"composite": 0}}}
+        assessed = {"qid": "assessed", "status": "queued", "not_before": newsroom.iso(now - timedelta(minutes=1)),
+                    "priority": "normal", "meta": {"direct_source": False, "editorial_priority_band": "P2",
+                    "scores": {"composite": 95}}}
+        item, reason = newsroom.pick_due({"items": [assessed, direct]}, now)
+        self.assertEqual(reason, "")
+        self.assertEqual(item["qid"], "direct")
+
     def test_breaking_post_obeys_global_ten_minute_gap(self):
         last = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
         item = {"qid": "breaking", "status": "queued", "priority": "breaking",
