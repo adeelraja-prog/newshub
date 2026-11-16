@@ -1976,7 +1976,12 @@ def main():
             ordinary_ready = [s for s in stories if not s.get("direct_source")]
             # Breaking bypasses the routine buffer. Non-breaking trusted stories use
             # remaining normal slots, so a 4-per-cycle intake cannot overwhelm 1-per-cycle publishing.
-            chosen = direct_breaking
+            chosen = list(direct_breaking)
+            # Also let an AI-reviewed P1 from other authentic sources bypass a full
+            # normal buffer; ordinary P2/P3 stories still respect the 28-item cap.
+            ordinary_breaking = [s for s in ordinary_ready
+                                 if ep.priority_band(s, trusted_publisher=is_trusted_publisher_story(s)) == "P1"]
+            chosen.extend(ordinary_breaking[:max(0, SELECT_N - len(chosen))])
             remaining = max(0, selection_limit - len(chosen))
             chosen.extend(direct_normal[:remaining])
             remaining = max(0, selection_limit - len(chosen))
