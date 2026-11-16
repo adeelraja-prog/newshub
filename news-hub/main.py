@@ -1359,12 +1359,15 @@ def direct_publisher_copy(story):
     title = clean(lead.get("title") or story.get("event") or cluster.get("title") or "")[:110]
     excerpt = clean(story.get("excerpt") or lead.get("snippet") or title)[:420]
     source_name = (story.get("original_source") or {}).get("name") or lead.get("source") or "Publisher"
-    is_urdu = has_urdu_script(title)
+    title_is_urdu = has_urdu_script(title)
+    excerpt_is_urdu = has_urdu_script(excerpt)
     return {
         "headline_primary": title, "headline_alt": title, "headline_choice": "primary",
-        "poster_headline_ur": title if is_urdu else "",
-        "poster_headline_en": title,
-        "caption_opening": title, "summary_en": excerpt or title, "summary_ur": "",
+        "poster_headline_ur": title if title_is_urdu else "",
+        "poster_headline_en": "" if title_is_urdu else title,
+        "caption_opening": title,
+        "summary_en": (excerpt or title) if not excerpt_is_urdu else "",
+        "summary_ur": excerpt if excerpt_is_urdu else "",
         "attribution_line": f"Source: {source_name}",
         "primary_keyword": " ".join(title.split()[:5]), "secondary_keywords": [],
         "entities": {}, "hashtags": [], "search_summary": title[:155],
@@ -1400,9 +1403,10 @@ def write_posts(stories, size=8):
 
 
 def build_caption(story, w):
-    parts = [w["caption_opening"].strip(), w["summary_en"].strip(), w["summary_ur"].strip(),
-             w["attribution_line"].strip()]   # source NAME only: no links in captions
-    if w["hashtags"]:
+    parts = [str(w.get(k) or "").strip() for k in
+             ("caption_opening", "summary_en", "summary_ur", "attribution_line")]
+    parts = [part for part in parts if part]  # do not leave empty language blocks in direct-source copy
+    if w.get("hashtags"):
         parts.append(" ".join(w["hashtags"]))
     return "\n\n".join(parts)
 
