@@ -308,40 +308,53 @@ def collect_new(state):
         if not feed.entries:
             print(f"[warn] {src['name']} returned an empty/unreadable feed (HTTP {status})")
         for e in feed.entries:
-            link, title = e.get("link", ""), clean(e.get("title", ""))
-            if not link or not title:
+            # A single malformed entry must not abort the remaining feeds or newsroom run.
+            try:
+                name = src["name"]
+                link, title = e.get("link", ""), clean(e.get("title", ""))
+                if not link or not title:
+                    continue
+                iid = ed.hashlib.sha1(ed.canonical_url(link).encode()).hexdigest()[:12]
+                if iid in seen or iid in ids:
+                    continue
+                ts = entry_time(e)
+                # Missing timestamps are not proof of freshness: reject instead of stamping now.
+                if ts is None:
+                    stats[src["name"] + " · missing timestamp"] = stats.get(src["name"] + " · missing timestamp", 0) + 1
+                    continue
+                if ts > t0 + timedelta(minutes=5) or ts < since:
+                    continue
+                snippet = clean(e.get("summary", ""))[:300]
+                if src["kind"] == "gnews":
+                    source_obj = e.get("source")
+                    st = source_obj.get("title") if isinstance(source_obj, dict) else ""
+                    if st:
+                        name = clean(st)
+                    title = re.sub(r"\s+-\s+[^-]+$", "", title)
+                # Indian publishers and Pakistan-related international-desk items are excluded here.
+                if is_blocked(name, link, title + " " + snippet) or has_devanagari(title + " " + snippet):
+                    BLOCKED_COUNT[0] += 1
+                    continue
+                media = e.get("media_thumbnail") or e.get("media_content") or []
+                if isinstance(media, dict):
+                    media = [media]
+                image_url = next((x.get("url") for x in media if isinstance(x, dict) and x.get("url")), "")
+                links = e.get("links") or []
+                if isinstance(links, dict):
+                    links = [links]
+                if not image_url:
+                    image_url = next((x.get("href") for x in links
+                                      if isinstance(x, dict) and x.get("rel") == "enclosure"
+                                      and str(x.get("type", "")).startswith("image/")), "")
+                ids.add(iid)
+                stats[name] = stats.get(name, 0) + 1
+                items.append({"id": iid, "source": name, "kind": src["kind"], "title": title,
+                              "snippet": snippet, "link": link, "image_url": image_url, "ts": iso(ts)})
+            except Exception as entry_error:
+                key = src.get("name", "unknown") + " · malformed entry"
+                stats[key] = stats.get(key, 0) + 1
+                print(f"[source-health] skipped malformed entry from {src.get('name','unknown')}: {entry_error}")
                 continue
-            iid = ed.hashlib.sha1(ed.canonical_url(link).encode()).hexdigest()[:12]
-            if iid in seen or iid in ids:
-                continue
-            ts = entry_time(e)
-            # Missing timestamps are not proof of freshness: reject instead of stamping now.
-            if ts is None:
-                stats[src["name"] + " · missing timestamp"] = stats.get(src["name"] + " · missing timestamp", 0) + 1
-                continue
-            if ts > t0 + timedelta(minutes=5) or ts < since:
-                continue
-            snippet = clean(e.get("summary", ""))[:300]
-            name = src["name"]
-            if src["kind"] == "gnews":
-                st = (e.get("source") or {}).get("title")
-                if st:
-                    name = st
-                title = re.sub(r"\s+-\s+[^-]+$", "", title)
-            # Keep genuinely global events even when Pakistan is not named; editorial scope gates decide.
-            if is_blocked(name, link, title + " " + snippet) or has_devanagari(title + " " + snippet):
-                BLOCKED_COUNT[0] += 1
-                continue
-            ids.add(iid)
-            stats[name] = stats.get(name, 0) + 1
-            media = (e.get("media_thumbnail") or e.get("media_content") or [])
-            image_url = next((x.get("url") for x in media if isinstance(x, dict) and x.get("url")), "")
-            if not image_url:
-                image_url = next((x.get("href") for x in (e.get("links") or [])
-                                  if isinstance(x, dict) and x.get("rel") == "enclosure"
-                                  and str(x.get("type", "")).startswith("image/")), "")
-            items.append({"id": iid, "source": name, "kind": src["kind"], "title": title,
-                          "snippet": snippet, "link": link, "image_url": image_url, "ts": iso(ts)})
     ok_sources = sum(1 for _, status, count, _ in source_health if status == 200 and count > 0)
     empty_sources = sum(1 for _, status, count, _ in source_health if count == 0)
     failed_sources = sum(1 for _, status, count, _ in source_health if status == "ERROR")
