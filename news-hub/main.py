@@ -1534,11 +1534,26 @@ def publish_one(queue, state, item, t0):
     try:
         fb_id = str(post_facebook(path, item["caption"]))
     except requests.HTTPError as ex:
-        # An explicit Graph API error is a confirmed rejection; safe to retry with a cap.
+        status_code = getattr(getattr(ex, "response", None), "status_code", 0)
         item["facebook_error"] = str(ex)[:500]
-        item["status"] = "queued" if item["attempts"] < 5 else "failed"
+        if 500 <= status_code < 600:
+            # A Graph API 5xx can occur after the remote side effect; do not blindly retry.
+            item["status"] = "needs_review"
+            item["needs_review_at"] = iso(t0)
+            item["review_reason"] = f"Facebook returned HTTP {status_code}; publication outcome may be uncertain. Check Page before retrying."
+        elif status_code == 429:
+            item["status"] = "queued" if item["attempts"] < 5 else "failed"
+            item["not_before"] = iso(t0 + timedelta(minutes=min(10 * item["attempts"], 60)))
+        else:
+            # Explicit 4xx validation/auth errors are rejections, not successful posts.
+            item["status"] = "needs_review" if status_code in (400, 401, 403) else (
+                "queued" if item["attempts"] < 5 else "failed"
+            )
+            if item["status"] == "needs_review":
+                item["needs_review_at"] = iso(t0)
+                item["review_reason"] = f"Facebook rejected the request with HTTP {status_code}; check Page permissions/configuration."
         save_json(QUEUE_FILE, queue)
-        print(f"[facebook] API rejected post: {ex}; status={item['status']}")
+        print(f"[facebook] Graph API HTTP {status_code}; status={item['status']}")
         return False
     except (requests.Timeout, requests.ConnectionError) as ex:
         # The server may have accepted the upload before the connection failed.
@@ -1716,7 +1731,9 @@ def main():
 
     # rolling pool of recent items so clusters keep their full coverage between runs
     new_items, stats = collect_new(state)
-    pool = [p for p in state.get("pool", []) if isinstance(p, dict) and valid_timestamp(p.get("ts"))
+    pool = [p for p in state.get("pool", [])
+            if isinstance(p, dict) and p.get("id") and p.get("source") and p.get("kind")
+            and p.get("title") and p.get("link") and valid_timestamp(p.get("ts"))
             and t0 - parse(p["ts"]) < timedelta(hours=POOL_HOURS)]
     pool_ids = {p["id"] for p in pool}
     pool += [i for i in new_items if i["id"] not in pool_ids]
@@ -1725,8 +1742,10 @@ def main():
     items = [{**p, "ts": parse(p["ts"])} for p in pool]
     clusters = ed.cluster_items(items)
     history = [h for h in state.get("history", []) if isinstance(h, dict)
+               and isinstance(h.get("tokens"), (list, tuple)) and h.get("tokens")
                and valid_timestamp(h.get("last_seen")) and t0 - parse(h["last_seen"]) < timedelta(hours=24)]
     published = [p for p in state.get("published", []) if isinstance(p, dict)
+                 and isinstance(p.get("tokens"), (list, tuple)) and isinstance(p.get("urls", []), list)
                  and valid_timestamp(p.get("time")) and t0 - parse(p["time"]) < timedelta(days=30)]
     queued_tokens = [{"tokens": i.get("tokens", []), "urls": i.get("urls", [])} for i in queue["items"] if i["status"] in ("queued", "published")]
 
