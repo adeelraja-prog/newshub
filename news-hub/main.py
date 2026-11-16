@@ -1096,7 +1096,7 @@ def fact_check(stories, written):
     fast_lane, check_written = {}, {}
     for n, w in written.items():
         story = stories[n - 1]
-        if is_trusted_publisher_story(story):
+        if story.get("direct_source") or is_trusted_publisher_story(story):
             fast_lane[n] = w
             source_name = (story.get("original_source") or {}).get("name") or "trusted publisher"
             print(f"[fact-check] fast lane: {source_name} — original published report; skipping second-source AI check")
@@ -1594,7 +1594,8 @@ def main():
             c["hist"] = hist
     for c in candidates:
         c["pre"] = ed.prelim_score(c, c["sig"], t0)
-    candidates = [c for c in sorted(candidates, key=lambda c: -c["pre"]) if c["pre"] > -15][:ANALYSE_TOP]
+    candidates = [c for c in sorted(candidates, key=lambda c: (not is_direct_publisher_cluster(c), -c["pre"]))
+                  if c["pre"] > -15][:ANALYSE_TOP]
     print(f"[info] pool {len(pool)} -> {len(clusters)} clusters -> {len(candidates)} to analyse "
           f"(dups {dups}, unchanged {unchanged})")
 
