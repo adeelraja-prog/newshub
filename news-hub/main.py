@@ -13,7 +13,7 @@ import re
 import sys
 import time
 import subprocess
-from urllib.parse import urlparse
+from urllib.parse import parse_qs, unquote, urlparse
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -324,6 +324,7 @@ def collect_new(state):
                 if ts > t0 + timedelta(minutes=5) or ts < since:
                     continue
                 snippet = clean(e.get("summary", ""))[:300]
+                source_verified = src["kind"] != "gnews"
                 tags = e.get("tags") or []
                 if isinstance(tags, dict):
                     tags = [tags]
@@ -340,6 +341,10 @@ def collect_new(state):
                     st = source_obj.get("title") if isinstance(source_obj, dict) else ""
                     if st:
                         name = clean(st)
+                        source_verified = True
+                    else:
+                        query = parse_qs(urlparse(src["url"]).query).get("q", [""])[0]
+                        source_verified = bool(re.search(r"\bsite:[a-z0-9.-]+", unquote(query), re.I))
                     title = re.sub(r"\s+-\s+[^-]+$", "", title)
                 # Indian publishers and Pakistan-related international-desk items are excluded here.
                 if is_blocked(name, link, title + " " + snippet) or has_devanagari(title + " " + snippet):
@@ -360,7 +365,8 @@ def collect_new(state):
                 stats[name] = stats.get(name, 0) + 1
                 items.append({"id": iid, "source": name, "kind": src["kind"], "title": title,
                               "snippet": snippet, "link": link, "image_url": image_url,
-                              "breaking_label": explicit_breaking, "ts": iso(ts)})
+                              "breaking_label": explicit_breaking, "source_verified": source_verified,
+                              "ts": iso(ts)})
             except Exception as entry_error:
                 key = src.get("name", "unknown") + " · malformed entry"
                 stats[key] = stats.get(key, 0) + 1
@@ -875,6 +881,10 @@ def is_fast_lane_member(member):
     allowed_domains = set(TRUSTED_PUBLISHERS) | INTERNATIONAL_DESKS
     if any(host == d or host.endswith("." + d) for d in allowed_domains):
         return not is_international_pakistan_item(name, url, member.get("title", ""))
+    # A Google News display label alone is not proof of publisher identity.
+    # Require its publisher field or a publisher-specific site: query.
+    if member.get("kind") == "gnews" and not member.get("source_verified"):
+        return False
     return name in FAST_LANE_NAMES and not is_international_pakistan_item(
         name, url, member.get("title", "")
     )
