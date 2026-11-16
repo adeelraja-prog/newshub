@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Adeel Raja News Hub v2: an editorial desk, not an RSS poster.
 
-Every run (30 min):  collect -> cluster -> measured signals -> Gemini analysis (best clusters only)
+Every ten-minute run: collect -> cluster -> direct publisher lane / AI analysis -> queue -> publish one due post.
 -> balanced selection -> Gemini writing -> QUEUE (queue.json) -> publish at most ONE due post.
 Facebook authorization and posting code (post_facebook) is unchanged from v1.
 """
@@ -344,7 +344,9 @@ def collect_new(state):
     ok_sources = sum(1 for _, status, count, _ in source_health if status == 200 and count > 0)
     empty_sources = sum(1 for _, status, count, _ in source_health if count == 0)
     failed_sources = sum(1 for _, status, count, _ in source_health if status == "ERROR")
+    active_names = [name for name, status, count, _ in source_health if status == 200 and count > 0]
     print(f"[sources] configured={len(SOURCES)} active={ok_sources} empty={empty_sources} failed={failed_sources}")
+    print("[sources-active] " + ", ".join(active_names))
     for name, status, count, bozo in source_health:
         if status == "ERROR" or count == 0 or bozo:
             print(f"[source-health] {name}: status={status} entries={count} malformed={bozo}")
@@ -1407,7 +1409,14 @@ def housekeeping(queue, t0):
     # Keep review items until explicitly resolved; retain recent history for audit.
     cutoff = t0 - timedelta(days=3)
     queue["items"] = [i for i in queue["items"]
-                      if parse(i["created"]) > cutoff or i["status"] in ("queued", "needs_review")]
+                      if parse(i["created"]) > cutoff or i["status"] == "queued"]
+    # Keep a bounded review archive in the active queue file; older review rows
+    # remain represented in Git history and run artifacts, not forever in hot state.
+    reviews = sorted((i for i in queue["items"] if i["status"] == "needs_review"),
+                     key=lambda i: i.get("needs_review_at") or i.get("created") or "")
+    keep_review_ids = {id(i) for i in reviews[-500:]}
+    queue["items"] = [i for i in queue["items"]
+                      if i["status"] != "needs_review" or id(i) in keep_review_ids]
 
 
 def last_published(queue):
@@ -1788,7 +1797,7 @@ def main():
     for c in candidates:
         c["pre"] = ed.prelim_score(c, c["sig"], t0)
     candidates = [c for c in sorted(candidates, key=lambda c: (not is_direct_publisher_cluster(c), -c["pre"]))
-                  if c["pre"] > -15][:ANALYSE_TOP]
+                  if is_direct_publisher_cluster(c) or c["pre"] > -15][:ANALYSE_TOP]
     print(f"[info] pool {len(pool)} -> {len(clusters)} clusters -> {len(candidates)} to analyse "
           f"(dups {dups}, unchanged {unchanged})")
 
@@ -1798,7 +1807,7 @@ def main():
     gemini_ok = True
     depth = sum(1 for i in queue["items"] if i["status"] == "queued" and i["priority"] == "normal")
     last_an = parse(state["last_analysis"]) if valid_timestamp(state.get("last_analysis")) else None
-    strong = any(c["pre"] >= FORCE_PRE for c in candidates)
+    strong = any(is_direct_publisher_cluster(c) or c["pre"] >= FORCE_PRE for c in candidates)
     cadence_ok = last_an is None or t0 - last_an >= timedelta(minutes=ANALYSIS_EVERY_MIN)
     if candidates and not strong and not (cadence_ok and depth < DEPTH_SKIP):
         print(f"[info] analysis skipped (queue depth {depth}, last analysis "
@@ -1854,11 +1863,11 @@ def main():
             for story in stories:
                 # A saturated story with no fresh publisher update for six hours is P5.
                 try:
-                    story["stale"] = (story.get("lifecycle") == "saturated" and
-                                      t0 - parse(story.get("last_update")) > timedelta(hours=6))
+                    # Use the latest publisher update, not the first headline time.
+                    story["stale"] = t0 - parse(story.get("last_update")) > timedelta(hours=6)
                 except Exception:
                     story["stale"] = False
-                band = story.get("editorial_priority_band") if story.get("direct_source") else ep.priority_band(story, trusted_publisher=is_trusted_publisher_story(story))
+                band = ("P5" if story["stale"] else story.get("editorial_priority_band")) if story.get("direct_source") else ep.priority_band(story, trusted_publisher=is_trusted_publisher_story(story))
                 story["editorial_priority_band"] = band
                 if band == "P5":
                     print(f"[priority] P5 STALE — excluded: {str(story.get('event') or '')[:90]}")
