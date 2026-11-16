@@ -1835,8 +1835,10 @@ def main():
                 band = story.get("editorial_priority_band", "P3")
                 if band == "P1":
                     story["priority"] = "breaking"
-                elif band == "P2" and story.get("priority") == "normal":
-                    story["priority"] = "high"
+                else:
+                    # P2 is a ranking advantage, not a cadence bypass. It still receives
+                    # a normal ten-minute slot so the intake cannot flood the delivery queue.
+                    story["priority"] = "normal"
             written = write_posts(chosen) if chosen else {}
             # Retry selected stories if creative generation failed; don't let an AI
             # writing outage mark the cluster as fully analysed.
