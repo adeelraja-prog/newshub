@@ -900,7 +900,8 @@ def strip_excluded_international_members(cluster):
     members = [
         m for m in cluster.get("members", [])
         if not is_international_pakistan_item(
-            m.get("source", ""), m.get("link", ""), m.get("title", "") + " " + m.get("snippet", "")
+            m.get("source", ""), m.get("publisher_url") or m.get("link", ""),
+            m.get("title", "") + " " + m.get("snippet", "")
         )
     ]
     if not members:
