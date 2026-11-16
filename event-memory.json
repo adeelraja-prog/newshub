@@ -41231,7 +41231,334 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "06e40b28ebe688dece54e90a",
+      "remembered_at": "2026-11-16T22:20:37.555556+00:00",
+      "event_date": "2026-11-16T21:35:51+00:00",
+      "last_update": "2026-11-16T21:35:51+00:00",
+      "event": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "alleging",
+        "attack",
+        "attorney",
+        "bonta",
+        "california",
+        "emphasis",
+        "entirely",
+        "face",
+        "files",
+        "general",
+        "growth",
+        "hugging",
+        "lack",
+        "lawsuit",
+        "openai",
+        "predictable",
+        "proper",
+        "rapid",
+        "result",
+        "rob",
+        "safeguards",
+        "says",
+        "was"
+      ],
+      "source_excerpt": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+          "published_at": "2026-11-16T21:35:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a21bec02c301ee7d84cede4f",
+      "remembered_at": "2026-11-16T22:20:37.555556+00:00",
+      "event_date": "2026-11-16T22:08:03+00:00",
+      "last_update": "2026-11-16T22:08:03+00:00",
+      "event": "Cass report author says she does not support draft conversion practices bill",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "author",
+        "bill",
+        "care",
+        "cass",
+        "consequences",
+        "conversion",
+        "does",
+        "draft",
+        "for",
+        "gender",
+        "not",
+        "parents",
+        "practices",
+        "report",
+        "review",
+        "risks",
+        "says",
+        "serious",
+        "she",
+        "support",
+        "the",
+        "therapists",
+        "unintended",
+        "wording"
+      ],
+      "source_excerpt": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T22:08:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a5f1101e9b9becfae85948ed",
+      "remembered_at": "2026-11-16T22:20:37.555556+00:00",
+      "event_date": "2026-11-16T21:40:07+00:00",
+      "last_update": "2026-11-16T21:40:07+00:00",
+      "event": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advance",
+        "and",
+        "are",
+        "backed",
+        "bbc",
+        "consequences",
+        "correspondent",
+        "could",
+        "dangerous",
+        "destabilise",
+        "economy",
+        "further",
+        "gaining",
+        "global",
+        "ground",
+        "have",
+        "houthi",
+        "houthis",
+        "iran",
+        "may",
+        "rebel",
+        "security",
+        "the",
+        "their",
+        "writes",
+        "yemen"
+      ],
+      "source_excerpt": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T21:40:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "450a40abb862cf95695865c8",
+      "remembered_at": "2026-11-16T22:20:37.555556+00:00",
+      "event_date": "2026-11-16T19:01:27+00:00",
+      "last_update": "2026-11-16T19:01:27+00:00",
+      "event": "Xbox and DJ Khaled urge gamers to skip work for GTA 6",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "for",
+        "gamers",
+        "gta",
+        "khaled",
+        "skip",
+        "urge",
+        "work",
+        "xbox"
+      ],
+      "source_excerpt": "Xbox and DJ Khaled urge gamers to skip work for GTA 6",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/xbox-and-dj-khaled-urge-gamers-to-skip-work-for-gta-6",
+          "published_at": "2026-11-16T19:01:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/xbox-and-dj-khaled-urge-gamers-to-skip-work-for-gta-6",
+        "publisher_url": "https://arynews.tv/xbox-and-dj-khaled-urge-gamers-to-skip-work-for-gta-6",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "66824a8c3fbec3fc8ed94076",
+      "remembered_at": "2026-11-16T22:20:37.555556+00:00",
+      "event_date": "2026-11-16T18:41:44+00:00",
+      "last_update": "2026-11-16T18:41:44+00:00",
+      "event": "Twitch warns GTA 6 creators against broadcasting early via regional exploits",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "broadcasting",
+        "creators",
+        "early",
+        "exploits",
+        "gta",
+        "regional",
+        "twitch",
+        "via",
+        "warns"
+      ],
+      "source_excerpt": "Twitch warns GTA 6 creators against broadcasting early via regional exploits",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/twitch-warns-gta-6-creators-against-broadcasting-early-via-regional-exploits",
+          "published_at": "2026-11-16T18:41:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/twitch-warns-gta-6-creators-against-broadcasting-early-via-regional-exploits",
+        "publisher_url": "https://arynews.tv/twitch-warns-gta-6-creators-against-broadcasting-early-via-regional-exploits",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3a8a5f89ed00d43872a12de4",
+      "remembered_at": "2026-11-16T22:20:37.555556+00:00",
+      "event_date": "2026-11-16T17:46:00+00:00",
+      "last_update": "2026-11-16T17:46:00+00:00",
+      "event": "GTA 6 hacker Arion Kurtaj pleads guilty: Meet teen who cost Rockstar $5 million using Fire Stick",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anticipated",
+        "arguably",
+        "arion",
+        "before",
+        "biggest",
+        "cost",
+        "days",
+        "fire",
+        "for",
+        "game",
+        "gaming",
+        "gta",
+        "guilty",
+        "hacker",
+        "has",
+        "history",
+        "industry",
+        "kurtaj",
+        "leaks",
+        "meet",
+        "million",
+        "most",
+        "one",
+        "pleaded",
+        "pleads",
+        "release",
+        "responsible",
+        "rockstar",
+        "stick",
+        "teen",
+        "the",
+        "three",
+        "using",
+        "video",
+        "who"
+      ],
+      "source_excerpt": "GTA 6 hacker Arion Kurtaj pleads guilty: Meet Teen who cost Rockstar $5 million using Fire Stick Three days before the release of arguably the most anticipated video game in history, the hacker responsible for one of the biggest leaks in the gaming industry's history has pleaded...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691362-gta-6-hacker-arion-kurtaj-pleads-guilty-meet-teen-who-cost-rockstar-5-million-using-fire-stick",
+          "published_at": "2026-11-16T17:46:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691362-gta-6-hacker-arion-kurtaj-pleads-guilty-meet-teen-who-cost-rockstar-5-million-using-fire-stick",
+        "publisher_url": "https://www.geo.tv/latest/691362-gta-6-hacker-arion-kurtaj-pleads-guilty-meet-teen-who-cost-rockstar-5-million-using-fire-stick",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-16T21:21:22.597447+00:00"
+  "updated_at": "2026-11-16T22:20:37.555556+00:00"
 }

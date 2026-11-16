@@ -1,130 +1,129 @@
-# News Hub report - Tue 17 Nov, 02:21 AM PKT
+# News Hub report - Tue 17 Nov, 03:20 AM PKT
 
 ## Collection
-- New items this run: 34 | items in rolling pool: 642
-- Unique story clusters: 530 (duplicates merged: 112)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 12
-- Items per outlet: Pakistan Today 7, Al Jazeera 6, The Verge 5, Geo News 3, Ars Technica 3, Engadget 2, ARYnews.tv 1, ARY News 1, Jang Urdu 1, X 1, TechCrunch 1, GSMArena 1
+- New items this run: 19 | items in rolling pool: 575
+- Unique story clusters: 478 (duplicates merged: 97)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 9
+- Items per outlet: The Express Tribune 2, TechCrunch 2, Geo News 1, Jang Urdu 1, Al Jazeera 1, The Media Line 1, The Guardian 1, The New York Times 1, The Verge 1, Engadget 1, Ars Technica 1, Wired 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Thousands report difficulties accessing accounts online at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nationwide ground stop could cost US airlines hundreds of millions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli opposition accuses Netanyahu of attempted ‘coup’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mamdani to disband NYPD unit deployed at Columbia protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sudanese army air attack kills 13 in western Sudan: Rights group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Manchester United’s Endless Loop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Photos: California residents gather to watch massive El Nino-fuelled waves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- London Palestine Film Festival returns for 27th year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Thousands report difficulties accessing accounts online at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nationwide ground stop could cost US airlines hundreds of millions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli opposition accuses Netanyahu of attempted ‘coup’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mamdani to disband NYPD unit deployed at Columbia protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sudanese army air attack kills 13 in western Sudan: Rights group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Manchester United’s Endless Loop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Photos: California residents gather to watch massive El Nino-fuelled waves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- London Palestine Film Festival returns for 27th year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Thousands report difficulties accessing accounts online at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nationwide ground stop could cost US airlines hundreds of millions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli opposition accuses Netanyahu of attempted ‘coup’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mamdani to disband NYPD unit deployed at Columbia protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sudanese army air attack kills 13 in western Sudan: Rights group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Manchester United’s Endless Loop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Photos: California residents gather to watch massive El Nino-fuelled waves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- London Palestine Film Festival returns for 27th year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 83/107 | empty: 2 | failed: 22 | malformed/partial: 22
-- Trusted publisher desks with at least one healthy source: 8/10
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 85/107 | empty: 3 | failed: 19 | malformed/partial: 19
+- Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Hum News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Rights and Accountability Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: AP World | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Express News, Dunya News TV
+- ATTENTION: Pakistan National Politics | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: AJK Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Thousands report difficulties accessing accounts online at major US banks  [NORMAL]
-- Poster:  / Thousands report difficulties accessing accounts online at major US banks | category other
-- Alternative headline: Thousands report difficulties accessing accounts online at major US banks
+### Mamdani to disband NYPD unit deployed at Columbia protests  [NORMAL]
+- Poster:  / Mamdani to disband NYPD unit deployed at Columbia protests | category other
+- Alternative headline: Mamdani to disband NYPD unit deployed at Columbia protests
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss
-- Supporting coverage: Al Jazeera, Engadget
-- Keywords: Thousands report difficulties accessing accounts | hashtags: 
-- Scheduled: Tue 17 Nov, 02:21 AM PKT
-- Caption:
-```
-Thousands report difficulties accessing accounts online at major US banks
-
-Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.
-
-Source: Al Jazeera
-```
-
-### UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election  [NORMAL]
-- Poster:  / UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election | category other
-- Alternative headline: UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: UEFA backs France’s Philippe Diallo | hashtags: 
-- Scheduled: Tue 17 Nov, 02:31 AM PKT
-- Caption:
-```
-UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election
-
-French Football Federation chief Diallo emerges as a strong challenger in FIFA's upcoming presidential election.
-
-Source: Al Jazeera
-```
-
-### Nationwide ground stop could cost US airlines hundreds of millions  [NORMAL]
-- Poster:  / Nationwide ground stop could cost US airlines hundreds of millions | category other
-- Alternative headline: Nationwide ground stop could cost US airlines hundreds of millions
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Nationwide ground stop could cost | hashtags: 
-- Scheduled: Tue 17 Nov, 02:41 AM PKT
+- Keywords: Mamdani to disband NYPD unit | hashtags: 
+- Scheduled: Tue 17 Nov, 03:20 AM PKT
 - Caption:
 ```
-Nationwide ground stop could cost US airlines hundreds of millions
+Mamdani to disband NYPD unit deployed at Columbia protests
 
-Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.
+New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.
 
 Source: Al Jazeera
 ```
 
-### Israeli opposition accuses Netanyahu of attempted ‘coup’  [NORMAL]
-- Poster:  / Israeli opposition accuses Netanyahu of attempted ‘coup’ | category other
-- Alternative headline: Israeli opposition accuses Netanyahu of attempted ‘coup’
+### Sudanese army air attack kills 13 in western Sudan: Rights group  [NORMAL]
+- Poster:  / Sudanese army air attack kills 13 in western Sudan: Rights group | category other
+- Alternative headline: Sudanese army air attack kills 13 in western Sudan: Rights group
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Israeli opposition accuses Netanyahu of | hashtags: 
-- Scheduled: Tue 17 Nov, 02:51 AM PKT
+- Keywords: Sudanese army air attack kills | hashtags: 
+- Scheduled: Tue 17 Nov, 03:30 AM PKT
 - Caption:
 ```
-Israeli opposition accuses Netanyahu of attempted ‘coup’
+Sudanese army air attack kills 13 in western Sudan: Rights group
 
-Rivals call for investigation into reports that PM's office tried to frame Arab parties.
+'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.
+
+Source: Al Jazeera
+```
+
+### Manchester United’s Endless Loop  [NORMAL]
+- Poster:  / Manchester United’s Endless Loop | category other
+- Alternative headline: Manchester United’s Endless Loop
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Manchester United’s Endless Loop | hashtags: 
+- Scheduled: Tue 17 Nov, 03:40 AM PKT
+- Caption:
+```
+Manchester United’s Endless Loop
+
+Thirteen years, eight permanent managers, almost £100 million spent on sacking and hiring — and still no hiring
+
+Source: Al Jazeera
+```
+
+### Photos: California residents gather to watch massive El Nino-fuelled waves  [NORMAL]
+- Poster:  / Photos: California residents gather to watch massive El Nino-fuelled waves | category other
+- Alternative headline: Photos: California residents gather to watch massive El Nino-fuelled waves
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Photos: California residents gather to | hashtags: 
+- Scheduled: Tue 17 Nov, 03:50 AM PKT
+- Caption:
+```
+Photos: California residents gather to watch massive El Nino-fuelled waves
+
+National Weather Service warns that waves of more than 10 metres high could impact some parts of US's California coast.
 
 Source: Al Jazeera
 ```
@@ -132,7 +131,7 @@ Source: Al Jazeera
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -218,8 +217,8 @@ Source: Al Jazeera
 - [needs_review] normal | Punjab orders recall of five medicines over quality, safety concerns | Mon 16 Nov, 07:05 PM PKT
 - [published] normal | China says Xi-Putin-Trump meeting has 'groundbreaking significance' | Mon 16 Nov, 09:00 PM PKT
 - [published] normal | Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | Mon 16 Nov, 09:10 PM PKT
-- [queued] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
-- [queued] normal | Klopp says Infantino worse than Blatter | Mon 16 Nov, 09:30 PM PKT
+- [needs_review] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
+- [published] normal | Klopp says Infantino worse than Blatter | Mon 16 Nov, 09:30 PM PKT
 - [queued] normal | SBP projects 3.5-4.5% GDP growth for FY27 | Mon 16 Nov, 10:14 PM PKT
 - [queued] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
 - [queued] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
@@ -240,9 +239,13 @@ Source: Al Jazeera
 - [queued] normal | UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA ele | Tue 17 Nov, 02:31 AM PKT
 - [queued] normal | Nationwide ground stop could cost US airlines hundreds of millions | Tue 17 Nov, 02:41 AM PKT
 - [queued] normal | Israeli opposition accuses Netanyahu of attempted ‘coup’ | Tue 17 Nov, 02:51 AM PKT
+- [queued] normal | Mamdani to disband NYPD unit deployed at Columbia protests | Tue 17 Nov, 03:20 AM PKT
+- [queued] normal | Sudanese army air attack kills 13 in western Sudan: Rights group | Tue 17 Nov, 03:30 AM PKT
+- [queued] normal | Manchester United’s Endless Loop | Tue 17 Nov, 03:40 AM PKT
+- [queued] normal | Photos: California residents gather to watch massive El Nino-fuelled w | Tue 17 Nov, 03:50 AM PKT
 
 ## Publishing this run
-- Published 'Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond'.
+- Published 'Klopp says Infantino worse than Blatter'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
