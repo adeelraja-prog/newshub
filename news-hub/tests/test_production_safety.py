@@ -40,11 +40,11 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
 
     def test_india_story_from_cnn_and_al_jazeera_remains_allowed(self):
         self.assertFalse(newsroom.is_blocked(
-            "CNN India General Desk", "https://news.google.com/rss/articles/example",
+            "CNN India General Desk", "https://www.cnn.com/world/india/example",
             "India election results and parliament debate"
         ))
         self.assertFalse(newsroom.is_blocked(
-            "Al Jazeera India General Desk", "https://news.google.com/rss/articles/example",
+            "Al Jazeera India General Desk", "https://www.aljazeera.com/news/india/example",
             "India election results and parliament debate"
         ))
 
