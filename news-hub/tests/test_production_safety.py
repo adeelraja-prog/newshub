@@ -54,6 +54,12 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             "India election results and parliament debate"
         ))
 
+    def test_india_search_lane_from_unapproved_publisher_is_blocked_without_india_in_headline(self):
+        self.assertTrue(newsroom.is_blocked(
+            "Reuters India politics", "https://www.reuters.com/world/example",
+            "Parliament approves a new bill after a long debate"
+        ))
+
     def test_india_story_from_bbc_remains_allowed(self):
         self.assertFalse(newsroom.is_blocked(
             "BBC News", "https://www.bbc.com/news/world-asia-india-example",
