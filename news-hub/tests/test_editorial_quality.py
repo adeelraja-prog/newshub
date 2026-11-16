@@ -71,7 +71,7 @@ class EditorialQualityTests(unittest.TestCase):
     def test_explainer_accepts_substantive_sourced_points(self):
         ok, _ = q.validate_value_addition({"type":"explainer","points":[
             {"text":"The court suspended the notification after finding that the department had not followed the procedure required by the relevant law.","source":"Dawn","url":"https://dawn.com/a"},
-            {"text":"The order means the earlier arrangement remains in place until the next hearing, when the government must explain its legal position to the court.","source":"Dawn","url":"https://dawn.com/b"}]})
+            {"text":"The order means the earlier arrangement remains in place until the next hearing, when the government must explain its legal position to the court. The dispute therefore remains unresolved until the judges consider that explanation and issue further directions.","source":"Dawn","url":"https://dawn.com/b"}]})
         self.assertTrue(ok)
 
     def test_explainer_rejects_four_overloaded_points(self):
