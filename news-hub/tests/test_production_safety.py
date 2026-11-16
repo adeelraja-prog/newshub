@@ -128,6 +128,33 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             with self.assertRaises(RuntimeError):
                 newsroom.post_facebook(image.name, "test caption")
 
+    def test_facebook_upload_is_blocked_if_durable_checkpoint_fails(self):
+        item = {"qid": "test-queue", "status": "queued", "attempts": 0, "caption": "caption"}
+        queue = {"items": [item]}
+        with tempfile.TemporaryDirectory() as folder, patch.dict(os.environ, {
+            "FB_PAGE_ID": "test-page", "FB_PAGE_TOKEN": "test-token"
+        }), patch.object(newsroom, "QUEUE_FILE", folder + "/queue.json"), \
+             patch.object(newsroom, "make_poster", return_value=folder + "/poster.jpg"), \
+             patch.object(newsroom, "persist_publish_claim", side_effect=RuntimeError("git push failed")), \
+             patch.object(newsroom, "post_facebook") as facebook_post:
+            result = newsroom.publish_one(queue, {}, item, datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc))
+        self.assertFalse(result)
+        self.assertEqual(item["status"], "queued")
+        facebook_post.assert_not_called()
+
+    def test_ambiguous_facebook_timeout_is_quarantined_not_retried(self):
+        item = {"qid": "test-queue", "status": "queued", "attempts": 0, "caption": "caption"}
+        queue = {"items": [item]}
+        with tempfile.TemporaryDirectory() as folder, patch.dict(os.environ, {
+            "FB_PAGE_ID": "test-page", "FB_PAGE_TOKEN": "test-token"
+        }), patch.object(newsroom, "QUEUE_FILE", folder + "/queue.json"), \
+             patch.object(newsroom, "make_poster", return_value=folder + "/poster.jpg"), \
+             patch.object(newsroom, "persist_publish_claim"), \
+             patch.object(newsroom, "post_facebook", side_effect=newsroom.requests.Timeout("timeout")):
+            result = newsroom.publish_one(queue, {}, item, datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc))
+        self.assertFalse(result)
+        self.assertEqual(item["status"], "needs_review")
+
     def test_english_poster_keeps_explainer_visual(self):
         visual = {"type": "explainer", "title": "WHY THE COURT INTERVENED",
                   "points": [{"text": "A substantive explanation of the court decision and its immediate legal effect.",
