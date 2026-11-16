@@ -1773,8 +1773,8 @@ def build_report(info):
             L.append("")
     if SOURCE_HEALTH:
         fast_rows = [r for r in SOURCE_HEALTH if "fast lane" in r[0].lower()]
-        fast_active = sum(1 for _, status, count, _ in fast_rows if status == 200 and count > 0)
-        active = sum(1 for _, status, count, _ in SOURCE_HEALTH if status == 200 and count > 0)
+        fast_active = sum(1 for _, status, count, bozo in fast_rows if status == 200 and count > 0 and not bozo)
+        active = sum(1 for _, status, count, bozo in SOURCE_HEALTH if status == 200 and count > 0 and not bozo)
         empty = sum(1 for _, status, count, _ in SOURCE_HEALTH if status != "ERROR" and count == 0)
         failed = sum(1 for _, status, _, _ in SOURCE_HEALTH if status == "ERROR")
         malformed = sum(1 for _, _, _, bozo in SOURCE_HEALTH if bozo)
