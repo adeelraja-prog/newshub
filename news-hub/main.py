@@ -1040,6 +1040,24 @@ def write_batch(stories):
         w["hashtags"] = tags[:5]
         w["headline_used"] = w["headline_alt"] if w.get("headline_choice") == "alt" else w["headline_primary"]
         out[n] = w
+    # A valid but incomplete AI response must not strand a direct publisher item.
+    for n, story in enumerate(stories, 1):
+        if not story.get("direct_source") or n in out:
+            continue
+        c = story["cluster"]
+        title = clean(c["lead"].get("title") or story["event"])[:110]
+        excerpt = clean(story.get("excerpt") or c["lead"].get("snippet") or title)[:420]
+        source_name = story["original_source"]["name"]
+        out[n] = {
+            "headline_primary": title, "headline_alt": title, "headline_choice": "primary",
+            "poster_headline_ur": "اہم خبر", "poster_headline_en": title[:90],
+            "caption_opening": title, "summary_en": excerpt or title,
+            "summary_ur": "یہ خبر اصل خبر رساں ادارے کی شائع کردہ رپورٹ پر مبنی ہے۔",
+            "attribution_line": f"Source: {source_name}", "primary_keyword": " ".join(title.split()[:4]),
+            "secondary_keywords": [], "entities": {}, "hashtags": [], "search_summary": title[:155],
+            "value_addition": {"type": "none"}, "headline_used": title
+        }
+        print(f"[writer] source-faithful fallback used for {source_name}: {title[:70]}")
     return out
 
 
