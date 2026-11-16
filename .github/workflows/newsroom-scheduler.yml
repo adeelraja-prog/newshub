@@ -1,18 +1,6 @@
 name: newsroom-scheduler
 on:
-  push:
-    branches: [main]
-    paths:
-      - ".github/workflows/newsroom-scheduler.yml"
-  schedule:
-    - cron: "*/10 * * * *"
   workflow_dispatch:
-    inputs:
-      publish:
-        description: "Actually publish to Facebook (leave off for a safe preview)"
-        required: false
-        type: boolean
-        default: false
 permissions:
   contents: write
 concurrency:
@@ -23,7 +11,6 @@ defaults:
     working-directory: news-hub   # the project lives in the news-hub folder of the repo
 jobs:
   run:
-    if: ${{ github.event_name != 'push' || startsWith(github.event.head_commit.message, '[start-newsroom]') }}
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
