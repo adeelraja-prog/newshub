@@ -60,6 +60,12 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             "Parliament approves a new bill after a long debate"
         ))
 
+    def test_india_google_news_label_without_original_domain_is_blocked(self):
+        self.assertTrue(newsroom.is_blocked(
+            "CNN India politics", "https://news.google.com/rss/articles/example",
+            "India parliament debates a new law"
+        ))
+
     def test_india_story_from_bbc_remains_allowed(self):
         self.assertFalse(newsroom.is_blocked(
             "BBC News", "https://www.bbc.com/news/world-asia-india-example",
