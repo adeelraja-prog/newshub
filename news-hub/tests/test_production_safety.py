@@ -361,6 +361,9 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(written[2]["headline_used"], "AI story")
         writer.assert_called_once()
 
+    def test_edexlive_indian_outlet_is_blocked_even_via_google_news(self):
+        self.assertTrue(newsroom.is_blocked("EdexLive", "https://news.google.com/rss/articles/example",
+                                         "School Assembly News Today"))
     def test_indian_wire_agency_aliases_are_blocked(self):
         for name in ("Press Trust of India", "Asian News International", "ANI News",
                      "Indo-Asian News Service", "United News of India"):
