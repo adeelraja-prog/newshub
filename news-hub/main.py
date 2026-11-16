@@ -1384,7 +1384,7 @@ def direct_publisher_copy(story):
         "primary_keyword": " ".join(title.split()[:5]), "secondary_keywords": [],
         "entities": {}, "hashtags": [], "search_summary": title[:155],
         "value_addition": {"type": "none"}, "headline_used": title,
-        "direct_copy_language": "ur" if is_urdu else "en",
+        "direct_copy_language": "ur" if title_is_urdu else "en",
     }
 
 
