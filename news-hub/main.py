@@ -1849,20 +1849,17 @@ def build_report(info):
                          f"viral~{s['viral_potential']} | conf {s['confidence']} | urgency {s['urgency']}")
             L.append("")
     if SOURCE_HEALTH:
-        fast_rows = [r for r in SOURCE_HEALTH if "fast lane" in r[0].lower()]
-        fast_active = sum(1 for _, status, count, bozo in fast_rows if status == 200 and count > 0 and not bozo)
         active = sum(1 for _, status, count, bozo in SOURCE_HEALTH if status == 200 and count > 0 and not bozo)
         empty = sum(1 for _, status, count, _ in SOURCE_HEALTH if status != "ERROR" and count == 0)
         failed = sum(1 for _, status, _, _ in SOURCE_HEALTH if status == "ERROR")
         malformed = sum(1 for _, _, _, bozo in SOURCE_HEALTH if bozo)
         L += ["## Source health",
               f"- Overall feeds with entries: {active}/{len(SOURCE_HEALTH)} | empty: {empty} | failed: {failed} | malformed/partial: {malformed}",
-              f"- Trusted fast-lane feeds with entries: {fast_active}/{len(fast_rows)}"]
+              f"- Trusted publisher desks with at least one healthy source: {SOURCE_HEALTH_SUMMARY.get('active', 0)}/{SOURCE_HEALTH_SUMMARY.get('total', 0)}"]
         for name, status, count, bozo in [r for r in SOURCE_HEALTH if r[1] == "ERROR" or r[2] == 0 or r[3]][:15]:
             L.append(f"- ATTENTION: {name} | HTTP/status={status} | entries={count} | malformed={bozo}")
         summary = SOURCE_HEALTH_SUMMARY
         if summary:
-            L.append(f"- Trusted publisher desks with at least one healthy search/feed: {summary.get('active', 0)}/{summary.get('total', 0)}")
             if summary.get("unavailable"):
                 L.append("- Trusted publisher desks with no healthy source: " + ", ".join(summary["unavailable"]))
         L.append("")
