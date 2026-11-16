@@ -39281,7 +39281,608 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "212333fa505f875f1021e0a2",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T10:28:10+00:00",
+      "last_update": "2026-11-16T13:32:50+00:00",
+      "event": "Gold price in Pakistan latest - November 16, 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "gold",
+        "latest",
+        "november",
+        "pakistan",
+        "price",
+        "samaa"
+      ],
+      "source_excerpt": "Gold price in Pakistan latest - November 16, 2026 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEg0V1Zrb05xN3lOLTBQOVVzZVoyWmpfeEJSV0QtYUdITHJSNFFCQ2tqcHJrelJ5NUJEM00weWwxM1Z4SkZTeG8yamNzZ3VoRDVTaUNSX2xkUEljUG5kRENnT3BQVjRiRnUxdTZ3RWluaUVtZjNiMWZSVlhlVnUtSkdUM0VFMVN2RnBMd2VlT3NpQQ?oc=5",
+          "published_at": "2026-11-16T10:28:10+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTJJZ0RTa2lEMjNNS3lJblhlck1PZm1tZjRaLUp6Yy1rLTUyaXEtVEN5LUxVb1JSUmpBYWswdG9TYzRyWjJhVzEzdXFoUHkzVklkNExIQ3V4U0QtZzRfbnN3X2VicE1JOXZTTW5aeWtmYmVrVlJ0emJPZUdJZWNjUWkydzNrU3c?oc=5",
+          "published_at": "2026-11-16T10:51:08+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVVVuMXRQUkpaOTF6RjFHTUMzZ3lUN1c3dEJxSVNpRlktWHlqV1NmWkpud1VBcHVqckpScEk5R2ZRT0E1dTVPOHowLXFfeG9SWFhMT25ldnAtMnNyenpZT0RJLTRySThPNXF6MjVDeFhYVWhLQ1cxTGxFSUhzQ3gyS2pmdkdIdVJvOTFEWWk3ZUVHaE9FOHJkNUg1Ui1XRXJZZmUzVFBOdmJ2TTFMUEw3NGV6T2JHUThq?oc=5",
+          "published_at": "2026-11-16T11:40:12+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeklXeHJITUNNRDU3OFk4anZTN04zN19MU3VTZ0Iza0FBTXZ5WW52Y0hMNzVuekthVzM0S2Nnckc2cmhPQy1ZR0JLazk0aXZvQ1g3NG1GVW5zRFVycXZEdWdLU19GQnVhQnBDLVNCTnd0RXRpektSTkg4TFl2UjNkREtzUTlIZjVNTkZHak5pQjd5R05xVW5NajhHaVRBVWgyMGx3OTRRMnVuMFFiNVdJ?oc=5",
+          "published_at": "2026-11-16T12:19:35+00:00"
+        },
+        {
+          "name": "X",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96aE5UZFcta3Etd2JXaHVqMVhQakp3VUxhcVNzZnQzNUY0SWxNb3AzUTk5TVBIYXJEckhGdjVrS19ua0lPajBGMDQzTE5OVG9ycGYxaWpFU21US192N3ZzazVn?oc=5",
+          "published_at": "2026-11-16T13:24:22+00:00"
+        },
+        {
+          "name": "Just Security",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWmRRYmQ4bjhWd09CcDRNclNWWnRxTGY1bHMyd3FrMGF4clhfb3daUmRnWkdPNFhjLXFrdjZVLWpXVFR5VVNwdTM1aU4xTU9vd1Y4b0hEU1JxOE9ualdlb1J3ZmNOSWY5OURudUlpNFJOODZGSFVhNWliSmF5S05BZ2dDVl9DcnBkUDJxOGpCZW1iQy05MUo5WXhROEZZSEFnTXhpVjB1UDFLcmtlX0E2MzhieHpjZWZqREFKLUFhajBpQ1JGN3ZEYi1hdW9MRmxoUXVuVmdIanE?oc=5",
+          "published_at": "2026-11-16T13:32:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEg0V1Zrb05xN3lOLTBQOVVzZVoyWmpfeEJSV0QtYUdITHJSNFFCQ2tqcHJrelJ5NUJEM00weWwxM1Z4SkZTeG8yamNzZ3VoRDVTaUNSX2xkUEljUG5kRENnT3BQVjRiRnUxdTZ3RWluaUVtZjNiMWZSVlhlVnUtSkdUM0VFMVN2RnBMd2VlT3NpQQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9a0c4736e094b3d611702e7f",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T16:52:13+00:00",
+      "last_update": "2026-11-16T17:58:08+00:00",
+      "event": "Punjab to introduce new anti-rape law and speedy courts",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "anti",
+        "courts",
+        "introduce",
+        "law",
+        "new",
+        "punjab",
+        "rape",
+        "speedy"
+      ],
+      "source_excerpt": "Punjab to introduce new anti-rape law and speedy courts",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-to-introduce-new-anti-rape-law-and-speedy-courts",
+          "published_at": "2026-11-16T16:52:13+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkhpOU54MEFYMU1pb2xMXzV2Vk53SEFKeXlOcmludGFhWmdZLUw4WWlzNnlxdzFuNHROYUxrVFRUeWVrZ2kxN2xTblp4dWhoM3BTNUJFbDUzb0FGcm01VVRxeWd5bEdBYk1MY1JmSnBNRlpCYUwyYUNITWJUelZCcEpYTThKTDZnWHBKMGlWQV9sX2ZwWURmTld0cHgxOFluM2Ffc3VNVEtkSTdDUlhjb1FYX2w3UG9s?oc=5",
+          "published_at": "2026-11-16T17:58:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-to-introduce-new-anti-rape-law-and-speedy-courts",
+        "publisher_url": "https://arynews.tv/punjab-to-introduce-new-anti-rape-law-and-speedy-courts",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "081d720a76d1017ca34294e9",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T15:05:10+00:00",
+      "last_update": "2026-11-16T15:05:10+00:00",
+      "event": "Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News English",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "7pc",
+        "dawn",
+        "ease",
+        "english",
+        "forecasts",
+        "fy27",
+        "inflation",
+        "news",
+        "pakistan",
+        "sbp"
+      ],
+      "source_excerpt": "Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News English Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEMwUDZ6YmVZblpKeFhDdTIyMTBFa2JweGxyMnFiZF9pQnlYWno0c09aUV9zMFAyOHRmYVZycGRsNndoT1JDRnpqUWd6WE5WcF9nRWF6ZEh4c1RfejMzbUFyZXZlUEFCcjJyY1g3UXJRQ0EtOHZJVHpkYmRuWjdDRmdoNV9xeVlFdTAxdkNtU2lsQTl0azU1VWFXdEVGQUgzNVVtaEt5X3daSFNVUGc?oc=5",
+          "published_at": "2026-11-16T15:05:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEMwUDZ6YmVZblpKeFhDdTIyMTBFa2JweGxyMnFiZF9pQnlYWno0c09aUV9zMFAyOHRmYVZycGRsNndoT1JDRnpqUWd6WE5WcF9nRWF6ZEh4c1RfejMzbUFyZXZlUEFCcjJyY1g3UXJRQ0EtOHZJVHpkYmRuWjdDRmdoNV9xeVlFdTAxdkNtU2lsQTl0azU1VWFXdEVGQUgzNVVtaEt5X3daSFNVUGc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2820221563f2d2070a521551",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T17:46:00+00:00",
+      "last_update": "2026-11-16T17:46:00+00:00",
+      "event": "Drake and John Summit's views on Grammys align as 2027 nominations are announced",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "align",
+        "and",
+        "announced",
+        "are",
+        "drake",
+        "grammys",
+        "international",
+        "john",
+        "news",
+        "nominations",
+        "summit",
+        "the",
+        "views"
+      ],
+      "source_excerpt": "Drake and John Summit's views on Grammys align as 2027 nominations are announced The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXVzZGltT0g5OUpTMWRsMXdZcEJfRlQ4X25jVGNzSnRiZDhUTkhQVVktVFY5WE9jR3dRUGc2U2NwX1VIUXUwZ0Z1MV9hQTRsdVFuYjdwZVNfdDBsQkwtWUNVZVZUZ09wQ3VMcWVJMXlYT2JkYW0zQXdUT2FEZTFjQ0MwOGpqMG5YSGpFVldDLWFVbWVIMERmUVQ4Z1Z1YU5QbWZFNmpKTDgzUXpOaUg2YTBIS2hnXzJuSXfSAboBQVVfeXFMTWV1c2RpbU9IOTlKUzFkbDF3WXBCX0ZUOF9uY1Rjc0p0YmQ4VE5IUFVZLVRWOVhPY0d3UVBnNlNjcF9VSFF1MGdGdTFfYUE0bHVRbmI3cGVTX3QwbEJMLVlDVWVWVGdPcEN1THFlSTF5WE9iZGFtM0F3VE9hRGUxY0NDMDhqajBuWEhqRVZXQy1hVW1lSDBEZlFUOGdWdWFOUG1mRTZqSkw4M1F6TmlINmEwSEtoZ18ybkl3?oc=5",
+          "published_at": "2026-11-16T17:46:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXVzZGltT0g5OUpTMWRsMXdZcEJfRlQ4X25jVGNzSnRiZDhUTkhQVVktVFY5WE9jR3dRUGc2U2NwX1VIUXUwZ0Z1MV9hQTRsdVFuYjdwZVNfdDBsQkwtWUNVZVZUZ09wQ3VMcWVJMXlYT2JkYW0zQXdUT2FEZTFjQ0MwOGpqMG5YSGpFVldDLWFVbWVIMERmUVQ4Z1Z1YU5QbWZFNmpKTDgzUXpOaUg2YTBIS2hnXzJuSXfSAboBQVVfeXFMTWV1c2RpbU9IOTlKUzFkbDF3WXBCX0ZUOF9uY1Rjc0p0YmQ4VE5IUFVZLVRWOVhPY0d3UVBnNlNjcF9VSFF1MGdGdTFfYUE0bHVRbmI3cGVTX3QwbEJMLVlDVWVWVGdPcEN1THFlSTF5WE9iZGFtM0F3VE9hRGUxY0NDMDhqajBuWEhqRVZXQy1hVW1lSDBEZlFUOGdWdWFOUG1mRTZqSkw4M1F6TmlINmEwSEtoZ18ybkl3?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d75a38171545e76b7e201ae",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T16:02:00+00:00",
+      "last_update": "2026-11-16T16:02:00+00:00",
+      "event": "Taylor Swift jokes about her 'luck' as she announces 2027 Grammy nominations",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "69th",
+        "about",
+        "album",
+        "announces",
+        "annual",
+        "around",
+        "but",
+        "categories",
+        "could",
+        "despite",
+        "different",
+        "finally",
+        "five",
+        "four",
+        "grammy",
+        "has",
+        "her",
+        "icon",
+        "jokes",
+        "luck",
+        "never",
+        "nominations",
+        "pop",
+        "received",
+        "she",
+        "song",
+        "swift",
+        "taylor",
+        "the",
+        "times",
+        "turn",
+        "upcoming",
+        "won",
+        "year"
+      ],
+      "source_excerpt": "Swift has won Album of the Year four times but has never won Song of the Year despite 8 nominations Could the 2027 Grammy nominations finally turn Taylor Swift’s luck around? The pop icon has received nominations in five different categories in the upcoming 69th annual Grammy...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691352-taylor-swift-jokes-about-her-luck-as-she-announces-2027-grammy-nominations",
+          "published_at": "2026-11-16T16:02:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691352-taylor-swift-jokes-about-her-luck-as-she-announces-2027-grammy-nominations",
+        "publisher_url": "https://www.geo.tv/latest/691352-taylor-swift-jokes-about-her-luck-as-she-announces-2027-grammy-nominations",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cc55b3bd920d1830a960e647",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T17:54:31+00:00",
+      "last_update": "2026-11-16T17:54:51+00:00",
+      "event": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "black",
+        "bulgaria",
+        "capsizes",
+        "cargo",
+        "coast",
+        "crew",
+        "members",
+        "ministry",
+        "off",
+        "operation",
+        "rescue",
+        "saved",
+        "says",
+        "sea",
+        "ship",
+        "that",
+        "the",
+        "transport",
+        "were"
+      ],
+      "source_excerpt": "Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
+          "published_at": "2026-11-16T17:54:31+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdm42c29LOXNVREw1dWxnRVo5WlpBalQ1Q2N0a3NvYjVaNkRiVXA4NG9YZGx3X0drT2FVT3I1SGFMNmhaOExDbnhrWks2TXZDck1RRk1Hd3hRYlhReUxZOVhOeWppQmIxclBwZGM2SE9pTFZ2Rmc0ZkRsd3FTT3hvb2xjdFFzcWVJaEl3dUQ0WGUxME1XNWc?oc=5",
+          "published_at": "2026-11-16T17:54:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c74b5dbe048f587274382166",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T17:49:16+00:00",
+      "last_update": "2026-11-16T17:49:16+00:00",
+      "event": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activist",
+        "bank",
+        "court",
+        "defender",
+        "detention",
+        "february",
+        "ghassan",
+        "israeli",
+        "land",
+        "least",
+        "najjar",
+        "next",
+        "occupied",
+        "palestinian",
+        "remain",
+        "set",
+        "until",
+        "upholds",
+        "west",
+        "year"
+      ],
+      "source_excerpt": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
+          "published_at": "2026-11-16T17:49:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6ff37696582eb4219fa78860",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T17:18:14+00:00",
+      "last_update": "2026-11-16T17:29:08+00:00",
+      "event": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "armed",
+        "army",
+        "backed",
+        "confrontation",
+        "curb",
+        "deploys",
+        "direct",
+        "for",
+        "group",
+        "hezbollah",
+        "influence",
+        "iran",
+        "iraq",
+        "kataib",
+        "leaves",
+        "linked",
+        "potential",
+        "pressure",
+        "stronghold",
+        "tehran",
+        "with"
+      ],
+      "source_excerpt": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+          "published_at": "2026-11-16T17:18:14+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDJJY1Z0bG96bWdsRXI1NzQzbnhCbTgwbkoxRUtsYTZ0MXZUaEhiM0xHREZXNWFuSkZwMC1zV085TENEWm9FdTRqRzE5NThiWXd6VDItUXFVYmZYaWRFcGRqRV82NnFIXzhMNUMyLWRtNkFyb2pYVnZrOEFmSkxocEVXcDFlVWNNeGc3NU5rRWRrdldQOTBVX1ZDTE1HaklETzZBd0dfemzSAa4BQVVfeXFMUC1iYTB2LTFzRl95czQyMkdFOWRWMmlXY3NGcGlrQzk2Vkd6Y1Y5OV92a1RGekw4ckZyRlN6VVhaazlPVDB2U3pGUkVodGVkYmlWSlF6azJfal9FVWQ4dHF3NE56V3pPeDlvNWRTc2ZNRm1rbzZpNkRxVzJ0Y1J6SDhHRHVYRGcyUFcwNGxzU3pfQ05iZlNWcjZfZTBEVW44MFRyNGR0NExybXhxdkJR?oc=5",
+          "published_at": "2026-11-16T17:29:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e0fe8ffdc9ec5d3f230328cf",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T17:15:12+00:00",
+      "last_update": "2026-11-16T17:15:12+00:00",
+      "event": "LIVE: Germany vs Netherlands – UEFA Nations League",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "commentary",
+        "final",
+        "football",
+        "germany",
+        "group",
+        "host",
+        "league",
+        "live",
+        "match",
+        "nations",
+        "netherlands",
+        "news",
+        "previews",
+        "team",
+        "text",
+        "the",
+        "uefa"
+      ],
+      "source_excerpt": "Previews, team news and live text commentary as Germany host the Netherlands in league's final Group A2 football match.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
+          "published_at": "2026-11-16T17:15:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bf807f463626491b3b4dca61",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T18:05:17+00:00",
+      "last_update": "2026-11-16T18:05:17+00:00",
+      "event": "'Parents are offering to pay kids' wages': Salon owner",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "25s",
+        "according",
+        "alan",
+        "are",
+        "create",
+        "due",
+        "firms",
+        "former",
+        "from",
+        "government",
+        "gradually",
+        "help",
+        "insurance",
+        "jobs",
+        "kids",
+        "lowered",
+        "milburn",
+        "minister",
+        "more",
+        "national",
+        "new",
+        "offering",
+        "owner",
+        "paid",
+        "parents",
+        "pay",
+        "published",
+        "report",
+        "salon",
+        "should",
+        "tuesday",
+        "under",
+        "wages"
+      ],
+      "source_excerpt": "National Insurance (NI) paid by firms on under-25s should be gradually lowered to help create more jobs, according to a new report from former government minister Alan Milburn, due to be published on Tuesday.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T18:05:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "92313a08cd47045575bb47ca",
+      "remembered_at": "2026-11-16T18:15:43.737403+00:00",
+      "event_date": "2026-11-16T17:18:54+00:00",
+      "last_update": "2026-11-16T17:18:54+00:00",
+      "event": "As new Bond, Pattinson takes on one of film's most high-profile roles",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "bond",
+        "film",
+        "high",
+        "most",
+        "new",
+        "one",
+        "pattinson",
+        "profile",
+        "roles",
+        "takes"
+      ],
+      "source_excerpt": "As new Bond, Pattinson takes on one of film's most high-profile roles BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VdlQ4NlpRa0dKdEI4RVloc2VjbFRfc0ZrcFl6LW5KdjB4RTRhS1pGVG1EN2t1MXRrc3hUYXFRak9XdGczdmNWUm9KbUt3elU0NkdJZTBpZUY?oc=5",
+          "published_at": "2026-11-16T17:18:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VdlQ4NlpRa0dKdEI4RVloc2VjbFRfc0ZrcFl6LW5KdjB4RTRhS1pGVG1EN2t1MXRrc3hUYXFRak9XdGczdmNWUm9KbUt3elU0NkdJZTBpZUY?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-16T17:14:47.823073+00:00"
+  "updated_at": "2026-11-16T18:15:43.737403+00:00"
 }

@@ -1,127 +1,126 @@
-# News Hub report - Mon 16 Nov, 10:14 PM PKT
+# News Hub report - Mon 16 Nov, 11:15 PM PKT
 
 ## Collection
-- New items this run: 141 | items in rolling pool: 928
-- Unique story clusters: 763 (duplicates merged: 165)
-- Clusters dropped as already published/queued: 11; unchanged since last analysis: 9
-- Items per outlet: UrduPoint 58, Geo News 10, ARY News 8, X 6, TechCrunch 5, samaa tv 4, The Verge 4, Engadget 4, Wired 4, TechJuice 4, Profit by Pakistan Today 4, ARYnews.tv 2
+- New items this run: 91 | items in rolling pool: 871
+- Unique story clusters: 711 (duplicates merged: 160)
+- Clusters dropped as already published/queued: 16; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 13, Geo News 9, Pakistan Today 9, Al Jazeera 8, The News International 4, TechJuice 4, Profit by Pakistan Today 4, X 3, Engadget 3, ARYnews.tv 2, Dawn 2, Dawn Latest 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- SBP projects 3.5-4.5% GDP growth for FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Third US aircraft carrier arrives in Middle East amid tensions with Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price in Pakistan latest - November 16, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump backs possible return of Jensen Huang as Nvidia CEO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan to host next Makkah alliance summit later this month: DPM Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab to introduce new anti-rape law and speedy courts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Robert Pattinson: How the Twilight star became 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- SBP projects 3.5-4.5% GDP growth for FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Third US aircraft carrier arrives in Middle East amid tensions with Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price in Pakistan latest - November 16, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump backs possible return of Jensen Huang as Nvidia CEO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan to host next Makkah alliance summit later this month: DPM Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab to introduce new anti-rape law and speedy courts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Robert Pattinson: How the Twilight star became 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- SBP projects 3.5-4.5% GDP growth for FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Third US aircraft carrier arrives in Middle East amid tensions with Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price in Pakistan latest - November 16, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump backs possible return of Jensen Huang as Nvidia CEO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan to host next Makkah alliance summit later this month: DPM Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab to introduce new anti-rape law and speedy courts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Robert Pattinson: How the Twilight star became 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 102/107 | empty: 4 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### SBP projects 3.5-4.5% GDP growth for FY27  [NORMAL]
-- Poster:  / SBP projects 3.5-4.5% GDP growth for FY27 | category other
-- Alternative headline: SBP projects 3.5-4.5% GDP growth for FY27
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHFtWUw2VUtPV1MxWk9JaEtNcUR4RFNDUFBMaWRFLVBfeHlvZGhKNHFpTXdrUjJmNEdiSUJuZFM1aFp1d0l1NFdTTEFrclJka3FyLW5QcmlhV0k4U1NxWng3WW1HUUlqdmVnVktBQ3lTc2w4aHhBOVhzY2RsY3U5UA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHFtWUw2VUtPV1MxWk9JaEtNcUR4RFNDUFBMaWRFLVBfeHlvZGhKNHFpTXdrUjJmNEdiSUJuZFM1aFp1d0l1NFdTTEFrclJka3FyLW5QcmlhV0k4U1NxWng3WW1HUUlqdmVnVktBQ3lTc2w4aHhBOVhzY2RsY3U5UA?oc=5
-- Supporting coverage: Investify, Investify, Investify, The Express Tribune, TechJuice, Profit by Pakistan Today
-- Keywords: SBP projects 3.5-4.5% GDP growth | hashtags: 
-- Scheduled: Mon 16 Nov, 10:14 PM PKT
-- Caption:
-```
-SBP projects 3.5-4.5% GDP growth for FY27
-
-SBP projects 3.5-4.5% GDP growth for FY27 The Express Tribune
-
-Source: The Express Tribune
-```
-
-### China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit  [NORMAL]
-- Poster:  / China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit | category other
-- Alternative headline: China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2044928/china-says-xi-trump-putin-to-discuss-world-peace-in-trilateral-summit | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2044928/china-says-xi-trump-putin-to-discuss-world-peace-in-trilateral-summit
-- Supporting coverage: Dawn Latest, South China Morning Post, ARYnews.tv, ARY News
-- Keywords: China says Xi, Trump, Putin | hashtags: 
-- Scheduled: Mon 16 Nov, 10:24 PM PKT
-- Caption:
-```
-China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral summit
-
-The leaders of China, Russia and the United States will discuss “world peace” when they hold their first trilateral summit in Shenzhen this week, Beijing said on Monday. Presidents Xi Jinping, Donald Trump and Vladimir Putin are due to meet in the southern Chinese city on Thursday on the sidelines o
-
-Source: Dawn Latest
-```
-
-### Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result  [NORMAL]
-- Poster:  / Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result | category other
-- Alternative headline: Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2044953/shaun-tait-kusal-mendis-want-extra-push-for-pakistan-sri-lanka-series-result | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2044953/shaun-tait-kusal-mendis-want-extra-push-for-pakistan-sri-lanka-series-result
-- Supporting coverage: Dawn Latest, Dawn, Geo News, Geo News
-- Keywords: Shaun Tait, Kusal Mendis want | hashtags: 
-- Scheduled: Mon 16 Nov, 10:34 PM PKT
-- Caption:
-```
-Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result
-
-Sri Lankan skipper Kusal Mendis and Pakistan bowling coach Shaun Tait urged their teams to push hard for a result in the second and final Test starting on Tuesday in Rawalpindi. A combination of bad weather and less penetrative bowling on a seemingly grassy pitch left the first Test without a result
-
-Source: Dawn Latest
-```
-
-### Third US aircraft carrier arrives in Middle East amid tensions with Iran  [NORMAL]
-- Poster:  / Third US aircraft carrier arrives in Middle East amid tensions with Iran | category other
-- Alternative headline: Third US aircraft carrier arrives in Middle East amid tensions with Iran
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+### LIVE: Germany vs Netherlands – UEFA Nations League  [BREAKING]
+- Poster:  / LIVE: Germany vs Netherlands – UEFA Nations League | category other
+- Alternative headline: LIVE: Germany vs Netherlands – UEFA Nations League
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 95, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera, Al-Monitor, The Telegraph
-- Keywords: Third US aircraft carrier arrives | hashtags: 
-- Scheduled: Mon 16 Nov, 10:44 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: LIVE: Germany vs Netherlands – | hashtags: 
+- Scheduled: Mon 16 Nov, 11:15 PM PKT
 - Caption:
 ```
-Third US aircraft carrier arrives in Middle East amid tensions with Iran
+LIVE: Germany vs Netherlands – UEFA Nations League
 
-Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.
+Previews, team news and live text commentary as Germany host the Netherlands in league's final Group A2 football match.
 
 Source: Al Jazeera
+```
+
+### Gold price in Pakistan latest - November 16, 2026  [NORMAL]
+- Poster:  / Gold price in Pakistan latest - November 16, 2026 | category other
+- Alternative headline: Gold price in Pakistan latest - November 16, 2026
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEg0V1Zrb05xN3lOLTBQOVVzZVoyWmpfeEJSV0QtYUdITHJSNFFCQ2tqcHJrelJ5NUJEM00weWwxM1Z4SkZTeG8yamNzZ3VoRDVTaUNSX2xkUEljUG5kRENnT3BQVjRiRnUxdTZ3RWluaUVtZjNiMWZSVlhlVnUtSkdUM0VFMVN2RnBMd2VlT3NpQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEg0V1Zrb05xN3lOLTBQOVVzZVoyWmpfeEJSV0QtYUdITHJSNFFCQ2tqcHJrelJ5NUJEM00weWwxM1Z4SkZTeG8yamNzZ3VoRDVTaUNSX2xkUEljUG5kRENnT3BQVjRiRnUxdTZ3RWluaUVtZjNiMWZSVlhlVnUtSkdUM0VFMVN2RnBMd2VlT3NpQQ?oc=5
+- Supporting coverage: samaa tv, Geo News, Aaj English TV, Aaj English TV, X, Just Security
+- Keywords: Gold price in Pakistan latest | hashtags: 
+- Scheduled: Mon 16 Nov, 11:15 PM PKT
+- Caption:
+```
+Gold price in Pakistan latest - November 16, 2026
+
+Gold price in Pakistan latest - November 16, 2026 samaa tv
+
+Source: samaa tv
+```
+
+### Trump backs possible return of Jensen Huang as Nvidia CEO  [NORMAL]
+- Poster:  / Trump backs possible return of Jensen Huang as Nvidia CEO | category other
+- Alternative headline: Trump backs possible return of Jensen Huang as Nvidia CEO
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHNNbzVCSTRvTEx5RmlENXlmaUlRaUxwNnBVWnI0U3owemlEdkZTakJoZVd5TERWRzFDY2xyTmxpYTdGUEZQd0M3NHpqN2lMYldnSjVfUU12SS1XNVZ1ZU54dE1xdy0xWUNZUnNRQ0RVU3hxV3RnXzRlN1hmeldRU01RdDFZLVZtSDlqaUcxWHFwdkFaVE1zbA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHNNbzVCSTRvTEx5RmlENXlmaUlRaUxwNnBVWnI0U3owemlEdkZTakJoZVd5TERWRzFDY2xyTmxpYTdGUEZQd0M3NHpqN2lMYldnSjVfUU12SS1XNVZ1ZU54dE1xdy0xWUNZUnNRQ0RVU3hxV3RnXzRlN1hmeldRU01RdDFZLVZtSDlqaUcxWHFwdkFaVE1zbA?oc=5
+- Supporting coverage: The Verge, samaa tv, ARY News, ARYnews.tv
+- Keywords: Trump backs possible return of | hashtags: 
+- Scheduled: Mon 16 Nov, 11:25 PM PKT
+- Caption:
+```
+Trump backs possible return of Jensen Huang as Nvidia CEO
+
+Trump backs possible return of Jensen Huang as Nvidia CEO samaa tv
+
+Source: samaa tv
+```
+
+### Pakistan to host next Makkah alliance summit later this month: DPM Dar  [NORMAL]
+- Poster:  / Pakistan to host next Makkah alliance summit later this month: DPM Dar | category other
+- Alternative headline: Pakistan to host next Makkah alliance summit later this month: DPM Dar
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1VBSVcwUldDUXpLb1JKM294ek4zZWtHMklKQkl6ekthcXNzQ1dpU09QLWlYU2RVRXU2YXdlNXBqTVozeG1jazBaM1NCV0RYdHFXaG42UWU3dDFkYXZORTF0cWU2OHUwb0dxcmEtY2o0aHZnUnYzWWlmSmdCYlpGMkJXUGhndXUzSzczTHdpSHVwUWFBb0pTc1JSa1NJRm1fVnh2LVNR?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1VBSVcwUldDUXpLb1JKM294ek4zZWtHMklKQkl6ekthcXNzQ1dpU09QLWlYU2RVRXU2YXdlNXBqTVozeG1jazBaM1NCV0RYdHFXaG42UWU3dDFkYXZORTF0cWU2OHUwb0dxcmEtY2o0aHZnUnYzWWlmSmdCYlpGMkJXUGhndXUzSzczTHdpSHVwUWFBb0pTc1JSa1NJRm1fVnh2LVNR?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Geo News, Geo News
+- Keywords: Pakistan to host next Makkah | hashtags: 
+- Scheduled: Mon 16 Nov, 11:35 PM PKT
+- Caption:
+```
+Pakistan to host next Makkah alliance summit later this month: DPM Dar
+
+Pakistan to host next Makkah alliance summit later this month: DPM Dar Dawn
+
+Source: Dawn
 ```
 
 - Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -198,9 +197,9 @@ Source: Al Jazeera
 - [needs_review] normal | Pakistan Shaheens leave for Rising Stars Asia Cup | Mon 16 Nov, 03:18 PM PKT
 - [needs_review] normal | Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid acc | Mon 16 Nov, 03:28 PM PKT
 - [published] normal | 13-year-old girl's murder case: Islamabad court grants police 4-day ph | Mon 16 Nov, 04:24 PM PKT
-- [queued] normal | Action against terrorism must for economic cooperation with Afghanista | Mon 16 Nov, 04:34 PM PKT
-- [queued] normal | In open letter to FCC, SC and IHC chief justices, Imran pleads for med | Mon 16 Nov, 04:44 PM PKT
-- [queued] normal | Prince and Princess of Wales play street cricket in Mumbai | Mon 16 Nov, 04:54 PM PKT
+- [needs_review] normal | Action against terrorism must for economic cooperation with Afghanista | Mon 16 Nov, 04:34 PM PKT
+- [needs_review] normal | In open letter to FCC, SC and IHC chief justices, Imran pleads for med | Mon 16 Nov, 04:44 PM PKT
+- [needs_review] normal | Prince and Princess of Wales play street cricket in Mumbai | Mon 16 Nov, 04:54 PM PKT
 - [queued] normal | PTI Founder sends letter to Chief Justice of Pakistan | Mon 16 Nov, 06:35 PM PKT
 - [queued] normal | SBP says inflation to ease to 5-7pc target range during FY2027 | Mon 16 Nov, 06:45 PM PKT
 - [queued] normal | PM Shehbaz approves facilitation centres for SMEs at district level | Mon 16 Nov, 06:55 PM PKT
@@ -213,9 +212,13 @@ Source: Al Jazeera
 - [queued] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
 - [queued] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
 - [queued] normal | Third US aircraft carrier arrives in Middle East amid tensions with Ir | Mon 16 Nov, 10:44 PM PKT
+- [published] breaking | LIVE: Germany vs Netherlands – UEFA Nations League | Mon 16 Nov, 11:15 PM PKT
+- [queued] normal | Gold price in Pakistan latest - November 16, 2026 | Mon 16 Nov, 11:15 PM PKT
+- [queued] normal | Trump backs possible return of Jensen Huang as Nvidia CEO | Mon 16 Nov, 11:25 PM PKT
+- [queued] normal | Pakistan to host next Makkah alliance summit later this month: DPM Dar | Mon 16 Nov, 11:35 PM PKT
 
 ## Publishing this run
-- Published '13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects'.
+- Published 'LIVE: Germany vs Netherlands – UEFA Nations League'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
