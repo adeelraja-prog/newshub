@@ -105,6 +105,22 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
                 }]}
                 self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
 
+    def test_unverified_google_news_label_cannot_claim_trusted_publisher_identity(self):
+        cluster = {"members": [{
+            "source": "Geo News Fast Lane", "kind": "gnews", "source_verified": False,
+            "link": "https://news.google.com/rss/articles/example",
+            "title": "National Assembly session begins"
+        }]}
+        self.assertFalse(newsroom.is_direct_publisher_cluster(cluster))
+
+    def test_publisher_scoped_google_news_item_can_use_trusted_lane(self):
+        cluster = {"members": [{
+            "source": "Geo News Fast Lane", "kind": "gnews", "source_verified": True,
+            "link": "https://news.google.com/rss/articles/example",
+            "title": "National Assembly session begins"
+        }]}
+        self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
+
     def test_bbc_pakistan_story_does_not_use_fast_lane(self):
         cluster = {"members": [{
             "source": "BBC News", "link": "https://news.google.com/rss/articles/example",
