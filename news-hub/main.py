@@ -495,21 +495,10 @@ INDIA_TOPIC = re.compile(
 
 
 def is_approved_india_source(name, link):
-    n = (name or "").lower().strip()
-    host = urlparse(link or "").hostname or ""
-    host = host.removeprefix("www.")
-    if any(host == d or host.endswith("." + d) for d in INTERNATIONAL_DESKS):
-        return True
-    return n in {
-        "bbc", "bbc news", "bbc world", "bbc india", "bbc india politics",
-        "bbc india entertainment", "bbc india sports and culture", "bbc india general desk",
-        "cnn", "cnn news", "cnn international", "cnn india politics",
-        "cnn india entertainment", "cnn india sports and culture", "cnn india general desk",
-        "al jazeera", "al jazeera english", "al jazeera india politics",
-        "al jazeera india entertainment", "al jazeera india sports and culture",
-        "al jazeera india general desk", "al jazeera india public affairs",
-    } or n.startswith(("bbc ", "cnn ", "al jazeera "))
-
+    # India stories require original-publisher domain provenance; a Google News
+    # display label or search-lane label alone is not sufficient.
+    host = (urlparse(link or "").hostname or "").removeprefix("www.")
+    return any(host == d or host.endswith("." + d) for d in INTERNATIONAL_DESKS)
 
 def is_blocked(name, link, text=""):
     """Reject Indian outlets and India stories from any publisher except BBC, CNN and Al Jazeera."""
