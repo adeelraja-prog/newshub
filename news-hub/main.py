@@ -428,11 +428,12 @@ def is_international_pakistan_item(name, link, text=""):
     international = any(host == d or host.endswith("." + d) for d in INTERNATIONAL_DESKS)
     international = international or n in {
         "bbc", "bbc news", "bbc world", "bbc india", "bbc india politics",
-        "bbc india entertainment", "bbc india sports and culture",
+        "bbc india entertainment", "bbc india sports and culture", "bbc india general desk", "bbc india economy",
         "cnn", "cnn news", "cnn international", "cnn india politics",
-        "cnn india entertainment", "cnn india sports and culture",
+        "cnn india entertainment", "cnn india sports and culture", "cnn india general desk",
         "al jazeera", "al jazeera english", "al jazeera india politics",
         "al jazeera india entertainment", "al jazeera india sports and culture",
+        "al jazeera india general desk", "al jazeera india public affairs",
         "bbc india general desk", "cnn india general desk", "al jazeera india general desk",
         "bbc india economy", "al jazeera india public affairs",
     }
@@ -792,11 +793,12 @@ FAST_LANE_NAMES = {
     "the news fast lane", "express tribune", "express tribune fast lane",
     "dunya news", "dunya news tv", "dunya news fast lane", "dunya news tv fast lane",
     "bbc", "bbc news", "bbc world", "bbc india", "bbc india politics",
-    "bbc india entertainment", "bbc india sports and culture",
+    "bbc india entertainment", "bbc india sports and culture", "bbc india general desk", "bbc india economy",
     "cnn", "cnn news", "cnn international", "cnn india politics",
-    "cnn india entertainment", "cnn india sports and culture",
+    "cnn india entertainment", "cnn india sports and culture", "cnn india general desk",
     "al jazeera", "al jazeera english", "al jazeera india politics",
     "al jazeera india entertainment", "al jazeera india sports and culture",
+    "al jazeera india general desk", "al jazeera india public affairs",
     "bbc india general desk", "cnn india general desk", "al jazeera india general desk",
     "bbc india economy", "al jazeera india public affairs",
 }
