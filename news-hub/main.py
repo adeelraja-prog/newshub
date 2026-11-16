@@ -340,7 +340,7 @@ def collect_new(state):
                 if src["kind"] == "gnews":
                     source_obj = e.get("source")
                     st = source_obj.get("title") if isinstance(source_obj, dict) else ""
-                    source_href = source_obj.get("href") if isinstance(source_obj, dict) else ""
+                    source_href = (source_obj.get("href") or source_obj.get("url")) if isinstance(source_obj, dict) else ""
                     if source_href:
                         publisher_url = str(source_href)
                     if st:
