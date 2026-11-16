@@ -952,7 +952,19 @@ def make_direct_publisher_story(cluster):
     return story
 
 
-def analyse(clusters):
+def has_explicit_breaking_publisher_item(cluster):
+    for member in cluster.get("members", []):
+        if not isinstance(member, dict) or not is_fast_lane_member(member):
+            continue
+        title = str(member.get("title") or "")
+        if member.get("breaking_label") or re.match(
+            r"^\s*(?:\[?breaking\]?|just in|developing|live\s*[:—-])(?:\b|\s)", title, re.I
+        ):
+            return True
+    return False
+
+
+def analyse(clusters, defer_ordinary=False):
     direct_clusters = [c for c in clusters if is_direct_publisher_cluster(c)]
     regular_clusters = [c for c in clusters if not is_direct_publisher_cluster(c)]
     direct_stories = []
@@ -965,6 +977,11 @@ def analyse(clusters):
                 cluster["hist"]["analysed_n"] = None
     if direct_stories:
         print(f"[publisher-fast-lane] {len(direct_stories)} stories bypass AI assessment, scoring and second-source checks")
+    # When trusted stories need buffer space, or a trusted breaking item arrives,
+    # do not wait for optional AI work on unrelated publishers before queuing them.
+    if direct_stories and regular_clusters and defer_ordinary:
+        print(f"[publisher-fast-lane] deferred {len(regular_clusters)} ordinary AI assessments so trusted stories can queue immediately")
+        return direct_stories
     # The regular AI lane is optional: its outage must never discard trusted-publisher stories.
     ordinary_stories = []
     if regular_clusters:
@@ -2023,7 +2040,12 @@ def main():
     if candidates:
         state["last_analysis"] = iso(t0)
         try:
-            stories = analyse(candidates)
+            direct_breaking_waiting = any(
+                is_direct_publisher_cluster(c) and has_explicit_breaking_publisher_item(c)
+                for c in candidates
+            )
+            defer_ordinary = depth < QUEUE_CAP or direct_breaking_waiting
+            stories = analyse(candidates, defer_ordinary=defer_ordinary)
             # Soft-PR desk: retain promotional announcements as research leads, but do not schedule
             # them until independent accountability evidence is found. This is a hold, not a verdict.
             research_path = os.path.join(STATE_DIR, "accountability-research.json")
