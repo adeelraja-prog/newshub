@@ -882,8 +882,9 @@ def is_fast_lane_member(member):
     if any(host == d or host.endswith("." + d) for d in allowed_domains):
         return not is_international_pakistan_item(name, url, member.get("title", ""))
     # A Google News display label alone is not proof of publisher identity.
-    # Require its publisher field or a publisher-specific site: query.
-    if member.get("kind") == "gnews" and not member.get("source_verified"):
+    # Require its publisher field or a publisher-specific site: query. Direct RSS
+    # entries must match an approved publisher domain above.
+    if member.get("kind") != "gnews" or not member.get("source_verified"):
         return False
     return name in FAST_LANE_NAMES and not is_international_pakistan_item(
         name, url, member.get("title", "")
