@@ -19,6 +19,7 @@ on:
       - "news-hub/tests/test_price_history_validation.py"
       - "news-hub/tests/test_production_safety.py"
       - ".github/workflows/hourly.yml"
+      - ".github/workflows/newsroom-scheduler.yml"
       - ".github/workflows/explainer-tests.yml"
   workflow_dispatch:
 
