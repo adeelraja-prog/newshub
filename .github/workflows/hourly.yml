@@ -1,7 +1,7 @@
 name: news-hub
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
       publish:
@@ -20,7 +20,7 @@ defaults:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 9
+    timeout-minutes: 4
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
