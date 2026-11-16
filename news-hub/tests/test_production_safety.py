@@ -44,6 +44,12 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             "International summit opens in Delhi"
         ))
 
+    def test_indian_domain_is_blocked_even_if_source_name_is_unknown(self):
+        self.assertTrue(newsroom.is_blocked(
+            "Unknown Publisher", "https://indianexpress.com/article/example",
+            "International summit opens in Delhi"
+        ))
+
     def test_exact_pakistani_publisher_uses_fast_lane(self):
         cluster = {"members": [{
             "source": "Geo News", "link": "https://news.google.com/rss/articles/example",
