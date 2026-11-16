@@ -457,8 +457,32 @@ def is_international_pakistan_item(name, link, text=""):
     return international and bool(PAKISTAN_TOPIC.search((text or "") + " " + n))
 
 
+INDIA_TOPIC = re.compile(
+    r"\\b(india|indian|new delhi|delhi|mumbai|kolkata|chennai|bengaluru|bangalore|"
+    r"hyderabad|modi|bjp|lok sabha|rajya sabha|bollywood|ipl|indian premier league)\\b",
+    re.I,
+)
+
+
+def is_approved_india_source(name, link):
+    n = (name or "").lower().strip()
+    host = urlparse(link or "").hostname or ""
+    host = host.removeprefix("www.")
+    if any(host == d or host.endswith("." + d) for d in INTERNATIONAL_DESKS):
+        return True
+    return n in {
+        "bbc", "bbc news", "bbc world", "bbc india", "bbc india politics",
+        "bbc india entertainment", "bbc india sports and culture", "bbc india general desk",
+        "cnn", "cnn news", "cnn international", "cnn india politics",
+        "cnn india entertainment", "cnn india sports and culture", "cnn india general desk",
+        "al jazeera", "al jazeera english", "al jazeera india politics",
+        "al jazeera india entertainment", "al jazeera india sports and culture",
+        "al jazeera india general desk", "al jazeera india public affairs",
+    } or n.startswith(("bbc ", "cnn ", "al jazeera "))
+
+
 def is_blocked(name, link, text=""):
-    """Reject Indian publishers/domains, Hindi items and excluded Pakistan stories from international desks."""
+    """Reject Indian outlets and India stories from any publisher except BBC, CNN and Al Jazeera."""
     n = (name or "").lower().strip()
     if n in BLOCKED_EXACT or any(b in n for b in BLOCKED_NAMES):
         return True
@@ -468,7 +492,8 @@ def is_blocked(name, link, text=""):
         host.endswith(tuple(BLOCKED_HOST_ENDINGS))
         or any(host == d or host.endswith("." + d) for d in BLOCKED_HOST_ENDINGS if not d.startswith("."))
     )
-    return indian_host or is_international_pakistan_item(name, link, text)
+    india_from_unapproved_source = bool(INDIA_TOPIC.search(text or "")) and not is_approved_india_source(name, link)
+    return indian_host or india_from_unapproved_source or is_international_pakistan_item(name, link, text)
 
 
 def fetch_trends():
