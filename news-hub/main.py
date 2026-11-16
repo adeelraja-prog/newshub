@@ -2255,7 +2255,10 @@ def main():
             "source": source_label, "link": source_url,
             "publisher_url": allowed_publisher_url
         }
-        claimed_direct = bool(meta.get("direct_source") or meta.get("source_lane") == "publisher_fast_lane")
+        claimed_direct = bool(
+            meta.get("direct_source") or meta.get("source_lane") == "publisher_fast_lane"
+            or any(name.lower() in FAST_LANE_NAMES for name in names)
+        )
         verified_direct = is_fast_lane_member(publisher_member)
         if claimed_direct and not verified_direct:
             queued["status"] = "needs_review"
