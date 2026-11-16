@@ -1545,12 +1545,7 @@ def enqueue(queue, story, w, caption, t0):
         "value_addition": w.get("value_addition") if isinstance(w.get("value_addition"), dict) else {"type": "none"},
         "headline": w["headline_used"], "headline_alt": w["headline_alt"],
         "tokens": sorted(story["cluster"]["tokens"])[:14], "title": story["cluster"]["title"],
-        "urls": sorted({
-            ed.canonical_url(url)
-            for member in story["cluster"]["members"]
-            for url in (member.get("link"), member.get("publisher_url"))
-            if url
-        }),
+        "urls": sorted({ed.canonical_url(m.get("link", "")) for m in story["cluster"]["members"] if m.get("link")}),
         "source_name": story["original_source"]["name"] if story["original_source"]["url"] else story["discovery"]["name"],
         "meta": {"keywords": [w["primary_keyword"]] + list(w.get("secondary_keywords") or []),
                  "entities": w.get("entities") or {}, "hashtags": w["hashtags"], "search_summary": w["search_summary"],
@@ -2016,12 +2011,7 @@ def main():
         hist = history[hi] if hi is not None else None
         c["sig"] = ed.trend_signals(c, trends, hist, t0)
         # Cross-run deduplication: match canonical article URLs first, then story-token similarity.
-        cluster_urls = {
-                ed.canonical_url(url)
-                for member in c["members"]
-                for url in (member.get("link"), member.get("publisher_url"))
-                if url
-            }
+        cluster_urls = {ed.canonical_url(m.get("link", "")) for m in c["members"] if m.get("link")}
         duplicate = False
         for prior in published + queued_tokens:
             prior_urls = {ed.canonical_url(u) for u in prior.get("urls", []) if u}
