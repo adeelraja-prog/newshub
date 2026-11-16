@@ -40386,7 +40386,536 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3f23e238b713a18f537d40be",
+      "remembered_at": "2026-11-16T20:20:49.745802+00:00",
+      "event_date": "2026-11-16T13:29:09+00:00",
+      "last_update": "2026-11-16T19:19:21+00:00",
+      "event": "Saudi Arabia dismisses commander of anti-Houthi coalition: state media",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anti",
+        "arabia",
+        "coalition",
+        "commander",
+        "dawn",
+        "dismisses",
+        "houthi",
+        "media",
+        "saudi",
+        "state"
+      ],
+      "source_excerpt": "Saudi Arabia dismisses commander of anti-Houthi coalition: state media Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmdwNnFTRUszLVJWRUNFVnhLcVJoXzZjSGJtdC01SFVOS0VqXzg2dWdnOWZOUF84ZmhuT2xqdlQ4LUNOY1YyNlpsVzM0U3NVUElPckhsdXVncGdET0Nvclo3LTdoaTg5dG11UV9hUjhfQ0xoandmTlJTNE1sZmJYalJPYWRXRWNjYkxrcWpFSmVndHAtWjgwNlg4blBqbnlxZ1kxSzhn?oc=5",
+          "published_at": "2026-11-16T13:29:09+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+          "published_at": "2026-11-16T19:19:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmdwNnFTRUszLVJWRUNFVnhLcVJoXzZjSGJtdC01SFVOS0VqXzg2dWdnOWZOUF84ZmhuT2xqdlQ4LUNOY1YyNlpsVzM0U3NVUElPckhsdXVncGdET0Nvclo3LTdoaTg5dG11UV9hUjhfQ0xoandmTlJTNE1sZmJYalJPYWRXRWNjYkxrcWpFSmVndHAtWjgwNlg4blBqbnlxZ1kxSzhn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ce63648a164e36aadf72f40a",
+      "remembered_at": "2026-11-16T20:20:49.745802+00:00",
+      "event_date": "2026-11-16T17:29:05+00:00",
+      "last_update": "2026-11-16T20:12:21+00:00",
+      "event": "What will Europe do next in Ukraine?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "diplomatic",
+        "division",
+        "efforts",
+        "end",
+        "europe",
+        "european",
+        "for",
+        "next",
+        "over",
+        "russia",
+        "strategy",
+        "the",
+        "there",
+        "ukraine",
+        "union",
+        "war",
+        "what",
+        "will",
+        "within"
+      ],
+      "source_excerpt": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+      "sources": [
+        {
+          "name": "UNITED24 Media",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaV9vRVpGVmJ1NExoRlF4Z1ZvUWYyUFlRa2VVNjZTWXduamlUTkZIS3pLR0tWMDFhdDNMSGI5LWdHeW83cFlVQlp0WXR4cUplYXViNEdjaXd1MVJIX3RUQVZNazRwZFFfTHdHWkRPOERzb3BIOW5fOEpYUnItNDlJRFV1aTU1Nk9rbkc3Y3RMeXdlRVpfNnZnbHlCTnVQWEpKb1Vnb2ZRZHpYUldMV1NVQWlCbFJsVXV6NHF6QQ?oc=5",
+          "published_at": "2026-11-16T17:29:05+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+          "published_at": "2026-11-16T20:12:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "36c46e1c3961d484f390895e",
+      "remembered_at": "2026-11-16T20:20:49.745802+00:00",
+      "event_date": "2026-11-16T18:44:16+00:00",
+      "last_update": "2026-11-16T19:44:02+00:00",
+      "event": "Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apple",
+        "beta",
+        "duo",
+        "face",
+        "gains",
+        "ios",
+        "iphone",
+        "outer",
+        "screen",
+        "unlock"
+      ],
+      "source_excerpt": "Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
+          "published_at": "2026-11-16T18:44:16+00:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+          "published_at": "2026-11-16T19:26:55+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/apple-iphone-duo-gains-outer-screen-face-unlock-in-ios-27-3-beta",
+          "published_at": "2026-11-16T19:44:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/apple-iphone-duo-gains-outer-screen-face-unlock-in-ios-27-3-beta",
+        "publisher_url": "https://arynews.tv/apple-iphone-duo-gains-outer-screen-face-unlock-in-ios-27-3-beta",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "72c8ad2c3fd1719a3b607460",
+      "remembered_at": "2026-11-16T20:20:49.745802+00:00",
+      "event_date": "2026-11-16T20:05:06+00:00",
+      "last_update": "2026-11-16T20:05:06+00:00",
+      "event": "Nationwide ground stop could cost US airlines hundreds of millions",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "50bn",
+        "airline",
+        "airlines",
+        "congress",
+        "cost",
+        "could",
+        "duffy",
+        "executives",
+        "faa",
+        "from",
+        "ground",
+        "hundreds",
+        "millions",
+        "modernising",
+        "nationwide",
+        "secretary",
+        "seeks",
+        "stop",
+        "support",
+        "systems",
+        "transportation"
+      ],
+      "source_excerpt": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+          "published_at": "2026-11-16T20:05:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6790409d04f4547ebe816801",
+      "remembered_at": "2026-11-16T20:20:49.745802+00:00",
+      "event_date": "2026-11-16T20:00:07+00:00",
+      "last_update": "2026-11-16T20:00:07+00:00",
+      "event": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "arab",
+        "attempted",
+        "call",
+        "coup",
+        "for",
+        "frame",
+        "into",
+        "investigation",
+        "israeli",
+        "netanyahu",
+        "office",
+        "opposition",
+        "parties",
+        "reports",
+        "rivals",
+        "that",
+        "tried"
+      ],
+      "source_excerpt": "Rivals call for investigation into reports that PM's office tried to frame Arab parties.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+          "published_at": "2026-11-16T20:00:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7a448430b77530e343639b1d",
+      "remembered_at": "2026-11-16T20:20:49.745802+00:00",
+      "event_date": "2026-11-16T19:26:40+00:00",
+      "last_update": "2026-11-16T19:26:40+00:00",
+      "event": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abandon",
+        "aid",
+        "and",
+        "announce",
+        "asylum",
+        "countries",
+        "five",
+        "groups",
+        "joint",
+        "plan",
+        "rejected",
+        "rights",
+        "rwanda",
+        "seekers",
+        "send",
+        "statement",
+        "the",
+        "trade",
+        "union",
+        "urged"
+      ],
+      "source_excerpt": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+          "published_at": "2026-11-16T19:26:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b5f2e10433418b081a28ef6f",
+      "remembered_at": "2026-11-16T20:20:49.745802+00:00",
+      "event_date": "2026-11-16T19:18:10+00:00",
+      "last_update": "2026-11-16T19:18:10+00:00",
+      "event": "Thousands report difficulties accessing accounts online at major US banks",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "accessing",
+        "accounts",
+        "america",
+        "and",
+        "bank",
+        "banks",
+        "chase",
+        "customers",
+        "difficulties",
+        "fargo",
+        "including",
+        "issues",
+        "major",
+        "online",
+        "report",
+        "thousands",
+        "wells"
+      ],
+      "source_excerpt": "Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+          "published_at": "2026-11-16T19:18:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5da2090a77c86571329f260b",
+      "remembered_at": "2026-11-16T20:20:49.745802+00:00",
+      "event_date": "2026-11-16T20:03:30+00:00",
+      "last_update": "2026-11-16T20:03:30+00:00",
+      "event": "Forensic expert says his analysis raises doubts about how Epstein died",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "analysis",
+        "are",
+        "bbc",
+        "believes",
+        "consistent",
+        "convicted",
+        "died",
+        "doubts",
+        "epstein",
+        "expert",
+        "forensic",
+        "freeman",
+        "his",
+        "homicide",
+        "how",
+        "injuries",
+        "michael",
+        "newsnight",
+        "offender",
+        "professor",
+        "raises",
+        "says",
+        "sex",
+        "tells",
+        "that",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T20:03:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9a71cfa2982a682c3ab00f66",
+      "remembered_at": "2026-11-16T20:20:49.745802+00:00",
+      "event_date": "2026-11-16T19:30:30+00:00",
+      "last_update": "2026-11-16T19:30:30+00:00",
+      "event": "Lindsay Clancy to face retrial next year for deaths of her three children",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apart",
+        "children",
+        "clancy",
+        "deaths",
+        "face",
+        "failed",
+        "fell",
+        "first",
+        "for",
+        "her",
+        "jury",
+        "lindsay",
+        "next",
+        "old",
+        "person",
+        "reach",
+        "retrial",
+        "the",
+        "this",
+        "three",
+        "trial",
+        "verdict",
+        "when",
+        "year"
+      ],
+      "source_excerpt": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T19:30:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f8b7b8fb40a7b84ebf404b07",
+      "remembered_at": "2026-11-16T20:20:49.745802+00:00",
+      "event_date": "2026-11-16T19:51:19+00:00",
+      "last_update": "2026-11-16T19:51:19+00:00",
+      "event": "Economic Cooperation Organisation welcomes Pakistan, Qatar's mediation efforts in US-Iran war",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cooperation",
+        "dawn",
+        "economic",
+        "efforts",
+        "iran",
+        "mediation",
+        "organisation",
+        "pakistan",
+        "qatar",
+        "war",
+        "welcomes"
+      ],
+      "source_excerpt": "Economic Cooperation Organisation welcomes Pakistan, Qatar's mediation efforts in US-Iran war Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHlSVTIyZGFRQUJ2NDFlbkthNGFUSTZEWXhxMFVjeFh0aVh5NEZZZWhydEl0bDlZWndGTWdJRDhOSDVfcFpaNUZTWTNRcmx1bGUyV1EwbWVwZnVPRGQ4UHZHUml1MnVmLWVrdXo2UDB2UVF1bkxaNzFIang4b25tY1lPOTdZaGJKNDdWY2lKdHlFMDh2ZFRtcE0zbG8xczl4YVA0VUZHYUhXYlNtbDJfVzhsdGk2dUlOaFJneV9Vc2lsa00?oc=5",
+          "published_at": "2026-11-16T19:51:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHlSVTIyZGFRQUJ2NDFlbkthNGFUSTZEWXhxMFVjeFh0aVh5NEZZZWhydEl0bDlZWndGTWdJRDhOSDVfcFpaNUZTWTNRcmx1bGUyV1EwbWVwZnVPRGQ4UHZHUml1MnVmLWVrdXo2UDB2UVF1bkxaNzFIang4b25tY1lPOTdZaGJKNDdWY2lKdHlFMDh2ZFRtcE0zbG8xczl4YVA0VUZHYUhXYlNtbDJfVzhsdGk2dUlOaFJneV9Vc2lsa00?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-16T19:22:39.252808+00:00"
+  "updated_at": "2026-11-16T20:20:49.745802+00:00"
 }

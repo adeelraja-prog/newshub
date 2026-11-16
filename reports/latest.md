@@ -1,127 +1,138 @@
-# News Hub report - Tue 17 Nov, 12:22 AM PKT
+# News Hub report - Tue 17 Nov, 01:20 AM PKT
 
 ## Collection
-- New items this run: 65 | items in rolling pool: 812
-- Unique story clusters: 669 (duplicates merged: 143)
-- Clusters dropped as already published/queued: 21; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 14, Geo News 8, ARY News 5, X 3, The Verge 3, TechCrunch 3, ProPakistani 3, The News International 2, Al Jazeera 2, Engadget 2, Pakistan Today 2, WSJ 2
+- New items this run: 40 | items in rolling pool: 777
+- Unique story clusters: 649 (duplicates merged: 128)
+- Clusters dropped as already published/queued: 21; unchanged since last analysis: 10
+- Items per outlet: Al Jazeera 6, The Express Tribune 4, ARY News 4, The Verge 4, TechCrunch 3, Engadget 3, Ars Technica 3, Geo News 2, Pakistan Today 2, BBC World 2, UrduPoint 1, Breakingthenews.net 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Robert Pattinson: How the Twilight star became 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US to curb China's access to AI chips as Trump heads to Asia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab to introduce new anti-rape law and speedy courts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News English | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi Arabia dismisses commander of anti-Houthi coalition: state media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What will Europe do next in Ukraine? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Drake and John Summit's views on Grammys align as 2027 nominations are announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Robert Pattinson: How the Twilight star became 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US to curb China's access to AI chips as Trump heads to Asia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab to introduce new anti-rape law and speedy courts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News English | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi Arabia dismisses commander of anti-Houthi coalition: state media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What will Europe do next in Ukraine? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Drake and John Summit's views on Grammys align as 2027 nominations are announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Robert Pattinson: How the Twilight star became 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US to curb China's access to AI chips as Trump heads to Asia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab to introduce new anti-rape law and speedy courts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News English | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi Arabia dismisses commander of anti-Houthi coalition: state media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What will Europe do next in Ukraine? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Drake and John Summit's views on Grammys align as 2027 nominations are announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 102/107 | empty: 4 | failed: 0 | malformed/partial: 1
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
+- Overall feeds with entries: 79/107 | empty: 4 | failed: 24 | malformed/partial: 24
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Capital TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: AJK Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Express News
 
 ## Selected for the queue
-### Robert Pattinson: How the Twilight star became 007  [NORMAL]
-- Poster:  / Robert Pattinson: How the Twilight star became 007 | category other
-- Alternative headline: Robert Pattinson: How the Twilight star became 007
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVGxLa0pGaFhSNVpNWFRHSzJ0b08wWXZkV3NrUHJtY1BZdFc3RVF4dFhnOHhEWDZueGdRNFUzRW1YQ0p3UkxIOG9zOG9QREJKYzdYaFg1STNFWkU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVGxLa0pGaFhSNVpNWFRHSzJ0b08wWXZkV3NrUHJtY1BZdFc3RVF4dFhnOHhEWDZueGdRNFUzRW1YQ0p3UkxIOG9zOG9QREJKYzdYaFg1STNFWkU?oc=5
-- Supporting coverage: BBC
-- Keywords: Robert Pattinson: How the Twilight | hashtags: 
-- Scheduled: Tue 17 Nov, 12:22 AM PKT
-- Caption:
-```
-Robert Pattinson: How the Twilight star became 007
-
-Robert Pattinson: How the Twilight star became 007 BBC
-
-Source: BBC
-```
-
-### US to curb China's access to AI chips as Trump heads to Asia  [NORMAL]
-- Poster:  / US to curb China's access to AI chips as Trump heads to Asia | category other
-- Alternative headline: US to curb China's access to AI chips as Trump heads to Asia
+### Saudi Arabia dismisses commander of anti-Houthi coalition: state media  [NORMAL]
+- Poster:  / Saudi Arabia dismisses commander of anti-Houthi coalition: state media | category other
+- Alternative headline: Saudi Arabia dismisses commander of anti-Houthi coalition: state media
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691353-us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691353-us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia
-- Supporting coverage: Geo News, Geo News, Ars Technica
-- Keywords: US to curb China's access | hashtags: 
-- Scheduled: Tue 17 Nov, 12:32 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmdwNnFTRUszLVJWRUNFVnhLcVJoXzZjSGJtdC01SFVOS0VqXzg2dWdnOWZOUF84ZmhuT2xqdlQ4LUNOY1YyNlpsVzM0U3NVUElPckhsdXVncGdET0Nvclo3LTdoaTg5dG11UV9hUjhfQ0xoandmTlJTNE1sZmJYalJPYWRXRWNjYkxrcWpFSmVndHAtWjgwNlg4blBqbnlxZ1kxSzhn?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmdwNnFTRUszLVJWRUNFVnhLcVJoXzZjSGJtdC01SFVOS0VqXzg2dWdnOWZOUF84ZmhuT2xqdlQ4LUNOY1YyNlpsVzM0U3NVUElPckhsdXVncGdET0Nvclo3LTdoaTg5dG11UV9hUjhfQ0xoandmTlJTNE1sZmJYalJPYWRXRWNjYkxrcWpFSmVndHAtWjgwNlg4blBqbnlxZ1kxSzhn?oc=5
+- Supporting coverage: Dawn, Al Jazeera
+- Keywords: Saudi Arabia dismisses commander of | hashtags: 
+- Scheduled: Tue 17 Nov, 01:20 AM PKT
 - Caption:
 ```
-US to curb China's access to AI chips as Trump heads to Asia
+Saudi Arabia dismisses commander of anti-Houthi coalition: state media
 
-Semiconductor chips are seen on a circuit board of a computer in this illustration picture taken February 25, 2022.— Reuters The Trump administration on Monday issued a rule that will further restrict China's access to the best AI chips from companies like Nvidia, just as...
-
-Source: Geo News
-```
-
-### Punjab to introduce new anti-rape law and speedy courts  [NORMAL]
-- Poster:  / Punjab to introduce new anti-rape law and speedy courts | category other
-- Alternative headline: Punjab to introduce new anti-rape law and speedy courts
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/punjab-to-introduce-new-anti-rape-law-and-speedy-courts | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/punjab-to-introduce-new-anti-rape-law-and-speedy-courts
-- Supporting coverage: ARY News, Pakistan Today
-- Keywords: Punjab to introduce new anti-rape | hashtags: 
-- Scheduled: Tue 17 Nov, 12:42 AM PKT
-- Caption:
-```
-Punjab to introduce new anti-rape law and speedy courts
-
-Punjab to introduce new anti-rape law and speedy courts
-
-Source: ARY News
-```
-
-### Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News English  [NORMAL]
-- Poster:  / Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News English | category other
-- Alternative headline: Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News English
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEMwUDZ6YmVZblpKeFhDdTIyMTBFa2JweGxyMnFiZF9pQnlYWno0c09aUV9zMFAyOHRmYVZycGRsNndoT1JDRnpqUWd6WE5WcF9nRWF6ZEh4c1RfejMzbUFyZXZlUEFCcjJyY1g3UXJRQ0EtOHZJVHpkYmRuWjdDRmdoNV9xeVlFdTAxdkNtU2lsQTl0azU1VWFXdEVGQUgzNVVtaEt5X3daSFNVUGc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEMwUDZ6YmVZblpKeFhDdTIyMTBFa2JweGxyMnFiZF9pQnlYWno0c09aUV9zMFAyOHRmYVZycGRsNndoT1JDRnpqUWd6WE5WcF9nRWF6ZEh4c1RfejMzbUFyZXZlUEFCcjJyY1g3UXJRQ0EtOHZJVHpkYmRuWjdDRmdoNV9xeVlFdTAxdkNtU2lsQTl0azU1VWFXdEVGQUgzNVVtaEt5X3daSFNVUGc?oc=5
-- Supporting coverage: Dawn
-- Keywords: Pakistan Inflation to Ease to | hashtags: 
-- Scheduled: Tue 17 Nov, 12:52 AM PKT
-- Caption:
-```
-Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News English
-
-Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News English Dawn
+Saudi Arabia dismisses commander of anti-Houthi coalition: state media Dawn
 
 Source: Dawn
 ```
 
-- Indian outlets blocked this run: 1 items
+### What will Europe do next in Ukraine?  [NORMAL]
+- Poster:  / What will Europe do next in Ukraine? | category other
+- Alternative headline: What will Europe do next in Ukraine?
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss
+- Supporting coverage: UNITED24 Media, Al Jazeera
+- Keywords: What will Europe do next | hashtags: 
+- Scheduled: Tue 17 Nov, 01:30 AM PKT
+- Caption:
+```
+What will Europe do next in Ukraine?
+
+There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.
+
+Source: Al Jazeera
+```
+
+### Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta  [NORMAL]
+- Poster:  / Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | category other
+- Alternative headline: Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/apple-iphone-duo-gains-outer-screen-face-unlock-in-ios-27-3-beta | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/apple-iphone-duo-gains-outer-screen-face-unlock-in-ios-27-3-beta
+- Supporting coverage: The Verge, TechCrunch, ARY News
+- Keywords: Apple iPhone Duo gains outer | hashtags: 
+- Scheduled: Tue 17 Nov, 01:40 AM PKT
+- Caption:
+```
+Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta
+
+Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta
+
+Source: ARY News
+```
+
+### 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying'  [NORMAL]
+- Poster:  / 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying' | category other
+- Alternative headline: 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying'
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/691368-overwhelmed-ariana-grande-reacts-to-2027-grammy-nominations-crying | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691368-overwhelmed-ariana-grande-reacts-to-2027-grammy-nominations-crying
+- Supporting coverage: Geo News
+- Keywords: 'Overwhelmed' Ariana Grande reacts to | hashtags: 
+- Scheduled: Tue 17 Nov, 01:50 AM PKT
+- Caption:
+```
+'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying'
+
+'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations Ariana Grande is overjoyed after receiving four nominations in the upcoming 69th annual Grammy Awards. On Monday, November 16, the pop icon took to Instagram to celebrate after receiving her first-ever Song of the Year...
+
+Source: Geo News
+```
+
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -202,10 +213,10 @@ Source: Dawn
 - [needs_review] normal | In open letter to FCC, SC and IHC chief justices, Imran pleads for med | Mon 16 Nov, 04:44 PM PKT
 - [needs_review] normal | Prince and Princess of Wales play street cricket in Mumbai | Mon 16 Nov, 04:54 PM PKT
 - [published] normal | PTI Founder sends letter to Chief Justice of Pakistan | Mon 16 Nov, 06:35 PM PKT
-- [queued] normal | SBP says inflation to ease to 5-7pc target range during FY2027 | Mon 16 Nov, 06:45 PM PKT
-- [queued] normal | PM Shehbaz approves facilitation centres for SMEs at district level | Mon 16 Nov, 06:55 PM PKT
-- [queued] normal | Punjab orders recall of five medicines over quality, safety concerns | Mon 16 Nov, 07:05 PM PKT
-- [queued] normal | China says Xi-Putin-Trump meeting has 'groundbreaking significance' | Mon 16 Nov, 09:00 PM PKT
+- [needs_review] normal | SBP says inflation to ease to 5-7pc target range during FY2027 | Mon 16 Nov, 06:45 PM PKT
+- [needs_review] normal | PM Shehbaz approves facilitation centres for SMEs at district level | Mon 16 Nov, 06:55 PM PKT
+- [needs_review] normal | Punjab orders recall of five medicines over quality, safety concerns | Mon 16 Nov, 07:05 PM PKT
+- [published] normal | China says Xi-Putin-Trump meeting has 'groundbreaking significance' | Mon 16 Nov, 09:00 PM PKT
 - [queued] normal | Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | Mon 16 Nov, 09:10 PM PKT
 - [queued] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
 - [queued] normal | Klopp says Infantino worse than Blatter | Mon 16 Nov, 09:30 PM PKT
@@ -221,9 +232,13 @@ Source: Dawn
 - [queued] normal | US to curb China's access to AI chips as Trump heads to Asia | Tue 17 Nov, 12:32 AM PKT
 - [queued] normal | Punjab to introduce new anti-rape law and speedy courts | Tue 17 Nov, 12:42 AM PKT
 - [queued] normal | Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News | Tue 17 Nov, 12:52 AM PKT
+- [queued] normal | Saudi Arabia dismisses commander of anti-Houthi coalition: state media | Tue 17 Nov, 01:20 AM PKT
+- [queued] normal | What will Europe do next in Ukraine? | Tue 17 Nov, 01:30 AM PKT
+- [queued] normal | Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | Tue 17 Nov, 01:40 AM PKT
+- [queued] normal | 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying | Tue 17 Nov, 01:50 AM PKT
 
 ## Publishing this run
-- Published 'PTI Founder sends letter to Chief Justice of Pakistan'.
+- Published 'China says Xi-Putin-Trump meeting has 'groundbreaking significance''.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
