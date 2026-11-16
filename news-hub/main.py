@@ -1582,6 +1582,16 @@ def last_published(queue):
     return max(times) if times else None
 
 
+def defer_ordinary_lane(depth, direct_candidate_count):
+    """Keep trusted intake fast while the queue fills; resume ordinary assessment at 24-27."""
+    return direct_candidate_count > 0 and (depth < DEPTH_SKIP or depth >= QUEUE_CAP)
+
+
+def direct_normal_selection_budget(remaining, direct_normal, ordinary_regular):
+    """Reserve one slot for assessed ordinary sources when there are at least two slots."""
+    return remaining - 1 if remaining >= 2 and direct_normal and ordinary_regular else remaining
+
+
 def pick_due(queue, t0):
     """Publish one due Facebook poster per ten-minute scheduled run."""
     due = [i for i in queue["items"] if i["status"] == "queued" and parse(i["not_before"]) <= t0]
@@ -2042,7 +2052,7 @@ def main():
             # Build the trusted-publisher buffer first. Once it reaches 24, assess
             # ordinary sources too, but pause that optional lane again at a completely
             # full 28-item queue. This prevents non-trusted coverage starving forever.
-            defer_ordinary = direct_candidate_count > 0 and (depth < DEPTH_SKIP or depth >= QUEUE_CAP)
+            defer_ordinary = defer_ordinary_lane(depth, direct_candidate_count)
             stories = analyse(candidates, defer_ordinary=defer_ordinary)
             # Soft-PR desk: retain promotional announcements as research leads, but do not schedule
             # them until independent accountability evidence is found. This is a hold, not a verdict.
@@ -2150,7 +2160,7 @@ def main():
             # Trusted normal stories lead the queue. When at least two slots are
             # available and ordinary candidates have passed AI review, reserve one
             # slot for them so the broader desk is not permanently starved.
-            direct_budget = remaining - 1 if remaining >= 2 and direct_normal and ordinary_regular else remaining
+            direct_budget = direct_normal_selection_budget(remaining, direct_normal, ordinary_regular)
             chosen.extend(direct_normal[:direct_budget])
             remaining = max(0, selection_limit - len(chosen))
             if remaining:
