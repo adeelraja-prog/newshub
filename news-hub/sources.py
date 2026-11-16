@@ -175,7 +175,7 @@ BLOCKED_NAMES = ["times of india", "timesofindia", "ndtv", "hindustan times", "i
                  "new indian express", "deccan herald", "the telangana", "sakshi", "eenadu", "andhra jyothy",
                  "greatandhra", "oneindia telugu", "times now", "timesnow", "newsx", "india.com",
                  "the lallantop", "the better india", "bar and bench", "livelaw", "the federal",
-                 "press trust of india", "asian news international", "ani news",
+                 "press trust of india", "asian news international", "ani news", "edexlive",
                  "indo-asian news service", "united news of india", "india press trust"]
 BLOCKED_EXACT = ["ani", "pti", "ians", "uni", "mint", "the quint"]
 BLOCKED_HOST_ENDINGS = (
@@ -189,6 +189,6 @@ BLOCKED_HOST_ENDINGS = (
     "livemint.com", "moneycontrol.com", "business-standard.com", "abplive.com",
     "indiatvnews.com", "dnaindia.com", "mid-day.com", "jagran.com", "bhaskar.com",
     "telegraphindia.com", "financialexpress.com", "cnbctv18.com", "timesnownews.com",
-    "thequint.com", "thebetterindia.com", "timesnow.com", "india.com", "newsx.com",
+    "thequint.com", "thebetterindia.com", "timesnow.com", "india.com", "newsx.com", "edexlive.com",
     "thelallantop.com", "barandbench.com", "livelaw.in", "thefederal.com",
 )
