@@ -39882,7 +39882,511 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "387ace874a60fd7e75c575b4",
+      "remembered_at": "2026-11-16T19:22:39.252808+00:00",
+      "event_date": "2026-11-16T17:02:00+00:00",
+      "last_update": "2026-11-16T19:10:09+00:00",
+      "event": "US to curb China's access to AI chips as Trump heads to Asia",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2022",
+        "access",
+        "administration",
+        "are",
+        "asia",
+        "best",
+        "board",
+        "china",
+        "chips",
+        "circuit",
+        "companies",
+        "computer",
+        "curb",
+        "february",
+        "from",
+        "further",
+        "heads",
+        "illustration",
+        "issued",
+        "just",
+        "like",
+        "monday",
+        "nvidia",
+        "picture",
+        "restrict",
+        "reuters",
+        "rule",
+        "seen",
+        "semiconductor",
+        "taken",
+        "that",
+        "the",
+        "this",
+        "trump",
+        "will"
+      ],
+      "source_excerpt": "Semiconductor chips are seen on a circuit board of a computer in this illustration picture taken February 25, 2022.— Reuters The Trump administration on Monday issued a rule that will further restrict China's access to the best AI chips from companies like Nvidia, just as...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691353-us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia",
+          "published_at": "2026-11-16T17:02:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTdMNFF2OS12RjNlaU9qZ2ZJUWZXaDFqTC1wVzFnaHhqSXFjUGtaZGpjVzdZT2pLN0l3d1JCQzR1T01hWGlTYlQ3YkxWdU5CUHc0UzNwaXA3YlhqNVRzNjg3aVNlcXlvZ1JWQXNlTUtVYlZaVjBKOGp4STBjSTI4OVVfeTFWTmhqU3hGRTZmWWxGeVpZQU5V?oc=5",
+          "published_at": "2026-11-16T17:02:00+00:00"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+          "published_at": "2026-11-16T19:10:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691353-us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia",
+        "publisher_url": "https://www.geo.tv/latest/691353-us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "25b16489434f88b5d1ce31b9",
+      "remembered_at": "2026-11-16T19:22:39.252808+00:00",
+      "event_date": "2026-11-16T18:42:00+00:00",
+      "last_update": "2026-11-16T18:42:00+00:00",
+      "event": "'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "69th",
+        "after",
+        "annual",
+        "ariana",
+        "awards",
+        "celebrate",
+        "crying",
+        "ever",
+        "first",
+        "four",
+        "grammy",
+        "grande",
+        "her",
+        "icon",
+        "instagram",
+        "monday",
+        "nominations",
+        "november",
+        "overjoyed",
+        "overwhelmed",
+        "pop",
+        "reacts",
+        "receiving",
+        "song",
+        "the",
+        "took",
+        "upcoming",
+        "year"
+      ],
+      "source_excerpt": "'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations Ariana Grande is overjoyed after receiving four nominations in the upcoming 69th annual Grammy Awards. On Monday, November 16, the pop icon took to Instagram to celebrate after receiving her first-ever Song of the Year...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691368-overwhelmed-ariana-grande-reacts-to-2027-grammy-nominations-crying",
+          "published_at": "2026-11-16T18:42:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691368-overwhelmed-ariana-grande-reacts-to-2027-grammy-nominations-crying",
+        "publisher_url": "https://www.geo.tv/latest/691368-overwhelmed-ariana-grande-reacts-to-2027-grammy-nominations-crying",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "29f56738c89ecbcb31a5504f",
+      "remembered_at": "2026-11-16T19:22:39.252808+00:00",
+      "event_date": "2026-11-16T17:24:26+00:00",
+      "last_update": "2026-11-16T17:24:26+00:00",
+      "event": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "analysts",
+        "ceo",
+        "downturn",
+        "faces",
+        "huang",
+        "insiders",
+        "jensen",
+        "loss",
+        "market",
+        "nvidia",
+        "percent",
+        "potential",
+        "restore",
+        "role",
+        "say",
+        "silicon",
+        "stock",
+        "urge",
+        "valley",
+        "value",
+        "without"
+      ],
+      "source_excerpt": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
+          "published_at": "2026-11-16T17:24:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c59e24a2cbf2a48887aab55d",
+      "remembered_at": "2026-11-16T19:22:39.252808+00:00",
+      "event_date": "2026-11-16T18:38:16+00:00",
+      "last_update": "2026-11-16T18:38:16+00:00",
+      "event": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abdul",
+        "and",
+        "ballot",
+        "blow",
+        "democrats",
+        "different",
+        "embraced",
+        "forward",
+        "gaza",
+        "his",
+        "identity",
+        "islamophobia",
+        "muslim",
+        "politics",
+        "put",
+        "sayed",
+        "showed",
+        "the",
+        "victory",
+        "way"
+      ],
+      "source_excerpt": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+          "published_at": "2026-11-16T18:38:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "610966868cc204a1701352f5",
+      "remembered_at": "2026-11-16T19:22:39.252808+00:00",
+      "event_date": "2026-11-16T18:26:15+00:00",
+      "last_update": "2026-11-16T18:26:15+00:00",
+      "event": "Dog rescued after getting stuck down a rabbit hole",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bbc",
+        "dog",
+        "down",
+        "getting",
+        "hole",
+        "rabbit",
+        "rescued",
+        "stuck"
+      ],
+      "source_excerpt": "Dog rescued after getting stuck down a rabbit hole BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oOGNwVlMxUndQcGFJaVlQS0p4TUhNemRBWDFPZkVYSnMzQ2VmcTdmd21Ha3V1aDBiMl9ocVNnUmFDMXQ2ZXEwVlZ0SG92RXpmeEJaYU0yQTVMRWM?oc=5",
+          "published_at": "2026-11-16T18:26:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oOGNwVlMxUndQcGFJaVlQS0p4TUhNemRBWDFPZkVYSnMzQ2VmcTdmd21Ha3V1aDBiMl9ocVNnUmFDMXQ2ZXEwVlZ0SG92RXpmeEJaYU0yQTVMRWM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fdefa1e7442b1ef6b9c07a23",
+      "remembered_at": "2026-11-16T19:22:39.252808+00:00",
+      "event_date": "2026-11-16T17:52:52+00:00",
+      "last_update": "2026-11-16T17:52:52+00:00",
+      "event": "Trump says 'would not mind' Huang being reinstated at Nvidia",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "being",
+        "dawn",
+        "huang",
+        "mind",
+        "not",
+        "nvidia",
+        "reinstated",
+        "says",
+        "trump",
+        "would"
+      ],
+      "source_excerpt": "Trump says 'would not mind' Huang being reinstated at Nvidia Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU5hc3ptTEdiYlJncmsyeTN2OEZyTHhZbHBZWEFoODMtdHF3U201MDM0bkpxZEx6UFhucXIzQW84dHNSakNGUkVIYmYzRFc1dmctX0Z2YkUyQTl1V25fZHFZVVNoRG1wdHhhZFhTdG1QZEpTQnJDd1NOU0ViX283WnBjcG1yakdZWFdsNWRObmc3TC1yNDhj?oc=5",
+          "published_at": "2026-11-16T17:52:52+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2044968/trump-says-would-not-mind-huang-being-reinstated-at-nvidia",
+          "published_at": "2026-11-16T17:52:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU5hc3ptTEdiYlJncmsyeTN2OEZyTHhZbHBZWEFoODMtdHF3U201MDM0bkpxZEx6UFhucXIzQW84dHNSakNGUkVIYmYzRFc1dmctX0Z2YkUyQTl1V25fZHFZVVNoRG1wdHhhZFhTdG1QZEpTQnJDd1NOU0ViX283WnBjcG1yakdZWFdsNWRObmc3TC1yNDhj?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "694e80a866b0555b94c4abe8",
+      "remembered_at": "2026-11-16T19:22:39.252808+00:00",
+      "event_date": "2026-11-16T18:21:42+00:00",
+      "last_update": "2026-11-16T18:21:42+00:00",
+      "event": "WATCH: Iran's FM Araghchi meets Deputy PM Dar in Islamabad",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "araghchi",
+        "dar",
+        "dawn",
+        "deputy",
+        "iran",
+        "islamabad",
+        "meets",
+        "watch"
+      ],
+      "source_excerpt": "WATCH: Iran's FM Araghchi meets Deputy PM Dar in Islamabad Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1hrQUpGUzJzb3VTb1o0SkpkTUVkeHFxdlZuWThjV1hNdFhqZVpnakxkb1RESFl4SHB6cUpUYnpQb3VqWWNtWjFhdS13RkZMdHg1bGtwQ0UzeXc1MjJ5cFl1VXZkUU4zVXY3NW9jRnFyRFIwWnJyUzRsX2x1VmNCd1VnU0hCZ2pVb3ZNSDFLUFIyazFf?oc=5",
+          "published_at": "2026-11-16T18:21:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1hrQUpGUzJzb3VTb1o0SkpkTUVkeHFxdlZuWThjV1hNdFhqZVpnakxkb1RESFl4SHB6cUpUYnpQb3VqWWNtWjFhdS13RkZMdHg1bGtwQ0UzeXc1MjJ5cFl1VXZkUU4zVXY3NW9jRnFyRFIwWnJyUzRsX2x1VmNCd1VnU0hCZ2pVb3ZNSDFLUFIyazFf?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "868a8ec0264356ec5dda4f59",
+      "remembered_at": "2026-11-16T19:22:39.252808+00:00",
+      "event_date": "2026-11-16T19:03:34+00:00",
+      "last_update": "2026-11-16T19:03:34+00:00",
+      "event": "Sindh CM presents climate resilience plan at COP31",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "climate",
+        "cop31",
+        "plan",
+        "presents",
+        "resilience",
+        "sindh"
+      ],
+      "source_excerpt": "Sindh CM presents climate resilience plan at COP31",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/sindh-cm-presents-climate-resilience-plan-at-cop31",
+          "published_at": "2026-11-16T19:03:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/sindh-cm-presents-climate-resilience-plan-at-cop31",
+        "publisher_url": "https://arynews.tv/sindh-cm-presents-climate-resilience-plan-at-cop31",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9e7e1a29a5c0480b9d6b4708",
+      "remembered_at": "2026-11-16T19:22:39.252808+00:00",
+      "event_date": "2026-11-16T18:44:15+00:00",
+      "last_update": "2026-11-16T18:44:15+00:00",
+      "event": "Karachi University law department dean has no master’s degree, claims Ali Khurshidi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ali",
+        "claims",
+        "dean",
+        "degree",
+        "department",
+        "has",
+        "karachi",
+        "khurshidi",
+        "law",
+        "master",
+        "university"
+      ],
+      "source_excerpt": "Karachi University law department dean has no master’s degree, claims Ali Khurshidi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-university-law-department-dean-has-no-masters-degree-claims-ali-khurshidi",
+          "published_at": "2026-11-16T18:44:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-university-law-department-dean-has-no-masters-degree-claims-ali-khurshidi",
+        "publisher_url": "https://arynews.tv/karachi-university-law-department-dean-has-no-masters-degree-claims-ali-khurshidi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "10070a0cdc15c2cbdaa5a4ba",
+      "remembered_at": "2026-11-16T19:22:39.252808+00:00",
+      "event_date": "2026-11-16T18:39:35+00:00",
+      "last_update": "2026-11-16T18:39:35+00:00",
+      "event": "Chinese hybrid rapeseed tech helps Pakistan boost rural Incomes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "boost",
+        "chinese",
+        "helps",
+        "hybrid",
+        "incomes",
+        "pakistan",
+        "rapeseed",
+        "rural",
+        "tech"
+      ],
+      "source_excerpt": "Chinese hybrid rapeseed tech helps Pakistan boost rural Incomes",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/chinese-hybrid-rapeseed-tech-helps-pakistan-boost-rural-incomes",
+          "published_at": "2026-11-16T18:39:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/chinese-hybrid-rapeseed-tech-helps-pakistan-boost-rural-incomes",
+        "publisher_url": "https://arynews.tv/chinese-hybrid-rapeseed-tech-helps-pakistan-boost-rural-incomes",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-16T18:15:43.737403+00:00"
+  "updated_at": "2026-11-16T19:22:39.252808+00:00"
 }
