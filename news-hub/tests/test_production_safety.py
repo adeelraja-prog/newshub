@@ -87,6 +87,30 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             with self.assertRaises(RuntimeError):
                 newsroom.post_facebook(image.name, "test caption")
 
+    def test_routine_headline_with_killed_keyword_is_not_auto_breaking(self):
+        instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
+        member = {"source": "Dawn", "link": "https://www.dawn.com/news/example",
+                  "title": "Police report three killed in road crash"}
+        cluster = {"id": "routine-event", "members": [member], "lead": member,
+                   "title": member["title"], "excerpt": "Police issued a routine update.",
+                   "sources": ["Dawn"], "first_pub": instant, "last_pub": instant,
+                   "sig": {"viral_measured": 0}}
+        story = newsroom.make_direct_publisher_story(cluster)
+        self.assertEqual(story["priority"], "normal")
+        self.assertEqual(story["editorial_priority_band"], "P2")
+
+    def test_explicit_breaking_label_bypasses_normal_queue(self):
+        instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
+        member = {"source": "Geo News", "link": "https://www.geo.tv/news/example",
+                  "title": "BREAKING: Supreme Court issues urgent order"}
+        cluster = {"id": "breaking-event", "members": [member], "lead": member,
+                   "title": member["title"], "excerpt": "The court issued its order.",
+                   "sources": ["Geo News"], "first_pub": instant, "last_pub": instant,
+                   "sig": {"viral_measured": 0}}
+        story = newsroom.make_direct_publisher_story(cluster)
+        self.assertEqual(story["priority"], "breaking")
+        self.assertEqual(story["editorial_priority_band"], "P1")
+
     def test_nonbreaking_trusted_publisher_story_uses_normal_queue(self):
         instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
         member = {"source": "Dawn", "link": "https://www.dawn.com/news/example",
