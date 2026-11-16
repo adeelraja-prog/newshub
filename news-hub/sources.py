@@ -175,8 +175,16 @@ BLOCKED_NAMES = ["times of india", "timesofindia", "ndtv", "hindustan times", "i
                  "new indian express", "deccan herald", "the telangana", "sakshi", "eenadu", "andhra jyothy",
                  "greatandhra", "oneindia telugu"]
 BLOCKED_EXACT = ["ani", "pti", "ians", "uni", "mint", "the quint"]
-BLOCKED_HOST_ENDINGS = (".in", ".co.in", "telanganatoday.com", "telangananews.com",
-                        "thehansindia.com", "deccanchronicle.com", "newindianexpress.com",
-                        "deccanherald.com", "sakshi.com", "eenadu.net", "andhrajyothy.com",
-                        "greatandhra.com", "oneindia.com", "republicworld.com", "opindia.com", "swarajyamag.com",
-                        "newslaundry.com", "ptinews.com", "aninews.in")
+BLOCKED_HOST_ENDINGS = (
+    ".in", ".co.in", "telanganatoday.com", "telangananews.com", "thehansindia.com",
+    "deccanchronicle.com", "newindianexpress.com", "deccanherald.com", "sakshi.com",
+    "eenadu.net", "andhrajyothy.com", "greatandhra.com", "oneindia.com",
+    "republicworld.com", "opindia.com", "swarajyamag.com", "newslaundry.com",
+    "ptinews.com", "aninews.in", "timesofindia.indiatimes.com", "ndtv.com",
+    "hindustantimes.com", "thehindu.com", "indianexpress.com", "zeenews.india.com",
+    "news18.com", "firstpost.com", "wionews.com", "economictimes.indiatimes.com",
+    "livemint.com", "moneycontrol.com", "business-standard.com", "abplive.com",
+    "indiatvnews.com", "dnaindia.com", "mid-day.com", "jagran.com", "bhaskar.com",
+    "telegraphindia.com", "financialexpress.com", "cnbctv18.com", "timesnownews.com",
+    "thequint.com", "thebetterindia.com",
+)
