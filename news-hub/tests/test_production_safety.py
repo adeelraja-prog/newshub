@@ -123,6 +123,13 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(cluster["members"], [dawn])
         self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
 
+    def test_trusted_publisher_queue_does_not_wait_for_ordinary_ai_assessment(self):
+        with patch.object(newsroom, "is_direct_publisher_cluster",
+                          side_effect=lambda cluster: bool(cluster.get("direct"))),              patch.object(newsroom, "make_direct_publisher_story", return_value={"id": "trusted"}),              patch.object(newsroom, "analyse_ai", side_effect=AssertionError("ordinary AI must be deferred")) as ai:
+            result = newsroom.analyse([{"direct": True}, {"direct": False}], defer_ordinary=True)
+        self.assertEqual(result, [{"id": "trusted"}])
+        ai.assert_not_called()
+
     def test_non_fast_lane_ai_failure_does_not_discard_fast_lane_story(self):
         with patch.object(newsroom, "is_direct_publisher_cluster",
                           side_effect=lambda cluster: bool(cluster.get("direct"))), \
