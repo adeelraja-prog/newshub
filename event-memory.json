@@ -42025,7 +42025,402 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1fa4f6417ee4aeb3afa48214",
+      "remembered_at": "2026-11-16T23:54:31.428039+00:00",
+      "event_date": "2026-11-16T19:52:24+00:00",
+      "last_update": "2026-11-16T23:12:24+00:00",
+      "event": "California sues OpenAI over Hugging Face attack",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleges",
+        "and",
+        "attack",
+        "attorney",
+        "bonta",
+        "california",
+        "endangered",
+        "face",
+        "general",
+        "hugging",
+        "misled",
+        "openai",
+        "over",
+        "public",
+        "rob",
+        "sues",
+        "the"
+      ],
+      "source_excerpt": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "sources": [
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/",
+          "published_at": "2026-11-16T19:52:24+00:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+          "published_at": "2026-11-16T20:07:13+00:00"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+          "published_at": "2026-11-16T20:46:01+00:00"
+        },
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T23:12:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a799b522e3dbe6177ec17119",
+      "remembered_at": "2026-11-16T23:54:31.428039+00:00",
+      "event_date": "2026-11-16T23:27:11+00:00",
+      "last_update": "2026-11-16T23:27:11+00:00",
+      "event": "Wirtz feels the fun as Germany run riot over Netherlands",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "feels",
+        "fun",
+        "germany",
+        "netherlands",
+        "over",
+        "riot",
+        "run",
+        "the",
+        "wirtz"
+      ],
+      "source_excerpt": "Wirtz feels the fun as Germany run riot over Netherlands Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXVEVk05THBuQ09WWXZWMDNvX2J0dE01WXB2LVNTVEtwVFFIS0xMZXZuWDZvaVlLTWF5RFl6Q2lVbUtQdlA5OGJiNEF5VDAwMnhxRU5HTU1LS0t1TEgxUlN1YmY5NEVHQ0dhWG01Rm5xNERRTTlBR3Qwa3JVd1JMbERYUXdxVFlEaVoxWDgtc0ZtRUZi?oc=5",
+          "published_at": "2026-11-16T23:27:11+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2044980/wirtz-feels-the-fun-as-germany-run-riot-over-netherlands",
+          "published_at": "2026-11-16T23:27:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXVEVk05THBuQ09WWXZWMDNvX2J0dE01WXB2LVNTVEtwVFFIS0xMZXZuWDZvaVlLTWF5RFl6Q2lVbUtQdlA5OGJiNEF5VDAwMnhxRU5HTU1LS0t1TEgxUlN1YmY5NEVHQ0dhWG01Rm5xNERRTTlBR3Qwa3JVd1JMbERYUXdxVFlEaVoxWDgtc0ZtRUZi?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "14255515b1174438a61998d6",
+      "remembered_at": "2026-11-16T23:54:31.428039+00:00",
+      "event_date": "2026-11-16T23:44:32+00:00",
+      "last_update": "2026-11-16T23:44:32+00:00",
+      "event": "Paraguay ex-president moved to military jail amid special treatment reports",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "amid",
+        "bank",
+        "been",
+        "collapse",
+        "corruption",
+        "earlier",
+        "following",
+        "has",
+        "jail",
+        "military",
+        "month",
+        "moved",
+        "paraguay",
+        "pena",
+        "president",
+        "reports",
+        "santiago",
+        "special",
+        "the",
+        "this",
+        "treatment",
+        "ueno"
+      ],
+      "source_excerpt": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+          "published_at": "2026-11-16T23:44:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fb659e3fe9fbdc89a3e6ef15",
+      "remembered_at": "2026-11-16T23:54:31.428039+00:00",
+      "event_date": "2026-11-16T23:00:36+00:00",
+      "last_update": "2026-11-16T23:00:36+00:00",
+      "event": "EU agrees to resurrect cooperation deal with Syria",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "agrees",
+        "aims",
+        "assad",
+        "bloc",
+        "bolster",
+        "collapse",
+        "cooperation",
+        "damascus",
+        "deal",
+        "december",
+        "decision",
+        "following",
+        "government",
+        "resurrect",
+        "syria",
+        "the",
+        "ties",
+        "with"
+      ],
+      "source_excerpt": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+          "published_at": "2026-11-16T23:00:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ea3ae7614e46a2967ae48fd6",
+      "remembered_at": "2026-11-16T23:54:31.428039+00:00",
+      "event_date": "2026-11-16T23:25:53+00:00",
+      "last_update": "2026-11-16T23:25:53+00:00",
+      "event": "The AI start-ups fixing India's broken roads and messy land records",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "broken",
+        "challenges",
+        "dozens",
+        "fixing",
+        "from",
+        "healthcare",
+        "india",
+        "indian",
+        "land",
+        "legal",
+        "messy",
+        "records",
+        "roads",
+        "solving",
+        "start",
+        "tech",
+        "the",
+        "uniquely",
+        "ups"
+      ],
+      "source_excerpt": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T23:25:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "05e56c8e52572a71e7dfd05e",
+      "remembered_at": "2026-11-16T23:54:31.428039+00:00",
+      "event_date": "2026-11-16T23:15:21+00:00",
+      "last_update": "2026-11-16T23:15:21+00:00",
+      "event": "Customers report service outages at major US banks",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bank",
+        "banks",
+        "bug",
+        "but",
+        "causing",
+        "chase",
+        "customers",
+        "cyber",
+        "issue",
+        "largest",
+        "major",
+        "might",
+        "not",
+        "outages",
+        "related",
+        "report",
+        "said",
+        "service",
+        "software",
+        "systemic",
+        "that",
+        "the",
+        "was"
+      ],
+      "source_excerpt": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T23:15:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "acd87d043694a82fe7c2e5eb",
+      "remembered_at": "2026-11-16T23:54:31.428039+00:00",
+      "event_date": "2026-11-16T23:31:00+00:00",
+      "last_update": "2026-11-16T23:31:00+00:00",
+      "event": "John Summit blasts The Grammys after snub: 'Zero respect'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "after",
+        "again",
+        "and",
+        "attack",
+        "awards",
+        "being",
+        "blasts",
+        "blistering",
+        "grammys",
+        "has",
+        "his",
+        "john",
+        "launched",
+        "messages",
+        "music",
+        "never",
+        "nominations",
+        "out",
+        "posted",
+        "producer",
+        "respect",
+        "saying",
+        "series",
+        "shut",
+        "snub",
+        "submit",
+        "summit",
+        "the",
+        "will",
+        "zero"
+      ],
+      "source_excerpt": "John Summit blasts The Grammys after snub: 'Zero respect' John Summit has launched a blistering attack on the Grammys after being shut out of the 2027 nominations, saying he will never submit his music to the awards again. The DJ and producer posted a series of messages after the...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691390-john-summit-grammys-nominations",
+          "published_at": "2026-11-16T23:31:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691390-john-summit-grammys-nominations",
+        "publisher_url": "https://www.geo.tv/latest/691390-john-summit-grammys-nominations",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-16T23:10:05.749207+00:00"
+  "updated_at": "2026-11-16T23:54:31.428039+00:00"
 }

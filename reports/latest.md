@@ -1,138 +1,137 @@
-# News Hub report - Tue 17 Nov, 04:10 AM PKT
+# News Hub report - Tue 17 Nov, 04:54 AM PKT
 
 ## Collection
-- New items this run: 14 | items in rolling pool: 469
-- Unique story clusters: 387 (duplicates merged: 82)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 7
-- Items per outlet: Dawn 2, Dawn Latest 2, Engadget 2, Geo News 1, Al Jazeera 1, The Verge 1, Ars Technica 1, BBC Health 1, WSJ 1, 香港電台 1, UNITED24 Media 1, Geo News Fast Lane 0
+- New items this run: 18 | items in rolling pool: 424
+- Unique story clusters: 344 (duplicates merged: 80)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 8
+- Items per outlet: Al Jazeera 3, The Verge 2, BBC Technology 2, Dawn 1, Dawn Latest 1, Geo News 1, TechCrunch 1, Engadget 1, GSMArena 1, BBC Business 1, Iran International 1, Crude Oil Prices Today | OilPrice.com 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- California files lawsuit against OpenAI alleging lack of proper safeguards | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cass report author says she does not support draft conversion practices bill | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Houthi rebel advance in Yemen may further destabilise global economy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Pentagon rejects allegations linking deputy to a Goldman Sachs banker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- California sues OpenAI over Hugging Face attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Wirtz feels the fun as Germany run riot over Netherlands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Woman who got hooked on nasal spray for 10 years says it cost her thousands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Paraguay ex-president moved to military jail amid special treatment reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- California files lawsuit against OpenAI alleging lack of proper safeguards | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cass report author says she does not support draft conversion practices bill | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Houthi rebel advance in Yemen may further destabilise global economy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Pentagon rejects allegations linking deputy to a Goldman Sachs banker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- California sues OpenAI over Hugging Face attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Wirtz feels the fun as Germany run riot over Netherlands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Woman who got hooked on nasal spray for 10 years says it cost her thousands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Paraguay ex-president moved to military jail amid special treatment reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- California files lawsuit against OpenAI alleging lack of proper safeguards | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cass report author says she does not support draft conversion practices bill | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Houthi rebel advance in Yemen may further destabilise global economy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Pentagon rejects allegations linking deputy to a Goldman Sachs banker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- California sues OpenAI over Hugging Face attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Wirtz feels the fun as Germany run riot over Netherlands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Woman who got hooked on nasal spray for 10 years says it cost her thousands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Paraguay ex-president moved to military jail amid special treatment reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 76/107 | empty: 2 | failed: 29 | malformed/partial: 29
-- Trusted publisher desks with at least one healthy source: 9/10
+- Overall feeds with entries: 91/107 | empty: 4 | failed: 12 | malformed/partial: 12
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan National Politics | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Express News
+- ATTENTION: Imran Khan and Adiala Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Today Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: CNN India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BBC India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### California files lawsuit against OpenAI alleging lack of proper safeguards  [NORMAL]
-- Poster:  / California files lawsuit against OpenAI alleging lack of proper safeguards | category other
-- Alternative headline: California files lawsuit against OpenAI alleging lack of proper safeguards
+### California sues OpenAI over Hugging Face attack  [NORMAL]
+- Poster:  / California sues OpenAI over Hugging Face attack | category other
+- Alternative headline: California sues OpenAI over Hugging Face attack
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: California files lawsuit against OpenAI | hashtags: 
-- Scheduled: Tue 17 Nov, 04:10 AM PKT
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: Engadget, TechCrunch, The Verge, BBC Technology
+- Keywords: California sues OpenAI over Hugging | hashtags: 
+- Scheduled: Tue 17 Nov, 04:54 AM PKT
 - Caption:
 ```
-California files lawsuit against OpenAI alleging lack of proper safeguards
+California sues OpenAI over Hugging Face attack
 
-Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.
+Attorney General Rob Bonta alleges OpenAI misled and endangered the public
+
+Source: BBC Technology
+```
+
+### Five EU countries announce plan to send rejected asylum seekers to Rwanda  [NORMAL]
+- Poster:  / Five EU countries announce plan to send rejected asylum seekers to Rwanda | category other
+- Alternative headline: Five EU countries announce plan to send rejected asylum seekers to Rwanda
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss
+- Supporting coverage: Al Jazeera, BBC
+- Keywords: Five EU countries announce plan | hashtags: 
+- Scheduled: Tue 17 Nov, 05:04 AM PKT
+- Caption:
+```
+Five EU countries announce plan to send rejected asylum seekers to Rwanda
+
+In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.
 
 Source: Al Jazeera
 ```
 
-### Cass report author says she does not support draft conversion practices bill  [NORMAL]
-- Poster:  / Cass report author says she does not support draft conversion practices bill | category other
-- Alternative headline: Cass report author says she does not support draft conversion practices bill
+### Wirtz feels the fun as Germany run riot over Netherlands  [NORMAL]
+- Poster:  / Wirtz feels the fun as Germany run riot over Netherlands | category other
+- Alternative headline: Wirtz feels the fun as Germany run riot over Netherlands
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXVEVk05THBuQ09WWXZWMDNvX2J0dE01WXB2LVNTVEtwVFFIS0xMZXZuWDZvaVlLTWF5RFl6Q2lVbUtQdlA5OGJiNEF5VDAwMnhxRU5HTU1LS0t1TEgxUlN1YmY5NEVHQ0dhWG01Rm5xNERRTTlBR3Qwa3JVd1JMbERYUXdxVFlEaVoxWDgtc0ZtRUZi?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXVEVk05THBuQ09WWXZWMDNvX2J0dE01WXB2LVNTVEtwVFFIS0xMZXZuWDZvaVlLTWF5RFl6Q2lVbUtQdlA5OGJiNEF5VDAwMnhxRU5HTU1LS0t1TEgxUlN1YmY5NEVHQ0dhWG01Rm5xNERRTTlBR3Qwa3JVd1JMbERYUXdxVFlEaVoxWDgtc0ZtRUZi?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Wirtz feels the fun as | hashtags: 
+- Scheduled: Tue 17 Nov, 05:14 AM PKT
+- Caption:
+```
+Wirtz feels the fun as Germany run riot over Netherlands
+
+Wirtz feels the fun as Germany run riot over Netherlands Dawn
+
+Source: Dawn
+```
+
+### Woman who got hooked on nasal spray for 10 years says it cost her thousands  [NORMAL]
+- Poster:  / Woman who got hooked on nasal spray for 10 years says it cost her thousands | category other
+- Alternative headline: Woman who got hooked on nasal spray for 10 years says it cost her thousands
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cj93ry10rl11o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cj93ry10rl11o?at_medium=RSS&at_campaign=rss
 - Supporting coverage: BBC Health
-- Keywords: Cass report author says she | hashtags: 
-- Scheduled: Tue 17 Nov, 04:20 AM PKT
+- Keywords: Woman who got hooked on | hashtags: 
+- Scheduled: Tue 17 Nov, 05:24 AM PKT
 - Caption:
 ```
-Cass report author says she does not support draft conversion practices bill
+Woman who got hooked on nasal spray for 10 years says it cost her thousands
 
-The gender care review author says the bill’s wording risks "serious unintended consequences" for parents and therapists.
+Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.
 
 Source: BBC Health
-```
-
-### Houthi rebel advance in Yemen may further destabilise global economy  [NORMAL]
-- Poster:  / Houthi rebel advance in Yemen may further destabilise global economy | category other
-- Alternative headline: Houthi rebel advance in Yemen may further destabilise global economy
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Houthi rebel advance in Yemen | hashtags: 
-- Scheduled: Tue 17 Nov, 04:30 AM PKT
-- Caption:
-```
-Houthi rebel advance in Yemen may further destabilise global economy
-
-The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.
-
-Source: BBC World
-```
-
-### US Pentagon rejects allegations linking deputy to a Goldman Sachs banker  [NORMAL]
-- Poster:  / US Pentagon rejects allegations linking deputy to a Goldman Sachs banker | category other
-- Alternative headline: US Pentagon rejects allegations linking deputy to a Goldman Sachs banker
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: US Pentagon rejects allegations linking | hashtags: 
-- Scheduled: Tue 17 Nov, 04:40 AM PKT
-- Caption:
-```
-US Pentagon rejects allegations linking deputy to a Goldman Sachs banker
-
-Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.
-
-Source: Al Jazeera
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -221,11 +220,11 @@ Source: Al Jazeera
 - [needs_review] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
 - [published] normal | Klopp says Infantino worse than Blatter | Mon 16 Nov, 09:30 PM PKT
 - [published] normal | SBP projects 3.5-4.5% GDP growth for FY27 | Mon 16 Nov, 10:14 PM PKT
-- [queued] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
-- [queued] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
-- [queued] normal | Third US aircraft carrier arrives in Middle East amid tensions with Ir | Mon 16 Nov, 10:44 PM PKT
+- [needs_review] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
+- [needs_review] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
+- [needs_review] normal | Third US aircraft carrier arrives in Middle East amid tensions with Ir | Mon 16 Nov, 10:44 PM PKT
 - [published] breaking | LIVE: Germany vs Netherlands – UEFA Nations League | Mon 16 Nov, 11:15 PM PKT
-- [queued] normal | Gold price in Pakistan latest - November 16, 2026 | Mon 16 Nov, 11:15 PM PKT
+- [published] normal | Gold price in Pakistan latest - November 16, 2026 | Mon 16 Nov, 11:15 PM PKT
 - [queued] normal | Trump backs possible return of Jensen Huang as Nvidia CEO | Mon 16 Nov, 11:25 PM PKT
 - [queued] normal | Pakistan to host next Makkah alliance summit later this month: DPM Dar | Mon 16 Nov, 11:35 PM PKT
 - [queued] normal | Robert Pattinson: How the Twilight star became 007 | Tue 17 Nov, 12:22 AM PKT
@@ -248,9 +247,13 @@ Source: Al Jazeera
 - [queued] normal | Cass report author says she does not support draft conversion practice | Tue 17 Nov, 04:20 AM PKT
 - [queued] normal | Houthi rebel advance in Yemen may further destabilise global economy | Tue 17 Nov, 04:30 AM PKT
 - [queued] normal | US Pentagon rejects allegations linking deputy to a Goldman Sachs bank | Tue 17 Nov, 04:40 AM PKT
+- [queued] normal | California sues OpenAI over Hugging Face attack | Tue 17 Nov, 04:54 AM PKT
+- [queued] normal | Five EU countries announce plan to send rejected asylum seekers to Rwa | Tue 17 Nov, 05:04 AM PKT
+- [queued] normal | Wirtz feels the fun as Germany run riot over Netherlands | Tue 17 Nov, 05:14 AM PKT
+- [queued] normal | Woman who got hooked on nasal spray for 10 years says it cost her thou | Tue 17 Nov, 05:24 AM PKT
 
 ## Publishing this run
-- Published 'SBP projects 3.5-4.5% GDP growth for FY27'.
+- Published 'Gold price in Pakistan latest - November 16, 2026'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
