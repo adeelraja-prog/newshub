@@ -2039,10 +2039,10 @@ def main():
         try:
             normal_slots_left = max(0, QUEUE_CAP - depth)
             direct_candidate_count = sum(1 for c in candidates if is_direct_publisher_cluster(c))
-            # Never let ordinary AI assessment hold up an available trusted publisher item.
-            # Ordinary stories are assessed on cycles with no trusted candidates; queued posts
-            # continue publishing on schedule while the optional lane waits.
-            defer_ordinary = direct_candidate_count > 0
+            # Build the trusted-publisher buffer first. Once it reaches 24, assess
+            # ordinary sources too, but pause that optional lane again at a completely
+            # full 28-item queue. This prevents non-trusted coverage starving forever.
+            defer_ordinary = direct_candidate_count > 0 and (depth < DEPTH_SKIP or depth >= QUEUE_CAP)
             stories = analyse(candidates, defer_ordinary=defer_ordinary)
             # Soft-PR desk: retain promotional announcements as research leads, but do not schedule
             # them until independent accountability evidence is found. This is a hold, not a verdict.
@@ -2147,7 +2147,11 @@ def main():
             ordinary_regular = [s for s in ordinary_ready if s.get("id") not in
                                 {x.get("id") for x in ordinary_breaking}]
             remaining = max(0, selection_limit - len(chosen))
-            chosen.extend(direct_normal[:remaining])
+            # Trusted normal stories lead the queue. When at least two slots are
+            # available and ordinary candidates have passed AI review, reserve one
+            # slot for them so the broader desk is not permanently starved.
+            direct_budget = remaining - 1 if remaining >= 2 and direct_normal and ordinary_regular else remaining
+            chosen.extend(direct_normal[:direct_budget])
             remaining = max(0, selection_limit - len(chosen))
             if remaining:
                 chosen.extend(ed.select_balanced(ordinary_regular, remaining, MIN_CONFIDENCE, min_comp,
