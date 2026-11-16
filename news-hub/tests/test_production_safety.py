@@ -168,6 +168,49 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             newsroom.make_poster(item, "preview")
         self.assertEqual(render.call_args.kwargs["value_addition"], visual)
 
+    def test_direct_publisher_copy_does_not_call_ai_writer(self):
+        instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
+        member = {"source": "Dawn", "link": "https://www.dawn.com/news/example",
+                  "title": "Parliament approves a major national bill",
+                  "snippet": "The National Assembly approved the bill after debate."}
+        cluster = {"id": "direct-copy", "members": [member], "lead": member,
+                   "title": member["title"], "excerpt": member["snippet"],
+                   "sources": ["Dawn"], "first_pub": instant, "last_pub": instant,
+                   "sig": {"viral_measured": 0}}
+        story = newsroom.make_direct_publisher_story(cluster)
+        with patch.object(newsroom, "write_batch", side_effect=AssertionError("AI writer must not be called")):
+            written = newsroom.write_posts([story])
+        self.assertEqual(written[1]["headline_used"], member["title"])
+        self.assertEqual(written[1]["direct_copy_language"], "en")
+        self.assertEqual(written[1]["attribution_line"], "Source: Dawn")
+
+    def test_direct_copy_and_ai_story_keep_original_queue_indexes(self):
+        instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
+        member = {"source": "Geo News", "link": "https://www.geo.tv/news/example",
+                  "title": "قومی اسمبلی کا اجلاس شروع"}
+        cluster = {"id": "direct-urdu", "members": [member], "lead": member,
+                   "title": member["title"], "excerpt": "قومی اسمبلی کا اجلاس شروع ہو گیا۔",
+                   "sources": ["Geo News"], "first_pub": instant, "last_pub": instant,
+                   "sig": {"viral_measured": 0}}
+        direct = newsroom.make_direct_publisher_story(cluster)
+        with patch.object(newsroom, "write_batch", return_value={1: {"headline_used": "AI story"}}) as writer:
+            written = newsroom.write_posts([direct, {"direct_source": False}])
+        self.assertEqual(written[1]["direct_copy_language"], "ur")
+        self.assertEqual(written[2]["headline_used"], "AI story")
+        writer.assert_called_once()
+
+    def test_more_indian_publishers_are_blocked(self):
+        for name, url in [
+            ("Republic TV", "https://www.republicworld.com/news/example"),
+            ("OpIndia", "https://www.opindia.com/example"),
+            ("Swarajya", "https://swarajyamag.com/example"),
+            ("NewsLaundry", "https://www.newslaundry.com/example"),
+            ("ANI", "https://www.aninews.in/example"),
+            ("PTI", "https://www.ptinews.com/example"),
+        ]:
+            with self.subTest(name=name):
+                self.assertTrue(newsroom.is_blocked(name, url, "International news report"))
+
     def test_nonbreaking_trusted_publisher_story_uses_normal_queue(self):
         instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
         member = {"source": "Dawn", "link": "https://www.dawn.com/news/example",
