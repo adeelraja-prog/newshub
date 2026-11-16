@@ -52,6 +52,17 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         }]}
         self.assertFalse(newsroom.is_direct_publisher_cluster(cluster))
 
+    def test_excluding_bbc_pakistan_item_preserves_dawn_coverage(self):
+        dawn = {"source": "Dawn", "link": "https://www.dawn.com/news/example",
+                "title": "Pakistan cabinet decision"}
+        bbc = {"source": "BBC News", "link": "https://news.google.com/rss/articles/example",
+               "title": "Pakistan cabinet decision"}
+        cluster = {"members": [bbc, dawn], "lead": bbc, "sources": ["BBC News", "Dawn"],
+                   "n_sources": 2}
+        self.assertTrue(newsroom.strip_excluded_international_members(cluster))
+        self.assertEqual(cluster["members"], [dawn])
+        self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
+
     def test_malformed_timestamp_is_rejected_without_exception(self):
         self.assertFalse(newsroom.valid_timestamp("not-a-date"))
         self.assertFalse(newsroom.valid_timestamp(None))
