@@ -458,8 +458,8 @@ def is_international_pakistan_item(name, link, text=""):
 
 
 INDIA_TOPIC = re.compile(
-    r"\\b(india|indian|new delhi|delhi|mumbai|kolkata|chennai|bengaluru|bangalore|"
-    r"hyderabad|modi|bjp|lok sabha|rajya sabha|bollywood|ipl|indian premier league)\\b",
+    r"\b(india|indian|new delhi|delhi|mumbai|kolkata|chennai|bengaluru|bangalore|"
+    r"hyderabad|modi|bjp|lok sabha|rajya sabha|bollywood|ipl|indian premier league)\b",
     re.I,
 )
 
