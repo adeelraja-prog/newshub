@@ -1,0 +1,97 @@
+name: newsroom-scheduler
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: "Actually publish to Facebook (leave off for a safe preview)"
+        required: false
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: news-hub
+  cancel-in-progress: false
+defaults:
+  run:
+    working-directory: news-hub   # the project lives in the news-hub folder of the repo
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: news-hub/requirements.txt
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq libcairo2 libraqm0
+      - run: pip install -r requirements.txt
+      - name: Restore saved memory (kept on its own branch so your main branch stays clean)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          mkdir -p /tmp/data && cd /tmp/data && git init -q
+          REMOTE="https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git"
+          if git ls-remote --exit-code --heads "$REMOTE" bot-data >/dev/null 2>&1; then
+            git fetch -q "$REMOTE" bot-data && git checkout -q -B bot-data FETCH_HEAD
+          else
+            cp "${GITHUB_WORKSPACE}/news-hub/state.json" "${GITHUB_WORKSPACE}/news-hub/queue.json" . 2>/dev/null || true
+          fi
+      - name: Compile newsroom Python files
+        run: python -m py_compile main.py editorial.py poster.py sources.py controversy.py news_memory.py editorial_policy.py editorial_quality.py
+      - name: Run editorial and poster regression tests
+        if: ${{ github.event_name != 'schedule' }}
+        run: python -m unittest discover -s tests -v
+      - name: Run newsroom
+        run: python main.py
+        env:
+          STATE_DIR: /tmp/data
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_MODEL: ${{ vars.CLOUDFLARE_MODEL }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && !inputs.publish && '1' || '0' }}
+      - name: Save memory
+        if: ${{ always() }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          cd /tmp/data
+          git config user.name "newshub-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          if git rev-parse --verify -q HEAD >/dev/null; then git commit -q --amend -m "bot data" ; else git commit -q -m "bot data"; fi
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" HEAD:bot-data
+      - name: Prepare production audit artifact
+        if: always()
+        run: |
+          mkdir -p audit-artifacts/posters
+          if [ -f reports/latest.md ]; then
+            cp reports/latest.md audit-artifacts/latest-report.md
+          elif [ -f /tmp/data/reports/latest.md ]; then
+            cp /tmp/data/reports/latest.md audit-artifacts/latest-report.md
+          fi
+          find posters -maxdepth 1 -type f -name '*.jpg' -mmin -15 -exec cp {} audit-artifacts/posters/ \; 2>/dev/null || true
+          printf 'run_id=%s\\nevent=%s\\nsha=%s\\n' "${GITHUB_RUN_ID}" "${GITHUB_EVENT_NAME}" "${GITHUB_SHA}" > audit-artifacts/run-metadata.txt
+      - name: Upload newsroom diagnostics and poster previews
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: newsroom-run-${{ github.run_id }}
+          path: news-hub/audit-artifacts/
+          if-no-files-found: warn
+          retention-days: 14
