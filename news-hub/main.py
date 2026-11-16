@@ -354,11 +354,12 @@ def collect_new(state):
                 stats[key] = stats.get(key, 0) + 1
                 print(f"[source-health] skipped malformed entry from {src.get('name','unknown')}: {entry_error}")
                 continue
-    ok_sources = sum(1 for _, status, count, _ in source_health if status == 200 and count > 0)
+    ok_sources = sum(1 for _, status, count, bozo in source_health if status == 200 and count > 0 and not bozo)
     empty_sources = sum(1 for _, status, count, _ in source_health if count == 0)
     failed_sources = sum(1 for _, status, count, _ in source_health if status == "ERROR")
-    active_names = [name for name, status, count, _ in source_health if status == 200 and count > 0]
-    print(f"[sources] configured={len(SOURCES)} active={ok_sources} empty={empty_sources} failed={failed_sources}")
+    malformed_sources = sum(1 for _, status, count, bozo in source_health if bozo)
+    active_names = [name for name, status, count, bozo in source_health if status == 200 and count > 0 and not bozo]
+    print(f"[sources] configured={len(SOURCES)} active={ok_sources} empty={empty_sources} malformed={malformed_sources} failed={failed_sources}")
     print("[sources-active] " + ", ".join(active_names))
     for name, status, count, bozo in source_health:
         if status == "ERROR" or count == 0 or bozo:
