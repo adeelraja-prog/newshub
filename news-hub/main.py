@@ -2043,6 +2043,8 @@ def main():
                 story["editorial_priority_band"] = band
                 if band == "P5":
                     print(f"[priority] P5 STALE — excluded: {str(story.get('event') or '')[:90]}")
+                    if story.get("direct_source") and isinstance(story.get("cluster", {}).get("hist"), dict):
+                        story["cluster"]["hist"]["analysed_n"] = story["cluster"].get("n_sources", 0)
                     continue
                 if band == "P4":
                     review_log.append({"id": story.get("id"), "event": story.get("event"),
