@@ -431,8 +431,9 @@ INTERNATIONAL_DESKS = {
 }
 PAKISTAN_TOPIC = re.compile(
     r"\b(pakistan|pakistani|islamabad|rawalpindi|lahore|karachi|peshawar|quetta|"
-    r"punjab|sindh|balochistan|khyber pakhtunkhwa|pti|imran khan|shahbaz sharif|"
-    r"shehbaz sharif|asif zardari)\b|پاکستان|اسلام آباد|راولپنڈی|لاہور|کراچی|پشاور|کوئٹہ",
+    r"sindh|balochistan|khyber pakhtunkhwa|pti|imran khan|shahbaz sharif|"
+    r"shehbaz sharif|asif zardari|maryam nawaz|nawaz sharif|pakistan punjab|punjab assembly|"
+    r"punjab government|punjab cm|azad kashmir|pakistan-administered kashmir|muzaffarabad|gilgit-baltistan)\b|پاکستان|اسلام آباد|راولپنڈی|لاہور|کراچی|پشاور|کوئٹہ",
     re.I,
 )
 
