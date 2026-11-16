@@ -1562,7 +1562,9 @@ def pick_due(queue, t0):
     gap = current_gap(queue)
     for it in due:
         if it["priority"] in ("breaking", "high", "promo"):
-            if it["priority"] != "breaking" and last and t0 - last < timedelta(minutes=BREAKING_GAP_MIN):
+            # Breaking bypasses editorial scoring and the normal queue buffer, not the
+            # global publication cadence: never publish two feed posters inside ten minutes.
+            if last and t0 - last < timedelta(minutes=BREAKING_GAP_MIN):
                 continue
             if it["priority"] == "high" and done >= MAX_PER_DAY + BREAKING_EXTRA:
                 continue
