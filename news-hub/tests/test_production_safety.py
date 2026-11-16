@@ -352,6 +352,12 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(written[2]["headline_used"], "AI story")
         writer.assert_called_once()
 
+    def test_indian_wire_agency_aliases_are_blocked(self):
+        for name in ("Press Trust of India", "Asian News International", "ANI News",
+                     "Indo-Asian News Service", "United News of India"):
+            with self.subTest(name=name):
+                self.assertTrue(newsroom.is_blocked(name, "https://news.google.com/rss/articles/example",
+                                                    "National political development"))
     def test_more_indian_publishers_are_blocked(self):
         for name, url in [
             ("Republic TV", "https://www.republicworld.com/news/example"),
