@@ -73,6 +73,20 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         }]}
         self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
 
+    def test_all_ten_trusted_pakistani_publishers_use_direct_lane(self):
+        publishers = [
+            "Geo News", "ARY News", "Samaa", "Express News", "Dawn",
+            "Jang", "The News International", "Express Tribune",
+            "Dunya News", "Dunya News TV",
+        ]
+        for name in publishers:
+            with self.subTest(publisher=name):
+                cluster = {"members": [{
+                    "source": name, "link": "https://news.google.com/rss/articles/example",
+                    "title": "Publisher reports a new development"
+                }]}
+                self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
+
     def test_bbc_pakistan_story_does_not_use_fast_lane(self):
         cluster = {"members": [{
             "source": "BBC News", "link": "https://news.google.com/rss/articles/example",
