@@ -381,11 +381,16 @@ def collect_new(state):
     for name, status, count, bozo in source_health:
         if status == "ERROR" or count == 0 or bozo:
             print(f"[source-health] {name}: status={status} entries={count} malformed={bozo}")
+    SOURCE_HEALTH[:] = source_health
+    fast_rows = [r for r in source_health if "fast lane" in r[0].lower()]
+    fast_active = sum(1 for _, status, count, _ in fast_rows if status == 200 and count > 0)
+    print(f"[source-health] trusted fast-lane feeds active={fast_active}/{len(fast_rows)}")
     print(f"[info] collected {len(items)} new items from {len(SOURCES)} configured feeds/searches")
     return items, stats
 
 
 BLOCKED_COUNT = [0]
+SOURCE_HEALTH = []
 SOURCE_HEALTH = {}
 
 
@@ -1772,6 +1777,19 @@ def build_report(info):
                 L.append(f"- {s['event']} | imp {s['importance']} | trend {s['trend_score']} ({s['trend_basis']}) | "
                          f"viral~{s['viral_potential']} | conf {s['confidence']} | urgency {s['urgency']}")
             L.append("")
+    if SOURCE_HEALTH:
+        fast_rows = [r for r in SOURCE_HEALTH if "fast lane" in r[0].lower()]
+        fast_active = sum(1 for _, status, count, _ in fast_rows if status == 200 and count > 0)
+        active = sum(1 for _, status, count, _ in SOURCE_HEALTH if status == 200 and count > 0)
+        empty = sum(1 for _, _, count, _ in SOURCE_HEALTH if count == 0)
+        failed = sum(1 for _, status, _, _ in SOURCE_HEALTH if status == "ERROR")
+        malformed = sum(1 for _, _, _, bozo in SOURCE_HEALTH if bozo)
+        L += ["## Source health",
+              f"- Overall feeds with entries: {active}/{len(SOURCE_HEALTH)} | empty: {empty} | failed: {failed} | malformed/partial: {malformed}",
+              f"- Trusted fast-lane feeds with entries: {fast_active}/{len(fast_rows)}"]
+        for name, status, count, bozo in [r for r in SOURCE_HEALTH if r[1] == "ERROR" or r[2] == 0 or r[3]][:15]:
+            L.append(f"- ATTENTION: {name} | HTTP/status={status} | entries={count} | malformed={bozo}")
+        L.append("")
     L.append("## Selected for the queue")
     for it in info["queued_now"]:
         m = it["meta"]
