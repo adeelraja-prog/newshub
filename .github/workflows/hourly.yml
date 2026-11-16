@@ -1,5 +1,7 @@
 name: news-hub
 on:
+  schedule:
+    - cron: "*/10 * * * *"
   workflow_dispatch:
     inputs:
       publish:
