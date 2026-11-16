@@ -332,9 +332,9 @@ def collect_new(state):
                     for tag in tags if isinstance(tag, dict)
                 )
                 explicit_breaking = bool(re.match(
-                    r"^\\s*(?:\\[?breaking\\]?|just in|developing|live\\s*[:—-])(?:\\b|\\s)",
+                    r"^\s*(?:\[?breaking\]?|just in|developing|live\s*[:—-])(?:\b|\s)",
                     title, re.I
-                )) or bool(re.search(r"\\bbreaking news\\b", tag_text, re.I))
+                )) or bool(re.search(r"\bbreaking news\b", tag_text, re.I))
                 if src["kind"] == "gnews":
                     source_obj = e.get("source")
                     st = source_obj.get("title") if isinstance(source_obj, dict) else ""
@@ -888,7 +888,7 @@ def make_direct_publisher_story(cluster):
     # Only an explicit publisher marker triggers immediate breaking treatment.
     # Event words in an otherwise routine/older report must not bypass the queue.
     urgent = bool(lead.get("breaking_label")) or bool(re.match(
-        r"^\\s*(?:\\[?breaking\\]?|just in|developing|live\\s*[:—-])(?:\\b|\\s)",
+        r"^\s*(?:\[?breaking\]?|just in|developing|live\s*[:—-])(?:\b|\s)",
         headline, re.I
     ))
     source_type = "wire" if source_name.lower() in ("reuters", "associated press", "ap") else "published_report"
