@@ -118,6 +118,15 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         }]}
         self.assertFalse(newsroom.is_direct_publisher_cluster(cluster))
 
+    def test_trusted_name_without_original_domain_does_not_skip_fact_check(self):
+        story = {"original_source": {"name": "Dawn", "url": "https://example.com/article"},
+                 "cluster": {"lead": {"source": "Dawn", "link": "https://example.com/article"}}}
+        self.assertFalse(newsroom.is_trusted_publisher_story(story))
+
+    def test_original_trusted_publisher_domain_can_skip_fact_check(self):
+        story = {"original_source": {"name": "Dawn", "url": "https://www.dawn.com/news/example"},
+                 "cluster": {"lead": {"source": "Dawn", "link": "https://www.dawn.com/news/example"}}}
+        self.assertTrue(newsroom.is_trusted_publisher_story(story))
     def test_unverified_google_news_label_cannot_claim_trusted_publisher_identity(self):
         cluster = {"members": [{
             "source": "Geo News Fast Lane", "kind": "gnews", "source_verified": False,
