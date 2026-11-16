@@ -71,8 +71,16 @@ class EditorialQualityTests(unittest.TestCase):
     def test_explainer_accepts_substantive_sourced_points(self):
         ok, _ = q.validate_value_addition({"type":"explainer","points":[
             {"text":"The court suspended the notification after finding that the department had not followed the procedure required by the relevant law.","source":"Dawn","url":"https://dawn.com/a"},
-            {"text":"The order means the earlier arrangement remains in place until the next hearing, when the government must explain its legal position to the court. The dispute therefore remains unresolved until the judges consider that explanation and issue further directions.","source":"Dawn","url":"https://dawn.com/b"}]})
+            {"text":"The order keeps the earlier arrangement in place until the next hearing. The government must explain its legal position, and the judges will then decide whether further directions are needed.","source":"Dawn","url":"https://dawn.com/b"}]})
         self.assertTrue(ok)
+
+    def test_explainer_rejects_text_that_would_clip_on_mobile(self):
+        long_text = " ".join(["The court considered the legal position and issued directions for the next hearing."] * 5)
+        ok, reason = q.validate_value_addition({"type":"explainer","points":[
+            {"text":long_text,"source":"Dawn","url":"https://dawn.com/a"},
+            {"text":"The order keeps the earlier arrangement in place until the next hearing while the government prepares its response for the judges to consider.","source":"Dawn","url":"https://dawn.com/b"}]})
+        self.assertFalse(ok)
+        self.assertIn("mobile-card reading limit", reason)
 
     def test_explainer_rejects_four_overloaded_points(self):
         point={"text":"The court suspended the notification after finding that the department had not followed the procedure required by the relevant law.","source":"Dawn","url":"https://dawn.com/a"}
