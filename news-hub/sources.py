@@ -20,16 +20,16 @@ TRUSTED_PUBLISHERS = {
 SOURCES = [
     # FIRST FETCH BATCH: all ten approved Pakistani publisher desks are submitted
     # together before general discovery feeds. The collector has 12 workers.
-    gnews("site:geo.tv Pakistan", "Geo News Fast Lane"),
-    gnews("site:arynews.tv Pakistan", "ARY News Fast Lane"),
-    gnews("site:samaa.tv Pakistan", "Samaa Fast Lane"),
-    gnews("site:expressnews.tv Pakistan", "Express News Fast Lane"),
-    gnews("site:dawn.com Pakistan", "Dawn Fast Lane"),
-    gnews("site:jang.com.pk Pakistan", "Jang Fast Lane"),
-    gnews("site:thenews.com.pk Pakistan", "The News Fast Lane"),
-    gnews("site:tribune.com.pk Pakistan", "Express Tribune Fast Lane"),
-    gnews("site:dunyanews.tv Pakistan", "Dunya News Fast Lane"),
-    gnews("site:dunyanews.tv Pakistan latest", "Dunya News TV Fast Lane"),
+    gnews("site:geo.tv", "Geo News Fast Lane"),
+    gnews("site:arynews.tv", "ARY News Fast Lane"),
+    gnews("site:samaa.tv", "Samaa Fast Lane"),
+    gnews("site:expressnews.tv", "Express News Fast Lane"),
+    gnews("site:dawn.com", "Dawn Fast Lane"),
+    gnews("site:jang.com.pk", "Jang Fast Lane"),
+    gnews("site:thenews.com.pk", "The News Fast Lane"),
+    gnews("site:tribune.com.pk", "Express Tribune Fast Lane"),
+    gnews("site:dunyanews.tv", "Dunya News Fast Lane"),
+    # Dunya News and Dunya News TV share the same original publisher domain; poll once.
     # kind="local": full article text is fetched for the rewrite
     {"name": "Dawn Pakistan", "kind": "local", "url": "https://www.dawn.com/feeds/pakistan/"},
     {"name": "Dawn Latest", "kind": "local", "url": "https://www.dawn.com/feeds/latest-news/"},
