@@ -41558,7 +41558,474 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "79b5d5858c41512f3259fdf6",
+      "remembered_at": "2026-11-16T23:10:05.749207+00:00",
+      "event_date": "2026-11-16T22:40:07+00:00",
+      "last_update": "2026-11-16T22:40:07+00:00",
+      "event": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allegations",
+        "amid",
+        "banker",
+        "bloomberg",
+        "claims",
+        "contractors",
+        "defence",
+        "defends",
+        "deputy",
+        "encouraged",
+        "feinberg",
+        "goldman",
+        "linking",
+        "pentagon",
+        "rejects",
+        "sachs",
+        "specific",
+        "steve",
+        "use"
+      ],
+      "source_excerpt": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+          "published_at": "2026-11-16T22:40:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6945dbcd276cb5c1af240073",
+      "remembered_at": "2026-11-16T23:10:05.749207+00:00",
+      "event_date": "2026-11-16T22:47:19+00:00",
+      "last_update": "2026-11-16T22:47:19+00:00",
+      "event": "Woman who got hooked on nasal spray for 10 years says it cost her thousands",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cost",
+        "decongestant",
+        "dependence",
+        "feeling",
+        "for",
+        "got",
+        "gough",
+        "her",
+        "hooked",
+        "left",
+        "like",
+        "louise",
+        "nasal",
+        "prisoner",
+        "says",
+        "spray",
+        "sprays",
+        "thousands",
+        "who",
+        "woman",
+        "years"
+      ],
+      "source_excerpt": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cj93ry10rl11o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T22:47:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cj93ry10rl11o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cj93ry10rl11o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8c3984f202c68a23b7a9bc4a",
+      "remembered_at": "2026-11-16T23:10:05.749207+00:00",
+      "event_date": "2026-11-16T22:35:41+00:00",
+      "last_update": "2026-11-16T22:35:41+00:00",
+      "event": "Ronaldo cloud still hangs over Portugal coach Jesus",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cloud",
+        "coach",
+        "dawn",
+        "hangs",
+        "jesus",
+        "over",
+        "portugal",
+        "ronaldo",
+        "still"
+      ],
+      "source_excerpt": "Ronaldo cloud still hangs over Portugal coach Jesus Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzFtcEVwdTBveGNma1hrWEJXYTVrMHpXTG05WFA2d1FMOUt3emNuR0xqVUR3YVRWQnluTi01VnlRVHJULTc1enI0V1U5Q0FIbWFxUGRUTW1uVnZubzk4VXJJN19xU2JtRlYzRERzRlNXTlhJUldITEdkUUpTd21jaGg1TkRHREtKZnhxXzB3?oc=5",
+          "published_at": "2026-11-16T22:35:41+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2044978/ronaldo-cloud-still-hangs-over-portugal-coach-jesus",
+          "published_at": "2026-11-16T22:35:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzFtcEVwdTBveGNma1hrWEJXYTVrMHpXTG05WFA2d1FMOUt3emNuR0xqVUR3YVRWQnluTi01VnlRVHJULTc1enI0V1U5Q0FIbWFxUGRUTW1uVnZubzk4VXJJN19xU2JtRlYzRERzRlNXTlhJUldITEdkUUpTd21jaGg1TkRHREtKZnhxXzB3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ad880cf6d88831915d8f38b",
+      "remembered_at": "2026-11-16T23:10:05.749207+00:00",
+      "event_date": "2026-11-16T22:56:09+00:00",
+      "last_update": "2026-11-16T22:56:09+00:00",
+      "event": "Alcaraz sweeps aside Tiafoe in ATP Finals demonstration of force",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alcaraz",
+        "aside",
+        "atp",
+        "dawn",
+        "demonstration",
+        "finals",
+        "force",
+        "sweeps",
+        "tiafoe"
+      ],
+      "source_excerpt": "Alcaraz sweeps aside Tiafoe in ATP Finals demonstration of force Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeFZ2SlFnaFI1eXh2aTVhdkZaQ1pIdnpBRUhjalBBTzBReE1kTzA4MkJab2pqYzV4cl8walNJVF80alVURmFvRXR5TzFUTmNqTnhteVpMX29TUXF2ZkVoWUJlSUxOX1JwckJxTHVacEV3Y0JPNnhmdi1xZHhFV1pjTDJYTnVxRmRlTUt0OUx3STc4MGhkR01oOHl2dlA4bG8?oc=5",
+          "published_at": "2026-11-16T22:56:09+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2044979/alcaraz-sweeps-aside-tiafoe-in-atp-finals-demonstration-of-force",
+          "published_at": "2026-11-16T22:56:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeFZ2SlFnaFI1eXh2aTVhdkZaQ1pIdnpBRUhjalBBTzBReE1kTzA4MkJab2pqYzV4cl8walNJVF80alVURmFvRXR5TzFUTmNqTnhteVpMX29TUXF2ZkVoWUJlSUxOX1JwckJxTHVacEV3Y0JPNnhmdi1xZHhFV1pjTDJYTnVxRmRlTUt0OUx3STc4MGhkR01oOHl2dlA4bG8?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9bc1b6987956e7c0ef28a8fc",
+      "remembered_at": "2026-11-16T23:10:05.749207+00:00",
+      "event_date": "2026-11-16T21:20:57+00:00",
+      "last_update": "2026-11-16T21:20:57+00:00",
+      "event": "SBP warns of premature deindustrialisation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "deindustrialisation",
+        "express",
+        "premature",
+        "sbp",
+        "the",
+        "tribune",
+        "warns"
+      ],
+      "source_excerpt": "SBP warns of premature deindustrialisation The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZnhXM0cyQ2VtWWJBcUNmTHBSUWNjc3lJR2ZBVWVzRmlGRHUxZ0hTZ1JiMlBfNEdxZHAycUNNcGlwRmRaUWx5cm9tcWZQeGlST0hPcnR4T3JQRkFUVm44dXY4OUtaZmxTOGVnYnhtTGxPd3RpUVVUQzk0X2dSc0pPZVd6RTdoQdIBjgFBVV95cUxOZ2c2SW1uM1Q5VUpKY0x6eFNQSGlMaVlaV0N2YmpwSUxhSmlGUTE0UGVjZFZ6cVpPd1ZKMGxBWlNRTDlvaGJ3TjdOQWpsNHFjTWY1SFpRT2VvMm5VQ2diQWtsdWg5MzhLT1NwUW1VMnQya1RTX1VVemZ5MkZXbTFoNE0xNnNsQ1pQMXNTcWxB?oc=5",
+          "published_at": "2026-11-16T21:20:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZnhXM0cyQ2VtWWJBcUNmTHBSUWNjc3lJR2ZBVWVzRmlGRHUxZ0hTZ1JiMlBfNEdxZHAycUNNcGlwRmRaUWx5cm9tcWZQeGlST0hPcnR4T3JQRkFUVm44dXY4OUtaZmxTOGVnYnhtTGxPd3RpUVVUQzk0X2dSc0pPZVd6RTdoQdIBjgFBVV95cUxOZ2c2SW1uM1Q5VUpKY0x6eFNQSGlMaVlaV0N2YmpwSUxhSmlGUTE0UGVjZFZ6cVpPd1ZKMGxBWlNRTDlvaGJ3TjdOQWpsNHFjTWY1SFpRT2VvMm5VQ2diQWtsdWg5MzhLT1NwUW1VMnQya1RTX1VVemZ5MkZXbTFoNE0xNnNsQ1pQMXNTcWxB?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f9bce2380a0e39e69595f0bd",
+      "remembered_at": "2026-11-16T23:10:05.749207+00:00",
+      "event_date": "2026-11-16T22:02:00+00:00",
+      "last_update": "2026-11-16T22:02:00+00:00",
+      "event": "Prince William and Kate's post sparks wave of support for Argentine Earthshot finalist",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "argentine",
+        "boost",
+        "earthshot",
+        "entrepreneur",
+        "environmental",
+        "finalist",
+        "followers",
+        "for",
+        "franco",
+        "from",
+        "given",
+        "have",
+        "kate",
+        "major",
+        "message",
+        "most",
+        "one",
+        "post",
+        "powerful",
+        "prince",
+        "princess",
+        "prize",
+        "rodriguez",
+        "shared",
+        "sparks",
+        "support",
+        "tackling",
+        "the",
+        "their",
+        "they",
+        "threats",
+        "urgent",
+        "viau",
+        "wave",
+        "william",
+        "with",
+        "world"
+      ],
+      "source_excerpt": "Prince William and Princess Kate have given a major boost to an Earthshot Prize finalist tackling one of the world’s most urgent environmental threats. They shared a powerful message from Argentine entrepreneur Franco Rodriguez Viau with their followers. The Prince and...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691374-prince-william-and-kates-post-sparks-wave-of-support-for-argentine-earthshot-finalist",
+          "published_at": "2026-11-16T22:02:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691374-prince-william-and-kates-post-sparks-wave-of-support-for-argentine-earthshot-finalist",
+        "publisher_url": "https://www.geo.tv/latest/691374-prince-william-and-kates-post-sparks-wave-of-support-for-argentine-earthshot-finalist",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "138b7f0d65ae71f8d80a3ec1",
+      "remembered_at": "2026-11-16T23:10:05.749207+00:00",
+      "event_date": "2026-11-16T21:11:48+00:00",
+      "last_update": "2026-11-16T21:11:48+00:00",
+      "event": "بلاول بھٹو کو وزیراعظم بنتا دیکھ رہی ہوں، فریال تالپور",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "بلاول",
+        "بنتا",
+        "بھٹو",
+        "تالپور",
+        "دیکھ",
+        "رہنما",
+        "رہی",
+        "صحافیوں",
+        "فائل",
+        "فریال",
+        "فوٹوپاکستان",
+        "میں",
+        "وزیراعظم",
+        "پیپلزپارٹی",
+        "کہا",
+        "گفتگو",
+        "ہوں،",
+        "ہوں۔لاہور"
+      ],
+      "source_excerpt": "فائل فوٹوپاکستان پیپلزپارٹی کی رہنما فریال تالپور نے کہا ہے کہ بلاول بھٹو کو وزیراعظم بنتا دیکھ رہی ہوں۔لاہور میں صحافیوں سے گفتگو...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1634016",
+          "published_at": "2026-11-16T21:11:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1634016",
+        "publisher_url": "https://jang.com.pk/news/1634016",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9d2c9b0d4751350f3e67f848",
+      "remembered_at": "2026-11-16T23:10:05.749207+00:00",
+      "event_date": "2026-11-16T21:33:45+00:00",
+      "last_update": "2026-11-16T21:33:45+00:00",
+      "event": "46% blame taxes for rising petrol prices",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blame",
+        "express",
+        "for",
+        "petrol",
+        "prices",
+        "rising",
+        "taxes",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "46% blame taxes for rising petrol prices The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXIyTHlaVUVGYlhULVZLa0NFdk43Nndnc01LeXFqa0s2M2VyU3VQcEFfT0RyaGg2Q3FvdzBRSUd0d01EOXJUelppSWZNUDN0VWdhUXlIYkMtX0VqZFpMX0JsVXpJTUZOTHhkQnpfYXZaWUIwS1huUXNNdWcwZW1zWVBn0gGKAUFVX3lxTFAwQzBwVkROU09ONTlMTDZtVUdrV0c0Rko4OUxFVHFaVkdmdDJKUm5IdlNGTkZKbU1VZWhfbVNWTkF2VGZRZ3VJNGRhcW9QdGc5andXQVJUMzdRYzhsYjBqS3B0dFp3UXVxTnd6NmFmeFRYLUpoUHhUNnVGYW5RMDJnd1I0QjhmTjhQdw?oc=5",
+          "published_at": "2026-11-16T21:33:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXIyTHlaVUVGYlhULVZLa0NFdk43Nndnc01LeXFqa0s2M2VyU3VQcEFfT0RyaGg2Q3FvdzBRSUd0d01EOXJUelppSWZNUDN0VWdhUXlIYkMtX0VqZFpMX0JsVXpJTUZOTHhkQnpfYXZaWUIwS1huUXNNdWcwZW1zWVBn0gGKAUFVX3lxTFAwQzBwVkROU09ONTlMTDZtVUdrV0c0Rko4OUxFVHFaVkdmdDJKUm5IdlNGTkZKbU1VZWhfbVNWTkF2VGZRZ3VJNGRhcW9QdGc5andXQVJUMzdRYzhsYjBqS3B0dFp3UXVxTnd6NmFmeFRYLUpoUHhUNnVGYW5RMDJnd1I0QjhmTjhQdw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c51272deb6513d6016ec3e8b",
+      "remembered_at": "2026-11-16T23:10:05.749207+00:00",
+      "event_date": "2026-11-16T21:10:00+00:00",
+      "last_update": "2026-11-16T21:10:00+00:00",
+      "event": "Michael J. Fox's Wife Tracy Pollan reveals favourite activity together",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activity",
+        "actress",
+        "and",
+        "down",
+        "enjoy",
+        "favourite",
+        "fox",
+        "good",
+        "has",
+        "her",
+        "husband",
+        "meal",
+        "michael",
+        "most",
+        "people",
+        "pollan",
+        "revealed",
+        "reveals",
+        "she",
+        "simple",
+        "sitting",
+        "something",
+        "spoke",
+        "that",
+        "the",
+        "thing",
+        "together",
+        "tracy",
+        "very",
+        "wife"
+      ],
+      "source_excerpt": "Michael J. Fox's Wife Tracy Pollan reveals favourite activity together Tracy Pollan has revealed that the thing she and her husband Michael J. Fox enjoy most together is something very simple: sitting down to a good meal. The actress spoke to PEOPLE at the Michael J. Fox...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691382-michael-j-foxs-wife-tracy-pollan-reveals-favourite-activity-together",
+          "published_at": "2026-11-16T21:10:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691382-michael-j-foxs-wife-tracy-pollan-reveals-favourite-activity-together",
+        "publisher_url": "https://www.geo.tv/latest/691382-michael-j-foxs-wife-tracy-pollan-reveals-favourite-activity-together",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-16T22:20:37.555556+00:00"
+  "updated_at": "2026-11-16T23:10:05.749207+00:00"
 }

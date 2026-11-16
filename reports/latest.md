@@ -1,129 +1,130 @@
-# News Hub report - Tue 17 Nov, 03:20 AM PKT
+# News Hub report - Tue 17 Nov, 04:10 AM PKT
 
 ## Collection
-- New items this run: 19 | items in rolling pool: 575
-- Unique story clusters: 478 (duplicates merged: 97)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 9
-- Items per outlet: The Express Tribune 2, TechCrunch 2, Geo News 1, Jang Urdu 1, Al Jazeera 1, The Media Line 1, The Guardian 1, The New York Times 1, The Verge 1, Engadget 1, Ars Technica 1, Wired 1
+- New items this run: 14 | items in rolling pool: 469
+- Unique story clusters: 387 (duplicates merged: 82)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 7
+- Items per outlet: Dawn 2, Dawn Latest 2, Engadget 2, Geo News 1, Al Jazeera 1, The Verge 1, Ars Technica 1, BBC Health 1, WSJ 1, 香港電台 1, UNITED24 Media 1, Geo News Fast Lane 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Mamdani to disband NYPD unit deployed at Columbia protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sudanese army air attack kills 13 in western Sudan: Rights group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Manchester United’s Endless Loop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Photos: California residents gather to watch massive El Nino-fuelled waves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- London Palestine Film Festival returns for 27th year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- California files lawsuit against OpenAI alleging lack of proper safeguards | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cass report author says she does not support draft conversion practices bill | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Houthi rebel advance in Yemen may further destabilise global economy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Pentagon rejects allegations linking deputy to a Goldman Sachs banker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman who got hooked on nasal spray for 10 years says it cost her thousands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Mamdani to disband NYPD unit deployed at Columbia protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sudanese army air attack kills 13 in western Sudan: Rights group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Manchester United’s Endless Loop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Photos: California residents gather to watch massive El Nino-fuelled waves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- London Palestine Film Festival returns for 27th year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- California files lawsuit against OpenAI alleging lack of proper safeguards | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cass report author says she does not support draft conversion practices bill | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Houthi rebel advance in Yemen may further destabilise global economy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Pentagon rejects allegations linking deputy to a Goldman Sachs banker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman who got hooked on nasal spray for 10 years says it cost her thousands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Mamdani to disband NYPD unit deployed at Columbia protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sudanese army air attack kills 13 in western Sudan: Rights group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Manchester United’s Endless Loop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Photos: California residents gather to watch massive El Nino-fuelled waves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- London Palestine Film Festival returns for 27th year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- California files lawsuit against OpenAI alleging lack of proper safeguards | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cass report author says she does not support draft conversion practices bill | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Houthi rebel advance in Yemen may further destabilise global economy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Pentagon rejects allegations linking deputy to a Goldman Sachs banker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman who got hooked on nasal spray for 10 years says it cost her thousands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 85/107 | empty: 3 | failed: 19 | malformed/partial: 19
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 76/107 | empty: 2 | failed: 29 | malformed/partial: 29
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Hum News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Pakistan National Politics | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: AJK Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Express News
 
 ## Selected for the queue
-### Mamdani to disband NYPD unit deployed at Columbia protests  [NORMAL]
-- Poster:  / Mamdani to disband NYPD unit deployed at Columbia protests | category other
-- Alternative headline: Mamdani to disband NYPD unit deployed at Columbia protests
+### California files lawsuit against OpenAI alleging lack of proper safeguards  [NORMAL]
+- Poster:  / California files lawsuit against OpenAI alleging lack of proper safeguards | category other
+- Alternative headline: California files lawsuit against OpenAI alleging lack of proper safeguards
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Mamdani to disband NYPD unit | hashtags: 
-- Scheduled: Tue 17 Nov, 03:20 AM PKT
+- Keywords: California files lawsuit against OpenAI | hashtags: 
+- Scheduled: Tue 17 Nov, 04:10 AM PKT
 - Caption:
 ```
-Mamdani to disband NYPD unit deployed at Columbia protests
+California files lawsuit against OpenAI alleging lack of proper safeguards
 
-New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.
+Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.
 
 Source: Al Jazeera
 ```
 
-### Sudanese army air attack kills 13 in western Sudan: Rights group  [NORMAL]
-- Poster:  / Sudanese army air attack kills 13 in western Sudan: Rights group | category other
-- Alternative headline: Sudanese army air attack kills 13 in western Sudan: Rights group
+### Cass report author says she does not support draft conversion practices bill  [NORMAL]
+- Poster:  / Cass report author says she does not support draft conversion practices bill | category other
+- Alternative headline: Cass report author says she does not support draft conversion practices bill
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Sudanese army air attack kills | hashtags: 
-- Scheduled: Tue 17 Nov, 03:30 AM PKT
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: Cass report author says she | hashtags: 
+- Scheduled: Tue 17 Nov, 04:20 AM PKT
 - Caption:
 ```
-Sudanese army air attack kills 13 in western Sudan: Rights group
+Cass report author says she does not support draft conversion practices bill
 
-'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.
+The gender care review author says the bill’s wording risks "serious unintended consequences" for parents and therapists.
 
-Source: Al Jazeera
+Source: BBC Health
 ```
 
-### Manchester United’s Endless Loop  [NORMAL]
-- Poster:  / Manchester United’s Endless Loop | category other
-- Alternative headline: Manchester United’s Endless Loop
+### Houthi rebel advance in Yemen may further destabilise global economy  [NORMAL]
+- Poster:  / Houthi rebel advance in Yemen may further destabilise global economy | category other
+- Alternative headline: Houthi rebel advance in Yemen may further destabilise global economy
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Manchester United’s Endless Loop | hashtags: 
-- Scheduled: Tue 17 Nov, 03:40 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Houthi rebel advance in Yemen | hashtags: 
+- Scheduled: Tue 17 Nov, 04:30 AM PKT
 - Caption:
 ```
-Manchester United’s Endless Loop
+Houthi rebel advance in Yemen may further destabilise global economy
 
-Thirteen years, eight permanent managers, almost £100 million spent on sacking and hiring — and still no hiring
+The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.
 
-Source: Al Jazeera
+Source: BBC World
 ```
 
-### Photos: California residents gather to watch massive El Nino-fuelled waves  [NORMAL]
-- Poster:  / Photos: California residents gather to watch massive El Nino-fuelled waves | category other
-- Alternative headline: Photos: California residents gather to watch massive El Nino-fuelled waves
+### US Pentagon rejects allegations linking deputy to a Goldman Sachs banker  [NORMAL]
+- Poster:  / US Pentagon rejects allegations linking deputy to a Goldman Sachs banker | category other
+- Alternative headline: US Pentagon rejects allegations linking deputy to a Goldman Sachs banker
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Photos: California residents gather to | hashtags: 
-- Scheduled: Tue 17 Nov, 03:50 AM PKT
+- Keywords: US Pentagon rejects allegations linking | hashtags: 
+- Scheduled: Tue 17 Nov, 04:40 AM PKT
 - Caption:
 ```
-Photos: California residents gather to watch massive El Nino-fuelled waves
+US Pentagon rejects allegations linking deputy to a Goldman Sachs banker
 
-National Weather Service warns that waves of more than 10 metres high could impact some parts of US's California coast.
+Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.
 
 Source: Al Jazeera
 ```
@@ -131,7 +132,7 @@ Source: Al Jazeera
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -219,7 +220,7 @@ Source: Al Jazeera
 - [published] normal | Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | Mon 16 Nov, 09:10 PM PKT
 - [needs_review] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
 - [published] normal | Klopp says Infantino worse than Blatter | Mon 16 Nov, 09:30 PM PKT
-- [queued] normal | SBP projects 3.5-4.5% GDP growth for FY27 | Mon 16 Nov, 10:14 PM PKT
+- [published] normal | SBP projects 3.5-4.5% GDP growth for FY27 | Mon 16 Nov, 10:14 PM PKT
 - [queued] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
 - [queued] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
 - [queued] normal | Third US aircraft carrier arrives in Middle East amid tensions with Ir | Mon 16 Nov, 10:44 PM PKT
@@ -243,9 +244,13 @@ Source: Al Jazeera
 - [queued] normal | Sudanese army air attack kills 13 in western Sudan: Rights group | Tue 17 Nov, 03:30 AM PKT
 - [queued] normal | Manchester United’s Endless Loop | Tue 17 Nov, 03:40 AM PKT
 - [queued] normal | Photos: California residents gather to watch massive El Nino-fuelled w | Tue 17 Nov, 03:50 AM PKT
+- [queued] normal | California files lawsuit against OpenAI alleging lack of proper safegu | Tue 17 Nov, 04:10 AM PKT
+- [queued] normal | Cass report author says she does not support draft conversion practice | Tue 17 Nov, 04:20 AM PKT
+- [queued] normal | Houthi rebel advance in Yemen may further destabilise global economy | Tue 17 Nov, 04:30 AM PKT
+- [queued] normal | US Pentagon rejects allegations linking deputy to a Goldman Sachs bank | Tue 17 Nov, 04:40 AM PKT
 
 ## Publishing this run
-- Published 'Klopp says Infantino worse than Blatter'.
+- Published 'SBP projects 3.5-4.5% GDP growth for FY27'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
