@@ -1482,9 +1482,10 @@ def post_facebook(path, text):
     if r.status_code != 200:
         raise requests.HTTPError(f"Facebook Graph API {r.status_code}: {r.text[:300]}", response=r)
     payload = r.json()
-    post_id = payload.get("post_id") or payload.get("id")
+    # The photo object id is not proof of a published feed post. Require post_id.
+    post_id = payload.get("post_id")
     if not post_id:
-        raise RuntimeError(f"Facebook accepted an upload response without a usable post id: {str(payload)[:300]}")
+        raise RuntimeError(f"Facebook response did not confirm a published feed post_id: {str(payload)[:300]}")
     print("[facebook] feed photo posted", post_id)
     return post_id
 
@@ -1512,7 +1513,7 @@ def post_facebook_photo_story(path):
         raise RuntimeError(f"Facebook Story publish {story.status_code}: {story.text[:300]}")
     story_id = story.json().get("post_id")
     print("[facebook-story] photo Story published", story_id or "")
-    return story_id or True
+    return story_id
 
 
 def make_poster(item, tag):
