@@ -371,32 +371,11 @@ def collect_new(state):
     failed_sources = sum(1 for _, status, count, _ in source_health if status == "ERROR")
     malformed_sources = sum(1 for _, status, count, bozo in source_health if bozo)
     active_names = [name for name, status, count, bozo in source_health if status == 200 and count > 0 and not bozo]
-    fast_lane_groups = {
-        "Geo News": ("Geo News Fast Lane", "Geo News"),
-        "ARY News": ("ARY News Fast Lane", "ARY News"),
-        "Samaa": ("Samaa Fast Lane", "Samaa TV Search", "Samaa TV"),
-        "Express News": ("Express News Fast Lane", "Express News TV Search", "Express News TV"),
-        "Dawn": ("Dawn Fast Lane", "Dawn Pakistan", "Dawn Latest"),
-        "Jang": ("Jang Fast Lane", "Jang Urdu"),
-        "The News International": ("The News Fast Lane", "The News International"),
-        "Express Tribune": ("Express Tribune Fast Lane", "Express Tribune"),
-        "Dunya News": ("Dunya News Fast Lane", "Dunya News"),
-        "Dunya News TV": ("Dunya News TV Fast Lane", "Dunya News"),
-    }
-    healthy_names = set(active_names)
-    fast_lane_active = sum(1 for names in fast_lane_groups.values() if healthy_names.intersection(names))
-    fast_lane_unavailable = [publisher for publisher, names in fast_lane_groups.items()
-                             if not healthy_names.intersection(names)]
-    SOURCE_HEALTH.clear()
-    SOURCE_HEALTH.update({
-        "configured": len(SOURCES), "active": ok_sources, "empty": empty_sources,
-        "malformed": malformed_sources, "failed": failed_sources, "active_names": active_names,
-        "fast_lane_total": len(fast_lane_groups), "fast_lane_active": fast_lane_active,
-        "fast_lane_unavailable": fast_lane_unavailable,
-    })
+    SOURCE_HEALTH[:] = source_health
+    fast_rows = [row for row in source_health if "fast lane" in row[0].lower()]
+    fast_active = sum(1 for _, status, count, bozo in fast_rows if status == 200 and count > 0 and not bozo)
     print(f"[sources] configured={len(SOURCES)} active={ok_sources} empty={empty_sources} malformed={malformed_sources} failed={failed_sources}")
-    print(f"[sources-fast-lane] active={SOURCE_HEALTH['fast_lane_active']}/{SOURCE_HEALTH['fast_lane_total']} "
-          f"unavailable={', '.join(SOURCE_HEALTH['fast_lane_unavailable']) or 'none'}")
+    print(f"[sources-fast-lane] active={fast_active}/{len(fast_rows)}")
     print("[sources-active] " + ", ".join(active_names))
     for name, status, count, bozo in source_health:
         if status == "ERROR" or count == 0 or bozo:
@@ -411,7 +390,6 @@ def collect_new(state):
 
 BLOCKED_COUNT = [0]
 SOURCE_HEALTH = []
-SOURCE_HEALTH = {}
 
 
 def has_devanagari(text):
@@ -1785,16 +1763,6 @@ def build_report(info):
           f"- Clusters dropped as already published/queued: {info['dups']}; unchanged since last analysis: {info['unchanged']}",
           f"- Items per outlet: " + ", ".join(f"{k} {v}" for k, v in sorted(info['stats'].items(), key=lambda x: -x[1])[:12]),
           f"- Trend data: {info['trends_basis']} ({info['n_trends']} trending queries); discovery signals only, never verification", ""]
-    health = SOURCE_HEALTH
-    if health:
-        L += ["## Source health",
-              f"- Configured feeds/searches: {health.get('configured', 0)} | active: {health.get('active', 0)} | "
-              f"empty: {health.get('empty', 0)} | malformed: {health.get('malformed', 0)} | failed: {health.get('failed', 0)}",
-              f"- Trusted Pakistani publisher lanes active: {health.get('fast_lane_active', 0)}/"
-              f"{health.get('fast_lane_total', 0)}"]
-        if health.get("fast_lane_unavailable"):
-            L.append("- Trusted publisher searches unavailable/empty: " + ", ".join(health["fast_lane_unavailable"]))
-        L.append("")
     if info.get("lists"):
         for key, title in (("important", "Top 5 most important"), ("trending", "Top 5 most trending (measured signals)"),
                            ("viral", "Top 5 most viral (editorial estimate, not measured)")):
