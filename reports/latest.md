@@ -1,32 +1,32 @@
-# News Hub report - Mon 16 Nov, 10:31 AM PKT
+# News Hub report - Mon 16 Nov, 12:19 PM PKT
 
 ## Collection
-- New items this run: 26 | items in rolling pool: 423
-- Unique story clusters: 371 (duplicates merged: 52)
-- Clusters dropped as already published/queued: 12; unchanged since last analysis: 93
-- Items per outlet: ARY News 7, Al Jazeera 5, Geo News 4, TechJuice 3, PhoneWorld 3, BBC World 2, Engadget 1, ProPakistani 1, Geo News Fast Lane 0, ARY News Fast Lane 0, Samaa Fast Lane 0, Express News Fast Lane 0
+- New items this run: 118 | items in rolling pool: 504
+- Unique story clusters: 457 (duplicates merged: 47)
+- Clusters dropped as already published/queued: 15; unchanged since last analysis: 85
+- Items per outlet: UrduPoint 70, ARY News 9, Geo News 8, ProPakistani 8, TechJuice 7, Al Jazeera 3, BBC Science 3, The Current 3, BBC Health 2, BBC Business 2, The Nation 1, TechCrunch 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Indonesian president apologises to Singapore, Malaysia for wildfire haze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pope Leo flies to mass in the Papacoptero | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shophouse fire kills at least 11 in Phuket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- England topple Spain as Belgium smash Italy to reach Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How Russia is preparing Iran for the next escalation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US and rivals spar over next UN boss as race lurches towards deadline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- I had to explain to my teacher what a young carer was - we need more support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It felt like I was dying': Why some teenagers don't go to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Indonesian president apologises to Singapore, Malaysia for wildfire haze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pope Leo flies to mass in the Papacoptero | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shophouse fire kills at least 11 in Phuket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- England topple Spain as Belgium smash Italy to reach Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How Russia is preparing Iran for the next escalation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US and rivals spar over next UN boss as race lurches towards deadline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- I had to explain to my teacher what a young carer was - we need more support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It felt like I was dying': Why some teenagers don't go to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Indonesian president apologises to Singapore, Malaysia for wildfire haze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pope Leo flies to mass in the Papacoptero | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shophouse fire kills at least 11 in Phuket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- England topple Spain as Belgium smash Italy to reach Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How Russia is preparing Iran for the next escalation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US and rivals spar over next UN boss as race lurches towards deadline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- I had to explain to my teacher what a young carer was - we need more support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It felt like I was dying': Why some teenagers don't go to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 25/107 | empty: 0 | failed: 82 | malformed/partial: 82
@@ -49,90 +49,90 @@
 - Trusted publisher desks with no healthy source: Samaa, Express News, Dawn, The News International, Dunya News, Dunya News TV
 
 ## Selected for the queue
-### Indonesian president apologises to Singapore, Malaysia for wildfire haze  [NORMAL]
-- Poster:  / Indonesian president apologises to Singapore, Malaysia for wildfire haze | category other
-- Alternative headline: Indonesian president apologises to Singapore, Malaysia for wildfire haze
+### England topple Spain as Belgium smash Italy to reach Nations League quarters  [NORMAL]
+- Poster:  / England topple Spain as Belgium smash Italy to reach Nations League quarters | category other
+- Alternative headline: England topple Spain as Belgium smash Italy to reach Nations League quarters
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss
-- Supporting coverage: Dawn, Al Jazeera, ARY News
-- Keywords: Indonesian president apologises to Singapore, | hashtags: 
-- Scheduled: Mon 16 Nov, 10:31 AM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2044807/england-topple-spain-as-belgium-smash-italy-to-reach-nations-league-quarters | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2044807/england-topple-spain-as-belgium-smash-italy-to-reach-nations-league-quarters
+- Supporting coverage: Dawn Latest, Dawn, The Daily Star, ARY News
+- Keywords: England topple Spain as Belgium | hashtags: 
+- Scheduled: Mon 16 Nov, 12:19 PM PKT
 - Caption:
 ```
-Indonesian president apologises to Singapore, Malaysia for wildfire haze
+England topple Spain as Belgium smash Italy to reach Nations League quarters
 
-Prabowo says his government has a 'zero-tolerance policy' for firms that contribute to blazes and pledges strict action.
+England ended Spain’s unbeaten run in competitive matches at 44 on Sunday, beating the world champions 3-2 on their own patch, while Belgium thumped Italy 4-1 to join France in the Nations League quarter-finals. Thomas Tuchel’s team won Group A3, level on 15 points with Spain, after the hugely impre
 
-Source: Al Jazeera
+Source: Dawn Latest
 ```
 
-### Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’  [NORMAL]
-- Poster:  / Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’ | category other
-- Alternative headline: Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’
+### How Russia is preparing Iran for the next escalation  [NORMAL]
+- Poster:  / How Russia is preparing Iran for the next escalation | category other
+- Alternative headline: How Russia is preparing Iran for the next escalation
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Iraqi armed group denies involvement | hashtags: 
-- Scheduled: Mon 16 Nov, 10:41 AM PKT
+- Keywords: How Russia is preparing Iran | hashtags: 
+- Scheduled: Mon 16 Nov, 12:29 PM PKT
 - Caption:
 ```
-Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’
+How Russia is preparing Iran for the next escalation
 
-Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.
+Russian space intelligence sharing can help Tehran get ready for an imminent US assault.
 
 Source: Al Jazeera
 ```
 
-### Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025  [NORMAL]
-- Poster:  / Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025 | category other
-- Alternative headline: Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025
+### US and rivals spar over next UN boss as race lurches towards deadline  [NORMAL]
+- Poster:  / US and rivals spar over next UN boss as race lurches towards deadline | category other
+- Alternative headline: US and rivals spar over next UN boss as race lurches towards deadline
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Megaspeed, firm at centre of | hashtags: 
-- Scheduled: Mon 16 Nov, 10:51 AM PKT
+- Keywords: US and rivals spar over | hashtags: 
+- Scheduled: Mon 16 Nov, 12:39 PM PKT
 - Caption:
 ```
-Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025
+US and rivals spar over next UN boss as race lurches towards deadline
 
-Chinese tech executive romantically linked to ex-Nvidia CEO Jensen Huang left in August 2025, Singapore-based firm says.
+Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.
 
 Source: Al Jazeera
 ```
 
-### Pope Leo flies to mass in the Papacoptero  [NORMAL]
-- Poster:  / Pope Leo flies to mass in the Papacoptero | category other
-- Alternative headline: Pope Leo flies to mass in the Papacoptero
+### I had to explain to my teacher what a young carer was - we need more support  [NORMAL]
+- Poster:  / I had to explain to my teacher what a young carer was - we need more support | category other
+- Alternative headline: I had to explain to my teacher what a young carer was - we need more support
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Pope Leo flies to mass | hashtags: 
-- Scheduled: Mon 16 Nov, 11:01 AM PKT
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: I had to explain to | hashtags: 
+- Scheduled: Mon 16 Nov, 12:49 PM PKT
 - Caption:
 ```
-Pope Leo flies to mass in the Papacoptero
+I had to explain to my teacher what a young carer was - we need more support
 
-Pope Leo was filmed flying in the cockpit of an army helicopter to celebrate mass
+Neraya says young carers such as herself want the chance of "a childhood of our own".
 
-Source: Al Jazeera
+Source: BBC Health
 ```
 
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 8
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 12
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -186,7 +186,7 @@ Source: Al Jazeera
 - [published] breaking | KP Governor Bans All Gold Mining, Cancels Leases Over Terrorism Fundin | Sun 15 Nov, 11:14 AM PKT
 - [published] breaking | Iran Warns Of Preemptive Strikes Amid Escalating US Military Tensions | Mon 16 Nov, 07:33 AM PKT
 - [published] high | Punjab Water Demand Exceeds Supply As Groundwater Depletes Rapidly | Mon 16 Nov, 07:33 AM PKT
-- [queued] high | Vulcan Rocket Fails During Launch, Dealing Blow To SpaceX Competitors | Mon 16 Nov, 07:33 AM PKT
+- [published] high | Vulcan Rocket Fails During Launch, Dealing Blow To SpaceX Competitors | Mon 16 Nov, 07:33 AM PKT
 - [needs_review] high | Pakistan Proposes Virtual Green University And Youth Fund At COP31 | Mon 16 Nov, 07:33 AM PKT
 - [published] high | Punjab to establish province's first AI-powered climate observatory | Mon 16 Nov, 07:48 AM PKT
 - [published] high | CDA finalises revised PC-I for Islamabad cricket stadium at Rs16.7bn | Mon 16 Nov, 07:48 AM PKT
@@ -200,9 +200,13 @@ Source: Al Jazeera
 - [queued] normal | Iraqi armed group denies involvement in oil smuggling, calls probe a ‘ | Mon 16 Nov, 10:41 AM PKT
 - [queued] normal | Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in  | Mon 16 Nov, 10:51 AM PKT
 - [queued] normal | Pope Leo flies to mass in the Papacoptero | Mon 16 Nov, 11:01 AM PKT
+- [queued] normal | England topple Spain as Belgium smash Italy to reach Nations League qu | Mon 16 Nov, 12:19 PM PKT
+- [queued] normal | How Russia is preparing Iran for the next escalation | Mon 16 Nov, 12:29 PM PKT
+- [queued] normal | US and rivals spar over next UN boss as race lurches towards deadline | Mon 16 Nov, 12:39 PM PKT
+- [queued] normal | I had to explain to my teacher what a young carer was - we need more s | Mon 16 Nov, 12:49 PM PKT
 
 ## Publishing this run
-- Published 'Punjab Water Demand Exceeds Supply As Groundwater Depletes Rapidly'.
+- Published 'Vulcan Rocket Fails During Launch, Dealing Blow To SpaceX Competitors'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
