@@ -2045,17 +2045,12 @@ def main():
     if candidates:
         state["last_analysis"] = iso(t0)
         try:
-            direct_breaking_waiting = any(
-                is_direct_publisher_cluster(c) and has_explicit_breaking_publisher_item(c)
-                for c in candidates
-            )
             normal_slots_left = max(0, QUEUE_CAP - depth)
             direct_candidate_count = sum(1 for c in candidates if is_direct_publisher_cluster(c))
-            # Defer ordinary AI only when trusted items can fill every normal slot.
-            # If there are fewer trusted items, use the remaining capacity for the verified AI lane.
-            defer_ordinary = direct_breaking_waiting or (
-                normal_slots_left > 0 and direct_candidate_count > 0
-            )
+            # Never let ordinary AI assessment hold up an available trusted publisher item.
+            # Ordinary stories are assessed on cycles with no trusted candidates; queued posts
+            # continue publishing on schedule while the optional lane waits.
+            defer_ordinary = direct_candidate_count > 0
             stories = analyse(candidates, defer_ordinary=defer_ordinary)
             # Soft-PR desk: retain promotional announcements as research leads, but do not schedule
             # them until independent accountability evidence is found. This is a hold, not a verdict.
