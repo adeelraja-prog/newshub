@@ -263,8 +263,12 @@ def validate_value_addition(value):
         for row in rows:
             if not isinstance(row,dict) or not row.get("text") or not row.get("source") or not row.get("url"):
                 return False, "visual point missing source provenance"
-            if kind=="explainer" and len(str(row.get("text") or "").split()) < 18:
-                return False, "each explainer point must contain at least 18 meaningful English words"
+            if kind=="explainer":
+                word_count = len(str(row.get("text") or "").split())
+                if word_count < 18:
+                    return False, "each explainer point must contain at least 18 meaningful English words"
+                if word_count > 35:
+                    return False, "each explainer point exceeds the mobile-card reading limit of 35 words; shorten it to prevent clipping"
         if kind=="explainer" and sum(len(str(row.get("text") or "").split()) for row in rows) < 45:
             return False, "explainer needs at least 45 substantive English words across its points"
         return True, "substantive evidence and source provenance present"
