@@ -13,6 +13,7 @@ import os
 import re
 import sys
 import time
+import subprocess
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
@@ -1526,6 +1527,30 @@ def make_poster(item, tag):
                   value_addition=None if english_poster else item.get("value_addition"))
     return path
 
+def persist_publish_claim():
+    """Push the 'publishing' queue claim to bot-data before contacting Facebook."""
+    token, repo = env("GH_TOKEN"), env("REPO")
+    if not token or not repo:
+        raise RuntimeError("Cannot publish safely: GitHub token/repository not available for durable pre-publish checkpoint.")
+    subprocess.run(["git", "-C", STATE_DIR, "config", "user.name", "newshub-bot"], check=True,
+                   stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    subprocess.run(["git", "-C", STATE_DIR, "config", "user.email", "bot@users.noreply.github.com"], check=True,
+                   stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    subprocess.run(["git", "-C", STATE_DIR, "add", "queue.json"], check=True,
+                   stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    staged = subprocess.run(["git", "-C", STATE_DIR, "diff", "--cached", "--quiet"],
+                            stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    if staged.returncode == 0:
+        raise RuntimeError("Pre-publish queue claim produced no durable change.")
+    if staged.returncode != 1:
+        raise RuntimeError("Unable to inspect staged pre-publish queue claim.")
+    subprocess.run(["git", "-C", STATE_DIR, "commit", "-m", "Persist Facebook pre-publish claim"],
+                   check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    remote = f"https://x-access-token:{token}@github.com/{repo}.git"
+    subprocess.run(["git", "-C", STATE_DIR, "push", "--force", remote, "HEAD:bot-data"],
+                   check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+
+
 def publish_one(queue, state, item, t0):
     """Render, durably claim, publish once, then persist Facebook's confirmation."""
     try:
@@ -1551,6 +1576,13 @@ def publish_one(queue, state, item, t0):
     item["publishing_started"] = iso(t0)
     item.pop("publish_blocked", None)
     save_json(QUEUE_FILE, queue)
+    try:
+        persist_publish_claim()
+    except Exception as checkpoint_error:
+        # Do not make an external Facebook call unless the no-duplicate claim is durable.
+        item["facebook_error"] = f"Pre-publish checkpoint failed: {checkpoint_error}"[:500]
+        print(f"[facebook] blocked: durable queue checkpoint failed; no post attempted: {checkpoint_error}")
+        return False
 
     try:
         fb_id = str(post_facebook(path, item["caption"]))
