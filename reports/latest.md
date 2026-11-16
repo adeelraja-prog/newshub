@@ -1,197 +1,128 @@
-# News Hub report - Mon 16 Nov, 08:19 AM PKT
+# News Hub report - Mon 16 Nov, 08:51 AM PKT
 
 ## Collection
-- New items this run: 1 | items in rolling pool: 385
-- Unique story clusters: 340 (duplicates merged: 45)
-- Clusters dropped as already published/queued: 11; unchanged since last analysis: 92
-- Items per outlet: NTV Uganda 1
-- Trend data: Google Trends Pakistan = Google Trends Pakistan (10 trending queries); X signals = unavailable (no free access; not enabled)
+- New items this run: 12 | items in rolling pool: 397
+- Unique story clusters: 348 (duplicates merged: 49)
+- Clusters dropped as already published/queued: 10; unchanged since last analysis: 92
+- Items per outlet: Dawn Pakistan 3, Dawn Latest 3, The News International 1, Geo News 1, Profit by Pakistan Today 1, Investify 1, Al Jazeera 1, The National 1
+- Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
+
+## Top 5 most important
+- Services of Balochistan family planning workers praised | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Restoration of student unions demanded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Prince and Princess of Wales arrive in India ahead of meeting with Modi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Investors sue chip giant Intel after 29% stock plunge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- World Bank ‘satisfied’ with $370m National Health Support Programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+
+## Top 5 most trending (measured signals)
+- Services of Balochistan family planning workers praised | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Restoration of student unions demanded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Prince and Princess of Wales arrive in India ahead of meeting with Modi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Investors sue chip giant Intel after 29% stock plunge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- World Bank ‘satisfied’ with $370m National Health Support Programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+
+## Top 5 most viral (editorial estimate, not measured)
+- Services of Balochistan family planning workers praised | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Restoration of student unions demanded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Prince and Princess of Wales arrive in India ahead of meeting with Modi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Investors sue chip giant Intel after 29% stock plunge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- World Bank ‘satisfied’ with $370m National Health Support Programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+
+## Source health
+- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
+### Services of Balochistan family planning workers praised  [NORMAL]
+- Poster:  / Services of Balochistan family planning workers praised | category other
+- Alternative headline: Services of Balochistan family planning workers praised
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2044796/services-of-balochistan-family-planning-workers-praised | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2044796/services-of-balochistan-family-planning-workers-praised
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Services of Balochistan family planning | hashtags: 
+- Scheduled: Mon 16 Nov, 08:51 AM PKT
+- Caption:
+```
+Services of Balochistan family planning workers praised
+
+QUETTA: Community-based workers providing door-to-door family planning services were praised at a meeting of the Population Welfare Department and United Nations Population Fund (UNFPA), held here on Sunday. Officials of the Population Welfare department, UNFPA, representatives, female representativ
+
+Source: Dawn Pakistan
+```
+
+### Restoration of student unions demanded  [NORMAL]
+- Poster:  / Restoration of student unions demanded | category other
+- Alternative headline: Restoration of student unions demanded
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2044795/restoration-of-student-unions-demanded | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2044795/restoration-of-student-unions-demanded
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Restoration of student unions demanded | hashtags: 
+- Scheduled: Mon 16 Nov, 09:01 AM PKT
+- Caption:
+```
+Restoration of student unions demanded
+
+QUETTA: A Students’ Rights Conference on Sunday discussed the educational challenges and fundamental rights of students in Balochistan and other parts of the country, and demanded the immediate lifting of the ban on student unions across Pakistan. The conference was organised by Islami Jamiat-i-Tala
+
+Source: Dawn Pakistan
+```
+
+### Prince and Princess of Wales arrive in India ahead of meeting with Modi  [NORMAL]
+- Poster:  / Prince and Princess of Wales arrive in India ahead of meeting with Modi | category other
+- Alternative headline: Prince and Princess of Wales arrive in India ahead of meeting with Modi
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC, BBC
+- Keywords: Prince and Princess of Wales | hashtags: 
+- Scheduled: Mon 16 Nov, 09:11 AM PKT
+- Caption:
+```
+Prince and Princess of Wales arrive in India ahead of meeting with Modi
+
+Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.
+
+Source: BBC
+```
+
+### Investors sue chip giant Intel after 29% stock plunge  [NORMAL]
+- Poster:  / Investors sue chip giant Intel after 29% stock plunge | category other
+- Alternative headline: Investors sue chip giant Intel after 29% stock plunge
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology
+- Keywords: Investors sue chip giant Intel | hashtags: 
+- Scheduled: Mon 16 Nov, 09:21 AM PKT
+- Caption:
+```
+Investors sue chip giant Intel after 29% stock plunge
+
+A proposed class action says Intel hid the impact of slowing sales, inflating its shares.
+
+Source: BBC Technology
+```
+
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 4
 
 ## Queue status
-- [needs_review] normal | Pakistan Health Minister Orders Notices To Pharma Firms Over Barcode F | Tue 03 Nov, 08:22 PM PKT
-- [needs_review] normal | US Voters Head To Polls As Democrats And Republicans Battle For Congre | Tue 03 Nov, 08:32 PM PKT
-- [needs_review] normal | India And Pakistan Set To Clash In SAFF Championship Opener | Tue 03 Nov, 08:42 PM PKT
-- [needs_review] normal | Netizens Question Discrepancies In PIA's Newly Unveiled Crew Uniforms | Tue 03 Nov, 08:52 PM PKT
-- [needs_review] normal | Faysal Bank Crowned Best Mid-Sized Bank of 2025 by CFA Society Pakista | Tue 03 Nov, 09:02 PM PKT
-- [needs_review] normal | Quetta Boxer Abida Batool Makes History as First Pakistani Woman to Wi | Tue 03 Nov, 09:12 PM PKT
-- [needs_review] high | Gold Prices Hold Steady in Pakistan While Silver Registers a Decline | Tue 03 Nov, 09:23 PM PKT
-- [needs_review] normal | Pakistan Tops Global YouTube Viewership With 96 Million Users: PTA Chi | Tue 03 Nov, 09:23 PM PKT
-- [needs_review] normal | US and Iran Reviewing Proposals to End War, Qatari Officials Say | Tue 03 Nov, 09:33 PM PKT
-- [needs_review] normal | Over 8.4 Million Ticket Requests Received for India-Pakistan World Cup | Tue 03 Nov, 09:43 PM PKT
-- [needs_review] normal | Pakistan Successfully Tests First Indigenously Developed Fa'az Air-to- | Tue 03 Nov, 09:53 PM PKT
-- [needs_review] normal | Trump confirms strikes on Iran as Pezeshkian urges peace | Tue 03 Nov, 10:24 PM PKT
-- [needs_review] normal | India monitoring Bangladesh garment protests, aims for positive ties | Tue 03 Nov, 10:34 PM PKT
-- [needs_review] normal | Bethesda officially announces The Elder Scrolls VI Sentinel | Tue 03 Nov, 10:44 PM PKT
-- [needs_review] normal | Death toll rises in Ukraine after Russian attacks on medical facilitie | Tue 03 Nov, 10:54 PM PKT
-- [needs_review] normal | Pakistan bans hiring of Indian and Israeli-origin staff at overseas mi | Wed 04 Nov, 09:00 AM PKT
-- [needs_review] normal | Pakistan and Saudi Arabia Target Meat and Livestock Joint Ventures | Wed 04 Nov, 09:10 AM PKT
-- [needs_review] normal | NADRA Releases Step-by-Step Guide to Replace Lost or Damaged CNICs | Wed 04 Nov, 09:20 AM PKT
-- [needs_review] normal | Qatar Announces Free 30-Day Tourist Visas on Arrival for Pakistanis | Wed 04 Nov, 09:30 AM PKT
-- [needs_review] normal | Iran President Says Return to War Benefits No One After Reported US St | Wed 04 Nov, 09:40 AM PKT
-- [needs_review] normal | Russia Pitching Upgraded Su-57 to India Amid Ukraine War Experience | Wed 04 Nov, 10:00 AM PKT
-- [needs_review] normal | Fakhar Zaman Shines as Pakistan Ends Nine-Year Cricket Trophy Drought | Wed 04 Nov, 10:10 AM PKT
-- [needs_review] normal | Edmonton Police Crack Down on Pakistan-Based Cellphone Scam Network | Wed 04 Nov, 10:20 AM PKT
-- [needs_review] normal | HUBCO to Begin Local BYD Vehicle Production in Pakistan This December | Wed 04 Nov, 10:30 AM PKT
-- [needs_review] normal | U.S. Plans to Deport 200 Afghan Nationals via Pakistan Transit Hub Ami | Wed 04 Nov, 10:40 AM PKT
-- [needs_review] normal | Dozens Dead and Missing After Russian Strike on Ukrainian Village Ahea | Wed 04 Nov, 10:50 AM PKT
-- [needs_review] normal | US Federal Judge Halts Deportation of Afghans to Pakistan | Wed 04 Nov, 11:00 AM PKT
-- [needs_review] normal | The Real Story Behind Hania Aamir's Viral Social Media Clips | Wed 04 Nov, 11:10 AM PKT
-- [needs_review] normal | More Iranians Call For Nuclear Weapons After US Military Conflict | Wed 04 Nov, 11:20 AM PKT
-- [needs_review] normal | Tajir Dost Scheme: Penalties Enforced Against Non-Filer Retailers | Wed 04 Nov, 11:30 AM PKT
-- [needs_review] normal | Pakistan’s Financial Inclusion Hits 71% Amid Climate Finance Push | Wed 04 Nov, 11:40 AM PKT
-- [needs_review] normal | PSG Beats Villarreal 6-0 As Manchester United Mounts Dramatic Comeback | Wed 04 Nov, 11:50 AM PKT
-- [needs_review] normal | Canva Lays Off 22 Percent of Staff in Major Organizational Restructuri | Wed 04 Nov, 12:00 PM PKT
-- [needs_review] normal | Iran calls US reply to Hormuz plan unconvincing as Trump confirms stri | Wed 04 Nov, 12:10 PM PKT
-- [needs_review] normal | Pakistan's financial inclusion reaches 71%, gender gap narrows to 27% | Wed 04 Nov, 12:20 PM PKT
-- [needs_review] normal | AI-linked stocks slide in Asian emerging markets on US election result | Wed 04 Nov, 12:30 PM PKT
-- [needs_review] normal | Four Oil Tankers Destroyed by Naval Mines in Strait of Hormuz, IRGC Sa | Wed 04 Nov, 01:41 PM PKT
-- [needs_review] normal | Government Mulls International Arbitration Against Etisalat Over $800m | Wed 04 Nov, 01:51 PM PKT
-- [needs_review] normal | Abdul El-Sayed Becomes First Muslim Senator in US History | Wed 04 Nov, 02:01 PM PKT
-- [needs_review] normal | Democrats Projected to Win House as Voters Rebuke Trump's Policies | Wed 04 Nov, 02:11 PM PKT
-- [needs_review] normal | Abdul El-Sayed Defeats Mike Rogers to Become Michigan’s First Muslim S | Wed 04 Nov, 02:21 PM PKT
-- [needs_review] high | National Savings Announces Final Rs1,500 Prize Bond Draw Date | Wed 04 Nov, 03:53 PM PKT
-- [needs_review] high | Sindh Announces Educational Institution Holiday for Iqbal Day | Wed 04 Nov, 03:53 PM PKT
-- [needs_review] normal | NAB Summons Ex-Minister Asad Mahmood Over Pakistan Post Hiring | Wed 04 Nov, 03:53 PM PKT
-- [needs_review] normal | Gold Prices in Pakistan Surge by Rs13,900 Per Tola | Wed 04 Nov, 04:03 PM PKT
-- [needs_review] normal | Pakistan's Maliha Ali Stuns Russian Champion at MMA Worlds | Wed 04 Nov, 04:13 PM PKT
-- [needs_review] normal | Pakistan Continuing Diplomatic Efforts for Middle East Peace: PM | Wed 04 Nov, 04:23 PM PKT
-- [needs_review] normal | Shaheen Afridi Enters Top Five in ICC ODI Bowling Rankings | Wed 04 Nov, 04:33 PM PKT
-- [needs_review] normal | NAB Summons JUI-F Chief's Son Over Alleged Pakistan Post Irregularitie | Wed 04 Nov, 04:43 PM PKT
-- [needs_review] normal | Pre-Match Handshake Focus of Attention as India Faces Pakistan in SAFF | Wed 04 Nov, 04:53 PM PKT
-- [needs_review] normal | Pakistan and UK Express Shared Concern Over Terror Groups in Afghanist | Wed 04 Nov, 06:49 PM PKT
-- [needs_review] normal | Pakistan Ranks First Globally in YouTube Viewership With 560M Daily Vi | Wed 04 Nov, 06:59 PM PKT
-- [needs_review] normal | Karnataka HC Quashes 'Pakistan Zindabad' Case Against BJP Rally Partic | Wed 04 Nov, 07:09 PM PKT
-- [needs_review] normal | Federal Cabinet Approves New Currency Note Designs and Rs10 Coin | Wed 04 Nov, 07:19 PM PKT
-- [needs_review] normal | Russian Strikes Disrupt Kyiv Water and Power as South Searches for Sur | Wed 04 Nov, 07:29 PM PKT
-- [needs_review] high | Rs10 Banknote to be Phased Out Under New Currency Designs | Wed 04 Nov, 07:44 PM PKT
-- [needs_review] normal | Trump Acknowledges Iran War Impact on Midterm Defeat | Wed 04 Nov, 07:44 PM PKT
-- [needs_review] normal | Gold Prices Surge in Pakistan to New High of Rs426,000 | Wed 04 Nov, 07:54 PM PKT
-- [needs_review] normal | Turkey Set to Ratify Defense Pact with Saudi Arabia, Pakistan | Wed 04 Nov, 08:04 PM PKT
-- [needs_review] normal | PSX Investor Base Grows 47.3% in First 10 Months of 2026 | Wed 04 Nov, 08:14 PM PKT
-- [needs_review] normal | Mohammad Rizwan's Emotional Double-Century After Test Snub | Wed 04 Nov, 08:24 PM PKT
-- [needs_review] high | New EV Policy Faces Intense Pressure Over Proposed Tax Incentives | Wed 04 Nov, 09:33 PM PKT
-- [needs_review] normal | India to Begin SAFF Championship Title Defense Against Pakistan | Wed 04 Nov, 09:33 PM PKT
-- [needs_review] normal | PTA Formally Registers BIGO LIVE and Likee in Pakistan | Wed 04 Nov, 09:43 PM PKT
-- [needs_review] normal | Binance Reveals How Hackers Pulled Off Multi-Billion Crypto Heist | Wed 04 Nov, 09:53 PM PKT
-- [needs_review] normal | Pakistan Discusses Digital Payments With Mastercard Delegation | Wed 04 Nov, 10:03 PM PKT
-- [needs_review] normal | Dozens Dead and Missing After Russian Strike on Ukrainian Aid Center | Wed 04 Nov, 10:13 PM PKT
-- [needs_review] normal | Trump and Vance Blame Iran War for Republican Midterm Losses | Wed 04 Nov, 10:23 PM PKT
-- [needs_review] normal | Ukrainian Strikes Result in Three Deaths in Russia's Belgorod Region | Wed 04 Nov, 10:33 PM PKT
-- [needs_review] normal | Sindh High Court Seeks Records After Man Linked to 29 Cases Over Name | Wed 04 Nov, 10:43 PM PKT
-- [needs_review] normal | Sindh Announces Public Holiday on November 9 for Allama Iqbal Day | Wed 04 Nov, 10:53 PM PKT
-- [needs_review] normal | Iran Supreme Leader Says Those Expecting US Policy Shift 'Seriously Mi | Thu 05 Nov, 09:00 AM PKT
-- [needs_review] normal | CM Punjab Takes Notice of Financial Corruption in Khanewal Beautificat | Thu 05 Nov, 09:10 AM PKT
-- [needs_review] normal | Alec Baldwin calls for end to Iran war after US midterms | Thu 05 Nov, 09:20 AM PKT
-- [needs_review] normal | Federal Cabinet Ratifies Pakistan-Kuwait Defence Cooperation Agreement | Thu 05 Nov, 09:30 AM PKT
-- [needs_review] normal | PIA to Launch Three Weekly Direct Flights to Birmingham from Dec 1 | Thu 05 Nov, 09:40 AM PKT
-- [needs_review] normal | “JD, Habibi!”: Abdul El-Sayed Roasts Trump and Vance in Historic US Se | Thu 05 Nov, 09:50 AM PKT
-- [needs_review] normal | Democratic Congress Could Test Decades of US Support for Israel | Thu 05 Nov, 10:00 AM PKT
-- [needs_review] normal | Saudi and Pakistani Foreign Ministers Discuss Regional Tensions | Thu 05 Nov, 10:10 AM PKT
-- [needs_review] high | Lahore sees spike in fire hotspots amid worsening smog | Thu 05 Nov, 06:42 AM PKT
-- [needs_review] normal | Oil prices drop below $100 as US midterms fuel Iran war end hopes | Thu 05 Nov, 10:20 AM PKT
-- [needs_review] normal | Punjab sets ambitious wheat cultivation target of 16.5 million acres | Thu 05 Nov, 10:30 AM PKT
-- [needs_review] normal | JIT finds serious irregularities in Islamabad's One Constitution Avenu | Thu 05 Nov, 10:40 AM PKT
-- [needs_review] normal | JD Vance and Trump address Iran war impact on Republican midterm losse | Thu 05 Nov, 10:50 AM PKT
-- [needs_review] normal | Virat Kohli's brilliant 74 leads India to five-wicket win over New Zea | Thu 05 Nov, 11:00 AM PKT
-- [needs_review] normal | NAB and FIA summon Fazlur Rehman's son over alleged job appointment ir | Thu 05 Nov, 11:10 AM PKT
-- [needs_review] normal | Pakistan and UK express mutual concern over ongoing TTP security threa | Thu 05 Nov, 11:20 AM PKT
-- [needs_review] normal | Court to hear appeals of Imran Khan and Bushra Bibi on November 10 | Thu 05 Nov, 11:30 AM PKT
-- [needs_review] normal | Government introduces competitive bidding for LPG sector reforms | Thu 05 Nov, 11:40 AM PKT
-- [needs_review] normal | Vance blames Iran war for midterm losses as Trump defends strikes | Thu 05 Nov, 11:50 AM PKT
-- [needs_review] normal | Azam Khan hits back at fitness critics after India defeat | Thu 05 Nov, 12:10 PM PKT
-- [needs_review] normal | Two Tankers and Tugboat Catch Fire in Strait of Hormuz, Says IRGC | Thu 05 Nov, 12:20 PM PKT
-- [needs_review] normal | Dead Blue Whale Washes Ashore on Gwadar Coastline | Thu 05 Nov, 12:30 PM PKT
-- [needs_review] normal | Turkish parliament approves a three-nation defense pact with Saudi Ara | Fri 06 Nov, 09:00 AM PKT
-- [needs_review] normal | Putin receives Iran's security chief in Moscow for key talks | Fri 06 Nov, 09:30 AM PKT
-- [needs_review] normal | Supreme Court confirms Qaiser Ayub's death sentence in blasphemy case | Fri 06 Nov, 10:00 AM PKT
-- [needs_review] normal | Field Marshal Asim Munir visits SSG HQ, calls for stronger indigenous  | Fri 06 Nov, 10:15 AM PKT
-- [needs_review] normal | PSX extends rally and reclaims 175,000-point mark | Fri 06 Nov, 10:30 AM PKT
-- [needs_review] normal | FCC restrains Peshawar High Court from hearing PTI worker detention ca | Fri 06 Nov, 10:45 AM PKT
-- [needs_review] normal | Trump says he met Putin envoy and sees Ukraine peace deal soon | Fri 06 Nov, 11:00 AM PKT
-- [needs_review] high | CIMRAD conference warns of potential collapse in Gulf jobs for migrant | Fri 06 Nov, 07:34 AM PKT
-- [needs_review] normal | CDF Munir stresses operational readiness to counter emerging security  | Fri 06 Nov, 11:10 AM PKT
-- [needs_review] normal | Saudi Arabia reportedly to issue visas to Pakistani workers in 24 hour | Fri 06 Nov, 11:20 AM PKT
-- [needs_review] normal | Over 143,000 Afghan nationals repatriated from Punjab, authorities rev | Fri 06 Nov, 11:30 AM PKT
-- [needs_review] normal | India eases visa and passport rules for Pakistanis and refugees | Fri 06 Nov, 11:40 AM PKT
-- [needs_review] normal | WTA takes blame after Pegula's private remarks on Andreeva are livestr | Fri 06 Nov, 11:50 AM PKT
-- [needs_review] normal | JD Vance blames Iran War for midterm losses without revealing future c | Fri 06 Nov, 12:00 PM PKT
-- [needs_review] high | FBR links Islamabad rural property valuations to collector rates | Fri 06 Nov, 08:28 AM PKT
-- [needs_review] normal | PML-N, PPP, and PTI to get two seats each on electoral reforms panel | Fri 06 Nov, 12:10 PM PKT
-- [needs_review] normal | Birmingham Airport welcomes back direct Pakistan International Airline | Fri 06 Nov, 12:20 PM PKT
-- [needs_review] normal | Balochistan conference calls for stronger law enforcement and coordina | Fri 06 Nov, 12:30 PM PKT
-- [needs_review] normal | Bank of England raises interest rate to 4% amid rising energy costs | Fri 06 Nov, 12:40 PM PKT
-- [needs_review] normal | Iran security chief meets Vladimir Putin and delivers message from Kha | Fri 06 Nov, 12:50 PM PKT
-- [needs_review] normal | Trump Weighs Options on Iran War After Midterm Election Defeat | Fri 06 Nov, 01:00 PM PKT
-- [needs_review] normal | Government Appoints Mustafa Ramday as PSO Chairman | Fri 06 Nov, 01:10 PM PKT
-- [needs_review] normal | Sahiwal Police Register Kidnap and Rape Case After Months | Fri 06 Nov, 01:20 PM PKT
-- [needs_review] normal | Oil Prices Head for Weekly Drop Amid Iran War De-escalation Hopes | Fri 06 Nov, 01:30 PM PKT
-- [needs_review] normal | Pakistan U19 Face UAE U19 in ACC Men's U19 Asia Cup 2026 | Fri 06 Nov, 01:40 PM PKT
-- [needs_review] normal | 98 women and juveniles bailed after massive Karachi cyber raid | Fri 06 Nov, 01:50 PM PKT
-- [needs_review] normal | Developing countries' external debt surges to a staggering $9.4 trilli | Fri 06 Nov, 02:00 PM PKT
-- [needs_review] high | FBR allows changes to sales tax e-invoices after 72-hour deadline | Fri 06 Nov, 02:52 PM PKT
-- [needs_review] normal | NADRA assistant director shot dead by gunmen in Peshawar | Fri 06 Nov, 02:52 PM PKT
-- [needs_review] normal | 11 killed in tragic bus-truck collision in Punjab province | Fri 06 Nov, 03:02 PM PKT
-- [needs_review] normal | Trump discusses possibility of resuming war with Iran | Fri 06 Nov, 03:12 PM PKT
-- [needs_review] normal | Pakistan and Tajikistan conclude joint military exercise Dosti-III | Fri 06 Nov, 03:22 PM PKT
-- [needs_review] normal | Australia's Chris Lynn served one-month ban for cocaine use | Fri 06 Nov, 03:32 PM PKT
-- [needs_review] normal | Satellite images reveal major construction and repairs near Iran missi | Fri 06 Nov, 03:42 PM PKT
-- [needs_review] normal | Cab driver arrested for allegedly killing seven members of wife's fami | Fri 06 Nov, 03:52 PM PKT
-- [needs_review] high | Pakistan's Trade Deficit Widens to $3.9 Billion in October | Fri 06 Nov, 04:42 PM PKT
-- [needs_review] normal | Pakistani Fighter Maliha Ali Wins MMA Bronze Despite Injuries and Appe | Fri 06 Nov, 04:42 PM PKT
-- [needs_review] normal | Gold Prices in Pakistan Plunge by Rs6,500 Per Tola | Fri 06 Nov, 04:52 PM PKT
-- [needs_review] normal | Pakistan and UK Agree to Expand Cooperation in Counter-Terrorism and C | Fri 06 Nov, 05:02 PM PKT
-- [needs_review] normal | Ukrainian President Zelenskyy Presses Western Allies for Postwar Secur | Fri 06 Nov, 05:12 PM PKT
-- [needs_review] normal | Ishaq Dar and Liu Haixing Lead Pakistan-China Governance Talks | Fri 06 Nov, 05:22 PM PKT
-- [needs_review] normal | North Korea's elite hackers deployed secret cyberattacks including the | Fri 06 Nov, 05:32 PM PKT
-- [needs_review] normal | UN Security Council adopts Pakistan-led statement urging diplomacy dur | Fri 06 Nov, 05:42 PM PKT
-- [needs_review] high | Pakistan's foreign debt doubles over past decade, reports reveal | Fri 06 Nov, 05:40 PM PKT
-- [needs_review] normal | Govt employees to apply for welfare grants online via new NITB portal | Fri 06 Nov, 05:52 PM PKT
-- [needs_review] normal | PM Shehbaz approves reforms to modernise TDAP and boost exports | Fri 06 Nov, 06:02 PM PKT
-- [needs_review] normal | EU Council backs one-year delay to methane rules over Iran war | Fri 06 Nov, 06:12 PM PKT
-- [needs_review] normal | Pakistan adds $5 billion to foreign reserves despite Gulf war: report | Fri 06 Nov, 06:22 PM PKT
-- [needs_review] normal | Tesla to wind down Cybertruck production next year for Cybercabs | Fri 06 Nov, 06:32 PM PKT
-- [needs_review] normal | US and Iran edge closer to deal as nuclear issue returns: reports | Fri 06 Nov, 06:42 PM PKT
-- [needs_review] normal | 45-Foot Sperm Whale Spotted Near Karachi Coast For The First Time | Fri 06 Nov, 06:52 PM PKT
-- [needs_review] normal | India Relaxes Passport and Visa Rules for Long-Settled Pakistanis | Fri 06 Nov, 07:02 PM PKT
-- [needs_review] normal | Reports about Imran Khan's health not encouraging, says PTI chief Goha | Fri 06 Nov, 07:12 PM PKT
-- [needs_review] normal | Usman Khan's unbeaten century guides Pakistan U19 to win over UAE | Fri 06 Nov, 07:22 PM PKT
-- [needs_review] normal | First-ever sperm whale sighting recorded off Sindh coast: WWF-Pakistan | Fri 06 Nov, 07:32 PM PKT
-- [needs_review] normal | Imaan Mazari and husband move IHC against ATC security breach convicti | Fri 06 Nov, 07:42 PM PKT
-- [needs_review] normal | Pakistan's leaders dread US Democrats' win while households pray for i | Fri 06 Nov, 07:52 PM PKT
-- [needs_review] normal | Indian Punjab CM can visit Pakistan, says Foreign Office | Fri 06 Nov, 08:02 PM PKT
-- [needs_review] normal | Türkiye to Begin Offshore Exploration in Pakistan in 2026 | Fri 06 Nov, 08:30 PM PKT
-- [needs_review] normal | EU Charges TikTok Over Addictive 'For You' Algorithm | Fri 06 Nov, 08:40 PM PKT
-- [needs_review] normal | Makkah Defence Alliance Secretary-General to Assume Duties Soon: FO | Fri 06 Nov, 08:50 PM PKT
-- [needs_review] normal | Armed Afghan militant arrested while attempting to infiltrate Upper Ku | Fri 06 Nov, 10:20 PM PKT
-- [needs_review] normal | Bilawal urges federal govt to engage political forces instead of fight | Fri 06 Nov, 10:30 PM PKT
-- [needs_review] normal | MCI issues final notice to IESCO over Rs. 1.5 billion property tax due | Fri 06 Nov, 10:40 PM PKT
-- [needs_review] normal | Bilawal urges govt to abandon confrontational approach amid economic h | Fri 06 Nov, 10:50 PM PKT
-- [needs_review] normal | Naushad Moosa highlights positives after India beats Pakistan in SAFF  | Sat 07 Nov, 09:00 AM PKT
-- [needs_review] normal | Iranian Military Claims Forces Are 'Stronger' Than at Start of War | Sat 07 Nov, 10:11 AM PKT
-- [needs_review] normal | Pakistan and Turkiye Revive Offshore Energy Exploration With Seismic V | Sat 07 Nov, 11:00 AM PKT
-- [needs_review] high | Half of polio cases in Pakistan are linked to Afghanistan, says report | Sat 07 Nov, 02:24 PM PKT
-- [needs_review] normal | National CERT warns banks and critical infrastructure of AI-driven cyb | Sat 07 Nov, 02:24 PM PKT
-- [needs_review] normal | Government Allocates Rs300 Billion for SMEs Under Export Finance Schem | Sun 08 Nov, 09:30 AM PKT
-- [needs_review] normal | Iran Says Armed Forces Are Stronger Than Ever, Strait of Hormuz to Rem | Sun 08 Nov, 10:00 AM PKT
-- [needs_review] normal | Pakistan and UK Unite to Fight Cybercrime, Visa Fraud, and Terrorism | Sun 08 Nov, 10:15 AM PKT
-- [needs_review] normal | Trump Says Renewed War With Iran Highly Unlikely If Talks Progress | Mon 09 Nov, 09:00 AM PKT
-- [needs_review] normal | Iran Warns It Will 'Rain Down Hell' If US Escalates War | Mon 09 Nov, 09:30 AM PKT
-- [needs_review] normal | Nvidia is investigating Jensen Huang’s relationship with a Chinese spy | Mon 09 Nov, 10:00 AM PKT
-- [needs_review] normal | Trump signals reluctance to launch fresh strikes on Iran | Mon 09 Nov, 10:15 AM PKT
-- [needs_review] high | Lahore Ranks as World's Most Polluted City as AQI Hits Hazardous 451 | Wed 11 Nov, 10:19 AM PKT
-- [needs_review] normal | Iran Urges US to Meet Terms for Opening Strategic Strait of Hormuz | Wed 11 Nov, 10:19 AM PKT
-- [needs_review] high | IHC Directs Authorities to Allow Lawyers One-Hour Meeting with Imran a | Wed 11 Nov, 11:17 AM PKT
-- [needs_review] normal | Oil Rebounds from Two-Month Lows as Hormuz Shipping Attacks Dim Iran T | Wed 11 Nov, 11:17 AM PKT
-- [needs_review] normal | CDP Plans Exclusive Pink Electric Bus Service for Women in Islamabad | Wed 11 Nov, 12:32 PM PKT
-- [needs_review] normal | New Auto Policy 2026 Unlikely to Significantly Reduce Car Prices | Wed 11 Nov, 12:47 PM PKT
-- [needs_review] normal | Federal Govt Deducts Rs35 Billion From Provincial Funds Under Article  | Wed 11 Nov, 03:24 PM PKT
-- [needs_review] normal | ADB Approves $500 Million Climate Financing Package to Strengthen Paki | Wed 11 Nov, 03:39 PM PKT
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
 - [published] breaking | Microsoft Rules Out Link Between Global Outage And FAA Ground Stop | Sat 14 Nov, 08:09 AM PKT
 - [published] high | US Military Intercepts Iranian Drones As Bahrain Radar Strike Claimed | Sat 14 Nov, 08:09 AM PKT
@@ -247,11 +178,15 @@
 - [queued] high | Pakistan Proposes Virtual Green University And Youth Fund At COP31 | Mon 16 Nov, 07:33 AM PKT
 - [published] high | Punjab to establish province's first AI-powered climate observatory | Mon 16 Nov, 07:48 AM PKT
 - [published] high | CDA finalises revised PC-I for Islamabad cricket stadium at Rs16.7bn | Mon 16 Nov, 07:48 AM PKT
-- [queued] high | Yemeni government forces reportedly retreat in setback against Houthis | Mon 16 Nov, 07:48 AM PKT
+- [published] high | Yemeni government forces reportedly retreat in setback against Houthis | Mon 16 Nov, 07:48 AM PKT
 - [queued] high | School Assembly News: Top headlines, thought and GK questions for Nov  | Mon 16 Nov, 07:48 AM PKT
+- [queued] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
+- [queued] normal | Restoration of student unions demanded | Mon 16 Nov, 09:01 AM PKT
+- [queued] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
+- [queued] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
 
 ## Publishing this run
-- No post published: due items are waiting for the 10-minute gap, the daily limit or the publishing window.
+- Published 'Yemeni government forces reportedly retreat in setback against Houthis'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
