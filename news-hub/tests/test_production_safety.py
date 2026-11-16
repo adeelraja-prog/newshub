@@ -154,6 +154,9 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         story = newsroom.make_direct_publisher_story(cluster)
         self.assertEqual(story["editorial_priority_band"], "P2")
         self.assertEqual(story["priority"], "normal")
+        self.assertEqual(story["confidence"], 0)
+        self.assertEqual(story["importance"], 0)
+        self.assertEqual(story["public_interest"], 0)
 
 
 if __name__ == "__main__":
