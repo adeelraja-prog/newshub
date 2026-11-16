@@ -438,6 +438,16 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(reason, "")
         self.assertEqual(item["qid"], "direct")
 
+    def test_ordinary_lane_resumes_after_trusted_queue_buffer_is_built(self):
+        self.assertTrue(newsroom.defer_ordinary_lane(0, 5))
+        self.assertFalse(newsroom.defer_ordinary_lane(24, 5))
+        self.assertTrue(newsroom.defer_ordinary_lane(28, 5))
+        self.assertFalse(newsroom.defer_ordinary_lane(24, 0))
+
+    def test_direct_lane_reserves_a_slot_for_other_sources_when_queue_has_room(self):
+        self.assertEqual(newsroom.direct_normal_selection_budget(4, [1, 2, 3, 4], [5]), 3)
+        self.assertEqual(newsroom.direct_normal_selection_budget(1, [1], [2]), 1)
+        self.assertEqual(newsroom.direct_normal_selection_budget(4, [1, 2, 3, 4], []), 4)
     def test_breaking_post_obeys_global_ten_minute_gap(self):
         last = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
         item = {"qid": "breaking", "status": "queued", "priority": "breaking",
