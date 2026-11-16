@@ -512,7 +512,9 @@ def is_blocked(name, link, text=""):
         host.endswith(tuple(BLOCKED_HOST_ENDINGS))
         or any(host == d or host.endswith("." + d) for d in BLOCKED_HOST_ENDINGS if not d.startswith("."))
     )
-    india_from_unapproved_source = bool(INDIA_TOPIC.search(text or "")) and not is_approved_india_source(name, link)
+    # Include the search-lane label as well as the headline/snippet: a Reuters India
+    # search result may have a headline that never repeats the country name.
+    india_from_unapproved_source = bool(INDIA_TOPIC.search((text or "") + " " + n)) and not is_approved_india_source(name, link)
     return indian_host or india_from_unapproved_source or is_international_pakistan_item(name, link, text)
 
 
