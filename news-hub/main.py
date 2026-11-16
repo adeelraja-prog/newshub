@@ -799,6 +799,25 @@ def is_direct_publisher_cluster(cluster):
     return any(is_fast_lane_member(m) for m in cluster.get("members", []) if isinstance(m, dict))
 
 
+def strip_excluded_international_members(cluster):
+    """Remove only Pakistan-related BBC/CNN/Al Jazeera reports; preserve other valid publishers in a mixed cluster."""
+    members = [
+        m for m in cluster.get("members", [])
+        if not is_international_pakistan_item(
+            m.get("source", ""), m.get("link", ""), m.get("title", "") + " " + m.get("snippet", "")
+        )
+    ]
+    if not members:
+        return False
+    if len(members) != len(cluster.get("members", [])):
+        cluster["members"] = members
+        if cluster.get("lead") not in members:
+            cluster["lead"] = members[0]
+        cluster["sources"] = sorted({str(m.get("source") or "unknown") for m in members})
+        cluster["n_sources"] = len(cluster["sources"])
+    return True
+
+
 def make_direct_publisher_story(cluster):
     """Build a publishable story directly from a named publisher's published headline."""
     # Attribute the poster to the approved publisher even when another cluster member
@@ -1706,9 +1725,7 @@ def main():
     dups = unchanged = 0
     candidates = []
     for c in clusters:
-        if any(is_international_pakistan_item(m.get("source", ""), m.get("link", ""),
-                                              m.get("title", "") + " " + m.get("snippet", ""))
-               for m in c.get("members", [])):
+        if not strip_excluded_international_members(c):
             print(f"[source-policy] excluded Pakistan-related BBC/CNN/Al Jazeera item: {c['title'][:90]}")
             continue
         hi = ed.match_list(c["tokens"], history)
