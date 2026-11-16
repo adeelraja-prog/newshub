@@ -99,10 +99,10 @@ SOURCES = [
     gnews("Pakistan site:reuters.com", "Reuters"),
     gnews("Pakistan site:apnews.com", "AP"),
     gnews("Pakistan site:bloomberg.com", "Bloomberg"),
-    gnews("Pakistan site:cnn.com", "CNN"),
+
     gnews("Pakistan site:theguardian.com", "The Guardian"),
     gnews("Pakistan site:nytimes.com", "NY Times"),
-    gnews("Pakistan site:aljazeera.com", "Al Jazeera"),
+
 
     # kind="topic": worldwide topic feeds, no Pakistan filter (tech, AI, gadgets, health, science, business)
     {"name": "The Verge", "kind": "topic", "url": "https://www.theverge.com/rss/index.xml"},
