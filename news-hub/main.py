@@ -2054,7 +2054,7 @@ def main():
             # Defer ordinary AI only when trusted items can fill every normal slot.
             # If there are fewer trusted items, use the remaining capacity for the verified AI lane.
             defer_ordinary = direct_breaking_waiting or (
-                normal_slots_left > 0 and direct_candidate_count >= min(SELECT_N, normal_slots_left)
+                normal_slots_left > 0 and direct_candidate_count > 0
             )
             stories = analyse(candidates, defer_ordinary=defer_ordinary)
             # Soft-PR desk: retain promotional announcements as research leads, but do not schedule
