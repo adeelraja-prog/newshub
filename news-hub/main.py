@@ -359,7 +359,24 @@ def collect_new(state):
     failed_sources = sum(1 for _, status, count, _ in source_health if status == "ERROR")
     malformed_sources = sum(1 for _, status, count, bozo in source_health if bozo)
     active_names = [name for name, status, count, bozo in source_health if status == 200 and count > 0 and not bozo]
+    fast_lane_names = {
+        "Geo News Fast Lane", "ARY News Fast Lane", "Samaa Fast Lane", "Express News Fast Lane",
+        "Dawn Fast Lane", "Jang Fast Lane", "The News Fast Lane", "Express Tribune Fast Lane",
+        "Dunya News Fast Lane", "Dunya News TV Fast Lane",
+    }
+    fast_rows = [row for row in source_health if row[0] in fast_lane_names]
+    SOURCE_HEALTH.clear()
+    SOURCE_HEALTH.update({
+        "configured": len(SOURCES), "active": ok_sources, "empty": empty_sources,
+        "malformed": malformed_sources, "failed": failed_sources, "active_names": active_names,
+        "fast_lane_total": len(fast_rows),
+        "fast_lane_active": sum(1 for _, status, count, bozo in fast_rows if status == 200 and count > 0 and not bozo),
+        "fast_lane_unavailable": [name for name, status, count, bozo in fast_rows
+                                  if status != 200 or count == 0 or bozo],
+    })
     print(f"[sources] configured={len(SOURCES)} active={ok_sources} empty={empty_sources} malformed={malformed_sources} failed={failed_sources}")
+    print(f"[sources-fast-lane] active={SOURCE_HEALTH['fast_lane_active']}/{SOURCE_HEALTH['fast_lane_total']} "
+          f"unavailable={', '.join(SOURCE_HEALTH['fast_lane_unavailable']) or 'none'}")
     print("[sources-active] " + ", ".join(active_names))
     for name, status, count, bozo in source_health:
         if status == "ERROR" or count == 0 or bozo:
@@ -369,6 +386,7 @@ def collect_new(state):
 
 
 BLOCKED_COUNT = [0]
+SOURCE_HEALTH = {}
 
 
 def has_devanagari(text):
@@ -1329,13 +1347,47 @@ def fact_check(stories, written):
     return ok, failed
 
 
+def direct_publisher_copy(story):
+    """Create source-faithful poster copy immediately; trusted publisher output never waits for an AI writer."""
+    cluster = story["cluster"]
+    lead = cluster.get("lead") or {}
+    title = clean(lead.get("title") or story.get("event") or cluster.get("title") or "")[:110]
+    excerpt = clean(story.get("excerpt") or lead.get("snippet") or title)[:420]
+    source_name = (story.get("original_source") or {}).get("name") or lead.get("source") or "Publisher"
+    is_urdu = has_urdu_script(title)
+    return {
+        "headline_primary": title, "headline_alt": title, "headline_choice": "primary",
+        "poster_headline_ur": title if is_urdu else "",
+        "poster_headline_en": title,
+        "caption_opening": title, "summary_en": excerpt or title, "summary_ur": "",
+        "attribution_line": f"Source: {source_name}",
+        "primary_keyword": " ".join(title.split()[:5]), "secondary_keywords": [],
+        "entities": {}, "hashtags": [], "search_summary": title[:155],
+        "value_addition": {"type": "none"}, "headline_used": title,
+        "direct_copy_language": "ur" if is_urdu else "en",
+    }
+
+
 def write_posts(stories, size=8):
-    """Writing in batches of 8 keeps each Gemini answer small; one failed batch does not lose the others."""
-    out = {}
-    for start in range(0, len(stories), size):
+    """Direct publisher copy is deterministic and immediate; AI batches contain ordinary stories only."""
+    out, ordinary, original_positions = {}, [], []
+    for position, story in enumerate(stories):
+        if story.get("direct_source"):
+            try:
+                out[position + 1] = direct_publisher_copy(story)
+            except Exception as ex:
+                print(f"[publisher-fast-lane] source-faithful poster copy failed: {ex}")
+                USAGE["errors"].append(str(ex)[:140])
+        else:
+            ordinary.append(story)
+            original_positions.append(position)
+    for start in range(0, len(ordinary), size):
+        batch = ordinary[start:start + size]
         try:
-            for k, w in write_batch(stories[start:start + size]).items():
-                out[start + k] = w
+            for relative_n, written in write_batch(batch).items():
+                if 1 <= relative_n <= len(batch):
+                    original_n = original_positions[start + relative_n - 1] + 1
+                    out[original_n] = written
         except Exception as ex:
             print(f"[warn] writing batch {start // size + 1} failed: {ex}")
             USAGE["errors"].append(str(ex)[:140])
@@ -1393,8 +1445,13 @@ def enqueue(queue, story, w, caption, t0):
     prio = story.get("priority", "normal")
     slot = t0 if prio in ("breaking", "high") else assign_slot(queue, t0)
     target_market = story.get("target_market") or ("Pakistan" if story.get("scope") in ("national", "provincial") else "Global")
-    poster_language = ("en" if not str(w.get("poster_headline_ur") or "").strip()
-                       else choose_poster_language({**story, "target_market": target_market}, slot))
+    if w.get("direct_copy_language") == "ur":
+        poster_language = "ur"
+    elif w.get("direct_copy_language") == "en":
+        poster_language = "en"
+    else:
+        poster_language = ("en" if not str(w.get("poster_headline_ur") or "").strip()
+                           else choose_poster_language({**story, "target_market": target_market}, slot))
     item = {
         "qid": story["id"], "status": "queued", "priority": prio, "created": iso(t0), "not_before": iso(slot),
         "target_market": target_market, "poster_language": poster_language,
@@ -1696,8 +1753,17 @@ def build_report(info):
           f"- Unique story clusters: {info['clusters']} (duplicates merged: {info['pool'] - info['clusters']})",
           f"- Clusters dropped as already published/queued: {info['dups']}; unchanged since last analysis: {info['unchanged']}",
           f"- Items per outlet: " + ", ".join(f"{k} {v}" for k, v in sorted(info['stats'].items(), key=lambda x: -x[1])[:12]),
-          f"- Trend data: Google Trends Pakistan = {info['trends_basis']} ({info['n_trends']} trending queries); "
-          f"X signals = unavailable (no free access; not enabled)", ""]
+          f"- Trend data: {info['trends_basis']} ({info['n_trends']} trending queries); discovery signals only, never verification", ""]
+    health = SOURCE_HEALTH
+    if health:
+        L += ["## Source health",
+              f"- Configured feeds/searches: {health.get('configured', 0)} | active: {health.get('active', 0)} | "
+              f"empty: {health.get('empty', 0)} | malformed: {health.get('malformed', 0)} | failed: {health.get('failed', 0)}",
+              f"- Trusted Pakistani publisher searches active: {health.get('fast_lane_active', 0)}/"
+              f"{health.get('fast_lane_total', 0)}"]
+        if health.get("fast_lane_unavailable"):
+            L.append("- Trusted publisher searches unavailable/empty: " + ", ".join(health["fast_lane_unavailable"]))
+        L.append("")
     if info.get("lists"):
         for key, title in (("important", "Top 5 most important"), ("trending", "Top 5 most trending (measured signals)"),
                            ("viral", "Top 5 most viral (editorial estimate, not measured)")):
