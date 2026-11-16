@@ -155,6 +155,27 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertFalse(result)
         self.assertEqual(item["status"], "needs_review")
 
+    def test_direct_urdu_publisher_copy_does_not_put_urdu_in_english_line(self):
+        title = "وزیراعلیٰ نے اہم فیصلہ کر لیا"
+        excerpt = "صوبائی حکومت نے آج نئے فیصلے کا اعلان کیا۔"
+        story = {"event": title, "cluster": {"lead": {"title": title, "snippet": excerpt}},
+                 "original_source": {"name": "Geo News"}}
+        copy = newsroom.direct_publisher_copy(story)
+        self.assertEqual(copy["poster_headline_ur"], title)
+        self.assertEqual(copy["poster_headline_en"], "")
+        self.assertEqual(copy["summary_ur"], excerpt)
+        self.assertEqual(copy["summary_en"], "")
+
+    def test_direct_english_publisher_copy_stays_english(self):
+        title = "Supreme Court announces new hearing schedule"
+        excerpt = "The court published the revised schedule on Monday."
+        story = {"event": title, "cluster": {"lead": {"title": title, "snippet": excerpt}},
+                 "original_source": {"name": "BBC News"}}
+        copy = newsroom.direct_publisher_copy(story)
+        self.assertEqual(copy["poster_headline_ur"], "")
+        self.assertEqual(copy["poster_headline_en"], title)
+        self.assertEqual(copy["summary_en"], excerpt)
+
     def test_english_poster_keeps_explainer_visual(self):
         visual = {"type": "explainer", "title": "WHY THE COURT INTERVENED",
                   "points": [{"text": "A substantive explanation of the court decision and its immediate legal effect.",
