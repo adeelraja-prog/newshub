@@ -448,6 +448,18 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(newsroom.direct_normal_selection_budget(4, [1, 2, 3, 4], [5]), 3)
         self.assertEqual(newsroom.direct_normal_selection_budget(1, [1], [2]), 1)
         self.assertEqual(newsroom.direct_normal_selection_budget(4, [1, 2, 3, 4], []), 4)
+    def test_normal_post_obeys_full_ten_minute_gap(self):
+        last = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
+        item = {"qid": "normal", "status": "queued", "priority": "normal",
+                "not_before": last.isoformat(), "meta": {"editorial_priority_band": "P2",
+                "scores": {"composite": 80}}}
+        previous = {"qid": "previous", "status": "published", "priority": "normal",
+                    "published": {"time": last.isoformat()}}
+        queue = {"items": [previous, item]}
+        due, _ = newsroom.pick_due(queue, last + timedelta(minutes=9))
+        self.assertIsNone(due)
+        due, _ = newsroom.pick_due(queue, last + timedelta(minutes=10))
+        self.assertEqual(due["qid"], "normal")
     def test_breaking_post_obeys_global_ten_minute_gap(self):
         last = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
         item = {"qid": "breaking", "status": "queued", "priority": "breaking",
