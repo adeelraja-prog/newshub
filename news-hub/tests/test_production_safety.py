@@ -1,5 +1,8 @@
+import os
+import tempfile
 import unittest
 from datetime import datetime, timezone
+from unittest.mock import patch
 
 import main as newsroom
 
@@ -48,6 +51,22 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             "title": "Pakistan cabinet meets in Islamabad"
         }]}
         self.assertFalse(newsroom.is_direct_publisher_cluster(cluster))
+
+    def test_malformed_timestamp_is_rejected_without_exception(self):
+        self.assertFalse(newsroom.valid_timestamp("not-a-date"))
+        self.assertFalse(newsroom.valid_timestamp(None))
+        self.assertTrue(newsroom.valid_timestamp("2026-11-16T03:00:00+00:00"))
+
+    def test_facebook_success_without_post_id_is_not_counted_as_success(self):
+        class Response:
+            status_code = 200
+            def json(self):
+                return {}
+        with tempfile.NamedTemporaryFile() as image, patch.dict(os.environ, {
+            "FB_PAGE_ID": "test-page", "FB_PAGE_TOKEN": "test-token"
+        }), patch.object(newsroom.requests, "post", return_value=Response()):
+            with self.assertRaises(RuntimeError):
+                newsroom.post_facebook(image.name, "test caption")
 
     def test_nonbreaking_trusted_publisher_story_uses_normal_queue(self):
         instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
