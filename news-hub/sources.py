@@ -135,14 +135,16 @@ SOURCES = [
     gnews("Gaza Israel war when:3h", "War"),
     gnews("Ukraine Russia war when:3h", "War"),
     gnews("US election results when:3h", "US election"),
-    gnews("India Modi government opposition criticism protests policy accountability site:bbc.com/news when:3h", "BBC India politics"),
-    gnews("India Modi government courts parliament opposition protests site:reuters.com when:3h", "Reuters India politics"),
-    gnews("India government policy protests opposition site:apnews.com when:3h", "AP India politics"),
-    gnews("India Modi government scrutiny civil liberties economy site:theguardian.com when:3h", "The Guardian India"),
+    # India coverage is sourced ONLY from international publishers, never Indian outlets.
+    gnews("India Modi government opposition courts parliament policy protests site:bbc.com/news when:3h", "BBC India politics"),
+    gnews("India politics Modi government opposition courts parliament protests site:cnn.com when:3h", "CNN India politics"),
+    gnews("India politics Modi government opposition courts parliament protests site:aljazeera.com when:3h", "Al Jazeera India politics"),
     gnews("India entertainment Bollywood film cinema actors music site:bbc.com/news when:3h", "BBC India entertainment"),
-    gnews("India Bollywood entertainment film actors music site:reuters.com when:3h", "Reuters India entertainment"),
-    gnews("India entertainment Bollywood film industry site:apnews.com when:3h", "AP India entertainment"),
-    gnews("India cricket sports culture science technology site:bbc.com/news when:3h", "BBC India"),
+    gnews("India entertainment Bollywood film actors music site:cnn.com when:3h", "CNN India entertainment"),
+    gnews("India entertainment Bollywood film industry site:aljazeera.com when:3h", "Al Jazeera India entertainment"),
+    gnews("India cricket sports culture science technology site:bbc.com/news when:3h", "BBC India sports and culture"),
+    gnews("India cricket sports culture science technology site:cnn.com when:3h", "CNN India sports and culture"),
+    gnews("India cricket sports culture science technology site:aljazeera.com when:3h", "Al Jazeera India sports and culture"),
 
     # weather, fashion, lifestyle via Google News searches
     gnews("Pakistan weather forecast Met Department when:3h", "Weather"),
