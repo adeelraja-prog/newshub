@@ -833,7 +833,7 @@ def make_direct_publisher_story(cluster):
     # Only an explicit publisher marker triggers immediate breaking treatment.
     # Event words in an otherwise routine/older report must not bypass the queue.
     urgent = bool(re.match(
-        r"^\\s*(?:\\[?breaking\\]?|just in|developing|live\\s*[:—-])(?:\\b|\\s)",
+        r"^\s*(?:\[?breaking\]?|just in|developing|live\s*[:—-])(?:\b|\s)",
         headline, re.I
     ))
     source_type = "wire" if source_name.lower() in ("reuters", "associated press", "ap") else "published_report"
@@ -1915,7 +1915,7 @@ def main():
             normal_slots_left = max(0, QUEUE_CAP - depth)
             # Still inspect the candidate set at a full normal buffer so a genuinely
             # urgent breaking/high-priority item can bypass the routine buffer cap.
-            selection_limit = min(SELECT_N, normal_slots_left) if normal_slots_left else SELECT_N
+            selection_limit = min(SELECT_N, normal_slots_left)
             direct_ready = [s for s in stories if s.get("direct_source")]
             direct_breaking = [s for s in direct_ready if s.get("priority") == "breaking"]
             direct_normal = [s for s in direct_ready if s.get("priority") != "breaking"]
@@ -1958,10 +1958,12 @@ def main():
                 if not w:
                     continue
                 if s.get("priority") not in ("breaking", "high") and depth + normal_added >= QUEUE_CAP:
+                    s["cluster"]["hist"]["analysed_n"] = None
                     print(f"[queue] normal buffer full ({QUEUE_CAP}); holding for next cycle: {s['event'][:60]}")
                     continue
                 if s.get("priority") not in ("breaking", "high") and assign_slot(queue, t0) - t0 > timedelta(hours=MAX_AHEAD_H):
-                    print(f"[info] queue is full for the next {MAX_AHEAD_H}h; skipped: {s['event'][:60]}")
+                    s["cluster"]["hist"]["analysed_n"] = None
+                    print(f"[info] queue is full for the next {MAX_AHEAD_H}h; held for next cycle: {s['event'][:60]}")
                     continue
                 try:
                     it = enqueue(queue, s, w, build_caption(s, w), t0)
