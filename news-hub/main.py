@@ -1604,9 +1604,12 @@ def pick_due(queue, t0):
     if not due:
         return None, "nothing due yet"
     order = {"P1": 0, "P2": 1, "P3": 2, "P4": 3, "P5": 4}
-    due.sort(key=lambda i: (order.get((i.get("meta") or {}).get("editorial_priority_band", "P3"), 2),
-                            {"breaking": 0, "high": 1, "normal": 2}.get(i.get("priority"), 2),
-                            -((i.get("meta") or {}).get("scores") or {}).get("composite", 0)))
+    due.sort(key=lambda i: (
+        order.get((i.get("meta") or {}).get("editorial_priority_band", "P3"), 2),
+        {"breaking": 0, "high": 1, "normal": 2}.get(i.get("priority"), 2),
+        0 if (i.get("meta") or {}).get("direct_source") else 1,
+        -((i.get("meta") or {}).get("scores") or {}).get("composite", 0)
+    ))
     last = last_published(queue)
     today = t0.astimezone(PKT).date()
     done = count_day(queue, None, today, include_queued=False)
