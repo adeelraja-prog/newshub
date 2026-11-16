@@ -7635,7 +7635,7 @@
     },
     {
       "qid": "bdc6c5bcd0",
-      "status": "queued",
+      "status": "needs_review",
       "priority": "high",
       "created": "2026-11-16T02:33:25.063461+00:00",
       "not_before": "2026-11-16T02:33:25.063461+00:00",
@@ -7759,7 +7759,9 @@
           }
         ],
         "editorial_priority_band": "P2"
-      }
+      },
+      "needs_review_at": "2026-11-16T03:54:16.409Z",
+      "review_reason": "Trusted publisher identity lacks original publisher domain; do not publish until provenance is confirmed."
     },
     {
       "qid": "b652b5d4fa",
