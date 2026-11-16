@@ -830,10 +830,12 @@ def make_direct_publisher_story(cluster):
     headline = clean(lead.get("title") or cluster.get("title") or "")
     excerpt = clean(cluster.get("excerpt") or lead.get("snippet") or "")[:1500]
     global_outlet = any(x in source_name.lower() for x in ("bbc", "cnn", "al jazeera"))
-    breaking_terms = ("breaking", "just in", "developing", "live:", "blast", "attack",
-                      "explosion", "earthquake", "killed", "resigns", "court orders",
-                      "arrested", "crash", "emergency")
-    urgent = any(x in (headline + " " + excerpt).lower() for x in breaking_terms)
+    # Only an explicit publisher marker triggers immediate breaking treatment.
+    # Event words in an otherwise routine/older report must not bypass the queue.
+    urgent = bool(re.match(
+        r"^\\s*(?:\\[?breaking\\]?|just in|developing|live\\s*[:—-])(?:\\b|\\s)",
+        headline, re.I
+    ))
     source_type = "wire" if source_name.lower() in ("reuters", "associated press", "ap") else "published_report"
     story = {
         "id": cluster["id"], "cluster": cluster, "event": headline, "category": "other",
@@ -1954,7 +1956,13 @@ def main():
                 if s.get("priority") not in ("breaking", "high") and assign_slot(queue, t0) - t0 > timedelta(hours=MAX_AHEAD_H):
                     print(f"[info] queue is full for the next {MAX_AHEAD_H}h; skipped: {s['event'][:60]}")
                     continue
-                it = enqueue(queue, s, w, build_caption(s, w), t0)
+                try:
+                    it = enqueue(queue, s, w, build_caption(s, w), t0)
+                except Exception as queue_error:
+                    s["cluster"]["hist"]["analysed_n"] = None
+                    print(f"[queue] failed to enqueue; item retained for next cycle: {queue_error}")
+                    USAGE["errors"].append(str(queue_error)[:140])
+                    continue
                 if it["priority"] == "normal":
                     normal_added += 1
                 info["queued_now"].append(it)
