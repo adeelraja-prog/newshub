@@ -1,32 +1,32 @@
-# News Hub report - Mon 16 Nov, 06:35 PM PKT
+# News Hub report - Mon 16 Nov, 09:00 PM PKT
 
 ## Collection
-- New items this run: 260 | items in rolling pool: 838
-- Unique story clusters: 713 (duplicates merged: 125)
-- Clusters dropped as already published/queued: 17; unchanged since last analysis: 10
-- Items per outlet: UrduPoint 100, Geo News 18, ProPakistani 10, TechJuice 9, Al Jazeera 8, UNITED24 Media 8, Dawn 7, ARY News 7, Jang Urdu 7, X 7, samaa tv 6, Dawn Latest 5
+- New items this run: 255 | items in rolling pool: 939
+- Unique story clusters: 781 (duplicates merged: 158)
+- Clusters dropped as already published/queued: 14; unchanged since last analysis: 10
+- Items per outlet: UrduPoint 101, Geo News 22, TechJuice 11, ARY News 10, ProPakistani 10, Al Jazeera 9, BBC 7, Dawn 6, X 6, Engadget 6, Jang Urdu 5, The Verge 5
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- PTI Founder sends letter to Chief Justice of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- SBP says inflation to ease to 5-7pc target range during FY2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz approves facilitation centres for SMEs at district level | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab orders recall of five medicines over quality, safety concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US basketball player arrested with 34kg of cannabis at Nigerian airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China says Xi-Putin-Trump meeting has 'groundbreaking significance' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lukaku retires from international football | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Klopp says Infantino worse than Blatter | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Third US aircraft carrier arrives in Middle East amid tensions with Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- PTI Founder sends letter to Chief Justice of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- SBP says inflation to ease to 5-7pc target range during FY2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz approves facilitation centres for SMEs at district level | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab orders recall of five medicines over quality, safety concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US basketball player arrested with 34kg of cannabis at Nigerian airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China says Xi-Putin-Trump meeting has 'groundbreaking significance' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lukaku retires from international football | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Klopp says Infantino worse than Blatter | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Third US aircraft carrier arrives in Middle East amid tensions with Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- PTI Founder sends letter to Chief Justice of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- SBP says inflation to ease to 5-7pc target range during FY2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz approves facilitation centres for SMEs at district level | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab orders recall of five medicines over quality, safety concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US basketball player arrested with 34kg of cannabis at Nigerian airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China says Xi-Putin-Trump meeting has 'groundbreaking significance' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lukaku retires from international football | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Klopp says Infantino worse than Blatter | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Third US aircraft carrier arrives in Middle East amid tensions with Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
@@ -37,90 +37,90 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### PTI Founder sends letter to Chief Justice of Pakistan  [NORMAL]
-- Poster:  / PTI Founder sends letter to Chief Justice of Pakistan | category other
-- Alternative headline: PTI Founder sends letter to Chief Justice of Pakistan
+### China says Xi-Putin-Trump meeting has 'groundbreaking significance'  [NORMAL]
+- Poster:  / China says Xi-Putin-Trump meeting has 'groundbreaking significance' | category other
+- Alternative headline: China says Xi-Putin-Trump meeting has 'groundbreaking significance'
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/pti-founder-sends-letter-to-chief-justice-of-pakistan | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/pti-founder-sends-letter-to-chief-justice-of-pakistan
-- Supporting coverage: The Nation (Pakistan ), ARY News, Dunya News, X, X
-- Keywords: PTI Founder sends letter to | hashtags: 
-- Scheduled: Mon 16 Nov, 06:35 PM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/691272-china-says-xi-putin-trump-meeting-has-groundbreaking-significance | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691272-china-says-xi-putin-trump-meeting-has-groundbreaking-significance
+- Supporting coverage: Geo News, Geo News, U.S. News & World Report, Reuters
+- Keywords: China says Xi-Putin-Trump meeting has | hashtags: 
+- Scheduled: Mon 16 Nov, 09:00 PM PKT
 - Caption:
 ```
-PTI Founder sends letter to Chief Justice of Pakistan
+China says Xi-Putin-Trump meeting has 'groundbreaking significance'
 
-PTI Founder sends letter to Chief Justice of Pakistan
+Visitors stand in front of an artwork depicting US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping at an exhibition, which is called "Yalta 2.0" and opened to make a reference to the 1945 Yalta Conference, at an art gallery in Livadia park in Yalta,...
+
+Source: Geo News
+```
+
+### Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond  [NORMAL]
+- Poster:  / Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | category other
+- Alternative headline: Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/691340-judi-dench-snubs-robert-pattinson-nicholas-hoult-as-next-james-bond | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691340-judi-dench-snubs-robert-pattinson-nicholas-hoult-as-next-james-bond
+- Supporting coverage: Geo News, The Verge, Dawn Latest
+- Keywords: Judi Dench snubs Robert Pattinson, | hashtags: 
+- Scheduled: Mon 16 Nov, 09:10 PM PKT
+- Caption:
+```
+Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond
+
+Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond Dame Judi Dench has her own thoughts about who should play the next 007. The veteran actress — who has starred in eight James Bond films — told British Vogue over the weekend that an unknown actor would be her...
+
+Source: Geo News
+```
+
+### Lukaku retires from international football  [NORMAL]
+- Poster:  / Lukaku retires from international football | category other
+- Alternative headline: Lukaku retires from international football
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/lukaku-retires-from-international-football | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/lukaku-retires-from-international-football
+- Supporting coverage: ARY News, Al Jazeera
+- Keywords: Lukaku retires from international football | hashtags: 
+- Scheduled: Mon 16 Nov, 09:20 PM PKT
+- Caption:
+```
+Lukaku retires from international football
+
+Lukaku retires from international football
 
 Source: ARY News
 ```
 
-### SBP says inflation to ease to 5-7pc target range during FY2027  [NORMAL]
-- Poster:  / SBP says inflation to ease to 5-7pc target range during FY2027 | category other
-- Alternative headline: SBP says inflation to ease to 5-7pc target range during FY2027
+### Klopp says Infantino worse than Blatter  [NORMAL]
+- Poster:  / Klopp says Infantino worse than Blatter | category other
+- Alternative headline: Klopp says Infantino worse than Blatter
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2044936/sbp-says-inflation-to-ease-to-5-7pc-target-range-during-fy2027 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2044936/sbp-says-inflation-to-ease-to-5-7pc-target-range-during-fy2027
-- Supporting coverage: Reuters, Dawn Pakistan, Dawn
-- Keywords: SBP says inflation to ease | hashtags: 
-- Scheduled: Mon 16 Nov, 06:45 PM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, Al Jazeera
+- Keywords: Klopp says Infantino worse than | hashtags: 
+- Scheduled: Mon 16 Nov, 09:30 PM PKT
 - Caption:
 ```
-SBP says inflation to ease to 5-7pc target range during FY2027
+Klopp says Infantino worse than Blatter
 
-The State Bank of Pakistan (SBP) said on Monday that consumer price inflation was expected to gradually ease towards the medium-term target range of five to seven per cent during financial year 2027. Real GDP growth would remain in the range of 3.5-4.5pc, the bank said in a yearly report, which adde
+Germany manager Jurgen Klopp says he "didn't think things could get worse after Sepp Blatter, but someone has managed to do just that" as he calls for Fifa president Gianni Infantino to be replaced.
 
-Source: Dawn Pakistan
+Source: BBC World
 ```
 
-### PM Shehbaz approves facilitation centres for SMEs at district level  [NORMAL]
-- Poster:  / PM Shehbaz approves facilitation centres for SMEs at district level | category other
-- Alternative headline: PM Shehbaz approves facilitation centres for SMEs at district level
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkh6bzdNa2poOVdGNnBQQzJpM3pRaEVBRW85b09XVjREV0w2Z2g3Tmo0V29HWk5HbzlnaVJYY2R0bVFsa2MtQnVVWlpxMVZYcm9IUkFnc2p6SzB0VFJ6ZFIxcGljdlZKTmtCZnlOazMzemp1Snl0WElVcmQtYmpSZTFvM1B6aENlT2lrU3pHSXBRbFFoaEQ0R1E1TGhQd2tyQWd3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkh6bzdNa2poOVdGNnBQQzJpM3pRaEVBRW85b09XVjREV0w2Z2g3Tmo0V29HWk5HbzlnaVJYY2R0bVFsa2MtQnVVWlpxMVZYcm9IUkFnc2p6SzB0VFJ6ZFIxcGljdlZKTmtCZnlOazMzemp1Snl0WElVcmQtYmpSZTFvM1B6aENlT2lrU3pHSXBRbFFoaEQ0R1E1TGhQd2tyQWd3?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Investify, samaa tv
-- Keywords: PM Shehbaz approves facilitation centres | hashtags: 
-- Scheduled: Mon 16 Nov, 06:55 PM PKT
-- Caption:
-```
-PM Shehbaz approves facilitation centres for SMEs at district level
-
-PM Shehbaz approves facilitation centres for SMEs at district level Dawn
-
-Source: Dawn
-```
-
-### Punjab orders recall of five medicines over quality, safety concerns  [NORMAL]
-- Poster:  / Punjab orders recall of five medicines over quality, safety concerns | category other
-- Alternative headline: Punjab orders recall of five medicines over quality, safety concerns
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHVEdWRDWFNhMlk5VjZxOHVtb1k2bzRXY2g1ZjhYMGFhVHZGRUpneXRvSmVUZnpNTW1PS0syS2dnY09tWlVNZUhJb1VpU05YSlc5Mk1xWDNhdFFQNnhPRDM4dFpiWE5ZcWdEa1dnSFRydWhwQTBRTURqZmRkZEh1VXBfZ3Uzem1HNmtfRmlpOA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHVEdWRDWFNhMlk5VjZxOHVtb1k2bzRXY2g1ZjhYMGFhVHZGRUpneXRvSmVUZnpNTW1PS0syS2dnY09tWlVNZUhJb1VpU05YSlc5Mk1xWDNhdFFQNnhPRDM4dFpiWE5ZcWdEa1dnSFRydWhwQTBRTURqZmRkZEh1VXBfZ3Uzem1HNmtfRmlpOA?oc=5
-- Supporting coverage: ARYnews.tv, ARY News, ProPakistani
-- Keywords: Punjab orders recall of five | hashtags: 
-- Scheduled: Mon 16 Nov, 07:05 PM PKT
-- Caption:
-```
-Punjab orders recall of five medicines over quality, safety concerns
-
-Punjab orders recall of five medicines over quality, safety concerns ARYnews.tv
-
-Source: ARYnews.tv
-```
-
-- Indian outlets blocked this run: 12 items
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 13
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -191,9 +191,9 @@ Source: ARYnews.tv
 - [needs_review] normal | England topple Spain as Belgium smash Italy to reach Nations League qu | Mon 16 Nov, 12:19 PM PKT
 - [needs_review] normal | How Russia is preparing Iran for the next escalation | Mon 16 Nov, 12:29 PM PKT
 - [published] normal | US and rivals spar over next UN boss as race lurches towards deadline | Mon 16 Nov, 12:39 PM PKT
-- [queued] normal | I had to explain to my teacher what a young carer was - we need more s | Mon 16 Nov, 12:49 PM PKT
-- [queued] normal | Iran war live: Third US carrier arrives, Iran warns it could strike fi | Mon 16 Nov, 02:58 PM PKT
-- [queued] normal | Geo Pakistan | 16 November 2026 | Mon 16 Nov, 03:08 PM PKT
+- [needs_review] normal | I had to explain to my teacher what a young carer was - we need more s | Mon 16 Nov, 12:49 PM PKT
+- [needs_review] normal | Iran war live: Third US carrier arrives, Iran warns it could strike fi | Mon 16 Nov, 02:58 PM PKT
+- [published] normal | Geo Pakistan | 16 November 2026 | Mon 16 Nov, 03:08 PM PKT
 - [queued] normal | Pakistan Shaheens leave for Rising Stars Asia Cup | Mon 16 Nov, 03:18 PM PKT
 - [queued] normal | Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid acc | Mon 16 Nov, 03:28 PM PKT
 - [queued] normal | 13-year-old girl's murder case: Islamabad court grants police 4-day ph | Mon 16 Nov, 04:24 PM PKT
@@ -204,9 +204,13 @@ Source: ARYnews.tv
 - [queued] normal | SBP says inflation to ease to 5-7pc target range during FY2027 | Mon 16 Nov, 06:45 PM PKT
 - [queued] normal | PM Shehbaz approves facilitation centres for SMEs at district level | Mon 16 Nov, 06:55 PM PKT
 - [queued] normal | Punjab orders recall of five medicines over quality, safety concerns | Mon 16 Nov, 07:05 PM PKT
+- [queued] normal | China says Xi-Putin-Trump meeting has 'groundbreaking significance' | Mon 16 Nov, 09:00 PM PKT
+- [queued] normal | Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | Mon 16 Nov, 09:10 PM PKT
+- [queued] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
+- [queued] normal | Klopp says Infantino worse than Blatter | Mon 16 Nov, 09:30 PM PKT
 
 ## Publishing this run
-- Published 'US and rivals spar over next UN boss as race lurches towards deadline'.
+- Published 'Geo Pakistan | 16 November 2026'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
