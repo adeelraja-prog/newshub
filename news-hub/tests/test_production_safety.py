@@ -126,6 +126,14 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
                               "title": "National Assembly session begins"}]}
         self.assertFalse(newsroom.is_direct_publisher_cluster(cluster))
 
+    def test_google_news_wrapper_uses_original_publisher_domain_for_fast_lane(self):
+        cluster = {"members": [{
+            "source": "Geo News", "kind": "gnews", "source_verified": True,
+            "publisher_url": "https://www.geo.tv", "link": "https://news.google.com/rss/articles/example",
+            "title": "National Assembly session begins"
+        }]}
+        self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
+
     def test_bbc_pakistan_story_does_not_use_fast_lane(self):
         cluster = {"members": [{
             "source": "BBC News", "link": "https://news.google.com/rss/articles/example",
