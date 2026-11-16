@@ -503,6 +503,9 @@ def is_approved_india_source(name, link):
 def is_blocked(name, link, text=""):
     """Reject Indian outlets and India stories from any publisher except BBC, CNN and Al Jazeera."""
     n = (name or "").lower().strip()
+    # An approved original international publisher is allowed, except for Pakistan-related reports.
+    if is_approved_india_source(name, link):
+        return is_international_pakistan_item(name, link, text)
     if n in BLOCKED_EXACT or any(b in n for b in BLOCKED_NAMES):
         return True
     host = urlparse(link or "").hostname or ""
