@@ -85,7 +85,7 @@ jobs:
           elif [ -f /tmp/data/reports/latest.md ]; then
             cp /tmp/data/reports/latest.md audit-artifacts/latest-report.md
           fi
-          find posters -maxdepth 1 -type f -name '*.jpg' -mmin -15 -exec cp {} audit-artifacts/posters/ \\; 2>/dev/null || true
+          find posters -maxdepth 1 -type f -name '*.jpg' -mmin -15 -exec cp {} audit-artifacts/posters/ \; 2>/dev/null || true
           printf 'run_id=%s\\nevent=%s\\nsha=%s\\n' "${GITHUB_RUN_ID}" "${GITHUB_EVENT_NAME}" "${GITHUB_SHA}" > audit-artifacts/run-metadata.txt
       - name: Upload newsroom diagnostics and poster previews
         if: always()
