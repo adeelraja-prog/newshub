@@ -63,6 +63,14 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(cluster["members"], [dawn])
         self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
 
+    def test_non_fast_lane_ai_failure_does_not_discard_fast_lane_story(self):
+        with patch.object(newsroom, "is_direct_publisher_cluster",
+                          side_effect=lambda cluster: bool(cluster.get("direct"))), \
+             patch.object(newsroom, "make_direct_publisher_story", return_value={"id": "trusted"}), \
+             patch.object(newsroom, "analyse_ai", side_effect=RuntimeError("AI offline")):
+            result = newsroom.analyse([{"direct": True}, {"direct": False}])
+        self.assertEqual(result, [{"id": "trusted"}])
+
     def test_malformed_timestamp_is_rejected_without_exception(self):
         self.assertFalse(newsroom.valid_timestamp("not-a-date"))
         self.assertFalse(newsroom.valid_timestamp(None))
