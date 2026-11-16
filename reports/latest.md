@@ -1,32 +1,32 @@
-# News Hub report - Mon 16 Nov, 04:24 PM PKT
+# News Hub report - Mon 16 Nov, 06:35 PM PKT
 
 ## Collection
-- New items this run: 183 | items in rolling pool: 617
-- Unique story clusters: 537 (duplicates merged: 80)
-- Clusters dropped as already published/queued: 20; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 60, Geo News 14, ProPakistani 11, Dunya News 10, Al Jazeera 9, samaa tv 8, ARY News 6, Dawn 4, The Express Tribune 4, Investify 4, X 3, The Current 3
+- New items this run: 260 | items in rolling pool: 838
+- Unique story clusters: 713 (duplicates merged: 125)
+- Clusters dropped as already published/queued: 17; unchanged since last analysis: 10
+- Items per outlet: UrduPoint 100, Geo News 18, ProPakistani 10, TechJuice 9, Al Jazeera 8, UNITED24 Media 8, Dawn 7, ARY News 7, Jang Urdu 7, X 7, samaa tv 6, Dawn Latest 5
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Prince and Princess of Wales play street cricket in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tehran trusts Islamabad as ‘good friend’, says Araghchi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI Founder sends letter to Chief Justice of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP says inflation to ease to 5-7pc target range during FY2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz approves facilitation centres for SMEs at district level | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab orders recall of five medicines over quality, safety concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US basketball player arrested with 34kg of cannabis at Nigerian airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Prince and Princess of Wales play street cricket in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tehran trusts Islamabad as ‘good friend’, says Araghchi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI Founder sends letter to Chief Justice of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP says inflation to ease to 5-7pc target range during FY2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz approves facilitation centres for SMEs at district level | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab orders recall of five medicines over quality, safety concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US basketball player arrested with 34kg of cannabis at Nigerian airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Prince and Princess of Wales play street cricket in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tehran trusts Islamabad as ‘good friend’, says Araghchi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI Founder sends letter to Chief Justice of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP says inflation to ease to 5-7pc target range during FY2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz approves facilitation centres for SMEs at district level | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab orders recall of five medicines over quality, safety concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US basketball player arrested with 34kg of cannabis at Nigerian airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
@@ -37,90 +37,90 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects  [NORMAL]
-- Poster:  / 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects | category other
-- Alternative headline: 13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects
+### PTI Founder sends letter to Chief Justice of Pakistan  [NORMAL]
+- Poster:  / PTI Founder sends letter to Chief Justice of Pakistan | category other
+- Alternative headline: PTI Founder sends letter to Chief Justice of Pakistan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0FpXzF1WGotMVFLM2RrelhuZnlmMFR6MjhLazlYWE1fUm1kTGFwWGh0UnJuVW1LakVOYVFOVEgzZlBseFZCSmJqUVE0aW92NTVEVHl6N3RDMUdEWE9wcWh4cms0Y2xGU2dUaElkd2N4ejlxWHBRZk9NQVA4Qm84ZzZ3TVNuSElCLUFNVEZBM0dCaVcxZUdnVU1aRl84SjVkQXZ5cE5rUDd6aTBNejFxMkJKWFBVcEQ0UGlhbms3bmR6UQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0FpXzF1WGotMVFLM2RrelhuZnlmMFR6MjhLazlYWE1fUm1kTGFwWGh0UnJuVW1LakVOYVFOVEgzZlBseFZCSmJqUVE0aW92NTVEVHl6N3RDMUdEWE9wcWh4cms0Y2xGU2dUaElkd2N4ejlxWHBRZk9NQVA4Qm84ZzZ3TVNuSElCLUFNVEZBM0dCaVcxZUdnVU1aRl84SjVkQXZ5cE5rUDd6aTBNejFxMkJKWFBVcEQ0UGlhbms3bmR6UQ?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan, Dawn Pakistan
-- Keywords: 13-year-old girl's murder case: Islamabad | hashtags: 
-- Scheduled: Mon 16 Nov, 04:24 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/pti-founder-sends-letter-to-chief-justice-of-pakistan | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/pti-founder-sends-letter-to-chief-justice-of-pakistan
+- Supporting coverage: The Nation (Pakistan ), ARY News, Dunya News, X, X
+- Keywords: PTI Founder sends letter to | hashtags: 
+- Scheduled: Mon 16 Nov, 06:35 PM PKT
 - Caption:
 ```
-13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects
+PTI Founder sends letter to Chief Justice of Pakistan
 
-13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects Dawn
+PTI Founder sends letter to Chief Justice of Pakistan
 
-Source: Dawn
+Source: ARY News
 ```
 
-### Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO  [NORMAL]
-- Poster:  / Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO | category other
-- Alternative headline: Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO
+### SBP says inflation to ease to 5-7pc target range during FY2027  [NORMAL]
+- Poster:  / SBP says inflation to ease to 5-7pc target range during FY2027 | category other
+- Alternative headline: SBP says inflation to ease to 5-7pc target range during FY2027
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEUzRE1RNWRobzl4ZjZ0aVBLYlhvRkZBNUJTUW5UQ0tNdFVXdUlLX0RuaC14RGRsc0FNTHo2WTlWVnlVb1ZNWmhvUXgtTGRfZGVRQUc1dVNVcVV5dElVWXI5d2w5LVYwTjc0ZHN4Z2RLX09MZmFWVlA1LW1JZWtJZy1vUkVfRWU3ZTZuTzZrWUZvRTR1TEpRNlBfRnN3WkxvSzVpaHZSLWJveExnRk05dk43em1yMUx5?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEUzRE1RNWRobzl4ZjZ0aVBLYlhvRkZBNUJTUW5UQ0tNdFVXdUlLX0RuaC14RGRsc0FNTHo2WTlWVnlVb1ZNWmhvUXgtTGRfZGVRQUc1dVNVcVV5dElVWXI5d2w5LVYwTjc0ZHN4Z2RLX09MZmFWVlA1LW1JZWtJZy1vUkVfRWU3ZTZuTzZrWUZvRTR1TEpRNlBfRnN3WkxvSzVpaHZSLWJveExnRk05dk43em1yMUx5?oc=5
-- Supporting coverage: Geo News, The Current, Dawn
-- Keywords: Action against terrorism must for | hashtags: 
-- Scheduled: Mon 16 Nov, 04:34 PM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2044936/sbp-says-inflation-to-ease-to-5-7pc-target-range-during-fy2027 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2044936/sbp-says-inflation-to-ease-to-5-7pc-target-range-during-fy2027
+- Supporting coverage: Reuters, Dawn Pakistan, Dawn
+- Keywords: SBP says inflation to ease | hashtags: 
+- Scheduled: Mon 16 Nov, 06:45 PM PKT
 - Caption:
 ```
-Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO
+SBP says inflation to ease to 5-7pc target range during FY2027
 
-Action against terrorism must for economic cooperation with Afghanistan, Pakistan tells ECO Geo News
-
-Source: Geo News
-```
-
-### In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi  [NORMAL]
-- Poster:  / In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi | category other
-- Alternative headline: In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2044922/in-open-letter-to-fcc-sc-and-ihc-chief-justices-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2044922/in-open-letter-to-fcc-sc-and-ihc-chief-justices-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi
-- Supporting coverage: Dawn Pakistan, Pakistan Observer, Dawn Pakistan
-- Keywords: In open letter to FCC, | hashtags: 
-- Scheduled: Mon 16 Nov, 04:44 PM PKT
-- Caption:
-```
-In open letter to FCC, SC and IHC chief justices, Imran pleads for medical treatment for him and Bushra Bibi
-
-Incarcerated PTI founder and former prime minister Imran Khan on Monday appealed for medical treatment for himself and his wife Bushra Bibi in an open letter to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and the Islamabad High Court (IHC). The letter was sha
+The State Bank of Pakistan (SBP) said on Monday that consumer price inflation was expected to gradually ease towards the medium-term target range of five to seven per cent during financial year 2027. Real GDP growth would remain in the range of 3.5-4.5pc, the bank said in a yearly report, which adde
 
 Source: Dawn Pakistan
 ```
 
-### Prince and Princess of Wales play street cricket in Mumbai  [NORMAL]
-- Poster:  / Prince and Princess of Wales play street cricket in Mumbai | category other
-- Alternative headline: Prince and Princess of Wales play street cricket in Mumbai
+### PM Shehbaz approves facilitation centres for SMEs at district level  [NORMAL]
+- Poster:  / PM Shehbaz approves facilitation centres for SMEs at district level | category other
+- Alternative headline: PM Shehbaz approves facilitation centres for SMEs at district level
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fbS1sY1ZfRk9BeHM3TmZZSDFnNjBJMTZSNVpDS2RtX2xLSG5nNU50UXVXV3RIRXN1QkxSY3c2X2tLLTc3WVRqanpmRHg0LXo5QmZsR052NjA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fbS1sY1ZfRk9BeHM3TmZZSDFnNjBJMTZSNVpDS2RtX2xLSG5nNU50UXVXV3RIRXN1QkxSY3c2X2tLLTc3WVRqanpmRHg0LXo5QmZsR052NjA?oc=5
-- Supporting coverage: BBC
-- Keywords: Prince and Princess of Wales | hashtags: 
-- Scheduled: Mon 16 Nov, 04:54 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkh6bzdNa2poOVdGNnBQQzJpM3pRaEVBRW85b09XVjREV0w2Z2g3Tmo0V29HWk5HbzlnaVJYY2R0bVFsa2MtQnVVWlpxMVZYcm9IUkFnc2p6SzB0VFJ6ZFIxcGljdlZKTmtCZnlOazMzemp1Snl0WElVcmQtYmpSZTFvM1B6aENlT2lrU3pHSXBRbFFoaEQ0R1E1TGhQd2tyQWd3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkh6bzdNa2poOVdGNnBQQzJpM3pRaEVBRW85b09XVjREV0w2Z2g3Tmo0V29HWk5HbzlnaVJYY2R0bVFsa2MtQnVVWlpxMVZYcm9IUkFnc2p6SzB0VFJ6ZFIxcGljdlZKTmtCZnlOazMzemp1Snl0WElVcmQtYmpSZTFvM1B6aENlT2lrU3pHSXBRbFFoaEQ0R1E1TGhQd2tyQWd3?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Investify, samaa tv
+- Keywords: PM Shehbaz approves facilitation centres | hashtags: 
+- Scheduled: Mon 16 Nov, 06:55 PM PKT
 - Caption:
 ```
-Prince and Princess of Wales play street cricket in Mumbai
+PM Shehbaz approves facilitation centres for SMEs at district level
 
-Prince and Princess of Wales play street cricket in Mumbai BBC
+PM Shehbaz approves facilitation centres for SMEs at district level Dawn
 
-Source: BBC
+Source: Dawn
 ```
 
-- Indian outlets blocked this run: 10 items
+### Punjab orders recall of five medicines over quality, safety concerns  [NORMAL]
+- Poster:  / Punjab orders recall of five medicines over quality, safety concerns | category other
+- Alternative headline: Punjab orders recall of five medicines over quality, safety concerns
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHVEdWRDWFNhMlk5VjZxOHVtb1k2bzRXY2g1ZjhYMGFhVHZGRUpneXRvSmVUZnpNTW1PS0syS2dnY09tWlVNZUhJb1VpU05YSlc5Mk1xWDNhdFFQNnhPRDM4dFpiWE5ZcWdEa1dnSFRydWhwQTBRTURqZmRkZEh1VXBfZ3Uzem1HNmtfRmlpOA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHVEdWRDWFNhMlk5VjZxOHVtb1k2bzRXY2g1ZjhYMGFhVHZGRUpneXRvSmVUZnpNTW1PS0syS2dnY09tWlVNZUhJb1VpU05YSlc5Mk1xWDNhdFFQNnhPRDM4dFpiWE5ZcWdEa1dnSFRydWhwQTBRTURqZmRkZEh1VXBfZ3Uzem1HNmtfRmlpOA?oc=5
+- Supporting coverage: ARYnews.tv, ARY News, ProPakistani
+- Keywords: Punjab orders recall of five | hashtags: 
+- Scheduled: Mon 16 Nov, 07:05 PM PKT
+- Caption:
+```
+Punjab orders recall of five medicines over quality, safety concerns
+
+Punjab orders recall of five medicines over quality, safety concerns ARYnews.tv
+
+Source: ARYnews.tv
+```
+
+- Indian outlets blocked this run: 12 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 13
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -185,12 +185,12 @@ Source: BBC
 - [needs_review] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
 - [needs_review] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
 - [published] normal | Indonesian president apologises to Singapore, Malaysia for wildfire ha | Mon 16 Nov, 10:31 AM PKT
-- [queued] normal | Iraqi armed group denies involvement in oil smuggling, calls probe a ‘ | Mon 16 Nov, 10:41 AM PKT
-- [queued] normal | Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in  | Mon 16 Nov, 10:51 AM PKT
-- [queued] normal | Pope Leo flies to mass in the Papacoptero | Mon 16 Nov, 11:01 AM PKT
-- [queued] normal | England topple Spain as Belgium smash Italy to reach Nations League qu | Mon 16 Nov, 12:19 PM PKT
-- [queued] normal | How Russia is preparing Iran for the next escalation | Mon 16 Nov, 12:29 PM PKT
-- [queued] normal | US and rivals spar over next UN boss as race lurches towards deadline | Mon 16 Nov, 12:39 PM PKT
+- [needs_review] normal | Iraqi armed group denies involvement in oil smuggling, calls probe a ‘ | Mon 16 Nov, 10:41 AM PKT
+- [needs_review] normal | Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in  | Mon 16 Nov, 10:51 AM PKT
+- [needs_review] normal | Pope Leo flies to mass in the Papacoptero | Mon 16 Nov, 11:01 AM PKT
+- [needs_review] normal | England topple Spain as Belgium smash Italy to reach Nations League qu | Mon 16 Nov, 12:19 PM PKT
+- [needs_review] normal | How Russia is preparing Iran for the next escalation | Mon 16 Nov, 12:29 PM PKT
+- [published] normal | US and rivals spar over next UN boss as race lurches towards deadline | Mon 16 Nov, 12:39 PM PKT
 - [queued] normal | I had to explain to my teacher what a young carer was - we need more s | Mon 16 Nov, 12:49 PM PKT
 - [queued] normal | Iran war live: Third US carrier arrives, Iran warns it could strike fi | Mon 16 Nov, 02:58 PM PKT
 - [queued] normal | Geo Pakistan | 16 November 2026 | Mon 16 Nov, 03:08 PM PKT
@@ -200,9 +200,13 @@ Source: BBC
 - [queued] normal | Action against terrorism must for economic cooperation with Afghanista | Mon 16 Nov, 04:34 PM PKT
 - [queued] normal | In open letter to FCC, SC and IHC chief justices, Imran pleads for med | Mon 16 Nov, 04:44 PM PKT
 - [queued] normal | Prince and Princess of Wales play street cricket in Mumbai | Mon 16 Nov, 04:54 PM PKT
+- [queued] normal | PTI Founder sends letter to Chief Justice of Pakistan | Mon 16 Nov, 06:35 PM PKT
+- [queued] normal | SBP says inflation to ease to 5-7pc target range during FY2027 | Mon 16 Nov, 06:45 PM PKT
+- [queued] normal | PM Shehbaz approves facilitation centres for SMEs at district level | Mon 16 Nov, 06:55 PM PKT
+- [queued] normal | Punjab orders recall of five medicines over quality, safety concerns | Mon 16 Nov, 07:05 PM PKT
 
 ## Publishing this run
-- Published 'Indonesian president apologises to Singapore, Malaysia for wildfire haze'.
+- Published 'US and rivals spar over next UN boss as race lurches towards deadline'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
