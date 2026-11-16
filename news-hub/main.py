@@ -1982,11 +1982,13 @@ def main():
             ordinary_breaking = [s for s in ordinary_ready
                                  if ep.priority_band(s, trusted_publisher=is_trusted_publisher_story(s)) == "P1"]
             chosen.extend(ordinary_breaking[:max(0, SELECT_N - len(chosen))])
+            ordinary_regular = [s for s in ordinary_ready if s.get("id") not in
+                                {x.get("id") for x in ordinary_breaking}]
             remaining = max(0, selection_limit - len(chosen))
             chosen.extend(direct_normal[:remaining])
             remaining = max(0, selection_limit - len(chosen))
             if remaining:
-                chosen.extend(ed.select_balanced(ordinary_ready, remaining, MIN_CONFIDENCE, min_comp,
+                chosen.extend(ed.select_balanced(ordinary_regular, remaining, MIN_CONFIDENCE, min_comp,
                                                   BREAK_URGENCY, BREAK_CONFIDENCE))
             # Ordinary AI-reviewed candidates can be marked analysed now. Direct-publisher
             # candidates are checkpointed only after a queue write actually succeeds.
