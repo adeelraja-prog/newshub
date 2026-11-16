@@ -111,6 +111,17 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(story["priority"], "breaking")
         self.assertEqual(story["editorial_priority_band"], "P1")
 
+    def test_facebook_photo_object_id_alone_is_not_a_feed_post_confirmation(self):
+        class Response:
+            status_code = 200
+            def json(self):
+                return {"id": "photo-object-only"}
+        with tempfile.NamedTemporaryFile() as image, patch.dict(os.environ, {
+            "FB_PAGE_ID": "test-page", "FB_PAGE_TOKEN": "test-token"
+        }), patch.object(newsroom.requests, "post", return_value=Response()):
+            with self.assertRaises(RuntimeError):
+                newsroom.post_facebook(image.name, "test caption")
+
     def test_nonbreaking_trusted_publisher_story_uses_normal_queue(self):
         instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
         member = {"source": "Dawn", "link": "https://www.dawn.com/news/example",
