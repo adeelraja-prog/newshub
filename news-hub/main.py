@@ -881,14 +881,11 @@ def is_fast_lane_member(member):
     allowed_domains = set(TRUSTED_PUBLISHERS) | INTERNATIONAL_DESKS
     if any(host == d or host.endswith("." + d) for d in allowed_domains):
         return not is_international_pakistan_item(name, url, member.get("title", ""))
-    # A Google News display label alone is not proof of publisher identity.
-    # Require its publisher field or a publisher-specific site: query. Direct RSS
-    # entries must match an approved publisher domain above.
-    if member.get("kind") != "gnews" or not member.get("source_verified"):
-        return False
-    return name in FAST_LANE_NAMES and not is_international_pakistan_item(
-        name, url, member.get("title", "")
-    )
+    # A feed label or Google News wrapper is not original-publisher provenance.
+    # Fast-lane status requires the article URL itself to belong to an allowlisted
+    # publisher domain. Google News search results remain discovery leads until a
+    # direct publisher URL is available.
+    return False
 
 
 def is_direct_publisher_cluster(cluster):
