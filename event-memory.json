@@ -40915,7 +40915,323 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5588b27d61feb927110b2e5e",
+      "remembered_at": "2026-11-16T21:21:22.597447+00:00",
+      "event_date": "2026-11-16T21:16:02+00:00",
+      "last_update": "2026-11-16T21:16:02+00:00",
+      "event": "Mamdani to disband NYPD unit deployed at Columbia protests",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "city",
+        "columbia",
+        "deployed",
+        "disband",
+        "disbanding",
+        "group",
+        "mamdani",
+        "mayor",
+        "new",
+        "nypd",
+        "protests",
+        "response",
+        "says",
+        "srg",
+        "strategic",
+        "the",
+        "unit",
+        "york",
+        "zohran"
+      ],
+      "source_excerpt": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
+          "published_at": "2026-11-16T21:16:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe7d34e1296bca6a1ee6e662",
+      "remembered_at": "2026-11-16T21:21:22.597447+00:00",
+      "event_date": "2026-11-16T21:06:19+00:00",
+      "last_update": "2026-11-16T21:06:19+00:00",
+      "event": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "and",
+        "army",
+        "attack",
+        "children",
+        "destroyed",
+        "emergency",
+        "group",
+        "homes",
+        "killed",
+        "kills",
+        "kordofan",
+        "lawyers",
+        "monitoring",
+        "preliminary",
+        "rights",
+        "says",
+        "shows",
+        "sudan",
+        "sudanese",
+        "west",
+        "western",
+        "women"
+      ],
+      "source_excerpt": "'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+          "published_at": "2026-11-16T21:06:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f4bf66f011e31090a2201cf0",
+      "remembered_at": "2026-11-16T21:21:22.597447+00:00",
+      "event_date": "2026-11-16T21:00:22+00:00",
+      "last_update": "2026-11-16T21:00:22+00:00",
+      "event": "Manchester United’s Endless Loop",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "almost",
+        "and",
+        "eight",
+        "endless",
+        "hiring",
+        "loop",
+        "managers",
+        "manchester",
+        "million",
+        "permanent",
+        "sacking",
+        "spent",
+        "still",
+        "thirteen",
+        "united",
+        "years"
+      ],
+      "source_excerpt": "Thirteen years, eight permanent managers, almost £100 million spent on sacking and hiring — and still no hiring",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
+          "published_at": "2026-11-16T21:00:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0cfbe56be45e460a2a43d1ab",
+      "remembered_at": "2026-11-16T21:21:22.597447+00:00",
+      "event_date": "2026-11-16T20:42:18+00:00",
+      "last_update": "2026-11-16T20:42:18+00:00",
+      "event": "Photos: California residents gather to watch massive El Nino-fuelled waves",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "california",
+        "coast",
+        "could",
+        "fuelled",
+        "gather",
+        "high",
+        "impact",
+        "massive",
+        "metres",
+        "more",
+        "national",
+        "nino",
+        "parts",
+        "photos",
+        "residents",
+        "service",
+        "some",
+        "than",
+        "that",
+        "warns",
+        "watch",
+        "waves",
+        "weather"
+      ],
+      "source_excerpt": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US's California coast.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
+          "published_at": "2026-11-16T20:42:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "40d0ddc98117f997d1d36cf0",
+      "remembered_at": "2026-11-16T21:21:22.597447+00:00",
+      "event_date": "2026-11-16T20:36:25+00:00",
+      "last_update": "2026-11-16T20:36:25+00:00",
+      "event": "London Palestine Film Festival returns for 27th year",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1999",
+        "27th",
+        "big",
+        "brought",
+        "festival",
+        "film",
+        "for",
+        "has",
+        "london",
+        "palestine",
+        "palestinian",
+        "returns",
+        "screen",
+        "since",
+        "stories",
+        "the",
+        "year"
+      ],
+      "source_excerpt": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+          "published_at": "2026-11-16T20:36:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2292c0548488ff921a6e65bd",
+      "remembered_at": "2026-11-16T21:21:22.597447+00:00",
+      "event_date": "2026-11-16T20:41:33+00:00",
+      "last_update": "2026-11-16T20:41:33+00:00",
+      "event": "ECO endorses Iran's push for lasting peace, praises Pakistan's mediation during crisis",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "crisis",
+        "during",
+        "eco",
+        "endorses",
+        "for",
+        "geo",
+        "iran",
+        "lasting",
+        "mediation",
+        "news",
+        "pakistan",
+        "peace",
+        "praises",
+        "push"
+      ],
+      "source_excerpt": "ECO endorses Iran's push for lasting peace, praises Pakistan's mediation during crisis Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkxCUjRpS1Z3QzM4RjZUYzVvclU2eENSX0pHQnZrdHVsUjV0NFEwVHUwNzFVZnNPd2F3RkhyYnhacnJGV2VQdENPVG5nVS1RLWFydEJtM2lPSWJSckZROGt0R19abXM4dGxobjc5ZUJMQlhQandNbzlsRHpVcS1RRTNSVFF5TVduc0RfV1Q2UjJIZDBkZVNxUXp5N0xoS3FWZ2RHT0ZHVzYzbzFaR3paT0RaZ29MMjg?oc=5",
+          "published_at": "2026-11-16T20:41:33+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691385-eco-endorses-irans-push-for-lasting-peace-praises-pakistans-mediation-during-crisis",
+          "published_at": "2026-11-16T20:41:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkxCUjRpS1Z3QzM4RjZUYzVvclU2eENSX0pHQnZrdHVsUjV0NFEwVHUwNzFVZnNPd2F3RkhyYnhacnJGV2VQdENPVG5nVS1RLWFydEJtM2lPSWJSckZROGt0R19abXM4dGxobjc5ZUJMQlhQandNbzlsRHpVcS1RRTNSVFF5TVduc0RfV1Q2UjJIZDBkZVNxUXp5N0xoS3FWZ2RHT0ZHVzYzbzFaR3paT0RaZ29MMjg?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-16T20:20:49.745802+00:00"
+  "updated_at": "2026-11-16T21:21:22.597447+00:00"
 }

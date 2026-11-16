@@ -1,138 +1,138 @@
-# News Hub report - Tue 17 Nov, 01:20 AM PKT
+# News Hub report - Tue 17 Nov, 02:21 AM PKT
 
 ## Collection
-- New items this run: 40 | items in rolling pool: 777
-- Unique story clusters: 649 (duplicates merged: 128)
-- Clusters dropped as already published/queued: 21; unchanged since last analysis: 10
-- Items per outlet: Al Jazeera 6, The Express Tribune 4, ARY News 4, The Verge 4, TechCrunch 3, Engadget 3, Ars Technica 3, Geo News 2, Pakistan Today 2, BBC World 2, UrduPoint 1, Breakingthenews.net 1
+- New items this run: 34 | items in rolling pool: 642
+- Unique story clusters: 530 (duplicates merged: 112)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 12
+- Items per outlet: Pakistan Today 7, Al Jazeera 6, The Verge 5, Geo News 3, Ars Technica 3, Engadget 2, ARYnews.tv 1, ARY News 1, Jang Urdu 1, X 1, TechCrunch 1, GSMArena 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Saudi Arabia dismisses commander of anti-Houthi coalition: state media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What will Europe do next in Ukraine? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drake and John Summit's views on Grammys align as 2027 nominations are announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thousands report difficulties accessing accounts online at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nationwide ground stop could cost US airlines hundreds of millions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli opposition accuses Netanyahu of attempted ‘coup’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Saudi Arabia dismisses commander of anti-Houthi coalition: state media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What will Europe do next in Ukraine? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drake and John Summit's views on Grammys align as 2027 nominations are announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thousands report difficulties accessing accounts online at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nationwide ground stop could cost US airlines hundreds of millions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli opposition accuses Netanyahu of attempted ‘coup’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Saudi Arabia dismisses commander of anti-Houthi coalition: state media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What will Europe do next in Ukraine? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drake and John Summit's views on Grammys align as 2027 nominations are announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thousands report difficulties accessing accounts online at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nationwide ground stop could cost US airlines hundreds of millions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli opposition accuses Netanyahu of attempted ‘coup’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 79/107 | empty: 4 | failed: 24 | malformed/partial: 24
-- Trusted publisher desks with at least one healthy source: 9/10
+- Overall feeds with entries: 83/107 | empty: 2 | failed: 22 | malformed/partial: 22
+- Trusted publisher desks with at least one healthy source: 8/10
 - ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Capital TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: AJK Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Express News
+- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Rights and Accountability Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: AP World | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Express News, Dunya News TV
 
 ## Selected for the queue
-### Saudi Arabia dismisses commander of anti-Houthi coalition: state media  [NORMAL]
-- Poster:  / Saudi Arabia dismisses commander of anti-Houthi coalition: state media | category other
-- Alternative headline: Saudi Arabia dismisses commander of anti-Houthi coalition: state media
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmdwNnFTRUszLVJWRUNFVnhLcVJoXzZjSGJtdC01SFVOS0VqXzg2dWdnOWZOUF84ZmhuT2xqdlQ4LUNOY1YyNlpsVzM0U3NVUElPckhsdXVncGdET0Nvclo3LTdoaTg5dG11UV9hUjhfQ0xoandmTlJTNE1sZmJYalJPYWRXRWNjYkxrcWpFSmVndHAtWjgwNlg4blBqbnlxZ1kxSzhn?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmdwNnFTRUszLVJWRUNFVnhLcVJoXzZjSGJtdC01SFVOS0VqXzg2dWdnOWZOUF84ZmhuT2xqdlQ4LUNOY1YyNlpsVzM0U3NVUElPckhsdXVncGdET0Nvclo3LTdoaTg5dG11UV9hUjhfQ0xoandmTlJTNE1sZmJYalJPYWRXRWNjYkxrcWpFSmVndHAtWjgwNlg4blBqbnlxZ1kxSzhn?oc=5
-- Supporting coverage: Dawn, Al Jazeera
-- Keywords: Saudi Arabia dismisses commander of | hashtags: 
-- Scheduled: Tue 17 Nov, 01:20 AM PKT
-- Caption:
-```
-Saudi Arabia dismisses commander of anti-Houthi coalition: state media
-
-Saudi Arabia dismisses commander of anti-Houthi coalition: state media Dawn
-
-Source: Dawn
-```
-
-### What will Europe do next in Ukraine?  [NORMAL]
-- Poster:  / What will Europe do next in Ukraine? | category other
-- Alternative headline: What will Europe do next in Ukraine?
+### Thousands report difficulties accessing accounts online at major US banks  [NORMAL]
+- Poster:  / Thousands report difficulties accessing accounts online at major US banks | category other
+- Alternative headline: Thousands report difficulties accessing accounts online at major US banks
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss
-- Supporting coverage: UNITED24 Media, Al Jazeera
-- Keywords: What will Europe do next | hashtags: 
-- Scheduled: Tue 17 Nov, 01:30 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss
+- Supporting coverage: Al Jazeera, Engadget
+- Keywords: Thousands report difficulties accessing accounts | hashtags: 
+- Scheduled: Tue 17 Nov, 02:21 AM PKT
 - Caption:
 ```
-What will Europe do next in Ukraine?
+Thousands report difficulties accessing accounts online at major US banks
 
-There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.
+Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.
 
 Source: Al Jazeera
 ```
 
-### Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta  [NORMAL]
-- Poster:  / Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | category other
-- Alternative headline: Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta
+### UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election  [NORMAL]
+- Poster:  / UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election | category other
+- Alternative headline: UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/apple-iphone-duo-gains-outer-screen-face-unlock-in-ios-27-3-beta | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/apple-iphone-duo-gains-outer-screen-face-unlock-in-ios-27-3-beta
-- Supporting coverage: The Verge, TechCrunch, ARY News
-- Keywords: Apple iPhone Duo gains outer | hashtags: 
-- Scheduled: Tue 17 Nov, 01:40 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: UEFA backs France’s Philippe Diallo | hashtags: 
+- Scheduled: Tue 17 Nov, 02:31 AM PKT
 - Caption:
 ```
-Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta
+UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election
 
-Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta
+French Football Federation chief Diallo emerges as a strong challenger in FIFA's upcoming presidential election.
 
-Source: ARY News
+Source: Al Jazeera
 ```
 
-### 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying'  [NORMAL]
-- Poster:  / 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying' | category other
-- Alternative headline: 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying'
+### Nationwide ground stop could cost US airlines hundreds of millions  [NORMAL]
+- Poster:  / Nationwide ground stop could cost US airlines hundreds of millions | category other
+- Alternative headline: Nationwide ground stop could cost US airlines hundreds of millions
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691368-overwhelmed-ariana-grande-reacts-to-2027-grammy-nominations-crying | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691368-overwhelmed-ariana-grande-reacts-to-2027-grammy-nominations-crying
-- Supporting coverage: Geo News
-- Keywords: 'Overwhelmed' Ariana Grande reacts to | hashtags: 
-- Scheduled: Tue 17 Nov, 01:50 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Nationwide ground stop could cost | hashtags: 
+- Scheduled: Tue 17 Nov, 02:41 AM PKT
 - Caption:
 ```
-'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying'
+Nationwide ground stop could cost US airlines hundreds of millions
 
-'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations Ariana Grande is overjoyed after receiving four nominations in the upcoming 69th annual Grammy Awards. On Monday, November 16, the pop icon took to Instagram to celebrate after receiving her first-ever Song of the Year...
+Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.
 
-Source: Geo News
+Source: Al Jazeera
+```
+
+### Israeli opposition accuses Netanyahu of attempted ‘coup’  [NORMAL]
+- Poster:  / Israeli opposition accuses Netanyahu of attempted ‘coup’ | category other
+- Alternative headline: Israeli opposition accuses Netanyahu of attempted ‘coup’
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Israeli opposition accuses Netanyahu of | hashtags: 
+- Scheduled: Tue 17 Nov, 02:51 AM PKT
+- Caption:
+```
+Israeli opposition accuses Netanyahu of attempted ‘coup’
+
+Rivals call for investigation into reports that PM's office tried to frame Arab parties.
+
+Source: Al Jazeera
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -217,7 +217,7 @@ Source: Geo News
 - [needs_review] normal | PM Shehbaz approves facilitation centres for SMEs at district level | Mon 16 Nov, 06:55 PM PKT
 - [needs_review] normal | Punjab orders recall of five medicines over quality, safety concerns | Mon 16 Nov, 07:05 PM PKT
 - [published] normal | China says Xi-Putin-Trump meeting has 'groundbreaking significance' | Mon 16 Nov, 09:00 PM PKT
-- [queued] normal | Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | Mon 16 Nov, 09:10 PM PKT
+- [published] normal | Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond | Mon 16 Nov, 09:10 PM PKT
 - [queued] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
 - [queued] normal | Klopp says Infantino worse than Blatter | Mon 16 Nov, 09:30 PM PKT
 - [queued] normal | SBP projects 3.5-4.5% GDP growth for FY27 | Mon 16 Nov, 10:14 PM PKT
@@ -236,9 +236,13 @@ Source: Geo News
 - [queued] normal | What will Europe do next in Ukraine? | Tue 17 Nov, 01:30 AM PKT
 - [queued] normal | Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | Tue 17 Nov, 01:40 AM PKT
 - [queued] normal | 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying | Tue 17 Nov, 01:50 AM PKT
+- [queued] normal | Thousands report difficulties accessing accounts online at major US ba | Tue 17 Nov, 02:21 AM PKT
+- [queued] normal | UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA ele | Tue 17 Nov, 02:31 AM PKT
+- [queued] normal | Nationwide ground stop could cost US airlines hundreds of millions | Tue 17 Nov, 02:41 AM PKT
+- [queued] normal | Israeli opposition accuses Netanyahu of attempted ‘coup’ | Tue 17 Nov, 02:51 AM PKT
 
 ## Publishing this run
-- Published 'China says Xi-Putin-Trump meeting has 'groundbreaking significance''.
+- Published 'Judi Dench snubs Robert Pattinson, Nicholas Hoult as next James Bond'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
