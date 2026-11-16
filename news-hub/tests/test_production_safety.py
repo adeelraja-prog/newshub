@@ -26,6 +26,22 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             "Pakistan flood emergency in Sindh"
         ))
 
+    def test_india_story_from_cnn_and_al_jazeera_remains_allowed(self):
+        self.assertFalse(newsroom.is_blocked(
+            "CNN India General Desk", "https://news.google.com/rss/articles/example",
+            "India election results and parliament debate"
+        ))
+        self.assertFalse(newsroom.is_blocked(
+            "Al Jazeera India General Desk", "https://news.google.com/rss/articles/example",
+            "India election results and parliament debate"
+        ))
+
+    def test_india_story_from_unknown_international_publisher_is_excluded(self):
+        self.assertTrue(newsroom.is_blocked(
+            "Unknown International Publisher", "https://example.com/news/india",
+            "India election results and parliament debate"
+        ))
+
     def test_india_story_from_bbc_remains_allowed(self):
         self.assertFalse(newsroom.is_blocked(
             "BBC News", "https://www.bbc.com/news/world-asia-india-example",
