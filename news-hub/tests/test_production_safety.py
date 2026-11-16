@@ -122,6 +122,19 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             with self.assertRaises(RuntimeError):
                 newsroom.post_facebook(image.name, "test caption")
 
+    def test_english_poster_keeps_explainer_visual(self):
+        visual = {"type": "explainer", "title": "WHY THE COURT INTERVENED",
+                  "points": [{"text": "A substantive explanation of the court decision and its immediate legal effect.",
+                              "source": "Dawn", "url": "https://dawn.com/a"}]}
+        item = {"qid": "english-explainer", "poster_language": "en",
+                "poster": {"ur": "", "en": "COURT EXPLAINED"},
+                "category": "courts", "priority": "normal",
+                "value_addition": visual, "source_name": "Dawn"}
+        with tempfile.TemporaryDirectory() as d, patch.object(newsroom, "POSTER_DIR", d), \
+             patch.object(newsroom.poster, "render") as render:
+            newsroom.make_poster(item, "preview")
+        self.assertEqual(render.call_args.kwargs["value_addition"], visual)
+
     def test_nonbreaking_trusted_publisher_story_uses_normal_queue(self):
         instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
         member = {"source": "Dawn", "link": "https://www.dawn.com/news/example",
