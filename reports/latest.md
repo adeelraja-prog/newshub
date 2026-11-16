@@ -1,126 +1,138 @@
-# News Hub report - Mon 16 Nov, 08:51 AM PKT
+# News Hub report - Mon 16 Nov, 10:31 AM PKT
 
 ## Collection
-- New items this run: 12 | items in rolling pool: 397
-- Unique story clusters: 348 (duplicates merged: 49)
-- Clusters dropped as already published/queued: 10; unchanged since last analysis: 92
-- Items per outlet: Dawn Pakistan 3, Dawn Latest 3, The News International 1, Geo News 1, Profit by Pakistan Today 1, Investify 1, Al Jazeera 1, The National 1
+- New items this run: 26 | items in rolling pool: 423
+- Unique story clusters: 371 (duplicates merged: 52)
+- Clusters dropped as already published/queued: 12; unchanged since last analysis: 93
+- Items per outlet: ARY News 7, Al Jazeera 5, Geo News 4, TechJuice 3, PhoneWorld 3, BBC World 2, Engadget 1, ProPakistani 1, Geo News Fast Lane 0, ARY News Fast Lane 0, Samaa Fast Lane 0, Express News Fast Lane 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Services of Balochistan family planning workers praised | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Restoration of student unions demanded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Prince and Princess of Wales arrive in India ahead of meeting with Modi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Investors sue chip giant Intel after 29% stock plunge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- World Bank ‘satisfied’ with $370m National Health Support Programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indonesian president apologises to Singapore, Malaysia for wildfire haze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pope Leo flies to mass in the Papacoptero | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shophouse fire kills at least 11 in Phuket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Services of Balochistan family planning workers praised | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Restoration of student unions demanded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Prince and Princess of Wales arrive in India ahead of meeting with Modi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Investors sue chip giant Intel after 29% stock plunge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- World Bank ‘satisfied’ with $370m National Health Support Programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indonesian president apologises to Singapore, Malaysia for wildfire haze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pope Leo flies to mass in the Papacoptero | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shophouse fire kills at least 11 in Phuket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Services of Balochistan family planning workers praised | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Restoration of student unions demanded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Prince and Princess of Wales arrive in India ahead of meeting with Modi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Investors sue chip giant Intel after 29% stock plunge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- World Bank ‘satisfied’ with $370m National Health Support Programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indonesian president apologises to Singapore, Malaysia for wildfire haze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pope Leo flies to mass in the Papacoptero | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shophouse fire kills at least 11 in Phuket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- Overall feeds with entries: 25/107 | empty: 0 | failed: 82 | malformed/partial: 82
+- Trusted publisher desks with at least one healthy source: 4/10
+- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Samaa, Express News, Dawn, The News International, Dunya News, Dunya News TV
 
 ## Selected for the queue
-### Services of Balochistan family planning workers praised  [NORMAL]
-- Poster:  / Services of Balochistan family planning workers praised | category other
-- Alternative headline: Services of Balochistan family planning workers praised
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2044796/services-of-balochistan-family-planning-workers-praised | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2044796/services-of-balochistan-family-planning-workers-praised
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Services of Balochistan family planning | hashtags: 
-- Scheduled: Mon 16 Nov, 08:51 AM PKT
-- Caption:
-```
-Services of Balochistan family planning workers praised
-
-QUETTA: Community-based workers providing door-to-door family planning services were praised at a meeting of the Population Welfare Department and United Nations Population Fund (UNFPA), held here on Sunday. Officials of the Population Welfare department, UNFPA, representatives, female representativ
-
-Source: Dawn Pakistan
-```
-
-### Restoration of student unions demanded  [NORMAL]
-- Poster:  / Restoration of student unions demanded | category other
-- Alternative headline: Restoration of student unions demanded
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2044795/restoration-of-student-unions-demanded | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2044795/restoration-of-student-unions-demanded
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Restoration of student unions demanded | hashtags: 
-- Scheduled: Mon 16 Nov, 09:01 AM PKT
-- Caption:
-```
-Restoration of student unions demanded
-
-QUETTA: A Students’ Rights Conference on Sunday discussed the educational challenges and fundamental rights of students in Balochistan and other parts of the country, and demanded the immediate lifting of the ban on student unions across Pakistan. The conference was organised by Islami Jamiat-i-Tala
-
-Source: Dawn Pakistan
-```
-
-### Prince and Princess of Wales arrive in India ahead of meeting with Modi  [NORMAL]
-- Poster:  / Prince and Princess of Wales arrive in India ahead of meeting with Modi | category other
-- Alternative headline: Prince and Princess of Wales arrive in India ahead of meeting with Modi
+### Indonesian president apologises to Singapore, Malaysia for wildfire haze  [NORMAL]
+- Poster:  / Indonesian president apologises to Singapore, Malaysia for wildfire haze | category other
+- Alternative headline: Indonesian president apologises to Singapore, Malaysia for wildfire haze
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC, BBC
-- Keywords: Prince and Princess of Wales | hashtags: 
-- Scheduled: Mon 16 Nov, 09:11 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss
+- Supporting coverage: Dawn, Al Jazeera, ARY News
+- Keywords: Indonesian president apologises to Singapore, | hashtags: 
+- Scheduled: Mon 16 Nov, 10:31 AM PKT
 - Caption:
 ```
-Prince and Princess of Wales arrive in India ahead of meeting with Modi
+Indonesian president apologises to Singapore, Malaysia for wildfire haze
 
-Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.
+Prabowo says his government has a 'zero-tolerance policy' for firms that contribute to blazes and pledges strict action.
 
-Source: BBC
+Source: Al Jazeera
 ```
 
-### Investors sue chip giant Intel after 29% stock plunge  [NORMAL]
-- Poster:  / Investors sue chip giant Intel after 29% stock plunge | category other
-- Alternative headline: Investors sue chip giant Intel after 29% stock plunge
+### Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’  [NORMAL]
+- Poster:  / Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’ | category other
+- Alternative headline: Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology
-- Keywords: Investors sue chip giant Intel | hashtags: 
-- Scheduled: Mon 16 Nov, 09:21 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Iraqi armed group denies involvement | hashtags: 
+- Scheduled: Mon 16 Nov, 10:41 AM PKT
 - Caption:
 ```
-Investors sue chip giant Intel after 29% stock plunge
+Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’
 
-A proposed class action says Intel hid the impact of slowing sales, inflating its shares.
+Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.
 
-Source: BBC Technology
+Source: Al Jazeera
 ```
 
-- Indian outlets blocked this run: 1 items
+### Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025  [NORMAL]
+- Poster:  / Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025 | category other
+- Alternative headline: Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Megaspeed, firm at centre of | hashtags: 
+- Scheduled: Mon 16 Nov, 10:51 AM PKT
+- Caption:
+```
+Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025
+
+Chinese tech executive romantically linked to ex-Nvidia CEO Jensen Huang left in August 2025, Singapore-based firm says.
+
+Source: Al Jazeera
+```
+
+### Pope Leo flies to mass in the Papacoptero  [NORMAL]
+- Poster:  / Pope Leo flies to mass in the Papacoptero | category other
+- Alternative headline: Pope Leo flies to mass in the Papacoptero
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Pope Leo flies to mass | hashtags: 
+- Scheduled: Mon 16 Nov, 11:01 AM PKT
+- Caption:
+```
+Pope Leo flies to mass in the Papacoptero
+
+Pope Leo was filmed flying in the cockpit of an army helicopter to celebrate mass
+
+Source: Al Jazeera
+```
+
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 4
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 8
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -173,20 +185,24 @@ Source: BBC Technology
 - [needs_review] normal | US Intelligence Estimates Iran Still Retains Up to 2,500 Missiles | Sun 15 Nov, 11:00 AM PKT
 - [published] breaking | KP Governor Bans All Gold Mining, Cancels Leases Over Terrorism Fundin | Sun 15 Nov, 11:14 AM PKT
 - [published] breaking | Iran Warns Of Preemptive Strikes Amid Escalating US Military Tensions | Mon 16 Nov, 07:33 AM PKT
-- [queued] high | Punjab Water Demand Exceeds Supply As Groundwater Depletes Rapidly | Mon 16 Nov, 07:33 AM PKT
+- [published] high | Punjab Water Demand Exceeds Supply As Groundwater Depletes Rapidly | Mon 16 Nov, 07:33 AM PKT
 - [queued] high | Vulcan Rocket Fails During Launch, Dealing Blow To SpaceX Competitors | Mon 16 Nov, 07:33 AM PKT
-- [queued] high | Pakistan Proposes Virtual Green University And Youth Fund At COP31 | Mon 16 Nov, 07:33 AM PKT
+- [needs_review] high | Pakistan Proposes Virtual Green University And Youth Fund At COP31 | Mon 16 Nov, 07:33 AM PKT
 - [published] high | Punjab to establish province's first AI-powered climate observatory | Mon 16 Nov, 07:48 AM PKT
 - [published] high | CDA finalises revised PC-I for Islamabad cricket stadium at Rs16.7bn | Mon 16 Nov, 07:48 AM PKT
 - [published] high | Yemeni government forces reportedly retreat in setback against Houthis | Mon 16 Nov, 07:48 AM PKT
-- [queued] high | School Assembly News: Top headlines, thought and GK questions for Nov  | Mon 16 Nov, 07:48 AM PKT
+- [needs_review] high | School Assembly News: Top headlines, thought and GK questions for Nov  | Mon 16 Nov, 07:48 AM PKT
 - [queued] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
 - [queued] normal | Restoration of student unions demanded | Mon 16 Nov, 09:01 AM PKT
 - [queued] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
 - [queued] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
+- [queued] normal | Indonesian president apologises to Singapore, Malaysia for wildfire ha | Mon 16 Nov, 10:31 AM PKT
+- [queued] normal | Iraqi armed group denies involvement in oil smuggling, calls probe a ‘ | Mon 16 Nov, 10:41 AM PKT
+- [queued] normal | Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in  | Mon 16 Nov, 10:51 AM PKT
+- [queued] normal | Pope Leo flies to mass in the Papacoptero | Mon 16 Nov, 11:01 AM PKT
 
 ## Publishing this run
-- Published 'Yemeni government forces reportedly retreat in setback against Houthis'.
+- Published 'Punjab Water Demand Exceeds Supply As Groundwater Depletes Rapidly'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
