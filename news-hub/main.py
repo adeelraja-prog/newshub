@@ -151,6 +151,13 @@ def parse(s):
     return datetime.fromisoformat(s)
 
 
+def valid_timestamp(value):
+    try:
+        return bool(value) and isinstance(value, str) and parse(value).tzinfo is not None
+    except (TypeError, ValueError, OverflowError):
+        return False
+
+
 def pkt(dt):
     return dt.astimezone(PKT).strftime("%a %d %b, %I:%M %p PKT")
 
@@ -266,10 +273,12 @@ def collect_new(state):
     t0 = now()
     # Strict freshness: a 10-minute poll must not make undated/old stories look new.
     since = t0 - timedelta(hours=fnum("INGEST_LOOKBACK_HOURS", 3))
-    if state.get("last_run"):
+    if valid_timestamp(state.get("last_run")):
         since = max(since, parse(state["last_run"]))
     since -= timedelta(minutes=12)
-    seen = state.setdefault("seen", {})
+    if not isinstance(state.get("seen"), dict):
+        state["seen"] = {}
+    seen = state["seen"]
     items, ids = [], set()
     stats = {}
     source_health = []
@@ -1613,6 +1622,17 @@ def main():
         for old_poster in glob.glob(f"{POSTER_DIR}/*.jpg"):
             os.remove(old_poster)
     state = load_json(STATE_FILE, {})
+    # A single malformed persisted collection/timestamp must not stop the entire newsroom.
+    for key in ("pool", "history", "published", "editorial_review"):
+        if not isinstance(state.get(key, []), list):
+            print(f"[state] malformed {key} collection; resetting only that collection")
+            state[key] = []
+    if not isinstance(state.get("seen"), dict):
+        state["seen"] = {}
+    for key in ("last_run", "last_analysis"):
+        if state.get(key) and not valid_timestamp(state.get(key)):
+            print(f"[state] malformed {key} timestamp; ignoring it")
+            state.pop(key, None)
     queue = load_json(QUEUE_FILE, {"items": []})
     if not isinstance(queue.get("items"), list):
         print("[queue] invalid items collection; resetting queue container")
@@ -1639,13 +1659,23 @@ def main():
             row["meta"]["scores"] = {}
         row["meta"]["scores"].setdefault("composite", 0)
         row.setdefault("poster_language", "ur")
-        if not row.get("headline") or not row.get("caption") or not row.get("not_before") or not isinstance(row.get("poster"), dict):
+        if not valid_timestamp(row.get("created")):
+            row["created"] = iso(t0)
+            row["status"] = "needs_review"
+            row["review_reason"] = "Invalid queue creation timestamp; manual review required"
+        if not valid_timestamp(row.get("not_before")):
+            row["not_before"] = iso(t0)
+            row["status"] = "needs_review"
+            row["review_reason"] = "Invalid scheduled timestamp; manual review required"
+        if not row.get("headline") or not row.get("caption") or not isinstance(row.get("poster"), dict):
             row["status"] = "needs_review"
             row["review_reason"] = "Incomplete queue record; manual review required"
             row.setdefault("needs_review_at", iso(t0))
-        if row.get("status") == "published" and not (isinstance(row.get("published"), dict) and row["published"].get("time")):
+        if row.get("status") == "published" and not (
+            isinstance(row.get("published"), dict) and valid_timestamp(row["published"].get("time"))
+        ):
             row["status"] = "needs_review"
-            row["review_reason"] = "Published record missing publication timestamp; manual reconciliation required"
+            row["review_reason"] = "Published record missing/invalid publication timestamp; manual reconciliation required"
             row.setdefault("needs_review_at", iso(t0))
         valid_items.append(row)
     queue["items"] = valid_items
@@ -1659,15 +1689,18 @@ def main():
 
     # rolling pool of recent items so clusters keep their full coverage between runs
     new_items, stats = collect_new(state)
-    pool = [p for p in state.get("pool", []) if t0 - parse(p["ts"]) < timedelta(hours=POOL_HOURS)]
+    pool = [p for p in state.get("pool", []) if isinstance(p, dict) and valid_timestamp(p.get("ts"))
+            and t0 - parse(p["ts"]) < timedelta(hours=POOL_HOURS)]
     pool_ids = {p["id"] for p in pool}
     pool += [i for i in new_items if i["id"] not in pool_ids]
     trends, trends_basis = fetch_trends()
 
     items = [{**p, "ts": parse(p["ts"])} for p in pool]
     clusters = ed.cluster_items(items)
-    history = [h for h in state.get("history", []) if t0 - parse(h["last_seen"]) < timedelta(hours=24)]
-    published = [p for p in state.get("published", []) if t0 - parse(p["time"]) < timedelta(days=30)]
+    history = [h for h in state.get("history", []) if isinstance(h, dict)
+               and valid_timestamp(h.get("last_seen")) and t0 - parse(h["last_seen"]) < timedelta(hours=24)]
+    published = [p for p in state.get("published", []) if isinstance(p, dict)
+                 and valid_timestamp(p.get("time")) and t0 - parse(p["time"]) < timedelta(days=30)]
     queued_tokens = [{"tokens": i.get("tokens", []), "urls": i.get("urls", [])} for i in queue["items"] if i["status"] in ("queued", "published")]
 
     dups = unchanged = 0
@@ -1720,7 +1753,7 @@ def main():
             "queued_now": [], "queue": queue, "publish_note": "", "publisher": "facebook_posters_only"}
     gemini_ok = True
     depth = sum(1 for i in queue["items"] if i["status"] == "queued" and i["priority"] == "normal")
-    last_an = parse(state["last_analysis"]) if state.get("last_analysis") else None
+    last_an = parse(state["last_analysis"]) if valid_timestamp(state.get("last_analysis")) else None
     strong = any(c["pre"] >= FORCE_PRE for c in candidates)
     cadence_ok = last_an is None or t0 - last_an >= timedelta(minutes=ANALYSIS_EVERY_MIN)
     if candidates and not strong and not (cadence_ok and depth < DEPTH_SKIP):
