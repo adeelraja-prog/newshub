@@ -311,6 +311,7 @@ def collect_new(state):
             try:
                 name = src["name"]
                 link, title = e.get("link", ""), clean(e.get("title", ""))
+                publisher_url = link
                 if not link or not title:
                     continue
                 iid = ed.hashlib.sha1(ed.canonical_url(link).encode()).hexdigest()[:12]
@@ -339,6 +340,9 @@ def collect_new(state):
                 if src["kind"] == "gnews":
                     source_obj = e.get("source")
                     st = source_obj.get("title") if isinstance(source_obj, dict) else ""
+                    source_href = source_obj.get("href") if isinstance(source_obj, dict) else ""
+                    if source_href:
+                        publisher_url = str(source_href)
                     if st:
                         name = clean(st)
                         source_verified = True
@@ -347,7 +351,7 @@ def collect_new(state):
                         source_verified = bool(re.search(r"\bsite:[a-z0-9.-]+", unquote(query), re.I))
                     title = re.sub(r"\s+-\s+[^-]+$", "", title)
                 # Indian publishers and Pakistan-related international-desk items are excluded here.
-                if is_blocked(name, link, title + " " + snippet) or has_devanagari(title + " " + snippet):
+                if is_blocked(name, publisher_url, title + " " + snippet) or has_devanagari(title + " " + snippet):
                     BLOCKED_COUNT[0] += 1
                     continue
                 media = e.get("media_thumbnail") or e.get("media_content") or []
@@ -366,7 +370,7 @@ def collect_new(state):
                 items.append({"id": iid, "source": name, "kind": src["kind"], "title": title,
                               "snippet": snippet, "link": link, "image_url": image_url,
                               "breaking_label": explicit_breaking, "source_verified": source_verified,
-                              "ts": iso(ts)})
+                              "publisher_url": publisher_url, "ts": iso(ts)})
             except Exception as entry_error:
                 key = src.get("name", "unknown") + " · malformed entry"
                 stats[key] = stats.get(key, 0) + 1
@@ -877,14 +881,12 @@ FAST_LANE_NAMES = {
 def is_fast_lane_member(member):
     name = str(member.get("source") or "").strip().lower()
     url = str(member.get("link") or "")
-    host = (urlparse(url).hostname or "").removeprefix("www.")
+    publisher_url = str(member.get("publisher_url") or url)
+    host = (urlparse(publisher_url).hostname or "").removeprefix("www.")
     allowed_domains = set(TRUSTED_PUBLISHERS) | INTERNATIONAL_DESKS
     if any(host == d or host.endswith("." + d) for d in allowed_domains):
-        return not is_international_pakistan_item(name, url, member.get("title", ""))
+        return not is_international_pakistan_item(name, publisher_url, member.get("title", ""))
     # A feed label or Google News wrapper is not original-publisher provenance.
-    # Fast-lane status requires the article URL itself to belong to an allowlisted
-    # publisher domain. Google News search results remain discovery leads until a
-    # direct publisher URL is available.
     return False
 
 
