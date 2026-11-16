@@ -2157,7 +2157,7 @@ def main():
             # Ordinary AI-reviewed candidates can be marked analysed now. Direct-publisher
             # candidates are checkpointed only after a queue write actually succeeds.
             for c in candidates:
-                if not is_direct_publisher_cluster(c):
+                if not is_direct_publisher_cluster(c) and not defer_ordinary:
                     c["hist"]["analysed_n"] = c["n_sources"]
             print(f"[queue] normal approved buffer={depth}/{QUEUE_CAP}; replenishment slots={min(SELECT_N, normal_slots_left)}; urgent review remains enabled")
             for story in chosen:
