@@ -178,4 +178,5 @@ BLOCKED_EXACT = ["ani", "pti", "ians", "uni", "mint", "the quint"]
 BLOCKED_HOST_ENDINGS = (".in", ".co.in", "telanganatoday.com", "telangananews.com",
                         "thehansindia.com", "deccanchronicle.com", "newindianexpress.com",
                         "deccanherald.com", "sakshi.com", "eenadu.net", "andhrajyothy.com",
-                        "greatandhra.com", "oneindia.com")
+                        "greatandhra.com", "oneindia.com", "republicworld.com", "opindia.com", "swarajyamag.com",
+                        "newslaundry.com", "ptinews.com", "aninews.in")
