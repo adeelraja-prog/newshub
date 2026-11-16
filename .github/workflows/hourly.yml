@@ -1,18 +1,14 @@
 name: news-hub
 on:
-  push:
-    paths:
-      - ".github/workflows/hourly.yml"
-      - "news-hub/main.py"
-      - "news-hub/editorial.py"
-      - "news-hub/editorial_policy.py"
-      - "news-hub/editorial_quality.py"
-      - "news-hub/sources.py"
-      - "news-hub/poster.py"
-      - "news-hub/tests/**"
   schedule:
     - cron: "*/10 * * * *"
   workflow_dispatch:
+    inputs:
+      publish:
+        description: "Actually publish to Facebook (leave off for a safe preview)"
+        required: false
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -65,6 +61,7 @@ jobs:
           CLOUDFLARE_MODEL: ${{ vars.CLOUDFLARE_MODEL }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && !inputs.publish && '1' || '0' }}
       - name: Save memory
         if: ${{ always() }}
         env:
