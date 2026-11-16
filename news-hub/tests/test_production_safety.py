@@ -86,23 +86,23 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
 
     def test_exact_pakistani_publisher_uses_fast_lane(self):
         cluster = {"members": [{
-            "source": "Geo News", "kind": "gnews", "source_verified": True, "link": "https://news.google.com/rss/articles/example",
+            "source": "Geo News", "kind": "local", "source_verified": True, "link": "https://www.geo.tv/story/example",
             "title": "National Assembly session begins"
         }]}
         self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
 
     def test_all_ten_trusted_pakistani_publishers_use_direct_lane(self):
-        publishers = [
-            "Geo News", "ARY News", "Samaa", "Express News", "Dawn",
-            "Jang", "The News International", "Express Tribune",
-            "Dunya News", "Dunya News TV",
-        ]
-        for name in publishers:
+        publishers = {
+            "Geo News": "geo.tv", "ARY News": "arynews.tv", "Samaa": "samaa.tv",
+            "Express News": "expressnews.tv", "Dawn": "dawn.com", "Jang": "jang.com.pk",
+            "The News International": "thenews.com.pk", "Express Tribune": "tribune.com.pk",
+            "Dunya News": "dunyanews.tv", "Dunya News TV": "dunyanews.tv",
+        }
+        for name, domain in publishers.items():
             with self.subTest(publisher=name):
-                cluster = {"members": [{
-                    "source": name, "kind": "gnews", "source_verified": True, "link": "https://news.google.com/rss/articles/example",
-                    "title": "Publisher reports a new development"
-                }]}
+                cluster = {"members": [{"source": name, "kind": "local", "source_verified": True,
+                                      "link": "https://www." + domain + "/story/example",
+                                      "title": "Publisher reports a new development"}]}
                 self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
 
     def test_trusted_name_on_untrusted_direct_feed_domain_is_not_fast_lane(self):
@@ -120,13 +120,11 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         }]}
         self.assertFalse(newsroom.is_direct_publisher_cluster(cluster))
 
-    def test_publisher_scoped_google_news_item_can_use_trusted_lane(self):
-        cluster = {"members": [{
-            "source": "Geo News Fast Lane", "kind": "gnews", "source_verified": True,
-            "link": "https://news.google.com/rss/articles/example",
-            "title": "National Assembly session begins"
-        }]}
-        self.assertTrue(newsroom.is_direct_publisher_cluster(cluster))
+    def test_google_news_wrapper_never_claims_trusted_original_publisher(self):
+        cluster = {"members": [{"source": "Geo News Fast Lane", "kind": "gnews",
+                              "source_verified": True, "link": "https://news.google.com/rss/articles/example",
+                              "title": "National Assembly session begins"}]}
+        self.assertFalse(newsroom.is_direct_publisher_cluster(cluster))
 
     def test_bbc_pakistan_story_does_not_use_fast_lane(self):
         cluster = {"members": [{
