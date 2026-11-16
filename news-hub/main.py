@@ -2006,6 +2006,7 @@ def main():
     if held_old:
         print(f"[quality] moved {held_old} legacy queued stories to needs_review under the new headline gate")
 
+    publish_ok = True
     # Publish at most one Facebook news poster per run
     item, why = pick_due(queue, t0)
     if item is None:
@@ -2015,7 +2016,8 @@ def main():
         info["publish_note"] = f"DRY RUN: would publish '{item['headline']}' now (poster saved: {path})."
     else:
         ok = publish_one(queue, state, item, t0)
-        info["publish_note"] = f"Published '{item['headline']}'." if ok else "Publishing failed; kept in queue for retry."
+        publish_ok = bool(ok)
+        info["publish_note"] = f"Published '{item['headline']}'." if ok else "Publishing failed; item retained or quarantined for safe review."
     if DRY_RUN:  # draw posters for what was queued so they can be inspected
         for it in info["queued_now"]:
             make_poster(it, "dryrun")
@@ -2038,6 +2040,9 @@ def main():
                 os.remove(p)
         save_json(STATE_FILE, state)
         save_json(QUEUE_FILE, queue)
+        if not publish_ok:
+            # Persist queue/state first, then mark the Actions run failed so the outage is visible.
+            sys.exit(1)
         if not gemini_ok and not any(i["status"] == "queued" for i in queue["items"]):
             sys.exit(1)
 
