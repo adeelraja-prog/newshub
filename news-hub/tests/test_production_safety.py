@@ -152,6 +152,14 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertFalse(newsroom.valid_timestamp(None))
         self.assertTrue(newsroom.valid_timestamp("2026-11-16T03:00:00+00:00"))
 
+    def test_published_history_refresh_keeps_the_post_added_this_run(self):
+        now = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
+        fresh = {"time": now.isoformat(), "tokens": ["court"], "urls": ["https://dawn.com/a"],
+                 "facebook_post_id": "page_123"}
+        stale = {"time": "not-a-date", "tokens": [], "urls": []}
+        rows = newsroom.recent_published_history({"published": [fresh, stale]}, now)
+        self.assertEqual(rows, [fresh])
+
     def test_facebook_success_without_post_id_is_not_counted_as_success(self):
         class Response:
             status_code = 200
