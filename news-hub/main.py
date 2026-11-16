@@ -1920,10 +1920,10 @@ def main():
             if remaining:
                 chosen.extend(ed.select_balanced(ordinary_ready, remaining, MIN_CONFIDENCE, min_comp,
                                                   BREAK_URGENCY, BREAK_CONFIDENCE))
-            chosen_cluster_ids = {str(x.get("cluster", {}).get("id")) for x in chosen}
-            # Unselected direct-publisher stories remain eligible for the next cycle.
+            # Ordinary AI-reviewed candidates can be marked analysed now. Direct-publisher
+            # candidates are checkpointed only after a queue write actually succeeds.
             for c in candidates:
-                if not is_direct_publisher_cluster(c) or str(c.get("id")) in chosen_cluster_ids:
+                if not is_direct_publisher_cluster(c):
                     c["hist"]["analysed_n"] = c["n_sources"]
             print(f"[queue] normal approved buffer={depth}/{QUEUE_CAP}; replenishment slots={min(SELECT_N, normal_slots_left)}; urgent review remains enabled")
             for story in chosen:
@@ -1958,6 +1958,8 @@ def main():
                 if it["priority"] == "normal":
                     normal_added += 1
                 info["queued_now"].append(it)
+                if s.get("direct_source"):
+                    s["cluster"]["hist"]["analysed_n"] = s["cluster"]["n_sources"]
         except Exception as ex:  # a Gemini outage must never publish incomplete output
             gemini_ok = False
             print(f"[error] editorial analysis failed, nothing new queued: {ex}")
