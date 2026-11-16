@@ -285,7 +285,7 @@ def collect_new(state):
 
     def fetch_source(src):
         try:
-            response = requests.get(src["url"], headers=UA, timeout=12)
+            response = requests.get(src["url"], headers=UA, timeout=8)
             response.raise_for_status()
             parsed = feedparser.parse(response.content)
             return src, response.status_code, parsed, None
@@ -294,7 +294,7 @@ def collect_new(state):
 
     # Fetch sources concurrently: expanding coverage must not make each newsroom
     # cycle wait serially for every slow or unavailable publisher.
-    with ThreadPoolExecutor(max_workers=12) as pool:
+    with ThreadPoolExecutor(max_workers=16) as pool:
         fetched_sources = list(pool.map(fetch_source, SOURCES))
 
     for src, status, feed, error in fetched_sources:
@@ -525,7 +525,7 @@ def fetch_trends():
     out=[]; basis=[]
     for url in TRENDS_URLS:
         try:
-            r = requests.get(url, headers=UA, timeout=20)
+            r = requests.get(url, headers=UA, timeout=8)
             r.raise_for_status()
             feed = feedparser.parse(r.content)
             for rank, e in enumerate(feed.entries):
@@ -541,7 +541,7 @@ def fetch_trends():
     # Accept only ranked topics from a fresh snapshot; never treat a trend as evidence.
     try:
         xurl="https://twitter-trends.snaplytics.io/pakistan/"
-        xr=requests.get(xurl,headers=UA,timeout=20); xr.raise_for_status()
+        xr=requests.get(xurl,headers=UA,timeout=8); xr.raise_for_status()
         page=(trafilatura.extract(xr.text) if trafilatura else "") or re.sub(r"<[^>]+>","\n",xr.text)
         page=html.unescape(page)
         stamp=re.search(r"Trending now\s*[—-]\s*([A-Za-z]{3} \d{1,2}, \d{4} \d{2}:\d{2} UTC)",page)
@@ -585,7 +585,7 @@ def fetch_article(item):
     if item["kind"] not in ("local", "topic"):
         return "", [], item.get("image_url", "")
     try:
-        r = requests.get(item["link"], headers=UA, timeout=15)
+        r = requests.get(item["link"], headers=UA, timeout=10)
         text = (trafilatura.extract(r.text) if trafilatura else "") or ""
         image_url = item.get("image_url", "")
         if not image_url:
@@ -978,7 +978,7 @@ def analyse(clusters):
 
 def analyse_ai(clusters):
     blocks, link_maps, analysed_clusters = [], [], []
-    with ThreadPoolExecutor(8) as pool_ex:  # fetch the lead articles in parallel
+    with ThreadPoolExecutor(12) as pool_ex:  # fetch the lead articles in parallel
         fetched = list(pool_ex.map(lambda c: fetch_article(c["lead"]), clusters))
     for n, c in enumerate(clusters, 1):
         text, links, image_url = fetched[n - 1]
@@ -1611,7 +1611,7 @@ def post_facebook(path, text):
     with open(path, "rb") as f:
         r = requests.post(f"https://graph.facebook.com/{GRAPH_API_VERSION}/{page}/photos",
                           data={"caption": text, "access_token": token},
-                          files={"source": f}, timeout=90)
+                          files={"source": f}, timeout=45)
     if r.status_code != 200:
         raise requests.HTTPError(f"Facebook Graph API {r.status_code}: {r.text[:300]}", response=r)
     payload = r.json()
@@ -1633,7 +1633,7 @@ def post_facebook_photo_story(path):
         upload = requests.post(
             f"https://graph.facebook.com/{GRAPH_API_VERSION}/{page}/photos",
             data={"published": "false", "access_token": token},
-            files={"source": f}, timeout=90)
+            files={"source": f}, timeout=25)
     if upload.status_code != 200:
         raise RuntimeError(f"Story photo upload {upload.status_code}: {upload.text[:300]}")
     photo_id = upload.json().get("id")
