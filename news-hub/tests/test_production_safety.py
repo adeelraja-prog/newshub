@@ -83,6 +83,22 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
             result = newsroom.analyse([{"direct": True}, {"direct": False}])
         self.assertEqual(result, [{"id": "trusted"}])
 
+    def test_source_health_is_saved_without_crashing_on_empty_feed(self):
+        class Response:
+            status_code = 200
+            content = b""
+            def raise_for_status(self):
+                return None
+        class Feed:
+            entries = []
+            bozo = False
+        with patch.object(newsroom, "SOURCES", [
+            {"name": "Geo News Fast Lane", "kind": "gnews", "url": "https://example.test/feed"}
+        ]), patch.object(newsroom.requests, "get", return_value=Response()),              patch.object(newsroom.feedparser, "parse", return_value=Feed()):
+            items, stats = newsroom.collect_new({})
+        self.assertEqual(items, [])
+        self.assertEqual(newsroom.SOURCE_HEALTH, [("Geo News Fast Lane", 200, 0, False)])
+
     def test_malformed_timestamp_is_rejected_without_exception(self):
         self.assertFalse(newsroom.valid_timestamp("not-a-date"))
         self.assertFalse(newsroom.valid_timestamp(None))
