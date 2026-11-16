@@ -859,23 +859,25 @@ def make_direct_publisher_story(cluster):
     source_type = "wire" if source_name.lower() in ("reuters", "associated press", "ap") else "published_report"
     story = {
         "id": cluster["id"], "cluster": cluster, "event": headline, "category": "other",
-        "importance": 90, "pakistan_relevance": 90 if not global_outlet else 60,
+        # This lane deliberately has no model-generated assessment scores.
+        # Zero means "not assessed", not a low score or fabricated confidence.
+        "importance": 0, "pakistan_relevance": 0,
         "viral_estimate": 0, "viral_measured": cluster.get("sig", {}).get("viral_measured", 0),
-        "viral_potential": 0, "public_interest": 90, "urgency": 95 if urgent else 70,
-        "confidence": 95, "lifecycle": "emerging", "claim_status": "developing",
+        "viral_potential": 0, "public_interest": 0, "urgency": 95 if urgent else 0,
+        "confidence": 0, "lifecycle": "emerging", "claim_status": "publisher_report",
         "is_global": global_outlet, "scope": "international" if global_outlet else "national",
         "target_market": "Global" if global_outlet else "Pakistan",
-        "importance_class": "major", "national_impact": 80, "regional_impact": 0,
-        "region": "", "global_impact": 85 if global_outlet else 0,
+        "importance_class": "publisher_direct_unscored", "national_impact": 0, "regional_impact": 0,
+        "region": "", "global_impact": 0,
         "why_pk": "Published by an established international newsroom." if global_outlet else "Published by an established Pakistani newsroom.",
         "original_source": {"type": source_type, "name": source_name, "url": lead.get("link", ""),
                             "basis": "Original publisher feed/search item; direct publishing lane."},
         "corroborating": [], "explanation": "Direct publisher lane; no AI assessment or second-source check.",
         "discovery": {"name": source_name, "url": lead.get("link", "")},
-        "trend_score": 0, "trend_basis": "publisher", "trend_notes": [], "x_signal": "unavailable",
+        "trend_score": 0, "trend_basis": "not_assessed", "trend_notes": [], "x_signal": "unavailable",
         "has_wire_or_official": False, "excerpt": excerpt, "image_url": cluster.get("image_url", ""),
         "sources": cluster.get("sources", [source_name]), "first_pub": iso(cluster["first_pub"]),
-        "last_update": iso(cluster["last_pub"]), "composite": 100,
+        "last_update": iso(cluster["last_pub"]), "composite": 0,
         "editorial_lane": "publisher_fast_lane", "direct_source": True,
         "editorial_priority_band": "P1" if urgent else "P2",
     }
@@ -1413,6 +1415,9 @@ def enqueue(queue, story, w, caption, t0):
                  "trend_basis": story["trend_basis"], "trend_notes": story["trend_notes"], "x_signal": story["x_signal"],
                  "lifecycle": story["lifecycle"], "claim_status": story["claim_status"], "why_pk": story["why_pk"],
                  "scope": story["scope"], "importance_class": story["importance_class"],
+                 "direct_source": bool(story.get("direct_source")),
+                 "source_lane": story.get("editorial_lane", "assessed"),
+                 "editorial_priority_band": story.get("editorial_priority_band", "P3"),
                  "region": story["region"], "national_impact": story["national_impact"],
                  "regional_impact": story["regional_impact"], "global_impact": story["global_impact"],
                  "explanation": story["explanation"], "original_source": story["original_source"],
@@ -2054,6 +2059,10 @@ def main():
         if queued.get("status")!="queued" or queued.get("type") == "engage":
             continue
         meta=queued.get("meta") or {}
+        # Trusted publisher items carry an explicit direct-source marker and are not
+        # retroactively sent through the ordinary AI score gate on the next run.
+        if meta.get("direct_source"):
+            continue
         scores=meta.get("scores") or {}
         legacy_story={"scope":meta.get("scope"),"importance_class":meta.get("importance_class"),
                       "confidence":scores.get("confidence"),"importance":scores.get("importance"),
