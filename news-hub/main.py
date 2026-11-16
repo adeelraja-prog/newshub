@@ -606,7 +606,7 @@ def fetch_article(item):
 
 # ---------- Gemini ----------
 MODELS = [m for m in (MODEL, env("GEMINI_FALLBACK_MODEL", "gemini-3.5-flash-lite")) if m]
-BUDGET = fnum("GEMINI_BUDGET_SECONDS", 240)
+BUDGET = fnum("GEMINI_BUDGET_SECONDS", 90)
 THINKING = env("GEMINI_THINKING", "low")
 RETRY_CODES = {500, 502, 503, 504}
 
@@ -661,14 +661,14 @@ def gemini_json(prompt):
         for model in dict.fromkeys(MODELS):
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
             attempt = 0
-            while attempt < 3:
+            while attempt < 2:
                 left = deadline - time.time()
                 if left <= 5:
                     break
                 try:
                     USAGE["calls"] += 1
                     r = requests.post(url, headers={"x-goog-api-key": gemini_key}, json=body,
-                                      timeout=min(70, left))
+                                      timeout=min(35, left))
                     if r.status_code == 200:
                         data = r.json()
                         um = data.get("usageMetadata", {})
