@@ -324,6 +324,17 @@ def collect_new(state):
                 if ts > t0 + timedelta(minutes=5) or ts < since:
                     continue
                 snippet = clean(e.get("summary", ""))[:300]
+                tags = e.get("tags") or []
+                if isinstance(tags, dict):
+                    tags = [tags]
+                tag_text = " ".join(
+                    str(tag.get("term") or tag.get("label") or "")
+                    for tag in tags if isinstance(tag, dict)
+                )
+                explicit_breaking = bool(re.match(
+                    r"^\\s*(?:\\[?breaking\\]?|just in|developing|live\\s*[:—-])(?:\\b|\\s)",
+                    title, re.I
+                )) or bool(re.search(r"\\bbreaking news\\b", tag_text, re.I))
                 if src["kind"] == "gnews":
                     source_obj = e.get("source")
                     st = source_obj.get("title") if isinstance(source_obj, dict) else ""
@@ -348,7 +359,8 @@ def collect_new(state):
                 ids.add(iid)
                 stats[name] = stats.get(name, 0) + 1
                 items.append({"id": iid, "source": name, "kind": src["kind"], "title": title,
-                              "snippet": snippet, "link": link, "image_url": image_url, "ts": iso(ts)})
+                              "snippet": snippet, "link": link, "image_url": image_url,
+                              "breaking_label": explicit_breaking, "ts": iso(ts)})
             except Exception as entry_error:
                 key = src.get("name", "unknown") + " · malformed entry"
                 stats[key] = stats.get(key, 0) + 1
@@ -875,8 +887,8 @@ def make_direct_publisher_story(cluster):
     global_outlet = any(x in source_name.lower() for x in ("bbc", "cnn", "al jazeera"))
     # Only an explicit publisher marker triggers immediate breaking treatment.
     # Event words in an otherwise routine/older report must not bypass the queue.
-    urgent = bool(re.match(
-        r"^\s*(?:\[?breaking\]?|just in|developing|live\s*[:—-])(?:\b|\s)",
+    urgent = bool(lead.get("breaking_label")) or bool(re.match(
+        r"^\\s*(?:\\[?breaking\\]?|just in|developing|live\\s*[:—-])(?:\\b|\\s)",
         headline, re.I
     ))
     source_type = "wire" if source_name.lower() in ("reuters", "associated press", "ap") else "published_report"
