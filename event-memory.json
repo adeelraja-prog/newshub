@@ -53330,7 +53330,505 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5ecfbb31a6e179112e5c34f4",
+      "remembered_at": "2026-11-17T18:39:26.833895+00:00",
+      "event_date": "2026-11-17T11:34:08+00:00",
+      "last_update": "2026-11-17T17:41:00+00:00",
+      "event": "Ukraine damages Putin’s Crimea bridge as Zelenskyy hails ‘unprecedented’ operation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bridge",
+        "crimea",
+        "damages",
+        "hails",
+        "international",
+        "news",
+        "operation",
+        "putin",
+        "the",
+        "ukraine",
+        "unprecedented",
+        "zelenskyy"
+      ],
+      "source_excerpt": "Ukraine damages Putin’s Crimea bridge as Zelenskyy hails ‘unprecedented’ operation The News International",
+      "sources": [
+        {
+          "name": "UNITED24 Media",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVTJGTGVQWFJRTTBmOVB0Uzc1SkpnMF8xQ1RSYVFNZjNYZ1NFRmxhUmZrc2xILWJCaFdDOS1Ka1pnSDdrTmxIYjhVdi1NTXM1V0NoY0dKbXNnYUFyeXl3dmRZcm8tVWlsZG16dHdrT0FQUWVaS29QX3VtU2FzandqeVBUcHIyeWpyUXR2MmJoRnp5WG12dDNTV2ttMUJHQnFNSi1VRTd4OWNNcFF6VGVVNmQ4dzJiVmxCVG9hMFY2U2JEYTVaa2JvWTMwTmZneWtMZVkza2xVaW1yWWc?oc=5",
+          "published_at": "2026-11-17T11:34:08+00:00"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0Fxc3dRM1dhVUp2aEZoREJidXJJbjFzdkFxTmh5M0o2d1pwanFUTlBXOG1KSFdEUkN4NThXYVAzSjJwc3MySy13eWFRSk9DbFpnMHo1anNlYzdYYjRtekF5ZUROX21LbF9OUk9YaV9vZEFmTjQwUDQ1NEZtZVBfcDBJdTZ0bkxHenFXNUZDRnlnbDZqRkhwclF0ZkM5UVNVVDJvWGp0bkdQTFk2bjdkbg?oc=5",
+          "published_at": "2026-11-17T11:34:51+00:00"
+        },
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVBsMGlibTVMR1RnU24ySXNnUjFZRHNCRklUcXQ1ZjJlb1lvcTNrUjJWWW42eXUwT2NtM0JrN3FGcHR5SW1ZN3FOa2Jac29qUUhrbWpVdjVJNm1KOWVzZnB1bzQ4WlJpSGZ4ZW81RXJVb3h4d3BWa2pYRWlpZl9JNWNWLWlHcHhZaDRDeEpzVXlmckx2SmZrZU5nQ1c0OWNMelFlZk9WX1RKaUYxVTVWMTcxdmxTb0l1Ny1iNnhR0gG6AUFVX3lxTE5PQ3NXR0tNVnhCU1NuU3dlWWNtejlTY3RQeHlwOWZuMGRqSk5BLWxkWXAxOE8tVzdZQmlUVFEwc291WHNkalRlaWdVYXhIdXUxd0kwQXFOQWdicW9UVFRFZWo1TFNTbzZVX1J3cUhqd2ludWlRRWxUekVwY1RGUDZHTVZUcUhtYS1pOGpZTVZ0RFJBeDRyV1BnMnJKUlRGU3FwNE1Zb3ducFJQaXdtNTU0aExEcU44YmdBdw?oc=5",
+          "published_at": "2026-11-17T12:11:00+00:00"
+        },
+        {
+          "name": "Sky News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0xwbWtnVmZDazUzYkFfTnlRYUJnU0IwX0pEOFVwcVFpeG9IRGI4YlR1bFp6Y25jM2tIS3VMWFZSNTVON0dxdmlzVVRrakJGU0FRUTlGWGxxZVBxOWktOTIyN3F3QkkwREhMUFJrNkNQWGVERWcydm1laFowMzJQVXRIc0VMN2xuMEUxOWhVQXA0LXVLRmJmNnVsMXdjcTBwYmk2WG5Ia1JXZ3JrUXN2TUlR?oc=5",
+          "published_at": "2026-11-17T13:06:56+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
+          "published_at": "2026-11-17T13:29:27+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS05WdWZQbk9RUGEyY25Eblp0eGN6RWc0M2ozQlQxajBCLXMtNnRwUjFEUlVTVUo1dXZnMG5DSDFFTXF3MVdHaXFkM2ZnU3VMTHpVSmtmUG5zYlA3MU1FNXRqa2hwcXZ6SXhycnlBX1Q4d3VNN0tnUlMzYXc1MTBZX0p5Z0xReEVGcDFKbjlELTkxdkRacmNjcFFfbkRHblnSAaQBQVVfeXFMTkY5MjUwVWxkdmZJX0UwMHJMaTQyVzYxZHAyRGFOcnVEZXU5aW9WQ3k4T29ibXk4ckZMdHFBc0dPU2R3bEtfTHdwSHZLa2NfZW1FZHN5cnlmWUhtUkhhZnY2X19IN01WMExrSGNtQnM2ekRTMkR6RVdvNXdRbzctbGl4ZDMxMFYyOGVjdkp1enFDWTkwdTdHQWlpRmF1VkZoRmVVejQ?oc=5",
+          "published_at": "2026-11-17T13:30:00+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T15:38:10+00:00"
+        },
+        {
+          "name": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XakI5VXBWUU1uZlQxUGlsNXdkTHR2aDQ3UldOeEhweVg1c3hOejhWZnNwa1YySUR0U1FpVnNmZWJsc1E2TUtYQzBwWVptYXM2THVrQTloV2JjSklWdDFfcjFKYkd4RmFXemtiUTU2clpITU5JRl9HNzBzdTI?oc=5",
+          "published_at": "2026-11-17T15:56:55+00:00"
+        },
+        {
+          "name": "Time Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0pYOTRBV1JRU1Y5YlA5M2o1R3Ixby12dkRHT0hteld0Qk9mUThSQkdNLV90WWxZMXZ4MFJLQWxfc1JtQlVvbkRTQkxIVV9oZWkzbTJzWVR4YzBYZ0JDdUdGbkNKLU1oVWdYUHVvNGpvTU1XWGxvaWJudW90RFdZbk5rLXNBWWpLVWVFSmtNemNJdllfdkwtb1hza0YycWVfN2p3?oc=5",
+          "published_at": "2026-11-17T16:47:04+00:00"
+        },
+        {
+          "name": "The Kyiv Independent",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVJDcEtqYmxXa3h5UkZDUVB5elNCWElZdTlaTUQtT3dRQkoxWk53aFV0VUhESGtTUC1rbFZ4dEtoWGZHZjY4ZWJrTmZtTkNlQWtqZUtveXlYNDR3ZEp3VUZwdmxpenExV2Q5aGZFb3BaSjFCdlRWTkpIa3hpbnZtSlhaR2pyU1o2MF9tQlJfelV6bWIxY3pIVnF2dHVpSU0?oc=5",
+          "published_at": "2026-11-17T16:49:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVBsMGlibTVMR1RnU24ySXNnUjFZRHNCRklUcXQ1ZjJlb1lvcTNrUjJWWW42eXUwT2NtM0JrN3FGcHR5SW1ZN3FOa2Jac29qUUhrbWpVdjVJNm1KOWVzZnB1bzQ4WlJpSGZ4ZW81RXJVb3h4d3BWa2pYRWlpZl9JNWNWLWlHcHhZaDRDeEpzVXlmckx2SmZrZU5nQ1c0OWNMelFlZk9WX1RKaUYxVTVWMTcxdmxTb0l1Ny1iNnhR0gG6AUFVX3lxTE5PQ3NXR0tNVnhCU1NuU3dlWWNtejlTY3RQeHlwOWZuMGRqSk5BLWxkWXAxOE8tVzdZQmlUVFEwc291WHNkalRlaWdVYXhIdXUxd0kwQXFOQWdicW9UVFRFZWo1TFNTbzZVX1J3cUhqd2ludWlRRWxUekVwY1RGUDZHTVZUcUhtYS1pOGpZTVZ0RFJBeDRyV1BnMnJKUlRGU3FwNE1Zb3ducFJQaXdtNTU0aExEcU44YmdBdw?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "51c38d3047eb2b886c408089",
+      "remembered_at": "2026-11-17T18:39:26.833895+00:00",
+      "event_date": "2026-11-17T13:21:40+00:00",
+      "last_update": "2026-11-17T17:48:37+00:00",
+      "event": "PTA finalises licensing framework for 'sky-high' internet, telecommunication services",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "finalises",
+        "for",
+        "framework",
+        "high",
+        "internet",
+        "licensing",
+        "pta",
+        "services",
+        "sky",
+        "telecommunication"
+      ],
+      "source_excerpt": "PTA finalises licensing framework for 'sky-high' internet, telecommunication services Dawn",
+      "sources": [
+        {
+          "name": "PhoneWorld",
+          "url": "https://www.phoneworld.com.pk/pta-advances-digital-connectivity-with-finalization-of-licensing-framework-for-satellite-based-in-flight-telecommunication-services/",
+          "published_at": "2026-11-17T13:21:40+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0M1VHFobjFJR2ZnYU5pb2VsLWNpbkVMN3N4enkyMVRIZ1d4ZDBuZnhfODhNS1htWkl2ZmJuR1ZkYy1RVzlESlJ5d21uQWMyeGJNd0lJN0JNbWlKZWhOUUJVVzVPZGktZ1J1cEY3VUhYT3BMaUkzWkZTZmwyUzJkNkMwazVzbTB4U3RHM1p0MnlTWWRUOVFRdGNodHcySC1kYzJWeFVrRGZ2cHhiQjljQ0tyeng0V0E?oc=5",
+          "published_at": "2026-11-17T14:50:29+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045196/pta-finalises-licensing-framework-for-sky-high-internet-telecommunication-services",
+          "published_at": "2026-11-17T14:50:29+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-to-soon-get-in-flight-telecommunication-services",
+          "published_at": "2026-11-17T16:13:48+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2pWRWhnZGphQS1kS2hONEFyYVpmQk4teEdoeTdLaF85QTUtYnY5RDlsa0kxSy1ueldPUDd6M19NajRSN28wSFBwV2ZCNDUxc3FmY2EwdGpxUkRqZ2VTd20tb0xMb2NZazYtcEJoaWJlZkxBbi1Wb20yRG1VQ0x3Z0lTd3Z3dFBWR2VhWlUwRWp6aXVCS0FTdzhxcEVCYjNmekZQREhHYW9ZcllaczUzeVFZc25saHNvSFAxRWE3QUN3VGJoVVFZ?oc=5",
+          "published_at": "2026-11-17T17:48:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0M1VHFobjFJR2ZnYU5pb2VsLWNpbkVMN3N4enkyMVRIZ1d4ZDBuZnhfODhNS1htWkl2ZmJuR1ZkYy1RVzlESlJ5d21uQWMyeGJNd0lJN0JNbWlKZWhOUUJVVzVPZGktZ1J1cEY3VUhYT3BMaUkzWkZTZmwyUzJkNkMwazVzbTB4U3RHM1p0MnlTWWRUOVFRdGNodHcySC1kYzJWeFVrRGZ2cHhiQjljQ0tyeng0V0E?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4a4c18515d1c7ad232ed7266",
+      "remembered_at": "2026-11-17T18:39:26.833895+00:00",
+      "event_date": "2026-11-17T11:24:50+00:00",
+      "last_update": "2026-11-17T18:08:04+00:00",
+      "event": "Saudi's Delta Energy to explore $30 billion energy investment in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "billion",
+        "delta",
+        "energy",
+        "explore",
+        "express",
+        "investment",
+        "pakistan",
+        "saudi",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Saudi's Delta Energy to explore $30 billion energy investment in Pakistan The Express Tribune",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/17/saudi-arabia-accepts-30-billion-investment-opportunity-in-pakistan/",
+          "published_at": "2026-11-17T11:24:50+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5",
+          "published_at": "2026-11-17T14:29:04+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdl9OU3ZJWjk2NzVQd1pfMVVSTFlZMm82T3dWYXdybjJhV2docHJyOUc5VXJnVzU3cjl3Ry1CSGNIUnp3UmwyOHV2VVdDLV81bGZBT0pfUHdJTEJyajhXVFBPZUdXbkZNNVVXR2VmNEZsMlpRQXowUEx0MUU2Q0NSVUtsMXZZOElaVFpSb1F2cEJHcnEwWnF0WlVaRTIwd3Y0TExzQVBET2Jxa3Btd2ZhdEpNX09OTWZwRTkzTW16Tnd3alU?oc=5",
+          "published_at": "2026-11-17T18:08:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d892efc8ad78a677dba6659e",
+      "remembered_at": "2026-11-17T18:39:26.833895+00:00",
+      "event_date": "2026-11-17T17:19:57+00:00",
+      "last_update": "2026-11-17T17:19:57+00:00",
+      "event": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bridge",
+        "bridges",
+        "crimea",
+        "critical",
+        "damaged",
+        "describes",
+        "during",
+        "has",
+        "kyiv",
+        "linking",
+        "moscow",
+        "mother",
+        "occupied",
+        "really",
+        "russia",
+        "scary",
+        "severely",
+        "sheltering",
+        "strikes",
+        "targeted",
+        "ukraine",
+        "was",
+        "while"
+      ],
+      "source_excerpt": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T17:19:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2eba6116d61dde8479c7f392",
+      "remembered_at": "2026-11-17T18:39:26.833895+00:00",
+      "event_date": "2026-11-17T17:13:36+00:00",
+      "last_update": "2026-11-17T17:13:36+00:00",
+      "event": "William and Catherine walk green carpet in Mumbai for Earthshot Prize",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bbc",
+        "carpet",
+        "catherine",
+        "earthshot",
+        "for",
+        "green",
+        "mumbai",
+        "prize",
+        "walk",
+        "william"
+      ],
+      "source_excerpt": "William and Catherine walk green carpet in Mumbai for Earthshot Prize BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iYlFiZi1aMUw3WkUwN2pVaEhXRmpjQTk4UVIycjk5YXAya2Y4dGJNd3lFRERISDZxVXhwNmJTR0NreWtmZDNVck5BNDRxVEZXTGh2czZhMEM?oc=5",
+          "published_at": "2026-11-17T17:13:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iYlFiZi1aMUw3WkUwN2pVaEhXRmpjQTk4UVIycjk5YXAya2Y4dGJNd3lFRERISDZxVXhwNmJTR0NreWtmZDNVck5BNDRxVEZXTGh2czZhMEM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a8b1f28eaf060b893e2e76cf",
+      "remembered_at": "2026-11-17T18:39:26.833895+00:00",
+      "event_date": "2026-11-17T18:14:06+00:00",
+      "last_update": "2026-11-17T18:14:06+00:00",
+      "event": "Jensen Huang to testify before US House committees next month",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "back",
+        "before",
+        "board",
+        "ceo",
+        "committees",
+        "company",
+        "helm",
+        "him",
+        "house",
+        "huang",
+        "jensen",
+        "like",
+        "month",
+        "next",
+        "nvidia",
+        "ready",
+        "return",
+        "said",
+        "testify",
+        "the",
+        "would"
+      ],
+      "source_excerpt": "Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
+          "published_at": "2026-11-17T18:14:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "52a382ec131abb2b178837a6",
+      "remembered_at": "2026-11-17T18:39:26.833895+00:00",
+      "event_date": "2026-11-17T17:57:20+00:00",
+      "last_update": "2026-11-17T17:57:20+00:00",
+      "event": "Israeli forces invade Syrian village leaving homes damaged",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "belongings",
+        "bullet",
+        "charred",
+        "damaged",
+        "daraa",
+        "forces",
+        "homes",
+        "invade",
+        "israeli",
+        "leaving",
+        "raids",
+        "riddled",
+        "shows",
+        "syria",
+        "syrian",
+        "video",
+        "village",
+        "walls"
+      ],
+      "source_excerpt": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+          "published_at": "2026-11-17T17:57:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cd1e7311676805a80f5def70",
+      "remembered_at": "2026-11-17T18:39:26.833895+00:00",
+      "event_date": "2026-11-17T17:45:00+00:00",
+      "last_update": "2026-11-17T17:45:00+00:00",
+      "event": "Has empire shaped today’s world?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "empire",
+        "has",
+        "how",
+        "legacy",
+        "much",
+        "shaped",
+        "today",
+        "world"
+      ],
+      "source_excerpt": "How much of today’s world is a legacy of empire?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss",
+          "published_at": "2026-11-17T17:45:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d0b6fc6784863ac6479596cc",
+      "remembered_at": "2026-11-17T18:39:26.833895+00:00",
+      "event_date": "2026-11-17T17:57:56+00:00",
+      "last_update": "2026-11-17T17:57:56+00:00",
+      "event": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "awful",
+        "bbc",
+        "games",
+        "hunger",
+        "opinion",
+        "prequel",
+        "splits",
+        "strong",
+        "surprisingly",
+        "surreally"
+      ],
+      "source_excerpt": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong' BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CN0tnVmxiSFk4eXRiRC1GTVN6SlM5RVVyTFdtamVWbTJXcjVmVmkxclVYZmtNQmFLdHRrYmVKeWpLVndoYU1VVVhyRklkNTltX25fajNDZXFkcmM?oc=5",
+          "published_at": "2026-11-17T17:57:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CN0tnVmxiSFk4eXRiRC1GTVN6SlM5RVVyTFdtamVWbTJXcjVmVmkxclVYZmtNQmFLdHRrYmVKeWpLVndoYU1VVVhyRklkNTltX25fajNDZXFkcmM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T17:40:56.085400+00:00"
+  "updated_at": "2026-11-17T18:39:26.833895+00:00"
 }

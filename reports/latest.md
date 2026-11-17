@@ -1,53 +1,144 @@
-# News Hub report - Tue 17 Nov, 10:40 PM PKT
+# News Hub report - Tue 17 Nov, 11:39 PM PKT
 
 ## Collection
-- New items this run: 166 | items in rolling pool: 1046
-- Unique story clusters: 855 (duplicates merged: 191)
-- Clusters dropped as already published/queued: 9; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 83, Geo News 13, Al Jazeera 6, Engadget 6, Profit by Pakistan Today 5, TechCrunch 4, Pakistan Today 4, samaa tv 3, Dawn Latest 3, TechJuice 3, ARY News 2, Jang Urdu 2
+- New items this run: 57 | items in rolling pool: 983
+- Unique story clusters: 803 (duplicates merged: 180)
+- Clusters dropped as already published/queued: 7; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 6, Engadget 5, Geo News 4, The Verge 4, TechJuice 4, Dawn 3, Al Jazeera 3, Ars Technica 3, Pakistan Today 3, ARY News 2, TechCrunch 2, Profit by Pakistan Today 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine damages Putin’s Crimea bridge as Zelenskyy hails ‘unprecedented’ operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTA finalises licensing framework for 'sky-high' internet, telecommunication services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine damages Putin’s Crimea bridge as Zelenskyy hails ‘unprecedented’ operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTA finalises licensing framework for 'sky-high' internet, telecommunication services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine damages Putin’s Crimea bridge as Zelenskyy hails ‘unprecedented’ operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTA finalises licensing framework for 'sky-high' internet, telecommunication services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 102/107 | empty: 4 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: BBC India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 12 items
+### Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack  [NORMAL]
+- Poster: یوکرین کا کرائمیا پل پر بے مثال حملہ، نقصان پہنچایا / Ukraine Damages Putin's Crimea Bridge | category war
+- Alternative headline: Part of Putin's Prized Crimea Bridge Collapses in Drone Strike
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The News International https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVBsMGlibTVMR1RnU24ySXNnUjFZRHNCRklUcXQ1ZjJlb1lvcTNrUjJWWW42eXUwT2NtM0JrN3FGcHR5SW1ZN3FOa2Jac29qUUhrbWpVdjVJNm1KOWVzZnB1bzQ4WlJpSGZ4ZW81RXJVb3h4d3BWa2pYRWlpZl9JNWNWLWlHcHhZaDRDeEpzVXlmckx2SmZrZU5nQ1c0OWNMelFlZk9WX1RKaUYxVTVWMTcxdmxTb0l1Ny1iNnhR0gG6AUFVX3lxTE5PQ3NXR0tNVnhCU1NuU3dlWWNtejlTY3RQeHlwOWZuMGRqSk5BLWxkWXAxOE8tVzdZQmlUVFEwc291WHNkalRlaWdVYXhIdXUxd0kwQXFOQWdicW9UVFRFZWo1TFNTbzZVX1J3cUhqd2ludWlRRWxUekVwY1RGUDZHTVZUcUhtYS1pOGpZTVZ0RFJBeDRyV1BnMnJKUlRGU3FwNE1Zb3ducFJQaXdtNTU0aExEcU44YmdBdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The News International https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVBsMGlibTVMR1RnU24ySXNnUjFZRHNCRklUcXQ1ZjJlb1lvcTNrUjJWWW42eXUwT2NtM0JrN3FGcHR5SW1ZN3FOa2Jac29qUUhrbWpVdjVJNm1KOWVzZnB1bzQ4WlJpSGZ4ZW81RXJVb3h4d3BWa2pYRWlpZl9JNWNWLWlHcHhZaDRDeEpzVXlmckx2SmZrZU5nQ1c0OWNMelFlZk9WX1RKaUYxVTVWMTcxdmxTb0l1Ny1iNnhR0gG6AUFVX3lxTE5PQ3NXR0tNVnhCU1NuU3dlWWNtejlTY3RQeHlwOWZuMGRqSk5BLWxkWXAxOE8tVzdZQmlUVFEwc291WHNkalRlaWdVYXhIdXUxd0kwQXFOQWdicW9UVFRFZWo1TFNTbzZVX1J3cUhqd2ludWlRRWxUekVwY1RGUDZHTVZUcUhtYS1pOGpZTVZ0RFJBeDRyV1BnMnJKUlRGU3FwNE1Zb3ducFJQaXdtNTU0aExEcU44YmdBdw?oc=5
+- Supporting coverage: UNITED24 Media, Bloomberg.com, The News International, Sky News, Al Jazeera, Al Jazeera
+- Keywords: Crimean bridge, Ukraine, Russia, Zelenskyy, drone attack, war | hashtags: #Ukraine #CrimeaBridge #Russia #Zelenskyy #WorldNews
+- Scheduled: Tue 17 Nov, 11:39 PM PKT
+- Caption:
+```
+President Zelenskyy has hailed an unprecedented Ukrainian operation that damaged Russia's strategic Crimean bridge.
+
+Ukraine has successfully damaged Russia's strategic Crimean bridge in an unprecedented drone operation. President Volodymyr Zelenskyy praised the operation, which dealt a significant blow to Russian supply lines and infrastructure, marking a major escalation in the ongoing conflict.
+
+یوکرین نے ایک بے مثال ڈرون آپریشن میں روس کے اسٹریٹجک کرائمیا پل کو نقصان پہنچایا ہے۔ صدر ولودیمیر زیلنسکی نے اس آپریشن کی تعریف کی، جس نے روسی سپلائی لائنوں اور بنیادی ڈھانچے کو بڑا نقصان پہنچایا۔
+
+According to reports by The News International
+
+#Ukraine #CrimeaBridge #Russia #Zelenskyy #WorldNews
+```
+
+### ECP Decides to Hold Punjab Local Government Elections in Two Phases  [NORMAL]
+- Poster: الیکشن کمیشن کا پنجاب میں بلدیاتی انتخابات دو مرحلے میں کرانے کا فیصلہ / Punjab Local Polls in Two Phases | category politics
+- Alternative headline: Punjab Local Government Polls Scheduled in Two Distinct Phases
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases
+- Supporting coverage: ARY News, samaa tv, Dawn Latest, Dawn, Pakistan Today
+- Keywords: Punjab local government elections, ECP, election commission, Punjab, local polls, Pakistan | hashtags: #ECP #PunjabElections #LocalGovernment #PakistanPolitics #News
+- Scheduled: Tue 17 Nov, 11:49 PM PKT
+- Caption:
+```
+The Election Commission of Pakistan has approved holding local government elections in Punjab across two separate phases.
+
+The Election Commission of Pakistan (ECP) has decided to conduct local government elections in Punjab in two phases, accepting the provincial government's proposal. The first phase will cover 18 districts, excluding major cities like Lahore and Rawalpindi, which are slated for the second phase.
+
+الیکشن کمیشن آف پاکستان (ای سی پی) نے صوبائی حکومت کی تجویز کو منظور کرتے ہوئے پنجاب میں بلدیاتی انتخابات دو مراحل میں کرانے کا فیصلہ کیا ہے۔ پہلے مرحلے میں 18 اضلاع شامل ہوں گے۔
+
+First reported by ARY News
+
+#ECP #PunjabElections #LocalGovernment #PakistanPolitics #News
+```
+
+### PTA Finalises Licensing Framework for In-Flight Internet Services  [NORMAL]
+- Poster: پی ٹی اے نے پروازوں کے دوران انٹرنیٹ کے لیے لائسنسنگ فریم ورک حتمی شکل دے دی / PTA Finalises In-Flight Internet Framework | category tech
+- Alternative headline: Pakistan Set to Introduce Satellite-Based Sky-High Internet for Flights
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0M1VHFobjFJR2ZnYU5pb2VsLWNpbkVMN3N4enkyMVRIZ1d4ZDBuZnhfODhNS1htWkl2ZmJuR1ZkYy1RVzlESlJ5d21uQWMyeGJNd0lJN0JNbWlKZWhOUUJVVzVPZGktZ1J1cEY3VUhYT3BMaUkzWkZTZmwyUzJkNkMwazVzbTB4U3RHM1p0MnlTWWRUOVFRdGNodHcySC1kYzJWeFVrRGZ2cHhiQjljQ0tyeng0V0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0M1VHFobjFJR2ZnYU5pb2VsLWNpbkVMN3N4enkyMVRIZ1d4ZDBuZnhfODhNS1htWkl2ZmJuR1ZkYy1RVzlESlJ5d21uQWMyeGJNd0lJN0JNbWlKZWhOUUJVVzVPZGktZ1J1cEY3VUhYT3BMaUkzWkZTZmwyUzJkNkMwazVzbTB4U3RHM1p0MnlTWWRUOVFRdGNodHcySC1kYzJWeFVrRGZ2cHhiQjljQ0tyeng0V0E?oc=5
+- Supporting coverage: PhoneWorld, Dawn, Dawn Latest, ARY News, Profit by Pakistan Today
+- Keywords: PTA licensing framework, in-flight internet, telecommunication, satellite internet, Pakistan, PTA | hashtags: #PTA #InFlightInternet #DigitalPakistan #Telecom #Technology
+- Scheduled: Tue 17 Nov, 11:59 PM PKT
+- Caption:
+```
+The Pakistan Telecommunication Authority has finalised a new licensing framework to enable satellite-based in-flight internet and telecom services.
+
+The Pakistan Telecommunication Authority (PTA) has finalised its licensing framework for satellite-based, in-flight telecommunication and internet services. This move aims to enhance digital connectivity and introduce high-speed internet access for airline passengers traveling over or within Pakistan.
+
+پاکستان ٹیلی کمیونیکیشن اتھارٹی (پی ٹی اے) نے پروازوں کے دوران سیٹلائٹ پر مبنی ٹیلی کمیونیکیشن اور انٹرنیٹ سروسز کے لیے لائسنسنگ فریم ورک کو حتمی شکل دے دی ہے۔
+
+First reported by Dawn
+
+#PTA #InFlightInternet #DigitalPakistan #Telecom #Technology
+```
+
+### Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged  [NORMAL]
+- Poster: پٹرول کی قیمت میں 3 روپے کمی، ڈیزل کی قیمت برقرار / Petrol Price Reduced, Diesel Unchanged | category economy
+- Alternative headline: OGRA Notifies Reduction in Petrol Prices While Diesel Rates Stay Steady
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxQNldIT0FvRjZlTHpmWnZCYWtObTZ0ZXptRUNqMmVPZWE3a2NsT0VtVDhfV1JWdXhYZFBEQnZPVDJDekRsSGk0SnJCanFsTHdBNktqVVNKZEY0dWh5eTNNNFl4NEE3aVp1MUwyeDdyazQ5eTFWampneGlpcVdnbk1IeF92R2I3dnBzdkE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxQNldIT0FvRjZlTHpmWnZCYWtObTZ0ZXptRUNqMmVPZWE3a2NsT0VtVDhfV1JWdXhYZFBEQnZPVDJDekRsSGk0SnJCanFsTHdBNktqVVNKZEY0dWh5eTNNNFl4NEE3aVp1MUwyeDdyazQ5eTFWampneGlpcVdnbk1IeF92R2I3dnBzdkE?oc=5
+- Supporting coverage: ARYnews.tv, ARY News, Dawn, Dawn Latest, samaa tv
+- Keywords: petrol price reduced, OGRA, diesel price, fuel prices, Pakistan economy, notification | hashtags: #PetrolPrice #OGRA #PakistanEconomy #FuelPrices #News
+- Scheduled: Wed 18 Nov, 12:09 AM PKT
+- Caption:
+```
+OGRA has issued a notification announcing a reduction in petrol prices, while diesel rates will remain unchanged.
+
+The Oil and Gas Regulatory Authority (OGRA) has announced a reduction in the price of petrol by Rs3 per litre. Meanwhile, the price of high-speed diesel remains unchanged for the upcoming fortnightly review period, according to the official notification.
+
+آئل اینڈ گیس ریگولیٹری اتھارٹی (اوگرا) نے پٹرول کی قیمت میں 3 روپے فی لیٹر کمی کا اعلان کیا ہے۔ دریں اثنا، اگلے پندرہ روزہ جائزے کے لیے ڈیزل کی قیمت برقرار رکھی گئی ہے۔
+
+First reported by ARYnews.tv
+
+#PetrolPrice #OGRA #PakistanEconomy #FuelPrices #News
+```
+
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 2
+- News posts published today: 23 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 5
 
 ## Queue status
 - [needs_review] normal | Trump, Xi, Putin Plan Unprecedented Joint Meeting at APEC | Sat 14 Nov, 10:20 PM PKT
-- [published] breaking | Abdul Samad’s late strike sends Pakistan into historic SAFF Championsh | Sat 14 Nov, 10:58 PM PKT
-- [published] high | Pakistan Collects Record Breaking 381 Billion Rupees in Petroleum Levy | Sat 14 Nov, 11:31 PM PKT
-- [published] normal | Pakistan and 16 Nations Strongly Condemn Israeli Strike on Gaza Hospit | Sat 14 Nov, 11:31 PM PKT
 - [needs_review] normal | Nishat Group Agrees to Explore Investment in Pakistan's New Port Proje | Sat 14 Nov, 11:41 PM PKT
 - [needs_review] normal | US Supreme Court Agrees to Hear Trump Administration's Asylum Appeal | Sat 14 Nov, 11:51 PM PKT
 - [needs_review] normal | Iran Accuses US of Threatening to Starve Civilians Through Blockade | Sun 15 Nov, 12:22 AM PKT
@@ -200,29 +291,24 @@
 - [needs_review] normal | Chinese govt announces 61 scholarships for Pakistani students for 2027 | Tue 17 Nov, 08:53 PM PKT
 - [published] normal | Pakistan's Pace Battery Bundles Sri Lanka Out for 98 in Rawalpindi Tes | Tue 17 Nov, 09:30 PM PKT
 - [published] normal | Asian Development Bank Approves $500M Loan to Support Pakistan's Pensi | Tue 17 Nov, 09:40 PM PKT
-- [queued] normal | PTI Leaders Taimur Jhagra and Kamran Bangash Arrested in Peshawar | Tue 17 Nov, 09:50 PM PKT
+- [published] normal | PTI Leaders Taimur Jhagra and Kamran Bangash Arrested in Peshawar | Tue 17 Nov, 09:50 PM PKT
 - [queued] normal | ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Ra | Tue 17 Nov, 10:00 PM PKT
+- [queued] normal | Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack | Tue 17 Nov, 11:39 PM PKT
+- [queued] normal | ECP Decides to Hold Punjab Local Government Elections in Two Phases | Tue 17 Nov, 11:49 PM PKT
+- [queued] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
+- [queued] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
 
 ## Publishing this run
-- Published 'Asian Development Bank Approves $500M Loan to Support Pakistan's Pension Reforms'.
+- Published 'PTI Leaders Taimur Jhagra and Kamran Bangash Arrested in Peshawar'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
+- Calls: 3 | prompt tokens: 7777 | output tokens: 2269
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
+    "message": "This model is currently experiencing high demand. Spikes i
