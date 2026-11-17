@@ -1,133 +1,125 @@
-# News Hub report - Tue 17 Nov, 04:56 PM PKT
+# News Hub report - Tue 17 Nov, 06:00 PM PKT
 
 ## Collection
-- New items this run: 130 | items in rolling pool: 716
-- Unique story clusters: 591 (duplicates merged: 125)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 69, Geo News 6, samaa tv 5, ProPakistani 5, The News International 4, Dawn Pakistan 4, Al Jazeera 4, TechJuice 4, ARY News 3, The Current 3, Dawn 2, X 2
+- New items this run: 145 | items in rolling pool: 824
+- Unique story clusters: 685 (duplicates merged: 139)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 69, Geo News 15, ProPakistani 8, Al Jazeera 7, Investify 6, samaa tv 5, ARY News 4, TechJuice 3, The Current 3, Dawn 2, The News International 2, Dawn Pakistan 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Bangladesh garment workers, police clash in fresh wage protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fire breaks out at factory in Karachi’s Baldia Town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bilawal calls for political 'reset', says system 'deliberately destroyed' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- TikToker Hakeem Shahbaz booked for harassing citizens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICC fines Pakistan and Sri Lanka for slow over-rates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Vance calls out ‘neoconservatives’ over Iran war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mozambique opposition leader faces trial over deadly 2024 election unrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chinese govt announces 61 scholarships for Pakistani students for 2027–28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Bangladesh garment workers, police clash in fresh wage protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fire breaks out at factory in Karachi’s Baldia Town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bilawal calls for political 'reset', says system 'deliberately destroyed' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- TikToker Hakeem Shahbaz booked for harassing citizens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICC fines Pakistan and Sri Lanka for slow over-rates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Vance calls out ‘neoconservatives’ over Iran war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mozambique opposition leader faces trial over deadly 2024 election unrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chinese govt announces 61 scholarships for Pakistani students for 2027–28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Bangladesh garment workers, police clash in fresh wage protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fire breaks out at factory in Karachi’s Baldia Town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bilawal calls for political 'reset', says system 'deliberately destroyed' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- TikToker Hakeem Shahbaz booked for harassing citizens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICC fines Pakistan and Sri Lanka for slow over-rates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Vance calls out ‘neoconservatives’ over Iran war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mozambique opposition leader faces trial over deadly 2024 election unrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chinese govt announces 61 scholarships for Pakistani students for 2027–28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 96/107 | empty: 3 | failed: 8 | malformed/partial: 8
+- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Reuters World | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: NY Times | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Today Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: BBC India General Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: BBC India Economy | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Bangladesh garment workers, police clash in fresh wage protest  [NORMAL]
-- Poster:  / Bangladesh garment workers, police clash in fresh wage protest | category other
-- Alternative headline: Bangladesh garment workers, police clash in fresh wage protest
+### ICC fines Pakistan and Sri Lanka for slow over-rates  [NORMAL]
+- Poster:  / ICC fines Pakistan and Sri Lanka for slow over-rates | category other
+- Alternative headline: ICC fines Pakistan and Sri Lanka for slow over-rates
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3lsemdsWko4cWE4Ty10cGhiTjZSMERpSldsQXBTamM0TWhLQlNiM3MyVWVMQU90Z2lVelc0VnF5TWRfOGkwcUx0cUdVdUgydXRrRjJBNWRfbHI5TlRGNDFDTVZ1d3hKbkNOWUc5THVPU052Z1ZBTTd5WURyM085OWxCQVh4RHgyeFpFdmxSY1VUT3RXMndhMlVzcw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3lsemdsWko4cWE4Ty10cGhiTjZSMERpSldsQXBTamM0TWhLQlNiM3MyVWVMQU90Z2lVelc0VnF5TWRfOGkwcUx0cUdVdUgydXRrRjJBNWRfbHI5TlRGNDFDTVZ1d3hKbkNOWUc5THVPU052Z1ZBTTd5WURyM085OWxCQVh4RHgyeFpFdmxSY1VUT3RXMndhMlVzcw?oc=5
-- Supporting coverage: Dawn, Dawn Latest, ARY News, Al Jazeera
-- Keywords: Bangladesh garment workers, police clash | hashtags: 
-- Scheduled: Tue 17 Nov, 04:56 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2FoRk1uS2NLZGJJUFhlM2lrNU1sRTN0TWlIanNscFIxeUtWcWFWZnpSMFJkTjlLdDI5T2d6bVY2bXgyVW1jOFA3VG1YcUtrYmE4bnlUblhMUThCOUJweHI4SkdBbWVEN1Q3OUlTUHFIZEpCLVpPWmxqZGJ0cEZGTmh2Yk9WZzUyX2I0Vy1OUGdSV3pjMGc3X1U2dm5YZTg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2FoRk1uS2NLZGJJUFhlM2lrNU1sRTN0TWlIanNscFIxeUtWcWFWZnpSMFJkTjlLdDI5T2d6bVY2bXgyVW1jOFA3VG1YcUtrYmE4bnlUblhMUThCOUJweHI4SkdBbWVEN1Q3OUlTUHFIZEpCLVpPWmxqZGJ0cEZGTmh2Yk9WZzUyX2I0Vy1OUGdSV3pjMGc3X1U2dm5YZTg?oc=5
+- Supporting coverage: samaa tv, samaa tv, Geo News, Geo News, Dawn, Dawn Latest
+- Keywords: ICC fines Pakistan and Sri | hashtags: 
+- Scheduled: Tue 17 Nov, 06:00 PM PKT
 - Caption:
 ```
-Bangladesh garment workers, police clash in fresh wage protest
+ICC fines Pakistan and Sri Lanka for slow over-rates
 
-Bangladesh garment workers, police clash in fresh wage protest Dawn
+ICC fines Pakistan and Sri Lanka for slow over-rates samaa tv
+
+Source: samaa tv
+```
+
+### Vance calls out ‘neoconservatives’ over Iran war  [NORMAL]
+- Poster:  / Vance calls out ‘neoconservatives’ over Iran war | category other
+- Alternative headline: Vance calls out ‘neoconservatives’ over Iran war
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera, سانا
+- Keywords: Vance calls out ‘neoconservatives’ over | hashtags: 
+- Scheduled: Tue 17 Nov, 06:10 PM PKT
+- Caption:
+```
+Vance calls out ‘neoconservatives’ over Iran war
+
+US Vice President JD Vance told Fox News that ‘neoconservatives’ want the Iran war to become a forever war.
+
+Source: Al Jazeera
+```
+
+### Mozambique opposition leader faces trial over deadly 2024 election unrest  [NORMAL]
+- Poster:  / Mozambique opposition leader faces trial over deadly 2024 election unrest | category other
+- Alternative headline: Mozambique opposition leader faces trial over deadly 2024 election unrest
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, Al Jazeera
+- Keywords: Mozambique opposition leader faces trial | hashtags: 
+- Scheduled: Tue 17 Nov, 06:20 PM PKT
+- Caption:
+```
+Mozambique opposition leader faces trial over deadly 2024 election unrest
+
+Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.
+
+Source: BBC World
+```
+
+### Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner co  [NORMAL]
+- Poster:  / Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner co | category other
+- Alternative headline: Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner co
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb2ZlVXRwVDAtd09hbXp0Yl9IUEktQnZwTm1ZTzFyRjA3ZjQxcGlndVcxbkFWTlBvU2EtY0RmdkVuYS1jbFppWEYzbjhPRkFQLWs2RE8zejlsZ1cyYWxwdEN6bVZCT1pMb3FBUlhYbjJJbUpjRHZ5UmNyc2NjRFRIVkZ4TDZfM0VQcHhBLTUzeGYyTF9jMW1uRGxtUzV1ZFJaSk93RnJxVmpmbXl4a1B6N2E4aFl2NDV4aWY3c1RESmhYblRmb0V0VnExWVBpMHdJWm95MU9TLW1zLWttUHA5M2M4OA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb2ZlVXRwVDAtd09hbXp0Yl9IUEktQnZwTm1ZTzFyRjA3ZjQxcGlndVcxbkFWTlBvU2EtY0RmdkVuYS1jbFppWEYzbjhPRkFQLWs2RE8zejlsZ1cyYWxwdEN6bVZCT1pMb3FBUlhYbjJJbUpjRHZ5UmNyc2NjRFRIVkZ4TDZfM0VQcHhBLTUzeGYyTF9jMW1uRGxtUzV1ZFJaSk93RnJxVmpmbXl4a1B6N2E4aFl2NDV4aWY3c1RESmhYblRmb0V0VnExWVBpMHdJWm95MU9TLW1zLWttUHA5M2M4OA?oc=5
+- Supporting coverage: Dawn, Investify
+- Keywords: Pakistan, Turkmenistan to convene steering | hashtags: 
+- Scheduled: Tue 17 Nov, 06:30 PM PKT
+- Caption:
+```
+Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner co
+
+Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries Dawn
 
 Source: Dawn
 ```
 
-### CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments  [NORMAL]
-- Poster:  / CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments | category other
-- Alternative headline: CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691419-cdf-munir-iranian-fm-discuss-regional-security-evolving-geopolitical-developments | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691419-cdf-munir-iranian-fm-discuss-regional-security-evolving-geopolitical-developments
-- Supporting coverage: Geo News, Geo News, samaa tv, The Express Tribune
-- Keywords: CDF Munir, Iranian FM discuss | hashtags: 
-- Scheduled: Tue 17 Nov, 05:06 PM PKT
-- Caption:
-```
-CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments
-
-Iranian Foreign Minister Abbas Araghchi meets Chief of Defence Forces and Chief of the Army Staff, Field Marshal Asim Munir in Rawalpindi on November 16. 2026. — ISPR A high-level Iranian delegation led by Iranian Foreign Minister Abbas Araghchi called on Chief of Army Staff...
-
-Source: Geo News
-```
-
-### Fire breaks out at factory in Karachi’s Baldia Town  [NORMAL]
-- Poster:  / Fire breaks out at factory in Karachi’s Baldia Town | category other
-- Alternative headline: Fire breaks out at factory in Karachi’s Baldia Town
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/fire-breaks-out-at-factory-in-karachis-baldia-town | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/fire-breaks-out-at-factory-in-karachis-baldia-town
-- Supporting coverage: ARY News, Dawn Pakistan
-- Keywords: Fire breaks out at factory | hashtags: 
-- Scheduled: Tue 17 Nov, 05:16 PM PKT
-- Caption:
-```
-Fire breaks out at factory in Karachi’s Baldia Town
-
-Fire breaks out at factory in Karachi’s Baldia Town
-
-Source: ARY News
-```
-
-### Bilawal calls for political 'reset', says system 'deliberately destroyed'  [NORMAL]
-- Poster:  / Bilawal calls for political 'reset', says system 'deliberately destroyed' | category other
-- Alternative headline: Bilawal calls for political 'reset', says system 'deliberately destroyed'
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXFVb1g0YTUyM0Q2V3JaeEllQi1VM3RKQU42T2JfNDl6d3RuN0p6OGI4eHpidnZVWnhhbVNiM3N6alpuZUIwRzFuc25SamFJRW1BcHpQY1NiM21BTVZtWl93bl9jaVJDc3BKM1JXSnoybjMxeG9pdUIxdExFQ3kzd3VHbnQzOUZjSGRhTnEtcXF6djJWMDFaeFFhSzlOTUdoNm0w?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXFVb1g0YTUyM0Q2V3JaeEllQi1VM3RKQU42T2JfNDl6d3RuN0p6OGI4eHpidnZVWnhhbVNiM3N6alpuZUIwRzFuc25SamFJRW1BcHpQY1NiM21BTVZtWl93bl9jaVJDc3BKM1JXSnoybjMxeG9pdUIxdExFQ3kzd3VHbnQzOUZjSGRhTnEtcXF6djJWMDFaeFFhSzlOTUdoNm0w?oc=5
-- Supporting coverage: Geo News, Geo News, samaa tv
-- Keywords: Bilawal calls for political 'reset', | hashtags: 
-- Scheduled: Tue 17 Nov, 05:26 PM PKT
-- Caption:
-```
-Bilawal calls for political 'reset', says system 'deliberately destroyed'
-
-Bilawal calls for political 'reset', says system 'deliberately destroyed' Geo News
-
-Source: Geo News
-```
-
-- Indian outlets blocked this run: 9 items
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [published] high | 16 Terrorists Killed, 2 Army Soldiers Martyred in KP Intelligence Oper | Sat 14 Nov, 08:54 PM PKT
@@ -256,11 +248,11 @@ Source: Geo News
 - [needs_review] normal | Pakistan crush Sri Lanka in Blind Asia Cup | Tue 17 Nov, 10:31 AM PKT
 - [needs_review] normal | Balochistan PA flags flour prices, dept mergers | Tue 17 Nov, 10:41 AM PKT
 - [published] normal | Two major Kyiv bridges hit in Russian attack, mayor says | Tue 17 Nov, 11:21 AM PKT
-- [queued] normal | Two held for Rs5m UK work visa fraud | Tue 17 Nov, 11:31 AM PKT
-- [queued] normal | Man found murdered in farmhouse | Tue 17 Nov, 11:41 AM PKT
-- [queued] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
+- [needs_review] normal | Two held for Rs5m UK work visa fraud | Tue 17 Nov, 11:31 AM PKT
+- [needs_review] normal | Man found murdered in farmhouse | Tue 17 Nov, 11:41 AM PKT
+- [needs_review] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
 - [published] breaking | Breaking News, World News and Video from Al Jazeera | Tue 17 Nov, 12:50 PM PKT
-- [queued] normal | Pakistan appoints Shane Deitz as women’s cricket team head coach | Tue 17 Nov, 12:50 PM PKT
+- [published] normal | Pakistan appoints Shane Deitz as women’s cricket team head coach | Tue 17 Nov, 12:50 PM PKT
 - [queued] normal | Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second | Tue 17 Nov, 01:00 PM PKT
 - [queued] normal | Pakistan condemns Israeli attacks in Syria, calls for withdrawal from  | Tue 17 Nov, 01:10 PM PKT
 - [queued] normal | Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | Tue 17 Nov, 01:55 PM PKT
@@ -279,9 +271,13 @@ Source: Geo News
 - [queued] normal | CDF Munir, Iranian FM discuss regional security, evolving geopolitical | Tue 17 Nov, 05:06 PM PKT
 - [queued] normal | Fire breaks out at factory in Karachi’s Baldia Town | Tue 17 Nov, 05:16 PM PKT
 - [queued] normal | Bilawal calls for political 'reset', says system 'deliberately destroy | Tue 17 Nov, 05:26 PM PKT
+- [queued] normal | ICC fines Pakistan and Sri Lanka for slow over-rates | Tue 17 Nov, 06:00 PM PKT
+- [queued] normal | Vance calls out ‘neoconservatives’ over Iran war | Tue 17 Nov, 06:10 PM PKT
+- [queued] normal | Mozambique opposition leader faces trial over deadly 2024 election unr | Tue 17 Nov, 06:20 PM PKT
+- [queued] normal | Pakistan, Turkmenistan to convene steering committee for TAPI gas pipe | Tue 17 Nov, 06:30 PM PKT
 
 ## Publishing this run
-- Published 'Two major Kyiv bridges hit in Russian attack, mayor says'.
+- Published 'Pakistan appoints Shane Deitz as women’s cricket team head coach'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

@@ -49554,7 +49554,905 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "81a8d96567eff95449145e7e",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T11:39:18+00:00",
+      "last_update": "2026-11-17T12:21:33+00:00",
+      "event": "ICC fines Pakistan and Sri Lanka for slow over-rates",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "fines",
+        "for",
+        "icc",
+        "lanka",
+        "over",
+        "pakistan",
+        "rates",
+        "samaa",
+        "slow",
+        "sri"
+      ],
+      "source_excerpt": "ICC fines Pakistan and Sri Lanka for slow over-rates samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2FoRk1uS2NLZGJJUFhlM2lrNU1sRTN0TWlIanNscFIxeUtWcWFWZnpSMFJkTjlLdDI5T2d6bVY2bXgyVW1jOFA3VG1YcUtrYmE4bnlUblhMUThCOUJweHI4SkdBbWVEN1Q3OUlTUHFIZEpCLVpPWmxqZGJ0cEZGTmh2Yk9WZzUyX2I0Vy1OUGdSV3pjMGc3X1U2dm5YZTg?oc=5",
+          "published_at": "2026-11-17T11:39:18+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZmRVdkZWN1RsaHVzZERTTlpTTVExTHpwbjZBS09Rakk1QlIzSHotRml3QkVxVVh6ZjhQLUFKVkY5ZGhMbEU0bG0taGVjVkJFdkpOYV9NVmJhWlU4SmwyeTBuOUQtMVRuWWNDUm56SEl1Z29XbDAyNzk5bnZYR2MwNGZiZnVyZ1U?oc=5",
+          "published_at": "2026-11-17T11:41:58+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0VfVE55QjlYUnRUOEhrN3Q0cHJtemdZZmxpai10Z1VxMVFqMHRJbF9sazM2YTdCWkN0THQyMmVZVy14bVZJUmRJdl9KbElyV0N3Ujg3NEoxVDlKUE5hb3lJcjQzQTJIZDRFMGQwS3FKaWhvV3VKUlR3M1JzNmh6R05EZE9GSm0zanNIVmdDVXVQZWUyN2NXYVpJOTZDSDlCZ1FKUEREWkdPbEU?oc=5",
+          "published_at": "2026-11-17T12:02:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691459-pakistan-sri-lanka-handed-major-wtc27-points-deduction-for-slow-over-rates",
+          "published_at": "2026-11-17T12:02:00+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUUhtWWVEcWRjZ1Y3Y0NlMWFJWUg2YmFGSHhJRUNVOTViZnNFLXdnM3lZSjZOTjg1SzJVbVNwbjZDQ0I5QWRhQWtKRVctLTZYMDBrNHBtbHFaeUVlSDFxdG43dHFCdGZyN1VkaTYyX290d3M2QVRtamR4ekdOdlRxNnY0Nzktc0lFOWRTMXVyZEstU3pfWThIUEptWGdqWkdoQmdEd2RtQQ?oc=5",
+          "published_at": "2026-11-17T12:17:56+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045184/pakistan-sri-lanka-docked-wtc-points-for-slow-over-rates-in-first-test",
+          "published_at": "2026-11-17T12:20:41+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/17/icc-slaps-pakistan-and-sri-lanka-with-heavy-fines-and-wtc-points-deductions/",
+          "published_at": "2026-11-17T12:21:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2FoRk1uS2NLZGJJUFhlM2lrNU1sRTN0TWlIanNscFIxeUtWcWFWZnpSMFJkTjlLdDI5T2d6bVY2bXgyVW1jOFA3VG1YcUtrYmE4bnlUblhMUThCOUJweHI4SkdBbWVEN1Q3OUlTUHFIZEpCLVpPWmxqZGJ0cEZGTmh2Yk9WZzUyX2I0Vy1OUGdSV3pjMGc3X1U2dm5YZTg?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b3108b8c161c33b35e31c32c",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T10:39:13+00:00",
+      "last_update": "2026-11-17T12:25:16+00:00",
+      "event": "Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "committee",
+        "convene",
+        "countries",
+        "dawn",
+        "engagement",
+        "for",
+        "gas",
+        "pakistan",
+        "partner",
+        "pipeline",
+        "steering",
+        "stress",
+        "tapi",
+        "turkmenistan"
+      ],
+      "source_excerpt": "Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb2ZlVXRwVDAtd09hbXp0Yl9IUEktQnZwTm1ZTzFyRjA3ZjQxcGlndVcxbkFWTlBvU2EtY0RmdkVuYS1jbFppWEYzbjhPRkFQLWs2RE8zejlsZ1cyYWxwdEN6bVZCT1pMb3FBUlhYbjJJbUpjRHZ5UmNyc2NjRFRIVkZ4TDZfM0VQcHhBLTUzeGYyTF9jMW1uRGxtUzV1ZFJaSk93RnJxVmpmbXl4a1B6N2E4aFl2NDV4aWY3c1RESmhYblRmb0V0VnExWVBpMHdJWm95MU9TLW1zLWttUHA5M2M4OA?oc=5",
+          "published_at": "2026-11-17T10:39:13+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMGY5WDMzblNob21XVkdUYUZ5WFBYMGVSQjFWanU1ckdfR1VUcEloZ2hJQ3ZHVDRyYXFhcjVIb3BKeFNLaE4yRXJIRTNpemtYeEgxRGxPNU1FN0F1bFJsNFlPcmJ6QlFPQkNHdlBBWE15eWRMT1RrSllvamNYOFdHV2lkU3JURzJUYzZFRWlHVnhnaGNnQkJvM0xfUGdsd1hlSlBGb3Eyek9pRWdHcjNtRkF3TkdYLWlfX2hUVWhIN0l4V0VXTWRjSmZxbVM5UQ?oc=5",
+          "published_at": "2026-11-17T12:25:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb2ZlVXRwVDAtd09hbXp0Yl9IUEktQnZwTm1ZTzFyRjA3ZjQxcGlndVcxbkFWTlBvU2EtY0RmdkVuYS1jbFppWEYzbjhPRkFQLWs2RE8zejlsZ1cyYWxwdEN6bVZCT1pMb3FBUlhYbjJJbUpjRHZ5UmNyc2NjRFRIVkZ4TDZfM0VQcHhBLTUzeGYyTF9jMW1uRGxtUzV1ZFJaSk93RnJxVmpmbXl4a1B6N2E4aFl2NDV4aWY3c1RESmhYblRmb0V0VnExWVBpMHdJWm95MU9TLW1zLWttUHA5M2M4OA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "251f523ea49f377169797f04",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T11:28:04+00:00",
+      "last_update": "2026-11-17T12:25:59+00:00",
+      "event": "Chinese govt announces 61 scholarships for Pakistani students for 2027–28",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "announces",
+        "chinese",
+        "for",
+        "govt",
+        "pakistani",
+        "scholarships",
+        "students"
+      ],
+      "source_excerpt": "Chinese govt announces 61 scholarships for Pakistani students for 2027–28",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/chinese-govt-announces-61-scholarships-for-pakistani-students-for-2027-28",
+          "published_at": "2026-11-17T11:28:04+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/hec-announces-61-fully-funded-chinese-scholarships-for-pakistani-students/",
+          "published_at": "2026-11-17T12:25:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/chinese-govt-announces-61-scholarships-for-pakistani-students-for-2027-28",
+        "publisher_url": "https://arynews.tv/chinese-govt-announces-61-scholarships-for-pakistani-students-for-2027-28",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "32479ed6d4dfc808d39aae49",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T05:01:28+00:00",
+      "last_update": "2026-11-17T09:28:09+00:00",
+      "event": "Geo Headlines 12PM | 17 November 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "12pm",
+        "2026",
+        "geo",
+        "headlines",
+        "news",
+        "november"
+      ],
+      "source_excerpt": "Geo Headlines 12PM | 17 November 2026 Geo News",
+      "sources": [
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGJ4UnlDckV6RlpmenFwTDJwRkZlYWgtXzVPSXBwV2tHN1VxS2JSdmVUQk9HWmNNaHBhenNIdmY4WGY0ZnlBWmkyWmp1S0xRbkZyYU5QZXctazZUYzdzUnlkbVozcGdHTmJSeFZNTGJqLVZHMVR3Wm1raW03Sy14LTNNSGN0TElfQVhOWHpxMXNDaGYzWFBoZU0xZXVRYkI1YUZERmljMWI0NDZx?oc=5",
+          "published_at": "2026-11-17T05:01:28+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaElCYnAtdG9DNmNoYm1tbl91cTRpRGdpN2Z0Y2RaOThsQjJvaW1lMllTYnc4Q3daSXVuejN2M29JUGJZd2VEWl9IMm1zd1RVNmJkbEtrQkZNRkFmMWpTMnJGTjAya01ZeC13MWtjaWlSOS0wOGtGaEh5blNrZ216d056QUUycE90?oc=5",
+          "published_at": "2026-11-17T08:18:08+00:00"
+        },
+        {
+          "name": "Daily Jang ePaper",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9STzQ2ZEJQcnlteUJYVDZMX01Pa2duUkx3LURoeWUtcEhuLWl4NGhmU3FkQnZEYktBTmpkUGN1SlhVLXhBajdTM0VyMFdtRHFGaHh2YmRobUs?oc=5",
+          "published_at": "2026-11-17T09:22:28+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VVFlSZTlid3V4MHJiUzNzNnlVWGw3WWpob0JudjcwMEU1b0Q4bEJYZTM5YTY0T2UyMHh5YXJiYlNDM3kzVndOV3F0WUVybWY5Uml3NTVJTVhZRklTN04ySGpuY2ZPYUZ4VEQyVGxLMUdvbWI5UUpkSGtYZVJwRFU?oc=5",
+          "published_at": "2026-11-17T09:28:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaElCYnAtdG9DNmNoYm1tbl91cTRpRGdpN2Z0Y2RaOThsQjJvaW1lMllTYnc4Q3daSXVuejN2M29JUGJZd2VEWl9IMm1zd1RVNmJkbEtrQkZNRkFmMWpTMnJGTjAya01ZeC13MWtjaWlSOS0wOGtGaEh5blNrZ216d056QUUycE90?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b28edf20e0a920e41d654ad9",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T12:27:00+00:00",
+      "last_update": "2026-11-17T12:27:00+00:00",
+      "event": "Shawn Mendes, Bruna Marquezine keep it casual during Brazil sighting",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actress",
+        "after",
+        "airport",
+        "and",
+        "appearance",
+        "are",
+        "back",
+        "beetle",
+        "blue",
+        "brazil",
+        "bruna",
+        "casual",
+        "comes",
+        "during",
+        "filled",
+        "getaway",
+        "keep",
+        "latest",
+        "marquezine",
+        "mendes",
+        "move",
+        "photographed",
+        "shawn",
+        "sighting",
+        "singer",
+        "the",
+        "their",
+        "wedding",
+        "were"
+      ],
+      "source_excerpt": "Shawn Mendes, Bruna Marquezine keep it casual during Brazil sighting Shawn Mendes and Bruna Marquezine are back on the move — and their latest airport appearance comes after a wedding-filled getaway in Brazil. The singer, 28, and the Blue Beetle actress, 31, were photographed at...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691465-shawn-mendes-bruna-marquezine-keep-it-casual-during-brazil-sighting",
+          "published_at": "2026-11-17T12:27:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691465-shawn-mendes-bruna-marquezine-keep-it-casual-during-brazil-sighting",
+        "publisher_url": "https://www.geo.tv/latest/691465-shawn-mendes-bruna-marquezine-keep-it-casual-during-brazil-sighting",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bba5bd0b9dcc30785e23fdca",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T12:45:28+00:00",
+      "last_update": "2026-11-17T12:45:28+00:00",
+      "event": "Vinicius scores rapid-fire treble as Brazil thrash Singapore",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "brazil",
+        "fire",
+        "rapid",
+        "scores",
+        "singapore",
+        "thrash",
+        "treble",
+        "vinicius"
+      ],
+      "source_excerpt": "Vinicius scores rapid-fire treble as Brazil thrash Singapore",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/vinicius-scores-rapid-fire-treble-as-brazil-thrash-singapore",
+          "published_at": "2026-11-17T12:45:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/vinicius-scores-rapid-fire-treble-as-brazil-thrash-singapore",
+        "publisher_url": "https://arynews.tv/vinicius-scores-rapid-fire-treble-as-brazil-thrash-singapore",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fb12c4cd7c19a5dc2f93b8da",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T12:38:39+00:00",
+      "last_update": "2026-11-17T12:38:39+00:00",
+      "event": "How is US Senate majority leader chosen?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "challenge",
+        "chosen",
+        "chris",
+        "chuck",
+        "congress",
+        "control",
+        "democrats",
+        "for",
+        "hollen",
+        "how",
+        "leader",
+        "majority",
+        "post",
+        "prepare",
+        "schumer",
+        "senate",
+        "set",
+        "take",
+        "the",
+        "van"
+      ],
+      "source_excerpt": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+          "published_at": "2026-11-17T12:38:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d83111b2d184a3889f58ffb4",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T12:33:51+00:00",
+      "last_update": "2026-11-17T12:42:02+00:00",
+      "event": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "conflict",
+        "deal",
+        "doesn",
+        "frozen",
+        "impasse",
+        "into",
+        "iran",
+        "israel",
+        "need",
+        "peace",
+        "rejects",
+        "says",
+        "tehran",
+        "the",
+        "trump",
+        "turning",
+        "war",
+        "washington",
+        "while",
+        "with"
+      ],
+      "source_excerpt": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+          "published_at": "2026-11-17T12:33:51+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTC1nTzQwVTdkS1paY05NZFNnd2w3RWFsRWl5Vm9wM1NteWdsVXJSVGpnd3JiZnNjSHFlVlJLVmE4aXdQZ0tXV2tTWm1INzVZYmJQRkR6cGlIVk43bkZ0bmUyR1IwVHQtemdwemI0Mm8yS1BSVXBDeVFiUlFhMmQzV2pmX0w0RU1uVW1ubjBQTW9ZaXJ1OFJnYm1lLXhBTWFsaWtR0gGoAUFVX3lxTE5VYjRLSi01Y2JUZHN3Q0kxNkZUaEROMTVBc3dIUkdzVjVaeDFEZk9EcTZnUDNpb2l0TE1VOVQ2dE02Tno3UXpPNWxlRExpTzZTZTJpWktWZTZkMEVPU24yT1VFYXpVSmxxSVo4VnBfSXRmNUV2eXJxWWlLbmVfWUpCZ0wzWDZoTms0WEpTdmlnQ0NHV3pSRk1GejRqM1lVc1FfbGJUNmJyXw?oc=5",
+          "published_at": "2026-11-17T12:42:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "02e917e56ba81da6b02e85fa",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T12:25:33+00:00",
+      "last_update": "2026-11-17T12:25:33+00:00",
+      "event": "Trump addresses Quad leaders at first summit since 2024",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "addresses",
+        "bloc",
+        "donald",
+        "first",
+        "leaders",
+        "president",
+        "quad",
+        "security",
+        "since",
+        "spoke",
+        "summit",
+        "the",
+        "their",
+        "trump"
+      ],
+      "source_excerpt": "US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+          "published_at": "2026-11-17T12:25:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d122e716d4998ce55368ce42",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T11:49:39+00:00",
+      "last_update": "2026-11-17T11:49:39+00:00",
+      "event": "Rebecca Grynspan could be the UN’s first woman boss, if she can sway Trump",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "boss",
+        "but",
+        "can",
+        "could",
+        "first",
+        "grynspan",
+        "jazeera",
+        "likes",
+        "more",
+        "rebecca",
+        "risks",
+        "she",
+        "sway",
+        "swaying",
+        "take",
+        "taking",
+        "tells",
+        "test",
+        "the",
+        "trump",
+        "wants",
+        "woman"
+      ],
+      "source_excerpt": "Swaying the US could test Grynspan but she likes taking risks - and wants UN to take more, she tells Al Jazeera.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
+          "published_at": "2026-11-17T11:49:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "780cafab869d8268e2df4bd5",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T12:00:12+00:00",
+      "last_update": "2026-11-17T12:00:12+00:00",
+      "event": "NHS data contract to stay with Palantir until 2029",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2029",
+        "arrangement",
+        "awarded",
+        "calls",
+        "contract",
+        "data",
+        "despite",
+        "end",
+        "from",
+        "labour",
+        "ministers",
+        "mps",
+        "new",
+        "nhs",
+        "not",
+        "palantir",
+        "say",
+        "some",
+        "stay",
+        "the",
+        "until",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T12:00:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8faebe2b2b6e434fcddb02a7",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T12:04:38+00:00",
+      "last_update": "2026-11-17T12:04:38+00:00",
+      "event": "Giant lunar sculpture has visitors over the moon",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "can",
+        "giant",
+        "has",
+        "helier",
+        "lunar",
+        "moon",
+        "november",
+        "over",
+        "people",
+        "sculpture",
+        "see",
+        "the",
+        "until",
+        "visitors",
+        "wide"
+      ],
+      "source_excerpt": "People can see the 6m-wide sculpture in St Helier until 29 November.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cm79213ngx45o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T12:04:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cm79213ngx45o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm79213ngx45o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e228832eafc0746175bd24ba",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T13:00:05+00:00",
+      "last_update": "2026-11-17T13:00:05+00:00",
+      "event": "Speed camera fault may have allowed drivers to escape fines",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allowed",
+        "approval",
+        "camera",
+        "cameras",
+        "drivers",
+        "escape",
+        "evidence",
+        "fault",
+        "fines",
+        "footage",
+        "from",
+        "has",
+        "have",
+        "home",
+        "may",
+        "office",
+        "revoked",
+        "speed",
+        "that",
+        "the",
+        "used"
+      ],
+      "source_excerpt": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T13:00:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dddd0a6d5ed7b7003823461c",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T12:43:07+00:00",
+      "last_update": "2026-11-17T12:43:07+00:00",
+      "event": "Government must act now or lose Royal Mail, former minister warns",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "act",
+        "business",
+        "former",
+        "government",
+        "lose",
+        "mail",
+        "make",
+        "minister",
+        "must",
+        "now",
+        "rivals",
+        "royal",
+        "says",
+        "secretary",
+        "the",
+        "undercutting",
+        "unviable",
+        "warns",
+        "will"
+      ],
+      "source_excerpt": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T12:43:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d881afa9732bb97a620dd183",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T11:58:16+00:00",
+      "last_update": "2026-11-17T11:58:16+00:00",
+      "event": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "and",
+        "between",
+        "costa",
+        "criminal",
+        "denounced",
+        "drugs",
+        "figures",
+        "guez",
+        "gunmen",
+        "had",
+        "journalist",
+        "kill",
+        "links",
+        "organisations",
+        "powerful",
+        "reported",
+        "rica",
+        "rican",
+        "rodr",
+        "trade",
+        "who"
+      ],
+      "source_excerpt": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T11:58:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4a2a7f4060ff65dc3276ff1e",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T12:50:38+00:00",
+      "last_update": "2026-11-17T12:50:38+00:00",
+      "event": "Iranians fear more civilian infrastructure could be targeted in new US war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "civilian",
+        "could",
+        "fear",
+        "infrastructure",
+        "iranians",
+        "jazeera",
+        "more",
+        "new",
+        "targeted",
+        "war"
+      ],
+      "source_excerpt": "Iranians fear more civilian infrastructure could be targeted in new US war Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVktaWnZoTlg5eWNHS2VId0hpUi1wZjNDUGs2SWh2T05Ebk9JeDM4Wk83SG8xOEdITjZHQTd6TWI3bjdBT2VzSVZpUDJxVzR6UEc2UUxFT1ZJbXlobVZvYjNjcGgxZl9XVGRRdEpNWmxZYS1NZ0I3TlYzZW5mT1A0cG9JYkdxeEtrVVUtM0x5c0VQbWw1aGtwYmtVS0JWeW1EaWtCdDdPaFhnSmxfQzBGUl9jR1hNLTjSAbwBQVVfeXFMUE1oazhTZzR2Nmt5QTgxdC1xQ25ycUk2NkdmNWlnNWhtc1NXQTRzWGxaU0piYUlDZXg0ak9ETV93RDkzejFtWE9uYmNUR3k1ZjJUVi1PdG9fYTFadUo3MWhKYmRxcmF5aWpnemdTcWNhUEZBdlZoTmZpZnpyYnE1bG9FeXhoTzFKOUNrdWFxT2k0NDAta0FLOGhtbnZpbnFtSWp3X0RHREN4d24wbmpfZkNIQ0x0UElYUnlGeEc?oc=5",
+          "published_at": "2026-11-17T12:50:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVktaWnZoTlg5eWNHS2VId0hpUi1wZjNDUGs2SWh2T05Ebk9JeDM4Wk83SG8xOEdITjZHQTd6TWI3bjdBT2VzSVZpUDJxVzR6UEc2UUxFT1ZJbXlobVZvYjNjcGgxZl9XVGRRdEpNWmxZYS1NZ0I3TlYzZW5mT1A0cG9JYkdxeEtrVVUtM0x5c0VQbWw1aGtwYmtVS0JWeW1EaWtCdDdPaFhnSmxfQzBGUl9jR1hNLTjSAbwBQVVfeXFMUE1oazhTZzR2Nmt5QTgxdC1xQ25ycUk2NkdmNWlnNWhtc1NXQTRzWGxaU0piYUlDZXg0ak9ETV93RDkzejFtWE9uYmNUR3k1ZjJUVi1PdG9fYTFadUo3MWhKYmRxcmF5aWpnemdTcWNhUEZBdlZoTmZpZnpyYnE1bG9FeXhoTzFKOUNrdWFxT2k0NDAta0FLOGhtbnZpbnFtSWp3X0RHREN4d24wbmpfZkNIQ0x0UElYUnlGeEc?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "72215dd1da2200ec95ae95a1",
+      "remembered_at": "2026-11-17T13:00:32.135606+00:00",
+      "event_date": "2026-11-17T12:52:28+00:00",
+      "last_update": "2026-11-17T12:55:13+00:00",
+      "event": "What to expect from US-China AI safety talks?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "china",
+        "dawn",
+        "expect",
+        "from",
+        "safety",
+        "talks",
+        "what"
+      ],
+      "source_excerpt": "What to expect from US-China AI safety talks? Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVW4yeGd6VDJDMXVQazNwZUxpemowRzQ1TmRqNVJkdGp3U3d4OE0xOTVIemFsN1MwaDQwTmxOOUxIRjdWeW93V251NVFpX1FYSVYyNXlwa3F0dWJfZ0p5Vk1DYWFDUFZYZExKUXNMX0plU041UF9vNFhZRGVDS012WnVTZko?oc=5",
+          "published_at": "2026-11-17T12:52:28+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045185/what-to-expect-from-us-china-ai-safety-talks",
+          "published_at": "2026-11-17T12:55:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVW4yeGd6VDJDMXVQazNwZUxpemowRzQ1TmRqNVJkdGp3U3d4OE0xOTVIemFsN1MwaDQwTmxOOUxIRjdWeW93V251NVFpX1FYSVYyNXlwa3F0dWJfZ0p5Vk1DYWFDUFZYZExKUXNMX0plU041UF9vNFhZRGVDS012WnVTZko?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T11:56:25.856458+00:00"
+  "updated_at": "2026-11-17T13:00:32.135606+00:00"
 }
