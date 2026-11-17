@@ -1,137 +1,126 @@
-# News Hub report - Tue 17 Nov, 12:50 PM PKT
+# News Hub report - Tue 17 Nov, 01:55 PM PKT
 
 ## Collection
-- New items this run: 148 | items in rolling pool: 408
-- Unique story clusters: 335 (duplicates merged: 73)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 74, Geo News 10, ProPakistani 10, Dawn Latest 7, TechJuice 7, samaa tv 5, Al Jazeera 5, The Current 5, The Express Tribune 4, Dunya News 4, ARY News 4, Dawn 3
+- New items this run: 91 | items in rolling pool: 484
+- Unique story clusters: 398 (duplicates merged: 86)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 27, samaa tv 7, Al Jazeera 7, ProPakistani 5, Profit by Pakistan Today 5, Dawn 4, The Current 4, ARY News 3, TechJuice 3, Dawn Latest 2, Geo News 2, BBC 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Pakistan appoints Shane Deitz as women’s cricket team head coach | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Handcuffed suspect injured in ‘encounter’ in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Palestine Weekly: Israel’s political reshuffle as the occupation grinds on | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Leonid meteor shower 2026: When and where to see it from where you live | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oil slips as recovering Mideast exports blunt Gulf tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rs1,500 and Rs100 prize bond draw winners announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan appoints Shane Deitz as women’s cricket team head coach | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Handcuffed suspect injured in ‘encounter’ in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Palestine Weekly: Israel’s political reshuffle as the occupation grinds on | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Leonid meteor shower 2026: When and where to see it from where you live | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oil slips as recovering Mideast exports blunt Gulf tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rs1,500 and Rs100 prize bond draw winners announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan appoints Shane Deitz as women’s cricket team head coach | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Handcuffed suspect injured in ‘encounter’ in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Palestine Weekly: Israel’s political reshuffle as the occupation grinds on | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Leonid meteor shower 2026: When and where to see it from where you live | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oil slips as recovering Mideast exports blunt Gulf tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rs1,500 and Rs100 prize bond draw winners announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 73/107 | empty: 4 | failed: 30 | malformed/partial: 30
+- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Pakistan Political Crisis Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan National Politics | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Rights and Accountability Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Breaking News, World News and Video from Al Jazeera  [BREAKING]
-- Poster:  / Breaking News, World News and Video from Al Jazeera | category other
-- Alternative headline: Breaking News, World News and Video from Al Jazeera
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 95, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+### Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage  [NORMAL]
+- Poster:  / Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | category other
+- Alternative headline: Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMiP0FVX3lxTFBPd3h6VGM0TDlnQTJRaHcwMHkxaG5HcFFUY08yOEpFQ3FjZHB3b3h1bGlwSnRkT3k5SXZORXhjYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMiP0FVX3lxTFBPd3h6VGM0TDlnQTJRaHcwMHkxaG5HcFFUY08yOEpFQ3FjZHB3b3h1bGlwSnRkT3k5SXZORXhjYw?oc=5
-- Supporting coverage: Al Jazeera
-- Keywords: Breaking News, World News and | hashtags: 
-- Scheduled: Tue 17 Nov, 12:50 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXlNSUVNYzZGLXJfc1JjYW9jVmpudHVQOHNWWTlwTFJqNXlXa2syak83cWFiRS1uQ3UyM0tYQmZJRUpTcTh0VjQ0VzA2elAwUUZNR2trZ0FtV2Z6ZlROMTBDN0hFWGhoWlNDSVZvNXg5YWJOU3gzY2VYLWh3a3hDU1NpTmszdDBTWjA3SVpPbWREM0w4?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXlNSUVNYzZGLXJfc1JjYW9jVmpudHVQOHNWWTlwTFJqNXlXa2syak83cWFiRS1uQ3UyM0tYQmZJRUpTcTh0VjQ0VzA2elAwUUZNR2trZ0FtV2Z6ZlROMTBDN0hFWGhoWlNDSVZvNXg5YWJOU3gzY2VYLWh3a3hDU1NpTmszdDBTWjA3SVpPbWREM0w4?oc=5
+- Supporting coverage: Dawn, Al Jazeera, Al Jazeera
+- Keywords: Ukraine hits Russia’s Crimea bridge | hashtags: 
+- Scheduled: Tue 17 Nov, 01:55 PM PKT
 - Caption:
 ```
-Breaking News, World News and Video from Al Jazeera
+Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage
 
-Breaking News, World News and Video from Al Jazeera Al Jazeera
+Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage Dawn
+
+Source: Dawn
+```
+
+### Leonid meteor shower 2026: When and where to see it from where you live  [NORMAL]
+- Poster:  / Leonid meteor shower 2026: When and where to see it from where you live | category other
+- Alternative headline: Leonid meteor shower 2026: When and where to see it from where you live
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss
+- Supporting coverage: Al Jazeera, BBC Science
+- Keywords: Leonid meteor shower 2026: When | hashtags: 
+- Scheduled: Tue 17 Nov, 02:05 PM PKT
+- Caption:
+```
+Leonid meteor shower 2026: When and where to see it from where you live
+
+The Leonids, among the year's fastest meteor showers, peak on November 17-18. Find the best time to watch in your city.
 
 Source: Al Jazeera
 ```
 
-### Pakistan appoints Shane Deitz as women’s cricket team head coach  [NORMAL]
-- Poster:  / Pakistan appoints Shane Deitz as women’s cricket team head coach | category other
-- Alternative headline: Pakistan appoints Shane Deitz as women’s cricket team head coach
+### Oil slips as recovering Mideast exports blunt Gulf tensions  [NORMAL]
+- Poster:  / Oil slips as recovering Mideast exports blunt Gulf tensions | category other
+- Alternative headline: Oil slips as recovering Mideast exports blunt Gulf tensions
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXVQU3pMTVg1UWVJaEg0Q2l5bWVWTXFobmxVXzQwaWh2aVJEMDlDYkVsMWg3eEJTTXdEYmZmSG1XS3k2VXh2c0l2UkFSU2NWbDFONm1MMnBmMkkzWEhyQ0laNVpGLU1BUVdHRzBHc1gyOG13WG9aVTJXTk5FZmRRal9PWV9VTko5RW8tMU1XUmlSanFGTDNvQWNKUkFwUzE0ck1RZmNuM2pIOE1SWkHSAc4BQVVfeXFMTXVnRFhyZnRsLVBveENIQjBaamtVMXZwTkllUU1hWjNEend4VUZEbS1KaW1JLWVURnE1cHVqdUpGSi0yX002QUpJUHFFcndDNWdFaGRydHo5b3lpSV9qcmRKLVVfVTZEUkNuTHlvVklmQWZzX2hIXy1xVDRubnhBUkItd3RVSjhmdlhDbWZFNmhlWVRMd2FwdmFRZ19RNFYxenFmei1NZTVKYWp0aFZNV0o3WnVibFRERFJ3WEJWRWwxN2NxWHNvZDgzT296akE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXVQU3pMTVg1UWVJaEg0Q2l5bWVWTXFobmxVXzQwaWh2aVJEMDlDYkVsMWg3eEJTTXdEYmZmSG1XS3k2VXh2c0l2UkFSU2NWbDFONm1MMnBmMkkzWEhyQ0laNVpGLU1BUVdHRzBHc1gyOG13WG9aVTJXTk5FZmRRal9PWV9VTko5RW8tMU1XUmlSanFGTDNvQWNKUkFwUzE0ck1RZmNuM2pIOE1SWkHSAc4BQVVfeXFMTXVnRFhyZnRsLVBveENIQjBaamtVMXZwTkllUU1hWjNEend4VUZEbS1KaW1JLWVURnE1cHVqdUpGSi0yX002QUpJUHFFcndDNWdFaGRydHo5b3lpSV9qcmRKLVVfVTZEUkNuTHlvVklmQWZzX2hIXy1xVDRubnhBUkItd3RVSjhmdlhDbWZFNmhlWVRMd2FwdmFRZ19RNFYxenFmei1NZTVKYWp0aFZNV0o3WnVibFRERFJ3WEJWRWwxN2NxWHNvZDgzT296akE?oc=5
-- Supporting coverage: The Current, The Express Tribune, Dawn Latest, Dawn
-- Keywords: Pakistan appoints Shane Deitz as | hashtags: 
-- Scheduled: Tue 17 Nov, 12:50 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVJic3JDRlVaT2VJcWlGRVliWF9YWXdDU2otbEl5YzlPbnVGekdIRXlUN2ZQTTRlVWtBODAyR0wwRXNCLWs4bXl1QlBndlNrVUMzX0lQcHVMY1dxdlVqaDdjQ1ctM3RTWmloaUlsS3RjN1VtNmJtWndmNFBIMk1pbjlWZ0M1c2NRSUVtVnFmQXZzM0VwWG9NZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVJic3JDRlVaT2VJcWlGRVliWF9YWXdDU2otbEl5YzlPbnVGekdIRXlUN2ZQTTRlVWtBODAyR0wwRXNCLWs4bXl1QlBndlNrVUMzX0lQcHVMY1dxdlVqaDdjQ1ctM3RTWmloaUlsS3RjN1VtNmJtWndmNFBIMk1pbjlWZ0M1c2NRSUVtVnFmQXZzM0VwWG9NZw?oc=5
+- Supporting coverage: Dawn, The Express Tribune, Profit by Pakistan Today
+- Keywords: Oil slips as recovering Mideast | hashtags: 
+- Scheduled: Tue 17 Nov, 02:15 PM PKT
 - Caption:
 ```
-Pakistan appoints Shane Deitz as women’s cricket team head coach
+Oil slips as recovering Mideast exports blunt Gulf tensions
 
-Pakistan appoints Shane Deitz as women’s cricket team head coach The Express Tribune
-
-Source: The Express Tribune
-```
-
-### Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts  [NORMAL]
-- Poster:  / Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts | category other
-- Alternative headline: Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTljM0JKVDMxbTZxOXlKbkdlcHNST3RUOU9vVFd2eXY5cy16czk5Z3BKdGcyaTJsd0tiTXgzWnExSXJudmpmanVZNFFEYUoybFRzdzMyZXBWc0tPYVh1eFFYSnhYc0dpVnlwOEhYdUs4bU41UWg2ZW9zMjFmeVZIX2JWZ3phSGtHREhtd0xWSlI4OVlOa29vUTZiX2dUVHl3dmVtRUhoaU1nUVVUcFpzekhCbThNZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTljM0JKVDMxbTZxOXlKbkdlcHNST3RUOU9vVFd2eXY5cy16czk5Z3BKdGcyaTJsd0tiTXgzWnExSXJudmpmanVZNFFEYUoybFRzdzMyZXBWc0tPYVh1eFFYSnhYc0dpVnlwOEhYdUs4bU41UWg2ZW9zMjFmeVZIX2JWZ3phSGtHREhtd0xWSlI4OVlOa29vUTZiX2dUVHl3dmVtRUhoaU1nUVVUcFpzekhCbThNZw?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Pakistan's fast bowling masterclass leaves | hashtags: 
-- Scheduled: Tue 17 Nov, 01:00 PM PKT
-- Caption:
-```
-Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts
-
-Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts Dawn
+Oil slips as recovering Mideast exports blunt Gulf tensions Dawn
 
 Source: Dawn
 ```
 
-### Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories  [NORMAL]
-- Poster:  / Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories | category other
-- Alternative headline: Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories
+### Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test  [NORMAL]
+- Poster:  / Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | category other
+- Alternative headline: Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVk5V2JRWXVUSEh2Uk92V0hkV3VqaHhxS2loNlFieEhKRDI5ZXhUZUlFRDVRUkV5SDJsSk91d2NsUk80NlhXNEN2eEpValdPc09oWUM4NEo5dWF6cnVtb1NORUhpRVU1X0lyZTc4VXV1T0dWZVhkUGRVUkwxWmlBWEpfNjhmemdxMEV5dUZOT3VqcEk1bFZpc3NVMWRpbWt6LW8ycy13ZlFBM3o3cUJ3TFF5ZThzdTN6NVZLR09Sa2M?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVk5V2JRWXVUSEh2Uk92V0hkV3VqaHhxS2loNlFieEhKRDI5ZXhUZUlFRDVRUkV5SDJsSk91d2NsUk80NlhXNEN2eEpValdPc09oWUM4NEo5dWF6cnVtb1NORUhpRVU1X0lyZTc4VXV1T0dWZVhkUGRVUkwxWmlBWEpfNjhmemdxMEV5dUZOT3VqcEk1bFZpc3NVMWRpbWt6LW8ycy13ZlFBM3o3cUJ3TFF5ZThzdTN6NVZLR09Sa2M?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Pakistan condemns Israeli attacks in | hashtags: 
-- Scheduled: Tue 17 Nov, 01:10 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxPSG9CVHY1YjdhSGJjeXR1SmNReEU1NGFyNW5KMi1CQlJQUmtkcXltdE8wd3h6eEVWSzN2bmdGQ2E0U1hocFJ6NDVtWG5RaWxsbHp6WFJidzRaRDgydldvdGoyX3dhMkVmVUFQbEhxZlBxeHRITW9HVUpxUHNsZDZ3a0JVS3JaY0VPOWVtdDRXQlAwWV8tOHNvN2VWdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxPSG9CVHY1YjdhSGJjeXR1SmNReEU1NGFyNW5KMi1CQlJQUmtkcXltdE8wd3h6eEVWSzN2bmdGQ2E0U1hocFJ6NDVtWG5RaWxsbHp6WFJidzRaRDgydldvdGoyX3dhMkVmVUFQbEhxZlBxeHRITW9HVUpxUHNsZDZ3a0JVS3JaY0VPOWVtdDRXQlAwWV8tOHNvN2VWdw?oc=5
+- Supporting coverage: samaa tv
+- Keywords: Pakistan fast bowlers dominate as | hashtags: 
+- Scheduled: Tue 17 Nov, 02:25 PM PKT
 - Caption:
 ```
-Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories
+Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test
 
-Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories Dawn
+Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test samaa tv
 
-Source: Dawn
+Source: samaa tv
 ```
 
-- Indian outlets blocked this run: 6 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [published] high | 16 Terrorists Killed, 2 Army Soldiers Martyred in KP Intelligence Oper | Sat 14 Nov, 08:54 PM PKT
@@ -243,11 +232,11 @@ Source: Dawn
 - [needs_review] normal | Paraguay ex-president moved to military jail amid special treatment re | Tue 17 Nov, 05:57 AM PKT
 - [needs_review] normal | EU agrees to resurrect cooperation deal with Syria | Tue 17 Nov, 06:07 AM PKT
 - [needs_review] normal | The AI start-ups fixing India's broken roads and messy land records | Tue 17 Nov, 06:17 AM PKT
-- [queued] normal | Yemeni army reports 661 attacks on Houthis as group advances towards A | Tue 17 Nov, 07:11 AM PKT
-- [queued] normal | New Zealand tricks and annual leave - the lengths fans are going to fo | Tue 17 Nov, 07:21 AM PKT
-- [queued] normal | Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | Tue 17 Nov, 07:31 AM PKT
-- [queued] normal | Ukraine holds peace talks with US, Europe as conflict escalates | Tue 17 Nov, 07:41 AM PKT
-- [queued] normal | Flour gets costlier as imports stay insufficient | Tue 17 Nov, 08:10 AM PKT
+- [needs_review] normal | Yemeni army reports 661 attacks on Houthis as group advances towards A | Tue 17 Nov, 07:11 AM PKT
+- [needs_review] normal | New Zealand tricks and annual leave - the lengths fans are going to fo | Tue 17 Nov, 07:21 AM PKT
+- [needs_review] normal | Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | Tue 17 Nov, 07:31 AM PKT
+- [needs_review] normal | Ukraine holds peace talks with US, Europe as conflict escalates | Tue 17 Nov, 07:41 AM PKT
+- [published] normal | Flour gets costlier as imports stay insufficient | Tue 17 Nov, 08:10 AM PKT
 - [queued] normal | Irish court jails man for life over Dublin knife attack that sparked r | Tue 17 Nov, 08:20 AM PKT
 - [queued] normal | UK seeks closer ties with EU after Brexit fail | Tue 17 Nov, 08:30 AM PKT
 - [queued] normal | Ethiopia Moyale clashes disrupt livelihoods as territorial dispute dee | Tue 17 Nov, 08:40 AM PKT
@@ -267,9 +256,13 @@ Source: Dawn
 - [queued] normal | Pakistan appoints Shane Deitz as women’s cricket team head coach | Tue 17 Nov, 12:50 PM PKT
 - [queued] normal | Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second | Tue 17 Nov, 01:00 PM PKT
 - [queued] normal | Pakistan condemns Israeli attacks in Syria, calls for withdrawal from  | Tue 17 Nov, 01:10 PM PKT
+- [queued] normal | Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | Tue 17 Nov, 01:55 PM PKT
+- [queued] normal | Leonid meteor shower 2026: When and where to see it from where you liv | Tue 17 Nov, 02:05 PM PKT
+- [queued] normal | Oil slips as recovering Mideast exports blunt Gulf tensions | Tue 17 Nov, 02:15 PM PKT
+- [queued] normal | Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | Tue 17 Nov, 02:25 PM PKT
 
 ## Publishing this run
-- Published 'Breaking News, World News and Video from Al Jazeera'.
+- Published 'Flour gets costlier as imports stay insufficient'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

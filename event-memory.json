@@ -46991,7 +46991,678 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6b688842fbd801c96c23a70b",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T08:10:40+00:00",
+      "last_update": "2026-11-17T08:10:40+00:00",
+      "event": "Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bowlers",
+        "dominate",
+        "fast",
+        "lanka",
+        "pakistan",
+        "pindi",
+        "samaa",
+        "slump",
+        "sri",
+        "test"
+      ],
+      "source_excerpt": "Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSG9CVHY1YjdhSGJjeXR1SmNReEU1NGFyNW5KMi1CQlJQUmtkcXltdE8wd3h6eEVWSzN2bmdGQ2E0U1hocFJ6NDVtWG5RaWxsbHp6WFJidzRaRDgydldvdGoyX3dhMkVmVUFQbEhxZlBxeHRITW9HVUpxUHNsZDZ3a0JVS3JaY0VPOWVtdDRXQlAwWV8tOHNvN2VWdw?oc=5",
+          "published_at": "2026-11-17T08:10:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSG9CVHY1YjdhSGJjeXR1SmNReEU1NGFyNW5KMi1CQlJQUmtkcXltdE8wd3h6eEVWSzN2bmdGQ2E0U1hocFJ6NDVtWG5RaWxsbHp6WFJidzRaRDgydldvdGoyX3dhMkVmVUFQbEhxZlBxeHRITW9HVUpxUHNsZDZ3a0JVS3JaY0VPOWVtdDRXQlAwWV8tOHNvN2VWdw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e7b8082c46955d197d2a2e76",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T04:13:27+00:00",
+      "last_update": "2026-11-17T08:16:55+00:00",
+      "event": "Rs1,500 and Rs100 prize bond draw winners announced",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500",
+        "and",
+        "announced",
+        "bond",
+        "draw",
+        "dunya",
+        "news",
+        "prize",
+        "rs1",
+        "rs100",
+        "winners"
+      ],
+      "source_excerpt": "Rs1,500 and Rs100 prize bond draw winners announced Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSjdkQjU2RFNySzZvQlNFYlVFaTR5SXp6ZzNUYXBRdlR1eThYRExIQWRfOU1WU182VlJSbFlpRWZsQm1SdzRPZHNITkZzZjRGSFFaMFpyRW5oLVpNY1BRX0lsYnFqSjhMRDhNNDlMdkZFZkswMktfMjdheENqMUxmZEc2Y2taeXlYd0dicGxrNHVxUEpN0gFWQVVfeXFMTXhJSl9FLWVKclVFaTlzLUVlWC1kTmlkZTFVRFRJRHBoWlFRcTJkRnQxU3czWlJpV3hDOHhvMWZYc2pZMTJ3d3RYRVVFelM4TXdienprRmc?oc=5",
+          "published_at": "2026-11-17T04:13:27+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3NOMWhPQ2F5Ml9BVjVtSWJXTFVwbjhwaUJOQzU3NGlQajBTOFo5SzhWamN5b0VRRzVQdXFuRjhrY05VRXNPU1NmUFJIUmZ4Q0I3RGo5Q2J3U05pUVRralgwSDFIUHlaRmEyTlJtUjlwb2tvV21KSEt3dWV4MDFzS1RfNld3SExvUzI0VTVpNGZMVF9Xazl2RjZ6enJqZWZmNE54TzRmYw?oc=5",
+          "published_at": "2026-11-17T08:16:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSjdkQjU2RFNySzZvQlNFYlVFaTR5SXp6ZzNUYXBRdlR1eThYRExIQWRfOU1WU182VlJSbFlpRWZsQm1SdzRPZHNITkZzZjRGSFFaMFpyRW5oLVpNY1BRX0lsYnFqSjhMRDhNNDlMdkZFZkswMktfMjdheENqMUxmZEc2Y2taeXlYd0dicGxrNHVxUEpN0gFWQVVfeXFMTXhJSl9FLWVKclVFaTlzLUVlWC1kTmlkZTFVRFRJRHBoWlFRcTJkRnQxU3czWlJpV3hDOHhvMWZYc2pZMTJ3d3RYRVVFelM4TXdienprRmc?oc=5",
+        "publisher_url": "https://dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3fa618e06be0ed23aca86252",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T08:43:43+00:00",
+      "last_update": "2026-11-17T08:43:43+00:00",
+      "event": "ADB approves $500mn loan to support Pakistan's rension reforms",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500mn",
+        "adb",
+        "approves",
+        "arynews",
+        "loan",
+        "pakistan",
+        "reforms",
+        "rension",
+        "support"
+      ],
+      "source_excerpt": "ADB approves $500mn loan to support Pakistan's rension reforms ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFFek92ZlJyY2I5VnZxWW1UMFRHWmVjREdNaE9kRUpjRUxXcFV2eGRVVUdSTVJwVGdiZFZVM21TbThfemh2UlRxVG5BdlltamJMLTZpRmVYQlMyemNWbDZ4LUl1SUZjX1V2SUhpYlNZX2hnYm4yVXRpbW1rVDRLNkNNWDFVdw?oc=5",
+          "published_at": "2026-11-17T08:43:43+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/adb-approves-500mn-loan-to-support-pakistans-rension-reforms",
+          "published_at": "2026-11-17T08:43:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFFek92ZlJyY2I5VnZxWW1UMFRHWmVjREdNaE9kRUpjRUxXcFV2eGRVVUdSTVJwVGdiZFZVM21TbThfemh2UlRxVG5BdlltamJMLTZpRmVYQlMyemNWbDZ4LUl1SUZjX1V2SUhpYlNZX2hnYm4yVXRpbW1rVDRLNkNNWDFVdw?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e2e873b414a55c7c302c752d",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T07:44:17+00:00",
+      "last_update": "2026-11-17T07:44:17+00:00",
+      "event": "Japan sends up jets after alleged Russian incursion of its airspace",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "aircraft",
+        "airspace",
+        "airspaces",
+        "alleged",
+        "also",
+        "and",
+        "detected",
+        "incursion",
+        "its",
+        "japan",
+        "jets",
+        "korea",
+        "military",
+        "near",
+        "responded",
+        "russian",
+        "sends",
+        "south",
+        "taiwan",
+        "their"
+      ],
+      "source_excerpt": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T07:44:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1417859fcd6aacd45e3313df",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T08:25:25+00:00",
+      "last_update": "2026-11-17T08:37:30+00:00",
+      "event": "Vance calls out ‘neoconservatives’ over Iran war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "become",
+        "calls",
+        "forever",
+        "fox",
+        "iran",
+        "neoconservatives",
+        "news",
+        "out",
+        "over",
+        "president",
+        "that",
+        "the",
+        "told",
+        "vance",
+        "vice",
+        "want",
+        "war"
+      ],
+      "source_excerpt": "US Vice President JD Vance told Fox News that ‘neoconservatives’ want the Iran war to become a forever war.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
+          "published_at": "2026-11-17T08:25:25+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWMxODJsaWJrazQtWnpjZ0RvV2RFM1QwZW9iSzliX1VubWFHa2ROd3NxaDk0TEpGaUxkZHAya0V0RXhib0xkVXhSQjBqdzQtRkJKZUZVQmFtMkpzaGMydjFBMEpaU3Y4SGVkR3hmRjR1X1ZudE91eVYtOGpfVUxpS0E4LUJ1NWlLd1FSZVVQbjVpekFMZUtlcDRUeGF5MTTSAaQBQVVfeXFMTjFoRUx0OGpzdzdnYUNDQ1FBV2Z1NmkyNUozeXpBVFFjRkdyVFNJWUV0YkFOS3RSU1ItZFRuT0g0UzgxX2lUb3JzYm9FNGo5emsxaTFYUGVpRC1SOTBPVnlCaG9LS0tiekZ2SjVteTJIRzhQVmxOVXl2XzFrWnRVcXgtRTQyb0JSc3BwZkItOTBLUkdsNmNfTXB0SHpmdDc2QWI1amw?oc=5",
+          "published_at": "2026-11-17T08:37:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e0685e1370a97decbbc9e9eb",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T08:15:32+00:00",
+      "last_update": "2026-11-17T08:15:32+00:00",
+      "event": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "artificial",
+        "cheating",
+        "confessed",
+        "exams",
+        "glasses",
+        "has",
+        "intelligence",
+        "korea",
+        "near",
+        "perfect",
+        "scandal",
+        "scores",
+        "smart",
+        "south",
+        "student",
+        "tests",
+        "threat",
+        "two",
+        "using",
+        "with"
+      ],
+      "source_excerpt": "A student with near-perfect scores on two tests has confessed to using artificial intelligence.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
+          "published_at": "2026-11-17T08:15:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "74c91936de0755f8745e560b",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T08:10:26+00:00",
+      "last_update": "2026-11-17T08:10:26+00:00",
+      "event": "AI models abandon climate facts to please users, UNESCO report finds",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abandon",
+        "agree",
+        "climate",
+        "eight",
+        "facts",
+        "finds",
+        "models",
+        "out",
+        "please",
+        "report",
+        "tests",
+        "unesco",
+        "users",
+        "with"
+      ],
+      "source_excerpt": "AI models abandon climate facts to agree with users in eight out of 10 tests.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
+          "published_at": "2026-11-17T08:10:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1b45ca190ac95c38c5edb739",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T08:04:35+00:00",
+      "last_update": "2026-11-17T08:04:35+00:00",
+      "event": "Andy Burnham says Brexit is what the UK’s ‘enemies’ wanted",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "andy",
+        "banquet",
+        "brexit",
+        "burnham",
+        "enemies",
+        "lord",
+        "mayor",
+        "minister",
+        "prime",
+        "says",
+        "slammed",
+        "speech",
+        "the",
+        "wanted",
+        "what"
+      ],
+      "source_excerpt": "UK Prime Minister Andy Burnham slammed Brexit in a speech at the Lord Mayor’s Banquet.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/andy-burnham-says-brexit-is-what-the-uks-enemies-wanted?traffic_source=rss",
+          "published_at": "2026-11-17T08:04:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/andy-burnham-says-brexit-is-what-the-uks-enemies-wanted?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/andy-burnham-says-brexit-is-what-the-uks-enemies-wanted?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3adb4f923e4728dcb6dbd1b2",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T08:51:40+00:00",
+      "last_update": "2026-11-17T08:51:40+00:00",
+      "event": "'I spent more than two days waiting in A&E' - NHS bids to end corridor care",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bids",
+        "care",
+        "corridor",
+        "days",
+        "emergency",
+        "end",
+        "get",
+        "government",
+        "has",
+        "help",
+        "home",
+        "more",
+        "nhs",
+        "patients",
+        "sooner",
+        "speed",
+        "spent",
+        "than",
+        "the",
+        "two",
+        "vowed",
+        "waiting",
+        "welsh"
+      ],
+      "source_excerpt": "The Welsh government has vowed to speed up emergency care and help patients get home sooner.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c6gm3912vvvyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T08:51:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c6gm3912vvvyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6gm3912vvvyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "23a3ffa7d2dfea5fa822a877",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T07:42:59+00:00",
+      "last_update": "2026-11-17T07:42:59+00:00",
+      "event": "Australia | Latest News & Updates",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australia",
+        "bbc",
+        "latest",
+        "news",
+        "updates"
+      ],
+      "source_excerpt": "Australia | Latest News & Updates BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zM213REFCTUlkQ2xPdUFxVkVwSVBXcmdCQ202cWJ2WHlWZ2tmOUtlLUtHUVpZRHA5Sk1kY3pqUjlEX2o1WU5lTlEwbDZkaXptYXc?oc=5",
+          "published_at": "2026-11-17T07:42:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zM213REFCTUlkQ2xPdUFxVkVwSVBXcmdCQ202cWJ2WHlWZ2tmOUtlLUtHUVpZRHA5Sk1kY3pqUjlEX2o1WU5lTlEwbDZkaXptYXc?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "908df1ed2e06d2dd7533ed4b",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T07:43:24+00:00",
+      "last_update": "2026-11-17T07:43:24+00:00",
+      "event": "Ministry proposes tariff reforms to boost Pakistan’s exports",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "boost",
+        "exports",
+        "ministry",
+        "pakistan",
+        "proposes",
+        "reforms",
+        "samaa",
+        "tariff"
+      ],
+      "source_excerpt": "Ministry proposes tariff reforms to boost Pakistan’s exports samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTJTajcyNFMtYmRZOHNEeWxEUUkxRlZiZlRXMWtYNGctT0lidDA5YzJWTi05cDJTZTRRWGJjYnZvaC1UZHYwZm9KUEd6R1g3SDNHTkl5ZHQ3b3hNNVh2b1BIV3pYdF8yeVdPWV8zcHZVTzVIbzM3YS1yWExxSk5NdUo3QmNNSEx2Y3pnYXZMaHpxRHFGN3pN?oc=5",
+          "published_at": "2026-11-17T07:43:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTJTajcyNFMtYmRZOHNEeWxEUUkxRlZiZlRXMWtYNGctT0lidDA5YzJWTi05cDJTZTRRWGJjYnZvaC1UZHYwZm9KUEd6R1g3SDNHTkl5ZHQ3b3hNNVh2b1BIV3pYdF8yeVdPWV8zcHZVTzVIbzM3YS1yWExxSk5NdUo3QmNNSEx2Y3pnYXZMaHpxRHFGN3pN?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0da9b129f79d9889c57de5aa",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T06:39:19+00:00",
+      "last_update": "2026-11-17T07:46:47+00:00",
+      "event": "Latest News, Pakistan News, World News, Sports News and Videos",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "dunya",
+        "latest",
+        "news",
+        "pakistan",
+        "sports",
+        "videos",
+        "world"
+      ],
+      "source_excerpt": "Latest News, Pakistan News, World News, Sports News and Videos Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xWFFaWTFPLXM0NWFKM2hlQkhXMlQxV2RGUDZjVGZrMFpJM21NWEhoS2lQWjczYXRXUE5Wd0R4cEU3eUxla0JhNUNpNEhKalNH?oc=5",
+          "published_at": "2026-11-17T06:39:19+00:00"
+        },
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81dWJIcGJ4YWJVcVZNN1k5UU1DZmJVLWFiYUdXWWtxX2xpd0VlV3ZGYWtuS2tETzBNZkJqYmtqN0Jndm04Q3FSdnpESFVlZ0NY?oc=5",
+          "published_at": "2026-11-17T07:17:29+00:00"
+        },
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE04endIOGU0MGxTbzM2cUYxU0RuX0hvSTFtdTF4cThMVkNKTEJUYmdrM0VWSkN5ZkR1?oc=5",
+          "published_at": "2026-11-17T07:46:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xWFFaWTFPLXM0NWFKM2hlQkhXMlQxV2RGUDZjVGZrMFpJM21NWEhoS2lQWjczYXRXUE5Wd0R4cEU3eUxla0JhNUNpNEhKalNH?oc=5",
+        "publisher_url": "https://dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "71e32fce184dbf1306f0ffa1",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T07:43:21+00:00",
+      "last_update": "2026-11-17T07:43:21+00:00",
+      "event": "Imran Khan�s Health Under Discussion! Brain Hemorrhage and Heart Attack Risk | Breaking News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attack",
+        "brain",
+        "breaking",
+        "discussion",
+        "dunya",
+        "health",
+        "heart",
+        "hemorrhage",
+        "imran",
+        "khan",
+        "news",
+        "risk",
+        "under"
+      ],
+      "source_excerpt": "Imran Khan�s Health Under Discussion! Brain Hemorrhage and Heart Attack Risk | Breaking News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNajkwNEdDdTVtTVUwTnlPdDMwTTcyRkRwSnd2bTFIVDRFbXZxYmdIZkpzdFFKZllvSlk3Xzd6R2hUaUJydEhHUkFDV05UUEd3UEI1OWMxZmJ0QkNVV3dwamtjNzFBdDl5dDdHUGtBTG95WjhzNGR5RnFmb3VyaEd2RmRjRDlqNFlaNmhxT1VTR2Nma1c2MXViSVVBYXo4QXd2SkVfNDhra3hKeURDQUdSbGlSUjZCdGgxZ1BXVGNBUFZOSjV4ZGp2NmxGdkF2MHVscGhheUxLYmdfRmZEUWpZ?oc=5",
+          "published_at": "2026-11-17T07:43:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNajkwNEdDdTVtTVUwTnlPdDMwTTcyRkRwSnd2bTFIVDRFbXZxYmdIZkpzdFFKZllvSlk3Xzd6R2hUaUJydEhHUkFDV05UUEd3UEI1OWMxZmJ0QkNVV3dwamtjNzFBdDl5dDdHUGtBTG95WjhzNGR5RnFmb3VyaEd2RmRjRDlqNFlaNmhxT1VTR2Nma1c2MXViSVVBYXo4QXd2SkVfNDhra3hKeURDQUdSbGlSUjZCdGgxZ1BXVGNBUFZOSjV4ZGp2NmxGdkF2MHVscGhheUxLYmdfRmZEUWpZ?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6949d482315e9200b27ff978",
+      "remembered_at": "2026-11-17T08:55:48.350396+00:00",
+      "event_date": "2026-11-17T08:44:54+00:00",
+      "last_update": "2026-11-17T08:44:54+00:00",
+      "event": "Fire breaks out at factory in Karachi’s Baldia Town",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "baldia",
+        "breaks",
+        "factory",
+        "fire",
+        "karachi",
+        "out",
+        "town"
+      ],
+      "source_excerpt": "Fire breaks out at factory in Karachi’s Baldia Town",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/fire-breaks-out-at-factory-in-karachis-baldia-town",
+          "published_at": "2026-11-17T08:44:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/fire-breaks-out-at-factory-in-karachis-baldia-town",
+        "publisher_url": "https://arynews.tv/fire-breaks-out-at-factory-in-karachis-baldia-town",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T07:50:49.921133+00:00"
+  "updated_at": "2026-11-17T08:55:48.350396+00:00"
 }
