@@ -1,141 +1,142 @@
-# News Hub report - Tue 17 Nov, 11:39 PM PKT
+# News Hub report - Wed 18 Nov, 12:47 AM PKT
 
 ## Collection
-- New items this run: 57 | items in rolling pool: 983
-- Unique story clusters: 803 (duplicates merged: 180)
-- Clusters dropped as already published/queued: 7; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 6, Engadget 5, Geo News 4, The Verge 4, TechJuice 4, Dawn 3, Al Jazeera 3, Ars Technica 3, Pakistan Today 3, ARY News 2, TechCrunch 2, Profit by Pakistan Today 2
+- New items this run: 62 | items in rolling pool: 859
+- Unique story clusters: 710 (duplicates merged: 149)
+- Clusters dropped as already published/queued: 13; unchanged since last analysis: 4
+- Items per outlet: ARY News 9, Geo News 7, Al Jazeera 7, The Verge 4, TechCrunch 4, Engadget 4, Dawn 2, Wired 2, Pakistan Today 2, Ahram Online 2, ARYnews.tv 1, samaa tv 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Ukraine damages Putin’s Crimea bridge as Zelenskyy hails ‘unprecedented’ operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTA finalises licensing framework for 'sky-high' internet, telecommunication services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US officially loses measles-free status after 26 years amid outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Ukraine damages Putin’s Crimea bridge as Zelenskyy hails ‘unprecedented’ operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTA finalises licensing framework for 'sky-high' internet, telecommunication services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US officially loses measles-free status after 26 years amid outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Ukraine damages Putin’s Crimea bridge as Zelenskyy hails ‘unprecedented’ operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTA finalises licensing framework for 'sky-high' internet, telecommunication services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US officially loses measles-free status after 26 years amid outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack  [NORMAL]
-- Poster: یوکرین کا کرائمیا پل پر بے مثال حملہ، نقصان پہنچایا / Ukraine Damages Putin's Crimea Bridge | category war
-- Alternative headline: Part of Putin's Prized Crimea Bridge Collapses in Drone Strike
+### US officially loses measles-free status after 26 years  [NORMAL]
+- Poster: امریکہ نے چھبیس سال بعد خسرہ سے پاک حیثیت کھودی / US loses measles-free status after 26 years | category health
+- Alternative headline: United States loses measles elimination status amid record outbreaks
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss
+- Supporting coverage: Al Jazeera, BBC World, ARY News
+- Keywords: measles, US health, measles outbreak, health status, Al Jazeera | hashtags: #Measles #US #HealthNews #AlJazeera #PublicHealth
+- Scheduled: Wed 18 Nov, 12:47 AM PKT
+- Caption:
+```
+The United States has officially lost its measles-free status after 26 years following a significant outbreak and a reversal in decades of health progress.
+
+A major health organisation has officially declared measles endemic in the United States for the first time since the year 2000. This development reverses nearly three decades of public health progress against the preventable disease amid a growing outbreak.
+
+ایک بڑے صحت کے ادارے نے سنہ دو ہزار کے بعد پہلی بار امریکہ میں خسرہ کو دیمک زدہ قرار دے دیا ہے۔ اس پیش رفت نے ایک پھیلتی ہوئی وباء کے دوران اس قابلِ علاج بیماری کے خلاف تین دہائیوں کی صحت عامہ کی پیش رفت کو الٹ دیا ہے۔
+
+First reported by Al Jazeera
+
+#Measles #US #HealthNews #AlJazeera #PublicHealth
+```
+
+### UK sanctions Israeli firms building West Bank settlements  [NORMAL]
+- Poster: برطانیہ نے مغربی کنارے میں بستیوں کی تعمیر کرنے والی اسرائیلی کمپنیوں پر پابندیاں عائد کر دیں / UK sanctions Israeli firms over West Bank settlements | category politics
+- Alternative headline: United Kingdom imposes sanctions on Israeli settlement builders
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The News International https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVBsMGlibTVMR1RnU24ySXNnUjFZRHNCRklUcXQ1ZjJlb1lvcTNrUjJWWW42eXUwT2NtM0JrN3FGcHR5SW1ZN3FOa2Jac29qUUhrbWpVdjVJNm1KOWVzZnB1bzQ4WlJpSGZ4ZW81RXJVb3h4d3BWa2pYRWlpZl9JNWNWLWlHcHhZaDRDeEpzVXlmckx2SmZrZU5nQ1c0OWNMelFlZk9WX1RKaUYxVTVWMTcxdmxTb0l1Ny1iNnhR0gG6AUFVX3lxTE5PQ3NXR0tNVnhCU1NuU3dlWWNtejlTY3RQeHlwOWZuMGRqSk5BLWxkWXAxOE8tVzdZQmlUVFEwc291WHNkalRlaWdVYXhIdXUxd0kwQXFOQWdicW9UVFRFZWo1TFNTbzZVX1J3cUhqd2ludWlRRWxUekVwY1RGUDZHTVZUcUhtYS1pOGpZTVZ0RFJBeDRyV1BnMnJKUlRGU3FwNE1Zb3ducFJQaXdtNTU0aExEcU44YmdBdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The News International https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVBsMGlibTVMR1RnU24ySXNnUjFZRHNCRklUcXQ1ZjJlb1lvcTNrUjJWWW42eXUwT2NtM0JrN3FGcHR5SW1ZN3FOa2Jac29qUUhrbWpVdjVJNm1KOWVzZnB1bzQ4WlJpSGZ4ZW81RXJVb3h4d3BWa2pYRWlpZl9JNWNWLWlHcHhZaDRDeEpzVXlmckx2SmZrZU5nQ1c0OWNMelFlZk9WX1RKaUYxVTVWMTcxdmxTb0l1Ny1iNnhR0gG6AUFVX3lxTE5PQ3NXR0tNVnhCU1NuU3dlWWNtejlTY3RQeHlwOWZuMGRqSk5BLWxkWXAxOE8tVzdZQmlUVFEwc291WHNkalRlaWdVYXhIdXUxd0kwQXFOQWdicW9UVFRFZWo1TFNTbzZVX1J3cUhqd2ludWlRRWxUekVwY1RGUDZHTVZUcUhtYS1pOGpZTVZ0RFJBeDRyV1BnMnJKUlRGU3FwNE1Zb3ducFJQaXdtNTU0aExEcU44YmdBdw?oc=5
-- Supporting coverage: UNITED24 Media, Bloomberg.com, The News International, Sky News, Al Jazeera, Al Jazeera
-- Keywords: Crimean bridge, Ukraine, Russia, Zelenskyy, drone attack, war | hashtags: #Ukraine #CrimeaBridge #Russia #Zelenskyy #WorldNews
-- Scheduled: Tue 17 Nov, 11:39 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFpQV0ZoN0IxbmlUT0k5NEsteExuSDBVRG1WZDAxZm1FNmFDckEwaEpXaC1HTUNRX2FOOWY1ejFNU2xpZjlCUUdYMUtQRUxrWExGWnJ1blFneVNhVUFIYkcybjBfdjA1MEJmeWI5QTVQc1lWcnluNFlEN3pzbGVGWDl6TDNya3JmYXJ1NUxiZk1MUndnaWE3eDBENVg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFpQV0ZoN0IxbmlUT0k5NEsteExuSDBVRG1WZDAxZm1FNmFDckEwaEpXaC1HTUNRX2FOOWY1ejFNU2xpZjlCUUdYMUtQRUxrWExGWnJ1blFneVNhVUFIYkcybjBfdjA1MEJmeWI5QTVQc1lWcnluNFlEN3pzbGVGWDl6TDNya3JmYXJ1NUxiZk1MUndnaWE3eDBENVg?oc=5
+- Supporting coverage: Dawn, Dawn Latest, BBC World
+- Keywords: UK sanctions, Israeli firms, West Bank, settlements, Dawn | hashtags: #UKSanctions #WestBank #Israel #DawnNews #MiddleEast
+- Scheduled: Wed 18 Nov, 12:57 AM PKT
 - Caption:
 ```
-President Zelenskyy has hailed an unprecedented Ukrainian operation that damaged Russia's strategic Crimean bridge.
+The United Kingdom has imposed official sanctions on Israeli firms that are helping build settlements in the occupied West Bank.
 
-Ukraine has successfully damaged Russia's strategic Crimean bridge in an unprecedented drone operation. President Volodymyr Zelenskyy praised the operation, which dealt a significant blow to Russian supply lines and infrastructure, marking a major escalation in the ongoing conflict.
+The United Kingdom has announced new sanctions targeting Israeli firms involved in helping build settlements in the occupied West Bank. The move comes amid escalating tensions and ongoing international scrutiny over settlement expansion in the region.
 
-یوکرین نے ایک بے مثال ڈرون آپریشن میں روس کے اسٹریٹجک کرائمیا پل کو نقصان پہنچایا ہے۔ صدر ولودیمیر زیلنسکی نے اس آپریشن کی تعریف کی، جس نے روسی سپلائی لائنوں اور بنیادی ڈھانچے کو بڑا نقصان پہنچایا۔
-
-According to reports by The News International
-
-#Ukraine #CrimeaBridge #Russia #Zelenskyy #WorldNews
-```
-
-### ECP Decides to Hold Punjab Local Government Elections in Two Phases  [NORMAL]
-- Poster: الیکشن کمیشن کا پنجاب میں بلدیاتی انتخابات دو مرحلے میں کرانے کا فیصلہ / Punjab Local Polls in Two Phases | category politics
-- Alternative headline: Punjab Local Government Polls Scheduled in Two Distinct Phases
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases
-- Supporting coverage: ARY News, samaa tv, Dawn Latest, Dawn, Pakistan Today
-- Keywords: Punjab local government elections, ECP, election commission, Punjab, local polls, Pakistan | hashtags: #ECP #PunjabElections #LocalGovernment #PakistanPolitics #News
-- Scheduled: Tue 17 Nov, 11:49 PM PKT
-- Caption:
-```
-The Election Commission of Pakistan has approved holding local government elections in Punjab across two separate phases.
-
-The Election Commission of Pakistan (ECP) has decided to conduct local government elections in Punjab in two phases, accepting the provincial government's proposal. The first phase will cover 18 districts, excluding major cities like Lahore and Rawalpindi, which are slated for the second phase.
-
-الیکشن کمیشن آف پاکستان (ای سی پی) نے صوبائی حکومت کی تجویز کو منظور کرتے ہوئے پنجاب میں بلدیاتی انتخابات دو مراحل میں کرانے کا فیصلہ کیا ہے۔ پہلے مرحلے میں 18 اضلاع شامل ہوں گے۔
-
-First reported by ARY News
-
-#ECP #PunjabElections #LocalGovernment #PakistanPolitics #News
-```
-
-### PTA Finalises Licensing Framework for In-Flight Internet Services  [NORMAL]
-- Poster: پی ٹی اے نے پروازوں کے دوران انٹرنیٹ کے لیے لائسنسنگ فریم ورک حتمی شکل دے دی / PTA Finalises In-Flight Internet Framework | category tech
-- Alternative headline: Pakistan Set to Introduce Satellite-Based Sky-High Internet for Flights
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0M1VHFobjFJR2ZnYU5pb2VsLWNpbkVMN3N4enkyMVRIZ1d4ZDBuZnhfODhNS1htWkl2ZmJuR1ZkYy1RVzlESlJ5d21uQWMyeGJNd0lJN0JNbWlKZWhOUUJVVzVPZGktZ1J1cEY3VUhYT3BMaUkzWkZTZmwyUzJkNkMwazVzbTB4U3RHM1p0MnlTWWRUOVFRdGNodHcySC1kYzJWeFVrRGZ2cHhiQjljQ0tyeng0V0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0M1VHFobjFJR2ZnYU5pb2VsLWNpbkVMN3N4enkyMVRIZ1d4ZDBuZnhfODhNS1htWkl2ZmJuR1ZkYy1RVzlESlJ5d21uQWMyeGJNd0lJN0JNbWlKZWhOUUJVVzVPZGktZ1J1cEY3VUhYT3BMaUkzWkZTZmwyUzJkNkMwazVzbTB4U3RHM1p0MnlTWWRUOVFRdGNodHcySC1kYzJWeFVrRGZ2cHhiQjljQ0tyeng0V0E?oc=5
-- Supporting coverage: PhoneWorld, Dawn, Dawn Latest, ARY News, Profit by Pakistan Today
-- Keywords: PTA licensing framework, in-flight internet, telecommunication, satellite internet, Pakistan, PTA | hashtags: #PTA #InFlightInternet #DigitalPakistan #Telecom #Technology
-- Scheduled: Tue 17 Nov, 11:59 PM PKT
-- Caption:
-```
-The Pakistan Telecommunication Authority has finalised a new licensing framework to enable satellite-based in-flight internet and telecom services.
-
-The Pakistan Telecommunication Authority (PTA) has finalised its licensing framework for satellite-based, in-flight telecommunication and internet services. This move aims to enhance digital connectivity and introduce high-speed internet access for airline passengers traveling over or within Pakistan.
-
-پاکستان ٹیلی کمیونیکیشن اتھارٹی (پی ٹی اے) نے پروازوں کے دوران سیٹلائٹ پر مبنی ٹیلی کمیونیکیشن اور انٹرنیٹ سروسز کے لیے لائسنسنگ فریم ورک کو حتمی شکل دے دی ہے۔
+برطانیہ نے مقبوضہ مغربی کنارے میں بستیوں کی تعمیر میں مدد کرنے والی اسرائیلی کمپنیوں کو نشانہ بناتے ہوئے نئی پابندیوں کا اعلان کیا ہے۔ یہ قدم اس خطے میں بستیوں کی توسیع پر بڑھتے ہوئے تناؤ اور جاری بین الاقوامی جانچ پڑتال کے درمیان اٹھایا گیا ہے۔
 
 First reported by Dawn
 
-#PTA #InFlightInternet #DigitalPakistan #Telecom #Technology
+#UKSanctions #WestBank #Israel #DawnNews #MiddleEast
 ```
 
-### Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged  [NORMAL]
-- Poster: پٹرول کی قیمت میں 3 روپے کمی، ڈیزل کی قیمت برقرار / Petrol Price Reduced, Diesel Unchanged | category economy
-- Alternative headline: OGRA Notifies Reduction in Petrol Prices While Diesel Rates Stay Steady
+### Islamabad bans vehicles without fitness tests to curb smog  [NORMAL]
+- Poster: اسمگ کی روک تھام کے لیے اسلام آباد میں فٹنس ٹیسٹ کے بغیر گاڑیوں کے داخلے پر پابندی / Islamabad bans unfit vehicles to curb smog | category disaster
+- Alternative headline: Vehicles lacking fitness and emissions tests barred in Islamabad
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxQNldIT0FvRjZlTHpmWnZCYWtObTZ0ZXptRUNqMmVPZWE3a2NsT0VtVDhfV1JWdXhYZFBEQnZPVDJDekRsSGk0SnJCanFsTHdBNktqVVNKZEY0dWh5eTNNNFl4NEE3aVp1MUwyeDdyazQ5eTFWampneGlpcVdnbk1IeF92R2I3dnBzdkE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxQNldIT0FvRjZlTHpmWnZCYWtObTZ0ZXptRUNqMmVPZWE3a2NsT0VtVDhfV1JWdXhYZFBEQnZPVDJDekRsSGk0SnJCanFsTHdBNktqVVNKZEY0dWh5eTNNNFl4NEE3aVp1MUwyeDdyazQ5eTFWampneGlpcVdnbk1IeF92R2I3dnBzdkE?oc=5
-- Supporting coverage: ARYnews.tv, ARY News, Dawn, Dawn Latest, samaa tv
-- Keywords: petrol price reduced, OGRA, diesel price, fuel prices, Pakistan economy, notification | hashtags: #PetrolPrice #OGRA #PakistanEconomy #FuelPrices #News
-- Scheduled: Wed 18 Nov, 12:09 AM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVZoLTUwSURCQW1LdnZXMVpZR3BZMUlwMWFYQ0w2RXdfcFVMaFdGaDJ0ekI0dVR4enJfYU13TVdjU0dETUdyTEtGWE13NHJlQ2t1ZzY0YjRmYnNVR2F4cjZXVFpFSVlGMG5PY0FDVnM4RGpjQkgxcDZRNG53VFBxWUQxYU02YUpiZk82SWp1NnZIMmpjVVAxVGhkZUpEeTAwX21qdEYxYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVZoLTUwSURCQW1LdnZXMVpZR3BZMUlwMWFYQ0w2RXdfcFVMaFdGaDJ0ekI0dVR4enJfYU13TVdjU0dETUdyTEtGWE13NHJlQ2t1ZzY0YjRmYnNVR2F4cjZXVFpFSVlGMG5PY0FDVnM4RGpjQkgxcDZRNG53VFBxWUQxYU02YUpiZk82SWp1NnZIMmpjVVAxVGhkZUpEeTAwX21qdEYxYw?oc=5
+- Supporting coverage: samaa tv, TechJuice, Dawn, Dawn Pakistan
+- Keywords: Islamabad smog, vehicle fitness, emissions test, smog control, Dawn | hashtags: #Islamabad #Smog #VehicleFitness #SamaaTV #AirQuality
+- Scheduled: Wed 18 Nov, 01:07 AM PKT
 - Caption:
 ```
-OGRA has issued a notification announcing a reduction in petrol prices, while diesel rates will remain unchanged.
+Authorities in Islamabad have barred vehicles without valid fitness and emissions tests from operating in a bid to curb severe smog.
 
-The Oil and Gas Regulatory Authority (OGRA) has announced a reduction in the price of petrol by Rs3 per litre. Meanwhile, the price of high-speed diesel remains unchanged for the upcoming fortnightly review period, according to the official notification.
+In a decisive step to combat worsening smog, authorities in Islamabad have barred vehicles that lack mandatory fitness and emissions certificates. The measure aims to reduce vehicular pollution and improve air quality across the capital.
 
-آئل اینڈ گیس ریگولیٹری اتھارٹی (اوگرا) نے پٹرول کی قیمت میں 3 روپے فی لیٹر کمی کا اعلان کیا ہے۔ دریں اثنا، اگلے پندرہ روزہ جائزے کے لیے ڈیزل کی قیمت برقرار رکھی گئی ہے۔
+اسمگ کا مقابلہ کرنے کے لیے ایک فیصلہ کن اقدام کے طور پر، اسلام آباد کے حکام نے ان گاڑیوں پر پابندی عائد کر دی ہے جن کے پاس لازمی فٹنس اور اخراج کے سرٹیفکیٹ نہیں ہیں۔ اس اقدام کا مقصد گاڑیوں کی آلودگی کو کم کرنا اور دارالحکومت میں فضائی معیار کو بہتر بنانا ہے۔
 
-First reported by ARYnews.tv
+First reported by samaa tv
 
-#PetrolPrice #OGRA #PakistanEconomy #FuelPrices #News
+#Islamabad #Smog #VehicleFitness #SamaaTV #AirQuality
 ```
 
-- Indian outlets blocked this run: 5 items
+### Trump warns Iran over reported dirty bomb threat in Washington  [NORMAL]
+- Poster: واشنگٹن میں مبینہ گندی بم کی دھمکی پر ٹرمپ کا ایران کو انتباہ / Trump warns Iran over reported dirty bomb threat | category security
+- Alternative headline: US takes reported Iranian dirty bomb threat very seriously: Trump
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss
+- Supporting coverage: Al Jazeera, NewsNation
+- Keywords: Trump Iran, dirty bomb, Washington threat, US security, Al Jazeera | hashtags: #DonaldTrump #Iran #WashingtonDC #Security #AlJazeera
+- Scheduled: Wed 18 Nov, 01:17 AM PKT
+- Caption:
+```
+President Donald Trump has responded strongly to reports that Iran was working on plans for a dirty bomb attack targeting Washington, DC.
+
+US President Donald Trump has responded to media reports indicating that Iran was making plans to carry out a threat against Washington, DC. Trump emphasized that the administration is taking the reported dirty bomb plot very seriously.
+
+امریکہ کے صدر ڈونلڈ ٹرمپ نے ان میڈیا رپورٹس کا جواب دیا ہے جن میں اشارہ کیا گیا تھا کہ ایران واشنگٹن ڈی سی کو نشانہ بنانے کے لیے گندی بم کی دھمکی کے منصوبوں پر کام کر رہا ہے۔ ٹرمپ نے اس بات پر زور دیا کہ انتظامیہ اس مبینہ سازش کو انتہائی سنجیدگی سے لے رہی ہے۔
+
+First reported by Al Jazeera
+
+#DonaldTrump #Iran #WashingtonDC #Security #AlJazeera
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 23 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 5
+- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 8
 
 ## Queue status
 - [needs_review] normal | Trump, Xi, Putin Plan Unprecedented Joint Meeting at APEC | Sat 14 Nov, 10:20 PM PKT
@@ -292,23 +293,21 @@ First reported by ARYnews.tv
 - [published] normal | Pakistan's Pace Battery Bundles Sri Lanka Out for 98 in Rawalpindi Tes | Tue 17 Nov, 09:30 PM PKT
 - [published] normal | Asian Development Bank Approves $500M Loan to Support Pakistan's Pensi | Tue 17 Nov, 09:40 PM PKT
 - [published] normal | PTI Leaders Taimur Jhagra and Kamran Bangash Arrested in Peshawar | Tue 17 Nov, 09:50 PM PKT
-- [queued] normal | ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Ra | Tue 17 Nov, 10:00 PM PKT
+- [published] normal | ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Ra | Tue 17 Nov, 10:00 PM PKT
 - [queued] normal | Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack | Tue 17 Nov, 11:39 PM PKT
 - [queued] normal | ECP Decides to Hold Punjab Local Government Elections in Two Phases | Tue 17 Nov, 11:49 PM PKT
 - [queued] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
 - [queued] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
+- [queued] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
+- [queued] normal | UK sanctions Israeli firms building West Bank settlements | Wed 18 Nov, 12:57 AM PKT
+- [queued] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
+- [queued] normal | Trump warns Iran over reported dirty bomb threat in Washington | Wed 18 Nov, 01:17 AM PKT
 
 ## Publishing this run
-- Published 'PTI Leaders Taimur Jhagra and Kamran Bangash Arrested in Peshawar'.
+- Published 'ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Rates'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 7777 | output tokens: 2269
+- Calls: 3 | prompt tokens: 5050 | output tokens: 2309
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

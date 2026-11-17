@@ -53828,7 +53828,584 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0cfa33f5028beaaefcc213e9",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T15:13:57+00:00",
+      "last_update": "2026-11-17T18:43:20+00:00",
+      "event": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "attack",
+        "bomb",
+        "cnn",
+        "dirty",
+        "donald",
+        "iran",
+        "over",
+        "plans",
+        "president",
+        "report",
+        "reported",
+        "responded",
+        "that",
+        "threat",
+        "trump",
+        "warns",
+        "was",
+        "washington",
+        "working"
+      ],
+      "source_excerpt": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+          "published_at": "2026-11-17T15:13:57+00:00"
+        },
+        {
+          "name": "NewsNation",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90OHJKYVZqaXdaWlpjOGo5N0h5cHhuWnUwV2ZzLVVJQW5RLXpqbVg0M2tsdmR2UVZSbWVmenRTUG03Q1E4LWxvVFNvZkZMdWpnb011UXlDN3N0bzlLVHd2bWE2Nlk1ZXI2UHE2cmVGcnB0cllrckQwSjNQdXZKQdIBgwFBVV95cUxQVlViQW5BbkJpdFk2Sy1xSTFJMHJuMlVzYkhQUW0wV3ZjSzM3WUhYd2ZRMkhsYkhSRnpQU0p0U0d1bmUyNUVlb2p2WUxka2x5XzBUakJjaW5wem1PRWlUNmhpSG41OHNjMk1lTVlLVVhuVlRUOUZyM2pXT3k3bnlBU0R5QQ?oc=5",
+          "published_at": "2026-11-17T18:43:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9c0355ebd909d0954d16b158",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T14:29:04+00:00",
+      "last_update": "2026-11-17T18:08:04+00:00",
+      "event": "Saudi's Delta Energy to explore $30 billion energy investment in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "billion",
+        "delta",
+        "energy",
+        "explore",
+        "express",
+        "investment",
+        "pakistan",
+        "saudi",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Saudi's Delta Energy to explore $30 billion energy investment in Pakistan The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5",
+          "published_at": "2026-11-17T14:29:04+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdl9OU3ZJWjk2NzVQd1pfMVVSTFlZMm82T3dWYXdybjJhV2docHJyOUc5VXJnVzU3cjl3Ry1CSGNIUnp3UmwyOHV2VVdDLV81bGZBT0pfUHdJTEJyajhXVFBPZUdXbkZNNVVXR2VmNEZsMlpRQXowUEx0MUU2Q0NSVUtsMXZZOElaVFpSb1F2cEJHcnEwWnF0WlVaRTIwd3Y0TExzQVBET2Jxa3Btd2ZhdEpNX09OTWZwRTkzTW16Tnd3alU?oc=5",
+          "published_at": "2026-11-17T18:08:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "52b83ddf2cebe6b2f0e83190",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T18:15:04+00:00",
+      "last_update": "2026-11-17T19:29:00+00:00",
+      "event": "Apple outage: Users locked out of iCloud, unable to make payments as services go down",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "40am",
+        "accessing",
+        "apple",
+        "approximately",
+        "are",
+        "began",
+        "difficulties",
+        "down",
+        "downdetector",
+        "experiencing",
+        "giant",
+        "icloud",
+        "locked",
+        "make",
+        "out",
+        "outage",
+        "pay",
+        "payments",
+        "problems",
+        "reports",
+        "services",
+        "surging",
+        "technology",
+        "the",
+        "tracking",
+        "unable",
+        "users",
+        "website",
+        "with"
+      ],
+      "source_excerpt": "Apple outage: Users locked out of iCloud, unable to make payments as services go down Apple users are experiencing difficulties accessing the technology giant's services. Reports of problems with Apple Pay began surging on outage-tracking website Downdetector at approximately 11:40am ET...",
+      "sources": [
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/",
+          "published_at": "2026-11-17T18:15:04+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691532-apple-outage-users-locked-out-of-icloud-unable-to-make-payments-as-services-go-down",
+          "published_at": "2026-11-17T19:29:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691532-apple-outage-users-locked-out-of-icloud-unable-to-make-payments-as-services-go-down",
+        "publisher_url": "https://www.geo.tv/latest/691532-apple-outage-users-locked-out-of-icloud-unable-to-make-payments-as-services-go-down",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7444fbac9f674e4f4b20fafc",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T19:09:49+00:00",
+      "last_update": "2026-11-17T19:09:49+00:00",
+      "event": "More than 100,000 take part in France pay protests",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "100",
+        "146",
+        "500",
+        "across",
+        "cgt",
+        "france",
+        "government",
+        "more",
+        "nationwide",
+        "over",
+        "part",
+        "pay",
+        "protests",
+        "put",
+        "rallies",
+        "says",
+        "take",
+        "than",
+        "the",
+        "total",
+        "trade",
+        "union"
+      ],
+      "source_excerpt": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+          "published_at": "2026-11-17T19:09:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5da42b0dd3fadf7f7bd14457",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T19:03:14+00:00",
+      "last_update": "2026-11-17T19:03:14+00:00",
+      "event": "NSA’s classified internal communications network reportedly faces outage",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agency",
+        "air",
+        "amid",
+        "classified",
+        "comes",
+        "communications",
+        "disruption",
+        "faces",
+        "intelligence",
+        "internal",
+        "network",
+        "nsa",
+        "outage",
+        "outages",
+        "over",
+        "questions",
+        "recent",
+        "reportedly",
+        "services",
+        "travel"
+      ],
+      "source_excerpt": "Disruption at US intelligence agency comes amid questions over recent outages in air travel, communications services.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+          "published_at": "2026-11-17T19:03:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7c14fa5fcee86e67064b5de2",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T18:53:00+00:00",
+      "last_update": "2026-11-17T18:53:00+00:00",
+      "event": "Monster waves threaten California coast as storms intensify",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "battered",
+        "california",
+        "coast",
+        "coastline",
+        "communities",
+        "diego",
+        "francisco",
+        "from",
+        "intensify",
+        "massive",
+        "monster",
+        "san",
+        "storms",
+        "threaten",
+        "threatening",
+        "waves"
+      ],
+      "source_excerpt": "Massive waves battered California’s coastline, threatening communities from San Francisco to San Diego.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_monster-waves-threaten-california-coast-171126?traffic_source=rss",
+          "published_at": "2026-11-17T18:53:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_monster-waves-threaten-california-coast-171126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_monster-waves-threaten-california-coast-171126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d3d36b80bc33516021e1d08b",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T18:48:15+00:00",
+      "last_update": "2026-11-17T18:48:15+00:00",
+      "event": "Mozambique opposition leader goes on trial on terrorism charges",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "charges",
+        "civil",
+        "disobedience",
+        "facing",
+        "goes",
+        "gone",
+        "has",
+        "leader",
+        "mondlane",
+        "mozambique",
+        "opposition",
+        "terrorism",
+        "trial",
+        "venancio"
+      ],
+      "source_excerpt": "Mozambique’s opposition leader Venancio Mondlane has gone on trial facing terrorism and civil disobedience charges",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
+          "published_at": "2026-11-17T18:48:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "220af890499cf959d66e8c8d",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T18:47:59+00:00",
+      "last_update": "2026-11-17T18:47:59+00:00",
+      "event": "Indian limbo skater breaks world record",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "beneath",
+        "breaks",
+        "broke",
+        "descending",
+        "guinness",
+        "her",
+        "indian",
+        "limbo",
+        "metres",
+        "own",
+        "poles",
+        "record",
+        "seconds",
+        "skater",
+        "skating",
+        "world"
+      ],
+      "source_excerpt": "An Indian skater broke her own Guinness World Record, limbo skating 50 metres beneath descending poles in 6.86 seconds.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indian-limbo-skater-breaks-world-record?traffic_source=rss",
+          "published_at": "2026-11-17T18:47:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indian-limbo-skater-breaks-world-record?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indian-limbo-skater-breaks-world-record?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "145746d2e05bf53658d2400b",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T18:43:46+00:00",
+      "last_update": "2026-11-17T18:51:48+00:00",
+      "event": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dead",
+        "fadda",
+        "fheidat",
+        "health",
+        "israeli",
+        "kills",
+        "ministry",
+        "mohammed",
+        "palestinian",
+        "people",
+        "pogrom",
+        "says",
+        "settler",
+        "settlers",
+        "shot",
+        "the",
+        "was",
+        "woman",
+        "wounds"
+      ],
+      "source_excerpt": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+          "published_at": "2026-11-17T18:43:46+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcy00RmU1WkxVT21ubFR2MjV3U1p6bmFTVFRMWXI5VFlsNjFnQmZRaGFjaWZuajJGZ1lyZ2dzMEM1X0d1V3hKU0ZvRm1YRDBKOXBLald6VG9PQ05ycVlEWWZ2MEwxOGg2RmhXVk52T1hLOVBBOXNKeUliNzFTTGdKVTR1NVpPUEJfd05JeDNiUGVqV1F2VUJ0VUU4RUdpSVVnUnl2ZnYwRkbSAa4BQVVfeXFMUE1za3ZCR2s0Z2x4c21Hd3h4eGRvdFJwczdsZVZCQ2F4d1ZDbjV1c1N1clNFbXl5Y2pMUVZ6VDYxVTNWcTAwUzJjZG1WeXZnYXFmdUtyUV9CRVhCZFY0M3ZndURCTFRlckRUUEFKOV93RUs0dFNOdnhWZGNMc1d6SjNoM3M2RDA3WHIzMlRoajlsOUNwOTlvSlk4bXZyZG55TUtuallvZUZ0SzBNdHNB?oc=5",
+          "published_at": "2026-11-17T18:51:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eccaa77b3842f4a22e7a2757",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T19:29:44+00:00",
+      "last_update": "2026-11-17T19:29:44+00:00",
+      "event": "Church of England should protect 'every belief', King says",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "belief",
+        "church",
+        "england",
+        "every",
+        "king",
+        "protect",
+        "says",
+        "should"
+      ],
+      "source_excerpt": "Church of England should protect 'every belief', King says BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKSkt5WkwwWUQ3UFJFWVVKUE9nQlM0dmw0TVQ3Sk1XUlVhWWxOWGx5UkFkbW9UY0FqaVV1cWMyODEyM0ZNSmpsMlhMTGtab3hCcTYyUk9Vem1faTA?oc=5",
+          "published_at": "2026-11-17T19:29:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKSkt5WkwwWUQ3UFJFWVVKUE9nQlM0dmw0TVQ3Sk1XUlVhWWxOWGx5UkFkbW9UY0FqaVV1cWMyODEyM0ZNSmpsMlhMTGtab3hCcTYyUk9Vem1faTA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0ae1903720fd30055cbd51f5",
+      "remembered_at": "2026-11-17T19:47:01.581207+00:00",
+      "event_date": "2026-11-17T17:59:00+00:00",
+      "last_update": "2026-11-17T17:59:00+00:00",
+      "event": "FIA detains three people over alleged illegal sale of PIMS medical waste",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "arynews",
+        "detains",
+        "fia",
+        "illegal",
+        "medical",
+        "over",
+        "people",
+        "pims",
+        "sale",
+        "three",
+        "waste"
+      ],
+      "source_excerpt": "FIA detains three people over alleged illegal sale of PIMS medical waste ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUJKVlVOa2pyREVyR2tOX0ZEb2UzUVJRX29jSXFtSzBXMjNBMHRUUEtQSXFnV2s1dmU0YkhXWDFGQ0s1dnJZQ2NBX3BrTXZxZmZwMUFFQklRWDh2bjlqaU1nTTc4RTJWNTdfcHVRUjh1VC1LMlZ2cElSQ1F4YjQxRmZzZ0EzbXNJcWZyVklUSEFqN1piMnc?oc=5",
+          "published_at": "2026-11-17T17:59:00+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/fia-detains-three-people-over-alleged-illegal-sale-of-pims-medical-waste",
+          "published_at": "2026-11-17T17:59:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUJKVlVOa2pyREVyR2tOX0ZEb2UzUVJRX29jSXFtSzBXMjNBMHRUUEtQSXFnV2s1dmU0YkhXWDFGQ0s1dnJZQ2NBX3BrTXZxZmZwMUFFQklRWDh2bjlqaU1nTTc4RTJWNTdfcHVRUjh1VC1LMlZ2cElSQ1F4YjQxRmZzZ0EzbXNJcWZyVklUSEFqN1piMnc?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T18:39:26.833895+00:00"
+  "updated_at": "2026-11-17T19:47:01.581207+00:00"
 }
