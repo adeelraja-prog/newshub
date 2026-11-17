@@ -1,36 +1,38 @@
-# News Hub report - Wed 18 Nov, 01:38 AM PKT
+# News Hub report - Wed 18 Nov, 02:34 AM PKT
 
 ## Collection
-- New items this run: 37 | items in rolling pool: 800
-- Unique story clusters: 670 (duplicates merged: 130)
-- Clusters dropped as already published/queued: 16; unchanged since last analysis: 4
-- Items per outlet: The Express Tribune 5, Al Jazeera 5, Geo News 2, ARY News 2, Ars Technica 2, BBC World 2, Pakistan Today 2, Dunya News 1, Dawn Pakistan 1, The New York Times 1, The Verge 1, TechCrunch 1
+- New items this run: 32 | items in rolling pool: 659
+- Unique story clusters: 569 (duplicates merged: 90)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 3
+- Items per outlet: Al Jazeera 9, Pakistan Today 4, Geo News 2, The Verge 2, The Express Tribune 1, Reuters 1, Dallas News 1, Bloomberg.com 1, Engadget 1, BBC Technology 1, BBC Science 1, BBC World 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- William and Kate celebrate Earthshot Prize winners in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA VI dominates Game Awards 2026: Game of the Year nominees revealed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Major Apple outage brings App Store, iCloud, Apple Music, and Apple Pay to a halt worldwide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- More than 100,000 take part in France pay protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian military plane crashes killing all 19 on board | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kalshi halts Trump speech bets after CFTC order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Police charge crowds at Brussels student march | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China, Canada expand tariff relief after Carney-Xi meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can a robot pianist upstage a human musician? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- William and Kate celebrate Earthshot Prize winners in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA VI dominates Game Awards 2026: Game of the Year nominees revealed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Major Apple outage brings App Store, iCloud, Apple Music, and Apple Pay to a halt worldwide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- More than 100,000 take part in France pay protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian military plane crashes killing all 19 on board | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kalshi halts Trump speech bets after CFTC order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Police charge crowds at Brussels student march | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China, Canada expand tariff relief after Carney-Xi meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can a robot pianist upstage a human musician? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- William and Kate celebrate Earthshot Prize winners in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA VI dominates Game Awards 2026: Game of the Year nominees revealed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Major Apple outage brings App Store, iCloud, Apple Music, and Apple Pay to a halt worldwide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- More than 100,000 take part in France pay protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian military plane crashes killing all 19 on board | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kalshi halts Trump speech bets after CFTC order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Police charge crowds at Brussels student march | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China, Canada expand tariff relief after Carney-Xi meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can a robot pianist upstage a human musician? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 102/107 | empty: 4 | failed: 1 | malformed/partial: 2
+- Overall feeds with entries: 100/107 | empty: 4 | failed: 3 | malformed/partial: 4
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
@@ -38,106 +40,106 @@
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Prince William and Kate Celebrate Earthshot Prize Winners in Mumbai  [NORMAL]
-- Poster: پرنس ولیم اور کیٹ کا ممبئی میں ارتھ شاٹ پرائز جیتنے والوں کو خراج تحسین / William and Kate celebrate Earthshot Prize winners in Mumbai | category lifestyle
-- Alternative headline: Prince William and Princess Kate Honor Environmental Innovators in India
+### Russian military plane crashes in Siberia, killing all 19 aboard  [NORMAL]
+- Poster: روس میں فوجی طیارہ گر کر تباہ، تمام 19 افراد ہلاک / Russian military plane crash kills 19 | category world
+- Alternative headline: An-12 transport aircraft crash in Siberia leaves 19 dead
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Science, BBC
-- Keywords: Earthshot Prize, Prince William, Kate Middleton, Mumbai, Bhutan, environmental innovators | hashtags: #EarthshotPrize #PrinceWilliam #Mumbai #Environment #RoyalVisit
-- Scheduled: Wed 18 Nov, 01:38 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, Geo News, Al Jazeera
+- Keywords: plane crash, Russia, Siberia, military plane, An-12, Kemerovo | hashtags: #Russia #PlaneCrash #Siberia #BreakingNews
+- Scheduled: Wed 18 Nov, 02:34 AM PKT
 - Caption:
 ```
-Prince William and Princess Kate celebrated this year's Earthshot Prize winners in Mumbai, awarding £1m to each environmental innovator.
+A Russian military transport plane has crashed in Siberia, killing all 19 people on board during a scheduled flight.
 
-The Prince and Princess of Wales celebrated this year's winners of the Earthshot Prize in Mumbai, India. Five award-winners, including Bhutan for its environmental policies, will each receive £1m to scale up their projects. The annual event was attended by global stars and marked the royal couple's first official overseas trip together in four years.
+A Russian military transport plane crashed in Siberia's Kemerovo region during a scheduled flight, killing all 19 people on board. The country's defence ministry preliminarily attributes the disaster to a technical malfunction, and an official investigation is currently underway.
 
-پرنس اور پرنسس آف ویلز نے ممبئی میں ارتھ شاٹ پرائز کے اس سال کے فاتحین کا جشن منایا۔ بھوٹان سمیت پانچ فاتحین کو اپنے منصوبوں کو وسعت دینے کے لیے فی کس دس لاکھ پاؤنڈ ملیں گے۔ اس سالانہ تقریب میں عالمی ستاروں نے شرکت کی اور یہ شاہی جوڑے کا چار سال میں پہلا سرکاری غیر ملکی دورہ ہے۔
+روس کا ایک فوجی نقل و حمل کا طیارہ سائبیریا کے کیمیروو خطے میں شیڈول پرواز کے دوران گر کر تباہ ہو گیا، جس میں سوار تمام 19 افراد ہلاک ہو گئے۔ وزارت دفاع کے مطابق ابتدائی طور پر حادثے کی وجہ تکنیکی خرابی معلوم ہوتی ہے اور تحقیقات شروع کر دی گئی ہیں۔
 
-First reported by BBC Science.
+First reported by BBC World
 
-#EarthshotPrize #PrinceWilliam #Mumbai #Environment #RoyalVisit
+#Russia #PlaneCrash #Siberia #BreakingNews
 ```
 
-### GTA VI Dominates Game Awards 2026 With Eight Major Nominations  [NORMAL]
-- Poster: جی ٹی اے 6 نے دی گیم ایوارڈز 2026 میں آٹھ نامزدگیاں حاصل کر لیں / GTA VI dominates Game Awards 2026 with eight nominations | category tech
-- Alternative headline: Grand Theft Auto VI Secures Eight Nominations at Game Awards 2026
+### Kalshi halts Trump speech bets following CFTC order  [NORMAL]
+- Poster: سی ایف ٹی سی کے حکم پر کالشی نے ٹرمپ کی تقریر پر شرطیں روک دیں / Kalshi halts Trump speech bets | category economy
+- Alternative headline: Prediction market Kalshi suspends Trump speech bets after regulator mandate
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691533-gta-vi-dominates-game-awards-2026-game-of-the-year-nominees-revealed | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691533-gta-vi-dominates-game-awards-2026-game-of-the-year-nominees-revealed
-- Supporting coverage: TechJuice, Geo News
-- Keywords: GTA VI, The Game Awards 2026, Game of the Year, Rockstar Games, Manni L. Perez | hashtags: #GTAVI #TheGameAwards #Gaming #RockstarGames #GameOfTheYear
-- Scheduled: Wed 18 Nov, 01:48 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Kalshi, CFTC, Trump, prediction markets, insider trading | hashtags: #Kalshi #CFTC #Trump #PredictionMarkets
+- Scheduled: Wed 18 Nov, 02:44 AM PKT
 - Caption:
 ```
-Rockstar Games' Grand Theft Auto VI has received eight nominations at The Game Awards 2026, including Game of the Year.
+Kalshi has halted bets on a Trump speech following a mandate from the Commodity Futures Trading Commission.
 
-Rockstar Games' Grand Theft Auto VI has received eight nominations at The Game Awards 2026, including Game of the Year, direction, narrative, and best performance for actress Manni L. Perez. The nominations were announced by founder Geoff Keighley, with Nintendo emerging as the most nominated publisher.
+Prediction market platform Kalshi has suspended betting related to a Trump speech following a directive from the Commodity Futures Trading Commission. The move comes amid growing regulatory concerns regarding insider trading risks within US prediction markets.
 
-راک سٹار گیمز کی گرینڈ تھیفٹ آٹو سکس نے دی گیم ایوارڈز 2026 میں گیم آف دی ایئر سمیت آٹھ نامزدگیاں حاصل کی ہیں۔ نامزدگیوں کا اعلان جیف کِیگلی نے کیا، جبکہ نেন্টنڈو سب سے زیادہ نامزدگیاں حاصل کرنے والا پبلشر بن کر ابھرا ہے۔
+پریڈکشن مارکیٹ پلیٹ فارم کالشی نے کموڈٹی فیوچرز ٹ্রেڈنگ کمیشن کی ہدایت کے بعد ٹرمپ کی تقریر سے متعلق شرطیں معطل کر دی ہیں۔ یہ قدم امریکی پیشگوئی مارکیٹوں میں اندرونی تجارت کے خطرات سے متعلق بڑھتے ہوئے ریگولیٹری خدشات کے پیش نظر اٹھایا گیا ہے۔
 
-First reported by Geo News.
+First reported by Al Jazeera
 
-#GTAVI #TheGameAwards #Gaming #RockstarGames #GameOfTheYear
+#Kalshi #CFTC #Trump #PredictionMarkets
 ```
 
-### Major Apple Outage Halts App Store, iCloud, and Apple Pay Globally  [NORMAL]
-- Poster: ایپل کی سروسز دنیا بھر میں معطل، آئی کلاؤڈ اور ایپ اسٹور بند / Major Apple outage halts App Store, iCloud, and Apple Pay globally | category tech
-- Alternative headline: Worldwide Apple Service Outage Affects iCloud, App Store and Apple Pay
+### Police charge crowds during student protest march in Brussels  [NORMAL]
+- Poster: برسلز میں طلبہ کے احتجاج پر پولیس کا لاٹھی چارج / Police charge crowds at Brussels student march | category world
+- Alternative headline: Brussels police confront thousands protesting higher tuition and education cuts
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/major-apple-outage-brings-app-store-icloud-apple-music-and-apple-pay-to-a-halt-worldwide | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/major-apple-outage-brings-app-store-icloud-apple-music-and-apple-pay-to-a-halt-worldwide
-- Supporting coverage: TechCrunch, ARY News
-- Keywords: Apple outage, iCloud, App Store, Apple Pay, Apple Music | hashtags: #Apple #AppleOutage #iCloud #AppStore #TechNews
-- Scheduled: Wed 18 Nov, 01:58 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Brussels protest, students, teachers, tuition fees, education reforms, police charge | hashtags: #Brussels #StudentProtest #Education #Protest
+- Scheduled: Wed 18 Nov, 02:54 AM PKT
 - Caption:
 ```
-A major technical outage took down key Apple services including the App Store, iCloud, Apple Music, and Apple Pay worldwide.
+Thousands of students and teachers marched in Brussels to protest against higher tuition fees and education reforms.
 
-A major technical outage impacted multiple key Apple services including the App Store, iCloud, Apple Music, and Apple Pay, affecting millions of users worldwide. Users were unable to log into iCloud, set up new iPhones, or complete transactions, with outages tracked across multiple countries including the US.
+Thousands of students and teachers took to the streets in Brussels to demonstrate against proposed education reforms, funding cuts, and rising tuition fees. Police reportedly charged crowds as tensions flared during the large-scale protest march.
 
-ایک بڑے تکنیکی خرابی کے باعث ایپل کی اہم سروسز بشمول ایپ اسٹور، آئی کلاؤڈ، ایپل میوزک اور ایپل پے دنیا بھر میں معطل ہو گئیں۔ صارفین آئی کلاؤڈ میں لاگ ان کرنے، نئے آئی فونز سیٹ اپ کرنے یا ادائگی کرنے سے قاصر رہے۔
+برسلز میں ہزاروں طلبہ اور اساتذہ نے مجوزہ تعلیمی اصلاحات، فنڈز میں کٹوتیوں اور بڑھتی ہوئی ٹیوشن فیس کے خلاف احتجاجی مارچ کیا۔ بڑے پیمانے پر ہونے والے اس احتجاج کے دوران صورتحال کشیدہ ہونے پر پولیس نے ہجوم پر دھاوا بول دیا۔
 
-First reported by ARY News.
+First reported by Al Jazeera
 
-#Apple #AppleOutage #iCloud #AppStore #TechNews
+#Brussels #StudentProtest #Education #Protest
 ```
 
-### Saudi's Delta Energy Eyes $30 Billion Energy Investment in Pakistan  [NORMAL]
-- Poster: سعودی عرب کی ڈیلٹا انرجی کا پاکستان میں 30 ارب ڈالر کی سرمایہ کاری کا جائزہ / Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | category economy
-- Alternative headline: Saudi Arabia’s Delta Energy Explores $30 Billion Investment in Pakistan
+### China and Canada expand tariff relief after Carney-Xi meeting  [NORMAL]
+- Poster: کارنے اور شی جن پنگ کی ملاقات کے بعد چین اور کینیڈا کا ٹیرف ریلیف میں توسیع کا فیصلہ / China, Canada expand tariff relief | category economy
+- Alternative headline: Carney-Xi meeting leads to reciprocal tariff cuts between China and Canada
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5
-- Supporting coverage: The Express Tribune, Profit by Pakistan Today
-- Keywords: Delta Energy, Saudi Arabia, Pakistan, energy investment, 30 billion | hashtags: #SaudiArabia #Pakistan #DeltaEnergy #Economy #Investment
-- Scheduled: Wed 18 Nov, 02:08 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: tariff relief, China, Canada, Carney, Xi Jinping, trade tariffs | hashtags: #China #Canada #Tariffs #Trade
+- Scheduled: Wed 18 Nov, 03:04 AM PKT
 - Caption:
 ```
-Saudi Arabia's Delta Energy is exploring a massive $30 billion energy investment opportunity in Pakistan.
+China has offered tariff cuts on Canadian pork and seafood as Canada extends exemptions for Chinese steel and aluminium.
 
-Saudi Arabia's Delta Energy has stepped forward to explore a substantial $30 billion energy investment in Pakistan, according to reports by The Express Tribune and other media outlets.
+Following a meeting between leaders, China has offered tariff cuts on Canadian pork and seafood products. In reciprocal action, Canada has extended exemptions for Chinese steel and aluminium imports, easing trade tensions between the nations.
 
-ایکسپریس ٹریبیون کی رپورٹ کے مطابق سعودی عرب کی ڈیلٹا انرجی پاکستان میں تیس ارب ڈالر کی توانائی کی سرمایہ کاری کے امکانات کا جائزہ لے رہی ہے۔
+رہنماؤں کے درمیان ملاقات کے بعد چین نے کینیڈا کے سور کے گوشت اور سی فوڈ پر ٹیرف میں کمی کی پیشکش کی ہے۔ جواباً کینیڈا نے بھی چینی اسٹیل اور المومینیم کے لیے چھوٹ میں توسیع کر دی ہے، جس سے دونوں ممالک کے درمیان تجارتی کشیدگی کم ہوئی ہے۔
 
-First reported by The Express Tribune.
+First reported by Al Jazeera
 
-#SaudiArabia #Pakistan #DeltaEnergy #Economy #Investment
+#China #Canada #Tariffs #Trade
 ```
 
 - Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
 - [needs_review] normal | Trump, Xi, Putin Plan Unprecedented Joint Meeting at APEC | Sat 14 Nov, 10:20 PM PKT
@@ -148,7 +150,6 @@ First reported by The Express Tribune.
 - [needs_review] normal | Italy Fines Meta $887M Over Unauthorized Android Data Access | Sun 15 Nov, 01:00 AM PKT
 - [needs_review] normal | Israeli Drone Strike Kills Two Palestinians in Northern Gaza | Sun 15 Nov, 01:32 AM PKT
 - [needs_review] normal | Ex-Nvidia CEO Jensen Huang Misled Leaders Over Affair | Sun 15 Nov, 01:42 AM PKT
-- [published] breaking | Major Among Four Security Personnel Martyred in Anti-Terror Operations | Sun 15 Nov, 02:14 AM PKT
 - [published] high | India Edges Pakistan by One Wicket in Last-Ball U19 Asia Cup Thriller | Sun 15 Nov, 02:50 AM PKT
 - [published] high | Latif Khosa Meets Pervez Elahi to Discuss Strategy and Imran Khan Upda | Sun 15 Nov, 02:50 AM PKT
 - [published] breaking | ECO Foreign Ministers' Meeting Kicks Off in Islamabad Without Afghan R | Sun 15 Nov, 03:22 AM PKT
@@ -296,7 +297,7 @@ First reported by The Express Tribune.
 - [published] normal | PTI Leaders Taimur Jhagra and Kamran Bangash Arrested in Peshawar | Tue 17 Nov, 09:50 PM PKT
 - [published] normal | ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Ra | Tue 17 Nov, 10:00 PM PKT
 - [published] normal | Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack | Tue 17 Nov, 11:39 PM PKT
-- [queued] normal | ECP Decides to Hold Punjab Local Government Elections in Two Phases | Tue 17 Nov, 11:49 PM PKT
+- [published] normal | ECP Decides to Hold Punjab Local Government Elections in Two Phases | Tue 17 Nov, 11:49 PM PKT
 - [queued] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
 - [queued] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
 - [queued] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
@@ -307,19 +308,22 @@ First reported by The Express Tribune.
 - [queued] normal | GTA VI Dominates Game Awards 2026 With Eight Major Nominations | Wed 18 Nov, 01:48 AM PKT
 - [queued] normal | Major Apple Outage Halts App Store, iCloud, and Apple Pay Globally | Wed 18 Nov, 01:58 AM PKT
 - [queued] normal | Saudi's Delta Energy Eyes $30 Billion Energy Investment in Pakistan | Wed 18 Nov, 02:08 AM PKT
+- [queued] normal | Russian military plane crashes in Siberia, killing all 19 aboard | Wed 18 Nov, 02:34 AM PKT
+- [queued] normal | Kalshi halts Trump speech bets following CFTC order | Wed 18 Nov, 02:44 AM PKT
+- [queued] normal | Police charge crowds during student protest march in Brussels | Wed 18 Nov, 02:54 AM PKT
+- [queued] normal | China and Canada expand tariff relief after Carney-Xi meeting | Wed 18 Nov, 03:04 AM PKT
 
 ## Publishing this run
-- Published 'Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack'.
+- Published 'ECP Decides to Hold Punjab Local Government Elections in Two Phases'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 6420 | output tokens: 2470
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 3 | prompt tokens: 3549 | output tokens: 2257
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+    "message": "This model is currently experiencing high demand. Spikes i

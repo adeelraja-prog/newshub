@@ -55017,7 +55017,601 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1f1a8ba38cc642d8bd0bdb1d",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T21:28:31+00:00",
+      "last_update": "2026-11-17T21:28:31+00:00",
+      "event": "UK sanctions Israeli settlement firms to protect two-state solution",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bank",
+        "companies",
+        "eight",
+        "firms",
+        "has",
+        "illegal",
+        "imposed",
+        "israeli",
+        "new",
+        "occupied",
+        "protect",
+        "sanctions",
+        "settlement",
+        "settlements",
+        "solution",
+        "state",
+        "supporting",
+        "the",
+        "two",
+        "west"
+      ],
+      "source_excerpt": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+          "published_at": "2026-11-17T21:28:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7ffd1c71b0b98b7a53bab2af",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T21:26:42+00:00",
+      "last_update": "2026-11-17T21:26:42+00:00",
+      "event": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "congress",
+        "control",
+        "dealings",
+        "democrats",
+        "for",
+        "inside",
+        "investigate",
+        "money",
+        "oil",
+        "plan",
+        "plans",
+        "say",
+        "they",
+        "transparency",
+        "trump",
+        "venezuela",
+        "winning",
+        "with",
+        "zero"
+      ],
+      "source_excerpt": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+          "published_at": "2026-11-17T21:26:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "66ac2b0056b1f2c6363d802e",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T21:14:31+00:00",
+      "last_update": "2026-11-17T21:14:43+00:00",
+      "event": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "advanced",
+        "avoided",
+        "been",
+        "could",
+        "deadly",
+        "dismissing",
+        "drone",
+        "killed",
+        "kuwait",
+        "military",
+        "security",
+        "six",
+        "soldiers",
+        "strike",
+        "that",
+        "warnings",
+        "whistleblower"
+      ],
+      "source_excerpt": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+          "published_at": "2026-11-17T21:14:31+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUdMNjI4Y2tNSGdkSWM2TkstSWlYclBHUElUUEYzb2h5LWV3aUFQME9lenFyOXVIS1ZFd0RrdGpKMTNfZ1FWaUREQ2ZkUlBxSGFJa1dwTjNYVzluclpySXl6ejFmOFZPNl9GU2U2RXEwd2VaeHBiTHBtRHJxa1NWMlA1dkdOWUxyMTZicUVOR1pCLW1TSk5oQ1d4MTdSZThKd01vb3dQN21SUdIBrwFBVV95cUxOSVI4NXBIckowYlo2VzZDY0V5aEpoR2RqMm1lVUlSbnNTeFpmb1ZCOGh5SFNwcWJtRzhJbHM2aG9FLTZvV2s3UVNoXzRNREtnRUdTbUJaaWlObzRMOWdSSFlmVjBrRDN2WVdPNHJmTldWTVNmMjVvOGl4VlVnV19tQi1QWDB2eGdwUVdfZVZlQ2MxbVFPQkdoRGVsLU0wLUN5UlYxWUtaVU1XNjRqb0pN?oc=5",
+          "published_at": "2026-11-17T21:14:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1dceb722200b61a26d8089a3",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T20:57:56+00:00",
+      "last_update": "2026-11-17T21:00:00+00:00",
+      "event": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "cao",
+        "chief",
+        "confirmation",
+        "crew",
+        "expanding",
+        "forces",
+        "has",
+        "hearing",
+        "hound",
+        "hung",
+        "iran",
+        "lawmakers",
+        "leadership",
+        "low",
+        "maritime",
+        "morale",
+        "navy",
+        "opaque",
+        "over",
+        "put",
+        "says",
+        "shake",
+        "strain",
+        "ups",
+        "war"
+      ],
+      "source_excerpt": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+          "published_at": "2026-11-17T20:57:56+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFVReGpMcE9DRTdfVHZLZVZtVURDemJTNnV2dUdPREljQ2VRamMxei1rVlRFZl9ybm9oc1lXeUVPOU5pT0F5bl95azk4V0tmdWdyODdvTE1ZUmY1NFdwbV94SWx2ZjdRR0xKTFN0UlNGVlE5Um9LUE8wdTE2RGRBeDF4YmQ1NHpHLWN6UnFSQ2RaZmRkUFBIanI5emZ2dlB0YmpHVjRB0gGrAUFVX3lxTE5UbkZLWHJXMU1RT0E2ZElxUEhpeWVlYzBIU3hWdGpUcG81Ry1BalBPa3pqSnBVNUZPVzRIeEdjbXBQeG1ESjFLM25sdG9fOFlnUEVjaDV3a3o3UW1NN3J3T2c4WXZVUURIaS1weHZzeEtJUG9zbTB0SGQyR2dGRkRtbzVzZ2ZXQXFReHVvYy00TEpiUTRVTDBmQnpvbHNQWXRDejRRTXBlZFhKUQ?oc=5",
+          "published_at": "2026-11-17T21:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7a980a0006270ba868ac01d9",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T20:47:07+00:00",
+      "last_update": "2026-11-17T20:47:07+00:00",
+      "event": "What’s behind the ANC’s decline in South Africa?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "african",
+        "anc",
+        "behind",
+        "congress",
+        "decline",
+        "elections",
+        "ever",
+        "its",
+        "local",
+        "lowest",
+        "month",
+        "national",
+        "share",
+        "south",
+        "the",
+        "this",
+        "vote",
+        "what",
+        "won"
+      ],
+      "source_excerpt": "African National Congress won its lowest-ever vote share in local elections this month.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+          "published_at": "2026-11-17T20:47:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4e7af3cca1f84a459d4f313f",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T20:40:29+00:00",
+      "last_update": "2026-11-17T20:40:29+00:00",
+      "event": "Tensions rise over draft climate deal at COP31",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assessment",
+        "becomes",
+        "climate",
+        "cop31",
+        "deal",
+        "draft",
+        "ipcc",
+        "over",
+        "point",
+        "publication",
+        "report",
+        "rise",
+        "seventh",
+        "sticking",
+        "talks",
+        "tensions",
+        "the"
+      ],
+      "source_excerpt": "Publication of the IPCC’s seventh assessment report becomes a sticking point at UN climate talks",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+          "published_at": "2026-11-17T20:40:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "425fbdc123cc706d59747416",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T21:00:51+00:00",
+      "last_update": "2026-11-17T21:00:51+00:00",
+      "event": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "area",
+        "campaigners",
+        "capital",
+        "claim",
+        "court",
+        "debate",
+        "dubbed",
+        "farms",
+        "follows",
+        "gap",
+        "high",
+        "impacts",
+        "over",
+        "polluting",
+        "poultry",
+        "regulatory",
+        "risks",
+        "rivers",
+        "take",
+        "the",
+        "years"
+      ],
+      "source_excerpt": "It follows years of debate over the alleged impacts on rivers in an area dubbed \"poultry capital\".",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T21:00:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe6eb91d18c004413b05ac5b",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T20:44:54+00:00",
+      "last_update": "2026-11-17T20:44:54+00:00",
+      "event": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allegations",
+        "american",
+        "and",
+        "arrested",
+        "been",
+        "custody",
+        "espionage",
+        "has",
+        "into",
+        "metropolitan",
+        "military",
+        "national",
+        "over",
+        "police",
+        "say",
+        "security",
+        "soldier",
+        "spying",
+        "suspected",
+        "suspicion",
+        "taken",
+        "the"
+      ],
+      "source_excerpt": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T20:44:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0ea99b3ff239b66c495da65a",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T19:09:19+00:00",
+      "last_update": "2026-11-17T20:35:24+00:00",
+      "event": "Former KP minister Jhagra among 3 PTI leaders taken into custody despite bail from PHC",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "among",
+        "and",
+        "bail",
+        "bangash",
+        "been",
+        "court",
+        "custody",
+        "despite",
+        "former",
+        "from",
+        "granted",
+        "had",
+        "high",
+        "interim",
+        "into",
+        "irfan",
+        "jhagra",
+        "kamran",
+        "khyber",
+        "leaders",
+        "minister",
+        "ministers",
+        "pakhtunkhwa",
+        "peshawar",
+        "phc",
+        "police",
+        "president",
+        "preventative",
+        "pti",
+        "saleem",
+        "shortly",
+        "taimoor",
+        "taken",
+        "the",
+        "they",
+        "three",
+        "were"
+      ],
+      "source_excerpt": "PESHAWAR: Former Khyber Pakhtunkhwa ministers Taimoor Saleem Jhagra and Kamran Bangash were among three PTI leaders taken into “preventative” custody by police shortly after they were granted interim bail by the high court. Jhagra, Bangash and PTI’s Peshawar president Irfan Saleem had been granted b",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045217/former-kp-minister-jhagra-among-3-pti-leaders-taken-into-custody-despite-bail-from-phc",
+          "published_at": "2026-11-17T19:09:19+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045217/former-kp-ministers-jhagra-bangash-among-3-pti-leaders-held-under-mpo-despite-bail-from-phc",
+          "published_at": "2026-11-17T20:35:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045217/former-kp-minister-jhagra-among-3-pti-leaders-taken-into-custody-despite-bail-from-phc",
+        "publisher_url": "https://www.dawn.com/news/2045217/former-kp-minister-jhagra-among-3-pti-leaders-taken-into-custody-despite-bail-from-phc",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "39624efec31b2b7e2e7efeeb",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T20:25:24+00:00",
+      "last_update": "2026-11-17T20:25:24+00:00",
+      "event": "Gestapo of Punjab",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "gestapo",
+        "punjab",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Gestapo of Punjab The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PODRLcnd0U09iNVpXU2N1Tk91UDU1dFZhblIxQl9UMHVqbkNSZjNLcDJWVFdGYWVXVEVyMjRhZkVsdU9Rc0pKMjdFWGRzV01lVzRfeDJ3VElIcU5VNjNoenJZeV9yZw?oc=5",
+          "published_at": "2026-11-17T20:25:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PODRLcnd0U09iNVpXU2N1Tk91UDU1dFZhblIxQl9UMHVqbkNSZjNLcDJWVFdGYWVXVEVyMjRhZkVsdU9Rc0pKMjdFWGRzV01lVzRfeDJ3VElIcU5VNjNoenJZeV9yZw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ab6c5284d50d66b6c7eac382",
+      "remembered_at": "2026-11-17T21:34:38.244609+00:00",
+      "event_date": "2026-11-17T19:25:29+00:00",
+      "last_update": "2026-11-17T19:25:29+00:00",
+      "event": "Pakistan seeks stronger partnership with Bangladesh: Jam Kamal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bangladesh",
+        "jam",
+        "kamal",
+        "pakistan",
+        "partnership",
+        "seeks",
+        "stronger",
+        "with"
+      ],
+      "source_excerpt": "Pakistan seeks stronger partnership with Bangladesh: Jam Kamal",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-seeks-stronger-partnership-with-bangladesh-jam-kamal",
+          "published_at": "2026-11-17T19:25:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-seeks-stronger-partnership-with-bangladesh-jam-kamal",
+        "publisher_url": "https://arynews.tv/pakistan-seeks-stronger-partnership-with-bangladesh-jam-kamal",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T20:38:33.953072+00:00"
+  "updated_at": "2026-11-17T21:34:38.244609+00:00"
 }
