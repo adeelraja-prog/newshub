@@ -1,138 +1,137 @@
-# News Hub report - Tue 17 Nov, 05:57 AM PKT
+# News Hub report - Tue 17 Nov, 07:11 AM PKT
 
 ## Collection
-- New items this run: 14 | items in rolling pool: 312
-- Unique story clusters: 257 (duplicates merged: 55)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 8
-- Items per outlet: Al Jazeera 4, Engadget 2, BBC Business 2, The News International 1, Geo News 1, BBC Science 1, Critical Threats 1, The Economist 1, Yemen Online 1, Samaa Fast Lane 0, Jang Fast Lane 0, Dunya News Fast Lane 0
+- New items this run: 68 | items in rolling pool: 258
+- Unique story clusters: 223 (duplicates merged: 35)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 11
+- Items per outlet: Dawn 43, Al Jazeera 5, Business Recorder 5, The News International 2, Geo News 2, The Express Tribune 2, Engadget 2, Wired 1, GSMArena 1, BBC Technology 1, Profit by Pakistan Today 1, Gulf News 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Paraguay ex-president moved to military jail amid special treatment reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- EU agrees to resurrect cooperation deal with Syria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- The AI start-ups fixing India's broken roads and messy land records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Customers report service outages at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Yemeni army reports 661 attacks on Houthis as group advances towards Aden | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Ukraine holds peace talks with US, Europe as conflict escalates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK seeks closer ties with EU after Brexit fail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Paraguay ex-president moved to military jail amid special treatment reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- EU agrees to resurrect cooperation deal with Syria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- The AI start-ups fixing India's broken roads and messy land records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Customers report service outages at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Yemeni army reports 661 attacks on Houthis as group advances towards Aden | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Ukraine holds peace talks with US, Europe as conflict escalates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK seeks closer ties with EU after Brexit fail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Paraguay ex-president moved to military jail amid special treatment reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- EU agrees to resurrect cooperation deal with Syria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- The AI start-ups fixing India's broken roads and messy land records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Customers report service outages at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Yemeni army reports 661 attacks on Houthis as group advances towards Aden | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Ukraine holds peace talks with US, Europe as conflict escalates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK seeks closer ties with EU after Brexit fail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 80/107 | empty: 4 | failed: 23 | malformed/partial: 23
-- Trusted publisher desks with at least one healthy source: 8/10
+- Overall feeds with entries: 81/107 | empty: 3 | failed: 23 | malformed/partial: 23
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Imran Khan and Adiala Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: PTI and Judiciary Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- Trusted publisher desks with no healthy source: Dunya News, Dunya News TV
+- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI and Imran Khan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Reuters World | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz  [BREAKING]
-- Poster:  / Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz | category other
-- Alternative headline: Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 95, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+### Yemeni army reports 661 attacks on Houthis as group advances towards Aden  [NORMAL]
+- Poster:  / Yemeni army reports 661 attacks on Houthis as group advances towards Aden | category other
+- Alternative headline: Yemeni army reports 661 attacks on Houthis as group advances towards Aden
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Live: Houthis advance in Yemen | hashtags: 
-- Scheduled: Tue 17 Nov, 05:57 AM PKT
+- Keywords: Yemeni army reports 661 attacks | hashtags: 
+- Scheduled: Tue 17 Nov, 07:11 AM PKT
 - Caption:
 ```
-Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz
+Yemeni army reports 661 attacks on Houthis as group advances towards Aden
 
-Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.
+Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.
 
 Source: Al Jazeera
 ```
 
-### Paraguay ex-president moved to military jail amid special treatment reports  [NORMAL]
-- Poster:  / Paraguay ex-president moved to military jail amid special treatment reports | category other
-- Alternative headline: Paraguay ex-president moved to military jail amid special treatment reports
+### New Zealand tricks and annual leave - the lengths fans are going to for GTA 6  [NORMAL]
+- Poster:  / New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 | category other
+- Alternative headline: New Zealand tricks and annual leave - the lengths fans are going to for GTA 6
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Paraguay ex-president moved to military | hashtags: 
-- Scheduled: Tue 17 Nov, 05:57 AM PKT
-- Caption:
-```
-Paraguay ex-president moved to military jail amid special treatment reports
-
-Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.
-
-Source: Al Jazeera
-```
-
-### EU agrees to resurrect cooperation deal with Syria  [NORMAL]
-- Poster:  / EU agrees to resurrect cooperation deal with Syria | category other
-- Alternative headline: EU agrees to resurrect cooperation deal with Syria
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: EU agrees to resurrect cooperation | hashtags: 
-- Scheduled: Tue 17 Nov, 06:07 AM PKT
-- Caption:
-```
-EU agrees to resurrect cooperation deal with Syria
-
-Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.
-
-Source: Al Jazeera
-```
-
-### The AI start-ups fixing India's broken roads and messy land records  [NORMAL]
-- Poster:  / The AI start-ups fixing India's broken roads and messy land records | category other
-- Alternative headline: The AI start-ups fixing India's broken roads and messy land records
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss
 - Supporting coverage: BBC Technology
-- Keywords: The AI start-ups fixing India's | hashtags: 
-- Scheduled: Tue 17 Nov, 06:17 AM PKT
+- Keywords: New Zealand tricks and annual | hashtags: 
+- Scheduled: Tue 17 Nov, 07:21 AM PKT
 - Caption:
 ```
-The AI start-ups fixing India's broken roads and messy land records
+New Zealand tricks and annual leave - the lengths fans are going to for GTA 6
 
-From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.
+Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox
 
 Source: BBC Technology
 ```
 
-- Indian outlets blocked this run: 0 items
+### Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’  [NORMAL]
+- Poster:  / Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | category other
+- Alternative headline: Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW8wZ0U1T0hHZ0VoRXlUU3hJYVdoX0VrSjF2VWs3d1pTZGtvMUN3SFRDd2QtV2c1eUFuUVBPN3dTWHloeC00WlRfVXU4UWpDeDkydllvdm5BWDU1MkhhemxtWHpNRFBraHVvWkFtSmhTQzcweWt4MU53S191MW4yNDlJazFXSEN4YVFfeXNEYnRyVWZReVhRR05kQnhEa1hYQXQ0VTIzRlF0WWcyRzd4bEpZdTdKYW9SNXBQOGJvWlNKVHfSAcgBQVVfeXFMT19iRE4wbDlMWllvUktMbFZKOS1kQTUwb3Q0cEJHTGFFTHZYOWFHSjlqWkk2S1BpNTh0VF92RGZTRHBhUXI1MWNFcFJJNDBQeVhzdEJ0Y3pFWk92VVkwbXBzUUQ5M1Bjd2FEMUpUeUhjQkJYZGFTZnJzM1k2SjYyTVF6b2Y3WEltcHZ1cUV6WURFYnNxMTVRNGFSUmNTQnNJdUxoSHBScmQxaTlrcmZtcWl5YXNIaTdQYXBHSmNXa3FBc1cwYVdKUkk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW8wZ0U1T0hHZ0VoRXlUU3hJYVdoX0VrSjF2VWs3d1pTZGtvMUN3SFRDd2QtV2c1eUFuUVBPN3dTWHloeC00WlRfVXU4UWpDeDkydllvdm5BWDU1MkhhemxtWHpNRFBraHVvWkFtSmhTQzcweWt4MU53S191MW4yNDlJazFXSEN4YVFfeXNEYnRyVWZReVhRR05kQnhEa1hYQXQ0VTIzRlF0WWcyRzd4bEpZdTdKYW9SNXBQOGJvWlNKVHfSAcgBQVVfeXFMT19iRE4wbDlMWllvUktMbFZKOS1kQTUwb3Q0cEJHTGFFTHZYOWFHSjlqWkk2S1BpNTh0VF92RGZTRHBhUXI1MWNFcFJJNDBQeVhzdEJ0Y3pFWk92VVkwbXBzUUQ5M1Bjd2FEMUpUeUhjQkJYZGFTZnJzM1k2SjYyTVF6b2Y3WEltcHZ1cUV6WURFYnNxMTVRNGFSUmNTQnNJdUxoSHBScmQxaTlrcmZtcWl5YXNIaTdQYXBHSmNXa3FBc1cwYVdKUkk?oc=5
+- Supporting coverage: Al Jazeera
+- Keywords: Iran war live: Houthis advance | hashtags: 
+- Scheduled: Tue 17 Nov, 07:31 AM PKT
+- Caption:
+```
+Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’
+
+Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ Al Jazeera
+
+Source: Al Jazeera
+```
+
+### Ukraine holds peace talks with US, Europe as conflict escalates  [NORMAL]
+- Poster:  / Ukraine holds peace talks with US, Europe as conflict escalates | category other
+- Alternative headline: Ukraine holds peace talks with US, Europe as conflict escalates
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Ukraine holds peace talks with | hashtags: 
+- Scheduled: Tue 17 Nov, 07:41 AM PKT
+- Caption:
+```
+Ukraine holds peace talks with US, Europe as conflict escalates
+
+Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.
+
+Source: Al Jazeera
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -228,11 +227,11 @@ Source: BBC Technology
 - [published] normal | Gold price in Pakistan latest - November 16, 2026 | Mon 16 Nov, 11:15 PM PKT
 - [needs_review] normal | Trump backs possible return of Jensen Huang as Nvidia CEO | Mon 16 Nov, 11:25 PM PKT
 - [needs_review] normal | Pakistan to host next Makkah alliance summit later this month: DPM Dar | Mon 16 Nov, 11:35 PM PKT
-- [queued] normal | Robert Pattinson: How the Twilight star became 007 | Tue 17 Nov, 12:22 AM PKT
-- [queued] normal | US to curb China's access to AI chips as Trump heads to Asia | Tue 17 Nov, 12:32 AM PKT
-- [queued] normal | Punjab to introduce new anti-rape law and speedy courts | Tue 17 Nov, 12:42 AM PKT
-- [queued] normal | Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News | Tue 17 Nov, 12:52 AM PKT
-- [queued] normal | Saudi Arabia dismisses commander of anti-Houthi coalition: state media | Tue 17 Nov, 01:20 AM PKT
+- [needs_review] normal | Robert Pattinson: How the Twilight star became 007 | Tue 17 Nov, 12:22 AM PKT
+- [needs_review] normal | US to curb China's access to AI chips as Trump heads to Asia | Tue 17 Nov, 12:32 AM PKT
+- [needs_review] normal | Punjab to introduce new anti-rape law and speedy courts | Tue 17 Nov, 12:42 AM PKT
+- [needs_review] normal | Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News | Tue 17 Nov, 12:52 AM PKT
+- [published] normal | Saudi Arabia dismisses commander of anti-Houthi coalition: state media | Tue 17 Nov, 01:20 AM PKT
 - [queued] normal | What will Europe do next in Ukraine? | Tue 17 Nov, 01:30 AM PKT
 - [queued] normal | Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | Tue 17 Nov, 01:40 AM PKT
 - [queued] normal | 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying | Tue 17 Nov, 01:50 AM PKT
@@ -256,9 +255,13 @@ Source: BBC Technology
 - [queued] normal | Paraguay ex-president moved to military jail amid special treatment re | Tue 17 Nov, 05:57 AM PKT
 - [queued] normal | EU agrees to resurrect cooperation deal with Syria | Tue 17 Nov, 06:07 AM PKT
 - [queued] normal | The AI start-ups fixing India's broken roads and messy land records | Tue 17 Nov, 06:17 AM PKT
+- [queued] normal | Yemeni army reports 661 attacks on Houthis as group advances towards A | Tue 17 Nov, 07:11 AM PKT
+- [queued] normal | New Zealand tricks and annual leave - the lengths fans are going to fo | Tue 17 Nov, 07:21 AM PKT
+- [queued] normal | Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | Tue 17 Nov, 07:31 AM PKT
+- [queued] normal | Ukraine holds peace talks with US, Europe as conflict escalates | Tue 17 Nov, 07:41 AM PKT
 
 ## Publishing this run
-- Published 'Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz'.
+- Published 'Saudi Arabia dismisses commander of anti-Houthi coalition: state media'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

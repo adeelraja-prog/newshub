@@ -42918,7 +42918,867 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d8c60f46dd9d36256318e53c",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:38:13+00:00",
+      "last_update": "2026-11-17T01:38:13+00:00",
+      "event": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "173",
+        "661",
+        "aden",
+        "advances",
+        "army",
+        "attacks",
+        "defend",
+        "fighters",
+        "forces",
+        "government",
+        "group",
+        "houthi",
+        "houthis",
+        "killed",
+        "reports",
+        "reposition",
+        "towards",
+        "wounded",
+        "yemen",
+        "yemeni"
+      ],
+      "source_excerpt": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+          "published_at": "2026-11-17T01:38:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7cd3b86a1749ae7450b1ca48",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:04:45+00:00",
+      "last_update": "2026-11-17T01:04:45+00:00",
+      "event": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "18bn",
+        "across",
+        "already",
+        "and",
+        "annual",
+        "are",
+        "estimates",
+        "fans",
+        "for",
+        "from",
+        "game",
+        "going",
+        "gta",
+        "has",
+        "leave",
+        "lengths",
+        "made",
+        "new",
+        "orders",
+        "playstation",
+        "pre",
+        "sensor",
+        "the",
+        "tower",
+        "tricks",
+        "xbox",
+        "zealand"
+      ],
+      "source_excerpt": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T01:04:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e74bbadf1c8a23aaf13bd1f4",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:51:52+00:00",
+      "last_update": "2026-11-17T01:51:52+00:00",
+      "event": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advance",
+        "forever",
+        "houthis",
+        "iran",
+        "jazeera",
+        "live",
+        "rejects",
+        "vance",
+        "war",
+        "yemen"
+      ],
+      "source_excerpt": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW8wZ0U1T0hHZ0VoRXlUU3hJYVdoX0VrSjF2VWs3d1pTZGtvMUN3SFRDd2QtV2c1eUFuUVBPN3dTWHloeC00WlRfVXU4UWpDeDkydllvdm5BWDU1MkhhemxtWHpNRFBraHVvWkFtSmhTQzcweWt4MU53S191MW4yNDlJazFXSEN4YVFfeXNEYnRyVWZReVhRR05kQnhEa1hYQXQ0VTIzRlF0WWcyRzd4bEpZdTdKYW9SNXBQOGJvWlNKVHfSAcgBQVVfeXFMT19iRE4wbDlMWllvUktMbFZKOS1kQTUwb3Q0cEJHTGFFTHZYOWFHSjlqWkk2S1BpNTh0VF92RGZTRHBhUXI1MWNFcFJJNDBQeVhzdEJ0Y3pFWk92VVkwbXBzUUQ5M1Bjd2FEMUpUeUhjQkJYZGFTZnJzM1k2SjYyTVF6b2Y3WEltcHZ1cUV6WURFYnNxMTVRNGFSUmNTQnNJdUxoSHBScmQxaTlrcmZtcWl5YXNIaTdQYXBHSmNXa3FBc1cwYVdKUkk?oc=5",
+          "published_at": "2026-11-17T01:51:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW8wZ0U1T0hHZ0VoRXlUU3hJYVdoX0VrSjF2VWs3d1pTZGtvMUN3SFRDd2QtV2c1eUFuUVBPN3dTWHloeC00WlRfVXU4UWpDeDkydllvdm5BWDU1MkhhemxtWHpNRFBraHVvWkFtSmhTQzcweWt4MU53S191MW4yNDlJazFXSEN4YVFfeXNEYnRyVWZReVhRR05kQnhEa1hYQXQ0VTIzRlF0WWcyRzd4bEpZdTdKYW9SNXBQOGJvWlNKVHfSAcgBQVVfeXFMT19iRE4wbDlMWllvUktMbFZKOS1kQTUwb3Q0cEJHTGFFTHZYOWFHSjlqWkk2S1BpNTh0VF92RGZTRHBhUXI1MWNFcFJJNDBQeVhzdEJ0Y3pFWk92VVkwbXBzUUQ5M1Bjd2FEMUpUeUhjQkJYZGFTZnJzM1k2SjYyTVF6b2Y3WEltcHZ1cUV6WURFYnNxMTVRNGFSUmNTQnNJdUxoSHBScmQxaTlrcmZtcWl5YXNIaTdQYXBHSmNXa3FBc1cwYVdKUkk?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8210d4aaf888ef8a466091da",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:19:56+00:00",
+      "last_update": "2026-11-17T01:19:56+00:00",
+      "event": "Irish court jails man for life over Dublin knife attack that sparked riots",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2023",
+        "and",
+        "attack",
+        "central",
+        "children",
+        "court",
+        "dublin",
+        "for",
+        "injured",
+        "irish",
+        "jails",
+        "knife",
+        "life",
+        "man",
+        "outside",
+        "over",
+        "riots",
+        "school",
+        "sparked",
+        "that",
+        "the",
+        "three",
+        "were",
+        "woman"
+      ],
+      "source_excerpt": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+          "published_at": "2026-11-17T01:19:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "13912f5094744e76419d4441",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:39:14+00:00",
+      "last_update": "2026-11-17T01:39:14+00:00",
+      "event": "Punjab to sue Salik over graft claims against Maryam",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "claims",
+        "dawn",
+        "graft",
+        "maryam",
+        "over",
+        "punjab",
+        "salik",
+        "sue"
+      ],
+      "source_excerpt": "Punjab to sue Salik over graft claims against Maryam Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlEyVGdlVHNNMjdQaUNhLU5BQW5iM2NhLUxidEN5VU1QYUlDR2JneG54cUtKYjhHck1wWFBMX1MydWdqU1R6V3N1UGQxMFNLS2tDdWxfX3ZidmM0UXdxMk5EQ0l2VmE4SkF6NU9CbUVsTEoxUUhMS0ZoZUhPVzVFZEVPTVNxVGlDNEdlbWhQcw?oc=5",
+          "published_at": "2026-11-17T01:39:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlEyVGdlVHNNMjdQaUNhLU5BQW5iM2NhLUxidEN5VU1QYUlDR2JneG54cUtKYjhHck1wWFBMX1MydWdqU1R6V3N1UGQxMFNLS2tDdWxfX3ZidmM0UXdxMk5EQ0l2VmE4SkF6NU9CbUVsTEoxUUhMS0ZoZUhPVzVFZEVPTVNxVGlDNEdlbWhQcw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9efb129f28a11de2e7d6d6ae",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:39:14+00:00",
+      "last_update": "2026-11-17T01:39:14+00:00",
+      "event": "Balochistan PA flags flour prices, dept mergers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "balochistan",
+        "dawn",
+        "dept",
+        "flags",
+        "flour",
+        "mergers",
+        "prices"
+      ],
+      "source_excerpt": "Balochistan PA flags flour prices, dept mergers Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHJYcHctZ0VvS3JFeFk2ekM4eEhNY2dfZkNCdE8tZ19ZQjg5bkNWblljMmNDVDhhWWhMb3cxMl9KM3dOUldlcDZfa2pJTUthdjlCbm9TSlEwaGtGX20tZS1FaFJvLXExZ2lOZ015WVNOaTViR2d6RzlSNGhtRGdZSG8xSGI2TWc?oc=5",
+          "published_at": "2026-11-17T01:39:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHJYcHctZ0VvS3JFeFk2ekM4eEhNY2dfZkNCdE8tZ19ZQjg5bkNWblljMmNDVDhhWWhMb3cxMl9KM3dOUldlcDZfa2pJTUthdjlCbm9TSlEwaGtGX20tZS1FaFJvLXExZ2lOZ015WVNOaTViR2d6RzlSNGhtRGdZSG8xSGI2TWc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "699d87d61279de134065c253",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:39:14+00:00",
+      "last_update": "2026-11-17T01:39:14+00:00",
+      "event": "Sindh showcases flood recovery; Centre pitches sewage overhaul at COP31",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "centre",
+        "cop31",
+        "dawn",
+        "flood",
+        "overhaul",
+        "pitches",
+        "recovery",
+        "sewage",
+        "showcases",
+        "sindh"
+      ],
+      "source_excerpt": "Sindh showcases flood recovery; Centre pitches sewage overhaul at COP31 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzNoZURXbWJKMDFPRWhsVXZxTDNqV3ZLN0VFS2ltcmdUY1JzWVk4WWtLYWRHY3pFSHNEcHJFZ3NjZ25zbnpoOVpBTWtBOEtzZ3VCLTgwNi1sYVpoNC15OFhrRG80NjVHbGQ5MmNQRVh1ZUFzN04tNm5UNS1LbzFvMEowQjhvTGFIbkV1WGpKVnFueVRvdDMyNi1QQ25SMVdJM0ljQVd2OA?oc=5",
+          "published_at": "2026-11-17T01:39:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzNoZURXbWJKMDFPRWhsVXZxTDNqV3ZLN0VFS2ltcmdUY1JzWVk4WWtLYWRHY3pFSHNEcHJFZ3NjZ25zbnpoOVpBTWtBOEtzZ3VCLTgwNi1sYVpoNC15OFhrRG80NjVHbGQ5MmNQRVh1ZUFzN04tNm5UNS1LbzFvMEowQjhvTGFIbkV1WGpKVnFueVRvdDMyNi1QQ25SMVdJM0ljQVd2OA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a04bc4ee6519e7ace0938c40",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T02:03:45+00:00",
+      "last_update": "2026-11-17T02:03:45+00:00",
+      "event": "Winter knocks on Karachi's door",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "door",
+        "express",
+        "karachi",
+        "knocks",
+        "the",
+        "tribune",
+        "winter"
+      ],
+      "source_excerpt": "Winter knocks on Karachi's door The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3bjF5SGZqdzFPSThXTi1HdDB1OEZFeURCT3B5bngwQWE2djlZekVscHd5V1h1WVc3aUJ2MGhzNGl6YlJuWjlmb3JkeVMyTVh1aE1aZzExNi1ONHE0MnlXRFdVNGZNVkVMNkx5eHRtTGNZM1R5YkHSAX5BVV95cUxPdWVVSldlZUlKZlFxNHo5TVQ1c2o5M082NVhuVlJVY0l4VmJuNUNmeE9LRmZBcDlrbjNFYUNiM0djZmdJRlZmOVpjMjJXSUF4TWhmVTlXQndyU0UwaGJZdGtGZjByQ21IR2dSUnp2YVYxOTFRUmNqZ3RpQTJLM2c?oc=5",
+          "published_at": "2026-11-17T02:03:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3bjF5SGZqdzFPSThXTi1HdDB1OEZFeURCT3B5bngwQWE2djlZekVscHd5V1h1WVc3aUJ2MGhzNGl6YlJuWjlmb3JkeVMyTVh1aE1aZzExNi1ONHE0MnlXRFdVNGZNVkVMNkx5eHRtTGNZM1R5YkHSAX5BVV95cUxPdWVVSldlZUlKZlFxNHo5TVQ1c2o5M082NVhuVlJVY0l4VmJuNUNmeE9LRmZBcDlrbjNFYUNiM0djZmdJRlZmOVpjMjJXSUF4TWhmVTlXQndyU0UwaGJZdGtGZjByQ21IR2dSUnp2YVYxOTFRUmNqZ3RpQTJLM2c?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "77e47f25c5572a36592c701a",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:42:33+00:00",
+      "last_update": "2026-11-17T01:42:33+00:00",
+      "event": "Guitar workshop by Portuguese musician turns into musical treat",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "guitar",
+        "into",
+        "musical",
+        "musician",
+        "portuguese",
+        "treat",
+        "turns",
+        "workshop"
+      ],
+      "source_excerpt": "Guitar workshop by Portuguese musician turns into musical treat Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSDJ5REhBdnFUeWlwbU9BZElaS2Z2U0ZQWTM4RmRfQW5IWi1VMWN5dWx0S2VyYmlpWlh1dFd2ZjBMbTBOYkwzV2psWjJXa2ZQeExmYVBKQjBTcnJ4SUNmaFR5TTFjclFabDF4R0Y5S0REOHFNRmQ5Um9ZeVVRb1c1RWhDZ3Q2M29GRTRzZVlzeUtmVmFtMUY3V2xfYnVVZw?oc=5",
+          "published_at": "2026-11-17T01:42:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSDJ5REhBdnFUeWlwbU9BZElaS2Z2U0ZQWTM4RmRfQW5IWi1VMWN5dWx0S2VyYmlpWlh1dFd2ZjBMbTBOYkwzV2psWjJXa2ZQeExmYVBKQjBTcnJ4SUNmaFR5TTFjclFabDF4R0Y5S0REOHFNRmQ5Um9ZeVVRb1c1RWhDZ3Q2M29GRTRzZVlzeUtmVmFtMUY3V2xfYnVVZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cce5a6e1b3e85b1a143ec0d2",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:43:25+00:00",
+      "last_update": "2026-11-17T01:43:25+00:00",
+      "event": "Call for effective implementation of workplace harassment laws",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "call",
+        "dawn",
+        "effective",
+        "for",
+        "harassment",
+        "implementation",
+        "laws",
+        "workplace"
+      ],
+      "source_excerpt": "Call for effective implementation of workplace harassment laws Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWRrZ2lPQzhUQXM5d09hSDNVQ2hleTJmVnJEUG91VG15RklBQ3JYbmtBWTByRHNmWkt5VThJeGswNjNWdjFfM0VUZnU2QXh0WmJDdjhvcHJwZnlrY1NwNTJPMm84Mi02V1I2UXNMZlJzRGlNb2lCMUp2SHMwTlJ2THRFTUJ3aEtnVHR1UHluVmRMV2dVeGp0WXBQY3g?oc=5",
+          "published_at": "2026-11-17T01:43:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWRrZ2lPQzhUQXM5d09hSDNVQ2hleTJmVnJEUG91VG15RklBQ3JYbmtBWTByRHNmWkt5VThJeGswNjNWdjFfM0VUZnU2QXh0WmJDdjhvcHJwZnlrY1NwNTJPMm84Mi02V1I2UXNMZlJzRGlNb2lCMUp2SHMwTlJ2THRFTUJ3aEtnVHR1UHluVmRMV2dVeGp0WXBQY3g?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6d3ebffec56342973e93e013",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:43:42+00:00",
+      "last_update": "2026-11-17T01:43:42+00:00",
+      "event": "Pirwadhai bus stand revenue rises to Rs140m",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bus",
+        "dawn",
+        "pirwadhai",
+        "revenue",
+        "rises",
+        "rs140m",
+        "stand"
+      ],
+      "source_excerpt": "Pirwadhai bus stand revenue rises to Rs140m Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaG5YeWVPbENVNFdnbXpyMkNTdUxSX1Rhc0pyYWNNdWVfY2tncGFXZzJtWXVFM19GSVktOUlCWVVWSm9pbnhjeGM1MjBZU0dpVGRnM244bzlQSUJtVmlWMkZKMGdDYXd0a29WZUYzZFg4Y0tRNklzQzluU1d0X3FOMUxnUQ?oc=5",
+          "published_at": "2026-11-17T01:43:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaG5YeWVPbENVNFdnbXpyMkNTdUxSX1Rhc0pyYWNNdWVfY2tncGFXZzJtWXVFM19GSVktOUlCWVVWSm9pbnhjeGM1MjBZU0dpVGRnM244bzlQSUJtVmlWMkZKMGdDYXd0a29WZUYzZFg4Y0tRNklzQzluU1d0X3FOMUxnUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1ab2b48934311e87364e60c8",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:43:42+00:00",
+      "last_update": "2026-11-17T01:43:42+00:00",
+      "event": "Two held for Rs5m UK work visa fraud",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "for",
+        "fraud",
+        "held",
+        "rs5m",
+        "two",
+        "visa",
+        "work"
+      ],
+      "source_excerpt": "Two held for Rs5m UK work visa fraud Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oZk5JV3JzemRxcFdqcUNBcGxMTzR2WG80RUV6bFR5M2kxQngxRk5GOWV4QjZzR0Q3bm1ocE0xQ0w1OEw0UElnN2lXRlkwa0VCRjE2NjFncmhNT244ZGtTVGNZbncyM1hkTFRaQXFYQ0piLVVyaExQNGJB?oc=5",
+          "published_at": "2026-11-17T01:43:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oZk5JV3JzemRxcFdqcUNBcGxMTzR2WG80RUV6bFR5M2kxQngxRk5GOWV4QjZzR0Q3bm1ocE0xQ0w1OEw0UElnN2lXRlkwa0VCRjE2NjFncmhNT244ZGtTVGNZbncyM1hkTFRaQXFYQ0piLVVyaExQNGJB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "445ed6b856eebb883970b4f2",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T02:00:51+00:00",
+      "last_update": "2026-11-17T02:00:51+00:00",
+      "event": "News stories for Muhammad Aftab Gohar",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aftab",
+        "dawn",
+        "for",
+        "gohar",
+        "muhammad",
+        "news",
+        "stories"
+      ],
+      "source_excerpt": "News stories for Muhammad Aftab Gohar Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTGF3RVhXbndWSTZQd2ZZeFBhTmViTXI5RmhyN0N4VXYtbWUyZUpmLXhsa1dYUTBTelJrN3ZiYnhIRjlFOHVqdS11UmFEUnEzSmlHUW1tYVJyTHdMWEVPRFM3R3FJdw?oc=5",
+          "published_at": "2026-11-17T02:00:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTGF3RVhXbndWSTZQd2ZZeFBhTmViTXI5RmhyN0N4VXYtbWUyZUpmLXhsa1dYUTBTelJrN3ZiYnhIRjlFOHVqdS11UmFEUnEzSmlHUW1tYVJyTHdMWEVPRFM3R3FJdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ee8360a3e962a756148d11bf",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:42:55+00:00",
+      "last_update": "2026-11-17T01:42:55+00:00",
+      "event": "Cousins kill two brothers over petty dispute",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "brothers",
+        "cousins",
+        "dawn",
+        "dispute",
+        "kill",
+        "over",
+        "petty",
+        "two"
+      ],
+      "source_excerpt": "Cousins kill two brothers over petty dispute Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2dDSHVLX1lJMUgtMkdFaXV0WmlrZUt5TjhBUzNURjQ5cjhXSlItQ2tOdGJ3eS1VdnZHMEFlYnFuT0lHQ08ycVNESnJNVDJGUEFpSzFmbmdRRlYzUEg2U0R2TWFKekZ3ZkxWS1dlbi1XTkpaT3RPOGRSQXlzN0o2VGtwUUo?oc=5",
+          "published_at": "2026-11-17T01:42:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2dDSHVLX1lJMUgtMkdFaXV0WmlrZUt5TjhBUzNURjQ5cjhXSlItQ2tOdGJ3eS1VdnZHMEFlYnFuT0lHQ08ycVNESnJNVDJGUEFpSzFmbmdRRlYzUEg2U0R2TWFKekZ3ZkxWS1dlbi1XTkpaT3RPOGRSQXlzN0o2VGtwUUo?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d85d9b38bc5ea478b84a967e",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T02:03:05+00:00",
+      "last_update": "2026-11-17T02:03:05+00:00",
+      "event": "Gaza bleeds",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bleeds",
+        "dawn",
+        "gaza"
+      ],
+      "source_excerpt": "Gaza bleeds Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03dkxlMHBLQWMwOTFaNzlmSy1oWlJCbFlCV0t1alNZZTktcUNyS2xjUUxjRllYMUpNaS1fWm43a1VqSmkyR2FuZ3BvdThlTFFEVWp4cUhJM2c?oc=5",
+          "published_at": "2026-11-17T02:03:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03dkxlMHBLQWMwOTFaNzlmSy1oWlJCbFlCV0t1alNZZTktcUNyS2xjUUxjRllYMUpNaS1fWm43a1VqSmkyR2FuZ3BvdThlTFFEVWp4cUhJM2c?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "86f80f324f0c813fc21eaae3",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:39:14+00:00",
+      "last_update": "2026-11-17T01:39:14+00:00",
+      "event": "Minister Buledi clarifies remarks on tribal system",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "buledi",
+        "clarifies",
+        "dawn",
+        "minister",
+        "remarks",
+        "system",
+        "tribal"
+      ],
+      "source_excerpt": "Minister Buledi clarifies remarks on tribal system Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTlXTEppMU9VOERET3N6aExsX3NUWDJub0NheGg1ZHVnVnJ5UXVISC1JUm9LNThXeUdyUTFneGl5d1dncmNCNXM3Q2FvQmtUQzY3YTRfTEdEZkxybmRnOEZOODRrdkRDbERGU2xnVmtsZ0ZQcmVsVWJVQlhZdHFrOEh2dmpRV2RDb3NWNA?oc=5",
+          "published_at": "2026-11-17T01:39:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTlXTEppMU9VOERET3N6aExsX3NUWDJub0NheGg1ZHVnVnJ5UXVISC1JUm9LNThXeUdyUTFneGl5d1dncmNCNXM3Q2FvQmtUQzY3YTRfTEdEZkxybmRnOEZOODRrdkRDbERGU2xnVmtsZ0ZQcmVsVWJVQlhZdHFrOEh2dmpRV2RDb3NWNA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2d0cb06de23f583d642bfaac",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:43:25+00:00",
+      "last_update": "2026-11-17T01:43:25+00:00",
+      "event": "Nasir Zaidi elected HRCP chairperson",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "chairperson",
+        "dawn",
+        "elected",
+        "hrcp",
+        "nasir",
+        "zaidi"
+      ],
+      "source_excerpt": "Nasir Zaidi elected HRCP chairperson Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPbE9uM3hOUWFpUEtFa2RFWHZfc1hOdHU0OFFGTDhFRGFiTjhiOTlIZHktRzRadGh3T3IyWUM4SmlEWUNvclJfcVRibnowRENRaC1mZzU2ZUZiY1lvcU05SlZfYm04cnk3clZsY0hBYkxPTVBpRWRDdmRn?oc=5",
+          "published_at": "2026-11-17T01:43:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPbE9uM3hOUWFpUEtFa2RFWHZfc1hOdHU0OFFGTDhFRGFiTjhiOTlIZHktRzRadGh3T3IyWUM4SmlEWUNvclJfcVRibnowRENRaC1mZzU2ZUZiY1lvcU05SlZfYm04cnk3clZsY0hBYkxPTVBpRWRDdmRn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c8f3f8aa7b24cc2d7fbae9f1",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T02:03:40+00:00",
+      "last_update": "2026-11-17T02:03:40+00:00",
+      "event": "Water crisis",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "crisis",
+        "dawn",
+        "water"
+      ],
+      "source_excerpt": "Water crisis Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwUm5XczNaM1M2eHdWWEI0R2paaURVcExnNXRvVkpyeEZHc1ViQ0t0QjNuX1Mwb3NfWXN2V3dKNUFLVEttcjJraGZrRkU4bUlJT3Rib3h6d3A0Zw?oc=5",
+          "published_at": "2026-11-17T02:03:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwUm5XczNaM1M2eHdWWEI0R2paaURVcExnNXRvVkpyeEZHc1ViQ0t0QjNuX1Mwb3NfWXN2V3dKNUFLVEttcjJraGZrRkU4bUlJT3Rib3h6d3A0Zw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f67ed92666796fe90c076c9a",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:38:52+00:00",
+      "last_update": "2026-11-17T01:42:33+00:00",
+      "event": "Two mass shootings claim 17 lives in South Africa",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "claim",
+        "dawn",
+        "lives",
+        "mass",
+        "shootings",
+        "south",
+        "two"
+      ],
+      "source_excerpt": "Two mass shootings claim 17 lives in South Africa Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVhXd0tMdUNuRF82LXgzSFdMV3VFUmtxTkgzclZVVmxCU3BPRzhlN0twTDI1aGJGY2g2QXJMNFFMcTE3R0tzZ08wNE1Ka2Q1Vi1Hc0MzMWVJaEdmREEyekJuOHAxcGgwNFBGX1VGV1p3eDVVdnVNOHZOenZrekI3eFh2NDhVMGcyQlpN?oc=5",
+          "published_at": "2026-11-17T01:38:52+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xNExKYzd6ODRiT2h6Y09abnZxNE1CdTlYNkY3VURCX0xDTnNMNlhrOHY4U0hmVTZiMXpVaVlKQlZVMVFyNHc3bEVtWDk1bW5LeHdEbjhKSjE0QldTS2MtTVY0c0lZbi1hYlJOT0p1MTdaZFgydnlYZg?oc=5",
+          "published_at": "2026-11-17T01:42:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVhXd0tMdUNuRF82LXgzSFdMV3VFUmtxTkgzclZVVmxCU3BPRzhlN0twTDI1aGJGY2g2QXJMNFFMcTE3R0tzZ08wNE1Ka2Q1Vi1Hc0MzMWVJaEdmREEyekJuOHAxcGgwNFBGX1VGV1p3eDVVdnVNOHZOenZrekI3eFh2NDhVMGcyQlpN?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "148cb97efc79c497462d7da6",
+      "remembered_at": "2026-11-17T02:11:37.407124+00:00",
+      "event_date": "2026-11-17T01:39:14+00:00",
+      "last_update": "2026-11-17T01:39:14+00:00",
+      "event": "796 Afghans arrested in first week of November",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "796",
+        "afghans",
+        "arrested",
+        "dawn",
+        "first",
+        "november",
+        "week"
+      ],
+      "source_excerpt": "796 Afghans arrested in first week of November Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd24tSzRwZTVhclA4U284a3V4Q3ZKZFhlWHJPQVU0X1RIR2p6a3hqcWZiQlFCb2kxWVFYVHA2b3VGOXZJeUhyQmhQcnpwYjZXQTFuNkh4UzAzWXhucGRwekREU2dzUUZ3b3VfcGdtdmR2eUFyTmFLRnZ5dzRDOWNxelkycXpldGc?oc=5",
+          "published_at": "2026-11-17T01:39:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd24tSzRwZTVhclA4U284a3V4Q3ZKZFhlWHJPQVU0X1RIR2p6a3hqcWZiQlFCb2kxWVFYVHA2b3VGOXZJeUhyQmhQcnpwYjZXQTFuNkh4UzAzWXhucGRwekREU2dzUUZ3b3VfcGdtdmR2eUFyTmFLRnZ5dzRDOWNxelkycXpldGc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T00:57:08.202519+00:00"
+  "updated_at": "2026-11-17T02:11:37.407124+00:00"
 }
