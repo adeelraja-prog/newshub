@@ -1,142 +1,140 @@
-# News Hub report - Tue 17 Nov, 08:10 AM PKT
+# News Hub report - Tue 17 Nov, 09:09 AM PKT
 
 ## Collection
-- New items this run: 32 | items in rolling pool: 243
-- Unique story clusters: 208 (duplicates merged: 35)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 10
-- Items per outlet: Dawn 11, Profit by Pakistan Today 4, Dawn Pakistan 2, Geo News 2, Investify 2, Dawn Latest 1, X 1, GSMArena 1, Business Recorder 1, الحرة 1, Anadolu Ajansı 1, Gulf News 1
+- New items this run: 32 | items in rolling pool: 235
+- Unique story clusters: 201 (duplicates merged: 34)
+- Clusters dropped as already published/queued: 32; unchanged since last analysis: 9
+- Items per outlet: Dawn Pakistan 8, Dawn 6, Dawn Latest 3, Al Jazeera 2, PhoneWorld 2, Around Prague 2, The News International 1, Dunya News 1, Geo News 1, ARY News 1, ProPakistani 1, The Nation (Pakistan ) 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Flour gets costlier as imports stay insufficient | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Irish court jails man for life over Dublin knife attack that sparked riots | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK seeks closer ties with EU after Brexit fail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Office yellow warning in place as snow could disrupt Tuesday morning travel | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Guitar workshop by Portuguese musician turns into musical treat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Minister Buledi clarifies remarks on tribal system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Four lawyers appointed special ATC judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab to sue Salik over graft claims against Maryam | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Balochistan PA flags flour prices, dept mergers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Flour gets costlier as imports stay insufficient | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Irish court jails man for life over Dublin knife attack that sparked riots | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK seeks closer ties with EU after Brexit fail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Office yellow warning in place as snow could disrupt Tuesday morning travel | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Guitar workshop by Portuguese musician turns into musical treat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Minister Buledi clarifies remarks on tribal system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Four lawyers appointed special ATC judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab to sue Salik over graft claims against Maryam | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Balochistan PA flags flour prices, dept mergers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Flour gets costlier as imports stay insufficient | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Irish court jails man for life over Dublin knife attack that sparked riots | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK seeks closer ties with EU after Brexit fail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Office yellow warning in place as snow could disrupt Tuesday morning travel | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Guitar workshop by Portuguese musician turns into musical treat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Minister Buledi clarifies remarks on tribal system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Four lawyers appointed special ATC judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab to sue Salik over graft claims against Maryam | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Balochistan PA flags flour prices, dept mergers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 79/107 | empty: 3 | failed: 25 | malformed/partial: 25
-- Trusted publisher desks with at least one healthy source: 7/10
-- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 79/107 | empty: 2 | failed: 26 | malformed/partial: 26
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Imran Khan and Adiala Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: PTI and Judiciary Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Pakistan Political Crisis Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Security Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Samaa, Dunya News, Dunya News TV
+- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Express News
 
 ## Selected for the queue
-### Flour gets costlier as imports stay insufficient  [NORMAL]
-- Poster:  / Flour gets costlier as imports stay insufficient | category other
-- Alternative headline: Flour gets costlier as imports stay insufficient
+### Guitar workshop by Portuguese musician turns into musical treat  [NORMAL]
+- Poster:  / Guitar workshop by Portuguese musician turns into musical treat | category other
+- Alternative headline: Guitar workshop by Portuguese musician turns into musical treat
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXFEaWdHWTM3OTU3dk5NQ2pWU3I3cF9WSTZmNDhGQk5fZzRKVzNsRmU2bnNhZWtmOV9idEdXRlNnSzhOeE5ycVNqYVZway1rVnFzRWhIS3htSFI4dXlxQV9Sa3hvV3dIUFlwdjliLTRJQUk2WVdiS09FcUtKcDVkb0N1OVh2Y2FLeVE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXFEaWdHWTM3OTU3dk5NQ2pWU3I3cF9WSTZmNDhGQk5fZzRKVzNsRmU2bnNhZWtmOV9idEdXRlNnSzhOeE5ycVNqYVZway1rVnFzRWhIS3htSFI4dXlxQV9Sa3hvV3dIUFlwdjliLTRJQUk2WVdiS09FcUtKcDVkb0N1OVh2Y2FLeVE?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Flour gets costlier as imports | hashtags: 
-- Scheduled: Tue 17 Nov, 08:10 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxQSDJ5REhBdnFUeWlwbU9BZElaS2Z2U0ZQWTM4RmRfQW5IWi1VMWN5dWx0S2VyYmlpWlh1dFd2ZjBMbTBOYkwzV2psWjJXa2ZQeExmYVBKQjBTcnJ4SUNmaFR5TTFjclFabDF4R0Y5S0REOHFNRmQ5Um9ZeVVRb1c1RWhDZ3Q2M29GRTRzZVlzeUtmVmFtMUY3V2xfYnVVZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxQSDJ5REhBdnFUeWlwbU9BZElaS2Z2U0ZQWTM4RmRfQW5IWi1VMWN5dWx0S2VyYmlpWlh1dFd2ZjBMbTBOYkwzV2psWjJXa2ZQeExmYVBKQjBTcnJ4SUNmaFR5TTFjclFabDF4R0Y5S0REOHFNRmQ5Um9ZeVVRb1c1RWhDZ3Q2M29GRTRzZVlzeUtmVmFtMUY3V2xfYnVVZw?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Guitar workshop by Portuguese musician | hashtags: 
+- Scheduled: Tue 17 Nov, 09:09 AM PKT
 - Caption:
 ```
-Flour gets costlier as imports stay insufficient
+Guitar workshop by Portuguese musician turns into musical treat
 
-Flour gets costlier as imports stay insufficient Dawn
+Guitar workshop by Portuguese musician turns into musical treat Dawn
 
 Source: Dawn
 ```
 
-### Irish court jails man for life over Dublin knife attack that sparked riots  [NORMAL]
-- Poster:  / Irish court jails man for life over Dublin knife attack that sparked riots | category other
-- Alternative headline: Irish court jails man for life over Dublin knife attack that sparked riots
+### Minister Buledi clarifies remarks on tribal system  [NORMAL]
+- Poster:  / Minister Buledi clarifies remarks on tribal system | category other
+- Alternative headline: Minister Buledi clarifies remarks on tribal system
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Irish court jails man for | hashtags: 
-- Scheduled: Tue 17 Nov, 08:20 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTlXTEppMU9VOERET3N6aExsX3NUWDJub0NheGg1ZHVnVnJ5UXVISC1JUm9LNThXeUdyUTFneGl5d1dncmNCNXM3Q2FvQmtUQzY3YTRfTEdEZkxybmRnOEZOODRrdkRDbERGU2xnVmtsZ0ZQcmVsVWJVQlhZdHFrOEh2dmpRV2RDb3NWNA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTlXTEppMU9VOERET3N6aExsX3NUWDJub0NheGg1ZHVnVnJ5UXVISC1JUm9LNThXeUdyUTFneGl5d1dncmNCNXM3Q2FvQmtUQzY3YTRfTEdEZkxybmRnOEZOODRrdkRDbERGU2xnVmtsZ0ZQcmVsVWJVQlhZdHFrOEh2dmpRV2RDb3NWNA?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Minister Buledi clarifies remarks on | hashtags: 
+- Scheduled: Tue 17 Nov, 09:19 AM PKT
 - Caption:
 ```
-Irish court jails man for life over Dublin knife attack that sparked riots
+Minister Buledi clarifies remarks on tribal system
 
-Three children and a woman were injured in the attack outside a central Dublin school in 2023.
+Minister Buledi clarifies remarks on tribal system Dawn
 
-Source: Al Jazeera
+Source: Dawn
 ```
 
-### UK seeks closer ties with EU after Brexit fail  [NORMAL]
-- Poster:  / UK seeks closer ties with EU after Brexit fail | category other
-- Alternative headline: UK seeks closer ties with EU after Brexit fail
+### Four lawyers appointed special ATC judges  [NORMAL]
+- Poster:  / Four lawyers appointed special ATC judges | category other
+- Alternative headline: Four lawyers appointed special ATC judges
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: UK seeks closer ties with | hashtags: 
-- Scheduled: Tue 17 Nov, 08:30 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFZFQ3RWMjloc0dORVAwTUllWnZRVkxOcVk2UkZPazJPQkNjVXI4TVZTVnJDQ3JVcEdTdlJteDFJNFJEY1hqY0xubWlNVHFrSHZtR00wZ3BUbFBhaTEyMkh5Y3hSRnRIdmtpZjhreUZEeHRmcENJLS1Ib0tIN09sTQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFZFQ3RWMjloc0dORVAwTUllWnZRVkxOcVk2UkZPazJPQkNjVXI4TVZTVnJDQ3JVcEdTdlJteDFJNFJEY1hqY0xubWlNVHFrSHZtR00wZ3BUbFBhaTEyMkh5Y3hSRnRIdmtpZjhreUZEeHRmcENJLS1Ib0tIN09sTQ?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Four lawyers appointed special ATC | hashtags: 
+- Scheduled: Tue 17 Nov, 09:29 AM PKT
 - Caption:
 ```
-UK seeks closer ties with EU after Brexit fail
+Four lawyers appointed special ATC judges
 
-Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.
+Four lawyers appointed special ATC judges Dawn
 
-Source: Al Jazeera
+Source: Dawn
 ```
 
-### Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens  [NORMAL]
-- Poster:  / Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens | category other
-- Alternative headline: Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens
+### Punjab to sue Salik over graft claims against Maryam  [NORMAL]
+- Poster:  / Punjab to sue Salik over graft claims against Maryam | category other
+- Alternative headline: Punjab to sue Salik over graft claims against Maryam
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Ethiopia Moyale clashes disrupt livelihoods | hashtags: 
-- Scheduled: Tue 17 Nov, 08:40 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlEyVGdlVHNNMjdQaUNhLU5BQW5iM2NhLUxidEN5VU1QYUlDR2JneG54cUtKYjhHck1wWFBMX1MydWdqU1R6V3N1UGQxMFNLS2tDdWxfX3ZidmM0UXdxMk5EQ0l2VmE4SkF6NU9CbUVsTEoxUUhMS0ZoZUhPVzVFZEVPTVNxVGlDNEdlbWhQcw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlEyVGdlVHNNMjdQaUNhLU5BQW5iM2NhLUxidEN5VU1QYUlDR2JneG54cUtKYjhHck1wWFBMX1MydWdqU1R6V3N1UGQxMFNLS2tDdWxfX3ZidmM0UXdxMk5EQ0l2VmE4SkF6NU9CbUVsTEoxUUhMS0ZoZUhPVzVFZEVPTVNxVGlDNEdlbWhQcw?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Punjab to sue Salik over | hashtags: 
+- Scheduled: Tue 17 Nov, 09:39 AM PKT
 - Caption:
 ```
-Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens
+Punjab to sue Salik over graft claims against Maryam
 
-The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.
+Punjab to sue Salik over graft claims against Maryam Dawn
 
-Source: Al Jazeera
+Source: Dawn
 ```
 
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
-- [published] high | India vs Pakistan U-19 Asia Cup Final: Where and How to Watch Live | Sat 14 Nov, 09:06 AM PKT
-- [published] high | Small-Car Sales Surge in Pakistan Amid Fuel Price Shocks | Sat 14 Nov, 09:06 AM PKT
 - [published] normal | Pakistan Urges Immediate Gulf De-Escalation At UN Security Council | Sat 14 Nov, 10:38 AM PKT
 - [published] breaking | Govt Cuts Petrol Price by Rs2 per Litre, Diesel Unchanged | Sat 14 Nov, 11:29 AM PKT
 - [published] normal | Iran Guards Say Two Oil Tankers Hit by Mines in Hormuz | Sat 14 Nov, 11:29 AM PKT
@@ -233,10 +231,10 @@ Source: Al Jazeera
 - [needs_review] normal | Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | Tue 17 Nov, 01:40 AM PKT
 - [needs_review] normal | 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying | Tue 17 Nov, 01:50 AM PKT
 - [published] normal | Thousands report difficulties accessing accounts online at major US ba | Tue 17 Nov, 02:21 AM PKT
-- [queued] normal | UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA ele | Tue 17 Nov, 02:31 AM PKT
-- [queued] normal | Nationwide ground stop could cost US airlines hundreds of millions | Tue 17 Nov, 02:41 AM PKT
-- [queued] normal | Israeli opposition accuses Netanyahu of attempted ‘coup’ | Tue 17 Nov, 02:51 AM PKT
-- [queued] normal | Mamdani to disband NYPD unit deployed at Columbia protests | Tue 17 Nov, 03:20 AM PKT
+- [needs_review] normal | UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA ele | Tue 17 Nov, 02:31 AM PKT
+- [needs_review] normal | Nationwide ground stop could cost US airlines hundreds of millions | Tue 17 Nov, 02:41 AM PKT
+- [needs_review] normal | Israeli opposition accuses Netanyahu of attempted ‘coup’ | Tue 17 Nov, 02:51 AM PKT
+- [published] normal | Mamdani to disband NYPD unit deployed at Columbia protests | Tue 17 Nov, 03:20 AM PKT
 - [queued] normal | Sudanese army air attack kills 13 in western Sudan: Rights group | Tue 17 Nov, 03:30 AM PKT
 - [queued] normal | Manchester United’s Endless Loop | Tue 17 Nov, 03:40 AM PKT
 - [queued] normal | Photos: California residents gather to watch massive El Nino-fuelled w | Tue 17 Nov, 03:50 AM PKT
@@ -260,9 +258,13 @@ Source: Al Jazeera
 - [queued] normal | Irish court jails man for life over Dublin knife attack that sparked r | Tue 17 Nov, 08:20 AM PKT
 - [queued] normal | UK seeks closer ties with EU after Brexit fail | Tue 17 Nov, 08:30 AM PKT
 - [queued] normal | Ethiopia Moyale clashes disrupt livelihoods as territorial dispute dee | Tue 17 Nov, 08:40 AM PKT
+- [queued] normal | Guitar workshop by Portuguese musician turns into musical treat | Tue 17 Nov, 09:09 AM PKT
+- [queued] normal | Minister Buledi clarifies remarks on tribal system | Tue 17 Nov, 09:19 AM PKT
+- [queued] normal | Four lawyers appointed special ATC judges | Tue 17 Nov, 09:29 AM PKT
+- [queued] normal | Punjab to sue Salik over graft claims against Maryam | Tue 17 Nov, 09:39 AM PKT
 
 ## Publishing this run
-- Published 'Thousands report difficulties accessing accounts online at major US banks'.
+- Published 'Mamdani to disband NYPD unit deployed at Columbia protests'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

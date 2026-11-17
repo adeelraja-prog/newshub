@@ -43982,7 +43982,753 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7bf76e0c6b9aec167901ffdc",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T01:39:14+00:00",
+      "last_update": "2026-11-17T03:58:45+00:00",
+      "event": "Four lawyers appointed special ATC judges",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appointed",
+        "atc",
+        "dawn",
+        "four",
+        "judges",
+        "lawyers",
+        "special"
+      ],
+      "source_excerpt": "Four lawyers appointed special ATC judges Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFZFQ3RWMjloc0dORVAwTUllWnZRVkxOcVk2UkZPazJPQkNjVXI4TVZTVnJDQ3JVcEdTdlJteDFJNFJEY1hqY0xubWlNVHFrSHZtR00wZ3BUbFBhaTEyMkh5Y3hSRnRIdmtpZjhreUZEeHRmcENJLS1Ib0tIN09sTQ?oc=5",
+          "published_at": "2026-11-17T01:39:14+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045055/four-lawyers-appointed-special-anti-terrorism-court-judges-in-balochistan",
+          "published_at": "2026-11-17T03:58:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFZFQ3RWMjloc0dORVAwTUllWnZRVkxOcVk2UkZPazJPQkNjVXI4TVZTVnJDQ3JVcEdTdlJteDFJNFJEY1hqY0xubWlNVHFrSHZtR00wZ3BUbFBhaTEyMkh5Y3hSRnRIdmtpZjhreUZEeHRmcENJLS1Ib0tIN09sTQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bb8d226cdab66ddc1d5d257e",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T01:39:14+00:00",
+      "last_update": "2026-11-17T03:49:25+00:00",
+      "event": "Tensions ease after PPP man prevails in Diamer re-polling",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "dawn",
+        "diamer",
+        "ease",
+        "man",
+        "polling",
+        "ppp",
+        "prevails",
+        "tensions"
+      ],
+      "source_excerpt": "Tensions ease after PPP man prevails in Diamer re-polling Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOelRFUFJndXBxOU54a09KUVFNZDJGcEtHYzBINS03eFZ0cFdJdXFWa1NWVjI5aXBFaFJNX1ZjRmJLQnE5c2hjNTNPX2JHeXVWN3o4UzBUS2FiYm1tSVBSSENVSVQ0aFg3MW9UcEt0UEpUXzdISnN0U2NKWFR3ZXZPeWxrdjl0QjI3WEFsbVB2WmxTVHN3OHc?oc=5",
+          "published_at": "2026-11-17T01:39:14+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045059/tensions-ease-after-ppp-man-prevails-in-diamer-re-polling",
+          "published_at": "2026-11-17T03:49:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOelRFUFJndXBxOU54a09KUVFNZDJGcEtHYzBINS03eFZ0cFdJdXFWa1NWVjI5aXBFaFJNX1ZjRmJLQnE5c2hjNTNPX2JHeXVWN3o4UzBUS2FiYm1tSVBSSENVSVQ0aFg3MW9UcEt0UEpUXzdISnN0U2NKWFR3ZXZPeWxrdjl0QjI3WEFsbVB2WmxTVHN3OHc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a2ef1ca5d72b7ce5b0de3ad",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T04:00:08+00:00",
+      "last_update": "2026-11-17T04:00:08+00:00",
+      "event": "Gunfire erupts in occupied West Bank settler attack",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attack",
+        "bank",
+        "duyuk",
+        "erupts",
+        "fire",
+        "gunfire",
+        "injuring",
+        "israeli",
+        "jericho",
+        "killing",
+        "near",
+        "occupied",
+        "one",
+        "opened",
+        "others",
+        "settler",
+        "settlers",
+        "several",
+        "the",
+        "village",
+        "west",
+        "woman"
+      ],
+      "source_excerpt": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+          "published_at": "2026-11-17T04:00:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ec147f7edff7ac635fdced61",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T03:12:54+00:00",
+      "last_update": "2026-11-17T03:12:54+00:00",
+      "event": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aircraft",
+        "alarm",
+        "alert",
+        "and",
+        "arrival",
+        "carrier",
+        "drone",
+        "field",
+        "gas",
+        "hit",
+        "hormuz",
+        "iran",
+        "iraq",
+        "mine",
+        "raise",
+        "raises",
+        "reports",
+        "strait",
+        "strikes",
+        "tanker",
+        "tankers",
+        "tensions",
+        "the"
+      ],
+      "source_excerpt": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+          "published_at": "2026-11-17T03:12:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9f1360d4ccd9f212df8c56e8",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T01:38:52+00:00",
+      "last_update": "2026-11-17T03:03:36+00:00",
+      "event": "Israeli leaders slam Netanyahu’s ‘attempted election coup’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attempted",
+        "coup",
+        "dawn",
+        "election",
+        "israeli",
+        "leaders",
+        "netanyahu",
+        "slam"
+      ],
+      "source_excerpt": "Israeli leaders slam Netanyahu’s ‘attempted election coup’ Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc1RDTk1vQ0xmdVJnQ0FMcFNBMUdUQ2l4Q0FXUjJtZXJoanVPaTRGdm91R0Nfbi1pNER1MW9rQXNzZGc2bjdxUFZoT1NwU3ZKTkgxQmpUTFZRd1RnRnp5ZGdrYWxEdzgwODRNUi0tRzdZTXBDNFNBUzhCNjZXekhqbmNJOWhhTjFudlEwLTFsTGxROUU?oc=5",
+          "published_at": "2026-11-17T01:38:52+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045063/israeli-leaders-slam-netanyahus-attempted-election-coup",
+          "published_at": "2026-11-17T03:03:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc1RDTk1vQ0xmdVJnQ0FMcFNBMUdUQ2l4Q0FXUjJtZXJoanVPaTRGdm91R0Nfbi1pNER1MW9rQXNzZGc2bjdxUFZoT1NwU3ZKTkgxQmpUTFZRd1RnRnp5ZGdrYWxEdzgwODRNUi0tRzdZTXBDNFNBUzhCNjZXekhqbmNJOWhhTjFudlEwLTFsTGxROUU?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5ea3721438194368b7146186",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T03:59:25+00:00",
+      "last_update": "2026-11-17T03:59:25+00:00",
+      "event": "Truck driver rams traffic police vehicle in daring escape attempt in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attempt",
+        "daring",
+        "driver",
+        "escape",
+        "karachi",
+        "police",
+        "rams",
+        "traffic",
+        "truck",
+        "vehicle"
+      ],
+      "source_excerpt": "Truck driver rams traffic police vehicle in daring escape attempt in Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/truck-driver-rams-traffic-police-vehicle-in-karachi-video",
+          "published_at": "2026-11-17T03:59:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/truck-driver-rams-traffic-police-vehicle-in-karachi-video",
+        "publisher_url": "https://arynews.tv/truck-driver-rams-traffic-police-vehicle-in-karachi-video",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "729f370215d0fd60fde74a5f",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T02:14:46+00:00",
+      "last_update": "2026-11-17T02:14:46+00:00",
+      "event": "Being civil to begin with",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "begin",
+        "being",
+        "civil",
+        "dawn",
+        "with"
+      ],
+      "source_excerpt": "Being civil to begin with Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kNTVZQk50XzZnTjBxVjBIZkdYcUFBeTFvNTJRWEx1TUJieUhiYXVmLXhPTEpQclVfZHVVcUt3LVdXTzNPVko2d0ItN1poZ2lBUmplUkZsSlh4UGw0SHJ4MHdyOGp2LVBUOXp3?oc=5",
+          "published_at": "2026-11-17T02:14:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kNTVZQk50XzZnTjBxVjBIZkdYcUFBeTFvNTJRWEx1TUJieUhiYXVmLXhPTEpQclVfZHVVcUt3LVdXTzNPVko2d0ItN1poZ2lBUmplUkZsSlh4UGw0SHJ4MHdyOGp2LVBUOXp3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9fcb2ac5bde7df406d1ae0db",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T02:26:40+00:00",
+      "last_update": "2026-11-17T02:26:40+00:00",
+      "event": "US set to lose measles-free certification",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "certification",
+        "dawn",
+        "free",
+        "lose",
+        "measles",
+        "set"
+      ],
+      "source_excerpt": "US set to lose measles-free certification Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcFNrVnF4VVBEdnA4cDN0ZWZJbE03c0ptTkZsTzJnd2Z1Sjh0eGRuNzcxb25sV1VzV0RxakNNbkU5STl1MVl5QkFFMWNXSWJqdnR0V0loMlFjRXNEbG5NdDllUUJ2Q3E0ak5IQ1p6YVNxUzV6RXJDYlRNODBCN2ZTTw?oc=5",
+          "published_at": "2026-11-17T02:26:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcFNrVnF4VVBEdnA4cDN0ZWZJbE03c0ptTkZsTzJnd2Z1Sjh0eGRuNzcxb25sV1VzV0RxakNNbkU5STl1MVl5QkFFMWNXSWJqdnR0V0loMlFjRXNEbG5NdDllUUJ2Q3E0ak5IQ1p6YVNxUzV6RXJDYlRNODBCN2ZTTw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ce301f9fcd8418c97090c1e3",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T02:33:20+00:00",
+      "last_update": "2026-11-17T02:33:20+00:00",
+      "event": "British govt probing Russell Brand’s message from behind bars",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bars",
+        "behind",
+        "brand",
+        "british",
+        "dawn",
+        "from",
+        "govt",
+        "message",
+        "probing",
+        "russell"
+      ],
+      "source_excerpt": "British govt probing Russell Brand’s message from behind bars Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFhsRkZIM0gzWUFabTdoa291bDVLN0c1U0VMbUp5WUF4allVeDdNaWM5eU42cDZndzRPVWxwOVhCaWljb19mSTkzYWRiTm5ZSzBOT0J4NGUtVzJDTUVJVnVHbHRPLTdnazdBemgzYVN0T2lIUDNqX2tOS25PLS1vTTQ3X0lwRmVmZ0JDdWcxVEtsUnJmWUp0YzhR?oc=5",
+          "published_at": "2026-11-17T02:33:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFhsRkZIM0gzWUFabTdoa291bDVLN0c1U0VMbUp5WUF4allVeDdNaWM5eU42cDZndzRPVWxwOVhCaWljb19mSTkzYWRiTm5ZSzBOT0J4NGUtVzJDTUVJVnVHbHRPLTdnazdBemgzYVN0T2lIUDNqX2tOS25PLS1vTTQ3X0lwRmVmZ0JDdWcxVEtsUnJmWUp0YzhR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6af50f3bc273b4983ef562e0",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T02:35:14+00:00",
+      "last_update": "2026-11-17T02:35:14+00:00",
+      "event": "US hyperscale data centres emit as much as Denmark: study",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "centres",
+        "data",
+        "dawn",
+        "denmark",
+        "emit",
+        "hyperscale",
+        "much",
+        "study"
+      ],
+      "source_excerpt": "US hyperscale data centres emit as much as Denmark: study Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHFycEZteUNJRU1YRFFqUFhkXzFELTN6bmJCd0psSzZ2ZUZjQUdNRFVRSkY3RnBRa2FSZ0JVaHNfYWtuSmlPZ2FZSXI0ZEMxc3JkRHhqTENPSkI1MENZbUtndm1VS0xxV2xlWFJKbFRhTDdpamVFZXZ1aEhfTTZmcU1SREliY3FpVXhBazNCOG5YcWVV?oc=5",
+          "published_at": "2026-11-17T02:35:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHFycEZteUNJRU1YRFFqUFhkXzFELTN6bmJCd0psSzZ2ZUZjQUdNRFVRSkY3RnBRa2FSZ0JVaHNfYWtuSmlPZ2FZSXI0ZEMxc3JkRHhqTENPSkI1MENZbUtndm1VS0xxV2xlWFJKbFRhTDdpamVFZXZ1aEhfTTZmcU1SREliY3FpVXhBazNCOG5YcWVV?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b1f85201ef2ebf4470419c42",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T02:25:56+00:00",
+      "last_update": "2026-11-17T02:25:56+00:00",
+      "event": "Amazon loses 40 satellites in failed rocket launch",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amazon",
+        "dawn",
+        "failed",
+        "launch",
+        "loses",
+        "rocket",
+        "satellites"
+      ],
+      "source_excerpt": "Amazon loses 40 satellites in failed rocket launch Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTm54V0luN0JoeUo3OEF3UFNUaHZpNFJSZS10SG4wRVhEdkVtZklHRkFZUmdQZmZJR0pnMDZJeW5oOUpscERzUVVZcFIzYjZNUmFCS3d0dTZyQUFmVDVGT0xnOG5jQ0YwemE1eGZ1ek1VLUJBa29yMVBVczZldVJzVWtob0IxdWRxWEtZYg?oc=5",
+          "published_at": "2026-11-17T02:25:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTm54V0luN0JoeUo3OEF3UFNUaHZpNFJSZS10SG4wRVhEdkVtZklHRkFZUmdQZmZJR0pnMDZJeW5oOUpscERzUVVZcFIzYjZNUmFCS3d0dTZyQUFmVDVGT0xnOG5jQ0YwemE1eGZ1ek1VLUJBa29yMVBVczZldVJzVWtob0IxdWRxWEtZYg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4b282a69a87757b2331af9bd",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T02:24:09+00:00",
+      "last_update": "2026-11-17T02:24:09+00:00",
+      "event": "Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "300",
+        "barrage",
+        "bridge",
+        "crimea",
+        "dawn",
+        "drone",
+        "hits",
+        "russia",
+        "ukraine"
+      ],
+      "source_excerpt": "Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXlNSUVNYzZGLXJfc1JjYW9jVmpudHVQOHNWWTlwTFJqNXlXa2syak83cWFiRS1uQ3UyM0tYQmZJRUpTcTh0VjQ0VzA2elAwUUZNR2trZ0FtV2Z6ZlROMTBDN0hFWGhoWlNDSVZvNXg5YWJOU3gzY2VYLWh3a3hDU1NpTmszdDBTWjA3SVpPbWREM0w4?oc=5",
+          "published_at": "2026-11-17T02:24:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXlNSUVNYzZGLXJfc1JjYW9jVmpudHVQOHNWWTlwTFJqNXlXa2syak83cWFiRS1uQ3UyM0tYQmZJRUpTcTh0VjQ0VzA2elAwUUZNR2trZ0FtV2Z6ZlROMTBDN0hFWGhoWlNDSVZvNXg5YWJOU3gzY2VYLWh3a3hDU1NpTmszdDBTWjA3SVpPbWREM0w4?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0dd4b4c1036fbbcfda43a633",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T02:34:00+00:00",
+      "last_update": "2026-11-17T02:34:00+00:00",
+      "event": "Nicolas Cage, Chris Pine to star in Vegas drama 'American Epic' together",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "a24",
+        "american",
+        "and",
+        "are",
+        "behind",
+        "best",
+        "cage",
+        "casino",
+        "chris",
+        "created",
+        "drama",
+        "epic",
+        "for",
+        "from",
+        "his",
+        "known",
+        "las",
+        "new",
+        "nicolas",
+        "novak",
+        "office",
+        "pine",
+        "project",
+        "series",
+        "set",
+        "star",
+        "the",
+        "together",
+        "vegas",
+        "work",
+        "wrote"
+      ],
+      "source_excerpt": "Nicolas Cage, Chris Pine to star in Vegas drama 'American Epic' together Nicolas Cage and Chris Pine are set to star in American Epic, a new Las Vegas casino drama series from B.J. Novak. Novak, best known for his work on The Office, created and wrote the project. A24 is behind it,...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691395-nicolas-cage-chris-pine-to-star-in-vegas-drama-american-epic-together",
+          "published_at": "2026-11-17T02:34:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691395-nicolas-cage-chris-pine-to-star-in-vegas-drama-american-epic-together",
+        "publisher_url": "https://www.geo.tv/latest/691395-nicolas-cage-chris-pine-to-star-in-vegas-drama-american-epic-together",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a14bfcfacf5f20cbfee80ec",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T02:16:00+00:00",
+      "last_update": "2026-11-17T02:16:00+00:00",
+      "event": "Charli XCX hits back at John Summit over Grammy dance rant",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acts",
+        "after",
+        "artists",
+        "back",
+        "categories",
+        "charli",
+        "club",
+        "complained",
+        "criticism",
+        "dance",
+        "four",
+        "grammy",
+        "grammys",
+        "has",
+        "hits",
+        "john",
+        "monday",
+        "nominees",
+        "over",
+        "pointed",
+        "pop",
+        "rant",
+        "rather",
+        "replying",
+        "responded",
+        "summit",
+        "than",
+        "that",
+        "the",
+        "were",
+        "with",
+        "words",
+        "xcx"
+      ],
+      "source_excerpt": "Charli XCX hits back at John Summit over Grammy dance rant Charli XCX has responded to John Summit’s criticism of the Grammys’ dance categories with four pointed words, after the DJ complained that the nominees were pop acts rather than club artists. Replying on X on Monday 16...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691394-charli-xcx-hits-back-at-john-summit-over-grammy-dance-rant",
+          "published_at": "2026-11-17T02:16:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691394-charli-xcx-hits-back-at-john-summit-over-grammy-dance-rant",
+        "publisher_url": "https://www.geo.tv/latest/691394-charli-xcx-hits-back-at-john-summit-over-grammy-dance-rant",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "be8a988908888fc6bb970d84",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T03:40:42+00:00",
+      "last_update": "2026-11-17T03:40:42+00:00",
+      "event": "From The Past Pages Of Dawn: 1976: Fifty Years Ago: NA’s crest design",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1976",
+        "ago",
+        "crest",
+        "dawn",
+        "design",
+        "fifty",
+        "from",
+        "pages",
+        "past",
+        "the",
+        "years"
+      ],
+      "source_excerpt": "From The Past Pages Of Dawn: 1976: Fifty Years Ago: NA’s crest design Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWRBREk2dGd3b245R3FJZlhwS0JtNi1zMkhiX2RPaGFaR2E2RUhtWFJHeG5KUmRaTElzVWYwblRiU013Y0tLdFFMempZNG01Q0xTSVJhRWZjZHU0NGwyTDctbHc0bEkyY2UzMC1vbkVpa3BubXdadk9Yd09CZlpYV2pqVmtKY3kzMnFUQmFSb0JFajd3YWxSUjFYLU0yNmwy?oc=5",
+          "published_at": "2026-11-17T03:40:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWRBREk2dGd3b245R3FJZlhwS0JtNi1zMkhiX2RPaGFaR2E2RUhtWFJHeG5KUmRaTElzVWYwblRiU013Y0tLdFFMempZNG01Q0xTSVJhRWZjZHU0NGwyTDctbHc0bEkyY2UzMC1vbkVpa3BubXdadk9Yd09CZlpYV2pqVmtKY3kzMnFUQmFSb0JFajd3YWxSUjFYLU0yNmwy?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2666a7730aa872728f9553ce",
+      "remembered_at": "2026-11-17T04:09:00.297362+00:00",
+      "event_date": "2026-11-17T03:34:48+00:00",
+      "last_update": "2026-11-17T03:34:48+00:00",
+      "event": "No quick solution",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "quick",
+        "solution"
+      ],
+      "source_excerpt": "No quick solution Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43NVVwTHdiM3pGU1JHME5FYkhMa2w0Q2ctV3hzWTNmVGdmVGtLa2RNblNQU0VHWDJZTnd3TFZBRXc0YkxIVTJWZWhzb3VzWURZZHJ5d3hNRkhWem0wM19BWg?oc=5",
+          "published_at": "2026-11-17T03:34:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43NVVwTHdiM3pGU1JHME5FYkhMa2w0Q2ctV3hzWTNmVGdmVGtLa2RNblNQU0VHWDJZTnd3TFZBRXc0YkxIVTJWZWhzb3VzWURZZHJ5d3hNRkhWem0wM19BWg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T03:10:21.546809+00:00"
+  "updated_at": "2026-11-17T04:09:00.297362+00:00"
 }
