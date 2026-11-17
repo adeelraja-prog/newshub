@@ -1109,6 +1109,7 @@ def writing_prompt(blocks):
     return f"""You are the creative headline writer and social editor for a Pakistan news page on Facebook.
 For each STORY return:
 - "n": story number
+- "category": the best matching category from ["politics","economy","security","sports","world","courts","disaster","health","tech","tech_ai","tech_gadgets","tech_mobile","tech_laptop","tech_apps","science","weather","fashion","lifestyle","crime","war","us_politics","other"]; classify the event, not the publisher
 - "headline_primary": creative, curiosity-driven, accurate headline in natural English (max 14 words)
 - "headline_alt": a different angle for internal comparison (max 14 words)
 - "headline_choice": "primary" or "alt" (whichever is stronger and more accurate)
@@ -1153,6 +1154,20 @@ def write_batch(stories):
     blocks, blobs = [], []
     for n, s in enumerate(stories, 1):
         c = s["cluster"]
+        # The trusted fast lane has not run the full-article fetch used by the AI desk.
+        # Fetch the original publisher article now so Urdu translation and value-addition
+        # use substantive source text rather than an RSS headline/snippet alone.
+        if s.get("direct_source") and len(str(s.get("excerpt") or "")) < 900:
+            try:
+                article_text, article_links, article_image = fetch_article(c.get("lead") or {})
+                if article_text and not has_devanagari(article_text):
+                    s["excerpt"] = article_text[:7000]
+                    c["excerpt"] = s["excerpt"]
+                if article_image:
+                    s["image_url"] = article_image
+                    c["image_url"] = article_image
+            except Exception as fetch_error:
+                print(f"[publisher-fast-lane] full article unavailable; using feed text: {fetch_error}")
         heads = " | ".join(m["title"] for m in c["members"][:5])
         osr = s["original_source"]
         facts = (f"original source: type={osr['type']}, name={osr['name']}, link {'available' if osr['url'] else 'not found'}; "
@@ -1230,6 +1245,10 @@ def write_batch(stories):
                 tags.append(t)
         w["hashtags"] = tags[:5]
         w["headline_used"] = w["headline_alt"] if w.get("headline_choice") == "alt" else w["headline_primary"]
+        # Fast-lane records start as category=other; use the writer's constrained
+        # classification so their posters receive the correct Urdu/English desk label.
+        if stories[n - 1].get("direct_source") and w.get("category") in CATEGORIES:
+            stories[n - 1]["category"] = w["category"]
         out[n] = w
     # Incomplete/invalid creative is held for retry; never publish an English-only poster.
     for n, story in enumerate(stories, 1):
@@ -1925,7 +1944,7 @@ def main():
             row["status"] = "needs_review"
             row["review_reason"] = "Incomplete queue record; manual review required"
             row.setdefault("needs_review_at", iso(t0))
-        elif not has_urdu_script((row.get("poster") or {}).get("ur", "")):
+        elif row.get("status") == "queued" and not has_urdu_script((row.get("poster") or {}).get("ur", "")):
             row["status"] = "needs_review"
             row["needs_review_at"] = iso(t0)
             row["review_reason"] = "Legacy English-only poster quarantined: Urdu-script headline is missing; regenerate before publishing."
