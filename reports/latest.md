@@ -1,126 +1,127 @@
-# News Hub report - Tue 17 Nov, 07:25 PM PKT
+# News Hub report - Tue 17 Nov, 08:23 PM PKT
 
 ## Collection
-- New items this run: 205 | items in rolling pool: 920
-- Unique story clusters: 764 (duplicates merged: 156)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 2
-- Items per outlet: UrduPoint 100, Geo News 11, Al Jazeera 9, TechJuice 8, Engadget 6, ProPakistani 6, samaa tv 5, Dawn 5, The Verge 5, TechCrunch 5, Dawn Pakistan 4, Aaj English TV 4
+- New items this run: 79 | items in rolling pool: 891
+- Unique story clusters: 734 (duplicates merged: 157)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 23, Geo News 10, ARY News 6, TechCrunch 6, Al Jazeera 5, ProPakistani 5, The Verge 3, Dawn 2, Dawn Latest 2, Engadget 2, GSMArena 2, TechJuice 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Usman Nurmagomedov released from UAE prison after hotel brawl arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chinese govt announces 61 scholarships for Pakistani students for 2027–28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In meeting with UK army chief, CDF reaffirms commitment to expanding bilateral defence ties: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Usman Nurmagomedov released from UAE prison after hotel brawl arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chinese govt announces 61 scholarships for Pakistani students for 2027–28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In meeting with UK army chief, CDF reaffirms commitment to expanding bilateral defence ties: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Usman Nurmagomedov released from UAE prison after hotel brawl arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chinese govt announces 61 scholarships for Pakistani students for 2027–28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In meeting with UK army chief, CDF reaffirms commitment to expanding bilateral defence ties: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 102/107 | empty: 4 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Islamabad bars vehicles without fitness and emissions tests to curb smog  [NORMAL]
-- Poster:  / Islamabad bars vehicles without fitness and emissions tests to curb smog | category other
-- Alternative headline: Islamabad bars vehicles without fitness and emissions tests to curb smog
+### Saudi's Delta Energy to explore $30 billion energy investment in Pakistan  [NORMAL]
+- Poster:  / Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | category other
+- Alternative headline: Saudi's Delta Energy to explore $30 billion energy investment in Pakistan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVZoLTUwSURCQW1LdnZXMVpZR3BZMUlwMWFYQ0w2RXdfcFVMaFdGaDJ0ekI0dVR4enJfYU13TVdjU0dETUdyTEtGWE13NHJlQ2t1ZzY0YjRmYnNVR2F4cjZXVFpFSVlGMG5PY0FDVnM4RGpjQkgxcDZRNG53VFBxWUQxYU02YUpiZk82SWp1NnZIMmpjVVAxVGhkZUpEeTAwX21qdEYxYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVZoLTUwSURCQW1LdnZXMVpZR3BZMUlwMWFYQ0w2RXdfcFVMaFdGaDJ0ekI0dVR4enJfYU13TVdjU0dETUdyTEtGWE13NHJlQ2t1ZzY0YjRmYnNVR2F4cjZXVFpFSVlGMG5PY0FDVnM4RGpjQkgxcDZRNG53VFBxWUQxYU02YUpiZk82SWp1NnZIMmpjVVAxVGhkZUpEeTAwX21qdEYxYw?oc=5
-- Supporting coverage: samaa tv, TechJuice, Dawn, Dawn Pakistan
-- Keywords: Islamabad bars vehicles without fitness | hashtags: 
-- Scheduled: Tue 17 Nov, 07:25 PM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5
+- Supporting coverage: Reuters, The Express Tribune
+- Keywords: Saudi's Delta Energy to explore | hashtags: 
+- Scheduled: Tue 17 Nov, 08:23 PM PKT
 - Caption:
 ```
-Islamabad bars vehicles without fitness and emissions tests to curb smog
+Saudi's Delta Energy to explore $30 billion energy investment in Pakistan
 
-Islamabad bars vehicles without fitness and emissions tests to curb smog samaa tv
+Saudi's Delta Energy to explore $30 billion energy investment in Pakistan The Express Tribune
+
+Source: The Express Tribune
+```
+
+### PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar  [NORMAL]
+- Poster:  / PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar | category other
+- Alternative headline: PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxON2VlWFBKekF6VmhWSExUa1c4dzVESTY3U2U5X1ZXa1dPaGhUTXpwTGVjOHVXOTUwOTZBN1dvcWg3LUstMjVWd3JfYzFPUVgxaGlSOHRWM0lrSW5GUy1pVmNPaUM2Rlg0NkFHV05RNVhZTVBXQnppaTVRZEdRWHNlaFVSOUxMZWpTNHBxMmNHOFBNYk5nQnpubQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxON2VlWFBKekF6VmhWSExUa1c4dzVESTY3U2U5X1ZXa1dPaGhUTXpwTGVjOHVXOTUwOTZBN1dvcWg3LUstMjVWd3JfYzFPUVgxaGlSOHRWM0lrSW5GUy1pVmNPaUM2Rlg0NkFHV05RNVhZTVBXQnppaTVRZEdRWHNlaFVSOUxMZWpTNHBxMmNHOFBNYk5nQnpubQ?oc=5
+- Supporting coverage: samaa tv, Geo News, Geo News, ARY News
+- Keywords: PTI leaders Taimur Jhagra, Kamran | hashtags: 
+- Scheduled: Tue 17 Nov, 08:33 PM PKT
+- Caption:
+```
+PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar
+
+PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar samaa tv
 
 Source: samaa tv
 ```
 
-### ECP decides to hold Punjab local government elections in two phases  [NORMAL]
-- Poster:  / ECP decides to hold Punjab local government elections in two phases | category other
-- Alternative headline: ECP decides to hold Punjab local government elections in two phases
+### Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan  [NORMAL]
+- Poster:  / Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan | category other
+- Alternative headline: Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases
-- Supporting coverage: ARY News, samaa tv, Dawn Latest, Dawn
-- Keywords: ECP decides to hold Punjab | hashtags: 
-- Scheduled: Tue 17 Nov, 07:35 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnNoZ3pYcFFreFluRGt4OWNLSE1jSXBqODFvcExmaVVrajFxRlplQmN4dHFvR3RvaW1XRldIVmxEWXQ5ZU5YT29MQlpkdlI5UkI5WmFTZVlpczBhaWVJRHl0ZDNRZlg2a2Ixc19SVExYRWVvaHhHcER0UkJJdXVwSkhhaFJ2Z0ZXWXFUSUhLYkU1TkZvVHZ1MWFKYWhoV3lZb1pWNnN1ZWhiZHM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnNoZ3pYcFFreFluRGt4OWNLSE1jSXBqODFvcExmaVVrajFxRlplQmN4dHFvR3RvaW1XRldIVmxEWXQ5ZU5YT29MQlpkdlI5UkI5WmFTZVlpczBhaWVJRHl0ZDNRZlg2a2Ixc19SVExYRWVvaHhHcER0UkJJdXVwSkhhaFJ2Z0ZXWXFUSUhLYkU1TkZvVHZ1MWFKYWhoV3lZb1pWNnN1ZWhiZHM?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, Dawn Pakistan, Dawn Pakistan, Dawn
+- Keywords: Bilawal says system was 'made | hashtags: 
+- Scheduled: Tue 17 Nov, 08:43 PM PKT
 - Caption:
 ```
-ECP decides to hold Punjab local government elections in two phases
+Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan
 
-ECP decides to hold Punjab local government elections in two phases
+Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan Dawn
+
+Source: Dawn
+```
+
+### Chinese govt announces 61 scholarships for Pakistani students for 2027–28  [NORMAL]
+- Poster:  / Chinese govt announces 61 scholarships for Pakistani students for 2027–28 | category other
+- Alternative headline: Chinese govt announces 61 scholarships for Pakistani students for 2027–28
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/chinese-govt-announces-61-scholarships-for-pakistani-students-for-2027-28 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/chinese-govt-announces-61-scholarships-for-pakistani-students-for-2027-28
+- Supporting coverage: ARY News, TechJuice
+- Keywords: Chinese govt announces 61 scholarships | hashtags: 
+- Scheduled: Tue 17 Nov, 08:53 PM PKT
+- Caption:
+```
+Chinese govt announces 61 scholarships for Pakistani students for 2027–28
+
+Chinese govt announces 61 scholarships for Pakistani students for 2027–28
 
 Source: ARY News
 ```
 
-### 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment  [NORMAL]
-- Poster:  / 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment | category other
-- Alternative headline: 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045191/8-pakistan-bar-council-members-call-on-judiciary-to-take-note-of-imrans-plea-for-medical-treatment | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045191/8-pakistan-bar-council-members-call-on-judiciary-to-take-note-of-imrans-plea-for-medical-treatment
-- Supporting coverage: X, Dawn Pakistan, Dawn
-- Keywords: 8 Pakistan Bar Council members | hashtags: 
-- Scheduled: Tue 17 Nov, 07:45 PM PKT
-- Caption:
-```
-8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment
-
-ISLAMABAD: Eight members of the Pakistan Bar Council (PBC) on Tuesday called upon the judiciary to ensure implementation of the Supreme Court’s (SC) order directing incarcerated ex-premier Imran Khan’s transfer to Shifa International Hospital for medical treatment. On Aug 18 , a three-member SC benc
-
-Source: Dawn Pakistan
-```
-
-### Usman Nurmagomedov released from UAE prison after hotel brawl arrest  [NORMAL]
-- Poster:  / Usman Nurmagomedov released from UAE prison after hotel brawl arrest | category other
-- Alternative headline: Usman Nurmagomedov released from UAE prison after hotel brawl arrest
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss
-- Supporting coverage: Al Jazeera, Geo News
-- Keywords: Usman Nurmagomedov released from UAE | hashtags: 
-- Scheduled: Tue 17 Nov, 07:55 PM PKT
-- Caption:
-```
-Usman Nurmagomedov released from UAE prison after hotel brawl arrest
-
-Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.
-
-Source: Al Jazeera
-```
-
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
 
 ## Queue status
 - [published] high | 16 Terrorists Killed, 2 Army Soldiers Martyred in KP Intelligence Oper | Sat 14 Nov, 08:54 PM PKT
@@ -257,9 +258,9 @@ Source: Al Jazeera
 - [needs_review] normal | Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second | Tue 17 Nov, 01:00 PM PKT
 - [needs_review] normal | Pakistan condemns Israeli attacks in Syria, calls for withdrawal from  | Tue 17 Nov, 01:10 PM PKT
 - [published] normal | Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | Tue 17 Nov, 01:55 PM PKT
-- [queued] normal | Leonid meteor shower 2026: When and where to see it from where you liv | Tue 17 Nov, 02:05 PM PKT
-- [queued] normal | Oil slips as recovering Mideast exports blunt Gulf tensions | Tue 17 Nov, 02:15 PM PKT
-- [queued] normal | Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | Tue 17 Nov, 02:25 PM PKT
+- [needs_review] normal | Leonid meteor shower 2026: When and where to see it from where you liv | Tue 17 Nov, 02:05 PM PKT
+- [needs_review] normal | Oil slips as recovering Mideast exports blunt Gulf tensions | Tue 17 Nov, 02:15 PM PKT
+- [published] normal | Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | Tue 17 Nov, 02:25 PM PKT
 - [queued] normal | NDMA issues drought high alert for Sindh | Tue 17 Nov, 02:58 PM PKT
 - [queued] normal | Gamers in Asia stoked to play 'GTA VI', many on grey market | Tue 17 Nov, 03:08 PM PKT
 - [queued] normal | Poll suggests only 31pc of Americans support war on Iran | Tue 17 Nov, 03:18 PM PKT
@@ -280,9 +281,13 @@ Source: Al Jazeera
 - [queued] normal | ECP decides to hold Punjab local government elections in two phases | Tue 17 Nov, 07:35 PM PKT
 - [queued] normal | 8 Pakistan Bar Council members call on judiciary to take note of Imran | Tue 17 Nov, 07:45 PM PKT
 - [queued] normal | Usman Nurmagomedov released from UAE prison after hotel brawl arrest | Tue 17 Nov, 07:55 PM PKT
+- [queued] normal | Saudi's Delta Energy to explore $30 billion energy investment in Pakis | Tue 17 Nov, 08:23 PM PKT
+- [queued] normal | PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar | Tue 17 Nov, 08:33 PM PKT
+- [queued] normal | Bilawal says system was 'made to collapse' amid debate on 'reset' in P | Tue 17 Nov, 08:43 PM PKT
+- [queued] normal | Chinese govt announces 61 scholarships for Pakistani students for 2027 | Tue 17 Nov, 08:53 PM PKT
 
 ## Publishing this run
-- Published 'Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage'.
+- Published 'Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

@@ -51323,7 +51323,523 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0250462a9bb895c59418fc39",
+      "remembered_at": "2026-11-17T15:23:56.357499+00:00",
+      "event_date": "2026-11-17T10:13:46+00:00",
+      "last_update": "2026-11-17T14:29:04+00:00",
+      "event": "Saudi's Delta Energy to explore $30 billion energy investment in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "billion",
+        "delta",
+        "energy",
+        "explore",
+        "express",
+        "investment",
+        "pakistan",
+        "saudi",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Saudi's Delta Energy to explore $30 billion energy investment in Pakistan The Express Tribune",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0pXXzZmdzBxM201cG9rM2UxQmZNUE9pUGxDRUZNTEN6VjliWHdHMjJPbjd5TEx3Q1VhT3RLMG1veEJ6UFIwYms3Vm54amRYbVFIUTBXdDJTSUFQbVlrVzVCN1A5eXdXeHRrVVdzRUYtMWNDLUVDQWMxVUZfLUtieURpa0tWM29jSzB5WEdzQnZsc0cyTUpoSEZkVEpZYkF3LTVfcTZyNVplcFNmN1Vod2U3SlhkYUFx?oc=5",
+          "published_at": "2026-11-17T10:13:46+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5",
+          "published_at": "2026-11-17T14:29:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c4f75cdfa94b0eaabc133240",
+      "remembered_at": "2026-11-17T15:23:56.357499+00:00",
+      "event_date": "2026-11-17T13:52:16+00:00",
+      "last_update": "2026-11-17T15:09:22+00:00",
+      "event": "PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrested",
+        "bangash",
+        "jhagra",
+        "kamran",
+        "leaders",
+        "peshawar",
+        "pti",
+        "samaa",
+        "taimur"
+      ],
+      "source_excerpt": "PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2VlWFBKekF6VmhWSExUa1c4dzVESTY3U2U5X1ZXa1dPaGhUTXpwTGVjOHVXOTUwOTZBN1dvcWg3LUstMjVWd3JfYzFPUVgxaGlSOHRWM0lrSW5GUy1pVmNPaUM2Rlg0NkFHV05RNVhZTVBXQnppaTVRZEdRWHNlaFVSOUxMZWpTNHBxMmNHOFBNYk5nQnpubQ?oc=5",
+          "published_at": "2026-11-17T13:52:16+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691489-ptis-taimur-jhagra-kamran-bangash-irfan-saleem-arrested-in-radio-pakistan-attack-case",
+          "published_at": "2026-11-17T14:20:09+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmEtblo4dG5BaFppY1B2U1RrUThSci0wM3lkNWxFeWF6Nlg1ZGRFWURzQVBWNHNnTmp3X3o1QjRib3hMVmdjRDZITndyc0tkS25RZnZpQUJmZ0hDdlhza3VwTWt6MDZnRlBnT0VESnFQa08xZnJITndXdmdYdFpuQ2c3SG1LWTBFc0Nzdks3ZE1HZnB6cDgxZ1V6cUdJeEhEMUdmRmRrVFFEUXY0UDlSN1RmTTRyb1NyaWc?oc=5",
+          "published_at": "2026-11-17T14:20:09+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pti-leaders-taimur-jhagra-kamran-bangash-and-irfan-saleem-detained-under-3-mpo",
+          "published_at": "2026-11-17T15:09:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2VlWFBKekF6VmhWSExUa1c4dzVESTY3U2U5X1ZXa1dPaGhUTXpwTGVjOHVXOTUwOTZBN1dvcWg3LUstMjVWd3JfYzFPUVgxaGlSOHRWM0lrSW5GUy1pVmNPaUM2Rlg0NkFHV05RNVhZTVBXQnppaTVRZEdRWHNlaFVSOUxMZWpTNHBxMmNHOFBNYk5nQnpubQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "477f900b7776d6e0094e35af",
+      "remembered_at": "2026-11-17T15:23:56.357499+00:00",
+      "event_date": "2026-11-17T14:59:39+00:00",
+      "last_update": "2026-11-17T15:09:21+00:00",
+      "event": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleges",
+        "attack",
+        "bomb",
+        "cnn",
+        "developing",
+        "dirty",
+        "for",
+        "iran",
+        "know",
+        "officials",
+        "plans",
+        "plotting",
+        "quoting",
+        "report",
+        "tehran",
+        "the",
+        "unnamed",
+        "washington",
+        "what"
+      ],
+      "source_excerpt": "A CNN report quoting unnamed US officials alleges Tehran is developing plans for an attack on officials in Washington.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss",
+          "published_at": "2026-11-17T14:59:39+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFp4SnYzOXRsMUp6V1hFd2VxdkhrbXQ3MEJKdF9QYVVaMUVsZENOS0t1cjFzMnNROVR6WHdVX3UwOHNmMEVzNnhvLW9TXzBpZ3RtUS1FR3o0R19ueEZfYUw2eTd4Y0ZxZ2tIbVV3eUZiRWFncmYxdWZFWkdHYm9oN29PdTVvREtZUkxzX0dJOHJkNzkwVVp6N3g5VURCRC1vSFdR0gGoAUFVX3lxTE5FU3NQVk5OaDlLVkpUZEVyYUhrengybi1XR2tCanVTbW00OXR4NnVWelBJZERXV1d4YjBsdXVmaXNFekdZWDNpckY4dXFYc3F4ZW5OS1dWaGpEdmZOUnY5RmFqVzl6VUhyN3FfbjEtaVBMYWU4di1KZGJUSXJoVS0zTVZzOEtLSFhuWC1wT3ZMVmdEdUpvWUgtNHVDc2hzU1pheEotSW5NVg?oc=5",
+          "published_at": "2026-11-17T15:09:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2c713866255fd6667ebf80a0",
+      "remembered_at": "2026-11-17T15:23:56.357499+00:00",
+      "event_date": "2026-11-17T14:57:33+00:00",
+      "last_update": "2026-11-17T14:57:33+00:00",
+      "event": "US senators demand FAA pause upgrades linked to nationwide ground stop",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "communications",
+        "demand",
+        "faa",
+        "ground",
+        "linked",
+        "more",
+        "nationwide",
+        "pause",
+        "problems",
+        "raising",
+        "replaced",
+        "risk",
+        "routers",
+        "senators",
+        "slated",
+        "stop",
+        "systems",
+        "the",
+        "thousands",
+        "upgrades",
+        "used"
+      ],
+      "source_excerpt": "Thousands of routers used in communications systems are slated to be replaced, raising the risk of more problems.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop?traffic_source=rss",
+          "published_at": "2026-11-17T14:57:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "093312670e7ff8a813688918",
+      "remembered_at": "2026-11-17T15:23:56.357499+00:00",
+      "event_date": "2026-11-17T14:46:37+00:00",
+      "last_update": "2026-11-17T14:46:37+00:00",
+      "event": "Bessent vs Lutnick: Who is winning the China chip debate?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "advanced",
+        "bessent",
+        "cabinet",
+        "china",
+        "chip",
+        "chips",
+        "controls",
+        "debate",
+        "emerged",
+        "export",
+        "has",
+        "lutnick",
+        "over",
+        "rift",
+        "the",
+        "tighten",
+        "trump",
+        "who",
+        "winning"
+      ],
+      "source_excerpt": "A rift has emerged in Trump’s cabinet over China’s access to advanced AI chips as export controls tighten.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
+          "published_at": "2026-11-17T14:46:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "72fda6a8476240e35cb83782",
+      "remembered_at": "2026-11-17T15:23:56.357499+00:00",
+      "event_date": "2026-11-17T14:30:00+00:00",
+      "last_update": "2026-11-17T14:30:00+00:00",
+      "event": "Ghost Towns of Afghanistan: The Environmental Toll of Decades of War",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghanistan",
+        "aftermath",
+        "confronts",
+        "damage",
+        "decades",
+        "environmental",
+        "father",
+        "from",
+        "ghost",
+        "the",
+        "toll",
+        "towns",
+        "war",
+        "years"
+      ],
+      "source_excerpt": "A father confronts the aftermath of environmental damage from years of war in Afghanistan.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/witness/2026/11/17/ghost-towns-of-afghanistan-the-environmental-toll-of-decades-of-war?traffic_source=rss",
+          "published_at": "2026-11-17T14:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/witness/2026/11/17/ghost-towns-of-afghanistan-the-environmental-toll-of-decades-of-war?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/witness/2026/11/17/ghost-towns-of-afghanistan-the-environmental-toll-of-decades-of-war?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "47b8a91af2535223df0fa5f0",
+      "remembered_at": "2026-11-17T15:23:56.357499+00:00",
+      "event_date": "2026-11-17T14:30:00+00:00",
+      "last_update": "2026-11-17T14:30:00+00:00",
+      "event": "What in the World",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "celebrity",
+        "gomez",
+        "latest",
+        "selena",
+        "speak",
+        "the",
+        "what",
+        "world"
+      ],
+      "source_excerpt": "Selena Gomez is the latest celebrity to speak about it",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct990p?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T14:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct990p?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/sounds/play/w3ct990p?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e2ed3aa27a6bbbae21a4f5c7",
+      "remembered_at": "2026-11-17T15:23:56.357499+00:00",
+      "event_date": "2026-11-17T15:20:36+00:00",
+      "last_update": "2026-11-17T15:20:36+00:00",
+      "event": "It's too expensive to hire under-25s, say firms. Will Milburn plans help?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "25s",
+        "business",
+        "costs",
+        "cut",
+        "employers",
+        "essential",
+        "expensive",
+        "firms",
+        "group",
+        "help",
+        "hire",
+        "insurance",
+        "milburn",
+        "national",
+        "neet",
+        "one",
+        "plans",
+        "problem",
+        "proposal",
+        "say",
+        "says",
+        "tackling",
+        "the",
+        "too",
+        "under",
+        "will"
+      ],
+      "source_excerpt": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T15:20:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ed7411b40c415cbbeb52642b",
+      "remembered_at": "2026-11-17T15:23:56.357499+00:00",
+      "event_date": "2026-11-17T14:50:29+00:00",
+      "last_update": "2026-11-17T14:50:29+00:00",
+      "event": "PTA finalises licensing framework for 'sky-high' internet, telecommunication services",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "finalises",
+        "for",
+        "framework",
+        "high",
+        "internet",
+        "licensing",
+        "pta",
+        "services",
+        "sky",
+        "telecommunication"
+      ],
+      "source_excerpt": "PTA finalises licensing framework for 'sky-high' internet, telecommunication services Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0M1VHFobjFJR2ZnYU5pb2VsLWNpbkVMN3N4enkyMVRIZ1d4ZDBuZnhfODhNS1htWkl2ZmJuR1ZkYy1RVzlESlJ5d21uQWMyeGJNd0lJN0JNbWlKZWhOUUJVVzVPZGktZ1J1cEY3VUhYT3BMaUkzWkZTZmwyUzJkNkMwazVzbTB4U3RHM1p0MnlTWWRUOVFRdGNodHcySC1kYzJWeFVrRGZ2cHhiQjljQ0tyeng0V0E?oc=5",
+          "published_at": "2026-11-17T14:50:29+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045196/pta-finalises-licensing-framework-for-sky-high-internet-telecommunication-services",
+          "published_at": "2026-11-17T14:50:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0M1VHFobjFJR2ZnYU5pb2VsLWNpbkVMN3N4enkyMVRIZ1d4ZDBuZnhfODhNS1htWkl2ZmJuR1ZkYy1RVzlESlJ5d21uQWMyeGJNd0lJN0JNbWlKZWhOUUJVVzVPZGktZ1J1cEY3VUhYT3BMaUkzWkZTZmwyUzJkNkMwazVzbTB4U3RHM1p0MnlTWWRUOVFRdGNodHcySC1kYzJWeFVrRGZ2cHhiQjljQ0tyeng0V0E?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "be1173ed5dc59d82bcc9fa53",
+      "remembered_at": "2026-11-17T15:23:56.357499+00:00",
+      "event_date": "2026-11-17T14:56:32+00:00",
+      "last_update": "2026-11-17T14:56:32+00:00",
+      "event": "'Under the bus': Feuds grip Trump's White House after midterms",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bus",
+        "dawn",
+        "feuds",
+        "grip",
+        "house",
+        "midterms",
+        "the",
+        "trump",
+        "under",
+        "white"
+      ],
+      "source_excerpt": "'Under the bus': Feuds grip Trump's White House after midterms Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejVRREwtSXlCNHdCU3lXU21jODh5em1WblNEOEhpRGxqZEdTRnoySEpFWHFnU01CNXAyV3F5VUZLSGh4NHdFU0FpWHJpd3BJbW1kLXB2cUM1bTJLbjI2OWYzZXg3TmRhRlFSUzlCaHE4cktnUHJpZkZfQ1gySGJHWWJQQVlXQW41OE56bEFWQVdlT0F5bW00?oc=5",
+          "published_at": "2026-11-17T14:56:32+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045198/under-the-bus-feuds-grip-trumps-white-house-after-midterms",
+          "published_at": "2026-11-17T14:56:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejVRREwtSXlCNHdCU3lXU21jODh5em1WblNEOEhpRGxqZEdTRnoySEpFWHFnU01CNXAyV3F5VUZLSGh4NHdFU0FpWHJpd3BJbW1kLXB2cUM1bTJLbjI2OWYzZXg3TmRhRlFSUzlCaHE4cktnUHJpZkZfQ1gySGJHWWJQQVlXQW41OE56bEFWQVdlT0F5bW00?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T14:25:34.997916+00:00"
+  "updated_at": "2026-11-17T15:23:56.357499+00:00"
 }
