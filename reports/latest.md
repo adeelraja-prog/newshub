@@ -1,143 +1,140 @@
-# News Hub report - Tue 17 Nov, 07:11 AM PKT
+# News Hub report - Tue 17 Nov, 08:10 AM PKT
 
 ## Collection
-- New items this run: 68 | items in rolling pool: 258
-- Unique story clusters: 223 (duplicates merged: 35)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 11
-- Items per outlet: Dawn 43, Al Jazeera 5, Business Recorder 5, The News International 2, Geo News 2, The Express Tribune 2, Engadget 2, Wired 1, GSMArena 1, BBC Technology 1, Profit by Pakistan Today 1, Gulf News 1
+- New items this run: 32 | items in rolling pool: 243
+- Unique story clusters: 208 (duplicates merged: 35)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 10
+- Items per outlet: Dawn 11, Profit by Pakistan Today 4, Dawn Pakistan 2, Geo News 2, Investify 2, Dawn Latest 1, X 1, GSMArena 1, Business Recorder 1, الحرة 1, Anadolu Ajansı 1, Gulf News 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Yemeni army reports 661 attacks on Houthis as group advances towards Aden | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine holds peace talks with US, Europe as conflict escalates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Flour gets costlier as imports stay insufficient | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Irish court jails man for life over Dublin knife attack that sparked riots | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - UK seeks closer ties with EU after Brexit fail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Office yellow warning in place as snow could disrupt Tuesday morning travel | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Yemeni army reports 661 attacks on Houthis as group advances towards Aden | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine holds peace talks with US, Europe as conflict escalates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Flour gets costlier as imports stay insufficient | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Irish court jails man for life over Dublin knife attack that sparked riots | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - UK seeks closer ties with EU after Brexit fail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Office yellow warning in place as snow could disrupt Tuesday morning travel | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Yemeni army reports 661 attacks on Houthis as group advances towards Aden | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine holds peace talks with US, Europe as conflict escalates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Flour gets costlier as imports stay insufficient | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Irish court jails man for life over Dublin knife attack that sparked riots | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - UK seeks closer ties with EU after Brexit fail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Office yellow warning in place as snow could disrupt Tuesday morning travel | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 81/107 | empty: 3 | failed: 23 | malformed/partial: 23
-- Trusted publisher desks with at least one healthy source: 10/10
+- Overall feeds with entries: 79/107 | empty: 3 | failed: 25 | malformed/partial: 25
+- Trusted publisher desks with at least one healthy source: 7/10
 - ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: PTI and Judiciary Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI and Imran Khan Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Reuters World | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Political Crisis Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Security Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Samaa, Dunya News, Dunya News TV
 
 ## Selected for the queue
-### Yemeni army reports 661 attacks on Houthis as group advances towards Aden  [NORMAL]
-- Poster:  / Yemeni army reports 661 attacks on Houthis as group advances towards Aden | category other
-- Alternative headline: Yemeni army reports 661 attacks on Houthis as group advances towards Aden
+### Flour gets costlier as imports stay insufficient  [NORMAL]
+- Poster:  / Flour gets costlier as imports stay insufficient | category other
+- Alternative headline: Flour gets costlier as imports stay insufficient
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXFEaWdHWTM3OTU3dk5NQ2pWU3I3cF9WSTZmNDhGQk5fZzRKVzNsRmU2bnNhZWtmOV9idEdXRlNnSzhOeE5ycVNqYVZway1rVnFzRWhIS3htSFI4dXlxQV9Sa3hvV3dIUFlwdjliLTRJQUk2WVdiS09FcUtKcDVkb0N1OVh2Y2FLeVE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXFEaWdHWTM3OTU3dk5NQ2pWU3I3cF9WSTZmNDhGQk5fZzRKVzNsRmU2bnNhZWtmOV9idEdXRlNnSzhOeE5ycVNqYVZway1rVnFzRWhIS3htSFI4dXlxQV9Sa3hvV3dIUFlwdjliLTRJQUk2WVdiS09FcUtKcDVkb0N1OVh2Y2FLeVE?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Flour gets costlier as imports | hashtags: 
+- Scheduled: Tue 17 Nov, 08:10 AM PKT
+- Caption:
+```
+Flour gets costlier as imports stay insufficient
+
+Flour gets costlier as imports stay insufficient Dawn
+
+Source: Dawn
+```
+
+### Irish court jails man for life over Dublin knife attack that sparked riots  [NORMAL]
+- Poster:  / Irish court jails man for life over Dublin knife attack that sparked riots | category other
+- Alternative headline: Irish court jails man for life over Dublin knife attack that sparked riots
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Yemeni army reports 661 attacks | hashtags: 
-- Scheduled: Tue 17 Nov, 07:11 AM PKT
+- Keywords: Irish court jails man for | hashtags: 
+- Scheduled: Tue 17 Nov, 08:20 AM PKT
 - Caption:
 ```
-Yemeni army reports 661 attacks on Houthis as group advances towards Aden
+Irish court jails man for life over Dublin knife attack that sparked riots
 
-Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.
+Three children and a woman were injured in the attack outside a central Dublin school in 2023.
 
 Source: Al Jazeera
 ```
 
-### New Zealand tricks and annual leave - the lengths fans are going to for GTA 6  [NORMAL]
-- Poster:  / New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 | category other
-- Alternative headline: New Zealand tricks and annual leave - the lengths fans are going to for GTA 6
+### UK seeks closer ties with EU after Brexit fail  [NORMAL]
+- Poster:  / UK seeks closer ties with EU after Brexit fail | category other
+- Alternative headline: UK seeks closer ties with EU after Brexit fail
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology
-- Keywords: New Zealand tricks and annual | hashtags: 
-- Scheduled: Tue 17 Nov, 07:21 AM PKT
-- Caption:
-```
-New Zealand tricks and annual leave - the lengths fans are going to for GTA 6
-
-Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox
-
-Source: BBC Technology
-```
-
-### Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’  [NORMAL]
-- Poster:  / Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | category other
-- Alternative headline: Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW8wZ0U1T0hHZ0VoRXlUU3hJYVdoX0VrSjF2VWs3d1pTZGtvMUN3SFRDd2QtV2c1eUFuUVBPN3dTWHloeC00WlRfVXU4UWpDeDkydllvdm5BWDU1MkhhemxtWHpNRFBraHVvWkFtSmhTQzcweWt4MU53S191MW4yNDlJazFXSEN4YVFfeXNEYnRyVWZReVhRR05kQnhEa1hYQXQ0VTIzRlF0WWcyRzd4bEpZdTdKYW9SNXBQOGJvWlNKVHfSAcgBQVVfeXFMT19iRE4wbDlMWllvUktMbFZKOS1kQTUwb3Q0cEJHTGFFTHZYOWFHSjlqWkk2S1BpNTh0VF92RGZTRHBhUXI1MWNFcFJJNDBQeVhzdEJ0Y3pFWk92VVkwbXBzUUQ5M1Bjd2FEMUpUeUhjQkJYZGFTZnJzM1k2SjYyTVF6b2Y3WEltcHZ1cUV6WURFYnNxMTVRNGFSUmNTQnNJdUxoSHBScmQxaTlrcmZtcWl5YXNIaTdQYXBHSmNXa3FBc1cwYVdKUkk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW8wZ0U1T0hHZ0VoRXlUU3hJYVdoX0VrSjF2VWs3d1pTZGtvMUN3SFRDd2QtV2c1eUFuUVBPN3dTWHloeC00WlRfVXU4UWpDeDkydllvdm5BWDU1MkhhemxtWHpNRFBraHVvWkFtSmhTQzcweWt4MU53S191MW4yNDlJazFXSEN4YVFfeXNEYnRyVWZReVhRR05kQnhEa1hYQXQ0VTIzRlF0WWcyRzd4bEpZdTdKYW9SNXBQOGJvWlNKVHfSAcgBQVVfeXFMT19iRE4wbDlMWllvUktMbFZKOS1kQTUwb3Q0cEJHTGFFTHZYOWFHSjlqWkk2S1BpNTh0VF92RGZTRHBhUXI1MWNFcFJJNDBQeVhzdEJ0Y3pFWk92VVkwbXBzUUQ5M1Bjd2FEMUpUeUhjQkJYZGFTZnJzM1k2SjYyTVF6b2Y3WEltcHZ1cUV6WURFYnNxMTVRNGFSUmNTQnNJdUxoSHBScmQxaTlrcmZtcWl5YXNIaTdQYXBHSmNXa3FBc1cwYVdKUkk?oc=5
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Iran war live: Houthis advance | hashtags: 
-- Scheduled: Tue 17 Nov, 07:31 AM PKT
+- Keywords: UK seeks closer ties with | hashtags: 
+- Scheduled: Tue 17 Nov, 08:30 AM PKT
 - Caption:
 ```
-Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’
+UK seeks closer ties with EU after Brexit fail
 
-Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ Al Jazeera
+Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.
 
 Source: Al Jazeera
 ```
 
-### Ukraine holds peace talks with US, Europe as conflict escalates  [NORMAL]
-- Poster:  / Ukraine holds peace talks with US, Europe as conflict escalates | category other
-- Alternative headline: Ukraine holds peace talks with US, Europe as conflict escalates
+### Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens  [NORMAL]
+- Poster:  / Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens | category other
+- Alternative headline: Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Ukraine holds peace talks with | hashtags: 
-- Scheduled: Tue 17 Nov, 07:41 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Ethiopia Moyale clashes disrupt livelihoods | hashtags: 
+- Scheduled: Tue 17 Nov, 08:40 AM PKT
 - Caption:
 ```
-Ukraine holds peace talks with US, Europe as conflict escalates
+Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens
 
-Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.
+The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.
 
 Source: Al Jazeera
 ```
 
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
-- [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
-- [published] breaking | Microsoft Rules Out Link Between Global Outage And FAA Ground Stop | Sat 14 Nov, 08:09 AM PKT
-- [published] high | US Military Intercepts Iranian Drones As Bahrain Radar Strike Claimed | Sat 14 Nov, 08:09 AM PKT
-- [published] normal | Trump, Xi And Putin Set For Historic Joint Meeting In China | Sat 14 Nov, 08:09 AM PKT
 - [published] high | India vs Pakistan U-19 Asia Cup Final: Where and How to Watch Live | Sat 14 Nov, 09:06 AM PKT
 - [published] high | Small-Car Sales Surge in Pakistan Amid Fuel Price Shocks | Sat 14 Nov, 09:06 AM PKT
 - [published] normal | Pakistan Urges Immediate Gulf De-Escalation At UN Security Council | Sat 14 Nov, 10:38 AM PKT
@@ -232,10 +229,10 @@ Source: Al Jazeera
 - [needs_review] normal | Punjab to introduce new anti-rape law and speedy courts | Tue 17 Nov, 12:42 AM PKT
 - [needs_review] normal | Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News | Tue 17 Nov, 12:52 AM PKT
 - [published] normal | Saudi Arabia dismisses commander of anti-Houthi coalition: state media | Tue 17 Nov, 01:20 AM PKT
-- [queued] normal | What will Europe do next in Ukraine? | Tue 17 Nov, 01:30 AM PKT
-- [queued] normal | Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | Tue 17 Nov, 01:40 AM PKT
-- [queued] normal | 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying | Tue 17 Nov, 01:50 AM PKT
-- [queued] normal | Thousands report difficulties accessing accounts online at major US ba | Tue 17 Nov, 02:21 AM PKT
+- [needs_review] normal | What will Europe do next in Ukraine? | Tue 17 Nov, 01:30 AM PKT
+- [needs_review] normal | Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | Tue 17 Nov, 01:40 AM PKT
+- [needs_review] normal | 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying | Tue 17 Nov, 01:50 AM PKT
+- [published] normal | Thousands report difficulties accessing accounts online at major US ba | Tue 17 Nov, 02:21 AM PKT
 - [queued] normal | UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA ele | Tue 17 Nov, 02:31 AM PKT
 - [queued] normal | Nationwide ground stop could cost US airlines hundreds of millions | Tue 17 Nov, 02:41 AM PKT
 - [queued] normal | Israeli opposition accuses Netanyahu of attempted ‘coup’ | Tue 17 Nov, 02:51 AM PKT
@@ -259,9 +256,13 @@ Source: Al Jazeera
 - [queued] normal | New Zealand tricks and annual leave - the lengths fans are going to fo | Tue 17 Nov, 07:21 AM PKT
 - [queued] normal | Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | Tue 17 Nov, 07:31 AM PKT
 - [queued] normal | Ukraine holds peace talks with US, Europe as conflict escalates | Tue 17 Nov, 07:41 AM PKT
+- [queued] normal | Flour gets costlier as imports stay insufficient | Tue 17 Nov, 08:10 AM PKT
+- [queued] normal | Irish court jails man for life over Dublin knife attack that sparked r | Tue 17 Nov, 08:20 AM PKT
+- [queued] normal | UK seeks closer ties with EU after Brexit fail | Tue 17 Nov, 08:30 AM PKT
+- [queued] normal | Ethiopia Moyale clashes disrupt livelihoods as territorial dispute dee | Tue 17 Nov, 08:40 AM PKT
 
 ## Publishing this run
-- Published 'Saudi Arabia dismisses commander of anti-Houthi coalition: state media'.
+- Published 'Thousands report difficulties accessing accounts online at major US banks'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

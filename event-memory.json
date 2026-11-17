@@ -43778,7 +43778,211 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8c588bc7fafbe432e6db3be4",
+      "remembered_at": "2026-11-17T03:10:21.546809+00:00",
+      "event_date": "2026-11-17T01:42:05+00:00",
+      "last_update": "2026-11-17T02:26:38+00:00",
+      "event": "Flour gets costlier as imports stay insufficient",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "costlier",
+        "dawn",
+        "flour",
+        "gets",
+        "imports",
+        "insufficient",
+        "stay"
+      ],
+      "source_excerpt": "Flour gets costlier as imports stay insufficient Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXFEaWdHWTM3OTU3dk5NQ2pWU3I3cF9WSTZmNDhGQk5fZzRKVzNsRmU2bnNhZWtmOV9idEdXRlNnSzhOeE5ycVNqYVZway1rVnFzRWhIS3htSFI4dXlxQV9Sa3hvV3dIUFlwdjliLTRJQUk2WVdiS09FcUtKcDVkb0N1OVh2Y2FLeVE?oc=5",
+          "published_at": "2026-11-17T01:42:05+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045087/flour-gets-costlier-as-wheat-imports-stay-insufficient-amid-shortfall",
+          "published_at": "2026-11-17T02:26:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXFEaWdHWTM3OTU3dk5NQ2pWU3I3cF9WSTZmNDhGQk5fZzRKVzNsRmU2bnNhZWtmOV9idEdXRlNnSzhOeE5ycVNqYVZway1rVnFzRWhIS3htSFI4dXlxQV9Sa3hvV3dIUFlwdjliLTRJQUk2WVdiS09FcUtKcDVkb0N1OVh2Y2FLeVE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "84fd5e407fd08dccb9b17509",
+      "remembered_at": "2026-11-17T03:10:21.546809+00:00",
+      "event_date": "2026-11-17T02:58:06+00:00",
+      "last_update": "2026-11-17T02:58:06+00:00",
+      "event": "Pakistan crush Sri Lanka in Blind Asia Cup",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asia",
+        "blind",
+        "crush",
+        "cup",
+        "dawn",
+        "lanka",
+        "pakistan",
+        "sri"
+      ],
+      "source_excerpt": "Pakistan crush Sri Lanka in Blind Asia Cup Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUC1oSTVRZTVaS0xGWFQzUlVpMkhLcTNJakZkaS01TnVaYWhTckxzaW1fcjlTVWV0SVI3R2wzODI3czZIMi1sU0k3RGtNa2E2dlVVQjZDd3FDLTRWMGhiMXBmTDAwc0xQVXR6bjNkemJFRE9zTHFLYm00UnNjc2NITzBB?oc=5",
+          "published_at": "2026-11-17T02:58:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUC1oSTVRZTVaS0xGWFQzUlVpMkhLcTNJakZkaS01TnVaYWhTckxzaW1fcjlTVWV0SVI3R2wzODI3czZIMi1sU0k3RGtNa2E2dlVVQjZDd3FDLTRWMGhiMXBmTDAwc0xQVXR6bjNkemJFRE9zTHFLYm00UnNjc2NITzBB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3fd059bb33c759e76e220922",
+      "remembered_at": "2026-11-17T03:10:21.546809+00:00",
+      "event_date": "2026-11-17T03:01:07+00:00",
+      "last_update": "2026-11-17T03:01:07+00:00",
+      "event": "Muneeba, Nashra star as Pakistan beat Zimbabwe",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "beat",
+        "dawn",
+        "muneeba",
+        "nashra",
+        "pakistan",
+        "star",
+        "zimbabwe"
+      ],
+      "source_excerpt": "Muneeba, Nashra star as Pakistan beat Zimbabwe Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNy1DZjlQREhvSVYzOERsNTFSWnJrYTBZTjA5R1BvckNNdXliZ01YQmdVVm1reklLNHZmb01iN3BMeU12MlY5WDBEMGVWUzY3SnB4S3hVN1dFeUlIcGhfNm5Ga2tMN0std3RXdFFneGJrMVY0OWVmMmlBanlZMHVoOGpJQ2FZZw?oc=5",
+          "published_at": "2026-11-17T03:01:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNy1DZjlQREhvSVYzOERsNTFSWnJrYTBZTjA5R1BvckNNdXliZ01YQmdVVm1reklLNHZmb01iN3BMeU12MlY5WDBEMGVWUzY3SnB4S3hVN1dFeUlIcGhfNm5Ga2tMN0std3RXdFFneGJrMVY0OWVmMmlBanlZMHVoOGpJQ2FZZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "99075705f43cfff98b7c9387",
+      "remembered_at": "2026-11-17T03:10:21.546809+00:00",
+      "event_date": "2026-11-17T02:58:55+00:00",
+      "last_update": "2026-11-17T02:58:55+00:00",
+      "event": "Pakistan make bright start at J-30 tennis",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bright",
+        "dawn",
+        "make",
+        "pakistan",
+        "start",
+        "tennis"
+      ],
+      "source_excerpt": "Pakistan make bright start at J-30 tennis Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVngzRS10TUZyX09CZXg5ZXd4ZmxwbUxMQ3VXS1dNWmh2MVh3Smh5ZUc1bXFxaHU2MDJnNnJ4UVpaakx2dmNVOHFlRE5LcXVTbW05THdPbFIzTDA5ZXphSk14alNaOGVsVlZPR0lfaEJkQ29oSVByQWlrLUl4Z2xrVg?oc=5",
+          "published_at": "2026-11-17T02:58:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVngzRS10TUZyX09CZXg5ZXd4ZmxwbUxMQ3VXS1dNWmh2MVh3Smh5ZUc1bXFxaHU2MDJnNnJ4UVpaakx2dmNVOHFlRE5LcXVTbW05THdPbFIzTDA5ZXphSk14alNaOGVsVlZPR0lfaEJkQ29oSVByQWlrLUl4Z2xrVg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "01ba3a524588d4f04dc68e39",
+      "remembered_at": "2026-11-17T03:10:21.546809+00:00",
+      "event_date": "2026-11-17T01:42:55+00:00",
+      "last_update": "2026-11-17T01:42:55+00:00",
+      "event": "Cancellation of 3,500 birth certificates sought",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500",
+        "birth",
+        "cancellation",
+        "certificates",
+        "dawn",
+        "sought"
+      ],
+      "source_excerpt": "Cancellation of 3,500 birth certificates sought Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOczc3M3RuY1RUbzRnNWRXWElFVWxqMVRoa2hNZkNPRGRIRlNNNHZRUk1RZlotZzhvSWdNcHZybGw1dTNNc1JiNHhJQTZabTg0MjJIMEd1VExnNC15R2pZcEJ1TkZWbXhaY1hsRlNyMUZ1VXdvY1lBanI2QWlTQ3ZVWEo0eHhCaXc?oc=5",
+          "published_at": "2026-11-17T01:42:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOczc3M3RuY1RUbzRnNWRXWElFVWxqMVRoa2hNZkNPRGRIRlNNNHZRUk1RZlotZzhvSWdNcHZybGw1dTNNc1JiNHhJQTZabTg0MjJIMEd1VExnNC15R2pZcEJ1TkZWbXhaY1hsRlNyMUZ1VXdvY1lBanI2QWlTQ3ZVWEo0eHhCaXc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T02:11:37.407124+00:00"
+  "updated_at": "2026-11-17T03:10:21.546809+00:00"
 }
