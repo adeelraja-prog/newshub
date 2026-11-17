@@ -1,138 +1,138 @@
-# News Hub report - Tue 17 Nov, 09:09 AM PKT
+# News Hub report - Tue 17 Nov, 10:11 AM PKT
 
 ## Collection
-- New items this run: 32 | items in rolling pool: 235
-- Unique story clusters: 201 (duplicates merged: 34)
-- Clusters dropped as already published/queued: 32; unchanged since last analysis: 9
-- Items per outlet: Dawn Pakistan 8, Dawn 6, Dawn Latest 3, Al Jazeera 2, PhoneWorld 2, Around Prague 2, The News International 1, Dunya News 1, Geo News 1, ARY News 1, ProPakistani 1, The Nation (Pakistan ) 1
+- New items this run: 38 | items in rolling pool: 236
+- Unique story clusters: 193 (duplicates merged: 43)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 7
+- Items per outlet: Dawn Pakistan 6, Profit by Pakistan Today 6, ARY News 5, Dawn Latest 3, Geo News 2, Bloomberg.com 2, TechJuice 2, ARYnews.tv 1, Dunya News 1, Hamariweb.com 1, X 1, AP News 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Guitar workshop by Portuguese musician turns into musical treat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Minister Buledi clarifies remarks on tribal system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Four lawyers appointed special ATC judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab to sue Salik over graft claims against Maryam | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nvidia rules out Jensen Huang's return as board hires law firm to investigate him | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan crush Sri Lanka in Blind Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Balochistan PA flags flour prices, dept mergers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sindh showcases flood recovery; Centre pitches sewage overhaul at COP31 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Guitar workshop by Portuguese musician turns into musical treat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Minister Buledi clarifies remarks on tribal system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Four lawyers appointed special ATC judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab to sue Salik over graft claims against Maryam | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nvidia rules out Jensen Huang's return as board hires law firm to investigate him | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan crush Sri Lanka in Blind Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Balochistan PA flags flour prices, dept mergers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sindh showcases flood recovery; Centre pitches sewage overhaul at COP31 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Guitar workshop by Portuguese musician turns into musical treat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Minister Buledi clarifies remarks on tribal system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Four lawyers appointed special ATC judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab to sue Salik over graft claims against Maryam | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nvidia rules out Jensen Huang's return as board hires law firm to investigate him | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan crush Sri Lanka in Blind Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Balochistan PA flags flour prices, dept mergers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sindh showcases flood recovery; Centre pitches sewage overhaul at COP31 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 79/107 | empty: 2 | failed: 26 | malformed/partial: 26
-- Trusted publisher desks with at least one healthy source: 9/10
+- Overall feeds with entries: 79/107 | empty: 3 | failed: 25 | malformed/partial: 25
+- Trusted publisher desks with at least one healthy source: 8/10
 - ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Capital TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Imran Khan and Adiala Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI and Judiciary Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Political Crisis Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Security Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Express News
+- ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Rights and Accountability Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Parliament and Constitution Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Khyber Pakhtunkhwa Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Express News, The News International
 
 ## Selected for the queue
-### Guitar workshop by Portuguese musician turns into musical treat  [NORMAL]
-- Poster:  / Guitar workshop by Portuguese musician turns into musical treat | category other
-- Alternative headline: Guitar workshop by Portuguese musician turns into musical treat
+### Second Test: Pakistan win toss, opt to bowl first against Sri Lanka  [NORMAL]
+- Poster:  / Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | category other
+- Alternative headline: Second Test: Pakistan win toss, opt to bowl first against Sri Lanka
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxQSDJ5REhBdnFUeWlwbU9BZElaS2Z2U0ZQWTM4RmRfQW5IWi1VMWN5dWx0S2VyYmlpWlh1dFd2ZjBMbTBOYkwzV2psWjJXa2ZQeExmYVBKQjBTcnJ4SUNmaFR5TTFjclFabDF4R0Y5S0REOHFNRmQ5Um9ZeVVRb1c1RWhDZ3Q2M29GRTRzZVlzeUtmVmFtMUY3V2xfYnVVZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxQSDJ5REhBdnFUeWlwbU9BZElaS2Z2U0ZQWTM4RmRfQW5IWi1VMWN5dWx0S2VyYmlpWlh1dFd2ZjBMbTBOYkwzV2psWjJXa2ZQeExmYVBKQjBTcnJ4SUNmaFR5TTFjclFabDF4R0Y5S0REOHFNRmQ5Um9ZeVVRb1c1RWhDZ3Q2M29GRTRzZVlzeUtmVmFtMUY3V2xfYnVVZw?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Guitar workshop by Portuguese musician | hashtags: 
-- Scheduled: Tue 17 Nov, 09:09 AM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/691405-second-test-pakistan-win-toss-opt-to-bowl-first-against-sri-lanka | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691405-second-test-pakistan-win-toss-opt-to-bowl-first-against-sri-lanka
+- Supporting coverage: Geo News, Geo News, ARY News
+- Keywords: Second Test: Pakistan win toss, | hashtags: 
+- Scheduled: Tue 17 Nov, 10:11 AM PKT
 - Caption:
 ```
-Guitar workshop by Portuguese musician turns into musical treat
+Second Test: Pakistan win toss, opt to bowl first against Sri Lanka
 
-Guitar workshop by Portuguese musician turns into musical treat Dawn
+Pakistan captain Babar Azam flips the coin as Sri Lanka captain Kusal Mendis calls ahead of the second Test at the Rawalpindi Cricket Stadium in Rawalpindi, November 17, 2026. — PCB Pakistan won the toss and elected to field first against Sri Lanka in second Test of the two-match...
+
+Source: Geo News
+```
+
+### Nvidia rules out Jensen Huang's return as board hires law firm to investigate him  [NORMAL]
+- Poster:  / Nvidia rules out Jensen Huang's return as board hires law firm to investigate him | category other
+- Alternative headline: Nvidia rules out Jensen Huang's return as board hires law firm to investigate him
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The News International https://news.google.com/rss/articles/CBMivwFBVV95cUxOQThTVjFhcVBOMkszaW5YMUU5X2RMUmRYVVVjZ3NSdG9sLVNKNXlSUHZ6Y1lFY202eXE1dnZWZmItcVV2c21EeklRQTQ1N0tFV19NR0xzRUpvaEYzR004aWpzQ2h2WnZBOTI5RkhOSWRCTkpGdUstaWh2UEdDZmJGM05MZkZzQ1NEb0FYVW9NeUw4ZjN1U1UxWVN4U2duUENrSG9qSUJLMGlLeURWM3JadHhMaWQtTnlDRDdSeEMxa9IBuwFBVV95cUxONUFCZUd4NHY1YU9YR0ZaOXNWRGEtYVFzN1FQU2UyRHhJSW1UOHFUOEJUQllFV1pOM28tWDNET2pqTFlxS0IzeG01ejNXOFpDa1FKV3FhS0ctdUN3UGJ5SEphZHdyZG93NkNkUmg2WHpjNC1BSm94X1VPcXFXOUE2MGg4R3gyd3FLYTZOdXBsZlVjb3lqWkZaMFJKZHhXQmRZN3FTTjJWb2xPSkhhV0wwVExQbFdDUkJFNWNF?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The News International https://news.google.com/rss/articles/CBMivwFBVV95cUxOQThTVjFhcVBOMkszaW5YMUU5X2RMUmRYVVVjZ3NSdG9sLVNKNXlSUHZ6Y1lFY202eXE1dnZWZmItcVV2c21EeklRQTQ1N0tFV19NR0xzRUpvaEYzR004aWpzQ2h2WnZBOTI5RkhOSWRCTkpGdUstaWh2UEdDZmJGM05MZkZzQ1NEb0FYVW9NeUw4ZjN1U1UxWVN4U2duUENrSG9qSUJLMGlLeURWM3JadHhMaWQtTnlDRDdSeEMxa9IBuwFBVV95cUxONUFCZUd4NHY1YU9YR0ZaOXNWRGEtYVFzN1FQU2UyRHhJSW1UOHFUOEJUQllFV1pOM28tWDNET2pqTFlxS0IzeG01ejNXOFpDa1FKV3FhS0ctdUN3UGJ5SEphZHdyZG93NkNkUmg2WHpjNC1BSm94X1VPcXFXOUE2MGg4R3gyd3FLYTZOdXBsZlVjb3lqWkZaMFJKZHhXQmRZN3FTTjJWb2xPSkhhV0wwVExQbFdDUkJFNWNF?oc=5
+- Supporting coverage: The News International, ARY News, Profit by Pakistan Today
+- Keywords: Nvidia rules out Jensen Huang's | hashtags: 
+- Scheduled: Tue 17 Nov, 10:21 AM PKT
+- Caption:
+```
+Nvidia rules out Jensen Huang's return as board hires law firm to investigate him
+
+Nvidia rules out Jensen Huang's return as board hires law firm to investigate him The News International
+
+Source: The News International
+```
+
+### Pakistan crush Sri Lanka in Blind Asia Cup  [NORMAL]
+- Poster:  / Pakistan crush Sri Lanka in Blind Asia Cup | category other
+- Alternative headline: Pakistan crush Sri Lanka in Blind Asia Cup
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxOUC1oSTVRZTVaS0xGWFQzUlVpMkhLcTNJakZkaS01TnVaYWhTckxzaW1fcjlTVWV0SVI3R2wzODI3czZIMi1sU0k3RGtNa2E2dlVVQjZDd3FDLTRWMGhiMXBmTDAwc0xQVXR6bjNkemJFRE9zTHFLYm00UnNjc2NITzBB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxOUC1oSTVRZTVaS0xGWFQzUlVpMkhLcTNJakZkaS01TnVaYWhTckxzaW1fcjlTVWV0SVI3R2wzODI3czZIMi1sU0k3RGtNa2E2dlVVQjZDd3FDLTRWMGhiMXBmTDAwc0xQVXR6bjNkemJFRE9zTHFLYm00UnNjc2NITzBB?oc=5
+- Supporting coverage: Dawn
+- Keywords: Pakistan crush Sri Lanka in | hashtags: 
+- Scheduled: Tue 17 Nov, 10:31 AM PKT
+- Caption:
+```
+Pakistan crush Sri Lanka in Blind Asia Cup
+
+Pakistan crush Sri Lanka in Blind Asia Cup Dawn
 
 Source: Dawn
 ```
 
-### Minister Buledi clarifies remarks on tribal system  [NORMAL]
-- Poster:  / Minister Buledi clarifies remarks on tribal system | category other
-- Alternative headline: Minister Buledi clarifies remarks on tribal system
+### Balochistan PA flags flour prices, dept mergers  [NORMAL]
+- Poster:  / Balochistan PA flags flour prices, dept mergers | category other
+- Alternative headline: Balochistan PA flags flour prices, dept mergers
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTlXTEppMU9VOERET3N6aExsX3NUWDJub0NheGg1ZHVnVnJ5UXVISC1JUm9LNThXeUdyUTFneGl5d1dncmNCNXM3Q2FvQmtUQzY3YTRfTEdEZkxybmRnOEZOODRrdkRDbERGU2xnVmtsZ0ZQcmVsVWJVQlhZdHFrOEh2dmpRV2RDb3NWNA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTlXTEppMU9VOERET3N6aExsX3NUWDJub0NheGg1ZHVnVnJ5UXVISC1JUm9LNThXeUdyUTFneGl5d1dncmNCNXM3Q2FvQmtUQzY3YTRfTEdEZkxybmRnOEZOODRrdkRDbERGU2xnVmtsZ0ZQcmVsVWJVQlhZdHFrOEh2dmpRV2RDb3NWNA?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHJYcHctZ0VvS3JFeFk2ekM4eEhNY2dfZkNCdE8tZ19ZQjg5bkNWblljMmNDVDhhWWhMb3cxMl9KM3dOUldlcDZfa2pJTUthdjlCbm9TSlEwaGtGX20tZS1FaFJvLXExZ2lOZ015WVNOaTViR2d6RzlSNGhtRGdZSG8xSGI2TWc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHJYcHctZ0VvS3JFeFk2ekM4eEhNY2dfZkNCdE8tZ19ZQjg5bkNWblljMmNDVDhhWWhMb3cxMl9KM3dOUldlcDZfa2pJTUthdjlCbm9TSlEwaGtGX20tZS1FaFJvLXExZ2lOZ015WVNOaTViR2d6RzlSNGhtRGdZSG8xSGI2TWc?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Minister Buledi clarifies remarks on | hashtags: 
-- Scheduled: Tue 17 Nov, 09:19 AM PKT
+- Keywords: Balochistan PA flags flour prices, | hashtags: 
+- Scheduled: Tue 17 Nov, 10:41 AM PKT
 - Caption:
 ```
-Minister Buledi clarifies remarks on tribal system
+Balochistan PA flags flour prices, dept mergers
 
-Minister Buledi clarifies remarks on tribal system Dawn
+Balochistan PA flags flour prices, dept mergers Dawn
 
 Source: Dawn
 ```
 
-### Four lawyers appointed special ATC judges  [NORMAL]
-- Poster:  / Four lawyers appointed special ATC judges | category other
-- Alternative headline: Four lawyers appointed special ATC judges
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFZFQ3RWMjloc0dORVAwTUllWnZRVkxOcVk2UkZPazJPQkNjVXI4TVZTVnJDQ3JVcEdTdlJteDFJNFJEY1hqY0xubWlNVHFrSHZtR00wZ3BUbFBhaTEyMkh5Y3hSRnRIdmtpZjhreUZEeHRmcENJLS1Ib0tIN09sTQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFZFQ3RWMjloc0dORVAwTUllWnZRVkxOcVk2UkZPazJPQkNjVXI4TVZTVnJDQ3JVcEdTdlJteDFJNFJEY1hqY0xubWlNVHFrSHZtR00wZ3BUbFBhaTEyMkh5Y3hSRnRIdmtpZjhreUZEeHRmcENJLS1Ib0tIN09sTQ?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Four lawyers appointed special ATC | hashtags: 
-- Scheduled: Tue 17 Nov, 09:29 AM PKT
-- Caption:
-```
-Four lawyers appointed special ATC judges
-
-Four lawyers appointed special ATC judges Dawn
-
-Source: Dawn
-```
-
-### Punjab to sue Salik over graft claims against Maryam  [NORMAL]
-- Poster:  / Punjab to sue Salik over graft claims against Maryam | category other
-- Alternative headline: Punjab to sue Salik over graft claims against Maryam
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlEyVGdlVHNNMjdQaUNhLU5BQW5iM2NhLUxidEN5VU1QYUlDR2JneG54cUtKYjhHck1wWFBMX1MydWdqU1R6V3N1UGQxMFNLS2tDdWxfX3ZidmM0UXdxMk5EQ0l2VmE4SkF6NU9CbUVsTEoxUUhMS0ZoZUhPVzVFZEVPTVNxVGlDNEdlbWhQcw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlEyVGdlVHNNMjdQaUNhLU5BQW5iM2NhLUxidEN5VU1QYUlDR2JneG54cUtKYjhHck1wWFBMX1MydWdqU1R6V3N1UGQxMFNLS2tDdWxfX3ZidmM0UXdxMk5EQ0l2VmE4SkF6NU9CbUVsTEoxUUhMS0ZoZUhPVzVFZEVPTVNxVGlDNEdlbWhQcw?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Punjab to sue Salik over | hashtags: 
-- Scheduled: Tue 17 Nov, 09:39 AM PKT
-- Caption:
-```
-Punjab to sue Salik over graft claims against Maryam
-
-Punjab to sue Salik over graft claims against Maryam Dawn
-
-Source: Dawn
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 10 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
 - [published] normal | Pakistan Urges Immediate Gulf De-Escalation At UN Security Council | Sat 14 Nov, 10:38 AM PKT
@@ -235,11 +235,11 @@ Source: Dawn
 - [needs_review] normal | Nationwide ground stop could cost US airlines hundreds of millions | Tue 17 Nov, 02:41 AM PKT
 - [needs_review] normal | Israeli opposition accuses Netanyahu of attempted ‘coup’ | Tue 17 Nov, 02:51 AM PKT
 - [published] normal | Mamdani to disband NYPD unit deployed at Columbia protests | Tue 17 Nov, 03:20 AM PKT
-- [queued] normal | Sudanese army air attack kills 13 in western Sudan: Rights group | Tue 17 Nov, 03:30 AM PKT
-- [queued] normal | Manchester United’s Endless Loop | Tue 17 Nov, 03:40 AM PKT
-- [queued] normal | Photos: California residents gather to watch massive El Nino-fuelled w | Tue 17 Nov, 03:50 AM PKT
-- [queued] normal | California files lawsuit against OpenAI alleging lack of proper safegu | Tue 17 Nov, 04:10 AM PKT
-- [queued] normal | Cass report author says she does not support draft conversion practice | Tue 17 Nov, 04:20 AM PKT
+- [needs_review] normal | Sudanese army air attack kills 13 in western Sudan: Rights group | Tue 17 Nov, 03:30 AM PKT
+- [needs_review] normal | Manchester United’s Endless Loop | Tue 17 Nov, 03:40 AM PKT
+- [needs_review] normal | Photos: California residents gather to watch massive El Nino-fuelled w | Tue 17 Nov, 03:50 AM PKT
+- [needs_review] normal | California files lawsuit against OpenAI alleging lack of proper safegu | Tue 17 Nov, 04:10 AM PKT
+- [published] normal | Cass report author says she does not support draft conversion practice | Tue 17 Nov, 04:20 AM PKT
 - [queued] normal | Houthi rebel advance in Yemen may further destabilise global economy | Tue 17 Nov, 04:30 AM PKT
 - [queued] normal | US Pentagon rejects allegations linking deputy to a Goldman Sachs bank | Tue 17 Nov, 04:40 AM PKT
 - [queued] normal | California sues OpenAI over Hugging Face attack | Tue 17 Nov, 04:54 AM PKT
@@ -262,9 +262,13 @@ Source: Dawn
 - [queued] normal | Minister Buledi clarifies remarks on tribal system | Tue 17 Nov, 09:19 AM PKT
 - [queued] normal | Four lawyers appointed special ATC judges | Tue 17 Nov, 09:29 AM PKT
 - [queued] normal | Punjab to sue Salik over graft claims against Maryam | Tue 17 Nov, 09:39 AM PKT
+- [queued] normal | Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | Tue 17 Nov, 10:11 AM PKT
+- [queued] normal | Nvidia rules out Jensen Huang's return as board hires law firm to inve | Tue 17 Nov, 10:21 AM PKT
+- [queued] normal | Pakistan crush Sri Lanka in Blind Asia Cup | Tue 17 Nov, 10:31 AM PKT
+- [queued] normal | Balochistan PA flags flour prices, dept mergers | Tue 17 Nov, 10:41 AM PKT
 
 ## Publishing this run
-- Published 'Mamdani to disband NYPD unit deployed at Columbia protests'.
+- Published 'Cass report author says she does not support draft conversion practices bill'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

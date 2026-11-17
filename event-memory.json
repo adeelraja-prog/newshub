@@ -44728,7 +44728,722 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4140467a3e56fe1fba77c75b",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T04:13:00+00:00",
+      "last_update": "2026-11-17T04:58:34+00:00",
+      "event": "Second Test: Pakistan win toss, opt to bowl first against Sri Lanka",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "against",
+        "ahead",
+        "and",
+        "azam",
+        "babar",
+        "bowl",
+        "calls",
+        "captain",
+        "coin",
+        "cricket",
+        "elected",
+        "field",
+        "first",
+        "flips",
+        "kusal",
+        "lanka",
+        "match",
+        "mendis",
+        "november",
+        "opt",
+        "pakistan",
+        "pcb",
+        "rawalpindi",
+        "second",
+        "sri",
+        "stadium",
+        "test",
+        "the",
+        "toss",
+        "two",
+        "win",
+        "won"
+      ],
+      "source_excerpt": "Pakistan captain Babar Azam flips the coin as Sri Lanka captain Kusal Mendis calls ahead of the second Test at the Rawalpindi Cricket Stadium in Rawalpindi, November 17, 2026. — PCB Pakistan won the toss and elected to field first against Sri Lanka in second Test of the two-match...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691405-second-test-pakistan-win-toss-opt-to-bowl-first-against-sri-lanka",
+          "published_at": "2026-11-17T04:13:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHBtQ0dJRGFKbmc0Sklsb1lnZlhISEFxMjM0eDNKdnViX1dwcG5EZVhwVGlLVk8yUzJoTWVtMktyZDB6dG5IU21Gc0FoNVZrUFR4aThwTFJ0V29sa05JYUtYOTZXNDBrNjRvaHptMFdOM3gwS3hRLTMzNWRZbml4ckpkVU5oMTZGVzNIMnA0d1BJb05Zai10MTMxNEtESFU?oc=5",
+          "published_at": "2026-11-17T04:13:00+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-win-toss-ask-sri-lanka-to-bat-in-second-test",
+          "published_at": "2026-11-17T04:58:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691405-second-test-pakistan-win-toss-opt-to-bowl-first-against-sri-lanka",
+        "publisher_url": "https://www.geo.tv/latest/691405-second-test-pakistan-win-toss-opt-to-bowl-first-against-sri-lanka",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ce9596247887ec62642961d3",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T01:50:50+00:00",
+      "last_update": "2026-11-17T04:42:12+00:00",
+      "event": "Nvidia rules out Jensen Huang's return as board hires law firm to investigate him",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "board",
+        "firm",
+        "him",
+        "hires",
+        "huang",
+        "international",
+        "investigate",
+        "jensen",
+        "law",
+        "news",
+        "nvidia",
+        "out",
+        "return",
+        "rules",
+        "the"
+      ],
+      "source_excerpt": "Nvidia rules out Jensen Huang's return as board hires law firm to investigate him The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQThTVjFhcVBOMkszaW5YMUU5X2RMUmRYVVVjZ3NSdG9sLVNKNXlSUHZ6Y1lFY202eXE1dnZWZmItcVV2c21EeklRQTQ1N0tFV19NR0xzRUpvaEYzR004aWpzQ2h2WnZBOTI5RkhOSWRCTkpGdUstaWh2UEdDZmJGM05MZkZzQ1NEb0FYVW9NeUw4ZjN1U1UxWVN4U2duUENrSG9qSUJLMGlLeURWM3JadHhMaWQtTnlDRDdSeEMxa9IBuwFBVV95cUxONUFCZUd4NHY1YU9YR0ZaOXNWRGEtYVFzN1FQU2UyRHhJSW1UOHFUOEJUQllFV1pOM28tWDNET2pqTFlxS0IzeG01ejNXOFpDa1FKV3FhS0ctdUN3UGJ5SEphZHdyZG93NkNkUmg2WHpjNC1BSm94X1VPcXFXOUE2MGg4R3gyd3FLYTZOdXBsZlVjb3lqWkZaMFJKZHhXQmRZN3FTTjJWb2xPSkhhV0wwVExQbFdDUkJFNWNF?oc=5",
+          "published_at": "2026-11-17T01:50:50+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/nvidia-rules-out-huang-comeback-as-campaign-for-his-return-grows",
+          "published_at": "2026-11-17T04:15:58+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY21mMGgzaEVQc2dQWW1iYTc2ZVlreDR1Zm5sbHpfTXd0b2prRnlpMzl3MlFiRFBDanZxWjF2SEpwSVYtQ2dzb3JVR1BaUDMtQ293OXRJWVZfTl8zZ3p6NjJZSkJaTVJOZEtQYTY3M1RmY1JTSXFMLWtCejJHNm95YWhMY1lJNC1qTzlfRUhUcjBkMklCSjJtcW1LZEgtSE5CamFZV284SmxUV25falBYRWM0Ym1yd0p5bmNPV1V4Rjh5X3pLTWlIV01NSWJYZw?oc=5",
+          "published_at": "2026-11-17T04:42:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQThTVjFhcVBOMkszaW5YMUU5X2RMUmRYVVVjZ3NSdG9sLVNKNXlSUHZ6Y1lFY202eXE1dnZWZmItcVV2c21EeklRQTQ1N0tFV19NR0xzRUpvaEYzR004aWpzQ2h2WnZBOTI5RkhOSWRCTkpGdUstaWh2UEdDZmJGM05MZkZzQ1NEb0FYVW9NeUw4ZjN1U1UxWVN4U2duUENrSG9qSUJLMGlLeURWM3JadHhMaWQtTnlDRDdSeEMxa9IBuwFBVV95cUxONUFCZUd4NHY1YU9YR0ZaOXNWRGEtYVFzN1FQU2UyRHhJSW1UOHFUOEJUQllFV1pOM28tWDNET2pqTFlxS0IzeG01ejNXOFpDa1FKV3FhS0ctdUN3UGJ5SEphZHdyZG93NkNkUmg2WHpjNC1BSm94X1VPcXFXOUE2MGg4R3gyd3FLYTZOdXBsZlVjb3lqWkZaMFJKZHhXQmRZN3FTTjJWb2xPSkhhV0wwVExQbFdDUkJFNWNF?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5afd812d8cd9fc247d5d94c8",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T02:37:52+00:00",
+      "last_update": "2026-11-17T04:17:26+00:00",
+      "event": "Oil slips on supply surplus outlook despite Gulf tensions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "despite",
+        "gulf",
+        "oil",
+        "outlook",
+        "slips",
+        "supply",
+        "surplus",
+        "tensions"
+      ],
+      "source_excerpt": "Oil slips on supply surplus outlook despite Gulf tensions",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUFotdG5wSm1uc2J2MzZMRFdKbmliRGhMczBiNUZoa2FNM0lIbnFUb0EyXzhyTC1LN0laSWg3aGFoR3VmTTB4N2FyS2ItMU1wNlVXNzBMRERMSkJ1WDhvRmJLblB2TUtRMVRCakp3NXJ5aF95cVN6NERBNmc4UEJCOS1WbG92UTRwMFhvdGVleDBBeDV0Y3N5ZGQ0bjB6d9IBVkFVX3lxTE42SFBfcGhEbnRCX0pmVFItQ3ZtckFqMUZYelNKNnZiaEZqZ25oSTdVUjZEVFBDak05ZFEycTZPVEpNa2xvN2FUcmdaMUFqTlpCQUE5cWlB?oc=5",
+          "published_at": "2026-11-17T02:37:52+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/oil-slips-on-supply-surplus-outlook-despite-gulf-tensions",
+          "published_at": "2026-11-17T04:17:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/oil-slips-on-supply-surplus-outlook-despite-gulf-tensions",
+        "publisher_url": "https://arynews.tv/oil-slips-on-supply-surplus-outlook-despite-gulf-tensions",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4b426edb0cf2576cd5ef5d28",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T04:46:07+00:00",
+      "last_update": "2026-11-17T04:46:07+00:00",
+      "event": "Punjab govt panned by opposition over sugar, smog and wheat issues",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "47th",
+        "amendment",
+        "and",
+        "assembly",
+        "bills",
+        "chairpersons",
+        "day",
+        "export",
+        "first",
+        "government",
+        "govt",
+        "grilled",
+        "handling",
+        "issues",
+        "khan",
+        "lahore",
+        "member",
+        "open",
+        "opposition",
+        "over",
+        "panel",
+        "panned",
+        "presided",
+        "price",
+        "punjab",
+        "rates",
+        "samiullah",
+        "session",
+        "smog",
+        "soaring",
+        "sugar",
+        "tabled",
+        "the",
+        "two",
+        "were",
+        "wheat",
+        "while"
+      ],
+      "source_excerpt": "LAHORE: On the first day of the 47th session of the Punjab Assembly, the opposition grilled the government over the sugar export price, soaring wheat rates and the handling of smog, while two amendment bills were tabled. The session, presided over by Panel of Chairpersons member Samiullah Khan, open",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045013/punjab-govt-panned-by-opposition-over-sugar-smog-and-wheat-issues",
+          "published_at": "2026-11-17T04:46:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045013/punjab-govt-panned-by-opposition-over-sugar-smog-and-wheat-issues",
+        "publisher_url": "https://www.dawn.com/news/2045013/punjab-govt-panned-by-opposition-over-sugar-smog-and-wheat-issues",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4d11caaf5616720ef36fe514",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T05:02:54+00:00",
+      "last_update": "2026-11-17T05:02:54+00:00",
+      "event": "Another plan to transform Karachi's Burns Road into ‘pedestrian’ food street",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "another",
+        "burns",
+        "citizens",
+        "corporation",
+        "couple",
+        "creating",
+        "culinary",
+        "entertainment",
+        "food",
+        "for",
+        "friendly",
+        "going",
+        "has",
+        "heritage",
+        "historic",
+        "into",
+        "its",
+        "karachi",
+        "kmc",
+        "metropolitan",
+        "modern",
+        "new",
+        "opportunities",
+        "pedestrian",
+        "plan",
+        "promoting",
+        "recreational",
+        "rich",
+        "road",
+        "said",
+        "street",
+        "the",
+        "transform",
+        "vibrant",
+        "years"
+      ],
+      "source_excerpt": "KARACHI: The Karachi Metropolitan Corporation (KMC) has said it is going to transform the historic Burns Road into a modern, vibrant and pedestrian-friendly food street, promoting its rich culinary heritage and creating new recreational and entertainment opportunities for citizens. A couple of years",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045040/another-plan-to-transform-karachis-burns-road-into-pedestrian-food-street",
+          "published_at": "2026-11-17T05:02:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045040/another-plan-to-transform-karachis-burns-road-into-pedestrian-food-street",
+        "publisher_url": "https://www.dawn.com/news/2045040/another-plan-to-transform-karachis-burns-road-into-pedestrian-food-street",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7f1b5c075cf5467d14ea1131",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T04:58:49+00:00",
+      "last_update": "2026-11-17T04:58:49+00:00",
+      "event": "Former Sindh CM Qaim moves SHC for acquittal in Bahria Town land case",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acquittal",
+        "against",
+        "ali",
+        "and",
+        "approached",
+        "bahria",
+        "ben",
+        "case",
+        "chief",
+        "conversion",
+        "court",
+        "exchange",
+        "filed",
+        "for",
+        "former",
+        "government",
+        "has",
+        "high",
+        "him",
+        "his",
+        "including",
+        "judge",
+        "karachi",
+        "land",
+        "minister",
+        "moves",
+        "officials",
+        "others",
+        "qaim",
+        "reference",
+        "regular",
+        "seeking",
+        "senior",
+        "several",
+        "shah",
+        "shc",
+        "sindh",
+        "syed",
+        "the",
+        "town",
+        "transfer",
+        "two"
+      ],
+      "source_excerpt": "KARACHI: Former Sindh chief minister Syed Qaim Ali Shah has approached the Sindh High Court seeking his acquittal in a reference filed against him and others including several senior government officials for conversion, exchange and transfer of government land to Bahria Town. A two-judge regular ben",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045045/former-sindh-cm-qaim-moves-shc-for-acquittal-in-bahria-town-land-case",
+          "published_at": "2026-11-17T04:58:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045045/former-sindh-cm-qaim-moves-shc-for-acquittal-in-bahria-town-land-case",
+        "publisher_url": "https://www.dawn.com/news/2045045/former-sindh-cm-qaim-moves-shc-for-acquittal-in-bahria-town-land-case",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eb22403f6de55d0fb47706e3",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T05:05:52+00:00",
+      "last_update": "2026-11-17T05:05:52+00:00",
+      "event": "ADB attaches strings to continued funding for Karachi BRT Red Line project",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adb",
+        "and",
+        "annoy",
+        "appears",
+        "asian",
+        "attaches",
+        "bank",
+        "become",
+        "brt",
+        "bus",
+        "citizens",
+        "construction",
+        "continued",
+        "development",
+        "embarrassment",
+        "ending",
+        "extension",
+        "financier",
+        "for",
+        "funding",
+        "government",
+        "has",
+        "have",
+        "karachi",
+        "latest",
+        "line",
+        "made",
+        "never",
+        "nightmare",
+        "now",
+        "project",
+        "rapid",
+        "red",
+        "source",
+        "started",
+        "strings",
+        "the",
+        "transit",
+        "which"
+      ],
+      "source_excerpt": "KARACHI: The never-ending construction of the Bus Rapid Transit (BRT) Red Line, which has become a nightmare for citizens and a source of embarrassment for the government, now appears to have started to annoy the project financier Asian Development Bank (ADB) as it has made the latest extension of t",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045043/adb-attaches-strings-to-continued-funding-for-karachi-brt-red-line-project",
+          "published_at": "2026-11-17T05:05:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045043/adb-attaches-strings-to-continued-funding-for-karachi-brt-red-line-project",
+        "publisher_url": "https://www.dawn.com/news/2045043/adb-attaches-strings-to-continued-funding-for-karachi-brt-red-line-project",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eae955ae09b3d0cdbcd949fa",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T03:33:37+00:00",
+      "last_update": "2026-11-17T03:33:37+00:00",
+      "event": "Protecting heritage",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "heritage",
+        "protecting"
+      ],
+      "source_excerpt": "Protecting heritage Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BN0pMTG5JR3kzNEk1NDJTMTZvLUxqX0NCRXNnc0ZvNWlBWE5lbGtXYlBIWGVQX2xOaU0wQTF1VXpTMERWVXpCdF8wWW9nVjM5S3BRXzE1RzdUYzRwZG5XSmtjUQ?oc=5",
+          "published_at": "2026-11-17T03:33:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BN0pMTG5JR3kzNEk1NDJTMTZvLUxqX0NCRXNnc0ZvNWlBWE5lbGtXYlBIWGVQX2xOaU0wQTF1VXpTMERWVXpCdF8wWW9nVjM5S3BRXzE1RzdUYzRwZG5XSmtjUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7da2ad47efa42fb9b62fb9a8",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T03:32:14+00:00",
+      "last_update": "2026-11-17T03:32:14+00:00",
+      "event": "DEVELOPMENT AND DIGNITY",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "dawn",
+        "development",
+        "dignity"
+      ],
+      "source_excerpt": "DEVELOPMENT AND DIGNITY Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kQ3I5elY3aGVLZnFsZm5fZUJxMFBIeTlQSUZXZFBRWjZjZE9YVmtJMTVYcUpKZ0xaZkstQ1BDMndpcm1XRENfbHpZQXNWd0JWTmZIeF9RRFFDY19sYzJsaVk4UHhXUU9V?oc=5",
+          "published_at": "2026-11-17T03:32:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kQ3I5elY3aGVLZnFsZm5fZUJxMFBIeTlQSUZXZFBRWjZjZE9YVmtJMTVYcUpKZ0xaZkstQ1BDMndpcm1XRENfbHpZQXNWd0JWTmZIeF9RRFFDY19sYzJsaVk4UHhXUU9V?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "61778f253128b4ed25bebf42",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T03:36:49+00:00",
+      "last_update": "2026-11-17T03:36:49+00:00",
+      "event": "Cancer awareness",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "awareness",
+        "cancer",
+        "dawn"
+      ],
+      "source_excerpt": "Cancer awareness Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94NVNkU1ZmVVozeVItS1JUeUxTYmRELXpTWUVJQmM1c2M5bmtMNzlpa1RNVHpjbjc4TmNzaXlhTERGelYyN1BmUUxsX1J5dlFOV01rUTNQT2R3NlRkWGxB?oc=5",
+          "published_at": "2026-11-17T03:36:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94NVNkU1ZmVVozeVItS1JUeUxTYmRELXpTWUVJQmM1c2M5bmtMNzlpa1RNVHpjbjc4TmNzaXlhTERGelYyN1BmUUxsX1J5dlFOV01rUTNQT2R3NlRkWGxB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bcd56e219c1cc583dc8239dd",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T03:17:43+00:00",
+      "last_update": "2026-11-17T03:17:43+00:00",
+      "event": "Jay Shah elected ICC chairman for second term",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "chairman",
+        "dawn",
+        "elected",
+        "for",
+        "icc",
+        "jay",
+        "second",
+        "shah",
+        "term"
+      ],
+      "source_excerpt": "Jay Shah elected ICC chairman for second term Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHhjdUk2S3E4UFQ3NV80c0U4VldoelFnZEdWQzBwZW55Z3FHUVhrRmVxbXZVUUUxSTdGRWZCOEhXM1ZvNWhaUm1pTTdNY0hPN3cxUEJneTFIaS1PRFVLU3hJSnMtbnlZWkpUMHE5Z0YwcmNLLTk3ektjQnVIMjdMdXJYUmhBUQ?oc=5",
+          "published_at": "2026-11-17T03:17:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHhjdUk2S3E4UFQ3NV80c0U4VldoelFnZEdWQzBwZW55Z3FHUVhrRmVxbXZVUUUxSTdGRWZCOEhXM1ZvNWhaUm1pTTdNY0hPN3cxUEJneTFIaS1PRFVLU3hJSnMtbnlZWkpUMHE5Z0YwcmNLLTk3ektjQnVIMjdMdXJYUmhBUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6f0d919f77cb886873a46e0e",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T03:15:08+00:00",
+      "last_update": "2026-11-17T03:15:08+00:00",
+      "event": "Katrina Kaif opens up about Vicky Kaushal's support after motherhood",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "after",
+        "dunya",
+        "kaif",
+        "katrina",
+        "kaushal",
+        "motherhood",
+        "news",
+        "opens",
+        "support",
+        "vicky"
+      ],
+      "source_excerpt": "Katrina Kaif opens up about Vicky Kaushal's support after motherhood Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXYzTy1neHdRVjhuejFwMWRfcXBWQ0dXY3pmZXhaZHhudi05d2lUa0dpUEt1NlNhOEFSZnBLSVdkN3BEbVh3YU1sU0h5TVJmN2lTOWpFREFtVlZDYWlBZk9KTTltR3E3RHhXTExqOWhVWGpYTkNXWDlpdnVySkZsaTNZdGk4OXVvT2tQdFlRSjgtYXBVeEZSSEJ2Vlc2YUppV2tEUEdmQTB0dGJEUktDQWtR0gFWQVVfeXFMTnVFb2lnaEl4WVBIT05pa1NRRmRYRlJOTWJCWC1NLW55ZTJuUjg0MFRLZUxyZEZtRGo3aFBvZGtnS0V6T3JXZmtmVGtXNGNwZGQtOU5DNmc?oc=5",
+          "published_at": "2026-11-17T03:15:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXYzTy1neHdRVjhuejFwMWRfcXBWQ0dXY3pmZXhaZHhudi05d2lUa0dpUEt1NlNhOEFSZnBLSVdkN3BEbVh3YU1sU0h5TVJmN2lTOWpFREFtVlZDYWlBZk9KTTltR3E3RHhXTExqOWhVWGpYTkNXWDlpdnVySkZsaTNZdGk4OXVvT2tQdFlRSjgtYXBVeEZSSEJ2Vlc2YUppV2tEUEdmQTB0dGJEUktDQWtR0gFWQVVfeXFMTnVFb2lnaEl4WVBIT05pa1NRRmRYRlJOTWJCWC1NLW55ZTJuUjg0MFRLZUxyZEZtRGo3aFBvZGtnS0V6T3JXZmtmVGtXNGNwZGQtOU5DNmc?oc=5",
+        "publisher_url": "https://dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "028eff212e9391d162ba4575",
+      "remembered_at": "2026-11-17T05:11:14.253620+00:00",
+      "event_date": "2026-11-17T03:39:22+00:00",
+      "last_update": "2026-11-17T03:39:22+00:00",
+      "event": "Editorial: Why govt should turn to parliament, not pressure tactics, to settle dispute with JUI-F",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045077",
+        "com",
+        "dawn",
+        "dispute",
+        "editorial",
+        "govt",
+        "https",
+        "jui",
+        "news",
+        "not",
+        "parliament",
+        "pressure",
+        "raised",
+        "settle",
+        "should",
+        "tactics",
+        "temperatures",
+        "turn",
+        "why",
+        "with",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045077/raised-temperatures",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045120/editorial-why-govt-should-turn-to-parliament-not-pressure-tactics-to-settle-dispute-with-jui-f",
+          "published_at": "2026-11-17T03:39:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045120/editorial-why-govt-should-turn-to-parliament-not-pressure-tactics-to-settle-dispute-with-jui-f",
+        "publisher_url": "https://www.dawn.com/news/2045120/editorial-why-govt-should-turn-to-parliament-not-pressure-tactics-to-settle-dispute-with-jui-f",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T04:09:00.297362+00:00"
+  "updated_at": "2026-11-17T05:11:14.253620+00:00"
 }
