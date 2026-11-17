@@ -48394,7 +48394,723 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5fb458207516d2bd7997f3a8",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T03:14:00+00:00",
+      "last_update": "2026-11-17T10:04:27+00:00",
+      "event": "Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attacks",
+        "bridges",
+        "cnn",
+        "crimea",
+        "critical",
+        "damaged",
+        "exchange",
+        "kyiv",
+        "large",
+        "russia",
+        "scale",
+        "ukraine"
+      ],
+      "source_excerpt": "Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks CNN",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmg0aDByRUM0SnpqOVZlZmZncVpLOW5zZGl0SG9xemhVbVNhcndfNGNCZHhxdVdRZGZ1U3NiN2JfWTBMcGhHQnlCa2lGRWxpNUxlcmxENzFteHJiZzhzV3ZrZ0tkZ2tUVG1ZOEpDS1M4UnJFQ01PdVYwM3RUTWE5Ykh0WHhua3J6Skx5RWVEcHVzVDlMRmRESksxNlNPSS01RFRyZUNWM0wyQjFoYlVkbjNzM1VUZHJJUGhJSlZLbzczWmFDRXJTV2JfQlZaSnps?oc=5",
+          "published_at": "2026-11-17T03:14:00+00:00"
+        },
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5",
+          "published_at": "2026-11-17T07:40:19+00:00"
+        },
+        {
+          "name": "The National",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEI0alJwRmVVTlAxU2xjVTlEcFlRYjVaRWlJTzRVRjJ0RHBocm10S2JTVVJOdnM4bTV4OVk1WVlwSlRqZTFoX0VXeGtZWldndDFJSHVfY1BsTFZVMVc1QnFkaS1tbUt6blNDOEkxREdfTjV2ekVKZVo2SlJYTzJLbjNSZ05vVW92ZG9IUkxzaGFZNG1uaEtRdTRIOW1GZlBLejB5dUhaT01xa0ViSjVBMWIydUU?oc=5",
+          "published_at": "2026-11-17T08:55:28+00:00"
+        },
+        {
+          "name": "Radio Free Europe/Radio Liberty",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzBPcTVKVHBCbHFsUDI1VnVHUTBybzdxMFI1X2lwd3VxS0V0S0FlRDNDN0djNHJ1Wmw0WDc0NnlBZGpKVm13REpSblZ0ck52NnF3aFk2T2VhRU8tMmJUcHJYREl6N2NPOG1QQXROTzlaOU1ORjR2UUdIcjNaOUc2RndDeS01RmNP0gGLAUFVX3lxTFBQSXJmWlZ2MG4zNzl0aGx2R3o5NXR1dXkxX0lnX0dYVTZDb0FuOFBlTDFROXBpaVRYcFJJZXJHSE0tRlc3dFctNkltM3duU0R1c0t0a0djNGhjWHl6TmdrM2RhTUtsRU5rRVBCR2ppUXIzX0JjYWprRHpPNnd2Wld0QnRDYTJZMjZyU00?oc=5",
+          "published_at": "2026-11-17T09:34:46+00:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5",
+          "published_at": "2026-11-17T09:53:42+00:00"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWtLTm1oUmtNWG42UWhuQ0l1Q05RS2pJd1NZaHBRTjNPYmpBYUV2cEJ2VkhySDZpa3RjV0dpd25WaTFCbERTdVNpZU9IQ1Y0OHVZUHZiTjc2c1hURGN6STBLRC04eTYzclJIanh2cllwM2pZRDJQanpFeERPWlN1Zjc3TXZkZXhwZWk1YllzVlk3bGRGQ0s0?oc=5",
+          "published_at": "2026-11-17T09:55:26+00:00"
+        },
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWxlYmNBWjVjajNMRlBJTWFoV0dzcGRnM0VQWnpXMjBxbGVpbzNvQ0JvZ2tUb09ENHdXcXNONzlmeG1iTUdSOGRMdEdDc1ZaUERnaENlQ0R2RV9LTm54Mms0TUxvQ1I1Wi1wN281bVVHXzNaVnZJUEZXbkZjM3pXTlBsa3lqbUx4LTFQVXpqcDVlVXk5MHhyU3YtQzZjejBwOVRiUC1kUVQ4a3FaMUNoUVRlN3hrQmpNc3RoZl9Gc216Sjc5R3lNV29lWC1jUQ?oc=5",
+          "published_at": "2026-11-17T10:03:12+00:00"
+        },
+        {
+          "name": "EA WorldView",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDYwN25IR3lXemVVWEV5SEJtb1FVZkk2bTVic0tfWDh3U2tSWllrc3V2bXVNX00tOFBQdEI2VmUyTzNCR1pFLXNhcUpVd1loQzNPNDZyMS01OWFuUV9leVNFWXdCajZXRDluZnNDQm9BdU5pdUZjTHI2ODJMWlg2YXBEMzZPUFU5clE?oc=5",
+          "published_at": "2026-11-17T10:04:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5",
+        "publisher_url": "https://www.cnn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1b4300c08071eba9d246437d",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T03:46:51+00:00",
+      "last_update": "2026-11-17T07:41:55+00:00",
+      "event": "Trump is not going to let Iran conflict become a 'forever war', asserts Vance",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asserts",
+        "become",
+        "conflict",
+        "dawn",
+        "forever",
+        "going",
+        "iran",
+        "let",
+        "not",
+        "trump",
+        "vance",
+        "war"
+      ],
+      "source_excerpt": "Trump is not going to let Iran conflict become a 'forever war', asserts Vance Dawn",
+      "sources": [
+        {
+          "name": "The Nation (Pakistan )",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTGZBV3NxMjFiSEZGc3dXM3cwTk5fRWlWSktlU21GeDZZYi1KOFBUZUYxWmxRbWt1VEZkdlUyM0h4WUZNZVBzdDlMdDl6WWNiSWdJZjR5UHpoU2F4cGRaTFJWYXBvbE5tcTBxblRCOHRWVThaWjBXLUtDQjVHb1hxSi1PYldhOTlSX05PMnhDTm9hRXowWVNjSlN5NDhHOGZ3MV9icnlZVmV0ai1JdkNBeVJSS0k5dkk?oc=5",
+          "published_at": "2026-11-17T03:46:51+00:00"
+        },
+        {
+          "name": "MorungExpress",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLW5ES1EyaFdRMzFsWWhqNEt0NGxFY3lKMUlGdDZQdlpzZ3hzY2oxRENNZjJCYmRRZHJlc2ZxNGgxdkFkRzlGdmp5a1IwbWJkaGVsNktNeXZ2bDlNaDdPa1pwUzZ2NGRlOUJjYmh1UlRYRlpoaFJiY1BKaVhReEN4X0xyTQ?oc=5",
+          "published_at": "2026-11-17T04:29:32+00:00"
+        },
+        {
+          "name": "TRT World",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGYVpSYllrOG81bkgwWnN3ZVYyWl9BU3JFSUNQUnFtOW53bVBNNTFoY0tKU2U4WElHd0NaVzc1ZWlGTUJ0Vy01LWlJSUhzb1hMZkVsM3Rnb3U?oc=5",
+          "published_at": "2026-11-17T06:05:01+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGJjd0ZaN2RJUnBjekI0VjdOWmw3NTFaNDU0Tk10ZFcwLTVWaXpHc2s5SXk5TWc1Q0RRaTZveURUM19JR0hqc0pWZnJydXlMUFBTc0RiY1lSZUo1bUxqMXJDdnE5YzZ3VmdQdzZtcUpHRFV0QldldmpzZGRoVWw1MnlzOWZmVFdSS0N5QnVVVF9mNEZPd3NwS0UwalIzTzVpUmNObHc0YjdfZXNo?oc=5",
+          "published_at": "2026-11-17T06:31:08+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045146/trump-is-not-going-to-let-iran-conflict-become-a-forever-war-asserts-vance",
+          "published_at": "2026-11-17T06:55:43+00:00"
+        },
+        {
+          "name": "The Diplomatic Insight",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODRiakVEQnNTMVZhaXZLUmxTZThZS3VpYmlSSVlWZXBlS0FWOGlURXkzcmZHSUdDR2p6ZktuNU9NV2g4Q0dSb3hMOXNlNHpqQVZRaUJERHQ0Wi1vMXh2YVlmOXJwbUktNlowN1dHYnE1RVNMbDVSM3p3TmVSTVBpVVZRVGFqSTlIUnU1THdfamdJUzdyMEE?oc=5",
+          "published_at": "2026-11-17T07:41:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGJjd0ZaN2RJUnBjekI0VjdOWmw3NTFaNDU0Tk10ZFcwLTVWaXpHc2s5SXk5TWc1Q0RRaTZveURUM19JR0hqc0pWZnJydXlMUFBTc0RiY1lSZUo1bUxqMXJDdnE5YzZ3VmdQdzZtcUpHRFV0QldldmpzZGRoVWw1MnlzOWZmVFdSS0N5QnVVVF9mNEZPd3NwS0UwalIzTzVpUmNObHc0YjdfZXNo?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8b42c7b47d3d09cdd80d8257",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T05:14:14+00:00",
+      "last_update": "2026-11-17T10:31:46+00:00",
+      "event": "Gold, silver prices in Pakistan - latest: Nov 17, 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "gold",
+        "latest",
+        "nov",
+        "pakistan",
+        "prices",
+        "samaa",
+        "silver"
+      ],
+      "source_excerpt": "Gold, silver prices in Pakistan - latest: Nov 17, 2026 samaa tv",
+      "sources": [
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/gold-silver-prices-did-not-change-much-for-today/",
+          "published_at": "2026-11-17T05:14:14+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmUxelc3c3BjZkQ2QVA4ejNrNEltQjVxMDRRNzdTU1lKbUVibnVVRmdURWdJR3ZaR0tQd0dpemxoMkVORXc0ZnhNaHBObEtDRDFqX2ZJZ2YzRnlzekxMaXZVbzZJUGtxTVhqYmU5RGRrZ2lub0V4eFJrcFpweDlFalowLXFIUmRySElTR2N6cC1udzlt?oc=5",
+          "published_at": "2026-11-17T08:52:07+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeENjd1Raa05EclBQLWtWMG83WFdzd1hseExvbURmVmhnNzc0bnlSZWZXU1lJYlZicXRVcjhCSW50bHJsUHVoeERtR1JKd1NKVkduMjEyZllfaXlkOThCeXhROVBPUTQtNUhwb09FYkFtYXJweTh6SEp5MUkwZVdTWnFGMk02amZK?oc=5",
+          "published_at": "2026-11-17T10:31:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeENjd1Raa05EclBQLWtWMG83WFdzd1hseExvbURmVmhnNzc0bnlSZWZXU1lJYlZicXRVcjhCSW50bHJsUHVoeERtR1JKd1NKVkduMjEyZllfaXlkOThCeXhROVBPUTQtNUhwb09FYkFtYXJweTh6SEp5MUkwZVdTWnFGMk02amZK?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a103d25e97e33f4ac9f2fc04",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T09:23:32+00:00",
+      "last_update": "2026-11-17T10:44:46+00:00",
+      "event": "Sri Lanka register unwanted record",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "lanka",
+        "record",
+        "register",
+        "sri",
+        "unwanted"
+      ],
+      "source_excerpt": "Sri Lanka register unwanted record",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/sri-lanka-register-unwanted-record",
+          "published_at": "2026-11-17T09:23:32+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzRZU1Z6Z2FmRmxTbDhTMXZfMTNabzQxRENrOERQbk1JVWYydDhPcHN6c3lRV2NjdHdjd2lXS0twc3FhWHY0MmsyWG45eHIyWlhRN3ZOOUFHdWt1RkJjeDRXODdJLVFNQUhsbkZoRkJJaFVTdFR3ZENZdW9hRVZvSUlXZVNjMm5XamdYcklvMWRvbmRwT0FQb01hMi0?oc=5",
+          "published_at": "2026-11-17T10:18:24+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/17/sri-lanka-register-unwanted-test-record-against-pakistan/",
+          "published_at": "2026-11-17T10:44:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/sri-lanka-register-unwanted-record",
+        "publisher_url": "https://arynews.tv/sri-lanka-register-unwanted-record",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "75a5353f237c6a41b632b12b",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T10:51:20+00:00",
+      "last_update": "2026-11-17T10:57:41+00:00",
+      "event": "Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "bilawal",
+        "collapse",
+        "dawn",
+        "debate",
+        "made",
+        "pakistan",
+        "reset",
+        "says",
+        "system",
+        "was"
+      ],
+      "source_excerpt": "Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnNoZ3pYcFFreFluRGt4OWNLSE1jSXBqODFvcExmaVVrajFxRlplQmN4dHFvR3RvaW1XRldIVmxEWXQ5ZU5YT29MQlpkdlI5UkI5WmFTZVlpczBhaWVJRHl0ZDNRZlg2a2Ixc19SVExYRWVvaHhHcER0UkJJdXVwSkhhaFJ2Z0ZXWXFUSUhLYkU1TkZvVHZ1MWFKYWhoV3lZb1pWNnN1ZWhiZHM?oc=5",
+          "published_at": "2026-11-17T10:51:20+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045176/bilawal-says-system-was-made-to-collapse-amid-debate-on-governance-reset-in-pakistan",
+          "published_at": "2026-11-17T10:57:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnNoZ3pYcFFreFluRGt4OWNLSE1jSXBqODFvcExmaVVrajFxRlplQmN4dHFvR3RvaW1XRldIVmxEWXQ5ZU5YT29MQlpkdlI5UkI5WmFTZVlpczBhaWVJRHl0ZDNRZlg2a2Ixc19SVExYRWVvaHhHcER0UkJJdXVwSkhhaFJ2Z0ZXWXFUSUhLYkU1TkZvVHZ1MWFKYWhoV3lZb1pWNnN1ZWhiZHM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "01f0ce53fa18d49a0fcdc54e",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T10:22:09+00:00",
+      "last_update": "2026-11-17T10:22:09+00:00",
+      "event": "How new US chip restrictions on South East Asia will hit China",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "also",
+        "and",
+        "asia",
+        "china",
+        "chip",
+        "computing",
+        "east",
+        "exports",
+        "heavily",
+        "hit",
+        "how",
+        "new",
+        "power",
+        "relies",
+        "restrict",
+        "restrictions",
+        "rules",
+        "south",
+        "the",
+        "their",
+        "which",
+        "will"
+      ],
+      "source_excerpt": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T10:22:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d0a32664cd7c554c3962166",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T10:13:27+00:00",
+      "last_update": "2026-11-17T10:13:27+00:00",
+      "event": "Will President Trump meet Kim Jong Un?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "china",
+        "jong",
+        "keen",
+        "kim",
+        "korea",
+        "leader",
+        "meet",
+        "north",
+        "president",
+        "says",
+        "the",
+        "trump",
+        "will",
+        "would"
+      ],
+      "source_excerpt": "President Trump says he would be keen to meet the North Korea leader in China.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T10:13:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aabf20bc976502955838283d",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T10:42:42+00:00",
+      "last_update": "2026-11-17T10:42:42+00:00",
+      "event": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "alonso",
+        "and",
+        "aston",
+        "champion",
+        "dakar",
+        "fernando",
+        "fomula",
+        "his",
+        "leob",
+        "make",
+        "martin",
+        "morocco",
+        "one",
+        "race",
+        "rally",
+        "return",
+        "team",
+        "the",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
+          "published_at": "2026-11-17T10:42:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8019ca008f1cd53ada13c7af",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T10:22:52+00:00",
+      "last_update": "2026-11-17T10:22:52+00:00",
+      "event": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abuses",
+        "again",
+        "are",
+        "but",
+        "countries",
+        "critics",
+        "deport",
+        "deported",
+        "five",
+        "for",
+        "hub",
+        "human",
+        "migrants",
+        "plans",
+        "potential",
+        "proposed",
+        "return",
+        "reviving",
+        "rights",
+        "rwanda",
+        "warn",
+        "why"
+      ],
+      "source_excerpt": "Rwanda again proposed as a 'return hub' for deported migrants, but critics warn of potential human rights abuses.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
+          "published_at": "2026-11-17T10:22:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f3ce0b46c0f168bccb085bbe",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T10:13:12+00:00",
+      "last_update": "2026-11-17T10:13:12+00:00",
+      "event": "US President Trump arrives in Manila ahead of ASEAN summit",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "arrives",
+        "asean",
+        "donald",
+        "has",
+        "landed",
+        "manila",
+        "meeting",
+        "president",
+        "special",
+        "summit",
+        "trump"
+      ],
+      "source_excerpt": "US President Donald Trump has landed in Manila ahead of a special ASEAN-US meeting.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+          "published_at": "2026-11-17T10:13:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9a5a293ee84a707ac3847b16",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T09:53:31+00:00",
+      "last_update": "2026-11-17T09:53:31+00:00",
+      "event": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghan",
+        "afghanistan",
+        "ambitions",
+        "ban",
+        "defy",
+        "despite",
+        "dreams",
+        "lives",
+        "pursue",
+        "restrictions",
+        "risk",
+        "secret",
+        "strict",
+        "taliban",
+        "their",
+        "women"
+      ],
+      "source_excerpt": "Afghan women risk their lives to pursue their dreams, despite strict Taliban restrictions.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss",
+          "published_at": "2026-11-17T09:53:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "88e158b521f7ffa494911eac",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T09:51:02+00:00",
+      "last_update": "2026-11-17T09:51:02+00:00",
+      "event": "Powering towns on pig manure: How Denmark has transformed energy generation",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "being",
+        "big",
+        "biogas",
+        "business",
+        "denmark",
+        "energy",
+        "generation",
+        "grid",
+        "has",
+        "how",
+        "into",
+        "manure",
+        "national",
+        "now",
+        "pig",
+        "pigs",
+        "powering",
+        "powers",
+        "the",
+        "their",
+        "towns",
+        "transformed",
+        "turned",
+        "waste",
+        "which"
+      ],
+      "source_excerpt": "Pigs are big business in Denmark. Now their waste is being turned into biogas, which powers the national grid.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
+          "published_at": "2026-11-17T09:51:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b6220e619476dc2b72acd33e",
+      "remembered_at": "2026-11-17T11:02:19.748621+00:00",
+      "event_date": "2026-11-17T10:49:58+00:00",
+      "last_update": "2026-11-17T10:49:58+00:00",
+      "event": "Immigration arrests after organised crime blitz",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "arrested",
+        "arrests",
+        "blitz",
+        "crime",
+        "crimes",
+        "eighteen",
+        "for",
+        "immigration",
+        "including",
+        "modern",
+        "organised",
+        "people",
+        "police",
+        "range",
+        "say",
+        "slavery",
+        "suspected",
+        "were"
+      ],
+      "source_excerpt": "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T10:49:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T09:58:53.641993+00:00"
+  "updated_at": "2026-11-17T11:02:19.748621+00:00"
 }

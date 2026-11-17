@@ -1,126 +1,134 @@
-# News Hub report - Tue 17 Nov, 02:58 PM PKT
+# News Hub report - Tue 17 Nov, 04:02 PM PKT
 
 ## Collection
-- New items this run: 102 | items in rolling pool: 527
-- Unique story clusters: 439 (duplicates merged: 88)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 3
-- Items per outlet: UrduPoint 17, ProPakistani 10, TechJuice 8, Geo News 7, ARY News 7, samaa tv 5, Dawn 4, Investify 4, Dunya News 3, Al Jazeera 3, PhoneWorld 3, Bloomberg.com 2
+- New items this run: 126 | items in rolling pool: 612
+- Unique story clusters: 511 (duplicates merged: 101)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 39, ProPakistani 10, Wired 9, ARY News 8, TechJuice 6, Geo News 5, Dunya News 5, Al Jazeera 5, samaa tv 4, Dawn 4, Dawn Pakistan 2, BBC 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- NDMA issues drought high alert for Sindh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gamers in Asia stoked to play 'GTA VI', many on grey market | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Poll suggests only 31pc of Americans support war on Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $500mn loan to support Pakistan's rension reforms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Turkmenistan discuss ways to strengthen trade, energy, regional connectivity ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump is not going to let Iran conflict become a 'forever war', asserts Vance | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold, silver prices in Pakistan - latest: Nov 17, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sri Lanka register unwanted record | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers, police clash in fresh wage protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- NDMA issues drought high alert for Sindh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gamers in Asia stoked to play 'GTA VI', many on grey market | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Poll suggests only 31pc of Americans support war on Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $500mn loan to support Pakistan's rension reforms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Turkmenistan discuss ways to strengthen trade, energy, regional connectivity ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump is not going to let Iran conflict become a 'forever war', asserts Vance | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold, silver prices in Pakistan - latest: Nov 17, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sri Lanka register unwanted record | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers, police clash in fresh wage protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- NDMA issues drought high alert for Sindh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gamers in Asia stoked to play 'GTA VI', many on grey market | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Poll suggests only 31pc of Americans support war on Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $500mn loan to support Pakistan's rension reforms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Turkmenistan discuss ways to strengthen trade, energy, regional connectivity ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump is not going to let Iran conflict become a 'forever war', asserts Vance | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold, silver prices in Pakistan - latest: Nov 17, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sri Lanka register unwanted record | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers, police clash in fresh wage protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 95/107 | empty: 3 | failed: 9 | malformed/partial: 9
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Today Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Profit Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Petrol prices | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: CNN India politics | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Al Jazeera India politics | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: CNN India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### NDMA issues drought high alert for Sindh  [NORMAL]
-- Poster:  / NDMA issues drought high alert for Sindh | category other
-- Alternative headline: NDMA issues drought high alert for Sindh
+### Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks  [NORMAL]
+- Poster:  / Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks | category other
+- Alternative headline: Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - CNN https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: CNN https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5
+- Supporting coverage: The Guardian, CNN, The National, Radio Free Europe/Radio Liberty, Reuters, The New York Times
+- Keywords: Critical bridges in Crimea and | hashtags: 
+- Scheduled: Tue 17 Nov, 04:02 PM PKT
+- Caption:
+```
+Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks
+
+Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks CNN
+
+Source: CNN
+```
+
+### Trump is not going to let Iran conflict become a 'forever war', asserts Vance  [NORMAL]
+- Poster:  / Trump is not going to let Iran conflict become a 'forever war', asserts Vance | category other
+- Alternative headline: Trump is not going to let Iran conflict become a 'forever war', asserts Vance
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/ndma-issues-drought-high-alert-sindh | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/ndma-issues-drought-high-alert-sindh
-- Supporting coverage: ARY News, samaa tv
-- Keywords: NDMA issues drought high alert | hashtags: 
-- Scheduled: Tue 17 Nov, 02:58 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGJjd0ZaN2RJUnBjekI0VjdOWmw3NTFaNDU0Tk10ZFcwLTVWaXpHc2s5SXk5TWc1Q0RRaTZveURUM19JR0hqc0pWZnJydXlMUFBTc0RiY1lSZUo1bUxqMXJDdnE5YzZ3VmdQdzZtcUpHRFV0QldldmpzZGRoVWw1MnlzOWZmVFdSS0N5QnVVVF9mNEZPd3NwS0UwalIzTzVpUmNObHc0YjdfZXNo?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGJjd0ZaN2RJUnBjekI0VjdOWmw3NTFaNDU0Tk10ZFcwLTVWaXpHc2s5SXk5TWc1Q0RRaTZveURUM19JR0hqc0pWZnJydXlMUFBTc0RiY1lSZUo1bUxqMXJDdnE5YzZ3VmdQdzZtcUpHRFV0QldldmpzZGRoVWw1MnlzOWZmVFdSS0N5QnVVVF9mNEZPd3NwS0UwalIzTzVpUmNObHc0YjdfZXNo?oc=5
+- Supporting coverage: The Nation (Pakistan ), MorungExpress, TRT World, Dawn, Dawn Latest, The Diplomatic Insight
+- Keywords: Trump is not going to | hashtags: 
+- Scheduled: Tue 17 Nov, 04:12 PM PKT
 - Caption:
 ```
-NDMA issues drought high alert for Sindh
+Trump is not going to let Iran conflict become a 'forever war', asserts Vance
 
-NDMA issues drought high alert for Sindh
+Trump is not going to let Iran conflict become a 'forever war', asserts Vance Dawn
+
+Source: Dawn
+```
+
+### Gold, silver prices in Pakistan - latest: Nov 17, 2026  [NORMAL]
+- Poster:  / Gold, silver prices in Pakistan - latest: Nov 17, 2026 | category other
+- Alternative headline: Gold, silver prices in Pakistan - latest: Nov 17, 2026
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeENjd1Raa05EclBQLWtWMG83WFdzd1hseExvbURmVmhnNzc0bnlSZWZXU1lJYlZicXRVcjhCSW50bHJsUHVoeERtR1JKd1NKVkduMjEyZllfaXlkOThCeXhROVBPUTQtNUhwb09FYkFtYXJweTh6SEp5MUkwZVdTWnFGMk02amZK?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeENjd1Raa05EclBQLWtWMG83WFdzd1hseExvbURmVmhnNzc0bnlSZWZXU1lJYlZicXRVcjhCSW50bHJsUHVoeERtR1JKd1NKVkduMjEyZllfaXlkOThCeXhROVBPUTQtNUhwb09FYkFtYXJweTh6SEp5MUkwZVdTWnFGMk02amZK?oc=5
+- Supporting coverage: TechJuice, Investify, samaa tv
+- Keywords: Gold, silver prices in Pakistan | hashtags: 
+- Scheduled: Tue 17 Nov, 04:22 PM PKT
+- Caption:
+```
+Gold, silver prices in Pakistan - latest: Nov 17, 2026
+
+Gold, silver prices in Pakistan - latest: Nov 17, 2026 samaa tv
+
+Source: samaa tv
+```
+
+### Sri Lanka register unwanted record  [NORMAL]
+- Poster:  / Sri Lanka register unwanted record | category other
+- Alternative headline: Sri Lanka register unwanted record
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/sri-lanka-register-unwanted-record | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/sri-lanka-register-unwanted-record
+- Supporting coverage: ARY News, UrduPoint, ProPakistani
+- Keywords: Sri Lanka register unwanted record | hashtags: 
+- Scheduled: Tue 17 Nov, 04:32 PM PKT
+- Caption:
+```
+Sri Lanka register unwanted record
+
+Sri Lanka register unwanted record
 
 Source: ARY News
 ```
 
-### Gamers in Asia stoked to play 'GTA VI', many on grey market  [NORMAL]
-- Poster:  / Gamers in Asia stoked to play 'GTA VI', many on grey market | category other
-- Alternative headline: Gamers in Asia stoked to play 'GTA VI', many on grey market
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkhIUlh5NUpDUmFQeDFLeFVpejlPd2htdDJlR2pwZEdHcUpxWGNCM0I4M0JMbHpkNUQ5R3NOQVk4TmFqX21PUVUzT0x6RDhzWXZSbzYtanI0a2JFLVZDYWZVclM1Ym9vVF9Sc1d2YVJYWXZDcC1MYUpNSEVwWVhvaUFKUFNXdk1aQjBfbl9nazdkOWt3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkhIUlh5NUpDUmFQeDFLeFVpejlPd2htdDJlR2pwZEdHcUpxWGNCM0I4M0JMbHpkNUQ5R3NOQVk4TmFqX21PUVUzT0x6RDhzWXZSbzYtanI0a2JFLVZDYWZVclM1Ym9vVF9Sc1d2YVJYWXZDcC1MYUpNSEVwWVhvaUFKUFNXdk1aQjBfbl9nazdkOWt3?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Gamers in Asia stoked to | hashtags: 
-- Scheduled: Tue 17 Nov, 03:08 PM PKT
-- Caption:
-```
-Gamers in Asia stoked to play 'GTA VI', many on grey market
-
-Gamers in Asia stoked to play 'GTA VI', many on grey market Dawn
-
-Source: Dawn
-```
-
-### Poll suggests only 31pc of Americans support war on Iran  [NORMAL]
-- Poster:  / Poll suggests only 31pc of Americans support war on Iran | category other
-- Alternative headline: Poll suggests only 31pc of Americans support war on Iran
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNSDh4OVdBNWM3aGpuMFJjTTB2bXZiT0xsZl9rOTlCWkpmeTNWRTEtNG44VnA1VkdiTWk2YTRGaWtNU25aYVJZQVdZOV9TUm12a0EwUHdmVGpMTzdxNDVrWUx6QkI1U3hRRFdnOXNRcVZ4ZHdtWHBFaW5jSjVMSTJRa0xFOFNKaTF0YjFTUThlejRJTHRp?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNSDh4OVdBNWM3aGpuMFJjTTB2bXZiT0xsZl9rOTlCWkpmeTNWRTEtNG44VnA1VkdiTWk2YTRGaWtNU25aYVJZQVdZOV9TUm12a0EwUHdmVGpMTzdxNDVrWUx6QkI1U3hRRFdnOXNRcVZ4ZHdtWHBFaW5jSjVMSTJRa0xFOFNKaTF0YjFTUThlejRJTHRp?oc=5
-- Supporting coverage: Mehr News Agency, Dawn
-- Keywords: Poll suggests only 31pc of | hashtags: 
-- Scheduled: Tue 17 Nov, 03:18 PM PKT
-- Caption:
-```
-Poll suggests only 31pc of Americans support war on Iran
-
-Poll suggests only 31pc of Americans support war on Iran Dawn
-
-Source: Dawn
-```
-
-### ADB approves $500mn loan to support Pakistan's rension reforms  [NORMAL]
-- Poster:  / ADB approves $500mn loan to support Pakistan's rension reforms | category other
-- Alternative headline: ADB approves $500mn loan to support Pakistan's rension reforms
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFFek92ZlJyY2I5VnZxWW1UMFRHWmVjREdNaE9kRUpjRUxXcFV2eGRVVUdSTVJwVGdiZFZVM21TbThfemh2UlRxVG5BdlltamJMLTZpRmVYQlMyemNWbDZ4LUl1SUZjX1V2SUhpYlNZX2hnYm4yVXRpbW1rVDRLNkNNWDFVdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFFek92ZlJyY2I5VnZxWW1UMFRHWmVjREdNaE9kRUpjRUxXcFV2eGRVVUdSTVJwVGdiZFZVM21TbThfemh2UlRxVG5BdlltamJMLTZpRmVYQlMyemNWbDZ4LUl1SUZjX1V2SUhpYlNZX2hnYm4yVXRpbW1rVDRLNkNNWDFVdw?oc=5
-- Supporting coverage: ARYnews.tv, ARY News
-- Keywords: ADB approves $500mn loan to | hashtags: 
-- Scheduled: Tue 17 Nov, 03:28 PM PKT
-- Caption:
-```
-ADB approves $500mn loan to support Pakistan's rension reforms
-
-ADB approves $500mn loan to support Pakistan's rension reforms ARYnews.tv
-
-Source: ARYnews.tv
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [published] high | 16 Terrorists Killed, 2 Army Soldiers Martyred in KP Intelligence Oper | Sat 14 Nov, 08:54 PM PKT
@@ -241,10 +249,10 @@ Source: ARYnews.tv
 - [needs_review] normal | UK seeks closer ties with EU after Brexit fail | Tue 17 Nov, 08:30 AM PKT
 - [needs_review] normal | Ethiopia Moyale clashes disrupt livelihoods as territorial dispute dee | Tue 17 Nov, 08:40 AM PKT
 - [published] normal | Guitar workshop by Portuguese musician turns into musical treat | Tue 17 Nov, 09:09 AM PKT
-- [queued] normal | Minister Buledi clarifies remarks on tribal system | Tue 17 Nov, 09:19 AM PKT
-- [queued] normal | Four lawyers appointed special ATC judges | Tue 17 Nov, 09:29 AM PKT
-- [queued] normal | Punjab to sue Salik over graft claims against Maryam | Tue 17 Nov, 09:39 AM PKT
-- [queued] normal | Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | Tue 17 Nov, 10:11 AM PKT
+- [needs_review] normal | Minister Buledi clarifies remarks on tribal system | Tue 17 Nov, 09:19 AM PKT
+- [needs_review] normal | Four lawyers appointed special ATC judges | Tue 17 Nov, 09:29 AM PKT
+- [needs_review] normal | Punjab to sue Salik over graft claims against Maryam | Tue 17 Nov, 09:39 AM PKT
+- [published] normal | Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | Tue 17 Nov, 10:11 AM PKT
 - [queued] normal | Nvidia rules out Jensen Huang's return as board hires law firm to inve | Tue 17 Nov, 10:21 AM PKT
 - [queued] normal | Pakistan crush Sri Lanka in Blind Asia Cup | Tue 17 Nov, 10:31 AM PKT
 - [queued] normal | Balochistan PA flags flour prices, dept mergers | Tue 17 Nov, 10:41 AM PKT
@@ -264,9 +272,13 @@ Source: ARYnews.tv
 - [queued] normal | Gamers in Asia stoked to play 'GTA VI', many on grey market | Tue 17 Nov, 03:08 PM PKT
 - [queued] normal | Poll suggests only 31pc of Americans support war on Iran | Tue 17 Nov, 03:18 PM PKT
 - [queued] normal | ADB approves $500mn loan to support Pakistan's rension reforms | Tue 17 Nov, 03:28 PM PKT
+- [queued] normal | Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exch | Tue 17 Nov, 04:02 PM PKT
+- [queued] normal | Trump is not going to let Iran conflict become a 'forever war', assert | Tue 17 Nov, 04:12 PM PKT
+- [queued] normal | Gold, silver prices in Pakistan - latest: Nov 17, 2026 | Tue 17 Nov, 04:22 PM PKT
+- [queued] normal | Sri Lanka register unwanted record | Tue 17 Nov, 04:32 PM PKT
 
 ## Publishing this run
-- Published 'Guitar workshop by Portuguese musician turns into musical treat'.
+- Published 'Second Test: Pakistan win toss, opt to bowl first against Sri Lanka'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
