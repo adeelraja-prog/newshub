@@ -1,147 +1,49 @@
-# News Hub report - Tue 17 Nov, 09:30 PM PKT
+# News Hub report - Tue 17 Nov, 10:40 PM PKT
 
 ## Collection
-- New items this run: 171 | items in rolling pool: 976
-- Unique story clusters: 806 (duplicates merged: 170)
-- Clusters dropped as already published/queued: 5; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 97, Al Jazeera 8, Geo News 7, ARY News 7, ProPakistani 6, The News International 5, BBC World 4, TechJuice 4, samaa tv 3, The Verge 3, Engadget 3, Pakistan Today 3
+- New items this run: 166 | items in rolling pool: 1046
+- Unique story clusters: 855 (duplicates merged: 191)
+- Clusters dropped as already published/queued: 9; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 83, Geo News 13, Al Jazeera 6, Engadget 6, Profit by Pakistan Today 5, TechCrunch 4, Pakistan Today 4, samaa tv 3, Dawn Latest 3, TechJuice 3, ARY News 2, Jang Urdu 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Pakistan's fast bowling masterclass bundles Sri Lanka out for 98 in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $500mn loan to support Pakistan's rension reforms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICC fines Pakistan and Sri Lanka for slow over-rates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan's fast bowling masterclass bundles Sri Lanka out for 98 in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $500mn loan to support Pakistan's rension reforms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICC fines Pakistan and Sri Lanka for slow over-rates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan's fast bowling masterclass bundles Sri Lanka out for 98 in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $500mn loan to support Pakistan's rension reforms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICC fines Pakistan and Sri Lanka for slow over-rates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price reduced, diesel rate unchanged in OGRA notification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 103/107 | empty: 3 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 102/107 | empty: 4 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: BBC India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Pakistan's Pace Battery Bundles Sri Lanka Out for 98 in Rawalpindi Test  [NORMAL]
-- Poster: راولپنڈی ٹیسٹ: پاکستان نے سری لنکا کو 98 رنز پر آؤٹ کر دیا / Pakistan bowls out Sri Lanka for 98 in Rawalpindi | category sports
-- Alternative headline: Sri Lanka Crumbles to 98 All Out Against Pakistan Fast Bowlers
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045154/pakistans-fast-bowling-masterclass-bundles-sri-lanka-out-for-98-in-second-test | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2045154/pakistans-fast-bowling-masterclass-bundles-sri-lanka-out-for-98-in-second-test
-- Supporting coverage: Dawn Latest, The Current, ARY News, ProPakistani, Jagonews24, Dawn
-- Keywords: Pakistan vs Sri Lanka, Rawalpindi Test, fast bowlers, Mohammad Abbas, cricket, WTC | hashtags: #PAKvSL #RawalpindiTest #PakistanCricket #Cricket #TestCricket
-- Scheduled: Tue 17 Nov, 09:30 PM PKT
-- Caption:
-```
-Pakistan's pace attack wreaked havoc on the opening day of the second Test in Rawalpindi, bundling Sri Lanka out for a paltry 98 runs.
-
-Pakistan's fast bowlers delivered a stellar performance, dismissing Sri Lanka for just 98 runs in 35.3 overs on the opening day of the second Test at Rawalpindi Cricket Stadium. Mohammad Abbas, Razaullah, and Aamer Jamal claimed three wickets each. In response, Pakistan reached 121-3 by stumps, securing a 23-run lead.
-
-پاکستان کے فاسٹ بولرز نے راولپنڈی میں دوسرے ٹیسٹ کے پہلے دن شاندار کارکردگی کا مظاہرہ کرتے ہوئے سری لنکا کو صرف 98 رنز پر آؤٹ کر دیا۔ محمد عباس، رضا اللہ اور عامر جمال نے تین تین وکٹیں حاصل کیں۔ جواب میں پاکستان نے دن کے اختتام تک 3 وکٹوں کے نقصان پر 121 رنز بنا لیے۔
-
-First reported by Dawn Latest; also reported by The Current and ARY News.
-
-#PAKvSL #RawalpindiTest #PakistanCricket #Cricket #TestCricket
-```
-
-### Asian Development Bank Approves $500M Loan to Support Pakistan's Pension Reforms  [NORMAL]
-- Poster: ایشین ڈویلپمنٹ بینک کی جانب سے پاکستان کے لیے 500 ملین ڈالر قرض کی منظوری / ADB approves $500m loan for Pakistan pension reforms | category economy
-- Alternative headline: ADB Clears $500 Million Financing Package for Federal Pension Overhaul
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFFek92ZlJyY2I5VnZxWW1UMFRHWmVjREdNaE9kRUpjRUxXcFV2eGRVVUdSTVJwVGdiZFZVM21TbThfemh2UlRxVG5BdlltamJMLTZpRmVYQlMyemNWbDZ4LUl1SUZjX1V2SUhpYlNZX2hnYm4yVXRpbW1rVDRLNkNNWDFVdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFFek92ZlJyY2I5VnZxWW1UMFRHWmVjREdNaE9kRUpjRUxXcFV2eGRVVUdSTVJwVGdiZFZVM21TbThfemh2UlRxVG5BdlltamJMLTZpRmVYQlMyemNWbDZ4LUl1SUZjX1V2SUhpYlNZX2hnYm4yVXRpbW1rVDRLNkNNWDFVdw?oc=5
-- Supporting coverage: ARYnews.tv, ARY News, Investify, Dawn Pakistan, Dawn, TechJuice
-- Keywords: ADB loan, pension reforms, Asian Development Bank, Pakistan economy, finance, government | hashtags: #ADB #PakistanEconomy #PensionReforms #Finance #EconomicReform
-- Scheduled: Tue 17 Nov, 09:40 PM PKT
-- Caption:
-```
-The Asian Development Bank has approved a significant financial package to help restructure federal pension systems in Pakistan.
-
-The Asian Development Bank (ADB) has approved a $500 million loan aimed at supporting Pakistan's federal pension reforms. The funding is intended to help overhaul the existing pension structure and ensure fiscal sustainability within the country's public finances.
-
-ایشین ڈویلپمنٹ بینک (اے ڈی بی) نے پاکستان میں وفاقی پینشن اصلاحات کی حمایت کے لیے 50- ملین ڈالر کے قرض کی منظوری دے دی ہے۔ اس فنڈنگ کا مقصد پینشن کے نظام میں اصلاحات لانا اور ملکی مالیات کے استحکام کو یقینی بنانا ہے۔
-
-First reported by ARYnews.tv; also reported by Dawn Pakistan and TechJuice.
-
-#ADB #PakistanEconomy #PensionReforms #Finance #EconomicReform
-```
-
-### PTI Leaders Taimur Jhagra and Kamran Bangash Arrested in Peshawar  [NORMAL]
-- Poster: پشاور میں پی ٹی آئی رہنما تیمور جھگڑا اور کامران بنگش گرفتار / PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar | category politics
-- Alternative headline: Police Detain PTI's Taimur Jhagra and Kamran Bangash in Peshawar
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxON2VlWFBKekF6VmhWSExUa1c4dzVESTY3U2U5X1ZXa1dPaGhUTXpwTGVjOHVXOTUwOTZBN1dvcWg3LUstMjVWd3JfYzFPUVgxaGlSOHRWM0lrSW5GUy1pVmNPaUM2Rlg0NkFHV05RNVhZTVBXQnppaTVRZEdRWHNlaFVSOUxMZWpTNHBxMmNHOFBNYk5nQnpubQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxON2VlWFBKekF6VmhWSExUa1c4dzVESTY3U2U5X1ZXa1dPaGhUTXpwTGVjOHVXOTUwOTZBN1dvcWg3LUstMjVWd3JfYzFPUVgxaGlSOHRWM0lrSW5GUy1pVmNPaUM2Rlg0NkFHV05RNVhZTVBXQnppaTVRZEdRWHNlaFVSOUxMZWpTNHBxMmNHOFBNYk5nQnpubQ?oc=5
-- Supporting coverage: samaa tv, Geo News, Geo News, ARY News, The Express Tribune
-- Keywords: PTI arrest, Taimur Jhagra, Kamran Bangash, Peshawar, police, politics | hashtags: #PTI #Peshawar #TaimurJhagra #KamranBangash #PakistanPolitics
-- Scheduled: Tue 17 Nov, 09:50 PM PKT
-- Caption:
-```
-Several Pakistan Tehreek-e-Insaf leaders, including Taimur Jhagra and Kamran Bangash, have been taken into custody in Peshawar.
-
-PTI leaders Taimur Jhagra and Kamran Bangash were arrested in Peshawar. The detentions come amidst ongoing legal challenges and police actions involving party figures in connection with previous protests and investigations.
-
-پی ٹی آئی کے رہنماؤں تیمور جھگڑا اور کامران بنگش کو پشاور میں گرفتار کر لیا گیا۔ یہ گرفتاریاں مختلف قانونی چیلنجز اور ماضی کے مقدمات کے سلسلے میں کی گئی ہیں۔
-
-First reported by samaa tv; also reported by Geo News and ARY News.
-
-#PTI #Peshawar #TaimurJhagra #KamranBangash #PakistanPolitics
-```
-
-### ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Rates  [NORMAL]
-- Poster: آئی سی سی کا پاکستان اور سری لنکا پر سلو اوور ریٹ پر جرمانہ / ICC fines Pakistan and Sri Lanka for slow over-rates | category sports
-- Alternative headline: Pakistan and Sri Lanka Penalized by ICC Over Slow Over-Rates in First Test
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2FoRk1uS2NLZGJJUFhlM2lrNU1sRTN0TWlIanNscFIxeUtWcWFWZnpSMFJkTjlLdDI5T2d6bVY2bXgyVW1jOFA3VG1YcUtrYmE4bnlUblhMUThCOUJweHI4SkdBbWVEN1Q3OUlTUHFIZEpCLVpPWmxqZGJ0cEZGTmh2Yk9WZzUyX2I0Vy1OUGdSV3pjMGc3X1U2dm5YZTg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2FoRk1uS2NLZGJJUFhlM2lrNU1sRTN0TWlIanNscFIxeUtWcWFWZnpSMFJkTjlLdDI5T2d6bVY2bXgyVW1jOFA3VG1YcUtrYmE4bnlUblhMUThCOUJweHI4SkdBbWVEN1Q3OUlTUHFIZEpCLVpPWmxqZGJ0cEZGTmh2Yk9WZzUyX2I0Vy1OUGdSV3pjMGc3X1U2dm5YZTg?oc=5
-- Supporting coverage: samaa tv, samaa tv, Geo News, Geo News, Dawn, Dawn Latest
-- Keywords: ICC penalty, slow over-rates, Pakistan vs Sri Lanka, WTC points, cricket, ICC | hashtags: #ICC #WTC27 #PAKvSL #Cricket #SportsNews
-- Scheduled: Tue 17 Nov, 10:00 PM PKT
-- Caption:
-```
-Both Pakistan and Sri Lanka have faced sanctions from the International Cricket Council following the conclusion of their first Test.
-
-The International Cricket Council (ICC) has fined Pakistan and Sri Lanka and docked World Test Championship points for maintaining slow over-rates during their recent first Test encounter.
-
-انٹرنیشنل کرکٹ کونسل (آئی سی سی) نے پہلے ٹیسٹ میچ کے دوران سلو اوور ریٹ رکھنے پر پاکستان اور سری لنکا پر جرمانہ عائد کرتے ہوئے ورلڈ ٹیسٹ چیمپئن شپ کے پوائنٹس بھی کم کر دیے ہیں۔
-
-First reported by samaa tv; also reported by Geo News, Dawn, and ProPakistani.
-
-#ICC #WTC27 #PAKvSL #Cricket #SportsNews
-```
-
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 12 items
 
 ## Today
-- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 3
+- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 2
 
 ## Queue status
-- [published] breaking | Army officer, soldier martyred and 8 terrorists killed in Balochistan  | Sat 14 Nov, 09:43 PM PKT
-- [published] normal | Microsoft fully restores Outlook and Teams after massive global outage | Sat 14 Nov, 09:43 PM PKT
-- [published] breaking | Pakistan Stun Bangladesh to Reach SAFF Final | Sat 14 Nov, 10:20 PM PKT
 - [needs_review] normal | Trump, Xi, Putin Plan Unprecedented Joint Meeting at APEC | Sat 14 Nov, 10:20 PM PKT
 - [published] breaking | Abdul Samad’s late strike sends Pakistan into historic SAFF Championsh | Sat 14 Nov, 10:58 PM PKT
 - [published] high | Pakistan Collects Record Breaking 381 Billion Rupees in Petroleum Levy | Sat 14 Nov, 11:31 PM PKT
@@ -297,25 +199,30 @@ First reported by samaa tv; also reported by Geo News, Dawn, and ProPakistani.
 - [needs_review] normal | Bilawal says system was 'made to collapse' amid debate on 'reset' in P | Tue 17 Nov, 08:43 PM PKT
 - [needs_review] normal | Chinese govt announces 61 scholarships for Pakistani students for 2027 | Tue 17 Nov, 08:53 PM PKT
 - [published] normal | Pakistan's Pace Battery Bundles Sri Lanka Out for 98 in Rawalpindi Tes | Tue 17 Nov, 09:30 PM PKT
-- [queued] normal | Asian Development Bank Approves $500M Loan to Support Pakistan's Pensi | Tue 17 Nov, 09:40 PM PKT
+- [published] normal | Asian Development Bank Approves $500M Loan to Support Pakistan's Pensi | Tue 17 Nov, 09:40 PM PKT
 - [queued] normal | PTI Leaders Taimur Jhagra and Kamran Bangash Arrested in Peshawar | Tue 17 Nov, 09:50 PM PKT
 - [queued] normal | ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Ra | Tue 17 Nov, 10:00 PM PKT
 
 ## Publishing this run
-- Published 'Pakistan's Pace Battery Bundles Sri Lanka Out for 98 in Rawalpindi Test'.
+- Published 'Asian Development Bank Approves $500M Loan to Support Pakistan's Pension Reforms'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 8274 | output tokens: 2564
-- Errors: 3
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"

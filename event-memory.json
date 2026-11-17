@@ -52566,7 +52566,771 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ac5e6c22960a91ab815e878a",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T16:48:06+00:00",
+      "last_update": "2026-11-17T17:01:55+00:00",
+      "event": "Petrol price reduced, diesel rate unchanged in OGRA notification",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "diesel",
+        "notification",
+        "ogra",
+        "petrol",
+        "price",
+        "rate",
+        "reduced",
+        "unchanged"
+      ],
+      "source_excerpt": "Petrol price reduced, diesel rate unchanged in OGRA notification ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNldIT0FvRjZlTHpmWnZCYWtObTZ0ZXptRUNqMmVPZWE3a2NsT0VtVDhfV1JWdXhYZFBEQnZPVDJDekRsSGk0SnJCanFsTHdBNktqVVNKZEY0dWh5eTNNNFl4NEE3aVp1MUwyeDdyazQ5eTFWampneGlpcVdnbk1IeF92R2I3dnBzdkE?oc=5",
+          "published_at": "2026-11-17T16:48:06+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/petrol-price-reduced-diesel-rate-unchanged-in-ogra-notification",
+          "published_at": "2026-11-17T16:48:06+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTI1Y2JiOFJNcjBtVmo2OWN4S3p3dUNjbkhkZGw1QmdsaGM2cHNHQmRVd0JmZEUzdDVLZm42OU1nV004ZGhWYU5sOXI5T2ZFbEd2d2dzb3c0MW1sdVBtWjhIamFneHJ2NHlOUnFGSkF3UThRWjhCdElHUDFRanlITzBGODhTRHVyWVRkTkhCOGFxaVlVUlQtdHMwVW9TN1ljZHFqOXBGb2tfZms?oc=5",
+          "published_at": "2026-11-17T16:51:50+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045206/petrol-price-reduced-by-rs3-per-litre-diesel-remains-unchanged",
+          "published_at": "2026-11-17T16:53:51+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzlEMXFoT25sUjZXUC1GWWp0WXYwR2RlM0dsRzFPSGMwN1Q4S3lOd3ZuVl9abEJodDVrVmtfc3gxc0dJUk8wejdTeWVTdWJ0MElRZVhRT0syVU9xTUpiQlFRQTNvVXhmTU5SRF9pa2RzVnh4aW1vQVVFTXFUWG9VdzNTRjFncmNrcklhX0xXdUs?oc=5",
+          "published_at": "2026-11-17T17:01:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNldIT0FvRjZlTHpmWnZCYWtObTZ0ZXptRUNqMmVPZWE3a2NsT0VtVDhfV1JWdXhYZFBEQnZPVDJDekRsSGk0SnJCanFsTHdBNktqVVNKZEY0dWh5eTNNNFl4NEE3aVp1MUwyeDdyazQ5eTFWampneGlpcVdnbk1IeF92R2I3dnBzdkE?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f3df93d9f984e3169a42d1d7",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T14:54:00+00:00",
+      "last_update": "2026-11-17T17:37:04+00:00",
+      "event": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "49th",
+        "afptrump",
+        "asian",
+        "association",
+        "bomb",
+        "detonate",
+        "dinner",
+        "dirty",
+        "disperses",
+        "donald",
+        "during",
+        "iran",
+        "iranian",
+        "manila",
+        "material",
+        "nations",
+        "november",
+        "official",
+        "pay",
+        "plans",
+        "plot",
+        "possible",
+        "president",
+        "price",
+        "radioactive",
+        "report",
+        "says",
+        "seriously",
+        "southeast",
+        "speaks",
+        "summit",
+        "taking",
+        "tehran",
+        "the",
+        "trump",
+        "washington",
+        "will"
+      ],
+      "source_excerpt": "US President Donald Trump speaks during an official dinner at the 49th Association of Southeast Asian Nations Summit in Manila on November 17, 2026. — AFPTrump says Tehran will pay the price.Dirty bomb disperses radioactive material.Iran plans to detonate dirty bomb in US:...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691486-trump-says-us-taking-seriously-report-of-possible-iranian-dirty-bomb-plot-in-washington",
+          "published_at": "2026-11-17T14:54:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckFuTk5IeUtsRWExa2xQN2Jocmg1MVkwQVUzaGN1d0hiVnZ4RGlIdVZKcGZfeV9PMDg2M0xVcHl1SF9HZEsyRXNzcWxTWWVyYkJtQWZ4Vi0yRDRLV2lINzNoTGlKNy1LMnhvSl9FOWp4QlJWU3lnamNJYUxFS1BfaHVjZ2V4dmowZ3drWHBoZXE2cF9ydzV4b0plZ1BCRjJ6OVVQRjZUZUNteG1tRXpITkNjTnBuQzQ0N2JJTQ?oc=5",
+          "published_at": "2026-11-17T14:54:00+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T17:37:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691486-trump-says-us-taking-seriously-report-of-possible-iranian-dirty-bomb-plot-in-washington",
+        "publisher_url": "https://www.geo.tv/latest/691486-trump-says-us-taking-seriously-report-of-possible-iranian-dirty-bomb-plot-in-washington",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d68b236bd6e74f6bac33c5ae",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T12:48:50+00:00",
+      "last_update": "2026-11-17T16:53:30+00:00",
+      "event": "Pakistan’s foreign exchange reserves exceed $18bn target: SBP",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "18bn",
+        "exceed",
+        "exchange",
+        "foreign",
+        "pakistan",
+        "reserves",
+        "samaa",
+        "sbp",
+        "target"
+      ],
+      "source_excerpt": "Pakistan’s foreign exchange reserves exceed $18bn target: SBP samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXVxWThUMDBCZHlOUkNpN2RDX1lSNnhzNFpmRXFyUkdUZE5fOVM0SEQ2Z29TT3BpY0ZFTDFFdURUTWYwcmJhQWVDQWpVcVA2clNUUExhWkk1eEx2TkFxc2xpMU9BNTlWUEwtN0tHWDlLYm9vYUNZMk96WUNYMGpSYkNTNEpDaDBNMUdNdHl0R1FSZUVJU3c?oc=5",
+          "published_at": "2026-11-17T12:48:50+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEZrZURZVWV6TUljMzBDVHkyZVlBT2pxZ2hrc05FU0g5QVZUaV9NNXFBaFk2Q1dtWERmOEZuYTBIZGVHMnNBSjFZMkxkY1VfeU5uLTZuY3RIZ1RoSXBnRWJtdnZuLXRfekY0b0s2Y2paZ0RPcmhISW0wNXdVWXFfaGcxM3BaaVlCR1gyZkVnNXpkQzNIdjZwVGk4SXl5d0lBRlMyNXQ1UFNWNGg1UjItcmtockFpeFhYMmYxelpMeC0wZ0NvREE?oc=5",
+          "published_at": "2026-11-17T16:53:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXVxWThUMDBCZHlOUkNpN2RDX1lSNnhzNFpmRXFyUkdUZE5fOVM0SEQ2Z29TT3BpY0ZFTDFFdURUTWYwcmJhQWVDQWpVcVA2clNUUExhWkk1eEx2TkFxc2xpMU9BNTlWUEwtN0tHWDlLYm9vYUNZMk96WUNYMGpSYkNTNEpDaDBNMUdNdHl0R1FSZUVJU3c?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7820546f5ebbf0077d4bac79",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T17:25:23+00:00",
+      "last_update": "2026-11-17T17:25:23+00:00",
+      "event": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acting",
+        "and",
+        "annual",
+        "awards",
+        "celebrate",
+        "ceremony",
+        "earthshot",
+        "environmental",
+        "for",
+        "joined",
+        "kate",
+        "mumbai",
+        "prince",
+        "princess",
+        "prize",
+        "sporting",
+        "stars",
+        "the",
+        "wales",
+        "were",
+        "william",
+        "winners"
+      ],
+      "source_excerpt": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T17:25:23+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50WmtKSVZncXZnNFJGN1B6WlRhTjdhSl95U2hEX1ZzV1p1UlFHdFd0NkVTcHo5ZE1IUUx4ZFVQWEZGVklLUFVpUjMzM0N6aVIxeHlWMDd4TVhtSFU?oc=5",
+          "published_at": "2026-11-17T17:25:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "264eb4af80b3cb3e5cf0093e",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T15:00:00+00:00",
+      "last_update": "2026-11-17T15:00:00+00:00",
+      "event": "GTA VI release date, time for all countries: Which country will get to play video game first?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "all",
+        "and",
+        "anticipated",
+        "anticipation",
+        "are",
+        "arguably",
+        "auto",
+        "away",
+        "confirmed",
+        "countries",
+        "country",
+        "date",
+        "delays",
+        "enthusiasts",
+        "first",
+        "for",
+        "from",
+        "game",
+        "games",
+        "gaming",
+        "get",
+        "getting",
+        "grand",
+        "gta",
+        "hands",
+        "has",
+        "history",
+        "hours",
+        "just",
+        "launch",
+        "millions",
+        "more",
+        "most",
+        "play",
+        "release",
+        "rockstar",
+        "than",
+        "that",
+        "the",
+        "theft",
+        "their",
+        "thursday",
+        "time",
+        "two",
+        "video",
+        "which",
+        "will",
+        "years"
+      ],
+      "source_excerpt": "After more than 13 years of anticipation and two delays, millions of gaming enthusiasts are just hours away from getting their hands on arguably the most anticipated video game in history, Grand Theft Auto VI . Rockstar Games has confirmed that GTA VI will launch on Thursday,...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691492-gta-vi-release-date-time-for-all-countries-which-country-will-get-to-play-video-game-first",
+          "published_at": "2026-11-17T15:00:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1hGMTNKS2FuRTJGcngxTWpENkVFYll5S0lCNEhrdUtKLVlVNUtIV3BjZXd0aS1GYkNyVjRRVUpfMlJVcG1FSjVGTE9PZWV6bXJXMXNEcDJ4c09kekpYaE1CcmxEWGtMNVU0Zk1GandoR0QzSlhPbWdXUENZbXdBYlpoZFU0Y3A3aHY1cmtyMkZrOWwyZU5JczRPNDR2UnhQMGVESzRmTVFFUjg0ZHh5TGd1d3lXSl9RdFBpNHdIVUQ?oc=5",
+          "published_at": "2026-11-17T15:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691492-gta-vi-release-date-time-for-all-countries-which-country-will-get-to-play-video-game-first",
+        "publisher_url": "https://www.geo.tv/latest/691492-gta-vi-release-date-time-for-all-countries-which-country-will-get-to-play-video-game-first",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "747d1e4af2713fa7c6117d95",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T17:34:27+00:00",
+      "last_update": "2026-11-17T17:34:27+00:00",
+      "event": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ali",
+        "amid",
+        "baniyas",
+        "beyond",
+        "expected",
+        "explore",
+        "heads",
+        "hormuz",
+        "include",
+        "iraqi",
+        "kirkuk",
+        "lebanon",
+        "linking",
+        "oil",
+        "pipeline",
+        "project",
+        "proposed",
+        "push",
+        "routes",
+        "talks",
+        "tripoli",
+        "zaidi"
+      ],
+      "source_excerpt": "Ali al-Zaidi's talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+          "published_at": "2026-11-17T17:34:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5cefa8a0cd67f63918cb5648",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T17:33:18+00:00",
+      "last_update": "2026-11-17T17:33:18+00:00",
+      "event": "Religious ruling revives memories in Israel of Rabin assassination",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assassination",
+        "far",
+        "fears",
+        "fuels",
+        "government",
+        "hostility",
+        "israel",
+        "memories",
+        "palestinian",
+        "participation",
+        "political",
+        "rabin",
+        "religious",
+        "revives",
+        "right",
+        "ruling",
+        "towards",
+        "violence"
+      ],
+      "source_excerpt": "Hostility towards Palestinian participation in Israel's government fuels fears of far-right political violence.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
+          "published_at": "2026-11-17T17:33:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "384f8c3c22cf2005e9682c60",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T17:09:49+00:00",
+      "last_update": "2026-11-17T17:09:49+00:00",
+      "event": "CAIR defends civil rights work against Trump’s ‘smear’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "address",
+        "advocacy",
+        "against",
+        "cair",
+        "civil",
+        "country",
+        "crimes",
+        "defends",
+        "group",
+        "hate",
+        "largest",
+        "muslim",
+        "muslims",
+        "rights",
+        "rising",
+        "smear",
+        "the",
+        "trump",
+        "urges",
+        "work"
+      ],
+      "source_excerpt": "The country's largest Muslim advocacy group urges Trump to address rising hate crimes against Muslims.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
+          "published_at": "2026-11-17T17:09:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a643096d3e32d4db3caf46ae",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T16:53:25+00:00",
+      "last_update": "2026-11-17T16:53:25+00:00",
+      "event": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activities",
+        "advances",
+        "and",
+        "approves",
+        "designating",
+        "financing",
+        "group",
+        "houthis",
+        "law",
+        "make",
+        "parliament",
+        "southwestern",
+        "targets",
+        "terrorists",
+        "the",
+        "yemen",
+        "yemeni"
+      ],
+      "source_excerpt": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+          "published_at": "2026-11-17T16:53:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8dc214490129f12df69349ad",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T16:39:01+00:00",
+      "last_update": "2026-11-17T16:39:01+00:00",
+      "event": "Photos: Tens of thousands rally in France over living standards and wages",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "concerns",
+        "france",
+        "highlight",
+        "its",
+        "living",
+        "major",
+        "over",
+        "photos",
+        "protests",
+        "public",
+        "rally",
+        "sector",
+        "september",
+        "service",
+        "since",
+        "standards",
+        "strike",
+        "tens",
+        "third",
+        "thousands",
+        "wage",
+        "wages",
+        "witnesses"
+      ],
+      "source_excerpt": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+          "published_at": "2026-11-17T16:39:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2738b50c77462b8358e667ae",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T16:38:28+00:00",
+      "last_update": "2026-11-17T16:38:28+00:00",
+      "event": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "cancel",
+        "cancellation",
+        "cofnas",
+        "demand",
+        "demands",
+        "invitation",
+        "more",
+        "nathan",
+        "online",
+        "oxford",
+        "petition",
+        "signatures",
+        "speak",
+        "talk",
+        "than",
+        "the",
+        "thousands",
+        "university",
+        "with"
+      ],
+      "source_excerpt": "Online petition with more than 32,000 signatures demands the university 'cancel Nathan Cofnas's invitation to speak'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/thousands-demand-cancellation-of-nathan-cofnas-talk-at-oxford-university?traffic_source=rss",
+          "published_at": "2026-11-17T16:38:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/thousands-demand-cancellation-of-nathan-cofnas-talk-at-oxford-university?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/thousands-demand-cancellation-of-nathan-cofnas-talk-at-oxford-university?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "215b106df0604440d1861405",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T17:26:26+00:00",
+      "last_update": "2026-11-17T17:26:26+00:00",
+      "event": "Woman's blocked nose led to nasal spray addiction",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "addiction",
+        "blocked",
+        "decongestant",
+        "dependence",
+        "feeling",
+        "gough",
+        "her",
+        "led",
+        "left",
+        "like",
+        "louise",
+        "nasal",
+        "nose",
+        "prisoner",
+        "says",
+        "spray",
+        "sprays",
+        "woman"
+      ],
+      "source_excerpt": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cm9q87qeq3l1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T17:26:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cm9q87qeq3l1o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cm9q87qeq3l1o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "07e7ff92e4214d7fefa84e15",
+      "remembered_at": "2026-11-17T17:40:56.085400+00:00",
+      "event_date": "2026-11-17T17:19:56+00:00",
+      "last_update": "2026-11-17T17:19:56+00:00",
+      "event": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "board",
+        "boss",
+        "calling",
+        "calls",
+        "comeback",
+        "for",
+        "from",
+        "had",
+        "has",
+        "him",
+        "huang",
+        "investors",
+        "jensen",
+        "nvidia",
+        "others",
+        "outpouring",
+        "pressure",
+        "pushes",
+        "reinstate",
+        "rejects",
+        "return",
+        "says"
+      ],
+      "source_excerpt": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T17:19:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T16:30:24.134229+00:00"
+  "updated_at": "2026-11-17T17:40:56.085400+00:00"
 }
