@@ -1911,6 +1911,7 @@ def main():
     # Legacy English-only queue rows are quarantined, then their source clusters are
     # made eligible for fresh Urdu-first writing instead of being silently stranded.
     legacy_urdu_requeue_ids = set()
+    legacy_urdu_requeue_tokens = []
     for row in queue["items"]:
         if not isinstance(row, dict):
             print("[queue] discarded malformed non-object record")
@@ -1950,6 +1951,8 @@ def main():
             row["review_reason"] = "Legacy English-only poster quarantined: Urdu-script headline is missing; regenerate before publishing."
             if row.get("qid"):
                 legacy_urdu_requeue_ids.add(str(row["qid"]))
+            if isinstance(row.get("tokens"), list) and row["tokens"]:
+                legacy_urdu_requeue_tokens.append(frozenset(str(token) for token in row["tokens"]))
         if row.get("status") == "published" and not (
             isinstance(row.get("published"), dict) and valid_timestamp(row["published"].get("time"))
         ):
@@ -1994,7 +1997,11 @@ def main():
         hist = history[hi] if hi is not None else None
         # Keep every quarantined legacy story eligible across multiple refill cycles;
         # only the selected/enqueued subset is marked analysed again below.
-        if hist is not None and c.get("id") in legacy_urdu_requeue_ids:
+        legacy_requeue_match = (
+            c.get("id") in legacy_urdu_requeue_ids
+            or any(ed.sim(c["tokens"], old_tokens) >= 0.50 for old_tokens in legacy_urdu_requeue_tokens)
+        )
+        if hist is not None and legacy_requeue_match:
             hist["analysed_n"] = None
         c["sig"] = ed.trend_signals(c, trends, hist, t0)
         # Cross-run deduplication: match canonical article URLs first, then story-token similarity.
@@ -2012,7 +2019,7 @@ def main():
         if duplicate:
             dups += 1
             print(f"[priority] P5 DUPLICATE — excluded: {c['title'][:90]}")
-        elif hist and hist.get("analysed_n") is not None and c.get("id") not in legacy_urdu_requeue_ids and c["n_sources"] < hist["analysed_n"] + 2:
+        elif hist and hist.get("analysed_n") is not None and not legacy_requeue_match and c["n_sources"] < hist["analysed_n"] + 2:
             unchanged += 1
         else:
             candidates.append(c)
