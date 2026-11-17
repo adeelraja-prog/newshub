@@ -51839,7 +51839,734 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "439c6c6d951d8da44c644ef7",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T08:47:13+00:00",
+      "last_update": "2026-11-17T16:15:11+00:00",
+      "event": "Pakistan's fast bowling masterclass bundles Sri Lanka out for 98 in second Test",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bowlers",
+        "bowling",
+        "building",
+        "bundles",
+        "chance",
+        "competitive",
+        "cricket",
+        "day",
+        "devastating",
+        "dismiss",
+        "display",
+        "exploiting",
+        "fast",
+        "for",
+        "just",
+        "lanka",
+        "leave",
+        "little",
+        "masterclass",
+        "movement",
+        "offer",
+        "opening",
+        "out",
+        "overs",
+        "pakistan",
+        "produced",
+        "rawalpindi",
+        "second",
+        "sri",
+        "stadium",
+        "test",
+        "the",
+        "total",
+        "tuesday",
+        "visitors",
+        "with"
+      ],
+      "source_excerpt": "Pakistan’s fast bowlers produced a devastating display to dismiss Sri Lanka for just 98 in 35.3 overs on the opening day of the second Test at the Rawalpindi Cricket Stadium on Tuesday, exploiting the movement on offer to leave the visitors with little chance of building a competitive total. After w",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045154/pakistans-fast-bowling-masterclass-bundles-sri-lanka-out-for-98-in-second-test",
+          "published_at": "2026-11-17T08:47:13+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/2nd-test-pakistan-bowl-out-sri-lanka-for-98/",
+          "published_at": "2026-11-17T09:16:37+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-dismiss-sri-lanka-for-98-in-second-test",
+          "published_at": "2026-11-17T09:18:32+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/17/pakistan-dismantles-sri-lanka-under-100-on-opening-day-of-second-test/",
+          "published_at": "2026-11-17T09:41:11+00:00"
+        },
+        {
+          "name": "Jagonews24",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10Q1B4YmV1MVUxTnlBZG4yWUpmWnpFMFFTZG5acG1pY1RkaEZKd1Bra05qbTg5ajZyUkwyYWI1UllwRFFmOUNubmROZUplU2tHaWJ0a3A0ejBhcDg?oc=5",
+          "published_at": "2026-11-17T10:03:11+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qT0dCdk92c3lxVFhFQ3ZKRkRSUWlCOGtfYlVkYnBxeC1oZEJRTVFDM05DaVFYT09zWkp4OFRLcEJsNmdQck5MVg?oc=5",
+          "published_at": "2026-11-17T10:34:19+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045154/pakistans-pace-trio-routs-sri-lanka-for-98-before-openers-take-control-in-second-test",
+          "published_at": "2026-11-17T10:34:19+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQk1xb18tckVJVkM2cnBRcktwOUlOVFROa21uMUJRRV9neV9yQ1d2TU1udzNfQUN2X0hHamFwLWNxV1M2NHlmX2ZycmE3QVZOZF82cWtJcmh5MzU2Q0piNnBwRnphMEtTVjcwTzcwNENFMmM1bVJSeVo2ekN1TUxDYU1yTmFEZDZuaTk3bE1pMUFURkY2bkJfUml2aEg?oc=5",
+          "published_at": "2026-11-17T11:56:31+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045154/pakistans-pace-trio-routs-sri-lanka-for-98-before-hosts-take-control",
+          "published_at": "2026-11-17T16:15:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045154/pakistans-fast-bowling-masterclass-bundles-sri-lanka-out-for-98-in-second-test",
+        "publisher_url": "https://www.dawn.com/news/2045154/pakistans-fast-bowling-masterclass-bundles-sri-lanka-out-for-98-in-second-test",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6aa6997dbb719429b993a65f",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T11:00:00+00:00",
+      "last_update": "2026-11-17T15:13:57+00:00",
+      "event": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "attack",
+        "bomb",
+        "cnn",
+        "dirty",
+        "donald",
+        "iran",
+        "over",
+        "plans",
+        "president",
+        "report",
+        "reported",
+        "responded",
+        "that",
+        "threat",
+        "trump",
+        "warns",
+        "was",
+        "washington",
+        "working"
+      ],
+      "source_excerpt": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
+      "sources": [
+        {
+          "name": "Time Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlJVRVRIRG9Ja3F0THhhR2FqOGc3RExuN0dZcnB3X1YxUDFTVDRtSkc3TWt6cDh4Z09zWU5Fd0N3TEVzMHhnNzFmSV8xYkdKZHdjdVJZOEZJbXdXS013QkZVSkJvN2NiQTBNbVhDRV9jV0p0Y3drMS1EZ3RhSngyMFNYMzRLT0J0VnlNaWdLZ1BzOXZGRW05b1Q1YmwzTklEazhwMzJjNVlWSVM4QlFCWGNkWQ?oc=5",
+          "published_at": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+          "published_at": "2026-11-17T15:13:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3e11963e0fd716ec836c2c34",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T13:05:56+00:00",
+      "last_update": "2026-11-17T15:34:38+00:00",
+      "event": "Electricity prices likely to rise across Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "electricity",
+        "likely",
+        "pakistan",
+        "prices",
+        "rise"
+      ],
+      "source_excerpt": "Electricity prices likely to rise across Pakistan",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/electricity-prices-likely-to-rise-across-pakistan",
+          "published_at": "2026-11-17T13:05:56+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWJOOC1tR1BzT0gwSUFIZWw1VHRIN1R6bVVTODNmMkd5VGJ5Q3Uyekx4bmxqWVliQnotVXpMc2ItNlY5cUlPZWZuaFJqZnhEaC1SakM1akpTcDh4OTRTTnpFQ2pvSE9KVUhmQ2NYcHczSVN2RkEyTThZLTlKUWJwT3huM0NGUUtaMkt2a2QzR3BDeGdIZUprQ205TzVIWGpjLU9MRzN2bjdKMGcxaWc?oc=5",
+          "published_at": "2026-11-17T15:34:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/electricity-prices-likely-to-rise-across-pakistan",
+        "publisher_url": "https://arynews.tv/electricity-prices-likely-to-rise-across-pakistan",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4a1be3c15ededa420f8dcb85",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T13:21:40+00:00",
+      "last_update": "2026-11-17T16:13:48+00:00",
+      "event": "Pakistan to soon get in-flight telecommunication services",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "flight",
+        "get",
+        "pakistan",
+        "services",
+        "soon",
+        "telecommunication"
+      ],
+      "source_excerpt": "Pakistan to soon get in-flight telecommunication services",
+      "sources": [
+        {
+          "name": "PhoneWorld",
+          "url": "https://www.phoneworld.com.pk/pta-advances-digital-connectivity-with-finalization-of-licensing-framework-for-satellite-based-in-flight-telecommunication-services/",
+          "published_at": "2026-11-17T13:21:40+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-to-soon-get-in-flight-telecommunication-services",
+          "published_at": "2026-11-17T16:13:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-to-soon-get-in-flight-telecommunication-services",
+        "publisher_url": "https://arynews.tv/pakistan-to-soon-get-in-flight-telecommunication-services",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4026d8c2ed7c19cfe0133ea9",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T16:07:53+00:00",
+      "last_update": "2026-11-17T16:26:22+00:00",
+      "event": "US officially loses measles-free status after 26 years amid outbreak",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2000",
+        "after",
+        "amid",
+        "decades",
+        "declared",
+        "endemic",
+        "first",
+        "for",
+        "free",
+        "health",
+        "loses",
+        "major",
+        "measles",
+        "officially",
+        "organisation",
+        "outbreak",
+        "progress",
+        "reversing",
+        "since",
+        "status",
+        "time",
+        "years"
+      ],
+      "source_excerpt": "A major health organisation declared measles endemic in US for first time since 2000, reversing decades of progress.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss",
+          "published_at": "2026-11-17T16:07:53+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T16:26:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b7d59c3968d242a1f60f9166",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T08:37:30+00:00",
+      "last_update": "2026-11-17T11:35:15+00:00",
+      "event": "Vance calls out ‘neoconservatives’ over Iran war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "calls",
+        "iran",
+        "jazeera",
+        "neoconservatives",
+        "out",
+        "over",
+        "vance",
+        "war"
+      ],
+      "source_excerpt": "Vance calls out ‘neoconservatives’ over Iran war Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWMxODJsaWJrazQtWnpjZ0RvV2RFM1QwZW9iSzliX1VubWFHa2ROd3NxaDk0TEpGaUxkZHAya0V0RXhib0xkVXhSQjBqdzQtRkJKZUZVQmFtMkpzaGMydjFBMEpaU3Y4SGVkR3hmRjR1X1ZudE91eVYtOGpfVUxpS0E4LUJ1NWlLd1FSZVVQbjVpekFMZUtlcDRUeGF5MTTSAaQBQVVfeXFMTjFoRUx0OGpzdzdnYUNDQ1FBV2Z1NmkyNUozeXpBVFFjRkdyVFNJWUV0YkFOS3RSU1ItZFRuT0g0UzgxX2lUb3JzYm9FNGo5emsxaTFYUGVpRC1SOTBPVnlCaG9LS0tiekZ2SjVteTJIRzhQVmxOVXl2XzFrWnRVcXgtRTQyb0JSc3BwZkItOTBLUkdsNmNfTXB0SHpmdDc2QWI1amw?oc=5",
+          "published_at": "2026-11-17T08:37:30+00:00"
+        },
+        {
+          "name": "سانا",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6X2FSNFhrRjVqWU5ZbVROZjdzR2NGWFo2bXYyajltMFdzVkdPal9CV3BSWDBCVU43ajZKeGpka1BmU0tQTF9jSFliN0dwNzB5QU5J?oc=5",
+          "published_at": "2026-11-17T11:35:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWMxODJsaWJrazQtWnpjZ0RvV2RFM1QwZW9iSzliX1VubWFHa2ROd3NxaDk0TEpGaUxkZHAya0V0RXhib0xkVXhSQjBqdzQtRkJKZUZVQmFtMkpzaGMydjFBMEpaU3Y4SGVkR3hmRjR1X1ZudE91eVYtOGpfVUxpS0E4LUJ1NWlLd1FSZVVQbjVpekFMZUtlcDRUeGF5MTTSAaQBQVVfeXFMTjFoRUx0OGpzdzdnYUNDQ1FBV2Z1NmkyNUozeXpBVFFjRkdyVFNJWUV0YkFOS3RSU1ItZFRuT0g0UzgxX2lUb3JzYm9FNGo5emsxaTFYUGVpRC1SOTBPVnlCaG9LS0tiekZ2SjVteTJIRzhQVmxOVXl2XzFrWnRVcXgtRTQyb0JSc3BwZkItOTBLUkdsNmNfTXB0SHpmdDc2QWI1amw?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5bf65ae9b6eb83d5cf892f20",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T16:13:48+00:00",
+      "last_update": "2026-11-17T16:13:48+00:00",
+      "event": "Election-winning student movement enters Serbia’s new parliament",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "election",
+        "enters",
+        "first",
+        "for",
+        "hail",
+        "hundreds",
+        "lawmakers",
+        "list",
+        "meets",
+        "movement",
+        "new",
+        "parliament",
+        "serbia",
+        "student",
+        "the",
+        "time",
+        "winning"
+      ],
+      "source_excerpt": "Hundreds hail Student List lawmakers as the new parliament meets for the first time.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
+          "published_at": "2026-11-17T16:13:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "71e72c1ed69154073ca81877",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T15:59:41+00:00",
+      "last_update": "2026-11-17T15:59:41+00:00",
+      "event": "Trump announces critical minerals agreements at Quad meeting in Manila",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreements",
+        "announces",
+        "any",
+        "coercion",
+        "critical",
+        "deals",
+        "foreign",
+        "manila",
+        "meeting",
+        "minerals",
+        "president",
+        "prevent",
+        "quad",
+        "says",
+        "single",
+        "supplier",
+        "the",
+        "trump",
+        "will"
+      ],
+      "source_excerpt": "US President Trump says the deals will prevent 'coercion by any single foreign supplier'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss",
+          "published_at": "2026-11-17T15:59:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "92d54ffe3a0ba4db2ec04737",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T15:49:11+00:00",
+      "last_update": "2026-11-17T15:49:11+00:00",
+      "event": "Jerusalem Daily: Deadly settler pogroms persist",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arab",
+        "daily",
+        "deadly",
+        "israel",
+        "jericho",
+        "jerusalem",
+        "killed",
+        "mps",
+        "near",
+        "netanyahu",
+        "palestinian",
+        "persist",
+        "pogroms",
+        "probe",
+        "seek",
+        "settler",
+        "shooting",
+        "was",
+        "while",
+        "woman"
+      ],
+      "source_excerpt": "A Palestinian woman was killed in a settler shooting near Jericho, while Arab MPs in Israel seek Netanyahu probe.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
+          "published_at": "2026-11-17T15:49:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "818ade215590889cb3d75a17",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T15:46:45+00:00",
+      "last_update": "2026-11-17T15:46:45+00:00",
+      "event": "Serbian actress and former MP doused with yoghurt outside parliament",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actress",
+        "and",
+        "backing",
+        "doused",
+        "former",
+        "had",
+        "her",
+        "lidija",
+        "outside",
+        "over",
+        "parliament",
+        "party",
+        "poured",
+        "ruling",
+        "serbian",
+        "sns",
+        "the",
+        "vukicevic",
+        "who",
+        "with",
+        "yoghurt"
+      ],
+      "source_excerpt": "Serbian actress and former MP Lidija Vukicevic, who is backing the ruling SNS party, had yoghurt poured over her as.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/serbian-actress-and-former-mp-doused-with-yoghurt-outside-parliament?traffic_source=rss",
+          "published_at": "2026-11-17T15:46:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/serbian-actress-and-former-mp-doused-with-yoghurt-outside-parliament?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/serbian-actress-and-former-mp-doused-with-yoghurt-outside-parliament?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8050b5eaf0df57b38ff9527e",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T15:26:55+00:00",
+      "last_update": "2026-11-17T15:26:55+00:00",
+      "event": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aden",
+        "advance",
+        "against",
+        "arabia",
+        "command",
+        "defend",
+        "houthi",
+        "houthis",
+        "its",
+        "may",
+        "military",
+        "power",
+        "regain",
+        "reshuffles",
+        "resurgence",
+        "saudi",
+        "separatists",
+        "southern",
+        "spur",
+        "try",
+        "yemen"
+      ],
+      "source_excerpt": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
+          "published_at": "2026-11-17T15:26:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "06bb34ef1b02d95b67abc6af",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T15:17:49+00:00",
+      "last_update": "2026-11-17T15:17:49+00:00",
+      "event": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "american",
+        "auto",
+        "automakers",
+        "but",
+        "canada",
+        "canadian",
+        "carney",
+        "china",
+        "chinese",
+        "could",
+        "easy",
+        "embattled",
+        "eyes",
+        "for",
+        "has",
+        "not",
+        "ones",
+        "options",
+        "other",
+        "replace",
+        "say",
+        "sector",
+        "some",
+        "suggested",
+        "that",
+        "the",
+        "trip",
+        "would"
+      ],
+      "source_excerpt": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T15:17:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0055be9cd33eb7777460b9e9",
+      "remembered_at": "2026-11-17T16:30:24.134229+00:00",
+      "event_date": "2026-11-17T15:54:15+00:00",
+      "last_update": "2026-11-17T15:54:15+00:00",
+      "event": "BBC reports from Kyiv bridge hit by Russian attack",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "bbc",
+        "bridge",
+        "from",
+        "hit",
+        "kyiv",
+        "reports",
+        "russian"
+      ],
+      "source_excerpt": "BBC reports from Kyiv bridge hit by Russian attack BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zM01OVnFZdTNJQkdwMmllNmdhNkdFNUN6VFJXUElqa1k4OHlhY1lSZHpJb2NOWGo3a2s5aENaVDhoT2JScXNOOVExcHlBSkpoeUd5QVJXajc?oc=5",
+          "published_at": "2026-11-17T15:54:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zM01OVnFZdTNJQkdwMmllNmdhNkdFNUN6VFJXUElqa1k4OHlhY1lSZHpJb2NOWGo3a2s5aENaVDhoT2JScXNOOVExcHlBSkpoeUd5QVJXajc?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T15:23:56.357499+00:00"
+  "updated_at": "2026-11-17T16:30:24.134229+00:00"
 }
