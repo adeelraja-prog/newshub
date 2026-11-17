@@ -1,144 +1,139 @@
-# News Hub report - Tue 17 Nov, 11:21 AM PKT
+# News Hub report - Tue 17 Nov, 12:50 PM PKT
 
 ## Collection
-- New items this run: 76 | items in rolling pool: 292
-- Unique story clusters: 223 (duplicates merged: 69)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 9
-- Items per outlet: Wired 11, Dawn 8, ARY News 8, Dawn Pakistan 6, Dawn Latest 5, Al Jazeera 5, Geo News 4, The Express Tribune 3, ProPakistani 3, Profit by Pakistan Today 3, The News International 2, BBC World 2
+- New items this run: 148 | items in rolling pool: 408
+- Unique story clusters: 335 (duplicates merged: 73)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 74, Geo News 10, ProPakistani 10, Dawn Latest 7, TechJuice 7, samaa tv 5, Al Jazeera 5, The Current 5, The Express Tribune 4, Dunya News 4, ARY News 4, Dawn 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Two major Kyiv bridges hit in Russian attack, mayor says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two held for Rs5m UK work visa fraud | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man found murdered in farmhouse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's pacers rattle Sri Lanka top order in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pirwadhai bus stand revenue rises to Rs140m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan appoints Shane Deitz as women’s cricket team head coach | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Handcuffed suspect injured in ‘encounter’ in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Palestine Weekly: Israel’s political reshuffle as the occupation grinds on | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Two major Kyiv bridges hit in Russian attack, mayor says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two held for Rs5m UK work visa fraud | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man found murdered in farmhouse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's pacers rattle Sri Lanka top order in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pirwadhai bus stand revenue rises to Rs140m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan appoints Shane Deitz as women’s cricket team head coach | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Handcuffed suspect injured in ‘encounter’ in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Palestine Weekly: Israel’s political reshuffle as the occupation grinds on | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Two major Kyiv bridges hit in Russian attack, mayor says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two held for Rs5m UK work visa fraud | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man found murdered in farmhouse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's pacers rattle Sri Lanka top order in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pirwadhai bus stand revenue rises to Rs140m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan appoints Shane Deitz as women’s cricket team head coach | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Handcuffed suspect injured in ‘encounter’ in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Palestine Weekly: Israel’s political reshuffle as the occupation grinds on | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 81/107 | empty: 2 | failed: 24 | malformed/partial: 24
+- Overall feeds with entries: 73/107 | empty: 4 | failed: 30 | malformed/partial: 30
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Political Crisis Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Pakistan National Politics | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Parliament and Constitution Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Rights and Accountability Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Two major Kyiv bridges hit in Russian attack, mayor says  [NORMAL]
-- Poster:  / Two major Kyiv bridges hit in Russian attack, mayor says | category other
-- Alternative headline: Two major Kyiv bridges hit in Russian attack, mayor says
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+### Breaking News, World News and Video from Al Jazeera  [BREAKING]
+- Poster:  / Breaking News, World News and Video from Al Jazeera | category other
+- Alternative headline: Breaking News, World News and Video from Al Jazeera
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 95, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: France 24, DW.com, BBC World
-- Keywords: Two major Kyiv bridges hit | hashtags: 
-- Scheduled: Tue 17 Nov, 11:21 AM PKT
+- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMiP0FVX3lxTFBPd3h6VGM0TDlnQTJRaHcwMHkxaG5HcFFUY08yOEpFQ3FjZHB3b3h1bGlwSnRkT3k5SXZORXhjYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMiP0FVX3lxTFBPd3h6VGM0TDlnQTJRaHcwMHkxaG5HcFFUY08yOEpFQ3FjZHB3b3h1bGlwSnRkT3k5SXZORXhjYw?oc=5
+- Supporting coverage: Al Jazeera
+- Keywords: Breaking News, World News and | hashtags: 
+- Scheduled: Tue 17 Nov, 12:50 PM PKT
 - Caption:
 ```
-Two major Kyiv bridges hit in Russian attack, mayor says
+Breaking News, World News and Video from Al Jazeera
 
-The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.
+Breaking News, World News and Video from Al Jazeera Al Jazeera
 
-Source: BBC World
+Source: Al Jazeera
 ```
 
-### Two held for Rs5m UK work visa fraud  [NORMAL]
-- Poster:  / Two held for Rs5m UK work visa fraud | category other
-- Alternative headline: Two held for Rs5m UK work visa fraud
+### Pakistan appoints Shane Deitz as women’s cricket team head coach  [NORMAL]
+- Poster:  / Pakistan appoints Shane Deitz as women’s cricket team head coach | category other
+- Alternative headline: Pakistan appoints Shane Deitz as women’s cricket team head coach
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1oZk5JV3JzemRxcFdqcUNBcGxMTzR2WG80RUV6bFR5M2kxQngxRk5GOWV4QjZzR0Q3bm1ocE0xQ0w1OEw0UElnN2lXRlkwa0VCRjE2NjFncmhNT244ZGtTVGNZbncyM1hkTFRaQXFYQ0piLVVyaExQNGJB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1oZk5JV3JzemRxcFdqcUNBcGxMTzR2WG80RUV6bFR5M2kxQngxRk5GOWV4QjZzR0Q3bm1ocE0xQ0w1OEw0UElnN2lXRlkwa0VCRjE2NjFncmhNT244ZGtTVGNZbncyM1hkTFRaQXFYQ0piLVVyaExQNGJB?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Two held for Rs5m UK | hashtags: 
-- Scheduled: Tue 17 Nov, 11:31 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXVQU3pMTVg1UWVJaEg0Q2l5bWVWTXFobmxVXzQwaWh2aVJEMDlDYkVsMWg3eEJTTXdEYmZmSG1XS3k2VXh2c0l2UkFSU2NWbDFONm1MMnBmMkkzWEhyQ0laNVpGLU1BUVdHRzBHc1gyOG13WG9aVTJXTk5FZmRRal9PWV9VTko5RW8tMU1XUmlSanFGTDNvQWNKUkFwUzE0ck1RZmNuM2pIOE1SWkHSAc4BQVVfeXFMTXVnRFhyZnRsLVBveENIQjBaamtVMXZwTkllUU1hWjNEend4VUZEbS1KaW1JLWVURnE1cHVqdUpGSi0yX002QUpJUHFFcndDNWdFaGRydHo5b3lpSV9qcmRKLVVfVTZEUkNuTHlvVklmQWZzX2hIXy1xVDRubnhBUkItd3RVSjhmdlhDbWZFNmhlWVRMd2FwdmFRZ19RNFYxenFmei1NZTVKYWp0aFZNV0o3WnVibFRERFJ3WEJWRWwxN2NxWHNvZDgzT296akE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXVQU3pMTVg1UWVJaEg0Q2l5bWVWTXFobmxVXzQwaWh2aVJEMDlDYkVsMWg3eEJTTXdEYmZmSG1XS3k2VXh2c0l2UkFSU2NWbDFONm1MMnBmMkkzWEhyQ0laNVpGLU1BUVdHRzBHc1gyOG13WG9aVTJXTk5FZmRRal9PWV9VTko5RW8tMU1XUmlSanFGTDNvQWNKUkFwUzE0ck1RZmNuM2pIOE1SWkHSAc4BQVVfeXFMTXVnRFhyZnRsLVBveENIQjBaamtVMXZwTkllUU1hWjNEend4VUZEbS1KaW1JLWVURnE1cHVqdUpGSi0yX002QUpJUHFFcndDNWdFaGRydHo5b3lpSV9qcmRKLVVfVTZEUkNuTHlvVklmQWZzX2hIXy1xVDRubnhBUkItd3RVSjhmdlhDbWZFNmhlWVRMd2FwdmFRZ19RNFYxenFmei1NZTVKYWp0aFZNV0o3WnVibFRERFJ3WEJWRWwxN2NxWHNvZDgzT296akE?oc=5
+- Supporting coverage: The Current, The Express Tribune, Dawn Latest, Dawn
+- Keywords: Pakistan appoints Shane Deitz as | hashtags: 
+- Scheduled: Tue 17 Nov, 12:50 PM PKT
 - Caption:
 ```
-Two held for Rs5m UK work visa fraud
+Pakistan appoints Shane Deitz as women’s cricket team head coach
 
-Two held for Rs5m UK work visa fraud Dawn
-
-Source: Dawn
-```
-
-### Man found murdered in farmhouse  [NORMAL]
-- Poster:  / Man found murdered in farmhouse | category other
-- Alternative headline: Man found murdered in farmhouse
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMic0FVX3lxTE9mMUtxYS1TckdOcE95RlJxN0xZcmlCN1RzdWpaMHFlYXdzNWE0N2NwNjB5X1FHSndKTVdDaEJhbzhuMU53ekk2M1pTenlBOWE4SWJHVUNuRE41a0g1NVk5VElkRnRrcThDN1NybkhpWXFVWlE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMic0FVX3lxTE9mMUtxYS1TckdOcE95RlJxN0xZcmlCN1RzdWpaMHFlYXdzNWE0N2NwNjB5X1FHSndKTVdDaEJhbzhuMU53ekk2M1pTenlBOWE4SWJHVUNuRE41a0g1NVk5VElkRnRrcThDN1NybkhpWXFVWlE?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Man found murdered in farmhouse | hashtags: 
-- Scheduled: Tue 17 Nov, 11:41 AM PKT
-- Caption:
-```
-Man found murdered in farmhouse
-
-Man found murdered in farmhouse Dawn
-
-Source: Dawn
-```
-
-### Pakistan's pacers rattle Sri Lanka top order in second Test  [NORMAL]
-- Poster:  / Pakistan's pacers rattle Sri Lanka top order in second Test | category other
-- Alternative headline: Pakistan's pacers rattle Sri Lanka top order in second Test
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjRhdFU3bUVja1JQMi1DREtYMkFYTHhfLTB0QjdHaHFfTlFUSExfSExTektObDFMMVlOcEVmZDN0N3Q1R0hfclFZaTZYRlI0TmRGekxPV3NQdTBpVDhZT0pvUjdGYUlHLUFCR3lhOFF4T3VSQU5sRDk5a2RNdy1JTHZfN0t5WWlTT3JkbkFQQ3NFVWVmbFVwWnd2ZmJfZlXSAbwBQVVfeXFMUFlIQUo0Q3B5ZWZRb29ZVERPN08xbkZZNHBrbTJRWWdRVEpBYlU0REwzZVM3TzBKUDdrOEYwTktjQWl3SUJwWjRRYUtqb1lWM0dRbTJud2tNb1ZhNDNLMlc3NnIwMDJSbDVlVE1MbldWT0hLSVJaVENxX0U2QWF4UUpaSXd2TE9NR0RxUEItLWRwYXJzWlNOSjhxNlYyYXJ2WjlKQUMzT24yYzRPZGJ6YWNIVzJtRFJpODExZmQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjRhdFU3bUVja1JQMi1DREtYMkFYTHhfLTB0QjdHaHFfTlFUSExfSExTektObDFMMVlOcEVmZDN0N3Q1R0hfclFZaTZYRlI0TmRGekxPV3NQdTBpVDhZT0pvUjdGYUlHLUFCR3lhOFF4T3VSQU5sRDk5a2RNdy1JTHZfN0t5WWlTT3JkbkFQQ3NFVWVmbFVwWnd2ZmJfZlXSAbwBQVVfeXFMUFlIQUo0Q3B5ZWZRb29ZVERPN08xbkZZNHBrbTJRWWdRVEpBYlU0REwzZVM3TzBKUDdrOEYwTktjQWl3SUJwWjRRYUtqb1lWM0dRbTJud2tNb1ZhNDNLMlc3NnIwMDJSbDVlVE1MbldWT0hLSVJaVENxX0U2QWF4UUpaSXd2TE9NR0RxUEItLWRwYXJzWlNOSjhxNlYyYXJ2WjlKQUMzT24yYzRPZGJ6YWNIVzJtRFJpODExZmQ?oc=5
-- Supporting coverage: The Express Tribune
-- Keywords: Pakistan's pacers rattle Sri Lanka | hashtags: 
-- Scheduled: Tue 17 Nov, 11:51 AM PKT
-- Caption:
-```
-Pakistan's pacers rattle Sri Lanka top order in second Test
-
-Pakistan's pacers rattle Sri Lanka top order in second Test The Express Tribune
+Pakistan appoints Shane Deitz as women’s cricket team head coach The Express Tribune
 
 Source: The Express Tribune
 ```
 
-- Indian outlets blocked this run: 4 items
+### Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts  [NORMAL]
+- Poster:  / Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts | category other
+- Alternative headline: Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTljM0JKVDMxbTZxOXlKbkdlcHNST3RUOU9vVFd2eXY5cy16czk5Z3BKdGcyaTJsd0tiTXgzWnExSXJudmpmanVZNFFEYUoybFRzdzMyZXBWc0tPYVh1eFFYSnhYc0dpVnlwOEhYdUs4bU41UWg2ZW9zMjFmeVZIX2JWZ3phSGtHREhtd0xWSlI4OVlOa29vUTZiX2dUVHl3dmVtRUhoaU1nUVVUcFpzekhCbThNZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTljM0JKVDMxbTZxOXlKbkdlcHNST3RUOU9vVFd2eXY5cy16czk5Z3BKdGcyaTJsd0tiTXgzWnExSXJudmpmanVZNFFEYUoybFRzdzMyZXBWc0tPYVh1eFFYSnhYc0dpVnlwOEhYdUs4bU41UWg2ZW9zMjFmeVZIX2JWZ3phSGtHREhtd0xWSlI4OVlOa29vUTZiX2dUVHl3dmVtRUhoaU1nUVVUcFpzekhCbThNZw?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Pakistan's fast bowling masterclass leaves | hashtags: 
+- Scheduled: Tue 17 Nov, 01:00 PM PKT
+- Caption:
+```
+Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts
+
+Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts Dawn
+
+Source: Dawn
+```
+
+### Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories  [NORMAL]
+- Poster:  / Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories | category other
+- Alternative headline: Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVk5V2JRWXVUSEh2Uk92V0hkV3VqaHhxS2loNlFieEhKRDI5ZXhUZUlFRDVRUkV5SDJsSk91d2NsUk80NlhXNEN2eEpValdPc09oWUM4NEo5dWF6cnVtb1NORUhpRVU1X0lyZTc4VXV1T0dWZVhkUGRVUkwxWmlBWEpfNjhmemdxMEV5dUZOT3VqcEk1bFZpc3NVMWRpbWt6LW8ycy13ZlFBM3o3cUJ3TFF5ZThzdTN6NVZLR09Sa2M?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVk5V2JRWXVUSEh2Uk92V0hkV3VqaHhxS2loNlFieEhKRDI5ZXhUZUlFRDVRUkV5SDJsSk91d2NsUk80NlhXNEN2eEpValdPc09oWUM4NEo5dWF6cnVtb1NORUhpRVU1X0lyZTc4VXV1T0dWZVhkUGRVUkwxWmlBWEpfNjhmemdxMEV5dUZOT3VqcEk1bFZpc3NVMWRpbWt6LW8ycy13ZlFBM3o3cUJ3TFF5ZThzdTN6NVZLR09Sa2M?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Pakistan condemns Israeli attacks in | hashtags: 
+- Scheduled: Tue 17 Nov, 01:10 PM PKT
+- Caption:
+```
+Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories
+
+Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories Dawn
+
+Source: Dawn
+```
+
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
-- [published] breaking | Govt Cuts Petrol Price by Rs2 per Litre, Diesel Unchanged | Sat 14 Nov, 11:29 AM PKT
-- [published] normal | Iran Guards Say Two Oil Tankers Hit by Mines in Hormuz | Sat 14 Nov, 11:29 AM PKT
-- [published] high | Wasim Akram Questions Cummins’ Sandpapergate Denial | Sat 14 Nov, 12:05 PM PKT
-- [published] high | NADRA Shares Steps to Recover Pak ID Accounts Online | Sat 14 Nov, 12:05 PM PKT
-- [published] normal | Google One 30GB Subscription Price to Increase in Pakistan | Sat 14 Nov, 12:05 PM PKT
 - [published] high | 16 Terrorists Killed, 2 Army Soldiers Martyred in KP Intelligence Oper | Sat 14 Nov, 08:54 PM PKT
 - [published] high | Opposition Leaders Challenge Detention of Detained KP Lawmakers in Con | Sat 14 Nov, 08:54 PM PKT
 - [published] normal | Climate Minister Musadik Malik Nominated to Represent Pakistan at SCO  | Sat 14 Nov, 08:54 PM PKT
@@ -245,9 +240,9 @@ Source: The Express Tribune
 - [needs_review] normal | Wirtz feels the fun as Germany run riot over Netherlands | Tue 17 Nov, 05:14 AM PKT
 - [published] normal | Woman who got hooked on nasal spray for 10 years says it cost her thou | Tue 17 Nov, 05:24 AM PKT
 - [published] breaking | Live: Houthis advance in Yemen as tankers hit sea mines in Strait of H | Tue 17 Nov, 05:57 AM PKT
-- [queued] normal | Paraguay ex-president moved to military jail amid special treatment re | Tue 17 Nov, 05:57 AM PKT
-- [queued] normal | EU agrees to resurrect cooperation deal with Syria | Tue 17 Nov, 06:07 AM PKT
-- [queued] normal | The AI start-ups fixing India's broken roads and messy land records | Tue 17 Nov, 06:17 AM PKT
+- [needs_review] normal | Paraguay ex-president moved to military jail amid special treatment re | Tue 17 Nov, 05:57 AM PKT
+- [needs_review] normal | EU agrees to resurrect cooperation deal with Syria | Tue 17 Nov, 06:07 AM PKT
+- [needs_review] normal | The AI start-ups fixing India's broken roads and messy land records | Tue 17 Nov, 06:17 AM PKT
 - [queued] normal | Yemeni army reports 661 attacks on Houthis as group advances towards A | Tue 17 Nov, 07:11 AM PKT
 - [queued] normal | New Zealand tricks and annual leave - the lengths fans are going to fo | Tue 17 Nov, 07:21 AM PKT
 - [queued] normal | Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | Tue 17 Nov, 07:31 AM PKT
@@ -268,9 +263,13 @@ Source: The Express Tribune
 - [queued] normal | Two held for Rs5m UK work visa fraud | Tue 17 Nov, 11:31 AM PKT
 - [queued] normal | Man found murdered in farmhouse | Tue 17 Nov, 11:41 AM PKT
 - [queued] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
+- [published] breaking | Breaking News, World News and Video from Al Jazeera | Tue 17 Nov, 12:50 PM PKT
+- [queued] normal | Pakistan appoints Shane Deitz as women’s cricket team head coach | Tue 17 Nov, 12:50 PM PKT
+- [queued] normal | Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second | Tue 17 Nov, 01:00 PM PKT
+- [queued] normal | Pakistan condemns Israeli attacks in Syria, calls for withdrawal from  | Tue 17 Nov, 01:10 PM PKT
 
 ## Publishing this run
-- Published 'Woman who got hooked on nasal spray for 10 years says it cost her thousands'.
+- Published 'Breaking News, World News and Video from Al Jazeera'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

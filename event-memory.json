@@ -46390,7 +46390,608 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "da94b5302ca1eff50a35ec56",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T07:20:22+00:00",
+      "last_update": "2026-11-17T07:34:11+00:00",
+      "event": "Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bowling",
+        "dawn",
+        "fast",
+        "lanka",
+        "leaves",
+        "masterclass",
+        "pakistan",
+        "reeling",
+        "second",
+        "sri",
+        "starts",
+        "test"
+      ],
+      "source_excerpt": "Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second Test starts Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTljM0JKVDMxbTZxOXlKbkdlcHNST3RUOU9vVFd2eXY5cy16czk5Z3BKdGcyaTJsd0tiTXgzWnExSXJudmpmanVZNFFEYUoybFRzdzMyZXBWc0tPYVh1eFFYSnhYc0dpVnlwOEhYdUs4bU41UWg2ZW9zMjFmeVZIX2JWZ3phSGtHREhtd0xWSlI4OVlOa29vUTZiX2dUVHl3dmVtRUhoaU1nUVVUcFpzekhCbThNZw?oc=5",
+          "published_at": "2026-11-17T07:20:22+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045154/pakistans-fast-bowling-masterclass-leaves-sri-lanka-reeling-as-second-test-starts",
+          "published_at": "2026-11-17T07:34:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTljM0JKVDMxbTZxOXlKbkdlcHNST3RUOU9vVFd2eXY5cy16czk5Z3BKdGcyaTJsd0tiTXgzWnExSXJudmpmanVZNFFEYUoybFRzdzMyZXBWc0tPYVh1eFFYSnhYc0dpVnlwOEhYdUs4bU41UWg2ZW9zMjFmeVZIX2JWZ3phSGtHREhtd0xWSlI4OVlOa29vUTZiX2dUVHl3dmVtRUhoaU1nUVVUcFpzekhCbThNZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9e78989649ae595e7f6d5e5f",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T07:01:00+00:00",
+      "last_update": "2026-11-17T07:01:00+00:00",
+      "event": "Body of Melbourne Cup horse found dumped in Sydney skip bin",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australian",
+        "bin",
+        "body",
+        "colic",
+        "cup",
+        "died",
+        "dumped",
+        "found",
+        "horse",
+        "melbourne",
+        "monday",
+        "public",
+        "racehorse",
+        "remains",
+        "rubbish",
+        "skip",
+        "sydney",
+        "that",
+        "the",
+        "tip",
+        "top",
+        "were"
+      ],
+      "source_excerpt": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T07:01:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "87f6ddf3fbde48a1f139d52f",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T07:21:25+00:00",
+      "last_update": "2026-11-17T07:21:25+00:00",
+      "event": "Portugal coach Jorge Jesus responds to criticism from Ronaldo’s mother",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "coach",
+        "criticism",
+        "deceived",
+        "defeat",
+        "first",
+        "from",
+        "glad",
+        "had",
+        "her",
+        "his",
+        "jesus",
+        "jorge",
+        "mother",
+        "portugal",
+        "responds",
+        "ronaldo",
+        "said",
+        "see",
+        "she",
+        "son",
+        "suffer",
+        "was"
+      ],
+      "source_excerpt": "Ronaldo's mother said she was glad to see Jesus suffer his first defeat after he had 'deceived' her son.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
+          "published_at": "2026-11-17T07:21:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c370eb2b3b84b3c24b7bf231",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T07:03:12+00:00",
+      "last_update": "2026-11-17T07:03:12+00:00",
+      "event": "The new French malaise",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affecting",
+        "are",
+        "crisis",
+        "france",
+        "french",
+        "larger",
+        "malaise",
+        "much",
+        "new",
+        "ongoing",
+        "protests",
+        "society",
+        "student",
+        "symptom",
+        "the"
+      ],
+      "source_excerpt": "The ongoing student protests in France are a symptom of a much larger crisis affecting French society.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/17/the-new-french-malaise?traffic_source=rss",
+          "published_at": "2026-11-17T07:03:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/17/the-new-french-malaise?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/17/the-new-french-malaise?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fd47f1cbeb3b33555c7bed4b",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T06:53:23+00:00",
+      "last_update": "2026-11-17T06:53:23+00:00",
+      "event": "Will Netanyahu lose this time?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "but",
+        "find",
+        "hard",
+        "has",
+        "israeli",
+        "lose",
+        "manoeuvred",
+        "may",
+        "minister",
+        "netanyahu",
+        "out",
+        "power",
+        "prime",
+        "retain",
+        "situations",
+        "the",
+        "this",
+        "time",
+        "tough",
+        "will"
+      ],
+      "source_excerpt": "The Israeli prime minister has manoeuvred out of tough situations to retain power. But he may find it hard this time.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
+          "published_at": "2026-11-17T06:53:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5a4c7a6bb334d632df1c083b",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T07:38:07+00:00",
+      "last_update": "2026-11-17T07:38:07+00:00",
+      "event": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "bahrain",
+        "claims",
+        "drone",
+        "iran",
+        "jazeera",
+        "military",
+        "radar",
+        "targeting",
+        "thwarts"
+      ],
+      "source_excerpt": "Bahrain thwarts drone attack, Iran claims targeting US military radar Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGZCQzBNWXlsNkJNTHdKVzdUSG5PdWR4eFkwZ0VGQ2pGN3BYUVE1Qm55YWg2ZTVMRTZvWjFqRUluUzB6NGUtTWZDX2R4bThna3RQTVN4OUJPSW93WHhlZDRVcVhnenJLd0s0clp2aEh6NEtkQmJ3bG9JcWVHT3picVZzN0dYaWZrSlZwUi1USmttQm5RTHp4MkZydzl6RU04NUl1bzdEd0p1X084eFpJ0gG0AUFVX3lxTFBtSmI2V1R4aXp4WUx2TTNSU3BsXzQ5VnI0M2NiZnVleUNQOEdidnFXOEJ1emxyZ0pGWDVmYS1mX3htRF9kRElQOWZZMTRqdEk5WHBhUkNRN3BGV2F2U3Frd3l5LVFqY19vbmFXNkExb2JPYnNQTjF6Ry00cE5MTjQxYkY1YXM1WUF5UGtHN1hLNVhYUjRkSlFuajlGcFNQelItbDdoV3dyOWptQ09XOGx6Mm9FUg?oc=5",
+          "published_at": "2026-11-17T07:38:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGZCQzBNWXlsNkJNTHdKVzdUSG5PdWR4eFkwZ0VGQ2pGN3BYUVE1Qm55YWg2ZTVMRTZvWjFqRUluUzB6NGUtTWZDX2R4bThna3RQTVN4OUJPSW93WHhlZDRVcVhnenJLd0s0clp2aEh6NEtkQmJ3bG9JcWVHT3picVZzN0dYaWZrSlZwUi1USmttQm5RTHp4MkZydzl6RU04NUl1bzdEd0p1X084eFpJ0gG0AUFVX3lxTFBtSmI2V1R4aXp4WUx2TTNSU3BsXzQ5VnI0M2NiZnVleUNQOEdidnFXOEJ1emxyZ0pGWDVmYS1mX3htRF9kRElQOWZZMTRqdEk5WHBhUkNRN3BGV2F2U3Frd3l5LVFqY19vbmFXNkExb2JPYnNQTjF6Ry00cE5MTjQxYkY1YXM1WUF5UGtHN1hLNVhYUjRkSlFuajlGcFNQelItbDdoV3dyOWptQ09XOGx6Mm9FUg?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a9007ae71ec292fe014f98c0",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T06:40:13+00:00",
+      "last_update": "2026-11-17T06:40:13+00:00",
+      "event": "I sang carols to the Ghost of Christmas Present – and Johnny Depp",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bbc",
+        "carols",
+        "christmas",
+        "depp",
+        "ghost",
+        "johnny",
+        "present",
+        "sang",
+        "the"
+      ],
+      "source_excerpt": "I sang carols to the Ghost of Christmas Present – and Johnny Depp BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2bV9pTHdVdFNtSVFxcTdfLUkyUTZEMmluU2RWczMtR2oxN1pVd3A4Z1YwSEVOVWg2MzdMTGI1WlBvLUtnTmwxcFd0R2VWcy1WN1NFdVk1R212ZHM?oc=5",
+          "published_at": "2026-11-17T06:40:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2bV9pTHdVdFNtSVFxcTdfLUkyUTZEMmluU2RWczMtR2oxN1pVd3A4Z1YwSEVOVWg2MzdMTGI1WlBvLUtnTmwxcFd0R2VWcy1WN1NFdVk1R212ZHM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c958617f9a4d151685164e79",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T07:34:12+00:00",
+      "last_update": "2026-11-17T07:34:12+00:00",
+      "event": "Breaking News, World News and Video from Al Jazeera",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "breaking",
+        "from",
+        "jazeera",
+        "news",
+        "video",
+        "world"
+      ],
+      "source_excerpt": "Breaking News, World News and Video from Al Jazeera Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBPd3h6VGM0TDlnQTJRaHcwMHkxaG5HcFFUY08yOEpFQ3FjZHB3b3h1bGlwSnRkT3k5SXZORXhjYw?oc=5",
+          "published_at": "2026-11-17T07:34:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBPd3h6VGM0TDlnQTJRaHcwMHkxaG5HcFFUY08yOEpFQ3FjZHB3b3h1bGlwSnRkT3k5SXZORXhjYw?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b3522253a5996e367a696c4b",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T06:11:33+00:00",
+      "last_update": "2026-11-17T07:10:10+00:00",
+      "event": "فیلڈ مارشل عاصم منیر سے ایرانی وزیرِ خارجہ کی قیادت میں وفد کی ملاقات",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اعلیٰ",
+        "آئی",
+        "آرفیلڈ",
+        "ایران",
+        "ایرانی",
+        "ایس",
+        "بشکریہ",
+        "تصویر",
+        "خارجہ",
+        "سطح",
+        "عاصم",
+        "عباس",
+        "فیلڈ",
+        "قیادت",
+        "مارشل",
+        "ملاقات",
+        "منیر",
+        "میں",
+        "وزیرِ",
+        "وفد",
+        "کی،"
+      ],
+      "source_excerpt": "---تصویر بشکریہ آئی ایس پی آرفیلڈ مارشل عاصم منیر سے ایران کے اعلیٰ سطح کے وفد نے ملاقات کی، ایرانی وفد کی قیادت وزیرِ خارجہ عباس...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1634238",
+          "published_at": "2026-11-17T06:11:33+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5012990",
+          "published_at": "2026-11-17T06:49:01+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5013007",
+          "published_at": "2026-11-17T07:10:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1634238",
+        "publisher_url": "https://jang.com.pk/news/1634238",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "52ec798efe3ddf02f6b9b6a6",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T06:04:12+00:00",
+      "last_update": "2026-11-17T06:04:12+00:00",
+      "event": "Karachi, the city I no longer know",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2044618",
+        "and",
+        "changing",
+        "city",
+        "com",
+        "dawn",
+        "https",
+        "karachi",
+        "knew",
+        "know",
+        "longer",
+        "news",
+        "once",
+        "the",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2044618/the-city-i-once-knew-and-the-changing-city",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045140/karachi-the-city-i-no-longer-know",
+          "published_at": "2026-11-17T06:04:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045140/karachi-the-city-i-no-longer-know",
+        "publisher_url": "https://www.dawn.com/news/2045140/karachi-the-city-i-no-longer-know",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f37cdff4ac0df2f21489e839",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T05:57:00+00:00",
+      "last_update": "2026-11-17T05:57:00+00:00",
+      "event": "Pakistani star couple honoured with awards at UK Parliament",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actors",
+        "aiman",
+        "and",
+        "awards",
+        "been",
+        "butt",
+        "contributions",
+        "couple",
+        "for",
+        "have",
+        "honoured",
+        "khan",
+        "leading",
+        "london",
+        "muneeb",
+        "pakistani",
+        "parliament",
+        "recognition",
+        "reporter",
+        "star",
+        "television",
+        "the",
+        "their",
+        "were",
+        "with"
+      ],
+      "source_excerpt": "Pakistani television actors Aiman Khan and Muneeb Butt were honoured with awards at the UK Parliament. — Reporter LONDON: Leading Pakistani television actors Aiman Khan and Muneeb Butt have been honoured with recognition awards at the UK Parliament for their contributions to...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691408-pakistani-star-couple-honoured-with-awards-at-uk-parliament",
+          "published_at": "2026-11-17T05:57:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691408-pakistani-star-couple-honoured-with-awards-at-uk-parliament",
+        "publisher_url": "https://www.geo.tv/latest/691408-pakistani-star-couple-honoured-with-awards-at-uk-parliament",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6c02bb3356e7f1447bae4fd4",
+      "remembered_at": "2026-11-17T07:50:49.921133+00:00",
+      "event_date": "2026-11-17T06:21:09+00:00",
+      "last_update": "2026-11-17T06:21:09+00:00",
+      "event": "Karachi police bust PARCO pipeline oil theft network, arrest 5 suspects",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrest",
+        "bust",
+        "karachi",
+        "network",
+        "oil",
+        "parco",
+        "pipeline",
+        "police",
+        "suspects",
+        "theft"
+      ],
+      "source_excerpt": "Karachi police bust PARCO pipeline oil theft network, arrest 5 suspects",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-police-bust-parco-pipeline-oil-theft-network-arrest-5-suspects",
+          "published_at": "2026-11-17T06:21:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-police-bust-parco-pipeline-oil-theft-network-arrest-5-suspects",
+        "publisher_url": "https://arynews.tv/karachi-police-bust-parco-pipeline-oil-theft-network-arrest-5-suspects",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T06:21:29.490338+00:00"
+  "updated_at": "2026-11-17T07:50:49.921133+00:00"
 }
