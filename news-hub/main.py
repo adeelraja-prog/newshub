@@ -1109,6 +1109,7 @@ def writing_prompt(blocks):
     return f"""You are the creative headline writer and social editor for a Pakistan news page on Facebook.
 For each STORY return:
 - "n": story number
+- "category": the best matching category from ["politics","economy","security","sports","world","courts","disaster","health","tech","tech_ai","tech_gadgets","tech_mobile","tech_laptop","tech_apps","science","weather","fashion","lifestyle","crime","war","us_politics","other"]; classify the event, not the publisher
 - "headline_primary": creative, curiosity-driven, accurate headline in natural English (max 14 words)
 - "headline_alt": a different angle for internal comparison (max 14 words)
 - "headline_choice": "primary" or "alt" (whichever is stronger and more accurate)
@@ -1153,6 +1154,20 @@ def write_batch(stories):
     blocks, blobs = [], []
     for n, s in enumerate(stories, 1):
         c = s["cluster"]
+        # The trusted fast lane has not run the full-article fetch used by the AI desk.
+        # Fetch the original publisher article now so Urdu translation and value-addition
+        # use substantive source text rather than an RSS headline/snippet alone.
+        if s.get("direct_source") and len(str(s.get("excerpt") or "")) < 900:
+            try:
+                article_text, article_links, article_image = fetch_article(c.get("lead") or {})
+                if article_text and not has_devanagari(article_text):
+                    s["excerpt"] = article_text[:7000]
+                    c["excerpt"] = s["excerpt"]
+                if article_image:
+                    s["image_url"] = article_image
+                    c["image_url"] = article_image
+            except Exception as fetch_error:
+                print(f"[publisher-fast-lane] full article unavailable; using feed text: {fetch_error}")
         heads = " | ".join(m["title"] for m in c["members"][:5])
         osr = s["original_source"]
         facts = (f"original source: type={osr['type']}, name={osr['name']}, link {'available' if osr['url'] else 'not found'}; "
@@ -1175,7 +1190,15 @@ def write_batch(stories):
                 print(f"[price-history] collected {len(price_research)} external research extracts for story {n}")
             except Exception as research_error:
                 print(f"[price-history] research unavailable for story {n}: {research_error}")
-        blocks.append(f"STORY {n}\nEvent: {s['event']}\nHeadlines: {heads}\nText: {s['excerpt'][:1200] or 'headlines only'}\n"
+        publisher_mode = (
+            "TRUSTED PUBLISHER FAST LANE: this story bypassed AI assessment only because its original article URL "
+            "matches the approved publisher allowlist. You MUST still create a complete Urdu-script headline, "
+            "English translation, Urdu and English summaries, and useful evidence-grounded value addition where "
+            "the supplied article supports it. Do not invent corroboration or imply multiple sources. "
+            "If a genuine explainer is unsupported, use value_addition type none. "
+            if s.get("direct_source") else "STANDARD EDITORIAL STORY."
+        )
+        blocks.append(f"STORY {n}\nEditorial mode: {publisher_mode}\nEvent: {s['event']}\nHeadlines: {heads}\nText: {s['excerpt'][:1200] or 'headlines only'}\n"
                       f"Category: {s['category']}\nSupplied source URLs (use exact URL only when supplied text supports the fact): {source_urls}\n"
                       f"Related dated archive (research leads only; do not present as verified current facts): {memory_context}\n"
                       f"External price-history research extracts (source text for verification; use only explicit effective dates and figures, cite exact URL): {price_research}\n"
@@ -1183,26 +1206,12 @@ def write_batch(stories):
     try:
         data = gemini_json(writing_prompt(blocks))
     except Exception as ai_error:
-        print(f"[writer] AI unavailable; using source-faithful fallback for direct publisher items: {ai_error}")
-        data = {"stories": []}
-        for n, story in enumerate(stories, 1):
-            if not story.get("direct_source"):
-                continue
-            c = story["cluster"]
-            title = clean(c["lead"].get("title") or story["event"])[:110]
-            excerpt = clean(story.get("excerpt") or c["lead"].get("snippet") or title)[:420]
-            source_name = story["original_source"]["name"]
-            data["stories"].append({
-                "n": n, "headline_primary": title, "headline_alt": title,
-                "headline_choice": "primary", "poster_headline_ur": "اہم خبر",
-                "poster_headline_en": title[:90], "caption_opening": title,
-                "summary_en": excerpt or title,
-                "summary_ur": "",
-                "attribution_line": f"Source: {source_name}",
-                "primary_keyword": " ".join(title.split()[:4]), "secondary_keywords": [],
-                "entities": {}, "hashtags": [], "search_summary": title[:155],
-                "value_addition": {"type": "none"}
-            })
+        # Trusted publisher status protects source provenance and fast assessment;
+        # it must never degrade the Urdu creative into an English-only auto-publish.
+        print(f"[writer] AI unavailable; Urdu-first enrichment deferred for all stories: {ai_error}")
+        USAGE["ai_unavailable"] = True
+        USAGE["errors"].append(str(ai_error)[:140])
+        return {}
     out = {}
     need = ("headline_primary", "headline_alt", "poster_headline_ur", "poster_headline_en", "caption_opening",
             "summary_en", "summary_ur", "attribution_line", "primary_keyword", "search_summary")
@@ -1236,25 +1245,15 @@ def write_batch(stories):
                 tags.append(t)
         w["hashtags"] = tags[:5]
         w["headline_used"] = w["headline_alt"] if w.get("headline_choice") == "alt" else w["headline_primary"]
+        # Fast-lane records start as category=other; use the writer's constrained
+        # classification so their posters receive the correct Urdu/English desk label.
+        if stories[n - 1].get("direct_source") and w.get("category") in CATEGORIES:
+            stories[n - 1]["category"] = w["category"]
         out[n] = w
-    # A valid but incomplete AI response must not strand a direct publisher item.
+    # Incomplete/invalid creative is held for retry; never publish an English-only poster.
     for n, story in enumerate(stories, 1):
-        if not story.get("direct_source") or n in out:
-            continue
-        c = story["cluster"]
-        title = clean(c["lead"].get("title") or story["event"])[:110]
-        excerpt = clean(story.get("excerpt") or c["lead"].get("snippet") or title)[:420]
-        source_name = story["original_source"]["name"]
-        out[n] = {
-            "headline_primary": title, "headline_alt": title, "headline_choice": "primary",
-            "poster_headline_ur": "", "poster_headline_en": title[:90],
-            "caption_opening": title, "summary_en": excerpt or title,
-            "summary_ur": "یہ خبر اصل خبر رساں ادارے کی شائع کردہ رپورٹ پر مبنی ہے۔",
-            "attribution_line": f"Source: {source_name}", "primary_keyword": " ".join(title.split()[:4]),
-            "secondary_keywords": [], "entities": {}, "hashtags": [], "search_summary": title[:155],
-            "value_addition": {"type": "none"}, "headline_used": title
-        }
-        print(f"[writer] source-faithful fallback used for {source_name}: {title[:70]}")
+        if n not in out:
+            print(f"[writer] story held: Urdu-first creative or required fields failed validation: {story.get('event','')[:70]}")
     return out
 
 
@@ -1432,25 +1431,14 @@ def direct_publisher_copy(story):
 
 
 def write_posts(stories, size=8):
-    """Direct publisher copy is deterministic and immediate; AI batches contain ordinary stories only."""
-    out, ordinary, original_positions = {}, [], []
-    for position, story in enumerate(stories):
-        if story.get("direct_source"):
-            try:
-                out[position + 1] = direct_publisher_copy(story)
-            except Exception as ex:
-                print(f"[publisher-fast-lane] source-faithful poster copy failed: {ex}")
-                USAGE["errors"].append(str(ex)[:140])
-        else:
-            ordinary.append(story)
-            original_positions.append(position)
-    for start in range(0, len(ordinary), size):
-        batch = ordinary[start:start + size]
+    """Every story receives Urdu-first creative writing; trusted status skips assessment, not enrichment."""
+    out = {}
+    for start in range(0, len(stories), size):
+        batch = stories[start:start + size]
         try:
             for relative_n, written in write_batch(batch).items():
                 if 1 <= relative_n <= len(batch):
-                    original_n = original_positions[start + relative_n - 1] + 1
-                    out[original_n] = written
+                    out[start + relative_n] = written
         except Exception as ex:
             print(f"[warn] writing batch {start // size + 1} failed: {ex}")
             USAGE["errors"].append(str(ex)[:140])
@@ -1509,13 +1497,9 @@ def enqueue(queue, story, w, caption, t0):
     prio = story.get("priority", "normal")
     slot = t0 if prio in ("breaking", "high") else assign_slot(queue, t0)
     target_market = story.get("target_market") or ("Pakistan" if story.get("scope") in ("national", "provincial") else "Global")
-    if w.get("direct_copy_language") == "ur":
-        poster_language = "ur"
-    elif w.get("direct_copy_language") == "en":
-        poster_language = "en"
-    else:
-        poster_language = ("en" if not str(w.get("poster_headline_ur") or "").strip()
-                           else choose_poster_language({**story, "target_market": target_market}, slot))
+    # News Hub's master is Urdu-first and bilingual. English audience targeting may
+    # change the English context, but must never suppress the Urdu headline.
+    poster_language = "ur"
     item = {
         "qid": story["id"], "status": "queued", "priority": prio, "created": iso(t0), "not_before": iso(slot),
         "target_market": target_market, "poster_language": poster_language,
@@ -1680,8 +1664,10 @@ def make_poster(item, tag):
     """Render from the fixed local newsroom master; no external image API or missing image helper."""
     os.makedirs(POSTER_DIR, exist_ok=True)
     path = f"{POSTER_DIR}/{tag}-{item['qid']}.jpg"
-    english_poster = item.get("poster_language", "ur") == "en"
-    poster.render("" if english_poster else item["poster"]["ur"], item["poster"]["en"], item["category"],
+    urdu_headline = str((item.get("poster") or {}).get("ur") or "").strip()
+    if not has_urdu_script(urdu_headline):
+        raise ValueError("Urdu-first poster blocked: valid Urdu-script headline is missing")
+    poster.render(urdu_headline, item["poster"]["en"], item["category"],
                   item["priority"] == "breaking", [item.get("source_name") or "News Desk"],
                   HANDLE, path, variant=0, tag=item.get("tag"),
                   person=None, credit=item.get("source_name") or "News Desk",
@@ -1922,6 +1908,10 @@ def main():
         print("[queue] invalid items collection; resetting queue container")
         queue = {"items": []}
     valid_items = []
+    # Legacy English-only queue rows are quarantined, then their source clusters are
+    # made eligible for fresh Urdu-first writing instead of being silently stranded.
+    legacy_urdu_requeue_ids = set()
+    legacy_urdu_requeue_tokens = []
     for row in queue["items"]:
         if not isinstance(row, dict):
             print("[queue] discarded malformed non-object record")
@@ -1955,6 +1945,14 @@ def main():
             row["status"] = "needs_review"
             row["review_reason"] = "Incomplete queue record; manual review required"
             row.setdefault("needs_review_at", iso(t0))
+        elif row.get("status") == "queued" and not has_urdu_script((row.get("poster") or {}).get("ur", "")):
+            row["status"] = "needs_review"
+            row["needs_review_at"] = iso(t0)
+            row["review_reason"] = "Legacy English-only poster quarantined: Urdu-script headline is missing; regenerate before publishing."
+            if row.get("qid"):
+                legacy_urdu_requeue_ids.add(str(row["qid"]))
+            if isinstance(row.get("tokens"), list) and row["tokens"]:
+                legacy_urdu_requeue_tokens.append(frozenset(str(token) for token in row["tokens"]))
         if row.get("status") == "published" and not (
             isinstance(row.get("published"), dict) and valid_timestamp(row["published"].get("time"))
         ):
@@ -1997,6 +1995,14 @@ def main():
             continue
         hi = ed.match_list(c["tokens"], history)
         hist = history[hi] if hi is not None else None
+        # Keep every quarantined legacy story eligible across multiple refill cycles;
+        # only the selected/enqueued subset is marked analysed again below.
+        legacy_requeue_match = (
+            c.get("id") in legacy_urdu_requeue_ids
+            or any(ed.sim(c["tokens"], old_tokens) >= 0.50 for old_tokens in legacy_urdu_requeue_tokens)
+        )
+        if hist is not None and legacy_requeue_match:
+            hist["analysed_n"] = None
         c["sig"] = ed.trend_signals(c, trends, hist, t0)
         # Cross-run deduplication: match canonical article URLs first, then story-token similarity.
         cluster_urls = {ed.canonical_url(m.get("link", "")) for m in c["members"] if m.get("link")}
@@ -2013,7 +2019,7 @@ def main():
         if duplicate:
             dups += 1
             print(f"[priority] P5 DUPLICATE — excluded: {c['title'][:90]}")
-        elif hist and hist.get("analysed_n") is not None and c["n_sources"] < hist["analysed_n"] + 2:
+        elif hist and hist.get("analysed_n") is not None and not legacy_requeue_match and c["n_sources"] < hist["analysed_n"] + 2:
             unchanged += 1
         else:
             candidates.append(c)

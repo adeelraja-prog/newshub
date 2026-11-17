@@ -317,20 +317,33 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
         self.assertEqual(copy["poster_headline_en"], title)
         self.assertEqual(copy["summary_en"], excerpt)
 
-    def test_english_poster_keeps_explainer_visual(self):
+    def test_poster_always_keeps_urdu_even_if_legacy_language_flag_is_english(self):
         visual = {"type": "explainer", "title": "WHY THE COURT INTERVENED",
+                  "title_ur": "عدالت نے مداخلت کیوں کی",
                   "points": [{"text": "A substantive explanation of the court decision and its immediate legal effect.",
+                              "label_ur": "عدالتی فیصلہ", "text_ur": "عدالت نے مقدمے میں اہم قانونی نکتہ دیکھا۔",
                               "source": "Dawn", "url": "https://dawn.com/a"}]}
         item = {"qid": "english-explainer", "poster_language": "en",
-                "poster": {"ur": "", "en": "COURT EXPLAINED"},
+                "poster": {"ur": "عدالت کا اہم فیصلہ", "en": "COURT EXPLAINED"},
                 "category": "courts", "priority": "normal",
                 "value_addition": visual, "source_name": "Dawn"}
         with tempfile.TemporaryDirectory() as d, patch.object(newsroom, "POSTER_DIR", d), \
              patch.object(newsroom.poster, "render") as render:
             newsroom.make_poster(item, "preview")
+        self.assertEqual(render.call_args.args[0], "عدالت کا اہم فیصلہ")
         self.assertEqual(render.call_args.kwargs["value_addition"], visual)
 
-    def test_direct_publisher_copy_does_not_call_ai_writer(self):
+    def test_poster_fails_closed_when_urdu_headline_is_missing(self):
+        item = {"qid": "missing-urdu", "poster_language": "en",
+                "poster": {"ur": "", "en": "ENGLISH ONLY"},
+                "category": "politics", "priority": "normal"}
+        with tempfile.TemporaryDirectory() as d, patch.object(newsroom, "POSTER_DIR", d), \
+             patch.object(newsroom.poster, "render") as render:
+            with self.assertRaises(ValueError):
+                newsroom.make_poster(item, "preview")
+        render.assert_not_called()
+
+    def test_trusted_publisher_still_gets_urdu_first_ai_enrichment(self):
         instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
         member = {"source": "Dawn", "link": "https://www.dawn.com/news/example",
                   "title": "Parliament approves a major national bill",
@@ -340,11 +353,22 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
                    "sources": ["Dawn"], "first_pub": instant, "last_pub": instant,
                    "sig": {"viral_measured": 0}}
         story = newsroom.make_direct_publisher_story(cluster)
-        with patch.object(newsroom, "write_batch", side_effect=AssertionError("AI writer must not be called")):
+        enriched = {"headline_used": member["title"], "poster_headline_ur": "پارلیمنٹ نے اہم بل منظور کر لیا",
+                    "poster_headline_en": "Parliament approves major bill",
+                    "summary_ur": "قومی اسمبلی نے بحث کے بعد اہم بل منظور کر لیا۔",
+                    "summary_en": "The National Assembly approved the bill after debate.",
+                    "attribution_line": "Source: Dawn",
+                    "value_addition": {"type": "explainer", "title_ur": "بل کے اثرات",
+                                       "title": "What the bill changes",
+                                       "points": [{"label_ur": "منظوری", "label": "Approval",
+                                                   "text_ur": "قومی اسمبلی نے بحث کے بعد بل منظور کیا۔",
+                                                   "text": "The National Assembly approved the bill after debate.",
+                                                   "source": "Dawn", "url": member["link"]}]}}
+        with patch.object(newsroom, "write_batch", return_value={1: enriched}) as writer:
             written = newsroom.write_posts([story])
-        self.assertEqual(written[1]["headline_used"], member["title"])
-        self.assertEqual(written[1]["direct_copy_language"], "en")
-        self.assertEqual(written[1]["attribution_line"], "Source: Dawn")
+        writer.assert_called_once_with([story])
+        self.assertEqual(written[1]["poster_headline_ur"], "پارلیمنٹ نے اہم بل منظور کر لیا")
+        self.assertIn("value_addition", written[1])
 
     def test_direct_copy_and_ai_story_keep_original_queue_indexes(self):
         instant = datetime(2026, 11, 16, 3, 0, tzinfo=timezone.utc)
@@ -355,10 +379,13 @@ class PublisherRoutingSafetyTests(unittest.TestCase):
                    "sources": ["Geo News"], "first_pub": instant, "last_pub": instant,
                    "sig": {"viral_measured": 0}}
         direct = newsroom.make_direct_publisher_story(cluster)
-        with patch.object(newsroom, "write_batch", return_value={1: {"headline_used": "AI story"}}) as writer:
+        with patch.object(newsroom, "write_batch", return_value={
+            1: {"headline_used": "AI Urdu story", "poster_headline_ur": "قومی اسمبلی کا اجلاس شروع"},
+            2: {"headline_used": "AI English story", "poster_headline_ur": "عدالت کا نیا فیصلہ"}
+        }) as writer:
             written = newsroom.write_posts([direct, {"direct_source": False}])
-        self.assertEqual(written[1]["direct_copy_language"], "ur")
-        self.assertEqual(written[2]["headline_used"], "AI story")
+        self.assertEqual(written[1]["headline_used"], "AI Urdu story")
+        self.assertEqual(written[2]["headline_used"], "AI English story")
         writer.assert_called_once()
 
     def test_edexlive_indian_outlet_is_blocked_even_via_google_news(self):
