@@ -1,137 +1,138 @@
-# News Hub report - Tue 17 Nov, 04:54 AM PKT
+# News Hub report - Tue 17 Nov, 05:57 AM PKT
 
 ## Collection
-- New items this run: 18 | items in rolling pool: 424
-- Unique story clusters: 344 (duplicates merged: 80)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 8
-- Items per outlet: Al Jazeera 3, The Verge 2, BBC Technology 2, Dawn 1, Dawn Latest 1, Geo News 1, TechCrunch 1, Engadget 1, GSMArena 1, BBC Business 1, Iran International 1, Crude Oil Prices Today | OilPrice.com 1
+- New items this run: 14 | items in rolling pool: 312
+- Unique story clusters: 257 (duplicates merged: 55)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 8
+- Items per outlet: Al Jazeera 4, Engadget 2, BBC Business 2, The News International 1, Geo News 1, BBC Science 1, Critical Threats 1, The Economist 1, Yemen Online 1, Samaa Fast Lane 0, Jang Fast Lane 0, Dunya News Fast Lane 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- California sues OpenAI over Hugging Face attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Wirtz feels the fun as Germany run riot over Netherlands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman who got hooked on nasal spray for 10 years says it cost her thousands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Paraguay ex-president moved to military jail amid special treatment reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- EU agrees to resurrect cooperation deal with Syria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The AI start-ups fixing India's broken roads and messy land records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Customers report service outages at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine holds peace talks with US, Europe as conflict escalates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- California sues OpenAI over Hugging Face attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Wirtz feels the fun as Germany run riot over Netherlands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman who got hooked on nasal spray for 10 years says it cost her thousands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Paraguay ex-president moved to military jail amid special treatment reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- EU agrees to resurrect cooperation deal with Syria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The AI start-ups fixing India's broken roads and messy land records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Customers report service outages at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine holds peace talks with US, Europe as conflict escalates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- California sues OpenAI over Hugging Face attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Five EU countries announce plan to send rejected asylum seekers to Rwanda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Wirtz feels the fun as Germany run riot over Netherlands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman who got hooked on nasal spray for 10 years says it cost her thousands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Paraguay ex-president moved to military jail amid special treatment reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- EU agrees to resurrect cooperation deal with Syria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The AI start-ups fixing India's broken roads and messy land records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Customers report service outages at major US banks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine holds peace talks with US, Europe as conflict escalates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 91/107 | empty: 4 | failed: 12 | malformed/partial: 12
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 80/107 | empty: 4 | failed: 23 | malformed/partial: 23
+- Trusted publisher desks with at least one healthy source: 8/10
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Imran Khan and Adiala Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI and Judiciary Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Today Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: CNN India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: BBC India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Dunya News, Dunya News TV
 
 ## Selected for the queue
-### California sues OpenAI over Hugging Face attack  [NORMAL]
-- Poster:  / California sues OpenAI over Hugging Face attack | category other
-- Alternative headline: California sues OpenAI over Hugging Face attack
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+### Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz  [BREAKING]
+- Poster:  / Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz | category other
+- Alternative headline: Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 95, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: Engadget, TechCrunch, The Verge, BBC Technology
-- Keywords: California sues OpenAI over Hugging | hashtags: 
-- Scheduled: Tue 17 Nov, 04:54 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Live: Houthis advance in Yemen | hashtags: 
+- Scheduled: Tue 17 Nov, 05:57 AM PKT
 - Caption:
 ```
-California sues OpenAI over Hugging Face attack
+Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz
 
-Attorney General Rob Bonta alleges OpenAI misled and endangered the public
-
-Source: BBC Technology
-```
-
-### Five EU countries announce plan to send rejected asylum seekers to Rwanda  [NORMAL]
-- Poster:  / Five EU countries announce plan to send rejected asylum seekers to Rwanda | category other
-- Alternative headline: Five EU countries announce plan to send rejected asylum seekers to Rwanda
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss
-- Supporting coverage: Al Jazeera, BBC
-- Keywords: Five EU countries announce plan | hashtags: 
-- Scheduled: Tue 17 Nov, 05:04 AM PKT
-- Caption:
-```
-Five EU countries announce plan to send rejected asylum seekers to Rwanda
-
-In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.
+Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.
 
 Source: Al Jazeera
 ```
 
-### Wirtz feels the fun as Germany run riot over Netherlands  [NORMAL]
-- Poster:  / Wirtz feels the fun as Germany run riot over Netherlands | category other
-- Alternative headline: Wirtz feels the fun as Germany run riot over Netherlands
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXVEVk05THBuQ09WWXZWMDNvX2J0dE01WXB2LVNTVEtwVFFIS0xMZXZuWDZvaVlLTWF5RFl6Q2lVbUtQdlA5OGJiNEF5VDAwMnhxRU5HTU1LS0t1TEgxUlN1YmY5NEVHQ0dhWG01Rm5xNERRTTlBR3Qwa3JVd1JMbERYUXdxVFlEaVoxWDgtc0ZtRUZi?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXVEVk05THBuQ09WWXZWMDNvX2J0dE01WXB2LVNTVEtwVFFIS0xMZXZuWDZvaVlLTWF5RFl6Q2lVbUtQdlA5OGJiNEF5VDAwMnhxRU5HTU1LS0t1TEgxUlN1YmY5NEVHQ0dhWG01Rm5xNERRTTlBR3Qwa3JVd1JMbERYUXdxVFlEaVoxWDgtc0ZtRUZi?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Wirtz feels the fun as | hashtags: 
-- Scheduled: Tue 17 Nov, 05:14 AM PKT
-- Caption:
-```
-Wirtz feels the fun as Germany run riot over Netherlands
-
-Wirtz feels the fun as Germany run riot over Netherlands Dawn
-
-Source: Dawn
-```
-
-### Woman who got hooked on nasal spray for 10 years says it cost her thousands  [NORMAL]
-- Poster:  / Woman who got hooked on nasal spray for 10 years says it cost her thousands | category other
-- Alternative headline: Woman who got hooked on nasal spray for 10 years says it cost her thousands
+### Paraguay ex-president moved to military jail amid special treatment reports  [NORMAL]
+- Poster:  / Paraguay ex-president moved to military jail amid special treatment reports | category other
+- Alternative headline: Paraguay ex-president moved to military jail amid special treatment reports
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cj93ry10rl11o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cj93ry10rl11o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: Woman who got hooked on | hashtags: 
-- Scheduled: Tue 17 Nov, 05:24 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Paraguay ex-president moved to military | hashtags: 
+- Scheduled: Tue 17 Nov, 05:57 AM PKT
 - Caption:
 ```
-Woman who got hooked on nasal spray for 10 years says it cost her thousands
+Paraguay ex-president moved to military jail amid special treatment reports
 
-Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.
+Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.
 
-Source: BBC Health
+Source: Al Jazeera
+```
+
+### EU agrees to resurrect cooperation deal with Syria  [NORMAL]
+- Poster:  / EU agrees to resurrect cooperation deal with Syria | category other
+- Alternative headline: EU agrees to resurrect cooperation deal with Syria
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: EU agrees to resurrect cooperation | hashtags: 
+- Scheduled: Tue 17 Nov, 06:07 AM PKT
+- Caption:
+```
+EU agrees to resurrect cooperation deal with Syria
+
+Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.
+
+Source: Al Jazeera
+```
+
+### The AI start-ups fixing India's broken roads and messy land records  [NORMAL]
+- Poster:  / The AI start-ups fixing India's broken roads and messy land records | category other
+- Alternative headline: The AI start-ups fixing India's broken roads and messy land records
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology
+- Keywords: The AI start-ups fixing India's | hashtags: 
+- Scheduled: Tue 17 Nov, 06:17 AM PKT
+- Caption:
+```
+The AI start-ups fixing India's broken roads and messy land records
+
+From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.
+
+Source: BBC Technology
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] high | ADB Approves $500M Disaster Financing for Pakistan | Wed 11 Nov, 10:41 PM PKT
@@ -225,8 +226,8 @@ Source: BBC Health
 - [needs_review] normal | Third US aircraft carrier arrives in Middle East amid tensions with Ir | Mon 16 Nov, 10:44 PM PKT
 - [published] breaking | LIVE: Germany vs Netherlands – UEFA Nations League | Mon 16 Nov, 11:15 PM PKT
 - [published] normal | Gold price in Pakistan latest - November 16, 2026 | Mon 16 Nov, 11:15 PM PKT
-- [queued] normal | Trump backs possible return of Jensen Huang as Nvidia CEO | Mon 16 Nov, 11:25 PM PKT
-- [queued] normal | Pakistan to host next Makkah alliance summit later this month: DPM Dar | Mon 16 Nov, 11:35 PM PKT
+- [needs_review] normal | Trump backs possible return of Jensen Huang as Nvidia CEO | Mon 16 Nov, 11:25 PM PKT
+- [needs_review] normal | Pakistan to host next Makkah alliance summit later this month: DPM Dar | Mon 16 Nov, 11:35 PM PKT
 - [queued] normal | Robert Pattinson: How the Twilight star became 007 | Tue 17 Nov, 12:22 AM PKT
 - [queued] normal | US to curb China's access to AI chips as Trump heads to Asia | Tue 17 Nov, 12:32 AM PKT
 - [queued] normal | Punjab to introduce new anti-rape law and speedy courts | Tue 17 Nov, 12:42 AM PKT
@@ -251,9 +252,13 @@ Source: BBC Health
 - [queued] normal | Five EU countries announce plan to send rejected asylum seekers to Rwa | Tue 17 Nov, 05:04 AM PKT
 - [queued] normal | Wirtz feels the fun as Germany run riot over Netherlands | Tue 17 Nov, 05:14 AM PKT
 - [queued] normal | Woman who got hooked on nasal spray for 10 years says it cost her thou | Tue 17 Nov, 05:24 AM PKT
+- [published] breaking | Live: Houthis advance in Yemen as tankers hit sea mines in Strait of H | Tue 17 Nov, 05:57 AM PKT
+- [queued] normal | Paraguay ex-president moved to military jail amid special treatment re | Tue 17 Nov, 05:57 AM PKT
+- [queued] normal | EU agrees to resurrect cooperation deal with Syria | Tue 17 Nov, 06:07 AM PKT
+- [queued] normal | The AI start-ups fixing India's broken roads and messy land records | Tue 17 Nov, 06:17 AM PKT
 
 ## Publishing this run
-- Published 'Gold price in Pakistan latest - November 16, 2026'.
+- Published 'Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
