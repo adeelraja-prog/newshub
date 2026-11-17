@@ -55964,7 +55964,163 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9e096dd44ac2f105af5dbaa7",
+      "remembered_at": "2026-11-17T23:30:16.457944+00:00",
+      "event_date": "2026-11-17T23:09:00+00:00",
+      "last_update": "2026-11-17T23:09:00+00:00",
+      "event": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anti",
+        "are",
+        "confirmed",
+        "deployment",
+        "gang",
+        "haitians",
+        "has",
+        "kidnapped",
+        "leave",
+        "minister",
+        "once",
+        "protest",
+        "rescued",
+        "salvador",
+        "security",
+        "support",
+        "technicians",
+        "the",
+        "troop",
+        "troops",
+        "will"
+      ],
+      "source_excerpt": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+          "published_at": "2026-11-17T23:09:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7be0c9eacb6c594677d87809",
+      "remembered_at": "2026-11-17T23:30:16.457944+00:00",
+      "event_date": "2026-11-17T22:39:23+00:00",
+      "last_update": "2026-11-17T22:39:23+00:00",
+      "event": "Fears toxic lagoon fire led to cancer and miscarriages",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1980",
+        "and",
+        "august",
+        "cancer",
+        "fears",
+        "fire",
+        "incident",
+        "lagoon",
+        "led",
+        "llwyneinion",
+        "miscarriages",
+        "place",
+        "the",
+        "took",
+        "toxic"
+      ],
+      "source_excerpt": "The incident took place in Llwyneinion in August 1980.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T22:39:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f795f80be2da4914fa3c0c18",
+      "remembered_at": "2026-11-17T23:30:16.457944+00:00",
+      "event_date": "2026-11-17T22:44:15+00:00",
+      "last_update": "2026-11-17T22:44:15+00:00",
+      "event": "Thomas Markle charged over child sex abuse material in Philippines",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abuse",
+        "all",
+        "allegations",
+        "and",
+        "being",
+        "charge",
+        "charged",
+        "child",
+        "denied",
+        "has",
+        "held",
+        "markle",
+        "material",
+        "over",
+        "philippines",
+        "previously",
+        "prison",
+        "separate",
+        "sex",
+        "the",
+        "thomas"
+      ],
+      "source_excerpt": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T22:44:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T22:32:43.543887+00:00"
+  "updated_at": "2026-11-17T23:30:16.457944+00:00"
 }

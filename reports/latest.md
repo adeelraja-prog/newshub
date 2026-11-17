@@ -1,144 +1,156 @@
-# News Hub report - Wed 18 Nov, 03:32 AM PKT
+# News Hub report - Wed 18 Nov, 04:30 AM PKT
 
 ## Collection
-- New items this run: 38 | items in rolling pool: 607
-- Unique story clusters: 527 (duplicates merged: 80)
-- Clusters dropped as already published/queued: 33; unchanged since last analysis: 3
-- Items per outlet: The Verge 5, Geo News 3, The Express Tribune 3, TechCrunch 3, Dawn Latest 2, Al Jazeera 2, The New York Times 2, Dawn 1, Dunya News 1, samaa tv 1, Bloomberg.com 1, Engadget 1
+- New items this run: 19 | items in rolling pool: 524
+- Unique story clusters: 460 (duplicates merged: 64)
+- Clusters dropped as already published/queued: 35; unchanged since last analysis: 3
+- Items per outlet: Geo News 4, Engadget 3, Ars Technica 3, Al Jazeera 2, The Verge 2, TechCrunch 2, Wired 1, BBC Health 1, BBC World 1, Geo News Fast Lane 0, ARY News Fast Lane 0, Samaa Fast Lane 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Current account swings to $39m surplus | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Last-gasp Haaland shoots Norway into Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Israeli settlement firms to protect two-state solution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Whistleblower: Deadly drone strike in Kuwait could’ve been avoided | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Fed’s Lisa Cook refuses to attend White House hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK hands NATO-assigned US soldier accused of Russia spying to US military | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- I want to know if toxic lagoon fire caused my husband's rare deadly cancer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Haitians protest in support of El Salvador’s anti-gang troop deployment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Current account swings to $39m surplus | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Last-gasp Haaland shoots Norway into Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Israeli settlement firms to protect two-state solution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Whistleblower: Deadly drone strike in Kuwait could’ve been avoided | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Fed’s Lisa Cook refuses to attend White House hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK hands NATO-assigned US soldier accused of Russia spying to US military | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- I want to know if toxic lagoon fire caused my husband's rare deadly cancer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Haitians protest in support of El Salvador’s anti-gang troop deployment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Current account swings to $39m surplus | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Last-gasp Haaland shoots Norway into Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Israeli settlement firms to protect two-state solution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Whistleblower: Deadly drone strike in Kuwait could’ve been avoided | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Fed’s Lisa Cook refuses to attend White House hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK hands NATO-assigned US soldier accused of Russia spying to US military | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- I want to know if toxic lagoon fire caused my husband's rare deadly cancer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Haitians protest in support of El Salvador’s anti-gang troop deployment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 0
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- Overall feeds with entries: 22/107 | empty: 1 | failed: 84 | malformed/partial: 85
+- Trusted publisher desks with at least one healthy source: 4/10
+- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Samaa, Express News, Dawn, The News International, Dunya News, Dunya News TV
 
 ## Selected for the queue
-### Pakistan Posts $39 Million Current Account Surplus in October, SBP Reports  [NORMAL]
-- Poster: پاکستان کا کرنٹ اکاؤنٹ اکتوبر میں 39 ملین ڈالر سرپلس ہو گیا / Pakistan Posts $39M Current Account Surplus | category economy
-- Alternative headline: Current account swings to $39m surplus in October: SBP
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMif0FVX3lxTE9oQ2RHUkppOHZuSi02Yjc1Zl9ycThkb2xmTUh6cTRwUlBnaFpKTEFXcHk4ZUVZZTU2WkpORWZmSTBROUd5ZnlmeS1DMXd6eUx1Z05nc2hSSDJIemJuMmVNQzZGWlNGUWdpVk0zT1VOc3JENGFIWDJmZ0E5TzJ6dzDSAYcBQVVfeXFMUG45Qjd1UnlCU0ZGcFhTWERPUDBldFZzdTJCdWgyNDdHeVlkRk9GSjF1WFl0NHkySzN4RGZyZkpFMVJfUDI2NEluVllQc0JhOW1fTDQ1UnBDSEFlZXlJVVFLVWRvc3VwZHAwTTJPWnN6UFpjSG04NzYzX3BoQk9CSTdwR2xLZjQw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMif0FVX3lxTE9oQ2RHUkppOHZuSi02Yjc1Zl9ycThkb2xmTUh6cTRwUlBnaFpKTEFXcHk4ZUVZZTU2WkpORWZmSTBROUd5ZnlmeS1DMXd6eUx1Z05nc2hSSDJIemJuMmVNQzZGWlNGUWdpVk0zT1VOc3JENGFIWDJmZ0E5TzJ6dzDSAYcBQVVfeXFMUG45Qjd1UnlCU0ZGcFhTWERPUDBldFZzdTJCdWgyNDdHeVlkRk9GSjF1WFl0NHkySzN4RGZyZkpFMVJfUDI2NEluVllQc0JhOW1fTDQ1UnBDSEFlZXlJVVFLVWRvc3VwZHAwTTJPWnN6UFpjSG04NzYzX3BoQk9CSTdwR2xLZjQw?oc=5
-- Supporting coverage: UrduPoint, Profit by Pakistan Today, The Express Tribune
-- Keywords: current account surplus, Pakistan economy, SBP, October surplus, State Bank of Pakistan, foreign exchange | hashtags: #Pakistan #Economy #SBP #CurrentAccount #Business
-- Scheduled: Wed 18 Nov, 03:32 AM PKT
-- Caption:
-```
-Pakistan's current account swung to a positive balance with a $39 million surplus in October, according to the State Bank.
-
-Pakistan's current account balance recorded a positive turn with a $39 million surplus in October, according to recent figures reported by the State Bank of Pakistan and covered by the Express Tribune.
-
-اسٹیٹ بینک آف پاکستان کی رپورٹ کے مطابق اکتوبر کے دوران پاکستان کا کرنٹ اکاؤنٹ 39 ملین ڈالر کے سرپلس کے ساتھ مثبت زون میں آ گیا ہے۔
-
-First reported by The Express Tribune.
-
-#Pakistan #Economy #SBP #CurrentAccount #Business
-```
-
-### Last-gasp Haaland shoots Norway into Nations League quarters  [NORMAL]
-- Poster: ہالن کے آخری لمحے کے گول نے ناروے کو نیشنز لیگ کے کوارٹر فائنل میں پہنچا دیا / Haaland Sends Norway Into Nations League Quarters | category sports
-- Alternative headline: Haaland's late strike secures Norway's spot in Nations League quarters
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlhaMngxTFFSWjBrQ1RJMjVWWXNkLWxpSzk4S1FjN3ZGd1owc0dfVGEzZDg1NFJicWdDS0lheGZHNEdWSXNKVkpGOU1GQUdtWlRSQmRPWTdMMjZ4WDdIQ3dUbDZmcThwYjJtcDdqeHBnVkJUdHk0aThzOXFkcmYyUjU2R2dZUWtoZGpxRDR0cE14UU14a0hSb2t3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlhaMngxTFFSWjBrQ1RJMjVWWXNkLWxpSzk4S1FjN3ZGd1owc0dfVGEzZDg1NFJicWdDS0lheGZHNEdWSXNKVkpGOU1GQUdtWlRSQmRPWTdMMjZ4WDdIQ3dUbDZmcThwYjJtcDdqeHBnVkJUdHk0aThzOXFkcmYyUjU2R2dZUWtoZGpxRDR0cE14UU14a0hSb2t3?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Erling Haaland, Norway, Nations League, football, quarterfinals, Dawn | hashtags: #Haaland #Norway #NationsLeague #Football #Sports
-- Scheduled: Wed 18 Nov, 03:42 AM PKT
-- Caption:
-```
-Erling Haaland scored a dramatic late goal to secure Norway's progression into the UEFA Nations League quarterfinals.
-
-Erling Haaland delivered a decisive late goal to secure Norway's advancement into the UEFA Nations League quarterfinals, as reported by Dawn.
-
-ارلنگ ہالن نے میچ کے آخری لمحات میں فیصلہ کن گول کر کے ناروے کو یوفا نیشنز لیگ کے کوارٹر فائنل میں پہنچا دیا ہے۔
-
-First reported by Dawn.
-
-#Haaland #Norway #NationsLeague #Football #Sports
-```
-
-### UK sanctions Israeli settlement firms to protect two-state solution  [NORMAL]
-- Poster: برطانیہ نے اسرائیلی بستیوں کی حمایت کرنے والی کمپنیوں پر پابندیاں عائد کر دیں / UK Sanctions Israeli Settlement Firms | category world
-- Alternative headline: UK imposes new sanctions on eight Israeli settlement companies
+### US Fed's Lisa Cook refuses to attend White House hearing  [NORMAL]
+- Poster: امریکی فیڈ کی لیزا کُوک کا وائٹ ہاؤس کی سماعت میں شرکت سے انکار / US Fed's Lisa Cook skips White House hearing | category politics
+- Alternative headline: Lisa Cook declines White House hearing amid firing attempts
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: UK sanctions, Israeli settlements, West Bank, two-state solution, Al Jazeera, UK foreign policy | hashtags: #UKSanctions #WestBank #Israel #AlJazeera #WorldNews
-- Scheduled: Wed 18 Nov, 03:52 AM PKT
+- Keywords: Lisa Cook, US Federal Reserve, White House, Donald Trump, hearing | hashtags: #LisaCook #USFed #WhiteHouse #DonaldTrump
+- Scheduled: Wed 18 Nov, 04:30 AM PKT
 - Caption:
 ```
-The UK government has imposed new sanctions targeting eight Israeli companies supporting illegal settlements in the occupied West Bank.
+US Federal Reserve official Lisa Cook has refused to attend a scheduled White House hearing amid ongoing pressures.
 
-The United Kingdom has announced new sanctions against eight Israeli companies accused of supporting illegal settlements in the occupied West Bank, aiming to safeguard the viability of the two-state solution, according to Al Jazeera.
+US Federal Reserve official Lisa Cook has refused to attend a White House hearing. President Donald Trump has been attempting to remove Cook from her position since August 2025, creating ongoing tension between the administration and the central bank.
 
-برطانیہ نے مقبوضہ مغربی کنارے میں غیر قانونی بستیوں کی حمایت کرنے والی آٹھ اسرائیلی کمپنیوں پر نئی پابندیاں عائد کر دی ہیں۔
+امریکی فیڈرل ریزرو کی عہدیدار لیزا کُوک نے وائٹ ہاؤس کی سماعت میں شرکت سے انکار کر دیا ہے۔ امریکی صدر ڈونلڈ ٹرمپ اگست 2025 سے کُوک کو برطرف کرنے کی کوشش کر رہے ہیں، جس سے انتظامیہ اور مرکزی بینک کے درمیان کشیدگی پائی جاتی ہے۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#UKSanctions #WestBank #Israel #AlJazeera #WorldNews
+#LisaCook #USFed #WhiteHouse #DonaldTrump
 ```
 
-### Democrats plan investigations into Trump's Venezuela oil money plans  [NORMAL]
-- Poster: ڈیموکریٹس کی ٹرمپ کے وینزویلا کے تیل کے معاملات کی جانچ پڑتال کی تیاری / Democrats to Probe Trump's Venezuela Oil Plans | category world
-- Alternative headline: Zero transparency: Democrats target Trump's Venezuela oil dealings
+### UK hands over NATO-assigned US soldier accused of spying to US military  [NORMAL]
+- Poster: برطانیہ نے روس کے لیے جاسوسی کے الزام میں گرفتار امریکی فوجی کو حوالے کر دیا / UK transfers accused US soldier to military custody | category security
+- Alternative headline: Accused US spy soldier transferred to US military custody by UK
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Venezuela oil money, Trump administration, US Congress, Democrats, investigation, Al Jazeera | hashtags: #Venezuela #Trump #USPolitics #Democrats #AlJazeera
-- Scheduled: Wed 18 Nov, 04:02 AM PKT
+- Keywords: US soldier, UK authorities, NATO, espionage, US military | hashtags: #USSoldier #UKPolice #NATO #Espionage
+- Scheduled: Wed 18 Nov, 04:40 AM PKT
 - Caption:
 ```
-Democrats have announced plans to investigate Donald Trump's dealings concerning Venezuela's oil funds after winning control of Congress.
+UK authorities have transferred a NATO-assigned US soldier accused of spying to the US military.
 
-Following their victory in securing control of Congress, US Democrats have stated their intention to investigate Donald Trump's administration dealings and transparency regarding Venezuela's oil money, as reported by Al Jazeera.
+UK authorities have passed the investigation of a NATO-assigned US soldier, who was accused of spying for Russia, over to the US military. Officials stated the transfer was conducted in line with existing international protocols.
 
-کانگریس میں اکثریت حاصل کرنے کے بعد ڈیموکریٹس نے وینزویلا کے تیل کے پیسوں سے متعلق ڈونلڈ ٹرمپ کے معاملات کی تحقیقات کا اعلان کیا ہے۔
+برطانوی حکام نے روس کے لیے جاسوسی کے الزام میں گرفتار نیٹو سے وابستہ امریکی فوجی کی تحقیقات امریکی فوج کے حوالے کر دی ہیں۔ حکام کا کہنا ہے کہ یہ منتقلی موجودہ بین الاقوامی پروٹوکول کے مطابق کی گئی ہے۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#Venezuela #Trump #USPolitics #Democrats #AlJazeera
+#USSoldier #UKPolice #NATO #Espionage
 ```
 
-- Indian outlets blocked this run: 0 items
+### Nvidia reports record sales as new boss rules out Jensen Huang return  [NORMAL]
+- Poster: جینسن ہوانگ کی برطرفی کے بعد اینویڈیا کی فروخت میں دگنا اضافہ / Nvidia reports record sales after Huang exit | category tech
+- Alternative headline: Nvidia quarterly sales double past 100 billion dollars after Huang departure
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology
+- Keywords: Nvidia, Jensen Huang, Collette Kress, sales, profits | hashtags: #Nvidia #JensenHuang #TechNews #Business
+- Scheduled: Wed 18 Nov, 04:50 AM PKT
+- Caption:
+```
+Nvidia's quarterly sales doubled to surpass 100 billion dollars as the firm confirmed ousted founder Jensen Huang will not return.
+
+Nvidia reported that quarterly sales doubled to top 100 billion dollars for the first time, reaching 115.8 billion dollars, while confirming it will not reinstate ousted founder Jensen Huang. Interim chief executive Collette Kress stated it is business as usual as profits also doubled to 65 billion dollars.
+
+اینویڈیا نے رپورٹ کیا ہے کہ سہ ماہی فروخت پہلی بار دگنی ہو کر 100 ارب ڈالر سے تجاوز کر گئی ہے اور 115.8 ارب ڈالر تک پہنچ گئی ہے، جبکہ کمپنی نے تصدیق کی ہے کہ وہ برطرف بانی جینسن ہوانگ کو بحال نہیں کرے گی۔ قائم مقام چیف ایگزیکٹو کولیٹ کریس نے کہا کہ کاروبار معمول کے مطابق جاری ہے۔
+
+First reported by BBC Technology
+
+#Nvidia #JensenHuang #TechNews #Business
+```
+
+### Widow questions if 1980 toxic lagoon fire caused husband's rare cancer  [NORMAL]
+- Poster: خاتون کا شوہر کے کینسر کی وجہ 1980 کے کیمیائی فضلے کی آگ کو قرار دینے کا مطالبہ / Widow questions toxic fire link to husband's cancer | category health
+- Alternative headline: Wife seeks answers over husband's fatal cancer following toxic waste fire
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: toxic lagoon fire, cancer, firefighter, Wrexham council, health | hashtags: #ToxicFire #HealthNews #CancerResearch #BBC
+- Scheduled: Wed 18 Nov, 05:00 AM PKT
+- Caption:
+```
+A grieving widow is questioning whether a massive 1980 toxic waste lagoon fire caused her firefighter husband's rare terminal cancer.
+
+Jilska Williams is seeking accountability, believing her late husband Steve Williams contracted a rare and fatal form of lung cancer due to chemicals swallowed while battling a blazing chemical waste lagoon fire in August 1980. Wrexham council noted regular inspections, while experts stated linking chemical exposure to later health issues is difficult.
+
+جلস্کا ولیمز اس بات کا جواب چاہتی ہیں کہ آیا اگست 1980 میں کیمیائی فضلے کی جھیل میں لگنے والی آگ کے دوران شوہر سٹیو ولیمز کے نگلے گئے کیمیکلز ان کے نایاب اور مہلک پھیپھڑوں کے کینسر کا سبب بنے۔ ریکسہم کونسل نے کہا کہ وہ علاقے کا باقاعدگی سے معائنہ کرتی ہے۔
+
+First reported by BBC Health
+
+#ToxicFire #HealthNews #CancerResearch #BBC
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
 
 ## Queue status
-- [needs_review] normal | Trump, Xi, Putin Plan Unprecedented Joint Meeting at APEC | Sat 14 Nov, 10:20 PM PKT
 - [needs_review] normal | Nishat Group Agrees to Explore Investment in Pakistan's New Port Proje | Sat 14 Nov, 11:41 PM PKT
 - [needs_review] normal | US Supreme Court Agrees to Hear Trump Administration's Asylum Appeal | Sat 14 Nov, 11:51 PM PKT
 - [needs_review] normal | Iran Accuses US of Threatening to Starve Civilians Through Blockade | Sun 15 Nov, 12:22 AM PKT
@@ -292,7 +304,7 @@ First reported by Al Jazeera.
 - [published] normal | Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack | Tue 17 Nov, 11:39 PM PKT
 - [published] normal | ECP Decides to Hold Punjab Local Government Elections in Two Phases | Tue 17 Nov, 11:49 PM PKT
 - [published] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
-- [queued] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
+- [published] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
 - [queued] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
 - [queued] normal | UK sanctions Israeli firms building West Bank settlements | Wed 18 Nov, 12:57 AM PKT
 - [queued] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
@@ -309,15 +321,16 @@ First reported by Al Jazeera.
 - [queued] normal | Last-gasp Haaland shoots Norway into Nations League quarters | Wed 18 Nov, 03:42 AM PKT
 - [queued] normal | UK sanctions Israeli settlement firms to protect two-state solution | Wed 18 Nov, 03:52 AM PKT
 - [queued] normal | Democrats plan investigations into Trump's Venezuela oil money plans | Wed 18 Nov, 04:02 AM PKT
+- [queued] normal | US Fed's Lisa Cook refuses to attend White House hearing | Wed 18 Nov, 04:30 AM PKT
+- [queued] normal | UK hands over NATO-assigned US soldier accused of spying to US militar | Wed 18 Nov, 04:40 AM PKT
+- [queued] normal | Nvidia reports record sales as new boss rules out Jensen Huang return | Wed 18 Nov, 04:50 AM PKT
+- [queued] normal | Widow questions if 1980 toxic lagoon fire caused husband's rare cancer | Wed 18 Nov, 05:00 AM PKT
 
 ## Publishing this run
-- Published 'PTA Finalises Licensing Framework for In-Flight Internet Services'.
+- Published 'Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4257 | output tokens: 1950
+- Calls: 3 | prompt tokens: 3969 | output tokens: 2207
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
