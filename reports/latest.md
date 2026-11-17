@@ -1,32 +1,32 @@
-# News Hub report - Tue 17 Nov, 01:55 PM PKT
+# News Hub report - Tue 17 Nov, 02:58 PM PKT
 
 ## Collection
-- New items this run: 91 | items in rolling pool: 484
-- Unique story clusters: 398 (duplicates merged: 86)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 27, samaa tv 7, Al Jazeera 7, ProPakistani 5, Profit by Pakistan Today 5, Dawn 4, The Current 4, ARY News 3, TechJuice 3, Dawn Latest 2, Geo News 2, BBC 2
+- New items this run: 102 | items in rolling pool: 527
+- Unique story clusters: 439 (duplicates merged: 88)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 3
+- Items per outlet: UrduPoint 17, ProPakistani 10, TechJuice 8, Geo News 7, ARY News 7, samaa tv 5, Dawn 4, Investify 4, Dunya News 3, Al Jazeera 3, PhoneWorld 3, Bloomberg.com 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Leonid meteor shower 2026: When and where to see it from where you live | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Oil slips as recovering Mideast exports blunt Gulf tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rs1,500 and Rs100 prize bond draw winners announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NDMA issues drought high alert for Sindh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gamers in Asia stoked to play 'GTA VI', many on grey market | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Poll suggests only 31pc of Americans support war on Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB approves $500mn loan to support Pakistan's rension reforms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Turkmenistan discuss ways to strengthen trade, energy, regional connectivity ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Leonid meteor shower 2026: When and where to see it from where you live | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Oil slips as recovering Mideast exports blunt Gulf tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rs1,500 and Rs100 prize bond draw winners announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NDMA issues drought high alert for Sindh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gamers in Asia stoked to play 'GTA VI', many on grey market | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Poll suggests only 31pc of Americans support war on Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB approves $500mn loan to support Pakistan's rension reforms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Turkmenistan discuss ways to strengthen trade, energy, regional connectivity ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Leonid meteor shower 2026: When and where to see it from where you live | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Oil slips as recovering Mideast exports blunt Gulf tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rs1,500 and Rs100 prize bond draw winners announced | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NDMA issues drought high alert for Sindh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gamers in Asia stoked to play 'GTA VI', many on grey market | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Poll suggests only 31pc of Americans support war on Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB approves $500mn loan to support Pakistan's rension reforms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Turkmenistan discuss ways to strengthen trade, energy, regional connectivity ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
@@ -37,90 +37,90 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage  [NORMAL]
-- Poster:  / Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | category other
-- Alternative headline: Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage
+### NDMA issues drought high alert for Sindh  [NORMAL]
+- Poster:  / NDMA issues drought high alert for Sindh | category other
+- Alternative headline: NDMA issues drought high alert for Sindh
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXlNSUVNYzZGLXJfc1JjYW9jVmpudHVQOHNWWTlwTFJqNXlXa2syak83cWFiRS1uQ3UyM0tYQmZJRUpTcTh0VjQ0VzA2elAwUUZNR2trZ0FtV2Z6ZlROMTBDN0hFWGhoWlNDSVZvNXg5YWJOU3gzY2VYLWh3a3hDU1NpTmszdDBTWjA3SVpPbWREM0w4?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXlNSUVNYzZGLXJfc1JjYW9jVmpudHVQOHNWWTlwTFJqNXlXa2syak83cWFiRS1uQ3UyM0tYQmZJRUpTcTh0VjQ0VzA2elAwUUZNR2trZ0FtV2Z6ZlROMTBDN0hFWGhoWlNDSVZvNXg5YWJOU3gzY2VYLWh3a3hDU1NpTmszdDBTWjA3SVpPbWREM0w4?oc=5
-- Supporting coverage: Dawn, Al Jazeera, Al Jazeera
-- Keywords: Ukraine hits Russia’s Crimea bridge | hashtags: 
-- Scheduled: Tue 17 Nov, 01:55 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/ndma-issues-drought-high-alert-sindh | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/ndma-issues-drought-high-alert-sindh
+- Supporting coverage: ARY News, samaa tv
+- Keywords: NDMA issues drought high alert | hashtags: 
+- Scheduled: Tue 17 Nov, 02:58 PM PKT
 - Caption:
 ```
-Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage
+NDMA issues drought high alert for Sindh
 
-Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage Dawn
+NDMA issues drought high alert for Sindh
+
+Source: ARY News
+```
+
+### Gamers in Asia stoked to play 'GTA VI', many on grey market  [NORMAL]
+- Poster:  / Gamers in Asia stoked to play 'GTA VI', many on grey market | category other
+- Alternative headline: Gamers in Asia stoked to play 'GTA VI', many on grey market
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkhIUlh5NUpDUmFQeDFLeFVpejlPd2htdDJlR2pwZEdHcUpxWGNCM0I4M0JMbHpkNUQ5R3NOQVk4TmFqX21PUVUzT0x6RDhzWXZSbzYtanI0a2JFLVZDYWZVclM1Ym9vVF9Sc1d2YVJYWXZDcC1MYUpNSEVwWVhvaUFKUFNXdk1aQjBfbl9nazdkOWt3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkhIUlh5NUpDUmFQeDFLeFVpejlPd2htdDJlR2pwZEdHcUpxWGNCM0I4M0JMbHpkNUQ5R3NOQVk4TmFqX21PUVUzT0x6RDhzWXZSbzYtanI0a2JFLVZDYWZVclM1Ym9vVF9Sc1d2YVJYWXZDcC1MYUpNSEVwWVhvaUFKUFNXdk1aQjBfbl9nazdkOWt3?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Gamers in Asia stoked to | hashtags: 
+- Scheduled: Tue 17 Nov, 03:08 PM PKT
+- Caption:
+```
+Gamers in Asia stoked to play 'GTA VI', many on grey market
+
+Gamers in Asia stoked to play 'GTA VI', many on grey market Dawn
 
 Source: Dawn
 ```
 
-### Leonid meteor shower 2026: When and where to see it from where you live  [NORMAL]
-- Poster:  / Leonid meteor shower 2026: When and where to see it from where you live | category other
-- Alternative headline: Leonid meteor shower 2026: When and where to see it from where you live
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss
-- Supporting coverage: Al Jazeera, BBC Science
-- Keywords: Leonid meteor shower 2026: When | hashtags: 
-- Scheduled: Tue 17 Nov, 02:05 PM PKT
-- Caption:
-```
-Leonid meteor shower 2026: When and where to see it from where you live
-
-The Leonids, among the year's fastest meteor showers, peak on November 17-18. Find the best time to watch in your city.
-
-Source: Al Jazeera
-```
-
-### Oil slips as recovering Mideast exports blunt Gulf tensions  [NORMAL]
-- Poster:  / Oil slips as recovering Mideast exports blunt Gulf tensions | category other
-- Alternative headline: Oil slips as recovering Mideast exports blunt Gulf tensions
+### Poll suggests only 31pc of Americans support war on Iran  [NORMAL]
+- Poster:  / Poll suggests only 31pc of Americans support war on Iran | category other
+- Alternative headline: Poll suggests only 31pc of Americans support war on Iran
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVJic3JDRlVaT2VJcWlGRVliWF9YWXdDU2otbEl5YzlPbnVGekdIRXlUN2ZQTTRlVWtBODAyR0wwRXNCLWs4bXl1QlBndlNrVUMzX0lQcHVMY1dxdlVqaDdjQ1ctM3RTWmloaUlsS3RjN1VtNmJtWndmNFBIMk1pbjlWZ0M1c2NRSUVtVnFmQXZzM0VwWG9NZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVJic3JDRlVaT2VJcWlGRVliWF9YWXdDU2otbEl5YzlPbnVGekdIRXlUN2ZQTTRlVWtBODAyR0wwRXNCLWs4bXl1QlBndlNrVUMzX0lQcHVMY1dxdlVqaDdjQ1ctM3RTWmloaUlsS3RjN1VtNmJtWndmNFBIMk1pbjlWZ0M1c2NRSUVtVnFmQXZzM0VwWG9NZw?oc=5
-- Supporting coverage: Dawn, The Express Tribune, Profit by Pakistan Today
-- Keywords: Oil slips as recovering Mideast | hashtags: 
-- Scheduled: Tue 17 Nov, 02:15 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNSDh4OVdBNWM3aGpuMFJjTTB2bXZiT0xsZl9rOTlCWkpmeTNWRTEtNG44VnA1VkdiTWk2YTRGaWtNU25aYVJZQVdZOV9TUm12a0EwUHdmVGpMTzdxNDVrWUx6QkI1U3hRRFdnOXNRcVZ4ZHdtWHBFaW5jSjVMSTJRa0xFOFNKaTF0YjFTUThlejRJTHRp?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNSDh4OVdBNWM3aGpuMFJjTTB2bXZiT0xsZl9rOTlCWkpmeTNWRTEtNG44VnA1VkdiTWk2YTRGaWtNU25aYVJZQVdZOV9TUm12a0EwUHdmVGpMTzdxNDVrWUx6QkI1U3hRRFdnOXNRcVZ4ZHdtWHBFaW5jSjVMSTJRa0xFOFNKaTF0YjFTUThlejRJTHRp?oc=5
+- Supporting coverage: Mehr News Agency, Dawn
+- Keywords: Poll suggests only 31pc of | hashtags: 
+- Scheduled: Tue 17 Nov, 03:18 PM PKT
 - Caption:
 ```
-Oil slips as recovering Mideast exports blunt Gulf tensions
+Poll suggests only 31pc of Americans support war on Iran
 
-Oil slips as recovering Mideast exports blunt Gulf tensions Dawn
+Poll suggests only 31pc of Americans support war on Iran Dawn
 
 Source: Dawn
 ```
 
-### Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test  [NORMAL]
-- Poster:  / Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | category other
-- Alternative headline: Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test
+### ADB approves $500mn loan to support Pakistan's rension reforms  [NORMAL]
+- Poster:  / ADB approves $500mn loan to support Pakistan's rension reforms | category other
+- Alternative headline: ADB approves $500mn loan to support Pakistan's rension reforms
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxPSG9CVHY1YjdhSGJjeXR1SmNReEU1NGFyNW5KMi1CQlJQUmtkcXltdE8wd3h6eEVWSzN2bmdGQ2E0U1hocFJ6NDVtWG5RaWxsbHp6WFJidzRaRDgydldvdGoyX3dhMkVmVUFQbEhxZlBxeHRITW9HVUpxUHNsZDZ3a0JVS3JaY0VPOWVtdDRXQlAwWV8tOHNvN2VWdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxPSG9CVHY1YjdhSGJjeXR1SmNReEU1NGFyNW5KMi1CQlJQUmtkcXltdE8wd3h6eEVWSzN2bmdGQ2E0U1hocFJ6NDVtWG5RaWxsbHp6WFJidzRaRDgydldvdGoyX3dhMkVmVUFQbEhxZlBxeHRITW9HVUpxUHNsZDZ3a0JVS3JaY0VPOWVtdDRXQlAwWV8tOHNvN2VWdw?oc=5
-- Supporting coverage: samaa tv
-- Keywords: Pakistan fast bowlers dominate as | hashtags: 
-- Scheduled: Tue 17 Nov, 02:25 PM PKT
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFFek92ZlJyY2I5VnZxWW1UMFRHWmVjREdNaE9kRUpjRUxXcFV2eGRVVUdSTVJwVGdiZFZVM21TbThfemh2UlRxVG5BdlltamJMLTZpRmVYQlMyemNWbDZ4LUl1SUZjX1V2SUhpYlNZX2hnYm4yVXRpbW1rVDRLNkNNWDFVdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFFek92ZlJyY2I5VnZxWW1UMFRHWmVjREdNaE9kRUpjRUxXcFV2eGRVVUdSTVJwVGdiZFZVM21TbThfemh2UlRxVG5BdlltamJMLTZpRmVYQlMyemNWbDZ4LUl1SUZjX1V2SUhpYlNZX2hnYm4yVXRpbW1rVDRLNkNNWDFVdw?oc=5
+- Supporting coverage: ARYnews.tv, ARY News
+- Keywords: ADB approves $500mn loan to | hashtags: 
+- Scheduled: Tue 17 Nov, 03:28 PM PKT
 - Caption:
 ```
-Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test
+ADB approves $500mn loan to support Pakistan's rension reforms
 
-Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test samaa tv
+ADB approves $500mn loan to support Pakistan's rension reforms ARYnews.tv
 
-Source: samaa tv
+Source: ARYnews.tv
 ```
 
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [published] high | 16 Terrorists Killed, 2 Army Soldiers Martyred in KP Intelligence Oper | Sat 14 Nov, 08:54 PM PKT
@@ -237,10 +237,10 @@ Source: samaa tv
 - [needs_review] normal | Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | Tue 17 Nov, 07:31 AM PKT
 - [needs_review] normal | Ukraine holds peace talks with US, Europe as conflict escalates | Tue 17 Nov, 07:41 AM PKT
 - [published] normal | Flour gets costlier as imports stay insufficient | Tue 17 Nov, 08:10 AM PKT
-- [queued] normal | Irish court jails man for life over Dublin knife attack that sparked r | Tue 17 Nov, 08:20 AM PKT
-- [queued] normal | UK seeks closer ties with EU after Brexit fail | Tue 17 Nov, 08:30 AM PKT
-- [queued] normal | Ethiopia Moyale clashes disrupt livelihoods as territorial dispute dee | Tue 17 Nov, 08:40 AM PKT
-- [queued] normal | Guitar workshop by Portuguese musician turns into musical treat | Tue 17 Nov, 09:09 AM PKT
+- [needs_review] normal | Irish court jails man for life over Dublin knife attack that sparked r | Tue 17 Nov, 08:20 AM PKT
+- [needs_review] normal | UK seeks closer ties with EU after Brexit fail | Tue 17 Nov, 08:30 AM PKT
+- [needs_review] normal | Ethiopia Moyale clashes disrupt livelihoods as territorial dispute dee | Tue 17 Nov, 08:40 AM PKT
+- [published] normal | Guitar workshop by Portuguese musician turns into musical treat | Tue 17 Nov, 09:09 AM PKT
 - [queued] normal | Minister Buledi clarifies remarks on tribal system | Tue 17 Nov, 09:19 AM PKT
 - [queued] normal | Four lawyers appointed special ATC judges | Tue 17 Nov, 09:29 AM PKT
 - [queued] normal | Punjab to sue Salik over graft claims against Maryam | Tue 17 Nov, 09:39 AM PKT
@@ -260,9 +260,13 @@ Source: samaa tv
 - [queued] normal | Leonid meteor shower 2026: When and where to see it from where you liv | Tue 17 Nov, 02:05 PM PKT
 - [queued] normal | Oil slips as recovering Mideast exports blunt Gulf tensions | Tue 17 Nov, 02:15 PM PKT
 - [queued] normal | Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | Tue 17 Nov, 02:25 PM PKT
+- [queued] normal | NDMA issues drought high alert for Sindh | Tue 17 Nov, 02:58 PM PKT
+- [queued] normal | Gamers in Asia stoked to play 'GTA VI', many on grey market | Tue 17 Nov, 03:08 PM PKT
+- [queued] normal | Poll suggests only 31pc of Americans support war on Iran | Tue 17 Nov, 03:18 PM PKT
+- [queued] normal | ADB approves $500mn loan to support Pakistan's rension reforms | Tue 17 Nov, 03:28 PM PKT
 
 ## Publishing this run
-- Published 'Flour gets costlier as imports stay insufficient'.
+- Published 'Guitar workshop by Portuguese musician turns into musical treat'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

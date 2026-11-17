@@ -47662,7 +47662,739 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cb8e95fe66626dd9480d2d20",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T06:51:06+00:00",
+      "last_update": "2026-11-17T09:13:41+00:00",
+      "event": "NDMA issues drought high alert for Sindh",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alert",
+        "drought",
+        "for",
+        "high",
+        "issues",
+        "ndma",
+        "sindh"
+      ],
+      "source_excerpt": "NDMA issues drought high alert for Sindh",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/ndma-issues-drought-high-alert-sindh",
+          "published_at": "2026-11-17T06:51:06+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVBxQ0dQcE44cGhKdWFMWkRpRFBZcUctRXoxaERIa1oxSG5MVVpiVzQtbWR6Q1dXYlktRy1VSVp5bmNzTzVIUjVVWVppckZhZUdLcU5BUDVITGppZGJIaDlpdmZKY1FoMHNqaVN3Sk1LWG5nendNSU1adGk1cUpFVFlyZXF2VlpYZWc?oc=5",
+          "published_at": "2026-11-17T09:13:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/ndma-issues-drought-high-alert-sindh",
+        "publisher_url": "https://arynews.tv/ndma-issues-drought-high-alert-sindh",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bde71fc06e2044fe97abd370",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T04:12:00+00:00",
+      "last_update": "2026-11-17T08:47:15+00:00",
+      "event": "Poll suggests only 31pc of Americans support war on Iran",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "31pc",
+        "americans",
+        "dawn",
+        "iran",
+        "only",
+        "poll",
+        "suggests",
+        "support",
+        "war"
+      ],
+      "source_excerpt": "Poll suggests only 31pc of Americans support war on Iran Dawn",
+      "sources": [
+        {
+          "name": "Mehr News Agency",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVnBReUk0b0gtcU1Ta0pQV0xVTVZKakt2OXZ4THFmSUZ6QVMyTFctUDFXVXdYaDBxV051TjVEaFNYckpGN0JMZU9jRDZxTWlIaktOa1plRzdSV2l6Q3dHQ2FvUDM3RzZDazZCZ0JEXzRseHAzd0FYdURMVTRKdkx2V0l1NVNwdlVsZDB6cm4zY2NWUVltZkNBMXZ2TQ?oc=5",
+          "published_at": "2026-11-17T04:12:00+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSDh4OVdBNWM3aGpuMFJjTTB2bXZiT0xsZl9rOTlCWkpmeTNWRTEtNG44VnA1VkdiTWk2YTRGaWtNU25aYVJZQVdZOV9TUm12a0EwUHdmVGpMTzdxNDVrWUx6QkI1U3hRRFdnOXNRcVZ4ZHdtWHBFaW5jSjVMSTJRa0xFOFNKaTF0YjFTUThlejRJTHRp?oc=5",
+          "published_at": "2026-11-17T08:47:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSDh4OVdBNWM3aGpuMFJjTTB2bXZiT0xsZl9rOTlCWkpmeTNWRTEtNG44VnA1VkdiTWk2YTRGaWtNU25aYVJZQVdZOV9TUm12a0EwUHdmVGpMTzdxNDVrWUx6QkI1U3hRRFdnOXNRcVZ4ZHdtWHBFaW5jSjVMSTJRa0xFOFNKaTF0YjFTUThlejRJTHRp?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a0e34086612767166666eb2b",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:27:20+00:00",
+      "last_update": "2026-11-17T09:48:00+00:00",
+      "event": "Pakistan, Turkmenistan discuss ways to strengthen trade, energy, regional connectivity ties",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "connectivity",
+        "discuss",
+        "energy",
+        "express",
+        "pakistan",
+        "regional",
+        "strengthen",
+        "the",
+        "ties",
+        "trade",
+        "tribune",
+        "turkmenistan",
+        "ways"
+      ],
+      "source_excerpt": "Pakistan, Turkmenistan discuss ways to strengthen trade, energy, regional connectivity ties The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU1Z2aUpYMlhyWV9fX2lYeGJhX1pyVjBqdmR3R2xUdkRnOEw1MlhTd2NqeUwxUUEtZTY2QVdZTzFublU5RVU3ZGVjdEVkbnphZFlLXzZhZWdLT014ZUlZQ0lYU0MyWFI0NGFfRDB4WlFmRmxkWC03UWlUamZ3SEJVRGJHQ0JhRnp3UXZvTmhEazF3bEQtOWNWeU1lZTU5a0xjXzZDMVVjSDEtZlNrU0VGVnFkb3g1VE5FNjUyMDl4X2kyalU?oc=5",
+          "published_at": "2026-11-17T09:27:20+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjVEaE9NQWR2Vi02NkF1V1FDelNFZWhEYkFYRVh2RFptamhDbEplRVJLdVJNbDBtbUtSNHRWYUU4RGJQZ0RCLVZaaFhFTXdzUmtDUkdyYnJNQ3VWcnJpZHZHTU9Ca2pQZVBSMU5FTWRTQ1NyeWhpcmVHZTJXeDRfR1h5YV8wN3Z0LVR1QUxfeFlLVFpUSjVjRzI2a19vemlJclA3MVFWVHJDRDFxTERKejl1VQ?oc=5",
+          "published_at": "2026-11-17T09:48:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691433-pakistan-turkmenistan-explore-ways-to-boost-bilateral-ties-regional-connectivity",
+          "published_at": "2026-11-17T09:48:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU1Z2aUpYMlhyWV9fX2lYeGJhX1pyVjBqdmR3R2xUdkRnOEw1MlhTd2NqeUwxUUEtZTY2QVdZTzFublU5RVU3ZGVjdEVkbnphZFlLXzZhZWdLT014ZUlZQ0lYU0MyWFI0NGFfRDB4WlFmRmxkWC03UWlUamZ3SEJVRGJHQ0JhRnp3UXZvTmhEazF3bEQtOWNWeU1lZTU5a0xjXzZDMVVjSDEtZlNrU0VGVnFkb3g1VE5FNjUyMDl4X2kyalU?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d0c0f4d509a5829800abd5be",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:24:29+00:00",
+      "last_update": "2026-11-17T09:24:29+00:00",
+      "event": "Asian Development Bank approves $500m loan to support Pakistan’s federal pension reforms",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500",
+        "500m",
+        "adb",
+        "agency",
+        "approved",
+        "approves",
+        "asian",
+        "bank",
+        "based",
+        "civil",
+        "contain",
+        "development",
+        "federal",
+        "fiscal",
+        "help",
+        "its",
+        "lending",
+        "loan",
+        "manila",
+        "million",
+        "pakistan",
+        "pension",
+        "pressures",
+        "reform",
+        "reforms",
+        "related",
+        "results",
+        "rising",
+        "said",
+        "statement",
+        "strengthen",
+        "support",
+        "sust",
+        "system",
+        "the",
+        "tuesday",
+        "will"
+      ],
+      "source_excerpt": "The Asian Development Bank (ADB) on Tuesday approved a $500 million results-based loan to help Pakistan reform its federal civil pension system, the Manila-based lending agency said in a statement . The reforms will help contain rising pension-related fiscal pressures, strengthen pension system sust",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045164/asian-development-bank-approves-500m-loan-to-support-pakistans-federal-pension-reforms",
+          "published_at": "2026-11-17T09:24:29+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWnhPRnJIdjNFQS02WXg4UDIxNDFZYktTM3JkRGZBa1R4Wkx4TlhsNEJBcmdhbmE1ZTlvUHVycDRNdEo5VzVDbWhJbk1ZSDJpOUdDek9vZnVOVWxWMGg3Z25QN0RzaWVqRDk4VEw0Q1VNNGFHRDJicE56NFF6dnJWTzZFTkstXzBJakM3RVRBQVJOREE0UUdMek9yUm9qdzBvcjVHUUthVnhWLU5sOTJNRmJ5dUw2OXg0d3F2eQ?oc=5",
+          "published_at": "2026-11-17T09:24:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045164/asian-development-bank-approves-500m-loan-to-support-pakistans-federal-pension-reforms",
+        "publisher_url": "https://www.dawn.com/news/2045164/asian-development-bank-approves-500m-loan-to-support-pakistans-federal-pension-reforms",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "edee4f91d662d7505c980a1a",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:29:28+00:00",
+      "last_update": "2026-11-17T09:29:28+00:00",
+      "event": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anti",
+        "bloc",
+        "change",
+        "electing",
+        "for",
+        "holds",
+        "israeli",
+        "keys",
+        "knesset",
+        "momentum",
+        "netanyahu",
+        "new",
+        "opposition",
+        "parliamentary",
+        "powerful",
+        "readies",
+        "role",
+        "setting",
+        "speaker",
+        "the"
+      ],
+      "source_excerpt": "The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
+          "published_at": "2026-11-17T09:29:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5bac50621378fa9380cf44ea",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:18:37+00:00",
+      "last_update": "2026-11-17T09:18:37+00:00",
+      "event": "Journalist who exposed alleged drug links shot dead in Costa Rica",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "been",
+        "camilo",
+        "capital",
+        "costa",
+        "dead",
+        "drug",
+        "exposed",
+        "has",
+        "jose",
+        "journalist",
+        "links",
+        "near",
+        "rica",
+        "rican",
+        "rodriguez",
+        "san",
+        "shot",
+        "the",
+        "who"
+      ],
+      "source_excerpt": "Costa Rican journalist Camilo Rodriguez has been shot dead near the capital San Jose.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica?traffic_source=rss",
+          "published_at": "2026-11-17T09:18:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "63523e0f1f77f48222bbf74e",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:12:38+00:00",
+      "last_update": "2026-11-17T09:12:38+00:00",
+      "event": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "daughter",
+        "development",
+        "district",
+        "his",
+        "jong",
+        "kim",
+        "korea",
+        "north",
+        "resort",
+        "samjiyon",
+        "ski",
+        "toured",
+        "tourist",
+        "tours",
+        "under",
+        "with"
+      ],
+      "source_excerpt": "Kim Jong Un toured a ski resort under development in a tourist district in Samjiyon with his daughter Ju Ae.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae?traffic_source=rss",
+          "published_at": "2026-11-17T09:12:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ebd392345336521abf5ad982",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:41:07+00:00",
+      "last_update": "2026-11-17T09:41:07+00:00",
+      "event": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "120",
+        "and",
+        "capitalist",
+        "community",
+        "could",
+        "defends",
+        "expensive",
+        "for",
+        "future",
+        "get",
+        "grindr",
+        "intended",
+        "month",
+        "more",
+        "premium",
+        "says",
+        "service",
+        "small",
+        "society",
+        "the",
+        "tier",
+        "ultra",
+        "users"
+      ],
+      "source_excerpt": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T09:41:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "327dcd4ff7b22ab14faf2d68",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T10:00:00+00:00",
+      "last_update": "2026-11-17T10:00:00+00:00",
+      "event": "Inside Health",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "black",
+        "can",
+        "chemicals",
+        "christmas",
+        "contain",
+        "cosmetics",
+        "fake",
+        "friday",
+        "health",
+        "inside",
+        "shoppers",
+        "toxic",
+        "warned"
+      ],
+      "source_excerpt": "Black Friday and Christmas shoppers are warned fake cosmetics can contain toxic chemicals.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T10:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "225f217d9e0d30f3afbe6bb3",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:46:31+00:00",
+      "last_update": "2026-11-17T09:46:31+00:00",
+      "event": "Illegal dump clean-up needs £161m over 30 years, says Muir",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "161m",
+        "absolute",
+        "andrew",
+        "clean",
+        "could",
+        "derry",
+        "described",
+        "dump",
+        "environment",
+        "fix",
+        "generation",
+        "happened",
+        "illegal",
+        "minister",
+        "mobuoy",
+        "muir",
+        "near",
+        "needs",
+        "over",
+        "says",
+        "scandal",
+        "take",
+        "the",
+        "what",
+        "which",
+        "years"
+      ],
+      "source_excerpt": "The Environment Minister Andrew Muir described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T09:46:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1c99c22f09aa12af6275db49",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:20:29+00:00",
+      "last_update": "2026-11-17T09:20:29+00:00",
+      "event": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "charges",
+        "dead",
+        "deadly",
+        "election",
+        "faces",
+        "hundreds",
+        "leader",
+        "left",
+        "mondlane",
+        "mozambique",
+        "ncio",
+        "opposition",
+        "over",
+        "people",
+        "post",
+        "protests",
+        "several",
+        "that",
+        "trial",
+        "unrest",
+        "ven"
+      ],
+      "source_excerpt": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T09:20:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c86eab71ee97f4f33c3b652d",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:27:41+00:00",
+      "last_update": "2026-11-17T09:27:41+00:00",
+      "event": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bbc",
+        "bridge",
+        "crimea",
+        "crossings",
+        "hits",
+        "kyiv",
+        "russia",
+        "shut",
+        "strike",
+        "ukrainian"
+      ],
+      "source_excerpt": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
+          "published_at": "2026-11-17T09:27:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cc8b0b8d8673b204b853c8f2",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:27:44+00:00",
+      "last_update": "2026-11-17T09:27:44+00:00",
+      "event": "Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bail",
+        "bbc",
+        "convicts",
+        "for",
+        "gang",
+        "gujarat",
+        "heartbroken",
+        "rape",
+        "riots",
+        "survivor",
+        "two"
+      ],
+      "source_excerpt": "Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrbkhyM3B0UkJvenUzNUNXNU83S0xXeGxsdGZsNG1hb3JWaHN3QnJ0UUtyX0VOaEw2SGs4Vnd0dUFTbnlQc1FDRG9Wc2RqRUhzTmJsdXRZTTEwWlU?oc=5",
+          "published_at": "2026-11-17T09:27:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrbkhyM3B0UkJvenUzNUNXNU83S0xXeGxsdGZsNG1hb3JWaHN3QnJ0UUtyX0VOaEw2SGs4Vnd0dUFTbnlQc1FDRG9Wc2RqRUhzTmJsdXRZTTEwWlU?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3ddb01443f6ebd5d40aecb5a",
+      "remembered_at": "2026-11-17T09:58:53.641993+00:00",
+      "event_date": "2026-11-17T09:50:15+00:00",
+      "last_update": "2026-11-17T09:50:15+00:00",
+      "event": "Bangladesh garment workers, police clash in fresh wage protest",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bangladesh",
+        "clash",
+        "dawn",
+        "fresh",
+        "garment",
+        "police",
+        "protest",
+        "wage",
+        "workers"
+      ],
+      "source_excerpt": "Bangladesh garment workers, police clash in fresh wage protest Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3lsemdsWko4cWE4Ty10cGhiTjZSMERpSldsQXBTamM0TWhLQlNiM3MyVWVMQU90Z2lVelc0VnF5TWRfOGkwcUx0cUdVdUgydXRrRjJBNWRfbHI5TlRGNDFDTVZ1d3hKbkNOWUc5THVPU052Z1ZBTTd5WURyM085OWxCQVh4RHgyeFpFdmxSY1VUT3RXMndhMlVzcw?oc=5",
+          "published_at": "2026-11-17T09:50:15+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045168/bangladesh-garment-workers-police-clash-in-fresh-wage-protest",
+          "published_at": "2026-11-17T09:50:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3lsemdsWko4cWE4Ty10cGhiTjZSMERpSldsQXBTamM0TWhLQlNiM3MyVWVMQU90Z2lVelc0VnF5TWRfOGkwcUx0cUdVdUgydXRrRjJBNWRfbHI5TlRGNDFDTVZ1d3hKbkNOWUc5THVPU052Z1ZBTTd5WURyM085OWxCQVh4RHgyeFpFdmxSY1VUT3RXMndhMlVzcw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T08:55:48.350396+00:00"
+  "updated_at": "2026-11-17T09:58:53.641993+00:00"
 }
