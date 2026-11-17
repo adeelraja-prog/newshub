@@ -1,134 +1,133 @@
-# News Hub report - Tue 17 Nov, 04:02 PM PKT
+# News Hub report - Tue 17 Nov, 04:56 PM PKT
 
 ## Collection
-- New items this run: 126 | items in rolling pool: 612
-- Unique story clusters: 511 (duplicates merged: 101)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 39, ProPakistani 10, Wired 9, ARY News 8, TechJuice 6, Geo News 5, Dunya News 5, Al Jazeera 5, samaa tv 4, Dawn 4, Dawn Pakistan 2, BBC 2
+- New items this run: 130 | items in rolling pool: 716
+- Unique story clusters: 591 (duplicates merged: 125)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 69, Geo News 6, samaa tv 5, ProPakistani 5, The News International 4, Dawn Pakistan 4, Al Jazeera 4, TechJuice 4, ARY News 3, The Current 3, Dawn 2, X 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump is not going to let Iran conflict become a 'forever war', asserts Vance | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold, silver prices in Pakistan - latest: Nov 17, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sri Lanka register unwanted record | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladesh garment workers, police clash in fresh wage protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fire breaks out at factory in Karachi’s Baldia Town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bilawal calls for political 'reset', says system 'deliberately destroyed' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- TikToker Hakeem Shahbaz booked for harassing citizens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump is not going to let Iran conflict become a 'forever war', asserts Vance | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold, silver prices in Pakistan - latest: Nov 17, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sri Lanka register unwanted record | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladesh garment workers, police clash in fresh wage protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fire breaks out at factory in Karachi’s Baldia Town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bilawal calls for political 'reset', says system 'deliberately destroyed' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- TikToker Hakeem Shahbaz booked for harassing citizens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump is not going to let Iran conflict become a 'forever war', asserts Vance | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold, silver prices in Pakistan - latest: Nov 17, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sri Lanka register unwanted record | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladesh garment workers, police clash in fresh wage protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fire breaks out at factory in Karachi’s Baldia Town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bilawal calls for political 'reset', says system 'deliberately destroyed' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- TikToker Hakeem Shahbaz booked for harassing citizens | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 95/107 | empty: 3 | failed: 9 | malformed/partial: 9
+- Overall feeds with entries: 96/107 | empty: 3 | failed: 8 | malformed/partial: 8
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Reuters World | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: NY Times | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Pakistan Today Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Profit Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Petrol prices | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: CNN India politics | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Al Jazeera India politics | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: CNN India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BBC India General Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BBC India Economy | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks  [NORMAL]
-- Poster:  / Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks | category other
-- Alternative headline: Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - CNN https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: CNN https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5
-- Supporting coverage: The Guardian, CNN, The National, Radio Free Europe/Radio Liberty, Reuters, The New York Times
-- Keywords: Critical bridges in Crimea and | hashtags: 
-- Scheduled: Tue 17 Nov, 04:02 PM PKT
-- Caption:
-```
-Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks
-
-Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks CNN
-
-Source: CNN
-```
-
-### Trump is not going to let Iran conflict become a 'forever war', asserts Vance  [NORMAL]
-- Poster:  / Trump is not going to let Iran conflict become a 'forever war', asserts Vance | category other
-- Alternative headline: Trump is not going to let Iran conflict become a 'forever war', asserts Vance
+### Bangladesh garment workers, police clash in fresh wage protest  [NORMAL]
+- Poster:  / Bangladesh garment workers, police clash in fresh wage protest | category other
+- Alternative headline: Bangladesh garment workers, police clash in fresh wage protest
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGJjd0ZaN2RJUnBjekI0VjdOWmw3NTFaNDU0Tk10ZFcwLTVWaXpHc2s5SXk5TWc1Q0RRaTZveURUM19JR0hqc0pWZnJydXlMUFBTc0RiY1lSZUo1bUxqMXJDdnE5YzZ3VmdQdzZtcUpHRFV0QldldmpzZGRoVWw1MnlzOWZmVFdSS0N5QnVVVF9mNEZPd3NwS0UwalIzTzVpUmNObHc0YjdfZXNo?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGJjd0ZaN2RJUnBjekI0VjdOWmw3NTFaNDU0Tk10ZFcwLTVWaXpHc2s5SXk5TWc1Q0RRaTZveURUM19JR0hqc0pWZnJydXlMUFBTc0RiY1lSZUo1bUxqMXJDdnE5YzZ3VmdQdzZtcUpHRFV0QldldmpzZGRoVWw1MnlzOWZmVFdSS0N5QnVVVF9mNEZPd3NwS0UwalIzTzVpUmNObHc0YjdfZXNo?oc=5
-- Supporting coverage: The Nation (Pakistan ), MorungExpress, TRT World, Dawn, Dawn Latest, The Diplomatic Insight
-- Keywords: Trump is not going to | hashtags: 
-- Scheduled: Tue 17 Nov, 04:12 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3lsemdsWko4cWE4Ty10cGhiTjZSMERpSldsQXBTamM0TWhLQlNiM3MyVWVMQU90Z2lVelc0VnF5TWRfOGkwcUx0cUdVdUgydXRrRjJBNWRfbHI5TlRGNDFDTVZ1d3hKbkNOWUc5THVPU052Z1ZBTTd5WURyM085OWxCQVh4RHgyeFpFdmxSY1VUT3RXMndhMlVzcw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3lsemdsWko4cWE4Ty10cGhiTjZSMERpSldsQXBTamM0TWhLQlNiM3MyVWVMQU90Z2lVelc0VnF5TWRfOGkwcUx0cUdVdUgydXRrRjJBNWRfbHI5TlRGNDFDTVZ1d3hKbkNOWUc5THVPU052Z1ZBTTd5WURyM085OWxCQVh4RHgyeFpFdmxSY1VUT3RXMndhMlVzcw?oc=5
+- Supporting coverage: Dawn, Dawn Latest, ARY News, Al Jazeera
+- Keywords: Bangladesh garment workers, police clash | hashtags: 
+- Scheduled: Tue 17 Nov, 04:56 PM PKT
 - Caption:
 ```
-Trump is not going to let Iran conflict become a 'forever war', asserts Vance
+Bangladesh garment workers, police clash in fresh wage protest
 
-Trump is not going to let Iran conflict become a 'forever war', asserts Vance Dawn
+Bangladesh garment workers, police clash in fresh wage protest Dawn
 
 Source: Dawn
 ```
 
-### Gold, silver prices in Pakistan - latest: Nov 17, 2026  [NORMAL]
-- Poster:  / Gold, silver prices in Pakistan - latest: Nov 17, 2026 | category other
-- Alternative headline: Gold, silver prices in Pakistan - latest: Nov 17, 2026
+### CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments  [NORMAL]
+- Poster:  / CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments | category other
+- Alternative headline: CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeENjd1Raa05EclBQLWtWMG83WFdzd1hseExvbURmVmhnNzc0bnlSZWZXU1lJYlZicXRVcjhCSW50bHJsUHVoeERtR1JKd1NKVkduMjEyZllfaXlkOThCeXhROVBPUTQtNUhwb09FYkFtYXJweTh6SEp5MUkwZVdTWnFGMk02amZK?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeENjd1Raa05EclBQLWtWMG83WFdzd1hseExvbURmVmhnNzc0bnlSZWZXU1lJYlZicXRVcjhCSW50bHJsUHVoeERtR1JKd1NKVkduMjEyZllfaXlkOThCeXhROVBPUTQtNUhwb09FYkFtYXJweTh6SEp5MUkwZVdTWnFGMk02amZK?oc=5
-- Supporting coverage: TechJuice, Investify, samaa tv
-- Keywords: Gold, silver prices in Pakistan | hashtags: 
-- Scheduled: Tue 17 Nov, 04:22 PM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/691419-cdf-munir-iranian-fm-discuss-regional-security-evolving-geopolitical-developments | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691419-cdf-munir-iranian-fm-discuss-regional-security-evolving-geopolitical-developments
+- Supporting coverage: Geo News, Geo News, samaa tv, The Express Tribune
+- Keywords: CDF Munir, Iranian FM discuss | hashtags: 
+- Scheduled: Tue 17 Nov, 05:06 PM PKT
 - Caption:
 ```
-Gold, silver prices in Pakistan - latest: Nov 17, 2026
+CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments
 
-Gold, silver prices in Pakistan - latest: Nov 17, 2026 samaa tv
+Iranian Foreign Minister Abbas Araghchi meets Chief of Defence Forces and Chief of the Army Staff, Field Marshal Asim Munir in Rawalpindi on November 16. 2026. — ISPR A high-level Iranian delegation led by Iranian Foreign Minister Abbas Araghchi called on Chief of Army Staff...
 
-Source: samaa tv
+Source: Geo News
 ```
 
-### Sri Lanka register unwanted record  [NORMAL]
-- Poster:  / Sri Lanka register unwanted record | category other
-- Alternative headline: Sri Lanka register unwanted record
+### Fire breaks out at factory in Karachi’s Baldia Town  [NORMAL]
+- Poster:  / Fire breaks out at factory in Karachi’s Baldia Town | category other
+- Alternative headline: Fire breaks out at factory in Karachi’s Baldia Town
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/sri-lanka-register-unwanted-record | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/sri-lanka-register-unwanted-record
-- Supporting coverage: ARY News, UrduPoint, ProPakistani
-- Keywords: Sri Lanka register unwanted record | hashtags: 
-- Scheduled: Tue 17 Nov, 04:32 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/fire-breaks-out-at-factory-in-karachis-baldia-town | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/fire-breaks-out-at-factory-in-karachis-baldia-town
+- Supporting coverage: ARY News, Dawn Pakistan
+- Keywords: Fire breaks out at factory | hashtags: 
+- Scheduled: Tue 17 Nov, 05:16 PM PKT
 - Caption:
 ```
-Sri Lanka register unwanted record
+Fire breaks out at factory in Karachi’s Baldia Town
 
-Sri Lanka register unwanted record
+Fire breaks out at factory in Karachi’s Baldia Town
 
 Source: ARY News
 ```
 
-- Indian outlets blocked this run: 3 items
+### Bilawal calls for political 'reset', says system 'deliberately destroyed'  [NORMAL]
+- Poster:  / Bilawal calls for political 'reset', says system 'deliberately destroyed' | category other
+- Alternative headline: Bilawal calls for political 'reset', says system 'deliberately destroyed'
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXFVb1g0YTUyM0Q2V3JaeEllQi1VM3RKQU42T2JfNDl6d3RuN0p6OGI4eHpidnZVWnhhbVNiM3N6alpuZUIwRzFuc25SamFJRW1BcHpQY1NiM21BTVZtWl93bl9jaVJDc3BKM1JXSnoybjMxeG9pdUIxdExFQ3kzd3VHbnQzOUZjSGRhTnEtcXF6djJWMDFaeFFhSzlOTUdoNm0w?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXFVb1g0YTUyM0Q2V3JaeEllQi1VM3RKQU42T2JfNDl6d3RuN0p6OGI4eHpidnZVWnhhbVNiM3N6alpuZUIwRzFuc25SamFJRW1BcHpQY1NiM21BTVZtWl93bl9jaVJDc3BKM1JXSnoybjMxeG9pdUIxdExFQ3kzd3VHbnQzOUZjSGRhTnEtcXF6djJWMDFaeFFhSzlOTUdoNm0w?oc=5
+- Supporting coverage: Geo News, Geo News, samaa tv
+- Keywords: Bilawal calls for political 'reset', | hashtags: 
+- Scheduled: Tue 17 Nov, 05:26 PM PKT
+- Caption:
+```
+Bilawal calls for political 'reset', says system 'deliberately destroyed'
+
+Bilawal calls for political 'reset', says system 'deliberately destroyed' Geo News
+
+Source: Geo News
+```
+
+- Indian outlets blocked this run: 9 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [published] high | 16 Terrorists Killed, 2 Army Soldiers Martyred in KP Intelligence Oper | Sat 14 Nov, 08:54 PM PKT
@@ -253,10 +252,10 @@ Source: ARY News
 - [needs_review] normal | Four lawyers appointed special ATC judges | Tue 17 Nov, 09:29 AM PKT
 - [needs_review] normal | Punjab to sue Salik over graft claims against Maryam | Tue 17 Nov, 09:39 AM PKT
 - [published] normal | Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | Tue 17 Nov, 10:11 AM PKT
-- [queued] normal | Nvidia rules out Jensen Huang's return as board hires law firm to inve | Tue 17 Nov, 10:21 AM PKT
-- [queued] normal | Pakistan crush Sri Lanka in Blind Asia Cup | Tue 17 Nov, 10:31 AM PKT
-- [queued] normal | Balochistan PA flags flour prices, dept mergers | Tue 17 Nov, 10:41 AM PKT
-- [queued] normal | Two major Kyiv bridges hit in Russian attack, mayor says | Tue 17 Nov, 11:21 AM PKT
+- [needs_review] normal | Nvidia rules out Jensen Huang's return as board hires law firm to inve | Tue 17 Nov, 10:21 AM PKT
+- [needs_review] normal | Pakistan crush Sri Lanka in Blind Asia Cup | Tue 17 Nov, 10:31 AM PKT
+- [needs_review] normal | Balochistan PA flags flour prices, dept mergers | Tue 17 Nov, 10:41 AM PKT
+- [published] normal | Two major Kyiv bridges hit in Russian attack, mayor says | Tue 17 Nov, 11:21 AM PKT
 - [queued] normal | Two held for Rs5m UK work visa fraud | Tue 17 Nov, 11:31 AM PKT
 - [queued] normal | Man found murdered in farmhouse | Tue 17 Nov, 11:41 AM PKT
 - [queued] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
@@ -276,9 +275,13 @@ Source: ARY News
 - [queued] normal | Trump is not going to let Iran conflict become a 'forever war', assert | Tue 17 Nov, 04:12 PM PKT
 - [queued] normal | Gold, silver prices in Pakistan - latest: Nov 17, 2026 | Tue 17 Nov, 04:22 PM PKT
 - [queued] normal | Sri Lanka register unwanted record | Tue 17 Nov, 04:32 PM PKT
+- [queued] normal | Bangladesh garment workers, police clash in fresh wage protest | Tue 17 Nov, 04:56 PM PKT
+- [queued] normal | CDF Munir, Iranian FM discuss regional security, evolving geopolitical | Tue 17 Nov, 05:06 PM PKT
+- [queued] normal | Fire breaks out at factory in Karachi’s Baldia Town | Tue 17 Nov, 05:16 PM PKT
+- [queued] normal | Bilawal calls for political 'reset', says system 'deliberately destroy | Tue 17 Nov, 05:26 PM PKT
 
 ## Publishing this run
-- Published 'Second Test: Pakistan win toss, opt to bowl first against Sri Lanka'.
+- Published 'Two major Kyiv bridges hit in Russian attack, mayor says'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

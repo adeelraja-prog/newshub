@@ -49110,7 +49110,451 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "79fc4732cb42c01561f2664f",
+      "remembered_at": "2026-11-17T11:56:25.856458+00:00",
+      "event_date": "2026-11-17T07:00:59+00:00",
+      "last_update": "2026-11-17T11:16:15+00:00",
+      "event": "CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "abbas",
+        "and",
+        "araghchi",
+        "army",
+        "asim",
+        "called",
+        "cdf",
+        "chief",
+        "defence",
+        "delegation",
+        "developments",
+        "discuss",
+        "evolving",
+        "field",
+        "forces",
+        "foreign",
+        "geopolitical",
+        "high",
+        "iranian",
+        "ispr",
+        "led",
+        "level",
+        "marshal",
+        "meets",
+        "minister",
+        "munir",
+        "november",
+        "rawalpindi",
+        "regional",
+        "security",
+        "staff",
+        "the"
+      ],
+      "source_excerpt": "Iranian Foreign Minister Abbas Araghchi meets Chief of Defence Forces and Chief of the Army Staff, Field Marshal Asim Munir in Rawalpindi on November 16. 2026. — ISPR A high-level Iranian delegation led by Iranian Foreign Minister Abbas Araghchi called on Chief of Army Staff...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691419-cdf-munir-iranian-fm-discuss-regional-security-evolving-geopolitical-developments",
+          "published_at": "2026-11-17T07:00:59+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd1FsMkFjMEY4SVFadjBqWU5mZHBNSmVLZkh0ZnJ0R0pRb2VRLWtvS1hsdEVYaE9aaEo5ZmpSRE5YaFdxcHl5SjE5MmlKTzEyTmo2eHllTlJtU1I4ZTRiZHNRNlJFaWEyV0FvZ29KcUpJaWlRaW9rLV85ZEtBY1BQeUs4UnZkRFh6R3ZMcnBJak81WjJGR3lubTRrWEVGTHlKMEt2LUp6UzJsdFBIU1hETVJ1c08?oc=5",
+          "published_at": "2026-11-17T07:00:59+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzB6TG01Q2ctR21ESmtwN05WNzJ0UlBjVllvNkk5R1h0OVQ0aGcwT1FJVlU1NExQRnJYNEJOT1U4aHJ1STJzbjQ4NjJGeFJ3blpwRFhjcTFtaEktQ2ZLckxkWEVtWkJBb3M1dFJSbzB0T0JPNG1jNzRPV0gtN0MtWW12ZVlnbHVlZTdhSElUVmgtWjhKTGJCTnlSZF82a1VsNVZSQ05VN2J2WGdwdEJJOUdvTVFKdw?oc=5",
+          "published_at": "2026-11-17T08:26:15+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVBqUlJEbk4tWDRXUTdyUnZYYzJpaXRXeUZVUEJqdHZSN2lzOEl1bXpCY0FqN2tNUEgtYXc1WEJHVE11bmNkZGRBZUM0eHBBekd2X2pEaXpvZDhRYktEUmlaRGROY2lGYVNLdzdhdURpa0RteWQ3eFJWSHNlWVY5dUx0WGpxNEJQNDRrX0xHYTljZkVJWWRIYTB6VF9hOG5RSFM0R05ZU0FyYTRpMHdCdzVXR1U5bjdtdjJ3MmlLVWhDWmppdEdIUDZn0gHSAUFVX3lxTE1HZzdEeFR5YWl4cHhRT0xQZm1ZMGlONnZHcmI3SU9mXzhZRkJfQjZDTDRPSGFyUmJVQmtLZU9EVl9RQlI5ekdkbndJS3VIR01TeHVUd1gxVVhpbjdRRUg5bFUydjFaWGIyZXJnSTQ3bDhXX0NaWWFnZ09DNHp2YmVqaVNsb1cyeExsQ2dVODJGbWVjWWFpX2VySDdDNkNSTjF1UGZsQ0FGbVVVVThwa1NoaDBPZGhLT3RfREV4UW5nQ2ZSVGRKZWFZUHk2TE0xNERWUQ?oc=5",
+          "published_at": "2026-11-17T11:16:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691419-cdf-munir-iranian-fm-discuss-regional-security-evolving-geopolitical-developments",
+        "publisher_url": "https://www.geo.tv/latest/691419-cdf-munir-iranian-fm-discuss-regional-security-evolving-geopolitical-developments",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cd41ae2f2440244a3a943bf3",
+      "remembered_at": "2026-11-17T11:56:25.856458+00:00",
+      "event_date": "2026-11-17T10:41:00+00:00",
+      "last_update": "2026-11-17T11:06:27+00:00",
+      "event": "Bilawal calls for political 'reset', says system 'deliberately destroyed'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bilawal",
+        "calls",
+        "deliberately",
+        "destroyed",
+        "for",
+        "geo",
+        "news",
+        "political",
+        "reset",
+        "says",
+        "system"
+      ],
+      "source_excerpt": "Bilawal calls for political 'reset', says system 'deliberately destroyed' Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXFVb1g0YTUyM0Q2V3JaeEllQi1VM3RKQU42T2JfNDl6d3RuN0p6OGI4eHpidnZVWnhhbVNiM3N6alpuZUIwRzFuc25SamFJRW1BcHpQY1NiM21BTVZtWl93bl9jaVJDc3BKM1JXSnoybjMxeG9pdUIxdExFQ3kzd3VHbnQzOUZjSGRhTnEtcXF6djJWMDFaeFFhSzlOTUdoNm0w?oc=5",
+          "published_at": "2026-11-17T10:41:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691439-bilawal-calls-for-political-reset-says-system-deliberately-destroyed",
+          "published_at": "2026-11-17T10:41:00+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3dOS25ubEYta0xqQVc5TUMta1FjeUo1T1ZmYXhzbVJBZWZlRy1JME9iTmkyUmNwTXM3ZEx4UkpuRGo3UEF3c0hHVVU3U3paSTItakdPZjJ2QUtPMkk0b2RTaW1rUlBaZnpOaHRDOWFBUWtPRjlwTndKUHp4ZFI3MmZ0LTUwUDUyV0hTZGR5YVBRSVFueExn?oc=5",
+          "published_at": "2026-11-17T11:06:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXFVb1g0YTUyM0Q2V3JaeEllQi1VM3RKQU42T2JfNDl6d3RuN0p6OGI4eHpidnZVWnhhbVNiM3N6alpuZUIwRzFuc25SamFJRW1BcHpQY1NiM21BTVZtWl93bl9jaVJDc3BKM1JXSnoybjMxeG9pdUIxdExFQ3kzd3VHbnQzOUZjSGRhTnEtcXF6djJWMDFaeFFhSzlOTUdoNm0w?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d9a2f27783b4726bb2bf7636",
+      "remembered_at": "2026-11-17T11:56:25.856458+00:00",
+      "event_date": "2026-11-17T06:15:43+00:00",
+      "last_update": "2026-11-17T10:58:31+00:00",
+      "event": "TikToker Hakeem Shahbaz booked for harassing citizens",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "booked",
+        "citizens",
+        "for",
+        "hakeem",
+        "harassing",
+        "shahbaz",
+        "tiktoker"
+      ],
+      "source_excerpt": "TikToker Hakeem Shahbaz booked for harassing citizens",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/tiktoker-hakeem-shahbaz-booked-for-harassing-citizens",
+          "published_at": "2026-11-17T06:15:43+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/17/tiktoker-arrested-for-harassing-citizens/",
+          "published_at": "2026-11-17T10:58:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/tiktoker-hakeem-shahbaz-booked-for-harassing-citizens",
+        "publisher_url": "https://arynews.tv/tiktoker-hakeem-shahbaz-booked-for-harassing-citizens",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6f2c611286797699019eb4cb",
+      "remembered_at": "2026-11-17T11:56:25.856458+00:00",
+      "event_date": "2026-11-17T10:53:00+00:00",
+      "last_update": "2026-11-17T10:53:00+00:00",
+      "event": "Israeli settlers fatally shoot 60-year-old Palestinian woman in head in West Bank",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bank",
+        "fatally",
+        "head",
+        "israeli",
+        "old",
+        "palestinian",
+        "settlers",
+        "shoot",
+        "west",
+        "woman",
+        "year"
+      ],
+      "source_excerpt": "Israeli settlers fatally shoot 60-year-old Palestinian woman in head in West Bank",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/israeli-settlers-fatally-shoot-60-year-old-palestinian-woman-in-head-in-west-bank",
+          "published_at": "2026-11-17T10:53:00+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM19WWHYzazBmRkJ6QmhrZE9BNWFwWFFPekZkcDJJb2VhRV9OOFA5bXpsZG5uTWtfTXBfVEZOdE94ME9FeFBfekppMWJJdXpuRlNKZ20zV3VBRndBaE5HQ09xcE1ESUJ4cE4zSFZ2RUhkVEtTRk43dkZZZ3Nha1Q5U1k3VVV6ZEZuODd2aEcwMUtKbjY1OU8xYXhRdnhxTWNmNUE?oc=5",
+          "published_at": "2026-11-17T10:53:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/israeli-settlers-fatally-shoot-60-year-old-palestinian-woman-in-head-in-west-bank",
+        "publisher_url": "https://arynews.tv/israeli-settlers-fatally-shoot-60-year-old-palestinian-woman-in-head-in-west-bank",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8680e3ab262388df26abc8f2",
+      "remembered_at": "2026-11-17T11:56:25.856458+00:00",
+      "event_date": "2026-11-17T11:43:38+00:00",
+      "last_update": "2026-11-17T11:44:51+00:00",
+      "event": "In meeting with UK army chief, CDF reaffirms commitment to expanding bilateral defence ties: ISPR",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "army",
+        "bilateral",
+        "cdf",
+        "chief",
+        "commitment",
+        "dawn",
+        "defence",
+        "expanding",
+        "ispr",
+        "meeting",
+        "reaffirms",
+        "ties",
+        "with"
+      ],
+      "source_excerpt": "In meeting with UK army chief, CDF reaffirms commitment to expanding bilateral defence ties: ISPR Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3hTOGVhcFZNSGl2MFg3RGtUcU5oUm0zR3U2TzhNbXhsMkRKNDhSTmRpNU56bkJzaUpoM0dNY0RlR0JuN1hYbFcwS0QzRG4zUm9sNEhmZGc5aFZNWHdtQ2tOY1lCdDBNX1NIeU5sUzFGelVrakV5U1o1cFg0dEttZHg1MWIyNEdrWlo0U0FmWk5oY05fSUN3T2pKY18yLS1tbXE5N3dJQmpmbVlWMjlmTXZHR1I1aVVIczlMSEVLM2RmS1k4ZHNtYw?oc=5",
+          "published_at": "2026-11-17T11:43:38+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045178/in-meeting-with-uk-army-chief-cdf-reaffirms-commitment-to-expanding-bilateral-defence-ties-ispr",
+          "published_at": "2026-11-17T11:44:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3hTOGVhcFZNSGl2MFg3RGtUcU5oUm0zR3U2TzhNbXhsMkRKNDhSTmRpNU56bkJzaUpoM0dNY0RlR0JuN1hYbFcwS0QzRG4zUm9sNEhmZGc5aFZNWHdtQ2tOY1lCdDBNX1NIeU5sUzFGelVrakV5U1o1cFg0dEttZHg1MWIyNEdrWlo0U0FmWk5oY05fSUN3T2pKY18yLS1tbXE5N3dJQmpmbVlWMjlmTXZHR1I1aVVIczlMSEVLM2RmS1k4ZHNtYw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "33aeadc9ed4eb5dd3c6add20",
+      "remembered_at": "2026-11-17T11:56:25.856458+00:00",
+      "event_date": "2026-11-17T11:19:04+00:00",
+      "last_update": "2026-11-17T11:25:45+00:00",
+      "event": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "caught",
+        "fire",
+        "have",
+        "hit",
+        "hitting",
+        "hormuz",
+        "iran",
+        "mine",
+        "naval",
+        "says",
+        "strait",
+        "the",
+        "two",
+        "vessels"
+      ],
+      "source_excerpt": "Two vessels have caught fire after hitting a naval mine in the Strait of Hormuz.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
+          "published_at": "2026-11-17T11:19:04+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHF6MEt6NlBHaGVNVEtHeXBTNUtJUUN1ZUlmcXNwQ2Z4MG1wZGJwMks4RzVJdEJtS3Z2SjBxY0hwdVJXZGkza3VVUEVTQ1Y1aDZtQUNveFlzWm5zVkxrVXIzTXBqeFhkLTVLcFlhNG4zRmh3VUtGQTRaaUxKTWZMZFhQUXRlVjh5am1MUzJUblV2S3I0bDVGVU9hZEdQc2piOEpnU3ZFQi1jR2ZuVzZ5dEJTMHY5Z9IBuwFBVV95cUxOZjA4VVFDWlBDN3BWZmVzRi1RblJhdUdnOE9EUWZBT2lNYzVrc2NxTTBCRXBpWjhuTUE2V2RIOFZkUElvVmxTZldZN01tWlJVNG45Rm1EVFNORWM1NmZvN3JWWGxIS3paZU5yTUt5LWNGbmRIMG9xRDFBcl84ODhkTFMtbnpOX2oyc0J1U0lhUTlBbWdtaURKd0U2bE9FRF9NWDhzVHAxRHVBdVcyRHpGYTZwT2FfWnpkU3lB?oc=5",
+          "published_at": "2026-11-17T11:25:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "958b1415aabac0afe8c43bc2",
+      "remembered_at": "2026-11-17T11:56:25.856458+00:00",
+      "event_date": "2026-11-17T10:53:42+00:00",
+      "last_update": "2026-11-17T10:53:42+00:00",
+      "event": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "account",
+        "adverts",
+        "attacking",
+        "behind",
+        "company",
+        "corbyn",
+        "critics",
+        "election",
+        "foreign",
+        "former",
+        "funded",
+        "habibi",
+        "israel",
+        "jeremy",
+        "labour",
+        "officer",
+        "ran",
+        "service",
+        "targeted",
+        "that",
+        "who"
+      ],
+      "source_excerpt": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+          "published_at": "2026-11-17T10:53:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2d31a7d93b50ce07ac21cef6",
+      "remembered_at": "2026-11-17T11:56:25.856458+00:00",
+      "event_date": "2026-11-17T11:17:32+00:00",
+      "last_update": "2026-11-17T11:17:32+00:00",
+      "event": "US government confirms investigation into tech firm Megaspeed",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "based",
+        "china",
+        "chips",
+        "company",
+        "confirms",
+        "end",
+        "export",
+        "firm",
+        "from",
+        "giant",
+        "government",
+        "helping",
+        "high",
+        "into",
+        "investigation",
+        "megaspeed",
+        "nvidia",
+        "rules",
+        "ship",
+        "singapore",
+        "suspected",
+        "tech",
+        "the",
+        "violating"
+      ],
+      "source_excerpt": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T11:17:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T11:02:19.748621+00:00"
+  "updated_at": "2026-11-17T11:56:25.856458+00:00"
 }
