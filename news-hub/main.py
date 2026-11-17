@@ -1992,6 +1992,10 @@ def main():
             continue
         hi = ed.match_list(c["tokens"], history)
         hist = history[hi] if hi is not None else None
+        # Keep every quarantined legacy story eligible across multiple refill cycles;
+        # only the selected/enqueued subset is marked analysed again below.
+        if hist is not None and c.get("id") in legacy_urdu_requeue_ids:
+            hist["analysed_n"] = None
         c["sig"] = ed.trend_signals(c, trends, hist, t0)
         # Cross-run deduplication: match canonical article URLs first, then story-token similarity.
         cluster_urls = {ed.canonical_url(m.get("link", "")) for m in c["members"] if m.get("link")}
