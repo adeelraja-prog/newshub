@@ -54405,7 +54405,619 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1438d805aeb91ebc99dd966c",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T18:12:23+00:00",
+      "last_update": "2026-11-17T19:57:00+00:00",
+      "event": "GTA VI dominates Game Awards 2026: Game of the Year nominees revealed",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "and",
+        "announced",
+        "auto",
+        "award",
+        "awards",
+        "coveted",
+        "dominates",
+        "eight",
+        "founder",
+        "game",
+        "games",
+        "grand",
+        "gta",
+        "has",
+        "including",
+        "nominations",
+        "nominees",
+        "received",
+        "revealed",
+        "rockstar",
+        "the",
+        "theft",
+        "were",
+        "whopping",
+        "year"
+      ],
+      "source_excerpt": "GTA VI dominates Game Awards 2026: Game of the Year nominees revealed Rockstar Games' Grand Theft Auto VI has received a whopping eight nominations at The Game Awards 2026, including the coveted Game of the Year award. The nominations were announced by The Game Awards founder and...",
+      "sources": [
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/the-game-awards-2026-nominees-have-officially-been-revealed/",
+          "published_at": "2026-11-17T18:12:23+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691533-gta-vi-dominates-game-awards-2026-game-of-the-year-nominees-revealed",
+          "published_at": "2026-11-17T19:57:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691533-gta-vi-dominates-game-awards-2026-game-of-the-year-nominees-revealed",
+        "publisher_url": "https://www.geo.tv/latest/691533-gta-vi-dominates-game-awards-2026-game-of-the-year-nominees-revealed",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3ecf03a46c67c5d9f7030e19",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T18:55:40+00:00",
+      "last_update": "2026-11-17T19:56:31+00:00",
+      "event": "Major Apple outage brings App Store, iCloud, Apple Music, and Apple Pay to a halt worldwide",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "app",
+        "apple",
+        "brings",
+        "halt",
+        "icloud",
+        "major",
+        "music",
+        "outage",
+        "pay",
+        "store",
+        "worldwide"
+      ],
+      "source_excerpt": "Major Apple outage brings App Store, iCloud, Apple Music, and Apple Pay to a halt worldwide",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+          "published_at": "2026-11-17T18:55:40+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/major-apple-outage-brings-app-store-icloud-apple-music-and-apple-pay-to-a-halt-worldwide",
+          "published_at": "2026-11-17T19:56:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/major-apple-outage-brings-app-store-icloud-apple-music-and-apple-pay-to-a-halt-worldwide",
+        "publisher_url": "https://arynews.tv/major-apple-outage-brings-app-store-icloud-apple-music-and-apple-pay-to-a-halt-worldwide",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f71c5d51c81dc39ea97a5b28",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T20:20:18+00:00",
+      "last_update": "2026-11-17T20:20:18+00:00",
+      "event": "Kalshi halts Trump speech bets after CFTC order",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "amid",
+        "bets",
+        "cftc",
+        "concerns",
+        "following",
+        "halts",
+        "insider",
+        "kalshi",
+        "mandate",
+        "markets",
+        "order",
+        "prediction",
+        "speech",
+        "trading",
+        "trump"
+      ],
+      "source_excerpt": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+          "published_at": "2026-11-17T20:20:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "18bffde1dcbd641192ff7306",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T20:14:07+00:00",
+      "last_update": "2026-11-17T20:14:07+00:00",
+      "event": "Police charge crowds at Brussels student march",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "and",
+        "brussels",
+        "charge",
+        "crowds",
+        "cuts",
+        "education",
+        "fees",
+        "higher",
+        "march",
+        "marched",
+        "police",
+        "reforms",
+        "student",
+        "students",
+        "teachers",
+        "thousands",
+        "tuition"
+      ],
+      "source_excerpt": "Thousands of students and teachers marched in Brussels against higher tuition fees, education reforms and cuts.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+          "published_at": "2026-11-17T20:14:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5e27b73ef1b334f866c1a5bc",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T20:11:41+00:00",
+      "last_update": "2026-11-17T20:11:41+00:00",
+      "event": "China, Canada expand tariff relief after Carney-Xi meeting",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "aluminium",
+        "and",
+        "canada",
+        "canadian",
+        "carney",
+        "china",
+        "chinese",
+        "cuts",
+        "exemptions",
+        "expand",
+        "extends",
+        "for",
+        "meeting",
+        "offers",
+        "pork",
+        "relief",
+        "seafood",
+        "steel",
+        "tariff"
+      ],
+      "source_excerpt": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+          "published_at": "2026-11-17T20:11:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "634c2b13995e03dc6eba0414",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T19:43:50+00:00",
+      "last_update": "2026-11-17T19:43:50+00:00",
+      "event": "Can a robot pianist upstage a human musician?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "can",
+        "fingered",
+        "human",
+        "italy",
+        "musician",
+        "pianist",
+        "robot",
+        "taking",
+        "upstage",
+        "virtuoso"
+      ],
+      "source_excerpt": "A 53-fingered robot pianist is taking on a human virtuoso in Italy.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss",
+          "published_at": "2026-11-17T19:43:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ff123aae02ed90a251b8734d",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T19:41:45+00:00",
+      "last_update": "2026-11-17T19:41:45+00:00",
+      "event": "Jeffries shifts strategy amid growing Democratic divisions in US House",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "become",
+        "black",
+        "chamber",
+        "democratic",
+        "divisions",
+        "first",
+        "growing",
+        "house",
+        "jeffries",
+        "lawmaker",
+        "opponents",
+        "opting",
+        "progressive",
+        "put",
+        "record",
+        "shifts",
+        "speaker",
+        "strategy",
+        "the",
+        "vies"
+      ],
+      "source_excerpt": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber's first Black speaker.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
+          "published_at": "2026-11-17T19:41:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5bb0b6b7ca13a330bc94107f",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T20:30:00+00:00",
+      "last_update": "2026-11-17T20:30:00+00:00",
+      "event": "Tech Life",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "combined",
+        "gaming",
+        "huge",
+        "life",
+        "lucrative",
+        "more",
+        "movies",
+        "music",
+        "tech",
+        "than",
+        "the",
+        "video"
+      ],
+      "source_excerpt": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T20:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5beb6e7854e69e1cb1f25f3a",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T20:25:27+00:00",
+      "last_update": "2026-11-17T20:25:27+00:00",
+      "event": "Russian military plane crashes killing all 19 on board",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "believes",
+        "board",
+        "cause",
+        "crash",
+        "crashes",
+        "defence",
+        "kemerovo",
+        "killing",
+        "malfunction",
+        "military",
+        "ministry",
+        "plane",
+        "preliminarily",
+        "region",
+        "russia",
+        "russian",
+        "says",
+        "technical",
+        "the",
+        "was"
+      ],
+      "source_excerpt": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T20:25:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f97b420aa31e9c050cd609ff",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T20:25:46+00:00",
+      "last_update": "2026-11-17T20:25:46+00:00",
+      "event": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "and",
+        "asia",
+        "available",
+        "chinese",
+        "meeting",
+        "one",
+        "open",
+        "president",
+        "presidents",
+        "putin",
+        "russia",
+        "russian",
+        "said",
+        "talks",
+        "the",
+        "trump",
+        "vladimir",
+        "with",
+        "would"
+      ],
+      "source_excerpt": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T20:25:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "acf1d039b5675e0687b71540",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T18:42:06+00:00",
+      "last_update": "2026-11-17T18:42:06+00:00",
+      "event": "Construction of Long-Awaited connecting roads of Layyah–Taunsa bridge begins",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "awaited",
+        "begins",
+        "bridge",
+        "connecting",
+        "construction",
+        "layyah",
+        "long",
+        "roads",
+        "taunsa"
+      ],
+      "source_excerpt": "Construction of Long-Awaited connecting roads of Layyah–Taunsa bridge begins ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmhfMmpFODAySWVZeW9HYjFsc0FWWVM3eDZPNi1ZSG9DMVV5Y1dxUkNkNW8xNDdHbGVKdEJQaHd6bmI1ak1mNjJzWkxBRDY3UWotMG1DZmV2cTRIUHV4LURLLWlVcldrcmk5N05QZEprY2Z4MXJMLUNjRnlUVUE3b2N3WjBwZnYwSFBybWpzZUI3a05mamVFeEJLVQ?oc=5",
+          "published_at": "2026-11-17T18:42:06+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/construction-of-long-awaited-connecting-roads-of-layyah-taunsa-bridge-begins",
+          "published_at": "2026-11-17T18:42:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmhfMmpFODAySWVZeW9HYjFsc0FWWVM3eDZPNi1ZSG9DMVV5Y1dxUkNkNW8xNDdHbGVKdEJQaHd6bmI1ak1mNjJzWkxBRDY3UWotMG1DZmV2cTRIUHV4LURLLWlVcldrcmk5N05QZEprY2Z4MXJMLUNjRnlUVUE3b2N3WjBwZnYwSFBybWpzZUI3a05mamVFeEJLVQ?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d1bee3ee3ade8e23ac9a5ce7",
+      "remembered_at": "2026-11-17T20:38:33.953072+00:00",
+      "event_date": "2026-11-17T18:00:40+00:00",
+      "last_update": "2026-11-17T18:26:48+00:00",
+      "event": "US proposes tougher rules for employment-based green cards",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "based",
+        "cards",
+        "dawn",
+        "employment",
+        "for",
+        "green",
+        "proposes",
+        "rules",
+        "tougher"
+      ],
+      "source_excerpt": "US proposes tougher rules for employment-based green cards Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1QxdThabmQxalRpMzIza3FFTmdsNHk3bFJrbmxnZWVWYnFRTWx2eTA3aDMtZ0drUXkzQkR3M0dDNEV0a01oSFlLOHJYdmxjVDNaZjcyYnU0R3J4bVpBMkViNTNxRUdhWnBDOVp4OFRVLVNpODR2ZGt1TWRhMEpWcWVESjJNdEg5c2FQSUhZQzg0Y2ptZzVR?oc=5",
+          "published_at": "2026-11-17T18:00:40+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045211/us-proposes-tougher-rules-for-employment-based-green-cards",
+          "published_at": "2026-11-17T18:26:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1QxdThabmQxalRpMzIza3FFTmdsNHk3bFJrbmxnZWVWYnFRTWx2eTA3aDMtZ0drUXkzQkR3M0dDNEV0a01oSFlLOHJYdmxjVDNaZjcyYnU0R3J4bVpBMkViNTNxRUdhWnBDOVp4OFRVLVNpODR2ZGt1TWRhMEpWcWVESjJNdEg5c2FQSUhZQzg0Y2ptZzVR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T19:47:01.581207+00:00"
+  "updated_at": "2026-11-17T20:38:33.953072+00:00"
 }

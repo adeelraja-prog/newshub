@@ -1,142 +1,143 @@
-# News Hub report - Wed 18 Nov, 12:47 AM PKT
+# News Hub report - Wed 18 Nov, 01:38 AM PKT
 
 ## Collection
-- New items this run: 62 | items in rolling pool: 859
-- Unique story clusters: 710 (duplicates merged: 149)
-- Clusters dropped as already published/queued: 13; unchanged since last analysis: 4
-- Items per outlet: ARY News 9, Geo News 7, Al Jazeera 7, The Verge 4, TechCrunch 4, Engadget 4, Dawn 2, Wired 2, Pakistan Today 2, Ahram Online 2, ARYnews.tv 1, samaa tv 1
+- New items this run: 37 | items in rolling pool: 800
+- Unique story clusters: 670 (duplicates merged: 130)
+- Clusters dropped as already published/queued: 16; unchanged since last analysis: 4
+- Items per outlet: The Express Tribune 5, Al Jazeera 5, Geo News 2, ARY News 2, Ars Technica 2, BBC World 2, Pakistan Today 2, Dunya News 1, Dawn Pakistan 1, The New York Times 1, The Verge 1, TechCrunch 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- US officially loses measles-free status after 26 years amid outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- William and Kate celebrate Earthshot Prize winners in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA VI dominates Game Awards 2026: Game of the Year nominees revealed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Major Apple outage brings App Store, iCloud, Apple Music, and Apple Pay to a halt worldwide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- More than 100,000 take part in France pay protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- US officially loses measles-free status after 26 years amid outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- William and Kate celebrate Earthshot Prize winners in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA VI dominates Game Awards 2026: Game of the Year nominees revealed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Major Apple outage brings App Store, iCloud, Apple Music, and Apple Pay to a halt worldwide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- More than 100,000 take part in France pay protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- US officially loses measles-free status after 26 years amid outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Israeli firms helping build West Bank settlements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- William and Kate celebrate Earthshot Prize winners in Mumbai | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA VI dominates Game Awards 2026: Game of the Year nominees revealed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Major Apple outage brings App Store, iCloud, Apple Music, and Apple Pay to a halt worldwide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- More than 100,000 take part in France pay protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 102/107 | empty: 4 | failed: 1 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### US officially loses measles-free status after 26 years  [NORMAL]
-- Poster: امریکہ نے چھبیس سال بعد خسرہ سے پاک حیثیت کھودی / US loses measles-free status after 26 years | category health
-- Alternative headline: United States loses measles elimination status amid record outbreaks
+### Prince William and Kate Celebrate Earthshot Prize Winners in Mumbai  [NORMAL]
+- Poster: پرنس ولیم اور کیٹ کا ممبئی میں ارتھ شاٹ پرائز جیتنے والوں کو خراج تحسین / William and Kate celebrate Earthshot Prize winners in Mumbai | category lifestyle
+- Alternative headline: Prince William and Princess Kate Honor Environmental Innovators in India
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss
-- Supporting coverage: Al Jazeera, BBC World, ARY News
-- Keywords: measles, US health, measles outbreak, health status, Al Jazeera | hashtags: #Measles #US #HealthNews #AlJazeera #PublicHealth
-- Scheduled: Wed 18 Nov, 12:47 AM PKT
+- Original source: published_report - BBC Science https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Science https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Science, BBC
+- Keywords: Earthshot Prize, Prince William, Kate Middleton, Mumbai, Bhutan, environmental innovators | hashtags: #EarthshotPrize #PrinceWilliam #Mumbai #Environment #RoyalVisit
+- Scheduled: Wed 18 Nov, 01:38 AM PKT
 - Caption:
 ```
-The United States has officially lost its measles-free status after 26 years following a significant outbreak and a reversal in decades of health progress.
+Prince William and Princess Kate celebrated this year's Earthshot Prize winners in Mumbai, awarding £1m to each environmental innovator.
 
-A major health organisation has officially declared measles endemic in the United States for the first time since the year 2000. This development reverses nearly three decades of public health progress against the preventable disease amid a growing outbreak.
+The Prince and Princess of Wales celebrated this year's winners of the Earthshot Prize in Mumbai, India. Five award-winners, including Bhutan for its environmental policies, will each receive £1m to scale up their projects. The annual event was attended by global stars and marked the royal couple's first official overseas trip together in four years.
 
-ایک بڑے صحت کے ادارے نے سنہ دو ہزار کے بعد پہلی بار امریکہ میں خسرہ کو دیمک زدہ قرار دے دیا ہے۔ اس پیش رفت نے ایک پھیلتی ہوئی وباء کے دوران اس قابلِ علاج بیماری کے خلاف تین دہائیوں کی صحت عامہ کی پیش رفت کو الٹ دیا ہے۔
+پرنس اور پرنسس آف ویلز نے ممبئی میں ارتھ شاٹ پرائز کے اس سال کے فاتحین کا جشن منایا۔ بھوٹان سمیت پانچ فاتحین کو اپنے منصوبوں کو وسعت دینے کے لیے فی کس دس لاکھ پاؤنڈ ملیں گے۔ اس سالانہ تقریب میں عالمی ستاروں نے شرکت کی اور یہ شاہی جوڑے کا چار سال میں پہلا سرکاری غیر ملکی دورہ ہے۔
 
-First reported by Al Jazeera
+First reported by BBC Science.
 
-#Measles #US #HealthNews #AlJazeera #PublicHealth
+#EarthshotPrize #PrinceWilliam #Mumbai #Environment #RoyalVisit
 ```
 
-### UK sanctions Israeli firms building West Bank settlements  [NORMAL]
-- Poster: برطانیہ نے مغربی کنارے میں بستیوں کی تعمیر کرنے والی اسرائیلی کمپنیوں پر پابندیاں عائد کر دیں / UK sanctions Israeli firms over West Bank settlements | category politics
-- Alternative headline: United Kingdom imposes sanctions on Israeli settlement builders
+### GTA VI Dominates Game Awards 2026 With Eight Major Nominations  [NORMAL]
+- Poster: جی ٹی اے 6 نے دی گیم ایوارڈز 2026 میں آٹھ نامزدگیاں حاصل کر لیں / GTA VI dominates Game Awards 2026 with eight nominations | category tech
+- Alternative headline: Grand Theft Auto VI Secures Eight Nominations at Game Awards 2026
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFpQV0ZoN0IxbmlUT0k5NEsteExuSDBVRG1WZDAxZm1FNmFDckEwaEpXaC1HTUNRX2FOOWY1ejFNU2xpZjlCUUdYMUtQRUxrWExGWnJ1blFneVNhVUFIYkcybjBfdjA1MEJmeWI5QTVQc1lWcnluNFlEN3pzbGVGWDl6TDNya3JmYXJ1NUxiZk1MUndnaWE3eDBENVg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFpQV0ZoN0IxbmlUT0k5NEsteExuSDBVRG1WZDAxZm1FNmFDckEwaEpXaC1HTUNRX2FOOWY1ejFNU2xpZjlCUUdYMUtQRUxrWExGWnJ1blFneVNhVUFIYkcybjBfdjA1MEJmeWI5QTVQc1lWcnluNFlEN3pzbGVGWDl6TDNya3JmYXJ1NUxiZk1MUndnaWE3eDBENVg?oc=5
-- Supporting coverage: Dawn, Dawn Latest, BBC World
-- Keywords: UK sanctions, Israeli firms, West Bank, settlements, Dawn | hashtags: #UKSanctions #WestBank #Israel #DawnNews #MiddleEast
-- Scheduled: Wed 18 Nov, 12:57 AM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/691533-gta-vi-dominates-game-awards-2026-game-of-the-year-nominees-revealed | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691533-gta-vi-dominates-game-awards-2026-game-of-the-year-nominees-revealed
+- Supporting coverage: TechJuice, Geo News
+- Keywords: GTA VI, The Game Awards 2026, Game of the Year, Rockstar Games, Manni L. Perez | hashtags: #GTAVI #TheGameAwards #Gaming #RockstarGames #GameOfTheYear
+- Scheduled: Wed 18 Nov, 01:48 AM PKT
 - Caption:
 ```
-The United Kingdom has imposed official sanctions on Israeli firms that are helping build settlements in the occupied West Bank.
+Rockstar Games' Grand Theft Auto VI has received eight nominations at The Game Awards 2026, including Game of the Year.
 
-The United Kingdom has announced new sanctions targeting Israeli firms involved in helping build settlements in the occupied West Bank. The move comes amid escalating tensions and ongoing international scrutiny over settlement expansion in the region.
+Rockstar Games' Grand Theft Auto VI has received eight nominations at The Game Awards 2026, including Game of the Year, direction, narrative, and best performance for actress Manni L. Perez. The nominations were announced by founder Geoff Keighley, with Nintendo emerging as the most nominated publisher.
 
-برطانیہ نے مقبوضہ مغربی کنارے میں بستیوں کی تعمیر میں مدد کرنے والی اسرائیلی کمپنیوں کو نشانہ بناتے ہوئے نئی پابندیوں کا اعلان کیا ہے۔ یہ قدم اس خطے میں بستیوں کی توسیع پر بڑھتے ہوئے تناؤ اور جاری بین الاقوامی جانچ پڑتال کے درمیان اٹھایا گیا ہے۔
+راک سٹار گیمز کی گرینڈ تھیفٹ آٹو سکس نے دی گیم ایوارڈز 2026 میں گیم آف دی ایئر سمیت آٹھ نامزدگیاں حاصل کی ہیں۔ نامزدگیوں کا اعلان جیف کِیگلی نے کیا، جبکہ نেন্টنڈو سب سے زیادہ نامزدگیاں حاصل کرنے والا پبلشر بن کر ابھرا ہے۔
 
-First reported by Dawn
+First reported by Geo News.
 
-#UKSanctions #WestBank #Israel #DawnNews #MiddleEast
+#GTAVI #TheGameAwards #Gaming #RockstarGames #GameOfTheYear
 ```
 
-### Islamabad bans vehicles without fitness tests to curb smog  [NORMAL]
-- Poster: اسمگ کی روک تھام کے لیے اسلام آباد میں فٹنس ٹیسٹ کے بغیر گاڑیوں کے داخلے پر پابندی / Islamabad bans unfit vehicles to curb smog | category disaster
-- Alternative headline: Vehicles lacking fitness and emissions tests barred in Islamabad
+### Major Apple Outage Halts App Store, iCloud, and Apple Pay Globally  [NORMAL]
+- Poster: ایپل کی سروسز دنیا بھر میں معطل، آئی کلاؤڈ اور ایپ اسٹور بند / Major Apple outage halts App Store, iCloud, and Apple Pay globally | category tech
+- Alternative headline: Worldwide Apple Service Outage Affects iCloud, App Store and Apple Pay
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVZoLTUwSURCQW1LdnZXMVpZR3BZMUlwMWFYQ0w2RXdfcFVMaFdGaDJ0ekI0dVR4enJfYU13TVdjU0dETUdyTEtGWE13NHJlQ2t1ZzY0YjRmYnNVR2F4cjZXVFpFSVlGMG5PY0FDVnM4RGpjQkgxcDZRNG53VFBxWUQxYU02YUpiZk82SWp1NnZIMmpjVVAxVGhkZUpEeTAwX21qdEYxYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVZoLTUwSURCQW1LdnZXMVpZR3BZMUlwMWFYQ0w2RXdfcFVMaFdGaDJ0ekI0dVR4enJfYU13TVdjU0dETUdyTEtGWE13NHJlQ2t1ZzY0YjRmYnNVR2F4cjZXVFpFSVlGMG5PY0FDVnM4RGpjQkgxcDZRNG53VFBxWUQxYU02YUpiZk82SWp1NnZIMmpjVVAxVGhkZUpEeTAwX21qdEYxYw?oc=5
-- Supporting coverage: samaa tv, TechJuice, Dawn, Dawn Pakistan
-- Keywords: Islamabad smog, vehicle fitness, emissions test, smog control, Dawn | hashtags: #Islamabad #Smog #VehicleFitness #SamaaTV #AirQuality
-- Scheduled: Wed 18 Nov, 01:07 AM PKT
+- Original source: published_report - ARY News https://arynews.tv/major-apple-outage-brings-app-store-icloud-apple-music-and-apple-pay-to-a-halt-worldwide | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/major-apple-outage-brings-app-store-icloud-apple-music-and-apple-pay-to-a-halt-worldwide
+- Supporting coverage: TechCrunch, ARY News
+- Keywords: Apple outage, iCloud, App Store, Apple Pay, Apple Music | hashtags: #Apple #AppleOutage #iCloud #AppStore #TechNews
+- Scheduled: Wed 18 Nov, 01:58 AM PKT
 - Caption:
 ```
-Authorities in Islamabad have barred vehicles without valid fitness and emissions tests from operating in a bid to curb severe smog.
+A major technical outage took down key Apple services including the App Store, iCloud, Apple Music, and Apple Pay worldwide.
 
-In a decisive step to combat worsening smog, authorities in Islamabad have barred vehicles that lack mandatory fitness and emissions certificates. The measure aims to reduce vehicular pollution and improve air quality across the capital.
+A major technical outage impacted multiple key Apple services including the App Store, iCloud, Apple Music, and Apple Pay, affecting millions of users worldwide. Users were unable to log into iCloud, set up new iPhones, or complete transactions, with outages tracked across multiple countries including the US.
 
-اسمگ کا مقابلہ کرنے کے لیے ایک فیصلہ کن اقدام کے طور پر، اسلام آباد کے حکام نے ان گاڑیوں پر پابندی عائد کر دی ہے جن کے پاس لازمی فٹنس اور اخراج کے سرٹیفکیٹ نہیں ہیں۔ اس اقدام کا مقصد گاڑیوں کی آلودگی کو کم کرنا اور دارالحکومت میں فضائی معیار کو بہتر بنانا ہے۔
+ایک بڑے تکنیکی خرابی کے باعث ایپل کی اہم سروسز بشمول ایپ اسٹور، آئی کلاؤڈ، ایپل میوزک اور ایپل پے دنیا بھر میں معطل ہو گئیں۔ صارفین آئی کلاؤڈ میں لاگ ان کرنے، نئے آئی فونز سیٹ اپ کرنے یا ادائگی کرنے سے قاصر رہے۔
 
-First reported by samaa tv
+First reported by ARY News.
 
-#Islamabad #Smog #VehicleFitness #SamaaTV #AirQuality
+#Apple #AppleOutage #iCloud #AppStore #TechNews
 ```
 
-### Trump warns Iran over reported dirty bomb threat in Washington  [NORMAL]
-- Poster: واشنگٹن میں مبینہ گندی بم کی دھمکی پر ٹرمپ کا ایران کو انتباہ / Trump warns Iran over reported dirty bomb threat | category security
-- Alternative headline: US takes reported Iranian dirty bomb threat very seriously: Trump
+### Saudi's Delta Energy Eyes $30 Billion Energy Investment in Pakistan  [NORMAL]
+- Poster: سعودی عرب کی ڈیلٹا انرجی کا پاکستان میں 30 ارب ڈالر کی سرمایہ کاری کا جائزہ / Saudi's Delta Energy to explore $30 billion energy investment in Pakistan | category economy
+- Alternative headline: Saudi Arabia’s Delta Energy Explores $30 Billion Investment in Pakistan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss
-- Supporting coverage: Al Jazeera, NewsNation
-- Keywords: Trump Iran, dirty bomb, Washington threat, US security, Al Jazeera | hashtags: #DonaldTrump #Iran #WashingtonDC #Security #AlJazeera
-- Scheduled: Wed 18 Nov, 01:17 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUFOS0VoSXBJNkd3SUg2b2dfSDVlZlBBOVdSQlAzTDRWVk5qZDFYVlNWX3FWdnhkVW5FQ0tRcVRxbHBZSmxfRWkwSUhfazhCaHd4akVOMnotaHNUbjNGUDBHVk9QeUtVNnA5b3oxbG1QQkxBTS1YWThiQ0kyTjlHVksxWEN2b0Mxa2ozOTNCWkF5NHZ6SWV0Q3ZtME8zVk9HX3p6U3R4Z1hiMGkw0gG0AUFVX3lxTE9fd0wtYUdMQW5PaFBSSTI4RThFLU9pMmJwb3BRRzg1dENEbTJPa3VHOFVOOVNrZHotbFJLVUhwTTdIZ0J5Nnh5bzRzTUdocVBrZ3hKVHRwamp2NXJHV3NyUUlkNHdYbDZnbkpVekRjTklPVW1ReVM1QUwzbzdUQXFMTkg4SUE5MG5td0RWUXAxaEYxTUVydTNLTmt2X3ZCOHRCQnNfYmFicVU4OGZHVnRHTW5HdA?oc=5
+- Supporting coverage: The Express Tribune, Profit by Pakistan Today
+- Keywords: Delta Energy, Saudi Arabia, Pakistan, energy investment, 30 billion | hashtags: #SaudiArabia #Pakistan #DeltaEnergy #Economy #Investment
+- Scheduled: Wed 18 Nov, 02:08 AM PKT
 - Caption:
 ```
-President Donald Trump has responded strongly to reports that Iran was working on plans for a dirty bomb attack targeting Washington, DC.
+Saudi Arabia's Delta Energy is exploring a massive $30 billion energy investment opportunity in Pakistan.
 
-US President Donald Trump has responded to media reports indicating that Iran was making plans to carry out a threat against Washington, DC. Trump emphasized that the administration is taking the reported dirty bomb plot very seriously.
+Saudi Arabia's Delta Energy has stepped forward to explore a substantial $30 billion energy investment in Pakistan, according to reports by The Express Tribune and other media outlets.
 
-امریکہ کے صدر ڈونلڈ ٹرمپ نے ان میڈیا رپورٹس کا جواب دیا ہے جن میں اشارہ کیا گیا تھا کہ ایران واشنگٹن ڈی سی کو نشانہ بنانے کے لیے گندی بم کی دھمکی کے منصوبوں پر کام کر رہا ہے۔ ٹرمپ نے اس بات پر زور دیا کہ انتظامیہ اس مبینہ سازش کو انتہائی سنجیدگی سے لے رہی ہے۔
+ایکسپریس ٹریبیون کی رپورٹ کے مطابق سعودی عرب کی ڈیلٹا انرجی پاکستان میں تیس ارب ڈالر کی توانائی کی سرمایہ کاری کے امکانات کا جائزہ لے رہی ہے۔
 
-First reported by Al Jazeera
+First reported by The Express Tribune.
 
-#DonaldTrump #Iran #WashingtonDC #Security #AlJazeera
+#SaudiArabia #Pakistan #DeltaEnergy #Economy #Investment
 ```
 
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 8
+- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
 
 ## Queue status
 - [needs_review] normal | Trump, Xi, Putin Plan Unprecedented Joint Meeting at APEC | Sat 14 Nov, 10:20 PM PKT
@@ -294,7 +295,7 @@ First reported by Al Jazeera
 - [published] normal | Asian Development Bank Approves $500M Loan to Support Pakistan's Pensi | Tue 17 Nov, 09:40 PM PKT
 - [published] normal | PTI Leaders Taimur Jhagra and Kamran Bangash Arrested in Peshawar | Tue 17 Nov, 09:50 PM PKT
 - [published] normal | ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Ra | Tue 17 Nov, 10:00 PM PKT
-- [queued] normal | Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack | Tue 17 Nov, 11:39 PM PKT
+- [published] normal | Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack | Tue 17 Nov, 11:39 PM PKT
 - [queued] normal | ECP Decides to Hold Punjab Local Government Elections in Two Phases | Tue 17 Nov, 11:49 PM PKT
 - [queued] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
 - [queued] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
@@ -302,12 +303,23 @@ First reported by Al Jazeera
 - [queued] normal | UK sanctions Israeli firms building West Bank settlements | Wed 18 Nov, 12:57 AM PKT
 - [queued] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
 - [queued] normal | Trump warns Iran over reported dirty bomb threat in Washington | Wed 18 Nov, 01:17 AM PKT
+- [queued] normal | Prince William and Kate Celebrate Earthshot Prize Winners in Mumbai | Wed 18 Nov, 01:38 AM PKT
+- [queued] normal | GTA VI Dominates Game Awards 2026 With Eight Major Nominations | Wed 18 Nov, 01:48 AM PKT
+- [queued] normal | Major Apple Outage Halts App Store, iCloud, and Apple Pay Globally | Wed 18 Nov, 01:58 AM PKT
+- [queued] normal | Saudi's Delta Energy Eyes $30 Billion Energy Investment in Pakistan | Wed 18 Nov, 02:08 AM PKT
 
 ## Publishing this run
-- Published 'ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Rates'.
+- Published 'Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5050 | output tokens: 2309
-- Errors: 2
+- Calls: 4 | prompt tokens: 6420 | output tokens: 2470
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
