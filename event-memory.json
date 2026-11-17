@@ -45443,7 +45443,954 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a18500b518230554a303cb55",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T00:58:33+00:00",
+      "last_update": "2026-11-17T05:57:38+00:00",
+      "event": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "according",
+        "after",
+        "attack",
+        "bridges",
+        "come",
+        "day",
+        "drone",
+        "hit",
+        "its",
+        "kyiv",
+        "largest",
+        "launched",
+        "major",
+        "mayor",
+        "moscow",
+        "recorded",
+        "reported",
+        "russia",
+        "russian",
+        "says",
+        "since",
+        "start",
+        "strikes",
+        "the",
+        "two",
+        "ukraine",
+        "war"
+      ],
+      "source_excerpt": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVjdXZV83aTNQR2hCaVpLenBYR2hrWFU3SGJ6TGtnLURHZG5nNmZjbTA1YnlYeHg3WWJaeFN0YVpFRXJYaVc1SVhHUks4bExMOVBEeVdTOUl5dFU0Y3JWMjdGa29telpOSDdKVDRCXzFhRDdBZ1E5NmVxMzZvb2pwYmZpXzdFSmt4ZXhtYU1xWG1PVy02UlI2WVRjZm5ON2kyZjZKN3FDam9sbjU1ZGx5Qk1fQ1F2N2J4dWJreHNCSVBFbnV3STRUZmdDNA?oc=5",
+          "published_at": "2026-11-17T00:58:33+00:00"
+        },
+        {
+          "name": "DW.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOV9jVllmYTZFOFFyTllHQi1tY1RTUDhSdnh2RENTWXpUOXBoa2xXTzh1VHV5WndlZDQ3V2tEN3A2VFdJWEs3c0E5U0FjaWhfNUo1Zmwtclp4XzZJQy16cldCV2t2a25BR3FmTUZuSXBubXQyb1NrcTRNQUI3NmFNMGFXRWQxeHF5NzZSd09xeHpjYzA1?oc=5",
+          "published_at": "2026-11-17T02:35:15+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T05:57:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5fca151db02fd7dcbcb1fadb",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T01:43:42+00:00",
+      "last_update": "2026-11-17T05:13:06+00:00",
+      "event": "Man found murdered in farmhouse",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "farmhouse",
+        "found",
+        "man",
+        "murdered"
+      ],
+      "source_excerpt": "Man found murdered in farmhouse Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mMUtxYS1TckdOcE95RlJxN0xZcmlCN1RzdWpaMHFlYXdzNWE0N2NwNjB5X1FHSndKTVdDaEJhbzhuMU53ekk2M1pTenlBOWE4SWJHVUNuRE41a0g1NVk5VElkRnRrcThDN1NybkhpWXFVWlE?oc=5",
+          "published_at": "2026-11-17T01:43:42+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2044992/man-found-murdered-in-rawalpindi-farmhouse",
+          "published_at": "2026-11-17T05:13:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mMUtxYS1TckdOcE95RlJxN0xZcmlCN1RzdWpaMHFlYXdzNWE0N2NwNjB5X1FHSndKTVdDaEJhbzhuMU53ekk2M1pTenlBOWE4SWJHVUNuRE41a0g1NVk5VElkRnRrcThDN1NybkhpWXFVWlE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "13bbc54615f6974158d7834f",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:58:00+00:00",
+      "last_update": "2026-11-17T05:58:00+00:00",
+      "event": "Pakistan's pacers rattle Sri Lanka top order in second Test",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "lanka",
+        "order",
+        "pacers",
+        "pakistan",
+        "rattle",
+        "second",
+        "sri",
+        "test",
+        "the",
+        "top",
+        "tribune"
+      ],
+      "source_excerpt": "Pakistan's pacers rattle Sri Lanka top order in second Test The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjRhdFU3bUVja1JQMi1DREtYMkFYTHhfLTB0QjdHaHFfTlFUSExfSExTektObDFMMVlOcEVmZDN0N3Q1R0hfclFZaTZYRlI0TmRGekxPV3NQdTBpVDhZT0pvUjdGYUlHLUFCR3lhOFF4T3VSQU5sRDk5a2RNdy1JTHZfN0t5WWlTT3JkbkFQQ3NFVWVmbFVwWnd2ZmJfZlXSAbwBQVVfeXFMUFlIQUo0Q3B5ZWZRb29ZVERPN08xbkZZNHBrbTJRWWdRVEpBYlU0REwzZVM3TzBKUDdrOEYwTktjQWl3SUJwWjRRYUtqb1lWM0dRbTJud2tNb1ZhNDNLMlc3NnIwMDJSbDVlVE1MbldWT0hLSVJaVENxX0U2QWF4UUpaSXd2TE9NR0RxUEItLWRwYXJzWlNOSjhxNlYyYXJ2WjlKQUMzT24yYzRPZGJ6YWNIVzJtRFJpODExZmQ?oc=5",
+          "published_at": "2026-11-17T05:58:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjRhdFU3bUVja1JQMi1DREtYMkFYTHhfLTB0QjdHaHFfTlFUSExfSExTektObDFMMVlOcEVmZDN0N3Q1R0hfclFZaTZYRlI0TmRGekxPV3NQdTBpVDhZT0pvUjdGYUlHLUFCR3lhOFF4T3VSQU5sRDk5a2RNdy1JTHZfN0t5WWlTT3JkbkFQQ3NFVWVmbFVwWnd2ZmJfZlXSAbwBQVVfeXFMUFlIQUo0Q3B5ZWZRb29ZVERPN08xbkZZNHBrbTJRWWdRVEpBYlU0REwzZVM3TzBKUDdrOEYwTktjQWl3SUJwWjRRYUtqb1lWM0dRbTJud2tNb1ZhNDNLMlc3NnIwMDJSbDVlVE1MbldWT0hLSVJaVENxX0U2QWF4UUpaSXd2TE9NR0RxUEItLWRwYXJzWlNOSjhxNlYyYXJ2WjlKQUMzT24yYzRPZGJ6YWNIVzJtRFJpODExZmQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "be58ffd733efdd5820de5d07",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T01:42:05+00:00",
+      "last_update": "2026-11-17T05:23:24+00:00",
+      "event": "Millers seek immediate sugar exports",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "exports",
+        "immediate",
+        "millers",
+        "seek",
+        "sugar"
+      ],
+      "source_excerpt": "Millers seek immediate sugar exports Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aNVFMWTk4Y3NEY3BRbUJsZWJTVGFtd3B6MGVGcEhuNGRnM3pySE05a3JZZEwtMFg1emxqeEpmWGxKaDZTVXBGcWpSTzd6Yk5raWx1c2xBRUtXcUJscDBWNzFpc3BTVUpPZXJBOXRpS3lTbVZ1VnNCb2xR?oc=5",
+          "published_at": "2026-11-17T01:42:05+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2U3OFIzZzJFd1E3ZjdjckNvMjd5ZXRSeFR5alNlNGJPcEVXbUVYVnFmaDFwZnFGMTM2TmlXLS1RNi1Ka0g2ZFdIejRfSlVrVENMNFY3UjMyMmFYa3drVGhjUVRNdWNTbHpJUXVQdnNBcFFOdXFsdzM0dHRHQm1ZS3p4UlRsWHBDekMyTExrUHV6NGFEaHJXNlFXQ0h0ekJCLVpJQWFqMlBLUmZzSFJxNWlDN3gtaUxDeW9QQg?oc=5",
+          "published_at": "2026-11-17T05:23:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aNVFMWTk4Y3NEY3BRbUJsZWJTVGFtd3B6MGVGcEhuNGRnM3pySE05a3JZZEwtMFg1emxqeEpmWGxKaDZTVXBGcWpSTzd6Yk5raWx1c2xBRUtXcUJscDBWNzFpc3BTVUpPZXJBOXRpS3lTbVZ1VnNCb2xR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4a9f031f68f94dc083efa317",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T01:42:55+00:00",
+      "last_update": "2026-11-17T05:19:04+00:00",
+      "event": "JIT to probe illegal gold mining: Samar",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "gold",
+        "illegal",
+        "jit",
+        "mining",
+        "probe",
+        "samar"
+      ],
+      "source_excerpt": "JIT to probe illegal gold mining: Samar Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GY29QNXpEd0REY0pid2RqUDVRNzAzN0U2NkNFUmlWbkxxUjVtRFQ2Wkw1MDVlZlZlQUNYZ1dpY1BzQWpuMFBxTkgwdXR3R3VTZWpqNDRtRHE5eTlSNkJvRzBBbzFWWGJrZHdrMDVxSmVxcERZb0huXzBsZGk?oc=5",
+          "published_at": "2026-11-17T01:42:55+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045025/joint-investigation-team-to-probe-illegal-gold-mining-in-kp-samar",
+          "published_at": "2026-11-17T05:19:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GY29QNXpEd0REY0pid2RqUDVRNzAzN0U2NkNFUmlWbkxxUjVtRFQ2Wkw1MDVlZlZlQUNYZ1dpY1BzQWpuMFBxTkgwdXR3R3VTZWpqNDRtRHE5eTlSNkJvRzBBbzFWWGJrZHdrMDVxSmVxcERZb0huXzBsZGk?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3d5c7eea9d9dc18780b083e3",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:19:11+00:00",
+      "last_update": "2026-11-17T05:19:11+00:00",
+      "event": "Handcuffed suspect injured in ‘encounter’ in Islamabad",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "encounter",
+        "handcuffed",
+        "injured",
+        "islamabad",
+        "suspect"
+      ],
+      "source_excerpt": "Handcuffed suspect injured in ‘encounter’ in Islamabad Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3pDdWsxVnh3V2pKdjlMaHN4QWFPYnZ4OG14S09YSDdnMGZiMEY5T2tpTWtEYjVERkJnRElaOXIyeWphVjg1NkItYkNCMVdReERyekZuOTExc2VWR1pERGt6RHJ0QmVWRDB5bFpla1NMTnc2Y3hoc3liQS1Hai1Icmgzck0yaThabmZfR09XNA?oc=5",
+          "published_at": "2026-11-17T05:19:11+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2044984/handcuffed-suspect-injured-in-encounter-in-islamabad",
+          "published_at": "2026-11-17T05:19:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3pDdWsxVnh3V2pKdjlMaHN4QWFPYnZ4OG14S09YSDdnMGZiMEY5T2tpTWtEYjVERkJnRElaOXIyeWphVjg1NkItYkNCMVdReERyekZuOTExc2VWR1pERGt6RHJ0QmVWRDB5bFpla1NMTnc2Y3hoc3liQS1Hai1Icmgzck0yaThabmZfR09XNA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2c77b9c96c3569ec60b55add",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:28:50+00:00",
+      "last_update": "2026-11-17T05:31:45+00:00",
+      "event": "Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attacks",
+        "calls",
+        "condemns",
+        "dawn",
+        "for",
+        "from",
+        "israeli",
+        "occupied",
+        "pakistan",
+        "syria",
+        "territories",
+        "withdrawal"
+      ],
+      "source_excerpt": "Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVk5V2JRWXVUSEh2Uk92V0hkV3VqaHhxS2loNlFieEhKRDI5ZXhUZUlFRDVRUkV5SDJsSk91d2NsUk80NlhXNEN2eEpValdPc09oWUM4NEo5dWF6cnVtb1NORUhpRVU1X0lyZTc4VXV1T0dWZVhkUGRVUkwxWmlBWEpfNjhmemdxMEV5dUZOT3VqcEk1bFZpc3NVMWRpbWt6LW8ycy13ZlFBM3o3cUJ3TFF5ZThzdTN6NVZLR09Sa2M?oc=5",
+          "published_at": "2026-11-17T05:28:50+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045137/pakistan-condemns-israeli-attacks-in-syria-calls-for-withdrawal-from-occupied-territories",
+          "published_at": "2026-11-17T05:31:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVk5V2JRWXVUSEh2Uk92V0hkV3VqaHhxS2loNlFieEhKRDI5ZXhUZUlFRDVRUkV5SDJsSk91d2NsUk80NlhXNEN2eEpValdPc09oWUM4NEo5dWF6cnVtb1NORUhpRVU1X0lyZTc4VXV1T0dWZVhkUGRVUkwxWmlBWEpfNjhmemdxMEV5dUZOT3VqcEk1bFZpc3NVMWRpbWt6LW8ycy13ZlFBM3o3cUJ3TFF5ZThzdTN6NVZLR09Sa2M?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "601f2fbde85cf2133235c03c",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:58:53+00:00",
+      "last_update": "2026-11-17T06:15:08+00:00",
+      "event": "Pakistan appoints Shane Deitz as women’s cricket team head coach",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appoints",
+        "coach",
+        "cricket",
+        "deitz",
+        "express",
+        "head",
+        "pakistan",
+        "shane",
+        "team",
+        "the",
+        "tribune",
+        "women"
+      ],
+      "source_excerpt": "Pakistan appoints Shane Deitz as women’s cricket team head coach The Express Tribune",
+      "sources": [
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/pcb-appoints-shane-deitz-as-head-coach-of-pakistan-womens-cricket-team/",
+          "published_at": "2026-11-17T05:58:53+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXVQU3pMTVg1UWVJaEg0Q2l5bWVWTXFobmxVXzQwaWh2aVJEMDlDYkVsMWg3eEJTTXdEYmZmSG1XS3k2VXh2c0l2UkFSU2NWbDFONm1MMnBmMkkzWEhyQ0laNVpGLU1BUVdHRzBHc1gyOG13WG9aVTJXTk5FZmRRal9PWV9VTko5RW8tMU1XUmlSanFGTDNvQWNKUkFwUzE0ck1RZmNuM2pIOE1SWkHSAc4BQVVfeXFMTXVnRFhyZnRsLVBveENIQjBaamtVMXZwTkllUU1hWjNEend4VUZEbS1KaW1JLWVURnE1cHVqdUpGSi0yX002QUpJUHFFcndDNWdFaGRydHo5b3lpSV9qcmRKLVVfVTZEUkNuTHlvVklmQWZzX2hIXy1xVDRubnhBUkItd3RVSjhmdlhDbWZFNmhlWVRMd2FwdmFRZ19RNFYxenFmei1NZTVKYWp0aFZNV0o3WnVibFRERFJ3WEJWRWwxN2NxWHNvZDgzT296akE?oc=5",
+          "published_at": "2026-11-17T06:15:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXVQU3pMTVg1UWVJaEg0Q2l5bWVWTXFobmxVXzQwaWh2aVJEMDlDYkVsMWg3eEJTTXdEYmZmSG1XS3k2VXh2c0l2UkFSU2NWbDFONm1MMnBmMkkzWEhyQ0laNVpGLU1BUVdHRzBHc1gyOG13WG9aVTJXTk5FZmRRal9PWV9VTko5RW8tMU1XUmlSanFGTDNvQWNKUkFwUzE0ck1RZmNuM2pIOE1SWkHSAc4BQVVfeXFMTXVnRFhyZnRsLVBveENIQjBaamtVMXZwTkllUU1hWjNEend4VUZEbS1KaW1JLWVURnE1cHVqdUpGSi0yX002QUpJUHFFcndDNWdFaGRydHo5b3lpSV9qcmRKLVVfVTZEUkNuTHlvVklmQWZzX2hIXy1xVDRubnhBUkItd3RVSjhmdlhDbWZFNmhlWVRMd2FwdmFRZ19RNFYxenFmei1NZTVKYWp0aFZNV0o3WnVibFRERFJ3WEJWRWwxN2NxWHNvZDgzT296akE?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "00c085d4edf4161da90551ec",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T06:06:58+00:00",
+      "last_update": "2026-11-17T06:06:58+00:00",
+      "event": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bloc",
+        "continue",
+        "courts",
+        "eisenkot",
+        "form",
+        "gaza",
+        "genocide",
+        "government",
+        "grinds",
+        "israel",
+        "moves",
+        "occupation",
+        "orthodox",
+        "palestine",
+        "pogroms",
+        "political",
+        "reshuffle",
+        "settler",
+        "the",
+        "ultra",
+        "weekly"
+      ],
+      "source_excerpt": "As Eisenkot’s bloc moves to form a government and courts the ultra-Orthodox, Gaza genocide and settler pogroms continue.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
+          "published_at": "2026-11-17T06:06:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6886ca852251b5048bf3c610",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:50:29+00:00",
+      "last_update": "2026-11-17T05:50:29+00:00",
+      "event": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "assault",
+        "children",
+        "consequences",
+        "continues",
+        "disastrous",
+        "for",
+        "have",
+        "israel",
+        "israeli",
+        "lebanon",
+        "ongoing",
+        "pain",
+        "people",
+        "south",
+        "southern",
+        "stories",
+        "survival",
+        "the",
+        "war"
+      ],
+      "source_excerpt": "The ongoing Israeli assault continues to have disastrous consequences for the people of southern Lebanon.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
+          "published_at": "2026-11-17T05:50:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5b8cca633080b79f060e5ded",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:42:03+00:00",
+      "last_update": "2026-11-17T05:42:03+00:00",
+      "event": "Leonid meteor shower 2026: When and where to see it from where you live",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "among",
+        "and",
+        "best",
+        "city",
+        "fastest",
+        "find",
+        "from",
+        "leonid",
+        "leonids",
+        "live",
+        "meteor",
+        "november",
+        "peak",
+        "see",
+        "shower",
+        "showers",
+        "the",
+        "time",
+        "watch",
+        "when",
+        "where",
+        "year",
+        "you",
+        "your"
+      ],
+      "source_excerpt": "The Leonids, among the year's fastest meteor showers, peak on November 17-18. Find the best time to watch in your city.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss",
+          "published_at": "2026-11-17T05:42:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "66ba566b8c177c470fc55899",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:19:34+00:00",
+      "last_update": "2026-11-17T05:19:34+00:00",
+      "event": "US bank outage: What caused Chase problems and Zelle payment delays?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bank",
+        "banking",
+        "bug",
+        "caused",
+        "chase",
+        "delayed",
+        "delays",
+        "disrupted",
+        "happened",
+        "here",
+        "outage",
+        "payment",
+        "payments",
+        "problems",
+        "software",
+        "some",
+        "transactions",
+        "what",
+        "zelle"
+      ],
+      "source_excerpt": "A Chase software bug disrupted US banking transactions and delayed some Zelle payments. Here's what happened.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
+          "published_at": "2026-11-17T05:19:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f4968b745efe7bc6923e5c33",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:08:08+00:00",
+      "last_update": "2026-11-17T05:08:08+00:00",
+      "event": "The Red Crabs of Christmas Island",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "annual",
+        "australia",
+        "christmas",
+        "crabs",
+        "have",
+        "island",
+        "migration",
+        "millions",
+        "red",
+        "started",
+        "tens",
+        "the",
+        "their"
+      ],
+      "source_excerpt": "Tens of millions of Red Crabs have started their annual migration on Australia’s Christmas Island.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/the-red-crabs-of-christmas-island?traffic_source=rss",
+          "published_at": "2026-11-17T05:08:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/the-red-crabs-of-christmas-island?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/the-red-crabs-of-christmas-island?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1f5d24afdab74f5d5e973094",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T06:08:37+00:00",
+      "last_update": "2026-11-17T06:08:37+00:00",
+      "event": "Nursing union 'dissatisfied' with safe staffing legislation",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "assembly",
+        "bill",
+        "butler",
+        "care",
+        "dissatisfied",
+        "health",
+        "introduced",
+        "legislation",
+        "minister",
+        "monday",
+        "nursing",
+        "robbie",
+        "safe",
+        "social",
+        "staffing",
+        "the",
+        "union",
+        "with"
+      ],
+      "source_excerpt": "Health Minister Robbie Butler introduced the Health and Social Care (Staffing) bill in the assembly on Monday.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7n80rnj1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T06:08:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cvze7n80rnj1o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cvze7n80rnj1o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "237f3cfe7d25f3948f783e21",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:59:01+00:00",
+      "last_update": "2026-11-17T05:59:01+00:00",
+      "event": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "after",
+        "are",
+        "attack",
+        "being",
+        "bodies",
+        "continuing",
+        "double",
+        "efforts",
+        "hampered",
+        "kills",
+        "officials",
+        "operation",
+        "recover",
+        "rescue",
+        "russia",
+        "russian",
+        "say",
+        "southern",
+        "strike",
+        "strikes",
+        "tap",
+        "targeting",
+        "ukraine"
+      ],
+      "source_excerpt": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T05:59:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "664efebd18a6511b74ead6e3",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T06:11:52+00:00",
+      "last_update": "2026-11-17T06:11:52+00:00",
+      "event": "Queen of crime drama, Lynda La Plante, haunted by Rentaghost role",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "crime",
+        "drama",
+        "haunted",
+        "lynda",
+        "plante",
+        "queen",
+        "rentaghost",
+        "role"
+      ],
+      "source_excerpt": "Queen of crime drama, Lynda La Plante, haunted by Rentaghost role BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0WTBGWTB4VGk1Wks0ekpOWkZDV011TmU5UWI2cmtBVE9tN1dEX2p5aEpwX216bWVRYm93Q1RoeUVEU1BkLTFuZEszLXR2Vm1SZm5sQzQwNDdVbjA?oc=5",
+          "published_at": "2026-11-17T06:11:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0WTBGWTB4VGk1Wks0ekpOWkZDV011TmU5UWI2cmtBVE9tN1dEX2p5aEpwX216bWVRYm93Q1RoeUVEU1BkLTFuZEszLXR2Vm1SZm5sQzQwNDdVbjA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e7830101a8727a501a132e39",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:13:48+00:00",
+      "last_update": "2026-11-17T05:13:48+00:00",
+      "event": "4 terrorists killed in security operation in Lakki Marwat",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "killed",
+        "lakki",
+        "marwat",
+        "operation",
+        "security",
+        "terrorists"
+      ],
+      "source_excerpt": "4 terrorists killed in security operation in Lakki Marwat ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb1FJYmw0VVlmb25aMnNMNGN3N0VaSjlXczZuZTU1V0lKMjQzQ2lCU3paOWRROXl5SUFwNTdwZ1F6ejNPSTZxOGRsX3NTNlBBYXVSeVljVFplOXh5NHBUb09hSDhWQjNSZFpJdjlsQ2FfX3VLREFEblgzeFRTeDdrT2RR?oc=5",
+          "published_at": "2026-11-17T05:13:48+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/4-terrorists-killed-in-security-operation-in-lakki-marwat",
+          "published_at": "2026-11-17T05:13:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb1FJYmw0VVlmb25aMnNMNGN3N0VaSjlXczZuZTU1V0lKMjQzQ2lCU3paOWRROXl5SUFwNTdwZ1F6ejNPSTZxOGRsX3NTNlBBYXVSeVljVFplOXh5NHBUb09hSDhWQjNSZFpJdjlsQ2FfX3VLREFEblgzeFRTeDdrT2RR?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "07cb85635f35599e57364f36",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T06:02:20+00:00",
+      "last_update": "2026-11-17T06:09:52+00:00",
+      "event": "Gamers in Asia stoked to play 'GTA VI', many on grey market",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asia",
+        "dawn",
+        "gamers",
+        "grey",
+        "gta",
+        "many",
+        "market",
+        "play",
+        "stoked"
+      ],
+      "source_excerpt": "Gamers in Asia stoked to play 'GTA VI', many on grey market Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkhIUlh5NUpDUmFQeDFLeFVpejlPd2htdDJlR2pwZEdHcUpxWGNCM0I4M0JMbHpkNUQ5R3NOQVk4TmFqX21PUVUzT0x6RDhzWXZSbzYtanI0a2JFLVZDYWZVclM1Ym9vVF9Sc1d2YVJYWXZDcC1MYUpNSEVwWVhvaUFKUFNXdk1aQjBfbl9nazdkOWt3?oc=5",
+          "published_at": "2026-11-17T06:02:20+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045139/gamers-in-asia-stoked-to-play-gta-vi-many-on-grey-market",
+          "published_at": "2026-11-17T06:09:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkhIUlh5NUpDUmFQeDFLeFVpejlPd2htdDJlR2pwZEdHcUpxWGNCM0I4M0JMbHpkNUQ5R3NOQVk4TmFqX21PUVUzT0x6RDhzWXZSbzYtanI0a2JFLVZDYWZVclM1Ym9vVF9Sc1d2YVJYWXZDcC1MYUpNSEVwWVhvaUFKUFNXdk1aQjBfbl9nazdkOWt3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0172e1d08a2df96b8f945ee8",
+      "remembered_at": "2026-11-17T06:21:29.490338+00:00",
+      "event_date": "2026-11-17T05:01:23+00:00",
+      "last_update": "2026-11-17T05:53:04+00:00",
+      "event": "Oil slips as recovering Mideast exports blunt Gulf tensions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blunt",
+        "dawn",
+        "exports",
+        "gulf",
+        "mideast",
+        "oil",
+        "recovering",
+        "slips",
+        "tensions"
+      ],
+      "source_excerpt": "Oil slips as recovering Mideast exports blunt Gulf tensions Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVJic3JDRlVaT2VJcWlGRVliWF9YWXdDU2otbEl5YzlPbnVGekdIRXlUN2ZQTTRlVWtBODAyR0wwRXNCLWs4bXl1QlBndlNrVUMzX0lQcHVMY1dxdlVqaDdjQ1ctM3RTWmloaUlsS3RjN1VtNmJtWndmNFBIMk1pbjlWZ0M1c2NRSUVtVnFmQXZzM0VwWG9NZw?oc=5",
+          "published_at": "2026-11-17T05:01:23+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUpYcUFlMjhBS0pkNm93N3VVRkoxcldKdUJhQTRpb0RfRGd5b2VIeGNYV0tmVEtyY2JsVi1ZRHlCTkd3dlZFM256ZEMyU1RvZEN5bG8ySWpXYUJWV1pZSVVWSFR6QU14amlWUU1Ybk1zUTFjVjhXcUpsNVpNM1VKcXlMZlh3aWQzQkM0bDN3Q25jcTUwaVlZUjAxMVXSAaQBQVVfeXFMTXpaZDhhR2hXcEdjek5ERDhiOFdIX3BYSmFKbjF4cW1jWG5qRHNoeEx6bUNNUHdEai1aajJVbFFTQjRKY3JGdGY0UXdpQnZjY0pJUVhJWnlZakk1aFZnaVlwaDRFSG0yT2NxTlFrYm81cmJqYUZweE5JYS02UnpsUHRabk1XWFNvWnM1SXVyMVBvWTR2X2ZwSnBhakVSUWR0MGVoWnE?oc=5",
+          "published_at": "2026-11-17T05:53:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVJic3JDRlVaT2VJcWlGRVliWF9YWXdDU2otbEl5YzlPbnVGekdIRXlUN2ZQTTRlVWtBODAyR0wwRXNCLWs4bXl1QlBndlNrVUMzX0lQcHVMY1dxdlVqaDdjQ1ctM3RTWmloaUlsS3RjN1VtNmJtWndmNFBIMk1pbjlWZ0M1c2NRSUVtVnFmQXZzM0VwWG9NZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T05:11:14.253620+00:00"
+  "updated_at": "2026-11-17T06:21:29.490338+00:00"
 }

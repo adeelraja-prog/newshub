@@ -1,141 +1,139 @@
-# News Hub report - Tue 17 Nov, 10:11 AM PKT
+# News Hub report - Tue 17 Nov, 11:21 AM PKT
 
 ## Collection
-- New items this run: 38 | items in rolling pool: 236
-- Unique story clusters: 193 (duplicates merged: 43)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 7
-- Items per outlet: Dawn Pakistan 6, Profit by Pakistan Today 6, ARY News 5, Dawn Latest 3, Geo News 2, Bloomberg.com 2, TechJuice 2, ARYnews.tv 1, Dunya News 1, Hamariweb.com 1, X 1, AP News 1
+- New items this run: 76 | items in rolling pool: 292
+- Unique story clusters: 223 (duplicates merged: 69)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 9
+- Items per outlet: Wired 11, Dawn 8, ARY News 8, Dawn Pakistan 6, Dawn Latest 5, Al Jazeera 5, Geo News 4, The Express Tribune 3, ProPakistani 3, Profit by Pakistan Today 3, The News International 2, BBC World 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nvidia rules out Jensen Huang's return as board hires law firm to investigate him | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan crush Sri Lanka in Blind Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Balochistan PA flags flour prices, dept mergers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sindh showcases flood recovery; Centre pitches sewage overhaul at COP31 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two major Kyiv bridges hit in Russian attack, mayor says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two held for Rs5m UK work visa fraud | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man found murdered in farmhouse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's pacers rattle Sri Lanka top order in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pirwadhai bus stand revenue rises to Rs140m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nvidia rules out Jensen Huang's return as board hires law firm to investigate him | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan crush Sri Lanka in Blind Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Balochistan PA flags flour prices, dept mergers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sindh showcases flood recovery; Centre pitches sewage overhaul at COP31 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two major Kyiv bridges hit in Russian attack, mayor says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two held for Rs5m UK work visa fraud | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man found murdered in farmhouse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's pacers rattle Sri Lanka top order in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pirwadhai bus stand revenue rises to Rs140m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nvidia rules out Jensen Huang's return as board hires law firm to investigate him | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan crush Sri Lanka in Blind Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Balochistan PA flags flour prices, dept mergers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sindh showcases flood recovery; Centre pitches sewage overhaul at COP31 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two major Kyiv bridges hit in Russian attack, mayor says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two held for Rs5m UK work visa fraud | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man found murdered in farmhouse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's pacers rattle Sri Lanka top order in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pirwadhai bus stand revenue rises to Rs140m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 79/107 | empty: 3 | failed: 25 | malformed/partial: 25
-- Trusted publisher desks with at least one healthy source: 8/10
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 81/107 | empty: 2 | failed: 24 | malformed/partial: 24
+- Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Capital TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Rights and Accountability Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan National Politics | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Parliament and Constitution Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Khyber Pakhtunkhwa Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Express News, The News International
 
 ## Selected for the queue
-### Second Test: Pakistan win toss, opt to bowl first against Sri Lanka  [NORMAL]
-- Poster:  / Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | category other
-- Alternative headline: Second Test: Pakistan win toss, opt to bowl first against Sri Lanka
+### Two major Kyiv bridges hit in Russian attack, mayor says  [NORMAL]
+- Poster:  / Two major Kyiv bridges hit in Russian attack, mayor says | category other
+- Alternative headline: Two major Kyiv bridges hit in Russian attack, mayor says
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691405-second-test-pakistan-win-toss-opt-to-bowl-first-against-sri-lanka | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691405-second-test-pakistan-win-toss-opt-to-bowl-first-against-sri-lanka
-- Supporting coverage: Geo News, Geo News, ARY News
-- Keywords: Second Test: Pakistan win toss, | hashtags: 
-- Scheduled: Tue 17 Nov, 10:11 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: France 24, DW.com, BBC World
+- Keywords: Two major Kyiv bridges hit | hashtags: 
+- Scheduled: Tue 17 Nov, 11:21 AM PKT
 - Caption:
 ```
-Second Test: Pakistan win toss, opt to bowl first against Sri Lanka
+Two major Kyiv bridges hit in Russian attack, mayor says
 
-Pakistan captain Babar Azam flips the coin as Sri Lanka captain Kusal Mendis calls ahead of the second Test at the Rawalpindi Cricket Stadium in Rawalpindi, November 17, 2026. — PCB Pakistan won the toss and elected to field first against Sri Lanka in second Test of the two-match...
+The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.
 
-Source: Geo News
+Source: BBC World
 ```
 
-### Nvidia rules out Jensen Huang's return as board hires law firm to investigate him  [NORMAL]
-- Poster:  / Nvidia rules out Jensen Huang's return as board hires law firm to investigate him | category other
-- Alternative headline: Nvidia rules out Jensen Huang's return as board hires law firm to investigate him
+### Two held for Rs5m UK work visa fraud  [NORMAL]
+- Poster:  / Two held for Rs5m UK work visa fraud | category other
+- Alternative headline: Two held for Rs5m UK work visa fraud
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The News International https://news.google.com/rss/articles/CBMivwFBVV95cUxOQThTVjFhcVBOMkszaW5YMUU5X2RMUmRYVVVjZ3NSdG9sLVNKNXlSUHZ6Y1lFY202eXE1dnZWZmItcVV2c21EeklRQTQ1N0tFV19NR0xzRUpvaEYzR004aWpzQ2h2WnZBOTI5RkhOSWRCTkpGdUstaWh2UEdDZmJGM05MZkZzQ1NEb0FYVW9NeUw4ZjN1U1UxWVN4U2duUENrSG9qSUJLMGlLeURWM3JadHhMaWQtTnlDRDdSeEMxa9IBuwFBVV95cUxONUFCZUd4NHY1YU9YR0ZaOXNWRGEtYVFzN1FQU2UyRHhJSW1UOHFUOEJUQllFV1pOM28tWDNET2pqTFlxS0IzeG01ejNXOFpDa1FKV3FhS0ctdUN3UGJ5SEphZHdyZG93NkNkUmg2WHpjNC1BSm94X1VPcXFXOUE2MGg4R3gyd3FLYTZOdXBsZlVjb3lqWkZaMFJKZHhXQmRZN3FTTjJWb2xPSkhhV0wwVExQbFdDUkJFNWNF?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The News International https://news.google.com/rss/articles/CBMivwFBVV95cUxOQThTVjFhcVBOMkszaW5YMUU5X2RMUmRYVVVjZ3NSdG9sLVNKNXlSUHZ6Y1lFY202eXE1dnZWZmItcVV2c21EeklRQTQ1N0tFV19NR0xzRUpvaEYzR004aWpzQ2h2WnZBOTI5RkhOSWRCTkpGdUstaWh2UEdDZmJGM05MZkZzQ1NEb0FYVW9NeUw4ZjN1U1UxWVN4U2duUENrSG9qSUJLMGlLeURWM3JadHhMaWQtTnlDRDdSeEMxa9IBuwFBVV95cUxONUFCZUd4NHY1YU9YR0ZaOXNWRGEtYVFzN1FQU2UyRHhJSW1UOHFUOEJUQllFV1pOM28tWDNET2pqTFlxS0IzeG01ejNXOFpDa1FKV3FhS0ctdUN3UGJ5SEphZHdyZG93NkNkUmg2WHpjNC1BSm94X1VPcXFXOUE2MGg4R3gyd3FLYTZOdXBsZlVjb3lqWkZaMFJKZHhXQmRZN3FTTjJWb2xPSkhhV0wwVExQbFdDUkJFNWNF?oc=5
-- Supporting coverage: The News International, ARY News, Profit by Pakistan Today
-- Keywords: Nvidia rules out Jensen Huang's | hashtags: 
-- Scheduled: Tue 17 Nov, 10:21 AM PKT
-- Caption:
-```
-Nvidia rules out Jensen Huang's return as board hires law firm to investigate him
-
-Nvidia rules out Jensen Huang's return as board hires law firm to investigate him The News International
-
-Source: The News International
-```
-
-### Pakistan crush Sri Lanka in Blind Asia Cup  [NORMAL]
-- Poster:  / Pakistan crush Sri Lanka in Blind Asia Cup | category other
-- Alternative headline: Pakistan crush Sri Lanka in Blind Asia Cup
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxOUC1oSTVRZTVaS0xGWFQzUlVpMkhLcTNJakZkaS01TnVaYWhTckxzaW1fcjlTVWV0SVI3R2wzODI3czZIMi1sU0k3RGtNa2E2dlVVQjZDd3FDLTRWMGhiMXBmTDAwc0xQVXR6bjNkemJFRE9zTHFLYm00UnNjc2NITzBB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxOUC1oSTVRZTVaS0xGWFQzUlVpMkhLcTNJakZkaS01TnVaYWhTckxzaW1fcjlTVWV0SVI3R2wzODI3czZIMi1sU0k3RGtNa2E2dlVVQjZDd3FDLTRWMGhiMXBmTDAwc0xQVXR6bjNkemJFRE9zTHFLYm00UnNjc2NITzBB?oc=5
-- Supporting coverage: Dawn
-- Keywords: Pakistan crush Sri Lanka in | hashtags: 
-- Scheduled: Tue 17 Nov, 10:31 AM PKT
-- Caption:
-```
-Pakistan crush Sri Lanka in Blind Asia Cup
-
-Pakistan crush Sri Lanka in Blind Asia Cup Dawn
-
-Source: Dawn
-```
-
-### Balochistan PA flags flour prices, dept mergers  [NORMAL]
-- Poster:  / Balochistan PA flags flour prices, dept mergers | category other
-- Alternative headline: Balochistan PA flags flour prices, dept mergers
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHJYcHctZ0VvS3JFeFk2ekM4eEhNY2dfZkNCdE8tZ19ZQjg5bkNWblljMmNDVDhhWWhMb3cxMl9KM3dOUldlcDZfa2pJTUthdjlCbm9TSlEwaGtGX20tZS1FaFJvLXExZ2lOZ015WVNOaTViR2d6RzlSNGhtRGdZSG8xSGI2TWc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHJYcHctZ0VvS3JFeFk2ekM4eEhNY2dfZkNCdE8tZ19ZQjg5bkNWblljMmNDVDhhWWhMb3cxMl9KM3dOUldlcDZfa2pJTUthdjlCbm9TSlEwaGtGX20tZS1FaFJvLXExZ2lOZ015WVNOaTViR2d6RzlSNGhtRGdZSG8xSGI2TWc?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1oZk5JV3JzemRxcFdqcUNBcGxMTzR2WG80RUV6bFR5M2kxQngxRk5GOWV4QjZzR0Q3bm1ocE0xQ0w1OEw0UElnN2lXRlkwa0VCRjE2NjFncmhNT244ZGtTVGNZbncyM1hkTFRaQXFYQ0piLVVyaExQNGJB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1oZk5JV3JzemRxcFdqcUNBcGxMTzR2WG80RUV6bFR5M2kxQngxRk5GOWV4QjZzR0Q3bm1ocE0xQ0w1OEw0UElnN2lXRlkwa0VCRjE2NjFncmhNT244ZGtTVGNZbncyM1hkTFRaQXFYQ0piLVVyaExQNGJB?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Balochistan PA flags flour prices, | hashtags: 
-- Scheduled: Tue 17 Nov, 10:41 AM PKT
+- Keywords: Two held for Rs5m UK | hashtags: 
+- Scheduled: Tue 17 Nov, 11:31 AM PKT
 - Caption:
 ```
-Balochistan PA flags flour prices, dept mergers
+Two held for Rs5m UK work visa fraud
 
-Balochistan PA flags flour prices, dept mergers Dawn
+Two held for Rs5m UK work visa fraud Dawn
 
 Source: Dawn
 ```
 
-- Indian outlets blocked this run: 10 items
+### Man found murdered in farmhouse  [NORMAL]
+- Poster:  / Man found murdered in farmhouse | category other
+- Alternative headline: Man found murdered in farmhouse
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMic0FVX3lxTE9mMUtxYS1TckdOcE95RlJxN0xZcmlCN1RzdWpaMHFlYXdzNWE0N2NwNjB5X1FHSndKTVdDaEJhbzhuMU53ekk2M1pTenlBOWE4SWJHVUNuRE41a0g1NVk5VElkRnRrcThDN1NybkhpWXFVWlE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMic0FVX3lxTE9mMUtxYS1TckdOcE95RlJxN0xZcmlCN1RzdWpaMHFlYXdzNWE0N2NwNjB5X1FHSndKTVdDaEJhbzhuMU53ekk2M1pTenlBOWE4SWJHVUNuRE41a0g1NVk5VElkRnRrcThDN1NybkhpWXFVWlE?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Man found murdered in farmhouse | hashtags: 
+- Scheduled: Tue 17 Nov, 11:41 AM PKT
+- Caption:
+```
+Man found murdered in farmhouse
+
+Man found murdered in farmhouse Dawn
+
+Source: Dawn
+```
+
+### Pakistan's pacers rattle Sri Lanka top order in second Test  [NORMAL]
+- Poster:  / Pakistan's pacers rattle Sri Lanka top order in second Test | category other
+- Alternative headline: Pakistan's pacers rattle Sri Lanka top order in second Test
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjRhdFU3bUVja1JQMi1DREtYMkFYTHhfLTB0QjdHaHFfTlFUSExfSExTektObDFMMVlOcEVmZDN0N3Q1R0hfclFZaTZYRlI0TmRGekxPV3NQdTBpVDhZT0pvUjdGYUlHLUFCR3lhOFF4T3VSQU5sRDk5a2RNdy1JTHZfN0t5WWlTT3JkbkFQQ3NFVWVmbFVwWnd2ZmJfZlXSAbwBQVVfeXFMUFlIQUo0Q3B5ZWZRb29ZVERPN08xbkZZNHBrbTJRWWdRVEpBYlU0REwzZVM3TzBKUDdrOEYwTktjQWl3SUJwWjRRYUtqb1lWM0dRbTJud2tNb1ZhNDNLMlc3NnIwMDJSbDVlVE1MbldWT0hLSVJaVENxX0U2QWF4UUpaSXd2TE9NR0RxUEItLWRwYXJzWlNOSjhxNlYyYXJ2WjlKQUMzT24yYzRPZGJ6YWNIVzJtRFJpODExZmQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjRhdFU3bUVja1JQMi1DREtYMkFYTHhfLTB0QjdHaHFfTlFUSExfSExTektObDFMMVlOcEVmZDN0N3Q1R0hfclFZaTZYRlI0TmRGekxPV3NQdTBpVDhZT0pvUjdGYUlHLUFCR3lhOFF4T3VSQU5sRDk5a2RNdy1JTHZfN0t5WWlTT3JkbkFQQ3NFVWVmbFVwWnd2ZmJfZlXSAbwBQVVfeXFMUFlIQUo0Q3B5ZWZRb29ZVERPN08xbkZZNHBrbTJRWWdRVEpBYlU0REwzZVM3TzBKUDdrOEYwTktjQWl3SUJwWjRRYUtqb1lWM0dRbTJud2tNb1ZhNDNLMlc3NnIwMDJSbDVlVE1MbldWT0hLSVJaVENxX0U2QWF4UUpaSXd2TE9NR0RxUEItLWRwYXJzWlNOSjhxNlYyYXJ2WjlKQUMzT24yYzRPZGJ6YWNIVzJtRFJpODExZmQ?oc=5
+- Supporting coverage: The Express Tribune
+- Keywords: Pakistan's pacers rattle Sri Lanka | hashtags: 
+- Scheduled: Tue 17 Nov, 11:51 AM PKT
+- Caption:
+```
+Pakistan's pacers rattle Sri Lanka top order in second Test
+
+Pakistan's pacers rattle Sri Lanka top order in second Test The Express Tribune
+
+Source: The Express Tribune
+```
+
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
-- [published] normal | Pakistan Urges Immediate Gulf De-Escalation At UN Security Council | Sat 14 Nov, 10:38 AM PKT
 - [published] breaking | Govt Cuts Petrol Price by Rs2 per Litre, Diesel Unchanged | Sat 14 Nov, 11:29 AM PKT
 - [published] normal | Iran Guards Say Two Oil Tankers Hit by Mines in Hormuz | Sat 14 Nov, 11:29 AM PKT
 - [published] high | Wasim Akram Questions Cummins’ Sandpapergate Denial | Sat 14 Nov, 12:05 PM PKT
@@ -240,12 +238,12 @@ Source: Dawn
 - [needs_review] normal | Photos: California residents gather to watch massive El Nino-fuelled w | Tue 17 Nov, 03:50 AM PKT
 - [needs_review] normal | California files lawsuit against OpenAI alleging lack of proper safegu | Tue 17 Nov, 04:10 AM PKT
 - [published] normal | Cass report author says she does not support draft conversion practice | Tue 17 Nov, 04:20 AM PKT
-- [queued] normal | Houthi rebel advance in Yemen may further destabilise global economy | Tue 17 Nov, 04:30 AM PKT
-- [queued] normal | US Pentagon rejects allegations linking deputy to a Goldman Sachs bank | Tue 17 Nov, 04:40 AM PKT
-- [queued] normal | California sues OpenAI over Hugging Face attack | Tue 17 Nov, 04:54 AM PKT
-- [queued] normal | Five EU countries announce plan to send rejected asylum seekers to Rwa | Tue 17 Nov, 05:04 AM PKT
-- [queued] normal | Wirtz feels the fun as Germany run riot over Netherlands | Tue 17 Nov, 05:14 AM PKT
-- [queued] normal | Woman who got hooked on nasal spray for 10 years says it cost her thou | Tue 17 Nov, 05:24 AM PKT
+- [needs_review] normal | Houthi rebel advance in Yemen may further destabilise global economy | Tue 17 Nov, 04:30 AM PKT
+- [needs_review] normal | US Pentagon rejects allegations linking deputy to a Goldman Sachs bank | Tue 17 Nov, 04:40 AM PKT
+- [needs_review] normal | California sues OpenAI over Hugging Face attack | Tue 17 Nov, 04:54 AM PKT
+- [needs_review] normal | Five EU countries announce plan to send rejected asylum seekers to Rwa | Tue 17 Nov, 05:04 AM PKT
+- [needs_review] normal | Wirtz feels the fun as Germany run riot over Netherlands | Tue 17 Nov, 05:14 AM PKT
+- [published] normal | Woman who got hooked on nasal spray for 10 years says it cost her thou | Tue 17 Nov, 05:24 AM PKT
 - [published] breaking | Live: Houthis advance in Yemen as tankers hit sea mines in Strait of H | Tue 17 Nov, 05:57 AM PKT
 - [queued] normal | Paraguay ex-president moved to military jail amid special treatment re | Tue 17 Nov, 05:57 AM PKT
 - [queued] normal | EU agrees to resurrect cooperation deal with Syria | Tue 17 Nov, 06:07 AM PKT
@@ -266,9 +264,13 @@ Source: Dawn
 - [queued] normal | Nvidia rules out Jensen Huang's return as board hires law firm to inve | Tue 17 Nov, 10:21 AM PKT
 - [queued] normal | Pakistan crush Sri Lanka in Blind Asia Cup | Tue 17 Nov, 10:31 AM PKT
 - [queued] normal | Balochistan PA flags flour prices, dept mergers | Tue 17 Nov, 10:41 AM PKT
+- [queued] normal | Two major Kyiv bridges hit in Russian attack, mayor says | Tue 17 Nov, 11:21 AM PKT
+- [queued] normal | Two held for Rs5m UK work visa fraud | Tue 17 Nov, 11:31 AM PKT
+- [queued] normal | Man found murdered in farmhouse | Tue 17 Nov, 11:41 AM PKT
+- [queued] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
 
 ## Publishing this run
-- Published 'Cass report author says she does not support draft conversion practices bill'.
+- Published 'Woman who got hooked on nasal spray for 10 years says it cost her thousands'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0
