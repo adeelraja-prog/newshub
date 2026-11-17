@@ -1175,7 +1175,15 @@ def write_batch(stories):
                 print(f"[price-history] collected {len(price_research)} external research extracts for story {n}")
             except Exception as research_error:
                 print(f"[price-history] research unavailable for story {n}: {research_error}")
-        blocks.append(f"STORY {n}\nEvent: {s['event']}\nHeadlines: {heads}\nText: {s['excerpt'][:1200] or 'headlines only'}\n"
+        publisher_mode = (
+            "TRUSTED PUBLISHER FAST LANE: this story bypassed AI assessment only because its original article URL "
+            "matches the approved publisher allowlist. You MUST still create a complete Urdu-script headline, "
+            "English translation, Urdu and English summaries, and useful evidence-grounded value addition where "
+            "the supplied article supports it. Do not invent corroboration or imply multiple sources. "
+            "If a genuine explainer is unsupported, use value_addition type none. "
+            if s.get("direct_source") else "STANDARD EDITORIAL STORY."
+        )
+        blocks.append(f"STORY {n}\nEditorial mode: {publisher_mode}\nEvent: {s['event']}\nHeadlines: {heads}\nText: {s['excerpt'][:1200] or 'headlines only'}\n"
                       f"Category: {s['category']}\nSupplied source URLs (use exact URL only when supplied text supports the fact): {source_urls}\n"
                       f"Related dated archive (research leads only; do not present as verified current facts): {memory_context}\n"
                       f"External price-history research extracts (source text for verification; use only explicit effective dates and figures, cite exact URL): {price_research}\n"
@@ -1881,6 +1889,9 @@ def main():
         print("[queue] invalid items collection; resetting queue container")
         queue = {"items": []}
     valid_items = []
+    # Legacy English-only queue rows are quarantined, then their source clusters are
+    # made eligible for fresh Urdu-first writing instead of being silently stranded.
+    legacy_urdu_requeue_ids = set()
     for row in queue["items"]:
         if not isinstance(row, dict):
             print("[queue] discarded malformed non-object record")
@@ -1918,6 +1929,8 @@ def main():
             row["status"] = "needs_review"
             row["needs_review_at"] = iso(t0)
             row["review_reason"] = "Legacy English-only poster quarantined: Urdu-script headline is missing; regenerate before publishing."
+            if row.get("qid"):
+                legacy_urdu_requeue_ids.add(str(row["qid"]))
         if row.get("status") == "published" and not (
             isinstance(row.get("published"), dict) and valid_timestamp(row["published"].get("time"))
         ):
@@ -1976,7 +1989,7 @@ def main():
         if duplicate:
             dups += 1
             print(f"[priority] P5 DUPLICATE — excluded: {c['title'][:90]}")
-        elif hist and hist.get("analysed_n") is not None and c["n_sources"] < hist["analysed_n"] + 2:
+        elif hist and hist.get("analysed_n") is not None and c.get("id") not in legacy_urdu_requeue_ids and c["n_sources"] < hist["analysed_n"] + 2:
             unchanged += 1
         else:
             candidates.append(c)
