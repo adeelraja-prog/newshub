@@ -55611,7 +55611,360 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6de0a72bebbc24c96e0218f9",
+      "remembered_at": "2026-11-17T22:32:43.543887+00:00",
+      "event_date": "2026-11-17T16:15:29+00:00",
+      "last_update": "2026-11-17T22:04:59+00:00",
+      "event": "Current account swings to $39m surplus",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "39m",
+        "account",
+        "current",
+        "express",
+        "surplus",
+        "swings",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Current account swings to $39m surplus The Express Tribune",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlgweWpCZFB5aDNZOXZNaXE1QkIydHJqa3RTSlRFaC1ZUFBXdTJtUmYzTmhPZkVLaHRPcC1PSzVQQU5UNnJUUTd4Y1YwOW5SbnY3UDNxVFc3RWFNRWhoNlA5VGdZel9IQmV0c2JmTlRmUFhBT3ZDckpmNWlBcFRXZFFVOFA5WlFJdnVCdUczRGRkTXc4ZXdTQ0tOUQ?oc=5",
+          "published_at": "2026-11-17T16:15:29+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXZJN20xY09LZGdrU3AtVkszYUJLWTZ6MDdvMVZLRkgxSUJlQ2MtLW53QWhmSHAyc2NfamFhZ3JVMUNlYmJJeG9leUtCRG04MWF6T05nWThfN0FZTHgyS0VfZEVBNkFqSFFOMEdlTUlzSWhNWDhwM1ZaNEdESHdTQktQUVJOUmQ0SzUxc0gtNXMyUHBaQU0tVzRISE9CMWZsY2lLcldrYnNPdXVxOVkzbTRVRGlfUQ?oc=5",
+          "published_at": "2026-11-17T16:43:28+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oQ2RHUkppOHZuSi02Yjc1Zl9ycThkb2xmTUh6cTRwUlBnaFpKTEFXcHk4ZUVZZTU2WkpORWZmSTBROUd5ZnlmeS1DMXd6eUx1Z05nc2hSSDJIemJuMmVNQzZGWlNGUWdpVk0zT1VOc3JENGFIWDJmZ0E5TzJ6dzDSAYcBQVVfeXFMUG45Qjd1UnlCU0ZGcFhTWERPUDBldFZzdTJCdWgyNDdHeVlkRk9GSjF1WFl0NHkySzN4RGZyZkpFMVJfUDI2NEluVllQc0JhOW1fTDQ1UnBDSEFlZXlJVVFLVWRvc3VwZHAwTTJPWnN6UFpjSG04NzYzX3BoQk9CSTdwR2xLZjQw?oc=5",
+          "published_at": "2026-11-17T22:04:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oQ2RHUkppOHZuSi02Yjc1Zl9ycThkb2xmTUh6cTRwUlBnaFpKTEFXcHk4ZUVZZTU2WkpORWZmSTBROUd5ZnlmeS1DMXd6eUx1Z05nc2hSSDJIemJuMmVNQzZGWlNGUWdpVk0zT1VOc3JENGFIWDJmZ0E5TzJ6dzDSAYcBQVVfeXFMUG45Qjd1UnlCU0ZGcFhTWERPUDBldFZzdTJCdWgyNDdHeVlkRk9GSjF1WFl0NHkySzN4RGZyZkpFMVJfUDI2NEluVllQc0JhOW1fTDQ1UnBDSEFlZXlJVVFLVWRvc3VwZHAwTTJPWnN6UFpjSG04NzYzX3BoQk9CSTdwR2xLZjQw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6da38738e1f7d832feae74d4",
+      "remembered_at": "2026-11-17T22:32:43.543887+00:00",
+      "event_date": "2026-11-17T22:25:00+00:00",
+      "last_update": "2026-11-17T22:25:00+00:00",
+      "event": "Last-gasp Haaland shoots Norway into Nations League quarters",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "gasp",
+        "haaland",
+        "into",
+        "last",
+        "league",
+        "nations",
+        "norway",
+        "quarters",
+        "shoots"
+      ],
+      "source_excerpt": "Last-gasp Haaland shoots Norway into Nations League quarters Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlhaMngxTFFSWjBrQ1RJMjVWWXNkLWxpSzk4S1FjN3ZGd1owc0dfVGEzZDg1NFJicWdDS0lheGZHNEdWSXNKVkpGOU1GQUdtWlRSQmRPWTdMMjZ4WDdIQ3dUbDZmcThwYjJtcDdqeHBnVkJUdHk0aThzOXFkcmYyUjU2R2dZUWtoZGpxRDR0cE14UU14a0hSb2t3?oc=5",
+          "published_at": "2026-11-17T22:25:00+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045256/last-gasp-haaland-shoots-norway-into-nations-league-quarters",
+          "published_at": "2026-11-17T22:25:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlhaMngxTFFSWjBrQ1RJMjVWWXNkLWxpSzk4S1FjN3ZGd1owc0dfVGEzZDg1NFJicWdDS0lheGZHNEdWSXNKVkpGOU1GQUdtWlRSQmRPWTdMMjZ4WDdIQ3dUbDZmcThwYjJtcDdqeHBnVkJUdHk0aThzOXFkcmYyUjU2R2dZUWtoZGpxRDR0cE14UU14a0hSb2t3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6f21b135e071600b49cb5259",
+      "remembered_at": "2026-11-17T22:32:43.543887+00:00",
+      "event_date": "2026-11-17T22:01:27+00:00",
+      "last_update": "2026-11-17T22:01:27+00:00",
+      "event": "US Fed’s Lisa Cook refuses to attend White House hearing",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "attend",
+        "august",
+        "been",
+        "cook",
+        "donald",
+        "fed",
+        "fire",
+        "has",
+        "hearing",
+        "house",
+        "lisa",
+        "president",
+        "refuses",
+        "since",
+        "trump",
+        "trying",
+        "white"
+      ],
+      "source_excerpt": "US President Donald Trump has been trying to fire Cook since August 2025.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+          "published_at": "2026-11-17T22:01:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f04f0cb517e8c0307de6f298",
+      "remembered_at": "2026-11-17T22:32:43.543887+00:00",
+      "event_date": "2026-11-17T21:35:24+00:00",
+      "last_update": "2026-11-17T21:35:24+00:00",
+      "event": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "assigned",
+        "authorities",
+        "existing",
+        "hands",
+        "have",
+        "international",
+        "investigation",
+        "line",
+        "military",
+        "nato",
+        "passed",
+        "protocols",
+        "russia",
+        "soldier",
+        "spying",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+          "published_at": "2026-11-17T21:35:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "394b282dc53b5ab6be66c3dc",
+      "remembered_at": "2026-11-17T22:32:43.543887+00:00",
+      "event_date": "2026-11-17T22:19:22+00:00",
+      "last_update": "2026-11-17T22:19:22+00:00",
+      "event": "New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "board",
+        "boss",
+        "bumper",
+        "ceo",
+        "despite",
+        "disinterest",
+        "earlier",
+        "firm",
+        "goes",
+        "huang",
+        "jensen",
+        "momentum",
+        "new",
+        "nvidia",
+        "offered",
+        "ousted",
+        "quits",
+        "reports",
+        "results",
+        "return",
+        "says",
+        "the",
+        "tuesday"
+      ],
+      "source_excerpt": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T22:19:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "56955a93103b98053d5782db",
+      "remembered_at": "2026-11-17T22:32:43.543887+00:00",
+      "event_date": "2026-11-17T22:02:03+00:00",
+      "last_update": "2026-11-17T22:02:03+00:00",
+      "event": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "cancer",
+        "caused",
+        "deadly",
+        "died",
+        "dump",
+        "falling",
+        "fire",
+        "husband",
+        "know",
+        "lagoon",
+        "lung",
+        "rare",
+        "steve",
+        "toxic",
+        "want",
+        "waste",
+        "williams",
+        "years"
+      ],
+      "source_excerpt": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T22:02:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d221288b7c21579b03b94ccf",
+      "remembered_at": "2026-11-17T22:32:43.543887+00:00",
+      "event_date": "2026-11-17T21:36:26+00:00",
+      "last_update": "2026-11-17T21:36:26+00:00",
+      "event": "Smog blankets Sheikhupura, Lahore as air pollution reaches dangerous levels",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "blankets",
+        "dangerous",
+        "lahore",
+        "levels",
+        "pollution",
+        "reaches",
+        "samaa",
+        "sheikhupura",
+        "smog"
+      ],
+      "source_excerpt": "Smog blankets Sheikhupura, Lahore as air pollution reaches dangerous levels samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzdDTUlXUGk4amdNaUNueXZmQThtSXRiMXBKOWlGcndncHpnbnBud1lsTFBZWEtnb1FTOFlXVnU4SXlBUTBoaTlqakk2Z2lHc3JJX2daYmRNa0tiZkRfNU9VT3YzNElmOVZ0Mlh5M1NqajZrMk91V3JSSm91d0pJQ2NXM2VlN1VKUnJ3c1ZNeFpXNm5JWUZOcVo3T0hnZWtiVHdnVUNZSG5VZ2l2SklFN0ZRN21lREdpUXpJaQ?oc=5",
+          "published_at": "2026-11-17T21:36:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzdDTUlXUGk4amdNaUNueXZmQThtSXRiMXBKOWlGcndncHpnbnBud1lsTFBZWEtnb1FTOFlXVnU4SXlBUTBoaTlqakk2Z2lHc3JJX2daYmRNa0tiZkRfNU9VT3YzNElmOVZ0Mlh5M1NqajZrMk91V3JSSm91d0pJQ2NXM2VlN1VKUnJ3c1ZNeFpXNm5JWUZOcVo3T0hnZWtiVHdnVUNZSG5VZ2l2SklFN0ZRN21lREdpUXpJaQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T21:34:38.244609+00:00"
+  "updated_at": "2026-11-17T22:32:43.543887+00:00"
 }

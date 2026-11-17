@@ -1,145 +1,141 @@
-# News Hub report - Wed 18 Nov, 02:34 AM PKT
+# News Hub report - Wed 18 Nov, 03:32 AM PKT
 
 ## Collection
-- New items this run: 32 | items in rolling pool: 659
-- Unique story clusters: 569 (duplicates merged: 90)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 3
-- Items per outlet: Al Jazeera 9, Pakistan Today 4, Geo News 2, The Verge 2, The Express Tribune 1, Reuters 1, Dallas News 1, Bloomberg.com 1, Engadget 1, BBC Technology 1, BBC Science 1, BBC World 1
+- New items this run: 38 | items in rolling pool: 607
+- Unique story clusters: 527 (duplicates merged: 80)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 3
+- Items per outlet: The Verge 5, Geo News 3, The Express Tribune 3, TechCrunch 3, Dawn Latest 2, Al Jazeera 2, The New York Times 2, Dawn 1, Dunya News 1, samaa tv 1, Bloomberg.com 1, Engadget 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Russian military plane crashes killing all 19 on board | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kalshi halts Trump speech bets after CFTC order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Police charge crowds at Brussels student march | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China, Canada expand tariff relief after Carney-Xi meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Can a robot pianist upstage a human musician? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Current account swings to $39m surplus | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Last-gasp Haaland shoots Norway into Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK sanctions Israeli settlement firms to protect two-state solution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Whistleblower: Deadly drone strike in Kuwait could’ve been avoided | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Russian military plane crashes killing all 19 on board | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kalshi halts Trump speech bets after CFTC order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Police charge crowds at Brussels student march | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China, Canada expand tariff relief after Carney-Xi meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Can a robot pianist upstage a human musician? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Current account swings to $39m surplus | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Last-gasp Haaland shoots Norway into Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK sanctions Israeli settlement firms to protect two-state solution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Whistleblower: Deadly drone strike in Kuwait could’ve been avoided | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Russian military plane crashes killing all 19 on board | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kalshi halts Trump speech bets after CFTC order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Police charge crowds at Brussels student march | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China, Canada expand tariff relief after Carney-Xi meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Can a robot pianist upstage a human musician? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Current account swings to $39m surplus | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Last-gasp Haaland shoots Norway into Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK sanctions Israeli settlement firms to protect two-state solution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Whistleblower: Deadly drone strike in Kuwait could’ve been avoided | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 100/107 | empty: 4 | failed: 3 | malformed/partial: 4
+- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Russian military plane crashes in Siberia, killing all 19 aboard  [NORMAL]
-- Poster: روس میں فوجی طیارہ گر کر تباہ، تمام 19 افراد ہلاک / Russian military plane crash kills 19 | category world
-- Alternative headline: An-12 transport aircraft crash in Siberia leaves 19 dead
+### Pakistan Posts $39 Million Current Account Surplus in October, SBP Reports  [NORMAL]
+- Poster: پاکستان کا کرنٹ اکاؤنٹ اکتوبر میں 39 ملین ڈالر سرپلس ہو گیا / Pakistan Posts $39M Current Account Surplus | category economy
+- Alternative headline: Current account swings to $39m surplus in October: SBP
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, Geo News, Al Jazeera
-- Keywords: plane crash, Russia, Siberia, military plane, An-12, Kemerovo | hashtags: #Russia #PlaneCrash #Siberia #BreakingNews
-- Scheduled: Wed 18 Nov, 02:34 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMif0FVX3lxTE9oQ2RHUkppOHZuSi02Yjc1Zl9ycThkb2xmTUh6cTRwUlBnaFpKTEFXcHk4ZUVZZTU2WkpORWZmSTBROUd5ZnlmeS1DMXd6eUx1Z05nc2hSSDJIemJuMmVNQzZGWlNGUWdpVk0zT1VOc3JENGFIWDJmZ0E5TzJ6dzDSAYcBQVVfeXFMUG45Qjd1UnlCU0ZGcFhTWERPUDBldFZzdTJCdWgyNDdHeVlkRk9GSjF1WFl0NHkySzN4RGZyZkpFMVJfUDI2NEluVllQc0JhOW1fTDQ1UnBDSEFlZXlJVVFLVWRvc3VwZHAwTTJPWnN6UFpjSG04NzYzX3BoQk9CSTdwR2xLZjQw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMif0FVX3lxTE9oQ2RHUkppOHZuSi02Yjc1Zl9ycThkb2xmTUh6cTRwUlBnaFpKTEFXcHk4ZUVZZTU2WkpORWZmSTBROUd5ZnlmeS1DMXd6eUx1Z05nc2hSSDJIemJuMmVNQzZGWlNGUWdpVk0zT1VOc3JENGFIWDJmZ0E5TzJ6dzDSAYcBQVVfeXFMUG45Qjd1UnlCU0ZGcFhTWERPUDBldFZzdTJCdWgyNDdHeVlkRk9GSjF1WFl0NHkySzN4RGZyZkpFMVJfUDI2NEluVllQc0JhOW1fTDQ1UnBDSEFlZXlJVVFLVWRvc3VwZHAwTTJPWnN6UFpjSG04NzYzX3BoQk9CSTdwR2xLZjQw?oc=5
+- Supporting coverage: UrduPoint, Profit by Pakistan Today, The Express Tribune
+- Keywords: current account surplus, Pakistan economy, SBP, October surplus, State Bank of Pakistan, foreign exchange | hashtags: #Pakistan #Economy #SBP #CurrentAccount #Business
+- Scheduled: Wed 18 Nov, 03:32 AM PKT
 - Caption:
 ```
-A Russian military transport plane has crashed in Siberia, killing all 19 people on board during a scheduled flight.
+Pakistan's current account swung to a positive balance with a $39 million surplus in October, according to the State Bank.
 
-A Russian military transport plane crashed in Siberia's Kemerovo region during a scheduled flight, killing all 19 people on board. The country's defence ministry preliminarily attributes the disaster to a technical malfunction, and an official investigation is currently underway.
+Pakistan's current account balance recorded a positive turn with a $39 million surplus in October, according to recent figures reported by the State Bank of Pakistan and covered by the Express Tribune.
 
-روس کا ایک فوجی نقل و حمل کا طیارہ سائبیریا کے کیمیروو خطے میں شیڈول پرواز کے دوران گر کر تباہ ہو گیا، جس میں سوار تمام 19 افراد ہلاک ہو گئے۔ وزارت دفاع کے مطابق ابتدائی طور پر حادثے کی وجہ تکنیکی خرابی معلوم ہوتی ہے اور تحقیقات شروع کر دی گئی ہیں۔
+اسٹیٹ بینک آف پاکستان کی رپورٹ کے مطابق اکتوبر کے دوران پاکستان کا کرنٹ اکاؤنٹ 39 ملین ڈالر کے سرپلس کے ساتھ مثبت زون میں آ گیا ہے۔
 
-First reported by BBC World
+First reported by The Express Tribune.
 
-#Russia #PlaneCrash #Siberia #BreakingNews
+#Pakistan #Economy #SBP #CurrentAccount #Business
 ```
 
-### Kalshi halts Trump speech bets following CFTC order  [NORMAL]
-- Poster: سی ایف ٹی سی کے حکم پر کالشی نے ٹرمپ کی تقریر پر شرطیں روک دیں / Kalshi halts Trump speech bets | category economy
-- Alternative headline: Prediction market Kalshi suspends Trump speech bets after regulator mandate
+### Last-gasp Haaland shoots Norway into Nations League quarters  [NORMAL]
+- Poster: ہالن کے آخری لمحے کے گول نے ناروے کو نیشنز لیگ کے کوارٹر فائنل میں پہنچا دیا / Haaland Sends Norway Into Nations League Quarters | category sports
+- Alternative headline: Haaland's late strike secures Norway's spot in Nations League quarters
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlhaMngxTFFSWjBrQ1RJMjVWWXNkLWxpSzk4S1FjN3ZGd1owc0dfVGEzZDg1NFJicWdDS0lheGZHNEdWSXNKVkpGOU1GQUdtWlRSQmRPWTdMMjZ4WDdIQ3dUbDZmcThwYjJtcDdqeHBnVkJUdHk0aThzOXFkcmYyUjU2R2dZUWtoZGpxRDR0cE14UU14a0hSb2t3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlhaMngxTFFSWjBrQ1RJMjVWWXNkLWxpSzk4S1FjN3ZGd1owc0dfVGEzZDg1NFJicWdDS0lheGZHNEdWSXNKVkpGOU1GQUdtWlRSQmRPWTdMMjZ4WDdIQ3dUbDZmcThwYjJtcDdqeHBnVkJUdHk0aThzOXFkcmYyUjU2R2dZUWtoZGpxRDR0cE14UU14a0hSb2t3?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Erling Haaland, Norway, Nations League, football, quarterfinals, Dawn | hashtags: #Haaland #Norway #NationsLeague #Football #Sports
+- Scheduled: Wed 18 Nov, 03:42 AM PKT
+- Caption:
+```
+Erling Haaland scored a dramatic late goal to secure Norway's progression into the UEFA Nations League quarterfinals.
+
+Erling Haaland delivered a decisive late goal to secure Norway's advancement into the UEFA Nations League quarterfinals, as reported by Dawn.
+
+ارلنگ ہالن نے میچ کے آخری لمحات میں فیصلہ کن گول کر کے ناروے کو یوفا نیشنز لیگ کے کوارٹر فائنل میں پہنچا دیا ہے۔
+
+First reported by Dawn.
+
+#Haaland #Norway #NationsLeague #Football #Sports
+```
+
+### UK sanctions Israeli settlement firms to protect two-state solution  [NORMAL]
+- Poster: برطانیہ نے اسرائیلی بستیوں کی حمایت کرنے والی کمپنیوں پر پابندیاں عائد کر دیں / UK Sanctions Israeli Settlement Firms | category world
+- Alternative headline: UK imposes new sanctions on eight Israeli settlement companies
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Kalshi, CFTC, Trump, prediction markets, insider trading | hashtags: #Kalshi #CFTC #Trump #PredictionMarkets
-- Scheduled: Wed 18 Nov, 02:44 AM PKT
+- Keywords: UK sanctions, Israeli settlements, West Bank, two-state solution, Al Jazeera, UK foreign policy | hashtags: #UKSanctions #WestBank #Israel #AlJazeera #WorldNews
+- Scheduled: Wed 18 Nov, 03:52 AM PKT
 - Caption:
 ```
-Kalshi has halted bets on a Trump speech following a mandate from the Commodity Futures Trading Commission.
+The UK government has imposed new sanctions targeting eight Israeli companies supporting illegal settlements in the occupied West Bank.
 
-Prediction market platform Kalshi has suspended betting related to a Trump speech following a directive from the Commodity Futures Trading Commission. The move comes amid growing regulatory concerns regarding insider trading risks within US prediction markets.
+The United Kingdom has announced new sanctions against eight Israeli companies accused of supporting illegal settlements in the occupied West Bank, aiming to safeguard the viability of the two-state solution, according to Al Jazeera.
 
-پریڈکشن مارکیٹ پلیٹ فارم کالشی نے کموڈٹی فیوچرز ٹ্রেڈنگ کمیشن کی ہدایت کے بعد ٹرمپ کی تقریر سے متعلق شرطیں معطل کر دی ہیں۔ یہ قدم امریکی پیشگوئی مارکیٹوں میں اندرونی تجارت کے خطرات سے متعلق بڑھتے ہوئے ریگولیٹری خدشات کے پیش نظر اٹھایا گیا ہے۔
+برطانیہ نے مقبوضہ مغربی کنارے میں غیر قانونی بستیوں کی حمایت کرنے والی آٹھ اسرائیلی کمپنیوں پر نئی پابندیاں عائد کر دی ہیں۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#Kalshi #CFTC #Trump #PredictionMarkets
+#UKSanctions #WestBank #Israel #AlJazeera #WorldNews
 ```
 
-### Police charge crowds during student protest march in Brussels  [NORMAL]
-- Poster: برسلز میں طلبہ کے احتجاج پر پولیس کا لاٹھی چارج / Police charge crowds at Brussels student march | category world
-- Alternative headline: Brussels police confront thousands protesting higher tuition and education cuts
+### Democrats plan investigations into Trump's Venezuela oil money plans  [NORMAL]
+- Poster: ڈیموکریٹس کی ٹرمپ کے وینزویلا کے تیل کے معاملات کی جانچ پڑتال کی تیاری / Democrats to Probe Trump's Venezuela Oil Plans | category world
+- Alternative headline: Zero transparency: Democrats target Trump's Venezuela oil dealings
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Brussels protest, students, teachers, tuition fees, education reforms, police charge | hashtags: #Brussels #StudentProtest #Education #Protest
-- Scheduled: Wed 18 Nov, 02:54 AM PKT
+- Keywords: Venezuela oil money, Trump administration, US Congress, Democrats, investigation, Al Jazeera | hashtags: #Venezuela #Trump #USPolitics #Democrats #AlJazeera
+- Scheduled: Wed 18 Nov, 04:02 AM PKT
 - Caption:
 ```
-Thousands of students and teachers marched in Brussels to protest against higher tuition fees and education reforms.
+Democrats have announced plans to investigate Donald Trump's dealings concerning Venezuela's oil funds after winning control of Congress.
 
-Thousands of students and teachers took to the streets in Brussels to demonstrate against proposed education reforms, funding cuts, and rising tuition fees. Police reportedly charged crowds as tensions flared during the large-scale protest march.
+Following their victory in securing control of Congress, US Democrats have stated their intention to investigate Donald Trump's administration dealings and transparency regarding Venezuela's oil money, as reported by Al Jazeera.
 
-برسلز میں ہزاروں طلبہ اور اساتذہ نے مجوزہ تعلیمی اصلاحات، فنڈز میں کٹوتیوں اور بڑھتی ہوئی ٹیوشن فیس کے خلاف احتجاجی مارچ کیا۔ بڑے پیمانے پر ہونے والے اس احتجاج کے دوران صورتحال کشیدہ ہونے پر پولیس نے ہجوم پر دھاوا بول دیا۔
+کانگریس میں اکثریت حاصل کرنے کے بعد ڈیموکریٹس نے وینزویلا کے تیل کے پیسوں سے متعلق ڈونلڈ ٹرمپ کے معاملات کی تحقیقات کا اعلان کیا ہے۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#Brussels #StudentProtest #Education #Protest
+#Venezuela #Trump #USPolitics #Democrats #AlJazeera
 ```
 
-### China and Canada expand tariff relief after Carney-Xi meeting  [NORMAL]
-- Poster: کارنے اور شی جن پنگ کی ملاقات کے بعد چین اور کینیڈا کا ٹیرف ریلیف میں توسیع کا فیصلہ / China, Canada expand tariff relief | category economy
-- Alternative headline: Carney-Xi meeting leads to reciprocal tariff cuts between China and Canada
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: tariff relief, China, Canada, Carney, Xi Jinping, trade tariffs | hashtags: #China #Canada #Tariffs #Trade
-- Scheduled: Wed 18 Nov, 03:04 AM PKT
-- Caption:
-```
-China has offered tariff cuts on Canadian pork and seafood as Canada extends exemptions for Chinese steel and aluminium.
-
-Following a meeting between leaders, China has offered tariff cuts on Canadian pork and seafood products. In reciprocal action, Canada has extended exemptions for Chinese steel and aluminium imports, easing trade tensions between the nations.
-
-رہنماؤں کے درمیان ملاقات کے بعد چین نے کینیڈا کے سور کے گوشت اور سی فوڈ پر ٹیرف میں کمی کی پیشکش کی ہے۔ جواباً کینیڈا نے بھی چینی اسٹیل اور المومینیم کے لیے چھوٹ میں توسیع کر دی ہے، جس سے دونوں ممالک کے درمیان تجارتی کشیدگی کم ہوئی ہے۔
-
-First reported by Al Jazeera
-
-#China #Canada #Tariffs #Trade
-```
-
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
 - [needs_review] normal | Trump, Xi, Putin Plan Unprecedented Joint Meeting at APEC | Sat 14 Nov, 10:20 PM PKT
@@ -150,9 +146,6 @@ First reported by Al Jazeera
 - [needs_review] normal | Italy Fines Meta $887M Over Unauthorized Android Data Access | Sun 15 Nov, 01:00 AM PKT
 - [needs_review] normal | Israeli Drone Strike Kills Two Palestinians in Northern Gaza | Sun 15 Nov, 01:32 AM PKT
 - [needs_review] normal | Ex-Nvidia CEO Jensen Huang Misled Leaders Over Affair | Sun 15 Nov, 01:42 AM PKT
-- [published] high | India Edges Pakistan by One Wicket in Last-Ball U19 Asia Cup Thriller | Sun 15 Nov, 02:50 AM PKT
-- [published] high | Latif Khosa Meets Pervez Elahi to Discuss Strategy and Imran Khan Upda | Sun 15 Nov, 02:50 AM PKT
-- [published] breaking | ECO Foreign Ministers' Meeting Kicks Off in Islamabad Without Afghan R | Sun 15 Nov, 03:22 AM PKT
 - [needs_review] normal | SpaceX Successfully Catches Starship Rocket Part With Mechanical Arms | Sun 15 Nov, 03:22 AM PKT
 - [needs_review] normal | Elon Musk and 115,000 Others Sign Petition to Reinstate Ousted Nvidia  | Sun 15 Nov, 03:58 AM PKT
 - [published] high | Govt May Sell Imported Sugar Below Cost, Facing Rs. 8 Billion Loss | Sun 15 Nov, 04:59 AM PKT
@@ -298,7 +291,7 @@ First reported by Al Jazeera
 - [published] normal | ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Ra | Tue 17 Nov, 10:00 PM PKT
 - [published] normal | Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack | Tue 17 Nov, 11:39 PM PKT
 - [published] normal | ECP Decides to Hold Punjab Local Government Elections in Two Phases | Tue 17 Nov, 11:49 PM PKT
-- [queued] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
+- [published] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
 - [queued] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
 - [queued] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
 - [queued] normal | UK sanctions Israeli firms building West Bank settlements | Wed 18 Nov, 12:57 AM PKT
@@ -312,17 +305,18 @@ First reported by Al Jazeera
 - [queued] normal | Kalshi halts Trump speech bets following CFTC order | Wed 18 Nov, 02:44 AM PKT
 - [queued] normal | Police charge crowds during student protest march in Brussels | Wed 18 Nov, 02:54 AM PKT
 - [queued] normal | China and Canada expand tariff relief after Carney-Xi meeting | Wed 18 Nov, 03:04 AM PKT
+- [queued] normal | Pakistan Posts $39 Million Current Account Surplus in October, SBP Rep | Wed 18 Nov, 03:32 AM PKT
+- [queued] normal | Last-gasp Haaland shoots Norway into Nations League quarters | Wed 18 Nov, 03:42 AM PKT
+- [queued] normal | UK sanctions Israeli settlement firms to protect two-state solution | Wed 18 Nov, 03:52 AM PKT
+- [queued] normal | Democrats plan investigations into Trump's Venezuela oil money plans | Wed 18 Nov, 04:02 AM PKT
 
 ## Publishing this run
-- Published 'ECP Decides to Hold Punjab Local Government Elections in Two Phases'.
+- Published 'PTA Finalises Licensing Framework for In-Flight Internet Services'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 3549 | output tokens: 2257
+- Calls: 3 | prompt tokens: 4257 | output tokens: 1950
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
