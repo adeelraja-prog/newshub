@@ -1,125 +1,126 @@
-# News Hub report - Tue 17 Nov, 06:00 PM PKT
+# News Hub report - Tue 17 Nov, 07:25 PM PKT
 
 ## Collection
-- New items this run: 145 | items in rolling pool: 824
-- Unique story clusters: 685 (duplicates merged: 139)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 69, Geo News 15, ProPakistani 8, Al Jazeera 7, Investify 6, samaa tv 5, ARY News 4, TechJuice 3, The Current 3, Dawn 2, The News International 2, Dawn Pakistan 2
+- New items this run: 205 | items in rolling pool: 920
+- Unique story clusters: 764 (duplicates merged: 156)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 2
+- Items per outlet: UrduPoint 100, Geo News 11, Al Jazeera 9, TechJuice 8, Engadget 6, ProPakistani 6, samaa tv 5, Dawn 5, The Verge 5, TechCrunch 5, Dawn Pakistan 4, Aaj English TV 4
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- ICC fines Pakistan and Sri Lanka for slow over-rates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Vance calls out ‘neoconservatives’ over Iran war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mozambique opposition leader faces trial over deadly 2024 election unrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Chinese govt announces 61 scholarships for Pakistani students for 2027–28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Usman Nurmagomedov released from UAE prison after hotel brawl arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- ICC fines Pakistan and Sri Lanka for slow over-rates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Vance calls out ‘neoconservatives’ over Iran war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mozambique opposition leader faces trial over deadly 2024 election unrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Chinese govt announces 61 scholarships for Pakistani students for 2027–28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Usman Nurmagomedov released from UAE prison after hotel brawl arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- ICC fines Pakistan and Sri Lanka for slow over-rates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Vance calls out ‘neoconservatives’ over Iran war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mozambique opposition leader faces trial over deadly 2024 election unrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Chinese govt announces 61 scholarships for Pakistani students for 2027–28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad bars vehicles without fitness and emissions tests to curb smog | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECP decides to hold Punjab local government elections in two phases | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Usman Nurmagomedov released from UAE prison after hotel brawl arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bilawal says system was 'made to collapse' amid debate on 'reset' in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 103/107 | empty: 4 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### ICC fines Pakistan and Sri Lanka for slow over-rates  [NORMAL]
-- Poster:  / ICC fines Pakistan and Sri Lanka for slow over-rates | category other
-- Alternative headline: ICC fines Pakistan and Sri Lanka for slow over-rates
+### Islamabad bars vehicles without fitness and emissions tests to curb smog  [NORMAL]
+- Poster:  / Islamabad bars vehicles without fitness and emissions tests to curb smog | category other
+- Alternative headline: Islamabad bars vehicles without fitness and emissions tests to curb smog
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2FoRk1uS2NLZGJJUFhlM2lrNU1sRTN0TWlIanNscFIxeUtWcWFWZnpSMFJkTjlLdDI5T2d6bVY2bXgyVW1jOFA3VG1YcUtrYmE4bnlUblhMUThCOUJweHI4SkdBbWVEN1Q3OUlTUHFIZEpCLVpPWmxqZGJ0cEZGTmh2Yk9WZzUyX2I0Vy1OUGdSV3pjMGc3X1U2dm5YZTg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2FoRk1uS2NLZGJJUFhlM2lrNU1sRTN0TWlIanNscFIxeUtWcWFWZnpSMFJkTjlLdDI5T2d6bVY2bXgyVW1jOFA3VG1YcUtrYmE4bnlUblhMUThCOUJweHI4SkdBbWVEN1Q3OUlTUHFIZEpCLVpPWmxqZGJ0cEZGTmh2Yk9WZzUyX2I0Vy1OUGdSV3pjMGc3X1U2dm5YZTg?oc=5
-- Supporting coverage: samaa tv, samaa tv, Geo News, Geo News, Dawn, Dawn Latest
-- Keywords: ICC fines Pakistan and Sri | hashtags: 
-- Scheduled: Tue 17 Nov, 06:00 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVZoLTUwSURCQW1LdnZXMVpZR3BZMUlwMWFYQ0w2RXdfcFVMaFdGaDJ0ekI0dVR4enJfYU13TVdjU0dETUdyTEtGWE13NHJlQ2t1ZzY0YjRmYnNVR2F4cjZXVFpFSVlGMG5PY0FDVnM4RGpjQkgxcDZRNG53VFBxWUQxYU02YUpiZk82SWp1NnZIMmpjVVAxVGhkZUpEeTAwX21qdEYxYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVZoLTUwSURCQW1LdnZXMVpZR3BZMUlwMWFYQ0w2RXdfcFVMaFdGaDJ0ekI0dVR4enJfYU13TVdjU0dETUdyTEtGWE13NHJlQ2t1ZzY0YjRmYnNVR2F4cjZXVFpFSVlGMG5PY0FDVnM4RGpjQkgxcDZRNG53VFBxWUQxYU02YUpiZk82SWp1NnZIMmpjVVAxVGhkZUpEeTAwX21qdEYxYw?oc=5
+- Supporting coverage: samaa tv, TechJuice, Dawn, Dawn Pakistan
+- Keywords: Islamabad bars vehicles without fitness | hashtags: 
+- Scheduled: Tue 17 Nov, 07:25 PM PKT
 - Caption:
 ```
-ICC fines Pakistan and Sri Lanka for slow over-rates
+Islamabad bars vehicles without fitness and emissions tests to curb smog
 
-ICC fines Pakistan and Sri Lanka for slow over-rates samaa tv
+Islamabad bars vehicles without fitness and emissions tests to curb smog samaa tv
 
 Source: samaa tv
 ```
 
-### Vance calls out ‘neoconservatives’ over Iran war  [NORMAL]
-- Poster:  / Vance calls out ‘neoconservatives’ over Iran war | category other
-- Alternative headline: Vance calls out ‘neoconservatives’ over Iran war
+### ECP decides to hold Punjab local government elections in two phases  [NORMAL]
+- Poster:  / ECP decides to hold Punjab local government elections in two phases | category other
+- Alternative headline: ECP decides to hold Punjab local government elections in two phases
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases
+- Supporting coverage: ARY News, samaa tv, Dawn Latest, Dawn
+- Keywords: ECP decides to hold Punjab | hashtags: 
+- Scheduled: Tue 17 Nov, 07:35 PM PKT
+- Caption:
+```
+ECP decides to hold Punjab local government elections in two phases
+
+ECP decides to hold Punjab local government elections in two phases
+
+Source: ARY News
+```
+
+### 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment  [NORMAL]
+- Poster:  / 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment | category other
+- Alternative headline: 8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045191/8-pakistan-bar-council-members-call-on-judiciary-to-take-note-of-imrans-plea-for-medical-treatment | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045191/8-pakistan-bar-council-members-call-on-judiciary-to-take-note-of-imrans-plea-for-medical-treatment
+- Supporting coverage: X, Dawn Pakistan, Dawn
+- Keywords: 8 Pakistan Bar Council members | hashtags: 
+- Scheduled: Tue 17 Nov, 07:45 PM PKT
+- Caption:
+```
+8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment
+
+ISLAMABAD: Eight members of the Pakistan Bar Council (PBC) on Tuesday called upon the judiciary to ensure implementation of the Supreme Court’s (SC) order directing incarcerated ex-premier Imran Khan’s transfer to Shifa International Hospital for medical treatment. On Aug 18 , a three-member SC benc
+
+Source: Dawn Pakistan
+```
+
+### Usman Nurmagomedov released from UAE prison after hotel brawl arrest  [NORMAL]
+- Poster:  / Usman Nurmagomedov released from UAE prison after hotel brawl arrest | category other
+- Alternative headline: Usman Nurmagomedov released from UAE prison after hotel brawl arrest
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera, سانا
-- Keywords: Vance calls out ‘neoconservatives’ over | hashtags: 
-- Scheduled: Tue 17 Nov, 06:10 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss
+- Supporting coverage: Al Jazeera, Geo News
+- Keywords: Usman Nurmagomedov released from UAE | hashtags: 
+- Scheduled: Tue 17 Nov, 07:55 PM PKT
 - Caption:
 ```
-Vance calls out ‘neoconservatives’ over Iran war
+Usman Nurmagomedov released from UAE prison after hotel brawl arrest
 
-US Vice President JD Vance told Fox News that ‘neoconservatives’ want the Iran war to become a forever war.
+Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.
 
 Source: Al Jazeera
 ```
 
-### Mozambique opposition leader faces trial over deadly 2024 election unrest  [NORMAL]
-- Poster:  / Mozambique opposition leader faces trial over deadly 2024 election unrest | category other
-- Alternative headline: Mozambique opposition leader faces trial over deadly 2024 election unrest
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, Al Jazeera
-- Keywords: Mozambique opposition leader faces trial | hashtags: 
-- Scheduled: Tue 17 Nov, 06:20 PM PKT
-- Caption:
-```
-Mozambique opposition leader faces trial over deadly 2024 election unrest
-
-Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.
-
-Source: BBC World
-```
-
-### Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner co  [NORMAL]
-- Poster:  / Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner co | category other
-- Alternative headline: Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner co
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb2ZlVXRwVDAtd09hbXp0Yl9IUEktQnZwTm1ZTzFyRjA3ZjQxcGlndVcxbkFWTlBvU2EtY0RmdkVuYS1jbFppWEYzbjhPRkFQLWs2RE8zejlsZ1cyYWxwdEN6bVZCT1pMb3FBUlhYbjJJbUpjRHZ5UmNyc2NjRFRIVkZ4TDZfM0VQcHhBLTUzeGYyTF9jMW1uRGxtUzV1ZFJaSk93RnJxVmpmbXl4a1B6N2E4aFl2NDV4aWY3c1RESmhYblRmb0V0VnExWVBpMHdJWm95MU9TLW1zLWttUHA5M2M4OA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb2ZlVXRwVDAtd09hbXp0Yl9IUEktQnZwTm1ZTzFyRjA3ZjQxcGlndVcxbkFWTlBvU2EtY0RmdkVuYS1jbFppWEYzbjhPRkFQLWs2RE8zejlsZ1cyYWxwdEN6bVZCT1pMb3FBUlhYbjJJbUpjRHZ5UmNyc2NjRFRIVkZ4TDZfM0VQcHhBLTUzeGYyTF9jMW1uRGxtUzV1ZFJaSk93RnJxVmpmbXl4a1B6N2E4aFl2NDV4aWY3c1RESmhYblRmb0V0VnExWVBpMHdJWm95MU9TLW1zLWttUHA5M2M4OA?oc=5
-- Supporting coverage: Dawn, Investify
-- Keywords: Pakistan, Turkmenistan to convene steering | hashtags: 
-- Scheduled: Tue 17 Nov, 06:30 PM PKT
-- Caption:
-```
-Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner co
-
-Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries Dawn
-
-Source: Dawn
-```
-
-- Indian outlets blocked this run: 7 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
 - [published] high | 16 Terrorists Killed, 2 Army Soldiers Martyred in KP Intelligence Oper | Sat 14 Nov, 08:54 PM PKT
@@ -253,9 +254,9 @@ Source: Dawn
 - [needs_review] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
 - [published] breaking | Breaking News, World News and Video from Al Jazeera | Tue 17 Nov, 12:50 PM PKT
 - [published] normal | Pakistan appoints Shane Deitz as women’s cricket team head coach | Tue 17 Nov, 12:50 PM PKT
-- [queued] normal | Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second | Tue 17 Nov, 01:00 PM PKT
-- [queued] normal | Pakistan condemns Israeli attacks in Syria, calls for withdrawal from  | Tue 17 Nov, 01:10 PM PKT
-- [queued] normal | Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | Tue 17 Nov, 01:55 PM PKT
+- [needs_review] normal | Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second | Tue 17 Nov, 01:00 PM PKT
+- [needs_review] normal | Pakistan condemns Israeli attacks in Syria, calls for withdrawal from  | Tue 17 Nov, 01:10 PM PKT
+- [published] normal | Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | Tue 17 Nov, 01:55 PM PKT
 - [queued] normal | Leonid meteor shower 2026: When and where to see it from where you liv | Tue 17 Nov, 02:05 PM PKT
 - [queued] normal | Oil slips as recovering Mideast exports blunt Gulf tensions | Tue 17 Nov, 02:15 PM PKT
 - [queued] normal | Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | Tue 17 Nov, 02:25 PM PKT
@@ -275,9 +276,13 @@ Source: Dawn
 - [queued] normal | Vance calls out ‘neoconservatives’ over Iran war | Tue 17 Nov, 06:10 PM PKT
 - [queued] normal | Mozambique opposition leader faces trial over deadly 2024 election unr | Tue 17 Nov, 06:20 PM PKT
 - [queued] normal | Pakistan, Turkmenistan to convene steering committee for TAPI gas pipe | Tue 17 Nov, 06:30 PM PKT
+- [queued] normal | Islamabad bars vehicles without fitness and emissions tests to curb sm | Tue 17 Nov, 07:25 PM PKT
+- [queued] normal | ECP decides to hold Punjab local government elections in two phases | Tue 17 Nov, 07:35 PM PKT
+- [queued] normal | 8 Pakistan Bar Council members call on judiciary to take note of Imran | Tue 17 Nov, 07:45 PM PKT
+- [queued] normal | Usman Nurmagomedov released from UAE prison after hotel brawl arrest | Tue 17 Nov, 07:55 PM PKT
 
 ## Publishing this run
-- Published 'Pakistan appoints Shane Deitz as women’s cricket team head coach'.
+- Published 'Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage'.
 
 ## Gemini usage
 - Calls: 0 | prompt tokens: 0 | output tokens: 0

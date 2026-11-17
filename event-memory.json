@@ -50452,7 +50452,878 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "426643071e4c48a9972f8158",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T12:33:19+00:00",
+      "last_update": "2026-11-17T14:12:25+00:00",
+      "event": "Islamabad bars vehicles without fitness and emissions tests to curb smog",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bars",
+        "curb",
+        "emissions",
+        "fitness",
+        "islamabad",
+        "samaa",
+        "smog",
+        "tests",
+        "vehicles",
+        "without"
+      ],
+      "source_excerpt": "Islamabad bars vehicles without fitness and emissions tests to curb smog samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVZoLTUwSURCQW1LdnZXMVpZR3BZMUlwMWFYQ0w2RXdfcFVMaFdGaDJ0ekI0dVR4enJfYU13TVdjU0dETUdyTEtGWE13NHJlQ2t1ZzY0YjRmYnNVR2F4cjZXVFpFSVlGMG5PY0FDVnM4RGpjQkgxcDZRNG53VFBxWUQxYU02YUpiZk82SWp1NnZIMmpjVVAxVGhkZUpEeTAwX21qdEYxYw?oc=5",
+          "published_at": "2026-11-17T12:33:19+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/islamabad-to-ban-vehicles-without-fitness-and-emissions-certificates/",
+          "published_at": "2026-11-17T13:55:20+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOE1kMlhPYmZ6X1Y5T0xGRGNMYjY5aENOUVlkYW1YRnI4d1JoUmV5a0lZY3V2c1ZYS05OczYtT1dvbGctemY5ZVIxS215ZlpmX2NlcTh5V0M0cHBfRUVTOVJlVHFnM1l5ejNMMG1fcUNmbmFJenE4RjhJd1pnY2tGSjVqbEdVaXZTZ1VNTTBBcWRWbEI4ZENsaEFqeXYtbU91NWp1WU9OamdJYThCS2d0S2g0Y3Y?oc=5",
+          "published_at": "2026-11-17T14:09:45+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045192/vehicles-without-fitness-emission-tests-to-be-barred-from-islamabad-to-curb-smog",
+          "published_at": "2026-11-17T14:12:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVZoLTUwSURCQW1LdnZXMVpZR3BZMUlwMWFYQ0w2RXdfcFVMaFdGaDJ0ekI0dVR4enJfYU13TVdjU0dETUdyTEtGWE13NHJlQ2t1ZzY0YjRmYnNVR2F4cjZXVFpFSVlGMG5PY0FDVnM4RGpjQkgxcDZRNG53VFBxWUQxYU02YUpiZk82SWp1NnZIMmpjVVAxVGhkZUpEeTAwX21qdEYxYw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c1b7e6baa4dd57b3185581d7",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T13:32:33+00:00",
+      "last_update": "2026-11-17T14:20:26+00:00",
+      "event": "ECP decides to hold Punjab local government elections in two phases",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "decides",
+        "ecp",
+        "elections",
+        "government",
+        "hold",
+        "local",
+        "phases",
+        "punjab",
+        "two"
+      ],
+      "source_excerpt": "ECP decides to hold Punjab local government elections in two phases",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases",
+          "published_at": "2026-11-17T13:32:33+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0ZfalJ3VVdueExyQ0dhTlo4eWktNGtmUWhyLXpEbUVKdnp5R2JFUGtpR25yV2VXMGFYWC1iQmNKMWdkLXFsM3AtNm0zbkNwNmViQTR6WDdvUDk3MTFSUzZLY1pZcV9wT3lEZl9EYjBPVUZQcnB3NE92S0pobGhKVDdMSWZLRklZVVNrYw?oc=5",
+          "published_at": "2026-11-17T13:46:18+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045194/local-govt-polls-in-punjab-to-be-held-in-two-phases",
+          "published_at": "2026-11-17T14:20:26+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkdrNy1LQTYtTGVyMFFpLThwR2ZhdHFjQUpJaUdVdHBkUGRYR2w0WThINlB1TFQ4VTltM2xSWHpVU0RjQWJHNkNOZHpobEMwLUFwNXBfRmlrVi1BSk9IYmNjNXpBRGJ0ZWRKcXlRTklRdXUwWGpmdjh5T3R3UHV1VFFYWGJOSDlhcU1xSG9B?oc=5",
+          "published_at": "2026-11-17T14:20:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases",
+        "publisher_url": "https://arynews.tv/ecp-decides-to-hold-punjab-local-government-elections-in-two-phases",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "45a5585defcdc40f08931f89",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T11:34:45+00:00",
+      "last_update": "2026-11-17T13:57:53+00:00",
+      "event": "8 Pakistan Bar Council members call on judiciary to take note of Imran's plea for medical treatment",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aug",
+        "bar",
+        "benc",
+        "call",
+        "called",
+        "council",
+        "court",
+        "directing",
+        "eight",
+        "ensure",
+        "for",
+        "hospital",
+        "implementation",
+        "imran",
+        "incarcerated",
+        "international",
+        "islamabad",
+        "judiciary",
+        "khan",
+        "medical",
+        "member",
+        "members",
+        "note",
+        "order",
+        "pakistan",
+        "pbc",
+        "plea",
+        "premier",
+        "shifa",
+        "supreme",
+        "take",
+        "the",
+        "three",
+        "transfer",
+        "treatment",
+        "tuesday",
+        "upon"
+      ],
+      "source_excerpt": "ISLAMABAD: Eight members of the Pakistan Bar Council (PBC) on Tuesday called upon the judiciary to ensure implementation of the Supreme Court’s (SC) order directing incarcerated ex-premier Imran Khan’s transfer to Shifa International Hospital for medical treatment. On Aug 18 , a three-member SC benc",
+      "sources": [
+        {
+          "name": "X",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zSXZwRENENVNSXy1qSEpaU0w3bkJsT25UNmhJMGFoQlZCSGxHU01jbUZ4cXVZRGQ1b1RsRUl4YklkVGt1RzlOc1lkWTZmRkVHZktTUVlpcFc3WjNISFEtQ0tVVQ?oc=5",
+          "published_at": "2026-11-17T11:34:45+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045191/8-pakistan-bar-council-members-call-on-judiciary-to-take-note-of-imrans-plea-for-medical-treatment",
+          "published_at": "2026-11-17T13:57:53+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1hkQzMyVXVEeF9JWGU1SEhVVXhZVjM0VGlKLUVvdHNpdFg5QTVaM1ZDZkl3N3VWbjBtVllraWpaNm9Yc3RCN3Z3QUtxbk1nQUlnblpIVXdFNVNkcVZwS2VwOEl1eXFUZXhmbGphVVloczFpdk5ib2VxTzQ2bjMweTVCeVBxMHdUUlQ5M0hvTGtLSlBNWFc2dlNGeWpubkVpQkNOU3VuX25jc29jRjhkcEdCNHdlc0FCNVNKZ1luSkZ2dHNsSVpWbGhWM0g?oc=5",
+          "published_at": "2026-11-17T13:57:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045191/8-pakistan-bar-council-members-call-on-judiciary-to-take-note-of-imrans-plea-for-medical-treatment",
+        "publisher_url": "https://www.dawn.com/news/2045191/8-pakistan-bar-council-members-call-on-judiciary-to-take-note-of-imrans-plea-for-medical-treatment",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b6281b4405dbbb4f8294fbb0",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T12:55:07+00:00",
+      "last_update": "2026-11-17T14:16:00+00:00",
+      "event": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "arrest",
+        "associates",
+        "brawl",
+        "deportation",
+        "face",
+        "fight",
+        "fighter",
+        "fighters",
+        "from",
+        "hotel",
+        "mma",
+        "nurmagomedov",
+        "other",
+        "prison",
+        "released",
+        "russian",
+        "seven",
+        "still",
+        "uae",
+        "usman",
+        "with"
+      ],
+      "source_excerpt": "Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
+          "published_at": "2026-11-17T12:55:07+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691487-usman-nurmagomedov-released-from-prison-after-khabibs-arrival-in-uae",
+          "published_at": "2026-11-17T14:16:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4b60e9bb6ea64a34be760584",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T12:00:19+00:00",
+      "last_update": "2026-11-17T13:31:00+00:00",
+      "event": "Jeffrey Epstein's autopsy revisited: Forensic expert claims billionaire was murdered",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "autopsy",
+        "billionaire",
+        "claims",
+        "epstein",
+        "expert",
+        "forensic",
+        "geo",
+        "jeffrey",
+        "murdered",
+        "news",
+        "revisited",
+        "was"
+      ],
+      "source_excerpt": "Jeffrey Epstein's autopsy revisited: Forensic expert claims billionaire was murdered Geo News",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/17/forensic-expert-claims-jeffrey-epstein-was-killed/",
+          "published_at": "2026-11-17T12:00:19+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXNVU0lVXzJxdFJkRVVuOXhLYzhCZ3duOVFCclctTEl4TzlQVVdBZHhYNDYwWW8xaGZyUzhhcG1SVkZYcE55M2xGNjZHTk9kYWktMk5fOGNzUFB6UHRqeTVidnpVYlNQSW95V0M4aVdQMTRFX0ZvdlMxekJVVGJlWXZaUjlZUi1HUFlTYzNMQm44b21ISEx3S2hSNlhOOTR0OVc1cEdhWnh0R1E2MmlHRVZsc1YzUQ?oc=5",
+          "published_at": "2026-11-17T13:31:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691478-jeffrey-epsteins-autopsy-revisited-forensic-expert-claims-billionaire-was-murdered",
+          "published_at": "2026-11-17T13:31:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXNVU0lVXzJxdFJkRVVuOXhLYzhCZ3duOVFCclctTEl4TzlQVVdBZHhYNDYwWW8xaGZyUzhhcG1SVkZYcE55M2xGNjZHTk9kYWktMk5fOGNzUFB6UHRqeTVidnpVYlNQSW95V0M4aVdQMTRFX0ZvdlMxekJVVGJlWXZaUjlZUi1HUFlTYzNMQm44b21ISEx3S2hSNlhOOTR0OVc1cEdhWnh0R1E2MmlHRVZsc1YzUQ?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a80a99cd058d5c2685082fd4",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T12:50:12+00:00",
+      "last_update": "2026-11-17T12:50:38+00:00",
+      "event": "Iranians fear more civilian infrastructure could be targeted in new US war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "already",
+        "and",
+        "apartment",
+        "been",
+        "bridges",
+        "buildings",
+        "civilian",
+        "could",
+        "energy",
+        "facilities",
+        "fear",
+        "have",
+        "hit",
+        "hospitals",
+        "industrial",
+        "infrastructure",
+        "iranians",
+        "more",
+        "new",
+        "ports",
+        "schools",
+        "targeted",
+        "units",
+        "war"
+      ],
+      "source_excerpt": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
+          "published_at": "2026-11-17T12:50:12+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVktaWnZoTlg5eWNHS2VId0hpUi1wZjNDUGs2SWh2T05Ebk9JeDM4Wk83SG8xOEdITjZHQTd6TWI3bjdBT2VzSVZpUDJxVzR6UEc2UUxFT1ZJbXlobVZvYjNjcGgxZl9XVGRRdEpNWmxZYS1NZ0I3TlYzZW5mT1A0cG9JYkdxeEtrVVUtM0x5c0VQbWw1aGtwYmtVS0JWeW1EaWtCdDdPaFhnSmxfQzBGUl9jR1hNLTjSAbwBQVVfeXFMUE1oazhTZzR2Nmt5QTgxdC1xQ25ycUk2NkdmNWlnNWhtc1NXQTRzWGxaU0piYUlDZXg0ak9ETV93RDkzejFtWE9uYmNUR3k1ZjJUVi1PdG9fYTFadUo3MWhKYmRxcmF5aWpnemdTcWNhUEZBdlZoTmZpZnpyYnE1bG9FeXhoTzFKOUNrdWFxT2k0NDAta0FLOGhtbnZpbnFtSWp3X0RHREN4d24wbmpfZkNIQ0x0UElYUnlGeEc?oc=5",
+          "published_at": "2026-11-17T12:50:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "78774d11235e0840bb1e1653",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T13:37:51+00:00",
+      "last_update": "2026-11-17T13:37:51+00:00",
+      "event": "Rep. Thomas Massie Forces a New Fight for Epstein Survivors",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "epstein",
+        "fight",
+        "files",
+        "for",
+        "forces",
+        "justice",
+        "kentucky",
+        "massie",
+        "new",
+        "pushing",
+        "rep",
+        "republican",
+        "survivors",
+        "the",
+        "thomas",
+        "victims"
+      ],
+      "source_excerpt": "Kentucky Republican Rep. Thomas Massie is pushing for justice for victims of the Epstein files.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss",
+          "published_at": "2026-11-17T13:37:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ad5034a08bd4b1e461394732",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T13:14:25+00:00",
+      "last_update": "2026-11-17T13:14:25+00:00",
+      "event": "At the origin of France’s education protests, students refuse to give up",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "blockades",
+        "continue",
+        "education",
+        "france",
+        "give",
+        "has",
+        "improved",
+        "little",
+        "origin",
+        "parisian",
+        "protests",
+        "refuse",
+        "say",
+        "schools",
+        "some",
+        "students",
+        "suburbs",
+        "teachers",
+        "the"
+      ],
+      "source_excerpt": "Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
+          "published_at": "2026-11-17T13:14:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d5e518c870f936de40849d50",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T13:09:31+00:00",
+      "last_update": "2026-11-17T13:09:31+00:00",
+      "event": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "beyond",
+        "challenger",
+        "chief",
+        "claims",
+        "diallo",
+        "europe",
+        "fifa",
+        "football",
+        "french",
+        "has",
+        "have",
+        "infantino",
+        "philippe",
+        "received",
+        "says",
+        "signs",
+        "spontaneous",
+        "strong",
+        "support"
+      ],
+      "source_excerpt": "French football chief Philippe Diallo says he has received 'spontaneous signs of strong support' against Infantino.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+          "published_at": "2026-11-17T13:09:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d8462cf81ea653cf2896ea90",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T13:03:39+00:00",
+      "last_update": "2026-11-17T13:03:39+00:00",
+      "event": "Why do governments switch off the internet?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "ajlabs",
+        "authorities",
+        "dark",
+        "day",
+        "every",
+        "explains",
+        "governments",
+        "internet",
+        "off",
+        "somewhere",
+        "switch",
+        "the",
+        "went",
+        "why"
+      ],
+      "source_excerpt": "The internet went dark somewhere every day in 2025. AJLabs explains why authorities switch it off.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
+          "published_at": "2026-11-17T13:03:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "85be257a9d4df5f207e4bb85",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T12:54:04+00:00",
+      "last_update": "2026-11-17T12:54:04+00:00",
+      "event": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "brazil",
+        "champions",
+        "defeat",
+        "first",
+        "forward",
+        "friendly",
+        "half",
+        "hat",
+        "hosts",
+        "minute",
+        "record",
+        "scored",
+        "scores",
+        "singapore",
+        "star",
+        "the",
+        "thumping",
+        "trick",
+        "vinicius",
+        "world"
+      ],
+      "source_excerpt": "Brazil's star forward scored a 12-minute hat-trick in the record world champions' thumping of the hosts in a friendly.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
+          "published_at": "2026-11-17T12:54:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "72a79e17ce93086c0576205a",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T14:00:20+00:00",
+      "last_update": "2026-11-17T14:00:20+00:00",
+      "event": "NHS gets £500m boost in Wales' first budget under Plaid Cymru",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500m",
+        "boost",
+        "budget",
+        "but",
+        "cymru",
+        "finances",
+        "first",
+        "gets",
+        "government",
+        "grappling",
+        "health",
+        "nhs",
+        "plaid",
+        "public",
+        "rise",
+        "says",
+        "spending",
+        "the",
+        "tight",
+        "under",
+        "wales",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "Health spending will rise, but the government says it is grappling with \"tight\" public finances.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cm9308z78p7ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T14:00:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cm9308z78p7ko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm9308z78p7ko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f24045f391cffb0facdd2212",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T13:02:17+00:00",
+      "last_update": "2026-11-17T13:02:17+00:00",
+      "event": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "attack",
+        "attacked",
+        "bank",
+        "being",
+        "dead",
+        "duyuk",
+        "fired",
+        "health",
+        "israeli",
+        "military",
+        "ministry",
+        "palestinian",
+        "palestinians",
+        "say",
+        "says",
+        "settlers",
+        "shot",
+        "tahta",
+        "the",
+        "there",
+        "was",
+        "west",
+        "while",
+        "woman"
+      ],
+      "source_excerpt": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T13:02:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "46da0593f25c7d7f1566745d",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T13:37:35+00:00",
+      "last_update": "2026-11-17T13:37:35+00:00",
+      "event": "Acting",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acting",
+        "bbc"
+      ],
+      "source_excerpt": "Acting BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0LXRTeFgwZkhFN3l4bFVkblUzMGJpeE5rVFR0ZFQxNVZsOVRxOWM4Vzc0Qmp0bUYzaVhrWWluUFJEazN5M1JzMENSMmRmSWt4TGVyRG5faw?oc=5",
+          "published_at": "2026-11-17T13:37:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0LXRTeFgwZkhFN3l4bFVkblUzMGJpeE5rVFR0ZFQxNVZsOVRxOWM4Vzc0Qmp0bUYzaVhrWWluUFJEazN5M1JzMENSMmRmSWt4TGVyRG5faw?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d3d66c0bff5706f6ece64c9e",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T13:47:09+00:00",
+      "last_update": "2026-11-17T13:47:09+00:00",
+      "event": "Burst water main near Bath cuts off supply to homes for hours",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bath",
+        "bbc",
+        "burst",
+        "cuts",
+        "for",
+        "homes",
+        "hours",
+        "main",
+        "near",
+        "off",
+        "supply",
+        "water"
+      ],
+      "source_excerpt": "Burst water main near Bath cuts off supply to homes for hours BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xR09KWkp5a3NLVDNEQjQ2RXZGWEhQNmcxUVZtd0p2eU1wSEVKWHZZTkRMZnpCbDJVQ2pvLUNDUnR6ckNzTjZUVHlaRnpucUUwY0dpaFlqbnk2THc?oc=5",
+          "published_at": "2026-11-17T13:47:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xR09KWkp5a3NLVDNEQjQ2RXZGWEhQNmcxUVZtd0p2eU1wSEVKWHZZTkRMZnpCbDJVQ2pvLUNDUnR6ckNzTjZUVHlaRnpucUUwY0dpaFlqbnk2THc?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c2d770a89641feda2f910860",
+      "remembered_at": "2026-11-17T14:25:34.997916+00:00",
+      "event_date": "2026-11-17T13:24:48+00:00",
+      "last_update": "2026-11-17T13:26:46+00:00",
+      "event": "UK sanctions Israeli firms helping build West Bank settlements",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bank",
+        "build",
+        "dawn",
+        "firms",
+        "helping",
+        "israeli",
+        "sanctions",
+        "settlements",
+        "west"
+      ],
+      "source_excerpt": "UK sanctions Israeli firms helping build West Bank settlements Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFpQV0ZoN0IxbmlUT0k5NEsteExuSDBVRG1WZDAxZm1FNmFDckEwaEpXaC1HTUNRX2FOOWY1ejFNU2xpZjlCUUdYMUtQRUxrWExGWnJ1blFneVNhVUFIYkcybjBfdjA1MEJmeWI5QTVQc1lWcnluNFlEN3pzbGVGWDl6TDNya3JmYXJ1NUxiZk1MUndnaWE3eDBENVg?oc=5",
+          "published_at": "2026-11-17T13:24:48+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045188/uk-sanctions-israeli-firms-helping-build-west-bank-settlements",
+          "published_at": "2026-11-17T13:26:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFpQV0ZoN0IxbmlUT0k5NEsteExuSDBVRG1WZDAxZm1FNmFDckEwaEpXaC1HTUNRX2FOOWY1ejFNU2xpZjlCUUdYMUtQRUxrWExGWnJ1blFneVNhVUFIYkcybjBfdjA1MEJmeWI5QTVQc1lWcnluNFlEN3pzbGVGWDl6TDNya3JmYXJ1NUxiZk1MUndnaWE3eDBENVg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T13:00:32.135606+00:00"
+  "updated_at": "2026-11-17T14:25:34.997916+00:00"
 }
