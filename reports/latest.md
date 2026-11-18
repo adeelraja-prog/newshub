@@ -1,149 +1,159 @@
-# News Hub report - Wed 18 Nov, 08:42 AM PKT
+# News Hub report - Wed 18 Nov, 09:45 AM PKT
 
 ## Collection
-- New items this run: 27 | items in rolling pool: 295
-- Unique story clusters: 265 (duplicates merged: 30)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 7
-- Items per outlet: Profit by Pakistan Today 5, Dawn Latest 4, Al Jazeera 3, Dawn 2, The Express Tribune 2, Geo News 1, Dawn Pakistan 1, ARY News 1, GSMArena 1, BBC Technology 1, TechJuice 1, Pakistan Today 1
+- New items this run: 50 | items in rolling pool: 298
+- Unique story clusters: 258 (duplicates merged: 40)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 5
+- Items per outlet: Dawn Pakistan 9, ProPakistani 7, samaa tv 6, TechJuice 5, Geo News 4, ARY News 4, Dawn 2, Al Jazeera 2, PhoneWorld 2, Profit by Pakistan Today 2, ARYnews.tv 1, Dunya News 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Man sentenced to over 27 years in US for plot to assassinate Trump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hungary on the hunt for a football hero | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICE agents shove and pepper-spray pregnant woman | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mary Peltola flips Alaska Senate seat in another Democratic win | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nvidia shoots down calls for Jensen Huang’s return amid strong earnings | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At hearing, US Navy chief blasted over Iran war and its toll on sailors | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two killed in Zhob roadside blast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI questions Bilawal’s late realisation of ‘people’s hardships’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- MPs pledge resolution backing journalists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nvidia reaffirms open-source AI commitment after Huang’s exit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Man sentenced to over 27 years in US for plot to assassinate Trump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hungary on the hunt for a football hero | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICE agents shove and pepper-spray pregnant woman | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mary Peltola flips Alaska Senate seat in another Democratic win | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nvidia shoots down calls for Jensen Huang’s return amid strong earnings | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At hearing, US Navy chief blasted over Iran war and its toll on sailors | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two killed in Zhob roadside blast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI questions Bilawal’s late realisation of ‘people’s hardships’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- MPs pledge resolution backing journalists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nvidia reaffirms open-source AI commitment after Huang’s exit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Man sentenced to over 27 years in US for plot to assassinate Trump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hungary on the hunt for a football hero | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICE agents shove and pepper-spray pregnant woman | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mary Peltola flips Alaska Senate seat in another Democratic win | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nvidia shoots down calls for Jensen Huang’s return amid strong earnings | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At hearing, US Navy chief blasted over Iran war and its toll on sailors | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two killed in Zhob roadside blast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI questions Bilawal’s late realisation of ‘people’s hardships’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- MPs pledge resolution backing journalists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nvidia reaffirms open-source AI commitment after Huang’s exit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 103/107 | empty: 3 | failed: 1 | malformed/partial: 1
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Geo News | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 88/107 | empty: 3 | failed: 16 | malformed/partial: 16
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Punjab Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Balochistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Petrol prices | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Express News
 
 ## Selected for the queue
-### Man Sentenced to Over 27 Years in US Over Trump Murder Plot  [NORMAL]
-- Poster: ٹرمپ کے قتل کی سازش میں ملوث شخص کو 27 سال قید / Man sentenced to 27 years over Trump plot | category crime
-- Alternative headline: Pakistani Man Gets 27 Years in US Prison for Trump Assassination Plot
+### US Navy chief blasted over Iran war and sailor toll at hearing  [NORMAL]
+- Poster: امریکہ میں ایران جنگ اور ملاحوں پر دباؤ پر نیوی چیف کو تنقید کا سامنا / US Navy chief blasted over Iran war and sailor toll | category security
+- Alternative headline: Lawmakers grill US Navy chief over Iran war strain on sailors
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGN3aXNPTlhpT2FPblBmeDhPeGZCdW9JMTFHM1lya1BKTklzVW5XS2NEWnhyNHJFc19MR2ZXTHFEd3R5UGs4aW1zN3BtbWp2Q3EwWXpFaE9ER2pjbWFrOGlJV25EOHBhX1BnV0hRMlJjaTExLXhGa3ZGUFE5UkhfZ0djVV9NTGp0TVlQelhPNEtOSG9nSTZ0NGx0QmlHd0o2UkE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGN3aXNPTlhpT2FPblBmeDhPeGZCdW9JMTFHM1lya1BKTklzVW5XS2NEWnhyNHJFc19MR2ZXTHFEd3R5UGs4aW1zN3BtbWp2Q3EwWXpFaE9ER2pjbWFrOGlJV25EOHBhX1BnV0hRMlJjaTExLXhGa3ZGUFE5UkhfZ0djVV9NTGp0TVlQelhPNEtOSG9nSTZ0NGx0QmlHd0o2UkE?oc=5
-- Supporting coverage: Bloomberg.com, The Guardian, CBS News, Dawn, Dawn Latest
-- Keywords: Trump assassination plot, US court sentence, Donald Trump, prison sentence, security threat, US justice | hashtags: #Trump #USNews #CourtSentence #BreakingNews #USA
-- Scheduled: Wed 18 Nov, 08:42 AM PKT
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmNWcEFrRHZScS1EeEQ2bW9mUC1RdGx4eHpselhIa3d5bHpaTEktY3pJVmZnYTgtV1NqTUFvdy10NXFhd3BDREtQTHk4T2g5WE1ZTTYwV3F0RE5ZcXNydExvN3MzTzNIeTkxR2FkUTUwemdieVRFQXluR1BidnNQbHdNS2ZaYUVDc0xKa09ndy1KWDA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmNWcEFrRHZScS1EeEQ2bW9mUC1RdGx4eHpselhIa3d5bHpaTEktY3pJVmZnYTgtV1NqTUFvdy10NXFhd3BDREtQTHk4T2g5WE1ZTTYwV3F0RE5ZcXNydExvN3MzTzNIeTkxR2FkUTUwemdieVRFQXluR1BidnNQbHdNS2ZaYUVDc0xKa09ndy1KWDA?oc=5
+- Supporting coverage: Al-Monitor, Internazionale, ARYnews.tv, ARY News
+- Keywords: US Navy chief, Iran war, sailors, US hearing, maritime forces | hashtags: #USNavy #IranWar #Sailors #USA
+- Scheduled: Wed 18 Nov, 09:45 AM PKT
 - Caption:
 ```
-A man has been handed a prison sentence of over 27 years in the United States for his involvement in a plot to assassinate Donald Trump.
+US lawmakers have strongly criticized the US Navy chief during a hearing regarding the Iran war and its severe toll on sailors.
 
-A man has been sentenced to over 27 years in a United States prison for his role in a plot to assassinate Donald Trump. The case highlights serious security measures and legal actions taken against threats targeting high-profile political figures in the country.
+During a congressional hearing, the US Navy chief faced intense questioning and criticism regarding the ongoing impact of the Iran war and the heavy strain it has placed on maritime forces and sailors.
 
-امریکہ میں ڈونلڈ ٹرمپ کو قتل کرنے کی سازش میں ملوث ایک شخص کو 27 سال سے زائد قید کی سزا سنا دی گئی ہے۔ اس مقدمے سے ملک میں اعلیٰ سیاسی شخصیات کو نشانہ بنانے والے خطرات کے خلاف سخت سیکیورٹی اور قانونی کارروائیوں کا اظہار ہوتا ہے۔
+امریکہ میں ایک پارلیمانی سماعت کے دوران نیوی کے سربراہ کو ایران کی جنگ اور اس کے نتیجے میں ملاحوں کو درپیش شدید دباؤ پر سخت تنقید کا نشانہ بنایا گیا۔
 
-First reported by Dawn; also reported by Bloomberg and The Guardian.
+First reported by ARYnews.tv
 
-#Trump #USNews #CourtSentence #BreakingNews #USA
+#USNavy #IranWar #Sailors #USA
 ```
 
-### Hungary on the Hunt for a New Football Hero  [NORMAL]
-- Poster: ہنگری کو ایک نئے فٹ بال ہیرو کی تلاش / Hungary seeks a football hero | category sports
-- Alternative headline: Northern Ireland Secures Nations League Promotion After Draw With Hungary
+### Two killed in Balochistan's Zhob roadside blast  [NORMAL]
+- Poster: بلوچستان کے علاقے ژوب میں سڑک کنارے دھماکے میں دو افراد جاں بحق / Two killed in Zhob roadside blast | category security
+- Alternative headline: Roadside explosion in Zhob leaves two dead
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Hungary football, Nations League, Northern Ireland, football promotion, sports news, Al Jazeera | hashtags: #Football #NationsLeague #Hungary #NorthernIreland #Sports
-- Scheduled: Wed 18 Nov, 08:52 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE9jRHNYYmFlS1k2OUZDSzVwTTZFQnZYM1QzRGswUFN5U1VBUnc4VjVvQmlBTWJ6M202US1FODVKc0RxRmxrdFpQUnJVVWZiZFYwMms3aU5Hem1vUnh0Tk1Xb1VsWnBrbnowSnhQN014a2FTdUkxMkE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE9jRHNYYmFlS1k2OUZDSzVwTTZFQnZYM1QzRGswUFN5U1VBUnc4VjVvQmlBTWJ6M202US1FODVKc0RxRmxrdFpQUnJVVWZiZFYwMms3aU5Hem1vUnh0Tk1Xb1VsWnBrbnowSnhQN014a2FTdUkxMkE?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Zhob blast, Balochistan, roadside bomb,  casualties, Dawn | hashtags: #Zhob #Balochistan #BreakingNews
+- Scheduled: Wed 18 Nov, 09:55 AM PKT
 - Caption:
 ```
-Northern Ireland has secured a Nations League promotion following a hard-fought draw against Hungary.
+A tragic roadside explosion in Balochistan's Zhob district has resulted in the deaths of two individuals.
 
-Northern Ireland successfully secured a Nations League promotion after playing a 1-1 draw against Hungary. Meanwhile, the result leaves Hungarian football searching for fresh inspiration and a new sporting hero to elevate their international campaign.
+At least two people were killed in a roadside blast in Balochistan's Zhob district, according to reports by Dawn. Authorities are investigating the incident.
 
-شمالی آئرلینڈ نے ہنگری کے خلاف 1-1 سے ڈرا کھیل کر نیشنز لیگ میں پروموشن حاصل کر لی ہے۔ دریں اثنا، اس نتیجے کے بعد ہنگری کی فٹ بال ٹیم کو بین الاقوامی سطح پر آگے بڑھانے کے لیے ایک نئے اسپورٹس ہیرو کی تلاش ہے۔
+ڈان کی رپورٹ کے مطابق بلوچستان کے ضلع ژوب میں سڑک کے کنارے ہونے والے ایک دھماکے میں دو افراد ہلاک ہو گئے۔ حکام واقعے کی تحقیقات کر رہے ہیں۔
 
-First reported by Al Jazeera.
+First reported by Dawn
 
-#Football #NationsLeague #Hungary #NorthernIreland #Sports
+#Zhob #Balochistan #BreakingNews
 ```
 
-### ICE Agents Shove and Pepper-Spray Pregnant Woman in US  [NORMAL]
-- Poster: ICE کے اہلکاروں کا حاملہ خاتون پر تشدد اور سپرے / ICE agents pepper-spray pregnant woman | category crime
-- Alternative headline: Pregnant American Woman Pepper-Sprayed and Shoved by ICE Agents
+### PTI questions Bilawal’s late realisation of people’s hardships  [NORMAL]
+- Poster: پی ٹی آئی کا عوام کی مشکلات پر بلاول کے دیر سے احساس پر سوال / PTI questions Bilawal over public hardships | category politics
+- Alternative headline: PTI reacts to Bilawal Bhutto's remarks on public hardships
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: ICE agents pregnant woman, immigration enforcement, pepper spray, US news, law enforcement conduct, Al Jazeera | hashtags: #ICE #USNews #Immigration #BreakingNews #HumanRights
-- Scheduled: Wed 18 Nov, 09:02 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUJicEJyR1hXZ2ljYy00eldfbHo0bGJ6Q090SzhTVlJ3cS1mczgwa2dYcUd2Q3FyVEUza2NqSnZqcUNhelJOd0tTT2ZxUE1xV2o4bUpyODZ2b0JsSjRlUFJfeWpoQnpMTDBldXQtbzVtWGhhNTlWMk1JaFNWanhZVUlLbWI4SmRONEpPWFE2NGx0RzhjdkotUmFn?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUJicEJyR1hXZ2ljYy00eldfbHo0bGJ6Q090SzhTVlJ3cS1mczgwa2dYcUd2Q3FyVEUza2NqSnZqcUNhelJOd0tTT2ZxUE1xV2o4bUpyODZ2b0JsSjRlUFJfeWpoQnpMTDBldXQtbzVtWGhhNTlWMk1JaFNWanhZVUlLbWI4SmRONEpPWFE2NGx0RzhjdkotUmFn?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: PTI, Bilawal Bhutto, public hardships, politics, Dawn | hashtags: #PTI #BilawalBhutto #PakistanPolitics
+- Scheduled: Wed 18 Nov, 10:05 AM PKT
 - Caption:
 ```
-An American woman was reportedly shoved to the ground and pepper-sprayed by immigration enforcement agents despite stating she was pregnant.
+Pakistan Tehreek-e-Insaf has questioned Bilawal Bhutto-Zardari over what they call a belated realization of the hardships faced by the public.
 
-An American woman states she was shoved to the ground and subjected to pepper spray by ICE agents, despite repeatedly informing them that she was pregnant. The incident has drawn attention to the conduct of immigration enforcement officers during operations.
+Pakistan Tehreek-e-Insaf (PTI) has raised questions regarding Bilawal Bhutto-Zardari's belated realization of the difficulties and hardships faced by the common people, as reported by Dawn.
 
-ایک امریکی خاتون کو ICE کے اہلکاروں نے زمین پر گرا دیا اور بار بار حاملہ ہونے کا بتانے کے باوجود مرچوں والا اسپرے کیا۔ اس واقعے نے امیگریشن انفورسمنٹ کے اہلکاروں کے رویے پر سوالات کھڑے کر دیے ہیں۔
+ڈان کی رپورٹ کے مطابق پاکستان تحریک انصاف (پی ٹی آئی) نے بلاول بھٹو زرداری کی جانب سے عوام کو درپیش مشکلات کا دیر سے احساس کرنے پر سوالات اٹھائے ہیں۔
 
-First reported by Al Jazeera.
+First reported by Dawn
 
-#ICE #USNews #Immigration #BreakingNews #HumanRights
+#PTI #BilawalBhutto #PakistanPolitics
 ```
 
-### Mary Peltola Flips Alaska Senate Seat in Democratic Win  [NORMAL]
-- Poster: میری پیلٹولا نے الاسکا کی سینیٹ نشست جیت لی / Mary Peltola wins Alaska Senate seat | category us_politics
-- Alternative headline: Democrats Secure Alaska Senate Seat in Hard-Fought Contest
+### Balochistan MPs pledge resolution backing journalists  [NORMAL]
+- Poster: بلوچستان کے ارکان اسمبلی کی صحافیوں کی حمایت میں قرارداد کی یقین دہانی / Balochistan MPs pledge resolution backing journalists | category politics
+- Alternative headline: Lawmakers in Balochistan promise resolution in support of media
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Mary Peltola Alaska Senate, US Senate election, Democratic win, Alaska politics, Al Jazeera, election results | hashtags: #Alaska #USPolitics #Senate #Democrats #Election2026
-- Scheduled: Wed 18 Nov, 09:12 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGlXTDY3OUFuRDE5STh0MkgyYmRqaWxfUlhjc2Y4Q0hCM1RLb2lUQ0NmRkZ5MWlNcnBBSWUxSjBCbjJJeDZZLWJfbEJaeDlKeTRwbDQwblN6Z09hcjJTVnFpVllwTmFxVUlLUFJKbFVCUFkzdFdkcGJzcWY1SWZCag?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGlXTDY3OUFuRDE5STh0MkgyYmRqaWxfUlhjc2Y4Q0hCM1RLb2lUQ0NmRkZ5MWlNcnBBSWUxSjBCbjJJeDZZLWJfbEJaeDlKeTRwbDQwblN6Z09hcjJTVnFpVllwTmFxVUlLUFJKbFVCUFkzdFdkcGJzcWY1SWZCag?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Balochistan MPs, journalists, resolution, media freedom, Dawn | hashtags: #Balochistan #Journalists #MediaFreedom
+- Scheduled: Wed 18 Nov, 10:15 AM PKT
 - Caption:
 ```
-Mary Peltola has flipped the Alaska Senate seat in what marks the final and most hard-fought contest for the US Senate.
+Lawmakers in Balochistan have pledged to present a resolution in support of journalists and press freedom.
 
-Mary Peltola has successfully flipped the Alaska Senate seat in a major Democratic victory. The hard-fought contest represents the final race to be called for the US Senate and is expected to face potential legal challenges moving forward.
+Members of the provincial assembly in Balochistan have pledged to bring forward a resolution backing journalists, ensuring support for the media community, according to Dawn.
 
-میری پیلٹولا نے ڈیموکریٹس کی بڑی فتح میں الاسکا کی سینیٹ نشست جیت لی ہے۔ یہ انتہائی سخت مقابلہ امریکی سینیٹ کے لیے آخری نتیجہ تھا اور توقع ہے کہ اسے قانونی چیلنجز کا سامنا کرنا پڑ سکتا ہے۔
+ڈان کے مطابق بلوچستان کے اراکین اسمبلی نے صحافیوں کی حمایت میں ایک قرارداد لانے کا وعدہ کیا ہے تاکہ میڈیا کمیونٹی کے ساتھ یکجہتی کا اظہار کیا جا سکے۔
 
-First reported by Al Jazeera.
+First reported by Dawn
 
-#Alaska #USPolitics #Senate #Democrats #Election2026
+#Balochistan #Journalists #MediaFreedom
 ```
 
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
-- [needs_review] normal | SpaceX Successfully Catches Starship Rocket Part With Mechanical Arms | Sun 15 Nov, 03:22 AM PKT
 - [needs_review] normal | Elon Musk and 115,000 Others Sign Petition to Reinstate Ousted Nvidia  | Sun 15 Nov, 03:58 AM PKT
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
 - [needs_review] normal | Top US Official Marco Rubio Behind Nvidia CEO Jensen Huang’s Exit | Sun 15 Nov, 07:01 AM PKT
-- [published] breaking | Pakistan's domestic gas output halves in a decade, forcing mealtime cu | Sun 15 Nov, 09:26 AM PKT
 - [published] breaking | Saudi-led coalition intercepts ballistic missiles and drones over Riya | Sun 15 Nov, 10:21 AM PKT
 - [published] high | Gold prices in Pakistan drop by Rs. 700, extending three-day loss | Sun 15 Nov, 10:21 AM PKT
 - [needs_review] normal | US Intelligence Estimates Iran Still Retains Up to 2,500 Missiles | Sun 15 Nov, 11:00 AM PKT
@@ -290,11 +300,11 @@ First reported by Al Jazeera.
 - [needs_review] normal | Saudi's Delta Energy Eyes $30 Billion Energy Investment in Pakistan | Wed 18 Nov, 02:08 AM PKT
 - [needs_review] normal | Russian military plane crashes in Siberia, killing all 19 aboard | Wed 18 Nov, 02:34 AM PKT
 - [published] normal | Kalshi halts Trump speech bets following CFTC order | Wed 18 Nov, 02:44 AM PKT
-- [queued] normal | Police charge crowds during student protest march in Brussels | Wed 18 Nov, 02:54 AM PKT
-- [queued] normal | China and Canada expand tariff relief after Carney-Xi meeting | Wed 18 Nov, 03:04 AM PKT
-- [queued] normal | Pakistan Posts $39 Million Current Account Surplus in October, SBP Rep | Wed 18 Nov, 03:32 AM PKT
-- [queued] normal | Last-gasp Haaland shoots Norway into Nations League quarters | Wed 18 Nov, 03:42 AM PKT
-- [queued] normal | UK sanctions Israeli settlement firms to protect two-state solution | Wed 18 Nov, 03:52 AM PKT
+- [needs_review] normal | Police charge crowds during student protest march in Brussels | Wed 18 Nov, 02:54 AM PKT
+- [needs_review] normal | China and Canada expand tariff relief after Carney-Xi meeting | Wed 18 Nov, 03:04 AM PKT
+- [needs_review] normal | Pakistan Posts $39 Million Current Account Surplus in October, SBP Rep | Wed 18 Nov, 03:32 AM PKT
+- [needs_review] normal | Last-gasp Haaland shoots Norway into Nations League quarters | Wed 18 Nov, 03:42 AM PKT
+- [published] normal | UK sanctions Israeli settlement firms to protect two-state solution | Wed 18 Nov, 03:52 AM PKT
 - [queued] normal | Democrats plan investigations into Trump's Venezuela oil money plans | Wed 18 Nov, 04:02 AM PKT
 - [queued] normal | US Fed's Lisa Cook refuses to attend White House hearing | Wed 18 Nov, 04:30 AM PKT
 - [queued] normal | UK hands over NATO-assigned US soldier accused of spying to US militar | Wed 18 Nov, 04:40 AM PKT
@@ -316,12 +326,16 @@ First reported by Al Jazeera.
 - [queued] normal | Hungary on the Hunt for a New Football Hero | Wed 18 Nov, 08:52 AM PKT
 - [queued] normal | ICE Agents Shove and Pepper-Spray Pregnant Woman in US | Wed 18 Nov, 09:02 AM PKT
 - [queued] normal | Mary Peltola Flips Alaska Senate Seat in Democratic Win | Wed 18 Nov, 09:12 AM PKT
+- [queued] normal | US Navy chief blasted over Iran war and sailor toll at hearing | Wed 18 Nov, 09:45 AM PKT
+- [queued] normal | Two killed in Balochistan's Zhob roadside blast | Wed 18 Nov, 09:55 AM PKT
+- [queued] normal | PTI questions Bilawal’s late realisation of people’s hardships | Wed 18 Nov, 10:05 AM PKT
+- [queued] normal | Balochistan MPs pledge resolution backing journalists | Wed 18 Nov, 10:15 AM PKT
 
 ## Publishing this run
-- Published 'Kalshi halts Trump speech bets following CFTC order'.
+- Published 'UK sanctions Israeli settlement firms to protect two-state solution'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 3986 | output tokens: 2283
+- Calls: 3 | prompt tokens: 4651 | output tokens: 1855
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {

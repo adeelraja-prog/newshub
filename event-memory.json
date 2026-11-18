@@ -58084,7 +58084,674 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e44cc8ccee1bb2556a3d62fa",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-17T21:30:06+00:00",
+      "last_update": "2026-11-18T04:08:25+00:00",
+      "event": "At hearing, US Navy chief blasted over Iran war and its toll on sailors",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arynews",
+        "blasted",
+        "chief",
+        "hearing",
+        "iran",
+        "its",
+        "navy",
+        "over",
+        "sailors",
+        "toll",
+        "war"
+      ],
+      "source_excerpt": "At hearing, US Navy chief blasted over Iran war and its toll on sailors ARYnews.tv",
+      "sources": [
+        {
+          "name": "Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWpsTm10VkJEb1dxd3JFU2g0V3ZnV2swVWEyd19Va2dmbUhvQUdHaTQxcGhOZFcxLVlQWFNvZTFNQ3VRQm05Y081ZGNTb2U0VmxfY3NmWnZBOHoxelNrbDRMeG5ELUhWLUdPZ0ZJQUpIRzhOTHl2V1J2TV9JRFg2ZGF2RzFTWUg4bVp6cHc4UHhZYmZEcTJPVVI3dWEzdXZ3YndGUzc1bGlZQkMtYWc?oc=5",
+          "published_at": "2026-11-17T21:30:06+00:00"
+        },
+        {
+          "name": "Internazionale",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTlNHVlNVa1Q2cS1TUEZPMDdPVHNic3Z6WHdtRDYwdHcyb2F1R25lN3ZJanNkYTN6OFJkOG5lZWVGWE9fZW43a2t3YjlYc204OEczTzRxUzZGVDJsVDYwd01wSklCVWdZS0FjN055bVVfaW5NYUt6a3E2N05NcmRyME9iR1RuQWZpVXVRZGFhUmhkdkxESF8zOVJPZ05rSXprQzRrR3htbWJHNVNwMVFINHljbnQwX0tNZlFWRF81VGwzSzJxbkgxdGlZUEJLTG8?oc=5",
+          "published_at": "2026-11-17T21:30:06+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmNWcEFrRHZScS1EeEQ2bW9mUC1RdGx4eHpselhIa3d5bHpaTEktY3pJVmZnYTgtV1NqTUFvdy10NXFhd3BDREtQTHk4T2g5WE1ZTTYwV3F0RE5ZcXNydExvN3MzTzNIeTkxR2FkUTUwemdieVRFQXluR1BidnNQbHdNS2ZaYUVDc0xKa09ndy1KWDA?oc=5",
+          "published_at": "2026-11-18T04:08:25+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/at-hearing-us-navy-chief-blasted-over-iran-war-and-its-toll-on-sailors",
+          "published_at": "2026-11-18T04:08:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmNWcEFrRHZScS1EeEQ2bW9mUC1RdGx4eHpselhIa3d5bHpaTEktY3pJVmZnYTgtV1NqTUFvdy10NXFhd3BDREtQTHk4T2g5WE1ZTTYwV3F0RE5ZcXNydExvN3MzTzNIeTkxR2FkUTUwemdieVRFQXluR1BidnNQbHdNS2ZaYUVDc0xKa09ndy1KWDA?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "952ecaf690813504d859ab67",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-18T00:39:00+00:00",
+      "last_update": "2026-11-18T04:27:54+00:00",
+      "event": "Two killed in Zhob roadside blast",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blast",
+        "dawn",
+        "killed",
+        "roadside",
+        "two",
+        "zhob"
+      ],
+      "source_excerpt": "Two killed in Zhob roadside blast Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jRHNYYmFlS1k2OUZDSzVwTTZFQnZYM1QzRGswUFN5U1VBUnc4VjVvQmlBTWJ6M202US1FODVKc0RxRmxrdFpQUnJVVWZiZFYwMms3aU5Hem1vUnh0Tk1Xb1VsWnBrbnowSnhQN014a2FTdUkxMkE?oc=5",
+          "published_at": "2026-11-18T00:39:00+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045275/two-killed-in-balochistans-zhob-roadside-blast",
+          "published_at": "2026-11-18T04:27:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jRHNYYmFlS1k2OUZDSzVwTTZFQnZYM1QzRGswUFN5U1VBUnc4VjVvQmlBTWJ6M202US1FODVKc0RxRmxrdFpQUnJVVWZiZFYwMms3aU5Hem1vUnh0Tk1Xb1VsWnBrbnowSnhQN014a2FTdUkxMkE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e0972c2c39e65ae4d79906a8",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-18T00:39:00+00:00",
+      "last_update": "2026-11-18T04:15:12+00:00",
+      "event": "MPs pledge resolution backing journalists",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "backing",
+        "dawn",
+        "journalists",
+        "mps",
+        "pledge",
+        "resolution"
+      ],
+      "source_excerpt": "MPs pledge resolution backing journalists Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGlXTDY3OUFuRDE5STh0MkgyYmRqaWxfUlhjc2Y4Q0hCM1RLb2lUQ0NmRkZ5MWlNcnBBSWUxSjBCbjJJeDZZLWJfbEJaeDlKeTRwbDQwblN6Z09hcjJTVnFpVllwTmFxVUlLUFJKbFVCUFkzdFdkcGJzcWY1SWZCag?oc=5",
+          "published_at": "2026-11-18T00:39:00+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045278/balochistan-mps-pledge-resolution-backing-journalists",
+          "published_at": "2026-11-18T04:15:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGlXTDY3OUFuRDE5STh0MkgyYmRqaWxfUlhjc2Y4Q0hCM1RLb2lUQ0NmRkZ5MWlNcnBBSWUxSjBCbjJJeDZZLWJfbEJaeDlKeTRwbDQwblN6Z09hcjJTVnFpVllwTmFxVUlLUFJKbFVCUFkzdFdkcGJzcWY1SWZCag?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "22043e213c21e2fa2bb4fb66",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-17T23:04:35+00:00",
+      "last_update": "2026-11-18T03:49:50+00:00",
+      "event": "Nvidia reaffirms open-source AI commitment after Huang’s exit",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "commitment",
+        "exit",
+        "huang",
+        "nvidia",
+        "open",
+        "reaffirms",
+        "samaa",
+        "source"
+      ],
+      "source_excerpt": "Nvidia reaffirms open-source AI commitment after Huang’s exit samaa tv",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+          "published_at": "2026-11-17T23:04:35+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORW5vYWxHaTg5ZUNwdWNDRWY1UlI0Z3RGZUQyaUZzeTYzVVRiOUVmMnNLQ2U4SnJhUy1JTlA5aDZLYUl0WWl4T05VaXJ5UVczb1B5NHFYOHl1YmFpMURQQnA4WE9ac3pOLXBEMzVnMURjQjUzMmlvWENnZmpPbjRXMnJ0MGRvWXl3LXBFNF9MWVptWm56akUwWA?oc=5",
+          "published_at": "2026-11-18T03:49:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORW5vYWxHaTg5ZUNwdWNDRWY1UlI0Z3RGZUQyaUZzeTYzVVRiOUVmMnNLQ2U4SnJhUy1JTlA5aDZLYUl0WWl4T05VaXJ5UVczb1B5NHFYOHl1YmFpMURQQnA4WE9ac3pOLXBEMzVnMURjQjUzMmlvWENnZmpPbjRXMnJ0MGRvWXl3LXBFNF9MWVptWm56akUwWA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cbce718ebd134612d78a9fa8",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-18T00:39:16+00:00",
+      "last_update": "2026-11-18T04:26:49+00:00",
+      "event": "US proposes stricter green card rules",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "card",
+        "dawn",
+        "green",
+        "proposes",
+        "rules",
+        "stricter"
+      ],
+      "source_excerpt": "US proposes stricter green card rules Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZVW5aNEZVazBoSDlRMUh2YkZaTnZJYm5ycGM1UG5oSUllSkwwWkRtbHJ2cmtRUkZVM3pBYk1lQmpLYjItZngtOEwydjItSEdheDBwT0ZjbDBHbWdfYXRHOXdOY2lSaGc2TVdNc2E1WE42VmtFY2Z3a0VOQQ?oc=5",
+          "published_at": "2026-11-18T00:39:16+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/18/us-proposes-new-green-card-restrictions-for-skilled-foreign-workers/",
+          "published_at": "2026-11-18T04:26:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZVW5aNEZVazBoSDlRMUh2YkZaTnZJYm5ycGM1UG5oSUllSkwwWkRtbHJ2cmtRUkZVM3pBYk1lQmpLYjItZngtOEwydjItSEdheDBwT0ZjbDBHbWdfYXRHOXdOY2lSaGc2TVdNc2E1WE42VmtFY2Z3a0VOQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d2b2747315d49e71d1f6c689",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-18T00:39:00+00:00",
+      "last_update": "2026-11-18T03:46:32+00:00",
+      "event": "Another key suspect in illegal kidney transplant network held",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "another",
+        "dawn",
+        "held",
+        "illegal",
+        "key",
+        "kidney",
+        "network",
+        "suspect",
+        "transplant"
+      ],
+      "source_excerpt": "Another key suspect in illegal kidney transplant network held Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYU5TNlJFRXJWbUJiUTIyb2VHemNvTGVob0ZvSl96d3N6R3l3TkJVSG5OSVA0c2gwQUtPOUstLU9hU2l0LTVfNURaekp4akxUd181a0VLR0RadE1OMm9xLXpXaFhKeWZXNllacWIxMFFWbG1Hc0Z4TVA2Q3BTUkloeV9XZ2tsZEhBaWdzOEpHRkdrVHZtd3c3WXNUNA?oc=5",
+          "published_at": "2026-11-18T00:39:00+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045281/another-key-suspect-in-illegal-kidney-transplant-network-held",
+          "published_at": "2026-11-18T03:46:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYU5TNlJFRXJWbUJiUTIyb2VHemNvTGVob0ZvSl96d3N6R3l3TkJVSG5OSVA0c2gwQUtPOUstLU9hU2l0LTVfNURaekp4akxUd181a0VLR0RadE1OMm9xLXpXaFhKeWZXNllacWIxMFFWbG1Hc0Z4TVA2Q3BTUkloeV9XZ2tsZEhBaWdzOEpHRkdrVHZtd3c3WXNUNA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d779b0166b849abf5db8d423",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-18T00:39:00+00:00",
+      "last_update": "2026-11-18T03:53:05+00:00",
+      "event": "Senators raise concern over Panjgur dam’s design, impact on agriculture",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agriculture",
+        "concern",
+        "dam",
+        "dawn",
+        "design",
+        "impact",
+        "over",
+        "panjgur",
+        "raise",
+        "senators"
+      ],
+      "source_excerpt": "Senators raise concern over Panjgur dam’s design, impact on agriculture Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkNBN3laRkY2aVhRanlTbWpfQTZMZWlBSDVuVFZEYkVicTdUU3VfTjAzWDBuT3NzbGhCQVhBVDlMM1dub09xUmk0c01xdzliY1hIUGFNN3FoVzBoQlp0ZU9ka1hkZDZpZXVJSnk0U2FHbzJCVnFUUG1YZUJFLU53Snk5M3JWTnQzTEN1YzRubThocy1wMTdfdHZNSHc0dkgwc0thZ1dB?oc=5",
+          "published_at": "2026-11-18T00:39:00+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045280/senators-raise-concern-over-panjgur-dams-design-impact-on-agriculture",
+          "published_at": "2026-11-18T03:53:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkNBN3laRkY2aVhRanlTbWpfQTZMZWlBSDVuVFZEYkVicTdUU3VfTjAzWDBuT3NzbGhCQVhBVDlMM1dub09xUmk0c01xdzliY1hIUGFNN3FoVzBoQlp0ZU9ka1hkZDZpZXVJSnk0U2FHbzJCVnFUUG1YZUJFLU53Snk5M3JWTnQzTEN1YzRubThocy1wMTdfdHZNSHc0dkgwc0thZ1dB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4f1c00e62707df7eee6fbcb8",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-18T04:12:03+00:00",
+      "last_update": "2026-11-18T04:12:03+00:00",
+      "event": "Australia issues sanctions targeting Israeli settlers",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "australia",
+        "expansion",
+        "for",
+        "four",
+        "has",
+        "illegal",
+        "imposed",
+        "individuals",
+        "israeli",
+        "issues",
+        "organisations",
+        "sanctions",
+        "settlement",
+        "settlers",
+        "targeting",
+        "three"
+      ],
+      "source_excerpt": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
+          "published_at": "2026-11-18T04:12:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b3ee7e89a409db14ef3ce719",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-18T04:01:16+00:00",
+      "last_update": "2026-11-18T04:01:16+00:00",
+      "event": "Rubio rules out cyberattacks or links between tech outages",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "between",
+        "cyberattacks",
+        "each",
+        "evidence",
+        "linking",
+        "links",
+        "marco",
+        "other",
+        "out",
+        "outages",
+        "rubio",
+        "rules",
+        "said",
+        "secretary",
+        "state",
+        "tech",
+        "technical",
+        "there"
+      ],
+      "source_excerpt": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+          "published_at": "2026-11-18T04:01:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "38520f1307036a25dbff1592",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-18T03:42:46+00:00",
+      "last_update": "2026-11-18T03:42:46+00:00",
+      "event": "LHC moved for Aleema’s meetings with family, lawyers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "acquittal",
+        "against",
+        "aleema",
+        "and",
+        "another",
+        "appeals",
+        "approached",
+        "been",
+        "claims",
+        "court",
+        "family",
+        "for",
+        "gives",
+        "has",
+        "her",
+        "high",
+        "incarcerat",
+        "jail",
+        "khan",
+        "lahore",
+        "lawyers",
+        "lhc",
+        "meet",
+        "meetings",
+        "members",
+        "month",
+        "moved",
+        "permission",
+        "petition",
+        "prosecution",
+        "qureshi",
+        "requests",
+        "seeking",
+        "several",
+        "sister",
+        "the",
+        "unheeded",
+        "with"
+      ],
+      "source_excerpt": "• Petition claims several requests seeking access to her in jail unheeded • Court gives prosecution another month in appeals against Qureshi’s acquittal LAHORE: The Lahore High Court (LHC) has been approached seeking permission for family members and lawyers to meet Aleema Khan, sister of incarcerat",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045282/lhc-moved-for-aleemas-meetings-with-family-lawyers",
+          "published_at": "2026-11-18T03:42:46+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkhuUWZ5dnpUY0UyYkVBczAtQUdiUmI5Ry1rd0syMVpia3VHaFNKV0pwUldKeW1qYkFmOFlFRXRnNjQ1OEdYQ0EtWWR5ZmRQYV9xbGxKRkRwRV9uamplenBjS3FPWGl4RHFFY0FZQU1vZFJBb0dFeVM0V2Z5SmM5eHdmN2JKemlVTGdldw?oc=5",
+          "published_at": "2026-11-18T03:42:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045282/lhc-moved-for-aleemas-meetings-with-family-lawyers",
+        "publisher_url": "https://www.dawn.com/news/2045282/lhc-moved-for-aleemas-meetings-with-family-lawyers",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b020fa05248d999fbf5022cf",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-18T04:20:52+00:00",
+      "last_update": "2026-11-18T04:20:52+00:00",
+      "event": "Three kidnapped in Balochistan's Jhal Magsi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "according",
+        "after",
+        "ahmed",
+        "along",
+        "and",
+        "armed",
+        "balochistan",
+        "dera",
+        "district",
+        "fled",
+        "gandawah",
+        "gunpoint",
+        "held",
+        "iltazai",
+        "jamali",
+        "jhal",
+        "kidnapped",
+        "kotera",
+        "lashari",
+        "magsi",
+        "men",
+        "monday",
+        "motorcycles",
+        "murad",
+        "police",
+        "riaz",
+        "riding",
+        "river",
+        "said",
+        "several",
+        "tariq",
+        "tehsil",
+        "three",
+        "young"
+      ],
+      "source_excerpt": "DERA MURAD JAMALI: Armed men kidnapped three young men in Jhal Magsi district on Monday, police said. Several armed men riding motorcycles along Kotera River in Gandawah tehsil of Dera Murad Jamali held Riaz Ahmed, Iltazai Lashari and Tariq Lashari at gunpoint and fled, according to police. After th",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045277/three-kidnapped-in-balochistans-jhal-magsi",
+          "published_at": "2026-11-18T04:20:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045277/three-kidnapped-in-balochistans-jhal-magsi",
+        "publisher_url": "https://www.dawn.com/news/2045277/three-kidnapped-in-balochistans-jhal-magsi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "60ee31b335fb5268acc2eae8",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-18T04:17:32+00:00",
+      "last_update": "2026-11-18T04:17:32+00:00",
+      "event": "Maryam Nawaz urges Punjab women to use safety app in emergencies",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "app",
+        "emergencies",
+        "maryam",
+        "nawaz",
+        "punjab",
+        "safety",
+        "urges",
+        "use",
+        "women"
+      ],
+      "source_excerpt": "Maryam Nawaz urges Punjab women to use safety app in emergencies",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/maryam-nawaz-urges-punjab-women-to-use-safety-app-in-emergencies",
+          "published_at": "2026-11-18T04:17:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/maryam-nawaz-urges-punjab-women-to-use-safety-app-in-emergencies",
+        "publisher_url": "https://arynews.tv/maryam-nawaz-urges-punjab-women-to-use-safety-app-in-emergencies",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dd058d3a4a68898978b4f2f9",
+      "remembered_at": "2026-11-18T04:45:55.083638+00:00",
+      "event_date": "2026-11-17T22:04:59+00:00",
+      "last_update": "2026-11-18T00:38:45+00:00",
+      "event": "Current account swings to $39m surplus",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "39m",
+        "account",
+        "current",
+        "express",
+        "surplus",
+        "swings",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Current account swings to $39m surplus The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oQ2RHUkppOHZuSi02Yjc1Zl9ycThkb2xmTUh6cTRwUlBnaFpKTEFXcHk4ZUVZZTU2WkpORWZmSTBROUd5ZnlmeS1DMXd6eUx1Z05nc2hSSDJIemJuMmVNQzZGWlNGUWdpVk0zT1VOc3JENGFIWDJmZ0E5TzJ6dzDSAYcBQVVfeXFMUG45Qjd1UnlCU0ZGcFhTWERPUDBldFZzdTJCdWgyNDdHeVlkRk9GSjF1WFl0NHkySzN4RGZyZkpFMVJfUDI2NEluVllQc0JhOW1fTDQ1UnBDSEFlZXlJVVFLVWRvc3VwZHAwTTJPWnN6UFpjSG04NzYzX3BoQk9CSTdwR2xLZjQw?oc=5",
+          "published_at": "2026-11-17T22:04:59+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CbEtPYWJZdno5Wk9IekVYZ291SENjZW14R3k0aUZJUXFHRERGNEZsMmtVRFl5TmNhZ3NEUFE1Vlh4TWpzZXNSXzR0Y3JmNzNRNXZYQWRSd3JfNVY5Y1dSOWptSGRBVG1uRURYQ2hWUE15QUV4V1E?oc=5",
+          "published_at": "2026-11-18T00:38:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oQ2RHUkppOHZuSi02Yjc1Zl9ycThkb2xmTUh6cTRwUlBnaFpKTEFXcHk4ZUVZZTU2WkpORWZmSTBROUd5ZnlmeS1DMXd6eUx1Z05nc2hSSDJIemJuMmVNQzZGWlNGUWdpVk0zT1VOc3JENGFIWDJmZ0E5TzJ6dzDSAYcBQVVfeXFMUG45Qjd1UnlCU0ZGcFhTWERPUDBldFZzdTJCdWgyNDdHeVlkRk9GSjF1WFl0NHkySzN4RGZyZkpFMVJfUDI2NEluVllQc0JhOW1fTDQ1UnBDSEFlZXlJVVFLVWRvc3VwZHAwTTJPWnN6UFpjSG04NzYzX3BoQk9CSTdwR2xLZjQw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T03:42:42.444497+00:00"
+  "updated_at": "2026-11-18T04:45:55.083638+00:00"
 }
