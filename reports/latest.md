@@ -1,147 +1,148 @@
-# News Hub report - Wed 18 Nov, 10:49 AM PKT
+# News Hub report - Wed 18 Nov, 11:53 AM PKT
 
 ## Collection
-- New items this run: 62 | items in rolling pool: 324
-- Unique story clusters: 281 (duplicates merged: 43)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 7
-- Items per outlet: Dawn 7, Dawn Pakistan 6, ProPakistani 6, Investify 6, Geo News 5, TechJuice 5, ARY News 4, Al Jazeera 4, Dawn Latest 3, BBC Technology 2, The News International 1, Dunya News 1
+- New items this run: 83 | items in rolling pool: 372
+- Unique story clusters: 311 (duplicates merged: 61)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 6
+- Items per outlet: Geo News 14, UrduPoint 14, Wired 8, ARY News 6, ProPakistani 5, The Express Tribune 4, Dawn Pakistan 4, Dawn Latest 4, Dawn 3, Al Jazeera 3, samaa tv 2, BBC Science 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Saudi firm eyes $30bn energy deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Apple outage disrupts iCloud, Apple Pay and other services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi firm explores $30b Pakistan gas deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman acquitted of murder shot dead along with father | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cartoon: 18 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran army says targeted US military equipment at Kuwait base: IRIB | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- HSA surrenders over Rs80m allocated for one health project | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bail of Nov 26 incident’s accused cancelled | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Saudi firm eyes $30bn energy deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Apple outage disrupts iCloud, Apple Pay and other services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi firm explores $30b Pakistan gas deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman acquitted of murder shot dead along with father | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cartoon: 18 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran army says targeted US military equipment at Kuwait base: IRIB | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- HSA surrenders over Rs80m allocated for one health project | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bail of Nov 26 incident’s accused cancelled | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Saudi firm eyes $30bn energy deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Apple outage disrupts iCloud, Apple Pay and other services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi firm explores $30b Pakistan gas deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman acquitted of murder shot dead along with father | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cartoon: 18 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran army says targeted US military equipment at Kuwait base: IRIB | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- HSA surrenders over Rs80m allocated for one health project | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bail of Nov 26 incident’s accused cancelled | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 102/107 | empty: 4 | failed: 1 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Saudi Firm Signs Pact To Explore $30 Billion Energy Infrastructure Deal In Pakistan  [NORMAL]
-- Poster: سعودی کمپنی کا پاکستان میں 30 ارب ڈالر توانائی سرمایہ کاری کا معاہدہ / Saudi firm signs pact for $30bn Pakistan energy deal | category economy
-- Alternative headline: Pakistan And Saudi Firm Explore Massive $30 Billion Energy Infrastructure Investment
+### Dawn Publishes Editorial Cartoon Reflecting Daily National Affairs For November 18  [NORMAL]
+- Poster: روزنامہ ڈان کا 18 نومبر کا ادارتی کارٹون شائع / Dawn Publishes November 18 Editorial Cartoon | category other
+- Alternative headline: Dawn Daily Editorial Cartoon Released For November 18, 2026
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KOEc3MXdTeEtDdE9pc3d2LTRfMlhwVHgySGR4Mm9taHJCbkZQdGNvSGNqLWJ3QTVrRlNFTW5oQXhlN0NFUnhrdzdB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KOEc3MXdTeEtDdE9pc3d2LTRfMlhwVHgySGR4Mm9taHJCbkZQdGNvSGNqLWJ3QTVrRlNFTW5oQXhlN0NFUnhrdzdB?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Investify
-- Keywords: Saudi energy investment, Pakistan energy, Saudi Arabia Pakistan deal, energy infrastructure, foreign direct investment | hashtags: #PakistanEconomy #SaudiArabia #EnergySector #Investment #Pakistan
-- Scheduled: Wed 18 Nov, 10:49 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRTFoaVZiWFhJVzdMT0F0c1VzS3hyQVdKNExpYkFUYjFaTldPbU95bGdVejZjbWIweXphVUttbmE4OW1aWU91WXNfb3JQM1lPZ1hyY09GLXVCSnJTMXRPM1NhNzhUVkJzTkE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRTFoaVZiWFhJVzdMT0F0c1VzS3hyQVdKNExpYkFUYjFaTldPbU95bGdVejZjbWIweXphVUttbmE4OW1aWU91WXNfb3JQM1lPZ1hyY09GLXVCSnJTMXRPM1NhNzhUVkJzTkE?oc=5
+- Supporting coverage: Dawn, Investify, Profit by Pakistan Today
+- Keywords: Dawn editorial cartoon, editorial cartoon, Dawn Pakistan, political cartoon, daily cartoon | hashtags: #Dawn #EditorialCartoon #PakistanNews #PoliticalSatire
+- Scheduled: Wed 18 Nov, 11:53 AM PKT
 - Caption:
 ```
-A Saudi firm has signed an agreement to explore energy infrastructure in Pakistan, proposing an investment of up to $30 billion.
+Dawn has released its daily editorial cartoon for November 18, 2026, capturing current political and social commentary.
 
-A Saudi firm has entered into an agreement to explore energy infrastructure projects in Pakistan with a proposed investment of $30 billion. The development marks potential major foreign funding aimed at developing and expanding critical national energy networks.
+Dawn published its daily editorial cartoon for November 18, 2026. The recurring newspaper feature presents satirical commentary on contemporary national political, economic, or social developments, serving as a regular visual highlight for daily print and digital readers across Pakistan.
 
-ایک سعودی فرم نے پاکستان کے ساتھ توانائی کے بنیادی ڈھانچے کے شعبے میں 30 ارب ڈالر کی مجوزہ سرمایہ کاری کے جائزے کے لیے معاہدہ کیا ہے۔ یہ پیش رفت توانائی کے اہم منصوبوں میں ممکنہ بڑی غیر ملکی سرمایہ کاری کی نشاندہی کرتی ہے۔
+روزنامہ ڈان نے 18 نومبر 2026 کا اپنا روایتی ادارتی کارٹون شائع کر دیا ہے۔ یہ روزانہ کا تصویری فیچر ملکی سیاسی، معاشی یا سماجی حالات پر طنزیہ تبصرہ پیش کرتا ہے جو قارئین میں خاصا مقبول ہے۔
 
-First reported by Dawn.
+First reported by Dawn
 
-#PakistanEconomy #SaudiArabia #EnergySector #Investment #Pakistan
+#Dawn #EditorialCartoon #PakistanNews #PoliticalSatire
 ```
 
-### Global Apple Outage Disrupts Key Services Including iCloud And Apple Pay  [NORMAL]
-- Poster: ایپل کی بڑی بندش: آئی کلاؤڈ اور ایپل پے کی سروسز متاثر / Global Apple outage hits iCloud and Apple Pay | category tech_apps
-- Alternative headline: Apple Services Hit By Major Outage Disrupting iCloud And Apple Pay Globally
+### Iran Army Claims Targeting US Military Equipment At Kuwait Base  [NORMAL]
+- Poster: ایرانی فوج کا کویت میں امریکی فوجی سازوسامان کو نشانہ بنانے کا دعویٰ / Iran Army Claims Strike On US Equipment In Kuwait | category war
+- Alternative headline: Iran Reports Drone Attack On US Military Equipment In Kuwait
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHl4MS1nR0N6NVRkU3V0NGtmOEhVTHJMc2xETW5la19qaE1IWjQ3TU1ZME5pV1NVRjExWFI4Yy1LdXpCai1hMW5sZXJwbWlHU2RnUXo0S183dkNpeW8zVFZ5R1hFZXBkdngtd1NVaU83TzZuZXFKZE00N0ozQmVNUUpVenpWVWh2R1FHUXdYMUpBXzA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHl4MS1nR0N6NVRkU3V0NGtmOEhVTHJMc2xETW5la19qaE1IWjQ3TU1ZME5pV1NVRjExWFI4Yy1LdXpCai1hMW5sZXJwbWlHU2RnUXo0S183dkNpeW8zVFZ5R1hFZXBkdngtd1NVaU83TzZuZXFKZE00N0ozQmVNUUpVenpWVWh2R1FHUXdYMUpBXzA?oc=5
-- Supporting coverage: samaa tv, TechJuice, Profit by Pakistan Today
-- Keywords: Apple outage, iCloud down, Apple Pay outage, Apple services, tech outage | hashtags: #AppleOutage #ApplePay #iCloud #TechNews #Apple
-- Scheduled: Wed 18 Nov, 10:59 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGUwaHRwZFdFU3BJRjJVSmdraERhRlFnc1pnTFZodENwV1BPbXVsczRvWnlkai1aRlBtcnRPaHpkNlNQbUxqdC1VbExoZ2F6aW9SdmpKS2VnTl9SaTZkM2xWb1FfWHoyaVM0R0dLR0JKb05wTVpGb2hscFJyZTN3N25pNGZhY2JoZXNYaHNRVUMzdzhYUU1VZnd6TndZLW5U?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGUwaHRwZFdFU3BJRjJVSmdraERhRlFnc1pnTFZodENwV1BPbXVsczRvWnlkai1aRlBtcnRPaHpkNlNQbUxqdC1VbExoZ2F6aW9SdmpKS2VnTl9SaTZkM2xWb1FfWHoyaVM0R0dLR0JKb05wTVpGb2hscFJyZTN3N25pNGZhY2JoZXNYaHNRVUMzdzhYUU1VZnd6TndZLW5U?oc=5
+- Supporting coverage: Dawn, Il Sole 24 ORE, Khaama Press
+- Keywords: Iran US military Kuwait, Iran army, Kuwait base, IRIB, drone attack, Middle East tensions | hashtags: #Iran #Kuwait #USMilitary #MiddleEastTensions #BreakingNews
+- Scheduled: Wed 18 Nov, 12:03 PM PKT
 - Caption:
 ```
-A major outage has hit Apple services, leaving iCloud, Apple Pay, and other platforms unresponsive for users worldwide.
+Iran's military claims it targeted US military equipment stationed at a Kuwait base, according to state broadcaster IRIB.
 
-A widespread system outage disrupted Apple services worldwide, impacting platforms including iCloud and Apple Pay. Reports indicate that users were left unable to access stored cloud data or complete payments as multiple online functions became unresponsive.
+Iran's army announced that it targeted United States military equipment stationed at a base in Kuwait, state broadcaster IRIB reported via Dawn. The development follows escalating regional tensions and cross-border drone strikes reported across the Persian Gulf region in recent days.
 
-دنیا بھر میں ایپل کی سروسز بڑی تکنیکی خرابی کا شکار ہو گئیں جس کے باعث آئی کلاؤڈ اور ایپل پے سمیت دیگر اہم فیچرز بند ہو گئے۔ صارفین کو کلاؤڈ ڈیٹا تک رسائی اور ادائیگیوں میں مشکلات کا سامنا کرنا پڑا۔
+ایرانی فوج نے سرکاری نشریاتی ادارے کے مطابق دعویٰ کیا ہے کہ اس نے کویت میں موجود ایک فوجی اڈے پر امریکی فوجی سازوسامان کو نشانہ بنایا ہے۔ خلیجی خطے میں حالیہ کشیدگی اور ڈرون حملوں کے دوران یہ دعویٰ سامنے آیا ہے۔
 
-First reported by samaa tv.
+First reported by Dawn via IRIB
 
-#AppleOutage #ApplePay #iCloud #TechNews #Apple
+#Iran #Kuwait #USMilitary #MiddleEastTensions #BreakingNews
 ```
 
-### Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Project  [NORMAL]
-- Poster: پاکستان اور سعودی فرم کے درمیان 30 ارب ڈالر کے گیس منصوبے پر بات چیت / Saudi firm explores $30bn Pakistan gas deal | category economy
-- Alternative headline: Saudi Firm Explores Potential $30 Billion Gas Deal With Pakistan
+### Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump  [NORMAL]
+- Poster: ٹرمپ کے ساتھ سہ فریقی سربراہی اجلاس سے قبل شی جن پنگ اور پیوٹن کی ملاقات / Xi, Putin Meet Ahead Of Historic Trilateral Trump Summit | category world
+- Alternative headline: Xi Jinping And Vladimir Putin Hold Talks Before Trump Summit
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1U4emw3SmZKTm5ZUWpjZ3lDbkdXaU1zS19QVW5lOUdMZjl1ZUlPQ0xFMkRMNjZGMHlQdE05US1US0YtVDBUWFJPNW9Da2EtN200LVNoVDFzQXJNUlVCNjRyVzZmb1Nic01lYUEwbDRHMGgzREk0LV8yUkNoRVNYY0hXaDfSAYwBQVVfeXFMT2FVSzJUekYwX2tDN293RGExdGNZNFc0QXctXy1qOElSLVRkOXZHdDBvRUVOTTdFb2NYcFByaHNfWk5mTDBqWkN4X0wyakg3LTJkM2RITzlRckhOWDhlTUJ2RXY0S0ZxR0RMeVBHUEV5eHkwRWhINVpXSnRJTktmWUdFMlhMR21oczY0ajg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1U4emw3SmZKTm5ZUWpjZ3lDbkdXaU1zS19QVW5lOUdMZjl1ZUlPQ0xFMkRMNjZGMHlQdE05US1US0YtVDBUWFJPNW9Da2EtN200LVNoVDFzQXJNUlVCNjRyVzZmb1Nic01lYUEwbDRHMGgzREk0LV8yUkNoRVNYY0hXaDfSAYwBQVVfeXFMT2FVSzJUekYwX2tDN293RGExdGNZNFc0QXctXy1qOElSLVRkOXZHdDBvRUVOTTdFb2NYcFByaHNfWk5mTDBqWkN4X0wyakg3LTJkM2RITzlRckhOWDhlTUJ2RXY0S0ZxR0RMeVBHUEV5eHkwRWhINVpXSnRJTktmWUdFMlhMR21oczY0ajg?oc=5
-- Supporting coverage: The Express Tribune, ARY News
-- Keywords: Pakistan gas deal, Saudi Arabia investment, gas pipeline project, Pakistan energy, The Express Tribune | hashtags: #GasPipeline #SaudiInvestment #PakistanEconomy #EnergyDeal #Pakistan
-- Scheduled: Wed 18 Nov, 11:09 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHJkYTQwNmswLUQ4dExGeHVack1rMDB4VUZyMm9aMnUyUUJGaGpHUUFCV2lDdzNHakFJS2pPc3ZuMmNSTXVTdDhsYlNPZlVKZ0VnX2xVLVo5NEhXMDdvaC0tTjRlYlhuNG5icDdCb2dhTnFzYTR0RnktTnBVaUV4WG1QbkZYM2gzV1ZRRXdnUzBCLXc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHJkYTQwNmswLUQ4dExGeHVack1rMDB4VUZyMm9aMnUyUUJGaGpHUUFCV2lDdzNHakFJS2pPc3ZuMmNSTXVTdDhsYlNPZlVKZ0VnX2xVLVo5NEhXMDdvaC0tTjRlYlhuNG5icDdCb2dhTnFzYTR0RnktTnBVaUV4WG1QbkZYM2gzV1ZRRXdnUzBCLXc?oc=5
+- Supporting coverage: Dawn, Dawn Latest, ARY News
+- Keywords: Xi Putin Trump summit, Xi Jinping, Vladimir Putin, Donald Trump, trilateral summit, diplomacy | hashtags: #XiJinping #Putin #Trump #Diplomacy #TrilateralSummit
+- Scheduled: Wed 18 Nov, 12:13 PM PKT
 - Caption:
 ```
-Pakistan and a Saudi firm are exploring a proposed $30 billion gas deal, focusing on major energy pipeline infrastructure.
+Chinese President Xi Jinping and Russian President Vladimir Putin met ahead of an anticipated trilateral summit involving US President Trump.
 
-A Saudi firm is exploring a massive $30 billion gas pipeline project in Pakistan. The proposed initiative seeks to address energy infrastructure needs and expand supply channels through significant cross-border investment and bilateral industrial cooperation.
+Chinese President Xi Jinping and Russian President Vladimir Putin held a bilateral meeting ahead of an unprecedented trilateral summit with United States President Donald Trump, Dawn reported. The high-stakes diplomatic engagement precedes historic three-way discussions among leaders of the major global powers.
 
-پاکستان اور ایک سعودی فرم کے درمیان 30 ارب ڈالر مالیت کے گیس پائپ لائن منصوبے کے امکانات کا جائزہ لیا جا رہا ہے۔ اس مجوزہ منصوبے کا مقصد ملک میں گیس کے بنیادی ڈھانچے کو وسعت دینا اور توانائی کی ضروریات پوری کرنا ہے۔
+ڈان کی رپورٹ کے مطابق چینی صدر شی جن پنگ اور روسی صدر ولادیمیر پیوٹن نے امریکی صدر ڈونلڈ ٹرمپ کے ساتھ متوقع سہ فریقی سربراہی اجلاس سے قبل اہم ملاقات کی ہے۔ یہ پیش رفت عالمی طاقتوں کے مابین غیر معمولی سفارتی بات چیت کا حصہ ہے۔
 
-First reported by The Express Tribune.
+First reported by Dawn
 
-#GasPipeline #SaudiInvestment #PakistanEconomy #EnergyDeal #Pakistan
+#XiJinping #Putin #Trump #Diplomacy #TrilateralSummit
 ```
 
-### Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar  [NORMAL]
-- Poster: بھکر: قتل کیس سے بری ہونے والی خاتون والد سمیت فائرنگ میں جاں بحق / Woman acquitted of murder shot dead with father in Bhakkar | category crime
-- Alternative headline: Acquitted Murder Suspect And Her Father Gunned Down In Bhakkar
+### Health Services Academy Surrenders Over Rs80m Allocated For Key Project  [NORMAL]
+- Poster: ہیلتھ سروسز اکیڈمی نے ہیلتھ منصوبے کے 8 کروڑ روپے سے زائد فنڈز واپس کر دیے / HSA Surrenders Over Rs80m Allocated For Health Project | category health
+- Alternative headline: HSA Surrenders Over Rs80 Million Allocated To Single Health Initiative
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjFPOUNlb2lKYWlQaFRpS0hDQ0U5UEEzVTYzYlhiTkJ2M3RGWmZlM2NnaFo0X2Q4Wk9IMFg2VzNJcE9mZlBXWFdoOGNUekwzWEtpVEVyVTBYdmhQV1d1XzhDYktfQzBWa09waG1FSnBLZHVUV2hKSW5FNDJpQ3JYMV9EUU4tSlRMQ0lqX2ppTkY?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjFPOUNlb2lKYWlQaFRpS0hDQ0U5UEEzVTYzYlhiTkJ2M3RGWmZlM2NnaFo0X2Q4Wk9IMFg2VzNJcE9mZlBXWFdoOGNUekwzWEtpVEVyVTBYdmhQV1d1XzhDYktfQzBWa09waG1FSnBLZHVUV2hKSW5FNDJpQ3JYMV9EUU4tSlRMQ0lqX2ppTkY?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGlGUW1aVFZYRFc5TU9PZnFaeUJLQ2JOSHhaYk8zSkVBc09BUEZzaVNhRHFLNGJBTEpldEh5ZEN1N3dvWUd0YVRyNEhxYURxdEJZcThsbXpMazNwVE5jSGFLUWRud0dUa09ReEFzN3ljc1gtdzZJV2VHVGltQjVSTzJadE9kOGExUUpnRWlUVHA5QXowQ0dB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGlGUW1aVFZYRFc5TU9PZnFaeUJLQ2JOSHhaYk8zSkVBc09BUEZzaVNhRHFLNGJBTEpldEh5ZEN1N3dvWUd0YVRyNEhxYURxdEJZcThsbXpMazNwVE5jSGFLUWRud0dUa09ReEFzN3ljc1gtdzZJV2VHVGltQjVSTzJadE9kOGExUUpnRWlUVHA5QXowQ0dB?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Bhakkar shooting, murder acquittal, father daughter killed, Bhakkar crime, Punjab police | hashtags: #Bhakkar #CrimeNews #PunjabPolice #PakistanNews #Dawn
-- Scheduled: Wed 18 Nov, 11:19 AM PKT
+- Keywords: HSA health project funds, Health Services Academy, health funds surrendered, Rs80 million, public health Pakistan | hashtags: #PublicHealth #HSA #HealthcareFunds #PakistanNews #HealthSector
+- Scheduled: Wed 18 Nov, 12:23 PM PKT
 - Caption:
 ```
-A woman who had recently been acquitted of murder has been shot dead alongside her father in Bhakkar.
+The Health Services Academy has surrendered over Rs80 million in unutilised funds originally earmarked for a dedicated health project.
 
-A woman previously acquitted of murder charges was shot dead along with her father in Bhakkar. The armed attack occurred following her legal clearance, prompting an immediate investigation into the targeted killings by local authorities.
+The Health Services Academy (HSA) has surrendered more than Rs80 million that had been allocated for a specific health project, according to Dawn. The return of these development funds highlights recurring bureaucratic and project-execution delays within Pakistan's public health administration.
 
-بھکر میں قتل کے مقدمے سے بری ہونے والی ایک خاتون کو اس کے والد سمیت فائرنگ کر کے قتل کر دیا گیا۔ عدالت سے رہائی کے بعد پیش آنے والے اس لرزہ خیز واقعے پر پولیس نے تحقیقات شروع کر دی ہیں۔
+ڈان کی رپورٹ کے مطابق ہیلتھ سروسز اکیڈمی نے ایک مخصوص ہیلتھ منصوبے کے لیے مختص 8 کروڑ روپے سے زائد کے فنڈز حکومت کو واپس کر دیے ہیں۔ ترقیاتی فنڈز کا استعمال نہ ہونا صحت کے شعبے میں انتظامی رکاوٹوں کی نشاندہی کرتا ہے۔
 
-First reported by Dawn.
+First reported by Dawn
 
-#Bhakkar #CrimeNews #PunjabPolice #PakistanNews #Dawn
+#PublicHealth #HSA #HealthcareFunds #PakistanNews #HealthSector
 ```
 
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
 - [needs_review] normal | Top US Official Marco Rubio Behind Nvidia CEO Jensen Huang’s Exit | Sun 15 Nov, 07:01 AM PKT
 - [needs_review] normal | US Intelligence Estimates Iran Still Retains Up to 2,500 Missiles | Sun 15 Nov, 11:00 AM PKT
-- [published] breaking | KP Governor Bans All Gold Mining, Cancels Leases Over Terrorism Fundin | Sun 15 Nov, 11:14 AM PKT
 - [published] breaking | Iran Warns Of Preemptive Strikes Amid Escalating US Military Tensions | Mon 16 Nov, 07:33 AM PKT
 - [published] high | Punjab Water Demand Exceeds Supply As Groundwater Depletes Rapidly | Mon 16 Nov, 07:33 AM PKT
 - [published] high | Vulcan Rocket Fails During Launch, Dealing Blow To SpaceX Competitors | Mon 16 Nov, 07:33 AM PKT
@@ -293,11 +294,11 @@ First reported by Dawn.
 - [needs_review] normal | US Fed's Lisa Cook refuses to attend White House hearing | Wed 18 Nov, 04:30 AM PKT
 - [needs_review] normal | UK hands over NATO-assigned US soldier accused of spying to US militar | Wed 18 Nov, 04:40 AM PKT
 - [published] normal | Nvidia reports record sales as new boss rules out Jensen Huang return | Wed 18 Nov, 04:50 AM PKT
-- [queued] normal | Widow questions if 1980 toxic lagoon fire caused husband's rare cancer | Wed 18 Nov, 05:00 AM PKT
-- [queued] normal | Haitians Back El Salvador Troops Amid Rescue Mission | Wed 18 Nov, 05:25 AM PKT
-- [queued] normal | Fears Grow That Toxic Lagoon Fire Caused Cancer | Wed 18 Nov, 05:35 AM PKT
-- [queued] normal | Thomas Markle Charged Over Child Abuse Material | Wed 18 Nov, 05:45 AM PKT
-- [queued] normal | Forensic Experts Claim Jeffrey Epstein Was Strangled | Wed 18 Nov, 05:55 AM PKT
+- [needs_review] normal | Widow questions if 1980 toxic lagoon fire caused husband's rare cancer | Wed 18 Nov, 05:00 AM PKT
+- [needs_review] normal | Haitians Back El Salvador Troops Amid Rescue Mission | Wed 18 Nov, 05:25 AM PKT
+- [needs_review] normal | Fears Grow That Toxic Lagoon Fire Caused Cancer | Wed 18 Nov, 05:35 AM PKT
+- [needs_review] normal | Thomas Markle Charged Over Child Abuse Material | Wed 18 Nov, 05:45 AM PKT
+- [published] normal | Forensic Experts Claim Jeffrey Epstein Was Strangled | Wed 18 Nov, 05:55 AM PKT
 - [queued] normal | Board of Peace warns Gaza ceasefire faces imminent collapse without ac | Wed 18 Nov, 06:51 AM PKT
 - [queued] normal | Zimbabwe edge Afghanistan in thriller | Wed 18 Nov, 07:01 AM PKT
 - [queued] normal | Why China’s Shenzhen was chosen for APEC summit | Wed 18 Nov, 07:11 AM PKT
@@ -318,10 +319,14 @@ First reported by Dawn.
 - [queued] normal | Global Apple Outage Disrupts Key Services Including iCloud And Apple P | Wed 18 Nov, 10:59 AM PKT
 - [queued] normal | Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Proj | Wed 18 Nov, 11:09 AM PKT
 - [queued] normal | Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar | Wed 18 Nov, 11:19 AM PKT
+- [queued] normal | Dawn Publishes Editorial Cartoon Reflecting Daily National Affairs For | Wed 18 Nov, 11:53 AM PKT
+- [queued] normal | Iran Army Claims Targeting US Military Equipment At Kuwait Base | Wed 18 Nov, 12:03 PM PKT
+- [queued] normal | Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump | Wed 18 Nov, 12:13 PM PKT
+- [queued] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
 
 ## Publishing this run
-- Published 'Nvidia reports record sales as new boss rules out Jensen Huang return'.
+- Published 'Forensic Experts Claim Jeffrey Epstein Was Strangled'.
 
 ## Gemini usage
-- Calls: 1 | prompt tokens: 5174 | output tokens: 2195
+- Calls: 1 | prompt tokens: 5047 | output tokens: 2230
 - Errors: 0

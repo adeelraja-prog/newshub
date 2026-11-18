@@ -59705,7 +59705,796 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bae3ea33769fe7e1dfa63470",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T04:35:30+00:00",
+      "last_update": "2026-11-18T06:22:00+00:00",
+      "event": "Iran army says targeted US military equipment at Kuwait base: IRIB",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "army",
+        "base",
+        "dawn",
+        "equipment",
+        "iran",
+        "irib",
+        "kuwait",
+        "military",
+        "says",
+        "targeted"
+      ],
+      "source_excerpt": "Iran army says targeted US military equipment at Kuwait base: IRIB Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGUwaHRwZFdFU3BJRjJVSmdraERhRlFnc1pnTFZodENwV1BPbXVsczRvWnlkai1aRlBtcnRPaHpkNlNQbUxqdC1VbExoZ2F6aW9SdmpKS2VnTl9SaTZkM2xWb1FfWHoyaVM0R0dLR0JKb05wTVpGb2hscFJyZTN3N25pNGZhY2JoZXNYaHNRVUMzdzhYUU1VZnd6TndZLW5U?oc=5",
+          "published_at": "2026-11-18T04:35:30+00:00"
+        },
+        {
+          "name": "Il Sole 24 ORE",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGRsRDJlcGR5MzRLOElRUXBCcXY5SFFTS0M5YUp0RkhmUjJtSjN2Q1liaW92dUkyWS03T0Jac3k2c2dGNy1BRmM1QXVoTjBCWDFDRjRoQjFrU0NuV01iRk1MNFpRUmJKQnQ2TG1HWTdsVXN6RG0xZ2F0YjhoOFd4SnZjcWxqOHIyX202Mlp1X0lFdw?oc=5",
+          "published_at": "2026-11-18T06:04:08+00:00"
+        },
+        {
+          "name": "Khaama Press",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LVDlFN3N6LVliR0Mtd1gwdUhjZVBJUzJaRkhuNmFJSnpGZjAwbGZFRFgwaUJIams5RlNlMzlwSE4zTHpEbGhQN1RwOFllSUVsSU8wLS1YazN1dVY3bnNOZ1Rlcw?oc=5",
+          "published_at": "2026-11-18T06:22:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGUwaHRwZFdFU3BJRjJVSmdraERhRlFnc1pnTFZodENwV1BPbXVsczRvWnlkai1aRlBtcnRPaHpkNlNQbUxqdC1VbExoZ2F6aW9SdmpKS2VnTl9SaTZkM2xWb1FfWHoyaVM0R0dLR0JKb05wTVpGb2hscFJyZTN3N25pNGZhY2JoZXNYaHNRVUMzdzhYUU1VZnd6TndZLW5U?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "624de53471e6289a5bc3d0e6",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T00:40:00+00:00",
+      "last_update": "2026-11-18T05:53:59+00:00",
+      "event": "HSA surrenders over Rs80m allocated for one health project",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allocated",
+        "dawn",
+        "for",
+        "health",
+        "hsa",
+        "one",
+        "over",
+        "project",
+        "rs80m",
+        "surrenders"
+      ],
+      "source_excerpt": "HSA surrenders over Rs80m allocated for one health project Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGlGUW1aVFZYRFc5TU9PZnFaeUJLQ2JOSHhaYk8zSkVBc09BUEZzaVNhRHFLNGJBTEpldEh5ZEN1N3dvWUd0YVRyNEhxYURxdEJZcThsbXpMazNwVE5jSGFLUWRud0dUa09ReEFzN3ljc1gtdzZJV2VHVGltQjVSTzJadE9kOGExUUpnRWlUVHA5QXowQ0dB?oc=5",
+          "published_at": "2026-11-18T00:40:00+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045231/hsa-surrenders-over-rs80m-allocated-for-one-health-project",
+          "published_at": "2026-11-18T05:53:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGlGUW1aVFZYRFc5TU9PZnFaeUJLQ2JOSHhaYk8zSkVBc09BUEZzaVNhRHFLNGJBTEpldEh5ZEN1N3dvWUd0YVRyNEhxYURxdEJZcThsbXpMazNwVE5jSGFLUWRud0dUa09ReEFzN3ljc1gtdzZJV2VHVGltQjVSTzJadE9kOGExUUpnRWlUVHA5QXowQ0dB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "286fb560710afa322b91bc05",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T00:40:00+00:00",
+      "last_update": "2026-11-18T05:59:01+00:00",
+      "event": "Bail of Nov 26 incident’s accused cancelled",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "bail",
+        "cancelled",
+        "dawn",
+        "incident",
+        "nov"
+      ],
+      "source_excerpt": "Bail of Nov 26 incident’s accused cancelled Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTlVuaDMzMzk3TTVQbW9mdVVLZkZWRDNTckVfbkRYR0NPaEI1eldvZFVzeloxOEVjZHJLT0pZai1kLU5mSUxOWkNQdEk1aVplQThyUlBSOU5Zek1iMUVmOVg0M0VSSHRBMHVCTlpOSC1ORUFqUkZoT2s5OXpsTXdKQm5R?oc=5",
+          "published_at": "2026-11-18T00:40:00+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045386/bail-cancelled-of-accused-in-nov-26-protest-incident-at-srinagar-highway",
+          "published_at": "2026-11-18T05:59:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTlVuaDMzMzk3TTVQbW9mdVVLZkZWRDNTckVfbkRYR0NPaEI1eldvZFVzeloxOEVjZHJLT0pZai1kLU5mSUxOWkNQdEk1aVplQThyUlBSOU5Zek1iMUVmOVg0M0VSSHRBMHVCTlpOSC1ORUFqUkZoT2s5OXpsTXdKQm5R?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d83ffa8cf6334811ffa1e710",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T00:39:30+00:00",
+      "last_update": "2026-11-18T06:28:15+00:00",
+      "event": "Policeman martyred in Bannu",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bannu",
+        "dawn",
+        "martyred",
+        "policeman"
+      ],
+      "source_excerpt": "Policeman martyred in Bannu Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OMUFkOEFVX2lMcEY4SXdpRkFHRWpVV1h6VFBTMDA2eTRhQ3FGRGF4NVF0WGNSTHNFQ09ZdUdRa1ZaaEo3X0NsZ24tT3VHWU1VYnNab3RlTG1BMWNRZ21sanVBa2dsTTZWTDA5M1pn?oc=5",
+          "published_at": "2026-11-18T00:39:30+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVVkU05RY3p1YWp1N1ZoNzYxcGdqWnctejFfbmlCMlVTTVNvbi1GTUpsSU93bzlqWF9sOVdMeDBtcVpBeFBteWY2T2J0OGtWNjA0SkFoSWZGSE1qSDdmbU1zc1hma21iTjNUOGRTNXRYaXpFMzVaTV9BUkFNSmJpMHVwRkF0cDNwR0NOaXMyZkVSWlhSdEE?oc=5",
+          "published_at": "2026-11-18T06:28:15+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045384/policeman-martyred-after-being-abducted-tortured-in-bannu",
+          "published_at": "2026-11-18T06:28:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OMUFkOEFVX2lMcEY4SXdpRkFHRWpVV1h6VFBTMDA2eTRhQ3FGRGF4NVF0WGNSTHNFQ09ZdUdRa1ZaaEo3X0NsZ24tT3VHWU1VYnNab3RlTG1BMWNRZ21sanVBa2dsTTZWTDA5M1pn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a8e2bd7dffe52ad46847dfee",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T00:40:00+00:00",
+      "last_update": "2026-11-18T05:57:56+00:00",
+      "event": "Urdu version of Russian short stories launched",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "launched",
+        "russian",
+        "short",
+        "stories",
+        "urdu",
+        "version"
+      ],
+      "source_excerpt": "Urdu version of Russian short stories launched Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWFLdkstay1VdEVKYzEwNU54ZWx3RmJkZHMydmJBUXpMMk1pNHg4ZExkalhJcGttdUZMTWxIWWlhREkwc0RJNm15TXphc19NYjdHRi1DSW14QkpMa241WFZHNm9sWVg4NGRfX01Bc1JnWU9kSUM1UlEtQWo4d2tLV25Na2JkS2s?oc=5",
+          "published_at": "2026-11-18T00:40:00+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045385/russian-author-zakhar-prilepins-collection-of-short-stories-militia-romance-launched-in-urdu",
+          "published_at": "2026-11-18T05:57:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWFLdkstay1VdEVKYzEwNU54ZWx3RmJkZHMydmJBUXpMMk1pNHg4ZExkalhJcGttdUZMTWxIWWlhREkwc0RJNm15TXphc19NYjdHRi1DSW14QkpMa241WFZHNm9sWVg4NGRfX01Bc1JnWU9kSUM1UlEtQWo4d2tLV25Na2JkS2s?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2fdc89c04b65f88a73d1e196",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T02:37:28+00:00",
+      "last_update": "2026-11-18T05:47:03+00:00",
+      "event": "Oil prices fall as higher US crude stocks temper supply risks",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "crude",
+        "dawn",
+        "fall",
+        "higher",
+        "oil",
+        "prices",
+        "risks",
+        "stocks",
+        "supply",
+        "temper"
+      ],
+      "source_excerpt": "Oil prices fall as higher US crude stocks temper supply risks Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX21MTFFfRnp0bXVfM1E4ZUhQS3hMTVBZSzk3QldVVHlkbHBNek9pWkxTaTU1UlFydWNnNW4zeHhzUC0wNlRFSFh2azVZYm9DSEVRV3FMUlhEdy04SkJLYS14ZjFHdnM4MW5hUDkxZlZvV0l4WkxPSjVjWG9XZjFVQlNBMUptUHh0c2FfT1NxN20wcnBOZElTQlZ5bw?oc=5",
+          "published_at": "2026-11-18T02:37:28+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRElpd2JiYTc4T0FtWmhGR2ZuYktfeUxlLU9ReUhURF9rOWpwUXpIcWhiYXNhUHpkUUw1bUtnVGdxM0NNUjd2LXNQLUx6cU5iamltWFluMVpTdjdjanlPczRzM3M1b2pXUHdFRjU4VUpUdjE3bWVtakthSWJaWlRQQnhkMlpaeFhtR1FBV1M1Z2pwT0t3YUZvaWVtX2dGNUHSAacBQVVfeXFMTVRmQ3VlOWE0aWZDb3JSdkZZWkFBQkFVZU5WeUZyYzZDcFdZdHZ2RUtqSmVReERYZVNnb1pPTDBUY1gwTk03TDcydVZWZGxwWnFDZ0FRV0VNcU5ia0VqTXdYVndFNUVNM3RWUU5qTDg5Yjd0TlJfUDBTVGUzZTVobEdRQ2FLYWo0TUpZdVVRSHNqbk43ZTZvYmMtWWQ5ZHVHMC1uaDU0ZkU?oc=5",
+          "published_at": "2026-11-18T05:47:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX21MTFFfRnp0bXVfM1E4ZUhQS3hMTVBZSzk3QldVVHlkbHBNek9pWkxTaTU1UlFydWNnNW4zeHhzUC0wNlRFSFh2azVZYm9DSEVRV3FMUlhEdy04SkJLYS14ZjFHdnM4MW5hUDkxZlZvV0l4WkxPSjVjWG9XZjFVQlNBMUptUHh0c2FfT1NxN20wcnBOZElTQlZ5bw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d7f13b0c125da6c73b8ab4e5",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T06:22:59+00:00",
+      "last_update": "2026-11-18T06:22:59+00:00",
+      "event": "Africa’s economic future cannot depend on Washington",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accelerate",
+        "africa",
+        "agoa",
+        "and",
+        "cannot",
+        "depend",
+        "economic",
+        "exclude",
+        "from",
+        "future",
+        "integration",
+        "its",
+        "move",
+        "must",
+        "own",
+        "rwanda",
+        "shows",
+        "south",
+        "trump",
+        "washington",
+        "why"
+      ],
+      "source_excerpt": "Trump's move to exclude South Africa and Rwanda from AGOA shows why Africa must accelerate its own economic integration.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
+          "published_at": "2026-11-18T06:22:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a16de04fc7da78d73f14e76c",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T06:19:17+00:00",
+      "last_update": "2026-11-18T06:19:17+00:00",
+      "event": "How the Houthis fund war effort and tighten grip on Yemen",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "deepens",
+        "deteriorate",
+        "economy",
+        "effort",
+        "expanding",
+        "fuels",
+        "fund",
+        "grip",
+        "houthis",
+        "how",
+        "military",
+        "poverty",
+        "public",
+        "recruitment",
+        "services",
+        "the",
+        "tighten",
+        "war",
+        "while",
+        "yemen"
+      ],
+      "source_excerpt": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
+          "published_at": "2026-11-18T06:19:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "80b6f6e41f9b1eee77f8e639",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T06:04:21+00:00",
+      "last_update": "2026-11-18T06:04:21+00:00",
+      "event": "How important are Nvidia and Jensen Huang to the US economy?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "artificial",
+        "been",
+        "boom",
+        "centre",
+        "chief",
+        "economy",
+        "executive",
+        "former",
+        "has",
+        "how",
+        "huang",
+        "important",
+        "intelligence",
+        "jensen",
+        "nvidia",
+        "the"
+      ],
+      "source_excerpt": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T06:04:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "29009988e3860cdc4af028d5",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T06:12:44+00:00",
+      "last_update": "2026-11-18T06:12:44+00:00",
+      "event": "What's gone wrong at Britain's worst bathing site?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bathing",
+        "bbc",
+        "britain",
+        "dry",
+        "failed",
+        "few",
+        "gone",
+        "looks",
+        "many",
+        "one",
+        "quality",
+        "sewage",
+        "site",
+        "spills",
+        "summer",
+        "tests",
+        "the",
+        "water",
+        "what",
+        "why",
+        "with",
+        "worst",
+        "wrong"
+      ],
+      "source_excerpt": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T06:12:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7b862d97b4a24215dab7a45c",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T06:19:28+00:00",
+      "last_update": "2026-11-18T06:19:28+00:00",
+      "event": "Conservationists searching for large river eels",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "been",
+        "conservationists",
+        "eels",
+        "for",
+        "has",
+        "large",
+        "migrate",
+        "out",
+        "river",
+        "rivers",
+        "sea",
+        "searching",
+        "tag",
+        "tees",
+        "the",
+        "they",
+        "track",
+        "trust"
+      ],
+      "source_excerpt": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T06:19:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5236ea6be6d58af1a9977296",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T06:17:58+00:00",
+      "last_update": "2026-11-18T06:17:58+00:00",
+      "event": "States to debate social security contributions cut",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amendment",
+        "and",
+        "being",
+        "brought",
+        "contributions",
+        "cut",
+        "debate",
+        "deputies",
+        "forward",
+        "gavin",
+        "pier",
+        "rylatt",
+        "security",
+        "social",
+        "states",
+        "the",
+        "tom"
+      ],
+      "source_excerpt": "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T06:17:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9d874c78ec684b3996b1af9c",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T06:14:40+00:00",
+      "last_update": "2026-11-18T06:14:40+00:00",
+      "event": "Investing £10m in Capitol Theatre a 'no brainer', says Horsham council",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "10m",
+        "bbc",
+        "brainer",
+        "capitol",
+        "council",
+        "horsham",
+        "investing",
+        "says",
+        "theatre"
+      ],
+      "source_excerpt": "Investing £10m in Capitol Theatre a 'no brainer', says Horsham council BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tQ3NnUTdPWHpsdmtFMF9kcDBINEY1bVZmaVB1b3NrMkF4WkZPM0pyMUZ3WmxwOXJRakUwS3RwYm5iY0E3cnl4V2ZxWHY3MU1zMUtsOHlfSkxfVHM?oc=5",
+          "published_at": "2026-11-18T06:14:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tQ3NnUTdPWHpsdmtFMF9kcDBINEY1bVZmaVB1b3NrMkF4WkZPM0pyMUZ3WmxwOXJRakUwS3RwYm5iY0E3cnl4V2ZxWHY3MU1zMUtsOHlfSkxfVHM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e35aeb7d2d124f8193314f19",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T05:57:43+00:00",
+      "last_update": "2026-11-18T05:57:43+00:00",
+      "event": "What’s in the air you breathe? How to stay safe during smog season",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "breathe",
+        "during",
+        "how",
+        "jazeera",
+        "safe",
+        "season",
+        "smog",
+        "stay",
+        "the",
+        "what",
+        "you"
+      ],
+      "source_excerpt": "What’s in the air you breathe? How to stay safe during smog season Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2UtQXlsQVFCSXpfUVFyUlp0R0w5R243Y1QzSThvb2FfdXFOR1RMNFh6eWxKZ0ZfN1NscU5aNmE2SVQ4RDRMd1lmdDJaSzVaWVBBSEtsVmNYUURLY2VIdnBFc2tnSjJPbzZSX2FtZUlEXzB5M19lVlFzZzhLYk1DbklLOVpsQU11ZHVGUm1pRTBLdlExeVJyR3hXdmVjVUhNTXg3WXRTci1UeWho0gGyAUFVX3lxTFBIeTdpbUVfamhSSk9yZlltQkV6X183bGptamZNaXEtV1lHZzNYRV82ZEtnaXdaelIyN0hXTlNTT3VlRVRCeFVNUjVRTUxfN3BCT2hkTXludU9jakgwZkhrYTg3ODdKMDdDYnBzZ2gxYUlZc3RpMU5SSXJ4WGgydDh2WUZoaFY1cUM3XzNHV0NQSFFzNmszYjQ2Y2dfZDFFMUFBTXhwTGFxaTN4LVRzYnJsdkE?oc=5",
+          "published_at": "2026-11-18T05:57:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2UtQXlsQVFCSXpfUVFyUlp0R0w5R243Y1QzSThvb2FfdXFOR1RMNFh6eWxKZ0ZfN1NscU5aNmE2SVQ4RDRMd1lmdDJaSzVaWVBBSEtsVmNYUURLY2VIdnBFc2tnSjJPbzZSX2FtZUlEXzB5M19lVlFzZzhLYk1DbklLOVpsQU11ZHVGUm1pRTBLdlExeVJyR3hXdmVjVUhNTXg3WXRTci1UeWho0gGyAUFVX3lxTFBIeTdpbUVfamhSSk9yZlltQkV6X183bGptamZNaXEtV1lHZzNYRV82ZEtnaXdaelIyN0hXTlNTT3VlRVRCeFVNUjVRTUxfN3BCT2hkTXludU9jakgwZkhrYTg3ODdKMDdDYnBzZ2gxYUlZc3RpMU5SSXJ4WGgydDh2WUZoaFY1cUM3XzNHV0NQSFFzNmszYjQ2Y2dfZDFFMUFBTXhwTGFxaTN4LVRzYnJsdkE?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c26226702557ba8ff9cc7e49",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T06:02:25+00:00",
+      "last_update": "2026-11-18T06:21:39+00:00",
+      "event": "Cricket Australia to open 'Sandpapergate' forum but no new probe",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australia",
+        "but",
+        "cricket",
+        "forum",
+        "geo",
+        "new",
+        "news",
+        "open",
+        "probe",
+        "sandpapergate"
+      ],
+      "source_excerpt": "Cricket Australia to open 'Sandpapergate' forum but no new probe Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUxYWDJfVDhOa3lGTzl3T04xbXRtLXRwYVJTNTBQQWRhZUJ3RFlicjZwVHpYV2ItQXdxNFNTOVhUVHIzX2NSbGVwYkxHbFR4QVhCUnNqRFlULVlDOV9fV1kwdVhlb2k0OENxOWhXMjdZU0c4eEZvZThyLXIzTzJZc2R5MnVpTTg3WWFiT2cyUFlROGRiSWVINVl2UQ?oc=5",
+          "published_at": "2026-11-18T06:02:25+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691587-cricket-australia-to-open-sandpapergate-forum-but-no-new-probe",
+          "published_at": "2026-11-18T06:02:25+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045387/cricket-australia-to-open-sandpapergate-forum-for-players-to-share-their-versions-but-rules-out-new-probe",
+          "published_at": "2026-11-18T06:21:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUxYWDJfVDhOa3lGTzl3T04xbXRtLXRwYVJTNTBQQWRhZUJ3RFlicjZwVHpYV2ItQXdxNFNTOVhUVHIzX2NSbGVwYkxHbFR4QVhCUnNqRFlULVlDOV9fV1kwdVhlb2k0OENxOWhXMjdZU0c4eEZvZThyLXIzTzJZc2R5MnVpTTg3WWFiT2cyUFlROGRiSWVINVl2UQ?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "70283ed6b660ed19997b621b",
+      "remembered_at": "2026-11-18T06:53:16.950826+00:00",
+      "event_date": "2026-11-18T06:32:43+00:00",
+      "last_update": "2026-11-18T06:32:43+00:00",
+      "event": "'A ghost from the past': US doctors lament measles resurgence",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "doctors",
+        "from",
+        "ghost",
+        "lament",
+        "measles",
+        "past",
+        "resurgence",
+        "the"
+      ],
+      "source_excerpt": "'A ghost from the past': US doctors lament measles resurgence Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGxYemdDZS1CRXlwQV9ZUjZJT0RpOGd2TDZ3RmIzVjUyLU1DZ21lRk5ocnVzcmdWLTNzT1B6WHhVaVNFZVBWMU1wWEg5bi0wOXA3NW1SUHVEZTBRc2p3VHQ0VG9rU3hNSmZUUC1CUUF6UHQ4djByYnJEZGJoQ29zR3FfUlg2clRTaldLWTRhTHI4bDE2TTl3?oc=5",
+          "published_at": "2026-11-18T06:32:43+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045388/a-ghost-from-the-past-us-doctors-lament-measles-resurgence",
+          "published_at": "2026-11-18T06:32:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGxYemdDZS1CRXlwQV9ZUjZJT0RpOGd2TDZ3RmIzVjUyLU1DZ21lRk5ocnVzcmdWLTNzT1B6WHhVaVNFZVBWMU1wWEg5bi0wOXA3NW1SUHVEZTBRc2p3VHQ0VG9rU3hNSmZUUC1CUUF6UHQ4djByYnJEZGJoQ29zR3FfUlg2clRTaldLWTRhTHI4bDE2TTl3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T05:49:23.957661+00:00"
+  "updated_at": "2026-11-18T06:53:16.950826+00:00"
 }
