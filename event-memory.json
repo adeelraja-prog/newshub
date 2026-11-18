@@ -62640,7 +62640,682 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "acc7f38e790e17534d987978",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T04:21:57+00:00",
+      "last_update": "2026-11-18T10:56:25+00:00",
+      "event": "Sindh starts online domicile, residence certificate service for Karachiites",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "certificate",
+        "dawn",
+        "domicile",
+        "for",
+        "karachiites",
+        "online",
+        "residence",
+        "service",
+        "sindh",
+        "starts"
+      ],
+      "source_excerpt": "Sindh starts online domicile, residence certificate service for Karachiites Dawn",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/18/sindh-launches-online-portal-for-domicile-and-prc-certificates/",
+          "published_at": "2026-11-18T04:21:57+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWV4a053S1Y3QXMwV3lwcTBkdjhUa29UQkZwSjdWU2hvX0dPYzYtZ1ByYTloNDJIRU0xbU5OSXpyMS1ERzVBUm8yQjBnSUx6bHI2NWs0WV81UmIwSnRoRy1fblFySVRWX0dxQTlTcG80dUtqQWh0eXlSaklWZ29ONWI1RnJsbG9lX3ZrX0RoUkJiZUNNbFNpclBRM3lRMjJrblN0MHVCZWd6YW0w?oc=5",
+          "published_at": "2026-11-18T05:14:56+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045324/sindh-starts-online-domicile-residence-certificate-service-for-karachiites",
+          "published_at": "2026-11-18T05:14:56+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/sindh-launches-online-portal-for-domicile-and-prc-applications-in-karachi/",
+          "published_at": "2026-11-18T05:29:41+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/18/how-to-apply-for-domicile-and-prc-online-in-sindh/",
+          "published_at": "2026-11-18T10:56:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWV4a053S1Y3QXMwV3lwcTBkdjhUa29UQkZwSjdWU2hvX0dPYzYtZ1ByYTloNDJIRU0xbU5OSXpyMS1ERzVBUm8yQjBnSUx6bHI2NWs0WV81UmIwSnRoRy1fblFySVRWX0dxQTlTcG80dUtqQWh0eXlSaklWZ29ONWI1RnJsbG9lX3ZrX0RoUkJiZUNNbFNpclBRM3lRMjJrblN0MHVCZWd6YW0w?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "19c00d0275b28ec6b4bacc5d",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T07:35:09+00:00",
+      "last_update": "2026-11-18T11:25:23+00:00",
+      "event": "'Human' is Cambridge Dictionary's word of the year",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1196168",
+        "cambridge",
+        "com",
+        "dawn",
+        "dictionary",
+        "dictionarys",
+        "https",
+        "human",
+        "images",
+        "news",
+        "the",
+        "word",
+        "year"
+      ],
+      "source_excerpt": "https://images.dawn.com/news/1196168/human-is-cambridge-dictionarys-word-of-the-year",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045394/human-is-cambridge-dictionarys-word-of-the-year",
+          "published_at": "2026-11-18T07:35:09+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0gtVHVjRHBaS0pOR1BVbDZnWWlacXNPV1F1b2pOVDhMWW8zNk5TeEtCTGhaZWhIYkNWcmVTNFRkQlBkcGxuT2ltMVZRSDhXcUlJbkhzWXUwVkgxY2g4cjNES3Rva1lYelllbFZ6UndnbmZMRnhtSk1ZZW1xSUJ5dkpLaGpaWUpVY2RmcDZUVFFpb3lZ?oc=5",
+          "published_at": "2026-11-18T11:25:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045394/human-is-cambridge-dictionarys-word-of-the-year",
+        "publisher_url": "https://www.dawn.com/news/2045394/human-is-cambridge-dictionarys-word-of-the-year",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "559e09b2a78ff04ef9061c5a",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T07:11:02+00:00",
+      "last_update": "2026-11-18T10:45:31+00:00",
+      "event": "جماعتِ اسلامی جمعے کو شوگر ملز کے باہر دھرنے دے گی: حافظ نعیم الرحمٰن کا اعلان",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اسلامی",
+        "اعلان",
+        "الرحمٰن",
+        "امیر",
+        "امیرِ",
+        "باہر",
+        "جماعت",
+        "جماعتِ",
+        "جمعے",
+        "حافظ",
+        "دھرنے",
+        "شوگر",
+        "فائل",
+        "فوٹو",
+        "ملز",
+        "نعیم",
+        "کیا",
+        "ہماری"
+      ],
+      "source_excerpt": "امیر جماعت اسلامی حافظ نعیم الرحمٰن---فائل فوٹو امیرِ جماعت اسلامی حافظ نعیم الرحمٰن نے اعلان کیا کہ ہماری جماعت جمعے کو شوگر ملز کے...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1634596",
+          "published_at": "2026-11-18T07:11:02+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5014431",
+          "published_at": "2026-11-18T10:45:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1634596",
+        "publisher_url": "https://jang.com.pk/news/1634596",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f985ced5aa9add33aaf243c3",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T08:39:50+00:00",
+      "last_update": "2026-11-18T10:30:00+00:00",
+      "event": "IHC orders provision of possible facilities, medical care to Bushra Bibi in jail",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bibi",
+        "bushra",
+        "care",
+        "facilities",
+        "ihc",
+        "jail",
+        "medical",
+        "orders",
+        "possible",
+        "provision"
+      ],
+      "source_excerpt": "IHC orders provision of possible facilities, medical care to Bushra Bibi in jail",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/bushra-bibi-to-be-provided-specialist-doctor-if-required-rules-ihc",
+          "published_at": "2026-11-18T08:39:50+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691624-190m-case-ihc-orders-all-possible-medical-facilities-for-jailed-bushra",
+          "published_at": "2026-11-18T10:30:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQnM5YWlRZnc2OHVTN1hsVXMzUFhNWlp5WXN6OWlJaFBLWlkyeTg5OFlBRmlJSnhXSng2VjhuZG9YMWJZblNlaEdrZzdOVE02LVNjMVVveVB6YmlpY19SVjZDeWZWZFMwNjFUZFlVRmhTUVhsMVkwVlVLQXJKM1RuOHhobXRVWDREV0VkbVRNQjJXNC1IRmNwdHZ5ejl4R0NNLXFGZkZR?oc=5",
+          "published_at": "2026-11-18T10:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/bushra-bibi-to-be-provided-specialist-doctor-if-required-rules-ihc",
+        "publisher_url": "https://arynews.tv/bushra-bibi-to-be-provided-specialist-doctor-if-required-rules-ihc",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "95c340a00bb1375b68300f59",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T10:56:06+00:00",
+      "last_update": "2026-11-18T11:10:56+00:00",
+      "event": "After 49 years in space, Voyager 1 reaches one light-day milestone",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "according",
+        "after",
+        "already",
+        "away",
+        "been",
+        "billion",
+        "day",
+        "distance",
+        "distant",
+        "earth",
+        "for",
+        "from",
+        "has",
+        "hit",
+        "kilometres",
+        "light",
+        "made",
+        "man",
+        "miles",
+        "milestone",
+        "most",
+        "nasa",
+        "nearly",
+        "now",
+        "object",
+        "one",
+        "probe",
+        "reaches",
+        "space",
+        "spacecraft",
+        "the",
+        "through",
+        "travelling",
+        "universe",
+        "voyager",
+        "wednesday",
+        "which",
+        "years"
+      ],
+      "source_excerpt": "Nasa’s Voyager 1 probe, which has been travelling through space for nearly 50 years, hit a milestone distance of one light-day away from Earth on Wednesday. Already the most distant man-made object in the universe, the spacecraft is now about 26 billion kilometres (16 billion miles) away, according",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045417/after-49-years-in-space-voyager-1-reaches-one-light-day-milestone",
+          "published_at": "2026-11-18T10:56:06+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/nasa-voyager-1-probe-reaches-one-light-day-from-earth",
+          "published_at": "2026-11-18T11:10:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045417/after-49-years-in-space-voyager-1-reaches-one-light-day-milestone",
+        "publisher_url": "https://www.dawn.com/news/2045417/after-49-years-in-space-voyager-1-reaches-one-light-day-milestone",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1ec68f18a48025e8fd6a619f",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T09:26:23+00:00",
+      "last_update": "2026-11-18T09:26:23+00:00",
+      "event": "Atta Tarar Enters the Political Debate! Blunt Response to Bilawal Bhutto | Dunya News.",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "atta",
+        "bhutto",
+        "bilawal",
+        "blunt",
+        "debate",
+        "dunya",
+        "enters",
+        "news",
+        "political",
+        "response",
+        "tarar",
+        "the"
+      ],
+      "source_excerpt": "Atta Tarar Enters the Political Debate! Blunt Response to Bilawal Bhutto | Dunya News. Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWFwSEFoWm94d2FZeTBnUm5nRDU5WXB1bFh0WDJJLU1HNFBoY2lSM21RWlRXRGtpN0FQNUlWV1haVTNYOTJGMzZpbHpVczhNU09ENnIzTE8zeHAzajFqaWtxYWE2MXpUQW9zLVRyTFg5azZMQ0pFeF94Rkt5RkNnYy1OZk1XQ1V4WE91cVRFdDI0M2dWMzlPeDFfU3RmMGJzd3ZMM2VpYUFRZjNWWVJqR3FuaFM3NzRjZm1ZNk1sYVZtZVpjM19iSzY1NElRQmRWc1FGNEd3MA?oc=5",
+          "published_at": "2026-11-18T09:26:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWFwSEFoWm94d2FZeTBnUm5nRDU5WXB1bFh0WDJJLU1HNFBoY2lSM21RWlRXRGtpN0FQNUlWV1haVTNYOTJGMzZpbHpVczhNU09ENnIzTE8zeHAzajFqaWtxYWE2MXpUQW9zLVRyTFg5azZMQ0pFeF94Rkt5RkNnYy1OZk1XQ1V4WE91cVRFdDI0M2dWMzlPeDFfU3RmMGJzd3ZMM2VpYUFRZjNWWVJqR3FuaFM3NzRjZm1ZNk1sYVZtZVpjM19iSzY1NElRQmRWc1FGNEd3MA?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b23d977745b9f0beb5831814",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T09:05:27+00:00",
+      "last_update": "2026-11-18T09:05:27+00:00",
+      "event": "Talal Chaudhry hits back at Bilawal Bhutto, questions PPP’s governance and stance on new administrative units",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administrative",
+        "and",
+        "back",
+        "bhutto",
+        "bilawal",
+        "chaudhry",
+        "governance",
+        "hits",
+        "new",
+        "ppp",
+        "questions",
+        "stance",
+        "talal",
+        "units"
+      ],
+      "source_excerpt": "Talal Chaudhry hits back at Bilawal Bhutto, questions PPP’s governance and stance on new administrative units",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/talal-chaudhry-hits-back-at-bilawal-bhutto-zardari",
+          "published_at": "2026-11-18T09:05:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/talal-chaudhry-hits-back-at-bilawal-bhutto-zardari",
+        "publisher_url": "https://arynews.tv/talal-chaudhry-hits-back-at-bilawal-bhutto-zardari",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4c559e81a7fb83dc78a489a0",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T05:57:35+00:00",
+      "last_update": "2026-11-18T05:57:35+00:00",
+      "event": "Shazia Marri clarifies Bilawal Bhutto’s remarks on division of Sindh",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bhutto",
+        "bilawal",
+        "clarifies",
+        "division",
+        "marri",
+        "remarks",
+        "shazia",
+        "sindh"
+      ],
+      "source_excerpt": "Shazia Marri clarifies Bilawal Bhutto’s remarks on division of Sindh",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/shazia-marri-clarifies-bilawal-bhuttos-remarks-on-division-of-sindh",
+          "published_at": "2026-11-18T05:57:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/shazia-marri-clarifies-bilawal-bhuttos-remarks-on-division-of-sindh",
+        "publisher_url": "https://arynews.tv/shazia-marri-clarifies-bilawal-bhuttos-remarks-on-division-of-sindh",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4a1ba3c06a69a7237a4764db",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T10:38:13+00:00",
+      "last_update": "2026-11-18T10:40:40+00:00",
+      "event": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "backlash",
+        "between",
+        "dams",
+        "faces",
+        "facilities",
+        "fierce",
+        "has",
+        "ignited",
+        "iran",
+        "iranian",
+        "link",
+        "missile",
+        "nyt",
+        "over",
+        "possible",
+        "pushback",
+        "report",
+        "suggesting",
+        "the",
+        "underground",
+        "why"
+      ],
+      "source_excerpt": "The NYT faces backlash over report suggesting a possible link between Iranian dams and underground missile facilities.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
+          "published_at": "2026-11-18T10:38:13+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0FULTRZZnVwUWJZWXdlcWNkSWxSbmRwZGdRYnRLd3ctZ2dKTzc0X3BUNW9YMDhQWERYSkJaUzdjU0lpWEJtUnJNRFhJUHNQSWExVG5La2QwbTdyd3RQNUJ4TVBScERfVFliWjc3YnpuRDYzSWdabzh4U2p4U1I1ZDY1UXc5OHF6OGxKemhCUmhqdlJ2UTVfNFJEQjdzS1ZHUFAw0gGoAUFVX3lxTE5Tb0FGVHNMYWh0WUUtbkU1Mi1MZ2pqSG9GSkpZTXNHZ2xzZkpoZEMtNGROWkNZYTFDWmtHVEVIb0ZQUWhLd2ttVkhtc1JMVThlWEVVUEVEMWxsNmNzS0ZvcHl4dW9uTW5SQzd5Y3B6b3VocGE5aVdSQW9FLXh3NmlhZnljWU51X3lha3dLN1N3OVR3dDRHR1NGN1NVRnJjUHNLOURkWkRXZg?oc=5",
+          "published_at": "2026-11-18T10:40:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0d637045f943efe22c144afc",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T10:35:06+00:00",
+      "last_update": "2026-11-18T10:35:06+00:00",
+      "event": "Traumas of Sudan war lead to wave of drug addiction",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "addiction",
+        "anguish",
+        "caused",
+        "conflict",
+        "drug",
+        "drugs",
+        "growing",
+        "lead",
+        "number",
+        "people",
+        "sees",
+        "sudan",
+        "traumas",
+        "turn",
+        "war",
+        "wave",
+        "young"
+      ],
+      "source_excerpt": "Anguish caused by conflict sees a growing number of young people turn to drugs.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
+          "published_at": "2026-11-18T10:35:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "84bc96f406e01b8dfcdbaf28",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T10:28:57+00:00",
+      "last_update": "2026-11-18T10:28:57+00:00",
+      "event": "Paulton burst water main closes Midsomer Norton schools",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "burst",
+        "closes",
+        "main",
+        "midsomer",
+        "norton",
+        "paulton",
+        "schools",
+        "water"
+      ],
+      "source_excerpt": "Paulton burst water main closes Midsomer Norton schools BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jZGpmS0RqTnNuSFctbDFOdGJLRnd5X2pZcG5jbl84aFo2RXVzSDZZUlFyeFlycndzSFhxYl9uNmMwYkI3Z2xPQzJMQTJIUm5QN013WmRUNU56Mk0?oc=5",
+          "published_at": "2026-11-18T10:28:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jZGpmS0RqTnNuSFctbDFOdGJLRnd5X2pZcG5jbl84aFo2RXVzSDZZUlFyeFlycndzSFhxYl9uNmMwYkI3Z2xPQzJMQTJIUm5QN013WmRUNU56Mk0?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7a9d739f3fdf2153b8de3092",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T07:46:40+00:00",
+      "last_update": "2026-11-18T07:46:40+00:00",
+      "event": "Mustafa Kamal says Bilawal Bhutto’s remarks on bloodshed hurt him",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bhutto",
+        "bilawal",
+        "bloodshed",
+        "him",
+        "hurt",
+        "kamal",
+        "mustafa",
+        "remarks",
+        "says"
+      ],
+      "source_excerpt": "Mustafa Kamal says Bilawal Bhutto’s remarks on bloodshed hurt him",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/mustafa-kamal-says-bilawal-bhuttos-remarks-on-bloodshed-hurt-him",
+          "published_at": "2026-11-18T07:46:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/mustafa-kamal-says-bilawal-bhuttos-remarks-on-bloodshed-hurt-him",
+        "publisher_url": "https://arynews.tv/mustafa-kamal-says-bilawal-bhuttos-remarks-on-bloodshed-hurt-him",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e6183f04eedfc660b822ba89",
+      "remembered_at": "2026-11-18T11:36:00.261927+00:00",
+      "event_date": "2026-11-18T04:38:35+00:00",
+      "last_update": "2026-11-18T11:29:47+00:00",
+      "event": "Tech outage wave reaches US government, Trump says all is 'fine'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "dawn",
+        "fine",
+        "government",
+        "outage",
+        "reaches",
+        "says",
+        "tech",
+        "trump",
+        "wave"
+      ],
+      "source_excerpt": "Tech outage wave reaches US government, Trump says all is 'fine' Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDlkaHNvaTlIRzNERWZiQWM0THk1RGxpWmZjYzZ6ejBWam9MYnpJMmdsUWpCemdkOG44LXpWTFQtRXlDX1ZWbGNfaHd4OEJRR1hubUZac1ZuWmFwczFVQzkxbEZxMDV5c25iSzJiV3dMbzBMWnk4djEtV196N011aFZjNXpNeEhGQWVUdkoxZDl6ckhJVkdVSmNscw?oc=5",
+          "published_at": "2026-11-18T04:38:35+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/wave-of-tech-outages-hits-us-government-trump-responds",
+          "published_at": "2026-11-18T11:29:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDlkaHNvaTlIRzNERWZiQWM0THk1RGxpWmZjYzZ6ejBWam9MYnpJMmdsUWpCemdkOG44LXpWTFQtRXlDX1ZWbGNfaHd4OEJRR1hubUZac1ZuWmFwczFVQzkxbEZxMDV5c25iSzJiV3dMbzBMWnk4djEtV196N011aFZjNXpNeEhGQWVUdkoxZDl6ckhJVkdVSmNscw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T10:30:54.249682+00:00"
+  "updated_at": "2026-11-18T11:36:00.261927+00:00"
 }

@@ -1,92 +1,101 @@
-# News Hub report - Wed 18 Nov, 03:30 PM PKT
+# News Hub report - Wed 18 Nov, 04:36 PM PKT
 
 ## Collection
-- New items this run: 164 | items in rolling pool: 606
-- Unique story clusters: 502 (duplicates merged: 104)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 77, Geo News 12, Dunya News 8, ARY News 8, Al Jazeera 8, samaa tv 5, ProPakistani 5, Wired 4, Dawn 3, Dawn Latest 3, ARYnews.tv 2, The Guardian 2
+- New items this run: 157 | items in rolling pool: 730
+- Unique story clusters: 600 (duplicates merged: 130)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 63, Geo News 14, ProPakistani 9, samaa tv 5, ARY News 5, The Verge 4, Wired 4, The Current 4, The News International 3, Dunya News 3, Al Jazeera 3, The Guardian 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
+- Sindh starts online domicile, residence certificate service for Karachiites | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sri Lanka fight back to reduce Pakistan to 221-7 in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan receives largest-ever LPG shipment of 15,000 tons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India-UK ties outride Modi’s ‘decolonisation’ rhetoric | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Malaysia opens Golden Visa Programme for Pakistanis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Sindh starts online domicile, residence certificate service for Karachiites | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sri Lanka fight back to reduce Pakistan to 221-7 in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan receives largest-ever LPG shipment of 15,000 tons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India-UK ties outride Modi’s ‘decolonisation’ rhetoric | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Malaysia opens Golden Visa Programme for Pakistanis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Sindh starts online domicile, residence certificate service for Karachiites | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sri Lanka fight back to reduce Pakistan to 221-7 in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan receives largest-ever LPG shipment of 15,000 tons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India-UK ties outride Modi’s ‘decolonisation’ rhetoric | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Malaysia opens Golden Visa Programme for Pakistanis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 96/107 | empty: 2 | failed: 9 | malformed/partial: 9
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Hum News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Security Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Reuters | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Electricity | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Al Jazeera India politics | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Sri Lanka Fight Back Strongly to Reduce Pakistan to 221-7 in Second Test  [NORMAL]
-- Poster: دوسرا ٹیسٹ: سری لنکا کی زبردست واپسی، پاکستان 221 پر 7 وکٹیں گنوا بیٹھا / Sri Lanka Fight Back, Pakistan Slump to 221-7 in Second Test | category sports
-- Alternative headline: Pakistan Stumble to 221-7 as Sri Lanka Strike Back in Second Test
+### Sindh Launches Online Portal for Domicile and PRC Applications  [NORMAL]
+- Poster: سندھ نے کراچی کے لیے آن لائن ڈومیسائل اور پی آر سی سروس شروع کردی / Sindh Launches Online Domicile and PRC Service for Karachi | category other
+- Alternative headline: Sindh Starts Online Domicile and Residence Certificate Service in Karachi
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxORHg0LWM4aDVBV3FSaU4zR0VIVGRmNnFoV2NBRDQ5RGk3NkFpamJvWFU0ZmduRldTR2tDb0tZQVJmWE9YRVVFcmFqZzljX2lPa2dwYlM1bEF0UVVZZTdsSzlCeG1JczJydG9sX2ljTVpzTnVTVjlNeXdwWjNKLUM3a09NdTZOdkRaSlE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxORHg0LWM4aDVBV3FSaU4zR0VIVGRmNnFoV2NBRDQ5RGk3NkFpamJvWFU0ZmduRldTR2tDb0tZQVJmWE9YRVVFcmFqZzljX2lPa2dwYlM1bEF0UVVZZTdsSzlCeG1JczJydG9sX2ljTVpzTnVTVjlNeXdwWjNKLUM3a09NdTZOdkRaSlE?oc=5
-- Supporting coverage: ARYnews.tv, ARY News
-- Keywords: Pakistan vs Sri Lanka, second Test, cricket score, Sri Lanka bowling, Pakistan cricket, Test match | hashtags: #PAKvSL #PakistanCricket #TestCricket #CricketNews
-- Scheduled: Wed 18 Nov, 03:30 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWV4a053S1Y3QXMwV3lwcTBkdjhUa29UQkZwSjdWU2hvX0dPYzYtZ1ByYTloNDJIRU0xbU5OSXpyMS1ERzVBUm8yQjBnSUx6bHI2NWs0WV81UmIwSnRoRy1fblFySVRWX0dxQTlTcG80dUtqQWh0eXlSaklWZ29ONWI1RnJsbG9lX3ZrX0RoUkJiZUNNbFNpclBRM3lRMjJrblN0MHVCZWd6YW0w?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWV4a053S1Y3QXMwV3lwcTBkdjhUa29UQkZwSjdWU2hvX0dPYzYtZ1ByYTloNDJIRU0xbU5OSXpyMS1ERzVBUm8yQjBnSUx6bHI2NWs0WV81UmIwSnRoRy1fblFySVRWX0dxQTlTcG80dUtqQWh0eXlSaklWZ29ONWI1RnJsbG9lX3ZrX0RoUkJiZUNNbFNpclBRM3lRMjJrblN0MHVCZWd6YW0w?oc=5
+- Supporting coverage: ProPakistani, Dawn, Dawn Pakistan, TechJuice, ProPakistani
+- Keywords: online domicile service, Sindh government, PRC certificate, Karachi residents, digital portal | hashtags: #Sindh #Karachi #Domicile #DigitalPakistan
+- Scheduled: Wed 18 Nov, 04:36 PM PKT
 - Caption:
 ```
-Sri Lanka mounted an impressive bowling comeback in the second Test, leaving Pakistan struggling at 221 for seven wickets.
+Karachi residents can now apply for their domicile and permanent residence certificates online through a newly launched portal by the Sindh government.
 
-Sri Lanka's bowlers fought back determinedly to push Pakistan onto the back foot, reducing them to 221 for seven wickets during the ongoing second Test. The cluster of wickets halted Pakistan's batting momentum, setting up a tightly contested match.
+The Sindh government has launched an online portal enabling residents of Karachi to apply for domicile and Permanent Residence Certificates (PRC) digitally. This service aims to streamline the application process and provide greater convenience for citizens seeking official documentation.
 
-سری لنکا کے باؤلرز نے دوسرے ٹیسٹ میں شاندار واپسی کرتے ہوئے پاکستان کو پہلی اننگز میں 221 رنز پر 7 وکٹوں تک محدود کر دیا۔ وکٹیں گرنے سے قومی ٹیم کی پوزیشن دباؤ کا شکار ہو گئی ہے۔
+سندھ حکومت نے کراچی کے رہائشیوں کے لیے ڈومیسائل اور مستقل رہائشی سرٹیفکیٹ (پی آر سی) کے لیے آن لائن پورٹل کا آغاز کر دیا ہے۔ اس سروس کا مقصد شہریوں کے لیے درخواست دینے کے عمل کو آسان بنانا اور سہولت فراہم کرنا ہے۔
 
-First reported by ARYnews.tv
+First reported by Dawn.
 
-#PAKvSL #PakistanCricket #TestCricket #CricketNews
+#Sindh #Karachi #Domicile #DigitalPakistan
 ```
 
-### Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Port Qasim  [NORMAL]
-- Poster: پاکستان میں 15 ہزار ٹن ایل پی جی کا اب تک کا سب سے بڑا جہاز پہنچ گیا / Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim | category economy
-- Alternative headline: Historic Milestone: Pakistan Receives Largest-Ever 15,000-Tonne LPG Cargo to Boost Supply
+### Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come With Clean Hands'  [NORMAL]
+- Poster: انصاف مانگنے والوں کے ہاتھ بھی صاف ہونے چاہئیں: خواجہ آصف کا بلاول پر سخت ردعمل / Khawaja Asif hits back at Bilawal Bhutto over criticism | category politics
+- Alternative headline: Asif Responds to Bilawal's Criticism Amid Deepening Coalition Tensions
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkRiZFhiMHRNdEwwUFA4cFJNVUFIZkRqdW02UVhESkYwMmxkSksyN3laV0x0UnBOMEdTRWFqYlNvbEtjZDQwTjBIa21ZNldOREN1NGFHanpqMkFXeVlvaHhvX0pmU1A3aTJCbXhlTTNXMUdCY1cxZkhLNDJ0MzhKWjRJUUdoeVhvNFdjeVh0WFZHc0ZV?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkRiZFhiMHRNdEwwUFA4cFJNVUFIZkRqdW02UVhESkYwMmxkSksyN3laV0x0UnBOMEdTRWFqYlNvbEtjZDQwTjBIa21ZNldOREN1NGFHanpqMkFXeVlvaHhvX0pmU1A3aTJCbXhlTTNXMUdCY1cxZkhLNDJ0MzhKWjRJUUdoeVhvNFdjeVh0WFZHc0ZV?oc=5
-- Supporting coverage: samaa tv, ARY News
-- Keywords: LPG shipment, Port Qasim, liquefied petroleum gas, Pakistan energy, fuel imports, gas supply | hashtags: #LPG #PakistanEconomy #PortQasim #EnergyNews #Pakistan
-- Scheduled: Wed 18 Nov, 03:40 PM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045397/he-who-claims-equity-must-come-with-clean-hands-asif-hits-back-at-bilawal | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045397/he-who-claims-equity-must-come-with-clean-hands-asif-hits-back-at-bilawal
+- Supporting coverage: Dawn Pakistan, Dawn, The Express Tribune
+- Keywords: Khawaja Asif, Bilawal Bhutto Zardari, PML-N, PPP, coalition tensions, governance | hashtags: #KhawajaAsif #BilawalBhutto #PMLN #PPP #PakPolitics
+- Scheduled: Wed 18 Nov, 04:46 PM PKT
 - Caption:
 ```
-Pakistan has taken delivery of its largest-ever commercial LPG cargo, arriving with 15,000 metric tons at Port Qasim.
+Defence Minister Khawaja Asif responded sharply to PPP Chairman Bilawal Bhutto-Zardari, stating that those demanding equity must have clean hands.
 
-Pakistan has received a record-setting cargo of 15,000 tons of liquefied petroleum gas (LPG) at Port Qasim. The milestone shipment marks the country's largest single import consignment to date, providing a significant boost to national domestic and commercial gas supplies.
+Defence Minister Khawaja Asif criticized PPP Chairperson Bilawal Bhutto-Zardari following Bilawal's speech addressing constitutional tweaks, governance issues, and the creation of new provinces. Asif remarked that anyone claiming equity must come with clean hands, highlighting strains within the ruling coalition.
 
-پاکستان میں مائع پیٹرولیم گیس (ایل پی جی) کا اب تک کا سب سے بڑا 15 ہزار ٹن وزنی جہاز پورٹ قاسم پہنچ گیا ہے۔ اس تاریخی کنسائنمنٹ سے ملک میں گیس کی ترسیل اور طلب کو پورا کرنے میں بڑی مدد ملے گی۔
+وفاقی وزیر دفاع خواجہ آصف نے پی پی پی کے چیئرمین بلاول بھٹو زرداری کی حکومت پر تنقید کے جواب میں کہا ہے کہ انصاف کا مطالبہ کرنے والوں کے اپنے ہاتھ بھی صاف ہونے چاہئیں، جس سے حکومتی اتحاد میں بڑھتی ہوئی کشیدگی ظاہر ہوتی ہے۔
 
-First reported by samaa tv
+First reported by Dawn Pakistan.
 
-#LPG #PakistanEconomy #PortQasim #EnergyNews #Pakistan
+#KhawajaAsif #BilawalBhutto #PMLN #PPP #PakPolitics
 ```
 
-- Indian outlets blocked this run: 7 items
+- Indian outlets blocked this run: 10 items
 
 ## Today
-- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -261,10 +270,10 @@ First reported by samaa tv
 - [needs_review] normal | ICE Agents Shove and Pepper-Spray Pregnant Woman in US | Wed 18 Nov, 09:02 AM PKT
 - [needs_review] normal | Mary Peltola Flips Alaska Senate Seat in Democratic Win | Wed 18 Nov, 09:12 AM PKT
 - [published] normal | US Navy chief blasted over Iran war and sailor toll at hearing | Wed 18 Nov, 09:45 AM PKT
-- [queued] normal | Two killed in Balochistan's Zhob roadside blast | Wed 18 Nov, 09:55 AM PKT
-- [queued] normal | PTI questions Bilawal’s late realisation of people’s hardships | Wed 18 Nov, 10:05 AM PKT
-- [queued] normal | Balochistan MPs pledge resolution backing journalists | Wed 18 Nov, 10:15 AM PKT
-- [queued] normal | Saudi Firm Signs Pact To Explore $30 Billion Energy Infrastructure Dea | Wed 18 Nov, 10:49 AM PKT
+- [needs_review] normal | Two killed in Balochistan's Zhob roadside blast | Wed 18 Nov, 09:55 AM PKT
+- [needs_review] normal | PTI questions Bilawal’s late realisation of people’s hardships | Wed 18 Nov, 10:05 AM PKT
+- [needs_review] normal | Balochistan MPs pledge resolution backing journalists | Wed 18 Nov, 10:15 AM PKT
+- [published] normal | Saudi Firm Signs Pact To Explore $30 Billion Energy Infrastructure Dea | Wed 18 Nov, 10:49 AM PKT
 - [queued] normal | Global Apple Outage Disrupts Key Services Including iCloud And Apple P | Wed 18 Nov, 10:59 AM PKT
 - [queued] normal | Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Proj | Wed 18 Nov, 11:09 AM PKT
 - [queued] normal | Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar | Wed 18 Nov, 11:19 AM PKT
@@ -280,10 +289,14 @@ First reported by samaa tv
 - [queued] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
 - [queued] normal | Sri Lanka Fight Back Strongly to Reduce Pakistan to 221-7 in Second Te | Wed 18 Nov, 03:30 PM PKT
 - [queued] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
+- [queued] normal | Sindh Launches Online Portal for Domicile and PRC Applications | Wed 18 Nov, 04:36 PM PKT
+- [queued] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
 
 ## Publishing this run
-- Published 'US Navy chief blasted over Iran war and sailor toll at hearing'.
+- Published 'Saudi Firm Signs Pact To Explore $30 Billion Energy Infrastructure Deal In Pakistan'.
 
 ## Gemini usage
-- Calls: 1 | prompt tokens: 6040 | output tokens: 2497
-- Errors: 0
+- Calls: 3 | prompt tokens: 6462 | output tokens: 2445
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
