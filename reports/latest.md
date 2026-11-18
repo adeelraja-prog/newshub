@@ -1,32 +1,32 @@
-# News Hub report - Thu 19 Nov, 02:50 AM PKT
+# News Hub report - Thu 19 Nov, 03:41 AM PKT
 
 ## Collection
-- New items this run: 28 | items in rolling pool: 605
-- Unique story clusters: 528 (duplicates merged: 77)
-- Clusters dropped as already published/queued: 19; unchanged since last analysis: 1
-- Items per outlet: Geo News 4, Al Jazeera 3, The Express Tribune 3, TechCrunch 2, ARY News 1, X 1, The Guardian 1, The Verge 1, Engadget 1, Ars Technica 1, Wired 1, GSMArena 1
+- New items this run: 28 | items in rolling pool: 488
+- Unique story clusters: 431 (duplicates merged: 57)
+- Clusters dropped as already published/queued: 20; unchanged since last analysis: 1
+- Items per outlet: The Express Tribune 4, TechCrunch 3, Dawn 2, Dawn Latest 2, Geo News 2, Wired 2, Anadolu Ajansı 2, Al Jazeera 1, AP News 1, The Verge 1, Ars Technica 1, Pakistan Today 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Israeli military launches rare ground operation in Gaza beyond Yellow Line | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Putin’s nuclear briefcase makes surprise appearance at China summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Muslims projected to overtake Christians as world’s largest religious group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump and Putin to meet one-on-one in China Thursday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hakeem Jeffries becomes first Black nominee for US House speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US lawmakers push to raise minimum wage to $25, end tipped pay system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Floodwaters submerge cars and parking lots in Florida town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Israeli military launches rare ground operation in Gaza beyond Yellow Line | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Putin’s nuclear briefcase makes surprise appearance at China summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Muslims projected to overtake Christians as world’s largest religious group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump and Putin to meet one-on-one in China Thursday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hakeem Jeffries becomes first Black nominee for US House speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US lawmakers push to raise minimum wage to $25, end tipped pay system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Floodwaters submerge cars and parking lots in Florida town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Israeli military launches rare ground operation in Gaza beyond Yellow Line | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Putin’s nuclear briefcase makes surprise appearance at China summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Muslims projected to overtake Christians as world’s largest religious group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump and Putin to meet one-on-one in China Thursday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hakeem Jeffries becomes first Black nominee for US House speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US lawmakers push to raise minimum wage to $25, end tipped pay system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Floodwaters submerge cars and parking lots in Florida town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -35,106 +35,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Israeli military launches rare ground operation in Gaza beyond Yellow Line  [NORMAL]
-- Poster: اسرائیلی فوج کا غزہ میں نادر زمینی آپریشن، انخلاء کا حکم / Israeli army launches rare Gaza ground operation | category war
-- Alternative headline: IDF advances into central Gaza with tanks following new evacuation orders
+### Hakeem Jeffries becomes first Black nominee for US House speaker  [NORMAL]
+- Poster: حکیم جفعری امریکی ایوانِ نمائندگان کے پہلے سیاہ فام اسپیکر نامزد / Hakeem Jeffries First Black US House Speaker Nominee | category politics
+- Alternative headline: US Democrats nominate Hakeem Jeffries to be first Black House speaker
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, The Times of Israel
-- Keywords: Gaza operation, Israeli military, Yellow Line, Nuseirat, Hamas, ceasefire violation | hashtags: #Gaza #Israel #MiddleEast #Conflict #BreakingNews
-- Scheduled: Thu 19 Nov, 02:50 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss
+- Supporting coverage: Al Jazeera, Dawn Latest, BBC World, BBC
+- Keywords: Hakeem Jeffries, US House speaker, Democrats, Congress, US politics | hashtags: #HakeemJeffries #USPolitics #Democrats #USCongress
+- Scheduled: Thu 19 Nov, 03:41 AM PKT
 - Caption:
 ```
-Israeli ground forces have launched a rare operation in central Gaza outside their control, backed by tanks and artillery strikes.
+US Democrats have nominated New York congressman Hakeem Jeffries to become the first Black speaker of the House.
 
-Israeli ground forces have launched a rare military operation in central Gaza outside their controlled areas, advancing with tanks near Nuseirat refugee camp. The operation, aimed at dismantling a tunnel, follows evacuation orders. Hamas condemned the move as a flagrant violation of the ceasefire.
+The New York congressman was nominated after Democrats gained control of Congress in the midterm elections, marking a historic milestone as the first Black nominee for US House speaker.
 
-اسرائیلی زمینی افواج نے وسطی غزہ میں ایک نادر فوجی آپریشن شروع کر دیا ہے، جہاں ٹینک نصيرات مہاجرین کیمپ کے قریب آگے بڑھ رہے ہیں۔ حماس نے اس اقدام کو سیز فائر کی خلاف ورزی قرار دیا ہے۔
+نیویارک سے تعلق رکھنے والے کانگریس مین حکیم جیفری کو مڈٹرم انتخابات میں ڈیموکریٹس کی جانب سے کانگریس پر کنٹرول حاصل کرنے کے بعد امریکی ایوانِ نمائندگان کے اسپیکر کے لیے نامزد کیا گیا ہے۔
 
-According to BBC World, Israeli ground forces launched a rare operation in central Gaza.
+First reported by Al Jazeera
 
-#Gaza #Israel #MiddleEast #Conflict #BreakingNews
+#HakeemJeffries #USPolitics #Democrats #USCongress
 ```
 
-### Putin’s nuclear briefcase makes surprise appearance at China summit  [NORMAL]
-- Poster: پوتن کا جوہری بریف کیس چین میں سربراہی اجلاس کے دوران دیکھا گیا / Putin's nuclear briefcase spotted at China summit | category politics
-- Alternative headline: Russian President Putin spotted with nuclear briefcase during APEC summit in China
+### Pakistan mango exports plunge 36pc amid US-Iran war shipping disruptions  [NORMAL]
+- Poster: امریکہ ایران جنگ کے باعث پاکستان کی آم کی برآمدات میں 36 فیصد کمی / Pakistan Mango Exports Drop 36pc Amid US-Iran War | category economy
+- Alternative headline: Pakistan's mango exports fall 36pc as US-Iran conflict spikes freight costs
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association
+- Supporting coverage: Dawn Latest, Dawn
+- Keywords: mango exports, US-Iran war, Strait of Hormuz, freight rates, Pakistan economy | hashtags: #MangoExports #PakistanEconomy #USIranWar #StraitOfHormuz
+- Scheduled: Thu 19 Nov, 03:51 AM PKT
+- Caption:
+```
+Pakistan's mango exports fell 36 per cent this year as the US-Iran war disrupted shipping routes and drove up freight costs.
+
+According to the All Pakistan Fruit and Vegetables Exporters Association, Pakistan exported 78,000 tonnes of mangoes this year compared to 123,000 tonnes last year. The decline is attributed to the US-Iran war, closure of the Strait of Hormuz, and soaring freight rates.
+
+آل پاکستان فروٹ اینڈ ویجیٹیبلز ایکسپورٹرز ایسوسی ایشن کے مطابق، امریکہ ایران جنگ کے باعث بحری راستوں کی بندش اور فریٹ چارجز میں اضافے کی وجہ سے پاکستان کی آم کی برآمدات اس سال 36 فیصد کم ہو کر 78,000 ٹن رہ گئیں۔
+
+According to Dawn Latest
+
+#MangoExports #PakistanEconomy #USIranWar #StraitOfHormuz
+```
+
+### US lawmakers push to raise minimum wage to $25 and end tipped pay  [NORMAL]
+- Poster: امریکی قانون سازوں کی کم از کم اجرت 25 ڈالر کرنے کی کوشش / US Lawmakers Push $25 Minimum Wage | category economy
+- Alternative headline: US lawmakers push to raise minimum wage to $25, end tipped pay system
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Putin nuclear briefcase, Vladimir Putin, APEC summit, China, Russia, nuclear codes | hashtags: #Putin #Russia #China #APEC #NuclearBriefcase
-- Scheduled: Thu 19 Nov, 03:00 AM PKT
+- Keywords: minimum wage, US lawmakers, tipped pay system, economy, voters | hashtags: #MinimumWage #USEconomy #USLawmakers #LaborRights
+- Scheduled: Thu 19 Nov, 04:01 AM PKT
 - Caption:
 ```
-Russian President Vladimir Putin’s nuclear briefcase was spotted in a surprise appearance at the APEC summit in China.
+Public support for raising the minimum wage grows as US lawmakers push to raise it to $25.
 
-Russian President Vladimir Putin’s nuclear briefcase made a surprise and notable appearance during the APEC summit in China. The sighting drew international attention as world leaders gathered to discuss global cooperation and multipolar world orders.
+US lawmakers are pushing to raise the minimum wage to $25 and end the tipped pay system, as public support grows with 78 percent of voters calling it an important election issue.
 
-روسی صدر ولادیمیر پوتن کا جوہری بریف کیس چین میں اے پیک سربراہی اجلاس کے دوران غیر متوقع طور پر دیکھا گیا۔ اس منظر نے عالمی رہنماؤں کی توجہ مبذول کرائی۔
+امریکی قانون ساز کم از کم اجرت کو بڑھا کر 25 ڈالر کرنے اور ٹپ پر مبنی تنخواہ کے نظام کو ختم کرنے کی کوشش کر رہے ہیں، جبکہ 78 فیصد ووٹرز اسے ایک اہم انتخابی مسئلہ قرار دے رہے ہیں۔
 
-First reported by Al Jazeera; also reported by Al Jazeera.
+First reported by Al Jazeera
 
-#Putin #Russia #China #APEC #NuclearBriefcase
+#MinimumWage #USEconomy #USLawmakers #LaborRights
 ```
 
-### Muslims projected to overtake Christians as world’s largest religious group  [NORMAL]
-- Poster: مسلمان دنیا کا سب سے بڑا مذہبی گروہ بننے کی طرف گامزن / Muslims projected to become world's largest religious group | category world
-- Alternative headline: Pew Research study predicts Muslims will become world's largest religious group by 2070
+### Floodwaters submerge cars and parking lots in Florida town  [NORMAL]
+- Poster: فلوریڈا کے شہر میں شدید سیلابی پانی میں گاڑیاں ڈوب گئیں / Floodwaters Submerge Cars in Florida Town | category disaster
+- Alternative headline: Severe flooding turns streets and parking lots into rivers in Florida
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Muslims population projection, Pew Research Center, Christians, world religion, demographics, 2070 | hashtags: #Islam #Christianity #Demographics #PewResearch #WorldNews
-- Scheduled: Thu 19 Nov, 03:10 AM PKT
+- Keywords: floodwaters, Florida, Davie, flooding, cars submerged | hashtags: #FloridaFlooding #Floodwaters #Weather #BreakingNews
+- Scheduled: Thu 19 Nov, 04:11 AM PKT
 - Caption:
 ```
-New Pew Research Center projections point to major demographic changes in the world’s religious landscape by 2070.
+Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.
 
-New projections from the Pew Research Center indicate significant shifts in the global religious landscape. According to the data, Muslims are projected to eventually overtake Christians as the world’s largest religious group by the year 2070 due to demographic trends.
+Floodwaters submerged cars and parking lots, turning streets into rivers in Davie, Florida, and leaving drivers facing dangerous conditions.
 
-پیو ریسرچ سینٹر کی نئی پیشگوئیوں کے مطابق دنیا کے مذہبی منظرنامے میں بڑی تبدیلیاں متوقع ہیں۔ اعداد و شمار بتاتے ہیں کہ مسلمان آبادی کے رجحانات کی بنیاد پر عیسائیوں کو پیچھے چھوڑ سکتے ہیں۔
+فلوریڈا کے علاقے ڈیوی میں سیلابی پانی نے سڑکوں اور پارکنگ لاٹس کو دریا میں تبدیل کر دیا، جس سے گاڑیاں پانی میں ڈوب گئیں اور ڈرائیورز کو شدید خطرات کا سامنا کرنا پڑا۔
 
-First reported by Al Jazeera; also reported by Al Jazeera.
+First reported by Al Jazeera
 
-#Islam #Christianity #Demographics #PewResearch #WorldNews
-```
-
-### US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal  [NORMAL]
-- Poster: امریکی قانون سازوں کی نویڈیا اسکینڈل پر لٹنک کے خلاف تحقیقات شروع / US lawmakers launch probe into Lutnick amid Nvidia scandal | category politics
-- Alternative headline: Commerce Secretary Lutnick faces US congressional investigation over Megaspeed trade blacklist omission
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Lutnick probe, US lawmakers, Nvidia scandal, Megaspeed, trade blacklist, conflict of interest | hashtags: #USPolitics #Nvidia #CommerceSecretary #Investigation #Trade
-- Scheduled: Thu 19 Nov, 03:20 AM PKT
-- Caption:
-```
-US lawmakers have launched a formal probe into Commerce Secretary Lutnick following allegations of a conflict of interest.
-
-US lawmakers have initiated a congressional probe into Commerce Secretary Lutnick amid a growing Nvidia-related scandal. A leaked letter alleges potential conflicts of interest regarding the decision not to add Megaspeed to the United States trade blacklist.
-
-امریکی قانون سازوں نے کامرس سیکرٹری لٹنک کے خلاف تنازعہ مفادات کے الزامات پر باضابطہ تحقیقات کا آغاز کر دیا ہے، جو کہ نویڈیا اسکینڈل سے جڑی ہوئی ہیں۔
-
-First reported by Al Jazeera; also reported by Al Jazeera.
-
-#USPolitics #Nvidia #CommerceSecretary #Investigation #Trade
+#FloridaFlooding #Floodwaters #Weather #BreakingNews
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 13
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -337,8 +337,8 @@ First reported by Al Jazeera; also reported by Al Jazeera.
 - [needs_review] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
 - [published] normal | Pakistan mediation in US-Iran war will fail without Washington clarity | Wed 18 Nov, 08:56 PM PKT
 - [published] normal | Trump's Board of Peace faults Israel and Hamas over Gaza war | Wed 18 Nov, 09:06 PM PKT
-- [queued] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
-- [queued] normal | Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan | Wed 18 Nov, 10:57 PM PKT
+- [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
+- [published] normal | Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan | Wed 18 Nov, 10:57 PM PKT
 - [queued] normal | Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim | Wed 18 Nov, 11:07 PM PKT
 - [queued] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
 - [queued] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
@@ -350,18 +350,18 @@ First reported by Al Jazeera; also reported by Al Jazeera.
 - [queued] normal | Putin’s nuclear briefcase makes surprise appearance at China summit | Thu 19 Nov, 03:00 AM PKT
 - [queued] normal | Muslims projected to overtake Christians as world’s largest religious  | Thu 19 Nov, 03:10 AM PKT
 - [queued] normal | US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | Thu 19 Nov, 03:20 AM PKT
+- [queued] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Thu 19 Nov, 03:41 AM PKT
+- [queued] normal | Pakistan mango exports plunge 36pc amid US-Iran war shipping disruptio | Thu 19 Nov, 03:51 AM PKT
+- [queued] normal | US lawmakers push to raise minimum wage to $25 and end tipped pay | Thu 19 Nov, 04:01 AM PKT
+- [queued] normal | Floodwaters submerge cars and parking lots in Florida town | Thu 19 Nov, 04:11 AM PKT
 
 ## Publishing this run
-- Published 'Trump's Board of Peace faults Israel and Hamas over Gaza war'.
+- Published 'Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4465 | output tokens: 2308
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
+- Calls: 2 | prompt tokens: 4818 | output tokens: 2509
+- Errors: 1
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

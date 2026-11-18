@@ -68982,7 +68982,362 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b0319203e66d710f044e50b2",
+      "remembered_at": "2026-11-18T22:41:55.913103+00:00",
+      "event_date": "2026-11-18T19:51:06+00:00",
+      "last_update": "2026-11-18T19:51:06+00:00",
+      "event": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "36pc",
+        "according",
+        "all",
+        "amid",
+        "and",
+        "association",
+        "cent",
+        "compared",
+        "costs",
+        "country",
+        "disrupted",
+        "drove",
+        "exported",
+        "exporters",
+        "exports",
+        "fall",
+        "fell",
+        "figures",
+        "freight",
+        "fruit",
+        "industry",
+        "iran",
+        "mango",
+        "mangoes",
+        "pakistan",
+        "per",
+        "routes",
+        "shipping",
+        "showed",
+        "the",
+        "this",
+        "tonnes",
+        "vegetables",
+        "war",
+        "wednesday",
+        "with",
+        "year"
+      ],
+      "source_excerpt": "Pakistan’s mango exports fell 36 per cent this year as the US-Iran war disrupted shipping routes and drove up freight costs, industry figures showed Wednesday. According to All Pakistan Fruit and Vegetables Exporters Association, the country exported 78,000 tonnes of mangoes this year, compared with",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association",
+          "published_at": "2026-11-18T19:51:06+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFJfVFgxd3lSbFR3eE1TZ25UeXpDbGVISW1rV3FrWDcxeGhQRURabnpPUXlMMG1fWGhHclRhVU90VzZyQ3FXeTZ0bkJ3bnpLdUlDei04NldFZWJaV1RZVWZiR0NDR1hyTndyTmhDaUo4YnotYmVxSHo3b3FCWVNONVpWUVdmeHdWVnVpWHc2U0pzMUloWnFMVjJqWm1sTkNqdVA4TDBUNGMyZw?oc=5",
+          "published_at": "2026-11-18T19:51:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association",
+        "publisher_url": "https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2dcd20b7afc6ee6e29c3bd13",
+      "remembered_at": "2026-11-18T22:41:55.913103+00:00",
+      "event_date": "2026-11-18T21:53:17+00:00",
+      "last_update": "2026-11-18T21:53:17+00:00",
+      "event": "Iraq sentences six French nationals to life in prison for joining ISIL",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "began",
+        "citizens",
+        "for",
+        "french",
+        "from",
+        "iraq",
+        "isil",
+        "joining",
+        "last",
+        "life",
+        "nationals",
+        "prison",
+        "sentences",
+        "september",
+        "six",
+        "syria",
+        "transferred",
+        "trials",
+        "were",
+        "who",
+        "year"
+      ],
+      "source_excerpt": "Trials began in September for 47 French citizens who were transferred from Syria last year.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+          "published_at": "2026-11-18T21:53:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f36600ff94ab8fe39f056517",
+      "remembered_at": "2026-11-18T22:41:55.913103+00:00",
+      "event_date": "2026-11-18T22:32:47+00:00",
+      "last_update": "2026-11-18T22:32:47+00:00",
+      "event": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "catherine",
+        "day",
+        "hospital",
+        "last",
+        "maternity",
+        "mumbai",
+        "royal",
+        "the",
+        "trip",
+        "visits"
+      ],
+      "source_excerpt": "Catherine visits Mumbai maternity hospital on the last day of royal trip BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xalJIY1VYSlZFOFZmRmlRTjNJS2hNQ3RQd2lCNE1KRDE5ODNwaUhIUFQ3RnRXLXJjOVlpYTVVbWtoT0w3NGdjbnN3ZVpBWWRZUmFnbnNOU3g?oc=5",
+          "published_at": "2026-11-18T22:32:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xalJIY1VYSlZFOFZmRmlRTjNJS2hNQ3RQd2lCNE1KRDE5ODNwaUhIUFQ3RnRXLXJjOVlpYTVVbWtoT0w3NGdjbnN3ZVpBWWRZUmFnbnNOU3g?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "572be18cbfd3d1f1a2b324b6",
+      "remembered_at": "2026-11-18T22:41:55.913103+00:00",
+      "event_date": "2026-11-18T22:23:12+00:00",
+      "last_update": "2026-11-18T22:23:12+00:00",
+      "event": "Cummins defiant as 'Sandpapergate' roils Australian cricket",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australian",
+        "cricket",
+        "cummins",
+        "dawn",
+        "defiant",
+        "roils",
+        "sandpapergate"
+      ],
+      "source_excerpt": "Cummins defiant as 'Sandpapergate' roils Australian cricket Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnZ5S1VTTC1SS1ZBa3ZGeVd5QWdSa2tLOFhZR0FhTG01OGF3YlhOV0ExS2hzdjFIUVhaaE5uVW9Na2FYdGtGQUVFOXpSOXVQM3RxSDBxYUhtd3pwS3NUUXRHYmZTU2pCc21DZnZ5MjNvMk9uMXVqMVdKcHJIOXlfVVJzMEFWeU9kSV9IWVVJTWtGRk5mMmc?oc=5",
+          "published_at": "2026-11-18T22:23:12+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045533/cummins-defiant-as-sandpapergate-roils-australian-cricket",
+          "published_at": "2026-11-18T22:23:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnZ5S1VTTC1SS1ZBa3ZGeVd5QWdSa2tLOFhZR0FhTG01OGF3YlhOV0ExS2hzdjFIUVhaaE5uVW9Na2FYdGtGQUVFOXpSOXVQM3RxSDBxYUhtd3pwS3NUUXRHYmZTU2pCc21DZnZ5MjNvMk9uMXVqMVdKcHJIOXlfVVJzMEFWeU9kSV9IWVVJTWtGRk5mMmc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8509ab61e3f11a18e02d5114",
+      "remembered_at": "2026-11-18T22:41:55.913103+00:00",
+      "event_date": "2026-11-18T22:09:30+00:00",
+      "last_update": "2026-11-18T22:09:30+00:00",
+      "event": "Alcaraz reaches ATP Finals last four with help from Tiafoe",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alcaraz",
+        "atp",
+        "dawn",
+        "finals",
+        "four",
+        "from",
+        "help",
+        "last",
+        "reaches",
+        "tiafoe",
+        "with"
+      ],
+      "source_excerpt": "Alcaraz reaches ATP Finals last four with help from Tiafoe Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFBwSi1QTy1jdTdxaF8zOXVvd2MxWHN1YjB1elZmSkRTUDM2RFVZclZKYkdMYmJBVENQNUpLdlFra095b0RFckFTTm1QOHNvOHhrZF8xeEpyaE5DbzkyMFNwR0VfVzFiR0xPMWxTTWhUazZtaERtMGJJYk9XdTZKUHJRV3FWYUJLNWhwVFhGM3BXa0xScTdV?oc=5",
+          "published_at": "2026-11-18T22:09:30+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045519/alcaraz-reaches-atp-finals-last-four-with-help-from-tiafoe",
+          "published_at": "2026-11-18T22:09:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFBwSi1QTy1jdTdxaF8zOXVvd2MxWHN1YjB1elZmSkRTUDM2RFVZclZKYkdMYmJBVENQNUpLdlFra095b0RFckFTTm1QOHNvOHhrZF8xeEpyaE5DbzkyMFNwR0VfVzFiR0xPMWxTTWhUazZtaERtMGJJYk9XdTZKUHJRV3FWYUJLNWhwVFhGM3BXa0xScTdV?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d23fbfccb517a723233d7840",
+      "remembered_at": "2026-11-18T22:41:55.913103+00:00",
+      "event_date": "2026-11-18T22:27:58+00:00",
+      "last_update": "2026-11-18T22:27:58+00:00",
+      "event": "Pakistan projected to overtake Indonesia as home to world's largest Muslim population by 2070",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2070",
+        "geo",
+        "home",
+        "indonesia",
+        "largest",
+        "muslim",
+        "news",
+        "overtake",
+        "pakistan",
+        "population",
+        "projected",
+        "world"
+      ],
+      "source_excerpt": "Pakistan projected to overtake Indonesia as home to world's largest Muslim population by 2070 Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjRmWkRXbDBxLTh4bDRpdUJ5OGVGWEdwWG00WmlIRDU3OTlDWldPempnby1ITTd2djh1Z0M4V2x2M0xlNS10Rld0bThmRGx3dFd1bGpsVWpVX0d3Y0pjcnNvMWJkdXBYYTlrWjFrMUIwVUVmOXQ3ZFpIdmxSVE1wZ1JueDRwcVR2V3hlOFlianhHOERaYXBMeUpSNmM3Vlk3YjE0NmhyU3lHVUg1YUhxS2s4U0NjazBXTVoxakpsVXZfbXM?oc=5",
+          "published_at": "2026-11-18T22:27:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjRmWkRXbDBxLTh4bDRpdUJ5OGVGWEdwWG00WmlIRDU3OTlDWldPempnby1ITTd2djh1Z0M4V2x2M0xlNS10Rld0bThmRGx3dFd1bGpsVWpVX0d3Y0pjcnNvMWJkdXBYYTlrWjFrMUIwVUVmOXQ3ZFpIdmxSVE1wZ1JueDRwcVR2V3hlOFlianhHOERaYXBMeUpSNmM3Vlk3YjE0NmhyU3lHVUg1YUhxS2s4U0NjazBXTVoxakpsVXZfbXM?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d195731f7a67d4457ab6ef39",
+      "remembered_at": "2026-11-18T22:41:55.913103+00:00",
+      "event_date": "2026-11-18T22:18:45+00:00",
+      "last_update": "2026-11-18T22:18:45+00:00",
+      "event": "Foreign firms repatriate $1.16b out of Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "16b",
+        "express",
+        "firms",
+        "foreign",
+        "out",
+        "pakistan",
+        "repatriate",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Foreign firms repatriate $1.16b out of Pakistan The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlaMWhWSVpKM3JEeHFudHk3VndQSXk5bkJXcENJcWN5cGxWMlBENzMtWjJDOGFmQURWN1ZTNFBrQUR3QXZkSzBuYUZqSjh3bllCallrVmhTOXB2Qk1ZaUNUQURteHUtM3Q3RndUdy0tQ0hsZVRxTjlkS0ZtbEROZDFDWDJ1cE9QcFHSAZIBQVVfeXFMTUFTNUdzT1gwRVYyVnM4dXJiTnV1V2lKN1ZRSmJJZHlOZGk0T3libWJaRURISWcyMkJybUFBX1JSalNJUkQ0LTc3Sks2SjV5VVRnbnBRanNIT0NRSmgyREZpLTlhb01WZm90QVYycU5jR01jRk5Eck1MTXVLSkZNWE9STXJEQm1CZVpEaEcxNTZ0MHc?oc=5",
+          "published_at": "2026-11-18T22:18:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlaMWhWSVpKM3JEeHFudHk3VndQSXk5bkJXcENJcWN5cGxWMlBENzMtWjJDOGFmQURWN1ZTNFBrQUR3QXZkSzBuYUZqSjh3bllCallrVmhTOXB2Qk1ZaUNUQURteHUtM3Q3RndUdy0tQ0hsZVRxTjlkS0ZtbEROZDFDWDJ1cE9QcFHSAZIBQVVfeXFMTUFTNUdzT1gwRVYyVnM4dXJiTnV1V2lKN1ZRSmJJZHlOZGk0T3libWJaRURISWcyMkJybUFBX1JSalNJUkQ0LTc3Sks2SjV5VVRnbnBRanNIT0NRSmgyREZpLTlhb01WZm90QVYycU5jR01jRk5Eck1MTXVLSkZNWE9STXJEQm1CZVpEaEcxNTZ0MHc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T21:50:21.501379+00:00"
+  "updated_at": "2026-11-18T22:41:55.913103+00:00"
 }
