@@ -62004,7 +62004,643 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9ad7419bb1678a5c5d12f04e",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T09:59:17+00:00",
+      "last_update": "2026-11-18T10:06:25+00:00",
+      "event": "Bancroft says 'whole team' knew about 'Sandpapergate'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "arynews",
+        "bancroft",
+        "knew",
+        "sandpapergate",
+        "says",
+        "team",
+        "whole"
+      ],
+      "source_excerpt": "Bancroft says 'whole team' knew about 'Sandpapergate' ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zMnc0RVVJd3A4ZDhHNzhaWFFLSmJyWW1RTEVRM2FJWTlVTGVReGZ6ZkxHUnFCLXlBYVdSNkNmX2NYcFprSDhiZ19mXzRmZ09aaWQ4eTdSR19naDlxMTJ5bGxGbHVPV180WnFSNklsVFB1YzdaT0c4?oc=5",
+          "published_at": "2026-11-18T09:59:17+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/bancroft-says-whole-team-knew-about-sandpapergate",
+          "published_at": "2026-11-18T09:59:17+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0x5cTh1VmZJRHV5Ul9fZS1qUmlOaHBnU0RObTNlRnNrUWV4eGtldXdOSU0ySlZPMzBXcHY4OVVhS0x4Z1U5QWlVWmpQOFZma2h3RjNKNzFpZk5LQ295c0VjZ1pHOTRCMTV2ZVo0elI1bXh6cHdYOWxlcWdpaXp0TmV2b2JXdWZ6TDJUZVFWWk5TQ0tkSHdIMDB3?oc=5",
+          "published_at": "2026-11-18T10:06:25+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045413/australias-bancroft-says-whole-team-knew-about-sandpapergate",
+          "published_at": "2026-11-18T10:06:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zMnc0RVVJd3A4ZDhHNzhaWFFLSmJyWW1RTEVRM2FJWTlVTGVReGZ6ZkxHUnFCLXlBYVdSNkNmX2NYcFprSDhiZ19mXzRmZ09aaWQ4eTdSR19naDlxMTJ5bGxGbHVPV180WnFSNklsVFB1YzdaT0c4?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2efcb6326c85b0b572e5a9ca",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T09:36:29+00:00",
+      "last_update": "2026-11-18T09:57:51+00:00",
+      "event": "Pakistan receives largest-ever LPG shipment of 15,000 tons",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "ever",
+        "largest",
+        "lpg",
+        "pakistan",
+        "receives",
+        "samaa",
+        "shipment",
+        "tons"
+      ],
+      "source_excerpt": "Pakistan receives largest-ever LPG shipment of 15,000 tons samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkRiZFhiMHRNdEwwUFA4cFJNVUFIZkRqdW02UVhESkYwMmxkSksyN3laV0x0UnBOMEdTRWFqYlNvbEtjZDQwTjBIa21ZNldOREN1NGFHanpqMkFXeVlvaHhvX0pmU1A3aTJCbXhlTTNXMUdCY1cxZkhLNDJ0MzhKWjRJUUdoeVhvNFdjeVh0WFZHc0ZV?oc=5",
+          "published_at": "2026-11-18T09:36:29+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-receives-largest-ever-15000-tonne-lpg-shipment",
+          "published_at": "2026-11-18T09:57:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkRiZFhiMHRNdEwwUFA4cFJNVUFIZkRqdW02UVhESkYwMmxkSksyN3laV0x0UnBOMEdTRWFqYlNvbEtjZDQwTjBIa21ZNldOREN1NGFHanpqMkFXeVlvaHhvX0pmU1A3aTJCbXhlTTNXMUdCY1cxZkhLNDJ0MzhKWjRJUUdoeVhvNFdjeVh0WFZHc0ZV?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eed8915ac96b2c160cb25147",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T09:42:26+00:00",
+      "last_update": "2026-11-18T09:42:26+00:00",
+      "event": "What do Deutsche Bank leaks reveal about Trump, Epstein and Russia?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "amid",
+        "and",
+        "bank",
+        "deutsche",
+        "elites",
+        "epstein",
+        "expose",
+        "financial",
+        "global",
+        "leaks",
+        "misconduct",
+        "over",
+        "past",
+        "reveal",
+        "russia",
+        "scrutiny",
+        "ties",
+        "trump",
+        "what"
+      ],
+      "source_excerpt": "Deutsche Bank leaks expose ties to Trump, Epstein, and global elites amid scrutiny over past financial misconduct.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia?traffic_source=rss",
+          "published_at": "2026-11-18T09:42:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "306c8367fb9c19f44d73e1cb",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T09:31:18+00:00",
+      "last_update": "2026-11-18T09:38:25+00:00",
+      "event": "Piecemeal wars: A new kind of world war is already under way",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "already",
+        "are",
+        "conflicts",
+        "increasingly",
+        "interests",
+        "kind",
+        "linked",
+        "new",
+        "piecemeal",
+        "powers",
+        "regional",
+        "rival",
+        "separate",
+        "the",
+        "under",
+        "war",
+        "wars",
+        "way",
+        "world"
+      ],
+      "source_excerpt": "Separate regional conflicts are increasingly linked by the interests of rival powers.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss",
+          "published_at": "2026-11-18T09:31:18+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU3NpakNYbGwxSGdzM1lsZ1dyOWh4cTNRcWFRT2U0enNYMzBIbWxidGdWM0N3X1BKay1fcmFpdjhYWFFSYzRtTC1ydmJHaE0xMDZhQ0RlTG11M1p0U3lRWTF6M2JBM01UV0NyYWlLVjNWTy1vMVR0ZVhYdS04eE1xeGZsN2huNk1tWlhfa1d6QnRwZl9MTHEtRmRwbkVwLThEY2QtTG1NRjPSAa4BQVVfeXFMT2d4VGp4LUs1N1dsdkE1NVVILXZ0TzFTbHROakZIMW9jcjVKNGxoSldhempYRlVtMmJtNVpJYXViOVZqd1BLekJxZUtfaURtR2tBYkY5UDE0ZEVYcWN2Q3F1a0hyRnlEeXZxVmNNamJlU1A5TEVqMWZGb0M2bDNOa21JVWJjQmhMSk9xZi1jSU1mOTMwbFNJNHVqeGhzOGFSN2pwdFdqT0ZUYV9GSHBn?oc=5",
+          "published_at": "2026-11-18T09:38:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "12d61dc9fb7055177b54412f",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T09:30:01+00:00",
+      "last_update": "2026-11-18T09:30:01+00:00",
+      "event": "As Trump arrives in China, low expectations for breakthroughs in rivalry",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "analysts",
+        "apec",
+        "arrives",
+        "between",
+        "breakthroughs",
+        "china",
+        "concrete",
+        "expect",
+        "expectations",
+        "few",
+        "for",
+        "from",
+        "leaders",
+        "low",
+        "outcomes",
+        "rivalry",
+        "sidelines",
+        "summit",
+        "talks",
+        "the",
+        "trump"
+      ],
+      "source_excerpt": "Analysts expect few concrete outcomes from talks between the leaders on the sidelines of the APEC summit.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
+          "published_at": "2026-11-18T09:30:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d1c8a6516cb2664375c2bf16",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T09:23:38+00:00",
+      "last_update": "2026-11-18T09:23:38+00:00",
+      "event": "Photos: Thousands march in Haiti in support of Salvadoran troops",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bukele",
+        "country",
+        "fighting",
+        "for",
+        "gangs",
+        "haiti",
+        "haitians",
+        "his",
+        "march",
+        "nayib",
+        "photos",
+        "praise",
+        "salvador",
+        "salvadoran",
+        "soldiers",
+        "streets",
+        "support",
+        "take",
+        "the",
+        "their",
+        "thousands",
+        "troops"
+      ],
+      "source_excerpt": "Haitians take to the streets to praise El Salvador’s Nayib Bukele and his soldiers for fighting gangs in their country.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-thousands-march-in-haiti-in-support-of-salvadoran-troops?traffic_source=rss",
+          "published_at": "2026-11-18T09:23:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-thousands-march-in-haiti-in-support-of-salvadoran-troops?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/gallery/2026/11/18/photos-thousands-march-in-haiti-in-support-of-salvadoran-troops?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4471f9a996679cd04c98fdc2",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T09:28:35+00:00",
+      "last_update": "2026-11-18T09:28:35+00:00",
+      "event": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "11m",
+        "and",
+        "began",
+        "british",
+        "buchanan",
+        "dundee",
+        "for",
+        "from",
+        "group",
+        "hacker",
+        "hacking",
+        "jailed",
+        "member",
+        "message",
+        "notorious",
+        "scattered",
+        "scheme",
+        "six",
+        "spider",
+        "stole",
+        "teenager",
+        "text",
+        "the",
+        "through",
+        "tyler",
+        "was",
+        "when",
+        "who",
+        "years"
+      ],
+      "source_excerpt": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T09:28:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "836a335144cb440d2ed454ae",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T09:40:50+00:00",
+      "last_update": "2026-11-18T09:40:50+00:00",
+      "event": "Ishaq Dar directs sugar price stability across domestic markets",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "arynews",
+        "dar",
+        "directs",
+        "domestic",
+        "ishaq",
+        "markets",
+        "price",
+        "stability",
+        "sugar"
+      ],
+      "source_excerpt": "Ishaq Dar directs sugar price stability across domestic markets ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFdVbVdEZkdzM1ZtMEIxZXVxSDN4dkFJLW5rMmxkRU9XaGh0YnQ4T3NzWnQ4WWxaZlF6Y0hzUUJzM05saDRBTFRnMHBiYzBJbjZWUFRiOURFWGVyQks5VkhrSXFrS2tmbXFQVlpyTUVlbHBYb2FCQTNvWmJVSUs2UVRGbHJlSEpLdkE?oc=5",
+          "published_at": "2026-11-18T09:40:50+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/ishaq-dar-directs-sugar-price-stability-across-domestic-markets",
+          "published_at": "2026-11-18T09:40:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFdVbVdEZkdzM1ZtMEIxZXVxSDN4dkFJLW5rMmxkRU9XaGh0YnQ4T3NzWnQ4WWxaZlF6Y0hzUUJzM05saDRBTFRnMHBiYzBJbjZWUFRiOURFWGVyQks5VkhrSXFrS2tmbXFQVlpyTUVlbHBYb2FCQTNvWmJVSUs2UVRGbHJlSEpLdkE?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "98617a7957ea9761c21ac869",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T06:08:28+00:00",
+      "last_update": "2026-11-18T06:08:28+00:00",
+      "event": "Anne Hathaway welcomes baby No 3 with husband Adam Shulman",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adam",
+        "anne",
+        "baby",
+        "hathaway",
+        "husband",
+        "samaa",
+        "shulman",
+        "welcomes",
+        "with"
+      ],
+      "source_excerpt": "Anne Hathaway welcomes baby No 3 with husband Adam Shulman samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTlUeklXa2hxQkMzTU42OWM2eURncHJOdGZ3dDdYaENVelVGUXlreHFOT0k2TUxSQ05Kb3hYWnUwMDVQS1g5eEIzYUZVbWJpM3RoODZib090ei1oUV9QNk9xZnVNcllyOWNvSE5IdURXY1VZNzRRSUl3M0JVZEJjTk44RXJ6eGp5eDhDa2JsTlB1N0M1?oc=5",
+          "published_at": "2026-11-18T06:08:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTlUeklXa2hxQkMzTU42OWM2eURncHJOdGZ3dDdYaENVelVGUXlreHFOT0k2TUxSQ05Kb3hYWnUwMDVQS1g5eEIzYUZVbWJpM3RoODZib090ei1oUV9QNk9xZnVNcllyOWNvSE5IdURXY1VZNzRRSUl3M0JVZEJjTk44RXJ6eGp5eDhDa2JsTlB1N0M1?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5d32dffd4138bd48eaa59349",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T08:39:22+00:00",
+      "last_update": "2026-11-18T08:39:22+00:00",
+      "event": "Lahore once again tops list of world's most polluted major cities, with AQI crossing 300",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "300",
+        "339",
+        "according",
+        "again",
+        "air",
+        "also",
+        "aqi",
+        "cities",
+        "city",
+        "crossing",
+        "for",
+        "global",
+        "hazardous",
+        "index",
+        "iqair",
+        "its",
+        "lahore",
+        "levels",
+        "list",
+        "live",
+        "major",
+        "most",
+        "once",
+        "other",
+        "polluted",
+        "pollution",
+        "punjab",
+        "quality",
+        "ranking",
+        "reaching",
+        "recorded",
+        "returned",
+        "several",
+        "the",
+        "top",
+        "tops",
+        "wednesday",
+        "with",
+        "world"
+      ],
+      "source_excerpt": "LAHORE: Lahore returned to the top of the list of the world’s most polluted major cities on Wednesday, with its Air Quality Index (AQI) reaching 339, as several other cities in Punjab also recorded hazardous levels of air pollution, according to IQAir. The IQAir live global major city ranking for 10",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045395/lahore-once-again-tops-list-of-worlds-most-polluted-major-cities-with-aqi-crossing-300",
+          "published_at": "2026-11-18T08:39:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045395/lahore-once-again-tops-list-of-worlds-most-polluted-major-cities-with-aqi-crossing-300",
+        "publisher_url": "https://www.dawn.com/news/2045395/lahore-once-again-tops-list-of-worlds-most-polluted-major-cities-with-aqi-crossing-300",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5eabc961cbbe50f7a288922b",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T08:42:40+00:00",
+      "last_update": "2026-11-18T08:42:40+00:00",
+      "event": "Ali Zafar says Javed Akhtar’s remarks about Pakistan were wrong",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "akhtar",
+        "ali",
+        "javed",
+        "pakistan",
+        "remarks",
+        "samaa",
+        "says",
+        "were",
+        "wrong",
+        "zafar"
+      ],
+      "source_excerpt": "Ali Zafar says Javed Akhtar’s remarks about Pakistan were wrong samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc1hHdUtNNzRVaHJrdDN1UnR2bTBjX1VDYVR0R0RMNlRoZkJKbzRFMFRVTmRZVm9iZkhGcEFkSm5GYkYxVmVVNEg1RWU4b24yN25Oc0RCZ19OQ1JHdWlISEpqa3hLMXZZZl9CcjhKZXFvZm9EVlpDT29zYm13XzlEUkpiRHEtMnhUQkMtaGNoeWhOV1RNXzE3a0ZFYw?oc=5",
+          "published_at": "2026-11-18T08:42:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc1hHdUtNNzRVaHJrdDN1UnR2bTBjX1VDYVR0R0RMNlRoZkJKbzRFMFRVTmRZVm9iZkhGcEFkSm5GYkYxVmVVNEg1RWU4b24yN25Oc0RCZ19OQ1JHdWlISEpqa3hLMXZZZl9CcjhKZXFvZm9EVlpDT29zYm13XzlEUkpiRHEtMnhUQkMtaGNoeWhOV1RNXzE3a0ZFYw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7a8dc1fe42fb1116c95bb682",
+      "remembered_at": "2026-11-18T10:30:54.249682+00:00",
+      "event_date": "2026-11-18T09:41:27+00:00",
+      "last_update": "2026-11-18T09:41:27+00:00",
+      "event": "Ban on Special Glasses! Major Update from Lahore High Court | Breaking News | Dunya News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ban",
+        "breaking",
+        "court",
+        "dunya",
+        "from",
+        "glasses",
+        "high",
+        "lahore",
+        "major",
+        "news",
+        "special",
+        "update"
+      ],
+      "source_excerpt": "Ban on Special Glasses! Major Update from Lahore High Court | Breaking News | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZlI1TFl5ZHZCd3ZkVXI5aXpWN004V2lkSTdJZDZvenJLSkJKRXM3bGFIby1fSmRMZEdLMEVtdUdxZWVZR0s0U2ZNU1ZaVjhaWjZBUGZCVDVqb2NDMHZfcmIteWhRcXZ0YjkyNmVpY2hiVW11czRKZnR5R3ZseVYxWDgxelFwWU0zYndJd05QTHFFNkd0TzlJdGl5SXRPcHJrbjZpbURQcjl3ekdteXc5SVZZZ05ucUo4NXROeHJ3ZGN4UHVMUmQ0eHR4MzNKcnRHenQyY0dOc2s3Zw?oc=5",
+          "published_at": "2026-11-18T09:41:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZlI1TFl5ZHZCd3ZkVXI5aXpWN004V2lkSTdJZDZvenJLSkJKRXM3bGFIby1fSmRMZEdLMEVtdUdxZWVZR0s0U2ZNU1ZaVjhaWjZBUGZCVDVqb2NDMHZfcmIteWhRcXZ0YjkyNmVpY2hiVW11czRKZnR5R3ZseVYxWDgxelFwWU0zYndJd05QTHFFNkd0TzlJdGl5SXRPcHJrbjZpbURQcjl3ekdteXc5SVZZZ05ucUo4NXROeHJ3ZGN4UHVMUmQ0eHR4MzNKcnRHenQyY0dOc2s3Zw?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T09:27:13.107923+00:00"
+  "updated_at": "2026-11-18T10:30:54.249682+00:00"
 }

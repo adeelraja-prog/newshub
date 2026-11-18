@@ -1,118 +1,92 @@
-# News Hub report - Wed 18 Nov, 02:27 PM PKT
+# News Hub report - Wed 18 Nov, 03:30 PM PKT
 
 ## Collection
-- New items this run: 83 | items in rolling pool: 459
-- Unique story clusters: 378 (duplicates merged: 81)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 3
-- Items per outlet: Al Jazeera 12, Geo News 10, ProPakistani 8, ARY News 6, Dawn 5, ARYnews.tv 3, Dawn Latest 3, TechJuice 3, Investify 3, The News International 2, Dawn Pakistan 2, Bloomberg.com 2
+- New items this run: 164 | items in rolling pool: 606
+- Unique story clusters: 502 (duplicates merged: 104)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 77, Geo News 12, Dunya News 8, ARY News 8, Al Jazeera 8, samaa tv 5, ProPakistani 5, Wired 4, Dawn 3, Dawn Latest 3, ARYnews.tv 2, The Guardian 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
 - Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA 6 fever grips gaming world ahead of highly anticipated launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sri Lankan bowlers trigger Pakistan collapse in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sri Lanka fight back to reduce Pakistan to 221-7 in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan receives largest-ever LPG shipment of 15,000 tons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India-UK ties outride Modi’s ‘decolonisation’ rhetoric | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA 6 fever grips gaming world ahead of highly anticipated launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sri Lankan bowlers trigger Pakistan collapse in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sri Lanka fight back to reduce Pakistan to 221-7 in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan receives largest-ever LPG shipment of 15,000 tons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India-UK ties outride Modi’s ‘decolonisation’ rhetoric | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA 6 fever grips gaming world ahead of highly anticipated launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sri Lankan bowlers trigger Pakistan collapse in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sri Lanka fight back to reduce Pakistan to 221-7 in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan receives largest-ever LPG shipment of 15,000 tons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India-UK ties outride Modi’s ‘decolonisation’ rhetoric | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 103/107 | empty: 2 | failed: 2 | malformed/partial: 2
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: UrduPoint | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch  [NORMAL]
-- Poster: جی ٹی اے 6 کا بخار، دنیا بھر کے گیمرز میں جوش و خروش عروج پر / GTA 6 Fever Grips Gaming World Ahead of Launch | category tech_apps
-- Alternative headline: Global Gaming Community Excited as GTA 6 Release Approaches
+### Sri Lanka Fight Back Strongly to Reduce Pakistan to 221-7 in Second Test  [NORMAL]
+- Poster: دوسرا ٹیسٹ: سری لنکا کی زبردست واپسی، پاکستان 221 پر 7 وکٹیں گنوا بیٹھا / Sri Lanka Fight Back, Pakistan Slump to 221-7 in Second Test | category sports
+- Alternative headline: Pakistan Stumble to 221-7 as Sri Lanka Strike Back in Second Test
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMingFBVV95cUxNVWNNMVVCQUoxREl4cHp0UTY4UURWMVhvMVJ6T0p5VGFmY014NEZlM1U2UGl4bzhtbnMwNDVOcEdpQ3I3NnRyRUR5ZWQyN0NPV2ZLV2xIMjZZZFpDcVRpcTVwX19LcEVOYTQ5NE0yYzRPVHA2QVY0dThZRlpJTVh0ZmdDeGRCVmVFaWVlX1JYMW9LYXJvbno4RUNBdEFjdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMingFBVV95cUxNVWNNMVVCQUoxREl4cHp0UTY4UURWMVhvMVJ6T0p5VGFmY014NEZlM1U2UGl4bzhtbnMwNDVOcEdpQ3I3NnRyRUR5ZWQyN0NPV2ZLV2xIMjZZZFpDcVRpcTVwX19LcEVOYTQ5NE0yYzRPVHA2QVY0dThZRlpJTVh0ZmdDeGRCVmVFaWVlX1JYMW9LYXJvbno4RUNBdEFjdw?oc=5
-- Supporting coverage: samaa tv, ProPakistani
-- Keywords: GTA 6, gaming, Rockstar Games, video games, launch | hashtags: #GTA6 #Gaming #RockstarGames #VideoGames
-- Scheduled: Wed 18 Nov, 02:27 PM PKT
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxORHg0LWM4aDVBV3FSaU4zR0VIVGRmNnFoV2NBRDQ5RGk3NkFpamJvWFU0ZmduRldTR2tDb0tZQVJmWE9YRVVFcmFqZzljX2lPa2dwYlM1bEF0UVVZZTdsSzlCeG1JczJydG9sX2ljTVpzTnVTVjlNeXdwWjNKLUM3a09NdTZOdkRaSlE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxORHg0LWM4aDVBV3FSaU4zR0VIVGRmNnFoV2NBRDQ5RGk3NkFpamJvWFU0ZmduRldTR2tDb0tZQVJmWE9YRVVFcmFqZzljX2lPa2dwYlM1bEF0UVVZZTdsSzlCeG1JczJydG9sX2ljTVpzTnVTVjlNeXdwWjNKLUM3a09NdTZOdkRaSlE?oc=5
+- Supporting coverage: ARYnews.tv, ARY News
+- Keywords: Pakistan vs Sri Lanka, second Test, cricket score, Sri Lanka bowling, Pakistan cricket, Test match | hashtags: #PAKvSL #PakistanCricket #TestCricket #CricketNews
+- Scheduled: Wed 18 Nov, 03:30 PM PKT
 - Caption:
 ```
-Excitement and anticipation reach a fever pitch across the global gaming community ahead of the upcoming launch of GTA 6.
+Sri Lanka mounted an impressive bowling comeback in the second Test, leaving Pakistan struggling at 221 for seven wickets.
 
-The gaming world is gripped by intense excitement and anticipation as the release of GTA 6 approaches. Gamers globally and locally are eagerly awaiting the highly anticipated title from Rockstar Games.
+Sri Lanka's bowlers fought back determinedly to push Pakistan onto the back foot, reducing them to 221 for seven wickets during the ongoing second Test. The cluster of wickets halted Pakistan's batting momentum, setting up a tightly contested match.
 
-جی ٹی اے 6 کی ریلیز قریب آتے ہی دنیا بھر کی گیمنگ کمیونٹی میں زبردست جوش و خروش پایا جاتا ہے۔ دنیا بھر کے گیمرز اس انتہائی متوقع ٹائٹل کا بے صبری سے انتظار کر رہے ہیں۔
+سری لنکا کے باؤلرز نے دوسرے ٹیسٹ میں شاندار واپسی کرتے ہوئے پاکستان کو پہلی اننگز میں 221 رنز پر 7 وکٹوں تک محدود کر دیا۔ وکٹیں گرنے سے قومی ٹیم کی پوزیشن دباؤ کا شکار ہو گئی ہے۔
+
+First reported by ARYnews.tv
+
+#PAKvSL #PakistanCricket #TestCricket #CricketNews
+```
+
+### Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Port Qasim  [NORMAL]
+- Poster: پاکستان میں 15 ہزار ٹن ایل پی جی کا اب تک کا سب سے بڑا جہاز پہنچ گیا / Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim | category economy
+- Alternative headline: Historic Milestone: Pakistan Receives Largest-Ever 15,000-Tonne LPG Cargo to Boost Supply
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkRiZFhiMHRNdEwwUFA4cFJNVUFIZkRqdW02UVhESkYwMmxkSksyN3laV0x0UnBOMEdTRWFqYlNvbEtjZDQwTjBIa21ZNldOREN1NGFHanpqMkFXeVlvaHhvX0pmU1A3aTJCbXhlTTNXMUdCY1cxZkhLNDJ0MzhKWjRJUUdoeVhvNFdjeVh0WFZHc0ZV?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkRiZFhiMHRNdEwwUFA4cFJNVUFIZkRqdW02UVhESkYwMmxkSksyN3laV0x0UnBOMEdTRWFqYlNvbEtjZDQwTjBIa21ZNldOREN1NGFHanpqMkFXeVlvaHhvX0pmU1A3aTJCbXhlTTNXMUdCY1cxZkhLNDJ0MzhKWjRJUUdoeVhvNFdjeVh0WFZHc0ZV?oc=5
+- Supporting coverage: samaa tv, ARY News
+- Keywords: LPG shipment, Port Qasim, liquefied petroleum gas, Pakistan energy, fuel imports, gas supply | hashtags: #LPG #PakistanEconomy #PortQasim #EnergyNews #Pakistan
+- Scheduled: Wed 18 Nov, 03:40 PM PKT
+- Caption:
+```
+Pakistan has taken delivery of its largest-ever commercial LPG cargo, arriving with 15,000 metric tons at Port Qasim.
+
+Pakistan has received a record-setting cargo of 15,000 tons of liquefied petroleum gas (LPG) at Port Qasim. The milestone shipment marks the country's largest single import consignment to date, providing a significant boost to national domestic and commercial gas supplies.
+
+پاکستان میں مائع پیٹرولیم گیس (ایل پی جی) کا اب تک کا سب سے بڑا 15 ہزار ٹن وزنی جہاز پورٹ قاسم پہنچ گیا ہے۔ اس تاریخی کنسائنمنٹ سے ملک میں گیس کی ترسیل اور طلب کو پورا کرنے میں بڑی مدد ملے گی۔
 
 First reported by samaa tv
 
-#GTA6 #Gaming #RockstarGames #VideoGames
-```
-
-### Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperation  [NORMAL]
-- Poster: پاکستان اور ترکیہ کا دفاعی اور ایرو اسپیس تعاون بڑھانے پر اتفاق / Pakistan, Turkiye Discuss Expanding Defence Cooperation | category security
-- Alternative headline: Air Chiefs of Pakistan and Turkiye Explore Advanced Technology Collaboration
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045393/pakistan-turkiye-discuss-expanding-defence-cooperation-in-electronic-warfare-drone-and-aerospace-technologies | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045393/pakistan-turkiye-discuss-expanding-defence-cooperation-in-electronic-warfare-drone-and-aerospace-technologies
-- Supporting coverage: Dawn Pakistan, Dawn
-- Keywords: Pakistan Turkiye defence, Air Chief Marshal Zaheer Ahmed Baber Sidhu, electronic warfare, drone technologies, aerospace | hashtags: #Pakistan #Turkiye #DefenceCooperation #PAF
-- Scheduled: Wed 18 Nov, 02:37 PM PKT
-- Caption:
-```
-Pakistan and Turkiye have held high-level talks to expand bilateral cooperation in electronic warfare and drone technologies.
-
-Air Chief Marshal Zaheer Ahmed Baber Sidhu and Turkish Air Force Commander General Rafet Dalkıran discussed expanding bilateral defence cooperation. The talks focused on unmanned and autonomous systems, electronic warfare, advanced aerospace technologies, and indigenous research and development.
-
-ایئر چیف مارشل ظہیر احمد بابر سدھو اور ترک فضائیہ کے کمانڈر جنرل رافت دالقران نے دوطرفہ دفاعی تعاون بڑھانے پر تبادلہ خیال کیا۔ بات چیت کا محور بغیر پائلٹ کے سسٹمز، الیکٹرانک وارفیئر، اور جدید ایرو اسپیس ٹیکنالوجی تھا۔
-
-First reported by Dawn Pakistan
-
-#Pakistan #Turkiye #DefenceCooperation #PAF
-```
-
-### Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test  [NORMAL]
-- Poster: دوسرے ٹیسٹ میں سری لنکن بولرز کی تباہ کن بولنگ، پاکستان کی وکٹیں گر گئیں / Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | category sports
-- Alternative headline: Pakistan Batting Collapses Against Sri Lanka in Second Test
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxNRURiZVNCaVcxYzY2QjQ2U2dpa0hqY0cyT3BENTJ5R0VjSEhONHhVdWlFM3NCRDJPOVgzWEtNNHJsLUpCZUtHc2RoRUotSV9ucV91dTRuNzBsTEg2N2paMFk1ZmlUQS01MHNDMFVFQ2IzS1IxcE9YM2FPa1NjUV92V1c0cWlNUktmTEp6V0pZOU96QlR5bDBfVA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxNRURiZVNCaVcxYzY2QjQ2U2dpa0hqY0cyT3BENTJ5R0VjSEhONHhVdWlFM3NCRDJPOVgzWEtNNHJsLUpCZUtHc2RoRUotSV9ucV91dTRuNzBsTEg2N2paMFk1ZmlUQS01MHNDMFVFQ2IzS1IxcE9YM2FPa1NjUV92V1c0cWlNUktmTEp6V0pZOU96QlR5bDBfVA?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Pakistan vs Sri Lanka Test, Sri Lankan bowlers, Pakistan collapse, second Test, cricket | hashtags: #PAKvSL #TestCricket #PakistanCricket #SriLanka
-- Scheduled: Wed 18 Nov, 02:47 PM PKT
-- Caption:
-```
-Sri Lankan bowlers rattled Pakistan's batting lineup, triggering a dramatic collapse during the second Test match.
-
-Sri Lankan bowlers struck early and effectively, triggering a batting collapse for the Pakistan cricket team during the second Test match. The bowling attack dismantled key partnerships and put Pakistan under intense pressure.
-
-سری لنکن بولرز نے دوسرے ٹیسٹ میچ کے دوران شاندار بولنگ کا مظاہرہ کرتے ہوئے پاکستانی ٹیم کی بیٹنگ لائن کو کمزور کر دیا اور وکٹیں جلدی گرا دیں۔ اس شاندار بولنگ پرفارمنس نے پاکستان کو دباؤ میں ڈال دیا۔
-
-First reported by Dawn
-
-#PAKvSL #TestCricket #PakistanCricket #SriLanka
+#LPG #PakistanEconomy #PortQasim #EnergyNews #Pakistan
 ```
 
 - Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -283,10 +257,10 @@ First reported by Dawn
 - [needs_review] normal | Ecuadorian Fishermen Sue Trump Administration Over Alleged Drone Strik | Wed 18 Nov, 08:08 AM PKT
 - [needs_review] normal | Rival Peace Efforts Fail to Halt Ongoing Violence in Eastern DR Congo | Wed 18 Nov, 08:18 AM PKT
 - [published] normal | Man Sentenced to Over 27 Years in US Over Trump Murder Plot | Wed 18 Nov, 08:42 AM PKT
-- [queued] normal | Hungary on the Hunt for a New Football Hero | Wed 18 Nov, 08:52 AM PKT
-- [queued] normal | ICE Agents Shove and Pepper-Spray Pregnant Woman in US | Wed 18 Nov, 09:02 AM PKT
-- [queued] normal | Mary Peltola Flips Alaska Senate Seat in Democratic Win | Wed 18 Nov, 09:12 AM PKT
-- [queued] normal | US Navy chief blasted over Iran war and sailor toll at hearing | Wed 18 Nov, 09:45 AM PKT
+- [needs_review] normal | Hungary on the Hunt for a New Football Hero | Wed 18 Nov, 08:52 AM PKT
+- [needs_review] normal | ICE Agents Shove and Pepper-Spray Pregnant Woman in US | Wed 18 Nov, 09:02 AM PKT
+- [needs_review] normal | Mary Peltola Flips Alaska Senate Seat in Democratic Win | Wed 18 Nov, 09:12 AM PKT
+- [published] normal | US Navy chief blasted over Iran war and sailor toll at hearing | Wed 18 Nov, 09:45 AM PKT
 - [queued] normal | Two killed in Balochistan's Zhob roadside blast | Wed 18 Nov, 09:55 AM PKT
 - [queued] normal | PTI questions Bilawal’s late realisation of people’s hardships | Wed 18 Nov, 10:05 AM PKT
 - [queued] normal | Balochistan MPs pledge resolution backing journalists | Wed 18 Nov, 10:15 AM PKT
@@ -304,22 +278,12 @@ First reported by Dawn
 - [queued] normal | GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch | Wed 18 Nov, 02:27 PM PKT
 - [queued] normal | Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperati | Wed 18 Nov, 02:37 PM PKT
 - [queued] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
+- [queued] normal | Sri Lanka Fight Back Strongly to Reduce Pakistan to 221-7 in Second Te | Wed 18 Nov, 03:30 PM PKT
+- [queued] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
 
 ## Publishing this run
-- Published 'Man Sentenced to Over 27 Years in US Over Trump Murder Plot'.
+- Published 'US Navy chief blasted over Iran war and sailor toll at hearing'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 6496 | output tokens: 2357
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+- Calls: 1 | prompt tokens: 6040 | output tokens: 2497
+- Errors: 0
