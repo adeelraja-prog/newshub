@@ -66231,7 +66231,791 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "052c604cd1483bb73173cb8c",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T15:50:22+00:00",
+      "last_update": "2026-11-18T16:45:11+00:00",
+      "event": "PTA says submarine cable fault may cause internet connectivity issues",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cable",
+        "cause",
+        "connectivity",
+        "dawn",
+        "fault",
+        "internet",
+        "issues",
+        "may",
+        "pta",
+        "says",
+        "submarine"
+      ],
+      "source_excerpt": "PTA says submarine cable fault may cause internet connectivity issues Dawn",
+      "sources": [
+        {
+          "name": "PhoneWorld",
+          "url": "https://www.phoneworld.com.pk/internet-disruption-pakistan-submarine-cable-fault-smw5/",
+          "published_at": "2026-11-18T15:50:22+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaW9YTWZBNmtkYVd0NEpfcEh1Q0NBQXhwWXV5VW4xNzAyWG14Sm83YW9Bb3RHT0VocEJEaXc0SlhUMURTVTQxUmROcVhSOHkxdVk3cVJkaVBlX2FCOS1sMEhYX0g1ay1lTWt3T0pNVjFyck1zd0JfUmZBUGxPOHdCb2hhU2RFRGg0ZEQxNVg5ZkRsVjBickpnZVpVV2lNX1NsYUI1Szh3?oc=5",
+          "published_at": "2026-11-18T16:13:56+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045448/pta-says-submarine-cable-fault-may-cause-internet-connectivity-issues",
+          "published_at": "2026-11-18T16:16:31+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691688-submarine-cable-fault-disrupts-internet-across-country-pta",
+          "published_at": "2026-11-18T16:25:35+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMUhaaGp3WWxjNkEyU2ZJVFkyb3AxYU04bWRCUGVIbjlVZExadVQ5NnNHVFVIMDN3Ym96c1pEYUx3WGVOdllZZktsZVV5Mlhja01RNXltdW5NdlFMRi0yazUwOEVOMGlLR2FGV1R0bmJic0d0N2tjUnJfdTVoZmpCb0RERmZrU2RZdU9GYzkzTDVOSk5wRlE?oc=5",
+          "published_at": "2026-11-18T16:25:35+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/submarine-cable-fault-may-affect-internet-in-pakistan/",
+          "published_at": "2026-11-18T16:35:01+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRklFc3V1dE5JVGhZYUZLVjk4dTFNNUY4cUdPbEQ2LXByMzdob3ptMkhLOXo2bHNkc3FxWmtTVXdGT1pRVlB3emJvMmQ2WHdoTnBud0JPV0J6QTI4VFdvVkRHTWd6OWw2NXdHWFF1dVJzbWZ5WWlwTGwxWWtCYi1WYmpKSkRzNExaZjRzWGVKZlNzb2x5dFZIb2J2VU9UVXZDWDlfbEVsNlZPaXZpbVFfcU96ZDh5Z9IBU0FVX3lxTFA2T1p6Zm9oZC1oQ2hRWkYzQTZMajducDR0aHJ6cUxVNUQ3eHhTX18tLUhfNlYtc1ZiOUJFTGU1NDJtZ2xETnF1UnN4MmYtTnBQVGlF?oc=5",
+          "published_at": "2026-11-18T16:45:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaW9YTWZBNmtkYVd0NEpfcEh1Q0NBQXhwWXV5VW4xNzAyWG14Sm83YW9Bb3RHT0VocEJEaXc0SlhUMURTVTQxUmROcVhSOHkxdVk3cVJkaVBlX2FCOS1sMEhYX0g1ay1lTWt3T0pNVjFyck1zd0JfUmZBUGxPOHdCb2hhU2RFRGg0ZEQxNVg5ZkRsVjBickpnZVpVV2lNX1NsYUI1Szh3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fb48767752540201e626d104",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T11:21:14+00:00",
+      "last_update": "2026-11-18T16:44:59+00:00",
+      "event": "World Bank official says Lebanon reconstruction making slow progress",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attacks",
+        "bank",
+        "beirut",
+        "blames",
+        "delays",
+        "for",
+        "israel",
+        "lebanon",
+        "making",
+        "occupation",
+        "official",
+        "progress",
+        "reconstruction",
+        "says",
+        "slow",
+        "southern",
+        "world"
+      ],
+      "source_excerpt": "Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.",
+      "sources": [
+        {
+          "name": "WRAL",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHNfTFN6VUo3MDVLUVlwc0loZXk0RzRsTWZ6emdFa0V4LU9wVkJLVW5EaWY2NFBucDBveHNvLVVwV3B6MHAxZGdVRU82NlMwdGoxUld4TmVuYVdYSkNUMUNpd3lwWW4zNWYzY1JodUVWZm4wcE5sSHJ1Y1JtRE5uaFUwOTN6X1E2em5Lb3VhMXNrbzY5YllxSmNXMXB4X0U?oc=5",
+          "published_at": "2026-11-18T11:21:14+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+          "published_at": "2026-11-18T16:44:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5d6507048b8591ff36b371e1",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T11:20:56+00:00",
+      "last_update": "2026-11-18T15:45:41+00:00",
+      "event": "Duckett slams century as England thrash Australia to win ODI series",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australia",
+        "century",
+        "duckett",
+        "england",
+        "odi",
+        "series",
+        "slams",
+        "thrash",
+        "win"
+      ],
+      "source_excerpt": "Duckett slams century as England thrash Australia to win ODI series",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/duckett-slams-century-as-england-thrash-australia-to-win-odi-series",
+          "published_at": "2026-11-18T11:20:56+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045447/duckett-slams-century-as-england-thrash-australia-to-win-odi-series",
+          "published_at": "2026-11-18T15:45:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/duckett-slams-century-as-england-thrash-australia-to-win-odi-series",
+        "publisher_url": "https://arynews.tv/duckett-slams-century-as-england-thrash-australia-to-win-odi-series",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "64120fae551b264b89a9b5ff",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T16:18:54+00:00",
+      "last_update": "2026-11-18T16:18:54+00:00",
+      "event": "ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "26th",
+        "27th",
+        "after",
+        "amendment",
+        "amendments",
+        "and",
+        "benches",
+        "capture",
+        "carved",
+        "commission",
+        "constitutional",
+        "court",
+        "icj",
+        "international",
+        "judicial",
+        "jurists",
+        "led",
+        "memb",
+        "october",
+        "out",
+        "pakistan",
+        "passed",
+        "released",
+        "report",
+        "said",
+        "sees",
+        "supreme",
+        "systemic",
+        "that",
+        "the",
+        "their",
+        "wednesday",
+        "with"
+      ],
+      "source_excerpt": "A report released by the International Commission of Jurists (ICJ) on Wednesday said that the 26th and 27th Constitutional Amendments led to a “systemic judicial capture” in Pakistan. The 26th Amendment , passed in October 2024, carved constitutional benches out of the Supreme Court, with their memb",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments",
+          "published_at": "2026-11-18T16:18:54+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb3JaX3pYVlNzVWFNRGk1X2dPXzRraFFHUmhDLXFnM2NMaHNxUWR4WU5QZzFsNWw0VDJRVklaVDBmMGxmSGZHVlRjOHlwYk9yVjlyWmVNVEN1c3ZPWWtKZ3NpbzM1OEktekNzUjVkMDNIV0g4a3VVbUlrTzQ3YlJtWXFST0N5SHZBTjdkZGFyVm5qbS14bnZ6SXB6RG5CMnpzYzAxa3lJMXJXWFFWckt5MTBMZjhtUzRQMUtPNA?oc=5",
+          "published_at": "2026-11-18T16:18:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments",
+        "publisher_url": "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3301b6506e0144ffadd556aa",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T16:28:54+00:00",
+      "last_update": "2026-11-18T16:28:54+00:00",
+      "event": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "army",
+        "attack",
+        "beat",
+        "chaos",
+        "covering",
+        "daily",
+        "elected",
+        "israel",
+        "jericho",
+        "jerusalem",
+        "journalist",
+        "knesset",
+        "near",
+        "new",
+        "settler",
+        "speaker",
+        "the"
+      ],
+      "source_excerpt": "Israel’s army beat a journalist covering a settler attack near Jericho.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+          "published_at": "2026-11-18T16:28:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "623a4b905e2db9483587cb72",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T16:16:48+00:00",
+      "last_update": "2026-11-18T16:16:48+00:00",
+      "event": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "after",
+        "calls",
+        "canada",
+        "carney",
+        "dismissed",
+        "downplaying",
+        "for",
+        "leader",
+        "lying",
+        "out",
+        "past",
+        "putin",
+        "russian",
+        "sanctions",
+        "the",
+        "thing",
+        "western"
+      ],
+      "source_excerpt": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+          "published_at": "2026-11-18T16:16:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "30d4bf8111c710f6eecc706d",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T16:05:37+00:00",
+      "last_update": "2026-11-18T16:05:37+00:00",
+      "event": "Five EU nations to deport migrants to Rwanda",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "asylum",
+        "countries",
+        "deport",
+        "european",
+        "five",
+        "host",
+        "looking",
+        "migrants",
+        "nations",
+        "rejected",
+        "rwanda",
+        "seekers"
+      ],
+      "source_excerpt": "Five European countries are looking to Rwanda to host rejected asylum seekers.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss",
+          "published_at": "2026-11-18T16:05:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "082778f0efccb8a9aa3d0eb3",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T15:57:35+00:00",
+      "last_update": "2026-11-18T15:57:35+00:00",
+      "event": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affected",
+        "after",
+        "avian",
+        "bird",
+        "birds",
+        "cal",
+        "cull",
+        "egg",
+        "flock",
+        "florida",
+        "flu",
+        "influenza",
+        "its",
+        "largest",
+        "maine",
+        "million",
+        "outbreak",
+        "percent",
+        "producer",
+        "reports",
+        "site",
+        "total",
+        "with"
+      ],
+      "source_excerpt": "Cal-Maine reports avian influenza at Florida site, with 2.7 percent of its total flock affected.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
+          "published_at": "2026-11-18T15:57:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3dcdbfc72347ae8d700a7c0f",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T15:57:20+00:00",
+      "last_update": "2026-11-18T15:57:20+00:00",
+      "event": "Pax Silica is the new face of US imperialism in the Philippines",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ancestral",
+        "and",
+        "behind",
+        "face",
+        "imperialism",
+        "investment",
+        "jobs",
+        "lands",
+        "lie",
+        "national",
+        "new",
+        "pax",
+        "philippines",
+        "promises",
+        "security",
+        "silica",
+        "sovereignty",
+        "the",
+        "threats",
+        "water"
+      ],
+      "source_excerpt": "Behind promises of jobs and investment lie threats to ancestral lands, water security and national sovereignty.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
+          "published_at": "2026-11-18T15:57:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b4c9f50940fe7a5bb25412c0",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T15:50:43+00:00",
+      "last_update": "2026-11-18T15:50:43+00:00",
+      "event": "Never played, already gone. JJ Gabriel leaves Man United",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "already",
+        "cinematic",
+        "fans",
+        "farewell",
+        "football",
+        "gabriel",
+        "gone",
+        "has",
+        "leaves",
+        "made",
+        "man",
+        "manchester",
+        "never",
+        "played",
+        "star",
+        "teenage",
+        "united"
+      ],
+      "source_excerpt": "Teenage football star JJ Gabriel has made a cinematic farewell to Manchester United fans.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/never-played-already-gone-jj-gabriel-leaves-man-united?traffic_source=rss",
+          "published_at": "2026-11-18T15:50:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/never-played-already-gone-jj-gabriel-leaves-man-united?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/never-played-already-gone-jj-gabriel-leaves-man-united?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2a73710d6031854d6aebe663",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T16:09:29+00:00",
+      "last_update": "2026-11-18T16:09:29+00:00",
+      "event": "'Best night' of Dáithí's life all thanks to organ donation",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "best",
+        "donation",
+        "gabhann",
+        "ireland",
+        "ith",
+        "kosovo",
+        "league",
+        "life",
+        "mac",
+        "nations",
+        "night",
+        "organ",
+        "out",
+        "over",
+        "parrott",
+        "republic",
+        "thanks",
+        "the",
+        "troy",
+        "walked",
+        "with",
+        "won"
+      ],
+      "source_excerpt": "Dáithí Mac Gabhann walked out with Republic of Ireland's Troy Parrott as Ireland won 3-0 over Kosovo in the Nations League.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cx5y1vq89lypo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T16:09:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cx5y1vq89lypo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cx5y1vq89lypo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ddf81c22a034bf5c155e0dbf",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T16:44:23+00:00",
+      "last_update": "2026-11-18T16:44:23+00:00",
+      "event": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "addition",
+        "also",
+        "and",
+        "annual",
+        "appearance",
+        "couple",
+        "delhi",
+        "earthshot",
+        "enduring",
+        "has",
+        "included",
+        "india",
+        "kate",
+        "late",
+        "meeting",
+        "modi",
+        "new",
+        "prize",
+        "reflect",
+        "royal",
+        "the",
+        "their",
+        "ties",
+        "visit",
+        "was",
+        "which",
+        "william",
+        "with"
+      ],
+      "source_excerpt": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T16:44:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f7a6b7540de6dc418f880697",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T16:33:16+00:00",
+      "last_update": "2026-11-18T16:33:16+00:00",
+      "event": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2021",
+        "abusing",
+        "accused",
+        "alleged",
+        "caribbean",
+        "court",
+        "employees",
+        "facing",
+        "former",
+        "iglesias",
+        "investigation",
+        "julio",
+        "offences",
+        "old",
+        "over",
+        "residences",
+        "sexual",
+        "singer",
+        "the",
+        "two",
+        "year"
+      ],
+      "source_excerpt": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T16:33:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "370731fe7490bfb10e78141a",
+      "remembered_at": "2026-11-18T16:59:47.889412+00:00",
+      "event_date": "2026-11-18T16:05:26+00:00",
+      "last_update": "2026-11-18T16:05:26+00:00",
+      "event": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "are",
+        "but",
+        "cannot",
+        "care",
+        "cincinnati",
+        "fiona",
+        "fluids",
+        "hat",
+        "have",
+        "help",
+        "her",
+        "hippo",
+        "pass",
+        "providing",
+        "say",
+        "she",
+        "supportive",
+        "surgery",
+        "swallowing",
+        "the",
+        "undergoing",
+        "zoo",
+        "zookeepers"
+      ],
+      "source_excerpt": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T16:05:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T15:56:56.343064+00:00"
+  "updated_at": "2026-11-18T16:59:47.889412+00:00"
 }
