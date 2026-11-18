@@ -1,32 +1,32 @@
-# News Hub report - Thu 19 Nov, 03:41 AM PKT
+# News Hub report - Thu 19 Nov, 04:37 AM PKT
 
 ## Collection
-- New items this run: 28 | items in rolling pool: 488
-- Unique story clusters: 431 (duplicates merged: 57)
-- Clusters dropped as already published/queued: 20; unchanged since last analysis: 1
-- Items per outlet: The Express Tribune 4, TechCrunch 3, Dawn 2, Dawn Latest 2, Geo News 2, Wired 2, Anadolu Ajansı 2, Al Jazeera 1, AP News 1, The Verge 1, Ars Technica 1, Pakistan Today 1
+- New items this run: 25 | items in rolling pool: 421
+- Unique story clusters: 370 (duplicates merged: 51)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 2
+- Items per outlet: BBC 4, Al Jazeera 3, TechCrunch 3, Ars Technica 2, The Express Tribune 1, Reuters 1, The Verge 1, Engadget 1, GSMArena 1, BBC Technology 1, BBC Business 1, BBC World 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Hakeem Jeffries becomes first Black nominee for US House speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US lawmakers push to raise minimum wage to $25, end tipped pay system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Floodwaters submerge cars and parking lots in Florida town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Catherine visits Mumbai maternity hospital on the last day of royal trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraq sentences six French nationals to life in prison for joining ISIL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA 6 launches after 13-year wait, breaking pre-order records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US steps up pressure on Iran-backed Hezbollah with new sanctions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Hakeem Jeffries becomes first Black nominee for US House speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US lawmakers push to raise minimum wage to $25, end tipped pay system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Floodwaters submerge cars and parking lots in Florida town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Catherine visits Mumbai maternity hospital on the last day of royal trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraq sentences six French nationals to life in prison for joining ISIL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA 6 launches after 13-year wait, breaking pre-order records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US steps up pressure on Iran-backed Hezbollah with new sanctions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Hakeem Jeffries becomes first Black nominee for US House speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US lawmakers push to raise minimum wage to $25, end tipped pay system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Floodwaters submerge cars and parking lots in Florida town | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Catherine visits Mumbai maternity hospital on the last day of royal trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraq sentences six French nationals to life in prison for joining ISIL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA 6 launches after 13-year wait, breaking pre-order records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US steps up pressure on Iran-backed Hezbollah with new sanctions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -35,106 +35,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Hakeem Jeffries becomes first Black nominee for US House speaker  [NORMAL]
-- Poster: حکیم جفعری امریکی ایوانِ نمائندگان کے پہلے سیاہ فام اسپیکر نامزد / Hakeem Jeffries First Black US House Speaker Nominee | category politics
-- Alternative headline: US Democrats nominate Hakeem Jeffries to be first Black House speaker
+### Catherine visits Mumbai maternity hospital on final day of royal tour  [NORMAL]
+- Poster: کیترین کا دورہ ممبئی، زچگی کے اسپتال کا دورہ کیا / Catherine visits Mumbai maternity hospital | category lifestyle
+- Alternative headline: Royal tour concludes as Catherine visits Mumbai maternity hospital
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss
-- Supporting coverage: Al Jazeera, Dawn Latest, BBC World, BBC
-- Keywords: Hakeem Jeffries, US House speaker, Democrats, Congress, US politics | hashtags: #HakeemJeffries #USPolitics #Democrats #USCongress
-- Scheduled: Thu 19 Nov, 03:41 AM PKT
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xalJIY1VYSlZFOFZmRmlRTjNJS2hNQ3RQd2lCNE1KRDE5ODNwaUhIUFQ3RnRXLXJjOVlpYTVVbWtoT0w3NGdjbnN3ZVpBWWRZUmFnbnNOU3g?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xalJIY1VYSlZFOFZmRmlRTjNJS2hNQ3RQd2lCNE1KRDE5ODNwaUhIUFQ3RnRXLXJjOVlpYTVVbWtoT0w3NGdjbnN3ZVpBWWRZUmFnbnNOU3g?oc=5
+- Supporting coverage: BBC, BBC World
+- Keywords: Catherine, Mumbai, maternity hospital, royal trip, BBC | hashtags: #Catherine #Mumbai #RoyalVisit #BBC
+- Scheduled: Thu 19 Nov, 04:37 AM PKT
 - Caption:
 ```
-US Democrats have nominated New York congressman Hakeem Jeffries to become the first Black speaker of the House.
+On the final day of her royal trip, Catherine visited a maternity hospital in Mumbai, meeting mothers and healthcare workers.
 
-The New York congressman was nominated after Democrats gained control of Congress in the midterm elections, marking a historic milestone as the first Black nominee for US House speaker.
+Catherine visited a maternity hospital in Mumbai on the final day of her royal trip. The visit highlighted healthcare initiatives and local community support, concluding her official itinerary in the city.
 
-نیویارک سے تعلق رکھنے والے کانگریس مین حکیم جیفری کو مڈٹرم انتخابات میں ڈیموکریٹس کی جانب سے کانگریس پر کنٹرول حاصل کرنے کے بعد امریکی ایوانِ نمائندگان کے اسپیکر کے لیے نامزد کیا گیا ہے۔
+کیترین نے اپنے شاہی دورے کے آخری دن ممبئی کے ایک زچگی اسپتال کا دورہ کیا۔ اس دورے کے دوران انہوں نے ماؤں اور صحت کی دیکھ بھال کرنے والے کارکنوں سے ملاقات کی اور مقامی کمیونٹی کے اقدامات کا جائزہ لیا۔
 
-First reported by Al Jazeera
+First reported by BBC.
 
-#HakeemJeffries #USPolitics #Democrats #USCongress
+#Catherine #Mumbai #RoyalVisit #BBC
 ```
 
-### Pakistan mango exports plunge 36pc amid US-Iran war shipping disruptions  [NORMAL]
-- Poster: امریکہ ایران جنگ کے باعث پاکستان کی آم کی برآمدات میں 36 فیصد کمی / Pakistan Mango Exports Drop 36pc Amid US-Iran War | category economy
-- Alternative headline: Pakistan's mango exports fall 36pc as US-Iran conflict spikes freight costs
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association
-- Supporting coverage: Dawn Latest, Dawn
-- Keywords: mango exports, US-Iran war, Strait of Hormuz, freight rates, Pakistan economy | hashtags: #MangoExports #PakistanEconomy #USIranWar #StraitOfHormuz
-- Scheduled: Thu 19 Nov, 03:51 AM PKT
-- Caption:
-```
-Pakistan's mango exports fell 36 per cent this year as the US-Iran war disrupted shipping routes and drove up freight costs.
-
-According to the All Pakistan Fruit and Vegetables Exporters Association, Pakistan exported 78,000 tonnes of mangoes this year compared to 123,000 tonnes last year. The decline is attributed to the US-Iran war, closure of the Strait of Hormuz, and soaring freight rates.
-
-آل پاکستان فروٹ اینڈ ویجیٹیبلز ایکسپورٹرز ایسوسی ایشن کے مطابق، امریکہ ایران جنگ کے باعث بحری راستوں کی بندش اور فریٹ چارجز میں اضافے کی وجہ سے پاکستان کی آم کی برآمدات اس سال 36 فیصد کم ہو کر 78,000 ٹن رہ گئیں۔
-
-According to Dawn Latest
-
-#MangoExports #PakistanEconomy #USIranWar #StraitOfHormuz
-```
-
-### US lawmakers push to raise minimum wage to $25 and end tipped pay  [NORMAL]
-- Poster: امریکی قانون سازوں کی کم از کم اجرت 25 ڈالر کرنے کی کوشش / US Lawmakers Push $25 Minimum Wage | category economy
-- Alternative headline: US lawmakers push to raise minimum wage to $25, end tipped pay system
+### Myanmar faces historic genocide verdict at UN court over Rohingya  [NORMAL]
+- Poster: اقوام متحدہ کی عدالت روہنگیا نسل کشی پر تاریخی فیصلہ سنائے گی / UN court to rule on Rohingya genocide | category world
+- Alternative headline: Top UN court to rule on alleged genocide of Rohingya
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC, Reuters
+- Keywords: Rohingya genocide, Myanmar, UN court, ICJ, verdict | hashtags: #Myanmar #Rohingya #UN #ICJ #Genocide
+- Scheduled: Thu 19 Nov, 04:47 AM PKT
+- Caption:
+```
+No state has ever been found guilty of genocide by an international court, as Myanmar now faces a historic verdict.
+
+Myanmar faces a historic genocide verdict at the UN's highest court over massacres of the Rohingya minority. Legal experts note that no state has ever been found guilty of committing genocide by an international court before.
+
+میانمار کو اقوام متحدہ کی عالمی عدالت میں روہنگیا اقلیت کے خلاف مبینہ نسل کشی کے مقدمے میں تاریخی فیصلے کا سامنا ہے۔ قانونی ماہرین کے مطابق اس سے قبل کسی بھی ریاست کو بین الاقوامی عدالت نے نسل کشی کا مجرم قرار نہیں دیا ہے۔
+
+First reported by BBC; also reported by Reuters.
+
+#Myanmar #Rohingya #UN #ICJ #Genocide
+```
+
+### Iraq sentences six French nationals to life in prison over ISIL  [NORMAL]
+- Poster: عراق نے داعش میں شمولیت پر چھ فرانسیسی شہریوں کو عمر قید سنا دی / Iraq sentences six French nationals to life | category courts
+- Alternative headline: Six French citizens given life sentences in Iraq for joining ISIL
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: minimum wage, US lawmakers, tipped pay system, economy, voters | hashtags: #MinimumWage #USEconomy #USLawmakers #LaborRights
-- Scheduled: Thu 19 Nov, 04:01 AM PKT
+- Keywords: Iraq sentences, French nationals, life in prison, ISIL, Al Jazeera | hashtags: #Iraq #France #ISIL #Court
+- Scheduled: Thu 19 Nov, 04:57 AM PKT
 - Caption:
 ```
-Public support for raising the minimum wage grows as US lawmakers push to raise it to $25.
+Six French nationals have been sentenced to life in prison in Iraq following trials that began for 47 transferred citizens.
 
-US lawmakers are pushing to raise the minimum wage to $25 and end the tipped pay system, as public support grows with 78 percent of voters calling it an important election issue.
+Iraq has sentenced six French nationals to life in prison for joining ISIL. The trials began in September for a total of 47 French citizens who were transferred from neighboring Syria last year.
 
-امریکی قانون ساز کم از کم اجرت کو بڑھا کر 25 ڈالر کرنے اور ٹپ پر مبنی تنخواہ کے نظام کو ختم کرنے کی کوشش کر رہے ہیں، جبکہ 78 فیصد ووٹرز اسے ایک اہم انتخابی مسئلہ قرار دے رہے ہیں۔
+عراق نے داعش میں شمولیت کے الزام میں چھ فرانسیسی شہریوں کو عمر قید کی سزا سنا دی ہے۔ شام سے گزشتہ سال منتقل کیے جانے والے 47 فرانسیسی شہریوں کے مقدمات کی سماعت ستمبر میں شروع ہوئی تھی۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#MinimumWage #USEconomy #USLawmakers #LaborRights
+#Iraq #France #ISIL #Court
 ```
 
-### Floodwaters submerge cars and parking lots in Florida town  [NORMAL]
-- Poster: فلوریڈا کے شہر میں شدید سیلابی پانی میں گاڑیاں ڈوب گئیں / Floodwaters Submerge Cars in Florida Town | category disaster
-- Alternative headline: Severe flooding turns streets and parking lots into rivers in Florida
+### GTA 6 officially launches after 13-year wait and record pre-orders  [NORMAL]
+- Poster: تیرہ سال کے طویل انتظار کے بعد جی ٹی اے 6 جاری کر دی گئی / GTA 6 launches after 13-year wait | category tech
+- Alternative headline: Grand Theft Auto 6 goes live ending 13-year franchise wait
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: floodwaters, Florida, Davie, flooding, cars submerged | hashtags: #FloridaFlooding #Floodwaters #Weather #BreakingNews
-- Scheduled: Thu 19 Nov, 04:11 AM PKT
+- Keywords: GTA 6, Grand Theft Auto, gaming, pre-order records, Al Jazeera | hashtags: #GTA6 #GrandTheftAuto #Gaming #Tech
+- Scheduled: Thu 19 Nov, 05:07 AM PKT
 - Caption:
 ```
-Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.
+Grand Theft Auto’s latest instalment is finally out, ending a 13-year wait and smashing pre-order records worldwide.
 
-Floodwaters submerged cars and parking lots, turning streets into rivers in Davie, Florida, and leaving drivers facing dangerous conditions.
+Grand Theft Auto's latest instalment has officially launched, ending a 13-year wait for one of the gaming industry's biggest franchises. The highly anticipated release has already broken pre-order records across global platforms.
 
-فلوریڈا کے علاقے ڈیوی میں سیلابی پانی نے سڑکوں اور پارکنگ لاٹس کو دریا میں تبدیل کر دیا، جس سے گاڑیاں پانی میں ڈوب گئیں اور ڈرائیورز کو شدید خطرات کا سامنا کرنا پڑا۔
+گرانڈ تھیف آٹو کی نئی قسط باضابطہ طور پر ریلیز کر دی گئی ہے، جس سے گیمنگ کی دنیا کی اس بڑی فرنچائز کا 13 سالہ انتظار ختم ہو گیا ہے۔ اس لانچ نے دنیا بھر میں پری آرڈر کے ریکارڈ توڑ دیے ہیں۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#FloridaFlooding #Floodwaters #Weather #BreakingNews
+#GTA6 #GrandTheftAuto #Gaming #Tech
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -339,7 +339,7 @@ First reported by Al Jazeera
 - [published] normal | Trump's Board of Peace faults Israel and Hamas over Gaza war | Wed 18 Nov, 09:06 PM PKT
 - [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
 - [published] normal | Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan | Wed 18 Nov, 10:57 PM PKT
-- [queued] normal | Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim | Wed 18 Nov, 11:07 PM PKT
+- [published] normal | Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim | Wed 18 Nov, 11:07 PM PKT
 - [queued] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
 - [queued] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
 - [queued] normal | Kuwait and Bahrain face new Iran attacks following US strike | Thu 19 Nov, 01:51 AM PKT
@@ -354,14 +354,22 @@ First reported by Al Jazeera
 - [queued] normal | Pakistan mango exports plunge 36pc amid US-Iran war shipping disruptio | Thu 19 Nov, 03:51 AM PKT
 - [queued] normal | US lawmakers push to raise minimum wage to $25 and end tipped pay | Thu 19 Nov, 04:01 AM PKT
 - [queued] normal | Floodwaters submerge cars and parking lots in Florida town | Thu 19 Nov, 04:11 AM PKT
+- [queued] normal | Catherine visits Mumbai maternity hospital on final day of royal tour | Thu 19 Nov, 04:37 AM PKT
+- [queued] normal | Myanmar faces historic genocide verdict at UN court over Rohingya | Thu 19 Nov, 04:47 AM PKT
+- [queued] normal | Iraq sentences six French nationals to life in prison over ISIL | Thu 19 Nov, 04:57 AM PKT
+- [queued] normal | GTA 6 officially launches after 13-year wait and record pre-orders | Thu 19 Nov, 05:07 AM PKT
 
 ## Publishing this run
-- Published 'Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan'.
+- Published 'Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 4818 | output tokens: 2509
-- Errors: 1
-  - Gemini gemini-3.8-flash: HTTP 429 {
+- Calls: 3 | prompt tokens: 3917 | output tokens: 2142
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i

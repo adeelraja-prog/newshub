@@ -69337,7 +69337,613 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d1375d1c3bc46bfbe264c048",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T23:04:06+00:00",
+      "last_update": "2026-11-18T23:08:35+00:00",
+      "event": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "been",
+        "committing",
+        "court",
+        "ever",
+        "faces",
+        "found",
+        "genocide",
+        "guilty",
+        "has",
+        "historic",
+        "international",
+        "massacres",
+        "myanmar",
+        "over",
+        "rohingya",
+        "state",
+        "verdict"
+      ],
+      "source_excerpt": "No state has ever been found guilty by an international court of committing genocide.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T23:04:06+00:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGtSVDRwdUtMc3lyTmxTN1FCam5Fai1UaTdDZ1E3YXM4M3lfZk5yQXduaF9Uc3VjSVJuSzRwOG0wVFY0LURKWnVlR1gtNWZHaHlWaXBmazZlVzh4TGZHb0VfM3NTSHFZS29QMTlZV3Y3dm1GVmJzcHRQaW5yaTJacmV0ZnQ2Z0JrYWxIT3l4UUdTSDlDTnlLaTNERlF0NVF2U3lHR29tdWdabGc?oc=5",
+          "published_at": "2026-11-18T23:08:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f2f22d7cd61a0f8a56394080",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T23:18:03+00:00",
+      "last_update": "2026-11-18T23:18:03+00:00",
+      "event": "GTA 6 launches after 13-year wait, breaking pre-order records",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "auto",
+        "biggest",
+        "breaking",
+        "ending",
+        "for",
+        "franchises",
+        "gaming",
+        "grand",
+        "gta",
+        "instalment",
+        "latest",
+        "launches",
+        "one",
+        "order",
+        "out",
+        "pre",
+        "records",
+        "theft",
+        "wait",
+        "year"
+      ],
+      "source_excerpt": "Grand Theft Auto’s latest instalment is out, ending a 13-year wait for one of gaming’s biggest franchises.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss",
+          "published_at": "2026-11-18T23:18:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0875a96f4555867376b289b6",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T22:56:19+00:00",
+      "last_update": "2026-11-18T22:58:25+00:00",
+      "event": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "backed",
+        "charitable",
+        "for",
+        "fronts",
+        "fundraising",
+        "has",
+        "hezbollah",
+        "iran",
+        "new",
+        "organisations",
+        "pressure",
+        "sanctions",
+        "steps",
+        "the",
+        "treasury",
+        "using",
+        "with"
+      ],
+      "source_excerpt": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+          "published_at": "2026-11-18T22:56:19+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN29KWFVkOWVHR09pY21wS3N6V2YzSEJoYmk4LWw4eXZWNkc5cVNoaHVDYkVHSndveTUzUlk3V2ctZW5lRHo4X1huWlZjQXNDN0s4MFFTOHQ5N25QTGVteWFvd2h0VFJ6S0tFQWpHdW5XWU1uN092NmhGb0JrY2ZRbm96eVZBY2sxcnNrNkxEQ2Z4SUU4N1RFZHV1R1hQTXlpcGVvdjdBcGtkd9IBrwFBVV95cUxOdkRWUmJ3SldzZXB4WXNqTF9oNGZrQXBRM0lpWGhjQ3ZpMzlPSHo5VlUxek10b0ZhYUgwaFBXd2lIWDBtMmJEYjNKX293Z21Xb2JiOWFzbHZ4czNBc0theVJ3aUFaaExKY2F5Q19MS0Z4TUw1Ujk3TE9UZFJmUFFjNVV2U0Q5WGN5WWpHdUF2X05STTVFQWp0TnVUM0JodG0yWnYtWjZtWWNHMy1tZE1j?oc=5",
+          "published_at": "2026-11-18T22:58:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "76d23852f628621f12ab6d83",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T23:36:04+00:00",
+      "last_update": "2026-11-18T23:36:04+00:00",
+      "event": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "4tn",
+        "ago",
+        "anthropic",
+        "artificial",
+        "biggest",
+        "claude",
+        "debut",
+        "five",
+        "for",
+        "intelligence",
+        "just",
+        "maker",
+        "market",
+        "names",
+        "now",
+        "one",
+        "poised",
+        "started",
+        "stock",
+        "the",
+        "years"
+      ],
+      "source_excerpt": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T23:36:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9c4203040798acdb25636811",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T23:01:09+00:00",
+      "last_update": "2026-11-18T23:01:09+00:00",
+      "event": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bond",
+        "bonds",
+        "both",
+        "cons",
+        "ever",
+        "first",
+        "gilts",
+        "government",
+        "happening",
+        "have",
+        "heard",
+        "its",
+        "kilts",
+        "launch",
+        "market",
+        "msps",
+        "plan",
+        "pros",
+        "scottish",
+        "the",
+        "what",
+        "with"
+      ],
+      "source_excerpt": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T23:01:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6f9a3ae8ed90fa0cc6e3bd1e",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T23:01:49+00:00",
+      "last_update": "2026-11-18T23:01:49+00:00",
+      "event": "Hunger Games fan, 13, to get artwork shown on cinema screens before film",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "artwork",
+        "bbc",
+        "before",
+        "cinema",
+        "fan",
+        "film",
+        "games",
+        "get",
+        "hunger",
+        "screens",
+        "shown"
+      ],
+      "source_excerpt": "Hunger Games fan, 13, to get artwork shown on cinema screens before film BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZEtwNEFOQ0E5dDNpcGdqR2hsWU5JbndSc0NNcXZJeDR0Q3F3cWFNZTVOZzFpc0hkejJUNGNPdHliYy14VVBVTDFxV1pZY2RUd1hMVGFBdTE0eXM?oc=5",
+          "published_at": "2026-11-18T23:01:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZEtwNEFOQ0E5dDNpcGdqR2hsWU5JbndSc0NNcXZJeDR0Q3F3cWFNZTVOZzFpc0hkejJUNGNPdHliYy14VVBVTDFxV1pZY2RUd1hMVGFBdTE0eXM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9afc0ac3eabe6a3967fa2195",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T23:05:05+00:00",
+      "last_update": "2026-11-18T23:05:05+00:00",
+      "event": "Wales' papers: Applause for dad as son's killers jailed and new report rejects axing of regions",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "applause",
+        "axing",
+        "bbc",
+        "dad",
+        "for",
+        "jailed",
+        "killers",
+        "new",
+        "papers",
+        "regions",
+        "rejects",
+        "report",
+        "son",
+        "wales"
+      ],
+      "source_excerpt": "Wales' papers: Applause for dad as son's killers jailed and new report rejects axing of regions BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54QlJRMmVHSGs5d0I5b3ppenJvMXNGQnlZOTJwV1hpLUNUb3d0WlFIQi1IYS1CdWpWa2JDVVJqcGd3VFd3eVN4YzFIOXJ1bElqSUJqWFJfNGpSWWc?oc=5",
+          "published_at": "2026-11-18T23:05:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54QlJRMmVHSGs5d0I5b3ppenJvMXNGQnlZOTJwV1hpLUNUb3d0WlFIQi1IYS1CdWpWa2JDVVJqcGd3VFd3eVN4YzFIOXJ1bElqSUJqWFJfNGpSWWc?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2cc40e5b2fad2aba02fc62c9",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T23:00:50+00:00",
+      "last_update": "2026-11-18T23:00:50+00:00",
+      "event": "Flooding fear after Gwaelod-y-Garth mine water torrent",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bbc",
+        "fear",
+        "flooding",
+        "garth",
+        "gwaelod",
+        "mine",
+        "torrent",
+        "water"
+      ],
+      "source_excerpt": "Flooding fear after Gwaelod-y-Garth mine water torrent BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wQmUyUUJYYWhIc3VmOWowcUR5d19sR0VQb0xWdVR3RHpCN3kzTUpTeGFyZW80SkVzTUs4Uk1YeUk1Y2RYdnI1YXB3aHdiNmw5QTEtMGkxeDNZeGM?oc=5",
+          "published_at": "2026-11-18T23:00:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wQmUyUUJYYWhIc3VmOWowcUR5d19sR0VQb0xWdVR3RHpCN3kzTUpTeGFyZW80SkVzTUs4Uk1YeUk1Y2RYdnI1YXB3aHdiNmw5QTEtMGkxeDNZeGM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "79d58296e216dfbced3a8605",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T22:48:02+00:00",
+      "last_update": "2026-11-18T22:48:02+00:00",
+      "event": "Late partnerships, disciplined bowling enable Pakistan tighten noose around Sri Lanka",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "around",
+        "bowling",
+        "disciplined",
+        "enable",
+        "express",
+        "lanka",
+        "late",
+        "noose",
+        "pakistan",
+        "partnerships",
+        "sri",
+        "the",
+        "tighten",
+        "tribune"
+      ],
+      "source_excerpt": "Late partnerships, disciplined bowling enable Pakistan tighten noose around Sri Lanka The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1VHMF9OeGtQQTJxbnpYc3pLZUhTaVRVR25xbVBMXzIycXN5NmNlMC1TUkdxYS1aLVdLb2J2eFFEQ1J6bFBPSjc4anRZVkJXa1pfZVNISTVEenZtcHRHMHFjQnZ4aEdnUERPa0FxQUN0U1pvTm1QV2xKVlZBazQ5OHNzdTIzRE1MWEdEM3hkSFRydzNTd0J4N2tGcUF2NU8tcFZOdU5TTmJOeGpDWms4M3dtbjZ5aDRRY0hVbjgwVjFhV1RRX0RRUA?oc=5",
+          "published_at": "2026-11-18T22:48:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1VHMF9OeGtQQTJxbnpYc3pLZUhTaVRVR25xbVBMXzIycXN5NmNlMC1TUkdxYS1aLVdLb2J2eFFEQ1J6bFBPSjc4anRZVkJXa1pfZVNISTVEenZtcHRHMHFjQnZ4aEdnUERPa0FxQUN0U1pvTm1QV2xKVlZBazQ5OHNzdTIzRE1MWEdEM3hkSFRydzNTd0J4N2tGcUF2NU8tcFZOdU5TTmJOeGpDWms4M3dtbjZ5aDRRY0hVbjgwVjFhV1RRX0RRUA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c18f0a66719bd44631c41f21",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T21:45:00+00:00",
+      "last_update": "2026-11-18T21:45:00+00:00",
+      "event": "Stephen Baldwin reveals heart emergency, credits Hailey Bieber for warning",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actor",
+        "all",
+        "and",
+        "artery",
+        "baldwin",
+        "being",
+        "bieber",
+        "coronary",
+        "credits",
+        "daughter",
+        "disease",
+        "emergency",
+        "for",
+        "hailey",
+        "has",
+        "heart",
+        "his",
+        "hospital",
+        "monitored",
+        "old",
+        "reason",
+        "revealed",
+        "reveals",
+        "rushed",
+        "says",
+        "stephen",
+        "summer",
+        "the",
+        "this",
+        "told",
+        "warning",
+        "was",
+        "with",
+        "year"
+      ],
+      "source_excerpt": "Stephen Baldwin reveals heart emergency, credits Hailey bieber for warning Stephen Baldwin has revealed he was rushed to hospital this summer with coronary artery disease, and says his daughter Hailey Bieber is the reason he was being monitored at all. The 60-year-old actor told...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691717-stephen-baldwin-reveals-heart-emergency-credits-hailey-bieber-for-warning",
+          "published_at": "2026-11-18T21:45:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691717-stephen-baldwin-reveals-heart-emergency-credits-hailey-bieber-for-warning",
+        "publisher_url": "https://www.geo.tv/latest/691717-stephen-baldwin-reveals-heart-emergency-credits-hailey-bieber-for-warning",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5abb98fdf09512a87b21c821",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T21:40:21+00:00",
+      "last_update": "2026-11-18T21:40:21+00:00",
+      "event": "Fertiliser firms demand gas contracts",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "contracts",
+        "demand",
+        "express",
+        "fertiliser",
+        "firms",
+        "gas",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Fertiliser firms demand gas contracts The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBT3FOUTZzMnlWdDF2Y182Z3NjVTZXek50TW8yQlBDdVBuazlKQTFzQUNRTjlONTAtUkljV3lGQnk0TnRyQjluVXZZR3lNNVVlaHhjRkhBOXUxSWRxUXV5VzdXczYzWXlkd3BkMnV6QW9RTFItd2ktekhYQ0RDSEHSAYcBQVVfeXFMTk5tSnBuZjNzT0JUYjRhWVFQOGNuLWwzc2hQRndfTVZDamk2bWY0czVNV2J4OF94dXlneW5mNDJMbEphd1dtVldfc1hHaWc1SE9EX0VEa0U1R21ITngyamgzWXozLWJnSGhHaWpWem44X1hJM01fTTd1Mm5vZGtSVGJKeXlCbE5Z?oc=5",
+          "published_at": "2026-11-18T21:40:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBT3FOUTZzMnlWdDF2Y182Z3NjVTZXek50TW8yQlBDdVBuazlKQTFzQUNRTjlONTAtUkljV3lGQnk0TnRyQjluVXZZR3lNNVVlaHhjRkhBOXUxSWRxUXV5VzdXczYzWXlkd3BkMnV6QW9RTFItd2ktekhYQ0RDSEHSAYcBQVVfeXFMTk5tSnBuZjNzT0JUYjRhWVFQOGNuLWwzc2hQRndfTVZDamk2bWY0czVNV2J4OF94dXlneW5mNDJMbEphd1dtVldfc1hHaWc1SE9EX0VEa0U1R21ITngyamgzWXozLWJnSGhHaWpWem44X1hJM01fTTd1Mm5vZGtSVGJKeXlCbE5Z?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "63785b21deaaa795e4e2ac23",
+      "remembered_at": "2026-11-18T23:37:13.613399+00:00",
+      "event_date": "2026-11-18T21:39:47+00:00",
+      "last_update": "2026-11-18T21:39:47+00:00",
+      "event": "SBP chief for building on macroeconomic gains",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "building",
+        "chief",
+        "express",
+        "for",
+        "gains",
+        "macroeconomic",
+        "sbp",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "SBP chief for building on macroeconomic gains The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGd3a3VaaUxFRm5GTl9vNnIwdGpSakVtTDZzcDE0d283UDBibGtZdmNCcDZDQ0tsaVZVbzhvZktCQ1NtVmNkMDR2NHAtbTNOQ0FMeDMtNUpRbEdyOVRoT2dxTXhzZ1lrM245blhPNmFOWU8tZmFrOEhaOHNXZktjZnJ2Z3RKd3ZzOFHSAZIBQVVfeXFMTlNHeVFfY0MwbWRKaW5DUGpkRDlYSmp6UWdVSHdXaTZMZldGOGZtSktvWlpqUDF2akI4c3Nlbl9MRVJweG9WOHZmT1J4ck51QnlKMUhKVFVybWhtNld5NUU1ZEFxaDJzVVRTYWY0QjlselJHS2lUekRIaW1DY05VWnNZZ1hJTE9mZlZLRnRYREs2enc?oc=5",
+          "published_at": "2026-11-18T21:39:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGd3a3VaaUxFRm5GTl9vNnIwdGpSakVtTDZzcDE0d283UDBibGtZdmNCcDZDQ0tsaVZVbzhvZktCQ1NtVmNkMDR2NHAtbTNOQ0FMeDMtNUpRbEdyOVRoT2dxTXhzZ1lrM245blhPNmFOWU8tZmFrOEhaOHNXZktjZnJ2Z3RKd3ZzOFHSAZIBQVVfeXFMTlNHeVFfY0MwbWRKaW5DUGpkRDlYSmp6UWdVSHdXaTZMZldGOGZtSktvWlpqUDF2akI4c3Nlbl9MRVJweG9WOHZmT1J4ck51QnlKMUhKVFVybWhtNld5NUU1ZEFxaDJzVVRTYWY0QjlselJHS2lUekRIaW1DY05VWnNZZ1hJTE9mZlZLRnRYREs2enc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T22:41:55.913103+00:00"
+  "updated_at": "2026-11-18T23:37:13.613399+00:00"
 }
