@@ -1,161 +1,145 @@
-# News Hub report - Wed 18 Nov, 09:45 AM PKT
+# News Hub report - Wed 18 Nov, 10:49 AM PKT
 
 ## Collection
-- New items this run: 50 | items in rolling pool: 298
-- Unique story clusters: 258 (duplicates merged: 40)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 5
-- Items per outlet: Dawn Pakistan 9, ProPakistani 7, samaa tv 6, TechJuice 5, Geo News 4, ARY News 4, Dawn 2, Al Jazeera 2, PhoneWorld 2, Profit by Pakistan Today 2, ARYnews.tv 1, Dunya News 1
+- New items this run: 62 | items in rolling pool: 324
+- Unique story clusters: 281 (duplicates merged: 43)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 7
+- Items per outlet: Dawn 7, Dawn Pakistan 6, ProPakistani 6, Investify 6, Geo News 5, TechJuice 5, ARY News 4, Al Jazeera 4, Dawn Latest 3, BBC Technology 2, The News International 1, Dunya News 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- At hearing, US Navy chief blasted over Iran war and its toll on sailors | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two killed in Zhob roadside blast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI questions Bilawal’s late realisation of ‘people’s hardships’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- MPs pledge resolution backing journalists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nvidia reaffirms open-source AI commitment after Huang’s exit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi firm eyes $30bn energy deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Apple outage disrupts iCloud, Apple Pay and other services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi firm explores $30b Pakistan gas deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman acquitted of murder shot dead along with father | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cartoon: 18 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- At hearing, US Navy chief blasted over Iran war and its toll on sailors | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two killed in Zhob roadside blast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI questions Bilawal’s late realisation of ‘people’s hardships’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- MPs pledge resolution backing journalists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nvidia reaffirms open-source AI commitment after Huang’s exit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi firm eyes $30bn energy deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Apple outage disrupts iCloud, Apple Pay and other services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi firm explores $30b Pakistan gas deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman acquitted of murder shot dead along with father | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cartoon: 18 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- At hearing, US Navy chief blasted over Iran war and its toll on sailors | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two killed in Zhob roadside blast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI questions Bilawal’s late realisation of ‘people’s hardships’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- MPs pledge resolution backing journalists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nvidia reaffirms open-source AI commitment after Huang’s exit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi firm eyes $30bn energy deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Apple outage disrupts iCloud, Apple Pay and other services | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi firm explores $30b Pakistan gas deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman acquitted of murder shot dead along with father | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cartoon: 18 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 88/107 | empty: 3 | failed: 16 | malformed/partial: 16
-- Trusted publisher desks with at least one healthy source: 9/10
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Punjab Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Balochistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Petrol prices | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Express News
 
 ## Selected for the queue
-### US Navy chief blasted over Iran war and sailor toll at hearing  [NORMAL]
-- Poster: امریکہ میں ایران جنگ اور ملاحوں پر دباؤ پر نیوی چیف کو تنقید کا سامنا / US Navy chief blasted over Iran war and sailor toll | category security
-- Alternative headline: Lawmakers grill US Navy chief over Iran war strain on sailors
+### Saudi Firm Signs Pact To Explore $30 Billion Energy Infrastructure Deal In Pakistan  [NORMAL]
+- Poster: سعودی کمپنی کا پاکستان میں 30 ارب ڈالر توانائی سرمایہ کاری کا معاہدہ / Saudi firm signs pact for $30bn Pakistan energy deal | category economy
+- Alternative headline: Pakistan And Saudi Firm Explore Massive $30 Billion Energy Infrastructure Investment
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmNWcEFrRHZScS1EeEQ2bW9mUC1RdGx4eHpselhIa3d5bHpaTEktY3pJVmZnYTgtV1NqTUFvdy10NXFhd3BDREtQTHk4T2g5WE1ZTTYwV3F0RE5ZcXNydExvN3MzTzNIeTkxR2FkUTUwemdieVRFQXluR1BidnNQbHdNS2ZaYUVDc0xKa09ndy1KWDA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmNWcEFrRHZScS1EeEQ2bW9mUC1RdGx4eHpselhIa3d5bHpaTEktY3pJVmZnYTgtV1NqTUFvdy10NXFhd3BDREtQTHk4T2g5WE1ZTTYwV3F0RE5ZcXNydExvN3MzTzNIeTkxR2FkUTUwemdieVRFQXluR1BidnNQbHdNS2ZaYUVDc0xKa09ndy1KWDA?oc=5
-- Supporting coverage: Al-Monitor, Internazionale, ARYnews.tv, ARY News
-- Keywords: US Navy chief, Iran war, sailors, US hearing, maritime forces | hashtags: #USNavy #IranWar #Sailors #USA
-- Scheduled: Wed 18 Nov, 09:45 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KOEc3MXdTeEtDdE9pc3d2LTRfMlhwVHgySGR4Mm9taHJCbkZQdGNvSGNqLWJ3QTVrRlNFTW5oQXhlN0NFUnhrdzdB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KOEc3MXdTeEtDdE9pc3d2LTRfMlhwVHgySGR4Mm9taHJCbkZQdGNvSGNqLWJ3QTVrRlNFTW5oQXhlN0NFUnhrdzdB?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Investify
+- Keywords: Saudi energy investment, Pakistan energy, Saudi Arabia Pakistan deal, energy infrastructure, foreign direct investment | hashtags: #PakistanEconomy #SaudiArabia #EnergySector #Investment #Pakistan
+- Scheduled: Wed 18 Nov, 10:49 AM PKT
 - Caption:
 ```
-US lawmakers have strongly criticized the US Navy chief during a hearing regarding the Iran war and its severe toll on sailors.
+A Saudi firm has signed an agreement to explore energy infrastructure in Pakistan, proposing an investment of up to $30 billion.
 
-During a congressional hearing, the US Navy chief faced intense questioning and criticism regarding the ongoing impact of the Iran war and the heavy strain it has placed on maritime forces and sailors.
+A Saudi firm has entered into an agreement to explore energy infrastructure projects in Pakistan with a proposed investment of $30 billion. The development marks potential major foreign funding aimed at developing and expanding critical national energy networks.
 
-امریکہ میں ایک پارلیمانی سماعت کے دوران نیوی کے سربراہ کو ایران کی جنگ اور اس کے نتیجے میں ملاحوں کو درپیش شدید دباؤ پر سخت تنقید کا نشانہ بنایا گیا۔
+ایک سعودی فرم نے پاکستان کے ساتھ توانائی کے بنیادی ڈھانچے کے شعبے میں 30 ارب ڈالر کی مجوزہ سرمایہ کاری کے جائزے کے لیے معاہدہ کیا ہے۔ یہ پیش رفت توانائی کے اہم منصوبوں میں ممکنہ بڑی غیر ملکی سرمایہ کاری کی نشاندہی کرتی ہے۔
 
-First reported by ARYnews.tv
+First reported by Dawn.
 
-#USNavy #IranWar #Sailors #USA
+#PakistanEconomy #SaudiArabia #EnergySector #Investment #Pakistan
 ```
 
-### Two killed in Balochistan's Zhob roadside blast  [NORMAL]
-- Poster: بلوچستان کے علاقے ژوب میں سڑک کنارے دھماکے میں دو افراد جاں بحق / Two killed in Zhob roadside blast | category security
-- Alternative headline: Roadside explosion in Zhob leaves two dead
+### Global Apple Outage Disrupts Key Services Including iCloud And Apple Pay  [NORMAL]
+- Poster: ایپل کی بڑی بندش: آئی کلاؤڈ اور ایپل پے کی سروسز متاثر / Global Apple outage hits iCloud and Apple Pay | category tech_apps
+- Alternative headline: Apple Services Hit By Major Outage Disrupting iCloud And Apple Pay Globally
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE9jRHNYYmFlS1k2OUZDSzVwTTZFQnZYM1QzRGswUFN5U1VBUnc4VjVvQmlBTWJ6M202US1FODVKc0RxRmxrdFpQUnJVVWZiZFYwMms3aU5Hem1vUnh0Tk1Xb1VsWnBrbnowSnhQN014a2FTdUkxMkE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE9jRHNYYmFlS1k2OUZDSzVwTTZFQnZYM1QzRGswUFN5U1VBUnc4VjVvQmlBTWJ6M202US1FODVKc0RxRmxrdFpQUnJVVWZiZFYwMms3aU5Hem1vUnh0Tk1Xb1VsWnBrbnowSnhQN014a2FTdUkxMkE?oc=5
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHl4MS1nR0N6NVRkU3V0NGtmOEhVTHJMc2xETW5la19qaE1IWjQ3TU1ZME5pV1NVRjExWFI4Yy1LdXpCai1hMW5sZXJwbWlHU2RnUXo0S183dkNpeW8zVFZ5R1hFZXBkdngtd1NVaU83TzZuZXFKZE00N0ozQmVNUUpVenpWVWh2R1FHUXdYMUpBXzA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHl4MS1nR0N6NVRkU3V0NGtmOEhVTHJMc2xETW5la19qaE1IWjQ3TU1ZME5pV1NVRjExWFI4Yy1LdXpCai1hMW5sZXJwbWlHU2RnUXo0S183dkNpeW8zVFZ5R1hFZXBkdngtd1NVaU83TzZuZXFKZE00N0ozQmVNUUpVenpWVWh2R1FHUXdYMUpBXzA?oc=5
+- Supporting coverage: samaa tv, TechJuice, Profit by Pakistan Today
+- Keywords: Apple outage, iCloud down, Apple Pay outage, Apple services, tech outage | hashtags: #AppleOutage #ApplePay #iCloud #TechNews #Apple
+- Scheduled: Wed 18 Nov, 10:59 AM PKT
+- Caption:
+```
+A major outage has hit Apple services, leaving iCloud, Apple Pay, and other platforms unresponsive for users worldwide.
+
+A widespread system outage disrupted Apple services worldwide, impacting platforms including iCloud and Apple Pay. Reports indicate that users were left unable to access stored cloud data or complete payments as multiple online functions became unresponsive.
+
+دنیا بھر میں ایپل کی سروسز بڑی تکنیکی خرابی کا شکار ہو گئیں جس کے باعث آئی کلاؤڈ اور ایپل پے سمیت دیگر اہم فیچرز بند ہو گئے۔ صارفین کو کلاؤڈ ڈیٹا تک رسائی اور ادائیگیوں میں مشکلات کا سامنا کرنا پڑا۔
+
+First reported by samaa tv.
+
+#AppleOutage #ApplePay #iCloud #TechNews #Apple
+```
+
+### Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Project  [NORMAL]
+- Poster: پاکستان اور سعودی فرم کے درمیان 30 ارب ڈالر کے گیس منصوبے پر بات چیت / Saudi firm explores $30bn Pakistan gas deal | category economy
+- Alternative headline: Saudi Firm Explores Potential $30 Billion Gas Deal With Pakistan
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1U4emw3SmZKTm5ZUWpjZ3lDbkdXaU1zS19QVW5lOUdMZjl1ZUlPQ0xFMkRMNjZGMHlQdE05US1US0YtVDBUWFJPNW9Da2EtN200LVNoVDFzQXJNUlVCNjRyVzZmb1Nic01lYUEwbDRHMGgzREk0LV8yUkNoRVNYY0hXaDfSAYwBQVVfeXFMT2FVSzJUekYwX2tDN293RGExdGNZNFc0QXctXy1qOElSLVRkOXZHdDBvRUVOTTdFb2NYcFByaHNfWk5mTDBqWkN4X0wyakg3LTJkM2RITzlRckhOWDhlTUJ2RXY0S0ZxR0RMeVBHUEV5eHkwRWhINVpXSnRJTktmWUdFMlhMR21oczY0ajg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1U4emw3SmZKTm5ZUWpjZ3lDbkdXaU1zS19QVW5lOUdMZjl1ZUlPQ0xFMkRMNjZGMHlQdE05US1US0YtVDBUWFJPNW9Da2EtN200LVNoVDFzQXJNUlVCNjRyVzZmb1Nic01lYUEwbDRHMGgzREk0LV8yUkNoRVNYY0hXaDfSAYwBQVVfeXFMT2FVSzJUekYwX2tDN293RGExdGNZNFc0QXctXy1qOElSLVRkOXZHdDBvRUVOTTdFb2NYcFByaHNfWk5mTDBqWkN4X0wyakg3LTJkM2RITzlRckhOWDhlTUJ2RXY0S0ZxR0RMeVBHUEV5eHkwRWhINVpXSnRJTktmWUdFMlhMR21oczY0ajg?oc=5
+- Supporting coverage: The Express Tribune, ARY News
+- Keywords: Pakistan gas deal, Saudi Arabia investment, gas pipeline project, Pakistan energy, The Express Tribune | hashtags: #GasPipeline #SaudiInvestment #PakistanEconomy #EnergyDeal #Pakistan
+- Scheduled: Wed 18 Nov, 11:09 AM PKT
+- Caption:
+```
+Pakistan and a Saudi firm are exploring a proposed $30 billion gas deal, focusing on major energy pipeline infrastructure.
+
+A Saudi firm is exploring a massive $30 billion gas pipeline project in Pakistan. The proposed initiative seeks to address energy infrastructure needs and expand supply channels through significant cross-border investment and bilateral industrial cooperation.
+
+پاکستان اور ایک سعودی فرم کے درمیان 30 ارب ڈالر مالیت کے گیس پائپ لائن منصوبے کے امکانات کا جائزہ لیا جا رہا ہے۔ اس مجوزہ منصوبے کا مقصد ملک میں گیس کے بنیادی ڈھانچے کو وسعت دینا اور توانائی کی ضروریات پوری کرنا ہے۔
+
+First reported by The Express Tribune.
+
+#GasPipeline #SaudiInvestment #PakistanEconomy #EnergyDeal #Pakistan
+```
+
+### Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar  [NORMAL]
+- Poster: بھکر: قتل کیس سے بری ہونے والی خاتون والد سمیت فائرنگ میں جاں بحق / Woman acquitted of murder shot dead with father in Bhakkar | category crime
+- Alternative headline: Acquitted Murder Suspect And Her Father Gunned Down In Bhakkar
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjFPOUNlb2lKYWlQaFRpS0hDQ0U5UEEzVTYzYlhiTkJ2M3RGWmZlM2NnaFo0X2Q4Wk9IMFg2VzNJcE9mZlBXWFdoOGNUekwzWEtpVEVyVTBYdmhQV1d1XzhDYktfQzBWa09waG1FSnBLZHVUV2hKSW5FNDJpQ3JYMV9EUU4tSlRMQ0lqX2ppTkY?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjFPOUNlb2lKYWlQaFRpS0hDQ0U5UEEzVTYzYlhiTkJ2M3RGWmZlM2NnaFo0X2Q4Wk9IMFg2VzNJcE9mZlBXWFdoOGNUekwzWEtpVEVyVTBYdmhQV1d1XzhDYktfQzBWa09waG1FSnBLZHVUV2hKSW5FNDJpQ3JYMV9EUU4tSlRMQ0lqX2ppTkY?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Zhob blast, Balochistan, roadside bomb,  casualties, Dawn | hashtags: #Zhob #Balochistan #BreakingNews
-- Scheduled: Wed 18 Nov, 09:55 AM PKT
+- Keywords: Bhakkar shooting, murder acquittal, father daughter killed, Bhakkar crime, Punjab police | hashtags: #Bhakkar #CrimeNews #PunjabPolice #PakistanNews #Dawn
+- Scheduled: Wed 18 Nov, 11:19 AM PKT
 - Caption:
 ```
-A tragic roadside explosion in Balochistan's Zhob district has resulted in the deaths of two individuals.
+A woman who had recently been acquitted of murder has been shot dead alongside her father in Bhakkar.
 
-At least two people were killed in a roadside blast in Balochistan's Zhob district, according to reports by Dawn. Authorities are investigating the incident.
+A woman previously acquitted of murder charges was shot dead along with her father in Bhakkar. The armed attack occurred following her legal clearance, prompting an immediate investigation into the targeted killings by local authorities.
 
-ڈان کی رپورٹ کے مطابق بلوچستان کے ضلع ژوب میں سڑک کے کنارے ہونے والے ایک دھماکے میں دو افراد ہلاک ہو گئے۔ حکام واقعے کی تحقیقات کر رہے ہیں۔
+بھکر میں قتل کے مقدمے سے بری ہونے والی ایک خاتون کو اس کے والد سمیت فائرنگ کر کے قتل کر دیا گیا۔ عدالت سے رہائی کے بعد پیش آنے والے اس لرزہ خیز واقعے پر پولیس نے تحقیقات شروع کر دی ہیں۔
 
-First reported by Dawn
+First reported by Dawn.
 
-#Zhob #Balochistan #BreakingNews
+#Bhakkar #CrimeNews #PunjabPolice #PakistanNews #Dawn
 ```
 
-### PTI questions Bilawal’s late realisation of people’s hardships  [NORMAL]
-- Poster: پی ٹی آئی کا عوام کی مشکلات پر بلاول کے دیر سے احساس پر سوال / PTI questions Bilawal over public hardships | category politics
-- Alternative headline: PTI reacts to Bilawal Bhutto's remarks on public hardships
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUJicEJyR1hXZ2ljYy00eldfbHo0bGJ6Q090SzhTVlJ3cS1mczgwa2dYcUd2Q3FyVEUza2NqSnZqcUNhelJOd0tTT2ZxUE1xV2o4bUpyODZ2b0JsSjRlUFJfeWpoQnpMTDBldXQtbzVtWGhhNTlWMk1JaFNWanhZVUlLbWI4SmRONEpPWFE2NGx0RzhjdkotUmFn?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUJicEJyR1hXZ2ljYy00eldfbHo0bGJ6Q090SzhTVlJ3cS1mczgwa2dYcUd2Q3FyVEUza2NqSnZqcUNhelJOd0tTT2ZxUE1xV2o4bUpyODZ2b0JsSjRlUFJfeWpoQnpMTDBldXQtbzVtWGhhNTlWMk1JaFNWanhZVUlLbWI4SmRONEpPWFE2NGx0RzhjdkotUmFn?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: PTI, Bilawal Bhutto, public hardships, politics, Dawn | hashtags: #PTI #BilawalBhutto #PakistanPolitics
-- Scheduled: Wed 18 Nov, 10:05 AM PKT
-- Caption:
-```
-Pakistan Tehreek-e-Insaf has questioned Bilawal Bhutto-Zardari over what they call a belated realization of the hardships faced by the public.
-
-Pakistan Tehreek-e-Insaf (PTI) has raised questions regarding Bilawal Bhutto-Zardari's belated realization of the difficulties and hardships faced by the common people, as reported by Dawn.
-
-ڈان کی رپورٹ کے مطابق پاکستان تحریک انصاف (پی ٹی آئی) نے بلاول بھٹو زرداری کی جانب سے عوام کو درپیش مشکلات کا دیر سے احساس کرنے پر سوالات اٹھائے ہیں۔
-
-First reported by Dawn
-
-#PTI #BilawalBhutto #PakistanPolitics
-```
-
-### Balochistan MPs pledge resolution backing journalists  [NORMAL]
-- Poster: بلوچستان کے ارکان اسمبلی کی صحافیوں کی حمایت میں قرارداد کی یقین دہانی / Balochistan MPs pledge resolution backing journalists | category politics
-- Alternative headline: Lawmakers in Balochistan promise resolution in support of media
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGlXTDY3OUFuRDE5STh0MkgyYmRqaWxfUlhjc2Y4Q0hCM1RLb2lUQ0NmRkZ5MWlNcnBBSWUxSjBCbjJJeDZZLWJfbEJaeDlKeTRwbDQwblN6Z09hcjJTVnFpVllwTmFxVUlLUFJKbFVCUFkzdFdkcGJzcWY1SWZCag?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGlXTDY3OUFuRDE5STh0MkgyYmRqaWxfUlhjc2Y4Q0hCM1RLb2lUQ0NmRkZ5MWlNcnBBSWUxSjBCbjJJeDZZLWJfbEJaeDlKeTRwbDQwblN6Z09hcjJTVnFpVllwTmFxVUlLUFJKbFVCUFkzdFdkcGJzcWY1SWZCag?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Balochistan MPs, journalists, resolution, media freedom, Dawn | hashtags: #Balochistan #Journalists #MediaFreedom
-- Scheduled: Wed 18 Nov, 10:15 AM PKT
-- Caption:
-```
-Lawmakers in Balochistan have pledged to present a resolution in support of journalists and press freedom.
-
-Members of the provincial assembly in Balochistan have pledged to bring forward a resolution backing journalists, ensuring support for the media community, according to Dawn.
-
-ڈان کے مطابق بلوچستان کے اراکین اسمبلی نے صحافیوں کی حمایت میں ایک قرارداد لانے کا وعدہ کیا ہے تاکہ میڈیا کمیونٹی کے ساتھ یکجہتی کا اظہار کیا جا سکے۔
-
-First reported by Dawn
-
-#Balochistan #Journalists #MediaFreedom
-```
-
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
-- [needs_review] normal | Elon Musk and 115,000 Others Sign Petition to Reinstate Ousted Nvidia  | Sun 15 Nov, 03:58 AM PKT
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
 - [needs_review] normal | Top US Official Marco Rubio Behind Nvidia CEO Jensen Huang’s Exit | Sun 15 Nov, 07:01 AM PKT
-- [published] breaking | Saudi-led coalition intercepts ballistic missiles and drones over Riya | Sun 15 Nov, 10:21 AM PKT
-- [published] high | Gold prices in Pakistan drop by Rs. 700, extending three-day loss | Sun 15 Nov, 10:21 AM PKT
 - [needs_review] normal | US Intelligence Estimates Iran Still Retains Up to 2,500 Missiles | Sun 15 Nov, 11:00 AM PKT
 - [published] breaking | KP Governor Bans All Gold Mining, Cancels Leases Over Terrorism Fundin | Sun 15 Nov, 11:14 AM PKT
 - [published] breaking | Iran Warns Of Preemptive Strikes Amid Escalating US Military Tensions | Mon 16 Nov, 07:33 AM PKT
@@ -305,10 +289,10 @@ First reported by Dawn
 - [needs_review] normal | Pakistan Posts $39 Million Current Account Surplus in October, SBP Rep | Wed 18 Nov, 03:32 AM PKT
 - [needs_review] normal | Last-gasp Haaland shoots Norway into Nations League quarters | Wed 18 Nov, 03:42 AM PKT
 - [published] normal | UK sanctions Israeli settlement firms to protect two-state solution | Wed 18 Nov, 03:52 AM PKT
-- [queued] normal | Democrats plan investigations into Trump's Venezuela oil money plans | Wed 18 Nov, 04:02 AM PKT
-- [queued] normal | US Fed's Lisa Cook refuses to attend White House hearing | Wed 18 Nov, 04:30 AM PKT
-- [queued] normal | UK hands over NATO-assigned US soldier accused of spying to US militar | Wed 18 Nov, 04:40 AM PKT
-- [queued] normal | Nvidia reports record sales as new boss rules out Jensen Huang return | Wed 18 Nov, 04:50 AM PKT
+- [needs_review] normal | Democrats plan investigations into Trump's Venezuela oil money plans | Wed 18 Nov, 04:02 AM PKT
+- [needs_review] normal | US Fed's Lisa Cook refuses to attend White House hearing | Wed 18 Nov, 04:30 AM PKT
+- [needs_review] normal | UK hands over NATO-assigned US soldier accused of spying to US militar | Wed 18 Nov, 04:40 AM PKT
+- [published] normal | Nvidia reports record sales as new boss rules out Jensen Huang return | Wed 18 Nov, 04:50 AM PKT
 - [queued] normal | Widow questions if 1980 toxic lagoon fire caused husband's rare cancer | Wed 18 Nov, 05:00 AM PKT
 - [queued] normal | Haitians Back El Salvador Troops Amid Rescue Mission | Wed 18 Nov, 05:25 AM PKT
 - [queued] normal | Fears Grow That Toxic Lagoon Fire Caused Cancer | Wed 18 Nov, 05:35 AM PKT
@@ -330,18 +314,14 @@ First reported by Dawn
 - [queued] normal | Two killed in Balochistan's Zhob roadside blast | Wed 18 Nov, 09:55 AM PKT
 - [queued] normal | PTI questions Bilawal’s late realisation of people’s hardships | Wed 18 Nov, 10:05 AM PKT
 - [queued] normal | Balochistan MPs pledge resolution backing journalists | Wed 18 Nov, 10:15 AM PKT
+- [queued] normal | Saudi Firm Signs Pact To Explore $30 Billion Energy Infrastructure Dea | Wed 18 Nov, 10:49 AM PKT
+- [queued] normal | Global Apple Outage Disrupts Key Services Including iCloud And Apple P | Wed 18 Nov, 10:59 AM PKT
+- [queued] normal | Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Proj | Wed 18 Nov, 11:09 AM PKT
+- [queued] normal | Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar | Wed 18 Nov, 11:19 AM PKT
 
 ## Publishing this run
-- Published 'UK sanctions Israeli settlement firms to protect two-state solution'.
+- Published 'Nvidia reports record sales as new boss rules out Jensen Huang return'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4651 | output tokens: 1855
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+- Calls: 1 | prompt tokens: 5174 | output tokens: 2195
+- Errors: 0

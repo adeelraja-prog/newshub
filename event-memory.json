@@ -58751,7 +58751,961 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ff620771d9f45c4e2869b77f",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T00:38:45+00:00",
+      "last_update": "2026-11-18T04:59:45+00:00",
+      "event": "Saudi firm eyes $30bn energy deal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "30bn",
+        "dawn",
+        "deal",
+        "energy",
+        "eyes",
+        "firm",
+        "saudi"
+      ],
+      "source_excerpt": "Saudi firm eyes $30bn energy deal Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KOEc3MXdTeEtDdE9pc3d2LTRfMlhwVHgySGR4Mm9taHJCbkZQdGNvSGNqLWJ3QTVrRlNFTW5oQXhlN0NFUnhrdzdB?oc=5",
+          "published_at": "2026-11-18T00:38:45+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045379/saudi-firm-signs-agreement-to-explore-energy-infrastructure-in-pakistan-with-proposed-investment-of-30bn",
+          "published_at": "2026-11-18T04:59:45+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjBZOXJFbm9oR2ZPYzZMNXAzUTBTMDhRZF9CYU9yU2VYa0pRRnhoVkphX1BVazFOUVNxRDlwRUMtM0hHSTY2VTFWYV9EdkUtR1hhX3JsQ2VjT2ZTQndFQW0xSDY3MzNJaFRRSUMwQkE2VXlCTnBpR0pKd2R0bF9hNHBmQWtlSmpvT3pjSjJjaDE5bDVPOV9NVTRXQ1hvdEhaaWtiWkNQcVR6c0VxMTJrRWx1YVRxOXhoRVRHYXdaN0xBQUJVUEV6bmg1QUpSdw?oc=5",
+          "published_at": "2026-11-18T04:59:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KOEc3MXdTeEtDdE9pc3d2LTRfMlhwVHgySGR4Mm9taHJCbkZQdGNvSGNqLWJ3QTVrRlNFTW5oQXhlN0NFUnhrdzdB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cbeceb29ec24fb433d66eb0f",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T03:52:36+00:00",
+      "last_update": "2026-11-18T04:49:05+00:00",
+      "event": "Apple outage disrupts iCloud, Apple Pay and other services",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "apple",
+        "disrupts",
+        "icloud",
+        "other",
+        "outage",
+        "pay",
+        "samaa",
+        "services"
+      ],
+      "source_excerpt": "Apple outage disrupts iCloud, Apple Pay and other services samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHl4MS1nR0N6NVRkU3V0NGtmOEhVTHJMc2xETW5la19qaE1IWjQ3TU1ZME5pV1NVRjExWFI4Yy1LdXpCai1hMW5sZXJwbWlHU2RnUXo0S183dkNpeW8zVFZ5R1hFZXBkdngtd1NVaU83TzZuZXFKZE00N0ozQmVNUUpVenpWVWh2R1FHUXdYMUpBXzA?oc=5",
+          "published_at": "2026-11-18T03:52:36+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/apple-hit-by-major-outage-as-icloud-apple-pay-remain-unresponsive-to-users-worldwide/",
+          "published_at": "2026-11-18T04:42:04+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMktrczdqR3BnbUE3TnlsZDZlWWwyR3lvVmVWWk5GNU93ZmRZeS1zT2JWVkdKdEs1eG5iYTJOOUJUQktsaDVtNVZ1alJDUkJxcFJOMkM0dXQ0N0UyN1A1UThHQTU3SE50T2NKRWV3aHRUY2VaMzBEZUtsVWhLYTdTTlplUFlHTGZNVHRtcDF0S2toQkN3NUtFRURYMG4wbzZQU0dUV05FMzB2NDZDT21seWx3emU2TkVVNmZ2TA?oc=5",
+          "published_at": "2026-11-18T04:49:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHl4MS1nR0N6NVRkU3V0NGtmOEhVTHJMc2xETW5la19qaE1IWjQ3TU1ZME5pV1NVRjExWFI4Yy1LdXpCai1hMW5sZXJwbWlHU2RnUXo0S183dkNpeW8zVFZ5R1hFZXBkdngtd1NVaU83TzZuZXFKZE00N0ozQmVNUUpVenpWVWh2R1FHUXdYMUpBXzA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "47957b307c0d6d22d5140bef",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T00:38:19+00:00",
+      "last_update": "2026-11-18T05:16:24+00:00",
+      "event": "Woman acquitted of murder shot dead along with father",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acquitted",
+        "along",
+        "dawn",
+        "dead",
+        "father",
+        "murder",
+        "shot",
+        "with",
+        "woman"
+      ],
+      "source_excerpt": "Woman acquitted of murder shot dead along with father Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjFPOUNlb2lKYWlQaFRpS0hDQ0U5UEEzVTYzYlhiTkJ2M3RGWmZlM2NnaFo0X2Q4Wk9IMFg2VzNJcE9mZlBXWFdoOGNUekwzWEtpVEVyVTBYdmhQV1d1XzhDYktfQzBWa09waG1FSnBLZHVUV2hKSW5FNDJpQ3JYMV9EUU4tSlRMQ0lqX2ppTkY?oc=5",
+          "published_at": "2026-11-18T00:38:19+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045296/woman-acquitted-of-murder-shot-dead-along-with-father-in-bhakkar",
+          "published_at": "2026-11-18T05:16:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjFPOUNlb2lKYWlQaFRpS0hDQ0U5UEEzVTYzYlhiTkJ2M3RGWmZlM2NnaFo0X2Q4Wk9IMFg2VzNJcE9mZlBXWFdoOGNUekwzWEtpVEVyVTBYdmhQV1d1XzhDYktfQzBWa09waG1FSnBLZHVUV2hKSW5FNDJpQ3JYMV9EUU4tSlRMQ0lqX2ppTkY?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a12c6eba8c31fff5faf941c6",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T00:35:42+00:00",
+      "last_update": "2026-11-18T04:53:18+00:00",
+      "event": "Cartoon: 18 November, 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "cartoon",
+        "dawn",
+        "november"
+      ],
+      "source_excerpt": "Cartoon: 18 November, 2026 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRTFoaVZiWFhJVzdMT0F0c1VzS3hyQVdKNExpYkFUYjFaTldPbU95bGdVejZjbWIweXphVUttbmE4OW1aWU91WXNfb3JQM1lPZ1hyY09GLXVCSnJTMXRPM1NhNzhUVkJzTkE?oc=5",
+          "published_at": "2026-11-18T00:35:42+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTRlQ2RnWExfMzUwdHF6b2xjZG9mMkxhR1lQeVZtYmIxTDFEei01Vm5Rcl9sT3FOaElQeDB4RXllVkZyd1hMQUw0YlBJRnJPREZ0b3pTQU83OG5fQVJqcGhPcV9QVzhqUXpqOGVFd0trNWhad2hnOXVMWHdEYlAzbDMzR3VZMUpSdk5fZkpraFFZT1ZBdHE4azNB?oc=5",
+          "published_at": "2026-11-18T04:53:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRTFoaVZiWFhJVzdMT0F0c1VzS3hyQVdKNExpYkFUYjFaTldPbU95bGdVejZjbWIweXphVUttbmE4OW1aWU91WXNfb3JQM1lPZ1hyY09GLXVCSnJTMXRPM1NhNzhUVkJzTkE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "41d7c011c8a7ccd111b6b98d",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T03:17:37+00:00",
+      "last_update": "2026-11-18T04:38:35+00:00",
+      "event": "Tech outage wave reaches US government, Trump says all is 'fine'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "administration",
+        "agency",
+        "all",
+        "and",
+        "broader",
+        "companies",
+        "concerns",
+        "days",
+        "donald",
+        "down",
+        "downplayed",
+        "email",
+        "experienc",
+        "extended",
+        "few",
+        "fine",
+        "flights",
+        "for",
+        "government",
+        "grounded",
+        "its",
+        "many",
+        "national",
+        "network",
+        "nsa",
+        "outage",
+        "outages",
+        "over",
+        "past",
+        "president",
+        "problem",
+        "reaches",
+        "said",
+        "says",
+        "security",
+        "shut",
+        "tech",
+        "technology",
+        "that",
+        "the",
+        "thousands",
+        "trump",
+        "tuesday",
+        "wave"
+      ],
+      "source_excerpt": "Technology outages that shut down email for many companies and grounded thousands of flights over the past few days extended to the US National Security Agency (NSA) on Tuesday, as President Donald Trump’s administration downplayed concerns about a broader problem. The NSA said its network experienc",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045364/tech-outage-wave-reaches-us-government-trump-says-all-is-fine",
+          "published_at": "2026-11-18T03:17:37+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDlkaHNvaTlIRzNERWZiQWM0THk1RGxpWmZjYzZ6ejBWam9MYnpJMmdsUWpCemdkOG44LXpWTFQtRXlDX1ZWbGNfaHd4OEJRR1hubUZac1ZuWmFwczFVQzkxbEZxMDV5c25iSzJiV3dMbzBMWnk4djEtV196N011aFZjNXpNeEhGQWVUdkoxZDl6ckhJVkdVSmNscw?oc=5",
+          "published_at": "2026-11-18T04:38:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045364/tech-outage-wave-reaches-us-government-trump-says-all-is-fine",
+        "publisher_url": "https://www.dawn.com/news/2045364/tech-outage-wave-reaches-us-government-trump-says-all-is-fine",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a6de936af1d4b4acd6fe2b29",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:14:56+00:00",
+      "last_update": "2026-11-18T05:14:56+00:00",
+      "event": "Sindh starts online domicile, residence certificate service for Karachiites",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "certificate",
+        "dawn",
+        "domicile",
+        "for",
+        "karachiites",
+        "online",
+        "residence",
+        "service",
+        "sindh",
+        "starts"
+      ],
+      "source_excerpt": "Sindh starts online domicile, residence certificate service for Karachiites Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWV4a053S1Y3QXMwV3lwcTBkdjhUa29UQkZwSjdWU2hvX0dPYzYtZ1ByYTloNDJIRU0xbU5OSXpyMS1ERzVBUm8yQjBnSUx6bHI2NWs0WV81UmIwSnRoRy1fblFySVRWX0dxQTlTcG80dUtqQWh0eXlSaklWZ29ONWI1RnJsbG9lX3ZrX0RoUkJiZUNNbFNpclBRM3lRMjJrblN0MHVCZWd6YW0w?oc=5",
+          "published_at": "2026-11-18T05:14:56+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045324/sindh-starts-online-domicile-residence-certificate-service-for-karachiites",
+          "published_at": "2026-11-18T05:14:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWV4a053S1Y3QXMwV3lwcTBkdjhUa29UQkZwSjdWU2hvX0dPYzYtZ1ByYTloNDJIRU0xbU5OSXpyMS1ERzVBUm8yQjBnSUx6bHI2NWs0WV81UmIwSnRoRy1fblFySVRWX0dxQTlTcG80dUtqQWh0eXlSaklWZ29ONWI1RnJsbG9lX3ZrX0RoUkJiZUNNbFNpclBRM3lRMjJrblN0MHVCZWd6YW0w?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "07a42cf1ccf354a0fd39084e",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:24:02+00:00",
+      "last_update": "2026-11-18T05:24:02+00:00",
+      "event": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "but",
+        "chances",
+        "chief",
+        "competent",
+        "for",
+        "grossi",
+        "his",
+        "nuclear",
+        "nuke",
+        "plans",
+        "questions",
+        "rafael",
+        "reform",
+        "remain",
+        "seen",
+        "support",
+        "technically",
+        "trump",
+        "wants",
+        "watchdog",
+        "will"
+      ],
+      "source_excerpt": "Nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
+          "published_at": "2026-11-18T05:24:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b40a907e850761722cb3ffb0",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:16:25+00:00",
+      "last_update": "2026-11-18T05:16:25+00:00",
+      "event": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "challengers",
+        "dates",
+        "elected",
+        "election",
+        "fifa",
+        "fourth",
+        "gianni",
+        "infantino",
+        "key",
+        "look",
+        "presidential",
+        "process",
+        "seeks",
+        "term",
+        "the",
+        "who",
+        "will"
+      ],
+      "source_excerpt": "A look at FIFA's presidential election process, the challengers and key dates, as Gianni Infantino seeks a fourth term.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
+          "published_at": "2026-11-18T05:16:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c14760e846ab3c9ed8b6bacf",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:14:07+00:00",
+      "last_update": "2026-11-18T05:14:07+00:00",
+      "event": "Rare video of Brazilian Amazon tribe",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amazon",
+        "awa",
+        "brazil",
+        "brazilian",
+        "emerged",
+        "forest",
+        "has",
+        "isolated",
+        "live",
+        "members",
+        "new",
+        "part",
+        "rare",
+        "remote",
+        "showing",
+        "the",
+        "tribe",
+        "video",
+        "who"
+      ],
+      "source_excerpt": "A new video has emerged showing members of the isolated Awa tribe who live in the remote part of Brazil’s Amazon forest.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rare-video-of-brazilian-amazon-tribe?traffic_source=rss",
+          "published_at": "2026-11-18T05:14:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rare-video-of-brazilian-amazon-tribe?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rare-video-of-brazilian-amazon-tribe?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a4c7bafcc7792df6c3004054",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T04:58:02+00:00",
+      "last_update": "2026-11-18T04:58:02+00:00",
+      "event": "Waymo suspends driverless freeway rides across US after California ban",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "after",
+        "authorities",
+        "ban",
+        "california",
+        "cars",
+        "declared",
+        "driverless",
+        "driving",
+        "freeway",
+        "have",
+        "hazard",
+        "imminent",
+        "incidents",
+        "public",
+        "rides",
+        "safety",
+        "self",
+        "suspends",
+        "traffic",
+        "waymo"
+      ],
+      "source_excerpt": "California authorities have declared self-driving cars an 'imminent hazard to public safety' after traffic incidents.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss",
+          "published_at": "2026-11-18T04:58:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "753fa5483d092cfd9383e736",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:33:13+00:00",
+      "last_update": "2026-11-18T05:33:13+00:00",
+      "event": "Security flaw found in Java, world's third-largest programming language",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bug",
+        "computer",
+        "critical",
+        "discovered",
+        "flaw",
+        "found",
+        "java",
+        "language",
+        "largest",
+        "most",
+        "one",
+        "php",
+        "popular",
+        "programming",
+        "programs",
+        "same",
+        "security",
+        "software",
+        "start",
+        "tech",
+        "that",
+        "the",
+        "third",
+        "uncover",
+        "used",
+        "world"
+      ],
+      "source_excerpt": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T05:33:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6abfaad5b3c31e91cabc41ad",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:10:02+00:00",
+      "last_update": "2026-11-18T05:10:02+00:00",
+      "event": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "and",
+        "another",
+        "apple",
+        "are",
+        "authorities",
+        "banks",
+        "been",
+        "completely",
+        "days",
+        "glitches",
+        "have",
+        "hit",
+        "major",
+        "marco",
+        "microsoft",
+        "one",
+        "outages",
+        "over",
+        "recent",
+        "rubio",
+        "says",
+        "tech",
+        "traffic",
+        "unrelated",
+        "watch"
+      ],
+      "source_excerpt": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T05:10:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "56478bf74c07aa1ba5d229c5",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:28:55+00:00",
+      "last_update": "2026-11-18T05:28:55+00:00",
+      "event": "Xi, Putin meet ahead of historic Trump trilateral summit",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "dawn",
+        "historic",
+        "meet",
+        "putin",
+        "summit",
+        "trilateral",
+        "trump"
+      ],
+      "source_excerpt": "Xi, Putin meet ahead of historic Trump trilateral summit Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHJkYTQwNmswLUQ4dExGeHVack1rMDB4VUZyMm9aMnUyUUJGaGpHUUFCV2lDdzNHakFJS2pPc3ZuMmNSTXVTdDhsYlNPZlVKZ0VnX2xVLVo5NEhXMDdvaC0tTjRlYlhuNG5icDdCb2dhTnFzYTR0RnktTnBVaUV4WG1QbkZYM2gzV1ZRRXdnUzBCLXc?oc=5",
+          "published_at": "2026-11-18T05:28:55+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045382/xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
+          "published_at": "2026-11-18T05:28:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHJkYTQwNmswLUQ4dExGeHVack1rMDB4VUZyMm9aMnUyUUJGaGpHUUFCV2lDdzNHakFJS2pPc3ZuMmNSTXVTdDhsYlNPZlVKZ0VnX2xVLVo5NEhXMDdvaC0tTjRlYlhuNG5icDdCb2dhTnFzYTR0RnktTnBVaUV4WG1QbkZYM2gzV1ZRRXdnUzBCLXc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b10725e5990dd3667358cfff",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:13:49+00:00",
+      "last_update": "2026-11-18T05:13:49+00:00",
+      "event": "Jhang-Sargodha Road: Three officials suspended over substandard work",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "and",
+        "communication",
+        "construction",
+        "department",
+        "departmental",
+        "engineer",
+        "executive",
+        "fol",
+        "highways",
+        "inquiry",
+        "into",
+        "irregularities",
+        "jhang",
+        "officials",
+        "ordered",
+        "over",
+        "punjab",
+        "revealed",
+        "road",
+        "sargodha",
+        "sdo",
+        "singh",
+        "sources",
+        "sub",
+        "substandard",
+        "suspended",
+        "tek",
+        "that",
+        "the",
+        "three",
+        "toba",
+        "tuesday",
+        "work",
+        "works"
+      ],
+      "source_excerpt": "TOBA TEK SINGH: The Punjab Communication and Works Department on Tuesday suspended the Jhang Highways executive engineer, SDO and a sub-engineer and ordered a departmental inquiry into the alleged irregularities and substandard construction work on the Jhang-Sargodha Road. Sources revealed that, fol",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045297/jhang-sargodha-road-three-officials-suspended-over-substandard-work",
+          "published_at": "2026-11-18T05:13:49+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjdZZlk3RGZtc0tHXzkzZzFmRi0zVHBrOWdnUmNOTHFvYUVCcWczS0R2WDJ1WnZ1aDFFRTkwWGRLQU5BVWFDc3JFeDZlWF9pTWpidi00SXdGVXRLNXQtOE9PQ1lRcnhjU3RGaGt1clVRRnFITzVheWdJM2p2MHpyZ2hZQ29zZ2tpTEtzLWtJZUFHZnl3b1dvRWkyX2YxNFBTMEVv?oc=5",
+          "published_at": "2026-11-18T05:13:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045297/jhang-sargodha-road-three-officials-suspended-over-substandard-work",
+        "publisher_url": "https://www.dawn.com/news/2045297/jhang-sargodha-road-three-officials-suspended-over-substandard-work",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "958bffd8c88b2a9ca8941ade",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:43:56+00:00",
+      "last_update": "2026-11-18T05:43:56+00:00",
+      "event": "NA speaker calls for institutional collaboration between Pakistan, Bangladesh bureaucracy",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advocated",
+        "and",
+        "assembly",
+        "ayaz",
+        "bangladesh",
+        "between",
+        "bureaucracies",
+        "bureaucracy",
+        "calls",
+        "civil",
+        "collaboration",
+        "development",
+        "experience",
+        "expressed",
+        "for",
+        "governance",
+        "greater",
+        "has",
+        "highlighting",
+        "institutional",
+        "islamabad",
+        "meeting",
+        "national",
+        "pakistan",
+        "role",
+        "sadiq",
+        "sardar",
+        "servants",
+        "sharing",
+        "speaker",
+        "the",
+        "these",
+        "views",
+        "with"
+      ],
+      "source_excerpt": "ISLAMABAD: Highlighting the role of civil servants in governance and development, National Assembly Speaker Sardar Ayaz Sadiq has advocated greater institutional collaboration and experience-sharing between the bureaucracies of Pakistan and Bangladesh. He expressed these views in a meeting with a de",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045223/na-speaker-calls-for-institutional-collaboration-between-pakistan-bangladesh-bureaucracy",
+          "published_at": "2026-11-18T05:43:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045223/na-speaker-calls-for-institutional-collaboration-between-pakistan-bangladesh-bureaucracy",
+        "publisher_url": "https://www.dawn.com/news/2045223/na-speaker-calls-for-institutional-collaboration-between-pakistan-bangladesh-bureaucracy",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e8764aa20b58ef619a0ba12b",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:35:08+00:00",
+      "last_update": "2026-11-18T05:35:08+00:00",
+      "event": "Third phase of ‘Dharti March’ to begin from Kashmore, says Karachi Bar Association chief",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aamir",
+        "against",
+        "and",
+        "announced",
+        "any",
+        "association",
+        "bar",
+        "begin",
+        "chief",
+        "concerning",
+        "dharti",
+        "division",
+        "from",
+        "further",
+        "has",
+        "house",
+        "jacobabad",
+        "jakhrani",
+        "karachi",
+        "kashmore",
+        "kba",
+        "march",
+        "mobilisation",
+        "nawaz",
+        "phase",
+        "phases",
+        "president",
+        "proposals",
+        "province",
+        "public",
+        "reporters",
+        "said",
+        "says",
+        "sindh",
+        "speaking",
+        "sukkur",
+        "the",
+        "third",
+        "two",
+        "unacceptable",
+        "warraich",
+        "would"
+      ],
+      "source_excerpt": "SUKKUR: Karachi Bar Association (KBA) President Aamir Nawaz Warraich has said any division of Sindh would be unacceptable, and announced further public mobilisation against the proposals concerning the province. Speaking to reporters at Jakhrani House in Jacobabad, Mr Warraich said two phases of the",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045316/third-phase-of-dharti-march-to-begin-from-kashmore-says-karachi-bar-association-chief",
+          "published_at": "2026-11-18T05:35:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045316/third-phase-of-dharti-march-to-begin-from-kashmore-says-karachi-bar-association-chief",
+        "publisher_url": "https://www.dawn.com/news/2045316/third-phase-of-dharti-march-to-begin-from-kashmore-says-karachi-bar-association-chief",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "55f4a0002324eef0b2fd60c6",
+      "remembered_at": "2026-11-18T05:49:23.957661+00:00",
+      "event_date": "2026-11-18T05:25:16+00:00",
+      "last_update": "2026-11-18T05:25:16+00:00",
+      "event": "Malaysia opens Golden Visa Programme for Pakistanis",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "for",
+        "golden",
+        "malaysia",
+        "opens",
+        "pakistanis",
+        "programme",
+        "visa"
+      ],
+      "source_excerpt": "Malaysia opens Golden Visa Programme for Pakistanis",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/malaysia-opens-golden-visa-programme-for-pakistanis",
+          "published_at": "2026-11-18T05:25:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/malaysia-opens-golden-visa-programme-for-pakistanis",
+        "publisher_url": "https://arynews.tv/malaysia-opens-golden-visa-programme-for-pakistanis",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T04:45:55.083638+00:00"
+  "updated_at": "2026-11-18T05:49:23.957661+00:00"
 }
