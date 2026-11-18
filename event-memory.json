@@ -64016,7 +64016,956 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b87e9e266efad5d16aadf4df",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T06:04:27+00:00",
+      "last_update": "2026-11-18T12:39:24+00:00",
+      "event": "Xi, Putin meet ahead of historic Trump trilateral summit",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "historic",
+        "meet",
+        "putin",
+        "summit",
+        "trilateral",
+        "trump"
+      ],
+      "source_excerpt": "Xi, Putin meet ahead of historic Trump trilateral summit",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/xi-putin-meet-ahead-trump-trilateral-summit",
+          "published_at": "2026-11-18T06:04:27+00:00"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWE5YQ09QZzJxbFh6ZllnWkdwN283OHVHbW5xRElsMjAxOXV0dTdSQkNMcnJpU2UtQWxqLTh0ME9NZ3NNY2x6LXBSdWtTNFExN0FVQXhRNUkxVWNObGw5Vmw5TFN4Y0lFaVp3SkIxeTViN3NhNDJMcXNtcS1jNEplRDc5ODJRMXdaLWN2M1hlUDVnNG51VTNV?oc=5",
+          "published_at": "2026-11-18T08:46:34+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045414/chinas-xi-greets-trump-on-arrival-at-shenzhen-airport-ahead-of-trilateral-meeting-with-putin",
+          "published_at": "2026-11-18T10:30:08+00:00"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcF9sZnpjTVZtQnpnUTlmcFJ5OFB4UGhFLVIwUUJFZ1F4MXVBem14ZzRXSkotTUp1S0tJZEZjY1oxbEt3S1NiaXlSbTJrUmZMQjEwWEZUN1dGZTlGSUxTZWl1bzhfT1N4SzhrcDN6X29TMTNadlEzdWFrZWxlalFTV0lUQmNKeGfSAYwBQVVfeXFMT3ByenVPUVlqSzkzRWJmWE13TGxRQjRZcmtBZVU2aFhtVUJiVlZGZGNydnNBOFNuMENZaWdDVHN4aVpUeUF1N2JZaGVwUi05eFNGSDB1c3V3WXlnbk9vczlsb29lVlF5Nll3ZlpPUV9QRUh0RG80VVI3bEtJX1VOQjBlS3BKcUdFXzVEa1U?oc=5",
+          "published_at": "2026-11-18T10:31:58+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss",
+          "published_at": "2026-11-18T11:37:29+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045414/xi-trump-putin-exchange-first-greetings-in-china-ahead-of-historic-meeting",
+          "published_at": "2026-11-18T12:19:10+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T12:39:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/xi-putin-meet-ahead-trump-trilateral-summit",
+        "publisher_url": "https://arynews.tv/xi-putin-meet-ahead-trump-trilateral-summit",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "16b0f06ab19c222c1bff2c11",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T12:37:00+00:00",
+      "last_update": "2026-11-18T13:48:04+00:00",
+      "event": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "army",
+        "capable",
+        "civil",
+        "commends",
+        "conducted",
+        "conducts",
+        "cruise",
+        "engaging",
+        "enhance",
+        "fatah",
+        "flexibility",
+        "has",
+        "ispr",
+        "isprfatah",
+        "launch",
+        "leadership",
+        "long",
+        "military",
+        "missile",
+        "november",
+        "operational",
+        "pakistan",
+        "range",
+        "says",
+        "significantly",
+        "successful",
+        "supersonic",
+        "targets",
+        "top",
+        "will"
+      ],
+      "source_excerpt": "Pakistan Army has conducted a successful launch of Fatah-3 supersonic cruise missile on November 18, 2026. — ISPRFatah-3 will significantly enhance operational flexibility: ISPR.Says supersonic missile capable of engaging targets at long range.Top civil, military leadership commends...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691660-pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile",
+          "published_at": "2026-11-18T12:37:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0dfQ2RUaUhiVGpSRkRyWFdwcTZ0NnppRFlNa3R5U1NWbUU3aVc3dGphYUZkd3IyV3hZYVhlbWVxQk1aRkxRQ19UNkdmRmhWUVhsYkR0ZWJ1UFlWTEhMdEVHdzc3RWxpSE1EYTFrYmoxT0RNOGxudmVackozOXB4NnlJUVpFZU9QSFRDQTFCNld1YmFVZVF4a1Nma3FNTHYtZkdrWTUwbXc?oc=5",
+          "published_at": "2026-11-18T12:37:00+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk93QnFYUzB3SVlKX3hwbG41Vl9jM0U4ZXd4TUNBRUZCRGhRZUYxYjhoc1duLVBhbFA5MnJWRm1vSlc2ODlUb1B4YXRNNGF4U0tsejZZZloyYTBzRVpETDEzTHRxeGc4RUVSNGdjZGFyZFFUb0hmTElLZFFvNlZaaThIYk1YYklCdHJZYkpZamItcHFOaW1DT3BZSkNXMGRNYXdtcEJ4clZjZGhQbS1VMw?oc=5",
+          "published_at": "2026-11-18T12:50:57+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/18/pakistan-successfully-tests-fatah-3-supersonic-cruise-missile/",
+          "published_at": "2026-11-18T12:51:59+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGhTcFdyUXhveVFWYl9DVXcwOGlGMDdBY0ljSmNIMGFkNS05czk3eXEtYURkT1R3ZlRvZzM4TTV0c1ZtRldvcEoxWmZjalVFNjJhUE1zdXlyY0tpTGNZY25NeHhQemFwa3FuWGoweldrbU1jUVlIdlFyMmFjR1lXeXo4MXdYZUs5T0YtdDNlVDNoRjZZUjFFaU5ScTJUQW0zNjBwTHRWVm5BNkMt?oc=5",
+          "published_at": "2026-11-18T13:07:41+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/pakistan-successfully-tests-fatah-3-supersonic-missile/",
+          "published_at": "2026-11-18T13:40:06+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr",
+          "published_at": "2026-11-18T13:48:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691660-pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile",
+        "publisher_url": "https://www.geo.tv/latest/691660-pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5f622b76b71852b96102fad6",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T10:29:31+00:00",
+      "last_update": "2026-11-18T13:28:25+00:00",
+      "event": "£190m corruption case: IHC directs proper medical care, hygienic living conditions for Bushra Bibi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "190m",
+        "adjourning",
+        "agai",
+        "and",
+        "appeals",
+        "authorities",
+        "bibi",
+        "bushra",
+        "care",
+        "case",
+        "conditions",
+        "corruption",
+        "court",
+        "days",
+        "directed",
+        "directs",
+        "ensure",
+        "filed",
+        "for",
+        "former",
+        "founder",
+        "hearing",
+        "her",
+        "high",
+        "husband",
+        "hygienic",
+        "ihc",
+        "imran",
+        "islamabad",
+        "khan",
+        "living",
+        "medical",
+        "minister",
+        "prime",
+        "prison",
+        "proper",
+        "pti",
+        "seven",
+        "the",
+        "wednesday",
+        "while"
+      ],
+      "source_excerpt": "ISLAMABAD: The Islamabad High Court (IHC) on Wednesday directed prison authorities to ensure proper medical care and hygienic living conditions for Bushra Bibi, while adjourning for seven days the hearing of appeals filed by her and her husband, PTI founder and former prime minister Imran Khan, agai",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045411/ps190m-corruption-case-ihc-directs-proper-medical-care-hygienic-living-conditions-for-bushra-bibi",
+          "published_at": "2026-11-18T10:29:31+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045411/ps190m-corruption-case-ihc-directs-proper-medical-care-hygienic-living-conditions-for-bushra-bibi-as-per-prison-rules",
+          "published_at": "2026-11-18T11:05:24+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12RmMzZ0pzWXJvQmhPdk85cEctTXphSW1mR05fM1BfbWJzUXQtOEh3OEplZWxqeUJ0TWJGbzEwR0ZUd0dIcmJjUQ?oc=5",
+          "published_at": "2026-11-18T13:28:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045411/ps190m-corruption-case-ihc-directs-proper-medical-care-hygienic-living-conditions-for-bushra-bibi",
+        "publisher_url": "https://www.dawn.com/news/2045411/ps190m-corruption-case-ihc-directs-proper-medical-care-hygienic-living-conditions-for-bushra-bibi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f2d6d74400908a924fc81f00",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T11:37:38+00:00",
+      "last_update": "2026-11-18T13:00:00+00:00",
+      "event": "Das breaks wicketkeeping Test record",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "breaks",
+        "das",
+        "record",
+        "test",
+        "wicketkeeping"
+      ],
+      "source_excerpt": "Das breaks wicketkeeping Test record",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/das-breaks-wicketkeeping-test-record",
+          "published_at": "2026-11-18T11:37:38+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691656-bangladeshs-litton-das-breaks-world-test-wicketkeeping-record",
+          "published_at": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOempNZkpheUlTRnhYQmFuUHUzaFE3SEdvQ3ZaR0Y4eUFYdWEtNmhBOTlkMTNOTGJvQnBzbjMtQnBMM3dkbEFtcDVZTmFhN1RsaXVMcHpUc2ZieHRBV2xpNGJIem8ySFIwTlhqTmZPUEhER3BVZzA2RUhRc0IxTDEzUXktby1HNWRremxxdTFzcFYzWDI5MWNzNmVB?oc=5",
+          "published_at": "2026-11-18T13:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/das-breaks-wicketkeeping-test-record",
+        "publisher_url": "https://arynews.tv/das-breaks-wicketkeeping-test-record",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "478d8e253fdcef490abdd9fb",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T13:12:00+00:00",
+      "last_update": "2026-11-18T13:12:00+00:00",
+      "event": "'How the Grinch Stole Christmas' sequel won't happen without one condition",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "christmas",
+        "condition",
+        "grinch",
+        "happen",
+        "how",
+        "international",
+        "news",
+        "one",
+        "sequel",
+        "stole",
+        "the",
+        "without",
+        "won"
+      ],
+      "source_excerpt": "'How the Grinch Stole Christmas' sequel won't happen without one condition The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWdlM2NIdlI3cGNWWkdwLW5sVXNkZ18yWVM1aFBNY2pLOVBHOGo4OXl5N1c3SVFQR3hWdXZUM3BzS1pidGo3WGh6SnVFeDdyRS1rM3VMb2JfbXowMkVCUHkwNEMyckt6VjhNTlNsSGh4cEpQay04NmVuNjVfdG5jMWgyX1JkVDU1NzYxN2NqQTVLTTlwbkV1TEdwVl9RYlNtbk1GSFQzcWJ5QlNYdEhr0gGvAUFVX3lxTE4xZ2UzY0h2UjdwY1ZaR3AtbmxVc2RnXzJZUzVoUE1jaks5UEc4ajg5eXk3VzdJUVBHeFZ1dlQzcHNLWmJ0ajdYaHpKdUV4N3JFLWszdUxvYl9tejAyRUJQeTA0QzJyS3pWOE1OU2xIaHhwSlBrLTg2ZW42NV90bmMxaDJfUmRUNTU3NjE3Y2pBNUtNOXBuRXVMR3BWX1FiU21uTUZIVDNxYnlCU1h0SGs?oc=5",
+          "published_at": "2026-11-18T13:12:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWdlM2NIdlI3cGNWWkdwLW5sVXNkZ18yWVM1aFBNY2pLOVBHOGo4OXl5N1c3SVFQR3hWdXZUM3BzS1pidGo3WGh6SnVFeDdyRS1rM3VMb2JfbXowMkVCUHkwNEMyckt6VjhNTlNsSGh4cEpQay04NmVuNjVfdG5jMWgyX1JkVDU1NzYxN2NqQTVLTTlwbkV1TEdwVl9RYlNtbk1GSFQzcWJ5QlNYdEhr0gGvAUFVX3lxTE4xZ2UzY0h2UjdwY1ZaR3AtbmxVc2RnXzJZUzVoUE1jaks5UEc4ajg5eXk3VzdJUVBHeFZ1dlQzcHNLWmJ0ajdYaHpKdUV4N3JFLWszdUxvYl9tejAyRUJQeTA0QzJyS3pWOE1OU2xIaHhwSlBrLTg2ZW42NV90bmMxaDJfUmRUNTU3NjE3Y2pBNUtNOXBuRXVMR3BWX1FiU21uTUZIVDNxYnlCU1h0SGs?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d16bbd6bd20e736ba5db493c",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T13:24:22+00:00",
+      "last_update": "2026-11-18T13:24:22+00:00",
+      "event": "How the US House of Representatives chooses its leaders: A visual guide",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "are",
+        "chooses",
+        "chosen",
+        "democrats",
+        "from",
+        "guide",
+        "here",
+        "house",
+        "how",
+        "its",
+        "january",
+        "lead",
+        "leaders",
+        "midterm",
+        "representatives",
+        "speaker",
+        "the",
+        "their",
+        "visual",
+        "will",
+        "win"
+      ],
+      "source_excerpt": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
+          "published_at": "2026-11-18T13:24:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9a5640d93a3b7002ced2ddce",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T13:02:33+00:00",
+      "last_update": "2026-11-18T13:02:33+00:00",
+      "event": "GTA 6: Everything you need to know about the highly anticipated game",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1bn",
+        "about",
+        "anticipated",
+        "cost",
+        "could",
+        "economists",
+        "everything",
+        "for",
+        "game",
+        "gta",
+        "highly",
+        "know",
+        "lost",
+        "midnight",
+        "need",
+        "predict",
+        "productivity",
+        "release",
+        "set",
+        "the",
+        "with",
+        "you"
+      ],
+      "source_excerpt": "Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
+          "published_at": "2026-11-18T13:02:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5019cb41d9e804311cc68c5d",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T12:41:02+00:00",
+      "last_update": "2026-11-18T12:41:02+00:00",
+      "event": "How data centres are turning AI-generated heat into energy",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "centres",
+        "data",
+        "energy",
+        "generated",
+        "heat",
+        "how",
+        "into",
+        "turning"
+      ],
+      "source_excerpt": "How data centres are turning AI-generated heat into energy",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
+          "published_at": "2026-11-18T12:41:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "619d57b6a182312154bc6e7a",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T12:27:40+00:00",
+      "last_update": "2026-11-18T12:36:56+00:00",
+      "event": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "air",
+        "and",
+        "army",
+        "athlete",
+        "drone",
+        "from",
+        "her",
+        "invasion",
+        "joined",
+        "killed",
+        "mother",
+        "mourns",
+        "operator",
+        "protect",
+        "rayana",
+        "russia",
+        "russian",
+        "she",
+        "son",
+        "strike",
+        "ukraine",
+        "was"
+      ],
+      "source_excerpt": "Rayana joined Ukraine’s army in 2024 to protect her son from Russia’s invasion. She was killed in Russian air strike.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
+          "published_at": "2026-11-18T12:27:40+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzh1RHVsQWlmTlJHZzhBajhLanhMTlNVTklNX0lNcVozVlBncHNmdnRHZlVYVkRMSUlHU3dZMG9lVlRybmJXVldDWU9qaTBPVUVtSXpGelZVN3lycFMxZnpxelNVUG83Z205cHhsYWFBTjlrT3hwQWJhUUFYWnEzbXU0dTdwam9hanFIcEE3elJxS2VqSVM3bnpBOUs0WkZGRmtyOEM4TjgzQndheVZYdUYyNU80VGlUZUMwb0loMXltRVXSAcgBQVVfeXFMTWJVZ0dUNndPM2c4bU83WlJhZFB1UmMyeFp6ZXJtSWI1dFdPaGVQTmw4LUI3ZzU1aTljaW1jR016VDFzU243OXNTRWQ5cHR3Tnd3bk01a2lvSXN3WkRycGpwUjB5Wjljenk1WVAxbUVieXcyYTA2ZWJXZ293Yk9ncFM4UUhrQ1lILVV1VG5sNXFHTWRzTEY5SjE1UjU4MEVpVGVmS09RaDZrM2MyVFhPNU1yc1JfWTFhLUFTQTVNZzVWVm1wcTdxYjQ?oc=5",
+          "published_at": "2026-11-18T12:36:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b84477184d20971076dcf43b",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T12:27:23+00:00",
+      "last_update": "2026-11-18T12:27:23+00:00",
+      "event": "Rwanda and DRC: What is holding up the Washington peace process?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accords",
+        "and",
+        "commitments",
+        "divided",
+        "drc",
+        "holding",
+        "key",
+        "over",
+        "peace",
+        "process",
+        "remain",
+        "rwanda",
+        "security",
+        "sides",
+        "the",
+        "two",
+        "under",
+        "washington",
+        "what"
+      ],
+      "source_excerpt": "The two sides remain divided over key security commitments under the Washington Accords.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
+          "published_at": "2026-11-18T12:27:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "59995b991e731b7bcf5d1cc7",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T13:16:53+00:00",
+      "last_update": "2026-11-18T13:16:53+00:00",
+      "event": "Hacks, AI or just overdue updates - why have there been so many outages?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "been",
+        "but",
+        "can",
+        "constant",
+        "disruptions",
+        "evidence",
+        "hacks",
+        "have",
+        "just",
+        "linked",
+        "many",
+        "outages",
+        "overdue",
+        "series",
+        "tech",
+        "the",
+        "there",
+        "these",
+        "unnerving",
+        "updates",
+        "why"
+      ],
+      "source_excerpt": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T13:16:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "06a56a8b5418188f23a4984e",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T13:25:05+00:00",
+      "last_update": "2026-11-18T13:25:05+00:00",
+      "event": "Toilets: Are you a squatter or a sitter?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "average",
+        "bowel",
+        "did",
+        "explores",
+        "josie",
+        "know",
+        "movement",
+        "pass",
+        "peters",
+        "rather",
+        "shorter",
+        "sitter",
+        "sitting",
+        "squatter",
+        "squatting",
+        "takes",
+        "than",
+        "the",
+        "time",
+        "toilets",
+        "why",
+        "you"
+      ],
+      "source_excerpt": "Did you know the average time it takes to pass a bowel movement is shorter if you're squatting rather than sitting? Josie Peters explores why.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/videos/c804wngelw22o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T13:25:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/videos/c804wngelw22o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/videos/c804wngelw22o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8ce656168d8388125b59a9e1",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T13:10:01+00:00",
+      "last_update": "2026-11-18T13:10:01+00:00",
+      "event": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "bills",
+        "cat",
+        "chocolate",
+        "costs",
+        "energy",
+        "fastest",
+        "figures",
+        "food",
+        "for",
+        "heating",
+        "higher",
+        "inflation",
+        "mean",
+        "pace",
+        "prices",
+        "rising",
+        "the",
+        "their",
+        "way",
+        "what",
+        "year",
+        "you"
+      ],
+      "source_excerpt": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T13:10:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6ff214d901129c16ef878144",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T13:01:53+00:00",
+      "last_update": "2026-11-18T13:01:53+00:00",
+      "event": "William and Kate to meet Indian Prime Minister Modi in New Delhi",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bbc",
+        "delhi",
+        "indian",
+        "kate",
+        "meet",
+        "minister",
+        "modi",
+        "new",
+        "prime",
+        "william"
+      ],
+      "source_excerpt": "William and Kate to meet Indian Prime Minister Modi in New Delhi BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
+          "published_at": "2026-11-18T13:01:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7d651cf04d50e11fddb3cfca",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T13:15:49+00:00",
+      "last_update": "2026-11-18T13:15:49+00:00",
+      "event": "Ex-rugby player Danika Priim says sex assault 'never happened'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assault",
+        "bbc",
+        "danika",
+        "happened",
+        "never",
+        "player",
+        "priim",
+        "rugby",
+        "says",
+        "sex"
+      ],
+      "source_excerpt": "Ex-rugby player Danika Priim says sex assault 'never happened' BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tR0RGTExxbVI2N0xGbUpzU3hJS2NwY1Raa0RoQVcwTjlfOWpZX196YloyblZtMHBGekpzVXBoa2RpSkE0b1FfMkRXVzVNbDFUQk5tM2Z3MmVlQmM?oc=5",
+          "published_at": "2026-11-18T13:15:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tR0RGTExxbVI2N0xGbUpzU3hJS2NwY1Raa0RoQVcwTjlfOWpZX196YloyblZtMHBGekpzVXBoa2RpSkE0b1FfMkRXVzVNbDFUQk5tM2Z3MmVlQmM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "962a79ce1ba5478ea0c9531b",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T13:13:10+00:00",
+      "last_update": "2026-11-18T13:13:10+00:00",
+      "event": "UN nuclear watchdog says US-Saudi nuclear agreement 'satisfactory'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreement",
+        "dawn",
+        "nuclear",
+        "satisfactory",
+        "saudi",
+        "says",
+        "watchdog"
+      ],
+      "source_excerpt": "UN nuclear watchdog says US-Saudi nuclear agreement 'satisfactory' Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3pfNWtDbmE3ZUpXNEdFd0ZDSWdaY3ppZGE2OVlPY2RHMkVJOGhsaU85U1lmcGxLcXFkMEtBcVlUWEtuLWlBSlNKMXRkUEZTMW5XQ2NRSWp4QjlZUGJfdkFyQzFDVktvWjZCRWt6ZDA4N3lpaUZocXJvdld3ZDZPSV9UamIxYzRyR1NSREdSWFpva3RjbWdZWVVPRlZSaUU?oc=5",
+          "published_at": "2026-11-18T13:13:10+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045429/un-nuclear-watchdog-says-us-saudi-nuclear-agreement-satisfactory",
+          "published_at": "2026-11-18T13:13:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3pfNWtDbmE3ZUpXNEdFd0ZDSWdaY3ppZGE2OVlPY2RHMkVJOGhsaU85U1lmcGxLcXFkMEtBcVlUWEtuLWlBSlNKMXRkUEZTMW5XQ2NRSWp4QjlZUGJfdkFyQzFDVktvWjZCRWt6ZDA4N3lpaUZocXJvdld3ZDZPSV9UamIxYzRyR1NSREdSWFpva3RjbWdZWVVPRlZSaUU?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fcc55b6daaa8b59c0d81b3f7",
+      "remembered_at": "2026-11-18T13:56:53.824867+00:00",
+      "event_date": "2026-11-18T11:57:10+00:00",
+      "last_update": "2026-11-18T11:57:10+00:00",
+      "event": "Barrister Gohar says PTI’s political position being recognized",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "barrister",
+        "being",
+        "gohar",
+        "political",
+        "position",
+        "pti",
+        "recognized",
+        "says"
+      ],
+      "source_excerpt": "Barrister Gohar says PTI’s political position being recognized",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/barrister-gohar-says-ptis-political-position-being-recognized",
+          "published_at": "2026-11-18T11:57:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/barrister-gohar-says-ptis-political-position-being-recognized",
+        "publisher_url": "https://arynews.tv/barrister-gohar-says-ptis-political-position-being-recognized",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T12:38:05.296572+00:00"
+  "updated_at": "2026-11-18T13:56:53.824867+00:00"
 }

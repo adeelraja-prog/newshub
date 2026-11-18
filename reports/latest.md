@@ -1,106 +1,116 @@
-# News Hub report - Wed 18 Nov, 05:38 PM PKT
+# News Hub report - Wed 18 Nov, 06:56 PM PKT
 
 ## Collection
-- New items this run: 141 | items in rolling pool: 828
-- Unique story clusters: 689 (duplicates merged: 139)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 100, ProPakistani 10, Al Jazeera 8, The Current 4, Dawn Latest 3, ARY News 3, Wired 2, TechJuice 2, Dawn Pakistan 1, The Verge 1, TechCrunch 1, Engadget 1
+- New items this run: 193 | items in rolling pool: 930
+- Unique story clusters: 764 (duplicates merged: 166)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 100, Geo News 23, Al Jazeera 6, ProPakistani 6, Dawn 5, TechJuice 5, Dawn Latest 4, ARY News 4, samaa tv 2, The News International 2, Dawn Pakistan 2, PhoneWorld 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Gaming phenomenon 'Grand Theft Auto' goes live after 13-year wait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan conducts successful launch of Fatah-3 supersonic cruise missile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- After 49 years in space, Voyager 1 reaches one light-day milestone | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 'Human' is Cambridge Dictionary's word of the year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Gaming phenomenon 'Grand Theft Auto' goes live after 13-year wait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan conducts successful launch of Fatah-3 supersonic cruise missile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- After 49 years in space, Voyager 1 reaches one light-day milestone | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 'Human' is Cambridge Dictionary's word of the year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Gaming phenomenon 'Grand Theft Auto' goes live after 13-year wait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan conducts successful launch of Fatah-3 supersonic cruise missile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- After 49 years in space, Voyager 1 reaches one light-day milestone | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 'Human' is Cambridge Dictionary's word of the year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 25/107 | empty: 1 | failed: 81 | malformed/partial: 82
-- Trusted publisher desks with at least one healthy source: 4/10
-- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Geo News, Samaa, Express News, The News International, Dunya News, Dunya News TV
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Grand Theft Auto VI goes live globally after 13-year wait  [NORMAL]
-- Poster: سیریز کے نئے گیم جی ٹی اے سکس کا انتظار ختم / Grand Theft Auto VI launches after 13 years | category other
-- Alternative headline: GTA VI shatters records with massive launch after 13 years
+### Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump  [NORMAL]
+- Poster: شی جن پنگ اور پیوٹن کی ٹرمپ سے ملاقات سے قبل شینزین میں ملاقات / Xi and Putin meet ahead of Trump summit | category world
+- Alternative headline: China and Russia Hold Talks Ahead of High-Stakes Summit With Trump
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045422/gaming-phenomenon-grand-theft-auto-goes-live-after-13-year-wait | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2045422/gaming-phenomenon-grand-theft-auto-goes-live-after-13-year-wait
-- Supporting coverage: TechJuice, The Verge, Ars Technica, The Verge, Wired, Dawn Latest
-- Keywords: Grand Theft Auto VI, GTA VI, Rockstar Games, video game launch, Sensor Tower, PlayStation 5 | hashtags: #GTAVI #GrandTheftAuto #Gaming #RockstarGames #TechNews
-- Scheduled: Wed 18 Nov, 05:38 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/xi-putin-meet-ahead-trump-trilateral-summit | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/xi-putin-meet-ahead-trump-trilateral-summit
+- Supporting coverage: ARY News, Bloomberg.com, Dawn Latest, CNBC, Al Jazeera, Dawn Latest
+- Keywords: Trump Xi Putin summit, Shenzhen summit, China Russia talks, Ukraine war, APEC meeting | hashtags: #XiJinping #VladimirPutin #DonaldTrump #China #Summit
+- Scheduled: Wed 18 Nov, 06:56 PM PKT
 - Caption:
 ```
-Thirteen years after the last release, the most expensive and profitable video game ever developed is finally live.
+Chinese leader Xi Jinping and Russian counterpart Vladimir Putin have begun talks in Shenzhen ahead of a historic three-way summit with Donald Trump.
 
-After 13 years of waiting, the latest instalment of Grand Theft Auto has officially gone live. Available on PlayStation 5 and Xbox Series consoles, specialists estimate advance sales have already surpassed 15 million units, bringing in over $1.5 billion in revenue before release.
+Chinese leader Xi Jinping and Russian counterpart Vladimir Putin began talks in Shenzhen, a day ahead of a historic three-way summit with US President Donald Trump. The meeting has sparked concerns among Ukraine's allies over potential discussions regarding regional spheres of influence, while global issues like nuclear stability and the Iran conflict are also on the agenda.
 
-تیرہ سال کے انتظار کے بعد گرینڈ تھیফٹ آٹو کا نیا ورژن جاری کر دیا گیا ہے۔ پلے اسٹیشن 5 اور ایکس باکس سیریز کے لیے دستیاب اس گیم نے ریلیز سے قبل ہی پندرہ ملین سے زائد یونٹس کی فروخت کے ساتھ ڈیڑھ ارب ڈالر سے زائد کی آمدنی حاصل کر لی ہے۔
+چینی صدر شی جن پنگ اور روسی ہم منصب ولادیمیر پیوٹن نے امریکی صدر ڈونلڈ ٹرمپ کے ساتھ تاریخی سہ فریقی سربراہی اجلاس سے ایک روز قبل شینزین میں مذاکرات کا آغاز کر دیا۔ اس ملاقات نے یوکرین کے حامیوں میں تشویش پیدا کر دی ہے، جبکہ ایٹمی استحکام اور ایران کے تنازع جیسے عالمی امور بھی ایجنڈے میں شامل ہیں۔
 
-First reported by Dawn Latest
+First reported by ARY News
 
-#GTAVI #GrandTheftAuto #Gaming #RockstarGames #TechNews
+#XiJinping #VladimirPutin #DonaldTrump #China #Summit
 ```
 
-### NASA's Voyager 1 probe reaches one light-day milestone  [NORMAL]
-- Poster: وویجر 1 نے خلا میں سفر کرتے ہوئے ایک نوری دن کا فاصلہ طے کر لیا / Voyager 1 reaches one light-day distance from Earth | category other
-- Alternative headline: After 49 years in space, Voyager 1 hits one light-day distance
+### Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile  [NORMAL]
+- Poster: پاک فوج نے فتح تھری سپرسونک کروز میزائل کا کامیاب تجربہ کر لیا / Pakistan successfully tests Fatah-3 missile | category security
+- Alternative headline: ISPR Announces Successful Test Launch of Fatah-3 Supersonic Missile
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045417/after-49-years-in-space-voyager-1-reaches-one-light-day-milestone | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2045417/after-49-years-in-space-voyager-1-reaches-one-light-day-milestone
-- Supporting coverage: Dawn Latest, ARY News, Engadget, Dawn Latest, The Verge
-- Keywords: Voyager 1, NASA, space probe, light-day milestone, interstellar space | hashtags: #Voyager1 #NASA #SpaceExploration #ScienceNews #Astronomy
-- Scheduled: Wed 18 Nov, 05:48 PM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/691660-pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691660-pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile
+- Supporting coverage: Geo News, Geo News, Dawn, ProPakistani, The Express Tribune, TechJuice
+- Keywords: Fatah-3 missile, Pakistan Army, ISPR, supersonic cruise missile, military test | hashtags: #Fatah3 #PakistanArmy #ISPR #PakistanDefense #MissileTest
+- Scheduled: Wed 18 Nov, 07:06 PM PKT
 - Caption:
 ```
-Nearly 50 years after launch, NASA's Voyager 1 has reached a historic distance of one light-day from Earth.
+The Pakistan Army has successfully conducted a test launch of the Fatah-3 supersonic cruise missile, enhancing the country's conventional deterrence.
 
-Nasa’s Voyager 1 probe has reached a milestone distance of one light-day away from Earth after nearly 50 years of space travel. The spacecraft is now about 26 billion kilometres away, making it the most distant man-made object in the universe.
+The Pakistan Army has successfully conducted a test launch of the Fatah-3 supersonic cruise missile, according to the Inter-Services Public Relations (ISPR). Equipped with advanced navigation and propulsion, the missile aims to boost the operational reach and deterrence capabilities of the Army's Rocket Force Command.
 
-ناسا کا وویجر 1 خلائی جہاز خلا میں تقریباً پچاس سال کے سفر کے بعد زمین سے ایک نوری دن کے فاصلے تک پہنچ گیا ہے۔ یہ خلائی جہاز اب زمین سے تقریبا چھبیس ارب کلومیٹر دور ہے، جو اسے کائنات میں انسان کی بنائی ہوئی سب سے دور چیز بناتا ہے۔
+پاک فوج نے شعبہ تعلقات عامہ (آئی ایس پی آر) کے مطابق فتح تھری سپرسونک کروز میزائل کا کامیاب تجربہ کیا ہے۔ جدید نیویگیشن اور پروپلشن سسٹمز سے لیس یہ میزائل پاک فوج کی راکٹ فورس کمانڈ کی صلاحیتوں اور روایتی ڈیٹرنس کو مزید مستحکم کرے گا۔
+
+First reported by Geo News
+
+#Fatah3 #PakistanArmy #ISPR #PakistanDefense #MissileTest
+```
+
+### 'Human' Named Cambridge Dictionary's Word of the Year for 2026  [NORMAL]
+- Poster: کیمبرج ڈکشنری نے 'ہیومن' کو سال 2026 کا بہترین لفظ قرار دے دیا / 'Human' is Cambridge Dictionary's word of the year | category other
+- Alternative headline: Cambridge Dictionary Selects 'Human' as 2026 Word of the Year
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045394/human-is-cambridge-dictionarys-word-of-the-year | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2045394/human-is-cambridge-dictionarys-word-of-the-year
+- Supporting coverage: Dawn Latest, samaa tv, ProPakistani, Geo News, Geo News
+- Keywords: Cambridge Dictionary word of the year, Human word of the year, Artificial Intelligence, Cambridge University Press | hashtags: #CambridgeDictionary #WordOfTheYear #Human #ArtificialIntelligence
+- Scheduled: Wed 18 Nov, 07:16 PM PKT
+- Caption:
+```
+Amid the rapid expansion of Artificial Intelligence, Cambridge Dictionary has named 'human' its Word of the Year for 2026.
+
+Cambridge Dictionary has named 'human' its Word of the Year for 2026, capturing the global zeitgeist amid anxieties and discussions surrounding the rapid rise of Artificial Intelligence and its impact on human employment and identity.
+
+کیمبرج ڈکشنری نے مصنوعی ذہانت (AI) کے بڑھتے ہوئے اثرات اور انسانی روزگار کے حوالے سے خدشات کے پیش نظر 'ہیومن' (Human) کو سال 2026 کا بہترین لفظ قرار دیا ہے۔
 
 First reported by Dawn Latest
 
-#Voyager1 #NASA #SpaceExploration #ScienceNews #Astronomy
+#CambridgeDictionary #WordOfTheYear #Human #ArtificialIntelligence
 ```
 
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -283,10 +293,10 @@ First reported by Dawn Latest
 - [needs_review] normal | Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Proj | Wed 18 Nov, 11:09 AM PKT
 - [needs_review] normal | Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar | Wed 18 Nov, 11:19 AM PKT
 - [published] normal | Dawn Publishes Editorial Cartoon Reflecting Daily National Affairs For | Wed 18 Nov, 11:53 AM PKT
-- [queued] normal | Iran Army Claims Targeting US Military Equipment At Kuwait Base | Wed 18 Nov, 12:03 PM PKT
-- [queued] normal | Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump | Wed 18 Nov, 12:13 PM PKT
-- [queued] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
-- [queued] normal | Democrat Mary Peltola flips Alaska Senate seat, clinching 56-44 majori | Wed 18 Nov, 01:17 PM PKT
+- [needs_review] normal | Iran Army Claims Targeting US Military Equipment At Kuwait Base | Wed 18 Nov, 12:03 PM PKT
+- [needs_review] normal | Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump | Wed 18 Nov, 12:13 PM PKT
+- [needs_review] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
+- [published] normal | Democrat Mary Peltola flips Alaska Senate seat, clinching 56-44 majori | Wed 18 Nov, 01:17 PM PKT
 - [queued] normal | Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run | Wed 18 Nov, 01:27 PM PKT
 - [queued] normal | Rahim Yar Khan man arrested after fake suicide drama killed rescue div | Wed 18 Nov, 01:37 PM PKT
 - [queued] normal | GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch | Wed 18 Nov, 02:27 PM PKT
@@ -298,12 +308,15 @@ First reported by Dawn Latest
 - [queued] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
 - [queued] normal | Grand Theft Auto VI goes live globally after 13-year wait | Wed 18 Nov, 05:38 PM PKT
 - [queued] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
+- [queued] normal | Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump | Wed 18 Nov, 06:56 PM PKT
+- [queued] normal | Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile | Wed 18 Nov, 07:06 PM PKT
+- [queued] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
 
 ## Publishing this run
-- Published 'Dawn Publishes Editorial Cartoon Reflecting Daily National Affairs For November 18'.
+- Published 'Democrat Mary Peltola flips Alaska Senate seat, clinching 56-44 majority'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6708 | output tokens: 2330
+- Calls: 3 | prompt tokens: 6591 | output tokens: 2507
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
