@@ -68011,7 +68011,373 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3cbad632cdbdbbe6cc56a1fa",
+      "remembered_at": "2026-11-18T19:56:19.796174+00:00",
+      "event_date": "2026-11-18T13:21:52+00:00",
+      "last_update": "2026-11-18T18:11:34+00:00",
+      "event": "اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "800",
+        "اتھارٹی",
+        "اسلام",
+        "اور",
+        "آباد",
+        "برآمد",
+        "برآمدگی",
+        "علاقے",
+        "فوڈ",
+        "مدعیت",
+        "مکان",
+        "میں",
+        "کتوں",
+        "کلو",
+        "گدھے",
+        "گوشت",
+        "ہوا",
+        "ہے۔گدھے"
+      ],
+      "source_excerpt": "اسلام آباد کے علاقے ڈی 14 کے مکان سے گدھے اور کتوں کا 800 کلو گوشت برآمد ہوا ہے۔گدھے اور کتوں کے گوشت برآمدگی پر فوڈ اتھارٹی کی مدعیت...",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5014731",
+          "published_at": "2026-11-18T13:21:52+00:00"
+        },
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1634665",
+          "published_at": "2026-11-18T18:11:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1634665",
+        "publisher_url": "https://jang.com.pk/news/1634665",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b2cbdd06e585b9e506bd865e",
+      "remembered_at": "2026-11-18T19:56:19.796174+00:00",
+      "event_date": "2026-11-18T19:27:42+00:00",
+      "last_update": "2026-11-18T19:27:42+00:00",
+      "event": "Israeli settler kills Palestinian grandmother in occupied West Bank",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bank",
+        "grandmother",
+        "israeli",
+        "killed",
+        "kills",
+        "occupied",
+        "palestinian",
+        "settler",
+        "the",
+        "was",
+        "west"
+      ],
+      "source_excerpt": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
+          "published_at": "2026-11-18T19:27:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1ef6278526ac38e6c6278e61",
+      "remembered_at": "2026-11-18T19:56:19.796174+00:00",
+      "event_date": "2026-11-18T19:37:27+00:00",
+      "last_update": "2026-11-18T19:37:27+00:00",
+      "event": "How high is UK inflation and how will you be affected?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affected",
+        "and",
+        "because",
+        "diesel",
+        "figures",
+        "high",
+        "higher",
+        "how",
+        "inflation",
+        "mainly",
+        "october",
+        "official",
+        "petrol",
+        "prices",
+        "rose",
+        "show",
+        "the",
+        "will",
+        "year",
+        "you"
+      ],
+      "source_excerpt": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T19:37:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8dc803b169a158c677768115",
+      "remembered_at": "2026-11-18T19:56:19.796174+00:00",
+      "event_date": "2026-11-18T19:38:13+00:00",
+      "last_update": "2026-11-18T19:38:13+00:00",
+      "event": "Four killed as Russian strikes hit Ukraine’s Odesa",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "four",
+        "hit",
+        "jazeera",
+        "killed",
+        "odesa",
+        "russian",
+        "strikes",
+        "ukraine"
+      ],
+      "source_excerpt": "Four killed as Russian strikes hit Ukraine’s Odesa Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFFETUkwVTJwMzRSLTJFb3JYSi1KSExMM25FVlRMaTQwX2Q3aV9xQ0RPcEluUGxncm9TTVJuWkZQRl9YLUtxbW9MRS1NMEhwZzMtc0RMM05IMk5sWEpfZU4tZFBJdXNkOEdVWVowb1NJajlpdHJ3VkdZalFJWUd3M1hEM09GX0h3RTJlZmYyZWdRdDNxSWJDR2NCWHVkMmtIZm5R0gGoAUFVX3lxTE9nb1RhZkFJcTFqRzZTMWxfQjhRb3NibDRna3NiM283VUdDa2o3a3RFaUZHRFdtc3pzNjl0N3BGMDZKbDR3TTFXOU1OdmlveGNaVVd3Ykw2VTR5aUJpc3Bwc3RyRHp5d1p3OWNfYzFEUlBFMGJ3bEE3ZlF4ZEYwMHFlWGtoYk9hek5IYW9iQ3VOdHpIcFFCeVZMMW1rLVRBV3lBZ1lFa3RkZQ?oc=5",
+          "published_at": "2026-11-18T19:38:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFFETUkwVTJwMzRSLTJFb3JYSi1KSExMM25FVlRMaTQwX2Q3aV9xQ0RPcEluUGxncm9TTVJuWkZQRl9YLUtxbW9MRS1NMEhwZzMtc0RMM05IMk5sWEpfZU4tZFBJdXNkOEdVWVowb1NJajlpdHJ3VkdZalFJWUd3M1hEM09GX0h3RTJlZmYyZWdRdDNxSWJDR2NCWHVkMmtIZm5R0gGoAUFVX3lxTE9nb1RhZkFJcTFqRzZTMWxfQjhRb3NibDRna3NiM283VUdDa2o3a3RFaUZHRFdtc3pzNjl0N3BGMDZKbDR3TTFXOU1OdmlveGNaVVd3Ykw2VTR5aUJpc3Bwc3RyRHp5d1p3OWNfYzFEUlBFMGJ3bEE3ZlF4ZEYwMHFlWGtoYk9hek5IYW9iQ3VOdHpIcFFCeVZMMW1rLVRBV3lBZ1lFa3RkZQ?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "075a0aec0ffd92062a33b5d8",
+      "remembered_at": "2026-11-18T19:56:19.796174+00:00",
+      "event_date": "2026-11-18T18:30:15+00:00",
+      "last_update": "2026-11-18T18:30:15+00:00",
+      "event": "Punjab to introduce panchayat system for grassroots dispute resolution",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dispute",
+        "for",
+        "grassroots",
+        "introduce",
+        "panchayat",
+        "punjab",
+        "resolution",
+        "system"
+      ],
+      "source_excerpt": "Punjab to introduce panchayat system for grassroots dispute resolution",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-to-introduce-panchayat-system-for-grassroots-dispute-resolution",
+          "published_at": "2026-11-18T18:30:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-to-introduce-panchayat-system-for-grassroots-dispute-resolution",
+        "publisher_url": "https://arynews.tv/punjab-to-introduce-panchayat-system-for-grassroots-dispute-resolution",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c08d4b29d9620277af2d0f11",
+      "remembered_at": "2026-11-18T19:56:19.796174+00:00",
+      "event_date": "2026-11-18T18:28:26+00:00",
+      "last_update": "2026-11-18T18:28:26+00:00",
+      "event": "'You want Karachi to exploit it', Hafiz Naeem blasts Bilawal for using 'ethnic tensions' to retain power",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bilawal",
+        "blasts",
+        "ethnic",
+        "exploit",
+        "express",
+        "for",
+        "hafiz",
+        "karachi",
+        "naeem",
+        "power",
+        "retain",
+        "tensions",
+        "the",
+        "tribune",
+        "using",
+        "want",
+        "you"
+      ],
+      "source_excerpt": "'You want Karachi to exploit it', Hafiz Naeem blasts Bilawal for using 'ethnic tensions' to retain power The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3d1RXNNazhJdjdhd3ZwT0VvTUhqSEdrcjJqZ0NUTUc0U09PNE1vbnZqdVhfXzhyQzlmMFBXdEVOQnhwUGpjMVZfNEVNaGtTTjY5T0FsVVBpekR6TnkwWGQxd2ZKQnVXeGhONmc4dURqQ2FabnVGNkxvX2JVUjhBUGlZbGNPN1R1R0o3YjR1U1dsTEl6eVZrNTEtUGpiamFWeWpZdTd4dkVaTWZBN0JJUGxranliUjRDVzFXQ3FHd1hjeGhOZEVoVmpFeGY0YXpJNXc?oc=5",
+          "published_at": "2026-11-18T18:28:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3d1RXNNazhJdjdhd3ZwT0VvTUhqSEdrcjJqZ0NUTUc0U09PNE1vbnZqdVhfXzhyQzlmMFBXdEVOQnhwUGpjMVZfNEVNaGtTTjY5T0FsVVBpekR6TnkwWGQxd2ZKQnVXeGhONmc4dURqQ2FabnVGNkxvX2JVUjhBUGlZbGNPN1R1R0o3YjR1U1dsTEl6eVZrNTEtUGpiamFWeWpZdTd4dkVaTWZBN0JJUGxranliUjRDVzFXQ3FHd1hjeGhOZEVoVmpFeGY0YXpJNXc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8f6f4017af7b892a026f4380",
+      "remembered_at": "2026-11-18T19:56:19.796174+00:00",
+      "event_date": "2026-11-18T19:24:49+00:00",
+      "last_update": "2026-11-18T19:24:49+00:00",
+      "event": "Punjab restaurants face fines and closure over THIS violation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "closure",
+        "face",
+        "fines",
+        "over",
+        "punjab",
+        "restaurants",
+        "this",
+        "violation"
+      ],
+      "source_excerpt": "Punjab restaurants face fines and closure over THIS violation",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-restaurants-face-fines-and-closure-over-this-violation",
+          "published_at": "2026-11-18T19:24:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-restaurants-face-fines-and-closure-over-this-violation",
+        "publisher_url": "https://arynews.tv/punjab-restaurants-face-fines-and-closure-over-this-violation",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a37ea58778dacb348305ca9",
+      "remembered_at": "2026-11-18T19:56:19.796174+00:00",
+      "event_date": "2026-11-18T19:06:14+00:00",
+      "last_update": "2026-11-18T19:06:14+00:00",
+      "event": "PM Shehbaz Sharif postpones Karachi visit, sources",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "karachi",
+        "postpones",
+        "sharif",
+        "shehbaz",
+        "sources",
+        "visit"
+      ],
+      "source_excerpt": "PM Shehbaz Sharif postpones Karachi visit, sources",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pm-shehbaz-sharif-postpones-karachi-visit-sources",
+          "published_at": "2026-11-18T19:06:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pm-shehbaz-sharif-postpones-karachi-visit-sources",
+        "publisher_url": "https://arynews.tv/pm-shehbaz-sharif-postpones-karachi-visit-sources",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T18:54:28.202351+00:00"
+  "updated_at": "2026-11-18T19:56:19.796174+00:00"
 }

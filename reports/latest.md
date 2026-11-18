@@ -1,32 +1,32 @@
-# News Hub report - Wed 18 Nov, 11:54 PM PKT
+# News Hub report - Thu 19 Nov, 12:56 AM PKT
 
 ## Collection
-- New items this run: 68 | items in rolling pool: 917
-- Unique story clusters: 762 (duplicates merged: 155)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 14, Jang Urdu 8, Geo News 7, The Verge 5, ARY News 3, Al Jazeera 3, Engadget 3, Ars Technica 3, TechJuice 3, samaa tv 2, The Kyiv Independent 2, Dunya News 1
+- New items this run: 43 | items in rolling pool: 814
+- Unique story clusters: 684 (duplicates merged: 130)
+- Clusters dropped as already published/queued: 20; unchanged since last analysis: 2
+- Items per outlet: The Verge 6, Geo News 4, ARY News 4, The Guardian 4, Engadget 3, Wired 3, Al Jazeera 2, Ars Technica 2, Al-Monitor 2, ARYnews.tv 1, samaa tv 1, Dawn 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
+- Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Far-right influencer Jake Lang kicked out of Dearborn council meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli court extends Gaza doctor Abu Safia’s detention without charge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Far-right influencer Jake Lang kicked out of Dearborn council meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli court extends Gaza doctor Abu Safia’s detention without charge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Far-right influencer Jake Lang kicked out of Dearborn council meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli court extends Gaza doctor Abu Safia’s detention without charge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -35,10 +35,10 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 23 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
+- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 8
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -237,7 +237,7 @@
 - [published] normal | Grand Theft Auto VI goes live globally after 13-year wait | Wed 18 Nov, 05:38 PM PKT
 - [needs_review] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
 - [published] normal | Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump | Wed 18 Nov, 06:56 PM PKT
-- [queued] normal | Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile | Wed 18 Nov, 07:06 PM PKT
+- [published] normal | Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile | Wed 18 Nov, 07:06 PM PKT
 - [queued] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
 - [queued] normal | Pakistan mediation in US-Iran war will fail without Washington clarity | Wed 18 Nov, 08:56 PM PKT
 - [queued] normal | Trump's Board of Peace faults Israel and Hamas over Gaza war | Wed 18 Nov, 09:06 PM PKT
@@ -248,7 +248,7 @@
 - [queued] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
 
 ## Publishing this run
-- Published 'Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump'.
+- Published 'Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
