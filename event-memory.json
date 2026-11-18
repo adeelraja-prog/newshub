@@ -67015,7 +67015,519 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "07d860ee4226d0d61913981c",
+      "remembered_at": "2026-11-18T17:57:30.845640+00:00",
+      "event_date": "2026-11-18T09:57:51+00:00",
+      "last_update": "2026-11-18T17:45:57+00:00",
+      "event": "Pakistan receives largest-ever 15,000-tonne LPG shipment at Port Qasim",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "ever",
+        "largest",
+        "lpg",
+        "pakistan",
+        "port",
+        "qasim",
+        "receives",
+        "shipment",
+        "tonne"
+      ],
+      "source_excerpt": "Pakistan receives largest-ever 15,000-tonne LPG shipment at Port Qasim",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-receives-largest-ever-15000-tonne-lpg-shipment",
+          "published_at": "2026-11-18T09:57:51+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGJabVp0dFBjWUpoOHV3QUlFLWg5bk1zZVNIWGZlWjN4Y0ZjMlB6bVdHelNuNUF3YTRsWXFLZklYQklFZ01fOXIydGlrZjBlSExidHBqLXd0UXEtTkNaMGZxZjlEaDhmRi1UMUpCcWZGY1dlLW52Y2hOeWQ5eDlGMHQxUDNBbllVa0RGRENpQzZyYkZpNkxyMXhMN3FxQmQtZVJJNURZYUQzRkRn?oc=5",
+          "published_at": "2026-11-18T10:54:02+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045423/15000-tonne-lpg-cargo-arrives-from-abu-dhabi-under-new-policy-to-ease-shortages",
+          "published_at": "2026-11-18T13:33:03+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/pakistan-receives-record-15000-ton-lpg-shipment/",
+          "published_at": "2026-11-18T16:08:21+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVluTDBYME5TQnpMV1A0RjZHUUpka0ZCTFhKUlRDc3lBcHNCcTEyT2tuMFVjUXZ4Ni1ySTlSc3d2Ukk2MTc5RkJHVUQ1VlFzM1c1LW0wd3hMbkctWV9CNWhqOUdONlA0MDlTYkFwTno2TXVGS3VQNWt0WWpXZS1PbjFvYVk3UzhJRUVLYm9yR1VaenNya3JJTEtiUll2V21LX2t3aTJFQS0yUWlpeURaNnlaa05DRG5OMG9fc0hB?oc=5",
+          "published_at": "2026-11-18T17:45:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-receives-largest-ever-15000-tonne-lpg-shipment",
+        "publisher_url": "https://arynews.tv/pakistan-receives-largest-ever-15000-tonne-lpg-shipment",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d92057940299fd7d1c18e83f",
+      "remembered_at": "2026-11-18T17:57:30.845640+00:00",
+      "event_date": "2026-11-18T17:00:04+00:00",
+      "last_update": "2026-11-18T17:00:40+00:00",
+      "event": "Inside the old gas pipeline where Ukraine is fighting an underground war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "fighting",
+        "gas",
+        "inside",
+        "old",
+        "pipeline",
+        "the",
+        "ukraine",
+        "underground",
+        "war",
+        "where"
+      ],
+      "source_excerpt": "Inside the old gas pipeline where Ukraine is fighting an underground war BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
+          "published_at": "2026-11-18T17:00:04+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T17:00:40+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vc2tKX0ZpWVptemF1MEIzQVNUb09sUGNjeHRPcVBWemtTWEZsV015N0tEQXY2bzJOOElYVWZVcUVCN3B5RElUblZlSXVnRm94UEhKZEE2dV9vUjQ?oc=5",
+          "published_at": "2026-11-18T17:00:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "329b53db7bec5ef76ba7bbe6",
+      "remembered_at": "2026-11-18T17:57:30.845640+00:00",
+      "event_date": "2026-11-18T16:58:49+00:00",
+      "last_update": "2026-11-18T16:58:49+00:00",
+      "event": "‘Have the courage to listen to the debate you started’: Bilawal sticks to his guns after speaking his ‘truth’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aap",
+        "after",
+        "bhutto",
+        "bilawal",
+        "chairman",
+        "country",
+        "courage",
+        "debate",
+        "faisla",
+        "government",
+        "guns",
+        "have",
+        "his",
+        "hum",
+        "interview",
+        "listen",
+        "maintained",
+        "news",
+        "point",
+        "political",
+        "ppp",
+        "programme",
+        "recent",
+        "remarks",
+        "representatives",
+        "situation",
+        "speaking",
+        "started",
+        "sticks",
+        "that",
+        "the",
+        "truth",
+        "urging",
+        "view",
+        "wednesday",
+        "were",
+        "you",
+        "zardari"
+      ],
+      "source_excerpt": "PPP Chairman Bilawal Bhutto-Zardari on Wednesday maintained that his recent remarks on the country’s political situation were the “truth”, urging government representatives to have the “courage” to listen to his point of view. Speaking in an interview on Hum News programme ‘Faisla Aap Ka’, Bilawal r",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045449/have-the-courage-to-listen-to-the-debate-you-started-bilawal-sticks-to-his-guns-after-speaking-his-truth",
+          "published_at": "2026-11-18T16:58:49+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTEdWa1JYeFZFS21RM0pieFJfcllVRUtPOTNGWTNtNWFHbDhmM0lkTlY5dE5MeF9fdlNEVUpJRzRreFIybU15SFlud29mRURWUndMYUl4R2lmX2ZTQ1V3UUNIeUo0bDJmdUZJOWxIMEYya0ZORUpsRHhiemFxdWJLeDd5cTNYVWpXR1Rfd3ZfbUFfSjdpLTgwYVYyekxVQVpjXzNIbTRIU1pmMmE5c1hlWkFKaEJER2hxSlViY2lMMUYxVUEtb1NCTDRJZjkxWll6VHZ1Uw?oc=5",
+          "published_at": "2026-11-18T16:58:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045449/have-the-courage-to-listen-to-the-debate-you-started-bilawal-sticks-to-his-guns-after-speaking-his-truth",
+        "publisher_url": "https://www.dawn.com/news/2045449/have-the-courage-to-listen-to-the-debate-you-started-bilawal-sticks-to-his-guns-after-speaking-his-truth",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "706ea964d5595ca67311607c",
+      "remembered_at": "2026-11-18T17:57:30.845640+00:00",
+      "event_date": "2026-11-18T16:47:26+00:00",
+      "last_update": "2026-11-18T16:52:30+00:00",
+      "event": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "after",
+        "attacks",
+        "bahrain",
+        "condemnation",
+        "countries",
+        "draw",
+        "face",
+        "from",
+        "gulf",
+        "iran",
+        "iranian",
+        "island",
+        "kuwait",
+        "new",
+        "qeshm",
+        "region",
+        "strike",
+        "the"
+      ],
+      "source_excerpt": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+          "published_at": "2026-11-18T16:47:26+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTNrNm5hd0NlSW9sNVo1VDVMVDA3eEtIMXhDdzJ3LTVjbGNxQ1J3dEVnWFFuMlQxTjVGYVhWaWVVaW5yRHJ3LWFrNkYwMGZjN3FrSENvdDlpQTRLNUNUQUhjb3hUX3BoUWRwMW5iSGZENWo3dm1xeUZIOU1FZm9EZDV5bHZYLU5mTENabEpoa1Y1ZEQyZXNZQk9sQkRzVVpNQ0VpR1lSdjBFRjRBNXow0gG0AUFVX3lxTE4xUnJGLWRBLUtPLWw0TjhrZjNZQUFVcmlHSjZrSURWSno1Z2JhUHBJOEFTcWN4X1R1cHdWLUFhc25RR25vbWtVUEN4S2J2TzdvdkJaLUxHeWJZX1BIbHpfeTlIcW53bkVSU2VoMzBRRnFKX1JvcG9ROHZtcW5jb0RMNnhLdjJUaDBmSWVPM3NRbUJUcmdHN0JkVU1fMW9fZm1kUU16WGJYOTR1eThhNEljVW5lcQ?oc=5",
+          "published_at": "2026-11-18T16:52:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5a75aea957f555b903065ce8",
+      "remembered_at": "2026-11-18T17:57:30.845640+00:00",
+      "event_date": "2026-11-18T17:50:00+00:00",
+      "last_update": "2026-11-18T17:50:00+00:00",
+      "event": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "city",
+        "council",
+        "dearborn",
+        "disrupting",
+        "far",
+        "from",
+        "influencer",
+        "jake",
+        "kicked",
+        "lang",
+        "meeting",
+        "out",
+        "proceedings",
+        "removed",
+        "right",
+        "was"
+      ],
+      "source_excerpt": "Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
+          "published_at": "2026-11-18T17:50:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f2a5a0c6566b6f4a36171c8d",
+      "remembered_at": "2026-11-18T17:57:30.845640+00:00",
+      "event_date": "2026-11-18T17:45:09+00:00",
+      "last_update": "2026-11-18T17:45:09+00:00",
+      "event": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "18bn",
+        "2025",
+        "and",
+        "attacks",
+        "been",
+        "begun",
+        "billions",
+        "board",
+        "but",
+        "ceasefire",
+        "continue",
+        "for",
+        "gaza",
+        "happened",
+        "has",
+        "hasn",
+        "have",
+        "israeli",
+        "peace",
+        "pledged",
+        "rebuilding",
+        "since",
+        "the",
+        "trump",
+        "what"
+      ],
+      "source_excerpt": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+          "published_at": "2026-11-18T17:45:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a95b9b7316ff0ba9c8169fe4",
+      "remembered_at": "2026-11-18T17:57:30.845640+00:00",
+      "event_date": "2026-11-18T17:48:10+00:00",
+      "last_update": "2026-11-18T17:48:10+00:00",
+      "event": "Doctors learn of complaints through data leak from regulator",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "alleging",
+        "and",
+        "antisemitism",
+        "complaints",
+        "council",
+        "data",
+        "doctors",
+        "from",
+        "general",
+        "included",
+        "information",
+        "islamophobia",
+        "leak",
+        "learn",
+        "medical",
+        "newspaper",
+        "regulator",
+        "sent",
+        "summaries",
+        "the",
+        "through",
+        "times"
+      ],
+      "source_excerpt": "Information sent to The Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T17:48:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c4305b8e94de65d692cd1530",
+      "remembered_at": "2026-11-18T17:57:30.845640+00:00",
+      "event_date": "2026-11-18T17:00:04+00:00",
+      "last_update": "2026-11-18T17:00:04+00:00",
+      "event": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "bbc",
+        "don",
+        "drones",
+        "fighting",
+        "fly",
+        "forces",
+        "from",
+        "front",
+        "here",
+        "kharkiv",
+        "line",
+        "new",
+        "old",
+        "region",
+        "reports",
+        "russian",
+        "soviet",
+        "the",
+        "troops",
+        "tunnel",
+        "ukraine",
+        "ukrainian"
+      ],
+      "source_excerpt": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T17:00:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fc4c3c90aa4d47640323299f",
+      "remembered_at": "2026-11-18T17:57:30.845640+00:00",
+      "event_date": "2026-11-18T17:09:43+00:00",
+      "last_update": "2026-11-18T17:09:43+00:00",
+      "event": "Crimean Bridge collapse: Final moments after Ukrainian attack",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "attack",
+        "bbc",
+        "bridge",
+        "collapse",
+        "crimean",
+        "final",
+        "moments",
+        "ukrainian"
+      ],
+      "source_excerpt": "Crimean Bridge collapse: Final moments after Ukrainian attack BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12Vm9SSXEtZXR6djdCUExFUmdvdDVQLWRGcEg4ZWJnRHRTc0lzVW9BRmhydjFUUFR0cF9pOWx0MFFfZmJPMnNPNk5CbGVsMTRYXzJTZHV2WkY?oc=5",
+          "published_at": "2026-11-18T17:09:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12Vm9SSXEtZXR6djdCUExFUmdvdDVQLWRGcEg4ZWJnRHRTc0lzVW9BRmhydjFUUFR0cF9pOWx0MFFfZmJPMnNPNk5CbGVsMTRYXzJTZHV2WkY?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T16:59:47.889412+00:00"
+  "updated_at": "2026-11-18T17:57:30.845640+00:00"
 }
