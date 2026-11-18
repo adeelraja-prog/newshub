@@ -68780,7 +68780,209 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e70f91aecbb41b36056fba81",
+      "remembered_at": "2026-11-18T21:50:21.501379+00:00",
+      "event_date": "2026-11-18T21:24:19+00:00",
+      "last_update": "2026-11-18T21:24:19+00:00",
+      "event": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "election",
+        "end",
+        "for",
+        "grows",
+        "important",
+        "issue",
+        "lawmakers",
+        "minimum",
+        "pay",
+        "percent",
+        "public",
+        "push",
+        "raise",
+        "raising",
+        "saying",
+        "support",
+        "system",
+        "the",
+        "tipped",
+        "voters",
+        "wage",
+        "was",
+        "with"
+      ],
+      "source_excerpt": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+          "published_at": "2026-11-18T21:24:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e16269d214d8670c5bffcf3c",
+      "remembered_at": "2026-11-18T21:50:21.501379+00:00",
+      "event_date": "2026-11-18T21:08:04+00:00",
+      "last_update": "2026-11-18T21:08:04+00:00",
+      "event": "Floodwaters submerge cars and parking lots in Florida town",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "cars",
+        "conditions",
+        "dangerous",
+        "davie",
+        "drivers",
+        "facing",
+        "floodwaters",
+        "florida",
+        "into",
+        "leaving",
+        "lots",
+        "parking",
+        "rivers",
+        "streets",
+        "submerge",
+        "town",
+        "turned"
+      ],
+      "source_excerpt": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
+          "published_at": "2026-11-18T21:08:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6f20d22dec2a17e059695468",
+      "remembered_at": "2026-11-18T21:50:21.501379+00:00",
+      "event_date": "2026-11-18T21:01:05+00:00",
+      "last_update": "2026-11-18T21:01:05+00:00",
+      "event": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreement",
+        "and",
+        "defence",
+        "hegseth",
+        "include",
+        "intelligence",
+        "joint",
+        "military",
+        "partnership",
+        "pete",
+        "reveals",
+        "says",
+        "secretary",
+        "sharing",
+        "the",
+        "training",
+        "trip",
+        "venezuela",
+        "venezuelan",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+          "published_at": "2026-11-18T21:01:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "25f953dd61be9647e93debe5",
+      "remembered_at": "2026-11-18T21:50:21.501379+00:00",
+      "event_date": "2026-11-18T21:29:48+00:00",
+      "last_update": "2026-11-18T21:29:48+00:00",
+      "event": "Investors prefer Pakistan under IMF",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "imf",
+        "investors",
+        "pakistan",
+        "prefer",
+        "the",
+        "tribune",
+        "under"
+      ],
+      "source_excerpt": "Investors prefer Pakistan under IMF The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CUWE1N0VsVmZtTUtxS1VkcWE3eUxwN09IT25qbDAwRmQ4UW1JNVJOczczMkhJdWNSQmpMYTU4NkJWOG51dUZUal91RWI4VkFpSjVfZlp6emM4UTl5ZTE4Y1ZoVEc2cDF1SHNzR3ppNFlOT3Zob01uX25GQXLSAYQBQVVfeXFMTURwVTl0ZDhHb0JCSHQtT2ZxQk8xdTltZXh5Y3lSbHpVVDJHdnYxamhIUHpSdG1sRWJWQnJVdmd3RWZLVkhQaFhHOUJkQ21jTEhXVUhoeUxoTWxXSlo5d0kyMUlkMGwtLWpLcDNubFRJc29IYmtDV0YzaUlsR2hMaFJ2cEFx?oc=5",
+          "published_at": "2026-11-18T21:29:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CUWE1N0VsVmZtTUtxS1VkcWE3eUxwN09IT25qbDAwRmQ4UW1JNVJOczczMkhJdWNSQmpMYTU4NkJWOG51dUZUal91RWI4VkFpSjVfZlp6emM4UTl5ZTE4Y1ZoVEc2cDF1SHNzR3ppNFlOT3Zob01uX25GQXLSAYQBQVVfeXFMTURwVTl0ZDhHb0JCSHQtT2ZxQk8xdTltZXh5Y3lSbHpVVDJHdnYxamhIUHpSdG1sRWJWQnJVdmd3RWZLVkhQaFhHOUJkQ21jTEhXVUhoeUxoTWxXSlo5d0kyMUlkMGwtLWpLcDNubFRJc29IYmtDV0YzaUlsR2hMaFJ2cEFx?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T20:51:54.205182+00:00"
+  "updated_at": "2026-11-18T21:50:21.501379+00:00"
 }

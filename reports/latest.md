@@ -1,32 +1,32 @@
-# News Hub report - Thu 19 Nov, 01:51 AM PKT
+# News Hub report - Thu 19 Nov, 02:50 AM PKT
 
 ## Collection
-- New items this run: 28 | items in rolling pool: 753
-- Unique story clusters: 637 (duplicates merged: 116)
-- Clusters dropped as already published/queued: 18; unchanged since last analysis: 2
-- Items per outlet: Al Jazeera 7, The Express Tribune 5, ARY News 2, TechCrunch 2, Geo News 1, Dawn 1, X 1, The New York Times 1, Ars Technica 1, Wired 1, GSMArena 1, BBC Science 1
+- New items this run: 28 | items in rolling pool: 605
+- Unique story clusters: 528 (duplicates merged: 77)
+- Clusters dropped as already published/queued: 19; unchanged since last analysis: 1
+- Items per outlet: Geo News 4, Al Jazeera 3, The Express Tribune 3, TechCrunch 2, ARY News 1, X 1, The Guardian 1, The Verge 1, Engadget 1, Ars Technica 1, Wired 1, GSMArena 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli settler kills Palestinian grandmother in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How high is UK inflation and how will you be affected? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Four killed as Russian strikes hit Ukraine’s Odesa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli military launches rare ground operation in Gaza beyond Yellow Line | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Putin’s nuclear briefcase makes surprise appearance at China summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Muslims projected to overtake Christians as world’s largest religious group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump and Putin to meet one-on-one in China Thursday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli settler kills Palestinian grandmother in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How high is UK inflation and how will you be affected? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Four killed as Russian strikes hit Ukraine’s Odesa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli military launches rare ground operation in Gaza beyond Yellow Line | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Putin’s nuclear briefcase makes surprise appearance at China summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Muslims projected to overtake Christians as world’s largest religious group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump and Putin to meet one-on-one in China Thursday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli settler kills Palestinian grandmother in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How high is UK inflation and how will you be affected? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Four killed as Russian strikes hit Ukraine’s Odesa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli military launches rare ground operation in Gaza beyond Yellow Line | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Putin’s nuclear briefcase makes surprise appearance at China summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Muslims projected to overtake Christians as world’s largest religious group | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump and Putin to meet one-on-one in China Thursday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -35,106 +35,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Kuwait and Bahrain face new Iran attacks following US strike  [NORMAL]
-- Poster: امریکہ کے حملے کے بعد ایران کے کویت اور بحرین پر حملے / Iran attacks Kuwait and Bahrain after US strike | category world
-- Alternative headline: Iran targets Kuwait and Bahrain after US strike on Qeshm
+### Israeli military launches rare ground operation in Gaza beyond Yellow Line  [NORMAL]
+- Poster: اسرائیلی فوج کا غزہ میں نادر زمینی آپریشن، انخلاء کا حکم / Israeli army launches rare Gaza ground operation | category war
+- Alternative headline: IDF advances into central Gaza with tanks following new evacuation orders
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera, ARYnews.tv, ARY News
-- Keywords: Iran attacks, Kuwait, Bahrain, US strike, Qeshm Island, Gulf | hashtags: #Iran #Kuwait #Bahrain #US #Gulf
-- Scheduled: Thu 19 Nov, 01:51 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, The Times of Israel
+- Keywords: Gaza operation, Israeli military, Yellow Line, Nuseirat, Hamas, ceasefire violation | hashtags: #Gaza #Israel #MiddleEast #Conflict #BreakingNews
+- Scheduled: Thu 19 Nov, 02:50 AM PKT
 - Caption:
 ```
-Gulf nations face fresh regional fallout as Iranian attacks draw widespread condemnation following a US strike on Qeshm Island.
+Israeli ground forces have launched a rare operation in central Gaza outside their control, backed by tanks and artillery strikes.
 
-Iranian attacks targeting Gulf countries have drawn widespread regional condemnation following a US military strike on Qeshm Island. The escalation has sparked security concerns across Kuwait and Bahrain as regional tensions continue to mount.
+Israeli ground forces have launched a rare military operation in central Gaza outside their controlled areas, advancing with tanks near Nuseirat refugee camp. The operation, aimed at dismantling a tunnel, follows evacuation orders. Hamas condemned the move as a flagrant violation of the ceasefire.
 
-جزیرہ قشم پر امریکی حملے کے بعد خلیجی ممالک کو نشانہ بنانے والے ایرانی حملوں کی خطے بھر میں مذمت کی گئی ہے۔ اس کشیدگی نے کویت اور بحرین میں سکیورٹی خدات کو بڑھا دیا ہے۔
+اسرائیلی زمینی افواج نے وسطی غزہ میں ایک نادر فوجی آپریشن شروع کر دیا ہے، جہاں ٹینک نصيرات مہاجرین کیمپ کے قریب آگے بڑھ رہے ہیں۔ حماس نے اس اقدام کو سیز فائر کی خلاف ورزی قرار دیا ہے۔
 
-First reported by Al Jazeera.
+According to BBC World, Israeli ground forces launched a rare operation in central Gaza.
 
-#Iran #Kuwait #Bahrain #US #Gulf
+#Gaza #Israel #MiddleEast #Conflict #BreakingNews
 ```
 
-### Internet services face nationwide disruption due to submarine cable fault  [NORMAL]
-- Poster: سب بحری کیبل میں خرابی، پاکستان بھر میں انٹرنیٹ سست / Submarine cable fault causes internet disruptions in Pakistan | category tech
-- Alternative headline: PTA warns of internet slowdown across Pakistan from cable fault
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/internet-services-may-face-disruption-across-pakistan-pta | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/internet-services-may-face-disruption-across-pakistan-pta
-- Supporting coverage: ARY News
-- Keywords: internet disruption, PTA, submarine cable, Pakistan, telecom, internet speed | hashtags: #PTA #InternetDisruption #Pakistan #SubmarineCable #Telecom
-- Scheduled: Thu 19 Nov, 02:01 AM PKT
-- Caption:
-```
-Internet users across Pakistan are experiencing connectivity issues after a technical fault occurred in an international submarine cable.
-
-Internet users across Pakistan are facing difficulties after a fault occurred in an international submarine cable roughly 11 kilometres off the coast. The Pakistan Telecommunication Authority stated that traffic is being shifted to alternative links while repair work is assessed.
-
-پاکستان بھر میں انٹرنیٹ صارفین کو ساحل سے تقریباً 11 کلومیٹر دور بین الاقوامی سب بحری کیبل میں خرابی کے باعث مشکلات کا سامنا ہے۔ پاکستان ٹیلی کمیونیکیشن اتھارٹی کے مطابق متبادل لنکس پر ٹریفک منتقل کی جا رہی ہے۔
-
-According to ARY News.
-
-#PTA #InternetDisruption #Pakistan #SubmarineCable #Telecom
-```
-
-### Israeli settler kills Palestinian grandmother in occupied West Bank  [NORMAL]
-- Poster: مقبوضہ مغربی کنارے میں اسرائیلی آبادکار کے ہاتھوں فلسطینی خاتون جاں بحق / Israeli settler kills Palestinian grandmother in West Bank | category crime
-- Alternative headline: Palestinian grandmother killed by Israeli settler in West Bank
+### Putin’s nuclear briefcase makes surprise appearance at China summit  [NORMAL]
+- Poster: پوتن کا جوہری بریف کیس چین میں سربراہی اجلاس کے دوران دیکھا گیا / Putin's nuclear briefcase spotted at China summit | category politics
+- Alternative headline: Russian President Putin spotted with nuclear briefcase during APEC summit in China
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Palestinian grandmother, Israeli settler, West Bank, occupied territories, killed | hashtags: #Palestine #WestBank #Israel #AlJazeera
-- Scheduled: Thu 19 Nov, 02:11 AM PKT
+- Keywords: Putin nuclear briefcase, Vladimir Putin, APEC summit, China, Russia, nuclear codes | hashtags: #Putin #Russia #China #APEC #NuclearBriefcase
+- Scheduled: Thu 19 Nov, 03:00 AM PKT
 - Caption:
 ```
-A Palestinian grandmother has been killed by an Israeli settler in the occupied West Bank, according to reports.
+Russian President Vladimir Putin’s nuclear briefcase was spotted in a surprise appearance at the APEC summit in China.
 
-A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank, according to reports from the region. The incident highlights ongoing violence and tensions affecting local residents in the territory.
+Russian President Vladimir Putin’s nuclear briefcase made a surprise and notable appearance during the APEC summit in China. The sighting drew international attention as world leaders gathered to discuss global cooperation and multipolar world orders.
 
-رپورٹس کے مطابق مقبوضہ مغربی کنارے میں ایک اسرائیلی آبادکار نے فائرنگ کر کے فلسطینی دادی کو ہلاک کر دیا۔ یہ واقعہ علاقے میں مقامی باشندوں کو متاثر کرنے والے جاری تشدد اور کشیدگی کو ظاہر کرتا ہے۔
+روسی صدر ولادیمیر پوتن کا جوہری بریف کیس چین میں اے پیک سربراہی اجلاس کے دوران غیر متوقع طور پر دیکھا گیا۔ اس منظر نے عالمی رہنماؤں کی توجہ مبذول کرائی۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera; also reported by Al Jazeera.
 
-#Palestine #WestBank #Israel #AlJazeera
+#Putin #Russia #China #APEC #NuclearBriefcase
 ```
 
-### How high is UK inflation and how will it affect you?  [NORMAL]
-- Poster: برطانیہ میں مہنگائی کی شرح کتنی بلند ہے اور اس کا اثر کیا ہوگا؟ / How high is UK inflation and what does it mean? | category economy
-- Alternative headline: Understanding the impact of rising inflation rates in the UK
+### Muslims projected to overtake Christians as world’s largest religious group  [NORMAL]
+- Poster: مسلمان دنیا کا سب سے بڑا مذہبی گروہ بننے کی طرف گامزن / Muslims projected to become world's largest religious group | category world
+- Alternative headline: Pew Research study predicts Muslims will become world's largest religious group by 2070
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business
-- Keywords: UK inflation, cost of living, personal finance, economy, BBC Business | hashtags: #UKInflation #CostOfLiving #BBCBusiness #Economy
-- Scheduled: Thu 19 Nov, 02:21 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Muslims population projection, Pew Research Center, Christians, world religion, demographics, 2070 | hashtags: #Islam #Christianity #Demographics #PewResearch #WorldNews
+- Scheduled: Thu 19 Nov, 03:10 AM PKT
 - Caption:
 ```
-BBC Business examines the current state of UK inflation and what rising costs mean for households.
+New Pew Research Center projections point to major demographic changes in the world’s religious landscape by 2070.
 
-BBC Business explores the current level of inflation in the United Kingdom and how fluctuating economic pressures impact personal finance, cost of living, and everyday consumer spending.
+New projections from the Pew Research Center indicate significant shifts in the global religious landscape. According to the data, Muslims are projected to eventually overtake Christians as the world’s largest religious group by the year 2070 due to demographic trends.
 
-بی بی سی بزنس نے برطانیہ میں مہنگائی کی موجودہ سطح اور بڑھتے ہوئے اخراجات کے ذاتی مالیات اور روزمرہ زندگی پر پڑنے والے اثرات کا جائزہ لیا ہے۔
+پیو ریسرچ سینٹر کی نئی پیشگوئیوں کے مطابق دنیا کے مذہبی منظرنامے میں بڑی تبدیلیاں متوقع ہیں۔ اعداد و شمار بتاتے ہیں کہ مسلمان آبادی کے رجحانات کی بنیاد پر عیسائیوں کو پیچھے چھوڑ سکتے ہیں۔
 
-According to BBC Business.
+First reported by Al Jazeera; also reported by Al Jazeera.
 
-#UKInflation #CostOfLiving #BBCBusiness #Economy
+#Islam #Christianity #Demographics #PewResearch #WorldNews
 ```
 
-- Indian outlets blocked this run: 1 items
+### US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal  [NORMAL]
+- Poster: امریکی قانون سازوں کی نویڈیا اسکینڈل پر لٹنک کے خلاف تحقیقات شروع / US lawmakers launch probe into Lutnick amid Nvidia scandal | category politics
+- Alternative headline: Commerce Secretary Lutnick faces US congressional investigation over Megaspeed trade blacklist omission
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Lutnick probe, US lawmakers, Nvidia scandal, Megaspeed, trade blacklist, conflict of interest | hashtags: #USPolitics #Nvidia #CommerceSecretary #Investigation #Trade
+- Scheduled: Thu 19 Nov, 03:20 AM PKT
+- Caption:
+```
+US lawmakers have launched a formal probe into Commerce Secretary Lutnick following allegations of a conflict of interest.
+
+US lawmakers have initiated a congressional probe into Commerce Secretary Lutnick amid a growing Nvidia-related scandal. A leaked letter alleges potential conflicts of interest regarding the decision not to add Megaspeed to the United States trade blacklist.
+
+امریکی قانون سازوں نے کامرس سیکرٹری لٹنک کے خلاف تنازعہ مفادات کے الزامات پر باضابطہ تحقیقات کا آغاز کر دیا ہے، جو کہ نویڈیا اسکینڈل سے جڑی ہوئی ہیں۔
+
+First reported by Al Jazeera; also reported by Al Jazeera.
+
+#USPolitics #Nvidia #CommerceSecretary #Investigation #Trade
+```
+
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 10
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 13
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -336,7 +336,7 @@ According to BBC Business.
 - [published] normal | Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile | Wed 18 Nov, 07:06 PM PKT
 - [needs_review] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
 - [published] normal | Pakistan mediation in US-Iran war will fail without Washington clarity | Wed 18 Nov, 08:56 PM PKT
-- [queued] normal | Trump's Board of Peace faults Israel and Hamas over Gaza war | Wed 18 Nov, 09:06 PM PKT
+- [published] normal | Trump's Board of Peace faults Israel and Hamas over Gaza war | Wed 18 Nov, 09:06 PM PKT
 - [queued] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
 - [queued] normal | Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan | Wed 18 Nov, 10:57 PM PKT
 - [queued] normal | Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim | Wed 18 Nov, 11:07 PM PKT
@@ -346,18 +346,22 @@ According to BBC Business.
 - [queued] normal | Internet services face nationwide disruption due to submarine cable fa | Thu 19 Nov, 02:01 AM PKT
 - [queued] normal | Israeli settler kills Palestinian grandmother in occupied West Bank | Thu 19 Nov, 02:11 AM PKT
 - [queued] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
+- [queued] normal | Israeli military launches rare ground operation in Gaza beyond Yellow  | Thu 19 Nov, 02:50 AM PKT
+- [queued] normal | Putin’s nuclear briefcase makes surprise appearance at China summit | Thu 19 Nov, 03:00 AM PKT
+- [queued] normal | Muslims projected to overtake Christians as world’s largest religious  | Thu 19 Nov, 03:10 AM PKT
+- [queued] normal | US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | Thu 19 Nov, 03:20 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan mediation in US-Iran war will fail without Washington clarity: editorial'.
+- Published 'Trump's Board of Peace faults Israel and Hamas over Gaza war'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5124 | output tokens: 2280
+- Calls: 3 | prompt tokens: 4465 | output tokens: 2308
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 429 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
