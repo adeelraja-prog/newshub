@@ -1,32 +1,32 @@
-# News Hub report - Thu 19 Nov, 12:56 AM PKT
+# News Hub report - Thu 19 Nov, 01:51 AM PKT
 
 ## Collection
-- New items this run: 43 | items in rolling pool: 814
-- Unique story clusters: 684 (duplicates merged: 130)
-- Clusters dropped as already published/queued: 20; unchanged since last analysis: 2
-- Items per outlet: The Verge 6, Geo News 4, ARY News 4, The Guardian 4, Engadget 3, Wired 3, Al Jazeera 2, Ars Technica 2, Al-Monitor 2, ARYnews.tv 1, samaa tv 1, Dawn 1
+- New items this run: 28 | items in rolling pool: 753
+- Unique story clusters: 637 (duplicates merged: 116)
+- Clusters dropped as already published/queued: 18; unchanged since last analysis: 2
+- Items per outlet: Al Jazeera 7, The Express Tribune 5, ARY News 2, TechCrunch 2, Geo News 1, Dawn 1, X 1, The New York Times 1, Ars Technica 1, Wired 1, GSMArena 1, BBC Science 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
 - Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli court extends Gaza doctor Abu Safia’s detention without charge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli settler kills Palestinian grandmother in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How high is UK inflation and how will you be affected? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Four killed as Russian strikes hit Ukraine’s Odesa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli court extends Gaza doctor Abu Safia’s detention without charge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli settler kills Palestinian grandmother in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How high is UK inflation and how will you be affected? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Four killed as Russian strikes hit Ukraine’s Odesa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli court extends Gaza doctor Abu Safia’s detention without charge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli settler kills Palestinian grandmother in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How high is UK inflation and how will you be affected? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Four killed as Russian strikes hit Ukraine’s Odesa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -35,10 +35,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
+### Kuwait and Bahrain face new Iran attacks following US strike  [NORMAL]
+- Poster: امریکہ کے حملے کے بعد ایران کے کویت اور بحرین پر حملے / Iran attacks Kuwait and Bahrain after US strike | category world
+- Alternative headline: Iran targets Kuwait and Bahrain after US strike on Qeshm
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera, ARYnews.tv, ARY News
+- Keywords: Iran attacks, Kuwait, Bahrain, US strike, Qeshm Island, Gulf | hashtags: #Iran #Kuwait #Bahrain #US #Gulf
+- Scheduled: Thu 19 Nov, 01:51 AM PKT
+- Caption:
+```
+Gulf nations face fresh regional fallout as Iranian attacks draw widespread condemnation following a US strike on Qeshm Island.
+
+Iranian attacks targeting Gulf countries have drawn widespread regional condemnation following a US military strike on Qeshm Island. The escalation has sparked security concerns across Kuwait and Bahrain as regional tensions continue to mount.
+
+جزیرہ قشم پر امریکی حملے کے بعد خلیجی ممالک کو نشانہ بنانے والے ایرانی حملوں کی خطے بھر میں مذمت کی گئی ہے۔ اس کشیدگی نے کویت اور بحرین میں سکیورٹی خدات کو بڑھا دیا ہے۔
+
+First reported by Al Jazeera.
+
+#Iran #Kuwait #Bahrain #US #Gulf
+```
+
+### Internet services face nationwide disruption due to submarine cable fault  [NORMAL]
+- Poster: سب بحری کیبل میں خرابی، پاکستان بھر میں انٹرنیٹ سست / Submarine cable fault causes internet disruptions in Pakistan | category tech
+- Alternative headline: PTA warns of internet slowdown across Pakistan from cable fault
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/internet-services-may-face-disruption-across-pakistan-pta | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/internet-services-may-face-disruption-across-pakistan-pta
+- Supporting coverage: ARY News
+- Keywords: internet disruption, PTA, submarine cable, Pakistan, telecom, internet speed | hashtags: #PTA #InternetDisruption #Pakistan #SubmarineCable #Telecom
+- Scheduled: Thu 19 Nov, 02:01 AM PKT
+- Caption:
+```
+Internet users across Pakistan are experiencing connectivity issues after a technical fault occurred in an international submarine cable.
+
+Internet users across Pakistan are facing difficulties after a fault occurred in an international submarine cable roughly 11 kilometres off the coast. The Pakistan Telecommunication Authority stated that traffic is being shifted to alternative links while repair work is assessed.
+
+پاکستان بھر میں انٹرنیٹ صارفین کو ساحل سے تقریباً 11 کلومیٹر دور بین الاقوامی سب بحری کیبل میں خرابی کے باعث مشکلات کا سامنا ہے۔ پاکستان ٹیلی کمیونیکیشن اتھارٹی کے مطابق متبادل لنکس پر ٹریفک منتقل کی جا رہی ہے۔
+
+According to ARY News.
+
+#PTA #InternetDisruption #Pakistan #SubmarineCable #Telecom
+```
+
+### Israeli settler kills Palestinian grandmother in occupied West Bank  [NORMAL]
+- Poster: مقبوضہ مغربی کنارے میں اسرائیلی آبادکار کے ہاتھوں فلسطینی خاتون جاں بحق / Israeli settler kills Palestinian grandmother in West Bank | category crime
+- Alternative headline: Palestinian grandmother killed by Israeli settler in West Bank
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Palestinian grandmother, Israeli settler, West Bank, occupied territories, killed | hashtags: #Palestine #WestBank #Israel #AlJazeera
+- Scheduled: Thu 19 Nov, 02:11 AM PKT
+- Caption:
+```
+A Palestinian grandmother has been killed by an Israeli settler in the occupied West Bank, according to reports.
+
+A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank, according to reports from the region. The incident highlights ongoing violence and tensions affecting local residents in the territory.
+
+رپورٹس کے مطابق مقبوضہ مغربی کنارے میں ایک اسرائیلی آبادکار نے فائرنگ کر کے فلسطینی دادی کو ہلاک کر دیا۔ یہ واقعہ علاقے میں مقامی باشندوں کو متاثر کرنے والے جاری تشدد اور کشیدگی کو ظاہر کرتا ہے۔
+
+First reported by Al Jazeera.
+
+#Palestine #WestBank #Israel #AlJazeera
+```
+
+### How high is UK inflation and how will it affect you?  [NORMAL]
+- Poster: برطانیہ میں مہنگائی کی شرح کتنی بلند ہے اور اس کا اثر کیا ہوگا؟ / How high is UK inflation and what does it mean? | category economy
+- Alternative headline: Understanding the impact of rising inflation rates in the UK
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business
+- Keywords: UK inflation, cost of living, personal finance, economy, BBC Business | hashtags: #UKInflation #CostOfLiving #BBCBusiness #Economy
+- Scheduled: Thu 19 Nov, 02:21 AM PKT
+- Caption:
+```
+BBC Business examines the current state of UK inflation and what rising costs mean for households.
+
+BBC Business explores the current level of inflation in the United Kingdom and how fluctuating economic pressures impact personal finance, cost of living, and everyday consumer spending.
+
+بی بی سی بزنس نے برطانیہ میں مہنگائی کی موجودہ سطح اور بڑھتے ہوئے اخراجات کے ذاتی مالیات اور روزمرہ زندگی پر پڑنے والے اثرات کا جائزہ لیا ہے۔
+
+According to BBC Business.
+
+#UKInflation #CostOfLiving #BBCBusiness #Economy
+```
+
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 8
+- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 10
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -238,38 +334,30 @@
 - [needs_review] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
 - [published] normal | Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump | Wed 18 Nov, 06:56 PM PKT
 - [published] normal | Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile | Wed 18 Nov, 07:06 PM PKT
-- [queued] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
-- [queued] normal | Pakistan mediation in US-Iran war will fail without Washington clarity | Wed 18 Nov, 08:56 PM PKT
+- [needs_review] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
+- [published] normal | Pakistan mediation in US-Iran war will fail without Washington clarity | Wed 18 Nov, 08:56 PM PKT
 - [queued] normal | Trump's Board of Peace faults Israel and Hamas over Gaza war | Wed 18 Nov, 09:06 PM PKT
 - [queued] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
 - [queued] normal | Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan | Wed 18 Nov, 10:57 PM PKT
 - [queued] normal | Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim | Wed 18 Nov, 11:07 PM PKT
 - [queued] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
 - [queued] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
+- [queued] normal | Kuwait and Bahrain face new Iran attacks following US strike | Thu 19 Nov, 01:51 AM PKT
+- [queued] normal | Internet services face nationwide disruption due to submarine cable fa | Thu 19 Nov, 02:01 AM PKT
+- [queued] normal | Israeli settler kills Palestinian grandmother in occupied West Bank | Thu 19 Nov, 02:11 AM PKT
+- [queued] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile'.
+- Published 'Pakistan mediation in US-Iran war will fail without Washington clarity: editorial'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
+- Calls: 3 | prompt tokens: 5124 | output tokens: 2280
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

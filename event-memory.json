@@ -68377,7 +68377,410 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "788b88b1686bc961b0ca5f5c",
+      "remembered_at": "2026-11-18T20:51:54.205182+00:00",
+      "event_date": "2026-11-18T20:24:50+00:00",
+      "last_update": "2026-11-18T20:24:50+00:00",
+      "event": "Putin’s nuclear briefcase makes surprise appearance at China summit",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apec",
+        "appearance",
+        "briefcase",
+        "china",
+        "makes",
+        "nuclear",
+        "president",
+        "putin",
+        "russian",
+        "spotted",
+        "summit",
+        "surprise",
+        "the",
+        "vladimir",
+        "was"
+      ],
+      "source_excerpt": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+          "published_at": "2026-11-18T20:24:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef63abc6e7f1170eb39c5e4e",
+      "remembered_at": "2026-11-18T20:51:54.205182+00:00",
+      "event_date": "2026-11-18T20:21:34+00:00",
+      "last_update": "2026-11-18T20:21:34+00:00",
+      "event": "Muslims projected to overtake Christians as world’s largest religious group",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2070",
+        "center",
+        "changes",
+        "christians",
+        "group",
+        "landscape",
+        "largest",
+        "major",
+        "muslims",
+        "new",
+        "overtake",
+        "pew",
+        "point",
+        "projected",
+        "projections",
+        "religious",
+        "research",
+        "the",
+        "world"
+      ],
+      "source_excerpt": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+          "published_at": "2026-11-18T20:21:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe446cb94c4d5dfb20738fc5",
+      "remembered_at": "2026-11-18T20:51:54.205182+00:00",
+      "event_date": "2026-11-18T20:14:04+00:00",
+      "last_update": "2026-11-18T20:14:04+00:00",
+      "event": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actions",
+        "adding",
+        "alleges",
+        "amid",
+        "blacklist",
+        "commerce",
+        "conflict",
+        "interest",
+        "into",
+        "launch",
+        "lawmakers",
+        "letter",
+        "lutnick",
+        "megaspeed",
+        "not",
+        "nvidia",
+        "possible",
+        "probe",
+        "scandal",
+        "secretary",
+        "trade"
+      ],
+      "source_excerpt": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
+          "published_at": "2026-11-18T20:14:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "18eadc88900c0eb0407f2733",
+      "remembered_at": "2026-11-18T20:51:54.205182+00:00",
+      "event_date": "2026-11-18T20:12:20+00:00",
+      "last_update": "2026-11-18T20:12:20+00:00",
+      "event": "Trump and Putin to meet one-on-one in China Thursday",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "china",
+        "crisis",
+        "efforts",
+        "enhance",
+        "guarantees",
+        "leaders",
+        "meet",
+        "one",
+        "post",
+        "putin",
+        "resolve",
+        "russia",
+        "security",
+        "thursday",
+        "trump",
+        "ukraine",
+        "war"
+      ],
+      "source_excerpt": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
+          "published_at": "2026-11-18T20:12:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4e88c4178acc7b7d1bad4924",
+      "remembered_at": "2026-11-18T20:51:54.205182+00:00",
+      "event_date": "2026-11-18T19:56:17+00:00",
+      "last_update": "2026-11-18T19:56:17+00:00",
+      "event": "Heated debate escalates into on-air fight on Armenian TV",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "altercation",
+        "armenia",
+        "armenian",
+        "debate",
+        "escalated",
+        "escalates",
+        "fight",
+        "heated",
+        "into",
+        "physical",
+        "political",
+        "public",
+        "television"
+      ],
+      "source_excerpt": "A heated political debate on Armenia’s Public Television escalated into a physical altercation",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
+          "published_at": "2026-11-18T19:56:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ed70169ebc48547bd11a6190",
+      "remembered_at": "2026-11-18T20:51:54.205182+00:00",
+      "event_date": "2026-11-18T20:29:18+00:00",
+      "last_update": "2026-11-18T20:29:18+00:00",
+      "event": "Torrential rain causes widespread flooding in South Florida",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airports",
+        "and",
+        "causes",
+        "disruptions",
+        "entire",
+        "flooding",
+        "florida",
+        "hospitals",
+        "impact",
+        "neighbourhoods",
+        "rain",
+        "remain",
+        "roads",
+        "schools",
+        "south",
+        "torrential",
+        "under",
+        "water",
+        "widespread"
+      ],
+      "source_excerpt": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T20:29:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "379e121b23fc44d1a996a35e",
+      "remembered_at": "2026-11-18T20:51:54.205182+00:00",
+      "event_date": "2026-11-18T20:14:57+00:00",
+      "last_update": "2026-11-18T20:14:57+00:00",
+      "event": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "beyond",
+        "ceasefire",
+        "condemns",
+        "dismantling",
+        "flagrant",
+        "gaza",
+        "ground",
+        "hamas",
+        "incursion",
+        "israeli",
+        "launches",
+        "line",
+        "military",
+        "operation",
+        "rare",
+        "says",
+        "terror",
+        "the",
+        "tunnel",
+        "violation",
+        "which",
+        "yellow"
+      ],
+      "source_excerpt": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T20:14:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b848d9d737ac66e49e14a571",
+      "remembered_at": "2026-11-18T20:51:54.205182+00:00",
+      "event_date": "2026-11-18T20:40:59+00:00",
+      "last_update": "2026-11-18T20:40:59+00:00",
+      "event": "Pew Research: Islam on track to become world’s largest religion by 2035",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2035",
+        "become",
+        "islam",
+        "jazeera",
+        "largest",
+        "pew",
+        "religion",
+        "research",
+        "track",
+        "world"
+      ],
+      "source_excerpt": "Pew Research: Islam on track to become world’s largest religion by 2035 Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGxUckt6eElwc2NqY0EzbzR0TmpBMEVieGxRbTVDVEdBSHk1Q1p1THcwRmJJSEN1Uzk1VXhXUXQzd0hYc091N01LejlyZWZ2bnRXTXBKZEJRNExhMHRWZWpHdUljQWRYQnNsYVVRZm1peVpjTGhQQmhjazA1dHJZU0FJUl92bEpiaTFwcWJISTBmNUcwOXRpakc3Rm1XTmdZNk1pUDlhZWpjUEliMUVVTtIBtgFBVV95cUxQNnE4QXcweDFKelF3UEJRSFd0U0xzc25KZGFFekdoTUtaak9wZ2VJZklUV1N5cUNoT0paeGs1SUEzOXNBX2t0a2FfWUthdExSUUVYV05rZ1lNQnRvVmRWQk85bk8zS1BXZkpwbmd5eXpQVm1hUV9iRG0zb3ZxQmdvckxZRHZKQ09sMjhCVmF3UHN1S2JRWHFMc2N1NGVlQ1pMNlkzYUhDV2dfUDRWeUtBVzg1bGgzUQ?oc=5",
+          "published_at": "2026-11-18T20:40:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGxUckt6eElwc2NqY0EzbzR0TmpBMEVieGxRbTVDVEdBSHk1Q1p1THcwRmJJSEN1Uzk1VXhXUXQzd0hYc091N01LejlyZWZ2bnRXTXBKZEJRNExhMHRWZWpHdUljQWRYQnNsYVVRZm1peVpjTGhQQmhjazA1dHJZU0FJUl92bEpiaTFwcWJISTBmNUcwOXRpakc3Rm1XTmdZNk1pUDlhZWpjUEliMUVVTtIBtgFBVV95cUxQNnE4QXcweDFKelF3UEJRSFd0U0xzc25KZGFFekdoTUtaak9wZ2VJZklUV1N5cUNoT0paeGs1SUEzOXNBX2t0a2FfWUthdExSUUVYV05rZ1lNQnRvVmRWQk85bk8zS1BXZkpwbmd5eXpQVm1hUV9iRG0zb3ZxQmdvckxZRHZKQ09sMjhCVmF3UHN1S2JRWHFMc2N1NGVlQ1pMNlkzYUhDV2dfUDRWeUtBVzg1bGgzUQ?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T19:56:19.796174+00:00"
+  "updated_at": "2026-11-18T20:51:54.205182+00:00"
 }
