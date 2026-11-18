@@ -1,154 +1,145 @@
-# News Hub report - Wed 18 Nov, 04:30 AM PKT
+# News Hub report - Wed 18 Nov, 05:25 AM PKT
 
 ## Collection
-- New items this run: 19 | items in rolling pool: 524
-- Unique story clusters: 460 (duplicates merged: 64)
-- Clusters dropped as already published/queued: 35; unchanged since last analysis: 3
-- Items per outlet: Geo News 4, Engadget 3, Ars Technica 3, Al Jazeera 2, The Verge 2, TechCrunch 2, Wired 1, BBC Health 1, BBC World 1, Geo News Fast Lane 0, ARY News Fast Lane 0, Samaa Fast Lane 0
+- New items this run: 30 | items in rolling pool: 437
+- Unique story clusters: 383 (duplicates merged: 54)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 3
+- Items per outlet: Al Jazeera 8, The Express Tribune 4, TechCrunch 3, Engadget 3, samaa tv 1, The Guardian 1, The Verge 1, Wired 1, GSMArena 1, BBC Technology 1, Profit by Pakistan Today 1, Anadolu Ajansı 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- US Fed’s Lisa Cook refuses to attend White House hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK hands NATO-assigned US soldier accused of Russia spying to US military | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- I want to know if toxic lagoon fire caused my husband's rare deadly cancer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Haitians protest in support of El Salvador’s anti-gang troop deployment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fears toxic lagoon fire led to cancer and miscarriages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thomas Markle charged over child sex abuse material in Philippines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Forensic experts claim Epstein was strangled to death | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why China’s Shenzhen was chosen for APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- US Fed’s Lisa Cook refuses to attend White House hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK hands NATO-assigned US soldier accused of Russia spying to US military | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- I want to know if toxic lagoon fire caused my husband's rare deadly cancer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Haitians protest in support of El Salvador’s anti-gang troop deployment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fears toxic lagoon fire led to cancer and miscarriages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thomas Markle charged over child sex abuse material in Philippines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Forensic experts claim Epstein was strangled to death | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why China’s Shenzhen was chosen for APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- US Fed’s Lisa Cook refuses to attend White House hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK hands NATO-assigned US soldier accused of Russia spying to US military | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- I want to know if toxic lagoon fire caused my husband's rare deadly cancer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Haitians protest in support of El Salvador’s anti-gang troop deployment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fears toxic lagoon fire led to cancer and miscarriages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thomas Markle charged over child sex abuse material in Philippines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Forensic experts claim Epstein was strangled to death | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why China’s Shenzhen was chosen for APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 22/107 | empty: 1 | failed: 84 | malformed/partial: 85
-- Trusted publisher desks with at least one healthy source: 4/10
-- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 100/107 | empty: 4 | failed: 3 | malformed/partial: 3
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Samaa, Express News, Dawn, The News International, Dunya News, Dunya News TV
+- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### US Fed's Lisa Cook refuses to attend White House hearing  [NORMAL]
-- Poster: امریکی فیڈ کی لیزا کُوک کا وائٹ ہاؤس کی سماعت میں شرکت سے انکار / US Fed's Lisa Cook skips White House hearing | category politics
-- Alternative headline: Lisa Cook declines White House hearing amid firing attempts
+### Haitians Back El Salvador Troops Amid Rescue Mission  [NORMAL]
+- Poster: ہیتی میں ایل سلواڈور کے فوجیوں کی حمایت میں احتجاج / Haitians Support El Salvador Troops | category security
+- Alternative headline: Haitians Protest in Support of El Salvador Troops
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Lisa Cook, US Federal Reserve, White House, Donald Trump, hearing | hashtags: #LisaCook #USFed #WhiteHouse #DonaldTrump
-- Scheduled: Wed 18 Nov, 04:30 AM PKT
+- Keywords: El Salvador troops, Haiti, gang deployment, security minister, protest | hashtags: #Haiti #ElSalvador #Security #Protest
+- Scheduled: Wed 18 Nov, 05:25 AM PKT
 - Caption:
 ```
-US Federal Reserve official Lisa Cook has refused to attend a scheduled White House hearing amid ongoing pressures.
+Haitians have voiced strong support for El Salvador’s anti-gang troop deployment as security operations continue.
 
-US Federal Reserve official Lisa Cook has refused to attend a White House hearing. President Donald Trump has been attempting to remove Cook from her position since August 2025, creating ongoing tension between the administration and the central bank.
+Haitians have protested in support of El Salvador's anti-gang troop deployment. Meanwhile, El Salvador's security minister has confirmed that the deployed troops will leave the country once kidnapped technicians are successfully rescued.
 
-امریکی فیڈرل ریزرو کی عہدیدار لیزا کُوک نے وائٹ ہاؤس کی سماعت میں شرکت سے انکار کر دیا ہے۔ امریکی صدر ڈونلڈ ٹرمپ اگست 2025 سے کُوک کو برطرف کرنے کی کوشش کر رہے ہیں، جس سے انتظامیہ اور مرکزی بینک کے درمیان کشیدگی پائی جاتی ہے۔
+ہیتی کے شہریوں نے ایل سلواڈور کی طرف سے گینگ کے خلاف فوج بھیٹنے کی حمایت میں احتجاج کیا ہے۔ دوسری طرف، ایل سلواڈور کے سیکیورٹی وزیر نے تصدیق کی ہے کہ اغوا شدہ تکنیکی ماہرین کی بازیابی کے بعد یہ فوجی واپس چلے جائیں گے۔
 
-First reported by Al Jazeera
+According to Al Jazeera
 
-#LisaCook #USFed #WhiteHouse #DonaldTrump
+#Haiti #ElSalvador #Security #Protest
 ```
 
-### UK hands over NATO-assigned US soldier accused of spying to US military  [NORMAL]
-- Poster: برطانیہ نے روس کے لیے جاسوسی کے الزام میں گرفتار امریکی فوجی کو حوالے کر دیا / UK transfers accused US soldier to military custody | category security
-- Alternative headline: Accused US spy soldier transferred to US military custody by UK
+### Fears Grow That Toxic Lagoon Fire Caused Cancer  [NORMAL]
+- Poster: زہریلی آگ سے کینسر اور اسقاط حمل کے خدشات / Toxic Fire Cancer Fears | category health
+- Alternative headline: Toxic Lagoon Fire Linked to Miscarriages and Cancer Fears
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: US soldier, UK authorities, NATO, espionage, US military | hashtags: #USSoldier #UKPolice #NATO #Espionage
-- Scheduled: Wed 18 Nov, 04:40 AM PKT
-- Caption:
-```
-UK authorities have transferred a NATO-assigned US soldier accused of spying to the US military.
-
-UK authorities have passed the investigation of a NATO-assigned US soldier, who was accused of spying for Russia, over to the US military. Officials stated the transfer was conducted in line with existing international protocols.
-
-برطانوی حکام نے روس کے لیے جاسوسی کے الزام میں گرفتار نیٹو سے وابستہ امریکی فوجی کی تحقیقات امریکی فوج کے حوالے کر دی ہیں۔ حکام کا کہنا ہے کہ یہ منتقلی موجودہ بین الاقوامی پروٹوکول کے مطابق کی گئی ہے۔
-
-First reported by Al Jazeera
-
-#USSoldier #UKPolice #NATO #Espionage
-```
-
-### Nvidia reports record sales as new boss rules out Jensen Huang return  [NORMAL]
-- Poster: جینسن ہوانگ کی برطرفی کے بعد اینویڈیا کی فروخت میں دگنا اضافہ / Nvidia reports record sales after Huang exit | category tech
-- Alternative headline: Nvidia quarterly sales double past 100 billion dollars after Huang departure
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology
-- Keywords: Nvidia, Jensen Huang, Collette Kress, sales, profits | hashtags: #Nvidia #JensenHuang #TechNews #Business
-- Scheduled: Wed 18 Nov, 04:50 AM PKT
-- Caption:
-```
-Nvidia's quarterly sales doubled to surpass 100 billion dollars as the firm confirmed ousted founder Jensen Huang will not return.
-
-Nvidia reported that quarterly sales doubled to top 100 billion dollars for the first time, reaching 115.8 billion dollars, while confirming it will not reinstate ousted founder Jensen Huang. Interim chief executive Collette Kress stated it is business as usual as profits also doubled to 65 billion dollars.
-
-اینویڈیا نے رپورٹ کیا ہے کہ سہ ماہی فروخت پہلی بار دگنی ہو کر 100 ارب ڈالر سے تجاوز کر گئی ہے اور 115.8 ارب ڈالر تک پہنچ گئی ہے، جبکہ کمپنی نے تصدیق کی ہے کہ وہ برطرف بانی جینسن ہوانگ کو بحال نہیں کرے گی۔ قائم مقام چیف ایگزیکٹو کولیٹ کریس نے کہا کہ کاروبار معمول کے مطابق جاری ہے۔
-
-First reported by BBC Technology
-
-#Nvidia #JensenHuang #TechNews #Business
-```
-
-### Widow questions if 1980 toxic lagoon fire caused husband's rare cancer  [NORMAL]
-- Poster: خاتون کا شوہر کے کینسر کی وجہ 1980 کے کیمیائی فضلے کی آگ کو قرار دینے کا مطالبہ / Widow questions toxic fire link to husband's cancer | category health
-- Alternative headline: Wife seeks answers over husband's fatal cancer following toxic waste fire
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss
 - Supporting coverage: BBC Health
-- Keywords: toxic lagoon fire, cancer, firefighter, Wrexham council, health | hashtags: #ToxicFire #HealthNews #CancerResearch #BBC
-- Scheduled: Wed 18 Nov, 05:00 AM PKT
+- Keywords: toxic lagoon fire, cancer, miscarriages, Wales, health fears | hashtags: #Health #Wales #Cancer #Environment
+- Scheduled: Wed 18 Nov, 05:35 AM PKT
 - Caption:
 ```
-A grieving widow is questioning whether a massive 1980 toxic waste lagoon fire caused her firefighter husband's rare terminal cancer.
+Residents are raising serious health concerns following a toxic lagoon fire in Wales.
 
-Jilska Williams is seeking accountability, believing her late husband Steve Williams contracted a rare and fatal form of lung cancer due to chemicals swallowed while battling a blazing chemical waste lagoon fire in August 1980. Wrexham council noted regular inspections, while experts stated linking chemical exposure to later health issues is difficult.
+Residents in Wales are expressing deep fears that a toxic lagoon fire may have led to severe health issues, including cancer and miscarriages. Local authorities and emergency services are facing mounting questions regarding the long-term environmental and health impacts.
 
-جلস্کا ولیمز اس بات کا جواب چاہتی ہیں کہ آیا اگست 1980 میں کیمیائی فضلے کی جھیل میں لگنے والی آگ کے دوران شوہر سٹیو ولیمز کے نگلے گئے کیمیکلز ان کے نایاب اور مہلک پھیپھڑوں کے کینسر کا سبب بنے۔ ریکسہم کونسل نے کہا کہ وہ علاقے کا باقاعدگی سے معائنہ کرتی ہے۔
+ویلز میں رہائشیوں نے شدید خدشات کا اظہار کیا ہے کہ ایک زہریلی جھیل میں لگنے والی آگ کینسر اور اسقاط حمل جیسے سنگین صحت کے مسائل کا سبب بنی ہے۔ مقامی حکام کو اس حوالے سے عوامی سوالات کا سامنا ہے۔
 
 First reported by BBC Health
 
-#ToxicFire #HealthNews #CancerResearch #BBC
+#Health #Wales #Cancer #Environment
 ```
 
-- Indian outlets blocked this run: 1 items
+### Thomas Markle Charged Over Child Abuse Material  [NORMAL]
+- Poster: تھامس مارکل پر فلپائن میں بھی بچوں کے استحصال کا مقدمہ / Thomas Markle Charged | category crime
+- Alternative headline: Meghan Markle's Father Faces Charges in Philippines
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Thomas Markle, Philippines, child abuse material, charges, police | hashtags: #ThomasMarkle #Philippines #Crime #BBC
+- Scheduled: Wed 18 Nov, 05:45 AM PKT
+- Caption:
+```
+Police in the Philippines have filed charges against Thomas Markle Sr. regarding child sexual abuse material.
+
+Police in the Philippines have charged Thomas Markle Sr, the 82-year-old father of Meghan, Duchess of Sussex, with possession and intent to distribute child sexual abuse material. Markle is already facing similar charges in the United States and remains in custody.
+
+فلپائن کی پولیس نے ڈচেس آف سسیکس میغان کے والد 82 سالہ تھامس مارکل سینئر پر بچوں کے جنسی استحصال کے مواد کی موجودگی اور تقسیم کے ارادے کے تحت مقدمہ درج کر لیا ہے۔ مارکل اس وقت امریکہ میں حراست میں ہیں۔
+
+First reported by BBC World
+
+#ThomasMarkle #Philippines #Crime #BBC
+```
+
+### Forensic Experts Claim Jeffrey Epstein Was Strangled  [NORMAL]
+- Poster: جفری ایپسٹائن کو گلا گھونٹ کر قتل کیا گیا، ماہرین کا دعویٰ / Epstein Strangled to Death | category courts
+- Alternative headline: New Forensic Claims Challenge Epstein Suicide Ruling
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Jeffrey Epstein, forensic experts, strangled, autopsy, suicide ruling | hashtags: #JeffreyEpstein #Forensics #AlJazeera #News
+- Scheduled: Wed 18 Nov, 05:55 AM PKT
+- Caption:
+```
+A team of forensic scientists is actively challenging the official ruling that Jeffrey Epstein died by suicide.
+
+A team of forensic scientists is challenging the official ruling that convicted sex offender Jeffrey Epstein died by suicide, putting forward new claims that he was strangled to death.
+
+فورنسک سائنسدانوں کی ایک ٹیم نے اس سرکاری فیصلے کو چیلنج کیا ہے جس میں کہا گیا تھا کہ سزا یافتہ مجرم جفری ایپسٹائن نے خودکشی کی تھی۔ نئے دعوے کے مطابق انہیں گلا گھونٹ کر ہلاک کیا گیا تھا۔
+
+According to Al Jazeera
+
+#JeffreyEpstein #Forensics #AlJazeera #News
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
 - [needs_review] normal | Nishat Group Agrees to Explore Investment in Pakistan's New Port Proje | Sat 14 Nov, 11:41 PM PKT
@@ -160,7 +151,6 @@ First reported by BBC Health
 - [needs_review] normal | Ex-Nvidia CEO Jensen Huang Misled Leaders Over Affair | Sun 15 Nov, 01:42 AM PKT
 - [needs_review] normal | SpaceX Successfully Catches Starship Rocket Part With Mechanical Arms | Sun 15 Nov, 03:22 AM PKT
 - [needs_review] normal | Elon Musk and 115,000 Others Sign Petition to Reinstate Ousted Nvidia  | Sun 15 Nov, 03:58 AM PKT
-- [published] high | Govt May Sell Imported Sugar Below Cost, Facing Rs. 8 Billion Loss | Sun 15 Nov, 04:59 AM PKT
 - [published] high | PTI Leader Khosa Briefs Elahi on Meeting with Imran Khan | Sun 15 Nov, 05:48 AM PKT
 - [published] high | Lahore High Court Takes Up Plea Challenging PTI Funding Probe | Sun 15 Nov, 05:48 AM PKT
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -305,7 +295,7 @@ First reported by BBC Health
 - [published] normal | ECP Decides to Hold Punjab Local Government Elections in Two Phases | Tue 17 Nov, 11:49 PM PKT
 - [published] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
 - [published] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
-- [queued] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
+- [published] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
 - [queued] normal | UK sanctions Israeli firms building West Bank settlements | Wed 18 Nov, 12:57 AM PKT
 - [queued] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
 - [queued] normal | Trump warns Iran over reported dirty bomb threat in Washington | Wed 18 Nov, 01:17 AM PKT
@@ -325,12 +315,16 @@ First reported by BBC Health
 - [queued] normal | UK hands over NATO-assigned US soldier accused of spying to US militar | Wed 18 Nov, 04:40 AM PKT
 - [queued] normal | Nvidia reports record sales as new boss rules out Jensen Huang return | Wed 18 Nov, 04:50 AM PKT
 - [queued] normal | Widow questions if 1980 toxic lagoon fire caused husband's rare cancer | Wed 18 Nov, 05:00 AM PKT
+- [queued] normal | Haitians Back El Salvador Troops Amid Rescue Mission | Wed 18 Nov, 05:25 AM PKT
+- [queued] normal | Fears Grow That Toxic Lagoon Fire Caused Cancer | Wed 18 Nov, 05:35 AM PKT
+- [queued] normal | Thomas Markle Charged Over Child Abuse Material | Wed 18 Nov, 05:45 AM PKT
+- [queued] normal | Forensic Experts Claim Jeffrey Epstein Was Strangled | Wed 18 Nov, 05:55 AM PKT
 
 ## Publishing this run
-- Published 'Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged'.
+- Published 'US officially loses measles-free status after 26 years'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 3969 | output tokens: 2207
+- Calls: 3 | prompt tokens: 3486 | output tokens: 1973
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

@@ -56120,7 +56120,467 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d22080a52d552fbfadcb6796",
+      "remembered_at": "2026-11-18T00:25:17.542701+00:00",
+      "event_date": "2026-11-18T00:17:23+00:00",
+      "last_update": "2026-11-18T00:17:23+00:00",
+      "event": "Forensic experts claim Epstein was strangled to death",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "challenging",
+        "claim",
+        "convicted",
+        "death",
+        "died",
+        "epstein",
+        "experts",
+        "forensic",
+        "jeffrey",
+        "offender",
+        "ruling",
+        "scientists",
+        "sex",
+        "strangled",
+        "suicide",
+        "team",
+        "that",
+        "the",
+        "was"
+      ],
+      "source_excerpt": "A team of forensic scientists is challenging the ruling that convicted sex offender Jeffrey Epstein died by suicide.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss",
+          "published_at": "2026-11-18T00:17:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5ed86fd48345a121e4b8922c",
+      "remembered_at": "2026-11-18T00:25:17.542701+00:00",
+      "event_date": "2026-11-18T00:16:26+00:00",
+      "last_update": "2026-11-18T00:16:26+00:00",
+      "event": "Why China’s Shenzhen was chosen for APEC summit",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apec",
+        "china",
+        "chosen",
+        "explains",
+        "for",
+        "jazeera",
+        "katrina",
+        "shenzhen",
+        "summit",
+        "was",
+        "why"
+      ],
+      "source_excerpt": "Al Jazeera’s Katrina Yu explains why China’s Shenzhen was chosen for APEC summit.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss",
+          "published_at": "2026-11-18T00:16:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c5222edfed81d0f458031109",
+      "remembered_at": "2026-11-18T00:25:17.542701+00:00",
+      "event_date": "2026-11-18T00:00:27+00:00",
+      "last_update": "2026-11-18T00:03:01+00:00",
+      "event": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alert",
+        "all",
+        "attacks",
+        "bahrain",
+        "clear",
+        "danger",
+        "drone",
+        "has",
+        "hostile",
+        "intercepting",
+        "intercepts",
+        "iran",
+        "issues",
+        "kuwait",
+        "live",
+        "passed",
+        "saying",
+        "says",
+        "war"
+      ],
+      "source_excerpt": "Kuwait intercepts 'hostile' drone attacks as Bahrain issues an 'all-clear' alert, saying danger has passed.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+          "published_at": "2026-11-18T00:00:27+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVFjTXR2c2dUek5TbExaQzd1OUI5aFQxS3FsdUZPTktoTzE1Mmhwem5QQVQwQzN6cjh1WTVqMTI3OVhfVDlXazBCZi1qM01aajA4WXhPQnJvRU9uV0hrakRHU3BwaW5KN25ldG84MGI0TzJwMlU5Rk1uMERIcml0V1lJQTJzLXVBY0diOGtkeVBFeWhmMHQtY2YzT1VaMm91NEpGVkNoWGRKLVlYQlFyZNIBtgFBVV95cUxQV1lSbDdNZlJ2cm5FYVdNZ1pIdWc4UzZYQVlpVUlBOUZ5U3NRYU43QWlzek44X1dfdkhqTVBuaVNQUlFzM0NmcHNrcGE0YkN5b041U2g5eTdlTzEwQ2ZuTk5HSVJjcGxpX2t4U2ZqV21reENqODVjTDVUT0VqOEwtNzdTbV9nV1Q4YWtUTmhSUUxyUjdMNWhlWU8tVnNjUHI3NzdSRk5iRWluaF93enVZbU1WTnVRQQ?oc=5",
+          "published_at": "2026-11-18T00:03:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "747c1ed771605048e1ba2b24",
+      "remembered_at": "2026-11-18T00:25:17.542701+00:00",
+      "event_date": "2026-11-17T23:38:38+00:00",
+      "last_update": "2026-11-17T23:41:52+00:00",
+      "event": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "air",
+        "and",
+        "attacks",
+        "bahrain",
+        "defence",
+        "drone",
+        "drones",
+        "each",
+        "gulf",
+        "hit",
+        "iran",
+        "its",
+        "kuwait",
+        "military",
+        "other",
+        "out",
+        "qeshm",
+        "repelling",
+        "reports",
+        "says",
+        "the",
+        "trade",
+        "was"
+      ],
+      "source_excerpt": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+          "published_at": "2026-11-17T23:38:38+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5",
+          "published_at": "2026-11-17T23:41:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d4e298e5127dcbed54d39898",
+      "remembered_at": "2026-11-18T00:25:17.542701+00:00",
+      "event_date": "2026-11-17T23:28:54+00:00",
+      "last_update": "2026-11-17T23:28:54+00:00",
+      "event": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ally",
+        "bloc",
+        "contentious",
+        "domestic",
+        "eisenkot",
+        "election",
+        "elects",
+        "following",
+        "gadi",
+        "has",
+        "israel",
+        "kahana",
+        "matan",
+        "most",
+        "netanyahu",
+        "new",
+        "parliament",
+        "pledged",
+        "policies",
+        "some",
+        "speaker",
+        "undo"
+      ],
+      "source_excerpt": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+          "published_at": "2026-11-17T23:28:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aab69c4a5b1e033eabbc3fd6",
+      "remembered_at": "2026-11-18T00:25:17.542701+00:00",
+      "event_date": "2026-11-17T23:19:12+00:00",
+      "last_update": "2026-11-17T23:19:12+00:00",
+      "event": "Top spy agency suffers network outage, the latest US technical failure",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agency",
+        "breaks",
+        "down",
+        "emma",
+        "events",
+        "failure",
+        "has",
+        "jazeera",
+        "know",
+        "latest",
+        "network",
+        "outage",
+        "plagued",
+        "series",
+        "spy",
+        "suffers",
+        "technical",
+        "the",
+        "top",
+        "unfortunate",
+        "what",
+        "withrow"
+      ],
+      "source_excerpt": "A series of unfortunate events has plagued the US. Al Jazeera’s Emma Withrow breaks down what we know.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+          "published_at": "2026-11-17T23:19:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d60c84f301df7fcdd3a2f125",
+      "remembered_at": "2026-11-18T00:25:17.542701+00:00",
+      "event_date": "2026-11-18T00:00:24+00:00",
+      "last_update": "2026-11-18T00:00:24+00:00",
+      "event": "Europe plans to catch the next computer chip wave",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "catch",
+        "chip",
+        "chips",
+        "computer",
+        "data",
+        "europe",
+        "generation",
+        "hopes",
+        "leader",
+        "light",
+        "new",
+        "next",
+        "plans",
+        "process",
+        "the",
+        "use",
+        "wave",
+        "which"
+      ],
+      "source_excerpt": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T00:00:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "be0ac5bdaf1c012f7028f2c6",
+      "remembered_at": "2026-11-18T00:25:17.542701+00:00",
+      "event_date": "2026-11-18T00:06:05+00:00",
+      "last_update": "2026-11-18T00:06:05+00:00",
+      "event": "Turkmenistan, Pakistan pledge closer ties",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "closer",
+        "express",
+        "pakistan",
+        "pledge",
+        "the",
+        "ties",
+        "tribune",
+        "turkmenistan"
+      ],
+      "source_excerpt": "Turkmenistan, Pakistan pledge closer ties The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1RDTGk1ZlIwYlpYMXp2Y3AxVndnaFBHSHZMZEt2dUo3dkhZY0x0XzFOcUtYbzNvaFQtRDhHQ204TTYwOFRrOXVabEVnUnJZbFVBZHc2OWRSc1hVZ05wbm9lLWZfRkVJWGhibkxqR1JZbmhQUVUwNEloVHFSSUdhOGtQb9IBiwFBVV95cUxQakJBaDRfdmF6RGY2cDhaUG0ta19VaUtsbGxwVjAxcmFXbXpLamYtM0RrQy05VHNLRkRQWGItc0ExWldfNERuWmtONWxlUHdaS18tbXV0aVhJY3V0SUptdzBOTUMzR1ZUcDJnR0pEZWJ6MVdmWlVXSDQxNTBndXY4enhlbFltc0N5d2pB?oc=5",
+          "published_at": "2026-11-18T00:06:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1RDTGk1ZlIwYlpYMXp2Y3AxVndnaFBHSHZMZEt2dUo3dkhZY0x0XzFOcUtYbzNvaFQtRDhHQ204TTYwOFRrOXVabEVnUnJZbFVBZHc2OWRSc1hVZ05wbm9lLWZfRkVJWGhibkxqR1JZbmhQUVUwNEloVHFSSUdhOGtQb9IBiwFBVV95cUxQakJBaDRfdmF6RGY2cDhaUG0ta19VaUtsbGxwVjAxcmFXbXpLamYtM0RrQy05VHNLRkRQWGItc0ExWldfNERuWmtONWxlUHdaS18tbXV0aVhJY3V0SUptdzBOTUMzR1ZUcDJnR0pEZWJ6MVdmWlVXSDQxNTBndXY4enhlbFltc0N5d2pB?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e03f8f2d897791e9c58c7ba1",
+      "remembered_at": "2026-11-18T00:25:17.542701+00:00",
+      "event_date": "2026-11-17T23:26:15+00:00",
+      "last_update": "2026-11-17T23:26:15+00:00",
+      "event": "Russian literary work finds Urdu voice in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "finds",
+        "literary",
+        "pakistan",
+        "russian",
+        "the",
+        "tribune",
+        "urdu",
+        "voice",
+        "work"
+      ],
+      "source_excerpt": "Russian literary work finds Urdu voice in Pakistan The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTzYzZl9ZaC05bHZPUGNkby1pZ3RkS2tQLVBTMTVOeVZ5MVIyZ1p4Y3BrZ0d0WVBYQ0U0blVpU2FJZG9UdXhQSWJidTI3d2JHZ1drUVpTUk5LbkQ1eW5qOGotVjZLTUpXV0EwYnpsdGpiWDlGNU5pN0NxbmoxVjdxaXJURHV6Tml3MU1QemFiNWvSAZgBQVVfeXFMT1VUN2puZUdDWlcyMzdiUGc1blJOZk1SMUdmdjhWdU5lbWRVYnVlV1d1UUs5dkxKa21aLXFUSndOOGVtMEgyVUlRcklIOG1IcHlzNnhVakRobkpsRG45U0toTWktckctRklleEczUFpfbkQwRnptWjBrNVRXak56Q0VzYUI2RDVYSER3NnRNVDMxUU1BRjAtSFE?oc=5",
+          "published_at": "2026-11-17T23:26:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTzYzZl9ZaC05bHZPUGNkby1pZ3RkS2tQLVBTMTVOeVZ5MVIyZ1p4Y3BrZ0d0WVBYQ0U0blVpU2FJZG9UdXhQSWJidTI3d2JHZ1drUVpTUk5LbkQ1eW5qOGotVjZLTUpXV0EwYnpsdGpiWDlGNU5pN0NxbmoxVjdxaXJURHV6Tml3MU1QemFiNWvSAZgBQVVfeXFMT1VUN2puZUdDWlcyMzdiUGc1blJOZk1SMUdmdjhWdU5lbWRVYnVlV1d1UUs5dkxKa21aLXFUSndOOGVtMEgyVUlRcklIOG1IcHlzNnhVakRobkpsRG45U0toTWktckctRklleEczUFpfbkQwRnptWjBrNVRXak56Q0VzYUI2RDVYSER3NnRNVDMxUU1BRjAtSFE?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-17T23:30:16.457944+00:00"
+  "updated_at": "2026-11-18T00:25:17.542701+00:00"
 }
