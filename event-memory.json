@@ -65606,7 +65606,632 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8b345636a453c22690b31c9d",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T09:09:40+00:00",
+      "last_update": "2026-11-18T14:38:21+00:00",
+      "event": "Editorial: Efforts by Pakistan or others to mediate the US-Iran war will not bear fruit unless there is clarity in Washington",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045358",
+        "bear",
+        "clarity",
+        "com",
+        "dawn",
+        "editorial",
+        "efforts",
+        "fruit",
+        "https",
+        "iran",
+        "mediate",
+        "news",
+        "not",
+        "others",
+        "pakistan",
+        "stalemate",
+        "the",
+        "there",
+        "unless",
+        "untenable",
+        "war",
+        "washington",
+        "will",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045358/untenable-stalemate",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcEZ1Vl9Db3ZpRUljNTdQZVczWjV6cmdySl9jaDZsWGFWODVGT19ZVDkzRHRrbTRYMlZWR3F4bzVwWEsweHk2WnlWdDRnX2ZzelJXT1hJcmVaSkRkY1FzTDltQzdidE1TZ09QN2xKUWVGN1lkdG9BQ2d5WEF2VGxWcmUyc1RDeUczN29iblFfcm9pZkVhajRVeXhzWTBxV0RDNWpOa3ZxSk16Wk9KYVprTmpWSkR6dUhEcEFXMWRLSXBta0RRM3ZWenBYVTVKN04xTkg1eTQ4aGpaVkhCTFBzOXhB0gH0AUFVX3lxTE1UVGllQ3VFbjNCbzVKUW93WEU1dFB6QXd6VVgtR0lyM2dCbzQwN2x1ZkhfMU9tdkhNMm55dTRfLTNVdTBtbF94SERreVdpV3ZwWEhqTlUyZXA4NEREQkRMUl9mOWRQWVhFdEdJb29Zbk8tdzgxR0xlbE40Zk8wZlBpYWplQmZ5eW1leG9FOTdIeG9OU1lZTngxRW1TOUFKWlFSendIV3NXbHk0TDBSSGRYaDBSZzdweUJHLVhiVkNjNGxLaHNaZERtX3h1REdZNWtiRnphcFZycFRWNFB2ZEFpSHFnZV93NGxCQnp2amxYT0U3T0U?oc=5",
+          "published_at": "2026-11-18T09:09:40+00:00"
+        },
+        {
+          "name": "The National",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdScFFjTlhtU25LQmJvdEp1Vk5qZ3FtTFE3RkdXUzVDZFgtSnY3MkhTeW82UW9QTWVibnVQb2Nyb1RVYWlFTlpyd3JCdjIzVnV1QmVxUEUyTDhzWXdrZUhPN0N6aUxrYWN3NXdWcVNQeUtFVnFPMHRvSURyTFpMY0tvWmxoZ014aS1iWjVsMnRCVHFDeVhjcllvYw?oc=5",
+          "published_at": "2026-11-18T09:25:16+00:00"
+        },
+        {
+          "name": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeVpBZEVuWDhTaUdiQ1NyQzdzYkdqUmswSXNzYUZtQ0d6RVpwWTVzZjRncm5CS2tjYkNPYkJfU01qU3hQNU43SzhNdURCeHN1X1gxb0hUMDJSRkdfdXJ4QzVZYXo0OVVWU1BRSUU0WHYxSkRpU0VVMmhOeUxjbU02MVE2OTN6MXRhTGhQU3pjUEFyTTJQWGV0X1FndUpUckZMWTJIcXdkSHNFbUlZYnZtX3hPMm11U0trN180ZlFiWElaZDliVlFUQWlpZ9IBywFBVV95cUxNeGU0YmRYalRmMGQwRTlBaEhtamd5VEJnV2l1UjBNMTdCVTNPcUprWUZUeXNFLU1NYkRsNnE1aC01emVOcUllTGY5UnJZN3plZkV0Mno4eW10RFhOOHRBQlpVd09iVV8wc0wxSWZhRUJaNDh5SzdLR1BKTllBcFVOVjVMSFpIZmZkZzlMc1pMMnB1S01DR25oaGh5bm9sR2dtakFlclRHVU9KbG50eXlBOGRNeDFlNl90bEhjenBabDUyWHg1X2ZVd2NBYw?oc=5",
+          "published_at": "2026-11-18T09:28:58+00:00"
+        },
+        {
+          "name": "https://www.engine.online/",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpOS2NhNW5pekJQWEpwWFQ4dEIwUVBnMHZyRFAwNGpTWVlnLVgzbmsxZXJmRUtKTDlUaWlPTVJFajlvMC01Z1BuNnNWb3VPUW5MS0JZLUcyX2FROFNIOEJ2YWhIa2pWcVk1aGlLbmR4MEprQmE5bVc3dGp6dW1LTnhNYmx4dU43Ulp2VG1IZmpGR2VvS0pmOU90TGxZZVZCZUpCSA?oc=5",
+          "published_at": "2026-11-18T09:49:06+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045433/editorial-efforts-by-pakistan-or-others-to-mediate-the-us-iran-war-will-not-bear-fruit-unless-there-is-clarity-in-washington",
+          "published_at": "2026-11-18T13:33:34+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045433/editorial-efforts-to-mediate-the-us-iran-war-will-not-bear-fruit-unless-there-is-clarity-in-washington",
+          "published_at": "2026-11-18T14:00:36+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
+          "published_at": "2026-11-18T14:13:51+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWRMWlROUjlhcXR4ZjB3eUtJS25pcTVBeHp1ejhXUXZ6Wk1mOEMzM0lHUzRKTHZnMXhrNFNHNGhtMUZWeUs2cmJWVjRkbjVFR1lVTFhfRUpyaWo1eDN5bmNYS3E1a2o0WUJvQ0RJLVBOWkJ3eEpzZHMwbjJUbWl1STNob1TSAYoBQVVfeXFMTTk4dXJEcWl2VmJaMUlzNUUtMVBTQ3h6dVNtSGNDalVBeHRMcGJrZTV2TzVFNHZvSk0waEVBM0tqUVNkNUhnd3VuWFEyRjVpZ3pXX0htZjFCSWYzbk9YMWZrWFU0YzhBN0huZE9ENW1ac2xTUGxoZ21CeVpieDZOb0g4UkVMSTFYc0R3?oc=5",
+          "published_at": "2026-11-18T14:15:51+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
+          "published_at": "2026-11-18T14:36:20+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGNDR0Z2Z005TDhGUFhZRXRTU3FkWTUxUmdURHFsaTYzYTBDbF8tUjFvLVJSWUgxa25pbnBZZjFUMUd5Rks2T0VRYVpZendaTThLWUZISlA3NVIzQ25ZdjFya1dEV2NvTUdtZkx0a1dPWV90RUQxSlk5aHdUTjRvZU9sWXduVHJnOXcxZTVPRkFrSGJyZm82OG0weTNydlBIcXNtUEpDc2kycGN6d1h5ONIBtgFBVV95cUxQWnFkWE9kZXQyLXJYaFNYRlFnbUdCZ2tSck9NRlhJcmF3R0lXRGpuTlBOM3ZkQm53c0lVYmoxQ3pUTlJuQ1VJbFViX2QzV01aMkU1U2hsc2RLbjhQcFp5Z3FCQi1RbnpkQTV3UW96dG5qbnl6Z19sVjhGeFpubFJjNGlpQmlWRlZsUnRTbFc5cnNzM29JbGxJQzEtVjhJMTNwSWNYRzhqc2ZlbVpPTDdpdjlmMHdlUQ?oc=5",
+          "published_at": "2026-11-18T14:38:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045433/editorial-efforts-by-pakistan-or-others-to-mediate-the-us-iran-war-will-not-bear-fruit-unless-there-is-clarity-in-washington",
+        "publisher_url": "https://www.dawn.com/news/2045433/editorial-efforts-by-pakistan-or-others-to-mediate-the-us-iran-war-will-not-bear-fruit-unless-there-is-clarity-in-washington",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "11e9cab8fc69bda148234ac5",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T15:37:52+00:00",
+      "last_update": "2026-11-18T15:56:29+00:00",
+      "event": "Hakeem Jeffries becomes first Black nominee for US House speaker",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "becomes",
+        "black",
+        "congress",
+        "congressman",
+        "control",
+        "democrats",
+        "elections",
+        "first",
+        "for",
+        "gained",
+        "hakeem",
+        "house",
+        "jeffries",
+        "midterm",
+        "new",
+        "nominated",
+        "nominee",
+        "speaker",
+        "the",
+        "was",
+        "york"
+      ],
+      "source_excerpt": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+          "published_at": "2026-11-18T15:37:52+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T15:56:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "162e62e2bfe0b6f690a87592",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T09:29:23+00:00",
+      "last_update": "2026-11-18T10:41:32+00:00",
+      "event": "Razaullah, Ghori power Pakistan to 227-run lead over Sri Lanka",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "227",
+        "ghori",
+        "lanka",
+        "lead",
+        "over",
+        "pakistan",
+        "power",
+        "razaullah",
+        "run",
+        "samaa",
+        "sri"
+      ],
+      "source_excerpt": "Razaullah, Ghori power Pakistan to 227-run lead over Sri Lanka samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFh2Zm1xbEpnZkFQZHFHc3NUWTlkNXlhaUZOVVUxTFhKblhKTXc5WTZOVjVIMUpCTVZXaXVZc1R5aXVKOGIzazd0V2dTVTIwV0dxNHd5NFE4ajYySWVBdFhtZzR1cmZ0UjVIT2xhZVFPb0xSZTcxdUxSV25PNFZZaC1BaGpoZUZ3RUNFWmFsYm1JeGxlejdlMg?oc=5",
+          "published_at": "2026-11-18T09:29:23+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-dismissed-for-325-lead-sri-lanka-by-227-in-second-test",
+          "published_at": "2026-11-18T09:49:28+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045398/ghazis-fifty-and-razaullahs-late-blitz-give-pakistan-227-run-lead-over-sri-lanka-in-second-test",
+          "published_at": "2026-11-18T09:54:26+00:00"
+        },
+        {
+          "name": "Jagonews24",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WdkFEZGExSEd0UkNWeHh0WE9xbUpqU1pxTXdodVY5MVhPVnJoS1pOTkxtWXJocDJvdncweTVzNWtfOXlyXzNDY0tfRW1TMmJpUDRmbUhCeVFJTEk?oc=5",
+          "published_at": "2026-11-18T10:41:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFh2Zm1xbEpnZkFQZHFHc3NUWTlkNXlhaUZOVVUxTFhKblhKTXc5WTZOVjVIMUpCTVZXaXVZc1R5aXVKOGIzazd0V2dTVTIwV0dxNHd5NFE4ajYySWVBdFhtZzR1cmZ0UjVIT2xhZVFPb0xSZTcxdUxSV25PNFZZaC1BaGpoZUZ3RUNFWmFsYm1JeGxlejdlMg?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9bfe6da2bb6993fb3ab405a4",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T15:32:01+00:00",
+      "last_update": "2026-11-18T15:32:01+00:00",
+      "event": "Russian attacks on Ukraine kill at least five people",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attacks",
+        "brutal",
+        "casualties",
+        "described",
+        "five",
+        "kill",
+        "least",
+        "most",
+        "odesa",
+        "people",
+        "president",
+        "russian",
+        "strikes",
+        "that",
+        "the",
+        "ukraine",
+        "volodymyr",
+        "were",
+        "zelenskyy"
+      ],
+      "source_excerpt": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+          "published_at": "2026-11-18T15:32:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "20acbf88e113187b9034c6d8",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T15:00:34+00:00",
+      "last_update": "2026-11-18T15:00:34+00:00",
+      "event": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "behind",
+        "between",
+        "control",
+        "gov",
+        "government",
+        "hezbollah",
+        "iraq",
+        "jurf",
+        "kataib",
+        "oil",
+        "push",
+        "sakhar",
+        "scandal",
+        "smuggling",
+        "surge",
+        "tensions",
+        "what",
+        "zaidi"
+      ],
+      "source_excerpt": "Tensions surge between PM al-Zaidi's government and Kataib Hezbollah amid oil-smuggling scandal.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
+          "published_at": "2026-11-18T15:00:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b4475e020b1c28ef1f0d1771",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T14:52:31+00:00",
+      "last_update": "2026-11-18T14:52:31+00:00",
+      "event": "Israeli forces demolish homes in southern Lebanon",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "demolish",
+        "demolished",
+        "excavators",
+        "forces",
+        "homes",
+        "israeli",
+        "lebanon",
+        "sharqiye",
+        "southern",
+        "zawtar"
+      ],
+      "source_excerpt": "Israeli excavators demolished homes in Zawtar al-Sharqiye in southern Lebanon.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss",
+          "published_at": "2026-11-18T14:52:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c4305de2bb74c9e7c8c11c9c",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T14:47:34+00:00",
+      "last_update": "2026-11-18T14:47:34+00:00",
+      "event": "US official says Hormuz insurance hits $64m: Is the strait really open?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "64m",
+        "cao",
+        "challenging",
+        "claims",
+        "costs",
+        "for",
+        "have",
+        "hits",
+        "hormuz",
+        "hung",
+        "insurance",
+        "official",
+        "open",
+        "really",
+        "says",
+        "shipping",
+        "single",
+        "soared",
+        "strait",
+        "the",
+        "transit"
+      ],
+      "source_excerpt": "Hung Cao says shipping insurance costs have soared to $64m for a single transit, challenging claims the strait is open.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
+          "published_at": "2026-11-18T14:47:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d089792ca9f1e428d09f4a2a",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T15:14:34+00:00",
+      "last_update": "2026-11-18T15:14:34+00:00",
+      "event": "Cathedral's staff review 'difficult but necessary'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "been",
+        "but",
+        "cathedral",
+        "difficult",
+        "due",
+        "financial",
+        "gloucester",
+        "going",
+        "has",
+        "necessary",
+        "pressure",
+        "restructure",
+        "review",
+        "significant",
+        "staff",
+        "through"
+      ],
+      "source_excerpt": "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\".",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T15:14:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e81b3db8368950d58e193ed4",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T15:39:57+00:00",
+      "last_update": "2026-11-18T15:39:57+00:00",
+      "event": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1987",
+        "2018",
+        "a10",
+        "abuse",
+        "along",
+        "and",
+        "bearing",
+        "body",
+        "death",
+        "for",
+        "found",
+        "four",
+        "france",
+        "girl",
+        "identified",
+        "inass",
+        "jailed",
+        "marks",
+        "not",
+        "old",
+        "parents",
+        "road",
+        "the",
+        "torture",
+        "touloub",
+        "until",
+        "was",
+        "year"
+      ],
+      "source_excerpt": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T15:39:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4c7ec68f299986c4cef6ee88",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T15:19:47+00:00",
+      "last_update": "2026-11-18T15:19:47+00:00",
+      "event": "Finance minister shares Pakistan’s SME reforms at Global Forum 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "finance",
+        "forum",
+        "global",
+        "minister",
+        "pakistan",
+        "reforms",
+        "shares",
+        "sme"
+      ],
+      "source_excerpt": "Finance minister shares Pakistan’s SME reforms at Global Forum 2026",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/finance-minister-shares-pakistans-sme-reforms-at-global-forum-2026",
+          "published_at": "2026-11-18T15:19:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/finance-minister-shares-pakistans-sme-reforms-at-global-forum-2026",
+        "publisher_url": "https://arynews.tv/finance-minister-shares-pakistans-sme-reforms-at-global-forum-2026",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aa59974e3038762d381aee85",
+      "remembered_at": "2026-11-18T15:56:56.343064+00:00",
+      "event_date": "2026-11-18T11:16:00+00:00",
+      "last_update": "2026-11-18T11:16:00+00:00",
+      "event": "Prince Harry's true feelings revealed over shared grief with William",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "feelings",
+        "geo",
+        "grief",
+        "harry",
+        "news",
+        "over",
+        "prince",
+        "revealed",
+        "shared",
+        "true",
+        "william",
+        "with"
+      ],
+      "source_excerpt": "Prince Harry's true feelings revealed over shared grief with William Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSjVDejk1b1U2ZWczUzRmamVaZVc5QUFzVWN5SVBvTGtIc2Jfa1ltT1JJRVVUY0JMUTZta1RESXg4SVdlSkxyUU9HOEVIb09oQzdicDR5Sjd5R0VtYlJ6RElZT05hUDc5T0RZdU1lQ3NxSzNsT0I0TnpPb3k2V2lzZVVUR0dPZXJjOGJOLS03aFMtTE1FcVY0djg1RGNSRE5WQ1E?oc=5",
+          "published_at": "2026-11-18T11:16:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691639-prince-harrys-true-feelings-revealed-over-shared-grief-with-william",
+          "published_at": "2026-11-18T11:16:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSjVDejk1b1U2ZWczUzRmamVaZVc5QUFzVWN5SVBvTGtIc2Jfa1ltT1JJRVVUY0JMUTZta1RESXg4SVdlSkxyUU9HOEVIb09oQzdicDR5Sjd5R0VtYlJ6RElZT05hUDc5T0RZdU1lQ3NxSzNsT0I0TnpPb3k2V2lzZVVUR0dPZXJjOGJOLS03aFMtTE1FcVY0djg1RGNSRE5WQ1E?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T14:53:24.277618+00:00"
+  "updated_at": "2026-11-18T15:56:56.343064+00:00"
 }

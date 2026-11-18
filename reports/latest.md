@@ -1,45 +1,130 @@
-# News Hub report - Wed 18 Nov, 07:53 PM PKT
+# News Hub report - Wed 18 Nov, 08:56 PM PKT
 
 ## Collection
-- New items this run: 160 | items in rolling pool: 1000
-- Unique story clusters: 815 (duplicates merged: 185)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 100, Al Jazeera 10, ProPakistani 8, TechJuice 4, Dawn 3, Dawn Latest 3, X 3, The Guardian 3, Geo News 2, ARY News 2, The Verge 2, The News International 1
+- New items this run: 92 | items in rolling pool: 1011
+- Unique story clusters: 835 (duplicates merged: 176)
+- Clusters dropped as already published/queued: 19; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 72, Al Jazeera 5, The Verge 4, ARY News 2, BBC World 2, TechJuice 2, TechCrunch 1, Wired 1, GSMArena 1, BBC Business 1, ProPakistani 1, Geo News Fast Lane 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
 - Editorial: Efforts by Pakistan or others to mediate the US-Iran war will not bear fruit unless there is clarity in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asean secretary general to undertake working visit to Pakistan from Nov 18-20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hakeem Jeffries becomes first Black nominee for US House speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Razaullah, Ghori power Pakistan to 227-run lead over Sri Lanka | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Editorial: Efforts by Pakistan or others to mediate the US-Iran war will not bear fruit unless there is clarity in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asean secretary general to undertake working visit to Pakistan from Nov 18-20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hakeem Jeffries becomes first Black nominee for US House speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Razaullah, Ghori power Pakistan to 227-run lead over Sri Lanka | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Editorial: Efforts by Pakistan or others to mediate the US-Iran war will not bear fruit unless there is clarity in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asean secretary general to undertake working visit to Pakistan from Nov 18-20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hakeem Jeffries becomes first Black nominee for US House speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Razaullah, Ghori power Pakistan to 227-run lead over Sri Lanka | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Pakistan National Politics | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 22/107 | empty: 1 | failed: 84 | malformed/partial: 85
+- Trusted publisher desks with at least one healthy source: 2/10
+- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Urdu | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Geo News, Samaa, Express News, Dawn, Jang, The News International, Dunya News, Dunya News TV
 
 ## Selected for the queue
-- Indian outlets blocked this run: 5 items
+### Pakistan mediation in US-Iran war will fail without Washington clarity: editorial  [NORMAL]
+- Poster: واشنگتن کی واضح پالیسی کے بغیر پاکستان کی ثالثی کامیاب نہیں ہوگی / Pakistan's US-Iran mediation needs Washington clarity | category world
+- Alternative headline: Dawn editorial says Pakistan's US-Iran war mediation needs Washington clarity
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045433/editorial-efforts-by-pakistan-or-others-to-mediate-the-us-iran-war-will-not-bear-fruit-unless-there-is-clarity-in-washington | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2045433/editorial-efforts-by-pakistan-or-others-to-mediate-the-us-iran-war-will-not-bear-fruit-unless-there-is-clarity-in-washington
+- Supporting coverage: Gulf News, The National, South China Morning Post, https://www.engine.online/, Dawn Latest, Dawn Latest
+- Keywords: US-Iran war, Pakistan mediation, Washington clarity, Dawn editorial, Qatar diplomacy | hashtags: #USIranWar #PakistanDiplomacy #Washington #ForeignPolicy #DawnEditorial
+- Scheduled: Wed 18 Nov, 08:56 PM PKT
+- Caption:
+```
+A leading editorial argues that Pakistan and other nations' mediation efforts in the US-Iran conflict will not succeed without clarity from Washington.
+
+An editorial published by Dawn discusses ongoing international efforts, including those by Pakistan and Qatar, to mediate the US-Iran conflict. It concludes that these diplomatic initiatives will not bear fruit unless there is clear direction and policy from Washington regarding the war.
+
+ڈان میں شائع ہونے والے ایک اداریے میں پاکستان اور قطر سمیت امریکہ اور ایران تنازع میں ثالثی کی کوششوں پر روشنی ڈالی گئی ہے۔ اداریے کے مطابق، جب تک واشنگتن کی طرف سے جنگ کے حوالے سے واضح پالیسی سامنے نہیں آتی، یہ سفارتی کوششیں کامیاب نہیں ہو سکتیں۔
+
+First reported by Dawn Latest; also reported by Al Jazeera.
+
+#USIranWar #PakistanDiplomacy #Washington #ForeignPolicy #DawnEditorial
+```
+
+### Trump's Board of Peace faults Israel and Hamas over Gaza war  [NORMAL]
+- Poster: ٹرمپ کے بورڈ آف پیس نے غزہ جنگ کے خاتمے میں ناکامی پر اسرائیل اور حماس کو ذمہ دار قرار دے دیا / Trump's Board of Peace blames Israel and Hamas for Gaza war | category world
+- Alternative headline: Board of Peace blames both Israel and Hamas for Gaza war failure
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045436/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2045436/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war
+- Supporting coverage: Internazionale, Reuters, Hum News English, Dawn Latest, Dawn
+- Keywords: Board of Peace, Gaza war, Israel Hamas conflict, Donald Trump, peace talks | hashtags: #GazaWar #BoardOfPeace #Israel #Hamas #MiddleEast
+- Scheduled: Wed 18 Nov, 09:06 PM PKT
+- Caption:
+```
+Trump's Board of Peace has criticized both Israel and Hamas for failing to bring an end to the ongoing Gaza war.
+
+Trump's Board of Peace has issued a statement faulting both Israel and Hamas for their failure to end the devastating war in Gaza. The development highlights ongoing international frustrations with the deadlock in negotiations and continuous hostilities.
+
+ٹرمپ کے بورڈ آف پیس نے ایک بیان میں غزہ کی جنگ ختم کرنے میں ناکامی پر اسرائیل اور حماس دونوں کو تنقید کا نشانہ بنایا ہے۔ اس پیش رفت سے مذاکرات میں تعطل اور جاری دشمنی پر بین الاقوامی برادری کی بڑھتی ہوئی مایوسی ظاہر ہوتی ہے۔
+
+First reported by Dawn Latest; also reported by Reuters and Internazionale.
+
+#GazaWar #BoardOfPeace #Israel #Hamas #MiddleEast
+```
+
+### Hakeem Jeffries becomes first Black nominee for US House speaker  [NORMAL]
+- Poster: حیم جفریز امریکی ایوانِ نمائندگان کے اسپیکر کے لیے پہلے سیاہ فام نامزد امیدوار بن گئے / Hakeem Jeffries is first Black US House speaker nominee | category us_politics
+- Alternative headline: Democrats nominate Hakeem Jeffries as US House speaker candidate
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss
+- Supporting coverage: Al Jazeera, BBC World
+- Keywords: Hakeem Jeffries, US House speaker, Democratic nomination, US Congress, midterm elections | hashtags: #HakeemJeffries #USPolitics #HouseSpeaker #USCongress #Democrats
+- Scheduled: Wed 18 Nov, 09:16 PM PKT
+- Caption:
+```
+Hakeem Jeffries has been nominated for US House speaker, marking a historic first for a Black lawmaker.
+
+New York congressman Hakeem Jeffries has been nominated to be the US House of Representatives speaker. The nomination comes after Democrats gained control of Congress in the midterm elections, making him the first Black leader nominated for the post.
+
+نیویارک سے تعلق رکھنے والے کانگریس مین حیم جفریز کو امریکی ایوانِ نمائندگان کے اسپیکر کے لیے نامزد کیا گیا ہے۔ یہ نامزدگی مڈٹرم انتخابات میں ڈیموکریٹس کے کانگریس پر کنٹرول حاصل کرنے کے بعد سامنے آئی ہے، جس سے وہ اس عہدے کے لیے نامزد ہونے والے پہلے سیاہ فام رہنما بن گئے ہیں۔
+
+First reported by Al Jazeera; also reported by BBC World.
+
+#HakeemJeffries #USPolitics #HouseSpeaker #USCongress #Democrats
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
+- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -229,9 +314,9 @@
 - [needs_review] normal | Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run | Wed 18 Nov, 01:27 PM PKT
 - [needs_review] normal | Rahim Yar Khan man arrested after fake suicide drama killed rescue div | Wed 18 Nov, 01:37 PM PKT
 - [published] normal | GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch | Wed 18 Nov, 02:27 PM PKT
-- [queued] normal | Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperati | Wed 18 Nov, 02:37 PM PKT
-- [queued] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
-- [queued] normal | Sri Lanka Fight Back Strongly to Reduce Pakistan to 221-7 in Second Te | Wed 18 Nov, 03:30 PM PKT
+- [needs_review] normal | Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperati | Wed 18 Nov, 02:37 PM PKT
+- [needs_review] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
+- [published] normal | Sri Lanka Fight Back Strongly to Reduce Pakistan to 221-7 in Second Te | Wed 18 Nov, 03:30 PM PKT
 - [queued] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
 - [queued] normal | Sindh Launches Online Portal for Domicile and PRC Applications | Wed 18 Nov, 04:36 PM PKT
 - [queued] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
@@ -240,13 +325,16 @@
 - [queued] normal | Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump | Wed 18 Nov, 06:56 PM PKT
 - [queued] normal | Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile | Wed 18 Nov, 07:06 PM PKT
 - [queued] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
+- [queued] normal | Pakistan mediation in US-Iran war will fail without Washington clarity | Wed 18 Nov, 08:56 PM PKT
+- [queued] normal | Trump's Board of Peace faults Israel and Hamas over Gaza war | Wed 18 Nov, 09:06 PM PKT
+- [queued] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
 
 ## Publishing this run
-- Published 'GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch'.
+- Published 'Sri Lanka Fight Back Strongly to Reduce Pakistan to 221-7 in Second Test'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
+- Calls: 4 | prompt tokens: 7606 | output tokens: 2438
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -259,11 +347,3 @@
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
