@@ -1,143 +1,117 @@
-# News Hub report - Wed 18 Nov, 11:53 AM PKT
+# News Hub report - Wed 18 Nov, 01:17 PM PKT
 
 ## Collection
-- New items this run: 83 | items in rolling pool: 372
-- Unique story clusters: 311 (duplicates merged: 61)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 6
-- Items per outlet: Geo News 14, UrduPoint 14, Wired 8, ARY News 6, ProPakistani 5, The Express Tribune 4, Dawn Pakistan 4, Dawn Latest 4, Dawn 3, Al Jazeera 3, samaa tv 2, BBC Science 2
+- New items this run: 132 | items in rolling pool: 467
+- Unique story clusters: 390 (duplicates merged: 77)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 31, Geo News 12, samaa tv 11, ProPakistani 10, ARY News 6, Profit by Pakistan Today 6, Dawn Latest 5, The Express Tribune 4, Investify 4, Al Jazeera 3, TechJuice 3, The Current 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Cartoon: 18 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran army says targeted US military equipment at Kuwait base: IRIB | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- HSA surrenders over Rs80m allocated for one health project | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bail of Nov 26 incident’s accused cancelled | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Democrat Peltola wins in Alaska, securing 56-44 US Senate majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- رحیم یارخان، خودکشی کا ڈراما رچانے والا ملزم گرفتار | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Apple works to restore services after outage caused by internal update | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Cartoon: 18 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran army says targeted US military equipment at Kuwait base: IRIB | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- HSA surrenders over Rs80m allocated for one health project | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bail of Nov 26 incident’s accused cancelled | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Democrat Peltola wins in Alaska, securing 56-44 US Senate majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- رحیم یارخان، خودکشی کا ڈراما رچانے والا ملزم گرفتار | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Apple works to restore services after outage caused by internal update | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Cartoon: 18 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran army says targeted US military equipment at Kuwait base: IRIB | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- HSA surrenders over Rs80m allocated for one health project | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bail of Nov 26 incident’s accused cancelled | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Democrat Peltola wins in Alaska, securing 56-44 US Senate majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- رحیم یارخان، خودکشی کا ڈراما رچانے والا ملزم گرفتار | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Apple works to restore services after outage caused by internal update | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 102/107 | empty: 4 | failed: 1 | malformed/partial: 2
+- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Dawn Publishes Editorial Cartoon Reflecting Daily National Affairs For November 18  [NORMAL]
-- Poster: روزنامہ ڈان کا 18 نومبر کا ادارتی کارٹون شائع / Dawn Publishes November 18 Editorial Cartoon | category other
-- Alternative headline: Dawn Daily Editorial Cartoon Released For November 18, 2026
+### Democrat Mary Peltola flips Alaska Senate seat, clinching 56-44 majority  [NORMAL]
+- Poster: الاسکا میں ڈیموکریٹ میری پیلٹولا کی فتح، سینیٹ میں واضح برتری حاصل / Mary Peltola flips Alaska, securing 56-seat US Senate majority | category us_politics
+- Alternative headline: Peltola unseats Republican Sullivan in Alaska, sealing 56-seat US Senate majority
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRTFoaVZiWFhJVzdMT0F0c1VzS3hyQVdKNExpYkFUYjFaTldPbU95bGdVejZjbWIweXphVUttbmE4OW1aWU91WXNfb3JQM1lPZ1hyY09GLXVCSnJTMXRPM1NhNzhUVkJzTkE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRTFoaVZiWFhJVzdMT0F0c1VzS3hyQVdKNExpYkFUYjFaTldPbU95bGdVejZjbWIweXphVUttbmE4OW1aWU91WXNfb3JQM1lPZ1hyY09GLXVCSnJTMXRPM1NhNzhUVkJzTkE?oc=5
-- Supporting coverage: Dawn, Investify, Profit by Pakistan Today
-- Keywords: Dawn editorial cartoon, editorial cartoon, Dawn Pakistan, political cartoon, daily cartoon | hashtags: #Dawn #EditorialCartoon #PakistanNews #PoliticalSatire
-- Scheduled: Wed 18 Nov, 11:53 AM PKT
+- Original source: published_report - ARY News https://arynews.tv/democrat-peltola-wins-in-alaska-securing-56-44-us-senate-majority | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/democrat-peltola-wins-in-alaska-securing-56-44-us-senate-majority
+- Supporting coverage: ARY News, BBC, Dawn, Dawn Latest
+- Keywords: Mary Peltola, Alaska Senate race, Dan Sullivan, US Senate majority, Midterm elections | hashtags: #USSenate #MaryPeltola #Alaska #USElections
+- Scheduled: Wed 18 Nov, 01:17 PM PKT
 - Caption:
 ```
-Dawn has released its daily editorial cartoon for November 18, 2026, capturing current political and social commentary.
+Democrat Mary Peltola has won Alaska's US Senate race, defeating Republican incumbent Dan Sullivan and sealing a 56-44 majority.
 
-Dawn published its daily editorial cartoon for November 18, 2026. The recurring newspaper feature presents satirical commentary on contemporary national political, economic, or social developments, serving as a regular visual highlight for daily print and digital readers across Pakistan.
+Democrat Mary Peltola defeated Republican incumbent Dan Sullivan in Alaska's Senate race, winning 50% of the first-place vote. The victory marks Democrats' ninth flip of the midterm elections, securing a 56-44 majority in the upper chamber of the US Congress.
 
-روزنامہ ڈان نے 18 نومبر 2026 کا اپنا روایتی ادارتی کارٹون شائع کر دیا ہے۔ یہ روزانہ کا تصویری فیچر ملکی سیاسی، معاشی یا سماجی حالات پر طنزیہ تبصرہ پیش کرتا ہے جو قارئین میں خاصا مقبول ہے۔
+ڈیموکریٹ امیدوار میری پیلٹولا نے الاسکا میں ریپبلکن سینیٹر ڈین سلیوان کو شکست دے کر کامیابی حاصل کر لی۔ انہوں نے 50 فیصد ووٹ حاصل کیے، جس کے نتیجے میں امریکی سینیٹ میں ڈیموکریٹس کی نشستوں کی تعداد 56 تک پہنچ گئی ہے۔
 
-First reported by Dawn
+First reported by ARY News; also reported by Reuters
 
-#Dawn #EditorialCartoon #PakistanNews #PoliticalSatire
+#USSenate #MaryPeltola #Alaska #USElections
 ```
 
-### Iran Army Claims Targeting US Military Equipment At Kuwait Base  [NORMAL]
-- Poster: ایرانی فوج کا کویت میں امریکی فوجی سازوسامان کو نشانہ بنانے کا دعویٰ / Iran Army Claims Strike On US Equipment In Kuwait | category war
-- Alternative headline: Iran Reports Drone Attack On US Military Equipment In Kuwait
+### Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run lead  [NORMAL]
+- Poster: راولپنڈی ٹیسٹ: پاکستان کے 7 وکٹوں پر 221 رنز، مجموعی برتری 123 رنز تک محدود / Pakistan struggle at 221-7 despite 123-run lead in second Test | category sports
+- Alternative headline: Sri Lanka strike repeatedly as Pakistan stumble to 221-7 on day two
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGUwaHRwZFdFU3BJRjJVSmdraERhRlFnc1pnTFZodENwV1BPbXVsczRvWnlkai1aRlBtcnRPaHpkNlNQbUxqdC1VbExoZ2F6aW9SdmpKS2VnTl9SaTZkM2xWb1FfWHoyaVM0R0dLR0JKb05wTVpGb2hscFJyZTN3N25pNGZhY2JoZXNYaHNRVUMzdzhYUU1VZnd6TndZLW5U?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGUwaHRwZFdFU3BJRjJVSmdraERhRlFnc1pnTFZodENwV1BPbXVsczRvWnlkai1aRlBtcnRPaHpkNlNQbUxqdC1VbExoZ2F6aW9SdmpKS2VnTl9SaTZkM2xWb1FfWHoyaVM0R0dLR0JKb05wTVpGb2hscFJyZTN3N25pNGZhY2JoZXNYaHNRVUMzdzhYUU1VZnd6TndZLW5U?oc=5
-- Supporting coverage: Dawn, Il Sole 24 ORE, Khaama Press
-- Keywords: Iran US military Kuwait, Iran army, Kuwait base, IRIB, drone attack, Middle East tensions | hashtags: #Iran #Kuwait #USMilitary #MiddleEastTensions #BreakingNews
-- Scheduled: Wed 18 Nov, 12:03 PM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/691605-pakistan-struggle-against-sri-lanka-despite-extending-lead-in-second-test | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691605-pakistan-struggle-against-sri-lanka-despite-extending-lead-in-second-test
+- Supporting coverage: Geo News, Geo News, AP News
+- Keywords: Pakistan vs Sri Lanka, Rawalpindi Test, Lahiru Kumara, Azan Awais, Saud Shakeel | hashtags: #PAKvSL #RawalpindiTest #Cricket #PakistanCricket
+- Scheduled: Wed 18 Nov, 01:27 PM PKT
 - Caption:
 ```
-Iran's military claims it targeted US military equipment stationed at a Kuwait base, according to state broadcaster IRIB.
+Sri Lankan pacer Lahiru Kumara picked four wickets to rattle Pakistan's batting lineup on day two of the second Test in Rawalpindi.
 
-Iran's army announced that it targeted United States military equipment stationed at a base in Kuwait, state broadcaster IRIB reported via Dawn. The development follows escalating regional tensions and cross-border drone strikes reported across the Persian Gulf region in recent days.
+Pakistan stumbled to 221-7 in 69 overs on day two of the second Test against Sri Lanka in Rawalpindi, holding a 123-run lead. Lahiru Kumara dismantled the middle order, removing Azan Awais for 47, Saud Shakeel for 24, and Saqib Khan for 37.
 
-ایرانی فوج نے سرکاری نشریاتی ادارے کے مطابق دعویٰ کیا ہے کہ اس نے کویت میں موجود ایک فوجی اڈے پر امریکی فوجی سازوسامان کو نشانہ بنایا ہے۔ خلیجی خطے میں حالیہ کشیدگی اور ڈرون حملوں کے دوران یہ دعویٰ سامنے آیا ہے۔
+راولپنڈی ٹیسٹ کے دوسرے روز پاکستانی بیٹنگ لائن مشکلات کا شکار ہو کر 69 اوورز میں 221 رنز پر 7 وکٹیں گنوا بیٹھی۔ سری لنکن فاسٹ بولر لاہیرو کمارا نے شاندار بولنگ کرتے ہوئے اہم وکٹیں حاصل کیں، جبکہ قومی ٹیم کو مجموعی طور پر 123 رنز کی برتری حاصل ہے۔
 
-First reported by Dawn via IRIB
+First reported by Geo News
 
-#Iran #Kuwait #USMilitary #MiddleEastTensions #BreakingNews
+#PAKvSL #RawalpindiTest #Cricket #PakistanCricket
 ```
 
-### Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump  [NORMAL]
-- Poster: ٹرمپ کے ساتھ سہ فریقی سربراہی اجلاس سے قبل شی جن پنگ اور پیوٹن کی ملاقات / Xi, Putin Meet Ahead Of Historic Trilateral Trump Summit | category world
-- Alternative headline: Xi Jinping And Vladimir Putin Hold Talks Before Trump Summit
+### Rahim Yar Khan man arrested after fake suicide drama killed rescue diver  [NORMAL]
+- Poster: رحیم یار خان: خودکشی کا ڈراما رچانے والا مقروض ملزم 42 روز بعد گرفتار / Man arrested in Rahim Yar Khan after fake suicide led to rescuer's death | category crime
+- Alternative headline: Accused held in Rahim Yar Khan after staging suicide that killed rescuer
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHJkYTQwNmswLUQ4dExGeHVack1rMDB4VUZyMm9aMnUyUUJGaGpHUUFCV2lDdzNHakFJS2pPc3ZuMmNSTXVTdDhsYlNPZlVKZ0VnX2xVLVo5NEhXMDdvaC0tTjRlYlhuNG5icDdCb2dhTnFzYTR0RnktTnBVaUV4WG1QbkZYM2gzV1ZRRXdnUzBCLXc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHJkYTQwNmswLUQ4dExGeHVack1rMDB4VUZyMm9aMnUyUUJGaGpHUUFCV2lDdzNHakFJS2pPc3ZuMmNSTXVTdDhsYlNPZlVKZ0VnX2xVLVo5NEhXMDdvaC0tTjRlYlhuNG5icDdCb2dhTnFzYTR0RnktTnBVaUV4WG1QbkZYM2gzV1ZRRXdnUzBCLXc?oc=5
-- Supporting coverage: Dawn, Dawn Latest, ARY News
-- Keywords: Xi Putin Trump summit, Xi Jinping, Vladimir Putin, Donald Trump, trilateral summit, diplomacy | hashtags: #XiJinping #Putin #Trump #Diplomacy #TrilateralSummit
-- Scheduled: Wed 18 Nov, 12:13 PM PKT
+- Original source: published_report - Jang Urdu https://jang.com.pk/news/1634540 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Jang Urdu https://jang.com.pk/news/1634540
+- Supporting coverage: Jang Urdu, UrduPoint
+- Keywords: Rahim Yar Khan fake suicide, Noman Riaz, Kot Samaba canal, rescuer death, DPO Rahim Yar Khan | hashtags: #RahimYarKhan #PunjabPolice #CrimeNews #PakistanNews
+- Scheduled: Wed 18 Nov, 01:37 PM PKT
 - Caption:
 ```
-Chinese President Xi Jinping and Russian President Vladimir Putin met ahead of an anticipated trilateral summit involving US President Trump.
+Police in Rahim Yar Khan have arrested a debtor who faked his suicide 42 days ago, an act that led to a rescuer's drowning.
 
-Chinese President Xi Jinping and Russian President Vladimir Putin held a bilateral meeting ahead of an unprecedented trilateral summit with United States President Donald Trump, Dawn reported. The high-stakes diplomatic engagement precedes historic three-way discussions among leaders of the major global powers.
+Rahim Yar Khan police arrested suspect Noman Riaz, who staged his suicide 42 days ago by plunging his car into Kot Samaba canal to evade debts. During vehicle recovery operations, a rescue official drowned, leading to a martyrdom case filed against the suspect.
 
-ڈان کی رپورٹ کے مطابق چینی صدر شی جن پنگ اور روسی صدر ولادیمیر پیوٹن نے امریکی صدر ڈونلڈ ٹرمپ کے ساتھ متوقع سہ فریقی سربراہی اجلاس سے قبل اہم ملاقات کی ہے۔ یہ پیش رفت عالمی طاقتوں کے مابین غیر معمولی سفارتی بات چیت کا حصہ ہے۔
+رحیم یار خان پولیس نے قرض سے بچنے کے لیے 42 روز قبل خودکشی کا ڈراما رچانے والے ملزم نعمان ریاض کو گرفتار کر لیا۔ نہر سے ملزم کی گاڑی نکالنے کے دوران ایک ریسکیو اہلکار ڈوب کر شہید ہو گیا تھا، جس پر ملزم کے خلاف مقدمہ درج کیا گیا ہے۔
 
-First reported by Dawn
+First reported by Jang Urdu
 
-#XiJinping #Putin #Trump #Diplomacy #TrilateralSummit
-```
-
-### Health Services Academy Surrenders Over Rs80m Allocated For Key Project  [NORMAL]
-- Poster: ہیلتھ سروسز اکیڈمی نے ہیلتھ منصوبے کے 8 کروڑ روپے سے زائد فنڈز واپس کر دیے / HSA Surrenders Over Rs80m Allocated For Health Project | category health
-- Alternative headline: HSA Surrenders Over Rs80 Million Allocated To Single Health Initiative
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGlGUW1aVFZYRFc5TU9PZnFaeUJLQ2JOSHhaYk8zSkVBc09BUEZzaVNhRHFLNGJBTEpldEh5ZEN1N3dvWUd0YVRyNEhxYURxdEJZcThsbXpMazNwVE5jSGFLUWRud0dUa09ReEFzN3ljc1gtdzZJV2VHVGltQjVSTzJadE9kOGExUUpnRWlUVHA5QXowQ0dB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGlGUW1aVFZYRFc5TU9PZnFaeUJLQ2JOSHhaYk8zSkVBc09BUEZzaVNhRHFLNGJBTEpldEh5ZEN1N3dvWUd0YVRyNEhxYURxdEJZcThsbXpMazNwVE5jSGFLUWRud0dUa09ReEFzN3ljc1gtdzZJV2VHVGltQjVSTzJadE9kOGExUUpnRWlUVHA5QXowQ0dB?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: HSA health project funds, Health Services Academy, health funds surrendered, Rs80 million, public health Pakistan | hashtags: #PublicHealth #HSA #HealthcareFunds #PakistanNews #HealthSector
-- Scheduled: Wed 18 Nov, 12:23 PM PKT
-- Caption:
-```
-The Health Services Academy has surrendered over Rs80 million in unutilised funds originally earmarked for a dedicated health project.
-
-The Health Services Academy (HSA) has surrendered more than Rs80 million that had been allocated for a specific health project, according to Dawn. The return of these development funds highlights recurring bureaucratic and project-execution delays within Pakistan's public health administration.
-
-ڈان کی رپورٹ کے مطابق ہیلتھ سروسز اکیڈمی نے ایک مخصوص ہیلتھ منصوبے کے لیے مختص 8 کروڑ روپے سے زائد کے فنڈز حکومت کو واپس کر دیے ہیں۔ ترقیاتی فنڈز کا استعمال نہ ہونا صحت کے شعبے میں انتظامی رکاوٹوں کی نشاندہی کرتا ہے۔
-
-First reported by Dawn
-
-#PublicHealth #HSA #HealthcareFunds #PakistanNews #HealthSector
+#RahimYarKhan #PunjabPolice #CrimeNews #PakistanNews
 ```
 
 - Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
+- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -299,10 +273,10 @@ First reported by Dawn
 - [needs_review] normal | Fears Grow That Toxic Lagoon Fire Caused Cancer | Wed 18 Nov, 05:35 AM PKT
 - [needs_review] normal | Thomas Markle Charged Over Child Abuse Material | Wed 18 Nov, 05:45 AM PKT
 - [published] normal | Forensic Experts Claim Jeffrey Epstein Was Strangled | Wed 18 Nov, 05:55 AM PKT
-- [queued] normal | Board of Peace warns Gaza ceasefire faces imminent collapse without ac | Wed 18 Nov, 06:51 AM PKT
-- [queued] normal | Zimbabwe edge Afghanistan in thriller | Wed 18 Nov, 07:01 AM PKT
-- [queued] normal | Why China’s Shenzhen was chosen for APEC summit | Wed 18 Nov, 07:11 AM PKT
-- [queued] normal | Kuwait intercepts hostile drone attacks as regional tensions persist | Wed 18 Nov, 07:21 AM PKT
+- [needs_review] normal | Board of Peace warns Gaza ceasefire faces imminent collapse without ac | Wed 18 Nov, 06:51 AM PKT
+- [needs_review] normal | Zimbabwe edge Afghanistan in thriller | Wed 18 Nov, 07:01 AM PKT
+- [needs_review] normal | Why China’s Shenzhen was chosen for APEC summit | Wed 18 Nov, 07:11 AM PKT
+- [published] normal | Kuwait intercepts hostile drone attacks as regional tensions persist | Wed 18 Nov, 07:21 AM PKT
 - [queued] normal | Jeff Bezos Says He Was Heavily Involved in Casting Robert Pattinson as | Wed 18 Nov, 07:48 AM PKT
 - [queued] normal | Hundreds Protest Outside Oxford University as Jason Arday's Accuser Sp | Wed 18 Nov, 07:58 AM PKT
 - [queued] normal | Ecuadorian Fishermen Sue Trump Administration Over Alleged Drone Strik | Wed 18 Nov, 08:08 AM PKT
@@ -323,10 +297,14 @@ First reported by Dawn
 - [queued] normal | Iran Army Claims Targeting US Military Equipment At Kuwait Base | Wed 18 Nov, 12:03 PM PKT
 - [queued] normal | Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump | Wed 18 Nov, 12:13 PM PKT
 - [queued] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
+- [queued] normal | Democrat Mary Peltola flips Alaska Senate seat, clinching 56-44 majori | Wed 18 Nov, 01:17 PM PKT
+- [queued] normal | Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run | Wed 18 Nov, 01:27 PM PKT
+- [queued] normal | Rahim Yar Khan man arrested after fake suicide drama killed rescue div | Wed 18 Nov, 01:37 PM PKT
 
 ## Publishing this run
-- Published 'Forensic Experts Claim Jeffrey Epstein Was Strangled'.
+- Published 'Kuwait intercepts hostile drone attacks as regional tensions persist'.
 
 ## Gemini usage
-- Calls: 1 | prompt tokens: 5047 | output tokens: 2230
-- Errors: 0
+- Calls: 2 | prompt tokens: 6242 | output tokens: 3811
+- Errors: 1
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

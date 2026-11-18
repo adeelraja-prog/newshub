@@ -60494,7 +60494,675 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7fd6b2abcebc6f95a83d63fe",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T06:14:35+00:00",
+      "last_update": "2026-11-18T07:30:48+00:00",
+      "event": "Democrat Peltola wins in Alaska, securing 56-44 US Senate majority",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alaska",
+        "democrat",
+        "majority",
+        "peltola",
+        "securing",
+        "senate",
+        "wins"
+      ],
+      "source_excerpt": "Democrat Peltola wins in Alaska, securing 56-44 US Senate majority",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/democrat-peltola-wins-in-alaska-securing-56-44-us-senate-majority",
+          "published_at": "2026-11-18T06:14:35+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nckx5RlNETjRLdDFITGl6UTVzRWgwekx3Y0VFZXdrTEVoWjJoU2xSbFkzeWxkb3VpSzd6aDk5QVIzQ2d0Ukh1aWhOTFhfYTM3eFR5OXZnb0FsNXM?oc=5",
+          "published_at": "2026-11-18T07:00:25+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNUhyaFJtWHdHaFVENlpidmN2RHF0VllkYXlZb1Azdk8wWFZjTmZhd3RYSDQ1SHZXMXU1TU00cnZKcnFNQ1VIbUp2UjBPV1ZFN2NzVlMtam5IaE5FY2k1djEwYVZRdjEwZklWZTNoT0pWZy03UHAtampaMUtONE1UUDJ0dFByN1RnRUVEVmRNTXVNM08zWVVBSXNLSEZnTFUxMENCa19xcw?oc=5",
+          "published_at": "2026-11-18T07:30:48+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045392/democrat-mary-peltola-wins-in-alaska-securing-56-44-us-senate-majority",
+          "published_at": "2026-11-18T07:30:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/democrat-peltola-wins-in-alaska-securing-56-44-us-senate-majority",
+        "publisher_url": "https://arynews.tv/democrat-peltola-wins-in-alaska-securing-56-44-us-senate-majority",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5359f4ca606d2f91845c7336",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T07:22:29+00:00",
+      "last_update": "2026-11-18T07:56:00+00:00",
+      "event": "Pakistan struggle against Sri Lanka despite extending lead in second Test",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "afp",
+        "after",
+        "against",
+        "and",
+        "back",
+        "between",
+        "continued",
+        "cricket",
+        "day",
+        "despite",
+        "dismissal",
+        "during",
+        "extending",
+        "his",
+        "lanka",
+        "lankan",
+        "lead",
+        "match",
+        "november",
+        "pacers",
+        "pakistan",
+        "pavilion",
+        "rawalpindi",
+        "saud",
+        "second",
+        "shakeel",
+        "sri",
+        "stadium",
+        "struggle",
+        "test",
+        "the",
+        "trouble",
+        "walks"
+      ],
+      "source_excerpt": "Saud Shakeel walks back to the pavilion after his dismissal during the second day of the second test cricket match between Pakistan and Sri Lanka at the Rawalpindi Cricket Stadium in Rawalpindi on November 18, 2026. — AFP Sri Lankan pacers continued to trouble Pakistan's...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691605-pakistan-struggle-against-sri-lanka-despite-extending-lead-in-second-test",
+          "published_at": "2026-11-18T07:22:29+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0s5Q2dTa1pOR2hkS2d0bG5sazdkWkJNT2NLWHU2bUdHNTRQZEVHdGRESHpBQ3RaMnhSWHl4b29hal9oWGE4R2dQREpxcGdrUGV1U1ZzYXV5aWNINnJJQWhuanRaRmhtbm5sQUZlVHliYW5udG43Zm9PMW5ocTdaNlpwbFA4RXVPVVBpU3p0aGp6WlQ0NGs4RzQyc3ZYZGttbC10eUtVZXJtQQ?oc=5",
+          "published_at": "2026-11-18T07:22:29+00:00"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGFnSGRwRVhCZEVCeklRVU0wQWxRMjl2T2FnZ1BNYnNIUjFRSVpJM3gyNG16S2FJRnFOMXI1N21nNVgzQmt3Nk5WV3Q2cmVxbE5wRENLZVhZc1IzR040SmZJdmlsSzN0ek9IMU10WEN1NXd6Vm5wZnFtaFNDWTFPeFBpUHZKaTQ4cXlQUU9tcE5DX3M?oc=5",
+          "published_at": "2026-11-18T07:56:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691605-pakistan-struggle-against-sri-lanka-despite-extending-lead-in-second-test",
+        "publisher_url": "https://www.geo.tv/latest/691605-pakistan-struggle-against-sri-lanka-despite-extending-lead-in-second-test",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "96c363d0d73ddf072ca8ffa4",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T01:11:02+00:00",
+      "last_update": "2026-11-18T06:41:24+00:00",
+      "event": "رحیم یارخان، خودکشی کا ڈراما رچانے والا ملزم گرفتار",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "بیان",
+        "خودکشی",
+        "رحیم",
+        "روز",
+        "رچانے",
+        "ریاض",
+        "قبل",
+        "مطابق",
+        "مقروض",
+        "ملزم",
+        "میں",
+        "نعمان",
+        "نےویڈیو",
+        "والا",
+        "والے",
+        "ڈراما",
+        "کرلیا",
+        "گرفتار",
+        "گیا۔ڈی",
+        "یارخان",
+        "یارخان،"
+      ],
+      "source_excerpt": "رحیم یارخان میں 42 روز قبل خودکشی کا ڈراما رچانے والے ملزم نعمان ریاض کو گرفتار کرلیا گیا۔ڈی پی او کے مطابق مقروض ملزم نےویڈیو بیان...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1634540",
+          "published_at": "2026-11-18T01:11:02+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5014112",
+          "published_at": "2026-11-18T06:41:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1634540",
+        "publisher_url": "https://jang.com.pk/news/1634540",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e2add9fd4dc8472495fd1f62",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T03:07:58+00:00",
+      "last_update": "2026-11-18T07:20:31+00:00",
+      "event": "Apple works to restore services after outage caused by internal update",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adding",
+        "affected",
+        "after",
+        "and",
+        "apple",
+        "back",
+        "caused",
+        "customer",
+        "cyberattack",
+        "get",
+        "icloud",
+        "including",
+        "internal",
+        "issue",
+        "its",
+        "many",
+        "not",
+        "outage",
+        "pay",
+        "restore",
+        "running",
+        "said",
+        "services",
+        "systems",
+        "that",
+        "the",
+        "tuesday",
+        "update",
+        "was",
+        "were",
+        "working",
+        "works"
+      ],
+      "source_excerpt": "Apple said on Tuesday it was working to restore its systems after an internal update caused an outage that affected customer services including iCloud and Apple Pay. The issue was not caused by a cyberattack, Apple said, adding that many of the systems were back up and running. “We’re working to get",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045368/apple-works-to-restore-services-after-outage-caused-by-internal-update",
+          "published_at": "2026-11-18T03:07:58+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR3lteUxXa2N5VFpxdnY4eC1jRXVCVU9hX0ZxZDNMR0lWc2RTbC1BZUhhdHFfVkNySEtDZ190cmpkbDRVUTdRQ1VNWUg5TURhLWRZRmdWcmY0bFZja00yOGxBaDFMYllSQ1RfV2lsWnN0eXp3b1RvaVJJUWNTYmlfLUkwY1d6WVFmd0FiUk1KaW1YX0lwRFloVDdYZlVBT1pX?oc=5",
+          "published_at": "2026-11-18T07:20:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045368/apple-works-to-restore-services-after-outage-caused-by-internal-update",
+        "publisher_url": "https://www.dawn.com/news/2045368/apple-works-to-restore-services-after-outage-caused-by-internal-update",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "abb8cbac30ff4d7d3981d823",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T04:41:43+00:00",
+      "last_update": "2026-11-18T07:22:15+00:00",
+      "event": "New online system for exporters’ pending tax refund claims to become operational by December",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045289",
+        "become",
+        "claims",
+        "com",
+        "dawn",
+        "december",
+        "exporters",
+        "for",
+        "https",
+        "new",
+        "news",
+        "online",
+        "operational",
+        "pending",
+        "refund",
+        "system",
+        "tax",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045289",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045377/new-online-system-for-exporters-pending-tax-refund-claims-to-become-operational-by-december",
+          "published_at": "2026-11-18T04:41:43+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVBSQmNDNGhDdldEZnc3MjBQY0Ewa0g1bzZpZVRHS3hhNkJ0eXZBdDRwWHFsN3NnMElQWlFONW96amQyT01fSFhzSFZRUF9UNGRTSUhyTk9xYUQyeWs4MXRuMWc1ZkRtMUtHYU14MFExbUVQRmkwN2prY0hDOFJ1cXgwQ2k0cHR5VEV6VkFydWFBaThpNmI2YTBZWjBzZV9yNGNHUm9xa00wWHEzdGNUOA?oc=5",
+          "published_at": "2026-11-18T07:22:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045377/new-online-system-for-exporters-pending-tax-refund-claims-to-become-operational-by-december",
+        "publisher_url": "https://www.dawn.com/news/2045377/new-online-system-for-exporters-pending-tax-refund-claims-to-become-operational-by-december",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "346d06b1dd1fd0ffa59a83d3",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T08:09:23+00:00",
+      "last_update": "2026-11-18T08:09:23+00:00",
+      "event": "Sri Lankan bowlers trigger Pakistan collapse in second Test",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bowlers",
+        "collapse",
+        "dawn",
+        "lankan",
+        "pakistan",
+        "second",
+        "sri",
+        "test",
+        "trigger"
+      ],
+      "source_excerpt": "Sri Lankan bowlers trigger Pakistan collapse in second Test Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRURiZVNCaVcxYzY2QjQ2U2dpa0hqY0cyT3BENTJ5R0VjSEhONHhVdWlFM3NCRDJPOVgzWEtNNHJsLUpCZUtHc2RoRUotSV9ucV91dTRuNzBsTEg2N2paMFk1ZmlUQS01MHNDMFVFQ2IzS1IxcE9YM2FPa1NjUV92V1c0cWlNUktmTEp6V0pZOU96QlR5bDBfVA?oc=5",
+          "published_at": "2026-11-18T08:09:23+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045398/sri-lankan-bowlers-trigger-pakistan-collapse-in-second-test",
+          "published_at": "2026-11-18T08:09:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRURiZVNCaVcxYzY2QjQ2U2dpa0hqY0cyT3BENTJ5R0VjSEhONHhVdWlFM3NCRDJPOVgzWEtNNHJsLUpCZUtHc2RoRUotSV9ucV91dTRuNzBsTEg2N2paMFk1ZmlUQS01MHNDMFVFQ2IzS1IxcE9YM2FPa1NjUV92V1c0cWlNUktmTEp6V0pZOU96QlR5bDBfVA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1f70792c3223b0d8382a06b2",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T07:50:47+00:00",
+      "last_update": "2026-11-18T07:50:47+00:00",
+      "event": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apec",
+        "are",
+        "china",
+        "decline",
+        "europe",
+        "former",
+        "hegemons",
+        "humiliating",
+        "lead",
+        "midst",
+        "multipolar",
+        "powers",
+        "push",
+        "putin",
+        "russia",
+        "says",
+        "should",
+        "summit",
+        "tells",
+        "the",
+        "western",
+        "with",
+        "world"
+      ],
+      "source_excerpt": "Putin says Western powers are 'former hegemons', with Europe in the midst of a 'humiliating decline'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+          "published_at": "2026-11-18T07:50:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "670b831511caa7c32dc4a1ac",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T07:09:22+00:00",
+      "last_update": "2026-11-18T07:09:22+00:00",
+      "event": "Hungry, unpaid and afraid: Africa’s journalists pushed to the brink",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afraid",
+        "africa",
+        "and",
+        "brink",
+        "exploitation",
+        "hungry",
+        "independent",
+        "journalists",
+        "know",
+        "public",
+        "pushed",
+        "reporting",
+        "right",
+        "the",
+        "undermining",
+        "unpaid"
+      ],
+      "source_excerpt": "The exploitation of journalists is undermining independent reporting and the public’s right to know.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss",
+          "published_at": "2026-11-18T07:09:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "43c6cd827b5af883a094f456",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T07:40:54+00:00",
+      "last_update": "2026-11-18T07:40:54+00:00",
+      "event": "Higher petrol and diesel prices push UK inflation to 3.6%",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "also",
+        "and",
+        "are",
+        "climbing",
+        "cost",
+        "diesel",
+        "economy",
+        "factories",
+        "goods",
+        "higher",
+        "impacting",
+        "inflation",
+        "leaving",
+        "materials",
+        "petrol",
+        "prices",
+        "push",
+        "raw",
+        "signs",
+        "the",
+        "there",
+        "wider",
+        "with"
+      ],
+      "source_excerpt": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T07:40:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9b3be6c4e9bb175b09a18b0f",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T07:00:25+00:00",
+      "last_update": "2026-11-18T07:00:25+00:00",
+      "event": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "alaska",
+        "began",
+        "caps",
+        "confirmation",
+        "counting",
+        "democrats",
+        "election",
+        "mary",
+        "midterms",
+        "party",
+        "peltola",
+        "race",
+        "republicans",
+        "rout",
+        "senate",
+        "the",
+        "two",
+        "victory",
+        "weeks",
+        "win"
+      ],
+      "source_excerpt": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T07:00:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "44e6c3699eb1ac60f533d059",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T07:59:54+00:00",
+      "last_update": "2026-11-18T07:59:54+00:00",
+      "event": "Harry Styles, Sam Fender and Billie Eilish to headline Glastonbury 2027",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "and",
+        "bbc",
+        "billie",
+        "eilish",
+        "fender",
+        "glastonbury",
+        "harry",
+        "headline",
+        "sam",
+        "styles"
+      ],
+      "source_excerpt": "Harry Styles, Sam Fender and Billie Eilish to headline Glastonbury 2027 BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KUVNSRzV4YnJPeG5XbllYWWpNcS1saUJLMFpGdERnSk5RUkl2UjJHTFFoazVFX21MakFxSnFCaEdQSVZxb21FYlBYNWpfdjZRb29Jd3ZxazdNOTA?oc=5",
+          "published_at": "2026-11-18T07:59:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KUVNSRzV4YnJPeG5XbllYWWpNcS1saUJLMFpGdERnSk5RUkl2UjJHTFFoazVFX21MakFxSnFCaEdQSVZxb21FYlBYNWpfdjZRb29Jd3ZxazdNOTA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ab94eeca4cdc11a8e76cb54e",
+      "remembered_at": "2026-11-18T08:17:18.588864+00:00",
+      "event_date": "2026-11-18T07:33:17+00:00",
+      "last_update": "2026-11-18T07:33:17+00:00",
+      "event": "China's Xi calls for greater international cooperation on AI",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "calls",
+        "china",
+        "cooperation",
+        "for",
+        "greater",
+        "international"
+      ],
+      "source_excerpt": "China's Xi calls for greater international cooperation on AI ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLZ0FvTzVPek14aW9CQzQ1ZHRjYWdGWlU4X08zajlBcEJ5Ti1Xc2RxUXRJcHREY0YwbWJmdUp5blgzeXNDQUxuaWZ1aHM4aC1oVnZNY1ZIX0JkMGtLY0d6cWNGR3ZRWDdJT3ZTY1U2MEt5Mlo4SzVLdjhoQQ?oc=5",
+          "published_at": "2026-11-18T07:33:17+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/chinas-xi-calls-greater-international-cooperation-ai",
+          "published_at": "2026-11-18T07:33:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLZ0FvTzVPek14aW9CQzQ1ZHRjYWdGWlU4X08zajlBcEJ5Ti1Xc2RxUXRJcHREY0YwbWJmdUp5blgzeXNDQUxuaWZ1aHM4aC1oVnZNY1ZIX0JkMGtLY0d6cWNGR3ZRWDdJT3ZTY1U2MEt5Mlo4SzVLdjhoQQ?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T06:53:16.950826+00:00"
+  "updated_at": "2026-11-18T08:17:18.588864+00:00"
 }
