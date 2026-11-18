@@ -1,153 +1,150 @@
-# News Hub report - Wed 18 Nov, 06:51 AM PKT
+# News Hub report - Wed 18 Nov, 07:48 AM PKT
 
 ## Collection
-- New items this run: 94 | items in rolling pool: 351
-- Unique story clusters: 309 (duplicates merged: 42)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 3
-- Items per outlet: Dawn 64, Al Jazeera 6, The Express Tribune 3, The Guardian 3, Geo News 2, AP News 2, Engadget 2, Jang Urdu 1, WRAL 1, Bloomberg.com 1, TechCrunch 1, Ars Technica 1
+- New items this run: 17 | items in rolling pool: 315
+- Unique story clusters: 282 (duplicates merged: 33)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 3
+- Items per outlet: Investify 4, Al Jazeera 3, The Express Tribune 2, Profit by Pakistan Today 2, Dawn 1, Dawn Pakistan 1, X 1, The Hill 1, BBC Business 1, NBC News 1, Geo News 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Board of Peace warns Gaza ceasefire faces imminent collapse without action | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Zimbabwe edge Afghanistan in thriller | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why China’s Shenzhen was chosen for APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Kuwait says intercepting ‘hostile’ drone attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Europe plans to catch the next computer chip wave | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Protests as Jason Arday’s accuser speaks at Oxford University | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ecuadorian fishermen sue Trump administration over drone strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- DR Congo’s rival peace efforts fail to halt violence in the east | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Voy at-home test kit adverts banned over low testosterone claims | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Board of Peace warns Gaza ceasefire faces imminent collapse without action | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Zimbabwe edge Afghanistan in thriller | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why China’s Shenzhen was chosen for APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Kuwait says intercepting ‘hostile’ drone attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Europe plans to catch the next computer chip wave | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Protests as Jason Arday’s accuser speaks at Oxford University | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ecuadorian fishermen sue Trump administration over drone strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- DR Congo’s rival peace efforts fail to halt violence in the east | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Voy at-home test kit adverts banned over low testosterone claims | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Board of Peace warns Gaza ceasefire faces imminent collapse without action | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Zimbabwe edge Afghanistan in thriller | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why China’s Shenzhen was chosen for APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Kuwait says intercepting ‘hostile’ drone attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Europe plans to catch the next computer chip wave | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Protests as Jason Arday’s accuser speaks at Oxford University | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ecuadorian fishermen sue Trump administration over drone strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- DR Congo’s rival peace efforts fail to halt violence in the east | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Voy at-home test kit adverts banned over low testosterone claims | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 102/107 | empty: 4 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Board of Peace warns Gaza ceasefire faces imminent collapse without action  [NORMAL]
-- Poster: غزہ میں جنگ بندی کا معاہدہ خطرے میں، فوری اقدام کی وارننگ / Gaza ceasefire faces collapse | category world
-- Alternative headline: US-led board decries Gaza fighting and delays in 2025 ceasefire implementation
+### Jeff Bezos Says He Was Heavily Involved in Casting Robert Pattinson as New James Bond  [NORMAL]
+- Poster: جیف بیزوس کا انکشاف، انہوں نے رابرٹ پیٹنسن کو نیا جیمز بانڈ چننے میں اہم کردار ادا کیا / Jeff Bezos Reveals Role in Casting Robert Pattinson as New 007 | category other
+- Alternative headline: Amazon CEO Jeff Bezos Reveals Role in Picking Robert Pattinson as 007
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss
-- Supporting coverage: Bozeman Daily Chronicle, Boston Herald, Al Jazeera
-- Keywords: Gaza ceasefire, Board of Peace, Gaza conflict, ceasefire collapse, US-led board | hashtags: #Gaza #Ceasefire #BoardOfPeace #MiddleEast
-- Scheduled: Wed 18 Nov, 06:51 AM PKT
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: The Verge, BBC Business
+- Keywords: Robert Pattinson, Jeff Bezos, James Bond, 007, Amazon, Daniel Craig | hashtags: #RobertPattinson #JamesBond #JeffBezos #007 #Amazon
+- Scheduled: Wed 18 Nov, 07:48 AM PKT
 - Caption:
 ```
-The US-led Board of Peace has issued a stark warning that the Gaza ceasefire could collapse completely without immediate action.
+Amazon founder Jeff Bezos revealed he was heavily involved in choosing Robert Pattinson as the next James Bond for the upcoming film.
 
-The US-led Board of Peace has expressed deep concern over ongoing fighting in Gaza and significant delays in implementing the terms of the 2025 ceasefire agreement. The board warns that without urgent intervention, the truce faces an imminent collapse.
+Amazon founder Jeff Bezos stated he was heavily involved in casting Robert Pattinson as the next James Bond. Initially biased due to Pattinson's fame, Bezos changed his mind after screen tests. Pattinson takes over from Daniel Craig as the seventh 007, starring in the 26th movie releasing in 2028.
 
-امریکہ کی سربراہی میں قائم بورڈ آف پیس نے غزہ میں جاری لڑائی اور 2025 کے جنگ بندی معاہدے پر عمل درآمد میں تاخیر پر شدید تشویش کا اظہار کیا ہے۔ بورڈ کا کہنا ہے کہ فوری کارروائی کے بغیر معاہدہ ختم ہو سکتا ہے۔
+ایمیزون کے بانی جیف بیزوس نے انکشاف کیا ہے کہ انہوں نے رابرٹ پیٹنسن کو اگلا جیمز بانڈ بنانے میں اہم کردار ادا کیا۔ ابتدا میں پیٹنسن کی شہرت کی وجہ سے بیزوس کے دل میں ہچکچاہٹ تھی، لیکن سکرین ٹیسٹ کے بعد ان کا نظریہ بدل گیا۔ پیٹنسن ڈینیل کریگ کی جگہ ساتویں جیمز بانڈ ہوں گے، اور وہ 2028 میں ریلیز ہونے والی 26ویں فلم میں نظر آئیں گے۔
 
-First reported by Al Jazeera
+First reported by BBC Business
 
-#Gaza #Ceasefire #BoardOfPeace #MiddleEast
+#RobertPattinson #JamesBond #JeffBezos #007 #Amazon
 ```
 
-### Zimbabwe edge Afghanistan in thriller  [NORMAL]
-- Poster: سنسنی خیز مقابلے کے بعد زمبابوے نے افغانستان کو شکست دے دی / Zimbabwe edge Afghanistan | category sports
-- Alternative headline: Thrilling match sees Zimbabwe defeat Afghanistan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE96dFBISHQ3a253SV92eVJKUXdkeVFFQ0dzMGRYVDhJbFhIai02VGt4N2JwTFdQMGtDcmpQZk1XaHpVX1FFc2ZGX2VpTVY4ODJKQk5Ra2lvckFGVHdONWg0UWVzVURBWlpETzlQbDFybXVROW0xRnF0SkpUSQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE96dFBISHQ3a253SV92eVJKUXdkeVFFQ0dzMGRYVDhJbFhIai02VGt4N2JwTFdQMGtDcmpQZk1XaHpVX1FFc2ZGX2VpTVY4ODJKQk5Ra2lvckFGVHdONWg0UWVzVURBWlpETzlQbDFybXVROW0xRnF0SkpUSQ?oc=5
-- Supporting coverage: Dawn
-- Keywords: Zimbabwe vs Afghanistan, cricket thriller, Zimbabwe victory, Afghanistan match | hashtags: #ZIMvAFG #Cricket #Zimbabwe #Afghanistan
-- Scheduled: Wed 18 Nov, 07:01 AM PKT
-- Caption:
-```
-In a thrilling encounter, Zimbabwe managed to edge past Afghanistan to secure a victory.
-
-Zimbabwe secured a narrow and thrilling victory against Afghanistan in a closely contested match reported by Dawn, showcasing a competitive battle between the two sides.
-
-ڈان کی رپورٹ کے مطابق، زمبابوے نے ایک انتہائی سنسنی خیز اور کانٹے دار مقابلے میں افغانستان کو شکست دے کر کامیابی حاصل کی۔
-
-First reported by Dawn
-
-#ZIMvAFG #Cricket #Zimbabwe #Afghanistan
-```
-
-### Why China’s Shenzhen was chosen for APEC summit  [NORMAL]
-- Poster: چین کے شہر شেনজেন کو اے پیک سربراہی اجلاس کے لیے کیوں چنا گیا؟ / Why Shenzhen for APEC? | category world
-- Alternative headline: Al Jazeera explains the significance of Shenzhen hosting the APEC summit
+### Hundreds Protest Outside Oxford University as Jason Arday's Accuser Speaks  [NORMAL]
+- Poster: آکسفورڈ یونیورسٹی کے باہر احتجاج، جیسن آرڈے پر الزام عائد کرنے والے نے خطاب کیا / Protests at Oxford University as Jason Arday's Accuser Speaks | category other
+- Alternative headline: Protests Erupt at Oxford University During Event Featuring Nathan Cofnas
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Shenzhen APEC summit, China APEC, Katrina Yu, Shenzhen chosen | hashtags: #APEC #Shenzhen #China #AlJazeera
-- Scheduled: Wed 18 Nov, 07:11 AM PKT
+- Keywords: Oxford University, Jason Arday, Nathan Cofnas, Protests, Plagiarism | hashtags: #OxfordUniversity #JasonArday #Protests #AlJazeera
+- Scheduled: Wed 18 Nov, 07:58 AM PKT
 - Caption:
 ```
-Al Jazeera’s Katrina Yu breaks down the strategic reasons behind choosing China’s Shenzhen for the APEC summit.
+Hundreds of demonstrators gathered outside Oxford University to protest as Nathan Cofnas, who accused Jason Arday of plagiarism, spoke at an event.
 
-Al Jazeera explains the key reasons why China's technology hub Shenzhen was selected to host the APEC summit, providing context on its economic and geopolitical significance.
+Hundreds of protesters gathered outside Oxford University as Nathan Cofnas, the individual who accused Jason Arday of plagiarism, spoke at a university event, drawing significant public demonstration and attention.
 
-الجزیرہ نے اس بات کی وضاحت کی ہے کہ چین کے شہر شেনজেন کو اے پیک سربراہی اجلاس کی میزبانی کے لیے کیوں منتخب کیا گیا، جس کی اقتصادی اور سیاسی اہمیت بہت زیادہ ہے۔
+آکسفورڈ یونیورسٹی کے باہر سینکڑوں افراد نے احتجاج کیا کیونکہ جیسن آرڈے پر پلاگزم کا الزام لگانے والے ناتھن کوفناس نے ایک تقریب سے خطاب کیا۔ اس واقعے پر یونیورسٹی کے باہر شدید احتجاج دیکھا گیا۔
 
 First reported by Al Jazeera
 
-#APEC #Shenzhen #China #AlJazeera
+#OxfordUniversity #JasonArday #Protests #AlJazeera
 ```
 
-### Kuwait intercepts hostile drone attacks as regional tensions persist  [NORMAL]
-- Poster: کویت کا مشتبہ ڈرون حملے ناکام بنانے کا دعویٰ، بحرین میں الرٹ ختم / Kuwait intercepts drones | category war
-- Alternative headline: Iran war live: Kuwait intercepts drone attacks while Bahrain issues all-clear alert
+### Ecuadorian Fishermen Sue Trump Administration Over Alleged Drone Strike  [NORMAL]
+- Poster: ایکواڈور کے ماہی گیروں کا ڈرون حملے کے خلاف ٹرمپ انتظامیہ پر مقدمہ / Ecuadorian Fishermen Sue Trump Administration Over Drone Strike | category other
+- Alternative headline: Crew Sues US Government Claiming Drone Attack on Their Boat Was Unlawful
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Kuwait drone attacks, Iran war, Bahrain alert, drone interception, Gulf security | hashtags: #Kuwait #Bahrain #DroneAttack #MiddleEast
-- Scheduled: Wed 18 Nov, 07:21 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Ecuadorian fishermen, Trump administration, Drone strike, Lawsuit, US military | hashtags: #Ecuador #TrumpAdministration #DroneStrike #Lawsuit
+- Scheduled: Wed 18 Nov, 08:08 AM PKT
 - Caption:
 ```
-Kuwait has reported intercepting hostile drone attacks while neighbouring Bahrain issued an all-clear alert indicating danger has passed.
+Ecuadorian fishermen have filed a lawsuit against the Trump administration, alleging their boat was attacked by drones in a manifestly unlawful campaign.
 
-Kuwait is actively intercepting hostile drone attacks amid ongoing regional conflicts, while Bahrain has issued an all-clear alert stating that the immediate danger has passed.
+Ecuadorian fishermen have sued the Trump administration after their boat was allegedly attacked by drones launched from a US-operated vessel. The crew claims the military action was part of a manifestly unlawful campaign.
 
-کویت نے کشیدہ صورتحال کے دوران دشمن کے ڈرون حملوں کو روکنے کا اعلان کیا ہے، جبکہ بحرین نے آل کلیئر الرٹ جاری کرتے ہوئے کہا ہے کہ خطرہ ٹل چکا ہے۔
+ایکواڈور کے ماہی گیروں نے ٹرمپ انتظامیہ کے خلاف مقدمہ دائر کر دیا ہے، جن کا کہنا ہے کہ ان کی کشتی پر امریکی زیرِ انتظام جہاز سے چھوڑے گئے ڈرون سے حملہ کیا گیا۔ عملے کا دعویٰ ہے کہ یہ کارروائی غیر قانونی مہم کا حصہ تھی۔
 
 First reported by Al Jazeera
 
-#Kuwait #Bahrain #DroneAttack #MiddleEast
+#Ecuador #TrumpAdministration #DroneStrike #Lawsuit
 ```
 
-- Indian outlets blocked this run: 4 items
+### Rival Peace Efforts Fail to Halt Ongoing Violence in Eastern DR Congo  [NORMAL]
+- Poster: مشرقی کانگو میں امن کی کوششیں ناکام، پرتشدد جھگڑے جاری / Rival Peace Efforts Fail to Halt Violence in Eastern DR Congo | category other
+- Alternative headline: Diplomatic Efforts Struggle as Fighting Persists in Eastern DRC
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: DR Congo, Peace efforts, Violence, Eastern DRC, Conflict | hashtags: #DRCongo #PeaceEfforts #Conflict #AlJazeera
+- Scheduled: Wed 18 Nov, 08:18 AM PKT
+- Caption:
+```
+Diplomatic efforts and rival peace initiatives have struggled to end the ongoing fighting in eastern DR Congo as civilians continue to bear the cost.
+
+Rival diplomatic peace efforts in the Democratic Republic of Congo have failed to halt the ongoing violence in the country's eastern region, leaving local civilians to continuously bear the heavy costs of the persistent conflict.
+
+کانگو میں امن کی مسابقتی سفارتی کوششیں ملک کے مشرقی حصے میں جاری تشدد کو روکنے میں ناکام رہی ہیں، جس کی وجہ سے عام شہریوں کو مسلسل تنازعات کا خمیازہ بھگتنا پڑ رہا ہے۔
+
+First reported by Al Jazeera
+
+#DRCongo #PeaceEfforts #Conflict #AlJazeera
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
-- [needs_review] normal | Italy Fines Meta $887M Over Unauthorized Android Data Access | Sun 15 Nov, 01:00 AM PKT
-- [needs_review] normal | Israeli Drone Strike Kills Two Palestinians in Northern Gaza | Sun 15 Nov, 01:32 AM PKT
 - [needs_review] normal | Ex-Nvidia CEO Jensen Huang Misled Leaders Over Affair | Sun 15 Nov, 01:42 AM PKT
 - [needs_review] normal | SpaceX Successfully Catches Starship Rocket Part With Mechanical Arms | Sun 15 Nov, 03:22 AM PKT
 - [needs_review] normal | Elon Musk and 115,000 Others Sign Petition to Reinstate Ousted Nvidia  | Sun 15 Nov, 03:58 AM PKT
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
 - [needs_review] normal | Top US Official Marco Rubio Behind Nvidia CEO Jensen Huang’s Exit | Sun 15 Nov, 07:01 AM PKT
-- [published] high | Supreme Court Rules Inheritance Rights Never Lapse Just With Time | Sun 15 Nov, 07:39 AM PKT
 - [published] breaking | Pakistan's domestic gas output halves in a decade, forcing mealtime cu | Sun 15 Nov, 09:26 AM PKT
 - [published] breaking | Saudi-led coalition intercepts ballistic missiles and drones over Riya | Sun 15 Nov, 10:21 AM PKT
 - [published] high | Gold prices in Pakistan drop by Rs. 700, extending three-day loss | Sun 15 Nov, 10:21 AM PKT
@@ -287,10 +284,10 @@ First reported by Al Jazeera
 - [published] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
 - [published] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
 - [published] normal | UK sanctions Israeli firms building West Bank settlements | Wed 18 Nov, 12:57 AM PKT
-- [queued] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
-- [queued] normal | Trump warns Iran over reported dirty bomb threat in Washington | Wed 18 Nov, 01:17 AM PKT
-- [queued] normal | Prince William and Kate Celebrate Earthshot Prize Winners in Mumbai | Wed 18 Nov, 01:38 AM PKT
-- [queued] normal | GTA VI Dominates Game Awards 2026 With Eight Major Nominations | Wed 18 Nov, 01:48 AM PKT
+- [needs_review] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
+- [needs_review] normal | Trump warns Iran over reported dirty bomb threat in Washington | Wed 18 Nov, 01:17 AM PKT
+- [needs_review] normal | Prince William and Kate Celebrate Earthshot Prize Winners in Mumbai | Wed 18 Nov, 01:38 AM PKT
+- [published] normal | GTA VI Dominates Game Awards 2026 With Eight Major Nominations | Wed 18 Nov, 01:48 AM PKT
 - [queued] normal | Major Apple Outage Halts App Store, iCloud, and Apple Pay Globally | Wed 18 Nov, 01:58 AM PKT
 - [queued] normal | Saudi's Delta Energy Eyes $30 Billion Energy Investment in Pakistan | Wed 18 Nov, 02:08 AM PKT
 - [queued] normal | Russian military plane crashes in Siberia, killing all 19 aboard | Wed 18 Nov, 02:34 AM PKT
@@ -313,18 +310,19 @@ First reported by Al Jazeera
 - [queued] normal | Zimbabwe edge Afghanistan in thriller | Wed 18 Nov, 07:01 AM PKT
 - [queued] normal | Why China’s Shenzhen was chosen for APEC summit | Wed 18 Nov, 07:11 AM PKT
 - [queued] normal | Kuwait intercepts hostile drone attacks as regional tensions persist | Wed 18 Nov, 07:21 AM PKT
+- [queued] normal | Jeff Bezos Says He Was Heavily Involved in Casting Robert Pattinson as | Wed 18 Nov, 07:48 AM PKT
+- [queued] normal | Hundreds Protest Outside Oxford University as Jason Arday's Accuser Sp | Wed 18 Nov, 07:58 AM PKT
+- [queued] normal | Ecuadorian Fishermen Sue Trump Administration Over Alleged Drone Strik | Wed 18 Nov, 08:08 AM PKT
+- [queued] normal | Rival Peace Efforts Fail to Halt Ongoing Violence in Eastern DR Congo | Wed 18 Nov, 08:18 AM PKT
 
 ## Publishing this run
-- Published 'UK sanctions Israeli firms building West Bank settlements'.
+- Published 'GTA VI Dominates Game Awards 2026 With Eight Major Nominations'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4673 | output tokens: 1892
+- Calls: 3 | prompt tokens: 3802 | output tokens: 2410
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

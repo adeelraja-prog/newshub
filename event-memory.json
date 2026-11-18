@@ -57563,7 +57563,207 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aeef81389d56da3bf3fcd5fc",
+      "remembered_at": "2026-11-18T02:48:07.396378+00:00",
+      "event_date": "2026-11-17T22:38:41+00:00",
+      "last_update": "2026-11-18T02:40:45+00:00",
+      "event": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "007",
+        "against",
+        "already",
+        "amazon",
+        "because",
+        "bezos",
+        "biased",
+        "casting",
+        "ceo",
+        "famous",
+        "heavily",
+        "involved",
+        "jeff",
+        "new",
+        "originally",
+        "pattinson",
+        "robert",
+        "said",
+        "says",
+        "the",
+        "was"
+      ],
+      "source_excerpt": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+          "published_at": "2026-11-17T22:38:41+00:00"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T02:40:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e47d803f8ae84c27fd5d0e69",
+      "remembered_at": "2026-11-18T02:48:07.396378+00:00",
+      "event_date": "2026-11-18T02:32:57+00:00",
+      "last_update": "2026-11-18T02:32:57+00:00",
+      "event": "Hungary on the hunt for a football hero",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "drawing",
+        "football",
+        "for",
+        "has",
+        "hero",
+        "hungary",
+        "hunt",
+        "ireland",
+        "league",
+        "nations",
+        "northern",
+        "promotion",
+        "secured",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
+          "published_at": "2026-11-18T02:32:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e63ebf77ad40267aea619eea",
+      "remembered_at": "2026-11-18T02:48:07.396378+00:00",
+      "event_date": "2026-11-18T02:17:12+00:00",
+      "last_update": "2026-11-18T02:17:12+00:00",
+      "event": "ICE agents shove and pepper-spray pregnant woman",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agents",
+        "american",
+        "and",
+        "despite",
+        "ground",
+        "ice",
+        "pepper",
+        "pregnant",
+        "she",
+        "shove",
+        "shoved",
+        "spray",
+        "sprayed",
+        "telling",
+        "the",
+        "them",
+        "was",
+        "woman"
+      ],
+      "source_excerpt": "An American woman was shoved to the ground and pepper-sprayed by ICE agents despite telling them she was pregnant.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+          "published_at": "2026-11-18T02:17:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ba86579800957a60d41cff1f",
+      "remembered_at": "2026-11-18T02:48:07.396378+00:00",
+      "event_date": "2026-11-18T01:41:15+00:00",
+      "last_update": "2026-11-18T01:41:15+00:00",
+      "event": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airport",
+        "allege",
+        "destroyed",
+        "irish",
+        "jazeera",
+        "man",
+        "military",
+        "plane",
+        "prosecutors"
+      ],
+      "source_excerpt": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFNLRGt3T0F3b3M4ZGxyR0psMVJPVVliYUxLdF9mazRwYXJQOW5wbGR1WXd6SHRDbTY4SjcxVXRFNjRFMnNjVi1ndEl4a016LVoyUTVRdkRONGxTT05kTWxZUjhMSUNmS0FFUDl3Ny1JRVRBRGo3VnA2VWVHTFFYQ2hkX0xuWGJ5ZENXMzlPdTZFUXc4UV9McWozSzM0RGJ0U2Qya2lCQmdZandKQkHSAbMBQVVfeXFMTkJRMUVqaWh5Q2t5LTU0UG0tSkRoWGt0Z1Zya1ZCVmwxSEJfTXRiUjJlNXotOEJxS1l5Y3lBbzNEZXREVHNsUmFMb05LYXZLb1dHNmFEclYyZi1ZRDUwVEFqZllJYWtwQWRwOW42dloxWV9qZFg1U2tSN3YtMEhadHNFcmxDd0NXSllBVlJLODdWTGRJNTRndHZ1MkpOT1dQSlpqMTFkNDJHR0g4NEIzQ0liakk?oc=5",
+          "published_at": "2026-11-18T01:41:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFNLRGt3T0F3b3M4ZGxyR0psMVJPVVliYUxLdF9mazRwYXJQOW5wbGR1WXd6SHRDbTY4SjcxVXRFNjRFMnNjVi1ndEl4a016LVoyUTVRdkRONGxTT05kTWxZUjhMSUNmS0FFUDl3Ny1JRVRBRGo3VnA2VWVHTFFYQ2hkX0xuWGJ5ZENXMzlPdTZFUXc4UV9McWozSzM0RGJ0U2Qya2lCQmdZandKQkHSAbMBQVVfeXFMTkJRMUVqaWh5Q2t5LTU0UG0tSkRoWGt0Z1Zya1ZCVmwxSEJfTXRiUjJlNXotOEJxS1l5Y3lBbzNEZXREVHNsUmFMb05LYXZLb1dHNmFEclYyZi1ZRDUwVEFqZllJYWtwQWRwOW42dloxWV9qZFg1U2tSN3YtMEhadHNFcmxDd0NXSllBVlJLODdWTGRJNTRndHZ1MkpOT1dQSlpqMTFkNDJHR0g4NEIzQ0liakk?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T01:51:47.467298+00:00"
+  "updated_at": "2026-11-18T02:48:07.396378+00:00"
 }
