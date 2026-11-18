@@ -56580,7 +56580,990 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5d742ec7a0527048754bbc71",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-17T19:04:22+00:00",
+      "last_update": "2026-11-18T01:07:01+00:00",
+      "event": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "action",
+        "and",
+        "board",
+        "ceasefire",
+        "collapse",
+        "continued",
+        "deal",
+        "decried",
+        "delays",
+        "faces",
+        "fighting",
+        "gaza",
+        "has",
+        "imminent",
+        "implementing",
+        "led",
+        "peace",
+        "terms",
+        "the",
+        "warns",
+        "without"
+      ],
+      "source_excerpt": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+      "sources": [
+        {
+          "name": "Bozeman Daily Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQX0RrUF9WUXVqSW91TnpyTXJ5UlFhMkpnRmpEUGpyVzU3VllZRnNrY09kVy1YSTNKQkt6d29XRUhnX3YwR2Q1Tk9qMk44enpEa2FpRTJ3eDhkUlBKYnZ0dVBiVS1XZ2dnMnZlSHFmbWJ3Y0FfeU5USlBlX1A2eElrSml2dmwtcWJNSFRtdnVUbVRDNEJBc3YyNWU5SFJkU2JVdFZNUmFyMFRlZTRhRU5nVEgxakpwUHZvWERVcWNBM3FWeTZfbHU3cGdkUGJVWU9xN2R6OTJiOVlqX0VkWi1CUXdYRGR2YUZUTHN0QlJOX2k0Mk90aHJIVTZMbk51RjVHN1otam9mUW51RW9aeWU4SV9pOTNJM2R0cXQzZGdJVFdMck0?oc=5",
+          "published_at": "2026-11-17T19:04:22+00:00"
+        },
+        {
+          "name": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4Y2JPeDE0bzM4VnF1cXNwOVJ4RDFZMkp3c01ueDBPWVlmODYzLXN1bzJJRjB3T2xhYjk2WnBIOTVDTm9zS2NZWkw5bXhJbTZzSGhFU2wxWFM1RWNrRXBoM0xJamFnWGIxcVFmSVh4cU44UjdtMjg0X29n?oc=5",
+          "published_at": "2026-11-17T19:30:53+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+          "published_at": "2026-11-18T01:07:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dac24be9b9b13a124a52acf2",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:36:54+00:00",
+      "last_update": "2026-11-18T00:36:54+00:00",
+      "event": "Zimbabwe edge Afghanistan in thriller",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghanistan",
+        "dawn",
+        "edge",
+        "thriller",
+        "zimbabwe"
+      ],
+      "source_excerpt": "Zimbabwe edge Afghanistan in thriller Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dFBISHQ3a253SV92eVJKUXdkeVFFQ0dzMGRYVDhJbFhIai02VGt4N2JwTFdQMGtDcmpQZk1XaHpVX1FFc2ZGX2VpTVY4ODJKQk5Ra2lvckFGVHdONWg0UWVzVURBWlpETzlQbDFybXVROW0xRnF0SkpUSQ?oc=5",
+          "published_at": "2026-11-18T00:36:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dFBISHQ3a253SV92eVJKUXdkeVFFQ0dzMGRYVDhJbFhIai02VGt4N2JwTFdQMGtDcmpQZk1XaHpVX1FFc2ZGX2VpTVY4ODJKQk5Ra2lvckFGVHdONWg0UWVzVURBWlpETzlQbDFybXVROW0xRnF0SkpUSQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "19da6912e6ffbf3f0c857c07",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T01:28:53+00:00",
+      "last_update": "2026-11-18T01:28:53+00:00",
+      "event": "Protests as Jason Arday’s accuser speaks at Oxford University",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "accuser",
+        "arday",
+        "cofnas",
+        "event",
+        "hundreds",
+        "jason",
+        "nathan",
+        "outside",
+        "oxford",
+        "plagiarism",
+        "protested",
+        "protests",
+        "speaks",
+        "spoke",
+        "university",
+        "who"
+      ],
+      "source_excerpt": "Hundreds protested outside Oxford University as Nathan Cofnas, who accused Jason Arday of plagiarism, spoke at an event.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss",
+          "published_at": "2026-11-18T01:28:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9ac62c5e52cfaaa6b52cd097",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T01:04:43+00:00",
+      "last_update": "2026-11-18T01:04:43+00:00",
+      "event": "Ecuadorian fishermen sue Trump administration over drone strike",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "attacked",
+        "boat",
+        "campaign",
+        "crew",
+        "drone",
+        "drones",
+        "ecuadorian",
+        "fishermen",
+        "from",
+        "launched",
+        "manifestly",
+        "operated",
+        "over",
+        "part",
+        "say",
+        "strike",
+        "sue",
+        "their",
+        "trump",
+        "unlawful",
+        "vessel",
+        "was"
+      ],
+      "source_excerpt": "Crew say their boat was attacked by drones launched from US-operated vessel as part of 'manifestly unlawful' campaign.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
+          "published_at": "2026-11-18T01:04:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0d4dc969ec445870df565deb",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:57:56+00:00",
+      "last_update": "2026-11-18T00:57:56+00:00",
+      "event": "DR Congo’s rival peace efforts fail to halt violence in the east",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bear",
+        "civilians",
+        "conflict",
+        "congo",
+        "continue",
+        "cost",
+        "diplomatic",
+        "drc",
+        "east",
+        "eastern",
+        "efforts",
+        "end",
+        "fail",
+        "fighting",
+        "halt",
+        "peace",
+        "rival",
+        "struggle",
+        "the",
+        "violence"
+      ],
+      "source_excerpt": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
+          "published_at": "2026-11-18T00:57:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5b9e4bb009e25e68ec549a13",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:47:02+00:00",
+      "last_update": "2026-11-18T00:47:02+00:00",
+      "event": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ally",
+        "arab",
+        "backing",
+        "bloc",
+        "eisenkot",
+        "elected",
+        "from",
+        "has",
+        "israel",
+        "kahana",
+        "knesset",
+        "matan",
+        "new",
+        "parliament",
+        "parties",
+        "speaker",
+        "support",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+          "published_at": "2026-11-18T00:47:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f564b48d09318016f6fde9cd",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:33:36+00:00",
+      "last_update": "2026-11-18T00:33:36+00:00",
+      "event": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "amid",
+        "armed",
+        "attend",
+        "commander",
+        "for",
+        "force",
+        "groups",
+        "head",
+        "hezbollah",
+        "iran",
+        "iranian",
+        "iraq",
+        "irgc",
+        "kataib",
+        "linked",
+        "meetings",
+        "oil",
+        "over",
+        "pro",
+        "quds",
+        "smuggling",
+        "talks",
+        "tensions",
+        "top"
+      ],
+      "source_excerpt": "Head of Iran's IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
+          "published_at": "2026-11-18T00:33:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "51d61039c30cde83e37cf230",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T01:11:07+00:00",
+      "last_update": "2026-11-18T01:11:07+00:00",
+      "event": "Voy at-home test kit adverts banned over low testosterone claims",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advertising",
+        "adverts",
+        "authority",
+        "banned",
+        "claims",
+        "healthcare",
+        "home",
+        "kit",
+        "low",
+        "made",
+        "misleading",
+        "online",
+        "over",
+        "provider",
+        "says",
+        "standards",
+        "test",
+        "testosterone",
+        "the",
+        "voy"
+      ],
+      "source_excerpt": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T01:11:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "27a80d5d7b9163d0937a1daf",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:44:48+00:00",
+      "last_update": "2026-11-18T00:44:48+00:00",
+      "event": "Government risks missing climate targets if EV rules weakened, adviser warns",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adviser",
+        "are",
+        "binding",
+        "climate",
+        "could",
+        "cut",
+        "government",
+        "legally",
+        "miss",
+        "missing",
+        "risks",
+        "rules",
+        "targets",
+        "the",
+        "warns",
+        "weakened"
+      ],
+      "source_excerpt": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T00:44:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7ca287bd8798f5b7cfce0c65",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:49:31+00:00",
+      "last_update": "2026-11-18T00:49:31+00:00",
+      "event": "Largest British study to check social media ban's effect on youth mental health",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ban",
+        "bbc",
+        "british",
+        "check",
+        "effect",
+        "health",
+        "largest",
+        "media",
+        "mental",
+        "social",
+        "study",
+        "youth"
+      ],
+      "source_excerpt": "Largest British study to check social media ban's effect on youth mental health BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBYnJ2RWgtV3NFMUlFbXp0d0RvUWVPV2Rqc29rdWpCbVBwS0s1OHN0dlhMamh5ZFBnVTlhZ3pjMHJlcmltbExxd3czbGhqOS1oYmRINjhzbExmTjA?oc=5",
+          "published_at": "2026-11-18T00:49:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBYnJ2RWgtV3NFMUlFbXp0d0RvUWVPV2Rqc29rdWpCbVBwS0s1OHN0dlhMamh5ZFBnVTlhZ3pjMHJlcmltbExxd3czbGhqOS1oYmRINjhzbExmTjA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fc4bd080279cbe3890aab68c",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:35:41+00:00",
+      "last_update": "2026-11-18T00:35:41+00:00",
+      "event": "Karachi loadshedding",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "karachi",
+        "loadshedding"
+      ],
+      "source_excerpt": "Karachi loadshedding Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Wa29wU2ZpWE1UQmpVR2owTU9YLTJSbGVvbzVUalFVV28tQjF3QTBWRmhkVTN4Q1pvUmE1LU9paWlKZTZ2VTVGRnc0M01QMExhSFlvd3hxMEtGc3AyYTd3LTZsSUE?oc=5",
+          "published_at": "2026-11-18T00:35:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Wa29wU2ZpWE1UQmpVR2owTU9YLTJSbGVvbzVUalFVV28tQjF3QTBWRmhkVTN4Q1pvUmE1LU9paWlKZTZ2VTVGRnc0M01QMExhSFlvd3hxMEtGc3AyYTd3LTZsSUE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "469badb43c9eb1fa412c8ec1",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:39:00+00:00",
+      "last_update": "2026-11-18T00:39:00+00:00",
+      "event": "Investment expo opens in Quetta today",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "expo",
+        "investment",
+        "opens",
+        "quetta",
+        "today"
+      ],
+      "source_excerpt": "Investment expo opens in Quetta today Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qZmV0a0F0dzRpcUxyS3VCRmtYV3oxaEZlOHdVRGxGTl9CMEdGM1dvV042R3hteTRFcFRFSjBXVjRsVTFyTXFGUGVQMEVoeWVMMWF1T3FKTXp6X1pFWGRmSUNCY0JMU1dOU1RjSm1vbW1HNXEtSUhRRjM1bw?oc=5",
+          "published_at": "2026-11-18T00:39:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qZmV0a0F0dzRpcUxyS3VCRmtYV3oxaEZlOHdVRGxGTl9CMEdGM1dvV042R3hteTRFcFRFSjBXVjRsVTFyTXFGUGVQMEVoeWVMMWF1T3FKTXp6X1pFWGRmSUNCY0JMU1dOU1RjSm1vbW1HNXEtSUhRRjM1bw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "98111f812cc6910d5e9ed2ca",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:36:54+00:00",
+      "last_update": "2026-11-18T00:36:54+00:00",
+      "event": "Karachi Blues’ fightback as Peshawar Blues, Multan win",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blues",
+        "dawn",
+        "fightback",
+        "karachi",
+        "multan",
+        "peshawar",
+        "win"
+      ],
+      "source_excerpt": "Karachi Blues’ fightback as Peshawar Blues, Multan win Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT0NuQng0bXVQSnJDOWlnX01oRXVNQk96UENZYnN0ek1nTHJQX2hzcWQ5UlhHRG43cDJieUtxb2pLZG1uZ0ZIUzgtV1UySmFLNElQVm9IZ0FMd3RiTmR0RHdEdVBuSGt6UElGMWZOaGxWU0t5dktGcnpPYlF0MFdEWjJjUmRoRG45WTlUdVFCNA?oc=5",
+          "published_at": "2026-11-18T00:36:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT0NuQng0bXVQSnJDOWlnX01oRXVNQk96UENZYnN0ek1nTHJQX2hzcWQ5UlhHRG43cDJieUtxb2pLZG1uZ0ZIUzgtV1UySmFLNElQVm9IZ0FMd3RiTmR0RHdEdVBuSGt6UElGMWZOaGxWU0t5dktGcnpPYlF0MFdEWjJjUmRoRG45WTlUdVFCNA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "53c65e713b8d7e1ab7ceb7c1",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:39:16+00:00",
+      "last_update": "2026-11-18T00:39:16+00:00",
+      "event": "Pakistan discusses defence ties with UK, Turkiye",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "defence",
+        "discusses",
+        "pakistan",
+        "ties",
+        "turkiye",
+        "with"
+      ],
+      "source_excerpt": "Pakistan discusses defence ties with UK, Turkiye Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSFlORURGeWVHeVBGR29yMmRmWjB0Ynczc3o4RmFvLUpObmpLcHhKd1AwYWtINmNOSWp4T3pEb1J5eDNTaVlZc0ZLZ3dKVWJiWVIzYTNxU1RYZDlQa2FJeTVndTU5MHVMN2psZEhsTUZlMGpyWFRmZ2M0YW4xVmZCaDdyemw2NWxY?oc=5",
+          "published_at": "2026-11-18T00:39:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSFlORURGeWVHeVBGR29yMmRmWjB0Ynczc3o4RmFvLUpObmpLcHhKd1AwYWtINmNOSWp4T3pEb1J5eDNTaVlZc0ZLZ3dKVWJiWVIzYTNxU1RYZDlQa2FJeTVndTU5MHVMN2psZEhsTUZlMGpyWFRmZ2M0YW4xVmZCaDdyemw2NWxY?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "48ef35e7ebaae317b495784b",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:39:00+00:00",
+      "last_update": "2026-11-18T00:39:00+00:00",
+      "event": "PTI questions Bilawal’s late realisation of ‘people’s hardships’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bilawal",
+        "dawn",
+        "hardships",
+        "late",
+        "people",
+        "pti",
+        "questions",
+        "realisation"
+      ],
+      "source_excerpt": "PTI questions Bilawal’s late realisation of ‘people’s hardships’ Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUJicEJyR1hXZ2ljYy00eldfbHo0bGJ6Q090SzhTVlJ3cS1mczgwa2dYcUd2Q3FyVEUza2NqSnZqcUNhelJOd0tTT2ZxUE1xV2o4bUpyODZ2b0JsSjRlUFJfeWpoQnpMTDBldXQtbzVtWGhhNTlWMk1JaFNWanhZVUlLbWI4SmRONEpPWFE2NGx0RzhjdkotUmFn?oc=5",
+          "published_at": "2026-11-18T00:39:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUJicEJyR1hXZ2ljYy00eldfbHo0bGJ6Q090SzhTVlJ3cS1mczgwa2dYcUd2Q3FyVEUza2NqSnZqcUNhelJOd0tTT2ZxUE1xV2o4bUpyODZ2b0JsSjRlUFJfeWpoQnpMTDBldXQtbzVtWGhhNTlWMk1JaFNWanhZVUlLbWI4SmRONEpPWFE2NGx0RzhjdkotUmFn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bd75dfb5bfecb5fd917b3ccf",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:40:00+00:00",
+      "last_update": "2026-11-18T00:40:00+00:00",
+      "event": "Sohaib Ashraf made new CPO Rawalpindi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ashraf",
+        "cpo",
+        "dawn",
+        "made",
+        "new",
+        "rawalpindi",
+        "sohaib"
+      ],
+      "source_excerpt": "Sohaib Ashraf made new CPO Rawalpindi Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04NkpndE9DLS1mZWdvR3MtQ05Vek1Na1p5OUZLeVk4eDRRUmkzS3RLOHB5T0JYUjZUV0pzZkRnQW82cy1LOUNqQmcxNFpUb2V1QWFidmZYa0dNamRaVHZxQTdCQmgxZzFrV0ltVHh0OWRrVFV4TWhRcV84aw?oc=5",
+          "published_at": "2026-11-18T00:40:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04NkpndE9DLS1mZWdvR3MtQ05Vek1Na1p5OUZLeVk4eDRRUmkzS3RLOHB5T0JYUjZUV0pzZkRnQW82cy1LOUNqQmcxNFpUb2V1QWFidmZYa0dNamRaVHZxQTdCQmgxZzFrV0ltVHh0OWRrVFV4TWhRcV84aw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "72316b1196227866950ca68d",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:36:54+00:00",
+      "last_update": "2026-11-18T00:36:54+00:00",
+      "event": "Nine Pakistan boys advance at J-30 tennis",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advance",
+        "boys",
+        "dawn",
+        "nine",
+        "pakistan",
+        "tennis"
+      ],
+      "source_excerpt": "Nine Pakistan boys advance at J-30 tennis Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnFiNDZILTE5Y19GYTU0eDFsWlp5eDZSYWJ6cTY4QmF4VUFfZmgxUVJrdnMzeVlTSUVHMGM4dDlIejMzSU01eWRJMjhnTzFmWDdTNXJLZHZha19hR29QNlc0NEFjdkFHeFVvcHdiNkNzejh6bVVRUlZkek1QNjRkRA?oc=5",
+          "published_at": "2026-11-18T00:36:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnFiNDZILTE5Y19GYTU0eDFsWlp5eDZSYWJ6cTY4QmF4VUFfZmgxUVJrdnMzeVlTSUVHMGM4dDlIejMzSU01eWRJMjhnTzFmWDdTNXJLZHZha19hR29QNlc0NEFjdkFHeFVvcHdiNkNzejh6bVVRUlZkek1QNjRkRA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "044406294a081f350229a79d",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:36:54+00:00",
+      "last_update": "2026-11-18T00:36:54+00:00",
+      "event": "Pakistan pacers run riot as SL crumble for 98 in second Test",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "crumble",
+        "dawn",
+        "for",
+        "pacers",
+        "pakistan",
+        "riot",
+        "run",
+        "second",
+        "test"
+      ],
+      "source_excerpt": "Pakistan pacers run riot as SL crumble for 98 in second Test Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekJ6TGI1V0xCbjYzS1o2MXo5UlVDMjlWcW11eXdkSFQ3RWs1VWxoc2s3OWhKZU5LMlhZRjgtV090U19JSk5TZGc1bWduOUFvbDVKbkRkWWtUZXNKR2pKSDF0VXRYZGFlZm5JNXpIU3lzU3RDaE5UZXhGdi1JaUFkZEYyeW45X3kyQWI0LUJqdDh6OHJPX2dNNUR3?oc=5",
+          "published_at": "2026-11-18T00:36:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekJ6TGI1V0xCbjYzS1o2MXo5UlVDMjlWcW11eXdkSFQ3RWs1VWxoc2s3OWhKZU5LMlhZRjgtV090U19JSk5TZGc1bWduOUFvbDVKbkRkWWtUZXNKR2pKSDF0VXRYZGFlZm5JNXpIU3lzU3RDaE5UZXhGdi1JaUFkZEYyeW45X3kyQWI0LUJqdDh6OHJPX2dNNUR3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0e1ff60a967121af4a53bf90",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:34:07+00:00",
+      "last_update": "2026-11-18T00:34:07+00:00",
+      "event": "Iran's FM hails Pakistan's peace diplomacy",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "diplomacy",
+        "express",
+        "hails",
+        "iran",
+        "pakistan",
+        "peace",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Iran's FM hails Pakistan's peace diplomacy The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaERBVzRza2diaUQwTk5VUE5SNU11dm8xZkRxcENrMUlwZS1yRk13WXVFbWFiWWFzY0tDMDBCeWlrNmc2aVhiTUFaQl9TaTRxd21qRjBvQ1R1Z3Jla0tlQW9aN0psU3AwMzFFMExRdTNlT2N4bVhBTW1pbWNpSkVva1Jab9IBiwFBVV95cUxOeC1ySG5GcGxjV1RiZkFXQkhmcFBTUWJibS1jS004c0dudVVTTXVsTGZrVElLZnJjNzVlYjRncGJocUQwaThEX1ExekNkNEl4ZHAtWmYzaDYwTjFHX0ZNTVBNR1VLVURWQXJ6YTZjUEl6ODlkSFBzbVFiQ3lTVVExekMtQTRaYTJXeUNV?oc=5",
+          "published_at": "2026-11-18T00:34:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaERBVzRza2diaUQwTk5VUE5SNU11dm8xZkRxcENrMUlwZS1yRk13WXVFbWFiWWFzY0tDMDBCeWlrNmc2aVhiTUFaQl9TaTRxd21qRjBvQ1R1Z3Jla0tlQW9aN0psU3AwMzFFMExRdTNlT2N4bVhBTW1pbWNpSkVva1Jab9IBiwFBVV95cUxOeC1ySG5GcGxjV1RiZkFXQkhmcFBTUWJibS1jS004c0dudVVTTXVsTGZrVElLZnJjNzVlYjRncGJocUQwaThEX1ExekNkNEl4ZHAtWmYzaDYwTjFHX0ZNTVBNR1VLVURWQXJ6YTZjUEl6ODlkSFBzbVFiQ3lTVVExekMtQTRaYTJXeUNV?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "139338e26bf2ac9a03261fac",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-18T00:56:15+00:00",
+      "last_update": "2026-11-18T00:56:15+00:00",
+      "event": "Saudi firm explores $30b Pakistan gas deal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "30b",
+        "deal",
+        "explores",
+        "express",
+        "firm",
+        "gas",
+        "pakistan",
+        "saudi",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Saudi firm explores $30b Pakistan gas deal The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1U4emw3SmZKTm5ZUWpjZ3lDbkdXaU1zS19QVW5lOUdMZjl1ZUlPQ0xFMkRMNjZGMHlQdE05US1US0YtVDBUWFJPNW9Da2EtN200LVNoVDFzQXJNUlVCNjRyVzZmb1Nic01lYUEwbDRHMGgzREk0LV8yUkNoRVNYY0hXaDfSAYwBQVVfeXFMT2FVSzJUekYwX2tDN293RGExdGNZNFc0QXctXy1qOElSLVRkOXZHdDBvRUVOTTdFb2NYcFByaHNfWk5mTDBqWkN4X0wyakg3LTJkM2RITzlRckhOWDhlTUJ2RXY0S0ZxR0RMeVBHUEV5eHkwRWhINVpXSnRJTktmWUdFMlhMR21oczY0ajg?oc=5",
+          "published_at": "2026-11-18T00:56:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1U4emw3SmZKTm5ZUWpjZ3lDbkdXaU1zS19QVW5lOUdMZjl1ZUlPQ0xFMkRMNjZGMHlQdE05US1US0YtVDBUWFJPNW9Da2EtN200LVNoVDFzQXJNUlVCNjRyVzZmb1Nic01lYUEwbDRHMGgzREk0LV8yUkNoRVNYY0hXaDfSAYwBQVVfeXFMT2FVSzJUekYwX2tDN293RGExdGNZNFc0QXctXy1qOElSLVRkOXZHdDBvRUVOTTdFb2NYcFByaHNfWk5mTDBqWkN4X0wyakg3LTJkM2RITzlRckhOWDhlTUJ2RXY0S0ZxR0RMeVBHUEV5eHkwRWhINVpXSnRJTktmWUdFMlhMR21oczY0ajg?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "14d3ee99a95a2a32e99153ea",
+      "remembered_at": "2026-11-18T01:51:47.467298+00:00",
+      "event_date": "2026-11-17T20:09:00+00:00",
+      "last_update": "2026-11-17T20:09:00+00:00",
+      "event": "Xbox announced biggest sale of the year: Here's everything to know about best deals",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "about",
+        "and",
+        "announced",
+        "available",
+        "best",
+        "biggest",
+        "black",
+        "deals",
+        "december",
+        "discount",
+        "event",
+        "everything",
+        "friday",
+        "has",
+        "here",
+        "its",
+        "know",
+        "largest",
+        "november",
+        "percent",
+        "running",
+        "sale",
+        "selected",
+        "starting",
+        "the",
+        "until",
+        "with",
+        "xbox",
+        "year"
+      ],
+      "source_excerpt": "Xbox announced biggest sale of the year: Here’s everything to know about best deals Xbox has announced the largest sale of the year with its Black Friday 2026 event starting on November 19 at 9 PM PT and running until December 2. Up to an 80 percent discount is available on selected...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691535-xbox-announced-biggest-sale-of-the-year-heres-everything-to-know-about-best-deals",
+          "published_at": "2026-11-17T20:09:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691535-xbox-announced-biggest-sale-of-the-year-heres-everything-to-know-about-best-deals",
+        "publisher_url": "https://www.geo.tv/latest/691535-xbox-announced-biggest-sale-of-the-year-heres-everything-to-know-about-best-deals",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T00:25:17.542701+00:00"
+  "updated_at": "2026-11-18T01:51:47.467298+00:00"
 }

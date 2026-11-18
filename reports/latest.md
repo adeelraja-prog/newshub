@@ -1,161 +1,151 @@
-# News Hub report - Wed 18 Nov, 05:25 AM PKT
+# News Hub report - Wed 18 Nov, 06:51 AM PKT
 
 ## Collection
-- New items this run: 30 | items in rolling pool: 437
-- Unique story clusters: 383 (duplicates merged: 54)
-- Clusters dropped as already published/queued: 33; unchanged since last analysis: 3
-- Items per outlet: Al Jazeera 8, The Express Tribune 4, TechCrunch 3, Engadget 3, samaa tv 1, The Guardian 1, The Verge 1, Wired 1, GSMArena 1, BBC Technology 1, Profit by Pakistan Today 1, Anadolu Ajansı 1
+- New items this run: 94 | items in rolling pool: 351
+- Unique story clusters: 309 (duplicates merged: 42)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 3
+- Items per outlet: Dawn 64, Al Jazeera 6, The Express Tribune 3, The Guardian 3, Geo News 2, AP News 2, Engadget 2, Jang Urdu 1, WRAL 1, Bloomberg.com 1, TechCrunch 1, Ars Technica 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Haitians protest in support of El Salvador’s anti-gang troop deployment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fears toxic lagoon fire led to cancer and miscarriages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thomas Markle charged over child sex abuse material in Philippines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Forensic experts claim Epstein was strangled to death | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Board of Peace warns Gaza ceasefire faces imminent collapse without action | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zimbabwe edge Afghanistan in thriller | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why China’s Shenzhen was chosen for APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Kuwait says intercepting ‘hostile’ drone attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Europe plans to catch the next computer chip wave | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Haitians protest in support of El Salvador’s anti-gang troop deployment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fears toxic lagoon fire led to cancer and miscarriages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thomas Markle charged over child sex abuse material in Philippines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Forensic experts claim Epstein was strangled to death | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Board of Peace warns Gaza ceasefire faces imminent collapse without action | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zimbabwe edge Afghanistan in thriller | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why China’s Shenzhen was chosen for APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Kuwait says intercepting ‘hostile’ drone attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Europe plans to catch the next computer chip wave | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Haitians protest in support of El Salvador’s anti-gang troop deployment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fears toxic lagoon fire led to cancer and miscarriages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thomas Markle charged over child sex abuse material in Philippines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Forensic experts claim Epstein was strangled to death | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Board of Peace warns Gaza ceasefire faces imminent collapse without action | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zimbabwe edge Afghanistan in thriller | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why China’s Shenzhen was chosen for APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Kuwait says intercepting ‘hostile’ drone attacks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Europe plans to catch the next computer chip wave | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 100/107 | empty: 4 | failed: 3 | malformed/partial: 3
+- Overall feeds with entries: 102/107 | empty: 4 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Hum News | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Haitians Back El Salvador Troops Amid Rescue Mission  [NORMAL]
-- Poster: ہیتی میں ایل سلواڈور کے فوجیوں کی حمایت میں احتجاج / Haitians Support El Salvador Troops | category security
-- Alternative headline: Haitians Protest in Support of El Salvador Troops
+### Board of Peace warns Gaza ceasefire faces imminent collapse without action  [NORMAL]
+- Poster: غزہ میں جنگ بندی کا معاہدہ خطرے میں، فوری اقدام کی وارننگ / Gaza ceasefire faces collapse | category world
+- Alternative headline: US-led board decries Gaza fighting and delays in 2025 ceasefire implementation
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss
+- Supporting coverage: Bozeman Daily Chronicle, Boston Herald, Al Jazeera
+- Keywords: Gaza ceasefire, Board of Peace, Gaza conflict, ceasefire collapse, US-led board | hashtags: #Gaza #Ceasefire #BoardOfPeace #MiddleEast
+- Scheduled: Wed 18 Nov, 06:51 AM PKT
+- Caption:
+```
+The US-led Board of Peace has issued a stark warning that the Gaza ceasefire could collapse completely without immediate action.
+
+The US-led Board of Peace has expressed deep concern over ongoing fighting in Gaza and significant delays in implementing the terms of the 2025 ceasefire agreement. The board warns that without urgent intervention, the truce faces an imminent collapse.
+
+امریکہ کی سربراہی میں قائم بورڈ آف پیس نے غزہ میں جاری لڑائی اور 2025 کے جنگ بندی معاہدے پر عمل درآمد میں تاخیر پر شدید تشویش کا اظہار کیا ہے۔ بورڈ کا کہنا ہے کہ فوری کارروائی کے بغیر معاہدہ ختم ہو سکتا ہے۔
+
+First reported by Al Jazeera
+
+#Gaza #Ceasefire #BoardOfPeace #MiddleEast
+```
+
+### Zimbabwe edge Afghanistan in thriller  [NORMAL]
+- Poster: سنسنی خیز مقابلے کے بعد زمبابوے نے افغانستان کو شکست دے دی / Zimbabwe edge Afghanistan | category sports
+- Alternative headline: Thrilling match sees Zimbabwe defeat Afghanistan
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE96dFBISHQ3a253SV92eVJKUXdkeVFFQ0dzMGRYVDhJbFhIai02VGt4N2JwTFdQMGtDcmpQZk1XaHpVX1FFc2ZGX2VpTVY4ODJKQk5Ra2lvckFGVHdONWg0UWVzVURBWlpETzlQbDFybXVROW0xRnF0SkpUSQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE96dFBISHQ3a253SV92eVJKUXdkeVFFQ0dzMGRYVDhJbFhIai02VGt4N2JwTFdQMGtDcmpQZk1XaHpVX1FFc2ZGX2VpTVY4ODJKQk5Ra2lvckFGVHdONWg0UWVzVURBWlpETzlQbDFybXVROW0xRnF0SkpUSQ?oc=5
+- Supporting coverage: Dawn
+- Keywords: Zimbabwe vs Afghanistan, cricket thriller, Zimbabwe victory, Afghanistan match | hashtags: #ZIMvAFG #Cricket #Zimbabwe #Afghanistan
+- Scheduled: Wed 18 Nov, 07:01 AM PKT
+- Caption:
+```
+In a thrilling encounter, Zimbabwe managed to edge past Afghanistan to secure a victory.
+
+Zimbabwe secured a narrow and thrilling victory against Afghanistan in a closely contested match reported by Dawn, showcasing a competitive battle between the two sides.
+
+ڈان کی رپورٹ کے مطابق، زمبابوے نے ایک انتہائی سنسنی خیز اور کانٹے دار مقابلے میں افغانستان کو شکست دے کر کامیابی حاصل کی۔
+
+First reported by Dawn
+
+#ZIMvAFG #Cricket #Zimbabwe #Afghanistan
+```
+
+### Why China’s Shenzhen was chosen for APEC summit  [NORMAL]
+- Poster: چین کے شہر شেনজেন کو اے پیک سربراہی اجلاس کے لیے کیوں چنا گیا؟ / Why Shenzhen for APEC? | category world
+- Alternative headline: Al Jazeera explains the significance of Shenzhen hosting the APEC summit
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: El Salvador troops, Haiti, gang deployment, security minister, protest | hashtags: #Haiti #ElSalvador #Security #Protest
-- Scheduled: Wed 18 Nov, 05:25 AM PKT
+- Keywords: Shenzhen APEC summit, China APEC, Katrina Yu, Shenzhen chosen | hashtags: #APEC #Shenzhen #China #AlJazeera
+- Scheduled: Wed 18 Nov, 07:11 AM PKT
 - Caption:
 ```
-Haitians have voiced strong support for El Salvador’s anti-gang troop deployment as security operations continue.
+Al Jazeera’s Katrina Yu breaks down the strategic reasons behind choosing China’s Shenzhen for the APEC summit.
 
-Haitians have protested in support of El Salvador's anti-gang troop deployment. Meanwhile, El Salvador's security minister has confirmed that the deployed troops will leave the country once kidnapped technicians are successfully rescued.
+Al Jazeera explains the key reasons why China's technology hub Shenzhen was selected to host the APEC summit, providing context on its economic and geopolitical significance.
 
-ہیتی کے شہریوں نے ایل سلواڈور کی طرف سے گینگ کے خلاف فوج بھیٹنے کی حمایت میں احتجاج کیا ہے۔ دوسری طرف، ایل سلواڈور کے سیکیورٹی وزیر نے تصدیق کی ہے کہ اغوا شدہ تکنیکی ماہرین کی بازیابی کے بعد یہ فوجی واپس چلے جائیں گے۔
+الجزیرہ نے اس بات کی وضاحت کی ہے کہ چین کے شہر شেনজেন کو اے پیک سربراہی اجلاس کی میزبانی کے لیے کیوں منتخب کیا گیا، جس کی اقتصادی اور سیاسی اہمیت بہت زیادہ ہے۔
 
-According to Al Jazeera
+First reported by Al Jazeera
 
-#Haiti #ElSalvador #Security #Protest
+#APEC #Shenzhen #China #AlJazeera
 ```
 
-### Fears Grow That Toxic Lagoon Fire Caused Cancer  [NORMAL]
-- Poster: زہریلی آگ سے کینسر اور اسقاط حمل کے خدشات / Toxic Fire Cancer Fears | category health
-- Alternative headline: Toxic Lagoon Fire Linked to Miscarriages and Cancer Fears
+### Kuwait intercepts hostile drone attacks as regional tensions persist  [NORMAL]
+- Poster: کویت کا مشتبہ ڈرون حملے ناکام بنانے کا دعویٰ، بحرین میں الرٹ ختم / Kuwait intercepts drones | category war
+- Alternative headline: Iran war live: Kuwait intercepts drone attacks while Bahrain issues all-clear alert
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: toxic lagoon fire, cancer, miscarriages, Wales, health fears | hashtags: #Health #Wales #Cancer #Environment
-- Scheduled: Wed 18 Nov, 05:35 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Kuwait drone attacks, Iran war, Bahrain alert, drone interception, Gulf security | hashtags: #Kuwait #Bahrain #DroneAttack #MiddleEast
+- Scheduled: Wed 18 Nov, 07:21 AM PKT
 - Caption:
 ```
-Residents are raising serious health concerns following a toxic lagoon fire in Wales.
+Kuwait has reported intercepting hostile drone attacks while neighbouring Bahrain issued an all-clear alert indicating danger has passed.
 
-Residents in Wales are expressing deep fears that a toxic lagoon fire may have led to severe health issues, including cancer and miscarriages. Local authorities and emergency services are facing mounting questions regarding the long-term environmental and health impacts.
+Kuwait is actively intercepting hostile drone attacks amid ongoing regional conflicts, while Bahrain has issued an all-clear alert stating that the immediate danger has passed.
 
-ویلز میں رہائشیوں نے شدید خدشات کا اظہار کیا ہے کہ ایک زہریلی جھیل میں لگنے والی آگ کینسر اور اسقاط حمل جیسے سنگین صحت کے مسائل کا سبب بنی ہے۔ مقامی حکام کو اس حوالے سے عوامی سوالات کا سامنا ہے۔
+کویت نے کشیدہ صورتحال کے دوران دشمن کے ڈرون حملوں کو روکنے کا اعلان کیا ہے، جبکہ بحرین نے آل کلیئر الرٹ جاری کرتے ہوئے کہا ہے کہ خطرہ ٹل چکا ہے۔
 
-First reported by BBC Health
+First reported by Al Jazeera
 
-#Health #Wales #Cancer #Environment
+#Kuwait #Bahrain #DroneAttack #MiddleEast
 ```
 
-### Thomas Markle Charged Over Child Abuse Material  [NORMAL]
-- Poster: تھامس مارکل پر فلپائن میں بھی بچوں کے استحصال کا مقدمہ / Thomas Markle Charged | category crime
-- Alternative headline: Meghan Markle's Father Faces Charges in Philippines
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Thomas Markle, Philippines, child abuse material, charges, police | hashtags: #ThomasMarkle #Philippines #Crime #BBC
-- Scheduled: Wed 18 Nov, 05:45 AM PKT
-- Caption:
-```
-Police in the Philippines have filed charges against Thomas Markle Sr. regarding child sexual abuse material.
-
-Police in the Philippines have charged Thomas Markle Sr, the 82-year-old father of Meghan, Duchess of Sussex, with possession and intent to distribute child sexual abuse material. Markle is already facing similar charges in the United States and remains in custody.
-
-فلپائن کی پولیس نے ڈচেس آف سسیکس میغان کے والد 82 سالہ تھامس مارکل سینئر پر بچوں کے جنسی استحصال کے مواد کی موجودگی اور تقسیم کے ارادے کے تحت مقدمہ درج کر لیا ہے۔ مارکل اس وقت امریکہ میں حراست میں ہیں۔
-
-First reported by BBC World
-
-#ThomasMarkle #Philippines #Crime #BBC
-```
-
-### Forensic Experts Claim Jeffrey Epstein Was Strangled  [NORMAL]
-- Poster: جفری ایپسٹائن کو گلا گھونٹ کر قتل کیا گیا، ماہرین کا دعویٰ / Epstein Strangled to Death | category courts
-- Alternative headline: New Forensic Claims Challenge Epstein Suicide Ruling
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Jeffrey Epstein, forensic experts, strangled, autopsy, suicide ruling | hashtags: #JeffreyEpstein #Forensics #AlJazeera #News
-- Scheduled: Wed 18 Nov, 05:55 AM PKT
-- Caption:
-```
-A team of forensic scientists is actively challenging the official ruling that Jeffrey Epstein died by suicide.
-
-A team of forensic scientists is challenging the official ruling that convicted sex offender Jeffrey Epstein died by suicide, putting forward new claims that he was strangled to death.
-
-فورنسک سائنسدانوں کی ایک ٹیم نے اس سرکاری فیصلے کو چیلنج کیا ہے جس میں کہا گیا تھا کہ سزا یافتہ مجرم جفری ایپسٹائن نے خودکشی کی تھی۔ نئے دعوے کے مطابق انہیں گلا گھونٹ کر ہلاک کیا گیا تھا۔
-
-According to Al Jazeera
-
-#JeffreyEpstein #Forensics #AlJazeera #News
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
-- [needs_review] normal | Nishat Group Agrees to Explore Investment in Pakistan's New Port Proje | Sat 14 Nov, 11:41 PM PKT
-- [needs_review] normal | US Supreme Court Agrees to Hear Trump Administration's Asylum Appeal | Sat 14 Nov, 11:51 PM PKT
-- [needs_review] normal | Iran Accuses US of Threatening to Starve Civilians Through Blockade | Sun 15 Nov, 12:22 AM PKT
-- [needs_review] normal | Technical Glitch Hits US Presser on Nationwide Air Travel Chaos | Sun 15 Nov, 12:32 AM PKT
 - [needs_review] normal | Italy Fines Meta $887M Over Unauthorized Android Data Access | Sun 15 Nov, 01:00 AM PKT
 - [needs_review] normal | Israeli Drone Strike Kills Two Palestinians in Northern Gaza | Sun 15 Nov, 01:32 AM PKT
 - [needs_review] normal | Ex-Nvidia CEO Jensen Huang Misled Leaders Over Affair | Sun 15 Nov, 01:42 AM PKT
 - [needs_review] normal | SpaceX Successfully Catches Starship Rocket Part With Mechanical Arms | Sun 15 Nov, 03:22 AM PKT
 - [needs_review] normal | Elon Musk and 115,000 Others Sign Petition to Reinstate Ousted Nvidia  | Sun 15 Nov, 03:58 AM PKT
-- [published] high | PTI Leader Khosa Briefs Elahi on Meeting with Imran Khan | Sun 15 Nov, 05:48 AM PKT
-- [published] high | Lahore High Court Takes Up Plea Challenging PTI Funding Probe | Sun 15 Nov, 05:48 AM PKT
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
-- [published] breaking | Army Major Among Four Servicemen Martyred in Security Operations | Sun 15 Nov, 06:51 AM PKT
-- [published] normal | Senior Hamas Commander Killed in Israeli Strike in Southern Gaza | Sun 15 Nov, 06:51 AM PKT
 - [needs_review] normal | Top US Official Marco Rubio Behind Nvidia CEO Jensen Huang’s Exit | Sun 15 Nov, 07:01 AM PKT
 - [published] high | Supreme Court Rules Inheritance Rights Never Lapse Just With Time | Sun 15 Nov, 07:39 AM PKT
 - [published] breaking | Pakistan's domestic gas output halves in a decade, forcing mealtime cu | Sun 15 Nov, 09:26 AM PKT
@@ -296,7 +286,7 @@ According to Al Jazeera
 - [published] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
 - [published] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
 - [published] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
-- [queued] normal | UK sanctions Israeli firms building West Bank settlements | Wed 18 Nov, 12:57 AM PKT
+- [published] normal | UK sanctions Israeli firms building West Bank settlements | Wed 18 Nov, 12:57 AM PKT
 - [queued] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
 - [queued] normal | Trump warns Iran over reported dirty bomb threat in Washington | Wed 18 Nov, 01:17 AM PKT
 - [queued] normal | Prince William and Kate Celebrate Earthshot Prize Winners in Mumbai | Wed 18 Nov, 01:38 AM PKT
@@ -319,12 +309,22 @@ According to Al Jazeera
 - [queued] normal | Fears Grow That Toxic Lagoon Fire Caused Cancer | Wed 18 Nov, 05:35 AM PKT
 - [queued] normal | Thomas Markle Charged Over Child Abuse Material | Wed 18 Nov, 05:45 AM PKT
 - [queued] normal | Forensic Experts Claim Jeffrey Epstein Was Strangled | Wed 18 Nov, 05:55 AM PKT
+- [queued] normal | Board of Peace warns Gaza ceasefire faces imminent collapse without ac | Wed 18 Nov, 06:51 AM PKT
+- [queued] normal | Zimbabwe edge Afghanistan in thriller | Wed 18 Nov, 07:01 AM PKT
+- [queued] normal | Why China’s Shenzhen was chosen for APEC summit | Wed 18 Nov, 07:11 AM PKT
+- [queued] normal | Kuwait intercepts hostile drone attacks as regional tensions persist | Wed 18 Nov, 07:21 AM PKT
 
 ## Publishing this run
-- Published 'US officially loses measles-free status after 26 years'.
+- Published 'UK sanctions Israeli firms building West Bank settlements'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 3486 | output tokens: 1973
+- Calls: 3 | prompt tokens: 4673 | output tokens: 1892
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
