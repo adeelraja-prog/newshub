@@ -1,117 +1,118 @@
-# News Hub report - Wed 18 Nov, 01:17 PM PKT
+# News Hub report - Wed 18 Nov, 02:27 PM PKT
 
 ## Collection
-- New items this run: 132 | items in rolling pool: 467
-- Unique story clusters: 390 (duplicates merged: 77)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 31, Geo News 12, samaa tv 11, ProPakistani 10, ARY News 6, Profit by Pakistan Today 6, Dawn Latest 5, The Express Tribune 4, Investify 4, Al Jazeera 3, TechJuice 3, The Current 3
+- New items this run: 83 | items in rolling pool: 459
+- Unique story clusters: 378 (duplicates merged: 81)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 3
+- Items per outlet: Al Jazeera 12, Geo News 10, ProPakistani 8, ARY News 6, Dawn 5, ARYnews.tv 3, Dawn Latest 3, TechJuice 3, Investify 3, The News International 2, Dawn Pakistan 2, Bloomberg.com 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Democrat Peltola wins in Alaska, securing 56-44 US Senate majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- رحیم یارخان، خودکشی کا ڈراما رچانے والا ملزم گرفتار | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Apple works to restore services after outage caused by internal update | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA 6 fever grips gaming world ahead of highly anticipated launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sri Lankan bowlers trigger Pakistan collapse in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Democrat Peltola wins in Alaska, securing 56-44 US Senate majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- رحیم یارخان، خودکشی کا ڈراما رچانے والا ملزم گرفتار | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Apple works to restore services after outage caused by internal update | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA 6 fever grips gaming world ahead of highly anticipated launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sri Lankan bowlers trigger Pakistan collapse in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Democrat Peltola wins in Alaska, securing 56-44 US Senate majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- رحیم یارخان، خودکشی کا ڈراما رچانے والا ملزم گرفتار | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Apple works to restore services after outage caused by internal update | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA 6 fever grips gaming world ahead of highly anticipated launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sri Lankan bowlers trigger Pakistan collapse in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 103/107 | empty: 2 | failed: 2 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: UrduPoint | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Democrat Mary Peltola flips Alaska Senate seat, clinching 56-44 majority  [NORMAL]
-- Poster: الاسکا میں ڈیموکریٹ میری پیلٹولا کی فتح، سینیٹ میں واضح برتری حاصل / Mary Peltola flips Alaska, securing 56-seat US Senate majority | category us_politics
-- Alternative headline: Peltola unseats Republican Sullivan in Alaska, sealing 56-seat US Senate majority
+### GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch  [NORMAL]
+- Poster: جی ٹی اے 6 کا بخار، دنیا بھر کے گیمرز میں جوش و خروش عروج پر / GTA 6 Fever Grips Gaming World Ahead of Launch | category tech_apps
+- Alternative headline: Global Gaming Community Excited as GTA 6 Release Approaches
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/democrat-peltola-wins-in-alaska-securing-56-44-us-senate-majority | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/democrat-peltola-wins-in-alaska-securing-56-44-us-senate-majority
-- Supporting coverage: ARY News, BBC, Dawn, Dawn Latest
-- Keywords: Mary Peltola, Alaska Senate race, Dan Sullivan, US Senate majority, Midterm elections | hashtags: #USSenate #MaryPeltola #Alaska #USElections
-- Scheduled: Wed 18 Nov, 01:17 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMingFBVV95cUxNVWNNMVVCQUoxREl4cHp0UTY4UURWMVhvMVJ6T0p5VGFmY014NEZlM1U2UGl4bzhtbnMwNDVOcEdpQ3I3NnRyRUR5ZWQyN0NPV2ZLV2xIMjZZZFpDcVRpcTVwX19LcEVOYTQ5NE0yYzRPVHA2QVY0dThZRlpJTVh0ZmdDeGRCVmVFaWVlX1JYMW9LYXJvbno4RUNBdEFjdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMingFBVV95cUxNVWNNMVVCQUoxREl4cHp0UTY4UURWMVhvMVJ6T0p5VGFmY014NEZlM1U2UGl4bzhtbnMwNDVOcEdpQ3I3NnRyRUR5ZWQyN0NPV2ZLV2xIMjZZZFpDcVRpcTVwX19LcEVOYTQ5NE0yYzRPVHA2QVY0dThZRlpJTVh0ZmdDeGRCVmVFaWVlX1JYMW9LYXJvbno4RUNBdEFjdw?oc=5
+- Supporting coverage: samaa tv, ProPakistani
+- Keywords: GTA 6, gaming, Rockstar Games, video games, launch | hashtags: #GTA6 #Gaming #RockstarGames #VideoGames
+- Scheduled: Wed 18 Nov, 02:27 PM PKT
 - Caption:
 ```
-Democrat Mary Peltola has won Alaska's US Senate race, defeating Republican incumbent Dan Sullivan and sealing a 56-44 majority.
+Excitement and anticipation reach a fever pitch across the global gaming community ahead of the upcoming launch of GTA 6.
 
-Democrat Mary Peltola defeated Republican incumbent Dan Sullivan in Alaska's Senate race, winning 50% of the first-place vote. The victory marks Democrats' ninth flip of the midterm elections, securing a 56-44 majority in the upper chamber of the US Congress.
+The gaming world is gripped by intense excitement and anticipation as the release of GTA 6 approaches. Gamers globally and locally are eagerly awaiting the highly anticipated title from Rockstar Games.
 
-ڈیموکریٹ امیدوار میری پیلٹولا نے الاسکا میں ریپبلکن سینیٹر ڈین سلیوان کو شکست دے کر کامیابی حاصل کر لی۔ انہوں نے 50 فیصد ووٹ حاصل کیے، جس کے نتیجے میں امریکی سینیٹ میں ڈیموکریٹس کی نشستوں کی تعداد 56 تک پہنچ گئی ہے۔
+جی ٹی اے 6 کی ریلیز قریب آتے ہی دنیا بھر کی گیمنگ کمیونٹی میں زبردست جوش و خروش پایا جاتا ہے۔ دنیا بھر کے گیمرز اس انتہائی متوقع ٹائٹل کا بے صبری سے انتظار کر رہے ہیں۔
 
-First reported by ARY News; also reported by Reuters
+First reported by samaa tv
 
-#USSenate #MaryPeltola #Alaska #USElections
+#GTA6 #Gaming #RockstarGames #VideoGames
 ```
 
-### Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run lead  [NORMAL]
-- Poster: راولپنڈی ٹیسٹ: پاکستان کے 7 وکٹوں پر 221 رنز، مجموعی برتری 123 رنز تک محدود / Pakistan struggle at 221-7 despite 123-run lead in second Test | category sports
-- Alternative headline: Sri Lanka strike repeatedly as Pakistan stumble to 221-7 on day two
+### Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperation  [NORMAL]
+- Poster: پاکستان اور ترکیہ کا دفاعی اور ایرو اسپیس تعاون بڑھانے پر اتفاق / Pakistan, Turkiye Discuss Expanding Defence Cooperation | category security
+- Alternative headline: Air Chiefs of Pakistan and Turkiye Explore Advanced Technology Collaboration
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691605-pakistan-struggle-against-sri-lanka-despite-extending-lead-in-second-test | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691605-pakistan-struggle-against-sri-lanka-despite-extending-lead-in-second-test
-- Supporting coverage: Geo News, Geo News, AP News
-- Keywords: Pakistan vs Sri Lanka, Rawalpindi Test, Lahiru Kumara, Azan Awais, Saud Shakeel | hashtags: #PAKvSL #RawalpindiTest #Cricket #PakistanCricket
-- Scheduled: Wed 18 Nov, 01:27 PM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045393/pakistan-turkiye-discuss-expanding-defence-cooperation-in-electronic-warfare-drone-and-aerospace-technologies | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045393/pakistan-turkiye-discuss-expanding-defence-cooperation-in-electronic-warfare-drone-and-aerospace-technologies
+- Supporting coverage: Dawn Pakistan, Dawn
+- Keywords: Pakistan Turkiye defence, Air Chief Marshal Zaheer Ahmed Baber Sidhu, electronic warfare, drone technologies, aerospace | hashtags: #Pakistan #Turkiye #DefenceCooperation #PAF
+- Scheduled: Wed 18 Nov, 02:37 PM PKT
 - Caption:
 ```
-Sri Lankan pacer Lahiru Kumara picked four wickets to rattle Pakistan's batting lineup on day two of the second Test in Rawalpindi.
+Pakistan and Turkiye have held high-level talks to expand bilateral cooperation in electronic warfare and drone technologies.
 
-Pakistan stumbled to 221-7 in 69 overs on day two of the second Test against Sri Lanka in Rawalpindi, holding a 123-run lead. Lahiru Kumara dismantled the middle order, removing Azan Awais for 47, Saud Shakeel for 24, and Saqib Khan for 37.
+Air Chief Marshal Zaheer Ahmed Baber Sidhu and Turkish Air Force Commander General Rafet Dalkıran discussed expanding bilateral defence cooperation. The talks focused on unmanned and autonomous systems, electronic warfare, advanced aerospace technologies, and indigenous research and development.
 
-راولپنڈی ٹیسٹ کے دوسرے روز پاکستانی بیٹنگ لائن مشکلات کا شکار ہو کر 69 اوورز میں 221 رنز پر 7 وکٹیں گنوا بیٹھی۔ سری لنکن فاسٹ بولر لاہیرو کمارا نے شاندار بولنگ کرتے ہوئے اہم وکٹیں حاصل کیں، جبکہ قومی ٹیم کو مجموعی طور پر 123 رنز کی برتری حاصل ہے۔
+ایئر چیف مارشل ظہیر احمد بابر سدھو اور ترک فضائیہ کے کمانڈر جنرل رافت دالقران نے دوطرفہ دفاعی تعاون بڑھانے پر تبادلہ خیال کیا۔ بات چیت کا محور بغیر پائلٹ کے سسٹمز، الیکٹرانک وارفیئر، اور جدید ایرو اسپیس ٹیکنالوجی تھا۔
 
-First reported by Geo News
+First reported by Dawn Pakistan
 
-#PAKvSL #RawalpindiTest #Cricket #PakistanCricket
+#Pakistan #Turkiye #DefenceCooperation #PAF
 ```
 
-### Rahim Yar Khan man arrested after fake suicide drama killed rescue diver  [NORMAL]
-- Poster: رحیم یار خان: خودکشی کا ڈراما رچانے والا مقروض ملزم 42 روز بعد گرفتار / Man arrested in Rahim Yar Khan after fake suicide led to rescuer's death | category crime
-- Alternative headline: Accused held in Rahim Yar Khan after staging suicide that killed rescuer
+### Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test  [NORMAL]
+- Poster: دوسرے ٹیسٹ میں سری لنکن بولرز کی تباہ کن بولنگ، پاکستان کی وکٹیں گر گئیں / Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | category sports
+- Alternative headline: Pakistan Batting Collapses Against Sri Lanka in Second Test
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Jang Urdu https://jang.com.pk/news/1634540 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Jang Urdu https://jang.com.pk/news/1634540
-- Supporting coverage: Jang Urdu, UrduPoint
-- Keywords: Rahim Yar Khan fake suicide, Noman Riaz, Kot Samaba canal, rescuer death, DPO Rahim Yar Khan | hashtags: #RahimYarKhan #PunjabPolice #CrimeNews #PakistanNews
-- Scheduled: Wed 18 Nov, 01:37 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxNRURiZVNCaVcxYzY2QjQ2U2dpa0hqY0cyT3BENTJ5R0VjSEhONHhVdWlFM3NCRDJPOVgzWEtNNHJsLUpCZUtHc2RoRUotSV9ucV91dTRuNzBsTEg2N2paMFk1ZmlUQS01MHNDMFVFQ2IzS1IxcE9YM2FPa1NjUV92V1c0cWlNUktmTEp6V0pZOU96QlR5bDBfVA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxNRURiZVNCaVcxYzY2QjQ2U2dpa0hqY0cyT3BENTJ5R0VjSEhONHhVdWlFM3NCRDJPOVgzWEtNNHJsLUpCZUtHc2RoRUotSV9ucV91dTRuNzBsTEg2N2paMFk1ZmlUQS01MHNDMFVFQ2IzS1IxcE9YM2FPa1NjUV92V1c0cWlNUktmTEp6V0pZOU96QlR5bDBfVA?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Pakistan vs Sri Lanka Test, Sri Lankan bowlers, Pakistan collapse, second Test, cricket | hashtags: #PAKvSL #TestCricket #PakistanCricket #SriLanka
+- Scheduled: Wed 18 Nov, 02:47 PM PKT
 - Caption:
 ```
-Police in Rahim Yar Khan have arrested a debtor who faked his suicide 42 days ago, an act that led to a rescuer's drowning.
+Sri Lankan bowlers rattled Pakistan's batting lineup, triggering a dramatic collapse during the second Test match.
 
-Rahim Yar Khan police arrested suspect Noman Riaz, who staged his suicide 42 days ago by plunging his car into Kot Samaba canal to evade debts. During vehicle recovery operations, a rescue official drowned, leading to a martyrdom case filed against the suspect.
+Sri Lankan bowlers struck early and effectively, triggering a batting collapse for the Pakistan cricket team during the second Test match. The bowling attack dismantled key partnerships and put Pakistan under intense pressure.
 
-رحیم یار خان پولیس نے قرض سے بچنے کے لیے 42 روز قبل خودکشی کا ڈراما رچانے والے ملزم نعمان ریاض کو گرفتار کر لیا۔ نہر سے ملزم کی گاڑی نکالنے کے دوران ایک ریسکیو اہلکار ڈوب کر شہید ہو گیا تھا، جس پر ملزم کے خلاف مقدمہ درج کیا گیا ہے۔
+سری لنکن بولرز نے دوسرے ٹیسٹ میچ کے دوران شاندار بولنگ کا مظاہرہ کرتے ہوئے پاکستانی ٹیم کی بیٹنگ لائن کو کمزور کر دیا اور وکٹیں جلدی گرا دیں۔ اس شاندار بولنگ پرفارمنس نے پاکستان کو دباؤ میں ڈال دیا۔
 
-First reported by Jang Urdu
+First reported by Dawn
 
-#RahimYarKhan #PunjabPolice #CrimeNews #PakistanNews
+#PAKvSL #TestCricket #PakistanCricket #SriLanka
 ```
 
-- Indian outlets blocked this run: 5 items
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -277,11 +278,11 @@ First reported by Jang Urdu
 - [needs_review] normal | Zimbabwe edge Afghanistan in thriller | Wed 18 Nov, 07:01 AM PKT
 - [needs_review] normal | Why China’s Shenzhen was chosen for APEC summit | Wed 18 Nov, 07:11 AM PKT
 - [published] normal | Kuwait intercepts hostile drone attacks as regional tensions persist | Wed 18 Nov, 07:21 AM PKT
-- [queued] normal | Jeff Bezos Says He Was Heavily Involved in Casting Robert Pattinson as | Wed 18 Nov, 07:48 AM PKT
-- [queued] normal | Hundreds Protest Outside Oxford University as Jason Arday's Accuser Sp | Wed 18 Nov, 07:58 AM PKT
-- [queued] normal | Ecuadorian Fishermen Sue Trump Administration Over Alleged Drone Strik | Wed 18 Nov, 08:08 AM PKT
-- [queued] normal | Rival Peace Efforts Fail to Halt Ongoing Violence in Eastern DR Congo | Wed 18 Nov, 08:18 AM PKT
-- [queued] normal | Man Sentenced to Over 27 Years in US Over Trump Murder Plot | Wed 18 Nov, 08:42 AM PKT
+- [needs_review] normal | Jeff Bezos Says He Was Heavily Involved in Casting Robert Pattinson as | Wed 18 Nov, 07:48 AM PKT
+- [needs_review] normal | Hundreds Protest Outside Oxford University as Jason Arday's Accuser Sp | Wed 18 Nov, 07:58 AM PKT
+- [needs_review] normal | Ecuadorian Fishermen Sue Trump Administration Over Alleged Drone Strik | Wed 18 Nov, 08:08 AM PKT
+- [needs_review] normal | Rival Peace Efforts Fail to Halt Ongoing Violence in Eastern DR Congo | Wed 18 Nov, 08:18 AM PKT
+- [published] normal | Man Sentenced to Over 27 Years in US Over Trump Murder Plot | Wed 18 Nov, 08:42 AM PKT
 - [queued] normal | Hungary on the Hunt for a New Football Hero | Wed 18 Nov, 08:52 AM PKT
 - [queued] normal | ICE Agents Shove and Pepper-Spray Pregnant Woman in US | Wed 18 Nov, 09:02 AM PKT
 - [queued] normal | Mary Peltola Flips Alaska Senate Seat in Democratic Win | Wed 18 Nov, 09:12 AM PKT
@@ -300,11 +301,25 @@ First reported by Jang Urdu
 - [queued] normal | Democrat Mary Peltola flips Alaska Senate seat, clinching 56-44 majori | Wed 18 Nov, 01:17 PM PKT
 - [queued] normal | Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run | Wed 18 Nov, 01:27 PM PKT
 - [queued] normal | Rahim Yar Khan man arrested after fake suicide drama killed rescue div | Wed 18 Nov, 01:37 PM PKT
+- [queued] normal | GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch | Wed 18 Nov, 02:27 PM PKT
+- [queued] normal | Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperati | Wed 18 Nov, 02:37 PM PKT
+- [queued] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
 
 ## Publishing this run
-- Published 'Kuwait intercepts hostile drone attacks as regional tensions persist'.
+- Published 'Man Sentenced to Over 27 Years in US Over Trump Murder Plot'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 6242 | output tokens: 3811
-- Errors: 1
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 4 | prompt tokens: 6496 | output tokens: 2357
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
