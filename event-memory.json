@@ -67527,7 +67527,491 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "26f6605f004dbca258070ffb",
+      "remembered_at": "2026-11-18T18:54:28.202351+00:00",
+      "event_date": "2026-11-18T18:19:23+00:00",
+      "last_update": "2026-11-18T18:19:23+00:00",
+      "event": "Internet services may face disruption across Pakistan: PTA",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "disruption",
+        "face",
+        "internet",
+        "may",
+        "pakistan",
+        "pta",
+        "services"
+      ],
+      "source_excerpt": "Internet services may face disruption across Pakistan: PTA",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/internet-services-may-face-disruption-across-pakistan-pta",
+          "published_at": "2026-11-18T18:19:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/internet-services-may-face-disruption-across-pakistan-pta",
+        "publisher_url": "https://arynews.tv/internet-services-may-face-disruption-across-pakistan-pta",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ee60e6e65a962ef9db58ac7e",
+      "remembered_at": "2026-11-18T18:54:28.202351+00:00",
+      "event_date": "2026-11-18T11:03:17+00:00",
+      "last_update": "2026-11-18T18:11:34+00:00",
+      "event": "اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "800",
+        "اتھارٹی",
+        "اسلام",
+        "اور",
+        "آباد",
+        "برآمد",
+        "برآمدگی",
+        "علاقے",
+        "فوڈ",
+        "مدعیت",
+        "مکان",
+        "میں",
+        "کتوں",
+        "کلو",
+        "گدھے",
+        "گوشت",
+        "ہوا",
+        "ہے۔گدھے"
+      ],
+      "source_excerpt": "اسلام آباد کے علاقے ڈی 14 کے مکان سے گدھے اور کتوں کا 800 کلو گوشت برآمد ہوا ہے۔گدھے اور کتوں کے گوشت برآمدگی پر فوڈ اتھارٹی کی مدعیت...",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5014441",
+          "published_at": "2026-11-18T11:03:17+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5014731",
+          "published_at": "2026-11-18T13:21:52+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5015019",
+          "published_at": "2026-11-18T14:25:20+00:00"
+        },
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1634665",
+          "published_at": "2026-11-18T18:11:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1634665",
+        "publisher_url": "https://jang.com.pk/news/1634665",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2836f2231daf577d57cbcaea",
+      "remembered_at": "2026-11-18T18:54:28.202351+00:00",
+      "event_date": "2026-11-18T18:22:26+00:00",
+      "last_update": "2026-11-18T18:22:26+00:00",
+      "event": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abu",
+        "after",
+        "army",
+        "charge",
+        "court",
+        "detained",
+        "detention",
+        "doctor",
+        "extended",
+        "extends",
+        "gaza",
+        "him",
+        "israel",
+        "israeli",
+        "nearly",
+        "safia",
+        "the",
+        "two",
+        "without",
+        "years"
+      ],
+      "source_excerpt": "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+          "published_at": "2026-11-18T18:22:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "432bc264bcba8e3bc0f302b9",
+      "remembered_at": "2026-11-18T18:54:28.202351+00:00",
+      "event_date": "2026-11-18T18:12:42+00:00",
+      "last_update": "2026-11-18T18:12:42+00:00",
+      "event": "Israeli forces launch new military operation in central Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advancing",
+        "central",
+        "forces",
+        "gaza",
+        "have",
+        "israeli",
+        "launch",
+        "launched",
+        "line",
+        "military",
+        "new",
+        "operation",
+        "the",
+        "west",
+        "yellow"
+      ],
+      "source_excerpt": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+          "published_at": "2026-11-18T18:12:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c7d8fc8f3edc55949ab802e4",
+      "remembered_at": "2026-11-18T18:54:28.202351+00:00",
+      "event_date": "2026-11-18T18:09:57+00:00",
+      "last_update": "2026-11-18T18:09:57+00:00",
+      "event": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "donald",
+        "during",
+        "friend",
+        "his",
+        "imelda",
+        "knew",
+        "longtime",
+        "marcos",
+        "meets",
+        "parents",
+        "philippine",
+        "philippines",
+        "president",
+        "told",
+        "trump",
+        "very",
+        "visit",
+        "well"
+      ],
+      "source_excerpt": "Trump told Philippine President Marcos he knew his parents 'very well'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
+          "published_at": "2026-11-18T18:09:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "71cd11d391a8ea389d84b0fc",
+      "remembered_at": "2026-11-18T18:54:28.202351+00:00",
+      "event_date": "2026-11-18T18:11:00+00:00",
+      "last_update": "2026-11-18T18:11:00+00:00",
+      "event": "Suspected arson attacks hit Middlesbrough play park",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arson",
+        "attacks",
+        "bbc",
+        "hit",
+        "middlesbrough",
+        "park",
+        "play",
+        "suspected"
+      ],
+      "source_excerpt": "Suspected arson attacks hit Middlesbrough play park BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOTFEWVJHNldHcDhrVlJuMmIxaE4zQVRoM2ktLTBxY1AtcTMzLTgtcGN2ZFFKNjBjN0tzMTR2MGhwSmM4SWNOX3Z2LURjemlQbFdEX3N0NDE0QzE3NkxnZ2dHWHR2NTdfdi03RVEweURqX3FNU09NNnhkTS1HNVZfOFdjalZFWUozQmtsLTZjSVpIQ1lrQkVmdk50MldOUkIxSjJteVdVYzdDbXpFMzZjXzdxMDRDc3dySWlBcVFmWnEwU1hKdl9OOS14Rk1XOXVaX0lxdDFKMmVRUFoxZWxoRG1zdw?oc=5",
+          "published_at": "2026-11-18T18:11:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOTFEWVJHNldHcDhrVlJuMmIxaE4zQVRoM2ktLTBxY1AtcTMzLTgtcGN2ZFFKNjBjN0tzMTR2MGhwSmM4SWNOX3Z2LURjemlQbFdEX3N0NDE0QzE3NkxnZ2dHWHR2NTdfdi03RVEweURqX3FNU09NNnhkTS1HNVZfOFdjalZFWUozQmtsLTZjSVpIQ1lrQkVmdk50MldOUkIxSjJteVdVYzdDbXpFMzZjXzdxMDRDc3dySWlBcVFmWnEwU1hKdl9OOS14Rk1XOXVaX0lxdDFKMmVRUFoxZWxoRG1zdw?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a928c79fc0dad575bead72e6",
+      "remembered_at": "2026-11-18T18:54:28.202351+00:00",
+      "event_date": "2026-11-18T14:50:19+00:00",
+      "last_update": "2026-11-18T18:11:46+00:00",
+      "event": "مضبوط پاکستان ہی کشمیریوں کی آزادی کا ضامن ہے: وزیراعظم آزاد کشمیر",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "افتخار",
+        "آزاد",
+        "آزادی",
+        "ایک",
+        "درآمد",
+        "ضامن",
+        "عمل",
+        "فوراً",
+        "مضبوط",
+        "منصوبوں",
+        "وزیراعظم",
+        "پاکستان",
+        "کشمیر",
+        "کشمیریوں",
+        "کہا",
+        "گیلانی",
+        "ہے۔"
+      ],
+      "source_excerpt": "وزیراعظم آزاد کشمیر افتخار گیلانی نے کہا ہے کہ ایک مضبوط پاکستان ہی کشمیریوں کی آزادی کا ضامن ہے۔ منصوبوں پر فوراً عمل درآمد...",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5015033",
+          "published_at": "2026-11-18T14:50:19+00:00"
+        },
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1634667",
+          "published_at": "2026-11-18T18:11:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1634667",
+        "publisher_url": "https://jang.com.pk/news/1634667",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6e26eb3138fde2784a4020ee",
+      "remembered_at": "2026-11-18T18:54:28.202351+00:00",
+      "event_date": "2026-11-18T17:34:58+00:00",
+      "last_update": "2026-11-18T17:34:58+00:00",
+      "event": "Gandhara Strategic Dialogue opens in Islamabad; Buddhist monastics propose meditation centres, University Gandhara Corners",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "buddhist",
+        "centres",
+        "corners",
+        "dialogue",
+        "gandhara",
+        "islamabad",
+        "meditation",
+        "monastics",
+        "opens",
+        "propose",
+        "strategic",
+        "university"
+      ],
+      "source_excerpt": "Gandhara Strategic Dialogue opens in Islamabad; Buddhist monastics propose meditation centres, University Gandhara Corners",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/gandhara-strategic-dialogue-opens-in-islamabad-buddhist-monastics-propose-meditation-centres-university-gandhara-corners",
+          "published_at": "2026-11-18T17:34:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/gandhara-strategic-dialogue-opens-in-islamabad-buddhist-monastics-propose-meditation-centres-university-gandhara-corners",
+        "publisher_url": "https://arynews.tv/gandhara-strategic-dialogue-opens-in-islamabad-buddhist-monastics-propose-meditation-centres-university-gandhara-corners",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f7ceed3a9e0a432b3d5afaf6",
+      "remembered_at": "2026-11-18T18:54:28.202351+00:00",
+      "event_date": "2026-11-18T17:27:49+00:00",
+      "last_update": "2026-11-18T17:27:49+00:00",
+      "event": "‘If PPP leaders are corrupt, PTI founder is also corrupt,’ says Bilawal Bhutto",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "also",
+        "are",
+        "bhutto",
+        "bilawal",
+        "corrupt",
+        "founder",
+        "leaders",
+        "ppp",
+        "pti",
+        "says"
+      ],
+      "source_excerpt": "‘If PPP leaders are corrupt, PTI founder is also corrupt,’ says Bilawal Bhutto",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/if-ppp-leaders-are-corrupt-pti-founder-is-also-corrupt-says-bilawal-bhutto",
+          "published_at": "2026-11-18T17:27:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/if-ppp-leaders-are-corrupt-pti-founder-is-also-corrupt-says-bilawal-bhutto",
+        "publisher_url": "https://arynews.tv/if-ppp-leaders-are-corrupt-pti-founder-is-also-corrupt-says-bilawal-bhutto",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4709d3c6a483ca85c0b160e2",
+      "remembered_at": "2026-11-18T18:54:28.202351+00:00",
+      "event_date": "2026-11-18T17:59:50+00:00",
+      "last_update": "2026-11-18T17:59:50+00:00",
+      "event": "Latest News, Pakistan News, World News, Sports News and Videos",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "dunya",
+        "latest",
+        "news",
+        "pakistan",
+        "sports",
+        "videos",
+        "world"
+      ],
+      "source_excerpt": "Latest News, Pakistan News, World News, Sports News and Videos Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWWtJaU9xR2w5aWplZUV1Vzc0MUZON1ZOeEwzQVRuS0VGdXVQb1ZueXdLaEhWcW9PQzFyZ2JYcFRXcXJhN3dBa3prMlZxTXFq?oc=5",
+          "published_at": "2026-11-18T17:59:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWWtJaU9xR2w5aWplZUV1Vzc0MUZON1ZOeEwzQVRuS0VGdXVQb1ZueXdLaEhWcW9PQzFyZ2JYcFRXcXJhN3dBa3prMlZxTXFq?oc=5",
+        "publisher_url": "https://dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T17:57:30.845640+00:00"
+  "updated_at": "2026-11-18T18:54:28.202351+00:00"
 }

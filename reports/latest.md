@@ -1,32 +1,32 @@
-# News Hub report - Wed 18 Nov, 10:57 PM PKT
+# News Hub report - Wed 18 Nov, 11:54 PM PKT
 
 ## Collection
-- New items this run: 83 | items in rolling pool: 990
-- Unique story clusters: 812 (duplicates merged: 178)
-- Clusters dropped as already published/queued: 21; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 29, Profit by Pakistan Today 6, ARY News 3, The Guardian 3, Wired 3, TechJuice 3, BBC 3, Dawn 2, The News International 2, Geo News 2, Al Jazeera 2, Reuters 2
+- New items this run: 68 | items in rolling pool: 917
+- Unique story clusters: 762 (duplicates merged: 155)
+- Clusters dropped as already published/queued: 22; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 14, Jang Urdu 8, Geo News 7, The Verge 5, ARY News 3, Al Jazeera 3, Engadget 3, Ars Technica 3, TechJuice 3, samaa tv 2, The Kyiv Independent 2, Dunya News 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- PTA says submarine cable fault may cause internet connectivity issues | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan receives largest-ever 15,000-tonne LPG shipment at Port Qasim | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- World Bank official says Lebanon reconstruction making slow progress | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Inside the old gas pipeline where Ukraine is fighting an underground war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Have the courage to listen to the debate you started’: Bilawal sticks to his guns after speaking his ‘truth’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Far-right influencer Jake Lang kicked out of Dearborn council meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- PTA says submarine cable fault may cause internet connectivity issues | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan receives largest-ever 15,000-tonne LPG shipment at Port Qasim | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- World Bank official says Lebanon reconstruction making slow progress | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Inside the old gas pipeline where Ukraine is fighting an underground war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Have the courage to listen to the debate you started’: Bilawal sticks to his guns after speaking his ‘truth’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Far-right influencer Jake Lang kicked out of Dearborn council meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- PTA says submarine cable fault may cause internet connectivity issues | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan receives largest-ever 15,000-tonne LPG shipment at Port Qasim | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- World Bank official says Lebanon reconstruction making slow progress | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Inside the old gas pipeline where Ukraine is fighting an underground war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Have the courage to listen to the debate you started’: Bilawal sticks to his guns after speaking his ‘truth’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Internet services may face disruption across Pakistan: PTA | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- اسلام آباد میں گدھے اور کتوں کا 800 کلو گوشت برآمد | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Far-right influencer Jake Lang kicked out of Dearborn council meeting | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -35,106 +35,10 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan  [NORMAL]
-- Poster: سمندر پار کیبل میں خرابی، پاکستان میں انٹرنیٹ سروسز متاثر / Submarine Cable Fault Disrupts Internet Across Pakistan | category tech
-- Alternative headline: PTA Warns of Internet Slowdown Due to International Submarine Cable Fault
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxOaW9YTWZBNmtkYVd0NEpfcEh1Q0NBQXhwWXV5VW4xNzAyWG14Sm83YW9Bb3RHT0VocEJEaXc0SlhUMURTVTQxUmROcVhSOHkxdVk3cVJkaVBlX2FCOS1sMEhYX0g1ay1lTWt3T0pNVjFyck1zd0JfUmZBUGxPOHdCb2hhU2RFRGg0ZEQxNVg5ZkRsVjBickpnZVpVV2lNX1NsYUI1Szh3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxOaW9YTWZBNmtkYVd0NEpfcEh1Q0NBQXhwWXV5VW4xNzAyWG14Sm83YW9Bb3RHT0VocEJEaXc0SlhUMURTVTQxUmROcVhSOHkxdVk3cVJkaVBlX2FCOS1sMEhYX0g1ay1lTWt3T0pNVjFyck1zd0JfUmZBUGxPOHdCb2hhU2RFRGg0ZEQxNVg5ZkRsVjBickpnZVpVV2lNX1NsYUI1Szh3?oc=5
-- Supporting coverage: PhoneWorld, Dawn, Dawn Latest, Geo News, Geo News, TechJuice
-- Keywords: submarine cable fault, PTA, internet disruption, Pakistan internet, telecom, connectivity | hashtags: #PTA #InternetDisruption #Pakistan #SubmarineCable #TechNews
-- Scheduled: Wed 18 Nov, 10:57 PM PKT
-- Caption:
-```
-Internet users across Pakistan may face connectivity issues following a fault in an international submarine cable, according to the PTA.
-
-The Pakistan Telecommunication Authority (PTA) has announced that a fault in an international submarine cable may cause internet connectivity issues across the country. Users might experience slower speeds and disruptions while accessing various online services.
-
-پاکستان ٹیلی کمیونیکیشن اتھارٹی (پی ٹی اے) نے اعلان کیا ہے کہ بین الاقوامی سمندر پار کیبل میں خرابی کی وجہ سے ملک بھر میں انٹرنیٹ کنیکٹیویٹی کے مسائل پیدا ہو سکتے ہیں۔ صارفین کو آن لائن خدمات تک رسائی میں سست روی کا سامنا کرنا پڑ سکتا ہے۔
-
-First reported by Dawn; also reported by Geo News and PhoneWorld.
-
-#PTA #InternetDisruption #Pakistan #SubmarineCable #TechNews
-```
-
-### Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim  [NORMAL]
-- Poster: گوادر پورٹ پر ایل پی جی کی تاریخ کی سب سے بڑی کھیپ پہنچ گئی / Record 15,000-Tonne LPG Shipment Arrives at Port Qasim | category economy
-- Alternative headline: Largest-Ever LPG Cargo Arrives at Port Qasim Under New Policy
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/pakistan-receives-largest-ever-15000-tonne-lpg-shipment | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/pakistan-receives-largest-ever-15000-tonne-lpg-shipment
-- Supporting coverage: ARY News, Investify, Dawn Latest, TechJuice, Profit by Pakistan Today
-- Keywords: LPG shipment, Port Qasim, Pakistan economy, OGRA, petroleum division, imports | hashtags: #LPG #PortQasim #PakistanEconomy #Energy #Imports
-- Scheduled: Wed 18 Nov, 11:07 PM PKT
-- Caption:
-```
-Pakistan has received its largest-ever LPG shipment, with a record 15,000-metric-tonne cargo arriving at Port Qasim.
-
-Pakistan has received the largest liquefied petroleum gas (LPG) shipment in its history, with a record 15,000-metric-tonne cargo arriving at Port Qasim. Officials state that the increased imports aim to improve supply and help lower prices for consumers under the new petroleum policy.
-
-پاکستان کو اپنی تاریخ کی سب سے بڑی مائع پیٹرولیم گیس (ایل پی جی) کی کھیپ مل گئی ہے، جس میں پورٹ قاسم پر 15,000 میٹرک ٹن کا ریکارڈ کارگو پہنچا ہے۔ حکام کا کہنا ہے کہ اس اضافے کا مقصد سپلائی کو بہتر بنانا اور صارفین کے لیے قیمتیں کم کرنا ہے۔
-
-First reported by ARY News; also reported by Dawn.
-
-#LPG #PortQasim #PakistanEconomy #Energy #Imports
-```
-
-### World Bank Official Says Lebanon Reconstruction Making Slow Progress  [NORMAL]
-- Poster: عالمی بینک کے مطابق لبنان میں تعمیر نو کا کام سست روی کا شکار / World Bank Says Lebanon Reconstruction Making Slow Progress | category world
-- Alternative headline: Lebanon Reconstruction Faces Delays, Says World Bank Official
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss
-- Supporting coverage: WRAL, Al Jazeera
-- Keywords: Lebanon reconstruction, World Bank, Beirut, Israel occupation, Middle East, delays | hashtags: #Lebanon #WorldBank #Reconstruction #MiddleEast #News
-- Scheduled: Wed 18 Nov, 11:17 PM PKT
-- Caption:
-```
-Reconstruction efforts in Lebanon are progressing slowly, according to a World Bank official.
-
-A World Bank official has stated that reconstruction efforts in Lebanon are making slow progress. Meanwhile, Beirut has blamed Israel's ongoing occupation and attacks on southern Lebanon for causing these significant reconstruction delays.
-
-عالمی بینک کے ایک عہدیدار نے بیان دیا ہے کہ لبنان میں تعمیر نو کی کوششیں سست روی کا شکار ہیں۔ دوسری جانب، بیروت نے اسرائیل کے مسلسل قبضے اور جنوبی لبنان پر حملوں کو تعمیر نو میں تاخیر کی بنیادی وجہ قرار دیا ہے۔
-
-First reported by Al Jazeera; also reported by WRAL.
-
-#Lebanon #WorldBank #Reconstruction #MiddleEast #News
-```
-
-### Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground War  [NORMAL]
-- Poster: پرانی گیس پائپ لائن کے اندر یوکرین کی خفیہ جنگ جاری / Inside the Old Gas Pipeline Where Ukraine Fights Underground War | category war
-- Alternative headline: Ukrainian Forces Wage Underground War Inside Abandoned Gas Pipeline
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5
-- Supporting coverage: BBC, BBC World, BBC
-- Keywords: underground war Ukraine, gas pipeline, BBC report, Russia Ukraine war, frontline, conflict | hashtags: #UkraineWar #BBC #UndergroundWar #Russia #Conflict
-- Scheduled: Wed 18 Nov, 11:27 PM PKT
-- Caption:
-```
-A rare look inside an old gas pipeline reveals how Ukrainian forces are waging an underground war.
-
-A report provides a glimpse inside an old gas pipeline where Ukrainian forces are engaged in an underground war against Russian troops, highlighting unconventional tactics used on the frontlines of the ongoing conflict.
-
-ایک رپورٹ میں پرانی گیس پائپ لائن کے اندر کا منظر دکھایا گیا ہے جہاں یوکرینی دستے روسی فوج کے خلاف زیر زمین جنگ لڑ رہے ہیں، جو جاری تنازع کی غیر روایتی حکمت عملی کو ظاہر کرتا ہے۔
-
-First reported by BBC.
-
-#UkraineWar #BBC #UndergroundWar #Russia #Conflict
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
+- News posts published today: 23 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -331,8 +235,8 @@ First reported by BBC.
 - [published] normal | Sindh Launches Online Portal for Domicile and PRC Applications | Wed 18 Nov, 04:36 PM PKT
 - [needs_review] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
 - [published] normal | Grand Theft Auto VI goes live globally after 13-year wait | Wed 18 Nov, 05:38 PM PKT
-- [queued] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
-- [queued] normal | Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump | Wed 18 Nov, 06:56 PM PKT
+- [needs_review] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
+- [published] normal | Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump | Wed 18 Nov, 06:56 PM PKT
 - [queued] normal | Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile | Wed 18 Nov, 07:06 PM PKT
 - [queued] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
 - [queued] normal | Pakistan mediation in US-Iran war will fail without Washington clarity | Wed 18 Nov, 08:56 PM PKT
@@ -344,11 +248,11 @@ First reported by BBC.
 - [queued] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
 
 ## Publishing this run
-- Published 'Grand Theft Auto VI goes live globally after 13-year wait'.
+- Published 'Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 6220 | output tokens: 2109
-- Errors: 3
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -361,3 +265,11 @@ First reported by BBC.
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"
