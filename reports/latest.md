@@ -1,101 +1,106 @@
-# News Hub report - Wed 18 Nov, 04:36 PM PKT
+# News Hub report - Wed 18 Nov, 05:38 PM PKT
 
 ## Collection
-- New items this run: 157 | items in rolling pool: 730
-- Unique story clusters: 600 (duplicates merged: 130)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 63, Geo News 14, ProPakistani 9, samaa tv 5, ARY News 5, The Verge 4, Wired 4, The Current 4, The News International 3, Dunya News 3, Al Jazeera 3, The Guardian 3
+- New items this run: 141 | items in rolling pool: 828
+- Unique story clusters: 689 (duplicates merged: 139)
+- Clusters dropped as already published/queued: 22; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 100, ProPakistani 10, Al Jazeera 8, The Current 4, Dawn Latest 3, ARY News 3, Wired 2, TechJuice 2, Dawn Pakistan 1, The Verge 1, TechCrunch 1, Engadget 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Sindh starts online domicile, residence certificate service for Karachiites | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaming phenomenon 'Grand Theft Auto' goes live after 13-year wait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Malaysia opens Golden Visa Programme for Pakistanis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- After 49 years in space, Voyager 1 reaches one light-day milestone | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Human' is Cambridge Dictionary's word of the year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Sindh starts online domicile, residence certificate service for Karachiites | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaming phenomenon 'Grand Theft Auto' goes live after 13-year wait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Malaysia opens Golden Visa Programme for Pakistanis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- After 49 years in space, Voyager 1 reaches one light-day milestone | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Human' is Cambridge Dictionary's word of the year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Sindh starts online domicile, residence certificate service for Karachiites | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaming phenomenon 'Grand Theft Auto' goes live after 13-year wait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'He who claims equity must come with clean hands': Asif hits back at Bilawal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Malaysia opens Golden Visa Programme for Pakistanis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- After 49 years in space, Voyager 1 reaches one light-day milestone | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Human' is Cambridge Dictionary's word of the year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 96/107 | empty: 2 | failed: 9 | malformed/partial: 9
-- Trusted publisher desks with at least one healthy source: 10/10
+- Overall feeds with entries: 25/107 | empty: 1 | failed: 81 | malformed/partial: 82
+- Trusted publisher desks with at least one healthy source: 4/10
+- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Hum News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Security Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Reuters | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Electricity | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Al Jazeera India politics | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Geo News, Samaa, Express News, The News International, Dunya News, Dunya News TV
 
 ## Selected for the queue
-### Sindh Launches Online Portal for Domicile and PRC Applications  [NORMAL]
-- Poster: سندھ نے کراچی کے لیے آن لائن ڈومیسائل اور پی آر سی سروس شروع کردی / Sindh Launches Online Domicile and PRC Service for Karachi | category other
-- Alternative headline: Sindh Starts Online Domicile and Residence Certificate Service in Karachi
+### Grand Theft Auto VI goes live globally after 13-year wait  [NORMAL]
+- Poster: سیریز کے نئے گیم جی ٹی اے سکس کا انتظار ختم / Grand Theft Auto VI launches after 13 years | category other
+- Alternative headline: GTA VI shatters records with massive launch after 13 years
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWV4a053S1Y3QXMwV3lwcTBkdjhUa29UQkZwSjdWU2hvX0dPYzYtZ1ByYTloNDJIRU0xbU5OSXpyMS1ERzVBUm8yQjBnSUx6bHI2NWs0WV81UmIwSnRoRy1fblFySVRWX0dxQTlTcG80dUtqQWh0eXlSaklWZ29ONWI1RnJsbG9lX3ZrX0RoUkJiZUNNbFNpclBRM3lRMjJrblN0MHVCZWd6YW0w?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWV4a053S1Y3QXMwV3lwcTBkdjhUa29UQkZwSjdWU2hvX0dPYzYtZ1ByYTloNDJIRU0xbU5OSXpyMS1ERzVBUm8yQjBnSUx6bHI2NWs0WV81UmIwSnRoRy1fblFySVRWX0dxQTlTcG80dUtqQWh0eXlSaklWZ29ONWI1RnJsbG9lX3ZrX0RoUkJiZUNNbFNpclBRM3lRMjJrblN0MHVCZWd6YW0w?oc=5
-- Supporting coverage: ProPakistani, Dawn, Dawn Pakistan, TechJuice, ProPakistani
-- Keywords: online domicile service, Sindh government, PRC certificate, Karachi residents, digital portal | hashtags: #Sindh #Karachi #Domicile #DigitalPakistan
-- Scheduled: Wed 18 Nov, 04:36 PM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045422/gaming-phenomenon-grand-theft-auto-goes-live-after-13-year-wait | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2045422/gaming-phenomenon-grand-theft-auto-goes-live-after-13-year-wait
+- Supporting coverage: TechJuice, The Verge, Ars Technica, The Verge, Wired, Dawn Latest
+- Keywords: Grand Theft Auto VI, GTA VI, Rockstar Games, video game launch, Sensor Tower, PlayStation 5 | hashtags: #GTAVI #GrandTheftAuto #Gaming #RockstarGames #TechNews
+- Scheduled: Wed 18 Nov, 05:38 PM PKT
 - Caption:
 ```
-Karachi residents can now apply for their domicile and permanent residence certificates online through a newly launched portal by the Sindh government.
+Thirteen years after the last release, the most expensive and profitable video game ever developed is finally live.
 
-The Sindh government has launched an online portal enabling residents of Karachi to apply for domicile and Permanent Residence Certificates (PRC) digitally. This service aims to streamline the application process and provide greater convenience for citizens seeking official documentation.
+After 13 years of waiting, the latest instalment of Grand Theft Auto has officially gone live. Available on PlayStation 5 and Xbox Series consoles, specialists estimate advance sales have already surpassed 15 million units, bringing in over $1.5 billion in revenue before release.
 
-سندھ حکومت نے کراچی کے رہائشیوں کے لیے ڈومیسائل اور مستقل رہائشی سرٹیفکیٹ (پی آر سی) کے لیے آن لائن پورٹل کا آغاز کر دیا ہے۔ اس سروس کا مقصد شہریوں کے لیے درخواست دینے کے عمل کو آسان بنانا اور سہولت فراہم کرنا ہے۔
+تیرہ سال کے انتظار کے بعد گرینڈ تھیফٹ آٹو کا نیا ورژن جاری کر دیا گیا ہے۔ پلے اسٹیشن 5 اور ایکس باکس سیریز کے لیے دستیاب اس گیم نے ریلیز سے قبل ہی پندرہ ملین سے زائد یونٹس کی فروخت کے ساتھ ڈیڑھ ارب ڈالر سے زائد کی آمدنی حاصل کر لی ہے۔
 
-First reported by Dawn.
+First reported by Dawn Latest
 
-#Sindh #Karachi #Domicile #DigitalPakistan
+#GTAVI #GrandTheftAuto #Gaming #RockstarGames #TechNews
 ```
 
-### Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come With Clean Hands'  [NORMAL]
-- Poster: انصاف مانگنے والوں کے ہاتھ بھی صاف ہونے چاہئیں: خواجہ آصف کا بلاول پر سخت ردعمل / Khawaja Asif hits back at Bilawal Bhutto over criticism | category politics
-- Alternative headline: Asif Responds to Bilawal's Criticism Amid Deepening Coalition Tensions
+### NASA's Voyager 1 probe reaches one light-day milestone  [NORMAL]
+- Poster: وویجر 1 نے خلا میں سفر کرتے ہوئے ایک نوری دن کا فاصلہ طے کر لیا / Voyager 1 reaches one light-day distance from Earth | category other
+- Alternative headline: After 49 years in space, Voyager 1 hits one light-day distance
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045397/he-who-claims-equity-must-come-with-clean-hands-asif-hits-back-at-bilawal | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045397/he-who-claims-equity-must-come-with-clean-hands-asif-hits-back-at-bilawal
-- Supporting coverage: Dawn Pakistan, Dawn, The Express Tribune
-- Keywords: Khawaja Asif, Bilawal Bhutto Zardari, PML-N, PPP, coalition tensions, governance | hashtags: #KhawajaAsif #BilawalBhutto #PMLN #PPP #PakPolitics
-- Scheduled: Wed 18 Nov, 04:46 PM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045417/after-49-years-in-space-voyager-1-reaches-one-light-day-milestone | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2045417/after-49-years-in-space-voyager-1-reaches-one-light-day-milestone
+- Supporting coverage: Dawn Latest, ARY News, Engadget, Dawn Latest, The Verge
+- Keywords: Voyager 1, NASA, space probe, light-day milestone, interstellar space | hashtags: #Voyager1 #NASA #SpaceExploration #ScienceNews #Astronomy
+- Scheduled: Wed 18 Nov, 05:48 PM PKT
 - Caption:
 ```
-Defence Minister Khawaja Asif responded sharply to PPP Chairman Bilawal Bhutto-Zardari, stating that those demanding equity must have clean hands.
+Nearly 50 years after launch, NASA's Voyager 1 has reached a historic distance of one light-day from Earth.
 
-Defence Minister Khawaja Asif criticized PPP Chairperson Bilawal Bhutto-Zardari following Bilawal's speech addressing constitutional tweaks, governance issues, and the creation of new provinces. Asif remarked that anyone claiming equity must come with clean hands, highlighting strains within the ruling coalition.
+Nasa’s Voyager 1 probe has reached a milestone distance of one light-day away from Earth after nearly 50 years of space travel. The spacecraft is now about 26 billion kilometres away, making it the most distant man-made object in the universe.
 
-وفاقی وزیر دفاع خواجہ آصف نے پی پی پی کے چیئرمین بلاول بھٹو زرداری کی حکومت پر تنقید کے جواب میں کہا ہے کہ انصاف کا مطالبہ کرنے والوں کے اپنے ہاتھ بھی صاف ہونے چاہئیں، جس سے حکومتی اتحاد میں بڑھتی ہوئی کشیدگی ظاہر ہوتی ہے۔
+ناسا کا وویجر 1 خلائی جہاز خلا میں تقریباً پچاس سال کے سفر کے بعد زمین سے ایک نوری دن کے فاصلے تک پہنچ گیا ہے۔ یہ خلائی جہاز اب زمین سے تقریبا چھبیس ارب کلومیٹر دور ہے، جو اسے کائنات میں انسان کی بنائی ہوئی سب سے دور چیز بناتا ہے۔
 
-First reported by Dawn Pakistan.
+First reported by Dawn Latest
 
-#KhawajaAsif #BilawalBhutto #PMLN #PPP #PakPolitics
+#Voyager1 #NASA #SpaceExploration #ScienceNews #Astronomy
 ```
 
-- Indian outlets blocked this run: 10 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -274,10 +279,10 @@ First reported by Dawn Pakistan.
 - [needs_review] normal | PTI questions Bilawal’s late realisation of people’s hardships | Wed 18 Nov, 10:05 AM PKT
 - [needs_review] normal | Balochistan MPs pledge resolution backing journalists | Wed 18 Nov, 10:15 AM PKT
 - [published] normal | Saudi Firm Signs Pact To Explore $30 Billion Energy Infrastructure Dea | Wed 18 Nov, 10:49 AM PKT
-- [queued] normal | Global Apple Outage Disrupts Key Services Including iCloud And Apple P | Wed 18 Nov, 10:59 AM PKT
-- [queued] normal | Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Proj | Wed 18 Nov, 11:09 AM PKT
-- [queued] normal | Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar | Wed 18 Nov, 11:19 AM PKT
-- [queued] normal | Dawn Publishes Editorial Cartoon Reflecting Daily National Affairs For | Wed 18 Nov, 11:53 AM PKT
+- [needs_review] normal | Global Apple Outage Disrupts Key Services Including iCloud And Apple P | Wed 18 Nov, 10:59 AM PKT
+- [needs_review] normal | Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Proj | Wed 18 Nov, 11:09 AM PKT
+- [needs_review] normal | Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar | Wed 18 Nov, 11:19 AM PKT
+- [published] normal | Dawn Publishes Editorial Cartoon Reflecting Daily National Affairs For | Wed 18 Nov, 11:53 AM PKT
 - [queued] normal | Iran Army Claims Targeting US Military Equipment At Kuwait Base | Wed 18 Nov, 12:03 PM PKT
 - [queued] normal | Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump | Wed 18 Nov, 12:13 PM PKT
 - [queued] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
@@ -291,12 +296,20 @@ First reported by Dawn Pakistan.
 - [queued] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
 - [queued] normal | Sindh Launches Online Portal for Domicile and PRC Applications | Wed 18 Nov, 04:36 PM PKT
 - [queued] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
+- [queued] normal | Grand Theft Auto VI goes live globally after 13-year wait | Wed 18 Nov, 05:38 PM PKT
+- [queued] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
 
 ## Publishing this run
-- Published 'Saudi Firm Signs Pact To Explore $30 Billion Energy Infrastructure Deal In Pakistan'.
+- Published 'Dawn Publishes Editorial Cartoon Reflecting Daily National Affairs For November 18'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6462 | output tokens: 2445
+- Calls: 3 | prompt tokens: 6708 | output tokens: 2330
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
