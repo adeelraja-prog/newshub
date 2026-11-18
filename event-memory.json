@@ -57763,7 +57763,328 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4582ddd205a67786d8f2e855",
+      "remembered_at": "2026-11-18T03:42:42.444497+00:00",
+      "event_date": "2026-11-17T21:24:22+00:00",
+      "last_update": "2026-11-18T02:47:12+00:00",
+      "event": "Man sentenced to over 27 years in US for plot to assassinate Trump",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assassinate",
+        "dawn",
+        "for",
+        "man",
+        "over",
+        "plot",
+        "sentenced",
+        "trump",
+        "years"
+      ],
+      "source_excerpt": "Man sentenced to over 27 years in US for plot to assassinate Trump Dawn",
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGlHQUNtQmRSWkFPWW8tR2lmZm44SGdNVWdwZnNjdHh6RHBMWDJqSWQxUkl6RzhzUDRXV2pyMXEyNGx0d3dZeENnZnU4amNzclRUcEdnODRET05qcUJyVmtXaGlBdXprb3RJWEdmUDFVVzhUMnlNTkNHX2RsWEtISzZza1V0dnB4UUYyRFVNRHIwRFprS2g3SlM5bXNjbXNBbG5ab25HU0ktRGZfVVc3SmgxX2xoc0o2OXl1dFo0MjRaZGc?oc=5",
+          "published_at": "2026-11-17T21:24:22+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFF4Mk40UGZ5TzFfVHRSeGppcEpVX3ptRmkyYk1mbDhURi04d0wtZUF2MUYtWmpvcUVWMXJRMHRFeVFoTDVIX2NabER1X3hjbEg5OGpiVTdTSk1kX2VUaWUwWG9vVFdvMURnRUpaSkpZQ3FpT3dQQmlkcG9zMXNIOWtmbU5TeVNLXzZ0WWhNdw?oc=5",
+          "published_at": "2026-11-18T00:21:00+00:00"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQjJ1M0lSbVJxODBxcUE1emJmYnpNcllxSnhjYU5LZ3hRLXcxR082V3FURGI3eTBjZTlMZUgyZjkxRzZBWGZWRUdQN08yaWRkczhfLU9TNmdoNnJEa1R0cjdVWmRxT0U3SUMtdk0yWG1sQmpHMmhPNGJHLWVURGo4eU5FekI5dW9ObTlZRnVpRTlNZmtHc1JlVGVR?oc=5",
+          "published_at": "2026-11-18T01:01:39+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGN3aXNPTlhpT2FPblBmeDhPeGZCdW9JMTFHM1lya1BKTklzVW5XS2NEWnhyNHJFc19MR2ZXTHFEd3R5UGs4aW1zN3BtbWp2Q3EwWXpFaE9ER2pjbWFrOGlJV25EOHBhX1BnV0hRMlJjaTExLXhGa3ZGUFE5UkhfZ0djVV9NTGp0TVlQelhPNEtOSG9nSTZ0NGx0QmlHd0o2UkE?oc=5",
+          "published_at": "2026-11-18T02:47:12+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045363/man-sentenced-to-over-27-years-in-us-for-plot-to-assassinate-trump",
+          "published_at": "2026-11-18T02:47:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGN3aXNPTlhpT2FPblBmeDhPeGZCdW9JMTFHM1lya1BKTklzVW5XS2NEWnhyNHJFc19MR2ZXTHFEd3R5UGs4aW1zN3BtbWp2Q3EwWXpFaE9ER2pjbWFrOGlJV25EOHBhX1BnV0hRMlJjaTExLXhGa3ZGUFE5UkhfZ0djVV9NTGp0TVlQelhPNEtOSG9nSTZ0NGx0QmlHd0o2UkE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "634d4be82538fe4de7d575e0",
+      "remembered_at": "2026-11-18T03:42:42.444497+00:00",
+      "event_date": "2026-11-18T03:28:41+00:00",
+      "last_update": "2026-11-18T03:28:41+00:00",
+      "event": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alaska",
+        "and",
+        "another",
+        "called",
+        "challenges",
+        "contest",
+        "democratic",
+        "faces",
+        "flips",
+        "for",
+        "fought",
+        "hard",
+        "last",
+        "legal",
+        "likely",
+        "mary",
+        "peltola",
+        "seat",
+        "senate",
+        "the",
+        "win"
+      ],
+      "source_excerpt": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+          "published_at": "2026-11-18T03:28:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e6d2f5f796bb3a5bc079b138",
+      "remembered_at": "2026-11-18T03:42:42.444497+00:00",
+      "event_date": "2026-11-18T03:00:22+00:00",
+      "last_update": "2026-11-18T03:00:22+00:00",
+      "event": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "130bn",
+        "amid",
+        "board",
+        "calls",
+        "chair",
+        "chip",
+        "does",
+        "down",
+        "earnings",
+        "for",
+        "giant",
+        "huang",
+        "intend",
+        "jensen",
+        "not",
+        "nvidia",
+        "projects",
+        "reinstate",
+        "return",
+        "revenues",
+        "says",
+        "shoots",
+        "strong"
+      ],
+      "source_excerpt": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+          "published_at": "2026-11-18T03:00:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "97c2b32e3e073821192d8728",
+      "remembered_at": "2026-11-18T03:42:42.444497+00:00",
+      "event_date": "2026-11-18T02:36:09+00:00",
+      "last_update": "2026-11-18T02:36:09+00:00",
+      "event": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activities",
+        "advocates",
+        "amazon",
+        "awa",
+        "brazil",
+        "grave",
+        "group",
+        "groups",
+        "highlight",
+        "illegal",
+        "images",
+        "indigenous",
+        "like",
+        "pose",
+        "rare",
+        "risks",
+        "say",
+        "the",
+        "threats",
+        "uncontacted"
+      ],
+      "source_excerpt": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+          "published_at": "2026-11-18T02:36:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "10cdd34b03bb748cacc8b84f",
+      "remembered_at": "2026-11-18T03:42:42.444497+00:00",
+      "event_date": "2026-11-18T03:07:22+00:00",
+      "last_update": "2026-11-18T03:07:22+00:00",
+      "event": "Waymo temporarily pulls driverless taxis from all US freeways",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "all",
+        "banned",
+        "california",
+        "comes",
+        "decision",
+        "driverless",
+        "following",
+        "freeways",
+        "from",
+        "highways",
+        "incidents",
+        "operating",
+        "pulls",
+        "series",
+        "state",
+        "taxis",
+        "temporarily",
+        "the",
+        "traffic",
+        "vehicles",
+        "waymo"
+      ],
+      "source_excerpt": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T03:07:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c4b3180269f7e437256d2114",
+      "remembered_at": "2026-11-18T03:42:42.444497+00:00",
+      "event_date": "2026-11-18T02:10:08+00:00",
+      "last_update": "2026-11-18T02:10:08+00:00",
+      "event": "Bahrain says air defences intercepted Iranian attacks",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "attacks",
+        "bahrain",
+        "dawn",
+        "defences",
+        "intercepted",
+        "iranian",
+        "says"
+      ],
+      "source_excerpt": "Bahrain says air defences intercepted Iranian attacks Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXdPSzE5eGFUUHpPTE5SSUs4SlF2bnRxT3FzT3g0VU9wX2I1REVQREdzWUJBNG50dFlha216MlhlVDZJSnlJVzlPODIzdWgzaEVxWWFDaVN0UVl3T2tNVWozNGd5UFJjdXJDVndnTjcwaFF1ZmRza2NQeF9VWlluUTJXUVBTZm43eGtlME9mSjI?oc=5",
+          "published_at": "2026-11-18T02:10:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXdPSzE5eGFUUHpPTE5SSUs4SlF2bnRxT3FzT3g0VU9wX2I1REVQREdzWUJBNG50dFlha216MlhlVDZJSnlJVzlPODIzdWgzaEVxWWFDaVN0UVl3T2tNVWozNGd5UFJjdXJDVndnTjcwaFF1ZmRza2NQeF9VWlluUTJXUVBTZm43eGtlME9mSjI?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T02:48:07.396378+00:00"
+  "updated_at": "2026-11-18T03:42:42.444497+00:00"
 }
