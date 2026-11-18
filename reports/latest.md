@@ -1,116 +1,45 @@
-# News Hub report - Wed 18 Nov, 06:56 PM PKT
+# News Hub report - Wed 18 Nov, 07:53 PM PKT
 
 ## Collection
-- New items this run: 193 | items in rolling pool: 930
-- Unique story clusters: 764 (duplicates merged: 166)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 100, Geo News 23, Al Jazeera 6, ProPakistani 6, Dawn 5, TechJuice 5, Dawn Latest 4, ARY News 4, samaa tv 2, The News International 2, Dawn Pakistan 2, PhoneWorld 2
+- New items this run: 160 | items in rolling pool: 1000
+- Unique story clusters: 815 (duplicates merged: 185)
+- Clusters dropped as already published/queued: 22; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 100, Al Jazeera 10, ProPakistani 8, TechJuice 4, Dawn 3, Dawn Latest 3, X 3, The Guardian 3, Geo News 2, ARY News 2, The Verge 2, The News International 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan conducts successful launch of Fatah-3 supersonic cruise missile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Editorial: Efforts by Pakistan or others to mediate the US-Iran war will not bear fruit unless there is clarity in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Human' is Cambridge Dictionary's word of the year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asean secretary general to undertake working visit to Pakistan from Nov 18-20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan conducts successful launch of Fatah-3 supersonic cruise missile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Editorial: Efforts by Pakistan or others to mediate the US-Iran war will not bear fruit unless there is clarity in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Human' is Cambridge Dictionary's word of the year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asean secretary general to undertake working visit to Pakistan from Nov 18-20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Xi, Putin meet ahead of historic Trump trilateral summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan conducts successful launch of Fatah-3 supersonic cruise missile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Editorial: Efforts by Pakistan or others to mediate the US-Iran war will not bear fruit unless there is clarity in Washington | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan struggle against Sri Lanka despite extending lead in second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bancroft says 'whole team' knew about 'Sandpapergate' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Human' is Cambridge Dictionary's word of the year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia to open 'Sandpapergate' forum but no new probe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asean secretary general to undertake working visit to Pakistan from Nov 18-20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Pakistan National Politics | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump  [NORMAL]
-- Poster: شی جن پنگ اور پیوٹن کی ٹرمپ سے ملاقات سے قبل شینزین میں ملاقات / Xi and Putin meet ahead of Trump summit | category world
-- Alternative headline: China and Russia Hold Talks Ahead of High-Stakes Summit With Trump
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/xi-putin-meet-ahead-trump-trilateral-summit | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/xi-putin-meet-ahead-trump-trilateral-summit
-- Supporting coverage: ARY News, Bloomberg.com, Dawn Latest, CNBC, Al Jazeera, Dawn Latest
-- Keywords: Trump Xi Putin summit, Shenzhen summit, China Russia talks, Ukraine war, APEC meeting | hashtags: #XiJinping #VladimirPutin #DonaldTrump #China #Summit
-- Scheduled: Wed 18 Nov, 06:56 PM PKT
-- Caption:
-```
-Chinese leader Xi Jinping and Russian counterpart Vladimir Putin have begun talks in Shenzhen ahead of a historic three-way summit with Donald Trump.
-
-Chinese leader Xi Jinping and Russian counterpart Vladimir Putin began talks in Shenzhen, a day ahead of a historic three-way summit with US President Donald Trump. The meeting has sparked concerns among Ukraine's allies over potential discussions regarding regional spheres of influence, while global issues like nuclear stability and the Iran conflict are also on the agenda.
-
-چینی صدر شی جن پنگ اور روسی ہم منصب ولادیمیر پیوٹن نے امریکی صدر ڈونلڈ ٹرمپ کے ساتھ تاریخی سہ فریقی سربراہی اجلاس سے ایک روز قبل شینزین میں مذاکرات کا آغاز کر دیا۔ اس ملاقات نے یوکرین کے حامیوں میں تشویش پیدا کر دی ہے، جبکہ ایٹمی استحکام اور ایران کے تنازع جیسے عالمی امور بھی ایجنڈے میں شامل ہیں۔
-
-First reported by ARY News
-
-#XiJinping #VladimirPutin #DonaldTrump #China #Summit
-```
-
-### Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile  [NORMAL]
-- Poster: پاک فوج نے فتح تھری سپرسونک کروز میزائل کا کامیاب تجربہ کر لیا / Pakistan successfully tests Fatah-3 missile | category security
-- Alternative headline: ISPR Announces Successful Test Launch of Fatah-3 Supersonic Missile
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691660-pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691660-pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile
-- Supporting coverage: Geo News, Geo News, Dawn, ProPakistani, The Express Tribune, TechJuice
-- Keywords: Fatah-3 missile, Pakistan Army, ISPR, supersonic cruise missile, military test | hashtags: #Fatah3 #PakistanArmy #ISPR #PakistanDefense #MissileTest
-- Scheduled: Wed 18 Nov, 07:06 PM PKT
-- Caption:
-```
-The Pakistan Army has successfully conducted a test launch of the Fatah-3 supersonic cruise missile, enhancing the country's conventional deterrence.
-
-The Pakistan Army has successfully conducted a test launch of the Fatah-3 supersonic cruise missile, according to the Inter-Services Public Relations (ISPR). Equipped with advanced navigation and propulsion, the missile aims to boost the operational reach and deterrence capabilities of the Army's Rocket Force Command.
-
-پاک فوج نے شعبہ تعلقات عامہ (آئی ایس پی آر) کے مطابق فتح تھری سپرسونک کروز میزائل کا کامیاب تجربہ کیا ہے۔ جدید نیویگیشن اور پروپلشن سسٹمز سے لیس یہ میزائل پاک فوج کی راکٹ فورس کمانڈ کی صلاحیتوں اور روایتی ڈیٹرنس کو مزید مستحکم کرے گا۔
-
-First reported by Geo News
-
-#Fatah3 #PakistanArmy #ISPR #PakistanDefense #MissileTest
-```
-
-### 'Human' Named Cambridge Dictionary's Word of the Year for 2026  [NORMAL]
-- Poster: کیمبرج ڈکشنری نے 'ہیومن' کو سال 2026 کا بہترین لفظ قرار دے دیا / 'Human' is Cambridge Dictionary's word of the year | category other
-- Alternative headline: Cambridge Dictionary Selects 'Human' as 2026 Word of the Year
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045394/human-is-cambridge-dictionarys-word-of-the-year | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2045394/human-is-cambridge-dictionarys-word-of-the-year
-- Supporting coverage: Dawn Latest, samaa tv, ProPakistani, Geo News, Geo News
-- Keywords: Cambridge Dictionary word of the year, Human word of the year, Artificial Intelligence, Cambridge University Press | hashtags: #CambridgeDictionary #WordOfTheYear #Human #ArtificialIntelligence
-- Scheduled: Wed 18 Nov, 07:16 PM PKT
-- Caption:
-```
-Amid the rapid expansion of Artificial Intelligence, Cambridge Dictionary has named 'human' its Word of the Year for 2026.
-
-Cambridge Dictionary has named 'human' its Word of the Year for 2026, capturing the global zeitgeist amid anxieties and discussions surrounding the rapid rise of Artificial Intelligence and its impact on human employment and identity.
-
-کیمبرج ڈکشنری نے مصنوعی ذہانت (AI) کے بڑھتے ہوئے اثرات اور انسانی روزگار کے حوالے سے خدشات کے پیش نظر 'ہیومن' (Human) کو سال 2026 کا بہترین لفظ قرار دیا ہے۔
-
-First reported by Dawn Latest
-
-#CambridgeDictionary #WordOfTheYear #Human #ArtificialIntelligence
-```
-
 - Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -297,9 +226,9 @@ First reported by Dawn Latest
 - [needs_review] normal | Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump | Wed 18 Nov, 12:13 PM PKT
 - [needs_review] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
 - [published] normal | Democrat Mary Peltola flips Alaska Senate seat, clinching 56-44 majori | Wed 18 Nov, 01:17 PM PKT
-- [queued] normal | Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run | Wed 18 Nov, 01:27 PM PKT
-- [queued] normal | Rahim Yar Khan man arrested after fake suicide drama killed rescue div | Wed 18 Nov, 01:37 PM PKT
-- [queued] normal | GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch | Wed 18 Nov, 02:27 PM PKT
+- [needs_review] normal | Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run | Wed 18 Nov, 01:27 PM PKT
+- [needs_review] normal | Rahim Yar Khan man arrested after fake suicide drama killed rescue div | Wed 18 Nov, 01:37 PM PKT
+- [published] normal | GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch | Wed 18 Nov, 02:27 PM PKT
 - [queued] normal | Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperati | Wed 18 Nov, 02:37 PM PKT
 - [queued] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
 - [queued] normal | Sri Lanka Fight Back Strongly to Reduce Pakistan to 221-7 in Second Te | Wed 18 Nov, 03:30 PM PKT
@@ -313,11 +242,11 @@ First reported by Dawn Latest
 - [queued] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
 
 ## Publishing this run
-- Published 'Democrat Mary Peltola flips Alaska Senate seat, clinching 56-44 majority'.
+- Published 'GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6591 | output tokens: 2507
-- Errors: 2
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -326,3 +255,15 @@ First reported by Dawn Latest
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"

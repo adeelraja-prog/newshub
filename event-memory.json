@@ -64965,7 +64965,648 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5897191d7faba5e54576f950",
+      "remembered_at": "2026-11-18T14:53:24.277618+00:00",
+      "event_date": "2026-11-18T07:24:36+00:00",
+      "last_update": "2026-11-18T14:38:21+00:00",
+      "event": "Editorial: Efforts by Pakistan or others to mediate the US-Iran war will not bear fruit unless there is clarity in Washington",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045358",
+        "bear",
+        "clarity",
+        "com",
+        "dawn",
+        "editorial",
+        "efforts",
+        "fruit",
+        "https",
+        "iran",
+        "mediate",
+        "news",
+        "not",
+        "others",
+        "pakistan",
+        "stalemate",
+        "the",
+        "there",
+        "unless",
+        "untenable",
+        "war",
+        "washington",
+        "will",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045358/untenable-stalemate",
+      "sources": [
+        {
+          "name": "ISNA News Agency",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1VrbjlhU0pETGI2ZzFWU1Bpb01RQXlOUE5pTU5vZFMwUE04WGQxUURIR3Zqb0pQb1dVRkxlSXZFejdCdWRHeDhxLW1OTkNMamxSUFlIelNXUmMwOWZPWnVDSUZySnZISmkzdDM1ZlJNanp1aVA5QkRQZWV0VWQwWVMxeS11Z1BtaUpocGQ1bGhJemNMNU53WGRjaWlWOG9meTlj0gFOQVVfeXFMT1hWSVFiVnRSMjJtRGtJd2lseFJqYmxlMXdzckp1UVE5SFdDWndDVTY0ZUplU3ZjandiaWZCQ09fMTh6S3Y2UG5DYWdHbThB?oc=5",
+          "published_at": "2026-11-18T07:24:36+00:00"
+        },
+        {
+          "name": "Irish Independent",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcTJ0UkVWUm9YYVlwWERMRW5jS0FJZnItSXhXWGlYak1ka2xqQkd4dEJpQnFrOW9abjNDVWY2bXhBTDloUGhoQk0yTkRVUkhnUHNjOWM5Vm9oSEFEd2sybVJnT3c5UjItaFV6Z0xZQzhfOWJ1VlZoNV84UEdVQUtwbFpsZGpzZTZFM2VtVi1jRTdGWTBlbFZ6MTFhcTM0aEszVmlUcEZQUGoxRHZYZk1MUXJ4c04zZFZUOW41a3dlSGtPM0dLUlhRRXpNNi0?oc=5",
+          "published_at": "2026-11-18T07:30:00+00:00"
+        },
+        {
+          "name": "Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUt6SDl0ZXdXSnBnV0x6V0p0VjJvUTh1SjJiQ3NlRDlMMEJQUzhaQ2NjS2F5U0FXblJHWjVJWUhWRDZzNVZHdGVpcVVvd3hLYy1XdFlZb1h3cU5OZURYWE1QdFNLY1NaSEpVeTZpWXhzcTR0MVNSaDh1RVBTQXZlZ25OanNzUkJicS1QWlFSUDd5SmJ5NTFlU0oxRHdiX3dRWXVveU9oZ9IBtwFBVV95cUxPWThSaFJuTVE0dDRtLW9kMHJfUkh1WUs0M3NEajlFS0pyLV96bWpiTHoxa2ZXeDQwajgwZEMwaDVqQUNFSUtLLTE3YmVhSnpkYjNfTjM4MnBEdFhta1lLTThKSks2cG5YdzVUYkRqeTBWODNua2RQTkQ1ZWZYVTZVNHR5UnlxT2FwSzF2MmtSX3Z5YXZGWktMeVFrTnJLcG5aTkRKWWJJMElseW55X2c1a2R2a0VEdGM?oc=5",
+          "published_at": "2026-11-18T07:51:16+00:00"
+        },
+        {
+          "name": "Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcEZ1Vl9Db3ZpRUljNTdQZVczWjV6cmdySl9jaDZsWGFWODVGT19ZVDkzRHRrbTRYMlZWR3F4bzVwWEsweHk2WnlWdDRnX2ZzelJXT1hJcmVaSkRkY1FzTDltQzdidE1TZ09QN2xKUWVGN1lkdG9BQ2d5WEF2VGxWcmUyc1RDeUczN29iblFfcm9pZkVhajRVeXhzWTBxV0RDNWpOa3ZxSk16Wk9KYVprTmpWSkR6dUhEcEFXMWRLSXBta0RRM3ZWenBYVTVKN04xTkg1eTQ4aGpaVkhCTFBzOXhB0gH0AUFVX3lxTE1UVGllQ3VFbjNCbzVKUW93WEU1dFB6QXd6VVgtR0lyM2dCbzQwN2x1ZkhfMU9tdkhNMm55dTRfLTNVdTBtbF94SERreVdpV3ZwWEhqTlUyZXA4NEREQkRMUl9mOWRQWVhFdEdJb29Zbk8tdzgxR0xlbE40Zk8wZlBpYWplQmZ5eW1leG9FOTdIeG9OU1lZTngxRW1TOUFKWlFSendIV3NXbHk0TDBSSGRYaDBSZzdweUJHLVhiVkNjNGxLaHNaZERtX3h1REdZNWtiRnphcFZycFRWNFB2ZEFpSHFnZV93NGxCQnp2amxYT0U3T0U?oc=5",
+          "published_at": "2026-11-18T09:09:40+00:00"
+        },
+        {
+          "name": "The National",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdScFFjTlhtU25LQmJvdEp1Vk5qZ3FtTFE3RkdXUzVDZFgtSnY3MkhTeW82UW9QTWVibnVQb2Nyb1RVYWlFTlpyd3JCdjIzVnV1QmVxUEUyTDhzWXdrZUhPN0N6aUxrYWN3NXdWcVNQeUtFVnFPMHRvSURyTFpMY0tvWmxoZ014aS1iWjVsMnRCVHFDeVhjcllvYw?oc=5",
+          "published_at": "2026-11-18T09:25:16+00:00"
+        },
+        {
+          "name": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeVpBZEVuWDhTaUdiQ1NyQzdzYkdqUmswSXNzYUZtQ0d6RVpwWTVzZjRncm5CS2tjYkNPYkJfU01qU3hQNU43SzhNdURCeHN1X1gxb0hUMDJSRkdfdXJ4QzVZYXo0OVVWU1BRSUU0WHYxSkRpU0VVMmhOeUxjbU02MVE2OTN6MXRhTGhQU3pjUEFyTTJQWGV0X1FndUpUckZMWTJIcXdkSHNFbUlZYnZtX3hPMm11U0trN180ZlFiWElaZDliVlFUQWlpZ9IBywFBVV95cUxNeGU0YmRYalRmMGQwRTlBaEhtamd5VEJnV2l1UjBNMTdCVTNPcUprWUZUeXNFLU1NYkRsNnE1aC01emVOcUllTGY5UnJZN3plZkV0Mno4eW10RFhOOHRBQlpVd09iVV8wc0wxSWZhRUJaNDh5SzdLR1BKTllBcFVOVjVMSFpIZmZkZzlMc1pMMnB1S01DR25oaGh5bm9sR2dtakFlclRHVU9KbG50eXlBOGRNeDFlNl90bEhjenBabDUyWHg1X2ZVd2NBYw?oc=5",
+          "published_at": "2026-11-18T09:28:58+00:00"
+        },
+        {
+          "name": "https://www.engine.online/",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpOS2NhNW5pekJQWEpwWFQ4dEIwUVBnMHZyRFAwNGpTWVlnLVgzbmsxZXJmRUtKTDlUaWlPTVJFajlvMC01Z1BuNnNWb3VPUW5MS0JZLUcyX2FROFNIOEJ2YWhIa2pWcVk1aGlLbmR4MEprQmE5bVc3dGp6dW1LTnhNYmx4dU43Ulp2VG1IZmpGR2VvS0pmOU90TGxZZVZCZUpCSA?oc=5",
+          "published_at": "2026-11-18T09:49:06+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045433/editorial-efforts-by-pakistan-or-others-to-mediate-the-us-iran-war-will-not-bear-fruit-unless-there-is-clarity-in-washington",
+          "published_at": "2026-11-18T13:33:34+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045433/editorial-efforts-to-mediate-the-us-iran-war-will-not-bear-fruit-unless-there-is-clarity-in-washington",
+          "published_at": "2026-11-18T14:00:36+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
+          "published_at": "2026-11-18T14:13:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045433/editorial-efforts-by-pakistan-or-others-to-mediate-the-us-iran-war-will-not-bear-fruit-unless-there-is-clarity-in-washington",
+        "publisher_url": "https://www.dawn.com/news/2045433/editorial-efforts-by-pakistan-or-others-to-mediate-the-us-iran-war-will-not-bear-fruit-unless-there-is-clarity-in-washington",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0cebbe2a647d2987af07d227",
+      "remembered_at": "2026-11-18T14:53:24.277618+00:00",
+      "event_date": "2026-11-18T11:19:47+00:00",
+      "last_update": "2026-11-18T14:13:49+00:00",
+      "event": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "and",
+        "board",
+        "body",
+        "both",
+        "ceasefire",
+        "collapse",
+        "commitments",
+        "conditions",
+        "danger",
+        "dire",
+        "donald",
+        "end",
+        "failing",
+        "failure",
+        "faults",
+        "for",
+        "gaza",
+        "hamas",
+        "hostilities",
+        "israel",
+        "leaving",
+        "meet",
+        "overseeing",
+        "page",
+        "peace",
+        "plan",
+        "population",
+        "president",
+        "report",
+        "reuter",
+        "seen",
+        "the",
+        "their",
+        "trump",
+        "war"
+      ],
+      "source_excerpt": "The body overseeing US President Donald Trump’s plan to end the Gaza war accused both Israel and Hamas of failing to meet their commitments to end hostilities, leaving the population of Gaza in dire conditions and the ceasefire in danger of collapse. The 12-page Board of Peace report, seen by Reuter",
+      "sources": [
+        {
+          "name": "Internazionale",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeFozbm9BNWc0QkREVnY3dkdDWDlyRTB3ZTlKenJLc09YUEh1MnV5b1dLendrTnFqTUdzWElmOERrZU9fYWh3UGQwSzdDYlNfeGFnYV9ETjU3WmsxcjJuZWkzUU0yd0dTSXpNRTRHSE9UVG1VWVp2NXRhbElHcjg2UW5Fb0YxUnRkNlBCMC1ZY1J3cUxERm56bF9pQVdOQnUwUjh0aHFudEFuRkpWNUJnSFYxQ2FhU3lUbl9DTmJlalNvV01TV1Y2V0NROE1TWWRjSFZuTA?oc=5",
+          "published_at": "2026-11-18T11:19:47+00:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUo2UWtYUkdWbUFwMVlzSHJwTVNrZlhyMzVuVnk3YVFXLW9mN1g5ZU44SmpMZG9kUUc1NFhacHEwbFJBN0lTQUdaMzFmNXNyd0RQaHNsaG9vY1lNRHRzV2pqV1dmT0Q0dXdWVDdORjZCVDczU2NueUdWaVZNd01GSXdBa05pQ0E1ZmkwRWFENXdlckFVLUdHVUFSNmhwa29oU1gyS0NJaTU1S2dJa3U5VmtKWQ?oc=5",
+          "published_at": "2026-11-18T12:36:03+00:00"
+        },
+        {
+          "name": "Hum News English",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUUZ0NnJoaE9obEdGR0VITlV0cmlUaEctUXRxQTBqTlhWc2lmWFNfM2VDR1ZRUUJNVHg4TERWeERhV2tVTlJtNVNNLS01SFprdmNKZjQ4a2tta1ZNdURGQ1hYQXFRTGFBSnN6RERJRmtrR0lDUjBtUXJJTElJSUNzMFdBZlE5SkE0a2I0V0pWTzdzTDV5V1FYZ3dB?oc=5",
+          "published_at": "2026-11-18T13:00:24+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045436/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war",
+          "published_at": "2026-11-18T14:13:49+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWZuSnBVS3RIRFViY3Nlb09ZcHVSSWVKUVh1TVFhSXdMRTNnRVpkaFh2WGY2c3ZnVkVKSjd6VG1ZN29rUkloQjZ6OWV5SjhGb1BwNlBmSkN0MzdFOHlESnRaNGQyazRSalJoVVBtWDJxc0lyZ2VXOWdYTks1VklzQXJYZV8tbmg4UTJibm9pdUJMVThqSDR4ZndJd1NWSUlFYWY4VHQ5enZuVWc?oc=5",
+          "published_at": "2026-11-18T14:13:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045436/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war",
+        "publisher_url": "https://www.dawn.com/news/2045436/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3e1d9d6a8ac5edc241b946dd",
+      "remembered_at": "2026-11-18T14:53:24.277618+00:00",
+      "event_date": "2026-11-18T14:42:28+00:00",
+      "last_update": "2026-11-18T14:42:28+00:00",
+      "event": "Asean secretary general to undertake working visit to Pakistan from Nov 18-20",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asean",
+        "asian",
+        "association",
+        "country",
+        "deputy",
+        "foreign",
+        "from",
+        "general",
+        "hourn",
+        "invitation",
+        "kao",
+        "kim",
+        "mini",
+        "nations",
+        "nov",
+        "office",
+        "pakistan",
+        "prime",
+        "said",
+        "secretary",
+        "southeast",
+        "statement",
+        "that",
+        "the",
+        "undertake",
+        "visit",
+        "visiting",
+        "was",
+        "wednesday",
+        "will",
+        "working"
+      ],
+      "source_excerpt": "The secretary general of the Association of Southeast Asian Nations (Asean), Dr Kao Kim Hourn, will undertake a working visit to Pakistan from Nov 18 to 20, the Foreign Office (FO) said on Wednesday. In a statement, the FO said that Kao was visiting the country at the invitation of Deputy Prime Mini",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045438/asean-secretary-general-to-undertake-working-visit-to-pakistan-from-nov-18-20",
+          "published_at": "2026-11-18T14:42:28+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXRxcWRDNmhub3lsb1VtbnQ2aDZYUTFfbkdYbHloU0JGemRFbmVVVEdwYVN6Zl94ZGNKa0RuOXJDbF9jMzJkNnE0QW5UdlliR1dvb2pJakUxUHBLWVR0VkdfcDNSelZmaGlycFdYYmFRRHY1dGp5RVhNREpaTjlvV3RVSkZhX1BIS05YZ2hGNFlJMWdYd280RzdDODh1eG1kRG0zN0hJeU9PZnNlMVl6dg?oc=5",
+          "published_at": "2026-11-18T14:42:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045438/asean-secretary-general-to-undertake-working-visit-to-pakistan-from-nov-18-20",
+        "publisher_url": "https://www.dawn.com/news/2045438/asean-secretary-general-to-undertake-working-visit-to-pakistan-from-nov-18-20",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "01bedd128d3854f18d708005",
+      "remembered_at": "2026-11-18T14:53:24.277618+00:00",
+      "event_date": "2026-11-18T14:39:09+00:00",
+      "last_update": "2026-11-18T14:39:09+00:00",
+      "event": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aims",
+        "army",
+        "begins",
+        "camp",
+        "central",
+        "eliminate",
+        "flee",
+        "gaza",
+        "israel",
+        "israeli",
+        "line",
+        "operation",
+        "palestinians",
+        "refugee",
+        "says",
+        "the",
+        "threat",
+        "west",
+        "yellow"
+      ],
+      "source_excerpt": "Israeli army says the operation west of the 'Yellow Line' aims to 'eliminate a threat'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+          "published_at": "2026-11-18T14:39:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ac2a1897c3a1e1ca98e5c9bd",
+      "remembered_at": "2026-11-18T14:53:24.277618+00:00",
+      "event_date": "2026-11-18T14:35:56+00:00",
+      "last_update": "2026-11-18T14:40:16+00:00",
+      "event": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "behind",
+        "bridge",
+        "crimea",
+        "developed",
+        "drones",
+        "hit",
+        "how",
+        "into",
+        "island",
+        "long",
+        "missiles",
+        "operation",
+        "prized",
+        "putin",
+        "range",
+        "strikes",
+        "turning",
+        "two",
+        "ukraine",
+        "using",
+        "was",
+        "waves",
+        "weeks"
+      ],
+      "source_excerpt": "A weeks-long operation was behind two waves of strikes using long-range missiles and drones developed in Ukraine.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
+          "published_at": "2026-11-18T14:35:56+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYklTN2ppazZ0YmtZQUVsWGVvN01DSldOYkZ1Vl9rVmpVOXA4N3B3dl8yeTg1SU56TG56S1NnTlB3R3EyRFZDV3ZyYnY0Vy1va1VKT2M0Qkg2ZTFsOHVhNGdfT2k5blZXMXlxaWZwZWc2Z3BmMktGTS1jekwteHpGM3c0VUhyaWxqd2t0QzQ1SHVWaWo4eGNFaXNRT1dFZmZpYmhOVkNySi1YYmZDekZWUdIBtgFBVV95cUxQYjdxSzY2dVg3S1VZUm9YVXc4b29vNldIeVBjMFN4a2xreHNOTkR1UmIwSmNRYkNTbkctLVctcmxRbHFVeFNUQWp2WkZGWlVMWEJldlAzX3ZnLUdHSG14VXFOQU5mTURuNmZyWEdkWUNISGRuVXU0WmdBVFRKM0V3cHJpeE94dUp1U2pFcFVxV3lxTDVjOFZXNi11MG9FZ3JzTnhmVlVVZ1JRUDlTY3dhYWljazhOdw?oc=5",
+          "published_at": "2026-11-18T14:40:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef150642e16421dcda94176a",
+      "remembered_at": "2026-11-18T14:53:24.277618+00:00",
+      "event_date": "2026-11-18T14:12:57+00:00",
+      "last_update": "2026-11-18T14:12:57+00:00",
+      "event": "What’s holding South Africa’s economy back?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "and",
+        "back",
+        "billions",
+        "crisis",
+        "economy",
+        "growth",
+        "holding",
+        "investment",
+        "new",
+        "revive",
+        "seeks",
+        "south",
+        "tackle",
+        "unemployment",
+        "weak",
+        "what"
+      ],
+      "source_excerpt": "South Africa seeks billions in new investment to revive weak growth and tackle unemployment crisis.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/18/whats-holding-south-africas-economy-back?traffic_source=rss",
+          "published_at": "2026-11-18T14:12:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/18/whats-holding-south-africas-economy-back?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/18/whats-holding-south-africas-economy-back?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "77aa47a3ae59944c8936b89f",
+      "remembered_at": "2026-11-18T14:53:24.277618+00:00",
+      "event_date": "2026-11-18T14:11:07+00:00",
+      "last_update": "2026-11-18T14:11:07+00:00",
+      "event": "Mada Masr’s Lina Attalah due to appear before court in Egypt",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appear",
+        "attalah",
+        "before",
+        "chief",
+        "court",
+        "criminal",
+        "due",
+        "editor",
+        "egypt",
+        "egyptian",
+        "face",
+        "lina",
+        "mada",
+        "masr",
+        "retrial",
+        "set"
+      ],
+      "source_excerpt": "Mada Masr Editor-in-Chief Lina Attalah is set to face a retrial before an Egyptian criminal court.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
+          "published_at": "2026-11-18T14:11:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "68f3eb831383b40b5cd4e917",
+      "remembered_at": "2026-11-18T14:53:24.277618+00:00",
+      "event_date": "2026-11-18T14:08:08+00:00",
+      "last_update": "2026-11-18T14:08:08+00:00",
+      "event": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "analysts",
+        "change",
+        "endgame",
+        "for",
+        "future",
+        "government",
+        "incursions",
+        "intensifies",
+        "into",
+        "israel",
+        "israeli",
+        "its",
+        "little",
+        "look",
+        "new",
+        "rivals",
+        "say",
+        "southern",
+        "syria",
+        "the",
+        "there",
+        "what",
+        "will"
+      ],
+      "source_excerpt": "As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
+          "published_at": "2026-11-18T14:08:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "16cbe56f5fa16fa0874571d9",
+      "remembered_at": "2026-11-18T14:53:24.277618+00:00",
+      "event_date": "2026-11-18T13:55:14+00:00",
+      "last_update": "2026-11-18T13:55:14+00:00",
+      "event": "The seven Anthropic founders who are about to become multi-billionaires",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "anthropic",
+        "are",
+        "become",
+        "behind",
+        "billionaires",
+        "claude",
+        "company",
+        "founders",
+        "its",
+        "making",
+        "market",
+        "multi",
+        "rich",
+        "sell",
+        "seven",
+        "shares",
+        "stock",
+        "the",
+        "very",
+        "who"
+      ],
+      "source_excerpt": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T13:55:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "17436a8c4cebc6571f65e3f8",
+      "remembered_at": "2026-11-18T14:53:24.277618+00:00",
+      "event_date": "2026-11-18T07:35:32+00:00",
+      "last_update": "2026-11-18T09:25:28+00:00",
+      "event": "Cricket Australia rules out reopening 'Sandpapergate' probe",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australia",
+        "cricket",
+        "express",
+        "out",
+        "probe",
+        "reopening",
+        "rules",
+        "sandpapergate",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Cricket Australia rules out reopening 'Sandpapergate' probe The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmtBQkp3WDBZeEpfckJwdHcyYXUyQ1hKMEx4TkZ3RW5jZE5mR2RrVFk0Ykx4TjNCeGxrQWg5TWlsdTBvcDhjVTE0RHREeFNWQmtiLVlSSEt1OENUakhUa083RVoxS3BCQjhOd1NNdURiSlc5X05ldkVlR0N6WTBDNnRYTFBNMlZQUmNXZmpSTWtMbFgtVEJ0dDJB0gGiAUFVX3lxTE9ZRHdrdnJOR0tGd3V3anNSazJqdGlSczZGS0gxdzJrd0o2TXd5ZnNHd2hjTVlfa1d3TEJURW93UUZYMzVJUzk4bzI0eXVnQjFtOTZVVThpOGs3aDU3TlJiWTR3enROeTJiRXlBakVsaG9xdnJHLU9SSHgtMjEzZ0JueUtiMDhFV0xYS2FocV8wN3lKbzN1eEtycTkyWTE4NlV6UQ?oc=5",
+          "published_at": "2026-11-18T07:35:32+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe?traffic_source=rss",
+          "published_at": "2026-11-18T09:18:37+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMi1USTY5ZEJmLXhBYlg3OEppWHVST0dBTWVTbjVzNGNvX2R1dkxlUGNjc2Y3Sk5UWEpNOHY4R3NpNzJIYldNZUJlZUNpMEVKS3ZXUHRoUzVpWm11dE01X0R6Y1h5VDVuUHBON1ludTBoNHB5MnFiSTFQVTA5Q2ZIWVBOSU54OEw0WDNZVnptb0VTeTlxMWNCNlBpY01VM2FxRTdDSFFnXzgxQXFVdF84cGctTmtHejlq0gG-AUFVX3lxTE9fejRhTVlxaVFQQ211cjJ3dnBfRkZRVnAtTGhEWFllcFR1YU1iaWNfWFdZeEszQ294a1o5TmIwQVJ0TE51bzBPblpkYTFOT1FLd3A2aVIwWXczR1U1SmgzcXpsaFJqeWNlNW9qcVlkUTBiamthQ2dPU05RMmwxMjNPTG1pTHl5cXU1dVJ6eURhQkM1a0VTUGlOSmRkTjNSbTgyY1JKSkxFTHVWQU5pLXlaLU5YY3gteUM3cVJ5Ymc?oc=5",
+          "published_at": "2026-11-18T09:22:31+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3o0YU1ZcWlRUENtdXIyd3ZwX0ZGUVZwLUxoRFhZZXBUdWFNYmljX1hXWXhLM0NveGtaOU5iMEFSdExOdW8wT25aZGExTk9RS3dwNmlSMFl3M0dVNUpoM3F6bGhSanljZTVvanFZZFEwYmprYUNnT1NOUTJsMTIzT0xtaUx5eXF1NXVSenlEYUJDNWtFU1BpTkpkZE4zUm04MmNSSkpMRUx1VkFOaS15Wi1OWGN4LXlDN3FSeWJn0gG-AUFVX3lxTE9fejRhTVlxaVFQQ211cjJ3dnBfRkZRVnAtTGhEWFllcFR1YU1iaWNfWFdZeEszQ294a1o5TmIwQVJ0TE51bzBPblpkYTFOT1FLd3A2aVIwWXczR1U1SmgzcXpsaFJqeWNlNW9qcVlkUTBiamthQ2dPU05RMmwxMjNPTG1pTHl5cXU1dVJ6eURhQkM1a0VTUGlOSmRkTjNSbTgyY1JKSkxFTHVWQU5pLXlaLU5YY3gteUM3cVJ5Ymc?oc=5",
+          "published_at": "2026-11-18T09:25:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmtBQkp3WDBZeEpfckJwdHcyYXUyQ1hKMEx4TkZ3RW5jZE5mR2RrVFk0Ykx4TjNCeGxrQWg5TWlsdTBvcDhjVTE0RHREeFNWQmtiLVlSSEt1OENUakhUa083RVoxS3BCQjhOd1NNdURiSlc5X05ldkVlR0N6WTBDNnRYTFBNMlZQUmNXZmpSTWtMbFgtVEJ0dDJB0gGiAUFVX3lxTE9ZRHdrdnJOR0tGd3V3anNSazJqdGlSczZGS0gxdzJrd0o2TXd5ZnNHd2hjTVlfa1d3TEJURW93UUZYMzVJUzk4bzI0eXVnQjFtOTZVVThpOGs3aDU3TlJiWTR3enROeTJiRXlBakVsaG9xdnJHLU9SSHgtMjEzZ0JueUtiMDhFV0xYS2FocV8wN3lKbzN1eEtycTkyWTE4NlV6UQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T13:56:53.824867+00:00"
+  "updated_at": "2026-11-18T14:53:24.277618+00:00"
 }
