@@ -1,140 +1,147 @@
-# News Hub report - Thu 19 Nov, 04:37 AM PKT
+# News Hub report - Thu 19 Nov, 05:35 AM PKT
 
 ## Collection
-- New items this run: 25 | items in rolling pool: 421
-- Unique story clusters: 370 (duplicates merged: 51)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 2
-- Items per outlet: BBC 4, Al Jazeera 3, TechCrunch 3, Ars Technica 2, The Express Tribune 1, Reuters 1, The Verge 1, Engadget 1, GSMArena 1, BBC Technology 1, BBC Business 1, BBC World 1
+- New items this run: 19 | items in rolling pool: 339
+- Unique story clusters: 309 (duplicates merged: 30)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 3
+- Items per outlet: Al Jazeera 5, The Express Tribune 4, The Guardian 3, BBC Business 2, TechCrunch 1, Wired 1, BBC Health 1, BBC World 1, Yahoo News Singapore 1, Samaa Fast Lane 0, Express News Fast Lane 0, Samaa TV 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Catherine visits Mumbai maternity hospital on the last day of royal trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraq sentences six French nationals to life in prison for joining ISIL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA 6 launches after 13-year wait, breaking pre-order records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - US steps up pressure on Iran-backed Hezbollah with new sanctions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Claude-maker Anthropic poised for $1.4tn stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gilts v kilts: What is happening with Scottish government bonds? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hunger Games fan, 13, to get artwork shown on cinema screens before film | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Wales' papers: Applause for dad as son's killers jailed and new report rejects axing of regions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Catherine visits Mumbai maternity hospital on the last day of royal trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraq sentences six French nationals to life in prison for joining ISIL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA 6 launches after 13-year wait, breaking pre-order records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - US steps up pressure on Iran-backed Hezbollah with new sanctions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Claude-maker Anthropic poised for $1.4tn stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gilts v kilts: What is happening with Scottish government bonds? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hunger Games fan, 13, to get artwork shown on cinema screens before film | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Wales' papers: Applause for dad as son's killers jailed and new report rejects axing of regions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Catherine visits Mumbai maternity hospital on the last day of royal trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraq sentences six French nationals to life in prison for joining ISIL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA 6 launches after 13-year wait, breaking pre-order records | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - US steps up pressure on Iran-backed Hezbollah with new sanctions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Claude-maker Anthropic poised for $1.4tn stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gilts v kilts: What is happening with Scottish government bonds? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hunger Games fan, 13, to get artwork shown on cinema screens before film | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Wales' papers: Applause for dad as son's killers jailed and new report rejects axing of regions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
-- Trusted publisher desks with at least one healthy source: 10/10
+- Overall feeds with entries: 99/107 | empty: 3 | failed: 5 | malformed/partial: 6
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
+- ATTENTION: Al Jazeera India General Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Express News
 
 ## Selected for the queue
-### Catherine visits Mumbai maternity hospital on final day of royal tour  [NORMAL]
-- Poster: کیترین کا دورہ ممبئی، زچگی کے اسپتال کا دورہ کیا / Catherine visits Mumbai maternity hospital | category lifestyle
-- Alternative headline: Royal tour concludes as Catherine visits Mumbai maternity hospital
+### US targets Hezbollah with fresh sanctions over front charities  [NORMAL]
+- Poster: امریکہ کی حزب اللہ پر نئی پابندیاں، خیراتی تنظیموں کو فرنٹ قرار دیدیا / US hits Hezbollah with new sanctions over front charities | category security
+- Alternative headline: US Treasury steps up financial pressure on Iran-backed Hezbollah
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xalJIY1VYSlZFOFZmRmlRTjNJS2hNQ3RQd2lCNE1KRDE5ODNwaUhIUFQ3RnRXLXJjOVlpYTVVbWtoT0w3NGdjbnN3ZVpBWWRZUmFnbnNOU3g?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xalJIY1VYSlZFOFZmRmlRTjNJS2hNQ3RQd2lCNE1KRDE5ODNwaUhIUFQ3RnRXLXJjOVlpYTVVbWtoT0w3NGdjbnN3ZVpBWWRZUmFnbnNOU3g?oc=5
-- Supporting coverage: BBC, BBC World
-- Keywords: Catherine, Mumbai, maternity hospital, royal trip, BBC | hashtags: #Catherine #Mumbai #RoyalVisit #BBC
-- Scheduled: Thu 19 Nov, 04:37 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Hezbollah sanctions, US Treasury, Iran, charities, fundraising | hashtags: #Hezbollah #USTreasury #Sanctions #US #WorldNews
+- Scheduled: Thu 19 Nov, 05:35 AM PKT
 - Caption:
 ```
-On the final day of her royal trip, Catherine visited a maternity hospital in Mumbai, meeting mothers and healthcare workers.
+The US Treasury has accused Hezbollah of using charitable organisations as fronts for fundraising, leading to fresh sanctions.
 
-Catherine visited a maternity hospital in Mumbai on the final day of her royal trip. The visit highlighted healthcare initiatives and local community support, concluding her official itinerary in the city.
+The United States Treasury has intensified financial pressure on the Iran-backed group Hezbollah by imposing new sanctions. Washington accused the organization of utilizing charitable entities as fronts to raise funds.
 
-کیترین نے اپنے شاہی دورے کے آخری دن ممبئی کے ایک زچگی اسپتال کا دورہ کیا۔ اس دورے کے دوران انہوں نے ماؤں اور صحت کی دیکھ بھال کرنے والے کارکنوں سے ملاقات کی اور مقامی کمیونٹی کے اقدامات کا جائزہ لیا۔
+امریکہ کے محکمہ خزانہ نے ایران حواقہ حزب اللہ پر نئی پابندیاں عائد کر کے مالیاتی دباؤ بڑھا دیا ہے۔ واشنگٹن نے الزام لگایا ہے کہ یہ تنظیم فنڈ اکٹھا کرنے کے لیے فلاحی اداروں کو فرنٹ کے طور پر استعمال کر رہی ہے۔
+
+First reported by Al Jazeera.
+
+#Hezbollah #USTreasury #Sanctions #US #WorldNews
+```
+
+### Claude maker Anthropic eyes massive 1.4 trillion dollar stock debut  [NORMAL]
+- Poster: کلود کی ساز کمپنی اینتھروپک کا ڈیڑھ لاکھ کروڑ ڈالر کا تاریخی مارکیٹ ڈیبیو / Claude maker Anthropic poised for 1.4 trillion dollar stock debut | category tech
+- Alternative headline: AI firm Anthropic valued at over 1.4 trillion dollars ahead of Nasdaq IPO
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology
+- Keywords: Anthropic IPO, Claude, AI, Nasdaq, stock market, valuation | hashtags: #Anthropic #AI #Nasdaq #IPO #Technology
+- Scheduled: Thu 19 Nov, 05:45 AM PKT
+- Caption:
+```
+AI firm Anthropic is set to hit a valuation of over 1.4 trillion dollars in its upcoming Nasdaq stock market debut.
+
+Anthropic, the artificial intelligence company behind chatbot Claude, is set to reach a value exceeding 1.4 trillion dollars upon its Nasdaq debut. The firm will price shares at 83 dollars each, marking the first public offering by a strictly AI-focused US firm.
+
+مصنوعی ذہانت کی کمپنی اینتھروپک، جو چیٹ بوٹ کلوڈ کی ساز ہے، اپنے نیسڈیک ڈیبیو پر 1.4 ٹریلین ڈالر سے زائد کی مالیت حاصل کرنے کے لیے تیار ہے۔ یہ کسی بھی خالصتاً اے آئی پر مبنی امریکی فرم کی پہلی پبلک پیشکش ہے۔
+
+First reported by BBC Technology.
+
+#Anthropic #AI #Nasdaq #IPO #Technology
+```
+
+### Scottish government faces questions over plans to issue first ever bonds  [NORMAL]
+- Poster: سکاٹش حکومت کا پہلی بار بانڈز جاری کرنے کا منصوبہ، سوالات اٹھ گئے / Scottish government faces questions over first ever bonds plan | category economy
+- Alternative headline: Scotland considers issuing 'kilts' bonds to raise 1.5 billion pounds
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business
+- Keywords: Scottish bonds, kilts, gilts, Scotland, borrowing, finance | hashtags: #Scotland #Bonds #Economy #Finance #BBC
+- Scheduled: Thu 19 Nov, 05:55 AM PKT
+- Caption:
+```
+The Scottish government is facing scrutiny over its plan to issue its first ever bonds, nicknamed 'kilts', to raise funds.
+
+The Scottish government is addressing questions regarding its plan to issue its first ever bonds, nicknamed 'kilts' as a play on UK 'gilts'. The scheme aims to raise about 1.5 billion pounds by the end of the parliamentary term for long-term projects.
+
+سکاٹش حکومت اپنے پہلے بانڈز جاری کرنے کے منصوبے کے حوالے سے سوالات کا سامنا کر رہی ہے، جنہیں برطانیہ کے 'گلٹس' کے نام پر 'کلٹس' کا نام دیا گیا ہے۔ اس اسکیم کا مقصد طویل مدتی منصوبوں کے لیے فنڈز اکٹھا کرنا ہے۔
+
+First reported by BBC Business.
+
+#Scotland #Bonds #Economy #Finance #BBC
+```
+
+### Thirteen-year-old Hunger Games fan to have artwork shown in cinemas  [NORMAL]
+- Poster: ہنگر گیمز کی 13 سالہ مداح کا آرٹ ورک سنیما سکرین پر دکھایا جائے گا / 13-year-old Hunger Games fan to get artwork shown in cinemas | category other
+- Alternative headline: Young Hunger Games fan's artwork selected for cinema screens before film
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZEtwNEFOQ0E5dDNpcGdqR2hsWU5JbndSc0NNcXZJeDR0Q3F3cWFNZTVOZzFpc0hkejJUNGNPdHliYy14VVBVTDFxV1pZY2RUd1hMVGFBdTE0eXM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZEtwNEFOQ0E5dDNpcGdqR2hsWU5JbndSc0NNcXZJeDR0Q3F3cWFNZTVOZzFpc0hkejJUNGNPdHliYy14VVBVTDFxV1pZY2RUd1hMVGFBdTE0eXM?oc=5
+- Supporting coverage: BBC
+- Keywords: Hunger Games artwork, fan art, cinema, film, BBC | hashtags: #HungerGames #FanArt #Cinema #Film #BBC
+- Scheduled: Thu 19 Nov, 06:05 AM PKT
+- Caption:
+```
+A 13-year-old fan of the Hunger Games is set to have her artwork showcased on cinema screens before the film.
+
+A 13-year-old fan of the Hunger Games franchise has achieved a unique milestone, securing a spot for her artwork to be displayed on cinema screens ahead of the film screening.
+
+ہنگر گیمز فرنچائز کی 13 سالہ مداح نے ایک انوکھا اعزاز حاصل کر لیا ہے، اس کا آرٹ ورک فلم کی نمائش سے پہلے سنیما سکرین پر دکھایا جائے گا۔
 
 First reported by BBC.
 
-#Catherine #Mumbai #RoyalVisit #BBC
+#HungerGames #FanArt #Cinema #Film #BBC
 ```
 
-### Myanmar faces historic genocide verdict at UN court over Rohingya  [NORMAL]
-- Poster: اقوام متحدہ کی عدالت روہنگیا نسل کشی پر تاریخی فیصلہ سنائے گی / UN court to rule on Rohingya genocide | category world
-- Alternative headline: Top UN court to rule on alleged genocide of Rohingya
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC, Reuters
-- Keywords: Rohingya genocide, Myanmar, UN court, ICJ, verdict | hashtags: #Myanmar #Rohingya #UN #ICJ #Genocide
-- Scheduled: Thu 19 Nov, 04:47 AM PKT
-- Caption:
-```
-No state has ever been found guilty of genocide by an international court, as Myanmar now faces a historic verdict.
-
-Myanmar faces a historic genocide verdict at the UN's highest court over massacres of the Rohingya minority. Legal experts note that no state has ever been found guilty of committing genocide by an international court before.
-
-میانمار کو اقوام متحدہ کی عالمی عدالت میں روہنگیا اقلیت کے خلاف مبینہ نسل کشی کے مقدمے میں تاریخی فیصلے کا سامنا ہے۔ قانونی ماہرین کے مطابق اس سے قبل کسی بھی ریاست کو بین الاقوامی عدالت نے نسل کشی کا مجرم قرار نہیں دیا ہے۔
-
-First reported by BBC; also reported by Reuters.
-
-#Myanmar #Rohingya #UN #ICJ #Genocide
-```
-
-### Iraq sentences six French nationals to life in prison over ISIL  [NORMAL]
-- Poster: عراق نے داعش میں شمولیت پر چھ فرانسیسی شہریوں کو عمر قید سنا دی / Iraq sentences six French nationals to life | category courts
-- Alternative headline: Six French citizens given life sentences in Iraq for joining ISIL
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Iraq sentences, French nationals, life in prison, ISIL, Al Jazeera | hashtags: #Iraq #France #ISIL #Court
-- Scheduled: Thu 19 Nov, 04:57 AM PKT
-- Caption:
-```
-Six French nationals have been sentenced to life in prison in Iraq following trials that began for 47 transferred citizens.
-
-Iraq has sentenced six French nationals to life in prison for joining ISIL. The trials began in September for a total of 47 French citizens who were transferred from neighboring Syria last year.
-
-عراق نے داعش میں شمولیت کے الزام میں چھ فرانسیسی شہریوں کو عمر قید کی سزا سنا دی ہے۔ شام سے گزشتہ سال منتقل کیے جانے والے 47 فرانسیسی شہریوں کے مقدمات کی سماعت ستمبر میں شروع ہوئی تھی۔
-
-First reported by Al Jazeera.
-
-#Iraq #France #ISIL #Court
-```
-
-### GTA 6 officially launches after 13-year wait and record pre-orders  [NORMAL]
-- Poster: تیرہ سال کے طویل انتظار کے بعد جی ٹی اے 6 جاری کر دی گئی / GTA 6 launches after 13-year wait | category tech
-- Alternative headline: Grand Theft Auto 6 goes live ending 13-year franchise wait
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: GTA 6, Grand Theft Auto, gaming, pre-order records, Al Jazeera | hashtags: #GTA6 #GrandTheftAuto #Gaming #Tech
-- Scheduled: Thu 19 Nov, 05:07 AM PKT
-- Caption:
-```
-Grand Theft Auto’s latest instalment is finally out, ending a 13-year wait and smashing pre-order records worldwide.
-
-Grand Theft Auto's latest instalment has officially launched, ending a 13-year wait for one of the gaming industry's biggest franchises. The highly anticipated release has already broken pre-order records across global platforms.
-
-گرانڈ تھیف آٹو کی نئی قسط باضابطہ طور پر ریلیز کر دی گئی ہے، جس سے گیمنگ کی دنیا کی اس بڑی فرنچائز کا 13 سالہ انتظار ختم ہو گیا ہے۔ اس لانچ نے دنیا بھر میں پری آرڈر کے ریکارڈ توڑ دیے ہیں۔
-
-First reported by Al Jazeera.
-
-#GTA6 #GrandTheftAuto #Gaming #Tech
-```
-
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -340,9 +347,9 @@ First reported by Al Jazeera.
 - [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
 - [published] normal | Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan | Wed 18 Nov, 10:57 PM PKT
 - [published] normal | Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim | Wed 18 Nov, 11:07 PM PKT
-- [queued] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
-- [queued] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
-- [queued] normal | Kuwait and Bahrain face new Iran attacks following US strike | Thu 19 Nov, 01:51 AM PKT
+- [needs_review] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
+- [needs_review] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
+- [published] normal | Kuwait and Bahrain face new Iran attacks following US strike | Thu 19 Nov, 01:51 AM PKT
 - [queued] normal | Internet services face nationwide disruption due to submarine cable fa | Thu 19 Nov, 02:01 AM PKT
 - [queued] normal | Israeli settler kills Palestinian grandmother in occupied West Bank | Thu 19 Nov, 02:11 AM PKT
 - [queued] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
@@ -358,18 +365,18 @@ First reported by Al Jazeera.
 - [queued] normal | Myanmar faces historic genocide verdict at UN court over Rohingya | Thu 19 Nov, 04:47 AM PKT
 - [queued] normal | Iraq sentences six French nationals to life in prison over ISIL | Thu 19 Nov, 04:57 AM PKT
 - [queued] normal | GTA 6 officially launches after 13-year wait and record pre-orders | Thu 19 Nov, 05:07 AM PKT
+- [queued] normal | US targets Hezbollah with fresh sanctions over front charities | Thu 19 Nov, 05:35 AM PKT
+- [queued] normal | Claude maker Anthropic eyes massive 1.4 trillion dollar stock debut | Thu 19 Nov, 05:45 AM PKT
+- [queued] normal | Scottish government faces questions over plans to issue first ever bon | Thu 19 Nov, 05:55 AM PKT
+- [queued] normal | Thirteen-year-old Hunger Games fan to have artwork shown in cinemas | Thu 19 Nov, 06:05 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim'.
+- Published 'Kuwait and Bahrain face new Iran attacks following US strike'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 3917 | output tokens: 2142
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
+- Calls: 2 | prompt tokens: 4458 | output tokens: 2890
+- Errors: 1
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

@@ -69943,7 +69943,623 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1d86f1e737534398963b7668",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-19T00:01:02+00:00",
+      "last_update": "2026-11-19T00:02:40+00:00",
+      "event": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "claims",
+        "coalition",
+        "destroyed",
+        "fire",
+        "has",
+        "hit",
+        "hormuz",
+        "iran",
+        "led",
+        "live",
+        "mines",
+        "missile",
+        "platform",
+        "saada",
+        "said",
+        "saudi",
+        "ships",
+        "strikes",
+        "three",
+        "war",
+        "yemen"
+      ],
+      "source_excerpt": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+          "published_at": "2026-11-19T00:01:02+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX3hoU3p6VWJpUkhrbEFfRUFuRzVhRGRtTkxWNGpQTTNialpfMGQweVA3UmlMbm85SjNiamZLLXprQlVMTGhtUmFfdFNmVVVhbERCSGZyb3h5dnptMER2WjVzeGlpNHJ1amtMOWtiSXZYSURqdGs5MWtiWnAtSER3UDJESEZ1a2NrZjBIYXNZb1RQQzl0X2tPTmpnbVd1LUEzRXdOeUJyOHd3Z0J2N3Z1Z0dfTGpjZDBFQ25BUmh0WdIBxAFBVV95cUxNeWVFLUZJMlkxRGZGNHRWNkZidXAwNk1jTElnX3o5d3pHRC03dENuSG4wdjhWY1A1ejhIMnk1MTBLRlg5LW9CQ0xqV0hZdWxNcTRMVkRnSm1aaFpsbTV2WmNUZzRrNTM2OVNpckhXX2VKNDh2MWV6R3RFeDNtc2dTTFR4bFhjbUJlbldiUHJYbjA3T1liWWpVa19qV2N3OHZZWXFTVjF0eGdyVWs5bUNFckRxM19GSk92SUZaT1RpYkYxR1NY?oc=5",
+          "published_at": "2026-11-19T00:02:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2d301d4a80d3b9d417387028",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-18T23:53:21+00:00",
+      "last_update": "2026-11-18T23:53:21+00:00",
+      "event": "Israel uses Gaza swimming video to minimise winter hardships",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bad",
+        "can",
+        "gaza",
+        "hardships",
+        "israel",
+        "jazeera",
+        "minimise",
+        "palestinians",
+        "shared",
+        "storms",
+        "suggest",
+        "swimming",
+        "that",
+        "uses",
+        "video",
+        "winter"
+      ],
+      "source_excerpt": "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter storms in Gaza can’t be that bad.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+          "published_at": "2026-11-18T23:53:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "33a394db0c49c5580fbb708a",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-18T23:36:23+00:00",
+      "last_update": "2026-11-18T23:36:23+00:00",
+      "event": "Migrant boat capsizes off Senegal, leaving at least one dead",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "another",
+        "boat",
+        "capsized",
+        "capsizes",
+        "comes",
+        "days",
+        "dead",
+        "declared",
+        "emergency",
+        "incident",
+        "least",
+        "leaving",
+        "migrant",
+        "migration",
+        "off",
+        "one",
+        "senegal",
+        "senegalese",
+        "spain",
+        "waters"
+      ],
+      "source_excerpt": "Incident comes days after another boat capsized in Senegalese waters, and Spain declared a migration emergency.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
+          "published_at": "2026-11-18T23:36:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3512253ff55479bb80637cbd",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-18T23:35:12+00:00",
+      "last_update": "2026-11-18T23:35:12+00:00",
+      "event": "NASA’s Voyager 1 hits record one light-day distance, 50 years after launch",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1977",
+        "after",
+        "day",
+        "distance",
+        "earth",
+        "from",
+        "historic",
+        "hits",
+        "its",
+        "launch",
+        "light",
+        "marking",
+        "milestone",
+        "nasa",
+        "nearly",
+        "one",
+        "reaches",
+        "record",
+        "voyager",
+        "years"
+      ],
+      "source_excerpt": "Voyager 1 reaches one light-day from Earth, marking a historic milestone nearly 50 years after its 1977 launch.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
+          "published_at": "2026-11-18T23:35:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6bf3a7be123f2dd2aebe2a45",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-19T00:01:29+00:00",
+      "last_update": "2026-11-19T00:01:29+00:00",
+      "event": "Two-hour ambulance handover limit missed more than 2,000 times",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "achieving",
+        "ambulance",
+        "challenging",
+        "doctor",
+        "handover",
+        "hour",
+        "limit",
+        "missed",
+        "more",
+        "over",
+        "protocol",
+        "says",
+        "senior",
+        "than",
+        "the",
+        "times",
+        "two",
+        "very",
+        "will",
+        "winter"
+      ],
+      "source_excerpt": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T00:01:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "31898acd60409ade9241af19",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-19T00:00:59+00:00",
+      "last_update": "2026-11-19T00:00:59+00:00",
+      "event": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abuse",
+        "against",
+        "ahead",
+        "calls",
+        "can",
+        "case",
+        "chain",
+        "change",
+        "employees",
+        "firm",
+        "for",
+        "former",
+        "girls",
+        "judge",
+        "legal",
+        "mcdonald",
+        "rules",
+        "sex",
+        "the",
+        "they",
+        "treat",
+        "turn",
+        "waiting",
+        "way",
+        "were",
+        "worker",
+        "younger"
+      ],
+      "source_excerpt": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T00:00:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ddc5a5eb1ea91538bdbb2dc5",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-18T23:47:46+00:00",
+      "last_update": "2026-11-18T23:47:46+00:00",
+      "event": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "and",
+        "angeles",
+        "are",
+        "cars",
+        "cities",
+        "currently",
+        "driverless",
+        "francisco",
+        "freeway",
+        "freeways",
+        "from",
+        "handful",
+        "has",
+        "including",
+        "its",
+        "los",
+        "offered",
+        "only",
+        "operate",
+        "pulled",
+        "rides",
+        "san",
+        "the",
+        "though",
+        "vehicles",
+        "waymo",
+        "why"
+      ],
+      "source_excerpt": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T23:47:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "189444c506e527698cb5ae37",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-18T23:28:03+00:00",
+      "last_update": "2026-11-18T23:28:03+00:00",
+      "event": "Russian man accused of spying on US tech defence company that assists Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "and",
+        "assists",
+        "company",
+        "defence",
+        "employees",
+        "fake",
+        "followed",
+        "found",
+        "ids",
+        "man",
+        "passports",
+        "prosecutors",
+        "russian",
+        "say",
+        "spying",
+        "suspect",
+        "tech",
+        "that",
+        "the",
+        "two",
+        "ukraine",
+        "was",
+        "with"
+      ],
+      "source_excerpt": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T23:28:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a1f41d15b47ab5794a34ba9c",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-18T23:45:11+00:00",
+      "last_update": "2026-11-18T23:45:11+00:00",
+      "event": "China seeks closer ties with Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "china",
+        "closer",
+        "express",
+        "pakistan",
+        "seeks",
+        "the",
+        "ties",
+        "tribune",
+        "with"
+      ],
+      "source_excerpt": "China seeks closer ties with Pakistan The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vTnhDS1JoelR0aUQydVQ1cmdNVzhXOF9WemlXRWk0SlJGWkpwZU9lUktFWWZWUDJ0ZVlETEVmVjdXU1g1b0wxbTV6U2JMZjdVLWNrZjJ4S2V2cW9la2lTS1FXRGQ5NTlSWHRXUG9vRDJBWjhhaDdHWGY2WlNTT2PSAYcBQVVfeXFMT3kyMkZPVWdDQk1DdnNYaTF5LTNURTNIZGtIV21CMVVEV2I2NWtUOHJ3NGRrdzR6Q2FTZ0NVdnpQekdsNzFYaVpCT0VSd3RNRU5TUnN1WVh4QnBQdnpTTTA1TDFnbzhPRFdxUk1mcEwzQVpiTG16eGNDU0Q5eXdfd25nM21ZRWVj?oc=5",
+          "published_at": "2026-11-18T23:45:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vTnhDS1JoelR0aUQydVQ1cmdNVzhXOF9WemlXRWk0SlJGWkpwZU9lUktFWWZWUDJ0ZVlETEVmVjdXU1g1b0wxbTV6U2JMZjdVLWNrZjJ4S2V2cW9la2lTS1FXRGQ5NTlSWHRXUG9vRDJBWjhhaDdHWGY2WlNTT2PSAYcBQVVfeXFMT3kyMkZPVWdDQk1DdnNYaTF5LTNURTNIZGtIV21CMVVEV2I2NWtUOHJ3NGRrdzR6Q2FTZ0NVdnpQekdsNzFYaVpCT0VSd3RNRU5TUnN1WVh4QnBQdnpTTTA1TDFnbzhPRFdxUk1mcEwzQVpiTG16eGNDU0Q5eXdfd25nM21ZRWVj?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9d126aaed1837a303f953eaf",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-19T00:22:17+00:00",
+      "last_update": "2026-11-19T00:22:17+00:00",
+      "event": "Pakistani astronaut readies for space",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "astronaut",
+        "express",
+        "for",
+        "pakistani",
+        "readies",
+        "space",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Pakistani astronaut readies for space The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EejVxa1ZNYlFoZlhSbWFDbzRYTmxIT21RaFppdEMwcEFGODUxTTd5ZktrblpkeFNyVGJadWUwYW1yaC1oRXFpcVlKb05TN0J5bmZ0U2VEZHBOMlFkQV80c2NnR1NzTmM2Nng4alFXSmRCOVZYRjFFUzh5NzRfNmfSAYcBQVVfeXFMTVU3UnVYWDZVUHpQMVhEYVREcm85Y1k1Q3R6Uk9kQzc1NXY5a3VDajVHajQyU2JVOVE3eFlEVm9VMTJGd3V1MkZINktpSlFZR2FPczVJeWZ4RERuT2Z6aWJmVnQ4RmpRNjlUUWR0ZFh1LUxLUVgyZG1PRU15bWFIWTZHN3pXYlRF?oc=5",
+          "published_at": "2026-11-19T00:22:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EejVxa1ZNYlFoZlhSbWFDbzRYTmxIT21RaFppdEMwcEFGODUxTTd5ZktrblpkeFNyVGJadWUwYW1yaC1oRXFpcVlKb05TN0J5bmZ0U2VEZHBOMlFkQV80c2NnR1NzTmM2Nng4alFXSmRCOVZYRjFFUzh5NzRfNmfSAYcBQVVfeXFMTVU3UnVYWDZVUHpQMVhEYVREcm85Y1k1Q3R6Uk9kQzc1NXY5a3VDajVHajQyU2JVOVE3eFlEVm9VMTJGd3V1MkZINktpSlFZR2FPczVJeWZ4RERuT2Z6aWJmVnQ4RmpRNjlUUWR0ZFh1LUxLUVgyZG1PRU15bWFIWTZHN3pXYlRF?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c232a9ea68013d27fa131aa2",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-19T00:26:21+00:00",
+      "last_update": "2026-11-19T00:26:21+00:00",
+      "event": "ASEAN chief visits Pakistan after two decades",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "asean",
+        "chief",
+        "decades",
+        "express",
+        "pakistan",
+        "the",
+        "tribune",
+        "two",
+        "visits"
+      ],
+      "source_excerpt": "ASEAN chief visits Pakistan after two decades The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1phdkdqd3Q3S1NNSUdLdXU4cnlLZ2w4UjZMZEdOMUg5TzBjZHhPUUV1YVRjeTFJVXRaRDZjLUhkN0hjRXM2RnVza1duUVJaSVMtbE5tQWVRODAtTzVFcEpEZDllTVBwUWZxSHhsS1RxektaOWl5aTRha0t6UEpRb2Z4aXZwcHozMUHSAZIBQVVfeXFMTU91SDdRd004ekpkdjNEWVllMEpTSk9CMF8tUFdBM1hQWmJUdTlWV0VXci1lSk04YmNPb1lMeU9VZUUzMDJDdjdoV09ib1dTWU9aMThveU9ndzV4QWQ0T0p0UnBTX3V4QVlCaU5VZnBscW5lVDdxNDhDWHg5aUJ0Z2xPYTB1MmV2ZXo4VlM3ejB4bVE?oc=5",
+          "published_at": "2026-11-19T00:26:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1phdkdqd3Q3S1NNSUdLdXU4cnlLZ2w4UjZMZEdOMUg5TzBjZHhPUUV1YVRjeTFJVXRaRDZjLUhkN0hjRXM2RnVza1duUVJaSVMtbE5tQWVRODAtTzVFcEpEZDllTVBwUWZxSHhsS1RxektaOWl5aTRha0t6UEpRb2Z4aXZwcHozMUHSAZIBQVVfeXFMTU91SDdRd004ekpkdjNEWVllMEpTSk9CMF8tUFdBM1hQWmJUdTlWV0VXci1lSk04YmNPb1lMeU9VZUUzMDJDdjdoV09ib1dTWU9aMThveU9ndzV4QWQ0T0p0UnBTX3V4QVlCaU5VZnBscW5lVDdxNDhDWHg5aUJ0Z2xPYTB1MmV2ZXo4VlM3ejB4bVE?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7566f7bfb28f591176076345",
+      "remembered_at": "2026-11-19T00:35:01.532381+00:00",
+      "event_date": "2026-11-19T00:20:16+00:00",
+      "last_update": "2026-11-19T00:20:16+00:00",
+      "event": "Pakistan vows to preserve Gandhara's buddhist heritage",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "buddhist",
+        "express",
+        "gandhara",
+        "heritage",
+        "pakistan",
+        "preserve",
+        "the",
+        "tribune",
+        "vows"
+      ],
+      "source_excerpt": "Pakistan vows to preserve Gandhara's buddhist heritage The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1lkOTZlRzFGbXdtaTZVOGw3c3lDT0Y3cXNkVnRwWVVZVmFZT1QxdWtfenppbENFcUNXc3ktZkprT0dtY1VJQ2FJOGVpNDU1d0Q5b2VzR3RzMTBkTmlSMEZLd21HQm1LdlFkYVd0OXJRQXJaQy03bGlQU3Ffd0dvLVA0QmFCdUQ2aUY5R0JYbFdmWHVh0gGcAUFVX3lxTE5kNVVxcm15cXNXMFd3YWZiNGtBMFlFTlJXNDY0ZUgtaHR3Tk41S0N3LTA5QWJIT3N4N0VFQjg2UFZyNWpOODZqb3NxTnlkd3VxbjBIU0ZpUF9hVW9vTVJfNUZzZ1d0XzBNT2JRekZSZjdvSnkzbENuSFk5RTE4NnJZcG1OZXVYQlJmM05Nb0JILXRiMDh1U2lqRTVFTQ?oc=5",
+          "published_at": "2026-11-19T00:20:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1lkOTZlRzFGbXdtaTZVOGw3c3lDT0Y3cXNkVnRwWVVZVmFZT1QxdWtfenppbENFcUNXc3ktZkprT0dtY1VJQ2FJOGVpNDU1d0Q5b2VzR3RzMTBkTmlSMEZLd21HQm1LdlFkYVd0OXJRQXJaQy03bGlQU3Ffd0dvLVA0QmFCdUQ2aUY5R0JYbFdmWHVh0gGcAUFVX3lxTE5kNVVxcm15cXNXMFd3YWZiNGtBMFlFTlJXNDY0ZUgtaHR3Tk41S0N3LTA5QWJIT3N4N0VFQjg2UFZyNWpOODZqb3NxTnlkd3VxbjBIU0ZpUF9hVW9vTVJfNUZzZ1d0XzBNT2JRekZSZjdvSnkzbENuSFk5RTE4NnJZcG1OZXVYQlJmM05Nb0JILXRiMDh1U2lqRTVFTQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-18T23:37:13.613399+00:00"
+  "updated_at": "2026-11-19T00:35:01.532381+00:00"
 }
