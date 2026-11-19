@@ -1,141 +1,44 @@
-# News Hub report - Thu 19 Nov, 12:23 PM PKT
+# News Hub report - Thu 19 Nov, 01:41 PM PKT
 
 ## Collection
-- New items this run: 91 | items in rolling pool: 383
-- Unique story clusters: 298 (duplicates merged: 85)
-- Clusters dropped as already published/queued: 31; unchanged since last analysis: 1
-- Items per outlet: Wired 13, Al Jazeera 8, ProPakistani 8, ARY News 7, Geo News 5, samaa tv 5, Dawn Latest 5, TechJuice 4, Profit by Pakistan Today 4, The Current 3, Investify 3, Dawn 2
+- New items this run: 162 | items in rolling pool: 512
+- Unique story clusters: 401 (duplicates merged: 111)
+- Clusters dropped as already published/queued: 32; unchanged since last analysis: 1
+- Items per outlet: UrduPoint 81, ProPakistani 10, Geo News 7, samaa tv 6, Dawn 6, ARY News 6, Dunya News 4, Dawn Latest 4, Al Jazeera 4, TechJuice 4, The Current 4, Profit by Pakistan Today 4
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Suparco warns of worsening smog across Punjab over next 3 days | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICJ flags judicial independence concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PlayStation network suffers brief outage hours before GTA 6 launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Green rickshaw scheme being introduced in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Anthropic raises $81.3bn in record-breaking IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Aamer Jamal, Razaullah strike for Pakistan as Sri Lanka lose two wickets early on day three of second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM proposes Wuhan-style city management for Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China's used phones find new homes from Karachi to Algiers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Suparco warns of worsening smog across Punjab over next 3 days | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICJ flags judicial independence concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PlayStation network suffers brief outage hours before GTA 6 launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Green rickshaw scheme being introduced in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Anthropic raises $81.3bn in record-breaking IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Aamer Jamal, Razaullah strike for Pakistan as Sri Lanka lose two wickets early on day three of second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM proposes Wuhan-style city management for Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China's used phones find new homes from Karachi to Algiers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Suparco warns of worsening smog across Punjab over next 3 days | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICJ flags judicial independence concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PlayStation network suffers brief outage hours before GTA 6 launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Green rickshaw scheme being introduced in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Anthropic raises $81.3bn in record-breaking IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Aamer Jamal, Razaullah strike for Pakistan as Sri Lanka lose two wickets early on day three of second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM proposes Wuhan-style city management for Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China's used phones find new homes from Karachi to Algiers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Reuters World | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Suparco Warns of Worsening Smog Across Punjab as Hundreds of Fires Rage  [NORMAL]
-- Poster: پنجاب میں اسمگ کی صورتحال مزید خراب ہونے کا خدشہ، سپارکو کی وارننگ / Suparco Warns Worsening Smog Across Punjab | category weather
-- Alternative headline: Punjab Smog to Worsen Over Three Days After Satellites Detect Hundreds of Fires
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045605/suparco-warns-of-worsening-smog-across-punjab-over-next-3-days | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045605/suparco-warns-of-worsening-smog-across-punjab-over-next-3-days
-- Supporting coverage: Dawn Pakistan, samaa tv
-- Keywords: Smog, Suparco, Punjab, Lahore, Pollution, Fires | hashtags: #Smog #Punjab #Suparco #Lahore #AirQuality
-- Scheduled: Thu 19 Nov, 12:23 PM PKT
-- Caption:
-```
-Suparco has issued a severe smog warning for Punjab over the next three days after satellite observations detected hundreds of active fires.
-
-The Pakistan Space and Upper Atmosphere Research Commission (Suparco) has warned of worsening smog conditions across Punjab over the next three days. Satellite data recorded hundreds of active fire incidents in Punjab and transboundary areas, while Lahore topped global pollution rankings.
-
-پاکستان اسپیس اینڈ اپر اٹموسفی Lembrando ریسرچ کمیشن (سپارکو) نے اگلے تین دنوں کے دوران پنجاب بھر میں اسمگ کی صورتحال مزید خراب ہونے کا انتباہ جاری کیا ہے۔ سیٹلائٹ مشاہدات میں پنجاب اور سرحدی علاقوں میں سیکڑوں فعال آگ کے واقعات ریکارڈ کیے گئے ہیں۔
-
-First reported by Dawn Pakistan.
-
-#Smog #Punjab #Suparco #Lahore #AirQuality
-```
-
-### ICJ Flags Serious Concerns Over Judicial Independence in Pakistan  [NORMAL]
-- Poster: عالمی کمیشن برائے جج صاحبان نے پاکستان میں عدلیہ کی آزادی پر تشویش ظاہر کر دی / ICJ Flags Judicial Independence Concerns in Pakistan | category courts
-- Alternative headline: International Commission of Jurists Deplores State of Judicial Independence in Pakistan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEVwcEx3NF9RTHRMNTdjbHFBRmhRZjlzOENUb1dqbGI3djZxOXl3ZGhVNlpFUFZvWmY3MTBudWdKeDl6TnBEX1VJTTR1d2wyQzlUVmY0VVpYTmFQQXdDVzRzdm1FX2JXcTJ3SEdWNDBXZFlYSld6WFlobE0tVElGb3lENNIBiwFBVV95cUxNNjJTOWtWMzZnRl90ajZRd2l4ZWM0YWdld3FOeVhaaVNpMENCeWRtWXQ1VWNaZU96MFA0TVp5clJRc2JybjlTUkV0R1FlaUF6clh1U05MTXV3d0VTdEZUdmhjUjVoUDZRbGhPc2YzX3Q3VnJsWFVKdFdyRVVnM0JWcVdPcWItcnVQYnNV?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEVwcEx3NF9RTHRMNTdjbHFBRmhRZjlzOENUb1dqbGI3djZxOXl3ZGhVNlpFUFZvWmY3MTBudWdKeDl6TnBEX1VJTTR1d2wyQzlUVmY0VVpYTmFQQXdDVzRzdm1FX2JXcTJ3SEdWNDBXZFlYSld6WFlobE0tVElGb3lENNIBiwFBVV95cUxNNjJTOWtWMzZnRl90ajZRd2l4ZWM0YWdld3FOeVhaaVNpMENCeWRtWXQ1VWNaZU96MFA0TVp5clJRc2JybjlTUkV0R1FlaUF6clh1U05MTXV3d0VTdEZUdmhjUjVoUDZRbGhPc2YzX3Q3VnJsWFVKdFdyRVVnM0JWcVdPcWItcnVQYnNV?oc=5
-- Supporting coverage: The Express Tribune, Dawn, X
-- Keywords: Judicial Independence, ICJ, Courts, Pakistan, Amendments, Law | hashtags: #ICJ #Judiciary #Pakistan #Law #Courts
-- Scheduled: Thu 19 Nov, 12:33 PM PKT
-- Caption:
-```
-The International Commission of Jurists has released a report deploring the state of judicial independence in Pakistan.
-
-The International Commission of Jurists (ICJ) has expressed serious concerns regarding judicial independence in Pakistan following recent constitutional amendments. The report highlights critical issues surrounding the legal and judicial framework in the country.
-
-انٹرنیشنل کمیشن آف جورسٹس (آئی سی جے) نے پاکستان میں عدلیہ کی آزادی کی صورتحال پر گہری تشویش کا اظہار کیا ہے۔ رپورٹ میں ملک میں عدالتی نظام اور قانون سازی کے اثرات کا احاطہ کیا گیا ہے۔
-
-First reported by The Express Tribune.
-
-#ICJ #Judiciary #Pakistan #Law #Courts
-```
-
-### PlayStation Network Suffers Brief Outage Hours Before Highly Anticipated GTA 6 Launch  [NORMAL]
-- Poster: جی ٹی اے 6 کی لانچ سے چند گھنٹے قبل پلے اسٹیشن نیٹ ورک بند / PlayStation Network Suffers Outage Before GTA 6 | category tech
-- Alternative headline: PSN Outage Hits Gamers Around the World Just Before GTA 6 Release
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/playstation-network-suffers-brief-outage-hours-before-gta-6-launch | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/playstation-network-suffers-brief-outage-hours-before-gta-6-launch
-- Supporting coverage: ARY News, samaa tv, TechJuice
-- Keywords: PlayStation Network, GTA 6, Outage, Gaming, PS5, Downdetector | hashtags: #PlayStation #PSN #GTA6 #Gaming #TechNews
-- Scheduled: Thu 19 Nov, 12:43 PM PKT
-- Caption:
-```
-PlayStation Network experienced a brief service disruption just hours before the historic release of GTA 6.
-
-PlayStation Network experienced a brief service outage on Wednesday, leaving players unable to access certain services just hours before the highly anticipated release of GTA 6. Downdetector registered hundreds of user reports regarding the technical glitch.
-
-پلے اسٹیشن نیٹ ورک کو انتہائی متوقع گیم جی ٹی اے 6 کی ریلیز سے چند گھنٹے قبل تکنیکی خرابی کا سامنا کرنا پڑا۔ ڈاؤن ڈٹیکٹر پر سینکڑوں صارفین نے سروس میں خلل کی شکایات درج کروائیں۔
-
-First reported by ARY News.
-
-#PlayStation #PSN #GTA6 #Gaming #TechNews
-```
-
-### Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Subsidy  [NORMAL]
-- Poster: خیبر پختونخوا میں سبز رکشہ اسکیم متعارف کرانے کا فیصلہ / KP to Launch Green Rickshaw Scheme | category other
-- Alternative headline: KP Introducing Eco-Friendly Green Rickshaw Scheme to Support Transport
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxOemxtU2NHOUM2R2JXdVpxS1VCdjU3LWZQZzdkeWJTRklPSG5HRnM4SUFCWDlfM3VEMXdoN1d2eHNPN0F6Mi1fSVg1R19LT05FcXhpTEFJOEJzWDlCby12M0dVdHJoZEMwT1hyUVlqREZ3LXd2dHNheEdwMy1BSk16WDRXLUw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxOemxtU2NHOUM2R2JXdVpxS1VCdjU3LWZQZzdkeWJTRklPSG5HRnM4SUFCWDlfM3VEMXdoN1d2eHNPN0F6Mi1fSVg1R19LT05FcXhpTEFJOEJzWDlCby12M0dVdHJoZEMwT1hyUVlqREZ3LXd2dHNheEdwMy1BSk16WDRXLUw?oc=5
-- Supporting coverage: Dawn, TechJuice
-- Keywords: Green Rickshaw Scheme, Khyber Pakhtunkhwa, KP, Subsidy, Transport, Eco-friendly | hashtags: #KP #GreenRickshaw #KhyberPakhtunkhwa #Transport #Pakistan
-- Scheduled: Thu 19 Nov, 12:53 PM PKT
-- Caption:
-```
-The Khyber Pakhtunkhwa government is introducing a new green rickshaw scheme aimed at supporting eco-friendly transport.
-
-The Khyber Pakhtunkhwa government is introducing a green rickshaw scheme to promote eco-friendly transportation and provide financial relief to local drivers through subsidies.
-
-خیبر پختونخوا حکومت صوبے میں ماحول دوست نقل و حمل کو فروغ دینے اور سبسڈی کے ذریعے ڈرائیوروں کو ریلیف دینے کے لیے گرین رکشہ اسکیم متعارف کرا رہی ہے۔
-
-First reported by Dawn.
-
-#KP #GreenRickshaw #KhyberPakhtunkhwa #Transport #Pakistan
-```
-
-- Indian outlets blocked this run: 11 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
 - [needs_review] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
@@ -350,10 +253,10 @@ First reported by Dawn.
 - [needs_review] normal | Scottish government faces questions over plans to issue first ever bon | Thu 19 Nov, 05:55 AM PKT
 - [needs_review] normal | Thirteen-year-old Hunger Games fan to have artwork shown in cinemas | Thu 19 Nov, 06:05 AM PKT
 - [published] normal | Crimean Bridge hit by fresh attack, says Russian-installed official | Thu 19 Nov, 06:56 AM PKT
-- [queued] normal | Van Gogh painting fetches record $190.4m following dispute resolution | Thu 19 Nov, 07:06 AM PKT
-- [queued] normal | Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz | Thu 19 Nov, 07:16 AM PKT
-- [queued] normal | Ambulance handover time limits breached over 2,000 times in four month | Thu 19 Nov, 07:26 AM PKT
-- [queued] normal | NASA’s Voyager 1 spacecraft reaches historic one light-day distance fr | Thu 19 Nov, 07:51 AM PKT
+- [needs_review] normal | Van Gogh painting fetches record $190.4m following dispute resolution | Thu 19 Nov, 07:06 AM PKT
+- [needs_review] normal | Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz | Thu 19 Nov, 07:16 AM PKT
+- [needs_review] normal | Ambulance handover time limits breached over 2,000 times in four month | Thu 19 Nov, 07:26 AM PKT
+- [published] normal | NASA’s Voyager 1 spacecraft reaches historic one light-day distance fr | Thu 19 Nov, 07:51 AM PKT
 - [queued] normal | Foreign firms repatriate $1.16 billion out of Pakistan, report reveals | Thu 19 Nov, 08:01 AM PKT
 - [queued] normal | FBR unveils proposed rules to introduce faceless tax appeals system | Thu 19 Nov, 08:11 AM PKT
 - [queued] normal | US Defence Secretary Hegseth announces military partnership during Ven | Thu 19 Nov, 08:21 AM PKT
@@ -375,14 +278,12 @@ First reported by Dawn.
 - [queued] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
 
 ## Publishing this run
-- Published 'Crimean Bridge hit by fresh attack, says Russian-installed official'.
+- Published 'NASA’s Voyager 1 spacecraft reaches historic one light-day distance from Earth'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 9366 | output tokens: 4723
-- Errors: 3
+- Calls: 3 | prompt tokens: 5596 | output tokens: 2167
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 182 column 7 (char 7910)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 73 column 7 (char 3156)
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: lin
