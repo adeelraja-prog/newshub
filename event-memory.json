@@ -71635,7 +71635,367 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7a48607086c1a448cee4eaf1",
+      "remembered_at": "2026-11-19T03:53:21.033239+00:00",
+      "event_date": "2026-11-19T01:55:26+00:00",
+      "last_update": "2026-11-19T03:25:31+00:00",
+      "event": "Poll tribunal suspends results of GBA-16, Diamer-II",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "diamer",
+        "gba",
+        "poll",
+        "results",
+        "suspends",
+        "tribunal"
+      ],
+      "source_excerpt": "Poll tribunal suspends results of GBA-16, Diamer-II Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0o0aXg1aWN1dDlxSDVnOWJOZVJxVWIzTEZSODY5Nk1OY3VMbTNYbGVnLXJVLVNhR2lWWW1pbDYxVGx2dG9MUzhqeFJfRjdNZGdzYUZfUlZvOG13MjNxTkwwYmFoTUhZMl9mY0w2akdBMjlPWG1CV2w0aXdjclE3ZzFrQUNLZWxxRDBZYw?oc=5",
+          "published_at": "2026-11-19T01:55:26+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045517/gb-poll-tribunal-suspends-results-of-gba-16-diamer-ii",
+          "published_at": "2026-11-19T03:25:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0o0aXg1aWN1dDlxSDVnOWJOZVJxVWIzTEZSODY5Nk1OY3VMbTNYbGVnLXJVLVNhR2lWWW1pbDYxVGx2dG9MUzhqeFJfRjdNZGdzYUZfUlZvOG13MjNxTkwwYmFoTUhZMl9mY0w2akdBMjlPWG1CV2w0aXdjclE3ZzFrQUNLZWxxRDBZYw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c871d3790ba732b2417cc71",
+      "remembered_at": "2026-11-19T03:53:21.033239+00:00",
+      "event_date": "2026-11-19T02:57:56+00:00",
+      "last_update": "2026-11-19T02:57:56+00:00",
+      "event": "Google’s driverless car hits a roadblock",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "amid",
+        "car",
+        "driverless",
+        "faces",
+        "floodwaters",
+        "francisco",
+        "fresh",
+        "google",
+        "hits",
+        "incidents",
+        "other",
+        "roadblock",
+        "san",
+        "scrutiny",
+        "stalled",
+        "traffic",
+        "waymo"
+      ],
+      "source_excerpt": "Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
+          "published_at": "2026-11-19T02:57:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c09001942c914c7d0420766a",
+      "remembered_at": "2026-11-19T03:53:21.033239+00:00",
+      "event_date": "2026-11-19T02:57:19+00:00",
+      "last_update": "2026-11-19T02:57:19+00:00",
+      "event": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "apec",
+        "are",
+        "chinese",
+        "first",
+        "from",
+        "hold",
+        "leaders",
+        "meeting",
+        "putin",
+        "russian",
+        "shenzhen",
+        "sidelines",
+        "summit",
+        "talks",
+        "the",
+        "their",
+        "three",
+        "trump",
+        "want",
+        "way",
+        "what"
+      ],
+      "source_excerpt": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+          "published_at": "2026-11-19T02:57:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1770c6dc49c3b9049baa0aca",
+      "remembered_at": "2026-11-19T03:53:21.033239+00:00",
+      "event_date": "2026-11-19T02:50:39+00:00",
+      "last_update": "2026-11-19T02:50:39+00:00",
+      "event": "Latest News, Pakistan News, World News, Sports News and Videos",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "dunya",
+        "latest",
+        "news",
+        "pakistan",
+        "sports",
+        "videos",
+        "world"
+      ],
+      "source_excerpt": "Latest News, Pakistan News, World News, Sports News and Videos Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xbXFfU0Rwb0hTcEk5RzQ4UllGWHVWWXNNZVRYcnluaTlOZHVaRjZvUDlFNjdNRTlCMTZDNDdHRWxiSjFTYzU2eEVMeDltMU1D?oc=5",
+          "published_at": "2026-11-19T02:50:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xbXFfU0Rwb0hTcEk5RzQ4UllGWHVWWXNNZVRYcnluaTlOZHVaRjZvUDlFNjdNRTlCMTZDNDdHRWxiSjFTYzU2eEVMeDltMU1D?oc=5",
+        "publisher_url": "https://dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "14314ec75700a83d3fa61b73",
+      "remembered_at": "2026-11-19T03:53:21.033239+00:00",
+      "event_date": "2026-11-19T02:44:42+00:00",
+      "last_update": "2026-11-19T02:44:42+00:00",
+      "event": "Suparco warns of worsening smog across Punjab over next 3 days",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045563",
+        "across",
+        "com",
+        "dawn",
+        "days",
+        "https",
+        "news",
+        "next",
+        "over",
+        "punjab",
+        "smog",
+        "suparco",
+        "warns",
+        "worsening",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045563",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045605/suparco-warns-of-worsening-smog-across-punjab-over-next-3-days",
+          "published_at": "2026-11-19T02:44:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045605/suparco-warns-of-worsening-smog-across-punjab-over-next-3-days",
+        "publisher_url": "https://www.dawn.com/news/2045605/suparco-warns-of-worsening-smog-across-punjab-over-next-3-days",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "893d52ffbeac14ae8909eb1e",
+      "remembered_at": "2026-11-19T03:53:21.033239+00:00",
+      "event_date": "2026-11-19T03:44:45+00:00",
+      "last_update": "2026-11-19T03:44:45+00:00",
+      "event": "Pakistan’s solar revolution was an accident. The next phase must be designed",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045586",
+        "accident",
+        "com",
+        "dawn",
+        "designed",
+        "https",
+        "leveraging",
+        "must",
+        "news",
+        "next",
+        "pakistan",
+        "phase",
+        "revolution",
+        "solar",
+        "the",
+        "was",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045586/leveraging-the-solar-revolution",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045613/pakistans-solar-revolution-was-an-accident-the-next-phase-must-be-designed",
+          "published_at": "2026-11-19T03:44:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045613/pakistans-solar-revolution-was-an-accident-the-next-phase-must-be-designed",
+        "publisher_url": "https://www.dawn.com/news/2045613/pakistans-solar-revolution-was-an-accident-the-next-phase-must-be-designed",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a818e07af8c39e4926e586b7",
+      "remembered_at": "2026-11-19T03:53:21.033239+00:00",
+      "event_date": "2026-11-19T03:28:44+00:00",
+      "last_update": "2026-11-19T03:28:44+00:00",
+      "event": "Balochistan lawmakers stage walkout over remarks against woman MPA",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "against",
+        "allegedly",
+        "and",
+        "apologising",
+        "assembly",
+        "azeem",
+        "balochistan",
+        "bugti",
+        "chief",
+        "derogatory",
+        "farah",
+        "fellow",
+        "intolerable",
+        "lawmaker",
+        "lawmakers",
+        "made",
+        "members",
+        "minister",
+        "mpa",
+        "opposition",
+        "over",
+        "protest",
+        "quetta",
+        "remarks",
+        "sarfraz",
+        "shah",
+        "shameful",
+        "stage",
+        "staged",
+        "sury",
+        "termed",
+        "the",
+        "trea",
+        "walkout",
+        "wednesday",
+        "woman"
+      ],
+      "source_excerpt": "QUETTA: Opposition and trea­sury members of the Balochistan Assembly on Wednesday staged a walkout in protest against allegedly derogatory remarks made by a fellow lawmaker about MPA Farah Azeem Shah. Chief Minister Sarfraz Bugti termed the remarks shameful and intolerable, apologising to Ms Shah on",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045516/balochistan-lawmakers-stage-walkout-over-remarks-against-woman-mpa",
+          "published_at": "2026-11-19T03:28:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045516/balochistan-lawmakers-stage-walkout-over-remarks-against-woman-mpa",
+        "publisher_url": "https://www.dawn.com/news/2045516/balochistan-lawmakers-stage-walkout-over-remarks-against-woman-mpa",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T02:51:39.823437+00:00"
+  "updated_at": "2026-11-19T03:53:21.033239+00:00"
 }

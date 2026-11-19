@@ -1,151 +1,147 @@
-# News Hub report - Thu 19 Nov, 07:51 AM PKT
+# News Hub report - Thu 19 Nov, 08:53 AM PKT
 
 ## Collection
-- New items this run: 87 | items in rolling pool: 297
-- Unique story clusters: 271 (duplicates merged: 26)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 1
-- Items per outlet: Dawn 65, Profit by Pakistan Today 4, Investify 4, Geo News 2, Al Jazeera 2, The Express Tribune 2, The News International 1, GSMArena 1, BBC Technology 1, Ynetnews 1, Axios 1, Bloomberg 1
+- New items this run: 23 | items in rolling pool: 275
+- Unique story clusters: 245 (duplicates merged: 30)
+- Clusters dropped as already published/queued: 32; unchanged since last analysis: 2
+- Items per outlet: Dawn Pakistan 7, Al Jazeera 4, Geo News 3, ARY News 2, Dunya News 1, The Express Tribune 1, X 1, Profit by Pakistan Today 1, Open Magazine 1, CNBC 1, France 24 1, Jang Fast Lane 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- NASA’s Voyager 1 hits record one light-day distance, 50 years after launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Foreign firms repatriate $1.16b out of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBR unveils proposed rules for faceless tax appeals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why a trio of experts alleges Jeffrey Epstein did not die by suicide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cummins defiant as 'Sandpapergate' roils Australian cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI’s legal eagles ‘shake and make up’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Poll tribunal suspends results of GBA-16, Diamer-II | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Google’s driverless car hits a roadblock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- NASA’s Voyager 1 hits record one light-day distance, 50 years after launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Foreign firms repatriate $1.16b out of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBR unveils proposed rules for faceless tax appeals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why a trio of experts alleges Jeffrey Epstein did not die by suicide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cummins defiant as 'Sandpapergate' roils Australian cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI’s legal eagles ‘shake and make up’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Poll tribunal suspends results of GBA-16, Diamer-II | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Google’s driverless car hits a roadblock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- NASA’s Voyager 1 hits record one light-day distance, 50 years after launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Foreign firms repatriate $1.16b out of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBR unveils proposed rules for faceless tax appeals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why a trio of experts alleges Jeffrey Epstein did not die by suicide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cummins defiant as 'Sandpapergate' roils Australian cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI’s legal eagles ‘shake and make up’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Poll tribunal suspends results of GBA-16, Diamer-II | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Google’s driverless car hits a roadblock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 100/107 | empty: 2 | failed: 5 | malformed/partial: 5
+- Overall feeds with entries: 102/107 | empty: 2 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Jang Urdu | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Parliament and Constitution Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### NASA’s Voyager 1 spacecraft reaches historic one light-day distance from Earth  [NORMAL]
-- Poster: وয়েডجر 1 نے زمین سے ایک نائٹ ڈے کا تاریخی فاصلہ طے کر لیا / Voyager 1 reaches one light-day milestone | category science
-- Alternative headline: Voyager 1 hits record-breaking one light-day distance after nearly 50 years
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss
-- Supporting coverage: Al Jazeera, Dawn
-- Keywords: Voyager 1, NASA, space mission, light day distance, space exploration | hashtags: #Voyager1 #NASA #SpaceExploration #ScienceNews
-- Scheduled: Thu 19 Nov, 07:51 AM PKT
-- Caption:
-```
-NASA's iconic Voyager 1 spacecraft has reached a staggering milestone, hitting a record-breaking one light-day distance from Earth nearly 50 years after its launch.
-
-NASA’s Voyager 1 spacecraft has reached a historic milestone by hitting a record-breaking distance of one light-day from Earth, nearly 50 years after its initial launch in 1977.
-
-ناسا کے وয়েডجر 1 خلائی جہاز نے 1977 میں اپنے اجراء کے تقریباً 50 سال بعد زمین سے ایک نائٹ ڈے کے ریکارڈ فاصلے تک پہنچ کر ایک تاریخی سنگ میل عبور کر لیا ہے۔
-
-First reported by Al Jazeera.
-
-#Voyager1 #NASA #SpaceExploration #ScienceNews
-```
-
-### Foreign firms repatriate $1.16 billion out of Pakistan, report reveals  [NORMAL]
-- Poster: غیر ملکی کمپنیوں نے پاکستان سے 1.16 ارب ڈالر باہر منتقل کر دیے / Foreign firms repatriate $1.16b from Pakistan | category economy
-- Alternative headline: Pakistan sees foreign companies repatriate $1.16b in capital outflow
+### Cummins defiant as Sandpapergate roils Australian cricket once again  [NORMAL]
+- Poster: آسٹریلوی کرکٹ میں سینڈ پیپر گیٹ اسکینڈل پر کپتان پیٹ کمنز کا سخت موقف / Cummins defiant as Sandpapergate roils Australian cricket | category sports
+- Alternative headline: Pat Cummins stays defiant as ball tampering scandal returns to cricket
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlaMWhWSVpKM3JEeHFudHk3VndQSXk5bkJXcENJcWN5cGxWMlBENzMtWjJDOGFmQURWN1ZTNFBrQUR3QXZkSzBuYUZqSjh3bllCallrVmhTOXB2Qk1ZaUNUQURteHUtM3Q3RndUdy0tQ0hsZVRxTjlkS0ZtbEROZDFDWDJ1cE9QcFHSAZIBQVVfeXFMTUFTNUdzT1gwRVYyVnM4dXJiTnV1V2lKN1ZRSmJJZHlOZGk0T3libWJaRURISWcyMkJybUFBX1JSalNJUkQ0LTc3Sks2SjV5VVRnbnBRanNIT0NRSmgyREZpLTlhb01WZm90QVYycU5jR01jRk5Eck1MTXVLSkZNWE9STXJEQm1CZVpEaEcxNTZ0MHc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlaMWhWSVpKM3JEeHFudHk3VndQSXk5bkJXcENJcWN5cGxWMlBENzMtWjJDOGFmQURWN1ZTNFBrQUR3QXZkSzBuYUZqSjh3bllCallrVmhTOXB2Qk1ZaUNUQURteHUtM3Q3RndUdy0tQ0hsZVRxTjlkS0ZtbEROZDFDWDJ1cE9QcFHSAZIBQVVfeXFMTUFTNUdzT1gwRVYyVnM4dXJiTnV1V2lKN1ZRSmJJZHlOZGk0T3libWJaRURISWcyMkJybUFBX1JSalNJUkQ0LTc3Sks2SjV5VVRnbnBRanNIT0NRSmgyREZpLTlhb01WZm90QVYycU5jR01jRk5Eck1MTXVLSkZNWE9STXJEQm1CZVpEaEcxNTZ0MHc?oc=5
-- Supporting coverage: The Express Tribune, Investify
-- Keywords: foreign repatriation, Pakistan economy, capital outflow, foreign firms, The Express Tribune | hashtags: #PakistanEconomy #ForeignInvestment #BusinessNews #Economy
-- Scheduled: Thu 19 Nov, 08:01 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnZ5S1VTTC1SS1ZBa3ZGeVd5QWdSa2tLOFhZR0FhTG01OGF3YlhOV0ExS2hzdjFIUVhaaE5uVW9Na2FYdGtGQUVFOXpSOXVQM3RxSDBxYUhtd3pwS3NUUXRHYmZTU2pCc21DZnZ5MjNvMk9uMXVqMVdKcHJIOXlfVVJzMEFWeU9kSV9IWVVJTWtGRk5mMmc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnZ5S1VTTC1SS1ZBa3ZGeVd5QWdSa2tLOFhZR0FhTG01OGF3YlhOV0ExS2hzdjFIUVhaaE5uVW9Na2FYdGtGQUVFOXpSOXVQM3RxSDBxYUhtd3pwS3NUUXRHYmZTU2pCc21DZnZ5MjNvMk9uMXVqMVdKcHJIOXlfVVJzMEFWeU9kSV9IWVVJTWtGRk5mMmc?oc=5
+- Supporting coverage: Dawn, Dawn Latest, ARY News
+- Keywords: Sandpapergate, Pat Cummins, Australian cricket, ball tampering, Dawn | hashtags: #PatCummins #Sandpapergate #AustralianCricket #CricketNews
+- Scheduled: Thu 19 Nov, 08:53 AM PKT
 - Caption:
 ```
-New economic data highlights significant capital outflow as foreign firms repatriate $1.16 billion out of Pakistan.
+Australian cricket is facing fresh turbulence as captain Pat Cummins remains defiant over the lingering controversy surrounding the Sandpapergate scandal.
 
-Recent reports indicate that foreign firms have repatriated $1.16 billion out of Pakistan, reflecting notable financial outflows from the country's corporate sector.
+Australian cricket captain Pat Cummins has taken a defiant stance as the long-running controversy surrounding the Sandpapergate ball-tampering scandal continues to stir debate within the cricketing world, drawing fresh scrutiny over past events.
 
-حالیہ رپورٹس سے پتہ چلتا ہے کہ غیر ملکی کمپنیوں نے پاکستان سے 1.16 ارب ڈالر باہر منتقل کر دیے ہیں، جو ملک کے کارپوریٹ شعبے سے سرمائے کے نمایاں اخراج کی عکاسی کرتا ہے۔
+آسٹریلوی کرکٹ ٹیم کے کپتان پیٹ کمنز نے سینڈ پیپر گیٹ اسکینڈل سے متعلق اٹھنے والے تنازع پر سخت اور غیر متزلزل مؤقف اختیار کیا ہے، جس سے ایک بار پھر کرکٹ کی دنیا میں ہلچل مچ گئی ہے۔
 
-First reported by The Express Tribune.
+First reported by Dawn
 
-#PakistanEconomy #ForeignInvestment #BusinessNews #Economy
+#PatCummins #Sandpapergate #AustralianCricket #CricketNews
 ```
 
-### FBR unveils proposed rules to introduce faceless tax appeals system  [NORMAL]
-- Poster: ایف بی آر نے بے نامی ٹیکس اپیلوں کے لیے نئے قوانین پیش کر دیے / FBR proposes rules for faceless tax appeals | category courts
-- Alternative headline: Federal Board of Revenue proposes new rules for faceless tax appeals
+### PTI legal eagles Salman Akram Raja and Latif Khosa shake and make up  [NORMAL]
+- Poster: پی ٹی آئی کے قانونی رہنماؤں سلمان اکرم راجہ اور لطیف کھوسہ کے درمیان صلح / PTI legal eagles shake and make up | category politics
+- Alternative headline: PTI leaders Salman Akram Raja and Latif Khosa resolve differences
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXRGOHM4QThzeUswT3VzbmotbXZFWlJkNnR3WDY3eV95eDVlOUVRcGRXcmJsQ3EtZW0wekZIRDhWMlV4OXFXMGxPMXBmaGRwQ3JMNm5IMXh3R0R4VU9rZDFmZXZFX2Y0cDVWa3d3YlVmMHpYLW04b0JOSHMwT2Y5cXNtbWZFVGFQOURZNWJ3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXRGOHM4QThzeUswT3VzbmotbXZFWlJkNnR3WDY3eV95eDVlOUVRcGRXcmJsQ3EtZW0wekZIRDhWMlV4OXFXMGxPMXBmaGRwQ3JMNm5IMXh3R0R4VU9rZDFmZXZFX2Y0cDVWa3d3YlVmMHpYLW04b0JOSHMwT2Y5cXNtbWZFVGFQOURZNWJ3?oc=5
-- Supporting coverage: Dawn, Profit by Pakistan Today
-- Keywords: FBR tax appeals, faceless appeals, Federal Board of Revenue, Pakistan tax, Dawn | hashtags: #FBR #TaxAppeals #PakistanTax #BusinessNews
-- Scheduled: Thu 19 Nov, 08:11 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMieEFVX3lxTE1CS1BMWF9VNHJWSnhweEEwbkNoYmY5RXZoTTdCNG9pbXRiYmxlVEw3SldvM0dtd0ozTEN1OXJELVFBNGthMnltaFN3Y01VNVV3WFlfVUQ5NHV3TklFQ21ZanU5Rzd1YTVremZnS29takNoMzF4b1FuVA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMieEFVX3lxTE1CS1BMWF9VNHJWSnhweEEwbkNoYmY5RXZoTTdCNG9pbXRiYmxlVEw3SldvM0dtd0ozTEN1OXJELVFBNGthMnltaFN3Y01VNVV3WFlfVUQ5NHV3TklFQ21ZanU5Rzd1YTVremZnS29takNoMzF4b1FuVA?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Salman Akram Raja, Latif Khosa, PTI, legal eagles, Dawn | hashtags: #PTI #SalmanAkramRaja #LatifKhosa #PakistanPolitics
+- Scheduled: Thu 19 Nov, 09:03 AM PKT
 - Caption:
 ```
-The Federal Board of Revenue has unveiled proposed rules aimed at modernising the dispute resolution process through faceless tax appeals.
+PTI's prominent legal minds Salman Akram Raja and Latif Khosa have resolved their differences, bringing a sigh of relief to party supporters.
 
-The Federal Board of Revenue (FBR) has unveiled proposed rules for faceless tax appeals, starting with sales tax and proposing a similar system for income tax to streamline proceedings.
+Prominent Pakistan Tehreek-e-Insaf legal figures Salman Akram Raja and Latif Khosa have reportedly resolved their internal differences and made up, according to reports published by Dawn.
 
-فیڈرل بورড آف ریونیو (ایف بی آر) نے سیلز ٹیکس کے لیے بے نامی ٹیکس اپیلوں کے نئے قواعد پیش کر دیے ہیں اور انکم ٹیکس کے لیے بھی ایسے ہی نظام کی تجویز دی ہے۔
+پاکستان تحریک انصاف کے اہم قانونی رہنماؤں سلمان اکرم راجہ اور لطیف کھوسہ نے اپنے اختلافات ختم کرتے ہوئے آپس میں صلح کر لی ہے، جس کی رپورٹ ڈان نے جاری کی ہے۔
 
-First reported by Dawn.
+First reported by Dawn
 
-#FBR #TaxAppeals #PakistanTax #BusinessNews
+#PTI #SalmanAkramRaja #LatifKhosa #PakistanPolitics
 ```
 
-### US Defence Secretary Hegseth announces military partnership during Venezuela trip  [NORMAL]
-- Poster: امریکہ اور وینزویلا کے درمیان نئے فوجی شراکت داری معاہدے کا اعلان / US-Venezuela military partnership announced | category world
-- Alternative headline: US and Venezuela establish new military partnership, reveals Pete Hegseth
+### Poll tribunal suspends election results of GBA-16 and Diamer-II  [NORMAL]
+- Poster: انتخابی ٹریبونل نے جی بی اے 16 اور دیامر 2 کے نتائج معطل کر دیے / Poll tribunal suspends GBA-16 and Diamer-II results | category courts
+- Alternative headline: Gilgit-Baltistan poll tribunal suspends results for GBA-16 and Diamer-II
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0o0aXg1aWN1dDlxSDVnOWJOZVJxVWIzTEZSODY5Nk1OY3VMbTNYbGVnLXJVLVNhR2lWWW1pbDYxVGx2dG9MUzhqeFJfRjdNZGdzYUZfUlZvOG13MjNxTkwwYmFoTUhZMl9mY0w2akdBMjlPWG1CV2w0aXdjclE3ZzFrQUNLZWxxRDBZYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0o0aXg1aWN1dDlxSDVnOWJOZVJxVWIzTEZSODY5Nk1OY3VMbTNYbGVnLXJVLVNhR2lWWW1pbDYxVGx2dG9MUzhqeFJfRjdNZGdzYUZfUlZvOG13MjNxTkwwYmFoTUhZMl9mY0w2akdBMjlPWG1CV2w0aXdjclE3ZzFrQUNLZWxxRDBZYw?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: poll tribunal, GBA-16, Diamer-II, Gilgit-Baltistan, Dawn | hashtags: #GilgitBaltistan #ElectionTribunal #GBElections
+- Scheduled: Thu 19 Nov, 09:13 AM PKT
+- Caption:
+```
+The election tribunal has suspended the controversial results of GBA-16 and Diamer-II, dealing a significant blow to the electoral process in the region.
+
+The election tribunal has officially suspended the results of GBA-16 and Diamer-II, according to reports by Dawn, as legal challenges regarding the constituencies continue to unfold.
+
+ڈان کی رپورٹ کے مطابق انتخابی ٹریبونل نے حلقہ جی بی اے 16 اور دیامر 2 کے انتخابی نتائج معطل کر دیے ہیں، جس کے بعد اس معاملے پر مزید قانونی کارروائی متوقع ہے۔
+
+First reported by Dawn
+
+#GilgitBaltistan #ElectionTribunal #GBElections
+```
+
+### Elon Musk calls record spending on US midterms pretty foolish  [NORMAL]
+- Poster: ایلون مسک کا امریکی مڈٹرم انتخابات پر بھاری اخراجات کو حماقت قرار دینے کا اعتراف / Elon Musk calls US midterm spending foolish | category us_politics
+- Alternative headline: Elon Musk admits heavy midterm spending was a mistake after GOP defeats
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Pete Hegseth, US Venezuela relations, military partnership, Defence Secretary, Al Jazeera | hashtags: #USNews #Venezuela #MilitaryPartnership #Geopolitics
-- Scheduled: Thu 19 Nov, 08:21 AM PKT
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology
+- Keywords: Elon Musk, US midterms, Donald Trump, Republicans, Democrats | hashtags: #ElonMusk #USMidterms #DonaldTrump #USPolitics
+- Scheduled: Thu 19 Nov, 09:23 AM PKT
 - Caption:
 ```
-US Defence Secretary Pete Hegseth has revealed a new military partnership with Venezuela during his official visit to the country.
+Tech billionaire Elon Musk admitted he felt pretty foolish about his record financial backing of Republican candidates following sweeping Democratic victories.
 
-US Defence Secretary Pete Hegseth has announced a new military partnership during a trip to Venezuela, stating that the agreement will involve joint training and intelligence sharing.
+Billionaire Elon Musk stated that he felt quite foolish about spending a record 446 million dollars supporting Donald Trump's party in the US midterms, following major Republican defeats and Democratic gains across both congressional chambers.
 
-امریکی وزیر دفاع پیٹ ہیگسیتھ نے وینزویلا کے دورے کے دوران نئی فوجی شراکت داری کا اعلان کیا ہے، جس میں مشترکہ تربیتی اور انٹیلی جنس شیئرنگ شامل ہوگی۔
+ارب پتی ایلون مسک نے اعتراف کیا ہے کہ امریکی مڈٹرم انتخابات میں ڈونلڈ ٹرمپ کی پارٹی کی حمایت کے لیے 446 ملین ڈالر کی ریکارڈ رقم خرچ کرنا ایک احمقانہ فیصلہ تھا۔ یہ بیان ریپبلکنز کی شکست کے بعد سامنے آیا۔
 
-First reported by Al Jazeera.
+First reported by BBC Technology
 
-#USNews #Venezuela #MilitaryPartnership #Geopolitics
+#ElonMusk #USMidterms #DonaldTrump #USPolitics
 ```
 
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
 - [needs_review] high | Pakistan Proposes Virtual Green University And Youth Fund At COP31 | Mon 16 Nov, 07:33 AM PKT
-- [needs_review] high | School Assembly News: Top headlines, thought and GK questions for Nov  | Mon 16 Nov, 07:48 AM PKT
 - [needs_review] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
-- [published] normal | Restoration of student unions demanded | Mon 16 Nov, 09:01 AM PKT
 - [needs_review] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
 - [needs_review] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
 - [published] normal | Indonesian president apologises to Singapore, Malaysia for wildfire ha | Mon 16 Nov, 10:31 AM PKT
@@ -341,9 +337,9 @@ First reported by Al Jazeera.
 - [published] normal | Kuwait and Bahrain face new Iran attacks following US strike | Thu 19 Nov, 01:51 AM PKT
 - [published] normal | Internet services face nationwide disruption due to submarine cable fa | Thu 19 Nov, 02:01 AM PKT
 - [published] normal | Israeli settler kills Palestinian grandmother in occupied West Bank | Thu 19 Nov, 02:11 AM PKT
-- [queued] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
-- [queued] normal | Israeli military launches rare ground operation in Gaza beyond Yellow  | Thu 19 Nov, 02:50 AM PKT
-- [queued] normal | Putin’s nuclear briefcase makes surprise appearance at China summit | Thu 19 Nov, 03:00 AM PKT
+- [needs_review] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
+- [needs_review] normal | Israeli military launches rare ground operation in Gaza beyond Yellow  | Thu 19 Nov, 02:50 AM PKT
+- [published] normal | Putin’s nuclear briefcase makes surprise appearance at China summit | Thu 19 Nov, 03:00 AM PKT
 - [queued] normal | Muslims projected to overtake Christians as world’s largest religious  | Thu 19 Nov, 03:10 AM PKT
 - [queued] normal | US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | Thu 19 Nov, 03:20 AM PKT
 - [queued] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Thu 19 Nov, 03:41 AM PKT
@@ -366,15 +362,16 @@ First reported by Al Jazeera.
 - [queued] normal | Foreign firms repatriate $1.16 billion out of Pakistan, report reveals | Thu 19 Nov, 08:01 AM PKT
 - [queued] normal | FBR unveils proposed rules to introduce faceless tax appeals system | Thu 19 Nov, 08:11 AM PKT
 - [queued] normal | US Defence Secretary Hegseth announces military partnership during Ven | Thu 19 Nov, 08:21 AM PKT
+- [queued] normal | Cummins defiant as Sandpapergate roils Australian cricket once again | Thu 19 Nov, 08:53 AM PKT
+- [queued] normal | PTI legal eagles Salman Akram Raja and Latif Khosa shake and make up | Thu 19 Nov, 09:03 AM PKT
+- [queued] normal | Poll tribunal suspends election results of GBA-16 and Diamer-II | Thu 19 Nov, 09:13 AM PKT
+- [queued] normal | Elon Musk calls record spending on US midterms pretty foolish | Thu 19 Nov, 09:23 AM PKT
 
 ## Publishing this run
-- Published 'Israeli settler kills Palestinian grandmother in occupied West Bank'.
+- Published 'Putin’s nuclear briefcase makes surprise appearance at China summit'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4632 | output tokens: 1879
+- Calls: 3 | prompt tokens: 4079 | output tokens: 2770
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
