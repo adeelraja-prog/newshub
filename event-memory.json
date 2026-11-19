@@ -79481,7 +79481,797 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7dc1c890161c70ca7e227434",
+      "remembered_at": "2026-11-19T18:11:44.474720+00:00",
+      "event_date": "2026-11-19T17:36:20+00:00",
+      "last_update": "2026-11-19T18:00:12+00:00",
+      "event": "Petrol price rises by Rs1 per litre; diesel rate unchanged",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "diesel",
+        "litre",
+        "per",
+        "petrol",
+        "price",
+        "rate",
+        "rises",
+        "rs1",
+        "samaa",
+        "unchanged"
+      ],
+      "source_excerpt": "Petrol price rises by Rs1 per litre; diesel rate unchanged samaa tv",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemJUbW1YMVFoWm96NzE3MDNLRmdlY250Z0FGOEVPV2dZTGo4WXZHa3FmTWxsQ3BJZWRINnU1M0FNSnliMkdzSWN1cXVsMVpITWlFclFVNEdWTVgzZzJ3dlc2aWx1TkVtbVZaWFNXYk5Mc0tQSGJQMGFuRU51LTVNWVJ6TUNuWjd4SC10Z1owd1QwSjVvWHFuTTlSS0NxMmVjLTZSYnNEYTExMVJZOUHSAVZBVV95cUxNbWpBVkdrQ18ydmtIc0NkYWI4cnFOTU5SaWo3OW1lWVhOd2hUTXE0NW1qTElzX0M3V0JtWWZMbHpvSFEyWHJPV0tYNTVtTFRGZ2RsZVpmUQ?oc=5",
+          "published_at": "2026-11-19T17:36:20+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLW5RRTFka25XVzdCaExGWEk5NzNkai04V0dXS0dJQjE1bW9zbFh6Xy1hdXZFUzNSaFhXaHQzQV9PRk5vM0NFUkdUbnM0QnlqeHZKa1dXd1FMYWlBNHNON3hXQXBVd2tNckloZk02ZTg5ZWhqazZBc21ka2NUZXA4NmxfTmlHbXIxZlFKVFR2UkRxbGFMNXBkTXpOcmZrV3p6SGpNUVlB?oc=5",
+          "published_at": "2026-11-19T17:41:32+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMThOQkxLbUNPNmIzVmk4YnZseHhKQ2Z2VW9KSEs2MXB6Ym56ellQZXl6dzFnWVdMNUdCaUxCaHB4bkdtUU5jN2w0WmZFNVBCVVloSnBhWlJwTFRMSEVWNEozbFpkN2gxTm9YdEl1Z2NjNWxFM2ZuX2FCcWpyaG4zdlBHVlRZMy1xSWV1RG5UQjhIcTF00gFTQVVfeXFMTWRlcnZtM0pmMWtCRnRrbUVlaUZab1hBcFZoYWVLS2FHbC1PZ0RseU83Z014cDBPdEN6bm1WdlJQY0RTMDFMeTR5ZzFncHhsdy1Jdm8?oc=5",
+          "published_at": "2026-11-19T17:42:05+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/ogra-increases-petrol-price-keeps-diesel-rate-unchanged",
+          "published_at": "2026-11-19T17:42:23+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGFsdXBzNjJiOFdfOVpsM2RNT3ZhUkoxUnpBMnc0N0hqNExsRG5ILUVnWTVHVlROd1ZtM1p3bXpPYmNCWGd4U1lvTkgweEhlTTNPMlB6U1YwRFJwOF82RmlpV2ZESWlFOGhTcThvRmw3TDd2NjRqUVRJVVJabHJNM1kwdThaN0ZLQnNYY2NhaUJWSVNNUjRjRkRR?oc=5",
+          "published_at": "2026-11-19T18:00:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLW5RRTFka25XVzdCaExGWEk5NzNkai04V0dXS0dJQjE1bW9zbFh6Xy1hdXZFUzNSaFhXaHQzQV9PRk5vM0NFUkdUbnM0QnlqeHZKa1dXd1FMYWlBNHNON3hXQXBVd2tNckloZk02ZTg5ZWhqazZBc21ka2NUZXA4NmxfTmlHbXIxZlFKVFR2UkRxbGFMNXBkTXpOcmZrV3p6SGpNUVlB?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "442b3ea743ce1ac56af70b81",
+      "remembered_at": "2026-11-19T18:11:44.474720+00:00",
+      "event_date": "2026-11-19T17:50:21+00:00",
+      "last_update": "2026-11-19T17:50:21+00:00",
+      "event": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "china",
+        "chinese",
+        "forces",
+        "join",
+        "peace",
+        "president",
+        "putin",
+        "russia",
+        "russian",
+        "safeguard",
+        "trump",
+        "urged",
+        "urges",
+        "with",
+        "work",
+        "world"
+      ],
+      "source_excerpt": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+          "published_at": "2026-11-19T17:50:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3272cd0be7b042e6acfa77f2",
+      "remembered_at": "2026-11-19T18:11:44.474720+00:00",
+      "event_date": "2026-11-19T17:15:30+00:00",
+      "last_update": "2026-11-19T17:15:30+00:00",
+      "event": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acquittal",
+        "after",
+        "analysts",
+        "backlash",
+        "bid",
+        "continues",
+        "face",
+        "fizzled",
+        "for",
+        "hegseth",
+        "his",
+        "impeachment",
+        "leadership",
+        "microscope",
+        "not",
+        "pentagon",
+        "say",
+        "still",
+        "under",
+        "vote",
+        "week"
+      ],
+      "source_excerpt": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
+          "published_at": "2026-11-19T17:15:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "54fe210a16400ad41d5eb089",
+      "remembered_at": "2026-11-19T18:11:44.474720+00:00",
+      "event_date": "2026-11-19T17:52:09+00:00",
+      "last_update": "2026-11-19T17:52:09+00:00",
+      "event": "Illegal cigarette plant in Bourne could make 200,000 a day",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "200",
+        "bbc",
+        "bourne",
+        "cigarette",
+        "could",
+        "day",
+        "illegal",
+        "make",
+        "plant"
+      ],
+      "source_excerpt": "Illegal cigarette plant in Bourne could make 200,000 a day BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JZGhGMmZlZW9OTURWWjZHQVRYalNScFVPLXdMcTR2OXROY2ZSSEdvR0dxV0Z3TzRlRWVsakQyd3pjZW9taDN3OGNScU9NclhGbXNiMVB6Wm4yY3M?oc=5",
+          "published_at": "2026-11-19T17:52:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JZGhGMmZlZW9OTURWWjZHQVRYalNScFVPLXdMcTR2OXROY2ZSSEdvR0dxV0Z3TzRlRWVsakQyd3pjZW9taDN3OGNScU9NclhGbXNiMVB6Wm4yY3M?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a2b1ef0769f46b35f44f37a8",
+      "remembered_at": "2026-11-19T18:11:44.474720+00:00",
+      "event_date": "2026-11-19T17:11:20+00:00",
+      "last_update": "2026-11-19T17:11:20+00:00",
+      "event": "Middle East",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "east",
+        "middle"
+      ],
+      "source_excerpt": "Middle East BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mdGRGZGN1Vm4xeWtCUTBFMGRPbWlXMnZsQWtuMkR6THpPM0JhOGNpRktxVkVjRUt2aFVOb2FhSGJqam1hYk9Gd2wyWUxKS044S1dmYw?oc=5",
+          "published_at": "2026-11-19T17:11:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mdGRGZGN1Vm4xeWtCUTBFMGRPbWlXMnZsQWtuMkR6THpPM0JhOGNpRktxVkVjRUt2aFVOb2FhSGJqam1hYk9Gd2wyWUxKS044S1dmYw?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f4821be47856af1e3fbfd623",
+      "remembered_at": "2026-11-19T18:11:44.474720+00:00",
+      "event_date": "2026-11-19T17:53:26+00:00",
+      "last_update": "2026-11-19T17:53:26+00:00",
+      "event": "US military spending on Iran war crosses $48 billion",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "billion",
+        "crosses",
+        "iran",
+        "military",
+        "spending",
+        "war"
+      ],
+      "source_excerpt": "US military spending on Iran war crosses $48 billion ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NzVwZGFmeV9LdEp3UWVIaUk1bWtFOWJPZE1JOEhDNi1CR0NtOXpVbHFEWHJqVFNPUVc1WmtSNmFVRk5PY2FCX0ZxYXRXTTFxdkV2T1AxcGUxUUJfdjYzMGVyLWRJMVl0VVZRNzdiTjA3MFVzY1JUTFNn?oc=5",
+          "published_at": "2026-11-19T17:53:26+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/us-military-spending-on-iran-war-crosses-48-billion",
+          "published_at": "2026-11-19T17:53:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NzVwZGFmeV9LdEp3UWVIaUk1bWtFOWJPZE1JOEhDNi1CR0NtOXpVbHFEWHJqVFNPUVc1WmtSNmFVRk5PY2FCX0ZxYXRXTTFxdkV2T1AxcGUxUUJfdjYzMGVyLWRJMVl0VVZRNzdiTjA3MFVzY1JUTFNn?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bb981da889fe52772192673d",
+      "remembered_at": "2026-11-19T19:25:33.936593+00:00",
+      "event_date": "2026-11-19T18:33:45+00:00",
+      "last_update": "2026-11-19T19:16:21+00:00",
+      "event": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allies",
+        "berlin",
+        "ending",
+        "europe",
+        "european",
+        "for",
+        "have",
+        "leaders",
+        "negotiating",
+        "position",
+        "ready",
+        "russia",
+        "say",
+        "summit",
+        "talks",
+        "they",
+        "ukraine",
+        "united",
+        "war",
+        "with"
+      ],
+      "source_excerpt": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "sources": [
+        {
+          "name": "Sky News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcEdfVllWVXlSYXNabGx1YzF4ajlSSVhvN3dsSGttdm9PVkIwZExNb1QzUWpyTjdFREFtWmlGRFlOZEdvLVNER1NDREg2NUMta0prcGVJRHBkYnhLa2o1RllTeTJTMUZDZ3hpMHE5cHF0clRWcE1NVVJGbE9Ca25ZaV9Ec3dEdHBxNXctQ3h0UHp6WFJoOEdIc0IzMmNRV1RHX0VLbUZmd05qcnB6UGx0R0lyMUd6MWR5TlZ6U2k3Umg2Zw?oc=5",
+          "published_at": "2026-11-19T18:33:45+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T19:16:21+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4akxXcHFqbTV0dzV2MnZpTVFTc21SSGhVM3dCbnVpNlNpYUhWdHhWdWZlanlQQzdYOXdaLXVHdC1ZWHdzWkFDa2piREFkZ3cwS0IwV2d4X2JnbW8?oc=5",
+          "published_at": "2026-11-19T19:16:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8cdb97c96d69343205e9eb08",
+      "remembered_at": "2026-11-19T19:25:33.936593+00:00",
+      "event_date": "2026-11-19T19:18:45+00:00",
+      "last_update": "2026-11-19T19:18:45+00:00",
+      "event": "President urges implementation of Pakistan-Maldives MoUs",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "implementation",
+        "maldives",
+        "mous",
+        "pakistan",
+        "president",
+        "urges"
+      ],
+      "source_excerpt": "President urges implementation of Pakistan-Maldives MoUs",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/president-urges-implementation-of-pakistan-maldives-mous",
+          "published_at": "2026-11-19T19:18:45+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM3otZGEtampkYTYwRHp2eVhmenV6dkdDb1hPVjNhNUR2UU94VHdsaTB1ajJCQzctaVBhRlJIY1hiRlFwR0ZhWlNLMFN4WENsQ29ROHNOWVBCS2owekxtVWUtbFFkcGt3bFdnODA3UFZ5RS1YWkhDUnFBaUFVa2JiSQ?oc=5",
+          "published_at": "2026-11-19T19:18:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/president-urges-implementation-of-pakistan-maldives-mous",
+        "publisher_url": "https://arynews.tv/president-urges-implementation-of-pakistan-maldives-mous",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c0d1eec4f1b7dffc208a9b34",
+      "remembered_at": "2026-11-19T19:25:33.936593+00:00",
+      "event_date": "2026-11-19T19:01:00+00:00",
+      "last_update": "2026-11-19T19:01:00+00:00",
+      "event": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "being",
+        "bureij",
+        "camp",
+        "families",
+        "flee",
+        "forced",
+        "gaza",
+        "ground",
+        "have",
+        "israel",
+        "israeli",
+        "launches",
+        "new",
+        "offensive",
+        "out",
+        "palestinians",
+        "spoken",
+        "terror",
+        "their"
+      ],
+      "source_excerpt": "Palestinians forced to flee a new Israeli ground offensive in Gaza have spoken of their ‘terror’ at being forced out of",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+          "published_at": "2026-11-19T19:01:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3b30ed70c88b1706c999c92a",
+      "remembered_at": "2026-11-19T19:25:33.936593+00:00",
+      "event_date": "2026-11-19T18:51:50+00:00",
+      "last_update": "2026-11-19T18:51:50+00:00",
+      "event": "France awaits verdict six years after police beat Black music producer",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "after",
+        "are",
+        "assaulting",
+        "awaits",
+        "beat",
+        "black",
+        "cameras",
+        "filmed",
+        "france",
+        "incident",
+        "michel",
+        "music",
+        "officers",
+        "police",
+        "producer",
+        "six",
+        "surveillance",
+        "that",
+        "three",
+        "verdict",
+        "was",
+        "years",
+        "zecler"
+      ],
+      "source_excerpt": "Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
+          "published_at": "2026-11-19T18:51:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6bb33e15f31b15f114aa0f0f",
+      "remembered_at": "2026-11-19T19:25:33.936593+00:00",
+      "event_date": "2026-11-19T18:46:10+00:00",
+      "last_update": "2026-11-19T18:46:10+00:00",
+      "event": "Palestinians in Gaza face new displacement after Israeli army operation",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "army",
+        "despite",
+        "displacement",
+        "ending",
+        "face",
+        "families",
+        "fear",
+        "gaza",
+        "israel",
+        "israeli",
+        "many",
+        "new",
+        "night",
+        "nuseirat",
+        "offensive",
+        "operation",
+        "palestinians",
+        "returning",
+        "shelter",
+        "spend",
+        "the",
+        "while",
+        "without"
+      ],
+      "source_excerpt": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+          "published_at": "2026-11-19T18:46:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c6417f91403744a5a6a258dd",
+      "remembered_at": "2026-11-19T19:25:33.936593+00:00",
+      "event_date": "2026-11-19T18:16:09+00:00",
+      "last_update": "2026-11-19T18:16:09+00:00",
+      "event": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "armed",
+        "brigades",
+        "compromise",
+        "forces",
+        "from",
+        "group",
+        "hezbollah",
+        "include",
+        "iraq",
+        "kataib",
+        "mobilisation",
+        "over",
+        "popular",
+        "reached",
+        "reaches",
+        "station",
+        "stronghold",
+        "that",
+        "the",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+          "published_at": "2026-11-19T18:16:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6807d010833ea85be86b396f",
+      "remembered_at": "2026-11-19T19:25:33.936593+00:00",
+      "event_date": "2026-11-19T18:59:40+00:00",
+      "last_update": "2026-11-19T18:59:40+00:00",
+      "event": "Did two Dan Sullivans running in Alaska's election confuse voters?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alaska",
+        "bbc",
+        "confuse",
+        "dan",
+        "did",
+        "election",
+        "running",
+        "sullivans",
+        "two",
+        "voters"
+      ],
+      "source_excerpt": "Did two Dan Sullivans running in Alaska's election confuse voters? BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QZVZoVE9OV1NxQ3BmTW4yQ1RERjFJaWFPRXYzRVlUSHNVT1JGbnlhVEY4SXh0UUY0WmZRR2NJUEx2SmlDUDR6YmZtcW5zNlM0MkFCdnEzVFQ?oc=5",
+          "published_at": "2026-11-19T18:59:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QZVZoVE9OV1NxQ3BmTW4yQ1RERjFJaWFPRXYzRVlUSHNVT1JGbnlhVEY4SXh0UUY0WmZRR2NJUEx2SmlDUDR6YmZtcW5zNlM0MkFCdnEzVFQ?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c0b81011950385dce825d64a",
+      "remembered_at": "2026-11-19T19:25:33.936593+00:00",
+      "event_date": "2026-11-19T19:07:07+00:00",
+      "last_update": "2026-11-19T19:07:07+00:00",
+      "event": "Star Wars actor Osian Morgan 'thrilled' to voice the Welsh Luke Skywalker",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actor",
+        "bbc",
+        "luke",
+        "morgan",
+        "osian",
+        "skywalker",
+        "star",
+        "the",
+        "thrilled",
+        "voice",
+        "wars",
+        "welsh"
+      ],
+      "source_excerpt": "Star Wars actor Osian Morgan 'thrilled' to voice the Welsh Luke Skywalker BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uQ0dyZ0hWSlg4VkJHRV9Hb0ZnVnlDcWN4VDBzbjRGWGhfVHoydnpxeVpZcnVUQTFxal9KMVZlR2R3VGswaG02M1cwSXYxa1dCeVdSOUFkZmRBMDQ?oc=5",
+          "published_at": "2026-11-19T19:07:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uQ0dyZ0hWSlg4VkJHRV9Hb0ZnVnlDcWN4VDBzbjRGWGhfVHoydnpxeVpZcnVUQTFxal9KMVZlR2R3VGswaG02M1cwSXYxa1dCeVdSOUFkZmRBMDQ?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3658e533395544ec5ec3a78f",
+      "remembered_at": "2026-11-19T19:25:33.936593+00:00",
+      "event_date": "2026-11-19T18:43:15+00:00",
+      "last_update": "2026-11-19T18:43:15+00:00",
+      "event": "Weekly quiz: Which star played cricket with Catherine in India?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "catherine",
+        "cricket",
+        "india",
+        "played",
+        "quiz",
+        "star",
+        "weekly",
+        "which",
+        "with"
+      ],
+      "source_excerpt": "Weekly quiz: Which star played cricket with Catherine in India? BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ca3FtS2hIakQ3ckVtQkotMXhxdWFVb0p1Mjdwb1p6Q0VRN0NjU01FbzkyajNUZEVoSzhpNWUwTnBHNXFnZUJkd0hfYUt6RmRNTHdySDhrNkwtU2c?oc=5",
+          "published_at": "2026-11-19T18:43:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ca3FtS2hIakQ3ckVtQkotMXhxdWFVb0p1Mjdwb1p6Q0VRN0NjU01FbzkyajNUZEVoSzhpNWUwTnBHNXFnZUJkd0hfYUt6RmRNTHdySDhrNkwtU2c?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "993bf71ce35309556df1aa1e",
+      "remembered_at": "2026-11-19T19:25:33.936593+00:00",
+      "event_date": "2026-11-19T15:48:18+00:00",
+      "last_update": "2026-11-19T15:48:18+00:00",
+      "event": "Sophie Cunningham’s ketchup moment is pure offseason comedy gold!",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "comedy",
+        "cunningham",
+        "gold",
+        "ketchup",
+        "moment",
+        "offseason",
+        "pure",
+        "sophie"
+      ],
+      "source_excerpt": "Sophie Cunningham’s ketchup moment is pure offseason comedy gold!",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/sophie-cunninghams-ketchup-moment-is-pure-offseason-comedy-gold",
+          "published_at": "2026-11-19T15:48:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/sophie-cunninghams-ketchup-moment-is-pure-offseason-comedy-gold",
+        "publisher_url": "https://arynews.tv/sophie-cunninghams-ketchup-moment-is-pure-offseason-comedy-gold",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T17:15:55.306169+00:00"
+  "updated_at": "2026-11-19T19:25:33.936593+00:00"
 }

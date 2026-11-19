@@ -1,59 +1,47 @@
-# News Hub report - Thu 19 Nov, 10:15 PM PKT
+# News Hub report - Fri 20 Nov, 12:25 AM PKT
 
 ## Collection
-- New items this run: 80 | items in rolling pool: 925
-- Unique story clusters: 769 (duplicates merged: 156)
-- Clusters dropped as already published/queued: 16; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 26, Geo News 6, The Verge 5, samaa tv 4, The Guardian 4, The News International 3, ARY News 3, TechCrunch 3, Engadget 2, BBC Science 2, ProPakistani 2, TechJuice 2
+- New items this run: 78 | items in rolling pool: 855
+- Unique story clusters: 720 (duplicates merged: 135)
+- Clusters dropped as already published/queued: 11; unchanged since last analysis: 7
+- Items per outlet: Geo News 8, ARY News 6, Al Jazeera 6, The Verge 6, Pakistan Today 5, UrduPoint 4, BBC 4, TechJuice 3, Profit by Pakistan Today 3, The News International 2, Engadget 2, The Times of Israel 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
 - President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore named ECO Tourism Capital for 2027, to host year-long cultural events | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Privatisation Commission, EY-led financial adviser sign pact for outsourcing Karachi, Lahore airports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA 6 PC release date: Everything that’s official, leaked, and why it’s not launching for PC at first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Europe ready for talks with Russia on ending war in Ukraine, leaders say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Middle East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore named ECO Tourism Capital for 2027, to host year-long cultural events | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Privatisation Commission, EY-led financial adviser sign pact for outsourcing Karachi, Lahore airports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA 6 PC release date: Everything that’s official, leaked, and why it’s not launching for PC at first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Europe ready for talks with Russia on ending war in Ukraine, leaders say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Middle East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore named ECO Tourism Capital for 2027, to host year-long cultural events | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Privatisation Commission, EY-led financial adviser sign pact for outsourcing Karachi, Lahore airports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA 6 PC release date: Everything that’s official, leaked, and why it’s not launching for PC at first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Europe ready for talks with Russia on ending war in Ukraine, leaders say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Middle East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 95/107 | empty: 3 | failed: 9 | malformed/partial: 10
+- Overall feeds with entries: 104/107 | empty: 2 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Jang Urdu | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: ARY News | HTTP/status=200 | entries=81 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Aaj News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Khyber Pakhtunkhwa Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
-- ATTENTION: Pakistan Today Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Petrol prices | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: BBC India Economy | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 7
+- News posts published today: 0 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
 
 ## Queue status
-- [needs_review] normal | Action against terrorism must for economic cooperation with Afghanista | Mon 16 Nov, 04:34 PM PKT
-- [needs_review] normal | In open letter to FCC, SC and IHC chief justices, Imran pleads for med | Mon 16 Nov, 04:44 PM PKT
-- [needs_review] normal | Prince and Princess of Wales play street cricket in Mumbai | Mon 16 Nov, 04:54 PM PKT
 - [needs_review] normal | SBP says inflation to ease to 5-7pc target range during FY2027 | Mon 16 Nov, 06:45 PM PKT
 - [needs_review] normal | PM Shehbaz approves facilitation centres for SMEs at district level | Mon 16 Nov, 06:55 PM PKT
 - [needs_review] normal | Punjab orders recall of five medicines over quality, safety concerns | Mon 16 Nov, 07:05 PM PKT
@@ -61,8 +49,6 @@
 - [needs_review] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
 - [needs_review] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
 - [needs_review] normal | Third US aircraft carrier arrives in Middle East amid tensions with Ir | Mon 16 Nov, 10:44 PM PKT
-- [published] breaking | LIVE: Germany vs Netherlands – UEFA Nations League | Mon 16 Nov, 11:15 PM PKT
-- [published] normal | Gold price in Pakistan latest - November 16, 2026 | Mon 16 Nov, 11:15 PM PKT
 - [needs_review] normal | Trump backs possible return of Jensen Huang as Nvidia CEO | Mon 16 Nov, 11:25 PM PKT
 - [needs_review] normal | Pakistan to host next Makkah alliance summit later this month: DPM Dar | Mon 16 Nov, 11:35 PM PKT
 - [needs_review] normal | Robert Pattinson: How the Twilight star became 007 | Tue 17 Nov, 12:22 AM PKT
@@ -276,16 +262,16 @@
 - [needs_review] normal | Two PTI-affiliated Pakistanis detained in UAE over state security, LHC | Thu 19 Nov, 04:04 PM PKT
 - [needs_review] normal | CDF Munir briefed on ongoing operations during Turbat visit, says ISPR | Thu 19 Nov, 04:14 PM PKT
 - [published] normal | 22 terrorists killed in security operations across KP | Thu 19 Nov, 04:43 PM PKT
-- [queued] normal | Large amount of suspected donkey meat seized in Islamabad | Thu 19 Nov, 04:53 PM PKT
-- [queued] normal | Punjab launches online route permit system for transport operators | Thu 19 Nov, 05:03 PM PKT
-- [queued] normal | Indian truck driver wins $1.3m lottery, plans to keep working | Thu 19 Nov, 05:13 PM PKT
-- [queued] normal | Bangladesh shut down by Hasina's party after ex-leader Yunus's home se | Thu 19 Nov, 05:48 PM PKT
-- [queued] normal | Pakistan and Qatar sign new security pact to combat drug trafficking | Thu 19 Nov, 05:58 PM PKT
-- [queued] normal | Hailey Bieber opens up about the intense reality of internet scrutiny | Thu 19 Nov, 06:08 PM PKT
-- [queued] normal | Donald Trump calls for nuclear arms reduction at APEC summit | Thu 19 Nov, 06:18 PM PKT
+- [needs_review] normal | Large amount of suspected donkey meat seized in Islamabad | Thu 19 Nov, 04:53 PM PKT
+- [needs_review] normal | Punjab launches online route permit system for transport operators | Thu 19 Nov, 05:03 PM PKT
+- [published] normal | Indian truck driver wins $1.3m lottery, plans to keep working | Thu 19 Nov, 05:13 PM PKT
+- [needs_review] normal | Bangladesh shut down by Hasina's party after ex-leader Yunus's home se | Thu 19 Nov, 05:48 PM PKT
+- [needs_review] normal | Pakistan and Qatar sign new security pact to combat drug trafficking | Thu 19 Nov, 05:58 PM PKT
+- [needs_review] normal | Hailey Bieber opens up about the intense reality of internet scrutiny | Thu 19 Nov, 06:08 PM PKT
+- [needs_review] normal | Donald Trump calls for nuclear arms reduction at APEC summit | Thu 19 Nov, 06:18 PM PKT
 
 ## Publishing this run
-- Published '22 terrorists killed in security operations across KP'.
+- No post published: nothing due yet.
 
 ## Gemini usage
 - Calls: 3 | prompt tokens: 0 | output tokens: 0
