@@ -1,144 +1,142 @@
-# News Hub report - Thu 19 Nov, 02:46 PM PKT
+# News Hub report - Thu 19 Nov, 03:44 PM PKT
 
 ## Collection
-- New items this run: 104 | items in rolling pool: 590
-- Unique story clusters: 461 (duplicates merged: 129)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 3
-- Items per outlet: UrduPoint 35, Geo News 6, ARY News 6, ProPakistani 6, TechJuice 6, Profit by Pakistan Today 5, samaa tv 4, Al Jazeera 4, Dawn 2, Dawn Latest 2, X 2, PhoneWorld 2
+- New items this run: 118 | items in rolling pool: 617
+- Unique story clusters: 493 (duplicates merged: 124)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 57, ProPakistani 10, Al Jazeera 5, samaa tv 4, ARY News 4, Wired 4, Dawn Latest 3, Geo News 3, ARYnews.tv 2, Dawn Pakistan 2, WRAL 2, PhoneWorld 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Aamer Jamal, Razaullah strike for Pakistan as Sri Lanka lose two wickets early on day three of second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM proposes Wuhan-style city management for Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan bans provinces from issuing All-Pakistan arms licences | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oil prices rise as Middle East shipping attacks counter supply surplus outlook | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asim Munir stresses military's support for Balochistan peace, development | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Aamer Jamal, Razaullah strike for Pakistan as Sri Lanka lose two wickets early on day three of second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM proposes Wuhan-style city management for Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan bans provinces from issuing All-Pakistan arms licences | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oil prices rise as Middle East shipping attacks counter supply surplus outlook | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asim Munir stresses military's support for Balochistan peace, development | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Aamer Jamal, Razaullah strike for Pakistan as Sri Lanka lose two wickets early on day three of second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM proposes Wuhan-style city management for Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan bans provinces from issuing All-Pakistan arms licences | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oil prices rise as Middle East shipping attacks counter supply surplus outlook | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asim Munir stresses military's support for Balochistan peace, development | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 1 | failed: 2 | malformed/partial: 2
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Aamer Jamal and Razaullah strike early as Sri Lanka lose two wickets  [NORMAL]
-- Poster: امیر جمال اور رضا اللہ کی شاندار بولنگ، سری لنکا کی دو وکٹیں گر گئیں / Aamer and Razaullah strike early against Sri Lanka | category sports
-- Alternative headline: Sri Lanka face early setbacks against Pakistan on day three of second Test
+### Oil prices rise as Middle East shipping attacks counter supply surplus outlook  [NORMAL]
+- Poster: م مشرق میں بحری جہازوں پر حملوں کے بعد تیل کی قیمتوں میں اضافہ / Oil prices rise amid Middle East shipping attacks | category economy
+- Alternative headline: Oil prices steady as Middle East shipping attacks counter supply surplus outlook
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdFRKT2FGRXU5cVY5WGRPS0I5SGpoX1hjZ1BxV1RCbnVSNVVmT2xYdmVFeFVoaVRBMWhMSEIzZFhfZk04Rk42dDZsYzVXVi1BVDVodDJfVTM1SG5TWHo2Nmg0WXh1ZDhnTlRlTWF2MWk5a2tLVTRNWHBCUzJ0ekpxbXJXdm1NVmI3SnlPN3FLQmZPS3RMTlFTb0ZYVGRRLUdyMEh6dXRjS3lvNi1pUlVpcGxOQlZDS1U2Q3o0WWU1Q3VXandvSDNGUGhaaU9ZWFNzWGloZnln?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdFRKT2FGRXU5cVY5WGRPS0I5SGpoX1hjZ1BxV1RCbnVSNVVmT2xYdmVFeFVoaVRBMWhMSEIzZFhfZk04Rk42dDZsYzVXVi1BVDVodDJfVTM1SG5TWHo2Nmg0WXh1ZDhnTlRlTWF2MWk5a2tLVTRNWHBCUzJ0ekpxbXJXdm1NVmI3SnlPN3FLQmZPS3RMTlFTb0ZYVGRRLUdyMEh6dXRjS3lvNi1pUlVpcGxOQlZDS1U2Q3o0WWU1Q3VXandvSDNGUGhaaU9ZWFNzWGloZnln?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Geo News, Geo News
-- Keywords: Aamer Jamal, Razaullah, Pakistan vs Sri Lanka, Test match, Rawalpindi Test, cricket | hashtags: #AamerJamal #PAKvSL #TestCricket #PakistanCricket #RawalpindiTest
-- Scheduled: Thu 19 Nov, 02:46 PM PKT
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMingFBVV95cUxQT2RKcWkwSGlKYmRGRzk0enpkdGZTeVhNZG9SOUUtWF9PSGhGU3FqOFU3OXotTVRKSlBFSWlWR05aVzFrMTh0WVc3eFl4RWN5RDU1bGdxRnJCMXRLTndiVE1MUlJaMjJ5Z2JsMWtaNU44ZFFTV0NBVmdOSE53UXhwUmkzSGJzbGxISmptMlZxUXNyUmc4VGZWMElhR3NUZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMingFBVV95cUxQT2RKcWkwSGlKYmRGRzk0enpkdGZTeVhNZG9SOUUtWF9PSGhGU3FqOFU3OXotTVRKSlBFSWlWR05aVzFrMTh0WVc3eFl4RWN5RDU1bGdxRnJCMXRLTndiVE1MUlJaMjJ5Z2JsMWtaNU44ZFFTV0NBVmdOSE53UXhwUmkzSGJzbGxISmptMlZxUXNyUmc4VGZWMElhR3NUZw?oc=5
+- Supporting coverage: Profit by Pakistan Today, ARYnews.tv, ARY News
+- Keywords: oil prices, Middle East, shipping attacks, crude oil, supply surplus, economy | hashtags: #OilPrices #MiddleEast #Economy #GlobalMarkets #Energy
+- Scheduled: Thu 19 Nov, 03:44 PM PKT
 - Caption:
 ```
-Aamer Jamal and Razaullah dealt early blows to Sri Lanka on the third day of the second Test in Rawalpindi.
+Global oil prices climbed as escalating shipping attacks in the Middle East countered expectations of a supply surplus.
 
-On day three of the second Test, bowlers Aamer Jamal and Razaullah made crucial early breakthroughs for Pakistan, dismissing two Sri Lankan batsmen. Sri Lanka are working to recover from these early setbacks in the ongoing match.
+Global oil prices rose as ongoing shipping attacks in the Middle East countered expectations of a supply surplus. The tension in vital shipping routes offset market projections of oversupply, pushing crude values upward according to recent reports.
 
-دوسرے ٹیسٹ کے تیسرے دن پاکستانی بولرز عامر جمال اور رضا اللہ نے شاندار بولنگ کرتے ہوئے سری لنکا کی دو ابتدائی وکٹیں حاصل کر لیں۔ سری لنکا کی ٹیم ان ابتدائی دھچکوں کے بعد میچ میں سنبھلنے کی کوشش کر رہی ہے۔
+مڈل ایسٹ میں بحری جہازوں پر حملوں کی وجہ سے تیل کی قیمتوں میں اضافہ ریکارڈ کیا گیا ہے، جس نے رسد میں اضافے کے امکانات کو زائل کر دیا۔
+
+First reported by ARYnews.tv
+
+#OilPrices #MiddleEast #Economy #GlobalMarkets #Energy
+```
+
+### Elon Musk says record spending on US midterms was 'pretty foolish'  [NORMAL]
+- Poster: ایلون مسک کا امریکی انتخابات میں ریکارڈ اخراجات پر افسوس کا اظہار / Elon Musk regrets record US election spending | category us_politics
+- Alternative headline: Musk says he feels ‘pretty foolish’ for failed US election spending
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology, Al Jazeera, ARY News
+- Keywords: Elon Musk, US midterms, election spending, Donald Trump, MAGA, politics | hashtags: #ElonMusk #USPolitics #Midterms #BreakingNews #USA
+- Scheduled: Thu 19 Nov, 03:54 PM PKT
+- Caption:
+```
+Tech billionaire Elon Musk admitted he feels pretty foolish about his record spending on US midterm elections following Republican defeats.
+
+Tesla and SpaceX chief executive Elon Musk stated that he felt 'pretty foolish' about spending a record $446 million on the US midterm elections. Musk, the top individual donor supporting President Donald Trump's party, also clarified that he is not part of the MAGA movement after sweeping Democratic victories.
+
+ٹیسلا کے سربراہ ایلون مسک نے کہا ہے کہ وہ امریکی وسطی مدتی انتخابات میں 446 ملین ڈالر کی ریکارڈ رقم خرچ کرنے پر خود کو بیوقوف محسوس کرتے ہیں۔
+
+First reported by BBC Technology
+
+#ElonMusk #USPolitics #Midterms #BreakingNews #USA
+```
+
+### Two PTI-affiliated Pakistanis detained in UAE over state security, LHC told  [NORMAL]
+- Poster: متحدہ عرب امارات میں دو پاکستانی شہریوں کی گرفتاری پر عدالت کو آگاہ کر دیا گیا / Two PTI-affiliated Pakistanis detained in UAE | category courts
+- Alternative headline: MoFA informs LHC about two PTI-affiliated Pakistanis detained in UAE
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045659/two-pti-affiliated-pakistanis-detained-in-uae-over-state-security-cases-lhc-told | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2045659/two-pti-affiliated-pakistanis-detained-in-uae-over-state-security-cases-lhc-told
+- Supporting coverage: Dawn Latest, Dawn
+- Keywords: UAE detention, PTI, Lahore High Court, MoFA, state security, Pakistan | hashtags: #PTI #LHC #UAE #ForeignOffice #Pakistan
+- Scheduled: Thu 19 Nov, 04:04 PM PKT
+- Caption:
+```
+The Ministry of Foreign Affairs informed the Lahore High Court that two PTI-affiliated Pakistanis are detained in the UAE over state security cases.
+
+The Ministry of Foreign Affairs informed the Lahore High Court that two Pakistani citizens affiliated with the PTI are detained in Abu Dhabi over state security cases. The ministry stated diplomatic norms prevent interference, while family counsel expressed frustration over lack of charge sheets.
+
+وزارت خارجہ نے لاہور ہائیکورٹ کو بتایا ہے کہ پی ٹی آئی سے وابستہ دو پاکستانی شہری متحدہ عرب امارات میں ریاستی سیکیورٹی کے مقدمات میں زیر حتم ہیں۔
+
+First reported by Dawn Latest
+
+#PTI #LHC #UAE #ForeignOffice #Pakistan
+```
+
+### CDF Munir briefed on ongoing operations during Turbat visit, says ISPR  [NORMAL]
+- Poster: آرمی چیف کو دورہ تربت کے دوران جاری آپریشنز پر بریفنگ دی گئی / CDF Munir briefed on operations during Turbat visit | category security
+- Alternative headline: CDF Munir briefed on ongoing security operations during Balochistan visit
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDBkRDZEdnlYZ19KVkdBcl9lY09GUVdQa3NaaG50VlBmMlMzY0piSk5zcEg2YkE4QUhwVHdYSkxtNVRrZ2JDVmRqSDhmeFdhTmU5TVVPUVBybjd6VzJLN3paZjFHZEtqVW11TEtQd3hHRWg4VHNlelI1NmlqOTJlQzlDYm9SaW5HNFBrSHpxU1FYa3JVY2QyOEQyRzJlT00?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDBkRDZEdnlYZ19KVkdBcl9lY09GUVdQa3NaaG50VlBmMlMzY0piSk5zcEg2YkE4QUhwVHdYSkxtNVRrZ2JDVmRqSDhmeFdhTmU5TVVPUVBybjd6VzJLN3paZjFHZEtqVW11TEtQd3hHRWg4VHNlelI1NmlqOTJlQzlDYm9SaW5HNFBrSHpxU1FYa3JVY2QyOEQyRzJlT00?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, Dawn
+- Keywords: CDF Munir, Turbat, ISPR, Balochistan, security operations, military | hashtags: #CDFMunir #ISPR #Turbat #Balochistan #Security
+- Scheduled: Thu 19 Nov, 04:14 PM PKT
+- Caption:
+```
+Chief of Defence Forces General Munir was briefed on ongoing security operations during his visit to Turbat, according to ISPR.
+
+According to the Inter-Services Public Relations (ISPR), Chief of Defence Forces Munir was briefed on ongoing security operations during an official visit to Turbat in Balochistan, focusing on the regional security situation and counter-terrorism measures.
+
+آئی ایس پی آر کے مطابق، آرمی چیف منیر کو تربت کے دورے کے دوران جاری سیکورٹی آپریشنز اور ملکی دفاعی صورتحال پر بریفنگ دی گئی۔
 
 First reported by Dawn
 
-#AamerJamal #PAKvSL #TestCricket #PakistanCricket #RawalpindiTest
+#CDFMunir #ISPR #Turbat #Balochistan #Security
 ```
 
-### Saqib Khan ruled out of further bowling in Rawalpindi Test  [NORMAL]
-- Poster: ثاقب خان راولپنڈی ٹیسٹ میں مزید بولنگ سے باہر ہو گئے / Saqib Khan ruled out of bowling in Rawalpindi Test | category sports
-- Alternative headline: Injury setback: Saqib Khan cannot bowl further in Rawalpindi Test
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxQX21VZ192THBUdV9kSW56eDYtU3hIWndQdThWRloyQVo5bmNBV0U1SDJwRkZEZElXVjNQVkZhTV9PUVk1VnZOUExMbFpHU1RWUERhR1hOY1lqNWlzZlZxd0tZeHNEVFhYemVCaURxRnJkRXZwbS1LbENzMUJQTGsxOThNSlZvWjVLS3B3NmNzc0Q2dFdjSGVB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxQX21VZ192THBUdV9kSW56eDYtU3hIWndQdThWRloyQVo5bmNBV0U1SDJwRkZEZElXVjNQVkZhTV9PUVk1VnZOUExMbFpHU1RWUERhR1hOY1lqNWlzZlZxd0tZeHNEVFhYemVCaURxRnJkRXZwbS1LbENzMUJQTGsxOThNSlZvWjVLS3B3NmNzc0Q2dFdjSGVB?oc=5
-- Supporting coverage: Dawn, Dawn Latest, The Express Tribune
-- Keywords: Saqib Khan, Rawalpindi Test, injury, Pakistan cricket, bowling | hashtags: #SaqibKhan #PAKvSL #RawalpindiTest #CricketNews
-- Scheduled: Thu 19 Nov, 02:56 PM PKT
-- Caption:
-```
-Fast bowler Saqib Khan has been ruled out from bowling further in the ongoing Rawalpindi Test match.
-
-Saqib Khan has suffered an injury setback and will not be able to bowl further for Pakistan in the ongoing Rawalpindi Test match, according to reports from Dawn.
-
-ڈان نیوز کی رپورٹ کے مطابق فاسٹ بولر ثاقب خان فٹنس مسائل کی وجہ سے راولپنڈی ٹیسٹ میں مزید بولنگ نہیں کر سکیں گے۔
-
-First reported by Dawn
-
-#SaqibKhan #PAKvSL #RawalpindiTest #CricketNews
-```
-
-### Sindh CM proposes Wuhan-style city management model for Karachi  [NORMAL]
-- Poster: وزیراعلیٰ سندھ نے کراچی کے لیے ووہان طرز کے انتظامی ماڈل کی تجویز دے دی / CM proposes Wuhan-style governance for Karachi | category politics
-- Alternative headline: CM Murad suggests Wuhan-style governance pilot to improve Karachi
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUVHU2RyUG9XVFg1eVB4TnF4S3lTUnBtTFJlcHB1cWxjV1FYX2hOcFd5OEd0Z1Q0UnoybjFqdzJXTGtJci1xMGVKSGNqeGtFb0dXR2Z4dGkzcHhfSk9LN0x0QlBLRWpnQTFTOWFyZjNJSnN6RW1sNnRoSjVTNFJldzRrY2Foc2JsRkkyR2ln?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUVHU2RyUG9XVFg1eVB4TnF4S3lTUnBtTFJlcHB1cWxjV1FYX2hOcFd5OEd0Z1Q0UnoybjFqdzJXTGtJci1xMGVKSGNqeGtFb0dXR2Z4dGkzcHhfSk9LN0x0QlBLRWpnQTFTOWFyZjNJSnN6RW1sNnRoSjVTNFJldzRrY2Foc2JsRkkyR2ln?oc=5
-- Supporting coverage: Dawn, ARY News
-- Keywords: Wuhan-style city management, Murad Ali Shah, Karachi, Sindh CM, urban governance | hashtags: #Karachi #SindhGovt #MuradAliShah #UrbanGovernance
-- Scheduled: Thu 19 Nov, 03:06 PM PKT
-- Caption:
-```
-Sindh Chief Minister Murad Ali Shah has proposed adopting a Wuhan-style city management model for Karachi.
-
-Sindh Chief Minister Murad Ali Shah has put forward a proposal to implement a Wuhan-style city management and governance pilot in Karachi to improve urban administration and civic facilities in the metropolis.
-
-وزیراعلیٰ سندھ مراد علی شاہ نے کراچی میں شہری انتظام اور گورننس کو بہتر بنانے کے لیے ووہان طرز کے ماڈل کو بطور پائلٹ پراجیکٹ نافذ کرنے کی تجویز دی ہے۔
-
-First reported by Dawn
-
-#Karachi #SindhGovt #MuradAliShah #UrbanGovernance
-```
-
-### Interior Ministry bars provinces from issuing All-Pakistan arms licences  [NORMAL]
-- Poster: وفاقی وزارت داخلہ نے صوبوں کی طرف سے آل پاکستان آرمز لائسنس جاری کرنے پر پابندی لگا دی / Provinces barred from issuing countrywide arms licences | category politics
-- Alternative headline: Pakistan bans provincial governments from issuing countrywide arms licences
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxQRExGZGZPRjVJc2tWRzI3TFNYNF9VakNfbUtncXpNVEVKOUlMa2tWTkFjM1BfMHpJNGJDVmw4OC1FY00zYVU2OWFqemdnaDh6VkJZZHVvZk1WcWRlMUp6RnJLVFBjb2xzdl8xRlNFcDhDMHgzeFJVcnp5TEtkVWpfRGV2aFdMRVZDQ19xdHA2MExrNk5wVW1MRG9NQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxQRExGZGZPRjVJc2tWRzI3TFNYNF9VakNfbUtncXpNVEVKOUlMa2tWTkFjM1BfMHpJNGJDVmw4OC1FY00zYVU2OWFqemdnaDh6VkJZZHVvZk1WcWRlMUp6RnJLVFBjb2xzdl8xRlNFcDhDMHgzeFJVcnp5TEtkVWpfRGV2aFdMRVZDQ19xdHA2MExrNk5wVW1MRG9NQQ?oc=5
-- Supporting coverage: TechJuice, samaa tv
-- Keywords: arms licences, Interior Ministry, Pakistan, provincial government, ban | hashtags: #InteriorMinistry #ArmsLicence #Pakistan #SamaaTV
-- Scheduled: Thu 19 Nov, 03:16 PM PKT
-- Caption:
-```
-The Interior Ministry has imposed a ban preventing provinces from issuing All-Pakistan arms licences.
-
-According to reports from Samaa TV, the Ministry of Interior has officially barred all provincial governments from issuing All-Pakistan arms licences, restricting countrywide authorizations.
-
-سما نیوز کے مطابق وزارت داخلہ نے صوبائی حکومتوں کی جانب سے ملک بھر کے لیے اسلحہ لائسنس (آل پاکستان آرمز لائسنس) جاری کرنے پر پابندی عائد کر دی ہے۔
-
-First reported by samaa tv
-
-#InteriorMinistry #ArmsLicence #Pakistan #SamaaTV
-```
-
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
-- [needs_review] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
 - [needs_review] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
 - [needs_review] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
 - [needs_review] normal | Iraqi armed group denies involvement in oil smuggling, calls probe a ‘ | Mon 16 Nov, 10:41 AM PKT
@@ -148,7 +146,6 @@ First reported by samaa tv
 - [needs_review] normal | How Russia is preparing Iran for the next escalation | Mon 16 Nov, 12:29 PM PKT
 - [needs_review] normal | I had to explain to my teacher what a young carer was - we need more s | Mon 16 Nov, 12:49 PM PKT
 - [needs_review] normal | Iran war live: Third US carrier arrives, Iran warns it could strike fi | Mon 16 Nov, 02:58 PM PKT
-- [published] normal | Geo Pakistan | 16 November 2026 | Mon 16 Nov, 03:08 PM PKT
 - [needs_review] normal | Pakistan Shaheens leave for Rising Stars Asia Cup | Mon 16 Nov, 03:18 PM PKT
 - [needs_review] normal | Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid acc | Mon 16 Nov, 03:28 PM PKT
 - [published] normal | 13-year-old girl's murder case: Islamabad court grants police 4-day ph | Mon 16 Nov, 04:24 PM PKT
@@ -358,10 +355,10 @@ First reported by samaa tv
 - [needs_review] normal | FBR unveils proposed rules to introduce faceless tax appeals system | Thu 19 Nov, 08:11 AM PKT
 - [needs_review] normal | US Defence Secretary Hegseth announces military partnership during Ven | Thu 19 Nov, 08:21 AM PKT
 - [published] normal | Cummins defiant as Sandpapergate roils Australian cricket once again | Thu 19 Nov, 08:53 AM PKT
-- [queued] normal | PTI legal eagles Salman Akram Raja and Latif Khosa shake and make up | Thu 19 Nov, 09:03 AM PKT
-- [queued] normal | Poll tribunal suspends election results of GBA-16 and Diamer-II | Thu 19 Nov, 09:13 AM PKT
-- [queued] normal | Elon Musk calls record spending on US midterms pretty foolish | Thu 19 Nov, 09:23 AM PKT
-- [queued] normal | FBISE Introduces On-the-Spot Printing of Exam Papers to Prevent Leaks | Thu 19 Nov, 09:59 AM PKT
+- [needs_review] normal | PTI legal eagles Salman Akram Raja and Latif Khosa shake and make up | Thu 19 Nov, 09:03 AM PKT
+- [needs_review] normal | Poll tribunal suspends election results of GBA-16 and Diamer-II | Thu 19 Nov, 09:13 AM PKT
+- [needs_review] normal | Elon Musk calls record spending on US midterms pretty foolish | Thu 19 Nov, 09:23 AM PKT
+- [published] normal | FBISE Introduces On-the-Spot Printing of Exam Papers to Prevent Leaks | Thu 19 Nov, 09:59 AM PKT
 - [queued] normal | Man arrested for allegedly sexually abusing boy in Rawalpindi | Thu 19 Nov, 10:09 AM PKT
 - [queued] normal | Punjab CM approves panchayat system to resolve disputes | Thu 19 Nov, 10:19 AM PKT
 - [queued] normal | Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case | Thu 19 Nov, 10:29 AM PKT
@@ -377,22 +374,19 @@ First reported by samaa tv
 - [queued] normal | Saqib Khan ruled out of further bowling in Rawalpindi Test | Thu 19 Nov, 02:56 PM PKT
 - [queued] normal | Sindh CM proposes Wuhan-style city management model for Karachi | Thu 19 Nov, 03:06 PM PKT
 - [queued] normal | Interior Ministry bars provinces from issuing All-Pakistan arms licenc | Thu 19 Nov, 03:16 PM PKT
+- [queued] normal | Oil prices rise as Middle East shipping attacks counter supply surplus | Thu 19 Nov, 03:44 PM PKT
+- [queued] normal | Elon Musk says record spending on US midterms was 'pretty foolish' | Thu 19 Nov, 03:54 PM PKT
+- [queued] normal | Two PTI-affiliated Pakistanis detained in UAE over state security, LHC | Thu 19 Nov, 04:04 PM PKT
+- [queued] normal | CDF Munir briefed on ongoing operations during Turbat visit, says ISPR | Thu 19 Nov, 04:14 PM PKT
 
 ## Publishing this run
-- Published 'Cummins defiant as Sandpapergate roils Australian cricket once again'.
+- Published 'FBISE Introduces On-the-Spot Printing of Exam Papers to Prevent Leaks'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 5868 | output tokens: 2180
-- Errors: 3
+- Calls: 3 | prompt tokens: 6037 | output tokens: 2102
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi

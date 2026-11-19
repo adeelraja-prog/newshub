@@ -75185,7 +75185,650 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7ac5d59cf58b89515c785b64",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T08:50:57+00:00",
+      "last_update": "2026-11-19T10:30:23+00:00",
+      "event": "Oil prices rise as Middle East shipping attacks counter supply surplus outlook",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "attacks",
+        "counter",
+        "east",
+        "middle",
+        "oil",
+        "outlook",
+        "prices",
+        "rise",
+        "shipping",
+        "supply",
+        "surplus"
+      ],
+      "source_excerpt": "Oil prices rise as Middle East shipping attacks counter supply surplus outlook ARYnews.tv",
+      "sources": [
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHZ5elFrUHFpWkVNeVhCdXR0cnhzRFBRZDlhUmNYZURJQkYtWGVsUzNzRDllSW9JWHg3QTIzbkQwQzZrWFZuRlpzcFhmZnlUeUo3aDREMEtWMTR4azlTbGdFQ0szR1dCa003UHowQVJ0Z0dyMThiOE9fNmM2WVNCcXd4TU55dzVTYmNqMVJxaEZJM1huTmtWazRnZWplZjNDNUMySlY5OHdVTFE4WTE1cGgwaFhJYm5hdFhyeVFuZ0I0RGV0WFE?oc=5",
+          "published_at": "2026-11-19T08:50:57+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2RKcWkwSGlKYmRGRzk0enpkdGZTeVhNZG9SOUUtWF9PSGhGU3FqOFU3OXotTVRKSlBFSWlWR05aVzFrMTh0WVc3eFl4RWN5RDU1bGdxRnJCMXRLTndiVE1MUlJaMjJ5Z2JsMWtaNU44ZFFTV0NBVmdOSE53UXhwUmkzSGJzbGxISmptMlZxUXNyUmc4VGZWMElhR3NUZw?oc=5",
+          "published_at": "2026-11-19T10:30:23+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/oil-prices-rise-as-middle-east-shipping-attacks-counter-supply-surplus-outlook",
+          "published_at": "2026-11-19T10:30:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2RKcWkwSGlKYmRGRzk0enpkdGZTeVhNZG9SOUUtWF9PSGhGU3FqOFU3OXotTVRKSlBFSWlWR05aVzFrMTh0WVc3eFl4RWN5RDU1bGdxRnJCMXRLTndiVE1MUlJaMjJ5Z2JsMWtaNU44ZFFTV0NBVmdOSE53UXhwUmkzSGJzbGxISmptMlZxUXNyUmc4VGZWMElhR3NUZw?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "53693ced235998caaf36670b",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T10:31:36+00:00",
+      "last_update": "2026-11-19T10:31:36+00:00",
+      "event": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1948",
+        "2019",
+        "accused",
+        "against",
+        "breaching",
+        "case",
+        "convention",
+        "convicts",
+        "court",
+        "filed",
+        "gambia",
+        "genocidal",
+        "genocide",
+        "icj",
+        "intent",
+        "myanmar",
+        "rohingya",
+        "the",
+        "top"
+      ],
+      "source_excerpt": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+          "published_at": "2026-11-19T10:31:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "34de6d8552c8e3c8bca7bbca",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T10:05:33+00:00",
+      "last_update": "2026-11-19T10:09:23+00:00",
+      "event": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "130sq",
+        "aid",
+        "area",
+        "backed",
+        "collapsed",
+        "confined",
+        "design",
+        "displacement",
+        "failure",
+        "gaza",
+        "groups",
+        "has",
+        "less",
+        "million",
+        "palestinians",
+        "peace",
+        "plan",
+        "say",
+        "than",
+        "trump",
+        "two",
+        "with"
+      ],
+      "source_excerpt": "With two million Palestinians confined to an area of less than 130sq km, UN-backed Gaza peace plan has collapsed.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+          "published_at": "2026-11-19T10:05:33+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemEwcERNYy1nbkZGakU4SVNmT0NLQ0VIcjhGWEswODBrNi1ibnpzRUlsTnZNYUFYZ1U1WW8xSnc5SFhCcHZRNzR5MThNb0lqVmNlZHJQZ1NYUWx2NUZROWxxZnBHUFlRcUNQUnp2bzNhV2k2RDRVRDhoLVFCdWo4QUUxcjlOcHU3TGZXYUFFYmZGUTF5UDdrVm8xMXZuMEVkTnVhZGFQbzZ6ZE1ha0JQaFlB0gG3AUFVX3lxTE1VbmdiM055X2ZZdWZleHdBb3N5azBDU0tuLUpOdDJndGtSLWJIVm5zUFZWbU5RYXJ4WGZIR2RZV2U0bllrOWxHTUxYSUJoY2JhOVcwdHZlSWt1c1gxWEtzUnR4YmU5OFdBaTlndGFTTnlQOWUxcUFweDFaZHZyVnphNW5ZX2lJUDlfSEJkczhXU0Z5M0hVbGhyTTItNmVTY1NhVkVWWUVUSkFTOE9WUFNIWlV6TlFVMA?oc=5",
+          "published_at": "2026-11-19T10:09:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "526de3b9c7ee418baa31761f",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T10:03:27+00:00",
+      "last_update": "2026-11-19T10:03:27+00:00",
+      "event": "Trump calls for nuclear arms reduction at APEC summit",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apec",
+        "arms",
+        "calls",
+        "for",
+        "nuclear",
+        "reduction",
+        "summit",
+        "trump"
+      ],
+      "source_excerpt": "Trump calls for nuclear arms reduction at APEC summit",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+          "published_at": "2026-11-19T10:03:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e3454abb231cb2048deb1608",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T09:56:07+00:00",
+      "last_update": "2026-11-19T09:56:07+00:00",
+      "event": "Malaysian weightlifting champion Roslin loses arm after motorbike crash",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "accident",
+        "after",
+        "amputated",
+        "arm",
+        "champion",
+        "commonwealth",
+        "crash",
+        "games",
+        "gold",
+        "had",
+        "hafizuddin",
+        "his",
+        "loses",
+        "malaysian",
+        "medal",
+        "motorbike",
+        "muhammad",
+        "roslin",
+        "the",
+        "weightlifting",
+        "who",
+        "won"
+      ],
+      "source_excerpt": "Muhammad Hafizuddin Roslin, who won a gold medal at the Commonwealth Games 2026, had his arm amputated after accident.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
+          "published_at": "2026-11-19T09:56:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "79a6d532c1550761166d46f9",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T10:15:16+00:00",
+      "last_update": "2026-11-19T10:15:16+00:00",
+      "event": "Football match remembers boxing legend Ricky Hatton",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "boxing",
+        "campbell",
+        "football",
+        "for",
+        "hatton",
+        "legend",
+        "match",
+        "public",
+        "remembers",
+        "ricky",
+        "son",
+        "support",
+        "thanked",
+        "the",
+        "their"
+      ],
+      "source_excerpt": "Ricky's son Campbell Hatton thanked the public for their support",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cmgqx0l7dzxno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T10:15:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cmgqx0l7dzxno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cmgqx0l7dzxno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ac48f06d0a9c5d7d5021082a",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T10:32:10+00:00",
+      "last_update": "2026-11-19T10:32:10+00:00",
+      "event": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "african",
+        "bbc",
+        "celebrates",
+        "come",
+        "dream",
+        "featuring",
+        "gta",
+        "south",
+        "true"
+      ],
+      "source_excerpt": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6 BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RQTFYUUNWbWRxVHh5QWx2RlhJU1NhdU1MR1puSy1uNUF4ZnA2Nmc0Q0J0blhXZ2VmcU9fTm9fSW13bDhvUnQ4VHlHQW1fbUJ0dVV4aFI2Znh2Tjg?oc=5",
+          "published_at": "2026-11-19T10:32:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RQTFYUUNWbWRxVHh5QWx2RlhJU1NhdU1MR1puSy1uNUF4ZnA2Nmc0Q0J0blhXZ2VmcU9fTm9fSW13bDhvUnQ4VHlHQW1fbUJ0dVV4aFI2Znh2Tjg?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1f318fd57f886233fc5166bf",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T09:58:36+00:00",
+      "last_update": "2026-11-19T09:58:36+00:00",
+      "event": "Cummins defiant as pressure mounts after latest 'Sandpapergate' claims",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "arynews",
+        "claims",
+        "cummins",
+        "defiant",
+        "latest",
+        "mounts",
+        "pressure",
+        "sandpapergate"
+      ],
+      "source_excerpt": "Cummins defiant as pressure mounts after latest 'Sandpapergate' claims ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmFtclJHY1FHaVpKbERpRHd4dUdUQVdQZ3kzU0JtTVUzdjJpQkxpWFVfQUxDNXp6amdCUHhydkRGRzZ6bmV0SzNZZ1Vic1dDX2dQSFZMLTVvcUFwNF9lTTlQWElicVB1RDhsX2NjRzlJVWpnYnNEUmZIQ2RScVlTMkVOVjJaeWd1QUNWaWhPX3o?oc=5",
+          "published_at": "2026-11-19T09:58:36+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/cummins-defiant-as-pressure-mounts-after-latest-sandpapergate-claims",
+          "published_at": "2026-11-19T09:58:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmFtclJHY1FHaVpKbERpRHd4dUdUQVdQZ3kzU0JtTVUzdjJpQkxpWFVfQUxDNXp6amdCUHhydkRGRzZ6bmV0SzNZZ1Vic1dDX2dQSFZMLTVvcUFwNF9lTTlQWElicVB1RDhsX2NjRzlJVWpnYnNEUmZIQ2RScVlTMkVOVjJaeWd1QUNWaWhPX3o?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f631f141429c83bfd012df53",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T10:29:00+00:00",
+      "last_update": "2026-11-19T10:29:00+00:00",
+      "event": "DPM Dar, Asean secretary general discuss opportunities to expand trade, investment with bloc's member states: FO",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "asean",
+        "asian",
+        "association",
+        "bloc",
+        "dar",
+        "delegation",
+        "deputy",
+        "discuss",
+        "discussed",
+        "dpm",
+        "expand",
+        "foreign",
+        "from",
+        "general",
+        "hourn",
+        "investment",
+        "ishaq",
+        "kao",
+        "kim",
+        "level",
+        "member",
+        "minister",
+        "nations",
+        "november",
+        "opportunities",
+        "pakistan",
+        "prime",
+        "secretary",
+        "southeast",
+        "states",
+        "the",
+        "thursday",
+        "trade",
+        "visit",
+        "with",
+        "working"
+      ],
+      "source_excerpt": "Deputy Prime Minister and Foreign Minister Ishaq Dar and Secretary General of the Association of Southeast Asian Nations (Asean) Dr Kao Kim Hourn discussed opportunities to expand trade and investment on Thursday. Hourn is on a working visit to Pakistan from November 18 to 20. In delegation-level ta",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-discuss-opportunities-to-expand-trade-investment-with-blocs-member-states-fo",
+          "published_at": "2026-11-19T10:29:00+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVZlOGJESFpNd1RGcDJKalBTNFVIQ0lFT2RrLWV2bEl3RmhTdDBsc2FBb3NKaXNpeTBqODBjREZJS2h1cEIyR0lHTjdlLWozT01VMTNES3Y1VHR4VVVBalhaOEVYSnQ2Rk05VEdsUU5rZWplWXR4NzlPUGw2bzFzQnVZSC1DaWVGZVJkMnctLWZ3WHpUNVd5cUR5UW5UUVZWbEpvaEhEbUpaN3VvQVdhLTdhT1dxejdsXzRiT0FPU0luLXpJNC14QnpUX0pTOThKTmJGaHlSVU1iQQ?oc=5",
+          "published_at": "2026-11-19T10:29:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-discuss-opportunities-to-expand-trade-investment-with-blocs-member-states-fo",
+        "publisher_url": "https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-discuss-opportunities-to-expand-trade-investment-with-blocs-member-states-fo",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2baaa5ec4d386a5c18c9e4f1",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T07:52:30+00:00",
+      "last_update": "2026-11-19T07:52:30+00:00",
+      "event": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "and",
+        "deal",
+        "hegseth",
+        "influence",
+        "maduro",
+        "military",
+        "new",
+        "pete",
+        "questions",
+        "raises",
+        "regional",
+        "removal",
+        "security",
+        "strengthening",
+        "ties",
+        "venezuela",
+        "why",
+        "with"
+      ],
+      "source_excerpt": "Hegseth's new military deal with Venezuela raises questions about US influence, regional security and Maduro's removal.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+          "published_at": "2026-11-19T07:52:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "25a87bcdb612d1f84480afa8",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T10:02:35+00:00",
+      "last_update": "2026-11-19T10:02:35+00:00",
+      "event": "10 killed as Karachi-bound passenger coach, LPG bowser collide on Makran coastal highway near Ormara",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "basol",
+        "bound",
+        "bowser",
+        "burn",
+        "caught",
+        "child",
+        "coach",
+        "coastal",
+        "collide",
+        "collided",
+        "fire",
+        "gas",
+        "gwadar",
+        "highway",
+        "including",
+        "injuries",
+        "karachi",
+        "killed",
+        "least",
+        "liquefied",
+        "lpg",
+        "mak",
+        "makran",
+        "near",
+        "ormara",
+        "others",
+        "passenger",
+        "people",
+        "petroleum",
+        "police",
+        "said",
+        "several",
+        "superintendent",
+        "sustained",
+        "thursday",
+        "were",
+        "when",
+        "with",
+        "woman"
+      ],
+      "source_excerpt": "GWADAR: At least 10 people, including a woman and a child, were killed and several others sustained burn injuries when a Karachi-bound passenger coach collided with a liquefied petroleum gas (LPG) bowser and caught fire near Basol in Ormara on Thursday, police said. Superintendent of Police (SP) Mak",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045668/10-killed-as-karachi-bound-passenger-coach-lpg-bowser-collide-on-makran-coastal-highway-near-ormara",
+          "published_at": "2026-11-19T10:02:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045668/10-killed-as-karachi-bound-passenger-coach-lpg-bowser-collide-on-makran-coastal-highway-near-ormara",
+        "publisher_url": "https://www.dawn.com/news/2045668/10-killed-as-karachi-bound-passenger-coach-lpg-bowser-collide-on-makran-coastal-highway-near-ormara",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0aed5786ea602e2475599df5",
+      "remembered_at": "2026-11-19T10:44:17.395291+00:00",
+      "event_date": "2026-11-19T10:05:55+00:00",
+      "last_update": "2026-11-19T10:05:55+00:00",
+      "event": "Punjab launches online route permit system for transport operators",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "for",
+        "launches",
+        "online",
+        "operators",
+        "permit",
+        "punjab",
+        "route",
+        "system",
+        "transport"
+      ],
+      "source_excerpt": "Punjab launches online route permit system for transport operators",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-launches-online-route-permit-system-for-transport-operators",
+          "published_at": "2026-11-19T10:05:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-launches-online-route-permit-system-for-transport-operators",
+        "publisher_url": "https://arynews.tv/punjab-launches-online-route-permit-system-for-transport-operators",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T09:46:22.668096+00:00"
+  "updated_at": "2026-11-19T10:44:17.395291+00:00"
 }
