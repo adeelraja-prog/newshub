@@ -78292,7 +78292,333 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d8f61bbfec31a38d67cd5808",
+      "remembered_at": "2026-11-19T15:05:04.800626+00:00",
+      "event_date": "2026-11-19T12:54:32+00:00",
+      "last_update": "2026-11-19T14:53:26+00:00",
+      "event": "Lahore named ECO Tourism Capital for 2027, to host year-long cultural events",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "and",
+        "assumed",
+        "aurangzeb",
+        "capital",
+        "cooperation",
+        "cultural",
+        "dawn",
+        "eco",
+        "economic",
+        "events",
+        "for",
+        "formally",
+        "hand",
+        "has",
+        "heritage",
+        "host",
+        "lahore",
+        "long",
+        "marriyum",
+        "minister",
+        "named",
+        "official",
+        "organisation",
+        "potential",
+        "punjab",
+        "putting",
+        "regional",
+        "senior",
+        "spotlight",
+        "that",
+        "the",
+        "thursday",
+        "title",
+        "told",
+        "tourism",
+        "year"
+      ],
+      "source_excerpt": "LAHORE: Lahore has formally assumed the title of Economic Cooperation Organisation (ECO) Tourism Capital for 2027, putting Punjab’s cultural heritage and tourism potential in the spotlight of regional cooperation. Punjab Senior Minister Marriyum Aurangzeb told Dawn on Thursday that the official hand",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045688/lahore-named-eco-tourism-capital-for-2027-to-host-year-long-cultural-events",
+          "published_at": "2026-11-19T12:54:32+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/lahore-named-eco-tourism-capital-for-2027",
+          "published_at": "2026-11-19T14:53:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045688/lahore-named-eco-tourism-capital-for-2027-to-host-year-long-cultural-events",
+        "publisher_url": "https://www.dawn.com/news/2045688/lahore-named-eco-tourism-capital-for-2027-to-host-year-long-cultural-events",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bc14c1d251bfb075169bc794",
+      "remembered_at": "2026-11-19T15:05:04.800626+00:00",
+      "event_date": "2026-11-19T13:11:19+00:00",
+      "last_update": "2026-11-19T14:10:19+00:00",
+      "event": "پنجاب، سندھ اور کے پی کا انفرااسٹرکچر ڈیولپمنٹ سیس غیر آئینی قرار",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "آئینی",
+        "انفرااسٹرکچر",
+        "اور",
+        "دیا۔اپنے",
+        "سندھ",
+        "سیس",
+        "عدالت",
+        "غیر",
+        "فائل",
+        "فوٹو",
+        "فیصلے",
+        "قرار",
+        "میں",
+        "وفاقی",
+        "پنجاب،",
+        "ڈیولپمنٹ"
+      ],
+      "source_excerpt": "فائل فوٹو وفاقی آئینی عدالت نے پنجاب، سندھ اور کے پی کا انفرااسٹرکچر ڈیولپمنٹ سیس غیر آئینی قرار دے دیا۔اپنے فیصلے میں وفاقی آئینی...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1634922",
+          "published_at": "2026-11-19T13:11:19+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5016250",
+          "published_at": "2026-11-19T14:10:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1634922",
+        "publisher_url": "https://jang.com.pk/news/1634922",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3138ff5472a1df2b74760b59",
+      "remembered_at": "2026-11-19T15:05:04.800626+00:00",
+      "event_date": "2026-11-19T14:41:38+00:00",
+      "last_update": "2026-11-19T14:41:38+00:00",
+      "event": "A geography of hearts: Turkiye and Lebanon, building the Levant together",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "build",
+        "building",
+        "can",
+        "geography",
+        "hearts",
+        "lebanon",
+        "levant",
+        "mutual",
+        "partnership",
+        "respect",
+        "sovereignty",
+        "stronger",
+        "the",
+        "through",
+        "together",
+        "turkiye"
+      ],
+      "source_excerpt": "Turkiye and Lebanon can build a stronger Levant through partnership, sovereignty and mutual respect.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together?traffic_source=rss",
+          "published_at": "2026-11-19T14:41:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "07e839b63fb48eba4e456423",
+      "remembered_at": "2026-11-19T15:05:04.800626+00:00",
+      "event_date": "2026-11-19T14:34:22+00:00",
+      "last_update": "2026-11-19T14:34:22+00:00",
+      "event": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abu",
+        "accuses",
+        "actions",
+        "affairs",
+        "ambassador",
+        "amount",
+        "dhabi",
+        "expels",
+        "interfering",
+        "internal",
+        "invasion",
+        "its",
+        "open",
+        "says",
+        "somalia",
+        "sovereignty",
+        "that",
+        "the",
+        "uae",
+        "violating",
+        "with"
+      ],
+      "source_excerpt": "Somalia says the UAE is interfering in its internal affairs with actions that amount to an 'open invasion'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+          "published_at": "2026-11-19T14:34:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7311267aa83c236f7e8f974e",
+      "remembered_at": "2026-11-19T15:05:04.800626+00:00",
+      "event_date": "2026-11-19T14:31:47+00:00",
+      "last_update": "2026-11-19T14:31:47+00:00",
+      "event": "What the ICJ genocide ruling means for the Rohingya people",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "committed",
+        "court",
+        "first",
+        "for",
+        "genocide",
+        "has",
+        "icj",
+        "means",
+        "people",
+        "rohingya",
+        "ruled",
+        "ruling",
+        "state",
+        "that",
+        "the",
+        "this",
+        "time",
+        "what"
+      ],
+      "source_excerpt": "This is the first time the court has ruled that a state committed genocide.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
+          "published_at": "2026-11-19T14:31:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "90a581ed3f8665981db1f775",
+      "remembered_at": "2026-11-19T15:05:04.800626+00:00",
+      "event_date": "2026-11-19T13:13:11+00:00",
+      "last_update": "2026-11-19T13:13:11+00:00",
+      "event": "Shehbaz says Pakistan engaging Iran, US to restore regional peace",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "engaging",
+        "iran",
+        "pakistan",
+        "peace",
+        "regional",
+        "restore",
+        "samaa",
+        "says",
+        "shehbaz"
+      ],
+      "source_excerpt": "Shehbaz says Pakistan engaging Iran, US to restore regional peace samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW1FSlp5SkZNVF9NTGxaWVpGZldQM3p0SGYtS2UyNXVNZ3FVWFQyX0VQbjcwUVpJdWN1UWhuNzlCNXRxODV6cUtWUkswRFJFUmZQOFU2eUxuc2xjLW03SlJjZ2pfTGNvVndndnR4RHd5SERFUHZ2MXhlZkZKS2xhQ2tqQ09uMEUxdG9rMzVUN1BVSk9DeW5SdGM3UXk?oc=5",
+          "published_at": "2026-11-19T13:13:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW1FSlp5SkZNVF9NTGxaWVpGZldQM3p0SGYtS2UyNXVNZ3FVWFQyX0VQbjcwUVpJdWN1UWhuNzlCNXRxODV6cUtWUkswRFJFUmZQOFU2eUxuc2xjLW03SlJjZ2pfTGNvVndndnR4RHd5SERFUHZ2MXhlZkZKS2xhQ2tqQ09uMEUxdG9rMzVUN1BVSk9DeW5SdGM3UXk?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T14:06:37.600413+00:00"
+  "updated_at": "2026-11-19T15:05:04.800626+00:00"
 }

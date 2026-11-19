@@ -1,44 +1,54 @@
-# News Hub report - Thu 19 Nov, 07:06 PM PKT
+# News Hub report - Thu 19 Nov, 08:05 PM PKT
 
 ## Collection
-- New items this run: 191 | items in rolling pool: 917
-- Unique story clusters: 749 (duplicates merged: 168)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 96, Geo News 15, Al Jazeera 10, ProPakistani 10, samaa tv 8, TechJuice 6, ARY News 5, The Verge 4, Dawn 3, Dawn Pakistan 3, Jang Urdu 3, X 3
+- New items this run: 109 | items in rolling pool: 971
+- Unique story clusters: 803 (duplicates merged: 168)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 71, samaa tv 4, ARY News 4, Al Jazeera 3, The Verge 3, ProPakistani 3, TechJuice 3, Reuters 2, The News International 1, Geo News 1, 24 News HD 1, TechCrunch 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Privatisation Commission, EY-led financial adviser sign pact for outsourcing Karachi, Lahore airports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump considers fresh strikes on Iran amid pressure from Israel: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore named ECO Tourism Capital for 2027, to host year-long cultural events | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PTI leaders in Kot Lakhpat seek medical treatment for Imran, Bushra | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Privatisation Commission, EY-led financial adviser sign pact for outsourcing Karachi, Lahore airports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump considers fresh strikes on Iran amid pressure from Israel: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore named ECO Tourism Capital for 2027, to host year-long cultural events | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PTI leaders in Kot Lakhpat seek medical treatment for Imran, Bushra | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Privatisation Commission, EY-led financial adviser sign pact for outsourcing Karachi, Lahore airports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump considers fresh strikes on Iran amid pressure from Israel: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore named ECO Tourism Capital for 2027, to host year-long cultural events | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PTI leaders in Kot Lakhpat seek medical treatment for Imran, Bushra | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 95/107 | empty: 3 | failed: 8 | malformed/partial: 10
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Urdu | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
+- ATTENTION: Petrol prices | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
 - [needs_review] normal | I had to explain to my teacher what a young carer was - we need more s | Mon 16 Nov, 12:49 PM PKT
@@ -266,7 +276,7 @@
 - [needs_review] normal | PlayStation Network Suffers Brief Outage Hours Before Highly Anticipat | Thu 19 Nov, 12:43 PM PKT
 - [needs_review] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
 - [published] normal | Aamer Jamal and Razaullah strike early as Sri Lanka lose two wickets | Thu 19 Nov, 02:46 PM PKT
-- [queued] normal | Saqib Khan ruled out of further bowling in Rawalpindi Test | Thu 19 Nov, 02:56 PM PKT
+- [published] normal | Saqib Khan ruled out of further bowling in Rawalpindi Test | Thu 19 Nov, 02:56 PM PKT
 - [queued] normal | Sindh CM proposes Wuhan-style city management model for Karachi | Thu 19 Nov, 03:06 PM PKT
 - [queued] normal | Interior Ministry bars provinces from issuing All-Pakistan arms licenc | Thu 19 Nov, 03:16 PM PKT
 - [queued] normal | Oil prices rise as Middle East shipping attacks counter supply surplus | Thu 19 Nov, 03:44 PM PKT
@@ -283,12 +293,25 @@
 - [queued] normal | Donald Trump calls for nuclear arms reduction at APEC summit | Thu 19 Nov, 06:18 PM PKT
 
 ## Publishing this run
-- Published 'Aamer Jamal and Razaullah strike early as Sri Lanka lose two wickets'.
+- Published 'Saqib Khan ruled out of further bowling in Rawalpindi Test'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 0 | output tokens: 0
-- Errors: 4
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=10.8430
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapi
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"
