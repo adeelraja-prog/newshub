@@ -79117,7 +79117,371 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "22f75a391469b4ca30335e02",
+      "remembered_at": "2026-11-19T17:15:55.306169+00:00",
+      "event_date": "2026-11-19T11:55:41+00:00",
+      "last_update": "2026-11-19T16:17:45+00:00",
+      "event": "GTA 6 PC release date: Everything that’s official, leaked, and why it’s not launching for PC at first",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "date",
+        "everything",
+        "first",
+        "for",
+        "gta",
+        "launching",
+        "leaked",
+        "not",
+        "official",
+        "release",
+        "that",
+        "why"
+      ],
+      "source_excerpt": "GTA 6 PC release date: Everything that’s official, leaked, and why it’s not launching for PC at first",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/19/gta-6-could-be-playable-on-pc-without-an-official-release/",
+          "published_at": "2026-11-19T11:55:41+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/gta-6-pc-release-date-everything-thats-official-leaked-and-why-its-not-launching-for-pc-at-first",
+          "published_at": "2026-11-19T16:17:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/gta-6-pc-release-date-everything-thats-official-leaked-and-why-its-not-launching-for-pc-at-first",
+        "publisher_url": "https://arynews.tv/gta-6-pc-release-date-everything-thats-official-leaked-and-why-its-not-launching-for-pc-at-first",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d2feb24213b1342fafb602f1",
+      "remembered_at": "2026-11-19T17:15:55.306169+00:00",
+      "event_date": "2026-11-19T16:33:17+00:00",
+      "last_update": "2026-11-19T16:33:17+00:00",
+      "event": "Dutch watchdog tells people not to buy AI smart glasses",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ambulance",
+        "buy",
+        "called",
+        "dutch",
+        "glasses",
+        "have",
+        "instructions",
+        "medicine",
+        "misread",
+        "not",
+        "people",
+        "pretended",
+        "showed",
+        "smart",
+        "some",
+        "tells",
+        "tests",
+        "watchdog"
+      ],
+      "source_excerpt": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T16:33:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a3ecb77aaecfed6fde738489",
+      "remembered_at": "2026-11-19T17:15:55.306169+00:00",
+      "event_date": "2026-11-19T16:28:41+00:00",
+      "last_update": "2026-11-19T16:28:41+00:00",
+      "event": "Rare rhino's first steps captured on video at zoo",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "birth",
+        "captured",
+        "first",
+        "for",
+        "horned",
+        "moment",
+        "one",
+        "rare",
+        "rhino",
+        "say",
+        "special",
+        "species",
+        "steps",
+        "the",
+        "threat",
+        "under",
+        "video",
+        "zoo",
+        "zookeepers"
+      ],
+      "source_excerpt": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T16:28:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "92a9e6a9dd614b468a86a16a",
+      "remembered_at": "2026-11-19T17:15:55.306169+00:00",
+      "event_date": "2026-11-19T17:00:00+00:00",
+      "last_update": "2026-11-19T17:00:00+00:00",
+      "event": "BBC Inside Science",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affordable",
+        "bbc",
+        "inside",
+        "making",
+        "science",
+        "space",
+        "spacex",
+        "the",
+        "verge"
+      ],
+      "source_excerpt": "SpaceX is on the verge of making space affordable.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T17:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3dd3f5680de81f2c1dcecb07",
+      "remembered_at": "2026-11-19T17:15:55.306169+00:00",
+      "event_date": "2026-11-19T16:53:29+00:00",
+      "last_update": "2026-11-19T16:53:29+00:00",
+      "event": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "again",
+        "age",
+        "both",
+        "boys",
+        "denied",
+        "drowning",
+        "for",
+        "four",
+        "from",
+        "has",
+        "her",
+        "killing",
+        "parole",
+        "prison",
+        "released",
+        "requested",
+        "second",
+        "smith",
+        "sons",
+        "susan",
+        "the",
+        "this",
+        "time",
+        "two",
+        "under",
+        "were",
+        "who",
+        "years"
+      ],
+      "source_excerpt": "This is the second time Smith has requested to be released from prison for killing the two boys, who were both under the age of four at the time.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T16:53:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c9e0c94f77628f107afb718a",
+      "remembered_at": "2026-11-19T17:15:55.306169+00:00",
+      "event_date": "2026-11-19T12:46:00+00:00",
+      "last_update": "2026-11-19T12:46:00+00:00",
+      "event": "Anthropic's IPO explained: Why it went public, ANT stock price, and $1.5T Nasdaq debut",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "and",
+        "ant",
+        "anthropic",
+        "behind",
+        "chatbot",
+        "claude",
+        "completing",
+        "debut",
+        "explained",
+        "ipo",
+        "its",
+        "lab",
+        "largest",
+        "listing",
+        "made",
+        "market",
+        "nasdaq",
+        "november",
+        "price",
+        "public",
+        "record",
+        "stock",
+        "the",
+        "thursday",
+        "ticker",
+        "under",
+        "went",
+        "why"
+      ],
+      "source_excerpt": "Anthropic’s IPO explained: Why it went public, ANT stock price, and $1.5T Nasdaq debut Anthropic, the AI lab behind the Claude chatbot, made its Nasdaq debut on Thursday, November 19, 2026, under the ticker “ANT,” completing the largest stock-market listing on record. The...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691786-anthropics-ipo-explained-why-it-went-public-ant-stock-price-and-15t-nasdaq-debut",
+          "published_at": "2026-11-19T12:46:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691786-anthropics-ipo-explained-why-it-went-public-ant-stock-price-and-15t-nasdaq-debut",
+        "publisher_url": "https://www.geo.tv/latest/691786-anthropics-ipo-explained-why-it-went-public-ant-stock-price-and-15t-nasdaq-debut",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2b43e5077a9ecdf7b91d22f7",
+      "remembered_at": "2026-11-19T17:15:55.306169+00:00",
+      "event_date": "2026-11-19T16:40:27+00:00",
+      "last_update": "2026-11-19T16:40:27+00:00",
+      "event": "Armed men allegedly attempt to seize singer Shazia Manzoor’s Lahore home",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allegedly",
+        "armed",
+        "attempt",
+        "home",
+        "lahore",
+        "manzoor",
+        "men",
+        "samaa",
+        "seize",
+        "shazia",
+        "singer"
+      ],
+      "source_excerpt": "Armed men allegedly attempt to seize singer Shazia Manzoor’s Lahore home samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3JHWmZfMDVrdkJIS2dGNnlxcS1tWHo5eDNrUmc0aE5lZXJVTUR5SHJCei1GUDBYekI5YjdERE1yYkNvaUJwSFp1RjhhQ2dIUmU0UlVmdy0ybXhHUEcteXhldkdRWFFwclNnb1dZWGs1ZEpsUDBOSkhmS3dTVkp0WTV5SnZ0akJBdFA2U21JbHJ5RUZKOE13NC1VVWtvMGtPZUsyN1h1OA?oc=5",
+          "published_at": "2026-11-19T16:40:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3JHWmZfMDVrdkJIS2dGNnlxcS1tWHo5eDNrUmc0aE5lZXJVTUR5SHJCei1GUDBYekI5YjdERE1yYkNvaUJwSFp1RjhhQ2dIUmU0UlVmdy0ybXhHUEcteXhldkdRWFFwclNnb1dZWGs1ZEpsUDBOSkhmS3dTVkp0WTV5SnZ0akJBdFA2U21JbHJ5RUZKOE13NC1VVWtvMGtPZUsyN1h1OA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T16:06:28.159883+00:00"
+  "updated_at": "2026-11-19T17:15:55.306169+00:00"
 }

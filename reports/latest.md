@@ -1,49 +1,56 @@
-# News Hub report - Thu 19 Nov, 09:06 PM PKT
+# News Hub report - Thu 19 Nov, 10:15 PM PKT
 
 ## Collection
-- New items this run: 121 | items in rolling pool: 935
-- Unique story clusters: 769 (duplicates merged: 166)
-- Clusters dropped as already published/queued: 20; unchanged since last analysis: 3
-- Items per outlet: UrduPoint 62, Geo News 10, ProPakistani 7, ARY News 4, Dawn 3, Dawn Pakistan 3, Jang Urdu 3, TechJuice 3, Al Jazeera 2, X 2, The Verge 2, The Express Tribune 1
+- New items this run: 80 | items in rolling pool: 925
+- Unique story clusters: 769 (duplicates merged: 156)
+- Clusters dropped as already published/queued: 16; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 26, Geo News 6, The Verge 5, samaa tv 4, The Guardian 4, The News International 3, ARY News 3, TechCrunch 3, Engadget 2, BBC Science 2, ProPakistani 2, TechJuice 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Privatisation Commission, EY-led financial adviser sign pact for outsourcing Karachi, Lahore airports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA 6 PC release date: Everything that’s official, leaked, and why it’s not launching for PC at first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Privatisation Commission, EY-led financial adviser sign pact for outsourcing Karachi, Lahore airports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA 6 PC release date: Everything that’s official, leaked, and why it’s not launching for PC at first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Privatisation Commission, EY-led financial adviser sign pact for outsourcing Karachi, Lahore airports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA 6 PC release date: Everything that’s official, leaked, and why it’s not launching for PC at first | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 2 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 95/107 | empty: 3 | failed: 9 | malformed/partial: 10
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
+- ATTENTION: Jang Urdu | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Aaj News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Khyber Pakhtunkhwa Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
+- ATTENTION: Pakistan Today Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Petrol prices | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BBC India Economy | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 12
+- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 7
 
 ## Queue status
-- [needs_review] normal | Pakistan Shaheens leave for Rising Stars Asia Cup | Mon 16 Nov, 03:18 PM PKT
-- [needs_review] normal | Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid acc | Mon 16 Nov, 03:28 PM PKT
 - [needs_review] normal | Action against terrorism must for economic cooperation with Afghanista | Mon 16 Nov, 04:34 PM PKT
 - [needs_review] normal | In open letter to FCC, SC and IHC chief justices, Imran pleads for med | Mon 16 Nov, 04:44 PM PKT
 - [needs_review] normal | Prince and Princess of Wales play street cricket in Mumbai | Mon 16 Nov, 04:54 PM PKT
@@ -51,7 +58,6 @@
 - [needs_review] normal | PM Shehbaz approves facilitation centres for SMEs at district level | Mon 16 Nov, 06:55 PM PKT
 - [needs_review] normal | Punjab orders recall of five medicines over quality, safety concerns | Mon 16 Nov, 07:05 PM PKT
 - [needs_review] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
-- [published] normal | SBP projects 3.5-4.5% GDP growth for FY27 | Mon 16 Nov, 10:14 PM PKT
 - [needs_review] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
 - [needs_review] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
 - [needs_review] normal | Third US aircraft carrier arrives in Middle East amid tensions with Ir | Mon 16 Nov, 10:44 PM PKT
@@ -265,11 +271,11 @@
 - [published] normal | Saqib Khan ruled out of further bowling in Rawalpindi Test | Thu 19 Nov, 02:56 PM PKT
 - [needs_review] normal | Sindh CM proposes Wuhan-style city management model for Karachi | Thu 19 Nov, 03:06 PM PKT
 - [published] normal | Interior Ministry bars provinces from issuing All-Pakistan arms licenc | Thu 19 Nov, 03:16 PM PKT
-- [queued] normal | Oil prices rise as Middle East shipping attacks counter supply surplus | Thu 19 Nov, 03:44 PM PKT
-- [queued] normal | Elon Musk says record spending on US midterms was 'pretty foolish' | Thu 19 Nov, 03:54 PM PKT
-- [queued] normal | Two PTI-affiliated Pakistanis detained in UAE over state security, LHC | Thu 19 Nov, 04:04 PM PKT
-- [queued] normal | CDF Munir briefed on ongoing operations during Turbat visit, says ISPR | Thu 19 Nov, 04:14 PM PKT
-- [queued] normal | 22 terrorists killed in security operations across KP | Thu 19 Nov, 04:43 PM PKT
+- [needs_review] normal | Oil prices rise as Middle East shipping attacks counter supply surplus | Thu 19 Nov, 03:44 PM PKT
+- [needs_review] normal | Elon Musk says record spending on US midterms was 'pretty foolish' | Thu 19 Nov, 03:54 PM PKT
+- [needs_review] normal | Two PTI-affiliated Pakistanis detained in UAE over state security, LHC | Thu 19 Nov, 04:04 PM PKT
+- [needs_review] normal | CDF Munir briefed on ongoing operations during Turbat visit, says ISPR | Thu 19 Nov, 04:14 PM PKT
+- [published] normal | 22 terrorists killed in security operations across KP | Thu 19 Nov, 04:43 PM PKT
 - [queued] normal | Large amount of suspected donkey meat seized in Islamabad | Thu 19 Nov, 04:53 PM PKT
 - [queued] normal | Punjab launches online route permit system for transport operators | Thu 19 Nov, 05:03 PM PKT
 - [queued] normal | Indian truck driver wins $1.3m lottery, plans to keep working | Thu 19 Nov, 05:13 PM PKT
@@ -279,17 +285,13 @@
 - [queued] normal | Donald Trump calls for nuclear arms reduction at APEC summit | Thu 19 Nov, 06:18 PM PKT
 
 ## Publishing this run
-- Published 'Interior Ministry bars provinces from issuing All-Pakistan arms licences'.
+- Published '22 terrorists killed in security operations across KP'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
+- Calls: 3 | prompt tokens: 0 | output tokens: 0
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
