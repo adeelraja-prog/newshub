@@ -1,44 +1,141 @@
-# News Hub report - Thu 19 Nov, 01:41 PM PKT
+# News Hub report - Thu 19 Nov, 02:46 PM PKT
 
 ## Collection
-- New items this run: 162 | items in rolling pool: 512
-- Unique story clusters: 401 (duplicates merged: 111)
-- Clusters dropped as already published/queued: 32; unchanged since last analysis: 1
-- Items per outlet: UrduPoint 81, ProPakistani 10, Geo News 7, samaa tv 6, Dawn 6, ARY News 6, Dunya News 4, Dawn Latest 4, Al Jazeera 4, TechJuice 4, The Current 4, Profit by Pakistan Today 4
+- New items this run: 104 | items in rolling pool: 590
+- Unique story clusters: 461 (duplicates merged: 129)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 3
+- Items per outlet: UrduPoint 35, Geo News 6, ARY News 6, ProPakistani 6, TechJuice 6, Profit by Pakistan Today 5, samaa tv 4, Al Jazeera 4, Dawn 2, Dawn Latest 2, X 2, PhoneWorld 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Aamer Jamal, Razaullah strike for Pakistan as Sri Lanka lose two wickets early on day three of second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - CM proposes Wuhan-style city management for Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China's used phones find new homes from Karachi to Algiers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan bans provinces from issuing All-Pakistan arms licences | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Aamer Jamal, Razaullah strike for Pakistan as Sri Lanka lose two wickets early on day three of second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - CM proposes Wuhan-style city management for Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China's used phones find new homes from Karachi to Algiers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan bans provinces from issuing All-Pakistan arms licences | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Aamer Jamal, Razaullah strike for Pakistan as Sri Lanka lose two wickets early on day three of second Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saqib Khan ruled out of further bowling in Rawalpindi Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - CM proposes Wuhan-style city management for Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China's used phones find new homes from Karachi to Algiers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan bans provinces from issuing All-Pakistan arms licences | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 104/107 | empty: 1 | failed: 2 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 3 items
+### Aamer Jamal and Razaullah strike early as Sri Lanka lose two wickets  [NORMAL]
+- Poster: امیر جمال اور رضا اللہ کی شاندار بولنگ، سری لنکا کی دو وکٹیں گر گئیں / Aamer and Razaullah strike early against Sri Lanka | category sports
+- Alternative headline: Sri Lanka face early setbacks against Pakistan on day three of second Test
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdFRKT2FGRXU5cVY5WGRPS0I5SGpoX1hjZ1BxV1RCbnVSNVVmT2xYdmVFeFVoaVRBMWhMSEIzZFhfZk04Rk42dDZsYzVXVi1BVDVodDJfVTM1SG5TWHo2Nmg0WXh1ZDhnTlRlTWF2MWk5a2tLVTRNWHBCUzJ0ekpxbXJXdm1NVmI3SnlPN3FLQmZPS3RMTlFTb0ZYVGRRLUdyMEh6dXRjS3lvNi1pUlVpcGxOQlZDS1U2Q3o0WWU1Q3VXandvSDNGUGhaaU9ZWFNzWGloZnln?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdFRKT2FGRXU5cVY5WGRPS0I5SGpoX1hjZ1BxV1RCbnVSNVVmT2xYdmVFeFVoaVRBMWhMSEIzZFhfZk04Rk42dDZsYzVXVi1BVDVodDJfVTM1SG5TWHo2Nmg0WXh1ZDhnTlRlTWF2MWk5a2tLVTRNWHBCUzJ0ekpxbXJXdm1NVmI3SnlPN3FLQmZPS3RMTlFTb0ZYVGRRLUdyMEh6dXRjS3lvNi1pUlVpcGxOQlZDS1U2Q3o0WWU1Q3VXandvSDNGUGhaaU9ZWFNzWGloZnln?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Geo News, Geo News
+- Keywords: Aamer Jamal, Razaullah, Pakistan vs Sri Lanka, Test match, Rawalpindi Test, cricket | hashtags: #AamerJamal #PAKvSL #TestCricket #PakistanCricket #RawalpindiTest
+- Scheduled: Thu 19 Nov, 02:46 PM PKT
+- Caption:
+```
+Aamer Jamal and Razaullah dealt early blows to Sri Lanka on the third day of the second Test in Rawalpindi.
+
+On day three of the second Test, bowlers Aamer Jamal and Razaullah made crucial early breakthroughs for Pakistan, dismissing two Sri Lankan batsmen. Sri Lanka are working to recover from these early setbacks in the ongoing match.
+
+دوسرے ٹیسٹ کے تیسرے دن پاکستانی بولرز عامر جمال اور رضا اللہ نے شاندار بولنگ کرتے ہوئے سری لنکا کی دو ابتدائی وکٹیں حاصل کر لیں۔ سری لنکا کی ٹیم ان ابتدائی دھچکوں کے بعد میچ میں سنبھلنے کی کوشش کر رہی ہے۔
+
+First reported by Dawn
+
+#AamerJamal #PAKvSL #TestCricket #PakistanCricket #RawalpindiTest
+```
+
+### Saqib Khan ruled out of further bowling in Rawalpindi Test  [NORMAL]
+- Poster: ثاقب خان راولپنڈی ٹیسٹ میں مزید بولنگ سے باہر ہو گئے / Saqib Khan ruled out of bowling in Rawalpindi Test | category sports
+- Alternative headline: Injury setback: Saqib Khan cannot bowl further in Rawalpindi Test
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxQX21VZ192THBUdV9kSW56eDYtU3hIWndQdThWRloyQVo5bmNBV0U1SDJwRkZEZElXVjNQVkZhTV9PUVk1VnZOUExMbFpHU1RWUERhR1hOY1lqNWlzZlZxd0tZeHNEVFhYemVCaURxRnJkRXZwbS1LbENzMUJQTGsxOThNSlZvWjVLS3B3NmNzc0Q2dFdjSGVB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxQX21VZ192THBUdV9kSW56eDYtU3hIWndQdThWRloyQVo5bmNBV0U1SDJwRkZEZElXVjNQVkZhTV9PUVk1VnZOUExMbFpHU1RWUERhR1hOY1lqNWlzZlZxd0tZeHNEVFhYemVCaURxRnJkRXZwbS1LbENzMUJQTGsxOThNSlZvWjVLS3B3NmNzc0Q2dFdjSGVB?oc=5
+- Supporting coverage: Dawn, Dawn Latest, The Express Tribune
+- Keywords: Saqib Khan, Rawalpindi Test, injury, Pakistan cricket, bowling | hashtags: #SaqibKhan #PAKvSL #RawalpindiTest #CricketNews
+- Scheduled: Thu 19 Nov, 02:56 PM PKT
+- Caption:
+```
+Fast bowler Saqib Khan has been ruled out from bowling further in the ongoing Rawalpindi Test match.
+
+Saqib Khan has suffered an injury setback and will not be able to bowl further for Pakistan in the ongoing Rawalpindi Test match, according to reports from Dawn.
+
+ڈان نیوز کی رپورٹ کے مطابق فاسٹ بولر ثاقب خان فٹنس مسائل کی وجہ سے راولپنڈی ٹیسٹ میں مزید بولنگ نہیں کر سکیں گے۔
+
+First reported by Dawn
+
+#SaqibKhan #PAKvSL #RawalpindiTest #CricketNews
+```
+
+### Sindh CM proposes Wuhan-style city management model for Karachi  [NORMAL]
+- Poster: وزیراعلیٰ سندھ نے کراچی کے لیے ووہان طرز کے انتظامی ماڈل کی تجویز دے دی / CM proposes Wuhan-style governance for Karachi | category politics
+- Alternative headline: CM Murad suggests Wuhan-style governance pilot to improve Karachi
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUVHU2RyUG9XVFg1eVB4TnF4S3lTUnBtTFJlcHB1cWxjV1FYX2hOcFd5OEd0Z1Q0UnoybjFqdzJXTGtJci1xMGVKSGNqeGtFb0dXR2Z4dGkzcHhfSk9LN0x0QlBLRWpnQTFTOWFyZjNJSnN6RW1sNnRoSjVTNFJldzRrY2Foc2JsRkkyR2ln?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUVHU2RyUG9XVFg1eVB4TnF4S3lTUnBtTFJlcHB1cWxjV1FYX2hOcFd5OEd0Z1Q0UnoybjFqdzJXTGtJci1xMGVKSGNqeGtFb0dXR2Z4dGkzcHhfSk9LN0x0QlBLRWpnQTFTOWFyZjNJSnN6RW1sNnRoSjVTNFJldzRrY2Foc2JsRkkyR2ln?oc=5
+- Supporting coverage: Dawn, ARY News
+- Keywords: Wuhan-style city management, Murad Ali Shah, Karachi, Sindh CM, urban governance | hashtags: #Karachi #SindhGovt #MuradAliShah #UrbanGovernance
+- Scheduled: Thu 19 Nov, 03:06 PM PKT
+- Caption:
+```
+Sindh Chief Minister Murad Ali Shah has proposed adopting a Wuhan-style city management model for Karachi.
+
+Sindh Chief Minister Murad Ali Shah has put forward a proposal to implement a Wuhan-style city management and governance pilot in Karachi to improve urban administration and civic facilities in the metropolis.
+
+وزیراعلیٰ سندھ مراد علی شاہ نے کراچی میں شہری انتظام اور گورننس کو بہتر بنانے کے لیے ووہان طرز کے ماڈل کو بطور پائلٹ پراجیکٹ نافذ کرنے کی تجویز دی ہے۔
+
+First reported by Dawn
+
+#Karachi #SindhGovt #MuradAliShah #UrbanGovernance
+```
+
+### Interior Ministry bars provinces from issuing All-Pakistan arms licences  [NORMAL]
+- Poster: وفاقی وزارت داخلہ نے صوبوں کی طرف سے آل پاکستان آرمز لائسنس جاری کرنے پر پابندی لگا دی / Provinces barred from issuing countrywide arms licences | category politics
+- Alternative headline: Pakistan bans provincial governments from issuing countrywide arms licences
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxQRExGZGZPRjVJc2tWRzI3TFNYNF9VakNfbUtncXpNVEVKOUlMa2tWTkFjM1BfMHpJNGJDVmw4OC1FY00zYVU2OWFqemdnaDh6VkJZZHVvZk1WcWRlMUp6RnJLVFBjb2xzdl8xRlNFcDhDMHgzeFJVcnp5TEtkVWpfRGV2aFdMRVZDQ19xdHA2MExrNk5wVW1MRG9NQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxQRExGZGZPRjVJc2tWRzI3TFNYNF9VakNfbUtncXpNVEVKOUlMa2tWTkFjM1BfMHpJNGJDVmw4OC1FY00zYVU2OWFqemdnaDh6VkJZZHVvZk1WcWRlMUp6RnJLVFBjb2xzdl8xRlNFcDhDMHgzeFJVcnp5TEtkVWpfRGV2aFdMRVZDQ19xdHA2MExrNk5wVW1MRG9NQQ?oc=5
+- Supporting coverage: TechJuice, samaa tv
+- Keywords: arms licences, Interior Ministry, Pakistan, provincial government, ban | hashtags: #InteriorMinistry #ArmsLicence #Pakistan #SamaaTV
+- Scheduled: Thu 19 Nov, 03:16 PM PKT
+- Caption:
+```
+The Interior Ministry has imposed a ban preventing provinces from issuing All-Pakistan arms licences.
+
+According to reports from Samaa TV, the Ministry of Interior has officially barred all provincial governments from issuing All-Pakistan arms licences, restricting countrywide authorizations.
+
+سما نیوز کے مطابق وزارت داخلہ نے صوبائی حکومتوں کی جانب سے ملک بھر کے لیے اسلحہ لائسنس (آل پاکستان آرمز لائسنس) جاری کرنے پر پابندی عائد کر دی ہے۔
+
+First reported by samaa tv
+
+#InteriorMinistry #ArmsLicence #Pakistan #SamaaTV
+```
+
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
 - [needs_review] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
@@ -257,10 +354,10 @@
 - [needs_review] normal | Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz | Thu 19 Nov, 07:16 AM PKT
 - [needs_review] normal | Ambulance handover time limits breached over 2,000 times in four month | Thu 19 Nov, 07:26 AM PKT
 - [published] normal | NASA’s Voyager 1 spacecraft reaches historic one light-day distance fr | Thu 19 Nov, 07:51 AM PKT
-- [queued] normal | Foreign firms repatriate $1.16 billion out of Pakistan, report reveals | Thu 19 Nov, 08:01 AM PKT
-- [queued] normal | FBR unveils proposed rules to introduce faceless tax appeals system | Thu 19 Nov, 08:11 AM PKT
-- [queued] normal | US Defence Secretary Hegseth announces military partnership during Ven | Thu 19 Nov, 08:21 AM PKT
-- [queued] normal | Cummins defiant as Sandpapergate roils Australian cricket once again | Thu 19 Nov, 08:53 AM PKT
+- [needs_review] normal | Foreign firms repatriate $1.16 billion out of Pakistan, report reveals | Thu 19 Nov, 08:01 AM PKT
+- [needs_review] normal | FBR unveils proposed rules to introduce faceless tax appeals system | Thu 19 Nov, 08:11 AM PKT
+- [needs_review] normal | US Defence Secretary Hegseth announces military partnership during Ven | Thu 19 Nov, 08:21 AM PKT
+- [published] normal | Cummins defiant as Sandpapergate roils Australian cricket once again | Thu 19 Nov, 08:53 AM PKT
 - [queued] normal | PTI legal eagles Salman Akram Raja and Latif Khosa shake and make up | Thu 19 Nov, 09:03 AM PKT
 - [queued] normal | Poll tribunal suspends election results of GBA-16 and Diamer-II | Thu 19 Nov, 09:13 AM PKT
 - [queued] normal | Elon Musk calls record spending on US midterms pretty foolish | Thu 19 Nov, 09:23 AM PKT
@@ -276,14 +373,26 @@
 - [queued] normal | ICJ Flags Serious Concerns Over Judicial Independence in Pakistan | Thu 19 Nov, 12:33 PM PKT
 - [queued] normal | PlayStation Network Suffers Brief Outage Hours Before Highly Anticipat | Thu 19 Nov, 12:43 PM PKT
 - [queued] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
+- [queued] normal | Aamer Jamal and Razaullah strike early as Sri Lanka lose two wickets | Thu 19 Nov, 02:46 PM PKT
+- [queued] normal | Saqib Khan ruled out of further bowling in Rawalpindi Test | Thu 19 Nov, 02:56 PM PKT
+- [queued] normal | Sindh CM proposes Wuhan-style city management model for Karachi | Thu 19 Nov, 03:06 PM PKT
+- [queued] normal | Interior Ministry bars provinces from issuing All-Pakistan arms licenc | Thu 19 Nov, 03:16 PM PKT
 
 ## Publishing this run
-- Published 'NASA’s Voyager 1 spacecraft reaches historic one light-day distance from Earth'.
+- Published 'Cummins defiant as Sandpapergate roils Australian cricket once again'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5596 | output tokens: 2167
-- Errors: 4
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 73 column 7 (char 3156)
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: lin
+- Calls: 4 | prompt tokens: 5868 | output tokens: 2180
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi

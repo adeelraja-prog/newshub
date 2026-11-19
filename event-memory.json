@@ -74749,7 +74749,443 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "37d473812119d6cc94023df9",
+      "remembered_at": "2026-11-19T09:46:22.668096+00:00",
+      "event_date": "2026-11-19T09:16:47+00:00",
+      "last_update": "2026-11-19T09:16:47+00:00",
+      "event": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "according",
+        "and",
+        "both",
+        "can",
+        "enriched",
+        "enrichment",
+        "expanding",
+        "facilities",
+        "facility",
+        "grade",
+        "highly",
+        "iaea",
+        "its",
+        "korea",
+        "north",
+        "nuclear",
+        "plutonium",
+        "produce",
+        "says",
+        "uranium",
+        "watchdog",
+        "weapons"
+      ],
+      "source_excerpt": "North Korea can produce both highly enriched uranium and weapons-grade plutonium at its facilities, according to IAEA.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
+          "published_at": "2026-11-19T09:16:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "332b5c751fb4192d3977db62",
+      "remembered_at": "2026-11-19T09:46:22.668096+00:00",
+      "event_date": "2026-11-19T09:06:36+00:00",
+      "last_update": "2026-11-19T09:06:36+00:00",
+      "event": "Kenya’s marathon champion Peres Jepchirchir gets three-year ban for doping",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anti",
+        "athletics",
+        "ban",
+        "banned",
+        "breached",
+        "champion",
+        "doping",
+        "epo",
+        "for",
+        "gets",
+        "integrity",
+        "jepchirchir",
+        "kenya",
+        "marathon",
+        "peres",
+        "positive",
+        "rules",
+        "says",
+        "substance",
+        "testing",
+        "three",
+        "unit",
+        "year"
+      ],
+      "source_excerpt": "Jepchirchir breached anti-doping rules by testing positive for banned substance EPO, Athletics Integrity Unit says.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/19/kenyas-marathon-champion-peres-jepchirchir-gets-three-year-ban-for-doping?traffic_source=rss",
+          "published_at": "2026-11-19T09:06:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/19/kenyas-marathon-champion-peres-jepchirchir-gets-three-year-ban-for-doping?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/19/kenyas-marathon-champion-peres-jepchirchir-gets-three-year-ban-for-doping?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "940ecc2ea4ad9fca6cd976ee",
+      "remembered_at": "2026-11-19T09:46:22.668096+00:00",
+      "event_date": "2026-11-19T08:31:14+00:00",
+      "last_update": "2026-11-19T08:31:14+00:00",
+      "event": "Is Trump helping rehabilitate Putin on the world stage?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "helping",
+        "putin",
+        "rehabilitate",
+        "stage",
+        "the",
+        "trump",
+        "world"
+      ],
+      "source_excerpt": "Is Trump helping rehabilitate Putin on the world stage?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
+          "published_at": "2026-11-19T08:31:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "76cbf532eb63b26f8cab708c",
+      "remembered_at": "2026-11-19T09:46:22.668096+00:00",
+      "event_date": "2026-11-19T09:21:54+00:00",
+      "last_update": "2026-11-19T09:21:54+00:00",
+      "event": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "deadly",
+        "ignore",
+        "justice",
+        "land",
+        "landslide",
+        "livelihoods",
+        "plans",
+        "reject",
+        "relocation",
+        "rights",
+        "safety",
+        "say",
+        "seek",
+        "survivors",
+        "the",
+        "their",
+        "they",
+        "uganda"
+      ],
+      "source_excerpt": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T09:21:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "29a0c2e600a70a5a7c28d338",
+      "remembered_at": "2026-11-19T09:46:22.668096+00:00",
+      "event_date": "2026-11-19T09:02:52+00:00",
+      "last_update": "2026-11-19T09:02:52+00:00",
+      "event": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "after",
+        "been",
+        "boat",
+        "bodies",
+        "carrying",
+        "coast",
+        "dozens",
+        "four",
+        "have",
+        "least",
+        "local",
+        "media",
+        "migrants",
+        "missing",
+        "off",
+        "recovered",
+        "report",
+        "senegal",
+        "sinks",
+        "some",
+        "that"
+      ],
+      "source_excerpt": "Some local media report that at least four bodies have been recovered.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T09:02:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "11b306c7d5102691e4fa3e3d",
+      "remembered_at": "2026-11-19T09:46:22.668096+00:00",
+      "event_date": "2026-11-19T09:06:42+00:00",
+      "last_update": "2026-11-19T09:41:54+00:00",
+      "event": "Navy’s combat capabilities significantly enhanced across all operational domains: Admiral Ashraf",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "admiral",
+        "all",
+        "ashraf",
+        "capabilities",
+        "combat",
+        "dawn",
+        "domains",
+        "enhanced",
+        "navy",
+        "operational",
+        "significantly"
+      ],
+      "source_excerpt": "Navy’s combat capabilities significantly enhanced across all operational domains: Admiral Ashraf Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUjdEeHd4bG5Cd0d3R29vNTZVQlNKeFM2NmRKd0d4Wjd1UE9hc0I0T0E5QlBpRERsLXVyVV92UEFlX2NUWVVqNk1EVVIxRVJTZ2VvYnROWXFuUGx6N053VXhnVDNqZS1ySGxUVEhKX3NVOENMZnBPODJ5aDVWUUJqVkRWWHV3QjEwVkVyZVAtSVRTc2JaTHdkM1UxNENXd0djSEVSR1R3YjdSMUsyVDJnbEUzWk1GMENNU2N5eHpkRzN4RktJVWZr?oc=5",
+          "published_at": "2026-11-19T09:06:42+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045672/navys-combat-capabilities-significantly-enhanced-across-all-operational-domains-admiral-ashraf",
+          "published_at": "2026-11-19T09:41:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUjdEeHd4bG5Cd0d3R29vNTZVQlNKeFM2NmRKd0d4Wjd1UE9hc0I0T0E5QlBpRERsLXVyVV92UEFlX2NUWVVqNk1EVVIxRVJTZ2VvYnROWXFuUGx6N053VXhnVDNqZS1ySGxUVEhKX3NVOENMZnBPODJ5aDVWUUJqVkRWWHV3QjEwVkVyZVAtSVRTc2JaTHdkM1UxNENXd0djSEVSR1R3YjdSMUsyVDJnbEUzWk1GMENNU2N5eHpkRzN4RktJVWZr?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c7d9e42c80cd0af230ac071a",
+      "remembered_at": "2026-11-19T09:46:22.668096+00:00",
+      "event_date": "2026-11-19T09:44:24+00:00",
+      "last_update": "2026-11-19T09:44:24+00:00",
+      "event": "How to get 100% free education at COMSATS University Islamabad",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "comsats",
+        "education",
+        "free",
+        "get",
+        "how",
+        "islamabad",
+        "university"
+      ],
+      "source_excerpt": "How to get 100% free education at COMSATS University Islamabad",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/how-to-get-100-free-education-at-comsats-university-islamabad",
+          "published_at": "2026-11-19T09:44:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/how-to-get-100-free-education-at-comsats-university-islamabad",
+        "publisher_url": "https://arynews.tv/how-to-get-100-free-education-at-comsats-university-islamabad",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7ef0ff3f99d6356fa900262a",
+      "remembered_at": "2026-11-19T09:46:22.668096+00:00",
+      "event_date": "2026-11-19T09:03:47+00:00",
+      "last_update": "2026-11-19T09:03:47+00:00",
+      "event": "Punjab govt announces smartphone winners under Kisan Card phase IV",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announces",
+        "card",
+        "govt",
+        "kisan",
+        "phase",
+        "punjab",
+        "smartphone",
+        "under",
+        "winners"
+      ],
+      "source_excerpt": "Punjab govt announces smartphone winners under Kisan Card phase IV",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-announces-smartphone-winners-under-kisan-card-phase-iv",
+          "published_at": "2026-11-19T09:03:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-announces-smartphone-winners-under-kisan-card-phase-iv",
+        "publisher_url": "https://arynews.tv/punjab-announces-smartphone-winners-under-kisan-card-phase-iv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3ee00efc87e65db544c9a1ba",
+      "remembered_at": "2026-11-19T09:46:22.668096+00:00",
+      "event_date": "2026-11-19T08:42:40+00:00",
+      "last_update": "2026-11-19T08:42:40+00:00",
+      "event": "‘Will you use Uzair Baloch to unleash bloodshed in Karachi?’ Khalid Maqbool asks Bilawal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asks",
+        "baloch",
+        "bilawal",
+        "bloodshed",
+        "karachi",
+        "khalid",
+        "maqbool",
+        "unleash",
+        "use",
+        "uzair",
+        "will",
+        "you"
+      ],
+      "source_excerpt": "‘Will you use Uzair Baloch to unleash bloodshed in Karachi?’ Khalid Maqbool asks Bilawal",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/khalid-maqbool-says-threats-wont-deter-mqm-from-demanding-new-provinces",
+          "published_at": "2026-11-19T08:42:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/khalid-maqbool-says-threats-wont-deter-mqm-from-demanding-new-provinces",
+        "publisher_url": "https://arynews.tv/khalid-maqbool-says-threats-wont-deter-mqm-from-demanding-new-provinces",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T08:41:32.062061+00:00"
+  "updated_at": "2026-11-19T09:46:22.668096+00:00"
 }
