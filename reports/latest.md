@@ -1,147 +1,140 @@
-# News Hub report - Thu 19 Nov, 05:35 AM PKT
+# News Hub report - Thu 19 Nov, 06:56 AM PKT
 
 ## Collection
-- New items this run: 19 | items in rolling pool: 339
-- Unique story clusters: 309 (duplicates merged: 30)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 3
-- Items per outlet: Al Jazeera 5, The Express Tribune 4, The Guardian 3, BBC Business 2, TechCrunch 1, Wired 1, BBC Health 1, BBC World 1, Yahoo News Singapore 1, Samaa Fast Lane 0, Express News Fast Lane 0, Samaa TV 0
+- New items this run: 41 | items in rolling pool: 274
+- Unique story clusters: 252 (duplicates merged: 22)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 1
+- Items per outlet: Dawn 9, Al Jazeera 7, The Express Tribune 6, BBC World 3, Geo News 2, TechCrunch 2, The Verge 1, GSMArena 1, BBC Business 1, PBS 1, Anadolu Ajansı 1, The Times of Israel 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- US steps up pressure on Iran-backed Hezbollah with new sanctions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Claude-maker Anthropic poised for $1.4tn stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gilts v kilts: What is happening with Scottish government bonds? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hunger Games fan, 13, to get artwork shown on cinema screens before film | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Wales' papers: Applause for dad as son's killers jailed and new report rejects axing of regions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Crimean Bridge attacked again, Russian official says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Van Gogh painting sells for record $190.4m after row over its Nazi history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two-hour ambulance handover limit missed more than 2,000 times | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- McDonald's sex abuse: 'They were waiting for the younger girls to turn 18' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- US steps up pressure on Iran-backed Hezbollah with new sanctions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Claude-maker Anthropic poised for $1.4tn stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gilts v kilts: What is happening with Scottish government bonds? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hunger Games fan, 13, to get artwork shown on cinema screens before film | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Wales' papers: Applause for dad as son's killers jailed and new report rejects axing of regions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Crimean Bridge attacked again, Russian official says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Van Gogh painting sells for record $190.4m after row over its Nazi history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two-hour ambulance handover limit missed more than 2,000 times | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- McDonald's sex abuse: 'They were waiting for the younger girls to turn 18' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- US steps up pressure on Iran-backed Hezbollah with new sanctions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Claude-maker Anthropic poised for $1.4tn stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gilts v kilts: What is happening with Scottish government bonds? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hunger Games fan, 13, to get artwork shown on cinema screens before film | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Wales' papers: Applause for dad as son's killers jailed and new report rejects axing of regions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Crimean Bridge attacked again, Russian official says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Van Gogh painting sells for record $190.4m after row over its Nazi history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two-hour ambulance handover limit missed more than 2,000 times | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- McDonald's sex abuse: 'They were waiting for the younger girls to turn 18' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 99/107 | empty: 3 | failed: 5 | malformed/partial: 6
-- Trusted publisher desks with at least one healthy source: 9/10
-- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
-- ATTENTION: Al Jazeera India General Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Express News
 
 ## Selected for the queue
-### US targets Hezbollah with fresh sanctions over front charities  [NORMAL]
-- Poster: امریکہ کی حزب اللہ پر نئی پابندیاں، خیراتی تنظیموں کو فرنٹ قرار دیدیا / US hits Hezbollah with new sanctions over front charities | category security
-- Alternative headline: US Treasury steps up financial pressure on Iran-backed Hezbollah
+### Crimean Bridge hit by fresh attack, says Russian-installed official  [NORMAL]
+- Poster: روسی عہدیدار کے مطابق کریمیا پل پر ایک بار پھر حملہ / Crimean Bridge hit by fresh attack | category security
+- Alternative headline: Crimea bridge attacked for third time this week, claims Moscow official
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: The Guardian, BBC World
+- Keywords: Crimean Bridge, Crimea, Russia, Ukraine, Sergei Aksyonov, attack | hashtags: #CrimeanBridge #Russia #Ukraine #Conflict #WorldNews
+- Scheduled: Thu 19 Nov, 06:56 AM PKT
+- Caption:
+```
+The strategic Crimean Bridge has reportedly faced another attack, with traffic temporarily suspended according to local officials.
+
+The Crimean Bridge was targeted in a fresh attack, marking the third strike this week, according to the Moscow-installed head of Crimea, Sergei Aksyonov. Traffic was temporarily suspended as damage assessments began. The vital infrastructure remains a key logistical asset in the ongoing conflict.
+
+روسی عہدیدار کے مطابق کریمیا کے اسٹریٹجک پل کو ایک بار پھر حملے کا نشانہ بنایا گیا ہے، جو اس ہفتے کا تیسرا حملہ ہے۔ حملے کے بعد ٹریفک عارضی طور پر معطل کر دی گئی اور نقصانات کا جائزہ لیا جا رہا ہے۔
+
+First reported by BBC World
+
+#CrimeanBridge #Russia #Ukraine #Conflict #WorldNews
+```
+
+### Van Gogh painting fetches record $190.4m following dispute resolution  [NORMAL]
+- Poster: وان گو کی پینٹنگ ریکارڈ 190.4 ملین ڈالر میں فروخت / Van Gogh painting fetches record $190.4m | category lifestyle
+- Alternative headline: Van Gogh's Chestnut Trees in Blossom sells for record $190.4 million
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, BBC
+- Keywords: Van Gogh painting, Sotheby's, art auction, record sale, New York, Nazi history | hashtags: #VanGogh #ArtAuction #Sothebys #RecordSale #Culture
+- Scheduled: Thu 19 Nov, 07:06 AM PKT
+- Caption:
+```
+A rare Vincent van Gogh painting has shattered previous auction records after an eleventh-hour agreement resolved a Nazi-era dispute.
+
+Auction house Sotheby's sold Vincent van Gogh's painting 'Chestnut Trees in Blossom' for a record $190.4 million in New York. The historic sale surpassed the artist's previous 2022 record following an agreement that resolved a dispute over its Nazi-era history.
+
+نیلامی گھر سویتھ بئے نے ونسنٹ وان گو کی پینٹنگ 190.4 ملین ڈالر کے ریکارڈ داموں فروخت کر دی ہے۔ یہ تاریخی فروخت نازی دور کے تنازع کے حل کے بعد عمل میں آئی۔
+
+First reported by BBC World
+
+#VanGogh #ArtAuction #Sothebys #RecordSale #Culture
+```
+
+### Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz  [NORMAL]
+- Poster: سعودی اتحاد کی یمن میں کارروائی، آبنائے ہرمز میں جہازوں پر حملے / Saudi coalition strikes Yemen amid Hormuz fires | category war
+- Alternative headline: Yemen missile platform destroyed by Saudi coalition amid Hormuz shipping incidents
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss
 - Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Hezbollah sanctions, US Treasury, Iran, charities, fundraising | hashtags: #Hezbollah #USTreasury #Sanctions #US #WorldNews
-- Scheduled: Thu 19 Nov, 05:35 AM PKT
+- Keywords: Saudi-led coalition, Yemen, Hormuz, missile platform, Saada, airstrikes | hashtags: #Yemen #SaudiCoalition #Hormuz #MiddleEast #BreakingNews
+- Scheduled: Thu 19 Nov, 07:16 AM PKT
 - Caption:
 ```
-The US Treasury has accused Hezbollah of using charitable organisations as fronts for fundraising, leading to fresh sanctions.
+Regional tensions escalate as the Saudi-led coalition targets a missile platform in Yemen while reports emerge of ships hit by mines.
 
-The United States Treasury has intensified financial pressure on the Iran-backed group Hezbollah by imposing new sanctions. Washington accused the organization of utilizing charitable entities as fronts to raise funds.
+The Saudi-led coalition announced the destruction of a missile platform in Saada, Yemen. Meanwhile, reports indicated that ships were on fire in the Strait of Hormuz after allegedly hitting mines, escalating ongoing regional hostilities.
 
-امریکہ کے محکمہ خزانہ نے ایران حواقہ حزب اللہ پر نئی پابندیاں عائد کر کے مالیاتی دباؤ بڑھا دیا ہے۔ واشنگٹن نے الزام لگایا ہے کہ یہ تنظیم فنڈ اکٹھا کرنے کے لیے فلاحی اداروں کو فرنٹ کے طور پر استعمال کر رہی ہے۔
+سعودی اتحاد نے یمن کے علاقے صعدہ میں میزائل پلیٹ فارم تباہ کرنے کا اعلان کیا ہے، جبکہ آبنائے ہرمز میں بحری جہازوں کو بھی نشانہ بنائے جانے کی اطلاعات ہیں۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#Hezbollah #USTreasury #Sanctions #US #WorldNews
+#Yemen #SaudiCoalition #Hormuz #MiddleEast #BreakingNews
 ```
 
-### Claude maker Anthropic eyes massive 1.4 trillion dollar stock debut  [NORMAL]
-- Poster: کلود کی ساز کمپنی اینتھروپک کا ڈیڑھ لاکھ کروڑ ڈالر کا تاریخی مارکیٹ ڈیبیو / Claude maker Anthropic poised for 1.4 trillion dollar stock debut | category tech
-- Alternative headline: AI firm Anthropic valued at over 1.4 trillion dollars ahead of Nasdaq IPO
+### Ambulance handover time limits breached over 2,000 times in four months  [NORMAL]
+- Poster: ایمبولینس ہینڈ اوور کی دو گھنٹے کی حد 2 ہزار سے زائد بار ٹوٹی / Ambulance handover limits missed 2,000 times | category health
+- Alternative headline: Over 2,000 breaches recorded for two-hour ambulance handover limit
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology
-- Keywords: Anthropic IPO, Claude, AI, Nasdaq, stock market, valuation | hashtags: #Anthropic #AI #Nasdaq #IPO #Technology
-- Scheduled: Thu 19 Nov, 05:45 AM PKT
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: ambulance handover, emergency department, NHS, health service, wait times, UK health | hashtags: #AmbulanceDelays #NHS #Healthcare #Emergency #BBCHealth
+- Scheduled: Thu 19 Nov, 07:26 AM PKT
 - Caption:
 ```
-AI firm Anthropic is set to hit a valuation of over 1.4 trillion dollars in its upcoming Nasdaq stock market debut.
+Emergency departments faced thousands of delays as a new two-hour ambulance handover target was repeatedly missed over the summer.
 
-Anthropic, the artificial intelligence company behind chatbot Claude, is set to reach a value exceeding 1.4 trillion dollars upon its Nasdaq debut. The firm will price shares at 83 dollars each, marking the first public offering by a strictly AI-focused US firm.
+A target ensuring a maximum two-hour wait for ambulance handovers at emergency departments was breached more than 2,000 times between May and August. While health officials reported overall improvements compared to previous years, severe pressures continue to challenge the healthcare system.
 
-مصنوعی ذہانت کی کمپنی اینتھروپک، جو چیٹ بوٹ کلوڈ کی ساز ہے، اپنے نیسڈیک ڈیبیو پر 1.4 ٹریلین ڈالر سے زائد کی مالیت حاصل کرنے کے لیے تیار ہے۔ یہ کسی بھی خالصتاً اے آئی پر مبنی امریکی فرم کی پہلی پبلک پیشکش ہے۔
+ہنگامی شعبوں میں ایمبولینس ہینڈ اوور کے لیے دو گھنٹے کی مقررہ حد مئی سے اگست کے دوران دو ہزار سے زائد بار پوری نہیں کی جا سکی، اگرچہ حکام نے بہتری کا دعویٰ کیا ہے۔
 
-First reported by BBC Technology.
+First reported by BBC Health
 
-#Anthropic #AI #Nasdaq #IPO #Technology
+#AmbulanceDelays #NHS #Healthcare #Emergency #BBCHealth
 ```
 
-### Scottish government faces questions over plans to issue first ever bonds  [NORMAL]
-- Poster: سکاٹش حکومت کا پہلی بار بانڈز جاری کرنے کا منصوبہ، سوالات اٹھ گئے / Scottish government faces questions over first ever bonds plan | category economy
-- Alternative headline: Scotland considers issuing 'kilts' bonds to raise 1.5 billion pounds
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business
-- Keywords: Scottish bonds, kilts, gilts, Scotland, borrowing, finance | hashtags: #Scotland #Bonds #Economy #Finance #BBC
-- Scheduled: Thu 19 Nov, 05:55 AM PKT
-- Caption:
-```
-The Scottish government is facing scrutiny over its plan to issue its first ever bonds, nicknamed 'kilts', to raise funds.
-
-The Scottish government is addressing questions regarding its plan to issue its first ever bonds, nicknamed 'kilts' as a play on UK 'gilts'. The scheme aims to raise about 1.5 billion pounds by the end of the parliamentary term for long-term projects.
-
-سکاٹش حکومت اپنے پہلے بانڈز جاری کرنے کے منصوبے کے حوالے سے سوالات کا سامنا کر رہی ہے، جنہیں برطانیہ کے 'گلٹس' کے نام پر 'کلٹس' کا نام دیا گیا ہے۔ اس اسکیم کا مقصد طویل مدتی منصوبوں کے لیے فنڈز اکٹھا کرنا ہے۔
-
-First reported by BBC Business.
-
-#Scotland #Bonds #Economy #Finance #BBC
-```
-
-### Thirteen-year-old Hunger Games fan to have artwork shown in cinemas  [NORMAL]
-- Poster: ہنگر گیمز کی 13 سالہ مداح کا آرٹ ورک سنیما سکرین پر دکھایا جائے گا / 13-year-old Hunger Games fan to get artwork shown in cinemas | category other
-- Alternative headline: Young Hunger Games fan's artwork selected for cinema screens before film
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZEtwNEFOQ0E5dDNpcGdqR2hsWU5JbndSc0NNcXZJeDR0Q3F3cWFNZTVOZzFpc0hkejJUNGNPdHliYy14VVBVTDFxV1pZY2RUd1hMVGFBdTE0eXM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZEtwNEFOQ0E5dDNpcGdqR2hsWU5JbndSc0NNcXZJeDR0Q3F3cWFNZTVOZzFpc0hkejJUNGNPdHliYy14VVBVTDFxV1pZY2RUd1hMVGFBdTE0eXM?oc=5
-- Supporting coverage: BBC
-- Keywords: Hunger Games artwork, fan art, cinema, film, BBC | hashtags: #HungerGames #FanArt #Cinema #Film #BBC
-- Scheduled: Thu 19 Nov, 06:05 AM PKT
-- Caption:
-```
-A 13-year-old fan of the Hunger Games is set to have her artwork showcased on cinema screens before the film.
-
-A 13-year-old fan of the Hunger Games franchise has achieved a unique milestone, securing a spot for her artwork to be displayed on cinema screens ahead of the film screening.
-
-ہنگر گیمز فرنچائز کی 13 سالہ مداح نے ایک انوکھا اعزاز حاصل کر لیا ہے، اس کا آرٹ ورک فلم کی نمائش سے پہلے سنیما سکرین پر دکھایا جائے گا۔
-
-First reported by BBC.
-
-#HungerGames #FanArt #Cinema #Film #BBC
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
@@ -350,7 +343,7 @@ First reported by BBC.
 - [needs_review] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
 - [needs_review] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
 - [published] normal | Kuwait and Bahrain face new Iran attacks following US strike | Thu 19 Nov, 01:51 AM PKT
-- [queued] normal | Internet services face nationwide disruption due to submarine cable fa | Thu 19 Nov, 02:01 AM PKT
+- [published] normal | Internet services face nationwide disruption due to submarine cable fa | Thu 19 Nov, 02:01 AM PKT
 - [queued] normal | Israeli settler kills Palestinian grandmother in occupied West Bank | Thu 19 Nov, 02:11 AM PKT
 - [queued] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
 - [queued] normal | Israeli military launches rare ground operation in Gaza beyond Yellow  | Thu 19 Nov, 02:50 AM PKT
@@ -369,14 +362,20 @@ First reported by BBC.
 - [queued] normal | Claude maker Anthropic eyes massive 1.4 trillion dollar stock debut | Thu 19 Nov, 05:45 AM PKT
 - [queued] normal | Scottish government faces questions over plans to issue first ever bon | Thu 19 Nov, 05:55 AM PKT
 - [queued] normal | Thirteen-year-old Hunger Games fan to have artwork shown in cinemas | Thu 19 Nov, 06:05 AM PKT
+- [queued] normal | Crimean Bridge hit by fresh attack, says Russian-installed official | Thu 19 Nov, 06:56 AM PKT
+- [queued] normal | Van Gogh painting fetches record $190.4m following dispute resolution | Thu 19 Nov, 07:06 AM PKT
+- [queued] normal | Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz | Thu 19 Nov, 07:16 AM PKT
+- [queued] normal | Ambulance handover time limits breached over 2,000 times in four month | Thu 19 Nov, 07:26 AM PKT
 
 ## Publishing this run
-- Published 'Kuwait and Bahrain face new Iran attacks following US strike'.
+- Published 'Internet services face nationwide disruption due to submarine cable fault'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 4458 | output tokens: 2890
-- Errors: 1
+- Calls: 4 | prompt tokens: 11106 | output tokens: 4623
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 65 column 7 (char 3086)
