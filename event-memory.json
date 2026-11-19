@@ -80876,7 +80876,599 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9b93eab7f2616f44986d362a",
+      "remembered_at": "2026-11-19T21:22:58.249803+00:00",
+      "event_date": "2026-11-19T19:46:00+00:00",
+      "last_update": "2026-11-19T20:51:00+00:00",
+      "event": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "broke",
+        "defeated",
+        "iran",
+        "limit",
+        "measure",
+        "powers",
+        "rank",
+        "reject",
+        "republicans",
+        "resolution",
+        "senate",
+        "the",
+        "three",
+        "trump",
+        "voting",
+        "war",
+        "was"
+      ],
+      "source_excerpt": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44WGgzc2Z1WWZYOW9XTnNTb29CbTg5RHd2RWE4cnJab19WN0tWR2NjNUxxQ1FMcURoSnU4SWpFRWdNNnZabjlQUWs1aHdZMU95WEh2MnI4cjZfdE1XSk1SeE1DNHRtY0J4MlFnaWEydS1wN0U3OVpxeg?oc=5",
+          "published_at": "2026-11-19T19:46:00+00:00"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0lwWVdqMlEzMDB1SGhlNjZ6cWNDejdBOWtyLVZtalRBcEp4REZEQVdBN0lTVmd1RThCVnFtUzM4OER6SDhGcWNmOEpqdlQ4SDlBZFkzYUR2ZkZBNThQZDNVRkU0U0J0TG9GdUFaZWk0TGFwTGlta1JrbzY5dDNaeGwybjR4c3M?oc=5",
+          "published_at": "2026-11-19T19:46:59+00:00"
+        },
+        {
+          "name": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdl9VUjZXWHRPNHVhZTRzbkFNcWRqRHhvQ3VsZ2N1clgyalBkSWxQdERMYWw1N3BRRkJCT1JLM1k0NGNoMVc3a2ZyREVoSDNDd3NMRGFKZmM0RFJIVmNLd19RaUJ1QUlhaFV2T0hTLWtDY1V4XzlRdmlnQXZndktrRGNwS1RiM2M4MlVrMVh1OFNpaXZNWUFLd2N1Ym_SAaIBQVVfeXFMTWdOWjBsUzRjNUp4Uk5ab1czZlU4ZXAtU2p4Sm9UNkxVUFdSbWMzcVU2dG9jdWhERVg3Z0VtdzNJY1ZXWlAwNUphTmRNYnBXMi1yMTNNamd4T0wtazdPSGh4RGhaMG5tRVlERGNfQVhIMi03M0plMDBrczdqS0dfSDEycDdCbkhpTEdPQ1Uxand0N1c3dHNUS05HMWRjQjNuLTl3?oc=5",
+          "published_at": "2026-11-19T19:50:00+00:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
+          "published_at": "2026-11-19T19:54:24+00:00"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aWmxUdjYtLWp4ZkNGbWlXMlZTTlRPMmZIZFJMNU9WWHM5UzUxa0Z3RThyX2FWYlRxVk5FOHhjRlpEdElIVDFlZVFhMlJyTFFlNWxHSVZ1eUJ0T3p5bHV6SlQyelE?oc=5",
+          "published_at": "2026-11-19T19:56:10+00:00"
+        },
+        {
+          "name": "GV Wire",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVG1QMmNpdnhwR0RJZjJmTTdhM3paVFZTbWlFRGVDdDBvZEs3QlFZdGQ3QnB2V250ZWFmaVRmdVNla09hM1NLNzNWcXlUZE1zZ2p4a3VKdWZiYzh2b1B2U3dLbllUTEFhYUdySkpQQ3lYNEs1dnZIWHZndndjbU0zZU1QZzNFX1cyc1d1c2lhVm5XY3lJ?oc=5",
+          "published_at": "2026-11-19T19:56:52+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkR3NFRwR1R1ajRmVEhmWi1kUU03cnZub21IWTk1QTl0OE96RmxwN3JZdHFUOHBMRmY4bU9mcXNQbGN0LUdVeHB3R0ZoNkRlZnZGbjJSTW5OeFhYN19LWkRVcjBNZHpxSTZKOC1yMGx0VVZ4YmJhcDBvdEN1MWZyRmxYZlEtQTRUMG50dnc4VEVXVWxnVUdtbjBYMkxsYmhkV1I3cFJpTWc0ZWpEb1J2SUUzUQ?oc=5",
+          "published_at": "2026-11-19T19:58:17+00:00"
+        },
+        {
+          "name": "NOTUS",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3lzeDUzS0lRVGYzR1JSOVZfZDZQTGZpSDl3ZzhEQjcxYk5URFp6RDQxc1YzMHpjY0VMbVI4Tzhyc1JDcDdFY19xTGVmSDEyTkNoTzZaVjlUWWZjdGlwaU5lQWxUeUhPdjd6aGdVLURjaGNENVl6WDB2VVdhZGtUUnRLcFktbGl0ckVCTlRkeHpqTFpWN1QwVXBR?oc=5",
+          "published_at": "2026-11-19T20:15:00+00:00"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUhPc1MzUmliSzFkVG16b3R4WmdnM2tTQlhHX19ONGU1Ui15MWZZcmJ0NDA4a0lkenNvRXdvUFRaMDdvcjZoOHd3YW5KNVNEelUxVEx0VU83WlJMTkFLYVV0WEtwNGVGQ2RjRmwxTlNhZ2xseHkxbGxjNTBsWU5XclJnZkRCVHJBVURwOHVoR1JjZEVSSzFuRjRRdVh3NHRpd3VTVnF3?oc=5",
+          "published_at": "2026-11-19T20:15:36+00:00"
+        },
+        {
+          "name": "C-SPAN",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVZrZFVyRVZSZ2N3QVlKclZXbVRWTk1tbkZfdUtzQ2FWeE9yaU01OG5OYWxxbmRuVXdzZEpfSVpIM3MwUkVQOERwMzdldVlXT2plSUFWaTJUZmRjNWY1RmJycERsbkxpNVJrZ19iZ1hFWWY5elBNQzY1aVhwN1hyTE5oQUN1YWtBOFNLdzFsY0dNREdQYzVTTklYdGRxSVdwbUJnMS1aUU9WNXdVbUc1VG14czk5a3dkQVE?oc=5",
+          "published_at": "2026-11-19T20:15:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3876251f782c2e771e08086f",
+      "remembered_at": "2026-11-19T21:22:58.249803+00:00",
+      "event_date": "2026-11-19T13:29:34+00:00",
+      "last_update": "2026-11-19T21:01:35+00:00",
+      "event": "DPM Dar, Asean secretary general agree to enhance cooperation to address ‘non-traditional’ security challenges",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "address",
+        "addressing",
+        "after",
+        "agree",
+        "agreed",
+        "and",
+        "asean",
+        "asian",
+        "association",
+        "challenges",
+        "cooperation",
+        "dar",
+        "delegati",
+        "deputy",
+        "dpm",
+        "enhance",
+        "foreign",
+        "general",
+        "hourn",
+        "ishaq",
+        "joint",
+        "kao",
+        "kim",
+        "minister",
+        "nations",
+        "non",
+        "press",
+        "prime",
+        "secretary",
+        "security",
+        "southeast",
+        "stakeout",
+        "the",
+        "thursday",
+        "traditional",
+        "with"
+      ],
+      "source_excerpt": "Deputy Prime Minister and Foreign Minister Ishaq Dar and Secretary General of the Association of Southeast Asian Nations (Asean) Dr Kao Kim Hourn agreed to enhance cooperation in addressing “non-traditional” security challenges on Thursday. Addressing a joint press stakeout with Hourn after delegati",
+      "sources": [
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVG0xN3hMdUF1bDZkSmU5M2xBVFFHRmxMdkNhM3VaX003UlRDUFpvdkxZeHltdGhPSnNxaGJXMlkwWVVHcUVnQVNhcW1id29EaDlRZDJGSlhGUDdqOEZBZFlHWVZOeWpEaEtva1FRVFlacVpqblo0OWRkb3l3Y05mZk5IaXpPeGdUYUHSAVNBVV95cUxQd3B6Ym5iOE9jMS1DUWVnemRvdVZyQ2o5OHBVbS16WEpzSzl6a3hrMC14djdLTlRXWUJ3eXA3VmJsR0VDU1JLQzhBQmVUa21WMU9WVQ?oc=5",
+          "published_at": "2026-11-19T13:29:34+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-agree-to-enhance-cooperation-to-address-non-traditional-security-challenges",
+          "published_at": "2026-11-19T13:45:50+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONnRRSDFPTW04TkdFRUhPaWFLS0xBNEF3VTgyS3M1UjBTbVoySEl4dEFKUFRnRW9KeS1QYjRzRlJJR1RaS3dMTzlQOGNSQXBXdHlqX1ZFTkEzWFNyQzN1Z1FLT2VwMUJqV3RLblV3N2ZLZmNIbk9Zd1oyVVlEYmZRS252aDNIeGZjaW1QMGxIUlcxSHd5QXBQQTZLOURxMi0tN2JmSGVsUk15UdIBU0FVX3lxTFBabVRQUU9lczNmalNZX3lxV2g3NjJpVW1NUDJGeUxjWnpiS2tQUm1YVDdjVDBPSGtvckRHVjRGQlRmQWs1azBscWYxQ2xRMW1fMnBV?oc=5",
+          "published_at": "2026-11-19T15:48:03+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjhsZEJscGd6STBKVmJ1MkFhTjFkUjdLRzlmTENHbFktclRNNUR5Rm00ME5NeS1NbEQxNDM4YkZmSEk4TnA3Ym5ETjcxcWV3bThnaFljNmh1YkdnR01sQXBMT2pEZDNhZGJJNnUzU3IwU3lMRWQ3cUtNbHhPcTY4OGJlZWdFOVF6VERHRDB1c3FuTzJpelptVmhQcTQtTWZzMU1UWXE4eGZGanJZVEJ3MkI1X2Z6ZDFmQU9BQWtqTmF5Zw?oc=5",
+          "published_at": "2026-11-19T20:30:18+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMmxYX29EQWlQekJzMGJvOHhDTS05eENvLU5OUlBORFNSaFZPUlZxNk9oQU52Ym02SjB3ZEU2enpYNFczT3RrSng1Q1ZxMjJieEQ4Qy11MzRPTkVNc2FjNWsyLVhCSTY2ZHZ4emxaTFRmeWlFRGNIdzBCeGZJblk1NEljckl3a0FOM0p5RlZpT0ZhUmV4RnY0bUpoeUt1aTA1ck93VGxZU25wNjVPVEtCUXFHVDZkUFpncUlrc3RfZU96dEFuQmJ3?oc=5",
+          "published_at": "2026-11-19T21:01:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-agree-to-enhance-cooperation-to-address-non-traditional-security-challenges",
+        "publisher_url": "https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-agree-to-enhance-cooperation-to-address-non-traditional-security-challenges",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0cb9e1e6f14f179d6947a2d0",
+      "remembered_at": "2026-11-19T21:22:58.249803+00:00",
+      "event_date": "2026-11-19T15:03:41+00:00",
+      "last_update": "2026-11-19T20:41:25+00:00",
+      "event": "CDF Munir, Qatari interior minister agree to counter-terrorism cooperation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agree",
+        "cdf",
+        "cooperation",
+        "counter",
+        "interior",
+        "minister",
+        "munir",
+        "qatari",
+        "samaa",
+        "terrorism"
+      ],
+      "source_excerpt": "CDF Munir, Qatari interior minister agree to counter-terrorism cooperation samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnBXMGhIMS1vMXBkMEtyRHk1dGdkWE0xWTBUQ1Bac1RGd3BWb3cybTdVOUFxUTdHVUp0VVZQbmlEbjVrak5sZ2Z0bUNUenV0NjFoY0ZTcHdVc0I2OEZMdkI0N1diUHpZeHRwd19nMUUzZmg0R2ZpTjJkRjhDM0p4YTJURzNkSDlQU0RkWDZxZGdiakpHS0YwZ1c0bE1DdG9YUlpaZVRyeGdRSnBXcjE3ZFZWUGRvZUhxSTZZ?oc=5",
+          "published_at": "2026-11-19T15:03:41+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeHZXdlplT2ZCdnZEclNWSjhxLWFJQUUwTXdlOW1xYmVJdDUxc0JYS1N1Q0luVXp0bHlFTzVZMTZKWFZ2OTFIX3Y2bGlPTFZsallnMFBfbExKMTlmS0d4d0V1UUpwSEV1a0tOMjNrcG9nR29hcHNBczFkckZfUXlTa3k4TDFXMTBfWUNFR3N3X3A4d0VTM1hraXlZTnBPaGpuU2VqMHRlU2FsV0JfREhVZi0wMzhEbWpmTl9kNjJHd21wUUpmYUFEOFBUQjdsQQ?oc=5",
+          "published_at": "2026-11-19T20:41:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnBXMGhIMS1vMXBkMEtyRHk1dGdkWE0xWTBUQ1Bac1RGd3BWb3cybTdVOUFxUTdHVUp0VVZQbmlEbjVrak5sZ2Z0bUNUenV0NjFoY0ZTcHdVc0I2OEZMdkI0N1diUHpZeHRwd19nMUUzZmg0R2ZpTjJkRjhDM0p4YTJURzNkSDlQU0RkWDZxZGdiakpHS0YwZ1c0bE1DdG9YUlpaZVRyeGdRSnBXcjE3ZFZWUGRvZUhxSTZZ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b4f5853d665d68a63dec20a8",
+      "remembered_at": "2026-11-19T21:22:58.249803+00:00",
+      "event_date": "2026-11-19T14:53:26+00:00",
+      "last_update": "2026-11-19T18:50:34+00:00",
+      "event": "Lahore named ECO Tourism Capital for 2027",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "capital",
+        "eco",
+        "for",
+        "lahore",
+        "named",
+        "tourism"
+      ],
+      "source_excerpt": "Lahore named ECO Tourism Capital for 2027",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/lahore-named-eco-tourism-capital-for-2027",
+          "published_at": "2026-11-19T14:53:26+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVllVk14b1JLV0ZmeEliU1dkYWlzdWc0MlFyVDBxbTRDeG5jd1FyVU83dW9GeHU0Q3FlaDd4NlhPRi1uMGpCSmxDTnR3eVFlbjJ3SV9wSzFUNGFBYVQ2QjBRYkx4NnQxbUhtdlpUOS1FNlYycUs1R1RqZ0JRdGkza283dnY3VnJkUEV1RW5QYlRtZTBzTzNBZXd0UVlfeUQ4aEJncWJtSG5wMDlMSVVhWkhteF9ZY2ZLUWZv?oc=5",
+          "published_at": "2026-11-19T18:50:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/lahore-named-eco-tourism-capital-for-2027",
+        "publisher_url": "https://arynews.tv/lahore-named-eco-tourism-capital-for-2027",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d1a156c77505345b1f1d5266",
+      "remembered_at": "2026-11-19T21:22:58.249803+00:00",
+      "event_date": "2026-11-19T20:59:20+00:00",
+      "last_update": "2026-11-19T20:59:20+00:00",
+      "event": "Three arrested during Anthropic IPO protest outside Nasdaq",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anthropic",
+        "arrested",
+        "breaking",
+        "debut",
+        "demonstrators",
+        "during",
+        "giant",
+        "ipo",
+        "its",
+        "made",
+        "market",
+        "nasdaq",
+        "new",
+        "outside",
+        "police",
+        "protest",
+        "record",
+        "stock",
+        "the",
+        "three",
+        "york"
+      ],
+      "source_excerpt": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
+          "published_at": "2026-11-19T20:59:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "55b8c8933eb957c432af6aa3",
+      "remembered_at": "2026-11-19T21:22:58.249803+00:00",
+      "event_date": "2026-11-19T20:58:41+00:00",
+      "last_update": "2026-11-19T20:58:41+00:00",
+      "event": "Jerusalem Daily: Israel launches ground offensive in Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "beyond",
+        "central",
+        "controls",
+        "daily",
+        "first",
+        "gaza",
+        "ground",
+        "israel",
+        "its",
+        "jerusalem",
+        "launches",
+        "line",
+        "major",
+        "offensive",
+        "pushing",
+        "the",
+        "yellow"
+      ],
+      "source_excerpt": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
+          "published_at": "2026-11-19T20:58:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "52920d6de2cb577a6690009b",
+      "remembered_at": "2026-11-19T21:22:58.249803+00:00",
+      "event_date": "2026-11-19T20:58:38+00:00",
+      "last_update": "2026-11-19T20:58:38+00:00",
+      "event": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "committed",
+        "consequences",
+        "court",
+        "face",
+        "genocide",
+        "has",
+        "have",
+        "international",
+        "justice",
+        "myanmar",
+        "perpetrators",
+        "rohingya",
+        "ruled",
+        "survivor",
+        "that",
+        "the",
+        "will"
+      ],
+      "source_excerpt": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss",
+          "published_at": "2026-11-19T20:58:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f177730cd855b261db412e5a",
+      "remembered_at": "2026-11-19T21:22:58.249803+00:00",
+      "event_date": "2026-11-19T20:54:08+00:00",
+      "last_update": "2026-11-19T20:54:08+00:00",
+      "event": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "achieved",
+        "analysts",
+        "and",
+        "any",
+        "are",
+        "behind",
+        "bukele",
+        "civilians",
+        "crowds",
+        "deployment",
+        "haiti",
+        "have",
+        "question",
+        "rallying",
+        "safer",
+        "salvador",
+        "salvadoran",
+        "they",
+        "troops",
+        "what",
+        "whether",
+        "why",
+        "with"
+      ],
+      "source_excerpt": "With crowds rallying behind El Salvador's deployment in Haiti, analysts question whether civilians are any safer.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
+          "published_at": "2026-11-19T20:54:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "39950e2417f78a11ab436388",
+      "remembered_at": "2026-11-19T21:22:58.249803+00:00",
+      "event_date": "2026-11-19T20:35:14+00:00",
+      "last_update": "2026-11-19T20:35:14+00:00",
+      "event": "How vaccine fears fuelled a major measles comeback in the US",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "comeback",
+        "fall",
+        "fears",
+        "fuelled",
+        "how",
+        "major",
+        "making",
+        "measles",
+        "rates",
+        "the",
+        "vaccination",
+        "vaccine"
+      ],
+      "source_excerpt": "Measles is making a comeback in the US as vaccination rates fall.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
+          "published_at": "2026-11-19T20:35:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b686654e776cd826569441e8",
+      "remembered_at": "2026-11-19T21:22:58.249803+00:00",
+      "event_date": "2026-11-19T20:32:46+00:00",
+      "last_update": "2026-11-19T20:32:46+00:00",
+      "event": "Trump’s case against NYT and Penguin Random House may proceed: Judge",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "against",
+        "and",
+        "articles",
+        "book",
+        "case",
+        "cited",
+        "defamatory",
+        "false",
+        "house",
+        "judge",
+        "lawsuit",
+        "malicious",
+        "may",
+        "nyt",
+        "penguin",
+        "proceed",
+        "random",
+        "reporters",
+        "said",
+        "the",
+        "trump",
+        "two",
+        "were",
+        "what"
+      ],
+      "source_excerpt": "The lawsuit cited a book about Trump by two NYT reporters and what it said were 'false, malicious, defamatory' articles.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
+          "published_at": "2026-11-19T20:32:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T20:26:05.122518+00:00"
+  "updated_at": "2026-11-19T21:22:58.249803+00:00"
 }
