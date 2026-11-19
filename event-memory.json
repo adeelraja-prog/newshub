@@ -81889,7 +81889,271 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "81144e2f1bb8429767ab9197",
+      "remembered_at": "2026-11-19T23:15:48.158862+00:00",
+      "event_date": "2026-11-19T23:04:30+00:00",
+      "last_update": "2026-11-19T23:04:30+00:00",
+      "event": "California probing whether China improperly acquired Nvidia technology",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acquired",
+        "california",
+        "ceo",
+        "china",
+        "chipmaker",
+        "departure",
+        "follows",
+        "former",
+        "global",
+        "has",
+        "headquarters",
+        "huang",
+        "improperly",
+        "its",
+        "jensen",
+        "nvidia",
+        "probe",
+        "probing",
+        "technology",
+        "the",
+        "where",
+        "whether"
+      ],
+      "source_excerpt": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T23:04:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "16e20160db3c7cb7c8481f9f",
+      "remembered_at": "2026-11-19T23:15:48.158862+00:00",
+      "event_date": "2026-11-19T22:48:22+00:00",
+      "last_update": "2026-11-19T22:48:22+00:00",
+      "event": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abuse",
+        "after",
+        "appointed",
+        "charges",
+        "child",
+        "competent",
+        "court",
+        "deemed",
+        "denied",
+        "evaluation",
+        "finds",
+        "fit",
+        "has",
+        "images",
+        "judge",
+        "markle",
+        "mentally",
+        "possessing",
+        "psychiatrist",
+        "sex",
+        "stand",
+        "thomas",
+        "trial",
+        "was",
+        "who"
+      ],
+      "source_excerpt": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T22:48:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eb262a08c1e104f77aaabddb",
+      "remembered_at": "2026-11-19T23:15:48.158862+00:00",
+      "event_date": "2026-11-19T22:54:03+00:00",
+      "last_update": "2026-11-19T22:54:03+00:00",
+      "event": "From premature baby to social media star - Famed hippo Fiona dies",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accidentally",
+        "after",
+        "baby",
+        "beloved",
+        "cincinnati",
+        "days",
+        "died",
+        "dies",
+        "enclosure",
+        "famed",
+        "fiona",
+        "from",
+        "got",
+        "hat",
+        "her",
+        "hippo",
+        "hippopotamus",
+        "into",
+        "knitted",
+        "media",
+        "premature",
+        "social",
+        "star",
+        "swallowing",
+        "that",
+        "the",
+        "zoo"
+      ],
+      "source_excerpt": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T22:54:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e684f3d001c10c29fec99f74",
+      "remembered_at": "2026-11-19T23:15:48.158862+00:00",
+      "event_date": "2026-11-19T22:58:29+00:00",
+      "last_update": "2026-11-19T22:58:29+00:00",
+      "event": "Shelton into ATP Finals last four, France's Fils eliminated",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "atp",
+        "dawn",
+        "eliminated",
+        "fils",
+        "finals",
+        "four",
+        "france",
+        "into",
+        "last",
+        "shelton"
+      ],
+      "source_excerpt": "Shelton into ATP Finals last four, France's Fils eliminated Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnFjdnUwVGtCMVRyM3VDN2tXVjRVd0lOWU1oZVVPNUVWM2hZX3BzcHNiN21JZHl4Mk93QkxsQzlxS3pJWWNmTUhvVDhSS2ZFQlhucUo0Tmd0VFdFVl9vZVNHdU43Uy02Rzd6Q2dZUlVKaHJpdk1jaVBwdXNmb0tValBXSmp1S2VqdUR6a3FIUGY2SlFFN2c?oc=5",
+          "published_at": "2026-11-19T22:58:29+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045795/shelton-into-atp-finals-last-four-frances-fils-eliminated",
+          "published_at": "2026-11-19T22:58:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnFjdnUwVGtCMVRyM3VDN2tXVjRVd0lOWU1oZVVPNUVWM2hZX3BzcHNiN21JZHl4Mk93QkxsQzlxS3pJWWNmTUhvVDhSS2ZFQlhucUo0Tmd0VFdFVl9vZVNHdU43Uy02Rzd6Q2dZUlVKaHJpdk1jaVBwdXNmb0tValBXSmp1S2VqdUR6a3FIUGY2SlFFN2c?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "895bdda98165770c49a6fc9b",
+      "remembered_at": "2026-11-19T23:15:48.158862+00:00",
+      "event_date": "2026-11-19T22:29:14+00:00",
+      "last_update": "2026-11-19T22:29:14+00:00",
+      "event": "German importers look to Pakistan amid China shift",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "china",
+        "express",
+        "german",
+        "importers",
+        "look",
+        "pakistan",
+        "shift",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "German importers look to Pakistan amid China shift The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTNWMXpxazE3N0RyLXNaLWx0Zm1hZG1VVlBRVGJYbFpMdUdjQmZyOUJCNi1WWU1vYWRRaW1NSVFzaWpuT1VoWW5ueGhDd2FaQ0JRUk13ZVpRZjJDUmJvMmxEYlltamFZV1RQYWxQWGEtU3VlOUtDM3ZHaVNiSU9jWGFpVHk3NXA2d2I5b3hsY1TSAZgBQVVfeXFMTzZFT3ZrMHp2OGVFam1udU05d3c3QWJFMjZaV2taRXVORjk2a0lYdXhjb0RMYzVKVEJvWWV0SkhadF9iMHdNMU81anQ5RXVvYUlNaEFGSkVlU2J4VjUxNUVTYjFXWnZnSWVOQTBqMXZpVXpOV0EyY1BPRGVtR2NjSF9TRGRfM2IteXMyMVRKNGxWWk9SREdaR0k?oc=5",
+          "published_at": "2026-11-19T22:29:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTNWMXpxazE3N0RyLXNaLWx0Zm1hZG1VVlBRVGJYbFpMdUdjQmZyOUJCNi1WWU1vYWRRaW1NSVFzaWpuT1VoWW5ueGhDd2FaQ0JRUk13ZVpRZjJDUmJvMmxEYlltamFZV1RQYWxQWGEtU3VlOUtDM3ZHaVNiSU9jWGFpVHk3NXA2d2I5b3hsY1TSAZgBQVVfeXFMTzZFT3ZrMHp2OGVFam1udU05d3c3QWJFMjZaV2taRXVORjk2a0lYdXhjb0RMYzVKVEJvWWV0SkhadF9iMHdNMU81anQ5RXVvYUlNaEFGSkVlU2J4VjUxNUVTYjFXWnZnSWVOQTBqMXZpVXpOV0EyY1BPRGVtR2NjSF9TRGRfM2IteXMyMVRKNGxWWk9SREdaR0k?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T22:21:32.946351+00:00"
+  "updated_at": "2026-11-19T23:15:48.158862+00:00"
 }

@@ -1,140 +1,141 @@
-# News Hub report - Fri 20 Nov, 03:21 AM PKT
+# News Hub report - Fri 20 Nov, 04:15 AM PKT
 
 ## Collection
-- New items this run: 39 | items in rolling pool: 526
-- Unique story clusters: 427 (duplicates merged: 99)
-- Clusters dropped as already published/queued: 16; unchanged since last analysis: 3
-- Items per outlet: Pakistan Today 6, The Express Tribune 5, Al Jazeera 3, TechCrunch 3, Geo News 2, Minute Mirror 1, The Verge 1, Ars Technica 1, Wired 1, BBC Technology 1, BBC World 1, TRT World 1
+- New items this run: 27 | items in rolling pool: 450
+- Unique story clusters: 355 (duplicates merged: 95)
+- Clusters dropped as already published/queued: 19; unchanged since last analysis: 2
+- Items per outlet: The Express Tribune 4, BBC World 3, Dawn 1, Dawn Latest 1, Geo News 1, The Guardian 1, The Verge 1, TechCrunch 1, Engadget 1, Wired 1, GSMArena 1, The Washington Post 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Pakistan, 14 other countries welcome UK, Australia sanctions on Israeli 'settlement activities' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jailed PTI leaders write to top judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- President urges implementation of Pakistan-Maldives MoUs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore named ECO Tourism Capital for 2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China’s Xi urges US and Russia to join forces to safeguard world peace | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US signed off on sales of nearly 900,000 AI chips to China in six months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Haiti police say at least 34 suspected gang members killed in raid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Anthropic becomes one of world's most valuable public companies in stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fiona the hippo dies after swallowing a hat at Cincinnati Zoo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- William and Catherine's India tour was 'particularly special', aide says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan, 14 other countries welcome UK, Australia sanctions on Israeli 'settlement activities' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jailed PTI leaders write to top judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- President urges implementation of Pakistan-Maldives MoUs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore named ECO Tourism Capital for 2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China’s Xi urges US and Russia to join forces to safeguard world peace | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US signed off on sales of nearly 900,000 AI chips to China in six months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Haiti police say at least 34 suspected gang members killed in raid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Anthropic becomes one of world's most valuable public companies in stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fiona the hippo dies after swallowing a hat at Cincinnati Zoo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- William and Catherine's India tour was 'particularly special', aide says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan, 14 other countries welcome UK, Australia sanctions on Israeli 'settlement activities' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jailed PTI leaders write to top judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- President urges implementation of Pakistan-Maldives MoUs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore named ECO Tourism Capital for 2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China’s Xi urges US and Russia to join forces to safeguard world peace | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US signed off on sales of nearly 900,000 AI chips to China in six months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Haiti police say at least 34 suspected gang members killed in raid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Anthropic becomes one of world's most valuable public companies in stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fiona the hippo dies after swallowing a hat at Cincinnati Zoo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- William and Catherine's India tour was 'particularly special', aide says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: The Guardian | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Pakistan and 14 nations welcome UK and Australian sanctions on Israeli settlements  [NORMAL]
-- Poster: برطانیہ اور آسٹریلیا کی اسرائیلی بستیوں پر پابندیوں کا خیرمقدم / Pakistan Welcomes UK, Australia Sanctions on Israeli Settlements | category world
-- Alternative headline: Pakistan joins other countries in backing UK, Australia actions against Israeli settlements
+### US Approved Sales of Nearly 900,000 AI Chips to China  [NORMAL]
+- Poster: امریکہ نے چین کو نو لاکھ کے قریب اے آئی چپس فروخت کرنے کی اجازت دے دی / US approves sales of nearly 900,000 AI chips to China | category tech_ai
+- Alternative headline: US House Committee Releases Data on AI Chip Exports to China
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnZRdjVmZnloOVZ6WnMteHhPYlpGR0tpdko1VDBEd2h1NmJDVktaYko4QXp5aldXck84S0p3NGdwUzB5T295WURERUpsWGk5VTlGaUVXMVVKcTVMbFlNZnNvN3RxSHlHTmxRaHZrVXVadHVJQURjRWRibGJKV180MWtJZGxCeWY5UFhFNUtzR1ZMaGNRT09tbkxPRk5QWE0xWWVPdjRmTUlRYXl3WEVNdnc3UWJxelp2UmNWVWV6amI5WjJDXzJz?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnZRdjVmZnloOVZ6WnMteHhPYlpGR0tpdko1VDBEd2h1NmJDVktaYko4QXp5aldXck84S0p3NGdwUzB5T295WURERUpsWGk5VTlGaUVXMVVKcTVMbFlNZnNvN3RxSHlHTmxRaHZrVXVadHVJQURjRWRibGJKV180MWtJZGxCeWY5UFhFNUtzR1ZMaGNRT09tbkxPRk5QWE0xWWVPdjRmTUlRYXl3WEVNdnc3UWJxelp2UmNWVWV6amI5WjJDXzJz?oc=5
-- Supporting coverage: The Express Tribune, Pakistan Today
-- Keywords: Israel settlements sanctions, Pakistan UK Australia, settlement activities, international sanctions, foreign policy | hashtags: #Pakistan #Sanctions #Israel #UK #Australia
-- Scheduled: Fri 20 Nov, 03:21 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: AI chips, US China tech, AI exports, House committee, semiconductors, technology | hashtags: #AIChips #USChina #Technology #ExportData #News
+- Scheduled: Fri 20 Nov, 04:15 AM PKT
 - Caption:
 ```
-Pakistan along with 14 other countries has formally welcomed the recent sanctions imposed by the UK and Australia targeting Israeli settlement activities.
+The US has reportedly approved the sale of almost 900,000 AI chips to China over a six-month period.
 
-Pakistan and 14 other countries have welcomed the decisions made by the UK and Australia to impose sanctions targeting Israeli settlement activities. The diplomatic response underscores international concerns regarding ongoing settlement expansions.
+A US House committee has released data showing that the United States signed off on the sale of nearly 900,000 artificial intelligence chips to China within six months. This disclosure comes amid ongoing scrutiny regarding the tech sector and export regulations.
 
-پاکستان اور دیگر 14 ممالک نے برطانیہ اور آسٹریلیا کی جانب سے اسرائیلی بستیوں کی سرگرمیوں پر پابندیوں کے فیصلے کا خیرمقدم کیا ہے۔
+امریکہ کی ایک ہاؤس کمیٹی نے اعداد و شمار جاری کیے ہیں جن کے مطابق امریکہ نے چھ ماہ کے اندر چین کو نو لاکھ کے قریب مصنوعی ذہانت کی چپس فروخت کرنے کی منظوری دی۔ یہ انکشاف ٹیک سیکٹر اور برآمدی ضوابط پر جاری جانچ پڑتال کے دوران سامنے آیا ہے۔
 
-First reported by The Express Tribune.
+First reported by Al Jazeera
 
-#Pakistan #Sanctions #Israel #UK #Australia
+#AIChips #USChina #Technology #ExportData #News
 ```
 
-### Jailed PTI leaders write to top judges over prison conditions  [NORMAL]
-- Poster: قید پی ٹی آئی رہنماؤں کا اعلیٰ ججوں کو خط / Jailed PTI Leaders Write to Top Judges | category politics
-- Alternative headline: Five jailed PTI leaders approach top judiciary regarding leaders' health and safety
+### Haiti Police Kill at Least 34 Suspected Gang Members in Raid  [NORMAL]
+- Poster: ہیٹی میں پولیس کے چھاپے کے دوران کم از کم 34 مشتبہ گینگ ارکان ہلاک / At least 34 suspected gang members killed in Haiti police raid | category crime
+- Alternative headline: Haiti Police Target Key Gang Route in Martissant Area Raid
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUtUdVNobHFmcm5HVlZ0QVBJWk9iVGVpZGpURU9Ca1FkMmVMSDVSSmZnM1RPZUNxaWp3Vl83dU9wa0twU2NTTnZJdkZENzJzczFFNktBaTdrYUtoeC00SFJJaHZPV3QzM1JMVVRKa09nU1EzN0VWanRSTEVmeElZMdIBiAFBVV95cUxOeldIaWtpWEdIR21xR2wzY3pLY2NkczRmZGt0ckxmb29aaWxvd0RrcERKd1dlbmJINmhLTDJQMTV5cE50SFpWVnFjZURIOU5TbDZ3R2R3anpMNjZXMUtsaHdGS28xOEIzMXgwc2VyQVB4cGxGUENMN21UTzgwV3FEMTBtRXJuM3By?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUtUdVNobHFmcm5HVlZ0QVBJWk9iVGVpZGpURU9Ca1FkMmVMSDVSSmZnM1RPZUNxaWp3Vl83dU9wa0twU2NTTnZJdkZENzJzczFFNktBaTdrYUtoeC00SFJJaHZPV3QzM1JMVVRKa09nU1EzN0VWanRSTEVmeElZMdIBiAFBVV95cUxOeldIaWtpWEdIR21xR2wzY3pLY2NkczRmZGt0ckxmb29aaWxvd0RrcERKd1dlbmJINmhLTDJQMTV5cE50SFpWVnFjZURIOU5TbDZ3R2R3anpMNjZXMUtsaHdGS28xOEIzMXgwc2VyQVB4cGxGUENMN21UTzgwV3FEMTBtRXJuM3By?oc=5
-- Supporting coverage: The Express Tribune, Pakistan Today
-- Keywords: PTI jailed leaders, top judges, prison conditions, Imran Khan, legal plea | hashtags: #PTI #ImranKhan #PakistanCourts #Politics
-- Scheduled: Fri 20 Nov, 03:31 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Haiti police, gang members, Martissant, Port-au-Prince, security raid, crime | hashtags: #Haiti #GangViolence #PoliceRaid #Security #WorldNews
+- Scheduled: Fri 20 Nov, 04:25 AM PKT
 - Caption:
 ```
-Jailed PTI leaders have approached the country's top judges to raise serious concerns regarding prison conditions and health issues.
+Haitian police report that at least 34 suspected gang members have been killed during a security operation.
 
-Several jailed PTI leaders have written to top judges concerning prison conditions and the health and safety of party figures, drawing attention to legal and humanitarian issues within the detention system.
+Police in Haiti announced that at least 34 suspected gang members were killed in a raid. The operation targeted the Martissant area, which is situated on a critical route out of Port-au-Prince that has been controlled by gangs since 2021.
 
-قید تحریک انصاف کے رہنماؤں نے جیل کے حالات اور صحت کے مسائل پر اعلیٰ ترین ججوں کو خط لکھا ہے۔
+ہیٹی کی پولیس نے اعلان کیا ہے کہ ایک چھاپے کے دوران کم از کم 34 مشتبہ گینگ ارکان مارے گئے۔ اس کارروائی کا ہدف مارٹیسنٹ کا علاقہ تھا، جو پورٹ او پرنس سے باہر نکلنے کا ایک اہم راستہ ہے اور 2021 سے گینگز کے کنٹرول میں ہے۔
 
-First reported by The Express Tribune.
+First reported by Al Jazeera
 
-#PTI #ImranKhan #PakistanCourts #Politics
+#Haiti #GangViolence #PoliceRaid #Security #WorldNews
 ```
 
-### President urges swift implementation of Pakistan-Maldives agreements  [NORMAL]
-- Poster: صدر مملکت کا پاکستان اور مالدیپ کے درمیان معاہدوں پر عمل درآمد پر زور / President Urges Implementation of Pakistan-Maldives MoUs | category world
-- Alternative headline: President calls for turning Pakistan-Maldives MoUs into concrete results
+### Anthropic Hits $1.76 Trillion Valuation in Blockbuster Market Debut  [NORMAL]
+- Poster: اے آئی کمپنی اینتھروپک نے اسٹاک مارکیٹ میں شاندار ڈیبیو کے ساتھ کھربوں کی ویلیو حاصل کر لی / Anthropic reaches massive valuation in stock market debut | category tech_ai
+- Alternative headline: Claude Maker Anthropic Debuts as One of World's Most Valuable Public Firms
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/president-urges-implementation-of-pakistan-maldives-mous | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/president-urges-implementation-of-pakistan-maldives-mous
-- Supporting coverage: ARY News, ARYnews.tv
-- Keywords: Pakistan Maldives MoUs, President, bilateral relations, trade defence, Ovais Ahmed Bilgrami | hashtags: #Pakistan #Maldives #Diplomacy #ForeignPolicy
-- Scheduled: Fri 20 Nov, 03:41 AM PKT
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology
+- Keywords: Anthropic IPO, AI company, Nasdaq, valuation, Claude chatbot, stock market | hashtags: #Anthropic #IPO #ArtificialIntelligence #Nasdaq #TechNews
+- Scheduled: Fri 20 Nov, 04:35 AM PKT
 - Caption:
 ```
-President Asif Ali Zardari has called for effective follow-up on agreements signed during the Maldivian president's recent visit.
+AI company Anthropic has become one of the world's most valuable public companies following its stock market debut.
 
-President called for effective follow-up on agreements made during Maldivian President Dr Mohammad Muizzu’s recent visit, emphasizing the need to turn 20 MoUs into concrete results in defence, trade, education, and health during a meeting with High Commissioner-designate Ovais Ahmed Bilgrami.
+Anthropic has become one of the world's most valuable public companies after its shares began trading on the Nasdaq stock exchange, pushing its valuation to roughly $1.76 trillion. The debut served as a crucial test for the artificial intelligence industry as shares fluctuated during their first day of trading.
 
-صدر مملکت نے مالدیپ کے صدر کے دورے کے دوران طے پانے والے معاہدوں پر مؤثر عمل درآمد اور دفاع، تجارت اور تعلیم کے شعبوں میں تعاون بڑھانے پر زور دیا ہے۔
+مصنوعی ذہانت کی کمپنی اینتھروپک نیسڈاک اسٹاک ایکسچینج میں حصص کی تجارت شروع ہونے کے بعد دنیا کی سب سے قیمتی عوامی کمپنیوں میں سے ایک بن گئی ہے، جس کی مالیت تقریباً 1.76 ٹریلین ڈالر تک پہنچ گئی ہے۔ اس ڈیبیو کو مصنوعی ذہانت کی صنعت کے لیے ایک اہم امتحان قرار دیا گیا۔
 
-First reported by ARY News.
+First reported by BBC Technology
 
-#Pakistan #Maldives #Diplomacy #ForeignPolicy
+#Anthropic #IPO #ArtificialIntelligence #Nasdaq #TechNews
 ```
 
-### Lahore officially named ECO Tourism Capital for 2027  [NORMAL]
-- Poster: لاہور کو 2027 کے لیے ایکو سیاحتی دارالحکومت قرار دے دیا گیا / Lahore Named ECO Tourism Capital for 2027 | category other
-- Alternative headline: Lahore wins ECO Tourism Capital title for 2027 with cultural events planned
+### Fiona the Famous Hippo Dies After Swallowing a Hat at Cincinnati Zoo  [NORMAL]
+- Poster: سین Cincinnati چڑیا گھر میں ٹوپی نگلنے سے مشہور ہپو فیونا ہلاک / Famous hippo Fiona dies after swallowing hat at zoo | category lifestyle
+- Alternative headline: Cincinnati Zoo Mourns Loss of Beloved Hippo Fiona
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/lahore-named-eco-tourism-capital-for-2027 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/lahore-named-eco-tourism-capital-for-2027
-- Supporting coverage: ARY News, Pakistan Today
-- Keywords: Lahore ECO Tourism Capital, Maryam Nawaz, tourism 2027, Azerbaijan, cultural events | hashtags: #Lahore #ECO #Tourism #Punjab #Pakistan
-- Scheduled: Fri 20 Nov, 03:51 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Fiona the hippo, Cincinnati Zoo, animal news, hippo death, viral animal, Ohio | hashtags: #FionaTheHippo #CincinnatiZoo #AnimalNews #Wildlife #SadNews
+- Scheduled: Fri 20 Nov, 04:45 AM PKT
 - Caption:
 ```
-Lahore has been officially designated as the ECO Tourism Capital for 2027, paving the way for year-long international cultural events.
+The Cincinnati Zoo announces the death of Fiona the hippo following a medical emergency caused by a swallowed hat.
 
-Punjab Chief Minister Maryam Nawaz Sharif's tourism vision gained international recognition as Lahore was officially named the ECO Tourism Capital for 2027. The title was received in Azerbaijan, with plans for a series of expos, festivals, and cultural events throughout 2027.
+Fiona the hippopotamus has died at the Cincinnati Zoo in Ohio just days after swallowing a knitted hat that accidentally fell into her enclosure. The zoo's veterinary team provided emergency care, but the medical emergency proved too severe to overcome for the social media star.
 
-لاہور کو باضابطہ طور پر 2027 کے لیے ایکو ٹ্যورزم کیپیتال نامزد کر دیا گیا ہے، جہاں سال بھر ثقافتی اور سیاحتی تقریبات منعقد کی جائیں گی۔
+اوہائیو کے سن Cincinnati چڑیا گھر میں ہپو فیونا ایک بنے ہوئے ٹوپی کو نگلنے کے چند دن بعد انتقال کر گئی ہے جو غلطی سے اس کے باڑے میں گر گئی تھی۔ چڑیا گھر کی ٹیم نے ہنگامی طبی امداد فراہم کی لیکن سوشل میڈیا کی مقبول ہپو جانبر نہ ہو سکی۔
 
-First reported by ARY News.
+First reported by BBC World
 
-#Lahore #ECO #Tourism #Punjab #Pakistan
+#FionaTheHippo #CincinnatiZoo #AnimalNews #Wildlife #SadNews
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 12
 
 ## Queue status
 - [needs_review] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
@@ -156,7 +157,6 @@ First reported by ARY News.
 - [needs_review] normal | Manchester United’s Endless Loop | Tue 17 Nov, 03:40 AM PKT
 - [needs_review] normal | Photos: California residents gather to watch massive El Nino-fuelled w | Tue 17 Nov, 03:50 AM PKT
 - [needs_review] normal | California files lawsuit against OpenAI alleging lack of proper safegu | Tue 17 Nov, 04:10 AM PKT
-- [published] normal | Cass report author says she does not support draft conversion practice | Tue 17 Nov, 04:20 AM PKT
 - [needs_review] normal | Houthi rebel advance in Yemen may further destabilise global economy | Tue 17 Nov, 04:30 AM PKT
 - [needs_review] normal | US Pentagon rejects allegations linking deputy to a Goldman Sachs bank | Tue 17 Nov, 04:40 AM PKT
 - [needs_review] normal | California sues OpenAI over Hugging Face attack | Tue 17 Nov, 04:54 AM PKT
@@ -360,7 +360,7 @@ First reported by ARY News.
 - [published] normal | President Zardari and PM Shehbaz agree to resolve all matters through  | Fri 20 Nov, 01:26 AM PKT
 - [published] normal | ICJ finds Myanmar guilty of genocide against the Rohingya minority | Fri 20 Nov, 01:36 AM PKT
 - [published] normal | US military spending on the Iran war crosses $48 billion | Fri 20 Nov, 01:46 AM PKT
-- [queued] normal | European leaders say Europe is ready for talks with Russia on ending t | Fri 20 Nov, 01:56 AM PKT
+- [published] normal | European leaders say Europe is ready for talks with Russia on ending t | Fri 20 Nov, 01:56 AM PKT
 - [queued] normal | US Senate Rejects Resolution to Limit Trump's War Powers on Iran | Fri 20 Nov, 02:22 AM PKT
 - [queued] normal | Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperatio | Fri 20 Nov, 02:32 AM PKT
 - [queued] normal | Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Miss | Fri 20 Nov, 02:42 AM PKT
@@ -369,12 +369,19 @@ First reported by ARY News.
 - [queued] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
 - [queued] normal | President urges swift implementation of Pakistan-Maldives agreements | Fri 20 Nov, 03:41 AM PKT
 - [queued] normal | Lahore officially named ECO Tourism Capital for 2027 | Fri 20 Nov, 03:51 AM PKT
+- [queued] normal | US Approved Sales of Nearly 900,000 AI Chips to China | Fri 20 Nov, 04:15 AM PKT
+- [queued] normal | Haiti Police Kill at Least 34 Suspected Gang Members in Raid | Fri 20 Nov, 04:25 AM PKT
+- [queued] normal | Anthropic Hits $1.76 Trillion Valuation in Blockbuster Market Debut | Fri 20 Nov, 04:35 AM PKT
+- [queued] normal | Fiona the Famous Hippo Dies After Swallowing a Hat at Cincinnati Zoo | Fri 20 Nov, 04:45 AM PKT
 
 ## Publishing this run
-- Published 'US military spending on the Iran war crosses $48 billion'.
+- Published 'European leaders say Europe is ready for talks with Russia on ending the Ukraine war'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5456 | output tokens: 2059
+- Calls: 3 | prompt tokens: 4357 | output tokens: 2697
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
