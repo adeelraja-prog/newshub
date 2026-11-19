@@ -1,141 +1,140 @@
-# News Hub report - Thu 19 Nov, 04:43 PM PKT
+# News Hub report - Thu 19 Nov, 05:48 PM PKT
 
 ## Collection
-- New items this run: 99 | items in rolling pool: 694
-- Unique story clusters: 562 (duplicates merged: 132)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 18, Geo News 16, ProPakistani 10, TechJuice 6, samaa tv 4, The News International 4, ARY News 4, Al Jazeera 4, The Current 3, Dawn 2, Dawn Pakistan 2, X 2
+- New items this run: 173 | items in rolling pool: 819
+- Unique story clusters: 658 (duplicates merged: 161)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 94, Geo News 16, ProPakistani 10, samaa tv 6, Al Jazeera 5, TechJuice 5, Dawn Latest 4, ARY News 4, The Express Tribune 3, Wired 3, The Current 3, The Verge 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- 22 terrorists killed in security operations across KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Large amount of suspected donkey meat seized in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab launches online route permit system for transport operators | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Indian driver wins $1.3m in life-changing lottery prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Parts of Bangladesh shut down in protests by Hasina's party, ex-leader Yunus's home set ablaze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Qatar sign security cooperation agreement, action plan to curb drug trafficking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Hailey Bieber gets real about internet's 'intense' attention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls for nuclear arms reduction at APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Will laser weapons change warfare? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 22 terrorists killed in security operations across KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Large amount of suspected donkey meat seized in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab launches online route permit system for transport operators | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Indian driver wins $1.3m in life-changing lottery prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Parts of Bangladesh shut down in protests by Hasina's party, ex-leader Yunus's home set ablaze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Qatar sign security cooperation agreement, action plan to curb drug trafficking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Hailey Bieber gets real about internet's 'intense' attention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls for nuclear arms reduction at APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Will laser weapons change warfare? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 22 terrorists killed in security operations across KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Large amount of suspected donkey meat seized in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab launches online route permit system for transport operators | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Indian driver wins $1.3m in life-changing lottery prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Parts of Bangladesh shut down in protests by Hasina's party, ex-leader Yunus's home set ablaze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Qatar sign security cooperation agreement, action plan to curb drug trafficking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Hailey Bieber gets real about internet's 'intense' attention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls for nuclear arms reduction at APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Will laser weapons change warfare? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Security Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### 22 terrorists killed in security operations across KP  [NORMAL]
-- Poster: کے پی میں سکیورٹی آپریشنز کے دوران 22 دہشت گرد ہلاک / 22 terrorists killed in KP security operations | category security
-- Alternative headline: ISPR reports 22 terrorists killed in multiple KP operations
+### Bangladesh shut down by Hasina's party after ex-leader Yunus's home set ablaze  [NORMAL]
+- Poster: بنگلہ دیش میں حسینہ واجد کی جماعت کی ہڑتال، محمد یونس کا گھر نذر آتش / Bangladesh shutdowns, protests follow attack on Yunus's home | category politics
+- Alternative headline: Protests paralyze parts of Bangladesh following attack on Muhammad Yunus's ancestral home
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXlWaWJkbW9VSzIycnVlVWdJNngtYm9INmZQNlcwY0xhNW1Kb1BMVDU1ck1QSlhvVWpzZU9paFJpaUhnVjl4LUx1M0xldWQ5c2pfUTVPWWw2ckhGaE53M0tCOVJvRzd4T2d1clpIYjJGa0RGYm5EMVVPMnF6YXB5aVljS1p4U0FXSXRDTml3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXlWaWJkbW9VSzIycnVlVWdJNngtYm9INmZQNlcwY0xhNW1Kb1BMVDU1ck1QSlhvVWpzZU9paFJpaUhnVjl4LUx1M0xldWQ5c2pfUTVPWWw2ckhGaE53M0tCOVJvRzd4T2d1clpIYjJGa0RGYm5EMVVPMnF6YXB5aVljS1p4U0FXSXRDTml3?oc=5
-- Supporting coverage: samaa tv, The Express Tribune
-- Keywords: terrorism, security operations, Khyber Pakhtunkhwa, ISPR, militants | hashtags: #KP #SecurityForces #Pakistan #CounterTerrorism
-- Scheduled: Thu 19 Nov, 04:43 PM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045664/parts-of-bangladesh-shut-down-in-protests-by-hasinas-party-ex-leader-yunuss-home-set-ablaze | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2045664/parts-of-bangladesh-shut-down-in-protests-by-hasinas-party-ex-leader-yunuss-home-set-ablaze
+- Supporting coverage: Dawn Latest, Al Jazeera
+- Keywords: Bangladesh protests, Sheikh Hasina, Muhammad Yunus, Awami League, Chattogram, lockdown | hashtags: #Bangladesh #SheikhHasina #MuhammadYunus #Protests #SouthAsia
+- Scheduled: Thu 19 Nov, 05:48 PM PKT
 - Caption:
 ```
-Security forces have successfully neutralized 22 terrorists during intelligence-based operations across Khyber Pakhtunkhwa.
+Parts of Bangladesh face a nationwide shutdown as protests erupt and former leader Muhammad Yunus's ancestral home is set on fire.
 
-At least 22 terrorists were killed during security operations conducted across Khyber Pakhtunkhwa. The operations reflect ongoing counter-terrorism efforts by security forces to eradicate militant threats in the region and maintain law and order.
+Parts of Bangladesh faced a nationwide shutdown called by Sheikh Hasina's Awami League party amid violent protests. The unrest followed the government's rejection of Hasina's passport request. Meanwhile, police reported that the ancestral home of former interim leader Muhammad Yunus in Chattogram was set on fire, though his family members were safe.
 
-خیبر پختونخوا میں سکیورٹی فورسز کے مختلف آپریشنز کے دوران کم از کم 22 دہشت گرد ہلاک کر دیے گئے۔ یہ کارروائیاں خطے میں عسکریت پسندوں کے خاتمے اور امن و امان کے قیام کے لیے جاری کوششوں کا حصہ ہیں۔
+بنگلہ دیش کے مختلف حصوں میں شیخ حسینہ کی جماعت عوامی لیگ کی کال پر ملک گیر ہڑتال اور پرتشدد مظاہرے ہوئے۔ یہ کشیدگی حکومت کی جانب سے حسینہ واجد کا پاسپورٹ مسترد کرنے کے بعد پھیلی۔ اس دوران پولیس نے بتایا کہ سابق عبوری رہنما محمد یونس کے آبائی گھر کو نذر آتش کر دیا گیا، تاہم ان کے اہل خانہ محفوظ ہیں۔
 
-According to Samaa TV
+First reported by Dawn Latest.
 
-#KP #SecurityForces #Pakistan #CounterTerrorism
+#Bangladesh #SheikhHasina #MuhammadYunus #Protests #SouthAsia
 ```
 
-### Large amount of suspected donkey meat seized in Islamabad  [NORMAL]
-- Poster: اسلام آباد میں چھاپے کے دوران مبینہ گدھے کا گوشت برآمد / Suspected donkey meat seized in Islamabad raid | category crime
-- Alternative headline: Islamabad raid leads to seizure of suspected donkey meat
+### Pakistan and Qatar sign new security pact to combat drug trafficking  [NORMAL]
+- Poster: پاکستان اور قطر کے درمیان سکیورٹی تعاون اور منشیات کی روک تھام کا معاہدہ / Pakistan, Qatar sign security pact against drug trafficking | category security
+- Alternative headline: Pakistan, Qatar ink security cooperation agreement and action plan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmdCTnhQRjFLNVdOLWRpUUNiOXlwaThzMS1ZYU1KTURfNkVZWFFtajFtYllrYUVCYkl0bFpleHBTQm1yN25OMUtNc05sT0FxektHVi1FV2xpemUyd3d3OU9XNUE3MTRHbnU4UGZCaHg5U0Z5bGZZcnFVR2o0MnRKSnRHd1RsX05qa3Q5dlVRdldPQU11bUE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmdCTnhQRjFLNVdOLWRpUUNiOXlwaThzMS1ZYU1KTURfNkVZWFFtajFtYllrYUVCYkl0bFpleHBTQm1yN25OMUtNc05sT0FxektHVi1FV2xpemUyd3d3OU9XNUE3MTRHbnU4UGZCaHg5U0Z5bGZZcnFVR2o0MnRKSnRHd1RsX05qa3Q5dlVRdldPQU11bUE?oc=5
-- Supporting coverage: Dawn, Geo News, Geo News
-- Keywords: donkey meat, Islamabad, food safety, police raid, meat seizure | hashtags: #Islamabad #FoodSafety #Crime #Pakistan
-- Scheduled: Thu 19 Nov, 04:53 PM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnA0alNpOWhabkVBLVkwaDFUWi1naXdSRzZSdzk3X29WZ2o4VC1LMGdHdUJuNUJKY3hRTUJ2OU41UHhIR1V3SFc4U2RKeXdvZ3lZM3R4QXRpdGFvczBHWmJiWlRsdmR2Y1V3SWxTaFh3YUFya1lQc3Q5emxTelJaZkNrZjlHZzF3UW5jTWVPMTZCS1Q4Q3NlVVpNd1V5MjVhV2F6Qy1WVnpoejl4WWp4SC1fcFFNZE0yb1lzeno5MGFkZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnA0alNpOWhabkVBLVkwaDFUWi1naXdSRzZSdzk3X29WZ2o4VC1LMGdHdUJuNUJKY3hRTUJ2OU41UHhIR1V3SFc4U2RKeXdvZ3lZM3R4QXRpdGFvczBHWmJiWlRsdmR2Y1V3SWxTaFh3YUFya1lQc3Q5emxTelJaZkNrZjlHZzF3UW5jTWVPMTZCS1Q4Q3NlVVpNd1V5MjVhV2F6Qy1WVnpoejl4WWp4SC1fcFFNZE0yb1lzeno5MGFkZw?oc=5
+- Supporting coverage: The Express Tribune, Dawn, Dawn Pakistan
+- Keywords: Pakistan Qatar security, drug trafficking, security agreement, MoU, bilateral ties | hashtags: #Pakistan #Qatar #Security #LawEnforcement #BilateralRelations
+- Scheduled: Thu 19 Nov, 05:58 PM PKT
 - Caption:
 ```
-Authorities have seized a large quantity of suspected donkey meat during a raid in Islamabad.
+Pakistan and Qatar have officially signed a security cooperation agreement and an action plan aimed at curbing drug trafficking.
 
-A large amount of suspected donkey meat was seized during a raid in Islamabad. Authorities are investigating the source and intended distribution of the meat to ensure public health and safety standards are enforced.
+Pakistan and Qatar have entered into a formal security cooperation agreement, alongside an action plan specifically designed to curb drug trafficking. The agreement marks a strengthening of bilateral ties between the two nations in matters of security and law enforcement.
 
-اسلام آباد میں ایک چھاپے کے دوران مبینہ طور پر گدھے کے گوشت کی بڑی مقدار برآمد کر لی گئی۔ حکام اس بات کی تحقیقات کر رہے ہیں کہ یہ گوشت کہاں سے لایا جا رہا تھا اور کہاں سپلائی کیا جانا تھا۔
+پاکستان اور قطر نے منشیات کی اسمگلنگ کی روک تھام کے لیے ایک باضابطہ سکیورٹی تعاون کے معاہدے اور ایک لائحہ عمل پر دستخط کیے ہیں۔ اس معاہدے سے دونوں ممالک کے درمیان سکیورٹی اور قانون نافذ کرنے کے امور میں دو طرفہ تعلقات مزید مستحکم ہوں گے۔
 
-First reported by Dawn; also reported by Geo News
+First reported by The Express Tribune.
 
-#Islamabad #FoodSafety #Crime #Pakistan
+#Pakistan #Qatar #Security #LawEnforcement #BilateralRelations
 ```
 
-### Punjab launches online route permit system for transport operators  [NORMAL]
-- Poster: پنجاب حکومت کا ٹرانسپورٹرز کے لیے آن لائن روٹ پرمٹ سسٹم کا اجراء / Punjab launches online route permit system for transporters | category tech
-- Alternative headline: How to apply for vehicle route permits online in Punjab
+### Hailey Bieber opens up about the intense reality of internet scrutiny  [NORMAL]
+- Poster: ہیلی بیبر کا انٹرنیٹ کی شدید توجہ اور تنقید پر کھل کر اظہار خیال / Hailey Bieber speaks on intense internet scrutiny | category lifestyle
+- Alternative headline: Internet fame comes with a heavy price, admits Hailey Bieber
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/punjab-launches-online-route-permit-system-for-transport-operators | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/punjab-launches-online-route-permit-system-for-transport-operators
-- Supporting coverage: ARY News, ProPakistani
-- Keywords: route permit, Punjab government, online portal, transport operators, Maryam Nawaz | hashtags: #Punjab #OnlineSystem #Transport #MaryamNawaz
-- Scheduled: Thu 19 Nov, 05:03 PM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/691758-hailey-bieber-gets-real-about-internets-intense-attention | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691758-hailey-bieber-gets-real-about-internets-intense-attention
+- Supporting coverage: Geo News
+- Keywords: Hailey Bieber, social media, internet fame, scrutiny, DealBook summit | hashtags: #HaileyBieber #SocialMedia #Fame #CelebrityNews #MentalHealth
+- Scheduled: Thu 19 Nov, 06:08 PM PKT
 - Caption:
 ```
-The Punjab government has introduced a digital online route permit system to simplify applications for transport operators.
+Model and beauty founder Hailey Bieber gets candid about the darker side of social media fame and constant public scrutiny.
 
-The Punjab government has launched an Online Route Permit System under Chief Minister Maryam Nawaz Sharif’s Transport Vision 2030. The digital initiative allows transport operators to apply for route permits conveniently from home in three simple steps without visiting government offices.
+Appearing at The New York Times' DealBook summit, Hailey Bieber opened up about the intense scrutiny and constant attention that comes with internet fame. The Rhode founder admitted that while resilience builds over time, the relentless public commentary still takes an emotional toll.
 
-پنجاب حکومت نے وزیر اعلیٰ مریم نواز شریف کے ٹرانسپورٹ ویژن 2030 کے تحت آن لائن روٹ پرمٹ سسٹم کا آغاز کر دیا ہے۔ اس ڈیجیٹل اقدام سے ٹرانسپورٹرز گھر بیٹھے تین آسان مراحل میں روٹ پرمٹ کے لیے درخواست دے سکتے ہیں۔
+نیویارک ٹائمز کے ڈیل بک سربراہی اجلاس میں شرکت کے دوران ہیلی بیبر نے انٹرنیٹ کی شہرت اور اس کے ساتھ آنے والی شدید تنقید پر کھل کر بات کی۔ بیوٹی برانڈ کی بانی نے اعتراف کیا کہ اگرچہ وقت کے ساتھ انسان میں قوت برداشت پیدا ہو جاتی ہے، لیکن مسلسل عوامی نظروں میں رہنا اب بھی تکلیف دہ ہوتا ہے۔
 
-First reported by ARY News; also reported by ProPakistani
+First reported by Geo News.
 
-#Punjab #OnlineSystem #Transport #MaryamNawaz
+#HaileyBieber #SocialMedia #Fame #CelebrityNews #MentalHealth
 ```
 
-### Indian truck driver wins $1.3m lottery, plans to keep working  [NORMAL]
-- Poster: بھارتی ٹرک ڈرائیور نے 13 لاکھ ڈالر کی لاٹری جیت لی / Indian truck driver wins $1.3m lottery prize | category other
-- Alternative headline: Indian driver wins $1.3m in life-changing lottery prize
+### Donald Trump calls for nuclear arms reduction at APEC summit  [NORMAL]
+- Poster: ڈونلڈ ٹرمپ کا اے پیک سربراہی اجلاس میں جوہری ہتھیاروں میں کمی کا مطالبہ / Trump calls for nuclear arms reduction at APEC | category world
+- Alternative headline: Trump advocates for reducing nuclear arsenals during APEC meeting
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business, BBC
-- Keywords: lottery win, truck driver, Punjab, Baljinder Singh, prize money | hashtags: #Lottery #India #Inspiring #News
-- Scheduled: Thu 19 Nov, 05:13 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Trump APEC summit, nuclear arms reduction, Donald Trump, APEC, nuclear briefcase | hashtags: #DonaldTrump #APEC #NuclearArms #Geopolitics #WorldNews
+- Scheduled: Thu 19 Nov, 06:18 PM PKT
 - Caption:
 ```
-An Indian truck driver from Punjab has won a massive $1.3 million lottery prize, but vows to continue his job.
+Donald Trump calls for nuclear arms reduction during his address at the APEC summit.
 
-Baljinder Singh, a truck driver from India's Punjab state, won a 120 million rupee ($1.3m) lottery using a ticket that cost just 500 rupees. Despite the massive win, Singh stated he plans to continue working as a truck driver while celebrations take place at his home.
+During the APEC summit, Donald Trump called for a reduction in nuclear arms. The call comes amidst high-profile discussions and international attention at the gathering, which also drew notice for security details such as the nuclear briefcase.
 
-بھارتی ریاست پنجاب سے تعلق رکھنے والے ٹرک ڈرائیور بلجندر سنگھ نے صرف 500 روپے کا ٹکٹ خرید کر 12 کروڑ روپے (13 لاکھ ڈالر) کی لاٹری جیت لی ہے۔ اتنی بڑی رقم جیتنے کے باوجود بلجندر کا کہنا ہے کہ وہ بطور ٹرک ڈرائیور اپنا کام جاری رکھیں گے۔
+اے پیک سربراہی اجلاس کے دوران ڈونلڈ ٹرمپ نے جوہری ہتھیاروں میں کمی کا مطالبہ کیا ہے۔ یہ مطالبہ ایسے وقت میں سامنے آیا ہے جب اس بین الاقوامی اجتماع میں اہم امور پر بات چیت جاری ہے، جہاں جوہری بریف کیس جیسے سکیورٹی اقدامات بھی زیرِ بحث رہے۔
 
-According to BBC Business
+First reported by Al Jazeera.
 
-#Lottery #India #Inspiring #News
+#DonaldTrump #APEC #NuclearArms #Geopolitics #WorldNews
 ```
 
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
 - [needs_review] normal | Iraqi armed group denies involvement in oil smuggling, calls probe a ‘ | Mon 16 Nov, 10:41 AM PKT
@@ -361,10 +360,10 @@ According to BBC Business
 - [needs_review] normal | Punjab CM approves panchayat system to resolve disputes | Thu 19 Nov, 10:19 AM PKT
 - [needs_review] normal | Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case | Thu 19 Nov, 10:29 AM PKT
 - [published] normal | Top UN court to rule on alleged genocide of Myanmar's Rohingya | Thu 19 Nov, 11:03 AM PKT
-- [queued] normal | Trump wants to talk nuclear with Putin and Xi | Thu 19 Nov, 11:13 AM PKT
-- [queued] normal | Rangers arrest TTP terrorist in Karachi's Manghopir | Thu 19 Nov, 11:23 AM PKT
-- [queued] normal | Search underway after unidentified flying object spotted over Sahiwal  | Thu 19 Nov, 11:33 AM PKT
-- [queued] normal | Suparco Warns of Worsening Smog Across Punjab as Hundreds of Fires Rag | Thu 19 Nov, 12:23 PM PKT
+- [needs_review] normal | Trump wants to talk nuclear with Putin and Xi | Thu 19 Nov, 11:13 AM PKT
+- [needs_review] normal | Rangers arrest TTP terrorist in Karachi's Manghopir | Thu 19 Nov, 11:23 AM PKT
+- [needs_review] normal | Search underway after unidentified flying object spotted over Sahiwal  | Thu 19 Nov, 11:33 AM PKT
+- [published] normal | Suparco Warns of Worsening Smog Across Punjab as Hundreds of Fires Rag | Thu 19 Nov, 12:23 PM PKT
 - [queued] normal | ICJ Flags Serious Concerns Over Judicial Independence in Pakistan | Thu 19 Nov, 12:33 PM PKT
 - [queued] normal | PlayStation Network Suffers Brief Outage Hours Before Highly Anticipat | Thu 19 Nov, 12:43 PM PKT
 - [queued] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
@@ -380,12 +379,19 @@ According to BBC Business
 - [queued] normal | Large amount of suspected donkey meat seized in Islamabad | Thu 19 Nov, 04:53 PM PKT
 - [queued] normal | Punjab launches online route permit system for transport operators | Thu 19 Nov, 05:03 PM PKT
 - [queued] normal | Indian truck driver wins $1.3m lottery, plans to keep working | Thu 19 Nov, 05:13 PM PKT
+- [queued] normal | Bangladesh shut down by Hasina's party after ex-leader Yunus's home se | Thu 19 Nov, 05:48 PM PKT
+- [queued] normal | Pakistan and Qatar sign new security pact to combat drug trafficking | Thu 19 Nov, 05:58 PM PKT
+- [queued] normal | Hailey Bieber opens up about the intense reality of internet scrutiny | Thu 19 Nov, 06:08 PM PKT
+- [queued] normal | Donald Trump calls for nuclear arms reduction at APEC summit | Thu 19 Nov, 06:18 PM PKT
 
 ## Publishing this run
-- Published 'Top UN court to rule on alleged genocide of Myanmar's Rohingya'.
+- Published 'Suparco Warns of Worsening Smog Across Punjab as Hundreds of Fires Rage'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5076 | output tokens: 2559
+- Calls: 3 | prompt tokens: 4761 | output tokens: 2223
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
