@@ -72740,7 +72740,682 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "100c14e5fd42e02f507268c5",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T02:49:01+00:00",
+      "last_update": "2026-11-19T05:15:43+00:00",
+      "event": "Trump wants to talk nuclear with Putin and Xi",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "china",
+        "donald",
+        "non",
+        "nuclear",
+        "plans",
+        "president",
+        "proliferation",
+        "putin",
+        "raise",
+        "russia",
+        "says",
+        "talk",
+        "trump",
+        "wants",
+        "with"
+      ],
+      "source_excerpt": "US President Donald Trump says he plans to raise nuclear non-proliferation with China’s Xi and Russia’s Putin.",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1E5bjNFT18zcF9OQTQ4ekp1aFJ1X2lKY1pLcmg4SXoxRmxnbVdRck1DZ2NDenZ1cHdzcmg5cVdVeWFuZVpEbDJVdVdOOTVCVVZ0MmZDWk5LLXZ4OU9lZVA4RGdKM2toamg4TTV4QWk4czV0aTdETDQ0VTdUS3Z0WUhIZG5zZEZPNjREWnVrcFdpWHdHZHBIdWJaRVc2WjczOFZTQ3Z6V2lTamJTUzROZW9VU0VnSkRSdU5Zd0d6bE9mc25oY0pMakhBNA?oc=5",
+          "published_at": "2026-11-19T02:49:01+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+          "published_at": "2026-11-19T04:50:28+00:00"
+        },
+        {
+          "name": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlV4V1NHOG9taWotUENrVzk4d2g3V2N1OWc5RTFJUUszUkJOYks5QXViYVpETTItZThaS0VaR2N6NUZlZFRlWGRpTHMtcWpnOTdYcl9fOG1RMVVSaW5XSVBObmJEdUt3US12cXBrVTlNLU9WdENrZFB3Yl9LRS1LNTdYWlU?oc=5",
+          "published_at": "2026-11-19T05:15:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "49dbf9dbcd9fdea289699f20",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T01:56:40+00:00",
+      "last_update": "2026-11-19T05:20:27+00:00",
+      "event": "Rangers arrest ‘TTP terrorist’ in Manghopir",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrest",
+        "dawn",
+        "manghopir",
+        "rangers",
+        "terrorist",
+        "ttp"
+      ],
+      "source_excerpt": "Rangers arrest ‘TTP terrorist’ in Manghopir Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0RWUkItbXZQLW5odm1va3hISjgwS0tSbVJIelcySXp2dWtnd1lyMjA4R0lick5GcG9zMlN2YmgtX3JiV0RuQTZWbUdkalVydmpiYUtFNnlJekZSdjBRSWVOR2pYQjFmbVdVVm1lOTVaUU83eDZXUWdoWk1EM2NYWQ?oc=5",
+          "published_at": "2026-11-19T01:56:40+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045530/rangers-arrest-ttp-terrorist-in-karachis-manghopir",
+          "published_at": "2026-11-19T05:20:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0RWUkItbXZQLW5odm1va3hISjgwS0tSbVJIelcySXp2dWtnd1lyMjA4R0lick5GcG9zMlN2YmgtX3JiV0RuQTZWbUdkalVydmpiYUtFNnlJekZSdjBRSWVOR2pYQjFmbVdVVm1lOTVaUU83eDZXUWdoWk1EM2NYWQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6983e5ced022ed2d6330c850",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T01:56:55+00:00",
+      "last_update": "2026-11-19T05:17:10+00:00",
+      "event": "Flying object spotted",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "flying",
+        "object",
+        "spotted"
+      ],
+      "source_excerpt": "Flying object spotted Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aamVRTkhTWmRZQ2xHR09GSDFZQ0FSRHZqRTJBRVBkYjN3ZnZGeFlVXzNqVF9SeXc5Qmt5WjJjUmJrZElZUmNHUXpRYjJlMHVNdk9saWNpZUdhMTlhOHM2ZDNVbE1oUQ?oc=5",
+          "published_at": "2026-11-19T01:56:55+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045635/search-operation-underway-after-unidentified-flying-object-spotted-over-sahiwal-high-security-prison",
+          "published_at": "2026-11-19T05:17:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aamVRTkhTWmRZQ2xHR09GSDFZQ0FSRHZqRTJBRVBkYjN3ZnZGeFlVXzNqVF9SeXc5Qmt5WjJjUmJrZElZUmNHUXpRYjJlMHVNdk9saWNpZUdhMTlhOHM2ZDNVbE1oUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c96885396a0ad2b1ec0663e",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T01:57:38+00:00",
+      "last_update": "2026-11-19T05:21:31+00:00",
+      "event": "Four terrorists shot dead in Lakki Marwat",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "dead",
+        "four",
+        "lakki",
+        "marwat",
+        "shot",
+        "terrorists"
+      ],
+      "source_excerpt": "Four terrorists shot dead in Lakki Marwat Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWkdGaDV2Qm0ybFdrdWhhVk5JMUZhYzRCVDZYcDZxbkExS0gxZU5LZmd3WjR3ZXNMT3poUjVCWUU0NVJRN3dOaEVyYjhiV2FnMURmckhGcE1ScjI0MHNrSllsZy1IdnpaNjBCMnhJay1tQkV6NUszalc5WmZwNWxfcA?oc=5",
+          "published_at": "2026-11-19T01:57:38+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045636/four-terrorists-shot-dead-in-lakki-marwat-clash-with-police-officials",
+          "published_at": "2026-11-19T05:21:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWkdGaDV2Qm0ybFdrdWhhVk5JMUZhYzRCVDZYcDZxbkExS0gxZU5LZmd3WjR3ZXNMT3poUjVCWUU0NVJRN3dOaEVyYjhiV2FnMURmckhGcE1ScjI0MHNrSllsZy1IdnpaNjBCMnhJay1tQkV6NUszalc5WmZwNWxfcA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "17765566ccfb0e889ee913b7",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T01:57:37+00:00",
+      "last_update": "2026-11-19T05:11:38+00:00",
+      "event": "Exhumation confirms woman killed for ‘honour’ in Dera",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "confirms",
+        "dawn",
+        "dera",
+        "exhumation",
+        "for",
+        "honour",
+        "killed",
+        "woman"
+      ],
+      "source_excerpt": "Exhumation confirms woman killed for ‘honour’ in Dera Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFNNNVZWOG9pLUU1SnpqcENlOGVFTmNEQ2I1YTdRTjVkWlNiVFdpTUNDQ1ZYdXFPbjhlODhNVm15eFNaazVQcmNQVGh4SXBEVHVIVm9hMDQtWTd1LUJYbEI1dC1jcmd5MFlPLXk4T2V1b0xOaXVBUWVBVUxqSHpjYk5SeUR2OUR2LXBjelFn?oc=5",
+          "published_at": "2026-11-19T01:57:37+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045467/exhumation-confirms-woman-killed-for-honour-in-dera-ismail-khan",
+          "published_at": "2026-11-19T05:11:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFNNNVZWOG9pLUU1SnpqcENlOGVFTmNEQ2I1YTdRTjVkWlNiVFdpTUNDQ1ZYdXFPbjhlODhNVm15eFNaazVQcmNQVGh4SXBEVHVIVm9hMDQtWTd1LUJYbEI1dC1jcmd5MFlPLXk4T2V1b0xOaXVBUWVBVUxqSHpjYk5SeUR2OUR2LXBjelFn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9b1bf4c611cf23d868a03ebf",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T04:58:36+00:00",
+      "last_update": "2026-11-19T04:58:36+00:00",
+      "event": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "4bn",
+        "berlin",
+        "billion",
+        "cost",
+        "count",
+        "defence",
+        "euro",
+        "europe",
+        "european",
+        "faces",
+        "far",
+        "financing",
+        "from",
+        "gap",
+        "kyiv",
+        "leaders",
+        "meet",
+        "meeting",
+        "next",
+        "putin",
+        "set",
+        "trump",
+        "ukraine",
+        "year"
+      ],
+      "source_excerpt": "European leaders set to meet in Berlin as Kyiv faces a 25 billion-euro ($27.4bn) financing gap next year.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+          "published_at": "2026-11-19T04:58:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6ca0fb087dc1d46d0c35402a",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T05:24:55+00:00",
+      "last_update": "2026-11-19T05:24:55+00:00",
+      "event": "Asim Munir stresses military's support for Balochistan peace, development",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asim",
+        "balochistan",
+        "development",
+        "for",
+        "military",
+        "munir",
+        "peace",
+        "samaa",
+        "stresses",
+        "support"
+      ],
+      "source_excerpt": "Asim Munir stresses military's support for Balochistan peace, development samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjloZ1FCNHdIY1FPRndQV0pkdWMwMTVMZ2ppdXNCanBySHlpd19JLXR4N0tqX2dRbUE0NU1VS3VMOW1NNEJSRjA4M3hianJBTklHV2lkWHR3VWJsejFsOE5sRmw3cUNhMUc4c01jT18yb05Ickx2dXlPTUUzZjhfUEt4dHpoNWJZSDZPbG9YSTE3dEVjOTA1T25fSURITXBaVEU0andJTQ?oc=5",
+          "published_at": "2026-11-19T05:24:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjloZ1FCNHdIY1FPRndQV0pkdWMwMTVMZ2ppdXNCanBySHlpd19JLXR4N0tqX2dRbUE0NU1VS3VMOW1NNEJSRjA4M3hianJBTklHV2lkWHR3VWJsejFsOE5sRmw3cUNhMUc4c01jT18yb05Ickx2dXlPTUUzZjhfUEt4dHpoNWJZSDZPbG9YSTE3dEVjOTA1T25fSURITXBaVEU0andJTQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3aef19f4bf4adfa78576a242",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T04:48:23+00:00",
+      "last_update": "2026-11-19T04:48:23+00:00",
+      "event": "Large amount of suspected donkey meat seized in Islamabad",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amount",
+        "dawn",
+        "donkey",
+        "islamabad",
+        "large",
+        "meat",
+        "seized",
+        "suspected"
+      ],
+      "source_excerpt": "Large amount of suspected donkey meat seized in Islamabad Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmdCTnhQRjFLNVdOLWRpUUNiOXlwaThzMS1ZYU1KTURfNkVZWFFtajFtYllrYUVCYkl0bFpleHBTQm1yN25OMUtNc05sT0FxektHVi1FV2xpemUyd3d3OU9XNUE3MTRHbnU4UGZCaHg5U0Z5bGZZcnFVR2o0MnRKSnRHd1RsX05qa3Q5dlVRdldPQU11bUE?oc=5",
+          "published_at": "2026-11-19T04:48:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmdCTnhQRjFLNVdOLWRpUUNiOXlwaThzMS1ZYU1KTURfNkVZWFFtajFtYllrYUVCYkl0bFpleHBTQm1yN25OMUtNc05sT0FxektHVi1FV2xpemUyd3d3OU9XNUE3MTRHbnU4UGZCaHg5U0Z5bGZZcnFVR2o0MnRKSnRHd1RsX05qa3Q5dlVRdldPQU11bUE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cb48c492b1b3f4e76c973f20",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T05:32:22+00:00",
+      "last_update": "2026-11-19T05:32:22+00:00",
+      "event": "Two sentenced to life imprisonment in rape case in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abdul",
+        "additional",
+        "allowed",
+        "and",
+        "assault",
+        "case",
+        "chandio",
+        "convicts",
+        "court",
+        "daughter",
+        "district",
+        "down",
+        "exchange",
+        "for",
+        "found",
+        "handed",
+        "has",
+        "her",
+        "imprisonment",
+        "jail",
+        "judge",
+        "karachi",
+        "life",
+        "men",
+        "minor",
+        "money",
+        "mother",
+        "prison",
+        "rape",
+        "sentenced",
+        "sessions",
+        "sexually",
+        "south",
+        "surai",
+        "the",
+        "three",
+        "two",
+        "victim",
+        "who",
+        "woman",
+        "years",
+        "zahoor"
+      ],
+      "source_excerpt": "KARACHI: A sessions court has sentenced two men to life in prison and handed down three years in jail to a woman who allowed the convicts to sexually assault her minor daughter in exchange for money. Additional District and Sessions Judge (South) Abdul Zahoor Chandio found the victim’s mother, Surai",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045525/two-sentenced-to-life-imprisonment-in-rape-case-in-karachi",
+          "published_at": "2026-11-19T05:32:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045525/two-sentenced-to-life-imprisonment-in-rape-case-in-karachi",
+        "publisher_url": "https://www.dawn.com/news/2045525/two-sentenced-to-life-imprisonment-in-rape-case-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "535382f78abf57f8367f2809",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T05:07:09+00:00",
+      "last_update": "2026-11-19T05:07:09+00:00",
+      "event": "Healthcare body working without chairman for 18 months, Sindh Assembly told",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045531",
+        "assembly",
+        "body",
+        "chairman",
+        "com",
+        "dawn",
+        "for",
+        "healthcare",
+        "https",
+        "months",
+        "news",
+        "sindh",
+        "told",
+        "without",
+        "working",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045531",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045633/healthcare-body-working-without-chairman-for-18-months-sindh-assembly-told",
+          "published_at": "2026-11-19T05:07:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045633/healthcare-body-working-without-chairman-for-18-months-sindh-assembly-told",
+        "publisher_url": "https://www.dawn.com/news/2045633/healthcare-body-working-without-chairman-for-18-months-sindh-assembly-told",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8129df23f7d4b81be20f89f7",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T05:00:47+00:00",
+      "last_update": "2026-11-19T05:00:47+00:00",
+      "event": "Non-verbal rendition of Hamlet, music workshop highlight 21st day of Karachi's World Culture Festival",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1196172",
+        "21st",
+        "com",
+        "culture",
+        "dawn",
+        "day",
+        "festival",
+        "hamlet",
+        "highlight",
+        "https",
+        "images",
+        "karachi",
+        "karachis",
+        "music",
+        "news",
+        "non",
+        "rendition",
+        "verbal",
+        "workshop",
+        "world"
+      ],
+      "source_excerpt": "https://images.dawn.com/news/1196172/non-verbal-rendition-of-hamlet-music-workshop-highlight-21st-day-of-karachis-world-culture-festival",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045632/non-verbal-rendition-of-hamlet-music-workshop-highlight-21st-day-of-karachis-world-culture-festival",
+          "published_at": "2026-11-19T05:00:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045632/non-verbal-rendition-of-hamlet-music-workshop-highlight-21st-day-of-karachis-world-culture-festival",
+        "publisher_url": "https://www.dawn.com/news/2045632/non-verbal-rendition-of-hamlet-music-workshop-highlight-21st-day-of-karachis-world-culture-festival",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d7345b9f2b9190a77bff38bf",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T06:00:16+00:00",
+      "last_update": "2026-11-19T06:00:16+00:00",
+      "event": "Karachi AVCC police officers booked for alleged kidnapping, extortion of trader",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "avcc",
+        "booked",
+        "extortion",
+        "for",
+        "karachi",
+        "kidnapping",
+        "officers",
+        "police",
+        "trader"
+      ],
+      "source_excerpt": "Karachi AVCC police officers booked for alleged kidnapping, extortion of trader",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-avcc-police-officers-booked-for-alleged-kidnapping-extortion-of-trader",
+          "published_at": "2026-11-19T06:00:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-avcc-police-officers-booked-for-alleged-kidnapping-extortion-of-trader",
+        "publisher_url": "https://arynews.tv/karachi-avcc-police-officers-booked-for-alleged-kidnapping-extortion-of-trader",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "34c2590f7cc0e17142776fd9",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T05:48:46+00:00",
+      "last_update": "2026-11-19T05:48:46+00:00",
+      "event": "Pakistan security forces kill 22 terrorists in KP IBOs: ISPR",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "forces",
+        "ibos",
+        "ispr",
+        "kill",
+        "pakistan",
+        "security",
+        "terrorists"
+      ],
+      "source_excerpt": "Pakistan security forces kill 22 terrorists in KP IBOs: ISPR",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-security-forces-kill-22-terrorists-in-kp-ibos-ispr",
+          "published_at": "2026-11-19T05:48:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-security-forces-kill-22-terrorists-in-kp-ibos-ispr",
+        "publisher_url": "https://arynews.tv/pakistan-security-forces-kill-22-terrorists-in-kp-ibos-ispr",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9cf60990cf3c8fe6a3f31ff1",
+      "remembered_at": "2026-11-19T06:03:59.690128+00:00",
+      "event_date": "2026-11-19T04:59:47+00:00",
+      "last_update": "2026-11-19T04:59:47+00:00",
+      "event": "Punjab announces recruitment at 23 medical institutions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announces",
+        "institutions",
+        "medical",
+        "punjab",
+        "recruitment"
+      ],
+      "source_excerpt": "Punjab announces recruitment at 23 medical institutions",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-announces-recruitment-at-23-medical-institutions",
+          "published_at": "2026-11-19T04:59:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-announces-recruitment-at-23-medical-institutions",
+        "publisher_url": "https://arynews.tv/punjab-announces-recruitment-at-23-medical-institutions",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T04:59:42.741043+00:00"
+  "updated_at": "2026-11-19T06:03:59.690128+00:00"
 }

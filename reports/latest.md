@@ -1,146 +1,148 @@
-# News Hub report - Thu 19 Nov, 09:59 AM PKT
+# News Hub report - Thu 19 Nov, 11:03 AM PKT
 
 ## Collection
-- New items this run: 55 | items in rolling pool: 302
-- Unique story clusters: 256 (duplicates merged: 46)
-- Clusters dropped as already published/queued: 32; unchanged since last analysis: 2
-- Items per outlet: Dawn Latest 10, Profit by Pakistan Today 5, Dawn Pakistan 4, Al Jazeera 4, The News International 3, ARY News 3, BBC 3, Geo News 2, Dawn 2, ProPakistani 2, TechJuice 2, PhoneWorld 2
+- New items this run: 62 | items in rolling pool: 332
+- Unique story clusters: 274 (duplicates merged: 58)
+- Clusters dropped as already published/queued: 31; unchanged since last analysis: 4
+- Items per outlet: Dawn Pakistan 8, ARY News 8, Dawn Latest 4, Geo News 4, TechJuice 4, Investify 4, samaa tv 3, Dawn 3, Al Jazeera 3, Profit by Pakistan Today 3, PhoneWorld 2, The Current 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- FBISE introduces on-the-spot printing of question papers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man arrested for allegedly sexually abusing boy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM approves panchayat system to resolve disputes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bail plea of Qureshi adjourned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump wants to talk nuclear with Putin and Xi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rangers arrest ‘TTP terrorist’ in Manghopir | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Flying object spotted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Four terrorists shot dead in Lakki Marwat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- FBISE introduces on-the-spot printing of question papers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man arrested for allegedly sexually abusing boy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM approves panchayat system to resolve disputes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bail plea of Qureshi adjourned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump wants to talk nuclear with Putin and Xi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rangers arrest ‘TTP terrorist’ in Manghopir | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Flying object spotted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Four terrorists shot dead in Lakki Marwat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- FBISE introduces on-the-spot printing of question papers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man arrested for allegedly sexually abusing boy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM approves panchayat system to resolve disputes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bail plea of Qureshi adjourned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump wants to talk nuclear with Putin and Xi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rangers arrest ‘TTP terrorist’ in Manghopir | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Flying object spotted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Four terrorists shot dead in Lakki Marwat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 102/107 | empty: 2 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Parliament and Constitution Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### FBISE Introduces On-the-Spot Printing of Exam Papers to Prevent Leaks  [NORMAL]
-- Poster: ایف بی آئی ایس ای نے پرچے لیک ہونے سے بچانے کے لیے موقع پر پرنٹنگ متعارف کرا دی / FBISE introduces on-the-spot exam paper printing | category other
-- Alternative headline: FBISE introduces on-the-spot printing of question papers at examination centres
+### Top UN court to rule on alleged genocide of Myanmar's Rohingya  [NORMAL]
+- Poster: عالمی عدالت روہنگیا نسل کشی کیس پر تاریخی فیصلہ آج سنائے گی / ICJ to rule on Rohingya genocide case against Myanmar | category courts
+- Alternative headline: ICJ to rule on Rohingya genocide case against Myanmar
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzJVSmFiRGFta2FHYlpzamtIMnB1MU5nVEZwaTdEMjJGc3hibnRhN0N5TFN6UHE5MlBJeGQwNkswQVFlb1FDQm1nVUhEcEVvYjg2Wk1OVGpYbUxrNm8zenB3a01JOHQ2QW5fTEpQaVhjVVYtM182ZzNvZUlhS0ZZV04tejN6X2ZSMEtXdnJ4S2xuUE0x?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzJVSmFiRGFta2FHYlpzamtIMnB1MU5nVEZwaTdEMjJGc3hibnRhN0N5TFN6UHE5MlBJeGQwNkswQVFlb1FDQm1nVUhEcEVvYjg2Wk1OVGpYbUxrNm8zenB3a01JOHQ2QW5fTEpQaVhjVVYtM182ZzNvZUlhS0ZZV04tejN6X2ZSMEtXdnJ4S2xuUE0x?oc=5
-- Supporting coverage: Dawn, TechJuice, Dawn Latest
-- Keywords: FBISE, exam papers, question papers, paper leaks, Federal Board, education | hashtags: #FBISE #Education #Pakistan #Exams #DawnNews
-- Scheduled: Thu 19 Nov, 09:59 AM PKT
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC, Reuters, Al Jazeera, Al Jazeera
+- Keywords: Rohingya genocide, ICJ, Myanmar, UN court, genocide verdict, BBC | hashtags: #Rohingya #ICJ #Myanmar #Genocide #UN
+- Scheduled: Thu 19 Nov, 11:03 AM PKT
 - Caption:
 ```
-Federal Board takes a major step to secure examinations by introducing on-the-spot printing of question papers.
+No state has ever been found guilty of genocide by an international court. Now, the UN court is set to deliver a historic verdict.
 
-The Federal Board of Intermediate and Secondary Education (FBISE) has introduced on-the-spot printing of question papers at examination centres. This initiative is aimed at preventing paper leaks and ensuring a secure and transparent examination process for students.
+The International Court of Justice is set to deliver a historic verdict in the genocide case against Myanmar concerning the treatment of the Rohingya minority. Reports note that no state has ever been found guilty of genocide by an international court.
 
-وفاقی بورڈ آف انٹرمیڈیٹ اینڈ سیکنڈری ایجوکیشن (ایف بی آئی ایس ای) نے امتحانی مراکز پر سوالیہ پرچوں کی موقع پر پرنٹنگ متعارف کرا دی ہے۔ اس اقدام کا مقصد پرچوں کو لیک ہونے سے بچانا اور طلباء کے لیے ایک محفوظ اور شفاف امتحانی عمل کو یقینی بنانا ہے۔
+عالمی عدالتِ انصاف میانمار کے خلاف روہنگیا اقلیت پر مبینہ نسل کشی کے مقدمے میں تاریخی فیصلہ سنانے جارہی ہے۔ رپورٹس کے مطابق کسی بھی ریاست کو بین الاقوامی عدالت نے اس سے قبل نسل کشی کا مجرم نہیں ٹھہرایا۔
 
-First reported by Dawn.
+According to a BBC report.
 
-#FBISE #Education #Pakistan #Exams #DawnNews
+#Rohingya #ICJ #Myanmar #Genocide #UN
 ```
 
-### Man arrested for allegedly sexually abusing boy in Rawalpindi  [NORMAL]
-- Poster: راولپنڈی میں بچے سے مبینہ زیادتی کے الزام میں ایک شخص گرفتار / Man arrested for alleged abuse of boy in Rawalpindi | category crime
-- Alternative headline: Rawalpindi police arrest man for alleged sexual abuse of minor boy
+### Trump wants to talk nuclear with Putin and Xi  [NORMAL]
+- Poster: ٹرمپ کی پیوٹن اور شی جن پنگ سے جوہری ہتھیاروں پر بات کرنے کی خواہش / Trump wants to talk nuclear with Putin and Xi | category world
+- Alternative headline: Nuclear arms and wars to top agenda at Trump-Xi-Putin meeting
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss
+- Supporting coverage: The Washington Post, Al Jazeera, Newsday
+- Keywords: Trump nuclear talks, Putin, Xi Jinping, nuclear non-proliferation, US President, Al Jazeera | hashtags: #Trump #Putin #XiJinping #NuclearTalks #US
+- Scheduled: Thu 19 Nov, 11:13 AM PKT
+- Caption:
+```
+US President Donald Trump says he plans to raise nuclear non-proliferation during talks with Russia and China.
+
+US President Donald Trump stated that he plans to discuss nuclear non-proliferation with Chinese President Xi Jinping and Russian President Vladimir Putin amid ongoing diplomatic engagements.
+
+امریکی صدر ڈونلڈ ٹرمپ نے کہا ہے کہ وہ روسی صدر پوتین اور چینی صدر شی جن پنگ کے ساتھ جوہری عدم پھیلاؤ کے امور پر بات چیت کا ارادہ رکھتے ہیں۔
+
+First reported by Al Jazeera.
+
+#Trump #Putin #XiJinping #NuclearTalks #US
+```
+
+### Rangers arrest TTP terrorist in Karachi's Manghopir  [NORMAL]
+- Poster: کراچی کے علاقے منگھوپیر میں رینجرز کی کارروائی، ٹی ٹی پی کا دہشتگرد گرفتار / Rangers arrest TTP terrorist in Manghopir | category security
+- Alternative headline: Rangers capture alleged TTP militant during Manghopir operation
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2M0eTRKT05zLUVfb2pVLUtQNTE1U1NTeTdXdkV6R3pqVS0zWnVNRzJCV3F3cDNzUjN4V3JCM2tzclJjNXBpbG1JVUhOam1FZ2pKUl9UYjBzVlhOUmp6aTdPM1pWQzBOZTZiaFZhSkxPTGRSTi1mNnE2Y0RrTFpQano1THhPamtm?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2M0eTRKT05zLUVfb2pVLUtQNTE1U1NTeTdXdkV6R3pqVS0zWnVNRzJCV3F3cDNzUjN4V3JCM2tzclJjNXBpbG1JVUhOam1FZ2pKUl9UYjBzVlhOUmp6aTdPM1pWQzBOZTZiaFZhSkxPTGRSTi1mNnE2Y0RrTFpQano1THhPamtm?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0RWUkItbXZQLW5odm1va3hISjgwS0tSbVJIelcySXp2dWtnd1lyMjA4R0lick5GcG9zMlN2YmgtX3JiV0RuQTZWbUdkalVydmpiYUtFNnlJekZSdjBRSWVOR2pYQjFmbVdVVm1lOTVaUU83eDZXUWdoWk1EM2NYWQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0RWUkItbXZQLW5odm1va3hISjgwS0tSbVJIelcySXp2dWtnd1lyMjA4R0lick5GcG9zMlN2YmgtX3JiV0RuQTZWbUdkalVydmpiYUtFNnlJekZSdjBRSWVOR2pYQjFmbVdVVm1lOTVaUU83eDZXUWdoWk1EM2NYWQ?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Rawalpindi, arrest, abuse, police, crime, Rawalpindi news | hashtags: #Rawalpindi #Police #Crime #Pakistan #DawnNews
-- Scheduled: Thu 19 Nov, 10:09 AM PKT
+- Keywords: Rangers arrest TTP, Manghopir, Karachi, TTP terrorist, Dawn, security operation | hashtags: #Rangers #Karachi #Manghopir #TTP #Security
+- Scheduled: Thu 19 Nov, 11:23 AM PKT
 - Caption:
 ```
-Police in Rawalpindi have arrested a man following allegations of sexually abusing a young boy.
+Security forces have detained an alleged terrorist linked to the TTP during an operation in Karachi.
 
-A man has been arrested in Rawalpindi for allegedly sexually abusing a boy. According to reports, local authorities took action following the incident, and further investigations are currently underway to ascertain the facts.
+Pakistan Rangers conducted an operation in Karachi's Manghopir area, resulting in the arrest of an alleged TTP terrorist, according to reports by Dawn.
 
-راولپنڈی میں ایک شخص کو بچے کے ساتھ مبینہ جنسی زیادتی کے الزام میں گرفتار کر لیا گیا ہے۔ اطلاعات کے مطابق، مقامی حکام نے واقعے کے بعد کارروائی کی، اور حقائق جاننے کے لیے مزید تفتیش جاری ہے۔
+ڈان نیوز کی رپورٹ کے مطابق رینجرز نے کراچی کے علاقے منگھوپیر میں کارروائی کرتے ہوئے کالعدم تنظیم ٹی ٹی پی کے ایک مبینہ دہشتگرد کو گرفتار کر لیا ہے۔
 
-First reported by Dawn.
+According to a report by Dawn.
 
-#Rawalpindi #Police #Crime #Pakistan #DawnNews
+#Rangers #Karachi #Manghopir #TTP #Security
 ```
 
-### Punjab CM approves panchayat system to resolve disputes  [NORMAL]
-- Poster: پنجاب کے وزیر اعلیٰ نے تنازعات کے حل کے لیے پنچایت نظام کی منظوری دے دی / Punjab CM approves panchayat system for dispute resolution | category politics
-- Alternative headline: CM approves panchayat system to resolve local disputes
+### Search underway after unidentified flying object spotted over Sahiwal prison  [NORMAL]
+- Poster: سہیوال ہائی سیکیورٹی جیل کے اوپر نامعلوم اڑنے والی شے دیکھی گئی / Flying object spotted over Sahiwal prison | category security
+- Alternative headline: Flying object spotted near Sahiwal High Security Prison
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxOdS1BNEFoQUlRbzRWdWhGbG8xN3ZUa1EwY3dyWEpjZ0ZDbDBSMzVnUG5rQ29OOGRPM3lJVno0dGMyZmlFNHBhZXRKaUwwMzFRVFlYSWM3dGstYzMxY19ReF8zN0JORUh2M1ZFWVQ1R2liTS04dzBEdHpKRHVpZjlnRG8zSE9RaGNWU0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxOdS1BNEFoQUlRbzRWdWhGbG8xN3ZUa1EwY3dyWEpjZ0ZDbDBSMzVnUG5rQ29OOGRPM3lJVno0dGMyZmlFNHBhZXRKaUwwMzFRVFlYSWM3dGstYzMxY19ReF8zN0JORUh2M1ZFWVQ1R2liTS04dzBEdHpKRHVpZjlnRG8zSE9RaGNWU0E?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aamVRTkhTWmRZQ2xHR09GSDFZQ0FSRHZqRTJBRVBkYjN3ZnZGeFlVXzNqVF9SeXc5Qmt5WjJjUmJrZElZUmNHUXpRYjJlMHVNdk9saWNpZUdhMTlhOHM2ZDNVbE1oUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aamVRTkhTWmRZQ2xHR09GSDFZQ0FSRHZqRTJBRVBkYjN3ZnZGeFlVXzNqVF9SeXc5Qmt5WjJjUmJrZElZUmNHUXpRYjJlMHVNdk9saWNpZUdhMTlhOHM2ZDNVbE1oUQ?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: panchayat system, Punjab CM, dispute resolution, Punjab government, local disputes | hashtags: #Punjab #ChiefMinister #Panchayat #DisputeResolution #DawnNews
-- Scheduled: Thu 19 Nov, 10:19 AM PKT
+- Keywords: flying object Sahiwal, Sahiwal High Security Prison, search operation, Dawn, unidentified object | hashtags: #Sahiwal #Security #UFO #Dawn #Pakistan
+- Scheduled: Thu 19 Nov, 11:33 AM PKT
 - Caption:
 ```
-The Punjab government has approved the panchayat system as a mechanism to resolve local disputes.
+A search operation has been launched after an unidentified flying object was spotted near a high-security prison.
 
-The Chief Minister of Punjab has approved the implementation of a panchayat system aimed at resolving local disputes efficiently. The initiative seeks to provide alternative dispute resolution mechanisms at the grassroots level across the province.
+A search operation is currently underway after an unidentified flying object was sighted over the Sahiwal High Security Prison, as reported by Dawn.
 
-وزیر اعلیٰ پنجاب نے مقامی تنازعات کو مؤثر طریقے سے حل کرنے کے مقصد سے پنچایت کے نظام کے نفاذ کی منظوری دے دی ہے۔ اس اقدام کا مقصد صوبے بھر میں نچلی سطح پر تنازعات کے حل کے متبادل ذرائع فراہم کرنا ہے۔
+ڈان کی رپورٹ کے مطابق سہیوال ہائی سیکیورٹی جیل کے اوپر ایک نامعلوم اڑنے والی شے دیکھے جانے کے بعد سرچ آپریشن شروع کر دیا گیا ہے۔
 
 First reported by Dawn.
 
-#Punjab #ChiefMinister #Panchayat #DisputeResolution #DawnNews
+#Sahiwal #Security #UFO #Dawn #Pakistan
 ```
 
-### Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case  [NORMAL]
-- Poster: لاہور انسداد دہشت گردی عدالت نے 9 مئی کیس میں شاہ محمود قریشی کی ضمانت کی درخواست ملتوی کر دی / Lahore ATC adjourns Qureshi bail plea in May 9 case | category courts
-- Alternative headline: Bail plea of Qureshi adjourned by Lahore ATC in May 9 case
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMickFVX3lxTE9IYXpqb2ZvT0djeEIwUFVTUkhIR09JaHJjVWo4b18xbHMxb2ZxZnRFbmdnSGdmTTNvS1BoUVJBR2RuN1ROT3ExbllNR04teDFuWFdKN1Q5ZEdndDVFakk4a0dNdEV3ZnppLXZId1IyQ1BlUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMickFVX3lxTE9IYXpqb2ZvT0djeEIwUFVTUkhIR09JaHJjVWo4b18xbHMxb2ZxZnRFbmdnSGdmTTNvS1BoUVJBR2RuN1ROT3ExbllNR04teDFuWFdKN1Q5ZEdndDVFakk4a0dNdEV3ZnppLXZId1IyQ1BlUQ?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Shah Mehmood Qureshi, Lahore ATC, bail plea, May 9 case, courts, PTI | hashtags: #ShahMehmoodQureshi #LahoreATC #May9 #Courts #DawnNews
-- Scheduled: Thu 19 Nov, 10:29 AM PKT
-- Caption:
-```
-An anti-terrorism court in Lahore has adjourned the bail plea of Shah Mehmood Qureshi in connection with the May 9 riots case.
-
-The Lahore Anti-Terrorism Court (ATC) has adjourned the bail petition filed by Pakistan Tehreek-i-Insaf leader Shah Mehmood Qureshi in a case related to the May 9 violence. Further proceedings in the matter have been delayed to a later date.
-
-لاہور کی انسداد دہشت گردی عدالت (اے ٹی سی) نے 9 مئی کے پرتشدد واقعات سے متعلق کیس میں رہنما تحریک انصاف شاہ محمود قریشی کی ضمانت کی درخواست پر سماعت ملتوی کر دی ہے۔ اس معاملے کی مزید کارروائی مؤخر کر دی گئی ہے۔
-
-First reported by Dawn.
-
-#ShahMehmoodQureshi #LahoreATC #May9 #Courts #DawnNews
-```
-
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
 
 ## Queue status
 - [needs_review] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
 - [needs_review] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
 - [needs_review] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
-- [published] normal | Indonesian president apologises to Singapore, Malaysia for wildfire ha | Mon 16 Nov, 10:31 AM PKT
 - [needs_review] normal | Iraqi armed group denies involvement in oil smuggling, calls probe a ‘ | Mon 16 Nov, 10:41 AM PKT
 - [needs_review] normal | Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in  | Mon 16 Nov, 10:51 AM PKT
 - [needs_review] normal | Pope Leo flies to mass in the Papacoptero | Mon 16 Nov, 11:01 AM PKT
@@ -341,11 +343,11 @@ First reported by Dawn.
 - [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Thu 19 Nov, 03:41 AM PKT
 - [needs_review] normal | Pakistan mango exports plunge 36pc amid US-Iran war shipping disruptio | Thu 19 Nov, 03:51 AM PKT
 - [published] normal | US lawmakers push to raise minimum wage to $25 and end tipped pay | Thu 19 Nov, 04:01 AM PKT
-- [queued] normal | Floodwaters submerge cars and parking lots in Florida town | Thu 19 Nov, 04:11 AM PKT
-- [queued] normal | Catherine visits Mumbai maternity hospital on final day of royal tour | Thu 19 Nov, 04:37 AM PKT
-- [queued] normal | Myanmar faces historic genocide verdict at UN court over Rohingya | Thu 19 Nov, 04:47 AM PKT
-- [queued] normal | Iraq sentences six French nationals to life in prison over ISIL | Thu 19 Nov, 04:57 AM PKT
-- [queued] normal | GTA 6 officially launches after 13-year wait and record pre-orders | Thu 19 Nov, 05:07 AM PKT
+- [needs_review] normal | Floodwaters submerge cars and parking lots in Florida town | Thu 19 Nov, 04:11 AM PKT
+- [needs_review] normal | Catherine visits Mumbai maternity hospital on final day of royal tour | Thu 19 Nov, 04:37 AM PKT
+- [needs_review] normal | Myanmar faces historic genocide verdict at UN court over Rohingya | Thu 19 Nov, 04:47 AM PKT
+- [needs_review] normal | Iraq sentences six French nationals to life in prison over ISIL | Thu 19 Nov, 04:57 AM PKT
+- [published] normal | GTA 6 officially launches after 13-year wait and record pre-orders | Thu 19 Nov, 05:07 AM PKT
 - [queued] normal | US targets Hezbollah with fresh sanctions over front charities | Thu 19 Nov, 05:35 AM PKT
 - [queued] normal | Claude maker Anthropic eyes massive 1.4 trillion dollar stock debut | Thu 19 Nov, 05:45 AM PKT
 - [queued] normal | Scottish government faces questions over plans to issue first ever bon | Thu 19 Nov, 05:55 AM PKT
@@ -366,12 +368,19 @@ First reported by Dawn.
 - [queued] normal | Man arrested for allegedly sexually abusing boy in Rawalpindi | Thu 19 Nov, 10:09 AM PKT
 - [queued] normal | Punjab CM approves panchayat system to resolve disputes | Thu 19 Nov, 10:19 AM PKT
 - [queued] normal | Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case | Thu 19 Nov, 10:29 AM PKT
+- [queued] normal | Top UN court to rule on alleged genocide of Myanmar's Rohingya | Thu 19 Nov, 11:03 AM PKT
+- [queued] normal | Trump wants to talk nuclear with Putin and Xi | Thu 19 Nov, 11:13 AM PKT
+- [queued] normal | Rangers arrest TTP terrorist in Karachi's Manghopir | Thu 19 Nov, 11:23 AM PKT
+- [queued] normal | Search underway after unidentified flying object spotted over Sahiwal  | Thu 19 Nov, 11:33 AM PKT
 
 ## Publishing this run
-- Published 'US lawmakers push to raise minimum wage to $25 and end tipped pay'.
+- Published 'GTA 6 officially launches after 13-year wait and record pre-orders'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 3252 | output tokens: 1998
+- Calls: 3 | prompt tokens: 4596 | output tokens: 2157
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
