@@ -1,32 +1,32 @@
-# News Hub report - Thu 19 Nov, 05:48 PM PKT
+# News Hub report - Thu 19 Nov, 07:06 PM PKT
 
 ## Collection
-- New items this run: 173 | items in rolling pool: 819
-- Unique story clusters: 658 (duplicates merged: 161)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 94, Geo News 16, ProPakistani 10, samaa tv 6, Al Jazeera 5, TechJuice 5, Dawn Latest 4, ARY News 4, The Express Tribune 3, Wired 3, The Current 3, The Verge 2
+- New items this run: 191 | items in rolling pool: 917
+- Unique story clusters: 749 (duplicates merged: 168)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 96, Geo News 15, Al Jazeera 10, ProPakistani 10, samaa tv 8, TechJuice 6, ARY News 5, The Verge 4, Dawn 3, Dawn Pakistan 3, Jang Urdu 3, X 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Parts of Bangladesh shut down in protests by Hasina's party, ex-leader Yunus's home set ablaze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Qatar sign security cooperation agreement, action plan to curb drug trafficking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hailey Bieber gets real about internet's 'intense' attention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls for nuclear arms reduction at APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Will laser weapons change warfare? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump considers fresh strikes on Iran amid pressure from Israel: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI leaders in Kot Lakhpat seek medical treatment for Imran, Bushra | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Parts of Bangladesh shut down in protests by Hasina's party, ex-leader Yunus's home set ablaze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Qatar sign security cooperation agreement, action plan to curb drug trafficking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hailey Bieber gets real about internet's 'intense' attention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls for nuclear arms reduction at APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Will laser weapons change warfare? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump considers fresh strikes on Iran amid pressure from Israel: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI leaders in Kot Lakhpat seek medical treatment for Imran, Bushra | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Parts of Bangladesh shut down in protests by Hasina's party, ex-leader Yunus's home set ablaze | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Qatar sign security cooperation agreement, action plan to curb drug trafficking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hailey Bieber gets real about internet's 'intense' attention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls for nuclear arms reduction at APEC summit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Will laser weapons change warfare? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan inch closer to victory in second Test despite Sri Lanka fightback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump considers fresh strikes on Iran amid pressure from Israel: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI leaders in Kot Lakhpat seek medical treatment for Imran, Bushra | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -35,113 +35,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Bangladesh shut down by Hasina's party after ex-leader Yunus's home set ablaze  [NORMAL]
-- Poster: بنگلہ دیش میں حسینہ واجد کی جماعت کی ہڑتال، محمد یونس کا گھر نذر آتش / Bangladesh shutdowns, protests follow attack on Yunus's home | category politics
-- Alternative headline: Protests paralyze parts of Bangladesh following attack on Muhammad Yunus's ancestral home
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045664/parts-of-bangladesh-shut-down-in-protests-by-hasinas-party-ex-leader-yunuss-home-set-ablaze | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2045664/parts-of-bangladesh-shut-down-in-protests-by-hasinas-party-ex-leader-yunuss-home-set-ablaze
-- Supporting coverage: Dawn Latest, Al Jazeera
-- Keywords: Bangladesh protests, Sheikh Hasina, Muhammad Yunus, Awami League, Chattogram, lockdown | hashtags: #Bangladesh #SheikhHasina #MuhammadYunus #Protests #SouthAsia
-- Scheduled: Thu 19 Nov, 05:48 PM PKT
-- Caption:
-```
-Parts of Bangladesh face a nationwide shutdown as protests erupt and former leader Muhammad Yunus's ancestral home is set on fire.
-
-Parts of Bangladesh faced a nationwide shutdown called by Sheikh Hasina's Awami League party amid violent protests. The unrest followed the government's rejection of Hasina's passport request. Meanwhile, police reported that the ancestral home of former interim leader Muhammad Yunus in Chattogram was set on fire, though his family members were safe.
-
-بنگلہ دیش کے مختلف حصوں میں شیخ حسینہ کی جماعت عوامی لیگ کی کال پر ملک گیر ہڑتال اور پرتشدد مظاہرے ہوئے۔ یہ کشیدگی حکومت کی جانب سے حسینہ واجد کا پاسپورٹ مسترد کرنے کے بعد پھیلی۔ اس دوران پولیس نے بتایا کہ سابق عبوری رہنما محمد یونس کے آبائی گھر کو نذر آتش کر دیا گیا، تاہم ان کے اہل خانہ محفوظ ہیں۔
-
-First reported by Dawn Latest.
-
-#Bangladesh #SheikhHasina #MuhammadYunus #Protests #SouthAsia
-```
-
-### Pakistan and Qatar sign new security pact to combat drug trafficking  [NORMAL]
-- Poster: پاکستان اور قطر کے درمیان سکیورٹی تعاون اور منشیات کی روک تھام کا معاہدہ / Pakistan, Qatar sign security pact against drug trafficking | category security
-- Alternative headline: Pakistan, Qatar ink security cooperation agreement and action plan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnA0alNpOWhabkVBLVkwaDFUWi1naXdSRzZSdzk3X29WZ2o4VC1LMGdHdUJuNUJKY3hRTUJ2OU41UHhIR1V3SFc4U2RKeXdvZ3lZM3R4QXRpdGFvczBHWmJiWlRsdmR2Y1V3SWxTaFh3YUFya1lQc3Q5emxTelJaZkNrZjlHZzF3UW5jTWVPMTZCS1Q4Q3NlVVpNd1V5MjVhV2F6Qy1WVnpoejl4WWp4SC1fcFFNZE0yb1lzeno5MGFkZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnA0alNpOWhabkVBLVkwaDFUWi1naXdSRzZSdzk3X29WZ2o4VC1LMGdHdUJuNUJKY3hRTUJ2OU41UHhIR1V3SFc4U2RKeXdvZ3lZM3R4QXRpdGFvczBHWmJiWlRsdmR2Y1V3SWxTaFh3YUFya1lQc3Q5emxTelJaZkNrZjlHZzF3UW5jTWVPMTZCS1Q4Q3NlVVpNd1V5MjVhV2F6Qy1WVnpoejl4WWp4SC1fcFFNZE0yb1lzeno5MGFkZw?oc=5
-- Supporting coverage: The Express Tribune, Dawn, Dawn Pakistan
-- Keywords: Pakistan Qatar security, drug trafficking, security agreement, MoU, bilateral ties | hashtags: #Pakistan #Qatar #Security #LawEnforcement #BilateralRelations
-- Scheduled: Thu 19 Nov, 05:58 PM PKT
-- Caption:
-```
-Pakistan and Qatar have officially signed a security cooperation agreement and an action plan aimed at curbing drug trafficking.
-
-Pakistan and Qatar have entered into a formal security cooperation agreement, alongside an action plan specifically designed to curb drug trafficking. The agreement marks a strengthening of bilateral ties between the two nations in matters of security and law enforcement.
-
-پاکستان اور قطر نے منشیات کی اسمگلنگ کی روک تھام کے لیے ایک باضابطہ سکیورٹی تعاون کے معاہدے اور ایک لائحہ عمل پر دستخط کیے ہیں۔ اس معاہدے سے دونوں ممالک کے درمیان سکیورٹی اور قانون نافذ کرنے کے امور میں دو طرفہ تعلقات مزید مستحکم ہوں گے۔
-
-First reported by The Express Tribune.
-
-#Pakistan #Qatar #Security #LawEnforcement #BilateralRelations
-```
-
-### Hailey Bieber opens up about the intense reality of internet scrutiny  [NORMAL]
-- Poster: ہیلی بیبر کا انٹرنیٹ کی شدید توجہ اور تنقید پر کھل کر اظہار خیال / Hailey Bieber speaks on intense internet scrutiny | category lifestyle
-- Alternative headline: Internet fame comes with a heavy price, admits Hailey Bieber
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691758-hailey-bieber-gets-real-about-internets-intense-attention | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691758-hailey-bieber-gets-real-about-internets-intense-attention
-- Supporting coverage: Geo News
-- Keywords: Hailey Bieber, social media, internet fame, scrutiny, DealBook summit | hashtags: #HaileyBieber #SocialMedia #Fame #CelebrityNews #MentalHealth
-- Scheduled: Thu 19 Nov, 06:08 PM PKT
-- Caption:
-```
-Model and beauty founder Hailey Bieber gets candid about the darker side of social media fame and constant public scrutiny.
-
-Appearing at The New York Times' DealBook summit, Hailey Bieber opened up about the intense scrutiny and constant attention that comes with internet fame. The Rhode founder admitted that while resilience builds over time, the relentless public commentary still takes an emotional toll.
-
-نیویارک ٹائمز کے ڈیل بک سربراہی اجلاس میں شرکت کے دوران ہیلی بیبر نے انٹرنیٹ کی شہرت اور اس کے ساتھ آنے والی شدید تنقید پر کھل کر بات کی۔ بیوٹی برانڈ کی بانی نے اعتراف کیا کہ اگرچہ وقت کے ساتھ انسان میں قوت برداشت پیدا ہو جاتی ہے، لیکن مسلسل عوامی نظروں میں رہنا اب بھی تکلیف دہ ہوتا ہے۔
-
-First reported by Geo News.
-
-#HaileyBieber #SocialMedia #Fame #CelebrityNews #MentalHealth
-```
-
-### Donald Trump calls for nuclear arms reduction at APEC summit  [NORMAL]
-- Poster: ڈونلڈ ٹرمپ کا اے پیک سربراہی اجلاس میں جوہری ہتھیاروں میں کمی کا مطالبہ / Trump calls for nuclear arms reduction at APEC | category world
-- Alternative headline: Trump advocates for reducing nuclear arsenals during APEC meeting
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Trump APEC summit, nuclear arms reduction, Donald Trump, APEC, nuclear briefcase | hashtags: #DonaldTrump #APEC #NuclearArms #Geopolitics #WorldNews
-- Scheduled: Thu 19 Nov, 06:18 PM PKT
-- Caption:
-```
-Donald Trump calls for nuclear arms reduction during his address at the APEC summit.
-
-During the APEC summit, Donald Trump called for a reduction in nuclear arms. The call comes amidst high-profile discussions and international attention at the gathering, which also drew notice for security details such as the nuclear briefcase.
-
-اے پیک سربراہی اجلاس کے دوران ڈونلڈ ٹرمپ نے جوہری ہتھیاروں میں کمی کا مطالبہ کیا ہے۔ یہ مطالبہ ایسے وقت میں سامنے آیا ہے جب اس بین الاقوامی اجتماع میں اہم امور پر بات چیت جاری ہے، جہاں جوہری بریف کیس جیسے سکیورٹی اقدامات بھی زیرِ بحث رہے۔
-
-First reported by Al Jazeera.
-
-#DonaldTrump #APEC #NuclearArms #Geopolitics #WorldNews
-```
-
-- Indian outlets blocked this run: 6 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
-- [needs_review] normal | Iraqi armed group denies involvement in oil smuggling, calls probe a ‘ | Mon 16 Nov, 10:41 AM PKT
-- [needs_review] normal | Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in  | Mon 16 Nov, 10:51 AM PKT
-- [needs_review] normal | Pope Leo flies to mass in the Papacoptero | Mon 16 Nov, 11:01 AM PKT
-- [needs_review] normal | England topple Spain as Belgium smash Italy to reach Nations League qu | Mon 16 Nov, 12:19 PM PKT
-- [needs_review] normal | How Russia is preparing Iran for the next escalation | Mon 16 Nov, 12:29 PM PKT
 - [needs_review] normal | I had to explain to my teacher what a young carer was - we need more s | Mon 16 Nov, 12:49 PM PKT
 - [needs_review] normal | Iran war live: Third US carrier arrives, Iran warns it could strike fi | Mon 16 Nov, 02:58 PM PKT
 - [needs_review] normal | Pakistan Shaheens leave for Rising Stars Asia Cup | Mon 16 Nov, 03:18 PM PKT
@@ -149,7 +48,6 @@ First reported by Al Jazeera.
 - [needs_review] normal | Action against terrorism must for economic cooperation with Afghanista | Mon 16 Nov, 04:34 PM PKT
 - [needs_review] normal | In open letter to FCC, SC and IHC chief justices, Imran pleads for med | Mon 16 Nov, 04:44 PM PKT
 - [needs_review] normal | Prince and Princess of Wales play street cricket in Mumbai | Mon 16 Nov, 04:54 PM PKT
-- [published] normal | PTI Founder sends letter to Chief Justice of Pakistan | Mon 16 Nov, 06:35 PM PKT
 - [needs_review] normal | SBP says inflation to ease to 5-7pc target range during FY2027 | Mon 16 Nov, 06:45 PM PKT
 - [needs_review] normal | PM Shehbaz approves facilitation centres for SMEs at district level | Mon 16 Nov, 06:55 PM PKT
 - [needs_review] normal | Punjab orders recall of five medicines over quality, safety concerns | Mon 16 Nov, 07:05 PM PKT
@@ -364,10 +262,10 @@ First reported by Al Jazeera.
 - [needs_review] normal | Rangers arrest TTP terrorist in Karachi's Manghopir | Thu 19 Nov, 11:23 AM PKT
 - [needs_review] normal | Search underway after unidentified flying object spotted over Sahiwal  | Thu 19 Nov, 11:33 AM PKT
 - [published] normal | Suparco Warns of Worsening Smog Across Punjab as Hundreds of Fires Rag | Thu 19 Nov, 12:23 PM PKT
-- [queued] normal | ICJ Flags Serious Concerns Over Judicial Independence in Pakistan | Thu 19 Nov, 12:33 PM PKT
-- [queued] normal | PlayStation Network Suffers Brief Outage Hours Before Highly Anticipat | Thu 19 Nov, 12:43 PM PKT
-- [queued] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
-- [queued] normal | Aamer Jamal and Razaullah strike early as Sri Lanka lose two wickets | Thu 19 Nov, 02:46 PM PKT
+- [needs_review] normal | ICJ Flags Serious Concerns Over Judicial Independence in Pakistan | Thu 19 Nov, 12:33 PM PKT
+- [needs_review] normal | PlayStation Network Suffers Brief Outage Hours Before Highly Anticipat | Thu 19 Nov, 12:43 PM PKT
+- [needs_review] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
+- [published] normal | Aamer Jamal and Razaullah strike early as Sri Lanka lose two wickets | Thu 19 Nov, 02:46 PM PKT
 - [queued] normal | Saqib Khan ruled out of further bowling in Rawalpindi Test | Thu 19 Nov, 02:56 PM PKT
 - [queued] normal | Sindh CM proposes Wuhan-style city management model for Karachi | Thu 19 Nov, 03:06 PM PKT
 - [queued] normal | Interior Ministry bars provinces from issuing All-Pakistan arms licenc | Thu 19 Nov, 03:16 PM PKT
@@ -385,13 +283,12 @@ First reported by Al Jazeera.
 - [queued] normal | Donald Trump calls for nuclear arms reduction at APEC summit | Thu 19 Nov, 06:18 PM PKT
 
 ## Publishing this run
-- Published 'Suparco Warns of Worsening Smog Across Punjab as Hundreds of Fires Rage'.
+- Published 'Aamer Jamal and Razaullah strike early as Sri Lanka lose two wickets'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4761 | output tokens: 2223
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 0 | output tokens: 0
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=10.8430
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapi
