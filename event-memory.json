@@ -75828,7 +75828,622 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3abbfecafd54aa2204988f54",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T05:31:41+00:00",
+      "last_update": "2026-11-19T11:18:00+00:00",
+      "event": "22 terrorists killed in security operations across KP",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "killed",
+        "operations",
+        "samaa",
+        "security",
+        "terrorists"
+      ],
+      "source_excerpt": "22 terrorists killed in security operations across KP samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXlWaWJkbW9VSzIycnVlVWdJNngtYm9INmZQNlcwY0xhNW1Kb1BMVDU1ck1QSlhvVWpzZU9paFJpaUhnVjl4LUx1M0xldWQ5c2pfUTVPWWw2ckhGaE53M0tCOVJvRzd4T2d1clpIYjJGa0RGYm5EMVVPMnF6YXB5aVljS1p4U0FXSXRDTml3?oc=5",
+          "published_at": "2026-11-19T05:31:41+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcWdUYmNjTXRWR1ItZkVlbUw4XzZtd0Z4RERrLXE3M1JJb3BoV05CNVRCbjFRSEx6R0pwRkhDeGwwRVk2V0pHbzlpelpoR19XS1E2UmRMMzFhdUVzMnpqNlJ4dTA4cnRZdHNwZ0VTaXUxVE9iWExOZUQzaTdiMWgtcnhRdVBEOXBDbnNENFlHTkZ1Vlk?oc=5",
+          "published_at": "2026-11-19T11:18:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXlWaWJkbW9VSzIycnVlVWdJNngtYm9INmZQNlcwY0xhNW1Kb1BMVDU1ck1QSlhvVWpzZU9paFJpaUhnVjl4LUx1M0xldWQ5c2pfUTVPWWw2ckhGaE53M0tCOVJvRzd4T2d1clpIYjJGa0RGYm5EMVVPMnF6YXB5aVljS1p4U0FXSXRDTml3?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "696a19a6051436b89fc3a5d2",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T11:38:09+00:00",
+      "last_update": "2026-11-19T11:38:09+00:00",
+      "event": "Indian driver wins $1.3m in life-changing lottery prize",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "changed",
+        "changing",
+        "diwali",
+        "driver",
+        "fortunes",
+        "have",
+        "indian",
+        "life",
+        "lottery",
+        "northern",
+        "overnight",
+        "prize",
+        "punjab",
+        "state",
+        "the",
+        "truck",
+        "wins",
+        "won"
+      ],
+      "source_excerpt": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T11:38:09+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UN0o5cVROLTgwY09waE9oS1BnNi1OblE5aWpiS0stLWRzR0ljZ2Y1eUx2aTh1VE9tT1dpeHlOUEVvbjkzTnkteGE5MHNfSnJ0QS15TTVaVWw?oc=5",
+          "published_at": "2026-11-19T11:38:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "840d434e94a41f6bd53948ad",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T09:56:00+00:00",
+      "last_update": "2026-11-19T09:56:00+00:00",
+      "event": "Hailey Bieber gets real about internet's 'intense' attention",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "age",
+        "attention",
+        "beauty",
+        "being",
+        "bieber",
+        "built",
+        "but",
+        "candid",
+        "constantly",
+        "empire",
+        "founder",
+        "gets",
+        "glamorous",
+        "got",
+        "hailey",
+        "hasn",
+        "have",
+        "intense",
+        "internet",
+        "learned",
+        "less",
+        "may",
+        "media",
+        "off",
+        "online",
+        "real",
+        "rhode",
+        "she",
+        "side",
+        "social",
+        "something",
+        "still",
+        "switch",
+        "the",
+        "watched"
+      ],
+      "source_excerpt": "Hailey Bieber gets real about internet's 'intense' attention Hailey Bieber may have built a beauty empire in the age of social media, but being constantly watched online is something she still hasn’t learned to switch off. The Rhode founder got candid about the less glamorous side...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691758-hailey-bieber-gets-real-about-internets-intense-attention",
+          "published_at": "2026-11-19T09:56:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691758-hailey-bieber-gets-real-about-internets-intense-attention",
+        "publisher_url": "https://www.geo.tv/latest/691758-hailey-bieber-gets-real-about-internets-intense-attention",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e67cfef27dcd32abe908c9fc",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T11:20:00+00:00",
+      "last_update": "2026-11-19T11:20:00+00:00",
+      "event": "Will laser weapons change warfare?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "change",
+        "countries",
+        "deploying",
+        "how",
+        "increasing",
+        "laser",
+        "lasers",
+        "the",
+        "them",
+        "use",
+        "warfare",
+        "weapons",
+        "which",
+        "will"
+      ],
+      "source_excerpt": "The use of lasers is increasing in warfare — which countries are deploying them and how?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
+          "published_at": "2026-11-19T11:20:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2936ae6e00cfdf5c66f9e81d",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T11:09:00+00:00",
+      "last_update": "2026-11-19T11:09:00+00:00",
+      "event": "Denmark parliament approves security deal with Greenland and US",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "109",
+        "all",
+        "and",
+        "annex",
+        "approved",
+        "approves",
+        "arctic",
+        "danish",
+        "deal",
+        "denmark",
+        "desire",
+        "easing",
+        "greenland",
+        "island",
+        "lawmakers",
+        "over",
+        "parliament",
+        "present",
+        "security",
+        "tensions",
+        "the",
+        "trump",
+        "with"
+      ],
+      "source_excerpt": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump's desire to annex the Arctic island.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
+          "published_at": "2026-11-19T11:09:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6588db0f2a6d277893651532",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T10:42:53+00:00",
+      "last_update": "2026-11-19T10:42:53+00:00",
+      "event": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "and",
+        "candidates",
+        "challengers",
+        "chief",
+        "confirms",
+        "diallo",
+        "election",
+        "fifa",
+        "football",
+        "for",
+        "french",
+        "infantino",
+        "japan",
+        "kozo",
+        "only",
+        "philippe",
+        "presidency",
+        "run",
+        "tashima",
+        "the",
+        "will"
+      ],
+      "source_excerpt": "French football chief Philippe Diallo and Japan's Kozo Tashima will be the only candidates to run for FIFA presidency.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
+          "published_at": "2026-11-19T10:42:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "853c3d87f5e809a4256d9b3f",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T11:18:48+00:00",
+      "last_update": "2026-11-19T11:18:48+00:00",
+      "event": "Surgeon calls for corporate homicide probe over claims NHS Grampian patients unnecessarily bled to death",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "been",
+        "bled",
+        "calls",
+        "claims",
+        "concerns",
+        "corporate",
+        "death",
+        "decade",
+        "for",
+        "government",
+        "grampian",
+        "habib",
+        "had",
+        "homicide",
+        "including",
+        "ministers",
+        "mohammed",
+        "nhs",
+        "over",
+        "patients",
+        "police",
+        "probe",
+        "raising",
+        "said",
+        "surgeon",
+        "unnecessarily",
+        "with"
+      ],
+      "source_excerpt": "Dr Mohammed Habib said he had been raising concerns for a decade, including with government ministers and police.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T11:18:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "187c5faccb0bfce926328940",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T10:55:19+00:00",
+      "last_update": "2026-11-19T10:55:19+00:00",
+      "event": "Tennis my 'saviour' after trying to take my own life - Riedi",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "after",
+        "attempted",
+        "before",
+        "began",
+        "his",
+        "june",
+        "leandro",
+        "life",
+        "own",
+        "player",
+        "qualifying",
+        "riedi",
+        "saviour",
+        "says",
+        "shortly",
+        "sport",
+        "swiss",
+        "take",
+        "tennis",
+        "the",
+        "trying",
+        "was",
+        "wimbledon"
+      ],
+      "source_excerpt": "Swiss tennis player Leandro Riedi says the sport was his \"saviour\" after he attempted to take his own life shortly before Wimbledon qualifying began in June 2024.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/sport/tennis/videos/cw1mdn0n531lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T10:55:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/sport/tennis/videos/cw1mdn0n531lo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/sport/tennis/videos/cw1mdn0n531lo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b6573024751d57fc5f5dcd0",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T11:40:46+00:00",
+      "last_update": "2026-11-19T11:40:46+00:00",
+      "event": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "any",
+        "bioweapons",
+        "claims",
+        "developing",
+        "evidence",
+        "iran",
+        "jazeera",
+        "there",
+        "trump"
+      ],
+      "source_excerpt": "Trump claims Iran is developing bioweapons: Is there any evidence? Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkVwVkxCTGFrV1g3UXk0R0xScDhlZWk4LU9HWWkxazNZLVFVRnAwbWdaWmRHUDR2aUxOQlN6dnZjek1CWkhFZG9ST2t3R1I2WVVpU3YwVUtHYWFMWnlDQS1GLU1iM3pmNWt0eTlQQXYyblJhZFZKUGZRZ1c1VG5jRUtRMVB5YlB5Nnc3dzBFNGJ2RW12MXU5b0VCOFhOV3ppdjFTT3FzbzI0QdIBrwFBVV95cUxPOUtWUVFBVEJRNmQxWjRLaENMZUM0aXpSY1JBM1ZyckFPSWlsc3liODdLOTEyNWhwZUVUVUtSd3A4eEVqMHN4WG16R0JLNjZ2cm5mWjd2bTVTOTQ3NS1Pd2pHSnRFOVF0X2xsM0l5Tl9nRG9sM0wwOEp3TzJfVVNVSmpqd0dYNXdpWkN6WFltVG5LSTl3VVdxbTR6c1dmNk5STWpBVEZyZjc4ZjhBc2xZ?oc=5",
+          "published_at": "2026-11-19T11:40:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkVwVkxCTGFrV1g3UXk0R0xScDhlZWk4LU9HWWkxazNZLVFVRnAwbWdaWmRHUDR2aUxOQlN6dnZjek1CWkhFZG9ST2t3R1I2WVVpU3YwVUtHYWFMWnlDQS1GLU1iM3pmNWt0eTlQQXYyblJhZFZKUGZRZ1c1VG5jRUtRMVB5YlB5Nnc3dzBFNGJ2RW12MXU5b0VCOFhOV3ppdjFTT3FzbzI0QdIBrwFBVV95cUxPOUtWUVFBVEJRNmQxWjRLaENMZUM0aXpSY1JBM1ZyckFPSWlsc3liODdLOTEyNWhwZUVUVUtSd3A4eEVqMHN4WG16R0JLNjZ2cm5mWjd2bTVTOTQ3NS1Pd2pHSnRFOVF0X2xsM0l5Tl9nRG9sM0wwOEp3TzJfVVNVSmpqd0dYNXdpWkN6WFltVG5LSTl3VVdxbTR6c1dmNk5STWpBVEZyZjc4ZjhBc2xZ?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "048f982eac9694bd44b9438a",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T10:44:14+00:00",
+      "last_update": "2026-11-19T11:02:16+00:00",
+      "event": "PM calls economic successes ‘productive partnership’ between political, military hierarchy",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "between",
+        "calls",
+        "dawn",
+        "economic",
+        "hierarchy",
+        "military",
+        "partnership",
+        "political",
+        "productive",
+        "successes"
+      ],
+      "source_excerpt": "PM calls economic successes ‘productive partnership’ between political, military hierarchy Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeW5iekZBNGZUdHMwUUJ3bWtXS2Vha29oMUNrYllnNjdkWHc4WmJrVWVBWEVubGtrVFJ2N0tlU1JLRERiUndaYlMyQkZMVGV3YzREcGd0VFpGaG9HN25QRjE2YUwwN1RIZmV6ZEVScWthYmdKMHhmTTg1ODY3NHEzcUVmaGlTQTJ5NE1kblBuQzQ3bVE2a1RBZnFLYTRpNUJZMVZVeFFFZEwyTzNpaWkwRG83ZUp4dGxncEZfY1NB?oc=5",
+          "published_at": "2026-11-19T10:44:14+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045679/pm-calls-economic-successes-productive-partnership-between-political-military-hierarchy",
+          "published_at": "2026-11-19T11:02:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeW5iekZBNGZUdHMwUUJ3bWtXS2Vha29oMUNrYllnNjdkWHc4WmJrVWVBWEVubGtrVFJ2N0tlU1JLRERiUndaYlMyQkZMVGV3YzREcGd0VFpGaG9HN25QRjE2YUwwN1RIZmV6ZEVScWthYmdKMHhmTTg1ODY3NHEzcUVmaGlTQTJ5NE1kblBuQzQ3bVE2a1RBZnFLYTRpNUJZMVZVeFFFZEwyTzNpaWkwRG83ZUp4dGxncEZfY1NB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "39408ea1d98c917af36cc619",
+      "remembered_at": "2026-11-19T11:43:07.722353+00:00",
+      "event_date": "2026-11-19T11:38:29+00:00",
+      "last_update": "2026-11-19T11:38:29+00:00",
+      "event": "MQM-P's Khalid Maqbool urges courts to take notice of Bilawal's 'bloodshed' remark",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "among",
+        "bhutto",
+        "bilawal",
+        "bloodshed",
+        "chairman",
+        "chief",
+        "courts",
+        "covered",
+        "creation",
+        "during",
+        "garbage",
+        "khalid",
+        "latter",
+        "made",
+        "maqbool",
+        "matters",
+        "movement",
+        "mqm",
+        "muttahida",
+        "new",
+        "notice",
+        "other",
+        "pakistan",
+        "ppp",
+        "provinces",
+        "qaumi",
+        "remark",
+        "siddiqui",
+        "speech",
+        "take",
+        "talk",
+        "that",
+        "the",
+        "thursday",
+        "urged",
+        "urges",
+        "which",
+        "zardari"
+      ],
+      "source_excerpt": "Muttahida Qaumi Movement-Pakistan (MQM-P) chief Dr Khalid Maqbool Siddiqui on Thursday urged the courts to take notice of PPP Chairman Bilawal Bhutto-Zardari’s remark, which the latter made during a speech that covered the creation of new provinces, among other matters. “We talk about the garbage on",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045670/mqm-ps-khalid-maqbool-urges-courts-to-take-notice-of-bilawals-bloodshed-remark",
+          "published_at": "2026-11-19T11:38:29+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnZxZTFGdGs1cXJVMlZ6cV9SenhadERtOHJBM1VUaVN0bG5FSlcxN0EyMkVrRVRMUWJxYjhRUmJQLTREOHBhYjFMZEFLd0xlZE9qS1B3OHc4bnQ2OGVIMF9ialIwMTFsNjRYWFc1cGVNVVd4TWRwUTFiNEtWVXg4V2tWczluZkFoSHFha0NhR01oZGI0UGZ5WTlzUmlCTERxTnV6cDJtRGtEZk1tSXB1QVFR?oc=5",
+          "published_at": "2026-11-19T11:38:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045670/mqm-ps-khalid-maqbool-urges-courts-to-take-notice-of-bilawals-bloodshed-remark",
+        "publisher_url": "https://www.dawn.com/news/2045670/mqm-ps-khalid-maqbool-urges-courts-to-take-notice-of-bilawals-bloodshed-remark",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T10:44:17.395291+00:00"
+  "updated_at": "2026-11-19T11:43:07.722353+00:00"
 }

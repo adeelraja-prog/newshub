@@ -1,144 +1,143 @@
-# News Hub report - Thu 19 Nov, 03:44 PM PKT
+# News Hub report - Thu 19 Nov, 04:43 PM PKT
 
 ## Collection
-- New items this run: 118 | items in rolling pool: 617
-- Unique story clusters: 493 (duplicates merged: 124)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 57, ProPakistani 10, Al Jazeera 5, samaa tv 4, ARY News 4, Wired 4, Dawn Latest 3, Geo News 3, ARYnews.tv 2, Dawn Pakistan 2, WRAL 2, PhoneWorld 2
+- New items this run: 99 | items in rolling pool: 694
+- Unique story clusters: 562 (duplicates merged: 132)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 18, Geo News 16, ProPakistani 10, TechJuice 6, samaa tv 4, The News International 4, ARY News 4, Al Jazeera 4, The Current 3, Dawn 2, Dawn Pakistan 2, X 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Oil prices rise as Middle East shipping attacks counter supply surplus outlook | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asim Munir stresses military's support for Balochistan peace, development | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 22 terrorists killed in security operations across KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Large amount of suspected donkey meat seized in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab launches online route permit system for transport operators | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indian driver wins $1.3m in life-changing lottery prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hailey Bieber gets real about internet's 'intense' attention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Oil prices rise as Middle East shipping attacks counter supply surplus outlook | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asim Munir stresses military's support for Balochistan peace, development | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 22 terrorists killed in security operations across KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Large amount of suspected donkey meat seized in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab launches online route permit system for transport operators | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indian driver wins $1.3m in life-changing lottery prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hailey Bieber gets real about internet's 'intense' attention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Oil prices rise as Middle East shipping attacks counter supply surplus outlook | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir briefed on ongoing operations during Turbat visit: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asim Munir stresses military's support for Balochistan peace, development | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 22 terrorists killed in security operations across KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Large amount of suspected donkey meat seized in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab launches online route permit system for transport operators | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indian driver wins $1.3m in life-changing lottery prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hailey Bieber gets real about internet's 'intense' attention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Security Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Oil prices rise as Middle East shipping attacks counter supply surplus outlook  [NORMAL]
-- Poster: م مشرق میں بحری جہازوں پر حملوں کے بعد تیل کی قیمتوں میں اضافہ / Oil prices rise amid Middle East shipping attacks | category economy
-- Alternative headline: Oil prices steady as Middle East shipping attacks counter supply surplus outlook
+### 22 terrorists killed in security operations across KP  [NORMAL]
+- Poster: کے پی میں سکیورٹی آپریشنز کے دوران 22 دہشت گرد ہلاک / 22 terrorists killed in KP security operations | category security
+- Alternative headline: ISPR reports 22 terrorists killed in multiple KP operations
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMingFBVV95cUxQT2RKcWkwSGlKYmRGRzk0enpkdGZTeVhNZG9SOUUtWF9PSGhGU3FqOFU3OXotTVRKSlBFSWlWR05aVzFrMTh0WVc3eFl4RWN5RDU1bGdxRnJCMXRLTndiVE1MUlJaMjJ5Z2JsMWtaNU44ZFFTV0NBVmdOSE53UXhwUmkzSGJzbGxISmptMlZxUXNyUmc4VGZWMElhR3NUZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMingFBVV95cUxQT2RKcWkwSGlKYmRGRzk0enpkdGZTeVhNZG9SOUUtWF9PSGhGU3FqOFU3OXotTVRKSlBFSWlWR05aVzFrMTh0WVc3eFl4RWN5RDU1bGdxRnJCMXRLTndiVE1MUlJaMjJ5Z2JsMWtaNU44ZFFTV0NBVmdOSE53UXhwUmkzSGJzbGxISmptMlZxUXNyUmc4VGZWMElhR3NUZw?oc=5
-- Supporting coverage: Profit by Pakistan Today, ARYnews.tv, ARY News
-- Keywords: oil prices, Middle East, shipping attacks, crude oil, supply surplus, economy | hashtags: #OilPrices #MiddleEast #Economy #GlobalMarkets #Energy
-- Scheduled: Thu 19 Nov, 03:44 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXlWaWJkbW9VSzIycnVlVWdJNngtYm9INmZQNlcwY0xhNW1Kb1BMVDU1ck1QSlhvVWpzZU9paFJpaUhnVjl4LUx1M0xldWQ5c2pfUTVPWWw2ckhGaE53M0tCOVJvRzd4T2d1clpIYjJGa0RGYm5EMVVPMnF6YXB5aVljS1p4U0FXSXRDTml3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXlWaWJkbW9VSzIycnVlVWdJNngtYm9INmZQNlcwY0xhNW1Kb1BMVDU1ck1QSlhvVWpzZU9paFJpaUhnVjl4LUx1M0xldWQ5c2pfUTVPWWw2ckhGaE53M0tCOVJvRzd4T2d1clpIYjJGa0RGYm5EMVVPMnF6YXB5aVljS1p4U0FXSXRDTml3?oc=5
+- Supporting coverage: samaa tv, The Express Tribune
+- Keywords: terrorism, security operations, Khyber Pakhtunkhwa, ISPR, militants | hashtags: #KP #SecurityForces #Pakistan #CounterTerrorism
+- Scheduled: Thu 19 Nov, 04:43 PM PKT
 - Caption:
 ```
-Global oil prices climbed as escalating shipping attacks in the Middle East countered expectations of a supply surplus.
+Security forces have successfully neutralized 22 terrorists during intelligence-based operations across Khyber Pakhtunkhwa.
 
-Global oil prices rose as ongoing shipping attacks in the Middle East countered expectations of a supply surplus. The tension in vital shipping routes offset market projections of oversupply, pushing crude values upward according to recent reports.
+At least 22 terrorists were killed during security operations conducted across Khyber Pakhtunkhwa. The operations reflect ongoing counter-terrorism efforts by security forces to eradicate militant threats in the region and maintain law and order.
 
-مڈل ایسٹ میں بحری جہازوں پر حملوں کی وجہ سے تیل کی قیمتوں میں اضافہ ریکارڈ کیا گیا ہے، جس نے رسد میں اضافے کے امکانات کو زائل کر دیا۔
+خیبر پختونخوا میں سکیورٹی فورسز کے مختلف آپریشنز کے دوران کم از کم 22 دہشت گرد ہلاک کر دیے گئے۔ یہ کارروائیاں خطے میں عسکریت پسندوں کے خاتمے اور امن و امان کے قیام کے لیے جاری کوششوں کا حصہ ہیں۔
 
-First reported by ARYnews.tv
+According to Samaa TV
 
-#OilPrices #MiddleEast #Economy #GlobalMarkets #Energy
+#KP #SecurityForces #Pakistan #CounterTerrorism
 ```
 
-### Elon Musk says record spending on US midterms was 'pretty foolish'  [NORMAL]
-- Poster: ایلون مسک کا امریکی انتخابات میں ریکارڈ اخراجات پر افسوس کا اظہار / Elon Musk regrets record US election spending | category us_politics
-- Alternative headline: Musk says he feels ‘pretty foolish’ for failed US election spending
+### Large amount of suspected donkey meat seized in Islamabad  [NORMAL]
+- Poster: اسلام آباد میں چھاپے کے دوران مبینہ گدھے کا گوشت برآمد / Suspected donkey meat seized in Islamabad raid | category crime
+- Alternative headline: Islamabad raid leads to seizure of suspected donkey meat
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmdCTnhQRjFLNVdOLWRpUUNiOXlwaThzMS1ZYU1KTURfNkVZWFFtajFtYllrYUVCYkl0bFpleHBTQm1yN25OMUtNc05sT0FxektHVi1FV2xpemUyd3d3OU9XNUE3MTRHbnU4UGZCaHg5U0Z5bGZZcnFVR2o0MnRKSnRHd1RsX05qa3Q5dlVRdldPQU11bUE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmdCTnhQRjFLNVdOLWRpUUNiOXlwaThzMS1ZYU1KTURfNkVZWFFtajFtYllrYUVCYkl0bFpleHBTQm1yN25OMUtNc05sT0FxektHVi1FV2xpemUyd3d3OU9XNUE3MTRHbnU4UGZCaHg5U0Z5bGZZcnFVR2o0MnRKSnRHd1RsX05qa3Q5dlVRdldPQU11bUE?oc=5
+- Supporting coverage: Dawn, Geo News, Geo News
+- Keywords: donkey meat, Islamabad, food safety, police raid, meat seizure | hashtags: #Islamabad #FoodSafety #Crime #Pakistan
+- Scheduled: Thu 19 Nov, 04:53 PM PKT
+- Caption:
+```
+Authorities have seized a large quantity of suspected donkey meat during a raid in Islamabad.
+
+A large amount of suspected donkey meat was seized during a raid in Islamabad. Authorities are investigating the source and intended distribution of the meat to ensure public health and safety standards are enforced.
+
+اسلام آباد میں ایک چھاپے کے دوران مبینہ طور پر گدھے کے گوشت کی بڑی مقدار برآمد کر لی گئی۔ حکام اس بات کی تحقیقات کر رہے ہیں کہ یہ گوشت کہاں سے لایا جا رہا تھا اور کہاں سپلائی کیا جانا تھا۔
+
+First reported by Dawn; also reported by Geo News
+
+#Islamabad #FoodSafety #Crime #Pakistan
+```
+
+### Punjab launches online route permit system for transport operators  [NORMAL]
+- Poster: پنجاب حکومت کا ٹرانسپورٹرز کے لیے آن لائن روٹ پرمٹ سسٹم کا اجراء / Punjab launches online route permit system for transporters | category tech
+- Alternative headline: How to apply for vehicle route permits online in Punjab
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/punjab-launches-online-route-permit-system-for-transport-operators | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/punjab-launches-online-route-permit-system-for-transport-operators
+- Supporting coverage: ARY News, ProPakistani
+- Keywords: route permit, Punjab government, online portal, transport operators, Maryam Nawaz | hashtags: #Punjab #OnlineSystem #Transport #MaryamNawaz
+- Scheduled: Thu 19 Nov, 05:03 PM PKT
+- Caption:
+```
+The Punjab government has introduced a digital online route permit system to simplify applications for transport operators.
+
+The Punjab government has launched an Online Route Permit System under Chief Minister Maryam Nawaz Sharif’s Transport Vision 2030. The digital initiative allows transport operators to apply for route permits conveniently from home in three simple steps without visiting government offices.
+
+پنجاب حکومت نے وزیر اعلیٰ مریم نواز شریف کے ٹرانسپورٹ ویژن 2030 کے تحت آن لائن روٹ پرمٹ سسٹم کا آغاز کر دیا ہے۔ اس ڈیجیٹل اقدام سے ٹرانسپورٹرز گھر بیٹھے تین آسان مراحل میں روٹ پرمٹ کے لیے درخواست دے سکتے ہیں۔
+
+First reported by ARY News; also reported by ProPakistani
+
+#Punjab #OnlineSystem #Transport #MaryamNawaz
+```
+
+### Indian truck driver wins $1.3m lottery, plans to keep working  [NORMAL]
+- Poster: بھارتی ٹرک ڈرائیور نے 13 لاکھ ڈالر کی لاٹری جیت لی / Indian truck driver wins $1.3m lottery prize | category other
+- Alternative headline: Indian driver wins $1.3m in life-changing lottery prize
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology, Al Jazeera, ARY News
-- Keywords: Elon Musk, US midterms, election spending, Donald Trump, MAGA, politics | hashtags: #ElonMusk #USPolitics #Midterms #BreakingNews #USA
-- Scheduled: Thu 19 Nov, 03:54 PM PKT
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business, BBC
+- Keywords: lottery win, truck driver, Punjab, Baljinder Singh, prize money | hashtags: #Lottery #India #Inspiring #News
+- Scheduled: Thu 19 Nov, 05:13 PM PKT
 - Caption:
 ```
-Tech billionaire Elon Musk admitted he feels pretty foolish about his record spending on US midterm elections following Republican defeats.
+An Indian truck driver from Punjab has won a massive $1.3 million lottery prize, but vows to continue his job.
 
-Tesla and SpaceX chief executive Elon Musk stated that he felt 'pretty foolish' about spending a record $446 million on the US midterm elections. Musk, the top individual donor supporting President Donald Trump's party, also clarified that he is not part of the MAGA movement after sweeping Democratic victories.
+Baljinder Singh, a truck driver from India's Punjab state, won a 120 million rupee ($1.3m) lottery using a ticket that cost just 500 rupees. Despite the massive win, Singh stated he plans to continue working as a truck driver while celebrations take place at his home.
 
-ٹیسلا کے سربراہ ایلون مسک نے کہا ہے کہ وہ امریکی وسطی مدتی انتخابات میں 446 ملین ڈالر کی ریکارڈ رقم خرچ کرنے پر خود کو بیوقوف محسوس کرتے ہیں۔
+بھارتی ریاست پنجاب سے تعلق رکھنے والے ٹرک ڈرائیور بلجندر سنگھ نے صرف 500 روپے کا ٹکٹ خرید کر 12 کروڑ روپے (13 لاکھ ڈالر) کی لاٹری جیت لی ہے۔ اتنی بڑی رقم جیتنے کے باوجود بلجندر کا کہنا ہے کہ وہ بطور ٹرک ڈرائیور اپنا کام جاری رکھیں گے۔
 
-First reported by BBC Technology
+According to BBC Business
 
-#ElonMusk #USPolitics #Midterms #BreakingNews #USA
+#Lottery #India #Inspiring #News
 ```
 
-### Two PTI-affiliated Pakistanis detained in UAE over state security, LHC told  [NORMAL]
-- Poster: متحدہ عرب امارات میں دو پاکستانی شہریوں کی گرفتاری پر عدالت کو آگاہ کر دیا گیا / Two PTI-affiliated Pakistanis detained in UAE | category courts
-- Alternative headline: MoFA informs LHC about two PTI-affiliated Pakistanis detained in UAE
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045659/two-pti-affiliated-pakistanis-detained-in-uae-over-state-security-cases-lhc-told | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2045659/two-pti-affiliated-pakistanis-detained-in-uae-over-state-security-cases-lhc-told
-- Supporting coverage: Dawn Latest, Dawn
-- Keywords: UAE detention, PTI, Lahore High Court, MoFA, state security, Pakistan | hashtags: #PTI #LHC #UAE #ForeignOffice #Pakistan
-- Scheduled: Thu 19 Nov, 04:04 PM PKT
-- Caption:
-```
-The Ministry of Foreign Affairs informed the Lahore High Court that two PTI-affiliated Pakistanis are detained in the UAE over state security cases.
-
-The Ministry of Foreign Affairs informed the Lahore High Court that two Pakistani citizens affiliated with the PTI are detained in Abu Dhabi over state security cases. The ministry stated diplomatic norms prevent interference, while family counsel expressed frustration over lack of charge sheets.
-
-وزارت خارجہ نے لاہور ہائیکورٹ کو بتایا ہے کہ پی ٹی آئی سے وابستہ دو پاکستانی شہری متحدہ عرب امارات میں ریاستی سیکیورٹی کے مقدمات میں زیر حتم ہیں۔
-
-First reported by Dawn Latest
-
-#PTI #LHC #UAE #ForeignOffice #Pakistan
-```
-
-### CDF Munir briefed on ongoing operations during Turbat visit, says ISPR  [NORMAL]
-- Poster: آرمی چیف کو دورہ تربت کے دوران جاری آپریشنز پر بریفنگ دی گئی / CDF Munir briefed on operations during Turbat visit | category security
-- Alternative headline: CDF Munir briefed on ongoing security operations during Balochistan visit
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDBkRDZEdnlYZ19KVkdBcl9lY09GUVdQa3NaaG50VlBmMlMzY0piSk5zcEg2YkE4QUhwVHdYSkxtNVRrZ2JDVmRqSDhmeFdhTmU5TVVPUVBybjd6VzJLN3paZjFHZEtqVW11TEtQd3hHRWg4VHNlelI1NmlqOTJlQzlDYm9SaW5HNFBrSHpxU1FYa3JVY2QyOEQyRzJlT00?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDBkRDZEdnlYZ19KVkdBcl9lY09GUVdQa3NaaG50VlBmMlMzY0piSk5zcEg2YkE4QUhwVHdYSkxtNVRrZ2JDVmRqSDhmeFdhTmU5TVVPUVBybjd6VzJLN3paZjFHZEtqVW11TEtQd3hHRWg4VHNlelI1NmlqOTJlQzlDYm9SaW5HNFBrSHpxU1FYa3JVY2QyOEQyRzJlT00?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan, Dawn
-- Keywords: CDF Munir, Turbat, ISPR, Balochistan, security operations, military | hashtags: #CDFMunir #ISPR #Turbat #Balochistan #Security
-- Scheduled: Thu 19 Nov, 04:14 PM PKT
-- Caption:
-```
-Chief of Defence Forces General Munir was briefed on ongoing security operations during his visit to Turbat, according to ISPR.
-
-According to the Inter-Services Public Relations (ISPR), Chief of Defence Forces Munir was briefed on ongoing security operations during an official visit to Turbat in Balochistan, focusing on the regional security situation and counter-terrorism measures.
-
-آئی ایس پی آر کے مطابق، آرمی چیف منیر کو تربت کے دورے کے دوران جاری سیکورٹی آپریشنز اور ملکی دفاعی صورتحال پر بریفنگ دی گئی۔
-
-First reported by Dawn
-
-#CDFMunir #ISPR #Turbat #Balochistan #Security
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
-- [needs_review] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
-- [needs_review] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
 - [needs_review] normal | Iraqi armed group denies involvement in oil smuggling, calls probe a ‘ | Mon 16 Nov, 10:41 AM PKT
 - [needs_review] normal | Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in  | Mon 16 Nov, 10:51 AM PKT
 - [needs_review] normal | Pope Leo flies to mass in the Papacoptero | Mon 16 Nov, 11:01 AM PKT
@@ -148,7 +147,6 @@ First reported by Dawn
 - [needs_review] normal | Iran war live: Third US carrier arrives, Iran warns it could strike fi | Mon 16 Nov, 02:58 PM PKT
 - [needs_review] normal | Pakistan Shaheens leave for Rising Stars Asia Cup | Mon 16 Nov, 03:18 PM PKT
 - [needs_review] normal | Australia, UK, Canada, Italy urge Israel to allow 'rapid' Gaza aid acc | Mon 16 Nov, 03:28 PM PKT
-- [published] normal | 13-year-old girl's murder case: Islamabad court grants police 4-day ph | Mon 16 Nov, 04:24 PM PKT
 - [needs_review] normal | Action against terrorism must for economic cooperation with Afghanista | Mon 16 Nov, 04:34 PM PKT
 - [needs_review] normal | In open letter to FCC, SC and IHC chief justices, Imran pleads for med | Mon 16 Nov, 04:44 PM PKT
 - [needs_review] normal | Prince and Princess of Wales play street cricket in Mumbai | Mon 16 Nov, 04:54 PM PKT
@@ -359,10 +357,10 @@ First reported by Dawn
 - [needs_review] normal | Poll tribunal suspends election results of GBA-16 and Diamer-II | Thu 19 Nov, 09:13 AM PKT
 - [needs_review] normal | Elon Musk calls record spending on US midterms pretty foolish | Thu 19 Nov, 09:23 AM PKT
 - [published] normal | FBISE Introduces On-the-Spot Printing of Exam Papers to Prevent Leaks | Thu 19 Nov, 09:59 AM PKT
-- [queued] normal | Man arrested for allegedly sexually abusing boy in Rawalpindi | Thu 19 Nov, 10:09 AM PKT
-- [queued] normal | Punjab CM approves panchayat system to resolve disputes | Thu 19 Nov, 10:19 AM PKT
-- [queued] normal | Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case | Thu 19 Nov, 10:29 AM PKT
-- [queued] normal | Top UN court to rule on alleged genocide of Myanmar's Rohingya | Thu 19 Nov, 11:03 AM PKT
+- [needs_review] normal | Man arrested for allegedly sexually abusing boy in Rawalpindi | Thu 19 Nov, 10:09 AM PKT
+- [needs_review] normal | Punjab CM approves panchayat system to resolve disputes | Thu 19 Nov, 10:19 AM PKT
+- [needs_review] normal | Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case | Thu 19 Nov, 10:29 AM PKT
+- [published] normal | Top UN court to rule on alleged genocide of Myanmar's Rohingya | Thu 19 Nov, 11:03 AM PKT
 - [queued] normal | Trump wants to talk nuclear with Putin and Xi | Thu 19 Nov, 11:13 AM PKT
 - [queued] normal | Rangers arrest TTP terrorist in Karachi's Manghopir | Thu 19 Nov, 11:23 AM PKT
 - [queued] normal | Search underway after unidentified flying object spotted over Sahiwal  | Thu 19 Nov, 11:33 AM PKT
@@ -378,15 +376,16 @@ First reported by Dawn
 - [queued] normal | Elon Musk says record spending on US midterms was 'pretty foolish' | Thu 19 Nov, 03:54 PM PKT
 - [queued] normal | Two PTI-affiliated Pakistanis detained in UAE over state security, LHC | Thu 19 Nov, 04:04 PM PKT
 - [queued] normal | CDF Munir briefed on ongoing operations during Turbat visit, says ISPR | Thu 19 Nov, 04:14 PM PKT
+- [queued] normal | 22 terrorists killed in security operations across KP | Thu 19 Nov, 04:43 PM PKT
+- [queued] normal | Large amount of suspected donkey meat seized in Islamabad | Thu 19 Nov, 04:53 PM PKT
+- [queued] normal | Punjab launches online route permit system for transport operators | Thu 19 Nov, 05:03 PM PKT
+- [queued] normal | Indian truck driver wins $1.3m lottery, plans to keep working | Thu 19 Nov, 05:13 PM PKT
 
 ## Publishing this run
-- Published 'FBISE Introduces On-the-Spot Printing of Exam Papers to Prevent Leaks'.
+- Published 'Top UN court to rule on alleged genocide of Myanmar's Rohingya'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6037 | output tokens: 2102
+- Calls: 3 | prompt tokens: 5076 | output tokens: 2559
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
