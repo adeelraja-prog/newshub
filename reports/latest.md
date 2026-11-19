@@ -1,50 +1,142 @@
-# News Hub report - Fri 20 Nov, 12:25 AM PKT
+# News Hub report - Fri 20 Nov, 01:26 AM PKT
 
 ## Collection
-- New items this run: 78 | items in rolling pool: 855
-- Unique story clusters: 720 (duplicates merged: 135)
-- Clusters dropped as already published/queued: 11; unchanged since last analysis: 7
-- Items per outlet: Geo News 8, ARY News 6, Al Jazeera 6, The Verge 6, Pakistan Today 5, UrduPoint 4, BBC 4, TechJuice 3, Profit by Pakistan Today 3, The News International 2, Engadget 2, The Times of Israel 2
+- New items this run: 56 | items in rolling pool: 735
+- Unique story clusters: 619 (duplicates merged: 116)
+- Clusters dropped as already published/queued: 7; unchanged since last analysis: 5
+- Items per outlet: Al Jazeera 9, The Verge 5, The Express Tribune 4, ARY News 3, Engadget 2, Ars Technica 2, Toronto Star 2, samaa tv 1, Dawn Pakistan 1, Dawn Latest 1, Geo News 1, The Guardian 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
 - President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore named ECO Tourism Capital for 2027, to host year-long cultural events | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICJ finds Myanmar guilty for genocide against Rohingya minority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US military spending on Iran war crosses $48 billion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Europe ready for talks with Russia on ending war in Ukraine, leaders say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Middle East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore named ECO Tourism Capital for 2027, to host year-long cultural events | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICJ finds Myanmar guilty for genocide against Rohingya minority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US military spending on Iran war crosses $48 billion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Europe ready for talks with Russia on ending war in Ukraine, leaders say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Middle East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - President Zardari, PM Shehbaz agree on resolving all matters through dialogue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore named ECO Tourism Capital for 2027, to host year-long cultural events | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICJ finds Myanmar guilty for genocide against Rohingya minority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US military spending on Iran war crosses $48 billion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Europe ready for talks with Russia on ending war in Ukraine, leaders say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Middle East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 2 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: ARY News | HTTP/status=200 | entries=81 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 2 items
+### President Zardari and PM Shehbaz agree to resolve all matters through dialogue  [NORMAL]
+- Poster: صدر زرداری اور وزیراعظم شہباز شریف کا تمام مسائل بات چیت سے حل کرنے پر اتفاق / Zardari and Shehbaz agree to resolve issues via dialogue | category politics
+- Alternative headline: President and Prime Minister agree on political dialogue amidst rising tensions
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirwFBVV95cUxNeE95VjJDTjNzd0JkaXFOLXhyLWkyajNSeWVYU3BHeGs3dXlvZWpUY2xHcXBncGEwSjh2eEZGUjk0OGdHcDhjeHN1Uy1tS3Bub2Z5XzUzNTFqT0cyZUZBNV9BTE1wdWJQbmhwLWZQQnNYWFg5clM2OEhqNW9mSjdyd19wbnRIMzgxeGl2Wm5ValpKZ1pzeVhYeW5yaUVVaV9FYTBkdDVrbnFRS2Y5bDJJ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMirwFBVV95cUxNeE95VjJDTjNzd0JkaXFOLXhyLWkyajNSeWVYU3BHeGs3dXlvZWpUY2xHcXBncGEwSjh2eEZGUjk0OGdHcDhjeHN1Uy1tS3Bub2Z5XzUzNTFqT0cyZUZBNV9BTE1wdWJQbmhwLWZQQnNYWFg5clM2OEhqNW9mSjdyd19wbnRIMzgxeGl2Wm5ValpKZ1pzeVhYeW5yaUVVaV9FYTBkdDVrbnFRS2Y5bDJJ?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, samaa tv, Dawn Pakistan, ARY News, The Express Tribune
+- Keywords: dialogue, President Zardari, PM Shehbaz, political issues, Pakistan politics | hashtags: #Pakistan #Politics #Zardari #ShehbazSharif
+- Scheduled: Fri 20 Nov, 01:26 AM PKT
+- Caption:
+```
+President Asif Ali Zardari and Prime Minister Shehbaz Sharif have agreed to resolve all political matters through dialogue amid rising political temperatures.
+
+President Asif Ali Zardari and Prime Minister Shehbaz Sharif held a meeting where they reached a mutual consensus to settle all outstanding political issues through dialogue. The decision comes at a time when political temperatures in the country have been rising.
+
+صدر آصف علی زرداری اور وزیراعظم شہباز شریف کے درمیان ہونے والی ملاقات میں تمام سیاسی امور بات چیت کے ذریعے حل کرنے پر اتفاق کیا گیا ہے۔ یہ فیصلہ ایسے وقت میں سامنے آیا ہے جب ملک میں سیاسی درجہ حرارت بڑھ رہا ہے۔
+
+First reported by Dawn
+
+#Pakistan #Politics #Zardari #ShehbazSharif
+```
+
+### ICJ finds Myanmar guilty of genocide against the Rohingya minority  [NORMAL]
+- Poster: عالمی عدالت کا میانمار کو روہنگیا مسلمانوں کی نسل کشی کا مرتکب قرار دینے کا فیصلہ / ICJ finds Myanmar guilty of Rohingya genocide | category world
+- Alternative headline: UN top court convicts Myanmar of genocidal intent against Rohingya
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The News International https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdktSQTZzNkcwUHVReWd5eEpMQ2FaMEplTFZqcjdlN0VZbkVFcHo0TW10ZWpxZTZQU1ppbE42YTdfTjY0OFBwTy1UTno1ZTBWcndoMW5VRllRbnJ4Vjlxdlo0TDl2Smc1Q2czeUpFSmtaZlVNZHh6VDdQSU5weEtBWnk3Z2NGNVdwLWxwcTNjVHZXOFYzb1EtSjZuODh1ZS1GVlAtZG9XYU_SAaQBQVVfeXFMT3VsbUZEd3JjNnZYVW1fUG1KRDlVSlNYMmF1TEw2Q29mVEhrSXZiVFVla25iUm5hWUlpY2JuazhkbUF1enZtVVZZaGIzRHRFNFVQQWFDQkRORGsxX1JiV2tFQkstY0lkWG1OT2tuZVFyaUVnVnNTTl9sV2llcTNZcE5QandQeG5tdDlQd3BIZXFlaGZwRmlTZVJOX19xTFlxVmsxTDM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The News International https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdktSQTZzNkcwUHVReWd5eEpMQ2FaMEplTFZqcjdlN0VZbkVFcHo0TW10ZWpxZTZQU1ppbE42YTdfTjY0OFBwTy1UTno1ZTBWcndoMW5VRllRbnJ4Vjlxdlo0TDl2Smc1Q2czeUpFSmtaZlVNZHh6VDdQSU5weEtBWnk3Z2NGNVdwLWxwcTNjVHZXOFYzb1EtSjZuODh1ZS1GVlAtZG9XYU_SAaQBQVVfeXFMT3VsbUZEd3JjNnZYVW1fUG1KRDlVSlNYMmF1TEw2Q29mVEhrSXZiVFVla25iUm5hWUlpY2JuazhkbUF1enZtVVZZaGIzRHRFNFVQQWFDQkRORGsxX1JiV2tFQkstY0lkWG1OT2tuZVFyaUVnVnNTTl9sV2llcTNZcE5QandQeG5tdDlQd3BIZXFlaGZwRmlTZVJOX19xTFlxVmsxTDM?oc=5
+- Supporting coverage: The News International, Al Jazeera, The Express Tribune, Al Jazeera
+- Keywords: ICJ ruling, Myanmar, Rohingya, genocide, UN court | hashtags: #ICJ #Myanmar #Rohingya #Genocide
+- Scheduled: Fri 20 Nov, 01:36 AM PKT
+- Caption:
+```
+The International Court of Justice has found Myanmar guilty of genocide against the Rohingya minority in a historic ruling.
+
+The International Court of Justice (ICJ) has delivered a landmark verdict finding Myanmar guilty of genocide against the Rohingya Muslim minority. The ruling has been welcomed by UN officials and world leaders, marking a significant step toward accountability.
+
+عالمی عدالت انصاف (آئی سی جے) نے ایک تاریخی فیصلے میں میانمار کو روہنگیا اقلیت کے خلاف نسل کشی کا مرتکب قرار دیا ہے۔ اس فیصلے کا اقوام متحدہ کے حکام اور عالمی رہنماؤں نے خیرمقدم کیا ہے۔
+
+First reported by The News International
+
+#ICJ #Myanmar #Rohingya #Genocide
+```
+
+### US military spending on the Iran war crosses $48 billion  [NORMAL]
+- Poster: امریکہ کی ایران جنگ پر فوجی اخراجات اڑتالیس ارب ڈالر سے تجاوز کر گئے / US military spending on Iran war crosses $48 billion | category war
+- Alternative headline: Pentagon reveals US military spending on Iran conflict exceeds $48 billion
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiekFVX3lxTE03NzVwZGFmeV9LdEp3UWVIaUk1bWtFOWJPZE1JOEhDNi1CR0NtOXpVbHFEWHJqVFNPUVc1WmtSNmFVRk5PY2FCX0ZxYXRXTTFxdkV2T1AxcGUxUUJfdjYzMGVyLWRJMVl0VVZRNzdiTjA3MFVzY1JUTFNn?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiekFVX3lxTE03NzVwZGFmeV9LdEp3UWVIaUk1bWtFOWJPZE1JOEhDNi1CR0NtOXpVbHFEWHJqVFNPUVc1WmtSNmFVRk5PY2FCX0ZxYXRXTTFxdkV2T1AxcGUxUUJfdjYzMGVyLWRJMVl0VVZRNzdiTjA3MFVzY1JUTFNn?oc=5
+- Supporting coverage: ARYnews.tv, ARY News, The Times of Israel, Kurdistan24
+- Keywords: US military spending, Iran war, Pentagon, military budget | hashtags: #USMilitary #IranWar #Pentagon #DefenseSpending
+- Scheduled: Fri 20 Nov, 01:46 AM PKT
+- Caption:
+```
+US military spending on the conflict against Iran has officially surpassed $48 billion, according to official reports.
+
+Official reports reveal that US military spending on the ongoing war against Iran has crossed the $48 billion mark. The staggering figure highlights the massive financial cost of the military engagement as reported by defense sources.
+
+رپورٹس کے مطابق ایران کے خلاف جنگ پر امریکی فوجی اخراجات اڑتالیس ارب ڈالر سے تجاوز کر گئے ہیں۔ یہ اعداد و شمار اس فوجی تنازع کے بھاری مالی بوجھ کو ظاہر کرتے ہیں۔
+
+First reported by ARYnews.tv
+
+#USMilitary #IranWar #Pentagon #DefenseSpending
+```
+
+### European leaders say Europe is ready for talks with Russia on ending the Ukraine war  [NORMAL]
+- Poster: یورپی رہنماؤں کا یوکرین جنگ کے خاتمے کے لیے روس سے مذاکرات پر آمادگی کا اظہار / Europe ready for talks with Russia on Ukraine war | category world
+- Alternative headline: Europe ready to enter negotiations to help end Russia's war in Ukraine
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss
+- Supporting coverage: Sky News, BBC World, BBC, BBC
+- Keywords: Ukraine war, Europe, Russia talks, peace negotiations | hashtags: #UkraineWar #Russia #Europe #PeaceTalks
+- Scheduled: Fri 20 Nov, 01:56 AM PKT
+- Caption:
+```
+European leaders have announced they are ready to engage in negotiations with Russia to help end the war in Ukraine.
+
+European leaders meeting at a summit in Berlin have stated their readiness to enter negotiations with Russia to end the war in Ukraine. While US President Donald Trump pushes for a deal, Russian President Vladimir Putin has previously resisted European participation in peace talks.
+
+برلن میں ہونے والے سربراہ اجلاس میں یورپی رہنماؤں نے یوکرین کی جنگ ختم کرنے کے لیے روس کے ساتھ مذاکرات کے لیے تیار ہونے کا اعلان کیا ہے۔ امریکی صدر ڈونلڈ ٹرمپ کی جانب سے سمجھوتہ کرنے کی کوششیں بھی جاری ہیں۔
+
+First reported by BBC World
+
+#UkraineWar #Russia #Europe #PeaceTalks
+```
+
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 0 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
+- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 3
 
 ## Queue status
-- [needs_review] normal | SBP says inflation to ease to 5-7pc target range during FY2027 | Mon 16 Nov, 06:45 PM PKT
-- [needs_review] normal | PM Shehbaz approves facilitation centres for SMEs at district level | Mon 16 Nov, 06:55 PM PKT
-- [needs_review] normal | Punjab orders recall of five medicines over quality, safety concerns | Mon 16 Nov, 07:05 PM PKT
 - [needs_review] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
 - [needs_review] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
 - [needs_review] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
@@ -55,7 +147,6 @@
 - [needs_review] normal | US to curb China's access to AI chips as Trump heads to Asia | Tue 17 Nov, 12:32 AM PKT
 - [needs_review] normal | Punjab to introduce new anti-rape law and speedy courts | Tue 17 Nov, 12:42 AM PKT
 - [needs_review] normal | Pakistan Inflation to Ease to 5-7pc in FY27, SBP Forecasts | Dawn News | Tue 17 Nov, 12:52 AM PKT
-- [published] normal | Saudi Arabia dismisses commander of anti-Houthi coalition: state media | Tue 17 Nov, 01:20 AM PKT
 - [needs_review] normal | What will Europe do next in Ukraine? | Tue 17 Nov, 01:30 AM PKT
 - [needs_review] normal | Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | Tue 17 Nov, 01:40 AM PKT
 - [needs_review] normal | 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying | Tue 17 Nov, 01:50 AM PKT
@@ -269,20 +360,19 @@
 - [needs_review] normal | Pakistan and Qatar sign new security pact to combat drug trafficking | Thu 19 Nov, 05:58 PM PKT
 - [needs_review] normal | Hailey Bieber opens up about the intense reality of internet scrutiny | Thu 19 Nov, 06:08 PM PKT
 - [needs_review] normal | Donald Trump calls for nuclear arms reduction at APEC summit | Thu 19 Nov, 06:18 PM PKT
+- [published] normal | President Zardari and PM Shehbaz agree to resolve all matters through  | Fri 20 Nov, 01:26 AM PKT
+- [queued] normal | ICJ finds Myanmar guilty of genocide against the Rohingya minority | Fri 20 Nov, 01:36 AM PKT
+- [queued] normal | US military spending on the Iran war crosses $48 billion | Fri 20 Nov, 01:46 AM PKT
+- [queued] normal | European leaders say Europe is ready for talks with Russia on ending t | Fri 20 Nov, 01:56 AM PKT
 
 ## Publishing this run
-- No post published: nothing due yet.
+- Published 'President Zardari and PM Shehbaz agree to resolve all matters through dialogue'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 0 | output tokens: 0
-- Errors: 4
+- Calls: 3 | prompt tokens: 6895 | output tokens: 2261
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

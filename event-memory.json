@@ -80271,7 +80271,612 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "344bbfed18558dc159cd07ab",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T13:40:13+00:00",
+      "last_update": "2026-11-19T19:19:06+00:00",
+      "event": "ICJ finds Myanmar guilty for genocide against Rohingya minority",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "finds",
+        "for",
+        "genocide",
+        "guilty",
+        "icj",
+        "international",
+        "minority",
+        "myanmar",
+        "news",
+        "rohingya",
+        "the"
+      ],
+      "source_excerpt": "ICJ finds Myanmar guilty for genocide against Rohingya minority The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdktSQTZzNkcwUHVReWd5eEpMQ2FaMEplTFZqcjdlN0VZbkVFcHo0TW10ZWpxZTZQU1ppbE42YTdfTjY0OFBwTy1UTno1ZTBWcndoMW5VRllRbnJ4Vjlxdlo0TDl2Smc1Q2czeUpFSmtaZlVNZHh6VDdQSU5weEtBWnk3Z2NGNVdwLWxwcTNjVHZXOFYzb1EtSjZuODh1ZS1GVlAtZG9XYU_SAaQBQVVfeXFMT3VsbUZEd3JjNnZYVW1fUG1KRDlVSlNYMmF1TEw2Q29mVEhrSXZiVFVla25iUm5hWUlpY2JuazhkbUF1enZtVVZZaGIzRHRFNFVQQWFDQkRORGsxX1JiV2tFQkstY0lkWG1OT2tuZVFyaUVnVnNTTl9sV2llcTNZcE5QandQeG5tdDlQd3BIZXFlaGZwRmlTZVJOX19xTFlxVmsxTDM?oc=5",
+          "published_at": "2026-11-19T13:40:13+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
+          "published_at": "2026-11-19T14:31:47+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcndhbHhINjhZTllrNi1DZlUtY0IwQ1d4a3R0UFhwbVhmVjkxTDRGaGwyVkhDS0o1Zlh1VHpxbmtxcFRWMW9OcHNadU45MkN0cEY1bEVMc0xjOURIZFVFdEpGZEVXLVd2cVM1bkNKTU5PbjlTdEcwN0JTUENuektxWWtsdlhpVFFJeENoLUJrNldodGlhZXRnRjNuUENvMlowd3ZZRHRtaUpIRV9SUTl5MU84OWF2Rlgz?oc=5",
+          "published_at": "2026-11-19T19:15:05+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
+          "published_at": "2026-11-19T19:19:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdktSQTZzNkcwUHVReWd5eEpMQ2FaMEplTFZqcjdlN0VZbkVFcHo0TW10ZWpxZTZQU1ppbE42YTdfTjY0OFBwTy1UTno1ZTBWcndoMW5VRllRbnJ4Vjlxdlo0TDl2Smc1Q2czeUpFSmtaZlVNZHh6VDdQSU5weEtBWnk3Z2NGNVdwLWxwcTNjVHZXOFYzb1EtSjZuODh1ZS1GVlAtZG9XYU_SAaQBQVVfeXFMT3VsbUZEd3JjNnZYVW1fUG1KRDlVSlNYMmF1TEw2Q29mVEhrSXZiVFVla25iUm5hWUlpY2JuazhkbUF1enZtVVZZaGIzRHRFNFVQQWFDQkRORGsxX1JiV2tFQkstY0lkWG1OT2tuZVFyaUVnVnNTTl9sV2llcTNZcE5QandQeG5tdDlQd3BIZXFlaGZwRmlTZVJOX19xTFlxVmsxTDM?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "83269dc7506a36873bec20c3",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T19:41:15+00:00",
+      "last_update": "2026-11-19T19:58:57+00:00",
+      "event": "Turkish energy minister arrives in Karachi ahead of Oruç Reis offshore exploration mission",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "arrives",
+        "energy",
+        "exploration",
+        "express",
+        "karachi",
+        "minister",
+        "mission",
+        "offshore",
+        "oru",
+        "reis",
+        "the",
+        "tribune",
+        "turkish"
+      ],
+      "source_excerpt": "Turkish energy minister arrives in Karachi ahead of Oruç Reis offshore exploration mission The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVGdkYmhaSWNoRXp5WFB6SmJmQWxvdDNuQ3ZwZWJadXAwcWFtTF8zRDkta0dmRC1lZE8tbDAzc3hIWW5BMnNya0dIT2xyVTNYZ1RudXI1djlRZ2dtbDJFblV2SDlNeUxCc29YVXpZaUtkenVNMjc4RGk4aG1rSkFQa3hJWERKaExHeHRieS1pT2Q1VHRTWmJvbEhXZzJrelFmU2N4a05YUWhQQVFWdnl3bXF1VTZYaWh5Mkl5d2h3R3pSVHdCZEE?oc=5",
+          "published_at": "2026-11-19T19:41:15+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTNmbnd3NTRHTlp4amxaWmhlYXlSMm9CRHpvMktVWFRNQjN0NHBHbVA5RGxVZVFIRkhaZDBPenFmX3owSGZONnhXT3ZycFdQaEdsaU1MSE5XWHhVVmlhTWg3QkhEZ251Rm9zSjFoUzZUNVFrVE9rQ29CUDFvMlAyR0JsdU5HcC1BeHU3OW9KaDRONXZscjVtWW1uclNsSWFzWGZRazI4NXZqZHVCS1EtZUdiTW9jNlJNOHdLemFsSWQzUQ?oc=5",
+          "published_at": "2026-11-19T19:58:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVGdkYmhaSWNoRXp5WFB6SmJmQWxvdDNuQ3ZwZWJadXAwcWFtTF8zRDkta0dmRC1lZE8tbDAzc3hIWW5BMnNya0dIT2xyVTNYZ1RudXI1djlRZ2dtbDJFblV2SDlNeUxCc29YVXpZaUtkenVNMjc4RGk4aG1rSkFQa3hJWERKaExHeHRieS1pT2Q1VHRTWmJvbEhXZzJrelFmU2N4a05YUWhQQVFWdnl3bXF1VTZYaWh5Mkl5d2h3R3pSVHdCZEE?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cdae96dec780a22b0c443eb6",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T19:53:24+00:00",
+      "last_update": "2026-11-19T19:53:24+00:00",
+      "event": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "americas",
+        "cartel",
+        "coalition",
+        "colombia",
+        "cooperation",
+        "counter",
+        "country",
+        "defence",
+        "espriella",
+        "hails",
+        "hegseth",
+        "joins",
+        "page",
+        "praised",
+        "same",
+        "secretary",
+        "security",
+        "the",
+        "ties",
+        "with"
+      ],
+      "source_excerpt": "The US defence secretary praised security cooperation with Colombia as country joins Americas Counter Cartel Coalition.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
+          "published_at": "2026-11-19T19:53:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "850fd0b496dd58bdbd24eda8",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T19:40:23+00:00",
+      "last_update": "2026-11-19T19:40:23+00:00",
+      "event": "European leaders unite in Berlin to reaffirm support for Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "berlin",
+        "chancellor",
+        "doomed",
+        "europe",
+        "european",
+        "fail",
+        "for",
+        "german",
+        "involvement",
+        "leaders",
+        "peace",
+        "reaffirm",
+        "support",
+        "talks",
+        "ukraine",
+        "unite",
+        "unity",
+        "urging",
+        "warns",
+        "with",
+        "without"
+      ],
+      "source_excerpt": "German chancellor warns peace talks without Europe's involvement are doomed to fail, urging unity with Ukraine.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+          "published_at": "2026-11-19T19:40:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4906ec04f33832d01f7884bd",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T19:33:25+00:00",
+      "last_update": "2026-11-19T19:33:25+00:00",
+      "event": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2017",
+        "bangladesh",
+        "bazar",
+        "camps",
+        "cox",
+        "crisis",
+        "fled",
+        "forming",
+        "genocide",
+        "human",
+        "largest",
+        "million",
+        "near",
+        "nearly",
+        "one",
+        "photos",
+        "refugee",
+        "rohingya",
+        "ruling",
+        "spotlights",
+        "the",
+        "toll",
+        "world"
+      ],
+      "source_excerpt": "Nearly a million Rohingya fled to Bangladesh in 2017, forming one of the world's largest refugee camps near Cox's Bazar.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
+          "published_at": "2026-11-19T19:33:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7fab9f0b66877362a992508f",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T19:27:32+00:00",
+      "last_update": "2026-11-19T19:30:40+00:00",
+      "event": "Blockbuster GTA VI release shows cultural, economic heft of video games",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blockbuster",
+        "comes",
+        "cultural",
+        "economic",
+        "franchise",
+        "game",
+        "games",
+        "gta",
+        "has",
+        "heft",
+        "industry",
+        "layoffs",
+        "mass",
+        "popular",
+        "recent",
+        "release",
+        "runaway",
+        "shows",
+        "struggled",
+        "success",
+        "video",
+        "with",
+        "years"
+      ],
+      "source_excerpt": "Runaway success of popular franchise comes as video game industry has struggled with mass layoffs in recent years.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
+          "published_at": "2026-11-19T19:27:32+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmVUcjFqVHQ3ODNqUlJONHpXLUxoWjlDVzNha1RoYnVPT2tnV3U4X2dpXy1XVE9WSlYxYjZUYUwxbXJwYU9QYW5DczNkLWJfS3lHdTBQaF9seE1icnpTc3Zwdzl5eVA2bjBLdUw4bFd4UXMtLTliWmdFYzcwNk9iSDZJV21OWVdVZGJvYWNWSzd0Ukx0S3NqN2NZN2dUeWNUSEt1Z1F1cWZmakFTT21JdTB30gG3AUFVX3lxTE05cXJ6SFh5dlBPY1lXTDR5OEY2Nm5INUZ2SGozTWVZUHNINU5lUi1YMGwwQU56RU4wZzRScUVRTmlIdHZsd3dQdF9qRFNNaFVOeUJyYnI2VGVaUWo0amJHQXRDczNqeE5vS0RqNW94R2tFZVV5VWhqcVJGWFQ2U1ZQUDl1Tmtpd0VubWlvamNQUWgzQTFzcVNHaVFZdlVONlc4c09sc1Z1c0FJWlFiZ3VxZnN3azhiOA?oc=5",
+          "published_at": "2026-11-19T19:30:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a96c8942ec32c20c95340edd",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T19:23:45+00:00",
+      "last_update": "2026-11-19T19:23:45+00:00",
+      "event": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "aid",
+        "children",
+        "dangers",
+        "face",
+        "gaza",
+        "group",
+        "occupied",
+        "one",
+        "palestinian",
+        "save",
+        "says",
+        "territory",
+        "the",
+        "third",
+        "unmatched",
+        "violations",
+        "were",
+        "worldwide"
+      ],
+      "source_excerpt": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+          "published_at": "2026-11-19T19:23:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "51f2ab660ece624d2650e10b",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T19:16:34+00:00",
+      "last_update": "2026-11-19T19:16:34+00:00",
+      "event": "Rohingya survivors react to landmark genocide ruling against Myanmar",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activist",
+        "against",
+        "and",
+        "bangladesh",
+        "committed",
+        "court",
+        "genocide",
+        "landmark",
+        "myanmar",
+        "new",
+        "react",
+        "refugees",
+        "rohingya",
+        "rules",
+        "ruling",
+        "survivors",
+        "the",
+        "top",
+        "york"
+      ],
+      "source_excerpt": "Rohingya refugees in Bangladesh and an activist in New York react as the UN's top court rules Myanmar committed genocide",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
+          "published_at": "2026-11-19T19:16:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3a57c9d4f4164c213772a813",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T19:15:10+00:00",
+      "last_update": "2026-11-19T19:15:10+00:00",
+      "event": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "chambers",
+        "embassy",
+        "extradition",
+        "fergie",
+        "heir",
+        "london",
+        "man",
+        "media",
+        "over",
+        "protested",
+        "protests",
+        "roof",
+        "spain",
+        "spanish",
+        "the"
+      ],
+      "source_excerpt": "A man protested on the roof of Spain’s embassy in London against the extradition of US media heir Fergie Chambers.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
+          "published_at": "2026-11-19T19:15:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f00363c612aaff4ada0c2c67",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T19:58:27+00:00",
+      "last_update": "2026-11-19T19:58:27+00:00",
+      "event": "Oil firm fined for breaking environmental rules hundreds of times",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "breaking",
+        "charges",
+        "cyanide",
+        "entering",
+        "environmental",
+        "fined",
+        "firm",
+        "for",
+        "hundreds",
+        "involved",
+        "local",
+        "oil",
+        "other",
+        "pollutants",
+        "rules",
+        "ten",
+        "times",
+        "waterways"
+      ],
+      "source_excerpt": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T19:58:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "da551f99aa07267fe8bf57fb",
+      "remembered_at": "2026-11-19T20:26:05.122518+00:00",
+      "event_date": "2026-11-19T13:11:54+00:00",
+      "last_update": "2026-11-19T16:15:09+00:00",
+      "event": "کراچی: آن لائن جوئے کے ذریعے 240 ارب روپے کی بینکنگ ٹرانزیکشن کا انکشاف، بڑا نیٹ ورک پکڑا گیا",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "240",
+        "ارب",
+        "انویسٹی",
+        "انکشاف،",
+        "ایجنسی",
+        "بڑا",
+        "بڑی",
+        "بینکنگ",
+        "جوئے",
+        "ذریعے",
+        "روپے",
+        "سائبر",
+        "لائن",
+        "میں",
+        "نیشنل",
+        "نیٹ",
+        "ورک",
+        "ٹرانزیکشن",
+        "پکڑا",
+        "کارروائی",
+        "کرائم",
+        "کراچی",
+        "گیا",
+        "گیا،",
+        "گیشن"
+      ],
+      "source_excerpt": "نیشنل سائبر کرائم انویسٹی گیشن ایجنسی کی بڑی کارروائی میں آن لائن جوئے کا بڑا نیٹ ورک کراچی سے پکڑا گیا، 240 ارب روپے کی بینکنگ...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1634923",
+          "published_at": "2026-11-19T13:11:54+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5016447",
+          "published_at": "2026-11-19T16:15:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1634923",
+        "publisher_url": "https://jang.com.pk/news/1634923",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T19:25:33.936593+00:00"
+  "updated_at": "2026-11-19T20:26:05.122518+00:00"
 }
