@@ -73415,7 +73415,835 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dc1636863dcb9714d242f9b3",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T01:05:55+00:00",
+      "last_update": "2026-11-19T06:16:23+00:00",
+      "event": "ICJ flags judicial independence concerns",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "concerns",
+        "express",
+        "flags",
+        "icj",
+        "independence",
+        "judicial",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "ICJ flags judicial independence concerns The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEVwcEx3NF9RTHRMNTdjbHFBRmhRZjlzOENUb1dqbGI3djZxOXl3ZGhVNlpFUFZvWmY3MTBudWdKeDl6TnBEX1VJTTR1d2wyQzlUVmY0VVpYTmFQQXdDVzRzdm1FX2JXcTJ3SEdWNDBXZFlYSld6WFlobE0tVElGb3lENNIBiwFBVV95cUxNNjJTOWtWMzZnRl90ajZRd2l4ZWM0YWdld3FOeVhaaVNpMENCeWRtWXQ1VWNaZU96MFA0TVp5clJRc2JybjlTUkV0R1FlaUF6clh1U05MTXV3d0VTdEZUdmhjUjVoUDZRbGhPc2YzX3Q3VnJsWFVKdFdyRVVnM0JWcVdPcWItcnVQYnNV?oc=5",
+          "published_at": "2026-11-19T01:05:55+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeGRCaXFrQnlxMWtQeThqb0Y4c3N0UWlNMElYWFlNd3FWalBUTXV4VHNfOUloYVRMbEh0VW5kdnBrYjB0V21vUEhlUFdWU3FvTHdxcEhSc3FxQlcwVlFWd3FkOTFZTzhYcmY2R1VSNjhDVVh2VnotQ3lrUUswSTYyRDU3c0JYSWxiTll2SHBWM28xeFpUZkE?oc=5",
+          "published_at": "2026-11-19T01:55:08+00:00"
+        },
+        {
+          "name": "X",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CNXl0SkZtRU1NRFZOUng1X0dhQzNoWV9fY0l4WW50S19ydkd1LTBRdUg1X1ZVMHpSNTJId2o1dXpYQ3hRc2wtLXlwRHQzUFpHcFJyaVJvM1lfVzNKQi1lQk9B?oc=5",
+          "published_at": "2026-11-19T06:16:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEVwcEx3NF9RTHRMNTdjbHFBRmhRZjlzOENUb1dqbGI3djZxOXl3ZGhVNlpFUFZvWmY3MTBudWdKeDl6TnBEX1VJTTR1d2wyQzlUVmY0VVpYTmFQQXdDVzRzdm1FX2JXcTJ3SEdWNDBXZFlYSld6WFlobE0tVElGb3lENNIBiwFBVV95cUxNNjJTOWtWMzZnRl90ajZRd2l4ZWM0YWdld3FOeVhaaVNpMENCeWRtWXQ1VWNaZU96MFA0TVp5clJRc2JybjlTUkV0R1FlaUF6clh1U05MTXV3d0VTdEZUdmhjUjVoUDZRbGhPc2YzX3Q3VnJsWFVKdFdyRVVnM0JWcVdPcWItcnVQYnNV?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8f6281e03b1b14cf110d753c",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T05:34:57+00:00",
+      "last_update": "2026-11-19T06:49:27+00:00",
+      "event": "PlayStation network suffers brief outage hours before GTA 6 launch",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "before",
+        "brief",
+        "gta",
+        "hours",
+        "launch",
+        "network",
+        "outage",
+        "playstation",
+        "suffers"
+      ],
+      "source_excerpt": "PlayStation network suffers brief outage hours before GTA 6 launch",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/playstation-network-suffers-brief-outage-hours-before-gta-6-launch",
+          "published_at": "2026-11-19T05:34:57+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3haZjJrVUlYS2t6bmpGSmtoUFRLUFNQQ3VBU3BETzRKcnp0R1VlRlFvRDJVc0swM2NDNmxVaGZPQktldUY0aXg5MWZ4cnZKTGs0RkJGbWJEU1VUVUF0Y3hXanZhVWVuN2hrQy1NQUR3aW5uOGE3eUNDcUtSZEFqa0h6c1ZtUWJLOE9DNVItblBhWWlxa1RB?oc=5",
+          "published_at": "2026-11-19T06:32:07+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/playstation-network-outage-hits-gamers-during-gta-6-launch/",
+          "published_at": "2026-11-19T06:49:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/playstation-network-suffers-brief-outage-hours-before-gta-6-launch",
+        "publisher_url": "https://arynews.tv/playstation-network-suffers-brief-outage-hours-before-gta-6-launch",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0732a21b4b5411e3474b9988",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T01:57:38+00:00",
+      "last_update": "2026-11-19T06:41:20+00:00",
+      "event": "Green rickshaw scheme being introduced in KP",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "being",
+        "dawn",
+        "green",
+        "introduced",
+        "rickshaw",
+        "scheme"
+      ],
+      "source_excerpt": "Green rickshaw scheme being introduced in KP Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemxtU2NHOUM2R2JXdVpxS1VCdjU3LWZQZzdkeWJTRklPSG5HRnM4SUFCWDlfM3VEMXdoN1d2eHNPN0F6Mi1fSVg1R19LT05FcXhpTEFJOEJzWDlCby12M0dVdHJoZEMwT1hyUVlqREZ3LXd2dHNheEdwMy1BSk16WDRXLUw?oc=5",
+          "published_at": "2026-11-19T01:57:38+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/kp-to-launch-green-rickshaw-scheme-with-50-percent-subsidy/",
+          "published_at": "2026-11-19T06:41:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemxtU2NHOUM2R2JXdVpxS1VCdjU3LWZQZzdkeWJTRklPSG5HRnM4SUFCWDlfM3VEMXdoN1d2eHNPN0F6Mi1fSVg1R19LT05FcXhpTEFJOEJzWDlCby12M0dVdHJoZEMwT1hyUVlqREZ3LXd2dHNheEdwMy1BSk16WDRXLUw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9d03f28a98f0f3254cee1d1e",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T02:31:08+00:00",
+      "last_update": "2026-11-19T07:09:52+00:00",
+      "event": "Anthropic raises $81.3bn in record-breaking IPO",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "3bn",
+        "anthropic",
+        "breaking",
+        "ipo",
+        "raises",
+        "record",
+        "samaa"
+      ],
+      "source_excerpt": "Anthropic raises $81.3bn in record-breaking IPO samaa tv",
+      "sources": [
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT01mMWp4ZGhhUE11blYwRnRxRndlNXdId3AwbThiTW9rMkROZ1hYWFI2MHh2bFhWV2ZuWUhrdVJzXzZMaGVCajBsdkVGd09fLWM5QnM2NjNxUmU2LW9RNWF5SDF3X1IxZExxcHhrRWpxWDViX3dnMzdKelUwR296T1RseWk5Zm5SVFhqODdjTjcyZ3VQUXF5cHlfZ1lHXzZIdEMyRUpIY2dVcDFVYlNweExnNHE?oc=5",
+          "published_at": "2026-11-19T02:31:08+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTA3Q1pjNG80NURmMkRMOWNNM2xITC1kQm4wUkNmaGhSSlpPVTZQT1MwX1RuMXpEajM4LWQtR2Fmei1RSGJGdkx0SlpjbnBfNVlzZjFNY0NUV1c0R1BGZG5IVEVRN2V2aGlnRXRWRERQWjJqOUVVdXJQNnliWUlMeG9PZWo?oc=5",
+          "published_at": "2026-11-19T07:09:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTA3Q1pjNG80NURmMkRMOWNNM2xITC1kQm4wUkNmaGhSSlpPVTZQT1MwX1RuMXpEajM4LWQtR2Fmei1RSGJGdkx0SlpjbnBfNVlzZjFNY0NUV1c0R1BGZG5IVEVRN2V2aGlnRXRWRERQWjJqOUVVdXJQNnliWUlMeG9PZWo?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d84305f8a999583d195a78e6",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T07:13:59+00:00",
+      "last_update": "2026-11-19T07:15:12+00:00",
+      "event": "China's used phones find new homes from Karachi to Algiers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "algiers",
+        "china",
+        "dawn",
+        "find",
+        "from",
+        "homes",
+        "karachi",
+        "new",
+        "phones",
+        "used"
+      ],
+      "source_excerpt": "China's used phones find new homes from Karachi to Algiers Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWktab2hMTGZOejk0QlR0WlR1bHFlV1Joc3dBZDNaa2VGSG9ONVhFczNiREE2ckkzU294ZE8wbWRhZ1NUbTZCTDZJM1ctVmdpRy15REE1U2t5RldqVUxsLWRxTExGem1JSlBQWVhicDU0ZW5HLU1aTjhyWmZOYy1pWGJobWRLckFaWEgtQ0hJa0tFbjNMSlE?oc=5",
+          "published_at": "2026-11-19T07:13:59+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045652/chinas-used-phones-find-new-homes-from-karachi-to-algiers",
+          "published_at": "2026-11-19T07:15:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWktab2hMTGZOejk0QlR0WlR1bHFlV1Joc3dBZDNaa2VGSG9ONVhFczNiREE2ckkzU294ZE8wbWRhZ1NUbTZCTDZJM1ctVmdpRy15REE1U2t5RldqVUxsLWRxTExGem1JSlBQWVhicDU0ZW5HLU1aTjhyWmZOYy1pWGJobWRLckFaWEgtQ0hJa0tFbjNMSlE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8069579af5eb756daa7ff548",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T06:23:45+00:00",
+      "last_update": "2026-11-19T07:15:10+00:00",
+      "event": "CDF Munir briefed on ongoing operations during Turbat visit: ISPR",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "briefed",
+        "cdf",
+        "dawn",
+        "during",
+        "ispr",
+        "munir",
+        "ongoing",
+        "operations",
+        "turbat",
+        "visit"
+      ],
+      "source_excerpt": "CDF Munir briefed on ongoing operations during Turbat visit: ISPR Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDBkRDZEdnlYZ19KVkdBcl9lY09GUVdQa3NaaG50VlBmMlMzY0piSk5zcEg2YkE4QUhwVHdYSkxtNVRrZ2JDVmRqSDhmeFdhTmU5TVVPUVBybjd6VzJLN3paZjFHZEtqVW11TEtQd3hHRWg4VHNlelI1NmlqOTJlQzlDYm9SaW5HNFBrSHpxU1FYa3JVY2QyOEQyRzJlT00?oc=5",
+          "published_at": "2026-11-19T06:23:45+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045649/cdf-munir-briefed-on-ongoing-operations-during-balochistan-visit-ispr",
+          "published_at": "2026-11-19T07:15:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDBkRDZEdnlYZ19KVkdBcl9lY09GUVdQa3NaaG50VlBmMlMzY0piSk5zcEg2YkE4QUhwVHdYSkxtNVRrZ2JDVmRqSDhmeFdhTmU5TVVPUVBybjd6VzJLN3paZjFHZEtqVW11TEtQd3hHRWg4VHNlelI1NmlqOTJlQzlDYm9SaW5HNFBrSHpxU1FYa3JVY2QyOEQyRzJlT00?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d80414f1fa5a782478a47dc4",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T07:08:57+00:00",
+      "last_update": "2026-11-19T07:12:56+00:00",
+      "event": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blockade",
+        "but",
+        "can",
+        "crippling",
+        "defiant",
+        "determine",
+        "early",
+        "economy",
+        "effect",
+        "has",
+        "impact",
+        "insists",
+        "iran",
+        "iranian",
+        "its",
+        "ports",
+        "survive",
+        "tehran",
+        "the",
+        "too",
+        "with"
+      ],
+      "source_excerpt": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+          "published_at": "2026-11-19T07:08:57+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0tDOEoxcE1oTWlVYnFZX2w3SXQ4UHY5ZGM5NUhiOVNiblhqMm1ZblFiWFF4YTVPM0RaZURuMjFkNjNFOHRiaDExTGtFZEJrN0tMR0EycjdieDZCRHRPTFdvVDlqSE4wMnYzbl83TkJvRE11bWRtdVU3a1RWLXdwdzhyRXhmVndmU0ZHZ3NJLWowdWh1QVA3TkJyS0RfdnV1SFRRQlNCR3lGSnplWXVmUWgzMWfSAboBQVVfeXFMTU1hWUtoLVAyQ3VmUW1hVDJRRUxjYXRyODAzY2RrdWR0SnE2a09VMDROQjRfdUc3azJSU0R2djhtdTAyb0hwTHREMFZjcURxTDlyMHVKZjBlcDdYbzNtOTFCdzNadnZhZ3VjUV9tVmlDcUJvWVJNNU1xa3puRzVXVVZHNmhiSmhBai14WWQzbWpIVHJQVXIyVWlBaDVIWElzeDNmUVdDMTRuYmFNTzdUMVBSNDBXRkxaX0Jn?oc=5",
+          "published_at": "2026-11-19T07:12:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "064c84da457eb256309696da",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T06:58:44+00:00",
+      "last_update": "2026-11-19T06:58:44+00:00",
+      "event": "Netanyahu’s last stand and the dangerous politics of survival",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "chaos",
+        "could",
+        "dangerous",
+        "facing",
+        "game",
+        "high",
+        "israel",
+        "last",
+        "netanyahu",
+        "oblivion",
+        "playing",
+        "political",
+        "politics",
+        "push",
+        "stakes",
+        "stand",
+        "survival",
+        "that",
+        "the",
+        "towards",
+        "violence"
+      ],
+      "source_excerpt": "Facing political oblivion, Netanyahu is playing a high-stakes game that could push Israel towards violence and chaos.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
+          "published_at": "2026-11-19T06:58:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b7fefd5eb14196fa82263382",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T06:06:23+00:00",
+      "last_update": "2026-11-19T06:06:23+00:00",
+      "event": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assistant",
+        "ban",
+        "during",
+        "ecuadorian",
+        "eight",
+        "footballer",
+        "for",
+        "gets",
+        "jhon",
+        "later",
+        "match",
+        "perlaza",
+        "referee",
+        "required",
+        "rock",
+        "stone",
+        "struck",
+        "surgery",
+        "that",
+        "third",
+        "threw",
+        "throwing",
+        "tier",
+        "who",
+        "year"
+      ],
+      "source_excerpt": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
+          "published_at": "2026-11-19T06:06:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "46555ca57ef93de0210d6c8f",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T06:09:25+00:00",
+      "last_update": "2026-11-19T06:09:25+00:00",
+      "event": "Developer accused of 'environmental vandalism'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "and",
+        "been",
+        "bellway",
+        "compliance",
+        "consent",
+        "developer",
+        "done",
+        "ecologist",
+        "environmental",
+        "has",
+        "planning",
+        "says",
+        "site",
+        "the",
+        "vandalism",
+        "with",
+        "work"
+      ],
+      "source_excerpt": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T06:09:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c0a657b94ed7e32b2650333d",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T06:23:22+00:00",
+      "last_update": "2026-11-19T06:23:22+00:00",
+      "event": "Increase in direct cremations since pandemic",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "around",
+        "chosen",
+        "cost",
+        "cremation",
+        "cremations",
+        "direct",
+        "dying",
+        "five",
+        "for",
+        "found",
+        "funerals",
+        "increase",
+        "now",
+        "one",
+        "pandemic",
+        "report",
+        "since",
+        "was"
+      ],
+      "source_excerpt": "A 2026 Cost of Dying Report found direct cremation was now chosen for around one in five funerals.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T06:23:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dfb63d143d7baaf59d95d6fd",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T06:04:30+00:00",
+      "last_update": "2026-11-19T06:04:30+00:00",
+      "event": "Leftover pumpkins help deliver 1,000th free meal",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000th",
+        "deliver",
+        "food",
+        "for",
+        "free",
+        "help",
+        "leftover",
+        "lot",
+        "meal",
+        "organisation",
+        "people",
+        "pumpkins",
+        "really",
+        "says",
+        "sustainable",
+        "time",
+        "tough"
+      ],
+      "source_excerpt": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T06:04:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "111f3b9d7aaeaeef212219c3",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T04:07:00+00:00",
+      "last_update": "2026-11-19T04:07:00+00:00",
+      "event": "Russian president claims ‘ee are an integral part of the region’ at APEC meeting",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apec",
+        "are",
+        "claims",
+        "integral",
+        "international",
+        "meeting",
+        "news",
+        "part",
+        "president",
+        "region",
+        "russian",
+        "the"
+      ],
+      "source_excerpt": "Russian president claims ‘ee are an integral part of the region’ at APEC meeting The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0lHMllFelZtSkFqZjVnd3NLZ3dJN0NnZHRuRjVTQ2dUOXZaSVBsQW1yU055VHF0WE9uZV9xRUl6WW5tM2pBeFZkWVVQMlVQTzJzMUs2ZkRBbVRJaVRBSFM5dGdWN2gwSkV0LU9lTFhrYkIxYXk2N21qSTRPNW5Fbmw0RU0xUjF6RmwyQ1ZCNWI5TEVjUjN0MHQ1RlB3ekIzdXQxN0IxaUtIRE1VVUlHOUJRakRNaVIySWVRNdIBuAFBVV95cUxPd2MwLVNhaHJGcEZ6azd6dUJCZmk2Z3pubWhDN2hJS1dJVU9kX0Z0V3JmNEVWTzY3dElmU2pkSlN4SHp4cWg0UWtfSGFDQ2l4akVxNlBibno5b0c1NEQxRlVoOG1Tczltb3d5MXZiS0FnSmlaUXZaMS1iY2tKQlVqaHJRWnd2bW5YbDBUTVZLZzgxRjdqZUVKRHNuMGphNmkwcVIyMlUzLURyUUJlaXM5LTlnMHVHbGxq?oc=5",
+          "published_at": "2026-11-19T04:07:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0lHMllFelZtSkFqZjVnd3NLZ3dJN0NnZHRuRjVTQ2dUOXZaSVBsQW1yU055VHF0WE9uZV9xRUl6WW5tM2pBeFZkWVVQMlVQTzJzMUs2ZkRBbVRJaVRBSFM5dGdWN2gwSkV0LU9lTFhrYkIxYXk2N21qSTRPNW5Fbmw0RU0xUjF6RmwyQ1ZCNWI5TEVjUjN0MHQ1RlB3ekIzdXQxN0IxaUtIRE1VVUlHOUJRakRNaVIySWVRNdIBuAFBVV95cUxPd2MwLVNhaHJGcEZ6azd6dUJCZmk2Z3pubWhDN2hJS1dJVU9kX0Z0V3JmNEVWTzY3dElmU2pkSlN4SHp4cWg0UWtfSGFDQ2l4akVxNlBibno5b0c1NEQxRlVoOG1Tczltb3d5MXZiS0FnSmlaUXZaMS1iY2tKQlVqaHJRWnd2bW5YbDBUTVZLZzgxRjdqZUVKRHNuMGphNmkwcVIyMlUzLURyUUJlaXM5LTlnMHVHbGxq?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c39f8598952a572b263b11cd",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T06:55:55+00:00",
+      "last_update": "2026-11-19T06:55:55+00:00",
+      "event": "Trump says US opposes 'globalist regulation' of AI",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "globalist",
+        "opposes",
+        "regulation",
+        "says",
+        "trump"
+      ],
+      "source_excerpt": "Trump says US opposes 'globalist regulation' of AI ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EaHVfYU9iVDNMaEVFa1dET1JUamNsSFItamxEZUpUQ3M5cVN0aGpESV9FYkpWejRVRUk5ZGdoWGFDYXMwUGNrYzlrRVEwcjFtTTRBUEk3VkdkelFBdnZKakQ5VW42TU4xSnY0?oc=5",
+          "published_at": "2026-11-19T06:55:55+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/trump-us-opposes-globalist-regulation-ai",
+          "published_at": "2026-11-19T06:55:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EaHVfYU9iVDNMaEVFa1dET1JUamNsSFItamxEZUpUQ3M5cVN0aGpESV9FYkpWejRVRUk5ZGdoWGFDYXMwUGNrYzlrRVEwcjFtTTRBUEk3VkdkelFBdnZKakQ5VW42TU4xSnY0?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "79579cb06bdd3b84904826c2",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T06:22:41+00:00",
+      "last_update": "2026-11-19T06:22:41+00:00",
+      "event": "Younis urges Pakistan to build 200-run lead against Sri Lanka",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "200",
+        "against",
+        "build",
+        "lanka",
+        "lead",
+        "pakistan",
+        "run",
+        "samaa",
+        "sri",
+        "urges",
+        "younis"
+      ],
+      "source_excerpt": "Younis urges Pakistan to build 200-run lead against Sri Lanka samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUt2Ym93TUpGZkhnMDRvc1FlQ1pFUFJtQzcxazI0Q294ZzlqaU4taXcxZldYZmhwdnBlY0pfNjRlYjR5WnlUV056WmhmcXNsYUotMnk2bjlwamx2SEdoaDhsMURZU2luNXRXOHI3bVpCMlljVzBWU2lkUHZPY3hEcTZTclpDX0h0c1BVQlVLMEwzQW1yTjBuYw?oc=5",
+          "published_at": "2026-11-19T06:22:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUt2Ym93TUpGZkhnMDRvc1FlQ1pFUFJtQzcxazI0Q294ZzlqaU4taXcxZldYZmhwdnBlY0pfNjRlYjR5WnlUV056WmhmcXNsYUotMnk2bjlwamx2SEdoaDhsMURZU2luNXRXOHI3bVpCMlljVzBWU2lkUHZPY3hEcTZTclpDX0h0c1BVQlVLMEwzQW1yTjBuYw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "51894e9837bcb48411ee95c1",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T06:49:04+00:00",
+      "last_update": "2026-11-19T06:49:04+00:00",
+      "event": "IMF urges Pakistan to boost investment, exports, accelerate structural reforms",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accelerate",
+        "boost",
+        "exports",
+        "imf",
+        "investment",
+        "pakistan",
+        "reforms",
+        "structural",
+        "urges"
+      ],
+      "source_excerpt": "IMF urges Pakistan to boost investment, exports, accelerate structural reforms",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/imf-urges-pakistan-to-boost-investment-exports-accelerate-structural-reforms",
+          "published_at": "2026-11-19T06:49:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/imf-urges-pakistan-to-boost-investment-exports-accelerate-structural-reforms",
+        "publisher_url": "https://arynews.tv/imf-urges-pakistan-to-boost-investment-exports-accelerate-structural-reforms",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "773a42b7abec210b3f7a78da",
+      "remembered_at": "2026-11-19T07:23:49.467811+00:00",
+      "event_date": "2026-11-19T06:24:43+00:00",
+      "last_update": "2026-11-19T06:24:43+00:00",
+      "event": "Section 144 extended in Punjab for another 30 days",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "144",
+        "another",
+        "days",
+        "extended",
+        "for",
+        "punjab",
+        "section"
+      ],
+      "source_excerpt": "Section 144 extended in Punjab for another 30 days",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/section-144-extended-in-punjab-for-another-30-days",
+          "published_at": "2026-11-19T06:24:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/section-144-extended-in-punjab-for-another-30-days",
+        "publisher_url": "https://arynews.tv/section-144-extended-in-punjab-for-another-30-days",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T06:03:59.690128+00:00"
+  "updated_at": "2026-11-19T07:23:49.467811+00:00"
 }

@@ -1,143 +1,141 @@
-# News Hub report - Thu 19 Nov, 11:03 AM PKT
+# News Hub report - Thu 19 Nov, 12:23 PM PKT
 
 ## Collection
-- New items this run: 62 | items in rolling pool: 332
-- Unique story clusters: 274 (duplicates merged: 58)
-- Clusters dropped as already published/queued: 31; unchanged since last analysis: 4
-- Items per outlet: Dawn Pakistan 8, ARY News 8, Dawn Latest 4, Geo News 4, TechJuice 4, Investify 4, samaa tv 3, Dawn 3, Al Jazeera 3, Profit by Pakistan Today 3, PhoneWorld 2, The Current 2
+- New items this run: 91 | items in rolling pool: 383
+- Unique story clusters: 298 (duplicates merged: 85)
+- Clusters dropped as already published/queued: 31; unchanged since last analysis: 1
+- Items per outlet: Wired 13, Al Jazeera 8, ProPakistani 8, ARY News 7, Geo News 5, samaa tv 5, Dawn Latest 5, TechJuice 4, Profit by Pakistan Today 4, The Current 3, Investify 3, Dawn 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump wants to talk nuclear with Putin and Xi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rangers arrest ‘TTP terrorist’ in Manghopir | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Flying object spotted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Four terrorists shot dead in Lakki Marwat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Suparco warns of worsening smog across Punjab over next 3 days | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICJ flags judicial independence concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PlayStation network suffers brief outage hours before GTA 6 launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Green rickshaw scheme being introduced in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Anthropic raises $81.3bn in record-breaking IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump wants to talk nuclear with Putin and Xi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rangers arrest ‘TTP terrorist’ in Manghopir | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Flying object spotted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Four terrorists shot dead in Lakki Marwat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Suparco warns of worsening smog across Punjab over next 3 days | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICJ flags judicial independence concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PlayStation network suffers brief outage hours before GTA 6 launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Green rickshaw scheme being introduced in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Anthropic raises $81.3bn in record-breaking IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Myanmar faces historic genocide verdict at UN court over Rohingya massacres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump wants to talk nuclear with Putin and Xi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rangers arrest ‘TTP terrorist’ in Manghopir | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Flying object spotted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Four terrorists shot dead in Lakki Marwat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Suparco warns of worsening smog across Punjab over next 3 days | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICJ flags judicial independence concerns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PlayStation network suffers brief outage hours before GTA 6 launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Green rickshaw scheme being introduced in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Anthropic raises $81.3bn in record-breaking IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 102/107 | empty: 2 | failed: 3 | malformed/partial: 3
+- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Parliament and Constitution Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Reuters World | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Top UN court to rule on alleged genocide of Myanmar's Rohingya  [NORMAL]
-- Poster: عالمی عدالت روہنگیا نسل کشی کیس پر تاریخی فیصلہ آج سنائے گی / ICJ to rule on Rohingya genocide case against Myanmar | category courts
-- Alternative headline: ICJ to rule on Rohingya genocide case against Myanmar
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC, Reuters, Al Jazeera, Al Jazeera
-- Keywords: Rohingya genocide, ICJ, Myanmar, UN court, genocide verdict, BBC | hashtags: #Rohingya #ICJ #Myanmar #Genocide #UN
-- Scheduled: Thu 19 Nov, 11:03 AM PKT
-- Caption:
-```
-No state has ever been found guilty of genocide by an international court. Now, the UN court is set to deliver a historic verdict.
-
-The International Court of Justice is set to deliver a historic verdict in the genocide case against Myanmar concerning the treatment of the Rohingya minority. Reports note that no state has ever been found guilty of genocide by an international court.
-
-عالمی عدالتِ انصاف میانمار کے خلاف روہنگیا اقلیت پر مبینہ نسل کشی کے مقدمے میں تاریخی فیصلہ سنانے جارہی ہے۔ رپورٹس کے مطابق کسی بھی ریاست کو بین الاقوامی عدالت نے اس سے قبل نسل کشی کا مجرم نہیں ٹھہرایا۔
-
-According to a BBC report.
-
-#Rohingya #ICJ #Myanmar #Genocide #UN
-```
-
-### Trump wants to talk nuclear with Putin and Xi  [NORMAL]
-- Poster: ٹرمپ کی پیوٹن اور شی جن پنگ سے جوہری ہتھیاروں پر بات کرنے کی خواہش / Trump wants to talk nuclear with Putin and Xi | category world
-- Alternative headline: Nuclear arms and wars to top agenda at Trump-Xi-Putin meeting
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss
-- Supporting coverage: The Washington Post, Al Jazeera, Newsday
-- Keywords: Trump nuclear talks, Putin, Xi Jinping, nuclear non-proliferation, US President, Al Jazeera | hashtags: #Trump #Putin #XiJinping #NuclearTalks #US
-- Scheduled: Thu 19 Nov, 11:13 AM PKT
-- Caption:
-```
-US President Donald Trump says he plans to raise nuclear non-proliferation during talks with Russia and China.
-
-US President Donald Trump stated that he plans to discuss nuclear non-proliferation with Chinese President Xi Jinping and Russian President Vladimir Putin amid ongoing diplomatic engagements.
-
-امریکی صدر ڈونلڈ ٹرمپ نے کہا ہے کہ وہ روسی صدر پوتین اور چینی صدر شی جن پنگ کے ساتھ جوہری عدم پھیلاؤ کے امور پر بات چیت کا ارادہ رکھتے ہیں۔
-
-First reported by Al Jazeera.
-
-#Trump #Putin #XiJinping #NuclearTalks #US
-```
-
-### Rangers arrest TTP terrorist in Karachi's Manghopir  [NORMAL]
-- Poster: کراچی کے علاقے منگھوپیر میں رینجرز کی کارروائی، ٹی ٹی پی کا دہشتگرد گرفتار / Rangers arrest TTP terrorist in Manghopir | category security
-- Alternative headline: Rangers capture alleged TTP militant during Manghopir operation
+### Suparco Warns of Worsening Smog Across Punjab as Hundreds of Fires Rage  [NORMAL]
+- Poster: پنجاب میں اسمگ کی صورتحال مزید خراب ہونے کا خدشہ، سپارکو کی وارننگ / Suparco Warns Worsening Smog Across Punjab | category weather
+- Alternative headline: Punjab Smog to Worsen Over Three Days After Satellites Detect Hundreds of Fires
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0RWUkItbXZQLW5odm1va3hISjgwS0tSbVJIelcySXp2dWtnd1lyMjA4R0lick5GcG9zMlN2YmgtX3JiV0RuQTZWbUdkalVydmpiYUtFNnlJekZSdjBRSWVOR2pYQjFmbVdVVm1lOTVaUU83eDZXUWdoWk1EM2NYWQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0RWUkItbXZQLW5odm1va3hISjgwS0tSbVJIelcySXp2dWtnd1lyMjA4R0lick5GcG9zMlN2YmgtX3JiV0RuQTZWbUdkalVydmpiYUtFNnlJekZSdjBRSWVOR2pYQjFmbVdVVm1lOTVaUU83eDZXUWdoWk1EM2NYWQ?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Rangers arrest TTP, Manghopir, Karachi, TTP terrorist, Dawn, security operation | hashtags: #Rangers #Karachi #Manghopir #TTP #Security
-- Scheduled: Thu 19 Nov, 11:23 AM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045605/suparco-warns-of-worsening-smog-across-punjab-over-next-3-days | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045605/suparco-warns-of-worsening-smog-across-punjab-over-next-3-days
+- Supporting coverage: Dawn Pakistan, samaa tv
+- Keywords: Smog, Suparco, Punjab, Lahore, Pollution, Fires | hashtags: #Smog #Punjab #Suparco #Lahore #AirQuality
+- Scheduled: Thu 19 Nov, 12:23 PM PKT
 - Caption:
 ```
-Security forces have detained an alleged terrorist linked to the TTP during an operation in Karachi.
+Suparco has issued a severe smog warning for Punjab over the next three days after satellite observations detected hundreds of active fires.
 
-Pakistan Rangers conducted an operation in Karachi's Manghopir area, resulting in the arrest of an alleged TTP terrorist, according to reports by Dawn.
+The Pakistan Space and Upper Atmosphere Research Commission (Suparco) has warned of worsening smog conditions across Punjab over the next three days. Satellite data recorded hundreds of active fire incidents in Punjab and transboundary areas, while Lahore topped global pollution rankings.
 
-ڈان نیوز کی رپورٹ کے مطابق رینجرز نے کراچی کے علاقے منگھوپیر میں کارروائی کرتے ہوئے کالعدم تنظیم ٹی ٹی پی کے ایک مبینہ دہشتگرد کو گرفتار کر لیا ہے۔
+پاکستان اسپیس اینڈ اپر اٹموسفی Lembrando ریسرچ کمیشن (سپارکو) نے اگلے تین دنوں کے دوران پنجاب بھر میں اسمگ کی صورتحال مزید خراب ہونے کا انتباہ جاری کیا ہے۔ سیٹلائٹ مشاہدات میں پنجاب اور سرحدی علاقوں میں سیکڑوں فعال آگ کے واقعات ریکارڈ کیے گئے ہیں۔
 
-According to a report by Dawn.
+First reported by Dawn Pakistan.
 
-#Rangers #Karachi #Manghopir #TTP #Security
+#Smog #Punjab #Suparco #Lahore #AirQuality
 ```
 
-### Search underway after unidentified flying object spotted over Sahiwal prison  [NORMAL]
-- Poster: سہیوال ہائی سیکیورٹی جیل کے اوپر نامعلوم اڑنے والی شے دیکھی گئی / Flying object spotted over Sahiwal prison | category security
-- Alternative headline: Flying object spotted near Sahiwal High Security Prison
+### ICJ Flags Serious Concerns Over Judicial Independence in Pakistan  [NORMAL]
+- Poster: عالمی کمیشن برائے جج صاحبان نے پاکستان میں عدلیہ کی آزادی پر تشویش ظاہر کر دی / ICJ Flags Judicial Independence Concerns in Pakistan | category courts
+- Alternative headline: International Commission of Jurists Deplores State of Judicial Independence in Pakistan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aamVRTkhTWmRZQ2xHR09GSDFZQ0FSRHZqRTJBRVBkYjN3ZnZGeFlVXzNqVF9SeXc5Qmt5WjJjUmJrZElZUmNHUXpRYjJlMHVNdk9saWNpZUdhMTlhOHM2ZDNVbE1oUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aamVRTkhTWmRZQ2xHR09GSDFZQ0FSRHZqRTJBRVBkYjN3ZnZGeFlVXzNqVF9SeXc5Qmt5WjJjUmJrZElZUmNHUXpRYjJlMHVNdk9saWNpZUdhMTlhOHM2ZDNVbE1oUQ?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: flying object Sahiwal, Sahiwal High Security Prison, search operation, Dawn, unidentified object | hashtags: #Sahiwal #Security #UFO #Dawn #Pakistan
-- Scheduled: Thu 19 Nov, 11:33 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEVwcEx3NF9RTHRMNTdjbHFBRmhRZjlzOENUb1dqbGI3djZxOXl3ZGhVNlpFUFZvWmY3MTBudWdKeDl6TnBEX1VJTTR1d2wyQzlUVmY0VVpYTmFQQXdDVzRzdm1FX2JXcTJ3SEdWNDBXZFlYSld6WFlobE0tVElGb3lENNIBiwFBVV95cUxNNjJTOWtWMzZnRl90ajZRd2l4ZWM0YWdld3FOeVhaaVNpMENCeWRtWXQ1VWNaZU96MFA0TVp5clJRc2JybjlTUkV0R1FlaUF6clh1U05MTXV3d0VTdEZUdmhjUjVoUDZRbGhPc2YzX3Q3VnJsWFVKdFdyRVVnM0JWcVdPcWItcnVQYnNV?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEVwcEx3NF9RTHRMNTdjbHFBRmhRZjlzOENUb1dqbGI3djZxOXl3ZGhVNlpFUFZvWmY3MTBudWdKeDl6TnBEX1VJTTR1d2wyQzlUVmY0VVpYTmFQQXdDVzRzdm1FX2JXcTJ3SEdWNDBXZFlYSld6WFlobE0tVElGb3lENNIBiwFBVV95cUxNNjJTOWtWMzZnRl90ajZRd2l4ZWM0YWdld3FOeVhaaVNpMENCeWRtWXQ1VWNaZU96MFA0TVp5clJRc2JybjlTUkV0R1FlaUF6clh1U05MTXV3d0VTdEZUdmhjUjVoUDZRbGhPc2YzX3Q3VnJsWFVKdFdyRVVnM0JWcVdPcWItcnVQYnNV?oc=5
+- Supporting coverage: The Express Tribune, Dawn, X
+- Keywords: Judicial Independence, ICJ, Courts, Pakistan, Amendments, Law | hashtags: #ICJ #Judiciary #Pakistan #Law #Courts
+- Scheduled: Thu 19 Nov, 12:33 PM PKT
 - Caption:
 ```
-A search operation has been launched after an unidentified flying object was spotted near a high-security prison.
+The International Commission of Jurists has released a report deploring the state of judicial independence in Pakistan.
 
-A search operation is currently underway after an unidentified flying object was sighted over the Sahiwal High Security Prison, as reported by Dawn.
+The International Commission of Jurists (ICJ) has expressed serious concerns regarding judicial independence in Pakistan following recent constitutional amendments. The report highlights critical issues surrounding the legal and judicial framework in the country.
 
-ڈان کی رپورٹ کے مطابق سہیوال ہائی سیکیورٹی جیل کے اوپر ایک نامعلوم اڑنے والی شے دیکھے جانے کے بعد سرچ آپریشن شروع کر دیا گیا ہے۔
+انٹرنیشنل کمیشن آف جورسٹس (آئی سی جے) نے پاکستان میں عدلیہ کی آزادی کی صورتحال پر گہری تشویش کا اظہار کیا ہے۔ رپورٹ میں ملک میں عدالتی نظام اور قانون سازی کے اثرات کا احاطہ کیا گیا ہے۔
+
+First reported by The Express Tribune.
+
+#ICJ #Judiciary #Pakistan #Law #Courts
+```
+
+### PlayStation Network Suffers Brief Outage Hours Before Highly Anticipated GTA 6 Launch  [NORMAL]
+- Poster: جی ٹی اے 6 کی لانچ سے چند گھنٹے قبل پلے اسٹیشن نیٹ ورک بند / PlayStation Network Suffers Outage Before GTA 6 | category tech
+- Alternative headline: PSN Outage Hits Gamers Around the World Just Before GTA 6 Release
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/playstation-network-suffers-brief-outage-hours-before-gta-6-launch | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/playstation-network-suffers-brief-outage-hours-before-gta-6-launch
+- Supporting coverage: ARY News, samaa tv, TechJuice
+- Keywords: PlayStation Network, GTA 6, Outage, Gaming, PS5, Downdetector | hashtags: #PlayStation #PSN #GTA6 #Gaming #TechNews
+- Scheduled: Thu 19 Nov, 12:43 PM PKT
+- Caption:
+```
+PlayStation Network experienced a brief service disruption just hours before the historic release of GTA 6.
+
+PlayStation Network experienced a brief service outage on Wednesday, leaving players unable to access certain services just hours before the highly anticipated release of GTA 6. Downdetector registered hundreds of user reports regarding the technical glitch.
+
+پلے اسٹیشن نیٹ ورک کو انتہائی متوقع گیم جی ٹی اے 6 کی ریلیز سے چند گھنٹے قبل تکنیکی خرابی کا سامنا کرنا پڑا۔ ڈاؤن ڈٹیکٹر پر سینکڑوں صارفین نے سروس میں خلل کی شکایات درج کروائیں۔
+
+First reported by ARY News.
+
+#PlayStation #PSN #GTA6 #Gaming #TechNews
+```
+
+### Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Subsidy  [NORMAL]
+- Poster: خیبر پختونخوا میں سبز رکشہ اسکیم متعارف کرانے کا فیصلہ / KP to Launch Green Rickshaw Scheme | category other
+- Alternative headline: KP Introducing Eco-Friendly Green Rickshaw Scheme to Support Transport
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxOemxtU2NHOUM2R2JXdVpxS1VCdjU3LWZQZzdkeWJTRklPSG5HRnM4SUFCWDlfM3VEMXdoN1d2eHNPN0F6Mi1fSVg1R19LT05FcXhpTEFJOEJzWDlCby12M0dVdHJoZEMwT1hyUVlqREZ3LXd2dHNheEdwMy1BSk16WDRXLUw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxOemxtU2NHOUM2R2JXdVpxS1VCdjU3LWZQZzdkeWJTRklPSG5HRnM4SUFCWDlfM3VEMXdoN1d2eHNPN0F6Mi1fSVg1R19LT05FcXhpTEFJOEJzWDlCby12M0dVdHJoZEMwT1hyUVlqREZ3LXd2dHNheEdwMy1BSk16WDRXLUw?oc=5
+- Supporting coverage: Dawn, TechJuice
+- Keywords: Green Rickshaw Scheme, Khyber Pakhtunkhwa, KP, Subsidy, Transport, Eco-friendly | hashtags: #KP #GreenRickshaw #KhyberPakhtunkhwa #Transport #Pakistan
+- Scheduled: Thu 19 Nov, 12:53 PM PKT
+- Caption:
+```
+The Khyber Pakhtunkhwa government is introducing a new green rickshaw scheme aimed at supporting eco-friendly transport.
+
+The Khyber Pakhtunkhwa government is introducing a green rickshaw scheme to promote eco-friendly transportation and provide financial relief to local drivers through subsidies.
+
+خیبر پختونخوا حکومت صوبے میں ماحول دوست نقل و حمل کو فروغ دینے اور سبسڈی کے ذریعے ڈرائیوروں کو ریلیف دینے کے لیے گرین رکشہ اسکیم متعارف کرا رہی ہے۔
 
 First reported by Dawn.
 
-#Sahiwal #Security #UFO #Dawn #Pakistan
+#KP #GreenRickshaw #KhyberPakhtunkhwa #Transport #Pakistan
 ```
 
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 11 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
 - [needs_review] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
@@ -148,7 +146,6 @@ First reported by Dawn.
 - [needs_review] normal | Pope Leo flies to mass in the Papacoptero | Mon 16 Nov, 11:01 AM PKT
 - [needs_review] normal | England topple Spain as Belgium smash Italy to reach Nations League qu | Mon 16 Nov, 12:19 PM PKT
 - [needs_review] normal | How Russia is preparing Iran for the next escalation | Mon 16 Nov, 12:29 PM PKT
-- [published] normal | US and rivals spar over next UN boss as race lurches towards deadline | Mon 16 Nov, 12:39 PM PKT
 - [needs_review] normal | I had to explain to my teacher what a young carer was - we need more s | Mon 16 Nov, 12:49 PM PKT
 - [needs_review] normal | Iran war live: Third US carrier arrives, Iran warns it could strike fi | Mon 16 Nov, 02:58 PM PKT
 - [published] normal | Geo Pakistan | 16 November 2026 | Mon 16 Nov, 03:08 PM PKT
@@ -348,11 +345,11 @@ First reported by Dawn.
 - [needs_review] normal | Myanmar faces historic genocide verdict at UN court over Rohingya | Thu 19 Nov, 04:47 AM PKT
 - [needs_review] normal | Iraq sentences six French nationals to life in prison over ISIL | Thu 19 Nov, 04:57 AM PKT
 - [published] normal | GTA 6 officially launches after 13-year wait and record pre-orders | Thu 19 Nov, 05:07 AM PKT
-- [queued] normal | US targets Hezbollah with fresh sanctions over front charities | Thu 19 Nov, 05:35 AM PKT
-- [queued] normal | Claude maker Anthropic eyes massive 1.4 trillion dollar stock debut | Thu 19 Nov, 05:45 AM PKT
-- [queued] normal | Scottish government faces questions over plans to issue first ever bon | Thu 19 Nov, 05:55 AM PKT
-- [queued] normal | Thirteen-year-old Hunger Games fan to have artwork shown in cinemas | Thu 19 Nov, 06:05 AM PKT
-- [queued] normal | Crimean Bridge hit by fresh attack, says Russian-installed official | Thu 19 Nov, 06:56 AM PKT
+- [needs_review] normal | US targets Hezbollah with fresh sanctions over front charities | Thu 19 Nov, 05:35 AM PKT
+- [needs_review] normal | Claude maker Anthropic eyes massive 1.4 trillion dollar stock debut | Thu 19 Nov, 05:45 AM PKT
+- [needs_review] normal | Scottish government faces questions over plans to issue first ever bon | Thu 19 Nov, 05:55 AM PKT
+- [needs_review] normal | Thirteen-year-old Hunger Games fan to have artwork shown in cinemas | Thu 19 Nov, 06:05 AM PKT
+- [published] normal | Crimean Bridge hit by fresh attack, says Russian-installed official | Thu 19 Nov, 06:56 AM PKT
 - [queued] normal | Van Gogh painting fetches record $190.4m following dispute resolution | Thu 19 Nov, 07:06 AM PKT
 - [queued] normal | Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz | Thu 19 Nov, 07:16 AM PKT
 - [queued] normal | Ambulance handover time limits breached over 2,000 times in four month | Thu 19 Nov, 07:26 AM PKT
@@ -372,15 +369,20 @@ First reported by Dawn.
 - [queued] normal | Trump wants to talk nuclear with Putin and Xi | Thu 19 Nov, 11:13 AM PKT
 - [queued] normal | Rangers arrest TTP terrorist in Karachi's Manghopir | Thu 19 Nov, 11:23 AM PKT
 - [queued] normal | Search underway after unidentified flying object spotted over Sahiwal  | Thu 19 Nov, 11:33 AM PKT
+- [queued] normal | Suparco Warns of Worsening Smog Across Punjab as Hundreds of Fires Rag | Thu 19 Nov, 12:23 PM PKT
+- [queued] normal | ICJ Flags Serious Concerns Over Judicial Independence in Pakistan | Thu 19 Nov, 12:33 PM PKT
+- [queued] normal | PlayStation Network Suffers Brief Outage Hours Before Highly Anticipat | Thu 19 Nov, 12:43 PM PKT
+- [queued] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
 
 ## Publishing this run
-- Published 'GTA 6 officially launches after 13-year wait and record pre-orders'.
+- Published 'Crimean Bridge hit by fresh attack, says Russian-installed official'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4596 | output tokens: 2157
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 4 | prompt tokens: 9366 | output tokens: 4723
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 182 column 7 (char 7910)
