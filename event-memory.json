@@ -78618,7 +78618,506 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7016058b1d1cba324fa0ecb8",
+      "remembered_at": "2026-11-19T16:06:28.159883+00:00",
+      "event_date": "2026-11-19T14:50:02+00:00",
+      "last_update": "2026-11-19T15:09:45+00:00",
+      "event": "'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "and",
+        "are",
+        "being",
+        "best",
+        "better",
+        "brazil",
+        "britain",
+        "children",
+        "communities",
+        "complex",
+        "coordinating",
+        "for",
+        "future",
+        "giving",
+        "global",
+        "helping",
+        "hope",
+        "including",
+        "invited",
+        "korea",
+        "learning",
+        "named",
+        "needs",
+        "nigeria",
+        "pakistan",
+        "prizes",
+        "school",
+        "schools",
+        "south",
+        "student",
+        "students",
+        "support",
+        "supporting",
+        "the",
+        "thursday",
+        "underserved",
+        "well",
+        "were",
+        "winners",
+        "with",
+        "work",
+        "world"
+      ],
+      "source_excerpt": "Schools in Britain, Nigeria, Brazil, Pakistan and South Korea were named winners of the World’s Best School Prizes on Thursday for work including supporting student well-being, helping underserved communities and coordinating support for children with complex learning needs. The winners are invited",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFBqbDBhMmMtZUV1UjhoN1hCZE9iNlRVRUhsNlAtTkt2N1pYNTJEeUtNWEttQ0RGcXdLVUUwbHFCTGxSdXhOdzNPczJrS0xzd25sOGVvMWdLTkkwRmhhdGxSVTAwajZIZ2hBQlVTbVpuOUxRRjBZUkZZMC1RcTNyUjV6Z2wtdG9Kb0RYSDRMVlhRRDRfNkI5S0o1RVFOVFZNeWtDZkhIcnB1QQ?oc=5",
+          "published_at": "2026-11-19T14:50:02+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045696/giving-students-hope-for-a-better-future-schools-in-pakistan-uk-nigeria-among-winners-in-global-prizes",
+          "published_at": "2026-11-19T15:09:45+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdzI2dzZDeFZpa2M3ejd3Y2lfRjlaa3VpeUtfek5ZTFBscUd4TFRNUGRaUjcyVHF2WG0wSlE1NVZ0dVdET0lLZWczUWp6VVFqemhBalI2ZVhFMlRqRXVFaXBkaGFoRlNSRXZ0UExyVmdxNXluc3NNMUx1UkZ4WFR3Qk4zdzJxMzcyRnNFY3RZeWpNX01yQ2pJMlIybWVWdUN5NWdxZzRrdFlHSmtJd3NUZWZZM2FaVC00N28yckZaY3lyVUhOYjgta05CM1VmNVFiS1E?oc=5",
+          "published_at": "2026-11-19T15:09:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045696/giving-students-hope-for-a-better-future-schools-in-pakistan-uk-nigeria-among-winners-in-global-prizes",
+        "publisher_url": "https://www.dawn.com/news/2045696/giving-students-hope-for-a-better-future-schools-in-pakistan-uk-nigeria-among-winners-in-global-prizes",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a9d987df110963ea4fcb967d",
+      "remembered_at": "2026-11-19T16:06:28.159883+00:00",
+      "event_date": "2026-11-19T15:24:51+00:00",
+      "last_update": "2026-11-19T15:24:51+00:00",
+      "event": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "aimed",
+        "are",
+        "begin",
+        "brexit",
+        "brussels",
+        "burnham",
+        "cooperation",
+        "deepening",
+        "for",
+        "heading",
+        "heads",
+        "new",
+        "post",
+        "premier",
+        "round",
+        "second",
+        "talks",
+        "the",
+        "wars"
+      ],
+      "source_excerpt": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+          "published_at": "2026-11-19T15:24:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4d7b387f48e6d7f160b903ee",
+      "remembered_at": "2026-11-19T16:06:28.159883+00:00",
+      "event_date": "2026-11-19T15:16:43+00:00",
+      "last_update": "2026-11-19T15:16:43+00:00",
+      "event": "Putin pitches Arctic route, calls for investment: Will it work?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "analysts",
+        "arctic",
+        "asian",
+        "but",
+        "calls",
+        "for",
+        "global",
+        "interest",
+        "investment",
+        "investors",
+        "lane",
+        "may",
+        "pitches",
+        "putin",
+        "route",
+        "say",
+        "shipping",
+        "show",
+        "some",
+        "the",
+        "unlikely",
+        "viable",
+        "will",
+        "work"
+      ],
+      "source_excerpt": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
+          "published_at": "2026-11-19T15:16:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e32819d0d248e7e31add6708",
+      "remembered_at": "2026-11-19T16:06:28.159883+00:00",
+      "event_date": "2026-11-19T15:07:43+00:00",
+      "last_update": "2026-11-19T15:07:43+00:00",
+      "event": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "border",
+        "control",
+        "cooperation",
+        "covid",
+        "effective",
+        "ensure",
+        "future",
+        "inquiry",
+        "into",
+        "ireland",
+        "its",
+        "latest",
+        "measures",
+        "needed",
+        "operable",
+        "ordination",
+        "pandemic",
+        "practice",
+        "programme",
+        "report",
+        "said",
+        "test",
+        "that",
+        "the",
+        "trace",
+        "urges",
+        "was"
+      ],
+      "source_excerpt": "In its latest report into the programme of test and trace, it said cooperation was needed \"to ensure that border control measures are effective and operable in practice\".",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T15:07:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "14cba244c8acc4d18b845c78",
+      "remembered_at": "2026-11-19T16:06:28.159883+00:00",
+      "event_date": "2026-11-19T15:22:31+00:00",
+      "last_update": "2026-11-19T15:22:31+00:00",
+      "event": "More support for households reliant on heating oil",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apply",
+        "council",
+        "eligible",
+        "encouraging",
+        "for",
+        "heating",
+        "households",
+        "more",
+        "north",
+        "northamptonshire",
+        "oil",
+        "reliant",
+        "residents",
+        "support"
+      ],
+      "source_excerpt": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T15:22:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5268d7d478b07d211422812d",
+      "remembered_at": "2026-11-19T16:06:28.159883+00:00",
+      "event_date": "2026-11-19T14:25:05+00:00",
+      "last_update": "2026-11-19T14:25:05+00:00",
+      "event": "Islamabad police serve court warrant on JUI-F leader Mufti Abrar Ahmed",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abrar",
+        "ahmed",
+        "court",
+        "islamabad",
+        "jui",
+        "leader",
+        "mufti",
+        "police",
+        "samaa",
+        "serve",
+        "warrant"
+      ],
+      "source_excerpt": "Islamabad police serve court warrant on JUI-F leader Mufti Abrar Ahmed samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZW8yR21XbVJCRnd5NFNaSmhBaC11YV9FU09XLWpyNi1kZVhFWkhZTzdTMVBLemZlSzFhOWFRcDRPblVGeGNXRzUzU09JQi1WUk5PU3hDY1RzQndZYjEyLVJheXgwZVJ6X21Kclk1SFRKU1BaVFUzZFpTRkh5MjNPN0UyZTFpSjA1bUk4UVAzUWtXTWpZeFJWd25ob201VVZVb1NUcEJwOWdlaTNwbmtYa0UzOFRqVEU?oc=5",
+          "published_at": "2026-11-19T14:25:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZW8yR21XbVJCRnd5NFNaSmhBaC11YV9FU09XLWpyNi1kZVhFWkhZTzdTMVBLemZlSzFhOWFRcDRPblVGeGNXRzUzU09JQi1WUk5PU3hDY1RzQndZYjEyLVJheXgwZVJ6X21Kclk1SFRKU1BaVFUzZFpTRkh5MjNPN0UyZTFpSjA1bUk4UVAzUWtXTWpZeFJWd25ob201VVZVb1NUcEJwOWdlaTNwbmtYa0UzOFRqVEU?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "37cc9b949145e50a4b8fdaf7",
+      "remembered_at": "2026-11-19T16:06:28.159883+00:00",
+      "event_date": "2026-11-19T15:25:28+00:00",
+      "last_update": "2026-11-19T15:25:28+00:00",
+      "event": "Pakistan, Qatar reaffirm commitment to strengthening bilateral relations in security, counter-terrorism: ISPR",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affairs",
+        "and",
+        "areas",
+        "army",
+        "bilateral",
+        "cam",
+        "cdf",
+        "chief",
+        "commitment",
+        "cooperation",
+        "counter",
+        "defence",
+        "development",
+        "field",
+        "forces",
+        "institutional",
+        "ispr",
+        "media",
+        "military",
+        "pakistan",
+        "qatar",
+        "reaffirm",
+        "reaffirmed",
+        "relations",
+        "said",
+        "security",
+        "staff",
+        "strengthening",
+        "terrorism",
+        "the",
+        "their",
+        "thursday",
+        "wing"
+      ],
+      "source_excerpt": "Pakistan and Qatar reaffirmed their commitment to strengthening bilateral relations in the areas of institutional cooperation, security and counter-terrorism on Thursday, the military’s media affairs wing said. The development cam as Chief of Defence Forces (CDF) and Chief of the Army Staff Field Ma",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045683/pakistan-qatar-reaffirm-commitment-to-strengthening-bilateral-relations-in-security-counter-terrorism-ispr",
+          "published_at": "2026-11-19T15:25:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045683/pakistan-qatar-reaffirm-commitment-to-strengthening-bilateral-relations-in-security-counter-terrorism-ispr",
+        "publisher_url": "https://www.dawn.com/news/2045683/pakistan-qatar-reaffirm-commitment-to-strengthening-bilateral-relations-in-security-counter-terrorism-ispr",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe40d88950f5333b930d1def",
+      "remembered_at": "2026-11-19T16:06:28.159883+00:00",
+      "event_date": "2026-11-19T15:41:05+00:00",
+      "last_update": "2026-11-19T15:41:05+00:00",
+      "event": "PTI founder, Bushra Bibi undergo medical examination at Adiala Jail",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adiala",
+        "bibi",
+        "bushra",
+        "examination",
+        "founder",
+        "jail",
+        "medical",
+        "pti",
+        "undergo"
+      ],
+      "source_excerpt": "PTI founder, Bushra Bibi undergo medical examination at Adiala Jail",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pti-founder-bushra-bibi-undergo-medical-examination-at-adiala-jail-2",
+          "published_at": "2026-11-19T15:41:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pti-founder-bushra-bibi-undergo-medical-examination-at-adiala-jail-2",
+        "publisher_url": "https://arynews.tv/pti-founder-bushra-bibi-undergo-medical-examination-at-adiala-jail-2",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c9e2aa6bac7486dd80073fc3",
+      "remembered_at": "2026-11-19T16:06:28.159883+00:00",
+      "event_date": "2026-11-19T16:02:46+00:00",
+      "last_update": "2026-11-19T16:02:46+00:00",
+      "event": "Punjab Assembly speaker, film producers discuss industry revival",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assembly",
+        "discuss",
+        "film",
+        "industry",
+        "producers",
+        "punjab",
+        "revival",
+        "samaa",
+        "speaker"
+      ],
+      "source_excerpt": "Punjab Assembly speaker, film producers discuss industry revival samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BYM29MZUNKa1dsS1FoZVowblkwN2VRb0JnM1pPeENQQ09MNmFJWVdTcGFqNzB2WkdTQzJDckdlU0VJRkNRSVpaUVl3T3FkOC1lYy1sX3VuajBZRHJsTTY2QnEwMVlqdmhjYWpndEhMTmM3SEtXaEV1WTZfel8weDljSGRlTWxhc040RGpWQXpEMWg1NnlKdXdHSQ?oc=5",
+          "published_at": "2026-11-19T16:02:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BYM29MZUNKa1dsS1FoZVowblkwN2VRb0JnM1pPeENQQ09MNmFJWVdTcGFqNzB2WkdTQzJDckdlU0VJRkNRSVpaUVl3T3FkOC1lYy1sX3VuajBZRHJsTTY2QnEwMVlqdmhjYWpndEhMTmM3SEtXaEV1WTZfel8weDljSGRlTWxhc040RGpWQXpEMWg1NnlKdXdHSQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T15:05:04.800626+00:00"
+  "updated_at": "2026-11-19T16:06:28.159883+00:00"
 }
