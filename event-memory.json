@@ -71995,7 +71995,752 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bd93ee69bb1d204324ae8f9c",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T01:57:22+00:00",
+      "last_update": "2026-11-19T04:39:34+00:00",
+      "event": "FBISE introduces on-the-spot printing of question papers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "fbise",
+        "introduces",
+        "papers",
+        "printing",
+        "question",
+        "spot",
+        "the"
+      ],
+      "source_excerpt": "FBISE introduces on-the-spot printing of question papers Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzJVSmFiRGFta2FHYlpzamtIMnB1MU5nVEZwaTdEMjJGc3hibnRhN0N5TFN6UHE5MlBJeGQwNkswQVFlb1FDQm1nVUhEcEVvYjg2Wk1OVGpYbUxrNm8zenB3a01JOHQ2QW5fTEpQaVhjVVYtM182ZzNvZUlhS0ZZV04tejN6X2ZSMEtXdnJ4S2xuUE0x?oc=5",
+          "published_at": "2026-11-19T01:57:22+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/fbise-introduces-on-the-spot-printing-of-exam-papers-to-prevent-leaks/",
+          "published_at": "2026-11-19T04:15:29+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045625/fbise-introduces-on-the-spot-printing-of-question-papers-at-examination-centres",
+          "published_at": "2026-11-19T04:39:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzJVSmFiRGFta2FHYlpzamtIMnB1MU5nVEZwaTdEMjJGc3hibnRhN0N5TFN6UHE5MlBJeGQwNkswQVFlb1FDQm1nVUhEcEVvYjg2Wk1OVGpYbUxrNm8zenB3a01JOHQ2QW5fTEpQaVhjVVYtM182ZzNvZUlhS0ZZV04tejN6X2ZSMEtXdnJ4S2xuUE0x?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "276986034207726ecedb872c",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T01:57:22+00:00",
+      "last_update": "2026-11-19T04:55:07+00:00",
+      "event": "Man arrested for allegedly sexually abusing boy",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abusing",
+        "allegedly",
+        "arrested",
+        "boy",
+        "dawn",
+        "for",
+        "man",
+        "sexually"
+      ],
+      "source_excerpt": "Man arrested for allegedly sexually abusing boy Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2M0eTRKT05zLUVfb2pVLUtQNTE1U1NTeTdXdkV6R3pqVS0zWnVNRzJCV3F3cDNzUjN4V3JCM2tzclJjNXBpbG1JVUhOam1FZ2pKUl9UYjBzVlhOUmp6aTdPM1pWQzBOZTZiaFZhSkxPTGRSTi1mNnE2Y0RrTFpQano1THhPamtm?oc=5",
+          "published_at": "2026-11-19T01:57:22+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045489/man-arrested-for-allegedly-sexually-abusing-boy-in-rawalpindi",
+          "published_at": "2026-11-19T04:55:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2M0eTRKT05zLUVfb2pVLUtQNTE1U1NTeTdXdkV6R3pqVS0zWnVNRzJCV3F3cDNzUjN4V3JCM2tzclJjNXBpbG1JVUhOam1FZ2pKUl9UYjBzVlhOUmp6aTdPM1pWQzBOZTZiaFZhSkxPTGRSTi1mNnE2Y0RrTFpQano1THhPamtm?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "82e4dad6fa5e4d5b1edea3be",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T01:56:55+00:00",
+      "last_update": "2026-11-19T04:54:51+00:00",
+      "event": "CM approves panchayat system to resolve disputes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "approves",
+        "dawn",
+        "disputes",
+        "panchayat",
+        "resolve",
+        "system"
+      ],
+      "source_excerpt": "CM approves panchayat system to resolve disputes Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdS1BNEFoQUlRbzRWdWhGbG8xN3ZUa1EwY3dyWEpjZ0ZDbDBSMzVnUG5rQ29OOGRPM3lJVno0dGMyZmlFNHBhZXRKaUwwMzFRVFlYSWM3dGstYzMxY19ReF8zN0JORUh2M1ZFWVQ1R2liTS04dzBEdHpKRHVpZjlnRG8zSE9RaGNWU0E?oc=5",
+          "published_at": "2026-11-19T01:56:55+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045567/punjab-cm-approves-panchayat-system-to-resolve-disputes",
+          "published_at": "2026-11-19T04:54:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdS1BNEFoQUlRbzRWdWhGbG8xN3ZUa1EwY3dyWEpjZ0ZDbDBSMzVnUG5rQ29OOGRPM3lJVno0dGMyZmlFNHBhZXRKaUwwMzFRVFlYSWM3dGstYzMxY19ReF8zN0JORUh2M1ZFWVQ1R2liTS04dzBEdHpKRHVpZjlnRG8zSE9RaGNWU0E?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "625266c237a21f77745960b7",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T01:56:55+00:00",
+      "last_update": "2026-11-19T04:44:20+00:00",
+      "event": "Bail plea of Qureshi adjourned",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adjourned",
+        "bail",
+        "dawn",
+        "plea",
+        "qureshi"
+      ],
+      "source_excerpt": "Bail plea of Qureshi adjourned Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IYXpqb2ZvT0djeEIwUFVTUkhIR09JaHJjVWo4b18xbHMxb2ZxZnRFbmdnSGdmTTNvS1BoUVJBR2RuN1ROT3ExbllNR04teDFuWFdKN1Q5ZEdndDVFakk4a0dNdEV3ZnppLXZId1IyQ1BlUQ?oc=5",
+          "published_at": "2026-11-19T01:56:55+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045626/lahore-atc-adjourns-shah-mehmood-qureshis-bail-plea-in-may-9-case",
+          "published_at": "2026-11-19T04:44:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IYXpqb2ZvT0djeEIwUFVTUkhIR09JaHJjVWo4b18xbHMxb2ZxZnRFbmdnSGdmTTNvS1BoUVJBR2RuN1ROT3ExbllNR04teDFuWFdKN1Q5ZEdndDVFakk4a0dNdEV3ZnppLXZId1IyQ1BlUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aa86141f407af94e71d5779f",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T01:57:13+00:00",
+      "last_update": "2026-11-19T04:24:42+00:00",
+      "event": "Resilience needs more than buffers: Jameel",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "buffers",
+        "dawn",
+        "jameel",
+        "more",
+        "needs",
+        "resilience",
+        "than"
+      ],
+      "source_excerpt": "Resilience needs more than buffers: Jameel Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNak9XNXE0d3l6Wm5NSjZjQ2hRWkRoR2VBMEwtRHJEanZzUjJVeEZJMHhPOFlDc3VEZnpXZ3NRTjFQZ09ZQXd5SXoxdFB3eHRhR2xjUWNVaFFDR0FScjV2TDZHem1aaWtLMTA5X0QxcWZxV2l5MU5ZNzZlN2ZhbXI5Qg?oc=5",
+          "published_at": "2026-11-19T01:57:13+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045621/economic-resilience-needs-more-than-fiscal-external-buffers-sbp-governor",
+          "published_at": "2026-11-19T04:24:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNak9XNXE0d3l6Wm5NSjZjQ2hRWkRoR2VBMEwtRHJEanZzUjJVeEZJMHhPOFlDc3VEZnpXZ3NRTjFQZ09ZQXd5SXoxdFB3eHRhR2xjUWNVaFFDR0FScjV2TDZHem1aaWtLMTA5X0QxcWZxV2l5MU5ZNzZlN2ZhbXI5Qg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1c1525d0a1be9b829aeff01a",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T04:49:03+00:00",
+      "last_update": "2026-11-19T04:49:03+00:00",
+      "event": "Saqib Khan ruled out of further bowling in Rawalpindi Test",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bowling",
+        "dawn",
+        "further",
+        "khan",
+        "out",
+        "rawalpindi",
+        "ruled",
+        "saqib",
+        "test"
+      ],
+      "source_excerpt": "Saqib Khan ruled out of further bowling in Rawalpindi Test Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX21VZ192THBUdV9kSW56eDYtU3hIWndQdThWRloyQVo5bmNBV0U1SDJwRkZEZElXVjNQVkZhTV9PUVk1VnZOUExMbFpHU1RWUERhR1hOY1lqNWlzZlZxd0tZeHNEVFhYemVCaURxRnJkRXZwbS1LbENzMUJQTGsxOThNSlZvWjVLS3B3NmNzc0Q2dFdjSGVB?oc=5",
+          "published_at": "2026-11-19T04:49:03+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045627/saqib-khan-ruled-out-of-further-bowling-in-rawalpindi-test",
+          "published_at": "2026-11-19T04:49:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX21VZ192THBUdV9kSW56eDYtU3hIWndQdThWRloyQVo5bmNBV0U1SDJwRkZEZElXVjNQVkZhTV9PUVk1VnZOUExMbFpHU1RWUERhR1hOY1lqNWlzZlZxd0tZeHNEVFhYemVCaURxRnJkRXZwbS1LbENzMUJQTGsxOThNSlZvWjVLS3B3NmNzc0Q2dFdjSGVB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "421fae6661521e9bc12ba449",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T04:39:00+00:00",
+      "last_update": "2026-11-19T04:39:00+00:00",
+      "event": "Paramilitary units deployed in Bangladesh amid unrest ahead of Hasina's planned visit",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045579",
+        "ahead",
+        "amid",
+        "bangladesh",
+        "com",
+        "dawn",
+        "deployed",
+        "hasina",
+        "https",
+        "news",
+        "paramilitary",
+        "planned",
+        "units",
+        "unrest",
+        "visit",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045579",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045624/paramilitary-units-deployed-in-bangladesh-amid-unrest-ahead-of-hasinas-planned-visit",
+          "published_at": "2026-11-19T04:39:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045624/paramilitary-units-deployed-in-bangladesh-amid-unrest-ahead-of-hasinas-planned-visit",
+        "publisher_url": "https://www.dawn.com/news/2045624/paramilitary-units-deployed-in-bangladesh-amid-unrest-ahead-of-hasinas-planned-visit",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a6484fb8a4bfb26888d77dea",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T04:42:52+00:00",
+      "last_update": "2026-11-19T04:42:52+00:00",
+      "event": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "appear",
+        "are",
+        "but",
+        "challenges",
+        "china",
+        "comes",
+        "diplomatic",
+        "discuss",
+        "does",
+        "for",
+        "keen",
+        "meeting",
+        "moment",
+        "not",
+        "pitfalls",
+        "putin",
+        "remarkable",
+        "the",
+        "there",
+        "things",
+        "this",
+        "trump",
+        "with"
+      ],
+      "source_excerpt": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T04:42:52+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JYzJOeVlUNDZnTGFKMnF4NW93ZThRSXRyTlpxWjdJNGpVMmFWOV9hNUdKbXlETUZtekRVclZIQkhDYzQ3S0FybXpIaE1CSThlREhNdzNmU21lQXc?oc=5",
+          "published_at": "2026-11-19T04:42:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7cadce8b3d6c571698cffe98",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T04:46:59+00:00",
+      "last_update": "2026-11-19T04:46:59+00:00",
+      "event": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appeal",
+        "bid",
+        "california",
+        "court",
+        "emergency",
+        "end",
+        "ending",
+        "follows",
+        "judge",
+        "makes",
+        "migrant",
+        "protected",
+        "protections",
+        "ruling",
+        "status",
+        "supreme",
+        "temporary",
+        "that",
+        "their",
+        "third",
+        "trump",
+        "unlawful",
+        "venezuelan",
+        "was"
+      ],
+      "source_excerpt": "Emergency appeal follows a California judge's ruling that ending their temporary protected status was unlawful.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+          "published_at": "2026-11-19T04:46:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "15309576fbee24ff11bb18c0",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T04:44:24+00:00",
+      "last_update": "2026-11-19T04:44:24+00:00",
+      "event": "Is this ancient Swahili town at risk from Kenya’s energy boom",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "ancient",
+        "and",
+        "betting",
+        "billions",
+        "boom",
+        "dependence",
+        "east",
+        "energy",
+        "from",
+        "imports",
+        "infrastructure",
+        "kenya",
+        "oil",
+        "reduce",
+        "risk",
+        "security",
+        "strengthen",
+        "swahili",
+        "this",
+        "town"
+      ],
+      "source_excerpt": "East Africa is betting billions on oil infrastructure to strengthen energy security and reduce dependence on imports.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-this-ancient-swahili-town-at-risk-from-kenyas-energy-boom?traffic_source=rss",
+          "published_at": "2026-11-19T04:44:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-this-ancient-swahili-town-at-risk-from-kenyas-energy-boom?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-this-ancient-swahili-town-at-risk-from-kenyas-energy-boom?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a70deea0e97f12a08a324c22",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T03:58:10+00:00",
+      "last_update": "2026-11-19T03:58:10+00:00",
+      "event": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2021",
+        "accused",
+        "assassination",
+        "christian",
+        "convicts",
+        "court",
+        "emmanuel",
+        "haitian",
+        "miami",
+        "moise",
+        "over",
+        "pastor",
+        "president",
+        "prosecutors",
+        "replace",
+        "sanon",
+        "seeking",
+        "then"
+      ],
+      "source_excerpt": "Prosecutors accused Christian Emmanuel Sanon of seeking to replace then-Haitian President Moise.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+          "published_at": "2026-11-19T03:58:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e4045e731c9a635f3582e88c",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T04:29:18+00:00",
+      "last_update": "2026-11-19T04:29:18+00:00",
+      "event": "'Malicious' activity not behind US tech outages: security officials",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activity",
+        "arynews",
+        "behind",
+        "malicious",
+        "not",
+        "officials",
+        "outages",
+        "security",
+        "tech"
+      ],
+      "source_excerpt": "'Malicious' activity not behind US tech outages: security officials ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdkNuSnVCN1BubXJPWWhDMFM5QV9YdDE4Nm9tbEx4b3QwYVUzRi1VQWVyUExiczNYSTFGbTZhUVFhZ2hZV0FYVHJIMjBiNElNQkppNW5Dakt0YXR4bXVNZU1VVTNfNjBQZV9TUmQ3UUM0NnhQcVJwX0JuWDlIREJ0M0lkYkRwTGc3RHpR?oc=5",
+          "published_at": "2026-11-19T04:29:18+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/malicious-activity-not-behind-us-tech-outages-security-officials",
+          "published_at": "2026-11-19T04:29:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdkNuSnVCN1BubXJPWWhDMFM5QV9YdDE4Nm9tbEx4b3QwYVUzRi1VQWVyUExiczNYSTFGbTZhUVFhZ2hZV0FYVHJIMjBiNElNQkppNW5Dakt0YXR4bXVNZU1VVTNfNjBQZV9TUmQ3UUM0NnhQcVJwX0JuWDlIREJ0M0lkYkRwTGc3RHpR?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "40e72a404820f10219084ad5",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T04:50:31+00:00",
+      "last_update": "2026-11-19T04:50:31+00:00",
+      "event": "PTI MPA in Punjab writes to speaker over ‘authoritarian legislative agenda’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045561",
+        "agenda",
+        "authoritarian",
+        "com",
+        "dawn",
+        "https",
+        "legislative",
+        "mpa",
+        "news",
+        "over",
+        "pti",
+        "punjab",
+        "speaker",
+        "writes",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045561/pti-mpa-writes-to-speaker-over-authoritarian-legislative-agenda",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045631/pti-mpa-in-punjab-writes-to-speaker-over-authoritarian-legislative-agenda",
+          "published_at": "2026-11-19T04:50:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045631/pti-mpa-in-punjab-writes-to-speaker-over-authoritarian-legislative-agenda",
+        "publisher_url": "https://www.dawn.com/news/2045631/pti-mpa-in-punjab-writes-to-speaker-over-authoritarian-legislative-agenda",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c85f8f2c3064afc17693cc8d",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T04:49:00+00:00",
+      "last_update": "2026-11-19T04:49:00+00:00",
+      "event": "Islamabad police, food authority seize 800kg of meat suspected to be of different animals, including donkeys",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045496",
+        "800kg",
+        "animals",
+        "authority",
+        "com",
+        "dawn",
+        "different",
+        "donkeys",
+        "food",
+        "https",
+        "including",
+        "islamabad",
+        "meat",
+        "news",
+        "police",
+        "seize",
+        "suspected",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045496",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045629/islamabad-police-food-authority-seize-800kg-of-meat-suspected-to-be-of-different-animals-including-donkeys",
+          "published_at": "2026-11-19T04:49:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045629/islamabad-police-food-authority-seize-800kg-of-meat-suspected-to-be-of-different-animals-including-donkeys",
+        "publisher_url": "https://www.dawn.com/news/2045629/islamabad-police-food-authority-seize-800kg-of-meat-suspected-to-be-of-different-animals-including-donkeys",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a5abb8849b140b9430b9cac",
+      "remembered_at": "2026-11-19T04:59:42.741043+00:00",
+      "event_date": "2026-11-19T04:46:20+00:00",
+      "last_update": "2026-11-19T04:46:20+00:00",
+      "event": "Punjab Assembly passes 'contentious' theatre bill, seven others amid opposition outcry",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1196171",
+        "amid",
+        "assembly",
+        "bill",
+        "com",
+        "contentious",
+        "dawn",
+        "https",
+        "images",
+        "news",
+        "opposition",
+        "others",
+        "outcry",
+        "passes",
+        "punjab",
+        "seven",
+        "theatre"
+      ],
+      "source_excerpt": "https://images.dawn.com/news/1196171/punjab-assembly-passes-contentious-theatre-bill-seven-others-amid-opposition-outcry",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045628/punjab-assembly-passes-contentious-theatre-bill-seven-others-amid-opposition-outcry",
+          "published_at": "2026-11-19T04:46:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045628/punjab-assembly-passes-contentious-theatre-bill-seven-others-amid-opposition-outcry",
+        "publisher_url": "https://www.dawn.com/news/2045628/punjab-assembly-passes-contentious-theatre-bill-seven-others-amid-opposition-outcry",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T03:53:21.033239+00:00"
+  "updated_at": "2026-11-19T04:59:42.741043+00:00"
 }

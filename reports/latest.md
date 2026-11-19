@@ -1,146 +1,142 @@
-# News Hub report - Thu 19 Nov, 08:53 AM PKT
+# News Hub report - Thu 19 Nov, 09:59 AM PKT
 
 ## Collection
-- New items this run: 23 | items in rolling pool: 275
-- Unique story clusters: 245 (duplicates merged: 30)
+- New items this run: 55 | items in rolling pool: 302
+- Unique story clusters: 256 (duplicates merged: 46)
 - Clusters dropped as already published/queued: 32; unchanged since last analysis: 2
-- Items per outlet: Dawn Pakistan 7, Al Jazeera 4, Geo News 3, ARY News 2, Dunya News 1, The Express Tribune 1, X 1, Profit by Pakistan Today 1, Open Magazine 1, CNBC 1, France 24 1, Jang Fast Lane 0
+- Items per outlet: Dawn Latest 10, Profit by Pakistan Today 5, Dawn Pakistan 4, Al Jazeera 4, The News International 3, ARY News 3, BBC 3, Geo News 2, Dawn 2, ProPakistani 2, TechJuice 2, PhoneWorld 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Cummins defiant as 'Sandpapergate' roils Australian cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI’s legal eagles ‘shake and make up’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Poll tribunal suspends results of GBA-16, Diamer-II | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Google’s driverless car hits a roadblock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBISE introduces on-the-spot printing of question papers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man arrested for allegedly sexually abusing boy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM approves panchayat system to resolve disputes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bail plea of Qureshi adjourned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Cummins defiant as 'Sandpapergate' roils Australian cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI’s legal eagles ‘shake and make up’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Poll tribunal suspends results of GBA-16, Diamer-II | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Google’s driverless car hits a roadblock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBISE introduces on-the-spot printing of question papers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man arrested for allegedly sexually abusing boy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM approves panchayat system to resolve disputes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bail plea of Qureshi adjourned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Cummins defiant as 'Sandpapergate' roils Australian cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI’s legal eagles ‘shake and make up’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Poll tribunal suspends results of GBA-16, Diamer-II | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Elon Musk says record spending on US midterms was 'pretty foolish' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Google’s driverless car hits a roadblock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBISE introduces on-the-spot printing of question papers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man arrested for allegedly sexually abusing boy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM approves panchayat system to resolve disputes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bail plea of Qureshi adjourned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 102/107 | empty: 2 | failed: 3 | malformed/partial: 3
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Parliament and Constitution Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Cummins defiant as Sandpapergate roils Australian cricket once again  [NORMAL]
-- Poster: آسٹریلوی کرکٹ میں سینڈ پیپر گیٹ اسکینڈل پر کپتان پیٹ کمنز کا سخت موقف / Cummins defiant as Sandpapergate roils Australian cricket | category sports
-- Alternative headline: Pat Cummins stays defiant as ball tampering scandal returns to cricket
+### FBISE Introduces On-the-Spot Printing of Exam Papers to Prevent Leaks  [NORMAL]
+- Poster: ایف بی آئی ایس ای نے پرچے لیک ہونے سے بچانے کے لیے موقع پر پرنٹنگ متعارف کرا دی / FBISE introduces on-the-spot exam paper printing | category other
+- Alternative headline: FBISE introduces on-the-spot printing of question papers at examination centres
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnZ5S1VTTC1SS1ZBa3ZGeVd5QWdSa2tLOFhZR0FhTG01OGF3YlhOV0ExS2hzdjFIUVhaaE5uVW9Na2FYdGtGQUVFOXpSOXVQM3RxSDBxYUhtd3pwS3NUUXRHYmZTU2pCc21DZnZ5MjNvMk9uMXVqMVdKcHJIOXlfVVJzMEFWeU9kSV9IWVVJTWtGRk5mMmc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnZ5S1VTTC1SS1ZBa3ZGeVd5QWdSa2tLOFhZR0FhTG01OGF3YlhOV0ExS2hzdjFIUVhaaE5uVW9Na2FYdGtGQUVFOXpSOXVQM3RxSDBxYUhtd3pwS3NUUXRHYmZTU2pCc21DZnZ5MjNvMk9uMXVqMVdKcHJIOXlfVVJzMEFWeU9kSV9IWVVJTWtGRk5mMmc?oc=5
-- Supporting coverage: Dawn, Dawn Latest, ARY News
-- Keywords: Sandpapergate, Pat Cummins, Australian cricket, ball tampering, Dawn | hashtags: #PatCummins #Sandpapergate #AustralianCricket #CricketNews
-- Scheduled: Thu 19 Nov, 08:53 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzJVSmFiRGFta2FHYlpzamtIMnB1MU5nVEZwaTdEMjJGc3hibnRhN0N5TFN6UHE5MlBJeGQwNkswQVFlb1FDQm1nVUhEcEVvYjg2Wk1OVGpYbUxrNm8zenB3a01JOHQ2QW5fTEpQaVhjVVYtM182ZzNvZUlhS0ZZV04tejN6X2ZSMEtXdnJ4S2xuUE0x?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzJVSmFiRGFta2FHYlpzamtIMnB1MU5nVEZwaTdEMjJGc3hibnRhN0N5TFN6UHE5MlBJeGQwNkswQVFlb1FDQm1nVUhEcEVvYjg2Wk1OVGpYbUxrNm8zenB3a01JOHQ2QW5fTEpQaVhjVVYtM182ZzNvZUlhS0ZZV04tejN6X2ZSMEtXdnJ4S2xuUE0x?oc=5
+- Supporting coverage: Dawn, TechJuice, Dawn Latest
+- Keywords: FBISE, exam papers, question papers, paper leaks, Federal Board, education | hashtags: #FBISE #Education #Pakistan #Exams #DawnNews
+- Scheduled: Thu 19 Nov, 09:59 AM PKT
 - Caption:
 ```
-Australian cricket is facing fresh turbulence as captain Pat Cummins remains defiant over the lingering controversy surrounding the Sandpapergate scandal.
+Federal Board takes a major step to secure examinations by introducing on-the-spot printing of question papers.
 
-Australian cricket captain Pat Cummins has taken a defiant stance as the long-running controversy surrounding the Sandpapergate ball-tampering scandal continues to stir debate within the cricketing world, drawing fresh scrutiny over past events.
+The Federal Board of Intermediate and Secondary Education (FBISE) has introduced on-the-spot printing of question papers at examination centres. This initiative is aimed at preventing paper leaks and ensuring a secure and transparent examination process for students.
 
-آسٹریلوی کرکٹ ٹیم کے کپتان پیٹ کمنز نے سینڈ پیپر گیٹ اسکینڈل سے متعلق اٹھنے والے تنازع پر سخت اور غیر متزلزل مؤقف اختیار کیا ہے، جس سے ایک بار پھر کرکٹ کی دنیا میں ہلچل مچ گئی ہے۔
+وفاقی بورڈ آف انٹرمیڈیٹ اینڈ سیکنڈری ایجوکیشن (ایف بی آئی ایس ای) نے امتحانی مراکز پر سوالیہ پرچوں کی موقع پر پرنٹنگ متعارف کرا دی ہے۔ اس اقدام کا مقصد پرچوں کو لیک ہونے سے بچانا اور طلباء کے لیے ایک محفوظ اور شفاف امتحانی عمل کو یقینی بنانا ہے۔
 
-First reported by Dawn
+First reported by Dawn.
 
-#PatCummins #Sandpapergate #AustralianCricket #CricketNews
+#FBISE #Education #Pakistan #Exams #DawnNews
 ```
 
-### PTI legal eagles Salman Akram Raja and Latif Khosa shake and make up  [NORMAL]
-- Poster: پی ٹی آئی کے قانونی رہنماؤں سلمان اکرم راجہ اور لطیف کھوسہ کے درمیان صلح / PTI legal eagles shake and make up | category politics
-- Alternative headline: PTI leaders Salman Akram Raja and Latif Khosa resolve differences
+### Man arrested for allegedly sexually abusing boy in Rawalpindi  [NORMAL]
+- Poster: راولپنڈی میں بچے سے مبینہ زیادتی کے الزام میں ایک شخص گرفتار / Man arrested for alleged abuse of boy in Rawalpindi | category crime
+- Alternative headline: Rawalpindi police arrest man for alleged sexual abuse of minor boy
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMieEFVX3lxTE1CS1BMWF9VNHJWSnhweEEwbkNoYmY5RXZoTTdCNG9pbXRiYmxlVEw3SldvM0dtd0ozTEN1OXJELVFBNGthMnltaFN3Y01VNVV3WFlfVUQ5NHV3TklFQ21ZanU5Rzd1YTVremZnS29takNoMzF4b1FuVA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMieEFVX3lxTE1CS1BMWF9VNHJWSnhweEEwbkNoYmY5RXZoTTdCNG9pbXRiYmxlVEw3SldvM0dtd0ozTEN1OXJELVFBNGthMnltaFN3Y01VNVV3WFlfVUQ5NHV3TklFQ21ZanU5Rzd1YTVremZnS29takNoMzF4b1FuVA?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2M0eTRKT05zLUVfb2pVLUtQNTE1U1NTeTdXdkV6R3pqVS0zWnVNRzJCV3F3cDNzUjN4V3JCM2tzclJjNXBpbG1JVUhOam1FZ2pKUl9UYjBzVlhOUmp6aTdPM1pWQzBOZTZiaFZhSkxPTGRSTi1mNnE2Y0RrTFpQano1THhPamtm?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2M0eTRKT05zLUVfb2pVLUtQNTE1U1NTeTdXdkV6R3pqVS0zWnVNRzJCV3F3cDNzUjN4V3JCM2tzclJjNXBpbG1JVUhOam1FZ2pKUl9UYjBzVlhOUmp6aTdPM1pWQzBOZTZiaFZhSkxPTGRSTi1mNnE2Y0RrTFpQano1THhPamtm?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Salman Akram Raja, Latif Khosa, PTI, legal eagles, Dawn | hashtags: #PTI #SalmanAkramRaja #LatifKhosa #PakistanPolitics
-- Scheduled: Thu 19 Nov, 09:03 AM PKT
+- Keywords: Rawalpindi, arrest, abuse, police, crime, Rawalpindi news | hashtags: #Rawalpindi #Police #Crime #Pakistan #DawnNews
+- Scheduled: Thu 19 Nov, 10:09 AM PKT
 - Caption:
 ```
-PTI's prominent legal minds Salman Akram Raja and Latif Khosa have resolved their differences, bringing a sigh of relief to party supporters.
+Police in Rawalpindi have arrested a man following allegations of sexually abusing a young boy.
 
-Prominent Pakistan Tehreek-e-Insaf legal figures Salman Akram Raja and Latif Khosa have reportedly resolved their internal differences and made up, according to reports published by Dawn.
+A man has been arrested in Rawalpindi for allegedly sexually abusing a boy. According to reports, local authorities took action following the incident, and further investigations are currently underway to ascertain the facts.
 
-پاکستان تحریک انصاف کے اہم قانونی رہنماؤں سلمان اکرم راجہ اور لطیف کھوسہ نے اپنے اختلافات ختم کرتے ہوئے آپس میں صلح کر لی ہے، جس کی رپورٹ ڈان نے جاری کی ہے۔
+راولپنڈی میں ایک شخص کو بچے کے ساتھ مبینہ جنسی زیادتی کے الزام میں گرفتار کر لیا گیا ہے۔ اطلاعات کے مطابق، مقامی حکام نے واقعے کے بعد کارروائی کی، اور حقائق جاننے کے لیے مزید تفتیش جاری ہے۔
 
-First reported by Dawn
+First reported by Dawn.
 
-#PTI #SalmanAkramRaja #LatifKhosa #PakistanPolitics
+#Rawalpindi #Police #Crime #Pakistan #DawnNews
 ```
 
-### Poll tribunal suspends election results of GBA-16 and Diamer-II  [NORMAL]
-- Poster: انتخابی ٹریبونل نے جی بی اے 16 اور دیامر 2 کے نتائج معطل کر دیے / Poll tribunal suspends GBA-16 and Diamer-II results | category courts
-- Alternative headline: Gilgit-Baltistan poll tribunal suspends results for GBA-16 and Diamer-II
+### Punjab CM approves panchayat system to resolve disputes  [NORMAL]
+- Poster: پنجاب کے وزیر اعلیٰ نے تنازعات کے حل کے لیے پنچایت نظام کی منظوری دے دی / Punjab CM approves panchayat system for dispute resolution | category politics
+- Alternative headline: CM approves panchayat system to resolve local disputes
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0o0aXg1aWN1dDlxSDVnOWJOZVJxVWIzTEZSODY5Nk1OY3VMbTNYbGVnLXJVLVNhR2lWWW1pbDYxVGx2dG9MUzhqeFJfRjdNZGdzYUZfUlZvOG13MjNxTkwwYmFoTUhZMl9mY0w2akdBMjlPWG1CV2w0aXdjclE3ZzFrQUNLZWxxRDBZYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0o0aXg1aWN1dDlxSDVnOWJOZVJxVWIzTEZSODY5Nk1OY3VMbTNYbGVnLXJVLVNhR2lWWW1pbDYxVGx2dG9MUzhqeFJfRjdNZGdzYUZfUlZvOG13MjNxTkwwYmFoTUhZMl9mY0w2akdBMjlPWG1CV2w0aXdjclE3ZzFrQUNLZWxxRDBZYw?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxOdS1BNEFoQUlRbzRWdWhGbG8xN3ZUa1EwY3dyWEpjZ0ZDbDBSMzVnUG5rQ29OOGRPM3lJVno0dGMyZmlFNHBhZXRKaUwwMzFRVFlYSWM3dGstYzMxY19ReF8zN0JORUh2M1ZFWVQ1R2liTS04dzBEdHpKRHVpZjlnRG8zSE9RaGNWU0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxOdS1BNEFoQUlRbzRWdWhGbG8xN3ZUa1EwY3dyWEpjZ0ZDbDBSMzVnUG5rQ29OOGRPM3lJVno0dGMyZmlFNHBhZXRKaUwwMzFRVFlYSWM3dGstYzMxY19ReF8zN0JORUh2M1ZFWVQ1R2liTS04dzBEdHpKRHVpZjlnRG8zSE9RaGNWU0E?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: poll tribunal, GBA-16, Diamer-II, Gilgit-Baltistan, Dawn | hashtags: #GilgitBaltistan #ElectionTribunal #GBElections
-- Scheduled: Thu 19 Nov, 09:13 AM PKT
+- Keywords: panchayat system, Punjab CM, dispute resolution, Punjab government, local disputes | hashtags: #Punjab #ChiefMinister #Panchayat #DisputeResolution #DawnNews
+- Scheduled: Thu 19 Nov, 10:19 AM PKT
 - Caption:
 ```
-The election tribunal has suspended the controversial results of GBA-16 and Diamer-II, dealing a significant blow to the electoral process in the region.
+The Punjab government has approved the panchayat system as a mechanism to resolve local disputes.
 
-The election tribunal has officially suspended the results of GBA-16 and Diamer-II, according to reports by Dawn, as legal challenges regarding the constituencies continue to unfold.
+The Chief Minister of Punjab has approved the implementation of a panchayat system aimed at resolving local disputes efficiently. The initiative seeks to provide alternative dispute resolution mechanisms at the grassroots level across the province.
 
-ڈان کی رپورٹ کے مطابق انتخابی ٹریبونل نے حلقہ جی بی اے 16 اور دیامر 2 کے انتخابی نتائج معطل کر دیے ہیں، جس کے بعد اس معاملے پر مزید قانونی کارروائی متوقع ہے۔
+وزیر اعلیٰ پنجاب نے مقامی تنازعات کو مؤثر طریقے سے حل کرنے کے مقصد سے پنچایت کے نظام کے نفاذ کی منظوری دے دی ہے۔ اس اقدام کا مقصد صوبے بھر میں نچلی سطح پر تنازعات کے حل کے متبادل ذرائع فراہم کرنا ہے۔
 
-First reported by Dawn
+First reported by Dawn.
 
-#GilgitBaltistan #ElectionTribunal #GBElections
+#Punjab #ChiefMinister #Panchayat #DisputeResolution #DawnNews
 ```
 
-### Elon Musk calls record spending on US midterms pretty foolish  [NORMAL]
-- Poster: ایلون مسک کا امریکی مڈٹرم انتخابات پر بھاری اخراجات کو حماقت قرار دینے کا اعتراف / Elon Musk calls US midterm spending foolish | category us_politics
-- Alternative headline: Elon Musk admits heavy midterm spending was a mistake after GOP defeats
+### Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case  [NORMAL]
+- Poster: لاہور انسداد دہشت گردی عدالت نے 9 مئی کیس میں شاہ محمود قریشی کی ضمانت کی درخواست ملتوی کر دی / Lahore ATC adjourns Qureshi bail plea in May 9 case | category courts
+- Alternative headline: Bail plea of Qureshi adjourned by Lahore ATC in May 9 case
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology
-- Keywords: Elon Musk, US midterms, Donald Trump, Republicans, Democrats | hashtags: #ElonMusk #USMidterms #DonaldTrump #USPolitics
-- Scheduled: Thu 19 Nov, 09:23 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMickFVX3lxTE9IYXpqb2ZvT0djeEIwUFVTUkhIR09JaHJjVWo4b18xbHMxb2ZxZnRFbmdnSGdmTTNvS1BoUVJBR2RuN1ROT3ExbllNR04teDFuWFdKN1Q5ZEdndDVFakk4a0dNdEV3ZnppLXZId1IyQ1BlUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMickFVX3lxTE9IYXpqb2ZvT0djeEIwUFVTUkhIR09JaHJjVWo4b18xbHMxb2ZxZnRFbmdnSGdmTTNvS1BoUVJBR2RuN1ROT3ExbllNR04teDFuWFdKN1Q5ZEdndDVFakk4a0dNdEV3ZnppLXZId1IyQ1BlUQ?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Shah Mehmood Qureshi, Lahore ATC, bail plea, May 9 case, courts, PTI | hashtags: #ShahMehmoodQureshi #LahoreATC #May9 #Courts #DawnNews
+- Scheduled: Thu 19 Nov, 10:29 AM PKT
 - Caption:
 ```
-Tech billionaire Elon Musk admitted he felt pretty foolish about his record financial backing of Republican candidates following sweeping Democratic victories.
+An anti-terrorism court in Lahore has adjourned the bail plea of Shah Mehmood Qureshi in connection with the May 9 riots case.
 
-Billionaire Elon Musk stated that he felt quite foolish about spending a record 446 million dollars supporting Donald Trump's party in the US midterms, following major Republican defeats and Democratic gains across both congressional chambers.
+The Lahore Anti-Terrorism Court (ATC) has adjourned the bail petition filed by Pakistan Tehreek-i-Insaf leader Shah Mehmood Qureshi in a case related to the May 9 violence. Further proceedings in the matter have been delayed to a later date.
 
-ارب پتی ایلون مسک نے اعتراف کیا ہے کہ امریکی مڈٹرم انتخابات میں ڈونلڈ ٹرمپ کی پارٹی کی حمایت کے لیے 446 ملین ڈالر کی ریکارڈ رقم خرچ کرنا ایک احمقانہ فیصلہ تھا۔ یہ بیان ریپبلکنز کی شکست کے بعد سامنے آیا۔
+لاہور کی انسداد دہشت گردی عدالت (اے ٹی سی) نے 9 مئی کے پرتشدد واقعات سے متعلق کیس میں رہنما تحریک انصاف شاہ محمود قریشی کی ضمانت کی درخواست پر سماعت ملتوی کر دی ہے۔ اس معاملے کی مزید کارروائی مؤخر کر دی گئی ہے۔
 
-First reported by BBC Technology
+First reported by Dawn.
 
-#ElonMusk #USMidterms #DonaldTrump #USPolitics
+#ShahMehmoodQureshi #LahoreATC #May9 #Courts #DawnNews
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
-- [needs_review] high | Pakistan Proposes Virtual Green University And Youth Fund At COP31 | Mon 16 Nov, 07:33 AM PKT
 - [needs_review] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
 - [needs_review] normal | Prince and Princess of Wales arrive in India ahead of meeting with Mod | Mon 16 Nov, 09:11 AM PKT
 - [needs_review] normal | Investors sue chip giant Intel after 29% stock plunge | Mon 16 Nov, 09:21 AM PKT
@@ -340,11 +336,11 @@ First reported by BBC Technology
 - [needs_review] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
 - [needs_review] normal | Israeli military launches rare ground operation in Gaza beyond Yellow  | Thu 19 Nov, 02:50 AM PKT
 - [published] normal | Putin’s nuclear briefcase makes surprise appearance at China summit | Thu 19 Nov, 03:00 AM PKT
-- [queued] normal | Muslims projected to overtake Christians as world’s largest religious  | Thu 19 Nov, 03:10 AM PKT
-- [queued] normal | US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | Thu 19 Nov, 03:20 AM PKT
-- [queued] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Thu 19 Nov, 03:41 AM PKT
-- [queued] normal | Pakistan mango exports plunge 36pc amid US-Iran war shipping disruptio | Thu 19 Nov, 03:51 AM PKT
-- [queued] normal | US lawmakers push to raise minimum wage to $25 and end tipped pay | Thu 19 Nov, 04:01 AM PKT
+- [needs_review] normal | Muslims projected to overtake Christians as world’s largest religious  | Thu 19 Nov, 03:10 AM PKT
+- [needs_review] normal | US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | Thu 19 Nov, 03:20 AM PKT
+- [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Thu 19 Nov, 03:41 AM PKT
+- [needs_review] normal | Pakistan mango exports plunge 36pc amid US-Iran war shipping disruptio | Thu 19 Nov, 03:51 AM PKT
+- [published] normal | US lawmakers push to raise minimum wage to $25 and end tipped pay | Thu 19 Nov, 04:01 AM PKT
 - [queued] normal | Floodwaters submerge cars and parking lots in Florida town | Thu 19 Nov, 04:11 AM PKT
 - [queued] normal | Catherine visits Mumbai maternity hospital on final day of royal tour | Thu 19 Nov, 04:37 AM PKT
 - [queued] normal | Myanmar faces historic genocide verdict at UN court over Rohingya | Thu 19 Nov, 04:47 AM PKT
@@ -366,12 +362,16 @@ First reported by BBC Technology
 - [queued] normal | PTI legal eagles Salman Akram Raja and Latif Khosa shake and make up | Thu 19 Nov, 09:03 AM PKT
 - [queued] normal | Poll tribunal suspends election results of GBA-16 and Diamer-II | Thu 19 Nov, 09:13 AM PKT
 - [queued] normal | Elon Musk calls record spending on US midterms pretty foolish | Thu 19 Nov, 09:23 AM PKT
+- [queued] normal | FBISE Introduces On-the-Spot Printing of Exam Papers to Prevent Leaks | Thu 19 Nov, 09:59 AM PKT
+- [queued] normal | Man arrested for allegedly sexually abusing boy in Rawalpindi | Thu 19 Nov, 10:09 AM PKT
+- [queued] normal | Punjab CM approves panchayat system to resolve disputes | Thu 19 Nov, 10:19 AM PKT
+- [queued] normal | Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case | Thu 19 Nov, 10:29 AM PKT
 
 ## Publishing this run
-- Published 'Putin’s nuclear briefcase makes surprise appearance at China summit'.
+- Published 'US lawmakers push to raise minimum wage to $25 and end tipped pay'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4079 | output tokens: 2770
+- Calls: 3 | prompt tokens: 3252 | output tokens: 1998
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
