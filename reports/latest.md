@@ -1,152 +1,148 @@
-# News Hub report - Thu 19 Nov, 06:56 AM PKT
+# News Hub report - Thu 19 Nov, 07:51 AM PKT
 
 ## Collection
-- New items this run: 41 | items in rolling pool: 274
-- Unique story clusters: 252 (duplicates merged: 22)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 1
-- Items per outlet: Dawn 9, Al Jazeera 7, The Express Tribune 6, BBC World 3, Geo News 2, TechCrunch 2, The Verge 1, GSMArena 1, BBC Business 1, PBS 1, Anadolu Ajansı 1, The Times of Israel 1
+- New items this run: 87 | items in rolling pool: 297
+- Unique story clusters: 271 (duplicates merged: 26)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 1
+- Items per outlet: Dawn 65, Profit by Pakistan Today 4, Investify 4, Geo News 2, Al Jazeera 2, The Express Tribune 2, The News International 1, GSMArena 1, BBC Technology 1, Ynetnews 1, Axios 1, Bloomberg 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Crimean Bridge attacked again, Russian official says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Van Gogh painting sells for record $190.4m after row over its Nazi history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two-hour ambulance handover limit missed more than 2,000 times | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- McDonald's sex abuse: 'They were waiting for the younger girls to turn 18' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NASA’s Voyager 1 hits record one light-day distance, 50 years after launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Foreign firms repatriate $1.16b out of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBR unveils proposed rules for faceless tax appeals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why a trio of experts alleges Jeffrey Epstein did not die by suicide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Crimean Bridge attacked again, Russian official says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Van Gogh painting sells for record $190.4m after row over its Nazi history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two-hour ambulance handover limit missed more than 2,000 times | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- McDonald's sex abuse: 'They were waiting for the younger girls to turn 18' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NASA’s Voyager 1 hits record one light-day distance, 50 years after launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Foreign firms repatriate $1.16b out of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBR unveils proposed rules for faceless tax appeals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why a trio of experts alleges Jeffrey Epstein did not die by suicide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Crimean Bridge attacked again, Russian official says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Van Gogh painting sells for record $190.4m after row over its Nazi history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two-hour ambulance handover limit missed more than 2,000 times | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- McDonald's sex abuse: 'They were waiting for the younger girls to turn 18' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NASA’s Voyager 1 hits record one light-day distance, 50 years after launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Foreign firms repatriate $1.16b out of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBR unveils proposed rules for faceless tax appeals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Defence Secretary Hegseth reveals military partnership on Venezuela trip | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why a trio of experts alleges Jeffrey Epstein did not die by suicide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 100/107 | empty: 2 | failed: 5 | malformed/partial: 5
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Urdu | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Crimean Bridge hit by fresh attack, says Russian-installed official  [NORMAL]
-- Poster: روسی عہدیدار کے مطابق کریمیا پل پر ایک بار پھر حملہ / Crimean Bridge hit by fresh attack | category security
-- Alternative headline: Crimea bridge attacked for third time this week, claims Moscow official
+### NASA’s Voyager 1 spacecraft reaches historic one light-day distance from Earth  [NORMAL]
+- Poster: وয়েডجر 1 نے زمین سے ایک نائٹ ڈے کا تاریخی فاصلہ طے کر لیا / Voyager 1 reaches one light-day milestone | category science
+- Alternative headline: Voyager 1 hits record-breaking one light-day distance after nearly 50 years
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: The Guardian, BBC World
-- Keywords: Crimean Bridge, Crimea, Russia, Ukraine, Sergei Aksyonov, attack | hashtags: #CrimeanBridge #Russia #Ukraine #Conflict #WorldNews
-- Scheduled: Thu 19 Nov, 06:56 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss
+- Supporting coverage: Al Jazeera, Dawn
+- Keywords: Voyager 1, NASA, space mission, light day distance, space exploration | hashtags: #Voyager1 #NASA #SpaceExploration #ScienceNews
+- Scheduled: Thu 19 Nov, 07:51 AM PKT
 - Caption:
 ```
-The strategic Crimean Bridge has reportedly faced another attack, with traffic temporarily suspended according to local officials.
+NASA's iconic Voyager 1 spacecraft has reached a staggering milestone, hitting a record-breaking one light-day distance from Earth nearly 50 years after its launch.
 
-The Crimean Bridge was targeted in a fresh attack, marking the third strike this week, according to the Moscow-installed head of Crimea, Sergei Aksyonov. Traffic was temporarily suspended as damage assessments began. The vital infrastructure remains a key logistical asset in the ongoing conflict.
+NASA’s Voyager 1 spacecraft has reached a historic milestone by hitting a record-breaking distance of one light-day from Earth, nearly 50 years after its initial launch in 1977.
 
-روسی عہدیدار کے مطابق کریمیا کے اسٹریٹجک پل کو ایک بار پھر حملے کا نشانہ بنایا گیا ہے، جو اس ہفتے کا تیسرا حملہ ہے۔ حملے کے بعد ٹریفک عارضی طور پر معطل کر دی گئی اور نقصانات کا جائزہ لیا جا رہا ہے۔
+ناسا کے وয়েডجر 1 خلائی جہاز نے 1977 میں اپنے اجراء کے تقریباً 50 سال بعد زمین سے ایک نائٹ ڈے کے ریکارڈ فاصلے تک پہنچ کر ایک تاریخی سنگ میل عبور کر لیا ہے۔
 
-First reported by BBC World
+First reported by Al Jazeera.
 
-#CrimeanBridge #Russia #Ukraine #Conflict #WorldNews
+#Voyager1 #NASA #SpaceExploration #ScienceNews
 ```
 
-### Van Gogh painting fetches record $190.4m following dispute resolution  [NORMAL]
-- Poster: وان گو کی پینٹنگ ریکارڈ 190.4 ملین ڈالر میں فروخت / Van Gogh painting fetches record $190.4m | category lifestyle
-- Alternative headline: Van Gogh's Chestnut Trees in Blossom sells for record $190.4 million
+### Foreign firms repatriate $1.16 billion out of Pakistan, report reveals  [NORMAL]
+- Poster: غیر ملکی کمپنیوں نے پاکستان سے 1.16 ارب ڈالر باہر منتقل کر دیے / Foreign firms repatriate $1.16b from Pakistan | category economy
+- Alternative headline: Pakistan sees foreign companies repatriate $1.16b in capital outflow
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, BBC
-- Keywords: Van Gogh painting, Sotheby's, art auction, record sale, New York, Nazi history | hashtags: #VanGogh #ArtAuction #Sothebys #RecordSale #Culture
-- Scheduled: Thu 19 Nov, 07:06 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlaMWhWSVpKM3JEeHFudHk3VndQSXk5bkJXcENJcWN5cGxWMlBENzMtWjJDOGFmQURWN1ZTNFBrQUR3QXZkSzBuYUZqSjh3bllCallrVmhTOXB2Qk1ZaUNUQURteHUtM3Q3RndUdy0tQ0hsZVRxTjlkS0ZtbEROZDFDWDJ1cE9QcFHSAZIBQVVfeXFMTUFTNUdzT1gwRVYyVnM4dXJiTnV1V2lKN1ZRSmJJZHlOZGk0T3libWJaRURISWcyMkJybUFBX1JSalNJUkQ0LTc3Sks2SjV5VVRnbnBRanNIT0NRSmgyREZpLTlhb01WZm90QVYycU5jR01jRk5Eck1MTXVLSkZNWE9STXJEQm1CZVpEaEcxNTZ0MHc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlaMWhWSVpKM3JEeHFudHk3VndQSXk5bkJXcENJcWN5cGxWMlBENzMtWjJDOGFmQURWN1ZTNFBrQUR3QXZkSzBuYUZqSjh3bllCallrVmhTOXB2Qk1ZaUNUQURteHUtM3Q3RndUdy0tQ0hsZVRxTjlkS0ZtbEROZDFDWDJ1cE9QcFHSAZIBQVVfeXFMTUFTNUdzT1gwRVYyVnM4dXJiTnV1V2lKN1ZRSmJJZHlOZGk0T3libWJaRURISWcyMkJybUFBX1JSalNJUkQ0LTc3Sks2SjV5VVRnbnBRanNIT0NRSmgyREZpLTlhb01WZm90QVYycU5jR01jRk5Eck1MTXVLSkZNWE9STXJEQm1CZVpEaEcxNTZ0MHc?oc=5
+- Supporting coverage: The Express Tribune, Investify
+- Keywords: foreign repatriation, Pakistan economy, capital outflow, foreign firms, The Express Tribune | hashtags: #PakistanEconomy #ForeignInvestment #BusinessNews #Economy
+- Scheduled: Thu 19 Nov, 08:01 AM PKT
 - Caption:
 ```
-A rare Vincent van Gogh painting has shattered previous auction records after an eleventh-hour agreement resolved a Nazi-era dispute.
+New economic data highlights significant capital outflow as foreign firms repatriate $1.16 billion out of Pakistan.
 
-Auction house Sotheby's sold Vincent van Gogh's painting 'Chestnut Trees in Blossom' for a record $190.4 million in New York. The historic sale surpassed the artist's previous 2022 record following an agreement that resolved a dispute over its Nazi-era history.
+Recent reports indicate that foreign firms have repatriated $1.16 billion out of Pakistan, reflecting notable financial outflows from the country's corporate sector.
 
-نیلامی گھر سویتھ بئے نے ونسنٹ وان گو کی پینٹنگ 190.4 ملین ڈالر کے ریکارڈ داموں فروخت کر دی ہے۔ یہ تاریخی فروخت نازی دور کے تنازع کے حل کے بعد عمل میں آئی۔
+حالیہ رپورٹس سے پتہ چلتا ہے کہ غیر ملکی کمپنیوں نے پاکستان سے 1.16 ارب ڈالر باہر منتقل کر دیے ہیں، جو ملک کے کارپوریٹ شعبے سے سرمائے کے نمایاں اخراج کی عکاسی کرتا ہے۔
 
-First reported by BBC World
+First reported by The Express Tribune.
 
-#VanGogh #ArtAuction #Sothebys #RecordSale #Culture
+#PakistanEconomy #ForeignInvestment #BusinessNews #Economy
 ```
 
-### Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz  [NORMAL]
-- Poster: سعودی اتحاد کی یمن میں کارروائی، آبنائے ہرمز میں جہازوں پر حملے / Saudi coalition strikes Yemen amid Hormuz fires | category war
-- Alternative headline: Yemen missile platform destroyed by Saudi coalition amid Hormuz shipping incidents
+### FBR unveils proposed rules to introduce faceless tax appeals system  [NORMAL]
+- Poster: ایف بی آر نے بے نامی ٹیکس اپیلوں کے لیے نئے قوانین پیش کر دیے / FBR proposes rules for faceless tax appeals | category courts
+- Alternative headline: Federal Board of Revenue proposes new rules for faceless tax appeals
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXRGOHM4QThzeUswT3VzbmotbXZFWlJkNnR3WDY3eV95eDVlOUVRcGRXcmJsQ3EtZW0wekZIRDhWMlV4OXFXMGxPMXBmaGRwQ3JMNm5IMXh3R0R4VU9rZDFmZXZFX2Y0cDVWa3d3YlVmMHpYLW04b0JOSHMwT2Y5cXNtbWZFVGFQOURZNWJ3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXRGOHM4QThzeUswT3VzbmotbXZFWlJkNnR3WDY3eV95eDVlOUVRcGRXcmJsQ3EtZW0wekZIRDhWMlV4OXFXMGxPMXBmaGRwQ3JMNm5IMXh3R0R4VU9rZDFmZXZFX2Y0cDVWa3d3YlVmMHpYLW04b0JOSHMwT2Y5cXNtbWZFVGFQOURZNWJ3?oc=5
+- Supporting coverage: Dawn, Profit by Pakistan Today
+- Keywords: FBR tax appeals, faceless appeals, Federal Board of Revenue, Pakistan tax, Dawn | hashtags: #FBR #TaxAppeals #PakistanTax #BusinessNews
+- Scheduled: Thu 19 Nov, 08:11 AM PKT
+- Caption:
+```
+The Federal Board of Revenue has unveiled proposed rules aimed at modernising the dispute resolution process through faceless tax appeals.
+
+The Federal Board of Revenue (FBR) has unveiled proposed rules for faceless tax appeals, starting with sales tax and proposing a similar system for income tax to streamline proceedings.
+
+فیڈرل بورড آف ریونیو (ایف بی آر) نے سیلز ٹیکس کے لیے بے نامی ٹیکس اپیلوں کے نئے قواعد پیش کر دیے ہیں اور انکم ٹیکس کے لیے بھی ایسے ہی نظام کی تجویز دی ہے۔
+
+First reported by Dawn.
+
+#FBR #TaxAppeals #PakistanTax #BusinessNews
+```
+
+### US Defence Secretary Hegseth announces military partnership during Venezuela trip  [NORMAL]
+- Poster: امریکہ اور وینزویلا کے درمیان نئے فوجی شراکت داری معاہدے کا اعلان / US-Venezuela military partnership announced | category world
+- Alternative headline: US and Venezuela establish new military partnership, reveals Pete Hegseth
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss
 - Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Saudi-led coalition, Yemen, Hormuz, missile platform, Saada, airstrikes | hashtags: #Yemen #SaudiCoalition #Hormuz #MiddleEast #BreakingNews
-- Scheduled: Thu 19 Nov, 07:16 AM PKT
+- Keywords: Pete Hegseth, US Venezuela relations, military partnership, Defence Secretary, Al Jazeera | hashtags: #USNews #Venezuela #MilitaryPartnership #Geopolitics
+- Scheduled: Thu 19 Nov, 08:21 AM PKT
 - Caption:
 ```
-Regional tensions escalate as the Saudi-led coalition targets a missile platform in Yemen while reports emerge of ships hit by mines.
+US Defence Secretary Pete Hegseth has revealed a new military partnership with Venezuela during his official visit to the country.
 
-The Saudi-led coalition announced the destruction of a missile platform in Saada, Yemen. Meanwhile, reports indicated that ships were on fire in the Strait of Hormuz after allegedly hitting mines, escalating ongoing regional hostilities.
+US Defence Secretary Pete Hegseth has announced a new military partnership during a trip to Venezuela, stating that the agreement will involve joint training and intelligence sharing.
 
-سعودی اتحاد نے یمن کے علاقے صعدہ میں میزائل پلیٹ فارم تباہ کرنے کا اعلان کیا ہے، جبکہ آبنائے ہرمز میں بحری جہازوں کو بھی نشانہ بنائے جانے کی اطلاعات ہیں۔
+امریکی وزیر دفاع پیٹ ہیگسیتھ نے وینزویلا کے دورے کے دوران نئی فوجی شراکت داری کا اعلان کیا ہے، جس میں مشترکہ تربیتی اور انٹیلی جنس شیئرنگ شامل ہوگی۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#Yemen #SaudiCoalition #Hormuz #MiddleEast #BreakingNews
+#USNews #Venezuela #MilitaryPartnership #Geopolitics
 ```
 
-### Ambulance handover time limits breached over 2,000 times in four months  [NORMAL]
-- Poster: ایمبولینس ہینڈ اوور کی دو گھنٹے کی حد 2 ہزار سے زائد بار ٹوٹی / Ambulance handover limits missed 2,000 times | category health
-- Alternative headline: Over 2,000 breaches recorded for two-hour ambulance handover limit
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: ambulance handover, emergency department, NHS, health service, wait times, UK health | hashtags: #AmbulanceDelays #NHS #Healthcare #Emergency #BBCHealth
-- Scheduled: Thu 19 Nov, 07:26 AM PKT
-- Caption:
-```
-Emergency departments faced thousands of delays as a new two-hour ambulance handover target was repeatedly missed over the summer.
-
-A target ensuring a maximum two-hour wait for ambulance handovers at emergency departments was breached more than 2,000 times between May and August. While health officials reported overall improvements compared to previous years, severe pressures continue to challenge the healthcare system.
-
-ہنگامی شعبوں میں ایمبولینس ہینڈ اوور کے لیے دو گھنٹے کی مقررہ حد مئی سے اگست کے دوران دو ہزار سے زائد بار پوری نہیں کی جا سکی، اگرچہ حکام نے بہتری کا دعویٰ کیا ہے۔
-
-First reported by BBC Health
-
-#AmbulanceDelays #NHS #Healthcare #Emergency #BBCHealth
-```
-
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
-- [needs_review] normal | Heavy Snow Cuts Off Key Tourist Route to Gilgit-Baltistan | Sun 15 Nov, 05:48 AM PKT
-- [needs_review] normal | Top US Official Marco Rubio Behind Nvidia CEO Jensen Huang’s Exit | Sun 15 Nov, 07:01 AM PKT
-- [needs_review] normal | US Intelligence Estimates Iran Still Retains Up to 2,500 Missiles | Sun 15 Nov, 11:00 AM PKT
-- [published] breaking | Iran Warns Of Preemptive Strikes Amid Escalating US Military Tensions | Mon 16 Nov, 07:33 AM PKT
-- [published] high | Punjab Water Demand Exceeds Supply As Groundwater Depletes Rapidly | Mon 16 Nov, 07:33 AM PKT
-- [published] high | Vulcan Rocket Fails During Launch, Dealing Blow To SpaceX Competitors | Mon 16 Nov, 07:33 AM PKT
 - [needs_review] high | Pakistan Proposes Virtual Green University And Youth Fund At COP31 | Mon 16 Nov, 07:33 AM PKT
-- [published] high | Punjab to establish province's first AI-powered climate observatory | Mon 16 Nov, 07:48 AM PKT
-- [published] high | CDA finalises revised PC-I for Islamabad cricket stadium at Rs16.7bn | Mon 16 Nov, 07:48 AM PKT
-- [published] high | Yemeni government forces reportedly retreat in setback against Houthis | Mon 16 Nov, 07:48 AM PKT
 - [needs_review] high | School Assembly News: Top headlines, thought and GK questions for Nov  | Mon 16 Nov, 07:48 AM PKT
 - [needs_review] normal | Services of Balochistan family planning workers praised | Mon 16 Nov, 08:51 AM PKT
 - [published] normal | Restoration of student unions demanded | Mon 16 Nov, 09:01 AM PKT
@@ -344,7 +340,7 @@ First reported by BBC Health
 - [needs_review] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
 - [published] normal | Kuwait and Bahrain face new Iran attacks following US strike | Thu 19 Nov, 01:51 AM PKT
 - [published] normal | Internet services face nationwide disruption due to submarine cable fa | Thu 19 Nov, 02:01 AM PKT
-- [queued] normal | Israeli settler kills Palestinian grandmother in occupied West Bank | Thu 19 Nov, 02:11 AM PKT
+- [published] normal | Israeli settler kills Palestinian grandmother in occupied West Bank | Thu 19 Nov, 02:11 AM PKT
 - [queued] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
 - [queued] normal | Israeli military launches rare ground operation in Gaza beyond Yellow  | Thu 19 Nov, 02:50 AM PKT
 - [queued] normal | Putin’s nuclear briefcase makes surprise appearance at China summit | Thu 19 Nov, 03:00 AM PKT
@@ -366,16 +362,19 @@ First reported by BBC Health
 - [queued] normal | Van Gogh painting fetches record $190.4m following dispute resolution | Thu 19 Nov, 07:06 AM PKT
 - [queued] normal | Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz | Thu 19 Nov, 07:16 AM PKT
 - [queued] normal | Ambulance handover time limits breached over 2,000 times in four month | Thu 19 Nov, 07:26 AM PKT
+- [queued] normal | NASA’s Voyager 1 spacecraft reaches historic one light-day distance fr | Thu 19 Nov, 07:51 AM PKT
+- [queued] normal | Foreign firms repatriate $1.16 billion out of Pakistan, report reveals | Thu 19 Nov, 08:01 AM PKT
+- [queued] normal | FBR unveils proposed rules to introduce faceless tax appeals system | Thu 19 Nov, 08:11 AM PKT
+- [queued] normal | US Defence Secretary Hegseth announces military partnership during Ven | Thu 19 Nov, 08:21 AM PKT
 
 ## Publishing this run
-- Published 'Internet services face nationwide disruption due to submarine cable fault'.
+- Published 'Israeli settler kills Palestinian grandmother in occupied West Bank'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 11106 | output tokens: 4623
-- Errors: 3
+- Calls: 3 | prompt tokens: 4632 | output tokens: 1879
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 65 column 7 (char 3086)
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i

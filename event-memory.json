@@ -71198,7 +71198,444 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a0943daf578371f44617c62c",
+      "remembered_at": "2026-11-19T02:51:39.823437+00:00",
+      "event_date": "2026-11-19T01:55:08+00:00",
+      "last_update": "2026-11-19T02:48:29+00:00",
+      "event": "FBR unveils proposed rules for faceless tax appeals",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appeals",
+        "dawn",
+        "faceless",
+        "fbr",
+        "for",
+        "proposed",
+        "rules",
+        "tax",
+        "unveils"
+      ],
+      "source_excerpt": "FBR unveils proposed rules for faceless tax appeals Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXRGOHM4QThzeUswT3VzbmotbXZFWlJkNnR3WDY3eV95eDVlOUVRcGRXcmJsQ3EtZW0wekZIRDhWMlV4OXFXMGxPMXBmaGRwQ3JMNm5IMXh3R0R4VU9rZDFmZXZFX2Y0cDVWa3d3YlVmMHpYLW04b0JOSHMwT2Y5cXNtbWZFVGFQOURZNWJ3?oc=5",
+          "published_at": "2026-11-19T01:55:08+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVzJpdTdjVVQxVHNaMVBWUV83MDkzQUpqU1hGRkc1TnlJc0YxSUU2Qmhxbld3dHFvaDZPamEtb3dnam9MamhQc011V19wc1RFU2RHX2lodmROTC1jU0tzeXFoLUFsQktjS0FJazVjaEZCTHlUV190d3k3R3AzRUc1SS1kbkZQY2pKWHczRzNoMktneWdwOWZEektGY0l3T0hPNlBWeGdlSzFmVGRNNWo3a0xEay1JUlZNa3FhVjc1b3FtQlhHaGhjUjJGaVFzZw?oc=5",
+          "published_at": "2026-11-19T02:48:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXRGOHM4QThzeUswT3VzbmotbXZFWlJkNnR3WDY3eV95eDVlOUVRcGRXcmJsQ3EtZW0wekZIRDhWMlV4OXFXMGxPMXBmaGRwQ3JMNm5IMXh3R0R4VU9rZDFmZXZFX2Y0cDVWa3d3YlVmMHpYLW04b0JOSHMwT2Y5cXNtbWZFVGFQOURZNWJ3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "28d4cc3e6d84b3b290b0132a",
+      "remembered_at": "2026-11-19T02:51:39.823437+00:00",
+      "event_date": "2026-11-19T02:47:34+00:00",
+      "last_update": "2026-11-19T02:47:34+00:00",
+      "event": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "also",
+        "billionaire",
+        "distancing",
+        "elon",
+        "foolish",
+        "from",
+        "himself",
+        "linked",
+        "maga",
+        "midterms",
+        "movement",
+        "multi",
+        "musk",
+        "not",
+        "political",
+        "pretty",
+        "record",
+        "said",
+        "says",
+        "spending",
+        "the",
+        "trump",
+        "was"
+      ],
+      "source_excerpt": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T02:47:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b480be333d2c3ad27da308d",
+      "remembered_at": "2026-11-19T02:51:39.823437+00:00",
+      "event_date": "2026-11-19T01:55:26+00:00",
+      "last_update": "2026-11-19T01:55:26+00:00",
+      "event": "Pakistan, Brazil to boost agricultural cooperation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agricultural",
+        "boost",
+        "brazil",
+        "cooperation",
+        "dawn",
+        "pakistan"
+      ],
+      "source_excerpt": "Pakistan, Brazil to boost agricultural cooperation Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0ZnS1V5bkNZTHZSQWpwNmJrTVR2M1U5d3pTOW1yOHFNYTJzWUg1Wl9LRlJKRUxnWnR1dlJtYnRsQjdEbTJfeTFiX1p4RXQtejFhbllIMzR1eFFEcjJzUDhUOElLanFtZ0JlbWdOc2RzTjFyajI0bTlzVnUtMXJ1QjItNmh6RnZBY3k4?oc=5",
+          "published_at": "2026-11-19T01:55:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0ZnS1V5bkNZTHZSQWpwNmJrTVR2M1U5d3pTOW1yOHFNYTJzWUg1Wl9LRlJKRUxnWnR1dlJtYnRsQjdEbTJfeTFiX1p4RXQtejFhbllIMzR1eFFEcjJzUDhUOElLanFtZ0JlbWdOc2RzTjFyajI0bTlzVnUtMXJ1QjItNmh6RnZBY3k4?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fa700d7573e1ac7cb67dc1e8",
+      "remembered_at": "2026-11-19T02:51:39.823437+00:00",
+      "event_date": "2026-11-19T01:56:40+00:00",
+      "last_update": "2026-11-19T01:56:40+00:00",
+      "event": "CM proposes Wuhan-style city management for Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "city",
+        "dawn",
+        "for",
+        "karachi",
+        "management",
+        "proposes",
+        "style",
+        "wuhan"
+      ],
+      "source_excerpt": "CM proposes Wuhan-style city management for Karachi Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUVHU2RyUG9XVFg1eVB4TnF4S3lTUnBtTFJlcHB1cWxjV1FYX2hOcFd5OEd0Z1Q0UnoybjFqdzJXTGtJci1xMGVKSGNqeGtFb0dXR2Z4dGkzcHhfSk9LN0x0QlBLRWpnQTFTOWFyZjNJSnN6RW1sNnRoSjVTNFJldzRrY2Foc2JsRkkyR2ln?oc=5",
+          "published_at": "2026-11-19T01:56:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUVHU2RyUG9XVFg1eVB4TnF4S3lTUnBtTFJlcHB1cWxjV1FYX2hOcFd5OEd0Z1Q0UnoybjFqdzJXTGtJci1xMGVKSGNqeGtFb0dXR2Z4dGkzcHhfSk9LN0x0QlBLRWpnQTFTOWFyZjNJSnN6RW1sNnRoSjVTNFJldzRrY2Foc2JsRkkyR2ln?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5ec39baab2d91099642294e4",
+      "remembered_at": "2026-11-19T02:51:39.823437+00:00",
+      "event_date": "2026-11-19T01:56:19+00:00",
+      "last_update": "2026-11-19T01:56:19+00:00",
+      "event": "Karachi Blues, Sialkot Blues triumph as QAT third round concludes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blues",
+        "concludes",
+        "dawn",
+        "karachi",
+        "qat",
+        "round",
+        "sialkot",
+        "third",
+        "triumph"
+      ],
+      "source_excerpt": "Karachi Blues, Sialkot Blues triumph as QAT third round concludes Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcnVBWFN3ZVh6VlNlNi01ZVJVVmJrYjBqU3hrVUl3ZEM4M3F0TGVuUXdfaFNEeF9tNkNsNHJfbXR0dVVBM3o5MFpoYWdzZmFhSnN0c1NoNV9vQks3MFBnenZHQ09HdzdrWG85U0x1SXBlWXBXajJuXzVhejg1Ykt6ZWlqNFBtTHhQa0lHOE1TdzgybkVqM0xmVnJyQVVycE0?oc=5",
+          "published_at": "2026-11-19T01:56:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcnVBWFN3ZVh6VlNlNi01ZVJVVmJrYjBqU3hrVUl3ZEM4M3F0TGVuUXdfaFNEeF9tNkNsNHJfbXR0dVVBM3o5MFpoYWdzZmFhSnN0c1NoNV9vQks3MFBnenZHQ09HdzdrWG85U0x1SXBlWXBXajJuXzVhejg1Ykt6ZWlqNFBtTHhQa0lHOE1TdzgybkVqM0xmVnJyQVVycE0?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5e896f3b3383f53a8c3f05b8",
+      "remembered_at": "2026-11-19T02:51:39.823437+00:00",
+      "event_date": "2026-11-19T01:56:19+00:00",
+      "last_update": "2026-11-19T01:56:19+00:00",
+      "event": "Five Pakistan boys reach J-30 World Tennis quarter-finals",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "boys",
+        "dawn",
+        "finals",
+        "five",
+        "pakistan",
+        "quarter",
+        "reach",
+        "tennis",
+        "world"
+      ],
+      "source_excerpt": "Five Pakistan boys reach J-30 World Tennis quarter-finals Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWi1ENGtGYnFjTGNZSkhsRDlicXJvN2dMdzYzXzJDb0xrNDVTNUwtd1J0dFBzUng1TkhuaFIxcXBJQk9iWXR5UGVzN3BJaWxIZl9Ed0FsN1BxcnItVXJCQ2JUYkllTHFpYmp6aWh1ZmpkNTVPdEZRUUk4MGh0V0JNdHBTN3I5SjZ6aUU0WlpqSmRMWDJEWWc?oc=5",
+          "published_at": "2026-11-19T01:56:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWi1ENGtGYnFjTGNZSkhsRDlicXJvN2dMdzYzXzJDb0xrNDVTNUwtd1J0dFBzUng1TkhuaFIxcXBJQk9iWXR5UGVzN3BJaWxIZl9Ed0FsN1BxcnItVXJCQ2JUYkllTHFpYmp6aWh1ZmpkNTVPdEZRUUk4MGh0V0JNdHBTN3I5SjZ6aUU0WlpqSmRMWDJEWWc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cb886d2983b57a0efda37533",
+      "remembered_at": "2026-11-19T02:51:39.823437+00:00",
+      "event_date": "2026-11-19T01:57:22+00:00",
+      "last_update": "2026-11-19T01:57:22+00:00",
+      "event": "Antibiotic misuse causes over 200,000 deaths in Pakistan annually: experts",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "200",
+        "annually",
+        "antibiotic",
+        "causes",
+        "dawn",
+        "deaths",
+        "experts",
+        "misuse",
+        "over",
+        "pakistan"
+      ],
+      "source_excerpt": "Antibiotic misuse causes over 200,000 deaths in Pakistan annually: experts Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWVGb3A2UUY4SjBaTU1hM2p1cUVMbzhzSWQ2aTFyR1UyY1ZwQ2syYUVTTXA0WDl3RjE3UG0wWjk2M3J5VzhvYzVhei1OWXNzMXFvWFhsOV9fdjZXMjZQQlpBYnM5XzllTmVOaExsOHpQTjExcXlYNnl0VzRRZXBqVjMtZFpXT3B1WnhOeDdWV2xBNEd3ckQxLUUwYmVISXB2NkZ3MjB0bzFZQQ?oc=5",
+          "published_at": "2026-11-19T01:57:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWVGb3A2UUY4SjBaTU1hM2p1cUVMbzhzSWQ2aTFyR1UyY1ZwQ2syYUVTTXA0WDl3RjE3UG0wWjk2M3J5VzhvYzVhei1OWXNzMXFvWFhsOV9fdjZXMjZQQlpBYnM5XzllTmVOaExsOHpQTjExcXlYNnl0VzRRZXBqVjMtZFpXT3B1WnhOeDdWV2xBNEd3ckQxLUUwYmVISXB2NkZ3MjB0bzFZQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c5b55b28461b5f86599b5746",
+      "remembered_at": "2026-11-19T02:51:39.823437+00:00",
+      "event_date": "2026-11-19T01:57:22+00:00",
+      "last_update": "2026-11-19T01:57:22+00:00",
+      "event": "Pakistan urges local climate action to support vulnerable communities",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "action",
+        "climate",
+        "communities",
+        "dawn",
+        "local",
+        "pakistan",
+        "support",
+        "urges",
+        "vulnerable"
+      ],
+      "source_excerpt": "Pakistan urges local climate action to support vulnerable communities Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHZGTi1WNmZaLWlPeS0yem9yOVBZS19BdzdMd19MdzdwOXAtWE5BQ0JNR2ktalZuZ09wbkJRb1pfVVlrWGVweWo4ZGlOci0tOUZNYXVsclJnZ0M4Nld3RzJ1RHpnM2MzcGNCdkJ5UUpGcnpoUWxMT0ZPWmkwRnVYNy1heEtVdlJiWDJfMmRiZ3BvYWFGTlg4MTdVdFRPeEZBYUxjbnlB?oc=5",
+          "published_at": "2026-11-19T01:57:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHZGTi1WNmZaLWlPeS0yem9yOVBZS19BdzdMd19MdzdwOXAtWE5BQ0JNR2ktalZuZ09wbkJRb1pfVVlrWGVweWo4ZGlOci0tOUZNYXVsclJnZ0M4Nld3RzJ1RHpnM2MzcGNCdkJ5UUpGcnpoUWxMT0ZPWmkwRnVYNy1heEtVdlJiWDJfMmRiZ3BvYWFGTlg4MTdVdFRPeEZBYUxjbnlB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "486956f50c65855c6c3890c4",
+      "remembered_at": "2026-11-19T02:51:39.823437+00:00",
+      "event_date": "2026-11-19T01:56:19+00:00",
+      "last_update": "2026-11-19T01:56:19+00:00",
+      "event": "Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "grip",
+        "lanka",
+        "pakistan",
+        "second",
+        "sri",
+        "stumble",
+        "test",
+        "tighten"
+      ],
+      "source_excerpt": "Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXhLUXp6SV9zT1VQbUwzT3U0d1FNb3R1Z0kwdFo5dE91cXc5cVk2Ym1HTFE3NUdxeVlrUVZxelFwdEVmV0VtbE8wOEZZV2NENE9OWkxNNC1MNmhRWFJLeTBWSXV2aXBjdWI3VWdVRlJLeWpGQWJCNVdKbGM2TUFneFVUUWFBbDJKRjB5YXJpdHJyZE1YVFR4TFBucjFaRG9i?oc=5",
+          "published_at": "2026-11-19T01:56:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXhLUXp6SV9zT1VQbUwzT3U0d1FNb3R1Z0kwdFo5dE91cXc5cVk2Ym1HTFE3NUdxeVlrUVZxelFwdEVmV0VtbE8wOEZZV2NENE9OWkxNNC1MNmhRWFJLeTBWSXV2aXBjdWI3VWdVRlJLeWpGQWJCNVdKbGM2TUFneFVUUWFBbDJKRjB5YXJpdHJyZE1YVFR4TFBucjFaRG9i?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "953fc6a8a129aef07ef58f6e",
+      "remembered_at": "2026-11-19T02:51:39.823437+00:00",
+      "event_date": "2026-11-19T01:57:22+00:00",
+      "last_update": "2026-11-19T01:57:22+00:00",
+      "event": "Pakistan, Kazakhstan aim to increase trade to $1bn in five years",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1bn",
+        "aim",
+        "dawn",
+        "five",
+        "increase",
+        "kazakhstan",
+        "pakistan",
+        "trade",
+        "years"
+      ],
+      "source_excerpt": "Pakistan, Kazakhstan aim to increase trade to $1bn in five years Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2xYNk9hdUhwTFpScHRBa1ZUcEZjZklKc3JYcUQzWEdTUm9xVExYRXRDRXVZeWpNU3dnLVYtb2lkR2Q1aHgwWWV5ZTB4dnpMT2tUdTRVbVIwZHZfOHFDd2doRVlYaUpuVEM0SHdOT1V0NU5hTVRpMlFOS0V5VWg2S1otaWdJalpyZ05wYzdnREJCNGNzWTlSM3pESWQ?oc=5",
+          "published_at": "2026-11-19T01:57:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2xYNk9hdUhwTFpScHRBa1ZUcEZjZklKc3JYcUQzWEdTUm9xVExYRXRDRXVZeWpNU3dnLVYtb2lkR2Q1aHgwWWV5ZTB4dnpMT2tUdTRVbVIwZHZfOHFDd2doRVlYaUpuVEM0SHdOT1V0NU5hTVRpMlFOS0V5VWg2S1otaWdJalpyZ05wYzdnREJCNGNzWTlSM3pESWQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T01:56:27.058796+00:00"
+  "updated_at": "2026-11-19T02:51:39.823437+00:00"
 }
