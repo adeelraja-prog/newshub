@@ -1,144 +1,142 @@
-# News Hub report - Fri 20 Nov, 02:22 AM PKT
+# News Hub report - Fri 20 Nov, 03:21 AM PKT
 
 ## Collection
-- New items this run: 51 | items in rolling pool: 624
-- Unique story clusters: 504 (duplicates merged: 120)
-- Clusters dropped as already published/queued: 9; unchanged since last analysis: 3
-- Items per outlet: Al Jazeera 10, Pakistan Today 8, Engadget 2, Ars Technica 2, Wired 2, Anadolu Ajansı 2, Middle East Eye 2, ARY News 1, Jang Urdu 1, The Express Tribune 1, X 1, AP News 1
+- New items this run: 39 | items in rolling pool: 526
+- Unique story clusters: 427 (duplicates merged: 99)
+- Clusters dropped as already published/queued: 16; unchanged since last analysis: 3
+- Items per outlet: Pakistan Today 6, The Express Tribune 5, Al Jazeera 3, TechCrunch 3, Geo News 2, Minute Mirror 1, The Verge 1, Ars Technica 1, Wired 1, BBC Technology 1, BBC World 1, TRT World 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Senate Republicans in US reject measure to limit Trump’s war powers in Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- DPM Dar, Asean secretary general agree to enhance cooperation to address ‘non-traditional’ security challenges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Turkish energy minister arrives in Karachi ahead of Oruç Reis offshore exploration mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Middle East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir, Qatari interior minister agree to counter-terrorism cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, 14 other countries welcome UK, Australia sanctions on Israeli 'settlement activities' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jailed PTI leaders write to top judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President urges implementation of Pakistan-Maldives MoUs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore named ECO Tourism Capital for 2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China’s Xi urges US and Russia to join forces to safeguard world peace | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Senate Republicans in US reject measure to limit Trump’s war powers in Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- DPM Dar, Asean secretary general agree to enhance cooperation to address ‘non-traditional’ security challenges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Turkish energy minister arrives in Karachi ahead of Oruç Reis offshore exploration mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Middle East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir, Qatari interior minister agree to counter-terrorism cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, 14 other countries welcome UK, Australia sanctions on Israeli 'settlement activities' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jailed PTI leaders write to top judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President urges implementation of Pakistan-Maldives MoUs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore named ECO Tourism Capital for 2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China’s Xi urges US and Russia to join forces to safeguard world peace | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Senate Republicans in US reject measure to limit Trump’s war powers in Iran | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- DPM Dar, Asean secretary general agree to enhance cooperation to address ‘non-traditional’ security challenges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Turkish energy minister arrives in Karachi ahead of Oruç Reis offshore exploration mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Middle East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CDF Munir, Qatari interior minister agree to counter-terrorism cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, 14 other countries welcome UK, Australia sanctions on Israeli 'settlement activities' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jailed PTI leaders write to top judges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President urges implementation of Pakistan-Maldives MoUs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore named ECO Tourism Capital for 2027 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China’s Xi urges US and Russia to join forces to safeguard world peace | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: The Guardian | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### US Senate Rejects Resolution to Limit Trump's War Powers on Iran  [NORMAL]
-- Poster: امریکی سینیٹ نے ٹرمپ کے ایران میں جنگی اختیارات محدود کرنے کی قرارداد مسترد کر دی / US Senate Rejects Iran War Powers Resolution | category security
-- Alternative headline: Senate Republicans Defeat Measure Curbing Trump's Iran War Powers
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss
-- Supporting coverage: CBS News, The New York Times, The Hill, Reuters, The Jerusalem Post, GV Wire
-- Keywords: Iran war powers, US Senate, Donald Trump, war powers resolution, Republicans, Iran conflict | hashtags: #USSenate #Iran #DonaldTrump #WarPowers #USPolitics
-- Scheduled: Fri 20 Nov, 02:22 AM PKT
-- Caption:
-```
-The US Senate defeated a resolution aimed at limiting President Trump's war powers regarding Iran in a 51-48 vote.
-
-The US Senate rejected a resolution to limit President Trump's war powers concerning Iran by a vote of 51-48. Three Republican senators broke ranks to vote in favor of the measure, but it ultimately fell short.
-
-امریکی سینیٹ نے 51 کے مقابلے میں 48 ووٹوں سے ایران کے حوالے سے صدر ٹرمپ کے جنگی اختیارات کو محدود کرنے کی قرارداد مسترد کر دی۔ تین ریپبلکن سینیٹرز نے اپنی جماعت کے خلاف ووٹ دیا، لیکن قرارداد منظور نہ ہو سکی۔
-
-First reported by CBS News; also reported by The New York Times, Reuters, and The Hill.
-
-#USSenate #Iran #DonaldTrump #WarPowers #USPolitics
-```
-
-### Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperation  [NORMAL]
-- Poster: پاکستان اور آسیان کا غیر روایتی سیکیورٹی چیلنجز سے نمٹنے کے لیے تعاون بڑھانے پر اتفاق / Pakistan, ASEAN Agree to Enhance Security Ties | category politics
-- Alternative headline: DPM Dar and ASEAN Chief Discuss Regional Security and Trade
+### Pakistan and 14 nations welcome UK and Australian sanctions on Israeli settlements  [NORMAL]
+- Poster: برطانیہ اور آسٹریلیا کی اسرائیلی بستیوں پر پابندیوں کا خیرمقدم / Pakistan Welcomes UK, Australia Sanctions on Israeli Settlements | category world
+- Alternative headline: Pakistan joins other countries in backing UK, Australia actions against Israeli settlements
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-agree-to-enhance-cooperation-to-address-non-traditional-security-challenges | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-agree-to-enhance-cooperation-to-address-non-traditional-security-challenges
-- Supporting coverage: Aaj English TV, Dawn Pakistan, Aaj English TV, Pakistan Today, Pakistan Today
-- Keywords: ASEAN Pakistan, Ishaq Dar, Kao Kim Hourn, non-traditional security, climate change, foreign ministry | hashtags: #IshaqDar #ASEAN #Pakistan #SecurityCooperation #ForeignOffice
-- Scheduled: Fri 20 Nov, 02:32 AM PKT
-- Caption:
-```
-Deputy Prime Minister Ishaq Dar and ASEAN Secretary-General Dr Kao Kim Hourn agreed to boost cooperation against non-traditional security threats.
-
-Deputy Prime Minister and Foreign Minister Ishaq Dar and ASEAN Secretary-General Dr Kao Kim Hourn agreed to enhance cooperation on non-traditional security challenges, including climate change, food security, and cyber threats, during talks in Islamabad.
-
-نائب وزیراعظم اور وزیر خارجہ اسحاق ڈار اور آسیان کے سیکرٹری جنرل ڈاکٹر کاؤ کم ہورن نے اسلام آباد میں ہونے والی ملاقات میں موسمیاتی تبدیلی، غذائی تحفظ اور سائبر خطرات سمیت غیر روایتی سیکیورٹی چیلنجز سے نمٹنے کے لیے تعاون بڑھانے پر اتفاق کیا۔
-
-First reported by Dawn Pakistan; also reported by Aaj English TV and Pakistan Today.
-
-#IshaqDar #ASEAN #Pakistan #SecurityCooperation #ForeignOffice
-```
-
-### Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Mission  [NORMAL]
-- Poster: ترکی کے وزیر توانائی اوروج رئیس آف شور ایکسپلوریشن مشن کے لیے کراچی پہنچ گئے / Turkish Energy Minister Arrives in Karachi | category economy
-- Alternative headline: Turkish Energy Minister Reaches Karachi as Offshore Exploration Begins
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMixgFBVV95cUxQVGdkYmhaSWNoRXp5WFB6SmJmQWxvdDNuQ3ZwZWJadXAwcWFtTF8zRDkta0dmRC1lZE8tbDAzc3hIWW5BMnNya0dIT2xyVTNYZ1RudXI1djlRZ2dtbDJFblV2SDlNeUxCc29YVXpZaUtkenVNMjc4RGk4aG1rSkFQa3hJWERKaExHeHRieS1pT2Q1VHRTWmJvbEhXZzJrelFmU2N4a05YUWhQQVFWdnl3bXF1VTZYaWh5Mkl5d2h3R3pSVHdCZEE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMixgFBVV95cUxQVGdkYmhaSWNoRXp5WFB6SmJmQWxvdDNuQ3ZwZWJadXAwcWFtTF8zRDkta0dmRC1lZE8tbDAzc3hIWW5BMnNya0dIT2xyVTNYZ1RudXI1djlRZ2dtbDJFblV2SDlNeUxCc29YVXpZaUtkenVNMjc4RGk4aG1rSkFQa3hJWERKaExHeHRieS1pT2Q1VHRTWmJvbEhXZzJrelFmU2N4a05YUWhQQVFWdnl3bXF1VTZYaWh5Mkl5d2h3R3pSVHdCZEE?oc=5
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnZRdjVmZnloOVZ6WnMteHhPYlpGR0tpdko1VDBEd2h1NmJDVktaYko4QXp5aldXck84S0p3NGdwUzB5T295WURERUpsWGk5VTlGaUVXMVVKcTVMbFlNZnNvN3RxSHlHTmxRaHZrVXVadHVJQURjRWRibGJKV180MWtJZGxCeWY5UFhFNUtzR1ZMaGNRT09tbkxPRk5QWE0xWWVPdjRmTUlRYXl3WEVNdnc3UWJxelp2UmNWVWV6amI5WjJDXzJz?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnZRdjVmZnloOVZ6WnMteHhPYlpGR0tpdko1VDBEd2h1NmJDVktaYko4QXp5aldXck84S0p3NGdwUzB5T295WURERUpsWGk5VTlGaUVXMVVKcTVMbFlNZnNvN3RxSHlHTmxRaHZrVXVadHVJQURjRWRibGJKV180MWtJZGxCeWY5UFhFNUtzR1ZMaGNRT09tbkxPRk5QWE0xWWVPdjRmTUlRYXl3WEVNdnc3UWJxelp2UmNWVWV6amI5WjJDXzJz?oc=5
 - Supporting coverage: The Express Tribune, Pakistan Today
-- Keywords: Oruç Reis, Turkish energy minister, Karachi, offshore exploration, Pakistan Turkiye | hashtags: #OrucReis #Turkey #Pakistan #EnergyExploration #Karachi
-- Scheduled: Fri 20 Nov, 02:42 AM PKT
+- Keywords: Israel settlements sanctions, Pakistan UK Australia, settlement activities, international sanctions, foreign policy | hashtags: #Pakistan #Sanctions #Israel #UK #Australia
+- Scheduled: Fri 20 Nov, 03:21 AM PKT
 - Caption:
 ```
-The Turkish energy minister has arrived in Karachi ahead of the Oruç Reis offshore exploration mission.
+Pakistan along with 14 other countries has formally welcomed the recent sanctions imposed by the UK and Australia targeting Israeli settlement activities.
 
-The Turkish energy minister arrived in Karachi in preparation for the Oruç Reis offshore exploration mission, marking a significant step in revived energy cooperation between Pakistan and Turkiye.
+Pakistan and 14 other countries have welcomed the decisions made by the UK and Australia to impose sanctions targeting Israeli settlement activities. The diplomatic response underscores international concerns regarding ongoing settlement expansions.
 
-ترکی کے وزیر توانائی اوروج رئیس آف شور ایکسپلوریشن مشن کی تیاریوں کے سلسلے میں کراچی پہنچ گئے ہیں، جو پاکستان اور ترکی کے درمیان توانائی کے شعبے میں تعاون کی بحالی کی طرف ایک اہم قدم ہے۔
+پاکستان اور دیگر 14 ممالک نے برطانیہ اور آسٹریلیا کی جانب سے اسرائیلی بستیوں کی سرگرمیوں پر پابندیوں کے فیصلے کا خیرمقدم کیا ہے۔
 
-First reported by The Express Tribune; also reported by Pakistan Today.
+First reported by The Express Tribune.
 
-#OrucReis #Turkey #Pakistan #EnergyExploration #Karachi
+#Pakistan #Sanctions #Israel #UK #Australia
 ```
 
-### Latest Updates and Developments from the Middle East  [NORMAL]
-- Poster: مشرق وسطیٰ سے متعلق تازہ ترین خبریں اور تبدیلیاں / Latest Middle East News Updates | category world
-- Alternative headline: Middle East News: Regional Developments Covered
+### Jailed PTI leaders write to top judges over prison conditions  [NORMAL]
+- Poster: قید پی ٹی آئی رہنماؤں کا اعلیٰ ججوں کو خط / Jailed PTI Leaders Write to Top Judges | category politics
+- Alternative headline: Five jailed PTI leaders approach top judiciary regarding leaders' health and safety
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mdGRGZGN1Vm4xeWtCUTBFMGRPbWlXMnZsQWtuMkR6THpPM0JhOGNpRktxVkVjRUt2aFVOb2FhSGJqam1hYk9Gd2wyWUxKS044S1dmYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mdGRGZGN1Vm4xeWtCUTBFMGRPbWlXMnZsQWtuMkR6THpPM0JhOGNpRktxVkVjRUt2aFVOb2FhSGJqam1hYk9Gd2wyWUxKS044S1dmYw?oc=5
-- Supporting coverage: BBC, Al Jazeera
-- Keywords: Middle East, Middle East news, regional updates, BBC, Al Jazeera | hashtags: #MiddleEast #WorldNews #BBC #AlJazeera #GlobalUpdates
-- Scheduled: Fri 20 Nov, 02:52 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUtUdVNobHFmcm5HVlZ0QVBJWk9iVGVpZGpURU9Ca1FkMmVMSDVSSmZnM1RPZUNxaWp3Vl83dU9wa0twU2NTTnZJdkZENzJzczFFNktBaTdrYUtoeC00SFJJaHZPV3QzM1JMVVRKa09nU1EzN0VWanRSTEVmeElZMdIBiAFBVV95cUxOeldIaWtpWEdIR21xR2wzY3pLY2NkczRmZGt0ckxmb29aaWxvd0RrcERKd1dlbmJINmhLTDJQMTV5cE50SFpWVnFjZURIOU5TbDZ3R2R3anpMNjZXMUtsaHdGS28xOEIzMXgwc2VyQVB4cGxGUENMN21UTzgwV3FEMTBtRXJuM3By?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUtUdVNobHFmcm5HVlZ0QVBJWk9iVGVpZGpURU9Ca1FkMmVMSDVSSmZnM1RPZUNxaWp3Vl83dU9wa0twU2NTTnZJdkZENzJzczFFNktBaTdrYUtoeC00SFJJaHZPV3QzM1JMVVRKa09nU1EzN0VWanRSTEVmeElZMdIBiAFBVV95cUxOeldIaWtpWEdIR21xR2wzY3pLY2NkczRmZGt0ckxmb29aaWxvd0RrcERKd1dlbmJINmhLTDJQMTV5cE50SFpWVnFjZURIOU5TbDZ3R2R3anpMNjZXMUtsaHdGS28xOEIzMXgwc2VyQVB4cGxGUENMN21UTzgwV3FEMTBtRXJuM3By?oc=5
+- Supporting coverage: The Express Tribune, Pakistan Today
+- Keywords: PTI jailed leaders, top judges, prison conditions, Imran Khan, legal plea | hashtags: #PTI #ImranKhan #PakistanCourts #Politics
+- Scheduled: Fri 20 Nov, 03:31 AM PKT
 - Caption:
 ```
-Stay updated with the latest news and reports emerging from the Middle East region.
+Jailed PTI leaders have approached the country's top judges to raise serious concerns regarding prison conditions and health issues.
 
-A collection of ongoing news updates and reports concerning political, security, and diplomatic developments across the Middle East region.
+Several jailed PTI leaders have written to top judges concerning prison conditions and the health and safety of party figures, drawing attention to legal and humanitarian issues within the detention system.
 
-مشرق وسطیٰ کے خطے میں سیاسی، سیکیورٹی اور سفارتی پیش رفت سے متعلق تازہ ترین خبروں اور رپورٹوں کا مجموعہ۔
+قید تحریک انصاف کے رہنماؤں نے جیل کے حالات اور صحت کے مسائل پر اعلیٰ ترین ججوں کو خط لکھا ہے۔
 
-First reported by BBC; also reported by Al Jazeera.
+First reported by The Express Tribune.
 
-#MiddleEast #WorldNews #BBC #AlJazeera #GlobalUpdates
+#PTI #ImranKhan #PakistanCourts #Politics
 ```
 
-- Indian outlets blocked this run: 0 items
+### President urges swift implementation of Pakistan-Maldives agreements  [NORMAL]
+- Poster: صدر مملکت کا پاکستان اور مالدیپ کے درمیان معاہدوں پر عمل درآمد پر زور / President Urges Implementation of Pakistan-Maldives MoUs | category world
+- Alternative headline: President calls for turning Pakistan-Maldives MoUs into concrete results
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/president-urges-implementation-of-pakistan-maldives-mous | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/president-urges-implementation-of-pakistan-maldives-mous
+- Supporting coverage: ARY News, ARYnews.tv
+- Keywords: Pakistan Maldives MoUs, President, bilateral relations, trade defence, Ovais Ahmed Bilgrami | hashtags: #Pakistan #Maldives #Diplomacy #ForeignPolicy
+- Scheduled: Fri 20 Nov, 03:41 AM PKT
+- Caption:
+```
+President Asif Ali Zardari has called for effective follow-up on agreements signed during the Maldivian president's recent visit.
+
+President called for effective follow-up on agreements made during Maldivian President Dr Mohammad Muizzu’s recent visit, emphasizing the need to turn 20 MoUs into concrete results in defence, trade, education, and health during a meeting with High Commissioner-designate Ovais Ahmed Bilgrami.
+
+صدر مملکت نے مالدیپ کے صدر کے دورے کے دوران طے پانے والے معاہدوں پر مؤثر عمل درآمد اور دفاع، تجارت اور تعلیم کے شعبوں میں تعاون بڑھانے پر زور دیا ہے۔
+
+First reported by ARY News.
+
+#Pakistan #Maldives #Diplomacy #ForeignPolicy
+```
+
+### Lahore officially named ECO Tourism Capital for 2027  [NORMAL]
+- Poster: لاہور کو 2027 کے لیے ایکو سیاحتی دارالحکومت قرار دے دیا گیا / Lahore Named ECO Tourism Capital for 2027 | category other
+- Alternative headline: Lahore wins ECO Tourism Capital title for 2027 with cultural events planned
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/lahore-named-eco-tourism-capital-for-2027 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/lahore-named-eco-tourism-capital-for-2027
+- Supporting coverage: ARY News, Pakistan Today
+- Keywords: Lahore ECO Tourism Capital, Maryam Nawaz, tourism 2027, Azerbaijan, cultural events | hashtags: #Lahore #ECO #Tourism #Punjab #Pakistan
+- Scheduled: Fri 20 Nov, 03:51 AM PKT
+- Caption:
+```
+Lahore has been officially designated as the ECO Tourism Capital for 2027, paving the way for year-long international cultural events.
+
+Punjab Chief Minister Maryam Nawaz Sharif's tourism vision gained international recognition as Lahore was officially named the ECO Tourism Capital for 2027. The title was received in Azerbaijan, with plans for a series of expos, festivals, and cultural events throughout 2027.
+
+لاہور کو باضابطہ طور پر 2027 کے لیے ایکو ٹ্যورزم کیپیتال نامزد کر دیا گیا ہے، جہاں سال بھر ثقافتی اور سیاحتی تقریبات منعقد کی جائیں گی۔
+
+First reported by ARY News.
+
+#Lahore #ECO #Tourism #Punjab #Pakistan
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 6
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
 
 ## Queue status
-- [needs_review] normal | Lukaku retires from international football | Mon 16 Nov, 09:20 PM PKT
 - [needs_review] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
 - [needs_review] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
 - [needs_review] normal | Third US aircraft carrier arrives in Middle East amid tensions with Ir | Mon 16 Nov, 10:44 PM PKT
@@ -154,7 +152,6 @@ First reported by BBC; also reported by Al Jazeera.
 - [needs_review] normal | UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA ele | Tue 17 Nov, 02:31 AM PKT
 - [needs_review] normal | Nationwide ground stop could cost US airlines hundreds of millions | Tue 17 Nov, 02:41 AM PKT
 - [needs_review] normal | Israeli opposition accuses Netanyahu of attempted ‘coup’ | Tue 17 Nov, 02:51 AM PKT
-- [published] normal | Mamdani to disband NYPD unit deployed at Columbia protests | Tue 17 Nov, 03:20 AM PKT
 - [needs_review] normal | Sudanese army air attack kills 13 in western Sudan: Rights group | Tue 17 Nov, 03:30 AM PKT
 - [needs_review] normal | Manchester United’s Endless Loop | Tue 17 Nov, 03:40 AM PKT
 - [needs_review] normal | Photos: California residents gather to watch massive El Nino-fuelled w | Tue 17 Nov, 03:50 AM PKT
@@ -362,21 +359,22 @@ First reported by BBC; also reported by Al Jazeera.
 - [needs_review] normal | Donald Trump calls for nuclear arms reduction at APEC summit | Thu 19 Nov, 06:18 PM PKT
 - [published] normal | President Zardari and PM Shehbaz agree to resolve all matters through  | Fri 20 Nov, 01:26 AM PKT
 - [published] normal | ICJ finds Myanmar guilty of genocide against the Rohingya minority | Fri 20 Nov, 01:36 AM PKT
-- [queued] normal | US military spending on the Iran war crosses $48 billion | Fri 20 Nov, 01:46 AM PKT
+- [published] normal | US military spending on the Iran war crosses $48 billion | Fri 20 Nov, 01:46 AM PKT
 - [queued] normal | European leaders say Europe is ready for talks with Russia on ending t | Fri 20 Nov, 01:56 AM PKT
 - [queued] normal | US Senate Rejects Resolution to Limit Trump's War Powers on Iran | Fri 20 Nov, 02:22 AM PKT
 - [queued] normal | Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperatio | Fri 20 Nov, 02:32 AM PKT
 - [queued] normal | Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Miss | Fri 20 Nov, 02:42 AM PKT
 - [queued] normal | Latest Updates and Developments from the Middle East | Fri 20 Nov, 02:52 AM PKT
+- [queued] normal | Pakistan and 14 nations welcome UK and Australian sanctions on Israeli | Fri 20 Nov, 03:21 AM PKT
+- [queued] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
+- [queued] normal | President urges swift implementation of Pakistan-Maldives agreements | Fri 20 Nov, 03:41 AM PKT
+- [queued] normal | Lahore officially named ECO Tourism Capital for 2027 | Fri 20 Nov, 03:51 AM PKT
 
 ## Publishing this run
-- Published 'ICJ finds Myanmar guilty of genocide against the Rohingya minority'.
+- Published 'US military spending on the Iran war crosses $48 billion'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 7678 | output tokens: 2242
+- Calls: 3 | prompt tokens: 5456 | output tokens: 2059
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

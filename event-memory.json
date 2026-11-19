@@ -81468,7 +81468,428 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9b1107f67efc889cbbb7a4ca",
+      "remembered_at": "2026-11-19T22:21:32.946351+00:00",
+      "event_date": "2026-11-19T19:43:44+00:00",
+      "last_update": "2026-11-19T21:46:03+00:00",
+      "event": "Pakistan, 14 other countries welcome UK, Australia sanctions on Israeli 'settlement activities'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activities",
+        "australia",
+        "countries",
+        "express",
+        "israeli",
+        "other",
+        "pakistan",
+        "sanctions",
+        "settlement",
+        "the",
+        "tribune",
+        "welcome"
+      ],
+      "source_excerpt": "Pakistan, 14 other countries welcome UK, Australia sanctions on Israeli 'settlement activities' The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnZRdjVmZnloOVZ6WnMteHhPYlpGR0tpdko1VDBEd2h1NmJDVktaYko4QXp5aldXck84S0p3NGdwUzB5T295WURERUpsWGk5VTlGaUVXMVVKcTVMbFlNZnNvN3RxSHlHTmxRaHZrVXVadHVJQURjRWRibGJKV180MWtJZGxCeWY5UFhFNUtzR1ZMaGNRT09tbkxPRk5QWE0xWWVPdjRmTUlRYXl3WEVNdnc3UWJxelp2UmNWVWV6amI5WjJDXzJz?oc=5",
+          "published_at": "2026-11-19T19:43:44+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1VneFc1T3pyb2x4bmFuS3l1WFQ3X1BZc1J1czJQZFpaMldMWFhMd2J2bXFWNWFWenFBcDdjTFI0dmQ2R3N3RUJEY1YxeFdJc0ZDYVUzVDM2cTJaSW5jNnlrV3h2endVXzNVTDFXdWxsVjJMTVZJTTJMeXhrRGt6TnkzTE1JSE5WaHRFZE9XY1RMdHV4TUdURXIzSjl1dF9Xdjl5dDMxSGlVZ0cwU1Z1UXpNWjRHTHo4YXRlSnZSbzc?oc=5",
+          "published_at": "2026-11-19T21:46:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnZRdjVmZnloOVZ6WnMteHhPYlpGR0tpdko1VDBEd2h1NmJDVktaYko4QXp5aldXck84S0p3NGdwUzB5T295WURERUpsWGk5VTlGaUVXMVVKcTVMbFlNZnNvN3RxSHlHTmxRaHZrVXVadHVJQURjRWRibGJKV180MWtJZGxCeWY5UFhFNUtzR1ZMaGNRT09tbkxPRk5QWE0xWWVPdjRmTUlRYXl3WEVNdnc3UWJxelp2UmNWVWV6amI5WjJDXzJz?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a97a1b9c60328a4cde7e399",
+      "remembered_at": "2026-11-19T22:21:32.946351+00:00",
+      "event_date": "2026-11-19T21:00:00+00:00",
+      "last_update": "2026-11-19T21:41:53+00:00",
+      "event": "Jailed PTI leaders write to top judges",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "jailed",
+        "judges",
+        "leaders",
+        "pti",
+        "the",
+        "top",
+        "tribune",
+        "write"
+      ],
+      "source_excerpt": "Jailed PTI leaders write to top judges The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUtUdVNobHFmcm5HVlZ0QVBJWk9iVGVpZGpURU9Ca1FkMmVMSDVSSmZnM1RPZUNxaWp3Vl83dU9wa0twU2NTTnZJdkZENzJzczFFNktBaTdrYUtoeC00SFJJaHZPV3QzM1JMVVRKa09nU1EzN0VWanRSTEVmeElZMdIBiAFBVV95cUxOeldIaWtpWEdIR21xR2wzY3pLY2NkczRmZGt0ckxmb29aaWxvd0RrcERKd1dlbmJINmhLTDJQMTV5cE50SFpWVnFjZURIOU5TbDZ3R2R3anpMNjZXMUtsaHdGS28xOEIzMXgwc2VyQVB4cGxGUENMN21UTzgwV3FEMTBtRXJuM3By?oc=5",
+          "published_at": "2026-11-19T21:00:00+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblBLZXNsRTU0MzlKWlVsVEt4YW0yOU9YNUJVZmVzTVJNeGNiZXVZeHUzanhjT2JPazR3WU9FX2RDcnE1cmY3dGRSMFFadmJhV0dzUFZfV0QyYUQzSGdhMnpSUk12Szg0NDR1ZGlJVG1IS2NNbGluTV84aWZMU0ZzNXRyYTFyUWR3NWVkMDZJRm43ZGpaVTdxN0V4U3dTQUc4YmM4cU03NHgwbF9vV0wyNlZEVjVYUnNzOW9RTXpmQ3FreFFrbWItc2ZoRHgtd3RT?oc=5",
+          "published_at": "2026-11-19T21:41:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUtUdVNobHFmcm5HVlZ0QVBJWk9iVGVpZGpURU9Ca1FkMmVMSDVSSmZnM1RPZUNxaWp3Vl83dU9wa0twU2NTTnZJdkZENzJzczFFNktBaTdrYUtoeC00SFJJaHZPV3QzM1JMVVRKa09nU1EzN0VWanRSTEVmeElZMdIBiAFBVV95cUxOeldIaWtpWEdIR21xR2wzY3pLY2NkczRmZGt0ckxmb29aaWxvd0RrcERKd1dlbmJINmhLTDJQMTV5cE50SFpWVnFjZURIOU5TbDZ3R2R3anpMNjZXMUtsaHdGS28xOEIzMXgwc2VyQVB4cGxGUENMN21UTzgwV3FEMTBtRXJuM3By?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8f55bfac3dfdc6f7cde2750b",
+      "remembered_at": "2026-11-19T22:21:32.946351+00:00",
+      "event_date": "2026-11-19T21:58:27+00:00",
+      "last_update": "2026-11-19T21:58:27+00:00",
+      "event": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "900",
+        "alleged",
+        "amid",
+        "ceo",
+        "china",
+        "chinese",
+        "chip",
+        "chips",
+        "committee",
+        "data",
+        "export",
+        "former",
+        "house",
+        "links",
+        "months",
+        "nearly",
+        "nvidia",
+        "off",
+        "releases",
+        "sales",
+        "scrutiny",
+        "signed",
+        "six",
+        "spy"
+      ],
+      "source_excerpt": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+          "published_at": "2026-11-19T21:58:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c92be4f29379fb15d803d443",
+      "remembered_at": "2026-11-19T22:21:32.946351+00:00",
+      "event_date": "2026-11-19T21:39:39+00:00",
+      "last_update": "2026-11-19T21:39:39+00:00",
+      "event": "Haiti police say at least 34 suspected gang members killed in raid",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2021",
+        "area",
+        "gang",
+        "gangs",
+        "haiti",
+        "held",
+        "key",
+        "killed",
+        "least",
+        "located",
+        "martissant",
+        "members",
+        "out",
+        "police",
+        "port",
+        "prince",
+        "raid",
+        "route",
+        "say",
+        "since",
+        "suspected",
+        "targeted",
+        "the"
+      ],
+      "source_excerpt": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+          "published_at": "2026-11-19T21:39:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6489aed584168d1ae19333f7",
+      "remembered_at": "2026-11-19T22:21:32.946351+00:00",
+      "event_date": "2026-11-19T21:11:45+00:00",
+      "last_update": "2026-11-19T21:11:45+00:00",
+      "event": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appeals",
+        "block",
+        "court",
+        "decision",
+        "deportation",
+        "effect",
+        "end",
+        "for",
+        "from",
+        "lets",
+        "lifting",
+        "lower",
+        "prevents",
+        "protections",
+        "ruling",
+        "taking",
+        "the",
+        "tps",
+        "trump",
+        "venezuelans",
+        "which",
+        "would"
+      ],
+      "source_excerpt": "The appeals court's ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
+          "published_at": "2026-11-19T21:11:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d0be88e3800f6b15cd551e57",
+      "remembered_at": "2026-11-19T22:21:32.946351+00:00",
+      "event_date": "2026-11-19T21:38:42+00:00",
+      "last_update": "2026-11-19T21:38:42+00:00",
+      "event": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anthropic",
+        "becomes",
+        "companies",
+        "company",
+        "creating",
+        "debut",
+        "entire",
+        "first",
+        "for",
+        "industry",
+        "listed",
+        "market",
+        "most",
+        "one",
+        "public",
+        "publicly",
+        "purely",
+        "stock",
+        "test",
+        "the",
+        "valuable",
+        "world"
+      ],
+      "source_excerpt": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T21:38:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2cd5826e008fbac996333416",
+      "remembered_at": "2026-11-19T22:21:32.946351+00:00",
+      "event_date": "2026-11-19T22:09:04+00:00",
+      "last_update": "2026-11-19T22:09:04+00:00",
+      "event": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2017",
+        "after",
+        "anymore",
+        "became",
+        "birth",
+        "cincinnati",
+        "couldn",
+        "dies",
+        "fiona",
+        "fought",
+        "hat",
+        "her",
+        "hippo",
+        "internet",
+        "premature",
+        "says",
+        "she",
+        "star",
+        "swallowing",
+        "the",
+        "until",
+        "who",
+        "zoo"
+      ],
+      "source_excerpt": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T22:09:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6834d6694037711004c93df8",
+      "remembered_at": "2026-11-19T22:21:32.946351+00:00",
+      "event_date": "2026-11-19T22:02:06+00:00",
+      "last_update": "2026-11-19T22:02:06+00:00",
+      "event": "William and Catherine's India tour was 'particularly special', aide says",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aide",
+        "and",
+        "bbc",
+        "catherine",
+        "india",
+        "particularly",
+        "says",
+        "special",
+        "tour",
+        "was",
+        "william"
+      ],
+      "source_excerpt": "William and Catherine's India tour was 'particularly special', aide says BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NSE5hVDIxNll0SmttT2MtR2U1TENRNXYtRnVjdDVQVVBYVFdGRVpZNXk2WkRUU2lGamVJZVRFWTV6RmxTWWhtOEFYbzU0VkJ3S1VCRVhJNllGMkU?oc=5",
+          "published_at": "2026-11-19T22:02:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NSE5hVDIxNll0SmttT2MtR2U1TENRNXYtRnVjdDVQVVBYVFdGRVpZNXk2WkRUU2lGamVJZVRFWTV6RmxTWWhtOEFYbzU0VkJ3S1VCRVhJNllGMkU?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T21:22:58.249803+00:00"
+  "updated_at": "2026-11-19T22:21:32.946351+00:00"
 }
