@@ -94062,7 +94062,618 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a82458806aa18c5925581919",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T17:45:16+00:00",
+      "last_update": "2026-11-20T22:19:56+00:00",
+      "event": "Iran won't make an deal acceptable to me: Trump",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acceptable",
+        "dawn",
+        "deal",
+        "iran",
+        "make",
+        "trump",
+        "won"
+      ],
+      "source_excerpt": "Iran won't make an deal acceptable to me: Trump Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWloczFNdnVzRG4wbllQYXFmQ3FCM0F3WUNnTmNxSlh3MDVqV0R3eDY4VUVwLXVVUGR5R0dsQ05pbGVFS3FORTdLTHNFUmZfNjBIa2RDMUlwMndsbkVoM1FJTDllVVo0TjVORFVMUzhHTFphcDJKZ3gtSHhSbjZBdVFhTzhEUQ?oc=5",
+          "published_at": "2026-11-20T17:45:16+00:00"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYkw4RHFnUlVhd0pXTlhFdzhNeGF5aFpRUEVGRDh0Tnp1NHNMejZ4d2xGQmkyRS1RRlFFbnlvSHIzRWFwajlwRWRvU1VJS3cxN0Z2U0ZocEJlYnF3UUltMkxlT2l6d1dHTW1BR3lWUDFGTzIxUnZBYVo4TXRHVDBOazBRTXgtWWtvN3ZtTEltVWlRa0lMSEluSEpBRFRac3k2S2I2ZVNfcHh6b0tvcWs0dVR0RmJQUE10UXhOT0hKbFFRUDZLbm5hLW9Pbw?oc=5",
+          "published_at": "2026-11-20T22:19:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWloczFNdnVzRG4wbllQYXFmQ3FCM0F3WUNnTmNxSlh3MDVqV0R3eDY4VUVwLXVVUGR5R0dsQ05pbGVFS3FORTdLTHNFUmZfNjBIa2RDMUlwMndsbkVoM1FJTDllVVo0TjVORFVMUzhHTFphcDJKZ3gtSHhSbjZBdVFhTzhEUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f7806e9bea7c2a1793f43d65",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T22:15:00+00:00",
+      "last_update": "2026-11-20T22:15:00+00:00",
+      "event": "Jennifer Lawrence, Josh Hutcherson name favourite 'Hunger Games' films",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "andy",
+        "appeared",
+        "favourite",
+        "films",
+        "first",
+        "games",
+        "happens",
+        "have",
+        "hunger",
+        "hutcherson",
+        "interview",
+        "jennifer",
+        "joint",
+        "josh",
+        "lawrence",
+        "live",
+        "more",
+        "name",
+        "named",
+        "pair",
+        "series",
+        "ten",
+        "than",
+        "the",
+        "their",
+        "watch",
+        "what",
+        "with",
+        "years"
+      ],
+      "source_excerpt": "Jennifer Lawrence, Josh Hutcherson name favourite 'Hunger Games' films Jennifer Lawrence and Josh Hutcherson have named their favourite films in the Hunger Games series, in their first joint interview in more than ten years. The pair appeared on Watch What Happens Live with Andy...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692020-jennifer-lawrence-josh-hutcherson-name-favourite-hunger-games-films",
+          "published_at": "2026-11-20T22:15:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692020-jennifer-lawrence-josh-hutcherson-name-favourite-hunger-games-films",
+        "publisher_url": "https://www.geo.tv/latest/692020-jennifer-lawrence-josh-hutcherson-name-favourite-hunger-games-films",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bb00b1f4982fbe7f5af01627",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T21:28:25+00:00",
+      "last_update": "2026-11-20T21:28:25+00:00",
+      "event": "Iraq PM targets militia stronghold in bid to assert state control",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ali",
+        "assert",
+        "bid",
+        "control",
+        "iraq",
+        "iraqi",
+        "jurf",
+        "marks",
+        "militia",
+        "nationwide",
+        "operation",
+        "push",
+        "said",
+        "sakhar",
+        "start",
+        "state",
+        "stronghold",
+        "targets",
+        "the",
+        "zaidi"
+      ],
+      "source_excerpt": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+          "published_at": "2026-11-20T21:28:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "99d4c562f22f2f592c5a7d2c",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T21:57:07+00:00",
+      "last_update": "2026-11-20T21:57:07+00:00",
+      "event": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "allegation",
+        "assassinate",
+        "attach",
+        "being",
+        "defence",
+        "denied",
+        "denmark",
+        "embassy",
+        "expelled",
+        "has",
+        "led",
+        "plotting",
+        "rapper",
+        "russia",
+        "russian",
+        "the",
+        "ukrainian",
+        "which"
+      ],
+      "source_excerpt": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T21:57:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "82502cba26998c8f9b90be2a",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T21:30:51+00:00",
+      "last_update": "2026-11-20T21:30:51+00:00",
+      "event": "Robberies in Balochistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "balochistan",
+        "express",
+        "robberies",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Robberies in Balochistan The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PcW5JcUd1czdyVFZMYVI1Q1F2Y2xGTUU2VU9uRjJ5alVZbU1fRlRvNEJRSEY0VmZoV29yZklFNElTa25LeUpNYjhNcTE1Z0ZGZERZU29HNkZTQnBWTW0yR1g3cWJCTUpMaVBhdkpGMA?oc=5",
+          "published_at": "2026-11-20T21:30:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PcW5JcUd1czdyVFZMYVI1Q1F2Y2xGTUU2VU9uRjJ5alVZbU1fRlRvNEJRSEY0VmZoV29yZklFNElTa25LeUpNYjhNcTE1Z0ZGZERZU29HNkZTQnBWTW0yR1g3cWJCTUpMaVBhdkpGMA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5f363252d7f52383dd694fc7",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T22:13:15+00:00",
+      "last_update": "2026-11-20T22:13:15+00:00",
+      "event": "Pakistan logs 9.4 million annual cyberattacks",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "annual",
+        "cyberattacks",
+        "express",
+        "logs",
+        "million",
+        "pakistan",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Pakistan logs 9.4 million annual cyberattacks The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnM5dVJNWUhUeWJTeWRsYS1RMlBjdEl1cE1NM0hiWUJzOFNxYWZ5ZnBUUXBzdzd1OWhsb1R3OTJWWG4zN29wREJqWXZja3JOUVN1am1YUkJVTFEtbkRWNlV4MVo5NE9Dc3pWc1hrQVp1UzJhZjlsZWhvMzBYZl9zM0xaZFZ1elFk0gGQAUFVX3lxTE9hLTFmSlFrSDM1UXVDaTRmUUU1YWVNZVEzQzRmYTVxbUVhTjhRa3BoVV95TjJQeWRINjZhS21jMF9HSjNJV3c2cVVoVUN0ckFCTTdKYmVfdm5sYkVtUmtfSVBlVFg5LVdPcjYxNzMtYVJMSHNJbXRKRGpENW9JZ2VMMElYNFljR3FldHVEMHdtbA?oc=5",
+          "published_at": "2026-11-20T22:13:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnM5dVJNWUhUeWJTeWRsYS1RMlBjdEl1cE1NM0hiWUJzOFNxYWZ5ZnBUUXBzdzd1OWhsb1R3OTJWWG4zN29wREJqWXZja3JOUVN1am1YUkJVTFEtbkRWNlV4MVo5NE9Dc3pWc1hrQVp1UzJhZjlsZWhvMzBYZl9zM0xaZFZ1elFk0gGQAUFVX3lxTE9hLTFmSlFrSDM1UXVDaTRmUUU1YWVNZVEzQzRmYTVxbUVhTjhRa3BoVV95TjJQeWRINjZhS21jMF9HSjNJV3c2cVVoVUN0ckFCTTdKYmVfdm5sYkVtUmtfSVBlVFg5LVdPcjYxNzMtYVJMSHNJbXRKRGpENW9JZ2VMMElYNFljR3FldHVEMHdtbA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b8f1b501fbe52f2c4b786e94",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T21:11:20+00:00",
+      "last_update": "2026-11-20T21:11:20+00:00",
+      "event": "ڈاکٹر مصدق ملک کی قیادت میں پاکستانی وفد کی نئی دلی آمد",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "آمد",
+        "تبدیلی",
+        "تہذیبی",
+        "دلی",
+        "شرکت",
+        "قیادت",
+        "لیے",
+        "مصدق",
+        "ملک",
+        "موسمیاتی",
+        "مکالمے",
+        "میں",
+        "نئی",
+        "ناظم",
+        "وزیر",
+        "وفاقی",
+        "وفد",
+        "پاکستانی",
+        "پہنچ",
+        "ڈاکٹر",
+        "ڈاکٹرمصدق",
+        "گیا،"
+      ],
+      "source_excerpt": "وفاقی وزیر موسمیاتی تبدیلی ڈاکٹرمصدق ملک کی قیادت میں پاکستانی وفد تہذیبی مکالمے میں شرکت کے لیے نئی دلی پہنچ گیا، پاکستانی ناظم...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1635268",
+          "published_at": "2026-11-20T21:11:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1635268",
+        "publisher_url": "https://jang.com.pk/news/1635268",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "11383ddac86162884703c2b3",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T21:11:08+00:00",
+      "last_update": "2026-11-20T21:11:08+00:00",
+      "event": "نواز اور زرداری نہیں، بانی پی ٹی آئی صوبوں کے حامی ہیں، علی محمد خان",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "انصاف",
+        "اور",
+        "آئی",
+        "آصف",
+        "اگر",
+        "بانی",
+        "تحریک",
+        "حامی",
+        "خان",
+        "رہنما",
+        "زرداری",
+        "شریف",
+        "صرف",
+        "صوبوں",
+        "علی",
+        "محمد",
+        "نواز",
+        "نہیں،",
+        "چھوٹے",
+        "کہا",
+        "ہیں،"
+      ],
+      "source_excerpt": "تحریک انصاف کے رہنما علی محمد خان نے کہا ہے کہ نواز شریف اور آصف زرداری نہیں، صرف بانی پی ٹی آئی چھوٹے صوبوں کے حامی ہیں، اگر وہ اس...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1635258",
+          "published_at": "2026-11-20T21:11:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1635258",
+        "publisher_url": "https://jang.com.pk/news/1635258",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0effa74ea9a5ed2637ab4b62",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T21:32:00+00:00",
+      "last_update": "2026-11-20T21:32:00+00:00",
+      "event": "Princess Anne follows Prince William's suit for ending trip",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anne",
+        "ending",
+        "follows",
+        "for",
+        "geo",
+        "news",
+        "prince",
+        "princess",
+        "suit",
+        "trip",
+        "william"
+      ],
+      "source_excerpt": "Princess Anne follows Prince William's suit for ending trip Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXdaZGNJendmWjQxMHFjUkxlMVRBaW5mQUxsRl95N2ZOcXR1SHRrUkRzcnlWQk9QR0s3b2Z2Wm5QcG5pVDdma055WGozNnJCcG5iaTJKMWxJVlF2R3NhRUVUaVlndHFKVUNUY2FkX3dHM2F4UXhzVzhZUGNhME1qeTNhdFEwT1NxcVRROU1RcTUzUVU5WGc?oc=5",
+          "published_at": "2026-11-20T21:32:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692010-princess-anne-follows-prince-williams-suit-for-ending-trip",
+          "published_at": "2026-11-20T21:32:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXdaZGNJendmWjQxMHFjUkxlMVRBaW5mQUxsRl95N2ZOcXR1SHRrUkRzcnlWQk9QR0s3b2Z2Wm5QcG5pVDdma055WGozNnJCcG5iaTJKMWxJVlF2R3NhRUVUaVlndHFKVUNUY2FkX3dHM2F4UXhzVzhZUGNhME1qeTNhdFEwT1NxcVRROU1RcTUzUVU5WGc?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8951933792674708ee430b2a",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T21:39:13+00:00",
+      "last_update": "2026-11-20T21:39:13+00:00",
+      "event": "Trillion-rupee cyber fraud",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cyber",
+        "express",
+        "fraud",
+        "rupee",
+        "the",
+        "tribune",
+        "trillion"
+      ],
+      "source_excerpt": "Trillion-rupee cyber fraud The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jcVFmOVF0N2ZYeWdRX0E5U0pKSGVmdDZCUjlrdmN1ekFMOUZOM0ExZ3cyb1ZoTlhHOFd6UDMzSVFUYnh6WE5UbVBLWml2bVBwN2tHOERjMXdWNEJGbFM0dG41MUFoNVp3b2NZczhiN23SAXhBVV95cUxPSWVKOWJEZUhIaElVX2xOdzFEc3ptVmlhQ3ExMEhiV1pNaWNxZ1UtSndqa0d6TUFCMEhHR0tKTml5dlNaczhDWnE3RVhONkNtaGxhSERlWTh1SFpmcTU1WXF5N2lvSmFXN2JmQzBqZ0hQc2hqdDdaMlY?oc=5",
+          "published_at": "2026-11-20T21:39:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jcVFmOVF0N2ZYeWdRX0E5U0pKSGVmdDZCUjlrdmN1ekFMOUZOM0ExZ3cyb1ZoTlhHOFd6UDMzSVFUYnh6WE5UbVBLWml2bVBwN2tHOERjMXdWNEJGbFM0dG41MUFoNVp3b2NZczhiN23SAXhBVV95cUxPSWVKOWJEZUhIaElVX2xOdzFEc3ptVmlhQ3ExMEhiV1pNaWNxZ1UtSndqa0d6TUFCMEhHR0tKTml5dlNaczhDWnE3RVhONkNtaGxhSERlWTh1SFpmcTU1WXF5N2lvSmFXN2JmQzBqZ0hQc2hqdDdaMlY?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "23579e7fb5a40446e4200680",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T21:30:51+00:00",
+      "last_update": "2026-11-20T21:30:51+00:00",
+      "event": "Why does a cigarette get a free pass?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cigarette",
+        "does",
+        "express",
+        "free",
+        "get",
+        "pass",
+        "the",
+        "tribune",
+        "why"
+      ],
+      "source_excerpt": "Why does a cigarette get a free pass? The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NOUo4Z0V5NmxfWnZHbDZCeTdhMXZrWGlmQ1BEOEFjcFJDTXZDQ19yemN4dWxXU1pMcVI5XzFkQ0V5T3RFUmFmb2tZNko0TlQzbFR5SzBRRF9ELUhpZlpSeml0OE1EQVVUNVFhc1FjN3FYS3FpclZqbmt4cDhmRE0?oc=5",
+          "published_at": "2026-11-20T21:30:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NOUo4Z0V5NmxfWnZHbDZCeTdhMXZrWGlmQ1BEOEFjcFJDTXZDQ19yemN4dWxXU1pMcVI5XzFkQ0V5T3RFUmFmb2tZNko0TlQzbFR5SzBRRF9ELUhpZlpSeml0OE1EQVVUNVFhc1FjN3FYS3FpclZqbmt4cDhmRE0?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c51495ee17ccf5049d66701c",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T21:31:07+00:00",
+      "last_update": "2026-11-20T21:31:07+00:00",
+      "event": "Gen Z’s worth",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "gen",
+        "the",
+        "tribune",
+        "worth"
+      ],
+      "source_excerpt": "Gen Z’s worth The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44QUNKeWhlYkFyVUJ6QS1leVFJYVdHYlJ3c3ZfbXhhVXVSbVl5aDdHUHhtanZETFlKYU1PR0FvODVJVGhBOXowSWwxLXpzLTJDX18zUmExQUFIVU5qWTJB?oc=5",
+          "published_at": "2026-11-20T21:31:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44QUNKeWhlYkFyVUJ6QS1leVFJYVdHYlJ3c3ZfbXhhVXVSbVl5aDdHUHhtanZETFlKYU1PR0FvODVJVGhBOXowSWwxLXpzLTJDX18zUmExQUFIVU5qWTJB?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e80e28f1b2355b1beb7762a4",
+      "remembered_at": "2026-11-20T22:23:28.737096+00:00",
+      "event_date": "2026-11-20T21:53:03+00:00",
+      "last_update": "2026-11-20T21:53:03+00:00",
+      "event": "Justice lies in conscience, not buildings",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "buildings",
+        "conscience",
+        "express",
+        "justice",
+        "lies",
+        "not",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Justice lies in conscience, not buildings The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0QzMk1ESTlxYXlTR2taUjJsaGlSNUxHazhvdEEwT284V3FBc1pBVEUwdDNRT01IUWFldVJxdUVBM0hEa21xcDlzQU5ISUFSUHZMU290M3lvRUlzaFFIOGh5Q2w5UU1TVzV0a281b0duMG9Nd0xsN1JtSnRSUHhZUDdTRdIBiwFBVV95cUxPYlJNY1lfOWwtUEJMaTBwTkljdG95QWl4Sm1wSnBYUmpLZHE3MmlmcTUyOWtRcUtsWkh3dk5uM2ZzcEx1NkF0TUY1TExrRkpzTDZGOUQ5OEVaNW03RGJGa0lZUkdrOUdWSzc4MXRFOVFuQmZZbFNFSWs4ZDdTMzRQVkVBTFVFMGxreVNj?oc=5",
+          "published_at": "2026-11-20T21:53:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0QzMk1ESTlxYXlTR2taUjJsaGlSNUxHazhvdEEwT284V3FBc1pBVEUwdDNRT01IUWFldVJxdUVBM0hEa21xcDlzQU5ISUFSUHZMU290M3lvRUlzaFFIOGh5Q2w5UU1TVzV0a281b0duMG9Nd0xsN1JtSnRSUHhZUDdTRdIBiwFBVV95cUxPYlJNY1lfOWwtUEJMaTBwTkljdG95QWl4Sm1wSnBYUmpLZHE3MmlmcTUyOWtRcUtsWkh3dk5uM2ZzcEx1NkF0TUY1TExrRkpzTDZGOUQ5OEVaNW03RGJGa0lZUkdrOUdWSzc4MXRFOVFuQmZZbFNFSWs4ZDdTMzRQVkVBTFVFMGxreVNj?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T21:28:58.663504+00:00"
+  "updated_at": "2026-11-20T22:23:28.737096+00:00"
 }

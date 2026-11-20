@@ -1,143 +1,144 @@
-# News Hub report - Sat 21 Nov, 02:28 AM PKT
+# News Hub report - Sat 21 Nov, 03:23 AM PKT
 
 ## Collection
-- New items this run: 25 | items in rolling pool: 495
-- Unique story clusters: 431 (duplicates merged: 64)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 3
-- Items per outlet: Pakistan Today 5, Al Jazeera 3, Geo News 2, Jang Urdu 2, Engadget 2, Ars Technica 2, Cricket.com.au 1, The Verge 1, TechCrunch 1, GSMArena 1, WE News English 1, AP News 1
+- New items this run: 30 | items in rolling pool: 468
+- Unique story clusters: 411 (duplicates merged: 57)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 5
+- Items per outlet: The Express Tribune 7, Geo News 3, Ars Technica 3, Engadget 2, BBC World 2, The Washington Post 2, NBC News 2, Al Jazeera 1, Bloomberg.com 1, The Guardian 1, Pakistan Today 1, Forex Factory 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli drone attacks kill seven Palestinians in central Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nepali cricket fans in Qatar want to see their team competing with the best | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Palestinian anti-Hamas groups accused of role in Israel Gaza operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gérard Depardieu and French author investigated over sexual allegations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran won't make an deal acceptable to me: Trump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jennifer Lawrence, Josh Hutcherson name favourite 'Hunger Games' films | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaza’s displaced children celebrate World Children’s Day | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sudan’s war leaves disabled children missing out on education | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli drone attacks kill seven Palestinians in central Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nepali cricket fans in Qatar want to see their team competing with the best | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Palestinian anti-Hamas groups accused of role in Israel Gaza operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gérard Depardieu and French author investigated over sexual allegations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran won't make an deal acceptable to me: Trump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jennifer Lawrence, Josh Hutcherson name favourite 'Hunger Games' films | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaza’s displaced children celebrate World Children’s Day | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sudan’s war leaves disabled children missing out on education | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli drone attacks kill seven Palestinians in central Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nepali cricket fans in Qatar want to see their team competing with the best | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Palestinian anti-Hamas groups accused of role in Israel Gaza operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gérard Depardieu and French author investigated over sexual allegations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran won't make an deal acceptable to me: Trump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jennifer Lawrence, Josh Hutcherson name favourite 'Hunger Games' films | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaza’s displaced children celebrate World Children’s Day | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sudan’s war leaves disabled children missing out on education | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 117/120 | empty: 2 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Minister insists referendum on new provinces 'will happen'  [NORMAL]
-- Poster: نئے صوبوں پر ریفرنڈم ضرور ہوگا: وزیر کا اعلان / Referendum on new provinces will happen: Minister | category politics
-- Alternative headline: Government maintains stance that new provinces referendum is certain
+### 10 years after Brexit, UK weighs a ‘Breturn’ to the EU  [NORMAL]
+- Poster: برقعت کے دس سال بعد، کیا برطانیہ یورپی یونین میں واپس جائے گا؟ / 10 years after Brexit, UK weighs a return to EU | category politics
+- Alternative headline: Can the UK and EU turn the page on Brexit?
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera, BBC World
+- Keywords: Brexit Breturn, UK EU summit, Andy Burnham, post-Brexit relations, EU deal | hashtags: #Brexit #UK #EU #Breturn #Politics
+- Scheduled: Sat 21 Nov, 03:23 AM PKT
+- Caption:
+```
+Ten years after the divisive Brexit referendum, the UK is weighing a potential return to the European Union following a new summit.
+
+Prime Minister Andy Burnham has returned from a UK-EU summit carrying a potential new deal that could mark a fresh start in post-Brexit relations. Ten years after the historic and divisive referendum, discussions are open on whether Britain and the EU can turn the page.
+
+برطانوی وزیراعظم اینڈی برہمم یوکے-ییو سربراہی اجلاس سے ایک ممکنہ نئے معاہدے کے ساتھ واپس آئے ہیں جو تعلقات میں ایک نئے دور کا آغاز کر سکتا ہے۔ تاریخی اور متنازع ریفرنڈم کے دس سال بعد اس بات پر غور کیا جا رہا ہے کہ آیا برطانیہ اور یورپی یونین اس باب کو پلٹ سکتے ہیں۔
+
+First reported by Al Jazeera
+
+#Brexit #UK #EU #Breturn #Politics
+```
+
+### Trump insists Iran won't make an acceptable deal  [NORMAL]
+- Poster: امریکہ کے نو منتخب صدر ٹرمپ کا کہنا ہے کہ ایران کوئی قابل قبول معاہدہ نہیں کرے گا۔ / Iran won't make an acceptable deal: Trump | category other
+- Alternative headline: Iran won't make a deal acceptable to me, says Trump
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzNVbGdRMVl5aDJYWkVvMi12NkdOQ2pSRTJTSnRzZTA1WFFvWXgzSEM5QjRQcVlBZ0poRWlBN0RuODR2alVYZTZSaUpOWFlqeTBzZGJEMnJpMWhINDZwS3BPeHJ5R2p5cFJadENYdDlvZXRhdW1pUzV6a1lQOTNWNGt4aWFaWjZMQ1pRcU1RamRvMUdC?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzNVbGdRMVl5aDJYWkVvMi12NkdOQ2pSRTJTSnRzZTA1WFFvWXgzSEM5QjRQcVlBZ0poRWlBN0RuODR2alVYZTZSaUpOWFlqeTBzZGJEMnJpMWhINDZwS3BPeHJ5R2p5cFJadENYdDlvZXRhdW1pUzV6a1lQOTNWNGt4aWFaWjZMQ1pRcU1RamRvMUdC?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: new provinces referendum, minister statement, provincial boundaries, administrative restructuring, pakistan politics | hashtags: #NewProvinces #Referendum #PakPolitics #DawnNews
-- Scheduled: Sat 21 Nov, 02:28 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWloczFNdnVzRG4wbllQYXFmQ3FCM0F3WUNnTmNxSlh3MDVqV0R3eDY4VUVwLXVVUGR5R0dsQ05pbGVFS3FORTdLTHNFUmZfNjBIa2RDMUlwMndsbkVoM1FJTDllVVo0TjVORFVMUzhHTFphcDJKZ3gtSHhSbjZBdVFhTzhEUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWloczFNdnVzRG4wbllQYXFmQ3FCM0F3WUNnTmNxSlh3MDVqV0R3eDY4VUVwLXVVUGR5R0dsQ05pbGVFS3FORTdLTHNFUmZfNjBIa2RDMUlwMndsbkVoM1FJTDllVVo0TjVORFVMUzhHTFphcDJKZ3gtSHhSbjZBdVFhTzhEUQ?oc=5
+- Supporting coverage: Dawn, The Washington Post
+- Keywords: Trump Iran deal, Donald Trump, Iran nuclear deal, US foreign policy | hashtags: #Trump #Iran #USPolitics #ForeignPolicy
+- Scheduled: Sat 21 Nov, 03:33 AM PKT
 - Caption:
 ```
-A federal minister has firmly stated that a referendum regarding the creation of new provinces will definitely take place.
+US President Donald Trump has stated that Iran will not make a deal that is acceptable to him.
 
-A government minister has insisted that a referendum on the creation of new provinces will happen, amid ongoing debates about administrative restructuring and provincial boundaries in the country. The statement highlights the administration's stated commitment to pursuing the controversial political move.
+US leadership has expressed strong skepticism regarding future negotiations, with Donald Trump declaring that Iran will not make a deal acceptable to him. The remarks add tension to ongoing international diplomatic concerns.
 
-ایک وفاقی وزیر نے اصرار کیا ہے کہ نئے صوبوں کے قیام پر ریفرنڈم ضرور ہوگا، جو ملک میں انتظامی تشکیل نو اور صوبائی حدود کے بارے میں جاری بحث کے دوران سامنے آیا ہے۔ اس بیان سے اس متنازع سیاسی قدم کو آگے بڑھانے کے حوالے سے حکومت کے عزم کا اظہار ہوتا ہے۔
+امریکہ کی قیادت نے مستقبل کے مذاکرات کے حوالے سے شدید شکوک و شبہات کا اظہار کیا ہے، ڈونلڈ ٹرمپ کا کہنا ہے کہ ایران ایسا کوئی معاہدہ نہیں کرے گا جو انہیں قبول ہو۔ ان بیانات سے بین الاقوامی سفارتی سطح پر کشیدگی مزید بڑھ گئی ہے۔
 
 First reported by Dawn
 
-#NewProvinces #Referendum #PakPolitics #DawnNews
+#Trump #Iran #USPolitics #ForeignPolicy
 ```
 
-### Russia complains of new Iron Curtain as Estonia shuts borders  [NORMAL]
-- Poster: اسٹونیا کی سرحدیں بند، روس کا نئے 'آئرن کرٹین' کا شکوہ / Estonia shuts borders, Russia complains of new Iron Curtain | category world
-- Alternative headline: Estonia closes road border crossings following drone manufacturer attack
+### Jennifer Lawrence and Josh Hutcherson reveal favorite Hunger Games films  [NORMAL]
+- Poster: جেনিفر لارنس اور جوش ہچرسن نے اپنی پسندیدہ ہنگر گیمز فلموں کے نام بتا دیے۔ / Stars name favorite Hunger Games films | category other
+- Alternative headline: Hunger Games stars share favorite films in first joint interview in ten years
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/692020-jennifer-lawrence-josh-hutcherson-name-favourite-hunger-games-films | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692020-jennifer-lawrence-josh-hutcherson-name-favourite-hunger-games-films
+- Supporting coverage: Geo News
+- Keywords: Hunger Games, Jennifer Lawrence, Josh Hutcherson, Sunrise on the Reaping, Catching Fire | hashtags: #JenniferLawrence #HungerGames #JoshHutcherson #Movies
+- Scheduled: Sat 21 Nov, 03:43 AM PKT
+- Caption:
+```
+In their first joint interview in over ten years, Jennifer Lawrence and Josh Hutcherson revealed their favorite Hunger Games movies.
+
+Jennifer Lawrence and Josh Hutcherson named their favorite Hunger Games films during their first joint interview in over a decade. Lawrence chose Catching Fire, while Hutcherson picked the 2012 original. The reunion coincides with their cameo appearance in the prequel Sunrise on the Reaping.
+
+جেনিفر لارنس اور جوش ہچرسن نے ایک دہائی سے زیادہ عرصے میں اپنے پہلے مشترکہ انٹرویو کے دوران اپنی پسندیدہ ہنگر گیمز فلموں کے نام بتائے۔ لارنس نے کیچنگ فائر کا انتخاب کیا جبکہ ہچرسن نے 2012 کی اصل فلم کو پسند کیا۔
+
+First reported by Geo News
+
+#JenniferLawrence #HungerGames #JoshHutcherson #Movies
+```
+
+### Gaza’s displaced children gather to celebrate World Children’s Day  [NORMAL]
+- Poster: غزہ کے بے گھر بچوں نے النصيرات کیمپ میں عالمی یومِ اطفال منایا۔ / Gaza's displaced children celebrate World Children's Day | category disaster
+- Alternative headline: World Children’s Day marked by displaced children in al-Nuseirat camp
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Estonia Russia borders, Iron Curtain, Tallinn, drone manufacturer, border closure | hashtags: #Russia #Estonia #IronCurtain #WorldNews
-- Scheduled: Sat 21 Nov, 02:38 AM PKT
+- Keywords: Gaza children, World Children's Day, al-Nuseirat camp, displaced children, Gaza | hashtags: #Gaza #WorldChildrensDay #Palestine #Refugees
+- Scheduled: Sat 21 Nov, 03:53 AM PKT
 - Caption:
 ```
-Russia has criticized Estonia's decision to shut its road border crossings following an attack on a drone manufacturer.
+Displaced children gathered in the al-Nuseirat refugee camp to mark World Children’s Day amid ongoing hardships.
 
-Russia has complained of a new 'Iron Curtain' after Estonia decided to shut its road border crossings. Tallinn's restrictive measure follows a reported attack on a drone manufacturer, further escalating regional tensions between the neighboring nations.
+Displaced children in the al-Nuseirat refugee camp came together to mark World Children’s Day. The gathering highlights the resilience of young lives affected by ongoing conflict in the Gaza Strip.
 
-اسٹونیا کی جانب سے سڑک کے سرحدی راستے بند کرنے کے فیصلے کے بعد روس نے نئے 'آئرن کرٹین' کا شکوہ کیا ہے۔ تالن کا یہ قدم ایک ڈرون فیکٹری پر حملے کے بعد اٹھایا گیا ہے، جس سے دونوں پڑوسی ممالک کے درمیان علاقائی کشیدگی مزید بڑھ گئی ہے۔
+النصيرات پناہ گزین کیمپ میں بے گھر بچوں نے اکٹھے ہو کر عالمی یومِ اطفال منایا۔ یہ اجتماع غزہ کی پٹی میں جاری تنازعے سے متاثر ہونے والے بچوں کی ہمیشگی اور حوصلے کو ظاہر کرتا ہے۔
 
 First reported by Al Jazeera
 
-#Russia #Estonia #IronCurtain #WorldNews
-```
-
-### Israeli drone attacks kill seven Palestinians in central Gaza  [NORMAL]
-- Poster: وسطی غزہ میں اسرائیلی ڈرون حملے، 7 فلسطینی جاں بحق / Israeli drone attacks kill seven Palestinians in central Gaza | category war
-- Alternative headline: Seven killed in central Gaza as Israeli drone strikes continue
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Gaza drone attacks, central Gaza, Palestinians killed, Israel military, ceasefire | hashtags: #Gaza #Palestine #Israel #AlJazeera
-- Scheduled: Sat 21 Nov, 02:48 AM PKT
-- Caption:
-```
-At least seven Palestinians have been killed in central Gaza amid ongoing Israeli drone attacks.
-
-Israeli drone attacks have killed seven Palestinians in central Gaza. The strikes have caused widespread fear and panic among local residents as military operations continue in the Strip despite claims surrounding a ceasefire.
-
-وسطی غزہ میں اسرائیلی ڈرون حملوں کے نتیجے میں سات فلسطینی جاں بحق ہو گئے ہیں۔ جنگ بندی کی باتوں کے باوجود غزہ میں فوجی کارروائیاں جاری ہیں، جن کی وجہ سے مقامی شہریوں میں خوف و ہراس پھیل گیا ہے۔
-
-First reported by Al Jazeera
-
-#Gaza #Palestine #Israel #AlJazeera
-```
-
-### Nepali cricket fans in Qatar want team to compete globally  [NORMAL]
-- Poster: قطر میں مقیم شائقین کی نیپالی کرکٹ ٹیم کو بلند مقام پر دیکھنے کی خواہش / Nepali fans in Qatar hope their cricket team rises globally | category sports
-- Alternative headline: Qatar's Nepali community hopes national cricket team will rise
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Nepal cricket fans, Qatar Nepali community, global rankings, cricket team, Al Jazeera sports | hashtags: #NepalCricket #Qatar #CricketFans #SportsNews
-- Scheduled: Sat 21 Nov, 02:58 AM PKT
-- Caption:
-```
-Thousands of Nepali cricket fans in Qatar are cheering for their team and hoping for a rise in global rankings.
-
-Thousands of members from Qatar's Nepali community have been watching their national cricket team play, expressing strong hopes that the squad will continue to rise in international cricket rankings and compete with the best teams globally.
-
-قطر میں نیپالی کمیونٹی کے ہزاروں افراد اپنی قومی کرکٹ ٹیم کو کھیلتے ہوئے دیکھ رہے ہیں اور امید ظاہر کر رہے ہیں کہ ان کی ٹیم بین الاقوامی درجہ بندی میں مزید ترقی کرے گی اور دنیا کی بہترین ٹیموں کا مقابلہ کرے گی۔
-
-First reported by Al Jazeera
-
-#NepalCricket #Qatar #CricketFans #SportsNews
+#Gaza #WorldChildrensDay #Palestine #Refugees
 ```
 
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
 - [needs_review] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
@@ -146,7 +147,6 @@ First reported by Al Jazeera
 - [needs_review] normal | Major Apple Outage Halts App Store, iCloud, and Apple Pay Globally | Wed 18 Nov, 01:58 AM PKT
 - [needs_review] normal | Saudi's Delta Energy Eyes $30 Billion Energy Investment in Pakistan | Wed 18 Nov, 02:08 AM PKT
 - [needs_review] normal | Russian military plane crashes in Siberia, killing all 19 aboard | Wed 18 Nov, 02:34 AM PKT
-- [published] normal | Kalshi halts Trump speech bets following CFTC order | Wed 18 Nov, 02:44 AM PKT
 - [needs_review] normal | Police charge crowds during student protest march in Brussels | Wed 18 Nov, 02:54 AM PKT
 - [needs_review] normal | China and Canada expand tariff relief after Carney-Xi meeting | Wed 18 Nov, 03:04 AM PKT
 - [needs_review] normal | Pakistan Posts $39 Million Current Account Surplus in October, SBP Rep | Wed 18 Nov, 03:32 AM PKT
@@ -333,11 +333,11 @@ First reported by Al Jazeera
 - [needs_review] normal | Spain to Face France and England Take on Norway in Nations League Quar | Fri 20 Nov, 07:51 PM PKT
 - [needs_review] normal | Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperatio | Fri 20 Nov, 08:01 PM PKT
 - [published] normal | Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over  | Fri 20 Nov, 08:41 PM PKT
-- [queued] normal | Ringleader pleads guilty to massive $100 million US jewellery heist | Fri 20 Nov, 08:51 PM PKT
-- [queued] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
-- [queued] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
+- [needs_review] normal | Ringleader pleads guilty to massive $100 million US jewellery heist | Fri 20 Nov, 08:51 PM PKT
+- [needs_review] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
+- [needs_review] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
 - [queued] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [queued] normal | Top US Democrat Warns Trump Administration Against Destroying Official | Fri 20 Nov, 11:42 PM PKT
+- [published] normal | Top US Democrat Warns Trump Administration Against Destroying Official | Fri 20 Nov, 11:42 PM PKT
 - [queued] normal | Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2 | Fri 20 Nov, 11:52 PM PKT
 - [queued] normal | EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit | Sat 21 Nov, 12:02 AM PKT
 - [queued] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
@@ -353,18 +353,16 @@ First reported by Al Jazeera
 - [queued] normal | Russia complains of new Iron Curtain as Estonia shuts borders | Sat 21 Nov, 02:38 AM PKT
 - [queued] normal | Israeli drone attacks kill seven Palestinians in central Gaza | Sat 21 Nov, 02:48 AM PKT
 - [queued] normal | Nepali cricket fans in Qatar want team to compete globally | Sat 21 Nov, 02:58 AM PKT
+- [queued] normal | 10 years after Brexit, UK weighs a ‘Breturn’ to the EU | Sat 21 Nov, 03:23 AM PKT
+- [queued] normal | Trump insists Iran won't make an acceptable deal | Sat 21 Nov, 03:33 AM PKT
+- [queued] normal | Jennifer Lawrence and Josh Hutcherson reveal favorite Hunger Games fil | Sat 21 Nov, 03:43 AM PKT
+- [queued] normal | Gaza’s displaced children gather to celebrate World Children’s Day | Sat 21 Nov, 03:53 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over UAE'.
+- Published 'Top US Democrat Warns Trump Administration Against Destroying Official Records'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4158 | output tokens: 1968
+- Calls: 3 | prompt tokens: 4345 | output tokens: 2113
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
