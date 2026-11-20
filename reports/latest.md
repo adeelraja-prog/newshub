@@ -1,32 +1,32 @@
-# News Hub report - Fri 20 Nov, 08:18 AM PKT
+# News Hub report - Fri 20 Nov, 09:21 AM PKT
 
 ## Collection
-- New items this run: 27 | items in rolling pool: 345
-- Unique story clusters: 269 (duplicates merged: 76)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 4
-- Items per outlet: Investify 6, The Express Tribune 4, Profit by Pakistan Today 4, Dawn 3, Al Jazeera 3, Dawn Pakistan 2, Dawn Latest 2, Wired 1, GSMArena 1, Business Recorder 1, Jang Urdu 0, The News International 0
+- New items this run: 35 | items in rolling pool: 323
+- Unique story clusters: 260 (duplicates merged: 63)
+- Clusters dropped as already published/queued: 32; unchanged since last analysis: 4
+- Items per outlet: Geo News 6, Dawn Latest 6, Profit by Pakistan Today 5, Dawn Pakistan 3, ARY News 2, Al Jazeera 2, Dawn 1, Dunya News 1, The Nation 1, BBC 1, The Express Tribune 1, PhoneWorld 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- German importers look to Pakistan amid China shift | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shutter-down strike across Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Joint trade group with Maldives planned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Security withdrawn from Fazl, family members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Auto financing boom continues | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK asks YouTube to remove Russell Brand’s video | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China issues Mount Fuji warning as family of missing climber offers reward | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- German importers look to Pakistan amid China shift | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shutter-down strike across Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Joint trade group with Maldives planned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Security withdrawn from Fazl, family members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Auto financing boom continues | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK asks YouTube to remove Russell Brand’s video | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China issues Mount Fuji warning as family of missing climber offers reward | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- German importers look to Pakistan amid China shift | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shutter-down strike across Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Joint trade group with Maldives planned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Security withdrawn from Fazl, family members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Auto financing boom continues | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK asks YouTube to remove Russell Brand’s video | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China issues Mount Fuji warning as family of missing climber offers reward | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 103/107 | empty: 2 | failed: 2 | malformed/partial: 2
@@ -37,111 +37,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### German Importers Turn Toward Pakistan as Businesses Shift Sourcing Away From China  [NORMAL]
-- Poster: چین سے تجارت میں تبدیلی: جرمن درآمد کنندگان کی نظریں پاکستان پر مرکوز / German Importers Turn to Pakistan Amid China Shift | category economy
-- Alternative headline: Pakistan Catches Attention of German Importers Amid Global Supply Chain Realignment
+### Auto financing boom continues as car loans rise  [NORMAL]
+- Poster: اسٹیٹ بینک کے اعداد و شمار کے مطابق آٹو فنانسنگ میں مسلسل اضافہ جاری / Auto financing boom continues as car loans rise | category economy
+- Alternative headline: State Bank data shows ongoing growth in auto loans
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTNWMXpxazE3N0RyLXNaLWx0Zm1hZG1VVlBRVGJYbFpMdUdjQmZyOUJCNi1WWU1vYWRRaW1NSVFzaWpuT1VoWW5ueGhDd2FaQ0JRUk13ZVpRZjJDUmJvMmxEYlltamFZV1RQYWxQWGEtU3VlOUtDM3ZHaVNiSU9jWGFpVHk3NXA2d2I5b3hsY1TSAZgBQVVfeXFMTzZFT3ZrMHp2OGVFam1udU05d3c3QWJFMjZaV2taRXVORjk2a0lYdXhjb0RMYzVKVEJvWWV0SkhadF9iMHdNMU81anQ5RXVvYUlNaEFGSkVlU2J4VjUxNUVTYjFXWnZnSWVOQTBqMXZpVXpOV0EyY1BPRGVtR2NjSF9TRGRfM2IteXMyMVRKNGxWWk9SREdaR0k?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTNWMXpxazE3N0RyLXNaLWx0Zm1hZG1VVlBRVGJYbFpMdUdjQmZyOUJCNi1WWU1vYWRRaW1NSVFzaWpuT1VoWW5ueGhDd2FaQ0JRUk13ZVpRZjJDUmJvMmxEYlltamFZV1RQYWxQWGEtU3VlOUtDM3ZHaVNiSU9jWGFpVHk3NXA2d2I5b3hsY1TSAZgBQVVfeXFMTzZFT3ZrMHp2OGVFam1udU05d3c3QWJFMjZaV2taRXVORjk2a0lYdXhjb0RMYzVKVEJvWWV0SkhadF9iMHdNMU81anQ5RXVvYUlNaEFGSkVlU2J4VjUxNUVTYjFXWnZnSWVOQTBqMXZpVXpOV0EyY1BPRGVtR2NjSF9TRGRfM2IteXMyMVRKNGxWWk9SREdaR0k?oc=5
-- Supporting coverage: The Express Tribune, Investify
-- Keywords: German importers Pakistan, Pakistan Germany trade, China supply chain shift, Pakistan exports, bilateral trade | hashtags: #PakistanEconomy #Trade #Germany #Exports #Business
-- Scheduled: Fri 20 Nov, 08:18 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMicEFVX3lxTE9mWk1EazhiZEJtTnNwTk41VjZ0ZWJlUjd1Rmc4TkhEbDE4eFZtWTQwdGs4UHJNSXFkYVBhZW1TcHdNZFNTVEM2V3lJT0xfWWo4RTA3dWF0dmFERnFOc1F2TFJKeWZocnl3T2FmWUhSTXg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMicEFVX3lxTE9mWk1EazhiZEJtTnNwTk41VjZ0ZWJlUjd1Rmc4TkhEbDE4eFZtWTQwdGs4UHJNSXFkYVBhZW1TcHdNZFNTVEM2V3lJT0xfWWo4RTA3dWF0dmFERnFOc1F2TFJKeWZocnl3T2FmWUhSTXg?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: auto financing, car loans, State Bank, economy, Pakistan, Dawn | hashtags: #AutoFinancing #StateBank #PakistanEconomy #CarLoans #DawnNews
+- Scheduled: Fri 20 Nov, 09:21 AM PKT
 - Caption:
 ```
-German importers are actively exploring trade opportunities in Pakistan as European businesses re-evaluate their supply chain reliance on China.
+State Bank data reveals that Pakistan's auto financing boom is continuing as outstanding car loans register an increase.
 
-German importers are increasingly looking toward Pakistan to source goods as businesses diversify supply chains away from China. According to a report by The Express Tribune, this shift opens up critical avenues for Pakistani exporters seeking greater access to the lucrative European market.
+According to data from the State Bank of Pakistan reported by Dawn, the country's auto financing sector continues to experience a boom, with outstanding car loans showing a rising trend. This indicates sustained consumer interest in vehicle financing despite broader economic challenges.
 
-دی ایکسپریس ٹریبیون کی رپورٹ کے مطابق، جرمن درآمد کنندگان چین پر انحصار کم کرنے کے لیے متبادل کے طور پر پاکستان کا رخ کر رہے ہیں۔ اس پیش رفت سے یورپی منڈیوں میں پاکستانی برآمدات کے لیے نئے اور اہم مواقع پیدا ہونے کی توقع ہے۔
-
-First reported by The Express Tribune.
-
-#PakistanEconomy #Trade #Germany #Exports #Business
-```
-
-### Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unemployment, and Security Concerns  [NORMAL]
-- Poster: بدامنی، مہنگائی اور بیروزگاری: بلوچستان بھر میں مکمل شٹر ڈاؤن ہڑتال / Balochistan Shuts Down Over Security and Inflation | category politics
-- Alternative headline: Markets Shut Across Balochistan in Widespread Protest Against Worsening Security and Inflation
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTFBfeVhiYU82ZzE2YkVkSklVR1ByNHd4UWRXRGZzQ0pzS0x3WF9LR2RPeXZnQVZpTktpZXFPR2h6V2hfNWV0Q2NDVzlDS1c5YTFwTUtNRm1QdDBBWlI3MWowY2dabmtxeXg2YU9ETjZlMnFyNmxnc1N6YmNWTXU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTFBfeVhiYU82ZzE2YkVkSklVR1ByNHd4UWRXRGZzQ0pzS0x3WF9LR2RPeXZnQVZpTktpZXFPR2h6V2hfNWV0Q2NDVzlDS1c5YTFwTUtNRm1QdDBBWlI3MWowY2dabmtxeXg2YU9ETjZlMnFyNmxnc1N6YmNWTXU?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Balochistan strike, Balochistan shutter down, inflation protest, Balochistan security, unemployment Balochistan | hashtags: #Balochistan #Strike #Inflation #PakistanNews #Economy
-- Scheduled: Fri 20 Nov, 08:28 AM PKT
-- Caption:
-```
-Commercial activities ground to a halt across Balochistan as traders and political groups observed a major shutter-down strike.
-
-A widespread shutter-down strike was observed across Balochistan to protest worsening security conditions, rising inflation, and rampant unemployment. According to Dawn, commercial centers, markets, and shops remained completely closed across multiple districts following calls from local groups highlighting severe socioeconomic grievances.
-
-ڈان کی رپورٹ کے مطابق، بلوچستان بھر میں بگڑتی ہوئی سیکیورٹی صورتحال، بڑھتی ہوئی مہنگائی اور بے روزگاری کے خلاف مکمل شٹر ڈاؤن ہڑتال کی گئی۔ صوبے کے مختلف اضلاع میں تجارتی مراکز اور دکانیں بند رہیں جبکہ معمولاتِ زندگی شدید متاثر ہوئے۔
+ڈان کی رپورٹ کے مطابق اسٹیٹ بینک آف پاکستان کے اعداد و شمار سے ظاہر ہوتا ہے کہ ملک میں آٹو فنانسنگ کا رجحان مسلسل جاری ہے اور کار لونز میں اضافہ دیکھا جا رہا ہے۔ یہ اس بات کی غمازی کرتا ہے کہ معاشی چیلنجز کے باوجود صارفین کی گاڑیوں کی مالی معاونت میں دلچسپی برقرار ہے۔
 
 First reported by Dawn.
 
-#Balochistan #Strike #Inflation #PakistanNews #Economy
+#AutoFinancing #StateBank #PakistanEconomy #CarLoans #DawnNews
 ```
 
-### Pakistan and Maldives Move to Establish Joint Trade Group to Boost Commerce  [NORMAL]
-- Poster: دوطرفہ تجارت کے فروغ کے لیے پاکستان اور مالدیپ کا مشترکہ تجارتی گروپ قائم کرنے کا فیصلہ / Pakistan, Maldives Plan Joint Trade Group | category economy
-- Alternative headline: Joint Trade Committee Planned Between Pakistan and Maldives to Expand Bilateral Ties
+### UK asks YouTube to remove Russell Brand’s video  [NORMAL]
+- Poster: برطانیہ کا یوٹیوب سے رسل برانڈ کی ویڈیو ہٹانے کا مطالبہ / UK asks YouTube to remove Russell Brand’s video | category world
+- Alternative headline: British authorities request YouTube to take down Russell Brand video
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHJrTTFKQWpmdjRTeTlpdGdjQ2pJTVdTX2wyek5oMUFzVER6MDdhVUNrSkFGTFhERVlPRGRkYWplendnZnBWUzJhLWRkRkFtOVdiemZzTTh5ZERHOElnTW5BMnZPdDk0ZUIxbDVoYmdySzl0Wm0zYk52OHQzYmZJbnZR0gGKAUFVX3lxTE1xVDJUcE11ZEZmNXhORk00Z3I3Zndmb2hrdUNOTUJqUXpMeU4yc1AtSERKNEhWZ19rRURKUEtsci1kZnltWTI2QV9uaTJiSFg1ZGNpel9QWUdZdVp5dTRTOFA5UVZvSTJRRDhhdHFRSTQwMkxQVF9SVEtBZGFzUGJaOUZzdW8wVm96QQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHJrTTFKQWpmdjRTeTlpdGdjQ2pJTVdTX2wyek5oMUFzVER6MDdhVUNrSkFGTFhERVlPRGRkYWplendnZnBWUzJhLWRkRkFtOVdiemZzTTh5ZERHOElnTW5BMnZPdDk0ZUIxbDVoYmdySzl0Wm0zYk52OHQzYmZJbnZR0gGKAUFVX3lxTE1xVDJUcE11ZEZmNXhORk00Z3I3Zndmb2hrdUNOTUJqUXpMeU4yc1AtSERKNEhWZ19rRURKUEtsci1kZnltWTI2QV9uaTJiSFg1ZGNpel9QWUdZdVp5dTRTOFA5UVZvSTJRRDhhdHFRSTQwMkxQVF9SVEtBZGFzUGJaOUZzdW8wVm96QQ?oc=5
-- Supporting coverage: The Express Tribune, Investify
-- Keywords: Pakistan Maldives trade, bilateral trade, joint trade group, Maldives Pakistan relations, South Asia trade | hashtags: #Pakistan #Maldives #BilateralTrade #Economy #Commerce
-- Scheduled: Fri 20 Nov, 08:38 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlVTY0dCaEZKVWJvLThEOFMtQnpCdXpYVmVaUHI5M2pVNldmQjVpS3ZpWUhybWhyZnBhek8wWXNPMU95SnczTGxCZms1SEYtTHpXdWlwMWxxYU9fSzJPQXJrZUJzQ2dEUDd1eUN1aVZ5S1c4bll2M2N5T05xVWxxWGRWTkRISUE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlVTY0dCaEZKVWJvLThEOFMtQnpCdXpYVmVaUHI5M2pVNldmQjVpS3ZpWUhybWhyZnBhek8wWXNPMU95SnczTGxCZms1SEYtTHpXdWlwMWxxYU9fSzJPQXJrZUJzQ2dEUDd1eUN1aVZ5S1c4bll2M2N5T05xVWxxWGRWTkRISUE?oc=5
+- Supporting coverage: Dawn
+- Keywords: Russell Brand, UK, YouTube, video removal, Dawn | hashtags: #RussellBrand #UK #YouTube #DawnNews
+- Scheduled: Fri 20 Nov, 09:31 AM PKT
 - Caption:
 ```
-Pakistan and the Maldives are establishing a joint trade working group to enhance economic collaboration and expand bilateral trade volumes.
+The UK government has reportedly asked video-sharing platform YouTube to remove a video featuring British comedian and actor Russell Brand.
 
-Pakistan and the Maldives have planned the establishment of a joint trade group to explore untapped bilateral commercial potential. According to The Express Tribune, the institutional framework aims to resolve trade barriers, facilitate exporters, and strengthen diplomatic and business relations between the two South Asian nations.
+According to a report by Dawn, authorities in the United Kingdom have officially asked YouTube to remove a video related to Russell Brand. The request comes amid ongoing scrutiny surrounding the entertainer following various allegations.
 
-دی ایکسپریس ٹریبیون کے مطابق، پاکستان اور مالدیپ نے باہمی تجارتی حجم بڑھانے کے لیے مشترکہ تجارتی گروپ قائم کرنے کا فیصلہ کیا ہے۔ اس اقدام کا مقصد تجارتی رکاوٹوں کو دور کرنا اور دونوں ممالک کے درمیان معاشی تعاون کو مزید مستحکم بنانا ہے۔
-
-First reported by The Express Tribune.
-
-#Pakistan #Maldives #BilateralTrade #Economy #Commerce
-```
-
-### Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Rehman and Family  [NORMAL]
-- Poster: جے یو آئی کے سربراہ مولانا فضل الرحمان اور اہلخانہ سے سیکیورٹی واپس لے لی گئی / Security Detail Withdrawn From Fazlur Rehman and Family | category politics
-- Alternative headline: Government Withdraws Security Cover From Maulana Fazlur Rehman and His Family Members
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXp4bWpNLWZFR1Z6MDRQU1NESkdfRGphRmVJR1RqLWtxLS1MTHNsSnVFMFJNbE90UUliSGpuRktaMzRqYVNkLUpLVWdUSHIyYW1vMmpyRndvRVhJWE5ONnVwVEcxVmxnZnJ2YjNha3F6M2VqRDU2UHRUcnAwZGo3MU9qNA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXp4bWpNLWZFR1Z6MDRQU1NESkdfRGphRmVJR1RqLWtxLS1MTHNsSnVFMFJNbE90UUliSGpuRktaMzRqYVNkLUpLVWdUSHIyYW1vMmpyRndvRVhJWE5ONnVwVEcxVmxnZnJ2YjNha3F6M2VqRDU2UHRUcnAwZGo3MU9qNA?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Fazlur Rehman security, Maulana Fazlur Rehman, JUI-F, security withdrawn, Pakistan politics | hashtags: #FazlurRehman #JUIF #PakistanPolitics #Security #Dawn
-- Scheduled: Fri 20 Nov, 08:48 AM PKT
-- Caption:
-```
-Authorities have withdrawn official security personnel assigned to Jamiat Ulema-e-Islam (F) chief Maulana Fazlur Rehman and his family members.
-
-Official security personnel deployed for Jamiat Ulema-e-Islam (F) chief Maulana Fazlur Rehman and his family have been withdrawn, according to Dawn. The move comes amid shifting political dynamics and ongoing assessments regarding threat levels and state protocol security allocations for senior political leaders.
-
-ڈان نیوز کے مطابق، جے یو آئی (ف) کے سربراہ مولانا فضل الرحمان اور ان کے اہلخانہ سے سرکاری سیکیورٹی واپس لے لی گئی ہے۔ یہ فیصلہ سیکیورٹی پروٹوکول کی نظرثانی اور سیاسی صورتحال کے تناظر میں سامنے آیا ہے۔
+ڈان کی رپورٹ کے مطابق برطانیہ کے حکام نے یوٹیوب سے کہا ہے کہ وہ برطانوی کامیڈین اور اداکار رسل برانڈ کی ایک ویڈیو کو پلیٹ فارم سے ہٹا دیں۔ یہ مطالبہ رسل برانڈ کے گرد گھومنے والی حالیہ تحقیقات اور الزامات کے تناظر میں سامنے آیا ہے۔
 
 First reported by Dawn.
 
-#FazlurRehman #JUIF #PakistanPolitics #Security #Dawn
+#RussellBrand #UK #YouTube #DawnNews
 ```
 
-- Indian outlets blocked this run: 0 items
+### Asia’s stock markets dive amid AI bubble fears  [NORMAL]
+- Poster: ایشیا کی اسٹاک مارکیٹوں میں مندی، اے آئی ببل کے خدشات برقرار / Asia stock markets dive amid AI bubble fears | category economy
+- Alternative headline: Tech sell-off hits Asian stock markets following Anthropic debut
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: stock markets, Anthropic, AI bubble, Asia, tech sell-off, Al Jazeera | hashtags: #StockMarket #AIBubble #AsiaMarkets #Anthropic #AlJazeera
+- Scheduled: Fri 20 Nov, 09:41 AM PKT
+- Caption:
+```
+Stock markets across major Asian economies have experienced a sharp decline following Anthropic's market debut.
+
+According to Al Jazeera, stock market indexes in Japan, South Korea, Taiwan, and Hong Kong fell sharply amid a broader technology sell-off. The market downturn was triggered as Anthropic's debut failed to alleviate growing investor fears regarding an artificial intelligence market bubble.
+
+الجزیرہ کے مطابق، ٹیکنالوجی کے شعبے میں فروخت کے دباؤ کے باعث جاپان، جنوبی کوریا، تائیوان اور ہانگ کانگ کے اسٹاک مارکیٹ انڈیکس میں نمایاں کمی واقع ہوئی ہے۔ یہ مندی اس وقت آئی جب اینتھروپک کی مارکیٹ میں انٹری مصنوعی ذہانت کے بلبلے سے متعلق سرمایہ کاروں کے خدشات کو دور کرنے میں ناکام رہی۔
+
+First reported by Al Jazeera.
+
+#StockMarket #AIBubble #AsiaMarkets #Anthropic #AlJazeera
+```
+
+### Trump nominee refuses to call Jan 6 an ‘attack’  [NORMAL]
+- Poster: ٹرمپ کے نامزد کردہ امیدوار کا 6 جنوری کے واقعے کو حملہ کہنے سے انکار / Trump nominee refuses to call Jan 6 an attack | category us_politics
+- Alternative headline: US election security nominee declines to label Jan 6 an attack
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Trump nominee, January 6, Senate hearing, election security, Al Jazeera | hashtags: #USPolitics #January6 #SenateHearing #Trump #AlJazeera
+- Scheduled: Fri 20 Nov, 09:51 AM PKT
+- Caption:
+```
+US President-elect Donald Trump's nominee to lead the election security agency declined to classify the January 6 events as an attack.
+
+According to Al Jazeera, Donald Trump's nominee to lead the US agency responsible for election security refused to describe the January 6 Capitol insurrection as an 'attack' during a Senate hearing. The refusal drew significant attention during the confirmation proceedings.
+
+الجزیرہ کے مطابق، امریکی صدارتی امیدوار کے الیکشن سیکیورٹی کے ادارے کے لیے نامزد کردہ امیدوار نے سینیٹ کی سماعت کے دوران 6 جنوری کے واقعے کو 'حملہ' کہنے سے انکار کر دیا۔ اس بیان نے نامزدگی کی کارروائی کے دوران خاصی توجہ حاصل کی۔
+
+First reported by Al Jazeera.
+
+#USPolitics #January6 #SenateHearing #Trump #AlJazeera
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA ele | Tue 17 Nov, 02:31 AM PKT
-- [needs_review] normal | Nationwide ground stop could cost US airlines hundreds of millions | Tue 17 Nov, 02:41 AM PKT
-- [needs_review] normal | Israeli opposition accuses Netanyahu of attempted ‘coup’ | Tue 17 Nov, 02:51 AM PKT
 - [needs_review] normal | Sudanese army air attack kills 13 in western Sudan: Rights group | Tue 17 Nov, 03:30 AM PKT
 - [needs_review] normal | Manchester United’s Endless Loop | Tue 17 Nov, 03:40 AM PKT
 - [needs_review] normal | Photos: California residents gather to watch massive El Nino-fuelled w | Tue 17 Nov, 03:50 AM PKT
@@ -161,7 +158,6 @@ First reported by Dawn.
 - [needs_review] normal | Irish court jails man for life over Dublin knife attack that sparked r | Tue 17 Nov, 08:20 AM PKT
 - [needs_review] normal | UK seeks closer ties with EU after Brexit fail | Tue 17 Nov, 08:30 AM PKT
 - [needs_review] normal | Ethiopia Moyale clashes disrupt livelihoods as territorial dispute dee | Tue 17 Nov, 08:40 AM PKT
-- [published] normal | Guitar workshop by Portuguese musician turns into musical treat | Tue 17 Nov, 09:09 AM PKT
 - [needs_review] normal | Minister Buledi clarifies remarks on tribal system | Tue 17 Nov, 09:19 AM PKT
 - [needs_review] normal | Four lawyers appointed special ATC judges | Tue 17 Nov, 09:29 AM PKT
 - [needs_review] normal | Punjab to sue Salik over graft claims against Maryam | Tue 17 Nov, 09:39 AM PKT
@@ -351,7 +347,7 @@ First reported by Dawn.
 - [published] normal | Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperatio | Fri 20 Nov, 02:32 AM PKT
 - [published] normal | Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Miss | Fri 20 Nov, 02:42 AM PKT
 - [published] normal | Latest Updates and Developments from the Middle East | Fri 20 Nov, 02:52 AM PKT
-- [queued] normal | Pakistan and 14 nations welcome UK and Australian sanctions on Israeli | Fri 20 Nov, 03:21 AM PKT
+- [published] normal | Pakistan and 14 nations welcome UK and Australian sanctions on Israeli | Fri 20 Nov, 03:21 AM PKT
 - [queued] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
 - [queued] normal | President urges swift implementation of Pakistan-Maldives agreements | Fri 20 Nov, 03:41 AM PKT
 - [queued] normal | Lahore officially named ECO Tourism Capital for 2027 | Fri 20 Nov, 03:51 AM PKT
@@ -375,10 +371,19 @@ First reported by Dawn.
 - [queued] normal | Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unem | Fri 20 Nov, 08:28 AM PKT
 - [queued] normal | Pakistan and Maldives Move to Establish Joint Trade Group to Boost Com | Fri 20 Nov, 08:38 AM PKT
 - [queued] normal | Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Reh | Fri 20 Nov, 08:48 AM PKT
+- [queued] normal | Auto financing boom continues as car loans rise | Fri 20 Nov, 09:21 AM PKT
+- [queued] normal | UK asks YouTube to remove Russell Brand’s video | Fri 20 Nov, 09:31 AM PKT
+- [queued] normal | Asia’s stock markets dive amid AI bubble fears | Fri 20 Nov, 09:41 AM PKT
+- [queued] normal | Trump nominee refuses to call Jan 6 an ‘attack’ | Fri 20 Nov, 09:51 AM PKT
 
 ## Publishing this run
-- Published 'Latest Updates and Developments from the Middle East'.
+- Published 'Pakistan and 14 nations welcome UK and Australian sanctions on Israeli settlements'.
 
 ## Gemini usage
-- Calls: 1 | prompt tokens: 4223 | output tokens: 2042
-- Errors: 0
+- Calls: 3 | prompt tokens: 3710 | output tokens: 2329
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

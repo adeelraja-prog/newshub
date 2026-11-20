@@ -84102,7 +84102,337 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f746d9e91cd09983ab193475",
+      "remembered_at": "2026-11-20T04:21:15.330909+00:00",
+      "event_date": "2026-11-20T01:50:12+00:00",
+      "last_update": "2026-11-20T04:16:57+00:00",
+      "event": "Auto financing boom continues",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "auto",
+        "boom",
+        "continues",
+        "dawn",
+        "financing"
+      ],
+      "source_excerpt": "Auto financing boom continues Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mWk1EazhiZEJtTnNwTk41VjZ0ZWJlUjd1Rmc4TkhEbDE4eFZtWTQwdGs4UHJNSXFkYVBhZW1TcHdNZFNTVEM2V3lJT0xfWWo4RTA3dWF0dmFERnFOc1F2TFJKeWZocnl3T2FmWUhSTXg?oc=5",
+          "published_at": "2026-11-20T01:50:12+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045863/auto-financing-boom-continues-as-outstanding-car-loans-rise-state-bank-data-shows",
+          "published_at": "2026-11-20T04:16:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mWk1EazhiZEJtTnNwTk41VjZ0ZWJlUjd1Rmc4TkhEbDE4eFZtWTQwdGs4UHJNSXFkYVBhZW1TcHdNZFNTVEM2V3lJT0xfWWo4RTA3dWF0dmFERnFOc1F2TFJKeWZocnl3T2FmWUhSTXg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fce8658a4ea5fe7abb8e2de5",
+      "remembered_at": "2026-11-20T04:21:15.330909+00:00",
+      "event_date": "2026-11-20T04:13:22+00:00",
+      "last_update": "2026-11-20T04:13:22+00:00",
+      "event": "China issues Mount Fuji warning as family of missing climber offers reward",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "attempts",
+        "chen",
+        "china",
+        "climber",
+        "climbing",
+        "family",
+        "fears",
+        "fuji",
+        "has",
+        "issues",
+        "jie",
+        "missing",
+        "more",
+        "mount",
+        "offered",
+        "offers",
+        "reckless",
+        "reward",
+        "sparked",
+        "the",
+        "warning"
+      ],
+      "source_excerpt": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T04:13:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4b9586e93d8270db152539cd",
+      "remembered_at": "2026-11-20T04:21:15.330909+00:00",
+      "event_date": "2026-11-20T03:26:23+00:00",
+      "last_update": "2026-11-20T03:26:23+00:00",
+      "event": "Thousands protest Colombia’s tax plans amid row over US military role",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "bogota",
+        "cities",
+        "colombia",
+        "demonstrated",
+        "groups",
+        "major",
+        "military",
+        "opposition",
+        "other",
+        "over",
+        "plans",
+        "protest",
+        "role",
+        "row",
+        "students",
+        "tax",
+        "thousands",
+        "thursday",
+        "trade",
+        "unions"
+      ],
+      "source_excerpt": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+          "published_at": "2026-11-20T03:26:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d9c5c8b6f00d4a65cec48e40",
+      "remembered_at": "2026-11-20T04:21:15.330909+00:00",
+      "event_date": "2026-11-20T03:24:49+00:00",
+      "last_update": "2026-11-20T03:24:49+00:00",
+      "event": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advancing",
+        "ailing",
+        "ancestral",
+        "and",
+        "brazil",
+        "celebrating",
+        "chief",
+        "for",
+        "grosso",
+        "his",
+        "honours",
+        "indigenous",
+        "kayapo",
+        "land",
+        "lands",
+        "legacy",
+        "lula",
+        "mato",
+        "protection",
+        "raoni",
+        "recognises",
+        "visits",
+        "yudja"
+      ],
+      "source_excerpt": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
+          "published_at": "2026-11-20T03:24:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2680bf2052cc451f726cb015",
+      "remembered_at": "2026-11-20T04:21:15.330909+00:00",
+      "event_date": "2026-11-20T04:08:19+00:00",
+      "last_update": "2026-11-20T04:08:19+00:00",
+      "event": "Islamabad province?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "been",
+        "break",
+        "but",
+        "completed",
+        "disarmed",
+        "endgame",
+        "existing",
+        "federating",
+        "has",
+        "imposit",
+        "islamabad",
+        "largely",
+        "major",
+        "not",
+        "one",
+        "opposition",
+        "other",
+        "proposal",
+        "province",
+        "pti",
+        "regime",
+        "resistance",
+        "ruling",
+        "shape",
+        "stage",
+        "suppressed",
+        "the",
+        "through",
+        "ultimately",
+        "units",
+        "way",
+        "well",
+        "will",
+        "within",
+        "without"
+      ],
+      "source_excerpt": "OPPOSITION to it has been largely suppressed, but all is not well within the ruling regime. One way or the other, the proposal to break up existing federating units will ultimately shape the regime’s endgame. Stage one has been completed without major resistance, the PTI disarmed through the imposit",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045831/islamabad-province",
+          "published_at": "2026-11-20T04:08:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045831/islamabad-province",
+        "publisher_url": "https://www.dawn.com/news/2045831/islamabad-province",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b85cde801429c8af4bb8271e",
+      "remembered_at": "2026-11-20T04:21:15.330909+00:00",
+      "event_date": "2026-11-20T04:03:25+00:00",
+      "last_update": "2026-11-20T04:03:25+00:00",
+      "event": "Pakistan’s education system entrenches inequality, and the state is failing to correct it",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045834",
+        "and",
+        "com",
+        "correct",
+        "create",
+        "dawn",
+        "education",
+        "entrenches",
+        "failing",
+        "helping",
+        "https",
+        "inequality",
+        "news",
+        "pakistan",
+        "paths",
+        "state",
+        "system",
+        "the",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045834/helping-create-paths",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045862/pakistans-education-system-entrenches-inequality-and-the-state-is-failing-to-correct-it",
+          "published_at": "2026-11-20T04:03:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045862/pakistans-education-system-entrenches-inequality-and-the-state-is-failing-to-correct-it",
+        "publisher_url": "https://www.dawn.com/news/2045862/pakistans-education-system-entrenches-inequality-and-the-state-is-failing-to-correct-it",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T03:18:42.134306+00:00"
+  "updated_at": "2026-11-20T04:21:15.330909+00:00"
 }
