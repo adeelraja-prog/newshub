@@ -2401,7 +2401,7 @@ def main():
     held_old = 0
     excluded_old = 0
     for queued in queue["items"]:
-        if queued.get("status") != "queued" or queued.get("type") == "engage":
+        if queued.get("status") != "queued" or queued.get("type") in ("engage", "youtube"):
             continue
         meta = queued.get("meta") or {}
         original = meta.get("original_source") or {}
