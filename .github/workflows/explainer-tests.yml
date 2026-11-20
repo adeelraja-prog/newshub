@@ -7,6 +7,7 @@ on:
       - "news-hub/poster_maker.py"
       - "news-hub/requirements.txt"
       - "news-hub/main.py"
+      - "news-hub/youtube_promo.py"
       - "news-hub/editorial_quality.py"
       - "news-hub/editorial.py"
       - "news-hub/sources.py"
@@ -45,6 +46,6 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
       - name: Compile newsroom modules
-        run: python -m py_compile main.py poster.py editorial_quality.py editorial_policy.py
+        run: python -m py_compile main.py poster.py youtube_promo.py editorial_quality.py editorial_policy.py
       - name: Run editorial and poster tests
         run: python -m unittest discover -s tests -v
