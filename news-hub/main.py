@@ -892,12 +892,12 @@ def strip_excluded_international_members(cluster):
 
 
 POLITICAL_TOPIC_RE = re.compile(
-    r"\\b(politic|political|election|electoral|parliament|senate|assembly|cabinet|"
+    r"\b(politic|political|election|electoral|parliament|senate|assembly|cabinet|"
     r"government|governance|opposition|ruling party|political party|prime minister|"
     r"president|minister|pti|pml[- ]?n|ppp|jui|mqm|imran khan|nawaz sharif|"
     r"bilawal|fazlur rehman|constitutional amendment|coalition|vote of no confidence|"
     r"white house|congress|democrat|republican|labour party|conservative party|"
-    r"referendum|campaign|ballot)\\b", re.I
+    r"referendum|campaign|ballot)\b", re.I
 )
 
 
@@ -912,7 +912,7 @@ def is_political_story(story):
 def infer_political_category(text):
     if not POLITICAL_TOPIC_RE.search(text or ""):
         return "other"
-    if re.search(r"\\b(united states|u\\.?s\\.?|white house|congress|senate|democrat|republican|"
+    if re.search(r"\b(united states|u\\.?s\\.?|white house|congress|senate|democrat|republican|"
                  r"presidential election|donald trump|us election)\\b", text or "", re.I):
         return "us_politics"
     return "politics"
@@ -1981,6 +1981,15 @@ def build_report(info):
           f"- Clusters dropped as already published/queued: {info['dups']}; unchanged since last analysis: {info['unchanged']}",
           f"- Items per outlet: " + ", ".join(f"{k} {v}" for k, v in sorted(info['stats'].items(), key=lambda x: -x[1])[:12]),
           f"- Trend data: {info['trends_basis']} ({info['n_trends']} trending queries); discovery signals only, never verification", ""]
+    yt_info = info.get("youtube") or {}
+    if yt_info:
+        L += ["## YouTube channel promotions",
+              f"- Feed entries checked: {yt_info.get('checked', 0)} | new uploads queued: {len(yt_info.get('new', []))} | first-run seeded: {yt_info.get('seeded', 0)}"]
+        for video in yt_info.get("new", []):
+            L.append(f"- {video.get('channel')}: {video.get('title')} | {video.get('link')}")
+        for warning in yt_info.get("errors", [])[:5]:
+            L.append(f"- Feed warning: {warning[:160]}")
+        L.append("")
     if info.get("lists"):
         for key, title in (("important", "Top 5 most important"), ("trending", "Top 5 most trending (measured signals)"),
                            ("viral", "Top 5 most viral (editorial estimate, not measured)")):
@@ -2200,7 +2209,7 @@ def main():
 
     info = {"now": t0, "new_items": len(new_items), "pool": len(pool), "clusters": len(clusters), "dups": dups,
             "unchanged": unchanged, "stats": stats, "trends_basis": trends_basis, "n_trends": len(trends), "youtube": youtube_info,
-            "queued_now": [], "queue": queue, "publish_note": "", "publisher": "facebook_posters_only"}
+            "queued_now": [], "queue": queue, "publish_note": "", "publisher": "facebook_posters_and_youtube_links"}
     gemini_ok = True
     depth = sum(1 for i in queue["items"] if i["status"] == "queued" and i["priority"] == "normal")
     last_an = parse(state["last_analysis"]) if valid_timestamp(state.get("last_analysis")) else None
@@ -2477,8 +2486,11 @@ def main():
     if item is None:
         info["publish_note"] = f"No post published: {why}."
     elif DRY_RUN:
-        path = make_poster(item, "dryrun")
-        info["publish_note"] = f"DRY RUN: would publish '{item['headline']}' now (poster saved: {path})."
+        if item.get("type") == "youtube":
+            info["publish_note"] = f"DRY RUN: would publish YouTube link '{item.get('link')}' now."
+        else:
+            path = make_poster(item, "dryrun")
+            info["publish_note"] = f"DRY RUN: would publish '{item['headline']}' now (poster saved: {path})."
     else:
         ok = publish_one(queue, state, item, t0)
         publish_ok = bool(ok)
