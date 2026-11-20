@@ -1,145 +1,142 @@
-# News Hub report - Fri 20 Nov, 05:00 AM PKT
+# News Hub report - Fri 20 Nov, 06:11 AM PKT
 
 ## Collection
-- New items this run: 21 | items in rolling pool: 431
-- Unique story clusters: 338 (duplicates merged: 93)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 1
-- Items per outlet: BBC 2, Engadget 2, DW.com 2, Geo News 1, Al Jazeera 1, TechCrunch 1, BBC Business 1, BBC World 1, WSJ 1, NOTUS 1, Roll Call 1, Mezha.net 1
+- New items this run: 33 | items in rolling pool: 370
+- Unique story clusters: 283 (duplicates merged: 87)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 1
+- Items per outlet: The Express Tribune 5, Al Jazeera 5, TechCrunch 3, Geo News 2, BBC Health 2, BBC Business 2, BBC World 2, WVVA 2, Reuters 1, Engadget 1, GSMArena 1, BBC Technology 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- William and Catherine's India tour was 'particularly special', aide says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- California probing whether China improperly acquired Nvidia technology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Judge finds Thomas Markle mentally fit to stand trial on child abuse charges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- From premature baby to social media star - Famed hippo Fiona dies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why Canada is embracing AI data centres while the US pushes back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM hails civil-military unity | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cumin-laced fizzy sodas are giving cola giants a tough fight in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump posthumously pardons US baseball legend Pete Rose | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- El Salvador’s Bukele expected to formalise bid for third presidential term | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- William and Catherine's India tour was 'particularly special', aide says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- California probing whether China improperly acquired Nvidia technology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Judge finds Thomas Markle mentally fit to stand trial on child abuse charges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- From premature baby to social media star - Famed hippo Fiona dies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why Canada is embracing AI data centres while the US pushes back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM hails civil-military unity | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cumin-laced fizzy sodas are giving cola giants a tough fight in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump posthumously pardons US baseball legend Pete Rose | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- El Salvador’s Bukele expected to formalise bid for third presidential term | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- William and Catherine's India tour was 'particularly special', aide says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- California probing whether China improperly acquired Nvidia technology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Judge finds Thomas Markle mentally fit to stand trial on child abuse charges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- From premature baby to social media star - Famed hippo Fiona dies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why Canada is embracing AI data centres while the US pushes back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM hails civil-military unity | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cumin-laced fizzy sodas are giving cola giants a tough fight in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump posthumously pardons US baseball legend Pete Rose | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- El Salvador’s Bukele expected to formalise bid for third presidential term | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: GSMArena | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Prince William and Catherine's India Tour Described as 'Particularly Special'  [NORMAL]
-- Poster: پرنس ولیم اور کیتھرین کا دورہ ہند انتہائی خاص قرار / Prince William and Catherine's India Tour Special | category other
-- Alternative headline: Aide Reveals Details Behind Prince William and Catherine's India Tour
+### Why Canada is embracing AI data centres while the US pushes back  [NORMAL]
+- Poster: کینیڈا میں اے آئی ڈیٹا سینٹرز کے لیے نئے مواقع کیوں پیدا ہو رہے ہیں؟ / Why Canada is embracing AI data centres | category tech
+- Alternative headline: Canada emerges as a prime destination for AI data centres amid US pushback
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NSE5hVDIxNll0SmttT2MtR2U1TENRNXYtRnVjdDVQVVBYVFdGRVpZNXk2WkRUU2lGamVJZVRFWTV6RmxTWWhtOEFYbzU0VkJ3S1VCRVhJNllGMkU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NSE5hVDIxNll0SmttT2MtR2U1TENRNXYtRnVjdDVQVVBYVFdGRVpZNXk2WkRUU2lGamVJZVRFWTV6RmxTWWhtOEFYbzU0VkJ3S1VCRVhJNllGMkU?oc=5
-- Supporting coverage: BBC
-- Keywords: India tour, Prince William, Catherine, royal visit, BBC, aide | hashtags: #PrinceWilliam #Catherine #IndiaTour #RoyalFamily #BBC
-- Scheduled: Fri 20 Nov, 05:00 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, BBC
+- Keywords: AI data centres, Canada, United States, artificial intelligence, hyperscale projects, Build Canada | hashtags: #AIDataCentres #Canada #Technology #Infrastructure #ArtificialIntelligence
+- Scheduled: Fri 20 Nov, 06:11 AM PKT
 - Caption:
 ```
-An aide close to the British royals has revealed that Prince William and Catherine's tour of India was a uniquely memorable experience.
+As American voters push back against artificial intelligence data centres, Canada's industry leaders are sensing a massive economic opportunity.
 
-According to the BBC, an aide has described Prince William and Catherine's tour of India as 'particularly special'. The royal visit included high-profile engagements, such as walking the green carpet in Mumbai for the Earthshot Prize.
+As Americans grow increasingly resistant to artificial intelligence data centre developments, Canada is being pitched as an attractive alternative hub. Proponents highlight Canada's abundant land, natural gas, and cold climate as ideal solutions to infrastructure strains.
 
-بی بی سی کے مطابق ایک معاون نے پرنس ولیم اور کیتھرین کے دورہ ہند کو 'انتہائی خاص' قرار دیا ہے۔ شاہی دورے میں ممبئی میں ارتھ شاট پرائز کے لیے گرین کارপেٹ پر چلنا بھی شامل تھا۔
+جیسے جیسے امریکی مصنوعی ذہانت کے ڈیٹا سینٹرز کی ترقی کی مخالفت کر رہے ہیں، کینیڈا کو ایک پرکشش متبادل مرکز کے طور پر پیش کیا جا رہا ہے۔ حامی کینیڈا کی وافر زمین، قدرتی گیس اور سرد آب و ہوا کو بنیادی ڈھانچے کے مسائل کے حل کے لیے بہترین قرار دے رہے ہیں۔
+
+First reported by BBC World
+
+#AIDataCentres #Canada #Technology #Infrastructure #ArtificialIntelligence
+```
+
+### PM credits civil-military partnership for economic stability, defends EV policy  [NORMAL]
+- Poster: وزیراعظم نے معاشی استحکام کے لیے عسکری و سیاسی اتحاد کو سراہا / PM hails civil-military unity for economic stability | category politics
+- Alternative headline: PM hails civil-military unity amidst economic reforms and policy discussions
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMidEFVX3lxTE9PVTdCa1UxQjlQNzhQODlyaHJnSEdFR3NXV3NlUllyTUg1akxjdHp3U2VHZnN3ZDBqTkhzTWpCZC1wR2d5b0JXQVhwdUVUTFVOZWNVSGlxOVNjdXVXdmU5UnJTOF8tazNGcjMwN3RQdzVQRzJh0gF8QVVfeXFMTjk3LXdzTVpPMjB0U2Uyb3otUi1iNHBkLW9SRDRGdC1mdUgtWlE3YmtMb3NYbXZJcmVVYi03UkJYdjZBSkpWWUxPRjM3OUUya2N3Q2dEOVBBMlJWeWJRODRpUVFpcHRJd3lreXIybS1yRUpiN3Z3WW0wSEZJWA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMidEFVX3lxTE9PVTdCa1UxQjlQNzhQODlyaHJnSEdFR3NXV3NlUllyTUg1akxjdHp3U2VHZnN3ZDBqTkhzTWpCZC1wR2d5b0JXQVhwdUVUTFVOZWNVSGlxOVNjdXVXdmU5UnJTOF8tazNGcjMwN3RQdzVQRzJh0gF8QVVfeXFMTjk3LXdzTVpPMjB0U2Uyb3otUi1iNHBkLW9SRDRGdC1mdUgtWlE3YmtMb3NYbXZJcmVVYi03UkJYdjZBSkpWWUxPRjM3OUUya2N3Q2dEOVBBMlJWeWJRODRpUVFpcHRJd3lreXIybS1yRUpiN3Z3WW0wSEZJWA?oc=5
+- Supporting coverage: Profit by Pakistan Today, The Express Tribune
+- Keywords: civil-military unity, Prime Minister, economic stability, EV policy, Pakistan | hashtags: #Pakistan #Economy #Politics #EVPolicy #Government
+- Scheduled: Fri 20 Nov, 06:21 AM PKT
+- Caption:
+```
+Prime Minister highlights the significance of civil-military partnership in achieving economic stability and defends the national electric vehicle policy.
+
+Prime Minister has praised the strong civil-military unity as a key factor behind recent economic stability in the country. During discussions, the premier also strongly defended the government's electric vehicle (EV) policy against critics.
+
+وزیراعظم نے ملک میں معاشی استحکام کے حصول کے لیے سول ملٹری اتحاد کو سراہا ہے۔ اس دوران وزیراعظم نے حکومت کی الیکٹرک وہیکل پالیسی کا بھی دفاع کیا ہے۔
+
+First reported by The Express Tribune
+
+#Pakistan #Economy #Politics #EVPolicy #Government
+```
+
+### Cumin-laced fizzy sodas give cola giants a tough fight in India  [NORMAL]
+- Poster: بھارت میں زیرہ فلیور کولا برانڈز کو سخت ٹکر دینے لگی / Cumin sodas challenge cola giants in India | category lifestyle
+- Alternative headline: Homegrown cumin sodas challenge global cola brands across Indian markets
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC, BBC
+- Keywords: cumin-laced sodas, cola giants, India, homegrown flavours, market share | hashtags: #India #Beverages #MarketTrends #ColaGiants #LocalFlavours
+- Scheduled: Fri 20 Nov, 06:31 AM PKT
+- Caption:
+```
+Homegrown local flavours are capturing a bigger market share in India, giving global cola giants a run for their money.
+
+Cumin-laced fizzy sodas are rapidly capturing larger market shares in India as consumer demand shifts toward traditional and homegrown flavours. These local alternatives are presenting a tough competitive challenge to established global cola giants.
+
+بھارت میں روایتی اور دیسی ذائقوں کی بڑھتی ہوئی مانگ کے ساتھ زیرہ والے سوڈا مشروبات مارکیٹ کا بڑا حصہ حاصل کر رہے ہیں۔ یہ مقامی متبادل عالمی کولا برانڈز کو سخت مقابلہ دے رہے ہیں۔
 
 First reported by BBC
 
-#PrinceWilliam #Catherine #IndiaTour #RoyalFamily #BBC
+#India #Beverages #MarketTrends #ColaGiants #LocalFlavours
 ```
 
-### California Probes Nvidia Over Alleged Unauthorized Tech Transfers to China  [NORMAL]
-- Poster: کیلیفورنیا کا اینویڈیا کے خلاف چین کو چپس کی فراہمی پر تحقیقات کا آغاز / California Probes Nvidia Over China AI Chips | category tech_ai
-- Alternative headline: Nvidia Targeted by California Attorney General in China AI Chip Probe
+### Trump posthumously pardons US baseball legend Pete Rose  [NORMAL]
+- Poster: ڈونلڈ ٹرمپ نے امریکی بیس بال لیجنڈ پیٹ روز کو معافی دے دی / Trump posthumously pardons Pete Rose | category world
+- Alternative headline: US President Donald Trump grants full posthumous pardon to Pete Rose
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss
 - Supporting coverage: BBC World
-- Keywords: Nvidia, California, China, AI chips, Rob Bonta, Jensen Huang | hashtags: #Nvidia #California #China #AIChips #TechNews
-- Scheduled: Fri 20 Nov, 05:10 AM PKT
+- Keywords: Pete Rose, Donald Trump, baseball, pardon, MLB, Hall of Fame | hashtags: #PeteRose #DonaldTrump #Baseball #MLB #USNews
+- Scheduled: Fri 20 Nov, 06:41 AM PKT
 - Caption:
 ```
-California has launched an official probe into Nvidia to investigate whether advanced technology and chips were improperly acquired by China.
+US President Donald Trump has granted a complete and total posthumous pardon to late baseball legend Pete Rose.
 
-California Attorney General Rob Bonta has served an investigative subpoena on AI chip designer Nvidia. The probe examines whether Nvidia's actions or its former CEO Jensen Huang resulted in China improperly obtaining advanced chips or confidential information, potentially misleading investors.
+US President Donald Trump has posthumously pardoned baseball legend Pete Rose, who passed away in 2024. Rose previously pleaded guilty to tax return charges in 1990 and faced a lifetime baseball ban due to betting, though he holds the record for most career hits.
 
-کیلیفورنیا کے اٹارنی جنرل روب بونٹا نے اے آئی چپ ڈیزائنر اینویڈیا کو تفتیشی سمن جاری کر دیے ہیں۔ تحقیقات کا مقصد یہ دیکھنا ہے کہ آیا اینویڈیا کی کارروائیوں یا اس کے سابق سی ای او جینسن ہوانگ کی وجہ سے چین کو جدید چپس اور خفیہ معلومات تک رسائی ملی یا نہیں۔
+امریکی صدر ڈونلڈ ٹرمپ نے بیس بال کے لیجنڈ پیٹ روز کو بعد از مرگ مکمل معافی دے دی ہے، جو 2024 میں انتقال کر گئے تھے۔ پیٹ روز نے 1990 میں ٹیکس گوشواروں سے متعلق جرم اعتراف کیا تھا اور ان پر گیمز میں شرط لگانے کی وجہ سے پابندی لگائی گئی تھی۔
 
 First reported by BBC World
 
-#Nvidia #California #China #AIChips #TechNews
+#PeteRose #DonaldTrump #Baseball #MLB #USNews
 ```
 
-### Judge Rules Thomas Markle Mentally Fit to Stand Trial on Child Abuse Charges  [NORMAL]
-- Poster: جج نے تھامس مارکل کو بچوں کے استحصال کے مقدمے کے لیے ذہنی طور پر فٹ قرار دے دیا / Thomas Markle Fit to Stand Trial | category courts
-- Alternative headline: Meghan Markle's Father Deemed Mentally Competent for Child Abuse Trial
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Thomas Markle, trial, child abuse charges, mentally fit, Florida, Meghan Markle | hashtags: #ThomasMarkle #CourtNews #LegalUpdate #BBC
-- Scheduled: Fri 20 Nov, 05:20 AM PKT
-- Caption:
-```
-A Florida judge has declared Thomas Markle Sr., the father of Meghan, Duchess of Sussex, mentally competent to face trial.
-
-According to BBC World, a Florida judge has declared 82-year-old Thomas Markle Sr. mentally competent to stand trial for possessing indecent images of children. The ruling follows an evaluation by a court-appointed psychiatrist. Markle remains in jail ahead of his next hearing in December.
-
-بی بی سی ورلڈ کے مطابق فلوریڈا کے ایک جج نے میغان، ڈচেز آف سسیکس کے والد 82 سالہ تھامس مارکل کو بچوں کی نامناسب تصاویر رکھنے کے مقدمے کا سامنا کرنے کے لیے ذہنی طور پر اہل قرار دے دیا۔ یہ فیصلہ عدالت کی طرف سے مقرر کردہ ماہر نفسیات کے جائزے کے بعد آیا ہے۔
-
-First reported by BBC World
-
-#ThomasMarkle #CourtNews #LegalUpdate #BBC
-```
-
-### Famed Cincinnati Zoo Hippo Fiona Dies Days After Swallowing Knitted Hat  [NORMAL]
-- Poster: مشہور دریائی گھوڑا فیونا نیت کی ہوئی ٹوپی نگلنے سے ہلاک / Famous Hippo Fiona Passes Away | category other
-- Alternative headline: Internet Sensation Fiona the Hippo Passes Away at Cincinnati Zoo
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Fiona the hippo, Cincinnati Zoo, Ohio, animal news, social media star | hashtags: #FionaTheHippo #CincinnatiZoo #AnimalNews #BBC
-- Scheduled: Fri 20 Nov, 05:30 AM PKT
-- Caption:
-```
-The Cincinnati Zoo has announced the tragic death of Fiona the hippo, a beloved social media star who captured global attention.
-
-According to BBC World, the Cincinnati Zoo in Ohio has announced the death of its famous hippopotamus, Fiona. The beloved animal passed away just days after swallowing a knitted hat that accidentally slipped into her enclosure. Fiona was born prematurely in 2017 and grew into a massive global internet sensation.
-
-بی بی سی ورلڈ کے مطابق اوہائیو کے سنسیناٹی چڑیا گھر نے اپنے مشہور دریائی گھوڑے فیونا کی موت کا اعلان کر دیا ہے۔ یہ پیارا جانور اپنے احاطے میں گرنے والی نیت کی ہوئی ٹوپی نگلنے کے چند دن بعد ہلاک ہو گیا۔ فیونا 2017 میں قبل از وقت پیدا ہوئی تھی اور سوشل میڈیا پر مقبولیت حاصل کر چکی تھی۔
-
-First reported by BBC World
-
-#FionaTheHippo #CincinnatiZoo #AnimalNews #BBC
-```
-
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
-- [needs_review] normal | Trump backs possible return of Jensen Huang as Nvidia CEO | Mon 16 Nov, 11:25 PM PKT
-- [needs_review] normal | Pakistan to host next Makkah alliance summit later this month: DPM Dar | Mon 16 Nov, 11:35 PM PKT
 - [needs_review] normal | Robert Pattinson: How the Twilight star became 007 | Tue 17 Nov, 12:22 AM PKT
 - [needs_review] normal | US to curb China's access to AI chips as Trump heads to Asia | Tue 17 Nov, 12:32 AM PKT
 - [needs_review] normal | Punjab to introduce new anti-rape law and speedy courts | Tue 17 Nov, 12:42 AM PKT
@@ -159,7 +156,6 @@ First reported by BBC World
 - [needs_review] normal | California sues OpenAI over Hugging Face attack | Tue 17 Nov, 04:54 AM PKT
 - [needs_review] normal | Five EU countries announce plan to send rejected asylum seekers to Rwa | Tue 17 Nov, 05:04 AM PKT
 - [needs_review] normal | Wirtz feels the fun as Germany run riot over Netherlands | Tue 17 Nov, 05:14 AM PKT
-- [published] breaking | Live: Houthis advance in Yemen as tankers hit sea mines in Strait of H | Tue 17 Nov, 05:57 AM PKT
 - [needs_review] normal | Paraguay ex-president moved to military jail amid special treatment re | Tue 17 Nov, 05:57 AM PKT
 - [needs_review] normal | EU agrees to resurrect cooperation deal with Syria | Tue 17 Nov, 06:07 AM PKT
 - [needs_review] normal | The AI start-ups fixing India's broken roads and messy land records | Tue 17 Nov, 06:17 AM PKT
@@ -358,7 +354,7 @@ First reported by BBC World
 - [published] normal | US military spending on the Iran war crosses $48 billion | Fri 20 Nov, 01:46 AM PKT
 - [published] normal | European leaders say Europe is ready for talks with Russia on ending t | Fri 20 Nov, 01:56 AM PKT
 - [published] normal | US Senate Rejects Resolution to Limit Trump's War Powers on Iran | Fri 20 Nov, 02:22 AM PKT
-- [queued] normal | Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperatio | Fri 20 Nov, 02:32 AM PKT
+- [published] normal | Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperatio | Fri 20 Nov, 02:32 AM PKT
 - [queued] normal | Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Miss | Fri 20 Nov, 02:42 AM PKT
 - [queued] normal | Latest Updates and Developments from the Middle East | Fri 20 Nov, 02:52 AM PKT
 - [queued] normal | Pakistan and 14 nations welcome UK and Australian sanctions on Israeli | Fri 20 Nov, 03:21 AM PKT
@@ -373,12 +369,16 @@ First reported by BBC World
 - [queued] normal | California Probes Nvidia Over Alleged Unauthorized Tech Transfers to C | Fri 20 Nov, 05:10 AM PKT
 - [queued] normal | Judge Rules Thomas Markle Mentally Fit to Stand Trial on Child Abuse C | Fri 20 Nov, 05:20 AM PKT
 - [queued] normal | Famed Cincinnati Zoo Hippo Fiona Dies Days After Swallowing Knitted Ha | Fri 20 Nov, 05:30 AM PKT
+- [queued] normal | Why Canada is embracing AI data centres while the US pushes back | Fri 20 Nov, 06:11 AM PKT
+- [queued] normal | PM credits civil-military partnership for economic stability, defends  | Fri 20 Nov, 06:21 AM PKT
+- [queued] normal | Cumin-laced fizzy sodas give cola giants a tough fight in India | Fri 20 Nov, 06:31 AM PKT
+- [queued] normal | Trump posthumously pardons US baseball legend Pete Rose | Fri 20 Nov, 06:41 AM PKT
 
 ## Publishing this run
-- Published 'US Senate Rejects Resolution to Limit Trump's War Powers on Iran'.
+- Published 'Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperation'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4430 | output tokens: 2788
+- Calls: 3 | prompt tokens: 4098 | output tokens: 2263
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 429 {

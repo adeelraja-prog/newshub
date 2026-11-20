@@ -82322,7 +82322,717 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0c86d85fc176d611be519288",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:13:24+00:00",
+      "last_update": "2026-11-20T00:13:24+00:00",
+      "event": "Why Canada is embracing AI data centres while the US pushes back",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "back",
+        "big",
+        "canada",
+        "centre",
+        "centres",
+        "data",
+        "destination",
+        "development",
+        "embracing",
+        "faces",
+        "his",
+        "investors",
+        "kevin",
+        "leary",
+        "local",
+        "looking",
+        "opposition",
+        "project",
+        "pushes",
+        "shark",
+        "tank",
+        "the",
+        "while",
+        "why"
+      ],
+      "source_excerpt": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T00:13:24+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JeEdjWUp3djR5cl9JQ1oybjgxMmhfQ1dZb3FCeDluZmJFaW94VHJIeW9vSmtfSFpKRkQtUXlqM01qUHlHaG56M1lodF80dEZzWFlLWmFvLU9qWXc?oc=5",
+          "published_at": "2026-11-20T00:13:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ca4566df4fe6a9552ebaf26",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-19T17:12:37+00:00",
+      "last_update": "2026-11-20T00:56:15+00:00",
+      "event": "PM hails civil-military unity",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "civil",
+        "express",
+        "hails",
+        "military",
+        "the",
+        "tribune",
+        "unity"
+      ],
+      "source_excerpt": "PM hails civil-military unity The Express Tribune",
+      "sources": [
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ1B4ekhpQjZsWDFRUWxzQ3FVMnNGd1Bua3hKTzFaVEVSWjRCTkV1TVc0UVIwd2xkeUhrWFQyLUJBaWcyNy1EeFU5a0RtbUZLeW9EVUMzaEk5MWEyQTVSRS1oMGpMdUcxM0VQeGZTTzZEa21iU0tmTWcwRXNGaVZqOE9PWnFQSVd4R0RjMDJsUUVUM3hQWmNldzI0ZXBON3VDWDFkbFE0U3ViZmZMZVVXWlV4clFKZC1IdzIyMmFtLXQzemM?oc=5",
+          "published_at": "2026-11-19T17:12:37+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PVTdCa1UxQjlQNzhQODlyaHJnSEdFR3NXV3NlUllyTUg1akxjdHp3U2VHZnN3ZDBqTkhzTWpCZC1wR2d5b0JXQVhwdUVUTFVOZWNVSGlxOVNjdXVXdmU5UnJTOF8tazNGcjMwN3RQdzVQRzJh0gF8QVVfeXFMTjk3LXdzTVpPMjB0U2Uyb3otUi1iNHBkLW9SRDRGdC1mdUgtWlE3YmtMb3NYbXZJcmVVYi03UkJYdjZBSkpWWUxPRjM3OUUya2N3Q2dEOVBBMlJWeWJRODRpUVFpcHRJd3lreXIybS1yRUpiN3Z3WW0wSEZJWA?oc=5",
+          "published_at": "2026-11-20T00:56:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PVTdCa1UxQjlQNzhQODlyaHJnSEdFR3NXV3NlUllyTUg1akxjdHp3U2VHZnN3ZDBqTkhzTWpCZC1wR2d5b0JXQVhwdUVUTFVOZWNVSGlxOVNjdXVXdmU5UnJTOF8tazNGcjMwN3RQdzVQRzJh0gF8QVVfeXFMTjk3LXdzTVpPMjB0U2Uyb3otUi1iNHBkLW9SRDRGdC1mdUgtWlE3YmtMb3NYbXZJcmVVYi03UkJYdjZBSkpWWUxPRjM3OUUya2N3Q2dEOVBBMlJWeWJRODRpUVFpcHRJd3lreXIybS1yRUpiN3Z3WW0wSEZJWA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6ab1a0a52aa44425bb989dea",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:22:02+00:00",
+      "last_update": "2026-11-20T00:22:02+00:00",
+      "event": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bid",
+        "bukele",
+        "crackdown",
+        "crime",
+        "enormous",
+        "expected",
+        "for",
+        "formalise",
+        "granted",
+        "has",
+        "popularity",
+        "power",
+        "president",
+        "presidential",
+        "salvador",
+        "salvadoran",
+        "state",
+        "term",
+        "that",
+        "the",
+        "third",
+        "through",
+        "won"
+      ],
+      "source_excerpt": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+          "published_at": "2026-11-20T00:22:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cdd2251c3a1c1c96a82290f3",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:10:04+00:00",
+      "last_update": "2026-11-20T00:10:04+00:00",
+      "event": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "amid",
+        "arrivals",
+        "boat",
+        "bodies",
+        "canary",
+        "capsizes",
+        "continues",
+        "for",
+        "four",
+        "islands",
+        "migrant",
+        "migration",
+        "near",
+        "nearly",
+        "recovered",
+        "search",
+        "senegal",
+        "spain",
+        "surge",
+        "survivors",
+        "thirds",
+        "two",
+        "yenne"
+      ],
+      "source_excerpt": "Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
+          "published_at": "2026-11-20T00:10:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d28c7d6b6b3f1f53fa9ce7b9",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-19T23:58:40+00:00",
+      "last_update": "2026-11-20T00:00:38+00:00",
+      "event": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attacks",
+        "capital",
+        "centre",
+        "energy",
+        "escalate",
+        "financial",
+        "fire",
+        "global",
+        "has",
+        "houthi",
+        "houthis",
+        "iran",
+        "lasting",
+        "leaves",
+        "live",
+        "marks",
+        "missile",
+        "riyadh",
+        "rocked",
+        "saudi",
+        "the",
+        "war"
+      ],
+      "source_excerpt": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+          "published_at": "2026-11-19T23:58:40+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYmF2dkVFWEswbHFzSmtxS2taNHhUbTdPVVJfQ0tsT3doMXE5eGdtNGdQR2VMT2lUVG84WG4wdmhqTTF4dmxHN0EzQmt0Z1ljZVNlbUVIdGt6VkVxSEdYc3ZtaWlZUHpqMDBmX3ZVZ19yWmpyWHdlX1VRSnVsWEU4aFRISExDb2NOWEUzZXlZVU5DcTAxUWRmOUp6X293dTNVY0pPWXRWMFUtQdIBrwFBVV95cUxNLVJKT29zWTlLdG9hRU1fYjZ2aE1uV0ZiV1MxbkxGNWozSzh0cUlHRnEzV0YyYWpVYnpVZU5pX0wwSkRoRlRIbU1LQzNWNzBZX29HNE4wZEpXa0JQTU1oSHRXT01acTdiOW5neHZRVU5iRTR0UDFDdGFpOU56UDJsVTNwT1F5MXBMN3pxam13LWlZaUJYOUluWDhZSUJ4VWtiVlNEemJWU0ZzUld1NEJF?oc=5",
+          "published_at": "2026-11-20T00:00:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "761f29dcc0854d9dcceadadd",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:02:07+00:00",
+      "last_update": "2026-11-20T00:02:07+00:00",
+      "event": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "been",
+        "devices",
+        "fridges",
+        "from",
+        "hackers",
+        "have",
+        "make",
+        "nationwide",
+        "operation",
+        "restaurants",
+        "safe",
+        "scrambling",
+        "secret",
+        "secured",
+        "stadiums",
+        "supermarkets",
+        "tens",
+        "their",
+        "thousands",
+        "warehouses"
+      ],
+      "source_excerpt": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T00:02:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f75a9d6b8a8ef660ad824c4e",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:08:22+00:00",
+      "last_update": "2026-11-20T00:08:22+00:00",
+      "event": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "appears",
+        "cancer",
+        "cancers",
+        "daily",
+        "daraxonrasib",
+        "deadliest",
+        "eliminate",
+        "even",
+        "for",
+        "hope",
+        "massive",
+        "one",
+        "pancreatic",
+        "patients",
+        "pill",
+        "possibly",
+        "saw",
+        "shrink",
+        "some",
+        "the",
+        "trial",
+        "tumours",
+        "vanish",
+        "with"
+      ],
+      "source_excerpt": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T00:08:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7ab673ae3289494b3bc50d37",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:02:03+00:00",
+      "last_update": "2026-11-20T00:02:03+00:00",
+      "event": "Resident doctors to begin 24-hour strike over pay",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "action",
+        "begin",
+        "begins",
+        "doctors",
+        "full",
+        "gmt",
+        "hour",
+        "over",
+        "pay",
+        "resident",
+        "second",
+        "strike",
+        "such",
+        "taken",
+        "the",
+        "this",
+        "year"
+      ],
+      "source_excerpt": "A full 24-hour strike begins at 07:00 GMT - the second such action taken by doctors this year.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T00:02:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d894aca82411a13ed97cdbf6",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:54:50+00:00",
+      "last_update": "2026-11-20T00:54:50+00:00",
+      "event": "More climate money for Africa? Europe says use what's already pledged",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "african",
+        "already",
+        "are",
+        "change",
+        "climate",
+        "cope",
+        "countries",
+        "demanding",
+        "developed",
+        "europe",
+        "for",
+        "from",
+        "funding",
+        "help",
+        "money",
+        "more",
+        "nations",
+        "pledged",
+        "says",
+        "summit",
+        "the",
+        "them",
+        "turkey",
+        "use",
+        "what",
+        "with"
+      ],
+      "source_excerpt": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T00:54:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ec0a369c984404c07746a2b",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:12:28+00:00",
+      "last_update": "2026-11-20T00:12:28+00:00",
+      "event": "Airbnb's divisive new house rules come into force",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airbnb",
+        "ask",
+        "but",
+        "can",
+        "chores",
+        "come",
+        "costs",
+        "could",
+        "customers",
+        "divisive",
+        "fewer",
+        "for",
+        "force",
+        "guests",
+        "higher",
+        "hosts",
+        "house",
+        "into",
+        "mean",
+        "new",
+        "reasonably",
+        "rules",
+        "what"
+      ],
+      "source_excerpt": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T00:12:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "18ca45d750ff902a63b9a058",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:08:37+00:00",
+      "last_update": "2026-11-20T00:08:37+00:00",
+      "event": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acceptable",
+        "and",
+        "annoying",
+        "break",
+        "colleagues",
+        "desk",
+        "desko",
+        "don",
+        "dos",
+        "eat",
+        "eggs",
+        "fish",
+        "lunch",
+        "the",
+        "what",
+        "without",
+        "your"
+      ],
+      "source_excerpt": "What is acceptable to eat at your desk, without annoying your colleagues?",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T00:08:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "89b8ceab887b2ac054a14875",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:13:21+00:00",
+      "last_update": "2026-11-20T00:13:21+00:00",
+      "event": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "besieged",
+        "city",
+        "fireworks",
+        "guerin",
+        "houthis",
+        "inside",
+        "just",
+        "life",
+        "like",
+        "orla",
+        "people",
+        "reveal",
+        "seven",
+        "siege",
+        "son",
+        "speak",
+        "speaks",
+        "taiz",
+        "tell",
+        "the",
+        "trapped",
+        "under",
+        "what",
+        "who",
+        "yemeni"
+      ],
+      "source_excerpt": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T00:13:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "caae7d0a53f6a1a22b7cc87c",
+      "remembered_at": "2026-11-20T01:11:21.478115+00:00",
+      "event_date": "2026-11-20T00:06:06+00:00",
+      "last_update": "2026-11-20T00:06:06+00:00",
+      "event": "Fourteen killed in two Balochistan crashes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "balochistan",
+        "crashes",
+        "express",
+        "fourteen",
+        "killed",
+        "the",
+        "tribune",
+        "two"
+      ],
+      "source_excerpt": "Fourteen killed in two Balochistan crashes The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdUY3Wmo3VkdIZGYxSV9BM28yRjBQa0pXRU1jS3V0QkViRGlLYXREdDNROGxhSGxoTHhERnF1c0lNVGlGX05VbllrOC05a2ZUQXJ4cURueS1sdjFjVnBib2lhZUdPbFV3eEJqUEVUZ2wzRUtYVnB2ZF9ZOHdyWW9CSlh0MkF2d9IBjgFBVV95cUxQUXhadk9DN0V2bW1vTDZtaGxzWER2YzV1U0o4Z0QzWDZ0Vl96WkRNdlB3M3VNUjFEV2pOWFhYTWpfRFc1bkZpdlFzMUN2NFNyRDR0TTV2YXNXZFlWOUlfS240MTl0TWpTQm0wZkI4SHZYWGVsenlvNzdMOE5qYzg1d0FMR0tka2NEd3dpdmdR?oc=5",
+          "published_at": "2026-11-20T00:06:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdUY3Wmo3VkdIZGYxSV9BM28yRjBQa0pXRU1jS3V0QkViRGlLYXREdDNROGxhSGxoTHhERnF1c0lNVGlGX05VbllrOC05a2ZUQXJ4cURueS1sdjFjVnBib2lhZUdPbFV3eEJqUEVUZ2wzRUtYVnB2ZF9ZOHdyWW9CSlh0MkF2d9IBjgFBVV95cUxQUXhadk9DN0V2bW1vTDZtaGxzWER2YzV1U0o4Z0QzWDZ0Vl96WkRNdlB3M3VNUjFEV2pOWFhYTWpfRFc1bkZpdlFzMUN2NFNyRDR0TTV2YXNXZFlWOUlfS240MTl0TWpTQm0wZkI4SHZYWGVsenlvNzdMOE5qYzg1d0FMR0tka2NEd3dpdmdR?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T00:00:44.283056+00:00"
+  "updated_at": "2026-11-20T01:11:21.478115+00:00"
 }
