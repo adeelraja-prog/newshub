@@ -1430,6 +1430,44 @@ def direct_publisher_copy(story):
     }
 
 
+def validate_explainer(value_addition, story):
+    """Deterministic gate: only genuinely explanatory, sourced and bilingual cards retain the EXPLAINER label."""
+    if not isinstance(value_addition, dict) or str(value_addition.get("type") or "").lower() != "explainer":
+        return True, "not an explainer"
+    points = value_addition.get("points")
+    if not isinstance(points, list) or not 2 <= len(points) <= 3:
+        return False, "an explainer needs two or three distinct points"
+    members = (story.get("cluster") or {}).get("members") or []
+    allowed_urls = {ed.canonical_url(m.get("link", "")) for m in members
+                    if isinstance(m, dict) and m.get("link")}
+    total_words = 0
+    for index, point in enumerate(points, 1):
+        if not isinstance(point, dict):
+            return False, f"point {index} is not a structured object"
+        label = str(point.get("label") or "").strip()
+        body = str(point.get("text") or "").strip()
+        body_ur = str(point.get("text_ur") or "").strip()
+        source = str(point.get("source") or "").strip()
+        url = str(point.get("url") or "").strip()
+        words = re.findall(r"[A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*", body)
+        if not label or not body or not source or not url:
+            return False, f"point {index} is missing its label, explanation or provenance"
+        if not 18 <= len(words) <= 30:
+            return False, f"point {index} has {len(words)} English words; expected 18–30"
+        if not has_urdu_script(body_ur):
+            return False, f"point {index} has no complete Urdu-script explanation"
+        try:
+            canonical = ed.canonical_url(url)
+        except Exception:
+            canonical = ""
+        if not canonical or canonical not in allowed_urls:
+            return False, f"point {index} cites a URL outside the supplied story sources"
+        total_words += len(words)
+    if total_words < 45:
+        return False, f"only {total_words} explanatory words; at least 45 are required"
+    return True, "explainer passed deterministic quality gate"
+
+
 def write_posts(stories, size=8):
     """Every story receives Urdu-first creative writing; trusted status skips assessment, not enrichment."""
     out = {}
@@ -1438,6 +1476,14 @@ def write_posts(stories, size=8):
         try:
             for relative_n, written in write_batch(batch).items():
                 if 1 <= relative_n <= len(batch):
+                    story = batch[relative_n - 1]
+                    visual = written.get("value_addition") or {"type": "none"}
+                    passed, reason = validate_explainer(visual, story)
+                    if not passed:
+                        print(f"[explainer] downgraded to regular news: {story.get('event','')[:65]} | {reason}")
+                        written["value_addition"] = {"type": "none", "reason": reason}
+                    elif str(visual.get("type") or "").lower() == "explainer":
+                        print(f"[explainer] approved: {story.get('event','')[:65]} | {reason}")
                     out[start + relative_n] = written
         except Exception as ex:
             print(f"[warn] writing batch {start // size + 1} failed: {ex}")
