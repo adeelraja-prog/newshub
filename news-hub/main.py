@@ -912,7 +912,7 @@ def is_political_story(story):
 def infer_political_category(text):
     if not POLITICAL_TOPIC_RE.search(text or ""):
         return "other"
-    if re.search(r"\b(united states|u\\.?s\\.?|white house|congress|senate|democrat|republican|"
+    if re.search(r"\b(united states|u\.?s\.?|white house|congress|senate|democrat|republican|"
                  r"presidential election|donald trump|us election)\b", text or "", re.I):
         return "us_politics"
     return "politics"
