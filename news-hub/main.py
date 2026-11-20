@@ -738,9 +738,12 @@ For each cluster return:
    institutional decisions; NOT how many outlets covered it)
 - "pakistan_relevance": 0-100 (for tech, science, health, sports, fashion, lifestyle and weather news rate general
    Pakistani audience interest; major worldwide tech news is of high interest)
-- category hints: tech_ai = AI news, tech_gadgets = devices and hardware, tech_mobile = phones, tech_laptop = laptops
+- category hints: politics = Pakistani and international politics outside the United States, including governments,
+   parties, parliament, elections, opposition, leadership, diplomacy and constitutional developments;
+   us_politics = United States government, Congress, parties and elections. Do not classify a political story as "other".
+   tech_ai = AI news, tech_gadgets = devices and hardware, tech_mobile = phones, tech_laptop = laptops
    and PCs, tech_apps = apps and software, tech = other technology, science, weather, fashion, lifestyle, crime = crimes and
-   court-reported offences, war = wars and armed conflicts (Iran, Gaza, Ukraine...), us_politics = US politics and elections
+   court-reported offences, war = wars and armed conflicts (Iran, Gaza, Ukraine...).
 - "viral_potential": 0-100 (editorial ESTIMATE of shareability: human interest, controversy, major personalities,
    surprise). This is an estimate, not measured data.
 - "public_interest": 0-100 (how strongly ordinary Pakistanis care about or are affected by this event. Include political
