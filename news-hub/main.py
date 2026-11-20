@@ -1752,6 +1752,24 @@ def pick_due(queue, t0):
 GRAPH_API_VERSION = env("FB_GRAPH_VERSION", "v27.0")
 
 
+def post_facebook_link(link, message):
+    """Publish a YouTube video as a native Facebook Page link post."""
+    page, token = env("FB_PAGE_ID"), env("FB_PAGE_TOKEN")
+    if not (page and token):
+        raise RuntimeError("Facebook Page ID/token is not configured; item remains queued.")
+    response = requests.post(
+        f"https://graph.facebook.com/{GRAPH_API_VERSION}/{page}/feed",
+        data={"message": message, "link": link, "access_token": token}, timeout=35)
+    if response.status_code != 200:
+        raise requests.HTTPError(f"Facebook Graph API {response.status_code}: {response.text[:300]}", response=response)
+    payload = response.json()
+    post_id = payload.get("id") or payload.get("post_id")
+    if not post_id:
+        raise RuntimeError(f"Facebook link post response did not confirm an id: {str(payload)[:300]}")
+    print("[facebook] YouTube link post published", post_id)
+    return str(post_id)
+
+
 def post_facebook(path, text):
     page, token = env("FB_PAGE_ID"), env("FB_PAGE_TOKEN")
     if not (page and token):
@@ -1836,16 +1854,19 @@ def persist_publish_claim():
 
 
 def publish_one(queue, state, item, t0):
-    """Render, durably claim, publish once, then persist Facebook's confirmation."""
-    try:
-        path = make_poster(item, t0.astimezone(PKT).strftime("%Y%m%d-%H%M"))
-    except Exception as ex:
-        item["poster_error"] = str(ex)[:500]
-        item["attempts"] = item.get("attempts", 0) + 1
-        if item["attempts"] >= 5:
-            item["status"] = "failed"
-        print(f"[poster] FAILED: {ex}; item retained for retry/review")
-        return False
+    """Publish a news poster or native YouTube link post, then persist confirmation."""
+    is_youtube = item.get("type") == "youtube"
+    path = None
+    if not is_youtube:
+        try:
+            path = make_poster(item, t0.astimezone(PKT).strftime("%Y%m%d-%H%M"))
+        except Exception as ex:
+            item["poster_error"] = str(ex)[:500]
+            item["attempts"] = item.get("attempts", 0) + 1
+            if item["attempts"] >= 5:
+                item["status"] = "failed"
+            print(f"[poster] FAILED: {ex}; item retained for retry/review")
+            return False
 
     if not (env("FB_PAGE_ID") and env("FB_PAGE_TOKEN")):
         item["publish_blocked"] = "Facebook Page credentials missing"
@@ -1873,7 +1894,7 @@ def publish_one(queue, state, item, t0):
         return False
 
     try:
-        fb_id = str(post_facebook(path, item["caption"]))
+        fb_id = str(post_facebook_link(item["link"], item["caption"]) if is_youtube else post_facebook(path, item["caption"]))
     except requests.HTTPError as ex:
         status_code = getattr(getattr(ex, "response", None), "status_code", 0)
         item["facebook_error"] = str(ex)[:500]
@@ -1916,11 +1937,13 @@ def publish_one(queue, state, item, t0):
 
     story_id = None
     story_status = "not_attempted"
-    story_path = os.path.splitext(path)[0] + "_story.jpg"
+    story_path = os.path.splitext(path)[0] + "_story.jpg" if path else ""
     try:
-        if os.path.exists(story_path):
+        if story_path and os.path.exists(story_path):
             story_id = post_facebook_photo_story(story_path)
             story_status = "published"
+        elif is_youtube:
+            story_status = "not_applicable_youtube_link"
         else:
             story_status = "missing_story_asset"
             print("[facebook-story] no vertical Story export found")
@@ -1930,7 +1953,7 @@ def publish_one(queue, state, item, t0):
         print(f"[facebook-story] FAILED (feed post remains successful): {story_error}")
 
     item["status"] = "published"
-    item["distribution"] = "facebook_feed"
+    item["distribution"] = "facebook_link" if is_youtube else "facebook_feed"
     item["published"] = {"time": iso(t0), "facebook_post_id": fb_id,
                          "facebook_post_url": f"https://www.facebook.com/{fb_id}",
                          "facebook_story_id": str(story_id) if story_id else None,
@@ -1946,7 +1969,7 @@ def publish_one(queue, state, item, t0):
         "facebook_post_id": fb_id, "facebook_story_status": story_status
     })
     save_json(QUEUE_FILE, queue)
-    print("[queue] Facebook poster published", item.get("qid"), item["published"]["facebook_post_url"])
+    print("[queue] Facebook " + ("YouTube link" if is_youtube else "poster") + " published", item.get("qid"), item["published"]["facebook_post_url"])
     return True
 
 # ---------- report ----------
