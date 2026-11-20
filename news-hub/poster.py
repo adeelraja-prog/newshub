@@ -804,16 +804,20 @@ def render_mobile_value_card(c, info):
         body = str(row.get("text") or row.get("fact") or row.get("display_value") or row.get("value") or "").strip()
         body_font = sans(21,500)
         ty = y+58
-        max_body_lines = 3 if kind == "explainer" else 2
+        max_body_lines = 4 if kind == "explainer" else 2
         body_lines = wrap(body, body_font, W-2*M-56)
-        if kind == "explainer" and len(body_lines) > max_body_lines:
-            body_font = sans(19,500)
-            body_lines = wrap(body, body_font, W-2*M-56)
-        for ln in body_lines[:max_body_lines]:
+        if kind == "explainer":
+            # Fit the complete 18–30-word explanation into the card; never silently slice it.
+            while len(body_lines) > max_body_lines and body_font.size > 15:
+                body_font = sans(body_font.size-1,500)
+                body_lines = wrap(body, body_font, W-2*M-56)
+            if len(body_lines) > max_body_lines:
+                raise ValueError("Explainer point does not fit the readable card area; downgrade to a regular poster.")
+        for ln in body_lines if kind == "explainer" else body_lines[:max_body_lines]:
             d.text((M+28,ty),ln,font=body_font,fill=ink)
-            ty += int(body_font.size * 1.3)
+            ty += int(body_font.size * 1.22)
         ur_body = str(row.get("text_ur") or row.get("fact_ur") or "").strip()
-        if ur_body and ty+35 < y+card_h-24:
+        if ur_body and kind != "explainer" and ty+35 < y+card_h-24:
             uf = urdu(24)
             d.text((W-M-24,ty+2),wrap(ur_body,uf,W-2*M-56)[0],font=uf,
                    fill="#705A32",anchor="ra",direction="rtl",language="ur")
