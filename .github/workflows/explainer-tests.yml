@@ -13,6 +13,7 @@ on:
       - "news-hub/editorial_policy.py"
       - "news-hub/tests/test_editorial_policy.py"
       - "news-hub/tests/test_explainer_quality.py"
+      - "news-hub/tests/test_politics_youtube.py"
       - "news-hub/tests/test_mobile_posters.py"
       - "news-hub/tests/test_editorial_quality.py"
       - "news-hub/tests/test_editorial_scoring.py"
