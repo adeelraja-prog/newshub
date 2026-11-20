@@ -1,145 +1,143 @@
-# News Hub report - Fri 20 Nov, 02:00 PM PKT
+# News Hub report - Fri 20 Nov, 03:10 PM PKT
 
 ## Collection
-- New items this run: 89 | items in rolling pool: 562
-- Unique story clusters: 446 (duplicates merged: 116)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 12
-- Items per outlet: UrduPoint 31, Geo News 7, samaa tv 5, Dunya News 5, Profit by Pakistan Today 5, Dawn Latest 3, AP News 3, ProPakistani 3, ARYnews.tv 2, ARY News 2, Al Jazeera 2, The Current 2
+- New items this run: 85 | items in rolling pool: 554
+- Unique story clusters: 455 (duplicates merged: 99)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 12
+- Items per outlet: UrduPoint 14, ProPakistani 10, Geo News 8, TechJuice 8, Al Jazeera 4, Dawn 3, Dawn Latest 3, ARY News 3, samaa tv 3, Investify 3, PhoneWorld 2, Around Prague 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Pakistan improves 17 places in UN E-Government Development Index 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump ousts cyber director after tech outages spark criticism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iqrar-ul-Hassan indicted in NCCIA case, pleads not guilty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - NCCIA arrests suspect over alleged sale of stolen US government data in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s resources worth $8-10tr 'at most conservative estimate', says Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- El Salvador’s Bukele seeks third term after constitution change | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three Kyiv bridges hit during major Russian missile attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia unleashes retaliatory barrage on Kyiv bridges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan improves 17 places in UN E-Government Development Index 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump ousts cyber director after tech outages spark criticism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iqrar-ul-Hassan indicted in NCCIA case, pleads not guilty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - NCCIA arrests suspect over alleged sale of stolen US government data in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s resources worth $8-10tr 'at most conservative estimate', says Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- El Salvador’s Bukele seeks third term after constitution change | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three Kyiv bridges hit during major Russian missile attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia unleashes retaliatory barrage on Kyiv bridges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan improves 17 places in UN E-Government Development Index 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump ousts cyber director after tech outages spark criticism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iqrar-ul-Hassan indicted in NCCIA case, pleads not guilty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - NCCIA arrests suspect over alleged sale of stolen US government data in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s resources worth $8-10tr 'at most conservative estimate', says Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- El Salvador’s Bukele seeks third term after constitution change | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three Kyiv bridges hit during major Russian missile attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia unleashes retaliatory barrage on Kyiv bridges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026  [NORMAL]
-- Poster: اقوام متحدہ کی ای گورننس انڈیکس میں پاکستان کی 17 درجے بہتری / Pakistan Jumps 17 Ranks in UN E-Government Index | category tech
-- Alternative headline: Pakistan improves 17 places in UN E-Government Development Index 2026
+### Karachi Man Inspired by Batman Arrested Over Alleged US Data Sale  [NORMAL]
+- Poster: بیٹ مین سے متاثر ملزم کراچی میں امریکی ڈیٹا فروخت کرنے پر گرفتار / Karachi Man Arrested Over Alleged Sale of Stolen US Data | category crime
+- Alternative headline: NCCIA Arrests Karachi Suspect Selling Stolen US Government Data on Dark Web
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/pakistan-improves-17-places-in-un-e-government-development-index-2026 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/pakistan-improves-17-places-in-un-e-government-development-index-2026
-- Supporting coverage: TechJuice, ARY News, ARYnews.tv, samaa tv
-- Keywords: UN E-Government Index, Pakistan digital governance, Shaza Fatima, EGDI 2026, IT ministry, online public services | hashtags: #Pakistan #EGovernment #DigitalPakistan #UN #Technology
-- Scheduled: Fri 20 Nov, 02:00 PM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045889/nccia-arrests-suspect-over-alleged-sale-of-stolen-us-government-data-in-karachi | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045889/nccia-arrests-suspect-over-alleged-sale-of-stolen-us-government-data-in-karachi
+- Supporting coverage: The Current, Dawn Pakistan, TechJuice
+- Keywords: NCCIA, Karachi, US government data, dark web, PECA, cyber crime | hashtags: #NCCIA #Karachi #CyberCrime #PECA #Pakistan
+- Scheduled: Fri 20 Nov, 03:10 PM PKT
 - Caption:
 ```
-Pakistan has climbed 17 places in the UN E-Government Development Index 2026, reaching the 119th position amid digital governance reforms.
+The NCCIA has arrested a Karachi man operating under the online alias 'DP BRUCE' for allegedly selling stolen US government data.
 
-Pakistan has improved its global standing by 17 places in the United Nations E-Government Development Index 2026, securing the 119th position. Federal Minister Shaza Fatima attributed the progress to digital governance reforms and coordinated institutional efforts.
+The National Cyber Crime Investigation Agency (NCCIA) arrested a Karachi suspect operating under the alias 'DP BRUCE' for allegedly acquiring and selling sensitive data belonging to US government agencies, including the FBI and CIA, using platforms like LeakBase and Telegram. A case has been registered under PECA 2016.
 
-اقوام متحدہ کے ای گورننس ڈویلپمنٹ انڈیکس 2026 میں پاکستان نے 17 درجے بہتری کے ساتھ 119 ویں پوزیشن حاصل کر لی ہے۔ وفاقی وزیر شزا فاطمہ نے اس پیش رفت کو ڈیجیٹل گورننس اصلاحات کا نتیجہ قرار دیا ہے۔
+نیشنل سائبر کرائم انویسٹی گیشن ایجنسی (این سی سی آئی اے) نے کراچی میں 'ڈی پی بروس' کے نام سے کام کرنے والے ایک ملزم کو گرفتار کیا ہے جو مبینہ طور پر ایف بی آئی اور سی آئی اے سمیت امریکی اداروں کا حساس ڈیٹا ڈارک ویب پر فروخت کرنے میں ملوث تھا۔
 
-First reported by ARY News; also reported by TechJuice.
+First reported by Dawn Pakistan; also reported by The Current and TechJuice.
 
-#Pakistan #EGovernment #DigitalPakistan #UN #Technology
+#NCCIA #Karachi #CyberCrime #PECA #Pakistan
 ```
 
-### NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Laundering Network  [NORMAL]
-- Poster: این سی سی آئی اے کا ایک ٹریلین روپے کا آن لائن جوا نیٹ ورک بے نقاب / NCCIA Uncovers Rs1 Trillion Gambling Network | category crime
-- Alternative headline: NCCIA busts online gambling, money laundering network in Karachi
+### Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb  [NORMAL]
+- Poster: پاکستان کے وسائل کی مالیت کم از کم 8 سے 10 ٹریلین ڈالر ہے: دار / Pakistan Resources Worth $8-10 Trillion, Says Dar | category economy
+- Alternative headline: Pakistan’s Mineral and Resource Wealth Estimated at $8-10 Trillion: Dar
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTlNa3RXVjEwWnZlWGo2OWlwNjBSNExBWFcybDR2YU5ibUFVTFRHVkdHM1IwVHRXVUdXTU1CdF9LRnJuUlpoeHkzU0xFTDRjd0dIUkxTU2VjMl9pd0MxZkdxSFRoZjBuZVNlZTA0SUF0eUtISl9OX2dlcU9QWm80Z1VwRXkxRnd6VDZpbkxTbw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTlNa3RXVjEwWnZlWGo2OWlwNjBSNExBWFcybDR2YU5ibUFVTFRHVkdHM1IwVHRXVUdXTU1CdF9LRnJuUlpoeHkzU0xFTDRjd0dIUkxTU2VjMl9pd0MxZkdxSFRoZjBuZVNlZTA0SUF0eUtISl9OX2dlcU9QWm80Z1VwRXkxRnd6VDZpbkxTbw?oc=5
-- Supporting coverage: Dawn, Profit by Pakistan Today, The Current
-- Keywords: NCCIA, online gambling, money laundering, Karachi crime, cyber crime, betting network | hashtags: #NCCIA #Karachi #MoneyLaundering #CyberCrime #Gambling
-- Scheduled: Fri 20 Nov, 02:10 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGRlZ3NOcHNzSFh0djJ5ZEoxcnpuVEVId0RkRzkyUm1tQV9DV0l4YThQSHdCYUN6LXNFSFFxT2RXZkdRVDlwbVZjcFg4Mk5IbUROSlJpQkNrWnRWZXhNV196Ul8tem9ldGVQYmRfXzRuZmJBcER2N1RyQWVvRmJLRm5HcjFFOU1nSHB4amh1bGJ3WDFDLXlmU2NDaFlzNzRKcFZwV29uZDA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGRlZ3NOcHNzSFh0djJ5ZEoxcnpuVEVId0RkRzkyUm1tQV9DV0l4YThQSHdCYUN6LXNFSFFxT2RXZkdRVDlwbVZjcFg4Mk5IbUROSlJpQkNrWnRWZXhNV196Ul8tem9ldGVQYmRfXzRuZmJBcER2N1RyQWVvRmJLRm5HcjFFOU1nSHB4amh1bGJ3WDFDLXlmU2NDaFlzNzRKcFZwV29uZDA?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Pakistan resources, economy, natural resources, conservative estimate, wealth | hashtags: #Pakistan #Economy #NaturalResources #Dawn
+- Scheduled: Fri 20 Nov, 03:20 PM PKT
 - Caption:
 ```
-The NCCIA has busted a massive online gambling and money laundering network allegedly worth Rs1 trillion in Karachi.
+Pakistan's total resources are estimated to be worth between $8 and $10 trillion at a most conservative estimate, according to official statements.
 
-The National Cyber Crime Investigation Agency (NCCIA) has busted an online gambling and money laundering network allegedly involving Rs1 trillion, arresting five suspects in Karachi.
+Pakistan's resources are valued at between $8 trillion and $10 trillion based on the most conservative estimates, according to statements reported by Dawn. The assessment highlights the vast economic potential of the country's untapped natural resources.
 
-نیشنل سائبر کرائم انویسٹی گیشن ایجنسی (این سی سی آئی اے) نے کراچی میں ایک کروڑ روپے کے مبینہ آن لائن جوئے اور منی لانڈرنگ نیٹ ورک کا پردہ فاش کرتے ہوئے پانچ ملزمان کو گرفتار کر لیا ہے۔
+ڈان کی رپورٹ کے مطابق پاکستان کے وسائل کی مالیت انتہائی محتاط اندازے کے مطابق 8 سے 10 ٹریلین ڈالر کے درمیان ہے۔ یہ بیان ملک کے قدرتی وسائل کی وسیع معاشی صلاحیت کو ظاہر کرتا ہے۔
 
 First reported by Dawn.
 
-#NCCIA #Karachi #MoneyLaundering #CyberCrime #Gambling
+#Pakistan #Economy #NaturalResources #Dawn
 ```
 
-### Trump Ousts US Cyber Director After Tech Outages Spark Criticism  [NORMAL]
-- Poster: ٹیکنالوجی خرابیوں پر تنقید: ٹرمپ نے سائبر ڈائریکٹر کو ہٹا دیا / Trump Ousts Cyber Director After Tech Outages | category us_politics
-- Alternative headline: Trump replaces US cyber security director following major tech outages
+### El Salvador’s President Bukele Seeks Third Term After Constitutional Changes  [NORMAL]
+- Poster: آئینی تبدیلی کے بعد ایل سلواڈور کے صدر کا تیسری بار انتخاب لڑنے کا اعلان / El Salvador President Bukele Seeks Third Term | category world
+- Alternative headline: Nayib Bukele Pursues Controversial Third Term Following Constitutional Reform
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimwFBVV95cUxPZE5KNFl2TGhoSXVBenhHaXh1ZWw4X2plbF9mVDZ0SjhKY0lwdjdjS2NBSjZjTEhHZ3kwMWNRWlkyZDJRdFM0eV8yQzQ3bW13UzJGMHg3RjBUa0lHejdYN25Ccm1tQUR3cjNNMUF1S3RIWXl1LXNHMWt6NkV1eTZsOV9fYjdURWF1QTJNSERnX0dJYkVLcDk3bklBYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMimwFBVV95cUxPZE5KNFl2TGhoSXVBenhHaXh1ZWw4X2plbF9mVDZ0SjhKY0lwdjdjS2NBSjZjTEhHZ3kwMWNRWlkyZDJRdFM0eV8yQzQ3bW13UzJGMHg3RjBUa0lHejdYN25Ccm1tQUR3cjNNMUF1S3RIWXl1LXNHMWt6NkV1eTZsOV9fYjdURWF1QTJNSERnX0dJYkVLcDk3bklBYw?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Dawn Latest, samaa tv
-- Keywords: Trump cyber director, US tech outages, cyber security, Donald Trump, US government tech, cyber director ousted | hashtags: #Trump #CyberSecurity #USPolitics #TechOutage #BreakingNews
-- Scheduled: Fri 20 Nov, 02:20 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Nayib Bukele, El Salvador, third term, constitution change, politics | hashtags: #ElSalvador #NayibBukele #WorldNews #Politics
+- Scheduled: Fri 20 Nov, 03:30 PM PKT
 - Caption:
 ```
-US President Trump has removed the country's cyber security director following a wave of technical outages that sparked widespread criticism.
+El Salvador's President Nayib Bukele is seeking a third consecutive term following controversial constitutional changes.
 
-US President Donald Trump has ousted the country's cyber security director following a wave of technical outages that affected government systems and drew heavy criticism.
+El Salvador's populist President Nayib Bukele is seeking a third term in office following constitutional changes. Critics have accused the government of engineering a de facto one-state system through these sweeping legal and political shifts.
 
-امریکی صدر ڈونلڈ ٹرمپ نے تکنیکی خرابیوں اور شدید تنقید کے بعد ملک کے سائبر سیکیورٹی ڈائریکٹر کو عہدے سے ہٹا دیا ہے۔
+ایل سلواڈور کے مقبول عام صدر نییب بوکیلے آئینی تبدیلیوں کے بعد تیسری مدت کے لیے انتخاب لڑنے کے خواہاں ہیں۔ ناقدین نے اس اقدام پر تشویش کا اظہار کیا ہے۔
 
-First reported by Dawn.
+First reported by Al Jazeera.
 
-#Trump #CyberSecurity #USPolitics #TechOutage #BreakingNews
+#ElSalvador #NayibBukele #WorldNews #Politics
 ```
 
-### Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case  [NORMAL]
-- Poster: اقرار الحسن این سی سی آئی اے کیس میں نامزد، جرم مسترد / Iqrar-ul-Hassan Indicted in NCCIA Case | category courts
-- Alternative headline: Iqrar-ul-Hassan indicted in NCCIA case, pleads not guilty
+### Eight Killed as Russian Missiles Strike Three Kyiv Bridges  [NORMAL]
+- Poster: روس کا بڑا میزائل حملہ، کیف کے تین پل تباہ اور آٹھ افراد ہلاک / Eight Killed as Russian Missiles Hit Kyiv Bridges | category war
+- Alternative headline: Major Russian Air Attack Hits Kyiv Bridges and Leaves Eight Dead
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/iqrar-ul-hassan-indicted-in-nccia-case-pleads-not-guilty | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/iqrar-ul-hassan-indicted-in-nccia-case-pleads-not-guilty
-- Supporting coverage: ARY News, ARYnews.tv
-- Keywords: Iqrar-ul-Hassan indicted, NCCIA case, Awami Raj Party, Karachi court, cyber crime case, Iqrar-ul-Hassan court | hashtags: #IqrarUlHassan #NCCIA #KarachiCourt #PakistanNews #Legal
-- Scheduled: Fri 20 Nov, 02:30 PM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Kyiv bridges, Russia missile attack, Ukraine war, Dnipro River, Crimean Bridge | hashtags: #Kyiv #UkraineWar #Russia #BreakingNews
+- Scheduled: Fri 20 Nov, 03:40 PM PKT
 - Caption:
 ```
-A Karachi court has formally indicted Awami Raj Party chief Iqrar-ul-Hassan in an NCCIA case, with the politician pleading not guilty.
+At least eight people have been killed after Russian ballistic missiles struck three vital bridges across the Dnipro River in Kyiv.
 
-A Judicial Magistrate in Karachi has indicted Awami Raj Party chief Iqrar-ul-Hassan in a case registered by the NCCIA. The accused pleaded not guilty, and the court summoned witnesses for the next hearing on December 9.
+Russia launched a major air attack targeting Kyiv, hitting three vital bridges over the Dnipro River and killing eight people. The strikes followed recent Ukrainian damage to the Crimean Bridge, prompting extensive travel disruptions and closures across the capital.
 
-کراچی کی ایک جوڈیشل مجسٹ্রেট عدالت نے این سی سی آئی اے کے مقدمے میں عوامی راج پارٹی کے سربراہ اقرار الحسن پر فرد جرم عائد کر دی ہے۔ انہوں نے صحت جرم سے انکار کر دیا ہے اور عدالت نے سماعت 9 دسمبر تک ملتوی کر دی ہے۔
+روس کے ایک بڑے ہوائی حملے کے نتیجے میں کیف میں دریائے ڈنیپر پر بنے تین اہم پلوں کو نشانہ بنایا گیا جس سے آٹھ افراد ہلاک ہو گئے۔ ان حملوں سے دارالحکومت میں آمدورفت شدید متاثر ہوئی ہے۔
 
-First reported by ARY News.
+First reported by BBC World.
 
-#IqrarUlHassan #NCCIA #KarachiCourt #PakistanNews #Legal
+#Kyiv #UkraineWar #Russia #BreakingNews
 ```
 
-- Indian outlets blocked this run: 7 items
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
-- [needs_review] normal | Irish court jails man for life over Dublin knife attack that sparked r | Tue 17 Nov, 08:20 AM PKT
-- [needs_review] normal | UK seeks closer ties with EU after Brexit fail | Tue 17 Nov, 08:30 AM PKT
-- [needs_review] normal | Ethiopia Moyale clashes disrupt livelihoods as territorial dispute dee | Tue 17 Nov, 08:40 AM PKT
 - [needs_review] normal | Minister Buledi clarifies remarks on tribal system | Tue 17 Nov, 09:19 AM PKT
 - [needs_review] normal | Four lawyers appointed special ATC judges | Tue 17 Nov, 09:29 AM PKT
 - [needs_review] normal | Punjab to sue Salik over graft claims against Maryam | Tue 17 Nov, 09:39 AM PKT
@@ -344,10 +342,10 @@ First reported by ARY News.
 - [needs_review] normal | Indonesian Daycare Principal Jailed Over Child Abuse | Fri 20 Nov, 07:46 AM PKT
 - [needs_review] normal | Meta Rethinks 2030 Climate Goals Amid AI Energy Surge | Fri 20 Nov, 07:56 AM PKT
 - [published] normal | German Importers Turn Toward Pakistan as Businesses Shift Sourcing Awa | Fri 20 Nov, 08:18 AM PKT
-- [queued] normal | Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unem | Fri 20 Nov, 08:28 AM PKT
-- [queued] normal | Pakistan and Maldives Move to Establish Joint Trade Group to Boost Com | Fri 20 Nov, 08:38 AM PKT
-- [queued] normal | Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Reh | Fri 20 Nov, 08:48 AM PKT
-- [queued] normal | Auto financing boom continues as car loans rise | Fri 20 Nov, 09:21 AM PKT
+- [needs_review] normal | Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unem | Fri 20 Nov, 08:28 AM PKT
+- [needs_review] normal | Pakistan and Maldives Move to Establish Joint Trade Group to Boost Com | Fri 20 Nov, 08:38 AM PKT
+- [needs_review] normal | Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Reh | Fri 20 Nov, 08:48 AM PKT
+- [published] normal | Auto financing boom continues as car loans rise | Fri 20 Nov, 09:21 AM PKT
 - [queued] normal | UK asks YouTube to remove Russell Brand’s video | Fri 20 Nov, 09:31 AM PKT
 - [queued] normal | Asia’s stock markets dive amid AI bubble fears | Fri 20 Nov, 09:41 AM PKT
 - [queued] normal | Trump nominee refuses to call Jan 6 an ‘attack’ | Fri 20 Nov, 09:51 AM PKT
@@ -363,16 +361,22 @@ First reported by ARY News.
 - [queued] normal | NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Launderi | Fri 20 Nov, 02:10 PM PKT
 - [queued] normal | Trump Ousts US Cyber Director After Tech Outages Spark Criticism | Fri 20 Nov, 02:20 PM PKT
 - [queued] normal | Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case | Fri 20 Nov, 02:30 PM PKT
+- [queued] normal | Karachi Man Inspired by Batman Arrested Over Alleged US Data Sale | Fri 20 Nov, 03:10 PM PKT
+- [queued] normal | Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb | Fri 20 Nov, 03:20 PM PKT
+- [queued] normal | El Salvador’s President Bukele Seeks Third Term After Constitutional C | Fri 20 Nov, 03:30 PM PKT
+- [queued] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
 
 ## Publishing this run
-- Published 'German Importers Turn Toward Pakistan as Businesses Shift Sourcing Away From China'.
+- Published 'Auto financing boom continues as car loans rise'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 10424 | output tokens: 4649
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 3 | prompt tokens: 4537 | output tokens: 2305
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 117 column 7 (char 5064)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i

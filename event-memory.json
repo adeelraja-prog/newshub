@@ -87533,7 +87533,702 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ebf51c865e1a73e9ddadcdfa",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T10:05:48+00:00",
+      "last_update": "2026-11-20T10:06:17+00:00",
+      "event": "Pakistan’s resources worth $8-10tr 'at most conservative estimate', says Dar",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "10tr",
+        "conservative",
+        "dar",
+        "dawn",
+        "estimate",
+        "most",
+        "pakistan",
+        "resources",
+        "says",
+        "worth"
+      ],
+      "source_excerpt": "Pakistan’s resources worth $8-10tr 'at most conservative estimate', says Dar Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGRlZ3NOcHNzSFh0djJ5ZEoxcnpuVEVId0RkRzkyUm1tQV9DV0l4YThQSHdCYUN6LXNFSFFxT2RXZkdRVDlwbVZjcFg4Mk5IbUROSlJpQkNrWnRWZXhNV196Ul8tem9ldGVQYmRfXzRuZmJBcER2N1RyQWVvRmJLRm5HcjFFOU1nSHB4amh1bGJ3WDFDLXlmU2NDaFlzNzRKcFZwV29uZDA?oc=5",
+          "published_at": "2026-11-20T10:05:48+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045895/pakistans-resources-worth-8-10tr-at-most-conservative-estimate-says-dar",
+          "published_at": "2026-11-20T10:06:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGRlZ3NOcHNzSFh0djJ5ZEoxcnpuVEVId0RkRzkyUm1tQV9DV0l4YThQSHdCYUN6LXNFSFFxT2RXZkdRVDlwbVZjcFg4Mk5IbUROSlJpQkNrWnRWZXhNV196Ul8tem9ldGVQYmRfXzRuZmJBcER2N1RyQWVvRmJLRm5HcjFFOU1nSHB4amh1bGJ3WDFDLXlmU2NDaFlzNzRKcFZwV29uZDA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4db63a387e2302133a11171d",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T09:54:00+00:00",
+      "last_update": "2026-11-20T10:00:04+00:00",
+      "event": "Russia unleashes retaliatory barrage on Kyiv bridges",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "barrage",
+        "bridge",
+        "bridges",
+        "crimean",
+        "follows",
+        "kyiv",
+        "painful",
+        "pledge",
+        "putin",
+        "response",
+        "retaliatory",
+        "russia",
+        "symbolic",
+        "the",
+        "ukraine",
+        "unleashes"
+      ],
+      "source_excerpt": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+          "published_at": "2026-11-20T09:54:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVTZ2NTYtWVl1UVdWUUEwRXN1LTZTSVUyWTZ3d1VBX2hvLVJWRmxQRmZWenFRcTB2M29aX3ZGTWxteUVpakx3UmgtdzdvUnA1dXVPSnh3T2tXQklCV290V0xGVlU4dHBOaVRPM2I2b2M1U0ViR1U5TmhLSGZTUDFtVzA0RTRHby04UkR1NmhNTWxIdUdZSmVmV2VB0gGfAUFVX3lxTE4yaU5yemNrMVAzTDVYdGtMcFpBZ1BURXZ5U1g2U3R5VlROaUxmdFdvVTVmWGtRaEotQUdndEJQazJSZi12c2xsclh3dHVLLUtud1dmak5HSm5rZVlVaGVRZWVXajNvYURVM0lhYTliYWd5TTBSbVd4RTZweENvMXJ1VUF6V29FVTl3aGhfbWNseE8wX3JPMkkzelVzUENWRQ?oc=5",
+          "published_at": "2026-11-20T10:00:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a9de17f89b623e521320ae53",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T09:16:30+00:00",
+      "last_update": "2026-11-20T09:16:30+00:00",
+      "event": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "140",
+        "2017",
+        "athletes",
+        "athletics",
+        "crisis",
+        "distance",
+        "doping",
+        "growing",
+        "integrity",
+        "kenya",
+        "kenyan",
+        "legacy",
+        "more",
+        "most",
+        "overshadows",
+        "powerhouse",
+        "runners",
+        "since",
+        "suspended",
+        "than",
+        "the",
+        "them",
+        "unit"
+      ],
+      "source_excerpt": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+          "published_at": "2026-11-20T09:16:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c4b99eca461faba26eedf4fa",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T08:56:08+00:00",
+      "last_update": "2026-11-20T08:56:08+00:00",
+      "event": "Russia’s day-long attack on Kyiv damages embassies",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "damages",
+        "day",
+        "embassies",
+        "kyiv",
+        "long",
+        "russia"
+      ],
+      "source_excerpt": "Russia’s day-long attack on Kyiv damages embassies",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
+          "published_at": "2026-11-20T08:56:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "46bf22210e2a93fd6a94f982",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T09:37:59+00:00",
+      "last_update": "2026-11-20T09:37:59+00:00",
+      "event": "White House removes cyber-security chief after series of tech outages",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "been",
+        "cbs",
+        "chief",
+        "confidence",
+        "cyber",
+        "fired",
+        "has",
+        "house",
+        "losing",
+        "miller",
+        "outages",
+        "removes",
+        "reporting",
+        "security",
+        "series",
+        "staff",
+        "stephen",
+        "tech",
+        "the",
+        "white"
+      ],
+      "source_excerpt": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T09:37:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6b5cfd9888cf3590e1ec1509",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T09:44:18+00:00",
+      "last_update": "2026-11-20T09:44:18+00:00",
+      "event": "Ringleader pleads guilty to $100 million US jewellery heist",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "dawn",
+        "guilty",
+        "heist",
+        "jewellery",
+        "million",
+        "pleads",
+        "ringleader"
+      ],
+      "source_excerpt": "Ringleader pleads guilty to $100 million US jewellery heist Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3VMNUVpX1ljV2s1TS1uV0hpQnY1SVVxNlBWM2dVblJ5NEdXZmxsT3p5VFdYeHZGaG56a3d3Y2xSY0s2ai1HQWdQYzl5MEdaNk5NR0hzdDRZTXpkc3djSXZTbXY2bV9BOUR1R3YwTnpHVVdJdzlWZWVmY21DUHRBZ1NSTU9PSEk0bnB2d3oxUXVVbzEyay0w?oc=5",
+          "published_at": "2026-11-20T09:44:18+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045896/ringleader-pleads-guilty-to-100-million-us-jewellery-heist",
+          "published_at": "2026-11-20T09:44:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3VMNUVpX1ljV2s1TS1uV0hpQnY1SVVxNlBWM2dVblJ5NEdXZmxsT3p5VFdYeHZGaG56a3d3Y2xSY0s2ai1HQWdQYzl5MEdaNk5NR0hzdDRZTXpkc3djSXZTbXY2bV9BOUR1R3YwTnpHVVdJdzlWZWVmY21DUHRBZ1NSTU9PSEk0bnB2d3oxUXVVbzEyay0w?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2794aa15a48cb7601af71b21",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T08:46:03+00:00",
+      "last_update": "2026-11-20T08:46:03+00:00",
+      "event": "Pakistan, Türkiye sign mineral, energy cooperation agreements",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreements",
+        "cooperation",
+        "energy",
+        "mineral",
+        "pakistan",
+        "rkiye",
+        "samaa",
+        "sign"
+      ],
+      "source_excerpt": "Pakistan, Türkiye sign mineral, energy cooperation agreements samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzdyN2tncnEyNEdtYUV6bmhrUmtjcDNGSmI0cW9scktEQTVhZDJucE5NR29sem0zNlZlYjNma2huS3Nra2dTemVtcTNvRDE2VHJaSWo3VExBQS1vZERHOHBza3lRQXlfZjV5NXNvUG4yd0lYTVRGOGg1NVE5UFhBS2dJc0djYjdDZ2pMc2dMQlVLOWl0b0E?oc=5",
+          "published_at": "2026-11-20T08:46:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzdyN2tncnEyNEdtYUV6bmhrUmtjcDNGSmI0cW9scktEQTVhZDJucE5NR29sem0zNlZlYjNma2huS3Nra2dTemVtcTNvRDE2VHJaSWo3VExBQS1vZERHOHBza3lRQXlfZjV5NXNvUG4yd0lYTVRGOGg1NVE5UFhBS2dJc0djYjdDZ2pMc2dMQlVLOWl0b0E?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cbfcd2cd691cafadc27844a1",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T08:51:25+00:00",
+      "last_update": "2026-11-20T08:51:25+00:00",
+      "event": "IMF Issues New Directives for Pakistan! Major Economic Instructions Revealed | Breaking News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "breaking",
+        "directives",
+        "dunya",
+        "economic",
+        "for",
+        "imf",
+        "instructions",
+        "issues",
+        "major",
+        "new",
+        "news",
+        "pakistan",
+        "revealed"
+      ],
+      "source_excerpt": "IMF Issues New Directives for Pakistan! Major Economic Instructions Revealed | Breaking News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaE9DQ1dMblNkRFdNdFNad3pBQ2J4QUxtRllsbi1hanVIMmMwM0hVQkFXZkRuQUZudUJ6MElLUF9TUlFGWHNUbGtvX0VYdXVPd1l4RmxoYUlPazFEYm9SaEtfQk1hcnpvTWVKbzRwX3ctN2o5LWdlVXZMWHhsWWttempRNEdxV2FGYWw1MDlGSlZqd3AxQ0J5N1JXLUpVSTJzT0ZwTkM5VE9kOEJnRlg2eDRxU3ZDWjJuVUhPeVJPRzFONHJzMGVzQTJjQjdXSXdJX19LcnF1M251NTdncnJFWQ?oc=5",
+          "published_at": "2026-11-20T08:51:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaE9DQ1dMblNkRFdNdFNad3pBQ2J4QUxtRllsbi1hanVIMmMwM0hVQkFXZkRuQUZudUJ6MElLUF9TUlFGWHNUbGtvX0VYdXVPd1l4RmxoYUlPazFEYm9SaEtfQk1hcnpvTWVKbzRwX3ctN2o5LWdlVXZMWHhsWWttempRNEdxV2FGYWw1MDlGSlZqd3AxQ0J5N1JXLUpVSTJzT0ZwTkM5VE9kOEJnRlg2eDRxU3ZDWjJuVUhPeVJPRzFONHJzMGVzQTJjQjdXSXdJX19LcnF1M251NTdncnJFWQ?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "67d2d7e53c80c19dcbdb5635",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T08:30:34+00:00",
+      "last_update": "2026-11-20T08:30:34+00:00",
+      "event": "PRA warns hotels, restaurants against refusing digital payments in Punjab",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "digital",
+        "hotels",
+        "payments",
+        "pra",
+        "punjab",
+        "refusing",
+        "restaurants",
+        "warns"
+      ],
+      "source_excerpt": "PRA warns hotels, restaurants against refusing digital payments in Punjab",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pra-warns-hotels-restaurants-against-refusing-digital-payments-in-punjab",
+          "published_at": "2026-11-20T08:30:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pra-warns-hotels-restaurants-against-refusing-digital-payments-in-punjab",
+        "publisher_url": "https://arynews.tv/pra-warns-hotels-restaurants-against-refusing-digital-payments-in-punjab",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "666b2693c77b8ac3e474b7c1",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T08:32:31+00:00",
+      "last_update": "2026-11-20T08:32:31+00:00",
+      "event": "DPM Dar says Pakistan’s natural resources could be worth up to $10 trillion",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "could",
+        "dar",
+        "dpm",
+        "express",
+        "natural",
+        "pakistan",
+        "resources",
+        "says",
+        "the",
+        "tribune",
+        "trillion",
+        "worth"
+      ],
+      "source_excerpt": "DPM Dar says Pakistan’s natural resources could be worth up to $10 trillion The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX044UjRCcU5ONUdzMmFTMVZXR3k1R1RTTEd6TTlJY2dBbzBaWDlRSWNlVnFLUGJsSDluZENJUGVvbC1ialk5VFhubExQRC1aSGxaSlo3Tm8xYXVfSy0wbl9HTm5ZNlNBdkM3RVVYdjVXSTNjZkdva2VYME9sZkFpX21JWlpya2dKMWZfVThvaUZMU1F0MlNFVUZHMlc4VXlrRmpMWnlwMlUwNFNuWktV?oc=5",
+          "published_at": "2026-11-20T08:32:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX044UjRCcU5ONUdzMmFTMVZXR3k1R1RTTEd6TTlJY2dBbzBaWDlRSWNlVnFLUGJsSDluZENJUGVvbC1ialk5VFhubExQRC1aSGxaSlo3Tm8xYXVfSy0wbl9HTm5ZNlNBdkM3RVVYdjVXSTNjZkdva2VYME9sZkFpX21JWlpya2dKMWZfVThvaUZMU1F0MlNFVUZHMlc4VXlrRmpMWnlwMlUwNFNuWktV?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f7727d0bf9a7d18d763c825f",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T09:56:46+00:00",
+      "last_update": "2026-11-20T09:56:46+00:00",
+      "event": "America Day: US performers highlight 22nd day of World Culture Festival in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1196180",
+        "22nd",
+        "america",
+        "com",
+        "culture",
+        "dawn",
+        "day",
+        "festival",
+        "highlight",
+        "https",
+        "images",
+        "karachi",
+        "news",
+        "performers",
+        "world"
+      ],
+      "source_excerpt": "https://images.dawn.com/news/1196180/america-day-us-performers-highlight-22nd-day-of-world-culture-festival-in-karachi",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045904/america-day-us-performers-highlight-22nd-day-of-world-culture-festival-in-karachi",
+          "published_at": "2026-11-20T09:56:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045904/america-day-us-performers-highlight-22nd-day-of-world-culture-festival-in-karachi",
+        "publisher_url": "https://www.dawn.com/news/2045904/america-day-us-performers-highlight-22nd-day-of-world-culture-festival-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b533988aab4075eb6f43373f",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T09:48:05+00:00",
+      "last_update": "2026-11-20T09:48:05+00:00",
+      "event": "Wheat crisis deepens in Karachi as flour mills threaten shutdown",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "crisis",
+        "deepens",
+        "flour",
+        "karachi",
+        "mills",
+        "shutdown",
+        "threaten",
+        "wheat"
+      ],
+      "source_excerpt": "Wheat crisis deepens in Karachi as flour mills threaten shutdown",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/wheat-crisis-deepens-in-karachi-as-flour-mills-threaten-shutdown",
+          "published_at": "2026-11-20T09:48:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/wheat-crisis-deepens-in-karachi-as-flour-mills-threaten-shutdown",
+        "publisher_url": "https://arynews.tv/wheat-crisis-deepens-in-karachi-as-flour-mills-threaten-shutdown",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ad6f6c4d4d2674669e62550d",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T09:09:35+00:00",
+      "last_update": "2026-11-20T09:09:35+00:00",
+      "event": "Babar calls for patience as Pakistan’s young guns deliver against Sri Lanka",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "babar",
+        "calls",
+        "deliver",
+        "express",
+        "for",
+        "guns",
+        "lanka",
+        "pakistan",
+        "patience",
+        "sri",
+        "the",
+        "tribune",
+        "young"
+      ],
+      "source_excerpt": "Babar calls for patience as Pakistan’s young guns deliver against Sri Lanka The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2ctNTlibFM1Ym9oUkl1cktNYTk1M09WRWluLXRhZlJnS1hxOUNFQk1Ic0NRcjNBMG1xQmZsRnlHLTlHdjB0b3NRVkhGeUNvRTFRb19sU3psSDVuSTc2LUptYmhZUm45UHB3QVc0TEJPZG4yOC1sTWpkbUx0bE5VRzctZmFCRjFrOUp4ZTdmSlNPdzJvUnVWb185dkJzQm1NSGdadXIzXzJISHdzbWdWaNIBuAFBVV95cUxQbnZtdF9pZHZ6MkoxX0oxYUdWNUJ2dnFSdDFuTTN6NWZQc0E4ajNuNzBNOXplY01BYnRHMGJMOEZCenJ4ZS1jS3BFQXBmclpIdGhjSzFLM1laX0h6aUZHZ29peHlmTXFoUEVqc1Jmd1BNbThsa0lJcm5iZlRaQlhiVGFaeXJaVkZ4QTlzNUZoSDU5UzZ5WGJHWE1oTy1tVm5iNnVHZVR1Sk5rY1Z2VU1YREVydGxMOTY5?oc=5",
+          "published_at": "2026-11-20T09:09:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2ctNTlibFM1Ym9oUkl1cktNYTk1M09WRWluLXRhZlJnS1hxOUNFQk1Ic0NRcjNBMG1xQmZsRnlHLTlHdjB0b3NRVkhGeUNvRTFRb19sU3psSDVuSTc2LUptYmhZUm45UHB3QVc0TEJPZG4yOC1sTWpkbUx0bE5VRzctZmFCRjFrOUp4ZTdmSlNPdzJvUnVWb185dkJzQm1NSGdadXIzXzJISHdzbWdWaNIBuAFBVV95cUxQbnZtdF9pZHZ6MkoxX0oxYUdWNUJ2dnFSdDFuTTN6NWZQc0E4ajNuNzBNOXplY01BYnRHMGJMOEZCenJ4ZS1jS3BFQXBmclpIdGhjSzFLM1laX0h6aUZHZ29peHlmTXFoUEVqc1Jmd1BNbThsa0lJcm5iZlRaQlhiVGFaeXJaVkZ4QTlzNUZoSDU5UzZ5WGJHWE1oTy1tVm5iNnVHZVR1Sk5rY1Z2VU1YREVydGxMOTY5?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1de46a99a22bc46b1b700467",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T09:25:04+00:00",
+      "last_update": "2026-11-20T09:25:04+00:00",
+      "event": "100,000 Pakistanis to get jobs abroad. Find out how",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "100",
+        "abroad",
+        "find",
+        "get",
+        "how",
+        "jobs",
+        "out",
+        "pakistanis",
+        "samaa"
+      ],
+      "source_excerpt": "100,000 Pakistanis to get jobs abroad. Find out how samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rOHpqdHBKY20yWkIwa1F1TDI2UGxGTzhWeFZFZFc1Q1ZOVl9KQkxPZmwydzByQWxaWWlJN1JVXzhidUJrU1lBeFFlb3RmdHRGd1RZMUtUeGFldnUzSEZCNU10a3VGOEZqTUthMDBZZWRUeVM2Z0EyaFBFWjZpdw?oc=5",
+          "published_at": "2026-11-20T09:25:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rOHpqdHBKY20yWkIwa1F1TDI2UGxGTzhWeFZFZFc1Q1ZOVl9KQkxPZmwydzByQWxaWWlJN1JVXzhidUJrU1lBeFFlb3RmdHRGd1RZMUtUeGFldnUzSEZCNU10a3VGOEZqTUthMDBZZWRUeVM2Z0EyaFBFWjZpdw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "57c6029fdc45c9318bb88f00",
+      "remembered_at": "2026-11-20T10:10:43.061208+00:00",
+      "event_date": "2026-11-20T09:46:23+00:00",
+      "last_update": "2026-11-20T09:46:23+00:00",
+      "event": "Punjab MPA calls for inclusion of children with special needs",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "calls",
+        "children",
+        "for",
+        "inclusion",
+        "mpa",
+        "needs",
+        "punjab",
+        "samaa",
+        "special",
+        "with"
+      ],
+      "source_excerpt": "Punjab MPA calls for inclusion of children with special needs samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHg0dU1JaWVXNWgzZHhRbEVhZmdVbTVHMmhaSFJFdi1aQ3dkNlJick1iMFJ0ZWVHWEJkUnBlT3RQdTJnSUNnRC0yT2FLaGJ6THczZGlrQUhwTjdNOWgtd0hjczB0NWotakxPRXdNUE5ORmU5YklNdUFhVHl4Ulkxa2hLaTJHaWFiM2RLWEtKUnM?oc=5",
+          "published_at": "2026-11-20T09:46:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHg0dU1JaWVXNWgzZHhRbEVhZmdVbTVHMmhaSFJFdi1aQ3dkNlJick1iMFJ0ZWVHWEJkUnBlT3RQdTJnSUNnRC0yT2FLaGJ6THczZGlrQUhwTjdNOWgtd0hjczB0NWotakxPRXdNUE5ORmU5YklNdUFhVHl4Ulkxa2hLaTJHaWFiM2RLWEtKUnM?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T09:00:38.463210+00:00"
+  "updated_at": "2026-11-20T10:10:43.061208+00:00"
 }
