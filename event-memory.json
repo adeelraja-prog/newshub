@@ -89534,7 +89534,866 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "082cebe581dd98ccc51e68f2",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T11:30:38+00:00",
+      "last_update": "2026-11-20T13:41:07+00:00",
+      "event": "Supreme Court of Pakistan receives international ISO certification",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "certification",
+        "court",
+        "international",
+        "iso",
+        "pakistan",
+        "receives",
+        "samaa",
+        "supreme"
+      ],
+      "source_excerpt": "Supreme Court of Pakistan receives international ISO certification samaa tv",
+      "sources": [
+        {
+          "name": "X",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54UWRMTVVZbjhsS2owZzVKS0VsTzJyZWRSZ2xkOE42Z05EQlB2YW1LU0t5NFNxcmtHaFNfdlZTTTB3emxyY19rWUJCTWFrU2htd01KbGdRT0J4RVlQM0lLVS13MA?oc=5",
+          "published_at": "2026-11-20T11:30:38+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlpsLWRTWldramZkRU1zNUV6MlNpaEktMWJ1aDhoN2k2Tl9qbmtSN0tFdjhQUFZEWTJ2ZTRGdzZacmpLMnRaVTgyQy1sTFIyQ2hxbXgxUjFmenlFOFdETzF0ZUFlVFlhRl9aN3NYUlpoTEY5YkhYSGp1R2cwaEd1MWF3NlJ0NEVxdXJ2N2kxdjNCanduYnJ6TXp2Qm9jaDBlTlBfcl9PWlpBdVRlcWJtbHd3?oc=5",
+          "published_at": "2026-11-20T13:41:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlpsLWRTWldramZkRU1zNUV6MlNpaEktMWJ1aDhoN2k2Tl9qbmtSN0tFdjhQUFZEWTJ2ZTRGdzZacmpLMnRaVTgyQy1sTFIyQ2hxbXgxUjFmenlFOFdETzF0ZUFlVFlhRl9aN3NYUlpoTEY5YkhYSGp1R2cwaEd1MWF3NlJ0NEVxdXJ2N2kxdjNCanduYnJ6TXp2Qm9jaDBlTlBfcl9PWlpBdVRlcWJtbHd3?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5ea8b5792a95757aad6b7f31",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T12:40:52+00:00",
+      "last_update": "2026-11-20T12:44:58+00:00",
+      "event": "Spain face France, England take on Norway in Nations League quarters",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "england",
+        "face",
+        "france",
+        "league",
+        "nations",
+        "norway",
+        "quarters",
+        "spain",
+        "take"
+      ],
+      "source_excerpt": "Spain face France, England take on Norway in Nations League quarters",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/spain-face-france-england-take-on-norway-in-nations-league-quarters",
+          "published_at": "2026-11-20T12:40:52+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
+          "published_at": "2026-11-20T12:44:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/spain-face-france-england-take-on-norway-in-nations-league-quarters",
+        "publisher_url": "https://arynews.tv/spain-face-france-england-take-on-norway-in-nations-league-quarters",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5cc7a9917fa84fa3b9ae619f",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T13:20:02+00:00",
+      "last_update": "2026-11-20T13:20:02+00:00",
+      "event": "Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ary",
+        "attacks",
+        "backing",
+        "condemns",
+        "for",
+        "houthi",
+        "news",
+        "pakistan",
+        "reaffirms",
+        "riyadh",
+        "saudi",
+        "sovereignty"
+      ],
+      "source_excerpt": "Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty ARY News Pakistan",
+      "sources": [
+        {
+          "name": "ARY News Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFRQ3lKaDRuZEduakZMS3A1aFhSbGk2MHBHOUFld1BoQWlaa1h2ME42Qko5ZEdia29XYkFoS191WVhrazB0UlAwOGR3bGxOWGQ0YVRFWndmcjA2ZWpjOWx6eUgxREhlUmNtY280QjkwaUJLWGxQN0hKMElxNWlHc2lhSmJJQmdzZVhWMWJpV3pub3pVaVgyQi13NnhnSWhDd1NN?oc=5",
+          "published_at": "2026-11-20T13:20:02+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-condemns-houthi-attacks-on-riyadh-reaffirms-backing-for-saudi-sovereignty",
+          "published_at": "2026-11-20T13:20:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News Pakistan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFRQ3lKaDRuZEduakZMS3A1aFhSbGk2MHBHOUFld1BoQWlaa1h2ME42Qko5ZEdia29XYkFoS191WVhrazB0UlAwOGR3bGxOWGQ0YVRFWndmcjA2ZWpjOWx6eUgxREhlUmNtY280QjkwaUJLWGxQN0hKMElxNWlHc2lhSmJJQmdzZVhWMWJpV3pub3pVaVgyQi13NnhnSWhDd1NN?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1f9e4e6972a9a18552ea72e6",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T13:27:37+00:00",
+      "last_update": "2026-11-20T13:28:17+00:00",
+      "event": "Shaheens off to winning start in Asia Cup Rising Stars 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "asia",
+        "cup",
+        "off",
+        "rising",
+        "samaa",
+        "shaheens",
+        "stars",
+        "start",
+        "winning"
+      ],
+      "source_excerpt": "Shaheens off to winning start in Asia Cup Rising Stars 2026 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDB4MzBfZjdMX2JDNzh5b1NOR3pxUzd1aWd4UXFfei0tX0FYWndwbG5LYjdvSkI5Q3VKQXFZNzBFR2lqaVZ0VXo0QkRNQXNscjNHT1RSd21ySm9GRG1OSE9KTUw5OGw4em9wOURyLWk2YlZMZ1Jxc0RSc2NHSUh4Y3c4cFA2TV8xSHJYWVl6VE9FTW5vZEE?oc=5",
+          "published_at": "2026-11-20T13:27:37+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlZmall3VWZCZUlYS2pYNzl5Y2hnM216N1pnMFJoTlEzUWxRWnF2c3BmMmY3azNZa2tvNnRkYVVUbklTd1FHMjlnb0hzREVCaDZ1eHlhRHdNQUlmazlHNUxhbnRqa3FjakhXeldZZXMtSzYxR2R0LW92eXpJanN1TjJQVHlZQlJQdnp5QmRJdS1NVTZZdGt1czh5UEpaalJYWm9JN1RWblA?oc=5",
+          "published_at": "2026-11-20T13:28:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDB4MzBfZjdMX2JDNzh5b1NOR3pxUzd1aWd4UXFfei0tX0FYWndwbG5LYjdvSkI5Q3VKQXFZNzBFR2lqaVZ0VXo0QkRNQXNscjNHT1RSd21ySm9GRG1OSE9KTUw5OGw4em9wOURyLWk2YlZMZ1Jxc0RSc2NHSUh4Y3c4cFA2TV8xSHJYWVl6VE9FTW5vZEE?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c236d2a6334d3f3222e6331",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T12:19:24+00:00",
+      "last_update": "2026-11-20T12:20:38+00:00",
+      "event": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blockade",
+        "boarded",
+        "break",
+        "bypassing",
+        "can",
+        "centcom",
+        "could",
+        "declares",
+        "even",
+        "forces",
+        "iran",
+        "seized",
+        "ship",
+        "stopped",
+        "targets",
+        "tehran",
+        "the",
+        "transfers",
+        "vessels"
+      ],
+      "source_excerpt": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+          "published_at": "2026-11-20T12:19:24+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUpfdWFVN1RtcXA2YUJqWXhOUGRsdnY3VGR1SnJBX20zUExFTnA5c3RYVWhudXktd1RmQm95c2dpUE04QXdiU2dIb3YxakQzeVctc1c5cDZRZlZWLThzSmFQVnZXelBjaF9BZU1tZUJScGdXWGZXdS05aHFoZHdBbzhMZVpncDgyeTFvUm1NRWxoYkRONHhjVVJ5NjZIeEZuZHFtREVtSHVuTllranJBY9IBtgFBVV95cUxQUDQwdHJ3VzRYcEZhNjNkdGM2X1VtRy10R1RRVmR1NEt1dFU5bzRvZGJiZXo5bjVENmdjUlgzLTJyVm1ZdUdORF82d0hSRTVvcURLeTA1UGJiUFRrbFJUWmliOUNzRXdCb3hpNDNvMm1RWF82ZWg1LW5WeFZVbzlGQm4zRmp1UWJWQzZFNzNVS2haaGpnQWsteXNqTHRaQ1ZLNGRXMWh5WUhVOVNPQzV1RnNyaTJ2Zw?oc=5",
+          "published_at": "2026-11-20T12:20:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef9be0e862e772bcdb18b07e",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T13:41:49+00:00",
+      "last_update": "2026-11-20T13:41:49+00:00",
+      "event": "Myanmar, China object to ‘unfair’ ICJ genocide ruling",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "china",
+        "court",
+        "decision",
+        "genocide",
+        "government",
+        "icj",
+        "myanmar",
+        "not",
+        "noted",
+        "object",
+        "ruling",
+        "said",
+        "spokesperson",
+        "that",
+        "the",
+        "unanimous",
+        "unfair",
+        "unjust",
+        "was"
+      ],
+      "source_excerpt": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
+          "published_at": "2026-11-20T13:41:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "04469916cfde6261f0ef4533",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T13:23:53+00:00",
+      "last_update": "2026-11-20T13:23:53+00:00",
+      "event": "Poland hit by at least one Russian missile, says Polish govt",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "govt",
+        "hit",
+        "least",
+        "missile",
+        "one",
+        "poland",
+        "polish",
+        "russian",
+        "says"
+      ],
+      "source_excerpt": "Poland hit by at least one Russian missile, says Polish govt",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
+          "published_at": "2026-11-20T13:23:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "14ef54d278255c04c037ff82",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T13:17:00+00:00",
+      "last_update": "2026-11-20T13:20:57+00:00",
+      "event": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "are",
+        "assume",
+        "backed",
+        "control",
+        "deal",
+        "deploy",
+        "due",
+        "established",
+        "federal",
+        "forces",
+        "group",
+        "headquarters",
+        "iran",
+        "iraq",
+        "iraqi",
+        "jurf",
+        "newly",
+        "police",
+        "sakhar",
+        "town",
+        "with"
+      ],
+      "source_excerpt": "Iraq's Federal Police are due to assume control of town's newly established control headquarters.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
+          "published_at": "2026-11-20T13:17:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDdELUI3RVJITHJubkdreVZyVEVNSGFjV0hZRnZ6WlMzRG03NXBOclVuaktKX2ZHTVBNSEJXeUpmOE13ejhxdE1WUXQ3bl9VckVBbkhBdUt2Y1JoLVpWSEtIQmNMcEpOY0QwTlFqdFhYTEt6bDh2RWdfelhQcWFsdEpYY1BHVVgtUXdCQ29jWGdQVEx4TlAwdWRMZW13bElkaFVtSVJMZGNzbXk5anBGSWxaQdIBuAFBVV95cUxPd1dodnduMjZCVVl6VWFCOElnZWRTeFpEbjBhSmlVWkFVeDR2M2pEVkNzOGxTYmVtcWp5OWxyX2M2OTRyUG1xaGsyTlNxZWV3VE1Sb2xrWFNzLTU0RnpGQXR1ZHZrTzRfYkdBdFZRS1BSWHkxeUNUdV9UUG1kQjFFTEdIbEs0TUEyZzN3YVFreG1nQVRkZVpUQWN1SVh5UHpXeDJuZnJCcXB5dzktZFg4TWZ3QU1jNVVG?oc=5",
+          "published_at": "2026-11-20T13:20:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a3a41992213499b41b4d5ed5",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T12:46:15+00:00",
+      "last_update": "2026-11-20T12:46:15+00:00",
+      "event": "Brexit debate returns as UK PM seeks closer EU ties",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "brexit",
+        "closer",
+        "debate",
+        "returns",
+        "seeks",
+        "ties"
+      ],
+      "source_excerpt": "Brexit debate returns as UK PM seeks closer EU ties",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss",
+          "published_at": "2026-11-20T12:46:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "784c6a041460c9525d3a665a",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T12:26:29+00:00",
+      "last_update": "2026-11-20T12:26:29+00:00",
+      "event": "BaddyDeadpool: The protester blending humour with activism",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activism",
+        "and",
+        "baddydeadpool",
+        "between",
+        "blending",
+        "dance",
+        "demonstrators",
+        "ease",
+        "french",
+        "humour",
+        "jazeera",
+        "police",
+        "protester",
+        "spoke",
+        "tensions",
+        "the",
+        "uses",
+        "who",
+        "with"
+      ],
+      "source_excerpt": "Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
+          "published_at": "2026-11-20T12:26:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "734df5880ec55350c3ae877d",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T12:56:48+00:00",
+      "last_update": "2026-11-20T12:56:48+00:00",
+      "event": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allies",
+        "and",
+        "been",
+        "but",
+        "damage",
+        "described",
+        "exercise",
+        "from",
+        "has",
+        "hits",
+        "hold",
+        "hurt",
+        "incident",
+        "military",
+        "missile",
+        "moscow",
+        "nobody",
+        "poland",
+        "provocation",
+        "reported",
+        "russian",
+        "says",
+        "the",
+        "tusk",
+        "ukraine",
+        "warsaw",
+        "was"
+      ],
+      "source_excerpt": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T12:56:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d3f01b7da297469ebe446a54",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T11:01:51+00:00",
+      "last_update": "2026-11-20T11:03:45+00:00",
+      "event": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "analysts",
+        "article",
+        "attack",
+        "credulity",
+        "for",
+        "inclusion",
+        "kushner",
+        "like",
+        "member",
+        "nato",
+        "one",
+        "pact",
+        "russia",
+        "say",
+        "says",
+        "security",
+        "stretches",
+        "ukraine",
+        "with"
+      ],
+      "source_excerpt": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+          "published_at": "2026-11-20T11:01:51+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ1lyY1VFay1BNldrQUJna2IwdTNyNS1GSUZyZjJXakRBMVhuak5OVHJQQ0hEUWFCYm14UWFFXzM2dHNILU12cElSTWtPSlpQaVpqWVg3cXZlUXZldVFyRTFjUy03LXhJMHdvcjBsZzVvZkp6ZjBzRENOamZMUjR3QlJIVFpqbFlldmNJM2F5VTNTbk5vQlJuMkpOSkRTWXZEV1FtYUFmVGlBd3hTbGhBU9IBtgFBVV95cUxORU5FaGRhQjhSRGQ2dE9temlVRDJ1cEk1MGQxeTRieWhlNUpWOHkwUnFjUTdSS0VHdnlRUm1UV1drU0VRUDBpQThLVW4wczVCYW81ajhmR0I5RjVKaWN3dGtaSWp6d0tKUE1PTDBsZVM3OUc1S25hODRZSzRkQ1d4RU5pbUpoVkttQk9tMVh1VW1QM21FQXhhX3V2Vk1Ea2RXNW82RzNlWTZZSHc1al9tcEg2V1hTZw?oc=5",
+          "published_at": "2026-11-20T11:03:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4095055c08b0d4a87242f999",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T13:04:53+00:00",
+      "last_update": "2026-11-20T13:04:53+00:00",
+      "event": "Short-term inflation reaches 10.41pc on costly flour",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "41pc",
+        "costly",
+        "dawn",
+        "flour",
+        "inflation",
+        "reaches",
+        "short",
+        "term"
+      ],
+      "source_excerpt": "Short-term inflation reaches 10.41pc on costly flour Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWlzTXNOYTBCZEFCeEFYdUNkNDVRcTBLT1BXZGlPcGdmTzAteWNDRmQ4SjRETjZLSG5objdXRk9NV29YSG9leTl4SE01VGJzakRGOTNrUUUwVy03UFNlaDhoSUg3M2tpQ3ZrOWlHYmszcWRVcEV5T2o0anZEemJLY0FabUN6TEVHSi1PeXV3?oc=5",
+          "published_at": "2026-11-20T13:04:53+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045919/short-term-inflation-reaches-1041pc-on-costly-flour",
+          "published_at": "2026-11-20T13:04:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWlzTXNOYTBCZEFCeEFYdUNkNDVRcTBLT1BXZGlPcGdmTzAteWNDRmQ4SjRETjZLSG5objdXRk9NV29YSG9leTl4SE01VGJzakRGOTNrUUUwVy03UFNlaDhoSUg3M2tpQ3ZrOWlHYmszcWRVcEV5T2o0anZEemJLY0FabUN6TEVHSi1PeXV3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4095be3c29589c51b201b318",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T12:58:20+00:00",
+      "last_update": "2026-11-20T12:58:20+00:00",
+      "event": "Bilawal wants PM Shehbaz to become first premier to complete 5-year term",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1947",
+        "addressing",
+        "become",
+        "being",
+        "bhutto",
+        "bilawal",
+        "came",
+        "chairman",
+        "complete",
+        "completed",
+        "country",
+        "elected",
+        "event",
+        "ever",
+        "first",
+        "five",
+        "friday",
+        "has",
+        "into",
+        "kar",
+        "minister",
+        "office",
+        "ppp",
+        "premier",
+        "prime",
+        "said",
+        "sharif",
+        "shehbaz",
+        "since",
+        "term",
+        "that",
+        "the",
+        "their",
+        "wanted",
+        "wants",
+        "year",
+        "zardari"
+      ],
+      "source_excerpt": "PPP Chairman Bilawal Bhutto-Zardari said on Friday that he wanted Prime Minister Shehbaz Sharif to become the first premier to complete a five-year term in office. Since the country came into being in 1947, no elected prime minister has ever completed their five-year term. Addressing an event in Kar",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045911/bilawal-wants-pm-shehbaz-to-become-first-premier-to-complete-5-year-term",
+          "published_at": "2026-11-20T12:58:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045911/bilawal-wants-pm-shehbaz-to-become-first-premier-to-complete-5-year-term",
+        "publisher_url": "https://www.dawn.com/news/2045911/bilawal-wants-pm-shehbaz-to-become-first-premier-to-complete-5-year-term",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fb4f026f41df92a640a4b362",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T12:57:09+00:00",
+      "last_update": "2026-11-20T12:57:09+00:00",
+      "event": "Editorial: How will Punjab CM Maryam's proposed panchayat framework ensure better results in settling disputes?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045828",
+        "better",
+        "com",
+        "dawn",
+        "disputes",
+        "editorial",
+        "ensure",
+        "framework",
+        "how",
+        "https",
+        "maryam",
+        "news",
+        "panchayat",
+        "proposed",
+        "punjab",
+        "results",
+        "settling",
+        "will",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045828/settling-disputes",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045920/editorial-how-will-punjab-cm-maryams-proposed-panchayat-framework-ensure-better-results-in-settling-disputes",
+          "published_at": "2026-11-20T12:57:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045920/editorial-how-will-punjab-cm-maryams-proposed-panchayat-framework-ensure-better-results-in-settling-disputes",
+        "publisher_url": "https://www.dawn.com/news/2045920/editorial-how-will-punjab-cm-maryams-proposed-panchayat-framework-ensure-better-results-in-settling-disputes",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5a888e4491384c097008872b",
+      "remembered_at": "2026-11-20T13:48:28.995951+00:00",
+      "event_date": "2026-11-20T12:30:00+00:00",
+      "last_update": "2026-11-20T12:30:00+00:00",
+      "event": "Pakistan's 24 lost WTC points expose a problem that could haunt them in future",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "bowlers",
+        "celebrate",
+        "could",
+        "during",
+        "encouragement",
+        "expose",
+        "for",
+        "future",
+        "has",
+        "haunt",
+        "instagram",
+        "its",
+        "karachi",
+        "lanka",
+        "lost",
+        "match",
+        "much",
+        "needed",
+        "offered",
+        "over",
+        "pakistan",
+        "points",
+        "problem",
+        "rawalpindi",
+        "recent",
+        "rediscover",
+        "second",
+        "series",
+        "some",
+        "sri",
+        "struggling",
+        "team",
+        "test",
+        "that",
+        "the",
+        "them",
+        "therealpcb",
+        "victory",
+        "wicket",
+        "wtc"
+      ],
+      "source_excerpt": "Pakistan bowlers celebrate a wicket during match against Sri Lanka in the second Test in Rawalpindi. — Instagram@therealpcb KARACHI: Pakistan's recent Test series victory over Sri Lanka has offered some much-needed encouragement for a team struggling to rediscover its...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691929-pakistans-24-lost-wtc-points-expose-a-problem-that-could-haunt-them-in-future",
+          "published_at": "2026-11-20T12:30:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHdQVURpZUFtaVAwT19hZFFYOG9ydzd4bkVMQXE3a3BpcFFnb2pxV3hRRGxvWkdMM0NkcFo2U3lHRDlPZkkxSEdvc3h0Ujg3QzlaNnVzOXpuUHdLbEFNZG1BVS1VUEEtUTl0TllSOVI1RDY3VnhkMUlQUmhEYTlRT0c5N2pONkthZy1jdzBfb3U0dVplUGNrZmtoX1ZsY2d2dWp4RTZoR3FaNG12Skdn?oc=5",
+          "published_at": "2026-11-20T12:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691929-pakistans-24-lost-wtc-points-expose-a-problem-that-could-haunt-them-in-future",
+        "publisher_url": "https://www.geo.tv/latest/691929-pakistans-24-lost-wtc-points-expose-a-problem-that-could-haunt-them-in-future",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T12:28:01.753440+00:00"
+  "updated_at": "2026-11-20T13:48:28.995951+00:00"
 }

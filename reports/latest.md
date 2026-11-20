@@ -1,152 +1,145 @@
-# News Hub report - Fri 20 Nov, 05:28 PM PKT
+# News Hub report - Fri 20 Nov, 06:48 PM PKT
 
 ## Collection
-- New items this run: 147 | items in rolling pool: 718
-- Unique story clusters: 612 (duplicates merged: 106)
-- Clusters dropped as already published/queued: 21; unchanged since last analysis: 15
-- Items per outlet: UrduPoint 57, Geo News 11, ProPakistani 10, TechJuice 7, ARY News 6, Al Jazeera 6, Wired 5, samaa tv 4, Jang Urdu 4, Dawn 3, The Current 3, The Friday Times 2
+- New items this run: 159 | items in rolling pool: 805
+- Unique story clusters: 689 (duplicates merged: 116)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 11
+- Items per outlet: UrduPoint 69, Geo News 15, Al Jazeera 10, ProPakistani 10, samaa tv 9, ARY News 6, TechJuice 5, Dawn 3, Wired 3, Dawn Pakistan 2, Dawn Latest 2, The Guardian 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 2 | first-run seeded: 0
-- Adeel Raja: Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | https://www.youtube.com/watch?v=QauN62e1mis
-- Adeel Raja: SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | https://www.youtube.com/watch?v=NdEDGKfpqx8
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Bank of Punjab wins international award for SME financing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Abbas leaves Tongue behind to become leading Test wicket-taker in 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold prices plunge by Rs15,400/ tola in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ex-federal minister Liaquat Abbas Bhatti strangled to death at his house: Police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Afghanistan not invited to ECO moot as Islamabad does not recognise Kabul regime: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Supreme Court of Pakistan receives international ISO certification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain face France, England take on Norway in Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Bank of Punjab wins international award for SME financing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Abbas leaves Tongue behind to become leading Test wicket-taker in 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold prices plunge by Rs15,400/ tola in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ex-federal minister Liaquat Abbas Bhatti strangled to death at his house: Police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Afghanistan not invited to ECO moot as Islamabad does not recognise Kabul regime: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Supreme Court of Pakistan receives international ISO certification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain face France, England take on Norway in Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Bank of Punjab wins international award for SME financing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Abbas leaves Tongue behind to become leading Test wicket-taker in 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold prices plunge by Rs15,400/ tola in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ex-federal minister Liaquat Abbas Bhatti strangled to death at his house: Police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Afghanistan not invited to ECO moot as Islamabad does not recognise Kabul regime: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Supreme Court of Pakistan receives international ISO certification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain face France, England take on Norway in Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 2 | failed: 2 | malformed/partial: 2
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizabad Home  [NORMAL]
-- Poster: سابق وفতিক وزیر لیاقت عباس بھٹی گھر میں مردہ پائے گئے / Ex-Federal Minister Liaquat Abbas Bhatti Murdered at Home | category crime
-- Alternative headline: Police Register Murder Case Against Guards After Ex-Minister Found Dead
+### Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling  [NORMAL]
+- Poster: میانমার اور چین کا آئی سی جے کے نسل کشی کے فیصلے پر اعتراض / Myanmar and China Object to ICJ Ruling | category politics
+- Alternative headline: Myanmar Government Rejects Non-Unanimous ICJ Genocide Decision
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: ICJ ruling, Myanmar, China, genocide, Rohingya, international court | hashtags: #ICJ #Myanmar #China #GenocideRuling #Rohingya
+- Scheduled: Fri 20 Nov, 06:48 PM PKT
+- Caption:
+```
+Myanmar and China have strongly criticized the International Court of Justice's recent ruling, calling the decision unjust and highlighting its lack of unanimity.
+
+A Myanmar government spokesperson has criticized the International Court of Justice's genocide ruling, describing the decision as unjust and pointing out that the verdict was not unanimous. China has also voiced objections against the ruling.
+
+میانমার کے حکومت کے ترجمان نے عالمی عدالت انصاف کے نسل کشی کے فیصلے کو غیر منصفانہ قرار دیتے ہوئے اس بات پر زور دیا ہے کہ عدالت کا فیصلہ متفقہ نہیں تھا۔ چین نے بھی اس فیصلے پر اعتراض ظاہر کیا ہے۔
+
+According to Al Jazeera
+
+#ICJ #Myanmar #China #GenocideRuling #Rohingya
+```
+
+### CDF Asim Munir Vows to Eradicate Terrorism in KP  [NORMAL]
+- Poster: آرمی چیف فیلڈ مارشل عاصم منیر کا کے پی میں دہشتگردی کے خاتمے کا عزم / CDF Munir Vows to Eliminate Terrorism in KP | category security
+- Alternative headline: Army Chief Reaffirms Resolve to Secure Khyber Pakhtunkhwa
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/liaquat-abbas-bhatti-strangled-to-death-at-his-house-police | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/liaquat-abbas-bhatti-strangled-to-death-at-his-house-police
-- Supporting coverage: ARY News
-- Keywords: Liaquat Abbas Bhatti, Hafizabad police, murder case, former federal minister, FIR, security guards | hashtags: #Hafizabad #BreakingNews #PakistanPolice #LiaquatAbbasBhatti #CrimeNews
-- Scheduled: Fri 20 Nov, 05:28 PM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045881/on-north-waziristan-visit-cdf-munir-vows-to-eliminate-terrorism-preserve-peace-in-kp | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045881/on-north-waziristan-visit-cdf-munir-vows-to-eliminate-terrorism-preserve-peace-in-kp
+- Supporting coverage: Dawn Pakistan, Geo News, Geo News, Dawn
+- Keywords: Asim Munir, North Waziristan, terrorism, Khyber Pakhtunkhwa, ISPR, security forces | hashtags: #AsimMunir #NorthWaziristan #ISPR #KP #PakistanArmy
+- Scheduled: Fri 20 Nov, 06:58 PM PKT
 - Caption:
 ```
-Former federal minister Liaquat Abbas Bhatti was found strangled to death at his house in Hafizabad, with police registering a case against his guards.
+Chief of Defence Forces Field Marshal Asim Munir visited North Waziristan, reaffirming the military's firm resolve to eliminate terrorism and maintain peace in Khyber Pakhtunkhwa.
 
-Former federal minister Liaquat Abbas Bhatti was found strangled to death in his room near Kasoki Bypass in Hafizabad. Police registered a murder and robbery case at the City Police Station on the complaint of his nephew, MPA Zameer-ul-Hassan Bhatti. According to the FIR, over 10 suspects, including four personal security guards, allegedly committed the crime and fled with gold, cash, and luxury vehicles.
+During a visit to Miranshah in North Waziristan, Chief of Defence Forces and Army Staff Field Marshal Asim Munir reaffirmed the security forces' resolve to eliminate terrorism and preserve peace in Khyber Pakhtunkhwa in coordination with law enforcement agencies.
 
-سابق وفاقی وزیر لیاقت عباس بھٹی کی لاش حافظ آباد میں ان کے گھر سے ملی ہے، جنہیں گلا گھونٹ کر قتل کیا گیا۔ پولیس نے مقتبھ کے بھتیجے کی مدعی میں مقدمہ درج کر لیا ہے، جس میں چار ذاتی سیکیورٹی گارڈز سمیت 10 سے زائد افراد کو نامزد کیا گیا ہے۔ ملزمان مبینہ طور پر نقدی، سونا اور گاڑیاں بھی ساتھ لے گئے۔
+شمالی وزیرستان کے دورے کے دوران آرمی چیف فیلڈ مارشل عاصم منیر نے قانون نافذ کرنے والے اداروں کے ساتھ مل کر خیبر پختونخوا سے دہشتگردی کے خاتمے اور امن کے استحکام کے عزم کا اعادہ کیا۔
 
-First reported by ARY News
+First reported by Dawn Pakistan
 
-#Hafizabad #BreakingNews #PakistanPolice #LiaquatAbbasBhatti #CrimeNews
+#AsimMunir #NorthWaziristan #ISPR #KP #PakistanArmy
 ```
 
-### Bank of Punjab Wins International Award for SME Financing Innovation  [NORMAL]
-- Poster: بینک آف پنجاب نے ایس ایم ای فنانسنگ کا عالمی اعزاز جیت لیا / Bank of Punjab Wins Global SME Financing Award | category economy
-- Alternative headline: Global Recognition for Bank of Punjab at Singapore FinTech Festival
+### Afghanistan Excluded from ECO Moot Due to Non-Recognition  [NORMAL]
+- Poster: افغانستان کو ای سی او اجلاس میں دعوت نہیں دی گئی: دفتر خارجہ / Afghanistan Not Invited to ECO Moot: FO | category politics
+- Alternative headline: Foreign Office Confirms Afghanistan Not Invited to ECO Summit
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOdENvdk5NQ3lRYlU1VWY3dVg2bG12TGRfOTZPOFI3TDVZUVNSZnIxeElfeXV2RW5OVTg5dUlpOEZYcjNhU3Q4YWVkRkx5RERHU1h3OGdSNFB5MEo0R2FjZ0VCSHJJQ25sTmNWbHpZbGtDLVliTVRoeTltREs3SVVuMndjRXdldl9QRTNRQlh5OE4zeVZ6a2c?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOdENvdk5NQ3lRYlU1VWY3dVg2bG12TGRfOTZPOFI3TDVZUVNSZnIxeElfeXV2RW5OVTg5dUlpOEZYcjNhU3Q4YWVkRkx5RERHU1h3OGdSNFB5MEo0R2FjZ0VCSHJJQ25sTmNWbHpZbGtDLVliTVRoeTltREs3SVVuMndjRXdldl9QRTNRQlh5OE4zeVZ6a2c?oc=5
-- Supporting coverage: Profit by Pakistan Today, Dawn
-- Keywords: Bank of Punjab, SME financing, international award, banking innovation, Pakistan economy | hashtags: #BankOfPunjab #SMEFinancing #PakistanEconomy #Banking #GlobalAward
-- Scheduled: Fri 20 Nov, 05:38 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUnlJNFExdkY4MHhxa3lFaXVGbzc3ZEI1ekV6VGN2bUJSbnRhQlVCU3pKWVFGUHRySFQ3U0V3RDREZDNxNnRjT2w4dF9BeWxCLWlwTWMzTmRqN0l0M2hZMnAwc0k0LVJfV1loVU5BQVBoalRxUjRWdUhSS0M4Tnd5bmlsaVNmZFJ4aGU1SDZGSXB4LWFQOF9vOFJ5WDE2RFB5b2hWcHkyMmc3Q2FueVlESGdGUm0xdmRB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUnlJNFExdkY4MHhxa3lFaXVGbzc3ZEI1ekV6VGN2bUJSbnRhQlVCU3pKWVFGUHRySFQ3U0V3RDREZDNxNnRjT2w4dF9BeWxCLWlwTWMzTmRqN0l0M2hZMnAwc0k0LVJfV1loVU5BQVBoalRxUjRWdUhSS0M4Tnd5bmlsaVNmZFJ4aGU1SDZGSXB4LWFQOF9vOFJ5WDE2RFB5b2hWcHkyMmc3Q2FueVlESGdGUm0xdmRB?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: ECO moot, Afghanistan, Foreign Office, Islamabad, Kabul regime, ECO | hashtags: #ECO #Afghanistan #ForeignOffice #Islamabad #Diplomacy
+- Scheduled: Fri 20 Nov, 07:08 PM PKT
 - Caption:
 ```
-The Bank of Punjab has received an international award recognizing its innovative contributions to SME financing.
+Pakistan's Foreign Office confirmed that Afghanistan was not invited to the Economic Cooperation Organization moot because Islamabad does not recognize the Kabul regime.
 
-The Bank of Punjab has been honored with an international award for its excellence and innovation in SME financing. The recognition highlights the bank's growing role in supporting small and medium-sized enterprises through dedicated financial services and modern banking solutions.
+Afghanistan was not invited to the Economic Cooperation Organization (ECO) ministerial meeting in Islamabad because Pakistan does not officially recognize the Kabul regime, the Foreign Office confirmed.
 
-بینک آف پنجاب کو ایس ایم ای فنانسنگ میں بہترین کارکردگی اور جدت پر ایک بین الاقوامی اعزاز سے نوازا گیا ہے۔ یہ کامیابی چھوٹے اور درمیانے درجے کے کاروباری اداروں کے لیے بینک کی خدمات کا اعتراف ہے۔
+دفتر خارجہ نے تصدیق کی ہے کہ افغانستان کو اقتصادی تعاون تنظیم (ای سی او) کے اجلاس میں اس لیے مدعو نہیں کیا گیا کیونکہ اسلام آباد کابل کی حکومت کو تسلیم نہیں کرتا۔
 
 First reported by Dawn
 
-#BankOfPunjab #SMEFinancing #PakistanEconomy #Banking #GlobalAward
+#ECO #Afghanistan #ForeignOffice #Islamabad #Diplomacy
 ```
 
-### Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026  [NORMAL]
-- Poster: محمد عباس 2026 میں سب سے زیادہ ٹیسٹ وکٹیں لینے والے بولر بن گئے / Mohammad Abbas Tops 2026 Test Wickets Chart | category sports
-- Alternative headline: Pakistan Pacer Abbas Surpasses Josh Tongue to Top 2026 Test Wickets
+### Supreme Court of Pakistan Receives International ISO Certification  [NORMAL]
+- Poster: سپریم کورٹ آف پاکستان نے بین الاقوامی آئی ایس او سرٹیفیکیشن حاصل کر لیا / Supreme Court Gets ISO Certification | category courts
+- Alternative headline: Supreme Court Achieves ISO 9001:2015 Quality Management Certification
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691924-abbas-leaves-englands-tongue-behind-to-become-leading-test-wicket-taker-in-2026 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691924-abbas-leaves-englands-tongue-behind-to-become-leading-test-wicket-taker-in-2026
-- Supporting coverage: ProPakistani, Geo News, Geo News
-- Keywords: Mohammad Abbas, Test cricket, leading wicket-taker, Pakistan cricket, Josh Tongue, Sri Lanka series | hashtags: #MohammadAbbas #TestCricket #PakistanCricket #GreenShirts #CricketNews
-- Scheduled: Fri 20 Nov, 05:48 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlpsLWRTWldramZkRU1zNUV6MlNpaEktMWJ1aDhoN2k2Tl9qbmtSN0tFdjhQUFZEWTJ2ZTRGdzZacmpLMnRaVTgyQy1sTFIyQ2hxbXgxUjFmenlFOFdETzF0ZUFlVFlhRl9aN3NYUlpoTEY5YkhYSGp1R2cwaEd1MWF3NlJ0NEVxdXJ2N2kxdjNCanduYnJ6TXp2Qm9jaDBlTlBfcl9PWlpBdVRlcWJtbHd3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlpsLWRTWldramZkRU1zNUV6MlNpaEktMWJ1aDhoN2k2Tl9qbmtSN0tFdjhQUFZEWTJ2ZTRGdzZacmpLMnRaVTgyQy1sTFIyQ2hxbXgxUjFmenlFOFdETzF0ZUFlVFlhRl9aN3NYUlpoTEY5YkhYSGp1R2cwaEd1MWF3NlJ0NEVxdXJ2N2kxdjNCanduYnJ6TXp2Qm9jaDBlTlBfcl9PWlpBdVRlcWJtbHd3?oc=5
+- Supporting coverage: X, samaa tv
+- Keywords: Supreme Court, ISO certification, Pakistan, quality management,  judiciary | hashtags: #SupremeCourt #ISOCertification #Pakistan #Judiciary
+- Scheduled: Fri 20 Nov, 07:18 PM PKT
 - Caption:
 ```
-Pakistani pacer Mohammad Abbas has overtaken England's Josh Tongue to claim the position of leading Test wicket-taker in 2026.
+The Supreme Court of Pakistan has achieved international recognition by securing ISO certification for its quality management systems.
 
-Pakistan's Mohammad Abbas has surpassed England's Josh Tongue to become the leading Test wicket-taker in 2026. Following an impressive series against Sri Lanka where he claimed eight wickets and won Player of the Series, Abbas has taken 39 wickets across eight Tests this year with an economy rate of 2.56.
+The Supreme Court of Pakistan has been awarded international ISO certification for its quality management systems following a successful assessment against recognized global standards.
 
-پاکستان کے فاسٹ بولر محمد عباس نے انگلینڈ کے جوش ٹنگ کو پیچھے چھوڑ کر 2026 میں سب سے زیادہ ٹیسٹ وکٹیں حاصل کرنے والے بولر کا اعزاز حاصل کر لیا ہے۔ سری لنکا کے خلاف شاندار کارکردگی کے بعد رواں سال ان کی وکٹوں کی تعداد 39 ہو گئی ہے۔
+سپریم کورٹ آف پاکستان نے بین الاقوامی معیار کے مطابق اپنے نظام کو بہتر بناتے ہوئے آئی ایس او سرٹیفیکیشن حاصل کر لیا ہے۔
 
-First reported by Geo News
+First reported by samaa tv
 
-#MohammadAbbas #TestCricket #PakistanCricket #GreenShirts #CricketNews
+#SupremeCourt #ISOCertification #Pakistan #Judiciary
 ```
 
-### Gold Prices in Pakistan Plunge by Rs15,400 Per Tola  [NORMAL]
-- Poster: پاکستان میں سونے کی فی تولہ قیمت میں 15,400 روپے کی بڑی کمی / Gold Price Plunges Rs15,400 Per Tola in Pakistan | category economy
-- Alternative headline: Significant Drop Recorded as Gold Falls Rs15,400 Per Tola Nationwide
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/gold-prices-plunge-by-rs15400-tola-in-pakistan | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/gold-prices-plunge-by-rs15400-tola-in-pakistan
-- Supporting coverage: Investify, Investify, ARY News
-- Keywords: Gold prices, per tola gold, Sarafa Association, Pakistan economy, silver prices, bullion market | hashtags: #GoldRate #PakistanEconomy #SarafaAssociation #GoldPrice #BusinessNews
-- Scheduled: Fri 20 Nov, 05:58 PM PKT
-- Caption:
-```
-Gold prices in Pakistan experienced a major downward correction, dropping by Rs15,400 per tola in line with international market trends.
-
-Gold and silver prices witnessed a sharp decline across Pakistan, with the per-tola gold price dropping by Rs15,400 to Rs379,836 according to the All Pakistan Sarafa Gems and Jewellers Association. The 10-gram 24-karat gold decreased by Rs13,203 to Rs325,648, while international gold prices fell by $154 to $3,573 per ounce.
-
-آل پاکستان صرافہ جیمز اینڈ جیولرز ایسوسی ایشن کے مطابق پاکستان میں سونے کی فی تولہ قیمت میں 15,400 روپے کی نمایاں کمی واقع ہوئی ہے جس کے بعد نیا نرخ 379,836 روپے ہو گیا ہے۔ عالمی منڈی میں بھی سونے کی قیمتوں میں کمی دیکھی گئی۔
-
-First reported by ARY News
-
-#GoldRate #PakistanEconomy #SarafaAssociation #GoldPrice #BusinessNews
-```
-
-- Indian outlets blocked this run: 8 items
+- Indian outlets blocked this run: 11 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
-- [needs_review] normal | Two held for Rs5m UK work visa fraud | Tue 17 Nov, 11:31 AM PKT
-- [needs_review] normal | Man found murdered in farmhouse | Tue 17 Nov, 11:41 AM PKT
-- [needs_review] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
 - [needs_review] normal | Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second | Tue 17 Nov, 01:00 PM PKT
 - [needs_review] normal | Pakistan condemns Israeli attacks in Syria, calls for withdrawal from  | Tue 17 Nov, 01:10 PM PKT
 - [needs_review] normal | Leonid meteor shower 2026: When and where to see it from where you liv | Tue 17 Nov, 02:05 PM PKT
@@ -354,7 +347,7 @@ First reported by ARY News
 - [needs_review] normal | Pakistan Medical Association objects to proposed SHCC board members | Fri 20 Nov, 10:52 AM PKT
 - [needs_review] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
 - [published] normal | Pakistan conquer Sri Lanka by eight wickets to seal Test series | Fri 20 Nov, 12:58 PM PKT
-- [queued] normal | Daily Editorial Cartoon for November 20, 2026 | Fri 20 Nov, 01:08 PM PKT
+- [published] normal | Daily Editorial Cartoon for November 20, 2026 | Fri 20 Nov, 01:08 PM PKT
 - [queued] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
 - [queued] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
 - [queued] normal | Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026 | Fri 20 Nov, 02:00 PM PKT
@@ -371,23 +364,16 @@ First reported by ARY News
 - [queued] normal | Bank of Punjab Wins International Award for SME Financing Innovation | Fri 20 Nov, 05:38 PM PKT
 - [queued] normal | Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026 | Fri 20 Nov, 05:48 PM PKT
 - [queued] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
+- [queued] normal | Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling | Fri 20 Nov, 06:48 PM PKT
+- [queued] normal | CDF Asim Munir Vows to Eradicate Terrorism in KP | Fri 20 Nov, 06:58 PM PKT
+- [queued] normal | Afghanistan Excluded from ECO Moot Due to Non-Recognition | Fri 20 Nov, 07:08 PM PKT
+- [queued] normal | Supreme Court of Pakistan Receives International ISO Certification | Fri 20 Nov, 07:18 PM PKT
 
 ## Publishing this run
-- Published 'Pakistan conquer Sri Lanka by eight wickets to seal Test series'.
+- Published 'Daily Editorial Cartoon for November 20, 2026'.
 
 ## Gemini usage
-- Calls: 6 | prompt tokens: 6324 | output tokens: 2886
-- Errors: 4
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 5847 | output tokens: 2039
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
