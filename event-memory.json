@@ -83766,7 +83766,343 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3987a8fa87bfa993b0943f78",
+      "remembered_at": "2026-11-20T03:18:42.134306+00:00",
+      "event_date": "2026-11-19T22:42:41+00:00",
+      "last_update": "2026-11-20T02:26:22+00:00",
+      "event": "Joint trade group with Maldives planned",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "group",
+        "joint",
+        "maldives",
+        "planned",
+        "the",
+        "trade",
+        "tribune",
+        "with"
+      ],
+      "source_excerpt": "Joint trade group with Maldives planned The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHJrTTFKQWpmdjRTeTlpdGdjQ2pJTVdTX2wyek5oMUFzVER6MDdhVUNrSkFGTFhERVlPRGRkYWplendnZnBWUzJhLWRkRkFtOVdiemZzTTh5ZERHOElnTW5BMnZPdDk0ZUIxbDVoYmdySzl0Wm0zYk52OHQzYmZJbnZR0gGKAUFVX3lxTE1xVDJUcE11ZEZmNXhORk00Z3I3Zndmb2hrdUNOTUJqUXpMeU4yc1AtSERKNEhWZ19rRURKUEtsci1kZnltWTI2QV9uaTJiSFg1ZGNpel9QWUdZdVp5dTRTOFA5UVZvSTJRRDhhdHFRSTQwMkxQVF9SVEtBZGFzUGJaOUZzdW8wVm96QQ?oc=5",
+          "published_at": "2026-11-19T22:42:41+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX0o1SFI3emtNa3dUNjNBN0JKQl9vaURpR2JvUzBMVVFSWDJrX2RINEtiODRUOVFxVUVic0QtOWFOZ0Q1TVFGdjFlUU4xdm5OTmlFUnR3RWdGRUp6VlBYRDIxZzFDWl9NcW16U0hLSFJPQTg5S2NjOGdkT250WEFTWGVERXRMUGVXdmc?oc=5",
+          "published_at": "2026-11-20T02:26:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHJrTTFKQWpmdjRTeTlpdGdjQ2pJTVdTX2wyek5oMUFzVER6MDdhVUNrSkFGTFhERVlPRGRkYWplendnZnBWUzJhLWRkRkFtOVdiemZzTTh5ZERHOElnTW5BMnZPdDk0ZUIxbDVoYmdySzl0Wm0zYk52OHQzYmZJbnZR0gGKAUFVX3lxTE1xVDJUcE11ZEZmNXhORk00Z3I3Zndmb2hrdUNOTUJqUXpMeU4yc1AtSERKNEhWZ19rRURKUEtsci1kZnltWTI2QV9uaTJiSFg1ZGNpel9QWUdZdVp5dTRTOFA5UVZvSTJRRDhhdHFRSTQwMkxQVF9SVEtBZGFzUGJaOUZzdW8wVm96QQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bbc61723fcd45f2e6b6f6194",
+      "remembered_at": "2026-11-20T03:18:42.134306+00:00",
+      "event_date": "2026-11-20T01:49:29+00:00",
+      "last_update": "2026-11-20T02:46:59+00:00",
+      "event": "Security withdrawn from Fazl, family members",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "family",
+        "fazl",
+        "from",
+        "members",
+        "security",
+        "withdrawn"
+      ],
+      "source_excerpt": "Security withdrawn from Fazl, family members Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXp4bWpNLWZFR1Z6MDRQU1NESkdfRGphRmVJR1RqLWtxLS1MTHNsSnVFMFJNbE90UUliSGpuRktaMzRqYVNkLUpLVWdUSHIyYW1vMmpyRndvRVhJWE5ONnVwVEcxVmxnZnJ2YjNha3F6M2VqRDU2UHRUcnAwZGo3MU9qNA?oc=5",
+          "published_at": "2026-11-20T01:49:29+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045802/security-withdrawn-from-fazl-family-members",
+          "published_at": "2026-11-20T02:46:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXp4bWpNLWZFR1Z6MDRQU1NESkdfRGphRmVJR1RqLWtxLS1MTHNsSnVFMFJNbE90UUliSGpuRktaMzRqYVNkLUpLVWdUSHIyYW1vMmpyRndvRVhJWE5ONnVwVEcxVmxnZnJ2YjNha3F6M2VqRDU2UHRUcnAwZGo3MU9qNA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a7d89f501d1ee8430b92b68f",
+      "remembered_at": "2026-11-20T03:18:42.134306+00:00",
+      "event_date": "2026-11-20T01:50:31+00:00",
+      "last_update": "2026-11-20T02:54:47+00:00",
+      "event": "NCCIA busts online gambling, money laundering network",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "busts",
+        "dawn",
+        "gambling",
+        "laundering",
+        "money",
+        "nccia",
+        "network",
+        "online"
+      ],
+      "source_excerpt": "NCCIA busts online gambling, money laundering network Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTlNa3RXVjEwWnZlWGo2OWlwNjBSNExBWFcybDR2YU5ibUFVTFRHVkdHM1IwVHRXVUdXTU1CdF9LRnJuUlpoeHkzU0xFTDRjd0dIUkxTU2VjMl9pd0MxZkdxSFRoZjBuZVNlZTA0SUF0eUtISl9OX2dlcU9QWm80Z1VwRXkxRnd6VDZpbkxTbw?oc=5",
+          "published_at": "2026-11-20T01:50:31+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRGwyR0swWkxnczNWQjIzdVdTZVlTMm9NdXk4V3hicm1ZTzBUY3ZxekRycWI3ZTRuX1dQWVptUkVsUHJmSUkyemR5bTktalFPNFRpUjRxRzJWdHVYRXBiaDBKbDY4WFVhUDdjc0xxbHZlZVQzODhld0RUOGdCVmF1OGVfaDNOdTNoZFJzWHJINkdjVkxjS281dnV3Q0d6OGNxTU5tZzNBRmlsbHE2aEZndXI4R3VjU2xDZTYtb0szMkJfVGQyUkNjMVNmZlR5VmljTWZUVTNUNA?oc=5",
+          "published_at": "2026-11-20T02:54:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTlNa3RXVjEwWnZlWGo2OWlwNjBSNExBWFcybDR2YU5ibUFVTFRHVkdHM1IwVHRXVUdXTU1CdF9LRnJuUlpoeHkzU0xFTDRjd0dIUkxTU2VjMl9pd0MxZkdxSFRoZjBuZVNlZTA0SUF0eUtISl9OX2dlcU9QWm80Z1VwRXkxRnd6VDZpbkxTbw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f1b3a178cea8ebd8b041cffd",
+      "remembered_at": "2026-11-20T03:18:42.134306+00:00",
+      "event_date": "2026-11-20T03:02:35+00:00",
+      "last_update": "2026-11-20T03:08:46+00:00",
+      "event": "Pakistan among 15 nations that welcome UK, Australia sanctions on Israeli settlements, hope others follow suit",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "australia",
+        "dawn",
+        "follow",
+        "hope",
+        "israeli",
+        "nations",
+        "others",
+        "pakistan",
+        "sanctions",
+        "settlements",
+        "suit",
+        "that",
+        "welcome"
+      ],
+      "source_excerpt": "Pakistan among 15 nations that welcome UK, Australia sanctions on Israeli settlements, hope others follow suit Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcEZKQ1ZwbjMwMUxUWXNCal95VUZIUGRPekl5aWdwWEEwM0RPS2RDQm53ZHpVa3ItVV9Ea0lPZTk4YVo2M3MwejdxLVhWeFNLaUZFMUhjQm5aOEZ3NnN4SW9mRXpXZ0JWeEtqWHpVQS1VU1FmdTg4UzFfODdxa3huTXo5cVNQcFRYUUd1WkVMV0xpMUNzTnc4ZFMtdEJtNGZzZ1lxbzJQYTcxZWdYaWZTdGJ0MzhRVjhTb2x5dFBzQmFvRWxMbmN4b3RUTkxYYkpyODZVV0c4NElZUQ?oc=5",
+          "published_at": "2026-11-20T03:02:35+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045854/pakistan-among-15-nations-welcoming-uk-australia-sanctions-on-israeli-settlements-hoping-others-follow-suit",
+          "published_at": "2026-11-20T03:08:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcEZKQ1ZwbjMwMUxUWXNCal95VUZIUGRPekl5aWdwWEEwM0RPS2RDQm53ZHpVa3ItVV9Ea0lPZTk4YVo2M3MwejdxLVhWeFNLaUZFMUhjQm5aOEZ3NnN4SW9mRXpXZ0JWeEtqWHpVQS1VU1FmdTg4UzFfODdxa3huTXo5cVNQcFRYUUd1WkVMV0xpMUNzTnc4ZFMtdEJtNGZzZ1lxbzJQYTcxZWdYaWZTdGJ0MzhRVjhTb2x5dFBzQmFvRWxMbmN4b3RUTkxYYkpyODZVV0c4NElZUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0509c40f42a6b4ab1ccc720a",
+      "remembered_at": "2026-11-20T03:18:42.134306+00:00",
+      "event_date": "2026-11-20T01:50:02+00:00",
+      "last_update": "2026-11-20T01:50:02+00:00",
+      "event": "UK asks YouTube to remove Russell Brand’s video",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asks",
+        "brand",
+        "dawn",
+        "remove",
+        "russell",
+        "video",
+        "youtube"
+      ],
+      "source_excerpt": "UK asks YouTube to remove Russell Brand’s video Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlVTY0dCaEZKVWJvLThEOFMtQnpCdXpYVmVaUHI5M2pVNldmQjVpS3ZpWUhybWhyZnBhek8wWXNPMU95SnczTGxCZms1SEYtTHpXdWlwMWxxYU9fSzJPQXJrZUJzQ2dEUDd1eUN1aVZ5S1c4bll2M2N5T05xVWxxWGRWTkRISUE?oc=5",
+          "published_at": "2026-11-20T01:50:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlVTY0dCaEZKVWJvLThEOFMtQnpCdXpYVmVaUHI5M2pVNldmQjVpS3ZpWUhybWhyZnBhek8wWXNPMU95SnczTGxCZms1SEYtTHpXdWlwMWxxYU9fSzJPQXJrZUJzQ2dEUDd1eUN1aVZ5S1c4bll2M2N5T05xVWxxWGRWTkRISUE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a72315bf8bec18a0ffc9ce1c",
+      "remembered_at": "2026-11-20T03:18:42.134306+00:00",
+      "event_date": "2026-11-20T02:54:22+00:00",
+      "last_update": "2026-11-20T02:54:22+00:00",
+      "event": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allay",
+        "amid",
+        "and",
+        "anthropic",
+        "asia",
+        "bubble",
+        "debut",
+        "dive",
+        "fails",
+        "fall",
+        "fears",
+        "hong",
+        "indexes",
+        "japan",
+        "kong",
+        "korea",
+        "markets",
+        "off",
+        "sell",
+        "south",
+        "stock",
+        "taiwan",
+        "tech"
+      ],
+      "source_excerpt": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+          "published_at": "2026-11-20T02:54:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "77cf47ce21ff5446ef26a87b",
+      "remembered_at": "2026-11-20T03:18:42.134306+00:00",
+      "event_date": "2026-11-20T02:25:33+00:00",
+      "last_update": "2026-11-20T02:25:33+00:00",
+      "event": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agency",
+        "attack",
+        "call",
+        "election",
+        "for",
+        "hearing",
+        "insurrection",
+        "jan",
+        "lead",
+        "nominee",
+        "refused",
+        "refuses",
+        "responsible",
+        "security",
+        "senate",
+        "the",
+        "trump"
+      ],
+      "source_excerpt": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+          "published_at": "2026-11-20T02:25:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T02:26:01.352630+00:00"
+  "updated_at": "2026-11-20T03:18:42.134306+00:00"
 }

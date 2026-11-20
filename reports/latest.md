@@ -1,146 +1,144 @@
-# News Hub report - Fri 20 Nov, 07:26 AM PKT
+# News Hub report - Fri 20 Nov, 08:18 AM PKT
 
 ## Collection
-- New items this run: 94 | items in rolling pool: 374
-- Unique story clusters: 297 (duplicates merged: 77)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 4
-- Items per outlet: Dawn 75, Al Jazeera 3, The Express Tribune 2, Profit by Pakistan Today 2, The News International 1, BBC 1, X 1, BBC Technology 1, BBC Health 1, Business Recorder 1, Middle East Eye 1, Chosunbiz 1
+- New items this run: 27 | items in rolling pool: 345
+- Unique story clusters: 269 (duplicates merged: 76)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 4
+- Items per outlet: Investify 6, The Express Tribune 4, Profit by Pakistan Today 4, Dawn 3, Al Jazeera 3, Dawn Pakistan 2, Dawn Latest 2, Wired 1, GSMArena 1, Business Recorder 1, Jang Urdu 0, The News International 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Houthi attack damages Saudi Arabia’s tallest skyscraper in Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- More climate money for Africa? Europe says use what's already pledged | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Indonesian daycare principal jailed for five years over child abuse case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Meta rethinks 2030 climate goals as AI data centres drive emissions up | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Democrats say law firm gave $11.8m in free services to Trump administration | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- German importers look to Pakistan amid China shift | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shutter-down strike across Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Joint trade group with Maldives planned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Security withdrawn from Fazl, family members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Houthi attack damages Saudi Arabia’s tallest skyscraper in Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- More climate money for Africa? Europe says use what's already pledged | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Indonesian daycare principal jailed for five years over child abuse case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Meta rethinks 2030 climate goals as AI data centres drive emissions up | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Democrats say law firm gave $11.8m in free services to Trump administration | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- German importers look to Pakistan amid China shift | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shutter-down strike across Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Joint trade group with Maldives planned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Security withdrawn from Fazl, family members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Houthi attack damages Saudi Arabia’s tallest skyscraper in Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- More climate money for Africa? Europe says use what's already pledged | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Indonesian daycare principal jailed for five years over child abuse case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Meta rethinks 2030 climate goals as AI data centres drive emissions up | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Democrats say law firm gave $11.8m in free services to Trump administration | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- German importers look to Pakistan amid China shift | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shutter-down strike across Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Joint trade group with Maldives planned | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Security withdrawn from Fazl, family members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 103/107 | empty: 2 | failed: 2 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Jang Urdu | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: CNN India General Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Houthi Strike Damages Riyadh's Tallest Skyscraper  [NORMAL]
-- Poster: حوثی حملے میں ریاض کی بلند ترین عمارت کو نقصان / Riyadh's Tallest Skyscraper Damaged in Houthi Strike | category security
-- Alternative headline: PIF Tower Hit in Latest Houthi Attack on Riyadh
+### German Importers Turn Toward Pakistan as Businesses Shift Sourcing Away From China  [NORMAL]
+- Poster: چین سے تجارت میں تبدیلی: جرمن درآمد کنندگان کی نظریں پاکستان پر مرکوز / German Importers Turn to Pakistan Amid China Shift | category economy
+- Alternative headline: Pakistan Catches Attention of German Importers Amid Global Supply Chain Realignment
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/houthi-attack-damages-saudi-arabias-tallest-skyscraper-in-riyadh | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/houthi-attack-damages-saudi-arabias-tallest-skyscraper-in-riyadh
-- Supporting coverage: ARY News, Dawn
-- Keywords: Houthi attack, Riyadh skyscraper, PIF Tower, Saudi Arabia, civil defence, foreign ministry | hashtags: #Riyadh #SaudiArabia #Houthi #PIFTower #News
-- Scheduled: Fri 20 Nov, 07:26 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTNWMXpxazE3N0RyLXNaLWx0Zm1hZG1VVlBRVGJYbFpMdUdjQmZyOUJCNi1WWU1vYWRRaW1NSVFzaWpuT1VoWW5ueGhDd2FaQ0JRUk13ZVpRZjJDUmJvMmxEYlltamFZV1RQYWxQWGEtU3VlOUtDM3ZHaVNiSU9jWGFpVHk3NXA2d2I5b3hsY1TSAZgBQVVfeXFMTzZFT3ZrMHp2OGVFam1udU05d3c3QWJFMjZaV2taRXVORjk2a0lYdXhjb0RMYzVKVEJvWWV0SkhadF9iMHdNMU81anQ5RXVvYUlNaEFGSkVlU2J4VjUxNUVTYjFXWnZnSWVOQTBqMXZpVXpOV0EyY1BPRGVtR2NjSF9TRGRfM2IteXMyMVRKNGxWWk9SREdaR0k?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTNWMXpxazE3N0RyLXNaLWx0Zm1hZG1VVlBRVGJYbFpMdUdjQmZyOUJCNi1WWU1vYWRRaW1NSVFzaWpuT1VoWW5ueGhDd2FaQ0JRUk13ZVpRZjJDUmJvMmxEYlltamFZV1RQYWxQWGEtU3VlOUtDM3ZHaVNiSU9jWGFpVHk3NXA2d2I5b3hsY1TSAZgBQVVfeXFMTzZFT3ZrMHp2OGVFam1udU05d3c3QWJFMjZaV2taRXVORjk2a0lYdXhjb0RMYzVKVEJvWWV0SkhadF9iMHdNMU81anQ5RXVvYUlNaEFGSkVlU2J4VjUxNUVTYjFXWnZnSWVOQTBqMXZpVXpOV0EyY1BPRGVtR2NjSF9TRGRfM2IteXMyMVRKNGxWWk9SREdaR0k?oc=5
+- Supporting coverage: The Express Tribune, Investify
+- Keywords: German importers Pakistan, Pakistan Germany trade, China supply chain shift, Pakistan exports, bilateral trade | hashtags: #PakistanEconomy #Trade #Germany #Exports #Business
+- Scheduled: Fri 20 Nov, 08:18 AM PKT
 - Caption:
 ```
-Riyadh’s tallest skyscraper, housing the Saudi sovereign wealth fund, was struck in a Houthi attack, causing material damage.
+German importers are actively exploring trade opportunities in Pakistan as European businesses re-evaluate their supply chain reliance on China.
 
-A Houthi attack struck Riyadh’s tallest skyscraper, the headquarters of the Saudi sovereign wealth fund, causing material damage to several floors and blowing out windows. No injuries were reported, while Saudi Arabia's foreign ministry stated it reserves the right to defend its sovereignty.
+German importers are increasingly looking toward Pakistan to source goods as businesses diversify supply chains away from China. According to a report by The Express Tribune, this shift opens up critical avenues for Pakistani exporters seeking greater access to the lucrative European market.
 
-حوثی حملے میں ریاض کی بلند ترین عمارت کو نقصان پہنچا ہے، جو سعودی خودمختار ویلتھ فنڈ کا ہیڈ کوارٹر ہے۔ حملے کے نتیجے میں عمارت کی کئی منزلوں کو نقصان پہنچا اور کھڑکیاں ٹوٹ گئیں، تاہم کسی جانی نقصان کی اطلاع نہیں ملی۔
+دی ایکسپریس ٹریبیون کی رپورٹ کے مطابق، جرمن درآمد کنندگان چین پر انحصار کم کرنے کے لیے متبادل کے طور پر پاکستان کا رخ کر رہے ہیں۔ اس پیش رفت سے یورپی منڈیوں میں پاکستانی برآمدات کے لیے نئے اور اہم مواقع پیدا ہونے کی توقع ہے۔
 
-First reported by ARY News.
+First reported by The Express Tribune.
 
-#Riyadh #SaudiArabia #Houthi #PIFTower #News
+#PakistanEconomy #Trade #Germany #Exports #Business
 ```
 
-### Africa Climate Funding: Europe Urges Using Existing Pledges  [NORMAL]
-- Poster: افریقی موسمیاتی فنڈز: یورپ کا پہلے سے وعدہ شدہ رقم استعمال پر زور / Africa Climate Funds: Europe Urges Using Pledged Money | category world
-- Alternative headline: Climate Crisis Deepens in Africa as Europe Pushes Existing Funds
+### Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unemployment, and Security Concerns  [NORMAL]
+- Poster: بدامنی، مہنگائی اور بیروزگاری: بلوچستان بھر میں مکمل شٹر ڈاؤن ہڑتال / Balochistan Shuts Down Over Security and Inflation | category politics
+- Alternative headline: Markets Shut Across Balochistan in Widespread Protest Against Worsening Security and Inflation
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Science
-- Keywords: climate money, Africa climate crisis, Europe, Uganda drought, Malawi floods | hashtags: #ClimateCrisis #Africa #Europe #Drought #Floods
-- Scheduled: Fri 20 Nov, 07:36 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTFBfeVhiYU82ZzE2YkVkSklVR1ByNHd4UWRXRGZzQ0pzS0x3WF9LR2RPeXZnQVZpTktpZXFPR2h6V2hfNWV0Q2NDVzlDS1c5YTFwTUtNRm1QdDBBWlI3MWowY2dabmtxeXg2YU9ETjZlMnFyNmxnc1N6YmNWTXU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTFBfeVhiYU82ZzE2YkVkSklVR1ByNHd4UWRXRGZzQ0pzS0x3WF9LR2RPeXZnQVZpTktpZXFPR2h6V2hfNWV0Q2NDVzlDS1c5YTFwTUtNRm1QdDBBWlI3MWowY2dabmtxeXg2YU9ETjZlMnFyNmxnc1N6YmNWTXU?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Balochistan strike, Balochistan shutter down, inflation protest, Balochistan security, unemployment Balochistan | hashtags: #Balochistan #Strike #Inflation #PakistanNews #Economy
+- Scheduled: Fri 20 Nov, 08:28 AM PKT
 - Caption:
 ```
-As severe droughts and floods devastate communities across Africa, Europe insists on utilizing already pledged climate funds.
+Commercial activities ground to a halt across Balochistan as traders and political groups observed a major shutter-down strike.
 
-Communities in Uganda and Malawi face severe climate impacts, from crippling droughts destroying 90% of crops to devastating floods washing away homes. Amid calls for more climate money for Africa, European officials maintain that countries should first use what has already been pledged.
+A widespread shutter-down strike was observed across Balochistan to protest worsening security conditions, rising inflation, and rampant unemployment. According to Dawn, commercial centers, markets, and shops remained completely closed across multiple districts following calls from local groups highlighting severe socioeconomic grievances.
 
-یوگنڈا اور ملاوی میں شدید خشک سالی اور سیلاب نے تباہی مچا دی ہے، جس سے فصلیں تباہ اور گھر اجڑ گئے ہیں۔ افریقہ کے لیے مزید موسمیاتی فنڈز کے مطالعے کے درمیان، یورپ کا اصرار ہے کہ پہلے سے وعدہ شدہ رقم کو استعمال کیا جائے۔
+ڈان کی رپورٹ کے مطابق، بلوچستان بھر میں بگڑتی ہوئی سیکیورٹی صورتحال، بڑھتی ہوئی مہنگائی اور بے روزگاری کے خلاف مکمل شٹر ڈاؤن ہڑتال کی گئی۔ صوبے کے مختلف اضلاع میں تجارتی مراکز اور دکانیں بند رہیں جبکہ معمولاتِ زندگی شدید متاثر ہوئے۔
 
-First reported by BBC Science.
+First reported by Dawn.
 
-#ClimateCrisis #Africa #Europe #Drought #Floods
+#Balochistan #Strike #Inflation #PakistanNews #Economy
 ```
 
-### Indonesian Daycare Principal Jailed Over Child Abuse  [NORMAL]
-- Poster: انڈونیشیا میں بچوں کے استحصال پر ڈے کیئر پرنسپل کو پانچ سال قید / Indonesian Daycare Principal Jailed For Five Years | category crime
-- Alternative headline: Five-Year Sentence for Indonesian Daycare Principal in Abuse Case
+### Pakistan and Maldives Move to Establish Joint Trade Group to Boost Commerce  [NORMAL]
+- Poster: دوطرفہ تجارت کے فروغ کے لیے پاکستان اور مالدیپ کا مشترکہ تجارتی گروپ قائم کرنے کا فیصلہ / Pakistan, Maldives Plan Joint Trade Group | category economy
+- Alternative headline: Joint Trade Committee Planned Between Pakistan and Maldives to Expand Bilateral Ties
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cvkg58d7z10ro?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://www.bbc.co.uk/news/articles/cvkg58d7z10ro?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC
-- Keywords: child abuse case, Indonesian daycare, principal jailed, toddlers, police raid | hashtags: #Indonesia #ChildAbuse #Daycare #Court #News
-- Scheduled: Fri 20 Nov, 07:46 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHJrTTFKQWpmdjRTeTlpdGdjQ2pJTVdTX2wyek5oMUFzVER6MDdhVUNrSkFGTFhERVlPRGRkYWplendnZnBWUzJhLWRkRkFtOVdiemZzTTh5ZERHOElnTW5BMnZPdDk0ZUIxbDVoYmdySzl0Wm0zYk52OHQzYmZJbnZR0gGKAUFVX3lxTE1xVDJUcE11ZEZmNXhORk00Z3I3Zndmb2hrdUNOTUJqUXpMeU4yc1AtSERKNEhWZ19rRURKUEtsci1kZnltWTI2QV9uaTJiSFg1ZGNpel9QWUdZdVp5dTRTOFA5UVZvSTJRRDhhdHFRSTQwMkxQVF9SVEtBZGFzUGJaOUZzdW8wVm96QQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHJrTTFKQWpmdjRTeTlpdGdjQ2pJTVdTX2wyek5oMUFzVER6MDdhVUNrSkFGTFhERVlPRGRkYWplendnZnBWUzJhLWRkRkFtOVdiemZzTTh5ZERHOElnTW5BMnZPdDk0ZUIxbDVoYmdySzl0Wm0zYk52OHQzYmZJbnZR0gGKAUFVX3lxTE1xVDJUcE11ZEZmNXhORk00Z3I3Zndmb2hrdUNOTUJqUXpMeU4yc1AtSERKNEhWZ19rRURKUEtsci1kZnltWTI2QV9uaTJiSFg1ZGNpel9QWUdZdVp5dTRTOFA5UVZvSTJRRDhhdHFRSTQwMkxQVF9SVEtBZGFzUGJaOUZzdW8wVm96QQ?oc=5
+- Supporting coverage: The Express Tribune, Investify
+- Keywords: Pakistan Maldives trade, bilateral trade, joint trade group, Maldives Pakistan relations, South Asia trade | hashtags: #Pakistan #Maldives #BilateralTrade #Economy #Commerce
+- Scheduled: Fri 20 Nov, 08:38 AM PKT
 - Caption:
 ```
-An Indonesian daycare principal has been sentenced to five years in prison following a shocking child abuse discovery.
+Pakistan and the Maldives are establishing a joint trade working group to enhance economic collaboration and expand bilateral trade volumes.
 
-An Indonesian daycare principal has been sentenced to five years in prison following a police raid in April that uncovered toddlers with their hands and feet tied with rags.
+Pakistan and the Maldives have planned the establishment of a joint trade group to explore untapped bilateral commercial potential. According to The Express Tribune, the institutional framework aims to resolve trade barriers, facilitate exporters, and strengthen diplomatic and business relations between the two South Asian nations.
 
-انڈونیشیا میں ایک ڈے کیئر کی پرنسپل کو پانچ سال قید کی سزا سنا دی گئی ہے۔ اپریل میں پولیس نے مرکز پر چھاپہ مار کر چھوٹے بچوں کے ہاتھ پاؤں کپڑے سے بندھے ہوئے برآمد کیے تھے۔
+دی ایکسپریس ٹریبیون کے مطابق، پاکستان اور مالدیپ نے باہمی تجارتی حجم بڑھانے کے لیے مشترکہ تجارتی گروپ قائم کرنے کا فیصلہ کیا ہے۔ اس اقدام کا مقصد تجارتی رکاوٹوں کو دور کرنا اور دونوں ممالک کے درمیان معاشی تعاون کو مزید مستحکم بنانا ہے۔
 
-First reported by BBC.
+First reported by The Express Tribune.
 
-#Indonesia #ChildAbuse #Daycare #Court #News
+#Pakistan #Maldives #BilateralTrade #Economy #Commerce
 ```
 
-### Meta Rethinks 2030 Climate Goals Amid AI Energy Surge  [NORMAL]
-- Poster: اے آئی ڈیٹا مراکزمیں اضافے کے باعث میٹا کے موسمیاتی اہداف کا جائزہ / Meta Rethinks Climate Goals Due to AI Energy Surge | category tech_ai
-- Alternative headline: AI Data Centres Drive Up Emissions, Forcing Meta Climate Review
+### Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Rehman and Family  [NORMAL]
+- Poster: جے یو آئی کے سربراہ مولانا فضل الرحمان اور اہلخانہ سے سیکیورٹی واپس لے لی گئی / Security Detail Withdrawn From Fazlur Rehman and Family | category politics
+- Alternative headline: Government Withdraws Security Cover From Maulana Fazlur Rehman and His Family Members
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Meta climate goals, AI data centres, emissions, sustainability targets, energy needs | hashtags: #Meta #ArtificialIntelligence #ClimateGoals #DataCentres #TechNews
-- Scheduled: Fri 20 Nov, 07:56 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXp4bWpNLWZFR1Z6MDRQU1NESkdfRGphRmVJR1RqLWtxLS1MTHNsSnVFMFJNbE90UUliSGpuRktaMzRqYVNkLUpLVWdUSHIyYW1vMmpyRndvRVhJWE5ONnVwVEcxVmxnZnJ2YjNha3F6M2VqRDU2UHRUcnAwZGo3MU9qNA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXp4bWpNLWZFR1Z6MDRQU1NESkdfRGphRmVJR1RqLWtxLS1MTHNsSnVFMFJNbE90UUliSGpuRktaMzRqYVNkLUpLVWdUSHIyYW1vMmpyRndvRVhJWE5ONnVwVEcxVmxnZnJ2YjNha3F6M2VqRDU2UHRUcnAwZGo3MU9qNA?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Fazlur Rehman security, Maulana Fazlur Rehman, JUI-F, security withdrawn, Pakistan politics | hashtags: #FazlurRehman #JUIF #PakistanPolitics #Security #Dawn
+- Scheduled: Fri 20 Nov, 08:48 AM PKT
 - Caption:
 ```
-Meta is reviewing its 2030 sustainability targets as rising energy needs for AI data centres drive up emissions.
+Authorities have withdrawn official security personnel assigned to Jamiat Ulema-e-Islam (F) chief Maulana Fazlur Rehman and his family members.
 
-Meta is revisiting its 2030 climate goals as the surging energy demands of AI data centres drive up carbon emissions, reflecting a broader trend of corporate retreat from sustainability targets.
+Official security personnel deployed for Jamiat Ulema-e-Islam (F) chief Maulana Fazlur Rehman and his family have been withdrawn, according to Dawn. The move comes amid shifting political dynamics and ongoing assessments regarding threat levels and state protocol security allocations for senior political leaders.
 
-مصنوعی ذہانت کے ڈیٹا مراسز کی بڑھتی ہوئی توانائی کی ضروریات کے باعث کاربن کے اخراج میں اضافے پر میٹا اپنے 2030 کے موسمیاتی اہداف کا از سر نو جائزہ لے رہا ہے۔
+ڈان نیوز کے مطابق، جے یو آئی (ف) کے سربراہ مولانا فضل الرحمان اور ان کے اہلخانہ سے سرکاری سیکیورٹی واپس لے لی گئی ہے۔ یہ فیصلہ سیکیورٹی پروٹوکول کی نظرثانی اور سیاسی صورتحال کے تناظر میں سامنے آیا ہے۔
 
-First reported by Al Jazeera.
+First reported by Dawn.
 
-#Meta #ArtificialIntelligence #ClimateGoals #DataCentres #TechNews
+#FazlurRehman #JUIF #PakistanPolitics #Security #Dawn
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
 
 ## Queue status
-- [needs_review] normal | What will Europe do next in Ukraine? | Tue 17 Nov, 01:30 AM PKT
-- [needs_review] normal | Apple iPhone Duo gains outer screen face unlock in iOS 27.3 beta | Tue 17 Nov, 01:40 AM PKT
-- [needs_review] normal | 'Overwhelmed' Ariana Grande reacts to 2027 Grammy nominations: 'Crying | Tue 17 Nov, 01:50 AM PKT
 - [needs_review] normal | UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA ele | Tue 17 Nov, 02:31 AM PKT
 - [needs_review] normal | Nationwide ground stop could cost US airlines hundreds of millions | Tue 17 Nov, 02:41 AM PKT
 - [needs_review] normal | Israeli opposition accuses Netanyahu of attempted ‘coup’ | Tue 17 Nov, 02:51 AM PKT
@@ -160,7 +158,6 @@ First reported by Al Jazeera.
 - [needs_review] normal | New Zealand tricks and annual leave - the lengths fans are going to fo | Tue 17 Nov, 07:21 AM PKT
 - [needs_review] normal | Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | Tue 17 Nov, 07:31 AM PKT
 - [needs_review] normal | Ukraine holds peace talks with US, Europe as conflict escalates | Tue 17 Nov, 07:41 AM PKT
-- [published] normal | Flour gets costlier as imports stay insufficient | Tue 17 Nov, 08:10 AM PKT
 - [needs_review] normal | Irish court jails man for life over Dublin knife attack that sparked r | Tue 17 Nov, 08:20 AM PKT
 - [needs_review] normal | UK seeks closer ties with EU after Brexit fail | Tue 17 Nov, 08:30 AM PKT
 - [needs_review] normal | Ethiopia Moyale clashes disrupt livelihoods as territorial dispute dee | Tue 17 Nov, 08:40 AM PKT
@@ -353,7 +350,7 @@ First reported by Al Jazeera.
 - [published] normal | US Senate Rejects Resolution to Limit Trump's War Powers on Iran | Fri 20 Nov, 02:22 AM PKT
 - [published] normal | Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperatio | Fri 20 Nov, 02:32 AM PKT
 - [published] normal | Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Miss | Fri 20 Nov, 02:42 AM PKT
-- [queued] normal | Latest Updates and Developments from the Middle East | Fri 20 Nov, 02:52 AM PKT
+- [published] normal | Latest Updates and Developments from the Middle East | Fri 20 Nov, 02:52 AM PKT
 - [queued] normal | Pakistan and 14 nations welcome UK and Australian sanctions on Israeli | Fri 20 Nov, 03:21 AM PKT
 - [queued] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
 - [queued] normal | President urges swift implementation of Pakistan-Maldives agreements | Fri 20 Nov, 03:41 AM PKT
@@ -374,12 +371,14 @@ First reported by Al Jazeera.
 - [queued] normal | Africa Climate Funding: Europe Urges Using Existing Pledges | Fri 20 Nov, 07:36 AM PKT
 - [queued] normal | Indonesian Daycare Principal Jailed Over Child Abuse | Fri 20 Nov, 07:46 AM PKT
 - [queued] normal | Meta Rethinks 2030 Climate Goals Amid AI Energy Surge | Fri 20 Nov, 07:56 AM PKT
+- [queued] normal | German Importers Turn Toward Pakistan as Businesses Shift Sourcing Awa | Fri 20 Nov, 08:18 AM PKT
+- [queued] normal | Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unem | Fri 20 Nov, 08:28 AM PKT
+- [queued] normal | Pakistan and Maldives Move to Establish Joint Trade Group to Boost Com | Fri 20 Nov, 08:38 AM PKT
+- [queued] normal | Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Reh | Fri 20 Nov, 08:48 AM PKT
 
 ## Publishing this run
-- Published 'Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Mission'.
+- Published 'Latest Updates and Developments from the Middle East'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4981 | output tokens: 2309
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 1 | prompt tokens: 4223 | output tokens: 2042
+- Errors: 0
