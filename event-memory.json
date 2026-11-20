@@ -94673,7 +94673,549 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "77898d9dabbc4ffda4936756",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T16:52:00+00:00",
+      "last_update": "2026-11-20T22:49:49+00:00",
+      "event": "Russian missiles land in Poland amid NATO drills",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "drills",
+        "express",
+        "land",
+        "missiles",
+        "nato",
+        "poland",
+        "russian",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Russian missiles land in Poland amid NATO drills The Express Tribune",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+          "published_at": "2026-11-20T16:52:00+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjQtWDZ3Q21YYUdaT0N0QVRHTEhTaWNFX1lOWUhnNDJIRzNocjdHSTNuWTFxakJKclRITGNwa1B2cEpuVUQ5NVllZjZPWVdNREdKcnZGWjYxSXhIREJhVFdDVlpLc3RPRGpya2FLY1luRDY5c2FsVlVCc3Rrd21EMmhxRFRIR2FyOUZwal9R0gGWAUFVX3lxTE5BdVVwaGVZR2NzUEgxek9vT0ZjajNvUjJhSlhjNHU4c2lqTjRfN1ZCcDExUE1yUmNZZnBsR0p1SkhING9zV2VtNkNnZE5ZWWVOQVVNUWJ3R3hMMzc0MmROLUNhZnFPSF9NZzVRc2pBTncyRkJlOHdiT1NGZWFndE9NMlV3SHRvTzRIOF8tTEFrU1hsSThzQQ?oc=5",
+          "published_at": "2026-11-20T22:49:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjQtWDZ3Q21YYUdaT0N0QVRHTEhTaWNFX1lOWUhnNDJIRzNocjdHSTNuWTFxakJKclRITGNwa1B2cEpuVUQ5NVllZjZPWVdNREdKcnZGWjYxSXhIREJhVFdDVlpLc3RPRGpya2FLY1luRDY5c2FsVlVCc3Rrd21EMmhxRFRIR2FyOUZwal9R0gGWAUFVX3lxTE5BdVVwaGVZR2NzUEgxek9vT0ZjajNvUjJhSlhjNHU4c2lqTjRfN1ZCcDExUE1yUmNZZnBsR0p1SkhING9zV2VtNkNnZE5ZWWVOQVVNUWJ3R3hMMzc0MmROLUNhZnFPSF9NZzVRc2pBTncyRkJlOHdiT1NGZWFndE9NMlV3SHRvTzRIOF8tTEFrU1hsSThzQQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4532b6ebd43b7e6ab050098c",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T23:06:41+00:00",
+      "last_update": "2026-11-20T23:06:41+00:00",
+      "event": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "climate",
+        "commitments",
+        "cop31",
+        "critical",
+        "deadlock",
+        "deal",
+        "draft",
+        "fossil",
+        "from",
+        "fuel",
+        "into",
+        "omitted",
+        "overtime",
+        "pushes",
+        "risks",
+        "summit",
+        "talks",
+        "the",
+        "turning",
+        "warns"
+      ],
+      "source_excerpt": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+          "published_at": "2026-11-20T23:06:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "27ae4ebd8b620f3324abdeda",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T22:15:07+00:00",
+      "last_update": "2026-11-20T22:15:07+00:00",
+      "event": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "advanced",
+        "amid",
+        "but",
+        "china",
+        "chip",
+        "chips",
+        "crackdown",
+        "export",
+        "for",
+        "has",
+        "lawmakers",
+        "more",
+        "new",
+        "push",
+        "remote",
+        "restricting",
+        "rules",
+        "tougher",
+        "want",
+        "washington"
+      ],
+      "source_excerpt": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+          "published_at": "2026-11-20T22:15:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "95f31331e2f72ae32e831764",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T23:08:57+00:00",
+      "last_update": "2026-11-20T23:08:57+00:00",
+      "event": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anthropic",
+        "biggest",
+        "famed",
+        "have",
+        "hypothesis",
+        "just",
+        "mathematician",
+        "maths",
+        "may",
+        "problems",
+        "prove",
+        "riemann",
+        "says",
+        "solved",
+        "solving",
+        "some",
+        "take",
+        "the",
+        "though",
+        "time",
+        "used",
+        "verification",
+        "will",
+        "year"
+      ],
+      "source_excerpt": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T23:08:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5b621ef6954730fb2bf45daa",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T22:57:26+00:00",
+      "last_update": "2026-11-20T22:57:26+00:00",
+      "event": "Birds killed in blaze at one of the largest foie gras farms in the US",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "also",
+        "animal",
+        "birds",
+        "blaze",
+        "comes",
+        "concerns",
+        "farms",
+        "fire",
+        "foie",
+        "from",
+        "gras",
+        "hundreds",
+        "killed",
+        "largest",
+        "one",
+        "over",
+        "renewed",
+        "rescued",
+        "scrutiny",
+        "the",
+        "under",
+        "welfare",
+        "were",
+        "which",
+        "young"
+      ],
+      "source_excerpt": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T22:57:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "77b6f93a50022a19a6e3e2c7",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T22:37:09+00:00",
+      "last_update": "2026-11-20T22:37:09+00:00",
+      "event": "French police officers sentenced for beating of music producer Michel Zecler",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2020",
+        "aggravated",
+        "beating",
+        "black",
+        "circumstance",
+        "court",
+        "for",
+        "french",
+        "has",
+        "michel",
+        "music",
+        "officers",
+        "police",
+        "producer",
+        "racism",
+        "sentenced",
+        "the",
+        "upheld",
+        "zecler"
+      ],
+      "source_excerpt": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T22:37:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8ddb3515f0a28fc22e673245",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T22:43:41+00:00",
+      "last_update": "2026-11-20T22:43:41+00:00",
+      "event": "Hazlewood backs embattled Australian captain Cummins over 'Sandpapergate'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australian",
+        "backs",
+        "captain",
+        "cummins",
+        "dawn",
+        "embattled",
+        "hazlewood",
+        "over",
+        "sandpapergate"
+      ],
+      "source_excerpt": "Hazlewood backs embattled Australian captain Cummins over 'Sandpapergate' Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc01LbUJwR0FCUzlQOG56ZUJ3X3NoOElFRlNtWUdrbmgwVm5fYlltbWJIRTdqbzJGTURnT1ZIZ0YxcXd5UHNxTDRpQk5odzBtU21GNDJwcS1acUtmZGFrcFNUcm1jOU9yazZHNDRhTnlFa0lzQVpxVEJJYkF0dlJiQ3BtTXAtNVNMNC1uZ2YwSUIyTVRGaW1vcEl0ZDk2Y1NyNUNVc0NibHg?oc=5",
+          "published_at": "2026-11-20T22:43:41+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046057/hazlewood-backs-embattled-australian-captain-cummins-over-sandpapergate",
+          "published_at": "2026-11-20T22:43:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc01LbUJwR0FCUzlQOG56ZUJ3X3NoOElFRlNtWUdrbmgwVm5fYlltbWJIRTdqbzJGTURnT1ZIZ0YxcXd5UHNxTDRpQk5odzBtU21GNDJwcS1acUtmZGFrcFNUcm1jOU9yazZHNDRhTnlFa0lzQVpxVEJJYkF0dlJiQ3BtTXAtNVNMNC1uZ2YwSUIyTVRGaW1vcEl0ZDk2Y1NyNUNVc0NibHg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c146cf3b393316f27d5776f0",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T22:51:35+00:00",
+      "last_update": "2026-11-20T22:51:35+00:00",
+      "event": "Karachi denied its due share, resources: Kamal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "denied",
+        "due",
+        "express",
+        "its",
+        "kamal",
+        "karachi",
+        "resources",
+        "share",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Karachi denied its due share, resources: Kamal The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM05zVzlCMV9iMEhVbDdtdmxocnhNdjk3ZGlBUjBPZHM3dWhZVDRxN3ZMVHZGUm1qcllRdl9udG1qdGpybmNfSnVLNHBMQ2w1MVVaLVhKZjAwaXFaeXhsV3N1b0Nqdm1BRk5EemVEUUtNWFBkNFVMQmdSZzN2Q3ZSeHBDRmxnSXdX0gGQAUFVX3lxTE16N2w4ZTJsVFNOZjdMWWxOemlPVVhlcmxreEdWZ04ta011MU1vZHpiQ055OGVwUWk5eEJBX2xfZFlpQUYwalZiN1BiSE1tS194MHRWZ3JWYW01NDRxSkRFY0xRNFVfanUwZnJHVE53YjlKZWRLYTJVNDBoUGI5LTVIQlo0SEtER1FtUzVMSzdkcQ?oc=5",
+          "published_at": "2026-11-20T22:51:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM05zVzlCMV9iMEhVbDdtdmxocnhNdjk3ZGlBUjBPZHM3dWhZVDRxN3ZMVHZGUm1qcllRdl9udG1qdGpybmNfSnVLNHBMQ2w1MVVaLVhKZjAwaXFaeXhsV3N1b0Nqdm1BRk5EemVEUUtNWFBkNFVMQmdSZzN2Q3ZSeHBDRmxnSXdX0gGQAUFVX3lxTE16N2w4ZTJsVFNOZjdMWWxOemlPVVhlcmxreEdWZ04ta011MU1vZHpiQ055OGVwUWk5eEJBX2xfZFlpQUYwalZiN1BiSE1tS194MHRWZ3JWYW01NDRxSkRFY0xRNFVfanUwZnJHVE53YjlKZWRLYTJVNDBoUGI5LTVIQlo0SEtER1FtUzVMSzdkcQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a8adf8f1670192229a0e3857",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T22:16:05+00:00",
+      "last_update": "2026-11-20T22:16:05+00:00",
+      "event": "Karachi Bar approaches three CJs over Imran, Bushra's jail conditions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "approaches",
+        "bar",
+        "bushra",
+        "cjs",
+        "conditions",
+        "express",
+        "imran",
+        "jail",
+        "karachi",
+        "over",
+        "the",
+        "three",
+        "tribune"
+      ],
+      "source_excerpt": "Karachi Bar approaches three CJs over Imran, Bushra's jail conditions The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1ZnT3c2THNJd2pLc2JmMjdSRVZiRklGRnFVOVN6VFo2bEtWRVJKTVdScFNGX2R2TVFvSHhVMWZjYXZLWVNnb1pVN0dvSkVnbElBZE5zNHdNcnBvZzN2Wkw2RWx3dksySmhOcm9zZXIzMmJLWjVjSGc4cDY5cVNOU080MkF2dTBBNnh0ZUJ6ZG1iTEItbF83bjBFR09wRHdxWE4tVjk4VdIBrwFBVV95cUxPMjhtRlplTUFUS3dJbEhkNkNZSkZ5Z29yOGtmWElpNnJkYkFGWnlrUEJCc1pqa2pRZmhwSFhaZGZiaEt6OEFUazNTUi1DYlAzQnlfeHpxbzhwTnh2dFZDMHFYOXNaeGxPVnJFNXUzb0FDWEw2TkxSQUNtY0FhenlmTzIwVGFVVGk1RTVZdFJ1czU5eUFqN2h1Y3FJVFRPelRjZE1yQTMwdFlIdGlqakVB?oc=5",
+          "published_at": "2026-11-20T22:16:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1ZnT3c2THNJd2pLc2JmMjdSRVZiRklGRnFVOVN6VFo2bEtWRVJKTVdScFNGX2R2TVFvSHhVMWZjYXZLWVNnb1pVN0dvSkVnbElBZE5zNHdNcnBvZzN2Wkw2RWx3dksySmhOcm9zZXIzMmJLWjVjSGc4cDY5cVNOU080MkF2dTBBNnh0ZUJ6ZG1iTEItbF83bjBFR09wRHdxWE4tVjk4VdIBrwFBVV95cUxPMjhtRlplTUFUS3dJbEhkNkNZSkZ5Z29yOGtmWElpNnJkYkFGWnlrUEJCc1pqa2pRZmhwSFhaZGZiaEt6OEFUazNTUi1DYlAzQnlfeHpxbzhwTnh2dFZDMHFYOXNaeGxPVnJFNXUzb0FDWEw2TkxSQUNtY0FhenlmTzIwVGFVVGk1RTVZdFJ1czU5eUFqN2h1Y3FJVFRPelRjZE1yQTMwdFlIdGlqakVB?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe6f7ba9532ebda2383596d5",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T22:31:48+00:00",
+      "last_update": "2026-11-20T22:31:48+00:00",
+      "event": "COP31 slips on delivery as talks overrun",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cop31",
+        "delivery",
+        "express",
+        "overrun",
+        "slips",
+        "talks",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "COP31 slips on delivery as talks overrun The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd2M2VTBHV0FaclVZYVBJUDNWQUxaSW00RWVDQnJKQ1VBZW4xM2d5cXJFOHVuUzNQejU2eXNQUjJUM0JwTmZfdjZrVUlHR3F2RFBRRVc3ejM4c2IybEppSWRZN0t3UkZ1VVRzR283czRVN2V0NE05bG1ud3hsMklucTZtd9IBiwFBVV95cUxPeTV4WFBJSmZBM1hLdGZERjB0WVFTdW9lSUZOZnZCX2xZRmJHbTQtZzl2U0ozUEdZZzEtUDAyZTlCWnBsZ1JiN094OExiMGZ6SUV3WTBRX0hoTEpDSkhwTTZfaFZHaUxhSFZHXzRWS3pwODk4Mk92clpkN3NPLWItTEhHaUV6S0NBMzY4?oc=5",
+          "published_at": "2026-11-20T22:31:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd2M2VTBHV0FaclVZYVBJUDNWQUxaSW00RWVDQnJKQ1VBZW4xM2d5cXJFOHVuUzNQejU2eXNQUjJUM0JwTmZfdjZrVUlHR3F2RFBRRVc3ejM4c2IybEppSWRZN0t3UkZ1VVRzR283czRVN2V0NE05bG1ud3hsMklucTZtd9IBiwFBVV95cUxPeTV4WFBJSmZBM1hLdGZERjB0WVFTdW9lSUZOZnZCX2xZRmJHbTQtZzl2U0ozUEdZZzEtUDAyZTlCWnBsZ1JiN094OExiMGZ6SUV3WTBRX0hoTEpDSkhwTTZfaFZHaUxhSFZHXzRWS3pwODk4Mk92clpkN3NPLWItTEhHaUV6S0NBMzY4?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "09276f3c22b8f996b0e8905a",
+      "remembered_at": "2026-11-20T23:18:09.900556+00:00",
+      "event_date": "2026-11-20T22:13:04+00:00",
+      "last_update": "2026-11-20T22:13:04+00:00",
+      "event": "Man gets death penalty in blasphemy case",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blasphemy",
+        "case",
+        "death",
+        "express",
+        "gets",
+        "man",
+        "penalty",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Man gets death penalty in blasphemy case The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazJ6d2ZESm1GYzd1ci1fbjZrY2dJb0ZtdzB2a0JrTmU5Q095dExrQ2pVdklrLTNoRWR5ODZFRldoSktoenMyTVR1RUhudGlQLS1uMVVqY09EOGttTjRZTVdqSXFPdzZoRjdVdzh2S29UNFhkQkIwdXFxTHZYSEhlU2xSMNIBiwFBVV95cUxNNG1VY3BiQUJPR0hPZjRiVktEakMyS1FMRlNRQzg5RlgxYnJfREpYX2V6OHhndm5hT0VibzRZSGJBTUg0SUZnVDJLLWxBOGkxZlJGcWpEbjk0RmYwVEtKTjJnWGNjM1plRGtZMFVESlFIZ0ZNcmJGajh4ZXdxakI0M1BoTmx2dUFsa2x3?oc=5",
+          "published_at": "2026-11-20T22:13:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazJ6d2ZESm1GYzd1ci1fbjZrY2dJb0ZtdzB2a0JrTmU5Q095dExrQ2pVdklrLTNoRWR5ODZFRldoSktoenMyTVR1RUhudGlQLS1uMVVqY09EOGttTjRZTVdqSXFPdzZoRjdVdzh2S29UNFhkQkIwdXFxTHZYSEhlU2xSMNIBiwFBVV95cUxNNG1VY3BiQUJPR0hPZjRiVktEakMyS1FMRlNRQzg5RlgxYnJfREpYX2V6OHhndm5hT0VibzRZSGJBTUg0SUZnVDJLLWxBOGkxZlJGcWpEbjk0RmYwVEtKTjJnWGNjM1plRGtZMFVESlFIZ0ZNcmJGajh4ZXdxakI0M1BoTmx2dUFsa2x3?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T22:23:28.737096+00:00"
+  "updated_at": "2026-11-20T23:18:09.900556+00:00"
 }

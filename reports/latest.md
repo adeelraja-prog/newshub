@@ -1,144 +1,143 @@
-# News Hub report - Sat 21 Nov, 03:23 AM PKT
+# News Hub report - Sat 21 Nov, 04:18 AM PKT
 
 ## Collection
-- New items this run: 30 | items in rolling pool: 468
-- Unique story clusters: 411 (duplicates merged: 57)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 5
-- Items per outlet: The Express Tribune 7, Geo News 3, Ars Technica 3, Engadget 2, BBC World 2, The Washington Post 2, NBC News 2, Al Jazeera 1, Bloomberg.com 1, The Guardian 1, Pakistan Today 1, Forex Factory 1
+- New items this run: 34 | items in rolling pool: 435
+- Unique story clusters: 379 (duplicates merged: 56)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 2
+- Items per outlet: The Express Tribune 18, Dawn Latest 3, Geo News 2, Al Jazeera 2, Dawn 1, WRAL 1, Ars Technica 1, GSMArena 1, BBC Technology 1, BBC Science 1, BBC World 1, CBS News 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- 10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran won't make an deal acceptable to me: Trump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jennifer Lawrence, Josh Hutcherson name favourite 'Hunger Games' films | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gaza’s displaced children celebrate World Children’s Day | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sudan’s war leaves disabled children missing out on education | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian missiles land in Poland amid NATO drills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraq PM targets militia stronghold in bid to assert state control | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fossil fuel talks deadlock pushes COP31 climate summit into overtime | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US lawmakers push for tougher AI chip rules amid China export crackdown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran won't make an deal acceptable to me: Trump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jennifer Lawrence, Josh Hutcherson name favourite 'Hunger Games' films | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gaza’s displaced children celebrate World Children’s Day | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sudan’s war leaves disabled children missing out on education | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian missiles land in Poland amid NATO drills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraq PM targets militia stronghold in bid to assert state control | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fossil fuel talks deadlock pushes COP31 climate summit into overtime | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US lawmakers push for tougher AI chip rules amid China export crackdown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran won't make an deal acceptable to me: Trump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jennifer Lawrence, Josh Hutcherson name favourite 'Hunger Games' films | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gaza’s displaced children celebrate World Children’s Day | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sudan’s war leaves disabled children missing out on education | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian missiles land in Poland amid NATO drills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraq PM targets militia stronghold in bid to assert state control | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fossil fuel talks deadlock pushes COP31 climate summit into overtime | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US lawmakers push for tougher AI chip rules amid China export crackdown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 2 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### 10 years after Brexit, UK weighs a ‘Breturn’ to the EU  [NORMAL]
-- Poster: برقعت کے دس سال بعد، کیا برطانیہ یورپی یونین میں واپس جائے گا؟ / 10 years after Brexit, UK weighs a return to EU | category politics
-- Alternative headline: Can the UK and EU turn the page on Brexit?
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera, BBC World
-- Keywords: Brexit Breturn, UK EU summit, Andy Burnham, post-Brexit relations, EU deal | hashtags: #Brexit #UK #EU #Breturn #Politics
-- Scheduled: Sat 21 Nov, 03:23 AM PKT
-- Caption:
-```
-Ten years after the divisive Brexit referendum, the UK is weighing a potential return to the European Union following a new summit.
-
-Prime Minister Andy Burnham has returned from a UK-EU summit carrying a potential new deal that could mark a fresh start in post-Brexit relations. Ten years after the historic and divisive referendum, discussions are open on whether Britain and the EU can turn the page.
-
-برطانوی وزیراعظم اینڈی برہمم یوکے-ییو سربراہی اجلاس سے ایک ممکنہ نئے معاہدے کے ساتھ واپس آئے ہیں جو تعلقات میں ایک نئے دور کا آغاز کر سکتا ہے۔ تاریخی اور متنازع ریفرنڈم کے دس سال بعد اس بات پر غور کیا جا رہا ہے کہ آیا برطانیہ اور یورپی یونین اس باب کو پلٹ سکتے ہیں۔
-
-First reported by Al Jazeera
-
-#Brexit #UK #EU #Breturn #Politics
-```
-
-### Trump insists Iran won't make an acceptable deal  [NORMAL]
-- Poster: امریکہ کے نو منتخب صدر ٹرمپ کا کہنا ہے کہ ایران کوئی قابل قبول معاہدہ نہیں کرے گا۔ / Iran won't make an acceptable deal: Trump | category other
-- Alternative headline: Iran won't make a deal acceptable to me, says Trump
+### Russian missiles land in Poland amid NATO drills  [NORMAL]
+- Poster: پولینڈ میں روسی میزائل گرنے پر نیٹو کیرارش / Russian missiles hit Poland | category world
+- Alternative headline: NATO calls it a violation as Russian missiles hit Poland
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWloczFNdnVzRG4wbllQYXFmQ3FCM0F3WUNnTmNxSlh3MDVqV0R3eDY4VUVwLXVVUGR5R0dsQ05pbGVFS3FORTdLTHNFUmZfNjBIa2RDMUlwMndsbkVoM1FJTDllVVo0TjVORFVMUzhHTFphcDJKZ3gtSHhSbjZBdVFhTzhEUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWloczFNdnVzRG4wbllQYXFmQ3FCM0F3WUNnTmNxSlh3MDVqV0R3eDY4VUVwLXVVUGR5R0dsQ05pbGVFS3FORTdLTHNFUmZfNjBIa2RDMUlwMndsbkVoM1FJTDllVVo0TjVORFVMUzhHTFphcDJKZ3gtSHhSbjZBdVFhTzhEUQ?oc=5
-- Supporting coverage: Dawn, The Washington Post
-- Keywords: Trump Iran deal, Donald Trump, Iran nuclear deal, US foreign policy | hashtags: #Trump #Iran #USPolitics #ForeignPolicy
-- Scheduled: Sat 21 Nov, 03:33 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjQtWDZ3Q21YYUdaT0N0QVRHTEhTaWNFX1lOWUhnNDJIRzNocjdHSTNuWTFxakJKclRITGNwa1B2cEpuVUQ5NVllZjZPWVdNREdKcnZGWjYxSXhIREJhVFdDVlpLc3RPRGpya2FLY1luRDY5c2FsVlVCc3Rrd21EMmhxRFRIR2FyOUZwal9R0gGWAUFVX3lxTE5BdVVwaGVZR2NzUEgxek9vT0ZjajNvUjJhSlhjNHU4c2lqTjRfN1ZCcDExUE1yUmNZZnBsR0p1SkhING9zV2VtNkNnZE5ZWWVOQVVNUWJ3R3hMMzc0MmROLUNhZnFPSF9NZzVRc2pBTncyRkJlOHdiT1NGZWFndE9NMlV3SHRvTzRIOF8tTEFrU1hsSThzQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjQtWDZ3Q21YYUdaT0N0QVRHTEhTaWNFX1lOWUhnNDJIRzNocjdHSTNuWTFxakJKclRITGNwa1B2cEpuVUQ5NVllZjZPWVdNREdKcnZGWjYxSXhIREJhVFdDVlpLc3RPRGpya2FLY1luRDY5c2FsVlVCc3Rrd21EMmhxRFRIR2FyOUZwal9R0gGWAUFVX3lxTE5BdVVwaGVZR2NzUEgxek9vT0ZjajNvUjJhSlhjNHU4c2lqTjRfN1ZCcDExUE1yUmNZZnBsR0p1SkhING9zV2VtNkNnZE5ZWWVOQVVNUWJ3R3hMMzc0MmROLUNhZnFPSF9NZzVRc2pBTncyRkJlOHdiT1NGZWFndE9NMlV3SHRvTzRIOF8tTEFrU1hsSThzQQ?oc=5
+- Supporting coverage: AP News, The Express Tribune
+- Keywords: Russian missiles, Poland, NATO drills, Europe, missile strike | hashtags: #Poland #Russia #NATO #BreakingNews
+- Scheduled: Sat 21 Nov, 04:18 AM PKT
 - Caption:
 ```
-US President Donald Trump has stated that Iran will not make a deal that is acceptable to him.
+Russian missiles have reportedly landed in Poland while European nations were holding military drills nearby, prompting serious concerns from NATO.
 
-US leadership has expressed strong skepticism regarding future negotiations, with Donald Trump declaring that Iran will not make a deal acceptable to him. The remarks add tension to ongoing international diplomatic concerns.
+Russian missiles have landed in Poland amidst ongoing military drills by European nations nearby. NATO has termed the incident a violation, raising tensions in the region as authorities investigate the event.
 
-امریکہ کی قیادت نے مستقبل کے مذاکرات کے حوالے سے شدید شکوک و شبہات کا اظہار کیا ہے، ڈونلڈ ٹرمپ کا کہنا ہے کہ ایران ایسا کوئی معاہدہ نہیں کرے گا جو انہیں قبول ہو۔ ان بیانات سے بین الاقوامی سفارتی سطح پر کشیدگی مزید بڑھ گئی ہے۔
+یورپی ممالک کی فوجی مشقوں کے دوران پولینڈ میں روسی میزائل گرنے کا واقعہ پیش آیا ہے۔ نیٹو نے اس واقعے کو خلاف ورزی قرار دیا ہے جس سے خطے میں کشیدگی بڑھ گئی ہے۔
 
-First reported by Dawn
+First reported by The Express Tribune.
 
-#Trump #Iran #USPolitics #ForeignPolicy
+#Poland #Russia #NATO #BreakingNews
 ```
 
-### Jennifer Lawrence and Josh Hutcherson reveal favorite Hunger Games films  [NORMAL]
-- Poster: جেনিفر لارنس اور جوش ہچرسن نے اپنی پسندیدہ ہنگر گیمز فلموں کے نام بتا دیے۔ / Stars name favorite Hunger Games films | category other
-- Alternative headline: Hunger Games stars share favorite films in first joint interview in ten years
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692020-jennifer-lawrence-josh-hutcherson-name-favourite-hunger-games-films | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692020-jennifer-lawrence-josh-hutcherson-name-favourite-hunger-games-films
-- Supporting coverage: Geo News
-- Keywords: Hunger Games, Jennifer Lawrence, Josh Hutcherson, Sunrise on the Reaping, Catching Fire | hashtags: #JenniferLawrence #HungerGames #JoshHutcherson #Movies
-- Scheduled: Sat 21 Nov, 03:43 AM PKT
-- Caption:
-```
-In their first joint interview in over ten years, Jennifer Lawrence and Josh Hutcherson revealed their favorite Hunger Games movies.
-
-Jennifer Lawrence and Josh Hutcherson named their favorite Hunger Games films during their first joint interview in over a decade. Lawrence chose Catching Fire, while Hutcherson picked the 2012 original. The reunion coincides with their cameo appearance in the prequel Sunrise on the Reaping.
-
-جেনিفر لارنس اور جوش ہچرسن نے ایک دہائی سے زیادہ عرصے میں اپنے پہلے مشترکہ انٹرویو کے دوران اپنی پسندیدہ ہنگر گیمز فلموں کے نام بتائے۔ لارنس نے کیچنگ فائر کا انتخاب کیا جبکہ ہچرسن نے 2012 کی اصل فلم کو پسند کیا۔
-
-First reported by Geo News
-
-#JenniferLawrence #HungerGames #JoshHutcherson #Movies
-```
-
-### Gaza’s displaced children gather to celebrate World Children’s Day  [NORMAL]
-- Poster: غزہ کے بے گھر بچوں نے النصيرات کیمپ میں عالمی یومِ اطفال منایا۔ / Gaza's displaced children celebrate World Children's Day | category disaster
-- Alternative headline: World Children’s Day marked by displaced children in al-Nuseirat camp
+### Iraq PM targets militia stronghold in state control push  [NORMAL]
+- Poster: عراقی وزیراعظم کا ملیشیا کے گڑھ پر آپریشن کا اعلان / Iraq PM targets militia stronghold | category security
+- Alternative headline: Iraqi PM launches nationwide operation in Jurf al-Sakhar
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Gaza children, World Children's Day, al-Nuseirat camp, displaced children, Gaza | hashtags: #Gaza #WorldChildrensDay #Palestine #Refugees
-- Scheduled: Sat 21 Nov, 03:53 AM PKT
+- Keywords: Iraq PM, Jurf al-Sakhar, militia stronghold, state control, Ali al-Zaidi | hashtags: #Iraq #Baghdad #Militia #StateControl
+- Scheduled: Sat 21 Nov, 04:28 AM PKT
 - Caption:
 ```
-Displaced children gathered in the al-Nuseirat refugee camp to mark World Children’s Day amid ongoing hardships.
+Iraqi Prime Minister announced a major operation in Jurf al-Sakhar as part of a nationwide push to assert state control.
 
-Displaced children in the al-Nuseirat refugee camp came together to mark World Children’s Day. The gathering highlights the resilience of young lives affected by ongoing conflict in the Gaza Strip.
+Iraqi Prime Minister Ali al-Zaidi stated that a military operation in Jurf al-Sakhar marks the beginning of a comprehensive nationwide effort to assert full state control over armed groups and territories.
 
-النصيرات پناہ گزین کیمپ میں بے گھر بچوں نے اکٹھے ہو کر عالمی یومِ اطفال منایا۔ یہ اجتماع غزہ کی پٹی میں جاری تنازعے سے متاثر ہونے والے بچوں کی ہمیشگی اور حوصلے کو ظاہر کرتا ہے۔
+عراقی وزیر اعظم علی الزیدی نے کہا ہے کہ جرف الصخر میں آپریشن ملک بھر میں ریاستی کنٹرول قائم کرنے کی وسیع مہم کا آغاز ہے۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#Gaza #WorldChildrensDay #Palestine #Refugees
+#Iraq #Baghdad #Militia #StateControl
 ```
 
-- Indian outlets blocked this run: 1 items
+### Denmark accuses Russia of plotting rapper assassination  [NORMAL]
+- Poster: ڈنمارک کا روس پر گلوکار کے قتل کی سازش کا الزام / Denmark accuses Russia of plot | category world
+- Alternative headline: Russian embassy calls Denmark's assassination plot claims unsubstantiated
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Denmark, Russia, assassination plot, rapper, Kyivstoner, Copenhagen | hashtags: #Denmark #Russia #AssassinationPlot #Copenhagen
+- Scheduled: Sat 21 Nov, 04:38 AM PKT
+- Caption:
+```
+Denmark accused Russian intelligence of plotting to assassinate a US-Ukrainian rapper near Copenhagen, leading to diplomatic expulsions.
+
+Denmark has accused Russian intelligence of planning an assassination attempt against a US-Ukrainian rapper, identified as Kyivstoner, near Copenhagen. Two suspects have been charged, and Denmark is expelling Russia's defense attaché. The Russian embassy dismissed the claims as an unsubstantiated propaganda spectacle.
+
+ڈنمارک نے روسی انٹیلی جنس پر کوپن ہیگن کے قریب یوکرینی نژاد امریکی ریپر کو قتل کرنے کی سازش کا الزام عائد کیا ہے۔ دو افراد پر فرد جرم عائد کی گئی ہے جبکہ روسی سفارتخانے نے الزامات کو مسترد کر دیا ہے۔
+
+First reported by BBC World.
+
+#Denmark #Russia #AssassinationPlot #Copenhagen
+```
+
+### Fossil fuel talks deadlock pushes COP31 into overtime  [NORMAL]
+- Poster: جیاتی ایندھن کے تنازع پر COP31 سمٹ میں توسیع / COP31 climate summit in overtime | category disaster
+- Alternative headline: EU warns COP31 risks turning into a fossil summit
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: COP31, fossil fuel, climate summit, EU, deadlock | hashtags: #COP31 #ClimateChange #FossilFuels #Environment
+- Scheduled: Sat 21 Nov, 04:48 AM PKT
+- Caption:
+```
+Critical climate commitments being omitted from draft deals has pushed the COP31 climate summit into overtime amid an EU warning.
+
+The COP31 climate summit has been forced into overtime due to a deadlock over fossil fuel talks. The European Union warned that the summit risks becoming a 'fossil summit' after critical climate commitments were omitted from the draft agreement.
+
+حیاتی ایندھن کے مذاکرات میں تعطل کے باعث COP31 آب و ہوا کی سمٹ کو وقت بڑھانے پر مجبور ہونا پڑا ہے۔ یورپی یونین نے خبردار کیا ہے کہ مسودے سے اہم وعدے نکالے جانے سے سمٹ ناکام ہو سکتی ہے۔
+
+First reported by Al Jazeera.
+
+#COP31 #ClimateChange #FossilFuels #Environment
+```
+
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [needs_review] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
@@ -151,7 +150,6 @@ First reported by Al Jazeera
 - [needs_review] normal | China and Canada expand tariff relief after Carney-Xi meeting | Wed 18 Nov, 03:04 AM PKT
 - [needs_review] normal | Pakistan Posts $39 Million Current Account Surplus in October, SBP Rep | Wed 18 Nov, 03:32 AM PKT
 - [needs_review] normal | Last-gasp Haaland shoots Norway into Nations League quarters | Wed 18 Nov, 03:42 AM PKT
-- [published] normal | UK sanctions Israeli settlement firms to protect two-state solution | Wed 18 Nov, 03:52 AM PKT
 - [needs_review] normal | Democrats plan investigations into Trump's Venezuela oil money plans | Wed 18 Nov, 04:02 AM PKT
 - [needs_review] normal | US Fed's Lisa Cook refuses to attend White House hearing | Wed 18 Nov, 04:30 AM PKT
 - [needs_review] normal | UK hands over NATO-assigned US soldier accused of spying to US militar | Wed 18 Nov, 04:40 AM PKT
@@ -338,7 +336,7 @@ First reported by Al Jazeera
 - [needs_review] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
 - [queued] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
 - [published] normal | Top US Democrat Warns Trump Administration Against Destroying Official | Fri 20 Nov, 11:42 PM PKT
-- [queued] normal | Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2 | Fri 20 Nov, 11:52 PM PKT
+- [published] normal | Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2 | Fri 20 Nov, 11:52 PM PKT
 - [queued] normal | EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit | Sat 21 Nov, 12:02 AM PKT
 - [queued] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
 - [queued] normal | Belgrade Mayor Faces Three-Year Sentence for Alleged Assault | Sat 21 Nov, 12:46 AM PKT
@@ -357,12 +355,22 @@ First reported by Al Jazeera
 - [queued] normal | Trump insists Iran won't make an acceptable deal | Sat 21 Nov, 03:33 AM PKT
 - [queued] normal | Jennifer Lawrence and Josh Hutcherson reveal favorite Hunger Games fil | Sat 21 Nov, 03:43 AM PKT
 - [queued] normal | Gaza’s displaced children gather to celebrate World Children’s Day | Sat 21 Nov, 03:53 AM PKT
+- [queued] normal | Russian missiles land in Poland amid NATO drills | Sat 21 Nov, 04:18 AM PKT
+- [queued] normal | Iraq PM targets militia stronghold in state control push | Sat 21 Nov, 04:28 AM PKT
+- [queued] normal | Denmark accuses Russia of plotting rapper assassination | Sat 21 Nov, 04:38 AM PKT
+- [queued] normal | Fossil fuel talks deadlock pushes COP31 into overtime | Sat 21 Nov, 04:48 AM PKT
 
 ## Publishing this run
-- Published 'Top US Democrat Warns Trump Administration Against Destroying Official Records'.
+- Published 'Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4345 | output tokens: 2113
+- Calls: 3 | prompt tokens: 3669 | output tokens: 1993
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
