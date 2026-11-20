@@ -91541,7 +91541,569 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "05b52c59a62d5cd4538381f5",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T10:17:44+00:00",
+      "last_update": "2026-11-20T16:07:30+00:00",
+      "event": "Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "drilling",
+        "exploration",
+        "express",
+        "hydrocarbon",
+        "next",
+        "offshore",
+        "pakistan",
+        "plans",
+        "says",
+        "starting",
+        "the",
+        "tribune",
+        "turkiye",
+        "year"
+      ],
+      "source_excerpt": "Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year The Express Tribune",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQTI2S2JXTlVrb1Zpdk1XTkNNNjJBZjZrY1U2N2Z6cDhLcDdoZlM0S0ZnTlY4bHFaNE1iaG5ScV9hZ0xDdGJtSndYb1lrLW82Wnc3eU1NakZOUFl6ejAyS05sRDAtUF9seGxjR3hRbWhHNnNHeDZOVVZOczFtMk9ZQmFKOFE2WnRZa2gyV0tyNnhtQ1Bmc0E5WHpDMnhHTFltV0lyY0d0bm5Vc3IwZGNhLTJ3RDVjLWhrWnh1MzVEOXB1VGt0?oc=5",
+          "published_at": "2026-11-20T10:17:44+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYk92NlZtY3ZGR2xzZTFyeDRnODJib3RBcy10dGdZUXVVMng4cVpVLW9rZ2txc3pjLXJWRm5scURfbWlzY05SemhjYTB4M015T0V5RDJPYmg3VHRjbmxHZmFXbGxFRFUxR2xtNktqejUtRFhWV210ZWZ0NERsOU5kdmpNRm1PSmdqS3AyYkFocVZXRmtrczhtcGRyNmU2UGxrRFJHc195cElVVGpIRllMaE5hajN1aEY0U3BXbEFfWWpxOWRncGJzaU5QM1A1T1U?oc=5",
+          "published_at": "2026-11-20T16:07:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYk92NlZtY3ZGR2xzZTFyeDRnODJib3RBcy10dGdZUXVVMng4cVpVLW9rZ2txc3pjLXJWRm5scURfbWlzY05SemhjYTB4M015T0V5RDJPYmg3VHRjbmxHZmFXbGxFRFUxR2xtNktqejUtRFhWV210ZWZ0NERsOU5kdmpNRm1PSmdqS3AyYkFocVZXRmtrczhtcGRyNmU2UGxrRFJHc195cElVVGpIRllMaE5hajN1aEY0U3BXbEFfWWpxOWRncGJzaU5QM1A1T1U?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ac85b4378273eec8b5aee720",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T15:55:02+00:00",
+      "last_update": "2026-11-20T15:55:02+00:00",
+      "event": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "anton",
+        "baby",
+        "carys",
+        "catherine",
+        "chekhov",
+        "daughter",
+        "debut",
+        "douglas",
+        "her",
+        "jones",
+        "label",
+        "made",
+        "nepo",
+        "parents",
+        "play",
+        "says",
+        "seagull",
+        "stage",
+        "the",
+        "this",
+        "warned",
+        "year",
+        "zeta"
+      ],
+      "source_excerpt": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T15:55:02+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IRG9lVmF2QkFJVU1lWXRPcXN1RWJweGZUajZ5bzFtdkdSSG1Xd2lqWlZPRzdQcjQtR1YwNzdzZ1NtYVNCX0tialhlUC1nWFRXYi1CVFpTQ0lPbmc?oc=5",
+          "published_at": "2026-11-20T15:55:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a90484e63142f6e644538c37",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T15:38:25+00:00",
+      "last_update": "2026-11-20T15:38:25+00:00",
+      "event": "As Trump courts Xi and Putin, middle powers make their own moves",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "courts",
+        "make",
+        "middle",
+        "moves",
+        "own",
+        "powers",
+        "putin",
+        "their",
+        "trump"
+      ],
+      "source_excerpt": "As Trump courts Xi and Putin, middle powers make their own moves",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/as-trump-courts-xi-and-putin-middle-powers-make-their-own-moves",
+          "published_at": "2026-11-20T15:38:25+00:00"
+        },
+        {
+          "name": "ARY News Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXZXR2JIbGE5bUQwY0Z5V0Y4ZVVsZlAzQUxXM1Z5MGdQUDdfZWxLYUdZcXc0bHFlX21RVm1YeGNhMmdNaXE0aEY4NHVCNnl1UVBQRW9qNDhPeHY1MjhyMTBLaThXaDlSbm5xSFdadnpGb1hkbF9uYVRrckdIV25qczZwTFB0OERWMVpF?oc=5",
+          "published_at": "2026-11-20T15:38:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/as-trump-courts-xi-and-putin-middle-powers-make-their-own-moves",
+        "publisher_url": "https://arynews.tv/as-trump-courts-xi-and-putin-middle-powers-make-their-own-moves",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "71bee607c67d4a0baeafe830",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T16:10:12+00:00",
+      "last_update": "2026-11-20T16:10:12+00:00",
+      "event": "US Senate passes bill to speed up energy project approvals",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aims",
+        "and",
+        "approvals",
+        "bill",
+        "bills",
+        "challenges",
+        "court",
+        "energy",
+        "faster",
+        "legislation",
+        "limiting",
+        "lower",
+        "making",
+        "passes",
+        "project",
+        "senate",
+        "speed",
+        "the"
+      ],
+      "source_excerpt": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
+          "published_at": "2026-11-20T16:10:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "41b65e8dd668a53b23d5da40",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T16:05:31+00:00",
+      "last_update": "2026-11-20T16:05:31+00:00",
+      "event": "What is Vox, and how did Spain’s far-right party rise to prominence?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "campaigning",
+        "deportations",
+        "did",
+        "far",
+        "how",
+        "mass",
+        "national",
+        "party",
+        "prepares",
+        "priority",
+        "prominence",
+        "right",
+        "rise",
+        "spain",
+        "vote",
+        "vox",
+        "what"
+      ],
+      "source_excerpt": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
+          "published_at": "2026-11-20T16:05:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7e5c36ab235c3a7c3a87679d",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T15:50:28+00:00",
+      "last_update": "2026-11-20T15:50:28+00:00",
+      "event": "One third of attacks on children worldwide recorded in Palestine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "against",
+        "almost",
+        "attacks",
+        "children",
+        "occurred",
+        "one",
+        "palestine",
+        "recorded",
+        "reported",
+        "third",
+        "three",
+        "violations",
+        "worldwide"
+      ],
+      "source_excerpt": "Almost one in three reported violations against children worldwide occurred in Palestine in 2025.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss",
+          "published_at": "2026-11-20T15:50:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "387d86d1ec82b436f243773e",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T15:49:06+00:00",
+      "last_update": "2026-11-20T15:49:06+00:00",
+      "event": "Kansas hosts become guests as Algeria repays World Cup welcome",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africans",
+        "algeria",
+        "and",
+        "become",
+        "between",
+        "bond",
+        "city",
+        "cup",
+        "deepened",
+        "during",
+        "guests",
+        "has",
+        "hosted",
+        "hosts",
+        "kansas",
+        "north",
+        "repays",
+        "since",
+        "the",
+        "welcome",
+        "world"
+      ],
+      "source_excerpt": "A bond between Kansas and Algeria has deepened since the city hosted the North Africans during the World Cup.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss",
+          "published_at": "2026-11-20T15:49:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "51653326d6255b4a9c8206bf",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T15:42:04+00:00",
+      "last_update": "2026-11-20T15:42:04+00:00",
+      "event": "Jerusalem Daily: Palestinians return home to ruins",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "attacks",
+        "continue",
+        "daily",
+        "find",
+        "gaza",
+        "ground",
+        "home",
+        "homes",
+        "israel",
+        "jerusalem",
+        "offensive",
+        "palestinians",
+        "reduced",
+        "return",
+        "rubble",
+        "ruins",
+        "their"
+      ],
+      "source_excerpt": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+          "published_at": "2026-11-20T15:42:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "df933c943fcebc30af7df53f",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T15:55:16+00:00",
+      "last_update": "2026-11-20T15:55:16+00:00",
+      "event": "Nearly 600 women killed in South Africa within three months",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "600",
+        "africa",
+        "against",
+        "and",
+        "called",
+        "children",
+        "efforts",
+        "for",
+        "greater",
+        "killed",
+        "months",
+        "nearly",
+        "officials",
+        "police",
+        "prevent",
+        "south",
+        "three",
+        "violence",
+        "within",
+        "women"
+      ],
+      "source_excerpt": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T15:55:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9340d085db92aea4361394bc",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T15:50:40+00:00",
+      "last_update": "2026-11-20T15:50:40+00:00",
+      "event": "Cash on the move: Why the SBP deposited more than Rs 13.5 trillion in market",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ary",
+        "cash",
+        "deposited",
+        "market",
+        "more",
+        "move",
+        "news",
+        "pakistan",
+        "sbp",
+        "than",
+        "the",
+        "trillion",
+        "why"
+      ],
+      "source_excerpt": "Cash on the move: Why the SBP deposited more than Rs 13.5 trillion in market ARY News Pakistan",
+      "sources": [
+        {
+          "name": "ARY News Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRy1zbzg5T01TSlNqdWtHTUtXN1U5NXRySjVqZkdPOXAtZDRhMmMya0k2bjJtVnVNTldSUVhiemNTWWZ1dnhwX2xHS28tSUR1c0JCdXRjbWtVZ0lfX0U5TFN5bFdDUlhEVXZkVE1rRThEOGZwR01LZzV5Q2JWLTJhNU1zTS00S2RzdUl4bV80cENLck9qa0IwSkZ3?oc=5",
+          "published_at": "2026-11-20T15:50:40+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/cash-on-the-move-why-the-sbp-deposited-more-than-rs-13-5-trillion-in-market",
+          "published_at": "2026-11-20T15:50:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News Pakistan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRy1zbzg5T01TSlNqdWtHTUtXN1U5NXRySjVqZkdPOXAtZDRhMmMya0k2bjJtVnVNTldSUVhiemNTWWZ1dnhwX2xHS28tSUR1c0JCdXRjbWtVZ0lfX0U5TFN5bFdDUlhEVXZkVE1rRThEOGZwR01LZzV5Q2JWLTJhNU1zTS00S2RzdUl4bV80cENLck9qa0IwSkZ3?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c27d41483ddec260d3a7a209",
+      "remembered_at": "2026-11-20T16:44:35.998484+00:00",
+      "event_date": "2026-11-20T15:45:01+00:00",
+      "last_update": "2026-11-20T15:45:01+00:00",
+      "event": "Bilawal claims he helped Shehbaz Sharif become prime minister twice",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "become",
+        "bilawal",
+        "claims",
+        "helped",
+        "minister",
+        "prime",
+        "sharif",
+        "shehbaz",
+        "twice"
+      ],
+      "source_excerpt": "Bilawal claims he helped Shehbaz Sharif become prime minister twice",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/bilawal-claims-he-helped-shehbaz-sharif-become-prime-minister-twice",
+          "published_at": "2026-11-20T15:45:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/bilawal-claims-he-helped-shehbaz-sharif-become-prime-minister-twice",
+        "publisher_url": "https://arynews.tv/bilawal-claims-he-helped-shehbaz-sharif-become-prime-minister-twice",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T15:41:40.633145+00:00"
+  "updated_at": "2026-11-20T16:44:35.998484+00:00"
 }

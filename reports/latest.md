@@ -1,174 +1,50 @@
-# News Hub report - Fri 20 Nov, 08:41 PM PKT
+# News Hub report - Fri 20 Nov, 09:44 PM PKT
 
 ## Collection
-- New items this run: 66 | items in rolling pool: 698
-- Unique story clusters: 618 (duplicates merged: 80)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 9
-- Items per outlet: UrduPoint 10, Geo News 7, Al Jazeera 6, ProPakistani 6, Pakistan Today 5, ARY News 4, BBC Business 3, TechJuice 3, samaa tv 2, The Verge 2, Dawn Latest 1, Dawn 1
+- New items this run: 80 | items in rolling pool: 689
+- Unique story clusters: 612 (duplicates merged: 77)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 24, Geo News 5, Al Jazeera 5, ARY News 4, samaa tv 4, ProPakistani 4, Profit by Pakistan Today 4, ARY News Pakistan 3, The Verge 3, TechJuice 3, Dawn Latest 2, X 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Ringleader pleads guilty to $100 million US jewellery heist | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Türkiye sign mineral, energy cooperation agreements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan Shaheens begin campaign with 61-run win over UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab police team comes under fire in Karachi, one killed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- As Trump courts Xi and Putin, middle powers make their own moves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Ringleader pleads guilty to $100 million US jewellery heist | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Türkiye sign mineral, energy cooperation agreements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan Shaheens begin campaign with 61-run win over UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab police team comes under fire in Karachi, one killed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- As Trump courts Xi and Putin, middle powers make their own moves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Ringleader pleads guilty to $100 million US jewellery heist | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Türkiye sign mineral, energy cooperation agreements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan Shaheens begin campaign with 61-run win over UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab police team comes under fire in Karachi, one killed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- As Trump courts Xi and Putin, middle powers make their own moves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 2 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 2 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Profit Search | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over UAE  [NORMAL]
-- Poster: پاکستان شاہینز نے یو اے ای کو 61 رنز سے شکست دے دی / Pakistan Shaheens beat UAE by 61 runs | category sports
-- Alternative headline: Defending champions Pakistan Shaheens defeat UAE by 61 runs in opening match
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/pakistan-shaheens-begin-campaign-with-61-run-win-over-uae | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/pakistan-shaheens-begin-campaign-with-61-run-win-over-uae
-- Supporting coverage: ARY News, Dawn
-- Keywords: Pakistan Shaheens, Asia Cup Rising Stars, UAE, Shamyl Hussain, cricket, Ali Raza | hashtags: #PakistanShaheens #AsiaCupRisingStars #PAKvsUAE #Cricket #Sports
-- Scheduled: Fri 20 Nov, 08:41 PM PKT
-- Caption:
-```
-Defending champions Pakistan Shaheens made a flying start to their ACC Asia Cup Rising Stars 2026 campaign with a comfortable win.
-
-Defending champions Pakistan Shaheens defeated the United Arab Emirates by 61 runs in their opening Group B fixture of the ACC Asia Cup Rising Stars 2026 at the University of Doha for Science and Technology. Shamyl Hussain starred with a brisk 62 off 39 balls, while fast bowler Ali Raza and teammates restricted UAE to 184.
-
-دفاعی چیمپئن پاکستان شاہینز نے اے سی سی ایشیا کپ رائزنگ سٹارز 2026 کے اپنے پہلے گروپ بی میچ میں متحدہ عرب امارات کو 61 رنز سے شکست دے دی۔ شمیل حسین نے شاندار 62 رنز بنائے، جبکہ فاسٹ بولر علی رضا اور ساتھی بولرز نے یو اے ای کی ٹیم کو 184 رنز پر آؤٹ کر دیا۔
-
-First reported by ARY News
-
-#PakistanShaheens #AsiaCupRisingStars #PAKvsUAE #Cricket #Sports
-```
-
-### Ringleader pleads guilty to massive $100 million US jewellery heist  [NORMAL]
-- Poster: ایک کروڑ ڈالر کی امریکی جیولری ڈکیتی کا ماسٹر مائنڈ اعترافِ جرم / Ringleader pleads guilty in $100m US jewellery heist | category crime
-- Alternative headline: US jewellery heist ringleader enters guilty plea over $100 million theft
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3VMNUVpX1ljV2s1TS1uV0hpQnY1SVVxNlBWM2dVblJ5NEdXZmxsT3p5VFdYeHZGaG56a3d3Y2xSY0s2ai1HQWdQYzl5MEdaNk5NR0hzdDRZTXpkc3djSXZTbXY2bV9BOUR1R3YwTnpHVVdJdzlWZWVmY21DUHRBZ1NSTU9PSEk0bnB2d3oxUXVVbzEyay0w?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3VMNUVpX1ljV2s1TS1uV0hpQnY1SVVxNlBWM2dVblJ5NEdXZmxsT3p5VFdYeHZGaG56a3d3Y2xSY0s2ai1HQWdQYzl5MEdaNk5NR0hzdDRZTXpkc3djSXZTbXY2bV9BOUR1R3YwTnpHVVdJdzlWZWVmY21DUHRBZ1NSTU9PSEk0bnB2d3oxUXVVbzEyay0w?oc=5
-- Supporting coverage: Dawn, Dawn Latest, The Express Tribune
-- Keywords: jewellery heist, ringleader, guilty plea, US crime, theft, Dawn | hashtags: #JewelleryHeist #CrimeNews #USNews #Court #Dawn
-- Scheduled: Fri 20 Nov, 08:51 PM PKT
-- Caption:
-```
-The main accused in a staggering $100 million jewellery heist in the United States has officially entered a guilty plea.
-
-The ringleader behind a massive $100 million jewellery heist in the United States has formally pleaded guilty to the charges, according to reports from Dawn.
-
-ڈان کی رپورٹس کے مطابق، امریکہ میں ایک کروڑ ڈالر کی بڑی جیولری ڈکیتی کے ماسٹر مائنڈ نے باضابطہ طور پر عدالت میں اعترافِ جرم کر لیا ہے۔
-
-First reported by Dawn
-
-#JewelleryHeist #CrimeNews #USNews #Court #Dawn
-```
-
-### Pakistan and Türkiye sign new mineral and energy cooperation agreements  [NORMAL]
-- Poster: پاکستان اور ترکی کے درمیان معدنیات اور توانائی کے شعبے میں معاہد طے / Pakistan, Türkiye sign mineral and energy pacts | category other
-- Alternative headline: Energy and mineral pacts signed between Pakistan and Türkiye
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzdyN2tncnEyNEdtYUV6bmhrUmtjcDNGSmI0cW9scktEQTVhZDJucE5NR29sem0zNlZlYjNma2huS3Nra2dTemVtcTNvRDE2VHJaSWo3VExBQS1vZERHOHBza3lRQXlfZjV5NXNvUG4yd0lYTVRGOGg1NVE5UFhBS2dJc0djYjdDZ2pMc2dMQlVLOWl0b0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzdyN2tncnEyNEdtYUV6bmhrUmtjcDNGSmI0cW9scktEQTVhZDJucE5NR29sem0zNlZlYjNma2huS3Nra2dTemVtcTNvRDE2VHJaSWo3VExBQS1vZERHOHBza3lRQXlfZjV5NXNvUG4yd0lYTVRGOGg1NVE5UFhBS2dJc0djYjdDZ2pMc2dMQlVLOWl0b0E?oc=5
-- Supporting coverage: samaa tv, Pakistan Today
-- Keywords: Pakistan Türkiye agreements, mineral cooperation, energy pact, bilateral ties, Pakistan news | hashtags: #Pakistan #Turkiye #Energy #Minerals #BilateralRelations
-- Scheduled: Fri 20 Nov, 09:01 PM PKT
-- Caption:
-```
-Pakistan and Türkiye have further strengthened bilateral ties by signing crucial cooperation agreements in the mineral and energy sectors.
-
-Pakistan and Türkiye have signed important cooperation agreements covering the mineral and energy sectors, aiming to enhance bilateral collaboration and economic ties between the two nations, as reported by Samaa TV.
-
-سما ٹی وی کی رپورٹ کے مطابق پاکستان اور ترکی نے دونوں ممالک کے درمیان دوطرفہ تعاون اور اقتصادی تعلقات کو فروغ دینے کے لیے معدنیات اور توانائی کے شعبوں میں اہم تعاون کے معاہدوں پر دستخط کیے ہیں۔
-
-First reported by samaa tv
-
-#Pakistan #Turkiye #Energy #Minerals #BilateralRelations
-```
-
-### Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi sovereignty  [NORMAL]
-- Poster: پاکستان کی ریاض پر حوثی حملوں کی شدید مذمت، سعودی سالمیت کی حمایت / Pakistan condemns Houthi attacks on Riyadh | category war
-- Alternative headline: Islamabad condemns Houthi strikes on Riyadh, reaffirms support for Saudi Arabia
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News Pakistan https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFRQ3lKaDRuZEduakZMS3A1aFhSbGk2MHBHOUFld1BoQWlaa1h2ME42Qko5ZEdia29XYkFoS191WVhrazB0UlAwOGR3bGxOWGQ0YVRFWndmcjA2ZWpjOWx6eUgxREhlUmNtY280QjkwaUJLWGxQN0hKMElxNWlHc2lhSmJJQmdzZVhWMWJpV3pub3pVaVgyQi13NnhnSWhDd1NN?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News Pakistan https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFRQ3lKaDRuZEduakZMS3A1aFhSbGk2MHBHOUFld1BoQWlaa1h2ME42Qko5ZEdia29XYkFoS191WVhrazB0UlAwOGR3bGxOWGQ0YVRFWndmcjA2ZWpjOWx6eUgxREhlUmNtY280QjkwaUJLWGxQN0hKMElxNWlHc2lhSmJJQmdzZVhWMWJpV3pub3pVaVgyQi13NnhnSWhDd1NN?oc=5
-- Supporting coverage: ARY News Pakistan, ARY News
-- Keywords: Pakistan condemns Houthi attacks, Riyadh, Saudi sovereignty, Houthi attacks, foreign policy, ARY News | hashtags: #Pakistan #SaudiArabia #Riyadh #HouthiAttacks #ForeignPolicy
-- Scheduled: Fri 20 Nov, 09:11 PM PKT
-- Caption:
-```
-Pakistan has strongly condemned the recent Houthi missile and drone attacks targeting Riyadh, reaffirming its unwavering support for Saudi sovereignty.
-
-Pakistan has strongly denounced the Houthi attacks directed at Riyadh and reiterated its firm backing for the security and territorial integrity of Saudi Arabia, according to reports by ARY News.
-
-اے آر وائی نیوز کی رپورٹ کے مطابق پاکستان نے ریاض کو نشانہ بنانے والے حوثی حملوں کی شدید مذمت کی ہے اور سعودی عرب کی سلامتی اور علاقائی سالمیت کے لیے اپنی غیر متزلزل حمایت کا اعادہ کیا ہے۔
-
-First reported by ARY News Pakistan
-
-#Pakistan #SaudiArabia #Riyadh #HouthiAttacks #ForeignPolicy
-```
-
-- Indian outlets blocked this run: 6 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
-- [needs_review] normal | NDMA issues drought high alert for Sindh | Tue 17 Nov, 02:58 PM PKT
-- [needs_review] normal | Gamers in Asia stoked to play 'GTA VI', many on grey market | Tue 17 Nov, 03:08 PM PKT
-- [needs_review] normal | Poll suggests only 31pc of Americans support war on Iran | Tue 17 Nov, 03:18 PM PKT
-- [needs_review] normal | ADB approves $500mn loan to support Pakistan's rension reforms | Tue 17 Nov, 03:28 PM PKT
-- [needs_review] normal | Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exch | Tue 17 Nov, 04:02 PM PKT
-- [needs_review] normal | Trump is not going to let Iran conflict become a 'forever war', assert | Tue 17 Nov, 04:12 PM PKT
-- [needs_review] normal | Gold, silver prices in Pakistan - latest: Nov 17, 2026 | Tue 17 Nov, 04:22 PM PKT
-- [needs_review] normal | Sri Lanka register unwanted record | Tue 17 Nov, 04:32 PM PKT
-- [needs_review] normal | Bangladesh garment workers, police clash in fresh wage protest | Tue 17 Nov, 04:56 PM PKT
-- [needs_review] normal | CDF Munir, Iranian FM discuss regional security, evolving geopolitical | Tue 17 Nov, 05:06 PM PKT
-- [needs_review] normal | Fire breaks out at factory in Karachi’s Baldia Town | Tue 17 Nov, 05:16 PM PKT
-- [needs_review] normal | Bilawal calls for political 'reset', says system 'deliberately destroy | Tue 17 Nov, 05:26 PM PKT
-- [needs_review] normal | ICC fines Pakistan and Sri Lanka for slow over-rates | Tue 17 Nov, 06:00 PM PKT
-- [needs_review] normal | Vance calls out ‘neoconservatives’ over Iran war | Tue 17 Nov, 06:10 PM PKT
-- [needs_review] normal | Mozambique opposition leader faces trial over deadly 2024 election unr | Tue 17 Nov, 06:20 PM PKT
-- [needs_review] normal | Pakistan, Turkmenistan to convene steering committee for TAPI gas pipe | Tue 17 Nov, 06:30 PM PKT
-- [needs_review] normal | Islamabad bars vehicles without fitness and emissions tests to curb sm | Tue 17 Nov, 07:25 PM PKT
-- [needs_review] normal | ECP decides to hold Punjab local government elections in two phases | Tue 17 Nov, 07:35 PM PKT
-- [needs_review] normal | 8 Pakistan Bar Council members call on judiciary to take note of Imran | Tue 17 Nov, 07:45 PM PKT
-- [needs_review] normal | Usman Nurmagomedov released from UAE prison after hotel brawl arrest | Tue 17 Nov, 07:55 PM PKT
-- [needs_review] normal | Saudi's Delta Energy to explore $30 billion energy investment in Pakis | Tue 17 Nov, 08:23 PM PKT
-- [needs_review] normal | PTI leaders Taimur Jhagra, Kamran Bangash arrested in Peshawar | Tue 17 Nov, 08:33 PM PKT
-- [needs_review] normal | Bilawal says system was 'made to collapse' amid debate on 'reset' in P | Tue 17 Nov, 08:43 PM PKT
-- [needs_review] normal | Chinese govt announces 61 scholarships for Pakistani students for 2027 | Tue 17 Nov, 08:53 PM PKT
-- [published] normal | Pakistan's Pace Battery Bundles Sri Lanka Out for 98 in Rawalpindi Tes | Tue 17 Nov, 09:30 PM PKT
-- [published] normal | Asian Development Bank Approves $500M Loan to Support Pakistan's Pensi | Tue 17 Nov, 09:40 PM PKT
-- [published] normal | PTI Leaders Taimur Jhagra and Kamran Bangash Arrested in Peshawar | Tue 17 Nov, 09:50 PM PKT
-- [published] normal | ICC Fines Pakistan and Sri Lanka and Docks WTC Points for Slow Over-Ra | Tue 17 Nov, 10:00 PM PKT
 - [published] normal | Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack | Tue 17 Nov, 11:39 PM PKT
 - [published] normal | ECP Decides to Hold Punjab Local Government Elections in Two Phases | Tue 17 Nov, 11:49 PM PKT
 - [published] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
@@ -352,12 +228,12 @@ First reported by ARY News Pakistan
 - [needs_review] normal | Trump Ousts US Cyber Director After Tech Outages Spark Criticism | Fri 20 Nov, 02:20 PM PKT
 - [needs_review] normal | Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case | Fri 20 Nov, 02:30 PM PKT
 - [published] normal | Karachi Man Inspired by Batman Arrested Over Alleged US Data Sale | Fri 20 Nov, 03:10 PM PKT
-- [queued] normal | Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb | Fri 20 Nov, 03:20 PM PKT
-- [queued] normal | El Salvador’s President Bukele Seeks Third Term After Constitutional C | Fri 20 Nov, 03:30 PM PKT
-- [queued] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
+- [needs_review] normal | Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb | Fri 20 Nov, 03:20 PM PKT
+- [needs_review] normal | El Salvador’s President Bukele Seeks Third Term After Constitutional C | Fri 20 Nov, 03:30 PM PKT
+- [needs_review] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
 - [queued] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [queued] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
-- [queued] normal | Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizab | Fri 20 Nov, 05:28 PM PKT
+- [published] normal | Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizab | Fri 20 Nov, 05:28 PM PKT
 - [queued] normal | Bank of Punjab Wins International Award for SME Financing Innovation | Fri 20 Nov, 05:38 PM PKT
 - [queued] normal | Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026 | Fri 20 Nov, 05:48 PM PKT
 - [queued] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
@@ -374,13 +250,25 @@ First reported by ARY News Pakistan
 - [queued] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
 
 ## Publishing this run
-- Published 'Karachi Man Inspired by Batman Arrested Over Alleged US Data Sale'.
+- Published 'Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizabad Home'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6372 | output tokens: 2388
-- Errors: 2
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"
