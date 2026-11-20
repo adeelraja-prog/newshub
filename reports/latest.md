@@ -1,49 +1,149 @@
-# News Hub report - Fri 20 Nov, 04:20 PM PKT
+# News Hub report - Fri 20 Nov, 05:28 PM PKT
 
 ## Collection
-- New items this run: 91 | items in rolling pool: 615
-- Unique story clusters: 512 (duplicates merged: 103)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 12
-- Items per outlet: UrduPoint 17, ARY News 10, ProPakistani 10, Al Jazeera 5, Dawn 4, Geo News 4, Wired 4, TechJuice 4, UNITED24 Media 3, samaa tv 2, Reuters 2, Investify 2
+- New items this run: 147 | items in rolling pool: 718
+- Unique story clusters: 612 (duplicates merged: 106)
+- Clusters dropped as already published/queued: 21; unchanged since last analysis: 15
+- Items per outlet: UrduPoint 57, Geo News 11, ProPakistani 10, TechJuice 7, ARY News 6, Al Jazeera 6, Wired 5, samaa tv 4, Jang Urdu 4, Dawn 3, The Current 3, The Friday Times 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
+## YouTube channel promotions
+- Feed entries checked: 30 | new uploads queued: 2 | first-run seeded: 0
+- Adeel Raja: Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | https://www.youtube.com/watch?v=QauN62e1mis
+- Adeel Raja: SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | https://www.youtube.com/watch?v=NdEDGKfpqx8
+
 ## Top 5 most important
+- Bank of Punjab wins international award for SME financing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Abbas leaves Tongue behind to become leading Test wicket-taker in 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gold prices plunge by Rs15,400/ tola in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russia unleashes retaliatory barrage on Kyiv bridges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- White House removes cyber-security chief after series of tech outages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Can the Rohingya genocide verdict deliver justice? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drone operator removes Man United training footage and issues apology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ex-federal minister Liaquat Abbas Bhatti strangled to death at his house: Police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Bank of Punjab wins international award for SME financing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Abbas leaves Tongue behind to become leading Test wicket-taker in 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gold prices plunge by Rs15,400/ tola in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russia unleashes retaliatory barrage on Kyiv bridges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- White House removes cyber-security chief after series of tech outages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Can the Rohingya genocide verdict deliver justice? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drone operator removes Man United training footage and issues apology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ex-federal minister Liaquat Abbas Bhatti strangled to death at his house: Police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Bank of Punjab wins international award for SME financing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Abbas leaves Tongue behind to become leading Test wicket-taker in 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gold prices plunge by Rs15,400/ tola in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russia unleashes retaliatory barrage on Kyiv bridges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- White House removes cyber-security chief after series of tech outages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Can the Rohingya genocide verdict deliver justice? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drone operator removes Man United training footage and issues apology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ex-federal minister Liaquat Abbas Bhatti strangled to death at his house: Police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 2 | failed: 2 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
+### Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizabad Home  [NORMAL]
+- Poster: سابق وفতিক وزیر لیاقت عباس بھٹی گھر میں مردہ پائے گئے / Ex-Federal Minister Liaquat Abbas Bhatti Murdered at Home | category crime
+- Alternative headline: Police Register Murder Case Against Guards After Ex-Minister Found Dead
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/liaquat-abbas-bhatti-strangled-to-death-at-his-house-police | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/liaquat-abbas-bhatti-strangled-to-death-at-his-house-police
+- Supporting coverage: ARY News
+- Keywords: Liaquat Abbas Bhatti, Hafizabad police, murder case, former federal minister, FIR, security guards | hashtags: #Hafizabad #BreakingNews #PakistanPolice #LiaquatAbbasBhatti #CrimeNews
+- Scheduled: Fri 20 Nov, 05:28 PM PKT
+- Caption:
+```
+Former federal minister Liaquat Abbas Bhatti was found strangled to death at his house in Hafizabad, with police registering a case against his guards.
+
+Former federal minister Liaquat Abbas Bhatti was found strangled to death in his room near Kasoki Bypass in Hafizabad. Police registered a murder and robbery case at the City Police Station on the complaint of his nephew, MPA Zameer-ul-Hassan Bhatti. According to the FIR, over 10 suspects, including four personal security guards, allegedly committed the crime and fled with gold, cash, and luxury vehicles.
+
+سابق وفاقی وزیر لیاقت عباس بھٹی کی لاش حافظ آباد میں ان کے گھر سے ملی ہے، جنہیں گلا گھونٹ کر قتل کیا گیا۔ پولیس نے مقتبھ کے بھتیجے کی مدعی میں مقدمہ درج کر لیا ہے، جس میں چار ذاتی سیکیورٹی گارڈز سمیت 10 سے زائد افراد کو نامزد کیا گیا ہے۔ ملزمان مبینہ طور پر نقدی، سونا اور گاڑیاں بھی ساتھ لے گئے۔
+
+First reported by ARY News
+
+#Hafizabad #BreakingNews #PakistanPolice #LiaquatAbbasBhatti #CrimeNews
+```
+
+### Bank of Punjab Wins International Award for SME Financing Innovation  [NORMAL]
+- Poster: بینک آف پنجاب نے ایس ایم ای فنانسنگ کا عالمی اعزاز جیت لیا / Bank of Punjab Wins Global SME Financing Award | category economy
+- Alternative headline: Global Recognition for Bank of Punjab at Singapore FinTech Festival
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOdENvdk5NQ3lRYlU1VWY3dVg2bG12TGRfOTZPOFI3TDVZUVNSZnIxeElfeXV2RW5OVTg5dUlpOEZYcjNhU3Q4YWVkRkx5RERHU1h3OGdSNFB5MEo0R2FjZ0VCSHJJQ25sTmNWbHpZbGtDLVliTVRoeTltREs3SVVuMndjRXdldl9QRTNRQlh5OE4zeVZ6a2c?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOdENvdk5NQ3lRYlU1VWY3dVg2bG12TGRfOTZPOFI3TDVZUVNSZnIxeElfeXV2RW5OVTg5dUlpOEZYcjNhU3Q4YWVkRkx5RERHU1h3OGdSNFB5MEo0R2FjZ0VCSHJJQ25sTmNWbHpZbGtDLVliTVRoeTltREs3SVVuMndjRXdldl9QRTNRQlh5OE4zeVZ6a2c?oc=5
+- Supporting coverage: Profit by Pakistan Today, Dawn
+- Keywords: Bank of Punjab, SME financing, international award, banking innovation, Pakistan economy | hashtags: #BankOfPunjab #SMEFinancing #PakistanEconomy #Banking #GlobalAward
+- Scheduled: Fri 20 Nov, 05:38 PM PKT
+- Caption:
+```
+The Bank of Punjab has received an international award recognizing its innovative contributions to SME financing.
+
+The Bank of Punjab has been honored with an international award for its excellence and innovation in SME financing. The recognition highlights the bank's growing role in supporting small and medium-sized enterprises through dedicated financial services and modern banking solutions.
+
+بینک آف پنجاب کو ایس ایم ای فنانسنگ میں بہترین کارکردگی اور جدت پر ایک بین الاقوامی اعزاز سے نوازا گیا ہے۔ یہ کامیابی چھوٹے اور درمیانے درجے کے کاروباری اداروں کے لیے بینک کی خدمات کا اعتراف ہے۔
+
+First reported by Dawn
+
+#BankOfPunjab #SMEFinancing #PakistanEconomy #Banking #GlobalAward
+```
+
+### Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026  [NORMAL]
+- Poster: محمد عباس 2026 میں سب سے زیادہ ٹیسٹ وکٹیں لینے والے بولر بن گئے / Mohammad Abbas Tops 2026 Test Wickets Chart | category sports
+- Alternative headline: Pakistan Pacer Abbas Surpasses Josh Tongue to Top 2026 Test Wickets
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/691924-abbas-leaves-englands-tongue-behind-to-become-leading-test-wicket-taker-in-2026 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691924-abbas-leaves-englands-tongue-behind-to-become-leading-test-wicket-taker-in-2026
+- Supporting coverage: ProPakistani, Geo News, Geo News
+- Keywords: Mohammad Abbas, Test cricket, leading wicket-taker, Pakistan cricket, Josh Tongue, Sri Lanka series | hashtags: #MohammadAbbas #TestCricket #PakistanCricket #GreenShirts #CricketNews
+- Scheduled: Fri 20 Nov, 05:48 PM PKT
+- Caption:
+```
+Pakistani pacer Mohammad Abbas has overtaken England's Josh Tongue to claim the position of leading Test wicket-taker in 2026.
+
+Pakistan's Mohammad Abbas has surpassed England's Josh Tongue to become the leading Test wicket-taker in 2026. Following an impressive series against Sri Lanka where he claimed eight wickets and won Player of the Series, Abbas has taken 39 wickets across eight Tests this year with an economy rate of 2.56.
+
+پاکستان کے فاسٹ بولر محمد عباس نے انگلینڈ کے جوش ٹنگ کو پیچھے چھوڑ کر 2026 میں سب سے زیادہ ٹیسٹ وکٹیں حاصل کرنے والے بولر کا اعزاز حاصل کر لیا ہے۔ سری لنکا کے خلاف شاندار کارکردگی کے بعد رواں سال ان کی وکٹوں کی تعداد 39 ہو گئی ہے۔
+
+First reported by Geo News
+
+#MohammadAbbas #TestCricket #PakistanCricket #GreenShirts #CricketNews
+```
+
+### Gold Prices in Pakistan Plunge by Rs15,400 Per Tola  [NORMAL]
+- Poster: پاکستان میں سونے کی فی تولہ قیمت میں 15,400 روپے کی بڑی کمی / Gold Price Plunges Rs15,400 Per Tola in Pakistan | category economy
+- Alternative headline: Significant Drop Recorded as Gold Falls Rs15,400 Per Tola Nationwide
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/gold-prices-plunge-by-rs15400-tola-in-pakistan | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/gold-prices-plunge-by-rs15400-tola-in-pakistan
+- Supporting coverage: Investify, Investify, ARY News
+- Keywords: Gold prices, per tola gold, Sarafa Association, Pakistan economy, silver prices, bullion market | hashtags: #GoldRate #PakistanEconomy #SarafaAssociation #GoldPrice #BusinessNews
+- Scheduled: Fri 20 Nov, 05:58 PM PKT
+- Caption:
+```
+Gold prices in Pakistan experienced a major downward correction, dropping by Rs15,400 per tola in line with international market trends.
+
+Gold and silver prices witnessed a sharp decline across Pakistan, with the per-tola gold price dropping by Rs15,400 to Rs379,836 according to the All Pakistan Sarafa Gems and Jewellers Association. The 10-gram 24-karat gold decreased by Rs13,203 to Rs325,648, while international gold prices fell by $154 to $3,573 per ounce.
+
+آل پاکستان صرافہ جیمز اینڈ جیولرز ایسوسی ایشن کے مطابق پاکستان میں سونے کی فی تولہ قیمت میں 15,400 روپے کی نمایاں کمی واقع ہوئی ہے جس کے بعد نیا نرخ 379,836 روپے ہو گیا ہے۔ عالمی منڈی میں بھی سونے کی قیمتوں میں کمی دیکھی گئی۔
+
+First reported by ARY News
+
+#GoldRate #PakistanEconomy #SarafaAssociation #GoldPrice #BusinessNews
+```
+
 - Indian outlets blocked this run: 8 items
 
 ## Today
-- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
-- [needs_review] normal | Nvidia rules out Jensen Huang's return as board hires law firm to inve | Tue 17 Nov, 10:21 AM PKT
-- [needs_review] normal | Pakistan crush Sri Lanka in Blind Asia Cup | Tue 17 Nov, 10:31 AM PKT
-- [needs_review] normal | Balochistan PA flags flour prices, dept mergers | Tue 17 Nov, 10:41 AM PKT
 - [needs_review] normal | Two held for Rs5m UK work visa fraud | Tue 17 Nov, 11:31 AM PKT
 - [needs_review] normal | Man found murdered in farmhouse | Tue 17 Nov, 11:41 AM PKT
 - [needs_review] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
@@ -250,10 +350,10 @@
 - [needs_review] normal | Asia’s stock markets dive amid AI bubble fears | Fri 20 Nov, 09:41 AM PKT
 - [needs_review] normal | Trump nominee refuses to call Jan 6 an ‘attack’ | Fri 20 Nov, 09:51 AM PKT
 - [published] normal | Punjab Adds Phone Shake SOS Feature to Women Safety App | Fri 20 Nov, 10:32 AM PKT
-- [queued] normal | Kushner: Trump open to NATO-like security guarantees for Ukraine | Fri 20 Nov, 10:42 AM PKT
-- [queued] normal | Pakistan Medical Association objects to proposed SHCC board members | Fri 20 Nov, 10:52 AM PKT
-- [queued] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
-- [queued] normal | Pakistan conquer Sri Lanka by eight wickets to seal Test series | Fri 20 Nov, 12:58 PM PKT
+- [needs_review] normal | Kushner: Trump open to NATO-like security guarantees for Ukraine | Fri 20 Nov, 10:42 AM PKT
+- [needs_review] normal | Pakistan Medical Association objects to proposed SHCC board members | Fri 20 Nov, 10:52 AM PKT
+- [needs_review] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
+- [published] normal | Pakistan conquer Sri Lanka by eight wickets to seal Test series | Fri 20 Nov, 12:58 PM PKT
 - [queued] normal | Daily Editorial Cartoon for November 20, 2026 | Fri 20 Nov, 01:08 PM PKT
 - [queued] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
 - [queued] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
@@ -265,27 +365,29 @@
 - [queued] normal | Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb | Fri 20 Nov, 03:20 PM PKT
 - [queued] normal | El Salvador’s President Bukele Seeks Third Term After Constitutional C | Fri 20 Nov, 03:30 PM PKT
 - [queued] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
+- [queued] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
+- [queued] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
+- [queued] normal | Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizab | Fri 20 Nov, 05:28 PM PKT
+- [queued] normal | Bank of Punjab Wins International Award for SME Financing Innovation | Fri 20 Nov, 05:38 PM PKT
+- [queued] normal | Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026 | Fri 20 Nov, 05:48 PM PKT
+- [queued] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
 
 ## Publishing this run
-- Published 'Punjab Adds Phone Shake SOS Feature to Women Safety App'.
+- Published 'Pakistan conquer Sri Lanka by eight wickets to seal Test series'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
+- Calls: 6 | prompt tokens: 6324 | output tokens: 2886
+- Errors: 4
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"

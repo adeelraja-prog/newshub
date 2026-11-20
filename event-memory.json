@@ -88798,7 +88798,743 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "41de9fe2879daa234aae2d41",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T07:49:05+00:00",
+      "last_update": "2026-11-20T11:58:25+00:00",
+      "event": "Bank of Punjab wins international award for SME financing",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "award",
+        "bank",
+        "dawn",
+        "financing",
+        "for",
+        "international",
+        "punjab",
+        "sme",
+        "wins"
+      ],
+      "source_excerpt": "Bank of Punjab wins international award for SME financing Dawn",
+      "sources": [
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM18wSk9ZRkFQOVE4LV9MVkg2NGxHV2NJZzhTQ0VtM0NyamdEMW1sdG9JVDFhemFFU2lhVlQwVnJpcG9oR0FRMXhhaUlpa3p3bjV5emZBSmZVeFM5QjA3VHZKTWZjVjdzUmpNdFd4TjQ2U3ZobEhrbkZzQ1VWWHhOWThjSzItTXRNVUY0MUhfZFEtaTZwOExfYUhJbEsxNUxtU2xndXB2eXgwcUlEVmVjMW5YTE9wVnk0M2pKTjd1UG1QSUJ4RmNSeXZnWTBiSVhYNkhNNw?oc=5",
+          "published_at": "2026-11-20T07:49:05+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdENvdk5NQ3lRYlU1VWY3dVg2bG12TGRfOTZPOFI3TDVZUVNSZnIxeElfeXV2RW5OVTg5dUlpOEZYcjNhU3Q4YWVkRkx5RERHU1h3OGdSNFB5MEo0R2FjZ0VCSHJJQ25sTmNWbHpZbGtDLVliTVRoeTltREs3SVVuMndjRXdldl9QRTNRQlh5OE4zeVZ6a2c?oc=5",
+          "published_at": "2026-11-20T11:58:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdENvdk5NQ3lRYlU1VWY3dVg2bG12TGRfOTZPOFI3TDVZUVNSZnIxeElfeXV2RW5OVTg5dUlpOEZYcjNhU3Q4YWVkRkx5RERHU1h3OGdSNFB5MEo0R2FjZ0VCSHJJQ25sTmNWbHpZbGtDLVliTVRoeTltREs3SVVuMndjRXdldl9QRTNRQlh5OE4zeVZ6a2c?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "451a079deed030cb708cb8ae",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T10:39:24+00:00",
+      "last_update": "2026-11-20T11:23:32+00:00",
+      "event": "Abbas leaves Tongue behind to become leading Test wicket-taker in 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "abbas",
+        "after",
+        "against",
+        "ball",
+        "become",
+        "behind",
+        "catches",
+        "during",
+        "england",
+        "file",
+        "has",
+        "impressive",
+        "josh",
+        "lanka",
+        "leading",
+        "leaves",
+        "match",
+        "mohammad",
+        "named",
+        "pakistan",
+        "performance",
+        "reuters",
+        "series",
+        "sri",
+        "surpassed",
+        "taker",
+        "test",
+        "the",
+        "tongue",
+        "two",
+        "was",
+        "who",
+        "wicket"
+      ],
+      "source_excerpt": "Pakistan's Mohammad Abbas catches ball during match. — Reuters/File Pakistan's Mohammad Abbas has surpassed England's Josh Tongue to become the leading Test wicket-taker in 2026, after an impressive performance in the two-match series against Sri Lanka. Abbas, who was named...",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/20/pakistani-star-pacer-becomes-leading-test-wicket-taker-in-2026/",
+          "published_at": "2026-11-20T10:39:24+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691924-abbas-leaves-englands-tongue-behind-to-become-leading-test-wicket-taker-in-2026",
+          "published_at": "2026-11-20T11:23:32+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2RJa3JfVGd6b05HaS1kZXNJbmhHTjBHeXlWa3hvbUo3MkJfM2ZXTlRSZHhaQ2dHSEdCMTdjaWg5NjU2WTRzbG9xS09DVFFrWGtZOEl1OGkwb2VzYXdmOGVNcUlDLU5IbzNSU3hMQmJ3cnBSR2tNR1JsLVlKdjNQdUJTM1ZBcFR4VnZIMVh3dEMxWGlXTjUzU0VlTjhrZVM4M2pfYktfVDV2RC0ybzEyYXhn?oc=5",
+          "published_at": "2026-11-20T11:23:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691924-abbas-leaves-englands-tongue-behind-to-become-leading-test-wicket-taker-in-2026",
+        "publisher_url": "https://www.geo.tv/latest/691924-abbas-leaves-englands-tongue-behind-to-become-leading-test-wicket-taker-in-2026",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8bb030dae5c0c56c6725eedc",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T09:24:02+00:00",
+      "last_update": "2026-11-20T09:24:02+00:00",
+      "event": "Ex-federal minister Liaquat Abbas Bhatti strangled to death at his house: Police",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abbas",
+        "bhatti",
+        "death",
+        "federal",
+        "his",
+        "house",
+        "liaquat",
+        "minister",
+        "police",
+        "strangled"
+      ],
+      "source_excerpt": "Ex-federal minister Liaquat Abbas Bhatti strangled to death at his house: Police",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/liaquat-abbas-bhatti-strangled-to-death-at-his-house-police",
+          "published_at": "2026-11-20T09:24:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/liaquat-abbas-bhatti-strangled-to-death-at-his-house-police",
+        "publisher_url": "https://arynews.tv/liaquat-abbas-bhatti-strangled-to-death-at-his-house-police",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a2a59451a003f33484a52f40",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T04:44:53+00:00",
+      "last_update": "2026-11-20T11:03:45+00:00",
+      "event": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "donald",
+        "envoy",
+        "for",
+        "guarantees",
+        "has",
+        "jared",
+        "kushner",
+        "like",
+        "nato",
+        "offering",
+        "open",
+        "president",
+        "said",
+        "security",
+        "trump",
+        "ukraine"
+      ],
+      "source_excerpt": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
+          "published_at": "2026-11-20T04:44:53+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+          "published_at": "2026-11-20T11:01:51+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ1lyY1VFay1BNldrQUJna2IwdTNyNS1GSUZyZjJXakRBMVhuak5OVHJQQ0hEUWFCYm14UWFFXzM2dHNILU12cElSTWtPSlpQaVpqWVg3cXZlUXZldVFyRTFjUy03LXhJMHdvcjBsZzVvZkp6ZjBzRENOamZMUjR3QlJIVFpqbFlldmNJM2F5VTNTbk5vQlJuMkpOSkRTWXZEV1FtYUFmVGlBd3hTbGhBU9IBtgFBVV95cUxORU5FaGRhQjhSRGQ2dE9temlVRDJ1cEk1MGQxeTRieWhlNUpWOHkwUnFjUTdSS0VHdnlRUm1UV1drU0VRUDBpQThLVW4wczVCYW81ajhmR0I5RjVKaWN3dGtaSWp6d0tKUE1PTDBsZVM3OUc1S25hODRZSzRkQ1d4RU5pbUpoVkttQk9tMVh1VW1QM21FQXhhX3V2Vk1Ea2RXNW82RzNlWTZZSHc1al9tcEg2V1hTZw?oc=5",
+          "published_at": "2026-11-20T11:03:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a9822a48636550e92e6fe12",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T11:59:52+00:00",
+      "last_update": "2026-11-20T11:59:52+00:00",
+      "event": "Newcastle United vs Arsenal: Premier League – Predictions, lineups, preview",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arsenal",
+        "away",
+        "break",
+        "day",
+        "face",
+        "from",
+        "international",
+        "leaders",
+        "league",
+        "lineups",
+        "match",
+        "newcastle",
+        "players",
+        "predictions",
+        "premier",
+        "preview",
+        "return",
+        "united"
+      ],
+      "source_excerpt": "As players return from international break, Premier League leaders Arsenal face Newcastle away on match day 11.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba?traffic_source=rss",
+          "published_at": "2026-11-20T11:59:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8dfd3bcc07d64695f043c528",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T11:55:16+00:00",
+      "last_update": "2026-11-20T11:55:16+00:00",
+      "event": "‘We didn’t come here to beg’: Africa’s message at COP31",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "african",
+        "against",
+        "and",
+        "beg",
+        "climate",
+        "come",
+        "cop31",
+        "demanded",
+        "didn",
+        "empty",
+        "for",
+        "funding",
+        "ghana",
+        "has",
+        "here",
+        "justice",
+        "leaders",
+        "message",
+        "nations",
+        "promises",
+        "warning"
+      ],
+      "source_excerpt": "Ghana has demanded climate justice and funding for African nations, warning COP31 leaders against empty promises.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
+          "published_at": "2026-11-20T11:55:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e4136638bfb7d2511eb984bc",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T11:26:28+00:00",
+      "last_update": "2026-11-20T11:26:28+00:00",
+      "event": "US appoints new cybersecurity chief after series of tech failures",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "appointee",
+        "appoints",
+        "chance",
+        "chief",
+        "come",
+        "cyber",
+        "cybersecurity",
+        "davies",
+        "dominate",
+        "failures",
+        "for",
+        "generations",
+        "has",
+        "kirsten",
+        "landscape",
+        "new",
+        "says",
+        "series",
+        "tech",
+        "the"
+      ],
+      "source_excerpt": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
+          "published_at": "2026-11-20T11:26:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dc4ac3874ac5bd7b2c2f37d1",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T11:20:19+00:00",
+      "last_update": "2026-11-20T11:20:19+00:00",
+      "event": "EU and UK seal reset deal",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "breaking",
+        "deal",
+        "news",
+        "reset",
+        "seal",
+        "story",
+        "this"
+      ],
+      "source_excerpt": "This is a breaking news story.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+          "published_at": "2026-11-20T11:20:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "50db16ef377229a6d0023c87",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T11:10:06+00:00",
+      "last_update": "2026-11-20T11:10:06+00:00",
+      "event": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "deadline",
+        "faces",
+        "hezbollah",
+        "iraqi",
+        "kataib",
+        "leave",
+        "stronghold"
+      ],
+      "source_excerpt": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
+          "published_at": "2026-11-20T11:10:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "67f1a7b2804ce63546c9b405",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T11:39:25+00:00",
+      "last_update": "2026-11-20T11:39:25+00:00",
+      "event": "Patient safety chief concerned about NHS Grampian",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "assurance",
+        "being",
+        "change",
+        "chief",
+        "concerned",
+        "grampian",
+        "implemented",
+        "independent",
+        "karen",
+        "nhs",
+        "patient",
+        "safety",
+        "said",
+        "seeking",
+        "she",
+        "that",
+        "titchener"
+      ],
+      "source_excerpt": "Karen Titchener said she is seeking \"independent assurance\" that change is being implemented at NHS Grampian.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cr894yq07v23o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T11:39:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cr894yq07v23o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cr894yq07v23o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0537277ca0da0c64191d038c",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T12:20:38+00:00",
+      "last_update": "2026-11-20T12:20:38+00:00",
+      "event": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blockade",
+        "break",
+        "can",
+        "iran",
+        "jazeera",
+        "ship",
+        "targets",
+        "tehran",
+        "the",
+        "transfers"
+      ],
+      "source_excerpt": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade? Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUpfdWFVN1RtcXA2YUJqWXhOUGRsdnY3VGR1SnJBX20zUExFTnA5c3RYVWhudXktd1RmQm95c2dpUE04QXdiU2dIb3YxakQzeVctc1c5cDZRZlZWLThzSmFQVnZXelBjaF9BZU1tZUJScGdXWGZXdS05aHFoZHdBbzhMZVpncDgyeTFvUm1NRWxoYkRONHhjVVJ5NjZIeEZuZHFtREVtSHVuTllranJBY9IBtgFBVV95cUxQUDQwdHJ3VzRYcEZhNjNkdGM2X1VtRy10R1RRVmR1NEt1dFU5bzRvZGJiZXo5bjVENmdjUlgzLTJyVm1ZdUdORF82d0hSRTVvcURLeTA1UGJiUFRrbFJUWmliOUNzRXdCb3hpNDNvMm1RWF82ZWg1LW5WeFZVbzlGQm4zRmp1UWJWQzZFNzNVS2haaGpnQWsteXNqTHRaQ1ZLNGRXMWh5WUhVOVNPQzV1RnNyaTJ2Zw?oc=5",
+          "published_at": "2026-11-20T12:20:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUpfdWFVN1RtcXA2YUJqWXhOUGRsdnY3VGR1SnJBX20zUExFTnA5c3RYVWhudXktd1RmQm95c2dpUE04QXdiU2dIb3YxakQzeVctc1c5cDZRZlZWLThzSmFQVnZXelBjaF9BZU1tZUJScGdXWGZXdS05aHFoZHdBbzhMZVpncDgyeTFvUm1NRWxoYkRONHhjVVJ5NjZIeEZuZHFtREVtSHVuTllranJBY9IBtgFBVV95cUxQUDQwdHJ3VzRYcEZhNjNkdGM2X1VtRy10R1RRVmR1NEt1dFU5bzRvZGJiZXo5bjVENmdjUlgzLTJyVm1ZdUdORF82d0hSRTVvcURLeTA1UGJiUFRrbFJUWmliOUNzRXdCb3hpNDNvMm1RWF82ZWg1LW5WeFZVbzlGQm4zRmp1UWJWQzZFNzNVS2haaGpnQWsteXNqTHRaQ1ZLNGRXMWh5WUhVOVNPQzV1RnNyaTJ2Zw?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f6788cca6f3ac92406c1aba1",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T11:57:14+00:00",
+      "last_update": "2026-11-20T11:57:14+00:00",
+      "event": "Naqvi impressed with new-look Pakistan's performance against Sri Lanka",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "impressed",
+        "lanka",
+        "look",
+        "naqvi",
+        "new",
+        "pakistan",
+        "performance",
+        "samaa",
+        "sri",
+        "with"
+      ],
+      "source_excerpt": "Naqvi impressed with new-look Pakistan's performance against Sri Lanka samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkRXcjRCbFJhZmNwWEdBcXlSUVhSdXlSZnRYT1luamlVQ0U3Sk1XMXpCNDlBOUdRaExGQ1llVGVUSXp2TTFiVlBoNVloVVdIQ1phaERpN25sTUY1VWIyX3JZMm9MN2xraGNLMW9obTFMS2prQ281TnNISzlVemZ6Zl9tTnFOX0JOSE1VYk5sX1lVLU5UcDItQ1RNOUdra2dxbEM3eA?oc=5",
+          "published_at": "2026-11-20T11:57:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkRXcjRCbFJhZmNwWEdBcXlSUVhSdXlSZnRYT1luamlVQ0U3Sk1XMXpCNDlBOUdRaExGQ1llVGVUSXp2TTFiVlBoNVloVVdIQ1phaERpN25sTUY1VWIyX3JZMm9MN2xraGNLMW9obTFMS2prQ281TnNISzlVemZ6Zl9tTnFOX0JOSE1VYk5sX1lVLU5UcDItQ1RNOUdra2dxbEM3eA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0052bc4d2451944b874d5975",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T12:00:35+00:00",
+      "last_update": "2026-11-20T12:00:35+00:00",
+      "event": "SBCA opens technical bids for Gul Plaza demolition in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bids",
+        "demolition",
+        "for",
+        "gul",
+        "karachi",
+        "opens",
+        "plaza",
+        "sbca",
+        "technical"
+      ],
+      "source_excerpt": "SBCA opens technical bids for Gul Plaza demolition in Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/sbca-opens-technical-bids-for-gul-plaza-demolition-in-karachi",
+          "published_at": "2026-11-20T12:00:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/sbca-opens-technical-bids-for-gul-plaza-demolition-in-karachi",
+        "publisher_url": "https://arynews.tv/sbca-opens-technical-bids-for-gul-plaza-demolition-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e6964e5e37414afa88bfc313",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T11:46:00+00:00",
+      "last_update": "2026-11-20T11:46:00+00:00",
+      "event": "Pakistan champions regional connectivity and alternate trade corridors at ESCAP ministerial conference on transport",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alternate",
+        "and",
+        "champions",
+        "conference",
+        "connectivity",
+        "corridors",
+        "escap",
+        "ministerial",
+        "pakistan",
+        "regional",
+        "trade",
+        "transport"
+      ],
+      "source_excerpt": "Pakistan champions regional connectivity and alternate trade corridors at ESCAP ministerial conference on transport",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-champions-regional-connectivity-and-alternate-trade-corridors-at-escap-ministerial-conference-on-transport",
+          "published_at": "2026-11-20T11:46:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-champions-regional-connectivity-and-alternate-trade-corridors-at-escap-ministerial-conference-on-transport",
+        "publisher_url": "https://arynews.tv/pakistan-champions-regional-connectivity-and-alternate-trade-corridors-at-escap-ministerial-conference-on-transport",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2876964496269a1c630fed69",
+      "remembered_at": "2026-11-20T12:28:01.753440+00:00",
+      "event_date": "2026-11-20T12:06:17+00:00",
+      "last_update": "2026-11-20T12:06:17+00:00",
+      "event": "Afghanistan not invited to ECO moot as Islamabad does not recognise Kabul regime: FO",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghanistan",
+        "dawn",
+        "does",
+        "eco",
+        "invited",
+        "islamabad",
+        "kabul",
+        "moot",
+        "not",
+        "recognise",
+        "regime"
+      ],
+      "source_excerpt": "Afghanistan not invited to ECO moot as Islamabad does not recognise Kabul regime: FO Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUnlJNFExdkY4MHhxa3lFaXVGbzc3ZEI1ekV6VGN2bUJSbnRhQlVCU3pKWVFGUHRySFQ3U0V3RDREZDNxNnRjT2w4dF9BeWxCLWlwTWMzTmRqN0l0M2hZMnAwc0k0LVJfV1loVU5BQVBoalRxUjRWdUhSS0M4Tnd5bmlsaVNmZFJ4aGU1SDZGSXB4LWFQOF9vOFJ5WDE2RFB5b2hWcHkyMmc3Q2FueVlESGdGUm0xdmRB?oc=5",
+          "published_at": "2026-11-20T12:06:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUnlJNFExdkY4MHhxa3lFaXVGbzc3ZEI1ekV6VGN2bUJSbnRhQlVCU3pKWVFGUHRySFQ3U0V3RDREZDNxNnRjT2w4dF9BeWxCLWlwTWMzTmRqN0l0M2hZMnAwc0k0LVJfV1loVU5BQVBoalRxUjRWdUhSS0M4Tnd5bmlsaVNmZFJ4aGU1SDZGSXB4LWFQOF9vOFJ5WDE2RFB5b2hWcHkyMmc3Q2FueVlESGdGUm0xdmRB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T11:20:39.887652+00:00"
+  "updated_at": "2026-11-20T12:28:01.753440+00:00"
 }
