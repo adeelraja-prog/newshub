@@ -84432,7 +84432,1148 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "02434db85a7a3e2e49e82052",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:50:49+00:00",
+      "last_update": "2026-11-20T04:57:16+00:00",
+      "event": "‘Phone Shake’ feature on Women Safety App",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "app",
+        "dawn",
+        "feature",
+        "phone",
+        "safety",
+        "shake",
+        "women"
+      ],
+      "source_excerpt": "‘Phone Shake’ feature on Women Safety App Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByN052NVotZWx3LUhGSnZwelJybjdNanRuZGFPc29XY3pQcmRnSklmeHdJVHdoSGZWcGhvV2FCelVIY21QVlRpdmVfczJRWGw1WWo4R2g3U0x5MzNqU0ZBbTJkN09SbDlfX0VFdWEycGpNX210TXVMSFBnQlVPdw?oc=5",
+          "published_at": "2026-11-20T01:50:49+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045869/phone-shake-feature-on-women-safety-app-introduced-in-punjab",
+          "published_at": "2026-11-20T04:35:23+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/punjab-adds-phone-shake-sos-feature-to-women-safety-app/",
+          "published_at": "2026-11-20T04:57:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByN052NVotZWx3LUhGSnZwelJybjdNanRuZGFPc29XY3pQcmRnSklmeHdJVHdoSGZWcGhvV2FCelVIY21QVlRpdmVfczJRWGw1WWo4R2g3U0x5MzNqU0ZBbTJkN09SbDlfX0VFdWEycGpNX210TXVMSFBnQlVPdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "82e65fe914a22ac76b65217d",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:38:00+00:00",
+      "last_update": "2026-11-20T04:44:53+00:00",
+      "event": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "donald",
+        "envoy",
+        "for",
+        "guarantees",
+        "has",
+        "jared",
+        "kushner",
+        "like",
+        "nato",
+        "offering",
+        "open",
+        "president",
+        "said",
+        "security",
+        "trump",
+        "ukraine"
+      ],
+      "source_excerpt": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0NBME5lcEdSYzBycGFKdDhzaHJ2MU5iU1RsYnlxaFRYaHc4SU1YU0s3bTZyd3EwNHItMTBSY2FvOHBjaW9pcjRxNkRBVWRISk1YYUNHcHAwZXJ4MHBxZU5TUzJoTFhMbTZUSzJSckpFS3NqcGhBXzNpb21scGc4Y3hQSjFsTFpkWVllREUwSkJ2TGhmck91dl92aVRtWi1lSjBNUE9wVUQzZHIyREdIZkFSOGVra01RWUVPaGk1SFdRZk1FZkRwaU5tYmJNcE91el81QXduSjg?oc=5",
+          "published_at": "2026-11-20T01:38:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
+          "published_at": "2026-11-20T04:44:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bff495cb7b457fbfcfad37d9",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:50:31+00:00",
+      "last_update": "2026-11-20T04:50:06+00:00",
+      "event": "PMA objects to proposed SHCC board members",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "board",
+        "dawn",
+        "members",
+        "objects",
+        "pma",
+        "proposed",
+        "shcc"
+      ],
+      "source_excerpt": "PMA objects to proposed SHCC board members Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd29KWUJkSGs1eU5FR2tXM1ZDNTlEWlBTZi1IN3lGeUpGdE5vOGdPVXhNRnk3N1BCVk81TjhoLUczMWNVWU44UGdMOG95a0VyTkREVjFtQlIyNm4xb0VwSkhFQU1CUFc3bXZlVlRhd2ZhSVR3cFVOcUVEN0hreUVIOFBB?oc=5",
+          "published_at": "2026-11-20T01:50:31+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045772/pakistan-medical-association-objects-to-proposed-sindh-healthcare-commission-board-members",
+          "published_at": "2026-11-20T04:50:06+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHBnZmxYWXUyZmhTV1JCb25ISElvRjNLZjZCSThBa0ZqRDg5OE5WalpHLXltUEl2S3JCQnlqUnQtbDNKY0NxRUVQSUF2Rzl1MGdKLXYxTlVEYW9RMnhrdkpPR1Q4QXY4NEdnazNwblRaajlFMnhBVmFmaXpxN2FXR2NVeUVIUjc5Qnd3QW12RlRQOEdXalhQcFF4QzhJb1BxMmVyeFRsdVhwRHphN0hqUmVRaUtTamJnVjlmTXhMcVI3QQ?oc=5",
+          "published_at": "2026-11-20T04:50:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd29KWUJkSGs1eU5FR2tXM1ZDNTlEWlBTZi1IN3lGeUpGdE5vOGdPVXhNRnk3N1BCVk81TjhoLUczMWNVWU44UGdMOG95a0VyTkREVjFtQlIyNm4xb0VwSkhFQU1CUFc3bXZlVlRhd2ZhSVR3cFVOcUVEN0hreUVIOFBB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "32c573527d19048a58581329",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:51:04+00:00",
+      "last_update": "2026-11-20T05:26:52+00:00",
+      "event": "Slain anchorperson’s husband released on bail",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anchorperson",
+        "bail",
+        "dawn",
+        "husband",
+        "released",
+        "slain"
+      ],
+      "source_excerpt": "Slain anchorperson’s husband released on bail Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFN3VFl0Um5EaFFoVERXdmhhQk5CaDVsSUNMX1IxZ0hIRlhvb2lWS1hWR3hpNW8yM2hxYkJpVEE0X2hHNWJ2ZHRZVWpRUmtDZlFxWmNZWU5tak4taDk4dmtlSVFtWjRpYW00akZwYnFCLTMtSlBRcHZvZ1pSTVJQdWxsX1A?oc=5",
+          "published_at": "2026-11-20T01:51:04+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045740/slain-anchorpersons-husband-released-on-bail-in-rawalpindi",
+          "published_at": "2026-11-20T05:26:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFN3VFl0Um5EaFFoVERXdmhhQk5CaDVsSUNMX1IxZ0hIRlhvb2lWS1hWR3hpNW8yM2hxYkJpVEE0X2hHNWJ2ZHRZVWpRUmtDZlFxWmNZWU5tak4taDk4dmtlSVFtWjRpYW00akZwYnFCLTMtSlBRcHZvZ1pSTVJQdWxsX1A?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4350e6ba00a2f6cecdccb3b2",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:50:31+00:00",
+      "last_update": "2026-11-20T05:00:19+00:00",
+      "event": "Bangladeshi civil servants’ team visits SIUT, meets CM",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bangladeshi",
+        "civil",
+        "dawn",
+        "meets",
+        "servants",
+        "siut",
+        "team",
+        "visits"
+      ],
+      "source_excerpt": "Bangladeshi civil servants’ team visits SIUT, meets CM Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2NrR2YtNjhLME82dERwRGtHU28xZmhvSjlwUWJFcEtqUkdyM0hrYWRSTnlydjNROUNZRWx6QW1qbXBrVjlpdHJZSnBzNjV5N19mSWUzX2lldGZlb3pxSWpMc1d2UUw1bjlJLXl5ZXh5YW96akQzTm96VVQwMFo3NmVoYUxDLXplQThZeHFBdw?oc=5",
+          "published_at": "2026-11-20T01:50:31+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045774/bangladeshi-civil-servants-team-visits-sindh-institute-of-urology-and-transplantation-meets-cm",
+          "published_at": "2026-11-20T05:00:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2NrR2YtNjhLME82dERwRGtHU28xZmhvSjlwUWJFcEtqUkdyM0hrYWRSTnlydjNROUNZRWx6QW1qbXBrVjlpdHJZSnBzNjV5N19mSWUzX2lldGZlb3pxSWpMc1d2UUw1bjlJLXl5ZXh5YW96akQzTm96VVQwMFo3NmVoYUxDLXplQThZeHFBdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4adf0b6f4472907c1aa467e1",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:51:04+00:00",
+      "last_update": "2026-11-20T05:23:36+00:00",
+      "event": "Student’s death from stray dog bite reaches IHC",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bite",
+        "dawn",
+        "death",
+        "dog",
+        "from",
+        "ihc",
+        "reaches",
+        "stray",
+        "student"
+      ],
+      "source_excerpt": "Student’s death from stray dog bite reaches IHC Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQW9BNWRGbXA1aHVlbUZ2eVFXM0xrRVpnbjhnQ2pKejFWU0o1ZFJTQ0ktcWdvc1RTcmVNMk5IQjhlRzlRX2VZQURPZlh4UkRGVURzNVJ4dlNCeWlTX0FUdWhDYTMzVktUYWJEUVE3b1BjN25YNDdzdy13NHlGVl9VdXJ4bzM0ZUk?oc=5",
+          "published_at": "2026-11-20T01:51:04+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045739/students-death-from-stray-dog-bite-reaches-islamabad-high-court",
+          "published_at": "2026-11-20T05:23:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQW9BNWRGbXA1aHVlbUZ2eVFXM0xrRVpnbjhnQ2pKejFWU0o1ZFJTQ0ktcWdvc1RTcmVNMk5IQjhlRzlRX2VZQURPZlh4UkRGVURzNVJ4dlNCeWlTX0FUdWhDYTMzVktUYWJEUVE3b1BjN25YNDdzdy13NHlGVl9VdXJ4bzM0ZUk?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9e248aa52a7decd248183a47",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T02:36:17+00:00",
+      "last_update": "2026-11-20T04:39:07+00:00",
+      "event": "SHC halts work on Nehr-e-Khayyam",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "halts",
+        "khayyam",
+        "nehr",
+        "shc",
+        "the",
+        "tribune",
+        "work"
+      ],
+      "source_excerpt": "SHC halts work on Nehr-e-Khayyam The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmbHZaY3FQQWMzUzR3Znp4YmpVT1hNSUFWVXhzTHRFLUYwMkNVbW82T1JuZ2gwLVNkUkdicE05bUFrZWxwZFp0ZE5nOVZ5em43WGNGSHFuVHdGUjhpWTBTZFZuZ0hyNGxRdHpkY1Q1STNLQ2JmcEY3VtIBgAFBVV95cUxQc3hpY21iWFFhVmdCZGVVUVpzV3NXY3hJWGFoRVVZRGUxMVR3RG5wbUs2NkUwSnI4aVZISHdfWG85UzJfX2dHeUdqdzd6QnpRR3REX1FjeVpCQlRWZFpfVmFNNGc2QUQyYk9RRGVYQ0tLQTJJNkkxaE9tSERRN08ySA?oc=5",
+          "published_at": "2026-11-20T02:36:17+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045776/shc-orders-immediate-halt-to-construction-activities-at-karachis-nehr-i-khayyam",
+          "published_at": "2026-11-20T04:39:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmbHZaY3FQQWMzUzR3Znp4YmpVT1hNSUFWVXhzTHRFLUYwMkNVbW82T1JuZ2gwLVNkUkdicE05bUFrZWxwZFp0ZE5nOVZ5em43WGNGSHFuVHdGUjhpWTBTZFZuZ0hyNGxRdHpkY1Q1STNLQ2JmcEY3VtIBgAFBVV95cUxQc3hpY21iWFFhVmdCZGVVUVpzV3NXY3hJWGFoRVVZRGUxMVR3RG5wbUs2NkUwSnI4aVZISHdfWG85UzJfX2dHeUdqdzd6QnpRR3REX1FjeVpCQlRWZFpfVmFNNGc2QUQyYk9RRGVYQ0tLQTJJNkkxaE9tSERRN08ySA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e3e2a88068cb72644c4cca08",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:50:49+00:00",
+      "last_update": "2026-11-20T04:43:55+00:00",
+      "event": "Ex-minister found dead in house, three guards booked",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "booked",
+        "dawn",
+        "dead",
+        "found",
+        "guards",
+        "house",
+        "minister",
+        "three"
+      ],
+      "source_excerpt": "Ex-minister found dead in house, three guards booked Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdEpSRXkzZWZ3TDNBejBtOHNOYWg0RVRlNkhGLXJ5WndsWFN3MWZWWDhTMEhqNHU1aFprTm9JMFlKN25rcEFTVXZQS2xfSVpiSC1zN2J1cHB3VmVGTkNwZ0c4c0d6VVNueVdFWE9qOFJrN2p3ZDVyOTB0Z0Z3RmZzVXN0RWkwT0dtdTRqTFdn?oc=5",
+          "published_at": "2026-11-20T01:50:49+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045747/ex-minister-liaqat-abbas-bhatti-found-dead-in-hafizabad-house-three-guards-booked",
+          "published_at": "2026-11-20T04:43:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdEpSRXkzZWZ3TDNBejBtOHNOYWg0RVRlNkhGLXJ5WndsWFN3MWZWWDhTMEhqNHU1aFprTm9JMFlKN25rcEFTVXZQS2xfSVpiSC1zN2J1cHB3VmVGTkNwZ0c4c0d6VVNueVdFWE9qOFJrN2p3ZDVyOTB0Z0Z3RmZzVXN0RWkwT0dtdTRqTFdn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a02fa2c920e2995ad6deb7f5",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:50:31+00:00",
+      "last_update": "2026-11-20T04:52:30+00:00",
+      "event": "Dacoits with Rs3m bounty arrested",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrested",
+        "bounty",
+        "dacoits",
+        "dawn",
+        "rs3m",
+        "with"
+      ],
+      "source_excerpt": "Dacoits with Rs3m bounty arrested Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdVdaU0UteWxITGRxbUJYdGxMckszZU8wM0dUZTkxbEtaLTM0ZnQ0b3NlTUN2T09EdXFBVWlmWDJfVmNmU0RveWR0eTltRHE0S1pFczAyZlJqWHZhSEFTa2w1QW9TLTBMQ0YteDd3dHNWclU3Znc?oc=5",
+          "published_at": "2026-11-20T01:50:31+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045770/dacoits-with-rs3m-bounty-arrested-in-larkana",
+          "published_at": "2026-11-20T04:52:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdVdaU0UteWxITGRxbUJYdGxMckszZU8wM0dUZTkxbEtaLTM0ZnQ0b3NlTUN2T09EdXFBVWlmWDJfVmNmU0RveWR0eTltRHE0S1pFczAyZlJqWHZhSEFTa2w1QW9TLTBMQ0YteDd3dHNWclU3Znc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "00dd5714ac21ca92404895ea",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:50:12+00:00",
+      "last_update": "2026-11-20T04:22:53+00:00",
+      "event": "Senate panel’s intervention saves Rs120bn",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "intervention",
+        "panel",
+        "rs120bn",
+        "saves",
+        "senate"
+      ],
+      "source_excerpt": "Senate panel’s intervention saves Rs120bn Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tT0JZazN1cFZyWmdHcWJ2dFVpYkpFaUc3LWZQT0hSMW9DYTVBX2tWU2J1blFZRkJCWFRQRnI4U3E5Y1F0a093NDFnVFBYSkM0M0pPUjUxNmx6cW1nRDNIT2gzTlRWUHBsS0xMVUZWcWtCUi1ZR19TSHRrTVhTQ0U?oc=5",
+          "published_at": "2026-11-20T01:50:12+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045865/senate-panels-intervention-saves-rs120bn-in-unnecessary-govt-spending-under-remittance-initiative-panel-chairman",
+          "published_at": "2026-11-20T04:22:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tT0JZazN1cFZyWmdHcWJ2dFVpYkpFaUc3LWZQT0hSMW9DYTVBX2tWU2J1blFZRkJCWFRQRnI4U3E5Y1F0a093NDFnVFBYSkM0M0pPUjUxNmx6cW1nRDNIT2gzTlRWUHBsS0xMVUZWcWtCUi1ZR19TSHRrTVhTQ0U?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "33fde18481db0e569267b6ba",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:50:40+00:00",
+      "last_update": "2026-11-20T05:30:07+00:00",
+      "event": "Govt plans electric bus service in 14 cities",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bus",
+        "cities",
+        "dawn",
+        "electric",
+        "govt",
+        "plans",
+        "service"
+      ],
+      "source_excerpt": "Govt plans electric bus service in 14 cities Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWpPUGFWSmhzNERhbWRVWWRyd1phQmE2UE9NNmlCV0czS3dMUk55U25UVTI0M3dhMjdsZ2lrSE00aEtodmJNdnQwYXlZUXBOSDZKdjctNHdaLTBnSGhnZDd2aWI5bjUzRVpJeW1UTnE4Vk9jM1lqYUZISDBBZ3NqTE1yRDA?oc=5",
+          "published_at": "2026-11-20T01:50:40+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045761/kp-government-plans-electric-bus-service-in-14-cities",
+          "published_at": "2026-11-20T05:30:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWpPUGFWSmhzNERhbWRVWWRyd1phQmE2UE9NNmlCV0czS3dMUk55U25UVTI0M3dhMjdsZ2lrSE00aEtodmJNdnQwYXlZUXBOSDZKdjctNHdaLTBnSGhnZDd2aWI5bjUzRVpJeW1UTnE4Vk9jM1lqYUZISDBBZ3NqTE1yRDA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f3b75dae92a7bf5b49fa6254",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:50:40+00:00",
+      "last_update": "2026-11-20T05:14:31+00:00",
+      "event": "Olive oil extraction machine installed in Bara",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bara",
+        "dawn",
+        "extraction",
+        "installed",
+        "machine",
+        "oil",
+        "olive"
+      ],
+      "source_excerpt": "Olive oil extraction machine installed in Bara Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3BHZDVkRXZqSUlFRFFfV04wcEQxM2N1ek54Z0k1dUlFdnVCZDlUeFg5ZmlNYlJOVm04STBiYXdHbS1LdUR2cFlROXpMaFlhM0ZHWFNTam5saFp4ZHc3MTZ0T2lXY2h4dWUtUnEtZlJtXy1BVmpVSGRXMkNlSW5lbDJSVEoxT3c?oc=5",
+          "published_at": "2026-11-20T01:50:40+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045756/olive-oil-extraction-machine-installed-in-kps-bara",
+          "published_at": "2026-11-20T05:14:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3BHZDVkRXZqSUlFRFFfV04wcEQxM2N1ek54Z0k1dUlFdnVCZDlUeFg5ZmlNYlJOVm04STBiYXdHbS1LdUR2cFlROXpMaFlhM0ZHWFNTam5saFp4ZHc3MTZ0T2lXY2h4dWUtUnEtZlJtXy1BVmpVSGRXMkNlSW5lbDJSVEoxT3c?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8debbc82f23e294dadf7e1ab",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T01:50:40+00:00",
+      "last_update": "2026-11-20T05:05:41+00:00",
+      "event": "Governor says no compromise on writ of state",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "compromise",
+        "dawn",
+        "governor",
+        "says",
+        "state",
+        "writ"
+      ],
+      "source_excerpt": "Governor says no compromise on writ of state Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjhZRXl6WTQ1SmNndldGWWNnT2ZwYjFacXRhbTNYQzRuMDlrOUNlb29kOHUtQmNHWjBZOTFnMzVKOEdQZG5QQWxrOU5rU09fck1wVDg0c2JIbEJGNWkwMlpobjZtVFRrbUM4UEdJcXltWXRVRmxEX1hLd1NfQTRBVEhFbHc?oc=5",
+          "published_at": "2026-11-20T01:50:40+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045766/kp-governor-says-no-compromise-on-writ-of-state",
+          "published_at": "2026-11-20T05:05:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjhZRXl6WTQ1SmNndldGWWNnT2ZwYjFacXRhbTNYQzRuMDlrOUNlb29kOHUtQmNHWjBZOTFnMzVKOEdQZG5QQWxrOU5rU09fck1wVDg0c2JIbEJGNWkwMlpobjZtVFRrbUM4UEdJcXltWXRVRmxEX1hLd1NfQTRBVEhFbHc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5402b3abca317e37c8215e60",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T04:38:33+00:00",
+      "last_update": "2026-11-20T04:38:33+00:00",
+      "event": "MPAs flay Punjab govt over ‘deepening agriculture crisis’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agriculture",
+        "crisis",
+        "dawn",
+        "deepening",
+        "flay",
+        "govt",
+        "mpas",
+        "over",
+        "punjab"
+      ],
+      "source_excerpt": "MPAs flay Punjab govt over ‘deepening agriculture crisis’ Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR0g3TkVUSkZGeXN0UmdiWUEtb3p3OHdTOVlabzZjN2hLNHF1QlpoNENWRVJuSG1taE9HT3B6UDBHOHJIb1FzUkdnaEF6dXBvRHZaZzVSRkgyZ3JvYkRNSTJScWdjYkxRVWNCNW9mYk0tM2lzWHpyYTdnV09nRkdsMHZfeHdtUDlJQm9PMkJwc0YtOFU?oc=5",
+          "published_at": "2026-11-20T04:38:33+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045749/mpas-flay-punjab-govt-over-deepening-agriculture-crisis",
+          "published_at": "2026-11-20T04:38:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR0g3TkVUSkZGeXN0UmdiWUEtb3p3OHdTOVlabzZjN2hLNHF1QlpoNENWRVJuSG1taE9HT3B6UDBHOHJIb1FzUkdnaEF6dXBvRHZaZzVSRkgyZ3JvYkRNSTJScWdjYkxRVWNCNW9mYk0tM2lzWHpyYTdnV09nRkdsMHZfeHdtUDlJQm9PMkJwc0YtOFU?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b85bf322356bb26c38e4a97c",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T04:58:33+00:00",
+      "last_update": "2026-11-20T05:05:05+00:00",
+      "event": "Lahore once again ranks as world's most polluted major city as AQI crosses 400",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "400",
+        "again",
+        "aqi",
+        "city",
+        "crosses",
+        "dawn",
+        "lahore",
+        "major",
+        "most",
+        "once",
+        "polluted",
+        "ranks",
+        "world"
+      ],
+      "source_excerpt": "Lahore once again ranks as world's most polluted major city as AQI crosses 400 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVJWVWx4RDVvSW05emREY2s2UE9CV3BwX3BSWmlTNlZCZi1Gb3V4d1JvRU9lcTRtQWxXaDJDaHNhU050NGF2eTdMNW54M2IwWlB0VkJtSm9oTlExblJEUFE5TFR1VFphb0hmUVBvbmhqVUJ0TGdWMnc1dzFzNnR5SEJPR0RaUHBxeDJXSHV2aVlSbTR1THJ5cEoxLVl5Wi1ubHpRQldRTS1SQ1BrOVlTdw?oc=5",
+          "published_at": "2026-11-20T04:58:33+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045870/lahore-once-again-ranks-as-worlds-most-polluted-major-city-as-aqi-crosses-400",
+          "published_at": "2026-11-20T05:05:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVJWVWx4RDVvSW05emREY2s2UE9CV3BwX3BSWmlTNlZCZi1Gb3V4d1JvRU9lcTRtQWxXaDJDaHNhU050NGF2eTdMNW54M2IwWlB0VkJtSm9oTlExblJEUFE5TFR1VFphb0hmUVBvbmhqVUJ0TGdWMnc1dzFzNnR5SEJPR0RaUHBxeDJXSHV2aVlSbTR1THJ5cEoxLVl5Wi1ubHpRQldRTS1SQ1BrOVlTdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a17a93e5d37be66a2bc59ab9",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T05:06:45+00:00",
+      "last_update": "2026-11-20T05:06:45+00:00",
+      "event": "Turkish survey ship docks in Pakistan for oil and gas search",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "docks",
+        "for",
+        "gas",
+        "oil",
+        "pakistan",
+        "search",
+        "ship",
+        "survey",
+        "turkish"
+      ],
+      "source_excerpt": "Turkish survey ship docks in Pakistan for oil and gas search",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/turkish-survey-ship-docks-in-pakistan-for-oil-and-gas-search",
+          "published_at": "2026-11-20T05:06:45+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWpZTGZ2b1FYQkZIVTQ2VUk0enR4b2FsWVd1ZHZzZmIwTjQ1dlNGbXo4OGppOUFQM3gzZFFyR0FJRk5FNHFJRF9HMm8wa2R0N3A1QkhWQnRaanRJcW5XRU9yYWVPemg5WWlrY1dwQ2J0blVTcFF0UUljTnBCblhYM1I1RVNZQQ?oc=5",
+          "published_at": "2026-11-20T05:06:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/turkish-survey-ship-docks-in-pakistan-for-oil-and-gas-search",
+        "publisher_url": "https://arynews.tv/turkish-survey-ship-docks-in-pakistan-for-oil-and-gas-search",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "900f701d8ae42d26810c9cb4",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T05:01:40+00:00",
+      "last_update": "2026-11-20T05:01:40+00:00",
+      "event": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "break",
+        "civil",
+        "crews",
+        "defence",
+        "down",
+        "gaza",
+        "lives",
+        "more",
+        "out",
+        "people",
+        "percent",
+        "reach",
+        "rescue",
+        "service",
+        "struggle",
+        "struggles",
+        "than",
+        "trapped",
+        "vehicles"
+      ],
+      "source_excerpt": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
+          "published_at": "2026-11-20T05:01:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "09573b85086f5b47cd92734e",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T05:00:16+00:00",
+      "last_update": "2026-11-20T05:00:16+00:00",
+      "event": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "areas",
+        "cars",
+        "contaminated",
+        "controlled",
+        "costly",
+        "damages",
+        "drivers",
+        "ends",
+        "face",
+        "fuel",
+        "houthi",
+        "leaves",
+        "make",
+        "meet",
+        "petrol",
+        "prices",
+        "repairs",
+        "rising",
+        "struggling",
+        "their",
+        "yemeni"
+      ],
+      "source_excerpt": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
+          "published_at": "2026-11-20T05:00:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "433cac7fdd462ece153bed40",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T04:35:51+00:00",
+      "last_update": "2026-11-20T04:35:51+00:00",
+      "event": "UK and EU to agree youth mobility scheme, BBC understands",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agree",
+        "also",
+        "and",
+        "approved",
+        "bbc",
+        "carbon",
+        "deals",
+        "emissions",
+        "expected",
+        "food",
+        "friday",
+        "mobility",
+        "new",
+        "scheme",
+        "summit",
+        "table",
+        "the",
+        "trade",
+        "understands",
+        "with",
+        "youth"
+      ],
+      "source_excerpt": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T04:35:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "acc4b4fda0eb7fecc7ee396e",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T04:29:57+00:00",
+      "last_update": "2026-11-20T04:29:57+00:00",
+      "event": "Judge recuses himself from hearing Punjab opposition leader’s plea against decision in defamation case",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045755",
+        "against",
+        "case",
+        "com",
+        "dawn",
+        "decision",
+        "defamation",
+        "from",
+        "hearing",
+        "himself",
+        "https",
+        "judge",
+        "leader",
+        "news",
+        "opposition",
+        "plea",
+        "punjab",
+        "recuses",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045755",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045868/judge-recuses-himself-from-hearing-punjab-opposition-leaders-plea-against-decision-in-defamation-case",
+          "published_at": "2026-11-20T04:29:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045868/judge-recuses-himself-from-hearing-punjab-opposition-leaders-plea-against-decision-in-defamation-case",
+        "publisher_url": "https://www.dawn.com/news/2045868/judge-recuses-himself-from-hearing-punjab-opposition-leaders-plea-against-decision-in-defamation-case",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "88da639da4d34eff18bd5e7a",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T05:08:05+00:00",
+      "last_update": "2026-11-20T05:08:05+00:00",
+      "event": "Peshawar High Court seeks report about detention of man by ‘peace committee’ in Bannu",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "alleged",
+        "also",
+        "and",
+        "bannu",
+        "bench",
+        "chief",
+        "committee",
+        "court",
+        "detailed",
+        "detention",
+        "directed",
+        "efforts",
+        "for",
+        "fortnight",
+        "from",
+        "has",
+        "high",
+        "him",
+        "his",
+        "illegal",
+        "justice",
+        "make",
+        "man",
+        "member",
+        "members",
+        "officer",
+        "peace",
+        "person",
+        "peshawar",
+        "phc",
+        "police",
+        "recovery",
+        "regional",
+        "report",
+        "rpo",
+        "seeks",
+        "single",
+        "sought",
+        "the",
+        "within"
+      ],
+      "source_excerpt": "PESHAWAR: Peshawar High Court has sought detailed report within a fortnight from the Regional Police Officer (RPO) of Bannu about alleged illegal detention of a person by members of a ‘peace committee’ and also directed him to make efforts for his recovery. A single-member bench of PHC Chief Justice",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045763/peshawar-high-court-seeks-report-about-detention-of-man-by-peace-committee-in-bannu",
+          "published_at": "2026-11-20T05:08:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045763/peshawar-high-court-seeks-report-about-detention-of-man-by-peace-committee-in-bannu",
+        "publisher_url": "https://www.dawn.com/news/2045763/peshawar-high-court-seeks-report-about-detention-of-man-by-peace-committee-in-bannu",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "de07e63aec54951f042b620d",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T04:43:33+00:00",
+      "last_update": "2026-11-20T04:43:33+00:00",
+      "event": "Sindh cabinet okays Rs5.766bn for Karachi Safe City phase-II",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "766",
+        "766bn",
+        "approved",
+        "billion",
+        "cabinet",
+        "city",
+        "commissioned",
+        "directing",
+        "for",
+        "includes",
+        "infrastructure",
+        "installation",
+        "karachi",
+        "months",
+        "okays",
+        "phase",
+        "project",
+        "release",
+        "rs5",
+        "safe",
+        "second",
+        "security",
+        "sindh",
+        "strengthen",
+        "that",
+        "the",
+        "thursday",
+        "within"
+      ],
+      "source_excerpt": "KARACHI: The Sindh Cabinet on Thursday approved the release of Rs5.766 billion for the second phase of the Karachi Safe City Project, directing that the project be commissioned within 18 months to strengthen security infrastructure. Phase-II of the Karachi Safe City project includes installation of",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045780/sindh-cabinet-okays-rs5766bn-for-karachi-safe-city-phase-ii",
+          "published_at": "2026-11-20T04:43:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045780/sindh-cabinet-okays-rs5766bn-for-karachi-safe-city-phase-ii",
+        "publisher_url": "https://www.dawn.com/news/2045780/sindh-cabinet-okays-rs5766bn-for-karachi-safe-city-phase-ii",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dced65061b9a57842c40a4ad",
+      "remembered_at": "2026-11-20T05:32:45.395643+00:00",
+      "event_date": "2026-11-20T04:41:28+00:00",
+      "last_update": "2026-11-20T04:41:28+00:00",
+      "event": "Latest News, Pakistan News, World News, Sports News and Videos",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "dunya",
+        "latest",
+        "news",
+        "pakistan",
+        "sports",
+        "videos",
+        "world"
+      ],
+      "source_excerpt": "Latest News, Pakistan News, World News, Sports News and Videos Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YUlJrbllfQ0lIaGVSYk5va0tqTDltNTJXLTZDdDBjUmNRNnBfUndfaERUTkhlMG40dTh5bEh1aUtLSnN3aWRTY3lBWEtaTVRS?oc=5",
+          "published_at": "2026-11-20T04:41:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YUlJrbllfQ0lIaGVSYk5va0tqTDltNTJXLTZDdDBjUmNRNnBfUndfaERUTkhlMG40dTh5bEh1aUtLSnN3aWRTY3lBWEtaTVRS?oc=5",
+        "publisher_url": "https://dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T04:21:15.330909+00:00"
+  "updated_at": "2026-11-20T05:32:45.395643+00:00"
 }

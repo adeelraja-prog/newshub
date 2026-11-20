@@ -1,148 +1,142 @@
-# News Hub report - Fri 20 Nov, 09:21 AM PKT
+# News Hub report - Fri 20 Nov, 10:32 AM PKT
 
 ## Collection
-- New items this run: 35 | items in rolling pool: 323
-- Unique story clusters: 260 (duplicates merged: 63)
-- Clusters dropped as already published/queued: 32; unchanged since last analysis: 4
-- Items per outlet: Geo News 6, Dawn Latest 6, Profit by Pakistan Today 5, Dawn Pakistan 3, ARY News 2, Al Jazeera 2, Dawn 1, Dunya News 1, The Nation 1, BBC 1, The Express Tribune 1, PhoneWorld 1
+- New items this run: 65 | items in rolling pool: 334
+- Unique story clusters: 265 (duplicates merged: 69)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 8
+- Items per outlet: Dawn Pakistan 14, Dawn 7, Dawn Latest 5, Geo News 5, TechJuice 5, ARY News 3, Al Jazeera 3, PhoneWorld 3, The Express Tribune 2, ProPakistani 2, Investify 2, The News International 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Auto financing boom continues | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK asks YouTube to remove Russell Brand’s video | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China issues Mount Fuji warning as family of missing climber offers reward | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Phone Shake’ feature on Women Safety App | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PMA objects to proposed SHCC board members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Slain anchorperson’s husband released on bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladeshi civil servants’ team visits SIUT, meets CM | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Auto financing boom continues | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK asks YouTube to remove Russell Brand’s video | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China issues Mount Fuji warning as family of missing climber offers reward | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Phone Shake’ feature on Women Safety App | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PMA objects to proposed SHCC board members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Slain anchorperson’s husband released on bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladeshi civil servants’ team visits SIUT, meets CM | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Auto financing boom continues | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK asks YouTube to remove Russell Brand’s video | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- China issues Mount Fuji warning as family of missing climber offers reward | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Phone Shake’ feature on Women Safety App | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PMA objects to proposed SHCC board members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Slain anchorperson’s husband released on bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladeshi civil servants’ team visits SIUT, meets CM | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 103/107 | empty: 2 | failed: 2 | malformed/partial: 2
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Jang Urdu | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Auto financing boom continues as car loans rise  [NORMAL]
-- Poster: اسٹیٹ بینک کے اعداد و شمار کے مطابق آٹو فنانسنگ میں مسلسل اضافہ جاری / Auto financing boom continues as car loans rise | category economy
-- Alternative headline: State Bank data shows ongoing growth in auto loans
+### Punjab Adds Phone Shake SOS Feature to Women Safety App  [NORMAL]
+- Poster: خواتین سیفٹی ایپ میں فون شیک فیچر متعارف کرا دیا گیا / Phone Shake SOS Feature Added to Women Safety App | category tech
+- Alternative headline: ‘Phone Shake’ feature introduced in Punjab Women Safety App
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMicEFVX3lxTE9mWk1EazhiZEJtTnNwTk41VjZ0ZWJlUjd1Rmc4TkhEbDE4eFZtWTQwdGs4UHJNSXFkYVBhZW1TcHdNZFNTVEM2V3lJT0xfWWo4RTA3dWF0dmFERnFOc1F2TFJKeWZocnl3T2FmWUhSTXg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMicEFVX3lxTE9mWk1EazhiZEJtTnNwTk41VjZ0ZWJlUjd1Rmc4TkhEbDE4eFZtWTQwdGs4UHJNSXFkYVBhZW1TcHdNZFNTVEM2V3lJT0xfWWo4RTA3dWF0dmFERnFOc1F2TFJKeWZocnl3T2FmWUhSTXg?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTFByN052NVotZWx3LUhGSnZwelJybjdNanRuZGFPc29XY3pQcmRnSklmeHdJVHdoSGZWcGhvV2FCelVIY21QVlRpdmVfczJRWGw1WWo4R2g3U0x5MzNqU0ZBbTJkN09SbDlfX0VFdWEycGpNX210TXVMSFBnQlVPdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTFByN052NVotZWx3LUhGSnZwelJybjdNanRuZGFPc29XY3pQcmRnSklmeHdJVHdoSGZWcGhvV2FCelVIY21QVlRpdmVfczJRWGw1WWo4R2g3U0x5MzNqU0ZBbTJkN09SbDlfX0VFdWEycGpNX210TXVMSFBnQlVPdw?oc=5
+- Supporting coverage: Dawn, Dawn Latest, TechJuice
+- Keywords: Women Safety App, Phone Shake, Punjab, SOS, emergency, Dawn | hashtags: #WomenSafetyApp #Punjab #PhoneShake #SOS #News
+- Scheduled: Fri 20 Nov, 10:32 AM PKT
+- Caption:
+```
+Punjab has introduced a new 'Phone Shake' SOS feature to the Women Safety App, making emergency alerts quicker and easier.
+
+The Punjab government has introduced a new 'Phone Shake' feature to the Women Safety App. This update is designed to help women send emergency alerts more efficiently during critical situations by simply shaking their mobile phones.
+
+پنجاب حکومت نے ویمن سیفٹی ایپ میں نیا 'فون شیک' فیچر متعارف کرا دیا ہے۔ اس اپ ڈیٹ کا مقصد خواتین کے لیے ہنگامی صورتحال میں صرف فون ہلا کر فوری مدد حاصل کرنا آسان بنانا ہے۔
+
+First reported by Dawn; also reported by TechJuice.
+
+#WomenSafetyApp #Punjab #PhoneShake #SOS #News
+```
+
+### Kushner: Trump open to NATO-like security guarantees for Ukraine  [NORMAL]
+- Poster: ٹرمپ یوکرین کو نیٹو طرز کی سلامتی کی ضمانت دینے کے لیے تیار ہیں: کشنر / Trump open to NATO-like security guarantees for Ukraine: Kushner | category world
+- Alternative headline: Trump open to Kyiv getting Nato-like mutual defence guarantee, says Kushner
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss
+- Supporting coverage: The Guardian, Al Jazeera
+- Keywords: Ukraine war, Donald Trump, Jared Kushner, NATO, security guarantees, Al Jazeera | hashtags: #Ukraine #DonaldTrump #NATO #JaredKushner #WorldNews
+- Scheduled: Fri 20 Nov, 10:42 AM PKT
+- Caption:
+```
+US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, according to envoy Jared Kushner.
+
+US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has stated. The remark highlights potential shifts in the diplomatic approach towards resolving the ongoing conflict between Russia and Ukraine.
+
+امریکی صدر ڈونلڈ ٹرمپ یوکرین کو نیٹو طرز کی سکیورٹی ضمانتیں دینے کے لیے تیار ہیں، یہ بات ایلچی جیرڈ کشنر کہی ہے۔ اس بیان سے روس اور یوکرین کے تنازع کے حل کے لیے سفارتی نقطہ نظر میں ممکنہ تبدیلی کا اشارہ ملتا ہے۔
+
+First reported by Al Jazeera; also reported by The Guardian.
+
+#Ukraine #DonaldTrump #NATO #JaredKushner #WorldNews
+```
+
+### Pakistan Medical Association objects to proposed SHCC board members  [NORMAL]
+- Poster: پاکستان میڈیکل ایسوسی ایشن کے سندھ ہیلتھ کیئر کمیشن کے نامزد ارکان پر اعتراضات / PMA objects to proposed Sindh HealthCare Commission board members | category health
+- Alternative headline: PMA objects to proposed Sindh HealthCare Commission board members
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxPd29KWUJkSGs1eU5FR2tXM1ZDNTlEWlBTZi1IN3lGeUpGdE5vOGdPVXhNRnk3N1BCVk81TjhoLUczMWNVWU44UGdMOG95a0VyTkREVjFtQlIyNm4xb0VwSkhFQU1CUFc3bXZlVlRhd2ZhSVR3cFVOcUVEN0hreUVIOFBB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxPd29KWUJkSGs1eU5FR2tXM1ZDNTlEWlBTZi1IN3lGeUpGdE5vOGdPVXhNRnk3N1BCVk81TjhoLUczMWNVWU44UGdMOG95a0VyTkREVjFtQlIyNm4xb0VwSkhFQU1CUFc3bXZlVlRhd2ZhSVR3cFVOcUVEN0hreUVIOFBB?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, Dawn
+- Keywords: PMA, SHCC, Sindh HealthCare Commission, Pakistan Medical Association, board members, Dawn | hashtags: #PMA #SHCC #SindhHealth #PakistanMedicalAssociation #News
+- Scheduled: Fri 20 Nov, 10:52 AM PKT
+- Caption:
+```
+The Pakistan Medical Association has raised objections regarding the proposed members of the Sindh HealthCare Commission board.
+
+The Pakistan Medical Association (PMA) has officially expressed its objections to the proposed members of the Sindh HealthCare Commission (SHCC) board, raising concerns over the selection process and composition of the regulatory body.
+
+پاکستان میڈیکل ایسوسی ایشن (پی ایم اے) نے سندھ ہیلتھ کیئر کمیشن (ایس ایچ سی سی) کے بورڈ کے نامزد ارکان پر باضابطہ طور پر اپنے اعتراضات کا اظہار کیا ہے، جس سے ریگولیٹری باڈی کے انتخاب کے عمل پر تحفظات پیدا ہوئے ہیں۔
+
+First reported by Dawn.
+
+#PMA #SHCC #SindhHealth #PakistanMedicalAssociation #News
+```
+
+### Slain anchorperson’s husband released on bail in Rawalpindi  [NORMAL]
+- Poster: مقتولہ اینکر پرسن کا شوہر ضمانت پر رہا / Slain anchorperson’s husband released on bail | category courts
+- Alternative headline: Husband of slain anchorperson released on bail
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFN3VFl0Um5EaFFoVERXdmhhQk5CaDVsSUNMX1IxZ0hIRlhvb2lWS1hWR3hpNW8yM2hxYkJpVEE0X2hHNWJ2ZHRZVWpRUmtDZlFxWmNZWU5tak4taDk4dmtlSVFtWjRpYW00akZwYnFCLTMtSlBRcHZvZ1pSTVJQdWxsX1A?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFN3VFl0Um5EaFFoVERXdmhhQk5CaDVsSUNMX1IxZ0hIRlhvb2lWS1hWR3hpNW8yM2hxYkJpVEE0X2hHNWJ2ZHRZVWpRUmtDZlFxWmNZWU5tak4taDk4dmtlSVFtWjRpYW00akZwYnFCLTMtSlBRcHZvZ1pSTVJQdWxsX1A?oc=5
 - Supporting coverage: Dawn, Dawn Latest
-- Keywords: auto financing, car loans, State Bank, economy, Pakistan, Dawn | hashtags: #AutoFinancing #StateBank #PakistanEconomy #CarLoans #DawnNews
-- Scheduled: Fri 20 Nov, 09:21 AM PKT
+- Keywords: anchorperson, bail, Rawalpindi, husband, courts, Dawn | hashtags: #Rawalpindi #Court #Bail #LegalNews #Dawn
+- Scheduled: Fri 20 Nov, 11:02 AM PKT
 - Caption:
 ```
-State Bank data reveals that Pakistan's auto financing boom is continuing as outstanding car loans register an increase.
+The husband of the slain anchorperson has been released on bail by a court in Rawalpindi.
 
-According to data from the State Bank of Pakistan reported by Dawn, the country's auto financing sector continues to experience a boom, with outstanding car loans showing a rising trend. This indicates sustained consumer interest in vehicle financing despite broader economic challenges.
+The husband of the slain anchorperson has been released on bail following legal proceedings in Rawalpindi. The case has drawn significant public attention and media coverage across Pakistan regarding the ongoing investigation.
 
-ڈان کی رپورٹ کے مطابق اسٹیٹ بینک آف پاکستان کے اعداد و شمار سے ظاہر ہوتا ہے کہ ملک میں آٹو فنانسنگ کا رجحان مسلسل جاری ہے اور کار لونز میں اضافہ دیکھا جا رہا ہے۔ یہ اس بات کی غمازی کرتا ہے کہ معاشی چیلنجز کے باوجود صارفین کی گاڑیوں کی مالی معاونت میں دلچسپی برقرار ہے۔
+راولپنڈی میں قانونی کارروائی کے بعد مقتولہ اینکر پرسن کے شوہر کو ضمانت پر رہا کر دیا گیا ہے۔ اس کیس نے ملک بھر میں جاری تحقیقات کے حوالے سے کافی عوامی توجہ حاصل کی ہے۔
 
 First reported by Dawn.
 
-#AutoFinancing #StateBank #PakistanEconomy #CarLoans #DawnNews
+#Rawalpindi #Court #Bail #LegalNews #Dawn
 ```
 
-### UK asks YouTube to remove Russell Brand’s video  [NORMAL]
-- Poster: برطانیہ کا یوٹیوب سے رسل برانڈ کی ویڈیو ہٹانے کا مطالبہ / UK asks YouTube to remove Russell Brand’s video | category world
-- Alternative headline: British authorities request YouTube to take down Russell Brand video
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlVTY0dCaEZKVWJvLThEOFMtQnpCdXpYVmVaUHI5M2pVNldmQjVpS3ZpWUhybWhyZnBhek8wWXNPMU95SnczTGxCZms1SEYtTHpXdWlwMWxxYU9fSzJPQXJrZUJzQ2dEUDd1eUN1aVZ5S1c4bll2M2N5T05xVWxxWGRWTkRISUE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlVTY0dCaEZKVWJvLThEOFMtQnpCdXpYVmVaUHI5M2pVNldmQjVpS3ZpWUhybWhyZnBhek8wWXNPMU95SnczTGxCZms1SEYtTHpXdWlwMWxxYU9fSzJPQXJrZUJzQ2dEUDd1eUN1aVZ5S1c4bll2M2N5T05xVWxxWGRWTkRISUE?oc=5
-- Supporting coverage: Dawn
-- Keywords: Russell Brand, UK, YouTube, video removal, Dawn | hashtags: #RussellBrand #UK #YouTube #DawnNews
-- Scheduled: Fri 20 Nov, 09:31 AM PKT
-- Caption:
-```
-The UK government has reportedly asked video-sharing platform YouTube to remove a video featuring British comedian and actor Russell Brand.
-
-According to a report by Dawn, authorities in the United Kingdom have officially asked YouTube to remove a video related to Russell Brand. The request comes amid ongoing scrutiny surrounding the entertainer following various allegations.
-
-ڈان کی رپورٹ کے مطابق برطانیہ کے حکام نے یوٹیوب سے کہا ہے کہ وہ برطانوی کامیڈین اور اداکار رسل برانڈ کی ایک ویڈیو کو پلیٹ فارم سے ہٹا دیں۔ یہ مطالبہ رسل برانڈ کے گرد گھومنے والی حالیہ تحقیقات اور الزامات کے تناظر میں سامنے آیا ہے۔
-
-First reported by Dawn.
-
-#RussellBrand #UK #YouTube #DawnNews
-```
-
-### Asia’s stock markets dive amid AI bubble fears  [NORMAL]
-- Poster: ایشیا کی اسٹاک مارکیٹوں میں مندی، اے آئی ببل کے خدشات برقرار / Asia stock markets dive amid AI bubble fears | category economy
-- Alternative headline: Tech sell-off hits Asian stock markets following Anthropic debut
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: stock markets, Anthropic, AI bubble, Asia, tech sell-off, Al Jazeera | hashtags: #StockMarket #AIBubble #AsiaMarkets #Anthropic #AlJazeera
-- Scheduled: Fri 20 Nov, 09:41 AM PKT
-- Caption:
-```
-Stock markets across major Asian economies have experienced a sharp decline following Anthropic's market debut.
-
-According to Al Jazeera, stock market indexes in Japan, South Korea, Taiwan, and Hong Kong fell sharply amid a broader technology sell-off. The market downturn was triggered as Anthropic's debut failed to alleviate growing investor fears regarding an artificial intelligence market bubble.
-
-الجزیرہ کے مطابق، ٹیکنالوجی کے شعبے میں فروخت کے دباؤ کے باعث جاپان، جنوبی کوریا، تائیوان اور ہانگ کانگ کے اسٹاک مارکیٹ انڈیکس میں نمایاں کمی واقع ہوئی ہے۔ یہ مندی اس وقت آئی جب اینتھروپک کی مارکیٹ میں انٹری مصنوعی ذہانت کے بلبلے سے متعلق سرمایہ کاروں کے خدشات کو دور کرنے میں ناکام رہی۔
-
-First reported by Al Jazeera.
-
-#StockMarket #AIBubble #AsiaMarkets #Anthropic #AlJazeera
-```
-
-### Trump nominee refuses to call Jan 6 an ‘attack’  [NORMAL]
-- Poster: ٹرمپ کے نامزد کردہ امیدوار کا 6 جنوری کے واقعے کو حملہ کہنے سے انکار / Trump nominee refuses to call Jan 6 an attack | category us_politics
-- Alternative headline: US election security nominee declines to label Jan 6 an attack
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Trump nominee, January 6, Senate hearing, election security, Al Jazeera | hashtags: #USPolitics #January6 #SenateHearing #Trump #AlJazeera
-- Scheduled: Fri 20 Nov, 09:51 AM PKT
-- Caption:
-```
-US President-elect Donald Trump's nominee to lead the election security agency declined to classify the January 6 events as an attack.
-
-According to Al Jazeera, Donald Trump's nominee to lead the US agency responsible for election security refused to describe the January 6 Capitol insurrection as an 'attack' during a Senate hearing. The refusal drew significant attention during the confirmation proceedings.
-
-الجزیرہ کے مطابق، امریکی صدارتی امیدوار کے الیکشن سیکیورٹی کے ادارے کے لیے نامزد کردہ امیدوار نے سینیٹ کی سماعت کے دوران 6 جنوری کے واقعے کو 'حملہ' کہنے سے انکار کر دیا۔ اس بیان نے نامزدگی کی کارروائی کے دوران خاصی توجہ حاصل کی۔
-
-First reported by Al Jazeera.
-
-#USPolitics #January6 #SenateHearing #Trump #AlJazeera
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
-- [needs_review] normal | Sudanese army air attack kills 13 in western Sudan: Rights group | Tue 17 Nov, 03:30 AM PKT
-- [needs_review] normal | Manchester United’s Endless Loop | Tue 17 Nov, 03:40 AM PKT
-- [needs_review] normal | Photos: California residents gather to watch massive El Nino-fuelled w | Tue 17 Nov, 03:50 AM PKT
-- [needs_review] normal | California files lawsuit against OpenAI alleging lack of proper safegu | Tue 17 Nov, 04:10 AM PKT
 - [needs_review] normal | Houthi rebel advance in Yemen may further destabilise global economy | Tue 17 Nov, 04:30 AM PKT
 - [needs_review] normal | US Pentagon rejects allegations linking deputy to a Goldman Sachs bank | Tue 17 Nov, 04:40 AM PKT
 - [needs_review] normal | California sues OpenAI over Hugging Face attack | Tue 17 Nov, 04:54 AM PKT
@@ -161,7 +155,6 @@ First reported by Al Jazeera.
 - [needs_review] normal | Minister Buledi clarifies remarks on tribal system | Tue 17 Nov, 09:19 AM PKT
 - [needs_review] normal | Four lawyers appointed special ATC judges | Tue 17 Nov, 09:29 AM PKT
 - [needs_review] normal | Punjab to sue Salik over graft claims against Maryam | Tue 17 Nov, 09:39 AM PKT
-- [published] normal | Second Test: Pakistan win toss, opt to bowl first against Sri Lanka | Tue 17 Nov, 10:11 AM PKT
 - [needs_review] normal | Nvidia rules out Jensen Huang's return as board hires law firm to inve | Tue 17 Nov, 10:21 AM PKT
 - [needs_review] normal | Pakistan crush Sri Lanka in Blind Asia Cup | Tue 17 Nov, 10:31 AM PKT
 - [needs_review] normal | Balochistan PA flags flour prices, dept mergers | Tue 17 Nov, 10:41 AM PKT
@@ -348,12 +341,12 @@ First reported by Al Jazeera.
 - [published] normal | Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Miss | Fri 20 Nov, 02:42 AM PKT
 - [published] normal | Latest Updates and Developments from the Middle East | Fri 20 Nov, 02:52 AM PKT
 - [published] normal | Pakistan and 14 nations welcome UK and Australian sanctions on Israeli | Fri 20 Nov, 03:21 AM PKT
-- [queued] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
-- [queued] normal | President urges swift implementation of Pakistan-Maldives agreements | Fri 20 Nov, 03:41 AM PKT
-- [queued] normal | Lahore officially named ECO Tourism Capital for 2027 | Fri 20 Nov, 03:51 AM PKT
-- [queued] normal | US Approved Sales of Nearly 900,000 AI Chips to China | Fri 20 Nov, 04:15 AM PKT
-- [queued] normal | Haiti Police Kill at Least 34 Suspected Gang Members in Raid | Fri 20 Nov, 04:25 AM PKT
-- [queued] normal | Anthropic Hits $1.76 Trillion Valuation in Blockbuster Market Debut | Fri 20 Nov, 04:35 AM PKT
+- [needs_review] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
+- [needs_review] normal | President urges swift implementation of Pakistan-Maldives agreements | Fri 20 Nov, 03:41 AM PKT
+- [needs_review] normal | Lahore officially named ECO Tourism Capital for 2027 | Fri 20 Nov, 03:51 AM PKT
+- [needs_review] normal | US Approved Sales of Nearly 900,000 AI Chips to China | Fri 20 Nov, 04:15 AM PKT
+- [needs_review] normal | Haiti Police Kill at Least 34 Suspected Gang Members in Raid | Fri 20 Nov, 04:25 AM PKT
+- [published] normal | Anthropic Hits $1.76 Trillion Valuation in Blockbuster Market Debut | Fri 20 Nov, 04:35 AM PKT
 - [queued] normal | Fiona the Famous Hippo Dies After Swallowing a Hat at Cincinnati Zoo | Fri 20 Nov, 04:45 AM PKT
 - [queued] normal | Prince William and Catherine's India Tour Described as 'Particularly S | Fri 20 Nov, 05:00 AM PKT
 - [queued] normal | California Probes Nvidia Over Alleged Unauthorized Tech Transfers to C | Fri 20 Nov, 05:10 AM PKT
@@ -375,15 +368,16 @@ First reported by Al Jazeera.
 - [queued] normal | UK asks YouTube to remove Russell Brand’s video | Fri 20 Nov, 09:31 AM PKT
 - [queued] normal | Asia’s stock markets dive amid AI bubble fears | Fri 20 Nov, 09:41 AM PKT
 - [queued] normal | Trump nominee refuses to call Jan 6 an ‘attack’ | Fri 20 Nov, 09:51 AM PKT
+- [queued] normal | Punjab Adds Phone Shake SOS Feature to Women Safety App | Fri 20 Nov, 10:32 AM PKT
+- [queued] normal | Kushner: Trump open to NATO-like security guarantees for Ukraine | Fri 20 Nov, 10:42 AM PKT
+- [queued] normal | Pakistan Medical Association objects to proposed SHCC board members | Fri 20 Nov, 10:52 AM PKT
+- [queued] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan and 14 nations welcome UK and Australian sanctions on Israeli settlements'.
+- Published 'Anthropic Hits $1.76 Trillion Valuation in Blockbuster Market Debut'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 3710 | output tokens: 2329
+- Calls: 3 | prompt tokens: 4011 | output tokens: 2265
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
