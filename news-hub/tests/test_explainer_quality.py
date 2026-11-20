@@ -9,7 +9,7 @@ class ExplainerQualityGateTests(unittest.TestCase):
                       "cluster": {"members": [{"link": self.url}]}}
         self.point1 = {
             "label": "What changed",
-            "text": "The government changed the approval process, moving responsibility from regional offices to a central authority and creating a single national review route.",
+            "text": "The government changed the approval process, moving responsibility from regional offices to a central authority and creating a single national review route for every applicant.",
             "text_ur": "حکومت نے منظوری کا طریقہ تبدیل کرتے ہوئے ذمہ داری علاقائی دفاتر سے مرکزی ادارے کو منتقل کر دی ہے۔",
             "source": "Publisher", "url": self.url
         }
