@@ -1,32 +1,32 @@
-# News Hub report - Fri 20 Nov, 12:58 PM PKT
+# News Hub report - Fri 20 Nov, 02:00 PM PKT
 
 ## Collection
-- New items this run: 126 | items in rolling pool: 502
-- Unique story clusters: 398 (duplicates merged: 104)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 9
-- Items per outlet: UrduPoint 44, Geo News 10, ProPakistani 8, TechJuice 8, ARY News 6, Investify 5, Dawn Latest 4, Al Jazeera 4, PhoneWorld 4, Profit by Pakistan Today 4, samaa tv 3, The Express Tribune 3
+- New items this run: 89 | items in rolling pool: 562
+- Unique story clusters: 446 (duplicates merged: 116)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 12
+- Items per outlet: UrduPoint 31, Geo News 7, samaa tv 5, Dunya News 5, Profit by Pakistan Today 5, Dawn Latest 3, AP News 3, ProPakistani 3, ARYnews.tv 2, ARY News 2, Al Jazeera 2, The Current 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- Pakistan beat Sri Lanka by eight wickets in second Test, win series 1-0 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cartoon: 20 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt plans electric bus service in 14 cities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s large-scale production grows 2.07% in 3 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan improves 17 places in UN E-Government Development Index 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump ousts cyber director after tech outages spark criticism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iqrar-ul-Hassan indicted in NCCIA case, pleads not guilty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NCCIA arrests suspect over alleged sale of stolen US government data in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan beat Sri Lanka by eight wickets in second Test, win series 1-0 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cartoon: 20 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt plans electric bus service in 14 cities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s large-scale production grows 2.07% in 3 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan improves 17 places in UN E-Government Development Index 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump ousts cyber director after tech outages spark criticism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iqrar-ul-Hassan indicted in NCCIA case, pleads not guilty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NCCIA arrests suspect over alleged sale of stolen US government data in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan beat Sri Lanka by eight wickets in second Test, win series 1-0 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cartoon: 20 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt plans electric bus service in 14 cities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s large-scale production grows 2.07% in 3 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan improves 17 places in UN E-Government Development Index 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NCCIA busts online gambling, money laundering network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump ousts cyber director after tech outages spark criticism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iqrar-ul-Hassan indicted in NCCIA case, pleads not guilty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NCCIA arrests suspect over alleged sale of stolen US government data in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -35,112 +35,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Pakistan conquer Sri Lanka by eight wickets to seal Test series  [NORMAL]
-- Poster: پاکستان نے سری لنکا کو دوسرے ٹیسٹ میں شکست دے کر سیریز جیت لی / Pakistan beat Sri Lanka by 8 wickets to win series | category sports
-- Alternative headline: Pakistan beat Sri Lanka by eight wickets in second Test
+### Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026  [NORMAL]
+- Poster: اقوام متحدہ کی ای گورننس انڈیکس میں پاکستان کی 17 درجے بہتری / Pakistan Jumps 17 Ranks in UN E-Government Index | category tech
+- Alternative headline: Pakistan improves 17 places in UN E-Government Development Index 2026
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/691875-pakistan-beat-sri-lanka-by-eight-wickets-in-second-test-win-series-1-0 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/691875-pakistan-beat-sri-lanka-by-eight-wickets-in-second-test-win-series-1-0
-- Supporting coverage: Geo News, Geo News, Reuters, AP News, The Express Tribune, Dawn
-- Keywords: Pakistan vs Sri Lanka Test, Rawalpindi Test, Aamer Jamal, Babar Azam, Test series win, Pakistan cricket | hashtags: #PAKvSL #PakistanCricket #TestSeries #RawalpindiTest #Cricket
-- Scheduled: Fri 20 Nov, 12:58 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/pakistan-improves-17-places-in-un-e-government-development-index-2026 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/pakistan-improves-17-places-in-un-e-government-development-index-2026
+- Supporting coverage: TechJuice, ARY News, ARYnews.tv, samaa tv
+- Keywords: UN E-Government Index, Pakistan digital governance, Shaza Fatima, EGDI 2026, IT ministry, online public services | hashtags: #Pakistan #EGovernment #DigitalPakistan #UN #Technology
+- Scheduled: Fri 20 Nov, 02:00 PM PKT
 - Caption:
 ```
-Pakistan clinched the two-match Test series against Sri Lanka 1-0 after securing a comfortable eight-wicket win in Rawalpindi.
+Pakistan has climbed 17 places in the UN E-Government Development Index 2026, reaching the 119th position amid digital governance reforms.
 
-Pakistan defeated Sri Lanka by eight wickets in the second Test at the Rawalpindi Cricket Stadium to clinch the two-match series 1-0. Chasing a target of 90 runs, Pakistan reached home safely in 13 overs, with Aamer Jamal and Azan Awais remaining unbeaten.
+Pakistan has improved its global standing by 17 places in the United Nations E-Government Development Index 2026, securing the 119th position. Federal Minister Shaza Fatima attributed the progress to digital governance reforms and coordinated institutional efforts.
 
-پاکستان نے راولپنڈی کرکٹ اسٹیڈیم میں کھیلے گئے دوسرے ٹیسٹ میچ میں سری لنکا کو آٹھ وکٹوں سے شکست دے کر دو میچوں کی سیریز ایک صفر سے جیت لی۔ نوے رنز کا ہندسہ پاکستان نے تیرہ اوورز میں پورا کیا۔
+اقوام متحدہ کے ای گورننس ڈویلپمنٹ انڈیکس 2026 میں پاکستان نے 17 درجے بہتری کے ساتھ 119 ویں پوزیشن حاصل کر لی ہے۔ وفاقی وزیر شزا فاطمہ نے اس پیش رفت کو ڈیجیٹل گورننس اصلاحات کا نتیجہ قرار دیا ہے۔
 
-First reported by Geo News.
+First reported by ARY News; also reported by TechJuice.
 
-#PAKvSL #PakistanCricket #TestSeries #RawalpindiTest #Cricket
+#Pakistan #EGovernment #DigitalPakistan #UN #Technology
 ```
 
-### Daily Editorial Cartoon for November 20, 2026  [NORMAL]
-- Poster: ڈان کا روزنامہ کارٹون: 20 نومبر 2026 / Dawn Daily Cartoon: November 20, 2026 | category other
-- Alternative headline: Dawn Cartoon: November 20, 2026
+### NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Laundering Network  [NORMAL]
+- Poster: این سی سی آئی اے کا ایک ٹریلین روپے کا آن لائن جوا نیٹ ورک بے نقاب / NCCIA Uncovers Rs1 Trillion Gambling Network | category crime
+- Alternative headline: NCCIA busts online gambling, money laundering network in Karachi
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE1QSFJqQktjMzJjVmJJMzdFcnBacXo0cVh6UmNhMWpQRDNBS0MxUjFZZEdBWjR6VW54X2R2U3c3TUltTDgzVzF4dy1BME4xQUdjODJ2SkVpeTVtdS1vTGxTZmRKamxNNWM5X2c?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE1QSFJqQktjMzJjVmJJMzdFcnBacXo0cVh6UmNhMWpQRDNBS0MxUjFZZEdBWjR6VW54X2R2U3c3TUltTDgzVzF4dy1BME4xQUdjODJ2SkVpeTVtdS1vTGxTZmRKamxNNWM5X2c?oc=5
-- Supporting coverage: Dawn, Profit by Pakistan Today, Investify, Wired, Wired, Wired
-- Keywords: Cartoon, Dawn cartoon, Editorial cartoon, November 20 2026 | hashtags: #DawnCartoon #EditorialCartoon #Pakistan
-- Scheduled: Fri 20 Nov, 01:08 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTlNa3RXVjEwWnZlWGo2OWlwNjBSNExBWFcybDR2YU5ibUFVTFRHVkdHM1IwVHRXVUdXTU1CdF9LRnJuUlpoeHkzU0xFTDRjd0dIUkxTU2VjMl9pd0MxZkdxSFRoZjBuZVNlZTA0SUF0eUtISl9OX2dlcU9QWm80Z1VwRXkxRnd6VDZpbkxTbw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTlNa3RXVjEwWnZlWGo2OWlwNjBSNExBWFcybDR2YU5ibUFVTFRHVkdHM1IwVHRXVUdXTU1CdF9LRnJuUlpoeHkzU0xFTDRjd0dIUkxTU2VjMl9pd0MxZkdxSFRoZjBuZVNlZTA0SUF0eUtISl9OX2dlcU9QWm80Z1VwRXkxRnd6VDZpbkxTbw?oc=5
+- Supporting coverage: Dawn, Profit by Pakistan Today, The Current
+- Keywords: NCCIA, online gambling, money laundering, Karachi crime, cyber crime, betting network | hashtags: #NCCIA #Karachi #MoneyLaundering #CyberCrime #Gambling
+- Scheduled: Fri 20 Nov, 02:10 PM PKT
 - Caption:
 ```
-Check out today's editorial cartoon featured in Dawn.
+The NCCIA has busted a massive online gambling and money laundering network allegedly worth Rs1 trillion in Karachi.
 
-The daily editorial cartoon published by Dawn on November 20, 2026, provides a satirical visual commentary on current national events.
+The National Cyber Crime Investigation Agency (NCCIA) has busted an online gambling and money laundering network allegedly involving Rs1 trillion, arresting five suspects in Karachi.
 
-ڈان کی جانب سے 20 نومبر 2026 کو شائع ہونے والا روزنامہ کارٹون، جو حالاتِ حاضرہ پر طنزیہ نظر ڈالتا ہے۔
+نیشنل سائبر کرائم انویسٹی گیشن ایجنسی (این سی سی آئی اے) نے کراچی میں ایک کروڑ روپے کے مبینہ آن لائن جوئے اور منی لانڈرنگ نیٹ ورک کا پردہ فاش کرتے ہوئے پانچ ملزمان کو گرفتار کر لیا ہے۔
 
 First reported by Dawn.
 
-#DawnCartoon #EditorialCartoon #Pakistan
+#NCCIA #Karachi #MoneyLaundering #CyberCrime #Gambling
 ```
 
-### KP government plans electric bus service across 14 cities  [NORMAL]
-- Poster: خیبر پختونخوا کے 14 شہروں میں الیکٹرک بس سروس شروع کرنے کا فیصلہ / Electric bus service planned for 14 KP cities | category other
-- Alternative headline: Govt plans electric bus service in 14 cities
+### Trump Ousts US Cyber Director After Tech Outages Spark Criticism  [NORMAL]
+- Poster: ٹیکنالوجی خرابیوں پر تنقید: ٹرمپ نے سائبر ڈائریکٹر کو ہٹا دیا / Trump Ousts Cyber Director After Tech Outages | category us_politics
+- Alternative headline: Trump replaces US cyber security director following major tech outages
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWpPUGFWSmhzNERhbWRVWWRyd1phQmE2UE9NNmlCV0czS3dMUk55U25UVTI0M3dhMjdsZ2lrSE00aEtodmJNdnQwYXlZUXBOSDZKdjctNHdaLTBnSGhnZDd2aWI5bjUzRVpJeW1UTnE4Vk9jM1lqYUZISDBBZ3NqTE1yRDA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWpPUGFWSmhzNERhbWRVWWRyd1phQmE2UE9NNmlCV0czS3dMUk55U25UVTI0M3dhMjdsZ2lrSE00aEtodmJNdnQwYXlZUXBOSDZKdjctNHdaLTBnSGhnZDd2aWI5bjUzRVpJeW1UTnE4Vk9jM1lqYUZISDBBZ3NqTE1yRDA?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan, ProPakistani
-- Keywords: electric bus service, KP government, public transport, Dawn, 14 cities | hashtags: #ElectricBus #KPK #PublicTransport #Pakistan
-- Scheduled: Fri 20 Nov, 01:18 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimwFBVV95cUxPZE5KNFl2TGhoSXVBenhHaXh1ZWw4X2plbF9mVDZ0SjhKY0lwdjdjS2NBSjZjTEhHZ3kwMWNRWlkyZDJRdFM0eV8yQzQ3bW13UzJGMHg3RjBUa0lHejdYN25Ccm1tQUR3cjNNMUF1S3RIWXl1LXNHMWt6NkV1eTZsOV9fYjdURWF1QTJNSERnX0dJYkVLcDk3bklBYw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMimwFBVV95cUxPZE5KNFl2TGhoSXVBenhHaXh1ZWw4X2plbF9mVDZ0SjhKY0lwdjdjS2NBSjZjTEhHZ3kwMWNRWlkyZDJRdFM0eV8yQzQ3bW13UzJGMHg3RjBUa0lHejdYN25Ccm1tQUR3cjNNMUF1S3RIWXl1LXNHMWt6NkV1eTZsOV9fYjdURWF1QTJNSERnX0dJYkVLcDk3bklBYw?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Dawn Latest, samaa tv
+- Keywords: Trump cyber director, US tech outages, cyber security, Donald Trump, US government tech, cyber director ousted | hashtags: #Trump #CyberSecurity #USPolitics #TechOutage #BreakingNews
+- Scheduled: Fri 20 Nov, 02:20 PM PKT
 - Caption:
 ```
-The Khyber Pakhtunkhwa government has announced plans to introduce an electric bus service across 14 cities in the province.
+US President Trump has removed the country's cyber security director following a wave of technical outages that sparked widespread criticism.
 
-The government has formulated plans to launch an electric bus service in 14 cities of Khyber Pakhtunkhwa to improve public transport and reduce environmental pollution.
+US President Donald Trump has ousted the country's cyber security director following a wave of technical outages that affected government systems and drew heavy criticism.
 
-حکومت نے خیبر پختونخوا کے 14 شہروں میں پبلک ٹرانسپورٹ کے نظام کو بہتر بنانے اور ماحول دوست بنانے کے لیے الیکٹرک بس سروس شروع کرنے کا منصوبہ بنایا ہے۔
+امریکی صدر ڈونلڈ ٹرمپ نے تکنیکی خرابیوں اور شدید تنقید کے بعد ملک کے سائبر سیکیورٹی ڈائریکٹر کو عہدے سے ہٹا دیا ہے۔
 
 First reported by Dawn.
 
-#ElectricBus #KPK #PublicTransport #Pakistan
+#Trump #CyberSecurity #USPolitics #TechOutage #BreakingNews
 ```
 
-### Pakistan's large-scale manufacturing grows 2.07% in three months  [NORMAL]
-- Poster: پاکستان کی بڑی صنعتوں کی پیداوار میں تین ماہ کے دوران 2.07 فیصد اضافہ / Pakistan's large-scale manufacturing grows 2.07% in 3 months | category economy
-- Alternative headline: Large-scale production rises by 2.07% in first quarter
+### Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case  [NORMAL]
+- Poster: اقرار الحسن این سی سی آئی اے کیس میں نامزد، جرم مسترد / Iqrar-ul-Hassan Indicted in NCCIA Case | category courts
+- Alternative headline: Iqrar-ul-Hassan indicted in NCCIA case, pleads not guilty
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0QzU1lUYkgyRC13M19BNVhuc2szaGlIRi13MG9UZkRzYlBXdTVySFVvVFoxcTBPc3hpNW12c2NHUjNpOTFObWpObkJKWUZ1RVE4anpkb0tlV21TRlE5bV80QTNoYThQT0ludERvM2Nsd2RCY1dGR0NBa3lRc0JwclNCclFBVHgyZ3lrdVIxbmJZQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0QzU1lUYkgyRC13M19BNVhuc2szaGlIRi13MG9UZkRzYlBXdTVySFVvVFoxcTBPc3hpNW12c2NHUjNpOTFObWpObkJKWUZ1RVE4anpkb0tlV21TRlE5bV80QTNoYThQT0ludERvM2Nsd2RCY1dGR0NBa3lRc0JwclNCclFBVHgyZ3lrdVIxbmJZQQ?oc=5
-- Supporting coverage: Profit by Pakistan Today, samaa tv
-- Keywords: large-scale manufacturing, Pakistan economy, LSM growth, industrial production, Samaa TV | hashtags: #Economy #PakistanEconomy #LSM #Business
-- Scheduled: Fri 20 Nov, 01:28 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/iqrar-ul-hassan-indicted-in-nccia-case-pleads-not-guilty | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/iqrar-ul-hassan-indicted-in-nccia-case-pleads-not-guilty
+- Supporting coverage: ARY News, ARYnews.tv
+- Keywords: Iqrar-ul-Hassan indicted, NCCIA case, Awami Raj Party, Karachi court, cyber crime case, Iqrar-ul-Hassan court | hashtags: #IqrarUlHassan #NCCIA #KarachiCourt #PakistanNews #Legal
+- Scheduled: Fri 20 Nov, 02:30 PM PKT
 - Caption:
 ```
-Pakistan's large-scale manufacturing sector registered a growth of 2.07 percent during the first three months.
+A Karachi court has formally indicted Awami Raj Party chief Iqrar-ul-Hassan in an NCCIA case, with the politician pleading not guilty.
 
-Pakistan's large-scale manufacturing (LSM) sector witnessed a growth of 2.07% during the first three months, reflecting signs of industrial recovery led by key sectors.
+A Judicial Magistrate in Karachi has indicted Awami Raj Party chief Iqrar-ul-Hassan in a case registered by the NCCIA. The accused pleaded not guilty, and the court summoned witnesses for the next hearing on December 9.
 
-پاکستان میں بڑی صنعتوں کی پیداوار (LSM) میں تین ماہ کے دوران 2.07 فیصد اضافہ ریکارڈ کیا گیا ہے، جو معاشی بہتری کی علامت ہے۔
+کراچی کی ایک جوڈیشل مجسٹ্রেট عدالت نے این سی سی آئی اے کے مقدمے میں عوامی راج پارٹی کے سربراہ اقرار الحسن پر فرد جرم عائد کر دی ہے۔ انہوں نے صحت جرم سے انکار کر دیا ہے اور عدالت نے سماعت 9 دسمبر تک ملتوی کر دی ہے۔
 
-First reported by Samaa TV.
+First reported by ARY News.
 
-#Economy #PakistanEconomy #LSM #Business
+#IqrarUlHassan #NCCIA #KarachiCourt #PakistanNews #Legal
 ```
 
-- Indian outlets blocked this run: 5 items
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
-- [needs_review] normal | Yemeni army reports 661 attacks on Houthis as group advances towards A | Tue 17 Nov, 07:11 AM PKT
-- [needs_review] normal | New Zealand tricks and annual leave - the lengths fans are going to fo | Tue 17 Nov, 07:21 AM PKT
-- [needs_review] normal | Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | Tue 17 Nov, 07:31 AM PKT
-- [needs_review] normal | Ukraine holds peace talks with US, Europe as conflict escalates | Tue 17 Nov, 07:41 AM PKT
 - [needs_review] normal | Irish court jails man for life over Dublin knife attack that sparked r | Tue 17 Nov, 08:20 AM PKT
 - [needs_review] normal | UK seeks closer ties with EU after Brexit fail | Tue 17 Nov, 08:30 AM PKT
 - [needs_review] normal | Ethiopia Moyale clashes disrupt livelihoods as territorial dispute dee | Tue 17 Nov, 08:40 AM PKT
@@ -155,10 +151,8 @@ First reported by Samaa TV.
 - [needs_review] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
 - [needs_review] normal | Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second | Tue 17 Nov, 01:00 PM PKT
 - [needs_review] normal | Pakistan condemns Israeli attacks in Syria, calls for withdrawal from  | Tue 17 Nov, 01:10 PM PKT
-- [published] normal | Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | Tue 17 Nov, 01:55 PM PKT
 - [needs_review] normal | Leonid meteor shower 2026: When and where to see it from where you liv | Tue 17 Nov, 02:05 PM PKT
 - [needs_review] normal | Oil slips as recovering Mideast exports blunt Gulf tensions | Tue 17 Nov, 02:15 PM PKT
-- [published] normal | Pakistan fast bowlers dominate as Sri Lanka slump in Pindi Test | Tue 17 Nov, 02:25 PM PKT
 - [needs_review] normal | NDMA issues drought high alert for Sindh | Tue 17 Nov, 02:58 PM PKT
 - [needs_review] normal | Gamers in Asia stoked to play 'GTA VI', many on grey market | Tue 17 Nov, 03:08 PM PKT
 - [needs_review] normal | Poll suggests only 31pc of Americans support war on Iran | Tue 17 Nov, 03:18 PM PKT
@@ -346,10 +340,10 @@ First reported by Samaa TV.
 - [needs_review] normal | Cumin-laced fizzy sodas give cola giants a tough fight in India | Fri 20 Nov, 06:31 AM PKT
 - [needs_review] normal | Trump posthumously pardons US baseball legend Pete Rose | Fri 20 Nov, 06:41 AM PKT
 - [published] normal | Houthi Strike Damages Riyadh's Tallest Skyscraper | Fri 20 Nov, 07:26 AM PKT
-- [queued] normal | Africa Climate Funding: Europe Urges Using Existing Pledges | Fri 20 Nov, 07:36 AM PKT
-- [queued] normal | Indonesian Daycare Principal Jailed Over Child Abuse | Fri 20 Nov, 07:46 AM PKT
-- [queued] normal | Meta Rethinks 2030 Climate Goals Amid AI Energy Surge | Fri 20 Nov, 07:56 AM PKT
-- [queued] normal | German Importers Turn Toward Pakistan as Businesses Shift Sourcing Awa | Fri 20 Nov, 08:18 AM PKT
+- [needs_review] normal | Africa Climate Funding: Europe Urges Using Existing Pledges | Fri 20 Nov, 07:36 AM PKT
+- [needs_review] normal | Indonesian Daycare Principal Jailed Over Child Abuse | Fri 20 Nov, 07:46 AM PKT
+- [needs_review] normal | Meta Rethinks 2030 Climate Goals Amid AI Energy Surge | Fri 20 Nov, 07:56 AM PKT
+- [published] normal | German Importers Turn Toward Pakistan as Businesses Shift Sourcing Awa | Fri 20 Nov, 08:18 AM PKT
 - [queued] normal | Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unem | Fri 20 Nov, 08:28 AM PKT
 - [queued] normal | Pakistan and Maldives Move to Establish Joint Trade Group to Boost Com | Fri 20 Nov, 08:38 AM PKT
 - [queued] normal | Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Reh | Fri 20 Nov, 08:48 AM PKT
@@ -365,16 +359,20 @@ First reported by Samaa TV.
 - [queued] normal | Daily Editorial Cartoon for November 20, 2026 | Fri 20 Nov, 01:08 PM PKT
 - [queued] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
 - [queued] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
+- [queued] normal | Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026 | Fri 20 Nov, 02:00 PM PKT
+- [queued] normal | NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Launderi | Fri 20 Nov, 02:10 PM PKT
+- [queued] normal | Trump Ousts US Cyber Director After Tech Outages Spark Criticism | Fri 20 Nov, 02:20 PM PKT
+- [queued] normal | Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case | Fri 20 Nov, 02:30 PM PKT
 
 ## Publishing this run
-- Published 'Houthi Strike Damages Riyadh's Tallest Skyscraper'.
+- Published 'German Importers Turn Toward Pakistan as Businesses Shift Sourcing Away From China'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 12734 | output tokens: 3897
+- Calls: 4 | prompt tokens: 10424 | output tokens: 4649
 - Errors: 3
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 144 column 7 (char 6117)
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 117 column 7 (char 5064)
