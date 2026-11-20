@@ -86,6 +86,22 @@ SOURCES = [
     gnews("Pakistan Supreme Court Islamabad High Court Lahore High Court judges judiciary constitutional rights", "Judiciary and Courts Desk"),
     gnews("Pakistan court order political prisoners detention civil liberties media freedom", "Rights and Accountability Desk"),
     gnews("Pakistan parliament opposition constitutional amendment election commission accountability", "Parliament and Constitution Desk"),
+    # Dedicated political desks: Pakistan's parties, parliament, coalition politics and provincial assemblies.
+    gnews("Pakistan politics PTI PMLN PPP JUI MQM party leadership latest political developments", "Pakistan Parties Desk"),
+    gnews("Pakistan parliament National Assembly Senate political debate legislation opposition government", "Pakistan Parliament Desk"),
+    gnews("Pakistan federal cabinet ministers government policy political controversy opposition", "Pakistan Government Politics Desk"),
+    gnews("Pakistan election commission elections political parties by elections campaign", "Pakistan Elections Desk"),
+    gnews("Pakistan Punjab Sindh Khyber Pakhtunkhwa Balochistan assembly chief minister political developments", "Pakistan Provincial Politics Desk"),
+    # International politics: major governments, elections, parties, legislatures and diplomacy.
+    gnews("world politics governments elections political parties parliament opposition latest", "World Politics Desk"),
+    gnews("Europe elections government coalition parliament opposition politics latest", "Europe Politics Desk"),
+    gnews("United States Congress White House administration elections Democrats Republicans politics", "US Politics Desk"),
+    gnews("United Kingdom Labour Conservatives parliament government opposition politics", "UK Politics Desk"),
+    gnews("Middle East governments elections parliament political parties diplomacy politics", "Middle East Politics Desk"),
+    gnews("South Asia governments elections parliament opposition political parties diplomacy", "South Asia Politics Desk"),
+    gnews("Africa elections governments parliament opposition political developments", "Africa Politics Desk"),
+    gnews("Latin America elections presidents governments parliament opposition politics", "Latin America Politics Desk"),
+
     # Provincial and territory desks: major public-interest developments only after editorial scoring.
     gnews("Azad Jammu Kashmir major government politics court security disaster public policy", "AJK Desk"),
     gnews("Gilgit Baltistan major government politics court security disaster infrastructure", "Gilgit-Baltistan Desk"),
