@@ -90930,7 +90930,618 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eb8144b884822690dfe74bc6",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T15:18:26+00:00",
+      "last_update": "2026-11-20T15:22:30+00:00",
+      "event": "Poland condemns Russian ‘provocation’ after airspace violations",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "airspace",
+        "came",
+        "condemns",
+        "european",
+        "exercise",
+        "incidents",
+        "military",
+        "part",
+        "poland",
+        "post",
+        "provocation",
+        "russian",
+        "taking",
+        "the",
+        "troops",
+        "ukraine",
+        "violations",
+        "war",
+        "were"
+      ],
+      "source_excerpt": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+          "published_at": "2026-11-20T15:18:26+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWMzYzZUYVBYZnJ4RmJxME9pVkU4VGdFUE1DMDBFNm85eWVTZVRkdWY4c3hOSng3aFBsSWVMN3NJSHdoTHhNaTJUeEhIclpTa3BENHdMblJrUDFIMzczeTc1WnhONTVaMHhvcWNNUXA5Mm5KVnVnZ3Z2NlJJOHBISWk4bVQ3RndxS19zMG5rYTd0NU9tUWJzY3ZzZXd0R3NMc0RvYUt30gGrAUFVX3lxTE1CUzVHN2JzdzBqOTNZYzlnV3VTZTVvQVBCZkt1aWh3UGZ2U1FhMlczd3cxTllnM2VwLW9jcmU3NlBCbFJyR0lzUVQyTklRU0xmWUJua2pFb1ZOMEVLcHJuc2ZMS0lxaGl0LVMwblc4RG15TjBBTnB2NEh0OUlaS1FtelhiZFYtX3dGNEdCTk15UXNMUVMwU2xEMndkcndOMTM0ZXBoUmJQZ2lIaw?oc=5",
+          "published_at": "2026-11-20T15:22:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6a827c2d71b86df746f1d2a6",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T15:00:00+00:00",
+      "last_update": "2026-11-20T15:00:00+00:00",
+      "event": "Blood Gold: The Munduruku’s fight for survival in the Brazilian Amazon",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amazon",
+        "and",
+        "blood",
+        "brazilian",
+        "communities",
+        "fault",
+        "fight",
+        "for",
+        "gold",
+        "how",
+        "illegal",
+        "indigenous",
+        "investigates",
+        "lines",
+        "mining",
+        "munduruku",
+        "poisons",
+        "survival",
+        "the",
+        "threatens"
+      ],
+      "source_excerpt": "Fault Lines investigates how illegal gold mining poisons and threatens Indigenous communities in the Brazilian Amazon.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/fault-lines/2026/11/20/blood-gold-the-mundurukus-fight-for-survival-in-the-brazilian-amazon?traffic_source=rss",
+          "published_at": "2026-11-20T15:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/fault-lines/2026/11/20/blood-gold-the-mundurukus-fight-for-survival-in-the-brazilian-amazon?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/fault-lines/2026/11/20/blood-gold-the-mundurukus-fight-for-survival-in-the-brazilian-amazon?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f35773f5deed4c3ae6171e7b",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T14:48:04+00:00",
+      "last_update": "2026-11-20T14:48:04+00:00",
+      "event": "Saudi coalition and Houthis exchange threats to bomb key ports",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activity",
+        "airlines",
+        "airspace",
+        "and",
+        "bomb",
+        "coalition",
+        "coming",
+        "exchange",
+        "have",
+        "hours",
+        "houthis",
+        "key",
+        "military",
+        "ports",
+        "saudi",
+        "the",
+        "threats",
+        "warned",
+        "yemen"
+      ],
+      "source_excerpt": "Yemen's Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
+          "published_at": "2026-11-20T14:48:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "765af5ee16551ead1ecdcb88",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T14:38:25+00:00",
+      "last_update": "2026-11-20T14:38:25+00:00",
+      "event": "Hot potato: Can Japan resist Trump pressure to import food staple?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "but",
+        "can",
+        "draws",
+        "fiercely",
+        "food",
+        "hot",
+        "import",
+        "imports",
+        "its",
+        "japan",
+        "line",
+        "percent",
+        "potato",
+        "potatoes",
+        "pressure",
+        "resist",
+        "staple",
+        "the",
+        "trump"
+      ],
+      "source_excerpt": "Japan imports 60 percent of its food, but it fiercely draws the line at potatoes.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
+          "published_at": "2026-11-20T14:38:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "648a06c0bd19de4698e31746",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T14:34:04+00:00",
+      "last_update": "2026-11-20T14:34:04+00:00",
+      "event": "Outages in US cause worry, despite official attempts to downplay concerns",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "attacks",
+        "attempts",
+        "cause",
+        "concerns",
+        "consumers",
+        "despite",
+        "downplay",
+        "experts",
+        "not",
+        "official",
+        "outages",
+        "say",
+        "seriously",
+        "stock",
+        "supplies",
+        "taking",
+        "the",
+        "threat",
+        "trump",
+        "worry"
+      ],
+      "source_excerpt": "Experts say Trump administration is not taking the threat of AI attacks seriously, as consumers stock up on supplies.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/outages-in-us-cause-worry-despite-official-attempts-to-downplay-concerns?traffic_source=rss",
+          "published_at": "2026-11-20T14:34:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/outages-in-us-cause-worry-despite-official-attempts-to-downplay-concerns?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/outages-in-us-cause-worry-despite-official-attempts-to-downplay-concerns?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9aed6519f2cbe773055095f3",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T15:06:08+00:00",
+      "last_update": "2026-11-20T15:06:08+00:00",
+      "event": "'Isla was let down and hopefully this will save other families'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adopted",
+        "and",
+        "been",
+        "down",
+        "families",
+        "for",
+        "guidelines",
+        "has",
+        "hopefully",
+        "isla",
+        "let",
+        "medics",
+        "name",
+        "national",
+        "other",
+        "patients",
+        "save",
+        "set",
+        "sneddon",
+        "this",
+        "treating",
+        "was",
+        "will",
+        "young"
+      ],
+      "source_excerpt": "Isla Sneddon's name has been adopted in a set of national guidelines for medics treating young patients",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cqg7l03725glo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T15:06:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cqg7l03725glo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cqg7l03725glo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f7425e1728fe62b09e88b397",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T14:43:39+00:00",
+      "last_update": "2026-11-20T14:43:39+00:00",
+      "event": "Thousands join cost of living protests across Europe",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "cost",
+        "education",
+        "europe",
+        "have",
+        "housing",
+        "join",
+        "led",
+        "living",
+        "protests",
+        "response",
+        "rising",
+        "shortages",
+        "student",
+        "swept",
+        "the",
+        "thousands",
+        "underfunded"
+      ],
+      "source_excerpt": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T14:43:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ff5d6cf4faf3fb8d5bba7a08",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T15:40:40+00:00",
+      "last_update": "2026-11-20T15:40:40+00:00",
+      "event": "Could you spot a fake banknote?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "banknote",
+        "banknotes",
+        "could",
+        "during",
+        "fake",
+        "his",
+        "landlord",
+        "opening",
+        "pub",
+        "says",
+        "spot",
+        "took",
+        "weekend",
+        "you"
+      ],
+      "source_excerpt": "A landlord says he took £100 in fake banknotes during his pub's opening weekend.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T15:40:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "59d7035042cf5ba534eafbb6",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T15:08:16+00:00",
+      "last_update": "2026-11-20T15:08:16+00:00",
+      "event": "The secret cyber scramble to protect UK fridge freezers",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "behind",
+        "cyber",
+        "freezers",
+        "fridge",
+        "from",
+        "hackers",
+        "has",
+        "learned",
+        "operation",
+        "place",
+        "protect",
+        "refrigeration",
+        "scenes",
+        "scramble",
+        "secret",
+        "secure",
+        "security",
+        "taken",
+        "tens",
+        "the",
+        "thousands",
+        "units"
+      ],
+      "source_excerpt": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T15:08:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3e6976c8662a69d55a4c1831",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T15:14:01+00:00",
+      "last_update": "2026-11-20T15:14:01+00:00",
+      "event": "What we know about the latest Russian missile strikes on Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "bbc",
+        "know",
+        "latest",
+        "missile",
+        "russian",
+        "strikes",
+        "the",
+        "ukraine",
+        "what"
+      ],
+      "source_excerpt": "What we know about the latest Russian missile strikes on Ukraine BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS0VqN3l1NGtiUnM1SmZ5NjlFX0NXckFLMFlLQm5rYjlucGxlUWxhSHVQRFJ2akJ0SUpyVkQtTjBHb3BrSy1TRTdsM2ZnNXYxaHJvWjVua3Q?oc=5",
+          "published_at": "2026-11-20T15:14:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS0VqN3l1NGtiUnM1SmZ5NjlFX0NXckFLMFlLQm5rYjlucGxlUWxhSHVQRFJ2akJ0SUpyVkQtTjBHb3BrSy1TRTdsM2ZnNXYxaHJvWjVua3Q?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7f0f551c7042ce0b8c09a8bc",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T15:35:13+00:00",
+      "last_update": "2026-11-20T15:35:13+00:00",
+      "event": "Punjab police team comes under fire in Karachi, one killed",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "comes",
+        "fire",
+        "karachi",
+        "killed",
+        "one",
+        "police",
+        "punjab",
+        "team",
+        "under"
+      ],
+      "source_excerpt": "Punjab police team comes under fire in Karachi, one killed",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-police-team-comes-under-fire-in-karachi-one-killed",
+          "published_at": "2026-11-20T15:35:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-police-team-comes-under-fire-in-karachi-one-killed",
+        "publisher_url": "https://arynews.tv/punjab-police-team-comes-under-fire-in-karachi-one-killed",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e79f07fb4aa9621f4e405157",
+      "remembered_at": "2026-11-20T15:41:40.633145+00:00",
+      "event_date": "2026-11-20T14:49:08+00:00",
+      "last_update": "2026-11-20T14:49:08+00:00",
+      "event": "Bilawal helped remove PTI government, now worried about political situation: JI chief",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "bilawal",
+        "chief",
+        "government",
+        "helped",
+        "now",
+        "political",
+        "pti",
+        "remove",
+        "situation",
+        "worried"
+      ],
+      "source_excerpt": "Bilawal helped remove PTI government, now worried about political situation: JI chief",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/bilawal-helped-remove-pti-government-now-worried-about-political-situation-ji-chief",
+          "published_at": "2026-11-20T14:49:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/bilawal-helped-remove-pti-government-now-worried-about-political-situation-ji-chief",
+        "publisher_url": "https://arynews.tv/bilawal-helped-remove-pti-government-now-worried-about-political-situation-ji-chief",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T14:41:36.450015+00:00"
+  "updated_at": "2026-11-20T15:41:40.633145+00:00"
 }

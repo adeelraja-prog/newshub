@@ -1,123 +1,146 @@
-# News Hub report - Fri 20 Nov, 07:41 PM PKT
+# News Hub report - Fri 20 Nov, 08:41 PM PKT
 
 ## Collection
-- New items this run: 49 | items in rolling pool: 731
-- Unique story clusters: 636 (duplicates merged: 95)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 10
-- Items per outlet: ProPakistani 8, Geo News 5, ARY News 5, Al Jazeera 5, Pakistan Today 3, samaa tv 2, The Express Tribune 2, TechJuice 2, The News International 1, Dawn Pakistan 1, Dawn 1, The Guardian 1
+- New items this run: 66 | items in rolling pool: 698
+- Unique story clusters: 618 (duplicates merged: 80)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 9
+- Items per outlet: UrduPoint 10, Geo News 7, Al Jazeera 6, ProPakistani 6, Pakistan Today 5, ARY News 4, BBC Business 3, TechJuice 3, samaa tv 2, The Verge 2, Dawn Latest 1, Dawn 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Naqvi announces all-Pakistan tri-series | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain face France, England take on Norway in Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Arrival of Oruc Reis marks new era of Pak-Turkiye strategic cooperation: Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ringleader pleads guilty to $100 million US jewellery heist | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Türkiye sign mineral, energy cooperation agreements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan Shaheens begin campaign with 61-run win over UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Naqvi announces all-Pakistan tri-series | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain face France, England take on Norway in Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Arrival of Oruc Reis marks new era of Pak-Turkiye strategic cooperation: Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ringleader pleads guilty to $100 million US jewellery heist | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Türkiye sign mineral, energy cooperation agreements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan Shaheens begin campaign with 61-run win over UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Naqvi announces all-Pakistan tri-series | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain face France, England take on Norway in Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Arrival of Oruc Reis marks new era of Pak-Turkiye strategic cooperation: Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ringleader pleads guilty to $100 million US jewellery heist | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Türkiye sign mineral, energy cooperation agreements | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan Shaheens begin campaign with 61-run win over UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 117/120 | empty: 2 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Profit Search | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### PCB Chairman Mohsin Naqvi Announces All-Pakistan Tri-Series for December  [NORMAL]
-- Poster: پی سی بی کا دسمبر میں تمام پاکستانی ٹیموں کی ٹرائی سیریز کا اعلان / PCB Announces All-Pakistan Tri-Series in December | category sports
-- Alternative headline: Pakistan to Host Tri-Series Featuring National Team, Shaheens and U19 in December
+### Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over UAE  [NORMAL]
+- Poster: پاکستان شاہینز نے یو اے ای کو 61 رنز سے شکست دے دی / Pakistan Shaheens beat UAE by 61 runs | category sports
+- Alternative headline: Defending champions Pakistan Shaheens defeat UAE by 61 runs in opening match
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/naqvi-announces-all-pakistan-tri-series | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/naqvi-announces-all-pakistan-tri-series
-- Supporting coverage: ARY News, The Express Tribune
-- Keywords: tri-series, Mohsin Naqvi, PCB, Pakistan Shaheens, Peshawar, cricket | hashtags: #PCB #MohsinNaqvi #PakistanCricket #TriSeries #Peshawar
-- Scheduled: Fri 20 Nov, 07:41 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/pakistan-shaheens-begin-campaign-with-61-run-win-over-uae | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/pakistan-shaheens-begin-campaign-with-61-run-win-over-uae
+- Supporting coverage: ARY News, Dawn
+- Keywords: Pakistan Shaheens, Asia Cup Rising Stars, UAE, Shamyl Hussain, cricket, Ali Raza | hashtags: #PakistanShaheens #AsiaCupRisingStars #PAKvsUAE #Cricket #Sports
+- Scheduled: Fri 20 Nov, 08:41 PM PKT
 - Caption:
 ```
-PCB Chairman Mohsin Naqvi announced an all-Pakistan tri-series featuring the senior team, Shaheens, and U19 to be held in December.
+Defending champions Pakistan Shaheens made a flying start to their ACC Asia Cup Rising Stars 2026 campaign with a comfortable win.
 
-Pakistan Cricket Board Chairman Mohsin Naqvi announced a tri-series involving the national team, Pakistan Shaheens, and the U19 team scheduled for December 2026. Speaking in Islamabad, Naqvi stated that Peshawar is being considered as a potential venue, with official dates to be finalized soon.
+Defending champions Pakistan Shaheens defeated the United Arab Emirates by 61 runs in their opening Group B fixture of the ACC Asia Cup Rising Stars 2026 at the University of Doha for Science and Technology. Shamyl Hussain starred with a brisk 62 off 39 balls, while fast bowler Ali Raza and teammates restricted UAE to 184.
 
-پاکستان کرکٹ بورڈ کے چیئرمین محسن نقوی نے دسمبر 2026 میں قومی ٹیم، پاکستان شاہینز اور انڈر 19 ٹیم پر مشتمل ٹرائی سیریز کا اعلان کر دیا ہے۔ اسلام آباد میں گفتگو کرتے ہوئے انہوں نے بتایا کہ پشاور کو ممکنہ مقام کے طور پر دیکھا جا رہا ہے اور تاریخوں کا حتمی اعلان جلد کیا جائے گا۔
+دفاعی چیمپئن پاکستان شاہینز نے اے سی سی ایشیا کپ رائزنگ سٹارز 2026 کے اپنے پہلے گروپ بی میچ میں متحدہ عرب امارات کو 61 رنز سے شکست دے دی۔ شمیل حسین نے شاندار 62 رنز بنائے، جبکہ فاسٹ بولر علی رضا اور ساتھی بولرز نے یو اے ای کی ٹیم کو 184 رنز پر آؤٹ کر دیا۔
 
 First reported by ARY News
 
-#PCB #MohsinNaqvi #PakistanCricket #TriSeries #Peshawar
+#PakistanShaheens #AsiaCupRisingStars #PAKvsUAE #Cricket #Sports
 ```
 
-### Spain to Face France and England Take on Norway in Nations League Quarters  [NORMAL]
-- Poster: یوفا نیشنز لیگ کوارٹر فائنل: اسپین کا مقابلہ فرانس اور انگلینڈ کا ناروے سے ہوگا / Nations League Quarters: Spain Face France, England Play Norway | category sports
-- Alternative headline: UEFA Nations League Draw: Spain Drawn Against France, England Play Norway
+### Ringleader pleads guilty to massive $100 million US jewellery heist  [NORMAL]
+- Poster: ایک کروڑ ڈالر کی امریکی جیولری ڈکیتی کا ماسٹر مائنڈ اعترافِ جرم / Ringleader pleads guilty in $100m US jewellery heist | category crime
+- Alternative headline: US jewellery heist ringleader enters guilty plea over $100 million theft
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/spain-face-france-england-take-on-norway-in-nations-league-quarters | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/spain-face-france-england-take-on-norway-in-nations-league-quarters
-- Supporting coverage: ARY News, Al Jazeera
-- Keywords: Nations League, Spain, France, England, Norway, quarter-finals | hashtags: #NationsLeague #SpainVsFrance #EnglandVsNorway #Football #UEFA
-- Scheduled: Fri 20 Nov, 07:51 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3VMNUVpX1ljV2s1TS1uV0hpQnY1SVVxNlBWM2dVblJ5NEdXZmxsT3p5VFdYeHZGaG56a3d3Y2xSY0s2ai1HQWdQYzl5MEdaNk5NR0hzdDRZTXpkc3djSXZTbXY2bV9BOUR1R3YwTnpHVVdJdzlWZWVmY21DUHRBZ1NSTU9PSEk0bnB2d3oxUXVVbzEyay0w?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3VMNUVpX1ljV2s1TS1uV0hpQnY1SVVxNlBWM2dVblJ5NEdXZmxsT3p5VFdYeHZGaG56a3d3Y2xSY0s2ai1HQWdQYzl5MEdaNk5NR0hzdDRZTXpkc3djSXZTbXY2bV9BOUR1R3YwTnpHVVdJdzlWZWVmY21DUHRBZ1NSTU9PSEk0bnB2d3oxUXVVbzEyay0w?oc=5
+- Supporting coverage: Dawn, Dawn Latest, The Express Tribune
+- Keywords: jewellery heist, ringleader, guilty plea, US crime, theft, Dawn | hashtags: #JewelleryHeist #CrimeNews #USNews #Court #Dawn
+- Scheduled: Fri 20 Nov, 08:51 PM PKT
 - Caption:
 ```
-World champions Spain will face France while England take on Norway in the UEFA Nations League quarter-finals following Friday's draw.
+The main accused in a staggering $100 million jewellery heist in the United States has officially entered a guilty plea.
 
-World champions Spain were drawn against France and England will play Norway in the quarter-finals of the UEFA Nations League following the draw held on Friday. The two-legged ties will be played in late March. Other quarter-final matches pit Portugal against the Netherlands and Belgium against Germany.
+The ringleader behind a massive $100 million jewellery heist in the United States has formally pleaded guilty to the charges, according to reports from Dawn.
 
-جمعہ کو ہونے والی قرعہ اندازی کے بعد یوفا نیشنز لیگ کے کوارٹر فائنلز میں عالمی چیمپئن اسپین کا مقابلہ فرانس سے ہوگا جبکہ انگلینڈ کی ٹیم ناروے کے خلاف مدمقابل آئے گی۔ یہ میچز مارچ کے آخر میں کھیلے جائیں گے۔ دیگر مقابلوں میں پرتگال کا سامنا نیدر لینڈز اور بیلجیم کا جرمنی سے ہوگا۔
+ڈان کی رپورٹس کے مطابق، امریکہ میں ایک کروڑ ڈالر کی بڑی جیولری ڈکیتی کے ماسٹر مائنڈ نے باضابطہ طور پر عدالت میں اعترافِ جرم کر لیا ہے۔
 
-First reported by ARY News; also reported by Al Jazeera
+First reported by Dawn
 
-#NationsLeague #SpainVsFrance #EnglandVsNorway #Football #UEFA
+#JewelleryHeist #CrimeNews #USNews #Court #Dawn
 ```
 
-### Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperation, Says Dar  [NORMAL]
-- Poster: اوروچ رئیس کی آمد پاک ترک اسٹریٹیجک تعاون کے نئے دور کا آغاز ہے، اسحاق ڈار / Arrival of Oruc Reis Marks New Era of Pak-Turkiye Ties: Dar | category other
-- Alternative headline: Oruc Reis Vessel Arrival Ushers in New Energy Partnership with Turkiye: Ishaq Dar
+### Pakistan and Türkiye sign new mineral and energy cooperation agreements  [NORMAL]
+- Poster: پاکستان اور ترکی کے درمیان معدنیات اور توانائی کے شعبے میں معاہد طے / Pakistan, Türkiye sign mineral and energy pacts | category other
+- Alternative headline: Energy and mineral pacts signed between Pakistan and Türkiye
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/arrival-of-oruc-reis-marks-new-era-of-pak-turkiye-strategic-cooperation-dar | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/arrival-of-oruc-reis-marks-new-era-of-pak-turkiye-strategic-cooperation-dar
-- Supporting coverage: ARY News, Geo News
-- Keywords: Oruc Reis, Ishaq Dar, Pak-Turkiye cooperation, energy sector, Karachi, scientific research | hashtags: #Pakistan #Turkiye #IshaqDar #OrucReis #StrategicCooperation
-- Scheduled: Fri 20 Nov, 08:01 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzdyN2tncnEyNEdtYUV6bmhrUmtjcDNGSmI0cW9scktEQTVhZDJucE5NR29sem0zNlZlYjNma2huS3Nra2dTemVtcTNvRDE2VHJaSWo3VExBQS1vZERHOHBza3lRQXlfZjV5NXNvUG4yd0lYTVRGOGg1NVE5UFhBS2dJc0djYjdDZ2pMc2dMQlVLOWl0b0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzdyN2tncnEyNEdtYUV6bmhrUmtjcDNGSmI0cW9scktEQTVhZDJucE5NR29sem0zNlZlYjNma2huS3Nra2dTemVtcTNvRDE2VHJaSWo3VExBQS1vZERHOHBza3lRQXlfZjV5NXNvUG4yd0lYTVRGOGg1NVE5UFhBS2dJc0djYjdDZ2pMc2dMQlVLOWl0b0E?oc=5
+- Supporting coverage: samaa tv, Pakistan Today
+- Keywords: Pakistan Türkiye agreements, mineral cooperation, energy pact, bilateral ties, Pakistan news | hashtags: #Pakistan #Turkiye #Energy #Minerals #BilateralRelations
+- Scheduled: Fri 20 Nov, 09:01 PM PKT
 - Caption:
 ```
-Deputy Prime Minister Ishaq Dar hailed the arrival of Turkish research vessel Oruc Reis as a milestone in bilateral energy and scientific cooperation.
+Pakistan and Türkiye have further strengthened bilateral ties by signing crucial cooperation agreements in the mineral and energy sectors.
 
-Deputy Prime Minister and Foreign Minister Ishaq Dar stated that the arrival of the Turkish seismic research vessel Oruc Reis marks a new chapter in scientific research and strategic cooperation between Pakistan and Turkiye. Speaking at a welcome ceremony in Karachi, Dar emphasized both nations' commitment to building a long-term energy partnership.
+Pakistan and Türkiye have signed important cooperation agreements covering the mineral and energy sectors, aiming to enhance bilateral collaboration and economic ties between the two nations, as reported by Samaa TV.
 
-نائب وزیر اعظم اور وزیر خارجہ اسحاق ڈار نے کہا ہے کہ ترک بحری جہاز اوروچ رئیس کی آمد پاکستان اور ترکیہ کے درمیان سائنسی تحقیق اور اسٹریٹیجک تعاون کے نئے باب کا آغاز ہے۔ کراچی میں استقبالیہ تقریب سے خطاب کرتے ہوئے انہوں نے توانائی کے شعبے میں طویل مدتی شراکت داری کے عزم کا اعادہ کیا۔
+سما ٹی وی کی رپورٹ کے مطابق پاکستان اور ترکی نے دونوں ممالک کے درمیان دوطرفہ تعاون اور اقتصادی تعلقات کو فروغ دینے کے لیے معدنیات اور توانائی کے شعبوں میں اہم تعاون کے معاہدوں پر دستخط کیے ہیں۔
 
-First reported by ARY News; also reported by Geo News
+First reported by samaa tv
 
-#Pakistan #Turkiye #IshaqDar #OrucReis #StrategicCooperation
+#Pakistan #Turkiye #Energy #Minerals #BilateralRelations
 ```
 
-- Indian outlets blocked this run: 3 items
+### Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi sovereignty  [NORMAL]
+- Poster: پاکستان کی ریاض پر حوثی حملوں کی شدید مذمت، سعودی سالمیت کی حمایت / Pakistan condemns Houthi attacks on Riyadh | category war
+- Alternative headline: Islamabad condemns Houthi strikes on Riyadh, reaffirms support for Saudi Arabia
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News Pakistan https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFRQ3lKaDRuZEduakZMS3A1aFhSbGk2MHBHOUFld1BoQWlaa1h2ME42Qko5ZEdia29XYkFoS191WVhrazB0UlAwOGR3bGxOWGQ0YVRFWndmcjA2ZWpjOWx6eUgxREhlUmNtY280QjkwaUJLWGxQN0hKMElxNWlHc2lhSmJJQmdzZVhWMWJpV3pub3pVaVgyQi13NnhnSWhDd1NN?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News Pakistan https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFRQ3lKaDRuZEduakZMS3A1aFhSbGk2MHBHOUFld1BoQWlaa1h2ME42Qko5ZEdia29XYkFoS191WVhrazB0UlAwOGR3bGxOWGQ0YVRFWndmcjA2ZWpjOWx6eUgxREhlUmNtY280QjkwaUJLWGxQN0hKMElxNWlHc2lhSmJJQmdzZVhWMWJpV3pub3pVaVgyQi13NnhnSWhDd1NN?oc=5
+- Supporting coverage: ARY News Pakistan, ARY News
+- Keywords: Pakistan condemns Houthi attacks, Riyadh, Saudi sovereignty, Houthi attacks, foreign policy, ARY News | hashtags: #Pakistan #SaudiArabia #Riyadh #HouthiAttacks #ForeignPolicy
+- Scheduled: Fri 20 Nov, 09:11 PM PKT
+- Caption:
+```
+Pakistan has strongly condemned the recent Houthi missile and drone attacks targeting Riyadh, reaffirming its unwavering support for Saudi sovereignty.
+
+Pakistan has strongly denounced the Houthi attacks directed at Riyadh and reiterated its firm backing for the security and territorial integrity of Saudi Arabia, according to reports by ARY News.
+
+اے آر وائی نیوز کی رپورٹ کے مطابق پاکستان نے ریاض کو نشانہ بنانے والے حوثی حملوں کی شدید مذمت کی ہے اور سعودی عرب کی سلامتی اور علاقائی سالمیت کے لیے اپنی غیر متزلزل حمایت کا اعادہ کیا ہے۔
+
+First reported by ARY News Pakistan
+
+#Pakistan #SaudiArabia #Riyadh #HouthiAttacks #ForeignPolicy
+```
+
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
-- [needs_review] normal | Leonid meteor shower 2026: When and where to see it from where you liv | Tue 17 Nov, 02:05 PM PKT
-- [needs_review] normal | Oil slips as recovering Mideast exports blunt Gulf tensions | Tue 17 Nov, 02:15 PM PKT
 - [needs_review] normal | NDMA issues drought high alert for Sindh | Tue 17 Nov, 02:58 PM PKT
 - [needs_review] normal | Gamers in Asia stoked to play 'GTA VI', many on grey market | Tue 17 Nov, 03:08 PM PKT
 - [needs_review] normal | Poll suggests only 31pc of Americans support war on Iran | Tue 17 Nov, 03:18 PM PKT
@@ -325,10 +348,10 @@ First reported by ARY News; also reported by Geo News
 - [needs_review] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
 - [needs_review] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
 - [published] normal | Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026 | Fri 20 Nov, 02:00 PM PKT
-- [queued] normal | NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Launderi | Fri 20 Nov, 02:10 PM PKT
-- [queued] normal | Trump Ousts US Cyber Director After Tech Outages Spark Criticism | Fri 20 Nov, 02:20 PM PKT
-- [queued] normal | Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case | Fri 20 Nov, 02:30 PM PKT
-- [queued] normal | Karachi Man Inspired by Batman Arrested Over Alleged US Data Sale | Fri 20 Nov, 03:10 PM PKT
+- [needs_review] normal | NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Launderi | Fri 20 Nov, 02:10 PM PKT
+- [needs_review] normal | Trump Ousts US Cyber Director After Tech Outages Spark Criticism | Fri 20 Nov, 02:20 PM PKT
+- [needs_review] normal | Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case | Fri 20 Nov, 02:30 PM PKT
+- [published] normal | Karachi Man Inspired by Batman Arrested Over Alleged US Data Sale | Fri 20 Nov, 03:10 PM PKT
 - [queued] normal | Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb | Fri 20 Nov, 03:20 PM PKT
 - [queued] normal | El Salvador’s President Bukele Seeks Third Term After Constitutional C | Fri 20 Nov, 03:30 PM PKT
 - [queued] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
@@ -345,12 +368,16 @@ First reported by ARY News; also reported by Geo News
 - [queued] normal | PCB Chairman Mohsin Naqvi Announces All-Pakistan Tri-Series for Decemb | Fri 20 Nov, 07:41 PM PKT
 - [queued] normal | Spain to Face France and England Take on Norway in Nations League Quar | Fri 20 Nov, 07:51 PM PKT
 - [queued] normal | Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperatio | Fri 20 Nov, 08:01 PM PKT
+- [queued] normal | Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over  | Fri 20 Nov, 08:41 PM PKT
+- [queued] normal | Ringleader pleads guilty to massive $100 million US jewellery heist | Fri 20 Nov, 08:51 PM PKT
+- [queued] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
+- [queued] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
 
 ## Publishing this run
-- Published 'Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026'.
+- Published 'Karachi Man Inspired by Batman Arrested Over Alleged US Data Sale'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4709 | output tokens: 2653
+- Calls: 3 | prompt tokens: 6372 | output tokens: 2388
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
