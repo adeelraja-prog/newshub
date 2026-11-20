@@ -27,6 +27,7 @@ import news_memory as nm
 import controversy as controversy_desk
 import editorial_quality as eq
 import editorial_policy as ep
+import youtube_promo as yt
 from sources import SOURCES, TRUSTED_PUBLISHERS
 
 try:
@@ -84,6 +85,7 @@ FILL_COMPOSITE = fnum("FILL_COMPOSITE", 52)       # verified current stories can
 BREAK_URGENCY, BREAK_CONFIDENCE = fnum("BREAK_URGENCY", 90), fnum("BREAK_CONFIDENCE", 80)
 ANALYSE_TOP = fnum("ANALYSE_TOP", 30)
 POOL_HOURS = fnum("POOL_HOURS", 8)
+YT_MAX_AGE_H = fnum("YT_MAX_AGE_HOURS", 24)
 
 USAGE = {"calls": 0, "prompt_tokens": 0, "output_tokens": 0, "errors": [], "providers_used": None, "ai_unavailable": False}
 
@@ -888,6 +890,39 @@ def strip_excluded_international_members(cluster):
     return True
 
 
+
+POLITICAL_TOPIC_RE = re.compile(
+    r"\\b(politic|political|election|electoral|parliament|senate|assembly|cabinet|"
+    r"government|governance|opposition|ruling party|political party|prime minister|"
+    r"president|minister|pti|pml[- ]?n|ppp|jui|mqm|imran khan|nawaz sharif|"
+    r"bilawal|fazlur rehman|constitutional amendment|coalition|vote of no confidence|"
+    r"white house|congress|democrat|republican|labour party|conservative party|"
+    r"referendum|campaign|ballot)\\b", re.I
+)
+
+
+def is_political_story(story):
+    category = str(story.get("category") or "").lower()
+    if category in {"politics", "us_politics"}:
+        return True
+    text = " ".join(str(story.get(k) or "") for k in ("event", "title", "excerpt"))
+    return bool(POLITICAL_TOPIC_RE.search(text))
+
+
+def infer_political_category(text):
+    if not POLITICAL_TOPIC_RE.search(text or ""):
+        return "other"
+    if re.search(r"\\b(united states|u\\.?s\\.?|white house|congress|senate|democrat|republican|"
+                 r"presidential election|donald trump|us election)\\b", text or "", re.I):
+        return "us_politics"
+    return "politics"
+
+
+def reserve_political_story(direct_normal, ordinary_regular):
+    """Reserve one eligible politics story when a normal queue slot is available."""
+    return next((story for story in direct_normal + ordinary_regular if is_political_story(story)), None)
+
+
 def make_direct_publisher_story(cluster):
     """Build a publishable story directly from a named publisher's published headline."""
     # Attribute the poster to the approved publisher even when another cluster member
@@ -913,7 +948,7 @@ def make_direct_publisher_story(cluster):
     ))
     source_type = "wire" if source_name.lower() in ("reuters", "associated press", "ap") else "published_report"
     story = {
-        "id": cluster["id"], "cluster": cluster, "event": headline, "category": "other",
+        "id": cluster["id"], "cluster": cluster, "event": headline, "category": infer_political_category(headline + " " + excerpt),
         # This lane deliberately has no model-generated assessment scores.
         # Zero means "not assessed", not a low score or fabricated confidence.
         "importance": 0, "pakistan_relevance": 0,
@@ -1987,11 +2022,14 @@ def main():
             row["not_before"] = iso(t0)
             row["status"] = "needs_review"
             row["review_reason"] = "Invalid scheduled timestamp; manual review required"
-        if not row.get("headline") or not row.get("caption") or not isinstance(row.get("poster"), dict):
+        youtube_item = row.get("type") == "youtube"
+        if (not row.get("headline") or not row.get("caption") or
+                (not youtube_item and not isinstance(row.get("poster"), dict)) or
+                (youtube_item and not row.get("link"))):
             row["status"] = "needs_review"
             row["review_reason"] = "Incomplete queue record; manual review required"
             row.setdefault("needs_review_at", iso(t0))
-        elif row.get("status") == "queued" and not has_urdu_script((row.get("poster") or {}).get("ur", "")):
+        elif not youtube_item and row.get("status") == "queued" and not has_urdu_script((row.get("poster") or {}).get("ur", "")):
             row["status"] = "needs_review"
             row["needs_review_at"] = iso(t0)
             row["review_reason"] = "Legacy English-only poster quarantined: Urdu-script headline is missing; regenerate before publishing."
@@ -2007,12 +2045,8 @@ def main():
             row.setdefault("needs_review_at", iso(t0))
         valid_items.append(row)
     queue["items"] = valid_items
-    # Retire legacy video-promo and engagement items from persistent bot-data.
-    before = len(queue["items"])
-    queue["items"] = [it for it in queue["items"] if it.get("type") not in ("youtube", "engage")]
-    retired = before - len(queue["items"])
-    if retired:
-        print(f"[queue] retired {retired} legacy non-poster items; Facebook news posters only")
+    # Restore new-video promotions; engagement polls remain retired.
+    queue["items"] = [it for it in queue["items"] if it.get("type") != "engage"]
     housekeeping(queue, t0)
 
     # rolling pool of recent items so clusters keep their full coverage between runs
@@ -2209,9 +2243,15 @@ def main():
             ordinary_regular = [s for s in ordinary_ready if s.get("id") not in
                                 {x.get("id") for x in ordinary_breaking}]
             remaining = max(0, selection_limit - len(chosen))
-            # Trusted normal stories lead the queue. When at least two slots are
-            # available and ordinary candidates have passed AI review, reserve one
-            # slot for them so the broader desk is not permanently starved.
+            # Reserve one normal slot for Pakistani or international political coverage
+            # whenever an eligible candidate exists; this prevents other desks crowding it out.
+            political_pick = reserve_political_story(direct_normal, ordinary_regular) if remaining else None
+            if political_pick:
+                chosen.append(political_pick)
+                direct_normal = [x for x in direct_normal if x.get("id") != political_pick.get("id")]
+                ordinary_regular = [x for x in ordinary_regular if x.get("id") != political_pick.get("id")]
+                print(f"[selection] reserved political coverage slot: {political_pick.get('event','')[:90]}")
+            remaining = max(0, selection_limit - len(chosen))
             direct_budget = direct_normal_selection_budget(remaining, direct_normal, ordinary_regular)
             chosen.extend(direct_normal[:direct_budget])
             remaining = max(0, selection_limit - len(chosen))
