@@ -92567,7 +92567,406 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef537413484f38299d356781",
+      "remembered_at": "2026-11-20T18:42:36.330531+00:00",
+      "event_date": "2026-11-20T17:45:42+00:00",
+      "last_update": "2026-11-20T18:21:52+00:00",
+      "event": "Petrol price reduced by Re1 per litre; diesel increased by Rs2 per litre",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "diesel",
+        "increased",
+        "litre",
+        "per",
+        "petrol",
+        "price",
+        "re1",
+        "reduced",
+        "rs2"
+      ],
+      "source_excerpt": "& · ● ●",
+      "sources": [
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0c1RHVRQS1zN1ZFSVJyeEllU3g5cUQ1LVpnaXZUWlRZR0QwNEpuaWY5Z1RQSHU0T0Rqd19rMlo2LXBwcUlxVUpLODd3ZGNGTEpoRFJ2eWNvRzZHZlVoUy04cHNaR0hMVnFLWVRRejdFbTlJZV8wMFNSQ0lBSG1RZmphc1FqTjFnRDlR0gFTQVVfeXFMT1o2Y2FQaVdMeDlEX0t4Vi1vLU9HQkJxVGJvS1ZMX3lSNF9TTmEwYUhJdzQxMEpwODg1dXI2TGRaVkRSQWZHdHVHZGlQSGRNWkRMRGM?oc=5",
+          "published_at": "2026-11-20T17:45:42+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045935/petrol-price-reduced-by-re1-per-litre-diesel-increased-by-rs2-per-litre",
+          "published_at": "2026-11-20T17:50:20+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0o2SVNkYUgxcG41U19kVW1KT1A0UDBCNzVYcWJUdWJkVlhSVVQyODZlWXZMM0ctZFhyNVVLNW1TdWhvMzhvNERXWE9UMDFTTVlJVHA4elZlazdLWWhRd0hHSW5WYllFVk8xRERqTExybGJ4SENSVXV1RkFsaUw1aUtIY2F2dmRib2txeTlrdE1nOTJmakJBblpleFRtV2VvQmh3b0t3?oc=5",
+          "published_at": "2026-11-20T17:50:28+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONXBhQTlOUkRkeElRdGt1RUFlQXo3N0l5M0FzVWZHcUhKbnMwaWVGQjlVWnhOVy1rSDBHb3I4VWFBZVlKVjhpRk8tLXV3eUdPcTFXeVZpekFIVU1YcTREa0JObm1Ednk1d1J3MzdMSDZST3ZieWRScUlCUG1nbjUtSTUyZTUtMjVOV2hIRkxzMlhFNFdMcVRiWVJSUVk0RFNibGpTZkFjTTNBcGxGYUFKQTVETlV2QQ?oc=5",
+          "published_at": "2026-11-20T18:03:18+00:00"
+        },
+        {
+          "name": "The Nation (Pakistan )",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlpMeFQyQkxULXpPOXF2WjBaRGlVdV9RaERYSk81YnhjcjNSaURHNDRRTzd2MGg3VldhTkt5NkVnYWxqMlhpRGoyRm1BanRuV1NqN0lvbG93dVRHeEtZUVpFRVBFbDN2elc4SHhRbTh4cFFsU0d2dXFnZDdldWstZC13a3hCc01HWXdQVXluanlZV0llWEJPSVVFN2R3ZHNLZGFRbkVCRQ?oc=5",
+          "published_at": "2026-11-20T18:11:43+00:00"
+        },
+        {
+          "name": "Bol News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNODltQjg1djhOYWk3a044TXRONUlUMUthMFpnM24yVXpXR0R3VURuT3Nna3V1N0Q2c2w1VUVTY21CNjJCZE9qVXNISUp0RFcwWXRBYjFGV0d5QUZ2d0RDSXpBY1RUY1BYRUs4OXo2M3h3cGpjaEYyelBtd0o4VVFmek1SX2U1cWw4aWZsemxkckIxTUVJWjIxTVFHX1RVQQ?oc=5",
+          "published_at": "2026-11-20T18:21:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045935/petrol-price-reduced-by-re1-per-litre-diesel-increased-by-rs2-per-litre",
+        "publisher_url": "https://www.dawn.com/news/2045935/petrol-price-reduced-by-re1-per-litre-diesel-increased-by-rs2-per-litre",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6095073a364655ee718175de",
+      "remembered_at": "2026-11-20T18:42:36.330531+00:00",
+      "event_date": "2026-11-20T13:40:29+00:00",
+      "last_update": "2026-11-20T17:54:55+00:00",
+      "event": "New York City to close Rikers Island by 2032 under Mamdani's new proposal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2032",
+        "city",
+        "close",
+        "international",
+        "island",
+        "mamdani",
+        "new",
+        "news",
+        "proposal",
+        "rikers",
+        "the",
+        "under",
+        "york"
+      ],
+      "source_excerpt": "New York City to close Rikers Island by 2032 under Mamdani's new proposal The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlV6OHhsamhScDBGVk5rSTNabVhqNS10YnVneGkxUlMxN2ZKMXBORlFaS2tPaXhrQUtMSGpjX1ZwRm5XaTJ3VHBwTjJxMTQ1NjdpUm0tRW9heGF5bGtZcndxb3Z1NE9hY2ZMYnlXTXBjWWpkVGJ2ZDc4Q09raVFZZGwtSU9vT09IRXM0U1FQVDdtZE1zWGd3TVJESktzUmtFbjBCXzBSWnFSQWI0VVhOQ2lUNzbSAbABQVVfeXFMUGRrd0NyMnZmODZvYjlWVWt5bEpvTWdBYnI3eE1lUFJ1NG5LQnNuY184R1BtZDZGN2MzcTlFbXJmMjRaeTFMZzVrLXVNV1VReEMtN0pwSGNsdXpWNU9ndFA4eWMySjNSWkJBaHJUQ083blZPMXI0OUp3Y2RvNjNoLVRpanU3MF9aNDFwaGtZTFBXd0JXa3dnMzhDTGtWTks0d3FTTlVJNmZTb2V5c3FwY2Y?oc=5",
+          "published_at": "2026-11-20T13:40:29+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+          "published_at": "2026-11-20T17:54:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlV6OHhsamhScDBGVk5rSTNabVhqNS10YnVneGkxUlMxN2ZKMXBORlFaS2tPaXhrQUtMSGpjX1ZwRm5XaTJ3VHBwTjJxMTQ1NjdpUm0tRW9heGF5bGtZcndxb3Z1NE9hY2ZMYnlXTXBjWWpkVGJ2ZDc4Q09raVFZZGwtSU9vT09IRXM0U1FQVDdtZE1zWGd3TVJESktzUmtFbjBCXzBSWnFSQWI0VVhOQ2lUNzbSAbABQVVfeXFMUGRrd0NyMnZmODZvYjlWVWt5bEpvTWdBYnI3eE1lUFJ1NG5LQnNuY184R1BtZDZGN2MzcTlFbXJmMjRaeTFMZzVrLXVNV1VReEMtN0pwSGNsdXpWNU9ndFA4eWMySjNSWkJBaHJUQ083blZPMXI0OUp3Y2RvNjNoLVRpanU3MF9aNDFwaGtZTFBXd0JXa3dnMzhDTGtWTks0d3FTTlVJNmZTb2V5c3FwY2Y?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "79376ebffe7d798cdb48d51d",
+      "remembered_at": "2026-11-20T18:42:36.330531+00:00",
+      "event_date": "2026-11-20T16:41:29+00:00",
+      "last_update": "2026-11-20T18:07:18+00:00",
+      "event": "CTD, police kill three terrorists in Kohat division",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ctd",
+        "division",
+        "kill",
+        "kohat",
+        "police",
+        "samaa",
+        "terrorists",
+        "three"
+      ],
+      "source_excerpt": "CTD, police kill three terrorists in Kohat division samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1ZkakV5d1Y3b3hLWHJwX2hnM2RhRzFYVHk4QjhQajAyRjlJMm1tclh6Ym1HVERWVkFfWHdTQ3NrUVQ3SjJfUmZDVmxMaHRtelprRWRCMElKbFdPYXp5dlBDbjhYREhKTnNzSWhUWVZrUkRRVlBvblVtd1p0SHFlYVI5Q08wOUdwdGdIMEV0SDl2T0hMUWJyQW16bkQ?oc=5",
+          "published_at": "2026-11-20T16:41:29+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/three-terrorists-killed-in-ctd-police-operation-in-kohat",
+          "published_at": "2026-11-20T17:55:58+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045941/ctd-says-3-terrorists-including-mastermind-of-kohat-police-lines-attack-killed-in-ibo",
+          "published_at": "2026-11-20T18:07:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1ZkakV5d1Y3b3hLWHJwX2hnM2RhRzFYVHk4QjhQajAyRjlJMm1tclh6Ym1HVERWVkFfWHdTQ3NrUVQ3SjJfUmZDVmxMaHRtelprRWRCMElKbFdPYXp5dlBDbjhYREhKTnNzSWhUWVZrUkRRVlBvblVtd1p0SHFlYVI5Q08wOUdwdGdIMEV0SDl2T0hMUWJyQW16bkQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8f2b68719e0261968b4333f8",
+      "remembered_at": "2026-11-20T18:42:36.330531+00:00",
+      "event_date": "2026-11-20T16:01:07+00:00",
+      "last_update": "2026-11-20T17:57:26+00:00",
+      "event": "ECC approves export financing reforms, supplementary grants",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "approves",
+        "ecc",
+        "export",
+        "financing",
+        "grants",
+        "reforms",
+        "samaa",
+        "supplementary"
+      ],
+      "source_excerpt": "ECC approves export financing reforms, supplementary grants samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3JRVDI3c0ZUVTRzaWs4ZUluTGp4NWFPQUNOeGtlWE94bjB3ekFfRjlValBySnRicE5QdFFfeDN1RFYxc0tkZWZfYk8wQ2NzS3o5WHpDeEthLURPZnNpbjNJXzAtWFpudS1OV3kyZTJ1N2g0cTZ3akxRcUt3bjBtdmFscWpnV2sxRjF5QVR3aGRyYno1?oc=5",
+          "published_at": "2026-11-20T16:01:07+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkw3cUNVZDN4LXpqRTA0ay0xNHRkaTRtOVNIMXBEM1Juam1PakNHOE84UzhCaDFDdFpGT3lxTHQ1SHlTRXhxLVFjQ2o1a1NHQlhoR1Blb0VVZXVlMGc4bDF5QXR1dUt5UXdTRzNYcXFYY2hHSE5Ka01WbExKaTZMc0NYOVlLWEJPT0s5Z3EzT2wyTDl0UnJGZ1c4c1NHMmozejdDc2dTVHFHSVota0JLT3poOA?oc=5",
+          "published_at": "2026-11-20T17:57:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3JRVDI3c0ZUVTRzaWs4ZUluTGp4NWFPQUNOeGtlWE94bjB3ekFfRjlValBySnRicE5QdFFfeDN1RFYxc0tkZWZfYk8wQ2NzS3o5WHpDeEthLURPZnNpbjNJXzAtWFpudS1OV3kyZTJ1N2g0cTZ3akxRcUt3bjBtdmFscWpnV2sxRjF5QVR3aGRyYno1?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9d3cd0de813eb2920188f637",
+      "remembered_at": "2026-11-20T18:42:36.330531+00:00",
+      "event_date": "2026-11-20T18:12:52+00:00",
+      "last_update": "2026-11-20T18:12:52+00:00",
+      "event": "Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arabia",
+        "barrel",
+        "barrels",
+        "buy",
+        "extra",
+        "eyes",
+        "japan",
+        "million",
+        "offers",
+        "oil",
+        "saudi",
+        "storage"
+      ],
+      "source_excerpt": "Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/japan-offers-saudi-arabia-16-million-barrels-of-extra-oil-storage-eyes-8-million-barrel-buy",
+          "published_at": "2026-11-20T18:12:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/japan-offers-saudi-arabia-16-million-barrels-of-extra-oil-storage-eyes-8-million-barrel-buy",
+        "publisher_url": "https://arynews.tv/japan-offers-saudi-arabia-16-million-barrels-of-extra-oil-storage-eyes-8-million-barrel-buy",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aa1229d44e66055114ca8faa",
+      "remembered_at": "2026-11-20T18:42:36.330531+00:00",
+      "event_date": "2026-11-20T17:44:18+00:00",
+      "last_update": "2026-11-20T17:44:18+00:00",
+      "event": "US tech sell-off continues as Anthropic tumbles after mega IPO",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "anthropic",
+        "been",
+        "boost",
+        "continues",
+        "footing",
+        "for",
+        "had",
+        "industry",
+        "ipo",
+        "its",
+        "listing",
+        "mega",
+        "off",
+        "potential",
+        "regain",
+        "sell",
+        "struggling",
+        "tech",
+        "tumbles",
+        "viewed"
+      ],
+      "source_excerpt": "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+          "published_at": "2026-11-20T17:44:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a5101c6f79832985c6eda5d4",
+      "remembered_at": "2026-11-20T18:42:36.330531+00:00",
+      "event_date": "2026-11-20T17:21:58+00:00",
+      "last_update": "2026-11-20T17:21:58+00:00",
+      "event": "PM Shehbaz seeks to strengthen Pakistan-Türkiye energy ties",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "energy",
+        "pakistan",
+        "rkiye",
+        "samaa",
+        "seeks",
+        "shehbaz",
+        "strengthen",
+        "ties"
+      ],
+      "source_excerpt": "PM Shehbaz seeks to strengthen Pakistan-Türkiye energy ties samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzg5M25HcGJuQi12d2pCb25xdUlpNXZHN2xIcHlCbDlrWTI3QzRRMnV3TnlrZS1sdWtPUFN6c2libFpLZWNNZUtKLWx3TTY0WFE3ZndvVG9TSHppUm1ydFA3ME5Ya0JhenE5ajI0LWpFMFdsa2FoTWhjU3huVVozeXljbzVHX2ppVkREbTd6LXdiN3JhZVE?oc=5",
+          "published_at": "2026-11-20T17:21:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzg5M25HcGJuQi12d2pCb25xdUlpNXZHN2xIcHlCbDlrWTI3QzRRMnV3TnlrZS1sdWtPUFN6c2libFpLZWNNZUtKLWx3TTY0WFE3ZndvVG9TSHppUm1ydFA3ME5Ya0JhenE5ajI0LWpFMFdsa2FoTWhjU3huVVozeXljbzVHX2ppVkREbTd6LXdiN3JhZVE?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "586bb90f381fcf47c27035ba",
+      "remembered_at": "2026-11-20T18:42:36.330531+00:00",
+      "event_date": "2026-11-20T16:41:15+00:00",
+      "last_update": "2026-11-20T16:41:15+00:00",
+      "event": "Pakistan crowned Men’s Blind Cricket Asia Cup champions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asia",
+        "blind",
+        "champions",
+        "cricket",
+        "crowned",
+        "cup",
+        "express",
+        "men",
+        "pakistan",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Pakistan crowned Men’s Blind Cricket Asia Cup champions The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9RaXAyUTY0QUc0bmdlOFIxSER4c0E3R2FVc1p2R3FCSDlfSks1S0xkRGV4bVZzcjFqUjkySmFCWlBuWmdOelRKUVA5NE1DX01JNmFIdUJlNEhJQjU2OWgtWWVaMGRfWGIwZG5oOXd4al81YW9qeGtYR2dxZHlJSHZBdTZRUXllc0FYbXZFNkVWeTVaMlpqUHpQVVFESzNPTkHSAbwBQVVfeXFMT29xdzFfbzJPX1pHMFh4ZV9NRmgyem12U2FFbHNkTUZXdHdpVFFCaW1ocHc2cFdicHl5dzBCeTNYbjNKdjkzNWNIVlU2ZWRmVEFMblVWa0c1ZzU3UTdyQjh2NmNOb1R6QXBCZ19QQmg3aFpKSzZ5SXQ0U3RQRzBPcTVXM1dOMmVjTy1aTWx1aU9NMXZweDZUTGlIeXVRU0hvOUM4N3h3cXpOS3pSUDBrQ2lJdm1oSTRlU3BfRTQ?oc=5",
+          "published_at": "2026-11-20T16:41:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9RaXAyUTY0QUc0bmdlOFIxSER4c0E3R2FVc1p2R3FCSDlfSks1S0xkRGV4bVZzcjFqUjkySmFCWlBuWmdOelRKUVA5NE1DX01JNmFIdUJlNEhJQjU2OWgtWWVaMGRfWGIwZG5oOXd4al81YW9qeGtYR2dxZHlJSHZBdTZRUXllc0FYbXZFNkVWeTVaMlpqUHpQVVFESzNPTkHSAbwBQVVfeXFMT29xdzFfbzJPX1pHMFh4ZV9NRmgyem12U2FFbHNkTUZXdHdpVFFCaW1ocHc2cFdicHl5dzBCeTNYbjNKdjkzNWNIVlU2ZWRmVEFMblVWa0c1ZzU3UTdyQjh2NmNOb1R6QXBCZ19QQmg3aFpKSzZ5SXQ0U3RQRzBPcTVXM1dOMmVjTy1aTWx1aU9NMXZweDZUTGlIeXVRU0hvOUM4N3h3cXpOS3pSUDBrQ2lJdm1oSTRlU3BfRTQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T17:43:21.209802+00:00"
+  "updated_at": "2026-11-20T18:42:36.330531+00:00"
 }

@@ -1,55 +1,145 @@
-# News Hub report - Fri 20 Nov, 10:43 PM PKT
+# News Hub report - Fri 20 Nov, 11:42 PM PKT
 
 ## Collection
-- New items this run: 56 | items in rolling pool: 676
-- Unique story clusters: 593 (duplicates merged: 83)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 6
-- Items per outlet: Geo News 9, Al Jazeera 5, ProPakistani 3, samaa tv 2, Dawn 2, X 2, The Verge 2, Engadget 2, TechJuice 2, Investify 2, Anadolu Ajansı 2, ARY News Pakistan 1
+- New items this run: 56 | items in rolling pool: 645
+- Unique story clusters: 560 (duplicates merged: 85)
+- Clusters dropped as already published/queued: 19; unchanged since last analysis: 4
+- Items per outlet: Pakistan Today 6, Geo News 5, ARY News 5, samaa tv 4, X 3, Profit by Pakistan Today 3, Dawn Latest 2, Al Jazeera 2, Aaj English TV 2, The Verge 2, Engadget 2, BBC World 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE? | https://www.youtube.com/watch?v=o3yEST0k6zo
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price reduced by Re1 per litre; diesel increased by Rs2 per litre | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price reduced by Re1 per litre; diesel increased by Rs2 per litre | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price reduced by Re1 per litre; diesel increased by Rs2 per litre | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 2 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 3 items
+### Top US Democrat Warns Trump Administration Against Destroying Official Records  [NORMAL]
+- Poster: امریکی ڈیموکریٹ رہنما کی ٹرمپ انتظامیہ کو سرکاری ریکارڈ تلف کرنے پر سخت تنبیہ / US Democrat warns Trump administration over destroying records | category us_politics
+- Alternative headline: Congressman Raskin Accuses US Officials of Ignoring Federal Recordkeeping Laws
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Trump administration, Jamie Raskin, US government, recordkeeping laws, Democrat, records | hashtags: #USPolitics #TrumpAdministration #JamieRaskin #USNews
+- Scheduled: Fri 20 Nov, 11:42 PM PKT
+- Caption:
+```
+Congressman Jamie Raskin has issued a sharp warning to US government officials, accusing them of violating federal recordkeeping laws.
+
+In a new letter, US Congressman Jamie Raskin warned officials in the administration that they are ignoring federal recordkeeping laws, raising concerns over transparency and compliance with legal standards.
+
+ایک نئے خط میں امریکی کانگریس مین جیمی راسکن نے انتظامیہ کے حکام کو خبردار کیا ہے کہ وہ وفاقی ریکارڈ رکھنے کے قوانین کو نظر انداز کر رہے ہیں، جس سے شفافیت اور قانونی معیارات پر عمل درآمد کے حوالے سے خدشات پیدا ہو گئے ہیں۔
+
+According to Al Jazeera
+
+#USPolitics #TrumpAdministration #JamieRaskin #USNews
+```
+
+### Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2  [NORMAL]
+- Poster: حکومت نے پیٹرول کی قیمت میں ایک روپے کمی اور ڈیزل دو روپے مہنگا کر دیا / Govt cuts petrol price by Re1, raises diesel by Rs2 | category economy
+- Alternative headline: OGRA Notifies New Fuel Prices: Petrol at Rs322 and Diesel at Rs357
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045935/petrol-price-reduced-by-re1-per-litre-diesel-increased-by-rs2-per-litre | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2045935/petrol-price-reduced-by-re1-per-litre-diesel-increased-by-rs2-per-litre
+- Supporting coverage: Aaj English TV, Dawn Latest, samaa tv, Profit by Pakistan Today, The Nation (Pakistan ), Bol News
+- Keywords: petrol price, diesel, OGRA, Ishaq Dar, fuel price Pakistan, petroleum levy | hashtags: #PetrolPrice #PakistanEconomy #OGRA #DieselPrice #Inflation
+- Scheduled: Fri 20 Nov, 11:52 PM PKT
+- Caption:
+```
+The government has announced a slight revision in fuel prices, reducing petrol by Re1 while increasing diesel by Rs2 per litre.
+
+The government reduced the price of petrol by Re1 per litre to Rs322 while increasing high-speed diesel by Rs2 to Rs357 per litre, following an OGRA notification. Officials emphasized ongoing efforts to ease financial burdens despite heavy taxes.
+
+اوگرا کے نوٹیفکیشن کے مطابق حکومت نے پیٹرول کی قیمت میں ایک روپیہ فی لیٹر کمی کر کے اسے 322 روپے جبکہ ہائی اسپیڈ ڈیزل کی قیمت دو روپے بڑھا کر 357 روپے فی لیٹر کر دی ہے۔ حکام نے مالی بوجھ کم کرنے کے عزم کا اعادہ کیا ہے۔
+
+First reported by Dawn Latest; also reported by Aaj English TV, samaa tv, Profit by Pakistan Today, The Nation (Pakistan ), Bol News
+
+#PetrolPrice #PakistanEconomy #OGRA #DieselPrice #Inflation
+```
+
+### EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit  [NORMAL]
+- Poster: برطانیہ اور یورپی یونین کے درمیان تعلقات کی بحالی کا تاریخی معاہدہ طے پا گیا / EU and UK seal landmark post-Brexit reset deal | category world
+- Alternative headline: Britain and European Union Agree on Landmark Deal to Rebuild Ties
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera, BBC Business, Geo News, BBC World
+- Keywords: EU UK deal, Brexit reset, Brussels summit, UK EU relations, landmark deal | hashtags: #EUK #BrexitReset #BrusselsSummit #WorldNews
+- Scheduled: Sat 21 Nov, 12:02 AM PKT
+- Caption:
+```
+The European Union and the United Kingdom have officially sealed a landmark reset deal at a Brussels summit.
+
+The European Union and the UK have sealed a landmark reset deal during a Brussels summit, marking a significant step towards rebuilding ties and exploring closer cooperation following Brexit, according to breaking reports.
+
+برسلز سربراہی اجلاس کے دوران یورپی یونین اور برطانیہ کے درمیان تعلقات کی بحالی کا ایک تاریخی معاہدہ طے پا گیا ہے، جو برسٹ کے بعد قریبی تعاون کی طرف ایک اہم قدم ہے۔
+
+First reported by Al Jazeera; also reported by BBC Business, Geo News, BBC World
+
+#EUK #BrexitReset #BrusselsSummit #WorldNews
+```
+
+### Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs and War  [NORMAL]
+- Poster: مہنگائی اور جنگ کیخلاف طلباء کے احتجاج، پورے یورپ میں ریلیاں نکالی گئیں / Youth-led strikes sweep Europe over living costs and war | category world
+- Alternative headline: Thousands of Students and Citizens Protest High Living Costs Across Europe
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - CNN https://news.google.com/rss/articles/CBMiekFVX3lxTFB6MnZwRGZqSkdDdTRtbFp4R0thbVowazY1amN0cDFkMFJTZVlHZFp1YThFOUNwY0RreElPZ1d3Ym9CU3FpUC1wYWpLR2t1N0RweFlUcWdXZVBRN21YZDUtaVgtazVBenRBQlp3SzUyTWFRaEFlRmVUc3ZB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: CNN https://news.google.com/rss/articles/CBMiekFVX3lxTFB6MnZwRGZqSkdDdTRtbFp4R0thbVowazY1amN0cDFkMFJTZVlHZFp1YThFOUNwY0RreElPZ1d3Ym9CU3FpUC1wYWpLR2t1N0RweFlUcWdXZVBRN21YZDUtaVgtazVBenRBQlp3SzUyTWFRaEFlRmVUc3ZB?oc=5
+- Supporting coverage: CNN, BBC Business, BBC World, Al Jazeera
+- Keywords: cost of living protests, Europe strikes, students protest, inflation Europe, youth-led strikes | hashtags: #EuropeProtests #CostOfLiving #StudentStrikes #WorldNews
+- Scheduled: Sat 21 Nov, 12:12 AM PKT
+- Caption:
+```
+Youth-led strikes and protests have swept across multiple European nations as students and citizens demand action against rising living costs.
+
+Youth-led strikes and protests have swept across Europe as students and citizens take to the streets to protest against soaring living costs, high service prices, wages, and war, according to reports from CNN and Al Jazeera.
+
+سی این این اور الجزیرہ کی رپورٹس کے مطابق بڑھتی ہوئی مہنگائی، اجرتوں کے مسائل اور جنگ کے خلاف طلباء اور شہریوں نے یورپ بھر میں احتجاجی مظاہرے اور ہڑتالیں کی ہیں۔
+
+First reported by CNN; also reported by BBC Business, BBC World, Al Jazeera
+
+#EuropeProtests #CostOfLiving #StudentStrikes #WorldNews
+```
+
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 13
+- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
 
 ## Queue status
-- [published] normal | Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack | Tue 17 Nov, 11:39 PM PKT
-- [published] normal | ECP Decides to Hold Punjab Local Government Elections in Two Phases | Tue 17 Nov, 11:49 PM PKT
-- [published] normal | PTA Finalises Licensing Framework for In-Flight Internet Services | Tue 17 Nov, 11:59 PM PKT
-- [published] normal | Petrol Price Reduced by Rs3 Per Litre, Diesel Remains Unchanged | Wed 18 Nov, 12:09 AM PKT
 - [published] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
 - [published] normal | UK sanctions Israeli firms building West Bank settlements | Wed 18 Nov, 12:57 AM PKT
 - [needs_review] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
@@ -236,7 +326,7 @@
 - [queued] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [published] normal | Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizab | Fri 20 Nov, 05:28 PM PKT
 - [published] normal | Bank of Punjab Wins International Award for SME Financing Innovation | Fri 20 Nov, 05:38 PM PKT
-- [queued] normal | Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026 | Fri 20 Nov, 05:48 PM PKT
+- [published] normal | Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026 | Fri 20 Nov, 05:48 PM PKT
 - [queued] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
 - [queued] normal | Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling | Fri 20 Nov, 06:48 PM PKT
 - [queued] normal | CDF Asim Munir Vows to Eradicate Terrorism in KP | Fri 20 Nov, 06:58 PM PKT
@@ -250,31 +340,19 @@
 - [queued] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
 - [queued] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
 - [queued] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
+- [queued] normal | Top US Democrat Warns Trump Administration Against Destroying Official | Fri 20 Nov, 11:42 PM PKT
+- [queued] normal | Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2 | Fri 20 Nov, 11:52 PM PKT
+- [queued] normal | EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit | Sat 21 Nov, 12:02 AM PKT
+- [queued] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
 
 ## Publishing this run
-- Published 'Bank of Punjab Wins International Award for SME Financing Innovation'.
+- Published 'Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026'.
 
 ## Gemini usage
-- Calls: 7 | prompt tokens: 203 | output tokens: 86
-- Errors: 7
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 6386 | output tokens: 2144
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
