@@ -1,35 +1,36 @@
-# News Hub report - Fri 20 Nov, 09:44 PM PKT
+# News Hub report - Fri 20 Nov, 10:43 PM PKT
 
 ## Collection
-- New items this run: 80 | items in rolling pool: 689
-- Unique story clusters: 612 (duplicates merged: 77)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 24, Geo News 5, Al Jazeera 5, ARY News 4, samaa tv 4, ProPakistani 4, Profit by Pakistan Today 4, ARY News Pakistan 3, The Verge 3, TechJuice 3, Dawn Latest 2, X 2
+- New items this run: 56 | items in rolling pool: 676
+- Unique story clusters: 593 (duplicates merged: 83)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 6
+- Items per outlet: Geo News 9, Al Jazeera 5, ProPakistani 3, samaa tv 2, Dawn 2, X 2, The Verge 2, Engadget 2, TechJuice 2, Investify 2, Anadolu Ajansı 2, ARY News Pakistan 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE? | https://www.youtube.com/watch?v=o3yEST0k6zo
 
 ## Top 5 most important
-- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab police team comes under fire in Karachi, one killed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- As Trump courts Xi and Putin, middle powers make their own moves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab police team comes under fire in Karachi, one killed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- As Trump courts Xi and Putin, middle powers make their own moves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab police team comes under fire in Karachi, one killed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- As Trump courts Xi and Putin, middle powers make their own moves | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 2 | failed: 0 | malformed/partial: 1
@@ -39,10 +40,10 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 13
 
 ## Queue status
 - [published] normal | Ukraine Damages Russia's Crimean Bridge in Unprecedented Attack | Tue 17 Nov, 11:39 PM PKT
@@ -234,7 +235,7 @@
 - [queued] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [queued] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [published] normal | Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizab | Fri 20 Nov, 05:28 PM PKT
-- [queued] normal | Bank of Punjab Wins International Award for SME Financing Innovation | Fri 20 Nov, 05:38 PM PKT
+- [published] normal | Bank of Punjab Wins International Award for SME Financing Innovation | Fri 20 Nov, 05:38 PM PKT
 - [queued] normal | Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026 | Fri 20 Nov, 05:48 PM PKT
 - [queued] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
 - [queued] normal | Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling | Fri 20 Nov, 06:48 PM PKT
@@ -248,27 +249,32 @@
 - [queued] normal | Ringleader pleads guilty to massive $100 million US jewellery heist | Fri 20 Nov, 08:51 PM PKT
 - [queued] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
 - [queued] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
+- [queued] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
 
 ## Publishing this run
-- Published 'Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizabad Home'.
+- Published 'Bank of Punjab Wins International Award for SME Financing Innovation'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
+- Calls: 7 | prompt tokens: 203 | output tokens: 86
+- Errors: 7
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message"
+    "message": "This model is currently experiencing high demand. Spi

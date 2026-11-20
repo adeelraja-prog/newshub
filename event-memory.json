@@ -92103,7 +92103,471 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ccb0c9d8e70a7486c82344f7",
+      "remembered_at": "2026-11-20T17:43:21.209802+00:00",
+      "event_date": "2026-11-20T10:49:53+00:00",
+      "last_update": "2026-11-20T17:32:32+00:00",
+      "event": "Youth-led strikes sweep Europe as students protest rising cost of living and war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "cnn",
+        "cost",
+        "europe",
+        "led",
+        "living",
+        "protest",
+        "rising",
+        "strikes",
+        "students",
+        "sweep",
+        "war",
+        "youth"
+      ],
+      "source_excerpt": "Youth-led strikes sweep Europe as students protest rising cost of living and war CNN",
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6MnZwRGZqSkdDdTRtbFp4R0thbVowazY1amN0cDFkMFJTZVlHZFp1YThFOUNwY0RreElPZ1d3Ym9CU3FpUC1wYWpLR2t1N0RweFlUcWdXZVBRN21YZDUtaVgtazVBenRBQlp3SzUyTWFRaEFlRmVUc3ZB?oc=5",
+          "published_at": "2026-11-20T10:49:53+00:00"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T14:43:39+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T16:45:34+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
+          "published_at": "2026-11-20T17:32:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6MnZwRGZqSkdDdTRtbFp4R0thbVowazY1amN0cDFkMFJTZVlHZFp1YThFOUNwY0RreElPZ1d3Ym9CU3FpUC1wYWpLR2t1N0RweFlUcWdXZVBRN21YZDUtaVgtazVBenRBQlp3SzUyTWFRaEFlRmVUc3ZB?oc=5",
+        "publisher_url": "https://www.cnn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e893f3d78ab555fc9ae77c2f",
+      "remembered_at": "2026-11-20T17:43:21.209802+00:00",
+      "event_date": "2026-11-20T12:08:19+00:00",
+      "last_update": "2026-11-20T16:59:34+00:00",
+      "event": "Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ary",
+        "cyberattacks",
+        "faces",
+        "kaspersky",
+        "million",
+        "news",
+        "pakistan",
+        "reveals",
+        "year"
+      ],
+      "source_excerpt": "Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals ARY News Pakistan",
+      "sources": [
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/9-4-million-cyberattacks-hit-pakistan-in-one-year-kaspersky-reveals/",
+          "published_at": "2026-11-20T12:08:19+00:00"
+        },
+        {
+          "name": "ARY News Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yMUYxLXA0emxOTlNuMVlZaUszck9qZUxyaUNQOEYzUjg0QmJaNTNtWEx3ZFh0Qk5ZYnJ2Y3ppNWpHb2xFNVpqRVp6OXI5ZGJ5WGxVaGw3ZG40Z0hzVXNPUEJuMWMxT2E2MVdoMmtweHRYaFZsR3JHNG9oejEtZw?oc=5",
+          "published_at": "2026-11-20T16:59:34+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/cyberattacks-in-pakistan-kaspersky-reveals-yearly-data",
+          "published_at": "2026-11-20T16:59:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News Pakistan",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yMUYxLXA0emxOTlNuMVlZaUszck9qZUxyaUNQOEYzUjg0QmJaNTNtWEx3ZFh0Qk5ZYnJ2Y3ppNWpHb2xFNVpqRVp6OXI5ZGJ5WGxVaGw3ZG40Z0hzVXNPUEJuMWMxT2E2MVdoMmtweHRYaFZsR3JHNG9oejEtZw?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e577779738b1fd485203bad1",
+      "remembered_at": "2026-11-20T17:43:21.209802+00:00",
+      "event_date": "2026-11-20T17:18:58+00:00",
+      "last_update": "2026-11-20T17:18:58+00:00",
+      "event": "Qatar’s emir calls for diplomacy to end regional conflicts",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bin",
+        "called",
+        "calls",
+        "conflicts",
+        "diplomacy",
+        "diplomatic",
+        "efforts",
+        "emir",
+        "end",
+        "escalate",
+        "for",
+        "hamad",
+        "qatar",
+        "regional",
+        "sheikh",
+        "tamim",
+        "thani"
+      ],
+      "source_excerpt": "Qatar’s Emir Sheikh Tamim bin Hamad Al Thani called for diplomatic efforts to de-escalate conflicts.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/qatars-emir-calls-for-diplomacy-to-end-regional-conflicts?traffic_source=rss",
+          "published_at": "2026-11-20T17:18:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/qatars-emir-calls-for-diplomacy-to-end-regional-conflicts?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/qatars-emir-calls-for-diplomacy-to-end-regional-conflicts?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2d3f47e4c61a311a0c4a723b",
+      "remembered_at": "2026-11-20T17:43:21.209802+00:00",
+      "event_date": "2026-11-20T17:05:42+00:00",
+      "last_update": "2026-11-20T17:05:42+00:00",
+      "event": "Top US Democrat warns Trump admin against destroying records",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admin",
+        "against",
+        "are",
+        "congressman",
+        "democrat",
+        "destroying",
+        "federal",
+        "government",
+        "ignoring",
+        "jamie",
+        "laws",
+        "letter",
+        "new",
+        "officials",
+        "raskin",
+        "recordkeeping",
+        "records",
+        "says",
+        "the",
+        "top",
+        "trump",
+        "warns"
+      ],
+      "source_excerpt": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+          "published_at": "2026-11-20T17:05:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "687e10150f9dae6c77f48dfb",
+      "remembered_at": "2026-11-20T17:43:21.209802+00:00",
+      "event_date": "2026-11-20T17:05:32+00:00",
+      "last_update": "2026-11-20T17:05:32+00:00",
+      "event": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activist",
+        "boat",
+        "bring",
+        "daniel",
+        "danny",
+        "dinghy",
+        "far",
+        "for",
+        "france",
+        "from",
+        "himself",
+        "jailed",
+        "livestreamed",
+        "migrant",
+        "migrants",
+        "right",
+        "slashing",
+        "the",
+        "thomas",
+        "tommo",
+        "used"
+      ],
+      "source_excerpt": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
+          "published_at": "2026-11-20T17:05:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c41328ebb306f5f2c9322578",
+      "remembered_at": "2026-11-20T17:43:21.209802+00:00",
+      "event_date": "2026-11-20T16:40:35+00:00",
+      "last_update": "2026-11-20T16:40:35+00:00",
+      "event": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "andy",
+        "breturn",
+        "brexit",
+        "burnham",
+        "deal",
+        "divisive",
+        "from",
+        "minister",
+        "new",
+        "potential",
+        "prime",
+        "referendum",
+        "returns",
+        "start",
+        "summit",
+        "the",
+        "weighs",
+        "with",
+        "years"
+      ],
+      "source_excerpt": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
+          "published_at": "2026-11-20T16:40:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f555c2131c4e511b5faca6eb",
+      "remembered_at": "2026-11-20T17:43:21.209802+00:00",
+      "event_date": "2026-11-20T17:12:02+00:00",
+      "last_update": "2026-11-20T17:12:02+00:00",
+      "event": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assassinate",
+        "based",
+        "bbc",
+        "indian",
+        "leader",
+        "man",
+        "plot",
+        "plus",
+        "sentenced",
+        "separatist",
+        "sikh",
+        "years"
+      ],
+      "source_excerpt": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45al9WaFg3Q25ScnRCQ2hPSGZ3VE1YQlhIaDFtbFhkWlJTNzRHWXlFZ0ptUm1fVW4tUkF3cFFSSVVSeGs1djlPX1ZLT05vVXJLLWdoYWV1QVUxWUE?oc=5",
+          "published_at": "2026-11-20T17:12:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45al9WaFg3Q25ScnRCQ2hPSGZ3VE1YQlhIaDFtbFhkWlJTNzRHWXlFZ0ptUm1fVW4tUkF3cFFSSVVSeGs1djlPX1ZLT05vVXJLLWdoYWV1QVUxWUE?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b198f04beba2c41514fdd79a",
+      "remembered_at": "2026-11-20T17:43:21.209802+00:00",
+      "event_date": "2026-11-20T17:12:07+00:00",
+      "last_update": "2026-11-20T17:15:45+00:00",
+      "event": "Trump, Xi did not discuss Nvidia's Huang: US Treasury Secretary",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "did",
+        "discuss",
+        "huang",
+        "not",
+        "nvidia",
+        "secretary",
+        "treasury",
+        "trump"
+      ],
+      "source_excerpt": "Trump, Xi did not discuss Nvidia's Huang: US Treasury Secretary Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVGxHOTVXM1A3a0VNN0E1NFBMcjJfOUVQU3RFS2lSdjNKQnNUVDkwUmdWdThRVWZIM1hNdWJiUml5N0ZCempoWXFyeUhpR3d4aG83OHZyT1dQeXRCU3NabW9BeWc2YmV0bThabkVzdUZFZnZuWWtHS0RFRTRJOUkxXzh1dTNKU2FoUmZpTnBpVmo0dXQ0X0pOelNn?oc=5",
+          "published_at": "2026-11-20T17:12:07+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045939/trump-xi-did-not-discuss-nvidias-huang-us-treasury-secretary",
+          "published_at": "2026-11-20T17:15:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVGxHOTVXM1A3a0VNN0E1NFBMcjJfOUVQU3RFS2lSdjNKQnNUVDkwUmdWdThRVWZIM1hNdWJiUml5N0ZCempoWXFyeUhpR3d4aG83OHZyT1dQeXRCU3NabW9BeWc2YmV0bThabkVzdUZFZnZuWWtHS0RFRTRJOUkxXzh1dTNKU2FoUmZpTnBpVmo0dXQ0X0pOelNn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d22a5ac36c1d110394934b18",
+      "remembered_at": "2026-11-20T17:43:21.209802+00:00",
+      "event_date": "2026-11-20T17:24:15+00:00",
+      "last_update": "2026-11-20T17:24:15+00:00",
+      "event": "Minister insists referendum on new provinces 'will happen'",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "happen",
+        "insists",
+        "minister",
+        "new",
+        "provinces",
+        "referendum",
+        "will"
+      ],
+      "source_excerpt": "Minister insists referendum on new provinces 'will happen' Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzNVbGdRMVl5aDJYWkVvMi12NkdOQ2pSRTJTSnRzZTA1WFFvWXgzSEM5QjRQcVlBZ0poRWlBN0RuODR2alVYZTZSaUpOWFlqeTBzZGJEMnJpMWhINDZwS3BPeHJ5R2p5cFJadENYdDlvZXRhdW1pUzV6a1lQOTNWNGt4aWFaWjZMQ1pRcU1RamRvMUdC?oc=5",
+          "published_at": "2026-11-20T17:24:15+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045936/minister-insists-referendum-on-new-provinces-will-happen",
+          "published_at": "2026-11-20T17:24:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzNVbGdRMVl5aDJYWkVvMi12NkdOQ2pSRTJTSnRzZTA1WFFvWXgzSEM5QjRQcVlBZ0poRWlBN0RuODR2alVYZTZSaUpOWFlqeTBzZGJEMnJpMWhINDZwS3BPeHJ5R2p5cFJadENYdDlvZXRhdW1pUzV6a1lQOTNWNGt4aWFaWjZMQ1pRcU1RamRvMUdC?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T16:44:35.998484+00:00"
+  "updated_at": "2026-11-20T17:43:21.209802+00:00"
 }
