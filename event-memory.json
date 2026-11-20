@@ -83032,7 +83032,741 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3537e05ce9554bb17fe22483",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-19T18:53:47+00:00",
+      "last_update": "2026-11-20T01:59:15+00:00",
+      "event": "Houthi attack damages Saudi Arabia’s tallest skyscraper in Riyadh",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arabia",
+        "attack",
+        "damages",
+        "houthi",
+        "riyadh",
+        "saudi",
+        "skyscraper",
+        "tallest"
+      ],
+      "source_excerpt": "Houthi attack damages Saudi Arabia’s tallest skyscraper in Riyadh",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/houthi-attack-damages-saudi-arabias-tallest-skyscraper-in-riyadh",
+          "published_at": "2026-11-19T18:53:47+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb2tsNm1NWk1jVmd5YnNKclJzUG5FbTVkTzBuRmF5QWhETjZBLXo2OEtWc0w1eHBoUVI5SUszS2RXbFgwUUtMRkhLRmxFWmxlQW5UU2ZnZURfNC1BTURad0c0VXdlUFN4NXR2UDhONnpZZHlYUlBQdUJmMGZvTkU0alByYTRabVA4WlVv?oc=5",
+          "published_at": "2026-11-20T01:59:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/houthi-attack-damages-saudi-arabias-tallest-skyscraper-in-riyadh",
+        "publisher_url": "https://arynews.tv/houthi-attack-damages-saudi-arabias-tallest-skyscraper-in-riyadh",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f6b0ff7791539ce13c792673",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:48:08+00:00",
+      "last_update": "2026-11-20T01:48:08+00:00",
+      "event": "Indonesian daycare principal jailed for five years over child abuse case",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abuse",
+        "and",
+        "april",
+        "case",
+        "centre",
+        "child",
+        "daycare",
+        "feet",
+        "five",
+        "for",
+        "found",
+        "hands",
+        "indonesian",
+        "jailed",
+        "over",
+        "police",
+        "principal",
+        "rags",
+        "raided",
+        "the",
+        "their",
+        "tied",
+        "toddlers",
+        "were",
+        "when",
+        "with",
+        "years"
+      ],
+      "source_excerpt": "Toddlers were found with their hands and feet tied with rags when police raided the centre in April.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvkg58d7z10ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T01:48:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cvkg58d7z10ro?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cvkg58d7z10ro?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9c36bea3bde0db26fb816bcb",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:29:28+00:00",
+      "last_update": "2026-11-20T01:29:28+00:00",
+      "event": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2030",
+        "amid",
+        "centre",
+        "centres",
+        "climate",
+        "corporate",
+        "data",
+        "drive",
+        "emissions",
+        "energy",
+        "force",
+        "goals",
+        "growing",
+        "meta",
+        "needs",
+        "rethinks",
+        "retreat",
+        "review",
+        "rising",
+        "sustainability",
+        "targets"
+      ],
+      "source_excerpt": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+          "published_at": "2026-11-20T01:29:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "34d4b1f6f47ef818066db4f2",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:10:06+00:00",
+      "last_update": "2026-11-20T01:10:06+00:00",
+      "event": "Democrats say law firm gave $11.8m in free services to Trump administration",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "and",
+        "called",
+        "case",
+        "coercion",
+        "dealings",
+        "democrats",
+        "firm",
+        "firms",
+        "free",
+        "gave",
+        "investigations",
+        "law",
+        "official",
+        "pledged",
+        "say",
+        "services",
+        "three",
+        "top",
+        "trump",
+        "with"
+      ],
+      "source_excerpt": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+          "published_at": "2026-11-20T01:10:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "63c94c180a0205867a9c2f0f",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:06:15+00:00",
+      "last_update": "2026-11-20T01:06:15+00:00",
+      "event": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "businesses",
+        "causes",
+        "chaos",
+        "completely",
+        "crisis",
+        "daily",
+        "disrupt",
+        "everything",
+        "fuel",
+        "life",
+        "malawi",
+        "messed",
+        "motorists",
+        "shortages",
+        "struggle"
+      ],
+      "source_excerpt": "Motorists and businesses struggle as shortages disrupt daily life.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+          "published_at": "2026-11-20T01:06:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dc08d417e9899d7476f5deef",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T02:13:05+00:00",
+      "last_update": "2026-11-20T02:13:05+00:00",
+      "event": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2bn",
+        "biggest",
+        "breaks",
+        "ended",
+        "entertainment",
+        "estimate",
+        "ever",
+        "expected",
+        "games",
+        "gta",
+        "industry",
+        "launch",
+        "records",
+        "rockstar",
+        "sales",
+        "the",
+        "top",
+        "wait",
+        "what",
+        "with",
+        "year"
+      ],
+      "source_excerpt": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T02:13:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c5c3db4af9f4d2e80421cc87",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:29:43+00:00",
+      "last_update": "2026-11-20T01:29:43+00:00",
+      "event": "Does our ethnicity change how we experience dying?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "but",
+        "certainty",
+        "change",
+        "could",
+        "death",
+        "does",
+        "dying",
+        "ethnicity",
+        "experience",
+        "how",
+        "one",
+        "our",
+        "share",
+        "the",
+        "through"
+      ],
+      "source_excerpt": "Death is the one certainty we all share - but could our ethnicity change how we go through it?",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T01:29:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "38b8c31a6863c350dd243cd5",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:50:12+00:00",
+      "last_update": "2026-11-20T01:50:12+00:00",
+      "event": "Financial adviser hired to outsource operations of Karachi, Lahore airports",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adviser",
+        "airports",
+        "dawn",
+        "financial",
+        "hired",
+        "karachi",
+        "lahore",
+        "operations",
+        "outsource"
+      ],
+      "source_excerpt": "Financial adviser hired to outsource operations of Karachi, Lahore airports Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYS1LVVVZOEJFVzFTNnlTaVlPeFNIcVZXUFV6WDljOWFwb01qQXBEaE81ak5NTk13SEJla2UzZnFLSHdEQjMzdEVQaVVvQXJUSWlnZHlCeW1LQWQybV9OYTlVTjR1eG1VNUFzNmRxeUt4VnE2aWRvZHZZNmloYmY3b1p5bDNLU1h1czFkSEIyUFZ3X08xc3ZyOGxVMXF6b00xVHFXa1JHN0xDNnAt?oc=5",
+          "published_at": "2026-11-20T01:50:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYS1LVVVZOEJFVzFTNnlTaVlPeFNIcVZXUFV6WDljOWFwb01qQXBEaE81ak5NTk13SEJla2UzZnFLSHdEQjMzdEVQaVVvQXJUSWlnZHlCeW1LQWQybV9OYTlVTjR1eG1VNUFzNmRxeUt4VnE2aWRvZHZZNmloYmY3b1p5bDNLU1h1czFkSEIyUFZ3X08xc3ZyOGxVMXF6b00xVHFXa1JHN0xDNnAt?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1c14f2db6f506e4992a3ffe3",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:49:54+00:00",
+      "last_update": "2026-11-20T01:49:54+00:00",
+      "event": "Pakistan, Asean seek stronger economic, security ties",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asean",
+        "dawn",
+        "economic",
+        "pakistan",
+        "security",
+        "seek",
+        "stronger",
+        "ties"
+      ],
+      "source_excerpt": "Pakistan, Asean seek stronger economic, security ties Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVC1HRldBYkg2T0RtQXBWcUlMb3FicGMtbENFSXJHanZmOUtqNjRRWnlydHpxclc2aVpCbjR6UjNMalVjNTZGc192TEw2bkxBdlZpZS0wVXotTFM2ZjJkYm5abDFHd0JuVmp3QWlpMFA2ZGR2bzBMak5EZlBjOV91SnJzM1k3ckJ1SlFQMWZ3?oc=5",
+          "published_at": "2026-11-20T01:49:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVC1HRldBYkg2T0RtQXBWcUlMb3FicGMtbENFSXJHanZmOUtqNjRRWnlydHpxclc2aVpCbjR6UjNMalVjNTZGc192TEw2bkxBdlZpZS0wVXotTFM2ZjJkYm5abDFHd0JuVmp3QWlpMFA2ZGR2bzBMak5EZlBjOV91SnJzM1k3ckJ1SlFQMWZ3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c0aef5c1de412d836d9df7d9",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:49:54+00:00",
+      "last_update": "2026-11-20T01:49:54+00:00",
+      "event": "CDF reviews Balochistan security situation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "balochistan",
+        "cdf",
+        "dawn",
+        "reviews",
+        "security",
+        "situation"
+      ],
+      "source_excerpt": "CDF reviews Balochistan security situation Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSnRONi1OUm9MQ2w4Q3VxcTJhQUlCY3R2Z0hIVTlKLXREQmVnYmFaR3FIVzk3MzdkU1R4VkkyTDk1S0FZd3lGb1EzZVUtb202bkhVNmhrampTWTlDSnNPQm1WdWhFZUROaWVQU3ZWVUZNQXBMNkt6d3NhTkx5ejloRWtB?oc=5",
+          "published_at": "2026-11-20T01:49:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSnRONi1OUm9MQ2w4Q3VxcTJhQUlCY3R2Z0hIVTlKLXREQmVnYmFaR3FIVzk3MzdkU1R4VkkyTDk1S0FZd3lGb1EzZVUtb202bkhVNmhrampTWTlDSnNPQm1WdWhFZUROaWVQU3ZWVUZNQXBMNkt6d3NhTkx5ejloRWtB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "29856c4cf736febef816fd8b",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:49:54+00:00",
+      "last_update": "2026-11-20T01:49:54+00:00",
+      "event": "Two-day trade expo concludes in Quetta",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "concludes",
+        "dawn",
+        "day",
+        "expo",
+        "quetta",
+        "trade",
+        "two"
+      ],
+      "source_excerpt": "Two-day trade expo concludes in Quetta Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yZ2ZMN2NjaFFGX3lOSy1VSGVGTjhFQVNYdFhQWVZqa0FrdDdFSmZrck1CMVAtWVpQbUVzdDM0VDBaN2hzQ3VuZkZPM3QyN1ByQVpHMTM2Y2g4cklSajhFWXllSVBPQUN6OG1yMlh3alFia3NOUXBOTzhlQWE?oc=5",
+          "published_at": "2026-11-20T01:49:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yZ2ZMN2NjaFFGX3lOSy1VSGVGTjhFQVNYdFhQWVZqa0FrdDdFSmZrck1CMVAtWVpQbUVzdDM0VDBaN2hzQ3VuZkZPM3QyN1ByQVpHMTM2Y2g4cklSajhFWXllSVBPQUN6OG1yMlh3alFia3NOUXBOTzhlQWE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0d45ad5a969ae5c3dc130c9b",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:50:49+00:00",
+      "last_update": "2026-11-20T01:50:49+00:00",
+      "event": "Dhahan award for two Pakistani writers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "award",
+        "dawn",
+        "dhahan",
+        "for",
+        "pakistani",
+        "two",
+        "writers"
+      ],
+      "source_excerpt": "Dhahan award for two Pakistani writers Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14NGx0VVY3MTIzb1hIMkphT0VmRFpSWDNRbjJQV2FzT2FKSkhjVmxrLWF6LWFERks2QkxHZ1EwUzlXVXFtcXhJaU5aRmpjOGhoRmlzaXNaQ1p4eUIxb0lIUmZ6MFdBNGNZbFpkRU5BV1hWRU9EdVl3RjR3Z3c?oc=5",
+          "published_at": "2026-11-20T01:50:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14NGx0VVY3MTIzb1hIMkphT0VmRFpSWDNRbjJQV2FzT2FKSkhjVmxrLWF6LWFERks2QkxHZ1EwUzlXVXFtcXhJaU5aRmpjOGhoRmlzaXNaQ1p4eUIxb0lIUmZ6MFdBNGNZbFpkRU5BV1hWRU9EdVl3RjR3Z3c?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cc442a3d4376a04597c74ae8",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:49:54+00:00",
+      "last_update": "2026-11-20T01:49:54+00:00",
+      "event": "Shutter-down strike across Balochistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "balochistan",
+        "dawn",
+        "down",
+        "shutter",
+        "strike"
+      ],
+      "source_excerpt": "Shutter-down strike across Balochistan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfeVhiYU82ZzE2YkVkSklVR1ByNHd4UWRXRGZzQ0pzS0x3WF9LR2RPeXZnQVZpTktpZXFPR2h6V2hfNWV0Q2NDVzlDS1c5YTFwTUtNRm1QdDBBWlI3MWowY2dabmtxeXg2YU9ETjZlMnFyNmxnc1N6YmNWTXU?oc=5",
+          "published_at": "2026-11-20T01:49:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfeVhiYU82ZzE2YkVkSklVR1ByNHd4UWRXRGZzQ0pzS0x3WF9LR2RPeXZnQVZpTktpZXFPR2h6V2hfNWV0Q2NDVzlDS1c5YTFwTUtNRm1QdDBBWlI3MWowY2dabmtxeXg2YU9ETjZlMnFyNmxnc1N6YmNWTXU?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5fd700e6daaa450b2ec07228",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:51:04+00:00",
+      "last_update": "2026-11-20T01:51:04+00:00",
+      "event": "CDA approves over Rs22 billion wildlife park project in Islamabad",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "approves",
+        "billion",
+        "cda",
+        "dawn",
+        "islamabad",
+        "over",
+        "park",
+        "project",
+        "rs22",
+        "wildlife"
+      ],
+      "source_excerpt": "CDA approves over Rs22 billion wildlife park project in Islamabad Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRV9uSTRuX2dXN09Ua0tFS01nRWNTeDI1TjctS1VRLWV3c21EOEVRYVBNWDhYSUdNd2VMNGlxdzY1UGQwYUJ6UDF2WjhUUnZOLTk3LTBoNWtqRkhXcG5JV0dtb1NkVHpqZlVYbXBxM2R6bzlBalYzdFUzOUUzdnRSODZQYnp2WUJFQzVkT0c4T0VDMGJPQk9rWXo4YkQ1N1h4?oc=5",
+          "published_at": "2026-11-20T01:51:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRV9uSTRuX2dXN09Ua0tFS01nRWNTeDI1TjctS1VRLWV3c21EOEVRYVBNWDhYSUdNd2VMNGlxdzY1UGQwYUJ6UDF2WjhUUnZOLTk3LTBoNWtqRkhXcG5JV0dtb1NkVHpqZlVYbXBxM2R6bzlBalYzdFUzOUUzdnRSODZQYnp2WUJFQzVkT0c4T0VDMGJPQk9rWXo4YkQ1N1h4?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "38095265ab87b2a393329390",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:49:19+00:00",
+      "last_update": "2026-11-20T01:49:19+00:00",
+      "event": "SL gain lead but Pakistan inch closer to victory",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "but",
+        "closer",
+        "dawn",
+        "gain",
+        "inch",
+        "lead",
+        "pakistan",
+        "victory"
+      ],
+      "source_excerpt": "SL gain lead but Pakistan inch closer to victory Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHhhQmlPMnd5YjRkMGhIWmpYV1J1NUpqS3Z6Wks1SWU2dFQ0eEJacjRrV25xTDRTTlNFczU5Um8zdFRPaTJ4dS1oOFg1SklUMGVwMkYzXzNlRnc3ZkZjY2RJeGl0VzVVeGxJOFFMVkx2cWRleDRmQmdfT04tNzk0MXZ6S3ExaTc5dXc?oc=5",
+          "published_at": "2026-11-20T01:49:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHhhQmlPMnd5YjRkMGhIWmpYV1J1NUpqS3Z6Wks1SWU2dFQ0eEJacjRrV25xTDRTTlNFczU5Um8zdFRPaTJ4dS1oOFg1SklUMGVwMkYzXzNlRnc3ZkZjY2RJeGl0VzVVeGxJOFFMVkx2cWRleDRmQmdfT04tNzk0MXZ6S3ExaTc5dXc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a9a4a36f443c4a88ad689cfc",
+      "remembered_at": "2026-11-20T02:26:01.352630+00:00",
+      "event_date": "2026-11-20T01:50:02+00:00",
+      "last_update": "2026-11-20T01:50:02+00:00",
+      "event": "China’s used phones find new homes from Karachi to Algiers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "algiers",
+        "china",
+        "dawn",
+        "find",
+        "from",
+        "homes",
+        "karachi",
+        "new",
+        "phones",
+        "used"
+      ],
+      "source_excerpt": "China’s used phones find new homes from Karachi to Algiers Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS25EaV92bXNuZkd0RmRqakJsWTcxNW1PX3IwR2ZNaTB2Z3ZVcE1JZ2RpSElQRTBURVJqbVBqYXpRX2Qyd0xVdUlZR1Rpb1JySXZSVVdiOGJYYkk0RWw0UHJZc3cxZHJQOWdQOVJDd2hRR0pqdE1DZGU5WW1CQUwxZ2U4bjlaMzRLNW0wajJ5V0E4N3dUeXc?oc=5",
+          "published_at": "2026-11-20T01:50:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS25EaV92bXNuZkd0RmRqakJsWTcxNW1PX3IwR2ZNaTB2Z3ZVcE1JZ2RpSElQRTBURVJqbVBqYXpRX2Qyd0xVdUlZR1Rpb1JySXZSVVdiOGJYYkk0RWw0UHJZc3cxZHJQOWdQOVJDd2hRR0pqdE1DZGU5WW1CQUwxZ2U4bjlaMzRLNW0wajJ5V0E4N3dUeXc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T01:11:21.478115+00:00"
+  "updated_at": "2026-11-20T02:26:01.352630+00:00"
 }
