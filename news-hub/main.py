@@ -1526,6 +1526,62 @@ def write_posts(stories, size=8):
     return out
 
 
+
+def youtube_step(state, queue, t0):
+    """Queue only newly uploaded channel videos; first run seeds history without backfill."""
+    info = {"checked": 0, "new": [], "errors": [], "seeded": 0}
+    try:
+        videos, errors = yt.fetch_videos(UA)
+    except Exception as exc:
+        videos, errors = [], [str(exc)]
+    info["errors"], info["checked"] = errors, len(videos)
+    recent = [v for v in videos if v.get("channel") == "Adeel Raja"]
+    recent.sort(key=lambda v: v["ts"].timestamp() if v.get("ts") else 0, reverse=True)
+    if recent:
+        state["yt_recent"] = [{"title": v["title"], "link": v["link"]} for v in recent[:6]]
+    seen = state.get("yt_seen")
+    if not isinstance(seen, dict):
+        state["yt_seen"] = {v["video_id"]: iso(t0) for v in videos}
+        info["seeded"] = len(videos)
+        print(f"[youtube] seeded {len(videos)} existing uploads; no old video was posted")
+        return info
+    fresh = [v for v in videos if v["video_id"] not in seen]
+    for video in fresh:
+        seen[video["video_id"]] = iso(t0)
+    fresh = [v for v in fresh if v.get("ts") is None or t0 - v["ts"] <= timedelta(hours=YT_MAX_AGE_H)]
+    if not fresh:
+        return info
+    captions = {}
+    try:
+        result = gemini_json(yt.caption_prompt(fresh))
+        for row in (result.get("stories", []) if isinstance(result, dict) else []):
+            n, caption = row.get("n"), str(row.get("caption") or "").strip()
+            if isinstance(n, int) and 1 <= n <= len(fresh) and caption:
+                captions[n] = caption
+    except Exception as exc:
+        print(f"[youtube] AI caption unavailable; using factual template: {exc}")
+    queued = {str(item.get("qid")) for item in queue.get("items", [])}
+    for n, video in enumerate(fresh, 1):
+        qid = "yt-" + video["video_id"]
+        if qid in queued:
+            continue
+        caption = captions.get(n) or yt.fallback_caption(video)
+        if video["link"] not in caption:
+            caption = caption.rstrip() + "\n\n▶️ " + video["link"]
+        queue["items"].append({
+            "qid": qid, "type": "youtube", "status": "queued", "priority": "promo",
+            "created": iso(t0), "not_before": iso(t0), "attempts": 0, "caption": caption,
+            "category": "youtube", "headline": "[YouTube] " + video["title"],
+            "link": video["link"], "tokens": [], "title": video["title"],
+            "source_name": "Adeel Raja YouTube",
+            "meta": {"scores": {"composite": 100}, "channel": video["channel"],
+                     "youtube_description": video.get("description", "")}})
+        queued.add(qid)
+        info["new"].append(video)
+    print(f"[youtube] checked {info['checked']} feed entries; queued {len(info['new'])} new uploads")
+    return info
+
+
 def build_caption(story, w):
     parts = [str(w.get(k) or "").strip() for k in
              ("caption_opening", "summary_en", "summary_ur", "attribution_line")]
@@ -2051,6 +2107,7 @@ def main():
 
     # rolling pool of recent items so clusters keep their full coverage between runs
     new_items, stats = collect_new(state)
+    youtube_info = youtube_step(state, queue, t0)
     pool = [p for p in state.get("pool", [])
             if isinstance(p, dict) and p.get("id") and p.get("source") and p.get("kind")
             and p.get("title") and p.get("link") and valid_timestamp(p.get("ts"))
@@ -2119,7 +2176,7 @@ def main():
           f"(dups {dups}, unchanged {unchanged})")
 
     info = {"now": t0, "new_items": len(new_items), "pool": len(pool), "clusters": len(clusters), "dups": dups,
-            "unchanged": unchanged, "stats": stats, "trends_basis": trends_basis, "n_trends": len(trends),
+            "unchanged": unchanged, "stats": stats, "trends_basis": trends_basis, "n_trends": len(trends), "youtube": youtube_info,
             "queued_now": [], "queue": queue, "publish_note": "", "publisher": "facebook_posters_only"}
     gemini_ok = True
     depth = sum(1 for i in queue["items"] if i["status"] == "queued" and i["priority"] == "normal")
