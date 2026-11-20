@@ -90393,7 +90393,544 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e1964de9cf087ac3ffd43fea",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T13:27:22+00:00",
+      "last_update": "2026-11-20T14:31:17+00:00",
+      "event": "Naqvi announces all-Pakistan tri-series",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "announces",
+        "naqvi",
+        "pakistan",
+        "series",
+        "tri"
+      ],
+      "source_excerpt": "Naqvi announces all-Pakistan tri-series",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/naqvi-announces-all-pakistan-tri-series",
+          "published_at": "2026-11-20T13:27:22+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11ZzBBNEhXd0pBV0tGYXpnYl9haWVRRjZ6Sm1IWWRsZXVVcnZoYW9oS0p2MHd1V3lxamxzZ1Q0TlpLNkJYSE8zUjdycEpKTlBGRlh2dlAtcGtGQ2VvMzN5TVd6Y0RwbFZFZ1Y0TVFnMTA0Sko1bGJMVVY4WUzSAYQBQVVfeXFMT0xRRzE5QUZVSWJYRi1jWkd0RHg4THVjLUpzVzdiMjg0cmJ0ZUNYbEt1WmNBQXQzbU9zNmJ3ZHZFWk5tQm9wNnBZV0NxRjFEWUZGcU5ubGM3ZFc0UnBTTEVieThYQkFFZHY5QUFjbnlpOGlHekEzRTJpaGNiVV9hS3oybzN5?oc=5",
+          "published_at": "2026-11-20T14:31:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/naqvi-announces-all-pakistan-tri-series",
+        "publisher_url": "https://arynews.tv/naqvi-announces-all-pakistan-tri-series",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f663f7b11baab83fb5756e58",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T10:39:38+00:00",
+      "last_update": "2026-11-20T14:39:37+00:00",
+      "event": "Arrival of Oruc Reis marks new era of Pak-Turkiye strategic cooperation: Dar",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrival",
+        "cooperation",
+        "dar",
+        "era",
+        "marks",
+        "new",
+        "oruc",
+        "pak",
+        "reis",
+        "strategic",
+        "turkiye"
+      ],
+      "source_excerpt": "Arrival of Oruc Reis marks new era of Pak-Turkiye strategic cooperation: Dar",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/arrival-of-oruc-reis-marks-new-era-of-pak-turkiye-strategic-cooperation-dar",
+          "published_at": "2026-11-20T10:39:38+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWZPQk1SWTZ4Z2dfdFNiYVNZX09hUmZZVmNEZWlBVDZoai0yZWxKNFpfUDlCZ25GUk9qUEJHMW9IVy1jSklnRWR2OUFSb3JKZDNXdTRSZDNGNmh6Ynl6ajZicHMyU3U1MlFSbmF0N0NnNmVNUzJUM1l3U0VYVlBGcnNHZVBYQ0dycUZNc0ROR1JIelM4cnlKWGNWdEcwVHlhSHpkcW42N3ZCa2puQjR3?oc=5",
+          "published_at": "2026-11-20T14:39:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/arrival-of-oruc-reis-marks-new-era-of-pak-turkiye-strategic-cooperation-dar",
+        "publisher_url": "https://arynews.tv/arrival-of-oruc-reis-marks-new-era-of-pak-turkiye-strategic-cooperation-dar",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aac066f94a55e2075bbcdd0d",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T14:03:08+00:00",
+      "last_update": "2026-11-20T14:03:08+00:00",
+      "event": "Xi’s greatest power is what he chooses not to do",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "china",
+        "chooses",
+        "end",
+        "gaining",
+        "greatest",
+        "influence",
+        "not",
+        "power",
+        "putin",
+        "restraint",
+        "struggle",
+        "their",
+        "through",
+        "trump",
+        "wars",
+        "what"
+      ],
+      "source_excerpt": "As Trump and Putin struggle to end their wars, China is gaining influence through restraint.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss",
+          "published_at": "2026-11-20T14:03:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9a594a86b02da93667b5aabe",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T13:45:14+00:00",
+      "last_update": "2026-11-20T13:45:14+00:00",
+      "event": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activist",
+        "bail",
+        "breaking",
+        "chambers",
+        "court",
+        "fergie",
+        "grants",
+        "james",
+        "news",
+        "palestinian",
+        "pro",
+        "spain",
+        "story",
+        "this"
+      ],
+      "source_excerpt": "This is a breaking news story.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
+          "published_at": "2026-11-20T13:45:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "457b156e89a54c96aa5ef175",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T13:42:56+00:00",
+      "last_update": "2026-11-20T13:42:56+00:00",
+      "event": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "achieved",
+        "amid",
+        "analysts",
+        "and",
+        "are",
+        "but",
+        "global",
+        "how",
+        "increase",
+        "iran",
+        "ongoing",
+        "petrol",
+        "pledge",
+        "putin",
+        "sceptical",
+        "supplies",
+        "the",
+        "this",
+        "trump",
+        "ukraine",
+        "wars",
+        "will"
+      ],
+      "source_excerpt": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
+          "published_at": "2026-11-20T13:42:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "75dd0fdf6aebeb2b2ef42362",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T14:36:26+00:00",
+      "last_update": "2026-11-20T14:36:26+00:00",
+      "event": "Anthropic shares fall after blockbuster opening",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "also",
+        "anthropic",
+        "blockbuster",
+        "broadly",
+        "companies",
+        "fall",
+        "have",
+        "hit",
+        "markets",
+        "opening",
+        "other",
+        "share",
+        "shares",
+        "slump",
+        "taken",
+        "tech"
+      ],
+      "source_excerpt": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T14:36:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fc4d1e352028472a815a58b8",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T14:13:59+00:00",
+      "last_update": "2026-11-20T14:13:59+00:00",
+      "event": "Corruption vulnerabilities identified in govt institutions in bid to undertake ‘self-accountability’, says law minister",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accountability",
+        "assessment",
+        "azam",
+        "bid",
+        "comprehensive",
+        "corruption",
+        "could",
+        "create",
+        "federal",
+        "for",
+        "friday",
+        "government",
+        "govt",
+        "has",
+        "identified",
+        "institutions",
+        "law",
+        "maintained",
+        "message",
+        "minister",
+        "national",
+        "nazeer",
+        "opportunities",
+        "risk",
+        "said",
+        "says",
+        "self",
+        "survey",
+        "tarar",
+        "televised",
+        "ten",
+        "that",
+        "the",
+        "through",
+        "undertake",
+        "video",
+        "vulnerabilities",
+        "weaknesses"
+      ],
+      "source_excerpt": "The federal government has identified weaknesses that could create opportunities for corruption in ten institutions through a comprehensive ‘National Risk Assessment of Corruption Vulnerabilities’ survey, Law Minister Azam Nazeer Tarar said on Friday. In a televised video message, Tarar maintained t",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045925/corruption-vulnerabilities-identified-in-govt-institutions-in-bid-to-undertake-self-accountability-says-law-minister",
+          "published_at": "2026-11-20T14:13:59+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3JQYnRuT1ZrcGtYbmZ3ZXpiVzhNMm9PSzJILUd4TGpCbDhJWGhwUUx1NHQwMEtrUmlBVTkzVjZVVHl3eFM3MFQyRzRyLUp1ZW42RE93SFhsNTZuVHNRVEx4N3k0OWlWVzhZN05UUVVXS3o4UEVWY1o4RmgyNjE5X0Z0Z290dlpBRGZqRjRpbVdOWVowNEFhcF9NZzYxRlU4UEtaS2M0OVRuOWZGOHlTTk9ucDljVjB4b2xoaGpaaDN6S2dmY3paRF9oZ25JcUM4VzlPOE9STlljdHZES05CQTVUUFA?oc=5",
+          "published_at": "2026-11-20T14:13:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045925/corruption-vulnerabilities-identified-in-govt-institutions-in-bid-to-undertake-self-accountability-says-law-minister",
+        "publisher_url": "https://www.dawn.com/news/2045925/corruption-vulnerabilities-identified-in-govt-institutions-in-bid-to-undertake-self-accountability-says-law-minister",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d66c048112bc1460d00594e2",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T13:45:45+00:00",
+      "last_update": "2026-11-20T13:45:45+00:00",
+      "event": "Flour prices jump again in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "again",
+        "flour",
+        "jump",
+        "karachi",
+        "prices"
+      ],
+      "source_excerpt": "Flour prices jump again in Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/flour-prices-jump-again-in-karachi",
+          "published_at": "2026-11-20T13:45:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/flour-prices-jump-again-in-karachi",
+        "publisher_url": "https://arynews.tv/flour-prices-jump-again-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "09c6095c7e854f0e29b549be",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T12:41:48+00:00",
+      "last_update": "2026-11-20T12:41:48+00:00",
+      "event": "Pakistan’s High Commissioner Tipu Usman presents credentials to King Charles III",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "charles",
+        "commissioner",
+        "credentials",
+        "high",
+        "iii",
+        "king",
+        "pakistan",
+        "presents",
+        "samaa",
+        "tipu",
+        "usman"
+      ],
+      "source_excerpt": "Pakistan’s High Commissioner Tipu Usman presents credentials to King Charles III samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFg1QXhFVEN3WV95bkl6clk1cFdpbHh5ZHY3eWJCSThKZjlmVEJna1p0UmRZZDBFN2w3bHZndE52VG9zZXZKd3k3YzFLQ3FHNGgzYXJZOUR3bm51VllxTjR5LVlqRy1CYUE0VDl0bUIzOUpZbFhNTnBMMW9ocGNvWXhpN1B5SWlOV1luRE9oVjFFOFktRGhWMW1CRWNSdWx0UTNJOFptblRWSWxGcVY3VlYxS2JlQ2dWZHM3YkZqY1hsdHpx?oc=5",
+          "published_at": "2026-11-20T12:41:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFg1QXhFVEN3WV95bkl6clk1cFdpbHh5ZHY3eWJCSThKZjlmVEJna1p0UmRZZDBFN2w3bHZndE52VG9zZXZKd3k3YzFLQ3FHNGgzYXJZOUR3bm51VllxTjR5LVlqRy1CYUE0VDl0bUIzOUpZbFhNTnBMMW9ocGNvWXhpN1B5SWlOV1luRE9oVjFFOFktRGhWMW1CRWNSdWx0UTNJOFptblRWSWxGcVY3VlYxS2JlQ2dWZHM3YkZqY1hsdHpx?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d98baa527f0638f8040feeac",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T14:13:58+00:00",
+      "last_update": "2026-11-20T14:13:58+00:00",
+      "event": "Pakistan Shaheens begin campaign with 61-run win over UAE",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "begin",
+        "campaign",
+        "over",
+        "pakistan",
+        "run",
+        "shaheens",
+        "uae",
+        "win",
+        "with"
+      ],
+      "source_excerpt": "Pakistan Shaheens begin campaign with 61-run win over UAE",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-shaheens-begin-campaign-with-61-run-win-over-uae",
+          "published_at": "2026-11-20T14:13:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-shaheens-begin-campaign-with-61-run-win-over-uae",
+        "publisher_url": "https://arynews.tv/pakistan-shaheens-begin-campaign-with-61-run-win-over-uae",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4fe8e2123fb2b35293598236",
+      "remembered_at": "2026-11-20T14:41:36.450015+00:00",
+      "event_date": "2026-11-20T14:15:00+00:00",
+      "last_update": "2026-11-20T14:15:00+00:00",
+      "event": "Pakistan hold Jordan in AFC qualifiers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afc",
+        "express",
+        "hold",
+        "jordan",
+        "pakistan",
+        "qualifiers",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Pakistan hold Jordan in AFC qualifiers The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2hOQjhMMmlNdDJJTUhfOHpHT0dram45b2NLU3AtSEd3VndMM3p6b1VqUFhlaEZtUGNxNGw1SzZIeG1Ga1V4cTBQX3hqR0V5bTlVbDlucXM4VEVBeXJWWElJRTk5ajZyeFlvRks5N3cwWEZKa3d1elZVNTFZYUhiRdIBiAFBVV95cUxNVG9QRGxQQUdfcEM1V1MtcmFGb1J1MnVnSEZKbUtobjRMcUpyZV9XWkJ1UWx0Vm9aVmF0SGFXNlRYVk8wZk0wRDlPMkVCcHhjYzc4aXNqOGlwMVpXUS15ejNXbnJVbXZiZVQ4SXgyNzdMXzB5aVhTOTJUdVFvekdhaFpUYzBFclVy?oc=5",
+          "published_at": "2026-11-20T14:15:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2hOQjhMMmlNdDJJTUhfOHpHT0dram45b2NLU3AtSEd3VndMM3p6b1VqUFhlaEZtUGNxNGw1SzZIeG1Ga1V4cTBQX3hqR0V5bTlVbDlucXM4VEVBeXJWWElJRTk5ajZyeFlvRks5N3cwWEZKa3d1elZVNTFZYUhiRdIBiAFBVV95cUxNVG9QRGxQQUdfcEM1V1MtcmFGb1J1MnVnSEZKbUtobjRMcUpyZV9XWkJ1UWx0Vm9aVmF0SGFXNlRYVk8wZk0wRDlPMkVCcHhjYzc4aXNqOGlwMVpXUS15ejNXbnJVbXZiZVQ4SXgyNzdMXzB5aVhTOTJUdVFvekdhaFpUYzBFclVy?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T13:48:28.995951+00:00"
+  "updated_at": "2026-11-20T14:41:36.450015+00:00"
 }

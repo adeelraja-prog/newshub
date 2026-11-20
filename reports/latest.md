@@ -1,35 +1,35 @@
-# News Hub report - Fri 20 Nov, 06:48 PM PKT
+# News Hub report - Fri 20 Nov, 07:41 PM PKT
 
 ## Collection
-- New items this run: 159 | items in rolling pool: 805
-- Unique story clusters: 689 (duplicates merged: 116)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 11
-- Items per outlet: UrduPoint 69, Geo News 15, Al Jazeera 10, ProPakistani 10, samaa tv 9, ARY News 6, TechJuice 5, Dawn 3, Wired 3, Dawn Pakistan 2, Dawn Latest 2, The Guardian 2
+- New items this run: 49 | items in rolling pool: 731
+- Unique story clusters: 636 (duplicates merged: 95)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 10
+- Items per outlet: ProPakistani 8, Geo News 5, ARY News 5, Al Jazeera 5, Pakistan Today 3, samaa tv 2, The Express Tribune 2, TechJuice 2, The News International 1, Dawn Pakistan 1, Dawn 1, The Guardian 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Afghanistan not invited to ECO moot as Islamabad does not recognise Kabul regime: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Supreme Court of Pakistan receives international ISO certification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Naqvi announces all-Pakistan tri-series | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Spain face France, England take on Norway in Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Arrival of Oruc Reis marks new era of Pak-Turkiye strategic cooperation: Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Afghanistan not invited to ECO moot as Islamabad does not recognise Kabul regime: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Supreme Court of Pakistan receives international ISO certification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Naqvi announces all-Pakistan tri-series | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Spain face France, England take on Norway in Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Arrival of Oruc Reis marks new era of Pak-Turkiye strategic cooperation: Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Afghanistan not invited to ECO moot as Islamabad does not recognise Kabul regime: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Supreme Court of Pakistan receives international ISO certification | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Naqvi announces all-Pakistan tri-series | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Spain face France, England take on Norway in Nations League quarters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Arrival of Oruc Reis marks new era of Pak-Turkiye strategic cooperation: Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan condemns Houthi attacks on Riyadh, reaffirms backing for Saudi sovereignty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,110 +38,84 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling  [NORMAL]
-- Poster: میانমার اور چین کا آئی سی جے کے نسل کشی کے فیصلے پر اعتراض / Myanmar and China Object to ICJ Ruling | category politics
-- Alternative headline: Myanmar Government Rejects Non-Unanimous ICJ Genocide Decision
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: ICJ ruling, Myanmar, China, genocide, Rohingya, international court | hashtags: #ICJ #Myanmar #China #GenocideRuling #Rohingya
-- Scheduled: Fri 20 Nov, 06:48 PM PKT
-- Caption:
-```
-Myanmar and China have strongly criticized the International Court of Justice's recent ruling, calling the decision unjust and highlighting its lack of unanimity.
-
-A Myanmar government spokesperson has criticized the International Court of Justice's genocide ruling, describing the decision as unjust and pointing out that the verdict was not unanimous. China has also voiced objections against the ruling.
-
-میانমার کے حکومت کے ترجمان نے عالمی عدالت انصاف کے نسل کشی کے فیصلے کو غیر منصفانہ قرار دیتے ہوئے اس بات پر زور دیا ہے کہ عدالت کا فیصلہ متفقہ نہیں تھا۔ چین نے بھی اس فیصلے پر اعتراض ظاہر کیا ہے۔
-
-According to Al Jazeera
-
-#ICJ #Myanmar #China #GenocideRuling #Rohingya
-```
-
-### CDF Asim Munir Vows to Eradicate Terrorism in KP  [NORMAL]
-- Poster: آرمی چیف فیلڈ مارشل عاصم منیر کا کے پی میں دہشتگردی کے خاتمے کا عزم / CDF Munir Vows to Eliminate Terrorism in KP | category security
-- Alternative headline: Army Chief Reaffirms Resolve to Secure Khyber Pakhtunkhwa
+### PCB Chairman Mohsin Naqvi Announces All-Pakistan Tri-Series for December  [NORMAL]
+- Poster: پی سی بی کا دسمبر میں تمام پاکستانی ٹیموں کی ٹرائی سیریز کا اعلان / PCB Announces All-Pakistan Tri-Series in December | category sports
+- Alternative headline: Pakistan to Host Tri-Series Featuring National Team, Shaheens and U19 in December
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045881/on-north-waziristan-visit-cdf-munir-vows-to-eliminate-terrorism-preserve-peace-in-kp | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045881/on-north-waziristan-visit-cdf-munir-vows-to-eliminate-terrorism-preserve-peace-in-kp
-- Supporting coverage: Dawn Pakistan, Geo News, Geo News, Dawn
-- Keywords: Asim Munir, North Waziristan, terrorism, Khyber Pakhtunkhwa, ISPR, security forces | hashtags: #AsimMunir #NorthWaziristan #ISPR #KP #PakistanArmy
-- Scheduled: Fri 20 Nov, 06:58 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/naqvi-announces-all-pakistan-tri-series | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/naqvi-announces-all-pakistan-tri-series
+- Supporting coverage: ARY News, The Express Tribune
+- Keywords: tri-series, Mohsin Naqvi, PCB, Pakistan Shaheens, Peshawar, cricket | hashtags: #PCB #MohsinNaqvi #PakistanCricket #TriSeries #Peshawar
+- Scheduled: Fri 20 Nov, 07:41 PM PKT
 - Caption:
 ```
-Chief of Defence Forces Field Marshal Asim Munir visited North Waziristan, reaffirming the military's firm resolve to eliminate terrorism and maintain peace in Khyber Pakhtunkhwa.
+PCB Chairman Mohsin Naqvi announced an all-Pakistan tri-series featuring the senior team, Shaheens, and U19 to be held in December.
 
-During a visit to Miranshah in North Waziristan, Chief of Defence Forces and Army Staff Field Marshal Asim Munir reaffirmed the security forces' resolve to eliminate terrorism and preserve peace in Khyber Pakhtunkhwa in coordination with law enforcement agencies.
+Pakistan Cricket Board Chairman Mohsin Naqvi announced a tri-series involving the national team, Pakistan Shaheens, and the U19 team scheduled for December 2026. Speaking in Islamabad, Naqvi stated that Peshawar is being considered as a potential venue, with official dates to be finalized soon.
 
-شمالی وزیرستان کے دورے کے دوران آرمی چیف فیلڈ مارشل عاصم منیر نے قانون نافذ کرنے والے اداروں کے ساتھ مل کر خیبر پختونخوا سے دہشتگردی کے خاتمے اور امن کے استحکام کے عزم کا اعادہ کیا۔
+پاکستان کرکٹ بورڈ کے چیئرمین محسن نقوی نے دسمبر 2026 میں قومی ٹیم، پاکستان شاہینز اور انڈر 19 ٹیم پر مشتمل ٹرائی سیریز کا اعلان کر دیا ہے۔ اسلام آباد میں گفتگو کرتے ہوئے انہوں نے بتایا کہ پشاور کو ممکنہ مقام کے طور پر دیکھا جا رہا ہے اور تاریخوں کا حتمی اعلان جلد کیا جائے گا۔
 
-First reported by Dawn Pakistan
+First reported by ARY News
 
-#AsimMunir #NorthWaziristan #ISPR #KP #PakistanArmy
+#PCB #MohsinNaqvi #PakistanCricket #TriSeries #Peshawar
 ```
 
-### Afghanistan Excluded from ECO Moot Due to Non-Recognition  [NORMAL]
-- Poster: افغانستان کو ای سی او اجلاس میں دعوت نہیں دی گئی: دفتر خارجہ / Afghanistan Not Invited to ECO Moot: FO | category politics
-- Alternative headline: Foreign Office Confirms Afghanistan Not Invited to ECO Summit
+### Spain to Face France and England Take on Norway in Nations League Quarters  [NORMAL]
+- Poster: یوفا نیشنز لیگ کوارٹر فائنل: اسپین کا مقابلہ فرانس اور انگلینڈ کا ناروے سے ہوگا / Nations League Quarters: Spain Face France, England Play Norway | category sports
+- Alternative headline: UEFA Nations League Draw: Spain Drawn Against France, England Play Norway
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUnlJNFExdkY4MHhxa3lFaXVGbzc3ZEI1ekV6VGN2bUJSbnRhQlVCU3pKWVFGUHRySFQ3U0V3RDREZDNxNnRjT2w4dF9BeWxCLWlwTWMzTmRqN0l0M2hZMnAwc0k0LVJfV1loVU5BQVBoalRxUjRWdUhSS0M4Tnd5bmlsaVNmZFJ4aGU1SDZGSXB4LWFQOF9vOFJ5WDE2RFB5b2hWcHkyMmc3Q2FueVlESGdGUm0xdmRB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUnlJNFExdkY4MHhxa3lFaXVGbzc3ZEI1ekV6VGN2bUJSbnRhQlVCU3pKWVFGUHRySFQ3U0V3RDREZDNxNnRjT2w4dF9BeWxCLWlwTWMzTmRqN0l0M2hZMnAwc0k0LVJfV1loVU5BQVBoalRxUjRWdUhSS0M4Tnd5bmlsaVNmZFJ4aGU1SDZGSXB4LWFQOF9vOFJ5WDE2RFB5b2hWcHkyMmc3Q2FueVlESGdGUm0xdmRB?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: ECO moot, Afghanistan, Foreign Office, Islamabad, Kabul regime, ECO | hashtags: #ECO #Afghanistan #ForeignOffice #Islamabad #Diplomacy
-- Scheduled: Fri 20 Nov, 07:08 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/spain-face-france-england-take-on-norway-in-nations-league-quarters | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/spain-face-france-england-take-on-norway-in-nations-league-quarters
+- Supporting coverage: ARY News, Al Jazeera
+- Keywords: Nations League, Spain, France, England, Norway, quarter-finals | hashtags: #NationsLeague #SpainVsFrance #EnglandVsNorway #Football #UEFA
+- Scheduled: Fri 20 Nov, 07:51 PM PKT
 - Caption:
 ```
-Pakistan's Foreign Office confirmed that Afghanistan was not invited to the Economic Cooperation Organization moot because Islamabad does not recognize the Kabul regime.
+World champions Spain will face France while England take on Norway in the UEFA Nations League quarter-finals following Friday's draw.
 
-Afghanistan was not invited to the Economic Cooperation Organization (ECO) ministerial meeting in Islamabad because Pakistan does not officially recognize the Kabul regime, the Foreign Office confirmed.
+World champions Spain were drawn against France and England will play Norway in the quarter-finals of the UEFA Nations League following the draw held on Friday. The two-legged ties will be played in late March. Other quarter-final matches pit Portugal against the Netherlands and Belgium against Germany.
 
-دفتر خارجہ نے تصدیق کی ہے کہ افغانستان کو اقتصادی تعاون تنظیم (ای سی او) کے اجلاس میں اس لیے مدعو نہیں کیا گیا کیونکہ اسلام آباد کابل کی حکومت کو تسلیم نہیں کرتا۔
+جمعہ کو ہونے والی قرعہ اندازی کے بعد یوفا نیشنز لیگ کے کوارٹر فائنلز میں عالمی چیمپئن اسپین کا مقابلہ فرانس سے ہوگا جبکہ انگلینڈ کی ٹیم ناروے کے خلاف مدمقابل آئے گی۔ یہ میچز مارچ کے آخر میں کھیلے جائیں گے۔ دیگر مقابلوں میں پرتگال کا سامنا نیدر لینڈز اور بیلجیم کا جرمنی سے ہوگا۔
 
-First reported by Dawn
+First reported by ARY News; also reported by Al Jazeera
 
-#ECO #Afghanistan #ForeignOffice #Islamabad #Diplomacy
+#NationsLeague #SpainVsFrance #EnglandVsNorway #Football #UEFA
 ```
 
-### Supreme Court of Pakistan Receives International ISO Certification  [NORMAL]
-- Poster: سپریم کورٹ آف پاکستان نے بین الاقوامی آئی ایس او سرٹیفیکیشن حاصل کر لیا / Supreme Court Gets ISO Certification | category courts
-- Alternative headline: Supreme Court Achieves ISO 9001:2015 Quality Management Certification
+### Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperation, Says Dar  [NORMAL]
+- Poster: اوروچ رئیس کی آمد پاک ترک اسٹریٹیجک تعاون کے نئے دور کا آغاز ہے، اسحاق ڈار / Arrival of Oruc Reis Marks New Era of Pak-Turkiye Ties: Dar | category other
+- Alternative headline: Oruc Reis Vessel Arrival Ushers in New Energy Partnership with Turkiye: Ishaq Dar
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlpsLWRTWldramZkRU1zNUV6MlNpaEktMWJ1aDhoN2k2Tl9qbmtSN0tFdjhQUFZEWTJ2ZTRGdzZacmpLMnRaVTgyQy1sTFIyQ2hxbXgxUjFmenlFOFdETzF0ZUFlVFlhRl9aN3NYUlpoTEY5YkhYSGp1R2cwaEd1MWF3NlJ0NEVxdXJ2N2kxdjNCanduYnJ6TXp2Qm9jaDBlTlBfcl9PWlpBdVRlcWJtbHd3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlpsLWRTWldramZkRU1zNUV6MlNpaEktMWJ1aDhoN2k2Tl9qbmtSN0tFdjhQUFZEWTJ2ZTRGdzZacmpLMnRaVTgyQy1sTFIyQ2hxbXgxUjFmenlFOFdETzF0ZUFlVFlhRl9aN3NYUlpoTEY5YkhYSGp1R2cwaEd1MWF3NlJ0NEVxdXJ2N2kxdjNCanduYnJ6TXp2Qm9jaDBlTlBfcl9PWlpBdVRlcWJtbHd3?oc=5
-- Supporting coverage: X, samaa tv
-- Keywords: Supreme Court, ISO certification, Pakistan, quality management,  judiciary | hashtags: #SupremeCourt #ISOCertification #Pakistan #Judiciary
-- Scheduled: Fri 20 Nov, 07:18 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/arrival-of-oruc-reis-marks-new-era-of-pak-turkiye-strategic-cooperation-dar | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/arrival-of-oruc-reis-marks-new-era-of-pak-turkiye-strategic-cooperation-dar
+- Supporting coverage: ARY News, Geo News
+- Keywords: Oruc Reis, Ishaq Dar, Pak-Turkiye cooperation, energy sector, Karachi, scientific research | hashtags: #Pakistan #Turkiye #IshaqDar #OrucReis #StrategicCooperation
+- Scheduled: Fri 20 Nov, 08:01 PM PKT
 - Caption:
 ```
-The Supreme Court of Pakistan has achieved international recognition by securing ISO certification for its quality management systems.
+Deputy Prime Minister Ishaq Dar hailed the arrival of Turkish research vessel Oruc Reis as a milestone in bilateral energy and scientific cooperation.
 
-The Supreme Court of Pakistan has been awarded international ISO certification for its quality management systems following a successful assessment against recognized global standards.
+Deputy Prime Minister and Foreign Minister Ishaq Dar stated that the arrival of the Turkish seismic research vessel Oruc Reis marks a new chapter in scientific research and strategic cooperation between Pakistan and Turkiye. Speaking at a welcome ceremony in Karachi, Dar emphasized both nations' commitment to building a long-term energy partnership.
 
-سپریم کورٹ آف پاکستان نے بین الاقوامی معیار کے مطابق اپنے نظام کو بہتر بناتے ہوئے آئی ایس او سرٹیفیکیشن حاصل کر لیا ہے۔
+نائب وزیر اعظم اور وزیر خارجہ اسحاق ڈار نے کہا ہے کہ ترک بحری جہاز اوروچ رئیس کی آمد پاکستان اور ترکیہ کے درمیان سائنسی تحقیق اور اسٹریٹیجک تعاون کے نئے باب کا آغاز ہے۔ کراچی میں استقبالیہ تقریب سے خطاب کرتے ہوئے انہوں نے توانائی کے شعبے میں طویل مدتی شراکت داری کے عزم کا اعادہ کیا۔
 
-First reported by samaa tv
+First reported by ARY News; also reported by Geo News
 
-#SupremeCourt #ISOCertification #Pakistan #Judiciary
+#Pakistan #Turkiye #IshaqDar #OrucReis #StrategicCooperation
 ```
 
-- Indian outlets blocked this run: 11 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
-- [needs_review] normal | Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second | Tue 17 Nov, 01:00 PM PKT
-- [needs_review] normal | Pakistan condemns Israeli attacks in Syria, calls for withdrawal from  | Tue 17 Nov, 01:10 PM PKT
 - [needs_review] normal | Leonid meteor shower 2026: When and where to see it from where you liv | Tue 17 Nov, 02:05 PM PKT
 - [needs_review] normal | Oil slips as recovering Mideast exports blunt Gulf tensions | Tue 17 Nov, 02:15 PM PKT
 - [needs_review] normal | NDMA issues drought high alert for Sindh | Tue 17 Nov, 02:58 PM PKT
@@ -348,9 +322,9 @@ First reported by samaa tv
 - [needs_review] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
 - [published] normal | Pakistan conquer Sri Lanka by eight wickets to seal Test series | Fri 20 Nov, 12:58 PM PKT
 - [published] normal | Daily Editorial Cartoon for November 20, 2026 | Fri 20 Nov, 01:08 PM PKT
-- [queued] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
-- [queued] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
-- [queued] normal | Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026 | Fri 20 Nov, 02:00 PM PKT
+- [needs_review] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
+- [needs_review] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
+- [published] normal | Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026 | Fri 20 Nov, 02:00 PM PKT
 - [queued] normal | NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Launderi | Fri 20 Nov, 02:10 PM PKT
 - [queued] normal | Trump Ousts US Cyber Director After Tech Outages Spark Criticism | Fri 20 Nov, 02:20 PM PKT
 - [queued] normal | Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case | Fri 20 Nov, 02:30 PM PKT
@@ -368,12 +342,18 @@ First reported by samaa tv
 - [queued] normal | CDF Asim Munir Vows to Eradicate Terrorism in KP | Fri 20 Nov, 06:58 PM PKT
 - [queued] normal | Afghanistan Excluded from ECO Moot Due to Non-Recognition | Fri 20 Nov, 07:08 PM PKT
 - [queued] normal | Supreme Court of Pakistan Receives International ISO Certification | Fri 20 Nov, 07:18 PM PKT
+- [queued] normal | PCB Chairman Mohsin Naqvi Announces All-Pakistan Tri-Series for Decemb | Fri 20 Nov, 07:41 PM PKT
+- [queued] normal | Spain to Face France and England Take on Norway in Nations League Quar | Fri 20 Nov, 07:51 PM PKT
+- [queued] normal | Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperatio | Fri 20 Nov, 08:01 PM PKT
 
 ## Publishing this run
-- Published 'Daily Editorial Cartoon for November 20, 2026'.
+- Published 'Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5847 | output tokens: 2039
+- Calls: 3 | prompt tokens: 4709 | output tokens: 2653
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
