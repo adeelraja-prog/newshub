@@ -92966,7 +92966,360 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2e36411b39c4bc2e88cebe88",
+      "remembered_at": "2026-11-20T19:46:54.016412+00:00",
+      "event_date": "2026-11-20T19:24:26+00:00",
+      "last_update": "2026-11-20T19:24:26+00:00",
+      "event": "Nepal cricket fans celebrate their team’s global rise",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "celebrate",
+        "cricket",
+        "fans",
+        "fortunes",
+        "global",
+        "have",
+        "national",
+        "nepal",
+        "recent",
+        "rise",
+        "team",
+        "their",
+        "transformation",
+        "witnessed",
+        "years"
+      ],
+      "source_excerpt": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
+          "published_at": "2026-11-20T19:24:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b5ea894132e2d0b378114ee1",
+      "remembered_at": "2026-11-20T19:46:54.016412+00:00",
+      "event_date": "2026-11-20T19:15:18+00:00",
+      "last_update": "2026-11-20T19:15:18+00:00",
+      "event": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aleksandar",
+        "and",
+        "assaulting",
+        "belgrade",
+        "caused",
+        "charged",
+        "councillor",
+        "facial",
+        "female",
+        "injuries",
+        "mayor",
+        "opposition",
+        "politician",
+        "prosecutors",
+        "sapic",
+        "say",
+        "seek",
+        "sentence",
+        "serbia",
+        "serious",
+        "three",
+        "with",
+        "year"
+      ],
+      "source_excerpt": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+          "published_at": "2026-11-20T19:15:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cc37b8f795b39a367d2e682f",
+      "remembered_at": "2026-11-20T19:46:54.016412+00:00",
+      "event_date": "2026-11-20T18:51:26+00:00",
+      "last_update": "2026-11-20T18:51:26+00:00",
+      "event": "Former US national security adviser confronted by students on Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adviser",
+        "confronted",
+        "during",
+        "event",
+        "former",
+        "gaza",
+        "jake",
+        "mit",
+        "national",
+        "protesters",
+        "security",
+        "speaking",
+        "student",
+        "students",
+        "sullivan",
+        "was"
+      ],
+      "source_excerpt": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+          "published_at": "2026-11-20T18:51:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9755190422dee2b919ab9787",
+      "remembered_at": "2026-11-20T19:46:54.016412+00:00",
+      "event_date": "2026-11-20T18:43:37+00:00",
+      "last_update": "2026-11-20T18:43:37+00:00",
+      "event": "Swimming lessons offer Gaza’s children a moment of relief",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "along",
+        "children",
+        "coast",
+        "finding",
+        "for",
+        "from",
+        "gathered",
+        "gaza",
+        "lessons",
+        "moment",
+        "offer",
+        "palestinian",
+        "psychological",
+        "relief",
+        "swimming",
+        "the",
+        "toll",
+        "war"
+      ],
+      "source_excerpt": "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+          "published_at": "2026-11-20T18:43:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8fc0185d9827c4bf74bd9fb7",
+      "remembered_at": "2026-11-20T19:46:54.016412+00:00",
+      "event_date": "2026-11-20T18:37:35+00:00",
+      "last_update": "2026-11-20T18:43:21+00:00",
+      "event": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ally",
+        "and",
+        "bridge",
+        "communications",
+        "declares",
+        "europe",
+        "hit",
+        "its",
+        "kerch",
+        "needs",
+        "one",
+        "own",
+        "putin",
+        "rise",
+        "russia",
+        "strikes",
+        "tech",
+        "tensions",
+        "the",
+        "ukraine",
+        "uses",
+        "weapons"
+      ],
+      "source_excerpt": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+          "published_at": "2026-11-20T18:37:35+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDNGX09hZ1Rsc0xUZjJ4N2RNUnNoSzltckFEdFliVmVidUk0WlFZTWlibzZUM1RZS2Njb2NleE5fVFBsRzFOd1Z6LVdqdFZIRUotV2ZKbmNCVVFpaVRQYUJpVG1FQzVUZm5KSGVvRVpkU0RBbmJraWVWcmlIODYyNDZIbVd0TU1BOUFabEc4SlhYRUdNWXRhaGFhcVB6UUZ5bFJEbWNtaUZQUdIBrwFBVV95cUxPdWRKbTVTZ0FJVFY2LW44Qk5RemZaVG5ieGF0aDIzX1ZiR1piR1ZBMmRCMmQwQXNGSGpNd0J6Wk5xUlF0NzVua0k2WDJVOUJ6LUFIenpoajNNQnJaTk0wTncwcmozazU1elJoNk8yRi05dkdTS2piNjEtTzBMcmtnYm81Y2VJRk1LTlNvWmZoaHdRSUZoRnh6cDNBNTYwSUR3dTk4VnN0X1ZfVmVwOGxR?oc=5",
+          "published_at": "2026-11-20T18:43:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c6c85a36ceeb2452b14f54dc",
+      "remembered_at": "2026-11-20T19:46:54.016412+00:00",
+      "event_date": "2026-11-20T18:50:34+00:00",
+      "last_update": "2026-11-20T18:50:34+00:00",
+      "event": "Samar Bilour reveals how KP saw 80% terrorism drop in 5 weeks",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ary",
+        "bilour",
+        "drop",
+        "how",
+        "news",
+        "pakistan",
+        "reveals",
+        "samar",
+        "saw",
+        "terrorism",
+        "weeks"
+      ],
+      "source_excerpt": "Samar Bilour reveals how KP saw 80% terrorism drop in 5 weeks ARY News Pakistan",
+      "sources": [
+        {
+          "name": "ARY News Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnpCWndNNmpLQ2dud29TQVJibmtyRENnU1NheS1RajVhU2tyaktIRzlocWphZUkyUWktTmdsR3pjMUJFMlRqR0pETExPWGpsZllFa3V3WlNfbEVKeFcxaDdCVHNhYmF4UVZmcFJsRTJLTkcyQ0xFRkM0VXhXYk96S2g4b1o5dw?oc=5",
+          "published_at": "2026-11-20T18:50:34+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/samar-bilour-reveals-how-kp-saw-80-terrorism-drop-in-5-weeks",
+          "published_at": "2026-11-20T18:50:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News Pakistan",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnpCWndNNmpLQ2dud29TQVJibmtyRENnU1NheS1RajVhU2tyaktIRzlocWphZUkyUWktTmdsR3pjMUJFMlRqR0pETExPWGpsZllFa3V3WlNfbEVKeFcxaDdCVHNhYmF4UVZmcFJsRTJLTkcyQ0xFRkM0VXhXYk96S2g4b1o5dw?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2724cbc084972bc1848a223d",
+      "remembered_at": "2026-11-20T19:46:54.016412+00:00",
+      "event_date": "2026-11-20T19:21:34+00:00",
+      "last_update": "2026-11-20T19:21:34+00:00",
+      "event": "Naya Pakistan - 20th November 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "20th",
+        "geo",
+        "naya",
+        "news",
+        "november",
+        "pakistan"
+      ],
+      "source_excerpt": "Naya Pakistan - 20th November 2026 Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1FEX0ZnaVY3RFROX3FOY3h6a3kwaHZ6c0x3T0tHbnR3bmZZWEZidVhnR0VxV05ZR05CVHg2RGMxTW5GUzJBc0JvYW44UXYwNmNVWkRyY2tJeFhtemFuUzFFZ29GVjFBQXo4am43eVdfcUEzWUJrT01NS0tkZzhHMGxvT1A?oc=5",
+          "published_at": "2026-11-20T19:21:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1FEX0ZnaVY3RFROX3FOY3h6a3kwaHZ6c0x3T0tHbnR3bmZZWEZidVhnR0VxV05ZR05CVHg2RGMxTW5GUzJBc0JvYW44UXYwNmNVWkRyY2tJeFhtemFuUzFFZ29GVjFBQXo4am43eVdfcUEzWUJrT01NS0tkZzhHMGxvT1A?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T18:42:36.330531+00:00"
+  "updated_at": "2026-11-20T19:46:54.016412+00:00"
 }

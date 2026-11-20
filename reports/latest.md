@@ -1,143 +1,146 @@
-# News Hub report - Fri 20 Nov, 11:42 PM PKT
+# News Hub report - Sat 21 Nov, 12:46 AM PKT
 
 ## Collection
-- New items this run: 56 | items in rolling pool: 645
-- Unique story clusters: 560 (duplicates merged: 85)
-- Clusters dropped as already published/queued: 19; unchanged since last analysis: 4
-- Items per outlet: Pakistan Today 6, Geo News 5, ARY News 5, samaa tv 4, X 3, Profit by Pakistan Today 3, Dawn Latest 2, Al Jazeera 2, Aaj English TV 2, The Verge 2, Engadget 2, BBC World 2
+- New items this run: 102 | items in rolling pool: 613
+- Unique story clusters: 535 (duplicates merged: 78)
+- Clusters dropped as already published/queued: 22; unchanged since last analysis: 2
+- Items per outlet: UrduPoint 55, Al Jazeera 8, Geo News 7, ARY News 4, The Verge 3, Engadget 2, ProPakistani 2, Pakistan Today 2, Bloomberg.com 2, ARY News Pakistan 1, The News International 1, Dawn Latest 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Petrol price reduced by Re1 per litre; diesel increased by Rs2 per litre | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CTD, police kill three terrorists in Kohat division | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Petrol price reduced by Re1 per litre; diesel increased by Rs2 per litre | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CTD, police kill three terrorists in Kohat division | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Petrol price reduced by Re1 per litre; diesel increased by Rs2 per litre | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- EU and UK seal reset deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Youth-led strikes sweep Europe as students protest rising cost of living and war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CTD, police kill three terrorists in Kohat division | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 115/120 | empty: 2 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Punjab Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Top US Democrat Warns Trump Administration Against Destroying Official Records  [NORMAL]
-- Poster: امریکی ڈیموکریٹ رہنما کی ٹرمپ انتظامیہ کو سرکاری ریکارڈ تلف کرنے پر سخت تنبیہ / US Democrat warns Trump administration over destroying records | category us_politics
-- Alternative headline: Congressman Raskin Accuses US Officials of Ignoring Federal Recordkeeping Laws
+### Belgrade Mayor Faces Three-Year Sentence for Alleged Assault  [NORMAL]
+- Poster: بلغراد کے میئر پر خاتون کونسلر پر حملے کا مقدمہ درج / Belgrade Mayor Charged With Assault | category politics
+- Alternative headline: Serbian Prosecutors Seek Prison Term for Belgrade Mayor
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Trump administration, Jamie Raskin, US government, recordkeeping laws, Democrat, records | hashtags: #USPolitics #TrumpAdministration #JamieRaskin #USNews
-- Scheduled: Fri 20 Nov, 11:42 PM PKT
+- Keywords: Belgrade mayor, Aleksandar Sapic, Serbia assault, councillor, prosecutors | hashtags: #Belgrade #Serbia #Politics #Assault
+- Scheduled: Sat 21 Nov, 12:46 AM PKT
 - Caption:
 ```
-Congressman Jamie Raskin has issued a sharp warning to US government officials, accusing them of violating federal recordkeeping laws.
+Prosecutors in Serbia are seeking a three-year prison sentence for Belgrade Mayor Aleksandar Sapic following an alleged assault on a female councillor.
 
-In a new letter, US Congressman Jamie Raskin warned officials in the administration that they are ignoring federal recordkeeping laws, raising concerns over transparency and compliance with legal standards.
+Belgrade Mayor Aleksandar Sapic has been charged by prosecutors with causing serious facial injuries to a female councillor. Authorities are seeking a three-year prison sentence following the alleged assault in Serbia.
 
-ایک نئے خط میں امریکی کانگریس مین جیمی راسکن نے انتظامیہ کے حکام کو خبردار کیا ہے کہ وہ وفاقی ریکارڈ رکھنے کے قوانین کو نظر انداز کر رہے ہیں، جس سے شفافیت اور قانونی معیارات پر عمل درآمد کے حوالے سے خدشات پیدا ہو گئے ہیں۔
+بلغراد کے میئر الیگزینڈر ساپچ پر خاتون کونسلر کو شدید چہرے کی چوٹیں پہنچانے کے الزام میں مقدمہ درج کیا گیا ہے۔ استغاثہ سربیا میں مبینہ حملے کے بعد تین سال قید کی سزا کا مطالبہ کر رہا ہے۔
 
-According to Al Jazeera
+First reported by Al Jazeera
 
-#USPolitics #TrumpAdministration #JamieRaskin #USNews
+#Belgrade #Serbia #Politics #Assault
 ```
 
-### Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2  [NORMAL]
-- Poster: حکومت نے پیٹرول کی قیمت میں ایک روپے کمی اور ڈیزل دو روپے مہنگا کر دیا / Govt cuts petrol price by Re1, raises diesel by Rs2 | category economy
-- Alternative headline: OGRA Notifies New Fuel Prices: Petrol at Rs322 and Diesel at Rs357
+### Indian Man Sentenced to Over 19 Years in US Assassination Plot  [NORMAL]
+- Poster: امریکی سکھ رہنما کے قتل کی سازش میں بھارتی شہری کو سزا / Indian Man Sentenced in US Plot | category crime
+- Alternative headline: US Court Sentences Indian National in Sikh Separatist Murder Plot
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE45al9WaFg3Q25ScnRCQ2hPSGZ3VE1YQlhIaDFtbFhkWlJTNzRHWXlFZ0ptUm1fVW4tUkF3cFFSSVVSeGs1djlPX1ZLT05vVXJLLWdoYWV1QVUxWUE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE45al9WaFg3Q25ScnRCQ2hPSGZ3VE1YQlhIaDFtbFhkWlJTNzRHWXlFZ0ptUm1fVW4tUkF3cFFSSVVSeGs1djlPX1ZLT05vVXJLLWdoYWV1QVUxWUE?oc=5
+- Supporting coverage: BBC, BBC World, Al Jazeera
+- Keywords: assassination plot, Sikh separatist, US court, Indian man, sentenced | hashtags: #US #Crime #Court #SikhSeparatist
+- Scheduled: Sat 21 Nov, 12:56 AM PKT
+- Caption:
+```
+An Indian man has been sentenced to more than 19 years in prison over a thwarted plot to assassinate a US-based Sikh separatist leader.
+
+An Indian man has been handed a prison sentence of over 19 years following his involvement in a plot to assassinate a US-based Sikh separatist leader. The case highlights international security concerns regarding transnational threats.
+
+امریکہ میں مقیم سکھ علیحدگی پسند رہنما کو قتل کرنے کی ناکام سازش میں ایک بھارتی شہری کو 19 سال سے زائد قید کی سزا سنا دی گئی ہے۔
+
+First reported by BBC
+
+#US #Crime #Court #SikhSeparatist
+```
+
+### Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Reveals  [NORMAL]
+- Poster: پاکستان پر ایک سال میں 94 لاکھ سے زائد سائبر حملے / 9.4M Cyberattacks Hit Pakistan | category tech
+- Alternative headline: Kaspersky Reports 9.4 Million Cyberattacks Targeted Pakistan Within One Year
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2045935/petrol-price-reduced-by-re1-per-litre-diesel-increased-by-rs2-per-litre | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2045935/petrol-price-reduced-by-re1-per-litre-diesel-increased-by-rs2-per-litre
-- Supporting coverage: Aaj English TV, Dawn Latest, samaa tv, Profit by Pakistan Today, The Nation (Pakistan ), Bol News
-- Keywords: petrol price, diesel, OGRA, Ishaq Dar, fuel price Pakistan, petroleum levy | hashtags: #PetrolPrice #PakistanEconomy #OGRA #DieselPrice #Inflation
-- Scheduled: Fri 20 Nov, 11:52 PM PKT
+- Original source: published_report - ARY News Pakistan https://news.google.com/rss/articles/CBMifkFVX3lxTE5yMUYxLXA0emxOTlNuMVlZaUszck9qZUxyaUNQOEYzUjg0QmJaNTNtWEx3ZFh0Qk5ZYnJ2Y3ppNWpHb2xFNVpqRVp6OXI5ZGJ5WGxVaGw3ZG40Z0hzVXNPUEJuMWMxT2E2MVdoMmtweHRYaFZsR3JHNG9oejEtZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News Pakistan https://news.google.com/rss/articles/CBMifkFVX3lxTE5yMUYxLXA0emxOTlNuMVlZaUszck9qZUxyaUNQOEYzUjg0QmJaNTNtWEx3ZFh0Qk5ZYnJ2Y3ppNWpHb2xFNVpqRVp6OXI5ZGJ5WGxVaGw3ZG40Z0hzVXNPUEJuMWMxT2E2MVdoMmtweHRYaFZsR3JHNG9oejEtZw?oc=5
+- Supporting coverage: TechJuice, ARY News Pakistan, ARY News
+- Keywords: cyberattacks, Kaspersky, Pakistan tech, digital security, cyber threats | hashtags: #Cybersecurity #Pakistan #Kaspersky #TechNews
+- Scheduled: Sat 21 Nov, 01:06 AM PKT
 - Caption:
 ```
-The government has announced a slight revision in fuel prices, reducing petrol by Re1 while increasing diesel by Rs2 per litre.
+Global cybersecurity firm Kaspersky has revealed that Pakistan was targeted by 9.4 million cyberattacks over the course of a single year.
 
-The government reduced the price of petrol by Re1 per litre to Rs322 while increasing high-speed diesel by Rs2 to Rs357 per litre, following an OGRA notification. Officials emphasized ongoing efforts to ease financial burdens despite heavy taxes.
+New data from cybersecurity firm Kaspersky shows that Pakistan experienced 9.4 million cyberattacks within a single year. The findings underscore growing digital security vulnerabilities and the urgent need for enhanced cyber defenses across national networks and institutions.
 
-اوگرا کے نوٹیفکیشن کے مطابق حکومت نے پیٹرول کی قیمت میں ایک روپیہ فی لیٹر کمی کر کے اسے 322 روپے جبکہ ہائی اسپیڈ ڈیزل کی قیمت دو روپے بڑھا کر 357 روپے فی لیٹر کر دی ہے۔ حکام نے مالی بوجھ کم کرنے کے عزم کا اعادہ کیا ہے۔
+قومی اور بین الاقوامی سائبر سیکیورٹی ادارے کیسپرسکی کے انکشاف کے مطابق پاکستان کو ایک سال کے دوران 9.4 ملین سائبر حملوں کا سامنا کرنا پڑا۔ یہ اعداد و شمار ملک میں ڈیجیٹل سیکیورٹی کے خطرات کو اجاگر کرتے ہیں۔
 
-First reported by Dawn Latest; also reported by Aaj English TV, samaa tv, Profit by Pakistan Today, The Nation (Pakistan ), Bol News
+First reported by ARY News Pakistan
 
-#PetrolPrice #PakistanEconomy #OGRA #DieselPrice #Inflation
+#Cybersecurity #Pakistan #Kaspersky #TechNews
 ```
 
-### EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit  [NORMAL]
-- Poster: برطانیہ اور یورپی یونین کے درمیان تعلقات کی بحالی کا تاریخی معاہدہ طے پا گیا / EU and UK seal landmark post-Brexit reset deal | category world
-- Alternative headline: Britain and European Union Agree on Landmark Deal to Rebuild Ties
+### New York City Plans to Close Notorious Rikers Island by 2032  [NORMAL]
+- Poster: نیویارک کا ریکرز آئی لینڈ جیل 2032 تک بند کرنے کا اعلان / NYC to Close Rikers Island by 2032 | category politics
+- Alternative headline: Mamdani Unveils Proposal to Shut Down NYC Rikers Island Jail
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera, BBC Business, Geo News, BBC World
-- Keywords: EU UK deal, Brexit reset, Brussels summit, UK EU relations, landmark deal | hashtags: #EUK #BrexitReset #BrusselsSummit #WorldNews
-- Scheduled: Sat 21 Nov, 12:02 AM PKT
+- Original source: published_report - The News International https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlV6OHhsamhScDBGVk5rSTNabVhqNS10YnVneGkxUlMxN2ZKMXBORlFaS2tPaXhrQUtMSGpjX1ZwRm5XaTJ3VHBwTjJxMTQ1NjdpUm0tRW9heGF5bGtZcndxb3Z1NE9hY2ZMYnlXTXBjWWpkVGJ2ZDc4Q09raVFZZGwtSU9vT09IRXM0U1FQVDdtZE1zWGd3TVJESktzUmtFbjBCXzBSWnFSQWI0VVhOQ2lUNzbSAbABQVVfeXFMUGRrd0NyMnZmODZvYjlWVWt5bEpvTWdBYnI3eE1lUFJ1NG5LQnNuY184R1BtZDZGN2MzcTlFbXJmMjRaeTFMZzVrLXVNV1VReEMtN0pwSGNsdXpWNU9ndFA4eWMySjNSWkJBaHJUQ083blZPMXI0OUp3Y2RvNjNoLVRpanU3MF9aNDFwaGtZTFBXd0JXa3dnMzhDTGtWTks0d3FTTlVJNmZTb2V5c3FwY2Y?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The News International https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlV6OHhsamhScDBGVk5rSTNabVhqNS10YnVneGkxUlMxN2ZKMXBORlFaS2tPaXhrQUtMSGpjX1ZwRm5XaTJ3VHBwTjJxMTQ1NjdpUm0tRW9heGF5bGtZcndxb3Z1NE9hY2ZMYnlXTXBjWWpkVGJ2ZDc4Q09raVFZZGwtSU9vT09IRXM0U1FQVDdtZE1zWGd3TVJESktzUmtFbjBCXzBSWnFSQWI0VVhOQ2lUNzbSAbABQVVfeXFMUGRrd0NyMnZmODZvYjlWVWt5bEpvTWdBYnI3eE1lUFJ1NG5LQnNuY184R1BtZDZGN2MzcTlFbXJmMjRaeTFMZzVrLXVNV1VReEMtN0pwSGNsdXpWNU9ndFA4eWMySjNSWkJBaHJUQ083blZPMXI0OUp3Y2RvNjNoLVRpanU3MF9aNDFwaGtZTFBXd0JXa3dnMzhDTGtWTks0d3FTTlVJNmZTb2V5c3FwY2Y?oc=5
+- Supporting coverage: The News International, Al Jazeera
+- Keywords: Rikers Island, New York City, jail closure, Mamdani, proposal | hashtags: #NewYork #RikersIsland #Politics #Justice
+- Scheduled: Sat 21 Nov, 01:16 AM PKT
 - Caption:
 ```
-The European Union and the United Kingdom have officially sealed a landmark reset deal at a Brussels summit.
+New York City could see the closure of its controversial Rikers Island jail complex by 2032 under a new proposal.
 
-The European Union and the UK have sealed a landmark reset deal during a Brussels summit, marking a significant step towards rebuilding ties and exploring closer cooperation following Brexit, according to breaking reports.
+A new proposal outlines plans to officially close New York City's Rikers Island jail complex by the year 2032. The initiative marks a significant shift in local criminal justice policy and incarceration reform efforts.
 
-برسلز سربراہی اجلاس کے دوران یورپی یونین اور برطانیہ کے درمیان تعلقات کی بحالی کا ایک تاریخی معاہدہ طے پا گیا ہے، جو برسٹ کے بعد قریبی تعاون کی طرف ایک اہم قدم ہے۔
+ایک نئے تجویز کے تحت نیویارک شہر کے متنازعہ ریکرز آئی لینڈ جیل کمپلیکس کو 2032 تک بند کرنے کا منصوبہ سامنے آیا ہے۔ یہ اقدام مقامی اصلاحات کی کوششوں کا حصہ ہے۔
 
-First reported by Al Jazeera; also reported by BBC Business, Geo News, BBC World
+First reported by The News International
 
-#EUK #BrexitReset #BrusselsSummit #WorldNews
+#NewYork #RikersIsland #Politics #Justice
 ```
 
-### Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs and War  [NORMAL]
-- Poster: مہنگائی اور جنگ کیخلاف طلباء کے احتجاج، پورے یورپ میں ریلیاں نکالی گئیں / Youth-led strikes sweep Europe over living costs and war | category world
-- Alternative headline: Thousands of Students and Citizens Protest High Living Costs Across Europe
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - CNN https://news.google.com/rss/articles/CBMiekFVX3lxTFB6MnZwRGZqSkdDdTRtbFp4R0thbVowazY1amN0cDFkMFJTZVlHZFp1YThFOUNwY0RreElPZ1d3Ym9CU3FpUC1wYWpLR2t1N0RweFlUcWdXZVBRN21YZDUtaVgtazVBenRBQlp3SzUyTWFRaEFlRmVUc3ZB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: CNN https://news.google.com/rss/articles/CBMiekFVX3lxTFB6MnZwRGZqSkdDdTRtbFp4R0thbVowazY1amN0cDFkMFJTZVlHZFp1YThFOUNwY0RreElPZ1d3Ym9CU3FpUC1wYWpLR2t1N0RweFlUcWdXZVBRN21YZDUtaVgtazVBenRBQlp3SzUyTWFRaEFlRmVUc3ZB?oc=5
-- Supporting coverage: CNN, BBC Business, BBC World, Al Jazeera
-- Keywords: cost of living protests, Europe strikes, students protest, inflation Europe, youth-led strikes | hashtags: #EuropeProtests #CostOfLiving #StudentStrikes #WorldNews
-- Scheduled: Sat 21 Nov, 12:12 AM PKT
-- Caption:
-```
-Youth-led strikes and protests have swept across multiple European nations as students and citizens demand action against rising living costs.
-
-Youth-led strikes and protests have swept across Europe as students and citizens take to the streets to protest against soaring living costs, high service prices, wages, and war, according to reports from CNN and Al Jazeera.
-
-سی این این اور الجزیرہ کی رپورٹس کے مطابق بڑھتی ہوئی مہنگائی، اجرتوں کے مسائل اور جنگ کے خلاف طلباء اور شہریوں نے یورپ بھر میں احتجاجی مظاہرے اور ہڑتالیں کی ہیں۔
-
-First reported by CNN; also reported by BBC Business, BBC World, Al Jazeera
-
-#EuropeProtests #CostOfLiving #StudentStrikes #WorldNews
-```
-
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
+- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
 - [published] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
@@ -327,8 +330,8 @@ First reported by CNN; also reported by BBC Business, BBC World, Al Jazeera
 - [published] normal | Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizab | Fri 20 Nov, 05:28 PM PKT
 - [published] normal | Bank of Punjab Wins International Award for SME Financing Innovation | Fri 20 Nov, 05:38 PM PKT
 - [published] normal | Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026 | Fri 20 Nov, 05:48 PM PKT
-- [queued] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
-- [queued] normal | Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling | Fri 20 Nov, 06:48 PM PKT
+- [needs_review] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
+- [published] normal | Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling | Fri 20 Nov, 06:48 PM PKT
 - [queued] normal | CDF Asim Munir Vows to Eradicate Terrorism in KP | Fri 20 Nov, 06:58 PM PKT
 - [queued] normal | Afghanistan Excluded from ECO Moot Due to Non-Recognition | Fri 20 Nov, 07:08 PM PKT
 - [queued] normal | Supreme Court of Pakistan Receives International ISO Certification | Fri 20 Nov, 07:18 PM PKT
@@ -344,15 +347,22 @@ First reported by CNN; also reported by BBC Business, BBC World, Al Jazeera
 - [queued] normal | Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2 | Fri 20 Nov, 11:52 PM PKT
 - [queued] normal | EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit | Sat 21 Nov, 12:02 AM PKT
 - [queued] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
+- [queued] normal | Belgrade Mayor Faces Three-Year Sentence for Alleged Assault | Sat 21 Nov, 12:46 AM PKT
+- [queued] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
+- [queued] normal | Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Re | Sat 21 Nov, 01:06 AM PKT
+- [queued] normal | New York City Plans to Close Notorious Rikers Island by 2032 | Sat 21 Nov, 01:16 AM PKT
 
 ## Publishing this run
-- Published 'Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026'.
+- Published 'Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6386 | output tokens: 2144
+- Calls: 3 | prompt tokens: 4875 | output tokens: 2197
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
