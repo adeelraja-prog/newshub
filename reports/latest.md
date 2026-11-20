@@ -1,146 +1,143 @@
-# News Hub report - Fri 20 Nov, 04:15 AM PKT
+# News Hub report - Fri 20 Nov, 05:00 AM PKT
 
 ## Collection
-- New items this run: 27 | items in rolling pool: 450
-- Unique story clusters: 355 (duplicates merged: 95)
-- Clusters dropped as already published/queued: 19; unchanged since last analysis: 2
-- Items per outlet: The Express Tribune 4, BBC World 3, Dawn 1, Dawn Latest 1, Geo News 1, The Guardian 1, The Verge 1, TechCrunch 1, Engadget 1, Wired 1, GSMArena 1, The Washington Post 1
+- New items this run: 21 | items in rolling pool: 431
+- Unique story clusters: 338 (duplicates merged: 93)
+- Clusters dropped as already published/queued: 22; unchanged since last analysis: 1
+- Items per outlet: BBC 2, Engadget 2, DW.com 2, Geo News 1, Al Jazeera 1, TechCrunch 1, BBC Business 1, BBC World 1, WSJ 1, NOTUS 1, Roll Call 1, Mezha.net 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- US signed off on sales of nearly 900,000 AI chips to China in six months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Haiti police say at least 34 suspected gang members killed in raid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Anthropic becomes one of world's most valuable public companies in stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fiona the hippo dies after swallowing a hat at Cincinnati Zoo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - William and Catherine's India tour was 'particularly special', aide says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- California probing whether China improperly acquired Nvidia technology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Judge finds Thomas Markle mentally fit to stand trial on child abuse charges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- From premature baby to social media star - Famed hippo Fiona dies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cumin-laced fizzy sodas are giving cola giants a tough fight in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- US signed off on sales of nearly 900,000 AI chips to China in six months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Haiti police say at least 34 suspected gang members killed in raid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Anthropic becomes one of world's most valuable public companies in stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fiona the hippo dies after swallowing a hat at Cincinnati Zoo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - William and Catherine's India tour was 'particularly special', aide says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- California probing whether China improperly acquired Nvidia technology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Judge finds Thomas Markle mentally fit to stand trial on child abuse charges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- From premature baby to social media star - Famed hippo Fiona dies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cumin-laced fizzy sodas are giving cola giants a tough fight in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- US signed off on sales of nearly 900,000 AI chips to China in six months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Haiti police say at least 34 suspected gang members killed in raid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Anthropic becomes one of world's most valuable public companies in stock market debut | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fiona the hippo dies after swallowing a hat at Cincinnati Zoo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - William and Catherine's India tour was 'particularly special', aide says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- California probing whether China improperly acquired Nvidia technology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Judge finds Thomas Markle mentally fit to stand trial on child abuse charges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- From premature baby to social media star - Famed hippo Fiona dies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cumin-laced fizzy sodas are giving cola giants a tough fight in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: The Guardian | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: GSMArena | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### US Approved Sales of Nearly 900,000 AI Chips to China  [NORMAL]
-- Poster: امریکہ نے چین کو نو لاکھ کے قریب اے آئی چپس فروخت کرنے کی اجازت دے دی / US approves sales of nearly 900,000 AI chips to China | category tech_ai
-- Alternative headline: US House Committee Releases Data on AI Chip Exports to China
+### Prince William and Catherine's India Tour Described as 'Particularly Special'  [NORMAL]
+- Poster: پرنس ولیم اور کیتھرین کا دورہ ہند انتہائی خاص قرار / Prince William and Catherine's India Tour Special | category other
+- Alternative headline: Aide Reveals Details Behind Prince William and Catherine's India Tour
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: AI chips, US China tech, AI exports, House committee, semiconductors, technology | hashtags: #AIChips #USChina #Technology #ExportData #News
-- Scheduled: Fri 20 Nov, 04:15 AM PKT
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NSE5hVDIxNll0SmttT2MtR2U1TENRNXYtRnVjdDVQVVBYVFdGRVpZNXk2WkRUU2lGamVJZVRFWTV6RmxTWWhtOEFYbzU0VkJ3S1VCRVhJNllGMkU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NSE5hVDIxNll0SmttT2MtR2U1TENRNXYtRnVjdDVQVVBYVFdGRVpZNXk2WkRUU2lGamVJZVRFWTV6RmxTWWhtOEFYbzU0VkJ3S1VCRVhJNllGMkU?oc=5
+- Supporting coverage: BBC
+- Keywords: India tour, Prince William, Catherine, royal visit, BBC, aide | hashtags: #PrinceWilliam #Catherine #IndiaTour #RoyalFamily #BBC
+- Scheduled: Fri 20 Nov, 05:00 AM PKT
 - Caption:
 ```
-The US has reportedly approved the sale of almost 900,000 AI chips to China over a six-month period.
+An aide close to the British royals has revealed that Prince William and Catherine's tour of India was a uniquely memorable experience.
 
-A US House committee has released data showing that the United States signed off on the sale of nearly 900,000 artificial intelligence chips to China within six months. This disclosure comes amid ongoing scrutiny regarding the tech sector and export regulations.
+According to the BBC, an aide has described Prince William and Catherine's tour of India as 'particularly special'. The royal visit included high-profile engagements, such as walking the green carpet in Mumbai for the Earthshot Prize.
 
-امریکہ کی ایک ہاؤس کمیٹی نے اعداد و شمار جاری کیے ہیں جن کے مطابق امریکہ نے چھ ماہ کے اندر چین کو نو لاکھ کے قریب مصنوعی ذہانت کی چپس فروخت کرنے کی منظوری دی۔ یہ انکشاف ٹیک سیکٹر اور برآمدی ضوابط پر جاری جانچ پڑتال کے دوران سامنے آیا ہے۔
+بی بی سی کے مطابق ایک معاون نے پرنس ولیم اور کیتھرین کے دورہ ہند کو 'انتہائی خاص' قرار دیا ہے۔ شاہی دورے میں ممبئی میں ارتھ شاট پرائز کے لیے گرین کارপেٹ پر چلنا بھی شامل تھا۔
 
-First reported by Al Jazeera
+First reported by BBC
 
-#AIChips #USChina #Technology #ExportData #News
+#PrinceWilliam #Catherine #IndiaTour #RoyalFamily #BBC
 ```
 
-### Haiti Police Kill at Least 34 Suspected Gang Members in Raid  [NORMAL]
-- Poster: ہیٹی میں پولیس کے چھاپے کے دوران کم از کم 34 مشتبہ گینگ ارکان ہلاک / At least 34 suspected gang members killed in Haiti police raid | category crime
-- Alternative headline: Haiti Police Target Key Gang Route in Martissant Area Raid
+### California Probes Nvidia Over Alleged Unauthorized Tech Transfers to China  [NORMAL]
+- Poster: کیلیفورنیا کا اینویڈیا کے خلاف چین کو چپس کی فراہمی پر تحقیقات کا آغاز / California Probes Nvidia Over China AI Chips | category tech_ai
+- Alternative headline: Nvidia Targeted by California Attorney General in China AI Chip Probe
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Haiti police, gang members, Martissant, Port-au-Prince, security raid, crime | hashtags: #Haiti #GangViolence #PoliceRaid #Security #WorldNews
-- Scheduled: Fri 20 Nov, 04:25 AM PKT
-- Caption:
-```
-Haitian police report that at least 34 suspected gang members have been killed during a security operation.
-
-Police in Haiti announced that at least 34 suspected gang members were killed in a raid. The operation targeted the Martissant area, which is situated on a critical route out of Port-au-Prince that has been controlled by gangs since 2021.
-
-ہیٹی کی پولیس نے اعلان کیا ہے کہ ایک چھاپے کے دوران کم از کم 34 مشتبہ گینگ ارکان مارے گئے۔ اس کارروائی کا ہدف مارٹیسنٹ کا علاقہ تھا، جو پورٹ او پرنس سے باہر نکلنے کا ایک اہم راستہ ہے اور 2021 سے گینگز کے کنٹرول میں ہے۔
-
-First reported by Al Jazeera
-
-#Haiti #GangViolence #PoliceRaid #Security #WorldNews
-```
-
-### Anthropic Hits $1.76 Trillion Valuation in Blockbuster Market Debut  [NORMAL]
-- Poster: اے آئی کمپنی اینتھروپک نے اسٹاک مارکیٹ میں شاندار ڈیبیو کے ساتھ کھربوں کی ویلیو حاصل کر لی / Anthropic reaches massive valuation in stock market debut | category tech_ai
-- Alternative headline: Claude Maker Anthropic Debuts as One of World's Most Valuable Public Firms
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology
-- Keywords: Anthropic IPO, AI company, Nasdaq, valuation, Claude chatbot, stock market | hashtags: #Anthropic #IPO #ArtificialIntelligence #Nasdaq #TechNews
-- Scheduled: Fri 20 Nov, 04:35 AM PKT
-- Caption:
-```
-AI company Anthropic has become one of the world's most valuable public companies following its stock market debut.
-
-Anthropic has become one of the world's most valuable public companies after its shares began trading on the Nasdaq stock exchange, pushing its valuation to roughly $1.76 trillion. The debut served as a crucial test for the artificial intelligence industry as shares fluctuated during their first day of trading.
-
-مصنوعی ذہانت کی کمپنی اینتھروپک نیسڈاک اسٹاک ایکسچینج میں حصص کی تجارت شروع ہونے کے بعد دنیا کی سب سے قیمتی عوامی کمپنیوں میں سے ایک بن گئی ہے، جس کی مالیت تقریباً 1.76 ٹریلین ڈالر تک پہنچ گئی ہے۔ اس ڈیبیو کو مصنوعی ذہانت کی صنعت کے لیے ایک اہم امتحان قرار دیا گیا۔
-
-First reported by BBC Technology
-
-#Anthropic #IPO #ArtificialIntelligence #Nasdaq #TechNews
-```
-
-### Fiona the Famous Hippo Dies After Swallowing a Hat at Cincinnati Zoo  [NORMAL]
-- Poster: سین Cincinnati چڑیا گھر میں ٹوپی نگلنے سے مشہور ہپو فیونا ہلاک / Famous hippo Fiona dies after swallowing hat at zoo | category lifestyle
-- Alternative headline: Cincinnati Zoo Mourns Loss of Beloved Hippo Fiona
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss
 - Supporting coverage: BBC World
-- Keywords: Fiona the hippo, Cincinnati Zoo, animal news, hippo death, viral animal, Ohio | hashtags: #FionaTheHippo #CincinnatiZoo #AnimalNews #Wildlife #SadNews
-- Scheduled: Fri 20 Nov, 04:45 AM PKT
+- Keywords: Nvidia, California, China, AI chips, Rob Bonta, Jensen Huang | hashtags: #Nvidia #California #China #AIChips #TechNews
+- Scheduled: Fri 20 Nov, 05:10 AM PKT
 - Caption:
 ```
-The Cincinnati Zoo announces the death of Fiona the hippo following a medical emergency caused by a swallowed hat.
+California has launched an official probe into Nvidia to investigate whether advanced technology and chips were improperly acquired by China.
 
-Fiona the hippopotamus has died at the Cincinnati Zoo in Ohio just days after swallowing a knitted hat that accidentally fell into her enclosure. The zoo's veterinary team provided emergency care, but the medical emergency proved too severe to overcome for the social media star.
+California Attorney General Rob Bonta has served an investigative subpoena on AI chip designer Nvidia. The probe examines whether Nvidia's actions or its former CEO Jensen Huang resulted in China improperly obtaining advanced chips or confidential information, potentially misleading investors.
 
-اوہائیو کے سن Cincinnati چڑیا گھر میں ہپو فیونا ایک بنے ہوئے ٹوپی کو نگلنے کے چند دن بعد انتقال کر گئی ہے جو غلطی سے اس کے باڑے میں گر گئی تھی۔ چڑیا گھر کی ٹیم نے ہنگامی طبی امداد فراہم کی لیکن سوشل میڈیا کی مقبول ہپو جانبر نہ ہو سکی۔
+کیلیفورنیا کے اٹارنی جنرل روب بونٹا نے اے آئی چپ ڈیزائنر اینویڈیا کو تفتیشی سمن جاری کر دیے ہیں۔ تحقیقات کا مقصد یہ دیکھنا ہے کہ آیا اینویڈیا کی کارروائیوں یا اس کے سابق سی ای او جینسن ہوانگ کی وجہ سے چین کو جدید چپس اور خفیہ معلومات تک رسائی ملی یا نہیں۔
 
 First reported by BBC World
 
-#FionaTheHippo #CincinnatiZoo #AnimalNews #Wildlife #SadNews
+#Nvidia #California #China #AIChips #TechNews
+```
+
+### Judge Rules Thomas Markle Mentally Fit to Stand Trial on Child Abuse Charges  [NORMAL]
+- Poster: جج نے تھامس مارکل کو بچوں کے استحصال کے مقدمے کے لیے ذہنی طور پر فٹ قرار دے دیا / Thomas Markle Fit to Stand Trial | category courts
+- Alternative headline: Meghan Markle's Father Deemed Mentally Competent for Child Abuse Trial
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Thomas Markle, trial, child abuse charges, mentally fit, Florida, Meghan Markle | hashtags: #ThomasMarkle #CourtNews #LegalUpdate #BBC
+- Scheduled: Fri 20 Nov, 05:20 AM PKT
+- Caption:
+```
+A Florida judge has declared Thomas Markle Sr., the father of Meghan, Duchess of Sussex, mentally competent to face trial.
+
+According to BBC World, a Florida judge has declared 82-year-old Thomas Markle Sr. mentally competent to stand trial for possessing indecent images of children. The ruling follows an evaluation by a court-appointed psychiatrist. Markle remains in jail ahead of his next hearing in December.
+
+بی بی سی ورلڈ کے مطابق فلوریڈا کے ایک جج نے میغان، ڈচেز آف سسیکس کے والد 82 سالہ تھامس مارکل کو بچوں کی نامناسب تصاویر رکھنے کے مقدمے کا سامنا کرنے کے لیے ذہنی طور پر اہل قرار دے دیا۔ یہ فیصلہ عدالت کی طرف سے مقرر کردہ ماہر نفسیات کے جائزے کے بعد آیا ہے۔
+
+First reported by BBC World
+
+#ThomasMarkle #CourtNews #LegalUpdate #BBC
+```
+
+### Famed Cincinnati Zoo Hippo Fiona Dies Days After Swallowing Knitted Hat  [NORMAL]
+- Poster: مشہور دریائی گھوڑا فیونا نیت کی ہوئی ٹوپی نگلنے سے ہلاک / Famous Hippo Fiona Passes Away | category other
+- Alternative headline: Internet Sensation Fiona the Hippo Passes Away at Cincinnati Zoo
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Fiona the hippo, Cincinnati Zoo, Ohio, animal news, social media star | hashtags: #FionaTheHippo #CincinnatiZoo #AnimalNews #BBC
+- Scheduled: Fri 20 Nov, 05:30 AM PKT
+- Caption:
+```
+The Cincinnati Zoo has announced the tragic death of Fiona the hippo, a beloved social media star who captured global attention.
+
+According to BBC World, the Cincinnati Zoo in Ohio has announced the death of its famous hippopotamus, Fiona. The beloved animal passed away just days after swallowing a knitted hat that accidentally slipped into her enclosure. Fiona was born prematurely in 2017 and grew into a massive global internet sensation.
+
+بی بی سی ورلڈ کے مطابق اوہائیو کے سنسیناٹی چڑیا گھر نے اپنے مشہور دریائی گھوڑے فیونا کی موت کا اعلان کر دیا ہے۔ یہ پیارا جانور اپنے احاطے میں گرنے والی نیت کی ہوئی ٹوپی نگلنے کے چند دن بعد ہلاک ہو گیا۔ فیونا 2017 میں قبل از وقت پیدا ہوئی تھی اور سوشل میڈیا پر مقبولیت حاصل کر چکی تھی۔
+
+First reported by BBC World
+
+#FionaTheHippo #CincinnatiZoo #AnimalNews #BBC
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 12
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
-- [needs_review] normal | China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral sum | Mon 16 Nov, 10:24 PM PKT
-- [needs_review] normal | Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series | Mon 16 Nov, 10:34 PM PKT
-- [needs_review] normal | Third US aircraft carrier arrives in Middle East amid tensions with Ir | Mon 16 Nov, 10:44 PM PKT
 - [needs_review] normal | Trump backs possible return of Jensen Huang as Nvidia CEO | Mon 16 Nov, 11:25 PM PKT
 - [needs_review] normal | Pakistan to host next Makkah alliance summit later this month: DPM Dar | Mon 16 Nov, 11:35 PM PKT
 - [needs_review] normal | Robert Pattinson: How the Twilight star became 007 | Tue 17 Nov, 12:22 AM PKT
@@ -162,7 +159,6 @@ First reported by BBC World
 - [needs_review] normal | California sues OpenAI over Hugging Face attack | Tue 17 Nov, 04:54 AM PKT
 - [needs_review] normal | Five EU countries announce plan to send rejected asylum seekers to Rwa | Tue 17 Nov, 05:04 AM PKT
 - [needs_review] normal | Wirtz feels the fun as Germany run riot over Netherlands | Tue 17 Nov, 05:14 AM PKT
-- [published] normal | Woman who got hooked on nasal spray for 10 years says it cost her thou | Tue 17 Nov, 05:24 AM PKT
 - [published] breaking | Live: Houthis advance in Yemen as tankers hit sea mines in Strait of H | Tue 17 Nov, 05:57 AM PKT
 - [needs_review] normal | Paraguay ex-president moved to military jail amid special treatment re | Tue 17 Nov, 05:57 AM PKT
 - [needs_review] normal | EU agrees to resurrect cooperation deal with Syria | Tue 17 Nov, 06:07 AM PKT
@@ -361,7 +357,7 @@ First reported by BBC World
 - [published] normal | ICJ finds Myanmar guilty of genocide against the Rohingya minority | Fri 20 Nov, 01:36 AM PKT
 - [published] normal | US military spending on the Iran war crosses $48 billion | Fri 20 Nov, 01:46 AM PKT
 - [published] normal | European leaders say Europe is ready for talks with Russia on ending t | Fri 20 Nov, 01:56 AM PKT
-- [queued] normal | US Senate Rejects Resolution to Limit Trump's War Powers on Iran | Fri 20 Nov, 02:22 AM PKT
+- [published] normal | US Senate Rejects Resolution to Limit Trump's War Powers on Iran | Fri 20 Nov, 02:22 AM PKT
 - [queued] normal | Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperatio | Fri 20 Nov, 02:32 AM PKT
 - [queued] normal | Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Miss | Fri 20 Nov, 02:42 AM PKT
 - [queued] normal | Latest Updates and Developments from the Middle East | Fri 20 Nov, 02:52 AM PKT
@@ -373,12 +369,16 @@ First reported by BBC World
 - [queued] normal | Haiti Police Kill at Least 34 Suspected Gang Members in Raid | Fri 20 Nov, 04:25 AM PKT
 - [queued] normal | Anthropic Hits $1.76 Trillion Valuation in Blockbuster Market Debut | Fri 20 Nov, 04:35 AM PKT
 - [queued] normal | Fiona the Famous Hippo Dies After Swallowing a Hat at Cincinnati Zoo | Fri 20 Nov, 04:45 AM PKT
+- [queued] normal | Prince William and Catherine's India Tour Described as 'Particularly S | Fri 20 Nov, 05:00 AM PKT
+- [queued] normal | California Probes Nvidia Over Alleged Unauthorized Tech Transfers to C | Fri 20 Nov, 05:10 AM PKT
+- [queued] normal | Judge Rules Thomas Markle Mentally Fit to Stand Trial on Child Abuse C | Fri 20 Nov, 05:20 AM PKT
+- [queued] normal | Famed Cincinnati Zoo Hippo Fiona Dies Days After Swallowing Knitted Ha | Fri 20 Nov, 05:30 AM PKT
 
 ## Publishing this run
-- Published 'European leaders say Europe is ready for talks with Russia on ending the Ukraine war'.
+- Published 'US Senate Rejects Resolution to Limit Trump's War Powers on Iran'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4357 | output tokens: 2697
+- Calls: 3 | prompt tokens: 4430 | output tokens: 2788
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 429 {

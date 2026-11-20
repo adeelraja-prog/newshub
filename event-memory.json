@@ -82153,7 +82153,176 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9ea8357a3346492131ded086",
+      "remembered_at": "2026-11-20T00:00:44.283056+00:00",
+      "event_date": "2026-11-19T23:29:00+00:00",
+      "last_update": "2026-11-19T23:29:00+00:00",
+      "event": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "bigger",
+        "capturing",
+        "cola",
+        "cumin",
+        "demand",
+        "fight",
+        "fizzy",
+        "flavours",
+        "for",
+        "giants",
+        "giving",
+        "goes",
+        "homegrown",
+        "india",
+        "laced",
+        "market",
+        "share",
+        "sodas",
+        "tough"
+      ],
+      "source_excerpt": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T23:29:00+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OYnNKY2FqLXhSdjlPcDEySW9HeGxZR1kyaEtOQVZXMFZGd01ZYUJjY0wxSDhjaGR0Vm50bEdhbjRZaDZ5NldERmk4YmtFUFpUSEIxbHYzOWhrQ3c?oc=5",
+          "published_at": "2026-11-19T23:29:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b483826ba11eadbcc9e2f838",
+      "remembered_at": "2026-11-20T00:00:44.283056+00:00",
+      "event_date": "2026-11-19T23:09:48+00:00",
+      "last_update": "2026-11-19T23:09:48+00:00",
+      "event": "Six killed in suspected gas explosion at Georgia apartment building",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apartment",
+        "bodies",
+        "building",
+        "explosion",
+        "from",
+        "gas",
+        "georgia",
+        "georgian",
+        "had",
+        "interior",
+        "killed",
+        "minister",
+        "recovered",
+        "rescuers",
+        "said",
+        "six",
+        "sulkhan",
+        "suspected",
+        "tamazashvili",
+        "the",
+        "wreckage"
+      ],
+      "source_excerpt": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+          "published_at": "2026-11-19T23:09:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c99aa39dea7a4e247908cc41",
+      "remembered_at": "2026-11-20T00:00:44.283056+00:00",
+      "event_date": "2026-11-19T23:51:50+00:00",
+      "last_update": "2026-11-19T23:51:50+00:00",
+      "event": "Trump posthumously pardons US baseball legend Pete Rose",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "ban",
+        "baseball",
+        "betting",
+        "but",
+        "died",
+        "for",
+        "from",
+        "games",
+        "given",
+        "last",
+        "legend",
+        "lifetime",
+        "pardons",
+        "pete",
+        "posthumously",
+        "reinstated",
+        "rose",
+        "sport",
+        "the",
+        "trump",
+        "was",
+        "who",
+        "year"
+      ],
+      "source_excerpt": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T23:51:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-19T23:15:48.158862+00:00"
+  "updated_at": "2026-11-20T00:00:44.283056+00:00"
 }
