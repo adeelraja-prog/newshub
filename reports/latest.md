@@ -1,146 +1,46 @@
-# News Hub report - Fri 20 Nov, 03:10 PM PKT
+# News Hub report - Fri 20 Nov, 04:20 PM PKT
 
 ## Collection
-- New items this run: 85 | items in rolling pool: 554
-- Unique story clusters: 455 (duplicates merged: 99)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 12
-- Items per outlet: UrduPoint 14, ProPakistani 10, Geo News 8, TechJuice 8, Al Jazeera 4, Dawn 3, Dawn Latest 3, ARY News 3, samaa tv 3, Investify 3, PhoneWorld 2, Around Prague 2
+- New items this run: 91 | items in rolling pool: 615
+- Unique story clusters: 512 (duplicates merged: 103)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 12
+- Items per outlet: UrduPoint 17, ARY News 10, ProPakistani 10, Al Jazeera 5, Dawn 4, Geo News 4, Wired 4, TechJuice 4, UNITED24 Media 3, samaa tv 2, Reuters 2, Investify 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- NCCIA arrests suspect over alleged sale of stolen US government data in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s resources worth $8-10tr 'at most conservative estimate', says Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- El Salvador’s Bukele seeks third term after constitution change | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three Kyiv bridges hit during major Russian missile attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold prices plunge by Rs15,400/ tola in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Russia unleashes retaliatory barrage on Kyiv bridges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- White House removes cyber-security chief after series of tech outages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can the Rohingya genocide verdict deliver justice? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drone operator removes Man United training footage and issues apology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- NCCIA arrests suspect over alleged sale of stolen US government data in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s resources worth $8-10tr 'at most conservative estimate', says Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- El Salvador’s Bukele seeks third term after constitution change | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three Kyiv bridges hit during major Russian missile attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold prices plunge by Rs15,400/ tola in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Russia unleashes retaliatory barrage on Kyiv bridges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- White House removes cyber-security chief after series of tech outages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can the Rohingya genocide verdict deliver justice? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drone operator removes Man United training footage and issues apology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- NCCIA arrests suspect over alleged sale of stolen US government data in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s resources worth $8-10tr 'at most conservative estimate', says Dar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- El Salvador’s Bukele seeks third term after constitution change | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three Kyiv bridges hit during major Russian missile attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold prices plunge by Rs15,400/ tola in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Russia unleashes retaliatory barrage on Kyiv bridges | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- White House removes cyber-security chief after series of tech outages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can the Rohingya genocide verdict deliver justice? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drone operator removes Man United training footage and issues apology | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/107 | empty: 2 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Karachi Man Inspired by Batman Arrested Over Alleged US Data Sale  [NORMAL]
-- Poster: بیٹ مین سے متاثر ملزم کراچی میں امریکی ڈیٹا فروخت کرنے پر گرفتار / Karachi Man Arrested Over Alleged Sale of Stolen US Data | category crime
-- Alternative headline: NCCIA Arrests Karachi Suspect Selling Stolen US Government Data on Dark Web
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045889/nccia-arrests-suspect-over-alleged-sale-of-stolen-us-government-data-in-karachi | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045889/nccia-arrests-suspect-over-alleged-sale-of-stolen-us-government-data-in-karachi
-- Supporting coverage: The Current, Dawn Pakistan, TechJuice
-- Keywords: NCCIA, Karachi, US government data, dark web, PECA, cyber crime | hashtags: #NCCIA #Karachi #CyberCrime #PECA #Pakistan
-- Scheduled: Fri 20 Nov, 03:10 PM PKT
-- Caption:
-```
-The NCCIA has arrested a Karachi man operating under the online alias 'DP BRUCE' for allegedly selling stolen US government data.
-
-The National Cyber Crime Investigation Agency (NCCIA) arrested a Karachi suspect operating under the alias 'DP BRUCE' for allegedly acquiring and selling sensitive data belonging to US government agencies, including the FBI and CIA, using platforms like LeakBase and Telegram. A case has been registered under PECA 2016.
-
-نیشنل سائبر کرائم انویسٹی گیشن ایجنسی (این سی سی آئی اے) نے کراچی میں 'ڈی پی بروس' کے نام سے کام کرنے والے ایک ملزم کو گرفتار کیا ہے جو مبینہ طور پر ایف بی آئی اور سی آئی اے سمیت امریکی اداروں کا حساس ڈیٹا ڈارک ویب پر فروخت کرنے میں ملوث تھا۔
-
-First reported by Dawn Pakistan; also reported by The Current and TechJuice.
-
-#NCCIA #Karachi #CyberCrime #PECA #Pakistan
-```
-
-### Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb  [NORMAL]
-- Poster: پاکستان کے وسائل کی مالیت کم از کم 8 سے 10 ٹریلین ڈالر ہے: دار / Pakistan Resources Worth $8-10 Trillion, Says Dar | category economy
-- Alternative headline: Pakistan’s Mineral and Resource Wealth Estimated at $8-10 Trillion: Dar
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGRlZ3NOcHNzSFh0djJ5ZEoxcnpuVEVId0RkRzkyUm1tQV9DV0l4YThQSHdCYUN6LXNFSFFxT2RXZkdRVDlwbVZjcFg4Mk5IbUROSlJpQkNrWnRWZXhNV196Ul8tem9ldGVQYmRfXzRuZmJBcER2N1RyQWVvRmJLRm5HcjFFOU1nSHB4amh1bGJ3WDFDLXlmU2NDaFlzNzRKcFZwV29uZDA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGRlZ3NOcHNzSFh0djJ5ZEoxcnpuVEVId0RkRzkyUm1tQV9DV0l4YThQSHdCYUN6LXNFSFFxT2RXZkdRVDlwbVZjcFg4Mk5IbUROSlJpQkNrWnRWZXhNV196Ul8tem9ldGVQYmRfXzRuZmJBcER2N1RyQWVvRmJLRm5HcjFFOU1nSHB4amh1bGJ3WDFDLXlmU2NDaFlzNzRKcFZwV29uZDA?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Pakistan resources, economy, natural resources, conservative estimate, wealth | hashtags: #Pakistan #Economy #NaturalResources #Dawn
-- Scheduled: Fri 20 Nov, 03:20 PM PKT
-- Caption:
-```
-Pakistan's total resources are estimated to be worth between $8 and $10 trillion at a most conservative estimate, according to official statements.
-
-Pakistan's resources are valued at between $8 trillion and $10 trillion based on the most conservative estimates, according to statements reported by Dawn. The assessment highlights the vast economic potential of the country's untapped natural resources.
-
-ڈان کی رپورٹ کے مطابق پاکستان کے وسائل کی مالیت انتہائی محتاط اندازے کے مطابق 8 سے 10 ٹریلین ڈالر کے درمیان ہے۔ یہ بیان ملک کے قدرتی وسائل کی وسیع معاشی صلاحیت کو ظاہر کرتا ہے۔
-
-First reported by Dawn.
-
-#Pakistan #Economy #NaturalResources #Dawn
-```
-
-### El Salvador’s President Bukele Seeks Third Term After Constitutional Changes  [NORMAL]
-- Poster: آئینی تبدیلی کے بعد ایل سلواڈور کے صدر کا تیسری بار انتخاب لڑنے کا اعلان / El Salvador President Bukele Seeks Third Term | category world
-- Alternative headline: Nayib Bukele Pursues Controversial Third Term Following Constitutional Reform
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Nayib Bukele, El Salvador, third term, constitution change, politics | hashtags: #ElSalvador #NayibBukele #WorldNews #Politics
-- Scheduled: Fri 20 Nov, 03:30 PM PKT
-- Caption:
-```
-El Salvador's President Nayib Bukele is seeking a third consecutive term following controversial constitutional changes.
-
-El Salvador's populist President Nayib Bukele is seeking a third term in office following constitutional changes. Critics have accused the government of engineering a de facto one-state system through these sweeping legal and political shifts.
-
-ایل سلواڈور کے مقبول عام صدر نییب بوکیلے آئینی تبدیلیوں کے بعد تیسری مدت کے لیے انتخاب لڑنے کے خواہاں ہیں۔ ناقدین نے اس اقدام پر تشویش کا اظہار کیا ہے۔
-
-First reported by Al Jazeera.
-
-#ElSalvador #NayibBukele #WorldNews #Politics
-```
-
-### Eight Killed as Russian Missiles Strike Three Kyiv Bridges  [NORMAL]
-- Poster: روس کا بڑا میزائل حملہ، کیف کے تین پل تباہ اور آٹھ افراد ہلاک / Eight Killed as Russian Missiles Hit Kyiv Bridges | category war
-- Alternative headline: Major Russian Air Attack Hits Kyiv Bridges and Leaves Eight Dead
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Kyiv bridges, Russia missile attack, Ukraine war, Dnipro River, Crimean Bridge | hashtags: #Kyiv #UkraineWar #Russia #BreakingNews
-- Scheduled: Fri 20 Nov, 03:40 PM PKT
-- Caption:
-```
-At least eight people have been killed after Russian ballistic missiles struck three vital bridges across the Dnipro River in Kyiv.
-
-Russia launched a major air attack targeting Kyiv, hitting three vital bridges over the Dnipro River and killing eight people. The strikes followed recent Ukrainian damage to the Crimean Bridge, prompting extensive travel disruptions and closures across the capital.
-
-روس کے ایک بڑے ہوائی حملے کے نتیجے میں کیف میں دریائے ڈنیپر پر بنے تین اہم پلوں کو نشانہ بنایا گیا جس سے آٹھ افراد ہلاک ہو گئے۔ ان حملوں سے دارالحکومت میں آمدورفت شدید متاثر ہوئی ہے۔
-
-First reported by BBC World.
-
-#Kyiv #UkraineWar #Russia #BreakingNews
-```
-
-- Indian outlets blocked this run: 6 items
+- Indian outlets blocked this run: 8 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
-- [needs_review] normal | Minister Buledi clarifies remarks on tribal system | Tue 17 Nov, 09:19 AM PKT
-- [needs_review] normal | Four lawyers appointed special ATC judges | Tue 17 Nov, 09:29 AM PKT
-- [needs_review] normal | Punjab to sue Salik over graft claims against Maryam | Tue 17 Nov, 09:39 AM PKT
 - [needs_review] normal | Nvidia rules out Jensen Huang's return as board hires law firm to inve | Tue 17 Nov, 10:21 AM PKT
 - [needs_review] normal | Pakistan crush Sri Lanka in Blind Asia Cup | Tue 17 Nov, 10:31 AM PKT
 - [needs_review] normal | Balochistan PA flags flour prices, dept mergers | Tue 17 Nov, 10:41 AM PKT
@@ -346,10 +246,10 @@ First reported by BBC World.
 - [needs_review] normal | Pakistan and Maldives Move to Establish Joint Trade Group to Boost Com | Fri 20 Nov, 08:38 AM PKT
 - [needs_review] normal | Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Reh | Fri 20 Nov, 08:48 AM PKT
 - [published] normal | Auto financing boom continues as car loans rise | Fri 20 Nov, 09:21 AM PKT
-- [queued] normal | UK asks YouTube to remove Russell Brand’s video | Fri 20 Nov, 09:31 AM PKT
-- [queued] normal | Asia’s stock markets dive amid AI bubble fears | Fri 20 Nov, 09:41 AM PKT
-- [queued] normal | Trump nominee refuses to call Jan 6 an ‘attack’ | Fri 20 Nov, 09:51 AM PKT
-- [queued] normal | Punjab Adds Phone Shake SOS Feature to Women Safety App | Fri 20 Nov, 10:32 AM PKT
+- [needs_review] normal | UK asks YouTube to remove Russell Brand’s video | Fri 20 Nov, 09:31 AM PKT
+- [needs_review] normal | Asia’s stock markets dive amid AI bubble fears | Fri 20 Nov, 09:41 AM PKT
+- [needs_review] normal | Trump nominee refuses to call Jan 6 an ‘attack’ | Fri 20 Nov, 09:51 AM PKT
+- [published] normal | Punjab Adds Phone Shake SOS Feature to Women Safety App | Fri 20 Nov, 10:32 AM PKT
 - [queued] normal | Kushner: Trump open to NATO-like security guarantees for Ukraine | Fri 20 Nov, 10:42 AM PKT
 - [queued] normal | Pakistan Medical Association objects to proposed SHCC board members | Fri 20 Nov, 10:52 AM PKT
 - [queued] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
@@ -367,16 +267,25 @@ First reported by BBC World.
 - [queued] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
 
 ## Publishing this run
-- Published 'Auto financing boom continues as car loans rise'.
+- Published 'Punjab Adds Phone Shake SOS Feature to Women Safety App'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4537 | output tokens: 2305
-- Errors: 2
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"

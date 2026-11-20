@@ -88228,7 +88228,577 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6fc9497069a12ac5d5ebdd3d",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T09:52:01+00:00",
+      "last_update": "2026-11-20T10:56:20+00:00",
+      "event": "Gold prices plunge by Rs15,400/ tola in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "400",
+        "gold",
+        "pakistan",
+        "plunge",
+        "prices",
+        "rs15",
+        "tola"
+      ],
+      "source_excerpt": "Gold prices plunge by Rs15,400/ tola in Pakistan",
+      "sources": [
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVBoT1VNVkk5SDBKVTczbHRiT1ZlY04xejJYQlpFNks1bFhhVzRlcWxmMGhOXzFRblNpeGEtYWhFVjBoMkJpYlhaTkRnZ0Q3ZFpsYzI4ZWxXVnlkSW5FdThWUkk3c1pKRmNBalNzZl93QWZ6NHFRa0xRUUFBNzJhR3hVWjF5bFJuSGsxY2VtSjhLajdxOUE?oc=5",
+          "published_at": "2026-11-20T09:52:01+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0xDQTBEazdnZnNWTWRQZ2FINGg3cV80dzVGTllDN29paURPeHpnU1U2OW5HWGFZXzcxUDBSUm5xaktGRmlfaGdPUWt4dWxSazFRNUNROThsZHhlVmZBWjhVZmhTSnFrQU80T0ExblBKS3ZEWHgxcm1qV0lEd3VoOWFDWUltbFJWRmZEOHVrc0JKcWM?oc=5",
+          "published_at": "2026-11-20T10:24:02+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/gold-prices-plunge-by-rs15400-tola-in-pakistan",
+          "published_at": "2026-11-20T10:56:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/gold-prices-plunge-by-rs15400-tola-in-pakistan",
+        "publisher_url": "https://arynews.tv/gold-prices-plunge-by-rs15400-tola-in-pakistan",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bc521babab41b931b097a763",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T10:45:20+00:00",
+      "last_update": "2026-11-20T10:45:20+00:00",
+      "event": "Can the Rohingya genocide verdict deliver justice?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "and",
+        "but",
+        "can",
+        "citizenship",
+        "deliver",
+        "far",
+        "from",
+        "genocide",
+        "guaranteed",
+        "has",
+        "icj",
+        "justice",
+        "myanmar",
+        "remain",
+        "reparations",
+        "return",
+        "rohingya",
+        "ruled",
+        "safe",
+        "the",
+        "verdict"
+      ],
+      "source_excerpt": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
+          "published_at": "2026-11-20T10:45:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ee6be9b8b129fcd116347dae",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T10:37:20+00:00",
+      "last_update": "2026-11-20T10:37:20+00:00",
+      "event": "Drone operator removes Man United training footage and issues apology",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "apology",
+        "drone",
+        "during",
+        "filmed",
+        "first",
+        "footage",
+        "issues",
+        "man",
+        "manager",
+        "mauricio",
+        "new",
+        "online",
+        "operator",
+        "pochettino",
+        "removes",
+        "session",
+        "the",
+        "training",
+        "united",
+        "uploaded",
+        "was"
+      ],
+      "source_excerpt": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
+          "published_at": "2026-11-20T10:37:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f22be73870a2ab5a6bdf2085",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T10:03:11+00:00",
+      "last_update": "2026-11-20T10:03:11+00:00",
+      "event": "Searching for the next Messi at the Under-17 World Cup",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "are",
+        "cup",
+        "fifa",
+        "football",
+        "for",
+        "global",
+        "messi",
+        "nearly",
+        "next",
+        "qatar",
+        "scouts",
+        "searching",
+        "superstar",
+        "the",
+        "under",
+        "world"
+      ],
+      "source_excerpt": "Nearly 100 football scouts are in Qatar, searching for the next global superstar at the FIFA Under-17 World Cup.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss",
+          "published_at": "2026-11-20T10:03:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5b5d03992d9f25949d168f15",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T11:11:36+00:00",
+      "last_update": "2026-11-20T11:11:36+00:00",
+      "event": "Some doctors in Northern Ireland go on strike over pay",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "doctors",
+        "for",
+        "hospitals",
+        "hours",
+        "ireland",
+        "northern",
+        "over",
+        "pay",
+        "resident",
+        "some",
+        "strike",
+        "surgeries",
+        "won",
+        "work"
+      ],
+      "source_excerpt": "Resident doctors won’t work in hospitals or GP surgeries for 24 hours.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cjr4g2kyn040o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T11:11:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cjr4g2kyn040o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cjr4g2kyn040o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7edf4fd0b35dba65f843d303",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T10:24:52+00:00",
+      "last_update": "2026-11-20T10:24:52+00:00",
+      "event": "What are heat pumps and how much do they cost?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "bills",
+        "cost",
+        "cut",
+        "down",
+        "drive",
+        "energy",
+        "fossil",
+        "fuel",
+        "government",
+        "have",
+        "heat",
+        "homes",
+        "how",
+        "more",
+        "much",
+        "pumps",
+        "the",
+        "they",
+        "use",
+        "wants",
+        "what"
+      ],
+      "source_excerpt": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T10:24:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "366b85b5eebdb584de573109",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T10:25:04+00:00",
+      "last_update": "2026-11-20T10:25:04+00:00",
+      "event": "US & Canada",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "canada"
+      ],
+      "source_excerpt": "US & Canada BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kT2FuZl83UllZeVh2SVhncHRoU2xGR2k1b2Zfc0xMZ29VSWtQV19FcXVwNUQyT1VoNFlNSXVjN0FSb25vcWFuQWl1czZBdHlmXzBYN1lubGNwNlpX?oc=5",
+          "published_at": "2026-11-20T10:25:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kT2FuZl83UllZeVh2SVhncHRoU2xGR2k1b2Zfc0xMZ29VSWtQV19FcXVwNUQyT1VoNFlNSXVjN0FSb25vcWFuQWl1czZBdHlmXzBYN1lubGNwNlpX?oc=5",
+        "publisher_url": "https://bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7aea1ee31c9e4bf55de51bea",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T11:08:35+00:00",
+      "last_update": "2026-11-20T11:08:35+00:00",
+      "event": "UK finds fix for fridge and freezers after cyberattack",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "arynews",
+        "cyberattack",
+        "finds",
+        "fix",
+        "for",
+        "freezers",
+        "fridge"
+      ],
+      "source_excerpt": "UK finds fix for fridge and freezers after cyberattack ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RT0FwZmVhVzU2MWZnTHRXeVVjOWpGbVE5aTZmUTJLT1dmQm9VU3NGckhoZU5SX3BpLS0wME1sWXJ5QVFPdzRrcmRsVUtGYkpQelBQQjBVd3pUTXZzV3piYTVpc3ZrZWhxQjAyVXdueVBLd3BSNnFYdVdKYzhoQQ?oc=5",
+          "published_at": "2026-11-20T11:08:35+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/uk-finds-fix-for-fridge-and-freezers-after-cyberattack",
+          "published_at": "2026-11-20T11:08:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RT0FwZmVhVzU2MWZnTHRXeVVjOWpGbVE5aTZmUTJLT1dmQm9VU3NGckhoZU5SX3BpLS0wME1sWXJ5QVFPdzRrcmRsVUtGYkpQelBQQjBVd3pUTXZzV3piYTVpc3ZrZWhxQjAyVXdueVBLd3BSNnFYdVdKYzhoQQ?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "631824dd8a84c3d657bba495",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T10:52:17+00:00",
+      "last_update": "2026-11-20T10:52:17+00:00",
+      "event": "Turkey Stands with Pakistan | Turkish Seismic Research Vessel Arrives in Pakistan | Dunya News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrives",
+        "dunya",
+        "news",
+        "pakistan",
+        "research",
+        "seismic",
+        "stands",
+        "turkey",
+        "turkish",
+        "vessel",
+        "with"
+      ],
+      "source_excerpt": "Turkey Stands with Pakistan | Turkish Seismic Research Vessel Arrives in Pakistan | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOExPUjR2Q01GSTlZTWdTV0F3NGlRZWFTVWk3N3JUUkNBVkJNcEplajhLRWhrMDlwMDg1aDFDcXJFLS1kWDBmNmdfY0hOek9uUzNJbk91Q1M2Q1B2TVZNS3oxODdnR3U1c2lKbEZGSm9NdHhyZFc0cTI3Q3JYZ3BiMjlwWEV5eEpsenNCZUNMRWpFT1BJckpMTE1UeUQza2w4d2swSnh2ZzVuRjlWb2lGN2gteW1GTU5QeEJtUGJOa0tiWU00djlMNFo0dEotdW8zWUxJbFlkUzJHcF9PLWtZbFFvbw?oc=5",
+          "published_at": "2026-11-20T10:52:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOExPUjR2Q01GSTlZTWdTV0F3NGlRZWFTVWk3N3JUUkNBVkJNcEplajhLRWhrMDlwMDg1aDFDcXJFLS1kWDBmNmdfY0hOek9uUzNJbk91Q1M2Q1B2TVZNS3oxODdnR3U1c2lKbEZGSm9NdHhyZFc0cTI3Q3JYZ3BiMjlwWEV5eEpsenNCZUNMRWpFT1BJckpMTE1UeUQza2w4d2swSnh2ZzVuRjlWb2lGN2gteW1GTU5QeEJtUGJOa0tiWU00djlMNFo0dEotdW8zWUxJbFlkUzJHcF9PLWtZbFFvbw?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f6afa9919920d75e2ae82c7c",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T11:03:13+00:00",
+      "last_update": "2026-11-20T11:03:13+00:00",
+      "event": "Iranian Rial edges higher against Dollar, Saudi Riyal and Pakistani Rupee",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "and",
+        "dollar",
+        "edges",
+        "higher",
+        "iranian",
+        "pakistani",
+        "rial",
+        "riyal",
+        "rupee",
+        "saudi"
+      ],
+      "source_excerpt": "Iranian Rial edges higher against Dollar, Saudi Riyal and Pakistani Rupee",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/iranian-rial-edges-higher-against-dollar-saudi-riyal-pakistani-rupee",
+          "published_at": "2026-11-20T11:03:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/iranian-rial-edges-higher-against-dollar-saudi-riyal-pakistani-rupee",
+        "publisher_url": "https://arynews.tv/iranian-rial-edges-higher-against-dollar-saudi-riyal-pakistani-rupee",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "03faa1a73f67884d857deb3c",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T10:32:04+00:00",
+      "last_update": "2026-11-20T10:32:04+00:00",
+      "event": "Thar coal electricity benefiting entire Pakistan, says Sharjeel Memon",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "benefiting",
+        "coal",
+        "electricity",
+        "entire",
+        "memon",
+        "pakistan",
+        "says",
+        "sharjeel",
+        "thar"
+      ],
+      "source_excerpt": "Thar coal electricity benefiting entire Pakistan, says Sharjeel Memon",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/thar-coal-electricity-benefiting-entire-pakistan-sharjeel-memon",
+          "published_at": "2026-11-20T10:32:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/thar-coal-electricity-benefiting-entire-pakistan-sharjeel-memon",
+        "publisher_url": "https://arynews.tv/thar-coal-electricity-benefiting-entire-pakistan-sharjeel-memon",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7932c78a7966554c17cb3d39",
+      "remembered_at": "2026-11-20T11:20:39.887652+00:00",
+      "event_date": "2026-11-20T10:44:39+00:00",
+      "last_update": "2026-11-20T10:44:39+00:00",
+      "event": "Two Pakistani schools earn global recognition at World’s Best School Prizes 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "best",
+        "dawn",
+        "earn",
+        "global",
+        "pakistani",
+        "prizes",
+        "recognition",
+        "school",
+        "schools",
+        "two",
+        "world"
+      ],
+      "source_excerpt": "Two Pakistani schools earn global recognition at World’s Best School Prizes 2026 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmw4QXdGQ0Fvb2JzYWdWdXJuN0JSQXJPWFg5aFVwUS1UdmF1dWNvWVA4VnZCMHUtWnBIUEI4V1pMWmRKQVR2eE5meWlKVTJxQ2lUaFRWbjgydG1NS0E4eFVoeW14RXVzSW44T0tXbUpURHE0Z2xBQmVkb2lCSzJkTGtjYV9Oci1Pdm5kLXRlYnQ4c19rbGZWaVpLOWFoeE4tQTN4U2RESnFFc21MZHhyLS1Baw?oc=5",
+          "published_at": "2026-11-20T10:44:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmw4QXdGQ0Fvb2JzYWdWdXJuN0JSQXJPWFg5aFVwUS1UdmF1dWNvWVA4VnZCMHUtWnBIUEI4V1pMWmRKQVR2eE5meWlKVTJxQ2lUaFRWbjgydG1NS0E4eFVoeW14RXVzSW44T0tXbUpURHE0Z2xBQmVkb2lCSzJkTGtjYV9Oci1Pdm5kLXRlYnQ4c19rbGZWaVpLOWFoeE4tQTN4U2RESnFFc21MZHhyLS1Baw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T10:10:43.061208+00:00"
+  "updated_at": "2026-11-20T11:20:39.887652+00:00"
 }
