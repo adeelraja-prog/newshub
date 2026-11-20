@@ -1,150 +1,146 @@
-# News Hub report - Sat 21 Nov, 12:46 AM PKT
+# News Hub report - Sat 21 Nov, 01:35 AM PKT
 
 ## Collection
-- New items this run: 102 | items in rolling pool: 613
-- Unique story clusters: 535 (duplicates merged: 78)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 2
-- Items per outlet: UrduPoint 55, Al Jazeera 8, Geo News 7, ARY News 4, The Verge 3, Engadget 2, ProPakistani 2, Pakistan Today 2, Bloomberg.com 2, ARY News Pakistan 1, The News International 1, Dawn Latest 1
+- New items this run: 42 | items in rolling pool: 565
+- Unique story clusters: 496 (duplicates merged: 69)
+- Clusters dropped as already published/queued: 22; unchanged since last analysis: 3
+- Items per outlet: Geo News 6, Pakistan Today 5, Al Jazeera 4, ARY News 2, Engadget 2, Ars Technica 2, NBC News 2, samaa tv 1, Jang Urdu 1, Bol News 1, AP News 1, TechCrunch 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US tech sell-off continues as Anthropic tumbles after mega IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - CTD, police kill three terrorists in Kohat division | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nepal cricket fans celebrate their team’s global rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US tech sell-off continues as Anthropic tumbles after mega IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - CTD, police kill three terrorists in Kohat division | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nepal cricket fans celebrate their team’s global rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan faces 9.4 million cyberattacks in a year, Kaspersky reveals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New York City to close Rikers Island by 2032 under Mamdani's new proposal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US tech sell-off continues as Anthropic tumbles after mega IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - CTD, police kill three terrorists in Kohat division | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nepal cricket fans celebrate their team’s global rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 115/120 | empty: 2 | failed: 3 | malformed/partial: 3
+- Overall feeds with entries: 117/120 | empty: 2 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Punjab Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Belgrade Mayor Faces Three-Year Sentence for Alleged Assault  [NORMAL]
-- Poster: بلغراد کے میئر پر خاتون کونسلر پر حملے کا مقدمہ درج / Belgrade Mayor Charged With Assault | category politics
-- Alternative headline: Serbian Prosecutors Seek Prison Term for Belgrade Mayor
+### Trump Threatens Ban and Tremendous Tax on US Firms Building Overseas AI Data Centres  [NORMAL]
+- Poster: امریکہ سے باہر اے آئی ڈیٹا سینٹرز بنانے پر پابندی کی دھمکی / Trump threatens ban on overseas AI data centres | category us_politics
+- Alternative headline: Trump Warns US Tech Giants Against Building AI Data Centres Outside America
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Belgrade mayor, Aleksandar Sapic, Serbia assault, councillor, prosecutors | hashtags: #Belgrade #Serbia #Politics #Assault
-- Scheduled: Sat 21 Nov, 12:46 AM PKT
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology
+- Keywords: AI data centres, Donald Trump, US tech firms, China, artificial intelligence, tax penalty | hashtags: #DonaldTrump #AIDataCentres #USPolitics #Technology #China
+- Scheduled: Sat 21 Nov, 01:35 AM PKT
 - Caption:
 ```
-Prosecutors in Serbia are seeking a three-year prison sentence for Belgrade Mayor Aleksandar Sapic following an alleged assault on a female councillor.
+US President Donald Trump has threatened to ban American companies from building AI data centres overseas.
 
-Belgrade Mayor Aleksandar Sapic has been charged by prosecutors with causing serious facial injuries to a female councillor. Authorities are seeking a three-year prison sentence following the alleged assault in Serbia.
+US President Donald Trump has stated he will ban American companies from constructing artificial intelligence data centres overseas, warning of a heavy tax for tech firms that do so. Trump emphasized keeping infrastructure within the United States to prevent other nations, particularly China, from gaining an advantage, though enforcement details remain unclear.
 
-بلغراد کے میئر الیگزینڈر ساپچ پر خاتون کونسلر کو شدید چہرے کی چوٹیں پہنچانے کے الزام میں مقدمہ درج کیا گیا ہے۔ استغاثہ سربیا میں مبینہ حملے کے بعد تین سال قید کی سزا کا مطالبہ کر رہا ہے۔
+امریکی صدر ڈونلڈ ایسا اعلان کیا ہے کہ امریکی کمپنیاں بیرون ملک مصنوعی ذہانت کے ڈیٹا سینٹرز نہیں بنا سکیں گی۔ انہوں نے خبردار کیا ہے کہ ایسا کرنے والی ٹیک کمپنیوں پر بھاری ٹیکس لگایا جائے گا۔ صدر ٹرمپ کا کہنا ہے کہ تمام انفراسٹرکچر امریکہ کے اندر ہی رکھا جائے گا۔
+
+First reported by BBC Technology
+
+#DonaldTrump #AIDataCentres #USPolitics #Technology #China
+```
+
+### US Tech Sell-Off Deepens as Anthropic Tumbles Following Mega IPO Debut  [NORMAL]
+- Poster: اینتھروپک کے شیئر میں گراوٹ، امریکی ٹیک مارکیٹ میں مندی جاری / US tech sell-off continues as Anthropic tumbles | category economy
+- Alternative headline: Anthropic Shares Slide After Blockbuster Market Debut Stirs AI Bubble Fears
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Anthropic IPO, tech sell-off, US stock market, AI bubble, shares fall, economy | hashtags: #Anthropic #TechSellOff #StockMarket #Economy #AI
+- Scheduled: Sat 21 Nov, 01:45 AM PKT
+- Caption:
+```
+The US technology sector faces a continued sell-off as Anthropic shares stumble following its mega initial public offering.
+
+The United States technology sector experienced a continued sell-off as Anthropic shares tumbled following its mega initial public offering. The listing had initially been viewed as a potential boost for an industry struggling to regain its footing, but the downturn has heightened concerns regarding artificial intelligence market valuations.
+
+امریکی ٹیکنالوجی سیکٹر میں گراوٹ کا سلسلہ جاری ہے کیونکہ بڑے پیمانے پر آئی پی او کے بعد اینتھروپک کے حصص میں نمایاں کمی واقع ہوئی ہے۔ اس لسٹنگ کو ایسی صنعت کے لیے ممکنہ فروغ کے طور پر دیکھا جا رہا تھا جو سنبھلنے کی کوشش کر رہی ہے۔
 
 First reported by Al Jazeera
 
-#Belgrade #Serbia #Politics #Assault
+#Anthropic #TechSellOff #StockMarket #Economy #AI
 ```
 
-### Indian Man Sentenced to Over 19 Years in US Assassination Plot  [NORMAL]
-- Poster: امریکی سکھ رہنما کے قتل کی سازش میں بھارتی شہری کو سزا / Indian Man Sentenced in US Plot | category crime
-- Alternative headline: US Court Sentences Indian National in Sikh Separatist Murder Plot
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE45al9WaFg3Q25ScnRCQ2hPSGZ3VE1YQlhIaDFtbFhkWlJTNzRHWXlFZ0ptUm1fVW4tUkF3cFFSSVVSeGs1djlPX1ZLT05vVXJLLWdoYWV1QVUxWUE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE45al9WaFg3Q25ScnRCQ2hPSGZ3VE1YQlhIaDFtbFhkWlJTNzRHWXlFZ0ptUm1fVW4tUkF3cFFSSVVSeGs1djlPX1ZLT05vVXJLLWdoYWV1QVUxWUE?oc=5
-- Supporting coverage: BBC, BBC World, Al Jazeera
-- Keywords: assassination plot, Sikh separatist, US court, Indian man, sentenced | hashtags: #US #Crime #Court #SikhSeparatist
-- Scheduled: Sat 21 Nov, 12:56 AM PKT
-- Caption:
-```
-An Indian man has been sentenced to more than 19 years in prison over a thwarted plot to assassinate a US-based Sikh separatist leader.
-
-An Indian man has been handed a prison sentence of over 19 years following his involvement in a plot to assassinate a US-based Sikh separatist leader. The case highlights international security concerns regarding transnational threats.
-
-امریکہ میں مقیم سکھ علیحدگی پسند رہنما کو قتل کرنے کی ناکام سازش میں ایک بھارتی شہری کو 19 سال سے زائد قید کی سزا سنا دی گئی ہے۔
-
-First reported by BBC
-
-#US #Crime #Court #SikhSeparatist
-```
-
-### Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Reveals  [NORMAL]
-- Poster: پاکستان پر ایک سال میں 94 لاکھ سے زائد سائبر حملے / 9.4M Cyberattacks Hit Pakistan | category tech
-- Alternative headline: Kaspersky Reports 9.4 Million Cyberattacks Targeted Pakistan Within One Year
+### CTD and Police Eliminate Three Terrorists Including Kohat Attack Mastermind in IBO  [NORMAL]
+- Poster: کوہاٹ میں سی ٹی ڈی اور پولیس کا آپریشن، تین دہشت گرد ہلاک / Three terrorists killed in Kohat CTD operation | category security
+- Alternative headline: Three Terrorists Killed in Kohat Division Police and CTD Intelligence Operation
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News Pakistan https://news.google.com/rss/articles/CBMifkFVX3lxTE5yMUYxLXA0emxOTlNuMVlZaUszck9qZUxyaUNQOEYzUjg0QmJaNTNtWEx3ZFh0Qk5ZYnJ2Y3ppNWpHb2xFNVpqRVp6OXI5ZGJ5WGxVaGw3ZG40Z0hzVXNPUEJuMWMxT2E2MVdoMmtweHRYaFZsR3JHNG9oejEtZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News Pakistan https://news.google.com/rss/articles/CBMifkFVX3lxTE5yMUYxLXA0emxOTlNuMVlZaUszck9qZUxyaUNQOEYzUjg0QmJaNTNtWEx3ZFh0Qk5ZYnJ2Y3ppNWpHb2xFNVpqRVp6OXI5ZGJ5WGxVaGw3ZG40Z0hzVXNPUEJuMWMxT2E2MVdoMmtweHRYaFZsR3JHNG9oejEtZw?oc=5
-- Supporting coverage: TechJuice, ARY News Pakistan, ARY News
-- Keywords: cyberattacks, Kaspersky, Pakistan tech, digital security, cyber threats | hashtags: #Cybersecurity #Pakistan #Kaspersky #TechNews
-- Scheduled: Sat 21 Nov, 01:06 AM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1ZkakV5d1Y3b3hLWHJwX2hnM2RhRzFYVHk4QjhQajAyRjlJMm1tclh6Ym1HVERWVkFfWHdTQ3NrUVQ3SjJfUmZDVmxMaHRtelprRWRCMElKbFdPYXp5dlBDbjhYREhKTnNzSWhUWVZrUkRRVlBvblVtd1p0SHFlYVI5Q08wOUdwdGdIMEV0SDl2T0hMUWJyQW16bkQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1ZkakV5d1Y3b3hLWHJwX2hnM2RhRzFYVHk4QjhQajAyRjlJMm1tclh6Ym1HVERWVkFfWHdTQ3NrUVQ3SjJfUmZDVmxMaHRtelprRWRCMElKbFdPYXp5dlBDbjhYREhKTnNzSWhUWVZrUkRRVlBvblVtd1p0SHFlYVI5Q08wOUdwdGdIMEV0SDl2T0hMUWJyQW16bkQ?oc=5
+- Supporting coverage: samaa tv, ARY News, Dawn Latest
+- Keywords: Kohat operation, CTD, police, terrorists killed, Kohat police lines attack, IBO | hashtags: #CTD #Kohat #CounterTerrorism #PakistanPolice #Security
+- Scheduled: Sat 21 Nov, 01:55 AM PKT
 - Caption:
 ```
-Global cybersecurity firm Kaspersky has revealed that Pakistan was targeted by 9.4 million cyberattacks over the course of a single year.
+Counter-Terrorism Department and police forces have killed three terrorists during an intelligence-based operation in the Kohat division.
 
-New data from cybersecurity firm Kaspersky shows that Pakistan experienced 9.4 million cyberattacks within a single year. The findings underscore growing digital security vulnerabilities and the urgent need for enhanced cyber defenses across national networks and institutions.
+The Counter-Terrorism Department and local police successfully eliminated three terrorists during an intelligence-based operation in the Kohat division. According to authorities, the killed individuals included the mastermind behind the previous Kohat police lines attack, marking a major breakthrough in regional counter-terrorism efforts.
 
-قومی اور بین الاقوامی سائبر سیکیورٹی ادارے کیسپرسکی کے انکشاف کے مطابق پاکستان کو ایک سال کے دوران 9.4 ملین سائبر حملوں کا سامنا کرنا پڑا۔ یہ اعداد و شمار ملک میں ڈیجیٹل سیکیورٹی کے خطرات کو اجاگر کرتے ہیں۔
+سی ٹی ڈی اور پولیس نے کوہاٹ ڈویژن میں انٹیلی جنس بیسڈ آپریشن کے دوران تین دہشت گردوں کو ہلاک کر دیا۔ حکام کے مطابق ہلاک ہونے والوں میں کوہاٹ پولیس لائنز حملے کا ماسٹر مائنڈ بھی شامل ہے۔
 
-First reported by ARY News Pakistan
+First reported by samaa tv; also reported by ARY News and Dawn Latest
 
-#Cybersecurity #Pakistan #Kaspersky #TechNews
+#CTD #Kohat #CounterTerrorism #PakistanPolice #Security
 ```
 
-### New York City Plans to Close Notorious Rikers Island by 2032  [NORMAL]
-- Poster: نیویارک کا ریکرز آئی لینڈ جیل 2032 تک بند کرنے کا اعلان / NYC to Close Rikers Island by 2032 | category politics
-- Alternative headline: Mamdani Unveils Proposal to Shut Down NYC Rikers Island Jail
+### Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Barrel Purchase  [NORMAL]
+- Poster: جاپان کی سعودی عرب کو تیل کی اضافی اسٹوریج کی پیشکش / Japan offers Saudi Arabia extra oil storage | category economy
+- Alternative headline: Japan Expands Crude Stockpiling Deal with Saudi Arabia for Millions of Barrels
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The News International https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlV6OHhsamhScDBGVk5rSTNabVhqNS10YnVneGkxUlMxN2ZKMXBORlFaS2tPaXhrQUtMSGpjX1ZwRm5XaTJ3VHBwTjJxMTQ1NjdpUm0tRW9heGF5bGtZcndxb3Z1NE9hY2ZMYnlXTXBjWWpkVGJ2ZDc4Q09raVFZZGwtSU9vT09IRXM0U1FQVDdtZE1zWGd3TVJESktzUmtFbjBCXzBSWnFSQWI0VVhOQ2lUNzbSAbABQVVfeXFMUGRrd0NyMnZmODZvYjlWVWt5bEpvTWdBYnI3eE1lUFJ1NG5LQnNuY184R1BtZDZGN2MzcTlFbXJmMjRaeTFMZzVrLXVNV1VReEMtN0pwSGNsdXpWNU9ndFA4eWMySjNSWkJBaHJUQ083blZPMXI0OUp3Y2RvNjNoLVRpanU3MF9aNDFwaGtZTFBXd0JXa3dnMzhDTGtWTks0d3FTTlVJNmZTb2V5c3FwY2Y?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The News International https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlV6OHhsamhScDBGVk5rSTNabVhqNS10YnVneGkxUlMxN2ZKMXBORlFaS2tPaXhrQUtMSGpjX1ZwRm5XaTJ3VHBwTjJxMTQ1NjdpUm0tRW9heGF5bGtZcndxb3Z1NE9hY2ZMYnlXTXBjWWpkVGJ2ZDc4Q09raVFZZGwtSU9vT09IRXM0U1FQVDdtZE1zWGd3TVJESktzUmtFbjBCXzBSWnFSQWI0VVhOQ2lUNzbSAbABQVVfeXFMUGRrd0NyMnZmODZvYjlWVWt5bEpvTWdBYnI3eE1lUFJ1NG5LQnNuY184R1BtZDZGN2MzcTlFbXJmMjRaeTFMZzVrLXVNV1VReEMtN0pwSGNsdXpWNU9ndFA4eWMySjNSWkJBaHJUQ083blZPMXI0OUp3Y2RvNjNoLVRpanU3MF9aNDFwaGtZTFBXd0JXa3dnMzhDTGtWTks0d3FTTlVJNmZTb2V5c3FwY2Y?oc=5
-- Supporting coverage: The News International, Al Jazeera
-- Keywords: Rikers Island, New York City, jail closure, Mamdani, proposal | hashtags: #NewYork #RikersIsland #Politics #Justice
-- Scheduled: Sat 21 Nov, 01:16 AM PKT
+- Original source: published_report - ARY News https://arynews.tv/japan-offers-saudi-arabia-16-million-barrels-of-extra-oil-storage-eyes-8-million-barrel-buy | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/japan-offers-saudi-arabia-16-million-barrels-of-extra-oil-storage-eyes-8-million-barrel-buy
+- Supporting coverage: ARY News
+- Keywords: oil storage, Japan, Saudi Arabia, crude oil, energy reserves, Prince Abdulaziz bin Salman | hashtags: #Japan #SaudiArabia #OilStorage #Energy #Economy
+- Scheduled: Sat 21 Nov, 02:05 AM PKT
 - Caption:
 ```
-New York City could see the closure of its controversial Rikers Island jail complex by 2032 under a new proposal.
+Japan has offered Saudi Arabia millions of barrels of extra crude oil storage capacity while eyeing a substantial purchase.
 
-A new proposal outlines plans to officially close New York City's Rikers Island jail complex by the year 2032. The initiative marks a significant shift in local criminal justice policy and incarceration reform efforts.
+Japan has offered Saudi Arabia an extra 16 million barrels of crude oil storage capacity and plans to purchase up to 8 million barrels for its national reserves. The arrangement builds on the Joint Crude Oil Stockpiling Project initiated in 2010 and follows virtual ministerial talks.
 
-ایک نئے تجویز کے تحت نیویارک شہر کے متنازعہ ریکرز آئی لینڈ جیل کمپلیکس کو 2032 تک بند کرنے کا منصوبہ سامنے آیا ہے۔ یہ اقدام مقامی اصلاحات کی کوششوں کا حصہ ہے۔
+جاپان نے سعودی عرب کو خام تیل کی اسٹوریج کی اضافی گنجائش فراہم کرنے کی پیشکش کی ہے اور وہ اپنے قومی ذخائر کے لیے آٹھ ملین بیرل تک تیل خریدنے کا ارادہ رکھتا ہے۔ یہ اقدام دوطرفہ تعاون کے تحت اٹھایا گیا ہے۔
 
-First reported by The News International
+First reported by ARY News
 
-#NewYork #RikersIsland #Politics #Justice
+#Japan #SaudiArabia #OilStorage #Energy #Economy
 ```
 
-- Indian outlets blocked this run: 5 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
-- [published] normal | US officially loses measles-free status after 26 years | Wed 18 Nov, 12:47 AM PKT
-- [published] normal | UK sanctions Israeli firms building West Bank settlements | Wed 18 Nov, 12:57 AM PKT
 - [needs_review] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
 - [needs_review] normal | Trump warns Iran over reported dirty bomb threat in Washington | Wed 18 Nov, 01:17 AM PKT
 - [needs_review] normal | Prince William and Kate Celebrate Earthshot Prize Winners in Mumbai | Wed 18 Nov, 01:38 AM PKT
@@ -332,10 +328,10 @@ First reported by The News International
 - [published] normal | Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026 | Fri 20 Nov, 05:48 PM PKT
 - [needs_review] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
 - [published] normal | Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling | Fri 20 Nov, 06:48 PM PKT
-- [queued] normal | CDF Asim Munir Vows to Eradicate Terrorism in KP | Fri 20 Nov, 06:58 PM PKT
-- [queued] normal | Afghanistan Excluded from ECO Moot Due to Non-Recognition | Fri 20 Nov, 07:08 PM PKT
-- [queued] normal | Supreme Court of Pakistan Receives International ISO Certification | Fri 20 Nov, 07:18 PM PKT
-- [queued] normal | PCB Chairman Mohsin Naqvi Announces All-Pakistan Tri-Series for Decemb | Fri 20 Nov, 07:41 PM PKT
+- [needs_review] normal | CDF Asim Munir Vows to Eradicate Terrorism in KP | Fri 20 Nov, 06:58 PM PKT
+- [needs_review] normal | Afghanistan Excluded from ECO Moot Due to Non-Recognition | Fri 20 Nov, 07:08 PM PKT
+- [needs_review] normal | Supreme Court of Pakistan Receives International ISO Certification | Fri 20 Nov, 07:18 PM PKT
+- [published] normal | PCB Chairman Mohsin Naqvi Announces All-Pakistan Tri-Series for Decemb | Fri 20 Nov, 07:41 PM PKT
 - [queued] normal | Spain to Face France and England Take on Norway in Nations League Quar | Fri 20 Nov, 07:51 PM PKT
 - [queued] normal | Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperatio | Fri 20 Nov, 08:01 PM PKT
 - [queued] normal | Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over  | Fri 20 Nov, 08:41 PM PKT
@@ -351,18 +347,22 @@ First reported by The News International
 - [queued] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
 - [queued] normal | Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Re | Sat 21 Nov, 01:06 AM PKT
 - [queued] normal | New York City Plans to Close Notorious Rikers Island by 2032 | Sat 21 Nov, 01:16 AM PKT
+- [queued] normal | Trump Threatens Ban and Tremendous Tax on US Firms Building Overseas A | Sat 21 Nov, 01:35 AM PKT
+- [queued] normal | US Tech Sell-Off Deepens as Anthropic Tumbles Following Mega IPO Debut | Sat 21 Nov, 01:45 AM PKT
+- [queued] normal | CTD and Police Eliminate Three Terrorists Including Kohat Attack Maste | Sat 21 Nov, 01:55 AM PKT
+- [queued] normal | Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Ba | Sat 21 Nov, 02:05 AM PKT
 
 ## Publishing this run
-- Published 'Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling'.
+- Published 'PCB Chairman Mohsin Naqvi Announces All-Pakistan Tri-Series for December'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4875 | output tokens: 2197
+- Calls: 3 | prompt tokens: 4564 | output tokens: 2185
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
