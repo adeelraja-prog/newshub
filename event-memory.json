@@ -86624,7 +86624,252 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "93016a440f150472f3bddffc",
+      "remembered_at": "2026-11-20T07:58:10.577031+00:00",
+      "event_date": "2026-11-20T02:27:50+00:00",
+      "last_update": "2026-11-20T07:39:55+00:00",
+      "event": "Pakistan’s large-scale production grows 2.07% in 3 months",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "grows",
+        "large",
+        "months",
+        "pakistan",
+        "production",
+        "samaa",
+        "scale"
+      ],
+      "source_excerpt": "Pakistan’s large-scale production grows 2.07% in 3 months samaa tv",
+      "sources": [
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVl9ubFdtdVhxcDdMYWFhanNKLUo1QzNMTFdDbXVpSnh2V0xtS2g2SEZJdkJIU0Yxa2ViMmVCVl9jcXJPOUJtU0taMkpmZ2Q3RVh6RHNNV0d1ckM4STRidk0ySExUVGU3Ry11NGdDMjl6UERZc1NIS045UEtNRDBrZ2JSVkJlRWxXbXdacmE0ZnZqMnN3YzlmWTFtbFNYcHNEY0NKbWlqU2w1SFIxdkhOS0JVS1laMm9feXZXYXRWVmhqNVdIZzRXUldJZ0ZEQ05ROVptX2RjU3o2c0JaOTdxQUxoZVo5WnZWRGc?oc=5",
+          "published_at": "2026-11-20T02:27:50+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0QzU1lUYkgyRC13M19BNVhuc2szaGlIRi13MG9UZkRzYlBXdTVySFVvVFoxcTBPc3hpNW12c2NHUjNpOTFObWpObkJKWUZ1RVE4anpkb0tlV21TRlE5bV80QTNoYThQT0ludERvM2Nsd2RCY1dGR0NBa3lRc0JwclNCclFBVHgyZ3lrdVIxbmJZQQ?oc=5",
+          "published_at": "2026-11-20T07:39:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0QzU1lUYkgyRC13M19BNVhuc2szaGlIRi13MG9UZkRzYlBXdTVySFVvVFoxcTBPc3hpNW12c2NHUjNpOTFObWpObkJKWUZ1RVE4anpkb0tlV21TRlE5bV80QTNoYThQT0ludERvM2Nsd2RCY1dGR0NBa3lRc0JwclNCclFBVHgyZ3lrdVIxbmJZQQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "00e08ffe1710c387b669a9a2",
+      "remembered_at": "2026-11-20T07:58:10.577031+00:00",
+      "event_date": "2026-11-20T05:11:45+00:00",
+      "last_update": "2026-11-20T07:53:38+00:00",
+      "event": "Pakistan improves 17 places in UN E-Government Development Index 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "development",
+        "government",
+        "improves",
+        "index",
+        "pakistan",
+        "places"
+      ],
+      "source_excerpt": "Pakistan improves 17 places in UN E-Government Development Index 2026",
+      "sources": [
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/pakistan-un-egdi-2026-ranking-17-ranks-improvement/",
+          "published_at": "2026-11-20T05:11:45+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-improves-17-places-in-un-e-government-development-index-2026",
+          "published_at": "2026-11-20T07:53:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-improves-17-places-in-un-e-government-development-index-2026",
+        "publisher_url": "https://arynews.tv/pakistan-improves-17-places-in-un-e-government-development-index-2026",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "40f633e8080b485b78e16394",
+      "remembered_at": "2026-11-20T07:58:10.577031+00:00",
+      "event_date": "2026-11-20T04:24:04+00:00",
+      "last_update": "2026-11-20T06:36:55+00:00",
+      "event": "Saudi coalition says intercepted Houthi missile, drones",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "coalition",
+        "dawn",
+        "drones",
+        "houthi",
+        "intercepted",
+        "missile",
+        "saudi",
+        "says"
+      ],
+      "source_excerpt": "Saudi coalition says intercepted Houthi missile, drones Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkU5RjRDdXR5SkcyXzFQMFRqc2oyd1gyQUl0VVB1WWRCY05MTzJpOHMtOHYyWVh6THl2U3ROMXBpRWlrQ3BzOEMtYnd5VVVtenplQ2k0V1NGSEZyV2o1YmExUVR3NndhVVZ2RmE0ZERvSlNJN0R0NTdVM29FSURBUzhmcHFWYy1QWWhCWi0wWEl2Zw?oc=5",
+          "published_at": "2026-11-20T04:24:04+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTIxQmo1bGpUVklLRURDMnJma1ZuZ2tNaGhNbUtWcGJTMERjNy01Wk5NdVQwWUwxbHhfUm9jSkV1S0s0aHNfcnBOYU1GZmdOMmJJV05TQXB1TGF0MVhSdk4xYTdtYzVncjFNeHp1SGxpR0V4LWxHYS1uNVRKX3VORFZ0bWhoaWVEMFRDYUplY2NtQUdzdkxaalpHV29nT3U4eEo0NGgwZWFaOUNYbHdBR01feU9lQnR3?oc=5",
+          "published_at": "2026-11-20T06:36:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkU5RjRDdXR5SkcyXzFQMFRqc2oyd1gyQUl0VVB1WWRCY05MTzJpOHMtOHYyWVh6THl2U3ROMXBpRWlrQ3BzOEMtYnd5VVVtenplQ2k0V1NGSEZyV2o1YmExUVR3NndhVVZ2RmE0ZERvSlNJN0R0NTdVM29FSURBUzhmcHFWYy1QWWhCWi0wWEl2Zw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "905fc567ca0dea8711a05b76",
+      "remembered_at": "2026-11-20T07:58:10.577031+00:00",
+      "event_date": "2026-11-20T07:37:55+00:00",
+      "last_update": "2026-11-20T07:37:55+00:00",
+      "event": "Lionel Messi of Inter Miami tops Major League Soccer salaries",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2023",
+        "2028",
+        "argentinian",
+        "contract",
+        "extension",
+        "football",
+        "inter",
+        "joined",
+        "last",
+        "league",
+        "legend",
+        "lionel",
+        "major",
+        "messi",
+        "miami",
+        "salaries",
+        "signed",
+        "soccer",
+        "through",
+        "tops",
+        "who",
+        "year"
+      ],
+      "source_excerpt": "Argentinian football legend Messi, who joined Miami in 2023, signed a contract extension through 2028 last year.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss",
+          "published_at": "2026-11-20T07:37:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ee86358e786c3607f61d6b30",
+      "remembered_at": "2026-11-20T07:58:10.577031+00:00",
+      "event_date": "2026-11-20T07:20:53+00:00",
+      "last_update": "2026-11-20T07:20:53+00:00",
+      "event": "The Gambia stood up for the Rohingya, now the world must act",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "act",
+        "but",
+        "delivered",
+        "depend",
+        "for",
+        "gambia",
+        "happens",
+        "has",
+        "historic",
+        "icj",
+        "judgement",
+        "justice",
+        "must",
+        "next",
+        "now",
+        "rohingya",
+        "stood",
+        "the",
+        "what",
+        "will",
+        "world"
+      ],
+      "source_excerpt": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
+          "published_at": "2026-11-20T07:20:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T06:39:07.613677+00:00"
+  "updated_at": "2026-11-20T07:58:10.577031+00:00"
 }

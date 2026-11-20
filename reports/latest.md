@@ -1,56 +1,142 @@
-# News Hub report - Fri 20 Nov, 11:39 AM PKT
+# News Hub report - Fri 20 Nov, 12:58 PM PKT
 
 ## Collection
-- New items this run: 124 | items in rolling pool: 417
-- Unique story clusters: 324 (duplicates merged: 93)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 10
-- Items per outlet: UrduPoint 40, Wired 12, Geo News 9, ProPakistani 6, Al Jazeera 5, The Current 5, Dawn Latest 4, ARY News 4, Dawn 3, The Express Tribune 3, BBC Business 3, TechJuice 3
+- New items this run: 126 | items in rolling pool: 502
+- Unique story clusters: 398 (duplicates merged: 104)
+- Clusters dropped as already published/queued: 22; unchanged since last analysis: 9
+- Items per outlet: UrduPoint 44, Geo News 10, ProPakistani 8, TechJuice 8, ARY News 6, Investify 5, Dawn Latest 4, Al Jazeera 4, PhoneWorld 4, Profit by Pakistan Today 4, samaa tv 3, The Express Tribune 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
 - Pakistan beat Sri Lanka by eight wickets in second Test, win series 1-0 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cartoon: 20 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladeshi civil servants’ team visits SIUT, meets CM | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Student’s death from stray dog bite reaches IHC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore once again ranks as world's most polluted major city as AQI crosses 400 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt plans electric bus service in 14 cities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s large-scale production grows 2.07% in 3 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan improves 17 places in UN E-Government Development Index 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Pakistan beat Sri Lanka by eight wickets in second Test, win series 1-0 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cartoon: 20 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladeshi civil servants’ team visits SIUT, meets CM | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Student’s death from stray dog bite reaches IHC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore once again ranks as world's most polluted major city as AQI crosses 400 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt plans electric bus service in 14 cities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s large-scale production grows 2.07% in 3 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan improves 17 places in UN E-Government Development Index 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Pakistan beat Sri Lanka by eight wickets in second Test, win series 1-0 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cartoon: 20 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladeshi civil servants’ team visits SIUT, meets CM | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Student’s death from stray dog bite reaches IHC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore once again ranks as world's most polluted major city as AQI crosses 400 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt plans electric bus service in 14 cities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s large-scale production grows 2.07% in 3 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan improves 17 places in UN E-Government Development Index 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 99/107 | empty: 3 | failed: 5 | malformed/partial: 6
-- Trusted publisher desks with at least one healthy source: 9/10
-- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Jang Urdu | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: International Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Jang
 
 ## Selected for the queue
-- Indian outlets blocked this run: 10 items
+### Pakistan conquer Sri Lanka by eight wickets to seal Test series  [NORMAL]
+- Poster: پاکستان نے سری لنکا کو دوسرے ٹیسٹ میں شکست دے کر سیریز جیت لی / Pakistan beat Sri Lanka by 8 wickets to win series | category sports
+- Alternative headline: Pakistan beat Sri Lanka by eight wickets in second Test
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/691875-pakistan-beat-sri-lanka-by-eight-wickets-in-second-test-win-series-1-0 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/691875-pakistan-beat-sri-lanka-by-eight-wickets-in-second-test-win-series-1-0
+- Supporting coverage: Geo News, Geo News, Reuters, AP News, The Express Tribune, Dawn
+- Keywords: Pakistan vs Sri Lanka Test, Rawalpindi Test, Aamer Jamal, Babar Azam, Test series win, Pakistan cricket | hashtags: #PAKvSL #PakistanCricket #TestSeries #RawalpindiTest #Cricket
+- Scheduled: Fri 20 Nov, 12:58 PM PKT
+- Caption:
+```
+Pakistan clinched the two-match Test series against Sri Lanka 1-0 after securing a comfortable eight-wicket win in Rawalpindi.
+
+Pakistan defeated Sri Lanka by eight wickets in the second Test at the Rawalpindi Cricket Stadium to clinch the two-match series 1-0. Chasing a target of 90 runs, Pakistan reached home safely in 13 overs, with Aamer Jamal and Azan Awais remaining unbeaten.
+
+پاکستان نے راولپنڈی کرکٹ اسٹیڈیم میں کھیلے گئے دوسرے ٹیسٹ میچ میں سری لنکا کو آٹھ وکٹوں سے شکست دے کر دو میچوں کی سیریز ایک صفر سے جیت لی۔ نوے رنز کا ہندسہ پاکستان نے تیرہ اوورز میں پورا کیا۔
+
+First reported by Geo News.
+
+#PAKvSL #PakistanCricket #TestSeries #RawalpindiTest #Cricket
+```
+
+### Daily Editorial Cartoon for November 20, 2026  [NORMAL]
+- Poster: ڈان کا روزنامہ کارٹون: 20 نومبر 2026 / Dawn Daily Cartoon: November 20, 2026 | category other
+- Alternative headline: Dawn Cartoon: November 20, 2026
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE1QSFJqQktjMzJjVmJJMzdFcnBacXo0cVh6UmNhMWpQRDNBS0MxUjFZZEdBWjR6VW54X2R2U3c3TUltTDgzVzF4dy1BME4xQUdjODJ2SkVpeTVtdS1vTGxTZmRKamxNNWM5X2c?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE1QSFJqQktjMzJjVmJJMzdFcnBacXo0cVh6UmNhMWpQRDNBS0MxUjFZZEdBWjR6VW54X2R2U3c3TUltTDgzVzF4dy1BME4xQUdjODJ2SkVpeTVtdS1vTGxTZmRKamxNNWM5X2c?oc=5
+- Supporting coverage: Dawn, Profit by Pakistan Today, Investify, Wired, Wired, Wired
+- Keywords: Cartoon, Dawn cartoon, Editorial cartoon, November 20 2026 | hashtags: #DawnCartoon #EditorialCartoon #Pakistan
+- Scheduled: Fri 20 Nov, 01:08 PM PKT
+- Caption:
+```
+Check out today's editorial cartoon featured in Dawn.
+
+The daily editorial cartoon published by Dawn on November 20, 2026, provides a satirical visual commentary on current national events.
+
+ڈان کی جانب سے 20 نومبر 2026 کو شائع ہونے والا روزنامہ کارٹون، جو حالاتِ حاضرہ پر طنزیہ نظر ڈالتا ہے۔
+
+First reported by Dawn.
+
+#DawnCartoon #EditorialCartoon #Pakistan
+```
+
+### KP government plans electric bus service across 14 cities  [NORMAL]
+- Poster: خیبر پختونخوا کے 14 شہروں میں الیکٹرک بس سروس شروع کرنے کا فیصلہ / Electric bus service planned for 14 KP cities | category other
+- Alternative headline: Govt plans electric bus service in 14 cities
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWpPUGFWSmhzNERhbWRVWWRyd1phQmE2UE9NNmlCV0czS3dMUk55U25UVTI0M3dhMjdsZ2lrSE00aEtodmJNdnQwYXlZUXBOSDZKdjctNHdaLTBnSGhnZDd2aWI5bjUzRVpJeW1UTnE4Vk9jM1lqYUZISDBBZ3NqTE1yRDA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWpPUGFWSmhzNERhbWRVWWRyd1phQmE2UE9NNmlCV0czS3dMUk55U25UVTI0M3dhMjdsZ2lrSE00aEtodmJNdnQwYXlZUXBOSDZKdjctNHdaLTBnSGhnZDd2aWI5bjUzRVpJeW1UTnE4Vk9jM1lqYUZISDBBZ3NqTE1yRDA?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, ProPakistani
+- Keywords: electric bus service, KP government, public transport, Dawn, 14 cities | hashtags: #ElectricBus #KPK #PublicTransport #Pakistan
+- Scheduled: Fri 20 Nov, 01:18 PM PKT
+- Caption:
+```
+The Khyber Pakhtunkhwa government has announced plans to introduce an electric bus service across 14 cities in the province.
+
+The government has formulated plans to launch an electric bus service in 14 cities of Khyber Pakhtunkhwa to improve public transport and reduce environmental pollution.
+
+حکومت نے خیبر پختونخوا کے 14 شہروں میں پبلک ٹرانسپورٹ کے نظام کو بہتر بنانے اور ماحول دوست بنانے کے لیے الیکٹرک بس سروس شروع کرنے کا منصوبہ بنایا ہے۔
+
+First reported by Dawn.
+
+#ElectricBus #KPK #PublicTransport #Pakistan
+```
+
+### Pakistan's large-scale manufacturing grows 2.07% in three months  [NORMAL]
+- Poster: پاکستان کی بڑی صنعتوں کی پیداوار میں تین ماہ کے دوران 2.07 فیصد اضافہ / Pakistan's large-scale manufacturing grows 2.07% in 3 months | category economy
+- Alternative headline: Large-scale production rises by 2.07% in first quarter
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0QzU1lUYkgyRC13M19BNVhuc2szaGlIRi13MG9UZkRzYlBXdTVySFVvVFoxcTBPc3hpNW12c2NHUjNpOTFObWpObkJKWUZ1RVE4anpkb0tlV21TRlE5bV80QTNoYThQT0ludERvM2Nsd2RCY1dGR0NBa3lRc0JwclNCclFBVHgyZ3lrdVIxbmJZQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0QzU1lUYkgyRC13M19BNVhuc2szaGlIRi13MG9UZkRzYlBXdTVySFVvVFoxcTBPc3hpNW12c2NHUjNpOTFObWpObkJKWUZ1RVE4anpkb0tlV21TRlE5bV80QTNoYThQT0ludERvM2Nsd2RCY1dGR0NBa3lRc0JwclNCclFBVHgyZ3lrdVIxbmJZQQ?oc=5
+- Supporting coverage: Profit by Pakistan Today, samaa tv
+- Keywords: large-scale manufacturing, Pakistan economy, LSM growth, industrial production, Samaa TV | hashtags: #Economy #PakistanEconomy #LSM #Business
+- Scheduled: Fri 20 Nov, 01:28 PM PKT
+- Caption:
+```
+Pakistan's large-scale manufacturing sector registered a growth of 2.07 percent during the first three months.
+
+Pakistan's large-scale manufacturing (LSM) sector witnessed a growth of 2.07% during the first three months, reflecting signs of industrial recovery led by key sectors.
+
+پاکستان میں بڑی صنعتوں کی پیداوار (LSM) میں تین ماہ کے دوران 2.07 فیصد اضافہ ریکارڈ کیا گیا ہے، جو معاشی بہتری کی علامت ہے۔
+
+First reported by Samaa TV.
+
+#Economy #PakistanEconomy #LSM #Business
+```
+
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
-- [needs_review] normal | Paraguay ex-president moved to military jail amid special treatment re | Tue 17 Nov, 05:57 AM PKT
-- [needs_review] normal | EU agrees to resurrect cooperation deal with Syria | Tue 17 Nov, 06:07 AM PKT
-- [needs_review] normal | The AI start-ups fixing India's broken roads and messy land records | Tue 17 Nov, 06:17 AM PKT
 - [needs_review] normal | Yemeni army reports 661 attacks on Houthis as group advances towards A | Tue 17 Nov, 07:11 AM PKT
 - [needs_review] normal | New Zealand tricks and annual leave - the lengths fans are going to fo | Tue 17 Nov, 07:21 AM PKT
 - [needs_review] normal | Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’ | Tue 17 Nov, 07:31 AM PKT
@@ -67,8 +153,6 @@
 - [needs_review] normal | Two held for Rs5m UK work visa fraud | Tue 17 Nov, 11:31 AM PKT
 - [needs_review] normal | Man found murdered in farmhouse | Tue 17 Nov, 11:41 AM PKT
 - [needs_review] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
-- [published] breaking | Breaking News, World News and Video from Al Jazeera | Tue 17 Nov, 12:50 PM PKT
-- [published] normal | Pakistan appoints Shane Deitz as women’s cricket team head coach | Tue 17 Nov, 12:50 PM PKT
 - [needs_review] normal | Pakistan's fast bowling masterclass leaves Sri Lanka reeling as second | Tue 17 Nov, 01:00 PM PKT
 - [needs_review] normal | Pakistan condemns Israeli attacks in Syria, calls for withdrawal from  | Tue 17 Nov, 01:10 PM PKT
 - [published] normal | Ukraine hits Russia’s Crimea bridge in 1,300-drone barrage | Tue 17 Nov, 01:55 PM PKT
@@ -258,10 +342,10 @@
 - [needs_review] normal | Judge Rules Thomas Markle Mentally Fit to Stand Trial on Child Abuse C | Fri 20 Nov, 05:20 AM PKT
 - [needs_review] normal | Famed Cincinnati Zoo Hippo Fiona Dies Days After Swallowing Knitted Ha | Fri 20 Nov, 05:30 AM PKT
 - [published] normal | Why Canada is embracing AI data centres while the US pushes back | Fri 20 Nov, 06:11 AM PKT
-- [queued] normal | PM credits civil-military partnership for economic stability, defends  | Fri 20 Nov, 06:21 AM PKT
-- [queued] normal | Cumin-laced fizzy sodas give cola giants a tough fight in India | Fri 20 Nov, 06:31 AM PKT
-- [queued] normal | Trump posthumously pardons US baseball legend Pete Rose | Fri 20 Nov, 06:41 AM PKT
-- [queued] normal | Houthi Strike Damages Riyadh's Tallest Skyscraper | Fri 20 Nov, 07:26 AM PKT
+- [needs_review] normal | PM credits civil-military partnership for economic stability, defends  | Fri 20 Nov, 06:21 AM PKT
+- [needs_review] normal | Cumin-laced fizzy sodas give cola giants a tough fight in India | Fri 20 Nov, 06:31 AM PKT
+- [needs_review] normal | Trump posthumously pardons US baseball legend Pete Rose | Fri 20 Nov, 06:41 AM PKT
+- [published] normal | Houthi Strike Damages Riyadh's Tallest Skyscraper | Fri 20 Nov, 07:26 AM PKT
 - [queued] normal | Africa Climate Funding: Europe Urges Using Existing Pledges | Fri 20 Nov, 07:36 AM PKT
 - [queued] normal | Indonesian Daycare Principal Jailed Over Child Abuse | Fri 20 Nov, 07:46 AM PKT
 - [queued] normal | Meta Rethinks 2030 Climate Goals Amid AI Energy Surge | Fri 20 Nov, 07:56 AM PKT
@@ -277,14 +361,20 @@
 - [queued] normal | Kushner: Trump open to NATO-like security guarantees for Ukraine | Fri 20 Nov, 10:42 AM PKT
 - [queued] normal | Pakistan Medical Association objects to proposed SHCC board members | Fri 20 Nov, 10:52 AM PKT
 - [queued] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
+- [queued] normal | Pakistan conquer Sri Lanka by eight wickets to seal Test series | Fri 20 Nov, 12:58 PM PKT
+- [queued] normal | Daily Editorial Cartoon for November 20, 2026 | Fri 20 Nov, 01:08 PM PKT
+- [queued] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
+- [queued] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
 
 ## Publishing this run
-- Published 'Why Canada is embracing AI data centres while the US pushes back'.
+- Published 'Houthi Strike Damages Riyadh's Tallest Skyscraper'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6275 | output tokens: 2243
-- Errors: 4
+- Calls: 4 | prompt tokens: 12734 | output tokens: 3897
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 171 column 7 (char 7032)
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: lin
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 144 column 7 (char 6117)
