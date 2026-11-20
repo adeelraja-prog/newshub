@@ -85573,7 +85573,1058 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "745b968752e460f473842794",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:04:00+00:00",
+      "last_update": "2026-11-20T06:33:30+00:00",
+      "event": "Pakistan beat Sri Lanka by eight wickets in second Test, win series 1-0",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "aamer",
+        "afp",
+        "after",
+        "and",
+        "ball",
+        "beat",
+        "between",
+        "cricket",
+        "day",
+        "defeated",
+        "during",
+        "eight",
+        "fourth",
+        "jamal",
+        "lanka",
+        "match",
+        "november",
+        "pakistan",
+        "playing",
+        "rawalpindi",
+        "second",
+        "series",
+        "shot",
+        "sri",
+        "stadium",
+        "test",
+        "the",
+        "watches",
+        "wickets",
+        "win"
+      ],
+      "source_excerpt": "Aamer Jamal watches the ball after playing a shot during the fourth day of the second Test cricket match between Pakistan and Sri Lanka at the Rawalpindi Cricket Stadium in Rawalpindi on November 20, 2026. — AFP Pakistan defeated Sri Lanka by eight wickets in the second Test...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691875-pakistan-beat-sri-lanka-by-eight-wickets-in-second-test-win-series-1-0",
+          "published_at": "2026-11-20T06:04:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmZiMHVFTnJuUklLNXVZZnBWdDVXWVdfNjlCVEROcjk0UEo1Z0RXakJzTGliOHg0YXp3cFNnMENYNnNEdzlhX3BpVDhQaEVtMVZtNE9RNmRSVnAzbk93bDNPZHlKSWt5YVl6UVpuUWQ0dVlxZThiZXJYanhqWUE3dzMyU3hsUkxScUxLenZ4MlJpbnlsbzZvVnR4R0VRdTJYRlFOU0t3?oc=5",
+          "published_at": "2026-11-20T06:04:00+00:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVi00bEJxZTRpbUJCc2U0ck51MkxNcm42azlkMGF2OS1HZlVRV2Z3emdacExiMEkzVlozU0tET0tKSlN4OXNzRGlHSWN0UHR2TF96TmwzSVM3MVh2NHl5QmZQMUt5el80QktMNExCYl9pZ1UtRzl1cHJzMkw2N1pVWUNhVlV2bzkzNHhKRUFqUEZQd2hvZlp0Q0R1cU5YenBqVnc?oc=5",
+          "published_at": "2026-11-20T06:15:00+00:00"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWo0Y2tOSGNYVTNOUFh6YXFZOUdFVU1oMVkwT29TM0Q5RENHOGN6UEpCbV9ody1PSGRzWVM5TWthemJYNHd0aE9YMTVvMm92RmV5YjVNeVRLMmI4VldhR1BrVHlBTkIyMHRCOV9URVgtbkk2QkdJSGJhNzVqa1l1WXhPQkUwRXI3TERCMlV5NnFKejg?oc=5",
+          "published_at": "2026-11-20T06:20:00+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2tHWE9FajRSZDBUVFk1ejJ0TUduVTdUWnpXR0ZrTkxUWGt1OGhrYjhLOUFyS3o1ekdTTXlZU1I5eHlrWEtKc3BwdnhGaWVKR3RXNkNDMHM3Y3h1ZWlzdUZDUlRWazBxdVVKVFV2Z2Q1eVNuRWVlQXFVUmluTnI4UFg1RkdLMTFCNUR30gGTAUFVX3lxTFA5SVQ5UU1acHBPNUtIRHhoQzdkOTU0VE1odnluaG9pWUtQU0U5MzQ1NW1xVldIZVZPZFBjODFNa1AxbGdmdTNJVUdldEFPX3RyWEJmU3J2WE1OWWpTSUdYcUloOFJWSVcyRWdCaWxud0JkNGNGLUpxaUE5ek84d05GNDlWWUdaVl8yNUNUZnRXd0xvVQ?oc=5",
+          "published_at": "2026-11-20T06:21:53+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXlXaEJCUHJaeHVoZkQ2VG5aUFU0TWtqOWc1OFlSLTdPVzBrNGhxbFJYOGxKLWlxQjR4WjRsN1RKUG4xSU5XT28yTmZubVR6WEVSU3RxMVZVMGs3aEVaV0R3WTJ0RC0xQy1ranhFeVZiSUFqMGpyUk9aNllTOXhvRW5aUWtmOTlMcGx1akVjdmNEdjNRVENtLTdLRndTOWdfRk1yZUJKcEI3ZExl?oc=5",
+          "published_at": "2026-11-20T06:27:54+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045883/pakistan-cruise-to-eight-wicket-win-over-sri-lanka-to-seal-test-series-1-0",
+          "published_at": "2026-11-20T06:30:04+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/pakistan-beat-sri-lanka-by-eight-wickets-in-rawalpindi-test-to-seal-series-1-0/",
+          "published_at": "2026-11-20T06:33:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/691875-pakistan-beat-sri-lanka-by-eight-wickets-in-second-test-win-series-1-0",
+        "publisher_url": "https://www.geo.tv/latest/691875-pakistan-beat-sri-lanka-by-eight-wickets-in-second-test-win-series-1-0",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b16067018c01039b3c45e150",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T01:38:52+00:00",
+      "last_update": "2026-11-20T06:00:00+00:00",
+      "event": "Cartoon: 20 November, 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "cartoon",
+        "dawn",
+        "november"
+      ],
+      "source_excerpt": "Cartoon: 20 November, 2026 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QSFJqQktjMzJjVmJJMzdFcnBacXo0cVh6UmNhMWpQRDNBS0MxUjFZZEdBWjR6VW54X2R2U3c3TUltTDgzVzF4dy1BME4xQUdjODJ2SkVpeTVtdS1vTGxTZmRKamxNNWM5X2c?oc=5",
+          "published_at": "2026-11-20T01:38:52+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFZhcVNnRXNpUW9FTG9tbG1kWW14bnJaZ2ZHRDFRZU5tMk50WlBDaUcyeDNkUGo1OGVYeURLNldXRnFTVEZ1NXVDWDJOdHlUbWUtaEloSlRrQVZWQ01Ici1KV1RLVVMxdG9OUDh1NEwtWW04WFhPUVhrTDZaV2pHYVlTTWM3dHBKX3Zzdm1RVWNETVBVMzhHcEVmamJaMGs?oc=5",
+          "published_at": "2026-11-20T04:03:51+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNejBRVWhZbDV4c1IwREg0MnY3UVRUQ0Jzb0FETXh0Nm9HVjF1SVc4N1A3aGh1N1VTenBfYWZiRWlIdTdBbFIzZjltVGpTLXByUnNCOXJYZUdKY3UxRFhDdGhDd0taSXBEME8wNXZUa3BoNWU5MVZkNTk4Vk9sS09lLU9YZmV4VzhVN21fWTE0X20zRFo4YWN3?oc=5",
+          "published_at": "2026-11-20T04:27:08+00:00"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/expedia-coupon/",
+          "published_at": "2026-11-20T06:00:00+00:00"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/max-promo-code/",
+          "published_at": "2026-11-20T06:00:00+00:00"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/ancestry-coupon-codes/",
+          "published_at": "2026-11-20T06:00:00+00:00"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/walgreens-photo-coupon/",
+          "published_at": "2026-11-20T06:00:00+00:00"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/ebay-coupon-code/",
+          "published_at": "2026-11-20T06:00:00+00:00"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/irobot-promo-code/",
+          "published_at": "2026-11-20T06:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QSFJqQktjMzJjVmJJMzdFcnBacXo0cVh6UmNhMWpQRDNBS0MxUjFZZEdBWjR6VW54X2R2U3c3TUltTDgzVzF4dy1BME4xQUdjODJ2SkVpeTVtdS1vTGxTZmRKamxNNWM5X2c?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a5f1b93e18d58fdba5538bd7",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T05:48:14+00:00",
+      "last_update": "2026-11-20T05:48:14+00:00",
+      "event": "Pakistan condemns Houthi attack on Saudi Arabia’s King Abdullah financial district",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abdullah",
+        "arabia",
+        "arynews",
+        "attack",
+        "condemns",
+        "district",
+        "financial",
+        "houthi",
+        "king",
+        "pakistan",
+        "saudi"
+      ],
+      "source_excerpt": "Pakistan condemns Houthi attack on Saudi Arabia’s King Abdullah financial district ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wMEl2bVl0T2JqbjFBbWEwRW9EUHZLZzFyOV9heW5fcHFOZ0loVEtDMUZmNHZBU0twV0FXUnQwME9lWGRwVzhyVFk0T2pWdi00cmFTNVduNTZoaWRadGpmcTBJRjRMd2l1Smdkc3FFeGhaTkgw?oc=5",
+          "published_at": "2026-11-20T05:48:14+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-condemns-houthi-attack-on-saudi-arabia",
+          "published_at": "2026-11-20T05:48:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wMEl2bVl0T2JqbjFBbWEwRW9EUHZLZzFyOV9heW5fcHFOZ0loVEtDMUZmNHZBU0twV0FXUnQwME9lWGRwVzhyVFk0T2pWdi00cmFTNVduNTZoaWRadGpmcTBJRjRMd2l1Smdkc3FFeGhaTkgw?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "062852ea2bd70dd0891b347b",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:16:06+00:00",
+      "last_update": "2026-11-20T06:16:06+00:00",
+      "event": "Pakistan-sponsored resolution on self-determination adopted by consensus at UN",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adopted",
+        "alien",
+        "and",
+        "assembly",
+        "colonialism",
+        "committee",
+        "consensus",
+        "countries",
+        "determination",
+        "domination",
+        "foreign",
+        "general",
+        "initiative",
+        "living",
+        "nations",
+        "occupation",
+        "pakistan",
+        "peoples",
+        "reaffirming",
+        "res",
+        "resolution",
+        "right",
+        "self",
+        "sponsored",
+        "sponsoring",
+        "the",
+        "third",
+        "thursday",
+        "under",
+        "united",
+        "with"
+      ],
+      "source_excerpt": "UNITED NATIONS: The UN General Assembly’s Third Committee on Thursday adopted by consensus a Pakistan-sponsored resolution reaffirming the right to self-determination of peoples living under colonialism, foreign domination and alien occupation, with 62 countries co-sponsoring the initiative. The res",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045879/pakistan-sponsored-resolution-on-self-determination-adopted-by-consensus-at-un",
+          "published_at": "2026-11-20T06:16:06+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV05va2stcWZfWjZja2VLcFRsN2lob1B2WjduRmc0YVE4Sk5VN2hfU0hMZGxKM3hiZkpKc2t2aDdEaWJBTWRhN3Z4UExNVEsxOTlxa1prcWhuV0ExRDh0VEpUVDdhemMxdWkzeWRXQnJqcDg4QWdiV1FtSlpRbzNSY1Zxck10RzVuVjlDWlN2YWV0LUd5N1BnV19HbWVXMHRiZ1ppZkc3YzNLTGFYRXBLbzBB?oc=5",
+          "published_at": "2026-11-20T06:16:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2045879/pakistan-sponsored-resolution-on-self-determination-adopted-by-consensus-at-un",
+        "publisher_url": "https://www.dawn.com/news/2045879/pakistan-sponsored-resolution-on-self-determination-adopted-by-consensus-at-un",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6463ca573b3a074493cd9e7c",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:20:26+00:00",
+      "last_update": "2026-11-20T06:20:26+00:00",
+      "event": "‘We don’t want our future decided by the military’: Young Germans protest",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "are",
+        "conscription",
+        "decided",
+        "don",
+        "explain",
+        "friday",
+        "future",
+        "german",
+        "germans",
+        "military",
+        "nationwide",
+        "our",
+        "protest",
+        "rallies",
+        "resisting",
+        "teenagers",
+        "the",
+        "they",
+        "want",
+        "why",
+        "young"
+      ],
+      "source_excerpt": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+          "published_at": "2026-11-20T06:20:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "073fa506d5b964856e5d4b8f",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:15:06+00:00",
+      "last_update": "2026-11-20T06:15:06+00:00",
+      "event": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "along",
+        "and",
+        "ballot",
+        "balogun",
+        "bid",
+        "card",
+        "cup",
+        "current",
+        "diallo",
+        "election",
+        "fifa",
+        "for",
+        "infantino",
+        "march",
+        "names",
+        "one",
+        "presidency",
+        "president",
+        "prompted",
+        "red",
+        "row",
+        "says",
+        "tashima",
+        "the",
+        "three",
+        "with",
+        "world"
+      ],
+      "source_excerpt": "Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+          "published_at": "2026-11-20T06:15:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "611c50bfd1355ef60906e84a",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:03:03+00:00",
+      "last_update": "2026-11-20T06:03:03+00:00",
+      "event": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acknowledged",
+        "adding",
+        "administration",
+        "agency",
+        "and",
+        "blockade",
+        "capacity",
+        "cargo",
+        "gulf",
+        "impact",
+        "insurance",
+        "iran",
+        "maritime",
+        "memo",
+        "naval",
+        "premiums",
+        "rising",
+        "shows",
+        "warned",
+        "was"
+      ],
+      "source_excerpt": "US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
+          "published_at": "2026-11-20T06:03:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5410b2ea4fee6947756f9550",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T05:48:35+00:00",
+      "last_update": "2026-11-20T05:48:35+00:00",
+      "event": "Trump bows to pressure, replaces US cyber security director",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bows",
+        "cairncross",
+        "cyber",
+        "defense",
+        "department",
+        "director",
+        "has",
+        "interim",
+        "named",
+        "national",
+        "official",
+        "president",
+        "pressure",
+        "removed",
+        "replaces",
+        "sean",
+        "security",
+        "trump"
+      ],
+      "source_excerpt": "President Trump has removed National Cyber Director Sean Cairncross and named a Defense Department official as interim.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
+          "published_at": "2026-11-20T05:48:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5945cb55b62d311accfb9444",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T05:36:21+00:00",
+      "last_update": "2026-11-20T05:36:21+00:00",
+      "event": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "able",
+        "but",
+        "committed",
+        "for",
+        "genocide",
+        "home",
+        "icj",
+        "joy",
+        "myanmar",
+        "prayers",
+        "react",
+        "refugees",
+        "return",
+        "rohingya",
+        "ruling",
+        "tears",
+        "that",
+        "the",
+        "they",
+        "vindication",
+        "will"
+      ],
+      "source_excerpt": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
+          "published_at": "2026-11-20T05:36:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a05ac1fe8b6ce7c0a7a49901",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:10:40+00:00",
+      "last_update": "2026-11-20T06:10:40+00:00",
+      "event": "'When I found out about Breast Friends it was the best thing ever'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "award",
+        "best",
+        "breast",
+        "ever",
+        "for",
+        "found",
+        "friends",
+        "given",
+        "groups",
+        "highest",
+        "king",
+        "out",
+        "service",
+        "the",
+        "thing",
+        "voluntary",
+        "was",
+        "when"
+      ],
+      "source_excerpt": "The King's Award for Voluntary Service is the highest award given to voluntary groups in the UK.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c862p6v3wx43o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T06:10:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c862p6v3wx43o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c862p6v3wx43o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "309e57541ffdff89fc2f3d9f",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:09:33+00:00",
+      "last_update": "2026-11-20T06:09:33+00:00",
+      "event": "Community hub to close citing financial challenges",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "cafe",
+        "challenges",
+        "citing",
+        "close",
+        "community",
+        "family",
+        "financial",
+        "green",
+        "hub",
+        "like",
+        "lisa",
+        "people",
+        "rely",
+        "says",
+        "team",
+        "the",
+        "who",
+        "works"
+      ],
+      "source_excerpt": "Lisa Green, who works in the cafe, says the team is like a \"family\" and people rely on the hub.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cv0l31g4n1weo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T06:09:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cv0l31g4n1weo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cv0l31g4n1weo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "381bf1f1ac8cadd0d72f6f3a",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T05:59:56+00:00",
+      "last_update": "2026-11-20T05:59:56+00:00",
+      "event": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "after",
+        "best",
+        "closest",
+        "eight",
+        "epic",
+        "ever",
+        "get",
+        "give",
+        "mercury",
+        "mission",
+        "mysterious",
+        "our",
+        "planet",
+        "set",
+        "spacecraft",
+        "sun",
+        "the",
+        "view",
+        "visitor",
+        "voyage",
+        "year"
+      ],
+      "source_excerpt": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T05:59:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c6828add517fe532c2c185f2",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:21:50+00:00",
+      "last_update": "2026-11-20T06:21:50+00:00",
+      "event": "Wildlife conservation cash targets ex-colliery sites",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aims",
+        "amphibians",
+        "and",
+        "cash",
+        "colliery",
+        "conservation",
+        "create",
+        "for",
+        "habitats",
+        "lizards",
+        "project",
+        "restore",
+        "sites",
+        "targets",
+        "the",
+        "wildlife",
+        "yorkshire"
+      ],
+      "source_excerpt": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T06:21:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0dea6e34bd87d9091721ce4a",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:00:33+00:00",
+      "last_update": "2026-11-20T06:00:33+00:00",
+      "event": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abroad",
+        "are",
+        "backed",
+        "bbc",
+        "claims",
+        "ethical",
+        "finds",
+        "for",
+        "government",
+        "housing",
+        "infested",
+        "investments",
+        "marketed",
+        "mouldy",
+        "people",
+        "premium",
+        "prices",
+        "properties",
+        "returns",
+        "sold",
+        "the",
+        "vulnerable",
+        "with"
+      ],
+      "source_excerpt": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T06:00:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "939d99e6a6553d62ee081aa8",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:19:25+00:00",
+      "last_update": "2026-11-20T06:19:25+00:00",
+      "event": "Social poker with £5 stake is booming, says dealer",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2022",
+        "booming",
+        "dealer",
+        "fenland",
+        "league",
+        "players",
+        "poker",
+        "rise",
+        "says",
+        "sees",
+        "since",
+        "social",
+        "stake",
+        "with"
+      ],
+      "source_excerpt": "A poker league in Fenland sees a 35% rise in players since 2022.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T06:19:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "125dc0a48a52b2991431ad02",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:12:28+00:00",
+      "last_update": "2026-11-20T06:12:28+00:00",
+      "event": "Survey reveals 'major increase' in cost of living",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cost",
+        "increase",
+        "living",
+        "major",
+        "more",
+        "noticing",
+        "reported",
+        "respondents",
+        "reveals",
+        "rises",
+        "survey",
+        "than",
+        "the",
+        "thirds",
+        "two"
+      ],
+      "source_excerpt": "More than two thirds of respondents reported noticing rises in the cost of living.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T06:12:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5fe8935f662f6c4fea42beda",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:10:29+00:00",
+      "last_update": "2026-11-20T06:10:29+00:00",
+      "event": "Andy Serkis backs 'admirable' Marlow Studios plan",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admirable",
+        "andy",
+        "backs",
+        "bbc",
+        "marlow",
+        "plan",
+        "serkis",
+        "studios"
+      ],
+      "source_excerpt": "Andy Serkis backs 'admirable' Marlow Studios plan BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3bUtjaUJkU0phcU1Da0RIOGdJUzZzX1JrVUo1V0VjX3pwc0RNSEdJajZUbURXa3dfVjZGbjQ3eWJNX3hUQXNGSU9oV0xmMDJsSVZDYU1TdDFBdmM?oc=5",
+          "published_at": "2026-11-20T06:10:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3bUtjaUJkU0phcU1Da0RIOGdJUzZzX1JrVUo1V0VjX3pwc0RNSEdJajZUbURXa3dfVjZGbjQ3eWJNX3hUQXNGSU9oV0xmMDJsSVZDYU1TdDFBdmM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a2eeb053971f2fa2f753cba7",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:19:02+00:00",
+      "last_update": "2026-11-20T06:19:02+00:00",
+      "event": "Portmeirion documentary shows life in Italianate village",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "documentary",
+        "italianate",
+        "life",
+        "portmeirion",
+        "shows",
+        "village"
+      ],
+      "source_excerpt": "Portmeirion documentary shows life in Italianate village BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sVlJrbERQV3JaVXFLRkpkZ0NlUmNsZWNiYWRYLU50LTBzSlMzTGQ3TDZWeEZzZkJzZjc3TDlnT3BPTENBOFpzY3lIdzhlNTJDdUYtRE5DbTNkcXM?oc=5",
+          "published_at": "2026-11-20T06:19:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sVlJrbERQV3JaVXFLRkpkZ0NlUmNsZWNiYWRYLU50LTBzSlMzTGQ3TDZWeEZzZkJzZjc3TDlnT3BPTENBOFpzY3lIdzhlNTJDdUYtRE5DbTNkcXM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d4c6b2559e332f1c602a0fb4",
+      "remembered_at": "2026-11-20T06:39:07.613677+00:00",
+      "event_date": "2026-11-20T06:31:01+00:00",
+      "last_update": "2026-11-20T06:31:01+00:00",
+      "event": "Plans to bring more public toilets to Southend seafront backed",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "backed",
+        "bbc",
+        "bring",
+        "more",
+        "plans",
+        "public",
+        "seafront",
+        "southend",
+        "toilets"
+      ],
+      "source_excerpt": "Plans to bring more public toilets to Southend seafront backed BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zS3RqUENDbm1FZ1lhbU94WkZ6djQwdFVaY0xacmpEWlRtR01Rdk12eEQ0eU51aVNyNk92dUFjeGN5dXBYdm43YjU2czNyOS1CdW1YQTlqbWt4OHM?oc=5",
+          "published_at": "2026-11-20T06:31:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zS3RqUENDbm1FZ1lhbU94WkZ6djQwdFVaY0xacmpEWlRtR01Rdk12eEQ0eU51aVNyNk92dUFjeGN5dXBYdm43YjU2czNyOS1CdW1YQTlqbWt4OHM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T05:32:45.395643+00:00"
+  "updated_at": "2026-11-20T06:39:07.613677+00:00"
 }

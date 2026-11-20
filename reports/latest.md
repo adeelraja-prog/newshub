@@ -1,147 +1,53 @@
-# News Hub report - Fri 20 Nov, 10:32 AM PKT
+# News Hub report - Fri 20 Nov, 11:39 AM PKT
 
 ## Collection
-- New items this run: 65 | items in rolling pool: 334
-- Unique story clusters: 265 (duplicates merged: 69)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 8
-- Items per outlet: Dawn Pakistan 14, Dawn 7, Dawn Latest 5, Geo News 5, TechJuice 5, ARY News 3, Al Jazeera 3, PhoneWorld 3, The Express Tribune 2, ProPakistani 2, Investify 2, The News International 1
+- New items this run: 124 | items in rolling pool: 417
+- Unique story clusters: 324 (duplicates merged: 93)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 10
+- Items per outlet: UrduPoint 40, Wired 12, Geo News 9, ProPakistani 6, Al Jazeera 5, The Current 5, Dawn Latest 4, ARY News 4, Dawn 3, The Express Tribune 3, BBC Business 3, TechJuice 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## Top 5 most important
-- ‘Phone Shake’ feature on Women Safety App | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PMA objects to proposed SHCC board members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Slain anchorperson’s husband released on bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan beat Sri Lanka by eight wickets in second Test, win series 1-0 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cartoon: 20 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladeshi civil servants’ team visits SIUT, meets CM | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Student’s death from stray dog bite reaches IHC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore once again ranks as world's most polluted major city as AQI crosses 400 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- ‘Phone Shake’ feature on Women Safety App | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PMA objects to proposed SHCC board members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Slain anchorperson’s husband released on bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan beat Sri Lanka by eight wickets in second Test, win series 1-0 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cartoon: 20 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladeshi civil servants’ team visits SIUT, meets CM | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Student’s death from stray dog bite reaches IHC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore once again ranks as world's most polluted major city as AQI crosses 400 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- ‘Phone Shake’ feature on Women Safety App | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kushner: Trump open to NATO-like security guarantees for Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PMA objects to proposed SHCC board members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Slain anchorperson’s husband released on bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan beat Sri Lanka by eight wickets in second Test, win series 1-0 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cartoon: 20 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladeshi civil servants’ team visits SIUT, meets CM | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Student’s death from stray dog bite reaches IHC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore once again ranks as world's most polluted major city as AQI crosses 400 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/107 | empty: 2 | failed: 0 | malformed/partial: 0
-- Trusted publisher desks with at least one healthy source: 10/10
+- Overall feeds with entries: 99/107 | empty: 3 | failed: 5 | malformed/partial: 6
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Urdu | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: International Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Jang
 
 ## Selected for the queue
-### Punjab Adds Phone Shake SOS Feature to Women Safety App  [NORMAL]
-- Poster: خواتین سیفٹی ایپ میں فون شیک فیچر متعارف کرا دیا گیا / Phone Shake SOS Feature Added to Women Safety App | category tech
-- Alternative headline: ‘Phone Shake’ feature introduced in Punjab Women Safety App
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTFByN052NVotZWx3LUhGSnZwelJybjdNanRuZGFPc29XY3pQcmRnSklmeHdJVHdoSGZWcGhvV2FCelVIY21QVlRpdmVfczJRWGw1WWo4R2g3U0x5MzNqU0ZBbTJkN09SbDlfX0VFdWEycGpNX210TXVMSFBnQlVPdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTFByN052NVotZWx3LUhGSnZwelJybjdNanRuZGFPc29XY3pQcmRnSklmeHdJVHdoSGZWcGhvV2FCelVIY21QVlRpdmVfczJRWGw1WWo4R2g3U0x5MzNqU0ZBbTJkN09SbDlfX0VFdWEycGpNX210TXVMSFBnQlVPdw?oc=5
-- Supporting coverage: Dawn, Dawn Latest, TechJuice
-- Keywords: Women Safety App, Phone Shake, Punjab, SOS, emergency, Dawn | hashtags: #WomenSafetyApp #Punjab #PhoneShake #SOS #News
-- Scheduled: Fri 20 Nov, 10:32 AM PKT
-- Caption:
-```
-Punjab has introduced a new 'Phone Shake' SOS feature to the Women Safety App, making emergency alerts quicker and easier.
-
-The Punjab government has introduced a new 'Phone Shake' feature to the Women Safety App. This update is designed to help women send emergency alerts more efficiently during critical situations by simply shaking their mobile phones.
-
-پنجاب حکومت نے ویمن سیفٹی ایپ میں نیا 'فون شیک' فیچر متعارف کرا دیا ہے۔ اس اپ ڈیٹ کا مقصد خواتین کے لیے ہنگامی صورتحال میں صرف فون ہلا کر فوری مدد حاصل کرنا آسان بنانا ہے۔
-
-First reported by Dawn; also reported by TechJuice.
-
-#WomenSafetyApp #Punjab #PhoneShake #SOS #News
-```
-
-### Kushner: Trump open to NATO-like security guarantees for Ukraine  [NORMAL]
-- Poster: ٹرمپ یوکرین کو نیٹو طرز کی سلامتی کی ضمانت دینے کے لیے تیار ہیں: کشنر / Trump open to NATO-like security guarantees for Ukraine: Kushner | category world
-- Alternative headline: Trump open to Kyiv getting Nato-like mutual defence guarantee, says Kushner
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss
-- Supporting coverage: The Guardian, Al Jazeera
-- Keywords: Ukraine war, Donald Trump, Jared Kushner, NATO, security guarantees, Al Jazeera | hashtags: #Ukraine #DonaldTrump #NATO #JaredKushner #WorldNews
-- Scheduled: Fri 20 Nov, 10:42 AM PKT
-- Caption:
-```
-US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, according to envoy Jared Kushner.
-
-US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has stated. The remark highlights potential shifts in the diplomatic approach towards resolving the ongoing conflict between Russia and Ukraine.
-
-امریکی صدر ڈونلڈ ٹرمپ یوکرین کو نیٹو طرز کی سکیورٹی ضمانتیں دینے کے لیے تیار ہیں، یہ بات ایلچی جیرڈ کشنر کہی ہے۔ اس بیان سے روس اور یوکرین کے تنازع کے حل کے لیے سفارتی نقطہ نظر میں ممکنہ تبدیلی کا اشارہ ملتا ہے۔
-
-First reported by Al Jazeera; also reported by The Guardian.
-
-#Ukraine #DonaldTrump #NATO #JaredKushner #WorldNews
-```
-
-### Pakistan Medical Association objects to proposed SHCC board members  [NORMAL]
-- Poster: پاکستان میڈیکل ایسوسی ایشن کے سندھ ہیلتھ کیئر کمیشن کے نامزد ارکان پر اعتراضات / PMA objects to proposed Sindh HealthCare Commission board members | category health
-- Alternative headline: PMA objects to proposed Sindh HealthCare Commission board members
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxPd29KWUJkSGs1eU5FR2tXM1ZDNTlEWlBTZi1IN3lGeUpGdE5vOGdPVXhNRnk3N1BCVk81TjhoLUczMWNVWU44UGdMOG95a0VyTkREVjFtQlIyNm4xb0VwSkhFQU1CUFc3bXZlVlRhd2ZhSVR3cFVOcUVEN0hreUVIOFBB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxPd29KWUJkSGs1eU5FR2tXM1ZDNTlEWlBTZi1IN3lGeUpGdE5vOGdPVXhNRnk3N1BCVk81TjhoLUczMWNVWU44UGdMOG95a0VyTkREVjFtQlIyNm4xb0VwSkhFQU1CUFc3bXZlVlRhd2ZhSVR3cFVOcUVEN0hreUVIOFBB?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan, Dawn
-- Keywords: PMA, SHCC, Sindh HealthCare Commission, Pakistan Medical Association, board members, Dawn | hashtags: #PMA #SHCC #SindhHealth #PakistanMedicalAssociation #News
-- Scheduled: Fri 20 Nov, 10:52 AM PKT
-- Caption:
-```
-The Pakistan Medical Association has raised objections regarding the proposed members of the Sindh HealthCare Commission board.
-
-The Pakistan Medical Association (PMA) has officially expressed its objections to the proposed members of the Sindh HealthCare Commission (SHCC) board, raising concerns over the selection process and composition of the regulatory body.
-
-پاکستان میڈیکل ایسوسی ایشن (پی ایم اے) نے سندھ ہیلتھ کیئر کمیشن (ایس ایچ سی سی) کے بورڈ کے نامزد ارکان پر باضابطہ طور پر اپنے اعتراضات کا اظہار کیا ہے، جس سے ریگولیٹری باڈی کے انتخاب کے عمل پر تحفظات پیدا ہوئے ہیں۔
-
-First reported by Dawn.
-
-#PMA #SHCC #SindhHealth #PakistanMedicalAssociation #News
-```
-
-### Slain anchorperson’s husband released on bail in Rawalpindi  [NORMAL]
-- Poster: مقتولہ اینکر پرسن کا شوہر ضمانت پر رہا / Slain anchorperson’s husband released on bail | category courts
-- Alternative headline: Husband of slain anchorperson released on bail
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFN3VFl0Um5EaFFoVERXdmhhQk5CaDVsSUNMX1IxZ0hIRlhvb2lWS1hWR3hpNW8yM2hxYkJpVEE0X2hHNWJ2ZHRZVWpRUmtDZlFxWmNZWU5tak4taDk4dmtlSVFtWjRpYW00akZwYnFCLTMtSlBRcHZvZ1pSTVJQdWxsX1A?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFN3VFl0Um5EaFFoVERXdmhhQk5CaDVsSUNMX1IxZ0hIRlhvb2lWS1hWR3hpNW8yM2hxYkJpVEE0X2hHNWJ2ZHRZVWpRUmtDZlFxWmNZWU5tak4taDk4dmtlSVFtWjRpYW00akZwYnFCLTMtSlBRcHZvZ1pSTVJQdWxsX1A?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: anchorperson, bail, Rawalpindi, husband, courts, Dawn | hashtags: #Rawalpindi #Court #Bail #LegalNews #Dawn
-- Scheduled: Fri 20 Nov, 11:02 AM PKT
-- Caption:
-```
-The husband of the slain anchorperson has been released on bail by a court in Rawalpindi.
-
-The husband of the slain anchorperson has been released on bail following legal proceedings in Rawalpindi. The case has drawn significant public attention and media coverage across Pakistan regarding the ongoing investigation.
-
-راولپنڈی میں قانونی کارروائی کے بعد مقتولہ اینکر پرسن کے شوہر کو ضمانت پر رہا کر دیا گیا ہے۔ اس کیس نے ملک بھر میں جاری تحقیقات کے حوالے سے کافی عوامی توجہ حاصل کی ہے۔
-
-First reported by Dawn.
-
-#Rawalpindi #Court #Bail #LegalNews #Dawn
-```
-
-- Indian outlets blocked this run: 7 items
+- Indian outlets blocked this run: 10 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
-- [needs_review] normal | Houthi rebel advance in Yemen may further destabilise global economy | Tue 17 Nov, 04:30 AM PKT
-- [needs_review] normal | US Pentagon rejects allegations linking deputy to a Goldman Sachs bank | Tue 17 Nov, 04:40 AM PKT
-- [needs_review] normal | California sues OpenAI over Hugging Face attack | Tue 17 Nov, 04:54 AM PKT
-- [needs_review] normal | Five EU countries announce plan to send rejected asylum seekers to Rwa | Tue 17 Nov, 05:04 AM PKT
-- [needs_review] normal | Wirtz feels the fun as Germany run riot over Netherlands | Tue 17 Nov, 05:14 AM PKT
 - [needs_review] normal | Paraguay ex-president moved to military jail amid special treatment re | Tue 17 Nov, 05:57 AM PKT
 - [needs_review] normal | EU agrees to resurrect cooperation deal with Syria | Tue 17 Nov, 06:07 AM PKT
 - [needs_review] normal | The AI start-ups fixing India's broken roads and messy land records | Tue 17 Nov, 06:17 AM PKT
@@ -158,7 +64,6 @@ First reported by Dawn.
 - [needs_review] normal | Nvidia rules out Jensen Huang's return as board hires law firm to inve | Tue 17 Nov, 10:21 AM PKT
 - [needs_review] normal | Pakistan crush Sri Lanka in Blind Asia Cup | Tue 17 Nov, 10:31 AM PKT
 - [needs_review] normal | Balochistan PA flags flour prices, dept mergers | Tue 17 Nov, 10:41 AM PKT
-- [published] normal | Two major Kyiv bridges hit in Russian attack, mayor says | Tue 17 Nov, 11:21 AM PKT
 - [needs_review] normal | Two held for Rs5m UK work visa fraud | Tue 17 Nov, 11:31 AM PKT
 - [needs_review] normal | Man found murdered in farmhouse | Tue 17 Nov, 11:41 AM PKT
 - [needs_review] normal | Pakistan's pacers rattle Sri Lanka top order in second Test | Tue 17 Nov, 11:51 AM PKT
@@ -347,12 +252,12 @@ First reported by Dawn.
 - [needs_review] normal | US Approved Sales of Nearly 900,000 AI Chips to China | Fri 20 Nov, 04:15 AM PKT
 - [needs_review] normal | Haiti Police Kill at Least 34 Suspected Gang Members in Raid | Fri 20 Nov, 04:25 AM PKT
 - [published] normal | Anthropic Hits $1.76 Trillion Valuation in Blockbuster Market Debut | Fri 20 Nov, 04:35 AM PKT
-- [queued] normal | Fiona the Famous Hippo Dies After Swallowing a Hat at Cincinnati Zoo | Fri 20 Nov, 04:45 AM PKT
-- [queued] normal | Prince William and Catherine's India Tour Described as 'Particularly S | Fri 20 Nov, 05:00 AM PKT
-- [queued] normal | California Probes Nvidia Over Alleged Unauthorized Tech Transfers to C | Fri 20 Nov, 05:10 AM PKT
-- [queued] normal | Judge Rules Thomas Markle Mentally Fit to Stand Trial on Child Abuse C | Fri 20 Nov, 05:20 AM PKT
-- [queued] normal | Famed Cincinnati Zoo Hippo Fiona Dies Days After Swallowing Knitted Ha | Fri 20 Nov, 05:30 AM PKT
-- [queued] normal | Why Canada is embracing AI data centres while the US pushes back | Fri 20 Nov, 06:11 AM PKT
+- [needs_review] normal | Fiona the Famous Hippo Dies After Swallowing a Hat at Cincinnati Zoo | Fri 20 Nov, 04:45 AM PKT
+- [needs_review] normal | Prince William and Catherine's India Tour Described as 'Particularly S | Fri 20 Nov, 05:00 AM PKT
+- [needs_review] normal | California Probes Nvidia Over Alleged Unauthorized Tech Transfers to C | Fri 20 Nov, 05:10 AM PKT
+- [needs_review] normal | Judge Rules Thomas Markle Mentally Fit to Stand Trial on Child Abuse C | Fri 20 Nov, 05:20 AM PKT
+- [needs_review] normal | Famed Cincinnati Zoo Hippo Fiona Dies Days After Swallowing Knitted Ha | Fri 20 Nov, 05:30 AM PKT
+- [published] normal | Why Canada is embracing AI data centres while the US pushes back | Fri 20 Nov, 06:11 AM PKT
 - [queued] normal | PM credits civil-military partnership for economic stability, defends  | Fri 20 Nov, 06:21 AM PKT
 - [queued] normal | Cumin-laced fizzy sodas give cola giants a tough fight in India | Fri 20 Nov, 06:31 AM PKT
 - [queued] normal | Trump posthumously pardons US baseball legend Pete Rose | Fri 20 Nov, 06:41 AM PKT
@@ -374,10 +279,12 @@ First reported by Dawn.
 - [queued] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
 
 ## Publishing this run
-- Published 'Anthropic Hits $1.76 Trillion Valuation in Blockbuster Market Debut'.
+- Published 'Why Canada is embracing AI data centres while the US pushes back'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4011 | output tokens: 2265
-- Errors: 2
+- Calls: 3 | prompt tokens: 6275 | output tokens: 2243
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 171 column 7 (char 7032)
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: lin
