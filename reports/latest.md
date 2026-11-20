@@ -1,150 +1,148 @@
-# News Hub report - Sat 21 Nov, 01:35 AM PKT
+# News Hub report - Sat 21 Nov, 02:28 AM PKT
 
 ## Collection
-- New items this run: 42 | items in rolling pool: 565
-- Unique story clusters: 496 (duplicates merged: 69)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 3
-- Items per outlet: Geo News 6, Pakistan Today 5, Al Jazeera 4, ARY News 2, Engadget 2, Ars Technica 2, NBC News 2, samaa tv 1, Jang Urdu 1, Bol News 1, AP News 1, TechCrunch 1
+- New items this run: 25 | items in rolling pool: 495
+- Unique story clusters: 431 (duplicates merged: 64)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 3
+- Items per outlet: Pakistan Today 5, Al Jazeera 3, Geo News 2, Jang Urdu 2, Engadget 2, Ars Technica 2, Cricket.com.au 1, The Verge 1, TechCrunch 1, GSMArena 1, WE News English 1, AP News 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- US tech sell-off continues as Anthropic tumbles after mega IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CTD, police kill three terrorists in Kohat division | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nepal cricket fans celebrate their team’s global rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli drone attacks kill seven Palestinians in central Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nepali cricket fans in Qatar want to see their team competing with the best | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Palestinian anti-Hamas groups accused of role in Israel Gaza operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gérard Depardieu and French author investigated over sexual allegations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- US tech sell-off continues as Anthropic tumbles after mega IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CTD, police kill three terrorists in Kohat division | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nepal cricket fans celebrate their team’s global rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli drone attacks kill seven Palestinians in central Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nepali cricket fans in Qatar want to see their team competing with the best | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Palestinian anti-Hamas groups accused of role in Israel Gaza operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gérard Depardieu and French author investigated over sexual allegations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- US tech sell-off continues as Anthropic tumbles after mega IPO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CTD, police kill three terrorists in Kohat division | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Japan offers Saudi Arabia 16 million barrels of extra oil storage, eyes 8 million barrel buy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nepal cricket fans celebrate their team’s global rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli drone attacks kill seven Palestinians in central Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nepali cricket fans in Qatar want to see their team competing with the best | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Palestinian anti-Hamas groups accused of role in Israel Gaza operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gérard Depardieu and French author investigated over sexual allegations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 2 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Trump Threatens Ban and Tremendous Tax on US Firms Building Overseas AI Data Centres  [NORMAL]
-- Poster: امریکہ سے باہر اے آئی ڈیٹا سینٹرز بنانے پر پابندی کی دھمکی / Trump threatens ban on overseas AI data centres | category us_politics
-- Alternative headline: Trump Warns US Tech Giants Against Building AI Data Centres Outside America
+### Minister insists referendum on new provinces 'will happen'  [NORMAL]
+- Poster: نئے صوبوں پر ریفرنڈم ضرور ہوگا: وزیر کا اعلان / Referendum on new provinces will happen: Minister | category politics
+- Alternative headline: Government maintains stance that new provinces referendum is certain
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology
-- Keywords: AI data centres, Donald Trump, US tech firms, China, artificial intelligence, tax penalty | hashtags: #DonaldTrump #AIDataCentres #USPolitics #Technology #China
-- Scheduled: Sat 21 Nov, 01:35 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzNVbGdRMVl5aDJYWkVvMi12NkdOQ2pSRTJTSnRzZTA1WFFvWXgzSEM5QjRQcVlBZ0poRWlBN0RuODR2alVYZTZSaUpOWFlqeTBzZGJEMnJpMWhINDZwS3BPeHJ5R2p5cFJadENYdDlvZXRhdW1pUzV6a1lQOTNWNGt4aWFaWjZMQ1pRcU1RamRvMUdC?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzNVbGdRMVl5aDJYWkVvMi12NkdOQ2pSRTJTSnRzZTA1WFFvWXgzSEM5QjRQcVlBZ0poRWlBN0RuODR2alVYZTZSaUpOWFlqeTBzZGJEMnJpMWhINDZwS3BPeHJ5R2p5cFJadENYdDlvZXRhdW1pUzV6a1lQOTNWNGt4aWFaWjZMQ1pRcU1RamRvMUdC?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: new provinces referendum, minister statement, provincial boundaries, administrative restructuring, pakistan politics | hashtags: #NewProvinces #Referendum #PakPolitics #DawnNews
+- Scheduled: Sat 21 Nov, 02:28 AM PKT
 - Caption:
 ```
-US President Donald Trump has threatened to ban American companies from building AI data centres overseas.
+A federal minister has firmly stated that a referendum regarding the creation of new provinces will definitely take place.
 
-US President Donald Trump has stated he will ban American companies from constructing artificial intelligence data centres overseas, warning of a heavy tax for tech firms that do so. Trump emphasized keeping infrastructure within the United States to prevent other nations, particularly China, from gaining an advantage, though enforcement details remain unclear.
+A government minister has insisted that a referendum on the creation of new provinces will happen, amid ongoing debates about administrative restructuring and provincial boundaries in the country. The statement highlights the administration's stated commitment to pursuing the controversial political move.
 
-امریکی صدر ڈونلڈ ایسا اعلان کیا ہے کہ امریکی کمپنیاں بیرون ملک مصنوعی ذہانت کے ڈیٹا سینٹرز نہیں بنا سکیں گی۔ انہوں نے خبردار کیا ہے کہ ایسا کرنے والی ٹیک کمپنیوں پر بھاری ٹیکس لگایا جائے گا۔ صدر ٹرمپ کا کہنا ہے کہ تمام انفراسٹرکچر امریکہ کے اندر ہی رکھا جائے گا۔
+ایک وفاقی وزیر نے اصرار کیا ہے کہ نئے صوبوں کے قیام پر ریفرنڈم ضرور ہوگا، جو ملک میں انتظامی تشکیل نو اور صوبائی حدود کے بارے میں جاری بحث کے دوران سامنے آیا ہے۔ اس بیان سے اس متنازع سیاسی قدم کو آگے بڑھانے کے حوالے سے حکومت کے عزم کا اظہار ہوتا ہے۔
 
-First reported by BBC Technology
+First reported by Dawn
 
-#DonaldTrump #AIDataCentres #USPolitics #Technology #China
+#NewProvinces #Referendum #PakPolitics #DawnNews
 ```
 
-### US Tech Sell-Off Deepens as Anthropic Tumbles Following Mega IPO Debut  [NORMAL]
-- Poster: اینتھروپک کے شیئر میں گراوٹ، امریکی ٹیک مارکیٹ میں مندی جاری / US tech sell-off continues as Anthropic tumbles | category economy
-- Alternative headline: Anthropic Shares Slide After Blockbuster Market Debut Stirs AI Bubble Fears
+### Russia complains of new Iron Curtain as Estonia shuts borders  [NORMAL]
+- Poster: اسٹونیا کی سرحدیں بند، روس کا نئے 'آئرن کرٹین' کا شکوہ / Estonia shuts borders, Russia complains of new Iron Curtain | category world
+- Alternative headline: Estonia closes road border crossings following drone manufacturer attack
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Anthropic IPO, tech sell-off, US stock market, AI bubble, shares fall, economy | hashtags: #Anthropic #TechSellOff #StockMarket #Economy #AI
-- Scheduled: Sat 21 Nov, 01:45 AM PKT
+- Keywords: Estonia Russia borders, Iron Curtain, Tallinn, drone manufacturer, border closure | hashtags: #Russia #Estonia #IronCurtain #WorldNews
+- Scheduled: Sat 21 Nov, 02:38 AM PKT
 - Caption:
 ```
-The US technology sector faces a continued sell-off as Anthropic shares stumble following its mega initial public offering.
+Russia has criticized Estonia's decision to shut its road border crossings following an attack on a drone manufacturer.
 
-The United States technology sector experienced a continued sell-off as Anthropic shares tumbled following its mega initial public offering. The listing had initially been viewed as a potential boost for an industry struggling to regain its footing, but the downturn has heightened concerns regarding artificial intelligence market valuations.
+Russia has complained of a new 'Iron Curtain' after Estonia decided to shut its road border crossings. Tallinn's restrictive measure follows a reported attack on a drone manufacturer, further escalating regional tensions between the neighboring nations.
 
-امریکی ٹیکنالوجی سیکٹر میں گراوٹ کا سلسلہ جاری ہے کیونکہ بڑے پیمانے پر آئی پی او کے بعد اینتھروپک کے حصص میں نمایاں کمی واقع ہوئی ہے۔ اس لسٹنگ کو ایسی صنعت کے لیے ممکنہ فروغ کے طور پر دیکھا جا رہا تھا جو سنبھلنے کی کوشش کر رہی ہے۔
+اسٹونیا کی جانب سے سڑک کے سرحدی راستے بند کرنے کے فیصلے کے بعد روس نے نئے 'آئرن کرٹین' کا شکوہ کیا ہے۔ تالن کا یہ قدم ایک ڈرون فیکٹری پر حملے کے بعد اٹھایا گیا ہے، جس سے دونوں پڑوسی ممالک کے درمیان علاقائی کشیدگی مزید بڑھ گئی ہے۔
 
 First reported by Al Jazeera
 
-#Anthropic #TechSellOff #StockMarket #Economy #AI
+#Russia #Estonia #IronCurtain #WorldNews
 ```
 
-### CTD and Police Eliminate Three Terrorists Including Kohat Attack Mastermind in IBO  [NORMAL]
-- Poster: کوہاٹ میں سی ٹی ڈی اور پولیس کا آپریشن، تین دہشت گرد ہلاک / Three terrorists killed in Kohat CTD operation | category security
-- Alternative headline: Three Terrorists Killed in Kohat Division Police and CTD Intelligence Operation
+### Israeli drone attacks kill seven Palestinians in central Gaza  [NORMAL]
+- Poster: وسطی غزہ میں اسرائیلی ڈرون حملے، 7 فلسطینی جاں بحق / Israeli drone attacks kill seven Palestinians in central Gaza | category war
+- Alternative headline: Seven killed in central Gaza as Israeli drone strikes continue
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1ZkakV5d1Y3b3hLWHJwX2hnM2RhRzFYVHk4QjhQajAyRjlJMm1tclh6Ym1HVERWVkFfWHdTQ3NrUVQ3SjJfUmZDVmxMaHRtelprRWRCMElKbFdPYXp5dlBDbjhYREhKTnNzSWhUWVZrUkRRVlBvblVtd1p0SHFlYVI5Q08wOUdwdGdIMEV0SDl2T0hMUWJyQW16bkQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1ZkakV5d1Y3b3hLWHJwX2hnM2RhRzFYVHk4QjhQajAyRjlJMm1tclh6Ym1HVERWVkFfWHdTQ3NrUVQ3SjJfUmZDVmxMaHRtelprRWRCMElKbFdPYXp5dlBDbjhYREhKTnNzSWhUWVZrUkRRVlBvblVtd1p0SHFlYVI5Q08wOUdwdGdIMEV0SDl2T0hMUWJyQW16bkQ?oc=5
-- Supporting coverage: samaa tv, ARY News, Dawn Latest
-- Keywords: Kohat operation, CTD, police, terrorists killed, Kohat police lines attack, IBO | hashtags: #CTD #Kohat #CounterTerrorism #PakistanPolice #Security
-- Scheduled: Sat 21 Nov, 01:55 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Gaza drone attacks, central Gaza, Palestinians killed, Israel military, ceasefire | hashtags: #Gaza #Palestine #Israel #AlJazeera
+- Scheduled: Sat 21 Nov, 02:48 AM PKT
 - Caption:
 ```
-Counter-Terrorism Department and police forces have killed three terrorists during an intelligence-based operation in the Kohat division.
+At least seven Palestinians have been killed in central Gaza amid ongoing Israeli drone attacks.
 
-The Counter-Terrorism Department and local police successfully eliminated three terrorists during an intelligence-based operation in the Kohat division. According to authorities, the killed individuals included the mastermind behind the previous Kohat police lines attack, marking a major breakthrough in regional counter-terrorism efforts.
+Israeli drone attacks have killed seven Palestinians in central Gaza. The strikes have caused widespread fear and panic among local residents as military operations continue in the Strip despite claims surrounding a ceasefire.
 
-سی ٹی ڈی اور پولیس نے کوہاٹ ڈویژن میں انٹیلی جنس بیسڈ آپریشن کے دوران تین دہشت گردوں کو ہلاک کر دیا۔ حکام کے مطابق ہلاک ہونے والوں میں کوہاٹ پولیس لائنز حملے کا ماسٹر مائنڈ بھی شامل ہے۔
+وسطی غزہ میں اسرائیلی ڈرون حملوں کے نتیجے میں سات فلسطینی جاں بحق ہو گئے ہیں۔ جنگ بندی کی باتوں کے باوجود غزہ میں فوجی کارروائیاں جاری ہیں، جن کی وجہ سے مقامی شہریوں میں خوف و ہراس پھیل گیا ہے۔
 
-First reported by samaa tv; also reported by ARY News and Dawn Latest
+First reported by Al Jazeera
 
-#CTD #Kohat #CounterTerrorism #PakistanPolice #Security
+#Gaza #Palestine #Israel #AlJazeera
 ```
 
-### Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Barrel Purchase  [NORMAL]
-- Poster: جاپان کی سعودی عرب کو تیل کی اضافی اسٹوریج کی پیشکش / Japan offers Saudi Arabia extra oil storage | category economy
-- Alternative headline: Japan Expands Crude Stockpiling Deal with Saudi Arabia for Millions of Barrels
+### Nepali cricket fans in Qatar want team to compete globally  [NORMAL]
+- Poster: قطر میں مقیم شائقین کی نیپالی کرکٹ ٹیم کو بلند مقام پر دیکھنے کی خواہش / Nepali fans in Qatar hope their cricket team rises globally | category sports
+- Alternative headline: Qatar's Nepali community hopes national cricket team will rise
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/japan-offers-saudi-arabia-16-million-barrels-of-extra-oil-storage-eyes-8-million-barrel-buy | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/japan-offers-saudi-arabia-16-million-barrels-of-extra-oil-storage-eyes-8-million-barrel-buy
-- Supporting coverage: ARY News
-- Keywords: oil storage, Japan, Saudi Arabia, crude oil, energy reserves, Prince Abdulaziz bin Salman | hashtags: #Japan #SaudiArabia #OilStorage #Energy #Economy
-- Scheduled: Sat 21 Nov, 02:05 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Nepal cricket fans, Qatar Nepali community, global rankings, cricket team, Al Jazeera sports | hashtags: #NepalCricket #Qatar #CricketFans #SportsNews
+- Scheduled: Sat 21 Nov, 02:58 AM PKT
 - Caption:
 ```
-Japan has offered Saudi Arabia millions of barrels of extra crude oil storage capacity while eyeing a substantial purchase.
+Thousands of Nepali cricket fans in Qatar are cheering for their team and hoping for a rise in global rankings.
 
-Japan has offered Saudi Arabia an extra 16 million barrels of crude oil storage capacity and plans to purchase up to 8 million barrels for its national reserves. The arrangement builds on the Joint Crude Oil Stockpiling Project initiated in 2010 and follows virtual ministerial talks.
+Thousands of members from Qatar's Nepali community have been watching their national cricket team play, expressing strong hopes that the squad will continue to rise in international cricket rankings and compete with the best teams globally.
 
-جاپان نے سعودی عرب کو خام تیل کی اسٹوریج کی اضافی گنجائش فراہم کرنے کی پیشکش کی ہے اور وہ اپنے قومی ذخائر کے لیے آٹھ ملین بیرل تک تیل خریدنے کا ارادہ رکھتا ہے۔ یہ اقدام دوطرفہ تعاون کے تحت اٹھایا گیا ہے۔
+قطر میں نیپالی کمیونٹی کے ہزاروں افراد اپنی قومی کرکٹ ٹیم کو کھیلتے ہوئے دیکھ رہے ہیں اور امید ظاہر کر رہے ہیں کہ ان کی ٹیم بین الاقوامی درجہ بندی میں مزید ترقی کرے گی اور دنیا کی بہترین ٹیموں کا مقابلہ کرے گی۔
 
-First reported by ARY News
+First reported by Al Jazeera
 
-#Japan #SaudiArabia #OilStorage #Energy #Economy
+#NepalCricket #Qatar #CricketFans #SportsNews
 ```
 
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
 - [needs_review] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
 - [needs_review] normal | Trump warns Iran over reported dirty bomb threat in Washington | Wed 18 Nov, 01:17 AM PKT
 - [needs_review] normal | Prince William and Kate Celebrate Earthshot Prize Winners in Mumbai | Wed 18 Nov, 01:38 AM PKT
-- [published] normal | GTA VI Dominates Game Awards 2026 With Eight Major Nominations | Wed 18 Nov, 01:48 AM PKT
 - [needs_review] normal | Major Apple Outage Halts App Store, iCloud, and Apple Pay Globally | Wed 18 Nov, 01:58 AM PKT
 - [needs_review] normal | Saudi's Delta Energy Eyes $30 Billion Energy Investment in Pakistan | Wed 18 Nov, 02:08 AM PKT
 - [needs_review] normal | Russian military plane crashes in Siberia, killing all 19 aboard | Wed 18 Nov, 02:34 AM PKT
@@ -332,9 +330,9 @@ First reported by ARY News
 - [needs_review] normal | Afghanistan Excluded from ECO Moot Due to Non-Recognition | Fri 20 Nov, 07:08 PM PKT
 - [needs_review] normal | Supreme Court of Pakistan Receives International ISO Certification | Fri 20 Nov, 07:18 PM PKT
 - [published] normal | PCB Chairman Mohsin Naqvi Announces All-Pakistan Tri-Series for Decemb | Fri 20 Nov, 07:41 PM PKT
-- [queued] normal | Spain to Face France and England Take on Norway in Nations League Quar | Fri 20 Nov, 07:51 PM PKT
-- [queued] normal | Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperatio | Fri 20 Nov, 08:01 PM PKT
-- [queued] normal | Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over  | Fri 20 Nov, 08:41 PM PKT
+- [needs_review] normal | Spain to Face France and England Take on Norway in Nations League Quar | Fri 20 Nov, 07:51 PM PKT
+- [needs_review] normal | Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperatio | Fri 20 Nov, 08:01 PM PKT
+- [published] normal | Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over  | Fri 20 Nov, 08:41 PM PKT
 - [queued] normal | Ringleader pleads guilty to massive $100 million US jewellery heist | Fri 20 Nov, 08:51 PM PKT
 - [queued] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
 - [queued] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
@@ -351,18 +349,22 @@ First reported by ARY News
 - [queued] normal | US Tech Sell-Off Deepens as Anthropic Tumbles Following Mega IPO Debut | Sat 21 Nov, 01:45 AM PKT
 - [queued] normal | CTD and Police Eliminate Three Terrorists Including Kohat Attack Maste | Sat 21 Nov, 01:55 AM PKT
 - [queued] normal | Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Ba | Sat 21 Nov, 02:05 AM PKT
+- [queued] normal | Minister insists referendum on new provinces 'will happen' | Sat 21 Nov, 02:28 AM PKT
+- [queued] normal | Russia complains of new Iron Curtain as Estonia shuts borders | Sat 21 Nov, 02:38 AM PKT
+- [queued] normal | Israeli drone attacks kill seven Palestinians in central Gaza | Sat 21 Nov, 02:48 AM PKT
+- [queued] normal | Nepali cricket fans in Qatar want team to compete globally | Sat 21 Nov, 02:58 AM PKT
 
 ## Publishing this run
-- Published 'PCB Chairman Mohsin Naqvi Announces All-Pakistan Tri-Series for December'.
+- Published 'Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over UAE'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4564 | output tokens: 2185
+- Calls: 3 | prompt tokens: 4158 | output tokens: 1968
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 429 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i

@@ -93769,7 +93769,300 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5f54199e10ff1a40084c2487",
+      "remembered_at": "2026-11-20T21:28:58.663504+00:00",
+      "event_date": "2026-11-20T20:45:09+00:00",
+      "last_update": "2026-11-20T20:45:09+00:00",
+      "event": "Gaza’s displaced children celebrate World Children’s Day",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "camp",
+        "celebrate",
+        "children",
+        "day",
+        "displaced",
+        "gathered",
+        "gaza",
+        "mark",
+        "nuseirat",
+        "refugee",
+        "world"
+      ],
+      "source_excerpt": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+          "published_at": "2026-11-20T20:45:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f6a4a66b7b863be0eba430d3",
+      "remembered_at": "2026-11-20T21:28:58.663504+00:00",
+      "event_date": "2026-11-20T20:45:08+00:00",
+      "last_update": "2026-11-20T20:45:08+00:00",
+      "event": "Sudan’s war leaves disabled children missing out on education",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "centres",
+        "children",
+        "close",
+        "disabilities",
+        "disabled",
+        "education",
+        "forces",
+        "forcing",
+        "leaves",
+        "lose",
+        "missing",
+        "out",
+        "rehabilitation",
+        "schools",
+        "sudan",
+        "war",
+        "with"
+      ],
+      "source_excerpt": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+          "published_at": "2026-11-20T20:45:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1eaad436da672d10c54c443d",
+      "remembered_at": "2026-11-20T21:28:58.663504+00:00",
+      "event_date": "2026-11-20T20:40:00+00:00",
+      "last_update": "2026-11-20T20:40:00+00:00",
+      "event": "King Charles welcomes Pakistan's new envoy in formal Palace ceremony",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accompanied",
+        "after",
+        "ceremony",
+        "charles",
+        "couple",
+        "credentials",
+        "envoy",
+        "for",
+        "formal",
+        "formally",
+        "has",
+        "his",
+        "king",
+        "meeting",
+        "monarch",
+        "new",
+        "pakistan",
+        "palace",
+        "photograph",
+        "presenting",
+        "representative",
+        "saima",
+        "shared",
+        "the",
+        "tipu",
+        "usman",
+        "was",
+        "welcomes",
+        "wife",
+        "with"
+      ],
+      "source_excerpt": "Pakistan’s representative to the UK, Tipu Usman, has shared a photograph of his meeting with King Charles after formally presenting his credentials to the monarch. Usman was accompanied by his wife, Saima Tipu, for the ceremony. The couple...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692011-king-charles-welcomes-pakistans-new-envoy-in-formal-palace-ceremony",
+          "published_at": "2026-11-20T20:40:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczB4N002MTN2UklleF96RWhqeDN5VU9fWFhWemZONjZ3OEhhcjV0TVhBLUVZSVRZQkxLbzZpbDlmUHlKcHZiN3R6V294aFM5UkFoTXNHSGFQZkotYnd6Mm1POUVYLWE3b0xtcHJ6WVJWeThDa2dnNS1xVm5ZY0tVemcxYkxTUFJXNkdvNGMzSFNxWERPMU1yenhldUU5VmxFZXc?oc=5",
+          "published_at": "2026-11-20T20:40:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692011-king-charles-welcomes-pakistans-new-envoy-in-formal-palace-ceremony",
+        "publisher_url": "https://www.geo.tv/latest/692011-king-charles-welcomes-pakistans-new-envoy-in-formal-palace-ceremony",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "75cb01f351da8560a3a6f1a6",
+      "remembered_at": "2026-11-20T21:28:58.663504+00:00",
+      "event_date": "2026-11-20T19:33:14+00:00",
+      "last_update": "2026-11-20T19:33:14+00:00",
+      "event": "Queen Camilla makes elegant statement in treasured royal jewellery set",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "camilla",
+        "elegant",
+        "geo",
+        "jewellery",
+        "makes",
+        "news",
+        "queen",
+        "royal",
+        "set",
+        "statement",
+        "treasured"
+      ],
+      "source_excerpt": "Queen Camilla makes elegant statement in treasured royal jewellery set Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1RjaWNwSVJtOGRCWkp3VFFKbm5xVzZIZHRZeTEwd0F4UmVWZTVobjdIZjZPN05GY0R0RF9KbG0zTncxSDRycEo4OHdURk5PWWpxTlFFRHdqZTdadmRDTDZGMTQ0akoydG93QUhNa09XM0pBTXBLVjZGNUVnM1J5NlN5M3JqQjBCUm5VYnhkc2lzdjhjZVl4VEQzUlk3SWpIS1JsR0ZR?oc=5",
+          "published_at": "2026-11-20T19:33:14+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692004-queen-camilla-makes-elegant-statement-in-treasured-royal-jewellery-set",
+          "published_at": "2026-11-20T19:33:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1RjaWNwSVJtOGRCWkp3VFFKbm5xVzZIZHRZeTEwd0F4UmVWZTVobjdIZjZPN05GY0R0RF9KbG0zTncxSDRycEo4OHdURk5PWWpxTlFFRHdqZTdadmRDTDZGMTQ0akoydG93QUhNa09XM0pBTXBLVjZGNUVnM1J5NlN5M3JqQjBCUm5VYnhkc2lzdjhjZVl4VEQzUlk3SWpIS1JsR0ZR?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "843a3b8bda6777c83fa2783d",
+      "remembered_at": "2026-11-20T21:28:58.663504+00:00",
+      "event_date": "2026-11-20T19:39:00+00:00",
+      "last_update": "2026-11-20T19:39:00+00:00",
+      "event": "Will Puka Nacua play again this season? What we know after MCL surgery",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "again",
+        "angeles",
+        "being",
+        "catcher",
+        "coach",
+        "due",
+        "expected",
+        "facing",
+        "for",
+        "friday",
+        "game",
+        "injured",
+        "know",
+        "list",
+        "los",
+        "may",
+        "mcl",
+        "mcvay",
+        "miss",
+        "nacua",
+        "nfl",
+        "out",
+        "pass",
+        "play",
+        "puka",
+        "rams",
+        "receiver",
+        "remainder",
+        "reported",
+        "sean",
+        "season",
+        "surgery",
+        "suspension",
+        "the",
+        "this",
+        "three",
+        "top",
+        "undergoing",
+        "what",
+        "wide",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "Los Angeles Rams wide receiver Puka Nacua may be out for the remainder of the season after undergoing MCL surgery, coach Sean McVay reported Friday, with the top pass catcher facing a three-game suspension in the NFL due to being on the injured list. Nacua is expected to miss \"a...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692008-will-puka-nacua-play-again-this-season-what-we-know-after-mcl-surgery",
+          "published_at": "2026-11-20T19:39:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFcxSDRCZVVQSW55amRDWGRoeFd4Q25ZMXVTSTM4MGIyX3I5ay05YUw5QVdhVW1jWFEtS1hrUEF1dzZpVHZBVDFUVEJnVXdMeVNteHlHanVTaC01bS1DUmt3cnVWbDBrXzJKYThVX1dUMTJpMnZBLU9EUXZsdDZvcFdvcFpfby0tQlBxcUxzTGdUam0xQVVvWWlSdjdiMklGbUh6bg?oc=5",
+          "published_at": "2026-11-20T19:39:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692008-will-puka-nacua-play-again-this-season-what-we-know-after-mcl-surgery",
+        "publisher_url": "https://www.geo.tv/latest/692008-will-puka-nacua-play-again-this-season-what-we-know-after-mcl-surgery",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T20:35:57.032420+00:00"
+  "updated_at": "2026-11-20T21:28:58.663504+00:00"
 }
