@@ -1,34 +1,34 @@
-# News Hub report - Sat 21 Nov, 08:21 AM PKT
+# News Hub report - Sat 21 Nov, 09:27 AM PKT
 
 ## Collection
-- New items this run: 19 | items in rolling pool: 307
-- Unique story clusters: 273 (duplicates merged: 34)
-- Clusters dropped as already published/queued: 31; unchanged since last analysis: 3
-- Items per outlet: Investify 5, Dawn Latest 4, Dawn 2, Dawn Pakistan 2, Al Jazeera 2, Profit by Pakistan Today 2, Iran International 1, The Guardian 1
+- New items this run: 24 | items in rolling pool: 241
+- Unique story clusters: 209 (duplicates merged: 32)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 4
+- Items per outlet: Dawn Latest 5, Dawn Pakistan 4, Dawn 3, Geo News 2, Profit by Pakistan Today 2, Investify 2, Jang Urdu 1, Aaj English TV 1, GSMArena 1, ProPakistani 1, Iran International 1, The National 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- SECP tightens audit report checks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM Bugti promises jobs across the province | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan rises 17 places in UN e-governance ranking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECC lowers export threshold for SMEs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- TODAY’S PAPER | November 21, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Magistrate indicts anchorperson Iqrarul Hassan for cyberterrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gen Z protests sweep Europe over wars, rising costs and climate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- SECP tightens audit report checks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM Bugti promises jobs across the province | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan rises 17 places in UN e-governance ranking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECC lowers export threshold for SMEs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- TODAY’S PAPER | November 21, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Magistrate indicts anchorperson Iqrarul Hassan for cyberterrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gen Z protests sweep Europe over wars, rising costs and climate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- SECP tightens audit report checks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM Bugti promises jobs across the province | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan rises 17 places in UN e-governance ranking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECC lowers export threshold for SMEs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- TODAY’S PAPER | November 21, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Magistrate indicts anchorperson Iqrarul Hassan for cyberterrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gen Z protests sweep Europe over wars, rising costs and climate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
@@ -38,111 +38,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Pakistan Rises 17 Places in UN E-Governance Ranking  [NORMAL]
-- Poster: پاکستان کی یو این ای گورন্যান্স رینکنگ میں 17 درجے ترقی / Pakistan Jumps 17 Places in UN E-Governance Ranking | category politics
-- Alternative headline: UN E-Governance Ranking Sees Pakistan Jump 17 Spots
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjBwSi00OTlCUVVlZ3ZTS0dob3RzYzRYSUlQWHg3SlRkdmZ5UU12eHNRTVo1aHRTOE5sODFHbFRqSVRlcnJxQzB4bGxCX0Y3TmN3eUhRckJQLXJOWDVHY1BSSms1QjZrWk03NWZlU0xabU1rT0tfdEh3Vm9NWGtybllsazYtOHpmV0tISld3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjBwSi00OTlCUVVlZ3ZTS0dob3RzYzRYSUlQWHg3SlRkdmZ5UU12eHNRTVo1aHRTOE5sODFHbFRqSVRlcnJxQzB4bGxCX0Y3TmN3eUhRckJQLXJOWDVHY1BSSms1QjZrWk03NWZlU0xabU1rT0tfdEh3Vm9NWGtybllsazYtOHpmV0tISld3?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: UN e-governance ranking, Pakistan digital governance, UN ranking, e-governance, Dawn news | hashtags: #Pakistan #EGovernance #UN #DigitalPakistan #DawnNews
-- Scheduled: Sat 21 Nov, 08:21 AM PKT
-- Caption:
-```
-Pakistan has climbed 17 places in the latest UN e-governance ranking, marking a notable improvement in digital governance.
-
-Pakistan has recorded a significant improvement in the United Nations e-governance ranking by jumping 17 places. This advancement highlights progress in digital public services and administrative technology adoption across the country, according to reports published by Dawn.
-
-پاکستان نے اقوام متحدہ کی ای گورন্যান্স رینکنگ میں 17 درجے بہتری کے ساتھ نمایاں ترقی کی ہے۔ ڈان کی رپورٹ کے مطابق یہ پیشرفت ملک بھر میں ڈیجیٹل پبلک سروسز اور انتظامی ٹیکنالوجی کے فروغ کو ظاہر کرتی ہے۔
-
-First reported by Dawn.
-
-#Pakistan #EGovernance #UN #DigitalPakistan #DawnNews
-```
-
-### SECP Tightens Scrutiny on Corporate Audit Reports  [NORMAL]
-- Poster: ایس ای سی پی نے آڈٹ رپورٹس کی جانچ پڑتال سخت کر دی / SECP Tightens Audit Report Checks | category economy
-- Alternative headline: Securities and Exchange Commission Tightens Audit Report Checks
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE54eWNmcXI1eFVZenA0ckpYZWIyOEs2TFFwRnpiN19xSldNTzFZUi1NRS1Iay1wdEJwYUZsM2EzbHpheTN2V1o0dW1TUUlnUW51WkZvQjU3bjVnN2U3SUFUVFByUElrX3hIVGJ1QkFRTXF4Ry1FVGc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE54eWNmcXI1eFVZenA0ckpYZWIyOEs2TFFwRnpiN19xSldNTzFZUi1NRS1Iay1wdEJwYUZsM2EzbHpheTN2V1o0dW1TUUlnUW51WkZvQjU3bjVnN2U3SUFUVFByUElrX3hIVGJ1QkFRTXF4Ry1FVGc?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Investify
-- Keywords: SECP audit checks, SECP, audit report, corporate governance, Dawn | hashtags: #SECP #AuditReports #Economy #Pakistan #DawnNews
-- Scheduled: Sat 21 Nov, 08:31 AM PKT
-- Caption:
-```
-The Securities and Exchange Commission of Pakistan has tightened checks on audit reports to enhance corporate transparency.
-
-The Securities and Exchange Commission of Pakistan (SECP) has implemented stricter checks on corporate audit reports. Reported by Dawn, this regulatory move aims to improve financial transparency, corporate governance, and compliance standards within the business sector.
-
-سیکیورٹیز اینڈ ایکسچینج کمیشن آف پاکستان (ایس ای سی پی) نے کارپوریٹ آڈٹ رپورٹس کی جانچ پڑتال مزید سخت کر دی ہے۔ ڈان کی رپورٹ کے مطابق اس ریگولیٹری اقدام کا مقصد کاروباری شعبے میں مالیاتی شفافیت اور گورন্যান্স کے معیار کو بہتر بنانا ہے۔
-
-First reported by Dawn.
-
-#SECP #AuditReports #Economy #Pakistan #DawnNews
-```
-
-### Balochistan CM Bugti Promises Province-Wide Jobs  [NORMAL]
-- Poster: بلوچستان کے وزیر اعلیٰ بگٹی کا صوبہ بھر میں ملازمتوں کا اعلان / CM Bugti Promises Jobs Across Balochistan | category politics
-- Alternative headline: CM Bugti Announces Job Opportunities Across Balochistan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxQUU0xTnZUelVUTlBRbzF6ZVBSR2FvQUQ3bUo3Z2c0bldsZ3U1dDMtenRzSy1vMjJFT2ROVXlJOTN2aE1lV3lRV3VKOGFaVU5kZXdXVzJqVTdMS0JjQmlBaWRMTTBLdTM1V2VnVWp1RXlGYXhZRVotbHVoZ1BYMXVtaVdR?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxQUU0xTnZUelVUTlBRbzF6ZVBSR2FvQUQ3bUo3Z2c0bldsZ3U1dDMtenRzSy1vMjJFT2ROVXlJOTN2aE1lV3lRV3VKOGFaVU5kZXdXVzJqVTdMS0JjQmlBaWRMTTBLdTM1V2VnVWp1RXlGYXhZRVotbHVoZ1BYMXVtaVdR?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Balochistan jobs, CM Bugti, Balochistan employment, government jobs, Dawn | hashtags: #Balochistan #CMBugti #Jobs #Employment #DawnNews
-- Scheduled: Sat 21 Nov, 08:41 AM PKT
-- Caption:
-```
-Balochistan Chief Minister Sarfraz Bugti has promised new employment opportunities across the province.
-
-Balochistan Chief Minister Sarfraz Bugti has announced a commitment to providing employment opportunities across the province. According to Dawn, this initiative is aimed at addressing local unemployment and supporting economic development in the region.
-
-بلوچستان کے وزیر اعلیٰ سرفراز بگٹی نے صوبے بھر میں روزگار کے نئے مواقع فراہم کرنے کا وعدہ کیا ہے۔ ڈان کے مطابق اس اقدام کا مقصد مقامی سطح پر بے روزگاری کا خاتمہ اور خطے میں معاشی ترقی کو فروغ دینا ہے۔
-
-First reported by Dawn.
-
-#Balochistan #CMBugti #Jobs #Employment #DawnNews
-```
-
-### ECC Lowers Export Threshold for Small and Medium Enterprises  [NORMAL]
-- Poster: ای سی سی نے چھوٹے اور درمیانے درجے کے اداروں کے لیے برآمدی حد کم کر دی / ECC Lowers Export Threshold for SMEs | category economy
-- Alternative headline: Economic Coordination Committee Reduces Export Threshold for SMEs
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVUQzTEV1V2kyVUhpNlRkUU94by1aREZhUE9UWFBIaV93Zk5WTmRKQ1Ftc3ozUU9nQUQ5blp1d052SzZMX3dVcm1YdmItVkdqYURWRzl4dXdtS0NrZWdZZFFjUEFLSzZJXzFwYnl2NnVBamlEdkQ1ZTV3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVUQzTEV1V2kyVUhpNlRkUU94by1aREZhUE9UWFBIaV93Zk5WTmRKQ1Ftc3ozUU9nQUQ5blp1d052SzZMX3dVcm1YdmItVkdqYURWRzl4dXdtS0NrZWdZZFFjUEFLSzZJXzFwYnl2NnVBamlEdkQ1ZTV3?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: ECC export threshold, ECC, SMEs export, Economic Coordination Committee, Dawn | hashtags: #ECC #SMEs #Exports #Economy #DawnNews
-- Scheduled: Sat 21 Nov, 08:51 AM PKT
-- Caption:
-```
-The Economic Coordination Committee has lowered the export threshold to facilitate small and medium enterprises.
-
-The Economic Coordination Committee (ECC) has approved a reduction in the export threshold for small and medium enterprises (SMEs). Reported by Dawn, the decision is intended to ease export regulations and encourage greater participation from smaller businesses in international trade.
-
-ایکنامک کوآرڈینیشن کمیٹی (ای سی سی) نے چھوٹے اور درمیانے درجے کے اداروں (ایس ایم ایز) کے لیے برآمدی حد میں کمی کی منظوری دے دی ہے۔ ڈان کی رپورٹ کے مطابق اس فیصلے کا مقصد برآمدی ضوابط کو آسان بنانا اور چھوٹے کاروباروں کی حوصلہ افزائی کرنا ہے۔
-
-First reported by Dawn.
-
-#ECC #SMEs #Exports #Economy #DawnNews
-```
-
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
-- [needs_review] normal | Major Apple Outage Halts App Store, iCloud, and Apple Pay Globally | Wed 18 Nov, 01:58 AM PKT
-- [needs_review] normal | Saudi's Delta Energy Eyes $30 Billion Energy Investment in Pakistan | Wed 18 Nov, 02:08 AM PKT
-- [needs_review] normal | Russian military plane crashes in Siberia, killing all 19 aboard | Wed 18 Nov, 02:34 AM PKT
 - [needs_review] normal | Police charge crowds during student protest march in Brussels | Wed 18 Nov, 02:54 AM PKT
 - [needs_review] normal | China and Canada expand tariff relief after Carney-Xi meeting | Wed 18 Nov, 03:04 AM PKT
 - [needs_review] normal | Pakistan Posts $39 Million Current Account Surplus in October, SBP Rep | Wed 18 Nov, 03:32 AM PKT
@@ -161,7 +62,6 @@ First reported by Dawn.
 - [needs_review] normal | Hundreds Protest Outside Oxford University as Jason Arday's Accuser Sp | Wed 18 Nov, 07:58 AM PKT
 - [needs_review] normal | Ecuadorian Fishermen Sue Trump Administration Over Alleged Drone Strik | Wed 18 Nov, 08:08 AM PKT
 - [needs_review] normal | Rival Peace Efforts Fail to Halt Ongoing Violence in Eastern DR Congo | Wed 18 Nov, 08:18 AM PKT
-- [published] normal | Man Sentenced to Over 27 Years in US Over Trump Murder Plot | Wed 18 Nov, 08:42 AM PKT
 - [needs_review] normal | Hungary on the Hunt for a New Football Hero | Wed 18 Nov, 08:52 AM PKT
 - [needs_review] normal | ICE Agents Shove and Pepper-Spray Pregnant Woman in US | Wed 18 Nov, 09:02 AM PKT
 - [needs_review] normal | Mary Peltola Flips Alaska Senate Seat in Democratic Win | Wed 18 Nov, 09:12 AM PKT
@@ -342,11 +242,11 @@ First reported by Dawn.
 - [needs_review] normal | CTD and Police Eliminate Three Terrorists Including Kohat Attack Maste | Sat 21 Nov, 01:55 AM PKT
 - [needs_review] normal | Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Ba | Sat 21 Nov, 02:05 AM PKT
 - [published] normal | Minister insists referendum on new provinces 'will happen' | Sat 21 Nov, 02:28 AM PKT
-- [queued] normal | Russia complains of new Iron Curtain as Estonia shuts borders | Sat 21 Nov, 02:38 AM PKT
-- [queued] normal | Israeli drone attacks kill seven Palestinians in central Gaza | Sat 21 Nov, 02:48 AM PKT
-- [queued] normal | Nepali cricket fans in Qatar want team to compete globally | Sat 21 Nov, 02:58 AM PKT
-- [queued] normal | 10 years after Brexit, UK weighs a ‘Breturn’ to the EU | Sat 21 Nov, 03:23 AM PKT
-- [queued] normal | Trump insists Iran won't make an acceptable deal | Sat 21 Nov, 03:33 AM PKT
+- [needs_review] normal | Russia complains of new Iron Curtain as Estonia shuts borders | Sat 21 Nov, 02:38 AM PKT
+- [needs_review] normal | Israeli drone attacks kill seven Palestinians in central Gaza | Sat 21 Nov, 02:48 AM PKT
+- [needs_review] normal | Nepali cricket fans in Qatar want team to compete globally | Sat 21 Nov, 02:58 AM PKT
+- [needs_review] normal | 10 years after Brexit, UK weighs a ‘Breturn’ to the EU | Sat 21 Nov, 03:23 AM PKT
+- [published] normal | Trump insists Iran won't make an acceptable deal | Sat 21 Nov, 03:33 AM PKT
 - [queued] normal | Jennifer Lawrence and Josh Hutcherson reveal favorite Hunger Games fil | Sat 21 Nov, 03:43 AM PKT
 - [queued] normal | Gaza’s displaced children gather to celebrate World Children’s Day | Sat 21 Nov, 03:53 AM PKT
 - [queued] normal | Russian missiles land in Poland amid NATO drills | Sat 21 Nov, 04:18 AM PKT
@@ -371,10 +271,16 @@ First reported by Dawn.
 - [queued] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
 
 ## Publishing this run
-- Published 'Minister insists referendum on new provinces 'will happen''.
+- Published 'Trump insists Iran won't make an acceptable deal'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4296 | output tokens: 2234
-- Errors: 2
+- Calls: 4 | prompt tokens: 10872 | output tokens: 5654
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: Expecting value: line 90 column 9 (char 3483)
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 67 column 7 (char 2778)
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: lin
