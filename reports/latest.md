@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 02:36 PM PKT
+# News Hub report - Sat 21 Nov, 03:29 PM PKT
 
 ## Collection
-- New items this run: 41 | items in rolling pool: 319
-- Unique story clusters: 258 (duplicates merged: 61)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 6
-- Items per outlet: Al Jazeera 8, ARY News 4, The Current 4, samaa tv 3, ProPakistani 3, Dawn 2, Geo News 2, TechJuice 2, Profit by Pakistan Today 2, The News International 1, Dawn Pakistan 1, Dawn Latest 1
+- New items this run: 41 | items in rolling pool: 348
+- Unique story clusters: 284 (duplicates merged: 64)
+- Clusters dropped as already published/queued: 23; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 9, ProPakistani 5, Al Jazeera 4, Geo News 3, samaa tv 3, Wired 2, Investify 2, Dunya News 1, The Express Tribune 1, Aaj English TV 1, BBC World 1, TechJuice 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Tanker hit by unknown projectile near Oman's Khasab, UKMTO says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cummins wins Cricket Australia's 'unanimous support' to remain Test captain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan calls for multilateralism, says bloc or unilateral politics will not work | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Three US citizens among 4 convicted in Honduras over sex-trafficking case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Fire sprinkler sprays water at flame-covered sign in China | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- French police officers guilty of Michel Zecler assault: What happens now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Tanker hit by unknown projectile near Oman's Khasab, UKMTO says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cummins wins Cricket Australia's 'unanimous support' to remain Test captain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan calls for multilateralism, says bloc or unilateral politics will not work | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Three US citizens among 4 convicted in Honduras over sex-trafficking case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Fire sprinkler sprays water at flame-covered sign in China | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- French police officers guilty of Michel Zecler assault: What happens now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Tanker hit by unknown projectile near Oman's Khasab, UKMTO says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cummins wins Cricket Australia's 'unanimous support' to remain Test captain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan calls for multilateralism, says bloc or unilateral politics will not work | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Three US citizens among 4 convicted in Honduras over sex-trafficking case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Fire sprinkler sprays water at flame-covered sign in China | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- French police officers guilty of Michel Zecler assault: What happens now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,10 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 0 items
+### Illicit alcohol kills 11 people and poisons 180 in northeast India  [NORMAL]
+- Poster: بھارت میں زہریلی شراب پینے سے 11 افراد ہلاک، 180 متاثر / Toxic alcohol kills 11, sickens 180 in India | category crime
+- Alternative headline: Manipur chief minister orders probe after toxic alcohol kills 11
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: toxic alcohol, Manipur, India, alcohol poisoning, investigation | hashtags: #Manipur #India #BreakingNews
+- Scheduled: Sat 21 Nov, 03:29 PM PKT
+- Caption:
+```
+At least 11 people have died and 180 others fell ill after consuming suspected toxic alcohol in India's Manipur state.
+
+An outbreak of suspected toxic alcohol in northeast India's Manipur state has resulted in the deaths of at least 11 people while leaving 180 others hospitalized. The state's chief minister has ordered an immediate investigation into the incident, vowing that those responsible will face arrest and punishment.
+
+بھارت کی ریاست منی پور میں زہریلی شراب پینے سے کم از کم 11 افراد ہلاک اور 180 بیمار ہو گئے ہیں۔ وزیراعلیٰ نے واقعے کی تحقیقات کا حکم دیتے ہوئے کہا ہے کہ ذمہ داروں کو گرفتار کر کے سزا دی جائے گی۔
+
+First reported by Al Jazeera.
+
+#Manipur #India #BreakingNews
+```
+
+### Pat Cummins secures unanimous support from Cricket Australia to remain captain  [NORMAL]
+- Poster: پیٹ کمنز کو آسٹریلوی کرکٹ بورڈ کی جانب سے مکمل حمایت حاصل / Pat Cummins retains Cricket Australia backing | category sports
+- Alternative headline: Cricket Australia backs Pat Cummins to continue as Test captain
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVV2a2E5NEVkT3VWQnlPS0tsTkVrRWU5VFFVSmZEeGhhVjE4UG5WQkJWVXJ5UUxKWkdSTi1uQ1UzZjkyZWdTakVJVDZuVXJmNFBmaDZvRVR4S1oxOEFMUXBXWEdsV1EyZlRlaEZVMVhRclZ1dXNNbHV6M3FfX0I4RFF5bUthWlhPdmItRVRMVEhSTTVzd0tIaDJydkdkMkRYdVNTMTA1cENIQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVV2a2E5NEVkT3VWQnlPS0tsTkVrRWU5VFFVSmZEeGhhVjE4UG5WQkJWVXJ5UUxKWkdSTi1uQ1UzZjkyZWdTakVJVDZuVXJmNFBmaDZvRVR4S1oxOEFMUXBXWEdsV1EyZlRlaEZVMVhRclZ1dXNNbHV6M3FfX0I4RFF5bUthWlhPdmItRVRMVEhSTTVzd0tIaDJydkdkMkRYdVNTMTA1cENIQQ?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Al Jazeera, Al Jazeera
+- Keywords: Pat Cummins, Cricket Australia, Test captain, cricket | hashtags: #PatCummins #CricketAustralia #TestCricket
+- Scheduled: Sat 21 Nov, 03:39 PM PKT
+- Caption:
+```
+Australian Test captain Pat Cummins has received unanimous backing from Cricket Australia to continue leading the side.
+
+Australian Test captain Pat Cummins has secured unanimous support from Cricket Australia to remain in his leadership role. The endorsement comes amid ongoing discussions regarding past controversies, reaffirming the board's confidence in his captaincy for the national team.
+
+آسٹریلیا کے ٹیسট کپتان پیٹ کمنز کو کرکٹ آسٹریلیا کی جانب سے ٹیم کی قیادت جاری رکھنے کے لیے متفقہ حمایت حاصل ہو گئی ہے۔ بورڈ نے ان پر مکمل اعتماد کا اظہار کیا ہے۔
+
+First reported by Dawn; also reported by Al Jazeera.
+
+#PatCummins #CricketAustralia #TestCricket
+```
+
+### Pakistan stresses multilateralism, warns against bloc and unilateral politics  [NORMAL]
+- Poster: پاکستان کا کثیرالجہتی تعاون پر زور، بلاک کی سیاست مسترد / Pakistan rejects bloc politics, urges multilateralism | category politics
+- Alternative headline: FM Dar calls for multilateralism as Pakistan rejects bloc politics
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMitgFBVV95cUxObmxZTkwxSjBDLWRDOUF1Y25LN2RvbXc0ZktTS25tX0wzV3laV2NBS1VoMkJzTFBPRVFLYjdEN3BtZE5RMVh6Szg2d210dVNFTW5JWGFNbnZtbFdMYkVrSU5mVHRLOHV2X0RoeVRIU2ZnRjRiajVxNXNNWXUwMEpwTFRMRlN3cGFnWXAwWHdSTzB5SlhTZWROUkZqZHFpSUdQY2NiZGZTUXdWUmFvMzlNOHFodUFVUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMitgFBVV95cUxObmxZTkwxSjBDLWRDOUF1Y25LN2RvbXc0ZktTS25tX0wzV3laV2NBS1VoMkJzTFBPRVFLYjdEN3BtZE5RMVh6Szg2d210dVNFTW5JWGFNbnZtbFdMYkVrSU5mVHRLOHV2X0RoeVRIU2ZnRjRiajVxNXNNWXUwMEpwTFRMRlN3cGFnWXAwWHdSTzB5SlhTZWROUkZqZHFpSUdQY2NiZGZTUXdWUmFvMzlNOHFodUFVUQ?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: multilateralism, Pakistan, FM Dar, foreign policy, unilateral politics | hashtags: #Pakistan #ForeignPolicy #Multilateralism
+- Scheduled: Sat 21 Nov, 03:49 PM PKT
+- Caption:
+```
+Foreign Minister Ishaq Dar emphasized the importance of multilateralism, stating that bloc or unilateral politics will not succeed.
+
+Pakistan has called for a renewed commitment to multilateralism in global affairs. Foreign officials emphasized that unilateral actions and bloc-based politics are ineffective in addressing modern international challenges, urging nations to work through cooperative frameworks instead.
+
+پاکستان نے عالمی امور میں کثیرالجہتی پر زور دیتے ہوئے کہا ہے کہ بلاک یا یکطرفہ سیاست کامیاب نہیں ہو سکتی۔ حکام کا کہنا ہے کہ عالمی چیلنجز سے نمٹنے کے لیے باہمی تعاون ناگزیر ہے۔
+
+First reported by Dawn.
+
+#Pakistan #ForeignPolicy #Multilateralism
+```
+
+### Three US citizens among four convicted in Honduras sex-trafficking case  [NORMAL]
+- Poster: ہونڈورس میں جنسی سمگلنگ کے جرم میں 3 امریکی شہریوں سمیت 4 گرفتار / Three US citizens convicted in Honduras | category crime
+- Alternative headline: Honduras court convicts four individuals, including three Americans
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: sex-trafficking, Honduras, US citizens, conviction, crime | hashtags: #Honduras #Crime #Trafficking
+- Scheduled: Sat 21 Nov, 03:59 PM PKT
+- Caption:
+```
+Three US citizens are among four individuals convicted in Honduras for their involvement in a sex-trafficking ring.
+
+A court in Honduras has found four individuals guilty of recruiting women into a sex-trafficking ring, with three US citizens among the convicts. The defendants now face up to 10 years in prison following the verdict.
+
+ہونڈورس کی عدالت نے خواتین کو جنسی سمگلنگ کے نیٹ ورک میں دھکیلنے کے جرم میں تین امریکی شہریوں سمیت چار افراد کو سزا سنا دی ہے۔ مجرموں کو دس سال قید کا سامنا ہے۔
+
+First reported by Al Jazeera.
+
+#Honduras #Crime #Trafficking
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 13
+- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
 - [needs_review] normal | Hungary on the Hunt for a New Football Hero | Wed 18 Nov, 08:52 AM PKT
@@ -245,8 +341,8 @@
 - [needs_review] normal | Pakistan Rises 17 Places in UN E-Governance Ranking | Sat 21 Nov, 08:21 AM PKT
 - [needs_review] normal | SECP Tightens Scrutiny on Corporate Audit Reports | Sat 21 Nov, 08:31 AM PKT
 - [published] normal | Balochistan CM Bugti Promises Province-Wide Jobs | Sat 21 Nov, 08:41 AM PKT
-- [queued] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
-- [queued] normal | Can Israel’s opposition bloc stay united against Netanyahu? | Sat 21 Nov, 11:30 AM PKT
+- [needs_review] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
+- [published] normal | Can Israel’s opposition bloc stay united against Netanyahu? | Sat 21 Nov, 11:30 AM PKT
 - [queued] normal | Saudi forces launch major military strikes across Yemen | Sat 21 Nov, 11:40 AM PKT
 - [queued] normal | Three suspects remanded into FIA custody over counterfeit vaccine | Sat 21 Nov, 11:50 AM PKT
 - [queued] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
@@ -259,27 +355,23 @@
 - [queued] normal | Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as  | Sat 21 Nov, 01:59 PM PKT
 - [queued] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
 - [queued] normal | Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper | Sat 21 Nov, 02:19 PM PKT
+- [queued] normal | Illicit alcohol kills 11 people and poisons 180 in northeast India | Sat 21 Nov, 03:29 PM PKT
+- [queued] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
+- [queued] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
+- [queued] normal | Three US citizens among four convicted in Honduras sex-trafficking cas | Sat 21 Nov, 03:59 PM PKT
 
 ## Publishing this run
-- Published 'Balochistan CM Bugti Promises Province-Wide Jobs'.
+- Published 'Can Israel’s opposition bloc stay united against Netanyahu?'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 4 | prompt tokens: 5719 | output tokens: 1878
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"

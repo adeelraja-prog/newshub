@@ -100764,7 +100764,352 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b7645b28f110473eef85ea63",
+      "remembered_at": "2026-11-21T10:29:00.909429+00:00",
+      "event_date": "2026-11-21T09:30:24+00:00",
+      "last_update": "2026-11-21T09:31:58+00:00",
+      "event": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acted",
+        "conditions",
+        "downs",
+        "drone",
+        "efforts",
+        "end",
+        "for",
+        "four",
+        "hormuz",
+        "iran",
+        "iranians",
+        "irgc",
+        "oil",
+        "over",
+        "reiterates",
+        "remain",
+        "reopening",
+        "sanctions",
+        "says",
+        "slaps",
+        "stalled",
+        "trustees",
+        "war"
+      ],
+      "source_excerpt": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+          "published_at": "2026-11-21T09:30:24+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
+          "published_at": "2026-11-21T09:31:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "83e2bbed1f18def48397e438",
+      "remembered_at": "2026-11-21T10:29:00.909429+00:00",
+      "event_date": "2026-11-21T09:58:59+00:00",
+      "last_update": "2026-11-21T09:58:59+00:00",
+      "event": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "antonelli",
+        "discipline",
+        "escapes",
+        "hit",
+        "ins",
+        "kimi",
+        "max",
+        "penalised",
+        "penalty",
+        "pole",
+        "practice",
+        "run",
+        "takes",
+        "vegas",
+        "verstappen",
+        "with"
+      ],
+      "source_excerpt": "Max Verstappen escapes discipline in Vegas F1 practice after run-ins and takes pole as Kimi Antonelli hit with penalty.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
+          "published_at": "2026-11-21T09:58:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b02374652ee0cabf5edbe0ba",
+      "remembered_at": "2026-11-21T10:29:00.909429+00:00",
+      "event_date": "2026-11-21T09:34:20+00:00",
+      "last_update": "2026-11-21T09:34:20+00:00",
+      "event": "FBI reportedly investigating apparent hack of its criminal database",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "apparent",
+        "center",
+        "crime",
+        "criminal",
+        "database",
+        "enforcement",
+        "fbi",
+        "federal",
+        "hack",
+        "information",
+        "investigating",
+        "its",
+        "law",
+        "local",
+        "national",
+        "reportedly",
+        "share",
+        "the",
+        "used"
+      ],
+      "source_excerpt": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T09:34:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "75911fd70555fce0da700c41",
+      "remembered_at": "2026-11-21T10:29:00.909429+00:00",
+      "event_date": "2026-11-21T09:48:44+00:00",
+      "last_update": "2026-11-21T09:48:49+00:00",
+      "event": "DPM Dar calls for new regional security framework to ensure lasting peace",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "calls",
+        "dar",
+        "dpm",
+        "ensure",
+        "express",
+        "for",
+        "framework",
+        "lasting",
+        "new",
+        "peace",
+        "regional",
+        "security",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "DPM Dar calls for new regional security framework to ensure lasting peace The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV21uckdabHQzbG1yUjNkRTJkR2tqaHNMT0IyVzZwM09heldRQTBXS1lucHU1eXlVOWdJdy1ienRvTDZSREkwbExVUEd4Si1nQzRtTTNuVTFlbHQyeWpFQ0Y0ZVpObndZamVGWDVoZ3pvbWt6dnRxaXh4U1B6VUI2bzNyWlRHVkZybUZFTndIMUpVeXo2bEdLdmhObFR1cXM1R1BIaXViNmFfak54dXQ0?oc=5",
+          "published_at": "2026-11-21T09:48:44+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGRCX3pqcWN2M29STmJqeWFEdHJYYTktOFNzRF9oR3RXNTVMVnF2cjZSUTNlWmRxb2stcjh6MU5PSVFlWnRnX0VhT3pUcDdsRkhZV2hwUTVfeWwxUV9ELXozdzBxZ0t4V1c0S3FaOXJrQm92TEF5Ql9KZVBodFFXcUNROXBzM3FZcTBuejAyRWdXcWZPeVU3NkNhcVB2Z2VBcGFyUNIBU0FVX3lxTE9XRGlaWjVOWDAtdnk1cFNfeUVTcDhVblp1NWZueWFBX0ExZW1fTkpTY3hTeEJQd3NBbWVUdDNEVi1jbzhPVFRyUXFwMkp1UWJkSXQw?oc=5",
+          "published_at": "2026-11-21T09:48:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV21uckdabHQzbG1yUjNkRTJkR2tqaHNMT0IyVzZwM09heldRQTBXS1lucHU1eXlVOWdJdy1ienRvTDZSREkwbExVUEd4Si1nQzRtTTNuVTFlbHQyeWpFQ0Y0ZVpObndZamVGWDVoZ3pvbWt6dnRxaXh4U1B6VUI2bzNyWlRHVkZybUZFTndIMUpVeXo2bEdLdmhObFR1cXM1R1BIaXViNmFfak54dXQ0?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "133a88b37ef1af3b1f2e79de",
+      "remembered_at": "2026-11-21T10:29:00.909429+00:00",
+      "event_date": "2026-11-21T09:55:00+00:00",
+      "last_update": "2026-11-21T09:55:00+00:00",
+      "event": "Pakistan steps up efforts to secure LNG supplies for winter",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "efforts",
+        "for",
+        "lng",
+        "pakistan",
+        "samaa",
+        "secure",
+        "steps",
+        "supplies",
+        "winter"
+      ],
+      "source_excerpt": "Pakistan steps up efforts to secure LNG supplies for winter samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWxtRWdtU011TjZYR2E4M1VGaTVLdG5Gc0ZyVW1OVTlYaE12aDA0WFp6MG52Y1hfWGZJaDktMHNuZUlHYWVuN3g3by1wREpzZGpIbVk1cy1VbTdaX2tYLV9CVFRNYVBVWWx4QnZ5Tk9nckVPSGVPbmVKS3JvSTRrTEpNbktwNHhxQjVFYVhhVE1TQ1pSY0E?oc=5",
+          "published_at": "2026-11-21T09:55:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWxtRWdtU011TjZYR2E4M1VGaTVLdG5Gc0ZyVW1OVTlYaE12aDA0WFp6MG52Y1hfWGZJaDktMHNuZUlHYWVuN3g3by1wREpzZGpIbVk1cy1VbTdaX2tYLV9CVFRNYVBVWWx4QnZ5Tk9nckVPSGVPbmVKS3JvSTRrTEpNbktwNHhxQjVFYVhhVE1TQ1pSY0E?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "51e16474b34f8902e328539d",
+      "remembered_at": "2026-11-21T10:29:00.909429+00:00",
+      "event_date": "2026-11-21T09:51:24+00:00",
+      "last_update": "2026-11-21T09:51:24+00:00",
+      "event": "Maryam Nawaz Takes a Firm Stand Against Favouritism! CM Punjab Briefing | Breaking News | Dunya News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "breaking",
+        "briefing",
+        "dunya",
+        "favouritism",
+        "firm",
+        "maryam",
+        "nawaz",
+        "news",
+        "punjab",
+        "stand",
+        "takes"
+      ],
+      "source_excerpt": "Maryam Nawaz Takes a Firm Stand Against Favouritism! CM Punjab Briefing | Breaking News | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcVdTcDZMcDc1dm1QR1hla1liaHF2U3p4aTZNRl9IM3psZUJLbkZuNkptVndianVackhwNmsyTHlqY0lITGpjX0dSVE0tRGVOM3Z0NU0xVFlJNXVJM2Z1X256bUV1UzhQU1JYMEpEOWNkcldJVWJwN042TUVrOUhNbEpXdnd4c0x1UmpSeHV3NjBHS2JjaWZXUC00MzNlLVB4Z2ZQUFA0MEcxZ2cxdDN2bkRkWTF3dDJQdUIzS2tKSExYQV9RaUotLVpSb09SQTJ6a2lITE9nYlpBTmNqaUpoTHNteWVLZWUyNnc?oc=5",
+          "published_at": "2026-11-21T09:51:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcVdTcDZMcDc1dm1QR1hla1liaHF2U3p4aTZNRl9IM3psZUJLbkZuNkptVndianVackhwNmsyTHlqY0lITGpjX0dSVE0tRGVOM3Z0NU0xVFlJNXVJM2Z1X256bUV1UzhQU1JYMEpEOWNkcldJVWJwN042TUVrOUhNbEpXdnd4c0x1UmpSeHV3NjBHS2JjaWZXUC00MzNlLVB4Z2ZQUFA0MEcxZ2cxdDN2bkRkWTF3dDJQdUIzS2tKSExYQV9RaUotLVpSb09SQTJ6a2lITE9nYlpBTmNqaUpoTHNteWVLZWUyNnc?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f61274d0259ae662b714b5d1",
+      "remembered_at": "2026-11-21T10:29:00.909429+00:00",
+      "event_date": "2026-11-21T09:42:08+00:00",
+      "last_update": "2026-11-21T09:42:08+00:00",
+      "event": "Govt rejects PTI demand on electoral reforms committee",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "committee",
+        "demand",
+        "electoral",
+        "govt",
+        "pti",
+        "reforms",
+        "rejects",
+        "samaa"
+      ],
+      "source_excerpt": "Govt rejects PTI demand on electoral reforms committee samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3A3VllPSmplc2dmbjBXaV9jRFlRcEVEb1V2UE9VSlJEQnh6b1JrYXhCXzlZMTlIcHgzR0d2WnpocXhQZ3FZcEU4WUtsMnZxbGlEYldTcHRldElqUEVocW9uNnhXSWFhN3dZWi1NaER0dVF3Zk1YODRkZjVRaFdDenJNUzlETUpYRVVjLUE5SGI4MWlIX0xENmxKdUtnU0d5Smp2WEYyQQ?oc=5",
+          "published_at": "2026-11-21T09:42:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3A3VllPSmplc2dmbjBXaV9jRFlRcEVEb1V2UE9VSlJEQnh6b1JrYXhCXzlZMTlIcHgzR0d2WnpocXhQZ3FZcEU4WUtsMnZxbGlEYldTcHRldElqUEVocW9uNnhXSWFhN3dZWi1NaER0dVF3Zk1YODRkZjVRaFdDenJNUzlETUpYRVVjLUE5SGI4MWlIX0xENmxKdUtnU0d5Smp2WEYyQQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T09:36:33.737172+00:00"
+  "updated_at": "2026-11-21T10:29:00.909429+00:00"
 }
