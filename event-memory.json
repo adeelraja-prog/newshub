@@ -104443,7 +104443,291 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef5e088911ffa9c149fcd71e",
+      "remembered_at": "2026-11-21T18:21:34.032190+00:00",
+      "event_date": "2026-11-21T18:18:11+00:00",
+      "last_update": "2026-11-21T18:18:11+00:00",
+      "event": "Could Brexit be reversed?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "andy",
+        "are",
+        "brexit",
+        "burnham",
+        "but",
+        "chances",
+        "could",
+        "country",
+        "his",
+        "hopes",
+        "lifetime",
+        "minister",
+        "prime",
+        "rejoin",
+        "reversed",
+        "the",
+        "what",
+        "will"
+      ],
+      "source_excerpt": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+          "published_at": "2026-11-21T18:18:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1d8ba9cd9c638d28a2edc944",
+      "remembered_at": "2026-11-21T18:21:34.032190+00:00",
+      "event_date": "2026-11-21T18:05:51+00:00",
+      "last_update": "2026-11-21T18:08:56+00:00",
+      "event": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreement",
+        "deal",
+        "developing",
+        "donald",
+        "from",
+        "getting",
+        "iran",
+        "nuclear",
+        "permanent",
+        "president",
+        "prevent",
+        "says",
+        "stop",
+        "trump",
+        "wants",
+        "weapons"
+      ],
+      "source_excerpt": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+          "published_at": "2026-11-21T18:05:51+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnhUUThYUUwyVEJWbDJ6UFZlMVJPUmpLTmNvMmNHRWV5TUZNZ2Nyai1Ycy1xWWVzbmlQUjhlVHZSRl9nRGZNZzhmWjNUN09IVUFyX2cwcWNTVHFzX1lscnNYak1BUVpKTE4teEdYWldJR1otRUUtQnVXUmlQMkpkMExJMEYyRnVvLXV6WnhpUkhTUUJSeFdYY3M1VkvSAaIBQVVfeXFMT2VqUEdaM1RGcnRaQnBFNGJ1aDVIdzB6ZEFFNnM4OUQ3YlYtTFEtWkV4Y1ptWkxNTUlEMjg5RFdtODduQWtjSkJqcWd2cE13OGZISVdQOGRxMXR0WFE2TlJiV2tCbkpGeEpjMTVEQkRyc3g2cEx3UkhSaUtXa2YxSUNCMl9rZXhzbGp3cHBKb3R1MVlaYjRUOV9TZVN2MWdGU2FB?oc=5",
+          "published_at": "2026-11-21T18:08:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "872f5242eb224fc0b71a2170",
+      "remembered_at": "2026-11-21T18:21:34.032190+00:00",
+      "event_date": "2026-11-21T17:57:27+00:00",
+      "last_update": "2026-11-21T17:57:27+00:00",
+      "event": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acton",
+        "drag",
+        "from",
+        "man",
+        "over",
+        "pallet",
+        "police",
+        "protest",
+        "shirt",
+        "sign"
+      ],
+      "source_excerpt": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+          "published_at": "2026-11-21T17:57:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0466d8b0161c57f0bb553e28",
+      "remembered_at": "2026-11-21T18:21:34.032190+00:00",
+      "event_date": "2026-11-21T17:54:19+00:00",
+      "last_update": "2026-11-21T17:54:19+00:00",
+      "event": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aid",
+        "air",
+        "attack",
+        "carrying",
+        "food",
+        "gaza",
+        "hits",
+        "israeli",
+        "killed",
+        "killing",
+        "palestinians",
+        "strike",
+        "three",
+        "vehicle",
+        "were"
+      ],
+      "source_excerpt": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+          "published_at": "2026-11-21T17:54:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f31dec1a58cb23e535a80348",
+      "remembered_at": "2026-11-21T18:21:34.032190+00:00",
+      "event_date": "2026-11-21T16:45:07+00:00",
+      "last_update": "2026-11-21T16:45:07+00:00",
+      "event": "Basit Ali questions Shadab's omission from PCB ODI central contract",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ali",
+        "basit",
+        "central",
+        "contract",
+        "from",
+        "odi",
+        "omission",
+        "pcb",
+        "questions",
+        "samaa",
+        "shadab"
+      ],
+      "source_excerpt": "Basit Ali questions Shadab's omission from PCB ODI central contract samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFA5emV5ei1tOTI3dFZ5QTN6SjdWb3dnNkkzZWRlbHhGUk1xeUdTVGJWUHZJRWlLS1dzZXkwTWxZT3NhQXhGLXhvWkZ1aDk0TXhtTjBlOElLTlNEYUVWbUN1TnJ0T1VJQnlQUkxkbk1WZDVoQ05TX1pqQ3dyaEpiVWtXZmd2ZVA2dmdHX0pYS3N2cjlPNThXY09yQnJqMDky?oc=5",
+          "published_at": "2026-11-21T16:45:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFA5emV5ei1tOTI3dFZ5QTN6SjdWb3dnNkkzZWRlbHhGUk1xeUdTVGJWUHZJRWlLS1dzZXkwTWxZT3NhQXhGLXhvWkZ1aDk0TXhtTjBlOElLTlNEYUVWbUN1TnJ0T1VJQnlQUkxkbk1WZDVoQ05TX1pqQ3dyaEpiVWtXZmd2ZVA2dmdHX0pYS3N2cjlPNThXY09yQnJqMDky?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e2fa2cbad368bde4678f8b48",
+      "remembered_at": "2026-11-21T18:21:34.032190+00:00",
+      "event_date": "2026-11-21T16:36:13+00:00",
+      "last_update": "2026-11-21T16:36:13+00:00",
+      "event": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2028",
+        "agree",
+        "aiming",
+        "express",
+        "killer",
+        "regulate",
+        "robots",
+        "states",
+        "talks",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "States agree to UN talks aiming to regulate 'killer robots' by 2028 The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakJZdUZhSEpWWFZRMHNiQ2lEcHNRXzlrZ2xyVTdPNU83b2swSnA1YVI5MEwwWkdmZVlkUmJmZkxKa0Y1eDFvUWNQSTJxbjdwcGdpYnNiTnhmenEtRnNNYUVTMDhnWEpCZ2ZOTU9XZDlIbFhYUjFLTHdzOW8wTlRuT28wTWxWclpjdXFGSFBJRnF1VHJDNUNRYnFSRF9udF9yNFllTNIBrAFBVV95cUxPWlNYQ3I5Ukx6NEFHc1ZYUllFVU9vRW1PVkxsd1BFbGo5Ym9Nb09COXJIdFpJenBzRWtwWGVXVXQ2MThuTkVBUXpadVdTN08wdkVJanh0Q3RUWVd0S3hTVldXVXU4OGpxYkpqVXQ5U0FRZXdRX3M0MVZ6U2YwTWtFXzNwTEFVczRzQ1pISkNSYUtmUWRzU2N4M0tybUcxbGVZT016UDBfY0lrT2x2?oc=5",
+          "published_at": "2026-11-21T16:36:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakJZdUZhSEpWWFZRMHNiQ2lEcHNRXzlrZ2xyVTdPNU83b2swSnA1YVI5MEwwWkdmZVlkUmJmZkxKa0Y1eDFvUWNQSTJxbjdwcGdpYnNiTnhmenEtRnNNYUVTMDhnWEpCZ2ZOTU9XZDlIbFhYUjFLTHdzOW8wTlRuT28wTWxWclpjdXFGSFBJRnF1VHJDNUNRYnFSRF9udF9yNFllTNIBrAFBVV95cUxPWlNYQ3I5Ukx6NEFHc1ZYUllFVU9vRW1PVkxsd1BFbGo5Ym9Nb09COXJIdFpJenBzRWtwWGVXVXQ2MThuTkVBUXpadVdTN08wdkVJanh0Q3RUWVd0S3hTVldXVXU4OGpxYkpqVXQ5U0FRZXdRX3M0MVZ6U2YwTWtFXzNwTEFVczRzQ1pISkNSYUtmUWRzU2N4M0tybUcxbGVZT016UDBfY0lrT2x2?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T17:39:07.731664+00:00"
+  "updated_at": "2026-11-21T18:21:34.032190+00:00"
 }

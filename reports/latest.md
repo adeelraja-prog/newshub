@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 10:39 PM PKT
+# News Hub report - Sat 21 Nov, 11:21 PM PKT
 
 ## Collection
-- New items this run: 34 | items in rolling pool: 634
-- Unique story clusters: 553 (duplicates merged: 81)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 9
-- Items per outlet: Geo News 4, Al Jazeera 4, samaa tv 3, Dawn 3, Engadget 3, Pakistan Today 3, The Express Tribune 2, Dawn Pakistan 2, ARY News 2, TechJuice 2, ARYnews.tv 1, UrduPoint 1
+- New items this run: 22 | items in rolling pool: 620
+- Unique story clusters: 541 (duplicates merged: 79)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 9
+- Items per outlet: Al Jazeera 5, Geo News 3, TechJuice 3, ARY News 2, samaa tv 2, Engadget 2, The Verge 1, Pakistan Today 1, Anadolu Ajansı 1, The New Arab 1, National Council of Resistance of Iran - NCRI 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Security forces kill 15 terrorists in two Mastung operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CCD's school bag inspections in Punjab spark criticism on social media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- French presidential candidate blames media for racist attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India’s opposition stages protests against Meta over account removals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab Workers Welfare Fund launches new WhatsApp helpline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian strike kills two, wounds 60, in Zelenskyy’s hometown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Could Brexit be reversed? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Security forces kill 15 terrorists in two Mastung operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CCD's school bag inspections in Punjab spark criticism on social media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- French presidential candidate blames media for racist attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India’s opposition stages protests against Meta over account removals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab Workers Welfare Fund launches new WhatsApp helpline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian strike kills two, wounds 60, in Zelenskyy’s hometown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Could Brexit be reversed? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Security forces kill 15 terrorists in two Mastung operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CCD's school bag inspections in Punjab spark criticism on social media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- French presidential candidate blames media for racist attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India’s opposition stages protests against Meta over account removals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab Workers Welfare Fund launches new WhatsApp helpline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian strike kills two, wounds 60, in Zelenskyy’s hometown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Could Brexit be reversed? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,114 +38,111 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Indian opposition issues ultimatum to Meta over account removals  [NORMAL]
-- Poster: فیس بک اکاؤنٹس کی معطلی پر بھارتی اپوزیشن کا الٹی میٹم / Indian opposition warns Meta over account bans | category us_politics
-- Alternative headline: Meta faces seven-day deadline from Indian opposition over bans
+### Could Brexit be reversed in the future?  [NORMAL]
+- Poster: کیا برطانیہ مستقبل میں دوبارہ یورپی یونین میں شامل ہو سکتا ہے؟ / Could Brexit be reversed in the future? | category politics
+- Alternative headline: UK Prime Minister hopes country will rejoin EU
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Meta, India opposition, account removals, Indian Youth Congress, ultimatum | hashtags: #Meta #India #YouthCongress #SocialMedia
-- Scheduled: Sat 21 Nov, 10:39 PM PKT
+- Keywords: Brexit, UK politics, Andy Burnham, European Union, rejoin EU | hashtags: #Brexit #UK #EU #Politics
+- Scheduled: Sat 21 Nov, 11:21 PM PKT
 - Caption:
 ```
-Indian opposition parties have issued a strict seven-day ultimatum to technology giant Meta, demanding the immediate restoration of removed accounts.
+UK Prime Minister Andy Burnham hopes his country will rejoin the European Union in his lifetime, sparking debate on the future of Brexit.
 
-India’s opposition has launched protests against tech giant Meta over the removal of accounts. The Indian Youth Congress issued a seven-day ultimatum urging the company to lift all restrictions.
+UK Prime Minister Andy Burnham hopes his country will rejoin the European Union in his lifetime. However, questions remain about the realistic chances and political roadmap for reversing Brexit.
 
-بھارت میں اپوزیشن جماعتوں نے سوشل میڈیا پلیٹ فارم میٹا کی جانب سے اکاؤنٹس ہٹانے کے خلاف احتجاج شروع کر دیا ہے۔ انڈین یوتھ کانگریس نے تمام پابندیاں ہٹانے کے لیے سات روزہ الٹی میٹم جاری کیا ہے۔
+برطانوی وزیر اعظم اینڈی برنہم کو امید ہے کہ ان کا ملک ان کی زندگی میں دوبارہ یورپی یونین میں شامل ہو جائے گا۔ تاہم، بریکسٹ کو واپس لینے کے امکانات پر سوالات موجود ہیں۔
 
-First reported by Al Jazeera
+According to Al Jazeera
 
-#Meta #India #YouthCongress #SocialMedia
+#Brexit #UK #EU #Politics
 ```
 
-### Security forces eliminate 15 terrorists in Balochistan's Mastung  [NORMAL]
-- Poster: مستونگ میں دو کارروائیاں، 15 دہشت گرد ہلاک / 15 terrorists killed in Mastung operations | category security
-- Alternative headline: Fifteen militants killed across two operations in Mastung
+### Punjab Workers Welfare Fund launches new WhatsApp helpline  [NORMAL]
+- Poster: پنجاب ورکرز ویلفیئر فنڈ نے نئی واٹس ایپ ہیلپ لائن متعارف کرا دی / Punjab Workers Welfare Fund launches new WhatsApp helpline | category other
+- Alternative headline: PWWF introduces new WhatsApp number for worker grants
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxNRV9UZEZsaXd1ZU5IRTdtbWozSS1tV0ZBbDE3LUY2d1VicFRLRzEtcjA3cFY1eE5iYU5aX1F6UWw1aWFVS0xkSDl3YmFkNEV1SE1ia2ZzakZfbTd2REVVZG9jb0Q5TWZaT0ZsSzJxRXBZSW02QmI5dTBQVDZFNXhFdlJPLWlvSXVoUnFPWThwYkk0bXg0dnlF?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxNRV9UZEZsaXd1ZU5IRTdtbWozSS1tV0ZBbDE3LUY2d1VicFRLRzEtcjA3cFY1eE5iYU5aX1F6UWw1aWFVS0xkSDl3YmFkNEV1SE1ia2ZzakZfbTd2REVVZG9jb0Q5TWZaT0ZsSzJxRXBZSW02QmI5dTBQVDZFNXhFdlJPLWlvSXVoUnFPWThwYkk0bXg0dnlF?oc=5
-- Supporting coverage: samaa tv, ARY News, Geo News, Geo News, Dawn Pakistan, Dawn
-- Keywords: Mastung operation, security forces, terrorists killed, Balochistan, militants neutralized | hashtags: #Mastung #Balochistan #SecurityForces #Pakistan
-- Scheduled: Sat 21 Nov, 10:49 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/punjab-workers-welfare-fund-launches-new-whatsapp-helpline | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/punjab-workers-welfare-fund-launches-new-whatsapp-helpline
+- Supporting coverage: ARY News, TechJuice
+- Keywords: Punjab Workers Welfare Fund, WhatsApp helpline, PWWF, grants, Punjab government | hashtags: #PWWF #Punjab #WhatsAppHelpline #Workers
+- Scheduled: Sat 21 Nov, 11:31 PM PKT
 - Caption:
 ```
-Security forces have successfully neutralized 15 terrorists during two separate intelligence-based operations in Balochistan's Mastung district.
+The Punjab Workers Welfare Fund has launched a new WhatsApp helpline to make welfare services more accessible for workers.
 
-Security forces killed 15 terrorists during two separate operations in Balochistan's Mastung district, according to state media and reports from various news outlets.
+The Punjab Workers Welfare Fund (PWWF) has launched a new WhatsApp helpline at 0302-3911149 to help workers obtain information about talent scholarships, marriage grants, and death grants. The previous number is no longer operational.
 
-بلوچستان کے ضلع مستونگ میں سکیورٹی فورسز نے دو مختلف کارروائیوں کے دوران 15 دہشت گردوں کو ہلاک کر دیا ہے۔
+پنجاب ورکرز ویلفیئر فنڈ نے مزدوروں کو اسکالرشپس اور گرانٹس کی معلومات فراہم کرنے کے لیے نیا واٹس ایپ نمبر 0302-3911149 جاری کر دیا ہے۔ پرانا نمبر اب فعال نہیں ہے۔
 
-First reported by Samaa TV; also reported by ARY News, Geo News, Dawn Pakistan, and The Express Tribune
+First reported by ARY News; also reported by TechJuice
 
-#Mastung #Balochistan #SecurityForces #Pakistan
+#PWWF #Punjab #WhatsAppHelpline #Workers
 ```
 
-### Punjab CCD school bag checks spark social media debate  [NORMAL]
-- Poster: سکول کے بچوں کے بستوں کی تلاشی پر بحث چھڑ گئی / CCD school bag checks spark debate in Punjab | category crime
-- Alternative headline: Law enforcement bag inspections in Punjab draw mixed reactions
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046138/ccds-school-bag-inspections-in-punjab-spark-criticism-on-social-media | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046138/ccds-school-bag-inspections-in-punjab-spark-criticism-on-social-media
-- Supporting coverage: Dawn Pakistan, Dawn
-- Keywords: CCD school bag checks, Punjab education, vapes and cigarettes, social media criticism, Crime Control Department | hashtags: #Punjab #CCD #Lahore #StudentsRights
-- Scheduled: Sat 21 Nov, 10:59 PM PKT
-- Caption:
-```
-Punjab's Crime Control Department has initiated school bag inspections outside educational institutions, triggering widespread debate over student rights and legality.
-
-Punjab’s Crime Control Department has launched a campaign checking students' school bags for cigarettes and vapes outside institutions. While some support the anti-drug measure, others criticize the legality and involvement of law enforcement.
-
-پنجاب کے کرائم کنٹرول ڈیپارٹمنٹ نے تعلیمی اداروں کے باہر طلباء کے بستوں کی تلاشی کی مہم شروع کی ہے، جس پر سوشل میڈیا پر بحث چھڑ گئی ہے کہ آیا قانون نافذ کرنے والے اداروں کا یہ اقدام درست ہے یا نہیں۔
-
-First reported by Dawn Pakistan
-
-#Punjab #CCD #Lahore #StudentsRights
-```
-
-### French presidential candidate blames media for racist attack  [NORMAL]
-- Poster: فرانسیسی صدارتی امیدوار کا حملے کا الزام میڈیا پر / French candidate blames media for racist attack | category world
-- Alternative headline: Media blamed by French presidential hopeful following racist assault
+### Chelsea suffer shock 4-1 home defeat against Leeds United  [NORMAL]
+- Poster: لیڈز یونائٹڈ نے چیلسی کو ہوم میچ میں 4-1 سے شکست دے دی / Chelsea suffer shock 4-1 home defeat against Leeds United | category sports
+- Alternative headline: Leeds climb above Chelsea in Premier League after 4-1 win
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: French presidential candidate, racist attack, media blame, France politics | hashtags: #France #Media #Politics
-- Scheduled: Sat 21 Nov, 11:09 PM PKT
+- Keywords: Chelsea vs Leeds, Premier League, Stamford Bridge, football, Leeds United | hashtags: #Chelsea #LeedsUnited #PremierLeague #Football
+- Scheduled: Sat 21 Nov, 11:41 PM PKT
 - Caption:
 ```
-A French presidential candidate has publicly blamed the media following a racist attack.
+Leeds United came from a goal down at Stamford Bridge to shock Chelsea and climb to sixth in the Premier League.
 
-A French presidential candidate has placed blame on the media following a racist attack, according to reports.
+Leeds United secured a stunning 4-1 victory against Chelsea at Stamford Bridge after coming from a goal down. The win allowed Leeds to climb above their hosts into sixth place in the Premier League standings.
 
-فرانس میں ایک صدارتی امیدوار نے نسلی حملے کے بعد میڈیا کو اس کا ذمہ دار ٹھہرایا ہے۔
+لیڈز یونائٹڈ نے اسٹامفورڈ برج میں شاندار کم بیک کرتے ہوئے چیلسی کو 4-1 سے شکست دے دی۔ اس فتح کے بعد لیڈز پریمیئر لیگ میں چھٹے نمبر پر پہنچ گئی ہے۔
 
-First reported by Al Jazeera
+According to Al Jazeera
 
-#France #Media #Politics
+#Chelsea #LeedsUnited #PremierLeague #Football
 ```
 
-- Indian outlets blocked this run: 0 items
+### Russian strike kills two and wounds 60 in Kryvyi Rih  [NORMAL]
+- Poster: کریوی ریہ میں روسی حملے کے نتیجے میں 2 افراد ہلاک اور 60 زخمی / Russian strike kills two and wounds 60 in Kryvyi Rih | category war
+- Alternative headline: Deadly Russian attack hits Zelenskyy's hometown of Kryvyi Rih
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Kryvyi Rih, Russia Ukraine war, Zelenskyy, missile strike, Poland | hashtags: #UkraineWar #Russia #KryvyiRih #BreakingNews
+- Scheduled: Sat 21 Nov, 11:51 PM PKT
+- Caption:
+```
+A Russian missile strike on President Zelenskyy's hometown of Kryvyi Rih has killed two people and wounded 60 others.
+
+A Russian strike on Kryvyi Rih, the hometown of Ukrainian President Volodymyr Zelenskyy, has left two people dead and 60 others wounded. The attack coincided with missiles landing in NATO member Poland amid uncertain peace efforts.
+
+یوکرینی صدر ولادیمیر زیلنسکی کے آبائی شہر کریوی ریہ پر روسی حملے میں 2 افراد ہلاک اور 60 زخمی ہو گئے۔ اس حملے کے دوران نیٹو رکن پولینڈ میں بھی میزائل گرنے کی اطلاعات ہیں۔
+
+According to Al Jazeera
+
+#UkraineWar #Russia #KryvyiRih #BreakingNews
+```
+
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 24 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
+- News posts published today: 25 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
-- [needs_review] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
 - [needs_review] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
 - [needs_review] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
 - [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
-- [published] normal | Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan | Wed 18 Nov, 10:57 PM PKT
-- [published] normal | Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim | Wed 18 Nov, 11:07 PM PKT
 - [needs_review] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
 - [needs_review] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
 - [published] normal | Kuwait and Bahrain face new Iran attacks following US strike | Thu 19 Nov, 01:51 AM PKT
@@ -277,7 +274,7 @@ First reported by Al Jazeera
 - [needs_review] normal | Ringleader pleads guilty to massive $100 million US jewellery heist | Fri 20 Nov, 08:51 PM PKT
 - [needs_review] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
 - [needs_review] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
-- [queued] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
+- [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
 - [published] normal | Top US Democrat Warns Trump Administration Against Destroying Official | Fri 20 Nov, 11:42 PM PKT
 - [published] normal | Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2 | Fri 20 Nov, 11:52 PM PKT
 - [published] normal | EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit | Sat 21 Nov, 12:02 AM PKT
@@ -339,8 +336,8 @@ First reported by Al Jazeera
 - [needs_review] normal | Govt rejects PTI demand on electoral reforms committee | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
 - [published] normal | Rizwan, Masood, and Ayub dropped as PCB unveils central contracts | Sat 21 Nov, 04:42 PM PKT
-- [queued] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
-- [queued] normal | Zelensky calls Crimean Bridge strikes a fair response to Russian attac | Sat 21 Nov, 07:22 PM PKT
+- [needs_review] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
+- [published] normal | Zelensky calls Crimean Bridge strikes a fair response to Russian attac | Sat 21 Nov, 07:22 PM PKT
 - [queued] normal | Pakistan Cricket Board announces new central contracts list for 38 pla | Sat 21 Nov, 07:32 PM PKT
 - [queued] normal | Princess of Wales discusses cancer journey in new documentary Heal | Sat 21 Nov, 07:42 PM PKT
 - [queued] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
@@ -360,14 +357,21 @@ First reported by Al Jazeera
 - [queued] normal | Security forces eliminate 15 terrorists in Balochistan's Mastung | Sat 21 Nov, 10:49 PM PKT
 - [queued] normal | Punjab CCD school bag checks spark social media debate | Sat 21 Nov, 10:59 PM PKT
 - [queued] normal | French presidential candidate blames media for racist attack | Sat 21 Nov, 11:09 PM PKT
+- [queued] normal | Could Brexit be reversed in the future? | Sat 21 Nov, 11:21 PM PKT
+- [queued] normal | Punjab Workers Welfare Fund launches new WhatsApp helpline | Sat 21 Nov, 11:31 PM PKT
+- [queued] normal | Chelsea suffer shock 4-1 home defeat against Leeds United | Sat 21 Nov, 11:41 PM PKT
+- [queued] normal | Russian strike kills two and wounds 60 in Kryvyi Rih | Sat 21 Nov, 11:51 PM PKT
 
 ## Publishing this run
-- Published 'Rizwan, Masood, and Ayub dropped as PCB unveils central contracts'.
+- Published 'Zelensky calls Crimean Bridge strikes a fair response to Russian attacks'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4962 | output tokens: 1741
+- Calls: 3 | prompt tokens: 4170 | output tokens: 2234
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
