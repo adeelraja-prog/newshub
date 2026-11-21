@@ -96209,7 +96209,262 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8b1582aa18634d0eda924cac",
+      "remembered_at": "2026-11-21T01:25:46.913302+00:00",
+      "event_date": "2026-11-21T00:55:01+00:00",
+      "last_update": "2026-11-21T00:55:01+00:00",
+      "event": "Can Mauricio Pochettino save Man United from Premier League relegation?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "can",
+        "charge",
+        "first",
+        "for",
+        "from",
+        "league",
+        "liverpool",
+        "man",
+        "manchester",
+        "mauricio",
+        "pochettino",
+        "premier",
+        "relegation",
+        "rivals",
+        "save",
+        "sunday",
+        "take",
+        "the",
+        "time",
+        "trip",
+        "united",
+        "will"
+      ],
+      "source_excerpt": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+          "published_at": "2026-11-21T00:55:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d10504081349afe61b1a8b43",
+      "remembered_at": "2026-11-21T01:25:46.913302+00:00",
+      "event_date": "2026-11-21T00:00:06+00:00",
+      "last_update": "2026-11-21T00:00:06+00:00",
+      "event": "Iran war live: Saudi-led coalition downs Houthi missiles",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alerts",
+        "arabia",
+        "coalition",
+        "downs",
+        "emergency",
+        "flurry",
+        "for",
+        "houthi",
+        "intercepted",
+        "iran",
+        "issues",
+        "led",
+        "live",
+        "missiles",
+        "riyadh",
+        "saudi",
+        "says",
+        "the",
+        "three",
+        "war"
+      ],
+      "source_excerpt": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+          "published_at": "2026-11-21T00:00:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ddcbb2d055f252e007cbead6",
+      "remembered_at": "2026-11-21T01:25:46.913302+00:00",
+      "event_date": "2026-11-21T01:00:00+00:00",
+      "last_update": "2026-11-21T01:00:00+00:00",
+      "event": "Tech Now",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alasdair",
+        "america",
+        "cup",
+        "exploring",
+        "how",
+        "keane",
+        "naples",
+        "now",
+        "race",
+        "tech",
+        "the",
+        "transforming"
+      ],
+      "source_excerpt": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T01:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "142030a31d7ecd5999f3b7f7",
+      "remembered_at": "2026-11-21T01:25:46.913302+00:00",
+      "event_date": "2026-11-21T00:34:51+00:00",
+      "last_update": "2026-11-21T00:34:51+00:00",
+      "event": "ANC fights to keep control of South Africa's key cities after election setback",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "after",
+        "anc",
+        "appears",
+        "business",
+        "cities",
+        "control",
+        "deal",
+        "election",
+        "fights",
+        "its",
+        "keep",
+        "key",
+        "level",
+        "local",
+        "national",
+        "power",
+        "pro",
+        "reluctant",
+        "replicate",
+        "setback",
+        "sharing",
+        "south",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T00:34:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a5d6e9fd8574a8163a584283",
+      "remembered_at": "2026-11-21T01:25:46.913302+00:00",
+      "event_date": "2026-11-21T01:18:45+00:00",
+      "last_update": "2026-11-21T01:18:45+00:00",
+      "event": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "denmark",
+        "diplomat",
+        "expels",
+        "jazeera",
+        "kill",
+        "over",
+        "plot",
+        "rapper",
+        "russian",
+        "ukrainian"
+      ],
+      "source_excerpt": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTm5jdWw5MVdVbjdpWnZ2b0cyNnlpdnNqU0owNThlVDY0S1hSbkpOMGpZdm5TVU5QZ2lpSndBQnA2Q050RjA4M3VUYU02YVduem1ZUDI0NUlVeHE4OTVQSXVfRHZPZThocERscE1IUlpCWS1TbEJoaXk0NDN5RkQxQVRfLWF0Y2d6U1ZUTGRZWVZkX0k0dnd0aVZ0OXRxRGFJS3lkcmJlTHBUZ1VSVlBFYldac0VVckXSAbwBQVVfeXFMUGpWZzN4UHkyVDNNOVAtS0F4N1phV2ZzOWZxRXFnTWRKLXlKYUJURlJUQS1xanYzTEpBLWQ1TDNVaVBmLTFxZ0cya25VWER6SVhQX29RZ2tzYXNlV2VEYWV6RGdEVkFnVW56eS1JSkQ4VUMtUWx4M2lySTItQTFseTZMMFNZLUdvZy1COWh4d1M4dUp4Wk5yZWhpRVZVZkU2TnRlVFBRQ3p1MVNNdmdFeVBSX0o5ZUc2QU14ZVM?oc=5",
+          "published_at": "2026-11-21T01:18:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTm5jdWw5MVdVbjdpWnZ2b0cyNnlpdnNqU0owNThlVDY0S1hSbkpOMGpZdm5TVU5QZ2lpSndBQnA2Q050RjA4M3VUYU02YVduem1ZUDI0NUlVeHE4OTVQSXVfRHZPZThocERscE1IUlpCWS1TbEJoaXk0NDN5RkQxQVRfLWF0Y2d6U1ZUTGRZWVZkX0k0dnd0aVZ0OXRxRGFJS3lkcmJlTHBUZ1VSVlBFYldac0VVckXSAbwBQVVfeXFMUGpWZzN4UHkyVDNNOVAtS0F4N1phV2ZzOWZxRXFnTWRKLXlKYUJURlJUQS1xanYzTEpBLWQ1TDNVaVBmLTFxZ0cya25VWER6SVhQX29RZ2tzYXNlV2VEYWV6RGdEVkFnVW56eS1JSkQ4VUMtUWx4M2lySTItQTFseTZMMFNZLUdvZy1COWh4d1M4dUp4Wk5yZWhpRVZVZkU2TnRlVFBRQ3p1MVNNdmdFeVBSX0o5ZUc2QU14ZVM?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T00:08:57.007731+00:00"
+  "updated_at": "2026-11-21T01:25:46.913302+00:00"
 }

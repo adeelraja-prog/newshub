@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 05:08 AM PKT
+# News Hub report - Sat 21 Nov, 06:25 AM PKT
 
 ## Collection
-- New items this run: 77 | items in rolling pool: 447
-- Unique story clusters: 392 (duplicates merged: 55)
-- Clusters dropped as already published/queued: 34; unchanged since last analysis: 1
-- Items per outlet: Dawn 57, BBC 3, Al Jazeera 3, Engadget 2, BBC Health 2, The Express Tribune 1, Geo News 1, Wired 1, BBC Technology 1, BBC World 1, Pakistan Observer 1, Reuters 1
+- New items this run: 18 | items in rolling pool: 395
+- Unique story clusters: 352 (duplicates merged: 43)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 1
+- Items per outlet: Al Jazeera 3, Geo News 2, BBC World 2, Anadolu Ajansı 2, Jang Urdu 1, Pakistan Observer 1, GSMArena 1, BBC Technology 1, TRT World 1, The Independent 1, Mezha.net 1, Around Prague 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Pakistan crowned Men’s Blind Cricket Asia Cup champions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Anthropic researcher says Claude solved math’s greatest riddle | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraqi forces enter pro-Iran militia’s stronghold | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US lawmakers push for tougher AI chip rules amid China export crackdown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- In a year of AI solving maths problems, Anthropic may have just solved the biggest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- A new Nepal, an old neighbour - Balendra Shah's India test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Overturned boat carrying mourners to funeral kills at least four in Nigeria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can AI really help spot Black Friday deals? We put it to the test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sales of baby sleeping bag halted by Next after new mum raises alarm | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NI doctors' strike due to end, with separate walkout planned for Monday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan crowned Men’s Blind Cricket Asia Cup champions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Anthropic researcher says Claude solved math’s greatest riddle | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraqi forces enter pro-Iran militia’s stronghold | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US lawmakers push for tougher AI chip rules amid China export crackdown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- In a year of AI solving maths problems, Anthropic may have just solved the biggest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- A new Nepal, an old neighbour - Balendra Shah's India test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Overturned boat carrying mourners to funeral kills at least four in Nigeria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can AI really help spot Black Friday deals? We put it to the test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sales of baby sleeping bag halted by Next after new mum raises alarm | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NI doctors' strike due to end, with separate walkout planned for Monday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan crowned Men’s Blind Cricket Asia Cup champions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Anthropic researcher says Claude solved math’s greatest riddle | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraqi forces enter pro-Iran militia’s stronghold | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US lawmakers push for tougher AI chip rules amid China export crackdown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- In a year of AI solving maths problems, Anthropic may have just solved the biggest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- A new Nepal, an old neighbour - Balendra Shah's India test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Overturned boat carrying mourners to funeral kills at least four in Nigeria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can AI really help spot Black Friday deals? We put it to the test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sales of baby sleeping bag halted by Next after new mum raises alarm | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NI doctors' strike due to end, with separate walkout planned for Monday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Rahul Gandhi Backs Strong India-Israel Ties Despite Gaza War  [NORMAL]
-- Poster: علاوہ غزہ جنگ، راہول گندھی کی بھارت اسرائیل مضبوط تعلقات کی حمایت / Rahul Gandhi Backs India-Israel Ties | category politics
-- Alternative headline: Indian Opposition Leader Calls for Maintaining Deep Ties With Israel
+### Saudi Coalition Intercepts Three Houthi Missiles as Riyadh Triggers Emergency Sirens  [NORMAL]
+- Poster: سعودی اتحاد کا ریاض پر تین حوثی میزائل مار گرانے کا دعویٰ / Saudi Coalition Downs Three Missiles Over Riyadh | category war
+- Alternative headline: Emergency Alerts Sound in Riyadh as Saudi Coalition Downs Three Inbound Missiles
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Rahul Gandhi, India Israel ties, Gaza war, New Delhi, opposition leader | hashtags: #RahulGandhi #IndiaIsrael #GazaWar #NewDelhi
-- Scheduled: Sat 21 Nov, 05:08 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Saudi Arabia, Riyadh, Houthi missiles, Saudi coalition, air defence, Yemen war | hashtags: #SaudiArabia #Riyadh #Houthis #MiddleEast
+- Scheduled: Sat 21 Nov, 06:25 AM PKT
 - Caption:
 ```
-Indian opposition leader Rahul Gandhi has stated that New Delhi should maintain strong relations with Israel despite the ongoing Gaza war.
+Emergency alerts sounded across Riyadh as the Saudi-led coalition announced it intercepted three inbound missiles.
 
-India’s opposition leader Rahul Gandhi has stated that New Delhi should continue to maintain strong ties with Israel, despite the ongoing conflict and war in Gaza.
+Saudi Arabia issued emergency alerts across Riyadh after the Saudi-led coalition reported intercepting three inbound missiles launched by Houthi forces, according to an Al Jazeera live report.
 
-بھارت کے اپوزیشن رہنما راہول گندھی کا کہنا ہے کہ نئی دہلی کو غزہ میں جاری جنگ کے باوجود اسرائیل کے ساتھ مضبوط تعلقات برقرار رکھنے چاہئیں۔
+الجزیرہ کے مطابق سعودی عرب کے دارالحکومت ریاض میں ایمرجنسی الرٹ جاری کیے گئے ہیں، جبکہ سعودی قیادت میں قائم عسکری اتحاد نے تین حوثی میزائل مار گرانے کا دعویٰ کیا ہے۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#RahulGandhi #IndiaIsrael #GazaWar #NewDelhi
+#SaudiArabia #Riyadh #Houthis #MiddleEast
 ```
 
-### Pakistan Crowned Men’s Blind Cricket Asia Cup Champions  [NORMAL]
-- Poster: پاکستان بلائنڈ کرکٹ ایشیا کپ کا چیمپئن بن گیا / Pakistan Wins Blind Cricket Asia Cup | category sports
-- Alternative headline: Pakistan Declared Blind T20 Asia Cup Champions
+### Nepal's Prime Minister Targets Trade and Connectivity in Crucial India Talks  [NORMAL]
+- Poster: نیپال اور بھارت کے وزرائے اعظم کے درمیان تجارت اور رابطوں پر اہم بات چیت / Nepal and India Leaders Meet on Trade and Connectivity | category world
+- Alternative headline: Balendra Shah Faces High-Stakes Diplomacy Test in Key Talks With Indian Counterpart
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9RaXAyUTY0QUc0bmdlOFIxSER4c0E3R2FVc1p2R3FCSDlfSks1S0xkRGV4bVZzcjFqUjkySmFCWlBuWmdOelRKUVA5NE1DX01JNmFIdUJlNEhJQjU2OWgtWWVaMGRfWGIwZG5oOXd4al81YW9qeGtYR2dxZHlJSHZBdTZRUXllc0FYbXZFNkVWeTVaMlpqUHpQVVFESzNPTkHSAbwBQVVfeXFMT29xdzFfbzJPX1pHMFh4ZV9NRmgyem12U2FFbHNkTUZXdHdpVFFCaW1ocHc2cFdicHl5dzBCeTNYbjNKdjkzNWNIVlU2ZWRmVEFMblVWa0c1ZzU3UTdyQjh2NmNOb1R6QXBCZ19QQmg3aFpKSzZ5SXQ0U3RQRzBPcTVXM1dOMmVjTy1aTWx1aU9NMXZweDZUTGlIeXVRU0hvOUM4N3h3cXpOS3pSUDBrQ2lJdm1oSTRlU3BfRTQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9RaXAyUTY0QUc0bmdlOFIxSER4c0E3R2FVc1p2R3FCSDlfSks1S0xkRGV4bVZzcjFqUjkySmFCWlBuWmdOelRKUVA5NE1DX01JNmFIdUJlNEhJQjU2OWgtWWVaMGRfWGIwZG5oOXd4al81YW9qeGtYR2dxZHlJSHZBdTZRUXllc0FYbXZFNkVWeTVaMlpqUHpQVVFESzNPTkHSAbwBQVVfeXFMT29xdzFfbzJPX1pHMFh4ZV9NRmgyem12U2FFbHNkTUZXdHdpVFFCaW1ocHc2cFdicHl5dzBCeTNYbjNKdjkzNWNIVlU2ZWRmVEFMblVWa0c1ZzU3UTdyQjh2NmNOb1R6QXBCZ19QQmg3aFpKSzZ5SXQ0U3RQRzBPcTVXM1dOMmVjTy1aTWx1aU9NMXZweDZUTGlIeXVRU0hvOUM4N3h3cXpOS3pSUDBrQ2lJdm1oSTRlU3BfRTQ?oc=5
-- Supporting coverage: The Express Tribune, Dawn
-- Keywords: Blind Cricket Asia Cup, Pakistan cricket, blind cricket, Asia Cup champions, sports | hashtags: #BlindCricket #AsiaCup #PakistanCricket #Sports
-- Scheduled: Sat 21 Nov, 05:18 AM PKT
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC
+- Keywords: Nepal India relations, Balendra Shah, Nepal trade, connectivity, India diplomacy | hashtags: #Nepal #India #Diplomacy #Trade
+- Scheduled: Sat 21 Nov, 06:35 AM PKT
 - Caption:
 ```
-Pakistan has officially been crowned the champions of the Men’s Blind Cricket Asia Cup following impressive tournament performances.
+Trade, connectivity, and regional cooperation will lead discussions when Nepal's prime minister sits down with his Indian counterpart.
 
-Pakistan has been crowned champions of the Men’s Blind Cricket Asia Cup after delivering stellar performances throughout the regional tournament.
+Trade, border connectivity, and regional cooperation top the diplomatic agenda as Nepal's leadership meets with the Indian prime minister, marking an important test for bilateral ties, BBC reported.
 
-پاکستان کو مینز بلائنڈ کرکٹ ایشیا کپ کا چیمپئن تاج پہنا دیا گیا ہے، ٹیم نے ٹورنامنٹ میں شاندار کارکردگی کا مظاہرہ کیا۔
+بی بی سی کی رپورٹ کے مطابق نیپال کے وزیر اعظم کی بھارتی ہم منصب سے ملاقات میں باہمی تجارت، زمینی رابطوں اور علاقائی تعاون کو ایجنڈے میں سرفہرست رکھا گیا ہے۔
 
-First reported by The Express Tribune.
+First reported by BBC
 
-#BlindCricket #AsiaCup #PakistanCricket #Sports
+#Nepal #India #Diplomacy #Trade
 ```
 
-### Anthropic Researcher Claims Claude Chatbot Solved Math’s Greatest Riddle  [NORMAL]
-- Poster: اینتھروپک کے محقق کا دعویٰ، کلائوڈ نے ریاضی کا مشکل ترین مسئلہ حل کر لیا / AI Chatbot Solves Riemann Hypothesis | category tech_ai
-- Alternative headline: Mathematician Says AI Model Solved Riemann Hypothesis
+### Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Least Four  [NORMAL]
+- Poster: نائجیریا: جنازے کے شرکاء کی کشتی الٹنے سے دو بچوں سمیت 4 افراد جاں بحق / Boat Carrying Mourners Overturns in Nigeria, Four Dead | category disaster
+- Alternative headline: Two Children Among Four Dead After Funeral Boat Overturns in Nigeria
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/anthropic-researcher-says-claude-solved-maths-greatest-riddle | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/anthropic-researcher-says-claude-solved-maths-greatest-riddle
-- Supporting coverage: ARY News, Dawn
-- Keywords: Riemann Hypothesis, Anthropic, Claude AI, Levent Alpoge, math riddle, Millennium Prize Problems | hashtags: #ClaudeAI #RiemannHypothesis #ArtificialIntelligence #Mathematics
-- Scheduled: Sat 21 Nov, 05:28 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Nigeria boat accident, boat capsize, Nigeria police, funeral boat, drowning | hashtags: #Nigeria #BoatAccident #RescueOperation
+- Scheduled: Sat 21 Nov, 06:45 AM PKT
 - Caption:
 ```
-An Anthropic researcher claims he used the Claude AI chatbot to prove the Riemann Hypothesis, a 160-year-old math riddle.
+At least four people, including two children, have died after a boat carrying mourners to a funeral overturned in Nigeria.
 
-A mathematician at Anthropic claims to have used the Claude chatbot to prove the Riemann Hypothesis, a 160-year-old math problem. The claim, detailed in a four-page note, awaits independent verification and peer review.
+At least four people, including two children, died after an overturned boat carrying mourners to a funeral capsized in Nigeria. Police confirmed that rescue and search operations remain underway for missing passengers, Al Jazeera reported.
 
-مصنوعی ذہانت کی کمپنی اینتھروپک کے ایک محقق نے دعویٰ کیا ہے کہ اس نے کلائوڈ چیٹ باٹ کی مدد سے ریمن ہائپوتھیسز کا ثبوت پیش کر دیا ہے، جو 160 سال پرانا ریاضی کا معمہ ہے۔
+الجزیرہ کے مطابق نائجیریا میں جنازے میں شرکت کے لیے جانے والے افراد کی کشتی الٹنے کے نتیجے میں دو بچوں سمیت کم از کم 4 افراد جاں بحق ہو گئے ہیں جبکہ لاپتہ افراد کی تلاش جاری ہے۔
 
-First reported by ARY News.
+First reported by Al Jazeera
 
-#ClaudeAI #RiemannHypothesis #ArtificialIntelligence #Mathematics
+#Nigeria #BoatAccident #RescueOperation
 ```
 
-### Iraqi Security Forces Deploy in Pro-Iran Militia Stronghold  [NORMAL]
-- Poster: عراقی فورسز کا ایران حامی ملیشیا کے گڑھ میں داخلہ / Iraqi Forces Enter Militia Stronghold | category security
-- Alternative headline: Iraqi Forces Enter Stronghold of Pro-Iran Militia
+### Can Generative AI Actually Help Shoppers Spot Real Black Friday Deals?  [NORMAL]
+- Poster: کیا آرٹیفیشل انٹیلیجنس بلیک فرائیڈے کی بہترین ڈیلز تلاش کر سکتی ہے؟ / Can AI Tools Really Find the Best Black Friday Deals? | category tech_ai
+- Alternative headline: Tech Giants Push AI Shopping Tools Despite Reluctance Among Black Friday Consumers
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMy00QWpEcGo5ZUIxWjJIendXV3VnNGlWT29vak1kYmRuR1BaYjRXZmtOUXM0SXRJalNlTmNWSmRGTy1WYTFGUDlfV0VzcmVJTDBSOXp0R1RGVkctUzFtZmNUekkwZ2syZTRzNi03T0FHa0U1dmpzb1BJaDVzU3JYenZuRXNraEJ5?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMy00QWpEcGo5ZUIxWjJIendXV3VnNGlWT29vak1kYmRuR1BaYjRXZmtOUXM0SXRJalNlTmNWSmRGTy1WYTFGUDlfV0VzcmVJTDBSOXp0R1RGVkctUzFtZmNUekkwZ2syZTRzNi03T0FHa0U1dmpzb1BJaDVzU3JYenZuRXNraEJ5?oc=5
-- Supporting coverage: NBC News, Dawn
-- Keywords: Iraqi forces, pro-Iran militia, Iraq security, militia stronghold, state control | hashtags: #IraqiForces #Iraq #Security #MiddleEast
-- Scheduled: Sat 21 Nov, 05:38 AM PKT
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology
+- Keywords: Black Friday AI, generative AI, YouGov survey, ChatGPT Shopping, Alexa, e-commerce | hashtags: #BlackFriday #ArtificialIntelligence #ChatGPT #TechNews
+- Scheduled: Sat 21 Nov, 06:55 AM PKT
 - Caption:
 ```
-Iraqi security forces have entered and deployed within a stronghold controlled by a pro-Iran militia.
+While tech firms roll out shopping assistants, consumer surveys show many shoppers remain hesitant to rely on generative AI tools.
 
-Iraqi security forces have entered the stronghold of a pro-Iran militia as part of ongoing efforts to assert state control over strategic areas.
+Generative AI tools like ChatGPT and Alexa for Shopping are being pitched to help consumers navigate Black Friday sales. However, a YouGov survey revealed 36% of shoppers plan to bypass AI tools entirely, BBC Technology reported.
 
-عراقی سیکیورٹی فورسز نے ایران نواز ملیشیا کے گڑھ میں داخل ہو کر پوزیشن سنبھال لی ہے تاکہ ریاستی کنٹرول کو مضبوط کیا جا سکے۔
+بی بی سی ٹیکنالوجی کے مطابق چیٹ جی پی ٹی اور الیکسا جیسے ٹولز بلیک فرائیڈے کی بہترین ڈیلز ڈھونڈنے میں مدد کی پیشکش کر رہے ہیں، تاہم یو گوو سروے کے مطابق 36 فیصد خریدار اب بھی شاپنگ کے لیے اے آئی کے استعمال سے گریزاں ہیں۔
 
-First reported by Dawn.
+First reported by BBC Technology
 
-#IraqiForces #Iraq #Security #MiddleEast
+#BlackFriday #ArtificialIntelligence #ChatGPT #TechNews
 ```
 
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
@@ -157,7 +157,6 @@ First reported by Dawn.
 - [needs_review] normal | Haitians Back El Salvador Troops Amid Rescue Mission | Wed 18 Nov, 05:25 AM PKT
 - [needs_review] normal | Fears Grow That Toxic Lagoon Fire Caused Cancer | Wed 18 Nov, 05:35 AM PKT
 - [needs_review] normal | Thomas Markle Charged Over Child Abuse Material | Wed 18 Nov, 05:45 AM PKT
-- [published] normal | Forensic Experts Claim Jeffrey Epstein Was Strangled | Wed 18 Nov, 05:55 AM PKT
 - [needs_review] normal | Board of Peace warns Gaza ceasefire faces imminent collapse without ac | Wed 18 Nov, 06:51 AM PKT
 - [needs_review] normal | Zimbabwe edge Afghanistan in thriller | Wed 18 Nov, 07:01 AM PKT
 - [needs_review] normal | Why China’s Shenzhen was chosen for APEC summit | Wed 18 Nov, 07:11 AM PKT
@@ -337,8 +336,8 @@ First reported by Dawn.
 - [published] normal | Top US Democrat Warns Trump Administration Against Destroying Official | Fri 20 Nov, 11:42 PM PKT
 - [published] normal | Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2 | Fri 20 Nov, 11:52 PM PKT
 - [published] normal | EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit | Sat 21 Nov, 12:02 AM PKT
-- [queued] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
-- [queued] normal | Belgrade Mayor Faces Three-Year Sentence for Alleged Assault | Sat 21 Nov, 12:46 AM PKT
+- [needs_review] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
+- [published] normal | Belgrade Mayor Faces Three-Year Sentence for Alleged Assault | Sat 21 Nov, 12:46 AM PKT
 - [queued] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
 - [queued] normal | Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Re | Sat 21 Nov, 01:06 AM PKT
 - [queued] normal | New York City Plans to Close Notorious Rikers Island by 2032 | Sat 21 Nov, 01:16 AM PKT
@@ -362,12 +361,14 @@ First reported by Dawn.
 - [queued] normal | Pakistan Crowned Men’s Blind Cricket Asia Cup Champions | Sat 21 Nov, 05:18 AM PKT
 - [queued] normal | Anthropic Researcher Claims Claude Chatbot Solved Math’s Greatest Ridd | Sat 21 Nov, 05:28 AM PKT
 - [queued] normal | Iraqi Security Forces Deploy in Pro-Iran Militia Stronghold | Sat 21 Nov, 05:38 AM PKT
+- [queued] normal | Saudi Coalition Intercepts Three Houthi Missiles as Riyadh Triggers Em | Sat 21 Nov, 06:25 AM PKT
+- [queued] normal | Nepal's Prime Minister Targets Trade and Connectivity in Crucial India | Sat 21 Nov, 06:35 AM PKT
+- [queued] normal | Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Leas | Sat 21 Nov, 06:45 AM PKT
+- [queued] normal | Can Generative AI Actually Help Shoppers Spot Real Black Friday Deals? | Sat 21 Nov, 06:55 AM PKT
 
 ## Publishing this run
-- Published 'EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit'.
+- Published 'Belgrade Mayor Faces Three-Year Sentence for Alleged Assault'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5877 | output tokens: 2089
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 1 | prompt tokens: 4200 | output tokens: 2536
+- Errors: 0
