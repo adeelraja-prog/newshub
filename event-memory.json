@@ -103083,7 +103083,436 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f75ebab1aee3b52d34967472",
+      "remembered_at": "2026-11-21T15:17:24.268062+00:00",
+      "event_date": "2026-11-21T15:01:18+00:00",
+      "last_update": "2026-11-21T15:01:18+00:00",
+      "event": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agency",
+        "british",
+        "caught",
+        "due",
+        "fire",
+        "grip",
+        "hit",
+        "hormuz",
+        "incidents",
+        "iran",
+        "maritime",
+        "mine",
+        "naval",
+        "near",
+        "oman",
+        "reports",
+        "says",
+        "shipping",
+        "strait",
+        "tanker",
+        "tankers",
+        "tightens",
+        "two",
+        "while"
+      ],
+      "source_excerpt": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+          "published_at": "2026-11-21T15:01:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "499e8d945aba28beaaea9763",
+      "remembered_at": "2026-11-21T15:17:24.268062+00:00",
+      "event_date": "2026-11-21T14:35:52+00:00",
+      "last_update": "2026-11-21T14:35:52+00:00",
+      "event": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anderson",
+        "back",
+        "but",
+        "city",
+        "claw",
+        "draw",
+        "earns",
+        "elliot",
+        "end",
+        "fulham",
+        "game",
+        "league",
+        "losing",
+        "man",
+        "manchester",
+        "muniz",
+        "point",
+        "premier",
+        "rodrigo",
+        "set",
+        "streak",
+        "the",
+        "three",
+        "valuable",
+        "volley",
+        "way",
+        "with"
+      ],
+      "source_excerpt": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+          "published_at": "2026-11-21T14:35:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "69ae6c76b643f8ed2ee9620f",
+      "remembered_at": "2026-11-21T15:17:24.268062+00:00",
+      "event_date": "2026-11-21T14:30:00+00:00",
+      "last_update": "2026-11-21T14:30:00+00:00",
+      "event": "Newcastle United vs Arsenal LIVE: Premier League",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "analysis",
+        "and",
+        "arsenal",
+        "build",
+        "clash",
+        "commentary",
+        "follow",
+        "from",
+        "game",
+        "including",
+        "league",
+        "live",
+        "newcastle",
+        "premier",
+        "text",
+        "the",
+        "united",
+        "updates"
+      ],
+      "source_excerpt": "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
+          "published_at": "2026-11-21T14:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3239bdc78a67f9fd5da1c135",
+      "remembered_at": "2026-11-21T15:17:24.268062+00:00",
+      "event_date": "2026-11-21T15:15:29+00:00",
+      "last_update": "2026-11-21T15:15:29+00:00",
+      "event": "Independent review ordered into surgery carried out by NHS Grampian",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "avoidable",
+        "board",
+        "carried",
+        "deaths",
+        "document",
+        "follows",
+        "grampian",
+        "health",
+        "independent",
+        "into",
+        "leaking",
+        "nhs",
+        "ordered",
+        "out",
+        "review",
+        "shows",
+        "surgery",
+        "the",
+        "there",
+        "were",
+        "which",
+        "whistleblower"
+      ],
+      "source_excerpt": "It follows a whistleblower's leaking of a document which shows there were 19 avoidable deaths at the health board.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T15:15:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "df83ae1708ae20786bb90a7b",
+      "remembered_at": "2026-11-21T15:17:24.268062+00:00",
+      "event_date": "2026-11-21T15:05:17+00:00",
+      "last_update": "2026-11-21T15:05:17+00:00",
+      "event": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator's aide says",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreed",
+        "aide",
+        "arynews",
+        "ceo",
+        "former",
+        "hearing",
+        "huang",
+        "nvidia",
+        "public",
+        "says",
+        "senate",
+        "senator",
+        "testify"
+      ],
+      "source_excerpt": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator's aide says ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekYtdGFrclJhLWJrZUZXYU1pNGZDQWtkb1c0MzdwQTB2czFFT01uRWtRVnJqTndUS20tbnpxWEloV3lLTEFYWjdVa2NWZHk1N1NoXzhVT0hCT29ZLVdMaWFfekFUVzFWaGlEejVZSkRxOFhqVXNhcU1kcnowVlpmWkVHcEJSWkJjOTdRcDNmVURpUmJJX2FFZ3RzSk1lYlo3czlGT2t6WGRsZGdC?oc=5",
+          "published_at": "2026-11-21T15:05:17+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/former-nvidia-ceo-huang-agreed-to-testify-at-public-us-senate-hearing-senators-aide-says",
+          "published_at": "2026-11-21T15:05:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekYtdGFrclJhLWJrZUZXYU1pNGZDQWtkb1c0MzdwQTB2czFFT01uRWtRVnJqTndUS20tbnpxWEloV3lLTEFYWjdVa2NWZHk1N1NoXzhVT0hCT29ZLVdMaWFfekFUVzFWaGlEejVZSkRxOFhqVXNhcU1kcnowVlpmWkVHcEJSWkJjOTdRcDNmVURpUmJJX2FFZ3RzSk1lYlo3czlGT2t6WGRsZGdC?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8207f8c704416a46560c98d6",
+      "remembered_at": "2026-11-21T15:17:24.268062+00:00",
+      "event_date": "2026-11-21T15:13:32+00:00",
+      "last_update": "2026-11-21T15:13:32+00:00",
+      "event": "Dar, Bugti agree on coordination for Balochistan’s socio-economic development",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agree",
+        "balochistan",
+        "bugti",
+        "coordination",
+        "dar",
+        "development",
+        "economic",
+        "for",
+        "samaa",
+        "socio"
+      ],
+      "source_excerpt": "Dar, Bugti agree on coordination for Balochistan’s socio-economic development samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0xoQ2toOTJwNDRWUTJGU2NqUDNiSEZBcVdSVlp4VnZ3c3FtUEZBMk96SU9tUS1ocUZkMV81U0FPUFBHUGwtVnJRYzVIUnFkZTZhd3dwZEl4b0YwbGtNRVlKYmhsMVdGbkdDdFc0SGpHMXNxUGRONjZiVGZfcElxa1ZETGZhcjJFemJMVFJzMkZReUdTR2ItRWpENWgxYkxEbENZdlpiSFE3QUhrN2thQm0xZEozUkJ1Y3AzbnNYVQ?oc=5",
+          "published_at": "2026-11-21T15:13:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0xoQ2toOTJwNDRWUTJGU2NqUDNiSEZBcVdSVlp4VnZ3c3FtUEZBMk96SU9tUS1ocUZkMV81U0FPUFBHUGwtVnJRYzVIUnFkZTZhd3dwZEl4b0YwbGtNRVlKYmhsMVdGbkdDdFc0SGpHMXNxUGRONjZiVGZfcElxa1ZETGZhcjJFemJMVFJzMkZReUdTR2ItRWpENWgxYkxEbENZdlpiSFE3QUhrN2thQm0xZEozUkJ1Y3AzbnNYVQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cfd0947e27c30a168c9490d3",
+      "remembered_at": "2026-11-21T15:17:24.268062+00:00",
+      "event_date": "2026-11-21T14:57:00+00:00",
+      "last_update": "2026-11-21T14:57:00+00:00",
+      "event": "Karachi finds a new way to remember its icons",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amjad",
+        "and",
+        "are",
+        "artist",
+        "being",
+        "celebrated",
+        "comedian",
+        "facebook",
+        "file",
+        "finds",
+        "homes",
+        "icons",
+        "identified",
+        "its",
+        "karachi",
+        "legendary",
+        "most",
+        "mujadidamjadsabri",
+        "new",
+        "now",
+        "personalities",
+        "qawwal",
+        "remember",
+        "reporter",
+        "sabri",
+        "sadequain",
+        "sharif",
+        "some",
+        "the",
+        "thelegendumersharif",
+        "umar",
+        "way",
+        "with"
+      ],
+      "source_excerpt": "Legendary artist Sadequain, comedian Umar Sharif and qawwal Amjad Sabri. — Facebook/@Sadequain/@thelegendumersharif/ @mujadidamjadsabri/Reporter/File KARACHI: The homes of some of Karachi’s most celebrated personalities are now being identified with...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692090-karachi-finds-a-new-way-to-remember-its-icons",
+          "published_at": "2026-11-21T14:57:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVk1CNFRqS0lFbjhpS0RzQ1hpa1ozYWpLYzJJZnA0Um1MV0U0ZXFpQU4tRWw0SWZjZGRYSGtmdTVyd1hzWnJrN2Rxczc4YWNOakhBZi1SaEYzZTFWRVd2UUQxWHFadE9jLWg2bEdtbi1Yc3laQjJRQ1NRZ0pOY3ZoYXc0T0w?oc=5",
+          "published_at": "2026-11-21T14:57:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692090-karachi-finds-a-new-way-to-remember-its-icons",
+        "publisher_url": "https://www.geo.tv/latest/692090-karachi-finds-a-new-way-to-remember-its-icons",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "736383e81d972192c4633435",
+      "remembered_at": "2026-11-21T15:17:24.268062+00:00",
+      "event_date": "2026-11-21T14:52:37+00:00",
+      "last_update": "2026-11-21T14:52:37+00:00",
+      "event": "Punjab Workers Welfare Fund launches new WhatsApp helpline",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "fund",
+        "helpline",
+        "launches",
+        "new",
+        "punjab",
+        "welfare",
+        "whatsapp",
+        "workers"
+      ],
+      "source_excerpt": "Punjab Workers Welfare Fund launches new WhatsApp helpline",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-workers-welfare-fund-launches-new-whatsapp-helpline",
+          "published_at": "2026-11-21T14:52:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-workers-welfare-fund-launches-new-whatsapp-helpline",
+        "publisher_url": "https://arynews.tv/punjab-workers-welfare-fund-launches-new-whatsapp-helpline",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T14:22:28.854365+00:00"
+  "updated_at": "2026-11-21T15:17:24.268062+00:00"
 }

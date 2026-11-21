@@ -1,151 +1,149 @@
-# News Hub report - Sat 21 Nov, 07:22 PM PKT
+# News Hub report - Sat 21 Nov, 08:17 PM PKT
 
 ## Collection
-- New items this run: 141 | items in rolling pool: 663
-- Unique story clusters: 563 (duplicates merged: 100)
-- Clusters dropped as already published/queued: 21; unchanged since last analysis: 9
-- Items per outlet: UrduPoint 100, Geo News 10, ARY News 5, Pakistan Today 5, Al Jazeera 3, Engadget 3, samaa tv 2, Dawn 2, TechJuice 2, ARYnews.tv 1, The Verge 1, GSMArena 1
+- New items this run: 41 | items in rolling pool: 632
+- Unique story clusters: 549 (duplicates merged: 83)
+- Clusters dropped as already published/queued: 21; unchanged since last analysis: 10
+- Items per outlet: Geo News 7, Engadget 5, Pakistan Today 5, UrduPoint 4, Al Jazeera 4, ARY News 3, samaa tv 2, TechJuice 2, ARYnews.tv 1, Dawn Pakistan 1, Dawn Latest 1, Jang Urdu 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Pakistan announce new central contracts list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Princess of Wales: Catherine talks about her cancer journey in new documentary Heal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gold prices plunge in Pakistan, fall by Rs3,500 per tola | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Could Iran reverse its stated policy of a civil-only nuclear programme? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan announce new central contracts list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Princess of Wales: Catherine talks about her cancer journey in new documentary Heal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gold prices plunge in Pakistan, fall by Rs3,500 per tola | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Could Iran reverse its stated policy of a civil-only nuclear programme? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan announce new central contracts list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Princess of Wales: Catherine talks about her cancer journey in new documentary Heal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gold prices plunge in Pakistan, fall by Rs3,500 per tola | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Could Iran reverse its stated policy of a civil-only nuclear programme? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 114/120 | empty: 2 | failed: 4 | malformed/partial: 4
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Pakistan Political Crisis Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: AJK Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Khyber Pakhtunkhwa Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: International Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Zelensky calls Crimean Bridge strikes a fair response to Russian attacks  [NORMAL]
-- Poster: کریমیا پل پر حملے روس کی جارحیت کا عادلانہ جواب ہیں، زیلنسکی / Crimean Bridge strikes are fair response, says Zelensky | category war
-- Alternative headline: Zelensky defends Crimean Bridge attacks during meeting with UK minister
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Crimean Bridge, Volodymyr Zelensky, Ukraine, Russia, bridges, war | hashtags: #Zelensky #CrimeanBridge #UkraineWar #Russia #BBC
-- Scheduled: Sat 21 Nov, 07:22 PM PKT
-- Caption:
-```
-Ukrainian President Volodymyr Zelensky has defended recent strikes on the Crimean Bridge, calling them a fair response to Russian attacks.
-
-Ukrainian President Volodymyr Zelensky has defended Kyiv's attacks on the Crimean Bridge, describing them as a fair response to numerous Russian strikes on bridges in Ukraine. He rejected claims that the bridge is exclusively civilian, pointing to evidence of military hardware using the route.
-
-یوکرین کے صدر ولادیمیر زیلنسکی نے کریمیا پل پر حملوں کا دفاع کرتے ہوئے انہیں روسی حملوں کا عادلانہ جواب قرار دیا ہے۔ انہوں نے اس دعوے کو مسترد کر دیا کہ پل صرف سویلین مقاصد کے لیے استعمال ہوتا ہے، اور کہا کہ اس پر فوجی سازوسامان منتقل کیا جا رہا تھا۔
-
-According to BBC World
-
-#Zelensky #CrimeanBridge #UkraineWar #Russia #BBC
-```
-
-### Pakistan Cricket Board announces new central contracts list for 38 players  [NORMAL]
-- Poster: پاکستان کرکٹ بورڈ نے 38 کھلاڑیوں کے لیے نئے سینٹرل کنٹریکٹس کا اعلان کر دیا / PCB announces new central contracts for 38 players | category sports
-- Alternative headline: PCB unveils new central contracts as 13 players miss out
+### Former Nvidia CEO Jensen Huang to testify at public US Senate hearing  [NORMAL]
+- Poster: سابق این ویڈیا سی ای او کا امریکی سینیٹ میں گواہی دینے کا فیصلہ / Ex-Nvidia CEO Huang to testify at US Senate | category us_politics
+- Alternative headline: Former Nvidia CEO Huang agreed to testify at public US Senate hearing
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/pakistan-announce-new-central-contracts-list | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/pakistan-announce-new-central-contracts-list
-- Supporting coverage: ARY News, AP News
-- Keywords: central contracts, PCB, Babar Azam, Salman Ali Agha, Pakistan cricket, cricket squad | hashtags: #PCB #PakistanCricket #BabarAzam #CentralContracts #ARYNews
-- Scheduled: Sat 21 Nov, 07:32 PM PKT
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMirAFBVV95cUxQekYtdGFrclJhLWJrZUZXYU1pNGZDQWtkb1c0MzdwQTB2czFFT01uRWtRVnJqTndUS20tbnpxWEloV3lLTEFYWjdVa2NWZHk1N1NoXzhVT0hCT29ZLVdMaWFfekFUVzFWaGlEejVZSkRxOFhqVXNhcU1kcnowVlpmWkVHcEJSWkJjOTdRcDNmVURpUmJJX2FFZ3RzSk1lYlo3czlGT2t6WGRsZGdC?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMirAFBVV95cUxQekYtdGFrclJhLWJrZUZXYU1pNGZDQWtkb1c0MzdwQTB2czFFT01uRWtRVnJqTndUS20tbnpxWEloV3lLTEFYWjdVa2NWZHk1N1NoXzhVT0hCT29ZLVdMaWFfekFUVzFWaGlEejVZSkRxOFhqVXNhcU1kcnowVlpmWkVHcEJSWkJjOTdRcDNmVURpUmJJX2FFZ3RzSk1lYlo3czlGT2t6WGRsZGdC?oc=5
+- Supporting coverage: ARYnews.tv, ARY News
+- Keywords: Jensen Huang, Nvidia, US Senate, hearing, testify, tech policy | hashtags: #JensenHuang #Nvidia #USSenate #TechNews #USA
+- Scheduled: Sat 21 Nov, 08:17 PM PKT
 - Caption:
 ```
-The Pakistan Cricket Board has announced a new central contracts structure for 38 men’s cricketers, with Babar Azam and Salman Ali Agha included in key categories.
+Former Nvidia CEO Jensen Huang has reportedly agreed to testify at an upcoming public US Senate hearing, according to a senator's aide.
 
-The Pakistan Cricket Board announced a new central contracts list for 38 men's cricketers, running until June 30, 2027. Babar Azam and Salman Ali Agha secured Test and ODI contracts, while 13 players missed out on the new structure.
+Former Nvidia CEO Jensen Huang has agreed to testify at a public US Senate hearing, a senator's aide revealed. The development comes amid widespread discussions surrounding leadership developments and broader technological policy debates in the United States.
 
-پاکستان کرکٹ بورڈ نے 38 مرد کرکٹرز کے لیے نئے سینٹرل کنٹریکٹس کا اعلان کر دیا ہے جو 30 جون 2027 تک نافذ العمل رہیں گے۔ بابر اعظم اور سلمان علی آغا کو ٹیسٹ اور ون ڈے کنٹریکٹس دیے گئے ہیں جبکہ 13 کھلاڑی فہرست سے باہر ہو گئے ہیں۔
+سابق این ویڈیا سی ای او جینسن ہوانگ نے امریکی سینیٹ میں عوامی سماعت کے دوران گواہی دینے پر رضامندی ظاہر کر دی ہے۔ ایک سینیٹر کے معاون کے مطابق یہ پیشرفت ایسے وقت میں سامنے آئی ہے جب امریکہ میں تکنیکی پالیسیوں پر بحث جاری ہے۔
 
-First reported by ARY News
+According to ARYnews.tv
 
-#PCB #PakistanCricket #BabarAzam #CentralContracts #ARYNews
+#JensenHuang #Nvidia #USSenate #TechNews #USA
 ```
 
-### Princess of Wales discusses cancer journey in new documentary Heal  [NORMAL]
-- Poster: پرنسس آف ویلز کیطہر نے نئی دستاویزی فلم میں اپنے کینسر کے سفر پر بات کی / Princess Catherine talks cancer journey in new documentary Heal | category lifestyle
-- Alternative headline: Princess Catherine opens up about cancer treatment in upcoming show Heal
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5
-- Supporting coverage: BBC, BBC
-- Keywords: Princess of Wales, Catherine, Heal documentary, cancer journey, BBC, royal family | hashtags: #PrincessOfWales #Catherine #HealDocumentary #CancerJourney #BBC
-- Scheduled: Sat 21 Nov, 07:42 PM PKT
-- Caption:
-```
-The Princess of Wales, Catherine, has spoken about her cancer journey in a new documentary titled Heal.
-
-The Princess of Wales, Catherine, has discussed her ongoing cancer journey and experiences in a new documentary titled Heal, according to BBC reports.
-
-برطانوی شاہی خاندان کی رکن پرنسس آف ویلز کیتھرین نے ایک نئی دستاویزی فلم 'ہیل' میں اپنے کینسر کے علاج اور سفر کے بارے میں گفتگو کی ہے۔
-
-According to BBC
-
-#PrincessOfWales #Catherine #HealDocumentary #CancerJourney #BBC
-```
-
-### SICVD treats over 22,600 heart attack patients in ten months  [NORMAL]
-- Poster: ایس آئی سی وی ڈی نے 10 ماہ میں 22 ہزار سے زائد دل کے مریضوں کا علاج کیا / SICVD treats over 22,600 heart patients in 10 months | category health
-- Alternative headline: SICVD performs 1,626 surgeries and treats thousands of cardiac patients
+### Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism drills  [NORMAL]
+- Poster: پاکستان اور انڈونیشیا کی مشترکہ انسداد دہشت گردی مشقیں اختتام پذیر / Pakistan, Indonesia conclude counter-terrorism drills | category security
+- Alternative headline: Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046116/sicvd-treats-22639-heart-attack-patients-performs-1626-surgeries-in-10-months | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046116/sicvd-treats-22639-heart-attack-patients-performs-1626-surgeries-in-10-months
-- Supporting coverage: Dawn Pakistan, Pakistan Today, ARY News
-- Keywords: SICVD, heart attack patients, surgeries, cardiac care, Dawn Pakistan, health | hashtags: #SICVD #CardiovascularHealth #HeartPatients #Healthcare #DawnNews
-- Scheduled: Sat 21 Nov, 07:52 PM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVElkU2NicXd4SEUwbC1wYkFXZzZBUXN5Y015WUo4c2hIVmF3UjI2cDVWdGN2YXhUUGJQNTR3cFRYZXFzajdDcmZGU1ppNFBCZWd4SF9YS3pBalBuOEI4M3JuQVJaOGhtcEpJT3lKTjlGLTVxWW5RWmN5WWZwenJ3cXpaczRKZmhwcFR3aHdYTFdNdGI1UFBGSmItLU14cXpqb0Q3d3otVDlhZUxLOHJvMkgtcWdUTTE1TTRTWVlSRlFJV3NERnBHQXdraXcyYl9G0gHYAUFVX3lxTE5IMTFldWZuc1FoUWtrd2t1UXBLZVEtN3hrLXh3aFNHWlc3V0h0OXZLdjJWRVlIN0o3Um1sMjRRYVJabkVwOXNnaTR6VVRVZlRpamV6SUJDLUZ4OG1ma1NwUG5LOThQcTQ0WnpNNkFjWVFsWGZ3ZDRHN0JMMlRhd2xQbXNjcHAwOGhvNXd4elNpQjlQSUZDNEZhT3JBaHNOSmNhR25HREFxRUJGV1d4emlZcEk1ZXBUd0FnYWtYejM5QWsyMVQ4OHM1aDlYdVdTQ1JNbzRyQi03TQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVElkU2NicXd4SEUwbC1wYkFXZzZBUXN5Y015WUo4c2hIVmF3UjI2cDVWdGN2YXhUUGJQNTR3cFRYZXFzajdDcmZGU1ppNFBCZWd4SF9YS3pBalBuOEI4M3JuQVJaOGhtcEpJT3lKTjlGLTVxWW5RWmN5WWZwenJ3cXpaczRKZmhwcFR3aHdYTFdNdGI1UFBGSmItLU14cXpqb0Q3d3otVDlhZUxLOHJvMkgtcWdUTTE1TTRTWVlSRlFJV3NERnBHQXdraXcyYl9G0gHYAUFVX3lxTE5IMTFldWZuc1FoUWtrd2t1UXBLZVEtN3hrLXh3aFNHWlc3V0h0OXZLdjJWRVlIN0o3Um1sMjRRYVJabkVwOXNnaTR6VVRVZlRpamV6SUJDLUZ4OG1ma1NwUG5LOThQcTQ0WnpNNkFjWVFsWGZ3ZDRHN0JMMlRhd2xQbXNjcHAwOGhvNXd4elNpQjlQSUZDNEZhT3JBaHNOSmNhR25HREFxRUJGV1d4emlZcEk1ZXBUd0FnYWtYejM5QWsyMVQ4OHM1aDlYdVdTQ1JNbzRyQi03TQ?oc=5
+- Supporting coverage: The Express Tribune, Pakistan Today
+- Keywords: Elang Strike-III, Pakistan, Indonesia, counter-terrorism, military exercise, security | hashtags: #Pakistan #Indonesia #ElangStrikeIII #CounterTerrorism #MilitaryExercise
+- Scheduled: Sat 21 Nov, 08:27 PM PKT
 - Caption:
 ```
-The Sindh Institute of Cardiovascular Diseases has treated 22,639 heart attack patients and performed 1,626 surgeries over a ten-month period.
+Pakistan and Indonesia have officially concluded the third edition of their bilateral counter-terrorism exercise, Elang Strike-III.
 
-The Sindh Institute of Cardiovascular Diseases (SICVD) successfully treated 22,639 heart attack patients and performed 1,626 surgeries over the course of ten months, providing crucial cardiac care services.
+Pakistan and Indonesia have successfully concluded the third edition of their bilateral counter-terrorism military exercise, Elang Strike-III. The joint drills aimed to enhance tactical cooperation, share expertise, and strengthen security collaboration between the armed forces of both nations.
 
-سندھ انسٹی ٹیوٹ آف کارڈیو ویسکولر ڈیزیزز (SICVD) نے دس ماہ کے دوران 22,639 دل کے دورے کے مریضوں کا علاج کیا اور 1,626 سرجریاں انجام دیں۔
+پاکستان اور انڈونیشیا نے دو طرفہ انسداد دہشت گردی کی مشترکہ مشق 'الان اسٹرائیک تھری' کے تیسرے ایڈیشن کا کامیابی سے اختتام کر لیا ہے۔ ان مشقوں کا مقصد دونوں ممالک کی مسلح افواج کے درمیان تکنیکی تعاون اور سیکیورٹی شراکت داری کو فروغ دینا تھا۔
 
-First reported by Dawn Pakistan
+First reported by The Express Tribune
 
-#SICVD #CardiovascularHealth #HeartPatients #Healthcare #DawnNews
+#Pakistan #Indonesia #ElangStrikeIII #CounterTerrorism #MilitaryExercise
 ```
 
-- Indian outlets blocked this run: 3 items
+### Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500  [NORMAL]
+- Poster: پاکستان میں سونے کی قیمتوں میں بڑی کمی، فی تولہ سستا ہو گیا / Gold price drops by Rs3,500 per tola in Pakistan | category economy
+- Alternative headline: Gold prices plunge in Pakistan, fall by Rs3,500 per tola
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/gold-prices-plunge-in-pakistan-fall-by-rs3500-per-tola | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/gold-prices-plunge-in-pakistan-fall-by-rs3500-per-tola
+- Supporting coverage: ARY News, Investify
+- Keywords: Gold price, Pakistan, Sarafa Association, per tola, economy, inflation | hashtags: #GoldPrice #PakistanEconomy #SarafaAssociation #GoldRate #Business
+- Scheduled: Sat 21 Nov, 08:37 PM PKT
+- Caption:
+```
+Gold prices in Pakistan registered a sharp decline as the per-tola rate dropped by Rs3,500 following global market trends.
+
+Gold prices witnessed a significant decline across Pakistan, with the per-tola rate falling by Rs3,500 to settle at Rs376,336 according to the All Pakistan Sarafa Gems and Jewellers Association. Internationally, gold prices dropped by $35 per ounce amid ongoing global economic uncertainties.
+
+آل پاکستان صرافہ جیمز اینڈ جیولرز ایسوسی ایشن کے مطابق پاکستان بھر میں سونے کی قیمتوں میں نمایاں کمی دیکھی گئی ہے جہاں فی تولہ سونا 3,500 روپے سستا ہو کر 376,336 روپے کا ہو گیا۔ عالمی مارکیٹ میں بھی سونے کی قیمتوں میں کمی ریکارڈ کی گئی ہے۔
+
+According to ARY News
+
+#GoldPrice #PakistanEconomy #SarafaAssociation #GoldRate #Business
+```
+
+### Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup  [NORMAL]
+- Poster: پاکستان نے سلطان اذلان شاہ کپ میں امریکہ کو شکست دے دی / Pakistan beat USA 5-1 in Azlan Shah Cup | category sports
+- Alternative headline: Pakistan beat USA 5-1 to stay top of Sultan Azlan Shah Cup standings
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUFvbEw4Y050WW41VXB3amxGUHhnZXg1ckpWbVh5Mmp1T2IwTUJTQXJ5MXRJY1V0T0Z3YXRGRHJfQ1FKY3dnOTZMY2xRVTkwVU9fSnJNVnNiSHZXNzJDMzBTYV83ZnJreGp6aThaYWI4VXFUOGZyYURnWFh6Tk9Xekx30gGKAUFVX3lxTE5hWkx1T1JCQUxhN1dfTVRzSlB5WkVjTzkzR0t1b2ZFLUZCZTA2UTh0NFAtd2kyWHRxOXZBYlU3cUpJVlN4Vk1FU1BGcF9DM183MXVVMmRNSW9NVEZmSWNxZTRyRkdmcU8xV1EzUGxkeTFfU2JFdlJGeF9peC1hcnc5YWR1LVl2eXJNQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUFvbEw4Y050WW41VXB3amxGUHhnZXg1ckpWbVh5Mmp1T2IwTUJTQXJ5MXRJY1V0T0Z3YXRGRHJfQ1FKY3dnOTZMY2xRVTkwVU9fSnJNVnNiSHZXNzJDMzBTYV83ZnJreGp6aThaYWI4VXFUOGZyYURnWFh6Tk9Xekx30gGKAUFVX3lxTE5hWkx1T1JCQUxhN1dfTVRzSlB5WkVjTzkzR0t1b2ZFLUZCZTA2UTh0NFAtd2kyWHRxOXZBYlU3cUpJVlN4Vk1FU1BGcF9DM183MXVVMmRNSW9NVEZmSWNxZTRyRkdmcU8xV1EzUGxkeTFfU2JFdlJGeF9peC1hcnc5YWR1LVl2eXJNQQ?oc=5
+- Supporting coverage: UrduPoint, The Express Tribune
+- Keywords: Azlan Shah Cup, Pakistan hockey, USA, sports, victory, standings | hashtags: #AzlanShahCup #PakistanHockey #GreenShirts #Hockey #Sports
+- Scheduled: Sat 21 Nov, 08:47 PM PKT
+- Caption:
+```
+Pakistan delivered a dominant performance, thrashing the USA 5-1 to retain their top position in the Sultan Azlan Shah Cup standings.
+
+Pakistan put up a stellar show on the field, bulldozing the USA with a resounding 5-1 victory in the Sultan Azlan Shah Cup. The impressive win helps the national hockey team maintain their leading position at the top of the tournament standings.
+
+پاکستان نے شاندار کارکردگی کا مظاہرہ کرتے ہوئے سلطان اذلان شاہ کپ میں امریکہ کو 5 کے مقابلے میں 1 گول سے شکست دے دی۔ اس بڑی فتح کے بعد قومی ہاکی ٹیم ٹورنامنٹ کے پوائنٹس ٹیبل پر سر فہرست برقرار ہے۔
+
+First reported by The Express Tribune
+
+#AzlanShahCup #PakistanHockey #GreenShirts #Hockey #Sports
+```
+
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
 
 ## Queue status
-- [needs_review] normal | Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run | Wed 18 Nov, 01:27 PM PKT
-- [needs_review] normal | Rahim Yar Khan man arrested after fake suicide drama killed rescue div | Wed 18 Nov, 01:37 PM PKT
 - [needs_review] normal | Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperati | Wed 18 Nov, 02:37 PM PKT
 - [needs_review] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
 - [needs_review] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
@@ -339,9 +337,9 @@ First reported by Dawn Pakistan
 - [needs_review] normal | WhatsApp raises group chat limit to 1,500 members | Sat 21 Nov, 01:11 PM PKT
 - [needs_review] normal | Father accused of raping daughter killed in CCD encounter in Kot Addu | Sat 21 Nov, 01:21 PM PKT
 - [published] normal | Islamabad High Court Issues Important Order Regarding Imran Khan and B | Sat 21 Nov, 01:49 PM PKT
-- [queued] normal | Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as  | Sat 21 Nov, 01:59 PM PKT
-- [queued] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
-- [queued] normal | Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper | Sat 21 Nov, 02:19 PM PKT
+- [needs_review] normal | Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as  | Sat 21 Nov, 01:59 PM PKT
+- [needs_review] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
+- [published] normal | Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper | Sat 21 Nov, 02:19 PM PKT
 - [queued] normal | Illicit alcohol kills 11 people and poisons 180 in northeast India | Sat 21 Nov, 03:29 PM PKT
 - [queued] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
 - [queued] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
@@ -355,19 +353,22 @@ First reported by Dawn Pakistan
 - [queued] normal | Pakistan Cricket Board announces new central contracts list for 38 pla | Sat 21 Nov, 07:32 PM PKT
 - [queued] normal | Princess of Wales discusses cancer journey in new documentary Heal | Sat 21 Nov, 07:42 PM PKT
 - [queued] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
+- [queued] normal | Former Nvidia CEO Jensen Huang to testify at public US Senate hearing | Sat 21 Nov, 08:17 PM PKT
+- [queued] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
+- [queued] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
+- [queued] normal | Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup | Sat 21 Nov, 08:47 PM PKT
 
 ## Publishing this run
-- Published 'Islamabad High Court Issues Important Order Regarding Imran Khan and Bushra Bibi'.
+- Published 'Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 4801 | output tokens: 2523
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 3 | prompt tokens: 6619 | output tokens: 2630
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+    "message": "This model is currently experiencing high demand. Spikes i
