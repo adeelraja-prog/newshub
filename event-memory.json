@@ -104727,7 +104727,697 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3f24f3ef68a8d7f23df4aa76",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T17:45:46+00:00",
+      "last_update": "2026-11-21T18:25:05+00:00",
+      "event": "Iran to ration electricity as war hits energy network",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "electricity",
+        "energy",
+        "hits",
+        "iran",
+        "network",
+        "ration",
+        "war"
+      ],
+      "source_excerpt": "Iran to ration electricity as war hits energy network Dawn",
+      "sources": [
+        {
+          "name": "The New Arab",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONVlGcmEweWtoYVdGRi1rWVRKQmVRN1FQMGFfLWdxZGlpNl9QRms3cW1HR0JHcm5lZnYydVhuOFFmUEpoUXo2NFNZOFh5SmQ0SnVfdUk4cGNNWmZ5ZGhUQmEyOVZfMXpJWHNDQ3ZYOXZXMlJ6cnlxVDdEVm9aUW9QSHNn0gGHAUFVX3lxTE1ERG1qaVJmRjZGR2VYSWE0ZmFkWlgtT0pObDNQZ2lsaDVQUGFfek1JaWF2TEhsN2NMR3ZhSk5oNHZhcXc1NVh1LWQ2NFBFMkNpQTlHRWdNZjZzRmRXRTA4YldZQ0tOMmhKYmJfNE9LeDBvbFI4dWVXUFNnb01mMy1pMzBLZzRBaw?oc=5",
+          "published_at": "2026-11-21T17:45:46+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjNkYUxaSk9tc01JT0EyNFpnNG9JWll6UXJ3N0loWVB5TG1LZTg1bnRYaU82YlpOOTRHc3ZURU91eXpwUFpLTS13V0d0S25nOEhPY2dIUjgyd1F5b1BRSWw4UWxXWGxxaDNJWHhfNVk4OFpIWXJUOG9xUGZESE13RFc5RzZLODVQQVR5dkp6Q2w?oc=5",
+          "published_at": "2026-11-21T18:25:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjNkYUxaSk9tc01JT0EyNFpnNG9JWll6UXJ3N0loWVB5TG1LZTg1bnRYaU82YlpOOTRHc3ZURU91eXpwUFpLTS13V0d0S25nOEhPY2dIUjgyd1F5b1BRSWw4UWxXWGxxaDNJWHhfNVk4OFpIWXJUOG9xUGZESE13RFc5RzZLODVQQVR5dkp6Q2w?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "49f9f260da33d897b8928e0d",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T18:42:38+00:00",
+      "last_update": "2026-11-21T18:47:57+00:00",
+      "event": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "110",
+        "400",
+        "across",
+        "against",
+        "and",
+        "attack",
+        "barrage",
+        "deadly",
+        "drones",
+        "killing",
+        "kyiv",
+        "launched",
+        "launches",
+        "least",
+        "missiles",
+        "more",
+        "overnight",
+        "russia",
+        "seven",
+        "than",
+        "ukraine"
+      ],
+      "source_excerpt": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+          "published_at": "2026-11-21T18:42:38+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjdpcjNXTjd5Z2ROUThPeGVJR19Gc3ptOFZFS0VwRWVrRmRaZ0lpWTBwQ1ozU1Bfbm03UjAzbl9yY1FjelRhMmp4NTIwUklLX0U4WjRoZ0J4Z3g2UVpxa2RqSmthdENHQjVNaTQ4MVhSamdWX0ptSTJoY1pabkxaMmZMZTU3YVNQUk1IZm5QTUlQalBRYkVRczNtOXhZTXg5X1RBZGpRdkJ5YWttMFJrX011MlNsNHg2Y3fSAb8BQVVfeXFMTUZfSENOWWt2ODlWTUlrRW1UMkwxY3FhS0hQMjRYV0ZXTWJZS2xwYkJsSVZPWHZoZW0tZzRsQWVFWGd5S2kxcW5mUDlTeEZtRE1TY1pKTkxaT2MzbkZkQ0Vjb2F2VXhwbG5HWTFkQ29IM1pQMEMtWkUwVFFYcFRnWENaYmxheTRXRUJRTUtDMnlhT0NxbjlaU3g5VjlkU1J5T281Skg0RnQ2alJUY0hJZUM1Sk5uZlplak9PT185OFE?oc=5",
+          "published_at": "2026-11-21T18:47:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bbed3dbf8af41bfa270188e8",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T18:19:10+00:00",
+      "last_update": "2026-11-21T18:19:10+00:00",
+      "event": "FBI national crime database suffers suspected breach: Reports",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affecting",
+        "and",
+        "breach",
+        "breaches",
+        "crime",
+        "database",
+        "fbi",
+        "government",
+        "hacking",
+        "latest",
+        "national",
+        "outages",
+        "reported",
+        "reports",
+        "string",
+        "suffers",
+        "suspected",
+        "the"
+      ],
+      "source_excerpt": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+          "published_at": "2026-11-21T18:19:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "41c335c19a92a608258518cf",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T19:06:46+00:00",
+      "last_update": "2026-11-21T19:06:46+00:00",
+      "event": "Punjab introduces app for digital land ownership service",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "app",
+        "digital",
+        "for",
+        "introduces",
+        "land",
+        "ownership",
+        "punjab",
+        "service"
+      ],
+      "source_excerpt": "Punjab introduces app for digital land ownership service",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-introduces-app-for-digital-land-ownership-service",
+          "published_at": "2026-11-21T19:06:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-introduces-app-for-digital-land-ownership-service",
+        "publisher_url": "https://arynews.tv/punjab-introduces-app-for-digital-land-ownership-service",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b410a26b806243bc7bafc306",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T18:10:00+00:00",
+      "last_update": "2026-11-21T18:10:00+00:00",
+      "event": "British athlete swims through Strait of Hormuz war zone to expose war's forgotten victims",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "athlete",
+        "british",
+        "completed",
+        "endurance",
+        "environmentalists",
+        "expose",
+        "finished",
+        "forgotten",
+        "has",
+        "hit",
+        "hormuz",
+        "hundreds",
+        "kilometre",
+        "lewis",
+        "oil",
+        "possible",
+        "pugh",
+        "spills",
+        "strait",
+        "swim",
+        "swimmer",
+        "swims",
+        "the",
+        "through",
+        "victims",
+        "war",
+        "warned",
+        "waterway",
+        "zone"
+      ],
+      "source_excerpt": "British athlete swims through Strait of Hormuz war zone to expose war's forgotten victims British swimmer Lewis Pugh completed a 15-kilometre swim through the war-hit waterway as environmentalists warned of hundreds of possible oil spills. A British endurance swimmer has finished a...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692113-british-athlete-swims-through-strait-of-hormuz-war-zone-to-expose-wars-forgotten-victims",
+          "published_at": "2026-11-21T18:10:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692113-british-athlete-swims-through-strait-of-hormuz-war-zone-to-expose-wars-forgotten-victims",
+        "publisher_url": "https://www.geo.tv/latest/692113-british-athlete-swims-through-strait-of-hormuz-war-zone-to-expose-wars-forgotten-victims",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "92d262eba44f4eca16c0406c",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T18:10:00+00:00",
+      "last_update": "2026-11-21T18:10:00+00:00",
+      "event": "Mckenna Grace surprises fans with bonus 'Hunger Games' content after movie",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "before",
+        "being",
+        "bonus",
+        "cast",
+        "character",
+        "compassion",
+        "content",
+        "exclusive",
+        "fan",
+        "fandom",
+        "fans",
+        "first",
+        "for",
+        "foremost",
+        "games",
+        "grace",
+        "her",
+        "hunger",
+        "insight",
+        "into",
+        "maysilee",
+        "mckenna",
+        "member",
+        "movie",
+        "offered",
+        "sharing",
+        "she",
+        "surprises",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "Mckenna Grace surprises fans with bonus 'Hunger Games' content after movie Mckenna Grace is a Hunger Games fan first and foremost before being a cast member, and sharing her compassion for the fandom, she offered an exclusive insight to fans into her character, Maysilee...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692112-mckenna-grace-surprises-fans-with-bonus-hunger-games-content-after-movie",
+          "published_at": "2026-11-21T18:10:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692112-mckenna-grace-surprises-fans-with-bonus-hunger-games-content-after-movie",
+        "publisher_url": "https://www.geo.tv/latest/692112-mckenna-grace-surprises-fans-with-bonus-hunger-games-content-after-movie",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2664bf9831f42defa31ece9f",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T17:54:00+00:00",
+      "last_update": "2026-11-21T17:54:00+00:00",
+      "event": "Rosalia responds to Taylor Swift's tribute amid Grammy battle",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admiration",
+        "amid",
+        "and",
+        "battle",
+        "beso",
+        "called",
+        "for",
+        "grammy",
+        "heaped",
+        "her",
+        "hitmaker",
+        "honour",
+        "interview",
+        "music",
+        "musician",
+        "new",
+        "praises",
+        "publicly",
+        "reacted",
+        "recently",
+        "responds",
+        "rosalia",
+        "shared",
+        "she",
+        "spanish",
+        "swift",
+        "taylor",
+        "the",
+        "tribute",
+        "what"
+      ],
+      "source_excerpt": "Rosalia responds to Taylor Swift's tribute amid Grammy battle Taylor Swift recently shared her admiration for Rosalia's music publicly, and the Spanish musician reacted to what she called an 'honour' in a new interview. The Beso hitmaker heaped praises for the...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692111-rosalia-responds-to-taylor-swifts-tribute-amid-grammy-battle",
+          "published_at": "2026-11-21T17:54:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692111-rosalia-responds-to-taylor-swifts-tribute-amid-grammy-battle",
+        "publisher_url": "https://www.geo.tv/latest/692111-rosalia-responds-to-taylor-swifts-tribute-amid-grammy-battle",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c3e007805a991493f9172038",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T18:00:48+00:00",
+      "last_update": "2026-11-21T18:00:48+00:00",
+      "event": "Ahsan Iqbal Lays Foundation Stone of Rs850 Million Auditorium at University of Narowal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahsan",
+        "auditorium",
+        "foundation",
+        "iqbal",
+        "lays",
+        "million",
+        "narowal",
+        "rs850",
+        "stone",
+        "university"
+      ],
+      "source_excerpt": "Ahsan Iqbal Lays Foundation Stone of Rs850 Million Auditorium at University of Narowal",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/ahsan-iqbal-lays-foundation-stone-of-rs850-million-auditorium-at-university-of-narowal",
+          "published_at": "2026-11-21T18:00:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/ahsan-iqbal-lays-foundation-stone-of-rs850-million-auditorium-at-university-of-narowal",
+        "publisher_url": "https://arynews.tv/ahsan-iqbal-lays-foundation-stone-of-rs850-million-auditorium-at-university-of-narowal",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aa40b76f570d28401ebe486c",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T17:57:11+00:00",
+      "last_update": "2026-11-21T17:57:11+00:00",
+      "event": "NIO unveils Firefly Haven electric car in Oslo for European buyers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "buyers",
+        "car",
+        "electric",
+        "european",
+        "firefly",
+        "for",
+        "haven",
+        "nio",
+        "oslo",
+        "unveils"
+      ],
+      "source_excerpt": "NIO unveils Firefly Haven electric car in Oslo for European buyers",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/nio-unveils-firefly-haven-electric-car-in-oslo-for-european-buyers",
+          "published_at": "2026-11-21T17:57:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/nio-unveils-firefly-haven-electric-car-in-oslo-for-european-buyers",
+        "publisher_url": "https://arynews.tv/nio-unveils-firefly-haven-electric-car-in-oslo-for-european-buyers",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "24086db9185916677f76e177",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T18:09:01+00:00",
+      "last_update": "2026-11-21T18:20:26+00:00",
+      "event": "JUI-F urged to keep madrasa students out of politics",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "jui",
+        "keep",
+        "madrasa",
+        "out",
+        "politics",
+        "samaa",
+        "students",
+        "urged"
+      ],
+      "source_excerpt": "JUI-F urged to keep madrasa students out of politics samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVlYUzJJSUVtdG9RMUswem0tcjRfbWNQZUhtSFJhVlNnZGM2NVFENlVJMUpzUXo5elQxSHhZVVUxNDBxbENWWWVRNWtxaElNSzVLZUpZa21ISHlwdVVpOGwzVWFHRm9KUGpMc0lkZnBpSTZoekZ5M3ctWVZWcGdBMnZrZHRZd1BQYU1mZ2dlMGFxZmVudGtoRHF1OHlzaXM?oc=5",
+          "published_at": "2026-11-21T18:09:01+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1NWWklBMmM4ZEhqbnhJTEdaSHlhc1F5Y09VSzJ4cGN5MENiYkhUdUs3RFViZ0RhbTNuSXJqSHprVG9hbEtROWI3NDNrQTF0NEc0S2RlU0t6blhDbWVBai1oRkx3T05oQW1JZnZKWTQxSWFUZFJBUzZjZFdDeEstaE1xWVQ5UnBQMk9qVFd5YWJHY3p2NThwR2tveTRVdG9MUEE?oc=5",
+          "published_at": "2026-11-21T18:20:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVlYUzJJSUVtdG9RMUswem0tcjRfbWNQZUhtSFJhVlNnZGM2NVFENlVJMUpzUXo5elQxSHhZVVUxNDBxbENWWWVRNWtxaElNSzVLZUpZa21ISHlwdVVpOGwzVWFHRm9KUGpMc0lkZnBpSTZoekZ5M3ctWVZWcGdBMnZrZHRZd1BQYU1mZ2dlMGFxZmVudGtoRHF1OHlzaXM?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "00cb0abfc3a03eb9442cf5db",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T19:16:19+00:00",
+      "last_update": "2026-11-21T19:16:19+00:00",
+      "event": "President Zardari discusses political situation with DPM, NA speaker",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "discusses",
+        "dpm",
+        "political",
+        "president",
+        "samaa",
+        "situation",
+        "speaker",
+        "with",
+        "zardari"
+      ],
+      "source_excerpt": "President Zardari discusses political situation with DPM, NA speaker samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3JBb3VNakU4cnNJeGRGLUNvcUR5S3p3bjZDcTFpQktEZjZxUnFESDdXSmNkYVNEWHRjMTB6dWhCRlk1Ny1MS0x2VVM5UXRnZk5hRUhybkh4aDN6VXJzMjNtWWVtM1ljSmZBc1Uxc3R3MTJVZFc2M3ZBanBpbm0zdnJTRnZHVFRRbmNMVTN5N2ZmOER5WVV3ZGhlblBNS0R6MV9zampxbHlmN0Frc3VEWmVkWQ?oc=5",
+          "published_at": "2026-11-21T19:16:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3JBb3VNakU4cnNJeGRGLUNvcUR5S3p3bjZDcTFpQktEZjZxUnFESDdXSmNkYVNEWHRjMTB6dWhCRlk1Ny1MS0x2VVM5UXRnZk5hRUhybkh4aDN6VXJzMjNtWWVtM1ljSmZBc1Uxc3R3MTJVZFc2M3ZBanBpbm0zdnJTRnZHVFRRbmNMVTN5N2ZmOER5WVV3ZGhlblBNS0R6MV9zampxbHlmN0Frc3VEWmVkWQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d93f3a3b7aea694bbacd9d07",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T18:25:01+00:00",
+      "last_update": "2026-11-21T18:25:01+00:00",
+      "event": "Iran to impose power cuts from Sunday amid worsening energy crisis",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "crisis",
+        "cuts",
+        "energy",
+        "from",
+        "impose",
+        "iran",
+        "power",
+        "samaa",
+        "sunday",
+        "worsening"
+      ],
+      "source_excerpt": "Iran to impose power cuts from Sunday amid worsening energy crisis samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXc4bzJVOGlKd2pnbDZ5S3IzVTZnUlVtZEFFdDdWRUJJTzJTR0RVdnlZV3BfT2ItSlBRWmVnaW52UERxWWd1UzZ0WmNQMHk5a1ptbE5pVWoyeWtyNEYxOWhndEFvY19nb0lCQ1lrLWhYVkk0eDZBLWZNUVBxeE1lbGhPZklrRFB3c0RYb2xsc3RTNGNSSkNmejdwUjJ0am8?oc=5",
+          "published_at": "2026-11-21T18:25:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXc4bzJVOGlKd2pnbDZ5S3IzVTZnUlVtZEFFdDdWRUJJTzJTR0RVdnlZV3BfT2ItSlBRWmVnaW52UERxWWd1UzZ0WmNQMHk5a1ptbE5pVWoyeWtyNEYxOWhndEFvY19nb0lCQ1lrLWhYVkk0eDZBLWZNUVBxeE1lbGhPZklrRFB3c0RYb2xsc3RTNGNSSkNmejdwUjJ0am8?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c2657e335e841f3363a9a2be",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T18:55:37+00:00",
+      "last_update": "2026-11-21T18:55:37+00:00",
+      "event": "Bahrain's interior ministry issues warning of potential threat",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bahrain",
+        "dawn",
+        "interior",
+        "issues",
+        "ministry",
+        "potential",
+        "threat",
+        "warning"
+      ],
+      "source_excerpt": "Bahrain's interior ministry issues warning of potential threat Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemFrYUxEdDVNcWw5YU5BeW81MzNLeEFfLTc4Um42Smp6TDZ1MXhTVllub2RlTlREV0dMV3c4ZmRjVnFaVUZJRkpBMXhsd3I5a2VwOFpfTWI1eHkxZlY3aG9iMExLLS14WFh4S2VsWFlfQUoxOXBLTlhkbjRDN1AtZ0dLeTNDeW1VU2F2c0dDTnE3Z2pseHdRNTAyQQ?oc=5",
+          "published_at": "2026-11-21T18:55:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemFrYUxEdDVNcWw5YU5BeW81MzNLeEFfLTc4Um42Smp6TDZ1MXhTVllub2RlTlREV0dMV3c4ZmRjVnFaVUZJRkpBMXhsd3I5a2VwOFpfTWI1eHkxZlY3aG9iMExLLS14WFh4S2VsWFlfQUoxOXBLTlhkbjRDN1AtZ0dLeTNDeW1VU2F2c0dDTnE3Z2pseHdRNTAyQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a93fc0c5f3a60c17a2e294a3",
+      "remembered_at": "2026-11-21T19:24:12.970718+00:00",
+      "event_date": "2026-11-21T18:13:00+00:00",
+      "last_update": "2026-11-21T18:13:00+00:00",
+      "event": "Alec Baldwin pays tribute to Stacy Keach in latest video",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alec",
+        "baldwin",
+        "international",
+        "keach",
+        "latest",
+        "news",
+        "pays",
+        "stacy",
+        "the",
+        "tribute",
+        "video"
+      ],
+      "source_excerpt": "Alec Baldwin pays tribute to Stacy Keach in latest video The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2tyaE9Dc0FWMGNhUkQ5bmdHLW1qblhPMk5Tel85R3lmbml0X3RKU0VuZ1I2UmxUeW01TkxQa3JWOTB6X2pMVWRnamFNLWhPZVBsSHpYcW9rNkZQVDIxWDE0YW1PbzNVU0ZPWUIweUVtM05aUTJmU1E1ZE9jbWJrYUtIeHBkVHNCczV0YXB6T1RfWmE2WGNBY19mVdIBmwFBVV95cUxOT2tyaE9Dc0FWMGNhUkQ5bmdHLW1qblhPMk5Tel85R3lmbml0X3RKU0VuZ1I2UmxUeW01TkxQa3JWOTB6X2pMVWRnamFNLWhPZVBsSHpYcW9rNkZQVDIxWDE0YW1PbzNVU0ZPWUIweUVtM05aUTJmU1E1ZE9jbWJrYUtIeHBkVHNCczV0YXB6T1RfWmE2WGNBY19mVQ?oc=5",
+          "published_at": "2026-11-21T18:13:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2tyaE9Dc0FWMGNhUkQ5bmdHLW1qblhPMk5Tel85R3lmbml0X3RKU0VuZ1I2UmxUeW01TkxQa3JWOTB6X2pMVWRnamFNLWhPZVBsSHpYcW9rNkZQVDIxWDE0YW1PbzNVU0ZPWUIweUVtM05aUTJmU1E1ZE9jbWJrYUtIeHBkVHNCczV0YXB6T1RfWmE2WGNBY19mVdIBmwFBVV95cUxOT2tyaE9Dc0FWMGNhUkQ5bmdHLW1qblhPMk5Tel85R3lmbml0X3RKU0VuZ1I2UmxUeW01TkxQa3JWOTB6X2pMVWRnamFNLWhPZVBsSHpYcW9rNkZQVDIxWDE0YW1PbzNVU0ZPWUIweUVtM05aUTJmU1E1ZE9jbWJrYUtIeHBkVHNCczV0YXB6T1RfWmE2WGNBY19mVQ?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T18:21:34.032190+00:00"
+  "updated_at": "2026-11-21T19:24:12.970718+00:00"
 }

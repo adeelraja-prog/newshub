@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 11:21 PM PKT
+# News Hub report - Sun 22 Nov, 12:24 AM PKT
 
 ## Collection
-- New items this run: 22 | items in rolling pool: 620
-- Unique story clusters: 541 (duplicates merged: 79)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 9
-- Items per outlet: Al Jazeera 5, Geo News 3, TechJuice 3, ARY News 2, samaa tv 2, Engadget 2, The Verge 1, Pakistan Today 1, Anadolu Ajansı 1, The New Arab 1, National Council of Resistance of Iran - NCRI 1
+- New items this run: 45 | items in rolling pool: 570
+- Unique story clusters: 505 (duplicates merged: 65)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 7
+- Items per outlet: Geo News 8, ARY News 6, Engadget 6, Al Jazeera 4, Jang Urdu 3, Pakistan Today 3, samaa tv 2, Dawn 2, The News International 1, Dawn Pakistan 1, TechCrunch 1, GSMArena 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Punjab Workers Welfare Fund launches new WhatsApp helpline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russian strike kills two, wounds 60, in Zelenskyy’s hometown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Could Brexit be reversed? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran to ration electricity as war hits energy network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK police drag man from protest over ‘Pallet Sign Acton’ shirt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Punjab Workers Welfare Fund launches new WhatsApp helpline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russian strike kills two, wounds 60, in Zelenskyy’s hometown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Could Brexit be reversed? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran to ration electricity as war hits energy network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK police drag man from protest over ‘Pallet Sign Acton’ shirt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Punjab Workers Welfare Fund launches new WhatsApp helpline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russian strike kills two, wounds 60, in Zelenskyy’s hometown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Could Brexit be reversed? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran to ration electricity as war hits energy network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK police drag man from protest over ‘Pallet Sign Acton’ shirt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,109 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Could Brexit be reversed in the future?  [NORMAL]
-- Poster: کیا برطانیہ مستقبل میں دوبارہ یورپی یونین میں شامل ہو سکتا ہے؟ / Could Brexit be reversed in the future? | category politics
-- Alternative headline: UK Prime Minister hopes country will rejoin EU
+### Trump Pushes For Permanent Deal To Block Iran Nuclear Program  [NORMAL]
+- Poster: ایران کے جوہری پروگرام کو روکنے کے لیے مستقل معاہدے کا مطالبہ / Trump Wants Permanent Iran Nuclear Deal | category us_politics
+- Alternative headline: US President Seeks Permanent Agreement Stopping Iran Nukes
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Brexit, UK politics, Andy Burnham, European Union, rejoin EU | hashtags: #Brexit #UK #EU #Politics
-- Scheduled: Sat 21 Nov, 11:21 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Iran nuclear deal, Donald Trump, nuclear weapons, US politics, Iran, permanent agreement | hashtags: #Trump #IranNuclear #USPolitics #NuclearDeal #AlJazeera
+- Scheduled: Sun 22 Nov, 12:24 AM PKT
 - Caption:
 ```
-UK Prime Minister Andy Burnham hopes his country will rejoin the European Union in his lifetime, sparking debate on the future of Brexit.
+US President Donald Trump has stated his desire for a permanent agreement to prevent Iran from developing nuclear weapons.
 
-UK Prime Minister Andy Burnham hopes his country will rejoin the European Union in his lifetime. However, questions remain about the realistic chances and political roadmap for reversing Brexit.
+US President Donald Trump has expressed his intention to secure a permanent agreement aimed at stopping Iran from acquiring or developing nuclear weapons. The statement outlines ongoing international focus on Tehran's disputed nuclear capabilities.
 
-برطانوی وزیر اعظم اینڈی برنہم کو امید ہے کہ ان کا ملک ان کی زندگی میں دوبارہ یورپی یونین میں شامل ہو جائے گا۔ تاہم، بریکسٹ کو واپس لینے کے امکانات پر سوالات موجود ہیں۔
+امریکی صدر ڈونلڈ ٹرمپ نے ایران کو جوہری ہتھیار تیار کرنے سے روکنے کے لیے ایک مستقل معاہدے تک پہنچنے کی خواہش کا اظہار کیا ہے۔ اس بیان سے تہران کی متنازعہ جوہری صلاحیتوں پر عالمی توجہ ظاہر ہوتی ہے۔
 
-According to Al Jazeera
+First reported by Al Jazeera.
 
-#Brexit #UK #EU #Politics
+#Trump #IranNuclear #USPolitics #NuclearDeal #AlJazeera
 ```
 
-### Punjab Workers Welfare Fund launches new WhatsApp helpline  [NORMAL]
-- Poster: پنجاب ورکرز ویلفیئر فنڈ نے نئی واٹس ایپ ہیلپ لائن متعارف کرا دی / Punjab Workers Welfare Fund launches new WhatsApp helpline | category other
-- Alternative headline: PWWF introduces new WhatsApp number for worker grants
+### Kaliningrad-Bound Ship Struck By Drones In Gulf Of Finland  [NORMAL]
+- Poster: فن لینڈ کی کھاڑی میں روس جانے والا بحری جہاز ڈرون حملے کا شکار / Ship Struck By Drones In Gulf Of Finland | category world
+- Alternative headline: Cargo Ship Damaged After Drone Attack In Gulf Of Finland
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera, BBC World
+- Keywords: drone attack, Kaliningrad, Gulf of Finland, Russia, cargo ship, maritime border | hashtags: #Russia #GulfOfFinland #DroneAttack #Kaliningrad #WorldNews
+- Scheduled: Sun 22 Nov, 12:34 AM PKT
+- Caption:
+```
+Russia reports that a cargo ship heading towards Kaliningrad was struck by drones near its maritime border, resulting in damage and crew evacuation.
+
+Two drones attacked a cargo ship near Russia's maritime border in the Gulf of Finland. The vessel, which was heading to Kaliningrad, sustained damage and the crew had to be evacuated following the strike.
+
+فن لینڈ کی کھاڑی میں روس کی سمندری سرحد کے قریب ایک کارگو جہاز پر دو ڈرون حملے کیے گئے۔ کالنگراڈ جانے والے اس جہاز کو نقصان پہنچا اور حملے کے بعد عملے کو محفوظ مقام پر منتقل کرنا پڑا۔
+
+First reported by Al Jazeera; also reported by BBC World.
+
+#Russia #GulfOfFinland #DroneAttack #Kaliningrad #WorldNews
+```
+
+### Iran To Ration Electricity As Regional Conflict Hits Energy Grid  [NORMAL]
+- Poster: جنگ کے اثرات کے باعث ایران میں بجلی کی بندش اور راشننگ کا فیصلہ / Iran To Ration Electricity Due To War | category other
+- Alternative headline: Power Rationing Introduced In Iran Amid Escalating War Impacts
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/punjab-workers-welfare-fund-launches-new-whatsapp-helpline | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/punjab-workers-welfare-fund-launches-new-whatsapp-helpline
-- Supporting coverage: ARY News, TechJuice
-- Keywords: Punjab Workers Welfare Fund, WhatsApp helpline, PWWF, grants, Punjab government | hashtags: #PWWF #Punjab #WhatsAppHelpline #Workers
-- Scheduled: Sat 21 Nov, 11:31 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjNkYUxaSk9tc01JT0EyNFpnNG9JWll6UXJ3N0loWVB5TG1LZTg1bnRYaU82YlpOOTRHc3ZURU91eXpwUFpLTS13V0d0S25nOEhPY2dIUjgyd1F5b1BRSWw4UWxXWGxxaDNJWHhfNVk4OFpIWXJUOG9xUGZESE13RFc5RzZLODVQQVR5dkp6Q2w?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjNkYUxaSk9tc01JT0EyNFpnNG9JWll6UXJ3N0loWVB5TG1LZTg1bnRYaU82YlpOOTRHc3ZURU91eXpwUFpLTS13V0d0S25nOEhPY2dIUjgyd1F5b1BRSWw4UWxXWGxxaDNJWHhfNVk4OFpIWXJUOG9xUGZESE13RFc5RzZLODVQQVR5dkp6Q2w?oc=5
+- Supporting coverage: The New Arab, Dawn
+- Keywords: Iran electricity rationing, Iran war, energy network, power cut, Dawn, infrastructure | hashtags: #Iran #ElectricityRationing #EnergyCrisis #DawnNews #MiddleEast
+- Scheduled: Sun 22 Nov, 12:44 AM PKT
 - Caption:
 ```
-The Punjab Workers Welfare Fund has launched a new WhatsApp helpline to make welfare services more accessible for workers.
+Iran is set to implement electricity rationing as ongoing conflict severely impacts the country's energy infrastructure and network.
 
-The Punjab Workers Welfare Fund (PWWF) has launched a new WhatsApp helpline at 0302-3911149 to help workers obtain information about talent scholarships, marriage grants, and death grants. The previous number is no longer operational.
+Iran has announced plans to ration electricity supplies as the ongoing war heavily impacts its critical energy network. The measure highlights the deepening economic and infrastructural toll of the regional conflict on local populations.
 
-پنجاب ورکرز ویلفیئر فنڈ نے مزدوروں کو اسکالرشپس اور گرانٹس کی معلومات فراہم کرنے کے لیے نیا واٹس ایپ نمبر 0302-3911149 جاری کر دیا ہے۔ پرانا نمبر اب فعال نہیں ہے۔
+جنگ کے باعث ایران کے توانائی کے نظام پر شدید دباؤ پڑا ہے، جس کے بعد ملک میں بجلی کی راشننگ کرنے کا اعلان کیا گیا ہے۔ اس اقدام سے مقامی آبادی کو درپیش مشکلات کا اندازہ ہوتا ہے۔
 
-First reported by ARY News; also reported by TechJuice
+First reported by Dawn.
 
-#PWWF #Punjab #WhatsAppHelpline #Workers
+#Iran #ElectricityRationing #EnergyCrisis #DawnNews #MiddleEast
 ```
 
-### Chelsea suffer shock 4-1 home defeat against Leeds United  [NORMAL]
-- Poster: لیڈز یونائٹڈ نے چیلسی کو ہوم میچ میں 4-1 سے شکست دے دی / Chelsea suffer shock 4-1 home defeat against Leeds United | category sports
-- Alternative headline: Leeds climb above Chelsea in Premier League after 4-1 win
+### UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt  [NORMAL]
+- Poster: برطانوی پولیس نے متنازعہ ٹی شرٹ پہننے پر مظاہرین کو گھسیٹ لیا / UK Police Remove Protester Over Shirt | category other
+- Alternative headline: Protester Removed By UK Police Over Controversial T-Shirt Slogan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Chelsea vs Leeds, Premier League, Stamford Bridge, football, Leeds United | hashtags: #Chelsea #LeedsUnited #PremierLeague #Football
-- Scheduled: Sat 21 Nov, 11:41 PM PKT
+- Keywords: UK police protest, Pallet Sign Acton, protester, UK news, Al Jazeera, demonstration | hashtags: #UKPolice #Protest #AlJazeera #Acton #UKNews
+- Scheduled: Sun 22 Nov, 12:54 AM PKT
 - Caption:
 ```
-Leeds United came from a goal down at Stamford Bridge to shock Chelsea and climb to sixth in the Premier League.
+UK police were filmed dragging a man away from a protest demonstration over the wording on his shirt.
 
-Leeds United secured a stunning 4-1 victory against Chelsea at Stamford Bridge after coming from a goal down. The win allowed Leeds to climb above their hosts into sixth place in the Premier League standings.
+Footage shows UK police officers dragging a man away from a protest gathering due to a slogan displayed on his 'Pallet Sign Acton' shirt. The incident has drawn attention to policing tactics at public demonstrations.
 
-لیڈز یونائٹڈ نے اسٹامفورڈ برج میں شاندار کم بیک کرتے ہوئے چیلسی کو 4-1 سے شکست دے دی۔ اس فتح کے بعد لیڈز پریمیئر لیگ میں چھٹے نمبر پر پہنچ گئی ہے۔
+برطانوی پولیس نے ایک مظاہرے کے دوران ایک شخص کو اس کی ٹی شرٹ پر لکھے ہوئے نعرے کی وجہ سے زبردستی ہٹا دیا۔ اس واقعے کی ویڈیو سوشل میڈیا پر زیر بحث ہے۔
 
-According to Al Jazeera
+First reported by Al Jazeera.
 
-#Chelsea #LeedsUnited #PremierLeague #Football
+#UKPolice #Protest #AlJazeera #Acton #UKNews
 ```
 
-### Russian strike kills two and wounds 60 in Kryvyi Rih  [NORMAL]
-- Poster: کریوی ریہ میں روسی حملے کے نتیجے میں 2 افراد ہلاک اور 60 زخمی / Russian strike kills two and wounds 60 in Kryvyi Rih | category war
-- Alternative headline: Deadly Russian attack hits Zelenskyy's hometown of Kryvyi Rih
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Kryvyi Rih, Russia Ukraine war, Zelenskyy, missile strike, Poland | hashtags: #UkraineWar #Russia #KryvyiRih #BreakingNews
-- Scheduled: Sat 21 Nov, 11:51 PM PKT
-- Caption:
-```
-A Russian missile strike on President Zelenskyy's hometown of Kryvyi Rih has killed two people and wounded 60 others.
-
-A Russian strike on Kryvyi Rih, the hometown of Ukrainian President Volodymyr Zelenskyy, has left two people dead and 60 others wounded. The attack coincided with missiles landing in NATO member Poland amid uncertain peace efforts.
-
-یوکرینی صدر ولادیمیر زیلنسکی کے آبائی شہر کریوی ریہ پر روسی حملے میں 2 افراد ہلاک اور 60 زخمی ہو گئے۔ اس حملے کے دوران نیٹو رکن پولینڈ میں بھی میزائل گرنے کی اطلاعات ہیں۔
-
-According to Al Jazeera
-
-#UkraineWar #Russia #KryvyiRih #BreakingNews
-```
-
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 25 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
-- [needs_review] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
 - [needs_review] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
 - [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
 - [needs_review] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
@@ -338,7 +337,7 @@ According to Al Jazeera
 - [published] normal | Rizwan, Masood, and Ayub dropped as PCB unveils central contracts | Sat 21 Nov, 04:42 PM PKT
 - [needs_review] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
 - [published] normal | Zelensky calls Crimean Bridge strikes a fair response to Russian attac | Sat 21 Nov, 07:22 PM PKT
-- [queued] normal | Pakistan Cricket Board announces new central contracts list for 38 pla | Sat 21 Nov, 07:32 PM PKT
+- [published] normal | Pakistan Cricket Board announces new central contracts list for 38 pla | Sat 21 Nov, 07:32 PM PKT
 - [queued] normal | Princess of Wales discusses cancer journey in new documentary Heal | Sat 21 Nov, 07:42 PM PKT
 - [queued] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
 - [queued] normal | Former Nvidia CEO Jensen Huang to testify at public US Senate hearing | Sat 21 Nov, 08:17 PM PKT
@@ -361,18 +360,26 @@ According to Al Jazeera
 - [queued] normal | Punjab Workers Welfare Fund launches new WhatsApp helpline | Sat 21 Nov, 11:31 PM PKT
 - [queued] normal | Chelsea suffer shock 4-1 home defeat against Leeds United | Sat 21 Nov, 11:41 PM PKT
 - [queued] normal | Russian strike kills two and wounds 60 in Kryvyi Rih | Sat 21 Nov, 11:51 PM PKT
+- [queued] normal | Trump Pushes For Permanent Deal To Block Iran Nuclear Program | Sun 22 Nov, 12:24 AM PKT
+- [queued] normal | Kaliningrad-Bound Ship Struck By Drones In Gulf Of Finland | Sun 22 Nov, 12:34 AM PKT
+- [queued] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 12:44 AM PKT
+- [queued] normal | UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt | Sun 22 Nov, 12:54 AM PKT
 
 ## Publishing this run
-- Published 'Zelensky calls Crimean Bridge strikes a fair response to Russian attacks'.
+- Published 'Pakistan Cricket Board announces new central contracts list for 38 players'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4170 | output tokens: 2234
-- Errors: 2
+- Calls: 4 | prompt tokens: 4871 | output tokens: 2174
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 429 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
