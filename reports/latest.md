@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 09:55 PM PKT
+# News Hub report - Sat 21 Nov, 10:39 PM PKT
 
 ## Collection
-- New items this run: 57 | items in rolling pool: 646
-- Unique story clusters: 567 (duplicates merged: 79)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 34, Engadget 5, Geo News 3, Al Jazeera 2, TechJuice 2, samaa tv 1, The Express Tribune 1, Pakistan Today 1, Reuters 1, BBC Science 1, The National 1, Roger Pielke Jr. | Substack 1
+- New items this run: 34 | items in rolling pool: 634
+- Unique story clusters: 553 (duplicates merged: 81)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 9
+- Items per outlet: Geo News 4, Al Jazeera 4, samaa tv 3, Dawn 3, Engadget 3, Pakistan Today 3, The Express Tribune 2, Dawn Pakistan 2, ARY News 2, TechJuice 2, ARYnews.tv 1, UrduPoint 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Newcastle United vs Arsenal LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Independent review ordered into surgery carried out by NHS Grampian | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Security forces kill 15 terrorists in two Mastung operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CCD's school bag inspections in Punjab spark criticism on social media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - French presidential candidate blames media for racist attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India’s opposition stages protests against Meta over account removals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Newcastle United vs Arsenal LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Independent review ordered into surgery carried out by NHS Grampian | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Security forces kill 15 terrorists in two Mastung operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CCD's school bag inspections in Punjab spark criticism on social media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - French presidential candidate blames media for racist attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India’s opposition stages protests against Meta over account removals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Newcastle United vs Arsenal LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Independent review ordered into surgery carried out by NHS Grampian | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Security forces kill 15 terrorists in two Mastung operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CCD's school bag inspections in Punjab spark criticism on social media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - French presidential candidate blames media for racist attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India’s opposition stages protests against Meta over account removals | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,109 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Africa's CAF Backs FIFA President Infantino's Re-election  [NORMAL]
-- Poster: افریقہ کی جانب سے فیفا صدر انفیٹینو کی حمایت کا اعلان / Africa Backs FIFA President Infantino | category sports
-- Alternative headline: Motsepe Reaffirms African Support for FIFA Head Gianni Infantino
+### Indian opposition issues ultimatum to Meta over account removals  [NORMAL]
+- Poster: فیس بک اکاؤنٹس کی معطلی پر بھارتی اپوزیشن کا الٹی میٹم / Indian opposition warns Meta over account bans | category us_politics
+- Alternative headline: Meta faces seven-day deadline from Indian opposition over bans
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Gianni Infantino, CAF, Motsepe, FIFA, Diallo, football | hashtags: #FIFA #GianniInfantino #CAF #Football #Sports
-- Scheduled: Sat 21 Nov, 09:55 PM PKT
+- Keywords: Meta, India opposition, account removals, Indian Youth Congress, ultimatum | hashtags: #Meta #India #YouthCongress #SocialMedia
+- Scheduled: Sat 21 Nov, 10:39 PM PKT
 - Caption:
 ```
-African football leadership has joined South America in offering unanimous backing for FIFA President Gianni Infantino's upcoming re-election bid.
+Indian opposition parties have issued a strict seven-day ultimatum to technology giant Meta, demanding the immediate restoration of removed accounts.
 
-Africa's football governing body CAF has joined South America's CONMEBOL in giving unanimous support to FIFA President Gianni Infantino's re-election bid, with Diallo also present at the gathering.
+India’s opposition has launched protests against tech giant Meta over the removal of accounts. The Indian Youth Congress issued a seven-day ultimatum urging the company to lift all restrictions.
 
-افریقہ کے فٹبال گورننگ باڈی سی اے ایف نے جنوبی امریکہ کے کونمبول کے ساتھ مل کر فیفا کے صدر گیانی انفیٹینو کی دوبارہ انتخاب کے لیے متفقہ حمایت کا اعلان کر دیا ہے۔
+بھارت میں اپوزیشن جماعتوں نے سوشل میڈیا پلیٹ فارم میٹا کی جانب سے اکاؤنٹس ہٹانے کے خلاف احتجاج شروع کر دیا ہے۔ انڈین یوتھ کانگریس نے تمام پابندیاں ہٹانے کے لیے سات روزہ الٹی میٹم جاری کیا ہے۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#FIFA #GianniInfantino #CAF #Football #Sports
+#Meta #India #YouthCongress #SocialMedia
 ```
 
-### Newcastle United Faces Arsenal in Premier League Clash  [NORMAL]
-- Poster: پریمیئر لیگ: نیوکاسل یونائیٹڈ اور آرسنال کا مقابلہ / Newcastle vs Arsenal in Premier League | category sports
-- Alternative headline: Live Updates: Newcastle United Take on Arsenal in Premier League
+### Security forces eliminate 15 terrorists in Balochistan's Mastung  [NORMAL]
+- Poster: مستونگ میں دو کارروائیاں، 15 دہشت گرد ہلاک / 15 terrorists killed in Mastung operations | category security
+- Alternative headline: Fifteen militants killed across two operations in Mastung
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxNRV9UZEZsaXd1ZU5IRTdtbWozSS1tV0ZBbDE3LUY2d1VicFRLRzEtcjA3cFY1eE5iYU5aX1F6UWw1aWFVS0xkSDl3YmFkNEV1SE1ia2ZzakZfbTd2REVVZG9jb0Q5TWZaT0ZsSzJxRXBZSW02QmI5dTBQVDZFNXhFdlJPLWlvSXVoUnFPWThwYkk0bXg0dnlF?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxNRV9UZEZsaXd1ZU5IRTdtbWozSS1tV0ZBbDE3LUY2d1VicFRLRzEtcjA3cFY1eE5iYU5aX1F6UWw1aWFVS0xkSDl3YmFkNEV1SE1ia2ZzakZfbTd2REVVZG9jb0Q5TWZaT0ZsSzJxRXBZSW02QmI5dTBQVDZFNXhFdlJPLWlvSXVoUnFPWThwYkk0bXg0dnlF?oc=5
+- Supporting coverage: samaa tv, ARY News, Geo News, Geo News, Dawn Pakistan, Dawn
+- Keywords: Mastung operation, security forces, terrorists killed, Balochistan, militants neutralized | hashtags: #Mastung #Balochistan #SecurityForces #Pakistan
+- Scheduled: Sat 21 Nov, 10:49 PM PKT
+- Caption:
+```
+Security forces have successfully neutralized 15 terrorists during two separate intelligence-based operations in Balochistan's Mastung district.
+
+Security forces killed 15 terrorists during two separate operations in Balochistan's Mastung district, according to state media and reports from various news outlets.
+
+بلوچستان کے ضلع مستونگ میں سکیورٹی فورسز نے دو مختلف کارروائیوں کے دوران 15 دہشت گردوں کو ہلاک کر دیا ہے۔
+
+First reported by Samaa TV; also reported by ARY News, Geo News, Dawn Pakistan, and The Express Tribune
+
+#Mastung #Balochistan #SecurityForces #Pakistan
+```
+
+### Punjab CCD school bag checks spark social media debate  [NORMAL]
+- Poster: سکول کے بچوں کے بستوں کی تلاشی پر بحث چھڑ گئی / CCD school bag checks spark debate in Punjab | category crime
+- Alternative headline: Law enforcement bag inspections in Punjab draw mixed reactions
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046138/ccds-school-bag-inspections-in-punjab-spark-criticism-on-social-media | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046138/ccds-school-bag-inspections-in-punjab-spark-criticism-on-social-media
+- Supporting coverage: Dawn Pakistan, Dawn
+- Keywords: CCD school bag checks, Punjab education, vapes and cigarettes, social media criticism, Crime Control Department | hashtags: #Punjab #CCD #Lahore #StudentsRights
+- Scheduled: Sat 21 Nov, 10:59 PM PKT
+- Caption:
+```
+Punjab's Crime Control Department has initiated school bag inspections outside educational institutions, triggering widespread debate over student rights and legality.
+
+Punjab’s Crime Control Department has launched a campaign checking students' school bags for cigarettes and vapes outside institutions. While some support the anti-drug measure, others criticize the legality and involvement of law enforcement.
+
+پنجاب کے کرائم کنٹرول ڈیپارٹمنٹ نے تعلیمی اداروں کے باہر طلباء کے بستوں کی تلاشی کی مہم شروع کی ہے، جس پر سوشل میڈیا پر بحث چھڑ گئی ہے کہ آیا قانون نافذ کرنے والے اداروں کا یہ اقدام درست ہے یا نہیں۔
+
+First reported by Dawn Pakistan
+
+#Punjab #CCD #Lahore #StudentsRights
+```
+
+### French presidential candidate blames media for racist attack  [NORMAL]
+- Poster: فرانسیسی صدارتی امیدوار کا حملے کا الزام میڈیا پر / French candidate blames media for racist attack | category world
+- Alternative headline: Media blamed by French presidential hopeful following racist assault
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Premier League, Newcastle United, Arsenal, live updates, football, match | hashtags: #PremierLeague #NewcastleUnited #Arsenal #NewARS #Football
-- Scheduled: Sat 21 Nov, 10:05 PM PKT
+- Keywords: French presidential candidate, racist attack, media blame, France politics | hashtags: #France #Media #Politics
+- Scheduled: Sat 21 Nov, 11:09 PM PKT
 - Caption:
 ```
-Catch all the live updates, analysis, and build-up from the Premier League showdown between Newcastle United and Arsenal.
+A French presidential candidate has publicly blamed the media following a racist attack.
 
-Football fans can follow live updates, pre-match analysis, and minute-by-minute text commentary as Newcastle United squares off against Arsenal in a crucial Premier League fixture.
+A French presidential candidate has placed blame on the media following a racist attack, according to reports.
 
-فٹبال کے شائقین نیوکاسل یونائیٹڈ اور آرسنال کے درمیان پریمیئر لیگ کے اہم مقابلے کی براہ راست اپ ڈیٹس اور تبصرے دیکھ سکتے ہیں۔
+فرانس میں ایک صدارتی امیدوار نے نسلی حملے کے بعد میڈیا کو اس کا ذمہ دار ٹھہرایا ہے۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#PremierLeague #NewcastleUnited #Arsenal #NewARS #Football
-```
-
-### Tankers Hit in Strait of Hormuz Amid Rising Tensions  [NORMAL]
-- Poster: آبنائے ہرمز میں ٹینکرز پر حملے، جہاز رانی متاثر / Tankers Hit in Strait of Hormuz | category security
-- Alternative headline: Strait of Hormuz Incidents: Tankers Damaged Near Oman
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Strait of Hormuz, tankers, Iran, Oman, maritime, shipping | hashtags: #StraitOfHormuz #Iran #Shipping #MaritimeSecurity #BreakingNews
-- Scheduled: Sat 21 Nov, 10:15 PM PKT
-- Caption:
-```
-A British maritime agency reports multiple incidents involving tankers near Oman as regional shipping tensions escalate.
-
-Two shipping incidents have been reported near Oman in the Strait of Hormuz by a British maritime agency, while Iranian authorities claim a tanker caught fire due to a naval mine.
-
-برطانوی بحری ایجنسی نے عمان کے قریب دو بحری واقعات کی اطلاع دی ہے، جبکہ ایران کا کہنا ہے کہ بحری بارودی سرنگ کے باعث ایک ٹینکر میں آگ لگ گئی۔
-
-First reported by Al Jazeera.
-
-#StraitOfHormuz #Iran #Shipping #MaritimeSecurity #BreakingNews
-```
-
-### Independent Review Ordered into NHS Grampian Surgery Deaths  [NORMAL]
-- Poster: این ایچ ایس گرامپین میں مبینہ ہلاکتوں پر انکوائری کا حکم / Independent Review into NHS Grampian | category health
-- Alternative headline: Scottish Government Orders Probe into NHS Grampian Avoidable Deaths
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: NHS Grampian, independent review, surgery, whistleblower, Scottish government, patient safety | hashtags: #NHSGrampian #PatientSafety #Healthcare #Scotland #News
-- Scheduled: Sat 21 Nov, 10:25 PM PKT
-- Caption:
-```
-The Scottish government has ordered an independent review after leaked documents revealed dozens of avoidable deaths at NHS Grampian.
-
-The Scottish government has initiated an independent review into hepatobiliary surgery at NHS Grampian. A leaked whistleblower report revealed 19 out of 31 liver and pancreatic surgery deaths between cases were considered avoidable, prompting demands for strict accountability.
-
-سکاٹش حکومت نے این ایچ ایس گرامپین میں جگر اور لبلبے کی سرجری کے معاملات پر ایک آزادانہ جائزے کا حکم دیا ہے، جہاں مبینہ طور پر 19 اموات سے بچا جا سکتا تھا۔
-
-First reported by BBC Health.
-
-#NHSGrampian #PatientSafety #Healthcare #Scotland #News
+#France #Media #Politics
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 23 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
+- News posts published today: 24 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
 
 ## Queue status
-- [needs_review] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
 - [needs_review] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
 - [needs_review] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
 - [needs_review] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
@@ -337,9 +336,9 @@ First reported by BBC Health.
 - [needs_review] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
 - [published] normal | Three US citizens among four convicted in Honduras sex-trafficking cas | Sat 21 Nov, 03:59 PM PKT
 - [queued] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
-- [queued] normal | Govt rejects PTI demand on electoral reforms committee | Sat 21 Nov, 04:22 PM PKT
-- [queued] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
-- [queued] normal | Rizwan, Masood, and Ayub dropped as PCB unveils central contracts | Sat 21 Nov, 04:42 PM PKT
+- [needs_review] normal | Govt rejects PTI demand on electoral reforms committee | Sat 21 Nov, 04:22 PM PKT
+- [needs_review] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
+- [published] normal | Rizwan, Masood, and Ayub dropped as PCB unveils central contracts | Sat 21 Nov, 04:42 PM PKT
 - [queued] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
 - [queued] normal | Zelensky calls Crimean Bridge strikes a fair response to Russian attac | Sat 21 Nov, 07:22 PM PKT
 - [queued] normal | Pakistan Cricket Board announces new central contracts list for 38 pla | Sat 21 Nov, 07:32 PM PKT
@@ -357,19 +356,19 @@ First reported by BBC Health.
 - [queued] normal | Newcastle United Faces Arsenal in Premier League Clash | Sat 21 Nov, 10:05 PM PKT
 - [queued] normal | Tankers Hit in Strait of Hormuz Amid Rising Tensions | Sat 21 Nov, 10:15 PM PKT
 - [queued] normal | Independent Review Ordered into NHS Grampian Surgery Deaths | Sat 21 Nov, 10:25 PM PKT
+- [queued] normal | Indian opposition issues ultimatum to Meta over account removals | Sat 21 Nov, 10:39 PM PKT
+- [queued] normal | Security forces eliminate 15 terrorists in Balochistan's Mastung | Sat 21 Nov, 10:49 PM PKT
+- [queued] normal | Punjab CCD school bag checks spark social media debate | Sat 21 Nov, 10:59 PM PKT
+- [queued] normal | French presidential candidate blames media for racist attack | Sat 21 Nov, 11:09 PM PKT
 
 ## Publishing this run
-- Published 'Three US citizens among four convicted in Honduras sex-trafficking case'.
+- Published 'Rizwan, Masood, and Ayub dropped as PCB unveils central contracts'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 4437 | output tokens: 2177
-- Errors: 3
+- Calls: 3 | prompt tokens: 4962 | output tokens: 1741
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

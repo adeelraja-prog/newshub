@@ -104091,7 +104091,359 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8003116ae3f4ad44e338eaa0",
+      "remembered_at": "2026-11-21T17:39:07.731664+00:00",
+      "event_date": "2026-11-21T15:50:33+00:00",
+      "last_update": "2026-11-21T17:28:27+00:00",
+      "event": "Security forces kill 15 terrorists in two Mastung operations",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "forces",
+        "kill",
+        "mastung",
+        "operations",
+        "samaa",
+        "security",
+        "terrorists",
+        "two"
+      ],
+      "source_excerpt": "Security forces kill 15 terrorists in two Mastung operations samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRV9UZEZsaXd1ZU5IRTdtbWozSS1tV0ZBbDE3LUY2d1VicFRLRzEtcjA3cFY1eE5iYU5aX1F6UWw1aWFVS0xkSDl3YmFkNEV1SE1ia2ZzakZfbTd2REVVZG9jb0Q5TWZaT0ZsSzJxRXBZSW02QmI5dTBQVDZFNXhFdlJPLWlvSXVoUnFPWThwYkk0bXg0dnlF?oc=5",
+          "published_at": "2026-11-21T15:50:33+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/15-militants-neutralized-in-security-operations-in-balochistan",
+          "published_at": "2026-11-21T15:55:34+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692107-security-forces-kill-15-terrorists-in-balochistans-mastung-sources",
+          "published_at": "2026-11-21T17:03:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcnRxWWZvVG9aSE13X01zbnBxcFJYMzhaSENWeXZ1Q1RUZ0FWTFQzV29LZjZaU0NjamUwWHV3QkpIZW9jNGZyWkhRbTNhUzE5ZlVGcnpzRkJMTTdNQ3h3bDlEOWs2T1Z1UUpaQUd5WW0wYmNPdzNRaVBFYTZqSWRmMG5GZnAyQXdWVG52LUVMWFJDcEtXYjNRRzM5QlF1RE16?oc=5",
+          "published_at": "2026-11-21T17:03:00+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046137/security-forces-kill-15-terrorists-in-balochistans-mastung-district-state-media",
+          "published_at": "2026-11-21T17:17:00+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmhMeTNTajR1LXlaZ1BZMk0tUWU5a2pwWnA5RUVFZWxHUUFiMWtuMlBCT3h2WEZVWEk2SVpDazRTVUFIaFRfZWxScWJhS1RiYlZlcTBXeXV2ZWc2RURmSTRzRzdDbWVNV205YzlHZWR6UUV5TjA3cEFMVjM0R1Y2dmlaR0xWbjF3U2RRNjc0SEptLVoxdEh5YW04QXIyRmViUlJmSTFTaVJ3OVdDaG9INkgxVQ?oc=5",
+          "published_at": "2026-11-21T17:17:00+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWZpaXlERGs2WEhiN0dIcExxdlJSbFNNSnFZMzA4QlVSX3IwQnJIUHlCZFZmUnc1VkJtRkdhcGpQV3BpLWxKVGxVb1RDX252Ymd3Nmtpdkk2UEpsNk9pOWZ1bDJRV1B4Q3VweU01ZW9ZWml1SmFJbGV2ejc4c2RfM2U2WUgzVXBINHVKYVdCZEVTR21NX3VCU29tRTQ4dTd1UGY0THlveHZvMWJiNExSUWRaZXo3b0RBeXQ4emhXM3FGeGc?oc=5",
+          "published_at": "2026-11-21T17:28:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRV9UZEZsaXd1ZU5IRTdtbWozSS1tV0ZBbDE3LUY2d1VicFRLRzEtcjA3cFY1eE5iYU5aX1F6UWw1aWFVS0xkSDl3YmFkNEV1SE1ia2ZzakZfbTd2REVVZG9jb0Q5TWZaT0ZsSzJxRXBZSW02QmI5dTBQVDZFNXhFdlJPLWlvSXVoUnFPWThwYkk0bXg0dnlF?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fc1d06edde58fab8144e87ff",
+      "remembered_at": "2026-11-21T17:39:07.731664+00:00",
+      "event_date": "2026-11-21T16:57:59+00:00",
+      "last_update": "2026-11-21T16:57:59+00:00",
+      "event": "CCD's school bag inspections in Punjab spark criticism on social media",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bag",
+        "bags",
+        "ccd",
+        "checking",
+        "cigarettes",
+        "control",
+        "crime",
+        "criticism",
+        "department",
+        "disciplining",
+        "drawing",
+        "educational",
+        "enforcement",
+        "for",
+        "from",
+        "has",
+        "inspections",
+        "institutions",
+        "intoxicating",
+        "involvement",
+        "lahore",
+        "law",
+        "media",
+        "other",
+        "outside",
+        "over",
+        "personnel",
+        "punjab",
+        "school",
+        "social",
+        "spark",
+        "started",
+        "students",
+        "substances",
+        "the",
+        "users",
+        "vapes"
+      ],
+      "source_excerpt": "LAHORE: Punjab’s Crime Control Department (CCD) has started checking students’ school bags outside educational institutions for cigarettes, vapes and other intoxicating substances, drawing criticism from social media users over the involvement of law enforcement personnel in disciplining students. A",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046138/ccds-school-bag-inspections-in-punjab-spark-criticism-on-social-media",
+          "published_at": "2026-11-21T16:57:59+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0trYlZRYmhzOE03a01oX01mV25pQWphR25iT0FNVDdyM1hpTUkzcGdVd29ydTIzNEtFRnRZb2UwT1N4aXZzeF9yZC1YOWRPQWhFMjB3YjRSclVGRUdRZjVQNDJDcVVZb0ZIU2NKZ1NUd01USV94b05GUGR6MHJmcDJiVXJLZjFhcHlvS3BUNkItVzNpRkkwLUViNlM3TDZBVWY5S1lB?oc=5",
+          "published_at": "2026-11-21T16:57:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046138/ccds-school-bag-inspections-in-punjab-spark-criticism-on-social-media",
+        "publisher_url": "https://www.dawn.com/news/2046138/ccds-school-bag-inspections-in-punjab-spark-criticism-on-social-media",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "be727b851e89c94ded2b62d1",
+      "remembered_at": "2026-11-21T17:39:07.731664+00:00",
+      "event_date": "2026-11-21T17:21:37+00:00",
+      "last_update": "2026-11-21T17:21:37+00:00",
+      "event": "Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "above",
+        "and",
+        "beaten",
+        "bridge",
+        "chelsea",
+        "climb",
+        "come",
+        "defeat",
+        "down",
+        "from",
+        "goal",
+        "home",
+        "hosts",
+        "league",
+        "leeds",
+        "premier",
+        "shock",
+        "sixth",
+        "stamford",
+        "their",
+        "united"
+      ],
+      "source_excerpt": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
+          "published_at": "2026-11-21T17:21:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b15b6a72b9ff7f10742f99e9",
+      "remembered_at": "2026-11-21T17:39:07.731664+00:00",
+      "event_date": "2026-11-21T17:20:03+00:00",
+      "last_update": "2026-11-21T17:20:20+00:00",
+      "event": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attack",
+        "comes",
+        "efforts",
+        "face",
+        "hometown",
+        "kills",
+        "kryvyi",
+        "land",
+        "led",
+        "member",
+        "missiles",
+        "nato",
+        "peace",
+        "poland",
+        "rih",
+        "russian",
+        "strike",
+        "two",
+        "uncertainty",
+        "wounds",
+        "zelenskyy"
+      ],
+      "source_excerpt": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+          "published_at": "2026-11-21T17:20:03+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0hQZ19MeU5Jc2FhSmswLUJ4V202NlpfZjNFTllYa21DVi1BTzYwWXQycnM5UHFVM21LWWpoalFGWHMxbkFoV0JNUDllY1hyWUVaMU5fNmJVeGVVUUJLaXdTbnpBdFFFTkZBUnpQX0xyb0d6Tm5JQ25qelMyeU50T1hpZFNtR3hXN1JpcWRQSldicWtjR1ZDSVBoYkdjbDZV0gGmAUFVX3lxTE1XQk01eDBoOEd5Wm8wXzVORXd2Y1VRS1hWRjJ2NC1mZldyQjlNcnZMT1FsLUp6cXV6YjJFeWd4WGNoZGE4WTVYR0NnLUJ1SXVQVDRZWjdQbjc2V01OengzbkE0QjdBcnNoTERDbnA1X3pBNFptMjNfUkVzZnQ5dUM2VXBveTV4bERieXpxZDJLV2VvRG4wdWV2NzVLX3JUTE54TnlZNWc?oc=5",
+          "published_at": "2026-11-21T17:20:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e2facfc37a5d822a46d0c25b",
+      "remembered_at": "2026-11-21T17:39:07.731664+00:00",
+      "event_date": "2026-11-21T16:57:28+00:00",
+      "last_update": "2026-11-21T16:57:28+00:00",
+      "event": "Qatari delegation visited Tehran for talks: Iran deputy FM",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "delegation",
+        "deputy",
+        "for",
+        "iran",
+        "qatari",
+        "talks",
+        "tehran",
+        "visited"
+      ],
+      "source_excerpt": "Qatari delegation visited Tehran for talks: Iran deputy FM ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUw2VHVYZTZaMThfaVZWWFlzSFJMRzlpaXJWdnMwbEpDU2QzT0hGODFoVEZUaGVvV1RWWTRabDc5Z05EQUJVMzY5d0gwR3plYnZtdFh5aURIRkkyZFY4R1FPeUQ0YWNwOGJDMGswd2gzVnJsNmlRRlhGNUR0ZXZHeDJzWQ?oc=5",
+          "published_at": "2026-11-21T16:57:28+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/qatari-delegation-visited-tehran-for-talks-iran-deputy-fm",
+          "published_at": "2026-11-21T16:57:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUw2VHVYZTZaMThfaVZWWFlzSFJMRzlpaXJWdnMwbEpDU2QzT0hGODFoVEZUaGVvV1RWWTRabDc5Z05EQUJVMzY5d0gwR3plYnZtdFh5aURIRkkyZFY4R1FPeUQ0YWNwOGJDMGswd2gzVnJsNmlRRlhGNUR0ZXZHeDJzWQ?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3372cb2251f5c70fcc93d08f",
+      "remembered_at": "2026-11-21T17:39:07.731664+00:00",
+      "event_date": "2026-11-21T16:56:46+00:00",
+      "last_update": "2026-11-21T16:56:46+00:00",
+      "event": "PSL 12: Islamabad United close to signing New Zealand bowler Matt Henry",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bowler",
+        "close",
+        "henry",
+        "islamabad",
+        "matt",
+        "new",
+        "psl",
+        "samaa",
+        "signing",
+        "united",
+        "zealand"
+      ],
+      "source_excerpt": "PSL 12: Islamabad United close to signing New Zealand bowler Matt Henry samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1c0c2twLTdrYkVrYVZfRjBXY25kZnh0bGUtR0xDSHh0dVN1UzdGbjdIbWlmMTg1dEFfZ2x0MDAyRk1SN3dzM2xtMEREWGVzMHg5YlNUR0RNdHo1czNhRTExZ20xeXRuV1FPMFBvdnhXUU9tMEViUkp4TDVVc3B5NHUySk5fT2Jlc1FJMWN4c0FXOFFMNzlsc1B6TkZDRy1haW9WWXBKSVIyU3dhNWc?oc=5",
+          "published_at": "2026-11-21T16:56:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1c0c2twLTdrYkVrYVZfRjBXY25kZnh0bGUtR0xDSHh0dVN1UzdGbjdIbWlmMTg1dEFfZ2x0MDAyRk1SN3dzM2xtMEREWGVzMHg5YlNUR0RNdHo1czNhRTExZ20xeXRuV1FPMFBvdnhXUU9tMEViUkp4TDVVc3B5NHUySk5fT2Jlc1FJMWN4c0FXOFFMNzlsc1B6TkZDRy1haW9WWXBKSVIyU3dhNWc?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T16:55:04.988790+00:00"
+  "updated_at": "2026-11-21T17:39:07.731664+00:00"
 }
