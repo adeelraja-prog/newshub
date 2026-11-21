@@ -1,35 +1,35 @@
-# News Hub report - Sun 22 Nov, 02:47 AM PKT
+# News Hub report - Sun 22 Nov, 03:26 AM PKT
 
 ## Collection
-- New items this run: 23 | items in rolling pool: 338
-- Unique story clusters: 301 (duplicates merged: 37)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 4
-- Items per outlet: Al Jazeera 7, Pakistan Today 5, Engadget 3, TechCrunch 2, The News International 1, GSMArena 1, BBC Health 1, BBC World 1, Around Prague 1, Reuters 1
+- New items this run: 15 | items in rolling pool: 319
+- Unique story clusters: 286 (duplicates merged: 33)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 3
+- Items per outlet: The Express Tribune 3, Engadget 3, Dawn Latest 1, Geo News 1, Al Jazeera 1, The Verge 1, Ars Technica 1, BBC World 1, Pakistan Today 1, Haaretz 1, Around Prague 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Mexico captures drug kingpin on FBI's most wanted list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thousands protest across Europe over living costs and housing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - AOC challenged over AIPAC’s influence on Democratic leadership | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why is the US Army detonating lead-rich explosives in Iowa? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bahrain says Iranian attack causes fire at industrial facility | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Impunity fuels surge in settler violence across occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says held talks with Qatari mediators, urges US to accept conditions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It gives me the ick': Can you cheat on someone with a video game? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Mexico captures drug kingpin on FBI's most wanted list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thousands protest across Europe over living costs and housing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - AOC challenged over AIPAC’s influence on Democratic leadership | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why is the US Army detonating lead-rich explosives in Iowa? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bahrain says Iranian attack causes fire at industrial facility | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Impunity fuels surge in settler violence across occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says held talks with Qatari mediators, urges US to accept conditions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It gives me the ick': Can you cheat on someone with a video game? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Mexico captures drug kingpin on FBI's most wanted list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thousands protest across Europe over living costs and housing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - AOC challenged over AIPAC’s influence on Democratic leadership | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why is the US Army detonating lead-rich explosives in Iowa? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bahrain says Iranian attack causes fire at industrial facility | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Impunity fuels surge in settler violence across occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says held talks with Qatari mediators, urges US to accept conditions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It gives me the ick': Can you cheat on someone with a video game? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,82 +38,82 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Jair Bolsonaro Admitted to Intensive Care With Bowel Obstruction  [NORMAL]
-- Poster: برازیলের سابق صدر جائیر بولسونارو شدید بیماری کے باعث آئی سی یو میں داخل / Bolsonaro in ICU with Bowel Obstruction | category health
-- Alternative headline: Former Brazilian President Jair Bolsonaro Hospitalized in ICU
+### Iran sets condition for reopening strait through Qatari mediators  [NORMAL]
+- Poster: ایران نے آبراه کی بندش ختم کرنے کے لیے شرائط سامنے رکھ دیں / Iran sets conditions for reopening strait | category us_politics
+- Alternative headline: Iran tells US to accept conditions for reopening strait
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Jair Bolsonaro, intensive care, bowel obstruction, Brazil, hospital, former president | hashtags: #JairBolsonaro #Brazil #ICU #HealthNews #AlJazeera
-- Scheduled: Sun 22 Nov, 02:47 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Iran US talks, Qatari mediators, strait, foreign minister, conditions | hashtags: #Iran #US #Qatar #MiddleEast #News
+- Scheduled: Sun 22 Nov, 03:26 AM PKT
 - Caption:
 ```
-Former Brazilian president Jair Bolsonaro has been admitted to intensive care suffering from a bowel obstruction, though officials report he remains stable.
+Iran says reopening the strategic strait is not difficult if the United States accepts reasonable conditions following talks with Qatari mediators.
 
-Former Brazilian president Jair Bolsonaro, currently serving a sentence for plotting a coup, has been admitted to intensive care due to a bowel obstruction. According to the hospital, his condition is stable and he is currently breathing on his own.
+Iran's foreign minister announced that reopening the strait is not difficult provided the US accepts reasonable conditions. The statement follows discussions held with Qatari mediators regarding regional tensions.
 
-برازیলের سابق صدر جائیر بولسونارو، جو اس وقت بغاوت کی سازش کے الزام میں سزا کاٹ رہے ہیں، آنتوں میں رکاوٹ کے باعث انتہائی نگہداشت کے وارڈ میں داخل ہیں۔ اسپتال کے مطابق ان کی حالت مستحکم ہے اور وہ خود سانس لے رہے ہیں۔
+ایران کے وزیر خارجہ نے کہا ہے کہ اگر امریکہ مناسب شرائط قبول کر لے تو آبنائے کو کھولنا مشکل نہیں۔ یہ بیان قطری ثالثوں کے ساتھ ہونے والی بات چیت کے بعد سامنے آیا ہے۔
 
 First reported by Al Jazeera
 
-#JairBolsonaro #Brazil #ICU #HealthNews #AlJazeera
+#Iran #US #Qatar #MiddleEast #News
 ```
 
-### Mexico Captures FBI Most Wanted Drug Kingpin in Dramatic Raid  [NORMAL]
-- Poster: میکسیکو کی فوج نے ایف بی آئی کے مطلوب ترین منشیات فروش کو گرفتار کر لیا / Mexico Captures FBI Most Wanted Drug Kingpin | category crime
-- Alternative headline: Mexican Special Forces Arrest Top Ten FBI Fugitive Chapo Isidro
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692103-mexico-captures-drug-kingpin-on-fbis-most-wanted-list | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692103-mexico-captures-drug-kingpin-on-fbis-most-wanted-list
-- Supporting coverage: Geo News, BBC World
-- Keywords: Chapo Isidro, Mexico, FBI most wanted, drug kingpin, Sinaloa cartel, military raid | hashtags: #Mexico #FBIWanted #Cartel #ChapoIsidro #Geonews
-- Scheduled: Sun 22 Nov, 02:57 AM PKT
-- Caption:
-```
-Mexican special forces have captured Fausto Isidro Meza, an FBI most wanted drug kingpin, following a fierce firefight in Sinaloa.
-
-Mexico's military has captured Fausto Isidro Meza, known as 'Chapo Isidro', who was on the FBI's list of 10 most wanted fugitives. He and two other suspects were seized during a special forces operation and shootout in Guasave, Sinaloa, which caused panic near a local baseball stadium.
-
-میکسیکو کی فوج نے ایف بی آئی کے 10 انتہائی مطلوب مفروروں میں شامل فاوستو اسیڈرو میزا کو گرفتار کر لیا ہے۔ سناولوا کے علاقے گواساو میں اسپیشل فورسز کے آپریشن اور فائرنگ کے تبادلے کے دوران اسے دو دیگر افراد کے ساتھ حراست میں لیا گیا، جس سے ایک مقامی بیس بال اسٹیڈیم کے قریب خوف و ہراس پھیل گیا۔
-
-First reported by Geo News and BBC World
-
-#Mexico #FBIWanted #Cartel #ChapoIsidro #Geonews
-```
-
-### Thousands Protest Across Europe Over Soaring Living Costs and Housing  [NORMAL]
-- Poster: مہنگائی اور رہائشی بحران کے خلاف یورپ بھر میں ہزاروں افراد کا احتجاج / Thousands Protest Across Europe Over Costs | category economy
-- Alternative headline: European Citizens Take to the Streets Amid Severe Economic Hardship
+### AOC challenged by activist over Democratic leadership's AIPAC ties  [NORMAL]
+- Poster: اے او سی کو اے آئی پی اے سی کے اثر و رسوخ پر چیلنج کر دیا گیا / AOC challenged over AIPAC influence | category other
+- Alternative headline: Activist confronts AOC regarding support for Hakeem Jeffries and AIPAC
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Europe protests, living costs, housing, France, Portugal, inflation | hashtags: #EuropeProtests #CostOfLiving #HousingCrisis #Inflation #AlJazeera
-- Scheduled: Sun 22 Nov, 03:07 AM PKT
+- Keywords: AOC, AIPAC, Democratic leadership, Hakeem Jeffries, activist | hashtags: #AOC #AIPAC #USPolitics #Democrats #News
+- Scheduled: Sun 22 Nov, 03:36 AM PKT
 - Caption:
 ```
-Thousands of demonstrators have taken to the streets across European nations like France and Portugal to protest rising living costs and housing crises.
+US Representative Alexandria Ocasio-Cortez was confronted by an activist over her backing of Hakeem Jeffries due to his ties with AIPAC.
 
-Thousands of people have joined demonstrations across Europe, notably in France and Portugal, to protest against soaring living costs, housing shortages, and broader economic hardships. These protests follow a wave of youth-led movements addressing financial pressures and education concerns across the region.
+US Representative AOC faced a direct challenge from an activist questioning her support for Hakeem Jeffries. The confrontation highlighted concerns surrounding political ties to AIPAC within the Democratic leadership.
 
-فرانس اور پرتگال سمیت یورپ بھر میں ہزاروں افراد نے بڑھتی ہوئی مہنگائی، رہائشی بحران اور معاشی مشکلات کے خلاف مظاہروں میں حصہ لیا ہے۔ یہ احتجاج خطے بھر میں نوجوانوں کی قیادت میں ہونے والی ان تحریکوں کا تسلسل ہے جو معاشی دباؤ اور تعلیمی مسائل کے خلاف اٹھائی گئی ہیں۔
+امریکی نمائندہ اے او سی کو ایک کارکن کی طرف سے چیلنج کا سامنا کرنا پڑا جنہوں نے حکیم جفریز کی حمایت پر سوال اٹھایا۔ یہ معاملہ ڈیموکریٹک قیادت کے ساتھ اے آئی پی اے سی کے تعلقات پر روشنی ڈالتا ہے۔
 
 First reported by Al Jazeera
 
-#EuropeProtests #CostOfLiving #HousingCrisis #Inflation #AlJazeera
+#AOC #AIPAC #USPolitics #Democrats #News
+```
+
+### Bahrain reports industrial facility fire following Iranian attack  [NORMAL]
+- Poster: بحرین میں ایرانی حملے کے باعث صنعتی تنصیب میں آگ لگ گئی / Fire at Bahrain facility after Iran attack | category other
+- Alternative headline: Fire breaks out at Bahrain industrial facility after Iran attack
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera, Al Jazeera
+- Keywords: Bahrain attack, industrial facility, Iran, IRGC, fire | hashtags: #Bahrain #Iran #MiddleEast #Attack #News
+- Scheduled: Sun 22 Nov, 03:46 AM PKT
+- Caption:
+```
+Bahrain reports no injuries after an Iranian attack caused a fire at an industrial facility, while the IRGC claimed targeting US bases.
+
+Bahrain reported a fire at an industrial facility following an Iranian attack, confirming no injuries. Meanwhile, Iran's IRGC stated that the operation targeted US military positions at two bases in al-Riffa and Awali.
+
+بحرین میں ایرانی حملے کے بعد ایک صنعتی تنصیب میں آگ لگ گئی تاہم کسی جانی نقصان کی اطلاع نہیں ملی۔ دوسری جانب ایرانی پاسداران انقلاب نے دعویٰ کیا کہ اس نے فوجی اڈوں کو نشانہ بنایا۔
+
+First reported by Al Jazeera
+
+#Bahrain #Iran #MiddleEast #Attack #News
 ```
 
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
@@ -121,7 +121,6 @@ First reported by Al Jazeera
 - [needs_review] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
 - [needs_review] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
 - [needs_review] normal | Israeli military launches rare ground operation in Gaza beyond Yellow  | Thu 19 Nov, 02:50 AM PKT
-- [published] normal | Putin’s nuclear briefcase makes surprise appearance at China summit | Thu 19 Nov, 03:00 AM PKT
 - [needs_review] normal | Muslims projected to overtake Christians as world’s largest religious  | Thu 19 Nov, 03:10 AM PKT
 - [needs_review] normal | US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | Thu 19 Nov, 03:20 AM PKT
 - [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Thu 19 Nov, 03:41 AM PKT
@@ -316,9 +315,9 @@ First reported by Al Jazeera
 - [needs_review] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
 - [needs_review] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
 - [published] normal | Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup | Sat 21 Nov, 08:47 PM PKT
-- [queued] normal | US Midterms 2026: What happens before the new Congress takes office? | Sat 21 Nov, 09:06 PM PKT
-- [queued] normal | Chaudhary's 66 helps Australia edge past England in first T20 | Sat 21 Nov, 09:16 PM PKT
-- [queued] normal | Gujranwala: Neighbors arrested for mother and daughter's murder | Sat 21 Nov, 09:26 PM PKT
+- [needs_review] normal | US Midterms 2026: What happens before the new Congress takes office? | Sat 21 Nov, 09:06 PM PKT
+- [needs_review] normal | Chaudhary's 66 helps Australia edge past England in first T20 | Sat 21 Nov, 09:16 PM PKT
+- [published] normal | Gujranwala: Neighbors arrested for mother and daughter's murder | Sat 21 Nov, 09:26 PM PKT
 - [queued] normal | Could Iran reverse its stated policy of a civil-only nuclear programme | Sat 21 Nov, 09:36 PM PKT
 - [queued] normal | Africa's CAF Backs FIFA President Infantino's Re-election | Sat 21 Nov, 09:55 PM PKT
 - [queued] normal | Newcastle United Faces Arsenal in Premier League Clash | Sat 21 Nov, 10:05 PM PKT
@@ -344,12 +343,18 @@ First reported by Al Jazeera
 - [queued] normal | Jair Bolsonaro Admitted to Intensive Care With Bowel Obstruction | Sun 22 Nov, 02:47 AM PKT
 - [queued] normal | Mexico Captures FBI Most Wanted Drug Kingpin in Dramatic Raid | Sun 22 Nov, 02:57 AM PKT
 - [queued] normal | Thousands Protest Across Europe Over Soaring Living Costs and Housing | Sun 22 Nov, 03:07 AM PKT
+- [queued] normal | Iran sets condition for reopening strait through Qatari mediators | Sun 22 Nov, 03:26 AM PKT
+- [queued] normal | AOC challenged by activist over Democratic leadership's AIPAC ties | Sun 22 Nov, 03:36 AM PKT
+- [queued] normal | Bahrain reports industrial facility fire following Iranian attack | Sun 22 Nov, 03:46 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup'.
+- Published 'Gujranwala: Neighbors arrested for mother and daughter's murder'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 3243 | output tokens: 1622
+- Calls: 3 | prompt tokens: 4383 | output tokens: 1655
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i

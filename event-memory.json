@@ -107505,7 +107505,260 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "28304d639c3e6abf6c619089",
+      "remembered_at": "2026-11-21T22:26:03.574116+00:00",
+      "event_date": "2026-11-21T22:01:19+00:00",
+      "last_update": "2026-11-21T22:01:19+00:00",
+      "event": "Lock of former US President George Washington's hair sells for $4,000",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "1799",
+        "according",
+        "before",
+        "death",
+        "descendent",
+        "for",
+        "former",
+        "friendship",
+        "george",
+        "given",
+        "hair",
+        "its",
+        "lock",
+        "owner",
+        "president",
+        "sells",
+        "shortly",
+        "sign",
+        "the",
+        "was",
+        "washington"
+      ],
+      "source_excerpt": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T22:01:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b8df84080a7b303e520489aa",
+      "remembered_at": "2026-11-21T22:26:03.574116+00:00",
+      "event_date": "2026-11-21T22:06:00+00:00",
+      "last_update": "2026-11-21T22:06:00+00:00",
+      "event": "Prince Harry reveals Archie's unusual Winter Wonderland reward after outing",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "among",
+        "and",
+        "archie",
+        "cuddly",
+        "during",
+        "enjoying",
+        "family",
+        "festive",
+        "four",
+        "from",
+        "giant",
+        "gone",
+        "harry",
+        "has",
+        "home",
+        "london",
+        "meghan",
+        "octopus",
+        "old",
+        "opening",
+        "outing",
+        "popular",
+        "prince",
+        "reveals",
+        "reward",
+        "royal",
+        "seven",
+        "sussexes",
+        "that",
+        "the",
+        "unusual",
+        "vip",
+        "was",
+        "winter",
+        "with",
+        "won",
+        "wonderland",
+        "year",
+        "yellow"
+      ],
+      "source_excerpt": "Prince Archie has gone home from London’s Winter Wonderland with a giant yellow cuddly octopus that he won during a festive family outing with Prince Harry and Meghan. The seven-year-old royal was among the Sussexes’ family of four enjoying the VIP opening of the popular...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692133-prince-harry-reveals-archies-unusual-winter-wonderland-reward-after-festive-outing",
+          "published_at": "2026-11-21T22:06:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692133-prince-harry-reveals-archies-unusual-winter-wonderland-reward-after-festive-outing",
+        "publisher_url": "https://www.geo.tv/latest/692133-prince-harry-reveals-archies-unusual-winter-wonderland-reward-after-festive-outing",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e645ad7edaa9681d32ed249c",
+      "remembered_at": "2026-11-21T22:26:03.574116+00:00",
+      "event_date": "2026-11-21T21:43:14+00:00",
+      "last_update": "2026-11-21T21:43:14+00:00",
+      "event": "Export financing risks failure",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "export",
+        "express",
+        "failure",
+        "financing",
+        "risks",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Export financing risks failure The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OX2xMZHdiSFVaNjIydHdvXy1lc2E3ckk3NjY4QWljcVJjeUNNazZGVHhDWTVsalNLdHJtUmtmN0JjMEotRjZqQTZHRGlaYjRBV0xCaEg2ckYxdkh4MXg4MEJ1QklXSWc3T0FRdlFqYzVMU3N3OGfSAX5BVV95cUxOcC1LQk50dFU1MUtOc0tXdzZnV0FtSVJ0ZGJ2bkEtaGF3Z0lhZng3a0FMellza1E0Q0RIQXNjclNyT3VGdW4wRHlMTGZkYUtTUEFBU19ObFFiWWkwWW83RXlmUGpPRzlrV1FtdHIzSkNlXzN5SThHaW40NGs3ZWc?oc=5",
+          "published_at": "2026-11-21T21:43:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OX2xMZHdiSFVaNjIydHdvXy1lc2E3ckk3NjY4QWljcVJjeUNNazZGVHhDWTVsalNLdHJtUmtmN0JjMEotRjZqQTZHRGlaYjRBV0xCaEg2ckYxdkh4MXg4MEJ1QklXSWc3T0FRdlFqYzVMU3N3OGfSAX5BVV95cUxOcC1LQk50dFU1MUtOc0tXdzZnV0FtSVJ0ZGJ2bkEtaGF3Z0lhZng3a0FMellza1E0Q0RIQXNjclNyT3VGdW4wRHlMTGZkYUtTUEFBU19ObFFiWWkwWW83RXlmUGpPRzlrV1FtdHIzSkNlXzN5SThHaW40NGs3ZWc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f0cf5e1bc97986597517137d",
+      "remembered_at": "2026-11-21T22:26:03.574116+00:00",
+      "event_date": "2026-11-21T22:05:51+00:00",
+      "last_update": "2026-11-21T22:05:51+00:00",
+      "event": "Cyber espionage targets govt entities",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cyber",
+        "entities",
+        "espionage",
+        "express",
+        "govt",
+        "targets",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Cyber espionage targets govt entities The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92OENjYU13WGl6YU4tNEM0Tmo3Y0hUdGJ2dW1kZmlvMUxieGp5TXItcXJhZHdJOTVvY283OUVxSkRxUGFpNkJCTlhGX0hIVzg4ZDZpQ05aR1FhUEVKWXNfSHNzSTNnRVVHZ2N2elhEbG14QW9aYk9Rd3VpMkoxZVHSAYcBQVVfeXFMUHg5WFdNWmlhUWtkV1lfb0d5VzNtR0c0SC1DYVFKWWZ0YkNib3V4eFp3MWg3SUpwajVfMlBNY0lRMWluQjU0Z09GbF9sMkFmRzhIdG9jS1NEQkpiYVI2QW5raGZjWGJxb20tcllUc1QxeHo2ZXd6b1lvRnRPcWNpTl9EUHQ4WlpN?oc=5",
+          "published_at": "2026-11-21T22:05:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92OENjYU13WGl6YU4tNEM0Tmo3Y0hUdGJ2dW1kZmlvMUxieGp5TXItcXJhZHdJOTVvY283OUVxSkRxUGFpNkJCTlhGX0hIVzg4ZDZpQ05aR1FhUEVKWXNfSHNzSTNnRVVHZ2N2elhEbG14QW9aYk9Rd3VpMkoxZVHSAYcBQVVfeXFMUHg5WFdNWmlhUWtkV1lfb0d5VzNtR0c0SC1DYVFKWWZ0YkNib3V4eFp3MWg3SUpwajVfMlBNY0lRMWluQjU0Z09GbF9sMkFmRzhIdG9jS1NEQkpiYVI2QW5raGZjWGJxb20tcllUc1QxeHo2ZXd6b1lvRnRPcWNpTl9EUHQ4WlpN?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "12f784f94a6847eb73053820",
+      "remembered_at": "2026-11-21T22:26:03.574116+00:00",
+      "event_date": "2026-11-21T22:05:51+00:00",
+      "last_update": "2026-11-21T22:05:51+00:00",
+      "event": "Minister calls for secure data sharing among institutions",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "calls",
+        "data",
+        "express",
+        "for",
+        "institutions",
+        "minister",
+        "secure",
+        "sharing",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Minister calls for secure data sharing among institutions The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXR1RXdyenNMZjJWV2pBN3NoVldSM21vcUhaLXo2YVAtSkJvZW9QUHdQS1RCNnJOWjQ3RDZuc3hXMzB4OFVDcVZxWmNyamFaRjQ4T09JVmNzVzJEbTFvNjk2Si1wWmFXVUd4Z3U4U3IzSjNXRFpHUERFVHFDakprVGRQbHRrRWhGRjg2TVV1ZXEzUHNSdEtITEVB0gGiAUFVX3lxTE1CelE3b0Z4X3F5VDRoSFZFRFh2Si1Eems4QjQ5OE5VZDlMZ2pmZWhKdzNHeVBweHFwbHpBVm9wS21nY1dPbHZpWjlBcXpjb283Uk1lc1hYNVNmc2Q5bk1SUWpIRURTbFBDNENFV3B6eE5YMW5UdUxvWGRQeVRvVjNYMmEtZEkwUmUxUTQyMC1jc2JOUUZHNC1XTExKTDkwajg4QQ?oc=5",
+          "published_at": "2026-11-21T22:05:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXR1RXdyenNMZjJWV2pBN3NoVldSM21vcUhaLXo2YVAtSkJvZW9QUHdQS1RCNnJOWjQ3RDZuc3hXMzB4OFVDcVZxWmNyamFaRjQ4T09JVmNzVzJEbTFvNjk2Si1wWmFXVUd4Z3U4U3IzSjNXRFpHUERFVHFDakprVGRQbHRrRWhGRjg2TVV1ZXEzUHNSdEtITEVB0gGiAUFVX3lxTE1CelE3b0Z4X3F5VDRoSFZFRFh2Si1Eems4QjQ5OE5VZDlMZ2pmZWhKdzNHeVBweHFwbHpBVm9wS21nY1dPbHZpWjlBcXpjb283Uk1lc1hYNVNmc2Q5bk1SUWpIRURTbFBDNENFV3B6eE5YMW5UdUxvWGRQeVRvVjNYMmEtZEkwUmUxUTQyMC1jc2JOUUZHNC1XTExKTDkwajg4QQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T21:47:08.327988+00:00"
+  "updated_at": "2026-11-21T22:26:03.574116+00:00"
 }
