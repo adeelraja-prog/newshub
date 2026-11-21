@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 06:25 AM PKT
+# News Hub report - Sat 21 Nov, 07:28 AM PKT
 
 ## Collection
-- New items this run: 18 | items in rolling pool: 395
-- Unique story clusters: 352 (duplicates merged: 43)
-- Clusters dropped as already published/queued: 33; unchanged since last analysis: 1
-- Items per outlet: Al Jazeera 3, Geo News 2, BBC World 2, Anadolu Ajansı 2, Jang Urdu 1, Pakistan Observer 1, GSMArena 1, BBC Technology 1, TRT World 1, The Independent 1, Mezha.net 1, Around Prague 1
+- New items this run: 11 | items in rolling pool: 346
+- Unique story clusters: 318 (duplicates merged: 28)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 3
+- Items per outlet: Al Jazeera 4, Profit by Pakistan Today 2, Dawn Latest 1, Jang Urdu 1, GSMArena 1, CBS News 1, Anadolu Ajansı 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- A new Nepal, an old neighbour - Balendra Shah's India test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Overturned boat carrying mourners to funeral kills at least four in Nigeria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Can AI really help spot Black Friday deals? We put it to the test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sales of baby sleeping bag halted by Next after new mum raises alarm | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NI doctors' strike due to end, with separate walkout planned for Monday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can Mauricio Pochettino save Man United from Premier League relegation? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ANC fights to keep control of South Africa's key cities after election setback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- A new Nepal, an old neighbour - Balendra Shah's India test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Overturned boat carrying mourners to funeral kills at least four in Nigeria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Can AI really help spot Black Friday deals? We put it to the test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sales of baby sleeping bag halted by Next after new mum raises alarm | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NI doctors' strike due to end, with separate walkout planned for Monday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can Mauricio Pochettino save Man United from Premier League relegation? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ANC fights to keep control of South Africa's key cities after election setback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- A new Nepal, an old neighbour - Balendra Shah's India test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Overturned boat carrying mourners to funeral kills at least four in Nigeria | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Can AI really help spot Black Friday deals? We put it to the test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sales of baby sleeping bag halted by Next after new mum raises alarm | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NI doctors' strike due to end, with separate walkout planned for Monday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can Mauricio Pochettino save Man United from Premier League relegation? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ANC fights to keep control of South Africa's key cities after election setback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Saudi Coalition Intercepts Three Houthi Missiles as Riyadh Triggers Emergency Sirens  [NORMAL]
-- Poster: سعودی اتحاد کا ریاض پر تین حوثی میزائل مار گرانے کا دعویٰ / Saudi Coalition Downs Three Missiles Over Riyadh | category war
-- Alternative headline: Emergency Alerts Sound in Riyadh as Saudi Coalition Downs Three Inbound Missiles
+### ANC fights to keep control of South Africa's key cities after election setback  [NORMAL]
+- Poster: جنوبی افریقہ میں اے این سی کو بلدیاتی انتخابات میں بڑا دھچکا / ANC struggles to keep key cities in South Africa | category politics
+- Alternative headline: South Africa's ruling ANC faces tough race to hold major cities
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: ANC local elections, South Africa politics, ANC cities, local government, Democratic Alliance | hashtags: #ANC #SouthAfrica #LocalElections #WorldNews
+- Scheduled: Sat 21 Nov, 07:28 AM PKT
+- Caption:
+```
+South Africa's ruling ANC is racing against time to form local governments after suffering its worst election result since 1994.
+
+The African National Congress is struggling to secure power-sharing deals in South Africa's cities following a massive drop in support during recent local elections. The party won a majority in only one province and a majority of votes in just two cities, facing a deadline of November 27 to negotiate local governments.
+
+افریقن نیشنل کانگریس حالیہ بلدیاتی انتخابات میں حمایت میں بڑی کمی کے بعد جنوبی افریقہ کے شہروں میں اقتدار کی تقسیم کے معاہدے کرنے کی کوشش کر رہی ہے۔ پارٹی نے صرف ایک صوبے میں اکثریت حاصل کی اور 27 نومبر کی آخری تاریخ تک مقامی حکومتیں بنانے کی تگ و دو جاری ہے۔
+
+First reported by BBC World.
+
+#ANC #SouthAfrica #LocalElections #WorldNews
+```
+
+### Mauricio Pochettino takes charge of Manchester United ahead of Liverpool clash  [NORMAL]
+- Poster: ماوریسیو پوچیٹینو اتوار کو مانچسٹر یونائیٹڈ کی کمان سنبھالیں گے / Pochettino takes charge of Manchester United | category sports
+- Alternative headline: Can Mauricio Pochettino save Manchester United from Premier League relegation struggles?
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Saudi Arabia, Riyadh, Houthi missiles, Saudi coalition, air defence, Yemen war | hashtags: #SaudiArabia #Riyadh #Houthis #MiddleEast
-- Scheduled: Sat 21 Nov, 06:25 AM PKT
+- Keywords: Mauricio Pochettino, Manchester United, Premier League, Liverpool, football | hashtags: #Pochettino #ManUtd #PremierLeague #Football
+- Scheduled: Sat 21 Nov, 07:38 AM PKT
 - Caption:
 ```
-Emergency alerts sounded across Riyadh as the Saudi-led coalition announced it intercepted three inbound missiles.
+Mauricio Pochettino is set to take charge of Manchester United for the very first time in an away match against rivals Liverpool.
 
-Saudi Arabia issued emergency alerts across Riyadh after the Saudi-led coalition reported intercepting three inbound missiles launched by Houthi forces, according to an Al Jazeera live report.
+Mauricio Pochettino will officially take charge of Manchester United for the first time on Sunday. His debut match comes as the team prepares for a high-stakes fixture against fierce rivals Liverpool in the Premier League.
 
-الجزیرہ کے مطابق سعودی عرب کے دارالحکومت ریاض میں ایمرجنسی الرٹ جاری کیے گئے ہیں، جبکہ سعودی قیادت میں قائم عسکری اتحاد نے تین حوثی میزائل مار گرانے کا دعویٰ کیا ہے۔
+ماوریسیو پوچیٹینو اتوار کو پہلی بار مانچسٹر یونائیٹڈ کی کمان سنبھالیں گے۔ ان کا پہلا میچ حریف لیورپول کے خلاف پریمیئر لیگ میں ہوگا۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#SaudiArabia #Riyadh #Houthis #MiddleEast
+#Pochettino #ManUtd #PremierLeague #Football
 ```
 
-### Nepal's Prime Minister Targets Trade and Connectivity in Crucial India Talks  [NORMAL]
-- Poster: نیپال اور بھارت کے وزرائے اعظم کے درمیان تجارت اور رابطوں پر اہم بات چیت / Nepal and India Leaders Meet on Trade and Connectivity | category world
-- Alternative headline: Balendra Shah Faces High-Stakes Diplomacy Test in Key Talks With Indian Counterpart
+### Exploring modern technological innovations from AI early warnings to sailing  [NORMAL]
+- Poster: ٹیک ناؤ: مصنوعی ذہانت اور جدید ٹیکنالوجی کا سفر / Tech Now explores global innovations | category tech
+- Alternative headline: Tech Now highlights global innovations in AI, sailing, and wildlife protection
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC
-- Keywords: Nepal India relations, Balendra Shah, Nepal trade, connectivity, India diplomacy | hashtags: #Nepal #India #Diplomacy #Trade
-- Scheduled: Sat 21 Nov, 06:35 AM PKT
-- Caption:
-```
-Trade, connectivity, and regional cooperation will lead discussions when Nepal's prime minister sits down with his Indian counterpart.
-
-Trade, border connectivity, and regional cooperation top the diplomatic agenda as Nepal's leadership meets with the Indian prime minister, marking an important test for bilateral ties, BBC reported.
-
-بی بی سی کی رپورٹ کے مطابق نیپال کے وزیر اعظم کی بھارتی ہم منصب سے ملاقات میں باہمی تجارت، زمینی رابطوں اور علاقائی تعاون کو ایجنڈے میں سرفہرست رکھا گیا ہے۔
-
-First reported by BBC
-
-#Nepal #India #Diplomacy #Trade
-```
-
-### Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Least Four  [NORMAL]
-- Poster: نائجیریا: جنازے کے شرکاء کی کشتی الٹنے سے دو بچوں سمیت 4 افراد جاں بحق / Boat Carrying Mourners Overturns in Nigeria, Four Dead | category disaster
-- Alternative headline: Two Children Among Four Dead After Funeral Boat Overturns in Nigeria
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Nigeria boat accident, boat capsize, Nigeria police, funeral boat, drowning | hashtags: #Nigeria #BoatAccident #RescueOperation
-- Scheduled: Sat 21 Nov, 06:45 AM PKT
-- Caption:
-```
-At least four people, including two children, have died after a boat carrying mourners to a funeral overturned in Nigeria.
-
-At least four people, including two children, died after an overturned boat carrying mourners to a funeral capsized in Nigeria. Police confirmed that rescue and search operations remain underway for missing passengers, Al Jazeera reported.
-
-الجزیرہ کے مطابق نائجیریا میں جنازے میں شرکت کے لیے جانے والے افراد کی کشتی الٹنے کے نتیجے میں دو بچوں سمیت کم از کم 4 افراد جاں بحق ہو گئے ہیں جبکہ لاپتہ افراد کی تلاش جاری ہے۔
-
-First reported by Al Jazeera
-
-#Nigeria #BoatAccident #RescueOperation
-```
-
-### Can Generative AI Actually Help Shoppers Spot Real Black Friday Deals?  [NORMAL]
-- Poster: کیا آرٹیفیشل انٹیلیجنس بلیک فرائیڈے کی بہترین ڈیلز تلاش کر سکتی ہے؟ / Can AI Tools Really Find the Best Black Friday Deals? | category tech_ai
-- Alternative headline: Tech Giants Push AI Shopping Tools Despite Reluctance Among Black Friday Consumers
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss
 - Supporting coverage: BBC Technology
-- Keywords: Black Friday AI, generative AI, YouGov survey, ChatGPT Shopping, Alexa, e-commerce | hashtags: #BlackFriday #ArtificialIntelligence #ChatGPT #TechNews
-- Scheduled: Sat 21 Nov, 06:55 AM PKT
+- Keywords: Tech Now, AI technology, innovation, America's Cup, wildfire tech | hashtags: #TechNow #ArtificialIntelligence #Innovation #TechNews
+- Scheduled: Sat 21 Nov, 07:48 AM PKT
 - Caption:
 ```
-While tech firms roll out shopping assistants, consumer surveys show many shoppers remain hesitant to rely on generative AI tools.
+A new episode of Tech Now explores cutting-edge technological advancements, from AI landslide warnings to the evolution of sailing.
 
-Generative AI tools like ChatGPT and Alexa for Shopping are being pitched to help consumers navigate Black Friday sales. However, a YouGov survey revealed 36% of shoppers plan to bypass AI tools entirely, BBC Technology reported.
+The latest series of Tech Now explores various technological innovations across the globe, including teams testing AI early warning systems for landslides, tracking wildfire damage, and examining the evolution of sailing in the America's Cup.
 
-بی بی سی ٹیکنالوجی کے مطابق چیٹ جی پی ٹی اور الیکسا جیسے ٹولز بلیک فرائیڈے کی بہترین ڈیلز ڈھونڈنے میں مدد کی پیشکش کر رہے ہیں، تاہم یو گوو سروے کے مطابق 36 فیصد خریدار اب بھی شاپنگ کے لیے اے آئی کے استعمال سے گریزاں ہیں۔
+ٹیک ناؤ کا نیا سلسلہ دنیا بھر میں تکنیکی جدت طرازیوں کا احاطہ کرتا ہے، جس میں لینڈ سلائیڈز کے لیے مصنوعی ذہانت کے ارلی وارننگ سسٹمز اور جنگلات کی آگ کی نگرانی شامل ہے۔
 
-First reported by BBC Technology
+First reported by BBC Technology.
 
-#BlackFriday #ArtificialIntelligence #ChatGPT #TechNews
+#TechNow #ArtificialIntelligence #Innovation #TechNews
+```
+
+### Denmark expels Russian diplomat over alleged plot against Ukrainian rapper  [NORMAL]
+- Poster: ڈنمارک نے یوکرینی گلوکار پر حملے کی سازش پر روسی سفارتکار کو ملک بدر کر دیا / Denmark expels Russian diplomat over alleged plot | category world
+- Alternative headline: Russian diplomat expelled from Denmark amid assassination plot allegations
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMitwFBVV95cUxQTm5jdWw5MVdVbjdpWnZ2b0cyNnlpdnNqU0owNThlVDY0S1hSbkpOMGpZdm5TVU5QZ2lpSndBQnA2Q050RjA4M3VUYU02YVduem1ZUDI0NUlVeHE4OTVQSXVfRHZPZThocERscE1IUlpCWS1TbEJoaXk0NDN5RkQxQVRfLWF0Y2d6U1ZUTGRZWVZkX0k0dnd0aVZ0OXRxRGFJS3lkcmJlTHBUZ1VSVlBFYldac0VVckXSAbwBQVVfeXFMUGpWZzN4UHkyVDNNOVAtS0F4N1phV2ZzOWZxRXFnTWRKLXlKYUJURlJUQS1xanYzTEpBLWQ1TDNVaVBmLTFxZ0cya25VWER6SVhQX29RZ2tzYXNlV2VEYWV6RGdEVkFnVW56eS1JSkQ4VUMtUWx4M2lySTItQTFseTZMMFNZLUdvZy1COWh4d1M4dUp4Wk5yZWhpRVZVZkU2TnRlVFBRQ3p1MVNNdmdFeVBSX0o5ZUc2QU14ZVM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMitwFBVV95cUxQTm5jdWw5MVdVbjdpWnZ2b0cyNnlpdnNqU0owNThlVDY0S1hSbkpOMGpZdm5TVU5QZ2lpSndBQnA2Q050RjA4M3VUYU02YVduem1ZUDI0NUlVeHE4OTVQSXVfRHZPZThocERscE1IUlpCWS1TbEJoaXk0NDN5RkQxQVRfLWF0Y2d6U1ZUTGRZWVZkX0k0dnd0aVZ0OXRxRGFJS3lkcmJlTHBUZ1VSVlBFYldac0VVckXSAbwBQVVfeXFMUGpWZzN4UHkyVDNNOVAtS0F4N1phV2ZzOWZxRXFnTWRKLXlKYUJURlJUQS1xanYzTEpBLWQ1TDNVaVBmLTFxZ0cya25VWER6SVhQX29RZ2tzYXNlV2VEYWV6RGdEVkFnVW56eS1JSkQ4VUMtUWx4M2lySTItQTFseTZMMFNZLUdvZy1COWh4d1M4dUp4Wk5yZWhpRVZVZkU2TnRlVFBRQ3p1MVNNdmdFeVBSX0o5ZUc2QU14ZVM?oc=5
+- Supporting coverage: Al Jazeera
+- Keywords: Denmark expels Russian diplomat, Russian diplomat, Denmark Russia, Ukrainian rapper, assassination plot | hashtags: #Denmark #Russia #Diplomacy #WorldNews
+- Scheduled: Sat 21 Nov, 07:58 AM PKT
+- Caption:
+```
+Denmark has expelled a Russian diplomat following an alleged plot to assassinate a Ukrainian rapper.
+
+Denmark has taken the step to expel a Russian diplomat linked to an alleged plot targeting a Ukrainian rapper. The incident highlights rising diplomatic tensions involving European nations and Russia.
+
+ڈنمارک نے ایک یوکرینی گلوکار کو نشانہ بنانے کی مبینہ سازش کے سلسلے میں ایک روسی سفارتکار کو ملک بدر کر دیا ہے۔ اس واقعے سے یورپی ممالک اور روس کے درمیان سفارتی کشیدگی اجاگر ہوتی ہے۔
+
+First reported by Al Jazeera.
+
+#Denmark #Russia #Diplomacy #WorldNews
 ```
 
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
@@ -160,7 +160,6 @@ First reported by BBC Technology
 - [needs_review] normal | Board of Peace warns Gaza ceasefire faces imminent collapse without ac | Wed 18 Nov, 06:51 AM PKT
 - [needs_review] normal | Zimbabwe edge Afghanistan in thriller | Wed 18 Nov, 07:01 AM PKT
 - [needs_review] normal | Why China’s Shenzhen was chosen for APEC summit | Wed 18 Nov, 07:11 AM PKT
-- [published] normal | Kuwait intercepts hostile drone attacks as regional tensions persist | Wed 18 Nov, 07:21 AM PKT
 - [needs_review] normal | Jeff Bezos Says He Was Heavily Involved in Casting Robert Pattinson as | Wed 18 Nov, 07:48 AM PKT
 - [needs_review] normal | Hundreds Protest Outside Oxford University as Jason Arday's Accuser Sp | Wed 18 Nov, 07:58 AM PKT
 - [needs_review] normal | Ecuadorian Fishermen Sue Trump Administration Over Alleged Drone Strik | Wed 18 Nov, 08:08 AM PKT
@@ -338,10 +337,10 @@ First reported by BBC Technology
 - [published] normal | EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit | Sat 21 Nov, 12:02 AM PKT
 - [needs_review] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
 - [published] normal | Belgrade Mayor Faces Three-Year Sentence for Alleged Assault | Sat 21 Nov, 12:46 AM PKT
-- [queued] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
-- [queued] normal | Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Re | Sat 21 Nov, 01:06 AM PKT
-- [queued] normal | New York City Plans to Close Notorious Rikers Island by 2032 | Sat 21 Nov, 01:16 AM PKT
-- [queued] normal | Trump Threatens Ban and Tremendous Tax on US Firms Building Overseas A | Sat 21 Nov, 01:35 AM PKT
+- [needs_review] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
+- [needs_review] normal | Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Re | Sat 21 Nov, 01:06 AM PKT
+- [needs_review] normal | New York City Plans to Close Notorious Rikers Island by 2032 | Sat 21 Nov, 01:16 AM PKT
+- [published] normal | Trump Threatens Ban and Tremendous Tax on US Firms Building Overseas A | Sat 21 Nov, 01:35 AM PKT
 - [queued] normal | US Tech Sell-Off Deepens as Anthropic Tumbles Following Mega IPO Debut | Sat 21 Nov, 01:45 AM PKT
 - [queued] normal | CTD and Police Eliminate Three Terrorists Including Kohat Attack Maste | Sat 21 Nov, 01:55 AM PKT
 - [queued] normal | Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Ba | Sat 21 Nov, 02:05 AM PKT
@@ -365,10 +364,20 @@ First reported by BBC Technology
 - [queued] normal | Nepal's Prime Minister Targets Trade and Connectivity in Crucial India | Sat 21 Nov, 06:35 AM PKT
 - [queued] normal | Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Leas | Sat 21 Nov, 06:45 AM PKT
 - [queued] normal | Can Generative AI Actually Help Shoppers Spot Real Black Friday Deals? | Sat 21 Nov, 06:55 AM PKT
+- [queued] normal | ANC fights to keep control of South Africa's key cities after election | Sat 21 Nov, 07:28 AM PKT
+- [queued] normal | Mauricio Pochettino takes charge of Manchester United ahead of Liverpo | Sat 21 Nov, 07:38 AM PKT
+- [queued] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
+- [queued] normal | Denmark expels Russian diplomat over alleged plot against Ukrainian ra | Sat 21 Nov, 07:58 AM PKT
 
 ## Publishing this run
-- Published 'Belgrade Mayor Faces Three-Year Sentence for Alleged Assault'.
+- Published 'Trump Threatens Ban and Tremendous Tax on US Firms Building Overseas AI Data Centres'.
 
 ## Gemini usage
-- Calls: 1 | prompt tokens: 4200 | output tokens: 2536
-- Errors: 0
+- Calls: 4 | prompt tokens: 9160 | output tokens: 4418
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 106 column 7 (char 5266)

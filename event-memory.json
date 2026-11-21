@@ -96464,7 +96464,153 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ffed8f99fb44e0a9a7764b05",
+      "remembered_at": "2026-11-21T02:28:08.005831+00:00",
+      "event_date": "2026-11-21T01:49:07+00:00",
+      "last_update": "2026-11-21T01:49:07+00:00",
+      "event": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "apology",
+        "big",
+        "brilliant",
+        "calls",
+        "ceo",
+        "chance",
+        "for",
+        "former",
+        "giant",
+        "give",
+        "him",
+        "huang",
+        "jensen",
+        "make",
+        "nvidia",
+        "president",
+        "reinstate",
+        "second",
+        "tech",
+        "trump",
+        "urges"
+      ],
+      "source_excerpt": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+          "published_at": "2026-11-21T01:49:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "44c962e55eaa0a945ab42142",
+      "remembered_at": "2026-11-21T02:28:08.005831+00:00",
+      "event_date": "2026-11-21T01:44:09+00:00",
+      "last_update": "2026-11-21T01:44:09+00:00",
+      "event": "COP31 deal stalls as nations struggle to agree on climate plan",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agree",
+        "climate",
+        "cop31",
+        "deal",
+        "nations",
+        "plan",
+        "stalls",
+        "struggle"
+      ],
+      "source_excerpt": "COP31 deal stalls as nations struggle to agree on climate plan",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+          "published_at": "2026-11-21T01:44:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dfbcdc6ba8cbc8f6e6c425f9",
+      "remembered_at": "2026-11-21T02:28:08.005831+00:00",
+      "event_date": "2026-11-21T01:36:10+00:00",
+      "last_update": "2026-11-21T01:36:10+00:00",
+      "event": "Can Africa’s new credit rating agency change how the continent is assessed?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "african",
+        "agency",
+        "aims",
+        "assessed",
+        "bring",
+        "can",
+        "change",
+        "continent",
+        "credit",
+        "greater",
+        "how",
+        "new",
+        "rating",
+        "ratings",
+        "the",
+        "transparency"
+      ],
+      "source_excerpt": "The new African agency aims to bring greater transparency to credit ratings.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
+          "published_at": "2026-11-21T01:36:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T01:25:46.913302+00:00"
+  "updated_at": "2026-11-21T02:28:08.005831+00:00"
 }
