@@ -1,10 +1,10 @@
-# News Hub report - Sat 21 Nov, 10:29 AM PKT
+# News Hub report - Sat 21 Nov, 11:30 AM PKT
 
 ## Collection
-- New items this run: 28 | items in rolling pool: 238
-- Unique story clusters: 200 (duplicates merged: 38)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 5
-- Items per outlet: Dawn 4, Dawn Pakistan 3, Al Jazeera 3, Dunya News 2, Dawn Latest 2, Geo News 2, BBC World 2, Investify 2, ARY News 1, AP News 1, The New York Times 1, Profit by Pakistan Today 1
+- New items this run: 38 | items in rolling pool: 234
+- Unique story clusters: 186 (duplicates merged: 48)
+- Clusters dropped as already published/queued: 23; unchanged since last analysis: 7
+- Items per outlet: Wired 12, Dunya News 5, Geo News 3, Dawn 2, Dawn Latest 2, ARY News 2, Al Jazeera 2, TechJuice 2, ARYnews.tv 1, samaa tv 1, The News International 1, GSMArena 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -12,24 +12,24 @@
 
 ## Top 5 most important
 - Saudi forces launch major strikes in Yemen | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Depardieu, Houellebecq face probe over alleged gang rape | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Talks on ‘killer robots’ in race against the clock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Funeral held for New York teen shot while walking to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Al Jazeera explains: The US-China AI race is entering a new phase | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Saudi forces launch major strikes in Yemen | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Depardieu, Houellebecq face probe over alleged gang rape | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Talks on ‘killer robots’ in race against the clock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Funeral held for New York teen shot while walking to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Al Jazeera explains: The US-China AI race is entering a new phase | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Saudi forces launch major strikes in Yemen | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Depardieu, Houellebecq face probe over alleged gang rape | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Talks on ‘killer robots’ in race against the clock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Funeral held for New York teen shot while walking to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Al Jazeera explains: The US-China AI race is entering a new phase | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,15 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 4 items
+### Can Israel’s opposition bloc stay united against Netanyahu?  [NORMAL]
+- Poster: کیا اسرائیل کا اپوزیشن اتحاد نیتنیاهو کے خلاف متحد رہے گا؟ / Can Israel's opposition unite against Netanyahu? | category politics
+- Alternative headline: Overcoming deep divisions: Will Israel's opposition unite to challenge Netanyahu?
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Israel opposition, Gadi Eisenkot, Benjamin Netanyahu, Knesset, Israel politics | hashtags: #Israel #Netanyahu #MiddleEastPolitics #Knesset
+- Scheduled: Sat 21 Nov, 11:30 AM PKT
+- Caption:
+```
+Eisenkot's fragile alliance faces major ideological hurdles as it attempts to transform its opposition presence into a unified governing force.
+
+Gadi Eisenkot's fragile political alliance in Israel must overcome deep ideological divisions if it hopes to turn its opposition bloc into a viable governing force against Prime Minister Benjamin Netanyahu.
+
+اسرائیل میں گادی آئزن کوٹ کا نازک سیاسی اتحاد اگر بنجمن نیتنیاهو کے خلاف حکومت بنانے کی امید رکھتا ہے تو اسے گہرے نظریاتی اختلافات پر قابو پانا ہوگا۔
+
+First reported by Al Jazeera.
+
+#Israel #Netanyahu #MiddleEastPolitics #Knesset
+```
+
+### Saudi forces launch major military strikes across Yemen  [NORMAL]
+- Poster: سعودی افواج کے یمن میں بڑے فضائی حملے / Saudi forces launch major strikes in Yemen | category security
+- Alternative headline: Major escalation: Saudi coalition targets military sites in Yemen
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMihgFBVV95cUxQZl9mLWx0dGFHNDZnNkVBN0JUNDVDck9HS1VESkVSR19BT1NwNFFmNlBEZHZPMml1bUFZYVR5RlAxRkVWOTNrdUdUcXNMZlZsaHdkWU40RDBIV3ZPM0JmWmxTWUh6RzFGcHVqOUhNZnhoN1FuTnkyZ3hQNFBwOHBvQlZIVkh2d9IBjgFBVV95cUxNRklqTGE2Xzc3NWRVd3FSNlAtb01KOHJwWFlfOEl5LURTemZuaFF0UUVIZW5iTlZXcFZVR1NTRTdsUTVTUXNfaEtrTmhvaW93bDdFbjFJWUdQdG1CMTNPazd2b3RiU1N3SVZTTG1rMm9FRnFOYVBaa05LcHpBS1hmQnR4SVdwbF93QUNwdjNB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMihgFBVV95cUxQZl9mLWx0dGFHNDZnNkVBN0JUNDVDck9HS1VESkVSR19BT1NwNFFmNlBEZHZPMml1bUFZYVR5RlAxRkVWOTNrdUdUcXNMZlZsaHdkWU40RDBIV3ZPM0JmWmxTWUh6RzFGcHVqOUhNZnhoN1FuTnkyZ3hQNFBwOHBvQlZIVkh2d9IBjgFBVV95cUxNRklqTGE2Xzc3NWRVd3FSNlAtb01KOHJwWFlfOEl5LURTemZuaFF0UUVIZW5iTlZXcFZVR1NTRTdsUTVTUXNfaEtrTmhvaW93bDdFbjFJWUdQdG1CMTNPazd2b3RiU1N3SVZTTG1rMm9FRnFOYVBaa05LcHpBS1hmQnR4SVdwbF93QUNwdjNB?oc=5
+- Supporting coverage: The Express Tribune, Dawn, Dawn, Dawn Latest
+- Keywords: Saudi strikes Yemen, Saudi coalition, Yemen conflict, Houthis, military operation | hashtags: #Yemen #SaudiArabia #MiddleEast #Security
+- Scheduled: Sat 21 Nov, 11:40 AM PKT
+- Caption:
+```
+Saudi-led coalition forces have initiated major military strikes in Yemen following heightened regional tensions and ongoing conflict.
+
+Saudi forces have launched major military strikes in Yemen, marking a significant escalation in the ongoing regional conflict as coalition operations target strategic positions.
+
+سعودی افواج نے یمن میں بڑے فوجی حملے شروع کر دیے ہیں، جو کہ جاری علاقائی تنازعے میں ایک اہم شدت کی عکاسی کرتے ہیں۔
+
+First reported by The Express Tribune.
+
+#Yemen #SaudiArabia #MiddleEast #Security
+```
+
+### Three suspects remanded into FIA custody over counterfeit vaccine  [NORMAL]
+- Poster: جعلی ویکسین کیس: تین ملزمان ایف آئی اے کے حوالے / Three suspects remanded to FIA over fake vaccine | category courts
+- Alternative headline: Islamabad court grants FIA five-day physical remand in fake vaccine case
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045961/three-suspects-remanded-into-fia-custody-over-counterfeit-vaccine-in-islamabad | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045961/three-suspects-remanded-into-fia-custody-over-counterfeit-vaccine-in-islamabad
+- Supporting coverage: Dawn Pakistan, Dawn
+- Keywords: counterfeit vaccine Islamabad, FIA remand, fake vaccine, Blue Area raid, Influvac Tetra | hashtags: #Islamabad #FIA #CounterfeitVaccine #Crime
+- Scheduled: Sat 21 Nov, 11:50 AM PKT
+- Caption:
+```
+A judicial magistrate in Islamabad has handed over three suspects, including a private lab CEO, to the FIA on a five-day physical remand.
+
+An Islamabad judicial magistrate granted the FIA a five-day physical remand of three suspects, including a private laboratory CEO, following a joint raid in the Blue Area where 27 injections of counterfeit flu vaccine were allegedly recovered.
+
+اسلام آباد کے جوڈیشل مجسٹریٹ نے نجی لیب کے سی ای او سمیت تین ملزمان کو پانچ روزہ جسمانی ریمانڈ پر ایف آئی اے کے حوالے کر دیا۔ یہ کارروائی بلیو ایریا میں کی گئی جہاں مبینہ طور پر جعلی فلو ویکسین کی 27 انجکشن برآمد ہوئیں۔
+
+First reported by Dawn Pakistan.
+
+#Islamabad #FIA #CounterfeitVaccine #Crime
+```
+
+### Gujranwala and Multan overtake Lahore in severe air pollution  [NORMAL]
+- Poster: گوجرانوالہ اور ملتان آلودگی میں لاہور سے آگے نکل گئے / Gujranwala, Multan overtake Lahore in smog | category disaster
+- Alternative headline: Hazardous smog: Gujranwala and Multan register higher AQI than Lahore
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046020/gujranwala-multan-overtake-lahore-in-air-pollution | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046020/gujranwala-multan-overtake-lahore-in-air-pollution
+- Supporting coverage: Dawn Latest, Dawn
+- Keywords: Punjab air pollution, Gujranwala AQI, Multan smog, Lahore air quality, hazardous smog | hashtags: #Smog #AirPollution #Punjab #Lahore
+- Scheduled: Sat 21 Nov, 12:00 PM PKT
+- Caption:
+```
+Severe smog has gripped Punjab, with Gujranwala and Multan recording hazardous AQI levels surpassing Lahore.
+
+Heavy smog pushed air quality across Punjab into hazardous categories on Friday. While Lahore recorded an AQI of 465, Gujranwala and Multan registered even higher hazardous readings of 661 and 641 respectively, posing serious health risks.
+
+جمعہ کو شدید اسموگ نے پنجاب بھر میں ہوا کے معیار کو خطرناک درجے تک پہنچا دیا۔ جہاں لاہور میں اے کیو آئی 465 ریکارڈ کیا گیا، وہیں گوجرانوالہ اور ملتان میں بالترتیب 661 اور 641 کی انتہائی خطرناک آلودگی درج کی گئی۔
+
+First reported by Dawn Latest.
+
+#Smog #AirPollution #Punjab #Lahore
+```
+
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
 
 ## Queue status
-- [needs_review] normal | Democrats plan investigations into Trump's Venezuela oil money plans | Wed 18 Nov, 04:02 AM PKT
-- [needs_review] normal | US Fed's Lisa Cook refuses to attend White House hearing | Wed 18 Nov, 04:30 AM PKT
-- [needs_review] normal | UK hands over NATO-assigned US soldier accused of spying to US militar | Wed 18 Nov, 04:40 AM PKT
 - [needs_review] normal | Widow questions if 1980 toxic lagoon fire caused husband's rare cancer | Wed 18 Nov, 05:00 AM PKT
 - [needs_review] normal | Haitians Back El Salvador Troops Amid Rescue Mission | Wed 18 Nov, 05:25 AM PKT
 - [needs_review] normal | Fears Grow That Toxic Lagoon Fire Caused Cancer | Wed 18 Nov, 05:35 AM PKT
@@ -64,7 +157,6 @@
 - [needs_review] normal | Two killed in Balochistan's Zhob roadside blast | Wed 18 Nov, 09:55 AM PKT
 - [needs_review] normal | PTI questions Bilawal’s late realisation of people’s hardships | Wed 18 Nov, 10:05 AM PKT
 - [needs_review] normal | Balochistan MPs pledge resolution backing journalists | Wed 18 Nov, 10:15 AM PKT
-- [published] normal | Saudi Firm Signs Pact To Explore $30 Billion Energy Infrastructure Dea | Wed 18 Nov, 10:49 AM PKT
 - [needs_review] normal | Global Apple Outage Disrupts Key Services Including iCloud And Apple P | Wed 18 Nov, 10:59 AM PKT
 - [needs_review] normal | Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Proj | Wed 18 Nov, 11:09 AM PKT
 - [needs_review] normal | Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar | Wed 18 Nov, 11:19 AM PKT
@@ -247,11 +339,11 @@
 - [needs_review] normal | Russian missiles land in Poland amid NATO drills | Sat 21 Nov, 04:18 AM PKT
 - [needs_review] normal | Iraq PM targets militia stronghold in state control push | Sat 21 Nov, 04:28 AM PKT
 - [published] normal | Denmark accuses Russia of plotting rapper assassination | Sat 21 Nov, 04:38 AM PKT
-- [queued] normal | Fossil fuel talks deadlock pushes COP31 into overtime | Sat 21 Nov, 04:48 AM PKT
-- [queued] normal | Rahul Gandhi Backs Strong India-Israel Ties Despite Gaza War | Sat 21 Nov, 05:08 AM PKT
-- [queued] normal | Pakistan Crowned Men’s Blind Cricket Asia Cup Champions | Sat 21 Nov, 05:18 AM PKT
-- [queued] normal | Anthropic Researcher Claims Claude Chatbot Solved Math’s Greatest Ridd | Sat 21 Nov, 05:28 AM PKT
-- [queued] normal | Iraqi Security Forces Deploy in Pro-Iran Militia Stronghold | Sat 21 Nov, 05:38 AM PKT
+- [needs_review] normal | Fossil fuel talks deadlock pushes COP31 into overtime | Sat 21 Nov, 04:48 AM PKT
+- [needs_review] normal | Rahul Gandhi Backs Strong India-Israel Ties Despite Gaza War | Sat 21 Nov, 05:08 AM PKT
+- [needs_review] normal | Pakistan Crowned Men’s Blind Cricket Asia Cup Champions | Sat 21 Nov, 05:18 AM PKT
+- [needs_review] normal | Anthropic Researcher Claims Claude Chatbot Solved Math’s Greatest Ridd | Sat 21 Nov, 05:28 AM PKT
+- [published] normal | Iraqi Security Forces Deploy in Pro-Iran Militia Stronghold | Sat 21 Nov, 05:38 AM PKT
 - [queued] normal | Saudi Coalition Intercepts Three Houthi Missiles as Riyadh Triggers Em | Sat 21 Nov, 06:25 AM PKT
 - [queued] normal | Nepal's Prime Minister Targets Trade and Connectivity in Crucial India | Sat 21 Nov, 06:35 AM PKT
 - [queued] normal | Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Leas | Sat 21 Nov, 06:45 AM PKT
@@ -264,27 +356,19 @@
 - [queued] normal | SECP Tightens Scrutiny on Corporate Audit Reports | Sat 21 Nov, 08:31 AM PKT
 - [queued] normal | Balochistan CM Bugti Promises Province-Wide Jobs | Sat 21 Nov, 08:41 AM PKT
 - [queued] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
+- [queued] normal | Can Israel’s opposition bloc stay united against Netanyahu? | Sat 21 Nov, 11:30 AM PKT
+- [queued] normal | Saudi forces launch major military strikes across Yemen | Sat 21 Nov, 11:40 AM PKT
+- [queued] normal | Three suspects remanded into FIA custody over counterfeit vaccine | Sat 21 Nov, 11:50 AM PKT
+- [queued] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
 
 ## Publishing this run
-- Published 'Denmark accuses Russia of plotting rapper assassination'.
+- Published 'Iraqi Security Forces Deploy in Pro-Iran Militia Stronghold'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 6024 | output tokens: 3094
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

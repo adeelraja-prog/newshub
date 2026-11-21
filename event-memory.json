@@ -98519,7 +98519,419 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1ef0c069887a2ec79118bdfd",
+      "remembered_at": "2026-11-21T06:30:38.351325+00:00",
+      "event_date": "2026-11-21T06:21:03+00:00",
+      "last_update": "2026-11-21T06:21:03+00:00",
+      "event": "Netanyahu is playing with the fire that killed Rabin",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arab",
+        "assassination",
+        "attacks",
+        "echo",
+        "fire",
+        "his",
+        "incitement",
+        "killed",
+        "lawmakers",
+        "netanyahu",
+        "new",
+        "playing",
+        "preceded",
+        "rabin",
+        "risk",
+        "that",
+        "the",
+        "unleashing",
+        "violence",
+        "with"
+      ],
+      "source_excerpt": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+          "published_at": "2026-11-21T06:21:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e696173a63ec7527d87c276a",
+      "remembered_at": "2026-11-21T06:30:38.351325+00:00",
+      "event_date": "2026-11-21T05:46:29+00:00",
+      "last_update": "2026-11-21T05:46:29+00:00",
+      "event": "Can Israel’s opposition bloc stay united against Netanyahu?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "alliance",
+        "bloc",
+        "can",
+        "deep",
+        "divisions",
+        "eisenkot",
+        "fragile",
+        "government",
+        "ideological",
+        "into",
+        "israel",
+        "its",
+        "must",
+        "netanyahu",
+        "opposition",
+        "overcome",
+        "stay",
+        "turn",
+        "united"
+      ],
+      "source_excerpt": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+          "published_at": "2026-11-21T05:46:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2174371210f5f301f572e605",
+      "remembered_at": "2026-11-21T06:30:38.351325+00:00",
+      "event_date": "2026-11-21T05:42:51+00:00",
+      "last_update": "2026-11-21T05:42:51+00:00",
+      "event": "6.7 magnitude earthquake hits central Peru",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "central",
+        "earthquake",
+        "hits",
+        "magnitude",
+        "peru"
+      ],
+      "source_excerpt": "6.7 magnitude earthquake hits central Peru ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qMUhJS2RzejFKYVJXWmtrZWpPbV9QTGtGUURJUHE1U19heWNBV3UyUUlZYjhJaWhhSkNBNnc5QkhrODk4elJZRUExOWc0TFV1Z2V5MG5UUU9HQk9Wd0tUb3lOaw?oc=5",
+          "published_at": "2026-11-21T05:42:51+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/6-7-magnitude-earthquake-hits-peru",
+          "published_at": "2026-11-21T05:42:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qMUhJS2RzejFKYVJXWmtrZWpPbV9QTGtGUURJUHE1U19heWNBV3UyUUlZYjhJaWhhSkNBNnc5QkhrODk4elJZRUExOWc0TFV1Z2V5MG5UUU9HQk9Wd0tUb3lOaw?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e368f439ee6325dd8e4bb01a",
+      "remembered_at": "2026-11-21T06:30:38.351325+00:00",
+      "event_date": "2026-11-21T05:50:52+00:00",
+      "last_update": "2026-11-21T05:50:52+00:00",
+      "event": "Countries open path towards 'killer robots' pact",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "countries",
+        "dawn",
+        "killer",
+        "open",
+        "pact",
+        "path",
+        "robots",
+        "towards"
+      ],
+      "source_excerpt": "Countries open path towards 'killer robots' pact Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0hxSTVIMl9QaU9Gc0x4Q3lrWlluSEtBNV9pX2k2Q2NvMEhTVURLRjVkY1c3RjhkNmw2dlRlUk9TREVTYUhBY2VGdjd5MldmcHA2VjlpcmNEMFBnS3BzcFVnbVNNV0liR3llbWxwNWZGcGtmdUJSUnRfbjVWdHdlcTVKcG5ObTg?oc=5",
+          "published_at": "2026-11-21T05:50:52+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046098/countries-open-path-towards-killer-robots-pact",
+          "published_at": "2026-11-21T05:50:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0hxSTVIMl9QaU9Gc0x4Q3lrWlluSEtBNV9pX2k2Q2NvMEhTVURLRjVkY1c3RjhkNmw2dlRlUk9TREVTYUhBY2VGdjd5MldmcHA2VjlpcmNEMFBnS3BzcFVnbVNNV0liR3llbWxwNWZGcGtmdUJSUnRfbjVWdHdlcTVKcG5ObTg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4867850ec5f9b7e4b1e3b49e",
+      "remembered_at": "2026-11-21T06:30:38.351325+00:00",
+      "event_date": "2026-11-21T05:50:49+00:00",
+      "last_update": "2026-11-21T05:50:49+00:00",
+      "event": "Latest News, Pakistan News, World News, Sports News and Videos",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "dunya",
+        "latest",
+        "news",
+        "pakistan",
+        "sports",
+        "videos",
+        "world"
+      ],
+      "source_excerpt": "Latest News, Pakistan News, World News, Sports News and Videos Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42S2RZbkp1NmMwV0o2XzJZSWtDSnZMZTdScGlRMk9tSzRoNlBDMlZGQ2ZMeU13cy1PQTl6LU9OcXM1REdTUDdBTVAxc0FLekcz?oc=5",
+          "published_at": "2026-11-21T05:50:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42S2RZbkp1NmMwV0o2XzJZSWtDSnZMZTdScGlRMk9tSzRoNlBDMlZGQ2ZMeU13cy1PQTl6LU9OcXM1REdTUDdBTVAxc0FLekcz?oc=5",
+        "publisher_url": "https://dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d476d73f390369a892617821",
+      "remembered_at": "2026-11-21T06:30:38.351325+00:00",
+      "event_date": "2026-11-21T05:26:21+00:00",
+      "last_update": "2026-11-21T05:26:21+00:00",
+      "event": "Saudi Arabia jobs: Important information about employment contracts, probation period",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "arabia",
+        "contracts",
+        "employment",
+        "important",
+        "information",
+        "jobs",
+        "period",
+        "probation",
+        "saudi"
+      ],
+      "source_excerpt": "Saudi Arabia jobs: Important information about employment contracts, probation period",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/saudi-arabia-jobs-important-information-about-employment-contracts-probation-period",
+          "published_at": "2026-11-21T05:26:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/saudi-arabia-jobs-important-information-about-employment-contracts-probation-period",
+        "publisher_url": "https://arynews.tv/saudi-arabia-jobs-important-information-about-employment-contracts-probation-period",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "52ce97382cc7369688249161",
+      "remembered_at": "2026-11-21T06:30:38.351325+00:00",
+      "event_date": "2026-11-21T06:15:09+00:00",
+      "last_update": "2026-11-21T06:15:09+00:00",
+      "event": "Dubai opens first of 35 new community parks",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "community",
+        "dubai",
+        "first",
+        "new",
+        "opens",
+        "parks",
+        "samaa"
+      ],
+      "source_excerpt": "Dubai opens first of 35 new community parks samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkFoSVhrTWp6TVBKTUJCVTBJa3ZJRUNGYmxfakhCT0ZwaWhPbU5QaW1vVDBHejM5MFowaVZoX0Z6NXdYU215bjVHd0VDMFpWam9DeTk0alI1cWowZ2g0eHdfWS1keVJBRWFzcVVIVmNKUmllbWdoWTBQSFBtRDZuNg?oc=5",
+          "published_at": "2026-11-21T06:15:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkFoSVhrTWp6TVBKTUJCVTBJa3ZJRUNGYmxfakhCT0ZwaWhPbU5QaW1vVDBHejM5MFowaVZoX0Z6NXdYU215bjVHd0VDMFpWam9DeTk0alI1cWowZ2g0eHdfWS1keVJBRWFzcVVIVmNKUmllbWdoWTBQSFBtRDZuNg?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1d23ce0b72b4c02d4f5f5a8b",
+      "remembered_at": "2026-11-21T06:30:38.351325+00:00",
+      "event_date": "2026-11-21T06:01:00+00:00",
+      "last_update": "2026-11-21T06:01:00+00:00",
+      "event": "Zara Larsson reveals her hobby that keeps her calm: ‘I feel very aligned’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aligned",
+        "calm",
+        "feel",
+        "her",
+        "hobby",
+        "international",
+        "keeps",
+        "larsson",
+        "news",
+        "reveals",
+        "that",
+        "the",
+        "very",
+        "zara"
+      ],
+      "source_excerpt": "Zara Larsson reveals her hobby that keeps her calm: ‘I feel very aligned’ The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGdtQXRpOUNSTEpTaVdJdVFKdWE5SnFjX0IyUmlXZmFtVkNqNm9ZWDVqSGd3UjI5RDIyU1hraGpuM05kVGYyRnBNWlZBOGc5QS1ZOFRxV0pOUnA2SkNVVjZnT0xOWGVuVWgwbEFoNE5SYVZqcDdoT3RXQ2Y1V0xNUHlUcG1PNk5hU3phUzdvWlF0YmphY1IyOUI5Qkt2dEJ4Z0FNWHNmT2VfLXdQV3fSAa4BQVVfeXFMTkxnbUF0aTlDUkxKU2lXSXVRSnVhOUpxY19CMlJpV2ZhbVZDajZvWVg1akhnd1IyOUQyMlNYa2hqbjNOZFRmMkZwTVpWQThnOUEtWThUcVdKTlJwNkpDVVY2Z09MTlhlblVoMGxBaDROUmFWanA3aE90V0NmNVdMTVB5VHBtTzZOYVN6YVM3b1pRdGJqYWNSMjlCOUJLdnRCeGdBTVhzZk9lXy13UFd3?oc=5",
+          "published_at": "2026-11-21T06:01:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGdtQXRpOUNSTEpTaVdJdVFKdWE5SnFjX0IyUmlXZmFtVkNqNm9ZWDVqSGd3UjI5RDIyU1hraGpuM05kVGYyRnBNWlZBOGc5QS1ZOFRxV0pOUnA2SkNVVjZnT0xOWGVuVWgwbEFoNE5SYVZqcDdoT3RXQ2Y1V0xNUHlUcG1PNk5hU3phUzdvWlF0YmphY1IyOUI5Qkt2dEJ4Z0FNWHNmT2VfLXdQV3fSAa4BQVVfeXFMTkxnbUF0aTlDUkxKU2lXSXVRSnVhOUpxY19CMlJpV2ZhbVZDajZvWVg1akhnd1IyOUQyMlNYa2hqbjNOZFRmMkZwTVpWQThnOUEtWThUcVdKTlJwNkpDVVY2Z09MTlhlblVoMGxBaDROUmFWanA3aE90V0NmNVdMTVB5VHBtTzZOYVN6YVM3b1pRdGJqYWNSMjlCOUJLdnRCeGdBTVhzZk9lXy13UFd3?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4cc59e59b4c47436af9520f3",
+      "remembered_at": "2026-11-21T06:30:38.351325+00:00",
+      "event_date": "2026-11-21T06:05:05+00:00",
+      "last_update": "2026-11-21T06:05:05+00:00",
+      "event": "US Court Hands Down 19 Year Sentence in Assassination Plot Case | Breaking News | Dunya News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assassination",
+        "breaking",
+        "case",
+        "court",
+        "down",
+        "dunya",
+        "hands",
+        "news",
+        "plot",
+        "sentence",
+        "year"
+      ],
+      "source_excerpt": "US Court Hands Down 19 Year Sentence in Assassination Plot Case | Breaking News | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcmpTeG1fSDRIU0VZRHhqMzVPQmtfX2QtaGxwcTJyREtUdS1SNXBwa3QxN0FtZ0tvTlhjMEVMQ1dWSWNIOFE4VzdQdEg3NzRMeTQyaG5wYTZWdVlScnUxNktISzRPS2pfSmpsdi00b2tiVy0xZUU2Zk9IQm4zd1lDSXZwMDJBaUQ4dnhLRlM0Q1pLS09pVlBlVGlmVjdlamVDZzMtQ19lYmpENkhBVkVKUlJBZDBvV3JmTGpWNHloOWhYSHc4aTZVc3JTQXhycUJTcmo4RHV2WDB4dTRvQ3FHbQ?oc=5",
+          "published_at": "2026-11-21T06:05:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcmpTeG1fSDRIU0VZRHhqMzVPQmtfX2QtaGxwcTJyREtUdS1SNXBwa3QxN0FtZ0tvTlhjMEVMQ1dWSWNIOFE4VzdQdEg3NzRMeTQyaG5wYTZWdVlScnUxNktISzRPS2pfSmpsdi00b2tiVy0xZUU2Zk9IQm4zd1lDSXZwMDJBaUQ4dnhLRlM0Q1pLS09pVlBlVGlmVjdlamVDZzMtQ19lYmpENkhBVkVKUlJBZDBvV3JmTGpWNHloOWhYSHc4aTZVc3JTQXhycUJTcmo4RHV2WDB4dTRvQ3FHbQ?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T05:29:02.383400+00:00"
+  "updated_at": "2026-11-21T06:30:38.351325+00:00"
 }
