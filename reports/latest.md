@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 09:27 AM PKT
+# News Hub report - Sat 21 Nov, 10:29 AM PKT
 
 ## Collection
-- New items this run: 24 | items in rolling pool: 241
-- Unique story clusters: 209 (duplicates merged: 32)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 4
-- Items per outlet: Dawn Latest 5, Dawn Pakistan 4, Dawn 3, Geo News 2, Profit by Pakistan Today 2, Investify 2, Jang Urdu 1, Aaj English TV 1, GSMArena 1, ProPakistani 1, Iran International 1, The National 1
+- New items this run: 28 | items in rolling pool: 238
+- Unique story clusters: 200 (duplicates merged: 38)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 5
+- Items per outlet: Dawn 4, Dawn Pakistan 3, Al Jazeera 3, Dunya News 2, Dawn Latest 2, Geo News 2, BBC World 2, Investify 2, ARY News 1, AP News 1, The New York Times 1, Profit by Pakistan Today 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- TODAY’S PAPER | November 21, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Magistrate indicts anchorperson Iqrarul Hassan for cyberterrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi forces launch major strikes in Yemen | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Depardieu, Houellebecq face probe over alleged gang rape | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Talks on ‘killer robots’ in race against the clock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gen Z protests sweep Europe over wars, rising costs and climate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- TODAY’S PAPER | November 21, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Magistrate indicts anchorperson Iqrarul Hassan for cyberterrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi forces launch major strikes in Yemen | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Depardieu, Houellebecq face probe over alleged gang rape | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Talks on ‘killer robots’ in race against the clock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gen Z protests sweep Europe over wars, rising costs and climate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- TODAY’S PAPER | November 21, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Magistrate indicts anchorperson Iqrarul Hassan for cyberterrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi forces launch major strikes in Yemen | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Depardieu, Houellebecq face probe over alleged gang rape | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Talks on ‘killer robots’ in race against the clock | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gen Z protests sweep Europe over wars, rising costs and climate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,16 +38,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
-- [needs_review] normal | Police charge crowds during student protest march in Brussels | Wed 18 Nov, 02:54 AM PKT
-- [needs_review] normal | China and Canada expand tariff relief after Carney-Xi meeting | Wed 18 Nov, 03:04 AM PKT
-- [needs_review] normal | Pakistan Posts $39 Million Current Account Surplus in October, SBP Rep | Wed 18 Nov, 03:32 AM PKT
-- [needs_review] normal | Last-gasp Haaland shoots Norway into Nations League quarters | Wed 18 Nov, 03:42 AM PKT
 - [needs_review] normal | Democrats plan investigations into Trump's Venezuela oil money plans | Wed 18 Nov, 04:02 AM PKT
 - [needs_review] normal | US Fed's Lisa Cook refuses to attend White House hearing | Wed 18 Nov, 04:30 AM PKT
 - [needs_review] normal | UK hands over NATO-assigned US soldier accused of spying to US militar | Wed 18 Nov, 04:40 AM PKT
@@ -65,7 +61,6 @@
 - [needs_review] normal | Hungary on the Hunt for a New Football Hero | Wed 18 Nov, 08:52 AM PKT
 - [needs_review] normal | ICE Agents Shove and Pepper-Spray Pregnant Woman in US | Wed 18 Nov, 09:02 AM PKT
 - [needs_review] normal | Mary Peltola Flips Alaska Senate Seat in Democratic Win | Wed 18 Nov, 09:12 AM PKT
-- [published] normal | US Navy chief blasted over Iran war and sailor toll at hearing | Wed 18 Nov, 09:45 AM PKT
 - [needs_review] normal | Two killed in Balochistan's Zhob roadside blast | Wed 18 Nov, 09:55 AM PKT
 - [needs_review] normal | PTI questions Bilawal’s late realisation of people’s hardships | Wed 18 Nov, 10:05 AM PKT
 - [needs_review] normal | Balochistan MPs pledge resolution backing journalists | Wed 18 Nov, 10:15 AM PKT
@@ -247,11 +242,11 @@
 - [needs_review] normal | Nepali cricket fans in Qatar want team to compete globally | Sat 21 Nov, 02:58 AM PKT
 - [needs_review] normal | 10 years after Brexit, UK weighs a ‘Breturn’ to the EU | Sat 21 Nov, 03:23 AM PKT
 - [published] normal | Trump insists Iran won't make an acceptable deal | Sat 21 Nov, 03:33 AM PKT
-- [queued] normal | Jennifer Lawrence and Josh Hutcherson reveal favorite Hunger Games fil | Sat 21 Nov, 03:43 AM PKT
-- [queued] normal | Gaza’s displaced children gather to celebrate World Children’s Day | Sat 21 Nov, 03:53 AM PKT
-- [queued] normal | Russian missiles land in Poland amid NATO drills | Sat 21 Nov, 04:18 AM PKT
-- [queued] normal | Iraq PM targets militia stronghold in state control push | Sat 21 Nov, 04:28 AM PKT
-- [queued] normal | Denmark accuses Russia of plotting rapper assassination | Sat 21 Nov, 04:38 AM PKT
+- [needs_review] normal | Jennifer Lawrence and Josh Hutcherson reveal favorite Hunger Games fil | Sat 21 Nov, 03:43 AM PKT
+- [needs_review] normal | Gaza’s displaced children gather to celebrate World Children’s Day | Sat 21 Nov, 03:53 AM PKT
+- [needs_review] normal | Russian missiles land in Poland amid NATO drills | Sat 21 Nov, 04:18 AM PKT
+- [needs_review] normal | Iraq PM targets militia stronghold in state control push | Sat 21 Nov, 04:28 AM PKT
+- [published] normal | Denmark accuses Russia of plotting rapper assassination | Sat 21 Nov, 04:38 AM PKT
 - [queued] normal | Fossil fuel talks deadlock pushes COP31 into overtime | Sat 21 Nov, 04:48 AM PKT
 - [queued] normal | Rahul Gandhi Backs Strong India-Israel Ties Despite Gaza War | Sat 21 Nov, 05:08 AM PKT
 - [queued] normal | Pakistan Crowned Men’s Blind Cricket Asia Cup Champions | Sat 21 Nov, 05:18 AM PKT
@@ -271,16 +266,25 @@
 - [queued] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
 
 ## Publishing this run
-- Published 'Trump insists Iran won't make an acceptable deal'.
+- Published 'Denmark accuses Russia of plotting rapper assassination'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 10872 | output tokens: 5654
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
 - Errors: 5
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: Expecting value: line 90 column 9 (char 3483)
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 67 column 7 (char 2778)
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: lin
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"

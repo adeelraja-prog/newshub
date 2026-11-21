@@ -97844,7 +97844,682 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "add691e17136846af926ffc7",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-20T22:45:47+00:00",
+      "last_update": "2026-11-21T04:21:59+00:00",
+      "event": "Saudi forces launch major strikes in Yemen",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "forces",
+        "launch",
+        "major",
+        "saudi",
+        "strikes",
+        "the",
+        "tribune",
+        "yemen"
+      ],
+      "source_excerpt": "Saudi forces launch major strikes in Yemen The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZl9mLWx0dGFHNDZnNkVBN0JUNDVDck9HS1VESkVSR19BT1NwNFFmNlBEZHZPMml1bUFZYVR5RlAxRkVWOTNrdUdUcXNMZlZsaHdkWU40RDBIV3ZPM0JmWmxTWUh6RzFGcHVqOUhNZnhoN1FuTnkyZ3hQNFBwOHBvQlZIVkh2d9IBjgFBVV95cUxNRklqTGE2Xzc3NWRVd3FSNlAtb01KOHJwWFlfOEl5LURTemZuaFF0UUVIZW5iTlZXcFZVR1NTRTdsUTVTUXNfaEtrTmhvaW93bDdFbjFJWUdQdG1CMTNPazd2b3RiU1N3SVZTTG1rMm9FRnFOYVBaa05LcHpBS1hmQnR4SVdwbF93QUNwdjNB?oc=5",
+          "published_at": "2026-11-20T22:45:47+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0t3SmVabXNIdDMwSVVnQXdCeUJTc2dfQlZIUGNFZ2wtNklXRlVXSXVCNTdEOGxRWC1vR2laNFRhSFZKSlU5T1hzaG5kU3BITlFwVGx1VWtESVc5YTBZZ18yOU5zb2stcmVNdU10T1gxWEo0ZEFyZEh0dVlaLWR1X2h1RVpsSVM3X0dpcGMzS21kM2w0dVhLMXlGS3VaTWllanZDaHE0Zw?oc=5",
+          "published_at": "2026-11-21T04:21:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZl9mLWx0dGFHNDZnNkVBN0JUNDVDck9HS1VESkVSR19BT1NwNFFmNlBEZHZPMml1bUFZYVR5RlAxRkVWOTNrdUdUcXNMZlZsaHdkWU40RDBIV3ZPM0JmWmxTWUh6RzFGcHVqOUhNZnhoN1FuTnkyZ3hQNFBwOHBvQlZIVkh2d9IBjgFBVV95cUxNRklqTGE2Xzc3NWRVd3FSNlAtb01KOHJwWFlfOEl5LURTemZuaFF0UUVIZW5iTlZXcFZVR1NTRTdsUTVTUXNfaEtrTmhvaW93bDdFbjFJWUdQdG1CMTNPazd2b3RiU1N3SVZTTG1rMm9FRnFOYVBaa05LcHpBS1hmQnR4SVdwbF93QUNwdjNB?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9affd0d3cfafee8d685b0274",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-20T23:30:10+00:00",
+      "last_update": "2026-11-21T04:30:03+00:00",
+      "event": "Depardieu, Houellebecq face probe over alleged gang rape",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "dawn",
+        "depardieu",
+        "face",
+        "gang",
+        "houellebecq",
+        "over",
+        "probe",
+        "rape"
+      ],
+      "source_excerpt": "Depardieu, Houellebecq face probe over alleged gang rape Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdi1LTFVBUGY3M2I5YU9QTXhuel9KV09PNzZyMU9IeW9fTy16TE9QTzhrNWhVdEdvcUJIVXVIdEVIQVFSbHhLOWswUnBLNWs5X3pEY1d5SUhzdjE0NERCQ3F0dXU4X0hEYkNtWW0zcDc4UEJHRzhQZTNOQ3hBYmhmYS0xOXU2ZW90WHhrRTNvalB6cWM?oc=5",
+          "published_at": "2026-11-20T23:30:10+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046092/french-actor-gerard-depardieu-author-michel-houellebecq-face-probe-over-alleged-gang-rape",
+          "published_at": "2026-11-21T04:30:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdi1LTFVBUGY3M2I5YU9QTXhuel9KV09PNzZyMU9IeW9fTy16TE9QTzhrNWhVdEdvcUJIVXVIdEVIQVFSbHhLOWswUnBLNWs5X3pEY1d5SUhzdjE0NERCQ3F0dXU4X0hEYkNtWW0zcDc4UEJHRzhQZTNOQ3hBYmhmYS0xOXU2ZW90WHhrRTNvalB6cWM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5f85ff06712836a41ce16157",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-20T23:30:10+00:00",
+      "last_update": "2026-11-21T05:01:07+00:00",
+      "event": "Talks on ‘killer robots’ in race against the clock",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "clock",
+        "dawn",
+        "killer",
+        "race",
+        "robots",
+        "talks",
+        "the"
+      ],
+      "source_excerpt": "Talks on ‘killer robots’ in race against the clock Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3FGbEtYNElvLUFweUFSWXJJaS16b3IwbGxOd1RxVWhwQ2dub004YXNDci1DN1E1X0tPcjh4UXdQQ282TWtiUmg5cmFDckRnQUFUcy1IQVpJRlhjWFFpQVJBRFR4MVM0UklpX09xMmhPamVtLUZlN2EwODVPd0JjdXRFOWxuR2I4N2c?oc=5",
+          "published_at": "2026-11-20T23:30:10+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692033-states-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028",
+          "published_at": "2026-11-21T05:01:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3FGbEtYNElvLUFweUFSWXJJaS16b3IwbGxOd1RxVWhwQ2dub004YXNDci1DN1E1X0tPcjh4UXdQQ282TWtiUmg5cmFDckRnQUFUcy1IQVpJRlhjWFFpQVJBRFR4MVM0UklpX09xMmhPamVtLUZlN2EwODVPd0JjdXRFOWxuR2I4N2c?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1d5e73a5f021cb07a49eadf5",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-21T04:34:48+00:00",
+      "last_update": "2026-11-21T04:34:48+00:00",
+      "event": "Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "agency",
+        "alleged",
+        "and",
+        "case",
+        "chief",
+        "counterfeit",
+        "custody",
+        "day",
+        "executive",
+        "federal",
+        "fia",
+        "five",
+        "flu",
+        "friday",
+        "granted",
+        "including",
+        "into",
+        "investigation",
+        "involving",
+        "islamabad",
+        "judici",
+        "judicial",
+        "lab",
+        "magistrate",
+        "officer",
+        "over",
+        "patients",
+        "physical",
+        "private",
+        "remand",
+        "remanded",
+        "substandard",
+        "suspects",
+        "the",
+        "three",
+        "vaccine",
+        "vaccines"
+      ],
+      "source_excerpt": "ISLAMABAD: A judicial magistrate on Friday granted the Federal Investigation Agency (FIA) five-day physical remand of three suspects, including the chief executive officer of a private lab, in a case involving the alleged administration of counterfeit and substandard flu vaccines to patients. Judici",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2045961/three-suspects-remanded-into-fia-custody-over-counterfeit-vaccine-in-islamabad",
+          "published_at": "2026-11-21T04:34:48+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeElhcGNxYVV5eHotZlVwNjMtR2l6TTFZa1hfdnViUm1WTEJlcXJIS2VERVdLT1FYd2U4UlpCVFZoQXJkcjZiZ1ZhaXRGUDdScDhWQ0U5UG9fZExreThqYzQyV0Q4dFJGczlYM3VkNmVYR2drV1VvSVdCanczakJPaXpfMWgxQktCRElYbEpqNmtQSUYwUFU3bHp2TFU4TXJQ?oc=5",
+          "published_at": "2026-11-21T04:34:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2045961/three-suspects-remanded-into-fia-custody-over-counterfeit-vaccine-in-islamabad",
+        "publisher_url": "https://www.dawn.com/news/2045961/three-suspects-remanded-into-fia-custody-over-counterfeit-vaccine-in-islamabad",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a6d33c91dc6f68c4eeb06732",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-21T05:16:15+00:00",
+      "last_update": "2026-11-21T05:16:15+00:00",
+      "event": "Funeral held for New York teen shot while walking to school",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "for",
+        "funeral",
+        "held",
+        "new",
+        "school",
+        "shot",
+        "teen",
+        "walking",
+        "while",
+        "york"
+      ],
+      "source_excerpt": "Funeral held for New York teen shot while walking to school",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
+          "published_at": "2026-11-21T05:16:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2177dea8f96070afefa58b89",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-21T05:08:40+00:00",
+      "last_update": "2026-11-21T05:08:40+00:00",
+      "event": "Al Jazeera explains: The US-China AI race is entering a new phase",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "artificial",
+        "china",
+        "entering",
+        "explains",
+        "from",
+        "intelligence",
+        "jazeera",
+        "latest",
+        "matthew",
+        "new",
+        "phase",
+        "race",
+        "the",
+        "torres",
+        "unpacks",
+        "world"
+      ],
+      "source_excerpt": "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
+          "published_at": "2026-11-21T05:08:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a0b1677a05ee5b836409ab52",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-21T04:34:00+00:00",
+      "last_update": "2026-11-21T04:34:00+00:00",
+      "event": "Man convicted of starting Palisades fire in Los Angeles",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "800",
+        "and",
+        "angeles",
+        "arson",
+        "buildings",
+        "convicted",
+        "destroyed",
+        "fire",
+        "killed",
+        "leading",
+        "los",
+        "man",
+        "more",
+        "old",
+        "palisades",
+        "people",
+        "resident",
+        "starting",
+        "than",
+        "that",
+        "the",
+        "was",
+        "wildfires",
+        "year"
+      ],
+      "source_excerpt": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T04:34:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3e9382ad894b912a931ab041",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-21T05:15:41+00:00",
+      "last_update": "2026-11-21T05:15:41+00:00",
+      "event": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "against",
+        "attacks",
+        "biggest",
+        "calls",
+        "came",
+        "comments",
+        "friend",
+        "killer",
+        "launched",
+        "leader",
+        "putin",
+        "russia",
+        "russian",
+        "says",
+        "this",
+        "trump",
+        "ukraine",
+        "year",
+        "zelensky"
+      ],
+      "source_excerpt": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T05:15:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "02d47d67546b0be74ccee16e",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-21T05:16:30+00:00",
+      "last_update": "2026-11-21T05:16:30+00:00",
+      "event": "Cummins wins Cricket Australia's 'unanimous support' to remain Test captain",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australia",
+        "captain",
+        "cricket",
+        "cummins",
+        "dawn",
+        "remain",
+        "support",
+        "test",
+        "unanimous",
+        "wins"
+      ],
+      "source_excerpt": "Cummins wins Cricket Australia's 'unanimous support' to remain Test captain Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVV2a2E5NEVkT3VWQnlPS0tsTkVrRWU5VFFVSmZEeGhhVjE4UG5WQkJWVXJ5UUxKWkdSTi1uQ1UzZjkyZWdTakVJVDZuVXJmNFBmaDZvRVR4S1oxOEFMUXBXWEdsV1EyZlRlaEZVMVhRclZ1dXNNbHV6M3FfX0I4RFF5bUthWlhPdmItRVRMVEhSTTVzd0tIaDJydkdkMkRYdVNTMTA1cENIQQ?oc=5",
+          "published_at": "2026-11-21T05:16:30+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046094/cummins-wins-cricket-australias-unanimous-support-to-remain-test-captain",
+          "published_at": "2026-11-21T05:16:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVV2a2E5NEVkT3VWQnlPS0tsTkVrRWU5VFFVSmZEeGhhVjE4UG5WQkJWVXJ5UUxKWkdSTi1uQ1UzZjkyZWdTakVJVDZuVXJmNFBmaDZvRVR4S1oxOEFMUXBXWEdsV1EyZlRlaEZVMVhRclZ1dXNNbHV6M3FfX0I4RFF5bUthWlhPdmItRVRMVEhSTTVzd0tIaDJydkdkMkRYdVNTMTA1cENIQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a18e5dbaaf61f17a77eb484b",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-21T04:34:44+00:00",
+      "last_update": "2026-11-21T04:43:53+00:00",
+      "event": "Internet provider expects submarine cable repairs to be completed by Dec 6",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cable",
+        "completed",
+        "dawn",
+        "dec",
+        "expects",
+        "internet",
+        "provider",
+        "repairs",
+        "submarine"
+      ],
+      "source_excerpt": "Internet provider expects submarine cable repairs to be completed by Dec 6 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUdJcjdBbHpESjZXUC1TOFotM1RKY0xZZDhxZ1FiRXNBRVAwc3Y0Qks3VnR5cjZtSG9yOS04WjNLY0JvMVZBZ09Yd3NmTEZmbVlOYnQ5WFVCeDBYY0VCX2tIZUZYU1h6VG81M0hWVHFsTUNtQjkwNkVWODQ5ZDVwZXlLRUtDNkhUWUhkeTJOX1VTSXA2M3FDQWloelc3am9Ycl9IUDVWSUxqbzct?oc=5",
+          "published_at": "2026-11-21T04:34:44+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046093/internet-provider-expects-submarine-cable-repairs-to-be-completed-by-dec-6",
+          "published_at": "2026-11-21T04:43:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUdJcjdBbHpESjZXUC1TOFotM1RKY0xZZDhxZ1FiRXNBRVAwc3Y0Qks3VnR5cjZtSG9yOS04WjNLY0JvMVZBZ09Yd3NmTEZmbVlOYnQ5WFVCeDBYY0VCX2tIZUZYU1h6VG81M0hWVHFsTUNtQjkwNkVWODQ5ZDVwZXlLRUtDNkhUWUhkeTJOX1VTSXA2M3FDQWloelc3am9Ycl9IUDVWSUxqbzct?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e4e5f81a66adf90c1fe26d2a",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-21T05:05:10+00:00",
+      "last_update": "2026-11-21T05:05:10+00:00",
+      "event": "Iran Ready to Compromise? Major Shift in Nuclear Negotiations | Breaking News | Dunya News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "breaking",
+        "compromise",
+        "dunya",
+        "iran",
+        "major",
+        "negotiations",
+        "news",
+        "nuclear",
+        "ready",
+        "shift"
+      ],
+      "source_excerpt": "Iran Ready to Compromise? Major Shift in Nuclear Negotiations | Breaking News | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2pvRW4xa2JfN3RHcjNVR2s5UmN0bHc1Tk1zQlRTNi1LTThzLTlVOE5UUC1aWXcyY3VIcEloWnN0d2dXWEVpeThrcjdnM0h0NnphQkdCYk9pWE5HQmk1cGFXTF9lVmZXRE42akdpd0JmdzlITHhtVXMyVmpvdFpIdVNzdmlvcElPcVF1MllsbzJfS3pxdW9PakM4U2Q0d1JPM3lsZlo3SlMwQzNROWZPdnFSdjZkUG1veTE2a3ctb1ZfQjRNdGxmdGxGMkU3aGQ3ak9LRElIWmpFVmlTdFE?oc=5",
+          "published_at": "2026-11-21T05:05:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2pvRW4xa2JfN3RHcjNVR2s5UmN0bHc1Tk1zQlRTNi1LTThzLTlVOE5UUC1aWXcyY3VIcEloWnN0d2dXWEVpeThrcjdnM0h0NnphQkdCYk9pWE5HQmk1cGFXTF9lVmZXRE42akdpd0JmdzlITHhtVXMyVmpvdFpIdVNzdmlvcElPcVF1MllsbzJfS3pxdW9PakM4U2Q0d1JPM3lsZlo3SlMwQzNROWZPdnFSdjZkUG1veTE2a3ctb1ZfQjRNdGxmdGxGMkU3aGQ3ak9LRElIWmpFVmlTdFE?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "753f7031d62c0cebb7557bc0",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-21T05:14:45+00:00",
+      "last_update": "2026-11-21T05:14:45+00:00",
+      "event": "Another Tanker Hit Near Oman! Fire Erupts in the Strait of Hormuz | US Iran Conflict | Breaking News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "another",
+        "breaking",
+        "conflict",
+        "dunya",
+        "erupts",
+        "fire",
+        "hit",
+        "hormuz",
+        "iran",
+        "near",
+        "news",
+        "oman",
+        "strait",
+        "tanker",
+        "the"
+      ],
+      "source_excerpt": "Another Tanker Hit Near Oman! Fire Erupts in the Strait of Hormuz | US Iran Conflict | Breaking News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeUI5ODVLZktiTnhHX0hDUWNudkVLWnRYYnFoVEtVa1dJaGJHNHV6b1hldHE1THVScFZYRE9BelZ2WE9GWW9zZFdaUVE3X2U0Mkd0TEdvVDJ2UzJ4VzExYTMxcXlXc1F4RDMwWkp1YmtBQUdkYkdVQ2Rrd1JReHZ2UjBXUHBaYUVIdktoV1NYbmFaOG5IMHFuQXowa25SRGhfbHJoejUzRlpkSFZBZ1hodWZrUVNNUWpnOHBFY3haVTROdTBVb2U3dTVoUm1QSHE0QS11YWRmb0hPTWF2M1R3c3haM1R6aHI0V1E?oc=5",
+          "published_at": "2026-11-21T05:14:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeUI5ODVLZktiTnhHX0hDUWNudkVLWnRYYnFoVEtVa1dJaGJHNHV6b1hldHE1THVScFZYRE9BelZ2WE9GWW9zZFdaUVE3X2U0Mkd0TEdvVDJ2UzJ4VzExYTMxcXlXc1F4RDMwWkp1YmtBQUdkYkdVQ2Rrd1JReHZ2UjBXUHBaYUVIdktoV1NYbmFaOG5IMHFuQXowa25SRGhfbHJoejUzRlpkSFZBZ1hodWZrUVNNUWpnOHBFY3haVTROdTBVb2U3dTVoUm1QSHE0QS11YWRmb0hPTWF2M1R3c3haM1R6aHI0V1E?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cc9a9226b27112f81e8f052b",
+      "remembered_at": "2026-11-21T05:29:02.383400+00:00",
+      "event_date": "2026-11-21T05:17:41+00:00",
+      "last_update": "2026-11-21T05:17:41+00:00",
+      "event": "Drew Barrymore gets unexpected marriage advice from Jennifer Lopez",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "advice",
+        "again",
+        "and",
+        "barrymore",
+        "candid",
+        "complicated",
+        "counts",
+        "divorce",
+        "drew",
+        "during",
+        "fellow",
+        "from",
+        "gets",
+        "given",
+        "got",
+        "has",
+        "her",
+        "hilarious",
+        "histories",
+        "into",
+        "jennifer",
+        "just",
+        "lopez",
+        "marriage",
+        "moment",
+        "permission",
+        "respective",
+        "stars",
+        "surprisingly",
+        "the",
+        "their",
+        "thinks",
+        "try",
+        "turned",
+        "two",
+        "unexpected",
+        "veteran"
+      ],
+      "source_excerpt": "Drew Barrymore and Jennifer Lopez just turned their complicated marriage histories into a surprisingly hilarious moment — and Barrymore thinks her fellow divorce veteran has given her permission to try again. The two stars got candid about their respective divorce counts during...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692034-drew-barrymore-gets-unexpected-marriage-advice-from-jennifer-lopez",
+          "published_at": "2026-11-21T05:17:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692034-drew-barrymore-gets-unexpected-marriage-advice-from-jennifer-lopez",
+        "publisher_url": "https://www.geo.tv/latest/692034-drew-barrymore-gets-unexpected-marriage-advice-from-jennifer-lopez",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T04:27:52.194557+00:00"
+  "updated_at": "2026-11-21T05:29:02.383400+00:00"
 }
