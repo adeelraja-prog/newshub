@@ -1,110 +1,119 @@
-# News Hub report - Sun 22 Nov, 02:01 AM PKT
+# News Hub report - Sun 22 Nov, 02:47 AM PKT
 
 ## Collection
-- New items this run: 13 | items in rolling pool: 449
-- Unique story clusters: 404 (duplicates merged: 45)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 4
-- Items per outlet: Al Jazeera 4, The Express Tribune 3, Engadget 2, Pakistan Today 2, Geo News 1, Jang Urdu 1, Samaa Fast Lane 0, Express Urdu Search 0, Samaa TV Search 0, Samaa TV 0, Express News Urdu 0, Express News TV 0
+- New items this run: 23 | items in rolling pool: 338
+- Unique story clusters: 301 (duplicates merged: 37)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 4
+- Items per outlet: Al Jazeera 7, Pakistan Today 5, Engadget 3, TechCrunch 2, The News International 1, GSMArena 1, BBC Health 1, BBC World 1, Around Prague 1, Reuters 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATIVE | https://www.youtube.com/watch?v=n6JvEB0XVc4
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- President Zardari approves five ordinances on KP legislation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico captures drug kingpin on FBI's most wanted list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Thousands protest across Europe over living costs and housing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - AOC challenged over AIPAC’s influence on Democratic leadership | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is the US Army detonating lead-rich explosives in Iowa? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bahrain says Iranian attack causes fire at industrial facility | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- President Zardari approves five ordinances on KP legislation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico captures drug kingpin on FBI's most wanted list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Thousands protest across Europe over living costs and housing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - AOC challenged over AIPAC’s influence on Democratic leadership | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is the US Army detonating lead-rich explosives in Iowa? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bahrain says Iranian attack causes fire at industrial facility | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- President Zardari approves five ordinances on KP legislation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico captures drug kingpin on FBI's most wanted list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Thousands protest across Europe over living costs and housing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - AOC challenged over AIPAC’s influence on Democratic leadership | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is the US Army detonating lead-rich explosives in Iowa? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bahrain says Iranian attack causes fire at industrial facility | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 97/120 | empty: 1 | failed: 22 | malformed/partial: 22
-- Trusted publisher desks with at least one healthy source: 9/10
-- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Hum News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI and Imran Khan Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Rights and Accountability Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Parliament and Constitution Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Samaa
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### President Zardari approves five ordinances on KP legislation  [NORMAL]
-- Poster: صدر زرداری کی خیبر پختونخوا میں پانچ آرڈیننسز کی منظوری / President Zardari approves five KP ordinances | category politics
-- Alternative headline: President Zardari promulgates five KP ordinances, strips lawmakers of key privileges
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWRmNkV2eVZqckd6ZUR1WmVtbng4VjVCU0VGTFNKc0NLYVpKWjhLWkhobnZjRjdQMkl0cVI1dmFXZGFUdFkyLVRvSk1jblVYcDlLRWthbjBxdGtaYUxRWlM5aWRHczAxQzREM0d0VlpzOTV2Q3VIRk1obkRQMW1YRi12Z3NSRU5TVlRLSWFJaEJLN0dCbnp4X0hKaGtpT1NuNmJ6eU4wcmRNZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWRmNkV2eVZqckd6ZUR1WmVtbng4VjVCU0VGTFNKc0NLYVpKWjhLWkhobnZjRjdQMkl0cVI1dmFXZGFUdFkyLVRvSk1jblVYcDlLRWthbjBxdGtaYUxRWlM5aWRHczAxQzREM0d0VlpzOTV2Q3VIRk1obkRQMW1YRi12Z3NSRU5TVlRLSWFJaEJLN0dCbnp4X0hKaGtpT1NuNmJ6eU4wcmRNZw?oc=5
-- Supporting coverage: samaa tv, Pakistan Today
-- Keywords: KP ordinances, President Zardari, Khyber Pakhtunkhwa, legislation, ordinance approval | hashtags: #KPOrdinances #PresidentZardari #KhyberPakhtunkhwa #PakistanPolitics
-- Scheduled: Sun 22 Nov, 02:01 AM PKT
-- Caption:
-```
-President Asif Ali Zardari has officially approved five ordinances concerning legislation in Khyber Pakhtunkhwa, bringing significant changes to provincial laws.
-
-President Asif Ali Zardari has approved five ordinances regarding legislation in Khyber Pakhtunkhwa. The development brings notable changes to the province's legal framework, impacting local governance and provincial lawmakers according to media reports.
-
-صدر آصف علی زرداری نے خیبر پختونخوا میں قانون سازی سے متعلق پانچ آرڈیننسز کی منظوری دے دی ہے۔ میڈیا رپورٹس کے مطابق اس اقدام سے صوبے کے قانونی ڈھامچے میں نمایاں تبدیلیاں آئی ہیں جو صوبائی قانون سازوں کو متاثر کرتی ہیں۔
-
-First reported by samaa tv
-
-#KPOrdinances #PresidentZardari #KhyberPakhtunkhwa #PakistanPolitics
-```
-
-### Israeli strike hits food aid vehicle in Gaza, killing three  [NORMAL]
-- Poster: غزہ میں امدادی گاڑی پر اسرائیلی حملہ، تین فلسطینی جاں بحق / Israeli strike in Gaza kills three in food aid vehicle | category war
-- Alternative headline: Israeli strike on vehicle distributing food aid in Gaza kills three
+### Jair Bolsonaro Admitted to Intensive Care With Bowel Obstruction  [NORMAL]
+- Poster: برازیলের سابق صدر جائیر بولسونارو شدید بیماری کے باعث آئی سی یو میں داخل / Bolsonaro in ICU with Bowel Obstruction | category health
+- Alternative headline: Former Brazilian President Jair Bolsonaro Hospitalized in ICU
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Gaza strike, Israeli attack, food aid, Palestinians killed, Gaza | hashtags: #Gaza #GazaStrike #Palestine #AidWorkers
-- Scheduled: Sun 22 Nov, 02:11 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Jair Bolsonaro, intensive care, bowel obstruction, Brazil, hospital, former president | hashtags: #JairBolsonaro #Brazil #ICU #HealthNews #AlJazeera
+- Scheduled: Sun 22 Nov, 02:47 AM PKT
 - Caption:
 ```
-Three Palestinians were killed when an Israeli air attack struck a vehicle carrying food aid in Gaza.
+Former Brazilian president Jair Bolsonaro has been admitted to intensive care suffering from a bowel obstruction, though officials report he remains stable.
 
-Three Palestinians lost their lives in an Israeli air attack targeting a vehicle that was carrying food aid in Gaza. The incident adds to the mounting humanitarian crisis and casualties in the ongoing conflict.
+Former Brazilian president Jair Bolsonaro, currently serving a sentence for plotting a coup, has been admitted to intensive care due to a bowel obstruction. According to the hospital, his condition is stable and he is currently breathing on his own.
 
-غزہ میں خوراک لے جانے والی ایک گاڑی پر اسرائیلی فضائی حملے میں تین فلسطینی جاں بحق ہو گئے۔ اس واقعے نے جاری تنازع کے دوران انسانی بحران اور جانی نقصان میں مزید اضافہ کر دیا ہے۔
+برازیলের سابق صدر جائیر بولسونارو، جو اس وقت بغاوت کی سازش کے الزام میں سزا کاٹ رہے ہیں، آنتوں میں رکاوٹ کے باعث انتہائی نگہداشت کے وارڈ میں داخل ہیں۔ اسپتال کے مطابق ان کی حالت مستحکم ہے اور وہ خود سانس لے رہے ہیں۔
 
 First reported by Al Jazeera
 
-#Gaza #GazaStrike #Palestine #AidWorkers
+#JairBolsonaro #Brazil #ICU #HealthNews #AlJazeera
 ```
 
-- Indian outlets blocked this run: 0 items
+### Mexico Captures FBI Most Wanted Drug Kingpin in Dramatic Raid  [NORMAL]
+- Poster: میکسیکو کی فوج نے ایف بی آئی کے مطلوب ترین منشیات فروش کو گرفتار کر لیا / Mexico Captures FBI Most Wanted Drug Kingpin | category crime
+- Alternative headline: Mexican Special Forces Arrest Top Ten FBI Fugitive Chapo Isidro
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/692103-mexico-captures-drug-kingpin-on-fbis-most-wanted-list | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692103-mexico-captures-drug-kingpin-on-fbis-most-wanted-list
+- Supporting coverage: Geo News, BBC World
+- Keywords: Chapo Isidro, Mexico, FBI most wanted, drug kingpin, Sinaloa cartel, military raid | hashtags: #Mexico #FBIWanted #Cartel #ChapoIsidro #Geonews
+- Scheduled: Sun 22 Nov, 02:57 AM PKT
+- Caption:
+```
+Mexican special forces have captured Fausto Isidro Meza, an FBI most wanted drug kingpin, following a fierce firefight in Sinaloa.
+
+Mexico's military has captured Fausto Isidro Meza, known as 'Chapo Isidro', who was on the FBI's list of 10 most wanted fugitives. He and two other suspects were seized during a special forces operation and shootout in Guasave, Sinaloa, which caused panic near a local baseball stadium.
+
+میکسیکو کی فوج نے ایف بی آئی کے 10 انتہائی مطلوب مفروروں میں شامل فاوستو اسیڈرو میزا کو گرفتار کر لیا ہے۔ سناولوا کے علاقے گواساو میں اسپیشل فورسز کے آپریشن اور فائرنگ کے تبادلے کے دوران اسے دو دیگر افراد کے ساتھ حراست میں لیا گیا، جس سے ایک مقامی بیس بال اسٹیڈیم کے قریب خوف و ہراس پھیل گیا۔
+
+First reported by Geo News and BBC World
+
+#Mexico #FBIWanted #Cartel #ChapoIsidro #Geonews
+```
+
+### Thousands Protest Across Europe Over Soaring Living Costs and Housing  [NORMAL]
+- Poster: مہنگائی اور رہائشی بحران کے خلاف یورپ بھر میں ہزاروں افراد کا احتجاج / Thousands Protest Across Europe Over Costs | category economy
+- Alternative headline: European Citizens Take to the Streets Amid Severe Economic Hardship
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Europe protests, living costs, housing, France, Portugal, inflation | hashtags: #EuropeProtests #CostOfLiving #HousingCrisis #Inflation #AlJazeera
+- Scheduled: Sun 22 Nov, 03:07 AM PKT
+- Caption:
+```
+Thousands of demonstrators have taken to the streets across European nations like France and Portugal to protest rising living costs and housing crises.
+
+Thousands of people have joined demonstrations across Europe, notably in France and Portugal, to protest against soaring living costs, housing shortages, and broader economic hardships. These protests follow a wave of youth-led movements addressing financial pressures and education concerns across the region.
+
+فرانس اور پرتگال سمیت یورپ بھر میں ہزاروں افراد نے بڑھتی ہوئی مہنگائی، رہائشی بحران اور معاشی مشکلات کے خلاف مظاہروں میں حصہ لیا ہے۔ یہ احتجاج خطے بھر میں نوجوانوں کی قیادت میں ہونے والی ان تحریکوں کا تسلسل ہے جو معاشی دباؤ اور تعلیمی مسائل کے خلاف اٹھائی گئی ہیں۔
+
+First reported by Al Jazeera
+
+#EuropeProtests #CostOfLiving #HousingCrisis #Inflation #AlJazeera
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
@@ -304,9 +313,9 @@ First reported by Al Jazeera
 - [published] normal | Princess of Wales discusses cancer journey in new documentary Heal | Sat 21 Nov, 07:42 PM PKT
 - [needs_review] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
 - [published] normal | Former Nvidia CEO Jensen Huang to testify at public US Senate hearing | Sat 21 Nov, 08:17 PM PKT
-- [queued] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
-- [queued] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
-- [queued] normal | Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup | Sat 21 Nov, 08:47 PM PKT
+- [needs_review] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
+- [needs_review] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
+- [published] normal | Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup | Sat 21 Nov, 08:47 PM PKT
 - [queued] normal | US Midterms 2026: What happens before the new Congress takes office? | Sat 21 Nov, 09:06 PM PKT
 - [queued] normal | Chaudhary's 66 helps Australia edge past England in first T20 | Sat 21 Nov, 09:16 PM PKT
 - [queued] normal | Gujranwala: Neighbors arrested for mother and daughter's murder | Sat 21 Nov, 09:26 PM PKT
@@ -332,16 +341,15 @@ First reported by Al Jazeera
 - [queued] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
 - [queued] normal | President Zardari approves five ordinances on KP legislation | Sun 22 Nov, 02:01 AM PKT
 - [queued] normal | Israeli strike hits food aid vehicle in Gaza, killing three | Sun 22 Nov, 02:11 AM PKT
+- [queued] normal | Jair Bolsonaro Admitted to Intensive Care With Bowel Obstruction | Sun 22 Nov, 02:47 AM PKT
+- [queued] normal | Mexico Captures FBI Most Wanted Drug Kingpin in Dramatic Raid | Sun 22 Nov, 02:57 AM PKT
+- [queued] normal | Thousands Protest Across Europe Over Soaring Living Costs and Housing | Sun 22 Nov, 03:07 AM PKT
 
 ## Publishing this run
-- Published 'Former Nvidia CEO Jensen Huang to testify at public US Senate hearing'.
+- Published 'Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup'.
 
 ## Gemini usage
-- Calls: 5 | prompt tokens: 3701 | output tokens: 1159
-- Errors: 3
+- Calls: 3 | prompt tokens: 3243 | output tokens: 1622
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an

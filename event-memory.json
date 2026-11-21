@@ -106913,7 +106913,599 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e25cf520fbc90133b0d589dd",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T15:56:00+00:00",
+      "last_update": "2026-11-21T21:05:29+00:00",
+      "event": "Mexico captures drug kingpin on FBI's most wanted list",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "afpfausto",
+        "after",
+        "also",
+        "arrested",
+        "captures",
+        "chapo",
+        "drug",
+        "fausto",
+        "fbi",
+        "flores",
+        "forces",
+        "friday",
+        "from",
+        "fugitives",
+        "gang",
+        "handout",
+        "image",
+        "isidro",
+        "kingpin",
+        "known",
+        "leader",
+        "list",
+        "mexico",
+        "meza",
+        "most",
+        "night",
+        "november",
+        "obtained",
+        "operation",
+        "shows",
+        "special",
+        "the",
+        "this",
+        "wanted"
+      ],
+      "source_excerpt": "This handout image obtained 21 November, 2026 from the FBI's Most Wanted list shows Fausto Isidro Meza-Flores, also known as \"Chapo Isidro”. — AFPFausto Isidro Meza on FBI's list of 10 most wanted fugitives.Special forces arrested gang leader Meza on Friday night.After operation,...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692103-mexico-captures-drug-kingpin-on-fbis-most-wanted-list",
+          "published_at": "2026-11-21T15:56:00+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T21:05:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692103-mexico-captures-drug-kingpin-on-fbis-most-wanted-list",
+        "publisher_url": "https://www.geo.tv/latest/692103-mexico-captures-drug-kingpin-on-fbis-most-wanted-list",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "59df3a926e09d10cb61ed4eb",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T21:31:03+00:00",
+      "last_update": "2026-11-21T21:33:45+00:00",
+      "event": "Bahrain says Iranian attack causes fire at industrial facility",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attack",
+        "awali",
+        "bahrain",
+        "bases",
+        "causes",
+        "facility",
+        "fire",
+        "industrial",
+        "injuries",
+        "iran",
+        "iranian",
+        "irgc",
+        "military",
+        "positions",
+        "reports",
+        "riffa",
+        "says",
+        "targeted",
+        "two"
+      ],
+      "source_excerpt": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+          "published_at": "2026-11-21T21:31:03+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVlibGxsbXZhME1WYWYtNmJmUHpzSTg5RHRBUVlEbmkxUUk1X183TE9xbV9raDRRTkxZcXZIa3VMX0d3RFU2OEh1YXRLMkNObnUtbEp3cC1WcTUzUXl2dlNBdk02cHdPdXBxeG41NVVHTWk3dEpabE14bGpVemx1aXFrX3pDMUZVZGVSWDhMb1JfcjhPa2FIdGkwMk1zSmVGSVJwMHFfMNIBrAFBVV95cUxOcmJjTXlwWFQ5ak4yeS1scHJoUVVGYVhqSkF1WS13TXR1RFFLdUwtSDZwYmJ2ajZWOGJtcGlLU1diU1NwTXNhaEs3MTlPUnNyUlNNSXVOMXp4ZmVIZVpuX1l4akQ2S09pMWN3eTdhVW81akVGYm50cUIwQ2duZ0ExdFNnN3B0OGwzMGlnc01oMjhyRjlTQjNMa1JrNlpRZlktNkZrUTZZV2xkR2kt?oc=5",
+          "published_at": "2026-11-21T21:33:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "321ab9b779ee050dde4c6163",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T21:11:54+00:00",
+      "last_update": "2026-11-21T21:11:54+00:00",
+      "event": "Impunity fuels surge in settler violence across occupied West Bank",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "bank",
+        "fuels",
+        "impunity",
+        "occupied",
+        "settler",
+        "surge",
+        "violence",
+        "west"
+      ],
+      "source_excerpt": "Impunity fuels surge in settler violence across occupied West Bank",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+          "published_at": "2026-11-21T21:11:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b9648f6a2435e4c4d3d8fa21",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T21:02:18+00:00",
+      "last_update": "2026-11-21T21:02:18+00:00",
+      "event": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bolsonaro",
+        "bowel",
+        "brazil",
+        "breathing",
+        "care",
+        "coup",
+        "for",
+        "former",
+        "his",
+        "hospital",
+        "intensive",
+        "jair",
+        "obstruction",
+        "own",
+        "plotting",
+        "president",
+        "says",
+        "sentence",
+        "serving",
+        "stable",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+          "published_at": "2026-11-21T21:02:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f388c9c9206a55f171e469eb",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T20:56:35+00:00",
+      "last_update": "2026-11-21T21:00:00+00:00",
+      "event": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accept",
+        "accepts",
+        "conditions",
+        "difficult",
+        "foreign",
+        "held",
+        "iran",
+        "mediators",
+        "minister",
+        "not",
+        "qatari",
+        "reasonable",
+        "reopening",
+        "says",
+        "strait",
+        "talks",
+        "the",
+        "urges",
+        "with"
+      ],
+      "source_excerpt": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+          "published_at": "2026-11-21T20:56:35+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFKUDdNZFRCLWtBLVdXaXJicmtVTFVoMFM2anB6VnA2dER4bHhWTVROaDdpWFhTeUpZYUJRWnZjYzc1b3g1WC1TcTJnZk5EdXpULTRwRFJRMGJRYmRKTzlzd1FiazJrSlNGRHNuUktRRjNaLTBTWlJScGhkeHJMTnYxdUdlcVRJOHZmWFdFeE1fUnlhMHB5MnM1SzcxaTdrWnRiT1BFbktpcmhSemw3anQ1R23SAboBQVVfeXFMT01MTmVjb1NOQWlBR3ZTRUhUU203dVZZSVljRnUwcGhWSUtiQkFOOFdsQjduS0tSVkN0VUtIVDc5NTJ4b21UbVVXWEp2SmdXTFZpbHB1X3FvM3ZHZ2piWURGTU45anA0M3VDOTJiaXh6ZTNZVFhlSlhlTjBoS0FFWjY0NDJ4V04zSUFwcVVORTJqQ083RjAtdmtCanZUMWQxNzgwak5NSWxwMWx5eVZGWHlWODhIM1R4Uzln?oc=5",
+          "published_at": "2026-11-21T21:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f8325ce6c2351a9126df7a20",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T21:21:57+00:00",
+      "last_update": "2026-11-21T21:21:57+00:00",
+      "event": "'It gives me the ick': Can you cheat on someone with a video game?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "auto",
+        "build",
+        "but",
+        "can",
+        "character",
+        "cheat",
+        "dates",
+        "far",
+        "fictional",
+        "game",
+        "gives",
+        "grand",
+        "ick",
+        "lets",
+        "nurture",
+        "relationship",
+        "romantic",
+        "say",
+        "some",
+        "someone",
+        "step",
+        "the",
+        "theft",
+        "too",
+        "video",
+        "with",
+        "you"
+      ],
+      "source_excerpt": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T21:21:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "998037df1bedc232f4db3afb",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T20:32:00+00:00",
+      "last_update": "2026-11-21T20:32:00+00:00",
+      "event": "French police officers jailed for racist attack on Black musician: How long will they serve?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "attack",
+        "beating",
+        "been",
+        "black",
+        "for",
+        "found",
+        "french",
+        "guilty",
+        "have",
+        "how",
+        "jailed",
+        "long",
+        "music",
+        "musician",
+        "officers",
+        "police",
+        "producer",
+        "racist",
+        "sent",
+        "serve",
+        "shockwaves",
+        "six",
+        "the",
+        "they",
+        "three",
+        "through",
+        "towards",
+        "two",
+        "violence",
+        "will",
+        "years"
+      ],
+      "source_excerpt": "French police officers jailed for racist attack on Black musician: How long will they serve? Three French police officers have been found guilty of racist violence towards a black music producer and have been jailed for up to two years, six years after the beating sent shockwaves through...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692131-french-police-officers-jailed-for-racist-attack-on-black-musician",
+          "published_at": "2026-11-21T20:32:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692131-french-police-officers-jailed-for-racist-attack-on-black-musician",
+        "publisher_url": "https://www.geo.tv/latest/692131-french-police-officers-jailed-for-racist-attack-on-black-musician",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a02cafc11b506cfeeabc61ca",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T20:11:53+00:00",
+      "last_update": "2026-11-21T20:11:53+00:00",
+      "event": "نئےصوبوں کے مسئلے کا حل ریفرنڈم ہے، رانا ثناء",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اللّٰہ",
+        "ثناء",
+        "جرگہ",
+        "رانا",
+        "ریفرنڈم",
+        "صوبوں",
+        "مسئلے",
+        "مشیر",
+        "معاملے",
+        "میں",
+        "نئے",
+        "نئےصوبوں",
+        "نیوز",
+        "وزیراعظم",
+        "پروگرام",
+        "کرتے",
+        "کہا",
+        "گفتگو",
+        "ہوئے",
+        "ہے،",
+        "ہے۔جیو"
+      ],
+      "source_excerpt": "وزیراعظم کے مشیر رانا ثناء اللّٰہ نے کہا ہے کہ نئے صوبوں کے معاملے کا حل ریفرنڈم میں ہے۔جیو نیوز کے پروگرام جرگہ میں گفتگو کرتے ہوئے...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1635516",
+          "published_at": "2026-11-21T20:11:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1635516",
+        "publisher_url": "https://jang.com.pk/news/1635516",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d46f3d8a3ec6a75f1bab46b7",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T20:22:26+00:00",
+      "last_update": "2026-11-21T20:22:26+00:00",
+      "event": "Is asking for rights a crime?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asking",
+        "crime",
+        "express",
+        "for",
+        "rights",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Is asking for rights a crime? The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tQjZKbDBaUm04NGlHS19XUHZ0ajZvRmdKTUxpSkJuRFgwNUgtYmpNQmhhQTJ4NVVnNWZfX19MQzY3ZjJNYkVrVVNCQlM4aWRsMUcwdE1ZaGVBZ1Njd2FIdDZmaVBTYzhuTDI0WU9oNjJDRGdX?oc=5",
+          "published_at": "2026-11-21T20:22:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tQjZKbDBaUm04NGlHS19XUHZ0ajZvRmdKTUxpSkJuRFgwNUgtYmpNQmhhQTJ4NVVnNWZfX19MQzY3ZjJNYkVrVVNCQlM4aWRsMUcwdE1ZaGVBZ1Njd2FIdDZmaVBTYzhuTDI0WU9oNjJDRGdX?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ffbfe739b9094ef834f61ae8",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T20:42:38+00:00",
+      "last_update": "2026-11-21T20:42:38+00:00",
+      "event": "Thalassemia crisis in Turbat",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "crisis",
+        "express",
+        "thalassemia",
+        "the",
+        "tribune",
+        "turbat"
+      ],
+      "source_excerpt": "Thalassemia crisis in Turbat The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DWU5VUk1vTDhPei05R3lIdEhtN1VteEFNQUh3bjQwMUZnSFd2Qm5tNGIxS3FGdEtmdE1IWUk1S2plRHV0dkYxM3dPdWx3QVBSRVBWV0tmcDNKS1dEcmItcUVheU9EcUNGc0d3ZlpDU1F1MTN1?oc=5",
+          "published_at": "2026-11-21T20:42:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DWU5VUk1vTDhPei05R3lIdEhtN1VteEFNQUh3bjQwMUZnSFd2Qm5tNGIxS3FGdEtmdE1IWUk1S2plRHV0dkYxM3dPdWx3QVBSRVBWV0tmcDNKS1dEcmItcUVheU9EcUNGc0d3ZlpDU1F1MTN1?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3e2e8bf8f9bfb660892946ed",
+      "remembered_at": "2026-11-21T21:47:08.327988+00:00",
+      "event_date": "2026-11-21T20:56:00+00:00",
+      "last_update": "2026-11-21T20:56:00+00:00",
+      "event": "Alix Earle’s father gets honest about their working dynamic",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "alix",
+        "dynamic",
+        "earle",
+        "father",
+        "gets",
+        "honest",
+        "international",
+        "news",
+        "the",
+        "their",
+        "working"
+      ],
+      "source_excerpt": "Alix Earle’s father gets honest about their working dynamic The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0xrendaY0JJd0FxTTlwcFB2QzVrRExmemxLYVVsRzk5YW9RVUpjZkdyZ3BVNlJQTlBLY0tNQVF2cXJJVXVBcFBrYUxGeW1GdVlrbGUyOU1KMjllMmVwYXQtMUVoVVhfc1N0dFNUbk1LMVp3WWlhZkxtbFUxTHd5aTl4NlpfeGpQd2ZtTEVnR3lVeC1peTVDRW9IZ3dRNUnSAZ8BQVVfeXFMTXdMa3p3WmNCSXdBcU05cHBQdkM1a0RMZnpsS2FVbEc5OWFvUVVKY2ZHcmdwVTZSUE5QS2NLTUFRdnFySVV1QXBQa2FMRnltRnVZa2xlMjlNSjI5ZTJlcGF0LTFFaFVYX3NTdHRTVG5NSzFad1lpYWZMbWxVMUx3eWk5eDZaX3hqUHdmbUxFZ0d5VXgtaXk1Q0VvSGd3UTVJ?oc=5",
+          "published_at": "2026-11-21T20:56:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0xrendaY0JJd0FxTTlwcFB2QzVrRExmemxLYVVsRzk5YW9RVUpjZkdyZ3BVNlJQTlBLY0tNQVF2cXJJVXVBcFBrYUxGeW1GdVlrbGUyOU1KMjllMmVwYXQtMUVoVVhfc1N0dFNUbk1LMVp3WWlhZkxtbFUxTHd5aTl4NlpfeGpQd2ZtTEVnR3lVeC1peTVDRW9IZ3dRNUnSAZ8BQVVfeXFMTXdMa3p3WmNCSXdBcU05cHBQdkM1a0RMZnpsS2FVbEc5OWFvUVVKY2ZHcmdwVTZSUE5QS2NLTUFRdnFySVV1QXBQa2FMRnltRnVZa2xlMjlNSjI5ZTJlcGF0LTFFaFVYX3NTdHRTVG5NSzFad1lpYWZMbWxVMUx3eWk5eDZaX3hqUHdmbUxFZ0d5VXgtaXk1Q0VvSGd3UTVJ?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T21:01:17.684964+00:00"
+  "updated_at": "2026-11-21T21:47:08.327988+00:00"
 }
