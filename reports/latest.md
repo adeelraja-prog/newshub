@@ -1,35 +1,35 @@
-# News Hub report - Sun 22 Nov, 12:24 AM PKT
+# News Hub report - Sun 22 Nov, 01:13 AM PKT
 
 ## Collection
-- New items this run: 45 | items in rolling pool: 570
-- Unique story clusters: 505 (duplicates merged: 65)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 7
-- Items per outlet: Geo News 8, ARY News 6, Engadget 6, Al Jazeera 4, Jang Urdu 3, Pakistan Today 3, samaa tv 2, Dawn 2, The News International 1, Dawn Pakistan 1, TechCrunch 1, GSMArena 1
+- New items this run: 25 | items in rolling pool: 529
+- Unique story clusters: 468 (duplicates merged: 61)
+- Clusters dropped as already published/queued: 31; unchanged since last analysis: 5
+- Items per outlet: Geo News 6, Engadget 4, Israel Hayom 3, ARY News 2, Pakistan Today 2, Dawn Pakistan 1, UrduPoint 1, Al Jazeera 1, X 1, The Verge 1, The New Arab 1, Orinoco Tribune 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran to ration electricity as war hits energy network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK police drag man from protest over ‘Pallet Sign Acton’ shirt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- EU proposes tax on Big Tech to boost budget | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Deadly attack in Kyiv as Russia launches barrage against Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBI national crime database suffers suspected breach: Reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran to ration electricity as war hits energy network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK police drag man from protest over ‘Pallet Sign Acton’ shirt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- EU proposes tax on Big Tech to boost budget | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Deadly attack in Kyiv as Russia launches barrage against Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBI national crime database suffers suspected breach: Reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran to ration electricity as war hits energy network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK police drag man from protest over ‘Pallet Sign Acton’ shirt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- EU proposes tax on Big Tech to boost budget | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Deadly attack in Kyiv as Russia launches barrage against Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBI national crime database suffers suspected breach: Reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,58 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Trump Pushes For Permanent Deal To Block Iran Nuclear Program  [NORMAL]
-- Poster: ایران کے جوہری پروگرام کو روکنے کے لیے مستقل معاہدے کا مطالبہ / Trump Wants Permanent Iran Nuclear Deal | category us_politics
-- Alternative headline: US President Seeks Permanent Agreement Stopping Iran Nukes
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Iran nuclear deal, Donald Trump, nuclear weapons, US politics, Iran, permanent agreement | hashtags: #Trump #IranNuclear #USPolitics #NuclearDeal #AlJazeera
-- Scheduled: Sun 22 Nov, 12:24 AM PKT
-- Caption:
-```
-US President Donald Trump has stated his desire for a permanent agreement to prevent Iran from developing nuclear weapons.
-
-US President Donald Trump has expressed his intention to secure a permanent agreement aimed at stopping Iran from acquiring or developing nuclear weapons. The statement outlines ongoing international focus on Tehran's disputed nuclear capabilities.
-
-امریکی صدر ڈونلڈ ٹرمپ نے ایران کو جوہری ہتھیار تیار کرنے سے روکنے کے لیے ایک مستقل معاہدے تک پہنچنے کی خواہش کا اظہار کیا ہے۔ اس بیان سے تہران کی متنازعہ جوہری صلاحیتوں پر عالمی توجہ ظاہر ہوتی ہے۔
-
-First reported by Al Jazeera.
-
-#Trump #IranNuclear #USPolitics #NuclearDeal #AlJazeera
-```
-
-### Kaliningrad-Bound Ship Struck By Drones In Gulf Of Finland  [NORMAL]
-- Poster: فن لینڈ کی کھاڑی میں روس جانے والا بحری جہاز ڈرون حملے کا شکار / Ship Struck By Drones In Gulf Of Finland | category world
-- Alternative headline: Cargo Ship Damaged After Drone Attack In Gulf Of Finland
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera, BBC World
-- Keywords: drone attack, Kaliningrad, Gulf of Finland, Russia, cargo ship, maritime border | hashtags: #Russia #GulfOfFinland #DroneAttack #Kaliningrad #WorldNews
-- Scheduled: Sun 22 Nov, 12:34 AM PKT
-- Caption:
-```
-Russia reports that a cargo ship heading towards Kaliningrad was struck by drones near its maritime border, resulting in damage and crew evacuation.
-
-Two drones attacked a cargo ship near Russia's maritime border in the Gulf of Finland. The vessel, which was heading to Kaliningrad, sustained damage and the crew had to be evacuated following the strike.
-
-فن لینڈ کی کھاڑی میں روس کی سمندری سرحد کے قریب ایک کارگو جہاز پر دو ڈرون حملے کیے گئے۔ کالنگراڈ جانے والے اس جہاز کو نقصان پہنچا اور حملے کے بعد عملے کو محفوظ مقام پر منتقل کرنا پڑا۔
-
-First reported by Al Jazeera; also reported by BBC World.
-
-#Russia #GulfOfFinland #DroneAttack #Kaliningrad #WorldNews
-```
-
-### Iran To Ration Electricity As Regional Conflict Hits Energy Grid  [NORMAL]
-- Poster: جنگ کے اثرات کے باعث ایران میں بجلی کی بندش اور راشننگ کا فیصلہ / Iran To Ration Electricity Due To War | category other
-- Alternative headline: Power Rationing Introduced In Iran Amid Escalating War Impacts
+### EU Proposes Big Tech Tax to Fund Budget  [NORMAL]
+- Poster: یورپی یونین کا بجٹ پورا کرنے کیلئے بڑی ٹیکس تجاویز / EU Proposes Big Tech Tax to Fund Budget | category politics
+- Alternative headline: EU Proposes 3% Digital Tax on Big Tech
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjNkYUxaSk9tc01JT0EyNFpnNG9JWll6UXJ3N0loWVB5TG1LZTg1bnRYaU82YlpOOTRHc3ZURU91eXpwUFpLTS13V0d0S25nOEhPY2dIUjgyd1F5b1BRSWw4UWxXWGxxaDNJWHhfNVk4OFpIWXJUOG9xUGZESE13RFc5RzZLODVQQVR5dkp6Q2w?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjNkYUxaSk9tc01JT0EyNFpnNG9JWll6UXJ3N0loWVB5TG1LZTg1bnRYaU82YlpOOTRHc3ZURU91eXpwUFpLTS13V0d0S25nOEhPY2dIUjgyd1F5b1BRSWw4UWxXWGxxaDNJWHhfNVk4OFpIWXJUOG9xUGZESE13RFc5RzZLODVQQVR5dkp6Q2w?oc=5
-- Supporting coverage: The New Arab, Dawn
-- Keywords: Iran electricity rationing, Iran war, energy network, power cut, Dawn, infrastructure | hashtags: #Iran #ElectricityRationing #EnergyCrisis #DawnNews #MiddleEast
-- Scheduled: Sun 22 Nov, 12:44 AM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046129/eu-proposes-tax-on-big-tech-to-boost-budget | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046129/eu-proposes-tax-on-big-tech-to-boost-budget
+- Supporting coverage: Dawn Latest, Geo News
+- Keywords: EU tech tax, European Union, digital tax, Antonio Costa, EU budget, Big Tech | hashtags: #EUTax #BigTech #EuropeanUnion #Economy #TechNews
+- Scheduled: Sun 22 Nov, 01:13 AM PKT
 - Caption:
 ```
-Iran is set to implement electricity rationing as ongoing conflict severely impacts the country's energy infrastructure and network.
+The European Union has proposed taxing the world's biggest digital companies to fund its next budget amid deep divisions.
 
-Iran has announced plans to ration electricity supplies as the ongoing war heavily impacts its critical energy network. The measure highlights the deepening economic and infrastructural toll of the regional conflict on local populations.
+The European Union has put forward a plan to tax major digital companies to help fund its next long-term budget. European Council President Antonio Costa unveiled a spending proposal cutting €204 billion from an earlier draft, though it faced immediate criticism from both frugal member states and those opposing large spending cuts.
 
-جنگ کے باعث ایران کے توانائی کے نظام پر شدید دباؤ پڑا ہے، جس کے بعد ملک میں بجلی کی راشننگ کرنے کا اعلان کیا گیا ہے۔ اس اقدام سے مقامی آبادی کو درپیش مشکلات کا اندازہ ہوتا ہے۔
+یورپی یونین نے اپنے اگلے طویل مدتی بجٹ کی فنڈنگ کے لیے دنیا کی بڑی ڈیجیٹل کمپنیوں پر ٹیکس عائد کرنے کی تجویز پیش کر دی ہے۔ یورپی کونسل کے صدر انتونیو کوسٹا نے اخراجات کی ایک نئی تجویز پیش کی جس میں سابقہ مسودے کے مقابلے میں 204 ارب یورو کی کٹوتی کی گئی ہے، تاہم اسے جرمنی اور فرانس جیسےمؤثر ارکان کی طرف سے تنقید کا سامنا کرنا پڑا۔
 
-First reported by Dawn.
+First reported by Dawn Latest; also reported by Geo News
 
-#Iran #ElectricityRationing #EnergyCrisis #DawnNews #MiddleEast
+#EUTax #BigTech #EuropeanUnion #Economy #TechNews
 ```
 
-### UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt  [NORMAL]
-- Poster: برطانوی پولیس نے متنازعہ ٹی شرٹ پہننے پر مظاہرین کو گھسیٹ لیا / UK Police Remove Protester Over Shirt | category other
-- Alternative headline: Protester Removed By UK Police Over Controversial T-Shirt Slogan
+### Noni Madueke Salvages Draw for Arsenal Against Newcastle  [NORMAL]
+- Poster: نون مڈوک نے نیوکاسل کیخلاف آرسنل کو شکست سے بچا لیا / Noni Madueke Salvages Draw for Arsenal | category sports
+- Alternative headline: Arsenal Held to Draw by Newcastle After Raya Injury
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: UK police protest, Pallet Sign Acton, protester, UK news, Al Jazeera, demonstration | hashtags: #UKPolice #Protest #AlJazeera #Acton #UKNews
-- Scheduled: Sun 22 Nov, 12:54 AM PKT
+- Keywords: Arsenal vs Newcastle, Noni Madueke, Arsenal, Newcastle United, Premier League, Raya injury | hashtags: #Arsenal #PremierLeague #Newcastle #NoniMadueke #Football
+- Scheduled: Sun 22 Nov, 01:23 AM PKT
 - Caption:
 ```
-UK police were filmed dragging a man away from a protest demonstration over the wording on his shirt.
+League leaders Arsenal missed the chance to extend their lead at the top after being held to a draw.
 
-Footage shows UK police officers dragging a man away from a protest gathering due to a slogan displayed on his 'Pallet Sign Acton' shirt. The incident has drawn attention to policing tactics at public demonstrations.
+League leaders Arsenal missed the chance to go eight points clear at the top of the standings after being held to a draw by Newcastle United. Noni Madueke salvaged the draw for Arsenal in a match that also saw goalkeeper Raya sustain an injury.
 
-برطانوی پولیس نے ایک مظاہرے کے دوران ایک شخص کو اس کی ٹی شرٹ پر لکھے ہوئے نعرے کی وجہ سے زبردستی ہٹا دیا۔ اس واقعے کی ویڈیو سوشل میڈیا پر زیر بحث ہے۔
+لیگ کی سرکردہ ٹیم آرسنل نیوکاسل یونائیٹڈ کے خلاف میچ برابر ہونے پر پوائنٹس کی برتری میں اضافے کا موقع گنوا بیٹھی۔ نونی مڈوک نے میچ میں آرسنل کے لیے گول کر کے مقابلہ برابر کیا جبکہ اس دوران گول کیپر رایا زخمی بھی ہو گئے۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#UKPolice #Protest #AlJazeera #Acton #UKNews
+#Arsenal #PremierLeague #Newcastle #NoniMadueke #Football
 ```
 
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
@@ -338,7 +290,7 @@ First reported by Al Jazeera.
 - [needs_review] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
 - [published] normal | Zelensky calls Crimean Bridge strikes a fair response to Russian attac | Sat 21 Nov, 07:22 PM PKT
 - [published] normal | Pakistan Cricket Board announces new central contracts list for 38 pla | Sat 21 Nov, 07:32 PM PKT
-- [queued] normal | Princess of Wales discusses cancer journey in new documentary Heal | Sat 21 Nov, 07:42 PM PKT
+- [published] normal | Princess of Wales discusses cancer journey in new documentary Heal | Sat 21 Nov, 07:42 PM PKT
 - [queued] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
 - [queued] normal | Former Nvidia CEO Jensen Huang to testify at public US Senate hearing | Sat 21 Nov, 08:17 PM PKT
 - [queued] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
@@ -364,22 +316,20 @@ First reported by Al Jazeera.
 - [queued] normal | Kaliningrad-Bound Ship Struck By Drones In Gulf Of Finland | Sun 22 Nov, 12:34 AM PKT
 - [queued] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 12:44 AM PKT
 - [queued] normal | UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt | Sun 22 Nov, 12:54 AM PKT
+- [queued] normal | EU Proposes Big Tech Tax to Fund Budget | Sun 22 Nov, 01:13 AM PKT
+- [queued] normal | Noni Madueke Salvages Draw for Arsenal Against Newcastle | Sun 22 Nov, 01:23 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan Cricket Board announces new central contracts list for 38 players'.
+- Published 'Princess of Wales discusses cancer journey in new documentary Heal'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 4871 | output tokens: 2174
-- Errors: 3
+- Calls: 3 | prompt tokens: 2577 | output tokens: 1552
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
