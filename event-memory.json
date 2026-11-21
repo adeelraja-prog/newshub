@@ -102703,7 +102703,387 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "776d7154277d8ebb8214bbd4",
+      "remembered_at": "2026-11-21T14:22:28.854365+00:00",
+      "event_date": "2026-11-21T14:15:36+00:00",
+      "last_update": "2026-11-21T14:15:36+00:00",
+      "event": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "araghchi",
+        "civil",
+        "could",
+        "debate",
+        "doctrine",
+        "future",
+        "iran",
+        "its",
+        "major",
+        "nuclear",
+        "only",
+        "policy",
+        "programme",
+        "reverse",
+        "says",
+        "stated",
+        "strategic",
+        "the",
+        "there"
+      ],
+      "source_excerpt": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+          "published_at": "2026-11-21T14:15:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b1212240a0658f3cb3c2a2c1",
+      "remembered_at": "2026-11-21T14:22:28.854365+00:00",
+      "event_date": "2026-11-21T14:06:06+00:00",
+      "last_update": "2026-11-21T14:06:06+00:00",
+      "event": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "crisis",
+        "daily",
+        "deadly",
+        "faces",
+        "gaza",
+        "health",
+        "jerusalem",
+        "strikes"
+      ],
+      "source_excerpt": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+          "published_at": "2026-11-21T14:06:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b04439f0eeafdb4f97b4bcc",
+      "remembered_at": "2026-11-21T14:22:28.854365+00:00",
+      "event_date": "2026-11-21T13:45:55+00:00",
+      "last_update": "2026-11-21T13:45:55+00:00",
+      "event": "US & Canada News",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "canada",
+        "jazeera",
+        "news"
+      ],
+      "source_excerpt": "US & Canada News Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwRUJ2SEg1dGtlV2tCZUlVejVibFlxV0M5Qzgwb3c1aEpvYkxvb2FkWVBJZ0M3QmwxVHU1NVVxalQ2TzI1cmV3LThTTnY?oc=5",
+          "published_at": "2026-11-21T13:45:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwRUJ2SEg1dGtlV2tCZUlVejVibFlxV0M5Qzgwb3c1aEpvYkxvb2FkWVBJZ0M3QmwxVHU1NVVxalQ2TzI1cmV3LThTTnY?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fecfde00e7c4f438c6d31046",
+      "remembered_at": "2026-11-21T14:22:28.854365+00:00",
+      "event_date": "2026-11-21T13:58:57+00:00",
+      "last_update": "2026-11-21T13:58:57+00:00",
+      "event": "FIA arrests two suspects in Rs.250 million immigration fraud",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "250",
+        "arrests",
+        "arynews",
+        "fia",
+        "fraud",
+        "immigration",
+        "million",
+        "suspects",
+        "two"
+      ],
+      "source_excerpt": "FIA arrests two suspects in Rs.250 million immigration fraud ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ0tRemd3MVNoX0dpZVFpZ19fdTUzNHF0VTBxZTYwR1VjWDdRME9KQUZ0Slc3eGJWWnJ1VkxSaERBc2NEb3FVb2x6eUVJT0hfd0E1Mm5jbzZfNndpOFVsdDJQYlNTcXVOZHJ6eG9ieGtrdHZUaDBZX2NjbU0xZTJXSURGOEtmdw?oc=5",
+          "published_at": "2026-11-21T13:58:57+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/fia-arrests-two-suspects-in-rs-250-million-immigration-fraud",
+          "published_at": "2026-11-21T13:58:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ0tRemd3MVNoX0dpZVFpZ19fdTUzNHF0VTBxZTYwR1VjWDdRME9KQUZ0Slc3eGJWWnJ1VkxSaERBc2NEb3FVb2x6eUVJT0hfd0E1Mm5jbzZfNndpOFVsdDJQYlNTcXVOZHJ6eG9ieGtrdHZUaDBZX2NjbU0xZTJXSURGOEtmdw?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d0839a9010215f1c3634e382",
+      "remembered_at": "2026-11-21T14:22:28.854365+00:00",
+      "event_date": "2026-11-21T13:59:27+00:00",
+      "last_update": "2026-11-21T13:59:27+00:00",
+      "event": "Interior minister meets JI chief in Lahore, discusses country's 'overall situation'",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "chief",
+        "country",
+        "dawn",
+        "discusses",
+        "interior",
+        "lahore",
+        "meets",
+        "minister",
+        "overall",
+        "situation"
+      ],
+      "source_excerpt": "Interior minister meets JI chief in Lahore, discusses country's 'overall situation' Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdUNOWFNlSDlvU0UwZ2stMTVacGhfM0RoSmd1c2VfRy1SME1IdHZ2WjZEZUFwWXZrby1kaHpLWm5ZcngtSTBPYTUyLUF0cUpINWowWXdFcFJzZnJGdGRHOHk0Q3RYbEVQWW5CNjh4Wm9GV3NlX1dsS3RFcmc4QzVJU3h2MmNpSjdKUzE3WlZ5bEg5WkVLVThxaVJETEh0YWh3a2ZkSTRlbnRHMjFpTDN0NE1aVQ?oc=5",
+          "published_at": "2026-11-21T13:59:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdUNOWFNlSDlvU0UwZ2stMTVacGhfM0RoSmd1c2VfRy1SME1IdHZ2WjZEZUFwWXZrby1kaHpLWm5ZcngtSTBPYTUyLUF0cUpINWowWXdFcFJzZnJGdGRHOHk0Q3RYbEVQWW5CNjh4Wm9GV3NlX1dsS3RFcmc4QzVJU3h2MmNpSjdKUzE3WlZ5bEg5WkVLVThxaVJETEh0YWh3a2ZkSTRlbnRHMjFpTDN0NE1aVQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c63ce3b93fe78797a861160d",
+      "remembered_at": "2026-11-21T14:22:28.854365+00:00",
+      "event_date": "2026-11-21T14:13:00+00:00",
+      "last_update": "2026-11-21T14:13:00+00:00",
+      "event": "Pakistan hopes for early US-Iran deal as ‘world cannot afford prolonged conflict'",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "abandoned",
+        "accord",
+        "act",
+        "afford",
+        "afghanistan",
+        "against",
+        "and",
+        "briefs",
+        "calls",
+        "cannot",
+        "conflict",
+        "corps",
+        "dar",
+        "deal",
+        "deputy",
+        "dialogue",
+        "diplomatic",
+        "dpm",
+        "early",
+        "end",
+        "for",
+        "foreign",
+        "foreignofficepk",
+        "groups",
+        "hasn",
+        "hopes",
+        "iran",
+        "ishaq",
+        "islamabad",
+        "june",
+        "may",
+        "minister",
+        "must",
+        "pakistan",
+        "peace",
+        "prime",
+        "prolonged",
+        "says",
+        "terrorist",
+        "the",
+        "world"
+      ],
+      "source_excerpt": "Deputy Prime Minister and Foreign Minister Ishaq Dar briefs the diplomatic corps in Islamabad, May 5, 2026. — X/@ForeignOfficePk DPM says Pakistan hasn't abandoned June peace accord.Dar says Afghanistan must act against terrorist groups.FM calls for dialogue to end the...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692088-pakistan-hopes-for-early-us-iran-deal-as-world-cannot-afford-prolonged-conflict",
+          "published_at": "2026-11-21T14:13:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnR0QWFJNklWdzBNOHFLRV9OR2dPRHotWXFNMTMzUkRucTdPYlBTTzNGT3pRRXhuc084cWNRUV8yVTMwREhSUV9odXF4TFZEam04Z0Q1bTloTTJCN2hSYm9iMEFFVndrbHpMdjVFM1BTMHM1TG1zSXdSQnVFUWMtQTI2emtXd1pkTHRRS2VQX1BzWE52aGE4bmhUdWZBVlNfSkJBUFFuaGFOcnlVNUhtUzd3?oc=5",
+          "published_at": "2026-11-21T14:13:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692088-pakistan-hopes-for-early-us-iran-deal-as-world-cannot-afford-prolonged-conflict",
+        "publisher_url": "https://www.geo.tv/latest/692088-pakistan-hopes-for-early-us-iran-deal-as-world-cannot-afford-prolonged-conflict",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a5caf9228a2b7246a1251142",
+      "remembered_at": "2026-11-21T14:22:28.854365+00:00",
+      "event_date": "2026-11-21T14:16:12+00:00",
+      "last_update": "2026-11-21T14:16:12+00:00",
+      "event": "Pakistan aims to boost seafood exports",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aims",
+        "boost",
+        "exports",
+        "pakistan",
+        "seafood"
+      ],
+      "source_excerpt": "Pakistan aims to boost seafood exports",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-aims-to-boost-seafood-exports",
+          "published_at": "2026-11-21T14:16:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-aims-to-boost-seafood-exports",
+        "publisher_url": "https://arynews.tv/pakistan-aims-to-boost-seafood-exports",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8b9e3ff1d234eede3b9b68da",
+      "remembered_at": "2026-11-21T14:22:28.854365+00:00",
+      "event_date": "2026-11-21T13:29:33+00:00",
+      "last_update": "2026-11-21T13:29:33+00:00",
+      "event": "Three bodies recovered from graves in Balochistan, police say",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "balochistan",
+        "bodies",
+        "from",
+        "graves",
+        "police",
+        "recovered",
+        "say",
+        "three"
+      ],
+      "source_excerpt": "Three bodies recovered from graves in Balochistan, police say",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/three-bodies-recovered-from-graves-in-balochistan-police-say",
+          "published_at": "2026-11-21T13:29:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/three-bodies-recovered-from-graves-in-balochistan-police-say",
+        "publisher_url": "https://arynews.tv/three-bodies-recovered-from-graves-in-balochistan-police-say",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T13:24:24.101612+00:00"
+  "updated_at": "2026-11-21T14:22:28.854365+00:00"
 }

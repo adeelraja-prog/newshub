@@ -1,10 +1,10 @@
-# News Hub report - Sat 21 Nov, 06:24 PM PKT
+# News Hub report - Sat 21 Nov, 07:22 PM PKT
 
 ## Collection
-- New items this run: 114 | items in rolling pool: 564
-- Unique story clusters: 477 (duplicates merged: 87)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 52, ARY News 9, Al Jazeera 8, Geo News 7, samaa tv 6, TechJuice 4, Engadget 3, The News International 2, The Verge 2, Pakistan Today 2, ARYnews.tv 1, Dawn 1
+- New items this run: 141 | items in rolling pool: 663
+- Unique story clusters: 563 (duplicates merged: 100)
+- Clusters dropped as already published/queued: 21; unchanged since last analysis: 9
+- Items per outlet: UrduPoint 100, Geo News 10, ARY News 5, Pakistan Today 5, Al Jazeera 3, Engadget 3, samaa tv 2, Dawn 2, TechJuice 2, ARYnews.tv 1, The Verge 1, GSMArena 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -12,41 +12,138 @@
 
 ## Top 5 most important
 - Pakistan announce new central contracts list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Princess of Wales: Catherine talks about her cancer journey in new documentary Heal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran says allies China, Russia oppose change in nuclear doctrine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold prices plunge in Pakistan, fall by Rs3,500 per tola | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Pakistan announce new central contracts list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Princess of Wales: Catherine talks about her cancer journey in new documentary Heal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran says allies China, Russia oppose change in nuclear doctrine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold prices plunge in Pakistan, fall by Rs3,500 per tola | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Pakistan announce new central contracts list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Princess of Wales: Catherine talks about her cancer journey in new documentary Heal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran says allies China, Russia oppose change in nuclear doctrine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold prices plunge in Pakistan, fall by Rs3,500 per tola | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 114/120 | empty: 2 | failed: 4 | malformed/partial: 4
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Pakistan Political Crisis Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: AJK Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 4 items
+### Zelensky calls Crimean Bridge strikes a fair response to Russian attacks  [NORMAL]
+- Poster: کریমیا پل پر حملے روس کی جارحیت کا عادلانہ جواب ہیں، زیلنسکی / Crimean Bridge strikes are fair response, says Zelensky | category war
+- Alternative headline: Zelensky defends Crimean Bridge attacks during meeting with UK minister
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Crimean Bridge, Volodymyr Zelensky, Ukraine, Russia, bridges, war | hashtags: #Zelensky #CrimeanBridge #UkraineWar #Russia #BBC
+- Scheduled: Sat 21 Nov, 07:22 PM PKT
+- Caption:
+```
+Ukrainian President Volodymyr Zelensky has defended recent strikes on the Crimean Bridge, calling them a fair response to Russian attacks.
+
+Ukrainian President Volodymyr Zelensky has defended Kyiv's attacks on the Crimean Bridge, describing them as a fair response to numerous Russian strikes on bridges in Ukraine. He rejected claims that the bridge is exclusively civilian, pointing to evidence of military hardware using the route.
+
+یوکرین کے صدر ولادیمیر زیلنسکی نے کریمیا پل پر حملوں کا دفاع کرتے ہوئے انہیں روسی حملوں کا عادلانہ جواب قرار دیا ہے۔ انہوں نے اس دعوے کو مسترد کر دیا کہ پل صرف سویلین مقاصد کے لیے استعمال ہوتا ہے، اور کہا کہ اس پر فوجی سازوسامان منتقل کیا جا رہا تھا۔
+
+According to BBC World
+
+#Zelensky #CrimeanBridge #UkraineWar #Russia #BBC
+```
+
+### Pakistan Cricket Board announces new central contracts list for 38 players  [NORMAL]
+- Poster: پاکستان کرکٹ بورڈ نے 38 کھلاڑیوں کے لیے نئے سینٹرل کنٹریکٹس کا اعلان کر دیا / PCB announces new central contracts for 38 players | category sports
+- Alternative headline: PCB unveils new central contracts as 13 players miss out
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/pakistan-announce-new-central-contracts-list | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/pakistan-announce-new-central-contracts-list
+- Supporting coverage: ARY News, AP News
+- Keywords: central contracts, PCB, Babar Azam, Salman Ali Agha, Pakistan cricket, cricket squad | hashtags: #PCB #PakistanCricket #BabarAzam #CentralContracts #ARYNews
+- Scheduled: Sat 21 Nov, 07:32 PM PKT
+- Caption:
+```
+The Pakistan Cricket Board has announced a new central contracts structure for 38 men’s cricketers, with Babar Azam and Salman Ali Agha included in key categories.
+
+The Pakistan Cricket Board announced a new central contracts list for 38 men's cricketers, running until June 30, 2027. Babar Azam and Salman Ali Agha secured Test and ODI contracts, while 13 players missed out on the new structure.
+
+پاکستان کرکٹ بورڈ نے 38 مرد کرکٹرز کے لیے نئے سینٹرل کنٹریکٹس کا اعلان کر دیا ہے جو 30 جون 2027 تک نافذ العمل رہیں گے۔ بابر اعظم اور سلمان علی آغا کو ٹیسٹ اور ون ڈے کنٹریکٹس دیے گئے ہیں جبکہ 13 کھلاڑی فہرست سے باہر ہو گئے ہیں۔
+
+First reported by ARY News
+
+#PCB #PakistanCricket #BabarAzam #CentralContracts #ARYNews
+```
+
+### Princess of Wales discusses cancer journey in new documentary Heal  [NORMAL]
+- Poster: پرنسس آف ویلز کیطہر نے نئی دستاویزی فلم میں اپنے کینسر کے سفر پر بات کی / Princess Catherine talks cancer journey in new documentary Heal | category lifestyle
+- Alternative headline: Princess Catherine opens up about cancer treatment in upcoming show Heal
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5
+- Supporting coverage: BBC, BBC
+- Keywords: Princess of Wales, Catherine, Heal documentary, cancer journey, BBC, royal family | hashtags: #PrincessOfWales #Catherine #HealDocumentary #CancerJourney #BBC
+- Scheduled: Sat 21 Nov, 07:42 PM PKT
+- Caption:
+```
+The Princess of Wales, Catherine, has spoken about her cancer journey in a new documentary titled Heal.
+
+The Princess of Wales, Catherine, has discussed her ongoing cancer journey and experiences in a new documentary titled Heal, according to BBC reports.
+
+برطانوی شاہی خاندان کی رکن پرنسس آف ویلز کیتھرین نے ایک نئی دستاویزی فلم 'ہیل' میں اپنے کینسر کے علاج اور سفر کے بارے میں گفتگو کی ہے۔
+
+According to BBC
+
+#PrincessOfWales #Catherine #HealDocumentary #CancerJourney #BBC
+```
+
+### SICVD treats over 22,600 heart attack patients in ten months  [NORMAL]
+- Poster: ایس آئی سی وی ڈی نے 10 ماہ میں 22 ہزار سے زائد دل کے مریضوں کا علاج کیا / SICVD treats over 22,600 heart patients in 10 months | category health
+- Alternative headline: SICVD performs 1,626 surgeries and treats thousands of cardiac patients
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046116/sicvd-treats-22639-heart-attack-patients-performs-1626-surgeries-in-10-months | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046116/sicvd-treats-22639-heart-attack-patients-performs-1626-surgeries-in-10-months
+- Supporting coverage: Dawn Pakistan, Pakistan Today, ARY News
+- Keywords: SICVD, heart attack patients, surgeries, cardiac care, Dawn Pakistan, health | hashtags: #SICVD #CardiovascularHealth #HeartPatients #Healthcare #DawnNews
+- Scheduled: Sat 21 Nov, 07:52 PM PKT
+- Caption:
+```
+The Sindh Institute of Cardiovascular Diseases has treated 22,639 heart attack patients and performed 1,626 surgeries over a ten-month period.
+
+The Sindh Institute of Cardiovascular Diseases (SICVD) successfully treated 22,639 heart attack patients and performed 1,626 surgeries over the course of ten months, providing crucial cardiac care services.
+
+سندھ انسٹی ٹیوٹ آف کارڈیو ویسکولر ڈیزیزز (SICVD) نے دس ماہ کے دوران 22,639 دل کے دورے کے مریضوں کا علاج کیا اور 1,626 سرجریاں انجام دیں۔
+
+First reported by Dawn Pakistan
+
+#SICVD #CardiovascularHealth #HeartPatients #Healthcare #DawnNews
+```
+
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
-- [needs_review] normal | Iran Army Claims Targeting US Military Equipment At Kuwait Base | Wed 18 Nov, 12:03 PM PKT
-- [needs_review] normal | Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump | Wed 18 Nov, 12:13 PM PKT
-- [needs_review] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
 - [needs_review] normal | Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run | Wed 18 Nov, 01:27 PM PKT
 - [needs_review] normal | Rahim Yar Khan man arrested after fake suicide drama killed rescue div | Wed 18 Nov, 01:37 PM PKT
 - [needs_review] normal | Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperati | Wed 18 Nov, 02:37 PM PKT
@@ -54,8 +151,6 @@
 - [needs_review] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
 - [needs_review] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
 - [needs_review] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
-- [published] normal | Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump | Wed 18 Nov, 06:56 PM PKT
-- [published] normal | Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile | Wed 18 Nov, 07:06 PM PKT
 - [needs_review] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
 - [published] normal | Pakistan mediation in US-Iran war will fail without Washington clarity | Wed 18 Nov, 08:56 PM PKT
 - [published] normal | Trump's Board of Peace faults Israel and Hamas over Gaza war | Wed 18 Nov, 09:06 PM PKT
@@ -240,10 +335,10 @@
 - [needs_review] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
 - [queued] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [published] normal | Mustafa Kamal urges PTI to unconditionally support creation of new pro | Sat 21 Nov, 12:51 PM PKT
-- [queued] normal | Basra power station fire in Iraq kills at least four, injures 30 | Sat 21 Nov, 01:01 PM PKT
-- [queued] normal | WhatsApp raises group chat limit to 1,500 members | Sat 21 Nov, 01:11 PM PKT
-- [queued] normal | Father accused of raping daughter killed in CCD encounter in Kot Addu | Sat 21 Nov, 01:21 PM PKT
-- [queued] normal | Islamabad High Court Issues Important Order Regarding Imran Khan and B | Sat 21 Nov, 01:49 PM PKT
+- [needs_review] normal | Basra power station fire in Iraq kills at least four, injures 30 | Sat 21 Nov, 01:01 PM PKT
+- [needs_review] normal | WhatsApp raises group chat limit to 1,500 members | Sat 21 Nov, 01:11 PM PKT
+- [needs_review] normal | Father accused of raping daughter killed in CCD encounter in Kot Addu | Sat 21 Nov, 01:21 PM PKT
+- [published] normal | Islamabad High Court Issues Important Order Regarding Imran Khan and B | Sat 21 Nov, 01:49 PM PKT
 - [queued] normal | Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as  | Sat 21 Nov, 01:59 PM PKT
 - [queued] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
 - [queued] normal | Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper | Sat 21 Nov, 02:19 PM PKT
@@ -256,17 +351,18 @@
 - [queued] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
 - [queued] normal | Rizwan, Masood, and Ayub dropped as PCB unveils central contracts | Sat 21 Nov, 04:42 PM PKT
 - [queued] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
+- [queued] normal | Zelensky calls Crimean Bridge strikes a fair response to Russian attac | Sat 21 Nov, 07:22 PM PKT
+- [queued] normal | Pakistan Cricket Board announces new central contracts list for 38 pla | Sat 21 Nov, 07:32 PM PKT
+- [queued] normal | Princess of Wales discusses cancer journey in new documentary Heal | Sat 21 Nov, 07:42 PM PKT
+- [queued] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
 
 ## Publishing this run
-- Published 'Mustafa Kamal urges PTI to unconditionally support creation of new provinces'.
+- Published 'Islamabad High Court Issues Important Order Regarding Imran Khan and Bushra Bibi'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 4 | prompt tokens: 4801 | output tokens: 2523
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -275,11 +371,3 @@
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
