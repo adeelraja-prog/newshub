@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 04:18 AM PKT
+# News Hub report - Sat 21 Nov, 05:08 AM PKT
 
 ## Collection
-- New items this run: 34 | items in rolling pool: 435
-- Unique story clusters: 379 (duplicates merged: 56)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 2
-- Items per outlet: The Express Tribune 18, Dawn Latest 3, Geo News 2, Al Jazeera 2, Dawn 1, WRAL 1, Ars Technica 1, GSMArena 1, BBC Technology 1, BBC Science 1, BBC World 1, CBS News 1
+- New items this run: 77 | items in rolling pool: 447
+- Unique story clusters: 392 (duplicates merged: 55)
+- Clusters dropped as already published/queued: 34; unchanged since last analysis: 1
+- Items per outlet: Dawn 57, BBC 3, Al Jazeera 3, Engadget 2, BBC Health 2, The Express Tribune 1, Geo News 1, Wired 1, BBC Technology 1, BBC World 1, Pakistan Observer 1, Reuters 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Russian missiles land in Poland amid NATO drills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraq PM targets militia stronghold in bid to assert state control | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fossil fuel talks deadlock pushes COP31 climate summit into overtime | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan crowned Men’s Blind Cricket Asia Cup champions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Anthropic researcher says Claude solved math’s greatest riddle | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraqi forces enter pro-Iran militia’s stronghold | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - US lawmakers push for tougher AI chip rules amid China export crackdown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In a year of AI solving maths problems, Anthropic may have just solved the biggest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Russian missiles land in Poland amid NATO drills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraq PM targets militia stronghold in bid to assert state control | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fossil fuel talks deadlock pushes COP31 climate summit into overtime | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan crowned Men’s Blind Cricket Asia Cup champions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Anthropic researcher says Claude solved math’s greatest riddle | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraqi forces enter pro-Iran militia’s stronghold | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - US lawmakers push for tougher AI chip rules amid China export crackdown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In a year of AI solving maths problems, Anthropic may have just solved the biggest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Russian missiles land in Poland amid NATO drills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iraq PM targets militia stronghold in bid to assert state control | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fossil fuel talks deadlock pushes COP31 climate summit into overtime | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan crowned Men’s Blind Cricket Asia Cup champions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Anthropic researcher says Claude solved math’s greatest riddle | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraqi forces enter pro-Iran militia’s stronghold | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - US lawmakers push for tougher AI chip rules amid China export crackdown | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In a year of AI solving maths problems, Anthropic may have just solved the biggest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Russian missiles land in Poland amid NATO drills  [NORMAL]
-- Poster: پولینڈ میں روسی میزائل گرنے پر نیٹو کیرارش / Russian missiles hit Poland | category world
-- Alternative headline: NATO calls it a violation as Russian missiles hit Poland
+### Rahul Gandhi Backs Strong India-Israel Ties Despite Gaza War  [NORMAL]
+- Poster: علاوہ غزہ جنگ، راہول گندھی کی بھارت اسرائیل مضبوط تعلقات کی حمایت / Rahul Gandhi Backs India-Israel Ties | category politics
+- Alternative headline: Indian Opposition Leader Calls for Maintaining Deep Ties With Israel
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Rahul Gandhi, India Israel ties, Gaza war, New Delhi, opposition leader | hashtags: #RahulGandhi #IndiaIsrael #GazaWar #NewDelhi
+- Scheduled: Sat 21 Nov, 05:08 AM PKT
+- Caption:
+```
+Indian opposition leader Rahul Gandhi has stated that New Delhi should maintain strong relations with Israel despite the ongoing Gaza war.
+
+India’s opposition leader Rahul Gandhi has stated that New Delhi should continue to maintain strong ties with Israel, despite the ongoing conflict and war in Gaza.
+
+بھارت کے اپوزیشن رہنما راہول گندھی کا کہنا ہے کہ نئی دہلی کو غزہ میں جاری جنگ کے باوجود اسرائیل کے ساتھ مضبوط تعلقات برقرار رکھنے چاہئیں۔
+
+First reported by Al Jazeera.
+
+#RahulGandhi #IndiaIsrael #GazaWar #NewDelhi
+```
+
+### Pakistan Crowned Men’s Blind Cricket Asia Cup Champions  [NORMAL]
+- Poster: پاکستان بلائنڈ کرکٹ ایشیا کپ کا چیمپئن بن گیا / Pakistan Wins Blind Cricket Asia Cup | category sports
+- Alternative headline: Pakistan Declared Blind T20 Asia Cup Champions
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjQtWDZ3Q21YYUdaT0N0QVRHTEhTaWNFX1lOWUhnNDJIRzNocjdHSTNuWTFxakJKclRITGNwa1B2cEpuVUQ5NVllZjZPWVdNREdKcnZGWjYxSXhIREJhVFdDVlpLc3RPRGpya2FLY1luRDY5c2FsVlVCc3Rrd21EMmhxRFRIR2FyOUZwal9R0gGWAUFVX3lxTE5BdVVwaGVZR2NzUEgxek9vT0ZjajNvUjJhSlhjNHU4c2lqTjRfN1ZCcDExUE1yUmNZZnBsR0p1SkhING9zV2VtNkNnZE5ZWWVOQVVNUWJ3R3hMMzc0MmROLUNhZnFPSF9NZzVRc2pBTncyRkJlOHdiT1NGZWFndE9NMlV3SHRvTzRIOF8tTEFrU1hsSThzQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjQtWDZ3Q21YYUdaT0N0QVRHTEhTaWNFX1lOWUhnNDJIRzNocjdHSTNuWTFxakJKclRITGNwa1B2cEpuVUQ5NVllZjZPWVdNREdKcnZGWjYxSXhIREJhVFdDVlpLc3RPRGpya2FLY1luRDY5c2FsVlVCc3Rrd21EMmhxRFRIR2FyOUZwal9R0gGWAUFVX3lxTE5BdVVwaGVZR2NzUEgxek9vT0ZjajNvUjJhSlhjNHU4c2lqTjRfN1ZCcDExUE1yUmNZZnBsR0p1SkhING9zV2VtNkNnZE5ZWWVOQVVNUWJ3R3hMMzc0MmROLUNhZnFPSF9NZzVRc2pBTncyRkJlOHdiT1NGZWFndE9NMlV3SHRvTzRIOF8tTEFrU1hsSThzQQ?oc=5
-- Supporting coverage: AP News, The Express Tribune
-- Keywords: Russian missiles, Poland, NATO drills, Europe, missile strike | hashtags: #Poland #Russia #NATO #BreakingNews
-- Scheduled: Sat 21 Nov, 04:18 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9RaXAyUTY0QUc0bmdlOFIxSER4c0E3R2FVc1p2R3FCSDlfSks1S0xkRGV4bVZzcjFqUjkySmFCWlBuWmdOelRKUVA5NE1DX01JNmFIdUJlNEhJQjU2OWgtWWVaMGRfWGIwZG5oOXd4al81YW9qeGtYR2dxZHlJSHZBdTZRUXllc0FYbXZFNkVWeTVaMlpqUHpQVVFESzNPTkHSAbwBQVVfeXFMT29xdzFfbzJPX1pHMFh4ZV9NRmgyem12U2FFbHNkTUZXdHdpVFFCaW1ocHc2cFdicHl5dzBCeTNYbjNKdjkzNWNIVlU2ZWRmVEFMblVWa0c1ZzU3UTdyQjh2NmNOb1R6QXBCZ19QQmg3aFpKSzZ5SXQ0U3RQRzBPcTVXM1dOMmVjTy1aTWx1aU9NMXZweDZUTGlIeXVRU0hvOUM4N3h3cXpOS3pSUDBrQ2lJdm1oSTRlU3BfRTQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9RaXAyUTY0QUc0bmdlOFIxSER4c0E3R2FVc1p2R3FCSDlfSks1S0xkRGV4bVZzcjFqUjkySmFCWlBuWmdOelRKUVA5NE1DX01JNmFIdUJlNEhJQjU2OWgtWWVaMGRfWGIwZG5oOXd4al81YW9qeGtYR2dxZHlJSHZBdTZRUXllc0FYbXZFNkVWeTVaMlpqUHpQVVFESzNPTkHSAbwBQVVfeXFMT29xdzFfbzJPX1pHMFh4ZV9NRmgyem12U2FFbHNkTUZXdHdpVFFCaW1ocHc2cFdicHl5dzBCeTNYbjNKdjkzNWNIVlU2ZWRmVEFMblVWa0c1ZzU3UTdyQjh2NmNOb1R6QXBCZ19QQmg3aFpKSzZ5SXQ0U3RQRzBPcTVXM1dOMmVjTy1aTWx1aU9NMXZweDZUTGlIeXVRU0hvOUM4N3h3cXpOS3pSUDBrQ2lJdm1oSTRlU3BfRTQ?oc=5
+- Supporting coverage: The Express Tribune, Dawn
+- Keywords: Blind Cricket Asia Cup, Pakistan cricket, blind cricket, Asia Cup champions, sports | hashtags: #BlindCricket #AsiaCup #PakistanCricket #Sports
+- Scheduled: Sat 21 Nov, 05:18 AM PKT
 - Caption:
 ```
-Russian missiles have reportedly landed in Poland while European nations were holding military drills nearby, prompting serious concerns from NATO.
+Pakistan has officially been crowned the champions of the Men’s Blind Cricket Asia Cup following impressive tournament performances.
 
-Russian missiles have landed in Poland amidst ongoing military drills by European nations nearby. NATO has termed the incident a violation, raising tensions in the region as authorities investigate the event.
+Pakistan has been crowned champions of the Men’s Blind Cricket Asia Cup after delivering stellar performances throughout the regional tournament.
 
-یورپی ممالک کی فوجی مشقوں کے دوران پولینڈ میں روسی میزائل گرنے کا واقعہ پیش آیا ہے۔ نیٹو نے اس واقعے کو خلاف ورزی قرار دیا ہے جس سے خطے میں کشیدگی بڑھ گئی ہے۔
+پاکستان کو مینز بلائنڈ کرکٹ ایشیا کپ کا چیمپئن تاج پہنا دیا گیا ہے، ٹیم نے ٹورنامنٹ میں شاندار کارکردگی کا مظاہرہ کیا۔
 
 First reported by The Express Tribune.
 
-#Poland #Russia #NATO #BreakingNews
+#BlindCricket #AsiaCup #PakistanCricket #Sports
 ```
 
-### Iraq PM targets militia stronghold in state control push  [NORMAL]
-- Poster: عراقی وزیراعظم کا ملیشیا کے گڑھ پر آپریشن کا اعلان / Iraq PM targets militia stronghold | category security
-- Alternative headline: Iraqi PM launches nationwide operation in Jurf al-Sakhar
+### Anthropic Researcher Claims Claude Chatbot Solved Math’s Greatest Riddle  [NORMAL]
+- Poster: اینتھروپک کے محقق کا دعویٰ، کلائوڈ نے ریاضی کا مشکل ترین مسئلہ حل کر لیا / AI Chatbot Solves Riemann Hypothesis | category tech_ai
+- Alternative headline: Mathematician Says AI Model Solved Riemann Hypothesis
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Iraq PM, Jurf al-Sakhar, militia stronghold, state control, Ali al-Zaidi | hashtags: #Iraq #Baghdad #Militia #StateControl
-- Scheduled: Sat 21 Nov, 04:28 AM PKT
+- Original source: published_report - ARY News https://arynews.tv/anthropic-researcher-says-claude-solved-maths-greatest-riddle | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/anthropic-researcher-says-claude-solved-maths-greatest-riddle
+- Supporting coverage: ARY News, Dawn
+- Keywords: Riemann Hypothesis, Anthropic, Claude AI, Levent Alpoge, math riddle, Millennium Prize Problems | hashtags: #ClaudeAI #RiemannHypothesis #ArtificialIntelligence #Mathematics
+- Scheduled: Sat 21 Nov, 05:28 AM PKT
 - Caption:
 ```
-Iraqi Prime Minister announced a major operation in Jurf al-Sakhar as part of a nationwide push to assert state control.
+An Anthropic researcher claims he used the Claude AI chatbot to prove the Riemann Hypothesis, a 160-year-old math riddle.
 
-Iraqi Prime Minister Ali al-Zaidi stated that a military operation in Jurf al-Sakhar marks the beginning of a comprehensive nationwide effort to assert full state control over armed groups and territories.
+A mathematician at Anthropic claims to have used the Claude chatbot to prove the Riemann Hypothesis, a 160-year-old math problem. The claim, detailed in a four-page note, awaits independent verification and peer review.
 
-عراقی وزیر اعظم علی الزیدی نے کہا ہے کہ جرف الصخر میں آپریشن ملک بھر میں ریاستی کنٹرول قائم کرنے کی وسیع مہم کا آغاز ہے۔
+مصنوعی ذہانت کی کمپنی اینتھروپک کے ایک محقق نے دعویٰ کیا ہے کہ اس نے کلائوڈ چیٹ باٹ کی مدد سے ریمن ہائپوتھیسز کا ثبوت پیش کر دیا ہے، جو 160 سال پرانا ریاضی کا معمہ ہے۔
 
-First reported by Al Jazeera.
+First reported by ARY News.
 
-#Iraq #Baghdad #Militia #StateControl
+#ClaudeAI #RiemannHypothesis #ArtificialIntelligence #Mathematics
 ```
 
-### Denmark accuses Russia of plotting rapper assassination  [NORMAL]
-- Poster: ڈنمارک کا روس پر گلوکار کے قتل کی سازش کا الزام / Denmark accuses Russia of plot | category world
-- Alternative headline: Russian embassy calls Denmark's assassination plot claims unsubstantiated
+### Iraqi Security Forces Deploy in Pro-Iran Militia Stronghold  [NORMAL]
+- Poster: عراقی فورسز کا ایران حامی ملیشیا کے گڑھ میں داخلہ / Iraqi Forces Enter Militia Stronghold | category security
+- Alternative headline: Iraqi Forces Enter Stronghold of Pro-Iran Militia
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Denmark, Russia, assassination plot, rapper, Kyivstoner, Copenhagen | hashtags: #Denmark #Russia #AssassinationPlot #Copenhagen
-- Scheduled: Sat 21 Nov, 04:38 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMy00QWpEcGo5ZUIxWjJIendXV3VnNGlWT29vak1kYmRuR1BaYjRXZmtOUXM0SXRJalNlTmNWSmRGTy1WYTFGUDlfV0VzcmVJTDBSOXp0R1RGVkctUzFtZmNUekkwZ2syZTRzNi03T0FHa0U1dmpzb1BJaDVzU3JYenZuRXNraEJ5?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMy00QWpEcGo5ZUIxWjJIendXV3VnNGlWT29vak1kYmRuR1BaYjRXZmtOUXM0SXRJalNlTmNWSmRGTy1WYTFGUDlfV0VzcmVJTDBSOXp0R1RGVkctUzFtZmNUekkwZ2syZTRzNi03T0FHa0U1dmpzb1BJaDVzU3JYenZuRXNraEJ5?oc=5
+- Supporting coverage: NBC News, Dawn
+- Keywords: Iraqi forces, pro-Iran militia, Iraq security, militia stronghold, state control | hashtags: #IraqiForces #Iraq #Security #MiddleEast
+- Scheduled: Sat 21 Nov, 05:38 AM PKT
 - Caption:
 ```
-Denmark accused Russian intelligence of plotting to assassinate a US-Ukrainian rapper near Copenhagen, leading to diplomatic expulsions.
+Iraqi security forces have entered and deployed within a stronghold controlled by a pro-Iran militia.
 
-Denmark has accused Russian intelligence of planning an assassination attempt against a US-Ukrainian rapper, identified as Kyivstoner, near Copenhagen. Two suspects have been charged, and Denmark is expelling Russia's defense attaché. The Russian embassy dismissed the claims as an unsubstantiated propaganda spectacle.
+Iraqi security forces have entered the stronghold of a pro-Iran militia as part of ongoing efforts to assert state control over strategic areas.
 
-ڈنمارک نے روسی انٹیلی جنس پر کوپن ہیگن کے قریب یوکرینی نژاد امریکی ریپر کو قتل کرنے کی سازش کا الزام عائد کیا ہے۔ دو افراد پر فرد جرم عائد کی گئی ہے جبکہ روسی سفارتخانے نے الزامات کو مسترد کر دیا ہے۔
+عراقی سیکیورٹی فورسز نے ایران نواز ملیشیا کے گڑھ میں داخل ہو کر پوزیشن سنبھال لی ہے تاکہ ریاستی کنٹرول کو مضبوط کیا جا سکے۔
 
-First reported by BBC World.
+First reported by Dawn.
 
-#Denmark #Russia #AssassinationPlot #Copenhagen
+#IraqiForces #Iraq #Security #MiddleEast
 ```
 
-### Fossil fuel talks deadlock pushes COP31 into overtime  [NORMAL]
-- Poster: جیاتی ایندھن کے تنازع پر COP31 سمٹ میں توسیع / COP31 climate summit in overtime | category disaster
-- Alternative headline: EU warns COP31 risks turning into a fossil summit
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: COP31, fossil fuel, climate summit, EU, deadlock | hashtags: #COP31 #ClimateChange #FossilFuels #Environment
-- Scheduled: Sat 21 Nov, 04:48 AM PKT
-- Caption:
-```
-Critical climate commitments being omitted from draft deals has pushed the COP31 climate summit into overtime amid an EU warning.
-
-The COP31 climate summit has been forced into overtime due to a deadlock over fossil fuel talks. The European Union warned that the summit risks becoming a 'fossil summit' after critical climate commitments were omitted from the draft agreement.
-
-حیاتی ایندھن کے مذاکرات میں تعطل کے باعث COP31 آب و ہوا کی سمٹ کو وقت بڑھانے پر مجبور ہونا پڑا ہے۔ یورپی یونین نے خبردار کیا ہے کہ مسودے سے اہم وعدے نکالے جانے سے سمٹ ناکام ہو سکتی ہے۔
-
-First reported by Al Jazeera.
-
-#COP31 #ClimateChange #FossilFuels #Environment
-```
-
-- Indian outlets blocked this run: 5 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
 - [needs_review] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
@@ -153,7 +153,6 @@ First reported by Al Jazeera.
 - [needs_review] normal | Democrats plan investigations into Trump's Venezuela oil money plans | Wed 18 Nov, 04:02 AM PKT
 - [needs_review] normal | US Fed's Lisa Cook refuses to attend White House hearing | Wed 18 Nov, 04:30 AM PKT
 - [needs_review] normal | UK hands over NATO-assigned US soldier accused of spying to US militar | Wed 18 Nov, 04:40 AM PKT
-- [published] normal | Nvidia reports record sales as new boss rules out Jensen Huang return | Wed 18 Nov, 04:50 AM PKT
 - [needs_review] normal | Widow questions if 1980 toxic lagoon fire caused husband's rare cancer | Wed 18 Nov, 05:00 AM PKT
 - [needs_review] normal | Haitians Back El Salvador Troops Amid Rescue Mission | Wed 18 Nov, 05:25 AM PKT
 - [needs_review] normal | Fears Grow That Toxic Lagoon Fire Caused Cancer | Wed 18 Nov, 05:35 AM PKT
@@ -337,7 +336,7 @@ First reported by Al Jazeera.
 - [queued] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
 - [published] normal | Top US Democrat Warns Trump Administration Against Destroying Official | Fri 20 Nov, 11:42 PM PKT
 - [published] normal | Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2 | Fri 20 Nov, 11:52 PM PKT
-- [queued] normal | EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit | Sat 21 Nov, 12:02 AM PKT
+- [published] normal | EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit | Sat 21 Nov, 12:02 AM PKT
 - [queued] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
 - [queued] normal | Belgrade Mayor Faces Three-Year Sentence for Alleged Assault | Sat 21 Nov, 12:46 AM PKT
 - [queued] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
@@ -359,18 +358,16 @@ First reported by Al Jazeera.
 - [queued] normal | Iraq PM targets militia stronghold in state control push | Sat 21 Nov, 04:28 AM PKT
 - [queued] normal | Denmark accuses Russia of plotting rapper assassination | Sat 21 Nov, 04:38 AM PKT
 - [queued] normal | Fossil fuel talks deadlock pushes COP31 into overtime | Sat 21 Nov, 04:48 AM PKT
+- [queued] normal | Rahul Gandhi Backs Strong India-Israel Ties Despite Gaza War | Sat 21 Nov, 05:08 AM PKT
+- [queued] normal | Pakistan Crowned Men’s Blind Cricket Asia Cup Champions | Sat 21 Nov, 05:18 AM PKT
+- [queued] normal | Anthropic Researcher Claims Claude Chatbot Solved Math’s Greatest Ridd | Sat 21 Nov, 05:28 AM PKT
+- [queued] normal | Iraqi Security Forces Deploy in Pro-Iran Militia Stronghold | Sat 21 Nov, 05:38 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2'.
+- Published 'EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 3669 | output tokens: 1993
+- Calls: 3 | prompt tokens: 5877 | output tokens: 2089
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

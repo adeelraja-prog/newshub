@@ -95215,7 +95215,1001 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "883ad5c5d6d1350d1509e4a9",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T18:16:04+00:00",
+      "last_update": "2026-11-20T23:30:10+00:00",
+      "event": "Anthropic researcher says Claude solved math’s greatest riddle",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anthropic",
+        "claude",
+        "greatest",
+        "math",
+        "researcher",
+        "riddle",
+        "says",
+        "solved"
+      ],
+      "source_excerpt": "Anthropic researcher says Claude solved math’s greatest riddle",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/anthropic-researcher-says-claude-solved-maths-greatest-riddle",
+          "published_at": "2026-11-20T18:16:04+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUi1XRWJqTmFOYzAwVjNnYkdndU1xNmJNVnZJaXJRMWZTQVpoVmdtZXFaczNIVXRNbk1BR2NsNUtBWWlfcUVEaHl4VmU0dFE2MjN2b1owS094WTNuUFZIT0dJOEJfTVI2U3ZobEljZi1kZmd4VlRJTGtOMzBFbGRSS2JEc0lUMHdLSDJHYlJMTVRxQQ?oc=5",
+          "published_at": "2026-11-20T23:30:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/anthropic-researcher-says-claude-solved-maths-greatest-riddle",
+        "publisher_url": "https://arynews.tv/anthropic-researcher-says-claude-solved-maths-greatest-riddle",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8e74436b0284374eeb9991fb",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:08:04+00:00",
+      "last_update": "2026-11-20T23:30:10+00:00",
+      "event": "Iraqi forces enter pro-Iran militia’s stronghold",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "enter",
+        "forces",
+        "iran",
+        "iraqi",
+        "militia",
+        "pro",
+        "stronghold"
+      ],
+      "source_excerpt": "Iraqi forces enter pro-Iran militia’s stronghold Dawn",
+      "sources": [
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2RLdGYxc2lXdVVnQmx3bnBCbGtQRy1vOTZxeVROMGRIVHBkNnhtUFVaZTlScG93YzA5QUdkRlhld3dlUE0yNnNBTzRhTVA0S0ZRMzhUVTFhTHVUWEdscXA2NV9rVmhrWmtTS19FTFVidTBrX21hcGpPb3NkXzZqclMyYWlqU25vOXJvdFZ5YTFBX2xGd1RuWEx2VWczRnFaSTNyRHNDelpEZHVFSG9MSFl3?oc=5",
+          "published_at": "2026-11-20T23:08:04+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMy00QWpEcGo5ZUIxWjJIendXV3VnNGlWT29vak1kYmRuR1BaYjRXZmtOUXM0SXRJalNlTmNWSmRGTy1WYTFGUDlfV0VzcmVJTDBSOXp0R1RGVkctUzFtZmNUekkwZ2syZTRzNi03T0FHa0U1dmpzb1BJaDVzU3JYenZuRXNraEJ5?oc=5",
+          "published_at": "2026-11-20T23:30:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMy00QWpEcGo5ZUIxWjJIendXV3VnNGlWT29vak1kYmRuR1BaYjRXZmtOUXM0SXRJalNlTmNWSmRGTy1WYTFGUDlfV0VzcmVJTDBSOXp0R1RGVkctUzFtZmNUekkwZ2syZTRzNi03T0FHa0U1dmpzb1BJaDVzU3JYenZuRXNraEJ5?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "899e67f69fe64b9df6bf4824",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:20:33+00:00",
+      "last_update": "2026-11-20T23:20:33+00:00",
+      "event": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "appeared",
+        "bodies",
+        "cats",
+        "confront",
+        "cremated",
+        "dead",
+        "distressing",
+        "dogs",
+        "filipinos",
+        "for",
+        "grieving",
+        "have",
+        "livestream",
+        "may",
+        "meant",
+        "not",
+        "off",
+        "paid",
+        "pets",
+        "reality",
+        "received",
+        "send",
+        "the",
+        "their",
+        "then",
+        "they",
+        "were"
+      ],
+      "source_excerpt": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T23:20:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e30a5995144557b113afd250",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:28:17+00:00",
+      "last_update": "2026-11-20T23:28:17+00:00",
+      "event": "A new Nepal, an old neighbour - Balendra Shah's India test",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agenda",
+        "and",
+        "balendra",
+        "connectivity",
+        "cooperation",
+        "counterpart",
+        "his",
+        "india",
+        "meets",
+        "neighbour",
+        "nepal",
+        "new",
+        "old",
+        "regional",
+        "shah",
+        "test",
+        "the",
+        "top",
+        "trade",
+        "when",
+        "will"
+      ],
+      "source_excerpt": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T23:28:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "205a31b8d9ed2a3029addf0e",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:36:36+00:00",
+      "last_update": "2026-11-20T23:36:36+00:00",
+      "event": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "boat",
+        "carrying",
+        "children",
+        "continues",
+        "dead",
+        "for",
+        "four",
+        "funeral",
+        "kills",
+        "least",
+        "more",
+        "mourners",
+        "nigeria",
+        "overturned",
+        "police",
+        "say",
+        "search",
+        "two",
+        "victims"
+      ],
+      "source_excerpt": "Police say two children among dead as search continues for more victims.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+          "published_at": "2026-11-20T23:36:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fc79d475601750acfb44954e",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:20:50+00:00",
+      "last_update": "2026-11-20T23:28:08+00:00",
+      "event": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "backs",
+        "continue",
+        "delhi",
+        "despite",
+        "gandhi",
+        "gaza",
+        "india",
+        "israel",
+        "leader",
+        "maintain",
+        "new",
+        "opposition",
+        "rahul",
+        "says",
+        "should",
+        "strong",
+        "ties",
+        "war",
+        "with"
+      ],
+      "source_excerpt": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+          "published_at": "2026-11-20T23:20:50+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFhmelpvVmdCTDRRd0dhQnI0VzU2WUhYQUlyMElIRDBYN0hQLXN2TFduajNSTzJ3N3ppWTRoSlN5Njl6dWloWTh1Rk04NXdPVnlTcUozMVlsTnZ0UkhoWVlXYmZjajJHTE1UWFdSTWI0ajZZaXBoWXZwLU5RSGJ4ekhTQlJjLWZFOUZoc2xPd1liOFRNUWw4TFFQXzY4WnVqVFdEVkpwUzF4UTJoVmJERUpn0gG3AUFVX3lxTE5xWnlQaDgyOFdhemRJSXRHWWZ5NnRPdHBaaFVCQURmN1VvN2t4X0JnNGlGRXhxMHVYeGo3QmVpUXB1andNUXNmbjBYcF95NEF6cGtuSUFGQmlJVFVvVDFpbFY3NnExbWswbVA2Tm0zMkNWb01WU3VGb1dYSTJfNWRPTHVPUkVRRVpTMGZ5VDFNNEVNa2drXzhUcWF3NVVFRFRNenIwdGRsV3FMd0NHalQ1dXZwZ1Badw?oc=5",
+          "published_at": "2026-11-20T23:28:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d0b3f0aeb4ea0448fe0c81cd",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-21T00:06:11+00:00",
+      "last_update": "2026-11-21T00:06:11+00:00",
+      "event": "Can AI really help spot Black Friday deals? We put it to the test",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "black",
+        "can",
+        "could",
+        "deals",
+        "four",
+        "friday",
+        "help",
+        "models",
+        "money",
+        "new",
+        "put",
+        "really",
+        "save",
+        "see",
+        "spot",
+        "test",
+        "the",
+        "they"
+      ],
+      "source_excerpt": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T00:06:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6de22ab29b88113d93e81e71",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-21T00:02:09+00:00",
+      "last_update": "2026-11-21T00:02:09+00:00",
+      "event": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "alarm",
+        "and",
+        "baby",
+        "bag",
+        "big",
+        "could",
+        "cover",
+        "daughter",
+        "down",
+        "emma",
+        "face",
+        "far",
+        "halted",
+        "her",
+        "hole",
+        "meaning",
+        "mum",
+        "neck",
+        "new",
+        "next",
+        "raises",
+        "sales",
+        "sleeping",
+        "the",
+        "too",
+        "was",
+        "wriggle"
+      ],
+      "source_excerpt": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T00:02:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "215066c1824dd2247e4a0f41",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-21T00:02:22+00:00",
+      "last_update": "2026-11-21T00:02:22+00:00",
+      "event": "NI doctors' strike due to end, with separate walkout planned for Monday",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "begin",
+        "consultants",
+        "dispute",
+        "doctors",
+        "due",
+        "end",
+        "for",
+        "hour",
+        "monday",
+        "morning",
+        "part",
+        "pay",
+        "planned",
+        "same",
+        "separate",
+        "specialist",
+        "strike",
+        "the",
+        "walkout",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "Consultants and specialist doctors will begin a separate 24-hour strike on Monday morning as part of the same pay dispute.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c6d71e9epe8qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T00:02:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c6d71e9epe8qo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6d71e9epe8qo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1e9df5e3b2b5b5ef66e3ae23",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:15:20+00:00",
+      "last_update": "2026-11-20T23:15:20+00:00",
+      "event": "US declassifies more UFO footage filmed in the Middle East",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2020",
+        "2023",
+        "2026",
+        "and",
+        "clips",
+        "declassifies",
+        "east",
+        "eighth",
+        "filmed",
+        "footage",
+        "has",
+        "includes",
+        "middle",
+        "more",
+        "pentagon",
+        "recorded",
+        "records",
+        "released",
+        "the",
+        "three",
+        "tranche",
+        "ufo",
+        "video",
+        "which"
+      ],
+      "source_excerpt": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T23:15:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "47ce95ce3e9e61487cf95d1c",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:31:28+00:00",
+      "last_update": "2026-11-20T23:31:28+00:00",
+      "event": "Two Pakistani schools earn World’s Best School Prizes 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "best",
+        "dawn",
+        "earn",
+        "pakistani",
+        "prizes",
+        "school",
+        "schools",
+        "two",
+        "world"
+      ],
+      "source_excerpt": "Two Pakistani schools earn World’s Best School Prizes 2026 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGhLaE1FMGh4ck9XdWdtYUhjYnVXczJtRjZEQ1BxQTA3MV8xYVM1TFBPUFNjSmFBNk5SWk9iZzJTS2xEc1J0cG5wX29QWFV2WVdrLW5pVkF2cmhuZWZrbEpEa0s5cnZha3NNanZRTXlLd2E3bUdBbnJfM2hyQjZnOElXZWhqQWhiSVF3YTNXeXpTaFZuVnc?oc=5",
+          "published_at": "2026-11-20T23:31:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGhLaE1FMGh4ck9XdWdtYUhjYnVXczJtRjZEQ1BxQTA3MV8xYVM1TFBPUFNjSmFBNk5SWk9iZzJTS2xEc1J0cG5wX29QWFV2WVdrLW5pVkF2cmhuZWZrbEpEa0s5cnZha3NNanZRTXlLd2E3bUdBbnJfM2hyQjZnOElXZWhqQWhiSVF3YTNXeXpTaFZuVnc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3e19bb8ce28c95196a487814",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:30:37+00:00",
+      "last_update": "2026-11-20T23:30:37+00:00",
+      "event": "Sufyan hat-trick helps Pakistan rout Canada",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "canada",
+        "dawn",
+        "hat",
+        "helps",
+        "pakistan",
+        "rout",
+        "sufyan",
+        "trick"
+      ],
+      "source_excerpt": "Sufyan hat-trick helps Pakistan rout Canada Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcGhmR1I4QmFyMEp6V29FYk5ZTF9fOXRZMVNnZzBkcjkxWFgzRjNPcGMyaEMxTGFPa1IyNVdPYjBIWHE0LVRERDF6Wk1LYXgyekFtUXczUUFVVHdGZm9JRWRyMzRLdUZTOXM5V1dwckdUdk5yT2lSeGF5bURIYS1YUFhPcw?oc=5",
+          "published_at": "2026-11-20T23:30:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcGhmR1I4QmFyMEp6V29FYk5ZTF9fOXRZMVNnZzBkcjkxWFgzRjNPcGMyaEMxTGFPa1IyNVdPYjBIWHE0LVRERDF6Wk1LYXgyekFtUXczUUFVVHdGZm9JRWRyMzRLdUZTOXM5V1dwckdUdk5yT2lSeGF5bURIYS1YUFhPcw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6025657fe46599cd93e59b87",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:29:30+00:00",
+      "last_update": "2026-11-20T23:29:30+00:00",
+      "event": "Karachi’s brick roads",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "brick",
+        "dawn",
+        "karachi",
+        "roads"
+      ],
+      "source_excerpt": "Karachi’s brick roads Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GZEduSTNsckZLNkZfRTN3SHBDZW1MZldJbXVxSUtLZnA4MjNicFF4WW9ZeVJHbHpFU2xaWDRGMVlqWmQ1X2JvR1haMzhUSXZrT0NlcktTLXN1dlNpS1ZpLVpFbDM?oc=5",
+          "published_at": "2026-11-20T23:29:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GZEduSTNsckZLNkZfRTN3SHBDZW1MZldJbXVxSUtLZnA4MjNicFF4WW9ZeVJHbHpFU2xaWDRGMVlqWmQ1X2JvR1haMzhUSXZrT0NlcktTLXN1dlNpS1ZpLVpFbDM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "261e733531bf65c6c99fe950",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:33:57+00:00",
+      "last_update": "2026-11-20T23:33:57+00:00",
+      "event": "Two ‘street criminals’ killed in Peshawar",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "criminals",
+        "dawn",
+        "killed",
+        "peshawar",
+        "street",
+        "two"
+      ],
+      "source_excerpt": "Two ‘street criminals’ killed in Peshawar Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PRDV1YXdEM0lFaGZxZXlNVE9xdFZaNm5qNi03a3RUTHViOVZDR1BKZE5ybDBhODNVLUdMWEhveURQUzhYRHlramFVMzhMVVpTMWVpcWRxNU9PMll0TVQ2WlgtOFZpZFd6ODFiQkVJZk45R1BTM2JDY09SZ2h4dw?oc=5",
+          "published_at": "2026-11-20T23:33:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PRDV1YXdEM0lFaGZxZXlNVE9xdFZaNm5qNi03a3RUTHViOVZDR1BKZE5ybDBhODNVLUdMWEhveURQUzhYRHlramFVMzhMVVpTMWVpcWRxNU9PMll0TVQ2WlgtOFZpZFd6ODFiQkVJZk45R1BTM2JDY09SZ2h4dw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b55db357059db0b22b870798",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:32:44+00:00",
+      "last_update": "2026-11-20T23:32:44+00:00",
+      "event": "Balochistan Assembly demands direct Quetta-Sukkur flights",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assembly",
+        "balochistan",
+        "dawn",
+        "demands",
+        "direct",
+        "flights",
+        "quetta",
+        "sukkur"
+      ],
+      "source_excerpt": "Balochistan Assembly demands direct Quetta-Sukkur flights Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczVvR0hxbWNMY1NuZWZQeDlzb1M1Tm1yUjFNcFEtWFJPWnNhVTZTR2I0S256U05xZkp6MW5sUHpyTGtRM3NBekR4UUZ3RTk2bTdmd1AwQkZscHFMaG9zM25rdmdWbUlqRHJfUzMwYmp5RjV3S3BCRDJVdzBFalBGOXlRLWJEbGxGMkVST3dwTnFuSE93Mmc?oc=5",
+          "published_at": "2026-11-20T23:32:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczVvR0hxbWNMY1NuZWZQeDlzb1M1Tm1yUjFNcFEtWFJPWnNhVTZTR2I0S256U05xZkp6MW5sUHpyTGtRM3NBekR4UUZ3RTk2bTdmd1AwQkZscHFMaG9zM25rdmdWbUlqRHJfUzMwYmp5RjV3S3BCRDJVdzBFalBGOXlRLWJEbGxGMkVST3dwTnFuSE93Mmc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "85edd18577fea42087cea13a",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:33:01+00:00",
+      "last_update": "2026-11-20T23:33:01+00:00",
+      "event": "Punjab fixes wheat release price",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "fixes",
+        "price",
+        "punjab",
+        "release",
+        "wheat"
+      ],
+      "source_excerpt": "Punjab fixes wheat release price Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JQlRacWJwd2gwSVpqbmhNYWpUeUswRHdYNlVpN19uWXJjckttY3pyVWVQcDQ1WlhXdGxHeFBJd0laM1pOdktCTlphNlZ3WG8yME9fOXpkSjhld0NHSkJzNzZlTk1mNmVfUUV6dVhfRmhVdGN1?oc=5",
+          "published_at": "2026-11-20T23:33:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JQlRacWJwd2gwSVpqbmhNYWpUeUswRHdYNlVpN19uWXJjckttY3pyVWVQcDQ1WlhXdGxHeFBJd0laM1pOdktCTlphNlZ3WG8yME9fOXpkSjhld0NHSkJzNzZlTk1mNmVfUUV6dVhfRmhVdGN1?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e930dff94ff476f03f90202b",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:30:10+00:00",
+      "last_update": "2026-11-20T23:30:10+00:00",
+      "event": "UN body okays Pakistan-backed resolution on self-determination",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "backed",
+        "body",
+        "dawn",
+        "determination",
+        "okays",
+        "pakistan",
+        "resolution",
+        "self"
+      ],
+      "source_excerpt": "UN body okays Pakistan-backed resolution on self-determination Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUzdqaWNaZUZWNWdZVno2MV8tcWJxNmZBRUpDdzVkT2JOTGpoRTJNQTNFUUdPdG9pRHlMRmJ1S01TMmRIaW9IdDczYXVRczVvMVY0dGFIVjFTRDdGRzBiWUk3d2R3czFVMjFBUjBTWnd2WS1sdXJJaUlsNF85dXBaQ1d1MUNrY1ZhclpoYmljSjFFakNRU2RwUEZVd1k?oc=5",
+          "published_at": "2026-11-20T23:30:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUzdqaWNaZUZWNWdZVno2MV8tcWJxNmZBRUpDdzVkT2JOTGpoRTJNQTNFUUdPdG9pRHlMRmJ1S01TMmRIaW9IdDczYXVRczVvMVY0dGFIVjFTRDdGRzBiWUk3d2R3czFVMjFBUjBTWnd2WS1sdXJJaUlsNF85dXBaQ1d1MUNrY1ZhclpoYmljSjFFakNRU2RwUEZVd1k?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b4b5a371c0d4840b4a84017c",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:30:37+00:00",
+      "last_update": "2026-11-20T23:30:37+00:00",
+      "event": "Ireland thrash Pakistan by nine wickets in Women’s Emerging Nations Trophy",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "emerging",
+        "ireland",
+        "nations",
+        "nine",
+        "pakistan",
+        "thrash",
+        "trophy",
+        "wickets",
+        "women"
+      ],
+      "source_excerpt": "Ireland thrash Pakistan by nine wickets in Women’s Emerging Nations Trophy Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGtwVkNObmFBMXRHajhkQUJFTU8ya0xwNVByVTNRajJVYjVYdHJMQm0xaEU3bEFvSkZnc19mRzVOZXE4RF8wemVSRTNjM3VoU1ptUXRnb0VEQTRUQncyc294UmtNY0xXdTNVMktzMUhUck9JNXJCNEh1Y0JqYmtJNFFBVUNhZV9WZ1lVOVVFNUNTT3dHeGRRUG5Pb1psbDJRMHJwdURWMEpUckk?oc=5",
+          "published_at": "2026-11-20T23:30:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGtwVkNObmFBMXRHajhkQUJFTU8ya0xwNVByVTNRajJVYjVYdHJMQm0xaEU3bEFvSkZnc19mRzVOZXE4RF8wemVSRTNjM3VoU1ptUXRnb0VEQTRUQncyc294UmtNY0xXdTNVMktzMUhUck9JNXJCNEh1Y0JqYmtJNFFBVUNhZV9WZ1lVOVVFNUNTT3dHeGRRUG5Pb1psbDJRMHJwdURWMEpUckk?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "95ce7d9bf63d3a4b0b95eafb",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:30:37+00:00",
+      "last_update": "2026-11-20T23:30:37+00:00",
+      "event": "Babar wants more opportunities for new players after Pakistan seal Sri Lanka Test series",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "babar",
+        "dawn",
+        "for",
+        "lanka",
+        "more",
+        "new",
+        "opportunities",
+        "pakistan",
+        "players",
+        "seal",
+        "series",
+        "sri",
+        "test",
+        "wants"
+      ],
+      "source_excerpt": "Babar wants more opportunities for new players after Pakistan seal Sri Lanka Test series Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFBwdGJWNnpBcVpJZlV0dUtyUXFpUVQxLWFTRFVoa3ZzUWFnMjN4NkJuRlZHazRlQlJXMjFZQWhjSXk0UTJEck84ZHhjempYbUhXbVBoYVdRa2t0QTZRTjN5YWRiRnhEbk1Pa19KVEhwYl9GT3BHVTR6TUUxVGlOZ3p6RWdGLTlONFNmZjdtSHA4MzZVMFRYWWs2U1I1R1VkZEJsTW9WQmkxa1UxUWpybDFLV1Y2TkV0UzY2MV9Vdw?oc=5",
+          "published_at": "2026-11-20T23:30:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFBwdGJWNnpBcVpJZlV0dUtyUXFpUVQxLWFTRFVoa3ZzUWFnMjN4NkJuRlZHazRlQlJXMjFZQWhjSXk0UTJEck84ZHhjempYbUhXbVBoYVdRa2t0QTZRTjN5YWRiRnhEbk1Pa19KVEhwYl9GT3BHVTR6TUUxVGlOZ3p6RWdGLTlONFNmZjdtSHA4MzZVMFRYWWs2U1I1R1VkZEJsTW9WQmkxa1UxUWpybDFLV1Y2TkV0UzY2MV9Vdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "51d16801b7c32669808632c7",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:32:44+00:00",
+      "last_update": "2026-11-20T23:32:44+00:00",
+      "event": "Pakistan rises 17 places in UN e-governance ranking",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "governance",
+        "pakistan",
+        "places",
+        "ranking",
+        "rises"
+      ],
+      "source_excerpt": "Pakistan rises 17 places in UN e-governance ranking Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjBwSi00OTlCUVVlZ3ZTS0dob3RzYzRYSUlQWHg3SlRkdmZ5UU12eHNRTVo1aHRTOE5sODFHbFRqSVRlcnJxQzB4bGxCX0Y3TmN3eUhRckJQLXJOWDVHY1BSSms1QjZrWk03NWZlU0xabU1rT0tfdEh3Vm9NWGtybllsazYtOHpmV0tISld3?oc=5",
+          "published_at": "2026-11-20T23:32:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjBwSi00OTlCUVVlZ3ZTS0dob3RzYzRYSUlQWHg3SlRkdmZ5UU12eHNRTVo1aHRTOE5sODFHbFRqSVRlcnJxQzB4bGxCX0Y3TmN3eUhRckJQLXJOWDVHY1BSSms1QjZrWk03NWZlU0xabU1rT0tfdEh3Vm9NWGtybllsazYtOHpmV0tISld3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2667d6996d7f06cf6c8755e6",
+      "remembered_at": "2026-11-21T00:08:57.007731+00:00",
+      "event_date": "2026-11-20T23:34:29+00:00",
+      "last_update": "2026-11-20T23:34:29+00:00",
+      "event": "Malaysia attaches great importance to ties with Pakistan: envoy",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attaches",
+        "dawn",
+        "envoy",
+        "great",
+        "importance",
+        "malaysia",
+        "pakistan",
+        "ties",
+        "with"
+      ],
+      "source_excerpt": "Malaysia attaches great importance to ties with Pakistan: envoy Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZElYbHNfUmRZazZsQWMtcTZZQU5JYmhEMVBRb0pEM0ZIYzlQb05Hbm5TSUFaY0JBVk1xbHgxcFk3X281eV9QU19TZEQ2MFlzNFNLSnhJTzVpT0pLaDJ5NFo4aG1iYmRhUlRJT0FGc3R6c1dLTzRhUHVQb0gtOEFRWHBYSGtkZHhDUS0xNmFlQ0FROUFvaU0wSnlUbWs?oc=5",
+          "published_at": "2026-11-20T23:34:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZElYbHNfUmRZazZsQWMtcTZZQU5JYmhEMVBRb0pEM0ZIYzlQb05Hbm5TSUFaY0JBVk1xbHgxcFk3X281eV9QU19TZEQ2MFlzNFNLSnhJTzVpT0pLaDJ5NFo4aG1iYmRhUlRJT0FGc3R6c1dLTzRhUHVQb0gtOEFRWHBYSGtkZHhDUS0xNmFlQ0FROUFvaU0wSnlUbWs?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-20T23:18:09.900556+00:00"
+  "updated_at": "2026-11-21T00:08:57.007731+00:00"
 }
