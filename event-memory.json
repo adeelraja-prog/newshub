@@ -100207,7 +100207,564 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ccf2b1fdde1bfcb2b7c5195e",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T07:55:37+00:00",
+      "last_update": "2026-11-21T09:30:53+00:00",
+      "event": "Tanker hit by unknown projectile near Oman's Khasab, UKMTO says",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "hit",
+        "khasab",
+        "near",
+        "oman",
+        "projectile",
+        "says",
+        "tanker",
+        "ukmto",
+        "unknown"
+      ],
+      "source_excerpt": "Tanker hit by unknown projectile near Oman's Khasab, UKMTO says Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlhIQmJnXzhYTG5Kems4YUd0dTBoZ1pMRmlQR3V1S1EyQWd1b3pNWk96QkE3Y2lyQkRaMm1pQkRaVGRHQXRFNjRiZGR4Mm0wV0RYSUdTeHpMVVJPR05HSHc4NEk3MkxFdE0zZm5WMWFPdHZaeDNnMTBfWE1CZlRaSjdWU0RtWGU4enlRdzE4UE1SMzFuWHZDSDhBdw?oc=5",
+          "published_at": "2026-11-21T07:55:37+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/two-tanker-attack-incidents-reported-near-omans-khasab-on-saturday-ukmto-says",
+          "published_at": "2026-11-21T09:30:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlhIQmJnXzhYTG5Kems4YUd0dTBoZ1pMRmlQR3V1S1EyQWd1b3pNWk96QkE3Y2lyQkRaMm1pQkRaVGRHQXRFNjRiZGR4Mm0wV0RYSUdTeHpMVVJPR05HSHc4NEk3MkxFdE0zZm5WMWFPdHZaeDNnMTBfWE1CZlRaSjdWU0RtWGU4enlRdzE4UE1SMzFuWHZDSDhBdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5ac992faf9344988f69edf70",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T09:14:43+00:00",
+      "last_update": "2026-11-21T09:19:45+00:00",
+      "event": "Pakistan calls for multilateralism, says bloc or unilateral politics will not work",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bloc",
+        "calls",
+        "dawn",
+        "for",
+        "multilateralism",
+        "not",
+        "pakistan",
+        "politics",
+        "says",
+        "unilateral",
+        "will",
+        "work"
+      ],
+      "source_excerpt": "Pakistan calls for multilateralism, says bloc or unilateral politics will not work Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmxZTkwxSjBDLWRDOUF1Y25LN2RvbXc0ZktTS25tX0wzV3laV2NBS1VoMkJzTFBPRVFLYjdEN3BtZE5RMVh6Szg2d210dVNFTW5JWGFNbnZtbFdMYkVrSU5mVHRLOHV2X0RoeVRIU2ZnRjRiajVxNXNNWXUwMEpwTFRMRlN3cGFnWXAwWHdSTzB5SlhTZWROUkZqZHFpSUdQY2NiZGZTUXdWUmFvMzlNOHFodUFVUQ?oc=5",
+          "published_at": "2026-11-21T09:14:43+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046111/fm-dar-calls-for-multilateralism-says-bloc-or-unilateral-politics-will-not-work",
+          "published_at": "2026-11-21T09:19:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmxZTkwxSjBDLWRDOUF1Y25LN2RvbXc0ZktTS25tX0wzV3laV2NBS1VoMkJzTFBPRVFLYjdEN3BtZE5RMVh6Szg2d210dVNFTW5JWGFNbnZtbFdMYkVrSU5mVHRLOHV2X0RoeVRIU2ZnRjRiajVxNXNNWXUwMEpwTFRMRlN3cGFnWXAwWHdSTzB5SlhTZWROUkZqZHFpSUdQY2NiZGZTUXdWUmFvMzlNOHFodUFVUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2a859f25b043bc5c78c68ac2",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T09:20:40+00:00",
+      "last_update": "2026-11-21T09:20:40+00:00",
+      "event": "Fire sprinkler sprays water at flame-covered sign in China",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "automatic",
+        "barbecue",
+        "china",
+        "covered",
+        "depicting",
+        "fire",
+        "flame",
+        "flames",
+        "repeatedly",
+        "resort",
+        "sign",
+        "ski",
+        "sprayed",
+        "sprays",
+        "sprinkler",
+        "system",
+        "wanlong",
+        "water"
+      ],
+      "source_excerpt": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
+          "published_at": "2026-11-21T09:20:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "67b09db16b90f3b1a96db3fb",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T09:12:14+00:00",
+      "last_update": "2026-11-21T09:12:14+00:00",
+      "event": "French police officers guilty of Michel Zecler assault: What happens now?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assault",
+        "black",
+        "blows",
+        "court",
+        "crime",
+        "dealt",
+        "french",
+        "guilty",
+        "happens",
+        "michel",
+        "more",
+        "motivated",
+        "music",
+        "now",
+        "officers",
+        "police",
+        "producer",
+        "racially",
+        "ruled",
+        "than",
+        "the",
+        "was",
+        "what",
+        "zecler"
+      ],
+      "source_excerpt": "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
+          "published_at": "2026-11-21T09:12:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "93b43f0d3b75b9f65a28de62",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T09:01:29+00:00",
+      "last_update": "2026-11-21T09:01:29+00:00",
+      "event": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "against",
+        "ankle",
+        "ballon",
+        "bayern",
+        "cologne",
+        "draw",
+        "during",
+        "few",
+        "harry",
+        "his",
+        "injury",
+        "kane",
+        "left",
+        "ligament",
+        "miss",
+        "months",
+        "munich",
+        "tears",
+        "winner"
+      ],
+      "source_excerpt": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+          "published_at": "2026-11-21T09:01:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "68dc708e91054dfc47739f2a",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T08:48:54+00:00",
+      "last_update": "2026-11-21T08:48:54+00:00",
+      "event": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "180",
+        "alcohol",
+        "and",
+        "arrested",
+        "chief",
+        "illicit",
+        "incident",
+        "india",
+        "into",
+        "kills",
+        "manipur",
+        "minister",
+        "northeast",
+        "orders",
+        "poisons",
+        "probe",
+        "punished",
+        "responsible",
+        "saying",
+        "state",
+        "the",
+        "those",
+        "will"
+      ],
+      "source_excerpt": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
+          "published_at": "2026-11-21T08:48:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "33716796f57d30d805f11650",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T08:39:35+00:00",
+      "last_update": "2026-11-21T08:39:35+00:00",
+      "event": "Swimmer braves tanker attacks to expose Hormuz contamination",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "another",
+        "attacks",
+        "braves",
+        "burned",
+        "casualty",
+        "contamination",
+        "expose",
+        "exposed",
+        "hormuz",
+        "iran",
+        "israeli",
+        "lewis",
+        "life",
+        "marine",
+        "pugh",
+        "swimmer",
+        "tanker",
+        "tankers",
+        "the",
+        "war"
+      ],
+      "source_excerpt": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+          "published_at": "2026-11-21T08:39:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f77a5da1c8d51e44da38d79e",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T09:27:51+00:00",
+      "last_update": "2026-11-21T09:27:51+00:00",
+      "event": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreement",
+        "apply",
+        "bloc",
+        "britain",
+        "brussels",
+        "deal",
+        "dependent",
+        "fees",
+        "for",
+        "had",
+        "lowered",
+        "might",
+        "miliband",
+        "not",
+        "previously",
+        "says",
+        "sources",
+        "students",
+        "suggested",
+        "the",
+        "tuition",
+        "until",
+        "were",
+        "wider",
+        "with"
+      ],
+      "source_excerpt": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T09:27:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e04f2e65b8e56d83102df0f3",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T09:01:41+00:00",
+      "last_update": "2026-11-21T09:01:41+00:00",
+      "event": "2 tankers hit by ‘unknown projectiles’ off Oman coast: UK maritime agency",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agency",
+        "coast",
+        "hit",
+        "jazeera",
+        "maritime",
+        "off",
+        "oman",
+        "projectiles",
+        "tankers",
+        "unknown"
+      ],
+      "source_excerpt": "2 tankers hit by ‘unknown projectiles’ off Oman coast: UK maritime agency Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlptbkY5QlNoN2RFRUVGNjR5ejNtdU5Gajg4cm83SlJGRWpqT0dUZlhmM1YxdDREUzRQeFVnMmdJbkxIejNJaG5ldVdVQVVRWW51ZzU3ZGR1b0NudUFDeVBBcGtmamt2VlRjNUNOdHdHazNzYTNsUHpNa3F3VW52ODVCeXZoNHp3QmZydVhrdVlIMlJQcHAtZFVOV1FDOE1CMWtROXExZEM3Z2s?oc=5",
+          "published_at": "2026-11-21T09:01:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlptbkY5QlNoN2RFRUVGNjR5ejNtdU5Gajg4cm83SlJGRWpqT0dUZlhmM1YxdDREUzRQeFVnMmdJbkxIejNJaG5ldVdVQVVRWW51ZzU3ZGR1b0NudUFDeVBBcGtmamt2VlRjNUNOdHdHazNzYTNsUHpNa3F3VW52ODVCeXZoNHp3QmZydVhrdVlIMlJQcHAtZFVOV1FDOE1CMWtROXExZEM3Z2s?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "36363bd385e28f0abc437cce",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T09:31:58+00:00",
+      "last_update": "2026-11-21T09:31:58+00:00",
+      "event": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "downs",
+        "drone",
+        "efforts",
+        "end",
+        "hormuz",
+        "iran",
+        "irgc",
+        "jazeera",
+        "over",
+        "remain",
+        "stalled",
+        "war"
+      ],
+      "source_excerpt": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
+          "published_at": "2026-11-21T09:31:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b2e4650048a193f4c304ddca",
+      "remembered_at": "2026-11-21T09:36:33.737172+00:00",
+      "event_date": "2026-11-21T09:36:00+00:00",
+      "last_update": "2026-11-21T09:36:00+00:00",
+      "event": "50,000 tonnes of imported wheat arrive at Karachi port as flour prices surge",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "arrive",
+        "flour",
+        "imported",
+        "karachi",
+        "port",
+        "prices",
+        "surge",
+        "tonnes",
+        "wheat"
+      ],
+      "source_excerpt": "50,000 tonnes of imported wheat arrive at Karachi port as flour prices surge",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/50000-tonnes-of-imported-wheat-arrive-at-karachi-port-as-flour-prices-surge",
+          "published_at": "2026-11-21T09:36:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/50000-tonnes-of-imported-wheat-arrive-at-karachi-port-as-flour-prices-surge",
+        "publisher_url": "https://arynews.tv/50000-tonnes-of-imported-wheat-arrive-at-karachi-port-as-flour-prices-surge",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T08:49:16.046971+00:00"
+  "updated_at": "2026-11-21T09:36:33.737172+00:00"
 }

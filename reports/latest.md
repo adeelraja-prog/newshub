@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 01:49 PM PKT
+# News Hub report - Sat 21 Nov, 02:36 PM PKT
 
 ## Collection
-- New items this run: 57 | items in rolling pool: 288
-- Unique story clusters: 230 (duplicates merged: 58)
-- Clusters dropped as already published/queued: 23; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 14, ProPakistani 6, Geo News 5, ARY News 5, samaa tv 3, The Express Tribune 3, Dunya News 3, ARYnews.tv 2, Dawn 2, TechJuice 2, Al Jazeera 1, Arab News PK 1
+- New items this run: 41 | items in rolling pool: 319
+- Unique story clusters: 258 (duplicates merged: 61)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 6
+- Items per outlet: Al Jazeera 8, ARY News 4, The Current 4, samaa tv 3, ProPakistani 3, Dawn 2, Geo News 2, TechJuice 2, Profit by Pakistan Today 2, The News International 1, Dawn Pakistan 1, Dawn Latest 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Internet provider expects submarine cable repairs to be completed by Dec 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hazlewood denies knowledge of sandpaper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran urges world to remember 168 killed in US airstrikes on school in Minab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Emergency crews in Ukraine hit by a double-tap strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tanker hit by unknown projectile near Oman's Khasab, UKMTO says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan calls for multilateralism, says bloc or unilateral politics will not work | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three US citizens among 4 convicted in Honduras over sex-trafficking case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fire sprinkler sprays water at flame-covered sign in China | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Internet provider expects submarine cable repairs to be completed by Dec 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hazlewood denies knowledge of sandpaper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran urges world to remember 168 killed in US airstrikes on school in Minab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Emergency crews in Ukraine hit by a double-tap strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tanker hit by unknown projectile near Oman's Khasab, UKMTO says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan calls for multilateralism, says bloc or unilateral politics will not work | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three US citizens among 4 convicted in Honduras over sex-trafficking case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fire sprinkler sprays water at flame-covered sign in China | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Internet provider expects submarine cable repairs to be completed by Dec 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hazlewood denies knowledge of sandpaper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran urges world to remember 168 killed in US airstrikes on school in Minab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Emergency crews in Ukraine hit by a double-tap strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tanker hit by unknown projectile near Oman's Khasab, UKMTO says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan calls for multilateralism, says bloc or unilateral politics will not work | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three US citizens among 4 convicted in Honduras over sex-trafficking case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fire sprinkler sprays water at flame-covered sign in China | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,112 +38,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Islamabad High Court Issues Important Order Regarding Imran Khan and Bushra Bibi  [NORMAL]
-- Poster: اسلام آباد ہائیکورٹ کا عمران خان اور بشریٰ بی بی سے متعلق اہم حکم / IHC Issues Important Order on Imran Khan and Bushra Bibi | category politics
-- Alternative headline: IHC Directs Authorities on Legal Meeting for Imran Khan and Bushra Bibi
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dunya News https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUmE4MmJyRWo3Sks5ekkzbEFNYWpfR0d4d0FnMG95RjMwc2dxWGZ3WHFkV0NQUFItYWhWMkNFbnM4QmY4OGJOTUZKY1h1eUQ2QWxaMDVkMlo4M0NMOU1ZLUp4Z1JhTUNXOE1VanZLbVpzcW1EaXdFMmUxMnhXdTlUb3lrelFPbWl1bHUtbXdYczFHQ3RoUF9Jc3NwS1FYTk9RUDVsWGJzNlI2QzRlTXZrdms4Sm1iU1hHd3VRV3pfVXM4TXVZdUZxWTNsU2g0YmdVMUM0ZUtoeDVTTVVsSExmMEotSlBrd0d6Wmc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dunya News https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUmE4MmJyRWo3Sks5ekkzbEFNYWpfR0d4d0FnMG95RjMwc2dxWGZ3WHFkV0NQUFItYWhWMkNFbnM4QmY4OGJOTUZKY1h1eUQ2QWxaMDVkMlo4M0NMOU1ZLUp4Z1JhTUNXOE1VanZLbVpzcW1EaXdFMmUxMnhXdTlUb3lrelFPbWl1bHUtbXdYczFHQ3RoUF9Jc3NwS1FYTk9RUDVsWGJzNlI2QzRlTXZrdms4Sm1iU1hHd3VRV3pfVXM4TXVZdUZxWTNsU2g0YmdVMUM0ZUtoeDVTTVVsSExmMEotSlBrd0d6Wmc?oc=5
-- Supporting coverage: Dunya News
-- Keywords: Islamabad High Court, Imran Khan, Bushra Bibi, IHC order, legal meeting, Pakistan politics | hashtags: #ImranKhan #BushraBibi #IHC #IslamabadHighCourt #PakistanPolitics
-- Scheduled: Sat 21 Nov, 01:49 PM PKT
-- Caption:
-```
-The Islamabad High Court has issued an important order regarding former prime minister Imran Khan and Bushra Bibi.
-
-The Islamabad High Court has issued an important order regarding Imran Khan and Bushra Bibi. Reports indicate that authorities were directed to facilitate legal meetings and address relevant matters concerning their custody and legal representation.
-
-اسلام آباد ہائیکورٹ نے عمران خان اور بشریٰ بی بی سے متعلق ایک اہم حکم جاری کیا ہے۔ رپورٹس کے مطابق حکام کو قانونی ملاقاتیں کرانے اور ان کے مقدمات سے متعلق امور کو حل کرنے کی ہدایت کی گئی ہے۔
-
-First reported by Dunya News.
-
-#ImranKhan #BushraBibi #IHC #IslamabadHighCourt #PakistanPolitics
-```
-
-### Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as Friend  [NORMAL]
-- Poster: زیلنسکی نے پوتن کو قاتل قرار دے دیا، ٹرمپ کے بیان پر ردعمل / Zelenskyy Calls Putin a Killer After Trump's Friend Remark | category world
-- Alternative headline: Ukrainian President Condemns Putin as Enemy and Killer Following Trump's Remarks
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, BBC
-- Keywords: Volodymyr Zelensky, Vladimir Putin, Donald Trump, Ukraine war, Kryvyi Rih, Russia attacks | hashtags: #Zelensky #Putin #Trump #Ukraine #BBCWorld
-- Scheduled: Sat 21 Nov, 01:59 PM PKT
-- Caption:
-```
-Ukrainian President Volodymyr Zelensky has hit back after US President-elect Donald Trump referred to Vladimir Putin as a friend.
-
-Ukrainian President Volodymyr Zelensky has branded Vladimir Putin a killer in response to Donald Trump referring to the Russian leader as a friend. The remarks come amid ongoing missile and drone attacks across multiple Ukrainian regions, resulting in numerous casualties.
-
-یوکرینی صدر ولادیمیر زیلنسکی نے ولادیمیر پوتن کو قاتل قرار دیا ہے، جو کہ ڈونلڈ ٹرمپ کی جانب سے روسی رہنما کو دوست کہنے کے ردعمل میں سامنے آیا ہے۔ یہ بیان یوکرین کے مختلف علاقوں پر جاری روسی حملوں اور جانی نقصان کے تناظر میں آیا ہے۔
-
-First reported by BBC World.
-
-#Zelensky #Putin #Trump #Ukraine #BBCWorld
-```
-
-### Internet Provider Expects Submarine Cable Repairs to Be Completed by Dec 6  [NORMAL]
-- Poster: سب بحری کیبل کی مرمت 6 دسمبر تک مکمل ہونے کی توقع / Submarine Cable Repairs Expected by Dec 6 | category tech
-- Alternative headline: Transworld Estimates Submarine Cable Fault Repairs Finished by December 6
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUdJcjdBbHpESjZXUC1TOFotM1RKY0xZZDhxZ1FiRXNBRVAwc3Y0Qks3VnR5cjZtSG9yOS04WjNLY0JvMVZBZ09Yd3NmTEZmbVlOYnQ5WFVCeDBYY0VCX2tIZUZYU1h6VG81M0hWVHFsTUNtQjkwNkVWODQ5ZDVwZXlLRUtDNkhUWUhkeTJOX1VTSXA2M3FDQWloelc3am9Ycl9IUDVWSUxqbzct?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUdJcjdBbHpESjZXUC1TOFotM1RKY0xZZDhxZ1FiRXNBRVAwc3Y0Qks3VnR5cjZtSG9yOS04WjNLY0JvMVZBZ09Yd3NmTEZmbVlOYnQ5WFVCeDBYY0VCX2tIZUZYU1h6VG81M0hWVHFsTUNtQjkwNkVWODQ5ZDVwZXlLRUtDNkhUWUhkeTJOX1VTSXA2M3FDQWloelc3am9Ycl9IUDVWSUxqbzct?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan, TechJuice
-- Keywords: submarine cable, internet provider, Transworld, internet disruption, Pakistan internet, cable repairs | hashtags: #SubmarineCable #InternetDisruption #Transworld #PTA #Pakistan
-- Scheduled: Sat 21 Nov, 02:09 PM PKT
-- Caption:
-```
-Internet users facing connectivity issues can expect restoration as submarine cable repairs are slated for completion by December 6.
-
-Internet service provider Transworld expects submarine cable repairs to be completed by December 6. The repairs address recent connectivity disruptions reported across Pakistan following a fault in the underwater communication infrastructure.
-
-انٹرنیٹ سروس فراہم کرنے والی کمپنی ٹرانس ورلڈ کو توقع ہے کہ سب بحری کیبل کی مرمت 6 دسمبر تک مکمل کر لی جائے گی۔ یہ مرمت زیرِ آب مواصلاتی انفراسٹرکچر میں خرابی کے باعث پاکستان بھر میں پیش آنے والے انٹرنیٹ کے مسائل کو حل کرنے کے لیے کی جا رہی ہے۔
-
-First reported by Dawn.
-
-#SubmarineCable #InternetDisruption #Transworld #PTA #Pakistan
-```
-
-### Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper  [NORMAL]
-- Poster: جوش ہیزل ووڈ نے سینڈ پیپر کے علم کی تردید کر دی / Hazlewood Denies Knowledge of Sandpaper | category sports
-- Alternative headline: Hazlewood Denies Any Knowledge of Sandpaper Usage in Cricket Controversy
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0padnJHdWdZY3ZjZFRuQnFoOUtIaWNhanFXbUVSM0pfRkZGOWkyd2ZyNWJuVkNvdFBiMWFyclVjcHBKYmVxSy1RWC12VUY4dnM1T21tV09BMGJlZ0xoZ1RXTGpYalhKdUE1WUkxbEN4cllUTXd3QkNxZ2RXdkhaS1F30gGKAUFVX3lxTE9xNHNEQnlBczdlSWpjZS1UaGF6MDNPUU9zWGJiQTFPLU1YRjBiU21Nc2F3OXI3ek51Um15c2M4QVRpYmhkamhyeE5pcGoyS0hqVHdTLTg5WFJINGdfZ2tKcUROY18tTWpqMGU0TXVrblFrX0dnSDNmT2FOLWtsSlU2MGgwcnRQaC1aQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0padnJHdWdZY3ZjZFRuQnFoOUtIaWNhanFXbUVSM0pfRkZGOWkyd2ZyNWJuVkNvdFBiMWFyclVjcHBKYmVxSy1RWC12VUY4dnM1T21tV09BMGJlZ0xoZ1RXTGpYalhKdUE1WUkxbEN4cllUTXd3QkNxZ2RXdkhaS1F30gGKAUFVX3lxTE9xNHNEQnlBczdlSWpjZS1UaGF6MDNPUU9zWGJiQTFPLU1YRjBiU21Nc2F3OXI3ek51Um15c2M4QVRpYmhkamhyeE5pcGoyS0hqVHdTLTg5WFJINGdfZ2tKcUROY18tTWpqMGU0TXVrblFrX0dnSDNmT2FOLWtsSlU2MGgwcnRQaC1aQQ?oc=5
-- Supporting coverage: The Express Tribune, ARYnews.tv, ARY News
-- Keywords: Josh Hazlewood, Pat Cummins, sandpaper, cricket news, Australia cricket, ball tampering | hashtags: #JoshHazlewood #PatCummins #Cricket #AustraliaCricket #ExpressTribune
-- Scheduled: Sat 21 Nov, 02:19 PM PKT
-- Caption:
-```
-Australian cricketer Josh Hazlewood has backed teammate Pat Cummins while denying any knowledge of sandpaper.
-
-Australian fast bowler Josh Hazlewood has expressed support for teammate Pat Cummins while denying any knowledge of sandpaper use. The statements address historical ball-tampering talking points that continue to draw attention in international cricket discussions.
-
-آسٹریلوی فاسٹ بولر جوش ہیزل ووڈ نے ساتھی کھلاڑی پ্যাট کمنز کی حمایت کرتے ہوئے سینڈ پیپر کے بارے میں کسی بھی قسم کے علم کی تردید کی ہے۔ یہ بیانات بین الاقوامی کرکٹ میں ماضی کے تنازعات کے حوالے سے سامنے آئے ہیں۔
-
-First reported by The Express Tribune.
-
-#JoshHazlewood #PatCummins #Cricket #AustraliaCricket #ExpressTribune
-```
-
-- Indian outlets blocked this run: 6 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 13
 
 ## Queue status
-- [needs_review] normal | Jeff Bezos Says He Was Heavily Involved in Casting Robert Pattinson as | Wed 18 Nov, 07:48 AM PKT
-- [needs_review] normal | Hundreds Protest Outside Oxford University as Jason Arday's Accuser Sp | Wed 18 Nov, 07:58 AM PKT
-- [needs_review] normal | Ecuadorian Fishermen Sue Trump Administration Over Alleged Drone Strik | Wed 18 Nov, 08:08 AM PKT
-- [needs_review] normal | Rival Peace Efforts Fail to Halt Ongoing Violence in Eastern DR Congo | Wed 18 Nov, 08:18 AM PKT
 - [needs_review] normal | Hungary on the Hunt for a New Football Hero | Wed 18 Nov, 08:52 AM PKT
 - [needs_review] normal | ICE Agents Shove and Pepper-Spray Pregnant Woman in US | Wed 18 Nov, 09:02 AM PKT
 - [needs_review] normal | Mary Peltola Flips Alaska Senate Seat in Democratic Win | Wed 18 Nov, 09:12 AM PKT
@@ -158,7 +58,6 @@ First reported by The Express Tribune.
 - [needs_review] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
 - [needs_review] normal | Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run | Wed 18 Nov, 01:27 PM PKT
 - [needs_review] normal | Rahim Yar Khan man arrested after fake suicide drama killed rescue div | Wed 18 Nov, 01:37 PM PKT
-- [published] normal | GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch | Wed 18 Nov, 02:27 PM PKT
 - [needs_review] normal | Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperati | Wed 18 Nov, 02:37 PM PKT
 - [needs_review] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
 - [published] normal | Sri Lanka Fight Back Strongly to Reduce Pakistan to 221-7 in Second Te | Wed 18 Nov, 03:30 PM PKT
@@ -343,9 +242,9 @@ First reported by The Express Tribune.
 - [needs_review] normal | Mauricio Pochettino takes charge of Manchester United ahead of Liverpo | Sat 21 Nov, 07:38 AM PKT
 - [needs_review] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
 - [published] normal | Denmark expels Russian diplomat over alleged plot against Ukrainian ra | Sat 21 Nov, 07:58 AM PKT
-- [queued] normal | Pakistan Rises 17 Places in UN E-Governance Ranking | Sat 21 Nov, 08:21 AM PKT
-- [queued] normal | SECP Tightens Scrutiny on Corporate Audit Reports | Sat 21 Nov, 08:31 AM PKT
-- [queued] normal | Balochistan CM Bugti Promises Province-Wide Jobs | Sat 21 Nov, 08:41 AM PKT
+- [needs_review] normal | Pakistan Rises 17 Places in UN E-Governance Ranking | Sat 21 Nov, 08:21 AM PKT
+- [needs_review] normal | SECP Tightens Scrutiny on Corporate Audit Reports | Sat 21 Nov, 08:31 AM PKT
+- [published] normal | Balochistan CM Bugti Promises Province-Wide Jobs | Sat 21 Nov, 08:41 AM PKT
 - [queued] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
 - [queued] normal | Can Israel’s opposition bloc stay united against Netanyahu? | Sat 21 Nov, 11:30 AM PKT
 - [queued] normal | Saudi forces launch major military strikes across Yemen | Sat 21 Nov, 11:40 AM PKT
@@ -362,17 +261,25 @@ First reported by The Express Tribune.
 - [queued] normal | Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper | Sat 21 Nov, 02:19 PM PKT
 
 ## Publishing this run
-- Published 'Denmark expels Russian diplomat over alleged plot against Ukrainian rapper'.
+- Published 'Balochistan CM Bugti Promises Province-Wide Jobs'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 5377 | output tokens: 2389
-- Errors: 3
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"
