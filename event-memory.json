@@ -99798,7 +99798,416 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "43decf06cfc0cc2119e0ecb3",
+      "remembered_at": "2026-11-21T08:49:16.046971+00:00",
+      "event_date": "2026-11-21T07:52:54+00:00",
+      "last_update": "2026-11-21T08:07:09+00:00",
+      "event": "Hazlewood denies knowledge of sandpaper",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "denies",
+        "express",
+        "hazlewood",
+        "knowledge",
+        "sandpaper",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Hazlewood denies knowledge of sandpaper The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0padnJHdWdZY3ZjZFRuQnFoOUtIaWNhanFXbUVSM0pfRkZGOWkyd2ZyNWJuVkNvdFBiMWFyclVjcHBKYmVxSy1RWC12VUY4dnM1T21tV09BMGJlZ0xoZ1RXTGpYalhKdUE1WUkxbEN4cllUTXd3QkNxZ2RXdkhaS1F30gGKAUFVX3lxTE9xNHNEQnlBczdlSWpjZS1UaGF6MDNPUU9zWGJiQTFPLU1YRjBiU21Nc2F3OXI3ek51Um15c2M4QVRpYmhkamhyeE5pcGoyS0hqVHdTLTg5WFJINGdfZ2tKcUROY18tTWpqMGU0TXVrblFrX0dnSDNmT2FOLWtsSlU2MGgwcnRQaC1aQQ?oc=5",
+          "published_at": "2026-11-21T07:52:54+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GWGxBXy12RVNuaTFHNHhsY0VDWTg0WnFqMTY2RnBSYWN0eHFSX3I4UnAyejc4QzZuM0VsbldOM1BzWFpJR0xqWTlUTVZoWEVHV3E0d2JFMmxjMTFQengyYjlUcDV2WUhxWVRYUUc3WmxFaDhPSDFHV1o2Rmw?oc=5",
+          "published_at": "2026-11-21T08:07:09+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/hazlewood-backs-cummins-denies-knowledge-of-sandpaper",
+          "published_at": "2026-11-21T08:07:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0padnJHdWdZY3ZjZFRuQnFoOUtIaWNhanFXbUVSM0pfRkZGOWkyd2ZyNWJuVkNvdFBiMWFyclVjcHBKYmVxSy1RWC12VUY4dnM1T21tV09BMGJlZ0xoZ1RXTGpYalhKdUE1WUkxbEN4cllUTXd3QkNxZ2RXdkhaS1F30gGKAUFVX3lxTE9xNHNEQnlBczdlSWpjZS1UaGF6MDNPUU9zWGJiQTFPLU1YRjBiU21Nc2F3OXI3ek51Um15c2M4QVRpYmhkamhyeE5pcGoyS0hqVHdTLTg5WFJINGdfZ2tKcUROY18tTWpqMGU0TXVrblFrX0dnSDNmT2FOLWtsSlU2MGgwcnRQaC1aQQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "126360af73d4e7a3ff059b7c",
+      "remembered_at": "2026-11-21T08:49:16.046971+00:00",
+      "event_date": "2026-11-21T01:10:05+00:00",
+      "last_update": "2026-11-21T08:01:12+00:00",
+      "event": "Iran urges world to remember 168 killed in US airstrikes on school in Minab",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "168",
+        "airstrikes",
+        "express",
+        "iran",
+        "killed",
+        "minab",
+        "remember",
+        "school",
+        "the",
+        "tribune",
+        "urges",
+        "world"
+      ],
+      "source_excerpt": "Iran urges world to remember 168 killed in US airstrikes on school in Minab The Express Tribune",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVEZleHBxa296ZUZzeThvNE9BTm04eUUtb2hvcEI2aFF3d2lTQ3BNY2VJUUpNckxwQ0pNckhoTVVpbFJ2UExMb2lrVU1hXzh6d0FpUHBTZkpFeEVlei1wQTdKMnhGNHI1VzE5YnRHcXI2X1VFN3c4M3dLeGtfeXd4ZXRWT3NBb3BPODZYcnRzMVRsajQ5aXVEX3NpdGZYOVBxYWJwTXk2cVBROGZvUDdWUUtVR2dJam5GNFBDQWNxbVNFMVV0?oc=5",
+          "published_at": "2026-11-21T01:10:05+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX25TS3BIVjhSQUhVNjZZeVVVYWx2S3VjR1AtSy1qXzBYSWpzazdnOXk0enV1Tk9PaGwxa2NTdjdIOXl1UXRYNlNLZUpWX244NG1QNWxkNnFUOVh6LUJSOURpbEwxUUlsWUE1eTNHUURjRmRBVEk3SkgzTDViSzJIcHZ2QzMtOEl1eFJDdVE4ZnhGNDhzYjRDZDBON2ZsZVZHVXNJYk9VdkhZenhNQ01WM3l3?oc=5",
+          "published_at": "2026-11-21T08:01:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX25TS3BIVjhSQUhVNjZZeVVVYWx2S3VjR1AtSy1qXzBYSWpzazdnOXk0enV1Tk9PaGwxa2NTdjdIOXl1UXRYNlNLZUpWX244NG1QNWxkNnFUOVh6LUJSOURpbEwxUUlsWUE1eTNHUURjRmRBVEk3SkgzTDViSzJIcHZ2QzMtOEl1eFJDdVE4ZnhGNDhzYjRDZDBON2ZsZVZHVXNJYk9VdkhZenhNQ01WM3l3?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "52d386891123c715c9a11a6d",
+      "remembered_at": "2026-11-21T08:49:16.046971+00:00",
+      "event_date": "2026-11-21T08:26:22+00:00",
+      "last_update": "2026-11-21T08:26:22+00:00",
+      "event": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activist",
+        "bail",
+        "chambers",
+        "conditional",
+        "court",
+        "fergie",
+        "granted",
+        "grants",
+        "high",
+        "james",
+        "palestinian",
+        "philanthropist",
+        "pro",
+        "spain"
+      ],
+      "source_excerpt": "Spain’s High Court granted conditional bail to James ‘Fergie’ Chambers, a pro-Palestinian philanthropist.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
+          "published_at": "2026-11-21T08:26:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8819058e6e7773250d7b58b1",
+      "remembered_at": "2026-11-21T08:49:16.046971+00:00",
+      "event_date": "2026-11-21T08:04:44+00:00",
+      "last_update": "2026-11-21T08:04:44+00:00",
+      "event": "Karachi: Danish Pervez Attempts Suicide to Avoid NCCIA Arrest",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrest",
+        "arynews",
+        "attempts",
+        "avoid",
+        "danish",
+        "karachi",
+        "nccia",
+        "pervez",
+        "suicide"
+      ],
+      "source_excerpt": "Karachi: Danish Pervez Attempts Suicide to Avoid NCCIA Arrest ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNm9rdUk3RzBONDF1aDNseU01UjdLX2JKNDRRVGlReUJQQzBlVWlZODF0TzdCNEt2aDlYVTdENDEteFU0RFZkaFFNRDVCVlh6M0Y3dHpLNnZYV0tzOG4wM25uWmpNT3NlRWhGUFRvbmRnVW9PNlBkRkVvMFk5RVhQT3NfdFNCOEg3bWpBYTRzOUxvYnhGNFdqbHVCekIybEk?oc=5",
+          "published_at": "2026-11-21T08:04:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNm9rdUk3RzBONDF1aDNseU01UjdLX2JKNDRRVGlReUJQQzBlVWlZODF0TzdCNEt2aDlYVTdENDEteFU0RFZkaFFNRDVCVlh6M0Y3dHpLNnZYV0tzOG4wM25uWmpNT3NlRWhGUFRvbmRnVW9PNlBkRkVvMFk5RVhQT3NfdFNCOEg3bWpBYTRzOUxvYnhGNFdqbHVCekIybEk?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e78e1c9dc6fb9a20fcbdc79e",
+      "remembered_at": "2026-11-21T08:49:16.046971+00:00",
+      "event_date": "2026-11-21T08:20:55+00:00",
+      "last_update": "2026-11-21T08:20:55+00:00",
+      "event": "New Petrol and Diesel Prices Announced in Pakistan! Breaking News | Dunya News.",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "announced",
+        "breaking",
+        "diesel",
+        "dunya",
+        "new",
+        "news",
+        "pakistan",
+        "petrol",
+        "prices"
+      ],
+      "source_excerpt": "New Petrol and Diesel Prices Announced in Pakistan! Breaking News | Dunya News. Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZkRVZnItR1BETWpHQVY2Vld2YmxUYmlQUGtxeExPUHNyYkRJVXhEQUxlTDlsdUdvQzNCNG9ucWd4QW44elJHNWw1UTJyX0tLaGZYQUEtNnFoejlvR2xkVUt4aElXclh1T1Q1UHo2ZlVLQWZnQlE5RmtueHU2M19oQjVoQ2NySnNTekxOaTVDdzA3LWJSWFRyU2d2ZTc3SF9KRG1FZmpnSGU4Y3VpYWVZalVKT1hxVWtfQXV6X1pVTHVOczJXa2pNZWhtaDQyUQ?oc=5",
+          "published_at": "2026-11-21T08:20:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZkRVZnItR1BETWpHQVY2Vld2YmxUYmlQUGtxeExPUHNyYkRJVXhEQUxlTDlsdUdvQzNCNG9ucWd4QW44elJHNWw1UTJyX0tLaGZYQUEtNnFoejlvR2xkVUt4aElXclh1T1Q1UHo2ZlVLQWZnQlE5RmtueHU2M19oQjVoQ2NySnNTekxOaTVDdzA3LWJSWFRyU2d2ZTc3SF9KRG1FZmpnSGU4Y3VpYWVZalVKT1hxVWtfQXV6X1pVTHVOczJXa2pNZWhtaDQyUQ?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f6bdb6d823d17dc7d3731ab7",
+      "remembered_at": "2026-11-21T08:49:16.046971+00:00",
+      "event_date": "2026-11-21T07:50:44+00:00",
+      "last_update": "2026-11-21T07:50:44+00:00",
+      "event": "Imran Khan and Bushra Bibi! Islamabad High Court Issues Important Order | Breaking News | Dunya News",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bibi",
+        "breaking",
+        "bushra",
+        "court",
+        "dunya",
+        "high",
+        "important",
+        "imran",
+        "islamabad",
+        "issues",
+        "khan",
+        "news",
+        "order"
+      ],
+      "source_excerpt": "Imran Khan and Bushra Bibi! Islamabad High Court Issues Important Order | Breaking News | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUmE4MmJyRWo3Sks5ekkzbEFNYWpfR0d4d0FnMG95RjMwc2dxWGZ3WHFkV0NQUFItYWhWMkNFbnM4QmY4OGJOTUZKY1h1eUQ2QWxaMDVkMlo4M0NMOU1ZLUp4Z1JhTUNXOE1VanZLbVpzcW1EaXdFMmUxMnhXdTlUb3lrelFPbWl1bHUtbXdYczFHQ3RoUF9Jc3NwS1FYTk9RUDVsWGJzNlI2QzRlTXZrdms4Sm1iU1hHd3VRV3pfVXM4TXVZdUZxWTNsU2g0YmdVMUM0ZUtoeDVTTVVsSExmMEotSlBrd0d6Wmc?oc=5",
+          "published_at": "2026-11-21T07:50:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUmE4MmJyRWo3Sks5ekkzbEFNYWpfR0d4d0FnMG95RjMwc2dxWGZ3WHFkV0NQUFItYWhWMkNFbnM4QmY4OGJOTUZKY1h1eUQ2QWxaMDVkMlo4M0NMOU1ZLUp4Z1JhTUNXOE1VanZLbVpzcW1EaXdFMmUxMnhXdTlUb3lrelFPbWl1bHUtbXdYczFHQ3RoUF9Jc3NwS1FYTk9RUDVsWGJzNlI2QzRlTXZrdms4Sm1iU1hHd3VRV3pfVXM4TXVZdUZxWTNsU2g0YmdVMUM0ZUtoeDVTTVVsSExmMEotSlBrd0d6Wmc?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3a1b1e94812eff811d760303",
+      "remembered_at": "2026-11-21T08:49:16.046971+00:00",
+      "event_date": "2026-11-21T08:37:56+00:00",
+      "last_update": "2026-11-21T08:37:56+00:00",
+      "event": "Sindh decides to help youth to join global freelancing market",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "decides",
+        "freelancing",
+        "global",
+        "help",
+        "join",
+        "market",
+        "sindh",
+        "youth"
+      ],
+      "source_excerpt": "Sindh decides to help youth to join global freelancing market",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/sindh-decides-to-help-youth-to-join-global-freelancing-market",
+          "published_at": "2026-11-21T08:37:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/sindh-decides-to-help-youth-to-join-global-freelancing-market",
+        "publisher_url": "https://arynews.tv/sindh-decides-to-help-youth-to-join-global-freelancing-market",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fc7e0106ee699f8114974e00",
+      "remembered_at": "2026-11-21T08:49:16.046971+00:00",
+      "event_date": "2026-11-21T08:15:00+00:00",
+      "last_update": "2026-11-21T08:15:00+00:00",
+      "event": "Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bilateral",
+        "conclude",
+        "counter",
+        "edition",
+        "elang",
+        "exercise",
+        "express",
+        "iii",
+        "indonesia",
+        "pakistan",
+        "strike",
+        "terrorism",
+        "the",
+        "third",
+        "tribune"
+      ],
+      "source_excerpt": "Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVElkU2NicXd4SEUwbC1wYkFXZzZBUXN5Y015WUo4c2hIVmF3UjI2cDVWdGN2YXhUUGJQNTR3cFRYZXFzajdDcmZGU1ppNFBCZWd4SF9YS3pBalBuOEI4M3JuQVJaOGhtcEpJT3lKTjlGLTVxWW5RWmN5WWZwenJ3cXpaczRKZmhwcFR3aHdYTFdNdGI1UFBGSmItLU14cXpqb0Q3d3otVDlhZUxLOHJvMkgtcWdUTTE1TTRTWVlSRlFJV3NERnBHQXdraXcyYl9G0gHYAUFVX3lxTE5IMTFldWZuc1FoUWtrd2t1UXBLZVEtN3hrLXh3aFNHWlc3V0h0OXZLdjJWRVlIN0o3Um1sMjRRYVJabkVwOXNnaTR6VVRVZlRpamV6SUJDLUZ4OG1ma1NwUG5LOThQcTQ0WnpNNkFjWVFsWGZ3ZDRHN0JMMlRhd2xQbXNjcHAwOGhvNXd4elNpQjlQSUZDNEZhT3JBaHNOSmNhR25HREFxRUJGV1d4emlZcEk1ZXBUd0FnYWtYejM5QWsyMVQ4OHM1aDlYdVdTQ1JNbzRyQi03TQ?oc=5",
+          "published_at": "2026-11-21T08:15:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVElkU2NicXd4SEUwbC1wYkFXZzZBUXN5Y015WUo4c2hIVmF3UjI2cDVWdGN2YXhUUGJQNTR3cFRYZXFzajdDcmZGU1ppNFBCZWd4SF9YS3pBalBuOEI4M3JuQVJaOGhtcEpJT3lKTjlGLTVxWW5RWmN5WWZwenJ3cXpaczRKZmhwcFR3aHdYTFdNdGI1UFBGSmItLU14cXpqb0Q3d3otVDlhZUxLOHJvMkgtcWdUTTE1TTRTWVlSRlFJV3NERnBHQXdraXcyYl9G0gHYAUFVX3lxTE5IMTFldWZuc1FoUWtrd2t1UXBLZVEtN3hrLXh3aFNHWlc3V0h0OXZLdjJWRVlIN0o3Um1sMjRRYVJabkVwOXNnaTR6VVRVZlRpamV6SUJDLUZ4OG1ma1NwUG5LOThQcTQ0WnpNNkFjWVFsWGZ3ZDRHN0JMMlRhd2xQbXNjcHAwOGhvNXd4elNpQjlQSUZDNEZhT3JBaHNOSmNhR25HREFxRUJGV1d4emlZcEk1ZXBUd0FnYWtYejM5QWsyMVQ4OHM1aDlYdVdTQ1JNbzRyQi03TQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ffa8f76a26d7530c154cc5f6",
+      "remembered_at": "2026-11-21T08:49:16.046971+00:00",
+      "event_date": "2026-11-21T08:23:43+00:00",
+      "last_update": "2026-11-21T08:23:43+00:00",
+      "event": "NIH warns of winter disease outbreaks across Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "disease",
+        "nih",
+        "outbreaks",
+        "pakistan",
+        "samaa",
+        "warns",
+        "winter"
+      ],
+      "source_excerpt": "NIH warns of winter disease outbreaks across Pakistan samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNm1kcng2MHFTUEhMal9vclJoZFF2MUFyUTBZTVZqMHZZRl8wa3pjTUE0Z0JGX3o1LUpXaGpWV3lJbXF0YTlfOEotRXJqcldJZ3NjVXhmbTMtekxuelVMZ3p3Y29oWER2OHZnemUyRGI3LUR6SDdyUDgxbl80OU5IUkR1aTY0Wm9Tek1ySklB?oc=5",
+          "published_at": "2026-11-21T08:23:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNm1kcng2MHFTUEhMal9vclJoZFF2MUFyUTBZTVZqMHZZRl8wa3pjTUE0Z0JGX3o1LUpXaGpWV3lJbXF0YTlfOEotRXJqcldJZ3NjVXhmbTMtekxuelVMZ3p3Y29oWER2OHZnemUyRGI3LUR6SDdyUDgxbl80OU5IUkR1aTY0Wm9Tek1ySklB?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T07:51:50.108919+00:00"
+  "updated_at": "2026-11-21T08:49:16.046971+00:00"
 }

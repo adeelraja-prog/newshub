@@ -1,36 +1,35 @@
-# News Hub report - Sat 21 Nov, 12:51 PM PKT
+# News Hub report - Sat 21 Nov, 01:49 PM PKT
 
 ## Collection
-- New items this run: 104 | items in rolling pool: 247
-- Unique story clusters: 203 (duplicates merged: 44)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 32, samaa tv 8, ARY News 8, The Current 7, Geo News 6, ProPakistani 6, BBC 6, Dunya News 5, Al Jazeera 5, Dawn Latest 4, Dawn 2, The Express Tribune 2
+- New items this run: 57 | items in rolling pool: 288
+- Unique story clusters: 230 (duplicates merged: 58)
+- Clusters dropped as already published/queued: 23; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 14, ProPakistani 6, Geo News 5, ARY News 5, samaa tv 3, The Express Tribune 3, Dunya News 3, ARYnews.tv 2, Dawn 2, TechJuice 2, Al Jazeera 1, Arab News PK 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja Shorts: BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | https://www.youtube.com/watch?v=b9EwX3Oggag
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Iraq fire at Basra power station kills at least four, injures 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- WhatsApp raises group chat limit to 1,500 members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Alleged rapist of daughter killed in ‘CCD encounter’ in Kot Addu | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA VI breaks records with $3.8 billion in first-day sales | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netanyahu is playing with the fire that killed Rabin | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Internet provider expects submarine cable repairs to be completed by Dec 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hazlewood denies knowledge of sandpaper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran urges world to remember 168 killed in US airstrikes on school in Minab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Emergency crews in Ukraine hit by a double-tap strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Iraq fire at Basra power station kills at least four, injures 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- WhatsApp raises group chat limit to 1,500 members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Alleged rapist of daughter killed in ‘CCD encounter’ in Kot Addu | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA VI breaks records with $3.8 billion in first-day sales | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netanyahu is playing with the fire that killed Rabin | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Internet provider expects submarine cable repairs to be completed by Dec 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hazlewood denies knowledge of sandpaper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran urges world to remember 168 killed in US airstrikes on school in Minab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Emergency crews in Ukraine hit by a double-tap strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Iraq fire at Basra power station kills at least four, injures 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- WhatsApp raises group chat limit to 1,500 members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Alleged rapist of daughter killed in ‘CCD encounter’ in Kot Addu | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA VI breaks records with $3.8 billion in first-day sales | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netanyahu is playing with the fire that killed Rabin | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Internet provider expects submarine cable repairs to be completed by Dec 6 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hazlewood denies knowledge of sandpaper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran urges world to remember 168 killed in US airstrikes on school in Minab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Emergency crews in Ukraine hit by a double-tap strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -39,111 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Mustafa Kamal urges PTI to unconditionally support creation of new provinces  [NORMAL]
-- Poster: نئے صوبوں کا قیام پاکستان کی بقا کی ضمانت ہے، مصطفیٰ کمال / New provinces are vital for survival, says Mustafa Kamal | category politics
-- Alternative headline: New provinces are a lifeline for Pakistan, says Mustafa Kamal
+### Islamabad High Court Issues Important Order Regarding Imran Khan and Bushra Bibi  [NORMAL]
+- Poster: اسلام آباد ہائیکورٹ کا عمران خان اور بشریٰ بی بی سے متعلق اہم حکم / IHC Issues Important Order on Imran Khan and Bushra Bibi | category politics
+- Alternative headline: IHC Directs Authorities on Legal Meeting for Imran Khan and Bushra Bibi
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/mustafa-kamal-urges-pti-to-unconditionally-support-creation-of-new-provinces | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/mustafa-kamal-urges-pti-to-unconditionally-support-creation-of-new-provinces
-- Supporting coverage: ARY News
-- Keywords: new provinces, Mustafa Kamal, PTI, MQM-P, structural reforms, administrative system | hashtags: #MustafaKamal #MQMP #PTI #NewProvinces #PakistanPolitics
-- Scheduled: Sat 21 Nov, 12:51 PM PKT
+- Original source: published_report - Dunya News https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUmE4MmJyRWo3Sks5ekkzbEFNYWpfR0d4d0FnMG95RjMwc2dxWGZ3WHFkV0NQUFItYWhWMkNFbnM4QmY4OGJOTUZKY1h1eUQ2QWxaMDVkMlo4M0NMOU1ZLUp4Z1JhTUNXOE1VanZLbVpzcW1EaXdFMmUxMnhXdTlUb3lrelFPbWl1bHUtbXdYczFHQ3RoUF9Jc3NwS1FYTk9RUDVsWGJzNlI2QzRlTXZrdms4Sm1iU1hHd3VRV3pfVXM4TXVZdUZxWTNsU2g0YmdVMUM0ZUtoeDVTTVVsSExmMEotSlBrd0d6Wmc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dunya News https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUmE4MmJyRWo3Sks5ekkzbEFNYWpfR0d4d0FnMG95RjMwc2dxWGZ3WHFkV0NQUFItYWhWMkNFbnM4QmY4OGJOTUZKY1h1eUQ2QWxaMDVkMlo4M0NMOU1ZLUp4Z1JhTUNXOE1VanZLbVpzcW1EaXdFMmUxMnhXdTlUb3lrelFPbWl1bHUtbXdYczFHQ3RoUF9Jc3NwS1FYTk9RUDVsWGJzNlI2QzRlTXZrdms4Sm1iU1hHd3VRV3pfVXM4TXVZdUZxWTNsU2g0YmdVMUM0ZUtoeDVTTVVsSExmMEotSlBrd0d6Wmc?oc=5
+- Supporting coverage: Dunya News
+- Keywords: Islamabad High Court, Imran Khan, Bushra Bibi, IHC order, legal meeting, Pakistan politics | hashtags: #ImranKhan #BushraBibi #IHC #IslamabadHighCourt #PakistanPolitics
+- Scheduled: Sat 21 Nov, 01:49 PM PKT
 - Caption:
 ```
-Federal Minister Mustafa Kamal has urged PTI to unconditionally support creating new provinces, calling them vital for the country's survival.
+The Islamabad High Court has issued an important order regarding former prime minister Imran Khan and Bushra Bibi.
 
-Federal Minister Mustafa Kamal has urged Pakistan Tehreek-e-Insaf to unconditionally support the creation of new provinces. Speaking in an interview, he stated that the country can no longer function under the current administrative system and structural reforms are urgently needed before the next federal budget.
+The Islamabad High Court has issued an important order regarding Imran Khan and Bushra Bibi. Reports indicate that authorities were directed to facilitate legal meetings and address relevant matters concerning their custody and legal representation.
 
-وفاقی وزیر مصطفیٰ کمال نے پاکستان تحریک انصاف سے مطالبہ کیا ہے کہ وہ نئے صوبوں کے قیام کی غیر مشروط حمایت کریں۔ انہوں نے کہا کہ ملک موجودہ انتظامی نظام کے ساتھ مزید نہیں چل سکتا اور آئندہ بجٹ سے پہلے ساختیاتی اصلاحات ناگزیر ہیں۔
+اسلام آباد ہائیکورٹ نے عمران خان اور بشریٰ بی بی سے متعلق ایک اہم حکم جاری کیا ہے۔ رپورٹس کے مطابق حکام کو قانونی ملاقاتیں کرانے اور ان کے مقدمات سے متعلق امور کو حل کرنے کی ہدایت کی گئی ہے۔
 
-First reported by ARY News
+First reported by Dunya News.
 
-#MustafaKamal #MQMP #PTI #NewProvinces #PakistanPolitics
+#ImranKhan #BushraBibi #IHC #IslamabadHighCourt #PakistanPolitics
 ```
 
-### Basra power station fire in Iraq kills at least four, injures 30  [NORMAL]
-- Poster: عراق کے شہر بصرہ میں پاور اسٹیشن پر آگ لگنے سے چار افراد جاں بحق / Four killed in Basra power station fire in Iraq | category disaster
-- Alternative headline: At least two killed, 28 injured in fire at power station in Iraq’s Basra
+### Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as Friend  [NORMAL]
+- Poster: زیلنسکی نے پوتن کو قاتل قرار دے دیا، ٹرمپ کے بیان پر ردعمل / Zelenskyy Calls Putin a Killer After Trump's Friend Remark | category world
+- Alternative headline: Ukrainian President Condemns Putin as Enemy and Killer Following Trump's Remarks
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, BBC
+- Keywords: Volodymyr Zelensky, Vladimir Putin, Donald Trump, Ukraine war, Kryvyi Rih, Russia attacks | hashtags: #Zelensky #Putin #Trump #Ukraine #BBCWorld
+- Scheduled: Sat 21 Nov, 01:59 PM PKT
+- Caption:
+```
+Ukrainian President Volodymyr Zelensky has hit back after US President-elect Donald Trump referred to Vladimir Putin as a friend.
+
+Ukrainian President Volodymyr Zelensky has branded Vladimir Putin a killer in response to Donald Trump referring to the Russian leader as a friend. The remarks come amid ongoing missile and drone attacks across multiple Ukrainian regions, resulting in numerous casualties.
+
+یوکرینی صدر ولادیمیر زیلنسکی نے ولادیمیر پوتن کو قاتل قرار دیا ہے، جو کہ ڈونلڈ ٹرمپ کی جانب سے روسی رہنما کو دوست کہنے کے ردعمل میں سامنے آیا ہے۔ یہ بیان یوکرین کے مختلف علاقوں پر جاری روسی حملوں اور جانی نقصان کے تناظر میں آیا ہے۔
+
+First reported by BBC World.
+
+#Zelensky #Putin #Trump #Ukraine #BBCWorld
+```
+
+### Internet Provider Expects Submarine Cable Repairs to Be Completed by Dec 6  [NORMAL]
+- Poster: سب بحری کیبل کی مرمت 6 دسمبر تک مکمل ہونے کی توقع / Submarine Cable Repairs Expected by Dec 6 | category tech
+- Alternative headline: Transworld Estimates Submarine Cable Fault Repairs Finished by December 6
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXNRSG9pcnhJWjV4R05FV0VsQ1VETVZrQXR5RHBBUk1pa2xrOFA1cHB0N25LWDEzZWhWQ0hobHE2TzY2VHBpOUp3RjdiZml6amwzMXNUZGpXa3ZYSlZ2T0NmakZlY0ZQVE1GVDk2UmJIUnMzT25pUmFQOXJCaldsU2Nfdnc5ei1yVll4aE5qeVZmZHBENDJHMDZuYlNGX2xCYUHSAaoBQVVfeXFMUF9NcF9wR2k2U2R3bm1VTXRaSkNWbnMxckVCWlZfRllHLXJUcFVkeS1fUkhidU5GVFRwQUtVSklQby00SC04TllCU3RtOEVnR1lQX3hWTUxob0JkVkMtQUVUaXBTSnJlZkZPWmtpRi1QYjFlTm9Tam9Ea1RCS2ZFakYxRjVKOUpsa3hNRDRpdlN5LXRraXBfT3JmTDFXSWFUMTNRTEJIa1pmbkE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXNRSG9pcnhJWjV4R05FV0VsQ1VETVZrQXR5RHBBUk1pa2xrOFA1cHB0N25LWDEzZWhWQ0hobHE2TzY2VHBpOUp3RjdiZml6amwzMXNUZGpXa3ZYSlZ2T0NmakZlY0ZQVE1GVDk2UmJIUnMzT25pUmFQOXJCaldsU2Nfdnc5ei1yVll4aE5qeVZmZHBENDJHMDZuYlNGX2xCYUHSAaoBQVVfeXFMUF9NcF9wR2k2U2R3bm1VTXRaSkNWbnMxckVCWlZfRllHLXJUcFVkeS1fUkhidU5GVFRwQUtVSklQby00SC04TllCU3RtOEVnR1lQX3hWTUxob0JkVkMtQUVUaXBTSnJlZkZPWmtpRi1QYjFlTm9Tam9Ea1RCS2ZFakYxRjVKOUpsa3hNRDRpdlN5LXRraXBfT3JmTDFXSWFUMTNRTEJIa1pmbkE?oc=5
-- Supporting coverage: The Express Tribune, Al Jazeera
-- Keywords: Basra power station fire, Iraq fire, Basra, power station accident, casualties | hashtags: #Basra #Iraq #PowerStationFire #BreakingNews
-- Scheduled: Sat 21 Nov, 01:01 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUdJcjdBbHpESjZXUC1TOFotM1RKY0xZZDhxZ1FiRXNBRVAwc3Y0Qks3VnR5cjZtSG9yOS04WjNLY0JvMVZBZ09Yd3NmTEZmbVlOYnQ5WFVCeDBYY0VCX2tIZUZYU1h6VG81M0hWVHFsTUNtQjkwNkVWODQ5ZDVwZXlLRUtDNkhUWUhkeTJOX1VTSXA2M3FDQWloelc3am9Ycl9IUDVWSUxqbzct?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUdJcjdBbHpESjZXUC1TOFotM1RKY0xZZDhxZ1FiRXNBRVAwc3Y0Qks3VnR5cjZtSG9yOS04WjNLY0JvMVZBZ09Yd3NmTEZmbVlOYnQ5WFVCeDBYY0VCX2tIZUZYU1h6VG81M0hWVHFsTUNtQjkwNkVWODQ5ZDVwZXlLRUtDNkhUWUhkeTJOX1VTSXA2M3FDQWloelc3am9Ycl9IUDVWSUxqbzct?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, TechJuice
+- Keywords: submarine cable, internet provider, Transworld, internet disruption, Pakistan internet, cable repairs | hashtags: #SubmarineCable #InternetDisruption #Transworld #PTA #Pakistan
+- Scheduled: Sat 21 Nov, 02:09 PM PKT
 - Caption:
 ```
-A devastating fire at a power station in Iraq's southern city of Basra has left at least four people dead and 30 injured.
+Internet users facing connectivity issues can expect restoration as submarine cable repairs are slated for completion by December 6.
 
-A fire outbreak at a power station in Iraq's southern city of Basra has resulted in the deaths of at least four people, with another 30 sustaining injuries. Authorities and emergency services responded to the incident as investigations into the cause of the fire began.
+Internet service provider Transworld expects submarine cable repairs to be completed by December 6. The repairs address recent connectivity disruptions reported across Pakistan following a fault in the underwater communication infrastructure.
 
-عراق کے جنوبی شہر بصرہ میں ایک پاور اسٹیشن پر لگنے والی آگ کے نتیجے میں کم از کم چار افراد جاں بحق اور 30 زخمی ہو گئے۔ ریسکیو ٹیموں نے موقع پر پہنچ کر امدادی کارروائیاں شروع کیں۔
+انٹرنیٹ سروس فراہم کرنے والی کمپنی ٹرانس ورلڈ کو توقع ہے کہ سب بحری کیبل کی مرمت 6 دسمبر تک مکمل کر لی جائے گی۔ یہ مرمت زیرِ آب مواصلاتی انفراسٹرکچر میں خرابی کے باعث پاکستان بھر میں پیش آنے والے انٹرنیٹ کے مسائل کو حل کرنے کے لیے کی جا رہی ہے۔
 
-First reported by The Express Tribune; also reported by Al Jazeera
+First reported by Dawn.
 
-#Basra #Iraq #PowerStationFire #BreakingNews
+#SubmarineCable #InternetDisruption #Transworld #PTA #Pakistan
 ```
 
-### WhatsApp raises group chat limit to 1,500 members  [NORMAL]
-- Poster: واٹس ایپ نے گروپ چیٹ کی حد بڑھا کر 1,500 ممبرز کر دی / WhatsApp increases group limit to 1,500 members | category tech
-- Alternative headline: WhatsApp increases maximum group chat member limit to 1,500
+### Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper  [NORMAL]
+- Poster: جوش ہیزل ووڈ نے سینڈ پیپر کے علم کی تردید کر دی / Hazlewood Denies Knowledge of Sandpaper | category sports
+- Alternative headline: Hazlewood Denies Any Knowledge of Sandpaper Usage in Cricket Controversy
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1c3ME9WaXFCalVwSS1SR1BKaklPX2s3a1J3Ujh5RjJ5SzBlODhqUGpXRjF6bmhNM3dyOTR4bG1sOWgzT3FYWVAxU3FMSnNUVWJXTWJGS0FBZEp0c1M1eXE3b1Z6Nm1DMUNqczlOYnBfdnNYNnlnQVFXNjI4UXI4SnhZWnNYZVBq?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1c3ME9WaXFCalVwSS1SR1BKaklPX2s3a1J3Ujh5RjJ5SzBlODhqUGpXRjF6bmhNM3dyOTR4bG1sOWgzT3FYWVAxU3FMSnNUVWJXTWJGS0FBZEp0c1M1eXE3b1Z6Nm1DMUNqczlOYnBfdnNYNnlnQVFXNjI4UXI4SnhZWnNYZVBq?oc=5
-- Supporting coverage: GSMArena, samaa tv
-- Keywords: WhatsApp group limit, WhatsApp, group chat, 1500 members, tech news | hashtags: #WhatsApp #TechNews #GroupChat #Update
-- Scheduled: Sat 21 Nov, 01:11 PM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0padnJHdWdZY3ZjZFRuQnFoOUtIaWNhanFXbUVSM0pfRkZGOWkyd2ZyNWJuVkNvdFBiMWFyclVjcHBKYmVxSy1RWC12VUY4dnM1T21tV09BMGJlZ0xoZ1RXTGpYalhKdUE1WUkxbEN4cllUTXd3QkNxZ2RXdkhaS1F30gGKAUFVX3lxTE9xNHNEQnlBczdlSWpjZS1UaGF6MDNPUU9zWGJiQTFPLU1YRjBiU21Nc2F3OXI3ek51Um15c2M4QVRpYmhkamhyeE5pcGoyS0hqVHdTLTg5WFJINGdfZ2tKcUROY18tTWpqMGU0TXVrblFrX0dnSDNmT2FOLWtsSlU2MGgwcnRQaC1aQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0padnJHdWdZY3ZjZFRuQnFoOUtIaWNhanFXbUVSM0pfRkZGOWkyd2ZyNWJuVkNvdFBiMWFyclVjcHBKYmVxSy1RWC12VUY4dnM1T21tV09BMGJlZ0xoZ1RXTGpYalhKdUE1WUkxbEN4cllUTXd3QkNxZ2RXdkhaS1F30gGKAUFVX3lxTE9xNHNEQnlBczdlSWpjZS1UaGF6MDNPUU9zWGJiQTFPLU1YRjBiU21Nc2F3OXI3ek51Um15c2M4QVRpYmhkamhyeE5pcGoyS0hqVHdTLTg5WFJINGdfZ2tKcUROY18tTWpqMGU0TXVrblFrX0dnSDNmT2FOLWtsSlU2MGgwcnRQaC1aQQ?oc=5
+- Supporting coverage: The Express Tribune, ARYnews.tv, ARY News
+- Keywords: Josh Hazlewood, Pat Cummins, sandpaper, cricket news, Australia cricket, ball tampering | hashtags: #JoshHazlewood #PatCummins #Cricket #AustraliaCricket #ExpressTribune
+- Scheduled: Sat 21 Nov, 02:19 PM PKT
 - Caption:
 ```
-WhatsApp has rolled out a major update increasing its maximum group chat member limit to 1,500 users.
+Australian cricketer Josh Hazlewood has backed teammate Pat Cummins while denying any knowledge of sandpaper.
 
-Popular messaging platform WhatsApp has significantly increased its group chat member limit, allowing up to 1,500 participants in a single group. This update aims to facilitate larger communities, organizations, and institutional groups communicating on the platform.
+Australian fast bowler Josh Hazlewood has expressed support for teammate Pat Cummins while denying any knowledge of sandpaper use. The statements address historical ball-tampering talking points that continue to draw attention in international cricket discussions.
 
-مقبول پیغام رسانی کی ایپ واٹس ایپ نے گروپ چیٹ کے ممبران کی حد میں نمایاں اضافہ کرتے ہوئے اسے 1,500 افراد تک پہنچا دیا ہے۔ اس اپ ڈیٹ کا مقصد بڑی کمیونٹیز اور اداروں کے لیے رابطے کو آسان بنانا ہے۔
+آسٹریلوی فاسٹ بولر جوش ہیزل ووڈ نے ساتھی کھلاڑی پ্যাট کمنز کی حمایت کرتے ہوئے سینڈ پیپر کے بارے میں کسی بھی قسم کے علم کی تردید کی ہے۔ یہ بیانات بین الاقوامی کرکٹ میں ماضی کے تنازعات کے حوالے سے سامنے آئے ہیں۔
 
-First reported by samaa tv; also reported by GSMArena
+First reported by The Express Tribune.
 
-#WhatsApp #TechNews #GroupChat #Update
+#JoshHazlewood #PatCummins #Cricket #AustraliaCricket #ExpressTribune
 ```
 
-### Father accused of raping daughter killed in CCD encounter in Kot Addu  [NORMAL]
-- Poster: کوٹ ادو میں پولیس مقابلے کے دوران بیٹی کے زیادتی کا ملزم ہلاک / Accused rapist killed in Kot Addu encounter | category crime
-- Alternative headline: Alleged rapist killed in police encounter after accomplices open fire
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046016/alleged-rapist-of-daughter-killed-in-ccd-encounter-in-kot-addu | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046016/alleged-rapist-of-daughter-killed-in-ccd-encounter-in-kot-addu
-- Supporting coverage: Dawn Pakistan, The Current
-- Keywords: Kot Addu encounter, CCD, Crime Control Department, Kot Addu, Dawn Pakistan | hashtags: #KotAddu #CCD #PoliceEncounter #DawnNews
-- Scheduled: Sat 21 Nov, 01:21 PM PKT
-- Caption:
-```
-A man accused of raping his 10-year-old daughter was killed during a Crime Control Department encounter in Kot Addu.
-
-The Crime Control Department reported that a man arrested for allegedly raping his 10-year-old daughter was killed during an encounter in Kot Addu. According to officials, the suspect was shot by his own accomplices who opened fire while police were transporting him.
-
-کرائم کنٹرول ڈیپارٹمنٹ کے مطابق کوٹ ادو میں اپنی 10 سالہ بیٹی کے ساتھ مبینہ زیادتی کے الزام میں گرفتار ملزم مبینہ پولیس مقابلے میں ہلاک ہو گیا۔ حکام کا کہنا ہے کہ ملزم اپنے ساتھیوں کی فائرنگ سے جاں بحق ہوا۔
-
-First reported by Dawn Pakistan; also reported by The Current
-
-#KotAddu #CCD #PoliceEncounter #DawnNews
-```
-
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
 
 ## Queue status
-- [needs_review] normal | Board of Peace warns Gaza ceasefire faces imminent collapse without ac | Wed 18 Nov, 06:51 AM PKT
-- [needs_review] normal | Zimbabwe edge Afghanistan in thriller | Wed 18 Nov, 07:01 AM PKT
-- [needs_review] normal | Why China’s Shenzhen was chosen for APEC summit | Wed 18 Nov, 07:11 AM PKT
 - [needs_review] normal | Jeff Bezos Says He Was Heavily Involved in Casting Robert Pattinson as | Wed 18 Nov, 07:48 AM PKT
 - [needs_review] normal | Hundreds Protest Outside Oxford University as Jason Arday's Accuser Sp | Wed 18 Nov, 07:58 AM PKT
 - [needs_review] normal | Ecuadorian Fishermen Sue Trump Administration Over Alleged Drone Strik | Wed 18 Nov, 08:08 AM PKT
@@ -160,7 +156,6 @@ First reported by Dawn Pakistan; also reported by The Current
 - [needs_review] normal | Iran Army Claims Targeting US Military Equipment At Kuwait Base | Wed 18 Nov, 12:03 PM PKT
 - [needs_review] normal | Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump | Wed 18 Nov, 12:13 PM PKT
 - [needs_review] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
-- [published] normal | Democrat Mary Peltola flips Alaska Senate seat, clinching 56-44 majori | Wed 18 Nov, 01:17 PM PKT
 - [needs_review] normal | Pakistan slip to 221-7 in Rawalpindi Test despite establishing 123-run | Wed 18 Nov, 01:27 PM PKT
 - [needs_review] normal | Rahim Yar Khan man arrested after fake suicide drama killed rescue div | Wed 18 Nov, 01:37 PM PKT
 - [published] normal | GTA 6 Fever Grips Gaming World Ahead of Anticipated Launch | Wed 18 Nov, 02:27 PM PKT
@@ -344,10 +339,10 @@ First reported by Dawn Pakistan; also reported by The Current
 - [needs_review] normal | Nepal's Prime Minister Targets Trade and Connectivity in Crucial India | Sat 21 Nov, 06:35 AM PKT
 - [needs_review] normal | Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Leas | Sat 21 Nov, 06:45 AM PKT
 - [published] normal | Can Generative AI Actually Help Shoppers Spot Real Black Friday Deals? | Sat 21 Nov, 06:55 AM PKT
-- [queued] normal | ANC fights to keep control of South Africa's key cities after election | Sat 21 Nov, 07:28 AM PKT
-- [queued] normal | Mauricio Pochettino takes charge of Manchester United ahead of Liverpo | Sat 21 Nov, 07:38 AM PKT
-- [queued] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
-- [queued] normal | Denmark expels Russian diplomat over alleged plot against Ukrainian ra | Sat 21 Nov, 07:58 AM PKT
+- [needs_review] normal | ANC fights to keep control of South Africa's key cities after election | Sat 21 Nov, 07:28 AM PKT
+- [needs_review] normal | Mauricio Pochettino takes charge of Manchester United ahead of Liverpo | Sat 21 Nov, 07:38 AM PKT
+- [needs_review] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
+- [published] normal | Denmark expels Russian diplomat over alleged plot against Ukrainian ra | Sat 21 Nov, 07:58 AM PKT
 - [queued] normal | Pakistan Rises 17 Places in UN E-Governance Ranking | Sat 21 Nov, 08:21 AM PKT
 - [queued] normal | SECP Tightens Scrutiny on Corporate Audit Reports | Sat 21 Nov, 08:31 AM PKT
 - [queued] normal | Balochistan CM Bugti Promises Province-Wide Jobs | Sat 21 Nov, 08:41 AM PKT
@@ -361,14 +356,23 @@ First reported by Dawn Pakistan; also reported by The Current
 - [queued] normal | Basra power station fire in Iraq kills at least four, injures 30 | Sat 21 Nov, 01:01 PM PKT
 - [queued] normal | WhatsApp raises group chat limit to 1,500 members | Sat 21 Nov, 01:11 PM PKT
 - [queued] normal | Father accused of raping daughter killed in CCD encounter in Kot Addu | Sat 21 Nov, 01:21 PM PKT
+- [queued] normal | Islamabad High Court Issues Important Order Regarding Imran Khan and B | Sat 21 Nov, 01:49 PM PKT
+- [queued] normal | Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as  | Sat 21 Nov, 01:59 PM PKT
+- [queued] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
+- [queued] normal | Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper | Sat 21 Nov, 02:19 PM PKT
 
 ## Publishing this run
-- Published 'Can Generative AI Actually Help Shoppers Spot Real Black Friday Deals?'.
+- Published 'Denmark expels Russian diplomat over alleged plot against Ukrainian rapper'.
 
 ## Gemini usage
-- Calls: 6 | prompt tokens: 4343 | output tokens: 2483
-- Errors: 4
+- Calls: 4 | prompt tokens: 5377 | output tokens: 2389
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
