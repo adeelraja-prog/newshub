@@ -96610,7 +96610,295 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d276033f0688e85c3fc0afd7",
+      "remembered_at": "2026-11-21T03:21:59.539658+00:00",
+      "event_date": "2026-11-20T23:33:01+00:00",
+      "last_update": "2026-11-21T02:42:01+00:00",
+      "event": "SECP tightens audit report checks",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "audit",
+        "checks",
+        "dawn",
+        "report",
+        "secp",
+        "tightens"
+      ],
+      "source_excerpt": "SECP tightens audit report checks Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54eWNmcXI1eFVZenA0ckpYZWIyOEs2TFFwRnpiN19xSldNTzFZUi1NRS1Iay1wdEJwYUZsM2EzbHpheTN2V1o0dW1TUUlnUW51WkZvQjU3bjVnN2U3SUFUVFByUElrX3hIVGJ1QkFRTXF4Ry1FVGc?oc=5",
+          "published_at": "2026-11-20T23:33:01+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045992/the-securities-and-exchange-commission-of-pakistan-tightens-audit-report-checks",
+          "published_at": "2026-11-21T02:42:01+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1RrZzd1ZlJTWXVOSHBpMmlfMEVPenhJNk9Cbm5Rc0NkdXNpNkNCdXRWUktUdm9LMDBQN0VLUVh2S3pMb3lSN0U5OEx1eW4xbEpudmEyS0FmQ3VSY2pqamI2M1dYVFBxc1pSZnNXNk0zZVNlMDVGNlkwRDNHZEJXMnkxbTE3Q21sNEktb204Nzk2Z2JGY2ZaYWNPNDZVQkdpR3B6MkZCRzh6RXFDdTNOTU1DM2huMzN2bXZHdnNlZlg?oc=5",
+          "published_at": "2026-11-21T02:42:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54eWNmcXI1eFVZenA0ckpYZWIyOEs2TFFwRnpiN19xSldNTzFZUi1NRS1Iay1wdEJwYUZsM2EzbHpheTN2V1o0dW1TUUlnUW51WkZvQjU3bjVnN2U3SUFUVFByUElrX3hIVGJ1QkFRTXF4Ry1FVGc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c37e63594fed91a48dc94534",
+      "remembered_at": "2026-11-21T03:21:59.539658+00:00",
+      "event_date": "2026-11-20T23:32:43+00:00",
+      "last_update": "2026-11-21T03:08:39+00:00",
+      "event": "CM Bugti promises jobs across the province",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "bugti",
+        "dawn",
+        "jobs",
+        "promises",
+        "province",
+        "the"
+      ],
+      "source_excerpt": "CM Bugti promises jobs across the province Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUU0xTnZUelVUTlBRbzF6ZVBSR2FvQUQ3bUo3Z2c0bldsZ3U1dDMtenRzSy1vMjJFT2ROVXlJOTN2aE1lV3lRV3VKOGFaVU5kZXdXVzJqVTdMS0JjQmlBaWRMTTBLdTM1V2VnVWp1RXlGYXhZRVotbHVoZ1BYMXVtaVdR?oc=5",
+          "published_at": "2026-11-20T23:32:43+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046001/balochistan-cm-promises-jobs-across-the-province",
+          "published_at": "2026-11-21T03:08:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUU0xTnZUelVUTlBRbzF6ZVBSR2FvQUQ3bUo3Z2c0bldsZ3U1dDMtenRzSy1vMjJFT2ROVXlJOTN2aE1lV3lRV3VKOGFaVU5kZXdXVzJqVTdMS0JjQmlBaWRMTTBLdTM1V2VnVWp1RXlGYXhZRVotbHVoZ1BYMXVtaVdR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "17b2a050d5b43703831713b2",
+      "remembered_at": "2026-11-21T03:21:59.539658+00:00",
+      "event_date": "2026-11-20T23:33:01+00:00",
+      "last_update": "2026-11-21T02:44:12+00:00",
+      "event": "ECC lowers export threshold for SMEs",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "ecc",
+        "export",
+        "for",
+        "lowers",
+        "smes",
+        "threshold"
+      ],
+      "source_excerpt": "ECC lowers export threshold for SMEs Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVUQzTEV1V2kyVUhpNlRkUU94by1aREZhUE9UWFBIaV93Zk5WTmRKQ1Ftc3ozUU9nQUQ5blp1d052SzZMX3dVcm1YdmItVkdqYURWRzl4dXdtS0NrZWdZZFFjUEFLSzZJXzFwYnl2NnVBamlEdkQ1ZTV3?oc=5",
+          "published_at": "2026-11-20T23:33:01+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2045994/the-economic-coordination-committee-lowers-export-threshold-for-smes",
+          "published_at": "2026-11-21T02:44:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVUQzTEV1V2kyVUhpNlRkUU94by1aREZhUE9UWFBIaV93Zk5WTmRKQ1Ftc3ozUU9nQUQ5blp1d052SzZMX3dVcm1YdmItVkdqYURWRzl4dXdtS0NrZWdZZFFjUEFLSzZJXzFwYnl2NnVBamlEdkQ1ZTV3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eb641a0b2977e130e3509553",
+      "remembered_at": "2026-11-21T03:21:59.539658+00:00",
+      "event_date": "2026-11-21T02:49:16+00:00",
+      "last_update": "2026-11-21T02:49:33+00:00",
+      "event": "Gen Z protests sweep Europe over wars, rising costs and climate",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "climate",
+        "costs",
+        "countries",
+        "europe",
+        "european",
+        "gen",
+        "living",
+        "military",
+        "over",
+        "protesters",
+        "protests",
+        "rallied",
+        "rising",
+        "spending",
+        "sweep",
+        "thousands",
+        "wars"
+      ],
+      "source_excerpt": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+          "published_at": "2026-11-21T02:49:16+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjMyaXdOTHVpWlljcmF1ZlpxWi1xczI0eGd3Z1YzNVdKbjQ0eFZuQmpHS0VsYjhsSDBramFPcG5xVjdJOEtVbFlHR0dwVGwzdW9wMHpXRUQySmFlT1dMQ3U2T1J3UXNiWElmWThZc2FBYXNlVGtsVllBUTRaVDZhLU5mMGRUbGE5blR3OGlVTElaaFh5akN1M2lKVnp4TGRWVEM0ZUYzamZ0NUdfSFZWZi10YVnSAboBQVVfeXFMUFRVNF9vRm4zTDNZc2tZRlJvS3JIVXFKdmNoaGpLMlRGS2xGTmtlTXJLRkozQlNITjhIVktnMXE4SXp6VHEtR3IyTlJLOG1hSHllZlJYUjNySmJ0cERoQ0g2bmlxUFFNZ01WVWpBUWhoT09RbjRJbGJ5c2xZSEFScHlhWTlHS2pLUUJzUnVJcC1yQWZhbkMta2NUR1JtRjc5MHp1dDBiejJNaFpmTUxUQ0xBVjFTT0w4ZWRn?oc=5",
+          "published_at": "2026-11-21T02:49:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "611df1f732857cace4b69f92",
+      "remembered_at": "2026-11-21T03:21:59.539658+00:00",
+      "event_date": "2026-11-21T02:11:26+00:00",
+      "last_update": "2026-11-21T02:11:26+00:00",
+      "event": "کراچی: ایم نائن موٹر وے پر کار کھڑے ٹرک سے ٹکرا گئی، 4 افراد زخمی",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "افراد",
+        "ایم",
+        "حادثے",
+        "ذرائع",
+        "زخمی",
+        "فائل",
+        "فوٹوایم",
+        "مطابق",
+        "موٹر",
+        "میں",
+        "نائن",
+        "ٹرک",
+        "ٹکرا",
+        "کار",
+        "کراچی",
+        "کھڑے",
+        "کیو",
+        "گئی،",
+        "گاڑی",
+        "ہوگئے۔ریسکیو"
+      ],
+      "source_excerpt": "فائل فوٹوایم نائن موٹر وے پر کار کھڑے ٹرک سے ٹکرا گئی، حادثے میں 4 افراد زخمی ہوگئے۔ریسکیو ذرائع کے مطابق گاڑی میں ایم کیو ایم...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1635390",
+          "published_at": "2026-11-21T02:11:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1635390",
+        "publisher_url": "https://jang.com.pk/news/1635390",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "57fabfd5305b0960970440b7",
+      "remembered_at": "2026-11-21T03:21:59.539658+00:00",
+      "event_date": "2026-11-21T02:55:09+00:00",
+      "last_update": "2026-11-21T02:55:09+00:00",
+      "event": "News Archives for Sp Supplements - 2026-11-21",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "archives",
+        "dawn",
+        "for",
+        "news",
+        "supplements"
+      ],
+      "source_excerpt": "News Archives for Sp Supplements - 2026-11-21 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWU5wbEFwLVBmU0djN0w5M0I2Rk5sRVpKQWJRYWdLMkR1emVFbExHSWFfUlRFWTlxWVJlc29paWJxUlQ3dUZBWkFZVlQ1N2dpUk5qODRqT3h0UnNZa290NG9lTDM4cDRPNFE?oc=5",
+          "published_at": "2026-11-21T02:55:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWU5wbEFwLVBmU0djN0w5M0I2Rk5sRVpKQWJRYWdLMkR1emVFbExHSWFfUlRFWTlxWVJlc29paWJxUlQ3dUZBWkFZVlQ1N2dpUk5qODRqT3h0UnNZa290NG9lTDM4cDRPNFE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T02:28:08.005831+00:00"
+  "updated_at": "2026-11-21T03:21:59.539658+00:00"
 }

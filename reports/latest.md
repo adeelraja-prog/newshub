@@ -1,34 +1,34 @@
-# News Hub report - Sat 21 Nov, 07:28 AM PKT
+# News Hub report - Sat 21 Nov, 08:21 AM PKT
 
 ## Collection
-- New items this run: 11 | items in rolling pool: 346
-- Unique story clusters: 318 (duplicates merged: 28)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 3
-- Items per outlet: Al Jazeera 4, Profit by Pakistan Today 2, Dawn Latest 1, Jang Urdu 1, GSMArena 1, CBS News 1, Anadolu Ajansı 1
+- New items this run: 19 | items in rolling pool: 307
+- Unique story clusters: 273 (duplicates merged: 34)
+- Clusters dropped as already published/queued: 31; unchanged since last analysis: 3
+- Items per outlet: Investify 5, Dawn Latest 4, Dawn 2, Dawn Pakistan 2, Al Jazeera 2, Profit by Pakistan Today 2, Iran International 1, The Guardian 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Can Mauricio Pochettino save Man United from Premier League relegation? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ANC fights to keep control of South Africa's key cities after election setback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SECP tightens audit report checks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM Bugti promises jobs across the province | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan rises 17 places in UN e-governance ranking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECC lowers export threshold for SMEs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Can Mauricio Pochettino save Man United from Premier League relegation? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ANC fights to keep control of South Africa's key cities after election setback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SECP tightens audit report checks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM Bugti promises jobs across the province | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan rises 17 places in UN e-governance ranking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECC lowers export threshold for SMEs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Can Mauricio Pochettino save Man United from Premier League relegation? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ANC fights to keep control of South Africa's key cities after election setback | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SECP tightens audit report checks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM Bugti promises jobs across the province | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan rises 17 places in UN e-governance ranking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECC lowers export threshold for SMEs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
@@ -38,111 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### ANC fights to keep control of South Africa's key cities after election setback  [NORMAL]
-- Poster: جنوبی افریقہ میں اے این سی کو بلدیاتی انتخابات میں بڑا دھچکا / ANC struggles to keep key cities in South Africa | category politics
-- Alternative headline: South Africa's ruling ANC faces tough race to hold major cities
+### Pakistan Rises 17 Places in UN E-Governance Ranking  [NORMAL]
+- Poster: پاکستان کی یو این ای گورন্যান্স رینکنگ میں 17 درجے ترقی / Pakistan Jumps 17 Places in UN E-Governance Ranking | category politics
+- Alternative headline: UN E-Governance Ranking Sees Pakistan Jump 17 Spots
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: ANC local elections, South Africa politics, ANC cities, local government, Democratic Alliance | hashtags: #ANC #SouthAfrica #LocalElections #WorldNews
-- Scheduled: Sat 21 Nov, 07:28 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjBwSi00OTlCUVVlZ3ZTS0dob3RzYzRYSUlQWHg3SlRkdmZ5UU12eHNRTVo1aHRTOE5sODFHbFRqSVRlcnJxQzB4bGxCX0Y3TmN3eUhRckJQLXJOWDVHY1BSSms1QjZrWk03NWZlU0xabU1rT0tfdEh3Vm9NWGtybllsazYtOHpmV0tISld3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjBwSi00OTlCUVVlZ3ZTS0dob3RzYzRYSUlQWHg3SlRkdmZ5UU12eHNRTVo1aHRTOE5sODFHbFRqSVRlcnJxQzB4bGxCX0Y3TmN3eUhRckJQLXJOWDVHY1BSSms1QjZrWk03NWZlU0xabU1rT0tfdEh3Vm9NWGtybllsazYtOHpmV0tISld3?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: UN e-governance ranking, Pakistan digital governance, UN ranking, e-governance, Dawn news | hashtags: #Pakistan #EGovernance #UN #DigitalPakistan #DawnNews
+- Scheduled: Sat 21 Nov, 08:21 AM PKT
 - Caption:
 ```
-South Africa's ruling ANC is racing against time to form local governments after suffering its worst election result since 1994.
+Pakistan has climbed 17 places in the latest UN e-governance ranking, marking a notable improvement in digital governance.
 
-The African National Congress is struggling to secure power-sharing deals in South Africa's cities following a massive drop in support during recent local elections. The party won a majority in only one province and a majority of votes in just two cities, facing a deadline of November 27 to negotiate local governments.
+Pakistan has recorded a significant improvement in the United Nations e-governance ranking by jumping 17 places. This advancement highlights progress in digital public services and administrative technology adoption across the country, according to reports published by Dawn.
 
-افریقن نیشنل کانگریس حالیہ بلدیاتی انتخابات میں حمایت میں بڑی کمی کے بعد جنوبی افریقہ کے شہروں میں اقتدار کی تقسیم کے معاہدے کرنے کی کوشش کر رہی ہے۔ پارٹی نے صرف ایک صوبے میں اکثریت حاصل کی اور 27 نومبر کی آخری تاریخ تک مقامی حکومتیں بنانے کی تگ و دو جاری ہے۔
+پاکستان نے اقوام متحدہ کی ای گورন্যান্স رینکنگ میں 17 درجے بہتری کے ساتھ نمایاں ترقی کی ہے۔ ڈان کی رپورٹ کے مطابق یہ پیشرفت ملک بھر میں ڈیجیٹل پبلک سروسز اور انتظامی ٹیکنالوجی کے فروغ کو ظاہر کرتی ہے۔
 
-First reported by BBC World.
+First reported by Dawn.
 
-#ANC #SouthAfrica #LocalElections #WorldNews
+#Pakistan #EGovernance #UN #DigitalPakistan #DawnNews
 ```
 
-### Mauricio Pochettino takes charge of Manchester United ahead of Liverpool clash  [NORMAL]
-- Poster: ماوریسیو پوچیٹینو اتوار کو مانچسٹر یونائیٹڈ کی کمان سنبھالیں گے / Pochettino takes charge of Manchester United | category sports
-- Alternative headline: Can Mauricio Pochettino save Manchester United from Premier League relegation struggles?
+### SECP Tightens Scrutiny on Corporate Audit Reports  [NORMAL]
+- Poster: ایس ای سی پی نے آڈٹ رپورٹس کی جانچ پڑتال سخت کر دی / SECP Tightens Audit Report Checks | category economy
+- Alternative headline: Securities and Exchange Commission Tightens Audit Report Checks
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Mauricio Pochettino, Manchester United, Premier League, Liverpool, football | hashtags: #Pochettino #ManUtd #PremierLeague #Football
-- Scheduled: Sat 21 Nov, 07:38 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE54eWNmcXI1eFVZenA0ckpYZWIyOEs2TFFwRnpiN19xSldNTzFZUi1NRS1Iay1wdEJwYUZsM2EzbHpheTN2V1o0dW1TUUlnUW51WkZvQjU3bjVnN2U3SUFUVFByUElrX3hIVGJ1QkFRTXF4Ry1FVGc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE54eWNmcXI1eFVZenA0ckpYZWIyOEs2TFFwRnpiN19xSldNTzFZUi1NRS1Iay1wdEJwYUZsM2EzbHpheTN2V1o0dW1TUUlnUW51WkZvQjU3bjVnN2U3SUFUVFByUElrX3hIVGJ1QkFRTXF4Ry1FVGc?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Investify
+- Keywords: SECP audit checks, SECP, audit report, corporate governance, Dawn | hashtags: #SECP #AuditReports #Economy #Pakistan #DawnNews
+- Scheduled: Sat 21 Nov, 08:31 AM PKT
 - Caption:
 ```
-Mauricio Pochettino is set to take charge of Manchester United for the very first time in an away match against rivals Liverpool.
+The Securities and Exchange Commission of Pakistan has tightened checks on audit reports to enhance corporate transparency.
 
-Mauricio Pochettino will officially take charge of Manchester United for the first time on Sunday. His debut match comes as the team prepares for a high-stakes fixture against fierce rivals Liverpool in the Premier League.
+The Securities and Exchange Commission of Pakistan (SECP) has implemented stricter checks on corporate audit reports. Reported by Dawn, this regulatory move aims to improve financial transparency, corporate governance, and compliance standards within the business sector.
 
-ماوریسیو پوچیٹینو اتوار کو پہلی بار مانچسٹر یونائیٹڈ کی کمان سنبھالیں گے۔ ان کا پہلا میچ حریف لیورپول کے خلاف پریمیئر لیگ میں ہوگا۔
+سیکیورٹیز اینڈ ایکسچینج کمیشن آف پاکستان (ایس ای سی پی) نے کارپوریٹ آڈٹ رپورٹس کی جانچ پڑتال مزید سخت کر دی ہے۔ ڈان کی رپورٹ کے مطابق اس ریگولیٹری اقدام کا مقصد کاروباری شعبے میں مالیاتی شفافیت اور گورন্যান্স کے معیار کو بہتر بنانا ہے۔
 
-First reported by Al Jazeera.
+First reported by Dawn.
 
-#Pochettino #ManUtd #PremierLeague #Football
+#SECP #AuditReports #Economy #Pakistan #DawnNews
 ```
 
-### Exploring modern technological innovations from AI early warnings to sailing  [NORMAL]
-- Poster: ٹیک ناؤ: مصنوعی ذہانت اور جدید ٹیکنالوجی کا سفر / Tech Now explores global innovations | category tech
-- Alternative headline: Tech Now highlights global innovations in AI, sailing, and wildlife protection
+### Balochistan CM Bugti Promises Province-Wide Jobs  [NORMAL]
+- Poster: بلوچستان کے وزیر اعلیٰ بگٹی کا صوبہ بھر میں ملازمتوں کا اعلان / CM Bugti Promises Jobs Across Balochistan | category politics
+- Alternative headline: CM Bugti Announces Job Opportunities Across Balochistan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology
-- Keywords: Tech Now, AI technology, innovation, America's Cup, wildfire tech | hashtags: #TechNow #ArtificialIntelligence #Innovation #TechNews
-- Scheduled: Sat 21 Nov, 07:48 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxQUU0xTnZUelVUTlBRbzF6ZVBSR2FvQUQ3bUo3Z2c0bldsZ3U1dDMtenRzSy1vMjJFT2ROVXlJOTN2aE1lV3lRV3VKOGFaVU5kZXdXVzJqVTdMS0JjQmlBaWRMTTBLdTM1V2VnVWp1RXlGYXhZRVotbHVoZ1BYMXVtaVdR?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxQUU0xTnZUelVUTlBRbzF6ZVBSR2FvQUQ3bUo3Z2c0bldsZ3U1dDMtenRzSy1vMjJFT2ROVXlJOTN2aE1lV3lRV3VKOGFaVU5kZXdXVzJqVTdMS0JjQmlBaWRMTTBLdTM1V2VnVWp1RXlGYXhZRVotbHVoZ1BYMXVtaVdR?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Balochistan jobs, CM Bugti, Balochistan employment, government jobs, Dawn | hashtags: #Balochistan #CMBugti #Jobs #Employment #DawnNews
+- Scheduled: Sat 21 Nov, 08:41 AM PKT
 - Caption:
 ```
-A new episode of Tech Now explores cutting-edge technological advancements, from AI landslide warnings to the evolution of sailing.
+Balochistan Chief Minister Sarfraz Bugti has promised new employment opportunities across the province.
 
-The latest series of Tech Now explores various technological innovations across the globe, including teams testing AI early warning systems for landslides, tracking wildfire damage, and examining the evolution of sailing in the America's Cup.
+Balochistan Chief Minister Sarfraz Bugti has announced a commitment to providing employment opportunities across the province. According to Dawn, this initiative is aimed at addressing local unemployment and supporting economic development in the region.
 
-ٹیک ناؤ کا نیا سلسلہ دنیا بھر میں تکنیکی جدت طرازیوں کا احاطہ کرتا ہے، جس میں لینڈ سلائیڈز کے لیے مصنوعی ذہانت کے ارلی وارننگ سسٹمز اور جنگلات کی آگ کی نگرانی شامل ہے۔
+بلوچستان کے وزیر اعلیٰ سرفراز بگٹی نے صوبے بھر میں روزگار کے نئے مواقع فراہم کرنے کا وعدہ کیا ہے۔ ڈان کے مطابق اس اقدام کا مقصد مقامی سطح پر بے روزگاری کا خاتمہ اور خطے میں معاشی ترقی کو فروغ دینا ہے۔
 
-First reported by BBC Technology.
+First reported by Dawn.
 
-#TechNow #ArtificialIntelligence #Innovation #TechNews
+#Balochistan #CMBugti #Jobs #Employment #DawnNews
 ```
 
-### Denmark expels Russian diplomat over alleged plot against Ukrainian rapper  [NORMAL]
-- Poster: ڈنمارک نے یوکرینی گلوکار پر حملے کی سازش پر روسی سفارتکار کو ملک بدر کر دیا / Denmark expels Russian diplomat over alleged plot | category world
-- Alternative headline: Russian diplomat expelled from Denmark amid assassination plot allegations
+### ECC Lowers Export Threshold for Small and Medium Enterprises  [NORMAL]
+- Poster: ای سی سی نے چھوٹے اور درمیانے درجے کے اداروں کے لیے برآمدی حد کم کر دی / ECC Lowers Export Threshold for SMEs | category economy
+- Alternative headline: Economic Coordination Committee Reduces Export Threshold for SMEs
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMitwFBVV95cUxQTm5jdWw5MVdVbjdpWnZ2b0cyNnlpdnNqU0owNThlVDY0S1hSbkpOMGpZdm5TVU5QZ2lpSndBQnA2Q050RjA4M3VUYU02YVduem1ZUDI0NUlVeHE4OTVQSXVfRHZPZThocERscE1IUlpCWS1TbEJoaXk0NDN5RkQxQVRfLWF0Y2d6U1ZUTGRZWVZkX0k0dnd0aVZ0OXRxRGFJS3lkcmJlTHBUZ1VSVlBFYldac0VVckXSAbwBQVVfeXFMUGpWZzN4UHkyVDNNOVAtS0F4N1phV2ZzOWZxRXFnTWRKLXlKYUJURlJUQS1xanYzTEpBLWQ1TDNVaVBmLTFxZ0cya25VWER6SVhQX29RZ2tzYXNlV2VEYWV6RGdEVkFnVW56eS1JSkQ4VUMtUWx4M2lySTItQTFseTZMMFNZLUdvZy1COWh4d1M4dUp4Wk5yZWhpRVZVZkU2TnRlVFBRQ3p1MVNNdmdFeVBSX0o5ZUc2QU14ZVM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMitwFBVV95cUxQTm5jdWw5MVdVbjdpWnZ2b0cyNnlpdnNqU0owNThlVDY0S1hSbkpOMGpZdm5TVU5QZ2lpSndBQnA2Q050RjA4M3VUYU02YVduem1ZUDI0NUlVeHE4OTVQSXVfRHZPZThocERscE1IUlpCWS1TbEJoaXk0NDN5RkQxQVRfLWF0Y2d6U1ZUTGRZWVZkX0k0dnd0aVZ0OXRxRGFJS3lkcmJlTHBUZ1VSVlBFYldac0VVckXSAbwBQVVfeXFMUGpWZzN4UHkyVDNNOVAtS0F4N1phV2ZzOWZxRXFnTWRKLXlKYUJURlJUQS1xanYzTEpBLWQ1TDNVaVBmLTFxZ0cya25VWER6SVhQX29RZ2tzYXNlV2VEYWV6RGdEVkFnVW56eS1JSkQ4VUMtUWx4M2lySTItQTFseTZMMFNZLUdvZy1COWh4d1M4dUp4Wk5yZWhpRVZVZkU2TnRlVFBRQ3p1MVNNdmdFeVBSX0o5ZUc2QU14ZVM?oc=5
-- Supporting coverage: Al Jazeera
-- Keywords: Denmark expels Russian diplomat, Russian diplomat, Denmark Russia, Ukrainian rapper, assassination plot | hashtags: #Denmark #Russia #Diplomacy #WorldNews
-- Scheduled: Sat 21 Nov, 07:58 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVUQzTEV1V2kyVUhpNlRkUU94by1aREZhUE9UWFBIaV93Zk5WTmRKQ1Ftc3ozUU9nQUQ5blp1d052SzZMX3dVcm1YdmItVkdqYURWRzl4dXdtS0NrZWdZZFFjUEFLSzZJXzFwYnl2NnVBamlEdkQ1ZTV3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVUQzTEV1V2kyVUhpNlRkUU94by1aREZhUE9UWFBIaV93Zk5WTmRKQ1Ftc3ozUU9nQUQ5blp1d052SzZMX3dVcm1YdmItVkdqYURWRzl4dXdtS0NrZWdZZFFjUEFLSzZJXzFwYnl2NnVBamlEdkQ1ZTV3?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: ECC export threshold, ECC, SMEs export, Economic Coordination Committee, Dawn | hashtags: #ECC #SMEs #Exports #Economy #DawnNews
+- Scheduled: Sat 21 Nov, 08:51 AM PKT
 - Caption:
 ```
-Denmark has expelled a Russian diplomat following an alleged plot to assassinate a Ukrainian rapper.
+The Economic Coordination Committee has lowered the export threshold to facilitate small and medium enterprises.
 
-Denmark has taken the step to expel a Russian diplomat linked to an alleged plot targeting a Ukrainian rapper. The incident highlights rising diplomatic tensions involving European nations and Russia.
+The Economic Coordination Committee (ECC) has approved a reduction in the export threshold for small and medium enterprises (SMEs). Reported by Dawn, the decision is intended to ease export regulations and encourage greater participation from smaller businesses in international trade.
 
-ڈنمارک نے ایک یوکرینی گلوکار کو نشانہ بنانے کی مبینہ سازش کے سلسلے میں ایک روسی سفارتکار کو ملک بدر کر دیا ہے۔ اس واقعے سے یورپی ممالک اور روس کے درمیان سفارتی کشیدگی اجاگر ہوتی ہے۔
+ایکنامک کوآرڈینیشن کمیٹی (ای سی سی) نے چھوٹے اور درمیانے درجے کے اداروں (ایس ایم ایز) کے لیے برآمدی حد میں کمی کی منظوری دے دی ہے۔ ڈان کی رپورٹ کے مطابق اس فیصلے کا مقصد برآمدی ضوابط کو آسان بنانا اور چھوٹے کاروباروں کی حوصلہ افزائی کرنا ہے۔
 
-First reported by Al Jazeera.
+First reported by Dawn.
 
-#Denmark #Russia #Diplomacy #WorldNews
+#ECC #SMEs #Exports #Economy #DawnNews
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | Islamabad bans vehicles without fitness tests to curb smog | Wed 18 Nov, 01:07 AM PKT
-- [needs_review] normal | Trump warns Iran over reported dirty bomb threat in Washington | Wed 18 Nov, 01:17 AM PKT
-- [needs_review] normal | Prince William and Kate Celebrate Earthshot Prize Winners in Mumbai | Wed 18 Nov, 01:38 AM PKT
 - [needs_review] normal | Major Apple Outage Halts App Store, iCloud, and Apple Pay Globally | Wed 18 Nov, 01:58 AM PKT
 - [needs_review] normal | Saudi's Delta Energy Eyes $30 Billion Energy Investment in Pakistan | Wed 18 Nov, 02:08 AM PKT
 - [needs_review] normal | Russian military plane crashes in Siberia, killing all 19 aboard | Wed 18 Nov, 02:34 AM PKT
@@ -341,10 +338,10 @@ First reported by Al Jazeera.
 - [needs_review] normal | Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Re | Sat 21 Nov, 01:06 AM PKT
 - [needs_review] normal | New York City Plans to Close Notorious Rikers Island by 2032 | Sat 21 Nov, 01:16 AM PKT
 - [published] normal | Trump Threatens Ban and Tremendous Tax on US Firms Building Overseas A | Sat 21 Nov, 01:35 AM PKT
-- [queued] normal | US Tech Sell-Off Deepens as Anthropic Tumbles Following Mega IPO Debut | Sat 21 Nov, 01:45 AM PKT
-- [queued] normal | CTD and Police Eliminate Three Terrorists Including Kohat Attack Maste | Sat 21 Nov, 01:55 AM PKT
-- [queued] normal | Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Ba | Sat 21 Nov, 02:05 AM PKT
-- [queued] normal | Minister insists referendum on new provinces 'will happen' | Sat 21 Nov, 02:28 AM PKT
+- [needs_review] normal | US Tech Sell-Off Deepens as Anthropic Tumbles Following Mega IPO Debut | Sat 21 Nov, 01:45 AM PKT
+- [needs_review] normal | CTD and Police Eliminate Three Terrorists Including Kohat Attack Maste | Sat 21 Nov, 01:55 AM PKT
+- [needs_review] normal | Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Ba | Sat 21 Nov, 02:05 AM PKT
+- [published] normal | Minister insists referendum on new provinces 'will happen' | Sat 21 Nov, 02:28 AM PKT
 - [queued] normal | Russia complains of new Iron Curtain as Estonia shuts borders | Sat 21 Nov, 02:38 AM PKT
 - [queued] normal | Israeli drone attacks kill seven Palestinians in central Gaza | Sat 21 Nov, 02:48 AM PKT
 - [queued] normal | Nepali cricket fans in Qatar want team to compete globally | Sat 21 Nov, 02:58 AM PKT
@@ -368,16 +365,16 @@ First reported by Al Jazeera.
 - [queued] normal | Mauricio Pochettino takes charge of Manchester United ahead of Liverpo | Sat 21 Nov, 07:38 AM PKT
 - [queued] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
 - [queued] normal | Denmark expels Russian diplomat over alleged plot against Ukrainian ra | Sat 21 Nov, 07:58 AM PKT
+- [queued] normal | Pakistan Rises 17 Places in UN E-Governance Ranking | Sat 21 Nov, 08:21 AM PKT
+- [queued] normal | SECP Tightens Scrutiny on Corporate Audit Reports | Sat 21 Nov, 08:31 AM PKT
+- [queued] normal | Balochistan CM Bugti Promises Province-Wide Jobs | Sat 21 Nov, 08:41 AM PKT
+- [queued] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
 
 ## Publishing this run
-- Published 'Trump Threatens Ban and Tremendous Tax on US Firms Building Overseas AI Data Centres'.
+- Published 'Minister insists referendum on new provinces 'will happen''.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 9160 | output tokens: 4418
-- Errors: 3
+- Calls: 3 | prompt tokens: 4296 | output tokens: 2234
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 106 column 7 (char 5266)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
