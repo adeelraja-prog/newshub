@@ -1,35 +1,35 @@
-# News Hub report - Sun 22 Nov, 04:13 AM PKT
+# News Hub report - Sun 22 Nov, 04:56 AM PKT
 
 ## Collection
-- New items this run: 13 | items in rolling pool: 298
-- Unique story clusters: 269 (duplicates merged: 29)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 7
-- Items per outlet: Dawn Latest 3, Engadget 3, The Express Tribune 2, BBC Science 1, Euronews.com 1, TRT World 1, RNZ 1, CBC 1
+- New items this run: 15 | items in rolling pool: 266
+- Unique story clusters: 237 (duplicates merged: 29)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 7
+- Items per outlet: Dawn 2, Dawn Latest 2, Al Jazeera 2, samaa tv 1, The News International 1, The Express Tribune 1, Engadget 1, Inquirer.net 1, NewsCord 1, CBS News 1, The Jerusalem Post 1, Euromaidan Press 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Espi snatches late Real Madrid win over Celta Vigo in La Liga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It gives me the ick': Can you cheat on someone with a video game? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lock of former US President George Washington's hair sells for $4,000 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Will COP31 end with a new global climate deal? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- TODAY’S PAPER | November 22, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Impunity fuels surge in settler violence across occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nmecha helps Dortmund beat Gladbach to top Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Espi snatches late Real Madrid win over Celta Vigo in La Liga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It gives me the ick': Can you cheat on someone with a video game? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lock of former US President George Washington's hair sells for $4,000 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Will COP31 end with a new global climate deal? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- TODAY’S PAPER | November 22, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Impunity fuels surge in settler violence across occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nmecha helps Dortmund beat Gladbach to top Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Espi snatches late Real Madrid win over Celta Vigo in La Liga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It gives me the ick': Can you cheat on someone with a video game? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lock of former US President George Washington's hair sells for $4,000 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Will COP31 end with a new global climate deal? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- TODAY’S PAPER | November 22, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Impunity fuels surge in settler violence across occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nmecha helps Dortmund beat Gladbach to top Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### George Washington's Framed Lock of Hair Sells for $4,000 at Auction  [NORMAL]
-- Poster: جارج واشنگٹن کے بالوں کی لٹ چار ہزار ڈالر میں نیلام / George Washington's hair lock sells for $4,000 | category us_politics
-- Alternative headline: Historic lock of George Washington's hair fetches $4,000
+### Iran faces a silent economic war, warns Iranian president  [NORMAL]
+- Poster: ایران ایک خاموش معاشی جنگ کا سامنا کر رہا ہے: ایرانی صدر / Iran faces a silent economic war, says president | category politics
+- Alternative headline: Iranian president speaks out on severe silent economic war
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: George Washington hair, George Washington, auction, John Gadsby, Richmond Auctions, US history | hashtags: #GeorgeWashington #History #Auction #USPolitics #BBCWorld
-- Scheduled: Sun 22 Nov, 04:13 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Iran economic war, Iranian president, silent economic war, Iran economy, sanctions | hashtags: #Iran #Economy #MiddleEast #AlJazeera
+- Scheduled: Sun 22 Nov, 04:56 AM PKT
 - Caption:
 ```
-A framed lock of hair belonging to America's first president, George Washington, has been sold at auction for $4,000.
+Iranian President highlights that the nation is currently confronting an intense silent economic war.
 
-A framed lock of hair from America's first president, George Washington, was sold at auction for $4,000. The hair originally belonged to John Gadsby, who hosted Washington in 1799, and was later acquired by collector John K Lattimer from a Gadsby descendent.
+Iranian President stated that Iran is currently facing a silent economic war. The remarks highlight ongoing economic pressures and challenges confronting the country amidst international tensions.
 
-امریکہ کے پہلے صدر جارج واشنگٹن کے بالوں کی ایک فریم شدہ لٹ چار ہزار ڈالر میں نیلام ہو گئی۔ یہ بال اصل میں جان گیڈسبی کے پاس تھے جنہوں نے 1799 میں واشنگٹن کی میزبانی کی تھی، اور بعد میں ایک کلیکٹر جان کے لاٹیمر نے حاصل کیے۔
+ایرانی صدر نے بیان دیا ہے کہ ایران کو اس وقت ایک خاموش معاشی جنگ کا سامنا ہے۔ یہ بیان ملک کو درپیش جاری معاشی دباؤ اور بین الاقوامی کشیدگی کے تناظر میں سامنے آیا ہے۔
 
-First reported by BBC World
+According to a report by Al Jazeera
 
-#GeorgeWashington #History #Auction #USPolitics #BBCWorld
+#Iran #Economy #MiddleEast #AlJazeera
 ```
 
-### Espi's Late Goal Secures Thrilling 2-1 Win for Real Madrid Over Celta Vigo  [NORMAL]
-- Poster: کار্লোس ایسپی کے آخری لمحات کے گول سے رিয়াল মাদ্রিদ کی فتح / Espi secures late 2-1 win for Real Madrid | category sports
-- Alternative headline: Carlos Espi seals dramatic late victory for Real Madrid against Celta Vigo
+### Today's Express Tribune ePaper highlights for November 22, 2026  [NORMAL]
+- Poster: ایکسپریس ٹ্রিبیون کا 22 نومبر 2026 کا ای پیپر / Express Tribune ePaper November 22, 2026 | category other
+- Alternative headline: The Express Tribune daily ePaper edition for November 22, 2026
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046217/espi-snatches-late-real-madrid-win-over-celta-vigo-in-la-liga | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046217/espi-snatches-late-real-madrid-win-over-celta-vigo-in-la-liga
-- Supporting coverage: Dawn Latest
-- Keywords: Real Madrid Celta Vigo, Carlos Espi, Real Madrid, Celta Vigo, La Liga, Jude Bellingham | hashtags: #RealMadrid #LaLiga #CeltaVigo #Football #Sports
-- Scheduled: Sun 22 Nov, 04:23 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFZ5SWFVUWVTWG0wc09tMTVhMHJka2hJZUIxUlA2Z2FxSGFaOU5pTEF6Vi1GVkRnMFMwY2ZxQS1wT21DNDF1TGdVMmNkbGhWa2ktMVdpWmhQRTJRb2NKZVFWNW1aVW9aU3J1MHh6OXRtZWRDSE5EWGZheEVJYlZVb0lkUkh6TWx6WmQ4d21wZ2RMSlVKYmpUTXlDRXRvQUd4d1F1Yk52Zw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFZ5SWFVUWVTWG0wc09tMTVhMHJka2hJZUIxUlA2Z2FxSGFaOU5pTEF6Vi1GVkRnMFMwY2ZxQS1wT21DNDF1TGdVMmNkbGhWa2ktMVdpWmhQRTJRb2NKZVFWNW1aVW9aU3J1MHh6OXRtZWRDSE5EWGZheEVJYlZVb0lkUkh6TWx6WmQ4d21wZ2RMSlVKYmpUTXlDRXRvQUd4d1F1Yk52Zw?oc=5
+- Supporting coverage: Pakistan Today, The Express Tribune, The Express Tribune
+- Keywords: Express Tribune ePaper, Pakistan Today, daily newspaper, news highlights, November 22 2026 | hashtags: #ExpressTribune #PakistanNews #ePaper #DailyNews
+- Scheduled: Sun 22 Nov, 05:06 AM PKT
 - Caption:
 ```
-Carlos Espi scored an 85th-minute winner as Real Madrid came from behind to defeat Celta Vigo 2-1 in La Liga.
+Check out the daily ePaper edition and top news highlights from The Express Tribune.
 
-Carlos Espi scored in the 85th minute to give Real Madrid a 2-1 victory over Celta Vigo in La Liga, pulling Los Blancos level with leaders Barcelona. Pablo Duran had given Celta an early lead before Jude Bellingham equalised and Espi completed the comeback.
+The Express Tribune has released its daily ePaper edition for November 22, 2026, featuring comprehensive news coverage and current updates from across Pakistan and the world.
 
-کار্লোس ایسپی نے 85 ویں منٹ میں گول کر کے رিয়াল মাদ্রিদ کو سلٹا ویگو کے خلاف 2-1 سے فتح دلائی، جس سے ٹیم پوائنٹس ٹیبل پر بارسلোনা کے برابر آ گئی۔ پابলো دوران نے سلٹا کو برتری دلائی تھی جسے جوڈ بیلنگھم اور ایسپی نے ختم کیا۔
+ایکسپریس ٹ্রিبیون نے 22 نومبر 2026 کے لیے اپنا روزنامہ ای پیپر جاری کر دیا ہے، جس میں پاکستان اور دنیا بھر سے اہم خبریں اور اپ ڈیٹس شامل ہیں۔
 
-First reported by Dawn Latest
+First reported by The Express Tribune
 
-#RealMadrid #LaLiga #CeltaVigo #Football #Sports
+#ExpressTribune #PakistanNews #ePaper #DailyNews
 ```
 
-### Can Virtual Relationships in Video Games Count as Cheating?  [NORMAL]
-- Poster: کیا ویڈیو گیم میں رشتہ رکھنا حقیقت میں دھوکہ ہے؟ / Can video game romances be considered cheating? | category other
-- Alternative headline: Exploring the debate on whether gaming romances constitute infidelity
+### Impunity fuels alarming surge in settler violence across West Bank  [NORMAL]
+- Poster: مقبوضہ مغربی کنارے میں آباد کاروں کی تشدد میں خطرناک اضافہ / Surge in settler violence across occupied West Bank | category war
+- Alternative headline: Rising settler violence in occupied West Bank driven by impunity
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: video game cheating, video games, GTA, relationships, gaming, infidelity | hashtags: #Gaming #Relationships #GTA #Tech #BBCHealth
-- Scheduled: Sun 22 Nov, 04:33 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: West Bank settler violence, impunity, occupied West Bank, Al Jazeera, Palestinian residents | hashtags: #WestBank #Palestine #HumanRights #AlJazeera
+- Scheduled: Sun 22 Nov, 05:16 AM PKT
 - Caption:
 ```
-As blockbuster games offer deep virtual relationships, players and partners are debating whether investing in digital romance counts as cheating.
+A alarming surge in settler violence across the occupied West Bank is being fueled by widespread impunity.
 
-With blockbuster video games like Rockstar's latest Grand Theft Auto offering deep character relationships, players face a growing debate about whether investing time in fictional romances constitutes cheating on their real-life partners.
+Reports highlight that a continuous lack of accountability and widespread impunity are fueling a sharp surge in violent attacks by Israeli settlers across the occupied West Bank, impacting local Palestinian communities.
 
-جیسے جیسے ویڈیو گیمز میں کرداروں کے درمیان گہرے تعلقات دکھائے جا رہے ہیں، یہ بحث شروع ہو گئی ہے کہ کیا حقیقی زندگی کے ساتھی کے ہوتے ہوئے فکشنل رومانوی تعلقات میں وقت گزارنا دھوکہ مانا جا سکتا ہے۔
+رپورٹس سے پتہ چلتا ہے کہ احتساب کی مسلسل کمی اور عام معافی مقبوضہ مغربی کنارے میں اسرائیلی آباد کاروں کے پُرتشدد حملوں میں اضافے کی بنیادی وجہ بن رہی ہے۔
 
-First reported by BBC Health
+According to a report by Al Jazeera
 
-#Gaming #Relationships #GTA #Tech #BBCHealth
+#WestBank #Palestine #HumanRights #AlJazeera
 ```
 
-### Will COP31 Climate Summit Conclude with a New Global Agreement?  [NORMAL]
-- Poster: کیا COP31 سربراہی اجلاس کسی نئے عالمی معاہدے پر ختم ہوگا؟ / Will COP31 end with a new global climate deal? | category other
-- Alternative headline: Nations negotiate as questions surround the outcome of COP31
+### Nmecha shines as Dortmund defeats Gladbach to claim top spot  [NORMAL]
+- Poster: نمیچا کی شاندار کارکردگی، ڈورٹمنڈ نے بندس‌لیگا میں پہلی پوزیشن حاصل کر لی / Nmecha helps Dortmund beat Gladbach to top Bundesliga | category sports
+- Alternative headline: Borussia Dortmund beats Gladbach powered by Nmecha to top Bundesliga
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Science
-- Keywords: COP31 climate deal, COP31, climate change, global agreement, climate summit, environment | hashtags: #COP31 #ClimateChange #Environment #GlobalDeal #BBC
-- Scheduled: Sun 22 Nov, 04:43 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxORFd1WHJrdWpyUE9yZzV4TExqOVNMaXNWdUZuMVdKS0ozLVc1eEVuT3lJb0FvZTV4Z0R0ZnNGeTkyRnZSdi1ndmlCOFMyTDgzS3VMcTF4RjF3N1BqdUhleXhxUlFEcm9OaE1DMXJfYTE1QjRNSUhEQkgzc2Vya2lLNDNuNWZoMGNLWHhFZGx1WmM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxORFd1WHJrdWpyUE9yZzV4TExqOVNMaXNWdUZuMVdKS0ozLVc1eEVuT3lJb0FvZTV4Z0R0ZnNGeTkyRnZSdi1ndmlCOFMyTDgzS3VMcTF4RjF3N1BqdUhleXhxUlFEcm9OaE1DMXJfYTE1QjRNSUhEQkgzc2Vya2lLNDNuNWZoMGNLWHhFZGx1WmM?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Dortmund Bundesliga, Nmecha, Gladbach, Borussia Dortmund, football | hashtags: #Bundesliga #Dortmund #Football #DawnNews
+- Scheduled: Sun 22 Nov, 05:26 AM PKT
 - Caption:
 ```
-As nations negotiate at COP31, questions remain over whether the climate summit will successfully secure a new global agreement.
+Nmecha played a crucial role as Borussia Dortmund secured a victory against Gladbach to top the Bundesliga standings.
 
-Negotiations continue at the COP31 climate summit as participating nations struggle to overcome differences and determine whether the conference will conclude with a comprehensive new global climate deal.
+Borussia Dortmund climbed to the top of the Bundesliga standings following a vital win against Gladbach, with Nmecha delivering a standout performance to help secure the victory.
 
-COP31 موسمیاتی سربراہی اجلاس میں مذاکرات جاری ہیں کیونکہ مختلف ممالک اختلافات پر قابو پانے اور یہ طے کرنے کی کوشش کر رہے ہیں کہ آیا یہ کانفرنس کسی نئے عالمی موسمیاتی معاہدے پر ختم ہوگی یا نہیں۔
+بروسیا ڈورٹمنڈ نے گلادباخ کے خلاف اہم فتح کے بعد بندس‌لیگا کی پوائنٹس ٹیبل پر پہلی پوزیشن حاصل کر لی ہے، جہاں نمیچا نے شاندار کھیل کا مظاہرہ کیا۔
 
-First reported by BBC Science
+First reported by Dawn
 
-#COP31 #ClimateChange #Environment #GlobalDeal #BBC
+#Bundesliga #Dortmund #Football #DawnNews
 ```
 
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
@@ -152,7 +152,6 @@ First reported by BBC Science
 - [needs_review] normal | Catherine visits Mumbai maternity hospital on final day of royal tour | Thu 19 Nov, 04:37 AM PKT
 - [needs_review] normal | Myanmar faces historic genocide verdict at UN court over Rohingya | Thu 19 Nov, 04:47 AM PKT
 - [needs_review] normal | Iraq sentences six French nationals to life in prison over ISIL | Thu 19 Nov, 04:57 AM PKT
-- [published] normal | GTA 6 officially launches after 13-year wait and record pre-orders | Thu 19 Nov, 05:07 AM PKT
 - [needs_review] normal | US targets Hezbollah with fresh sanctions over front charities | Thu 19 Nov, 05:35 AM PKT
 - [needs_review] normal | Claude maker Anthropic eyes massive 1.4 trillion dollar stock debut | Thu 19 Nov, 05:45 AM PKT
 - [needs_review] normal | Scottish government faces questions over plans to issue first ever bon | Thu 19 Nov, 05:55 AM PKT
@@ -344,10 +343,10 @@ First reported by BBC Science
 - [needs_review] normal | Africa's CAF Backs FIFA President Infantino's Re-election | Sat 21 Nov, 09:55 PM PKT
 - [needs_review] normal | Newcastle United Faces Arsenal in Premier League Clash | Sat 21 Nov, 10:05 PM PKT
 - [published] normal | Tankers Hit in Strait of Hormuz Amid Rising Tensions | Sat 21 Nov, 10:15 PM PKT
-- [queued] normal | Independent Review Ordered into NHS Grampian Surgery Deaths | Sat 21 Nov, 10:25 PM PKT
-- [queued] normal | Indian opposition issues ultimatum to Meta over account removals | Sat 21 Nov, 10:39 PM PKT
-- [queued] normal | Security forces eliminate 15 terrorists in Balochistan's Mastung | Sat 21 Nov, 10:49 PM PKT
-- [queued] normal | Punjab CCD school bag checks spark social media debate | Sat 21 Nov, 10:59 PM PKT
+- [needs_review] normal | Independent Review Ordered into NHS Grampian Surgery Deaths | Sat 21 Nov, 10:25 PM PKT
+- [needs_review] normal | Indian opposition issues ultimatum to Meta over account removals | Sat 21 Nov, 10:39 PM PKT
+- [needs_review] normal | Security forces eliminate 15 terrorists in Balochistan's Mastung | Sat 21 Nov, 10:49 PM PKT
+- [published] normal | Punjab CCD school bag checks spark social media debate | Sat 21 Nov, 10:59 PM PKT
 - [queued] normal | French presidential candidate blames media for racist attack | Sat 21 Nov, 11:09 PM PKT
 - [queued] normal | Could Brexit be reversed in the future? | Sat 21 Nov, 11:21 PM PKT
 - [queued] normal | Punjab Workers Welfare Fund launches new WhatsApp helpline | Sat 21 Nov, 11:31 PM PKT
@@ -372,18 +371,16 @@ First reported by BBC Science
 - [queued] normal | Espi's Late Goal Secures Thrilling 2-1 Win for Real Madrid Over Celta  | Sun 22 Nov, 04:23 AM PKT
 - [queued] normal | Can Virtual Relationships in Video Games Count as Cheating? | Sun 22 Nov, 04:33 AM PKT
 - [queued] normal | Will COP31 Climate Summit Conclude with a New Global Agreement? | Sun 22 Nov, 04:43 AM PKT
+- [queued] normal | Iran faces a silent economic war, warns Iranian president | Sun 22 Nov, 04:56 AM PKT
+- [queued] normal | Today's Express Tribune ePaper highlights for November 22, 2026 | Sun 22 Nov, 05:06 AM PKT
+- [queued] normal | Impunity fuels alarming surge in settler violence across West Bank | Sun 22 Nov, 05:16 AM PKT
+- [queued] normal | Nmecha shines as Dortmund defeats Gladbach to claim top spot | Sun 22 Nov, 05:26 AM PKT
 
 ## Publishing this run
-- Published 'Tankers Hit in Strait of Hormuz Amid Rising Tensions'.
+- Published 'Punjab CCD school bag checks spark social media debate'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4532 | output tokens: 2446
+- Calls: 3 | prompt tokens: 5493 | output tokens: 2101
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

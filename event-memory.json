@@ -108160,7 +108160,283 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "094655859fa3729170285ecc",
+      "remembered_at": "2026-11-21T23:56:47.999941+00:00",
+      "event_date": "2026-11-21T20:57:53+00:00",
+      "last_update": "2026-11-21T23:30:51+00:00",
+      "event": "TODAY’S PAPER | November 22, 2026 | EPAPER",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "epaper",
+        "express",
+        "november",
+        "paper",
+        "the",
+        "today",
+        "tribune"
+      ],
+      "source_excerpt": "TODAY’S PAPER | November 22, 2026 | EPAPER The Express Tribune",
+      "sources": [
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CWDNvYmVfNExDYlhIdXJrS2tlZUFEbHRSTDFHcmtFUWpLY0JVcVNKSTJWVHgzbUpHYnJNeWxoWUliczA1d1BjOXJOeW9DVGQxekMyOFhPY3AxVUFycVdBR1l6TVBPRmNkcXRaM2hENA?oc=5",
+          "published_at": "2026-11-21T20:57:53+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFZ5SWFVUWVTWG0wc09tMTVhMHJka2hJZUIxUlA2Z2FxSGFaOU5pTEF6Vi1GVkRnMFMwY2ZxQS1wT21DNDF1TGdVMmNkbGhWa2ktMVdpWmhQRTJRb2NKZVFWNW1aVW9aU3J1MHh6OXRtZWRDSE5EWGZheEVJYlZVb0lkUkh6TWx6WmQ4d21wZ2RMSlVKYmpUTXlDRXRvQUd4d1F1Yk52Zw?oc=5",
+          "published_at": "2026-11-21T22:32:36+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGUwbzBKQzU3MnBmSFV2WHFnY1dTOXRIMUlEWGw0ZXl0YUNISU5TanZPYU5GYVZzZWNmT0hfSnh1RXl2cWRLZXp4RzFnSUFFeVJiOFo2d1I3X3lSUUlqdHhQcU9la2dKRUE0bGl0WG0tN3pWQ29KWnk0bHVZVHlmb084T251SDJTeGNvRlJkNjNxUE5BYVFvend1d01BZU4xOW1JRXN1RQ?oc=5",
+          "published_at": "2026-11-21T23:30:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFZ5SWFVUWVTWG0wc09tMTVhMHJka2hJZUIxUlA2Z2FxSGFaOU5pTEF6Vi1GVkRnMFMwY2ZxQS1wT21DNDF1TGdVMmNkbGhWa2ktMVdpWmhQRTJRb2NKZVFWNW1aVW9aU3J1MHh6OXRtZWRDSE5EWGZheEVJYlZVb0lkUkh6TWx6WmQ4d21wZ2RMSlVKYmpUTXlDRXRvQUd4d1F1Yk52Zw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "23a813d535a1ff4317fcdae5",
+      "remembered_at": "2026-11-21T23:56:47.999941+00:00",
+      "event_date": "2026-11-21T23:18:14+00:00",
+      "last_update": "2026-11-21T23:25:06+00:00",
+      "event": "Iran faces a ‘silent economic war’, says Iranian president",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "economic",
+        "faces",
+        "iran",
+        "iranian",
+        "president",
+        "says",
+        "silent",
+        "war"
+      ],
+      "source_excerpt": "Iran faces a ‘silent economic war’, says Iranian president",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+          "published_at": "2026-11-21T23:18:14+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeDc5RFA1X1dLYVNja2oxSkstQ2ZXY3U5X05QVXZWZWFTbWhxbWVlbUtMYXFaanJ2WDR6VjVRT3FYZ3lvMVkxTWd5WHM5Wm56azc0aXA5SmozS2o4Mi1keW1XV09Bcm9reFpaZE1yUXBjYlJ0QXRLTXdzVTkwUVpQaEdyR3Zobkp4SzN3NFY2TnRfcGZDSkpBYzBNczFZRmd5U25EQnBwTVlHRVnSAbABQVVfeXFMUEJSQldQdDNraFFHOXJuZHlxRGJ2Vkt4UG9FZ0RIYzNFNlk4RHBxNlBjVXlTX2Z6RmdhWktRMTBIV0tWdGVaSkF6MzZKTlJWT2pnSGRlRXNkYmdXRVNnVFVzeGctWnZELTBKWUxicGpNREFTVDhDRVZvT1U4cldOcWtUUEJBN29qZ056ZlNLV0szWjZUd2tXcHA3Ni1SSXpoSWNUM296ZDZkQ0swcC1pQU0?oc=5",
+          "published_at": "2026-11-21T23:25:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aec86c414f43acbd3486cc0a",
+      "remembered_at": "2026-11-21T23:56:47.999941+00:00",
+      "event_date": "2026-11-21T23:17:10+00:00",
+      "last_update": "2026-11-21T23:17:10+00:00",
+      "event": "Nmecha helps Dortmund beat Gladbach to top Bundesliga",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "beat",
+        "bundesliga",
+        "dawn",
+        "dortmund",
+        "gladbach",
+        "helps",
+        "nmecha",
+        "top"
+      ],
+      "source_excerpt": "Nmecha helps Dortmund beat Gladbach to top Bundesliga Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORFd1WHJrdWpyUE9yZzV4TExqOVNMaXNWdUZuMVdKS0ozLVc1eEVuT3lJb0FvZTV4Z0R0ZnNGeTkyRnZSdi1ndmlCOFMyTDgzS3VMcTF4RjF3N1BqdUhleXhxUlFEcm9OaE1DMXJfYTE1QjRNSUhEQkgzc2Vya2lLNDNuNWZoMGNLWHhFZGx1WmM?oc=5",
+          "published_at": "2026-11-21T23:17:10+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046225/nmecha-helps-dortmund-beat-gladbach-to-top-bundesliga",
+          "published_at": "2026-11-21T23:17:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORFd1WHJrdWpyUE9yZzV4TExqOVNMaXNWdUZuMVdKS0ozLVc1eEVuT3lJb0FvZTV4Z0R0ZnNGeTkyRnZSdi1ndmlCOFMyTDgzS3VMcTF4RjF3N1BqdUhleXhxUlFEcm9OaE1DMXJfYTE1QjRNSUhEQkgzc2Vya2lLNDNuNWZoMGNLWHhFZGx1WmM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "20d182120816c794621db25e",
+      "remembered_at": "2026-11-21T23:56:47.999941+00:00",
+      "event_date": "2026-11-21T23:38:37+00:00",
+      "last_update": "2026-11-21T23:38:37+00:00",
+      "event": "Alcaraz to face Zverev for ATP Finals title",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alcaraz",
+        "atp",
+        "dawn",
+        "face",
+        "finals",
+        "for",
+        "title",
+        "zverev"
+      ],
+      "source_excerpt": "Alcaraz to face Zverev for ATP Finals title Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEJrNkgyOU1HN01yRXFRaHlvbWJzOFJCUXpoWXpMcl8zNWdPSXpoSVpPQXV6YmRJd21zUmNyUldyTkJuWXQ3RWR4TlRDMnJBMU5tYkR2REJhaldVWmVuX0tZbGVnOFFVdGFRNXByeVliT1I3d0h6Q0t3LVctdFpDM0JZRQ?oc=5",
+          "published_at": "2026-11-21T23:38:37+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046237/alcaraz-to-face-zverev-for-atp-finals-title",
+          "published_at": "2026-11-21T23:38:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEJrNkgyOU1HN01yRXFRaHlvbWJzOFJCUXpoWXpMcl8zNWdPSXpoSVpPQXV6YmRJd21zUmNyUldyTkJuWXQ3RWR4TlRDMnJBMU5tYkR2REJhaldVWmVuX0tZbGVnOFFVdGFRNXByeVliT1I3d0h6Q0t3LVctdFpDM0JZRQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d610ffcd95df69cf35027d1",
+      "remembered_at": "2026-11-21T23:56:47.999941+00:00",
+      "event_date": "2026-11-21T23:27:09+00:00",
+      "last_update": "2026-11-21T23:27:09+00:00",
+      "event": "Dark, tree-like patterns spotted on Mars",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dark",
+        "like",
+        "mars",
+        "patterns",
+        "samaa",
+        "spotted",
+        "tree"
+      ],
+      "source_excerpt": "Dark, tree-like patterns spotted on Mars samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HelM3X1k4UGljNExpaWduZzQ5dVduNms1aTV5WXdRVVBoVFlSTks4NGtySjVicFpDQXc5Vi1HeloxWmlwMUtJbUI2bUY0V3hUbFp1ZXF4azdqNzRxRzZtQVNIN1hCSzNIV3FJZkpiWDZHcTk5amx1S2lYdw?oc=5",
+          "published_at": "2026-11-21T23:27:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HelM3X1k4UGljNExpaWduZzQ5dVduNms1aTV5WXdRVVBoVFlSTks4NGtySjVicFpDQXc5Vi1HeloxWmlwMUtJbUI2bUY0V3hUbFp1ZXF4azdqNzRxRzZtQVNIN1hCSzNIV3FJZkpiWDZHcTk5amx1S2lYdw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "283c17670e7b5cbe94e1b0f5",
+      "remembered_at": "2026-11-21T23:56:47.999941+00:00",
+      "event_date": "2026-11-21T23:08:00+00:00",
+      "last_update": "2026-11-21T23:08:00+00:00",
+      "event": "'Bridgerton' star Hannah Dodd to lead new rom-com with Nick Jonas",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bridgerton",
+        "com",
+        "dodd",
+        "hannah",
+        "international",
+        "jonas",
+        "lead",
+        "new",
+        "news",
+        "nick",
+        "rom",
+        "star",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "'Bridgerton' star Hannah Dodd to lead new rom-com with Nick Jonas The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY1pCVzVCSUwzWm5Dckt4NE1KWjIxOEFjcVBjUmtxWVRLZUFyZEpiZWJ0d2d4UC1kQlZhNktoRGZVdnUyaE5rZ0NOWEE5aFdLNjJWZk9RRTdWMHZ0bGNwcGNPc3RHOE52Qi1YZ0JjNWZVSU0yRWx5M0ZVN3JIOTRUa3RNNW5BZDBhTFNEc2RIZDhEYXhYZmd0VVpIcC00SkdJdVIwNdIBpAFBVV95cUxQY1pCVzVCSUwzWm5Dckt4NE1KWjIxOEFjcVBjUmtxWVRLZUFyZEpiZWJ0d2d4UC1kQlZhNktoRGZVdnUyaE5rZ0NOWEE5aFdLNjJWZk9RRTdWMHZ0bGNwcGNPc3RHOE52Qi1YZ0JjNWZVSU0yRWx5M0ZVN3JIOTRUa3RNNW5BZDBhTFNEc2RIZDhEYXhYZmd0VVpIcC00SkdJdVIwNQ?oc=5",
+          "published_at": "2026-11-21T23:08:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY1pCVzVCSUwzWm5Dckt4NE1KWjIxOEFjcVBjUmtxWVRLZUFyZEpiZWJ0d2d4UC1kQlZhNktoRGZVdnUyaE5rZ0NOWEE5aFdLNjJWZk9RRTdWMHZ0bGNwcGNPc3RHOE52Qi1YZ0JjNWZVSU0yRWx5M0ZVN3JIOTRUa3RNNW5BZDBhTFNEc2RIZDhEYXhYZmd0VVpIcC00SkdJdVIwNdIBpAFBVV95cUxQY1pCVzVCSUwzWm5Dckt4NE1KWjIxOEFjcVBjUmtxWVRLZUFyZEpiZWJ0d2d4UC1kQlZhNktoRGZVdnUyaE5rZ0NOWEE5aFdLNjJWZk9RRTdWMHZ0bGNwcGNPc3RHOE52Qi1YZ0JjNWZVSU0yRWx5M0ZVN3JIOTRUa3RNNW5BZDBhTFNEc2RIZDhEYXhYZmd0VVpIcC00SkdJdVIwNQ?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T23:13:29.468220+00:00"
+  "updated_at": "2026-11-21T23:56:47.999941+00:00"
 }
