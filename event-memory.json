@@ -101109,7 +101109,482 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8a237331a364639d733039fe",
+      "remembered_at": "2026-11-21T11:22:10.025569+00:00",
+      "event_date": "2026-11-21T10:44:22+00:00",
+      "last_update": "2026-11-21T10:54:22+00:00",
+      "event": "Warner and Khawaja taken off air over ‘Sandpapergate’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "and",
+        "khawaja",
+        "off",
+        "over",
+        "sandpapergate",
+        "taken",
+        "warner"
+      ],
+      "source_excerpt": "Warner and Khawaja taken off air over ‘Sandpapergate’",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/warner-and-khawaja-taken-off-air-over-sandpapergate",
+          "published_at": "2026-11-21T10:44:22+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
+          "published_at": "2026-11-21T10:54:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/warner-and-khawaja-taken-off-air-over-sandpapergate",
+        "publisher_url": "https://arynews.tv/warner-and-khawaja-taken-off-air-over-sandpapergate",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "70b35c48565f031ab641a0b1",
+      "remembered_at": "2026-11-21T11:22:10.025569+00:00",
+      "event_date": "2026-11-21T07:16:03+00:00",
+      "last_update": "2026-11-21T10:18:26+00:00",
+      "event": "Mohammad Rizwan, Shan Masood, Saim Ayub dropped as PCB unveils central contracts",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ayub",
+        "central",
+        "contracts",
+        "dropped",
+        "express",
+        "masood",
+        "mohammad",
+        "pcb",
+        "rizwan",
+        "saim",
+        "shan",
+        "the",
+        "tribune",
+        "unveils"
+      ],
+      "source_excerpt": "Mohammad Rizwan, Shan Masood, Saim Ayub dropped as PCB unveils central contracts The Express Tribune",
+      "sources": [
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/pcb-leaves-mohammad-rizwan-shan-masood-out-of-its-latest-central-contracts/",
+          "published_at": "2026-11-21T07:16:03+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZXBuY3ZoVkJjT3JxbEtDcmdVeE1PM0lFMl9PNXBEQXRNbFlLQldCWmlZbjBxZ0ZOOU5sNGJPejkzSXI3RTJkQldiOE5DSmZxWDc0VGlrcXJOTVRfeXhmckEwbFJ2MndmT2pRMFpjV2Z5eUxwNmlVM05MR3FicEJDdm9POVFMLVQzMTgzYll6MUFqV3dWSlhuQzBTaGFUY0RBU0hsTVdGcmZwN2tvc2gzVVZhcVhFd9IBvgFBVV95cUxOdkRSZU1jMjItbnQtY09wZ2g5cmJEb3laNDBEYzR2c0pfWWhWWmlub2lkRDJ3UGZGcW9wYXpXNEJSVjVEX3ZJeVFXN0E1cG15c0tlMGFSR1hBSzVGdm9oMzRVY1BXRy1DOElfTmlkMHl1bVNqMmhsYUloTmJiLXUzWlE1WDVYMTgyanlvMTZ3YW9WVUVkLThFVThkT2xSNkU3WUdDNjFPaENrM2VfdUtkQ296bk9zZ08wWWttS2ZR?oc=5",
+          "published_at": "2026-11-21T10:18:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZXBuY3ZoVkJjT3JxbEtDcmdVeE1PM0lFMl9PNXBEQXRNbFlLQldCWmlZbjBxZ0ZOOU5sNGJPejkzSXI3RTJkQldiOE5DSmZxWDc0VGlrcXJOTVRfeXhmckEwbFJ2MndmT2pRMFpjV2Z5eUxwNmlVM05MR3FicEJDdm9POVFMLVQzMTgzYll6MUFqV3dWSlhuQzBTaGFUY0RBU0hsTVdGcmZwN2tvc2gzVVZhcVhFd9IBvgFBVV95cUxOdkRSZU1jMjItbnQtY09wZ2g5cmJEb3laNDBEYzR2c0pfWWhWWmlub2lkRDJ3UGZGcW9wYXpXNEJSVjVEX3ZJeVFXN0E1cG15c0tlMGFSR1hBSzVGdm9oMzRVY1BXRy1DOElfTmlkMHl1bVNqMmhsYUloTmJiLXUzWlE1WDVYMTgyanlvMTZ3YW9WVUVkLThFVThkT2xSNkU3WUdDNjFPaENrM2VfdUtkQ296bk9zZ08wWWttS2ZR?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "994060bca4da9c1a9668340c",
+      "remembered_at": "2026-11-21T11:22:10.025569+00:00",
+      "event_date": "2026-11-21T10:07:00+00:00",
+      "last_update": "2026-11-21T10:07:00+00:00",
+      "event": "Drug combo shrank tumours in most pancreatic cancer patients, trial finds",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "being",
+        "biggest",
+        "breakthrough",
+        "called",
+        "cancer",
+        "clinical",
+        "combo",
+        "decades",
+        "disease",
+        "drug",
+        "even",
+        "finds",
+        "for",
+        "may",
+        "most",
+        "new",
+        "out",
+        "pancreatic",
+        "patients",
+        "pill",
+        "presented",
+        "results",
+        "shrank",
+        "shrinks",
+        "that",
+        "the",
+        "treatment",
+        "trial",
+        "tumours",
+        "were",
+        "wipe"
+      ],
+      "source_excerpt": "Drug combo shrank tumours in most pancreatic cancer patients, trial finds A new pill that shrinks and may even wipe out pancreatic tumours is being called the biggest breakthrough treatment for the disease in decades. The clinical trial results were presented at a...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692056-drug-combo-shrank-tumours-in-most-pancreatic-cancer-patients-trial-finds",
+          "published_at": "2026-11-21T10:07:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692056-drug-combo-shrank-tumours-in-most-pancreatic-cancer-patients-trial-finds",
+        "publisher_url": "https://www.geo.tv/latest/692056-drug-combo-shrank-tumours-in-most-pancreatic-cancer-patients-trial-finds",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "082e4c49d46e373a4ff63a75",
+      "remembered_at": "2026-11-21T11:22:10.025569+00:00",
+      "event_date": "2026-11-21T11:04:10+00:00",
+      "last_update": "2026-11-21T11:04:10+00:00",
+      "event": "Migrants caravan in Mexico walks towards US border",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "300",
+        "around",
+        "border",
+        "caravan",
+        "crossed",
+        "from",
+        "guatemala",
+        "have",
+        "hoping",
+        "into",
+        "mexico",
+        "migrants",
+        "reach",
+        "states",
+        "the",
+        "towards",
+        "united",
+        "walks"
+      ],
+      "source_excerpt": "Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
+          "published_at": "2026-11-21T11:04:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "29ee5dc7c0e9b934a3d30840",
+      "remembered_at": "2026-11-21T11:22:10.025569+00:00",
+      "event_date": "2026-11-21T11:02:49+00:00",
+      "last_update": "2026-11-21T11:06:42+00:00",
+      "event": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "and",
+        "bar",
+        "but",
+        "clause",
+        "collective",
+        "could",
+        "defence",
+        "for",
+        "happened",
+        "high",
+        "hit",
+        "intentional",
+        "missiles",
+        "moscow",
+        "nato",
+        "poland",
+        "provocation",
+        "remains",
+        "respond",
+        "russian",
+        "triggering",
+        "warsaw",
+        "what"
+      ],
+      "source_excerpt": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+          "published_at": "2026-11-21T11:02:49+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXJxS0Y2ZWlaREQtbEtfbmhwcFJibU9pOTdCalNJNGhlTElNSmFMZXN0Sy1YYTlVN2VfcGRpbFgtNFlKM0I3ZEtILWk1TTRTVG1KYkp1VmJqcldtNG1rVnY1cG5rMUppb29kekNKazBGUy1LMVRKeEtOcmd2cTdFNUQxVl9mS3Zld0VqbEpiSU9nQU82bGdqUUN3c0JlMHR6VHB4UHlxU2Fod9IBrwFBVV95cUxPWS1tWElsbWdpWUFTN3VyamFlYTd5UXhMLTI1R0NKa1NzamV5WVIwRndZRm5qOWgxclQwOEprdi1tb290VHFnZWZHMGtSTVJidmFZT3RJVWpKS3lscFl6N244akRLQ29UeDZGcVBiZjR4MkthYkdCRUxCdmhtZnd0eFl2ZWtaWDdEN3Ridy1nLUgzN2E3LXI1MnEyb2NxTHlMUllZcnd2MUlHYXIwS2tr?oc=5",
+          "published_at": "2026-11-21T11:06:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c0ea434efc2fc78e55c95ad",
+      "remembered_at": "2026-11-21T11:22:10.025569+00:00",
+      "event_date": "2026-11-21T10:38:13+00:00",
+      "last_update": "2026-11-21T10:38:13+00:00",
+      "event": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "authorities",
+        "bank",
+        "buildings",
+        "demolition",
+        "displacement",
+        "fear",
+        "for",
+        "forced",
+        "hebron",
+        "homes",
+        "israeli",
+        "legally",
+        "licensed",
+        "notices",
+        "palestinians",
+        "provoke",
+        "target",
+        "west"
+      ],
+      "source_excerpt": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
+          "published_at": "2026-11-21T10:38:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "50471f646f6b8d09dd25ccdd",
+      "remembered_at": "2026-11-21T11:22:10.025569+00:00",
+      "event_date": "2026-11-21T10:27:23+00:00",
+      "last_update": "2026-11-21T10:27:23+00:00",
+      "event": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "119",
+        "128",
+        "bryant",
+        "career",
+        "cavaliers",
+        "cleveland",
+        "climbs",
+        "closes",
+        "game",
+        "harden",
+        "indiana",
+        "james",
+        "jordan",
+        "leading",
+        "list",
+        "nba",
+        "over",
+        "pacers",
+        "passes",
+        "point",
+        "record",
+        "win"
+      ],
+      "source_excerpt": "James Harden climbs NBA career record list in leading Cleveland Cavaliers to 128-119 win over Indiana Pacers.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
+          "published_at": "2026-11-21T10:27:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "018d7c47139ef5b0d0c0dc5f",
+      "remembered_at": "2026-11-21T11:22:10.025569+00:00",
+      "event_date": "2026-11-21T10:25:29+00:00",
+      "last_update": "2026-11-21T10:25:29+00:00",
+      "event": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2028",
+        "adoption",
+        "agree",
+        "binding",
+        "certain",
+        "convention",
+        "conventional",
+        "elaborate",
+        "fail",
+        "for",
+        "killer",
+        "legally",
+        "members",
+        "nations",
+        "robots",
+        "rules",
+        "run",
+        "swift",
+        "the",
+        "weapons"
+      ],
+      "source_excerpt": "Members of the UN's Convention on Certain Conventional Weapons fail to agree on swift adoption of legally binding rules.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
+          "published_at": "2026-11-21T10:25:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "97553d376d9608f9e54a7718",
+      "remembered_at": "2026-11-21T11:22:10.025569+00:00",
+      "event_date": "2026-11-21T11:12:08+00:00",
+      "last_update": "2026-11-21T11:12:08+00:00",
+      "event": "Pakistan-origin American businessman killed in Lahore",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "american",
+        "businessman",
+        "killed",
+        "lahore",
+        "origin",
+        "pakistan"
+      ],
+      "source_excerpt": "Pakistan-origin American businessman killed in Lahore",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-origin-american-businessman-killed-in-lahore",
+          "published_at": "2026-11-21T11:12:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-origin-american-businessman-killed-in-lahore",
+        "publisher_url": "https://arynews.tv/pakistan-origin-american-businessman-killed-in-lahore",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T10:29:00.909429+00:00"
+  "updated_at": "2026-11-21T11:22:10.025569+00:00"
 }
