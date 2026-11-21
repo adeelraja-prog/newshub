@@ -1,104 +1,115 @@
-# News Hub report - Sun 22 Nov, 01:13 AM PKT
+# News Hub report - Sun 22 Nov, 02:01 AM PKT
 
 ## Collection
-- New items this run: 25 | items in rolling pool: 529
-- Unique story clusters: 468 (duplicates merged: 61)
-- Clusters dropped as already published/queued: 31; unchanged since last analysis: 5
-- Items per outlet: Geo News 6, Engadget 4, Israel Hayom 3, ARY News 2, Pakistan Today 2, Dawn Pakistan 1, UrduPoint 1, Al Jazeera 1, X 1, The Verge 1, The New Arab 1, Orinoco Tribune 1
+- New items this run: 13 | items in rolling pool: 449
+- Unique story clusters: 404 (duplicates merged: 45)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 4
+- Items per outlet: Al Jazeera 4, The Express Tribune 3, Engadget 2, Pakistan Today 2, Geo News 1, Jang Urdu 1, Samaa Fast Lane 0, Express Urdu Search 0, Samaa TV Search 0, Samaa TV 0, Express News Urdu 0, Express News TV 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATIVE | https://www.youtube.com/watch?v=n6JvEB0XVc4
 
 ## Top 5 most important
-- Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- EU proposes tax on Big Tech to boost budget | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari approves five ordinances on KP legislation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Deadly attack in Kyiv as Russia launches barrage against Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBI national crime database suffers suspected breach: Reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thousands protest across Europe over living costs and housing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AOC challenged over AIPAC’s influence on Democratic leadership | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why is the US Army detonating lead-rich explosives in Iowa? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- EU proposes tax on Big Tech to boost budget | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari approves five ordinances on KP legislation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Deadly attack in Kyiv as Russia launches barrage against Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBI national crime database suffers suspected breach: Reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thousands protest across Europe over living costs and housing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AOC challenged over AIPAC’s influence on Democratic leadership | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why is the US Army detonating lead-rich explosives in Iowa? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- EU proposes tax on Big Tech to boost budget | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari approves five ordinances on KP legislation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strike hits food aid vehicle in Gaza, killing three | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Deadly attack in Kyiv as Russia launches barrage against Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBI national crime database suffers suspected breach: Reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thousands protest across Europe over living costs and housing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AOC challenged over AIPAC’s influence on Democratic leadership | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why is the US Army detonating lead-rich explosives in Iowa? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
-- Trusted publisher desks with at least one healthy source: 10/10
+- Overall feeds with entries: 97/120 | empty: 1 | failed: 22 | malformed/partial: 22
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Hum News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI and Imran Khan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Rights and Accountability Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Parliament and Constitution Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Samaa
 
 ## Selected for the queue
-### EU Proposes Big Tech Tax to Fund Budget  [NORMAL]
-- Poster: یورپی یونین کا بجٹ پورا کرنے کیلئے بڑی ٹیکس تجاویز / EU Proposes Big Tech Tax to Fund Budget | category politics
-- Alternative headline: EU Proposes 3% Digital Tax on Big Tech
+### President Zardari approves five ordinances on KP legislation  [NORMAL]
+- Poster: صدر زرداری کی خیبر پختونخوا میں پانچ آرڈیننسز کی منظوری / President Zardari approves five KP ordinances | category politics
+- Alternative headline: President Zardari promulgates five KP ordinances, strips lawmakers of key privileges
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046129/eu-proposes-tax-on-big-tech-to-boost-budget | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046129/eu-proposes-tax-on-big-tech-to-boost-budget
-- Supporting coverage: Dawn Latest, Geo News
-- Keywords: EU tech tax, European Union, digital tax, Antonio Costa, EU budget, Big Tech | hashtags: #EUTax #BigTech #EuropeanUnion #Economy #TechNews
-- Scheduled: Sun 22 Nov, 01:13 AM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWRmNkV2eVZqckd6ZUR1WmVtbng4VjVCU0VGTFNKc0NLYVpKWjhLWkhobnZjRjdQMkl0cVI1dmFXZGFUdFkyLVRvSk1jblVYcDlLRWthbjBxdGtaYUxRWlM5aWRHczAxQzREM0d0VlpzOTV2Q3VIRk1obkRQMW1YRi12Z3NSRU5TVlRLSWFJaEJLN0dCbnp4X0hKaGtpT1NuNmJ6eU4wcmRNZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWRmNkV2eVZqckd6ZUR1WmVtbng4VjVCU0VGTFNKc0NLYVpKWjhLWkhobnZjRjdQMkl0cVI1dmFXZGFUdFkyLVRvSk1jblVYcDlLRWthbjBxdGtaYUxRWlM5aWRHczAxQzREM0d0VlpzOTV2Q3VIRk1obkRQMW1YRi12Z3NSRU5TVlRLSWFJaEJLN0dCbnp4X0hKaGtpT1NuNmJ6eU4wcmRNZw?oc=5
+- Supporting coverage: samaa tv, Pakistan Today
+- Keywords: KP ordinances, President Zardari, Khyber Pakhtunkhwa, legislation, ordinance approval | hashtags: #KPOrdinances #PresidentZardari #KhyberPakhtunkhwa #PakistanPolitics
+- Scheduled: Sun 22 Nov, 02:01 AM PKT
 - Caption:
 ```
-The European Union has proposed taxing the world's biggest digital companies to fund its next budget amid deep divisions.
+President Asif Ali Zardari has officially approved five ordinances concerning legislation in Khyber Pakhtunkhwa, bringing significant changes to provincial laws.
 
-The European Union has put forward a plan to tax major digital companies to help fund its next long-term budget. European Council President Antonio Costa unveiled a spending proposal cutting €204 billion from an earlier draft, though it faced immediate criticism from both frugal member states and those opposing large spending cuts.
+President Asif Ali Zardari has approved five ordinances regarding legislation in Khyber Pakhtunkhwa. The development brings notable changes to the province's legal framework, impacting local governance and provincial lawmakers according to media reports.
 
-یورپی یونین نے اپنے اگلے طویل مدتی بجٹ کی فنڈنگ کے لیے دنیا کی بڑی ڈیجیٹل کمپنیوں پر ٹیکس عائد کرنے کی تجویز پیش کر دی ہے۔ یورپی کونسل کے صدر انتونیو کوسٹا نے اخراجات کی ایک نئی تجویز پیش کی جس میں سابقہ مسودے کے مقابلے میں 204 ارب یورو کی کٹوتی کی گئی ہے، تاہم اسے جرمنی اور فرانس جیسےمؤثر ارکان کی طرف سے تنقید کا سامنا کرنا پڑا۔
+صدر آصف علی زرداری نے خیبر پختونخوا میں قانون سازی سے متعلق پانچ آرڈیننسز کی منظوری دے دی ہے۔ میڈیا رپورٹس کے مطابق اس اقدام سے صوبے کے قانونی ڈھامچے میں نمایاں تبدیلیاں آئی ہیں جو صوبائی قانون سازوں کو متاثر کرتی ہیں۔
 
-First reported by Dawn Latest; also reported by Geo News
+First reported by samaa tv
 
-#EUTax #BigTech #EuropeanUnion #Economy #TechNews
+#KPOrdinances #PresidentZardari #KhyberPakhtunkhwa #PakistanPolitics
 ```
 
-### Noni Madueke Salvages Draw for Arsenal Against Newcastle  [NORMAL]
-- Poster: نون مڈوک نے نیوکاسل کیخلاف آرسنل کو شکست سے بچا لیا / Noni Madueke Salvages Draw for Arsenal | category sports
-- Alternative headline: Arsenal Held to Draw by Newcastle After Raya Injury
+### Israeli strike hits food aid vehicle in Gaza, killing three  [NORMAL]
+- Poster: غزہ میں امدادی گاڑی پر اسرائیلی حملہ، تین فلسطینی جاں بحق / Israeli strike in Gaza kills three in food aid vehicle | category war
+- Alternative headline: Israeli strike on vehicle distributing food aid in Gaza kills three
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Arsenal vs Newcastle, Noni Madueke, Arsenal, Newcastle United, Premier League, Raya injury | hashtags: #Arsenal #PremierLeague #Newcastle #NoniMadueke #Football
-- Scheduled: Sun 22 Nov, 01:23 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Gaza strike, Israeli attack, food aid, Palestinians killed, Gaza | hashtags: #Gaza #GazaStrike #Palestine #AidWorkers
+- Scheduled: Sun 22 Nov, 02:11 AM PKT
 - Caption:
 ```
-League leaders Arsenal missed the chance to extend their lead at the top after being held to a draw.
+Three Palestinians were killed when an Israeli air attack struck a vehicle carrying food aid in Gaza.
 
-League leaders Arsenal missed the chance to go eight points clear at the top of the standings after being held to a draw by Newcastle United. Noni Madueke salvaged the draw for Arsenal in a match that also saw goalkeeper Raya sustain an injury.
+Three Palestinians lost their lives in an Israeli air attack targeting a vehicle that was carrying food aid in Gaza. The incident adds to the mounting humanitarian crisis and casualties in the ongoing conflict.
 
-لیگ کی سرکردہ ٹیم آرسنل نیوکاسل یونائیٹڈ کے خلاف میچ برابر ہونے پر پوائنٹس کی برتری میں اضافے کا موقع گنوا بیٹھی۔ نونی مڈوک نے میچ میں آرسنل کے لیے گول کر کے مقابلہ برابر کیا جبکہ اس دوران گول کیپر رایا زخمی بھی ہو گئے۔
+غزہ میں خوراک لے جانے والی ایک گاڑی پر اسرائیلی فضائی حملے میں تین فلسطینی جاں بحق ہو گئے۔ اس واقعے نے جاری تنازع کے دوران انسانی بحران اور جانی نقصان میں مزید اضافہ کر دیا ہے۔
 
 First reported by Al Jazeera
 
-#Arsenal #PremierLeague #Newcastle #NoniMadueke #Football
+#Gaza #GazaStrike #Palestine #AidWorkers
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
 - [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
 - [needs_review] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
 - [needs_review] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
-- [published] normal | Kuwait and Bahrain face new Iran attacks following US strike | Thu 19 Nov, 01:51 AM PKT
-- [published] normal | Internet services face nationwide disruption due to submarine cable fa | Thu 19 Nov, 02:01 AM PKT
-- [published] normal | Israeli settler kills Palestinian grandmother in occupied West Bank | Thu 19 Nov, 02:11 AM PKT
 - [needs_review] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
 - [needs_review] normal | Israeli military launches rare ground operation in Gaza beyond Yellow  | Thu 19 Nov, 02:50 AM PKT
 - [published] normal | Putin’s nuclear briefcase makes surprise appearance at China summit | Thu 19 Nov, 03:00 AM PKT
@@ -291,8 +302,8 @@ First reported by Al Jazeera
 - [published] normal | Zelensky calls Crimean Bridge strikes a fair response to Russian attac | Sat 21 Nov, 07:22 PM PKT
 - [published] normal | Pakistan Cricket Board announces new central contracts list for 38 pla | Sat 21 Nov, 07:32 PM PKT
 - [published] normal | Princess of Wales discusses cancer journey in new documentary Heal | Sat 21 Nov, 07:42 PM PKT
-- [queued] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
-- [queued] normal | Former Nvidia CEO Jensen Huang to testify at public US Senate hearing | Sat 21 Nov, 08:17 PM PKT
+- [needs_review] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
+- [published] normal | Former Nvidia CEO Jensen Huang to testify at public US Senate hearing | Sat 21 Nov, 08:17 PM PKT
 - [queued] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
 - [queued] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
 - [queued] normal | Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup | Sat 21 Nov, 08:47 PM PKT
@@ -318,17 +329,18 @@ First reported by Al Jazeera
 - [queued] normal | UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt | Sun 22 Nov, 12:54 AM PKT
 - [queued] normal | EU Proposes Big Tech Tax to Fund Budget | Sun 22 Nov, 01:13 AM PKT
 - [queued] normal | Noni Madueke Salvages Draw for Arsenal Against Newcastle | Sun 22 Nov, 01:23 AM PKT
+- [queued] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
+- [queued] normal | President Zardari approves five ordinances on KP legislation | Sun 22 Nov, 02:01 AM PKT
+- [queued] normal | Israeli strike hits food aid vehicle in Gaza, killing three | Sun 22 Nov, 02:11 AM PKT
 
 ## Publishing this run
-- Published 'Princess of Wales discusses cancer journey in new documentary Heal'.
+- Published 'Former Nvidia CEO Jensen Huang to testify at public US Senate hearing'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 2577 | output tokens: 1552
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 5 | prompt tokens: 3701 | output tokens: 1159
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,

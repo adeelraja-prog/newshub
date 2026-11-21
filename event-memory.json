@@ -106279,7 +106279,641 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "66d04400a3f1a4acad6f655d",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T13:20:16+00:00",
+      "last_update": "2026-11-21T20:24:39+00:00",
+      "event": "President Zardari approves five ordinances on KP legislation",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "approves",
+        "five",
+        "legislation",
+        "ordinances",
+        "president",
+        "samaa",
+        "zardari"
+      ],
+      "source_excerpt": "President Zardari approves five ordinances on KP legislation samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWRmNkV2eVZqckd6ZUR1WmVtbng4VjVCU0VGTFNKc0NLYVpKWjhLWkhobnZjRjdQMkl0cVI1dmFXZGFUdFkyLVRvSk1jblVYcDlLRWthbjBxdGtaYUxRWlM5aWRHczAxQzREM0d0VlpzOTV2Q3VIRk1obkRQMW1YRi12Z3NSRU5TVlRLSWFJaEJLN0dCbnp4X0hKaGtpT1NuNmJ6eU4wcmRNZw?oc=5",
+          "published_at": "2026-11-21T13:20:16+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2l3bEFHc3JVY2MydjhaTF80T3VCR3hPUEVWSnJrVDU4dVBLcW9XQTl3STFJOVl4aDl5blBqR0Q0dV9YMVM1SUk2R013R2t0Q2JuSXloc0cyQVRWLUJlS2dHbEtsUDF1bWpmbG9XNC1vQ1lEVUJXeW8weWgxUXBIZm1xaGw5cVdIQjJjMUhoRTlHSUlxUjdIa0NEbWF3OHd2eTZuSmZ5bnJ1VWl5bmtwVGxJeFJDZjlVaDJsWjlLQm5zVHN5aGc?oc=5",
+          "published_at": "2026-11-21T20:24:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWRmNkV2eVZqckd6ZUR1WmVtbng4VjVCU0VGTFNKc0NLYVpKWjhLWkhobnZjRjdQMkl0cVI1dmFXZGFUdFkyLVRvSk1jblVYcDlLRWthbjBxdGtaYUxRWlM5aWRHczAxQzREM0d0VlpzOTV2Q3VIRk1obkRQMW1YRi12Z3NSRU5TVlRLSWFJaEJLN0dCbnp4X0hKaGtpT1NuNmJ6eU4wcmRNZw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ee4d5729cab35c0993d39e4",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T20:47:50+00:00",
+      "last_update": "2026-11-21T20:47:50+00:00",
+      "event": "Thousands protest across Europe over living costs and housing",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "costs",
+        "demonstrations",
+        "economic",
+        "education",
+        "europe",
+        "follow",
+        "france",
+        "hardship",
+        "housing",
+        "led",
+        "living",
+        "over",
+        "portugal",
+        "protest",
+        "protests",
+        "thousands",
+        "youth"
+      ],
+      "source_excerpt": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+          "published_at": "2026-11-21T20:47:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6f4d11ca7f0b27223dd8798b",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T20:38:20+00:00",
+      "last_update": "2026-11-21T20:38:20+00:00",
+      "event": "AOC challenged over AIPAC’s influence on Democratic leadership",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activist",
+        "aipac",
+        "aoc",
+        "challenged",
+        "democratic",
+        "for",
+        "hakeem",
+        "her",
+        "his",
+        "influence",
+        "jeffries",
+        "leadership",
+        "light",
+        "over",
+        "representative",
+        "support",
+        "ties",
+        "was"
+      ],
+      "source_excerpt": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+          "published_at": "2026-11-21T20:38:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7e788a7996eff224e0117ab4",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T20:15:13+00:00",
+      "last_update": "2026-11-21T20:17:51+00:00",
+      "event": "Why is the US Army detonating lead-rich explosives in Iowa?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "and",
+        "army",
+        "blasts",
+        "concerns",
+        "delayed",
+        "detonating",
+        "effects",
+        "environmental",
+        "explosives",
+        "fears",
+        "have",
+        "health",
+        "iowa",
+        "lead",
+        "rich",
+        "state",
+        "stoked",
+        "the",
+        "why"
+      ],
+      "source_excerpt": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+          "published_at": "2026-11-21T20:15:13+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDUtYmp4eGRzYzBoYXRwc1ljZE0xTjFBSkR6dG4xVDFpb0VqelVvT2FSLWZoa0lOTXZGUjVaY29XUm01bVlZaXdyVkZKRnRtNkt1MGExQnU3ZDhVeE5KcFV6aE9Wd3ZzbHZxTVVJZmtmZDNvS3ZCM2VaeWwwbjBfczE3Y3RjZ21BT3MzX2F3WDc0WV9aMldIUzlYS29rLXFQanfSAacBQVVfeXFMTi00Q3dWWklVMzlGWnA5VF9RTHJZRWdVTXhZR05WUHhPMUlFUXZuQ20xcENUVkF4V0o4SFRMTElTNHBjQ29ZVHQ0cXN6QlR1Y21NZEtNNGhlOWxBVUc0dFlmeDZ4dktveTcySHVQMkdaM0xkNVhFeU1Mdk1mTjVqLUJXcFU5MzdlbW5hbkY0R0ZtbXh3YjhjcV9CQlY1T1RyVE5mc3NQeHc?oc=5",
+          "published_at": "2026-11-21T20:17:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2c306cb86f16b243815c8013",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T19:09:28+00:00",
+      "last_update": "2026-11-21T19:09:28+00:00",
+      "event": "Ahsan urges breaking data silos, building evidence-based governance",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahsan",
+        "based",
+        "breaking",
+        "building",
+        "data",
+        "evidence",
+        "governance",
+        "silos",
+        "urges"
+      ],
+      "source_excerpt": "Ahsan urges breaking data silos, building evidence-based governance",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/ahsan-urges-breaking-data-silos-building-evidence-based-governance",
+          "published_at": "2026-11-21T19:09:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/ahsan-urges-breaking-data-silos-building-evidence-based-governance",
+        "publisher_url": "https://arynews.tv/ahsan-urges-breaking-data-silos-building-evidence-based-governance",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "42aaac7f4c3d38192f9b80f9",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T19:04:20+00:00",
+      "last_update": "2026-11-21T19:04:20+00:00",
+      "event": "GTA VI shatters records with $3.8 billion in first-day sales",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "billion",
+        "day",
+        "first",
+        "gta",
+        "records",
+        "sales",
+        "shatters",
+        "with"
+      ],
+      "source_excerpt": "GTA VI shatters records with $3.8 billion in first-day sales",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/gta-vi-shatters-records-with-3-8-billion-in-first-day-sales",
+          "published_at": "2026-11-21T19:04:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/gta-vi-shatters-records-with-3-8-billion-in-first-day-sales",
+        "publisher_url": "https://arynews.tv/gta-vi-shatters-records-with-3-8-billion-in-first-day-sales",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a0d7e23cdeea6564f3deaaf8",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T20:00:09+00:00",
+      "last_update": "2026-11-21T20:00:09+00:00",
+      "event": "4 guards of Sardar Khetran held after body recovered from Barkhan property",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abdul",
+        "after",
+        "against",
+        "alleged",
+        "also",
+        "and",
+        "balochistan",
+        "barkhan",
+        "been",
+        "body",
+        "case",
+        "detained",
+        "district",
+        "following",
+        "former",
+        "four",
+        "from",
+        "guards",
+        "has",
+        "have",
+        "held",
+        "his",
+        "khetran",
+        "minister",
+        "mpa",
+        "murder",
+        "over",
+        "police",
+        "property",
+        "quetta",
+        "recovered",
+        "recovery",
+        "registered",
+        "rehman",
+        "reported",
+        "said",
+        "sardar",
+        "separate",
+        "sons",
+        "sunday",
+        "the",
+        "they",
+        "two"
+      ],
+      "source_excerpt": "QUETTA: Police said on Sunday they have detained four guards of former Balochistan minister Sardar Abdul Rehman Khetran following the reported recovery of a body from his property in Barkhan district. A separate case has also been registered against the MPA and his two sons over the alleged murder,",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046146/4-guards-of-sardar-khetran-held-after-body-recovered-from-barkhan-property",
+          "published_at": "2026-11-21T20:00:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046146/4-guards-of-sardar-khetran-held-after-body-recovered-from-barkhan-property",
+        "publisher_url": "https://www.dawn.com/news/2046146/4-guards-of-sardar-khetran-held-after-body-recovered-from-barkhan-property",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "34218ee69b0663781bd49fc1",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T20:09:00+00:00",
+      "last_update": "2026-11-21T20:09:00+00:00",
+      "event": "ICE recruits completed weeks of training in just two hours, leaked report reveals",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "allegedly",
+        "and",
+        "completed",
+        "custom",
+        "enforcement",
+        "five",
+        "has",
+        "hours",
+        "ice",
+        "immigration",
+        "just",
+        "leaked",
+        "least",
+        "officials",
+        "online",
+        "questions",
+        "raising",
+        "recruits",
+        "report",
+        "revealed",
+        "reveals",
+        "that",
+        "the",
+        "training",
+        "two",
+        "watchdog",
+        "weeks"
+      ],
+      "source_excerpt": "ICE recruits completed weeks of training in just two hours, leaked report reveals A leaked watchdog report has revealed that at least five of the U.S. Immigration and Custom Enforcement officials allegedly completed weeks of training online in just two hours, raising questions about the...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692130-ice-recruits-completed-weeks-of-training-in-just-two-hours-leaked-report-reveals",
+          "published_at": "2026-11-21T20:09:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692130-ice-recruits-completed-weeks-of-training-in-just-two-hours-leaked-report-reveals",
+        "publisher_url": "https://www.geo.tv/latest/692130-ice-recruits-completed-weeks-of-training-in-just-two-hours-leaked-report-reveals",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f499487167faf6f41f249071",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T19:49:00+00:00",
+      "last_update": "2026-11-21T19:49:00+00:00",
+      "event": "More satellites than stars? Scientists reveal how Earth's night sky is changing",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "above",
+        "analysis",
+        "artificial",
+        "becoming",
+        "changing",
+        "crowded",
+        "earth",
+        "engineering",
+        "eye",
+        "hover",
+        "how",
+        "increasingly",
+        "many",
+        "more",
+        "naked",
+        "new",
+        "night",
+        "reveal",
+        "revealing",
+        "satellites",
+        "scientists",
+        "sky",
+        "spacecraft",
+        "stars",
+        "than",
+        "that",
+        "the",
+        "towns",
+        "visible",
+        "with"
+      ],
+      "source_excerpt": "More satellites than stars? Scientists reveal how Earth's night sky is changing The night sky is becoming increasingly crowded with artificial satellites, with a new analysis revealing that more spacecraft hover above many towns than the stars visible to the naked eye. Engineering...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692128-more-satellites-than-stars-scientists-reveal-how-earths-night-sky-is-changing",
+          "published_at": "2026-11-21T19:49:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692128-more-satellites-than-stars-scientists-reveal-how-earths-night-sky-is-changing",
+        "publisher_url": "https://www.geo.tv/latest/692128-more-satellites-than-stars-scientists-reveal-how-earths-night-sky-is-changing",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e1131eacc70436b89212106a",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T19:37:00+00:00",
+      "last_update": "2026-11-21T19:37:00+00:00",
+      "event": "Jennifer Lawrence reflects on playing key part in 'SOTR' promo",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "and",
+        "but",
+        "buzz",
+        "caused",
+        "during",
+        "franchise",
+        "games",
+        "harrelson",
+        "her",
+        "hunger",
+        "hutcherson",
+        "jennifer",
+        "josh",
+        "key",
+        "lawrence",
+        "lot",
+        "movie",
+        "moviegoers",
+        "part",
+        "playing",
+        "press",
+        "promo",
+        "reaping",
+        "reflects",
+        "return",
+        "some",
+        "sotr",
+        "spoiling",
+        "sunrise",
+        "the",
+        "tour",
+        "woody"
+      ],
+      "source_excerpt": "Jennifer Lawrence reflects on playing key part in 'SOTR' promo Jennifer Lawrence, Josh Hutcherson, and Woody Harrelson's return to The Hunger Games franchise in Sunrise On The Reaping caused a lot of buzz during the press tour but some moviegoers accused her of spoiling the movie...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692122-jennifer-lawrence-reflects-on-playing-key-part-in-sotr-promo",
+          "published_at": "2026-11-21T19:37:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692122-jennifer-lawrence-reflects-on-playing-key-part-in-sotr-promo",
+        "publisher_url": "https://www.geo.tv/latest/692122-jennifer-lawrence-reflects-on-playing-key-part-in-sotr-promo",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f8f145e3ca1de443231858d5",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T19:49:46+00:00",
+      "last_update": "2026-11-21T19:49:46+00:00",
+      "event": "KP Governor inaugurates 113-bed hospital block in Swabi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "113",
+        "bed",
+        "block",
+        "governor",
+        "hospital",
+        "inaugurates",
+        "swabi"
+      ],
+      "source_excerpt": "KP Governor inaugurates 113-bed hospital block in Swabi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/kp-governor-inaugurates-113-bed-hospital-block-in-swabi",
+          "published_at": "2026-11-21T19:49:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/kp-governor-inaugurates-113-bed-hospital-block-in-swabi",
+        "publisher_url": "https://arynews.tv/kp-governor-inaugurates-113-bed-hospital-block-in-swabi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5827db0f96ae6d16344c8369",
+      "remembered_at": "2026-11-21T21:01:17.684964+00:00",
+      "event_date": "2026-11-21T20:32:37+00:00",
+      "last_update": "2026-11-21T20:32:37+00:00",
+      "event": "Rise in road accidents",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accidents",
+        "express",
+        "rise",
+        "road",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Rise in road accidents The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EWjJNSTlfN0drUVBDTXVaSGlHSXNMU2VkVWxvUFEyeTJhWGNPd3RoYk91OGt1RkxyZkxTZGp3Y21RNjhEZmRPNUhTNmxuSkw1eDZzdWdvUHZFNk1yQUhkRDIyeGRlLWVibV9Rdw?oc=5",
+          "published_at": "2026-11-21T20:32:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EWjJNSTlfN0drUVBDTXVaSGlHSXNMU2VkVWxvUFEyeTJhWGNPd3RoYk91OGt1RkxyZkxTZGp3Y21RNjhEZmRPNUhTNmxuSkw1eDZzdWdvUHZFNk1yQUhkRDIyeGRlLWVibV9Rdw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T20:13:50.577400+00:00"
+  "updated_at": "2026-11-21T21:01:17.684964+00:00"
 }
