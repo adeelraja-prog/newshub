@@ -98931,7 +98931,874 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2b98f1d72b2d2499ffd052f2",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T06:34:43+00:00",
+      "last_update": "2026-11-21T07:25:29+00:00",
+      "event": "Iraq fire at Basra power station kills at least four, injures 30",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "basra",
+        "express",
+        "fire",
+        "four",
+        "injures",
+        "iraq",
+        "kills",
+        "least",
+        "power",
+        "station",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Iraq fire at Basra power station kills at least four, injures 30 The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXNRSG9pcnhJWjV4R05FV0VsQ1VETVZrQXR5RHBBUk1pa2xrOFA1cHB0N25LWDEzZWhWQ0hobHE2TzY2VHBpOUp3RjdiZml6amwzMXNUZGpXa3ZYSlZ2T0NmakZlY0ZQVE1GVDk2UmJIUnMzT25pUmFQOXJCaldsU2Nfdnc5ei1yVll4aE5qeVZmZHBENDJHMDZuYlNGX2xCYUHSAaoBQVVfeXFMUF9NcF9wR2k2U2R3bm1VTXRaSkNWbnMxckVCWlZfRllHLXJUcFVkeS1fUkhidU5GVFRwQUtVSklQby00SC04TllCU3RtOEVnR1lQX3hWTUxob0JkVkMtQUVUaXBTSnJlZkZPWmtpRi1QYjFlTm9Tam9Ea1RCS2ZFakYxRjVKOUpsa3hNRDRpdlN5LXRraXBfT3JmTDFXSWFUMTNRTEJIa1pmbkE?oc=5",
+          "published_at": "2026-11-21T06:34:43+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+          "published_at": "2026-11-21T07:25:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXNRSG9pcnhJWjV4R05FV0VsQ1VETVZrQXR5RHBBUk1pa2xrOFA1cHB0N25LWDEzZWhWQ0hobHE2TzY2VHBpOUp3RjdiZml6amwzMXNUZGpXa3ZYSlZ2T0NmakZlY0ZQVE1GVDk2UmJIUnMzT25pUmFQOXJCaldsU2Nfdnc5ei1yVll4aE5qeVZmZHBENDJHMDZuYlNGX2xCYUHSAaoBQVVfeXFMUF9NcF9wR2k2U2R3bm1VTXRaSkNWbnMxckVCWlZfRllHLXJUcFVkeS1fUkhidU5GVFRwQUtVSklQby00SC04TllCU3RtOEVnR1lQX3hWTUxob0JkVkMtQUVUaXBTSnJlZkZPWmtpRi1QYjFlTm9Tam9Ea1RCS2ZFakYxRjVKOUpsa3hNRDRpdlN5LXRraXBfT3JmTDFXSWFUMTNRTEJIa1pmbkE?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c509f3da5d0a3298377365b5",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T00:04:01+00:00",
+      "last_update": "2026-11-21T07:48:15+00:00",
+      "event": "WhatsApp raises group chat limit to 1,500 members",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500",
+        "chat",
+        "group",
+        "limit",
+        "members",
+        "raises",
+        "samaa",
+        "whatsapp"
+      ],
+      "source_excerpt": "WhatsApp raises group chat limit to 1,500 members samaa tv",
+      "sources": [
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/whatsapp_group_chat_member_limit_increased-news-75560.php",
+          "published_at": "2026-11-21T00:04:01+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1c3ME9WaXFCalVwSS1SR1BKaklPX2s3a1J3Ujh5RjJ5SzBlODhqUGpXRjF6bmhNM3dyOTR4bG1sOWgzT3FYWVAxU3FMSnNUVWJXTWJGS0FBZEp0c1M1eXE3b1Z6Nm1DMUNqczlOYnBfdnNYNnlnQVFXNjI4UXI4SnhZWnNYZVBq?oc=5",
+          "published_at": "2026-11-21T07:48:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1c3ME9WaXFCalVwSS1SR1BKaklPX2s3a1J3Ujh5RjJ5SzBlODhqUGpXRjF6bmhNM3dyOTR4bG1sOWgzT3FYWVAxU3FMSnNUVWJXTWJGS0FBZEp0c1M1eXE3b1Z6Nm1DMUNqczlOYnBfdnNYNnlnQVFXNjI4UXI4SnhZWnNYZVBq?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bf09c54b33338c9e43485a02",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T06:34:57+00:00",
+      "last_update": "2026-11-21T06:36:57+00:00",
+      "event": "GTA VI breaks records with $3.8 billion in first-day sales",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "billion",
+        "breaks",
+        "day",
+        "first",
+        "gta",
+        "records",
+        "sales",
+        "samaa",
+        "with"
+      ],
+      "source_excerpt": "GTA VI breaks records with $3.8 billion in first-day sales samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzhid3hRRXV5cHI1ZEF4YnN2bFQ2U0tmaFBvcWVoOG9IMDhjOTdLRzZsazZzSlRZVjNrTjlTUTVnNmlNMFBOdHY1TUIyTEo2Y0x5Y0JvUFZ0TThRU1ZVTl83VGs0N0xodHBZdV9TOU43MkhCc2IxMzBQN0V3UzBpSEdfR25PVGdvRkFhS0VnS2xDZms?oc=5",
+          "published_at": "2026-11-21T06:34:57+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/gta-6-day-one-sales-shatter-records-generates-3-79-billion/",
+          "published_at": "2026-11-21T06:36:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzhid3hRRXV5cHI1ZEF4YnN2bFQ2U0tmaFBvcWVoOG9IMDhjOTdLRzZsazZzSlRZVjNrTjlTUTVnNmlNMFBOdHY1TUIyTEo2Y0x5Y0JvUFZ0TThRU1ZVTl83VGs0N0xodHBZdV9TOU43MkhCc2IxMzBQN0V3UzBpSEdfR25PVGdvRkFhS0VnS2xDZms?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c7b6cbd0ed196d77791a0d69",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:12:03+00:00",
+      "last_update": "2026-11-21T07:12:03+00:00",
+      "event": "Emergency crews in Ukraine hit by a double-tap strike",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "another",
+        "approaching",
+        "before",
+        "crews",
+        "double",
+        "emergency",
+        "hit",
+        "hits",
+        "russian",
+        "scene",
+        "shows",
+        "strike",
+        "tap",
+        "the",
+        "ukraine",
+        "video"
+      ],
+      "source_excerpt": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+          "published_at": "2026-11-21T07:12:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d68e0198b89ad9a34325f217",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:07:59+00:00",
+      "last_update": "2026-11-21T07:07:59+00:00",
+      "event": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "among",
+        "being",
+        "case",
+        "citizens",
+        "convicted",
+        "defendants",
+        "face",
+        "found",
+        "guilty",
+        "honduras",
+        "into",
+        "jail",
+        "over",
+        "recruiting",
+        "ring",
+        "sex",
+        "the",
+        "three",
+        "trafficking",
+        "women",
+        "years"
+      ],
+      "source_excerpt": "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
+          "published_at": "2026-11-21T07:07:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4b1b6ce3bd2d8f2cec93e3db",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T06:55:02+00:00",
+      "last_update": "2026-11-21T06:55:02+00:00",
+      "event": "Train collides with minibus in Indonesia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "along",
+        "collides",
+        "colliding",
+        "dramatic",
+        "flaming",
+        "footage",
+        "indonesia",
+        "minibus",
+        "passenger",
+        "pushing",
+        "shows",
+        "the",
+        "tracks",
+        "train",
+        "with"
+      ],
+      "source_excerpt": "Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss",
+          "published_at": "2026-11-21T06:55:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d6e728d01cce1df0da4f7803",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T06:32:04+00:00",
+      "last_update": "2026-11-21T06:32:04+00:00",
+      "event": "Sudan’s war will end, but will it be too late?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "achieve",
+        "but",
+        "diplomacy",
+        "end",
+        "from",
+        "has",
+        "international",
+        "late",
+        "may",
+        "not",
+        "pressure",
+        "sudan",
+        "too",
+        "war",
+        "what",
+        "will",
+        "within"
+      ],
+      "source_excerpt": "Pressure from within Sudan may achieve what international diplomacy has not.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
+          "published_at": "2026-11-21T06:32:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "903b52cbde3c72a7f7948103",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:17:07+00:00",
+      "last_update": "2026-11-21T07:17:07+00:00",
+      "event": "The British Indian filmmaker embracing two cultures on screen",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "british",
+        "cultures",
+        "embracing",
+        "filmmaker",
+        "indian",
+        "screen",
+        "the",
+        "two"
+      ],
+      "source_excerpt": "The British Indian filmmaker embracing two cultures on screen BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUERBRGVCbVBCR0ZNOGhWWl9ScWVwOVhjREliLWV4VUdyV1FWb09lOF9odnRMWG1lcElTMTRCcmt6b3JaOUlubDF0TjFPZGI5emNIY3FldDBFQQ?oc=5",
+          "published_at": "2026-11-21T07:17:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUERBRGVCbVBCR0ZNOGhWWl9ScWVwOVhjREliLWV4VUdyV1FWb09lOF9odnRMWG1lcElTMTRCcmt6b3JaOUlubDF0TjFPZGI5emNIY3FldDBFQQ?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "495245c30cd8422f9ee093ee",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:12:52+00:00",
+      "last_update": "2026-11-21T07:12:52+00:00",
+      "event": "Why is Blackpool such a Strictly Come Dancing highlight?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "blackpool",
+        "come",
+        "dancing",
+        "highlight",
+        "strictly",
+        "such",
+        "why"
+      ],
+      "source_excerpt": "Why is Blackpool such a Strictly Come Dancing highlight? BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LSUI0dS00eFY0cjlwQmhEcnE2Qno1dFo0UGpmckZHTnJZcXZZMkVuMW1VMThpcDJTZUxiQlY0WF9sY21TVU1LQ2c1bjgzcEJIYkFMV3Q5Sm5kejA?oc=5",
+          "published_at": "2026-11-21T07:12:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LSUI0dS00eFY0cjlwQmhEcnE2Qno1dFo0UGpmckZHTnJZcXZZMkVuMW1VMThpcDJTZUxiQlY0WF9sY21TVU1LQ2c1bjgzcEJIYkFMV3Q5Sm5kejA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "99e0f7de0fa741119ca6934c",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:17:32+00:00",
+      "last_update": "2026-11-21T07:17:32+00:00",
+      "event": "Clip of long-lost early children's TV show found",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "children",
+        "clip",
+        "early",
+        "found",
+        "long",
+        "lost",
+        "show"
+      ],
+      "source_excerpt": "Clip of long-lost early children's TV show found BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WRDJmM25CbjBUSWJJY2dzZnFuQzNqSFRWalc0WmRJSEdFdDl6RF83cjd0cmpFWS1kUEtNc01Dd1dQeUlWR0hsWVVqTjJFVWcweWJFTlVVREFPZVk?oc=5",
+          "published_at": "2026-11-21T07:17:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WRDJmM25CbjBUSWJJY2dzZnFuQzNqSFRWalc0WmRJSEdFdDl6RF83cjd0cmpFWS1kUEtNc01Dd1dQeUlWR0hsWVVqTjJFVWcweWJFTlVVREFPZVk?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0e026ddc4494b05c72e84eaa",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:14:19+00:00",
+      "last_update": "2026-11-21T07:14:19+00:00",
+      "event": "Ex-rugby player Danika Priim on impact of sex assault allegation",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allegation",
+        "assault",
+        "bbc",
+        "danika",
+        "impact",
+        "player",
+        "priim",
+        "rugby",
+        "sex"
+      ],
+      "source_excerpt": "Ex-rugby player Danika Priim on impact of sex assault allegation BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNEt6ZXNPdXBDZ1FGdVpWSmpLalFuM045SHhZSmV1ZEVLdW9uUk1aOGFCSVVqN0NJLWwwbnVlNmF0Wnh6Q2tzX3FxMW53cjBhYjBtSkFpcEROVzA?oc=5",
+          "published_at": "2026-11-21T07:14:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNEt6ZXNPdXBDZ1FGdVpWSmpLalFuM045SHhZSmV1ZEVLdW9uUk1aOGFCSVVqN0NJLWwwbnVlNmF0Wnh6Q2tzX3FxMW53cjBhYjBtSkFpcEROVzA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0080371c4033037caeb2f8b2",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:24:09+00:00",
+      "last_update": "2026-11-21T07:24:09+00:00",
+      "event": "Stockton teen's poetry bridging gap between cultures",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "between",
+        "bridging",
+        "cultures",
+        "gap",
+        "poetry",
+        "stockton",
+        "teen"
+      ],
+      "source_excerpt": "Stockton teen's poetry bridging gap between cultures BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJcHJmbWZwQXhHRTRnZGNyajU0WEd5dGgwS3RjNVNhN2VrdjEzR2FyY3NRTDhzU0s1U25pckVpelpXZXVycDRmc2dLblJ6eTB4dW5FWHZ4OHphT2s?oc=5",
+          "published_at": "2026-11-21T07:24:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJcHJmbWZwQXhHRTRnZGNyajU0WEd5dGgwS3RjNVNhN2VrdjEzR2FyY3NRTDhzU0s1U25pckVpelpXZXVycDRmc2dLblJ6eTB4dW5FWHZ4OHphT2s?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bd3694782f79447f9d35c5cf",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:25:19+00:00",
+      "last_update": "2026-11-21T07:25:19+00:00",
+      "event": "How Lincoln Moses built more than a football club in Birmingham",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "birmingham",
+        "built",
+        "club",
+        "football",
+        "how",
+        "lincoln",
+        "more",
+        "moses",
+        "than"
+      ],
+      "source_excerpt": "How Lincoln Moses built more than a football club in Birmingham BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04cFlqd2Y5WmFPNXlmWkxKUjZLeTJNYktNYV9BSGwxTHNUUnZWVk9qRWFxTWdFSjJUbTl1VmN0Y3E0R2VYMGtDQ3JrdFJJOGNQR2VKc0hsZnlzeE0?oc=5",
+          "published_at": "2026-11-21T07:25:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04cFlqd2Y5WmFPNXlmWkxKUjZLeTJNYktNYV9BSGwxTHNUUnZWVk9qRWFxTWdFSjJUbTl1VmN0Y3E0R2VYMGtDQ3JrdFJJOGNQR2VKc0hsZnlzeE0?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "91d94af9997731c5b84314b4",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T06:43:26+00:00",
+      "last_update": "2026-11-21T07:02:00+00:00",
+      "event": "PCB announces central contracts for 38 cricketers until 2027",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "announces",
+        "central",
+        "contracts",
+        "cricketers",
+        "for",
+        "pcb",
+        "samaa",
+        "until"
+      ],
+      "source_excerpt": "PCB announces central contracts for 38 cricketers until 2027 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0NOWGp5WWswYmI4NFh2eGFTYTlveVk4Sy1yd05xTU1QVU5sVDJfVXhaaVQ2eExrTnBXclRqalNianctUGJDOFljUmc0U3pHdW53MDBUQmlZVFhwOVhldXlheGF3VmcwS05mRkRlUW1VZndid3lyb29yWEozMEpRRUR3NDIzcGRmUGQxYUJ2UWpkLWhRYV80?oc=5",
+          "published_at": "2026-11-21T06:43:26+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692038-mohammad-rizwan-snubbed-as-pcb-announces-central-contracts-for-38-mens-cricketers",
+          "published_at": "2026-11-21T07:02:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUp6QnlNcnJoUnRZS3hhX01xR3BWbS0tYkUxQ012QWtGMmo4QTBUTmxUVTFiQk9WQVp6Q1dnQjNVa3Q0MVNLc0FJOVV3blZ0UmxJb05tM2pweGJzQmNaQV91YWJaa2tZb1c2a1JDZ0c2cGZGT19MRTBsNl9nNGtyUWRkTlp4cTdPSEQ2ZTlFS0YyS19NWGVXcng5MlJkZVl2MHI1bktLcVhUSzcyeGZnWDhEbHI?oc=5",
+          "published_at": "2026-11-21T07:02:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0NOWGp5WWswYmI4NFh2eGFTYTlveVk4Sy1yd05xTU1QVU5sVDJfVXhaaVQ2eExrTnBXclRqalNianctUGJDOFljUmc0U3pHdW53MDBUQmlZVFhwOVhldXlheGF3VmcwS05mRkRlUW1VZndid3lyb29yWEozMEpRRUR3NDIzcGRmUGQxYUJ2UWpkLWhRYV80?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f53187360bd8b553ba65afc9",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:31:03+00:00",
+      "last_update": "2026-11-21T07:31:03+00:00",
+      "event": "FBI, US Agriculture Department breached by hackers: reports",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agriculture",
+        "breached",
+        "dawn",
+        "department",
+        "fbi",
+        "hackers",
+        "reports"
+      ],
+      "source_excerpt": "FBI, US Agriculture Department breached by hackers: reports Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0xMZ0QxQWIwWWdQUFZUNEYzV2tYWjRoWHo2cDJEZmtPTlBXOVgzMlg1YUtTZC1oWl83MllxeV9yZ0g2bXpPc20zZUJBeElVYmxqNVczcHRWOGZrdnNuLVJJNWJ5OW8td29vbkRiUVprc1lvQV9IcmRuU1dnU0VqYWlaS2Y1aEpLVjFDQlJSV1hobmhncFE?oc=5",
+          "published_at": "2026-11-21T07:31:03+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046105/fbi-us-agriculture-department-breached-by-hackers-reports",
+          "published_at": "2026-11-21T07:31:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0xMZ0QxQWIwWWdQUFZUNEYzV2tYWjRoWHo2cDJEZmtPTlBXOVgzMlg1YUtTZC1oWl83MllxeV9yZ0g2bXpPc20zZUJBeElVYmxqNVczcHRWOGZrdnNuLVJJNWJ5OW8td29vbkRiUVprc1lvQV9IcmRuU1dnU0VqYWlaS2Y1aEpLVjFDQlJSV1hobmhncFE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "688f647877425e520be7cceb",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T06:55:03+00:00",
+      "last_update": "2026-11-21T06:55:03+00:00",
+      "event": "Pakistan approves 416,000 tons of sugar exports",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "416",
+        "approves",
+        "exports",
+        "pakistan",
+        "samaa",
+        "sugar",
+        "tons"
+      ],
+      "source_excerpt": "Pakistan approves 416,000 tons of sugar exports samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQTZTMHlZMWJzbnUwMTR5WHpfWHdMVjJfOEItOHl4aEJqNHVPTXY1eVdVdGFIMG1PS0dKdVRzUmFVSmhqV3RyTTdVaG45dWdSdDJKZWVPZUN3Y0R1NlpCUVdfRE42Sl81SFMzT0hQMFZyWVhBbm8zS2NHSGF3Tmx0eUY5WkEzaVVqZWd3a3VLdVZ0YkMteEsxeTZ1Yw?oc=5",
+          "published_at": "2026-11-21T06:55:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQTZTMHlZMWJzbnUwMTR5WHpfWHdMVjJfOEItOHl4aEJqNHVPTXY1eVdVdGFIMG1PS0dKdVRzUmFVSmhqV3RyTTdVaG45dWdSdDJKZWVPZUN3Y0R1NlpCUVdfRE42Sl81SFMzT0hQMFZyWVhBbm8zS2NHSGF3Tmx0eUY5WkEzaVVqZWd3a3VLdVZ0YkMteEsxeTZ1Yw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "529f3544e89d70daeae96dbd",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:30:48+00:00",
+      "last_update": "2026-11-21T07:30:48+00:00",
+      "event": "Chinaman or doosra: Pakistan’s pursuit of a Chinese model risks confusing centralised power with national progress",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046076",
+        "centralised",
+        "chinaman",
+        "chinese",
+        "com",
+        "confusing",
+        "dawn",
+        "doosra",
+        "https",
+        "model",
+        "national",
+        "news",
+        "pakistan",
+        "power",
+        "progress",
+        "pursuit",
+        "risks",
+        "with",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046076",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046107/chinaman-or-doosra-pakistans-pursuit-of-a-chinese-model-risks-confusing-centralised-power-with-national-progress",
+          "published_at": "2026-11-21T07:30:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046107/chinaman-or-doosra-pakistans-pursuit-of-a-chinese-model-risks-confusing-centralised-power-with-national-progress",
+        "publisher_url": "https://www.dawn.com/news/2046107/chinaman-or-doosra-pakistans-pursuit-of-a-chinese-model-risks-confusing-centralised-power-with-national-progress",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "78e67279b8999585e0f2aaa1",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:50:16+00:00",
+      "last_update": "2026-11-21T07:50:16+00:00",
+      "event": "Mustafa Kamal urges PTI to unconditionally support creation of new provinces",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "creation",
+        "kamal",
+        "mustafa",
+        "new",
+        "provinces",
+        "pti",
+        "support",
+        "unconditionally",
+        "urges"
+      ],
+      "source_excerpt": "Mustafa Kamal urges PTI to unconditionally support creation of new provinces",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/mustafa-kamal-urges-pti-to-unconditionally-support-creation-of-new-provinces",
+          "published_at": "2026-11-21T07:50:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/mustafa-kamal-urges-pti-to-unconditionally-support-creation-of-new-provinces",
+        "publisher_url": "https://arynews.tv/mustafa-kamal-urges-pti-to-unconditionally-support-creation-of-new-provinces",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e07315010266600e01c115f7",
+      "remembered_at": "2026-11-21T07:51:50.108919+00:00",
+      "event_date": "2026-11-21T07:28:41+00:00",
+      "last_update": "2026-11-21T07:28:41+00:00",
+      "event": "Pakistan announce new central contracts list",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announce",
+        "central",
+        "contracts",
+        "list",
+        "new",
+        "pakistan"
+      ],
+      "source_excerpt": "Pakistan announce new central contracts list",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-announce-new-central-contracts-list",
+          "published_at": "2026-11-21T07:28:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-announce-new-central-contracts-list",
+        "publisher_url": "https://arynews.tv/pakistan-announce-new-central-contracts-list",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T06:30:38.351325+00:00"
+  "updated_at": "2026-11-21T07:51:50.108919+00:00"
 }

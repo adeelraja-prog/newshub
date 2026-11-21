@@ -1,35 +1,36 @@
-# News Hub report - Sat 21 Nov, 11:30 AM PKT
+# News Hub report - Sat 21 Nov, 12:51 PM PKT
 
 ## Collection
-- New items this run: 38 | items in rolling pool: 234
-- Unique story clusters: 186 (duplicates merged: 48)
-- Clusters dropped as already published/queued: 23; unchanged since last analysis: 7
-- Items per outlet: Wired 12, Dunya News 5, Geo News 3, Dawn 2, Dawn Latest 2, ARY News 2, Al Jazeera 2, TechJuice 2, ARYnews.tv 1, samaa tv 1, The News International 1, GSMArena 1
+- New items this run: 104 | items in rolling pool: 247
+- Unique story clusters: 203 (duplicates merged: 44)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 32, samaa tv 8, ARY News 8, The Current 7, Geo News 6, ProPakistani 6, BBC 6, Dunya News 5, Al Jazeera 5, Dawn Latest 4, Dawn 2, The Express Tribune 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja Shorts: BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | https://www.youtube.com/watch?v=b9EwX3Oggag
 
 ## Top 5 most important
-- Saudi forces launch major strikes in Yemen | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Funeral held for New York teen shot while walking to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Al Jazeera explains: The US-China AI race is entering a new phase | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraq fire at Basra power station kills at least four, injures 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- WhatsApp raises group chat limit to 1,500 members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Alleged rapist of daughter killed in ‘CCD encounter’ in Kot Addu | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA VI breaks records with $3.8 billion in first-day sales | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netanyahu is playing with the fire that killed Rabin | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Saudi forces launch major strikes in Yemen | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Funeral held for New York teen shot while walking to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Al Jazeera explains: The US-China AI race is entering a new phase | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraq fire at Basra power station kills at least four, injures 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- WhatsApp raises group chat limit to 1,500 members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Alleged rapist of daughter killed in ‘CCD encounter’ in Kot Addu | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA VI breaks records with $3.8 billion in first-day sales | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netanyahu is playing with the fire that killed Rabin | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Saudi forces launch major strikes in Yemen | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gujranwala, Multan overtake Lahore in air pollution | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Funeral held for New York teen shot while walking to school | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Al Jazeera explains: The US-China AI race is entering a new phase | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iraq fire at Basra power station kills at least four, injures 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- WhatsApp raises group chat limit to 1,500 members | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Alleged rapist of daughter killed in ‘CCD encounter’ in Kot Addu | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA VI breaks records with $3.8 billion in first-day sales | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netanyahu is playing with the fire that killed Rabin | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,112 +39,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Can Israel’s opposition bloc stay united against Netanyahu?  [NORMAL]
-- Poster: کیا اسرائیل کا اپوزیشن اتحاد نیتنیاهو کے خلاف متحد رہے گا؟ / Can Israel's opposition unite against Netanyahu? | category politics
-- Alternative headline: Overcoming deep divisions: Will Israel's opposition unite to challenge Netanyahu?
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Israel opposition, Gadi Eisenkot, Benjamin Netanyahu, Knesset, Israel politics | hashtags: #Israel #Netanyahu #MiddleEastPolitics #Knesset
-- Scheduled: Sat 21 Nov, 11:30 AM PKT
-- Caption:
-```
-Eisenkot's fragile alliance faces major ideological hurdles as it attempts to transform its opposition presence into a unified governing force.
-
-Gadi Eisenkot's fragile political alliance in Israel must overcome deep ideological divisions if it hopes to turn its opposition bloc into a viable governing force against Prime Minister Benjamin Netanyahu.
-
-اسرائیل میں گادی آئزن کوٹ کا نازک سیاسی اتحاد اگر بنجمن نیتنیاهو کے خلاف حکومت بنانے کی امید رکھتا ہے تو اسے گہرے نظریاتی اختلافات پر قابو پانا ہوگا۔
-
-First reported by Al Jazeera.
-
-#Israel #Netanyahu #MiddleEastPolitics #Knesset
-```
-
-### Saudi forces launch major military strikes across Yemen  [NORMAL]
-- Poster: سعودی افواج کے یمن میں بڑے فضائی حملے / Saudi forces launch major strikes in Yemen | category security
-- Alternative headline: Major escalation: Saudi coalition targets military sites in Yemen
+### Mustafa Kamal urges PTI to unconditionally support creation of new provinces  [NORMAL]
+- Poster: نئے صوبوں کا قیام پاکستان کی بقا کی ضمانت ہے، مصطفیٰ کمال / New provinces are vital for survival, says Mustafa Kamal | category politics
+- Alternative headline: New provinces are a lifeline for Pakistan, says Mustafa Kamal
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMihgFBVV95cUxQZl9mLWx0dGFHNDZnNkVBN0JUNDVDck9HS1VESkVSR19BT1NwNFFmNlBEZHZPMml1bUFZYVR5RlAxRkVWOTNrdUdUcXNMZlZsaHdkWU40RDBIV3ZPM0JmWmxTWUh6RzFGcHVqOUhNZnhoN1FuTnkyZ3hQNFBwOHBvQlZIVkh2d9IBjgFBVV95cUxNRklqTGE2Xzc3NWRVd3FSNlAtb01KOHJwWFlfOEl5LURTemZuaFF0UUVIZW5iTlZXcFZVR1NTRTdsUTVTUXNfaEtrTmhvaW93bDdFbjFJWUdQdG1CMTNPazd2b3RiU1N3SVZTTG1rMm9FRnFOYVBaa05LcHpBS1hmQnR4SVdwbF93QUNwdjNB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMihgFBVV95cUxQZl9mLWx0dGFHNDZnNkVBN0JUNDVDck9HS1VESkVSR19BT1NwNFFmNlBEZHZPMml1bUFZYVR5RlAxRkVWOTNrdUdUcXNMZlZsaHdkWU40RDBIV3ZPM0JmWmxTWUh6RzFGcHVqOUhNZnhoN1FuTnkyZ3hQNFBwOHBvQlZIVkh2d9IBjgFBVV95cUxNRklqTGE2Xzc3NWRVd3FSNlAtb01KOHJwWFlfOEl5LURTemZuaFF0UUVIZW5iTlZXcFZVR1NTRTdsUTVTUXNfaEtrTmhvaW93bDdFbjFJWUdQdG1CMTNPazd2b3RiU1N3SVZTTG1rMm9FRnFOYVBaa05LcHpBS1hmQnR4SVdwbF93QUNwdjNB?oc=5
-- Supporting coverage: The Express Tribune, Dawn, Dawn, Dawn Latest
-- Keywords: Saudi strikes Yemen, Saudi coalition, Yemen conflict, Houthis, military operation | hashtags: #Yemen #SaudiArabia #MiddleEast #Security
-- Scheduled: Sat 21 Nov, 11:40 AM PKT
+- Original source: published_report - ARY News https://arynews.tv/mustafa-kamal-urges-pti-to-unconditionally-support-creation-of-new-provinces | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/mustafa-kamal-urges-pti-to-unconditionally-support-creation-of-new-provinces
+- Supporting coverage: ARY News
+- Keywords: new provinces, Mustafa Kamal, PTI, MQM-P, structural reforms, administrative system | hashtags: #MustafaKamal #MQMP #PTI #NewProvinces #PakistanPolitics
+- Scheduled: Sat 21 Nov, 12:51 PM PKT
 - Caption:
 ```
-Saudi-led coalition forces have initiated major military strikes in Yemen following heightened regional tensions and ongoing conflict.
+Federal Minister Mustafa Kamal has urged PTI to unconditionally support creating new provinces, calling them vital for the country's survival.
 
-Saudi forces have launched major military strikes in Yemen, marking a significant escalation in the ongoing regional conflict as coalition operations target strategic positions.
+Federal Minister Mustafa Kamal has urged Pakistan Tehreek-e-Insaf to unconditionally support the creation of new provinces. Speaking in an interview, he stated that the country can no longer function under the current administrative system and structural reforms are urgently needed before the next federal budget.
 
-سعودی افواج نے یمن میں بڑے فوجی حملے شروع کر دیے ہیں، جو کہ جاری علاقائی تنازعے میں ایک اہم شدت کی عکاسی کرتے ہیں۔
+وفاقی وزیر مصطفیٰ کمال نے پاکستان تحریک انصاف سے مطالبہ کیا ہے کہ وہ نئے صوبوں کے قیام کی غیر مشروط حمایت کریں۔ انہوں نے کہا کہ ملک موجودہ انتظامی نظام کے ساتھ مزید نہیں چل سکتا اور آئندہ بجٹ سے پہلے ساختیاتی اصلاحات ناگزیر ہیں۔
 
-First reported by The Express Tribune.
+First reported by ARY News
 
-#Yemen #SaudiArabia #MiddleEast #Security
+#MustafaKamal #MQMP #PTI #NewProvinces #PakistanPolitics
 ```
 
-### Three suspects remanded into FIA custody over counterfeit vaccine  [NORMAL]
-- Poster: جعلی ویکسین کیس: تین ملزمان ایف آئی اے کے حوالے / Three suspects remanded to FIA over fake vaccine | category courts
-- Alternative headline: Islamabad court grants FIA five-day physical remand in fake vaccine case
+### Basra power station fire in Iraq kills at least four, injures 30  [NORMAL]
+- Poster: عراق کے شہر بصرہ میں پاور اسٹیشن پر آگ لگنے سے چار افراد جاں بحق / Four killed in Basra power station fire in Iraq | category disaster
+- Alternative headline: At least two killed, 28 injured in fire at power station in Iraq’s Basra
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2045961/three-suspects-remanded-into-fia-custody-over-counterfeit-vaccine-in-islamabad | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2045961/three-suspects-remanded-into-fia-custody-over-counterfeit-vaccine-in-islamabad
-- Supporting coverage: Dawn Pakistan, Dawn
-- Keywords: counterfeit vaccine Islamabad, FIA remand, fake vaccine, Blue Area raid, Influvac Tetra | hashtags: #Islamabad #FIA #CounterfeitVaccine #Crime
-- Scheduled: Sat 21 Nov, 11:50 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXNRSG9pcnhJWjV4R05FV0VsQ1VETVZrQXR5RHBBUk1pa2xrOFA1cHB0N25LWDEzZWhWQ0hobHE2TzY2VHBpOUp3RjdiZml6amwzMXNUZGpXa3ZYSlZ2T0NmakZlY0ZQVE1GVDk2UmJIUnMzT25pUmFQOXJCaldsU2Nfdnc5ei1yVll4aE5qeVZmZHBENDJHMDZuYlNGX2xCYUHSAaoBQVVfeXFMUF9NcF9wR2k2U2R3bm1VTXRaSkNWbnMxckVCWlZfRllHLXJUcFVkeS1fUkhidU5GVFRwQUtVSklQby00SC04TllCU3RtOEVnR1lQX3hWTUxob0JkVkMtQUVUaXBTSnJlZkZPWmtpRi1QYjFlTm9Tam9Ea1RCS2ZFakYxRjVKOUpsa3hNRDRpdlN5LXRraXBfT3JmTDFXSWFUMTNRTEJIa1pmbkE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXNRSG9pcnhJWjV4R05FV0VsQ1VETVZrQXR5RHBBUk1pa2xrOFA1cHB0N25LWDEzZWhWQ0hobHE2TzY2VHBpOUp3RjdiZml6amwzMXNUZGpXa3ZYSlZ2T0NmakZlY0ZQVE1GVDk2UmJIUnMzT25pUmFQOXJCaldsU2Nfdnc5ei1yVll4aE5qeVZmZHBENDJHMDZuYlNGX2xCYUHSAaoBQVVfeXFMUF9NcF9wR2k2U2R3bm1VTXRaSkNWbnMxckVCWlZfRllHLXJUcFVkeS1fUkhidU5GVFRwQUtVSklQby00SC04TllCU3RtOEVnR1lQX3hWTUxob0JkVkMtQUVUaXBTSnJlZkZPWmtpRi1QYjFlTm9Tam9Ea1RCS2ZFakYxRjVKOUpsa3hNRDRpdlN5LXRraXBfT3JmTDFXSWFUMTNRTEJIa1pmbkE?oc=5
+- Supporting coverage: The Express Tribune, Al Jazeera
+- Keywords: Basra power station fire, Iraq fire, Basra, power station accident, casualties | hashtags: #Basra #Iraq #PowerStationFire #BreakingNews
+- Scheduled: Sat 21 Nov, 01:01 PM PKT
 - Caption:
 ```
-A judicial magistrate in Islamabad has handed over three suspects, including a private lab CEO, to the FIA on a five-day physical remand.
+A devastating fire at a power station in Iraq's southern city of Basra has left at least four people dead and 30 injured.
 
-An Islamabad judicial magistrate granted the FIA a five-day physical remand of three suspects, including a private laboratory CEO, following a joint raid in the Blue Area where 27 injections of counterfeit flu vaccine were allegedly recovered.
+A fire outbreak at a power station in Iraq's southern city of Basra has resulted in the deaths of at least four people, with another 30 sustaining injuries. Authorities and emergency services responded to the incident as investigations into the cause of the fire began.
 
-اسلام آباد کے جوڈیشل مجسٹریٹ نے نجی لیب کے سی ای او سمیت تین ملزمان کو پانچ روزہ جسمانی ریمانڈ پر ایف آئی اے کے حوالے کر دیا۔ یہ کارروائی بلیو ایریا میں کی گئی جہاں مبینہ طور پر جعلی فلو ویکسین کی 27 انجکشن برآمد ہوئیں۔
+عراق کے جنوبی شہر بصرہ میں ایک پاور اسٹیشن پر لگنے والی آگ کے نتیجے میں کم از کم چار افراد جاں بحق اور 30 زخمی ہو گئے۔ ریسکیو ٹیموں نے موقع پر پہنچ کر امدادی کارروائیاں شروع کیں۔
 
-First reported by Dawn Pakistan.
+First reported by The Express Tribune; also reported by Al Jazeera
 
-#Islamabad #FIA #CounterfeitVaccine #Crime
+#Basra #Iraq #PowerStationFire #BreakingNews
 ```
 
-### Gujranwala and Multan overtake Lahore in severe air pollution  [NORMAL]
-- Poster: گوجرانوالہ اور ملتان آلودگی میں لاہور سے آگے نکل گئے / Gujranwala, Multan overtake Lahore in smog | category disaster
-- Alternative headline: Hazardous smog: Gujranwala and Multan register higher AQI than Lahore
+### WhatsApp raises group chat limit to 1,500 members  [NORMAL]
+- Poster: واٹس ایپ نے گروپ چیٹ کی حد بڑھا کر 1,500 ممبرز کر دی / WhatsApp increases group limit to 1,500 members | category tech
+- Alternative headline: WhatsApp increases maximum group chat member limit to 1,500
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046020/gujranwala-multan-overtake-lahore-in-air-pollution | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046020/gujranwala-multan-overtake-lahore-in-air-pollution
-- Supporting coverage: Dawn Latest, Dawn
-- Keywords: Punjab air pollution, Gujranwala AQI, Multan smog, Lahore air quality, hazardous smog | hashtags: #Smog #AirPollution #Punjab #Lahore
-- Scheduled: Sat 21 Nov, 12:00 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1c3ME9WaXFCalVwSS1SR1BKaklPX2s3a1J3Ujh5RjJ5SzBlODhqUGpXRjF6bmhNM3dyOTR4bG1sOWgzT3FYWVAxU3FMSnNUVWJXTWJGS0FBZEp0c1M1eXE3b1Z6Nm1DMUNqczlOYnBfdnNYNnlnQVFXNjI4UXI4SnhZWnNYZVBq?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1c3ME9WaXFCalVwSS1SR1BKaklPX2s3a1J3Ujh5RjJ5SzBlODhqUGpXRjF6bmhNM3dyOTR4bG1sOWgzT3FYWVAxU3FMSnNUVWJXTWJGS0FBZEp0c1M1eXE3b1Z6Nm1DMUNqczlOYnBfdnNYNnlnQVFXNjI4UXI4SnhZWnNYZVBq?oc=5
+- Supporting coverage: GSMArena, samaa tv
+- Keywords: WhatsApp group limit, WhatsApp, group chat, 1500 members, tech news | hashtags: #WhatsApp #TechNews #GroupChat #Update
+- Scheduled: Sat 21 Nov, 01:11 PM PKT
 - Caption:
 ```
-Severe smog has gripped Punjab, with Gujranwala and Multan recording hazardous AQI levels surpassing Lahore.
+WhatsApp has rolled out a major update increasing its maximum group chat member limit to 1,500 users.
 
-Heavy smog pushed air quality across Punjab into hazardous categories on Friday. While Lahore recorded an AQI of 465, Gujranwala and Multan registered even higher hazardous readings of 661 and 641 respectively, posing serious health risks.
+Popular messaging platform WhatsApp has significantly increased its group chat member limit, allowing up to 1,500 participants in a single group. This update aims to facilitate larger communities, organizations, and institutional groups communicating on the platform.
 
-جمعہ کو شدید اسموگ نے پنجاب بھر میں ہوا کے معیار کو خطرناک درجے تک پہنچا دیا۔ جہاں لاہور میں اے کیو آئی 465 ریکارڈ کیا گیا، وہیں گوجرانوالہ اور ملتان میں بالترتیب 661 اور 641 کی انتہائی خطرناک آلودگی درج کی گئی۔
+مقبول پیغام رسانی کی ایپ واٹس ایپ نے گروپ چیٹ کے ممبران کی حد میں نمایاں اضافہ کرتے ہوئے اسے 1,500 افراد تک پہنچا دیا ہے۔ اس اپ ڈیٹ کا مقصد بڑی کمیونٹیز اور اداروں کے لیے رابطے کو آسان بنانا ہے۔
 
-First reported by Dawn Latest.
+First reported by samaa tv; also reported by GSMArena
 
-#Smog #AirPollution #Punjab #Lahore
+#WhatsApp #TechNews #GroupChat #Update
 ```
 
-- Indian outlets blocked this run: 5 items
+### Father accused of raping daughter killed in CCD encounter in Kot Addu  [NORMAL]
+- Poster: کوٹ ادو میں پولیس مقابلے کے دوران بیٹی کے زیادتی کا ملزم ہلاک / Accused rapist killed in Kot Addu encounter | category crime
+- Alternative headline: Alleged rapist killed in police encounter after accomplices open fire
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046016/alleged-rapist-of-daughter-killed-in-ccd-encounter-in-kot-addu | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046016/alleged-rapist-of-daughter-killed-in-ccd-encounter-in-kot-addu
+- Supporting coverage: Dawn Pakistan, The Current
+- Keywords: Kot Addu encounter, CCD, Crime Control Department, Kot Addu, Dawn Pakistan | hashtags: #KotAddu #CCD #PoliceEncounter #DawnNews
+- Scheduled: Sat 21 Nov, 01:21 PM PKT
+- Caption:
+```
+A man accused of raping his 10-year-old daughter was killed during a Crime Control Department encounter in Kot Addu.
+
+The Crime Control Department reported that a man arrested for allegedly raping his 10-year-old daughter was killed during an encounter in Kot Addu. According to officials, the suspect was shot by his own accomplices who opened fire while police were transporting him.
+
+کرائم کنٹرول ڈیپارٹمنٹ کے مطابق کوٹ ادو میں اپنی 10 سالہ بیٹی کے ساتھ مبینہ زیادتی کے الزام میں گرفتار ملزم مبینہ پولیس مقابلے میں ہلاک ہو گیا۔ حکام کا کہنا ہے کہ ملزم اپنے ساتھیوں کی فائرنگ سے جاں بحق ہوا۔
+
+First reported by Dawn Pakistan; also reported by The Current
+
+#KotAddu #CCD #PoliceEncounter #DawnNews
+```
+
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
+- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
 
 ## Queue status
-- [needs_review] normal | Widow questions if 1980 toxic lagoon fire caused husband's rare cancer | Wed 18 Nov, 05:00 AM PKT
-- [needs_review] normal | Haitians Back El Salvador Troops Amid Rescue Mission | Wed 18 Nov, 05:25 AM PKT
-- [needs_review] normal | Fears Grow That Toxic Lagoon Fire Caused Cancer | Wed 18 Nov, 05:35 AM PKT
-- [needs_review] normal | Thomas Markle Charged Over Child Abuse Material | Wed 18 Nov, 05:45 AM PKT
 - [needs_review] normal | Board of Peace warns Gaza ceasefire faces imminent collapse without ac | Wed 18 Nov, 06:51 AM PKT
 - [needs_review] normal | Zimbabwe edge Afghanistan in thriller | Wed 18 Nov, 07:01 AM PKT
 - [needs_review] normal | Why China’s Shenzhen was chosen for APEC summit | Wed 18 Nov, 07:11 AM PKT
@@ -160,7 +157,6 @@ First reported by Dawn Latest.
 - [needs_review] normal | Global Apple Outage Disrupts Key Services Including iCloud And Apple P | Wed 18 Nov, 10:59 AM PKT
 - [needs_review] normal | Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Proj | Wed 18 Nov, 11:09 AM PKT
 - [needs_review] normal | Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar | Wed 18 Nov, 11:19 AM PKT
-- [published] normal | Dawn Publishes Editorial Cartoon Reflecting Daily National Affairs For | Wed 18 Nov, 11:53 AM PKT
 - [needs_review] normal | Iran Army Claims Targeting US Military Equipment At Kuwait Base | Wed 18 Nov, 12:03 PM PKT
 - [needs_review] normal | Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump | Wed 18 Nov, 12:13 PM PKT
 - [needs_review] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
@@ -344,10 +340,10 @@ First reported by Dawn Latest.
 - [needs_review] normal | Pakistan Crowned Men’s Blind Cricket Asia Cup Champions | Sat 21 Nov, 05:18 AM PKT
 - [needs_review] normal | Anthropic Researcher Claims Claude Chatbot Solved Math’s Greatest Ridd | Sat 21 Nov, 05:28 AM PKT
 - [published] normal | Iraqi Security Forces Deploy in Pro-Iran Militia Stronghold | Sat 21 Nov, 05:38 AM PKT
-- [queued] normal | Saudi Coalition Intercepts Three Houthi Missiles as Riyadh Triggers Em | Sat 21 Nov, 06:25 AM PKT
-- [queued] normal | Nepal's Prime Minister Targets Trade and Connectivity in Crucial India | Sat 21 Nov, 06:35 AM PKT
-- [queued] normal | Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Leas | Sat 21 Nov, 06:45 AM PKT
-- [queued] normal | Can Generative AI Actually Help Shoppers Spot Real Black Friday Deals? | Sat 21 Nov, 06:55 AM PKT
+- [needs_review] normal | Saudi Coalition Intercepts Three Houthi Missiles as Riyadh Triggers Em | Sat 21 Nov, 06:25 AM PKT
+- [needs_review] normal | Nepal's Prime Minister Targets Trade and Connectivity in Crucial India | Sat 21 Nov, 06:35 AM PKT
+- [needs_review] normal | Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Leas | Sat 21 Nov, 06:45 AM PKT
+- [published] normal | Can Generative AI Actually Help Shoppers Spot Real Black Friday Deals? | Sat 21 Nov, 06:55 AM PKT
 - [queued] normal | ANC fights to keep control of South Africa's key cities after election | Sat 21 Nov, 07:28 AM PKT
 - [queued] normal | Mauricio Pochettino takes charge of Manchester United ahead of Liverpo | Sat 21 Nov, 07:38 AM PKT
 - [queued] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
@@ -360,15 +356,19 @@ First reported by Dawn Latest.
 - [queued] normal | Saudi forces launch major military strikes across Yemen | Sat 21 Nov, 11:40 AM PKT
 - [queued] normal | Three suspects remanded into FIA custody over counterfeit vaccine | Sat 21 Nov, 11:50 AM PKT
 - [queued] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
+- [queued] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
+- [queued] normal | Mustafa Kamal urges PTI to unconditionally support creation of new pro | Sat 21 Nov, 12:51 PM PKT
+- [queued] normal | Basra power station fire in Iraq kills at least four, injures 30 | Sat 21 Nov, 01:01 PM PKT
+- [queued] normal | WhatsApp raises group chat limit to 1,500 members | Sat 21 Nov, 01:11 PM PKT
+- [queued] normal | Father accused of raping daughter killed in CCD encounter in Kot Addu | Sat 21 Nov, 01:21 PM PKT
 
 ## Publishing this run
-- Published 'Iraqi Security Forces Deploy in Pro-Iran Militia Stronghold'.
+- Published 'Can Generative AI Actually Help Shoppers Spot Real Black Friday Deals?'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6024 | output tokens: 3094
-- Errors: 2
+- Calls: 6 | prompt tokens: 4343 | output tokens: 2483
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
