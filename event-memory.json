@@ -103512,7 +103512,382 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "42f76426a42a21cc4f08a9b2",
+      "remembered_at": "2026-11-21T16:06:59.528313+00:00",
+      "event_date": "2026-11-21T12:58:51+00:00",
+      "last_update": "2026-11-21T15:59:03+00:00",
+      "event": "Chaudhary helps Australia edge past England to win 1st T20",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1st",
+        "australia",
+        "chaudhary",
+        "edge",
+        "england",
+        "helps",
+        "past",
+        "t20",
+        "win"
+      ],
+      "source_excerpt": "Chaudhary helps Australia edge past England to win 1st T20",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/chaudhary-helps-australia-edge-past-england-to-win-1st-t20",
+          "published_at": "2026-11-21T12:58:51+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046136/chaudharys-66-helps-australia-edge-past-england-to-win-1st-t20",
+          "published_at": "2026-11-21T15:59:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/chaudhary-helps-australia-edge-past-england-to-win-1st-t20",
+        "publisher_url": "https://arynews.tv/chaudhary-helps-australia-edge-past-england-to-win-1st-t20",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "660356a1e88dbb11b57207f2",
+      "remembered_at": "2026-11-21T16:06:59.528313+00:00",
+      "event_date": "2026-11-21T14:11:43+00:00",
+      "last_update": "2026-11-21T15:35:31+00:00",
+      "event": "گوجرانوالہ: ماں بیٹی کے قتل میں پڑوسی ملوث نکلے",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "بیٹی",
+        "دونوں",
+        "ضلع",
+        "فائل",
+        "فوٹو",
+        "قتل",
+        "ماڈل",
+        "ماں",
+        "مطابق",
+        "ملزمان",
+        "ملوث",
+        "میں",
+        "نکلے",
+        "ٹاؤن",
+        "پنجاب",
+        "پڑوسی",
+        "کرلیے",
+        "گئے۔",
+        "گرفتار",
+        "گوجرانوالہ"
+      ],
+      "source_excerpt": "فائل فوٹو پنجاب کے ضلع گوجرانوالہ میں ماڈل ٹاؤن میں ماں بیٹی کے قتل کے 2 ملزمان گرفتار کرلیے گئے۔ سی سی ڈی کے مطابق دونوں ملزمان...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1635482",
+          "published_at": "2026-11-21T14:11:43+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5018484",
+          "published_at": "2026-11-21T15:35:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1635482",
+        "publisher_url": "https://jang.com.pk/news/1635482",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cfa990c02715d5ceaa26cb37",
+      "remembered_at": "2026-11-21T16:06:59.528313+00:00",
+      "event_date": "2026-11-21T15:49:32+00:00",
+      "last_update": "2026-11-21T15:49:32+00:00",
+      "event": "US midterms 2026: What happens before the new Congress takes office?",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "and",
+        "before",
+        "between",
+        "congress",
+        "control",
+        "democrats",
+        "elections",
+        "happens",
+        "january",
+        "midterm",
+        "midterms",
+        "new",
+        "office",
+        "take",
+        "takes",
+        "the",
+        "what",
+        "when"
+      ],
+      "source_excerpt": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+          "published_at": "2026-11-21T15:49:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0e45dcd59f4e914458842b8f",
+      "remembered_at": "2026-11-21T16:06:59.528313+00:00",
+      "event_date": "2026-11-21T15:46:18+00:00",
+      "last_update": "2026-11-21T15:46:18+00:00",
+      "event": "French presidential candidate blames media for racist attack",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "blames",
+        "candidate",
+        "for",
+        "french",
+        "media",
+        "presidential",
+        "racist"
+      ],
+      "source_excerpt": "French presidential candidate blames media for racist attack",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+          "published_at": "2026-11-21T15:46:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f3764b14b5d880e855acfda3",
+      "remembered_at": "2026-11-21T16:06:59.528313+00:00",
+      "event_date": "2026-11-21T15:20:43+00:00",
+      "last_update": "2026-11-21T15:20:43+00:00",
+      "event": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "america",
+        "caf",
+        "conmebol",
+        "diallo",
+        "election",
+        "fifa",
+        "for",
+        "gianni",
+        "giving",
+        "infantino",
+        "join",
+        "motsepe",
+        "present",
+        "president",
+        "reiterates",
+        "south",
+        "support",
+        "unanimous"
+      ],
+      "source_excerpt": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+          "published_at": "2026-11-21T15:20:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8a46c73e8ddb25ff217ff63d",
+      "remembered_at": "2026-11-21T16:06:59.528313+00:00",
+      "event_date": "2026-11-21T15:24:26+00:00",
+      "last_update": "2026-11-21T15:24:26+00:00",
+      "event": "The 'terrible joke' that scuppered Matthew Rhys' James Bond hopes",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "bond",
+        "hopes",
+        "james",
+        "joke",
+        "matthew",
+        "rhys",
+        "scuppered",
+        "terrible",
+        "that",
+        "the"
+      ],
+      "source_excerpt": "The 'terrible joke' that scuppered Matthew Rhys' James Bond hopes BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9taS1tYzBvZG0tMnk4YWMxeUdjLXNtelppQ2VfenU2LTc0clBOdEZaNjNOYzM2SjlBQ3hMcGd1Y0NaQmprYXl1MmZwNkVxcEE0dzJWeGxjOGZwblk?oc=5",
+          "published_at": "2026-11-21T15:24:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9taS1tYzBvZG0tMnk4YWMxeUdjLXNtelppQ2VfenU2LTc0clBOdEZaNjNOYzM2SjlBQ3hMcGd1Y0NaQmprYXl1MmZwNkVxcEE0dzJWeGxjOGZwblk?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b46c67da19e61197d3c363c3",
+      "remembered_at": "2026-11-21T16:06:59.528313+00:00",
+      "event_date": "2026-11-21T15:55:34+00:00",
+      "last_update": "2026-11-21T15:55:34+00:00",
+      "event": "15 militants neutralized in security operations in Balochistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "balochistan",
+        "militants",
+        "neutralized",
+        "operations",
+        "security"
+      ],
+      "source_excerpt": "15 militants neutralized in security operations in Balochistan",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/15-militants-neutralized-in-security-operations-in-balochistan",
+          "published_at": "2026-11-21T15:55:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/15-militants-neutralized-in-security-operations-in-balochistan",
+        "publisher_url": "https://arynews.tv/15-militants-neutralized-in-security-operations-in-balochistan",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f6ba5d774e9dc683635d66f2",
+      "remembered_at": "2026-11-21T16:06:59.528313+00:00",
+      "event_date": "2026-11-21T15:46:13+00:00",
+      "last_update": "2026-11-21T15:46:13+00:00",
+      "event": "Minister expresses concern over 20-year delay in Peshawar Northern Bypass project",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bypass",
+        "concern",
+        "delay",
+        "expresses",
+        "minister",
+        "northern",
+        "over",
+        "peshawar",
+        "project",
+        "year"
+      ],
+      "source_excerpt": "Minister expresses concern over 20-year delay in Peshawar Northern Bypass project",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/minister-expresses-concern-over-20-year-delay-in-peshawar-northern-bypass-project",
+          "published_at": "2026-11-21T15:46:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/minister-expresses-concern-over-20-year-delay-in-peshawar-northern-bypass-project",
+        "publisher_url": "https://arynews.tv/minister-expresses-concern-over-20-year-delay-in-peshawar-northern-bypass-project",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T15:17:24.268062+00:00"
+  "updated_at": "2026-11-21T16:06:59.528313+00:00"
 }

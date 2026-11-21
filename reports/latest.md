@@ -1,157 +1,149 @@
-# News Hub report - Sat 21 Nov, 08:17 PM PKT
+# News Hub report - Sat 21 Nov, 09:06 PM PKT
 
 ## Collection
-- New items this run: 41 | items in rolling pool: 632
-- Unique story clusters: 549 (duplicates merged: 83)
-- Clusters dropped as already published/queued: 21; unchanged since last analysis: 10
-- Items per outlet: Geo News 7, Engadget 5, Pakistan Today 5, UrduPoint 4, Al Jazeera 4, ARY News 3, samaa tv 2, TechJuice 2, ARYnews.tv 1, Dawn Pakistan 1, Dawn Latest 1, Jang Urdu 1
+- New items this run: 54 | items in rolling pool: 630
+- Unique story clusters: 550 (duplicates merged: 80)
+- Clusters dropped as already published/queued: 23; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 22, samaa tv 3, Geo News 3, ARY News 3, Al Jazeera 3, Engadget 3, The Verge 2, TechCrunch 2, ProPakistani 2, PhoneWorld 2, Dawn 1, The Express Tribune 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold prices plunge in Pakistan, fall by Rs3,500 per tola | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chaudhary helps Australia edge past England to win 1st T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- گوجرانوالہ: ماں بیٹی کے قتل میں پڑوسی ملوث نکلے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Could Iran reverse its stated policy of a civil-only nuclear programme? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man City claw back 1-1 draw with Fulham to end three-game losing streak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold prices plunge in Pakistan, fall by Rs3,500 per tola | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chaudhary helps Australia edge past England to win 1st T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- گوجرانوالہ: ماں بیٹی کے قتل میں پڑوسی ملوث نکلے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Could Iran reverse its stated policy of a civil-only nuclear programme? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man City claw back 1-1 draw with Fulham to end three-game losing streak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold prices plunge in Pakistan, fall by Rs3,500 per tola | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chaudhary helps Australia edge past England to win 1st T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- گوجرانوالہ: ماں بیٹی کے قتل میں پڑوسی ملوث نکلے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Could Iran reverse its stated policy of a civil-only nuclear programme? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man City claw back 1-1 draw with Fulham to end three-game losing streak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 114/120 | empty: 2 | failed: 4 | malformed/partial: 4
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Khyber Pakhtunkhwa Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: International Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Former Nvidia CEO Jensen Huang to testify at public US Senate hearing  [NORMAL]
-- Poster: سابق این ویڈیا سی ای او کا امریکی سینیٹ میں گواہی دینے کا فیصلہ / Ex-Nvidia CEO Huang to testify at US Senate | category us_politics
-- Alternative headline: Former Nvidia CEO Huang agreed to testify at public US Senate hearing
+### US Midterms 2026: What happens before the new Congress takes office?  [NORMAL]
+- Poster: امریکہ مڈٹرم انتخابات 2026: نئی کانگریس کے حلف اٹھانے سے پہلے کیا ہوگا؟ / US Midterms 2026: What happens before the new Congress takes office? | category us_politics
+- Alternative headline: Navigating the transition period after the 2026 US midterm elections
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: US midterms 2026, US Congress, Democrats, transition period, midterm elections | hashtags: #USMidterms2026 #USPolitics #Congress #Democrats
+- Scheduled: Sat 21 Nov, 09:06 PM PKT
+- Caption:
+```
+Explore the critical political transition period in the US following the recent midterm elections and ahead of the new Congress taking control.
+
+Following the US midterm elections, attention turns to the transition period before the new Congress takes office in January, examining the political dynamics and legislative processes that unfold as Democrats prepare to take control.
+
+امریکہ کے مڈٹرم انتخابات کے بعد، تمام کی توجہ جنوری میں نئی کانگریس کے حلف اٹھانے سے پہلے کے انتقالِ اقتدار کے دور پر مرکوز ہے، جس میں سیاسی حرکیات اور قانون سازی کے عمل کا جائزہ لیا جا رہا ہے۔
+
+According to a published report by Al Jazeera
+
+#USMidterms2026 #USPolitics #Congress #Democrats
+```
+
+### Chaudhary's 66 helps Australia edge past England in first T20  [NORMAL]
+- Poster: چوہدری کی شاندار اننگز، آسٹریلیا نے پہلے ٹی ٹوئنٹی میں انگلینڈ کو شکست دے دی / Chaudhary helps Australia edge past England to win 1st T20 | category sports
+- Alternative headline: Australia defeat England by three wickets in thrilling opening T20
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMirAFBVV95cUxQekYtdGFrclJhLWJrZUZXYU1pNGZDQWtkb1c0MzdwQTB2czFFT01uRWtRVnJqTndUS20tbnpxWEloV3lLTEFYWjdVa2NWZHk1N1NoXzhVT0hCT29ZLVdMaWFfekFUVzFWaGlEejVZSkRxOFhqVXNhcU1kcnowVlpmWkVHcEJSWkJjOTdRcDNmVURpUmJJX2FFZ3RzSk1lYlo3czlGT2t6WGRsZGdC?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMirAFBVV95cUxQekYtdGFrclJhLWJrZUZXYU1pNGZDQWtkb1c0MzdwQTB2czFFT01uRWtRVnJqTndUS20tbnpxWEloV3lLTEFYWjdVa2NWZHk1N1NoXzhVT0hCT29ZLVdMaWFfekFUVzFWaGlEejVZSkRxOFhqVXNhcU1kcnowVlpmWkVHcEJSWkJjOTdRcDNmVURpUmJJX2FFZ3RzSk1lYlo3czlGT2t6WGRsZGdC?oc=5
-- Supporting coverage: ARYnews.tv, ARY News
-- Keywords: Jensen Huang, Nvidia, US Senate, hearing, testify, tech policy | hashtags: #JensenHuang #Nvidia #USSenate #TechNews #USA
-- Scheduled: Sat 21 Nov, 08:17 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/chaudhary-helps-australia-edge-past-england-to-win-1st-t20 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/chaudhary-helps-australia-edge-past-england-to-win-1st-t20
+- Supporting coverage: ARY News, Dawn Latest
+- Keywords: Nikhil Chaudhary, Australia vs England, T20 international, Melbourne Cricket Ground, Jack Edwards | hashtags: #AUSvENG #T20Cricket #NikhilChaudhary #AustraliaCricket
+- Scheduled: Sat 21 Nov, 09:16 PM PKT
 - Caption:
 ```
-Former Nvidia CEO Jensen Huang has reportedly agreed to testify at an upcoming public US Senate hearing, according to a senator's aide.
+Nikhil Chaudhary starred with a brilliant 66 as Australia edged past England by three wickets in a thrilling opening T20 international.
 
-Former Nvidia CEO Jensen Huang has agreed to testify at a public US Senate hearing, a senator's aide revealed. The development comes amid widespread discussions surrounding leadership developments and broader technological policy debates in the United States.
+Nikhil Chaudhary blasted 66 runs and Jack Edwards contributed a vital unbeaten 25 to help Australia defeat England by three wickets with a ball to spare in the opening T20 international, taking a 1-0 lead in the five-match series at the Melbourne Cricket Ground.
 
-سابق این ویڈیا سی ای او جینسن ہوانگ نے امریکی سینیٹ میں عوامی سماعت کے دوران گواہی دینے پر رضامندی ظاہر کر دی ہے۔ ایک سینیٹر کے معاون کے مطابق یہ پیشرفت ایسے وقت میں سامنے آئی ہے جب امریکہ میں تکنیکی پالیسیوں پر بحث جاری ہے۔
+نکھل چوہدری نے 66 رنز کی شاندار اننگز کھیلی اور جیک ایڈورڈز کے 25 ناٹ آؤٹ رنز کی بدولت آسٹریلیا نے پہلے ٹی ٹوئنٹی میچ میں انگلینڈ کو تین وکٹوں سے شکست دے کر پانچ میچوں کی سیریز میں ایک صفر کی برتری حاصل کر لی۔
 
-According to ARYnews.tv
+First reported by ARY News; also reported by Dawn
 
-#JensenHuang #Nvidia #USSenate #TechNews #USA
+#AUSvENG #T20Cricket #NikhilChaudhary #AustraliaCricket
 ```
 
-### Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism drills  [NORMAL]
-- Poster: پاکستان اور انڈونیشیا کی مشترکہ انسداد دہشت گردی مشقیں اختتام پذیر / Pakistan, Indonesia conclude counter-terrorism drills | category security
-- Alternative headline: Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III
+### Gujranwala: Neighbors arrested for mother and daughter's murder  [NORMAL]
+- Poster: گوجرانوالہ: ماں بیٹی کے قتل میں ملوث دو پڑوسی گرفتار / Gujranwala: Neighbors arrested for mother and daughter's murder | category crime
+- Alternative headline: Two brothers held over robbery-related murder in Gujranwala
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVElkU2NicXd4SEUwbC1wYkFXZzZBUXN5Y015WUo4c2hIVmF3UjI2cDVWdGN2YXhUUGJQNTR3cFRYZXFzajdDcmZGU1ppNFBCZWd4SF9YS3pBalBuOEI4M3JuQVJaOGhtcEpJT3lKTjlGLTVxWW5RWmN5WWZwenJ3cXpaczRKZmhwcFR3aHdYTFdNdGI1UFBGSmItLU14cXpqb0Q3d3otVDlhZUxLOHJvMkgtcWdUTTE1TTRTWVlSRlFJV3NERnBHQXdraXcyYl9G0gHYAUFVX3lxTE5IMTFldWZuc1FoUWtrd2t1UXBLZVEtN3hrLXh3aFNHWlc3V0h0OXZLdjJWRVlIN0o3Um1sMjRRYVJabkVwOXNnaTR6VVRVZlRpamV6SUJDLUZ4OG1ma1NwUG5LOThQcTQ0WnpNNkFjWVFsWGZ3ZDRHN0JMMlRhd2xQbXNjcHAwOGhvNXd4elNpQjlQSUZDNEZhT3JBaHNOSmNhR25HREFxRUJGV1d4emlZcEk1ZXBUd0FnYWtYejM5QWsyMVQ4OHM1aDlYdVdTQ1JNbzRyQi03TQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVElkU2NicXd4SEUwbC1wYkFXZzZBUXN5Y015WUo4c2hIVmF3UjI2cDVWdGN2YXhUUGJQNTR3cFRYZXFzajdDcmZGU1ppNFBCZWd4SF9YS3pBalBuOEI4M3JuQVJaOGhtcEpJT3lKTjlGLTVxWW5RWmN5WWZwenJ3cXpaczRKZmhwcFR3aHdYTFdNdGI1UFBGSmItLU14cXpqb0Q3d3otVDlhZUxLOHJvMkgtcWdUTTE1TTRTWVlSRlFJV3NERnBHQXdraXcyYl9G0gHYAUFVX3lxTE5IMTFldWZuc1FoUWtrd2t1UXBLZVEtN3hrLXh3aFNHWlc3V0h0OXZLdjJWRVlIN0o3Um1sMjRRYVJabkVwOXNnaTR6VVRVZlRpamV6SUJDLUZ4OG1ma1NwUG5LOThQcTQ0WnpNNkFjWVFsWGZ3ZDRHN0JMMlRhd2xQbXNjcHAwOGhvNXd4elNpQjlQSUZDNEZhT3JBaHNOSmNhR25HREFxRUJGV1d4emlZcEk1ZXBUd0FnYWtYejM5QWsyMVQ4OHM1aDlYdVdTQ1JNbzRyQi03TQ?oc=5
-- Supporting coverage: The Express Tribune, Pakistan Today
-- Keywords: Elang Strike-III, Pakistan, Indonesia, counter-terrorism, military exercise, security | hashtags: #Pakistan #Indonesia #ElangStrikeIII #CounterTerrorism #MilitaryExercise
-- Scheduled: Sat 21 Nov, 08:27 PM PKT
+- Original source: published_report - Jang Urdu https://jang.com.pk/news/1635482 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Jang Urdu https://jang.com.pk/news/1635482
+- Supporting coverage: Jang Urdu, UrduPoint
+- Keywords: Gujranwala murder, Model Town, CCG, robbery murder, arrests | hashtags: #Gujranwala #CrimeNews #PakistanPolice #Justice
+- Scheduled: Sat 21 Nov, 09:26 PM PKT
 - Caption:
 ```
-Pakistan and Indonesia have officially concluded the third edition of their bilateral counter-terrorism exercise, Elang Strike-III.
+Police have arrested two neighbor brothers in Gujranwala for their alleged involvement in the robbery-slaying of a mother and daughter.
 
-Pakistan and Indonesia have successfully concluded the third edition of their bilateral counter-terrorism military exercise, Elang Strike-III. The joint drills aimed to enhance tactical cooperation, share expertise, and strengthen security collaboration between the armed forces of both nations.
+Two brothers, who are neighbors of the victims, have been arrested by the CCG in Gujranwala's Model Town for murdering a mother and daughter during a robbery on November 17, after breaking in through the roof to steal cash and jewelry.
 
-پاکستان اور انڈونیشیا نے دو طرفہ انسداد دہشت گردی کی مشترکہ مشق 'الان اسٹرائیک تھری' کے تیسرے ایڈیشن کا کامیابی سے اختتام کر لیا ہے۔ ان مشقوں کا مقصد دونوں ممالک کی مسلح افواج کے درمیان تکنیکی تعاون اور سیکیورٹی شراکت داری کو فروغ دینا تھا۔
+گوجرانوالہ کے ماڈل ٹاؤن میں 17 نومبر کو ڈکیتی کے دوران مزاحمت پر ماں بیٹی کے قتل میں ملوث دو سگے بھائیوں کو گرفتار کر لیا گیا ہے جو کہ مقتولین کے پڑوسی ہیں۔
 
-First reported by The Express Tribune
+First reported by Jang Urdu; also reported by UrduPoint
 
-#Pakistan #Indonesia #ElangStrikeIII #CounterTerrorism #MilitaryExercise
+#Gujranwala #CrimeNews #PakistanPolice #Justice
 ```
 
-### Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500  [NORMAL]
-- Poster: پاکستان میں سونے کی قیمتوں میں بڑی کمی، فی تولہ سستا ہو گیا / Gold price drops by Rs3,500 per tola in Pakistan | category economy
-- Alternative headline: Gold prices plunge in Pakistan, fall by Rs3,500 per tola
+### Could Iran reverse its stated policy of a civil-only nuclear programme?  [NORMAL]
+- Poster: کیا ایران اپنے پرامن جوہری پروگرام کی پالیسی تبدیل کر سکتا ہے؟ / Could Iran reverse its stated policy of a civil-only nuclear programme? | category security
+- Alternative headline: Iran's Foreign Minister hints at major strategic debate over nuclear doctrine
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/gold-prices-plunge-in-pakistan-fall-by-rs3500-per-tola | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/gold-prices-plunge-in-pakistan-fall-by-rs3500-per-tola
-- Supporting coverage: ARY News, Investify
-- Keywords: Gold price, Pakistan, Sarafa Association, per tola, economy, inflation | hashtags: #GoldPrice #PakistanEconomy #SarafaAssociation #GoldRate #Business
-- Scheduled: Sat 21 Nov, 08:37 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Iran nuclear programme, Abbas Araghchi, nuclear doctrine, Iran foreign policy, strategic debate | hashtags: #Iran #NuclearProgram #MiddleEast #Geopolitics
+- Scheduled: Sat 21 Nov, 09:36 PM PKT
 - Caption:
 ```
-Gold prices in Pakistan registered a sharp decline as the per-tola rate dropped by Rs3,500 following global market trends.
+Iranian Foreign Minister Araghchi highlights a major strategic debate regarding the future direction of the country's nuclear doctrine.
 
-Gold prices witnessed a significant decline across Pakistan, with the per-tola rate falling by Rs3,500 to settle at Rs376,336 according to the All Pakistan Sarafa Gems and Jewellers Association. Internationally, gold prices dropped by $35 per ounce amid ongoing global economic uncertainties.
+Iranian Foreign Minister Abbas Araghchi has stated that a major strategic debate is underway regarding the future of Iran's nuclear doctrine, raising questions about whether Tehran could potentially reverse its policy of maintaining a strictly civil-only nuclear programme.
 
-آل پاکستان صرافہ جیمز اینڈ جیولرز ایسوسی ایشن کے مطابق پاکستان بھر میں سونے کی قیمتوں میں نمایاں کمی دیکھی گئی ہے جہاں فی تولہ سونا 3,500 روپے سستا ہو کر 376,336 روپے کا ہو گیا۔ عالمی مارکیٹ میں بھی سونے کی قیمتوں میں کمی ریکارڈ کی گئی ہے۔
+ایران کے وزیر خارجہ عراقچی نے کہا ہے کہ ملک کے جوہری نظریہ کے مستقبل کے حوالے سے ایک بڑا اسٹریٹجک مباحثہ جاری ہے، جس سے یہ سوال اٹھتا ہے کہ آیا ایران اپنے پرامن جوہری پروگرام کی پالیسی کو بدل سکتا ہے۔
 
-According to ARY News
+According to a published report by Al Jazeera
 
-#GoldPrice #PakistanEconomy #SarafaAssociation #GoldRate #Business
+#Iran #NuclearProgram #MiddleEast #Geopolitics
 ```
 
-### Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup  [NORMAL]
-- Poster: پاکستان نے سلطان اذلان شاہ کپ میں امریکہ کو شکست دے دی / Pakistan beat USA 5-1 in Azlan Shah Cup | category sports
-- Alternative headline: Pakistan beat USA 5-1 to stay top of Sultan Azlan Shah Cup standings
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUFvbEw4Y050WW41VXB3amxGUHhnZXg1ckpWbVh5Mmp1T2IwTUJTQXJ5MXRJY1V0T0Z3YXRGRHJfQ1FKY3dnOTZMY2xRVTkwVU9fSnJNVnNiSHZXNzJDMzBTYV83ZnJreGp6aThaYWI4VXFUOGZyYURnWFh6Tk9Xekx30gGKAUFVX3lxTE5hWkx1T1JCQUxhN1dfTVRzSlB5WkVjTzkzR0t1b2ZFLUZCZTA2UTh0NFAtd2kyWHRxOXZBYlU3cUpJVlN4Vk1FU1BGcF9DM183MXVVMmRNSW9NVEZmSWNxZTRyRkdmcU8xV1EzUGxkeTFfU2JFdlJGeF9peC1hcnc5YWR1LVl2eXJNQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUFvbEw4Y050WW41VXB3amxGUHhnZXg1ckpWbVh5Mmp1T2IwTUJTQXJ5MXRJY1V0T0Z3YXRGRHJfQ1FKY3dnOTZMY2xRVTkwVU9fSnJNVnNiSHZXNzJDMzBTYV83ZnJreGp6aThaYWI4VXFUOGZyYURnWFh6Tk9Xekx30gGKAUFVX3lxTE5hWkx1T1JCQUxhN1dfTVRzSlB5WkVjTzkzR0t1b2ZFLUZCZTA2UTh0NFAtd2kyWHRxOXZBYlU3cUpJVlN4Vk1FU1BGcF9DM183MXVVMmRNSW9NVEZmSWNxZTRyRkdmcU8xV1EzUGxkeTFfU2JFdlJGeF9peC1hcnc5YWR1LVl2eXJNQQ?oc=5
-- Supporting coverage: UrduPoint, The Express Tribune
-- Keywords: Azlan Shah Cup, Pakistan hockey, USA, sports, victory, standings | hashtags: #AzlanShahCup #PakistanHockey #GreenShirts #Hockey #Sports
-- Scheduled: Sat 21 Nov, 08:47 PM PKT
-- Caption:
-```
-Pakistan delivered a dominant performance, thrashing the USA 5-1 to retain their top position in the Sultan Azlan Shah Cup standings.
-
-Pakistan put up a stellar show on the field, bulldozing the USA with a resounding 5-1 victory in the Sultan Azlan Shah Cup. The impressive win helps the national hockey team maintain their leading position at the top of the tournament standings.
-
-پاکستان نے شاندار کارکردگی کا مظاہرہ کرتے ہوئے سلطان اذلان شاہ کپ میں امریکہ کو 5 کے مقابلے میں 1 گول سے شکست دے دی۔ اس بڑی فتح کے بعد قومی ہاکی ٹیم ٹورنامنٹ کے پوائنٹس ٹیبل پر سر فہرست برقرار ہے۔
-
-First reported by The Express Tribune
-
-#AzlanShahCup #PakistanHockey #GreenShirts #Hockey #Sports
-```
-
-- Indian outlets blocked this run: 5 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
+- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
-- [needs_review] normal | Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperati | Wed 18 Nov, 02:37 PM PKT
-- [needs_review] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
 - [needs_review] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
 - [needs_review] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
 - [needs_review] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
 - [needs_review] normal | 'Human' Named Cambridge Dictionary's Word of the Year for 2026 | Wed 18 Nov, 07:16 PM PKT
-- [published] normal | Pakistan mediation in US-Iran war will fail without Washington clarity | Wed 18 Nov, 08:56 PM PKT
-- [published] normal | Trump's Board of Peace faults Israel and Hamas over Gaza war | Wed 18 Nov, 09:06 PM PKT
 - [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Wed 18 Nov, 09:16 PM PKT
 - [published] normal | Submarine Cable Fault Disrupts Internet Connectivity Across Pakistan | Wed 18 Nov, 10:57 PM PKT
 - [published] normal | Pakistan Receives Record 15,000-Tonne LPG Shipment at Port Qasim | Wed 18 Nov, 11:07 PM PKT
@@ -340,7 +332,7 @@ First reported by The Express Tribune
 - [needs_review] normal | Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as  | Sat 21 Nov, 01:59 PM PKT
 - [needs_review] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
 - [published] normal | Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper | Sat 21 Nov, 02:19 PM PKT
-- [queued] normal | Illicit alcohol kills 11 people and poisons 180 in northeast India | Sat 21 Nov, 03:29 PM PKT
+- [published] normal | Illicit alcohol kills 11 people and poisons 180 in northeast India | Sat 21 Nov, 03:29 PM PKT
 - [queued] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
 - [queued] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
 - [queued] normal | Three US citizens among four convicted in Honduras sex-trafficking cas | Sat 21 Nov, 03:59 PM PKT
@@ -357,13 +349,17 @@ First reported by The Express Tribune
 - [queued] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
 - [queued] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
 - [queued] normal | Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup | Sat 21 Nov, 08:47 PM PKT
+- [queued] normal | US Midterms 2026: What happens before the new Congress takes office? | Sat 21 Nov, 09:06 PM PKT
+- [queued] normal | Chaudhary's 66 helps Australia edge past England in first T20 | Sat 21 Nov, 09:16 PM PKT
+- [queued] normal | Gujranwala: Neighbors arrested for mother and daughter's murder | Sat 21 Nov, 09:26 PM PKT
+- [queued] normal | Could Iran reverse its stated policy of a civil-only nuclear programme | Sat 21 Nov, 09:36 PM PKT
 
 ## Publishing this run
-- Published 'Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper'.
+- Published 'Illicit alcohol kills 11 people and poisons 180 in northeast India'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6619 | output tokens: 2630
-- Errors: 2
+- Calls: 4 | prompt tokens: 4586 | output tokens: 2200
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -372,3 +368,7 @@ First reported by The Express Tribune
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
