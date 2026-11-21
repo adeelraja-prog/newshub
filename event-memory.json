@@ -101870,7 +101870,840 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "76c1e38ff450c79aa3287e59",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:25:34+00:00",
+      "last_update": "2026-11-21T12:33:05+00:00",
+      "event": "Pakistan bulldoze USA in Azlan Shah Cup",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "azlan",
+        "bulldoze",
+        "cup",
+        "express",
+        "pakistan",
+        "shah",
+        "the",
+        "tribune",
+        "usa"
+      ],
+      "source_excerpt": "Pakistan bulldoze USA in Azlan Shah Cup The Express Tribune",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ0p2b0hrb0pyWW1neGVjd3MwMWZIRjZQTjU2RFBGUGc2Z21zdko3WVZlSFVfV1hkdEVJQWJEWnUyWnFfNTBiTHlZYUEzekNVVGkwQU1fcG5KcHNYalpHTVBSNjFWRFJtWmkyMG15M2VieFdvS2NSUEZIeG1WbU1qTU51cTlrWnhjTUZPaWtKcS0tRTNrOER5R2ln?oc=5",
+          "published_at": "2026-11-21T12:25:34+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUFvbEw4Y050WW41VXB3amxGUHhnZXg1ckpWbVh5Mmp1T2IwTUJTQXJ5MXRJY1V0T0Z3YXRGRHJfQ1FKY3dnOTZMY2xRVTkwVU9fSnJNVnNiSHZXNzJDMzBTYV83ZnJreGp6aThaYWI4VXFUOGZyYURnWFh6Tk9Xekx30gGKAUFVX3lxTE5hWkx1T1JCQUxhN1dfTVRzSlB5WkVjTzkzR0t1b2ZFLUZCZTA2UTh0NFAtd2kyWHRxOXZBYlU3cUpJVlN4Vk1FU1BGcF9DM183MXVVMmRNSW9NVEZmSWNxZTRyRkdmcU8xV1EzUGxkeTFfU2JFdlJGeF9peC1hcnc5YWR1LVl2eXJNQQ?oc=5",
+          "published_at": "2026-11-21T12:33:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUFvbEw4Y050WW41VXB3amxGUHhnZXg1ckpWbVh5Mmp1T2IwTUJTQXJ5MXRJY1V0T0Z3YXRGRHJfQ1FKY3dnOTZMY2xRVTkwVU9fSnJNVnNiSHZXNzJDMzBTYV83ZnJreGp6aThaYWI4VXFUOGZyYURnWFh6Tk9Xekx30gGKAUFVX3lxTE5hWkx1T1JCQUxhN1dfTVRzSlB5WkVjTzkzR0t1b2ZFLUZCZTA2UTh0NFAtd2kyWHRxOXZBYlU3cUpJVlN4Vk1FU1BGcF9DM183MXVVMmRNSW9NVEZmSWNxZTRyRkdmcU8xV1EzUGxkeTFfU2JFdlJGeF9peC1hcnc5YWR1LVl2eXJNQQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4c5fd5a2849337d7f42476a1",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T11:12:39+00:00",
+      "last_update": "2026-11-21T12:31:44+00:00",
+      "event": "SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "626",
+        "639",
+        "according",
+        "and",
+        "angiography",
+        "angioplasty",
+        "attack",
+        "between",
+        "cardiovascular",
+        "diseases",
+        "during",
+        "heart",
+        "institute",
+        "issued",
+        "january",
+        "month",
+        "months",
+        "net",
+        "october",
+        "open",
+        "patients",
+        "performed",
+        "performs",
+        "period",
+        "sicvd",
+        "sindh",
+        "statement",
+        "surgeries",
+        "the",
+        "through",
+        "treated",
+        "treats"
+      ],
+      "source_excerpt": "The Sindh Institute of Cardiovascular Diseases (SICVD) treated 22,639 heart attack patients through angiography and angioplasty and performed 1,626 open-heart surgeries between January and October 2026, according to a statement issued by the institute. During the 10-month period, the institute’s net",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046116/sicvd-treats-22639-heart-attack-patients-performs-1626-surgeries-in-10-months",
+          "published_at": "2026-11-21T11:12:39+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR3RpamVPV18zZWVDcHBkVG5pYm00dnd2dHlwbUJ2Nnl3ajZfRm1ydUtaLV9iU0trTVFnN0pSVzdPYmpJRElwZ05VZlJJWHNmLUZGbWNMTzdrU0tYVTZBaFIxejFUMTFLNS1nTnBlelhiR1I2ZVhfQ0g4N3F0aTVWYk12Ukl0WXpxOWFTdjNNUGpFVGhlbEN2TzRubkprYUtPaEo2c1pQZFpveWI2RlZFSDZtcHNXd1F5OGNaMzRqakNodmN1akx4OHFaTS1NT3dqOC0tOXkyOHZSZw?oc=5",
+          "published_at": "2026-11-21T12:31:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046116/sicvd-treats-22639-heart-attack-patients-performs-1626-surgeries-in-10-months",
+        "publisher_url": "https://www.dawn.com/news/2046116/sicvd-treats-22639-heart-attack-patients-performs-1626-surgeries-in-10-months",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6b35f8a67efe7864682c140f",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:10:22+00:00",
+      "last_update": "2026-11-21T12:10:22+00:00",
+      "event": "Iran says allies China, Russia oppose change in nuclear doctrine",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allies",
+        "change",
+        "china",
+        "doctrine",
+        "iran",
+        "nuclear",
+        "oppose",
+        "russia",
+        "says"
+      ],
+      "source_excerpt": "Iran says allies China, Russia oppose change in nuclear doctrine",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/iran-allies-china-russia-oppose-change-nuclear-doctrine",
+          "published_at": "2026-11-21T12:10:22+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNmQ5RVZzeDdZZGxZdkg5cVAxS19YU28zMkhOR01Rd20teEJQX0ZOTDRibFAxcDVfMG0wLXJzLVh5M0RJYVNjSDFYcEs0T1oxYUt0Tk94aHZiYmFVdFZrM0FOZWlVZkFCY1pZWXJaemlNM0FjV3YzbkNoTVNpbHc?oc=5",
+          "published_at": "2026-11-21T12:10:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/iran-allies-china-russia-oppose-change-nuclear-doctrine",
+        "publisher_url": "https://arynews.tv/iran-allies-china-russia-oppose-change-nuclear-doctrine",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "099c202e4071bca82f830416",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:03:36+00:00",
+      "last_update": "2026-11-21T12:44:21+00:00",
+      "event": "Police submit challan in Hina Javed murder case",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "case",
+        "challan",
+        "hina",
+        "javed",
+        "murder",
+        "police",
+        "submit"
+      ],
+      "source_excerpt": "Police submit challan in Hina Javed murder case",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/police-submit-challan-in-hina-javed-murder-case",
+          "published_at": "2026-11-21T12:03:36+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046119/after-nearly-three-month-delay-police-submit-charge-sheet-in-hina-javed-murder-case",
+          "published_at": "2026-11-21T12:44:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/police-submit-challan-in-hina-javed-murder-case",
+        "publisher_url": "https://arynews.tv/police-submit-challan-in-hina-javed-murder-case",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "de3f3905d4d20017688ec6cf",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T13:08:59+00:00",
+      "last_update": "2026-11-21T13:08:59+00:00",
+      "event": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australia",
+        "ball",
+        "beat",
+        "charge",
+        "chaudhary",
+        "england",
+        "helps",
+        "hit",
+        "leads",
+        "melbourne",
+        "nikhil",
+        "off",
+        "one",
+        "only",
+        "run",
+        "scandal",
+        "shake",
+        "spare",
+        "t20",
+        "three",
+        "wickets",
+        "with"
+      ],
+      "source_excerpt": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+          "published_at": "2026-11-21T13:08:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1ca57444fda4354fc63547cd",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:49:20+00:00",
+      "last_update": "2026-11-21T12:49:20+00:00",
+      "event": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "been",
+        "but",
+        "claimed",
+        "claude",
+        "could",
+        "cracked",
+        "famous",
+        "has",
+        "historic",
+        "hypothesis",
+        "made",
+        "mathematicians",
+        "maths",
+        "may",
+        "most",
+        "problem",
+        "proof",
+        "riemann",
+        "say",
+        "take",
+        "the",
+        "understand",
+        "weeks",
+        "with",
+        "world"
+      ],
+      "source_excerpt": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+          "published_at": "2026-11-21T12:49:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4b29ce59ad9c8900c0691fe0",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:45:24+00:00",
+      "last_update": "2026-11-21T12:54:00+00:00",
+      "event": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attack",
+        "border",
+        "bound",
+        "cargo",
+        "causing",
+        "close",
+        "crew",
+        "damage",
+        "drones",
+        "evacuation",
+        "finland",
+        "gulf",
+        "kaliningrad",
+        "maritime",
+        "russia",
+        "says",
+        "ship",
+        "struck",
+        "two"
+      ],
+      "source_excerpt": "Two drones attack a cargo ship close to Russia's maritime border, causing damage and crew evacuation.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+          "published_at": "2026-11-21T12:45:24+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
+          "published_at": "2026-11-21T12:54:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "733e255bbe9b467d1aa680d4",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:30:49+00:00",
+      "last_update": "2026-11-21T12:30:49+00:00",
+      "event": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "displaced",
+        "displacement",
+        "elderly",
+        "face",
+        "fend",
+        "for",
+        "grandchildren",
+        "hardship",
+        "have",
+        "heartbreak",
+        "life",
+        "often",
+        "sudan",
+        "support",
+        "themselves"
+      ],
+      "source_excerpt": "Sudan's displaced elderly often have to support grandchildren or fend for themselves.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
+          "published_at": "2026-11-21T12:30:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dff375667f51ee25c2d1faea",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:22:24+00:00",
+      "last_update": "2026-11-21T12:22:24+00:00",
+      "event": "Florida residents turn to kayaks and rafts as floods swamp streets",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "around",
+        "creative",
+        "days",
+        "find",
+        "flooded",
+        "floods",
+        "florida",
+        "forcing",
+        "get",
+        "have",
+        "heavy",
+        "kayaks",
+        "rafts",
+        "rain",
+        "residents",
+        "streets",
+        "swamp",
+        "turn",
+        "ways"
+      ],
+      "source_excerpt": "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
+          "published_at": "2026-11-21T12:22:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7bb8cfc47ee7a235fc973a54",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:18:55+00:00",
+      "last_update": "2026-11-21T12:18:55+00:00",
+      "event": "How red squirrels made island their home",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "conservationists",
+        "dwindling",
+        "home",
+        "how",
+        "important",
+        "island",
+        "jersey",
+        "made",
+        "red",
+        "refuge",
+        "say",
+        "squirrels",
+        "that",
+        "the",
+        "their",
+        "with"
+      ],
+      "source_excerpt": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T12:18:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6cb6875640bb5366f7e40181",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T13:17:38+00:00",
+      "last_update": "2026-11-21T13:17:38+00:00",
+      "event": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "109",
+        "acted",
+        "aerial",
+        "after",
+        "attacks",
+        "bridge",
+        "bridges",
+        "crimean",
+        "fair",
+        "kyiv",
+        "meets",
+        "president",
+        "response",
+        "russian",
+        "says",
+        "separate",
+        "streeting",
+        "strikes",
+        "ukraine",
+        "zelensky"
+      ],
+      "source_excerpt": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T13:17:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ae72275ed1e99020efc9e00c",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T13:07:01+00:00",
+      "last_update": "2026-11-21T13:07:01+00:00",
+      "event": "United States",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "jazeera",
+        "states",
+        "united"
+      ],
+      "source_excerpt": "United States Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kaHlsQVZFMmVDb1pOd00tcUdrY0Z2MktQMml3ZHRSQUFMV1VSVGtzYWxGRzdqNU9ER05qSmdjNTRBUGQyUmIwOFpmZmEzM1FYcUFqVzlpcUdmQQ?oc=5",
+          "published_at": "2026-11-21T13:07:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kaHlsQVZFMmVDb1pOd00tcUdrY0Z2MktQMml3ZHRSQUFMV1VSVGtzYWxGRzdqNU9ER05qSmdjNTRBUGQyUmIwOFpmZmEzM1FYcUFqVzlpcUdmQQ?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "99e801e133de18d42a2f323a",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T13:02:25+00:00",
+      "last_update": "2026-11-21T13:11:04+00:00",
+      "event": "Democrats won big in the US midterms. Now what?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "big",
+        "dawn",
+        "democrats",
+        "midterms",
+        "now",
+        "the",
+        "what",
+        "won"
+      ],
+      "source_excerpt": "Democrats won big in the US midterms. Now what? Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNy1nTklzbzhXNjdDS1VwTk9NUmhXV2Z1U29NWVZCdk04RktNcWhuTldhV3N5bUpYMUQxX2NLb0wzdDAyYzhnS244b09ENWM1TXpYcUlEa0xzMlVqSEliV2V2YXFxSE5mRlBtT0xkcHAtOUM4ZzR6dm5QSUYwaDdEeWl0SDZnUQ?oc=5",
+          "published_at": "2026-11-21T13:02:25+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046121/democrats-won-big-in-the-us-midterms-now-what",
+          "published_at": "2026-11-21T13:11:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNy1nTklzbzhXNjdDS1VwTk9NUmhXV2Z1U29NWVZCdk04RktNcWhuTldhV3N5bUpYMUQxX2NLb0wzdDAyYzhnS244b09ENWM1TXpYcUlEa0xzMlVqSEliV2V2YXFxSE5mRlBtT0xkcHAtOUM4ZzR6dm5QSUYwaDdEeWl0SDZnUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4574542480dd12ec48dfad27",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:18:59+00:00",
+      "last_update": "2026-11-21T12:18:59+00:00",
+      "event": "Pakistan's trade deficit widens 17.16% to $14.77bn",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "77bn",
+        "deficit",
+        "pakistan",
+        "samaa",
+        "trade",
+        "widens"
+      ],
+      "source_excerpt": "Pakistan's trade deficit widens 17.16% to $14.77bn samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGd1c01DZzFYb19vZjVxZjJjd3BRY25YNlZXNDZPTVR2Rnh1TWRzSFBqZzNmQTd0UFpRa3JYelgtVmwzbjM5STBRVU0wMGtTblNtZERaYnJlUXgxRENrWWI4RkJLLXl5a0Z6bTExTGVkcUlXNzd4dVBrMWkwX0hLczF2blliMHc?oc=5",
+          "published_at": "2026-11-21T12:18:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGd1c01DZzFYb19vZjVxZjJjd3BRY25YNlZXNDZPTVR2Rnh1TWRzSFBqZzNmQTd0UFpRa3JYelgtVmwzbjM5STBRVU0wMGtTblNtZERaYnJlUXgxRENrWWI4RkJLLXl5a0Z6bTExTGVkcUlXNzd4dVBrMWkwX0hLczF2blliMHc?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7d26a87e19a544b33b00aea4",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:43:54+00:00",
+      "last_update": "2026-11-21T12:43:54+00:00",
+      "event": "Pakistan internet users surpass 120m",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "120m",
+        "internet",
+        "pakistan",
+        "samaa",
+        "surpass",
+        "users"
+      ],
+      "source_excerpt": "Pakistan internet users surpass 120m samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzV5NjhuOElKX0R2Um1aZ1I5YmU0dzVfNzZDVHpRZktSWmlZYS1kaXR6RW1pVHBSNmw3U0xsTEdRN1JYYnE1T1VKVF9hU2FRX05rWFQ5dmxGWFp0d1U3d2xwYzZPRVV1ZGgwS3Brak5SMXd0R2k4VVVoblNTc09BSS1KZ0llaUQ2UDVuWg?oc=5",
+          "published_at": "2026-11-21T12:43:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzV5NjhuOElKX0R2Um1aZ1I5YmU0dzVfNzZDVHpRZktSWmlZYS1kaXR6RW1pVHBSNmw3U0xsTEdRN1JYYnE1T1VKVF9hU2FRX05rWFQ5dmxGWFp0d1U3d2xwYzZPRVV1ZGgwS3Brak5SMXd0R2k4VVVoblNTc09BSS1KZ0llaUQ2UDVuWg?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "646173358b822b9099062156",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:44:32+00:00",
+      "last_update": "2026-11-21T12:44:32+00:00",
+      "event": "CM Murad inaugurates renovated historic Sindh Assembly Hall at NJV School, announces expansion plans",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announces",
+        "assembly",
+        "expansion",
+        "hall",
+        "historic",
+        "inaugurates",
+        "murad",
+        "njv",
+        "plans",
+        "renovated",
+        "school",
+        "sindh"
+      ],
+      "source_excerpt": "CM Murad inaugurates renovated historic Sindh Assembly Hall at NJV School, announces expansion plans",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/cm-murad-inaugurates-renovated-historic-sindh-assembly-hall-at-njv-school-announces-expansion-plans",
+          "published_at": "2026-11-21T12:44:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/cm-murad-inaugurates-renovated-historic-sindh-assembly-hall-at-njv-school-announces-expansion-plans",
+        "publisher_url": "https://arynews.tv/cm-murad-inaugurates-renovated-historic-sindh-assembly-hall-at-njv-school-announces-expansion-plans",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a90303bc7527ce8304cfb01e",
+      "remembered_at": "2026-11-21T13:24:24.101612+00:00",
+      "event_date": "2026-11-21T12:30:57+00:00",
+      "last_update": "2026-11-21T12:30:57+00:00",
+      "event": "Gold prices plunge in Pakistan, fall by Rs3,500 per tola",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500",
+        "fall",
+        "gold",
+        "pakistan",
+        "per",
+        "plunge",
+        "prices",
+        "rs3",
+        "tola"
+      ],
+      "source_excerpt": "Gold prices plunge in Pakistan, fall by Rs3,500 per tola",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/gold-prices-plunge-in-pakistan-fall-by-rs3500-per-tola",
+          "published_at": "2026-11-21T12:30:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/gold-prices-plunge-in-pakistan-fall-by-rs3500-per-tola",
+        "publisher_url": "https://arynews.tv/gold-prices-plunge-in-pakistan-fall-by-rs3500-per-tola",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T12:14:51.925510+00:00"
+  "updated_at": "2026-11-21T13:24:24.101612+00:00"
 }

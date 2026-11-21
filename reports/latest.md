@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 05:14 PM PKT
+# News Hub report - Sat 21 Nov, 06:24 PM PKT
 
 ## Collection
-- New items this run: 77 | items in rolling pool: 479
-- Unique story clusters: 402 (duplicates merged: 77)
-- Clusters dropped as already published/queued: 31; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 37, samaa tv 6, ProPakistani 6, Geo News 4, ARY News 4, Wired 4, TechJuice 4, Al Jazeera 2, ARYnews.tv 1, The News International 1, The Verge 1, Ars Technica 1
+- New items this run: 114 | items in rolling pool: 564
+- Unique story clusters: 477 (duplicates merged: 87)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 52, ARY News 9, Al Jazeera 8, Geo News 7, samaa tv 6, TechJuice 4, Engadget 3, The News International 2, The Verge 2, Pakistan Today 2, ARYnews.tv 1, Dawn 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
+- Pakistan announce new central contracts list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Migrants caravan in Mexico walks towards US border | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russian missiles hit Poland: What happened, and could NATO respond? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Demolition notices for buildings in Hebron provoke fear among Palestinians | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says allies China, Russia oppose change in nuclear doctrine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Pakistan announce new central contracts list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Migrants caravan in Mexico walks towards US border | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russian missiles hit Poland: What happened, and could NATO respond? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Demolition notices for buildings in Hebron provoke fear among Palestinians | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says allies China, Russia oppose change in nuclear doctrine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Pakistan announce new central contracts list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan bulldoze USA in Azlan Shah Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Migrants caravan in Mexico walks towards US border | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russian missiles hit Poland: What happened, and could NATO respond? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Demolition notices for buildings in Hebron provoke fear among Palestinians | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says allies China, Russia oppose change in nuclear doctrine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,15 +38,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
+- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
-- [needs_review] normal | Global Apple Outage Disrupts Key Services Including iCloud And Apple P | Wed 18 Nov, 10:59 AM PKT
-- [needs_review] normal | Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Proj | Wed 18 Nov, 11:09 AM PKT
-- [needs_review] normal | Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar | Wed 18 Nov, 11:19 AM PKT
 - [needs_review] normal | Iran Army Claims Targeting US Military Equipment At Kuwait Base | Wed 18 Nov, 12:03 PM PKT
 - [needs_review] normal | Xi And Putin Meet Ahead Of Historic Trilateral Summit With Trump | Wed 18 Nov, 12:13 PM PKT
 - [needs_review] normal | Health Services Academy Surrenders Over Rs80m Allocated For Key Projec | Wed 18 Nov, 12:23 PM PKT
@@ -56,7 +53,6 @@
 - [needs_review] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
 - [needs_review] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
 - [needs_review] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
-- [published] normal | Grand Theft Auto VI goes live globally after 13-year wait | Wed 18 Nov, 05:38 PM PKT
 - [needs_review] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
 - [published] normal | Xi and Putin Meet in Shenzhen Ahead of Trilateral Summit With Trump | Wed 18 Nov, 06:56 PM PKT
 - [published] normal | Pakistan Army Successfully Tests Fatah-3 Supersonic Cruise Missile | Wed 18 Nov, 07:06 PM PKT
@@ -180,8 +176,8 @@
 - [needs_review] normal | Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb | Fri 20 Nov, 03:20 PM PKT
 - [needs_review] normal | El Salvador’s President Bukele Seeks Third Term After Constitutional C | Fri 20 Nov, 03:30 PM PKT
 - [needs_review] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
-- [queued] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
-- [queued] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
+- [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
+- [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [published] normal | Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizab | Fri 20 Nov, 05:28 PM PKT
 - [published] normal | Bank of Punjab Wins International Award for SME Financing Innovation | Fri 20 Nov, 05:38 PM PKT
 - [published] normal | Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026 | Fri 20 Nov, 05:48 PM PKT
@@ -241,9 +237,9 @@
 - [published] normal | Can Israel’s opposition bloc stay united against Netanyahu? | Sat 21 Nov, 11:30 AM PKT
 - [published] normal | Saudi forces launch major military strikes across Yemen | Sat 21 Nov, 11:40 AM PKT
 - [published] normal | Three suspects remanded into FIA custody over counterfeit vaccine | Sat 21 Nov, 11:50 AM PKT
-- [queued] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
+- [needs_review] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
 - [queued] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
-- [queued] normal | Mustafa Kamal urges PTI to unconditionally support creation of new pro | Sat 21 Nov, 12:51 PM PKT
+- [published] normal | Mustafa Kamal urges PTI to unconditionally support creation of new pro | Sat 21 Nov, 12:51 PM PKT
 - [queued] normal | Basra power station fire in Iraq kills at least four, injures 30 | Sat 21 Nov, 01:01 PM PKT
 - [queued] normal | WhatsApp raises group chat limit to 1,500 members | Sat 21 Nov, 01:11 PM PKT
 - [queued] normal | Father accused of raping daughter killed in CCD encounter in Kot Addu | Sat 21 Nov, 01:21 PM PKT
@@ -262,13 +258,19 @@
 - [queued] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
 
 ## Publishing this run
-- Published 'Three suspects remanded into FIA custody over counterfeit vaccine'.
+- Published 'Mustafa Kamal urges PTI to unconditionally support creation of new provinces'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
 - Errors: 5
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
