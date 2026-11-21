@@ -103887,7 +103887,211 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ed7a281b5c617561723a3e74",
+      "remembered_at": "2026-11-21T16:55:04.988790+00:00",
+      "event_date": "2026-11-21T16:14:01+00:00",
+      "last_update": "2026-11-21T16:14:01+00:00",
+      "event": "India’s opposition stages protests against Meta over account removals",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "account",
+        "against",
+        "all",
+        "congress",
+        "day",
+        "giant",
+        "india",
+        "indian",
+        "issues",
+        "lift",
+        "meta",
+        "opposition",
+        "over",
+        "protests",
+        "removals",
+        "restrictions",
+        "seven",
+        "stages",
+        "technology",
+        "the",
+        "ultimatum",
+        "urging",
+        "youth"
+      ],
+      "source_excerpt": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+          "published_at": "2026-11-21T16:14:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "02621bb003a30375c433e9da",
+      "remembered_at": "2026-11-21T16:55:04.988790+00:00",
+      "event_date": "2026-11-21T16:03:16+00:00",
+      "last_update": "2026-11-21T16:03:16+00:00",
+      "event": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "and",
+        "arrested",
+        "boss",
+        "cartel",
+        "chapo",
+        "charges",
+        "drug",
+        "faces",
+        "fbi",
+        "forces",
+        "isidro",
+        "list",
+        "mexican",
+        "mexico",
+        "most",
+        "sinaloa",
+        "the",
+        "wanted",
+        "was",
+        "who"
+      ],
+      "source_excerpt": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+          "published_at": "2026-11-21T16:03:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bafcf8a5b33656cfe32cd7f2",
+      "remembered_at": "2026-11-21T16:55:04.988790+00:00",
+      "event_date": "2026-11-21T16:12:31+00:00",
+      "last_update": "2026-11-21T16:12:31+00:00",
+      "event": "Hormuz swim highlights environmental cost of war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "campaigner",
+        "challenge",
+        "completes",
+        "cost",
+        "damage",
+        "environmental",
+        "highlights",
+        "hormuz",
+        "lasting",
+        "lewis",
+        "ocean",
+        "pugh",
+        "swim",
+        "war",
+        "warns"
+      ],
+      "source_excerpt": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T16:12:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b8f470d4d78ff8083f0620c1",
+      "remembered_at": "2026-11-21T16:55:04.988790+00:00",
+      "event_date": "2026-11-21T16:16:29+00:00",
+      "last_update": "2026-11-21T16:16:29+00:00",
+      "event": "Ukraine: Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "blooded",
+        "calls",
+        "cold",
+        "killer",
+        "kyiv",
+        "meets",
+        "putin",
+        "streeting",
+        "ukraine",
+        "wes",
+        "zelensky"
+      ],
+      "source_excerpt": "Ukraine: Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81UWpHeDcyWGM2ZXVKMl9ZR2tFOWVZM2dzb0JGVjZHM080akpYU3QwOGNEUVdSbVIzdlk5LTdvVm9Kb1ZhQ1F1NFpRcmZ6NTdUeWpGRHpxdkE?oc=5",
+          "published_at": "2026-11-21T16:16:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81UWpHeDcyWGM2ZXVKMl9ZR2tFOWVZM2dzb0JGVjZHM080akpYU3QwOGNEUVdSbVIzdlk5LTdvVm9Kb1ZhQ1F1NFpRcmZ6NTdUeWpGRHpxdkE?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T16:06:59.528313+00:00"
+  "updated_at": "2026-11-21T16:55:04.988790+00:00"
 }

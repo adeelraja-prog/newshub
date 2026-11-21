@@ -1,35 +1,35 @@
-# News Hub report - Sat 21 Nov, 09:06 PM PKT
+# News Hub report - Sat 21 Nov, 09:55 PM PKT
 
 ## Collection
-- New items this run: 54 | items in rolling pool: 630
-- Unique story clusters: 550 (duplicates merged: 80)
-- Clusters dropped as already published/queued: 23; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 22, samaa tv 3, Geo News 3, ARY News 3, Al Jazeera 3, Engadget 3, The Verge 2, TechCrunch 2, ProPakistani 2, PhoneWorld 2, Dawn 1, The Express Tribune 1
+- New items this run: 57 | items in rolling pool: 646
+- Unique story clusters: 567 (duplicates merged: 79)
+- Clusters dropped as already published/queued: 22; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 34, Engadget 5, Geo News 3, Al Jazeera 2, TechJuice 2, samaa tv 1, The Express Tribune 1, Pakistan Today 1, Reuters 1, BBC Science 1, The National 1, Roger Pielke Jr. | Substack 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Chaudhary helps Australia edge past England to win 1st T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- گوجرانوالہ: ماں بیٹی کے قتل میں پڑوسی ملوث نکلے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Could Iran reverse its stated policy of a civil-only nuclear programme? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Newcastle United vs Arsenal LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man City claw back 1-1 draw with Fulham to end three-game losing streak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Independent review ordered into surgery carried out by NHS Grampian | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- French presidential candidate blames media for racist attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Chaudhary helps Australia edge past England to win 1st T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- گوجرانوالہ: ماں بیٹی کے قتل میں پڑوسی ملوث نکلے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Could Iran reverse its stated policy of a civil-only nuclear programme? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Newcastle United vs Arsenal LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man City claw back 1-1 draw with Fulham to end three-game losing streak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Independent review ordered into surgery carried out by NHS Grampian | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- French presidential candidate blames media for racist attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Chaudhary helps Australia edge past England to win 1st T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- گوجرانوالہ: ماں بیٹی کے قتل میں پڑوسی ملوث نکلے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Could Iran reverse its stated policy of a civil-only nuclear programme? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Newcastle United vs Arsenal LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Tankers hit in Strait of Hormuz as Iran tightens grip on shipping | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man City claw back 1-1 draw with Fulham to end three-game losing streak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Independent review ordered into surgery carried out by NHS Grampian | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- French presidential candidate blames media for racist attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### US Midterms 2026: What happens before the new Congress takes office?  [NORMAL]
-- Poster: امریکہ مڈٹرم انتخابات 2026: نئی کانگریس کے حلف اٹھانے سے پہلے کیا ہوگا؟ / US Midterms 2026: What happens before the new Congress takes office? | category us_politics
-- Alternative headline: Navigating the transition period after the 2026 US midterm elections
+### Africa's CAF Backs FIFA President Infantino's Re-election  [NORMAL]
+- Poster: افریقہ کی جانب سے فیفا صدر انفیٹینو کی حمایت کا اعلان / Africa Backs FIFA President Infantino | category sports
+- Alternative headline: Motsepe Reaffirms African Support for FIFA Head Gianni Infantino
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: US midterms 2026, US Congress, Democrats, transition period, midterm elections | hashtags: #USMidterms2026 #USPolitics #Congress #Democrats
-- Scheduled: Sat 21 Nov, 09:06 PM PKT
+- Keywords: Gianni Infantino, CAF, Motsepe, FIFA, Diallo, football | hashtags: #FIFA #GianniInfantino #CAF #Football #Sports
+- Scheduled: Sat 21 Nov, 09:55 PM PKT
 - Caption:
 ```
-Explore the critical political transition period in the US following the recent midterm elections and ahead of the new Congress taking control.
+African football leadership has joined South America in offering unanimous backing for FIFA President Gianni Infantino's upcoming re-election bid.
 
-Following the US midterm elections, attention turns to the transition period before the new Congress takes office in January, examining the political dynamics and legislative processes that unfold as Democrats prepare to take control.
+Africa's football governing body CAF has joined South America's CONMEBOL in giving unanimous support to FIFA President Gianni Infantino's re-election bid, with Diallo also present at the gathering.
 
-امریکہ کے مڈٹرم انتخابات کے بعد، تمام کی توجہ جنوری میں نئی کانگریس کے حلف اٹھانے سے پہلے کے انتقالِ اقتدار کے دور پر مرکوز ہے، جس میں سیاسی حرکیات اور قانون سازی کے عمل کا جائزہ لیا جا رہا ہے۔
+افریقہ کے فٹبال گورننگ باڈی سی اے ایف نے جنوبی امریکہ کے کونمبول کے ساتھ مل کر فیفا کے صدر گیانی انفیٹینو کی دوبارہ انتخاب کے لیے متفقہ حمایت کا اعلان کر دیا ہے۔
 
-According to a published report by Al Jazeera
+First reported by Al Jazeera.
 
-#USMidterms2026 #USPolitics #Congress #Democrats
+#FIFA #GianniInfantino #CAF #Football #Sports
 ```
 
-### Chaudhary's 66 helps Australia edge past England in first T20  [NORMAL]
-- Poster: چوہدری کی شاندار اننگز، آسٹریلیا نے پہلے ٹی ٹوئنٹی میں انگلینڈ کو شکست دے دی / Chaudhary helps Australia edge past England to win 1st T20 | category sports
-- Alternative headline: Australia defeat England by three wickets in thrilling opening T20
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/chaudhary-helps-australia-edge-past-england-to-win-1st-t20 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/chaudhary-helps-australia-edge-past-england-to-win-1st-t20
-- Supporting coverage: ARY News, Dawn Latest
-- Keywords: Nikhil Chaudhary, Australia vs England, T20 international, Melbourne Cricket Ground, Jack Edwards | hashtags: #AUSvENG #T20Cricket #NikhilChaudhary #AustraliaCricket
-- Scheduled: Sat 21 Nov, 09:16 PM PKT
-- Caption:
-```
-Nikhil Chaudhary starred with a brilliant 66 as Australia edged past England by three wickets in a thrilling opening T20 international.
-
-Nikhil Chaudhary blasted 66 runs and Jack Edwards contributed a vital unbeaten 25 to help Australia defeat England by three wickets with a ball to spare in the opening T20 international, taking a 1-0 lead in the five-match series at the Melbourne Cricket Ground.
-
-نکھل چوہدری نے 66 رنز کی شاندار اننگز کھیلی اور جیک ایڈورڈز کے 25 ناٹ آؤٹ رنز کی بدولت آسٹریلیا نے پہلے ٹی ٹوئنٹی میچ میں انگلینڈ کو تین وکٹوں سے شکست دے کر پانچ میچوں کی سیریز میں ایک صفر کی برتری حاصل کر لی۔
-
-First reported by ARY News; also reported by Dawn
-
-#AUSvENG #T20Cricket #NikhilChaudhary #AustraliaCricket
-```
-
-### Gujranwala: Neighbors arrested for mother and daughter's murder  [NORMAL]
-- Poster: گوجرانوالہ: ماں بیٹی کے قتل میں ملوث دو پڑوسی گرفتار / Gujranwala: Neighbors arrested for mother and daughter's murder | category crime
-- Alternative headline: Two brothers held over robbery-related murder in Gujranwala
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Jang Urdu https://jang.com.pk/news/1635482 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Jang Urdu https://jang.com.pk/news/1635482
-- Supporting coverage: Jang Urdu, UrduPoint
-- Keywords: Gujranwala murder, Model Town, CCG, robbery murder, arrests | hashtags: #Gujranwala #CrimeNews #PakistanPolice #Justice
-- Scheduled: Sat 21 Nov, 09:26 PM PKT
-- Caption:
-```
-Police have arrested two neighbor brothers in Gujranwala for their alleged involvement in the robbery-slaying of a mother and daughter.
-
-Two brothers, who are neighbors of the victims, have been arrested by the CCG in Gujranwala's Model Town for murdering a mother and daughter during a robbery on November 17, after breaking in through the roof to steal cash and jewelry.
-
-گوجرانوالہ کے ماڈل ٹاؤن میں 17 نومبر کو ڈکیتی کے دوران مزاحمت پر ماں بیٹی کے قتل میں ملوث دو سگے بھائیوں کو گرفتار کر لیا گیا ہے جو کہ مقتولین کے پڑوسی ہیں۔
-
-First reported by Jang Urdu; also reported by UrduPoint
-
-#Gujranwala #CrimeNews #PakistanPolice #Justice
-```
-
-### Could Iran reverse its stated policy of a civil-only nuclear programme?  [NORMAL]
-- Poster: کیا ایران اپنے پرامن جوہری پروگرام کی پالیسی تبدیل کر سکتا ہے؟ / Could Iran reverse its stated policy of a civil-only nuclear programme? | category security
-- Alternative headline: Iran's Foreign Minister hints at major strategic debate over nuclear doctrine
+### Newcastle United Faces Arsenal in Premier League Clash  [NORMAL]
+- Poster: پریمیئر لیگ: نیوکاسل یونائیٹڈ اور آرسنال کا مقابلہ / Newcastle vs Arsenal in Premier League | category sports
+- Alternative headline: Live Updates: Newcastle United Take on Arsenal in Premier League
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Iran nuclear programme, Abbas Araghchi, nuclear doctrine, Iran foreign policy, strategic debate | hashtags: #Iran #NuclearProgram #MiddleEast #Geopolitics
-- Scheduled: Sat 21 Nov, 09:36 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Premier League, Newcastle United, Arsenal, live updates, football, match | hashtags: #PremierLeague #NewcastleUnited #Arsenal #NewARS #Football
+- Scheduled: Sat 21 Nov, 10:05 PM PKT
 - Caption:
 ```
-Iranian Foreign Minister Araghchi highlights a major strategic debate regarding the future direction of the country's nuclear doctrine.
+Catch all the live updates, analysis, and build-up from the Premier League showdown between Newcastle United and Arsenal.
 
-Iranian Foreign Minister Abbas Araghchi has stated that a major strategic debate is underway regarding the future of Iran's nuclear doctrine, raising questions about whether Tehran could potentially reverse its policy of maintaining a strictly civil-only nuclear programme.
+Football fans can follow live updates, pre-match analysis, and minute-by-minute text commentary as Newcastle United squares off against Arsenal in a crucial Premier League fixture.
 
-ایران کے وزیر خارجہ عراقچی نے کہا ہے کہ ملک کے جوہری نظریہ کے مستقبل کے حوالے سے ایک بڑا اسٹریٹجک مباحثہ جاری ہے، جس سے یہ سوال اٹھتا ہے کہ آیا ایران اپنے پرامن جوہری پروگرام کی پالیسی کو بدل سکتا ہے۔
+فٹبال کے شائقین نیوکاسل یونائیٹڈ اور آرسنال کے درمیان پریمیئر لیگ کے اہم مقابلے کی براہ راست اپ ڈیٹس اور تبصرے دیکھ سکتے ہیں۔
 
-According to a published report by Al Jazeera
+First reported by Al Jazeera.
 
-#Iran #NuclearProgram #MiddleEast #Geopolitics
+#PremierLeague #NewcastleUnited #Arsenal #NewARS #Football
 ```
 
-- Indian outlets blocked this run: 1 items
+### Tankers Hit in Strait of Hormuz Amid Rising Tensions  [NORMAL]
+- Poster: آبنائے ہرمز میں ٹینکرز پر حملے، جہاز رانی متاثر / Tankers Hit in Strait of Hormuz | category security
+- Alternative headline: Strait of Hormuz Incidents: Tankers Damaged Near Oman
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Strait of Hormuz, tankers, Iran, Oman, maritime, shipping | hashtags: #StraitOfHormuz #Iran #Shipping #MaritimeSecurity #BreakingNews
+- Scheduled: Sat 21 Nov, 10:15 PM PKT
+- Caption:
+```
+A British maritime agency reports multiple incidents involving tankers near Oman as regional shipping tensions escalate.
+
+Two shipping incidents have been reported near Oman in the Strait of Hormuz by a British maritime agency, while Iranian authorities claim a tanker caught fire due to a naval mine.
+
+برطانوی بحری ایجنسی نے عمان کے قریب دو بحری واقعات کی اطلاع دی ہے، جبکہ ایران کا کہنا ہے کہ بحری بارودی سرنگ کے باعث ایک ٹینکر میں آگ لگ گئی۔
+
+First reported by Al Jazeera.
+
+#StraitOfHormuz #Iran #Shipping #MaritimeSecurity #BreakingNews
+```
+
+### Independent Review Ordered into NHS Grampian Surgery Deaths  [NORMAL]
+- Poster: این ایچ ایس گرامپین میں مبینہ ہلاکتوں پر انکوائری کا حکم / Independent Review into NHS Grampian | category health
+- Alternative headline: Scottish Government Orders Probe into NHS Grampian Avoidable Deaths
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: NHS Grampian, independent review, surgery, whistleblower, Scottish government, patient safety | hashtags: #NHSGrampian #PatientSafety #Healthcare #Scotland #News
+- Scheduled: Sat 21 Nov, 10:25 PM PKT
+- Caption:
+```
+The Scottish government has ordered an independent review after leaked documents revealed dozens of avoidable deaths at NHS Grampian.
+
+The Scottish government has initiated an independent review into hepatobiliary surgery at NHS Grampian. A leaked whistleblower report revealed 19 out of 31 liver and pancreatic surgery deaths between cases were considered avoidable, prompting demands for strict accountability.
+
+سکاٹش حکومت نے این ایچ ایس گرامپین میں جگر اور لبلبے کی سرجری کے معاملات پر ایک آزادانہ جائزے کا حکم دیا ہے، جہاں مبینہ طور پر 19 اموات سے بچا جا سکتا تھا۔
+
+First reported by BBC Health.
+
+#NHSGrampian #PatientSafety #Healthcare #Scotland #News
+```
+
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 23 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
 
 ## Queue status
 - [needs_review] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
@@ -333,9 +333,9 @@ According to a published report by Al Jazeera
 - [needs_review] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
 - [published] normal | Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper | Sat 21 Nov, 02:19 PM PKT
 - [published] normal | Illicit alcohol kills 11 people and poisons 180 in northeast India | Sat 21 Nov, 03:29 PM PKT
-- [queued] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
-- [queued] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
-- [queued] normal | Three US citizens among four convicted in Honduras sex-trafficking cas | Sat 21 Nov, 03:59 PM PKT
+- [needs_review] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
+- [needs_review] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
+- [published] normal | Three US citizens among four convicted in Honduras sex-trafficking cas | Sat 21 Nov, 03:59 PM PKT
 - [queued] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
 - [queued] normal | Govt rejects PTI demand on electoral reforms committee | Sat 21 Nov, 04:22 PM PKT
 - [queued] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
@@ -353,17 +353,18 @@ According to a published report by Al Jazeera
 - [queued] normal | Chaudhary's 66 helps Australia edge past England in first T20 | Sat 21 Nov, 09:16 PM PKT
 - [queued] normal | Gujranwala: Neighbors arrested for mother and daughter's murder | Sat 21 Nov, 09:26 PM PKT
 - [queued] normal | Could Iran reverse its stated policy of a civil-only nuclear programme | Sat 21 Nov, 09:36 PM PKT
+- [queued] normal | Africa's CAF Backs FIFA President Infantino's Re-election | Sat 21 Nov, 09:55 PM PKT
+- [queued] normal | Newcastle United Faces Arsenal in Premier League Clash | Sat 21 Nov, 10:05 PM PKT
+- [queued] normal | Tankers Hit in Strait of Hormuz Amid Rising Tensions | Sat 21 Nov, 10:15 PM PKT
+- [queued] normal | Independent Review Ordered into NHS Grampian Surgery Deaths | Sat 21 Nov, 10:25 PM PKT
 
 ## Publishing this run
-- Published 'Illicit alcohol kills 11 people and poisons 180 in northeast India'.
+- Published 'Three US citizens among four convicted in Honduras sex-trafficking case'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 4586 | output tokens: 2200
+- Calls: 4 | prompt tokens: 4437 | output tokens: 2177
 - Errors: 3
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
