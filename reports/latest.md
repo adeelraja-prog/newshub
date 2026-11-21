@@ -1,36 +1,35 @@
-# News Hub report - Sat 21 Nov, 04:22 PM PKT
+# News Hub report - Sat 21 Nov, 05:14 PM PKT
 
 ## Collection
-- New items this run: 91 | items in rolling pool: 419
-- Unique story clusters: 348 (duplicates merged: 71)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 51, Al Jazeera 8, ProPakistani 7, ARY News 5, Geo News 3, The Current 2, ABC News - Breaking News, Latest News and Videos 2, samaa tv 1, Dawn 1, The Express Tribune 1, Dawn Pakistan 1, Aaj English TV 1
+- New items this run: 77 | items in rolling pool: 479
+- Unique story clusters: 402 (duplicates merged: 77)
+- Clusters dropped as already published/queued: 31; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 37, samaa tv 6, ProPakistani 6, Geo News 4, ARY News 4, Wired 4, TechJuice 4, Al Jazeera 2, ARYnews.tv 1, The News International 1, The Verge 1, Ars Technica 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | https://www.youtube.com/watch?v=d4Sc-9HBQ2g
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Govt rejects PTI demand on electoral reforms committee | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Warner and Khawaja taken off air over ‘Sandpapergate’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mohammad Rizwan, Shan Masood, Saim Ayub dropped as PCB unveils central contracts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drug combo shrank tumours in most pancreatic cancer patients, trial finds | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Deal with EU not dependent on tuition fees agreement, Miliband says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Migrants caravan in Mexico walks towards US border | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian missiles hit Poland: What happened, and could NATO respond? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Demolition notices for buildings in Hebron provoke fear among Palestinians | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Govt rejects PTI demand on electoral reforms committee | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Warner and Khawaja taken off air over ‘Sandpapergate’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mohammad Rizwan, Shan Masood, Saim Ayub dropped as PCB unveils central contracts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drug combo shrank tumours in most pancreatic cancer patients, trial finds | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Deal with EU not dependent on tuition fees agreement, Miliband says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Migrants caravan in Mexico walks towards US border | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian missiles hit Poland: What happened, and could NATO respond? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Demolition notices for buildings in Hebron provoke fear among Palestinians | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Govt rejects PTI demand on electoral reforms committee | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Warner and Khawaja taken off air over ‘Sandpapergate’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mohammad Rizwan, Shan Masood, Saim Ayub dropped as PCB unveils central contracts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drug combo shrank tumours in most pancreatic cancer patients, trial finds | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Deal with EU not dependent on tuition fees agreement, Miliband says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Office drought alert for Sindh, Balochistan and South Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Migrants caravan in Mexico walks towards US border | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian missiles hit Poland: What happened, and could NATO respond? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Demolition notices for buildings in Hebron provoke fear among Palestinians | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -39,111 +38,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Govt rejects PTI demand on electoral reforms committee  [NORMAL]
-- Poster: حکومت نے انتخابی اصلاحات کمیٹی کے لیے پی ٹی آئی کا مطالبہ مسترد کر دیا / Govt Rejects PTI Demand On Electoral Reforms Committee | category politics
-- Alternative headline: Govt refuses PTI demand for equal representation in electoral reforms body
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3A3VllPSmplc2dmbjBXaV9jRFlRcEVEb1V2UE9VSlJEQnh6b1JrYXhCXzlZMTlIcHgzR0d2WnpocXhQZ3FZcEU4WUtsMnZxbGlEYldTcHRldElqUEVocW9uNnhXSWFhN3dZWi1NaER0dVF3Zk1YODRkZjVRaFdDenJNUzlETUpYRVVjLUE5SGI4MWlIX0xENmxKdUtnU0d5Smp2WEYyQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3A3VllPSmplc2dmbjBXaV9jRFlRcEVEb1V2UE9VSlJEQnh6b1JrYXhCXzlZMTlIcHgzR0d2WnpocXhQZ3FZcEU4WUtsMnZxbGlEYldTcHRldElqUEVocW9uNnhXSWFhN3dZWi1NaER0dVF3Zk1YODRkZjVRaFdDenJNUzlETUpYRVVjLUE5SGI4MWlIX0xENmxKdUtnU0d5Smp2WEYyQQ?oc=5
-- Supporting coverage: samaa tv, ARY News, Minute Mirror
-- Keywords: electoral reforms, PTI, government, committee, demand, rejections | hashtags: #ElectoralReforms #PTI #Government #PakistanPolitics #News
-- Scheduled: Sat 21 Nov, 04:22 PM PKT
-- Caption:
-```
-The government has officially rejected the Pakistan Tehreek-e-Insaf's demand regarding the parliamentary electoral reforms committee.
-
-The government has rejected the demand made by Pakistan Tehreek-e-Insaf (PTI) regarding the electoral reforms committee. The refusal concerns the representation structure within the parliamentary body tasked with electoral reforms.
-
-حکومت نے انتخابی اصلاحات کمیٹی کے حوالے سے پاکستان تحریک انصاف کا مطالبہ مسترد کر دیا۔ یہ انکار پارلیمانی ادارے میں نمائندگی کے تنازع پر کیا گیا ہے۔
-
-First reported by samaa tv
-
-#ElectoralReforms #PTI #Government #PakistanPolitics #News
-```
-
-### Warner and Khawaja taken off air over Sandpapergate storm  [NORMAL]
-- Poster: سینڈ پیپر گیٹ اسکینڈل: عثمان خواجہ اور ڈیوڈ وارنر کمنٹری سے ہٹا دیے گئے / Warner And Khawaja Taken Off Air Over Sandpapergate | category sports
-- Alternative headline: Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/warner-and-khawaja-taken-off-air-over-sandpapergate | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/warner-and-khawaja-taken-off-air-over-sandpapergate
-- Supporting coverage: ARY News, Al Jazeera
-- Keywords: Sandpapergate, Usman Khawaja, David Warner, Fox Sports, cricket, Australia | hashtags: #Sandpapergate #UsmanKhawaja #DavidWarner #CricketNews #FoxSports
-- Scheduled: Sat 21 Nov, 04:32 PM PKT
-- Caption:
-```
-Cricket stars Usman Khawaja and David Warner have been removed from television commentary duties following the recent Sandpapergate controversy.
-
-Usman Khawaja and David Warner were taken off television commentary duties by Fox Sports until the Sandpapergate storm passes. Both are set to miss Australia's entire Twenty20 series against England following recent claims made in Khawaja's autobiography regarding the 2018 South Africa Test.
-
-عثمان خواجہ اور ڈیوڈ وارنر کو سینڈ پیپر گیٹ کے تنازع کے باعث ٹی وی کمنٹری کی ذمہ داریوں سے ہٹا دیا گیا ہے۔ دونوں کھلاڑی انگلینڈ کے خلاف ٹی ٹوئنٹی سیریز سے بھی باہر ہو گئے ہیں۔
-
-First reported by ARY News; also reported by Al Jazeera
-
-#Sandpapergate #UsmanKhawaja #DavidWarner #CricketNews #FoxSports
-```
-
-### Rizwan, Masood, and Ayub dropped as PCB unveils central contracts  [NORMAL]
-- Poster: پی سی بی کے نئے سینٹرل کنٹریکٹس کا اعلان، محمد رضوان اور شان مسعود باہر / Rizwan And Masood Dropped In PCB Central Contracts | category sports
-- Alternative headline: PCB leaves Mohammad Rizwan, Shan Masood out of its latest central contracts
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMitgFBVV95cUxPZXBuY3ZoVkJjT3JxbEtDcmdVeE1PM0lFMl9PNXBEQXRNbFlLQldCWmlZbjBxZ0ZOOU5sNGJPejkzSXI3RTJkQldiOE5DSmZxWDc0VGlrcXJOTVRfeXhmckEwbFJ2MndmT2pRMFpjV2Z5eUxwNmlVM05MR3FicEJDdm9POVFMLVQzMTgzYll6MUFqV3dWSlhuQzBTaGFUY0RBU0hsTVdGcmZwN2tvc2gzVVZhcVhFd9IBvgFBVV95cUxOdkRSZU1jMjItbnQtY09wZ2g5cmJEb3laNDBEYzR2c0pfWWhWWmlub2lkRDJ3UGZGcW9wYXpXNEJSVjVEX3ZJeVFXN0E1cG15c0tlMGFSR1hBSzVGdm9oMzRVY1BXRy1DOElfTmlkMHl1bVNqMmhsYUloTmJiLXUzWlE1WDVYMTgyanlvMTZ3YW9WVUVkLThFVThkT2xSNkU3WUdDNjFPaENrM2VfdUtkQ296bk9zZ08wWWttS2ZR?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMitgFBVV95cUxPZXBuY3ZoVkJjT3JxbEtDcmdVeE1PM0lFMl9PNXBEQXRNbFlLQldCWmlZbjBxZ0ZOOU5sNGJPejkzSXI3RTJkQldiOE5DSmZxWDc0VGlrcXJOTVRfeXhmckEwbFJ2MndmT2pRMFpjV2Z5eUxwNmlVM05MR3FicEJDdm9POVFMLVQzMTgzYll6MUFqV3dWSlhuQzBTaGFUY0RBU0hsTVdGcmZwN2tvc2gzVVZhcVhFd9IBvgFBVV95cUxOdkRSZU1jMjItbnQtY09wZ2g5cmJEb3laNDBEYzR2c0pfWWhWWmlub2lkRDJ3UGZGcW9wYXpXNEJSVjVEX3ZJeVFXN0E1cG15c0tlMGFSR1hBSzVGdm9oMzRVY1BXRy1DOElfTmlkMHl1bVNqMmhsYUloTmJiLXUzWlE1WDVYMTgyanlvMTZ3YW9WVUVkLThFVThkT2xSNkU3WUdDNjFPaENrM2VfdUtkQ296bk9zZ08wWWttS2ZR?oc=5
-- Supporting coverage: The Current, The Express Tribune
-- Keywords: PCB central contracts, Mohammad Rizwan, Shan Masood, Saim Ayub, PCB, cricket | hashtags: #PCB #MohammadRizwan #ShanMasood #PakistanCricket #CentralContracts
-- Scheduled: Sat 21 Nov, 04:42 PM PKT
-- Caption:
-```
-The Pakistan Cricket Board has announced its latest central contracts, leaving out high-profile players like Mohammad Rizwan and Shan Masood.
-
-Mohammad Rizwan, Shan Masood, and Saim Ayub have been dropped as the Pakistan Cricket Board (PCB) unveiled its latest central contracts for national cricketers.
-
-پاکستان کرکٹ بورڈ (پی سی بی) کی جانب سے نئے سینٹرل کنٹریکٹس کا اعلان کر دیا گیا ہے جس میں محمد رضوان، شان مسعود اور صائم ایوب کو شامل نہیں کیا گیا۔
-
-First reported by The Express Tribune
-
-#PCB #MohammadRizwan #ShanMasood #PakistanCricket #CentralContracts
-```
-
-### New drug combo shrinks tumours in most pancreatic cancer patients  [NORMAL]
-- Poster: نئی دوا کا کامیاب تجربہ، لبلبے کے کینسر کے ٹیومر سکڑ گئے / New Drug Combo Shrinks Pancreatic Tumours | category health
-- Alternative headline: Drug combo shrank tumours in most pancreatic cancer patients, trial finds
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692056-drug-combo-shrank-tumours-in-most-pancreatic-cancer-patients-trial-finds | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692056-drug-combo-shrank-tumours-in-most-pancreatic-cancer-patients-trial-finds
-- Supporting coverage: Geo News
-- Keywords: pancreatic cancer drug, daraxonrasib, cancer trial, tumours, chemotherapy, health | hashtags: #CancerResearch #PancreaticCancer #MedicalBreakthrough #HealthNews #ClinicalTrial
-- Scheduled: Sat 21 Nov, 04:52 PM PKT
-- Caption:
-```
-Clinical trial results show a new daily pill combined with chemotherapy significantly shrinks tumours in advanced pancreatic cancer patients.
-
-A clinical trial presented at the EORTC-NCI-AACR Symposium in Barcelona revealed that a new pill called daraxonrasib combined with standard chemotherapy shrank tumours and stopped their growth in nearly all of the 61 advanced pancreatic cancer patients tested.
-
-بارسلونا میں ایک طبی کانفرنس کے دوران پیش کی جانے والی تحقیق سے انکشاف ہوا ہے کہ ایک نئی دوا اور کیموتھراپی کے امتزاج سے لبلبے کے کینسر کے مریضوں کے ٹیومر میں نمایاں کمی دیکھی گئی ہے۔
-
-First reported by Geo News
-
-#CancerResearch #PancreaticCancer #MedicalBreakthrough #HealthNews #ClinicalTrial
-```
-
-- Indian outlets blocked this run: 6 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
-- [needs_review] normal | Two killed in Balochistan's Zhob roadside blast | Wed 18 Nov, 09:55 AM PKT
-- [needs_review] normal | PTI questions Bilawal’s late realisation of people’s hardships | Wed 18 Nov, 10:05 AM PKT
-- [needs_review] normal | Balochistan MPs pledge resolution backing journalists | Wed 18 Nov, 10:15 AM PKT
 - [needs_review] normal | Global Apple Outage Disrupts Key Services Including iCloud And Apple P | Wed 18 Nov, 10:59 AM PKT
 - [needs_review] normal | Pakistan And Saudi Firm Explore Proposed $30 Billion Gas Pipeline Proj | Wed 18 Nov, 11:09 AM PKT
 - [needs_review] normal | Woman Acquitted Of Murder Shot Dead Along With Her Father In Bhakkar | Wed 18 Nov, 11:19 AM PKT
@@ -155,7 +55,6 @@ First reported by Geo News
 - [needs_review] normal | Pakistan and Turkiye Discuss Expanding Defence and Aerospace Cooperati | Wed 18 Nov, 02:37 PM PKT
 - [needs_review] normal | Sri Lankan Bowlers Trigger Pakistan Collapse in Second Test | Wed 18 Nov, 02:47 PM PKT
 - [needs_review] normal | Pakistan Receives Record-Breaking Shipment of 15,000 Tons of LPG at Po | Wed 18 Nov, 03:40 PM PKT
-- [published] normal | Sindh Launches Online Portal for Domicile and PRC Applications | Wed 18 Nov, 04:36 PM PKT
 - [needs_review] normal | Khawaja Asif Hits Back at Bilawal: 'He Who Claims Equity Must Come Wit | Wed 18 Nov, 04:46 PM PKT
 - [published] normal | Grand Theft Auto VI goes live globally after 13-year wait | Wed 18 Nov, 05:38 PM PKT
 - [needs_review] normal | NASA's Voyager 1 probe reaches one light-day milestone | Wed 18 Nov, 05:48 PM PKT
@@ -341,7 +240,7 @@ First reported by Geo News
 - [needs_review] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
 - [published] normal | Can Israel’s opposition bloc stay united against Netanyahu? | Sat 21 Nov, 11:30 AM PKT
 - [published] normal | Saudi forces launch major military strikes across Yemen | Sat 21 Nov, 11:40 AM PKT
-- [queued] normal | Three suspects remanded into FIA custody over counterfeit vaccine | Sat 21 Nov, 11:50 AM PKT
+- [published] normal | Three suspects remanded into FIA custody over counterfeit vaccine | Sat 21 Nov, 11:50 AM PKT
 - [queued] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
 - [queued] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [queued] normal | Mustafa Kamal urges PTI to unconditionally support creation of new pro | Sat 21 Nov, 12:51 PM PKT
@@ -363,24 +262,22 @@ First reported by Geo News
 - [queued] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
 
 ## Publishing this run
-- Published 'Saudi forces launch major military strikes across Yemen'.
+- Published 'Three suspects remanded into FIA custody over counterfeit vaccine'.
 
 ## Gemini usage
-- Calls: 6 | prompt tokens: 5110 | output tokens: 2271
-- Errors: 4
-  - Gemini gemini-3.8-flash: HTTP 503 {
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "message"

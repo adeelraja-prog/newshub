@@ -101584,7 +101584,293 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d2245f32e06610a6947a20cc",
+      "remembered_at": "2026-11-21T12:14:51.925510+00:00",
+      "event_date": "2026-11-21T12:07:04+00:00",
+      "last_update": "2026-11-21T12:07:04+00:00",
+      "event": "Met Office drought alert for Sindh, Balochistan and South Punjab",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alert",
+        "and",
+        "arynews",
+        "balochistan",
+        "drought",
+        "for",
+        "met",
+        "office",
+        "punjab",
+        "sindh",
+        "south"
+      ],
+      "source_excerpt": "Met Office drought alert for Sindh, Balochistan and South Punjab ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EMHhsQzgzMEltUGI4Y1FhaHNyODNURE9DZHZ4LWNkaUo1eklzb1NsTHRyX1B2ZW9fSk00UTBfa0dTS1hHR1ZEYU5aRlprd3QzWlVVd1NXcG1uNG5SS1NQNkFCbGlIQ01VRTBONVZrR0JuMy1GU040UDFKZElrUGM?oc=5",
+          "published_at": "2026-11-21T12:07:04+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/met-office-drought-alert-sindh-balochistan-south-punjab",
+          "published_at": "2026-11-21T12:07:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EMHhsQzgzMEltUGI4Y1FhaHNyODNURE9DZHZ4LWNkaUo1eklzb1NsTHRyX1B2ZW9fSk00UTBfa0dTS1hHR1ZEYU5aRlprd3QzWlVVd1NXcG1uNG5SS1NQNkFCbGlIQ01VRTBONVZrR0JuMy1GU040UDFKZElrUGM?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "648276e6b6200abbed766c34",
+      "remembered_at": "2026-11-21T12:14:51.925510+00:00",
+      "event_date": "2026-11-21T11:53:56+00:00",
+      "last_update": "2026-11-21T11:53:56+00:00",
+      "event": "Mexico captures FBI-wanted cartel boss in military raid",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "boss",
+        "captured",
+        "captures",
+        "cartel",
+        "chapo",
+        "fbi",
+        "guasave",
+        "isidro",
+        "leader",
+        "mexico",
+        "military",
+        "raid",
+        "sinaloa",
+        "wanted"
+      ],
+      "source_excerpt": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+          "published_at": "2026-11-21T11:53:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b50fa1cc0a63853255e5d9b",
+      "remembered_at": "2026-11-21T12:14:51.925510+00:00",
+      "event_date": "2026-11-21T11:39:03+00:00",
+      "last_update": "2026-11-21T11:39:03+00:00",
+      "event": "Why is GTA VI so expensive to play?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ajlabs",
+        "auto",
+        "buy",
+        "costs",
+        "expensive",
+        "explains",
+        "far",
+        "goes",
+        "grand",
+        "gta",
+        "less",
+        "money",
+        "more",
+        "play",
+        "than",
+        "the",
+        "theft",
+        "where",
+        "why",
+        "yet"
+      ],
+      "source_excerpt": "Grand Theft Auto VI costs less than GTA V to buy, yet far more to play. AJLabs explains where the money goes.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss",
+          "published_at": "2026-11-21T11:39:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "95e2712030c2d9748436d063",
+      "remembered_at": "2026-11-21T12:14:51.925510+00:00",
+      "event_date": "2026-11-21T12:09:49+00:00",
+      "last_update": "2026-11-21T12:09:49+00:00",
+      "event": "Sessions offer advice on rising energy costs",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advice",
+        "costs",
+        "council",
+        "energy",
+        "heating",
+        "offer",
+        "people",
+        "rising",
+        "seek",
+        "sessions",
+        "support",
+        "this",
+        "urging",
+        "winter",
+        "with"
+      ],
+      "source_excerpt": "A council is urging people to seek support with rising energy costs on heating this winter.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T12:09:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "af1c368ca8977edafa212fcd",
+      "remembered_at": "2026-11-21T12:14:51.925510+00:00",
+      "event_date": "2026-11-21T12:00:03+00:00",
+      "last_update": "2026-11-21T12:00:03+00:00",
+      "event": "Princess of Wales: Catherine talks about her cancer journey in new documentary Heal",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "bbc",
+        "cancer",
+        "catherine",
+        "documentary",
+        "heal",
+        "her",
+        "journey",
+        "new",
+        "princess",
+        "talks",
+        "wales"
+      ],
+      "source_excerpt": "Princess of Wales: Catherine talks about her cancer journey in new documentary Heal BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5",
+          "published_at": "2026-11-21T12:00:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e3a7da38099629ddc31e7660",
+      "remembered_at": "2026-11-21T12:14:51.925510+00:00",
+      "event_date": "2026-11-21T12:12:55+00:00",
+      "last_update": "2026-11-21T12:12:55+00:00",
+      "event": "Imran Khan, Bushra Bibi undergo medical check-ups at Adiala Jail",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adiala",
+        "bibi",
+        "bushra",
+        "check",
+        "imran",
+        "jail",
+        "khan",
+        "medical",
+        "samaa",
+        "undergo",
+        "ups"
+      ],
+      "source_excerpt": "Imran Khan, Bushra Bibi undergo medical check-ups at Adiala Jail samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFNCYUc5dk1vODJWZXh3cGdmNldMbEZiZXFkVUtibkdRbmUzT2swZXl6Q2lvZE5uajMxYUpvd1FVbTVwLUQ5OFFsWTN2MzZiVzRUdTJvMmFlNkFsRFcySVMxOVdBZWZ2Q0thTFdoYUpMbGlhUnJWMFBVelpfd25tTjJqWDhFaWJkYUNNQUg0R3NWWkx1WmlJTHd4QVVBYjd3N1FTZ1RoRW96T2R3RUE?oc=5",
+          "published_at": "2026-11-21T12:12:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFNCYUc5dk1vODJWZXh3cGdmNldMbEZiZXFkVUtibkdRbmUzT2swZXl6Q2lvZE5uajMxYUpvd1FVbTVwLUQ5OFFsWTN2MzZiVzRUdTJvMmFlNkFsRFcySVMxOVdBZWZ2Q0thTFdoYUpMbGlhUnJWMFBVelpfd25tTjJqWDhFaWJkYUNNQUg0R3NWWkx1WmlJTHd4QVVBYjd3N1FTZ1RoRW96T2R3RUE?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T11:22:10.025569+00:00"
+  "updated_at": "2026-11-21T12:14:51.925510+00:00"
 }
