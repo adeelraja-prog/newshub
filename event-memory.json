@@ -108436,7 +108436,870 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f12263c970e508fc6d87f882",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:37:32+00:00",
+      "last_update": "2026-11-22T00:37:32+00:00",
+      "event": "Clashes erupt across France in another night of protest",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "another",
+        "charged",
+        "clashes",
+        "country",
+        "crowds",
+        "demonstrations",
+        "disperse",
+        "erupt",
+        "faced",
+        "france",
+        "french",
+        "night",
+        "police",
+        "protest",
+        "saturday",
+        "sixth",
+        "the",
+        "weekend"
+      ],
+      "source_excerpt": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+          "published_at": "2026-11-22T00:37:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e1fd1d56f92a4bd012ce5a64",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-21T23:59:03+00:00",
+      "last_update": "2026-11-22T00:02:46+00:00",
+      "event": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arabia",
+        "assets",
+        "bahrain",
+        "bases",
+        "condemned",
+        "continue",
+        "country",
+        "edge",
+        "gulf",
+        "has",
+        "houthi",
+        "houthis",
+        "iran",
+        "keep",
+        "live",
+        "military",
+        "saudi",
+        "strikes",
+        "targets",
+        "the",
+        "war"
+      ],
+      "source_excerpt": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+          "published_at": "2026-11-21T23:59:03+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONUdmdEJGUnZfMzVyUjZSNGF6VjBWNkd3d1NWM1d2SEZUNTV6aVRjLVR4X1pKbmtMRHp2R1NjQ1JzOGRTVVdBQ2ZHcmJ5bHZvczR6OC1wV3luZEFpSVlJZ2FUcERvaGQzRUswb1lkRFpMcFlzTW85MmVvQkxhNldua3dKWmZBcXk2Nk15QkZPWENhNzNDUjNBMkEtcUxXZVNZWWRwMlE2T3JyZE12ZmowcXgxZ1JKeGhfcVBGdEtBUlI5Z9IBxwFBVV95cUxOTTdmYm1DcmxqeU9HQ1I4UWZnNzAyeFpZdWU4ejZEbFJNcHhWcXpRS2gwVW1oU1lGaDBCVzE1ZUV2M0pHY2ppY2ktVTF5MzI3WG9PVDZDR05XTUY3MURoZFQwenRZTm1wZ2ZScHZFNmh1NUJUWVVoeDltbGtoWkdQSDB4RjVFRHItWDJEOW1HM3dsZnFpdVZsR3NvVW1WMVNUWExtYVEycEtianlfTWItLU9KSF96R3pCSXhhNmgzbjRSMHZhcVJZ?oc=5",
+          "published_at": "2026-11-22T00:02:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dc10a2922063dc31af351222",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:09:58+00:00",
+      "last_update": "2026-11-22T00:09:58+00:00",
+      "event": "How a teen gamer and his mother helped rescue a missing girl",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "fbi",
+        "from",
+        "game",
+        "gamer",
+        "girl",
+        "helped",
+        "helping",
+        "her",
+        "him",
+        "his",
+        "how",
+        "kidnapping",
+        "landon",
+        "led",
+        "met",
+        "missing",
+        "mother",
+        "old",
+        "online",
+        "rescue",
+        "teen",
+        "teenage",
+        "the",
+        "tresp",
+        "when",
+        "year"
+      ],
+      "source_excerpt": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T00:09:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a2aedcf9e9865f972b5caa7b",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:10:37+00:00",
+      "last_update": "2026-11-22T00:10:37+00:00",
+      "event": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2023",
+        "are",
+        "aren",
+        "democracy",
+        "election",
+        "faith",
+        "fewer",
+        "have",
+        "losing",
+        "next",
+        "nigerian",
+        "past",
+        "people",
+        "power",
+        "registered",
+        "shaping",
+        "shown",
+        "than",
+        "the",
+        "their",
+        "they",
+        "this",
+        "vote",
+        "why",
+        "year",
+        "young",
+        "youth"
+      ],
+      "source_excerpt": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T00:10:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "606b9a953113dea214a8055b",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:12:23+00:00",
+      "last_update": "2026-11-22T00:12:23+00:00",
+      "event": "THE STATE OF PAKISTAN’S MENTAL HEALTH",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "health",
+        "mental",
+        "pakistan",
+        "state",
+        "the"
+      ],
+      "source_excerpt": "THE STATE OF PAKISTAN’S MENTAL HEALTH Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NOERQNFNUbFFQa1pBc0lPRmdTdUM5di04eGI4eHg3ZzBubmVhWUtxYk5DT3pkd2dDMkRCTFpVYWtYcWRjMEJueDBLdG5rNmNhMTZzdzdzbTAtaHR0bV91TGYtYjVPQkJLLVh1YXR5eXluVExvWERmSXJ3?oc=5",
+          "published_at": "2026-11-22T00:12:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NOERQNFNUbFFQa1pBc0lPRmdTdUM5di04eGI4eHg3ZzBubmVhWUtxYk5DT3pkd2dDMkRCTFpVYWtYcWRjMEJueDBLdG5rNmNhMTZzdzdzbTAtaHR0bV91TGYtYjVPQkJLLVh1YXR5eXluVExvWERmSXJ3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b636ab99f9cb819226d81bad",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:11:24+00:00",
+      "last_update": "2026-11-22T00:11:24+00:00",
+      "event": "Pakistan condemns Houthi attack as missiles target Riyadh",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "condemns",
+        "dawn",
+        "houthi",
+        "missiles",
+        "pakistan",
+        "riyadh",
+        "target"
+      ],
+      "source_excerpt": "Pakistan condemns Houthi attack as missiles target Riyadh Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSFpDTjFFbkdhR3hzTFVpdjlTd212UlZ3cGRhQkhONTVxT3ZWREF0NFNfTnktR2xwY1Q4NzRUYmcyckhrdXEyVDZWNTVGUW9pZzI3NjhzQ2pkUkt1QnBtdWlWZFF6bV9FQmtWdGk3MlhBVVVYa2hraHJlU1JLcHJZc1hPZUU3WkVoSDNNQjVoUXJYV25wUUE?oc=5",
+          "published_at": "2026-11-22T00:11:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSFpDTjFFbkdhR3hzTFVpdjlTd212UlZ3cGRhQkhONTVxT3ZWREF0NFNfTnktR2xwY1Q4NzRUYmcyckhrdXEyVDZWNTVGUW9pZzI3NjhzQ2pkUkt1QnBtdWlWZFF6bV9FQmtWdGk3MlhBVVVYa2hraHJlU1JLcHJZc1hPZUU3WkVoSDNNQjVoUXJYV25wUUE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fea5f10b2e95229b18a727b1",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:12:05+00:00",
+      "last_update": "2026-11-22T00:12:05+00:00",
+      "event": "Experts urge legal cover for informal workers in Pakistan’s energy transition",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cover",
+        "dawn",
+        "energy",
+        "experts",
+        "for",
+        "informal",
+        "legal",
+        "pakistan",
+        "transition",
+        "urge",
+        "workers"
+      ],
+      "source_excerpt": "Experts urge legal cover for informal workers in Pakistan’s energy transition Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTc2VmNnSFkyZkZZWUpsd1M4QzVKdnNwRmppZkdUa0RGOGdVYVVaUVhGTV9iYzh6c3JybzRIcUFwcUVMeGZRdjMxcUFQY0tVLXMyUzdKUkJ0MkhKQ1VLekhrRGV3dlc2YWZ6b2VWQUpteDRNWl84OUVKQmdqamMwOEpiRTVsY05BWGZ4XzUwSTFkS09pOVF0YkE2ajBkZnBic3dDc1NjNlllRDc2VDBJ?oc=5",
+          "published_at": "2026-11-22T00:12:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTc2VmNnSFkyZkZZWUpsd1M4QzVKdnNwRmppZkdUa0RGOGdVYVVaUVhGTV9iYzh6c3JybzRIcUFwcUVMeGZRdjMxcUFQY0tVLXMyUzdKUkJ0MkhKQ1VLekhrRGV3dlc2YWZ6b2VWQUpteDRNWl84OUVKQmdqamMwOEpiRTVsY05BWGZ4XzUwSTFkS09pOVF0YkE2ajBkZnBic3dDc1NjNlllRDc2VDBJ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aa57887af77a302c7a701c09",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:12:06+00:00",
+      "last_update": "2026-11-22T00:12:06+00:00",
+      "event": "Pakistan Post reshuffles top management",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "management",
+        "pakistan",
+        "post",
+        "reshuffles",
+        "top"
+      ],
+      "source_excerpt": "Pakistan Post reshuffles top management Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hSXBGbmFxeTBiNWdBZUt5Z2RMbVFmN1E0YjNWY2kyQTdVSnZxVnZQN2VQZDVCMld1ZVFLUTZFR2dlUE43cFlKbXlXVVZ0QmJEeUJ0TGd6YkVjSUlaTzh3SHRHZkNtZDdpU0NMYXVqaGdfVWh0MFgwVFpDNVMwZw?oc=5",
+          "published_at": "2026-11-22T00:12:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hSXBGbmFxeTBiNWdBZUt5Z2RMbVFmN1E0YjNWY2kyQTdVSnZxVnZQN2VQZDVCMld1ZVFLUTZFR2dlUE43cFlKbXlXVVZ0QmJEeUJ0TGd6YkVjSUlaTzh3SHRHZkNtZDdpU0NMYXVqaGdfVWh0MFgwVFpDNVMwZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "905baf9929ac2bdf9e7bd34c",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:11:12+00:00",
+      "last_update": "2026-11-22T00:11:12+00:00",
+      "event": "Portuguese FM due in Islamabad today",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "due",
+        "islamabad",
+        "portuguese",
+        "today"
+      ],
+      "source_excerpt": "Portuguese FM due in Islamabad today Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uVW16aF9Ndm9QdFFHMmFudUlKOExIOVpIV19mcm9ROTZ1eXBlX2hhSUNQbUU2eHNqNTVhZmtfMFBqaFB0N2N3eTh4SWdId292NllvSm9iSF9uMDNmaWJOS19uTjVvZ3Rqc0FiT2o5ZjdWa3RMNEpKamtn?oc=5",
+          "published_at": "2026-11-22T00:11:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uVW16aF9Ndm9QdFFHMmFudUlKOExIOVpIV19mcm9ROTZ1eXBlX2hhSUNQbUU2eHNqNTVhZmtfMFBqaFB0N2N3eTh4SWdId292NllvSm9iSF9uMDNmaWJOS19uTjVvZ3Rqc0FiT2o5ZjdWa3RMNEpKamtn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f015a7e8f1639e5212a7aa1a",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:29:47+00:00",
+      "last_update": "2026-11-22T00:29:47+00:00",
+      "event": "Alec Baldwin spills if he would ever participate in DWTS",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alec",
+        "baldwin",
+        "dwts",
+        "ever",
+        "international",
+        "news",
+        "participate",
+        "spills",
+        "the",
+        "would"
+      ],
+      "source_excerpt": "Alec Baldwin spills if he would ever participate in DWTS The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT252cjU5am50bE94SS0wYXFKZ0hmeWNHRUVaX0xFUjhJcTlYb2JUOXEtVVBwNDFhcm9kbW5fRnQtRG1HRndqbDlQNjdPejZzMDFOeERvS09sbDlmTWZPNHZEdzRoRWFTWnR2SkZMU1lvMU5fcjZXUmo4TE5wOE5lN0VYVVFFQ1Npal93cEg5LUcybjRDcW5FYm9CQdIBmwFBVV95cUxNT252cjU5am50bE94SS0wYXFKZ0hmeWNHRUVaX0xFUjhJcTlYb2JUOXEtVVBwNDFhcm9kbW5fRnQtRG1HRndqbDlQNjdPejZzMDFOeERvS09sbDlmTWZPNHZEdzRoRWFTWnR2SkZMU1lvMU5fcjZXUmo4TE5wOE5lN0VYVVFFQ1Npal93cEg5LUcybjRDcW5FYm9CQQ?oc=5",
+          "published_at": "2026-11-22T00:29:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT252cjU5am50bE94SS0wYXFKZ0hmeWNHRUVaX0xFUjhJcTlYb2JUOXEtVVBwNDFhcm9kbW5fRnQtRG1HRndqbDlQNjdPejZzMDFOeERvS09sbDlmTWZPNHZEdzRoRWFTWnR2SkZMU1lvMU5fcjZXUmo4TE5wOE5lN0VYVVFFQ1Npal93cEg5LUcybjRDcW5FYm9CQdIBmwFBVV95cUxNT252cjU5am50bE94SS0wYXFKZ0hmeWNHRUVaX0xFUjhJcTlYb2JUOXEtVVBwNDFhcm9kbW5fRnQtRG1HRndqbDlQNjdPejZzMDFOeERvS09sbDlmTWZPNHZEdzRoRWFTWnR2SkZMU1lvMU5fcjZXUmo4TE5wOE5lN0VYVVFFQ1Npal93cEg5LUcybjRDcW5FYm9CQQ?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f5ddfe59b93c8a2c514f0d12",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:45:00+00:00",
+      "last_update": "2026-11-22T00:45:00+00:00",
+      "event": "Blake Lively brings back ‘Gossip Girl' era with unexpected reunion",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actress",
+        "also",
+        "always",
+        "back",
+        "blake",
+        "brings",
+        "character",
+        "der",
+        "era",
+        "famous",
+        "fans",
+        "girl",
+        "gossip",
+        "her",
+        "hit",
+        "home",
+        "hotel",
+        "lively",
+        "lotte",
+        "new",
+        "palace",
+        "place",
+        "recently",
+        "remind",
+        "returning",
+        "reunion",
+        "serena",
+        "show",
+        "stopped",
+        "surprised",
+        "that",
+        "the",
+        "them",
+        "unexpected",
+        "van",
+        "visited",
+        "was",
+        "which",
+        "will",
+        "with",
+        "woodsen",
+        "york"
+      ],
+      "source_excerpt": "Blake Lively surprised Gossip Girl fans by returning to a place that will always remind them of her famous character Serena van der Woodsen. The actress recently visited the Lotte New York Palace hotel, which was also Serena’s home in the hit show. Blake stopped by the...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692132-blake-lively-brings-back-gossip-girl-era-with-unexpected-reunion",
+          "published_at": "2026-11-22T00:45:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692132-blake-lively-brings-back-gossip-girl-era-with-unexpected-reunion",
+        "publisher_url": "https://www.geo.tv/latest/692132-blake-lively-brings-back-gossip-girl-era-with-unexpected-reunion",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "293b3d34e1891dc2f9663ac4",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:09:40+00:00",
+      "last_update": "2026-11-22T00:09:40+00:00",
+      "event": "Amir, Omar bag doubles title at J-30 World Jr Tennis",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amir",
+        "bag",
+        "dawn",
+        "doubles",
+        "omar",
+        "tennis",
+        "title",
+        "world"
+      ],
+      "source_excerpt": "Amir, Omar bag doubles title at J-30 World Jr Tennis Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUdISkxNSVR4NGdjRW9ocHdEQm9BVXFKSXBtcGxFTzdFWkZoS1RfX2tBWTQwQ04zNUhLdDFScDFQeFRuRWNIMjltUDFJdy1GeGlKRTFhVEFJMU91Rjd5SmlKOW5COENtX3lzVkJ4T1pvM04yUElOdTNaR3RFTlpYZDRxLWZlanRrcGJTa1pB?oc=5",
+          "published_at": "2026-11-22T00:09:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUdISkxNSVR4NGdjRW9ocHdEQm9BVXFKSXBtcGxFTzdFWkZoS1RfX2tBWTQwQ04zNUhLdDFScDFQeFRuRWNIMjltUDFJdy1GeGlKRTFhVEFJMU91Rjd5SmlKOW5COENtX3lzVkJ4T1pvM04yUElOdTNaR3RFTlpYZDRxLWZlanRrcGJTa1pB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d33d6c9cf461e17d6746585",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:31:07+00:00",
+      "last_update": "2026-11-22T00:31:07+00:00",
+      "event": "Legislative scrutiny",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "legislative",
+        "scrutiny"
+      ],
+      "source_excerpt": "Legislative scrutiny Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTVkFBYUhwQlBMTjJHNmFPTVpRNXBDUEhqdjRzejEwX2JWMVkycHl6MS1sN1NHZ1JWcXB6amtaOU9FLUZVa2ctazd6UkV0STloRmQweXMwRjEzck5XRWtnb2FGM3Y?oc=5",
+          "published_at": "2026-11-22T00:31:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTVkFBYUhwQlBMTjJHNmFPTVpRNXBDUEhqdjRzejEwX2JWMVkycHl6MS1sN1NHZ1JWcXB6amtaOU9FLUZVa2ctazd6UkV0STloRmQweXMwRjEzck5XRWtnb2FGM3Y?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f37ec9a857ee4dd9688e31af",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:10:32+00:00",
+      "last_update": "2026-11-22T00:10:32+00:00",
+      "event": "Responses to economic volatility, tech disruption discussed",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "discussed",
+        "disruption",
+        "economic",
+        "responses",
+        "tech",
+        "volatility"
+      ],
+      "source_excerpt": "Responses to economic volatility, tech disruption discussed Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmdpTjRVVnBjWDFYTS1IV2J4N0I0WUczeEo3UGl6QVhZX1BmRnB2b1dISHhrZEp5RFI3Unk1cDJyWlUxa2Z0OFNQZlJqSGNhelJJdFJhWUJpdjhnM2k0VDZWLWtSeTRDTzdsRzdtYmIwMkZaS3F3NEZoVTFScGtacEhKZlVILVlWTmlvVGxZSURqRDJIcWN3?oc=5",
+          "published_at": "2026-11-22T00:10:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmdpTjRVVnBjWDFYTS1IV2J4N0I0WUczeEo3UGl6QVhZX1BmRnB2b1dISHhrZEp5RFI3Unk1cDJyWlUxa2Z0OFNQZlJqSGNhelJJdFJhWUJpdjhnM2k0VDZWLWtSeTRDTzdsRzdtYmIwMkZaS3F3NEZoVTFScGtacEhKZlVILVlWTmlvVGxZSURqRDJIcWN3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ac5589d39bd6228fb21b6e9c",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:20:59+00:00",
+      "last_update": "2026-11-22T00:20:59+00:00",
+      "event": "Singapore initiative must encourage us",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "encourage",
+        "initiative",
+        "must",
+        "singapore"
+      ],
+      "source_excerpt": "Singapore initiative must encourage us Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QbWY5TXdjYUt4bDdZajAySENZb2pRY3d6dk1IeDJfU3JjYlo0RmFWWDZVNEhrMmw4ZUFYYmRubjNSN3FuOUFVMUdCajBpT2RHSnV5dEFiTmZBUS1qbUVoQzd0WW1id2tyR0pIRVdVU2U0MHlhRFdDZkhOdm4?oc=5",
+          "published_at": "2026-11-22T00:20:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QbWY5TXdjYUt4bDdZajAySENZb2pRY3d6dk1IeDJfU3JjYlo0RmFWWDZVNEhrMmw4ZUFYYmRubjNSN3FuOUFVMUdCajBpT2RHSnV5dEFiTmZBUS1qbUVoQzd0WW1id2tyR0pIRVdVU2U0MHlhRFdDZkhOdm4?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef8dba91f1abd03f5c1add9c",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:10:59+00:00",
+      "last_update": "2026-11-22T00:10:59+00:00",
+      "event": "Dar sees early US-Iran peace agreement",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreement",
+        "dar",
+        "dawn",
+        "early",
+        "iran",
+        "peace",
+        "sees"
+      ],
+      "source_excerpt": "Dar sees early US-Iran peace agreement Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LYm9pX2JRUHpqcmxhdkZ6MGp4T2NYbWJrNjFTSlFoRDFFR0hkZjl0NFpEa01vdUJfOHIza1hmT1R3bkt6dlp4S3BLM3dkNm81NGY1NVFBYmpnUkVpVlVQc0NIX3FyU09KX2hUOXRfalBfS1FaVDZ4bmNjMk0?oc=5",
+          "published_at": "2026-11-22T00:10:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LYm9pX2JRUHpqcmxhdkZ6MGp4T2NYbWJrNjFTSlFoRDFFR0hkZjl0NFpEa01vdUJfOHIza1hmT1R3bkt6dlp4S3BLM3dkNm81NGY1NVFBYmpnUkVpVlVQc0NIX3FyU09KX2hUOXRfalBfS1FaVDZ4bmNjMk0?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ac35be5ac1fd6128ecf1ce47",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:11:41+00:00",
+      "last_update": "2026-11-22T00:11:41+00:00",
+      "event": "Minister seeks fisheries sector upgrade",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "fisheries",
+        "minister",
+        "sector",
+        "seeks",
+        "upgrade"
+      ],
+      "source_excerpt": "Minister seeks fisheries sector upgrade Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYbXFVbFFhaFNOeXFWbnYtV2hRWl9pMWhvbVBTUFBHR1NQeVBlbVFMemM1SDVJY0M3bWZMWU1SV1ZYQk5Pdkk4eHhvbUdreHpFMGVYZzlXS2ZrVHRnT2dFak1rV0ROQmk3UnNsczVkNVlFMkt1eUJjVTRZb1Zxdw?oc=5",
+          "published_at": "2026-11-22T00:11:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYbXFVbFFhaFNOeXFWbnYtV2hRWl9pMWhvbVBTUFBHR1NQeVBlbVFMemM1SDVJY0M3bWZMWU1SV1ZYQk5Pdkk4eHhvbUdreHpFMGVYZzlXS2ZrVHRnT2dFak1rV0ROQmk3UnNsczVkNVlFMkt1eUJjVTRZb1Zxdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8c6d686786363bc7300639dd",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:12:05+00:00",
+      "last_update": "2026-11-22T00:12:05+00:00",
+      "event": "Study finds high obesity, diabetes rates in symptom-free adults",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adults",
+        "dawn",
+        "diabetes",
+        "finds",
+        "free",
+        "high",
+        "obesity",
+        "rates",
+        "study",
+        "symptom"
+      ],
+      "source_excerpt": "Study finds high obesity, diabetes rates in symptom-free adults Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3VOSktPTmxWcGQ5STBBN3pJSFY2dlBtVXl0R2RlRjV2YmtiOTRBT25YVWdQVlVSWjJtNXhuMnhUblZabW93YkpNUkFzdVo1bUVQeklTVWZiRHZMTWhpeldQbVpZcVk1YjZrN3pTR3lsLVg1cXBUd3FDUWhhNHBua0EwTFJOU3RpclpkSDhTanAzamIyQjRzV0Jpb0g?oc=5",
+          "published_at": "2026-11-22T00:12:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3VOSktPTmxWcGQ5STBBN3pJSFY2dlBtVXl0R2RlRjV2YmtiOTRBT25YVWdQVlVSWjJtNXhuMnhUblZabW93YkpNUkFzdVo1bUVQeklTVWZiRHZMTWhpeldQbVpZcVk1YjZrN3pTR3lsLVg1cXBUd3FDUWhhNHBua0EwTFJOU3RpclpkSDhTanAzamIyQjRzV0Jpb0g?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "07f92f288d077266fcd46ca4",
+      "remembered_at": "2026-11-22T00:59:47.505646+00:00",
+      "event_date": "2026-11-22T00:31:07+00:00",
+      "last_update": "2026-11-22T00:31:07+00:00",
+      "event": "Unlocking history",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "history",
+        "unlocking"
+      ],
+      "source_excerpt": "Unlocking history Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UeV9CXzhpUDR5dWtaNGpORG50MTlJYWVTQmVwd2M3Uk9ndlZ0ejBnbWpTVk9Nb19VakdKU1ZaRzIzM3ZseGw0TG9TV0xweU5oVnU5M0llUkNSZ1RrSDV5Tg?oc=5",
+          "published_at": "2026-11-22T00:31:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UeV9CXzhpUDR5dWtaNGpORG50MTlJYWVTQmVwd2M3Uk9ndlZ0ejBnbWpTVk9Nb19VakdKU1ZaRzIzM3ZseGw0TG9TV0xweU5oVnU5M0llUkNSZ1RrSDV5Tg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-21T23:56:47.999941+00:00"
+  "updated_at": "2026-11-22T00:59:47.505646+00:00"
 }

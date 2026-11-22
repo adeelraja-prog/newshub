@@ -1,34 +1,34 @@
-# News Hub report - Sun 22 Nov, 04:56 AM PKT
+# News Hub report - Sun 22 Nov, 05:59 AM PKT
 
 ## Collection
-- New items this run: 15 | items in rolling pool: 266
-- Unique story clusters: 237 (duplicates merged: 29)
+- New items this run: 32 | items in rolling pool: 230
+- Unique story clusters: 199 (duplicates merged: 31)
 - Clusters dropped as already published/queued: 26; unchanged since last analysis: 7
-- Items per outlet: Dawn 2, Dawn Latest 2, Al Jazeera 2, samaa tv 1, The News International 1, The Express Tribune 1, Engadget 1, Inquirer.net 1, NewsCord 1, CBS News 1, The Jerusalem Post 1, Euromaidan Press 1
+- Items per outlet: Dawn 16, Engadget 5, Al Jazeera 3, BBC World 2, The News International 1, Geo News 1, X 1, GSMArena 1, The Straits Times 1, WPLG Local 10 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- TODAY’S PAPER | November 22, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Impunity fuels surge in settler violence across occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nmecha helps Dortmund beat Gladbach to top Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Clashes erupt across France in another night of protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How a teen gamer and his mother helped rescue a missing girl | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nigerian youth have shown their power in the past - why aren't they shaping this election? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- TODAY’S PAPER | November 22, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Impunity fuels surge in settler violence across occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nmecha helps Dortmund beat Gladbach to top Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Clashes erupt across France in another night of protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How a teen gamer and his mother helped rescue a missing girl | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nigerian youth have shown their power in the past - why aren't they shaping this election? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- TODAY’S PAPER | November 22, 2026 | EPAPER | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Impunity fuels surge in settler violence across occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nmecha helps Dortmund beat Gladbach to top Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Clashes erupt across France in another night of protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How a teen gamer and his mother helped rescue a missing girl | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nigerian youth have shown their power in the past - why aren't they shaping this election? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
@@ -38,110 +38,84 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Iran faces a silent economic war, warns Iranian president  [NORMAL]
-- Poster: ایران ایک خاموش معاشی جنگ کا سامنا کر رہا ہے: ایرانی صدر / Iran faces a silent economic war, says president | category politics
-- Alternative headline: Iranian president speaks out on severe silent economic war
+### Nigeria Youth Power: Why Aren't Young People Shaping This Election?  [NORMAL]
+- Poster: ناجيريا کے نو جوان اتنی بڑی آبادی کے باوجود سیاست میں کیوں پیچھے ہیں؟ / Nigeria youth power: Why aren't young people shaping this election? | category politics
+- Alternative headline: Nigeria's Aging Leadership: Where Are the Young Politicians?
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Iran economic war, Iranian president, silent economic war, Iran economy, sanctions | hashtags: #Iran #Economy #MiddleEast #AlJazeera
-- Scheduled: Sun 22 Nov, 04:56 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Nigeria youth politics, Nigerian elections, youth representation, Kano state assembly, Bola Tinubu, Abdulhadi Dalhatu | hashtags: #Nigeria #NigerianElections #YouthInPolitics #Kano #BBC
+- Scheduled: Sun 22 Nov, 05:59 AM PKT
 - Caption:
 ```
-Iranian President highlights that the nation is currently confronting an intense silent economic war.
+About 80% of Nigeria's population is under 40, yet older politicians dominate the upcoming general elections, leaving youth struggling for representation.
 
-Iranian President stated that Iran is currently facing a silent economic war. The remarks highlight ongoing economic pressures and challenges confronting the country amidst international tensions.
+Despite making up about 80% of Nigeria's population, young people face major hurdles in entering politics, with most presidential and assembly candidates being significantly older. Abdulhadi Dalhatu, a 38-year-old running for state assembly in Kano, hopes to change this trend, though political history shows an uphill battle.
 
-ایرانی صدر نے بیان دیا ہے کہ ایران کو اس وقت ایک خاموش معاشی جنگ کا سامنا ہے۔ یہ بیان ملک کو درپیش جاری معاشی دباؤ اور بین الاقوامی کشیدگی کے تناظر میں سامنے آیا ہے۔
+ناجیریا کی تقریباً 80 فیصد آبادی چالیس سال سے کم عمر ہے، لیکن اس کے باوجود الیکشن میں پرانے سیاستدانوں کا غلبہ ہے اور نوجوانوں کو سیاست میں آگے بڑھنے کے لیے شدید مشکلات کا سامنا ہے۔
 
-According to a report by Al Jazeera
+First reported by BBC World
 
-#Iran #Economy #MiddleEast #AlJazeera
+#Nigeria #NigerianElections #YouthInPolitics #Kano #BBC
 ```
 
-### Today's Express Tribune ePaper highlights for November 22, 2026  [NORMAL]
-- Poster: ایکسپریس ٹ্রিبیون کا 22 نومبر 2026 کا ای پیپر / Express Tribune ePaper November 22, 2026 | category other
-- Alternative headline: The Express Tribune daily ePaper edition for November 22, 2026
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFZ5SWFVUWVTWG0wc09tMTVhMHJka2hJZUIxUlA2Z2FxSGFaOU5pTEF6Vi1GVkRnMFMwY2ZxQS1wT21DNDF1TGdVMmNkbGhWa2ktMVdpWmhQRTJRb2NKZVFWNW1aVW9aU3J1MHh6OXRtZWRDSE5EWGZheEVJYlZVb0lkUkh6TWx6WmQ4d21wZ2RMSlVKYmpUTXlDRXRvQUd4d1F1Yk52Zw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFZ5SWFVUWVTWG0wc09tMTVhMHJka2hJZUIxUlA2Z2FxSGFaOU5pTEF6Vi1GVkRnMFMwY2ZxQS1wT21DNDF1TGdVMmNkbGhWa2ktMVdpWmhQRTJRb2NKZVFWNW1aVW9aU3J1MHh6OXRtZWRDSE5EWGZheEVJYlZVb0lkUkh6TWx6WmQ4d21wZ2RMSlVKYmpUTXlDRXRvQUd4d1F1Yk52Zw?oc=5
-- Supporting coverage: Pakistan Today, The Express Tribune, The Express Tribune
-- Keywords: Express Tribune ePaper, Pakistan Today, daily newspaper, news highlights, November 22 2026 | hashtags: #ExpressTribune #PakistanNews #ePaper #DailyNews
-- Scheduled: Sun 22 Nov, 05:06 AM PKT
-- Caption:
-```
-Check out the daily ePaper edition and top news highlights from The Express Tribune.
-
-The Express Tribune has released its daily ePaper edition for November 22, 2026, featuring comprehensive news coverage and current updates from across Pakistan and the world.
-
-ایکسپریس ٹ্রিبیون نے 22 نومبر 2026 کے لیے اپنا روزنامہ ای پیپر جاری کر دیا ہے، جس میں پاکستان اور دنیا بھر سے اہم خبریں اور اپ ڈیٹس شامل ہیں۔
-
-First reported by The Express Tribune
-
-#ExpressTribune #PakistanNews #ePaper #DailyNews
-```
-
-### Impunity fuels alarming surge in settler violence across West Bank  [NORMAL]
-- Poster: مقبوضہ مغربی کنارے میں آباد کاروں کی تشدد میں خطرناک اضافہ / Surge in settler violence across occupied West Bank | category war
-- Alternative headline: Rising settler violence in occupied West Bank driven by impunity
+### Clashes Erupt Across France in Another Night of Protest  [NORMAL]
+- Poster: فرانس میں احتجاج کا چھٹا ہفتہ: پولیس اور مظاہرین کے درمیان جھڑپیں / Clashes erupt across France in another night of protest | category other
+- Alternative headline: French Police Clash With Crowds During Sixth Weekend of Protests
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: West Bank settler violence, impunity, occupied West Bank, Al Jazeera, Palestinian residents | hashtags: #WestBank #Palestine #HumanRights #AlJazeera
-- Scheduled: Sun 22 Nov, 05:16 AM PKT
+- Keywords: France protests, French police, demonstrations, Al Jazeera, protest clashes, Europe news | hashtags: #France #Protests #FrenchPolice #AlJazeera #Europe
+- Scheduled: Sun 22 Nov, 06:09 AM PKT
 - Caption:
 ```
-A alarming surge in settler violence across the occupied West Bank is being fueled by widespread impunity.
+French police charged to disperse crowds on Saturday as the country faced a sixth consecutive weekend of demonstrations and violent clashes.
 
-Reports highlight that a continuous lack of accountability and widespread impunity are fueling a sharp surge in violent attacks by Israeli settlers across the occupied West Bank, impacting local Palestinian communities.
+French police clashed with crowds and charged to disperse demonstrators on Saturday as the country experienced a sixth weekend of continuous protests. The ongoing demonstrations have sparked widespread concern across various regions as law enforcement attempts to maintain order.
 
-رپورٹس سے پتہ چلتا ہے کہ احتساب کی مسلسل کمی اور عام معافی مقبوضہ مغربی کنارے میں اسرائیلی آباد کاروں کے پُرتشدد حملوں میں اضافے کی بنیادی وجہ بن رہی ہے۔
+فرانس میں جاری مظاہروں کے چھٹے ہفتے کے دوران ہفتے کے روز پولیس اور مظاہرین کے درمیان شدید جھڑپیں ہوئیں، جنہیں منتشر کرنے کے لیے پولیس نے کارروائی کی۔
 
-According to a report by Al Jazeera
+First reported by Al Jazeera
 
-#WestBank #Palestine #HumanRights #AlJazeera
+#France #Protests #FrenchPolice #AlJazeera #Europe
 ```
 
-### Nmecha shines as Dortmund defeats Gladbach to claim top spot  [NORMAL]
-- Poster: نمیچا کی شاندار کارکردگی، ڈورٹمنڈ نے بندس‌لیگا میں پہلی پوزیشن حاصل کر لی / Nmecha helps Dortmund beat Gladbach to top Bundesliga | category sports
-- Alternative headline: Borussia Dortmund beats Gladbach powered by Nmecha to top Bundesliga
+### Iran War Live: Iran Targets US Bases in Bahrain as Houthi Strikes Continue  [NORMAL]
+- Poster: ایران جنگ: بحرین میں امریکی اڈوں پر حملے، حوثی کارروائیاں جاری / Iran targets US bases in Bahrain as Houthi strikes continue | category war
+- Alternative headline: Bahrain Condemns Iranian Strikes on US Military Assets in the Gulf
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxORFd1WHJrdWpyUE9yZzV4TExqOVNMaXNWdUZuMVdKS0ozLVc1eEVuT3lJb0FvZTV4Z0R0ZnNGeTkyRnZSdi1ndmlCOFMyTDgzS3VMcTF4RjF3N1BqdUhleXhxUlFEcm9OaE1DMXJfYTE1QjRNSUhEQkgzc2Vya2lLNDNuNWZoMGNLWHhFZGx1WmM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxORFd1WHJrdWpyUE9yZzV4TExqOVNMaXNWdUZuMVdKS0ozLVc1eEVuT3lJb0FvZTV4Z0R0ZnNGeTkyRnZSdi1ndmlCOFMyTDgzS3VMcTF4RjF3N1BqdUhleXhxUlFEcm9OaE1DMXJfYTE1QjRNSUhEQkgzc2Vya2lLNDNuNWZoMGNLWHhFZGx1WmM?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Dortmund Bundesliga, Nmecha, Gladbach, Borussia Dortmund, football | hashtags: #Bundesliga #Dortmund #Football #DawnNews
-- Scheduled: Sun 22 Nov, 05:26 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Iran war Bahrain, US military Bahrain, Houthi strikes, Saudi Arabia, Al Jazeera liveblog, Gulf conflict | hashtags: #IranWar #Bahrain #USMilitary #Houthis #AlJazeera
+- Scheduled: Sun 22 Nov, 06:19 AM PKT
 - Caption:
 ```
-Nmecha played a crucial role as Borussia Dortmund secured a victory against Gladbach to top the Bundesliga standings.
+Bahrain has strongly condemned Iran's missile strikes targeting US military assets in the Gulf country while regional tensions escalate.
 
-Borussia Dortmund climbed to the top of the Bundesliga standings following a vital win against Gladbach, with Nmecha delivering a standout performance to help secure the victory.
+Bahrain has condemned recent Iranian strikes directed at US military assets within its borders. Meanwhile, Houthi attacks continue to keep neighbouring Saudi Arabia on edge, marking a dangerous escalation in the ongoing regional conflict involving Iran and American forces.
 
-بروسیا ڈورٹمنڈ نے گلادباخ کے خلاف اہم فتح کے بعد بندس‌لیگا کی پوائنٹس ٹیبل پر پہلی پوزیشن حاصل کر لی ہے، جہاں نمیچا نے شاندار کھیل کا مظاہرہ کیا۔
+بحرین نے خلیجی ملک میں امریکی فوجی تنصیبات پر ایران کے حملوں کی شدید مذمت کی ہے، جبکہ حوثی باغیوں کی کارروائیاں بھی جاری ہیں۔
 
-First reported by Dawn
+First reported by Al Jazeera
 
-#Bundesliga #Dortmund #Football #DawnNews
+#IranWar #Bahrain #USMilitary #Houthis #AlJazeera
 ```
 
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
 
 ## Queue status
-- [needs_review] normal | World Bank Official Says Lebanon Reconstruction Making Slow Progress | Wed 18 Nov, 11:17 PM PKT
-- [needs_review] normal | Inside the Old Gas Pipeline Where Ukraine Is Fighting an Underground W | Wed 18 Nov, 11:27 PM PKT
 - [needs_review] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
 - [needs_review] normal | Israeli military launches rare ground operation in Gaza beyond Yellow  | Thu 19 Nov, 02:50 AM PKT
 - [needs_review] normal | Muslims projected to overtake Christians as world’s largest religious  | Thu 19 Nov, 03:10 AM PKT
@@ -347,12 +321,12 @@ First reported by Dawn
 - [needs_review] normal | Indian opposition issues ultimatum to Meta over account removals | Sat 21 Nov, 10:39 PM PKT
 - [needs_review] normal | Security forces eliminate 15 terrorists in Balochistan's Mastung | Sat 21 Nov, 10:49 PM PKT
 - [published] normal | Punjab CCD school bag checks spark social media debate | Sat 21 Nov, 10:59 PM PKT
-- [queued] normal | French presidential candidate blames media for racist attack | Sat 21 Nov, 11:09 PM PKT
-- [queued] normal | Could Brexit be reversed in the future? | Sat 21 Nov, 11:21 PM PKT
-- [queued] normal | Punjab Workers Welfare Fund launches new WhatsApp helpline | Sat 21 Nov, 11:31 PM PKT
-- [queued] normal | Chelsea suffer shock 4-1 home defeat against Leeds United | Sat 21 Nov, 11:41 PM PKT
-- [queued] normal | Russian strike kills two and wounds 60 in Kryvyi Rih | Sat 21 Nov, 11:51 PM PKT
-- [queued] normal | Trump Pushes For Permanent Deal To Block Iran Nuclear Program | Sun 22 Nov, 12:24 AM PKT
+- [needs_review] normal | French presidential candidate blames media for racist attack | Sat 21 Nov, 11:09 PM PKT
+- [needs_review] normal | Could Brexit be reversed in the future? | Sat 21 Nov, 11:21 PM PKT
+- [needs_review] normal | Punjab Workers Welfare Fund launches new WhatsApp helpline | Sat 21 Nov, 11:31 PM PKT
+- [needs_review] normal | Chelsea suffer shock 4-1 home defeat against Leeds United | Sat 21 Nov, 11:41 PM PKT
+- [needs_review] normal | Russian strike kills two and wounds 60 in Kryvyi Rih | Sat 21 Nov, 11:51 PM PKT
+- [published] normal | Trump Pushes For Permanent Deal To Block Iran Nuclear Program | Sun 22 Nov, 12:24 AM PKT
 - [queued] normal | Kaliningrad-Bound Ship Struck By Drones In Gulf Of Finland | Sun 22 Nov, 12:34 AM PKT
 - [queued] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 12:44 AM PKT
 - [queued] normal | UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt | Sun 22 Nov, 12:54 AM PKT
@@ -375,12 +349,21 @@ First reported by Dawn
 - [queued] normal | Today's Express Tribune ePaper highlights for November 22, 2026 | Sun 22 Nov, 05:06 AM PKT
 - [queued] normal | Impunity fuels alarming surge in settler violence across West Bank | Sun 22 Nov, 05:16 AM PKT
 - [queued] normal | Nmecha shines as Dortmund defeats Gladbach to claim top spot | Sun 22 Nov, 05:26 AM PKT
+- [queued] normal | Nigeria Youth Power: Why Aren't Young People Shaping This Election? | Sun 22 Nov, 05:59 AM PKT
+- [queued] normal | Clashes Erupt Across France in Another Night of Protest | Sun 22 Nov, 06:09 AM PKT
+- [queued] normal | Iran War Live: Iran Targets US Bases in Bahrain as Houthi Strikes Cont | Sun 22 Nov, 06:19 AM PKT
 
 ## Publishing this run
-- Published 'Punjab CCD school bag checks spark social media debate'.
+- Published 'Trump Pushes For Permanent Deal To Block Iran Nuclear Program'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5493 | output tokens: 2101
+- Calls: 3 | prompt tokens: 5433 | output tokens: 2335
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
