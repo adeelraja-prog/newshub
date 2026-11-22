@@ -116382,7 +116382,533 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8bed3a7ef906d9269d5a73ef",
+      "remembered_at": "2026-11-22T15:33:30.670704+00:00",
+      "event_date": "2026-11-22T13:24:50+00:00",
+      "last_update": "2026-11-22T15:27:28+00:00",
+      "event": "Oman to supply petroleum products, $200m credit facility to PSO under new agreement",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "200m",
+        "agreement",
+        "credit",
+        "dawn",
+        "facility",
+        "new",
+        "oman",
+        "petroleum",
+        "products",
+        "pso",
+        "supply",
+        "under"
+      ],
+      "source_excerpt": "Oman to supply petroleum products, $200m credit facility to PSO under new agreement Dawn",
+      "sources": [
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHdEbHRnMC1qRWkxUlRCeWNFVGdyUGlqR3NKVHhBZTc1TnRWVGJQNXNMUHl1UjBnMERhOU8xX0FGWVBOYzN5QjFyYVZuUTROc2JrQ2ItaTNUdU9wTE1DMFJjUTJLWW9JTFg1cTN2VHFhTnFyZ0Z2YVNHVl94bE5VQWxKSk5HRzJXUUhCTFpBYmJFWDU2c2xwMWRUYWhIUndhRUF6aDRFME9pazZsRFRrLWJob3Y?oc=5",
+          "published_at": "2026-11-22T13:24:50+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEFKOFRMMWpWel9WTkJPenFOVkdyelNRSUNSbEx6R3Rua2FMU0xaakcwWDRuYTBaMFhqV0JKR2JNVXJhSTVIcGVESzZYelBxNlBkYmxQMXZjd1VmRXFxZ1BuVTV4UFFxYUlvSi1FWWhTTE8zRzJJSEN0Y2FYR1lzc1Q3cjlmTmRocjByS0NPUE1rSUpn?oc=5",
+          "published_at": "2026-11-22T15:11:59+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046330/oman-petroleum-products-200m-credit-to-pso-new-agreement",
+          "published_at": "2026-11-22T15:27:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEFKOFRMMWpWel9WTkJPenFOVkdyelNRSUNSbEx6R3Rua2FMU0xaakcwWDRuYTBaMFhqV0JKR2JNVXJhSTVIcGVESzZYelBxNlBkYmxQMXZjd1VmRXFxZ1BuVTV4UFFxYUlvSi1FWWhTTE8zRzJJSEN0Y2FYR1lzc1Q3cjlmTmRocjByS0NPUE1rSUpn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5d24a937421887cf2107883f",
+      "remembered_at": "2026-11-22T15:33:30.670704+00:00",
+      "event_date": "2026-11-22T12:57:52+00:00",
+      "last_update": "2026-11-22T14:50:15+00:00",
+      "event": "COP31 climate talks set to collapse without political deal",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accept",
+        "after",
+        "agreement",
+        "and",
+        "before",
+        "blocs",
+        "climate",
+        "collapse",
+        "cop31",
+        "could",
+        "countries",
+        "deal",
+        "draft",
+        "earlier",
+        "kurum",
+        "looked",
+        "multiple",
+        "murat",
+        "nations",
+        "negotiating",
+        "new",
+        "not",
+        "political",
+        "president",
+        "put",
+        "said",
+        "set",
+        "summit",
+        "talks",
+        "text",
+        "the",
+        "them",
+        "there",
+        "they",
+        "turkiye",
+        "united",
+        "version",
+        "without",
+        "would"
+      ],
+      "source_excerpt": "United Nations climate talks in Turkiye looked set to collapse without a political agreement after COP31 summit president Murat Kurum said there would be no new draft of the deal. Earlier, multiple countries and negotiating blocs said they could not accept the version of the text put before them. “T",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046327/cop31-climate-talks-set-to-collapse-without-political-deal",
+          "published_at": "2026-11-22T12:57:52+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeURiRDBFQlpneTl6T05sa1dJQ3NKbHBmQ0ZkeXY3M25nQXFwekVUSDVoZ1ZsVFBjOHdEYmo3RjRkUzU2Z2xCYmlfMERBRllTSnFmdDlrMGYtY2FkU3VZMnpQOFFfd29kbWlUQlJyUUhLZTU2NzUwZ3hEMWxsVEFaVkdNT2JrTjlpUGtwakZWRzA2THdwYWtSM0pYVGdkSzjSAacBQVVfeXFMT1JhRUREZmNqRm50ME5WbEowZWQwSG40b1huX2lfMlZsWFc3SDRSTzJFbnhnVGlVMUdVUVlIR0RfS1FrME9xanN4MXlQdkVwVldETHlvRFZDSkNqLWVDdUROc1g0RlpfM1A3aUVDaVREdS1tWlpMSW9Ba01IVkRTRkgtYkg2NWc4SUZuSGRLTE52M1VSVnN6S3RFU2hPZlNGalhTZk5SNEk?oc=5",
+          "published_at": "2026-11-22T14:03:45+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046327/cop31-climate-talks-collapse-as-eu-and-others-reject-deal",
+          "published_at": "2026-11-22T14:50:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046327/cop31-climate-talks-set-to-collapse-without-political-deal",
+        "publisher_url": "https://www.dawn.com/news/2046327/cop31-climate-talks-set-to-collapse-without-political-deal",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a7b90d287e5f9f5bf5e96e51",
+      "remembered_at": "2026-11-22T15:33:30.670704+00:00",
+      "event_date": "2026-11-22T14:56:51+00:00",
+      "last_update": "2026-11-22T14:56:51+00:00",
+      "event": "Pakistan announces first nationwide diabetes prevention and control programme",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "announces",
+        "arynews",
+        "control",
+        "diabetes",
+        "first",
+        "nationwide",
+        "pakistan",
+        "prevention",
+        "programme"
+      ],
+      "source_excerpt": "Pakistan announces first nationwide diabetes prevention and control programme ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUFUNVdpYXR6VE1NeDRCZFlxVVF5bU9XXzhkcGZQMnJFZ2pnbEc4aE1PaVpTNjJvdkxHdG1BTmJJOW5tTTRKUXFITnhSbkVzeHNtQTdiUTFCVzZMMEIwa2UtXzVTSWhrSjFkbzZ6eWZ1c3J2VFdrWVRTc2xNWm1nQ1Q5OVRnYjNFQW9qWG80Z2tZM2xOczVPWkRPM2Y?oc=5",
+          "published_at": "2026-11-22T14:56:51+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-announces-first-nationwide-diabetes-prevention-and-control-programme",
+          "published_at": "2026-11-22T14:56:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUFUNVdpYXR6VE1NeDRCZFlxVVF5bU9XXzhkcGZQMnJFZ2pnbEc4aE1PaVpTNjJvdkxHdG1BTmJJOW5tTTRKUXFITnhSbkVzeHNtQTdiUTFCVzZMMEIwa2UtXzVTSWhrSjFkbzZ6eWZ1c3J2VFdrWVRTc2xNWm1nQ1Q5OVRnYjNFQW9qWG80Z2tZM2xOczVPWkRPM2Y?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e8a82d61e52adbb9701d7f8f",
+      "remembered_at": "2026-11-22T15:33:30.670704+00:00",
+      "event_date": "2026-11-22T15:03:38+00:00",
+      "last_update": "2026-11-22T15:03:38+00:00",
+      "event": "Drone attacks kill four near Sudan’s capital, damage UN building",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airport",
+        "and",
+        "are",
+        "attacks",
+        "blamed",
+        "building",
+        "buildings",
+        "capital",
+        "damage",
+        "drone",
+        "drones",
+        "forces",
+        "four",
+        "government",
+        "hit",
+        "khartoum",
+        "kill",
+        "near",
+        "rapid",
+        "reportedly",
+        "sudan",
+        "support",
+        "the",
+        "well"
+      ],
+      "source_excerpt": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+          "published_at": "2026-11-22T15:03:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "edd5567a15af41e656c259ac",
+      "remembered_at": "2026-11-22T15:33:30.670704+00:00",
+      "event_date": "2026-11-22T14:51:39+00:00",
+      "last_update": "2026-11-22T14:51:39+00:00",
+      "event": "The Drugs Don’t Work",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2050",
+        "annually",
+        "antibiotic",
+        "could",
+        "don",
+        "drugs",
+        "eight",
+        "fuel",
+        "how",
+        "killing",
+        "look",
+        "million",
+        "overuse",
+        "people",
+        "superbugs",
+        "the",
+        "work"
+      ],
+      "source_excerpt": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+          "published_at": "2026-11-22T14:51:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0380022ce8dcb04b7fed106b",
+      "remembered_at": "2026-11-22T15:33:30.670704+00:00",
+      "event_date": "2026-11-22T14:48:50+00:00",
+      "last_update": "2026-11-22T14:48:50+00:00",
+      "event": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "drone",
+        "kills",
+        "kyiv",
+        "least",
+        "missiles",
+        "near",
+        "one",
+        "patriot",
+        "people",
+        "release",
+        "russia",
+        "russian",
+        "shelling",
+        "two",
+        "ukraine",
+        "urges",
+        "zaporizhzhia",
+        "zelenskyy"
+      ],
+      "source_excerpt": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+          "published_at": "2026-11-22T14:48:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0a49a2066095fafc503e6adc",
+      "remembered_at": "2026-11-22T15:33:30.670704+00:00",
+      "event_date": "2026-11-22T15:01:10+00:00",
+      "last_update": "2026-11-22T15:01:10+00:00",
+      "event": "Naqvi hits back at 'minister' for repeated criticism: report",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "back",
+        "criticism",
+        "dawn",
+        "for",
+        "hits",
+        "minister",
+        "naqvi",
+        "repeated",
+        "report"
+      ],
+      "source_excerpt": "Naqvi hits back at 'minister' for repeated criticism: report Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSURjWC1Yb3dUeUVRSUE0SFlKYXpjYXJ6TXJEcUtveEFsbTRvel9GWXVxNzhjZmtxWjlNd2d5RHpwcmVKVEUtSnlxTEg1WFNwenlfS3FaU082YnJVZ0tOUnlySUg0Ny1XUUoxNGEzX3JRdkVRZERUYW5Ocm9zejhmMzRkUHJEaVBOQnVzb0h2TFpERW5ibnc?oc=5",
+          "published_at": "2026-11-22T15:01:10+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046332/naqvi-hits-back-at-minister-for-repeated-criticism-report",
+          "published_at": "2026-11-22T15:01:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSURjWC1Yb3dUeUVRSUE0SFlKYXpjYXJ6TXJEcUtveEFsbTRvel9GWXVxNzhjZmtxWjlNd2d5RHpwcmVKVEUtSnlxTEg1WFNwenlfS3FaU082YnJVZ0tOUnlySUg0Ny1XUUoxNGEzX3JRdkVRZERUYW5Ocm9zejhmMzRkUHJEaVBOQnVzb0h2TFpERW5ibnc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e5a20d1ddcbec81604d18300",
+      "remembered_at": "2026-11-22T15:33:30.670704+00:00",
+      "event_date": "2026-11-22T13:34:53+00:00",
+      "last_update": "2026-11-22T13:34:53+00:00",
+      "event": "Tech-driven wars, unchecked force: only a new compact of indivisible security can avert future conflicts",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046270",
+        "avert",
+        "can",
+        "com",
+        "compact",
+        "conflicts",
+        "dawn",
+        "driven",
+        "force",
+        "future",
+        "https",
+        "indivisible",
+        "new",
+        "news",
+        "only",
+        "security",
+        "tech",
+        "unchecked",
+        "wars",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046270/future-wars",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046328/tech-driven-wars-unchecked-force-only-a-new-compact-of-indivisible-security-can-avert-future-conflicts",
+          "published_at": "2026-11-22T13:34:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046328/tech-driven-wars-unchecked-force-only-a-new-compact-of-indivisible-security-can-avert-future-conflicts",
+        "publisher_url": "https://www.dawn.com/news/2046328/tech-driven-wars-unchecked-force-only-a-new-compact-of-indivisible-security-can-avert-future-conflicts",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0eba2cd19cd5fe081fc98423",
+      "remembered_at": "2026-11-22T15:33:30.670704+00:00",
+      "event_date": "2026-11-22T13:44:06+00:00",
+      "last_update": "2026-11-22T13:44:06+00:00",
+      "event": "OpenAI rolls out ChatGPT Space to Plus subscribers worldwide",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "chatgpt",
+        "openai",
+        "out",
+        "plus",
+        "rolls",
+        "space",
+        "subscribers",
+        "worldwide"
+      ],
+      "source_excerpt": "OpenAI rolls out ChatGPT Space to Plus subscribers worldwide",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/openai-rolls-out-chatgpt-space-to-plus-subscribers-worldwide",
+          "published_at": "2026-11-22T13:44:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/openai-rolls-out-chatgpt-space-to-plus-subscribers-worldwide",
+        "publisher_url": "https://arynews.tv/openai-rolls-out-chatgpt-space-to-plus-subscribers-worldwide",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a9869f91511dc04c69b17826",
+      "remembered_at": "2026-11-22T15:33:30.670704+00:00",
+      "event_date": "2026-11-22T13:44:36+00:00",
+      "last_update": "2026-11-22T13:44:36+00:00",
+      "event": "No option to lose war against terrorism, says KP governor",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "governor",
+        "lose",
+        "option",
+        "samaa",
+        "says",
+        "terrorism",
+        "war"
+      ],
+      "source_excerpt": "No option to lose war against terrorism, says KP governor samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2tzVG93ZG9KYjhZSjFSS29UN1RIREdJaGhEdFhLSGNXc2czczNuSUhJMHQ5NGZaZENRTVM4VzRtaHktNk9HV0RmamNCM1J5Q05VMzlJNWlWNDgxRXMxMlBESUdtRXdiMVVJdUZvTUxBSTdWVk5ENGRXZlhmdkx6Qy1pVlhucVA2MU5fT3R2VkxRRFlCaHZuRHFwLWJZRHV6SjZIVA?oc=5",
+          "published_at": "2026-11-22T13:44:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2tzVG93ZG9KYjhZSjFSS29UN1RIREdJaGhEdFhLSGNXc2czczNuSUhJMHQ5NGZaZENRTVM4VzRtaHktNk9HV0RmamNCM1J5Q05VMzlJNWlWNDgxRXMxMlBESUdtRXdiMVVJdUZvTUxBSTdWVk5ENGRXZlhmdkx6Qy1pVlhucVA2MU5fT3R2VkxRRFlCaHZuRHFwLWJZRHV6SjZIVA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T14:49:26.130973+00:00"
+  "updated_at": "2026-11-22T15:33:30.670704+00:00"
 }

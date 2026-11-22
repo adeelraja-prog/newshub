@@ -1,35 +1,35 @@
-# News Hub report - Sun 22 Nov, 07:49 PM PKT
+# News Hub report - Sun 22 Nov, 08:33 PM PKT
 
 ## Collection
-- New items this run: 131 | items in rolling pool: 589
-- Unique story clusters: 503 (duplicates merged: 86)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 3
-- Items per outlet: UrduPoint 100, Al Jazeera 5, ProPakistani 5, Engadget 3, Geo News 2, samaa tv 2, The Verge 2, The Express Tribune 1, Dawn Pakistan 1, ARY News 1, Dawn 1, Fortune 1
+- New items this run: 34 | items in rolling pool: 596
+- Unique story clusters: 507 (duplicates merged: 89)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 4
+- Items per outlet: ARY News 5, samaa tv 3, Dawn 3, Al Jazeera 3, Engadget 3, Dawn Latest 2, Geo News 2, Pakistan Today 2, ARYnews.tv 1, Dawn Pakistan 1, Aaj English TV 1, TechCrunch 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan to host annual meeting of IAEA nuclear security network from Nov 23-26 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Major fire erupts at a fuel station in Lagos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Children in besieged Gaza struggle to find life-saving insulin for diabetes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oman to supply petroleum products, $200m credit facility to PSO under new agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- COP31 climate talks set to collapse without political deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Centrica boss 'hugely concerned' over impact of soaring energy bills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Uncovering a Criminal Network on the Early Internet | True Crime Reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan to host annual meeting of IAEA nuclear security network from Nov 23-26 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Major fire erupts at a fuel station in Lagos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Children in besieged Gaza struggle to find life-saving insulin for diabetes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oman to supply petroleum products, $200m credit facility to PSO under new agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- COP31 climate talks set to collapse without political deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Centrica boss 'hugely concerned' over impact of soaring energy bills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Uncovering a Criminal Network on the Early Internet | True Crime Reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan to host annual meeting of IAEA nuclear security network from Nov 23-26 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Major fire erupts at a fuel station in Lagos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Children in besieged Gaza struggle to find life-saving insulin for diabetes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oman to supply petroleum products, $200m credit facility to PSO under new agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- COP31 climate talks set to collapse without political deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Centrica boss 'hugely concerned' over impact of soaring energy bills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Uncovering a Criminal Network on the Early Internet | True Crime Reports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,10 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Why Iran Has Ramped Up Attacks Across the Gulf  [NORMAL]
-- Poster: خلیج فارس میں ایران کے حملوں میں اضافہ کیوں ہوا؟ / Why Did Iran Escalate Gulf Attacks? | category us_politics
-- Alternative headline: The Pressure Behind Iran's Recent Escalation in the Gulf
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Iran attacks, Gulf escalation, US sanctions, Tehran, naval blockade | hashtags: #Iran #Gulf #US #MiddleEast #AlJazeera
-- Scheduled: Sun 22 Nov, 07:49 PM PKT
-- Caption:
-```
-Tehran has intensified its attacks as a US naval blockade and heavy sanctions severely squeeze the country's economy.
-
-Tehran has stepped up its attacks in the region as a US naval blockade and ongoing sanctions campaign continue to inflict heavy economic pressure on the country.
-
-امریکہ کی بحری ناکہ بندی اور پابندیوں کی مہم کی وجہ سے ملک کو معاشی نقصان پہنچنے پر تہران نے خلیج میں حملوں میں اضافہ کر دیا ہے۔
-
-First reported by Al Jazeera
-
-#Iran #Gulf #US #MiddleEast #AlJazeera
-```
-
-### Iran Has Achieved Military Deterrence Against Enemy: Ghalibaf  [NORMAL]
-- Poster: ایران نے دشمن کے خلاف فوجی ڈیٹرنس حاصل کر لیا ہے: قالیباف / Iran Achieved Military Deterrence: Ghalibaf | category other
-- Alternative headline: Ghalibaf Claims Iran Reached Military Deterrence Point Against Enemy
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxPTDFZa0g0dUVTUkZnSllkMzFtcXF3SjBMa2tEZXlxcVFfQUNvaENJM0llamNRcVR3VUJjLVhfYWRub1hzUDNPSUp5clF3VlJPYW92Ump0X05zTXgxUHRZck1GQ2N3dTIxdG0tRlg4enhNX0NYZVRCbG9mWDFyWkJSblJsajdtVndkRkViaUM2bGZfSjJDQ2o4?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxPTDFZa0g0dUVTUkZnSllkMzFtcXF3SjBMa2tEZXlxcVFfQUNvaENJM0llamNRcVR3VUJjLVhfYWRub1hzUDNPSUp5clF3VlJPYW92Ump0X05zTXgxUHRZck1GQ2N3dTIxdG0tRlg4enhNX0NYZVRCbG9mWDFyWkJSblJsajdtVndkRkViaUM2bGZfSjJDQ2o4?oc=5
-- Supporting coverage: Mehr News Agency, samaa tv, Kurdistan24
-- Keywords: Ghalibaf, Iran military, deterrence, samaa tv | hashtags: #Iran #Ghalibaf #Military #Deterrence #SamaaTV
-- Scheduled: Sun 22 Nov, 07:59 PM PKT
-- Caption:
-```
-Top Iranian official Ghalibaf asserts that the country has successfully established military deterrence against its adversaries.
-
-Iran has successfully achieved military deterrence against its enemies, according to statements highlighted by Samaa TV citing regional reports.
-
-سما ٹی وی کی رپورٹ کے مطابق ایران نے دشمن کے خلاف فوجی ڈیٹرنس حاصل کر لیا ہے، جس کا اظہار قالیباف نے کیا۔
-
-First reported by samaa tv
-
-#Iran #Ghalibaf #Military #Deterrence #SamaaTV
-```
-
-### Pakistan to Host IAEA Nuclear Security Meeting in Islamabad  [NORMAL]
-- Poster: پاکستان آئی اے ای اے کے جوہری سیکیورٹی نیٹ ورک کے اجلاس کی میزبانی کرے گا / Pakistan to Host IAEA Nuclear Meeting | category other
-- Alternative headline: Islamabad Set to Host 15th IAEA Nuclear Security Network Meeting
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046329/pakistan-to-host-annual-meeting-of-iaea-nuclear-security-network-from-nov-23-26 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046329/pakistan-to-host-annual-meeting-of-iaea-nuclear-security-network-from-nov-23-26
-- Supporting coverage: Dawn Pakistan, Dawn
-- Keywords: IAEA, Pakistan, Islamabad, nuclear security, Foreign Office | hashtags: #Pakistan #IAEA #Islamabad #NuclearSecurity #Dawn
-- Scheduled: Sun 22 Nov, 08:09 PM PKT
-- Caption:
-```
-Pakistan is set to host the 15th annual meeting of the IAEA's nuclear security network in Islamabad.
-
-Pakistan will host the 15th annual meeting of the International Network for Nuclear Security Training and Support Centres in Islamabad from November 23-26 in collaboration with the IAEA, according to the Foreign Office.
-
-ترجمان دفتر خارجہ کے مطابق پاکستان 23 سے 26 نومبر تک اسلام آباد میں آئی اے ای اے کے تعاون سے جوہری سیکیورٹی ٹریننگ نیٹ ورک کے 15ویں سالانہ اجلاس کی میزبانی کرے گا۔
-
-First reported by Dawn Pakistan
-
-#Pakistan #IAEA #Islamabad #NuclearSecurity #Dawn
-```
-
-### Major Fire Erupts at Fuel Station in Lagos  [NORMAL]
-- Poster: لاگوس کے فیول اسٹیشن پر خوفناک آتشزدگی / Major Fire at Lagos Fuel Station | category disaster
-- Alternative headline: Fuel Station Catches Fire in Major Lagos Incident
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Lagos fire, fuel station, Al Jazeera, fire outbreak | hashtags: #Lagos #Fire #Nigeria #BreakingNews #AlJazeera
-- Scheduled: Sun 22 Nov, 08:19 PM PKT
-- Caption:
-```
-A major fire has broken out at a fuel station in Lagos, according to recent video reports.
-
-A major fire erupted at a fuel station in Lagos, as captured in newsfeed reports provided by Al Jazeera.
-
-الجزیرہ کی رپورٹ کے مطابق لاگوس میں ایک فیول اسٹیشن پر شدید آگ بھڑک اٹھی ہے۔
-
-First reported by Al Jazeera
-
-#Lagos #Fire #Nigeria #BreakingNews #AlJazeera
-```
-
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 23 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [needs_review] normal | Sindh CM proposes Wuhan-style city management model for Karachi | Thu 19 Nov, 03:06 PM PKT
@@ -349,7 +253,7 @@ First reported by Al Jazeera
 - [needs_review] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
 - [published] normal | Jeff Bezos and Lauren Sánchez expand their influence across Hollywood | Sun 22 Nov, 01:04 PM PKT
 - [published] normal | Trump's exit strategy may depend on quietly lifting Iran blockade | Sun 22 Nov, 02:30 PM PKT
-- [queued] normal | Three dead and 36 missing after Indonesian factory fire | Sun 22 Nov, 02:40 PM PKT
+- [published] normal | Three dead and 36 missing after Indonesian factory fire | Sun 22 Nov, 02:40 PM PKT
 - [queued] normal | Veteran journalist Hussain Naqi passes away in Lahore | Sun 22 Nov, 02:50 PM PKT
 - [queued] normal | Three TTP-linked terrorists killed in CTD operation near Peshawar | Sun 22 Nov, 03:00 PM PKT
 - [queued] normal | Saudi-led coalition intercepts Houthi ballistic missile targeting west | Sun 22 Nov, 03:24 PM PKT
@@ -375,16 +279,25 @@ First reported by Al Jazeera
 - [queued] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
 
 ## Publishing this run
-- Published 'Trump's exit strategy may depend on quietly lifting Iran blockade'.
+- Published 'Three dead and 36 missing after Indonesian factory fire'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5712 | output tokens: 2052
-- Errors: 2
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"
