@@ -1,35 +1,35 @@
-# News Hub report - Mon 23 Nov, 03:16 AM PKT
+# News Hub report - Mon 23 Nov, 04:02 AM PKT
 
 ## Collection
-- New items this run: 14 | items in rolling pool: 332
-- Unique story clusters: 292 (duplicates merged: 40)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 4
-- Items per outlet: The Express Tribune 4, Engadget 4, Al Jazeera 3, Dawn Latest 1, TechCrunch 1, The Times of Israel 1
+- New items this run: 13 | items in rolling pool: 271
+- Unique story clusters: 241 (duplicates merged: 30)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 8
+- Items per outlet: The Express Tribune 2, Dawn Latest 2, Engadget 2, Geo News 1, Al Jazeera 1, The Guardian 1, The Verge 1, i24NEWS 1, Inquirer.net 1, NPR 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Miley Cyrus marries Maxx Morando in California ceremony | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Second ship targeted in series of naval drone attacks off Libyan coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Heartbreak in US capital as Washington Spirit lose women’s football final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pochettino backs Manchester United players after Liverpool thrashing, rejects relegation talk | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - How Pakistanis save | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Naya Pakistan - 22nd November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Oman strengthen energy cooperation with PSO and OQ agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan A erupt with a savage send-off for Harshit Rana after thrilling triumph | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Miley Cyrus marries Maxx Morando in California ceremony | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Second ship targeted in series of naval drone attacks off Libyan coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Heartbreak in US capital as Washington Spirit lose women’s football final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pochettino backs Manchester United players after Liverpool thrashing, rejects relegation talk | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - How Pakistanis save | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Naya Pakistan - 22nd November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Oman strengthen energy cooperation with PSO and OQ agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan A erupt with a savage send-off for Harshit Rana after thrilling triumph | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Miley Cyrus marries Maxx Morando in California ceremony | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Second ship targeted in series of naval drone attacks off Libyan coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Heartbreak in US capital as Washington Spirit lose women’s football final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pochettino backs Manchester United players after Liverpool thrashing, rejects relegation talk | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - How Pakistanis save | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Naya Pakistan - 22nd November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Oman strengthen energy cooperation with PSO and OQ agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan A erupt with a savage send-off for Harshit Rana after thrilling triumph | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,109 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Netanyahu and Eisenkot End Coalition Talks Without a Deal  [NORMAL]
-- Poster: نتنیاہو اور آئزن کوٹ کے درمیان مخلوط حکومت پر مذاکرات ناکام / Netanyahu and Eisenkot Coalition Talks Collapse | category politics
-- Alternative headline: Likud and Yashar Fail to Reach Agreement on New Government
+### Prince William to Focus on Defence in 2027 Overseas Push  [NORMAL]
+- Poster: برطانوی شہزادہ ولیم 2027 میں دفاعی نوعیت کے غیر ملکی دورے کریں گے / Prince William to Focus on Defence Abroad in 2027 | category politics
+- Alternative headline: Kensington Palace Confirms Prince William's Expanded International Defence Role
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: coalition talks, Netanyahu, Eisenkot, Likud, Yashar, government | hashtags: #Netanyahu #IsraelPolitics #Likud #MiddleEast #Government
-- Scheduled: Mon 23 Nov, 03:16 AM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/692221-kensington-palace-confirms-prince-williams-overseas-push-focused-on-defence | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692221-kensington-palace-confirms-prince-williams-overseas-push-focused-on-defence
+- Supporting coverage: Geo News
+- Keywords: Prince William, Kensington Palace, defence, UK alliances, international role | hashtags: #PrinceWilliam #KensingtonPalace #UKPolitics #Defence
+- Scheduled: Mon 23 Nov, 04:02 AM PKT
 - Caption:
 ```
-Political uncertainty deepens as coalition talks between Netanyahu's Likud and Eisenkot's Yashar collapse without an agreement.
+Kensington Palace has confirmed that Prince William will take on a bigger international role next year with a focus on defence.
 
-Coalition talks between Benjamin Netanyahu's Likud party and Gadi Eisenkot's Yashar have ended without a deal. The parties remain deeply divided over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join the coalition.
+Prince William is set to undertake a series of overseas visits to Europe and the Middle East in early 2027 at the British government's request. Kensington Palace stated that the visits will focus heavily on defence, security, and strengthening key alliances amid global instability.
 
-بنیامین نیتنیاہو کی لیکود پارٹی اور گادی آئزن کوٹ کی یشار کے درمیان مخلوط حکومت کے لیے مذاکرات کسی معاہدے کے بغیر ختم ہو گئے ہیں۔ دونوں فریقین اس بات پر منقسم ہیں کہ اگلی حکومت کی قیادت کون کرے گا اور آیا انتہائی دائیں بازو کے وزیر ایتامار بن گویر اس میں شامل ہوں گے۔
+برطانوی حکومت کی درخواست پر شہزادہ ولیم 2027 کے آغاز میں یورپ اور مشرق وسطیٰ کے دورے کریں گے۔ کینزنگتون محل کے مطابق ان دوروں کا مقصد دفاع، سیکیورٹی اور اتحادیوں کے ساتھ تعلقات کو مزید مضبوط بنانا ہے۔
 
-According to Al Jazeera
+First reported by Geo News.
 
-#Netanyahu #IsraelPolitics #Likud #MiddleEast #Government
+#PrinceWilliam #KensingtonPalace #UKPolitics #Defence
 ```
 
-### Miley Cyrus Marries Maxx Morando in California Ceremony  [NORMAL]
-- Poster: مائلی سائرس نے میکس مورینڈو سے شادی کر لی / Miley Cyrus Marries Maxx Morando | category lifestyle
-- Alternative headline: Pop Star Miley Cyrus Weds Maxx Morando in Palm Springs
+### Pochettino Backs Man United Players After Liverpool Thrashing  [NORMAL]
+- Poster: لیورپول کے ہاتھوں شکست کے بعد پوچٹینو نے مانچسٹر یونائیٹڈ کے کھلاڑیوں کی حمایت کر دی / Pochettino Backs United Players After Heavy Defeat | category sports
+- Alternative headline: Mauricio Pochettino Rejects Relegation Fears After Nightmare Liverpool Defeat
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Miley Cyrus wedding, Maxx Morando, California, Palm Springs, marriage, celebrity | hashtags: #MileyCyrus #MaxxMorando #CelebrityWedding #Entertainment #Hollywood
-- Scheduled: Mon 23 Nov, 03:26 AM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046403/pochettino-backs-manchester-united-players-after-liverpool-thrashing-rejects-relegation-talk | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046403/pochettino-backs-manchester-united-players-after-liverpool-thrashing-rejects-relegation-talk
+- Supporting coverage: Dawn Latest
+- Keywords: Mauricio Pochettino, Manchester United, Liverpool, Premier League, relegation | hashtags: #ManUtd #Pochettino #PremierLeague #LFC
+- Scheduled: Mon 23 Nov, 04:12 AM PKT
 - Caption:
 ```
-Pop star Miley Cyrus has tied the knot with her partner of four years, Maxx Morando, in a ceremony in California.
+Mauricio Pochettino has backed his Manchester United players and rejected relegation talk following a heavy defeat to Liverpool.
 
-Grammy-winning singer Miley Cyrus has married drummer Maxx Morando during an intimate ceremony in Palm Springs, California. The couple, together for four years, celebrated their wedding surrounded by family and friends, wearing custom outfits by Saint Laurent.
+Following a 4-0 defeat to Liverpool in his first game in charge, Manchester United manager Mauricio Pochettino defended his players' commitment and fight. Despite United remaining 19th in the Premier League, Pochettino rejected suggestions that the club faces a relegation battle.
 
-مشہور گلوکارہ مائلی سائرس نے کیلیفورنیا کے علاقے پام اسپرنگس میں ایک تقریب کے دوران اپنے چار سال کے ساتھی میکس مورینڈو سے شادی کر لی ہے۔ اس جوڑے نے خاندان اور دوستوں کی موجودگی میں شادی کی اور تقریب میں خصوصی ملبوسات زیب تن کیے۔
+مانچسٹر یونائیٹڈ کے مینیجر مورشیو پوچٹینو نے لیورپول کے خلاف 4-0 کی شکست کے باوجود اپنے کھلاڑیوں کی کارکردگی اور عزم کی تعریف کی ہے۔ انہوں نے ان تاثرات کو مسترد کر دیا کہ کلب کو ریگریشن کا خطرہ ہے۔
 
-First reported by BBC World
+First reported by Dawn.
 
-#MileyCyrus #MaxxMorando #CelebrityWedding #Entertainment #Hollywood
+#ManUtd #Pochettino #PremierLeague #LFC
 ```
 
-### Second Ship Targeted in Naval Drone Attacks Off Libyan Coast  [NORMAL]
-- Poster: لیبیا کے ساحل کے قریب ڈرون حملے میں دوسرا بحری جہاز نشانہ / Second Ship Targeted Off Libyan Coast | category security
-- Alternative headline: Maltese Flag Commercial Vessel Hit in Attack Near Benghazi
+### How Pakistanis Save: An Express Tribune Report  [NORMAL]
+- Poster: پاکستانی کس طرح بچت کرتے ہیں؟ رپورٹ سامنے آگئی / How Pakistanis Save Money | category other
+- Alternative headline: Exploring Saving Habits Among Pakistanis
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: naval drone attack, Libya, Benghazi, commercial vessel, Maltese flag, security | hashtags: #Libya #NavalAttack #Security #MiddleEast #Shipping
-- Scheduled: Mon 23 Nov, 03:36 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jZ1dUX2xfTUI5Z2Y0bXhoa0JpUk5OdmlwdmRxeS1tLXJnQ1ZWXzlLUkliRktmVVpaOU5xS0lTc2hFRjVDbUJfcnlnU2xDQk5aNDhiZW0tamZBVjNkamU0T3l1blUxdWPSAW9BVV95cUxPZnBjR2RLNkUyeV9ORVBzT19uYlIyZWFWNDZLcDRNRlFIME81UUhnX3E3UHFmVEtqLXl5OGlRaVFhREZOYjdLMmxqWndGc0pGQTZjQThuN2VZWXo1Q3FiN0J1MGJQRUEyU01GZEtKc3M?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jZ1dUX2xfTUI5Z2Y0bXhoa0JpUk5OdmlwdmRxeS1tLXJnQ1ZWXzlLUkliRktmVVpaOU5xS0lTc2hFRjVDbUJfcnlnU2xDQk5aNDhiZW0tamZBVjNkamU0T3l1blUxdWPSAW9BVV95cUxPZnBjR2RLNkUyeV9ORVBzT19uYlIyZWFWNDZLcDRNRlFIME81UUhnX3E3UHFmVEtqLXl5OGlRaVFhREZOYjdLMmxqWndGc0pGQTZjQThuN2VZWXo1Q3FiN0J1MGJQRUEyU01GZEtKc3M?oc=5
+- Supporting coverage: The Express Tribune
+- Keywords: savings, Pakistanis, finance, The Express Tribune | hashtags: #Pakistan #Savings #Economy
+- Scheduled: Mon 23 Nov, 04:22 AM PKT
 - Caption:
 ```
-Maritime security concerns grow as a second commercial vessel is targeted in drone attacks off the coast of Libya.
+A recent report looks into how people across Pakistan manage their savings.
 
-A second commercial vessel flying a Maltese flag has been targeted in a series of naval drone attacks off the coast of Benghazi, Libya. The incident marks a rising security threat to shipping lanes in the region.
+The Express Tribune published a report discussing saving habits and financial management practices among people in Pakistan.
 
-لیبیا کے شہر بنغازی کے قریب سمندری ڈرون حملوں کے نتیجے میں مالٹا کا پرچم اٹھائے ہوئے ایک دوسرے تجارتی جہاز کو نشانہ بنایا گیا ہے۔ اس واقعے سے خطے میں بحری جہاز رانی کے راستوں پر سیکیورٹی کے خطرات بڑھ گئے ہیں۔
+دی ایکسپریس ٹریبیون نے ایک رپورٹ شائع کی ہے جس میں پاکستان میں لوگوں کی بچت کی عادات اور مالیاتی امور پر روشنی ڈالی گئی ہے۔
 
-According to Al Jazeera
+First reported by The Express Tribune.
 
-#Libya #NavalAttack #Security #MiddleEast #Shipping
+#Pakistan #Savings #Economy
 ```
 
-### Heartbreak for Washington Spirit as KC Current Win NWSL Final  [NORMAL]
-- Poster: واشنگٹن اسپرٹ کو این ڈبلیو ایس ایل فائنل میں شکست کا سامنا / Washington Spirit Lose NWSL Final | category sports
-- Alternative headline: Washington Spirit Lose Third Consecutive NWSL Championship Final
+### Naya Pakistan Episode Broadcast on 22nd November 2026  [NORMAL]
+- Poster: جیو نیوز کا پروگرام نیا پاکستان 22 نومبر 2026 / Naya Pakistan Program Airs on Geo News | category politics
+- Alternative headline: Geo News Airs Naya Pakistan Program
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: NWSL final, Washington Spirit, KC Current, womens football, championship, sports | hashtags: #NWSL #WashingtonSpirit #KCCurrent #WomensFootball #Sports
-- Scheduled: Mon 23 Nov, 03:46 AM PKT
+- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmJVQm5nVHdOV0FEWFdVVTd0ZzlEd3JpTzdfYUtQLUQ4ekhhaTNoRlhTVmlqS3NteWIyOU5xdG9iamZEdTEzdkwyLS1pM0tRb0Z1UUpKeW1wbkpJdEFWZm5RWkpiWmhhQ1B2U19zbGRiNzMzZEgxbEJFYVVEYnpHd2dBMks?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmJVQm5nVHdOV0FEWFdVVTd0ZzlEd3JpTzdfYUtQLUQ4ekhhaTNoRlhTVmlqS3NteWIyOU5xdG9iamZEdTEzdkwyLS1pM0tRb0Z1UUpKeW1wbkpJdEFWZm5RWkpiWmhhQ1B2U19zbGRiNzMzZEgxbEJFYVVEYnpHd2dBMks?oc=5
+- Supporting coverage: Geo News
+- Keywords: Naya Pakistan, Geo News, current affairs, politics | hashtags: #NayaPakistan #GeoNews #CurrentAffairs
+- Scheduled: Mon 23 Nov, 04:32 AM PKT
 - Caption:
 ```
-Heartbreak in the US capital as the Washington Spirit fall short in the NWSL championship final against KC Current.
+Geo News has broadcast its current affairs program Naya Pakistan.
 
-The Washington Spirit suffered heartbreak in front of a home crowd as they lost the NWSL championship final to the KC Current. This marks the third consecutive final defeat for the Spirit despite strong support in the US capital.
+Geo News aired its regular current affairs television program, Naya Pakistan, covering major political developments of the day.
 
-واشنگٹن اسپرٹ کو اپنے گھریلو شائقین کے سامنے این ڈبلیو ایس ایل چیمپئن شپ کے فائنل میں کے سی کرنٹ کے ہاتھوں شکست کا سامنا کرنا پڑا۔ واشنگٹن اسپرٹ کی مسلسل تیسری فائنل میں یہ ہار ہے۔
+جیو نیوز نے اپنے سیاسی اور اُمورِ عامہ کے پروگرام 'نیا پاکستان' کی نئی قسط نشر کی ہے جس میں دن بھر کے اہم سیاسی حالات کا احاطہ کیا گیا۔
 
-According to Al Jazeera
+First reported by Geo News.
 
-#NWSL #WashingtonSpirit #KCCurrent #WomensFootball #Sports
+#NayaPakistan #GeoNews #CurrentAffairs
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [published] normal | Pakistan and 14 nations welcome UK and Australian sanctions on Israeli | Fri 20 Nov, 03:21 AM PKT
 - [needs_review] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
 - [needs_review] normal | President urges swift implementation of Pakistan-Maldives agreements | Fri 20 Nov, 03:41 AM PKT
 - [needs_review] normal | Lahore officially named ECO Tourism Capital for 2027 | Fri 20 Nov, 03:51 AM PKT
@@ -356,9 +355,9 @@ According to Al Jazeera
 - [needs_review] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
 - [published] normal | COP31 climate talks collapse as EU and others reject final deal | Sun 22 Nov, 09:26 PM PKT
 - [published] normal | Oman to supply petroleum products with $200m credit facility to PSO | Sun 22 Nov, 09:36 PM PKT
-- [queued] normal | Explosion on Russian ship at Libya port caused by suspected drone atta | Sun 22 Nov, 09:46 PM PKT
-- [queued] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
-- [queued] normal | Mohsin Naqvi slams minister over repeated TV criticism, defends busine | Sun 22 Nov, 11:01 PM PKT
+- [needs_review] normal | Explosion on Russian ship at Libya port caused by suspected drone atta | Sun 22 Nov, 09:46 PM PKT
+- [needs_review] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
+- [published] normal | Mohsin Naqvi slams minister over repeated TV criticism, defends busine | Sun 22 Nov, 11:01 PM PKT
 - [queued] normal | Pakistan announces first nationwide diabetes prevention and control pr | Sun 22 Nov, 11:11 PM PKT
 - [queued] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
 - [queued] normal | Canada’s PM appears next to Trump impersonator at press dinner | Sun 22 Nov, 11:31 PM PKT
@@ -383,16 +382,16 @@ According to Al Jazeera
 - [queued] normal | Miley Cyrus Marries Maxx Morando in California Ceremony | Mon 23 Nov, 03:26 AM PKT
 - [queued] normal | Second Ship Targeted in Naval Drone Attacks Off Libyan Coast | Mon 23 Nov, 03:36 AM PKT
 - [queued] normal | Heartbreak for Washington Spirit as KC Current Win NWSL Final | Mon 23 Nov, 03:46 AM PKT
+- [queued] normal | Prince William to Focus on Defence in 2027 Overseas Push | Mon 23 Nov, 04:02 AM PKT
+- [queued] normal | Pochettino Backs Man United Players After Liverpool Thrashing | Mon 23 Nov, 04:12 AM PKT
+- [queued] normal | How Pakistanis Save: An Express Tribune Report | Mon 23 Nov, 04:22 AM PKT
+- [queued] normal | Naya Pakistan Episode Broadcast on 22nd November 2026 | Mon 23 Nov, 04:32 AM PKT
 
 ## Publishing this run
-- Published 'Oman to supply petroleum products with $200m credit facility to PSO'.
+- Published 'Mohsin Naqvi slams minister over repeated TV criticism, defends business community'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 7498 | output tokens: 4287
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 4722 | output tokens: 2124
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 59 column 7 (char 2834)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
