@@ -114590,7 +114590,229 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "35abe00c04c9d455975c3542",
+      "remembered_at": "2026-11-22T11:14:30.754244+00:00",
+      "event_date": "2026-11-22T07:42:25+00:00",
+      "last_update": "2026-11-22T10:50:48+00:00",
+      "event": "Drone Attack on Russian Cargo Ship! Vessel Catches Fire | Breaking News | Dunya News.",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "breaking",
+        "cargo",
+        "catches",
+        "drone",
+        "dunya",
+        "fire",
+        "news",
+        "russian",
+        "ship",
+        "vessel"
+      ],
+      "source_excerpt": "Drone Attack on Russian Cargo Ship! Vessel Catches Fire | Breaking News | Dunya News. Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXBmbTdQZ3NtZVFxSlhpbVlZdlB6enhGTW9Kc1JRdk0tR2NxcWktUkNZNFVIaG5mcmxkel9pMjZRSklzckFLaEt4RUdsbk9oUDM1Q3p5Tmt3WmRJREM4cnlheHJJdXgweVhnX25sZU5vVmVSV1YyM3huN0dqclhmSTFpMEV5aWUtdHVPWmhLWG1oS3NVay1yWkZPRnNyNTNQNmpPLUk4UE9uenNMTEl3UC1QNmZSQ3BUMG84aFFtQmtHU0JHMkFQZW0yWloxM1BIR09SNg?oc=5",
+          "published_at": "2026-11-22T07:42:25+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
+          "published_at": "2026-11-22T10:39:50+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/russian-cargo-ship-still-on-fire-off-finland-after-attack",
+          "published_at": "2026-11-22T10:50:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXBmbTdQZ3NtZVFxSlhpbVlZdlB6enhGTW9Kc1JRdk0tR2NxcWktUkNZNFVIaG5mcmxkel9pMjZRSklzckFLaEt4RUdsbk9oUDM1Q3p5Tmt3WmRJREM4cnlheHJJdXgweVhnX25sZU5vVmVSV1YyM3huN0dqclhmSTFpMEV5aWUtdHVPWmhLWG1oS3NVay1yWkZPRnNyNTNQNmpPLUk4UE9uenNMTEl3UC1QNmZSQ3BUMG84aFFtQmtHU0JHMkFQZW0yWloxM1BIR09SNg?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ce140e8d505dcbd20eeee1a4",
+      "remembered_at": "2026-11-22T11:14:30.754244+00:00",
+      "event_date": "2026-11-22T06:10:00+00:00",
+      "last_update": "2026-11-22T10:43:48+00:00",
+      "event": "Hazlewood says was never close with Khawaja but has no issues with book",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "book",
+        "but",
+        "close",
+        "geo",
+        "has",
+        "hazlewood",
+        "issues",
+        "khawaja",
+        "never",
+        "news",
+        "says",
+        "was",
+        "with"
+      ],
+      "source_excerpt": "Hazlewood says was never close with Khawaja but has no issues with book Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjRIZTdodWNwTjFUZ3cxUy1NX1RzaEd1b2VhbnBadVJ5b3IxVDd1akJKSlY5NnJBWllUcE5Jc3V3cVE0bThxaUlzT1lOWDBHRHdtclZQUzdncnFxVy1MdTJZZEdOb21lVDkyNl84MXNxWFhQOV84cktSNjBkM3dUY2FwV0s0eWZTdjdsM0ZIT2FmTng2Y3FfWFBKemUwTjd4SUQzNzlldw?oc=5",
+          "published_at": "2026-11-22T06:10:00+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/josh-hazlewood-says-was-never-close-with-usman-khawaja",
+          "published_at": "2026-11-22T10:43:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjRIZTdodWNwTjFUZ3cxUy1NX1RzaEd1b2VhbnBadVJ5b3IxVDd1akJKSlY5NnJBWllUcE5Jc3V3cVE0bThxaUlzT1lOWDBHRHdtclZQUzdncnFxVy1MdTJZZEdOb21lVDkyNl84MXNxWFhQOV84cktSNjBkM3dUY2FwV0s0eWZTdjdsM0ZIT2FmTng2Y3FfWFBKemUwTjd4SUQzNzlldw?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "94292cf47faf7d5c34652f76",
+      "remembered_at": "2026-11-22T11:14:30.754244+00:00",
+      "event_date": "2026-11-22T11:09:15+00:00",
+      "last_update": "2026-11-22T11:09:15+00:00",
+      "event": "India | Latest News & Updates",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "india",
+        "latest",
+        "news",
+        "updates"
+      ],
+      "source_excerpt": "India | Latest News & Updates BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BRS1adzJoeFlUU0FSNWktWG9WamR6dUJfRGREY2VUZ3FCVENXZkFseEhpZE1iakJRakt0cmJ0VWVsQm1ZSTJ0QjQ3QnBZdlpjcTZr?oc=5",
+          "published_at": "2026-11-22T11:09:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BRS1adzJoeFlUU0FSNWktWG9WamR6dUJfRGREY2VUZ3FCVENXZkFseEhpZE1iakJRakt0cmJ0VWVsQm1ZSTJ0QjQ3QnBZdlpjcTZr?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f005d035b0356005c8c98b77",
+      "remembered_at": "2026-11-22T11:14:30.754244+00:00",
+      "event_date": "2026-11-22T10:26:00+00:00",
+      "last_update": "2026-11-22T10:26:00+00:00",
+      "event": "Karachi placed on 'high alert', traffic advisory issued ahead of planned rallies",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "across",
+        "advisory",
+        "ahead",
+        "alert",
+        "closed",
+        "commuters",
+        "consulate",
+        "containers",
+        "deploy",
+        "due",
+        "general",
+        "gurumandir",
+        "high",
+        "image",
+        "issued",
+        "jui",
+        "karachi",
+        "key",
+        "leading",
+        "locations",
+        "march",
+        "past",
+        "people",
+        "personnel",
+        "placed",
+        "planned",
+        "police",
+        "protest",
+        "rallies",
+        "remain",
+        "reutersauthorities",
+        "ride",
+        "road",
+        "shipping",
+        "shows",
+        "the",
+        "this",
+        "traffic",
+        "urged",
+        "use"
+      ],
+      "source_excerpt": "This image shows people ride past shipping containers on a road leading to the US Consulate General in Karachi, on March 2, 2026. — ReutersAuthorities deploy personnel at key locations across Karachi.Gurumandir road to remain closed due to JUI-F protest: police.Commuters urged to use...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692170-karachi-placed-on-high-alert-traffic-advisory-issued-ahead-of-planned-rallies",
+          "published_at": "2026-11-22T10:26:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb1ZMakdpdzJiQWFhQXZaX0tqaWJNaUdlRENDQlFSWlRIdGtPdHlRQU1VSXZBUlZKUzJMdzZpQ293aThLV09UYkM1YWxjZnRTY2ZZQm9qb2dnbXhiNG9Ec0ZtRzU2akhPdUwyOTNFWTIzTlRSeFUzR3JFa0xad01IdUdoMklLS2xJRThxU0FheTR1X012MF94NDFmb21pTFBmbGJnMlhaTG9tRWRPdERB?oc=5",
+          "published_at": "2026-11-22T10:26:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692170-karachi-placed-on-high-alert-traffic-advisory-issued-ahead-of-planned-rallies",
+        "publisher_url": "https://www.geo.tv/latest/692170-karachi-placed-on-high-alert-traffic-advisory-issued-ahead-of-planned-rallies",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T10:24:35.483421+00:00"
+  "updated_at": "2026-11-22T11:14:30.754244+00:00"
 }

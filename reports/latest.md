@@ -1,34 +1,35 @@
-# News Hub report - Sun 22 Nov, 03:24 PM PKT
+# News Hub report - Sun 22 Nov, 04:14 PM PKT
 
 ## Collection
-- New items this run: 49 | items in rolling pool: 288
-- Unique story clusters: 246 (duplicates merged: 42)
-- Clusters dropped as already published/queued: 19; unchanged since last analysis: 2
-- Items per outlet: UrduPoint 16, ARY News 4, Al Jazeera 3, samaa tv 2, Dawn 2, The Express Tribune 2, Geo News 2, 8AM Media 2, ARYnews.tv 1, The News International 1, Dunya News 1, Aaj English TV 1
+- New items this run: 57 | items in rolling pool: 332
+- Unique story clusters: 281 (duplicates merged: 51)
+- Clusters dropped as already published/queued: 21; unchanged since last analysis: 3
+- Items per outlet: UrduPoint 21, Geo News 9, ARY News 5, samaa tv 4, Wired 3, The Express Tribune 2, TechJuice 2, Dawn 1, Dawn Pakistan 1, Al Jazeera 1, The Arab Weekly 1, Middle East Online 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GAME? | https://www.youtube.com/watch?v=JvXSSo9CNH0
 
 ## Top 5 most important
-- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi-led coalition says it intercepted Houthi ballistic missile targeting western Saudi Arabia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- لاہور: سینئر صحافی حسین نقی انتقال کر گئے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI demands jail manual facilities for party founder Irman Khan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drone Attack on Russian Cargo Ship! Vessel Catches Fire | Breaking News | Dunya News. | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz to visit Russia, Iran from November 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hazlewood says was never close with Khawaja but has no issues with book | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Dunya News - Latest News, Pakistan News, World News, Sports News and Videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi-led coalition says it intercepted Houthi ballistic missile targeting western Saudi Arabia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- لاہور: سینئر صحافی حسین نقی انتقال کر گئے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI demands jail manual facilities for party founder Irman Khan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drone Attack on Russian Cargo Ship! Vessel Catches Fire | Breaking News | Dunya News. | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz to visit Russia, Iran from November 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hazlewood says was never close with Khawaja but has no issues with book | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Dunya News - Latest News, Pakistan News, World News, Sports News and Videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi-led coalition says it intercepted Houthi ballistic missile targeting western Saudi Arabia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- لاہور: سینئر صحافی حسین نقی انتقال کر گئے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI demands jail manual facilities for party founder Irman Khan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drone Attack on Russian Cargo Ship! Vessel Catches Fire | Breaking News | Dunya News. | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz to visit Russia, Iran from November 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hazlewood says was never close with Khawaja but has no issues with book | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Dunya News - Latest News, Pakistan News, World News, Sports News and Videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
@@ -38,111 +39,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Saudi-led coalition intercepts Houthi ballistic missile targeting western region  [NORMAL]
-- Poster: سعودی اتحاد نے مغربی عرب پر حوثی میزائل حملے کی کوشش ناکام بنا دی / Saudi coalition intercepts Houthi missile targeting western region | category security
-- Alternative headline: Saudi coalition intercepts Houthi ballistic missile aimed at western Saudi Arabia
+### South Korea Education Minister Resigns Over National Exam Cheating Scandal  [NORMAL]
+- Poster: امتحانات میں نقل کا اسکینڈل: جنوبی کوریا کے وزیرِ تعلیم مستعفی / South Korea Education Minister Resigns Over Exam Cheating Scandal | category politics
+- Alternative headline: Suneung Exam Cheating Scandal Forces South Korea Education Minister to Resign
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Education Minister resignation, South Korea exam cheating, Suneung exam, Choi Kyo-jin, AI cheating scandal | hashtags: #SouthKorea #EducationMinister #ExamScandal #Suneung #AI
+- Scheduled: Sun 22 Nov, 04:14 PM PKT
+- Caption:
+```
+South Korea's Education Minister Choi Kyo-jin has resigned following a massive exam cheating scandal involving AI tools during the Suneung college entrance exam.
+
+South Korea's Education Minister Choi Kyo-jin has resigned, taking full responsibility for an exam cheating scandal during the annual Suneung college entrance exam. The controversy arose after top scorers admitted using AI tools and hidden devices, prompting nationwide emergency alerts and heavy criticism over security failures.
+
+جنوبی کوریا کے وزیرِ تعلیم چُوئی کیو جن نے سالانہ کالج کے داخلہ امتحانات میں نقل کے اسکینڈل کی ذمہ داری لیتے ہوئے اپنے عہدے سے استعفیٰ دے دیا۔ یہ تنازع اس وقت سامنے آیا جب چند طلبہ کی جانب سے مصنوعی ذہانت اور چھوٹی ڈیوائسز کے استعمال کا انکشاف ہوا، جس پر ملک بھر میں ہنگامہ مچ گیا۔
+
+First reported by BBC World.
+
+#SouthKorea #EducationMinister #ExamScandal #Suneung #AI
+```
+
+### Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Attack  [NORMAL]
+- Poster: فن لینڈ کے قریب روسی کارگو جہاز پر ڈرون حملہ، جہاز میں آگ لگ گئی / Russian Cargo Ship on Fire Off Finland After Drone Attack | category other
+- Alternative headline: Vessel Ablaze Near Finland Following Drone Strike on Russian Cargo Ship
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMizAFBVV95cUxPTnBCSUFUMlNHOTdZTnFRakJsTUFRMG14aTZOZndyWU9PUVkwcEEwT0ZfNUZ2OXBSaHcyaGVjWHlaaHNtOENfZndfUjFaY2NEY051c1lZM1lCeENkRndFWjFjQXgyaldWSjMwbW5salZ4TUJMT1lXV29LWUJuM1JWb3g0Y2pCTUoyY3pDU1YxbVZ5YmZDbXg1ZmdzbVF5UEYwSm40bUd0bDdHczNPQ0ZSbkV0WlJrTU5laWdtSzdLNHhSS0JuSEpkcHQzM0bSAdQBQVVfeXFMTlBQcEhvRnYxZXJQTk44TVVUWUVHYXJTQ0xjTHpieTdOTzFRc05aUUJxM1QyMWs1N1duMTBvaUdwNi1rd2tTUG9FWkVwRlJLRjBfS281RXRzTHU2SEo0REhFR3daRE85eHZOSDRUUVRIcFcwUXZIejNVM1BjYWJMSDN1VzNTWWVRNHNlb2EzbEVOWWFuWkxGd29Rb05FZDNzekw5TEJLVTBiOFJrU1I5ZWZtbVg4TmloOWtPZzJTRUpNQlFDQ0ZOdTNseEU5ZUNlcXdkUE8?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMizAFBVV95cUxPTnBCSUFUMlNHOTdZTnFRakJsTUFRMG14aTZOZndyWU9PUVkwcEEwT0ZfNUZ2OXBSaHcyaGVjWHlaaHNtOENfZndfUjFaY2NEY051c1lZM1lCeENkRndFWjFjQXgyaldWSjMwbW5salZ4TUJMT1lXV29LWUJuM1JWb3g0Y2pCTUoyY3pDU1YxbVZ5YmZDbXg1ZmdzbVF5UEYwSm40bUd0bDdHczNPQ0ZSbkV0WlJrTU5laWdtSzdLNHhSS0JuSEpkcHQzM0bSAdQBQVVfeXFMTlBQcEhvRnYxZXJQTk44TVVUWUVHYXJTQ0xjTHpieTdOTzFRc05aUUJxM1QyMWs1N1duMTBvaUdwNi1rd2tTUG9FWkVwRlJLRjBfS281RXRzTHU2SEo0REhFR3daRE85eHZOSDRUUVRIcFcwUXZIejNVM1BjYWJMSDN1VzNTWWVRNHNlb2EzbEVOWWFuWkxGd29Rb05FZDNzekw5TEJLVTBiOFJrU1I5ZWZtbVg4TmloOWtPZzJTRUpNQlFDQ0ZOdTNseEU5ZUNlcXdkUE8?oc=5
-- Supporting coverage: The Express Tribune, Dawn
-- Keywords: Houthi missile, Saudi coalition, ballistic missile, western Saudi Arabia, intercepted missile, Yemen conflict | hashtags: #SaudiArabia #Houthi #MissileIntercepted #MiddleEast #Defense
-- Scheduled: Sun 22 Nov, 03:24 PM PKT
+- Original source: published_report - Dunya News https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXBmbTdQZ3NtZVFxSlhpbVlZdlB6enhGTW9Kc1JRdk0tR2NxcWktUkNZNFVIaG5mcmxkel9pMjZRSklzckFLaEt4RUdsbk9oUDM1Q3p5Tmt3WmRJREM4cnlheHJJdXgweVhnX25sZU5vVmVSV1YyM3huN0dqclhmSTFpMEV5aWUtdHVPWmhLWG1oS3NVay1yWkZPRnNyNTNQNmpPLUk4UE9uenNMTEl3UC1QNmZSQ3BUMG84aFFtQmtHU0JHMkFQZW0yWloxM1BIR09SNg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dunya News https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXBmbTdQZ3NtZVFxSlhpbVlZdlB6enhGTW9Kc1JRdk0tR2NxcWktUkNZNFVIaG5mcmxkel9pMjZRSklzckFLaEt4RUdsbk9oUDM1Q3p5Tmt3WmRJREM4cnlheHJJdXgweVhnX25sZU5vVmVSV1YyM3huN0dqclhmSTFpMEV5aWUtdHVPWmhLWG1oS3NVay1yWkZPRnNyNTNQNmpPLUk4UE9uenNMTEl3UC1QNmZSQ3BUMG84aFFtQmtHU0JHMkFQZW0yWloxM1BIR09SNg?oc=5
+- Supporting coverage: Dunya News, Al Jazeera, ARY News
+- Keywords: Russian cargo ship fire, drone attack Finland, vessel fire, Russia cargo ship | hashtags: #Russia #Finland #DroneAttack #CargoShip #BreakingNews
+- Scheduled: Sun 22 Nov, 04:24 PM PKT
 - Caption:
 ```
-The Saudi-led coalition has successfully intercepted and blocked a ballistic missile launched toward western Saudi Arabia.
+A Russian cargo ship has caught fire off the coast of Finland following a suspected drone attack.
 
-The Saudi-led coalition announced that it successfully intercepted a ballistic missile launched by Houthi forces targeting western Saudi Arabia, according to reports from The Express Tribune.
+A Russian cargo ship has caught fire off the coast of Finland following a suspected drone attack, according to reports from Dunya News and international agencies. The vessel remains on fire as authorities monitor the situation.
 
-ایکسپریس ٹریبیون کی رپورٹ کے مطابق سعودی زیر قیادت اتحاد نے اعلان کیا ہے کہ اس نے مغربی سعودی عرب کو نشانہ بنانے والے حوثی فورسز کے ایک بیلیسٹک میزائل کو کامیابی سے ناکام بنا دیا۔
+فن لینڈ کے قریب ایک روسی کارگو جہاز پر مبینہ ڈرون حملے کے نتیجے میں جہاز میں شدید آگ لگ گئی۔ میڈیا رپورٹس کے مطابق جہاز میں لگی آگ پر قابو پانے کی کوششیں جاری ہیں۔
 
-First reported by The Express Tribune.
+First reported by Dunya News; also reported by Al Jazeera and ARY News.
 
-#SaudiArabia #Houthi #MissileIntercepted #MiddleEast #Defense
+#Russia #Finland #DroneAttack #CargoShip #BreakingNews
 ```
 
-### Former UN envoy declares Iran war was entirely preventable  [NORMAL]
-- Poster: ایران جنگ سے آسانی سے بچا جا سکتا تھا، سابق اقوام متحدہ کے ایلچی / Iran war was perfectly avoidable, says former UN envoy | category world
-- Alternative headline: Iran war was perfectly avoidable, states former UN envoy
+### Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting November 30  [NORMAL]
+- Poster: وزیرِ اعظم شہباز شریف 30 نومبر سے روس اور ایران کا دورہ کریں گے / PM Shehbaz to Visit Russia and Iran From Nov 30 | category politics
+- Alternative headline: PM Shehbaz Scheduled for Official Visits to Russia and Iran From Nov 30
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0VqWEc0a1hnWExFSTFKc3ZoTEN4Rmd6VXR3UlBaa2h1UmVRZUNkcDF1ZlVmR0VJczFQc2FmT3FRb010bHA0WlJKWTY4bGMtR0tLUkY5a09VMDNUOGx2UmJMTkEycTdVSE9hUzhjWlNxNUZwVHVvRUdPd1pGY01VTloybGlSSmZyd2hZa01GeDc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0VqWEc0a1hnWExFSTFKc3ZoTEN4Rmd6VXR3UlBaa2h1UmVRZUNkcDF1ZlVmR0VJczFQc2FmT3FRb010bHA0WlJKWTY4bGMtR0tLUkY5a09VMDNUOGx2UmJMTkEycTdVSE9hUzhjWlNxNUZwVHVvRUdPd1pGY01VTloybGlSSmZyd2hZa01GeDc?oc=5
-- Supporting coverage: Middle East Eye, Dawn, 8AM Media
-- Keywords: Iran war, former UN envoy, avoidable war, Middle East diplomacy, international relations, conflict resolution | hashtags: #Iran #UN #MiddleEastWar #Diplomacy #WorldNews
-- Scheduled: Sun 22 Nov, 03:34 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUhKaDZiTml1Wl9PQUQtelVHV1pUVlpieWF4Tm5zQTIzZ1VSWFhIQWRPSk51VXIwOG83bDZwYVhRN0w4MENaWC1XN3V6Sm1QT3JoaFV5T1k4TXRyZF9NNEtzR2dhYjBvSWxwQWx6WGYySFQ2Q0xMUkNqLUJzOEJDZFZ4dE41ZFU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUhKaDZiTml1Wl9PQUQtelVHV1pUVlpieWF4Tm5zQTIzZ1VSWFhIQWRPSk51VXIwOG83bDZwYVhRN0w4MENaWC1XN3V6Sm1QT3JoaFV5T1k4TXRyZF9NNEtzR2dhYjBvSWxwQWx6WGYySFQ2Q0xMUkNqLUJzOEJDZFZ4dE41ZFU?oc=5
+- Supporting coverage: samaa tv, ARY News
+- Keywords: PM Shehbaz Russia Iran visit, Shehbaz Sharif, foreign visit, Russia Iran Pakistan, Samaa TV | hashtags: #PMShehbaz #Pakistan #Russia #Iran #ForeignPolicy
+- Scheduled: Sun 22 Nov, 04:34 PM PKT
 - Caption:
 ```
-A former United Nations envoy has asserted that the recent conflict involving Iran was entirely avoidable.
+Prime Minister Shehbaz Sharif is set to begin official visits to Russia and Iran starting from November 30.
 
-A former United Nations envoy stated that the war involving Iran was completely avoidable, drawing attention to diplomatic shortcomings and missed opportunities for peaceful resolution, as reported by Dawn.
+Prime Minister Shehbaz Sharif is scheduled to undertake official visits to Russia and Iran beginning November 30, according to Samaa TV. The diplomatic visits aim to discuss bilateral relations and regional cooperation.
 
-ڈان کی رپورٹ کے مطابق اقوام متحدہ کے ایک سابق ایلچی نے کہا ہے کہ ایران سے متعلق جنگ سے مکمل طور پر بچا جا سکتا تھا، جس نے سفارتی ناکامیوں اور پرامن حل کے ضائع شدہ مواقع کی طرف توجہ مبذول کرائی۔
+وزیراعظم شہباز شریف 30 نومبر سے روس اور ایران کے سرکاری دوروں کا آغاز کریں گے۔ میڈیا رپورٹس کے مطابق ان دوروں کا مقصد دوطرفہ تعلقات اور علاقائی تعاون کو فروغ دینا ہے۔
 
-First reported by Dawn.
+First reported by Samaa TV; also reported by ARY News.
 
-#Iran #UN #MiddleEastWar #Diplomacy #WorldNews
+#PMShehbaz #Pakistan #Russia #Iran #ForeignPolicy
 ```
 
-### Veteran journalist and human rights activist Hussain Naqi passes away in Lahore  [NORMAL]
-- Poster: سینئر صحافی اور انسانی حقوق کے کارکن حسین نقی لاہور میں انتقال کر گئے / Veteran journalist Hussain Naqi passes away in Lahore at 88 | category other
-- Alternative headline: Senior journalist Hussain Naqi dies at 88 in Lahore
+### Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Release  [NORMAL]
+- Poster: عثمان خواجہ سے کبھی گہرے تعلقات نہیں رہے، جوش ہیزل ووڈ / Hazlewood Says Was Never Close With Khawaja | category sports
+- Alternative headline: Hazlewood Says Never Close With Khawaja But Has No Issues With Book
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Jang Urdu https://jang.com.pk/news/1635669 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Jang Urdu https://jang.com.pk/news/1635669
-- Supporting coverage: Jang Urdu, UrduPoint
-- Keywords: Hussain Naqi, senior journalist, human rights activist, Lahore, Jang Urdu, obituary | hashtags: #HussainNaqi #Journalism #Pakistan #HumanRights #Lahore
-- Scheduled: Sun 22 Nov, 03:44 PM PKT
+- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjRIZTdodWNwTjFUZ3cxUy1NX1RzaEd1b2VhbnBadVJ5b3IxVDd1akJKSlY5NnJBWllUcE5Jc3V3cVE0bThxaUlzT1lOWDBHRHdtclZQUzdncnFxVy1MdTJZZEdOb21lVDkyNl84MXNxWFhQOV84cktSNjBkM3dUY2FwV0s0eWZTdjdsM0ZIT2FmTng2Y3FfWFBKemUwTjd4SUQzNzlldw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjRIZTdodWNwTjFUZ3cxUy1NX1RzaEd1b2VhbnBadVJ5b3IxVDd1akJKSlY5NnJBWllUcE5Jc3V3cVE0bThxaUlzT1lOWDBHRHdtclZQUzdncnFxVy1MdTJZZEdOb21lVDkyNl84MXNxWFhQOV84cktSNjBkM3dUY2FwV0s0eWZTdjdsM0ZIT2FmTng2Y3FfWFBKemUwTjd4SUQzNzlldw?oc=5
+- Supporting coverage: Geo News, ARY News
+- Keywords: Josh Hazlewood Usman Khawaja, Hazlewood book comments, Australia cricket, Khawaja book release | hashtags: #JoshHazlewood #UsmanKhawaja #CricketAustralia #Cricket #SportsNews
+- Scheduled: Sun 22 Nov, 04:44 PM PKT
 - Caption:
 ```
-Renowned senior journalist and human rights defender Hussain Naqi has passed away in Lahore at the age of 88.
+Australian fast bowler Josh Hazlewood has stated he was never close with teammate Usman Khawaja but has no issues with his book.
 
-Veteran journalist and human rights activist Hussain Naqi has passed away in Lahore at the age of 88, according to family sources. His funeral prayers are scheduled at Jamia al-Muntazar, Model Town, Lahore.
+Australian cricketer Josh Hazlewood has addressed his relationship with teammate Usman Khawaja, stating that they were never close friends, while clarifying that he has no issues regarding Khawaja's book release.
 
-خاندانی ذرائع کے مطابق سینئر صحافی اور انسانی حقوق کے کارکن حسین نقی 88 برس کی عمر میں لاہور میں انتقال کر گئے ہیں۔ ان کی نمازِ جنازہ ماڈل ٹاؤن لاہور کے جامعہ المنتظر میں ادا کی جائے گی۔
+آسٹریلوی فاسٹ بولر جوش ہیزل ووڈ نے ساتھی کھلاڑی عثمان خواجہ کے ساتھ اپنے تعلقات پر بات کرتے ہوئے کہا ہے کہ وہ کبھی قریبی دوست نہیں رہے، تاہم عثمان خواجہ کی کتاب کی اشاعت پر انہیں کوئی اعتراض نہیں۔
 
-First reported by Jang Urdu.
+First reported by Geo News; also reported by ARY News.
 
-#HussainNaqi #Journalism #Pakistan #HumanRights #Lahore
+#JoshHazlewood #UsmanKhawaja #CricketAustralia #Cricket #SportsNews
 ```
 
-### PTI demands jail manual facilities for party founder Imran Khan  [NORMAL]
-- Poster: پی ٹی آئی کا بانی چیئرمین کے لیے جیل مینوئل کی سہولیات کا مطالبہ / PTI demands jail manual facilities for party founder | category politics
-- Alternative headline: PTI calls for provision of jail manual facilities for founding chairman
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkFQVkpZS2t4a3gyV0U4clNRWm5VM2lEZ0YtdmdURkd0ZmlMWWYzRk4zb0tZOTdRZXoxa1VpbVFfM1dIWVZCLUNBRFh6RWxpaVJ0MjgyVFFEVlN2bV83WEFPQmxVaHoyX3czNF9kTE1Ubl9SeVg2RWVmWVc1eTlSdGhZcVdZMWtFT1E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkFQVkpZS2t4a3gyV0U4clNRWm5VM2lEZ0YtdmdURkd0ZmlMWWYzRk4zb0tZOTdRZXoxa1VpbVFfM1dIWVZCLUNBRFh6RWxpaVJ0MjgyVFFEVlN2bV83WEFPQmxVaHoyX3czNF9kTE1Ubl9SeVg2RWVmWVc1eTlSdGhZcVdZMWtFT1E?oc=5
-- Supporting coverage: ARYnews.tv, ARY News
-- Keywords: PTI demands, jail manual facilities, party founder, Imran Khan, ARY News, Pakistan politics | hashtags: #PTI #ImranKhan #AdialaJail #PakistanPolitics #ARYNews
-- Scheduled: Sun 22 Nov, 03:54 PM PKT
-- Caption:
-```
-Pakistan Tehreek-e-Insaf has formally demanded that proper jail manual facilities be provided to the party founder.
-
-Pakistan Tehreek-e-Insaf (PTI) has raised demands for the provision of standard jail manual facilities for its founding chairman, according to reports from ARY News.
-
-اے آر وائی نیوز کی رپورٹ کے مطابق پاکستان تحریک انصاف (پی ٹی آئی) نے اپنے بانی چیئرمین کے لیے معیاری جیل مینوئل کی سہولیات فراہم کرنے کا مطالبہ کیا ہے۔
-
-First reported by ARYnews.tv.
-
-#PTI #ImranKhan #AdialaJail #PakistanPolitics #ARYNews
-```
-
-- Indian outlets blocked this run: 5 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
-- [needs_review] normal | PTI legal eagles Salman Akram Raja and Latif Khosa shake and make up | Thu 19 Nov, 09:03 AM PKT
-- [needs_review] normal | Poll tribunal suspends election results of GBA-16 and Diamer-II | Thu 19 Nov, 09:13 AM PKT
-- [needs_review] normal | Elon Musk calls record spending on US midterms pretty foolish | Thu 19 Nov, 09:23 AM PKT
 - [needs_review] normal | Man arrested for allegedly sexually abusing boy in Rawalpindi | Thu 19 Nov, 10:09 AM PKT
 - [needs_review] normal | Punjab CM approves panchayat system to resolve disputes | Thu 19 Nov, 10:19 AM PKT
 - [needs_review] normal | Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case | Thu 19 Nov, 10:29 AM PKT
@@ -353,9 +351,9 @@ First reported by ARYnews.tv.
 - [published] normal | Panic In Peru As Moviegoers Rush For Exits During Earthquake | Sun 22 Nov, 07:40 AM PKT
 - [published] normal | Sindh Seeks French Help and Technology to Restore Manchhar Lake | Sun 22 Nov, 09:18 AM PKT
 - [published] normal | Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike | Sun 22 Nov, 09:28 AM PKT
-- [queued] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
-- [queued] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
-- [queued] normal | Iran faces a silent economic war, says Iranian president | Sun 22 Nov, 11:24 AM PKT
+- [needs_review] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
+- [needs_review] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
+- [published] normal | Iran faces a silent economic war, says Iranian president | Sun 22 Nov, 11:24 AM PKT
 - [queued] normal | Carlos Alcaraz to face Alexander Zverev for ATP Finals title | Sun 22 Nov, 11:34 AM PKT
 - [queued] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
 - [queued] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
@@ -370,18 +368,28 @@ First reported by ARYnews.tv.
 - [queued] normal | Former UN envoy declares Iran war was entirely preventable | Sun 22 Nov, 03:34 PM PKT
 - [queued] normal | Veteran journalist and human rights activist Hussain Naqi passes away  | Sun 22 Nov, 03:44 PM PKT
 - [queued] normal | PTI demands jail manual facilities for party founder Imran Khan | Sun 22 Nov, 03:54 PM PKT
+- [queued] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
+- [queued] normal | South Korea Education Minister Resigns Over National Exam Cheating Sca | Sun 22 Nov, 04:14 PM PKT
+- [queued] normal | Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Atta | Sun 22 Nov, 04:24 PM PKT
+- [queued] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
+- [queued] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
 
 ## Publishing this run
-- Published 'Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike'.
+- Published 'Iran faces a silent economic war, says Iranian president'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 6114 | output tokens: 2262
-- Errors: 3
+- Calls: 7 | prompt tokens: 5747 | output tokens: 2257
+- Errors: 5
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
