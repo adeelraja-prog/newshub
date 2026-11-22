@@ -1,34 +1,34 @@
-# News Hub report - Sun 22 Nov, 09:26 PM PKT
+# News Hub report - Sun 22 Nov, 10:18 PM PKT
 
 ## Collection
-- New items this run: 46 | items in rolling pool: 603
-- Unique story clusters: 513 (duplicates merged: 90)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 25, Engadget 4, Al Jazeera 3, Geo News 2, Dawn 2, The Express Tribune 2, ARY News 2, samaa tv 1, BBC World 1, Investify 1, Sky News 1, NBC News 1
+- New items this run: 49 | items in rolling pool: 625
+- Unique story clusters: 526 (duplicates merged: 99)
+- Clusters dropped as already published/queued: 22; unchanged since last analysis: 10
+- Items per outlet: UrduPoint 21, Pakistan Today 7, Engadget 3, The News International 2, Al Jazeera 2, The Verge 2, Dawn Pakistan 1, Geo News 1, ARY News 1, Kashmir Life 1, Dawn 1, The Express Tribune 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Oman to supply petroleum products, $200m credit facility to PSO under new agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- COP31 climate talks set to collapse without political deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Explosion on Russian ship at Libya port caused by suspected drone attack, officials say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mohsin Naqvi slams minister over repeated TV criticism, defends business community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- خواتین کے حقوق کا تحفظ اجتماعی ذمے داری ہے، وفاقی وزیر قانون | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- پشتون، بلوچ اور سندھی اپنی سرزمین کی تقسیم قبول نہیں کریں گے: ایمل ولی خان | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- سیالکوٹ سے چائلڈ پورنوگرافی میں ملوث ملزم گرفتار، این سی سی آئی اے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Oman to supply petroleum products, $200m credit facility to PSO under new agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- COP31 climate talks set to collapse without political deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Explosion on Russian ship at Libya port caused by suspected drone attack, officials say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mohsin Naqvi slams minister over repeated TV criticism, defends business community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- خواتین کے حقوق کا تحفظ اجتماعی ذمے داری ہے، وفاقی وزیر قانون | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- پشتون، بلوچ اور سندھی اپنی سرزمین کی تقسیم قبول نہیں کریں گے: ایمل ولی خان | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- سیالکوٹ سے چائلڈ پورنوگرافی میں ملوث ملزم گرفتار، این سی سی آئی اے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Oman to supply petroleum products, $200m credit facility to PSO under new agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- COP31 climate talks set to collapse without political deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Explosion on Russian ship at Libya port caused by suspected drone attack, officials say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mohsin Naqvi slams minister over repeated TV criticism, defends business community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- خواتین کے حقوق کا تحفظ اجتماعی ذمے داری ہے، وفاقی وزیر قانون | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- پشتون، بلوچ اور سندھی اپنی سرزمین کی تقسیم قبول نہیں کریں گے: ایمل ولی خان | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- سیالکوٹ سے چائلڈ پورنوگرافی میں ملوث ملزم گرفتار، این سی سی آئی اے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
@@ -38,112 +38,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### COP31 climate talks collapse as EU and others reject final deal  [NORMAL]
-- Poster: سی او پی 31 موسمیاتی مذاکرات حتمی معاہدہ مسترد ہونے پر ناکام / COP31 climate talks collapse as EU rejects final deal | category politics
-- Alternative headline: UN climate talks end without consensus after record-breaking overtime negotiations
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046327/cop31-climate-talks-set-to-collapse-without-political-deal | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046327/cop31-climate-talks-set-to-collapse-without-political-deal
-- Supporting coverage: Dawn Latest, The Express Tribune, Dawn Latest, Dawn, samaa tv
-- Keywords: COP31 climate talks, European Union, Murat Kurum, Antonio Guterres, climate change, UN | hashtags: #COP31 #ClimateChange #UN #EuropeanUnion #Environment
-- Scheduled: Sun 22 Nov, 09:26 PM PKT
-- Caption:
-```
-UN climate talks collapsed on Sunday after the European Union and other nations rejected a final draft deal presented by COP31 presidents.
-
-UN climate talks collapsed on Sunday after the European Union and other nations rejected a final draft deal put forward by COP31 presidents Turkiye and Australia, deeming it too weak. Conference president Murat Kurum confirmed no new text would be advanced following the longest COP on record, leaving UN Secretary General Antonio Guterres deeply disappointed.
-
-اقوام متحدہ کے موسمیاتی مذاکرات اتوار کے روز اس وقت ختم ہو گئے جب یورپی یونین اور دیگر ممالک نے ترکی اور آسٹریلیا کی طرف سے پیش کردہ حتمی مسودے کو مسترد کر دیا۔ کانفرنس کے صدر مراد کوروم نے تصدیق کی کہ اب کوئی نیا متن پیش نہیں کیا جائے گا، جس پر اقوام متحدہ کے سیکرٹری جنرل انتونیو گوتریس نے گہرے دکھ کا اظہار کیا ہے۔
-
-First reported by Dawn Latest.
-
-#COP31 #ClimateChange #UN #EuropeanUnion #Environment
-```
-
-### Oman to supply petroleum products with $200m credit facility to PSO  [NORMAL]
-- Poster: عمان پاکستان کو پیٹرولیم مصنوعات اور 200 ملین ڈالر کی سہولت دے گا / Oman to supply oil and $200m credit to PSO | category economy
-- Alternative headline: Pakistan State Oil secures $200m credit facility under new Oman agreement
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEFKOFRMMWpWel9WTkJPenFOVkdyelNRSUNSbEx6R3Rua2FMU0xaakcwWDRuYTBaMFhqV0JKR2JNVXJhSTVIcGVESzZYelBxNlBkYmxQMXZjd1VmRXFxZ1BuVTV4UFFxYUlvSi1FWWhTTE8zRzJJSEN0Y2FYR1lzc1Q3cjlmTmRocjByS0NPUE1rSUpn?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEFKOFRMMWpWel9WTkJPenFOVkdyelNRSUNSbEx6R3Rua2FMU0xaakcwWDRuYTBaMFhqV0JKR2JNVXJhSTVIcGVESzZYelBxNlBkYmxQMXZjd1VmRXFxZ1BuVTV4UFFxYUlvSi1FWWhTTE8zRzJJSEN0Y2FYR1lzc1Q3cjlmTmRocjByS0NPUE1rSUpn?oc=5
-- Supporting coverage: Profit by Pakistan Today, Dawn, Dawn Latest, Investify
-- Keywords: PSO Oman agreement, Pakistan State Oil, petroleum products, credit facility, Oman oil deal, economy | hashtags: #PSO #Oman #PakistanEconomy #OilDeal #Energy
-- Scheduled: Sun 22 Nov, 09:36 PM PKT
-- Caption:
-```
-Oman has agreed to supply petroleum products to Pakistan State Oil under a new agreement featuring a $200 million credit facility.
-
-Oman will supply petroleum products to Pakistan State Oil (PSO) backed by a $200 million credit facility under a newly signed agreement, according to reports from Dawn.
-
-ڈان کی رپورٹس کے مطابق عمان ایک نئے معاہدے کے تحت پاکستان اسٹیٹ آئل (پی ایس او) کو 200 ملین ڈالر کی کریڈت سہولت کے ساتھ پیٹرولیم مصنوعات فراہم کرے گا۔
-
-First reported by Dawn.
-
-#PSO #Oman #PakistanEconomy #OilDeal #Energy
-```
-
-### Explosion on Russian ship at Libya port caused by suspected drone attack  [NORMAL]
-- Poster: لیبیا کی بندرگاہ پر روسی جہاز پر مبینہ ڈرون حملہ، دھماکہ / Explosion on Russian ship at Libya port from drone attack | category security
-- Alternative headline: Russian cargo ship catches fire at Benghazi port after suspected drone strike
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: The Moscow Times, BBC World
-- Keywords: Russian ship explosion Libya, drone attack, Benghazi port, Russia, Libya eastern government, BBC Verify | hashtags: #Libya #Russia #DroneAttack #Benghazi #WorldNews
-- Scheduled: Sun 22 Nov, 09:46 PM PKT
-- Caption:
-```
-An explosion occurred on a Russian ship docked at a Libyan port after a suspected drone attack, officials reported.
-
-An explosion struck a Russian ship docked at the Benghazi naval base port in Libya following a suspected drone attack. The incident occurred at dawn while the vessel was stopping for fuel, causing a fire and leaving the ship partially submerged, according to satellite imagery and local officials.
-
-لیبیا میں بنغازی بحری اڈے کی بندرگاہ پر کھڑے ایک روسی جہاز پر مبینہ ڈرون حملے کے نتیجے میں دھماکہ ہوا۔ حکام اور سیٹلائٹ تصاویر کے مطابق یہ واقعہ اس وقت پیش آیا جب جہاز ایندھن بھروانے کے لیے رکا ہوا تھا، جس سے جہاز میں آگ لگ گئی اور وہ جزوی طور پر ڈوب گیا۔
-
-First reported by BBC World.
-
-#Libya #Russia #DroneAttack #Benghazi #WorldNews
-```
-
-### At least 14 missing after Russian drone hits Kyiv residential building  [NORMAL]
-- Poster: کیف میں روسی ڈرون حملے کے بعد کم از کم 14 افراد لاپتہ / 14 missing after Russian drone hits Kyiv building | category security
-- Alternative headline: Zelenskiy says 14 missing under rubble after drone strike in Kyiv region
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says
-- Supporting coverage: ARY News, The Express Tribune
-- Keywords: Kyiv drone attack, Volodymyr Zelenskiy, missing people, Ukraine, Russian drone, Kyiv region | hashtags: #Kyiv #Ukraine #DroneAttack #Zelenskiy #WorldNews
-- Scheduled: Sun 22 Nov, 09:56 PM PKT
-- Caption:
-```
-At least 14 people may be trapped under rubble after a Russian drone struck a residential building in Ukraine's Kyiv region.
-
-At least 14 people are missing and feared trapped under the rubble of a five-story residential building struck by a Russian drone in Ukraine's Kyiv region. President Volodymyr Zelenskiy stated that first responders evacuated nine people and contained the fire, while local officials reported two injuries.
-
-یوکرین کے کیف کے علاقے میں روسی ڈرون کے رہائشی عمارت سے ٹکرانے کے بعد ملبے تلے دب کر کم از کم 14 افراد لاپتہ ہیں۔ صدر ولودیمیر زیلنسکی نے بتایا کہ ریسکیو اہلکاروں نے نو افراد کو نکال لیا ہے اور آگ پر قابو پا لیا ہے جبکہ دو افراد کے زخمی ہونے کی بھی اطلاع ہے۔
-
-First reported by ARY News.
-
-#Kyiv #Ukraine #DroneAttack #Zelenskiy #WorldNews
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 24 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 25 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
-- [needs_review] normal | Oil prices rise as Middle East shipping attacks counter supply surplus | Thu 19 Nov, 03:44 PM PKT
-- [needs_review] normal | Elon Musk says record spending on US midterms was 'pretty foolish' | Thu 19 Nov, 03:54 PM PKT
-- [needs_review] normal | Two PTI-affiliated Pakistanis detained in UAE over state security, LHC | Thu 19 Nov, 04:04 PM PKT
-- [needs_review] normal | CDF Munir briefed on ongoing operations during Turbat visit, says ISPR | Thu 19 Nov, 04:14 PM PKT
 - [needs_review] normal | Large amount of suspected donkey meat seized in Islamabad | Thu 19 Nov, 04:53 PM PKT
 - [needs_review] normal | Punjab launches online route permit system for transport operators | Thu 19 Nov, 05:03 PM PKT
 - [needs_review] normal | Bangladesh shut down by Hasina's party after ex-leader Yunus's home se | Thu 19 Nov, 05:48 PM PKT
@@ -353,11 +253,11 @@ First reported by ARY News.
 - [needs_review] normal | Three TTP-linked terrorists killed in CTD operation near Peshawar | Sun 22 Nov, 03:00 PM PKT
 - [needs_review] normal | Saudi-led coalition intercepts Houthi ballistic missile targeting west | Sun 22 Nov, 03:24 PM PKT
 - [published] normal | Former UN envoy declares Iran war was entirely preventable | Sun 22 Nov, 03:34 PM PKT
-- [queued] normal | Veteran journalist and human rights activist Hussain Naqi passes away  | Sun 22 Nov, 03:44 PM PKT
-- [queued] normal | PTI demands jail manual facilities for party founder Imran Khan | Sun 22 Nov, 03:54 PM PKT
+- [needs_review] normal | Veteran journalist and human rights activist Hussain Naqi passes away  | Sun 22 Nov, 03:44 PM PKT
+- [needs_review] normal | PTI demands jail manual facilities for party founder Imran Khan | Sun 22 Nov, 03:54 PM PKT
 - [queued] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [queued] normal | South Korea Education Minister Resigns Over National Exam Cheating Sca | Sun 22 Nov, 04:14 PM PKT
-- [queued] normal | Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Atta | Sun 22 Nov, 04:24 PM PKT
+- [needs_review] normal | South Korea Education Minister Resigns Over National Exam Cheating Sca | Sun 22 Nov, 04:14 PM PKT
+- [published] normal | Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Atta | Sun 22 Nov, 04:24 PM PKT
 - [queued] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
 - [queued] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
 - [queued] normal | Major Karachi roads closed as political parties stage rallies | Sun 22 Nov, 05:58 PM PKT
@@ -378,16 +278,12 @@ First reported by ARY News.
 - [queued] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
 
 ## Publishing this run
-- Published 'Former UN envoy declares Iran war was entirely preventable'.
+- Published 'Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Attack'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6928 | output tokens: 2465
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 0 | output tokens: 0
+- Errors: 4
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=10.9025
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapi

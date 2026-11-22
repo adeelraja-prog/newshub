@@ -117212,7 +117212,357 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f9d46cd7e21c5cf0029a7fee",
+      "remembered_at": "2026-11-22T17:18:10.778986+00:00",
+      "event_date": "2026-11-22T10:27:09+00:00",
+      "last_update": "2026-11-22T16:52:41+00:00",
+      "event": "Mohsin Naqvi slams minister over repeated TV criticism, defends business community",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "business",
+        "community",
+        "criticism",
+        "defends",
+        "minister",
+        "mohsin",
+        "naqvi",
+        "over",
+        "repeated",
+        "slams"
+      ],
+      "source_excerpt": "Mohsin Naqvi slams minister over repeated TV criticism, defends business community",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/mohsin-naqvi-slams-minister-over-repeated-tv-criticism-defends-business-community",
+          "published_at": "2026-11-22T10:27:09+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNmZ5Qk82QWpSM1hlRXlRUjN4WC1SZkpiSlpmZm4zLS1fVUV5ZzBUWjBwdmQxdjdBZ1VfRXRmVDdiRTR1N0dwZ3dIM1BpTVdHc1ZKSXZGX3hENWxqaHp6WEpKQzl4YjB1UHlFN0Y5Ujg0dGY2bk9xTmwyZ3hkdDFvNkxGS05YWTh1Ump3ODZJMDNqcXJjUGprTw?oc=5",
+          "published_at": "2026-11-22T11:07:10+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSURjWC1Yb3dUeUVRSUE0SFlKYXpjYXJ6TXJEcUtveEFsbTRvel9GWXVxNzhjZmtxWjlNd2d5RHpwcmVKVEUtSnlxTEg1WFNwenlfS3FaU082YnJVZ0tOUnlySUg0Ny1XUUoxNGEzX3JRdkVRZERUYW5Ocm9zejhmMzRkUHJEaVBOQnVzb0h2TFpERW5ibnc?oc=5",
+          "published_at": "2026-11-22T15:01:10+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046332/naqvi-hits-back-at-minister-for-repeated-criticism-report",
+          "published_at": "2026-11-22T15:01:10+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHZqc1N5VG9nS3pydU04VUo5NHBEemRnZWNSLVFlOTRUTGtRM2RxRmU4bE9yUjB3M1did25yc2daMGNHMy0yeDcyekhGajAzaUwwT0RsNFRXTm5sUmNqaFo1dHFPcU5DZ19wbUwwaEtrZ2U2OVdCaDlOUXNsdXh3ekhLUGlkWktKYlB0SXkxQWRCYjJxRmfSAZ4BQVVfeXFMUGRvdVJMZ3gtMGgxMlFyZDdvdTNOUVNWTGs1bXJOczcxbTRZRmcwMHRucy1YMHI3Rk93Vjh6WWx3OEdLakFhbVhuYWNUdTdqbXcxUEZyOV9Ka0d1Mm1xb0o0VFNSLVJHbnNFZ1hwMVF4RHlVRTk4WUlvYm0xUTRDdWRzY2M1cm9zNnJveVpLcUtKeTAwVHQ3akk1Nmg5b0E?oc=5",
+          "published_at": "2026-11-22T16:52:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/mohsin-naqvi-slams-minister-over-repeated-tv-criticism-defends-business-community",
+        "publisher_url": "https://arynews.tv/mohsin-naqvi-slams-minister-over-repeated-tv-criticism-defends-business-community",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0ad2f04aad5894f9c722627c",
+      "remembered_at": "2026-11-22T17:18:10.778986+00:00",
+      "event_date": "2026-11-22T12:11:42+00:00",
+      "last_update": "2026-11-22T16:35:26+00:00",
+      "event": "خواتین کے حقوق کا تحفظ اجتماعی ذمے داری ہے، وفاقی وزیر قانون",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اجتماعی",
+        "استنبول",
+        "اعظم",
+        "تارڑ",
+        "تحفظ",
+        "حقوق",
+        "خواتین",
+        "داری",
+        "ذمے",
+        "سینیٹر",
+        "شہر",
+        "قانون",
+        "معاشرے",
+        "میں",
+        "نذیر",
+        "وزیر",
+        "وفاقی",
+        "ویں",
+        "کہا",
+        "ہے،",
+        "ہے۔ترکیہ"
+      ],
+      "source_excerpt": "وفاقی وزیر قانون سینیٹر اعظم نذیر تارڑ نے کہا ہے کہ خواتین کے حقوق کا تحفظ معاشرے کی اجتماعی ذمے داری ہے۔ترکیہ کے شہر استنبول میں 7ویں...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1635699",
+          "published_at": "2026-11-22T12:11:42+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5019013",
+          "published_at": "2026-11-22T12:21:17+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5019404",
+          "published_at": "2026-11-22T16:35:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1635699",
+        "publisher_url": "https://jang.com.pk/news/1635699",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5560f72c27d9be32ddf1abfa",
+      "remembered_at": "2026-11-22T17:18:10.778986+00:00",
+      "event_date": "2026-11-22T13:11:21+00:00",
+      "last_update": "2026-11-22T16:35:21+00:00",
+      "event": "پشتون، بلوچ اور سندھی اپنی سرزمین کی تقسیم قبول نہیں کریں گے: ایمل ولی خان",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اور",
+        "اپنی",
+        "ایمل",
+        "بلوچ",
+        "تقسیم",
+        "خان",
+        "سربراہ",
+        "سرزمین",
+        "سندھی",
+        "عوامی",
+        "فائل",
+        "فوٹو",
+        "قبول",
+        "نہیں",
+        "نیشنل",
+        "ولی",
+        "پارٹی",
+        "پشتون،",
+        "کریں",
+        "کہنا"
+      ],
+      "source_excerpt": "ایمل ولی خان: فائل فوٹو سربراہ عوامی نیشنل پارٹی ایمل ولی خان کا کہنا ہے کہ پشتون، بلوچ اور سندھی اپنی سرزمین کی تقسیم قبول نہیں...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1635708",
+          "published_at": "2026-11-22T13:11:21+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5019402",
+          "published_at": "2026-11-22T16:35:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1635708",
+        "publisher_url": "https://jang.com.pk/news/1635708",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e660531d8f3480df5691b5b3",
+      "remembered_at": "2026-11-22T17:18:10.778986+00:00",
+      "event_date": "2026-11-22T13:11:28+00:00",
+      "last_update": "2026-11-22T16:35:23+00:00",
+      "event": "سیالکوٹ سے چائلڈ پورنوگرافی میں ملوث ملزم گرفتار، این سی سی آئی اے",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "آئی",
+        "ایجنسی",
+        "این",
+        "سائبر",
+        "سیالکوٹ",
+        "فائل",
+        "فوٹو",
+        "ملزم",
+        "ملوث",
+        "میں",
+        "نیشنل",
+        "پورنوگرافی",
+        "چائلڈ",
+        "کارروائی",
+        "کرائم",
+        "کرتے",
+        "گرفتار",
+        "گرفتار،",
+        "گوجرانوالہ",
+        "ہوئے"
+      ],
+      "source_excerpt": "فائل فوٹو نیشنل سائبر کرائم ایجنسی گوجرانوالہ نے سیالکوٹ میں کارروائی کرتے ہوئے چائلڈ پورنوگرافی میں ملوث ملزم کو گرفتار...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1635705",
+          "published_at": "2026-11-22T13:11:28+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5019403",
+          "published_at": "2026-11-22T16:35:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1635705",
+        "publisher_url": "https://jang.com.pk/news/1635705",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "776fd704e79177f1e5ba955d",
+      "remembered_at": "2026-11-22T17:18:10.778986+00:00",
+      "event_date": "2026-11-22T12:19:42+00:00",
+      "last_update": "2026-11-22T16:50:48+00:00",
+      "event": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attack",
+        "attacks",
+        "bank",
+        "bireh",
+        "burning",
+        "homes",
+        "included",
+        "israeli",
+        "occupied",
+        "painting",
+        "palestinian",
+        "provinces",
+        "racist",
+        "ramallah",
+        "settlers",
+        "several",
+        "slogans",
+        "spray",
+        "the",
+        "vehicles",
+        "villages",
+        "west"
+      ],
+      "source_excerpt": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
+          "published_at": "2026-11-22T12:19:42+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+          "published_at": "2026-11-22T16:50:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "afc2ac45e08f3b0c8c8db7b1",
+      "remembered_at": "2026-11-22T17:18:10.778986+00:00",
+      "event_date": "2026-11-22T16:23:53+00:00",
+      "last_update": "2026-11-22T16:23:53+00:00",
+      "event": "'The world needs you': Portugal minister praises Pakistan's role in US-Iran peace efforts",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "efforts",
+        "iran",
+        "minister",
+        "needs",
+        "pakistan",
+        "peace",
+        "portugal",
+        "praises",
+        "role",
+        "the",
+        "world",
+        "you"
+      ],
+      "source_excerpt": "'The world needs you': Portugal minister praises Pakistan's role in US-Iran peace efforts Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWNRVGw2Rk5yVTBtM0hjX1JpMlZOMFFTa2tOM2x1dEpMRFVneDlrbldnVUhlYV9oWXdMNFliQUtOVmhQWllkMDl3UDdkUExZS0xHX3JWbXlJRWJkeEpNQjdHbEJEd3JtYU5oT19Zck9ILVVJYWxDTFBxUElrb1A2ZklMellFQ2ZUdEFNdXNkTmJoVDVCV1BmdUhuam9zdjExLXBDdGk0cV9vRDhnN25oRVlZYzd0NDVwaTRB?oc=5",
+          "published_at": "2026-11-22T16:23:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWNRVGw2Rk5yVTBtM0hjX1JpMlZOMFFTa2tOM2x1dEpMRFVneDlrbldnVUhlYV9oWXdMNFliQUtOVmhQWllkMDl3UDdkUExZS0xHX3JWbXlJRWJkeEpNQjdHbEJEd3JtYU5oT19Zck9ILVVJYWxDTFBxUElrb1A2ZklMellFQ2ZUdEFNdXNkTmJoVDVCV1BmdUhuam9zdjExLXBDdGk0cV9vRDhnN25oRVlZYzd0NDVwaTRB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T16:26:11.745760+00:00"
+  "updated_at": "2026-11-22T17:18:10.778986+00:00"
 }
