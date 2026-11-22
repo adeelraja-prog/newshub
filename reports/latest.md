@@ -1,164 +1,145 @@
-# News Hub report - Mon 23 Nov, 01:31 AM PKT
+# News Hub report - Mon 23 Nov, 02:24 AM PKT
 
 ## Collection
-- New items this run: 18 | items in rolling pool: 483
-- Unique story clusters: 410 (duplicates merged: 73)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 5
-- Items per outlet: Pakistan Today 4, ARY News 3, Engadget 3, Al Jazeera 2, Geo News 1, Dawn 1, BBC World 1, France 24 1, ABC News - Breaking News, Latest News and Videos 1, Forbes 1, ARY News Fast Lane 0, The News Fast Lane 0
+- New items this run: 24 | items in rolling pool: 413
+- Unique story clusters: 361 (duplicates merged: 52)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 6
+- Items per outlet: The Express Tribune 5, Pakistan Today 5, Engadget 3, Geo News 2, TechCrunch 2, The News International 1, Al Jazeera 1, GSMArena 1, BBC World 1, Al Arabiya English 1, Palestine Chronicle 1, BBC 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: MOHSIN NAQVI VS RANA SANAULLAH: WHO WILL BACK DOWN? | https://www.youtube.com/watch?v=DkA-tJJr7gU
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Houthis claim targeting Saudi Arabia's Rabigh oil refinery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Liverpool thrash 10-man Man United in nightmare start for Pochettino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Democrats win largest House majority since 1992 after flipping North Carolina seat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fire breaks out at popular tourist hotspot in Zanzibar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Miley Cyrus marries Maxx Morando in California ceremony | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Earthquake jolts Khuzdar district in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Houthis claim targeting Saudi Arabia's Rabigh oil refinery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Liverpool thrash 10-man Man United in nightmare start for Pochettino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Democrats win largest House majority since 1992 after flipping North Carolina seat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fire breaks out at popular tourist hotspot in Zanzibar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Miley Cyrus marries Maxx Morando in California ceremony | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Earthquake jolts Khuzdar district in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Houthis claim targeting Saudi Arabia's Rabigh oil refinery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Liverpool thrash 10-man Man United in nightmare start for Pochettino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Democrats win largest House majority since 1992 after flipping North Carolina seat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fire breaks out at popular tourist hotspot in Zanzibar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Miley Cyrus marries Maxx Morando in California ceremony | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Earthquake jolts Khuzdar district in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 104/120 | empty: 2 | failed: 14 | malformed/partial: 14
-- Trusted publisher desks with at least one healthy source: 9/10
-- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Rights and Accountability Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Parties Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: BBC India politics | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: CNN India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Dunya News TV
 
 ## Selected for the queue
-### PTI urges Bilawal not to back extension of Governor’s Rule  [NORMAL]
-- Poster: پی ٹی آئی کی بلاول سے گورنر راج اور ایمرجنسی میں توسیع کی مخالفت کی اپیل / PTI urges Bilawal to oppose Governor's Rule extension | category politics
-- Alternative headline: Pakistan Tehreek-e-Insaf appeals to Bilawal to oppose emergency rule extension
+### Washington Governor Slams ICE Raids After Airport Arrests  [NORMAL]
+- Poster: واشنگٹن کے گورنر نے سیٹل ایئرپورٹ پر ICE کے چھاپوں کی شدید مذمت کر دی / Washington Governor Slams ICE Airport Raids | category us_politics
+- Alternative headline: Seattle Airport ICE Operation Sparks Outrage From Washington Governor
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2ZVTFE1WFFRUThLLTUxYVgyMDl1Y2o2a25ESlpDSXFVNnJfODBKTVFXdXhNa2djSl9DT1VRR3BEMVVWNXdFQXQ0MTd6RW1hUlRBSXdkSGtIUmtfTVFnVHNwZlpRakd3WUNzb1Qycjh1QnlxQ3BweWRoaXBjd0tfZV9NRDBhUF8taHY0SE5ZSWt0ZUpiQnl2WkpvSVV1OWxJVGlfWW91bmtjdEVja1dRUmdEbzg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2ZVTFE1WFFRUThLLTUxYVgyMDl1Y2o2a25ESlpDSXFVNnJfODBKTVFXdXhNa2djSl9DT1VRR3BEMVVWNXdFQXQ0MTd6RW1hUlRBSXdkSGtIUmtfTVFnVHNwZlpRakd3WUNzb1Qycjh1QnlxQ3BweWRoaXBjd0tfZV9NRDBhUF8taHY0SE5ZSWt0ZUpiQnl2WkpvSVV1OWxJVGlfWW91bmtjdEVja1dRUmdEbzg?oc=5
-- Supporting coverage: samaa tv
-- Keywords: Governor's Rule, PTI, Bilawal Bhutto, emergency, Samaa TV, politics | hashtags: #PTI #BilawalBhutto #GovernorsRule #PakistanPolitics #SamaaTV
-- Scheduled: Mon 23 Nov, 01:31 AM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046346/washington-governor-calls-ice-out-of-control-after-seattle-airport-arrests | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046346/washington-governor-calls-ice-out-of-control-after-seattle-airport-arrests
+- Supporting coverage: Dawn Latest
+- Keywords: ICE raids, Washington governor, Seattle airport, Bob Ferguson, US immigration, airport arrests | hashtags: #Washington #ICE #Seattle #USPolitics #News
+- Scheduled: Mon 23 Nov, 02:24 AM PKT
 - Caption:
 ```
-PTI has urged PPP Chairman Bilawal Bhutto Zardari not to support any extension of Governor’s Rule and emergency.
+Washington Governor Bob Ferguson has strongly condemned US immigration agents after two people were arrested at Seattle's main airport.
 
-Pakistan Tehreek-e-Insaf has formally urged Pakistan Peoples Party Chairman Bilawal Bhutto Zardari not to back any potential extension of Governor’s Rule and emergency measures, according to reports by Samaa TV.
+Washington Governor Bob Ferguson has criticized US Immigration and Customs Enforcement agents, calling them completely out of control following the arrests of two visa overstayers at Seattle-Tacoma International Airport. Ferguson stated that masked agents may have violated state laws regarding facial coverings.
 
-سما ٹی وی کی رپورٹ کے مطابق پاکستان تحریک انصاف نے پاکستان پیپلز پارٹی کے چیئرمین بلاول بھutto زرداری سے مطالبہ کیا ہے کہ وہ گورنر راج اور ایمرجنسی کے نفاذ میں توسیع کی حمایت نہ کریں۔
+واشنگٹن کے گورنر باب فرگوسن نے امریکی امیگریشن حکام کو شدید تنقید کا نشانہ بناتے ہوئے کہا ہے کہ سیٹل ٹاکوما انٹرنیشنل ایئرپورٹ پر دو افراد کی گرفتاری کے بعد وہ مکمل طور پر قابو سے باہر ہو چکے ہیں۔ انہوں نے کہا کہ نقاب پوش ایجنٹس نے ریاستی قوانین کی خلاف ورزی کی ہوگی۔
 
-First reported by Samaa TV.
+First reported by Dawn Latest; also reported by Al Jazeera.
 
-#PTI #BilawalBhutto #GovernorsRule #PakistanPolitics #SamaaTV
+#Washington #ICE #Seattle #USPolitics #News
 ```
 
-### Houthis claim targeted strike on Saudi Arabia's Rabigh refinery  [NORMAL]
-- Poster: حوثیوں کا سعودی عرب کی رابغ آئل ریفائنری کو نشانہ بنانے کا دعویٰ / Houthis claim attack on Saudi Rabigh oil refinery | category world
-- Alternative headline: Yemeni Houthis claim missile or drone attack on Saudi Rabigh oil facility
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjhsZTV3NkYzVi1rcmlFNmljS2tjeUdxY3ZvZkJmb0JLQzFTOF9wbDgwY0VPc1ExMkxpNVdsZjFVQ2Q0MWQ5aHYxVW1WYWlOWi1KdjVwVGVvaFRXZC0yOTIzeXhpc2RTSENNVUpRTWRyS0lKQmVHal90NXZ0VTJYcUhSUmZyenRWNjZjODlGUW1qZExmUFE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjhsZTV3NkYzVi1rcmlFNmljS2tjeUdxY3ZvZkJmb0JLQzFTOF9wbDgwY0VPc1ExMkxpNVdsZjFVQ2Q0MWQ5aHYxVW1WYWlOWi1KdjVwVGVvaFRXZC0yOTIzeXhpc2RTSENNVUpRTWRyS0lKQmVHal90NXZ0VTJYcUhSUmZyenRWNjZjODlGUW1qZExmUFE?oc=5
-- Supporting coverage: Pakistan Today, Dawn
-- Keywords: Rabigh refinery, Houthis, Saudi Arabia, oil refinery, Dawn, attack | hashtags: #Houthis #SaudiArabia #OilRefinery #DawnNews #WorldNews
-- Scheduled: Mon 23 Nov, 01:41 AM PKT
-- Caption:
-```
-Yemeni Houthi movement claims to have targeted Saudi Arabia's Rabigh oil refinery in a fresh attack.
-
-Yemeni Houthi forces have claimed responsibility for targeting Saudi Arabia's vital Rabigh oil refinery, according to reports published by Dawn and other news outlets.
-
-ڈان کی رپورٹ کے مطابق یمنی حوثی فورسز نے سعودی عرب کی رابغ آئل ریفائنری کو نشانہ بنانے کا دعویٰ کیا ہے۔
-
-First reported by Dawn.
-
-#Houthis #SaudiArabia #OilRefinery #DawnNews #WorldNews
-```
-
-### Officials condemn 'horrific' ICE arrests at Seattle airport  [NORMAL]
-- Poster: سیٹل ایئرپورٹ پر امریکی امیگریشن کی کارروائی، عہدیداروں کی شدید مذمت / Officials condemn ICE arrests at Seattle airport | category world
-- Alternative headline: Masked ICE agents' forceful detention at Seattle airport draws outrage
+### Democrats Secure Largest House Majority Since 1992  [NORMAL]
+- Poster: ڈیموکریٹس نے 1992 کے بعد ایوان نمائندگان میں سب سے بڑی اکثریت حاصل کر لی / Democrats Secure Historic US House Majority | category us_politics
+- Alternative headline: North Carolina Win Gives Democrats Historic House Majority
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: ICE arrests, Seattle airport, Al Jazeera, immigration, detention, US news | hashtags: #ICE #SeattleAirport #AlJazeera #Immigration #USNews
-- Scheduled: Mon 23 Nov, 01:51 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, BBC
+- Keywords: House majority, Democrats, North Carolina, Chuck Hubbard, Virginia Foxx, US midterms | hashtags: #Democrats #USPolitics #HouseOfRepresentatives #Midterms #News
+- Scheduled: Mon 23 Nov, 02:34 AM PKT
 - Caption:
 ```
-Footage showing masked immigration agents forcibly detaining two people at Seattle airport has sparked widespread condemnation.
+The Democratic Party has achieved its largest House majority since 1992 after flipping a crucial North Carolina seat.
 
-Footage showing masked US immigration agents forcibly detaining two individuals at Seattle airport has drawn sharp condemnation from officials, who described the tactics as horrific and chilling, according to Al Jazeera.
+The Democratic Party secured the largest House majority since 1992 after candidate Chuck Hubbard unseated Republican Representative Virginia Foxx in North Carolina. With at least 258 House seats won in the midterms, Democrats solidified their legislative standing alongside controlling the Senate.
 
-الجزیرہ کے مطابق سیٹل ایئرپورٹ پر نقاب پوش امیگریشن اہلکاروں کی جانب سے دو افراد کو زبردستی حراست میں لینے کی فوٹیج سامنے آنے کے بعد عہدیداروں نے اسے ہولناک قرار دیتے ہوئے شدید مذمت کی ہے۔
+ڈیموکریٹک پارٹی نے شمالی کیرولینا میں نشست جیتنے کے بعد 1992 کے بعد ایوان نمائندگان میں سب سے بڑی اکثریت حاصل کر لی ہے۔ مڈٹرم انتخابات میں کم از کم 258 نشستیں جیتنے کے بعد ڈیموکریٹس کی پوزیشن مزید مضبوط ہو گئی ہے۔
 
-First reported by Al Jazeera.
+First reported by BBC World.
 
-#ICE #SeattleAirport #AlJazeera #Immigration #USNews
+#Democrats #USPolitics #HouseOfRepresentatives #Midterms #News
 ```
 
-### Liverpool thrash 10-man Man United 4-0 in nightmare start for Pochettino  [NORMAL]
-- Poster: لیورپول نے مانچسٹر یونائیٹڈ کو چار صفر سے شکست دے دی / Liverpool thrash Man United 4-0 at Anfield | category sports
-- Alternative headline: Leny Yoro red card paves way for Liverpool's 4-0 win over Manchester United
+### Cockroaches, Dissent and a Paradigm Shift in India  [NORMAL]
+- Poster: بھارت میں سیاسی اور صحافتی تبدیلی پر ایک تجزیہ / Dissent and Paradigm Shift in India | category other
+- Alternative headline: Exploring Political and Journalistic Shifts in India
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Liverpool vs Man United, Pochettino, Premier League, Al Jazeera, football, Anfield | hashtags: #LIVMUN #PremierLeague #LiverpoolFC #ManUtd #AlJazeera
-- Scheduled: Mon 23 Nov, 02:01 AM PKT
+- Keywords: India politics, Cockroach Janta Party, dissent, journalism, Al Jazeera, paradigm shift | hashtags: #India #Politics #Journalism #AlJazeera #Analysis
+- Scheduled: Mon 23 Nov, 02:44 AM PKT
 - Caption:
 ```
-Manchester United suffered a nightmare start under Pochettino after a heavy 4-0 defeat against Liverpool at Anfield.
+An in-depth look at the rise of new political groups and what they reveal about the changing face of Indian politics and journalism.
 
-Manchester United endured a nightmare start under their management as an early red card for Leny Yoro after just eight minutes paved the way for a crushing 4-0 defeat against Liverpool at Anfield, as reported by Al Jazeera.
+Al Jazeera explores the emergence of alternative political movements, such as the Cockroach Janta Party, and analyzes what these developments indicate regarding the future trajectory of politics and journalism in India.
 
-الجزیرہ کی رپورٹ کے مطابق میچ کے آٹھویں ہی منٹ میں لینی یورو کو ریڈ کارڈ ملنے کے بعد لیورپول نے اینفیلڈ میں مانچسٹر یونائیٹڈ کو چار کے مقابلے صفر گول سے شکست دے دی۔
+الجزیرہ نے بھارت میں متبادل سیاسی تحریکوں کے ابھرنے اور وہاں کی سیاست اور صحافت کے مستقبل پر پڑنے والے اثرات کا جائزہ لیا ہے۔
 
 First reported by Al Jazeera.
 
-#LIVMUN #PremierLeague #LiverpoolFC #ManUtd #AlJazeera
+#India #Politics #Journalism #AlJazeera #Analysis
 ```
 
-- Indian outlets blocked this run: 1 items
+### Massive Fire Destroys Hotels and Shops in Zanzibar  [NORMAL]
+- Poster: زنجبار کے مشہور سیاحتی مقام پر خوفناک آتشزدگی، ہوٹل اور دکانیں تباہ / Massive Fire Hits Zanzibar Tourist Hotspot | category disaster
+- Alternative headline: Blaze Tears Through Tourist Hotspot in Nungwi, Zanzibar
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Zanzibar fire, Nungwi, hotels, tourist hotspot, fire outbreak, Al Jazeera | hashtags: #Zanzibar #Fire #Nungwi #BreakingNews #Accident
+- Scheduled: Mon 23 Nov, 02:54 AM PKT
+- Caption:
+```
+A devastating fire has swept through a popular tourist area in Zanzibar, damaging multiple hotels and shops.
+
+A major fire broke out in Nungwi, a popular tourist destination in Zanzibar, destroying six hotels and dozens of local shops. Emergency services responded to contain the rapid blaze.
+
+زنجبار کے مقبول سیاحتی مقام نونگوی میں ایک بڑی آگ بھڑک اٹھی جس کی زد میں آ کر چھ ہوٹل اور درجنوں دکانیں جل کر خاکستر ہو گئیں۔
+
+First reported by Al Jazeera.
+
+#Zanzibar #Fire #Nungwi #BreakingNews #Accident
+```
+
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
-- [published] normal | US Senate Rejects Resolution to Limit Trump's War Powers on Iran | Fri 20 Nov, 02:22 AM PKT
-- [published] normal | Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperatio | Fri 20 Nov, 02:32 AM PKT
-- [published] normal | Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Miss | Fri 20 Nov, 02:42 AM PKT
-- [published] normal | Latest Updates and Developments from the Middle East | Fri 20 Nov, 02:52 AM PKT
 - [published] normal | Pakistan and 14 nations welcome UK and Australian sanctions on Israeli | Fri 20 Nov, 03:21 AM PKT
 - [needs_review] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
 - [needs_review] normal | President urges swift implementation of Pakistan-Maldives agreements | Fri 20 Nov, 03:41 AM PKT
@@ -313,7 +294,7 @@ First reported by Al Jazeera.
 - [needs_review] normal | UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt | Sun 22 Nov, 12:54 AM PKT
 - [published] normal | EU Proposes Big Tech Tax to Fund Budget | Sun 22 Nov, 01:13 AM PKT
 - [needs_review] normal | Noni Madueke Salvages Draw for Arsenal Against Newcastle | Sun 22 Nov, 01:23 AM PKT
-- [queued] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
+- [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
 - [needs_review] normal | President Zardari approves five ordinances on KP legislation | Sun 22 Nov, 02:01 AM PKT
 - [published] normal | Israeli strike hits food aid vehicle in Gaza, killing three | Sun 22 Nov, 02:11 AM PKT
 - [needs_review] normal | Jair Bolsonaro Admitted to Intensive Care With Bowel Obstruction | Sun 22 Nov, 02:47 AM PKT
@@ -370,10 +351,10 @@ First reported by Al Jazeera.
 - [needs_review] normal | Main suspect in Karachi mother-daughter murder arrested in Larkana | Sun 22 Nov, 07:17 PM PKT
 - [needs_review] normal | Bruno Fernandes puts Manchester United contract talks on hold | Sun 22 Nov, 07:27 PM PKT
 - [published] normal | Why Iran Has Ramped Up Attacks Across the Gulf | Sun 22 Nov, 07:49 PM PKT
-- [queued] normal | Iran Has Achieved Military Deterrence Against Enemy: Ghalibaf | Sun 22 Nov, 07:59 PM PKT
-- [queued] normal | Pakistan to Host IAEA Nuclear Security Meeting in Islamabad | Sun 22 Nov, 08:09 PM PKT
-- [queued] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
-- [queued] normal | COP31 climate talks collapse as EU and others reject final deal | Sun 22 Nov, 09:26 PM PKT
+- [needs_review] normal | Iran Has Achieved Military Deterrence Against Enemy: Ghalibaf | Sun 22 Nov, 07:59 PM PKT
+- [needs_review] normal | Pakistan to Host IAEA Nuclear Security Meeting in Islamabad | Sun 22 Nov, 08:09 PM PKT
+- [needs_review] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
+- [published] normal | COP31 climate talks collapse as EU and others reject final deal | Sun 22 Nov, 09:26 PM PKT
 - [queued] normal | Oman to supply petroleum products with $200m credit facility to PSO | Sun 22 Nov, 09:36 PM PKT
 - [queued] normal | Explosion on Russian ship at Libya port caused by suspected drone atta | Sun 22 Nov, 09:46 PM PKT
 - [queued] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
@@ -394,17 +375,17 @@ First reported by Al Jazeera.
 - [queued] normal | Houthis claim targeted strike on Saudi Arabia's Rabigh refinery | Mon 23 Nov, 01:41 AM PKT
 - [queued] normal | Officials condemn 'horrific' ICE arrests at Seattle airport | Mon 23 Nov, 01:51 AM PKT
 - [queued] normal | Liverpool thrash 10-man Man United 4-0 in nightmare start for Pochetti | Mon 23 Nov, 02:01 AM PKT
+- [queued] normal | Washington Governor Slams ICE Raids After Airport Arrests | Mon 23 Nov, 02:24 AM PKT
+- [queued] normal | Democrats Secure Largest House Majority Since 1992 | Mon 23 Nov, 02:34 AM PKT
+- [queued] normal | Cockroaches, Dissent and a Paradigm Shift in India | Mon 23 Nov, 02:44 AM PKT
+- [queued] normal | Massive Fire Destroys Hotels and Shops in Zanzibar | Mon 23 Nov, 02:54 AM PKT
 
 ## Publishing this run
-- Published 'Why Iran Has Ramped Up Attacks Across the Gulf'.
+- Published 'COP31 climate talks collapse as EU and others reject final deal'.
 
 ## Gemini usage
-- Calls: 5 | prompt tokens: 5477 | output tokens: 2360
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 4304 | output tokens: 2901
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
