@@ -1,35 +1,35 @@
-# News Hub report - Mon 23 Nov, 02:24 AM PKT
+# News Hub report - Mon 23 Nov, 03:16 AM PKT
 
 ## Collection
-- New items this run: 24 | items in rolling pool: 413
-- Unique story clusters: 361 (duplicates merged: 52)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 6
-- Items per outlet: The Express Tribune 5, Pakistan Today 5, Engadget 3, Geo News 2, TechCrunch 2, The News International 1, Al Jazeera 1, GSMArena 1, BBC World 1, Al Arabiya English 1, Palestine Chronicle 1, BBC 1
+- New items this run: 14 | items in rolling pool: 332
+- Unique story clusters: 292 (duplicates merged: 40)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 4
+- Items per outlet: The Express Tribune 4, Engadget 4, Al Jazeera 3, Dawn Latest 1, TechCrunch 1, The Times of Israel 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Democrats win largest House majority since 1992 after flipping North Carolina seat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fire breaks out at popular tourist hotspot in Zanzibar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Miley Cyrus marries Maxx Morando in California ceremony | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Earthquake jolts Khuzdar district in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Second ship targeted in series of naval drone attacks off Libyan coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Heartbreak in US capital as Washington Spirit lose women’s football final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How Pakistanis save | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Democrats win largest House majority since 1992 after flipping North Carolina seat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fire breaks out at popular tourist hotspot in Zanzibar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Miley Cyrus marries Maxx Morando in California ceremony | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Earthquake jolts Khuzdar district in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Second ship targeted in series of naval drone attacks off Libyan coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Heartbreak in US capital as Washington Spirit lose women’s football final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How Pakistanis save | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Democrats win largest House majority since 1992 after flipping North Carolina seat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fire breaks out at popular tourist hotspot in Zanzibar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Miley Cyrus marries Maxx Morando in California ceremony | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Earthquake jolts Khuzdar district in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Second ship targeted in series of naval drone attacks off Libyan coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Heartbreak in US capital as Washington Spirit lose women’s football final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How Pakistanis save | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Washington Governor Slams ICE Raids After Airport Arrests  [NORMAL]
-- Poster: واشنگٹن کے گورنر نے سیٹل ایئرپورٹ پر ICE کے چھاپوں کی شدید مذمت کر دی / Washington Governor Slams ICE Airport Raids | category us_politics
-- Alternative headline: Seattle Airport ICE Operation Sparks Outrage From Washington Governor
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046346/washington-governor-calls-ice-out-of-control-after-seattle-airport-arrests | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046346/washington-governor-calls-ice-out-of-control-after-seattle-airport-arrests
-- Supporting coverage: Dawn Latest
-- Keywords: ICE raids, Washington governor, Seattle airport, Bob Ferguson, US immigration, airport arrests | hashtags: #Washington #ICE #Seattle #USPolitics #News
-- Scheduled: Mon 23 Nov, 02:24 AM PKT
-- Caption:
-```
-Washington Governor Bob Ferguson has strongly condemned US immigration agents after two people were arrested at Seattle's main airport.
-
-Washington Governor Bob Ferguson has criticized US Immigration and Customs Enforcement agents, calling them completely out of control following the arrests of two visa overstayers at Seattle-Tacoma International Airport. Ferguson stated that masked agents may have violated state laws regarding facial coverings.
-
-واشنگٹن کے گورنر باب فرگوسن نے امریکی امیگریشن حکام کو شدید تنقید کا نشانہ بناتے ہوئے کہا ہے کہ سیٹل ٹاکوما انٹرنیشنل ایئرپورٹ پر دو افراد کی گرفتاری کے بعد وہ مکمل طور پر قابو سے باہر ہو چکے ہیں۔ انہوں نے کہا کہ نقاب پوش ایجنٹس نے ریاستی قوانین کی خلاف ورزی کی ہوگی۔
-
-First reported by Dawn Latest; also reported by Al Jazeera.
-
-#Washington #ICE #Seattle #USPolitics #News
-```
-
-### Democrats Secure Largest House Majority Since 1992  [NORMAL]
-- Poster: ڈیموکریٹس نے 1992 کے بعد ایوان نمائندگان میں سب سے بڑی اکثریت حاصل کر لی / Democrats Secure Historic US House Majority | category us_politics
-- Alternative headline: North Carolina Win Gives Democrats Historic House Majority
+### Netanyahu and Eisenkot End Coalition Talks Without a Deal  [NORMAL]
+- Poster: نتنیاہو اور آئزن کوٹ کے درمیان مخلوط حکومت پر مذاکرات ناکام / Netanyahu and Eisenkot Coalition Talks Collapse | category politics
+- Alternative headline: Likud and Yashar Fail to Reach Agreement on New Government
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, BBC
-- Keywords: House majority, Democrats, North Carolina, Chuck Hubbard, Virginia Foxx, US midterms | hashtags: #Democrats #USPolitics #HouseOfRepresentatives #Midterms #News
-- Scheduled: Mon 23 Nov, 02:34 AM PKT
-- Caption:
-```
-The Democratic Party has achieved its largest House majority since 1992 after flipping a crucial North Carolina seat.
-
-The Democratic Party secured the largest House majority since 1992 after candidate Chuck Hubbard unseated Republican Representative Virginia Foxx in North Carolina. With at least 258 House seats won in the midterms, Democrats solidified their legislative standing alongside controlling the Senate.
-
-ڈیموکریٹک پارٹی نے شمالی کیرولینا میں نشست جیتنے کے بعد 1992 کے بعد ایوان نمائندگان میں سب سے بڑی اکثریت حاصل کر لی ہے۔ مڈٹرم انتخابات میں کم از کم 258 نشستیں جیتنے کے بعد ڈیموکریٹس کی پوزیشن مزید مضبوط ہو گئی ہے۔
-
-First reported by BBC World.
-
-#Democrats #USPolitics #HouseOfRepresentatives #Midterms #News
-```
-
-### Cockroaches, Dissent and a Paradigm Shift in India  [NORMAL]
-- Poster: بھارت میں سیاسی اور صحافتی تبدیلی پر ایک تجزیہ / Dissent and Paradigm Shift in India | category other
-- Alternative headline: Exploring Political and Journalistic Shifts in India
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: India politics, Cockroach Janta Party, dissent, journalism, Al Jazeera, paradigm shift | hashtags: #India #Politics #Journalism #AlJazeera #Analysis
-- Scheduled: Mon 23 Nov, 02:44 AM PKT
+- Keywords: coalition talks, Netanyahu, Eisenkot, Likud, Yashar, government | hashtags: #Netanyahu #IsraelPolitics #Likud #MiddleEast #Government
+- Scheduled: Mon 23 Nov, 03:16 AM PKT
 - Caption:
 ```
-An in-depth look at the rise of new political groups and what they reveal about the changing face of Indian politics and journalism.
+Political uncertainty deepens as coalition talks between Netanyahu's Likud and Eisenkot's Yashar collapse without an agreement.
 
-Al Jazeera explores the emergence of alternative political movements, such as the Cockroach Janta Party, and analyzes what these developments indicate regarding the future trajectory of politics and journalism in India.
+Coalition talks between Benjamin Netanyahu's Likud party and Gadi Eisenkot's Yashar have ended without a deal. The parties remain deeply divided over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join the coalition.
 
-الجزیرہ نے بھارت میں متبادل سیاسی تحریکوں کے ابھرنے اور وہاں کی سیاست اور صحافت کے مستقبل پر پڑنے والے اثرات کا جائزہ لیا ہے۔
+بنیامین نیتنیاہو کی لیکود پارٹی اور گادی آئزن کوٹ کی یشار کے درمیان مخلوط حکومت کے لیے مذاکرات کسی معاہدے کے بغیر ختم ہو گئے ہیں۔ دونوں فریقین اس بات پر منقسم ہیں کہ اگلی حکومت کی قیادت کون کرے گا اور آیا انتہائی دائیں بازو کے وزیر ایتامار بن گویر اس میں شامل ہوں گے۔
 
-First reported by Al Jazeera.
+According to Al Jazeera
 
-#India #Politics #Journalism #AlJazeera #Analysis
+#Netanyahu #IsraelPolitics #Likud #MiddleEast #Government
 ```
 
-### Massive Fire Destroys Hotels and Shops in Zanzibar  [NORMAL]
-- Poster: زنجبار کے مشہور سیاحتی مقام پر خوفناک آتشزدگی، ہوٹل اور دکانیں تباہ / Massive Fire Hits Zanzibar Tourist Hotspot | category disaster
-- Alternative headline: Blaze Tears Through Tourist Hotspot in Nungwi, Zanzibar
+### Miley Cyrus Marries Maxx Morando in California Ceremony  [NORMAL]
+- Poster: مائلی سائرس نے میکس مورینڈو سے شادی کر لی / Miley Cyrus Marries Maxx Morando | category lifestyle
+- Alternative headline: Pop Star Miley Cyrus Weds Maxx Morando in Palm Springs
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Zanzibar fire, Nungwi, hotels, tourist hotspot, fire outbreak, Al Jazeera | hashtags: #Zanzibar #Fire #Nungwi #BreakingNews #Accident
-- Scheduled: Mon 23 Nov, 02:54 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Miley Cyrus wedding, Maxx Morando, California, Palm Springs, marriage, celebrity | hashtags: #MileyCyrus #MaxxMorando #CelebrityWedding #Entertainment #Hollywood
+- Scheduled: Mon 23 Nov, 03:26 AM PKT
 - Caption:
 ```
-A devastating fire has swept through a popular tourist area in Zanzibar, damaging multiple hotels and shops.
+Pop star Miley Cyrus has tied the knot with her partner of four years, Maxx Morando, in a ceremony in California.
 
-A major fire broke out in Nungwi, a popular tourist destination in Zanzibar, destroying six hotels and dozens of local shops. Emergency services responded to contain the rapid blaze.
+Grammy-winning singer Miley Cyrus has married drummer Maxx Morando during an intimate ceremony in Palm Springs, California. The couple, together for four years, celebrated their wedding surrounded by family and friends, wearing custom outfits by Saint Laurent.
 
-زنجبار کے مقبول سیاحتی مقام نونگوی میں ایک بڑی آگ بھڑک اٹھی جس کی زد میں آ کر چھ ہوٹل اور درجنوں دکانیں جل کر خاکستر ہو گئیں۔
+مشہور گلوکارہ مائلی سائرس نے کیلیفورنیا کے علاقے پام اسپرنگس میں ایک تقریب کے دوران اپنے چار سال کے ساتھی میکس مورینڈو سے شادی کر لی ہے۔ اس جوڑے نے خاندان اور دوستوں کی موجودگی میں شادی کی اور تقریب میں خصوصی ملبوسات زیب تن کیے۔
 
-First reported by Al Jazeera.
+First reported by BBC World
 
-#Zanzibar #Fire #Nungwi #BreakingNews #Accident
+#MileyCyrus #MaxxMorando #CelebrityWedding #Entertainment #Hollywood
 ```
 
-- Indian outlets blocked this run: 0 items
+### Second Ship Targeted in Naval Drone Attacks Off Libyan Coast  [NORMAL]
+- Poster: لیبیا کے ساحل کے قریب ڈرون حملے میں دوسرا بحری جہاز نشانہ / Second Ship Targeted Off Libyan Coast | category security
+- Alternative headline: Maltese Flag Commercial Vessel Hit in Attack Near Benghazi
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: naval drone attack, Libya, Benghazi, commercial vessel, Maltese flag, security | hashtags: #Libya #NavalAttack #Security #MiddleEast #Shipping
+- Scheduled: Mon 23 Nov, 03:36 AM PKT
+- Caption:
+```
+Maritime security concerns grow as a second commercial vessel is targeted in drone attacks off the coast of Libya.
+
+A second commercial vessel flying a Maltese flag has been targeted in a series of naval drone attacks off the coast of Benghazi, Libya. The incident marks a rising security threat to shipping lanes in the region.
+
+لیبیا کے شہر بنغازی کے قریب سمندری ڈرون حملوں کے نتیجے میں مالٹا کا پرچم اٹھائے ہوئے ایک دوسرے تجارتی جہاز کو نشانہ بنایا گیا ہے۔ اس واقعے سے خطے میں بحری جہاز رانی کے راستوں پر سیکیورٹی کے خطرات بڑھ گئے ہیں۔
+
+According to Al Jazeera
+
+#Libya #NavalAttack #Security #MiddleEast #Shipping
+```
+
+### Heartbreak for Washington Spirit as KC Current Win NWSL Final  [NORMAL]
+- Poster: واشنگٹن اسپرٹ کو این ڈبلیو ایس ایل فائنل میں شکست کا سامنا / Washington Spirit Lose NWSL Final | category sports
+- Alternative headline: Washington Spirit Lose Third Consecutive NWSL Championship Final
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: NWSL final, Washington Spirit, KC Current, womens football, championship, sports | hashtags: #NWSL #WashingtonSpirit #KCCurrent #WomensFootball #Sports
+- Scheduled: Mon 23 Nov, 03:46 AM PKT
+- Caption:
+```
+Heartbreak in the US capital as the Washington Spirit fall short in the NWSL championship final against KC Current.
+
+The Washington Spirit suffered heartbreak in front of a home crowd as they lost the NWSL championship final to the KC Current. This marks the third consecutive final defeat for the Spirit despite strong support in the US capital.
+
+واشنگٹن اسپرٹ کو اپنے گھریلو شائقین کے سامنے این ڈبلیو ایس ایل چیمپئن شپ کے فائنل میں کے سی کرنٹ کے ہاتھوں شکست کا سامنا کرنا پڑا۔ واشنگٹن اسپرٹ کی مسلسل تیسری فائنل میں یہ ہار ہے۔
+
+According to Al Jazeera
+
+#NWSL #WashingtonSpirit #KCCurrent #WomensFootball #Sports
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
 - [published] normal | Pakistan and 14 nations welcome UK and Australian sanctions on Israeli | Fri 20 Nov, 03:21 AM PKT
@@ -355,7 +355,7 @@ First reported by Al Jazeera.
 - [needs_review] normal | Pakistan to Host IAEA Nuclear Security Meeting in Islamabad | Sun 22 Nov, 08:09 PM PKT
 - [needs_review] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
 - [published] normal | COP31 climate talks collapse as EU and others reject final deal | Sun 22 Nov, 09:26 PM PKT
-- [queued] normal | Oman to supply petroleum products with $200m credit facility to PSO | Sun 22 Nov, 09:36 PM PKT
+- [published] normal | Oman to supply petroleum products with $200m credit facility to PSO | Sun 22 Nov, 09:36 PM PKT
 - [queued] normal | Explosion on Russian ship at Libya port caused by suspected drone atta | Sun 22 Nov, 09:46 PM PKT
 - [queued] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
 - [queued] normal | Mohsin Naqvi slams minister over repeated TV criticism, defends busine | Sun 22 Nov, 11:01 PM PKT
@@ -379,18 +379,20 @@ First reported by Al Jazeera.
 - [queued] normal | Democrats Secure Largest House Majority Since 1992 | Mon 23 Nov, 02:34 AM PKT
 - [queued] normal | Cockroaches, Dissent and a Paradigm Shift in India | Mon 23 Nov, 02:44 AM PKT
 - [queued] normal | Massive Fire Destroys Hotels and Shops in Zanzibar | Mon 23 Nov, 02:54 AM PKT
+- [queued] normal | Netanyahu and Eisenkot End Coalition Talks Without a Deal | Mon 23 Nov, 03:16 AM PKT
+- [queued] normal | Miley Cyrus Marries Maxx Morando in California Ceremony | Mon 23 Nov, 03:26 AM PKT
+- [queued] normal | Second Ship Targeted in Naval Drone Attacks Off Libyan Coast | Mon 23 Nov, 03:36 AM PKT
+- [queued] normal | Heartbreak for Washington Spirit as KC Current Win NWSL Final | Mon 23 Nov, 03:46 AM PKT
 
 ## Publishing this run
-- Published 'COP31 climate talks collapse as EU and others reject final deal'.
+- Published 'Oman to supply petroleum products with $200m credit facility to PSO'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4304 | output tokens: 2901
-- Errors: 2
+- Calls: 4 | prompt tokens: 7498 | output tokens: 4287
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 59 column 7 (char 2834)

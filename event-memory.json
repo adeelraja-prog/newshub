@@ -119919,7 +119919,334 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e39a7503b8082a5e10a54e5c",
+      "remembered_at": "2026-11-22T22:16:52.764829+00:00",
+      "event_date": "2026-11-22T22:01:48+00:00",
+      "last_update": "2026-11-22T22:01:48+00:00",
+      "event": "Second ship targeted in series of naval drone attacks off Libyan coast",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "attacks",
+        "been",
+        "benghazi",
+        "coast",
+        "commercial",
+        "drone",
+        "flag",
+        "flying",
+        "has",
+        "libyan",
+        "maltese",
+        "naval",
+        "off",
+        "reported",
+        "second",
+        "series",
+        "ship",
+        "targeted",
+        "vessel"
+      ],
+      "source_excerpt": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+          "published_at": "2026-11-22T22:01:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "db52e373a40b87f04a2e9885",
+      "remembered_at": "2026-11-22T22:16:52.764829+00:00",
+      "event_date": "2026-11-22T21:33:11+00:00",
+      "last_update": "2026-11-22T21:33:11+00:00",
+      "event": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "ben",
+        "coalition",
+        "deal",
+        "eisenkot",
+        "end",
+        "far",
+        "government",
+        "gvir",
+        "itamar",
+        "join",
+        "lead",
+        "likud",
+        "minister",
+        "netanyahu",
+        "next",
+        "over",
+        "parties",
+        "remain",
+        "right",
+        "split",
+        "talks",
+        "the",
+        "whether",
+        "who",
+        "will",
+        "without",
+        "yashar"
+      ],
+      "source_excerpt": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+          "published_at": "2026-11-22T21:33:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "86a9ca31236fcbf8412de564",
+      "remembered_at": "2026-11-22T22:16:52.764829+00:00",
+      "event_date": "2026-11-22T21:26:12+00:00",
+      "last_update": "2026-11-22T21:26:12+00:00",
+      "event": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "capital",
+        "championship",
+        "consecutive",
+        "crowd",
+        "current",
+        "despite",
+        "final",
+        "football",
+        "front",
+        "heartbreak",
+        "home",
+        "lose",
+        "nwsl",
+        "playing",
+        "rowdy",
+        "spirit",
+        "third",
+        "washington",
+        "win",
+        "women"
+      ],
+      "source_excerpt": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+          "published_at": "2026-11-22T21:26:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3c60cb0df1def02d33c05f7e",
+      "remembered_at": "2026-11-22T22:16:52.764829+00:00",
+      "event_date": "2026-11-22T21:54:45+00:00",
+      "last_update": "2026-11-22T21:54:45+00:00",
+      "event": "How Pakistanis save",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "how",
+        "pakistanis",
+        "save",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "How Pakistanis save The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jZ1dUX2xfTUI5Z2Y0bXhoa0JpUk5OdmlwdmRxeS1tLXJnQ1ZWXzlLUkliRktmVVpaOU5xS0lTc2hFRjVDbUJfcnlnU2xDQk5aNDhiZW0tamZBVjNkamU0T3l1blUxdWPSAW9BVV95cUxPZnBjR2RLNkUyeV9ORVBzT19uYlIyZWFWNDZLcDRNRlFIME81UUhnX3E3UHFmVEtqLXl5OGlRaVFhREZOYjdLMmxqWndGc0pGQTZjQThuN2VZWXo1Q3FiN0J1MGJQRUEyU01GZEtKc3M?oc=5",
+          "published_at": "2026-11-22T21:54:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jZ1dUX2xfTUI5Z2Y0bXhoa0JpUk5OdmlwdmRxeS1tLXJnQ1ZWXzlLUkliRktmVVpaOU5xS0lTc2hFRjVDbUJfcnlnU2xDQk5aNDhiZW0tamZBVjNkamU0T3l1blUxdWPSAW9BVV95cUxPZnBjR2RLNkUyeV9ORVBzT19uYlIyZWFWNDZLcDRNRlFIME81UUhnX3E3UHFmVEtqLXl5OGlRaVFhREZOYjdLMmxqWndGc0pGQTZjQThuN2VZWXo1Q3FiN0J1MGJQRUEyU01GZEtKc3M?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b85706f6a42e69656bdf8d02",
+      "remembered_at": "2026-11-22T22:16:52.764829+00:00",
+      "event_date": "2026-11-22T21:56:26+00:00",
+      "last_update": "2026-11-22T21:56:26+00:00",
+      "event": "Closing gateway to Central Asia",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asia",
+        "central",
+        "closing",
+        "express",
+        "gateway",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Closing gateway to Central Asia The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2TnpKbWc3N0FveXdzQUV0Q050Zjg5VUZkcDNWTzE3QTgtR2p0QUhqazJhU2JSSy1IcnpuOTVYeS1zRTYzaU1ZM0NsVGtSMTNqSE9BX1lsUWEzWEFEdlg3ZFhPVF9vVHZYN21OYXptSTFlMG0tMWxV0gF_QVVfeXFMUHRQMnRHSEZjNVVwbUl6UjhzZXhpaE53WUhVckVkbmZoSFpBQ0xVcVVkRHl4ZzFKSTM2MTZuZVdoRXhxT1BvSG1lc3IyWURRYnI3b2tlMnMyWXJKT0I3eGxNRjM5NkFTcUhiUmVBVE9LX3JiOWh6WERUbEpGTkVpVQ?oc=5",
+          "published_at": "2026-11-22T21:56:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2TnpKbWc3N0FveXdzQUV0Q050Zjg5VUZkcDNWTzE3QTgtR2p0QUhqazJhU2JSSy1IcnpuOTVYeS1zRTYzaU1ZM0NsVGtSMTNqSE9BX1lsUWEzWEFEdlg3ZFhPVF9vVHZYN21OYXptSTFlMG0tMWxV0gF_QVVfeXFMUHRQMnRHSEZjNVVwbUl6UjhzZXhpaE53WUhVckVkbmZoSFpBQ0xVcVVkRHl4ZzFKSTM2MTZuZVdoRXhxT1BvSG1lc3IyWURRYnI3b2tlMnMyWXJKT0I3eGxNRjM5NkFTcUhiUmVBVE9LX3JiOWh6WERUbEpGTkVpVQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "21ac2edb647e55793e29d8aa",
+      "remembered_at": "2026-11-22T22:16:52.764829+00:00",
+      "event_date": "2026-11-22T21:59:51+00:00",
+      "last_update": "2026-11-22T21:59:51+00:00",
+      "event": "From kitchen inflation to exports",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "exports",
+        "express",
+        "from",
+        "inflation",
+        "kitchen",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "From kitchen inflation to exports The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lS2NBVE1WUDE4TTBtMVpzeWhuUE8wcFh1N1pUc0NzX0w1VXFkdlNKejd6NktQel9lLXY3ZXFUa2c4TXE4YW8za1h3QndFREdSTjYzY01NTGdXMVpFSDQwdzBaX0dZbnpyWWNVZU9NaGplVWJCalg0a0N30gGCAUFVX3lxTE4xVy04clVJWGxRSDViTklROWhNYkxFQ2Y1cHBsaVpUdVJSb1ZCcl8xOG5HaTZxZ0hUMDFQMUV1VFdIVDRzbXlSZkthdk44dF9KMG1HZjd5NDM2VEdWSENXWEJfX0FueW9fbUpzdk9ka3hHNC1lZWNMcnlJQ0p4YXdBaHc?oc=5",
+          "published_at": "2026-11-22T21:59:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lS2NBVE1WUDE4TTBtMVpzeWhuUE8wcFh1N1pUc0NzX0w1VXFkdlNKejd6NktQel9lLXY3ZXFUa2c4TXE4YW8za1h3QndFREdSTjYzY01NTGdXMVpFSDQwdzBaX0dZbnpyWWNVZU9NaGplVWJCalg0a0N30gGCAUFVX3lxTE4xVy04clVJWGxRSDViTklROWhNYkxFQ2Y1cHBsaVpUdVJSb1ZCcl8xOG5HaTZxZ0hUMDFQMUV1VFdIVDRzbXlSZkthdk44dF9KMG1HZjd5NDM2VEdWSENXWEJfX0FueW9fbUpzdk9ka3hHNC1lZWNMcnlJQ0p4YXdBaHc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9e33f1cb01d9774021b2e1ca",
+      "remembered_at": "2026-11-22T22:16:52.764829+00:00",
+      "event_date": "2026-11-22T21:35:52+00:00",
+      "last_update": "2026-11-22T21:35:52+00:00",
+      "event": "Climate bill could reach 20% of GDP",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bill",
+        "climate",
+        "could",
+        "express",
+        "gdp",
+        "reach",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Climate bill could reach 20% of GDP The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXcHM4WHZTaTRJSXBYQjJuNEFUeWc0VXhESGRjUGNUX3VFR3BIc2FUajB5dmk1SFA1UmZTaFgweFU1eXR2MmJUbDl6cGFNcjNtQzY0c0F0MDFkOW5QMVFOblgwMTI5TUFZOXp3V180Wnl5R1gxRVJGWnR0VdIBgwFBVV95cUxOcHpOeUxtVm9pbU5Sa0ZxMXZmMUtOQWtXM1h4OHJIZUlCR0dMNHRsYlZtQkNPX3FzT0VaZnZDQmtZdDFoTnhBbFJ5WUk2SmRHb0JXcktmM25BM19nSVQ5bENSQVNKNkhmdkFfS0hZaHA5Nk1laW12OTZaZTN4QkNhMnFpTQ?oc=5",
+          "published_at": "2026-11-22T21:35:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXcHM4WHZTaTRJSXBYQjJuNEFUeWc0VXhESGRjUGNUX3VFR3BIc2FUajB5dmk1SFA1UmZTaFgweFU1eXR2MmJUbDl6cGFNcjNtQzY0c0F0MDFkOW5QMVFOblgwMTI5TUFZOXp3V180Wnl5R1gxRVJGWnR0VdIBgwFBVV95cUxOcHpOeUxtVm9pbU5Sa0ZxMXZmMUtOQWtXM1h4OHJIZUlCR0dMNHRsYlZtQkNPX3FzT0VaZnZDQmtZdDFoTnhBbFJ5WUk2SmRHb0JXcktmM25BM19nSVQ5bENSQVNKNkhmdkFfS0hZaHA5Nk1laW12OTZaZTN4QkNhMnFpTQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T21:24:54.333319+00:00"
+  "updated_at": "2026-11-22T22:16:52.764829+00:00"
 }
