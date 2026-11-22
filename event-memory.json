@@ -113533,7 +113533,363 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e67f8aeba90cb278bd6bb39f",
+      "remembered_at": "2026-11-22T08:37:24.979869+00:00",
+      "event_date": "2026-11-22T06:24:45+00:00",
+      "last_update": "2026-11-22T08:35:53+00:00",
+      "event": "Senior journalist Hussain Naqi passes away",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "away",
+        "hussain",
+        "journalist",
+        "naqi",
+        "passes",
+        "samaa",
+        "senior"
+      ],
+      "source_excerpt": "Senior journalist Hussain Naqi passes away samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdXZPUlA5cFE2dGlOWkQ1UWJqTGRGa2pHamlqelhzLTBfWWJIMExaaHNOUGx1NDF5WmlqSm9NNE9mYXV3Z3lTRlhPeWI1LUhIMF91NXlDWmdQb0FOOWVfQjk3N2tmSkc2MlotblZWSjNjY0Y5dkwwZDdtbUg1bjA?oc=5",
+          "published_at": "2026-11-22T06:24:45+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHlsTU1MZVY3QnpzYXVaMC0tamVwLWFKN25HaXo4WEhYaXQ0RllxeE96Y2pfdVVuTzFpZTRxTS1ydHp0TUkycnJETmJNSlptSEUzLXpGaE5NWVZodmF3Q21Tc0dTY2xuWUJ4Qzh3Um9NbjhIQXVGR25ZR3NSNmpsV0t3QUxEX2Rxd2M2Ykladw?oc=5",
+          "published_at": "2026-11-22T07:44:51+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046310/veteran-journalist-husain-naqi-passes-away-in-lahore",
+          "published_at": "2026-11-22T08:35:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdXZPUlA5cFE2dGlOWkQ1UWJqTGRGa2pHamlqelhzLTBfWWJIMExaaHNOUGx1NDF5WmlqSm9NNE9mYXV3Z3lTRlhPeWI1LUhIMF91NXlDWmdQb0FOOWVfQjk3N2tmSkc2MlotblZWSjNjY0Y5dkwwZDdtbUg1bjA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5e0811b2bf8ce85bb2041715",
+      "remembered_at": "2026-11-22T08:37:24.979869+00:00",
+      "event_date": "2026-11-22T07:59:29+00:00",
+      "last_update": "2026-11-22T07:59:29+00:00",
+      "event": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "captured",
+        "captures",
+        "dashcam",
+        "lviv",
+        "missile",
+        "moment",
+        "neighbourhood",
+        "residential",
+        "russian",
+        "strike",
+        "struck",
+        "the",
+        "ukraine",
+        "video",
+        "western"
+      ],
+      "source_excerpt": "Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+          "published_at": "2026-11-22T07:59:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1902f472c91b5a14c3cc997a",
+      "remembered_at": "2026-11-22T08:37:24.979869+00:00",
+      "event_date": "2026-11-22T07:48:28+00:00",
+      "last_update": "2026-11-22T07:48:28+00:00",
+      "event": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "antonelli",
+        "bull",
+        "changes",
+        "deep",
+        "dropping",
+        "dug",
+        "fend",
+        "for",
+        "four",
+        "grand",
+        "jaw",
+        "las",
+        "lead",
+        "max",
+        "off",
+        "prix",
+        "race",
+        "red",
+        "russell",
+        "saw",
+        "that",
+        "third",
+        "time",
+        "vegas",
+        "verstappen",
+        "wins",
+        "years"
+      ],
+      "source_excerpt": "Red Bull's Verstappen dug deep to fend off Antonelli and Russell in a race that saw a jaw-dropping 35 lead changes.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+          "published_at": "2026-11-22T07:48:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3e3e2b009054ca188f03e37c",
+      "remembered_at": "2026-11-22T08:37:24.979869+00:00",
+      "event_date": "2026-11-22T07:44:37+00:00",
+      "last_update": "2026-11-22T07:44:37+00:00",
+      "event": "Wembanyama scores 50 points, bags 19 rebounds in Spurs’ 14th win of season",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "14th",
+        "bags",
+        "career",
+        "dallas",
+        "high",
+        "his",
+        "just",
+        "november",
+        "over",
+        "points",
+        "rebounds",
+        "score",
+        "scores",
+        "season",
+        "set",
+        "shy",
+        "spurs",
+        "victory",
+        "was",
+        "wembanyama",
+        "win"
+      ],
+      "source_excerpt": "Wembanyama was just shy of his career-high score of 52 points, set in a victory over Dallas on November 4.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/wembanyama-scores-50-points-bags-19-rebounds-in-spurs-14th-win-of-season?traffic_source=rss",
+          "published_at": "2026-11-22T07:44:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/wembanyama-scores-50-points-bags-19-rebounds-in-spurs-14th-win-of-season?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/22/wembanyama-scores-50-points-bags-19-rebounds-in-spurs-14th-win-of-season?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f4a1343ec2ee746908e61266",
+      "remembered_at": "2026-11-22T08:37:24.979869+00:00",
+      "event_date": "2026-11-22T07:46:28+00:00",
+      "last_update": "2026-11-22T07:46:28+00:00",
+      "event": "Midwives told to expect fewer jobs as recruitment drive is paused",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "drive",
+        "expect",
+        "fewer",
+        "first",
+        "get",
+        "graduate",
+        "her",
+        "job",
+        "jobs",
+        "midwives",
+        "minimum",
+        "one",
+        "paused",
+        "recruitment",
+        "said",
+        "she",
+        "take",
+        "told",
+        "wage",
+        "widwifery",
+        "would"
+      ],
+      "source_excerpt": "One graduate said she would take minimum wage to get her first job in widwifery.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T07:46:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a82b92b283b76fe494997381",
+      "remembered_at": "2026-11-22T08:37:24.979869+00:00",
+      "event_date": "2026-11-22T08:33:55+00:00",
+      "last_update": "2026-11-22T08:33:55+00:00",
+      "event": "Men's fishing group is the hook to better mental health",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "better",
+        "fishing",
+        "group",
+        "health",
+        "helping",
+        "hook",
+        "men",
+        "mental",
+        "that",
+        "the",
+        "their"
+      ],
+      "source_excerpt": "The men's fishing group that's helping their mental health.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/c68x0qxxw4xjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T08:33:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/c68x0qxxw4xjo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c68x0qxxw4xjo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f803757b91ad23535ee5d65d",
+      "remembered_at": "2026-11-22T08:37:24.979869+00:00",
+      "event_date": "2026-11-22T07:55:52+00:00",
+      "last_update": "2026-11-22T07:55:52+00:00",
+      "event": "Karachi on high alert: Police roll out contingency plan amid rallies and protests",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alert",
+        "amid",
+        "and",
+        "contingency",
+        "high",
+        "karachi",
+        "out",
+        "plan",
+        "police",
+        "protests",
+        "rallies",
+        "roll"
+      ],
+      "source_excerpt": "Karachi on high alert: Police roll out contingency plan amid rallies and protests",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-on-high-alert-police-roll-out-contingency-plan-amid-rallies-and-protests",
+          "published_at": "2026-11-22T07:55:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-on-high-alert-police-roll-out-contingency-plan-amid-rallies-and-protests",
+        "publisher_url": "https://arynews.tv/karachi-on-high-alert-police-roll-out-contingency-plan-amid-rallies-and-protests",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T07:44:50.157878+00:00"
+  "updated_at": "2026-11-22T08:37:24.979869+00:00"
 }

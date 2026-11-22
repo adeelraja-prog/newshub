@@ -1,10 +1,10 @@
-# News Hub report - Sun 22 Nov, 12:44 PM PKT
+# News Hub report - Sun 22 Nov, 01:37 PM PKT
 
 ## Collection
-- New items this run: 60 | items in rolling pool: 225
-- Unique story clusters: 204 (duplicates merged: 21)
-- Clusters dropped as already published/queued: 16; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 15, Geo News 7, samaa tv 5, Al Jazeera 5, BBC 4, Dunya News 3, ARY News 3, Dawn 2, The Express Tribune 2, BBC Business 2, ProPakistani 2, Al-Monitor 2
+- New items this run: 36 | items in rolling pool: 232
+- Unique story clusters: 196 (duplicates merged: 36)
+- Clusters dropped as already published/queued: 16; unchanged since last analysis: 4
+- Items per outlet: Geo News 8, ARY News 4, Al Jazeera 4, Dunya News 3, WV News 3, Dawn 2, Dawn Pakistan 2, BBC Health 2, PhoneWorld 2, UrduPoint 1, Islamabad Post 1, The Nation (Pakistan ) 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -12,24 +12,24 @@
 
 ## Top 5 most important
 - Dozens missing after fire at Indonesian factory | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Forensic evidence points to servant in Hina Javaid murder as probe clears husband | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Portuguese foreign minister arrives in Pakistan for official visit: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jeff Bezos, Lauren Sánchez set their sights on Hollywood's biggest decision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why Somalia’s president turned against his former ally, the UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Senior journalist Hussain Naqi passes away | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Dozens missing after fire at Indonesian factory | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Forensic evidence points to servant in Hina Javaid murder as probe clears husband | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Portuguese foreign minister arrives in Pakistan for official visit: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jeff Bezos, Lauren Sánchez set their sights on Hollywood's biggest decision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why Somalia’s president turned against his former ally, the UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Senior journalist Hussain Naqi passes away | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Dozens missing after fire at Indonesian factory | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Forensic evidence points to servant in Hina Javaid murder as probe clears husband | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Portuguese foreign minister arrives in Pakistan for official visit: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jeff Bezos, Lauren Sánchez set their sights on Hollywood's biggest decision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why Somalia’s president turned against his former ally, the UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Senior journalist Hussain Naqi passes away | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,82 +38,10 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Portuguese foreign minister arrives in Pakistan for official visit  [NORMAL]
-- Poster: پু্তگالی وزیر خارجہ سرکاری دورے پر پاکستان پہنچ گئے / Portuguese FM arrives in Pakistan | category politics
-- Alternative headline: Foreign Office confirms arrival of Portuguese FM for official visit
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0Fsb0tUZVhPcHBPYXZhYW03TWVLOVBXYVFPWEUzNTFWelhkTFRDVU5fVlVhYlkzZDd6aEVvU2FBa1NSaXA3ZHRTSWVkbE1nVEluMmZmb0JNUGtUUllMNV9ldHJfaU9pYVMxWExMNUFJZFZPRTU0NV9Bc3MwcVAxejhEbGhhVUVzNUc2dmd5ZHJaNXVjNkpoNXdMWXktdDVfdUgteGl3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0Fsb0tUZVhPcHBPYXZhYW03TWVLOVBXYVFPWEUzNTFWelhkTFRDVU5fVlVhYlkzZDd6aEVvU2FBa1NSaXA3ZHRTSWVkbE1nVEluMmZmb0JNUGtUUllMNV9ldHJfaU9pYVMxWExMNUFJZFZPRTU0NV9Bc3MwcVAxejhEbGhhVUVzNUc2dmd5ZHJaNXVjNkpoNXdMWXktdDVfdUgteGl3?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Portuguese foreign minister, Pakistan visit, Foreign Office, diplomatic ties, Portugal Pakistan | hashtags: #Pakistan #Portugal #ForeignOffice #Diplomacy
-- Scheduled: Sun 22 Nov, 12:44 PM PKT
-- Caption:
-```
-The Portuguese foreign minister has arrived in Pakistan on an official visit, according to the Foreign Office.
-
-The Portuguese foreign minister has arrived in Pakistan for an official visit, as confirmed by the Foreign Office. The diplomatic visit aims to explore avenues of bilateral cooperation and strengthen ties between the two countries.
-
-دفتر خارجہ کے مطابق پ্তگالی وزیر خارجہ سرکاری دورے پر پاکستان پہنچ گئے ہیں۔ اس سفارتی دورے کا مقصد دونوں ممالک کے درمیان دوطرفہ تعلقات کو فروغ دینا اور تعاون کے شعبوں کا جائزہ لینا ہے۔
-
-First reported by Dawn
-
-#Pakistan #Portugal #ForeignOffice #Diplomacy
-```
-
-### Domestic worker implicated in Hina Javaid murder as husband cleared  [NORMAL]
-- Poster: حিনা جاوید قتل کیس: فرانزک رپورٹ میں ملازم نامزد، شوہر بے گناہ قرار / Servant linked to Hina Javaid murder, husband cleared | category crime
-- Alternative headline: Forensic evidence links servant to Hina Javaid murder, clearing husband
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046161/forensic-evidence-points-to-servant-in-hina-javaid-murder-as-probe-clears-husband | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046161/forensic-evidence-points-to-servant-in-hina-javaid-murder-as-probe-clears-husband
-- Supporting coverage: Dawn Latest, Dawn Pakistan
-- Keywords: Hina Javaid murder, Rawalpindi police, DNA evidence, domestic worker, court challan | hashtags: #HinaJavaid #Rawalpindi #Justice #CrimeNews
-- Scheduled: Sun 22 Nov, 12:54 PM PKT
-- Caption:
-```
-Rawalpindi police have submitted a challan in the high-profile Hina Javaid murder case, implicating the domestic servant based on DNA evidence.
-
-Rawalpindi police have completed their investigation into the murder of digital media executive Hina Javaid, submitting a challan after a nearly three-month delay. Forensic DNA evidence points to the domestic servant, while the victim's husband and father-in-law have been cleared of involvement.
-
-راولپنڈی پولیس نے ڈیجیٹل میڈیا ایگزیکٹو حিনা جاوید کے قتل کیس کی تفتیش مکمل کر کے تقریباً تین ماہ کی تاخیر کے بعد عدالت میں چالان جمع کرا دیا ہے۔ فرانزک ڈی این اے رپورٹ کے مطابق ملازم کو مرکزی ملزم قرار دیا گیا ہے جبکہ مقتولہ کے شوہر کو بے گناہ قرار دے دیا گیا ہے۔
-
-First reported by Dawn Latest
-
-#HinaJavaid #Rawalpindi #Justice #CrimeNews
-```
-
-### Jeff Bezos and Lauren Sánchez expand their influence across Hollywood  [NORMAL]
-- Poster: جیف بیزوز اور لورین سانچیز کا ہالی ووڈ کے بڑے فیصلوں میں اثر و رسوخ بڑھانے کا فیصلہ / Jeff Bezos and Lauren Sánchez expand Hollywood influence | category lifestyle
-- Alternative headline: Jeff Bezos and Lauren Sánchez eye major creative control in Hollywood
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692152-jeff-bezos-lauren-snchez-set-their-sights-on-hollywoods-biggest-decision | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692152-jeff-bezos-lauren-snchez-set-their-sights-on-hollywoods-biggest-decision
-- Supporting coverage: Geo News, samaa tv
-- Keywords: Jeff Bezos Hollywood, Lauren Sánchez, MGM acquisition, film studio, entertainment news | hashtags: #JeffBezos #LaurenSanchez #Hollywood #Entertainment
-- Scheduled: Sun 22 Nov, 01:04 PM PKT
-- Caption:
-```
-Billionaire Jeff Bezos and Lauren Sánchez are reportedly seeking deeper creative involvement in Hollywood following major studio acquisitions.
-
-Following Amazon's multi-billion dollar acquisition of MGM, Jeff Bezos and Lauren Sánchez are reportedly looking to take a hands-on approach in Hollywood's major decisions, including casting choices and studio projects, according to insiders.
-
-ایمازون کی جانب سے ایم جی ایم اسٹوڈیو کی خریداری کے بعد، ذرائع کا کہنا ہے کہ جیف بیزوز اور لورین سانچیز ہالی ووڈ کے بڑے فیصلوں اور کاسٹنگ کے عمل میں گہری دلچسپی لے رہے ہیں۔
-
-First reported by Geo News
-
-#JeffBezos #LaurenSanchez #Hollywood #Entertainment
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
 
 ## Queue status
 - [needs_review] normal | Van Gogh painting fetches record $190.4m following dispute resolution | Thu 19 Nov, 07:06 AM PKT
@@ -264,7 +192,7 @@ First reported by Geo News
 - [published] normal | Saudi forces launch major military strikes across Yemen | Sat 21 Nov, 11:40 AM PKT
 - [published] normal | Three suspects remanded into FIA custody over counterfeit vaccine | Sat 21 Nov, 11:50 AM PKT
 - [needs_review] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
-- [queued] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
+- [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [published] normal | Mustafa Kamal urges PTI to unconditionally support creation of new pro | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] normal | Basra power station fire in Iraq kills at least four, injures 30 | Sat 21 Nov, 01:01 PM PKT
 - [needs_review] normal | WhatsApp raises group chat limit to 1,500 members | Sat 21 Nov, 01:11 PM PKT
@@ -333,9 +261,9 @@ First reported by Geo News
 - [needs_review] normal | Clashes Erupt Across France in Another Night of Protest | Sun 22 Nov, 06:09 AM PKT
 - [needs_review] normal | Iran War Live: Iran Targets US Bases in Bahrain as Houthi Strikes Cont | Sun 22 Nov, 06:19 AM PKT
 - [published] normal | Minister Seeks Comprehensive Upgrade For Fisheries Sector | Sun 22 Nov, 07:10 AM PKT
-- [queued] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 07:20 AM PKT
-- [queued] normal | UN Member States Agree To Formal Talks On Killer Robots | Sun 22 Nov, 07:30 AM PKT
-- [queued] normal | Panic In Peru As Moviegoers Rush For Exits During Earthquake | Sun 22 Nov, 07:40 AM PKT
+- [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 07:20 AM PKT
+- [needs_review] normal | UN Member States Agree To Formal Talks On Killer Robots | Sun 22 Nov, 07:30 AM PKT
+- [published] normal | Panic In Peru As Moviegoers Rush For Exits During Earthquake | Sun 22 Nov, 07:40 AM PKT
 - [queued] normal | Sindh Seeks French Help and Technology to Restore Manchhar Lake | Sun 22 Nov, 09:18 AM PKT
 - [queued] normal | Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike | Sun 22 Nov, 09:28 AM PKT
 - [queued] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
@@ -349,13 +277,18 @@ First reported by Geo News
 - [queued] normal | Jeff Bezos and Lauren Sánchez expand their influence across Hollywood | Sun 22 Nov, 01:04 PM PKT
 
 ## Publishing this run
-- Published 'Minister Seeks Comprehensive Upgrade For Fisheries Sector'.
+- Published 'Panic In Peru As Moviegoers Rush For Exits During Earthquake'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4699 | output tokens: 2118
-- Errors: 2
+- Calls: 3 | prompt tokens: 0 | output tokens: 0
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"
