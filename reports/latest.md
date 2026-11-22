@@ -1,35 +1,35 @@
-# News Hub report - Sun 22 Nov, 11:54 PM PKT
+# News Hub report - Mon 23 Nov, 12:46 AM PKT
 
 ## Collection
-- New items this run: 44 | items in rolling pool: 595
-- Unique story clusters: 498 (duplicates merged: 97)
-- Clusters dropped as already published/queued: 23; unchanged since last analysis: 6
-- Items per outlet: Pakistan Today 8, UrduPoint 7, Geo News 5, Al Jazeera 5, Engadget 3, ARY News 2, BBC Science 2, The News International 1, samaa tv 1, TechCrunch 1, GSMArena 1, BBC World 1
+- New items this run: 23 | items in rolling pool: 583
+- Unique story clusters: 490 (duplicates merged: 93)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 5
+- Items per outlet: Engadget 4, Al Jazeera 3, Geo News 2, ARY News 2, UrduPoint 2, Pakistan Today 2, The News International 1, Dawn Latest 1, samaa tv 1, Ceylon Daily News 1, AP News 1, BBC World 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Civilians killed in RSF drone strikes in Sudan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cox’s Bazar: Rohingya Life in Exile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistani among two injured in Iranian attack, Bahrain says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Virginia reports first measles-linked death of 2026 in child younger than 5 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CHK_Aber Kawas becomes first Palestinian in New York state Senate history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Civilians killed in RSF drone strikes in Sudan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cox’s Bazar: Rohingya Life in Exile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistani among two injured in Iranian attack, Bahrain says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Virginia reports first measles-linked death of 2026 in child younger than 5 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CHK_Aber Kawas becomes first Palestinian in New York state Senate history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Civilians killed in RSF drone strikes in Sudan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cox’s Bazar: Rohingya Life in Exile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistani among two injured in Iranian attack, Bahrain says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Virginia reports first measles-linked death of 2026 in child younger than 5 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CHK_Aber Kawas becomes first Palestinian in New York state Senate history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,112 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Khawaja Asif claims referendum on new provinces is coming soon  [NORMAL]
-- Poster: نئے صوبوں پر ریفرنڈم دور نہیں، خواجہ آصف کا دعویٰ / Referendum on new provinces coming soon: Khawaja Asif | category politics
-- Alternative headline: New provinces referendum not far away, says Khawaja Asif
+### Aber Kawas makes history as New York's first Palestinian state senator  [NORMAL]
+- Poster: ابر کوواس نیویارک اسٹیٹ سینیٹ کی تاریخ میں پہلی فلسطینی سینیٹر منتخب / Aber Kawas becomes first Palestinian state senator in New York | category us_politics
+- Alternative headline: Democratic socialist Aber Kawas elected to New York state Senate
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Aber Kawas, New York state Senate, Palestinian, democratic socialist, election | hashtags: #AberKawas #NewYork #USPolitics #Palestine
+- Scheduled: Mon 23 Nov, 12:46 AM PKT
+- Caption:
+```
+Aber Kawas has made history by winning a New York state Senate seat with 74.5 percent of the vote.
+
+Democratic socialist Aber Kawas has won a seat in the New York state Senate, securing 74.5 percent of the vote and making history as the first Palestinian in the state's Senate history. Kawas ran on a progressive platform, achieving a landslide victory.
+
+ڈیموکریٹک سوشلسٹ ابر کوواس نے 74.5 فیصد ووٹ حاصل کر کے نیویارک اسٹیٹ سینیٹ میں کامیابی حاصل کی ہے، اور وہ نیویارک کی تاریخ میں سینیٹ کے لیے منتخب ہونے والی پہلی فلسطینی بن گئی ہیں۔
+
+First reported by Al Jazeera.
+
+#AberKawas #NewYork #USPolitics #Palestine
+```
+
+### Pakistani national among two injured in Iranian attacks on Bahrain  [NORMAL]
+- Poster: بحرین میں ایرانی حملے کے دوران ایک پاکستانی سمیت دو افراد زخمی / Pakistani among two injured in Iranian attacks on Bahrain | category world
+- Alternative headline: Bahrain reports Pakistani national among two injured in Iranian attack
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXY5Z3p3Q3VVLW5xU21PNC1SSDEzMWVhdXdkb19sXzEyTDVpWnpDdDFlTGVzZXhjVDJrcmh0bVo5S2VKblNMRlhQS2szcTVMSEJmbkV6RXVhc2g1MVR4MDVaTUszMXQzY25SUlNJWW1OS0ZUMFhCeVBlenlWVmZHUUp2bkxRQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXY5Z3p3Q3VVLW5xU21PNC1SSDEzMWVhdXdkb19sXzEyTDVpWnpDdDFlTGVzZXhjVDJrcmh0bVo5S2VKblNMRlhQS2szcTVMSEJmbkV6RXVhc2g1MVR4MDVaTUszMXQzY25SUlNJWW1OS0ZUMFhCeVBlenlWVmZHUUp2bkxRQQ?oc=5
-- Supporting coverage: ARYnews.tv, ARY News
-- Keywords: new provinces, Khawaja Asif, referendum, provinces, pakistan politics | hashtags: #KhawajaAsif #NewProvinces #PakistanPolitics
-- Scheduled: Sun 22 Nov, 11:54 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnFQazFTVjJaYnluc3pRYzM3M2d4bjZhRWVQVlp4c2lIMjZ0V213Vkh1VmVaaFZ1T1BxRXh6UWxXdC1OSDBOTnVJMnI0b2tlYlhVZnloN2NQZU5FMUxacFExUFItVUNOaS1TSHVjMnRrc05JLWY2MU9NOVJqNmNRUnBhUUUwa2VtejQweHN6WWxvUmF2Und3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnFQazFTVjJaYnluc3pRYzM3M2d4bjZhRWVQVlp4c2lIMjZ0V213Vkh1VmVaaFZ1T1BxRXh6UWxXdC1OSDBOTnVJMnI0b2tlYlhVZnloN2NQZU5FMUxacFExUFItVUNOaS1TSHVjMnRrc05JLWY2MU9NOVJqNmNRUnBhUUUwa2VtejQweHN6WWxvUmF2Und3?oc=5
+- Supporting coverage: Dawn, Dawn Latest, samaa tv, Pakistan Today
+- Keywords: Pakistani injured Bahrain, Bahrain, Iran attack, Dawn, Pakistan | hashtags: #Bahrain #Pakistan #Iran #DawnNews
+- Scheduled: Mon 23 Nov, 12:56 AM PKT
 - Caption:
 ```
-Federal Minister Khawaja Asif has claimed that a referendum on the creation of new provinces is not far away.
+A Pakistani national is among two people reported injured in recent Iranian attacks in Bahrain, according to Dawn.
 
-Federal Minister Khawaja Asif has stated that a referendum regarding the formation of new provinces in the country is not far away. The announcement has sparked discussions on the political landscape and administrative restructuring.
+A Pakistani national is among two individuals reported injured following an Iranian attack in Bahrain, according to reports by Dawn. Authorities continue to monitor the situation after regional escalations impacted the area.
 
-وفاقی وزیر خواجہ آصف نے دعویٰ کیا ہے کہ ملک میں نئے صوبوں کے قیام کے حوالے سے ریفرنڈم زیادہ دور نہیں ہے۔ اس بیان نے سیاسی حلقوں میں نئی بحث چھڑ دی ہے۔
+ڈان کی رپورٹ کے مطابق بحرین میں ایرانی حملے کے دوران زخمی ہونے والے دو افراد میں ایک پاکستانی شہری بھی شامل ہے۔ حکام صورتحال کا جائزہ لے رہے ہیں۔
 
-First reported by ARYnews.tv
+According to Dawn.
 
-#KhawajaAsif #NewProvinces #PakistanPolitics
+#Bahrain #Pakistan #Iran #DawnNews
 ```
 
-### Russian vessel hit by suspected sea drone in Libya  [NORMAL]
-- Poster: لیبیا میں روسی بحری جہاز پر مشتبہ ڈرون حملہ / Russian ship hit by suspected sea drone in Libya | category other
-- Alternative headline: Suspected sea drone attacks Russian ship at Benghazi naval base
+### Virginia reports first measles-linked child death of 2026  [NORMAL]
+- Poster: ورجینیا میں 2026 کی پہلی خسرہ سے جڑی بچوں کی ہلاکت رپورٹ / Virginia reports first measles-linked death of 2026 in child | category health
+- Alternative headline: Child under 5 dies in Virginia's first measles fatality of 2026
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Russian vessel, Libya, Benghazi, drone attack, Russia | hashtags: #Libya #Russia #DroneAttack
-- Scheduled: Mon 23 Nov, 12:04 AM PKT
+- Keywords: measles death Virginia, measles, Virginia, child death, health, Al Jazeera | hashtags: #Measles #Virginia #HealthNews #ChildHealth
+- Scheduled: Mon 23 Nov, 01:06 AM PKT
 - Caption:
 ```
-A Russian vessel was reportedly hit by a suspected sea drone at Libya’s Benghazi naval base, with no immediate official reaction from Moscow.
+Virginia has reported its first measles-linked death of 2026 involving a child younger than five years old.
 
-A Russian vessel has been struck by a suspected sea drone at Libya's Benghazi naval base. Authorities report there was no immediate reaction from Russia, and no group has claimed responsibility for the incident so far.
+Virginia health officials have reported the first measles-linked death of 2026 involving a child under the age of five. The tragic death comes just days after health experts stripped the United States of its measles elimination status amid a rising uptick in cases.
 
-لیبیا کے بنغازی نیول بیس پر ایک روسی بحری جہاز کو مشتبہ سمندری ڈرون سے نشانہ بنایا گیا۔ حکام کے مطابق روس کی جانب سے فوری طور پر کوئی ردعمل سامنے نہیں آیا اور نہ ہی کسی نے حملے کی ذمہ داری قبول کی ہے۔
+ورجینیا میں پانچ سال سے کم عمر کے بچے کی خسرہ سے جڑی موت کا پہلا واقعہ رپورٹ ہوا ہے۔ یہ اموات امریکہ سے خسرے کے خاتمے کا درجہ ختم کیے جانے کے چند روز بعد سامنے آئی ہیں۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#Libya #Russia #DroneAttack
+#Measles #Virginia #HealthNews #ChildHealth
 ```
 
-### Civilians killed in RSF drone strikes across Sudan  [NORMAL]
-- Poster: سوڈان میں آر ایس ایف کے ڈرون حملے، کئی شہری جاں بحق / Civilians killed in RSF drone strikes in Sudan | category other
-- Alternative headline: Sudan's RSF drone strikes leave several civilians dead
+### Ukrainians search through rubble for missing following deadly Russian strikes  [NORMAL]
+- Poster: یوکرین میں روسی حملوں کے بعد تباہ شدہ عمارتوں سے لاشیں نکالنے کا عمل جاری / Ukrainians search for missing after deadly Russian strikes | category war
+- Alternative headline: Three bodies recovered from struck residential building in Kyiv region
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Sudan drone strikes, RSF, Sudan, civilians killed, conflict | hashtags: #Sudan #RSF #SudanCrisis
-- Scheduled: Mon 23 Nov, 12:14 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Ukraine Russian strikes, Kyiv, rescue, Russian strike, BBC World | hashtags: #Ukraine #Kyiv #RussiaUkraineWar #BBC
+- Scheduled: Mon 23 Nov, 01:16 AM PKT
 - Caption:
 ```
-Several civilians have been killed and multiple buildings damaged following drone strikes carried out by Sudan’s Rapid Support Forces.
+At least three bodies have been recovered from a residential building hit by a Russian strike in the Kyiv region.
 
-Several civilians have lost their lives and multiple buildings have sustained damage following drone strikes executed by Sudan's Rapid Support Forces. The ongoing conflict continues to take a heavy toll on non-combatants across the region.
+Rescue workers in Ukraine's Kyiv region are searching through the rubble of a residential building hit by a Russian strike, with at least three bodies recovered so far. Ongoing drone threats continue to hamper rescue and evacuation efforts as locals describe living through a nightmare.
 
-سوڈان کی ریپڈ سپورٹ فورسز کے ڈرون حملوں کے نتیجے میں کئی شہری جاں بحق اور متعدد عمارتیں تباہ ہو گئیں۔ ملک میں جاری تنازعے کے باعث عام شہریوں کو شدید جانی و مالی نقصان کا سامنا ہے۔
+یوکرین کے علاقے کییف میں روسی فضائی حملے کے بعد رہائشی عمارت کے ملبے سے کم از کم تین لاشیں نکال لی گئی ہیں۔ مسلسل ڈرون خطرات کے باعث امدادی سرگرمیاں شدید متاثر ہو رہی ہیں۔
 
-First reported by Al Jazeera
+First reported by BBC World.
 
-#Sudan #RSF #SudanCrisis
+#Ukraine #Kyiv #RussiaUkraineWar #BBC
 ```
 
-### Cox’s Bazar: Rohingya families face harsh exile during Ramadan  [NORMAL]
-- Poster: کاکس بازار: روہنگیا مہاجرین کی کٹھ پتلی زندگی اور مشکلات / Cox's Bazar: Rohingya life in exile | category other
-- Alternative headline: Life in exile: Rohingya refugees struggle with hunger in Cox’s Bazar
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Rohingya, Cox's Bazar, refugees, Ramadan, exile | hashtags: #Rohingya #CoxsBazar #Refugees
-- Scheduled: Mon 23 Nov, 12:24 AM PKT
-- Caption:
-```
-Rohingya families living in exile in Cox’s Bazar continue to face severe hunger, loss, and an uncertain future during Ramadan.
-
-Rohingya families residing in exile in Cox's Bazar are facing extreme hardship, including hunger, loss, and profound uncertainty during the month of Ramadan, highlighting their ongoing plight and displacement struggles.
-
-کاکس بازار میں جلاوطنی کی زندگی گزارنے والے روہنگیا خاندان رمضان المبارک کے دوران شدید بھوک، نقصانات اور غیر یقینی مستقبل کا سامنا کر رہے ہیں۔
-
-First reported by Al Jazeera
-
-#Rohingya #CoxsBazar #Refugees
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 11 items
 
 ## Today
-- News posts published today: 27 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
-- [needs_review] normal | Bangladesh shut down by Hasina's party after ex-leader Yunus's home se | Thu 19 Nov, 05:48 PM PKT
-- [needs_review] normal | Pakistan and Qatar sign new security pact to combat drug trafficking | Thu 19 Nov, 05:58 PM PKT
-- [needs_review] normal | Hailey Bieber opens up about the intense reality of internet scrutiny | Thu 19 Nov, 06:08 PM PKT
-- [needs_review] normal | Donald Trump calls for nuclear arms reduction at APEC summit | Thu 19 Nov, 06:18 PM PKT
 - [published] normal | President Zardari and PM Shehbaz agree to resolve all matters through  | Fri 20 Nov, 01:26 AM PKT
 - [published] normal | ICJ finds Myanmar guilty of genocide against the Rohingya minority | Fri 20 Nov, 01:36 AM PKT
 - [published] normal | US military spending on the Iran war crosses $48 billion | Fri 20 Nov, 01:46 AM PKT
@@ -356,9 +352,9 @@ First reported by Al Jazeera
 - [needs_review] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
 - [published] normal | Major Karachi roads closed as political parties stage rallies | Sun 22 Nov, 05:58 PM PKT
 - [published] normal | Latest news and updates regarding India from BBC | Sun 22 Nov, 06:08 PM PKT
-- [queued] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
-- [queued] normal | Karachi placed on high alert amid upcoming political rallies | Sun 22 Nov, 06:28 PM PKT
-- [queued] normal | Can the US Congress stop an Iran war like it did in Vietnam? | Sun 22 Nov, 06:57 PM PKT
+- [needs_review] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
+- [needs_review] normal | Karachi placed on high alert amid upcoming political rallies | Sun 22 Nov, 06:28 PM PKT
+- [published] normal | Can the US Congress stop an Iran war like it did in Vietnam? | Sun 22 Nov, 06:57 PM PKT
 - [queued] normal | Italian jeweller and businessman Paolo Bulgari dies aged 89 | Sun 22 Nov, 07:07 PM PKT
 - [queued] normal | Main suspect in Karachi mother-daughter murder arrested in Larkana | Sun 22 Nov, 07:17 PM PKT
 - [queued] normal | Bruno Fernandes puts Manchester United contract talks on hold | Sun 22 Nov, 07:27 PM PKT
@@ -378,18 +374,23 @@ First reported by Al Jazeera
 - [queued] normal | Russian vessel hit by suspected sea drone in Libya | Mon 23 Nov, 12:04 AM PKT
 - [queued] normal | Civilians killed in RSF drone strikes across Sudan | Mon 23 Nov, 12:14 AM PKT
 - [queued] normal | Cox’s Bazar: Rohingya families face harsh exile during Ramadan | Mon 23 Nov, 12:24 AM PKT
+- [queued] normal | Aber Kawas makes history as New York's first Palestinian state senator | Mon 23 Nov, 12:46 AM PKT
+- [queued] normal | Pakistani national among two injured in Iranian attacks on Bahrain | Mon 23 Nov, 12:56 AM PKT
+- [queued] normal | Virginia reports first measles-linked child death of 2026 | Mon 23 Nov, 01:06 AM PKT
+- [queued] normal | Ukrainians search through rubble for missing following deadly Russian  | Mon 23 Nov, 01:16 AM PKT
 
 ## Publishing this run
-- Published 'Latest news and updates regarding India from BBC'.
+- Published 'Can the US Congress stop an Iran war like it did in Vietnam?'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4185 | output tokens: 1923
-- Errors: 2
+- Calls: 4 | prompt tokens: 4643 | output tokens: 2017
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "message": "This model is currently experiencing high demand. Spi

@@ -118159,7 +118159,695 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "61b27473e78de31463e114ff",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T12:09:52+00:00",
+      "last_update": "2026-11-22T18:09:48+00:00",
+      "event": "Pakistani among two injured in Iranian attack, Bahrain says",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "attack",
+        "bahrain",
+        "dawn",
+        "injured",
+        "iranian",
+        "pakistani",
+        "says",
+        "two"
+      ],
+      "source_excerpt": "Pakistani among two injured in Iranian attack, Bahrain says Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnFQazFTVjJaYnluc3pRYzM3M2d4bjZhRWVQVlp4c2lIMjZ0V213Vkh1VmVaaFZ1T1BxRXh6UWxXdC1OSDBOTnVJMnI0b2tlYlhVZnloN2NQZU5FMUxacFExUFItVUNOaS1TSHVjMnRrc05JLWY2MU9NOVJqNmNRUnBhUUUwa2VtejQweHN6WWxvUmF2Und3?oc=5",
+          "published_at": "2026-11-22T12:09:52+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
+          "published_at": "2026-11-22T12:12:04+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3dGZ3JGTjU3bkt3cUt6cU9xd0RTQUJ1ZUwzVnRqUmt0TEFNWVFoZFhGNjdwV1U3c1VmOEJEZ1NWdFJ1d04zM3NrbTZ0ZU9MQUN0aE9oWW0yaGZMb2JFWjVLdlNjUnlfRDdVcU1NOUItM0hONWJBWDBtQW5GUFV3NEh6bTlkbll1U0V4TFgzMjhtTFRKWmRtTGQwaVVjUkFPNmppX2FNWklGWTBEY1hnMkV3?oc=5",
+          "published_at": "2026-11-22T15:03:32+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmxucGxWRlJjTzI0Wm4yamZNaU8tY2hZdk5HNzNzV0lsTUVSbmNJQ3I1TGVlT3RUSFZGNkNlVHFIOGhOY1NzYUNqc1I1Wm5iTDdjSkxlclBGTFJmNEt2NnR4UlRsZjJONVduUjRDZnk2YmJKWFR1YTlJOWFLRDZDS083dVJiaWhoUTd1QW1iekttVnhsZTdEREU4eFJSdTdsOGFDWU9Uc1V5ckV6aEI4cQ?oc=5",
+          "published_at": "2026-11-22T18:09:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnFQazFTVjJaYnluc3pRYzM3M2d4bjZhRWVQVlp4c2lIMjZ0V213Vkh1VmVaaFZ1T1BxRXh6UWxXdC1OSDBOTnVJMnI0b2tlYlhVZnloN2NQZU5FMUxacFExUFItVUNOaS1TSHVjMnRrc05JLWY2MU9NOVJqNmNRUnBhUUUwa2VtejQweHN6WWxvUmF2Und3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "babcdd229bd7c5b2c8dd3470",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T19:18:29+00:00",
+      "last_update": "2026-11-22T19:18:29+00:00",
+      "event": "CHK_Aber Kawas becomes first Palestinian in New York state Senate history",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "becomes",
+        "championing",
+        "chk_aber",
+        "democratic",
+        "first",
+        "history",
+        "kawas",
+        "new",
+        "palestinian",
+        "percent",
+        "politics",
+        "progressive",
+        "senate",
+        "socialist",
+        "state",
+        "the",
+        "vote",
+        "with",
+        "won",
+        "york"
+      ],
+      "source_excerpt": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+          "published_at": "2026-11-22T19:18:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8b817db4e0f8be8b14a5ba64",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T19:10:00+00:00",
+      "last_update": "2026-11-22T19:10:00+00:00",
+      "event": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agents",
+        "airport",
+        "and",
+        "arrests",
+        "chilling",
+        "concerns",
+        "condemn",
+        "detaining",
+        "forcibly",
+        "horrific",
+        "ice",
+        "immigration",
+        "masked",
+        "officials",
+        "over",
+        "people",
+        "raising",
+        "seattle",
+        "shows",
+        "tactics",
+        "two",
+        "video"
+      ],
+      "source_excerpt": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+          "published_at": "2026-11-22T19:10:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "76bbe6c25a9485a1cf7fda0d",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T18:44:24+00:00",
+      "last_update": "2026-11-22T18:44:24+00:00",
+      "event": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "anfield",
+        "card",
+        "defeat",
+        "eight",
+        "football",
+        "for",
+        "just",
+        "leny",
+        "liverpool",
+        "man",
+        "manchester",
+        "minutes",
+        "nightmare",
+        "paved",
+        "pochettino",
+        "red",
+        "start",
+        "the",
+        "thrash",
+        "united",
+        "way",
+        "yoro"
+      ],
+      "source_excerpt": "Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+          "published_at": "2026-11-22T18:44:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "be6df06ac20506575f7dd93c",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T19:35:52+00:00",
+      "last_update": "2026-11-22T19:35:52+00:00",
+      "event": "Earthquake jolts Khuzdar district in Balochistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "balochistan",
+        "district",
+        "earthquake",
+        "jolts",
+        "khuzdar",
+        "samaa"
+      ],
+      "source_excerpt": "Earthquake jolts Khuzdar district in Balochistan samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVVVb2RQQlZ0YVNOZWxKYmJHR1RQQV9OSmtjalF4dkI0V1I0YzY5c1B0THhTMzQ0RVpYc28yczFnRlQxNTl0X0FxbW1Wc2thdmlsYnJWNGtOY1h6aTFmOHFLWl9KUlNMbnFDSU1qYzV0QXlOU180eV9OX2RjNFdBdG50enR3Z1FndmZIMG55dVJIVFpQaVdJRHln?oc=5",
+          "published_at": "2026-11-22T19:35:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVVVb2RQQlZ0YVNOZWxKYmJHR1RQQV9OSmtjalF4dkI0V1I0YzY5c1B0THhTMzQ0RVpYc28yczFnRlQxNTl0X0FxbW1Wc2thdmlsYnJWNGtOY1h6aTFmOHFLWl9KUlNMbnFDSU1qYzV0QXlOU180eV9OX2RjNFdBdG50enR3Z1FndmZIMG55dVJIVFpQaVdJRHln?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "63a5ace97739f38ece32643e",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T17:48:00+00:00",
+      "last_update": "2026-11-22T17:48:00+00:00",
+      "event": "WhatsApp users warned over surge in 6-digit code hijack scams",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "code",
+        "digit",
+        "hijack",
+        "international",
+        "news",
+        "over",
+        "scams",
+        "surge",
+        "the",
+        "users",
+        "warned",
+        "whatsapp"
+      ],
+      "source_excerpt": "WhatsApp users warned over surge in 6-digit code hijack scams The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTBRV0lzWkxUZVJsR1Jja3Fxb29TUUVpY3VYcEVNdlNHU2VxeXpCdVotV0huTjQ2cFg1aE5NN3hNQ2hqRnVKR0VxUHFXdGluaEdzV2R3SmE2RG5vMHk2TjNSNXAxNHJudDE0M2dfbmNhVFpvWFVNOEhzcFVaOHZuOGdITDlqMmFkNUlRdlJCM1RtZHNSVjJmeS00a1htdnJ1ck1keWlB0gGiAUFVX3lxTFBrTDdFdmNmYjlBR1psX1dNRVZHTV9iaTVmcV9mVGt4OWlhN3g5MHV6RXg3LVJ2SkZ1WktnaXVKT2h0WkVZaUE1T2xhZWhEX3c2M2lkbE9OcnZOSmNQT0V1SEFwZEVnRDVlWVhlSWR5Y01LLUhNQi1fa05ZTUVueUdwN2ptVm8xaXZQRHNlVDNKekJLU01xZFpYcS02Q1ZWdzlXdw?oc=5",
+          "published_at": "2026-11-22T17:48:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTBRV0lzWkxUZVJsR1Jja3Fxb29TUUVpY3VYcEVNdlNHU2VxeXpCdVotV0huTjQ2cFg1aE5NN3hNQ2hqRnVKR0VxUHFXdGluaEdzV2R3SmE2RG5vMHk2TjNSNXAxNHJudDE0M2dfbmNhVFpvWFVNOEhzcFVaOHZuOGdITDlqMmFkNUlRdlJCM1RtZHNSVjJmeS00a1htdnJ1ck1keWlB0gGiAUFVX3lxTFBrTDdFdmNmYjlBR1psX1dNRVZHTV9iaTVmcV9mVGt4OWlhN3g5MHV6RXg3LVJ2SkZ1WktnaXVKT2h0WkVZaUE1T2xhZWhEX3c2M2lkbE9OcnZOSmNQT0V1SEFwZEVnRDVlWVhlSWR5Y01LLUhNQi1fa05ZTUVueUdwN2ptVm8xaXZQRHNlVDNKekJLU01xZFpYcS02Q1ZWdzlXdw?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bd921f10244b4c0bbc472e2e",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T17:49:48+00:00",
+      "last_update": "2026-11-22T17:49:48+00:00",
+      "event": "IBCC plans fully online attestation from Jan 1, ending office visits and courier submissions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "allowing",
+        "and",
+        "apply",
+        "attestation",
+        "attested",
+        "boards",
+        "commission",
+        "coordination",
+        "courier",
+        "decision",
+        "documents",
+        "download",
+        "ending",
+        "for",
+        "from",
+        "fully",
+        "ibcc",
+        "inter",
+        "jan",
+        "launch",
+        "meeting",
+        "office",
+        "online",
+        "plans",
+        "sending",
+        "service",
+        "students",
+        "submissions",
+        "taken",
+        "the",
+        "their",
+        "visiting",
+        "visits",
+        "was",
+        "will",
+        "without"
+      ],
+      "source_excerpt": "The Inter Boards Coordination Commission (IBCC) will launch a fully online attestation service on Jan 1, 2027, allowing students to apply for attestation and download their attested documents without visiting an IBCC office or sending documents by courier. The decision was taken at a meeting of the",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046341/ibcc-plans-fully-online-attestation-from-jan-1-ending-office-visits-and-courier-submissions",
+          "published_at": "2026-11-22T17:49:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046341/ibcc-plans-fully-online-attestation-from-jan-1-ending-office-visits-and-courier-submissions",
+        "publisher_url": "https://www.dawn.com/news/2046341/ibcc-plans-fully-online-attestation-from-jan-1-ending-office-visits-and-courier-submissions",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b9f7fdbfae6dd45ec0240cc9",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T18:21:55+00:00",
+      "last_update": "2026-11-22T18:21:55+00:00",
+      "event": "PPP says no discussion on referendum for new provinces at leadership level",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "discussion",
+        "for",
+        "geo",
+        "leadership",
+        "level",
+        "new",
+        "news",
+        "ppp",
+        "provinces",
+        "referendum",
+        "says"
+      ],
+      "source_excerpt": "PPP says no discussion on referendum for new provinces at leadership level Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWllmand5ZXc1d2pBX1FwWmVVU0dBaUhiS0FUcVVIUFZGUG9RZzFtby1PSU83RDc5S21kY1YtVG04YS1wb3plRDFsaHFLNFBmTXFlZTJCel9GdGJRNnIzMXE3bjk2ZWc4UnQ2MXRqMU04WjlhSWR0OGQ5QnFlNUtBUVY5RUJodGxWRzJIbE9tT0FkZHVZQzVkcHp2N0FsbHNEa01MOWZNcWRsTlE?oc=5",
+          "published_at": "2026-11-22T18:21:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWllmand5ZXc1d2pBX1FwWmVVU0dBaUhiS0FUcVVIUFZGUG9RZzFtby1PSU83RDc5S21kY1YtVG04YS1wb3plRDFsaHFLNFBmTXFlZTJCel9GdGJRNnIzMXE3bjk2ZWc4UnQ2MXRqMU04WjlhSWR0OGQ5QnFlNUtBUVY5RUJodGxWRzJIbE9tT0FkZHVZQzVkcHp2N0FsbHNEa01MOWZNcWRsTlE?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3b96f73645b3123468785b19",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T18:35:00+00:00",
+      "last_update": "2026-11-22T18:35:00+00:00",
+      "event": "Miley Cyrus shares official photos from Maxx Morando wedding: 'M+M'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cyrus",
+        "from",
+        "geo",
+        "maxx",
+        "miley",
+        "morando",
+        "news",
+        "official",
+        "photos",
+        "shares",
+        "wedding"
+      ],
+      "source_excerpt": "Miley Cyrus shares official photos from Maxx Morando wedding: 'M+M' Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1hLdHF5V213N1NfYjEyNU5jTV82Qjk5VjRad05IQVNzQnZWYzdtSDhSXzB6Z2QtSmtxa1o4ZkNlSzJSY1NlSVdtUEpuUnJFU2drMjMxNDZSUVlYeTY2U09xY08tR3gyYVJUcVJ4V25uUnNBMmlqSG5xaENOSC1VMkhFQVNxekxaWDIxRFo1MW4teWluUFduV1dzS18?oc=5",
+          "published_at": "2026-11-22T18:35:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692211-miley-cyrus-shares-official-photos-from-maxx-morando-wedding-mm",
+          "published_at": "2026-11-22T18:35:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1hLdHF5V213N1NfYjEyNU5jTV82Qjk5VjRad05IQVNzQnZWYzdtSDhSXzB6Z2QtSmtxa1o4ZkNlSzJSY1NlSVdtUEpuUnJFU2drMjMxNDZSUVlYeTY2U09xY08tR3gyYVJUcVJ4V25uUnNBMmlqSG5xaENOSC1VMkhFQVNxekxaWDIxRFo1MW4teWluUFduV1dzS18?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "78a1b6d06fc7f149c5010092",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T18:13:00+00:00",
+      "last_update": "2026-11-22T18:13:00+00:00",
+      "event": "What Robert Pattinson wanted for 'The Odyssey' that Christopher Nolan refused",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "christopher",
+        "for",
+        "international",
+        "news",
+        "nolan",
+        "odyssey",
+        "pattinson",
+        "refused",
+        "robert",
+        "that",
+        "the",
+        "wanted",
+        "what"
+      ],
+      "source_excerpt": "What Robert Pattinson wanted for 'The Odyssey' that Christopher Nolan refused The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaERwQS1fWlpjZlE3UVZzUmhrMm9HOUtnSDZDVXlwOU1HeC15QVgtTWpQMExGeDRtQzRYbkY2ZmZJcFdRTGdxWUh0cmlVd0dlSUZFSTZaSWtoV25uZUc5LURsUTRwbU1jT005SExRdVd5U2tnNGQ5amNNa1gtR2lkVUhZbVF0QnJkQzVQa1JQbEVWeDh6ZDhLVmpEVmM4bTVFOF9MWUd2Ty1BQktmWjBWQ1lMOG3SAbQBQVVfeXFMUGhEcEEtX1paY2ZRN1FWc1JoazJvRzlLZ0g2Q1V5cDlNR3gteUFYLU1qUDBMRng0bUM0WG5GNmZmSXBXUUxncVlIdHJpVXdHZUlGRUk2WklraFdubmVHOS1EbFE0cG1NY09NOUhMUXVXeVNrZzRkOWpjTWtYLUdpZFVIWW1RdEJyZEM1UGtSUGxFVng4emQ4S1ZqRFZjOG01RThfTFlHdk8tQUJLZlowVkNZTDht?oc=5",
+          "published_at": "2026-11-22T18:13:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaERwQS1fWlpjZlE3UVZzUmhrMm9HOUtnSDZDVXlwOU1HeC15QVgtTWpQMExGeDRtQzRYbkY2ZmZJcFdRTGdxWUh0cmlVd0dlSUZFSTZaSWtoV25uZUc5LURsUTRwbU1jT005SExRdVd5U2tnNGQ5amNNa1gtR2lkVUhZbVF0QnJkQzVQa1JQbEVWeDh6ZDhLVmpEVmM4bTVFOF9MWUd2Ty1BQktmWjBWQ1lMOG3SAbQBQVVfeXFMUGhEcEEtX1paY2ZRN1FWc1JoazJvRzlLZ0g2Q1V5cDlNR3gteUFYLU1qUDBMRng0bUM0WG5GNmZmSXBXUUxncVlIdHJpVXdHZUlGRUk2WklraFdubmVHOS1EbFE0cG1NY09NOUhMUXVXeVNrZzRkOWpjTWtYLUdpZFVIWW1RdEJyZEM1UGtSUGxFVng4emQ4S1ZqRFZjOG01RThfTFlHdk8tQUJLZlowVkNZTDht?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "334b05d98d4aef46c947bab9",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T18:53:00+00:00",
+      "last_update": "2026-11-22T18:53:00+00:00",
+      "event": "Newlyweds Matty Healy and Gabriette Bechtel expecting 1st child: Report",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1st",
+        "after",
+        "and",
+        "are",
+        "bechtel",
+        "child",
+        "confirmed",
+        "expecting",
+        "first",
+        "following",
+        "gabbriette",
+        "gabriette",
+        "healy",
+        "just",
+        "magazine",
+        "marriage",
+        "matty",
+        "months",
+        "newlyweds",
+        "november",
+        "people",
+        "report",
+        "speculation",
+        "sunday",
+        "that",
+        "their",
+        "together",
+        "weeks"
+      ],
+      "source_excerpt": "Newlyweds Matty Healy and Gabriette Bechtel expecting 1st child: Report Matty Healy and Gabbriette Bechtel are expecting their first child together after just months of marriage. Following weeks of speculation, People magazine confirmed on Sunday, November 22, that Bechtel is...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692214-newlyweds-matty-healy-and-gabriette-bechtel-expecting-1st-child-report",
+          "published_at": "2026-11-22T18:53:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGNqV3pjVkpLM09qYnV4bU13bVc2NG9vZFljdGdub1Bfelc1emtLRDdjaFRkT3ZBYmpKYU1uNXRBOFlCUFcxWS1vdTA3Xy1TVHM1WWNvYXRnb2RUSXZJSlpEWjZLd3pfN193ZXBmZjJaNmhZcUNNWFBwNDQza0lNb1hLYzhySnVFNUw3Z09VNEV3bkZoMGE4bmQ5WkNjanhlLXV6Q0dR?oc=5",
+          "published_at": "2026-11-22T18:53:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692214-newlyweds-matty-healy-and-gabriette-bechtel-expecting-1st-child-report",
+        "publisher_url": "https://www.geo.tv/latest/692214-newlyweds-matty-healy-and-gabriette-bechtel-expecting-1st-child-report",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cd4b0a85abd4891466b3de38",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T18:05:00+00:00",
+      "last_update": "2026-11-22T18:05:00+00:00",
+      "event": "Jennifer Lopez recalls 'disappointing' experience filming with Ben Affleck",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "about",
+        "affleck",
+        "album",
+        "and",
+        "ben",
+        "disappointing",
+        "documentary",
+        "experience",
+        "filming",
+        "followed",
+        "greatest",
+        "has",
+        "her",
+        "icon",
+        "independently",
+        "its",
+        "jennifer",
+        "lopez",
+        "love",
+        "major",
+        "never",
+        "now",
+        "one",
+        "pop",
+        "produced",
+        "recalls",
+        "regret",
+        "she",
+        "story",
+        "the",
+        "this",
+        "told",
+        "with"
+      ],
+      "source_excerpt": "Jennifer Lopez recalls 'disappointing' experience filming with Ben Affleck Jennifer Lopez has one major regret about her 2024 documentary, The Greatest Love Story Never Told. The documentary followed the pop icon as she independently produced her album, This Is Me… Now, and its...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692209-jennifer-lopez-recalls-disappointing-experience-filming-with-ben-affleck",
+          "published_at": "2026-11-22T18:05:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692209-jennifer-lopez-recalls-disappointing-experience-filming-with-ben-affleck",
+        "publisher_url": "https://www.geo.tv/latest/692209-jennifer-lopez-recalls-disappointing-experience-filming-with-ben-affleck",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "84ed629dfdaa93c54ee69dac",
+      "remembered_at": "2026-11-22T19:46:32.275488+00:00",
+      "event_date": "2026-11-22T18:18:20+00:00",
+      "last_update": "2026-11-22T18:18:20+00:00",
+      "event": "US intelligence chief says Putin is ‘not America’s friend in Ukraine’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "america",
+        "chief",
+        "friend",
+        "intelligence",
+        "not",
+        "putin",
+        "says",
+        "ukraine"
+      ],
+      "source_excerpt": "US intelligence chief says Putin is ‘not America’s friend in Ukraine’",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/us-intelligence-chief-says-putin-is-not-americas-friend-in-ukraine",
+          "published_at": "2026-11-22T18:18:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/us-intelligence-chief-says-putin-is-not-americas-friend-in-ukraine",
+        "publisher_url": "https://arynews.tv/us-intelligence-chief-says-putin-is-not-americas-friend-in-ukraine",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T18:54:43.155884+00:00"
+  "updated_at": "2026-11-22T19:46:32.275488+00:00"
 }
