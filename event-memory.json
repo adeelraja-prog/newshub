@@ -118847,7 +118847,600 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b8c9ab28ed2594ee4342bbc9",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T18:24:24+00:00",
+      "last_update": "2026-11-22T19:35:19+00:00",
+      "event": "Houthis claim targeting Saudi Arabia's Rabigh oil refinery",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arabia",
+        "claim",
+        "dawn",
+        "houthis",
+        "oil",
+        "rabigh",
+        "refinery",
+        "saudi",
+        "targeting"
+      ],
+      "source_excerpt": "Houthis claim targeting Saudi Arabia's Rabigh oil refinery Dawn",
+      "sources": [
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0xpdnR3UnFIaEJrRmExS1RfTWRSQmRtMmM1TW0wVjhnVGFpbkJLLWVDTFRPUG9YSEIzQ3NQV1dPYU9aWmt2NjM1eGo2Q3lxSnlkZ24xeGQxczROSy1OZW4ySTVqcHZHSmhHcnZWZEZsS29WWmFtMjlYd1JCTUh0Y2NndDdHWVhGSGFnVHpkaE1nOF9PZnppU2hERXBadkFmaUxvVA?oc=5",
+          "published_at": "2026-11-22T18:24:24+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjhsZTV3NkYzVi1rcmlFNmljS2tjeUdxY3ZvZkJmb0JLQzFTOF9wbDgwY0VPc1ExMkxpNVdsZjFVQ2Q0MWQ5aHYxVW1WYWlOWi1KdjVwVGVvaFRXZC0yOTIzeXhpc2RTSENNVUpRTWRyS0lKQmVHal90NXZ0VTJYcUhSUmZyenRWNjZjODlGUW1qZExmUFE?oc=5",
+          "published_at": "2026-11-22T19:35:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjhsZTV3NkYzVi1rcmlFNmljS2tjeUdxY3ZvZkJmb0JLQzFTOF9wbDgwY0VPc1ExMkxpNVdsZjFVQ2Q0MWQ5aHYxVW1WYWlOWi1KdjVwVGVvaFRXZC0yOTIzeXhpc2RTSENNVUpRTWRyS0lKQmVHal90NXZ0VTJYcUhSUmZyenRWNjZjODlGUW1qZExmUFE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "485379f200e94d6cb47b3335",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T19:40:12+00:00",
+      "last_update": "2026-11-22T19:40:12+00:00",
+      "event": "Cockroaches, dissent and a paradigm shift in India",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "and",
+        "cockroach",
+        "cockroaches",
+        "dissent",
+        "future",
+        "india",
+        "janta",
+        "journalism",
+        "paradigm",
+        "party",
+        "politics",
+        "reveals",
+        "rise",
+        "shift",
+        "the",
+        "what"
+      ],
+      "source_excerpt": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
+          "published_at": "2026-11-22T19:40:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8f75d8b8d53ca2d696988e25",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T20:26:24+00:00",
+      "last_update": "2026-11-22T20:26:24+00:00",
+      "event": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "173",
+        "1992",
+        "258",
+        "after",
+        "carolina",
+        "compared",
+        "democrats",
+        "flipping",
+        "have",
+        "hold",
+        "house",
+        "largest",
+        "least",
+        "majority",
+        "midterms",
+        "north",
+        "now",
+        "republicans",
+        "seat",
+        "seats",
+        "since",
+        "the",
+        "who",
+        "win",
+        "won"
+      ],
+      "source_excerpt": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T20:26:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4a420f87ef3c50771cecdde3",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T20:16:42+00:00",
+      "last_update": "2026-11-22T20:16:42+00:00",
+      "event": "Naya Pakistan - 22nd November 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "22nd",
+        "geo",
+        "naya",
+        "news",
+        "november",
+        "pakistan"
+      ],
+      "source_excerpt": "Naya Pakistan - 22nd November 2026 Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmJVQm5nVHdOV0FEWFdVVTd0ZzlEd3JpTzdfYUtQLUQ4ekhhaTNoRlhTVmlqS3NteWIyOU5xdG9iamZEdTEzdkwyLS1pM0tRb0Z1UUpKeW1wbkpJdEFWZm5RWkpiWmhhQ1B2U19zbGRiNzMzZEgxbEJFYVVEYnpHd2dBMks?oc=5",
+          "published_at": "2026-11-22T20:16:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmJVQm5nVHdOV0FEWFdVVTd0ZzlEd3JpTzdfYUtQLUQ4ekhhaTNoRlhTVmlqS3NteWIyOU5xdG9iamZEdTEzdkwyLS1pM0tRb0Z1UUpKeW1wbkpJdEFWZm5RWkpiWmhhQ1B2U19zbGRiNzMzZEgxbEJFYVVEYnpHd2dBMks?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2304369b50f7a9c920d74937",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T20:12:32+00:00",
+      "last_update": "2026-11-22T20:12:32+00:00",
+      "event": "Pakistan, Oman strengthen energy cooperation with PSO and OQ agreement",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreement",
+        "and",
+        "cooperation",
+        "energy",
+        "oman",
+        "pakistan",
+        "pso",
+        "strengthen",
+        "with"
+      ],
+      "source_excerpt": "Pakistan, Oman strengthen energy cooperation with PSO and OQ agreement",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-oman-strengthen-energy-cooperation-with-pso-and-oq-agreement",
+          "published_at": "2026-11-22T20:12:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-oman-strengthen-energy-cooperation-with-pso-and-oq-agreement",
+        "publisher_url": "https://arynews.tv/pakistan-oman-strengthen-energy-cooperation-with-pso-and-oq-agreement",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0f18aa94814f37819a1e5da9",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T20:07:07+00:00",
+      "last_update": "2026-11-22T20:07:07+00:00",
+      "event": "Pakistan A erupt with a savage send-off for Harshit Rana after thrilling triumph",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "erupt",
+        "for",
+        "harshit",
+        "off",
+        "pakistan",
+        "rana",
+        "savage",
+        "send",
+        "thrilling",
+        "triumph",
+        "with"
+      ],
+      "source_excerpt": "Pakistan A erupt with a savage send-off for Harshit Rana after thrilling triumph",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-a-erupt-with-a-savage-send-off-for-harshit-rana-after-thrilling-triumph",
+          "published_at": "2026-11-22T20:07:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-a-erupt-with-a-savage-send-off-for-harshit-rana-after-thrilling-triumph",
+        "publisher_url": "https://arynews.tv/pakistan-a-erupt-with-a-savage-send-off-for-harshit-rana-after-thrilling-triumph",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe9a74be19e51b0f28d9f1b5",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T18:54:00+00:00",
+      "last_update": "2026-11-22T18:54:00+00:00",
+      "event": "2 Chainz recalls mistake of misjudging Kanye West's musical taste",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "chainz",
+        "international",
+        "kanye",
+        "misjudging",
+        "mistake",
+        "musical",
+        "news",
+        "recalls",
+        "taste",
+        "the",
+        "west"
+      ],
+      "source_excerpt": "2 Chainz recalls mistake of misjudging Kanye West's musical taste The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWEtMQ2xaYUoyZ05MVVdqZ2d3OHNyR3gwTXkzWjJnVmV0MTRmY0RQV0d0aVpoTDJMSlNwaHZiTDlRZEoxazhBZlZUQTZTT2RyUmtjN25ldXd1UHQtbXdrLUdzVG1PaWp0LTg2WXBXbjVWd2Vvc0ZrOXdGZUJtMEFiVnlCMzBaQklEMDFhd3U1Yk5TVUZkZzJRRXlXLVVoQ1FSQ01lTXFB0gGmAUFVX3lxTE9YS0xDbFphSjJnTkxVV2pnZ3c4c3JHeDBNeTNaMmdWZXQxNGZjRFBXR3RpWmhMMkxKU3BodmJMOVFkSjFrOEFmVlRBNlNPZHJSa2M3bmV1d3VQdC1td2stR3NUbU9panQtODZZcFduNVZ3ZW9zRms5d0ZlQm0wQWJWeUIzMFpCSUQwMWF3dTViTlNVRmRnMlFFeVctVWhDUVJDTWVNcUE?oc=5",
+          "published_at": "2026-11-22T18:54:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWEtMQ2xaYUoyZ05MVVdqZ2d3OHNyR3gwTXkzWjJnVmV0MTRmY0RQV0d0aVpoTDJMSlNwaHZiTDlRZEoxazhBZlZUQTZTT2RyUmtjN25ldXd1UHQtbXdrLUdzVG1PaWp0LTg2WXBXbjVWd2Vvc0ZrOXdGZUJtMEFiVnlCMzBaQklEMDFhd3U1Yk5TVUZkZzJRRXlXLVVoQ1FSQ01lTXFB0gGmAUFVX3lxTE9YS0xDbFphSjJnTkxVV2pnZ3c4c3JHeDBNeTNaMmdWZXQxNGZjRFBXR3RpWmhMMkxKU3BodmJMOVFkSjFrOEFmVlRBNlNPZHJSa2M3bmV1d3VQdC1td2stR3NUbU9panQtODZZcFduNVZ3ZW9zRms5d0ZlQm0wQWJWeUIzMFpCSUQwMWF3dTViTlNVRmRnMlFFeVctVWhDUVJDTWVNcUE?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f365479467439bf13149062a",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T19:46:00+00:00",
+      "last_update": "2026-11-22T19:46:00+00:00",
+      "event": "Washington governor calls ICE 'out of control' after Seattle airport arrests",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "after",
+        "agents",
+        "airport",
+        "and",
+        "arrested",
+        "arrests",
+        "called",
+        "calls",
+        "conducted",
+        "control",
+        "customs",
+        "donald",
+        "enforcement",
+        "federal",
+        "governor",
+        "have",
+        "ice",
+        "immigration",
+        "main",
+        "officers",
+        "out",
+        "part",
+        "people",
+        "president",
+        "raids",
+        "saturday",
+        "seattle",
+        "state",
+        "states",
+        "the",
+        "they",
+        "trump",
+        "two",
+        "united",
+        "washington"
+      ],
+      "source_excerpt": "The governor of Washington state called US federal immigration agents “out of control” after they arrested two people at Seattle’s main airport on Saturday. Immigration and Customs Enforcement (ICE) officers have conducted raids across the United States, part of President Donald Trump’s immigration",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046346/washington-governor-calls-ice-out-of-control-after-seattle-airport-arrests",
+          "published_at": "2026-11-22T19:46:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046346/washington-governor-calls-ice-out-of-control-after-seattle-airport-arrests",
+        "publisher_url": "https://www.dawn.com/news/2046346/washington-governor-calls-ice-out-of-control-after-seattle-airport-arrests",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bf81da6a0dfeff002053b6b9",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T19:21:00+00:00",
+      "last_update": "2026-11-22T19:21:00+00:00",
+      "event": "Bruce Willis' daughter Tallulah deletes 'intimate' photo, issues apology",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2023",
+        "and",
+        "apologised",
+        "apology",
+        "bruce",
+        "daughter",
+        "day",
+        "deletes",
+        "demi",
+        "diagnosed",
+        "die",
+        "exes",
+        "explaining",
+        "father",
+        "for",
+        "from",
+        "ftd",
+        "hard",
+        "her",
+        "image",
+        "intimate",
+        "issues",
+        "media",
+        "moore",
+        "november",
+        "old",
+        "personal",
+        "photo",
+        "removed",
+        "sharing",
+        "she",
+        "social",
+        "star",
+        "sunday",
+        "tallulah",
+        "the",
+        "was",
+        "why",
+        "willis",
+        "with",
+        "year"
+      ],
+      "source_excerpt": "The 'Die Hard' star was diagnosed with FTD in 2023 Tallulah Willis is explaining why she removed a personal photo with her father, Bruce Willis, from social media. On Sunday, November 22, the 32-year-old daughter of exes Bruce and Demi Moore apologised for sharing the image a day...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692217-bruce-willis-daughter-tallulah-deletes-intimate-photo-issues-apology",
+          "published_at": "2026-11-22T19:21:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692217-bruce-willis-daughter-tallulah-deletes-intimate-photo-issues-apology",
+        "publisher_url": "https://www.geo.tv/latest/692217-bruce-willis-daughter-tallulah-deletes-intimate-photo-issues-apology",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "98bd499fb84650fc8318fefb",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T19:20:09+00:00",
+      "last_update": "2026-11-22T19:20:09+00:00",
+      "event": "Kuwait warns employers of penalties over salary transfer violations",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "employers",
+        "kuwait",
+        "over",
+        "penalties",
+        "salary",
+        "transfer",
+        "violations",
+        "warns"
+      ],
+      "source_excerpt": "Kuwait warns employers of penalties over salary transfer violations",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/kuwait-warns-employers-of-penalties-over-salary-transfer-violations",
+          "published_at": "2026-11-22T19:20:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/kuwait-warns-employers-of-penalties-over-salary-transfer-violations",
+        "publisher_url": "https://arynews.tv/kuwait-warns-employers-of-penalties-over-salary-transfer-violations",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6f0b4761e6d969fc143298c9",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T19:09:03+00:00",
+      "last_update": "2026-11-22T19:09:03+00:00",
+      "event": "German army starts testing kamikaze drones and AI targeting tool in Lithuania",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "army",
+        "drones",
+        "german",
+        "kamikaze",
+        "lithuania",
+        "starts",
+        "targeting",
+        "testing",
+        "tool"
+      ],
+      "source_excerpt": "German army starts testing kamikaze drones and AI targeting tool in Lithuania",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/german-army-starts-testing-kamikaze-drones-and-ai-targeting-tool-in-lithuania",
+          "published_at": "2026-11-22T19:09:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/german-army-starts-testing-kamikaze-drones-and-ai-targeting-tool-in-lithuania",
+        "publisher_url": "https://arynews.tv/german-army-starts-testing-kamikaze-drones-and-ai-targeting-tool-in-lithuania",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d8e9a02f776246cbd641333d",
+      "remembered_at": "2026-11-22T20:31:39.460366+00:00",
+      "event_date": "2026-11-22T20:10:10+00:00",
+      "last_update": "2026-11-22T20:10:10+00:00",
+      "event": "Liverpool hammer ten-man United in Pochettino debut",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "debut",
+        "hammer",
+        "liverpool",
+        "man",
+        "pochettino",
+        "ten",
+        "united"
+      ],
+      "source_excerpt": "Liverpool hammer ten-man United in Pochettino debut",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/liverpool-hammer-ten-man-united-in-pochettino-debut",
+          "published_at": "2026-11-22T20:10:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/liverpool-hammer-ten-man-united-in-pochettino-debut",
+        "publisher_url": "https://arynews.tv/liverpool-hammer-ten-man-united-in-pochettino-debut",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T19:46:32.275488+00:00"
+  "updated_at": "2026-11-22T20:31:39.460366+00:00"
 }

@@ -1,149 +1,160 @@
-# News Hub report - Mon 23 Nov, 12:46 AM PKT
+# News Hub report - Mon 23 Nov, 01:31 AM PKT
 
 ## Collection
-- New items this run: 23 | items in rolling pool: 583
-- Unique story clusters: 490 (duplicates merged: 93)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 5
-- Items per outlet: Engadget 4, Al Jazeera 3, Geo News 2, ARY News 2, UrduPoint 2, Pakistan Today 2, The News International 1, Dawn Latest 1, samaa tv 1, Ceylon Daily News 1, AP News 1, BBC World 1
+- New items this run: 18 | items in rolling pool: 483
+- Unique story clusters: 410 (duplicates merged: 73)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 5
+- Items per outlet: Pakistan Today 4, ARY News 3, Engadget 3, Al Jazeera 2, Geo News 1, Dawn 1, BBC World 1, France 24 1, ABC News - Breaking News, Latest News and Videos 1, Forbes 1, ARY News Fast Lane 0, The News Fast Lane 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: MOHSIN NAQVI VS RANA SANAULLAH: WHO WILL BACK DOWN? | https://www.youtube.com/watch?v=DkA-tJJr7gU
 
 ## Top 5 most important
-- Pakistani among two injured in Iranian attack, Bahrain says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Virginia reports first measles-linked death of 2026 in child younger than 5 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CHK_Aber Kawas becomes first Palestinian in New York state Senate history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Houthis claim targeting Saudi Arabia's Rabigh oil refinery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Liverpool thrash 10-man Man United in nightmare start for Pochettino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Democrats win largest House majority since 1992 after flipping North Carolina seat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistani among two injured in Iranian attack, Bahrain says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Virginia reports first measles-linked death of 2026 in child younger than 5 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CHK_Aber Kawas becomes first Palestinian in New York state Senate history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Houthis claim targeting Saudi Arabia's Rabigh oil refinery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Liverpool thrash 10-man Man United in nightmare start for Pochettino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Democrats win largest House majority since 1992 after flipping North Carolina seat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistani among two injured in Iranian attack, Bahrain says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Virginia reports first measles-linked death of 2026 in child younger than 5 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CHK_Aber Kawas becomes first Palestinian in New York state Senate history | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Houthis claim targeting Saudi Arabia's Rabigh oil refinery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Liverpool thrash 10-man Man United in nightmare start for Pochettino | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cockroaches, dissent and a paradigm shift in India | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Democrats win largest House majority since 1992 after flipping North Carolina seat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
-- Trusted publisher desks with at least one healthy source: 10/10
+- Overall feeds with entries: 104/120 | empty: 2 | failed: 14 | malformed/partial: 14
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Rights and Accountability Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Parties Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BBC India politics | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: CNN India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Dunya News TV
 
 ## Selected for the queue
-### Aber Kawas makes history as New York's first Palestinian state senator  [NORMAL]
-- Poster: ابر کوواس نیویارک اسٹیٹ سینیٹ کی تاریخ میں پہلی فلسطینی سینیٹر منتخب / Aber Kawas becomes first Palestinian state senator in New York | category us_politics
-- Alternative headline: Democratic socialist Aber Kawas elected to New York state Senate
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Aber Kawas, New York state Senate, Palestinian, democratic socialist, election | hashtags: #AberKawas #NewYork #USPolitics #Palestine
-- Scheduled: Mon 23 Nov, 12:46 AM PKT
-- Caption:
-```
-Aber Kawas has made history by winning a New York state Senate seat with 74.5 percent of the vote.
-
-Democratic socialist Aber Kawas has won a seat in the New York state Senate, securing 74.5 percent of the vote and making history as the first Palestinian in the state's Senate history. Kawas ran on a progressive platform, achieving a landslide victory.
-
-ڈیموکریٹک سوشلسٹ ابر کوواس نے 74.5 فیصد ووٹ حاصل کر کے نیویارک اسٹیٹ سینیٹ میں کامیابی حاصل کی ہے، اور وہ نیویارک کی تاریخ میں سینیٹ کے لیے منتخب ہونے والی پہلی فلسطینی بن گئی ہیں۔
-
-First reported by Al Jazeera.
-
-#AberKawas #NewYork #USPolitics #Palestine
-```
-
-### Pakistani national among two injured in Iranian attacks on Bahrain  [NORMAL]
-- Poster: بحرین میں ایرانی حملے کے دوران ایک پاکستانی سمیت دو افراد زخمی / Pakistani among two injured in Iranian attacks on Bahrain | category world
-- Alternative headline: Bahrain reports Pakistani national among two injured in Iranian attack
+### PTI urges Bilawal not to back extension of Governor’s Rule  [NORMAL]
+- Poster: پی ٹی آئی کی بلاول سے گورنر راج اور ایمرجنسی میں توسیع کی مخالفت کی اپیل / PTI urges Bilawal to oppose Governor's Rule extension | category politics
+- Alternative headline: Pakistan Tehreek-e-Insaf appeals to Bilawal to oppose emergency rule extension
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnFQazFTVjJaYnluc3pRYzM3M2d4bjZhRWVQVlp4c2lIMjZ0V213Vkh1VmVaaFZ1T1BxRXh6UWxXdC1OSDBOTnVJMnI0b2tlYlhVZnloN2NQZU5FMUxacFExUFItVUNOaS1TSHVjMnRrc05JLWY2MU9NOVJqNmNRUnBhUUUwa2VtejQweHN6WWxvUmF2Und3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnFQazFTVjJaYnluc3pRYzM3M2d4bjZhRWVQVlp4c2lIMjZ0V213Vkh1VmVaaFZ1T1BxRXh6UWxXdC1OSDBOTnVJMnI0b2tlYlhVZnloN2NQZU5FMUxacFExUFItVUNOaS1TSHVjMnRrc05JLWY2MU9NOVJqNmNRUnBhUUUwa2VtejQweHN6WWxvUmF2Und3?oc=5
-- Supporting coverage: Dawn, Dawn Latest, samaa tv, Pakistan Today
-- Keywords: Pakistani injured Bahrain, Bahrain, Iran attack, Dawn, Pakistan | hashtags: #Bahrain #Pakistan #Iran #DawnNews
-- Scheduled: Mon 23 Nov, 12:56 AM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2ZVTFE1WFFRUThLLTUxYVgyMDl1Y2o2a25ESlpDSXFVNnJfODBKTVFXdXhNa2djSl9DT1VRR3BEMVVWNXdFQXQ0MTd6RW1hUlRBSXdkSGtIUmtfTVFnVHNwZlpRakd3WUNzb1Qycjh1QnlxQ3BweWRoaXBjd0tfZV9NRDBhUF8taHY0SE5ZSWt0ZUpiQnl2WkpvSVV1OWxJVGlfWW91bmtjdEVja1dRUmdEbzg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2ZVTFE1WFFRUThLLTUxYVgyMDl1Y2o2a25ESlpDSXFVNnJfODBKTVFXdXhNa2djSl9DT1VRR3BEMVVWNXdFQXQ0MTd6RW1hUlRBSXdkSGtIUmtfTVFnVHNwZlpRakd3WUNzb1Qycjh1QnlxQ3BweWRoaXBjd0tfZV9NRDBhUF8taHY0SE5ZSWt0ZUpiQnl2WkpvSVV1OWxJVGlfWW91bmtjdEVja1dRUmdEbzg?oc=5
+- Supporting coverage: samaa tv
+- Keywords: Governor's Rule, PTI, Bilawal Bhutto, emergency, Samaa TV, politics | hashtags: #PTI #BilawalBhutto #GovernorsRule #PakistanPolitics #SamaaTV
+- Scheduled: Mon 23 Nov, 01:31 AM PKT
 - Caption:
 ```
-A Pakistani national is among two people reported injured in recent Iranian attacks in Bahrain, according to Dawn.
+PTI has urged PPP Chairman Bilawal Bhutto Zardari not to support any extension of Governor’s Rule and emergency.
 
-A Pakistani national is among two individuals reported injured following an Iranian attack in Bahrain, according to reports by Dawn. Authorities continue to monitor the situation after regional escalations impacted the area.
+Pakistan Tehreek-e-Insaf has formally urged Pakistan Peoples Party Chairman Bilawal Bhutto Zardari not to back any potential extension of Governor’s Rule and emergency measures, according to reports by Samaa TV.
 
-ڈان کی رپورٹ کے مطابق بحرین میں ایرانی حملے کے دوران زخمی ہونے والے دو افراد میں ایک پاکستانی شہری بھی شامل ہے۔ حکام صورتحال کا جائزہ لے رہے ہیں۔
+سما ٹی وی کی رپورٹ کے مطابق پاکستان تحریک انصاف نے پاکستان پیپلز پارٹی کے چیئرمین بلاول بھutto زرداری سے مطالبہ کیا ہے کہ وہ گورنر راج اور ایمرجنسی کے نفاذ میں توسیع کی حمایت نہ کریں۔
 
-According to Dawn.
+First reported by Samaa TV.
 
-#Bahrain #Pakistan #Iran #DawnNews
+#PTI #BilawalBhutto #GovernorsRule #PakistanPolitics #SamaaTV
 ```
 
-### Virginia reports first measles-linked child death of 2026  [NORMAL]
-- Poster: ورجینیا میں 2026 کی پہلی خسرہ سے جڑی بچوں کی ہلاکت رپورٹ / Virginia reports first measles-linked death of 2026 in child | category health
-- Alternative headline: Child under 5 dies in Virginia's first measles fatality of 2026
+### Houthis claim targeted strike on Saudi Arabia's Rabigh refinery  [NORMAL]
+- Poster: حوثیوں کا سعودی عرب کی رابغ آئل ریفائنری کو نشانہ بنانے کا دعویٰ / Houthis claim attack on Saudi Rabigh oil refinery | category world
+- Alternative headline: Yemeni Houthis claim missile or drone attack on Saudi Rabigh oil facility
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjhsZTV3NkYzVi1rcmlFNmljS2tjeUdxY3ZvZkJmb0JLQzFTOF9wbDgwY0VPc1ExMkxpNVdsZjFVQ2Q0MWQ5aHYxVW1WYWlOWi1KdjVwVGVvaFRXZC0yOTIzeXhpc2RTSENNVUpRTWRyS0lKQmVHal90NXZ0VTJYcUhSUmZyenRWNjZjODlGUW1qZExmUFE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjhsZTV3NkYzVi1rcmlFNmljS2tjeUdxY3ZvZkJmb0JLQzFTOF9wbDgwY0VPc1ExMkxpNVdsZjFVQ2Q0MWQ5aHYxVW1WYWlOWi1KdjVwVGVvaFRXZC0yOTIzeXhpc2RTSENNVUpRTWRyS0lKQmVHal90NXZ0VTJYcUhSUmZyenRWNjZjODlGUW1qZExmUFE?oc=5
+- Supporting coverage: Pakistan Today, Dawn
+- Keywords: Rabigh refinery, Houthis, Saudi Arabia, oil refinery, Dawn, attack | hashtags: #Houthis #SaudiArabia #OilRefinery #DawnNews #WorldNews
+- Scheduled: Mon 23 Nov, 01:41 AM PKT
+- Caption:
+```
+Yemeni Houthi movement claims to have targeted Saudi Arabia's Rabigh oil refinery in a fresh attack.
+
+Yemeni Houthi forces have claimed responsibility for targeting Saudi Arabia's vital Rabigh oil refinery, according to reports published by Dawn and other news outlets.
+
+ڈان کی رپورٹ کے مطابق یمنی حوثی فورسز نے سعودی عرب کی رابغ آئل ریفائنری کو نشانہ بنانے کا دعویٰ کیا ہے۔
+
+First reported by Dawn.
+
+#Houthis #SaudiArabia #OilRefinery #DawnNews #WorldNews
+```
+
+### Officials condemn 'horrific' ICE arrests at Seattle airport  [NORMAL]
+- Poster: سیٹل ایئرپورٹ پر امریکی امیگریشن کی کارروائی، عہدیداروں کی شدید مذمت / Officials condemn ICE arrests at Seattle airport | category world
+- Alternative headline: Masked ICE agents' forceful detention at Seattle airport draws outrage
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: measles death Virginia, measles, Virginia, child death, health, Al Jazeera | hashtags: #Measles #Virginia #HealthNews #ChildHealth
-- Scheduled: Mon 23 Nov, 01:06 AM PKT
+- Keywords: ICE arrests, Seattle airport, Al Jazeera, immigration, detention, US news | hashtags: #ICE #SeattleAirport #AlJazeera #Immigration #USNews
+- Scheduled: Mon 23 Nov, 01:51 AM PKT
 - Caption:
 ```
-Virginia has reported its first measles-linked death of 2026 involving a child younger than five years old.
+Footage showing masked immigration agents forcibly detaining two people at Seattle airport has sparked widespread condemnation.
 
-Virginia health officials have reported the first measles-linked death of 2026 involving a child under the age of five. The tragic death comes just days after health experts stripped the United States of its measles elimination status amid a rising uptick in cases.
+Footage showing masked US immigration agents forcibly detaining two individuals at Seattle airport has drawn sharp condemnation from officials, who described the tactics as horrific and chilling, according to Al Jazeera.
 
-ورجینیا میں پانچ سال سے کم عمر کے بچے کی خسرہ سے جڑی موت کا پہلا واقعہ رپورٹ ہوا ہے۔ یہ اموات امریکہ سے خسرے کے خاتمے کا درجہ ختم کیے جانے کے چند روز بعد سامنے آئی ہیں۔
+الجزیرہ کے مطابق سیٹل ایئرپورٹ پر نقاب پوش امیگریشن اہلکاروں کی جانب سے دو افراد کو زبردستی حراست میں لینے کی فوٹیج سامنے آنے کے بعد عہدیداروں نے اسے ہولناک قرار دیتے ہوئے شدید مذمت کی ہے۔
 
 First reported by Al Jazeera.
 
-#Measles #Virginia #HealthNews #ChildHealth
+#ICE #SeattleAirport #AlJazeera #Immigration #USNews
 ```
 
-### Ukrainians search through rubble for missing following deadly Russian strikes  [NORMAL]
-- Poster: یوکرین میں روسی حملوں کے بعد تباہ شدہ عمارتوں سے لاشیں نکالنے کا عمل جاری / Ukrainians search for missing after deadly Russian strikes | category war
-- Alternative headline: Three bodies recovered from struck residential building in Kyiv region
+### Liverpool thrash 10-man Man United 4-0 in nightmare start for Pochettino  [NORMAL]
+- Poster: لیورپول نے مانچسٹر یونائیٹڈ کو چار صفر سے شکست دے دی / Liverpool thrash Man United 4-0 at Anfield | category sports
+- Alternative headline: Leny Yoro red card paves way for Liverpool's 4-0 win over Manchester United
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Ukraine Russian strikes, Kyiv, rescue, Russian strike, BBC World | hashtags: #Ukraine #Kyiv #RussiaUkraineWar #BBC
-- Scheduled: Mon 23 Nov, 01:16 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Liverpool vs Man United, Pochettino, Premier League, Al Jazeera, football, Anfield | hashtags: #LIVMUN #PremierLeague #LiverpoolFC #ManUtd #AlJazeera
+- Scheduled: Mon 23 Nov, 02:01 AM PKT
 - Caption:
 ```
-At least three bodies have been recovered from a residential building hit by a Russian strike in the Kyiv region.
+Manchester United suffered a nightmare start under Pochettino after a heavy 4-0 defeat against Liverpool at Anfield.
 
-Rescue workers in Ukraine's Kyiv region are searching through the rubble of a residential building hit by a Russian strike, with at least three bodies recovered so far. Ongoing drone threats continue to hamper rescue and evacuation efforts as locals describe living through a nightmare.
+Manchester United endured a nightmare start under their management as an early red card for Leny Yoro after just eight minutes paved the way for a crushing 4-0 defeat against Liverpool at Anfield, as reported by Al Jazeera.
 
-یوکرین کے علاقے کییف میں روسی فضائی حملے کے بعد رہائشی عمارت کے ملبے سے کم از کم تین لاشیں نکال لی گئی ہیں۔ مسلسل ڈرون خطرات کے باعث امدادی سرگرمیاں شدید متاثر ہو رہی ہیں۔
+الجزیرہ کی رپورٹ کے مطابق میچ کے آٹھویں ہی منٹ میں لینی یورو کو ریڈ کارڈ ملنے کے بعد لیورپول نے اینفیلڈ میں مانچسٹر یونائیٹڈ کو چار کے مقابلے صفر گول سے شکست دے دی۔
 
-First reported by BBC World.
+First reported by Al Jazeera.
 
-#Ukraine #Kyiv #RussiaUkraineWar #BBC
+#LIVMUN #PremierLeague #LiverpoolFC #ManUtd #AlJazeera
 ```
 
-- Indian outlets blocked this run: 11 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
-- [published] normal | President Zardari and PM Shehbaz agree to resolve all matters through  | Fri 20 Nov, 01:26 AM PKT
-- [published] normal | ICJ finds Myanmar guilty of genocide against the Rohingya minority | Fri 20 Nov, 01:36 AM PKT
-- [published] normal | US military spending on the Iran war crosses $48 billion | Fri 20 Nov, 01:46 AM PKT
-- [published] normal | European leaders say Europe is ready for talks with Russia on ending t | Fri 20 Nov, 01:56 AM PKT
 - [published] normal | US Senate Rejects Resolution to Limit Trump's War Powers on Iran | Fri 20 Nov, 02:22 AM PKT
 - [published] normal | Pakistan and ASEAN Agree to Deepen Non-Traditional Security Cooperatio | Fri 20 Nov, 02:32 AM PKT
 - [published] normal | Turkish Energy Minister Arrives in Karachi for Oruç Reis Offshore Miss | Fri 20 Nov, 02:42 AM PKT
@@ -355,10 +366,10 @@ First reported by BBC World.
 - [needs_review] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
 - [needs_review] normal | Karachi placed on high alert amid upcoming political rallies | Sun 22 Nov, 06:28 PM PKT
 - [published] normal | Can the US Congress stop an Iran war like it did in Vietnam? | Sun 22 Nov, 06:57 PM PKT
-- [queued] normal | Italian jeweller and businessman Paolo Bulgari dies aged 89 | Sun 22 Nov, 07:07 PM PKT
-- [queued] normal | Main suspect in Karachi mother-daughter murder arrested in Larkana | Sun 22 Nov, 07:17 PM PKT
-- [queued] normal | Bruno Fernandes puts Manchester United contract talks on hold | Sun 22 Nov, 07:27 PM PKT
-- [queued] normal | Why Iran Has Ramped Up Attacks Across the Gulf | Sun 22 Nov, 07:49 PM PKT
+- [needs_review] normal | Italian jeweller and businessman Paolo Bulgari dies aged 89 | Sun 22 Nov, 07:07 PM PKT
+- [needs_review] normal | Main suspect in Karachi mother-daughter murder arrested in Larkana | Sun 22 Nov, 07:17 PM PKT
+- [needs_review] normal | Bruno Fernandes puts Manchester United contract talks on hold | Sun 22 Nov, 07:27 PM PKT
+- [published] normal | Why Iran Has Ramped Up Attacks Across the Gulf | Sun 22 Nov, 07:49 PM PKT
 - [queued] normal | Iran Has Achieved Military Deterrence Against Enemy: Ghalibaf | Sun 22 Nov, 07:59 PM PKT
 - [queued] normal | Pakistan to Host IAEA Nuclear Security Meeting in Islamabad | Sun 22 Nov, 08:09 PM PKT
 - [queued] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
@@ -378,19 +389,27 @@ First reported by BBC World.
 - [queued] normal | Pakistani national among two injured in Iranian attacks on Bahrain | Mon 23 Nov, 12:56 AM PKT
 - [queued] normal | Virginia reports first measles-linked child death of 2026 | Mon 23 Nov, 01:06 AM PKT
 - [queued] normal | Ukrainians search through rubble for missing following deadly Russian  | Mon 23 Nov, 01:16 AM PKT
+- [queued] promo | [YouTube] MOHSIN NAQVI VS RANA SANAULLAH: WHO WILL BACK DOWN? | Mon 23 Nov, 01:31 AM PKT
+- [queued] normal | PTI urges Bilawal not to back extension of Governor’s Rule | Mon 23 Nov, 01:31 AM PKT
+- [queued] normal | Houthis claim targeted strike on Saudi Arabia's Rabigh refinery | Mon 23 Nov, 01:41 AM PKT
+- [queued] normal | Officials condemn 'horrific' ICE arrests at Seattle airport | Mon 23 Nov, 01:51 AM PKT
+- [queued] normal | Liverpool thrash 10-man Man United 4-0 in nightmare start for Pochetti | Mon 23 Nov, 02:01 AM PKT
 
 ## Publishing this run
-- Published 'Can the US Congress stop an Iran war like it did in Vietnam?'.
+- Published 'Why Iran Has Ramped Up Attacks Across the Gulf'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 4643 | output tokens: 2017
+- Calls: 5 | prompt tokens: 5477 | output tokens: 2360
 - Errors: 3
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
