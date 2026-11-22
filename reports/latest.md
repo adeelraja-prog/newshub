@@ -1,35 +1,35 @@
-# News Hub report - Sun 22 Nov, 11:24 AM PKT
+# News Hub report - Sun 22 Nov, 12:44 PM PKT
 
 ## Collection
-- New items this run: 31 | items in rolling pool: 192
-- Unique story clusters: 168 (duplicates merged: 24)
-- Clusters dropped as already published/queued: 16; unchanged since last analysis: 7
-- Items per outlet: Geo News 6, Dawn 3, Dunya News 3, The Express Tribune 2, Dawn Pakistan 2, Jang Urdu 2, Al Jazeera 2, ProPakistani 2, TechJuice 2, samaa tv 1, ARY News 1, BBC 1
+- New items this run: 60 | items in rolling pool: 225
+- Unique story clusters: 204 (duplicates merged: 21)
+- Clusters dropped as already published/queued: 16; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 15, Geo News 7, samaa tv 5, Al Jazeera 5, BBC 4, Dunya News 3, ARY News 3, Dawn 2, The Express Tribune 2, BBC Business 2, ProPakistani 2, Al-Monitor 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Echoes of Pakistan's shared past in Rawalpindi's neglected temples | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Markets, schools in Rawalpindi to remain open during Punjab CM’s visit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Dozens missing after fire at Indonesian factory | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Forensic evidence points to servant in Hina Javaid murder as probe clears husband | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Portuguese foreign minister arrives in Pakistan for official visit: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jeff Bezos, Lauren Sánchez set their sights on Hollywood's biggest decision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why Somalia’s president turned against his former ally, the UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Echoes of Pakistan's shared past in Rawalpindi's neglected temples | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Markets, schools in Rawalpindi to remain open during Punjab CM’s visit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Dozens missing after fire at Indonesian factory | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Forensic evidence points to servant in Hina Javaid murder as probe clears husband | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Portuguese foreign minister arrives in Pakistan for official visit: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jeff Bezos, Lauren Sánchez set their sights on Hollywood's biggest decision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why Somalia’s president turned against his former ally, the UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Echoes of Pakistan's shared past in Rawalpindi's neglected temples | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Markets, schools in Rawalpindi to remain open during Punjab CM’s visit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Dozens missing after fire at Indonesian factory | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Forensic evidence points to servant in Hina Javaid murder as probe clears husband | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Portuguese foreign minister arrives in Pakistan for official visit: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jeff Bezos, Lauren Sánchez set their sights on Hollywood's biggest decision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why Somalia’s president turned against his former ally, the UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,112 +38,84 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Iran faces a silent economic war, says Iranian president  [NORMAL]
-- Poster: ایران ایک خاموش معاشی جنگ کا سامنا کر رہا ہے: صدر پزشکیان / Iran faces silent economic war: President | category politics
-- Alternative headline: Pezeshkian says Iran engaged in silent economic war
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera, Middle East Eye, chinadailyhk
-- Keywords: Iran economic war, Masoud Pezeshkian, economic blockade, Iran sanctions, Iranian president | hashtags: #Iran #Pezeshkian #Economy #MiddleEast
-- Scheduled: Sun 22 Nov, 11:24 AM PKT
-- Caption:
-```
-Iranian President Pezeshkian has stated that Iran is currently facing a silent economic war as restrictions persist.
-
-Iranian President Masoud Pezeshkian stated that Iran is facing a silent economic war as international pressures and blockades continue to impact the country, drawing attention to ongoing economic challenges.
-
-ایران کے صدر مسعود پزشکیان نے کہا ہے کہ بین الاقوامی دباؤ اور پابندیوں کی وجہ سے ملک کو ایک خاموش معاشی جنگ کا سامنا ہے۔
-
-First reported by Al Jazeera.
-
-#Iran #Pezeshkian #Economy #MiddleEast
-```
-
-### Carlos Alcaraz to face Alexander Zverev for ATP Finals title  [NORMAL]
-- Poster: کار্লোস আলকারাজ اے ٹی پی فائنلز کے ٹائٹل کے لیے زویروف سے مقابلہ کریں گے / Alcaraz to face Zverev for ATP Finals title | category sports
-- Alternative headline: Alcaraz and Zverev set up ATP Finals title clash
+### Portuguese foreign minister arrives in Pakistan for official visit  [NORMAL]
+- Poster: پু্তگالی وزیر خارجہ سرکاری دورے پر پاکستان پہنچ گئے / Portuguese FM arrives in Pakistan | category politics
+- Alternative headline: Foreign Office confirms arrival of Portuguese FM for official visit
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEJrNkgyOU1HN01yRXFRaHlvbWJzOFJCUXpoWXpMcl8zNWdPSXpoSVpPQXV6YmRJd21zUmNyUldyTkJuWXQ3RWR4TlRDMnJBMU5tYkR2REJhaldVWmVuX0tZbGVnOFFVdGFRNXByeVliT1I3d0h6Q0t3LVctdFpDM0JZRQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEJrNkgyOU1HN01yRXFRaHlvbWJzOFJCUXpoWXpMcl8zNWdPSXpoSVpPQXV6YmRJd21zUmNyUldyTkJuWXQ3RWR4TlRDMnJBMU5tYkR2REJhaldVWmVuX0tZbGVnOFFVdGFRNXByeVliT1I3d0h6Q0t3LVctdFpDM0JZRQ?oc=5
-- Supporting coverage: Dawn, Dawn Latest, The Express Tribune
-- Keywords: ATP Finals, Carlos Alcaraz, Alexander Zverev, tennis final | hashtags: #ATPFinals #Alcaraz #Zverev #Tennis
-- Scheduled: Sun 22 Nov, 11:34 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0Fsb0tUZVhPcHBPYXZhYW03TWVLOVBXYVFPWEUzNTFWelhkTFRDVU5fVlVhYlkzZDd6aEVvU2FBa1NSaXA3ZHRTSWVkbE1nVEluMmZmb0JNUGtUUllMNV9ldHJfaU9pYVMxWExMNUFJZFZPRTU0NV9Bc3MwcVAxejhEbGhhVUVzNUc2dmd5ZHJaNXVjNkpoNXdMWXktdDVfdUgteGl3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0Fsb0tUZVhPcHBPYXZhYW03TWVLOVBXYVFPWEUzNTFWelhkTFRDVU5fVlVhYlkzZDd6aEVvU2FBa1NSaXA3ZHRTSWVkbE1nVEluMmZmb0JNUGtUUllMNV9ldHJfaU9pYVMxWExMNUFJZFZPRTU0NV9Bc3MwcVAxejhEbGhhVUVzNUc2dmd5ZHJaNXVjNkpoNXdMWXktdDVfdUgteGl3?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Portuguese foreign minister, Pakistan visit, Foreign Office, diplomatic ties, Portugal Pakistan | hashtags: #Pakistan #Portugal #ForeignOffice #Diplomacy
+- Scheduled: Sun 22 Nov, 12:44 PM PKT
 - Caption:
 ```
-Carlos Alcaraz is set to clash with Alexander Zverev in the ultimate showdown for the ATP Finals title.
+The Portuguese foreign minister has arrived in Pakistan on an official visit, according to the Foreign Office.
 
-Spanish tennis star Carlos Alcaraz is set to face Alexander Zverev in the championship match for the ATP Finals title, following strong performances in the tournament.
+The Portuguese foreign minister has arrived in Pakistan for an official visit, as confirmed by the Foreign Office. The diplomatic visit aims to explore avenues of bilateral cooperation and strengthen ties between the two countries.
 
-ہسپانوی ٹینس اسٹار کار্লোস আলকারাজ اے ٹی پی فائنلز کے ٹائٹل کے لیے الگزینڈر زویروف کے خلاف میدان میں اتریں گے۔
+دفتر خارجہ کے مطابق پ্তگالی وزیر خارجہ سرکاری دورے پر پاکستان پہنچ گئے ہیں۔ اس سفارتی دورے کا مقصد دونوں ممالک کے درمیان دوطرفہ تعلقات کو فروغ دینا اور تعاون کے شعبوں کا جائزہ لینا ہے۔
 
-First reported by Dawn.
+First reported by Dawn
 
-#ATPFinals #Alcaraz #Zverev #Tennis
+#Pakistan #Portugal #ForeignOffice #Diplomacy
 ```
 
-### Exploring echoes of Pakistan's shared past in Rawalpindi's neglected temples  [NORMAL]
-- Poster: راولپنڈی کے غیر توجہ شدہ مندر پاکستان کے مشترکہ ماضی کی یاد دلاتے ہیں / Rawalpindi temples show shared past | category other
-- Alternative headline: Rawalpindi's neglected temples reflect Pakistan's shared historical past
+### Domestic worker implicated in Hina Javaid murder as husband cleared  [NORMAL]
+- Poster: حিনা جاوید قتل کیس: فرانزک رپورٹ میں ملازم نامزد، شوہر بے گناہ قرار / Servant linked to Hina Javaid murder, husband cleared | category crime
+- Alternative headline: Forensic evidence links servant to Hina Javaid murder, clearing husband
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkFmZFlNZ2o3WlFfQ2lyS2oyZVAxaW9SZzVlSVI5Mmhyc3o2OFpianFZUGFTLVgwZW10ZGJWZnl3REQ1NmhkdWdENEhGWnpFbXVtQldRNGV0OW1WYUtiaTFjSUFvMkJOU0ZjRmRRYXBUUkhOZFU4QUFpZDZ2UkJmTTl3Q1VlYkphSzJnYngxRnNNTXN0VDA5NE5JZlhtTkk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkFmZFlNZ2o3WlFfQ2lyS2oyZVAxaW9SZzVlSVI5Mmhyc3o2OFpianFZUGFTLVgwZW10ZGJWZnl3REQ1NmhkdWdENEhGWnpFbXVtQldRNGV0OW1WYUtiaTFjSUFvMkJOU0ZjRmRRYXBUUkhOZFU4QUFpZDZ2UkJmTTl3Q1VlYkphSzJnYngxRnNNTXN0VDA5NE5JZlhtTkk?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Rawalpindi temples, shared past, heritage sites, historic temples | hashtags: #Rawalpindi #Heritage #History #Pakistan
-- Scheduled: Sun 22 Nov, 11:44 AM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046161/forensic-evidence-points-to-servant-in-hina-javaid-murder-as-probe-clears-husband | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046161/forensic-evidence-points-to-servant-in-hina-javaid-murder-as-probe-clears-husband
+- Supporting coverage: Dawn Latest, Dawn Pakistan
+- Keywords: Hina Javaid murder, Rawalpindi police, DNA evidence, domestic worker, court challan | hashtags: #HinaJavaid #Rawalpindi #Justice #CrimeNews
+- Scheduled: Sun 22 Nov, 12:54 PM PKT
 - Caption:
 ```
-A closer look at Rawalpindi's neglected historical temples reveals echoes of Pakistan's shared cultural past.
+Rawalpindi police have submitted a challan in the high-profile Hina Javaid murder case, implicating the domestic servant based on DNA evidence.
 
-An exploration into Rawalpindi's neglected temples highlights the historical architecture and echoes of Pakistan's shared past, shedding light on heritage sites needing preservation.
+Rawalpindi police have completed their investigation into the murder of digital media executive Hina Javaid, submitting a challan after a nearly three-month delay. Forensic DNA evidence points to the domestic servant, while the victim's husband and father-in-law have been cleared of involvement.
 
-راولپنڈی کے نظر انداز شدہ مندروں کا جائزہ پاکستان کے مشترکہ تاریخی ماضی اور ثقافتی ورثے کی جھلک پیش کرتا ہے۔
+راولپنڈی پولیس نے ڈیجیٹل میڈیا ایگزیکٹو حিনা جاوید کے قتل کیس کی تفتیش مکمل کر کے تقریباً تین ماہ کی تاخیر کے بعد عدالت میں چالان جمع کرا دیا ہے۔ فرانزک ڈی این اے رپورٹ کے مطابق ملازم کو مرکزی ملزم قرار دیا گیا ہے جبکہ مقتولہ کے شوہر کو بے گناہ قرار دے دیا گیا ہے۔
 
-First reported by Dawn.
+First reported by Dawn Latest
 
-#Rawalpindi #Heritage #History #Pakistan
+#HinaJavaid #Rawalpindi #Justice #CrimeNews
 ```
 
-### Markets and schools in Rawalpindi to remain open during Punjab CM's visit  [NORMAL]
-- Poster: پنجاب کی وزیراعلیٰ کے دورے کے دوران راولپنڈی کے بازار اور اسکول کھلے رہیں گے / Rawalpindi markets, schools open during CM visit | category politics
-- Alternative headline: Rawalpindi markets and schools won't close for Maryam Nawaz's visit
+### Jeff Bezos and Lauren Sánchez expand their influence across Hollywood  [NORMAL]
+- Poster: جیف بیزوز اور لورین سانچیز کا ہالی ووڈ کے بڑے فیصلوں میں اثر و رسوخ بڑھانے کا فیصلہ / Jeff Bezos and Lauren Sánchez expand Hollywood influence | category lifestyle
+- Alternative headline: Jeff Bezos and Lauren Sánchez eye major creative control in Hollywood
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046153/markets-schools-in-rawalpindi-to-remain-open-during-punjab-cms-visit | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046153/markets-schools-in-rawalpindi-to-remain-open-during-punjab-cms-visit
-- Supporting coverage: Dawn Pakistan, Dawn
-- Keywords: Rawalpindi markets open, Maryam Nawaz, Punjab CM visit, Rawalpindi administration, schools open | hashtags: #Rawalpindi #MaryamNawaz #Punjab #Education
-- Scheduled: Sun 22 Nov, 11:54 AM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/692152-jeff-bezos-lauren-snchez-set-their-sights-on-hollywoods-biggest-decision | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692152-jeff-bezos-lauren-snchez-set-their-sights-on-hollywoods-biggest-decision
+- Supporting coverage: Geo News, samaa tv
+- Keywords: Jeff Bezos Hollywood, Lauren Sánchez, MGM acquisition, film studio, entertainment news | hashtags: #JeffBezos #LaurenSanchez #Hollywood #Entertainment
+- Scheduled: Sun 22 Nov, 01:04 PM PKT
 - Caption:
 ```
-The Rawalpindi administration has confirmed that markets and schools will remain open during the Punjab chief minister's upcoming visit.
+Billionaire Jeff Bezos and Lauren Sánchez are reportedly seeking deeper creative involvement in Hollywood following major studio acquisitions.
 
-Ahead of Punjab Chief Minister Maryam Nawaz's visit to Rawalpindi, the local administration directed that markets, commercial areas, and educational institutions must remain open and maintain normal schedules, avoiding closures seen previously in Jhelum.
+Following Amazon's multi-billion dollar acquisition of MGM, Jeff Bezos and Lauren Sánchez are reportedly looking to take a hands-on approach in Hollywood's major decisions, including casting choices and studio projects, according to insiders.
 
-پنجاب کی وزیراعلیٰ مریم نواز کے دورہ راولپنڈی کے پیش نظر مقامی انتظامیہ نے واضح کیا ہے کہ بازار اور تعلیمی ادارے معمول کے مطابق کھلے رہیں گے۔
+ایمازون کی جانب سے ایم جی ایم اسٹوڈیو کی خریداری کے بعد، ذرائع کا کہنا ہے کہ جیف بیزوز اور لورین سانچیز ہالی ووڈ کے بڑے فیصلوں اور کاسٹنگ کے عمل میں گہری دلچسپی لے رہے ہیں۔
 
-First reported by Dawn Pakistan.
+First reported by Geo News
 
-#Rawalpindi #MaryamNawaz #Punjab #Education
+#JeffBezos #LaurenSanchez #Hollywood #Entertainment
 ```
 
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
-- [needs_review] normal | US targets Hezbollah with fresh sanctions over front charities | Thu 19 Nov, 05:35 AM PKT
-- [needs_review] normal | Claude maker Anthropic eyes massive 1.4 trillion dollar stock debut | Thu 19 Nov, 05:45 AM PKT
-- [needs_review] normal | Scottish government faces questions over plans to issue first ever bon | Thu 19 Nov, 05:55 AM PKT
-- [needs_review] normal | Thirteen-year-old Hunger Games fan to have artwork shown in cinemas | Thu 19 Nov, 06:05 AM PKT
 - [needs_review] normal | Van Gogh painting fetches record $190.4m following dispute resolution | Thu 19 Nov, 07:06 AM PKT
 - [needs_review] normal | Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz | Thu 19 Nov, 07:16 AM PKT
 - [needs_review] normal | Ambulance handover time limits breached over 2,000 times in four month | Thu 19 Nov, 07:26 AM PKT
@@ -159,7 +131,6 @@ First reported by Dawn Pakistan.
 - [needs_review] normal | Trump wants to talk nuclear with Putin and Xi | Thu 19 Nov, 11:13 AM PKT
 - [needs_review] normal | Rangers arrest TTP terrorist in Karachi's Manghopir | Thu 19 Nov, 11:23 AM PKT
 - [needs_review] normal | Search underway after unidentified flying object spotted over Sahiwal  | Thu 19 Nov, 11:33 AM PKT
-- [published] normal | Suparco Warns of Worsening Smog Across Punjab as Hundreds of Fires Rag | Thu 19 Nov, 12:23 PM PKT
 - [needs_review] normal | ICJ Flags Serious Concerns Over Judicial Independence in Pakistan | Thu 19 Nov, 12:33 PM PKT
 - [needs_review] normal | PlayStation Network Suffers Brief Outage Hours Before Highly Anticipat | Thu 19 Nov, 12:43 PM PKT
 - [needs_review] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
@@ -358,10 +329,10 @@ First reported by Dawn Pakistan.
 - [needs_review] normal | Today's Express Tribune ePaper highlights for November 22, 2026 | Sun 22 Nov, 05:06 AM PKT
 - [needs_review] normal | Impunity fuels alarming surge in settler violence across West Bank | Sun 22 Nov, 05:16 AM PKT
 - [published] normal | Nmecha shines as Dortmund defeats Gladbach to claim top spot | Sun 22 Nov, 05:26 AM PKT
-- [queued] normal | Nigeria Youth Power: Why Aren't Young People Shaping This Election? | Sun 22 Nov, 05:59 AM PKT
-- [queued] normal | Clashes Erupt Across France in Another Night of Protest | Sun 22 Nov, 06:09 AM PKT
-- [queued] normal | Iran War Live: Iran Targets US Bases in Bahrain as Houthi Strikes Cont | Sun 22 Nov, 06:19 AM PKT
-- [queued] normal | Minister Seeks Comprehensive Upgrade For Fisheries Sector | Sun 22 Nov, 07:10 AM PKT
+- [needs_review] normal | Nigeria Youth Power: Why Aren't Young People Shaping This Election? | Sun 22 Nov, 05:59 AM PKT
+- [needs_review] normal | Clashes Erupt Across France in Another Night of Protest | Sun 22 Nov, 06:09 AM PKT
+- [needs_review] normal | Iran War Live: Iran Targets US Bases in Bahrain as Houthi Strikes Cont | Sun 22 Nov, 06:19 AM PKT
+- [published] normal | Minister Seeks Comprehensive Upgrade For Fisheries Sector | Sun 22 Nov, 07:10 AM PKT
 - [queued] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 07:20 AM PKT
 - [queued] normal | UN Member States Agree To Formal Talks On Killer Robots | Sun 22 Nov, 07:30 AM PKT
 - [queued] normal | Panic In Peru As Moviegoers Rush For Exits During Earthquake | Sun 22 Nov, 07:40 AM PKT
@@ -373,12 +344,15 @@ First reported by Dawn Pakistan.
 - [queued] normal | Carlos Alcaraz to face Alexander Zverev for ATP Finals title | Sun 22 Nov, 11:34 AM PKT
 - [queued] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
 - [queued] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
+- [queued] normal | Portuguese foreign minister arrives in Pakistan for official visit | Sun 22 Nov, 12:44 PM PKT
+- [queued] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
+- [queued] normal | Jeff Bezos and Lauren Sánchez expand their influence across Hollywood | Sun 22 Nov, 01:04 PM PKT
 
 ## Publishing this run
-- Published 'Nmecha shines as Dortmund defeats Gladbach to claim top spot'.
+- Published 'Minister Seeks Comprehensive Upgrade For Fisheries Sector'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5982 | output tokens: 2476
+- Calls: 3 | prompt tokens: 4699 | output tokens: 2118
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 429 {

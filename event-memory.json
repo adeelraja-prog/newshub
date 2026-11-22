@@ -112719,7 +112719,821 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "58806ca28fada7e3a0064668",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T05:42:47+00:00",
+      "last_update": "2026-11-22T06:55:14+00:00",
+      "event": "Jeff Bezos, Lauren Sánchez set their sights on Hollywood's biggest decision",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bezos",
+        "biggest",
+        "billion",
+        "but",
+        "casting",
+        "couples",
+        "decision",
+        "decisions",
+        "different",
+        "dollar",
+        "entirely",
+        "game",
+        "has",
+        "hollywood",
+        "involving",
+        "jeff",
+        "lauren",
+        "may",
+        "nchez",
+        "one",
+        "playing",
+        "plenty",
+        "potentially",
+        "power",
+        "set",
+        "sights",
+        "studios",
+        "the",
+        "their"
+      ],
+      "source_excerpt": "Jeff Bezos, Lauren Sánchez set their sights on Hollywood's biggest decision Hollywood has plenty of power couples, but Jeff Bezos and Lauren Sánchez may be playing an entirely different game — one involving billion-dollar studios, casting decisions and potentially the...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692152-jeff-bezos-lauren-snchez-set-their-sights-on-hollywoods-biggest-decision",
+          "published_at": "2026-11-22T05:42:47+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmJIS1pzcUtUTkNfMDUtRU5pUnZ1a2cwaTNHak8tMDdvY3JTakduQVlBZlZySGFfbTFYaHJrWHpvaWt5cG10WUcxLW0zTTlCRUFCVndGNXVsejJ1bFdqenV6TkczSlpNeDFHUV93QVJsMUU4eTlfODZZTkVRSEMxTERXREZaMjZYNFlhWE1uaDl6amc3Z1VYQWdLSk0?oc=5",
+          "published_at": "2026-11-22T06:55:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692152-jeff-bezos-lauren-snchez-set-their-sights-on-hollywoods-biggest-decision",
+        "publisher_url": "https://www.geo.tv/latest/692152-jeff-bezos-lauren-snchez-set-their-sights-on-hollywoods-biggest-decision",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dc39a541ce64862cdcaaac4b",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T06:59:59+00:00",
+      "last_update": "2026-11-22T06:59:59+00:00",
+      "event": "Why Somalia’s president turned against his former ally, the UAE",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abu",
+        "against",
+        "ally",
+        "behind",
+        "break",
+        "close",
+        "dhabi",
+        "domestic",
+        "former",
+        "his",
+        "leaders",
+        "lies",
+        "power",
+        "president",
+        "regional",
+        "somalia",
+        "struggle",
+        "the",
+        "turned",
+        "uae",
+        "why",
+        "with"
+      ],
+      "source_excerpt": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+          "published_at": "2026-11-22T06:59:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5573bc0db6b4488f7e229472",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T06:59:59+00:00",
+      "last_update": "2026-11-22T06:59:59+00:00",
+      "event": "The European revolt may be coming to the UK",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "anger",
+        "british",
+        "coming",
+        "enough",
+        "european",
+        "justified",
+        "mass",
+        "may",
+        "protests",
+        "revolt",
+        "spark",
+        "the",
+        "there",
+        "wave",
+        "youth"
+      ],
+      "source_excerpt": "There is enough justified anger among the British youth to spark a wave of mass protests.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
+          "published_at": "2026-11-22T06:59:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5ba3dc878279dd36c1810343",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T06:40:18+00:00",
+      "last_update": "2026-11-22T06:40:18+00:00",
+      "event": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "city",
+        "closely",
+        "current",
+        "debinha",
+        "defeat",
+        "dibernardo",
+        "first",
+        "fought",
+        "give",
+        "goal",
+        "kansas",
+        "left",
+        "lift",
+        "nwsl",
+        "only",
+        "rodman",
+        "scoring",
+        "spirit",
+        "tears",
+        "title",
+        "trinity",
+        "washington",
+        "win"
+      ],
+      "source_excerpt": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+          "published_at": "2026-11-22T06:40:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "61901f2ec9f420530e44e236",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T06:38:26+00:00",
+      "last_update": "2026-11-22T06:38:26+00:00",
+      "event": "Record-breaking sightings of rare moth in Essex",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "breaking",
+        "charity",
+        "essex",
+        "moth",
+        "nature",
+        "now",
+        "population",
+        "rare",
+        "record",
+        "reserve",
+        "says",
+        "self",
+        "sightings",
+        "sustaining",
+        "the",
+        "there"
+      ],
+      "source_excerpt": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T06:38:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "da81715ea37a57da8f55ca50",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T07:22:05+00:00",
+      "last_update": "2026-11-22T07:22:05+00:00",
+      "event": "MP criticises Guernsey and Jersey company ownership register plans",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "and",
+        "andrew",
+        "company",
+        "crime",
+        "criticises",
+        "easier",
+        "financial",
+        "for",
+        "guernsey",
+        "jersey",
+        "mitchell",
+        "ownership",
+        "people",
+        "plans",
+        "register",
+        "says",
+        "should",
+        "sir",
+        "tackling"
+      ],
+      "source_excerpt": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T07:22:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c70fb69dca10b31b16130eb8",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T07:12:41+00:00",
+      "last_update": "2026-11-22T07:12:41+00:00",
+      "event": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aged",
+        "and",
+        "bulgari",
+        "businessman",
+        "dies",
+        "family",
+        "greatest",
+        "him",
+        "his",
+        "italian",
+        "jeweller",
+        "media",
+        "our",
+        "paolo",
+        "remember",
+        "statement",
+        "the",
+        "time"
+      ],
+      "source_excerpt": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T07:12:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "345ce1d7d2ccda5a857056e5",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T07:14:51+00:00",
+      "last_update": "2026-11-22T07:14:51+00:00",
+      "event": "Meet the twins turning small-town dreams into a feature film",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "dreams",
+        "feature",
+        "film",
+        "into",
+        "meet",
+        "small",
+        "the",
+        "town",
+        "turning",
+        "twins"
+      ],
+      "source_excerpt": "Meet the twins turning small-town dreams into a feature film BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iYzA2VkN5V0xJU0REeU13X2FzVlk4SE1IcThUOC1fRzZrYzN0el91empmcmVhUDJaYWtNaklFdm1OaEVqVHRvY0J3N0RoWDhGelI3U1VNa0VFREE?oc=5",
+          "published_at": "2026-11-22T07:14:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iYzA2VkN5V0xJU0REeU13X2FzVlk4SE1IcThUOC1fRzZrYzN0el91empmcmVhUDJaYWtNaklFdm1OaEVqVHRvY0J3N0RoWDhGelI3U1VNa0VFREE?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6c45270eabc9fa9c78af1de1",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T06:23:07+00:00",
+      "last_update": "2026-11-22T06:23:07+00:00",
+      "event": "Funding bid aims to modernise Peterborough's New Theatre building",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aims",
+        "bbc",
+        "bid",
+        "building",
+        "funding",
+        "modernise",
+        "new",
+        "peterborough",
+        "theatre"
+      ],
+      "source_excerpt": "Funding bid aims to modernise Peterborough's New Theatre building BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVdW8ta0RScVRlRDFGZm5XaG5mVTFReHNaY2lvUm04Z3FTVWRxZ3hlRmYwQ01SYUxVV19wTm8ySVhvNVFaYW1rc3lZOERua0gtMFR4RXlmSG5naU0?oc=5",
+          "published_at": "2026-11-22T06:23:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVdW8ta0RScVRlRDFGZm5XaG5mVTFReHNaY2lvUm04Z3FTVWRxZ3hlRmYwQ01SYUxVV19wTm8ySVhvNVFaYW1rc3lZOERua0gtMFR4RXlmSG5naU0?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6860702ea9a6cfc3d7db9efc",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T07:20:17+00:00",
+      "last_update": "2026-11-22T07:20:17+00:00",
+      "event": "Daphne du Maurier's grandson delves into his family's history",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "daphne",
+        "delves",
+        "family",
+        "grandson",
+        "his",
+        "history",
+        "into",
+        "maurier"
+      ],
+      "source_excerpt": "Daphne du Maurier's grandson delves into his family's history BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaWUJPVmhqcUVYaENCamMtcHZydTFXeHhVWU5KUktfeVVDTXlBQUZ3aWpXcDlKZ3RLSWRMWm9Ga1psRHVabU5iQnFRdzhNYkJTeV9DMzByVF9NdDQ?oc=5",
+          "published_at": "2026-11-22T07:20:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaWUJPVmhqcUVYaENCamMtcHZydTFXeHhVWU5KUktfeVVDTXlBQUZ3aWpXcDlKZ3RLSWRMWm9Ga1psRHVabU5iQnFRdzhNYkJTeV9DMzByVF9NdDQ?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e0ce3fe1df3c08e53435c9da",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T07:32:21+00:00",
+      "last_update": "2026-11-22T07:32:21+00:00",
+      "event": "Man who studied drama in young offenders' institute now a West End actor",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actor",
+        "bbc",
+        "drama",
+        "end",
+        "institute",
+        "man",
+        "now",
+        "offenders",
+        "studied",
+        "west",
+        "who",
+        "young"
+      ],
+      "source_excerpt": "Man who studied drama in young offenders' institute now a West End actor BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2QTkzQWZrUzJFUVpCYmExTjhtRzFydVdlcF9tR09jTW1oOHdkdnVMdTI3dklrS0RwclhwWGRXbXB3Y1EyZXU0ZHd4eVJmNkg2T2hrYTZuQ0kwMmc?oc=5",
+          "published_at": "2026-11-22T07:32:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2QTkzQWZrUzJFUVpCYmExTjhtRzFydVdlcF9tR09jTW1oOHdkdnVMdTI3dklrS0RwclhwWGRXbXB3Y1EyZXU0ZHd4eVJmNkg2T2hrYTZuQ0kwMmc?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e210c400887c1c4f4f2472e1",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T06:40:42+00:00",
+      "last_update": "2026-11-22T06:40:42+00:00",
+      "event": "Dunya News - Latest News, Pakistan News, World News, Sports News and Videos",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "dunya",
+        "latest",
+        "news",
+        "pakistan",
+        "sports",
+        "videos",
+        "world"
+      ],
+      "source_excerpt": "Dunya News - Latest News, Pakistan News, World News, Sports News and Videos Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE04endIOGU0MGxTbzM2cUYxU0RuX0hvSTFtdTF4cThMVkNKTEJUYmdrM0VWSkN5ZkR1?oc=5",
+          "published_at": "2026-11-22T06:40:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE04endIOGU0MGxTbzM2cUYxU0RuX0hvSTFtdTF4cThMVkNKTEJUYmdrM0VWSkN5ZkR1?oc=5",
+        "publisher_url": "https://dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "85625e778e387b67833c6a17",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T06:53:00+00:00",
+      "last_update": "2026-11-22T06:53:00+00:00",
+      "event": "Lahore again tops global pollution ranking with AQI above 500",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "382",
+        "463",
+        "500",
+        "above",
+        "across",
+        "afpaqi",
+        "again",
+        "air",
+        "amid",
+        "aqi",
+        "bahawalpur",
+        "era",
+        "garden",
+        "global",
+        "has",
+        "high",
+        "lahore",
+        "levels",
+        "morning",
+        "mughal",
+        "november",
+        "once",
+        "pollution",
+        "punjab",
+        "ranking",
+        "reaches",
+        "reading",
+        "reduces",
+        "reports",
+        "sargodha",
+        "shalimar",
+        "smog",
+        "smoggy",
+        "the",
+        "topped",
+        "tops",
+        "visibility",
+        "visit",
+        "with",
+        "women"
+      ],
+      "source_excerpt": "Women visit the Mughal-era Shalimar Garden on a smoggy morning amid the high air pollution levels in Lahore on November 20, 2026. — AFPAQI reaches 382 in Punjab's Sargodha.Bahawalpur reports high reading of 463.Smog reduces visibility across Punjab. Lahore has once again topped...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692153-lahore-again-tops-global-pollution-ranking-with-aqi-above-500",
+          "published_at": "2026-11-22T06:53:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXRDQzh2bHBUQk8zNmFVUll2Skp5enVrMkVzaS00aU9BTTlRNjg0ZlZkaUgyb1JQd1pvYVFIejVINmZwTUJ5alZRenl6VWlzOGRMUk9UYmtCYzVFcXdlRUxNbHdSenJ4SUlWcGRGN0F3RERJZDZOdl9YQlZFX3UyWWw5NHBMMXJwY2JwV1NjcXJ2d1NqTDlxOHVB?oc=5",
+          "published_at": "2026-11-22T06:53:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692153-lahore-again-tops-global-pollution-ranking-with-aqi-above-500",
+        "publisher_url": "https://www.geo.tv/latest/692153-lahore-again-tops-global-pollution-ranking-with-aqi-above-500",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bbb54c182823082c3e68d562",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T07:04:39+00:00",
+      "last_update": "2026-11-22T07:04:39+00:00",
+      "event": "Pakistan to ‘launch’ medicine verification app on Nov 24 to curb counterfeit drugs",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "app",
+        "counterfeit",
+        "curb",
+        "drugs",
+        "launch",
+        "medicine",
+        "nov",
+        "pakistan",
+        "verification"
+      ],
+      "source_excerpt": "Pakistan to ‘launch’ medicine verification app on Nov 24 to curb counterfeit drugs",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-to-launch-medicine-verification-app-on-nov-24",
+          "published_at": "2026-11-22T07:04:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-to-launch-medicine-verification-app-on-nov-24",
+        "publisher_url": "https://arynews.tv/pakistan-to-launch-medicine-verification-app-on-nov-24",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "505ef5401724609b1977ea19",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T07:10:47+00:00",
+      "last_update": "2026-11-22T07:10:47+00:00",
+      "event": "Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrives",
+        "business",
+        "express",
+        "for",
+        "forum",
+        "inaugural",
+        "pakistan",
+        "portugal",
+        "portuguese",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0syemZWOC02cEZMVFNhbmNDVDhPTFI2Sm9QUHN3Y1JzckoxcHljdXJ4TjYtajY0VUNtNkY2dWpnVTFBTlN5YkdEWlRCMDZFMm9nc09NVXFnZ3dSZG90aDBOMFZBM0E1UV9lUjFRZzZybGg2eEwtQnJ3VnpsNVhfNzZWc0ZhUDBzTnk0am9BdlJGeWZfeU1OS0NjOTZNODJya3EtZkJxTHg1eXFS?oc=5",
+          "published_at": "2026-11-22T07:10:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0syemZWOC02cEZMVFNhbmNDVDhPTFI2Sm9QUHN3Y1JzckoxcHljdXJ4TjYtajY0VUNtNkY2dWpnVTFBTlN5YkdEWlRCMDZFMm9nc09NVXFnZ3dSZG90aDBOMFZBM0E1UV9lUjFRZzZybGg2eEwtQnJ3VnpsNVhfNzZWc0ZhUDBzTnk0am9BdlJGeWZfeU1OS0NjOTZNODJya3EtZkJxTHg1eXFS?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c6fdbea6d36d89d306232699",
+      "remembered_at": "2026-11-22T07:44:50.157878+00:00",
+      "event_date": "2026-11-22T03:58:31+00:00",
+      "last_update": "2026-11-22T03:58:31+00:00",
+      "event": "Fossil fuel dispute threatens to derail COP31 climate deal",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreement",
+        "climate",
+        "cop31",
+        "countries",
+        "day",
+        "deal",
+        "derail",
+        "dispute",
+        "enters",
+        "fossil",
+        "fuel",
+        "overtime",
+        "reach",
+        "second",
+        "struggle",
+        "summit",
+        "the",
+        "threatens",
+        "turkey"
+      ],
+      "source_excerpt": "The UN summit in Turkey enters second day of overtime as countries struggle to reach an agreement.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T03:58:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T06:24:33.255973+00:00"
+  "updated_at": "2026-11-22T07:44:50.157878+00:00"
 }
