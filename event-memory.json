@@ -115915,7 +115915,474 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "daed2007e6ff9241077c0727",
+      "remembered_at": "2026-11-22T14:49:26.130973+00:00",
+      "event_date": "2026-11-22T14:16:27+00:00",
+      "last_update": "2026-11-22T14:16:27+00:00",
+      "event": "Pakistan to host annual meeting of IAEA nuclear security network from Nov 23-26",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "15th",
+        "agency",
+        "and",
+        "annual",
+        "atomic",
+        "centres",
+        "collaboration",
+        "energy",
+        "facilitates",
+        "for",
+        "foreign",
+        "from",
+        "host",
+        "iaea",
+        "international",
+        "islamabad",
+        "meeting",
+        "network",
+        "nov",
+        "nssc",
+        "nuclear",
+        "office",
+        "pakistan",
+        "said",
+        "security",
+        "sunday",
+        "support",
+        "the",
+        "training",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "Pakistan will host the 15th annual meeting of the International Network for Nuclear Security Training and Support Centres (NSSC Network) in Islamabad from Nov 23-26, in collaboration with the International Atomic Energy Agency (IAEA), the Foreign Office (FO) said on Sunday. The network facilitates c",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046329/pakistan-to-host-annual-meeting-of-iaea-nuclear-security-network-from-nov-23-26",
+          "published_at": "2026-11-22T14:16:27+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUJGT1Z4MGJscWxtT2liWDZlNjFfZm5RNEZaVnF4SjZXWDE1dXROQWJMbzJoa01oWHNYTmtzS1cxa0tQZG5nVHdGNkw2a0pxY0tqWlBWanM2aDNSVXM5R2U5M3ozUExma1JYbTJxM2l6TWJWOTg4bm9sWjBTZU5WVXVCbDI1WTNnRmpzV0N4QlRlY0haazIwM3BFTjgtRHJjUW0zcE42SzdnMjJmeFlvYlNRTQ?oc=5",
+          "published_at": "2026-11-22T14:16:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046329/pakistan-to-host-annual-meeting-of-iaea-nuclear-security-network-from-nov-23-26",
+        "publisher_url": "https://www.dawn.com/news/2046329/pakistan-to-host-annual-meeting-of-iaea-nuclear-security-network-from-nov-23-26",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9f4736cd46dc1729dd3716b2",
+      "remembered_at": "2026-11-22T14:49:26.130973+00:00",
+      "event_date": "2026-11-22T14:08:28+00:00",
+      "last_update": "2026-11-22T14:08:28+00:00",
+      "event": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bring",
+        "crime",
+        "criminal",
+        "did",
+        "down",
+        "earliest",
+        "early",
+        "finally",
+        "for",
+        "global",
+        "how",
+        "internet",
+        "manhunt",
+        "network",
+        "one",
+        "paedophile",
+        "police",
+        "reports",
+        "rings",
+        "the",
+        "true",
+        "uncovering"
+      ],
+      "source_excerpt": "A global manhunt for one of the internet's earliest paedophile rings. How did police finally bring it down?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+          "published_at": "2026-11-22T14:08:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "baf15f98882cb0fbee4d59d0",
+      "remembered_at": "2026-11-22T14:49:26.130973+00:00",
+      "event_date": "2026-11-22T14:00:31+00:00",
+      "last_update": "2026-11-22T14:10:09+00:00",
+      "event": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "backed",
+        "baghdad",
+        "deal",
+        "end",
+        "following",
+        "for",
+        "hezbollah",
+        "influence",
+        "iran",
+        "iraq",
+        "jurf",
+        "kataib",
+        "may",
+        "militia",
+        "militias",
+        "next",
+        "not",
+        "over",
+        "push",
+        "sakhar",
+        "the",
+        "town",
+        "what",
+        "with"
+      ],
+      "source_excerpt": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+          "published_at": "2026-11-22T14:00:31+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcU43ZkNEamtwX2Mwdm1QdTYyMzFvZTNWWEp4d0FwckczWGV2dnNudEZpWE1jc2dGRkp6WDVBVjF2TFI4Y0VHV0FSWjZPVmxPS2ZKN256MWhtUXlkRzNRS2tQZzRGZEpmNDVWLUJ0NWo5elNyZEIyMHJ5M3lnWmZ5UXdFVG1zUUlZRlhaNE9vQV9CcnAwdTVHRl85Z2Q2emRXZlV0RXRoOU5QWkFrMWpEVGZOWdIBuAFBVV95cUxQYkFwM1FEb2gxak8ySkFTcnZsLUxoMi0yUG56NW1OSHpKTGZiUV8zWFhpRTNuTm5uaGZ3d19CV3paNHk5YWZYMFBiaHdkME40OW5PN2J1UmlZRWkwSm42cUpDMDhreDItTTFabVJMYVpBX1dOUU5LdlQ0VV9FMEZQWGZxQjN1M0s5OVdiNjNJSjNFU2RvRnhadjJOenB2M3FzVVNYMDZ0S01zanBzY2syaTM5cnNzbWkw?oc=5",
+          "published_at": "2026-11-22T14:10:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "81bed42180060ec44d524bc6",
+      "remembered_at": "2026-11-22T14:49:26.130973+00:00",
+      "event_date": "2026-11-22T13:46:45+00:00",
+      "last_update": "2026-11-22T13:46:45+00:00",
+      "event": "NFL’s Jaylen Harrell hospitalised and investigated for assault in car crash",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "assault",
+        "assaulted",
+        "before",
+        "car",
+        "collision",
+        "crash",
+        "defensive",
+        "driver",
+        "end",
+        "for",
+        "harrell",
+        "hospitalised",
+        "investigated",
+        "investigating",
+        "jaylen",
+        "nfl",
+        "police",
+        "rideshare",
+        "tennessee",
+        "titans",
+        "whether"
+      ],
+      "source_excerpt": "Police in US investigating whether Tennessee Titans defensive end assaulted rideshare driver before collision.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
+          "published_at": "2026-11-22T13:46:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cb56c35e85fb6fabf0880bb3",
+      "remembered_at": "2026-11-22T14:49:26.130973+00:00",
+      "event_date": "2026-11-22T14:35:14+00:00",
+      "last_update": "2026-11-22T14:35:14+00:00",
+      "event": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "city",
+        "dual",
+        "iran",
+        "jazeera",
+        "know",
+        "launcher",
+        "missile",
+        "new",
+        "unveils",
+        "what"
+      ],
+      "source_excerpt": "Iran unveils dual-missile launcher, new ‘missile city’: What to know Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
+          "published_at": "2026-11-22T14:35:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c321d39f3e24575f3eda074b",
+      "remembered_at": "2026-11-22T14:49:26.130973+00:00",
+      "event_date": "2026-11-22T13:46:00+00:00",
+      "last_update": "2026-11-22T13:46:00+00:00",
+      "event": "BBC apologises after noise disruption during Strictly",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "apologises",
+        "bbc",
+        "disruption",
+        "during",
+        "noise",
+        "strictly"
+      ],
+      "source_excerpt": "BBC apologises after noise disruption during Strictly BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zdTUxcHI1SDc3NlluOTRXaHItY0ZWRTVhNjFiWTBrdVZDaWVYSEhBZXRsdy1vZWt5TTRSVEZVOC1EcHFETlFlZ0hZaDczWnN0VWFFVnMzUlA?oc=5",
+          "published_at": "2026-11-22T13:46:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zdTUxcHI1SDc3NlluOTRXaHItY0ZWRTVhNjFiWTBrdVZDaWVYSEhBZXRsdy1vZWt5TTRSVEZVOC1EcHFETlFlZ0hZaDczWnN0VWFFVnMzUlA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c11bd86623523996b43f4619",
+      "remembered_at": "2026-11-22T14:49:26.130973+00:00",
+      "event_date": "2026-11-22T14:28:05+00:00",
+      "last_update": "2026-11-22T14:28:05+00:00",
+      "event": "Shenzhou-24 launch rehearsal marks new milestone in Pakistan-China space co-operation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "china",
+        "launch",
+        "marks",
+        "milestone",
+        "new",
+        "operation",
+        "pakistan",
+        "rehearsal",
+        "samaa",
+        "shenzhou",
+        "space"
+      ],
+      "source_excerpt": "Shenzhou-24 launch rehearsal marks new milestone in Pakistan-China space co-operation samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkRCM2M2bkNOSzk2RWxneHM0Qi1YTlZ1RzFGZDljbWhwZElNZEYtb0lNNFVDbDBHTy1WbGFPSXBFaUI5amFBN0s2MkV3TmxMLXZOeFF0T2NmaE9XTVdvU0lRcHlLUEZibW1OUW1RcUJIMG1CUUFVajVrTWl0cGxhSnZiYUNWekJRX0tEcDF2ZGcwektNNUJVdEVJbVlsUHA3SnFFT2VNR01ibk5WR0oyX2Jka2FqXzkxZFZVSThZT0NDQ2tUb2hFZ29ETQ?oc=5",
+          "published_at": "2026-11-22T14:28:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkRCM2M2bkNOSzk2RWxneHM0Qi1YTlZ1RzFGZDljbWhwZElNZEYtb0lNNFVDbDBHTy1WbGFPSXBFaUI5amFBN0s2MkV3TmxMLXZOeFF0T2NmaE9XTVdvU0lRcHlLUEZibW1OUW1RcUJIMG1CUUFVajVrTWl0cGxhSnZiYUNWekJRX0tEcDF2ZGcwektNNUJVdEVJbVlsUHA3SnFFT2VNR01ibk5WR0oyX2Jka2FqXzkxZFZVSThZT0NDQ2tUb2hFZ29ETQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c755be9901f10bf28719c09",
+      "remembered_at": "2026-11-22T14:49:26.130973+00:00",
+      "event_date": "2026-11-22T14:03:56+00:00",
+      "last_update": "2026-11-22T14:03:56+00:00",
+      "event": "4 injured as gunmen open fire on passenger bus in Balochistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "balochistan",
+        "bus",
+        "fire",
+        "gunmen",
+        "injured",
+        "open",
+        "passenger",
+        "samaa"
+      ],
+      "source_excerpt": "4 injured as gunmen open fire on passenger bus in Balochistan samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGNGOFptay1kZ2Uxa1NDMkpMOXp2QnJUd1RaTFhpdGZKTlJXeVduR2hOTUg5ZFFzMGlCY0FSWTVmMG9WNlJheTU3ZjhhYng1dnkxOXNLT1BNZy1PRXhFcGo0UkdVZ21MN2JFc0pCY0NEeEJPb0tnalByRHBqMGwwOGZJc3JfY1RicEFqNzQ4S2V5TDVLeFdyUUx4SzhZWG9NdWxVbjV1YnNHUjg?oc=5",
+          "published_at": "2026-11-22T14:03:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGNGOFptay1kZ2Uxa1NDMkpMOXp2QnJUd1RaTFhpdGZKTlJXeVduR2hOTUg5ZFFzMGlCY0FSWTVmMG9WNlJheTU3ZjhhYng1dnkxOXNLT1BNZy1PRXhFcGo0UkdVZ21MN2JFc0pCY0NEeEJPb0tnalByRHBqMGwwOGZJc3JfY1RicEFqNzQ4S2V5TDVLeFdyUUx4SzhZWG9NdWxVbjV1YnNHUjg?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3121b1730e5426f259512c86",
+      "remembered_at": "2026-11-22T14:49:26.130973+00:00",
+      "event_date": "2026-11-22T12:57:00+00:00",
+      "last_update": "2026-11-22T12:57:00+00:00",
+      "event": "Cardi B debuts ‘Don't Chart' live performance at GTA VI Festival",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "auto",
+        "brought",
+        "cardi",
+        "chart",
+        "debuts",
+        "delivered",
+        "don",
+        "during",
+        "energetic",
+        "festival",
+        "grand",
+        "gta",
+        "her",
+        "latest",
+        "live",
+        "miami",
+        "performance",
+        "rapper",
+        "saturday",
+        "soundtrack",
+        "stage",
+        "the",
+        "theft",
+        "track"
+      ],
+      "source_excerpt": "Cardi B debuts ‘Don’t Chart’ live performance at GTA VI Festival Cardi B brought her latest Grand Theft Auto VI soundtrack track to the stage in Miami. The rapper delivered an energetic performance of Don’t Chart during the GTA VI Festival on Saturday,...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692190-cardi-b-debuts-dont-chart-live-performance-at-gta-vi-festival",
+          "published_at": "2026-11-22T12:57:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692190-cardi-b-debuts-dont-chart-live-performance-at-gta-vi-festival",
+        "publisher_url": "https://www.geo.tv/latest/692190-cardi-b-debuts-dont-chart-live-performance-at-gta-vi-festival",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T13:57:50.072814+00:00"
+  "updated_at": "2026-11-22T14:49:26.130973+00:00"
 }

@@ -1,35 +1,35 @@
-# News Hub report - Sun 22 Nov, 06:57 PM PKT
+# News Hub report - Sun 22 Nov, 07:49 PM PKT
 
 ## Collection
-- New items this run: 88 | items in rolling pool: 502
-- Unique story clusters: 426 (duplicates merged: 76)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 3
-- Items per outlet: UrduPoint 40, Jang Urdu 4, Al Jazeera 4, Engadget 4, Profit by Pakistan Today 4, Geo News 3, Dawn Latest 3, ARY News 3, The Verge 3, ProPakistani 3, Pakistan Today 2, The News International 1
+- New items this run: 131 | items in rolling pool: 589
+- Unique story clusters: 503 (duplicates merged: 86)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 3
+- Items per outlet: UrduPoint 100, Al Jazeera 5, ProPakistani 5, Engadget 3, Geo News 2, samaa tv 2, The Verge 2, The Express Tribune 1, Dawn Pakistan 1, ARY News 1, Dawn 1, Fortune 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Italian jeweller and businessman Paolo Bulgari dies aged 89 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi mother-daughter murder: Main suspect arrested in Larkana | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Congress helped end the Vietnam War. Can it stop the Iran war? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bruno Fernandes says contract talks on hold as Man United battle poor start | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- School wins mental health and wellbeing award | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan to host annual meeting of IAEA nuclear security network from Nov 23-26 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Major fire erupts at a fuel station in Lagos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Children in besieged Gaza struggle to find life-saving insulin for diabetes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Italian jeweller and businessman Paolo Bulgari dies aged 89 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi mother-daughter murder: Main suspect arrested in Larkana | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Congress helped end the Vietnam War. Can it stop the Iran war? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bruno Fernandes says contract talks on hold as Man United battle poor start | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- School wins mental health and wellbeing award | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan to host annual meeting of IAEA nuclear security network from Nov 23-26 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Major fire erupts at a fuel station in Lagos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Children in besieged Gaza struggle to find life-saving insulin for diabetes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Italian jeweller and businessman Paolo Bulgari dies aged 89 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi mother-daughter murder: Main suspect arrested in Larkana | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Congress helped end the Vietnam War. Can it stop the Iran war? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bruno Fernandes says contract talks on hold as Man United battle poor start | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- School wins mental health and wellbeing award | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan to host annual meeting of IAEA nuclear security network from Nov 23-26 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Major fire erupts at a fuel station in Lagos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Children in besieged Gaza struggle to find life-saving insulin for diabetes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,111 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Can the US Congress stop an Iran war like it did in Vietnam?  [NORMAL]
-- Poster: کیا امریکی کانگریس ایران جنگ روک سکتی ہے؟ / Can the US Congress stop an Iran war? | category us_politics
-- Alternative headline: Looking back at Vietnam: Can the US Congress halt an Iran conflict?
+### Why Iran Has Ramped Up Attacks Across the Gulf  [NORMAL]
+- Poster: خلیج فارس میں ایران کے حملوں میں اضافہ کیوں ہوا؟ / Why Did Iran Escalate Gulf Attacks? | category us_politics
+- Alternative headline: The Pressure Behind Iran's Recent Escalation in the Gulf
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss
 - Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: US Congress, Vietnam War, Iran war, funding, Saigon | hashtags: #USCongress #VietnamWar #Iran #USPolitics #AlJazeera
-- Scheduled: Sun 22 Nov, 06:57 PM PKT
+- Keywords: Iran attacks, Gulf escalation, US sanctions, Tehran, naval blockade | hashtags: #Iran #Gulf #US #MiddleEast #AlJazeera
+- Scheduled: Sun 22 Nov, 07:49 PM PKT
 - Caption:
 ```
-History shows the US Congress once helped end the Vietnam War by cutting off funding. Could it do the same regarding Iran?
+Tehran has intensified its attacks as a US naval blockade and heavy sanctions severely squeeze the country's economy.
 
-As tensions rise, observers look back at history when the US Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon. The historical precedent raises questions about whether lawmakers can halt a potential conflict with Iran.
+Tehran has stepped up its attacks in the region as a US naval blockade and ongoing sanctions campaign continue to inflict heavy economic pressure on the country.
 
-جیسے جیسے کشیدگی بڑھ رہی ہے، مبصرین تاریخ کا رخ کر رہے ہیں جب امریکی کانگریس نے ویتنام جنگ کے لیے فنڈز پر پابندی لگائی تھی۔ اس تاریخی مثال سے یہ سوال اٹھتا ہے کہ کیا قانون ساز ایران کے ساتھ ممکنہ تنازع کو روک سکتے ہیں۔
+امریکہ کی بحری ناکہ بندی اور پابندیوں کی مہم کی وجہ سے ملک کو معاشی نقصان پہنچنے پر تہران نے خلیج میں حملوں میں اضافہ کر دیا ہے۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#USCongress #VietnamWar #Iran #USPolitics #AlJazeera
+#Iran #Gulf #US #MiddleEast #AlJazeera
 ```
 
-### Italian jeweller and businessman Paolo Bulgari dies aged 89  [NORMAL]
-- Poster: مشہور اطالوی جوتوں اور جیولری برانڈ کے پاول بلگاری 89 برس کی عمر میں انتقال کر گئے / Italian jeweller Paolo Bulgari dies at 89 | category other
-- Alternative headline: Paolo Bulgari, visionary behind the global luxury brand, passes away at 89
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business, Reuters
-- Keywords: Paolo Bulgari, Bvlgari, jeweller, Rome, luxury brand | hashtags: #PaoloBulgari #Bvlgari #Italy #Luxury #BBCCBusiness
-- Scheduled: Sun 22 Nov, 07:07 PM PKT
-- Caption:
-```
-Paolo Bulgari, the visionary who helped turn his family business into a global luxury powerhouse, has passed away at 89.
-
-Italian jeweller and businessman Paolo Bulgari has died in Rome at the age of 89. As Chairman of the Bvlgari Group since 1984, he helped transform his family's boutique firm into a global luxury brand adorned by celebrities and royalty.
-
-اطالوی جوہری اور کاروباری شخصیت پاول بلگاری روم میں 89 برس کی عمر میں انتقال کر گئے ہیں۔ 1984 سے بلگاری گروپ کے چیئرمین کی حیثیت سے انہوں نے اپنے خاندانی کاروبار کو ایک عالمی لگژری برانڈ میں تبدیل کرنے میں اہم کردار ادا کیا۔
-
-First reported by BBC Business.
-
-#PaoloBulgari #Bvlgari #Italy #Luxury #BBCCBusiness
-```
-
-### Main suspect in Karachi mother-daughter murder arrested in Larkana  [NORMAL]
-- Poster: کراچی میں ماں اور بیٹی کے قتل کا مرکزی ملزم لاڑکانہ سے گرفتار / Main suspect in Karachi murder arrested | category crime
-- Alternative headline: Larkana police arrest main suspect in Gulshan-e-Hadeed double murder
+### Iran Has Achieved Military Deterrence Against Enemy: Ghalibaf  [NORMAL]
+- Poster: ایران نے دشمن کے خلاف فوجی ڈیٹرنس حاصل کر لیا ہے: قالیباف / Iran Achieved Military Deterrence: Ghalibaf | category other
+- Alternative headline: Ghalibaf Claims Iran Reached Military Deterrence Point Against Enemy
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/karachi-mother-daughter-murder-main-suspect-arrested-in-larkana | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/karachi-mother-daughter-murder-main-suspect-arrested-in-larkana
-- Supporting coverage: ARY News
-- Keywords: Karachi murder, Larkana, Gulshan-e-Hadeed, arrest, police | hashtags: #Karachi #Larkana #Crime #PakistanPolice #ARYNews
-- Scheduled: Sun 22 Nov, 07:17 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxPTDFZa0g0dUVTUkZnSllkMzFtcXF3SjBMa2tEZXlxcVFfQUNvaENJM0llamNRcVR3VUJjLVhfYWRub1hzUDNPSUp5clF3VlJPYW92Ump0X05zTXgxUHRZck1GQ2N3dTIxdG0tRlg4enhNX0NYZVRCbG9mWDFyWkJSblJsajdtVndkRkViaUM2bGZfSjJDQ2o4?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxPTDFZa0g0dUVTUkZnSllkMzFtcXF3SjBMa2tEZXlxcVFfQUNvaENJM0llamNRcVR3VUJjLVhfYWRub1hzUDNPSUp5clF3VlJPYW92Ump0X05zTXgxUHRZck1GQ2N3dTIxdG0tRlg4enhNX0NYZVRCbG9mWDFyWkJSblJsajdtVndkRkViaUM2bGZfSjJDQ2o4?oc=5
+- Supporting coverage: Mehr News Agency, samaa tv, Kurdistan24
+- Keywords: Ghalibaf, Iran military, deterrence, samaa tv | hashtags: #Iran #Ghalibaf #Military #Deterrence #SamaaTV
+- Scheduled: Sun 22 Nov, 07:59 PM PKT
 - Caption:
 ```
-Police have arrested the main suspect involved in the tragic murder of a mother and her daughter in Karachi.
+Top Iranian official Ghalibaf asserts that the country has successfully established military deterrence against its adversaries.
 
-Police arrested the main suspect, Mubashir, from Larkana in connection with the murder of a woman and her daughter in Karachi’s Gulshan-e-Hadeed area. According to SSP Investigation Malir, the suspect confessed to the killings following an argument.
+Iran has successfully achieved military deterrence against its enemies, according to statements highlighted by Samaa TV citing regional reports.
 
-پولیس نے کراچی کے علاقے گلشن حدید میں ایک خاتون اور ان کی بیٹی کے قتل میں ملوث مرکزی ملزم مبشر کو لاڑکانہ سے گرفتار کر لیا ہے۔ ایس ایس پی انویسٹی گیشن ملیر کے مطابق ملزم نے تلخ کلامی کے بعد قتل کرنے کا اعتراف کر لیا ہے۔
+سما ٹی وی کی رپورٹ کے مطابق ایران نے دشمن کے خلاف فوجی ڈیٹرنس حاصل کر لیا ہے، جس کا اظہار قالیباف نے کیا۔
 
-First reported by ARY News.
+First reported by samaa tv
 
-#Karachi #Larkana #Crime #PakistanPolice #ARYNews
+#Iran #Ghalibaf #Military #Deterrence #SamaaTV
 ```
 
-### Bruno Fernandes puts Manchester United contract talks on hold  [NORMAL]
-- Poster: برونو فرنینڈس نے مانچسٹر یونائیٹڈ کے ساتھ معاہدے کے مذاکرات روک دیے / Bruno Fernandes pauses Man United contract talks | category sports
-- Alternative headline: Man United captain Bruno Fernandes delays contract talks amid tough start
+### Pakistan to Host IAEA Nuclear Security Meeting in Islamabad  [NORMAL]
+- Poster: پاکستان آئی اے ای اے کے جوہری سیکیورٹی نیٹ ورک کے اجلاس کی میزبانی کرے گا / Pakistan to Host IAEA Nuclear Meeting | category other
+- Alternative headline: Islamabad Set to Host 15th IAEA Nuclear Security Network Meeting
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046329/pakistan-to-host-annual-meeting-of-iaea-nuclear-security-network-from-nov-23-26 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046329/pakistan-to-host-annual-meeting-of-iaea-nuclear-security-network-from-nov-23-26
+- Supporting coverage: Dawn Pakistan, Dawn
+- Keywords: IAEA, Pakistan, Islamabad, nuclear security, Foreign Office | hashtags: #Pakistan #IAEA #Islamabad #NuclearSecurity #Dawn
+- Scheduled: Sun 22 Nov, 08:09 PM PKT
+- Caption:
+```
+Pakistan is set to host the 15th annual meeting of the IAEA's nuclear security network in Islamabad.
+
+Pakistan will host the 15th annual meeting of the International Network for Nuclear Security Training and Support Centres in Islamabad from November 23-26 in collaboration with the IAEA, according to the Foreign Office.
+
+ترجمان دفتر خارجہ کے مطابق پاکستان 23 سے 26 نومبر تک اسلام آباد میں آئی اے ای اے کے تعاون سے جوہری سیکیورٹی ٹریننگ نیٹ ورک کے 15ویں سالانہ اجلاس کی میزبانی کرے گا۔
+
+First reported by Dawn Pakistan
+
+#Pakistan #IAEA #Islamabad #NuclearSecurity #Dawn
+```
+
+### Major Fire Erupts at Fuel Station in Lagos  [NORMAL]
+- Poster: لاگوس کے فیول اسٹیشن پر خوفناک آتشزدگی / Major Fire at Lagos Fuel Station | category disaster
+- Alternative headline: Fuel Station Catches Fire in Major Lagos Incident
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Bruno Fernandes, Manchester United, contract talks, Premier League, football | hashtags: #BrunoFernandes #ManchesterUnited #PremierLeague #Football #AlJazeera
-- Scheduled: Sun 22 Nov, 07:27 PM PKT
+- Keywords: Lagos fire, fuel station, Al Jazeera, fire outbreak | hashtags: #Lagos #Fire #Nigeria #BreakingNews #AlJazeera
+- Scheduled: Sun 22 Nov, 08:19 PM PKT
 - Caption:
 ```
-Manchester United captain Bruno Fernandes has confirmed that contract talks are currently on hold.
+A major fire has broken out at a fuel station in Lagos, according to recent video reports.
 
-Manchester United captain Bruno Fernandes has stated that contract talks are on hold as the club navigates a difficult start to the season. His current deal is set to expire at the end of the season, though the club retains an extension option.
+A major fire erupted at a fuel station in Lagos, as captured in newsfeed reports provided by Al Jazeera.
 
-مانچسٹر یونائیٹڈ کے کپتان برونو فرنینڈس نے تصدیق کی ہے کہ کلب کے مشکل آغاز کے باعث ان کے معاہدے کے مذاکرات فی الحال معطل ہیں۔ ان کا موجودہ معاہدہ سیزن کے اختتام پر ختم ہو رہا ہے، حالانکہ کلب کے پاس توسیع کا اختیار موجود ہے۔
+الجزیرہ کی رپورٹ کے مطابق لاگوس میں ایک فیول اسٹیشن پر شدید آگ بھڑک اٹھی ہے۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#BrunoFernandes #ManchesterUnited #PremierLeague #Football #AlJazeera
+#Lagos #Fire #Nigeria #BreakingNews #AlJazeera
 ```
 
 - Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
+- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
-- [needs_review] normal | ICJ Flags Serious Concerns Over Judicial Independence in Pakistan | Thu 19 Nov, 12:33 PM PKT
-- [needs_review] normal | PlayStation Network Suffers Brief Outage Hours Before Highly Anticipat | Thu 19 Nov, 12:43 PM PKT
-- [needs_review] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
 - [needs_review] normal | Sindh CM proposes Wuhan-style city management model for Karachi | Thu 19 Nov, 03:06 PM PKT
 - [needs_review] normal | Oil prices rise as Middle East shipping attacks counter supply surplus | Thu 19 Nov, 03:44 PM PKT
 - [needs_review] normal | Elon Musk says record spending on US midterms was 'pretty foolish' | Thu 19 Nov, 03:54 PM PKT
@@ -351,7 +348,7 @@ First reported by Al Jazeera.
 - [published] normal | Portuguese foreign minister arrives in Pakistan for official visit | Sun 22 Nov, 12:44 PM PKT
 - [needs_review] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
 - [published] normal | Jeff Bezos and Lauren Sánchez expand their influence across Hollywood | Sun 22 Nov, 01:04 PM PKT
-- [queued] normal | Trump's exit strategy may depend on quietly lifting Iran blockade | Sun 22 Nov, 02:30 PM PKT
+- [published] normal | Trump's exit strategy may depend on quietly lifting Iran blockade | Sun 22 Nov, 02:30 PM PKT
 - [queued] normal | Three dead and 36 missing after Indonesian factory fire | Sun 22 Nov, 02:40 PM PKT
 - [queued] normal | Veteran journalist Hussain Naqi passes away in Lahore | Sun 22 Nov, 02:50 PM PKT
 - [queued] normal | Three TTP-linked terrorists killed in CTD operation near Peshawar | Sun 22 Nov, 03:00 PM PKT
@@ -372,12 +369,16 @@ First reported by Al Jazeera.
 - [queued] normal | Italian jeweller and businessman Paolo Bulgari dies aged 89 | Sun 22 Nov, 07:07 PM PKT
 - [queued] normal | Main suspect in Karachi mother-daughter murder arrested in Larkana | Sun 22 Nov, 07:17 PM PKT
 - [queued] normal | Bruno Fernandes puts Manchester United contract talks on hold | Sun 22 Nov, 07:27 PM PKT
+- [queued] normal | Why Iran Has Ramped Up Attacks Across the Gulf | Sun 22 Nov, 07:49 PM PKT
+- [queued] normal | Iran Has Achieved Military Deterrence Against Enemy: Ghalibaf | Sun 22 Nov, 07:59 PM PKT
+- [queued] normal | Pakistan to Host IAEA Nuclear Security Meeting in Islamabad | Sun 22 Nov, 08:09 PM PKT
+- [queued] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
 
 ## Publishing this run
-- Published 'Jeff Bezos and Lauren Sánchez expand their influence across Hollywood'.
+- Published 'Trump's exit strategy may depend on quietly lifting Iran blockade'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5382 | output tokens: 2421
+- Calls: 3 | prompt tokens: 5712 | output tokens: 2052
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
