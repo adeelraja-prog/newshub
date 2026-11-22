@@ -1,35 +1,35 @@
-# News Hub report - Sun 22 Nov, 05:58 PM PKT
+# News Hub report - Sun 22 Nov, 06:57 PM PKT
 
 ## Collection
-- New items this run: 138 | items in rolling pool: 442
-- Unique story clusters: 376 (duplicates merged: 66)
-- Clusters dropped as already published/queued: 21; unchanged since last analysis: 0
-- Items per outlet: UrduPoint 100, Geo News 5, ARY News 5, Al Jazeera 4, Profit by Pakistan Today 4, samaa tv 3, Jang Urdu 2, ARYnews.tv 1, Dawn 1, The News International 1, Dunya News 1, Dawn Pakistan 1
+- New items this run: 88 | items in rolling pool: 502
+- Unique story clusters: 426 (duplicates merged: 76)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 3
+- Items per outlet: UrduPoint 40, Jang Urdu 4, Al Jazeera 4, Engadget 4, Profit by Pakistan Today 4, Geo News 3, Dawn Latest 3, ARY News 3, The Verge 3, ProPakistani 3, Pakistan Today 2, The News International 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- India | Latest News & Updates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UAE condemns Iranian attacks on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mutiple roads closed for traffic in Karachi ahead of demonstration, rally by political parties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi placed on 'high alert', traffic advisory issued ahead of planned rallies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi on high alert: Police roll out contingency plan amid rallies and protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Italian jeweller and businessman Paolo Bulgari dies aged 89 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi mother-daughter murder: Main suspect arrested in Larkana | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Congress helped end the Vietnam War. Can it stop the Iran war? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bruno Fernandes says contract talks on hold as Man United battle poor start | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- School wins mental health and wellbeing award | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- India | Latest News & Updates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UAE condemns Iranian attacks on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mutiple roads closed for traffic in Karachi ahead of demonstration, rally by political parties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi placed on 'high alert', traffic advisory issued ahead of planned rallies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi on high alert: Police roll out contingency plan amid rallies and protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Italian jeweller and businessman Paolo Bulgari dies aged 89 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi mother-daughter murder: Main suspect arrested in Larkana | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Congress helped end the Vietnam War. Can it stop the Iran war? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bruno Fernandes says contract talks on hold as Man United battle poor start | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- School wins mental health and wellbeing award | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- India | Latest News & Updates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UAE condemns Iranian attacks on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mutiple roads closed for traffic in Karachi ahead of demonstration, rally by political parties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi placed on 'high alert', traffic advisory issued ahead of planned rallies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi on high alert: Police roll out contingency plan amid rallies and protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Italian jeweller and businessman Paolo Bulgari dies aged 89 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi mother-daughter murder: Main suspect arrested in Larkana | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Congress helped end the Vietnam War. Can it stop the Iran war? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bruno Fernandes says contract talks on hold as Man United battle poor start | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- School wins mental health and wellbeing award | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Major Karachi roads closed as political parties stage rallies  [NORMAL]
-- Poster: کراچی میں سیاسی جماعتوں کے احتجاج کے باعث اہم سڑکیں بند / Major roads closed in Karachi amid political rallies | category politics
-- Alternative headline: Traffic disrupted in Karachi due to political demonstrations and rallies
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046320/mutiple-roads-closed-for-traffic-in-karachi-ahead-of-demonstration-rally-by-political-parties | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046320/mutiple-roads-closed-for-traffic-in-karachi-ahead-of-demonstration-rally-by-political-parties
-- Supporting coverage: Dawn Pakistan, Dawn Pakistan
-- Keywords: Karachi traffic, JUI-F, JSRC, road closures, protest, Sindh | hashtags: #Karachi #TrafficAlert #JUIF #Protest #Pakistan
-- Scheduled: Sun 22 Nov, 05:58 PM PKT
-- Caption:
-```
-Multiple roads in Karachi were closed to traffic on Sunday as political parties and nationalist groups staged demonstrations across the city.
-
-Multiple roads were closed in Karachi as the Jamiat Ulema-i-Islam-Fazl staged a demonstration and the Jeay Sindh Rehbar Committee held a rally. While some routes have now been reopened, several key thoroughfares remain blocked due to security reasons and ongoing political protests.
-
-کراچی میں جے یو آئی ف کے مظاہرے اور جئے سندھ رہبر کمیٹی کی ریلی کے باعث متعدد سڑکیں ٹریفک کے لیے بند کر دی گئیں۔ کچھ راستے کھول دیے گئے ہیں جبکہ سیکیورٹی اور احتجاج کے باعث کئی اہم شاہراہیں اب بھی بند ہیں۔
-
-First reported by Dawn Pakistan
-
-#Karachi #TrafficAlert #JUIF #Protest #Pakistan
-```
-
-### Latest news and updates regarding India from BBC  [NORMAL]
-- Poster: بھارت سے متعلق تازہ ترین خبریں اور اپ ڈیٹس / Latest news and updates on India | category other
-- Alternative headline: BBC coverage on recent developments in India
+### Can the US Congress stop an Iran war like it did in Vietnam?  [NORMAL]
+- Poster: کیا امریکی کانگریس ایران جنگ روک سکتی ہے؟ / Can the US Congress stop an Iran war? | category us_politics
+- Alternative headline: Looking back at Vietnam: Can the US Congress halt an Iran conflict?
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BRS1adzJoeFlUU0FSNWktWG9WamR6dUJfRGREY2VUZ3FCVENXZkFseEhpZE1iakJRakt0cmJ0VWVsQm1ZSTJ0QjQ3QnBZdlpjcTZr?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BRS1adzJoeFlUU0FSNWktWG9WamR6dUJfRGREY2VUZ3FCVENXZkFseEhpZE1iakJRakt0cmJ0VWVsQm1ZSTJ0QjQ3QnBZdlpjcTZr?oc=5
-- Supporting coverage: BBC
-- Keywords: India news, BBC, updates, latest news | hashtags: #India #BBC #News #Global
-- Scheduled: Sun 22 Nov, 06:08 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: US Congress, Vietnam War, Iran war, funding, Saigon | hashtags: #USCongress #VietnamWar #Iran #USPolitics #AlJazeera
+- Scheduled: Sun 22 Nov, 06:57 PM PKT
 - Caption:
 ```
-Get the latest news and updates regarding India from BBC's ongoing coverage.
+History shows the US Congress once helped end the Vietnam War by cutting off funding. Could it do the same regarding Iran?
 
-This is a general news feed entry providing the latest news and updates concerning India, as reported by the BBC.
+As tensions rise, observers look back at history when the US Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon. The historical precedent raises questions about whether lawmakers can halt a potential conflict with Iran.
 
-یہ بی بی سی کی جانب سے بھارت کے حوالے سے تازہ ترین خبروں اور اپ ڈیٹس پر مشتمل ایک عمومی خبر ہے۔
+جیسے جیسے کشیدگی بڑھ رہی ہے، مبصرین تاریخ کا رخ کر رہے ہیں جب امریکی کانگریس نے ویتنام جنگ کے لیے فنڈز پر پابندی لگائی تھی۔ اس تاریخی مثال سے یہ سوال اٹھتا ہے کہ کیا قانون ساز ایران کے ساتھ ممکنہ تنازع کو روک سکتے ہیں۔
 
-First reported by BBC
+First reported by Al Jazeera.
 
-#India #BBC #News #Global
+#USCongress #VietnamWar #Iran #USPolitics #AlJazeera
 ```
 
-### Pakistani resident among two injured in Iranian attacks on Bahrain  [NORMAL]
-- Poster: بحرین میں ایرانی حملے کے دوران پاکستانی شہری سمیت دو افراد زخمی / Pakistani among two injured in Iranian attacks in Bahrain | category war
-- Alternative headline: UAE condemns Iranian attacks as Pakistani national is injured in Bahrain
+### Italian jeweller and businessman Paolo Bulgari dies aged 89  [NORMAL]
+- Poster: مشہور اطالوی جوتوں اور جیولری برانڈ کے پاول بلگاری 89 برس کی عمر میں انتقال کر گئے / Italian jeweller Paolo Bulgari dies at 89 | category other
+- Alternative headline: Paolo Bulgari, visionary behind the global luxury brand, passes away at 89
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business, Reuters
+- Keywords: Paolo Bulgari, Bvlgari, jeweller, Rome, luxury brand | hashtags: #PaoloBulgari #Bvlgari #Italy #Luxury #BBCCBusiness
+- Scheduled: Sun 22 Nov, 07:07 PM PKT
+- Caption:
+```
+Paolo Bulgari, the visionary who helped turn his family business into a global luxury powerhouse, has passed away at 89.
+
+Italian jeweller and businessman Paolo Bulgari has died in Rome at the age of 89. As Chairman of the Bvlgari Group since 1984, he helped transform his family's boutique firm into a global luxury brand adorned by celebrities and royalty.
+
+اطالوی جوہری اور کاروباری شخصیت پاول بلگاری روم میں 89 برس کی عمر میں انتقال کر گئے ہیں۔ 1984 سے بلگاری گروپ کے چیئرمین کی حیثیت سے انہوں نے اپنے خاندانی کاروبار کو ایک عالمی لگژری برانڈ میں تبدیل کرنے میں اہم کردار ادا کیا۔
+
+First reported by BBC Business.
+
+#PaoloBulgari #Bvlgari #Italy #Luxury #BBCCBusiness
+```
+
+### Main suspect in Karachi mother-daughter murder arrested in Larkana  [NORMAL]
+- Poster: کراچی میں ماں اور بیٹی کے قتل کا مرکزی ملزم لاڑکانہ سے گرفتار / Main suspect in Karachi murder arrested | category crime
+- Alternative headline: Larkana police arrest main suspect in Gulshan-e-Hadeed double murder
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5hZGhuN01hTGktV2FuU2N1cHhaQVNDRUxhMXpQdmlOZ1lST1JsaVotcXFianozOEZZMWktSzU4U2RjZHlQZ01pMTZUQk1NcGd4SEdOcmhNX2l3bndIR2x5djFLaHNxTmtZaDlpdERQYVBOcmtqaS0zUEFLcVBfQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5hZGhuN01hTGktV2FuU2N1cHhaQVNDRUxhMXpQdmlOZ1lST1JsaVotcXFianozOEZZMWktSzU4U2RjZHlQZ01pMTZUQk1NcGd4SEdOcmhNX2l3bndIR2x5djFLaHNxTmtZaDlpdERQYVBOcmtqaS0zUEFLcVBfQQ?oc=5
-- Supporting coverage: Dawn, Dawn, Dawn, Dawn Latest
-- Keywords: Bahrain attack, Pakistani injured, Iran, UAE, Middle East | hashtags: #Bahrain #Pakistan #Iran #UAE #MiddleEast
-- Scheduled: Sun 22 Nov, 06:18 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/karachi-mother-daughter-murder-main-suspect-arrested-in-larkana | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/karachi-mother-daughter-murder-main-suspect-arrested-in-larkana
+- Supporting coverage: ARY News
+- Keywords: Karachi murder, Larkana, Gulshan-e-Hadeed, arrest, police | hashtags: #Karachi #Larkana #Crime #PakistanPolice #ARYNews
+- Scheduled: Sun 22 Nov, 07:17 PM PKT
 - Caption:
 ```
-Bahrain announced that a Pakistani resident is in critical condition among two people injured in recent Iranian attacks.
+Police have arrested the main suspect involved in the tragic murder of a mother and her daughter in Karachi.
 
-Bahrain reported that two people, including a Pakistani resident who is in critical condition, were injured in recent Iranian attacks. Meanwhile, the UAE has strongly condemned the attacks on Bahrain.
+Police arrested the main suspect, Mubashir, from Larkana in connection with the murder of a woman and her daughter in Karachi’s Gulshan-e-Hadeed area. According to SSP Investigation Malir, the suspect confessed to the killings following an argument.
 
-بحرین نے بتایا ہے کہ حالیہ ایرانی حملوں میں دو افراد زخمی ہوئے جن میں ایک پاکستانی رہائشی بھی شامل ہے جو نازک حالت میں ہے۔ ادھر متحدہ عرب امارات نے بحرین پر حملوں کی شدید مذمت کی ہے۔
+پولیس نے کراچی کے علاقے گلشن حدید میں ایک خاتون اور ان کی بیٹی کے قتل میں ملوث مرکزی ملزم مبشر کو لاڑکانہ سے گرفتار کر لیا ہے۔ ایس ایس پی انویسٹی گیشن ملیر کے مطابق ملزم نے تلخ کلامی کے بعد قتل کرنے کا اعتراف کر لیا ہے۔
 
-First reported by Dawn
+First reported by ARY News.
 
-#Bahrain #Pakistan #Iran #UAE #MiddleEast
+#Karachi #Larkana #Crime #PakistanPolice #ARYNews
 ```
 
-### Karachi placed on high alert amid upcoming political rallies  [NORMAL]
-- Poster: سیاسی ریلیوں کے پیش نظر کراچی میں ہائی الرٹ نافذ / Karachi on high alert ahead of political rallies | category security
-- Alternative headline: Traffic advisories and heavy police deployment as Karachi prepares for protests
+### Bruno Fernandes puts Manchester United contract talks on hold  [NORMAL]
+- Poster: برونو فرنینڈس نے مانچسٹر یونائیٹڈ کے ساتھ معاہدے کے مذاکرات روک دیے / Bruno Fernandes pauses Man United contract talks | category sports
+- Alternative headline: Man United captain Bruno Fernandes delays contract talks amid tough start
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692170-karachi-placed-on-high-alert-traffic-advisory-issued-ahead-of-planned-rallies | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692170-karachi-placed-on-high-alert-traffic-advisory-issued-ahead-of-planned-rallies
-- Supporting coverage: Geo News, Geo News
-- Keywords: Karachi high alert, police, rallies, protests, security, traffic advisory | hashtags: #Karachi #HighAlert #Security #Protests #Sindh
-- Scheduled: Sun 22 Nov, 06:28 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Bruno Fernandes, Manchester United, contract talks, Premier League, football | hashtags: #BrunoFernandes #ManchesterUnited #PremierLeague #Football #AlJazeera
+- Scheduled: Sun 22 Nov, 07:27 PM PKT
 - Caption:
 ```
-Police have placed Karachi on high alert and issued traffic advisories ahead of planned political protests and rallies.
+Manchester United captain Bruno Fernandes has confirmed that contract talks are currently on hold.
 
-Police have placed security on high alert across Karachi ahead of planned protest demonstrations and rallies. Heavy contingents have been deployed in sensitive areas like the Red Zone and Karachi Press Club, while containers are being moved to manage traffic and maintain law and order.
+Manchester United captain Bruno Fernandes has stated that contract talks are on hold as the club navigates a difficult start to the season. His current deal is set to expire at the end of the season, though the club retains an extension option.
 
-متوقع احتجاجی مظاہروں اور ریلیوں کے پیش نظر پولیس نے کراچی بھر میں سیکیورٹی ہائی الرٹ کر دی ہے۔ ریڈ زون اور کراچی پریس کلب سمیت حساس علاقوں میں پولیس کی بھاری نفری تعینات کر دی گئی ہے۔
+مانچسٹر یونائیٹڈ کے کپتان برونو فرنینڈس نے تصدیق کی ہے کہ کلب کے مشکل آغاز کے باعث ان کے معاہدے کے مذاکرات فی الحال معطل ہیں۔ ان کا موجودہ معاہدہ سیزن کے اختتام پر ختم ہو رہا ہے، حالانکہ کلب کے پاس توسیع کا اختیار موجود ہے۔
 
-First reported by Geo News
+First reported by Al Jazeera.
 
-#Karachi #HighAlert #Security #Protests #Sindh
+#BrunoFernandes #ManchesterUnited #PremierLeague #Football #AlJazeera
 ```
 
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
 
 ## Queue status
 - [needs_review] normal | ICJ Flags Serious Concerns Over Judicial Independence in Pakistan | Thu 19 Nov, 12:33 PM PKT
@@ -349,8 +349,8 @@ First reported by Geo News
 - [needs_review] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
 - [needs_review] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
 - [published] normal | Portuguese foreign minister arrives in Pakistan for official visit | Sun 22 Nov, 12:44 PM PKT
-- [queued] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
-- [queued] normal | Jeff Bezos and Lauren Sánchez expand their influence across Hollywood | Sun 22 Nov, 01:04 PM PKT
+- [needs_review] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
+- [published] normal | Jeff Bezos and Lauren Sánchez expand their influence across Hollywood | Sun 22 Nov, 01:04 PM PKT
 - [queued] normal | Trump's exit strategy may depend on quietly lifting Iran blockade | Sun 22 Nov, 02:30 PM PKT
 - [queued] normal | Three dead and 36 missing after Indonesian factory fire | Sun 22 Nov, 02:40 PM PKT
 - [queued] normal | Veteran journalist Hussain Naqi passes away in Lahore | Sun 22 Nov, 02:50 PM PKT
@@ -368,19 +368,22 @@ First reported by Geo News
 - [queued] normal | Latest news and updates regarding India from BBC | Sun 22 Nov, 06:08 PM PKT
 - [queued] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
 - [queued] normal | Karachi placed on high alert amid upcoming political rallies | Sun 22 Nov, 06:28 PM PKT
+- [queued] normal | Can the US Congress stop an Iran war like it did in Vietnam? | Sun 22 Nov, 06:57 PM PKT
+- [queued] normal | Italian jeweller and businessman Paolo Bulgari dies aged 89 | Sun 22 Nov, 07:07 PM PKT
+- [queued] normal | Main suspect in Karachi mother-daughter murder arrested in Larkana | Sun 22 Nov, 07:17 PM PKT
+- [queued] normal | Bruno Fernandes puts Manchester United contract talks on hold | Sun 22 Nov, 07:27 PM PKT
 
 ## Publishing this run
-- Published 'Portuguese foreign minister arrives in Pakistan for official visit'.
+- Published 'Jeff Bezos and Lauren Sánchez expand their influence across Hollywood'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 5587 | output tokens: 2135
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 3 | prompt tokens: 5382 | output tokens: 2421
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+    "message": "This model is currently experiencing high demand. Spikes i
