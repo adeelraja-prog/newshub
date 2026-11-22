@@ -109299,7 +109299,412 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "89a4322160d22a258a25f2c9",
+      "remembered_at": "2026-11-22T02:10:42.835044+00:00",
+      "event_date": "2026-11-21T18:25:05+00:00",
+      "last_update": "2026-11-22T00:08:00+00:00",
+      "event": "Iran to ration electricity as war hits energy network",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "electricity",
+        "energy",
+        "hits",
+        "iran",
+        "network",
+        "ration",
+        "war"
+      ],
+      "source_excerpt": "Iran to ration electricity as war hits energy network Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjNkYUxaSk9tc01JT0EyNFpnNG9JWll6UXJ3N0loWVB5TG1LZTg1bnRYaU82YlpOOTRHc3ZURU91eXpwUFpLTS13V0d0S25nOEhPY2dIUjgyd1F5b1BRSWw4UWxXWGxxaDNJWHhfNVk4OFpIWXJUOG9xUGZESE13RFc5RzZLODVQQVR5dkp6Q2w?oc=5",
+          "published_at": "2026-11-21T18:25:05+00:00"
+        },
+        {
+          "name": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSG1SU1FCV0gzcm9KY3pNU2J6R1d1TEs3ZEV1cGxpTHROcFl0UHdISWJrNlV5em9VdUlPdGpaS0oweFZ2VzBZWndoTF9KakRTZ2V4T0tIQl9JdjM5RVNnUldPNXoxMVh3WHV1T0dsYWhYREI4bHJNQ1dtTG51Nm5yWFYwekhISmE1aVpYNTU4UGpmQ0x1X1Z3UXBR?oc=5",
+          "published_at": "2026-11-21T22:57:19+00:00"
+        },
+        {
+          "name": "Inquirer.net",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORloxR1FEdHpyVXRMeGY0T1NtaHpNdUNOSkRvMkphUHNmRkl0QXRSUzhja1djMGhaSkZDX3JZMTdPNUhwUWVyUVk3T3pWU1BTUjM1TUdQS3VVeDJyYU96YVFjNlFjc1JJYWVNRXpmbk5sU2ljeDdlSWlSUlU5RWNQSXFuTnpsblhkdmttcnZieXpLQ1N6VjdyWi1B0gGfAUFVX3lxTE1xUGdRZzNpZmZWQ3RLdTh1bzVEelJkRVpNRTdDa09DXzhyMWwyYkdHVTJkeVVmNUstOEltbFNXUFhKR0tmZGZ1cnBpMTFFUTZVdlUwR1dwaDBIVGNuT3pnZkt6c2laVFlFV2t3bTVRYlVvUVFjY3I1cGhJc2ZYRF9kUFdKM2JSMWZ1WGJfZjhyVFRXV0ZLdnlHcVBOd2g4VQ?oc=5",
+          "published_at": "2026-11-21T23:29:00+00:00"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelVfdHNnX2Eyc1oyMUtzLXBMY1RmWTYySTVrc2N2aUQxRlhfSVBEVWtTcWpjVzRiWkJRZHI0V1RkVFRWR1M4MUhfcFVBLS1VN1lTSWlCd2JQTENoRTViZ2g1SDBFM2Jwc2oycXZGWVFIS2RIakdNcDM4N0dMWnNvU3hyUGVZSWtWb0xJOFdjTmI3SUdhX0I1cjZtaGhpNlFOS1E?oc=5",
+          "published_at": "2026-11-22T00:08:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjNkYUxaSk9tc01JT0EyNFpnNG9JWll6UXJ3N0loWVB5TG1LZTg1bnRYaU82YlpOOTRHc3ZURU91eXpwUFpLTS13V0d0S25nOEhPY2dIUjgyd1F5b1BRSWw4UWxXWGxxaDNJWHhfNVk4OFpIWXJUOG9xUGZESE13RFc5RzZLODVQQVR5dkp6Q2w?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eaa57874d7d2ebb444985d53",
+      "remembered_at": "2026-11-22T02:10:42.835044+00:00",
+      "event_date": "2026-11-21T20:03:37+00:00",
+      "last_update": "2026-11-22T01:21:03+00:00",
+      "event": "States agree UN talks on 'killer robots'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agree",
+        "express",
+        "killer",
+        "robots",
+        "states",
+        "talks",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "States agree UN talks on 'killer robots' The Express Tribune",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "published_at": "2026-11-21T20:03:37+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVJvQkRVQVFadmQ0WS1pcHQxQ01NSHo2Wmd5MG1fcXBxbktfZ3ZUQjZ4Ulo5RGRtTW1NeVMtXzZUNGNNRVZOSFdNdWNXV2lJSjZCeTNBZGU3R21PVG9wdXNGY091ZjR1THA4S3JKVUlmY0p0NTFsSjNnd19uU3lZSNIBiAFBVV95cUxPY2J6Z2tNcVBHWXcxNXc2WDIwNzJYaXBTMElhVlU2WEplREpKWklHYi1ETzVIaWM4SmJiQTZGZ3Y4YWVyamg3U2pDZXVpY25zUjNhb2lFRkltb2pKNGkyNWZnWE5qSzNhQUtvblhQb0c1WmpTV2tWQV9rWGRXZEJQdmFvMXQ0dmp2?oc=5",
+          "published_at": "2026-11-22T01:21:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVJvQkRVQVFadmQ0WS1pcHQxQ01NSHo2Wmd5MG1fcXBxbktfZ3ZUQjZ4Ulo5RGRtTW1NeVMtXzZUNGNNRVZOSFdNdWNXV2lJSjZCeTNBZGU3R21PVG9wdXNGY091ZjR1THA4S3JKVUlmY0p0NTFsSjNnd19uU3lZSNIBiAFBVV95cUxPY2J6Z2tNcVBHWXcxNXc2WDIwNzJYaXBTMElhVlU2WEplREpKWklHYi1ETzVIaWM4SmJiQTZGZ3Y4YWVyamg3U2pDZXVpY25zUjNhb2lFRkltb2pKNGkyNWZnWE5qSzNhQUtvblhQb0c1WmpTV2tWQV9rWGRXZEJQdmFvMXQ0dmp2?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f3b6225b881303be173a6d66",
+      "remembered_at": "2026-11-22T02:10:42.835044+00:00",
+      "event_date": "2026-11-22T01:07:19+00:00",
+      "last_update": "2026-11-22T01:07:19+00:00",
+      "event": "Moviegoers head for the exits as quake strikes Peru",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "exits",
+        "for",
+        "head",
+        "moviegoers",
+        "peru",
+        "quake",
+        "strikes",
+        "the"
+      ],
+      "source_excerpt": "Moviegoers head for the exits as quake strikes Peru",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+          "published_at": "2026-11-22T01:07:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "77ba4df39fd8308d483f5c94",
+      "remembered_at": "2026-11-22T02:10:42.835044+00:00",
+      "event_date": "2026-11-22T01:50:53+00:00",
+      "last_update": "2026-11-22T01:50:53+00:00",
+      "event": "Smog worsens in Lahore",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "lahore",
+        "smog",
+        "the",
+        "tribune",
+        "worsens"
+      ],
+      "source_excerpt": "Smog worsens in Lahore The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SN1dDRjV2RUpOZGY3VDhzazBvSVBsWkRIR21BZlRnblZ3eUxnWVJySmJqbDFUN193ck9ZS1NaR1hUc3hBcGJSUmRFaVp0Y1NVWEtBU21rQmpuTGpfOHhSQzN5MDAwY1E3YWdV0gFzQVVfeXFMUEx2MHlCd3F1bmtQNEQ0M0I5N05LRURidlUtaXdqQlpiQ1Y1LXE1TnZ6a3NkRE5QeDZlX3FTRGlPWmtCUVlEakk3UEZfbnZXN2VRX2V6RFpCT3J2SXl6YU1xRndhbmpJdUp4QTB6M0Z1bkFpQQ?oc=5",
+          "published_at": "2026-11-22T01:50:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SN1dDRjV2RUpOZGY3VDhzazBvSVBsWkRIR21BZlRnblZ3eUxnWVJySmJqbDFUN193ck9ZS1NaR1hUc3hBcGJSUmRFaVp0Y1NVWEtBU21rQmpuTGpfOHhSQzN5MDAwY1E3YWdV0gFzQVVfeXFMUEx2MHlCd3F1bmtQNEQ0M0I5N05LRURidlUtaXdqQlpiQ1Y1LXE1TnZ6a3NkRE5QeDZlX3FTRGlPWmtCUVlEakk3UEZfbnZXN2VRX2V6RFpCT3J2SXl6YU1xRndhbmpJdUp4QTB6M0Z1bkFpQQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b7b6ed068c30551d3b9211bf",
+      "remembered_at": "2026-11-22T02:10:42.835044+00:00",
+      "event_date": "2026-11-22T00:55:10+00:00",
+      "last_update": "2026-11-22T00:55:10+00:00",
+      "event": "Inter-provincial robbery gang busted, seven held",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "busted",
+        "express",
+        "gang",
+        "held",
+        "inter",
+        "provincial",
+        "robbery",
+        "seven",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Inter-provincial robbery gang busted, seven held The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUmNYQ3p4ZU9BTW01TDB1MC1qUXJuS0RYWHgwS2FUdXo1aVR4bDNJQnNNQXBtaVpEMEUxVjltTW5Gd3NPeU1ma0hnLXJlbjZ6LWltQU1HVUJsR1RSbGNDemNOWXBnWlhDY1VGU2tWVVlIM05UY1ByX3VuelJPNmZhZ25pNUxKZVdFWkxvadIBlAFBVV95cUxONzBVYUxVeHU1blVmMWpRaEtCaDZpSmZDbFMxUk1Bb1JqcXlBOWFFR3ZJZlhqc3ROOTVjd1lMdzdIRHlPUWt0clBnZ0N6VmRlR2ZPSTlTTmdnWE1DbG9oajRLdFZYanBPTVFUMjVMcFhWRVBsX1NNM0lPNWdzUFBRU3NKS3FrY2RsOWowdF84bGNUMHo1?oc=5",
+          "published_at": "2026-11-22T00:55:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUmNYQ3p4ZU9BTW01TDB1MC1qUXJuS0RYWHgwS2FUdXo1aVR4bDNJQnNNQXBtaVpEMEUxVjltTW5Gd3NPeU1ma0hnLXJlbjZ6LWltQU1HVUJsR1RSbGNDemNOWXBnWlhDY1VGU2tWVVlIM05UY1ByX3VuelJPNmZhZ25pNUxKZVdFWkxvadIBlAFBVV95cUxONzBVYUxVeHU1blVmMWpRaEtCaDZpSmZDbFMxUk1Bb1JqcXlBOWFFR3ZJZlhqc3ROOTVjd1lMdzdIRHlPUWt0clBnZ0N6VmRlR2ZPSTlTTmdnWE1DbG9oajRLdFZYanBPTVFUMjVMcFhWRVBsX1NNM0lPNWdzUFBRU3NKS3FrY2RsOWowdF84bGNUMHo1?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8da92b04ce7c41df17836f65",
+      "remembered_at": "2026-11-22T02:10:42.835044+00:00",
+      "event_date": "2026-11-22T01:21:00+00:00",
+      "last_update": "2026-11-22T01:21:00+00:00",
+      "event": "Meghan Markle makes beige her festive colour in new campaign",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appears",
+        "beige",
+        "beside",
+        "campaign",
+        "choice",
+        "christmas",
+        "colour",
+        "cosy",
+        "cream",
+        "dressed",
+        "duchess",
+        "embracing",
+        "ever",
+        "evergreen",
+        "festive",
+        "fireplace",
+        "for",
+        "her",
+        "knit",
+        "latest",
+        "looked",
+        "makes",
+        "making",
+        "markle",
+        "meghan",
+        "new",
+        "outfit",
+        "palette",
+        "posed",
+        "roaring",
+        "she",
+        "soft",
+        "sussex",
+        "the",
+        "this",
+        "with"
+      ],
+      "source_excerpt": "Meghan Markle appears to be making beige her colour of choice this Christmas, embracing a soft palette for the latest festive campaign for As Ever. The Duchess of Sussex looked cosy m in a cream knit outfit as she posed beside a roaring fireplace dressed with evergreen...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692136-meghan-markle-makes-beige-her-festive-colour-in-new-campaign",
+          "published_at": "2026-11-22T01:21:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692136-meghan-markle-makes-beige-her-festive-colour-in-new-campaign",
+        "publisher_url": "https://www.geo.tv/latest/692136-meghan-markle-makes-beige-her-festive-colour-in-new-campaign",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3da89173297722b69e58763c",
+      "remembered_at": "2026-11-22T02:10:42.835044+00:00",
+      "event_date": "2026-11-22T01:19:00+00:00",
+      "last_update": "2026-11-22T01:19:00+00:00",
+      "event": "‘Strictly Come Dancing' hit by controversy as police get involved",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bbc",
+        "blackpool",
+        "can",
+        "caught",
+        "come",
+        "coming",
+        "confusion",
+        "controversy",
+        "dancers",
+        "dancing",
+        "during",
+        "from",
+        "get",
+        "heard",
+        "hit",
+        "home",
+        "involved",
+        "its",
+        "leaving",
+        "live",
+        "moaning",
+        "people",
+        "performing",
+        "police",
+        "show",
+        "sounds",
+        "special",
+        "strange",
+        "strictly",
+        "the",
+        "they",
+        "viewers",
+        "watching",
+        "were",
+        "where",
+        "while",
+        "wondering"
+      ],
+      "source_excerpt": "The BBC’s Strictly Come Dancing show caught up in confusion after viewers heard strange moaning sounds during its live Blackpool special. The sounds can be heard while the dancers were performing, leaving people watching at home wondering where they were coming from. The...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692139-strictly-come-dancing-hit-by-controversy-as-police-get-involved",
+          "published_at": "2026-11-22T01:19:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692139-strictly-come-dancing-hit-by-controversy-as-police-get-involved",
+        "publisher_url": "https://www.geo.tv/latest/692139-strictly-come-dancing-hit-by-controversy-as-police-get-involved",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8ee32d3018cfe6ec45eb2c09",
+      "remembered_at": "2026-11-22T02:10:42.835044+00:00",
+      "event_date": "2026-11-22T01:05:07+00:00",
+      "last_update": "2026-11-22T01:05:07+00:00",
+      "event": "Imran, Bushra examined at Adiala",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adiala",
+        "bushra",
+        "examined",
+        "express",
+        "imran",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Imran, Bushra examined at Adiala The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvenFzc0VuX3VDMWVRRHpNNmswN3FHbHhXa0tDQU82Vl9FWTlkUk5DY1lFSGF5TzJVSGxFSjFsRkxBOEFLTlpXSFN1cWNWU1VrUnpUOTZJYlZsbzBsbXFkWE14SWgyWkIwRk5aaHlkYXNBcUlwQTZZ0gF_QVVfeXFMT3ZTbFRoRjE0eFBPbG4zYzhWTGJxcnNwQU0tVVRaTUNtb3BVOUVpOXM2TFBfYmgyY1BJSW1QaVRwT0gwS1M4NHFVWGRFYlJoXzZ3ZTNDb3RuLXBlNWVzU1dQbFU4Z3AtbFE3bTJMRVNGWndvUmU3bkFWMmtxRDRMVQ?oc=5",
+          "published_at": "2026-11-22T01:05:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvenFzc0VuX3VDMWVRRHpNNmswN3FHbHhXa0tDQU82Vl9FWTlkUk5DY1lFSGF5TzJVSGxFSjFsRkxBOEFLTlpXSFN1cWNWU1VrUnpUOTZJYlZsbzBsbXFkWE14SWgyWkIwRk5aaHlkYXNBcUlwQTZZ0gF_QVVfeXFMT3ZTbFRoRjE0eFBPbG4zYzhWTGJxcnNwQU0tVVRaTUNtb3BVOUVpOXM2TFBfYmgyY1BJSW1QaVRwT0gwS1M4NHFVWGRFYlJoXzZ3ZTNDb3RuLXBlNWVzU1dQbFU4Z3AtbFE3bTJMRVNGWndvUmU3bkFWMmtxRDRMVQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T00:59:47.505646+00:00"
+  "updated_at": "2026-11-22T02:10:42.835044+00:00"
 }
