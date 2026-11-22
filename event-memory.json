@@ -116908,7 +116908,311 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "57d8efcf5b32f5f6f7a3481e",
+      "remembered_at": "2026-11-22T16:26:11.745760+00:00",
+      "event_date": "2026-11-22T15:23:00+00:00",
+      "last_update": "2026-11-22T16:05:25+00:00",
+      "event": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "caused",
+        "drone",
+        "eastern",
+        "explosion",
+        "government",
+        "incident",
+        "investigate",
+        "libya",
+        "officials",
+        "port",
+        "rival",
+        "russia",
+        "russian",
+        "say",
+        "says",
+        "ship",
+        "suspected",
+        "the",
+        "with",
+        "working"
+      ],
+      "source_excerpt": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+      "sources": [
+        {
+          "name": "The Moscow Times",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRjNvckRDSFBPYzJxdnBDTHhlMWNpQWdGbXBydjlra1lzRnR4RjJZcVNnMzd5UElxRXVsek5yckZLaVB4V091QTRORW9jbXpPdjQyVmtOenFuY0FhNjRCUm1ja1pIdkdYckFTR2xpWk5IYnZ5REFUR29WbWZ2NERhT2JSUE1GbVFFc2RVR0NOUWFoOGNKMEI3M1pTZUt1eDREWEtDZjA4S0JJeDUyNEN3bVpmemNjanh6ZjE3UFlQQkd6enRzQjVQdlcwc2ZmRHBSclBvMC1Uc3U2eFp0TDBR?oc=5",
+          "published_at": "2026-11-22T15:23:00+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T16:05:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2cc2c2ede333cec1b2f939e3",
+      "remembered_at": "2026-11-22T16:26:11.745760+00:00",
+      "event_date": "2026-11-22T10:14:35+00:00",
+      "last_update": "2026-11-22T15:25:36+00:00",
+      "event": "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "building",
+        "drone",
+        "hit",
+        "kyiv",
+        "least",
+        "missing",
+        "people",
+        "region",
+        "russian",
+        "says",
+        "zelenskiy"
+      ],
+      "source_excerpt": "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says",
+          "published_at": "2026-11-22T10:14:35+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFVaTW9pTmlsOG1RR0VEVjdQWlFHcnFuTVh6TEJIcXhsU3Z3UjZlNDhkYXBYeUNtTEpxeDFaRFBwcGVUcmdwS29yOUwyMXpyYVY2TkszNWR4ako3Yml5MnVKbk1wNmhSSjR5dlFJWVdNQmQ0dDFQZFVMTmlmZnpTX2dMMGk4cGNrVFVhS1ZoeTI4cnhqeHlDY3NhSnFFeHhoUlBzMERna0VoM2pDaEc1U3BOVWp3MEVBTjB4V3NWdmNQU0V4?oc=5",
+          "published_at": "2026-11-22T15:25:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says",
+        "publisher_url": "https://arynews.tv/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0380325fe90c61f657264814",
+      "remembered_at": "2026-11-22T16:26:11.745760+00:00",
+      "event_date": "2026-11-22T16:06:46+00:00",
+      "last_update": "2026-11-22T16:06:46+00:00",
+      "event": "Canada’s PM appears next to Trump impersonator at press dinner",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alongside",
+        "annual",
+        "appears",
+        "canada",
+        "carney",
+        "dinner",
+        "donald",
+        "gallery",
+        "impersonator",
+        "mark",
+        "next",
+        "parliamentary",
+        "press",
+        "stage",
+        "the",
+        "took",
+        "trump"
+      ],
+      "source_excerpt": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+          "published_at": "2026-11-22T16:06:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "73ae370d1ee8084fbe8f88b1",
+      "remembered_at": "2026-11-22T16:26:11.745760+00:00",
+      "event_date": "2026-11-22T15:30:09+00:00",
+      "last_update": "2026-11-22T15:30:09+00:00",
+      "event": "Can we build a more ethical AI future?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "and",
+        "anil",
+        "build",
+        "can",
+        "dash",
+        "entrepreneur",
+        "ethical",
+        "fight",
+        "for",
+        "future",
+        "hill",
+        "lamont",
+        "marc",
+        "more",
+        "risks",
+        "speaks",
+        "tech",
+        "technology",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI's risks and the fight for ethical technology.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+          "published_at": "2026-11-22T15:30:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "47911d3e0a665c9dbebf75b0",
+      "remembered_at": "2026-11-22T16:26:11.745760+00:00",
+      "event_date": "2026-11-22T15:24:20+00:00",
+      "last_update": "2026-11-22T15:24:20+00:00",
+      "event": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "been",
+        "boat",
+        "capsized",
+        "capsizes",
+        "carrying",
+        "dozens",
+        "drown",
+        "funeral",
+        "have",
+        "killed",
+        "least",
+        "mourners",
+        "nigeria",
+        "people",
+        "route"
+      ],
+      "source_excerpt": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+          "published_at": "2026-11-22T15:24:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b30aad7fe17502f0b9661914",
+      "remembered_at": "2026-11-22T16:26:11.745760+00:00",
+      "event_date": "2026-11-22T16:09:12+00:00",
+      "last_update": "2026-11-22T16:09:12+00:00",
+      "event": "Pakistan-China space mission: Shenzhou-24 pre-launch drill completed",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "china",
+        "completed",
+        "drill",
+        "launch",
+        "mission",
+        "pakistan",
+        "pre",
+        "shenzhou",
+        "space"
+      ],
+      "source_excerpt": "Pakistan-China space mission: Shenzhou-24 pre-launch drill completed",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-china-space-mission-shenzhou-24-pre-launch-drill-completed",
+          "published_at": "2026-11-22T16:09:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-china-space-mission-shenzhou-24-pre-launch-drill-completed",
+        "publisher_url": "https://arynews.tv/pakistan-china-space-mission-shenzhou-24-pre-launch-drill-completed",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T15:33:30.670704+00:00"
+  "updated_at": "2026-11-22T16:26:11.745760+00:00"
 }
