@@ -1,161 +1,145 @@
-# News Hub report - Sun 22 Nov, 11:01 PM PKT
+# News Hub report - Sun 22 Nov, 11:54 PM PKT
 
 ## Collection
-- New items this run: 23 | items in rolling pool: 603
-- Unique story clusters: 505 (duplicates merged: 98)
-- Clusters dropped as already published/queued: 20; unchanged since last analysis: 9
-- Items per outlet: UrduPoint 5, Engadget 3, The News International 2, Dawn Pakistan 2, ARY News 2, The Verge 2, ARYnews.tv 1, Dawn 1, Dawn Latest 1, Al Jazeera 1, WRAL 1, Khaleej Times 1
+- New items this run: 44 | items in rolling pool: 595
+- Unique story clusters: 498 (duplicates merged: 97)
+- Clusters dropped as already published/queued: 23; unchanged since last analysis: 6
+- Items per outlet: Pakistan Today 8, UrduPoint 7, Geo News 5, Al Jazeera 5, Engadget 3, ARY News 2, BBC Science 2, The News International 1, samaa tv 1, TechCrunch 1, GSMArena 1, BBC World 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Mohsin Naqvi slams minister over repeated TV criticism, defends business community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli settlers attack several Palestinian villages in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Canada’s PM appears next to Trump impersonator at press dinner | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Civilians killed in RSF drone strikes in Sudan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cox’s Bazar: Rohingya Life in Exile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Virginia reports first measles-linked death of 2026 in child younger than 5 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Mohsin Naqvi slams minister over repeated TV criticism, defends business community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli settlers attack several Palestinian villages in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Canada’s PM appears next to Trump impersonator at press dinner | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Civilians killed in RSF drone strikes in Sudan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cox’s Bazar: Rohingya Life in Exile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Virginia reports first measles-linked death of 2026 in child younger than 5 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Mohsin Naqvi slams minister over repeated TV criticism, defends business community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli settlers attack several Palestinian villages in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Canada’s PM appears next to Trump impersonator at press dinner | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Civilians killed in RSF drone strikes in Sudan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cox’s Bazar: Rohingya Life in Exile | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Virginia reports first measles-linked death of 2026 in child younger than 5 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 100/120 | empty: 1 | failed: 19 | malformed/partial: 19
-- Trusted publisher desks with at least one healthy source: 9/10
-- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Hum News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI and Judiciary Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Middle East Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: South Asia Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Bloomberg | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Today Search | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Dunya News TV
 
 ## Selected for the queue
-### Mohsin Naqvi slams minister over repeated TV criticism, defends business community  [NORMAL]
-- Poster: محسن نقوی کا وفاقی وزیر کو سخت تنبیہ اور تاجر برادری کا دفاع / Naqvi hits back at minister, defends business community | category politics
-- Alternative headline: Naqvi warns fellow minister against repeated criticism on TV
+### Khawaja Asif claims referendum on new provinces is coming soon  [NORMAL]
+- Poster: نئے صوبوں پر ریفرنڈم دور نہیں، خواجہ آصف کا دعویٰ / Referendum on new provinces coming soon: Khawaja Asif | category politics
+- Alternative headline: New provinces referendum not far away, says Khawaja Asif
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/mohsin-naqvi-slams-minister-over-repeated-tv-criticism-defends-business-community | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/mohsin-naqvi-slams-minister-over-repeated-tv-criticism-defends-business-community
-- Supporting coverage: ARY News, samaa tv, Dawn, Dawn Pakistan, The Express Tribune
-- Keywords: Mohsin Naqvi, Interior Minister, business community, Lahore, criticism | hashtags: #MohsinNaqvi #PakistanPolitics #ARYNews #BusinessCommunity
-- Scheduled: Sun 22 Nov, 11:01 PM PKT
-- Caption:
-```
-Interior Minister Mohsin Naqvi has strongly responded to a fellow minister over persistent television criticism while defending the business community.
-
-Interior Minister Mohsin Naqvi criticized an unnamed minister for repeatedly making remarks against him on television, stating he has endured the comments for two and a half years. Speaking in Lahore, Naqvi warned that responding would leave the minister unable to show his face. He also defended Pakistan's business community, highlighting their contributions and status as top taxpayers.
-
-وزیر داخلہ محسن نقوی نے ٹی وی پر بار بار تنقید کرنے والے نامعلوم وزیر پر سخت برہمی کا اظہار کرتے ہوئے کہا ہے کہ وہ ڈھائی سال سے صبر کر رہے ہیں۔ لاہور میں گفتگو کرتے ہوئے انہوں نے خبردار کیا کہ جس دن انہوں متعلقہ وزیر کو جواب دیا، وہ منہ دکھانے کے قابل نہیں رہیں گے۔ محسن نقوی نے تاجر برادری کا دفاع کرتے ہوئے انہیں ملک کے اہم ترین ٹیکس دہندگان قرار دیا۔
-
-First reported by ARY News.
-
-#MohsinNaqvi #PakistanPolitics #ARYNews #BusinessCommunity
-```
-
-### Pakistan announces first nationwide diabetes prevention and control programme  [NORMAL]
-- Poster: پاکستان میں پہلے ملک گیر ڈائیبیٹیز پریوینشن اینڈ کنٹرول پروگرام کا اعلان / Pakistan announces first nationwide diabetes prevention programme | category health
-- Alternative headline: Nationwide diabetes prevention and control programme launched in Pakistan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUFUNVdpYXR6VE1NeDRCZFlxVVF5bU9XXzhkcGZQMnJFZ2pnbEc4aE1PaVpTNjJvdkxHdG1BTmJJOW5tTTRKUXFITnhSbkVzeHNtQTdiUTFCVzZMMEIwa2UtXzVTSWhrSjFkbzZ6eWZ1c3J2VFdrWVRTc2xNWm1nQ1Q5OVRnYjNFQW9qWG80Z2tZM2xOczVPWkRPM2Y?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUFUNVdpYXR6VE1NeDRCZFlxVVF5bU9XXzhkcGZQMnJFZ2pnbEc4aE1PaVpTNjJvdkxHdG1BTmJJOW5tTTRKUXFITnhSbkVzeHNtQTdiUTFCVzZMMEIwa2UtXzVTSWhrSjFkbzZ6eWZ1c3J2VFdrWVRTc2xNWm1nQ1Q5OVRnYjNFQW9qWG80Z2tZM2xOczVPWkRPM2Y?oc=5
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXY5Z3p3Q3VVLW5xU21PNC1SSDEzMWVhdXdkb19sXzEyTDVpWnpDdDFlTGVzZXhjVDJrcmh0bVo5S2VKblNMRlhQS2szcTVMSEJmbkV6RXVhc2g1MVR4MDVaTUszMXQzY25SUlNJWW1OS0ZUMFhCeVBlenlWVmZHUUp2bkxRQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXY5Z3p3Q3VVLW5xU21PNC1SSDEzMWVhdXdkb19sXzEyTDVpWnpDdDFlTGVzZXhjVDJrcmh0bVo5S2VKblNMRlhQS2szcTVMSEJmbkV6RXVhc2g1MVR4MDVaTUszMXQzY25SUlNJWW1OS0ZUMFhCeVBlenlWVmZHUUp2bkxRQQ?oc=5
 - Supporting coverage: ARYnews.tv, ARY News
-- Keywords: diabetes, healthcare, Pakistan, disease control, health programme | hashtags: #Diabetes #Healthcare #PakistanHealth #ARYNews
-- Scheduled: Sun 22 Nov, 11:11 PM PKT
+- Keywords: new provinces, Khawaja Asif, referendum, provinces, pakistan politics | hashtags: #KhawajaAsif #NewProvinces #PakistanPolitics
+- Scheduled: Sun 22 Nov, 11:54 PM PKT
 - Caption:
 ```
-Pakistan has officially announced its first-ever nationwide diabetes prevention and control programme to tackle rising health concerns.
+Federal Minister Khawaja Asif has claimed that a referendum on the creation of new provinces is not far away.
 
-Pakistan has announced the launch of its first nationwide diabetes prevention and control programme. Reported by ARY News, the initiative aims to address the growing prevalence of diabetes across the country through structured prevention and healthcare interventions.
+Federal Minister Khawaja Asif has stated that a referendum regarding the formation of new provinces in the country is not far away. The announcement has sparked discussions on the political landscape and administrative restructuring.
 
-پاکستان میں ذیابیطس کی روک تھام اور کنٹرول کے پہلے ملک گیر پروگرام کا اعلان کر دیا گیا ہے۔ اے آر وائی نیوز کے مطابق اس اقدام کا مقصد ملک بھر میں بڑھتی ہوئی ذیابیطس کی بیماری سے نمٹنا اور صحت کی سہولیات کو بہتر بنانا ہے۔
+وفاقی وزیر خواجہ آصف نے دعویٰ کیا ہے کہ ملک میں نئے صوبوں کے قیام کے حوالے سے ریفرنڈم زیادہ دور نہیں ہے۔ اس بیان نے سیاسی حلقوں میں نئی بحث چھڑ دی ہے۔
 
-First reported by ARY News.
+First reported by ARYnews.tv
 
-#Diabetes #Healthcare #PakistanHealth #ARYNews
+#KhawajaAsif #NewProvinces #PakistanPolitics
 ```
 
-### Israeli settlers attack several Palestinian villages in occupied West Bank  [NORMAL]
-- Poster: مقبوضہ مغربی کنارے میں اسرائیلی آباد کاروں کے متعدد فلسطینی دیہات پر حملے / Israeli settlers attack Palestinian villages in West Bank | category war
-- Alternative headline: West Bank villages targeted in coordinated Israeli settler attacks
+### Russian vessel hit by suspected sea drone in Libya  [NORMAL]
+- Poster: لیبیا میں روسی بحری جہاز پر مشتبہ ڈرون حملہ / Russian ship hit by suspected sea drone in Libya | category other
+- Alternative headline: Suspected sea drone attacks Russian ship at Benghazi naval base
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Israeli settlers, West Bank, Palestine, Ramallah, attacks | hashtags: #WestBank #Palestine #AlJazeera #MiddleEast
-- Scheduled: Sun 22 Nov, 11:21 PM PKT
-- Caption:
-```
-Israeli settlers have launched coordinated attacks on several Palestinian villages across the occupied West Bank, burning vehicles and property.
-
-Israeli settlers attacked multiple Palestinian villages in the occupied West Bank, focusing on Ramallah and el-Bireh provinces. The violence included burning 12 vehicles and spray-painting racist slogans on residential homes, according to reports by Al Jazeera.
-
-قابض مغربی کنارے میں اسرائیلی آباد کاروں نے رام اللہ اور البیرہ کے صوبوں میں کئی فلسطینی دیہات پر حملے کیے۔ الجزیرہ کی رپورٹ کے مطابق ان حملوں کے دوران 12 گاڑیوں کو نذر آتش کیا گیا اور گھروں پر نسل پرستانہ نعرے درج کیے گئے۔
-
-First reported by Al Jazeera.
-
-#WestBank #Palestine #AlJazeera #MiddleEast
-```
-
-### Canada’s PM appears next to Trump impersonator at press dinner  [NORMAL]
-- Poster: کینیڈا کے وزیراعظم کے ساتھ پریس ڈنر میں ٹرمپ کے ہم شکل کی شرکت / Canada PM appears with Trump impersonator at dinner | category world
-- Alternative headline: Mark Carney shares stage with Trump impersonator at Canadian press event
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Trump impersonator, Canada, Mark Carney, Press Gallery, Al Jazeera | hashtags: #Canada #DonaldTrump #AlJazeera #WorldNews
-- Scheduled: Sun 22 Nov, 11:31 PM PKT
+- Keywords: Russian vessel, Libya, Benghazi, drone attack, Russia | hashtags: #Libya #Russia #DroneAttack
+- Scheduled: Mon 23 Nov, 12:04 AM PKT
 - Caption:
 ```
-A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.
+A Russian vessel was reportedly hit by a suspected sea drone at Libya’s Benghazi naval base, with no immediate official reaction from Moscow.
 
-At Canada's annual Parliamentary Press Gallery dinner, a Donald Trump impersonator made a notable stage appearance alongside Mark Carney, drawing attention amid ongoing political dynamics between the two neighbouring nations, as reported by Al Jazeera.
+A Russian vessel has been struck by a suspected sea drone at Libya's Benghazi naval base. Authorities report there was no immediate reaction from Russia, and no group has claimed responsibility for the incident so far.
 
-کینیڈا کی سالانہ پارلیمانی پریس گیلری کے ڈنر میں ڈোনালڈ ٹرمپ کے ایک ہم شکل نے مارک کارنی کے ساتھ اسٹیج پر شرکت کی۔ الجزیرہ کے مطابق اس واقعے نے دونوںممالک کے سیاسی ماحول میں خاصی توجہ حاصل کی ہے۔
+لیبیا کے بنغازی نیول بیس پر ایک روسی بحری جہاز کو مشتبہ سمندری ڈرون سے نشانہ بنایا گیا۔ حکام کے مطابق روس کی جانب سے فوری طور پر کوئی ردعمل سامنے نہیں آیا اور نہ ہی کسی نے حملے کی ذمہ داری قبول کی ہے۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#Canada #DonaldTrump #AlJazeera #WorldNews
+#Libya #Russia #DroneAttack
 ```
 
-- Indian outlets blocked this run: 7 items
+### Civilians killed in RSF drone strikes across Sudan  [NORMAL]
+- Poster: سوڈان میں آر ایس ایف کے ڈرون حملے، کئی شہری جاں بحق / Civilians killed in RSF drone strikes in Sudan | category other
+- Alternative headline: Sudan's RSF drone strikes leave several civilians dead
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Sudan drone strikes, RSF, Sudan, civilians killed, conflict | hashtags: #Sudan #RSF #SudanCrisis
+- Scheduled: Mon 23 Nov, 12:14 AM PKT
+- Caption:
+```
+Several civilians have been killed and multiple buildings damaged following drone strikes carried out by Sudan’s Rapid Support Forces.
+
+Several civilians have lost their lives and multiple buildings have sustained damage following drone strikes executed by Sudan's Rapid Support Forces. The ongoing conflict continues to take a heavy toll on non-combatants across the region.
+
+سوڈان کی ریپڈ سپورٹ فورسز کے ڈرون حملوں کے نتیجے میں کئی شہری جاں بحق اور متعدد عمارتیں تباہ ہو گئیں۔ ملک میں جاری تنازعے کے باعث عام شہریوں کو شدید جانی و مالی نقصان کا سامنا ہے۔
+
+First reported by Al Jazeera
+
+#Sudan #RSF #SudanCrisis
+```
+
+### Cox’s Bazar: Rohingya families face harsh exile during Ramadan  [NORMAL]
+- Poster: کاکس بازار: روہنگیا مہاجرین کی کٹھ پتلی زندگی اور مشکلات / Cox's Bazar: Rohingya life in exile | category other
+- Alternative headline: Life in exile: Rohingya refugees struggle with hunger in Cox’s Bazar
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Rohingya, Cox's Bazar, refugees, Ramadan, exile | hashtags: #Rohingya #CoxsBazar #Refugees
+- Scheduled: Mon 23 Nov, 12:24 AM PKT
+- Caption:
+```
+Rohingya families living in exile in Cox’s Bazar continue to face severe hunger, loss, and an uncertain future during Ramadan.
+
+Rohingya families residing in exile in Cox's Bazar are facing extreme hardship, including hunger, loss, and profound uncertainty during the month of Ramadan, highlighting their ongoing plight and displacement struggles.
+
+کاکس بازار میں جلاوطنی کی زندگی گزارنے والے روہنگیا خاندان رمضان المبارک کے دوران شدید بھوک، نقصانات اور غیر یقینی مستقبل کا سامنا کر رہے ہیں۔
+
+First reported by Al Jazeera
+
+#Rohingya #CoxsBazar #Refugees
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 26 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 27 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
-- [needs_review] normal | Large amount of suspected donkey meat seized in Islamabad | Thu 19 Nov, 04:53 PM PKT
-- [needs_review] normal | Punjab launches online route permit system for transport operators | Thu 19 Nov, 05:03 PM PKT
 - [needs_review] normal | Bangladesh shut down by Hasina's party after ex-leader Yunus's home se | Thu 19 Nov, 05:48 PM PKT
 - [needs_review] normal | Pakistan and Qatar sign new security pact to combat drug trafficking | Thu 19 Nov, 05:58 PM PKT
 - [needs_review] normal | Hailey Bieber opens up about the intense reality of internet scrutiny | Thu 19 Nov, 06:08 PM PKT
@@ -371,7 +355,7 @@ First reported by Al Jazeera.
 - [needs_review] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
 - [needs_review] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
 - [published] normal | Major Karachi roads closed as political parties stage rallies | Sun 22 Nov, 05:58 PM PKT
-- [queued] normal | Latest news and updates regarding India from BBC | Sun 22 Nov, 06:08 PM PKT
+- [published] normal | Latest news and updates regarding India from BBC | Sun 22 Nov, 06:08 PM PKT
 - [queued] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
 - [queued] normal | Karachi placed on high alert amid upcoming political rallies | Sun 22 Nov, 06:28 PM PKT
 - [queued] normal | Can the US Congress stop an Iran war like it did in Vietnam? | Sun 22 Nov, 06:57 PM PKT
@@ -390,12 +374,16 @@ First reported by Al Jazeera.
 - [queued] normal | Pakistan announces first nationwide diabetes prevention and control pr | Sun 22 Nov, 11:11 PM PKT
 - [queued] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
 - [queued] normal | Canada’s PM appears next to Trump impersonator at press dinner | Sun 22 Nov, 11:31 PM PKT
+- [queued] normal | Khawaja Asif claims referendum on new provinces is coming soon | Sun 22 Nov, 11:54 PM PKT
+- [queued] normal | Russian vessel hit by suspected sea drone in Libya | Mon 23 Nov, 12:04 AM PKT
+- [queued] normal | Civilians killed in RSF drone strikes across Sudan | Mon 23 Nov, 12:14 AM PKT
+- [queued] normal | Cox’s Bazar: Rohingya families face harsh exile during Ramadan | Mon 23 Nov, 12:24 AM PKT
 
 ## Publishing this run
-- Published 'Major Karachi roads closed as political parties stage rallies'.
+- Published 'Latest news and updates regarding India from BBC'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5127 | output tokens: 2260
+- Calls: 3 | prompt tokens: 4185 | output tokens: 1923
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {

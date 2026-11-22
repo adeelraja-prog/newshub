@@ -117818,7 +117818,348 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cd45bbded81c9e1c92ea5a9b",
+      "remembered_at": "2026-11-22T18:54:43.155884+00:00",
+      "event_date": "2026-11-22T18:12:07+00:00",
+      "last_update": "2026-11-22T18:12:07+00:00",
+      "event": "Civilians killed in RSF drone strikes in Sudan",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "been",
+        "buildings",
+        "civilians",
+        "damaged",
+        "drone",
+        "forces",
+        "have",
+        "killed",
+        "rapid",
+        "rsf",
+        "several",
+        "strikes",
+        "sudan",
+        "support"
+      ],
+      "source_excerpt": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+          "published_at": "2026-11-22T18:12:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "85e18e7dbb83368a86771a1a",
+      "remembered_at": "2026-11-22T18:54:43.155884+00:00",
+      "event_date": "2026-11-22T18:02:06+00:00",
+      "last_update": "2026-11-22T18:02:06+00:00",
+      "event": "Cox’s Bazar: Rohingya Life in Exile",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bazar",
+        "cox",
+        "during",
+        "exile",
+        "face",
+        "families",
+        "future",
+        "hunger",
+        "life",
+        "loss",
+        "ramadan",
+        "rohingya",
+        "uncertain"
+      ],
+      "source_excerpt": "Rohingya families face hunger, loss and an uncertain future during Ramadan.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
+          "published_at": "2026-11-22T18:02:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f663a846aac4788df9cf656b",
+      "remembered_at": "2026-11-22T18:54:43.155884+00:00",
+      "event_date": "2026-11-22T18:00:00+00:00",
+      "last_update": "2026-11-22T18:00:00+00:00",
+      "event": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "amid",
+        "cases",
+        "child",
+        "comes",
+        "days",
+        "death",
+        "elimination",
+        "experts",
+        "first",
+        "health",
+        "its",
+        "linked",
+        "measles",
+        "reports",
+        "status",
+        "stripping",
+        "than",
+        "the",
+        "uptick",
+        "virginia",
+        "within",
+        "younger"
+      ],
+      "source_excerpt": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+          "published_at": "2026-11-22T18:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eaa55db6dee9803ff7fb0d22",
+      "remembered_at": "2026-11-22T18:54:43.155884+00:00",
+      "event_date": "2026-11-22T17:57:43+00:00",
+      "last_update": "2026-11-22T17:57:43+00:00",
+      "event": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "all",
+        "bbc",
+        "building",
+        "collapsed",
+        "danger",
+        "for",
+        "from",
+        "greater",
+        "kyiv",
+        "missing",
+        "rainsford",
+        "region",
+        "reports",
+        "residential",
+        "russian",
+        "sarah",
+        "scene",
+        "search",
+        "seems",
+        "strikes",
+        "the",
+        "time",
+        "ukraine",
+        "ukrainians"
+      ],
+      "source_excerpt": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T17:57:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b5b4d236ea4848dde4250f79",
+      "remembered_at": "2026-11-22T18:54:43.155884+00:00",
+      "event_date": "2026-11-22T18:01:42+00:00",
+      "last_update": "2026-11-22T18:01:42+00:00",
+      "event": "PTI urges Bilawal not to back extension of Governor’s Rule, emergency",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "back",
+        "bilawal",
+        "emergency",
+        "extension",
+        "governor",
+        "not",
+        "pti",
+        "rule",
+        "samaa",
+        "urges"
+      ],
+      "source_excerpt": "PTI urges Bilawal not to back extension of Governor’s Rule, emergency samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2ZVTFE1WFFRUThLLTUxYVgyMDl1Y2o2a25ESlpDSXFVNnJfODBKTVFXdXhNa2djSl9DT1VRR3BEMVVWNXdFQXQ0MTd6RW1hUlRBSXdkSGtIUmtfTVFnVHNwZlpRakd3WUNzb1Qycjh1QnlxQ3BweWRoaXBjd0tfZV9NRDBhUF8taHY0SE5ZSWt0ZUpiQnl2WkpvSVV1OWxJVGlfWW91bmtjdEVja1dRUmdEbzg?oc=5",
+          "published_at": "2026-11-22T18:01:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2ZVTFE1WFFRUThLLTUxYVgyMDl1Y2o2a25ESlpDSXFVNnJfODBKTVFXdXhNa2djSl9DT1VRR3BEMVVWNXdFQXQ0MTd6RW1hUlRBSXdkSGtIUmtfTVFnVHNwZlpRakd3WUNzb1Qycjh1QnlxQ3BweWRoaXBjd0tfZV9NRDBhUF8taHY0SE5ZSWt0ZUpiQnl2WkpvSVV1OWxJVGlfWW91bmtjdEVja1dRUmdEbzg?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "042a65431c1104d8b3f07b8c",
+      "remembered_at": "2026-11-22T18:54:43.155884+00:00",
+      "event_date": "2026-11-22T17:48:04+00:00",
+      "last_update": "2026-11-22T17:48:04+00:00",
+      "event": "Two 'violating' supertankers explode near Hormuz strait, Iran's navy says",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "explode",
+        "hormuz",
+        "iran",
+        "navy",
+        "near",
+        "says",
+        "strait",
+        "supertankers",
+        "two",
+        "violating"
+      ],
+      "source_excerpt": "Two 'violating' supertankers explode near Hormuz strait, Iran's navy says Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaUVfbzctb2dKOUhSRDFqWkM0U0RaUzhFTXBRa190d2s3NzhoSy1xZjJjZ2p1akR3WnNBZjZjdHZ4cW9vZGdWRTk1dkpXdXIyWFA5MkxYSVc2YkdMbWUwYjR2d3NTeXlIRExEQzRETURiVi1CU2ZGQnctTWh1QVFzQS1YRTc5dl8yTVdEM3ZIQzVZbTQyMmdQRmg3SWo5MVRqVzdqM0hB?oc=5",
+          "published_at": "2026-11-22T17:48:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaUVfbzctb2dKOUhSRDFqWkM0U0RaUzhFTXBRa190d2s3NzhoSy1xZjJjZ2p1akR3WnNBZjZjdHZ4cW9vZGdWRTk1dkpXdXIyWFA5MkxYSVc2YkdMbWUwYjR2d3NTeXlIRExEQzRETURiVi1CU2ZGQnctTWh1QVFzQS1YRTc5dl8yTVdEM3ZIQzVZbTQyMmdQRmg3SWo5MVRqVzdqM0hB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "24a28821afd65853d0d92136",
+      "remembered_at": "2026-11-22T18:54:43.155884+00:00",
+      "event_date": "2026-11-22T17:40:00+00:00",
+      "last_update": "2026-11-22T17:40:00+00:00",
+      "event": "Who convinced Joe Russo to return to Avengers franchise for 'Doomsday'?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "avengers",
+        "convinced",
+        "doomsday",
+        "for",
+        "franchise",
+        "international",
+        "joe",
+        "news",
+        "return",
+        "russo",
+        "the",
+        "who"
+      ],
+      "source_excerpt": "Who convinced Joe Russo to return to Avengers franchise for 'Doomsday'? The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGRpSTJmT0VlZzBWanVRV3dJZk5NZXg0WXdZclp1cXZDZndWQUlzM29iX1I5LVBKQUh1aHpHdkwwRGFTVlY4UXowYXI3RjF6amdGRllBdUtIQVdITFE4c0xOVWJ6RXpQQ0ljQ3Bua3czWnEzTE5iOU1WVmU4ZjV3TFFFdkdDTHlqazlZa1BBdDFJRmJpZndmT2tSWldIQ0FWNWZWMk1DVFQzZWxMeG9JZ9IBsAFBVV95cUxNMGRpSTJmT0VlZzBWanVRV3dJZk5NZXg0WXdZclp1cXZDZndWQUlzM29iX1I5LVBKQUh1aHpHdkwwRGFTVlY4UXowYXI3RjF6amdGRllBdUtIQVdITFE4c0xOVWJ6RXpQQ0ljQ3Bua3czWnEzTE5iOU1WVmU4ZjV3TFFFdkdDTHlqazlZa1BBdDFJRmJpZndmT2tSWldIQ0FWNWZWMk1DVFQzZWxMeG9JZw?oc=5",
+          "published_at": "2026-11-22T17:40:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGRpSTJmT0VlZzBWanVRV3dJZk5NZXg0WXdZclp1cXZDZndWQUlzM29iX1I5LVBKQUh1aHpHdkwwRGFTVlY4UXowYXI3RjF6amdGRllBdUtIQVdITFE4c0xOVWJ6RXpQQ0ljQ3Bua3czWnEzTE5iOU1WVmU4ZjV3TFFFdkdDTHlqazlZa1BBdDFJRmJpZndmT2tSWldIQ0FWNWZWMk1DVFQzZWxMeG9JZ9IBsAFBVV95cUxNMGRpSTJmT0VlZzBWanVRV3dJZk5NZXg0WXdZclp1cXZDZndWQUlzM29iX1I5LVBKQUh1aHpHdkwwRGFTVlY4UXowYXI3RjF6amdGRllBdUtIQVdITFE4c0xOVWJ6RXpQQ0ljQ3Bua3czWnEzTE5iOU1WVmU4ZjV3TFFFdkdDTHlqazlZa1BBdDFJRmJpZndmT2tSWldIQ0FWNWZWMk1DVFQzZWxMeG9JZw?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T18:01:21.673783+00:00"
+  "updated_at": "2026-11-22T18:54:43.155884+00:00"
 }
