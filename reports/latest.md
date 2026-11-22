@@ -1,36 +1,35 @@
-# News Hub report - Sun 22 Nov, 04:14 PM PKT
+# News Hub report - Sun 22 Nov, 05:00 PM PKT
 
 ## Collection
-- New items this run: 57 | items in rolling pool: 332
-- Unique story clusters: 281 (duplicates merged: 51)
-- Clusters dropped as already published/queued: 21; unchanged since last analysis: 3
-- Items per outlet: UrduPoint 21, Geo News 9, ARY News 5, samaa tv 4, Wired 3, The Express Tribune 2, TechJuice 2, Dawn 1, Dawn Pakistan 1, Al Jazeera 1, The Arab Weekly 1, Middle East Online 1
+- New items this run: 28 | items in rolling pool: 332
+- Unique story clusters: 276 (duplicates merged: 56)
+- Clusters dropped as already published/queued: 23; unchanged since last analysis: 2
+- Items per outlet: UrduPoint 6, Al Jazeera 5, samaa tv 3, Dawn 2, The Express Tribune 2, Geo News 2, The News International 1, Dawn Pakistan 1, X 1, Wired 1, TechJuice 1, The Arab Weekly 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GAME? | https://www.youtube.com/watch?v=JvXSSo9CNH0
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Drone Attack on Russian Cargo Ship! Vessel Catches Fire | Breaking News | Dunya News. | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz to visit Russia, Iran from November 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hazlewood says was never close with Khawaja but has no issues with book | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Dunya News - Latest News, Pakistan News, World News, Sports News and Videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India | Latest News & Updates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What’s behind Iran’s escalation of attacks in the Gulf? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why have UN efforts to regulate ‘killer robots’ stalled? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Drone Attack on Russian Cargo Ship! Vessel Catches Fire | Breaking News | Dunya News. | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz to visit Russia, Iran from November 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hazlewood says was never close with Khawaja but has no issues with book | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Dunya News - Latest News, Pakistan News, World News, Sports News and Videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India | Latest News & Updates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What’s behind Iran’s escalation of attacks in the Gulf? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why have UN efforts to regulate ‘killer robots’ stalled? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Drone Attack on Russian Cargo Ship! Vessel Catches Fire | Breaking News | Dunya News. | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz to visit Russia, Iran from November 30 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hazlewood says was never close with Khawaja but has no issues with book | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Dunya News - Latest News, Pakistan News, World News, Sports News and Videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India | Latest News & Updates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What’s behind Iran’s escalation of attacks in the Gulf? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why have UN efforts to regulate ‘killer robots’ stalled? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -39,111 +38,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### South Korea Education Minister Resigns Over National Exam Cheating Scandal  [NORMAL]
-- Poster: امتحانات میں نقل کا اسکینڈل: جنوبی کوریا کے وزیرِ تعلیم مستعفی / South Korea Education Minister Resigns Over Exam Cheating Scandal | category politics
-- Alternative headline: Suneung Exam Cheating Scandal Forces South Korea Education Minister to Resign
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Education Minister resignation, South Korea exam cheating, Suneung exam, Choi Kyo-jin, AI cheating scandal | hashtags: #SouthKorea #EducationMinister #ExamScandal #Suneung #AI
-- Scheduled: Sun 22 Nov, 04:14 PM PKT
-- Caption:
-```
-South Korea's Education Minister Choi Kyo-jin has resigned following a massive exam cheating scandal involving AI tools during the Suneung college entrance exam.
-
-South Korea's Education Minister Choi Kyo-jin has resigned, taking full responsibility for an exam cheating scandal during the annual Suneung college entrance exam. The controversy arose after top scorers admitted using AI tools and hidden devices, prompting nationwide emergency alerts and heavy criticism over security failures.
-
-جنوبی کوریا کے وزیرِ تعلیم چُوئی کیو جن نے سالانہ کالج کے داخلہ امتحانات میں نقل کے اسکینڈل کی ذمہ داری لیتے ہوئے اپنے عہدے سے استعفیٰ دے دیا۔ یہ تنازع اس وقت سامنے آیا جب چند طلبہ کی جانب سے مصنوعی ذہانت اور چھوٹی ڈیوائسز کے استعمال کا انکشاف ہوا، جس پر ملک بھر میں ہنگامہ مچ گیا۔
-
-First reported by BBC World.
-
-#SouthKorea #EducationMinister #ExamScandal #Suneung #AI
-```
-
-### Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Attack  [NORMAL]
-- Poster: فن لینڈ کے قریب روسی کارگو جہاز پر ڈرون حملہ، جہاز میں آگ لگ گئی / Russian Cargo Ship on Fire Off Finland After Drone Attack | category other
-- Alternative headline: Vessel Ablaze Near Finland Following Drone Strike on Russian Cargo Ship
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dunya News https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXBmbTdQZ3NtZVFxSlhpbVlZdlB6enhGTW9Kc1JRdk0tR2NxcWktUkNZNFVIaG5mcmxkel9pMjZRSklzckFLaEt4RUdsbk9oUDM1Q3p5Tmt3WmRJREM4cnlheHJJdXgweVhnX25sZU5vVmVSV1YyM3huN0dqclhmSTFpMEV5aWUtdHVPWmhLWG1oS3NVay1yWkZPRnNyNTNQNmpPLUk4UE9uenNMTEl3UC1QNmZSQ3BUMG84aFFtQmtHU0JHMkFQZW0yWloxM1BIR09SNg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dunya News https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXBmbTdQZ3NtZVFxSlhpbVlZdlB6enhGTW9Kc1JRdk0tR2NxcWktUkNZNFVIaG5mcmxkel9pMjZRSklzckFLaEt4RUdsbk9oUDM1Q3p5Tmt3WmRJREM4cnlheHJJdXgweVhnX25sZU5vVmVSV1YyM3huN0dqclhmSTFpMEV5aWUtdHVPWmhLWG1oS3NVay1yWkZPRnNyNTNQNmpPLUk4UE9uenNMTEl3UC1QNmZSQ3BUMG84aFFtQmtHU0JHMkFQZW0yWloxM1BIR09SNg?oc=5
-- Supporting coverage: Dunya News, Al Jazeera, ARY News
-- Keywords: Russian cargo ship fire, drone attack Finland, vessel fire, Russia cargo ship | hashtags: #Russia #Finland #DroneAttack #CargoShip #BreakingNews
-- Scheduled: Sun 22 Nov, 04:24 PM PKT
-- Caption:
-```
-A Russian cargo ship has caught fire off the coast of Finland following a suspected drone attack.
-
-A Russian cargo ship has caught fire off the coast of Finland following a suspected drone attack, according to reports from Dunya News and international agencies. The vessel remains on fire as authorities monitor the situation.
-
-فن لینڈ کے قریب ایک روسی کارگو جہاز پر مبینہ ڈرون حملے کے نتیجے میں جہاز میں شدید آگ لگ گئی۔ میڈیا رپورٹس کے مطابق جہاز میں لگی آگ پر قابو پانے کی کوششیں جاری ہیں۔
-
-First reported by Dunya News; also reported by Al Jazeera and ARY News.
-
-#Russia #Finland #DroneAttack #CargoShip #BreakingNews
-```
-
-### Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting November 30  [NORMAL]
-- Poster: وزیرِ اعظم شہباز شریف 30 نومبر سے روس اور ایران کا دورہ کریں گے / PM Shehbaz to Visit Russia and Iran From Nov 30 | category politics
-- Alternative headline: PM Shehbaz Scheduled for Official Visits to Russia and Iran From Nov 30
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUhKaDZiTml1Wl9PQUQtelVHV1pUVlpieWF4Tm5zQTIzZ1VSWFhIQWRPSk51VXIwOG83bDZwYVhRN0w4MENaWC1XN3V6Sm1QT3JoaFV5T1k4TXRyZF9NNEtzR2dhYjBvSWxwQWx6WGYySFQ2Q0xMUkNqLUJzOEJDZFZ4dE41ZFU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUhKaDZiTml1Wl9PQUQtelVHV1pUVlpieWF4Tm5zQTIzZ1VSWFhIQWRPSk51VXIwOG83bDZwYVhRN0w4MENaWC1XN3V6Sm1QT3JoaFV5T1k4TXRyZF9NNEtzR2dhYjBvSWxwQWx6WGYySFQ2Q0xMUkNqLUJzOEJDZFZ4dE41ZFU?oc=5
-- Supporting coverage: samaa tv, ARY News
-- Keywords: PM Shehbaz Russia Iran visit, Shehbaz Sharif, foreign visit, Russia Iran Pakistan, Samaa TV | hashtags: #PMShehbaz #Pakistan #Russia #Iran #ForeignPolicy
-- Scheduled: Sun 22 Nov, 04:34 PM PKT
-- Caption:
-```
-Prime Minister Shehbaz Sharif is set to begin official visits to Russia and Iran starting from November 30.
-
-Prime Minister Shehbaz Sharif is scheduled to undertake official visits to Russia and Iran beginning November 30, according to Samaa TV. The diplomatic visits aim to discuss bilateral relations and regional cooperation.
-
-وزیراعظم شہباز شریف 30 نومبر سے روس اور ایران کے سرکاری دوروں کا آغاز کریں گے۔ میڈیا رپورٹس کے مطابق ان دوروں کا مقصد دوطرفہ تعلقات اور علاقائی تعاون کو فروغ دینا ہے۔
-
-First reported by Samaa TV; also reported by ARY News.
-
-#PMShehbaz #Pakistan #Russia #Iran #ForeignPolicy
-```
-
-### Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Release  [NORMAL]
-- Poster: عثمان خواجہ سے کبھی گہرے تعلقات نہیں رہے، جوش ہیزل ووڈ / Hazlewood Says Was Never Close With Khawaja | category sports
-- Alternative headline: Hazlewood Says Never Close With Khawaja But Has No Issues With Book
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjRIZTdodWNwTjFUZ3cxUy1NX1RzaEd1b2VhbnBadVJ5b3IxVDd1akJKSlY5NnJBWllUcE5Jc3V3cVE0bThxaUlzT1lOWDBHRHdtclZQUzdncnFxVy1MdTJZZEdOb21lVDkyNl84MXNxWFhQOV84cktSNjBkM3dUY2FwV0s0eWZTdjdsM0ZIT2FmTng2Y3FfWFBKemUwTjd4SUQzNzlldw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjRIZTdodWNwTjFUZ3cxUy1NX1RzaEd1b2VhbnBadVJ5b3IxVDd1akJKSlY5NnJBWllUcE5Jc3V3cVE0bThxaUlzT1lOWDBHRHdtclZQUzdncnFxVy1MdTJZZEdOb21lVDkyNl84MXNxWFhQOV84cktSNjBkM3dUY2FwV0s0eWZTdjdsM0ZIT2FmTng2Y3FfWFBKemUwTjd4SUQzNzlldw?oc=5
-- Supporting coverage: Geo News, ARY News
-- Keywords: Josh Hazlewood Usman Khawaja, Hazlewood book comments, Australia cricket, Khawaja book release | hashtags: #JoshHazlewood #UsmanKhawaja #CricketAustralia #Cricket #SportsNews
-- Scheduled: Sun 22 Nov, 04:44 PM PKT
-- Caption:
-```
-Australian fast bowler Josh Hazlewood has stated he was never close with teammate Usman Khawaja but has no issues with his book.
-
-Australian cricketer Josh Hazlewood has addressed his relationship with teammate Usman Khawaja, stating that they were never close friends, while clarifying that he has no issues regarding Khawaja's book release.
-
-آسٹریلوی فاسٹ بولر جوش ہیزل ووڈ نے ساتھی کھلاڑی عثمان خواجہ کے ساتھ اپنے تعلقات پر بات کرتے ہوئے کہا ہے کہ وہ کبھی قریبی دوست نہیں رہے، تاہم عثمان خواجہ کی کتاب کی اشاعت پر انہیں کوئی اعتراض نہیں۔
-
-First reported by Geo News; also reported by ARY News.
-
-#JoshHazlewood #UsmanKhawaja #CricketAustralia #Cricket #SportsNews
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
-- [needs_review] normal | Man arrested for allegedly sexually abusing boy in Rawalpindi | Thu 19 Nov, 10:09 AM PKT
-- [needs_review] normal | Punjab CM approves panchayat system to resolve disputes | Thu 19 Nov, 10:19 AM PKT
-- [needs_review] normal | Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case | Thu 19 Nov, 10:29 AM PKT
 - [needs_review] normal | Trump wants to talk nuclear with Putin and Xi | Thu 19 Nov, 11:13 AM PKT
 - [needs_review] normal | Rangers arrest TTP terrorist in Karachi's Manghopir | Thu 19 Nov, 11:23 AM PKT
 - [needs_review] normal | Search underway after unidentified flying object spotted over Sahiwal  | Thu 19 Nov, 11:33 AM PKT
@@ -155,10 +55,8 @@ First reported by Geo News; also reported by ARY News.
 - [needs_review] normal | Elon Musk says record spending on US midterms was 'pretty foolish' | Thu 19 Nov, 03:54 PM PKT
 - [needs_review] normal | Two PTI-affiliated Pakistanis detained in UAE over state security, LHC | Thu 19 Nov, 04:04 PM PKT
 - [needs_review] normal | CDF Munir briefed on ongoing operations during Turbat visit, says ISPR | Thu 19 Nov, 04:14 PM PKT
-- [published] normal | 22 terrorists killed in security operations across KP | Thu 19 Nov, 04:43 PM PKT
 - [needs_review] normal | Large amount of suspected donkey meat seized in Islamabad | Thu 19 Nov, 04:53 PM PKT
 - [needs_review] normal | Punjab launches online route permit system for transport operators | Thu 19 Nov, 05:03 PM PKT
-- [published] normal | Indian truck driver wins $1.3m lottery, plans to keep working | Thu 19 Nov, 05:13 PM PKT
 - [needs_review] normal | Bangladesh shut down by Hasina's party after ex-leader Yunus's home se | Thu 19 Nov, 05:48 PM PKT
 - [needs_review] normal | Pakistan and Qatar sign new security pact to combat drug trafficking | Thu 19 Nov, 05:58 PM PKT
 - [needs_review] normal | Hailey Bieber opens up about the intense reality of internet scrutiny | Thu 19 Nov, 06:08 PM PKT
@@ -290,7 +188,7 @@ First reported by Geo News; also reported by ARY News.
 - [needs_review] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
 - [needs_review] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
 - [published] normal | Three US citizens among four convicted in Honduras sex-trafficking cas | Sat 21 Nov, 03:59 PM PKT
-- [queued] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
+- [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] normal | Govt rejects PTI demand on electoral reforms committee | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
 - [published] normal | Rizwan, Masood, and Ayub dropped as PCB unveils central contracts | Sat 21 Nov, 04:42 PM PKT
@@ -354,7 +252,7 @@ First reported by Geo News; also reported by ARY News.
 - [needs_review] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
 - [needs_review] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
 - [published] normal | Iran faces a silent economic war, says Iranian president | Sun 22 Nov, 11:24 AM PKT
-- [queued] normal | Carlos Alcaraz to face Alexander Zverev for ATP Finals title | Sun 22 Nov, 11:34 AM PKT
+- [published] normal | Carlos Alcaraz to face Alexander Zverev for ATP Finals title | Sun 22 Nov, 11:34 AM PKT
 - [queued] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
 - [queued] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
 - [queued] normal | Portuguese foreign minister arrives in Pakistan for official visit | Sun 22 Nov, 12:44 PM PKT
@@ -375,22 +273,19 @@ First reported by Geo News; also reported by ARY News.
 - [queued] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
 
 ## Publishing this run
-- Published 'Iran faces a silent economic war, says Iranian president'.
+- Published 'Carlos Alcaraz to face Alexander Zverev for ATP Finals title'.
 
 ## Gemini usage
-- Calls: 7 | prompt tokens: 5747 | output tokens: 2257
+- Calls: 4 | prompt tokens: 5948 | output tokens: 1898
 - Errors: 5
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 147 column 7 (char 6179)
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: lin

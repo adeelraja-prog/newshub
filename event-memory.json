@@ -114812,7 +114812,336 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7e0c8aa1cd6397088c8dc4f8",
+      "remembered_at": "2026-11-22T12:00:39.465153+00:00",
+      "event_date": "2026-11-22T11:03:00+00:00",
+      "last_update": "2026-11-22T11:39:35+00:00",
+      "event": "Iran has achieved military deterrence against enemy: Ghalibaf",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "achieved",
+        "against",
+        "deterrence",
+        "enemy",
+        "ghalibaf",
+        "has",
+        "iran",
+        "military",
+        "samaa"
+      ],
+      "source_excerpt": "Iran has achieved military deterrence against enemy: Ghalibaf samaa tv",
+      "sources": [
+        {
+          "name": "Mehr News Agency",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZXVWa1dGVG0ya0hmaUt3cU9DaEk5M1RpUUNtSzBTdnJxTUswZGhyX0o3TGhUVUROUy1tWkJFaXliRzhFYUlBR3pVQmpQdW1qUjkxSkpDbXpiZnJpZnRERVZiZHo4SGRXMFZpY2xGdmwtaXhXR3REekhYVGVtNzZ2ME1xc3EzMnQwLUZRRWhMR3JNcmpa?oc=5",
+          "published_at": "2026-11-22T11:03:00+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTDFZa0g0dUVTUkZnSllkMzFtcXF3SjBMa2tEZXlxcVFfQUNvaENJM0llamNRcVR3VUJjLVhfYWRub1hzUDNPSUp5clF3VlJPYW92Ump0X05zTXgxUHRZck1GQ2N3dTIxdG0tRlg4enhNX0NYZVRCbG9mWDFyWkJSblJsajdtVndkRkViaUM2bGZfSjJDQ2o4?oc=5",
+          "published_at": "2026-11-22T11:39:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTDFZa0g0dUVTUkZnSllkMzFtcXF3SjBMa2tEZXlxcVFfQUNvaENJM0llamNRcVR3VUJjLVhfYWRub1hzUDNPSUp5clF3VlJPYW92Ump0X05zTXgxUHRZck1GQ2N3dTIxdG0tRlg4enhNX0NYZVRCbG9mWDFyWkJSblJsajdtVndkRkViaUM2bGZfSjJDQ2o4?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f2ee231c293cec215085c496",
+      "remembered_at": "2026-11-22T12:00:39.465153+00:00",
+      "event_date": "2026-11-22T11:46:42+00:00",
+      "last_update": "2026-11-22T11:48:45+00:00",
+      "event": "What’s behind Iran’s escalation of attacks in the Gulf?",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attacks",
+        "behind",
+        "blockade",
+        "campaign",
+        "country",
+        "economically",
+        "escalation",
+        "gulf",
+        "has",
+        "hurt",
+        "iran",
+        "naval",
+        "ramped",
+        "sanctions",
+        "tehran",
+        "the",
+        "what"
+      ],
+      "source_excerpt": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+          "published_at": "2026-11-22T11:46:42+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
+          "published_at": "2026-11-22T11:48:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ae521103bd8d5bcee0929058",
+      "remembered_at": "2026-11-22T12:00:39.465153+00:00",
+      "event_date": "2026-11-22T11:44:50+00:00",
+      "last_update": "2026-11-22T11:44:50+00:00",
+      "event": "Why have UN efforts to regulate ‘killer robots’ stalled?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accord",
+        "agree",
+        "autonomous",
+        "countries",
+        "criticism",
+        "cwc",
+        "efforts",
+        "elaborate",
+        "have",
+        "killer",
+        "potential",
+        "prompting",
+        "regulate",
+        "regulating",
+        "robots",
+        "stalled",
+        "two",
+        "weapons",
+        "why",
+        "years"
+      ],
+      "source_excerpt": "CWC countries agree to 'elaborate' on potential accord regulating autonomous weapons in two years, prompting criticism.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
+          "published_at": "2026-11-22T11:44:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a4d68d3ff9a51f1df9361782",
+      "remembered_at": "2026-11-22T12:00:39.465153+00:00",
+      "event_date": "2026-11-22T11:07:30+00:00",
+      "last_update": "2026-11-22T11:07:30+00:00",
+      "event": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "avoids",
+        "ball",
+        "booking",
+        "card",
+        "columbus",
+        "controversial",
+        "cup",
+        "defeat",
+        "escapes",
+        "face",
+        "for",
+        "inter",
+        "lionel",
+        "lose",
+        "messi",
+        "miami",
+        "mls",
+        "opponent",
+        "playoffs",
+        "red",
+        "throw",
+        "throws"
+      ],
+      "source_excerpt": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+          "published_at": "2026-11-22T11:07:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "341e588b3a3e6d2c38caf737",
+      "remembered_at": "2026-11-22T12:00:39.465153+00:00",
+      "event_date": "2026-11-22T11:57:43+00:00",
+      "last_update": "2026-11-22T11:57:43+00:00",
+      "event": "Mutiple roads closed for traffic in Karachi ahead of demonstration, rally by political parties",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "and",
+        "are",
+        "been",
+        "being",
+        "both",
+        "chowrangi",
+        "closed",
+        "closures",
+        "deen",
+        "demonstration",
+        "diverted",
+        "fazl",
+        "for",
+        "from",
+        "have",
+        "islam",
+        "jamiat",
+        "jeay",
+        "jui",
+        "karachi",
+        "kiani",
+        "mohammed",
+        "mutiple",
+        "parties",
+        "planned",
+        "political",
+        "rally",
+        "road",
+        "roads",
+        "scheduled",
+        "several",
+        "sides",
+        "sindh",
+        "the",
+        "towar",
+        "traffic",
+        "ulema",
+        "vehicles",
+        "wafai"
+      ],
+      "source_excerpt": "Several roads have been closed in Karachi ahead of a planned demonstration by the Jamiat Ulema-i-Islam-Fazl (JUI-F) and a scheduled rally by the Jeay Sindh. Road closures Both sides of Deen Mohammed Wafai Road have been closed for traffic and vehicles are being diverted from MR Kiani Chowrangi towar",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046320/mutiple-roads-closed-for-traffic-in-karachi-ahead-of-demonstration-rally-by-political-parties",
+          "published_at": "2026-11-22T11:57:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046320/mutiple-roads-closed-for-traffic-in-karachi-ahead-of-demonstration-rally-by-political-parties",
+        "publisher_url": "https://www.dawn.com/news/2046320/mutiple-roads-closed-for-traffic-in-karachi-ahead-of-demonstration-rally-by-political-parties",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ac54c4c5ad0f3df863fbaff",
+      "remembered_at": "2026-11-22T12:00:39.465153+00:00",
+      "event_date": "2026-11-22T11:48:45+00:00",
+      "last_update": "2026-11-22T11:48:45+00:00",
+      "event": "Muneeba, Gull power Pakistan to nine-wicket win over Scotland",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "gull",
+        "muneeba",
+        "nine",
+        "over",
+        "pakistan",
+        "power",
+        "scotland",
+        "the",
+        "tribune",
+        "wicket",
+        "win"
+      ],
+      "source_excerpt": "Muneeba, Gull power Pakistan to nine-wicket win over Scotland The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUVhMC1RQnFXXzNIVjlTc05BZlI5QVhZX2RiM1c1MldScloxMDJZRk42dTdKemp3QnJ6emNnNEw3V0lYU0M5QzEzYVNpOFcyQVJxVzBKNDJoYV8zNVlrT2ZzeU55NS1mQ2REWTNrU20wbW03c2RlX3U1TE9XNzJOVnNFY2tqUG9TZzV5UGotTUxMQW9KdlRhWklxbndDZ9IBpgFBVV95cUxNUzNGeWJ3WS1IQWw1clNGdGF6T2REME9fQXNyWVFmTjJubVRtYkRxS1F4YlZRM1VZQVZuYWNvU09SdXNLdm5PbkNpWEswSElGN3pqaTFWejc5THo4LU54MFZUZnd1OUhQUG5PMWw5RkFzTUJQamR6VElxa0RmeTFhVGhuU2QwMHJJZXN4QW53RUYyX2Q5eXdyNzE3R0ROeFZKQ2JoUmxn?oc=5",
+          "published_at": "2026-11-22T11:48:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUVhMC1RQnFXXzNIVjlTc05BZlI5QVhZX2RiM1c1MldScloxMDJZRk42dTdKemp3QnJ6emNnNEw3V0lYU0M5QzEzYVNpOFcyQVJxVzBKNDJoYV8zNVlrT2ZzeU55NS1mQ2REWTNrU20wbW03c2RlX3U1TE9XNzJOVnNFY2tqUG9TZzV5UGotTUxMQW9KdlRhWklxbndDZ9IBpgFBVV95cUxNUzNGeWJ3WS1IQWw1clNGdGF6T2REME9fQXNyWVFmTjJubVRtYkRxS1F4YlZRM1VZQVZuYWNvU09SdXNLdm5PbkNpWEswSElGN3pqaTFWejc5THo4LU54MFZUZnd1OUhQUG5PMWw5RkFzTUJQamR6VElxa0RmeTFhVGhuU2QwMHJJZXN4QW53RUYyX2Q5eXdyNzE3R0ROeFZKQ2JoUmxn?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T11:14:30.754244+00:00"
+  "updated_at": "2026-11-22T12:00:39.465153+00:00"
 }
