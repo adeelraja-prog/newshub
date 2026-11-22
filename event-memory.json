@@ -113889,7 +113889,214 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d8ba279ab5e6b84e3343ddc7",
+      "remembered_at": "2026-11-22T09:30:08.235572+00:00",
+      "event_date": "2026-11-22T09:06:27+00:00",
+      "last_update": "2026-11-22T09:10:15+00:00",
+      "event": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "analyst",
+        "blockade",
+        "depend",
+        "donald",
+        "down",
+        "ease",
+        "exit",
+        "have",
+        "iran",
+        "lifting",
+        "may",
+        "naval",
+        "president",
+        "quietly",
+        "says",
+        "strategy",
+        "the",
+        "trump",
+        "wants",
+        "war",
+        "will",
+        "wind"
+      ],
+      "source_excerpt": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+          "published_at": "2026-11-22T09:06:27+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObk8wNnVFTl9Lam1DWFladHZVY3BPX2NnbGtfQlJNbmdjdi1IYTZhelVZcm15dGdiNlp5ZjBZRnBkZTd1ZVhBaWpuUUtIdURRc1ZkQ2I2bmJaMVV1LV9mMWNHMVZBeXBZMVVhWmJ0cTd1c2p0OWo5QjMwV0dlMDNSajBIZHlFVDRLTGRqcGZWQ2FkaDRGRG5zWG1ZNTdPOWhvTFF1V3JvanQyREnSAbABQVVfeXFMT1h6MHpnQUZKbVZ6RlRpMjJ2WjJrZ00xcFAzOEM5WmgwUjluZHlZeVJZcjFGZlpaa0pGbFFaRHY1UHlhLXJzY1lIdTItYV9wSlRhQnFTaWlXR2tDYWZtX0txTlVTSUczZXZnLVN2MVdrS3FYbTRQLVFpYmtnX1NMNTFNY2VtXzNweTBEWXQ2WHJJSXkxeEd4VWZOZlJZOUhVeHlXMUFhaHp4RTVjRGFqT0Y?oc=5",
+          "published_at": "2026-11-22T09:10:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b77a02138bba434b0867e311",
+      "remembered_at": "2026-11-22T09:30:08.235572+00:00",
+      "event_date": "2026-11-22T09:28:24+00:00",
+      "last_update": "2026-11-22T09:28:24+00:00",
+      "event": "Why are so many more young Scots claiming disability benefits?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "benefits",
+        "claiming",
+        "covid",
+        "disability",
+        "has",
+        "many",
+        "more",
+        "number",
+        "pandemic",
+        "risen",
+        "scots",
+        "sharply",
+        "since",
+        "the",
+        "why",
+        "young"
+      ],
+      "source_excerpt": "The number of Scots claiming disability benefits has risen sharply since the Covid pandemic - why?",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T09:28:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ebcc25ed9299dbaf2e98dc5e",
+      "remembered_at": "2026-11-22T09:30:08.235572+00:00",
+      "event_date": "2026-11-22T09:20:45+00:00",
+      "last_update": "2026-11-22T09:20:45+00:00",
+      "event": "South Korea education minister resigns over exam cheating scandal",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admits",
+        "assisted",
+        "caused",
+        "chaos",
+        "cheating",
+        "choi",
+        "college",
+        "during",
+        "education",
+        "entrance",
+        "exam",
+        "jin",
+        "korea",
+        "kyo",
+        "last",
+        "measures",
+        "minister",
+        "minute",
+        "over",
+        "resigns",
+        "scandal",
+        "south",
+        "stop",
+        "the"
+      ],
+      "source_excerpt": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T09:20:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "71126c84f971293f2d9a590a",
+      "remembered_at": "2026-11-22T09:30:08.235572+00:00",
+      "event_date": "2026-11-22T08:43:53+00:00",
+      "last_update": "2026-11-22T08:43:53+00:00",
+      "event": "PM Shehbaz to visit Russia, Iran from November 30",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "from",
+        "iran",
+        "november",
+        "russia",
+        "samaa",
+        "shehbaz",
+        "visit"
+      ],
+      "source_excerpt": "PM Shehbaz to visit Russia, Iran from November 30 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUhKaDZiTml1Wl9PQUQtelVHV1pUVlpieWF4Tm5zQTIzZ1VSWFhIQWRPSk51VXIwOG83bDZwYVhRN0w4MENaWC1XN3V6Sm1QT3JoaFV5T1k4TXRyZF9NNEtzR2dhYjBvSWxwQWx6WGYySFQ2Q0xMUkNqLUJzOEJDZFZ4dE41ZFU?oc=5",
+          "published_at": "2026-11-22T08:43:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUhKaDZiTml1Wl9PQUQtelVHV1pUVlpieWF4Tm5zQTIzZ1VSWFhIQWRPSk51VXIwOG83bDZwYVhRN0w4MENaWC1XN3V6Sm1QT3JoaFV5T1k4TXRyZF9NNEtzR2dhYjBvSWxwQWx6WGYySFQ2Q0xMUkNqLUJzOEJDZFZ4dE41ZFU?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T08:37:24.979869+00:00"
+  "updated_at": "2026-11-22T09:30:08.235572+00:00"
 }

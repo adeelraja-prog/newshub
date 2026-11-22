@@ -1,10 +1,10 @@
-# News Hub report - Sun 22 Nov, 01:37 PM PKT
+# News Hub report - Sun 22 Nov, 02:30 PM PKT
 
 ## Collection
-- New items this run: 36 | items in rolling pool: 232
-- Unique story clusters: 196 (duplicates merged: 36)
-- Clusters dropped as already published/queued: 16; unchanged since last analysis: 4
-- Items per outlet: Geo News 8, ARY News 4, Al Jazeera 4, Dunya News 3, WV News 3, Dawn 2, Dawn Pakistan 2, BBC Health 2, PhoneWorld 2, UrduPoint 1, Islamabad Post 1, The Nation (Pakistan ) 1
+- New items this run: 32 | items in rolling pool: 251
+- Unique story clusters: 212 (duplicates merged: 39)
+- Clusters dropped as already published/queued: 15; unchanged since last analysis: 2
+- Items per outlet: UrduPoint 10, ARY News 4, samaa tv 3, Dawn 2, Al Jazeera 2, Dunya News 1, Dawn Latest 1, Bol News 1, X 1, 24NewsHD 1, BBC Health 1, BBC World 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -38,15 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 0 items
+### Trump's exit strategy may depend on quietly lifting Iran blockade  [NORMAL]
+- Poster: ایران پر سمندری ناکہ بندی ختم کیے بغیر ٹرمپ کا انخلا مشکل / Lifting Iran blockade key to Trump's exit | category us_politics
+- Alternative headline: Lifting Iran naval blockade key to US exit strategy: analyst
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Iran blockade, Donald Trump, US exit strategy, Middle East tensions, naval blockade | hashtags: #Trump #Iran #USPolitics #MiddleEast
+- Scheduled: Sun 22 Nov, 02:30 PM PKT
+- Caption:
+```
+US President Donald Trump may need to ease the naval blockade on Iran to wind down ongoing tensions, according to an analyst.
+
+US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, according to an analyst. The move is viewed as a crucial step for any potential exit strategy in the region.
+
+تجزیہ کار کے مطابق اگر امریکی صدر ڈونلڈ ٹرمپ جنگ کا خاتمہ چاہتے ہیں تو انہیں ایران پر سمندری ناکہ بندی نرم کرنا ہوگی۔ یہ قدم خطے میں کسی بھی ممکنہ انخلا کی حکمت عملی کے لیے اہم سمجھا جا رہا ہے۔
+
+According to Al Jazeera
+
+#Trump #Iran #USPolitics #MiddleEast
+```
+
+### Three dead and 36 missing after Indonesian factory fire  [NORMAL]
+- Poster: انڈونیشیا کی فیکٹری میں خوفناک آتشزدگی، 3 افراد ہلاک، 36 لاپتہ / Three dead, 36 missing in Indonesia factory fire | category other
+- Alternative headline: Dozens missing following deadly fire at Indonesia confectionary factory
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC, Dawn, Dawn Latest, ARY News, Al Jazeera, Dawn Latest
+- Keywords: Indonesia factory fire, confectionary factory, missing persons, factory blaze, casualties | hashtags: #Indonesia #FactoryFire #BreakingNews
+- Scheduled: Sun 22 Nov, 02:40 PM PKT
+- Caption:
+```
+At least three people were killed and dozens remain missing following a weekend fire at an Indonesian confectionary factory.
+
+At least three people were killed and four injured in a fire at an Indonesian confectionary factory over the weekend. Rescue operations are ongoing as dozens of workers remain unaccounted for following the disaster.
+
+رواں ہفتے کے آخر میں انڈونیشیا میں مٹھائی بنانے والی ایک فیکٹری میں لگنے والی آگ کے نتیجے میں کم از کم تین افراد ہلاک اور چار زخمی ہو گئے۔ درجنوں افراد کے لاپتہ ہونے کے بعد امدادی کارروائیاں جاری ہیں۔
+
+First reported by BBC
+
+#Indonesia #FactoryFire #BreakingNews
+```
+
+### Veteran journalist Hussain Naqi passes away in Lahore  [NORMAL]
+- Poster: سینئر صحافی اور حقوق انسانی کے کارکن حسین نقی لاہور میں انتقال کر گئے / Veteran journalist Hussain Naqi passes away | category other
+- Alternative headline: Senior journalist and rights activist Hussain Naqi breathes his last
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdXZPUlA5cFE2dGlOWkQ1UWJqTGRGa2pHamlqelhzLTBfWWJIMExaaHNOUGx1NDF5WmlqSm9NNE9mYXV3Z3lTRlhPeWI1LUhIMF91NXlDWmdQb0FOOWVfQjk3N2tmSkc2MlotblZWSjNjY0Y5dkwwZDdtbUg1bjA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdXZPUlA5cFE2dGlOWkQ1UWJqTGRGa2pHamlqelhzLTBfWWJIMExaaHNOUGx1NDF5WmlqSm9NNE9mYXV3Z3lTRlhPeWI1LUhIMF91NXlDWmdQb0FOOWVfQjk3N2tmSkc2MlotblZWSjNjY0Y5dkwwZDdtbUg1bjA?oc=5
+- Supporting coverage: samaa tv, Dawn, Dawn Pakistan, ARY News
+- Keywords: Hussain Naqi, senior journalist, Lahore, obituary, human rights | hashtags: #HussainNaqi #Journalism #Lahore #Pakistan
+- Scheduled: Sun 22 Nov, 02:50 PM PKT
+- Caption:
+```
+Veteran journalist and prominent civil rights figure Hussain Naqi has passed away in Lahore.
+
+Senior journalist and veteran civil rights activist Hussain Naqi passed away in Lahore. He was widely respected for his lifelong dedication to journalism and human rights activism in Pakistan.
+
+سینئر صحافی اور معروف حقوق انسانی کے کارکن حسین نقی لاہور میں انتقال کر گئے۔ انہیں پاکستان میں صحافت اور انسانی حقوق کے لیے ان کی تاحیات خدمات پر زبردست خراج تحسین پیش کیا جاتا ہے۔
+
+According to samaa tv
+
+#HussainNaqi #Journalism #Lahore #Pakistan
+```
+
+### Three TTP-linked terrorists killed in CTD operation near Peshawar  [NORMAL]
+- Poster: پشاور کے قریب سی ٹی ڈی کا آپریشن، تین دہشت گرد ہلاک / Three terrorists killed in CTD Peshawar operation | category security
+- Alternative headline: CTD kills three terrorists in intelligence-based operation on Peshawar outskirts
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGYxLU93V25qZmM0Y3hDX2t3WUEyUm9JWFE4bmVtSm9SandrajR6OGxWV0RUMWlXdTB0WkRacEdWbVc0R3pfWGk1VVE0T0xUYnZvRThoNWdfSnVZVzJIRHFwSDRpeVp0cDNBYzB3S0pqNGR4R3RTWnZnNWJtVDVWci1rN1pEVUZtVENiQg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGYxLU93V25qZmM0Y3hDX2t3WUEyUm9JWFE4bmVtSm9SandrajR6OGxWV0RUMWlXdTB0WkRacEdWbVc0R3pfWGk1VVE0T0xUYnZvRThoNWdfSnVZVzJIRHFwSDRpeVp0cDNBYzB3S0pqNGR4R3RTWnZnNWJtVDVWci1rN1pEVUZtVENiQg?oc=5
+- Supporting coverage: samaa tv, Dawn Pakistan, Dawn
+- Keywords: CTD operation, Peshawar, terrorists killed, TTP, Counter-Terrorism Department | hashtags: #CTD #Peshawar #Security #Pakistan
+- Scheduled: Sun 22 Nov, 03:00 PM PKT
+- Caption:
+```
+Security forces neutralized three suspected TTP-linked terrorists during a Counter-Terrorism Department operation on the outskirts of Peshawar.
+
+Three terrorists linked to the TTP were killed during a Counter-Terrorism Department operation in a village on the outskirts of Peshawar. Security forces conducted the raid acting on intelligence reports regarding militant activity in the area.
+
+پشاور کے اطراف ایک گاؤں میں محکمہ انسداد دہشت گردی (سی ٹی ڈی) کے آپریشن کے دوران کالعدم ٹی ٹی پی سے جڑے تین دہشت گرد ہلاک کر دیے گئے۔ سیکیورٹی فورسز نے یہ کارروائی خفیہ اطلاعات کی بنیاد پر کی۔
+
+According to samaa tv
+
+#CTD #Peshawar #Security #Pakistan
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
+- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
-- [needs_review] normal | Van Gogh painting fetches record $190.4m following dispute resolution | Thu 19 Nov, 07:06 AM PKT
-- [needs_review] normal | Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz | Thu 19 Nov, 07:16 AM PKT
-- [needs_review] normal | Ambulance handover time limits breached over 2,000 times in four month | Thu 19 Nov, 07:26 AM PKT
 - [needs_review] normal | Foreign firms repatriate $1.16 billion out of Pakistan, report reveals | Thu 19 Nov, 08:01 AM PKT
 - [needs_review] normal | FBR unveils proposed rules to introduce faceless tax appeals system | Thu 19 Nov, 08:11 AM PKT
 - [needs_review] normal | US Defence Secretary Hegseth announces military partnership during Ven | Thu 19 Nov, 08:21 AM PKT
@@ -264,7 +357,7 @@
 - [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 07:20 AM PKT
 - [needs_review] normal | UN Member States Agree To Formal Talks On Killer Robots | Sun 22 Nov, 07:30 AM PKT
 - [published] normal | Panic In Peru As Moviegoers Rush For Exits During Earthquake | Sun 22 Nov, 07:40 AM PKT
-- [queued] normal | Sindh Seeks French Help and Technology to Restore Manchhar Lake | Sun 22 Nov, 09:18 AM PKT
+- [published] normal | Sindh Seeks French Help and Technology to Restore Manchhar Lake | Sun 22 Nov, 09:18 AM PKT
 - [queued] normal | Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike | Sun 22 Nov, 09:28 AM PKT
 - [queued] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
 - [queued] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
@@ -275,20 +368,23 @@
 - [queued] normal | Portuguese foreign minister arrives in Pakistan for official visit | Sun 22 Nov, 12:44 PM PKT
 - [queued] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
 - [queued] normal | Jeff Bezos and Lauren Sánchez expand their influence across Hollywood | Sun 22 Nov, 01:04 PM PKT
+- [queued] normal | Trump's exit strategy may depend on quietly lifting Iran blockade | Sun 22 Nov, 02:30 PM PKT
+- [queued] normal | Three dead and 36 missing after Indonesian factory fire | Sun 22 Nov, 02:40 PM PKT
+- [queued] normal | Veteran journalist Hussain Naqi passes away in Lahore | Sun 22 Nov, 02:50 PM PKT
+- [queued] normal | Three TTP-linked terrorists killed in CTD operation near Peshawar | Sun 22 Nov, 03:00 PM PKT
 
 ## Publishing this run
-- Published 'Panic In Peru As Moviegoers Rush For Exits During Earthquake'.
+- Published 'Sindh Seeks French Help and Technology to Restore Manchhar Lake'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 0 | output tokens: 0
-- Errors: 4
+- Calls: 4 | prompt tokens: 5722 | output tokens: 2150
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
