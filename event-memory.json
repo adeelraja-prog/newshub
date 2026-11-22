@@ -109704,7 +109704,400 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2d963a313659e2d33f0d5d4f",
+      "remembered_at": "2026-11-22T03:11:12.325844+00:00",
+      "event_date": "2026-11-22T02:14:18+00:00",
+      "last_update": "2026-11-22T02:14:18+00:00",
+      "event": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "buildings",
+        "continue",
+        "destroy",
+        "displaced",
+        "displacement",
+        "forces",
+        "gaza",
+        "gradual",
+        "israeli",
+        "mayor",
+        "palestinians",
+        "part",
+        "policy",
+        "protest",
+        "residential",
+        "says",
+        "strikes"
+      ],
+      "source_excerpt": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+          "published_at": "2026-11-22T02:14:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "48ad87952f189ae356148cfb",
+      "remembered_at": "2026-11-22T03:11:12.325844+00:00",
+      "event_date": "2026-11-22T02:05:50+00:00",
+      "last_update": "2026-11-22T02:05:50+00:00",
+      "event": "Bessent confirms he’s living on US military base over Iran fears",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "base",
+        "bessent",
+        "confirms",
+        "fears",
+        "iran",
+        "israeli",
+        "living",
+        "military",
+        "over",
+        "says",
+        "scott",
+        "secretary",
+        "still",
+        "treasury",
+        "two",
+        "warning",
+        "weeks"
+      ],
+      "source_excerpt": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+          "published_at": "2026-11-22T02:05:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "48663920429ee96fbcdd48fc",
+      "remembered_at": "2026-11-22T03:11:12.325844+00:00",
+      "event_date": "2026-11-22T02:59:26+00:00",
+      "last_update": "2026-11-22T02:59:26+00:00",
+      "event": "Punjab land reforms project reaches 90pc progress",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "90pc",
+        "dawn",
+        "land",
+        "progress",
+        "project",
+        "punjab",
+        "reaches",
+        "reforms"
+      ],
+      "source_excerpt": "Punjab land reforms project reaches 90pc progress Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMy1XSk1rMDBubUNWd0JpOHE1RUxWUDRuXzFyd0dBOHFNZk9LelA0dUEzbjZfU2JrWEZ5U3o5UUZ0Y1FyaEhpMFhqSnNhRzdrQ2otQzBSREI5Y0hTMkh2NXVqRlVDV1Z2amMtTTg2czQtNmFpSGJTQXhRR19RTU9GYXh4R3BwTUc5WFJZ?oc=5",
+          "published_at": "2026-11-22T02:59:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMy1XSk1rMDBubUNWd0JpOHE1RUxWUDRuXzFyd0dBOHFNZk9LelA0dUEzbjZfU2JrWEZ5U3o5UUZ0Y1FyaEhpMFhqSnNhRzdrQ2otQzBSREI5Y0hTMkh2NXVqRlVDV1Z2amMtTTg2czQtNmFpSGJTQXhRR19RTU9GYXh4R3BwTUc5WFJZ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e02951b920f2357b6f790ccf",
+      "remembered_at": "2026-11-22T03:11:12.325844+00:00",
+      "event_date": "2026-11-22T01:42:00+00:00",
+      "last_update": "2026-11-22T01:42:00+00:00",
+      "event": "Miley Cyrus and Maxx Morando are officially married",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2021",
+        "after",
+        "and",
+        "are",
+        "back",
+        "blind",
+        "boyfriend",
+        "california",
+        "came",
+        "couple",
+        "cyrus",
+        "date",
+        "five",
+        "got",
+        "her",
+        "however",
+        "married",
+        "maxx",
+        "miley",
+        "morando",
+        "news",
+        "officially",
+        "palm",
+        "right",
+        "romance",
+        "saturday",
+        "springs",
+        "started",
+        "that",
+        "the",
+        "their",
+        "together",
+        "wedding",
+        "with",
+        "years"
+      ],
+      "source_excerpt": "Miley Cyrus married her boyfriend Maxx Morando after five years together. The couple got married on Saturday in Palm Springs, California. Their wedding came after a romance that started with a blind date back in 2021. The wedding news, however, came right after Miley's...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692140-miley-cyrus-and-maxx-morando-finally-tie-the-knot",
+          "published_at": "2026-11-22T01:42:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692140-miley-cyrus-and-maxx-morando-finally-tie-the-knot",
+        "publisher_url": "https://www.geo.tv/latest/692140-miley-cyrus-and-maxx-morando-finally-tie-the-knot",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f49ac38431f92df540192d2b",
+      "remembered_at": "2026-11-22T03:11:12.325844+00:00",
+      "event_date": "2026-11-22T02:36:50+00:00",
+      "last_update": "2026-11-22T02:36:50+00:00",
+      "event": "Police foil arms smuggling bid",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arms",
+        "bid",
+        "express",
+        "foil",
+        "police",
+        "smuggling",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Police foil arms smuggling bid The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44ZF81NG5YWFhkeXhYTWY3T1JEQ1Zmd0ZYclNhLUN4MkRKZmJXU1dCMVZxSlJodnVaWXJCcG9pTWNzT1NmZXUxX3BxNnpuazdDZE5JbE5Sd0RZOVo5aHh1RmV3M0YwUUVFOUh4d2xjRG4xX3dLVlBWU9IBgAFBVV95cUxNbUZmM0hwZ3EySlhReTNjalQzZzVkM1AwbElaQjFSVG43b3Z2M1lwbThJQ0hRMjU3aEM0aG9rQjVWNUhDclBlNV9BYjYwSExRNVExbWlKNWdMenlUS0hIRHE0NnU1NmNXLUxYdGNYZzg3ZFhoVm0wVlprRVVnQXpLRw?oc=5",
+          "published_at": "2026-11-22T02:36:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44ZF81NG5YWFhkeXhYTWY3T1JEQ1Zmd0ZYclNhLUN4MkRKZmJXU1dCMVZxSlJodnVaWXJCcG9pTWNzT1NmZXUxX3BxNnpuazdDZE5JbE5Sd0RZOVo5aHh1RmV3M0YwUUVFOUh4d2xjRG4xX3dLVlBWU9IBgAFBVV95cUxNbUZmM0hwZ3EySlhReTNjalQzZzVkM1AwbElaQjFSVG43b3Z2M1lwbThJQ0hRMjU3aEM0aG9rQjVWNUhDclBlNV9BYjYwSExRNVExbWlKNWdMenlUS0hIRHE0NnU1NmNXLUxYdGNYZzg3ZFhoVm0wVlprRVVnQXpLRw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e3481da9989dd4b7860afbe9",
+      "remembered_at": "2026-11-22T03:11:12.325844+00:00",
+      "event_date": "2026-11-22T02:06:35+00:00",
+      "last_update": "2026-11-22T02:06:35+00:00",
+      "event": "Cholistan land among suspected murder motives",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "cholistan",
+        "express",
+        "land",
+        "motives",
+        "murder",
+        "suspected",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Cholistan land among suspected murder motives The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVkV0RWE3TVdwdVJGLU45cDh1OUFLNHhBaXRMOVBhekN2NnduM1ZOcC1iWUJieWhEY3ExdG9xU2Y4V2NObHlrRUhXOTRNUTFCZDk3eFlXcHRtYWtpQUFteGxYTXJrNkR5aDloOGxtcTdVLUFJMkZnR1pNcVJCN24tVFlnUENELUczZ3fSAZIBQVVfeXFMT1dMaF9ERkhmQldXQ1dkV1gtTXZyV09vTlVMVEV4TEp0SVhsMFE0U1lHeFN2TmhRbVkyNlNjajAyUlg1V2JaWUlDUGlFSk9jYTBSTTlXQVByeERvcGJVd3p4ZU1fQ0lnYUZnMEtDQ2Eya1AzWUNMWnVUemRaQmI5YjJObFNxelFyME1pcEJoV3dtaWc?oc=5",
+          "published_at": "2026-11-22T02:06:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVkV0RWE3TVdwdVJGLU45cDh1OUFLNHhBaXRMOVBhekN2NnduM1ZOcC1iWUJieWhEY3ExdG9xU2Y4V2NObHlrRUhXOTRNUTFCZDk3eFlXcHRtYWtpQUFteGxYTXJrNkR5aDloOGxtcTdVLUFJMkZnR1pNcVJCN24tVFlnUENELUczZ3fSAZIBQVVfeXFMT1dMaF9ERkhmQldXQ1dkV1gtTXZyV09vTlVMVEV4TEp0SVhsMFE0U1lHeFN2TmhRbVkyNlNjajAyUlg1V2JaWUlDUGlFSk9jYTBSTTlXQVByeERvcGJVd3p4ZU1fQ0lnYUZnMEtDQ2Eya1AzWUNMWnVUemRaQmI5YjJObFNxelFyME1pcEJoV3dtaWc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "06e2d3db969a4f864c9fb3c7",
+      "remembered_at": "2026-11-22T03:11:12.325844+00:00",
+      "event_date": "2026-11-22T02:04:29+00:00",
+      "last_update": "2026-11-22T02:04:29+00:00",
+      "event": "Woman held for fatally poisoning five relatives",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "fatally",
+        "five",
+        "for",
+        "held",
+        "poisoning",
+        "relatives",
+        "the",
+        "tribune",
+        "woman"
+      ],
+      "source_excerpt": "Woman held for fatally poisoning five relatives The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbm4zSUtESllYd01kUTNOSDQ0SnBKQWNCRkk2SXNFRkhiakY5YWVoTGJxWnpfNERjZ1lzSVktak1hQXd1VFNpanoweXZlMEh3R01TWGxyTkVGZzZMajF0SWRLbjlGckdUWEY0dVF0bWMwWEs3eE1iVnpqZi13QkY3dVNST3h1OGFkNHhmedIBlAFBVV95cUxNNERDMDNESWt2Y1dYZTQxUWQtLXJwQXc1YVBRVDdCYkhRYnA3MEQxWlhjZndsWEdwMmVMN2xNTTFndGNJU3R3Y2U5ZFBNTWhqb3NRTjU1a0xYQWxxYWlRMVRwYkk2cHBaWE84cmxKZFhCQ3ZMYUJxYkdDSGQ0all0cTJrU2o0U0V3S2tSZmZOZ1Joa01k?oc=5",
+          "published_at": "2026-11-22T02:04:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbm4zSUtESllYd01kUTNOSDQ0SnBKQWNCRkk2SXNFRkhiakY5YWVoTGJxWnpfNERjZ1lzSVktak1hQXd1VFNpanoweXZlMEh3R01TWGxyTkVGZzZMajF0SWRLbjlGckdUWEY0dVF0bWMwWEs3eE1iVnpqZi13QkY3dVNST3h1OGFkNHhmedIBlAFBVV95cUxNNERDMDNESWt2Y1dYZTQxUWQtLXJwQXc1YVBRVDdCYkhRYnA3MEQxWlhjZndsWEdwMmVMN2xNTTFndGNJU3R3Y2U5ZFBNTWhqb3NRTjU1a0xYQWxxYWlRMVRwYkk2cHBaWE84cmxKZFhCQ3ZMYUJxYkdDSGQ0all0cTJrU2o0U0V3S2tSZmZOZ1Joa01k?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1af9dcbfaba2f5ddc582ad9d",
+      "remembered_at": "2026-11-22T03:11:12.325844+00:00",
+      "event_date": "2026-11-22T02:11:38+00:00",
+      "last_update": "2026-11-22T02:11:38+00:00",
+      "event": "کراچی میں ڈاکو تاجر سے لاکھوں کے موبائل فون لوٹ کر فرار",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "آباد",
+        "تاجر",
+        "روپے",
+        "طور",
+        "فائل",
+        "فرار",
+        "فون",
+        "فوٹوکراچی",
+        "قائد",
+        "لاکھوں",
+        "لوٹ",
+        "لیے",
+        "مارکیٹ",
+        "مالیت",
+        "مبینہ",
+        "متاثر",
+        "منیر",
+        "موبائل",
+        "میں",
+        "پاس",
+        "ڈاکو",
+        "کراچی",
+        "گئے۔"
+      ],
+      "source_excerpt": "فائل فوٹوکراچی میں قائد آباد موبائل مارکیٹ کے پاس تاجر سے لاکھوں روپے مالیت کے موبائل فون مبینہ طور پر لوٹ لیے گئے۔ متاثر تاجر منیر...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1635656",
+          "published_at": "2026-11-22T02:11:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1635656",
+        "publisher_url": "https://jang.com.pk/news/1635656",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T02:10:42.835044+00:00"
+  "updated_at": "2026-11-22T03:11:12.325844+00:00"
 }

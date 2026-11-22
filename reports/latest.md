@@ -1,143 +1,50 @@
-# News Hub report - Sun 22 Nov, 07:10 AM PKT
+# News Hub report - Sun 22 Nov, 08:11 AM PKT
 
 ## Collection
-- New items this run: 14 | items in rolling pool: 200
-- Unique story clusters: 180 (duplicates merged: 20)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 7
-- Items per outlet: The Express Tribune 4, Geo News 3, Engadget 2, ProPakistani 2, Al Jazeera 1, CBS News 1, Awani International 1
+- New items this run: 18 | items in rolling pool: 176
+- Unique story clusters: 155 (duplicates merged: 21)
+- Clusters dropped as already published/queued: 23; unchanged since last analysis: 8
+- Items per outlet: ProPakistani 4, The Express Tribune 3, Al Jazeera 2, Investify 2, Jang Urdu 1, Dawn 1, chinadailyhk 1, Middle East Eye 1, ABC News & Headlines – Australian Broadcasting Corporation 1, The Guardian 1, Facebook 1, Dawn Pakistan 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Iran to ration electricity as war hits energy network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- States agree UN talks on 'killer robots' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Moviegoers head for the exits as quake strikes Peru | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Displaced Palestinians protest as Israeli air strikes continue in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bessent confirms he’s living on US military base over Iran fears | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - How a teen gamer and his mother helped rescue a missing girl | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- THE STATE OF PAKISTAN’S MENTAL HEALTH | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Smog worsens in Lahore | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab land reforms project reaches 90pc progress | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Iran to ration electricity as war hits energy network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- States agree UN talks on 'killer robots' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Moviegoers head for the exits as quake strikes Peru | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Displaced Palestinians protest as Israeli air strikes continue in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bessent confirms he’s living on US military base over Iran fears | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - How a teen gamer and his mother helped rescue a missing girl | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- THE STATE OF PAKISTAN’S MENTAL HEALTH | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Smog worsens in Lahore | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab land reforms project reaches 90pc progress | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Iran to ration electricity as war hits energy network | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- States agree UN talks on 'killer robots' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Moviegoers head for the exits as quake strikes Peru | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Displaced Palestinians protest as Israeli air strikes continue in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bessent confirms he’s living on US military base over Iran fears | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - How a teen gamer and his mother helped rescue a missing girl | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- THE STATE OF PAKISTAN’S MENTAL HEALTH | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Smog worsens in Lahore | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab land reforms project reaches 90pc progress | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 115/120 | empty: 2 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Electricity | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Minister Seeks Comprehensive Upgrade For Fisheries Sector  [NORMAL]
-- Poster: ماہی پروری کے شعبے کی بہتری کے لیے وزیر کی کوششیں جاری / Minister Seeks Fisheries Sector Upgrade | category politics
-- Alternative headline: Pakistan Government Plans Major Overhaul Of Fisheries Industry
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTFBYbXFVbFFhaFNOeXFWbnYtV2hRWl9pMWhvbVBTUFBHR1NQeVBlbVFMemM1SDVJY0M3bWZMWU1SV1ZYQk5Pdkk4eHhvbUdreHpFMGVYZzlXS2ZrVHRnT2dFak1rV0ROQmk3UnNsczVkNVlFMkt1eUJjVTRZb1Zxdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTFBYbXFVbFFhaFNOeXFWbnYtV2hRWl9pMWhvbVBTUFBHR1NQeVBlbVFMemM1SDVJY0M3bWZMWU1SV1ZYQk5Pdkk4eHhvbUdreHpFMGVYZzlXS2ZrVHRnT2dFak1rV0ROQmk3UnNsczVkNVlFMkt1eUJjVTRZb1Zxdw?oc=5
-- Supporting coverage: Dawn
-- Keywords: fisheries sector, minister, upgrade, fishing industry, marine resources, pakistan | hashtags: #Fisheries #PakistanEconomy #DawnNews #Minister #MarineLife
-- Scheduled: Sun 22 Nov, 07:10 AM PKT
-- Caption:
-```
-The government is taking steps to modernize and upgrade the fisheries sector to boost marine resources.
-
-The federal minister has called for a comprehensive upgrade of the fisheries sector. Authorities aim to enhance production, improve modern infrastructure, and support local communities involved in the fishing industry to boost national economic growth.
-
-وفاقی وزیر نے ماہی پروری کے شعبے کو جدید بنانے اور اسے اپ گریڈ کرنے کا مطالبہ کیا ہے۔ اس اقدام کا مقصد پیداوار کو بڑھانا، جدید بنیادی ڈھانچے کو بہتر بنانا اور ماہی پروری سے وابستہ مقامی برما د کو فروغ دینا ہے۔
-
-First reported by Dawn
-
-#Fisheries #PakistanEconomy #DawnNews #Minister #MarineLife
-```
-
-### Iran To Ration Electricity As Regional Conflict Hits Energy Grid  [NORMAL]
-- Poster: جنگ کے اثرات، ایران میں بجلی کی بندش اور راشننگ کا اعلان / Iran To Ration Electricity Due To War | category other
-- Alternative headline: Power Shortages Force Iran To Implement Nationwide Electricity Rationing
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjNkYUxaSk9tc01JT0EyNFpnNG9JWll6UXJ3N0loWVB5TG1LZTg1bnRYaU82YlpOOTRHc3ZURU91eXpwUFpLTS13V0d0S25nOEhPY2dIUjgyd1F5b1BRSWw4UWxXWGxxaDNJWHhfNVk4OFpIWXJUOG9xUGZESE13RFc5RzZLODVQQVR5dkp6Q2w?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjNkYUxaSk9tc01JT0EyNFpnNG9JWll6UXJ3N0loWVB5TG1LZTg1bnRYaU82YlpOOTRHc3ZURU91eXpwUFpLTS13V0d0S25nOEhPY2dIUjgyd1F5b1BRSWw4UWxXWGxxaDNJWHhfNVk4OFpIWXJUOG9xUGZESE13RFc5RzZLODVQQVR5dkp6Q2w?oc=5
-- Supporting coverage: Dawn, RNZ, Inquirer.net, The Straits Times
-- Keywords: electricity rationing, iran, energy network, war, power grid, shortage | hashtags: #Iran #EnergyCrisis #ElectricityRationing #WarImpact #DawnNews
-- Scheduled: Sun 22 Nov, 07:20 AM PKT
-- Caption:
-```
-Iran is preparing to implement electricity rationing measures as ongoing conflict damages critical energy infrastructure.
-
-Iran has announced plans to ration electricity following severe disruptions to its energy network caused by ongoing conflict. The measures are expected to impact households and industries as authorities struggle to manage generation shortfalls.
-
-جنگ کی وجہ سے توانائی کے نظام کو پہنچنے والے نقصان کے بعد ایران میں بجلی کی راشننگ کا اعلان کیا گیا ہے۔ توقع ہے کہ اس اقدام سے گھریلو صارفین اور صنعتیں متاثر ہوں گی۔
-
-First reported by Dawn
-
-#Iran #EnergyCrisis #ElectricityRationing #WarImpact #DawnNews
-```
-
-### UN Member States Agree To Formal Talks On Killer Robots  [NORMAL]
-- Poster: اقوام متحدہ میں قاتل روبوٹس کے حوالے سے مذاکرات پر اتفاق / States Agree UN Talks On Killer Robots | category other
-- Alternative headline: Nations Reach Agreement To Discuss Regulations For AI Weapons
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVJvQkRVQVFadmQ0WS1pcHQxQ01NSHo2Wmd5MG1fcXBxbktfZ3ZUQjZ4Ulo5RGRtTW1NeVMtXzZUNGNNRVZOSFdNdWNXV2lJSjZCeTNBZGU3R21PVG9wdXNGY091ZjR1THA4S3JKVUlmY0p0NTFsSjNnd19uU3lZSNIBiAFBVV95cUxPY2J6Z2tNcVBHWXcxNXc2WDIwNzJYaXBTMElhVlU2WEplREpKWklHYi1ETzVIaWM4SmJiQTZGZ3Y4YWVyamg3U2pDZXVpY25zUjNhb2lFRkltb2pKNGkyNWZnWE5qSzNhQUtvblhQb0c1WmpTV2tWQV9rWGRXZEJQdmFvMXQ0dmp2?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVJvQkRVQVFadmQ0WS1pcHQxQ01NSHo2Wmd5MG1fcXBxbktfZ3ZUQjZ4Ulo5RGRtTW1NeVMtXzZUNGNNRVZOSFdNdWNXV2lJSjZCeTNBZGU3R21PVG9wdXNGY091ZjR1THA4S3JKVUlmY0p0NTFsSjNnd19uU3lZSNIBiAFBVV95cUxPY2J6Z2tNcVBHWXcxNXc2WDIwNzJYaXBTMElhVlU2WEplREpKWklHYi1ETzVIaWM4SmJiQTZGZ3Y4YWVyamg3U2pDZXVpY25zUjNhb2lFRkltb2pKNGkyNWZnWE5qSzNhQUtvblhQb0c1WmpTV2tWQV9rWGRXZEJQdmFvMXQ0dmp2?oc=5
-- Supporting coverage: The Verge, The Express Tribune
-- Keywords: killer robots, un talks, autonomous weapons, artificial intelligence, arms control, express tribune | hashtags: #KillerRobots #UnitedNations #AIWeapons #ArmsControl #ExpressTribune
-- Scheduled: Sun 22 Nov, 07:30 AM PKT
-- Caption:
-```
-Global powers have agreed to participate in UN discussions aimed at establishing regulations for autonomous weapons.
-
-Member states have agreed to hold formal United Nations talks addressing the regulation of autonomous weapons systems, often referred to as killer robots. The discussions mark a step forward in international arms control efforts regarding artificial intelligence in warfare.
-
-اقوام متحدہ کے رکن ممالک نے خود مختار ہتھیاروں، جنہیں قاتل روبوٹس بھی کہا جاتا ہے، کے ضوابط کے حوالے سے باضابطہ مذاکرات کرنے پر اتفاق کر لیا ہے۔
-
-First reported by The Express Tribune
-
-#KillerRobots #UnitedNations #AIWeapons #ArmsControl #ExpressTribune
-```
-
-### Panic In Peru As Moviegoers Rush For Exits During Earthquake  [NORMAL]
-- Poster: پیرو میں زلزلہ، سینما ہال سے خوفزدہ شہریوں کی باہر دوڑ / Moviegoers Flee As Quake Strikes Peru | category disaster
-- Alternative headline: Strong Earthquake Disrupts Cinema Screenings And Sends People Fleeing
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: earthquake peru, moviegoers, exits, tremors, evacuation, al jazeera | hashtags: #PeruEarthquake #Earthquake #BreakingNews #AlJazeera #NaturalDisaster
-- Scheduled: Sun 22 Nov, 07:40 AM PKT
-- Caption:
-```
-Cinemagoers in Peru were captured rushing toward emergency exits as a sudden earthquake shook the area.
-
-Footage has emerged showing moviegoers frantically heading for the exits as a strong earthquake struck Peru. Cinemas and public buildings experienced immediate evacuations as tremors rattled the region, causing panic among residents.
-
-پیرو میں زلزلے کے شدید جھٹکوں کے دوران سینما ہال میں موجود افراد خوفزدہ ہو کر ہنگامی راستوں کی طرف دوڑ پڑے۔ واقعے کی فوٹیج بھی سامنے آ گئی ہے۔
-
-First reported by Al Jazeera
-
-#PeruEarthquake #Earthquake #BreakingNews #AlJazeera #NaturalDisaster
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
 
 ## Queue status
 - [needs_review] normal | How high is UK inflation and how will it affect you? | Thu 19 Nov, 02:21 AM PKT
@@ -157,7 +64,6 @@ First reported by Al Jazeera
 - [needs_review] normal | Van Gogh painting fetches record $190.4m following dispute resolution | Thu 19 Nov, 07:06 AM PKT
 - [needs_review] normal | Saudi-led coalition strikes Yemen as ships reported on fire in Hormuz | Thu 19 Nov, 07:16 AM PKT
 - [needs_review] normal | Ambulance handover time limits breached over 2,000 times in four month | Thu 19 Nov, 07:26 AM PKT
-- [published] normal | NASA’s Voyager 1 spacecraft reaches historic one light-day distance fr | Thu 19 Nov, 07:51 AM PKT
 - [needs_review] normal | Foreign firms repatriate $1.16 billion out of Pakistan, report reveals | Thu 19 Nov, 08:01 AM PKT
 - [needs_review] normal | FBR unveils proposed rules to introduce faceless tax appeals system | Thu 19 Nov, 08:11 AM PKT
 - [needs_review] normal | US Defence Secretary Hegseth announces military partnership during Ven | Thu 19 Nov, 08:21 AM PKT
@@ -354,10 +260,10 @@ First reported by Al Jazeera
 - [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 12:44 AM PKT
 - [needs_review] normal | UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt | Sun 22 Nov, 12:54 AM PKT
 - [published] normal | EU Proposes Big Tech Tax to Fund Budget | Sun 22 Nov, 01:13 AM PKT
-- [queued] normal | Noni Madueke Salvages Draw for Arsenal Against Newcastle | Sun 22 Nov, 01:23 AM PKT
+- [needs_review] normal | Noni Madueke Salvages Draw for Arsenal Against Newcastle | Sun 22 Nov, 01:23 AM PKT
 - [queued] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
-- [queued] normal | President Zardari approves five ordinances on KP legislation | Sun 22 Nov, 02:01 AM PKT
-- [queued] normal | Israeli strike hits food aid vehicle in Gaza, killing three | Sun 22 Nov, 02:11 AM PKT
+- [needs_review] normal | President Zardari approves five ordinances on KP legislation | Sun 22 Nov, 02:01 AM PKT
+- [published] normal | Israeli strike hits food aid vehicle in Gaza, killing three | Sun 22 Nov, 02:11 AM PKT
 - [queued] normal | Jair Bolsonaro Admitted to Intensive Care With Bowel Obstruction | Sun 22 Nov, 02:47 AM PKT
 - [queued] normal | Mexico Captures FBI Most Wanted Drug Kingpin in Dramatic Raid | Sun 22 Nov, 02:57 AM PKT
 - [queued] normal | Thousands Protest Across Europe Over Soaring Living Costs and Housing | Sun 22 Nov, 03:07 AM PKT
@@ -381,12 +287,12 @@ First reported by Al Jazeera
 - [queued] normal | Panic In Peru As Moviegoers Rush For Exits During Earthquake | Sun 22 Nov, 07:40 AM PKT
 
 ## Publishing this run
-- Published 'EU Proposes Big Tech Tax to Fund Budget'.
+- Published 'Israeli strike hits food aid vehicle in Gaza, killing three'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 5368 | output tokens: 2052
-- Errors: 1
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+- Calls: 3 | prompt tokens: 5143 | output tokens: 2305
+- Errors: 4
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 82 column 7 (char 3862)
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: lin
