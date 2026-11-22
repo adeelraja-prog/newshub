@@ -1,10 +1,10 @@
-# News Hub report - Sun 22 Nov, 10:18 PM PKT
+# News Hub report - Sun 22 Nov, 11:01 PM PKT
 
 ## Collection
-- New items this run: 49 | items in rolling pool: 625
-- Unique story clusters: 526 (duplicates merged: 99)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 10
-- Items per outlet: UrduPoint 21, Pakistan Today 7, Engadget 3, The News International 2, Al Jazeera 2, The Verge 2, Dawn Pakistan 1, Geo News 1, ARY News 1, Kashmir Life 1, Dawn 1, The Express Tribune 1
+- New items this run: 23 | items in rolling pool: 603
+- Unique story clusters: 505 (duplicates merged: 98)
+- Clusters dropped as already published/queued: 20; unchanged since last analysis: 9
+- Items per outlet: UrduPoint 5, Engadget 3, The News International 2, Dawn Pakistan 2, ARY News 2, The Verge 2, ARYnews.tv 1, Dawn 1, Dawn Latest 1, Al Jazeera 1, WRAL 1, Khaleej Times 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -12,36 +12,146 @@
 
 ## Top 5 most important
 - Mohsin Naqvi slams minister over repeated TV criticism, defends business community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- خواتین کے حقوق کا تحفظ اجتماعی ذمے داری ہے، وفاقی وزیر قانون | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- پشتون، بلوچ اور سندھی اپنی سرزمین کی تقسیم قبول نہیں کریں گے: ایمل ولی خان | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- سیالکوٹ سے چائلڈ پورنوگرافی میں ملوث ملزم گرفتار، این سی سی آئی اے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli settlers attack several Palestinian villages in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Canada’s PM appears next to Trump impersonator at press dinner | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Mohsin Naqvi slams minister over repeated TV criticism, defends business community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- خواتین کے حقوق کا تحفظ اجتماعی ذمے داری ہے، وفاقی وزیر قانون | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- پشتون، بلوچ اور سندھی اپنی سرزمین کی تقسیم قبول نہیں کریں گے: ایمل ولی خان | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- سیالکوٹ سے چائلڈ پورنوگرافی میں ملوث ملزم گرفتار، این سی سی آئی اے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli settlers attack several Palestinian villages in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Canada’s PM appears next to Trump impersonator at press dinner | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Mohsin Naqvi slams minister over repeated TV criticism, defends business community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- خواتین کے حقوق کا تحفظ اجتماعی ذمے داری ہے، وفاقی وزیر قانون | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- پشتون، بلوچ اور سندھی اپنی سرزمین کی تقسیم قبول نہیں کریں گے: ایمل ولی خان | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- سیالکوٹ سے چائلڈ پورنوگرافی میں ملوث ملزم گرفتار، این سی سی آئی اے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan announces first nationwide diabetes prevention and control programme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli settlers attack several Palestinian villages in occupied West Bank | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Canada’s PM appears next to Trump impersonator at press dinner | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- Overall feeds with entries: 100/120 | empty: 1 | failed: 19 | malformed/partial: 19
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Hum News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI and Judiciary Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Middle East Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: South Asia Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Bloomberg | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Today Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Dunya News TV
 
 ## Selected for the queue
-- Indian outlets blocked this run: 3 items
+### Mohsin Naqvi slams minister over repeated TV criticism, defends business community  [NORMAL]
+- Poster: محسن نقوی کا وفاقی وزیر کو سخت تنبیہ اور تاجر برادری کا دفاع / Naqvi hits back at minister, defends business community | category politics
+- Alternative headline: Naqvi warns fellow minister against repeated criticism on TV
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/mohsin-naqvi-slams-minister-over-repeated-tv-criticism-defends-business-community | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/mohsin-naqvi-slams-minister-over-repeated-tv-criticism-defends-business-community
+- Supporting coverage: ARY News, samaa tv, Dawn, Dawn Pakistan, The Express Tribune
+- Keywords: Mohsin Naqvi, Interior Minister, business community, Lahore, criticism | hashtags: #MohsinNaqvi #PakistanPolitics #ARYNews #BusinessCommunity
+- Scheduled: Sun 22 Nov, 11:01 PM PKT
+- Caption:
+```
+Interior Minister Mohsin Naqvi has strongly responded to a fellow minister over persistent television criticism while defending the business community.
+
+Interior Minister Mohsin Naqvi criticized an unnamed minister for repeatedly making remarks against him on television, stating he has endured the comments for two and a half years. Speaking in Lahore, Naqvi warned that responding would leave the minister unable to show his face. He also defended Pakistan's business community, highlighting their contributions and status as top taxpayers.
+
+وزیر داخلہ محسن نقوی نے ٹی وی پر بار بار تنقید کرنے والے نامعلوم وزیر پر سخت برہمی کا اظہار کرتے ہوئے کہا ہے کہ وہ ڈھائی سال سے صبر کر رہے ہیں۔ لاہور میں گفتگو کرتے ہوئے انہوں نے خبردار کیا کہ جس دن انہوں متعلقہ وزیر کو جواب دیا، وہ منہ دکھانے کے قابل نہیں رہیں گے۔ محسن نقوی نے تاجر برادری کا دفاع کرتے ہوئے انہیں ملک کے اہم ترین ٹیکس دہندگان قرار دیا۔
+
+First reported by ARY News.
+
+#MohsinNaqvi #PakistanPolitics #ARYNews #BusinessCommunity
+```
+
+### Pakistan announces first nationwide diabetes prevention and control programme  [NORMAL]
+- Poster: پاکستان میں پہلے ملک گیر ڈائیبیٹیز پریوینشن اینڈ کنٹرول پروگرام کا اعلان / Pakistan announces first nationwide diabetes prevention programme | category health
+- Alternative headline: Nationwide diabetes prevention and control programme launched in Pakistan
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUFUNVdpYXR6VE1NeDRCZFlxVVF5bU9XXzhkcGZQMnJFZ2pnbEc4aE1PaVpTNjJvdkxHdG1BTmJJOW5tTTRKUXFITnhSbkVzeHNtQTdiUTFCVzZMMEIwa2UtXzVTSWhrSjFkbzZ6eWZ1c3J2VFdrWVRTc2xNWm1nQ1Q5OVRnYjNFQW9qWG80Z2tZM2xOczVPWkRPM2Y?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUFUNVdpYXR6VE1NeDRCZFlxVVF5bU9XXzhkcGZQMnJFZ2pnbEc4aE1PaVpTNjJvdkxHdG1BTmJJOW5tTTRKUXFITnhSbkVzeHNtQTdiUTFCVzZMMEIwa2UtXzVTSWhrSjFkbzZ6eWZ1c3J2VFdrWVRTc2xNWm1nQ1Q5OVRnYjNFQW9qWG80Z2tZM2xOczVPWkRPM2Y?oc=5
+- Supporting coverage: ARYnews.tv, ARY News
+- Keywords: diabetes, healthcare, Pakistan, disease control, health programme | hashtags: #Diabetes #Healthcare #PakistanHealth #ARYNews
+- Scheduled: Sun 22 Nov, 11:11 PM PKT
+- Caption:
+```
+Pakistan has officially announced its first-ever nationwide diabetes prevention and control programme to tackle rising health concerns.
+
+Pakistan has announced the launch of its first nationwide diabetes prevention and control programme. Reported by ARY News, the initiative aims to address the growing prevalence of diabetes across the country through structured prevention and healthcare interventions.
+
+پاکستان میں ذیابیطس کی روک تھام اور کنٹرول کے پہلے ملک گیر پروگرام کا اعلان کر دیا گیا ہے۔ اے آر وائی نیوز کے مطابق اس اقدام کا مقصد ملک بھر میں بڑھتی ہوئی ذیابیطس کی بیماری سے نمٹنا اور صحت کی سہولیات کو بہتر بنانا ہے۔
+
+First reported by ARY News.
+
+#Diabetes #Healthcare #PakistanHealth #ARYNews
+```
+
+### Israeli settlers attack several Palestinian villages in occupied West Bank  [NORMAL]
+- Poster: مقبوضہ مغربی کنارے میں اسرائیلی آباد کاروں کے متعدد فلسطینی دیہات پر حملے / Israeli settlers attack Palestinian villages in West Bank | category war
+- Alternative headline: West Bank villages targeted in coordinated Israeli settler attacks
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Israeli settlers, West Bank, Palestine, Ramallah, attacks | hashtags: #WestBank #Palestine #AlJazeera #MiddleEast
+- Scheduled: Sun 22 Nov, 11:21 PM PKT
+- Caption:
+```
+Israeli settlers have launched coordinated attacks on several Palestinian villages across the occupied West Bank, burning vehicles and property.
+
+Israeli settlers attacked multiple Palestinian villages in the occupied West Bank, focusing on Ramallah and el-Bireh provinces. The violence included burning 12 vehicles and spray-painting racist slogans on residential homes, according to reports by Al Jazeera.
+
+قابض مغربی کنارے میں اسرائیلی آباد کاروں نے رام اللہ اور البیرہ کے صوبوں میں کئی فلسطینی دیہات پر حملے کیے۔ الجزیرہ کی رپورٹ کے مطابق ان حملوں کے دوران 12 گاڑیوں کو نذر آتش کیا گیا اور گھروں پر نسل پرستانہ نعرے درج کیے گئے۔
+
+First reported by Al Jazeera.
+
+#WestBank #Palestine #AlJazeera #MiddleEast
+```
+
+### Canada’s PM appears next to Trump impersonator at press dinner  [NORMAL]
+- Poster: کینیڈا کے وزیراعظم کے ساتھ پریس ڈنر میں ٹرمپ کے ہم شکل کی شرکت / Canada PM appears with Trump impersonator at dinner | category world
+- Alternative headline: Mark Carney shares stage with Trump impersonator at Canadian press event
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Trump impersonator, Canada, Mark Carney, Press Gallery, Al Jazeera | hashtags: #Canada #DonaldTrump #AlJazeera #WorldNews
+- Scheduled: Sun 22 Nov, 11:31 PM PKT
+- Caption:
+```
+A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.
+
+At Canada's annual Parliamentary Press Gallery dinner, a Donald Trump impersonator made a notable stage appearance alongside Mark Carney, drawing attention amid ongoing political dynamics between the two neighbouring nations, as reported by Al Jazeera.
+
+کینیڈا کی سالانہ پارلیمانی پریس گیلری کے ڈنر میں ڈোনালڈ ٹرمپ کے ایک ہم شکل نے مارک کارنی کے ساتھ اسٹیج پر شرکت کی۔ الجزیرہ کے مطابق اس واقعے نے دونوںممالک کے سیاسی ماحول میں خاصی توجہ حاصل کی ہے۔
+
+First reported by Al Jazeera.
+
+#Canada #DonaldTrump #AlJazeera #WorldNews
+```
+
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 25 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 26 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
 - [needs_review] normal | Large amount of suspected donkey meat seized in Islamabad | Thu 19 Nov, 04:53 PM PKT
@@ -258,9 +368,9 @@
 - [queued] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
 - [needs_review] normal | South Korea Education Minister Resigns Over National Exam Cheating Sca | Sun 22 Nov, 04:14 PM PKT
 - [published] normal | Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Atta | Sun 22 Nov, 04:24 PM PKT
-- [queued] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
-- [queued] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
-- [queued] normal | Major Karachi roads closed as political parties stage rallies | Sun 22 Nov, 05:58 PM PKT
+- [needs_review] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
+- [needs_review] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
+- [published] normal | Major Karachi roads closed as political parties stage rallies | Sun 22 Nov, 05:58 PM PKT
 - [queued] normal | Latest news and updates regarding India from BBC | Sun 22 Nov, 06:08 PM PKT
 - [queued] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
 - [queued] normal | Karachi placed on high alert amid upcoming political rallies | Sun 22 Nov, 06:28 PM PKT
@@ -276,14 +386,22 @@
 - [queued] normal | Oman to supply petroleum products with $200m credit facility to PSO | Sun 22 Nov, 09:36 PM PKT
 - [queued] normal | Explosion on Russian ship at Libya port caused by suspected drone atta | Sun 22 Nov, 09:46 PM PKT
 - [queued] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
+- [queued] normal | Mohsin Naqvi slams minister over repeated TV criticism, defends busine | Sun 22 Nov, 11:01 PM PKT
+- [queued] normal | Pakistan announces first nationwide diabetes prevention and control pr | Sun 22 Nov, 11:11 PM PKT
+- [queued] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
+- [queued] normal | Canada’s PM appears next to Trump impersonator at press dinner | Sun 22 Nov, 11:31 PM PKT
 
 ## Publishing this run
-- Published 'Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Attack'.
+- Published 'Major Karachi roads closed as political parties stage rallies'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 0 | output tokens: 0
-- Errors: 4
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=10.9025
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapi
+- Calls: 3 | prompt tokens: 5127 | output tokens: 2260
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i

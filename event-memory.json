@@ -117562,7 +117562,263 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "86bf75e8cdfa182df54c8e87",
+      "remembered_at": "2026-11-22T18:01:21.673783+00:00",
+      "event_date": "2026-11-22T17:12:48+00:00",
+      "last_update": "2026-11-22T17:12:48+00:00",
+      "event": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attack",
+        "base",
+        "benghazi",
+        "claimed",
+        "drone",
+        "for",
+        "from",
+        "has",
+        "hit",
+        "immediate",
+        "libya",
+        "naval",
+        "one",
+        "reaction",
+        "responsibility",
+        "russia",
+        "russian",
+        "sea",
+        "suspected",
+        "the",
+        "there",
+        "vessel",
+        "was"
+      ],
+      "source_excerpt": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+          "published_at": "2026-11-22T17:12:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "abdf13a0d1ae50d1990fe751",
+      "remembered_at": "2026-11-22T18:01:21.673783+00:00",
+      "event_date": "2026-11-22T17:29:10+00:00",
+      "last_update": "2026-11-22T17:29:10+00:00",
+      "event": "Referendum on new provinces not far away, claims Khawaja Asif",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "asif",
+        "away",
+        "claims",
+        "far",
+        "khawaja",
+        "new",
+        "not",
+        "provinces",
+        "referendum"
+      ],
+      "source_excerpt": "Referendum on new provinces not far away, claims Khawaja Asif ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXY5Z3p3Q3VVLW5xU21PNC1SSDEzMWVhdXdkb19sXzEyTDVpWnpDdDFlTGVzZXhjVDJrcmh0bVo5S2VKblNMRlhQS2szcTVMSEJmbkV6RXVhc2g1MVR4MDVaTUszMXQzY25SUlNJWW1OS0ZUMFhCeVBlenlWVmZHUUp2bkxRQQ?oc=5",
+          "published_at": "2026-11-22T17:29:10+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/referendum-on-new-provinces-not-far-away-claims-khawaja-asif",
+          "published_at": "2026-11-22T17:29:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXY5Z3p3Q3VVLW5xU21PNC1SSDEzMWVhdXdkb19sXzEyTDVpWnpDdDFlTGVzZXhjVDJrcmh0bVo5S2VKblNMRlhQS2szcTVMSEJmbkV6RXVhc2g1MVR4MDVaTUszMXQzY25SUlNJWW1OS0ZUMFhCeVBlenlWVmZHUUp2bkxRQQ?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "831832ae8cf0b7d0595a5e15",
+      "remembered_at": "2026-11-22T18:01:21.673783+00:00",
+      "event_date": "2026-11-22T16:47:00+00:00",
+      "last_update": "2026-11-22T16:47:00+00:00",
+      "event": "‘90 Day Fiance’ Star died at 35",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "day",
+        "died",
+        "fiance",
+        "international",
+        "news",
+        "star",
+        "the"
+      ],
+      "source_excerpt": "‘90 Day Fiance’ Star died at 35 The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KTEM1Q3FnSFVvU3F2RmxJWnRlUmpfZHU5V3UtY2dYOEkySDNURXhLc1ktMUpXRlhRMVl6OHQ3Q09MZDhwblF0OUNZYklVRmhLd1liaGx6dERiS2FKZ0lZWUtDVjNSUE9XYU1tNERxSVlWeFg5SWw00gF3QVVfeXFMTkpMQzVDcWdIVW9TcXZGbEladGVSal9kdTlXdS1jZ1g4STJIM1RFeEtzWS0xSldGWFExWXo4dDdDT0xkOHBuUXQ5Q1liSVVGaEt3WWJobHp0RGJLYUpnSVlZS0NWM1JQT1dhTW00RHFJWVZ4WDlJbDQ?oc=5",
+          "published_at": "2026-11-22T16:47:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KTEM1Q3FnSFVvU3F2RmxJWnRlUmpfZHU5V3UtY2dYOEkySDNURXhLc1ktMUpXRlhRMVl6OHQ3Q09MZDhwblF0OUNZYklVRmhLd1liaGx6dERiS2FKZ0lZWUtDVjNSUE9XYU1tNERxSVlWeFg5SWw00gF3QVVfeXFMTkpMQzVDcWdIVW9TcXZGbEladGVSal9kdTlXdS1jZ1g4STJIM1RFeEtzWS0xSldGWFExWXo4dDdDT0xkOHBuUXQ5Q1liSVVGaEt3WWJobHp0RGJLYUpnSVlZS0NWM1JQT1dhTW00RHFJWVZ4WDlJbDQ?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "13e3a2cf8207add855eb0a16",
+      "remembered_at": "2026-11-22T18:01:21.673783+00:00",
+      "event_date": "2026-11-22T16:57:00+00:00",
+      "last_update": "2026-11-22T16:57:00+00:00",
+      "event": "Andrew Garfield invokes Lord of the Rings' One Ring to warn about AI power",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "andrew",
+        "garfield",
+        "international",
+        "invokes",
+        "lord",
+        "news",
+        "one",
+        "power",
+        "ring",
+        "rings",
+        "the",
+        "warn"
+      ],
+      "source_excerpt": "Andrew Garfield invokes Lord of the Rings' One Ring to warn about AI power The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3h4SEMxRmZqcVVxQlFsYXM3dy1aUzFlMW1fdm83MnJIMks4MXFRY3VtMEtJbWxIcEduV1E1MlhCelFvS3FCbVdCWC1ZdG1xYnI3ZHcyRzdiODQtOUhPY1E2bnliS0FQblJHNDBnQXhncUxlbW1IeFl5d3hDUGZxa29BTXFfTWFsYTBYNVhfSmhmWDV4MnZ1X1pTZUZ3VExoMlpHcC1hTzFTYnhsRGgzMjRjTVM3M0Rxa1JLZNIBvAFBVV95cUxQS3h4SEMxRmZqcVVxQlFsYXM3dy1aUzFlMW1fdm83MnJIMks4MXFRY3VtMEtJbWxIcEduV1E1MlhCelFvS3FCbVdCWC1ZdG1xYnI3ZHcyRzdiODQtOUhPY1E2bnliS0FQblJHNDBnQXhncUxlbW1IeFl5d3hDUGZxa29BTXFfTWFsYTBYNVhfSmhmWDV4MnZ1X1pTZUZ3VExoMlpHcC1hTzFTYnhsRGgzMjRjTVM3M0Rxa1JLZA?oc=5",
+          "published_at": "2026-11-22T16:57:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3h4SEMxRmZqcVVxQlFsYXM3dy1aUzFlMW1fdm83MnJIMks4MXFRY3VtMEtJbWxIcEduV1E1MlhCelFvS3FCbVdCWC1ZdG1xYnI3ZHcyRzdiODQtOUhPY1E2bnliS0FQblJHNDBnQXhncUxlbW1IeFl5d3hDUGZxa29BTXFfTWFsYTBYNVhfSmhmWDV4MnZ1X1pTZUZ3VExoMlpHcC1hTzFTYnhsRGgzMjRjTVM3M0Rxa1JLZNIBvAFBVV95cUxQS3h4SEMxRmZqcVVxQlFsYXM3dy1aUzFlMW1fdm83MnJIMks4MXFRY3VtMEtJbWxIcEduV1E1MlhCelFvS3FCbVdCWC1ZdG1xYnI3ZHcyRzdiODQtOUhPY1E2bnliS0FQblJHNDBnQXhncUxlbW1IeFl5d3hDUGZxa29BTXFfTWFsYTBYNVhfSmhmWDV4MnZ1X1pTZUZ3VExoMlpHcC1hTzFTYnhsRGgzMjRjTVM3M0Rxa1JLZA?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ec52c98413000fb5584a6e8",
+      "remembered_at": "2026-11-22T18:01:21.673783+00:00",
+      "event_date": "2026-11-22T17:13:00+00:00",
+      "last_update": "2026-11-22T17:13:00+00:00",
+      "event": "Robert Pattinson owns a $5.3 million mansion but lives in rental homes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actor",
+        "and",
+        "biggest",
+        "bond",
+        "but",
+        "call",
+        "didn",
+        "family",
+        "get",
+        "going",
+        "his",
+        "hollywood",
+        "home",
+        "homes",
+        "james",
+        "lives",
+        "mansion",
+        "million",
+        "next",
+        "one",
+        "owns",
+        "pattinson",
+        "place",
+        "rental",
+        "robert",
+        "roles",
+        "star",
+        "still",
+        "taking",
+        "the",
+        "they",
+        "well"
+      ],
+      "source_excerpt": "Robert Pattinson owns a $5.3 million mansion but lives in rental homes Robert Pattinson is going to be taking on one of the biggest roles in Hollywood as well as the next James Bond. But the star and his family still didn’t get one place they call home. The actor and his...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692204-robert-pattinson-owns-a-53-million-mansion-but-lives-in-rental-homes",
+          "published_at": "2026-11-22T17:13:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692204-robert-pattinson-owns-a-53-million-mansion-but-lives-in-rental-homes",
+        "publisher_url": "https://www.geo.tv/latest/692204-robert-pattinson-owns-a-53-million-mansion-but-lives-in-rental-homes",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T17:18:10.778986+00:00"
+  "updated_at": "2026-11-22T18:01:21.673783+00:00"
 }
