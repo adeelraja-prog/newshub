@@ -110097,7 +110097,908 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "babdd1c219b940b7de7241d4",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-21T21:01:49+00:00",
+      "last_update": "2026-11-22T03:17:08+00:00",
+      "event": "Russian cargo ship ablaze after suspected Ukrainian drone strike",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ablaze",
+        "after",
+        "cargo",
+        "drone",
+        "russian",
+        "samaa",
+        "ship",
+        "strike",
+        "suspected",
+        "ukrainian"
+      ],
+      "source_excerpt": "Russian cargo ship ablaze after suspected Ukrainian drone strike samaa tv",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+          "published_at": "2026-11-21T21:01:49+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXpOdWlXckdpLXNuT053QVpxMFlxNkVKbjRtY29vam5PSEgtdWw5VkI3T19HWkg0eGE2MUxrTUdkSlg0WGN1Z19NOHhQSDh2YVlmMHZoOTQ1UmFFQ2tqYkVrU0p2aGsxNkdydlVYOVJzTUFkVm5xcEJGMUt2ZGEwaDFzLXoxMkVibnZMcUx1MUhIZUJtS2MzTnNBbTl0Z0tfSkdoUWVaZ0V5VktzMU9OZEcweEZ2Y00xeFJDNmh2Yzg0QndsUm9NRklNWDVLSkJuU0thMnFCZmdPV2x4S0ZLdmtybVBRM3FGOHc?oc=5",
+          "published_at": "2026-11-22T02:19:00+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVV9zR2JrQzB5VzFMS1o0UDRFOXFEN3lnbVRjNUFpcVVfMEJqZGVoV1JPY040WmRwVkdIU21KN2dBMHNHaV9rUzNnbGUxZDZqZm9EcXYwN3RoVVk5aGtxTy05TllhamhoQkRSVDFZWWdraEVFZW9NTXNTd0lycWNWcUxBcHRUelg1TWQxLUNSLUMtQUJWX0wzNEliMlI?oc=5",
+          "published_at": "2026-11-22T03:17:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVV9zR2JrQzB5VzFMS1o0UDRFOXFEN3lnbVRjNUFpcVVfMEJqZGVoV1JPY040WmRwVkdIU21KN2dBMHNHaV9rUzNnbGUxZDZqZm9EcXYwN3RoVVk5aGtxTy05TllhamhoQkRSVDFZWWdraEVFZW9NTXNTd0lycWNWcUxBcHRUelg1TWQxLUNSLUMtQUJWX0wzNEliMlI?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "48291984322998bd26c7709b",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:34:02+00:00",
+      "last_update": "2026-11-22T03:34:02+00:00",
+      "event": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "and",
+        "arrest",
+        "boss",
+        "burst",
+        "capture",
+        "cartel",
+        "during",
+        "eleven",
+        "fausto",
+        "flores",
+        "four",
+        "gunmen",
+        "isidro",
+        "killed",
+        "leader",
+        "mexican",
+        "meza",
+        "operation",
+        "seven",
+        "soldiers",
+        "violence",
+        "were"
+      ],
+      "source_excerpt": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+          "published_at": "2026-11-22T03:34:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "815fbfd97c4489b9ef7e37c9",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T04:03:26+00:00",
+      "last_update": "2026-11-22T04:03:26+00:00",
+      "event": "Sindh seeks French help to restore Manchhar Lake",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ali",
+        "ambassador",
+        "and",
+        "chief",
+        "cooperation",
+        "during",
+        "eliminate",
+        "existed",
+        "for",
+        "french",
+        "help",
+        "house",
+        "investors",
+        "its",
+        "jean",
+        "karachi",
+        "lake",
+        "manchhar",
+        "meeting",
+        "minister",
+        "murad",
+        "opportunities",
+        "poirier",
+        "pollution",
+        "restore",
+        "said",
+        "saturday",
+        "seeks",
+        "shah",
+        "sindh",
+        "sought",
+        "syed",
+        "technology",
+        "that",
+        "the",
+        "vast",
+        "with"
+      ],
+      "source_excerpt": "KARACHI: Chief Minister Syed Murad Ali Shah on Saturday sought French cooperation and technology to restore Manchhar Lake and eliminate its pollution. During a meeting with French Ambassador Jean-Noël Poirier at the CM House, Mr Shah said that vast opportunities existed for French investors in Sindh",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046236/sindh-seeks-french-help-to-restore-manchhar-lake",
+          "published_at": "2026-11-22T04:03:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046236/sindh-seeks-french-help-to-restore-manchhar-lake",
+        "publisher_url": "https://www.dawn.com/news/2046236/sindh-seeks-french-help-to-restore-manchhar-lake",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dc7331e9d8c9f9c401784552",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:55:53+00:00",
+      "last_update": "2026-11-22T03:55:53+00:00",
+      "event": "Another patient from Balochistan dies of rabies at Karachi hospital",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "another",
+        "balochistan",
+        "brought",
+        "case",
+        "centre",
+        "deadly",
+        "died",
+        "dies",
+        "emerged",
+        "from",
+        "has",
+        "hospital",
+        "infection",
+        "irfan",
+        "jhal",
+        "jinnah",
+        "jpmc",
+        "karachi",
+        "magsi",
+        "man",
+        "medical",
+        "month",
+        "nov",
+        "old",
+        "patient",
+        "postgraduate",
+        "rabies",
+        "said",
+        "saturday",
+        "second",
+        "sources",
+        "that",
+        "the",
+        "this",
+        "viral",
+        "was",
+        "year",
+        "young"
+      ],
+      "source_excerpt": "KARACHI: A young man from Balochistan has died of rabies at the Jinnah Postgraduate Medical Centre (JPMC), it emerged on Saturday. It is the second case of the deadly viral infection from Jhal Magsi this month in Karachi. Sources said that on Nov 17 20-year-old Irfan was brought to the hospital’s em",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046243/another-patient-from-balochistan-dies-of-rabies-at-karachi-hospital",
+          "published_at": "2026-11-22T03:55:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046243/another-patient-from-balochistan-dies-of-rabies-at-karachi-hospital",
+        "publisher_url": "https://www.dawn.com/news/2046243/another-patient-from-balochistan-dies-of-rabies-at-karachi-hospital",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5921cf0eef6fe58035291d81",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:58:19+00:00",
+      "last_update": "2026-11-22T03:58:19+00:00",
+      "event": "FIA probe sought into ‘issuance of fraudulent domiciles’ in Sindh",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agency",
+        "alleged",
+        "asked",
+        "based",
+        "certificates",
+        "directive",
+        "domicile",
+        "domiciles",
+        "federal",
+        "fia",
+        "for",
+        "fraudulent",
+        "has",
+        "hasan",
+        "holding",
+        "immediate",
+        "inquiry",
+        "interior",
+        "into",
+        "investigation",
+        "issuance",
+        "issue",
+        "izharul",
+        "karachi",
+        "khawaja",
+        "leader",
+        "minister",
+        "movement",
+        "muttahida",
+        "pakistan",
+        "pro",
+        "probe",
+        "qaumi",
+        "sample",
+        "senior",
+        "sindh",
+        "sought",
+        "the"
+      ],
+      "source_excerpt": "KARACHI: Senior Muttahida Qaumi Movement-Pakistan leader Khawaja Izharul Hasan has asked the federal interior minister to issue an immediate directive to the Federal Investigation Agency (FIA) for holding a sample-based inquiry into the issuance of alleged fraudulent domicile certificates in the pro",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046242/fia-probe-sought-into-issuance-of-fraudulent-domiciles-in-sindh",
+          "published_at": "2026-11-22T03:58:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046242/fia-probe-sought-into-issuance-of-fraudulent-domiciles-in-sindh",
+        "publisher_url": "https://www.dawn.com/news/2046242/fia-probe-sought-into-issuance-of-fraudulent-domiciles-in-sindh",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c7a046307144568eaca895c3",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:38:55+00:00",
+      "last_update": "2026-11-22T03:38:55+00:00",
+      "event": "How can Karachi's governance be reformed?",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046271",
+        "can",
+        "com",
+        "dawn",
+        "governance",
+        "how",
+        "https",
+        "karachi",
+        "news",
+        "reformed",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046271",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046296/how-can-karachis-governance-be-reformed",
+          "published_at": "2026-11-22T03:38:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046296/how-can-karachis-governance-be-reformed",
+        "publisher_url": "https://www.dawn.com/news/2046296/how-can-karachis-governance-be-reformed",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "746c25752d62737b1ce08776",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T04:16:54+00:00",
+      "last_update": "2026-11-22T04:16:54+00:00",
+      "event": "Zardari-Shehbaz meeting to help ease tensions: Kundi",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "addressing",
+        "after",
+        "ali",
+        "and",
+        "asif",
+        "between",
+        "ceremony",
+        "ease",
+        "faisal",
+        "governor",
+        "help",
+        "inaugurating",
+        "islamabad",
+        "karim",
+        "khyber",
+        "kundi",
+        "meeting",
+        "minister",
+        "pakhtunkhwa",
+        "parties",
+        "president",
+        "prime",
+        "ruling",
+        "said",
+        "saturday",
+        "sharif",
+        "shehbaz",
+        "swabi",
+        "tensions",
+        "that",
+        "the",
+        "this",
+        "thursday",
+        "two",
+        "while",
+        "would",
+        "zardari"
+      ],
+      "source_excerpt": "SWABI: Khyber Pakhtunkhwa Governor Faisal Karim Kundi said on Saturday that Thursday’s meeting between Prime Minister Shehbaz Sharif and President Asif Ali Zardari in Islamabad would help ease tensions between the two ruling parties. He said this while addressing a ceremony after inaugurating the ne",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046170/zardari-shehbaz-meeting-to-help-ease-tensions-kundi",
+          "published_at": "2026-11-22T04:16:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046170/zardari-shehbaz-meeting-to-help-ease-tensions-kundi",
+        "publisher_url": "https://www.dawn.com/news/2046170/zardari-shehbaz-meeting-to-help-ease-tensions-kundi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "74c21a101731586c0fe6f321",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:15:41+00:00",
+      "last_update": "2026-11-22T03:15:41+00:00",
+      "event": "Can playing GTA 6 improve memory and decision-making?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "can",
+        "decision",
+        "gta",
+        "improve",
+        "making",
+        "memory",
+        "playing",
+        "samaa"
+      ],
+      "source_excerpt": "Can playing GTA 6 improve memory and decision-making? samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQajJCQVQ3SnQza2NMc0RJbEtpRHdZODB0aDhQWnh6UHllQ0c3Mi1KNnRabFRzMFBmVGtaS2FRLVlZVXEwNUl2MFFkSnJ3d0Z3Yk41bVE0dkRjUk1uWC1aWjVPbFdoX0hYVTltZEhnUUJUbUVzalp1eHdGSXBGSG96MjdBT2VxUTRTdmZCUg?oc=5",
+          "published_at": "2026-11-22T03:15:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQajJCQVQ3SnQza2NMc0RJbEtpRHdZODB0aDhQWnh6UHllQ0c3Mi1KNnRabFRzMFBmVGtaS2FRLVlZVXEwNUl2MFFkSnJ3d0Z3Yk41bVE0dkRjUk1uWC1aWjVPbFdoX0hYVTltZEhnUUJUbUVzalp1eHdGSXBGSG96MjdBT2VxUTRTdmZCUg?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "61bdb27615416230cb04642d",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:17:10+00:00",
+      "last_update": "2026-11-22T03:17:10+00:00",
+      "event": "Smart speaker not working? Here are five common fixes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "common",
+        "five",
+        "fixes",
+        "here",
+        "not",
+        "samaa",
+        "smart",
+        "speaker",
+        "working"
+      ],
+      "source_excerpt": "Smart speaker not working? Here are five common fixes samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWG93aEN1ZjM3c0psd290eHIySFAyN1BVVlhiTkdaN0xuMEVHZU1PRkVDZFZTOEUzVDdhaTdPaF9QVm5WRG9vSENLMWlTUWFMZEFYNW82aTlVYkFFc2p6S0RCSVJzN1hDZWlEbExrUkVpem9WRE1wT0NCSDdZenUwUlhxd2JNZVdPdGlVMQ?oc=5",
+          "published_at": "2026-11-22T03:17:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWG93aEN1ZjM3c0psd290eHIySFAyN1BVVlhiTkdaN0xuMEVHZU1PRkVDZFZTOEUzVDdhaTdPaF9QVm5WRG9vSENLMWlTUWFMZEFYNW82aTlVYkFFc2p6S0RCSVJzN1hDZWlEbExrUkVpem9WRE1wT0NCSDdZenUwUlhxd2JNZVdPdGlVMQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b4d502009117bb62eead7fb6",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:16:22+00:00",
+      "last_update": "2026-11-22T03:16:22+00:00",
+      "event": "iPhone Duo has two batteries: Here's how they work",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "batteries",
+        "duo",
+        "has",
+        "here",
+        "how",
+        "iphone",
+        "samaa",
+        "they",
+        "two",
+        "work"
+      ],
+      "source_excerpt": "iPhone Duo has two batteries: Here's how they work samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDBLb0J3YkRIdXB0RFFQSHhOSmpPaWIyQnNZRHBSOUxncGZ5Y1VQZzVEeU41Q2JPQmtjbmUydEZhS3BVUFNFTjVHaGhTT1pTRy1hSk1pcUJnVHg5SExodTVYMHNfSUxhMFBhSTNBTWYxRTIzaTRWeFNTQlkxLWJFTzgwQ3BTVDlu?oc=5",
+          "published_at": "2026-11-22T03:16:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDBLb0J3YkRIdXB0RFFQSHhOSmpPaWIyQnNZRHBSOUxncGZ5Y1VQZzVEeU41Q2JPQmtjbmUydEZhS3BVUFNFTjVHaGhTT1pTRy1hSk1pcUJnVHg5SExodTVYMHNfSUxhMFBhSTNBTWYxRTIzaTRWeFNTQlkxLWJFTzgwQ3BTVDlu?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bb8767035eb253447e85af4c",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:18:07+00:00",
+      "last_update": "2026-11-22T03:18:07+00:00",
+      "event": "Trump vows to secure permanent deal to prevent Iran's nuclear ambitions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ambitions",
+        "deal",
+        "iran",
+        "nuclear",
+        "permanent",
+        "prevent",
+        "samaa",
+        "secure",
+        "trump",
+        "vows"
+      ],
+      "source_excerpt": "Trump vows to secure permanent deal to prevent Iran's nuclear ambitions samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeDRDQ09aRDJtOFdhRFBMbEVBNkRPSmhpMFp1Q1BreXppTFczeXF2bDhxRlZsbWZHYmNGbmllM0VPSnVkemlFRFppTVdUMVhCeExjdkFBelYyWDMtbXExbjFoUENXZHJlb3lqTnRVRHVrcS15X2Nqci1wdTRKakJfZFBmZG1uZ3AwR1pUOUhLUTZTUmE3NzZnZzQyWnZsdFZ0SkZ4eEJ3?oc=5",
+          "published_at": "2026-11-22T03:18:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeDRDQ09aRDJtOFdhRFBMbEVBNkRPSmhpMFp1Q1BreXppTFczeXF2bDhxRlZsbWZHYmNGbmllM0VPSnVkemlFRFppTVdUMVhCeExjdkFBelYyWDMtbXExbjFoUENXZHJlb3lqTnRVRHVrcS15X2Nqci1wdTRKakJfZFBmZG1uZ3AwR1pUOUhLUTZTUmE3NzZnZzQyWnZsdFZ0SkZ4eEJ3?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4faeb59ea7d01fc29b61418f",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:18:07+00:00",
+      "last_update": "2026-11-22T03:18:07+00:00",
+      "event": "Salman Khan says security does not ease safety fears",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "does",
+        "ease",
+        "fears",
+        "khan",
+        "not",
+        "safety",
+        "salman",
+        "samaa",
+        "says",
+        "security"
+      ],
+      "source_excerpt": "Salman Khan says security does not ease safety fears samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDZwOWZkV3BTcDBnckozUW1tVXNoTUFOYUYxQ1F1UmlvcmFzbmRSNS0yWXIzSDdTTmxQeUZzZmNCMi02UnRfMmZMQlZfYjlSMGVxVTMyTW5PSGZ2YnYwTHVHUFIxM3hXRWh3UEsteGZiMGE4NUZPY2JPWEZLSHNnbXFfVkZaWGRHeXhnTQ?oc=5",
+          "published_at": "2026-11-22T03:18:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDZwOWZkV3BTcDBnckozUW1tVXNoTUFOYUYxQ1F1UmlvcmFzbmRSNS0yWXIzSDdTTmxQeUZzZmNCMi02UnRfMmZMQlZfYjlSMGVxVTMyTW5PSGZ2YnYwTHVHUFIxM3hXRWh3UEsteGZiMGE4NUZPY2JPWEZLSHNnbXFfVkZaWGRHeXhnTQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c1d90aa1d2debab2cef33faa",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:16:14+00:00",
+      "last_update": "2026-11-22T03:16:14+00:00",
+      "event": "Signal limits mobile screenshots over AI privacy concerns",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "concerns",
+        "limits",
+        "mobile",
+        "over",
+        "privacy",
+        "samaa",
+        "screenshots",
+        "signal"
+      ],
+      "source_excerpt": "Signal limits mobile screenshots over AI privacy concerns samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYV9reUN1a3c2WHowRDNjd0VHY3hrX2xKTHl3R3FUSWc3bDNvMUtzSDdDdTZRc2F1V2ZscnZpSmNueHNiZHp4ZmIwLVVhbE8xZWpxbDZKWGxIeDhMR3hNN01hVm5YcTFWMWt1ZVQzTi1VVFM3N0x1TWpsTm5HWkppTzdUR1Jjd3A0WnQyNlg1eDlTaEk?oc=5",
+          "published_at": "2026-11-22T03:16:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYV9reUN1a3c2WHowRDNjd0VHY3hrX2xKTHl3R3FUSWc3bDNvMUtzSDdDdTZRc2F1V2ZscnZpSmNueHNiZHp4ZmIwLVVhbE8xZWpxbDZKWGxIeDhMR3hNN01hVm5YcTFWMWt1ZVQzTi1VVFM3N0x1TWpsTm5HWkppTzdUR1Jjd3A0WnQyNlg1eDlTaEk?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ce8b583ff23ca2441c96eb59",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:18:07+00:00",
+      "last_update": "2026-11-22T03:18:07+00:00",
+      "event": "Türkiye says Iran peace deal vital to global economic stability",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "deal",
+        "economic",
+        "global",
+        "iran",
+        "peace",
+        "rkiye",
+        "samaa",
+        "says",
+        "stability",
+        "vital"
+      ],
+      "source_excerpt": "Türkiye says Iran peace deal vital to global economic stability samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMjdUeUduU0tIVFJoZmxiUXl5czFVX1RxMXkxc2poRnhSejNmeWVWRXpHcEFWOUw3ZHIwYWlHRXVUckhvT0VwUHJ0M3NsQmJLaVlESHhfTExGa1hLRVBZSVl6TU5WRjZFWmo4LVctQWpyOFRQOWh3LTJhZ3JBcVJVN2FXSl9QWUFIbHFieHZLSEVmd0pvNW5LQURXYw?oc=5",
+          "published_at": "2026-11-22T03:18:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMjdUeUduU0tIVFJoZmxiUXl5czFVX1RxMXkxc2poRnhSejNmeWVWRXpHcEFWOUw3ZHIwYWlHRXVUckhvT0VwUHJ0M3NsQmJLaVlESHhfTExGa1hLRVBZSVl6TU5WRjZFWmo4LVctQWpyOFRQOWh3LTJhZ3JBcVJVN2FXSl9QWUFIbHFieHZLSEVmd0pvNW5LQURXYw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2f2a49b7defdb25a33fab129",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:19:13+00:00",
+      "last_update": "2026-11-22T03:19:13+00:00",
+      "event": "IShowSpeed completes GTA 6 after 52-hour livestream",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "completes",
+        "gta",
+        "hour",
+        "ishowspeed",
+        "livestream",
+        "samaa"
+      ],
+      "source_excerpt": "IShowSpeed completes GTA 6 after 52-hour livestream samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSEdqZFpkbVFBTUxSanJwbXJkUUtaaVoxUXRTU0dGcjZHNkQ4WUVpbDFkWW42c0wxLVVUN2h3OXNCT3RMSTJqUUg1YUROZUZ4Zk1jR0VOdXU0bFAzNlRTY2ZpRGUxSnRabkxSeGhnTnM1MERKSkRHUWMyRWNTUi1tSFlzalJGUFk3bnhz?oc=5",
+          "published_at": "2026-11-22T03:19:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSEdqZFpkbVFBTUxSanJwbXJkUUtaaVoxUXRTU0dGcjZHNkQ4WUVpbDFkWW42c0wxLVVUN2h3OXNCT3RMSTJqUUg1YUROZUZ4Zk1jR0VOdXU0bFAzNlRTY2ZpRGUxSnRabkxSeGhnTnM1MERKSkRHUWMyRWNTUi1tSFlzalJGUFk3bnhz?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "58a6cb8a868ecd91068da50c",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:18:07+00:00",
+      "last_update": "2026-11-22T03:18:07+00:00",
+      "event": "IRGC claims strikes on US radar systems in Bahrain",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bahrain",
+        "claims",
+        "irgc",
+        "radar",
+        "samaa",
+        "strikes",
+        "systems"
+      ],
+      "source_excerpt": "IRGC claims strikes on US radar systems in Bahrain samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3loeC1KMlU3UjlWd2RSQlgyMnFpbkRNemVrYS02TVB6SnhYajE4Ml81aThvTnJaYWdXY3kzc2JJSzhIWjNrZlNUTWd6a0xoaEZxcXpncm5DVWpjTk1PaFN3b2dXMGZvb1ZNODNDcVV3U1NrRGpfNWtsQ25XR1dxeXJUbjJtaU5xQVE?oc=5",
+          "published_at": "2026-11-22T03:18:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3loeC1KMlU3UjlWd2RSQlgyMnFpbkRNemVrYS02TVB6SnhYajE4Ml81aThvTnJaYWdXY3kzc2JJSzhIWjNrZlNUTWd6a0xoaEZxcXpncm5DVWpjTk1PaFN3b2dXMGZvb1ZNODNDcVV3U1NrRGpfNWtsQ25XR1dxeXJUbjJtaU5xQVE?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "229690a819499bed22b6b140",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:07:58+00:00",
+      "last_update": "2026-11-22T03:07:58+00:00",
+      "event": "Action ordered against 1,916 absentee teachers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "916",
+        "absentee",
+        "action",
+        "against",
+        "express",
+        "ordered",
+        "teachers",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Action ordered against 1,916 absentee teachers The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVE9DYXRJdnpPZVQyYlB4SnpSaXQ2cURzejlIZko0NUpEZzZPam1LcWlyZmdFdk1QMU5sWi1oVHFOai1pb1pOdEpCcFg1OVpFcFB4NFJVbmNMcjVtSW54QUdreU1RSURGVFhOaDMzQjZ2dU9KMFR6X0hnQzdOZFRxZjF5azc4UXVLc0HSAZIBQVVfeXFMT3ZXbVM5V200UXZEZGdMaGFuS3JfODZFSjNpb0pUeGJQcDBoZjNTSkh3bmlTUzRpWGhKdHhfdjc4U0tSYmpUNnBFdXdEbXkwSTRMUkdmeFZ0b2lFbDFoUkNDelhYS3JtZVNnVE1udTFkN09kMEdEdHlCcTdkQ2tLNkRwbGtvVGJDWjZFTUdveUpraGc?oc=5",
+          "published_at": "2026-11-22T03:07:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVE9DYXRJdnpPZVQyYlB4SnpSaXQ2cURzejlIZko0NUpEZzZPam1LcWlyZmdFdk1QMU5sWi1oVHFOai1pb1pOdEpCcFg1OVpFcFB4NFJVbmNMcjVtSW54QUdreU1RSURGVFhOaDMzQjZ2dU9KMFR6X0hnQzdOZFRxZjF5azc4UXVLc0HSAZIBQVVfeXFMT3ZXbVM5V200UXZEZGdMaGFuS3JfODZFSjNpb0pUeGJQcDBoZjNTSkh3bmlTUzRpWGhKdHhfdjc4U0tSYmpUNnBFdXdEbXkwSTRMUkdmeFZ0b2lFbDFoUkNDelhYS3JtZVNnVE1udTFkN09kMEdEdHlCcTdkQ2tLNkRwbGtvVGJDWjZFTUdveUpraGc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3ab65a681bfc27a8eb80cbe3",
+      "remembered_at": "2026-11-22T04:18:50.898335+00:00",
+      "event_date": "2026-11-22T03:46:46+00:00",
+      "last_update": "2026-11-22T03:46:46+00:00",
+      "event": "Journalist Shahid Maitla’s bail plea rejected",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046202",
+        "bail",
+        "com",
+        "dawn",
+        "https",
+        "journalist",
+        "journalists",
+        "maitla",
+        "news",
+        "plea",
+        "rejected",
+        "shahid",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046202/journalists-bail-plea-rejected",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046297/journalist-shahid-maitlas-bail-plea-rejected",
+          "published_at": "2026-11-22T03:46:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046297/journalist-shahid-maitlas-bail-plea-rejected",
+        "publisher_url": "https://www.dawn.com/news/2046297/journalist-shahid-maitlas-bail-plea-rejected",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T03:11:12.325844+00:00"
+  "updated_at": "2026-11-22T04:18:50.898335+00:00"
 }
