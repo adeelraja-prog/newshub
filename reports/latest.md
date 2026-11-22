@@ -1,10 +1,10 @@
-# News Hub report - Sun 22 Nov, 05:00 PM PKT
+# News Hub report - Sun 22 Nov, 05:58 PM PKT
 
 ## Collection
-- New items this run: 28 | items in rolling pool: 332
-- Unique story clusters: 276 (duplicates merged: 56)
-- Clusters dropped as already published/queued: 23; unchanged since last analysis: 2
-- Items per outlet: UrduPoint 6, Al Jazeera 5, samaa tv 3, Dawn 2, The Express Tribune 2, Geo News 2, The News International 1, Dawn Pakistan 1, X 1, Wired 1, TechJuice 1, The Arab Weekly 1
+- New items this run: 138 | items in rolling pool: 442
+- Unique story clusters: 376 (duplicates merged: 66)
+- Clusters dropped as already published/queued: 21; unchanged since last analysis: 0
+- Items per outlet: UrduPoint 100, Geo News 5, ARY News 5, Al Jazeera 4, Profit by Pakistan Today 4, samaa tv 3, Jang Urdu 2, ARYnews.tv 1, Dawn 1, The News International 1, Dunya News 1, Dawn Pakistan 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -12,24 +12,24 @@
 
 ## Top 5 most important
 - India | Latest News & Updates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What’s behind Iran’s escalation of attacks in the Gulf? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why have UN efforts to regulate ‘killer robots’ stalled? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UAE condemns Iranian attacks on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mutiple roads closed for traffic in Karachi ahead of demonstration, rally by political parties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi placed on 'high alert', traffic advisory issued ahead of planned rallies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi on high alert: Police roll out contingency plan amid rallies and protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - India | Latest News & Updates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What’s behind Iran’s escalation of attacks in the Gulf? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why have UN efforts to regulate ‘killer robots’ stalled? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UAE condemns Iranian attacks on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mutiple roads closed for traffic in Karachi ahead of demonstration, rally by political parties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi placed on 'high alert', traffic advisory issued ahead of planned rallies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi on high alert: Police roll out contingency plan amid rallies and protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - India | Latest News & Updates | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran has achieved military deterrence against enemy: Ghalibaf | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What’s behind Iran’s escalation of attacks in the Gulf? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why have UN efforts to regulate ‘killer robots’ stalled? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UAE condemns Iranian attacks on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mutiple roads closed for traffic in Karachi ahead of demonstration, rally by political parties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi placed on 'high alert', traffic advisory issued ahead of planned rallies | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi on high alert: Police roll out contingency plan amid rallies and protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,15 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
+### Major Karachi roads closed as political parties stage rallies  [NORMAL]
+- Poster: کراچی میں سیاسی جماعتوں کے احتجاج کے باعث اہم سڑکیں بند / Major roads closed in Karachi amid political rallies | category politics
+- Alternative headline: Traffic disrupted in Karachi due to political demonstrations and rallies
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046320/mutiple-roads-closed-for-traffic-in-karachi-ahead-of-demonstration-rally-by-political-parties | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046320/mutiple-roads-closed-for-traffic-in-karachi-ahead-of-demonstration-rally-by-political-parties
+- Supporting coverage: Dawn Pakistan, Dawn Pakistan
+- Keywords: Karachi traffic, JUI-F, JSRC, road closures, protest, Sindh | hashtags: #Karachi #TrafficAlert #JUIF #Protest #Pakistan
+- Scheduled: Sun 22 Nov, 05:58 PM PKT
+- Caption:
+```
+Multiple roads in Karachi were closed to traffic on Sunday as political parties and nationalist groups staged demonstrations across the city.
+
+Multiple roads were closed in Karachi as the Jamiat Ulema-i-Islam-Fazl staged a demonstration and the Jeay Sindh Rehbar Committee held a rally. While some routes have now been reopened, several key thoroughfares remain blocked due to security reasons and ongoing political protests.
+
+کراچی میں جے یو آئی ف کے مظاہرے اور جئے سندھ رہبر کمیٹی کی ریلی کے باعث متعدد سڑکیں ٹریفک کے لیے بند کر دی گئیں۔ کچھ راستے کھول دیے گئے ہیں جبکہ سیکیورٹی اور احتجاج کے باعث کئی اہم شاہراہیں اب بھی بند ہیں۔
+
+First reported by Dawn Pakistan
+
+#Karachi #TrafficAlert #JUIF #Protest #Pakistan
+```
+
+### Latest news and updates regarding India from BBC  [NORMAL]
+- Poster: بھارت سے متعلق تازہ ترین خبریں اور اپ ڈیٹس / Latest news and updates on India | category other
+- Alternative headline: BBC coverage on recent developments in India
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BRS1adzJoeFlUU0FSNWktWG9WamR6dUJfRGREY2VUZ3FCVENXZkFseEhpZE1iakJRakt0cmJ0VWVsQm1ZSTJ0QjQ3QnBZdlpjcTZr?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BRS1adzJoeFlUU0FSNWktWG9WamR6dUJfRGREY2VUZ3FCVENXZkFseEhpZE1iakJRakt0cmJ0VWVsQm1ZSTJ0QjQ3QnBZdlpjcTZr?oc=5
+- Supporting coverage: BBC
+- Keywords: India news, BBC, updates, latest news | hashtags: #India #BBC #News #Global
+- Scheduled: Sun 22 Nov, 06:08 PM PKT
+- Caption:
+```
+Get the latest news and updates regarding India from BBC's ongoing coverage.
+
+This is a general news feed entry providing the latest news and updates concerning India, as reported by the BBC.
+
+یہ بی بی سی کی جانب سے بھارت کے حوالے سے تازہ ترین خبروں اور اپ ڈیٹس پر مشتمل ایک عمومی خبر ہے۔
+
+First reported by BBC
+
+#India #BBC #News #Global
+```
+
+### Pakistani resident among two injured in Iranian attacks on Bahrain  [NORMAL]
+- Poster: بحرین میں ایرانی حملے کے دوران پاکستانی شہری سمیت دو افراد زخمی / Pakistani among two injured in Iranian attacks in Bahrain | category war
+- Alternative headline: UAE condemns Iranian attacks as Pakistani national is injured in Bahrain
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5hZGhuN01hTGktV2FuU2N1cHhaQVNDRUxhMXpQdmlOZ1lST1JsaVotcXFianozOEZZMWktSzU4U2RjZHlQZ01pMTZUQk1NcGd4SEdOcmhNX2l3bndIR2x5djFLaHNxTmtZaDlpdERQYVBOcmtqaS0zUEFLcVBfQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5hZGhuN01hTGktV2FuU2N1cHhaQVNDRUxhMXpQdmlOZ1lST1JsaVotcXFianozOEZZMWktSzU4U2RjZHlQZ01pMTZUQk1NcGd4SEdOcmhNX2l3bndIR2x5djFLaHNxTmtZaDlpdERQYVBOcmtqaS0zUEFLcVBfQQ?oc=5
+- Supporting coverage: Dawn, Dawn, Dawn, Dawn Latest
+- Keywords: Bahrain attack, Pakistani injured, Iran, UAE, Middle East | hashtags: #Bahrain #Pakistan #Iran #UAE #MiddleEast
+- Scheduled: Sun 22 Nov, 06:18 PM PKT
+- Caption:
+```
+Bahrain announced that a Pakistani resident is in critical condition among two people injured in recent Iranian attacks.
+
+Bahrain reported that two people, including a Pakistani resident who is in critical condition, were injured in recent Iranian attacks. Meanwhile, the UAE has strongly condemned the attacks on Bahrain.
+
+بحرین نے بتایا ہے کہ حالیہ ایرانی حملوں میں دو افراد زخمی ہوئے جن میں ایک پاکستانی رہائشی بھی شامل ہے جو نازک حالت میں ہے۔ ادھر متحدہ عرب امارات نے بحرین پر حملوں کی شدید مذمت کی ہے۔
+
+First reported by Dawn
+
+#Bahrain #Pakistan #Iran #UAE #MiddleEast
+```
+
+### Karachi placed on high alert amid upcoming political rallies  [NORMAL]
+- Poster: سیاسی ریلیوں کے پیش نظر کراچی میں ہائی الرٹ نافذ / Karachi on high alert ahead of political rallies | category security
+- Alternative headline: Traffic advisories and heavy police deployment as Karachi prepares for protests
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/692170-karachi-placed-on-high-alert-traffic-advisory-issued-ahead-of-planned-rallies | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692170-karachi-placed-on-high-alert-traffic-advisory-issued-ahead-of-planned-rallies
+- Supporting coverage: Geo News, Geo News
+- Keywords: Karachi high alert, police, rallies, protests, security, traffic advisory | hashtags: #Karachi #HighAlert #Security #Protests #Sindh
+- Scheduled: Sun 22 Nov, 06:28 PM PKT
+- Caption:
+```
+Police have placed Karachi on high alert and issued traffic advisories ahead of planned political protests and rallies.
+
+Police have placed security on high alert across Karachi ahead of planned protest demonstrations and rallies. Heavy contingents have been deployed in sensitive areas like the Red Zone and Karachi Press Club, while containers are being moved to manage traffic and maintain law and order.
+
+متوقع احتجاجی مظاہروں اور ریلیوں کے پیش نظر پولیس نے کراچی بھر میں سیکیورٹی ہائی الرٹ کر دی ہے۔ ریڈ زون اور کراچی پریس کلب سمیت حساس علاقوں میں پولیس کی بھاری نفری تعینات کر دی گئی ہے۔
+
+First reported by Geo News
+
+#Karachi #HighAlert #Security #Protests #Sindh
+```
+
 - Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
+- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
-- [needs_review] normal | Trump wants to talk nuclear with Putin and Xi | Thu 19 Nov, 11:13 AM PKT
-- [needs_review] normal | Rangers arrest TTP terrorist in Karachi's Manghopir | Thu 19 Nov, 11:23 AM PKT
-- [needs_review] normal | Search underway after unidentified flying object spotted over Sahiwal  | Thu 19 Nov, 11:33 AM PKT
 - [needs_review] normal | ICJ Flags Serious Concerns Over Judicial Independence in Pakistan | Thu 19 Nov, 12:33 PM PKT
 - [needs_review] normal | PlayStation Network Suffers Brief Outage Hours Before Highly Anticipat | Thu 19 Nov, 12:43 PM PKT
 - [needs_review] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
@@ -253,9 +346,9 @@
 - [needs_review] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
 - [published] normal | Iran faces a silent economic war, says Iranian president | Sun 22 Nov, 11:24 AM PKT
 - [published] normal | Carlos Alcaraz to face Alexander Zverev for ATP Finals title | Sun 22 Nov, 11:34 AM PKT
-- [queued] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
-- [queued] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
-- [queued] normal | Portuguese foreign minister arrives in Pakistan for official visit | Sun 22 Nov, 12:44 PM PKT
+- [needs_review] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
+- [needs_review] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
+- [published] normal | Portuguese foreign minister arrives in Pakistan for official visit | Sun 22 Nov, 12:44 PM PKT
 - [queued] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
 - [queued] normal | Jeff Bezos and Lauren Sánchez expand their influence across Hollywood | Sun 22 Nov, 01:04 PM PKT
 - [queued] normal | Trump's exit strategy may depend on quietly lifting Iran blockade | Sun 22 Nov, 02:30 PM PKT
@@ -271,21 +364,23 @@
 - [queued] normal | Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Atta | Sun 22 Nov, 04:24 PM PKT
 - [queued] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
 - [queued] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
+- [queued] normal | Major Karachi roads closed as political parties stage rallies | Sun 22 Nov, 05:58 PM PKT
+- [queued] normal | Latest news and updates regarding India from BBC | Sun 22 Nov, 06:08 PM PKT
+- [queued] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
+- [queued] normal | Karachi placed on high alert amid upcoming political rallies | Sun 22 Nov, 06:28 PM PKT
 
 ## Publishing this run
-- Published 'Carlos Alcaraz to face Alexander Zverev for ATP Finals title'.
+- Published 'Portuguese foreign minister arrives in Pakistan for official visit'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 5948 | output tokens: 1898
-- Errors: 5
+- Calls: 4 | prompt tokens: 5587 | output tokens: 2135
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 147 column 7 (char 6179)
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: lin

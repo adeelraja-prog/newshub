@@ -115141,7 +115141,423 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9d343fd0c281d9c3cec9cc78",
+      "remembered_at": "2026-11-22T12:58:53.892218+00:00",
+      "event_date": "2026-11-22T09:20:15+00:00",
+      "last_update": "2026-11-22T12:12:04+00:00",
+      "event": "UAE condemns Iranian attacks on Bahrain",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attacks",
+        "bahrain",
+        "condemns",
+        "dawn",
+        "iranian",
+        "uae"
+      ],
+      "source_excerpt": "UAE condemns Iranian attacks on Bahrain Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hZGhuN01hTGktV2FuU2N1cHhaQVNDRUxhMXpQdmlOZ1lST1JsaVotcXFianozOEZZMWktSzU4U2RjZHlQZ01pMTZUQk1NcGd4SEdOcmhNX2l3bndIR2x5djFLaHNxTmtZaDlpdERQYVBOcmtqaS0zUEFLcVBfQQ?oc=5",
+          "published_at": "2026-11-22T09:20:15+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOelJjR3A3SHFrTFV5Y1lRdXg4MDlIWmh0bXFWQ3FMWGwxUjh2LXhEQmZDZmlfNVpTS1VEYTdxVWF2UGhWU1NyeDlQVXFTWjhfNlpxM21OYkRjOVF4VUY5M3pObzU3dnNzOFUyc3JuOEpKWG9JYUIyZUVkRk1YOThaemt3ZlZUbHpRZmJubEhoWU1TWW9lNXRDVVI1dFdiY1czdm55bmFNNkZYOUp2OGxnbHZ1a1V1cFhPTVdabnFZdVVPMjQ?oc=5",
+          "published_at": "2026-11-22T11:20:35+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnFQazFTVjJaYnluc3pRYzM3M2d4bjZhRWVQVlp4c2lIMjZ0V213Vkh1VmVaaFZ1T1BxRXh6UWxXdC1OSDBOTnVJMnI0b2tlYlhVZnloN2NQZU5FMUxacFExUFItVUNOaS1TSHVjMnRrc05JLWY2MU9NOVJqNmNRUnBhUUUwa2VtejQweHN6WWxvUmF2Und3?oc=5",
+          "published_at": "2026-11-22T12:09:52+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
+          "published_at": "2026-11-22T12:12:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hZGhuN01hTGktV2FuU2N1cHhaQVNDRUxhMXpQdmlOZ1lST1JsaVotcXFianozOEZZMWktSzU4U2RjZHlQZ01pMTZUQk1NcGd4SEdOcmhNX2l3bndIR2x5djFLaHNxTmtZaDlpdERQYVBOcmtqaS0zUEFLcVBfQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5749ddb261d64af7b7322e4b",
+      "remembered_at": "2026-11-22T12:58:53.892218+00:00",
+      "event_date": "2026-11-22T12:31:30+00:00",
+      "last_update": "2026-11-22T12:33:10+00:00",
+      "event": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "can",
+        "congress",
+        "contributing",
+        "end",
+        "fall",
+        "for",
+        "forbade",
+        "funding",
+        "government",
+        "helped",
+        "iran",
+        "saigon",
+        "south",
+        "stop",
+        "the",
+        "vietnam",
+        "vietnamese",
+        "war"
+      ],
+      "source_excerpt": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+          "published_at": "2026-11-22T12:31:30+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlFoY0VMNzM3VDhzWHRoaGJ6WXQ3eExKQzBlX3lnb21JZjVvR0xocEVpalhTYWlpT0czWUdkM3JxamY4SFdMZ3EwVmxra1RIbTQzMFZvYlVDSTJxeWh6UlRBT2lJTjkzSDViRlpCSEprQTR3eWhERFJBQlh2eTRqUWZsS2NvYWZ2MUNvYTRVTFZ2Mk10bHpMNTFIVGp1em4wTER30gGoAUFVX3lxTE8xM1o2cUNoMXNWU09ObUNNWjdUT1kyMDN0ZFM4REhoRnowVHBCOFIxcHRqTlF3MllwVnF0ZVpubWpUQnV5VWFrSGZCdUpnbW1jbGVNWXprQ1FkM1JIeG42NHFXM2drbWxWSGFtWkxwWXY5M3BhWXpobU50T09zbmxUVkc5YWhkaEJPTnJaUks5UzBXSldYblV5d042TjdLRkpPOGVCZjRocQ?oc=5",
+          "published_at": "2026-11-22T12:33:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "63f99f9290a37fdc5762dcdf",
+      "remembered_at": "2026-11-22T12:58:53.892218+00:00",
+      "event_date": "2026-11-22T12:22:43+00:00",
+      "last_update": "2026-11-22T12:22:43+00:00",
+      "event": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "battle",
+        "bruno",
+        "captain",
+        "club",
+        "contract",
+        "current",
+        "deal",
+        "end",
+        "expires",
+        "extend",
+        "fernandes",
+        "has",
+        "hold",
+        "man",
+        "manchester",
+        "option",
+        "poor",
+        "says",
+        "season",
+        "start",
+        "talks",
+        "the",
+        "though",
+        "united"
+      ],
+      "source_excerpt": "The Manchester United captain's current deal expires at the end of the season, though the club has an option to extend.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
+          "published_at": "2026-11-22T12:22:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "57d6ca036f303faa75278ff9",
+      "remembered_at": "2026-11-22T12:58:53.892218+00:00",
+      "event_date": "2026-11-22T12:10:39+00:00",
+      "last_update": "2026-11-22T12:10:39+00:00",
+      "event": "School wins mental health and wellbeing award",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "award",
+        "blanchelande",
+        "college",
+        "for",
+        "health",
+        "judges",
+        "mental",
+        "opening",
+        "recognised",
+        "room",
+        "school",
+        "students",
+        "the",
+        "wellbeing",
+        "wins"
+      ],
+      "source_excerpt": "The opening of a wellbeing room for students at Blanchelande College is recognised by judges.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c5n4eyv9wv7zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T12:10:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c5n4eyv9wv7zo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c5n4eyv9wv7zo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3992d326d49e8c880fea5fab",
+      "remembered_at": "2026-11-22T12:58:53.892218+00:00",
+      "event_date": "2026-11-22T12:37:43+00:00",
+      "last_update": "2026-11-22T12:37:43+00:00",
+      "event": "EU will 'not endorse' climate deal, throwing COP31 deal into doubt",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "climate",
+        "cop31",
+        "deal",
+        "doubt",
+        "endorse",
+        "into",
+        "not",
+        "throwing",
+        "will"
+      ],
+      "source_excerpt": "EU will 'not endorse' climate deal, throwing COP31 deal into doubt ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1JUMXl5cW4wd04yYlBsa2xGU0tOQzhGNWxNRGE4aXBkeUFabjFCSHdqNFUyOFA2NXc1bEQ2N3FmODhPdm94NmpCclZTaEUzb1ZqMm9uVnlfQUg5dWFpdTRFZ0lDZndBenFsRW02N3VMY0JxSU0tSC1QYjAybHpaMFBFakRzU3plcEJF?oc=5",
+          "published_at": "2026-11-22T12:37:43+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/eu-will-not-endorse-climate-deal-throwing-cop31-deal-into-doubt",
+          "published_at": "2026-11-22T12:37:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1JUMXl5cW4wd04yYlBsa2xGU0tOQzhGNWxNRGE4aXBkeUFabjFCSHdqNFUyOFA2NXc1bEQ2N3FmODhPdm94NmpCclZTaEUzb1ZqMm9uVnlfQUg5dWFpdTRFZ0lDZndBenFsRW02N3VMY0JxSU0tSC1QYjAybHpaMFBFakRzU3plcEJF?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b4441857a9d4a18273976e04",
+      "remembered_at": "2026-11-22T12:58:53.892218+00:00",
+      "event_date": "2026-11-22T12:53:46+00:00",
+      "last_update": "2026-11-22T12:53:46+00:00",
+      "event": "Pakistan, Saudi Arabia agree to strengthen diplomatic coordination",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agree",
+        "arabia",
+        "coordination",
+        "diplomatic",
+        "pakistan",
+        "samaa",
+        "saudi",
+        "strengthen"
+      ],
+      "source_excerpt": "Pakistan, Saudi Arabia agree to strengthen diplomatic coordination samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGdPX1NMbk9oVS1TZGgycEdSdTlmTVJyQ3h3WENNeGc3WjQ1NXBIc3J3NmZwbS04WDNaWDl0QXBJRVUtRmxTMjZINTN3dG9EZHIyX1Y2eHR0dVhiN18wMGtXTm55SkFvSTk1SlhEOXMzcXBUR1R6eWtwUXdIU1M3Vm1mVkR6dV9TQW1zYk5tZTM4eUt4UDZ2RTVrSFl3RFpFNFY1UjJ3bVJvZ3B0b3pkNA?oc=5",
+          "published_at": "2026-11-22T12:53:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGdPX1NMbk9oVS1TZGgycEdSdTlmTVJyQ3h3WENNeGc3WjQ1NXBIc3J3NmZwbS04WDNaWDl0QXBJRVUtRmxTMjZINTN3dG9EZHIyX1Y2eHR0dVhiN18wMGtXTm55SkFvSTk1SlhEOXMzcXBUR1R6eWtwUXdIU1M3Vm1mVkR6dV9TQW1zYk5tZTM4eUt4UDZ2RTVrSFl3RFpFNFY1UjJ3bVJvZ3B0b3pkNA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "49f95e96b08cfb7d7fe77aab",
+      "remembered_at": "2026-11-22T12:58:53.892218+00:00",
+      "event_date": "2026-11-22T12:06:21+00:00",
+      "last_update": "2026-11-22T12:06:21+00:00",
+      "event": "Climate change poses major threat to Pakistan's civilisation and heritage, says Musadik Malik",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "change",
+        "civilisation",
+        "climate",
+        "dunya",
+        "heritage",
+        "major",
+        "malik",
+        "musadik",
+        "news",
+        "pakistan",
+        "poses",
+        "says",
+        "threat"
+      ],
+      "source_excerpt": "Climate change poses major threat to Pakistan's civilisation and heritage, says Musadik Malik Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFdPZTBVdTUzM1BpX3RZWFhHTGRVN1Y5WXdZS28xQ1BiWHVwWFY1WjlWSGhHOHdnTGNFajdVUnFwcHVFNXoxd0ktU3l0a3Z0d2dRcU4zTG5pbDBNbzItUnBGRzdrWDlrN2w4WGVhLUpiclNiX3FYUXlfXzFDS21lOW9nRkM3UTlPX0FLZnYydkkyWWk1bFJfb1NJVlFtcUZSY0FRSGl2Z3Z6TWtKVFHSAVZBVV95cUxNamhBekxKT1d6NG9sNG1VNEtxOFFpb0t6R2l0Vm0tYmxXT0RUY2xZa1MzV1BrUDk0a1U2RDQ2TlVBOVdTOWh4STl3VUJqT1IwNDd6eDhHQQ?oc=5",
+          "published_at": "2026-11-22T12:06:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFdPZTBVdTUzM1BpX3RZWFhHTGRVN1Y5WXdZS28xQ1BiWHVwWFY1WjlWSGhHOHdnTGNFajdVUnFwcHVFNXoxd0ktU3l0a3Z0d2dRcU4zTG5pbDBNbzItUnBGRzdrWDlrN2w4WGVhLUpiclNiX3FYUXlfXzFDS21lOW9nRkM3UTlPX0FLZnYydkkyWWk1bFJfb1NJVlFtcUZSY0FRSGl2Z3Z6TWtKVFHSAVZBVV95cUxNamhBekxKT1d6NG9sNG1VNEtxOFFpb0t6R2l0Vm0tYmxXT0RUY2xZa1MzV1BrUDk0a1U2RDQ2TlVBOVdTOWh4STl3VUJqT1IwNDd6eDhHQQ?oc=5",
+        "publisher_url": "https://dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "058c079c5af45be74e398e53",
+      "remembered_at": "2026-11-22T12:58:53.892218+00:00",
+      "event_date": "2026-11-22T08:24:00+00:00",
+      "last_update": "2026-11-22T08:24:00+00:00",
+      "event": "Miley Cyrus wipes away tears as Maxx Morando reads wedding vows",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appeared",
+        "attended",
+        "away",
+        "ceremony",
+        "cyrus",
+        "her",
+        "his",
+        "hosted",
+        "husband",
+        "intimate",
+        "knot",
+        "maxx",
+        "miley",
+        "morando",
+        "new",
+        "november",
+        "officially",
+        "private",
+        "read",
+        "reads",
+        "residence",
+        "saturday",
+        "tears",
+        "the",
+        "tied",
+        "two",
+        "vows",
+        "was",
+        "wedding",
+        "wipe",
+        "wipes"
+      ],
+      "source_excerpt": "Miley Cyrus wipes away tears as Maxx Morando reads wedding vows Miley Cyrus appeared to wipe away tears as her new husband Maxx Morando read his wedding vows. The two officially tied the knot on Saturday, November 21. The intimate ceremony was hosted at a private residence attended...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692159-miley-cyrus-wipes-away-tears-as-maxx-morando-reads-wedding-vows",
+          "published_at": "2026-11-22T08:24:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692159-miley-cyrus-wipes-away-tears-as-maxx-morando-reads-wedding-vows",
+        "publisher_url": "https://www.geo.tv/latest/692159-miley-cyrus-wipes-away-tears-as-maxx-morando-reads-wedding-vows",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T12:00:39.465153+00:00"
+  "updated_at": "2026-11-22T12:58:53.892218+00:00"
 }
