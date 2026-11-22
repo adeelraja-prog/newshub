@@ -1,34 +1,34 @@
-# News Hub report - Sun 22 Nov, 02:30 PM PKT
+# News Hub report - Sun 22 Nov, 03:24 PM PKT
 
 ## Collection
-- New items this run: 32 | items in rolling pool: 251
-- Unique story clusters: 212 (duplicates merged: 39)
-- Clusters dropped as already published/queued: 15; unchanged since last analysis: 2
-- Items per outlet: UrduPoint 10, ARY News 4, samaa tv 3, Dawn 2, Al Jazeera 2, Dunya News 1, Dawn Latest 1, Bol News 1, X 1, 24NewsHD 1, BBC Health 1, BBC World 1
+- New items this run: 49 | items in rolling pool: 288
+- Unique story clusters: 246 (duplicates merged: 42)
+- Clusters dropped as already published/queued: 19; unchanged since last analysis: 2
+- Items per outlet: UrduPoint 16, ARY News 4, Al Jazeera 3, samaa tv 2, Dawn 2, The Express Tribune 2, Geo News 2, 8AM Media 2, ARYnews.tv 1, The News International 1, Dunya News 1, Aaj English TV 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Dozens missing after fire at Indonesian factory | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Senior journalist Hussain Naqi passes away | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi-led coalition says it intercepted Houthi ballistic missile targeting western Saudi Arabia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- لاہور: سینئر صحافی حسین نقی انتقال کر گئے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI demands jail manual facilities for party founder Irman Khan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Dozens missing after fire at Indonesian factory | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Senior journalist Hussain Naqi passes away | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi-led coalition says it intercepted Houthi ballistic missile targeting western Saudi Arabia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- لاہور: سینئر صحافی حسین نقی انتقال کر گئے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI demands jail manual facilities for party founder Irman Khan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Dozens missing after fire at Indonesian factory | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Senior journalist Hussain Naqi passes away | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi-led coalition says it intercepted Houthi ballistic missile targeting western Saudi Arabia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- لاہور: سینئر صحافی حسین نقی انتقال کر گئے | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI demands jail manual facilities for party founder Irman Khan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Portuguese FM arrives for inaugural Pakistan-Portugal Business Forum: FO | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
@@ -38,111 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Trump's exit strategy may depend on quietly lifting Iran blockade  [NORMAL]
-- Poster: ایران پر سمندری ناکہ بندی ختم کیے بغیر ٹرمپ کا انخلا مشکل / Lifting Iran blockade key to Trump's exit | category us_politics
-- Alternative headline: Lifting Iran naval blockade key to US exit strategy: analyst
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Iran blockade, Donald Trump, US exit strategy, Middle East tensions, naval blockade | hashtags: #Trump #Iran #USPolitics #MiddleEast
-- Scheduled: Sun 22 Nov, 02:30 PM PKT
-- Caption:
-```
-US President Donald Trump may need to ease the naval blockade on Iran to wind down ongoing tensions, according to an analyst.
-
-US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, according to an analyst. The move is viewed as a crucial step for any potential exit strategy in the region.
-
-تجزیہ کار کے مطابق اگر امریکی صدر ڈونلڈ ٹرمپ جنگ کا خاتمہ چاہتے ہیں تو انہیں ایران پر سمندری ناکہ بندی نرم کرنا ہوگی۔ یہ قدم خطے میں کسی بھی ممکنہ انخلا کی حکمت عملی کے لیے اہم سمجھا جا رہا ہے۔
-
-According to Al Jazeera
-
-#Trump #Iran #USPolitics #MiddleEast
-```
-
-### Three dead and 36 missing after Indonesian factory fire  [NORMAL]
-- Poster: انڈونیشیا کی فیکٹری میں خوفناک آتشزدگی، 3 افراد ہلاک، 36 لاپتہ / Three dead, 36 missing in Indonesia factory fire | category other
-- Alternative headline: Dozens missing following deadly fire at Indonesia confectionary factory
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC, Dawn, Dawn Latest, ARY News, Al Jazeera, Dawn Latest
-- Keywords: Indonesia factory fire, confectionary factory, missing persons, factory blaze, casualties | hashtags: #Indonesia #FactoryFire #BreakingNews
-- Scheduled: Sun 22 Nov, 02:40 PM PKT
-- Caption:
-```
-At least three people were killed and dozens remain missing following a weekend fire at an Indonesian confectionary factory.
-
-At least three people were killed and four injured in a fire at an Indonesian confectionary factory over the weekend. Rescue operations are ongoing as dozens of workers remain unaccounted for following the disaster.
-
-رواں ہفتے کے آخر میں انڈونیشیا میں مٹھائی بنانے والی ایک فیکٹری میں لگنے والی آگ کے نتیجے میں کم از کم تین افراد ہلاک اور چار زخمی ہو گئے۔ درجنوں افراد کے لاپتہ ہونے کے بعد امدادی کارروائیاں جاری ہیں۔
-
-First reported by BBC
-
-#Indonesia #FactoryFire #BreakingNews
-```
-
-### Veteran journalist Hussain Naqi passes away in Lahore  [NORMAL]
-- Poster: سینئر صحافی اور حقوق انسانی کے کارکن حسین نقی لاہور میں انتقال کر گئے / Veteran journalist Hussain Naqi passes away | category other
-- Alternative headline: Senior journalist and rights activist Hussain Naqi breathes his last
+### Saudi-led coalition intercepts Houthi ballistic missile targeting western region  [NORMAL]
+- Poster: سعودی اتحاد نے مغربی عرب پر حوثی میزائل حملے کی کوشش ناکام بنا دی / Saudi coalition intercepts Houthi missile targeting western region | category security
+- Alternative headline: Saudi coalition intercepts Houthi ballistic missile aimed at western Saudi Arabia
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdXZPUlA5cFE2dGlOWkQ1UWJqTGRGa2pHamlqelhzLTBfWWJIMExaaHNOUGx1NDF5WmlqSm9NNE9mYXV3Z3lTRlhPeWI1LUhIMF91NXlDWmdQb0FOOWVfQjk3N2tmSkc2MlotblZWSjNjY0Y5dkwwZDdtbUg1bjA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdXZPUlA5cFE2dGlOWkQ1UWJqTGRGa2pHamlqelhzLTBfWWJIMExaaHNOUGx1NDF5WmlqSm9NNE9mYXV3Z3lTRlhPeWI1LUhIMF91NXlDWmdQb0FOOWVfQjk3N2tmSkc2MlotblZWSjNjY0Y5dkwwZDdtbUg1bjA?oc=5
-- Supporting coverage: samaa tv, Dawn, Dawn Pakistan, ARY News
-- Keywords: Hussain Naqi, senior journalist, Lahore, obituary, human rights | hashtags: #HussainNaqi #Journalism #Lahore #Pakistan
-- Scheduled: Sun 22 Nov, 02:50 PM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMizAFBVV95cUxPTnBCSUFUMlNHOTdZTnFRakJsTUFRMG14aTZOZndyWU9PUVkwcEEwT0ZfNUZ2OXBSaHcyaGVjWHlaaHNtOENfZndfUjFaY2NEY051c1lZM1lCeENkRndFWjFjQXgyaldWSjMwbW5salZ4TUJMT1lXV29LWUJuM1JWb3g0Y2pCTUoyY3pDU1YxbVZ5YmZDbXg1ZmdzbVF5UEYwSm40bUd0bDdHczNPQ0ZSbkV0WlJrTU5laWdtSzdLNHhSS0JuSEpkcHQzM0bSAdQBQVVfeXFMTlBQcEhvRnYxZXJQTk44TVVUWUVHYXJTQ0xjTHpieTdOTzFRc05aUUJxM1QyMWs1N1duMTBvaUdwNi1rd2tTUG9FWkVwRlJLRjBfS281RXRzTHU2SEo0REhFR3daRE85eHZOSDRUUVRIcFcwUXZIejNVM1BjYWJMSDN1VzNTWWVRNHNlb2EzbEVOWWFuWkxGd29Rb05FZDNzekw5TEJLVTBiOFJrU1I5ZWZtbVg4TmloOWtPZzJTRUpNQlFDQ0ZOdTNseEU5ZUNlcXdkUE8?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMizAFBVV95cUxPTnBCSUFUMlNHOTdZTnFRakJsTUFRMG14aTZOZndyWU9PUVkwcEEwT0ZfNUZ2OXBSaHcyaGVjWHlaaHNtOENfZndfUjFaY2NEY051c1lZM1lCeENkRndFWjFjQXgyaldWSjMwbW5salZ4TUJMT1lXV29LWUJuM1JWb3g0Y2pCTUoyY3pDU1YxbVZ5YmZDbXg1ZmdzbVF5UEYwSm40bUd0bDdHczNPQ0ZSbkV0WlJrTU5laWdtSzdLNHhSS0JuSEpkcHQzM0bSAdQBQVVfeXFMTlBQcEhvRnYxZXJQTk44TVVUWUVHYXJTQ0xjTHpieTdOTzFRc05aUUJxM1QyMWs1N1duMTBvaUdwNi1rd2tTUG9FWkVwRlJLRjBfS281RXRzTHU2SEo0REhFR3daRE85eHZOSDRUUVRIcFcwUXZIejNVM1BjYWJMSDN1VzNTWWVRNHNlb2EzbEVOWWFuWkxGd29Rb05FZDNzekw5TEJLVTBiOFJrU1I5ZWZtbVg4TmloOWtPZzJTRUpNQlFDQ0ZOdTNseEU5ZUNlcXdkUE8?oc=5
+- Supporting coverage: The Express Tribune, Dawn
+- Keywords: Houthi missile, Saudi coalition, ballistic missile, western Saudi Arabia, intercepted missile, Yemen conflict | hashtags: #SaudiArabia #Houthi #MissileIntercepted #MiddleEast #Defense
+- Scheduled: Sun 22 Nov, 03:24 PM PKT
 - Caption:
 ```
-Veteran journalist and prominent civil rights figure Hussain Naqi has passed away in Lahore.
+The Saudi-led coalition has successfully intercepted and blocked a ballistic missile launched toward western Saudi Arabia.
 
-Senior journalist and veteran civil rights activist Hussain Naqi passed away in Lahore. He was widely respected for his lifelong dedication to journalism and human rights activism in Pakistan.
+The Saudi-led coalition announced that it successfully intercepted a ballistic missile launched by Houthi forces targeting western Saudi Arabia, according to reports from The Express Tribune.
 
-سینئر صحافی اور معروف حقوق انسانی کے کارکن حسین نقی لاہور میں انتقال کر گئے۔ انہیں پاکستان میں صحافت اور انسانی حقوق کے لیے ان کی تاحیات خدمات پر زبردست خراج تحسین پیش کیا جاتا ہے۔
+ایکسپریس ٹریبیون کی رپورٹ کے مطابق سعودی زیر قیادت اتحاد نے اعلان کیا ہے کہ اس نے مغربی سعودی عرب کو نشانہ بنانے والے حوثی فورسز کے ایک بیلیسٹک میزائل کو کامیابی سے ناکام بنا دیا۔
 
-According to samaa tv
+First reported by The Express Tribune.
 
-#HussainNaqi #Journalism #Lahore #Pakistan
+#SaudiArabia #Houthi #MissileIntercepted #MiddleEast #Defense
 ```
 
-### Three TTP-linked terrorists killed in CTD operation near Peshawar  [NORMAL]
-- Poster: پشاور کے قریب سی ٹی ڈی کا آپریشن، تین دہشت گرد ہلاک / Three terrorists killed in CTD Peshawar operation | category security
-- Alternative headline: CTD kills three terrorists in intelligence-based operation on Peshawar outskirts
+### Former UN envoy declares Iran war was entirely preventable  [NORMAL]
+- Poster: ایران جنگ سے آسانی سے بچا جا سکتا تھا، سابق اقوام متحدہ کے ایلچی / Iran war was perfectly avoidable, says former UN envoy | category world
+- Alternative headline: Iran war was perfectly avoidable, states former UN envoy
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGYxLU93V25qZmM0Y3hDX2t3WUEyUm9JWFE4bmVtSm9SandrajR6OGxWV0RUMWlXdTB0WkRacEdWbVc0R3pfWGk1VVE0T0xUYnZvRThoNWdfSnVZVzJIRHFwSDRpeVp0cDNBYzB3S0pqNGR4R3RTWnZnNWJtVDVWci1rN1pEVUZtVENiQg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGYxLU93V25qZmM0Y3hDX2t3WUEyUm9JWFE4bmVtSm9SandrajR6OGxWV0RUMWlXdTB0WkRacEdWbVc0R3pfWGk1VVE0T0xUYnZvRThoNWdfSnVZVzJIRHFwSDRpeVp0cDNBYzB3S0pqNGR4R3RTWnZnNWJtVDVWci1rN1pEVUZtVENiQg?oc=5
-- Supporting coverage: samaa tv, Dawn Pakistan, Dawn
-- Keywords: CTD operation, Peshawar, terrorists killed, TTP, Counter-Terrorism Department | hashtags: #CTD #Peshawar #Security #Pakistan
-- Scheduled: Sun 22 Nov, 03:00 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0VqWEc0a1hnWExFSTFKc3ZoTEN4Rmd6VXR3UlBaa2h1UmVRZUNkcDF1ZlVmR0VJczFQc2FmT3FRb010bHA0WlJKWTY4bGMtR0tLUkY5a09VMDNUOGx2UmJMTkEycTdVSE9hUzhjWlNxNUZwVHVvRUdPd1pGY01VTloybGlSSmZyd2hZa01GeDc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0VqWEc0a1hnWExFSTFKc3ZoTEN4Rmd6VXR3UlBaa2h1UmVRZUNkcDF1ZlVmR0VJczFQc2FmT3FRb010bHA0WlJKWTY4bGMtR0tLUkY5a09VMDNUOGx2UmJMTkEycTdVSE9hUzhjWlNxNUZwVHVvRUdPd1pGY01VTloybGlSSmZyd2hZa01GeDc?oc=5
+- Supporting coverage: Middle East Eye, Dawn, 8AM Media
+- Keywords: Iran war, former UN envoy, avoidable war, Middle East diplomacy, international relations, conflict resolution | hashtags: #Iran #UN #MiddleEastWar #Diplomacy #WorldNews
+- Scheduled: Sun 22 Nov, 03:34 PM PKT
 - Caption:
 ```
-Security forces neutralized three suspected TTP-linked terrorists during a Counter-Terrorism Department operation on the outskirts of Peshawar.
+A former United Nations envoy has asserted that the recent conflict involving Iran was entirely avoidable.
 
-Three terrorists linked to the TTP were killed during a Counter-Terrorism Department operation in a village on the outskirts of Peshawar. Security forces conducted the raid acting on intelligence reports regarding militant activity in the area.
+A former United Nations envoy stated that the war involving Iran was completely avoidable, drawing attention to diplomatic shortcomings and missed opportunities for peaceful resolution, as reported by Dawn.
 
-پشاور کے اطراف ایک گاؤں میں محکمہ انسداد دہشت گردی (سی ٹی ڈی) کے آپریشن کے دوران کالعدم ٹی ٹی پی سے جڑے تین دہشت گرد ہلاک کر دیے گئے۔ سیکیورٹی فورسز نے یہ کارروائی خفیہ اطلاعات کی بنیاد پر کی۔
+ڈان کی رپورٹ کے مطابق اقوام متحدہ کے ایک سابق ایلچی نے کہا ہے کہ ایران سے متعلق جنگ سے مکمل طور پر بچا جا سکتا تھا، جس نے سفارتی ناکامیوں اور پرامن حل کے ضائع شدہ مواقع کی طرف توجہ مبذول کرائی۔
 
-According to samaa tv
+First reported by Dawn.
 
-#CTD #Peshawar #Security #Pakistan
+#Iran #UN #MiddleEastWar #Diplomacy #WorldNews
 ```
 
-- Indian outlets blocked this run: 2 items
+### Veteran journalist and human rights activist Hussain Naqi passes away in Lahore  [NORMAL]
+- Poster: سینئر صحافی اور انسانی حقوق کے کارکن حسین نقی لاہور میں انتقال کر گئے / Veteran journalist Hussain Naqi passes away in Lahore at 88 | category other
+- Alternative headline: Senior journalist Hussain Naqi dies at 88 in Lahore
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Jang Urdu https://jang.com.pk/news/1635669 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Jang Urdu https://jang.com.pk/news/1635669
+- Supporting coverage: Jang Urdu, UrduPoint
+- Keywords: Hussain Naqi, senior journalist, human rights activist, Lahore, Jang Urdu, obituary | hashtags: #HussainNaqi #Journalism #Pakistan #HumanRights #Lahore
+- Scheduled: Sun 22 Nov, 03:44 PM PKT
+- Caption:
+```
+Renowned senior journalist and human rights defender Hussain Naqi has passed away in Lahore at the age of 88.
+
+Veteran journalist and human rights activist Hussain Naqi has passed away in Lahore at the age of 88, according to family sources. His funeral prayers are scheduled at Jamia al-Muntazar, Model Town, Lahore.
+
+خاندانی ذرائع کے مطابق سینئر صحافی اور انسانی حقوق کے کارکن حسین نقی 88 برس کی عمر میں لاہور میں انتقال کر گئے ہیں۔ ان کی نمازِ جنازہ ماڈل ٹاؤن لاہور کے جامعہ المنتظر میں ادا کی جائے گی۔
+
+First reported by Jang Urdu.
+
+#HussainNaqi #Journalism #Pakistan #HumanRights #Lahore
+```
+
+### PTI demands jail manual facilities for party founder Imran Khan  [NORMAL]
+- Poster: پی ٹی آئی کا بانی چیئرمین کے لیے جیل مینوئل کی سہولیات کا مطالبہ / PTI demands jail manual facilities for party founder | category politics
+- Alternative headline: PTI calls for provision of jail manual facilities for founding chairman
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkFQVkpZS2t4a3gyV0U4clNRWm5VM2lEZ0YtdmdURkd0ZmlMWWYzRk4zb0tZOTdRZXoxa1VpbVFfM1dIWVZCLUNBRFh6RWxpaVJ0MjgyVFFEVlN2bV83WEFPQmxVaHoyX3czNF9kTE1Ubl9SeVg2RWVmWVc1eTlSdGhZcVdZMWtFT1E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkFQVkpZS2t4a3gyV0U4clNRWm5VM2lEZ0YtdmdURkd0ZmlMWWYzRk4zb0tZOTdRZXoxa1VpbVFfM1dIWVZCLUNBRFh6RWxpaVJ0MjgyVFFEVlN2bV83WEFPQmxVaHoyX3czNF9kTE1Ubl9SeVg2RWVmWVc1eTlSdGhZcVdZMWtFT1E?oc=5
+- Supporting coverage: ARYnews.tv, ARY News
+- Keywords: PTI demands, jail manual facilities, party founder, Imran Khan, ARY News, Pakistan politics | hashtags: #PTI #ImranKhan #AdialaJail #PakistanPolitics #ARYNews
+- Scheduled: Sun 22 Nov, 03:54 PM PKT
+- Caption:
+```
+Pakistan Tehreek-e-Insaf has formally demanded that proper jail manual facilities be provided to the party founder.
+
+Pakistan Tehreek-e-Insaf (PTI) has raised demands for the provision of standard jail manual facilities for its founding chairman, according to reports from ARY News.
+
+اے آر وائی نیوز کی رپورٹ کے مطابق پاکستان تحریک انصاف (پی ٹی آئی) نے اپنے بانی چیئرمین کے لیے معیاری جیل مینوئل کی سہولیات فراہم کرنے کا مطالبہ کیا ہے۔
+
+First reported by ARYnews.tv.
+
+#PTI #ImranKhan #AdialaJail #PakistanPolitics #ARYNews
+```
+
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
-- [needs_review] normal | Foreign firms repatriate $1.16 billion out of Pakistan, report reveals | Thu 19 Nov, 08:01 AM PKT
-- [needs_review] normal | FBR unveils proposed rules to introduce faceless tax appeals system | Thu 19 Nov, 08:11 AM PKT
-- [needs_review] normal | US Defence Secretary Hegseth announces military partnership during Ven | Thu 19 Nov, 08:21 AM PKT
 - [needs_review] normal | PTI legal eagles Salman Akram Raja and Latif Khosa shake and make up | Thu 19 Nov, 09:03 AM PKT
 - [needs_review] normal | Poll tribunal suspends election results of GBA-16 and Diamer-II | Thu 19 Nov, 09:13 AM PKT
 - [needs_review] normal | Elon Musk calls record spending on US midterms pretty foolish | Thu 19 Nov, 09:23 AM PKT
@@ -155,10 +152,7 @@ According to samaa tv
 - [needs_review] normal | ICJ Flags Serious Concerns Over Judicial Independence in Pakistan | Thu 19 Nov, 12:33 PM PKT
 - [needs_review] normal | PlayStation Network Suffers Brief Outage Hours Before Highly Anticipat | Thu 19 Nov, 12:43 PM PKT
 - [needs_review] normal | Khyber Pakhtunkhwa Government to Launch Green Rickshaw Scheme With Sub | Thu 19 Nov, 12:53 PM PKT
-- [published] normal | Aamer Jamal and Razaullah strike early as Sri Lanka lose two wickets | Thu 19 Nov, 02:46 PM PKT
-- [published] normal | Saqib Khan ruled out of further bowling in Rawalpindi Test | Thu 19 Nov, 02:56 PM PKT
 - [needs_review] normal | Sindh CM proposes Wuhan-style city management model for Karachi | Thu 19 Nov, 03:06 PM PKT
-- [published] normal | Interior Ministry bars provinces from issuing All-Pakistan arms licenc | Thu 19 Nov, 03:16 PM PKT
 - [needs_review] normal | Oil prices rise as Middle East shipping attacks counter supply surplus | Thu 19 Nov, 03:44 PM PKT
 - [needs_review] normal | Elon Musk says record spending on US midterms was 'pretty foolish' | Thu 19 Nov, 03:54 PM PKT
 - [needs_review] normal | Two PTI-affiliated Pakistanis detained in UAE over state security, LHC | Thu 19 Nov, 04:04 PM PKT
@@ -358,7 +352,7 @@ According to samaa tv
 - [needs_review] normal | UN Member States Agree To Formal Talks On Killer Robots | Sun 22 Nov, 07:30 AM PKT
 - [published] normal | Panic In Peru As Moviegoers Rush For Exits During Earthquake | Sun 22 Nov, 07:40 AM PKT
 - [published] normal | Sindh Seeks French Help and Technology to Restore Manchhar Lake | Sun 22 Nov, 09:18 AM PKT
-- [queued] normal | Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike | Sun 22 Nov, 09:28 AM PKT
+- [published] normal | Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike | Sun 22 Nov, 09:28 AM PKT
 - [queued] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
 - [queued] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
 - [queued] normal | Iran faces a silent economic war, says Iranian president | Sun 22 Nov, 11:24 AM PKT
@@ -372,18 +366,22 @@ According to samaa tv
 - [queued] normal | Three dead and 36 missing after Indonesian factory fire | Sun 22 Nov, 02:40 PM PKT
 - [queued] normal | Veteran journalist Hussain Naqi passes away in Lahore | Sun 22 Nov, 02:50 PM PKT
 - [queued] normal | Three TTP-linked terrorists killed in CTD operation near Peshawar | Sun 22 Nov, 03:00 PM PKT
+- [queued] normal | Saudi-led coalition intercepts Houthi ballistic missile targeting west | Sun 22 Nov, 03:24 PM PKT
+- [queued] normal | Former UN envoy declares Iran war was entirely preventable | Sun 22 Nov, 03:34 PM PKT
+- [queued] normal | Veteran journalist and human rights activist Hussain Naqi passes away  | Sun 22 Nov, 03:44 PM PKT
+- [queued] normal | PTI demands jail manual facilities for party founder Imran Khan | Sun 22 Nov, 03:54 PM PKT
 
 ## Publishing this run
-- Published 'Sindh Seeks French Help and Technology to Restore Manchhar Lake'.
+- Published 'Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 5722 | output tokens: 2150
+- Calls: 4 | prompt tokens: 6114 | output tokens: 2262
 - Errors: 3
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,

@@ -114096,7 +114096,501 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0aed094eb744c96622bff451",
+      "remembered_at": "2026-11-22T10:24:35.483421+00:00",
+      "event_date": "2026-11-22T05:47:50+00:00",
+      "last_update": "2026-11-22T09:34:56+00:00",
+      "event": "Saudi-led coalition says it intercepted Houthi ballistic missile targeting western Saudi Arabia",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arabia",
+        "ballistic",
+        "coalition",
+        "express",
+        "houthi",
+        "intercepted",
+        "led",
+        "missile",
+        "saudi",
+        "says",
+        "targeting",
+        "the",
+        "tribune",
+        "western"
+      ],
+      "source_excerpt": "Saudi-led coalition says it intercepted Houthi ballistic missile targeting western Saudi Arabia The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTnBCSUFUMlNHOTdZTnFRakJsTUFRMG14aTZOZndyWU9PUVkwcEEwT0ZfNUZ2OXBSaHcyaGVjWHlaaHNtOENfZndfUjFaY2NEY051c1lZM1lCeENkRndFWjFjQXgyaldWSjMwbW5salZ4TUJMT1lXV29LWUJuM1JWb3g0Y2pCTUoyY3pDU1YxbVZ5YmZDbXg1ZmdzbVF5UEYwSm40bUd0bDdHczNPQ0ZSbkV0WlJrTU5laWdtSzdLNHhSS0JuSEpkcHQzM0bSAdQBQVVfeXFMTlBQcEhvRnYxZXJQTk44TVVUWUVHYXJTQ0xjTHpieTdOTzFRc05aUUJxM1QyMWs1N1duMTBvaUdwNi1rd2tTUG9FWkVwRlJLRjBfS281RXRzTHU2SEo0REhFR3daRE85eHZOSDRUUVRIcFcwUXZIejNVM1BjYWJMSDN1VzNTWWVRNHNlb2EzbEVOWWFuWkxGd29Rb05FZDNzekw5TEJLVTBiOFJrU1I5ZWZtbVg4TmloOWtPZzJTRUpNQlFDQ0ZOdTNseEU5ZUNlcXdkUE8?oc=5",
+          "published_at": "2026-11-22T05:47:50+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZndZTEpZU0lGVVVwOWpDSE9oSUtmY2Z6WHpSSDVMX1dNR085bjkwS09McVozTzI2dnNYZDViMy1CelpJT2NVNkVJY3pnRWg4S2l5aUIwUGlQeDNuaUdFYUMyTTN3Rk0taU1lTTdONnpKTW9WcWtmUmJpZDlsUzRDMmhKNGpucGNUWW41YnhxZ19Jb1BKMEUtTG0tVmZDS2Y1WDRfMUl3?oc=5",
+          "published_at": "2026-11-22T09:34:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTnBCSUFUMlNHOTdZTnFRakJsTUFRMG14aTZOZndyWU9PUVkwcEEwT0ZfNUZ2OXBSaHcyaGVjWHlaaHNtOENfZndfUjFaY2NEY051c1lZM1lCeENkRndFWjFjQXgyaldWSjMwbW5salZ4TUJMT1lXV29LWUJuM1JWb3g0Y2pCTUoyY3pDU1YxbVZ5YmZDbXg1ZmdzbVF5UEYwSm40bUd0bDdHczNPQ0ZSbkV0WlJrTU5laWdtSzdLNHhSS0JuSEpkcHQzM0bSAdQBQVVfeXFMTlBQcEhvRnYxZXJQTk44TVVUWUVHYXJTQ0xjTHpieTdOTzFRc05aUUJxM1QyMWs1N1duMTBvaUdwNi1rd2tTUG9FWkVwRlJLRjBfS281RXRzTHU2SEo0REhFR3daRE85eHZOSDRUUVRIcFcwUXZIejNVM1BjYWJMSDN1VzNTWWVRNHNlb2EzbEVOWWFuWkxGd29Rb05FZDNzekw5TEJLVTBiOFJrU1I5ZWZtbVg4TmloOWtPZzJTRUpNQlFDQ0ZOdTNseEU5ZUNlcXdkUE8?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "06de614118f601acf4f7d0de",
+      "remembered_at": "2026-11-22T10:24:35.483421+00:00",
+      "event_date": "2026-11-22T05:11:29+00:00",
+      "last_update": "2026-11-22T09:30:12+00:00",
+      "event": "لاہور: سینئر صحافی حسین نقی انتقال کر گئے",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "انتقال",
+        "انسانی",
+        "اور",
+        "حسین",
+        "حقوق",
+        "سینئر",
+        "صحافی",
+        "فائل",
+        "فوٹوسینئر",
+        "لاہور",
+        "نقی",
+        "کارکن",
+        "گئے",
+        "گئے۔اہلخانہ"
+      ],
+      "source_excerpt": "سینئر صحافی اور انسانی حقوق کے کارکن حسین نقی—فائل فوٹوسینئر صحافی اور انسانی حقوق کے کارکن حسین نقی انتقال کر گئے۔اہلخانہ کے...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1635669",
+          "published_at": "2026-11-22T05:11:29+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5018899",
+          "published_at": "2026-11-22T09:30:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1635669",
+        "publisher_url": "https://jang.com.pk/news/1635669",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "26f4149f72e60f6f1d2ec69c",
+      "remembered_at": "2026-11-22T10:24:35.483421+00:00",
+      "event_date": "2026-11-22T09:40:55+00:00",
+      "last_update": "2026-11-22T09:40:55+00:00",
+      "event": "PTI demands jail manual facilities for party founder Irman Khan",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "demands",
+        "facilities",
+        "for",
+        "founder",
+        "irman",
+        "jail",
+        "khan",
+        "manual",
+        "party",
+        "pti"
+      ],
+      "source_excerpt": "PTI demands jail manual facilities for party founder Irman Khan ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkFQVkpZS2t4a3gyV0U4clNRWm5VM2lEZ0YtdmdURkd0ZmlMWWYzRk4zb0tZOTdRZXoxa1VpbVFfM1dIWVZCLUNBRFh6RWxpaVJ0MjgyVFFEVlN2bV83WEFPQmxVaHoyX3czNF9kTE1Ubl9SeVg2RWVmWVc1eTlSdGhZcVdZMWtFT1E?oc=5",
+          "published_at": "2026-11-22T09:40:55+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pti-demands-jail-manual-facilities-for-party-founder-irman-khan",
+          "published_at": "2026-11-22T09:40:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkFQVkpZS2t4a3gyV0U4clNRWm5VM2lEZ0YtdmdURkd0ZmlMWWYzRk4zb0tZOTdRZXoxa1VpbVFfM1dIWVZCLUNBRFh6RWxpaVJ0MjgyVFFEVlN2bV83WEFPQmxVaHoyX3czNF9kTE1Ubl9SeVg2RWVmWVc1eTlSdGhZcVdZMWtFT1E?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0a5c53bd8e2bda52ca7fb0f6",
+      "remembered_at": "2026-11-22T10:24:35.483421+00:00",
+      "event_date": "2026-11-22T09:45:48+00:00",
+      "last_update": "2026-11-22T09:45:48+00:00",
+      "event": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "90kg",
+        "after",
+        "asian",
+        "bodybuilding",
+        "category",
+        "champion",
+        "championships",
+        "crown",
+        "days",
+        "died",
+        "dies",
+        "gold",
+        "iraqi",
+        "jawad",
+        "medal",
+        "sajad",
+        "thailand",
+        "the",
+        "three",
+        "winning"
+      ],
+      "source_excerpt": "Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
+          "published_at": "2026-11-22T09:45:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "08c71699345f53e0a8bd0279",
+      "remembered_at": "2026-11-22T10:24:35.483421+00:00",
+      "event_date": "2026-11-22T09:33:16+00:00",
+      "last_update": "2026-11-22T09:33:16+00:00",
+      "event": "Restored wells bring life back to Hebron’s occupied Old City",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "back",
+        "been",
+        "bring",
+        "city",
+        "constant",
+        "has",
+        "hebron",
+        "israeli",
+        "life",
+        "military",
+        "occupied",
+        "old",
+        "restored",
+        "settlers",
+        "siege",
+        "the",
+        "under",
+        "wells"
+      ],
+      "source_excerpt": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+          "published_at": "2026-11-22T09:33:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "078c24340da94d05fd4495bf",
+      "remembered_at": "2026-11-22T10:24:35.483421+00:00",
+      "event_date": "2026-11-22T09:27:48+00:00",
+      "last_update": "2026-11-22T09:27:48+00:00",
+      "event": "Photos: People rally across France over living costs, public services",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "costs",
+        "france",
+        "held",
+        "inequality",
+        "living",
+        "march",
+        "more",
+        "organisers",
+        "over",
+        "people",
+        "photos",
+        "plan",
+        "protests",
+        "public",
+        "rallies",
+        "rally",
+        "services",
+        "sixth",
+        "tens",
+        "thousands",
+        "weekend"
+      ],
+      "source_excerpt": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
+          "published_at": "2026-11-22T09:27:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3ce01563da82a200514b745c",
+      "remembered_at": "2026-11-22T10:24:35.483421+00:00",
+      "event_date": "2026-11-22T09:56:37+00:00",
+      "last_update": "2026-11-22T09:56:37+00:00",
+      "event": "Health expert's advice on checking your baby's sleeping bag",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advice",
+        "baby",
+        "bag",
+        "before",
+        "buying",
+        "check",
+        "checking",
+        "expert",
+        "explains",
+        "health",
+        "parents",
+        "registered",
+        "ruth",
+        "should",
+        "sleeping",
+        "visitor",
+        "watts",
+        "what",
+        "your"
+      ],
+      "source_excerpt": "Registered health visitor Ruth Watts explains what parents should check before buying a baby's sleeping bag.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cmqx54px4n1eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T09:56:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cmqx54px4n1eo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cmqx54px4n1eo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "305ae606a6155a93706af850",
+      "remembered_at": "2026-11-22T10:24:35.483421+00:00",
+      "event_date": "2026-11-22T09:51:55+00:00",
+      "last_update": "2026-11-22T09:51:55+00:00",
+      "event": "Misbah Arshad brings Pakistan's national animal to Miss Universe stage",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "animal",
+        "arshad",
+        "brings",
+        "misbah",
+        "miss",
+        "national",
+        "pakistan",
+        "samaa",
+        "stage",
+        "universe"
+      ],
+      "source_excerpt": "Misbah Arshad brings Pakistan's national animal to Miss Universe stage samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVpkSjRWdFpNQnRCdERWRWJ2bmJFaUp3U25SZFFiTTdLYnppVmNBX0NIT3FQeW5IZHZTYWNfT2lIR1laT3VCTWx5NU1Ra2hNMTg1aENId2U2QktfQ2trNWRLMEUwTndGX3lCZ2dLckFZS3JlVmZsc3pZbnp5elpzcHlVZWt6aDFCRDBYWVNMeHRYdHdZenk4SDZSUE9tODl1QjhtNw?oc=5",
+          "published_at": "2026-11-22T09:51:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVpkSjRWdFpNQnRCdERWRWJ2bmJFaUp3U25SZFFiTTdLYnppVmNBX0NIT3FQeW5IZHZTYWNfT2lIR1laT3VCTWx5NU1Ra2hNMTg1aENId2U2QktfQ2trNWRLMEUwTndGX3lCZ2dLckFZS3JlVmZsc3pZbnp5elpzcHlVZWt6aDFCRDBYWVNMeHRYdHdZenk4SDZSUE9tODl1QjhtNw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e6eb55b5d654d0ba19ee7da7",
+      "remembered_at": "2026-11-22T10:24:35.483421+00:00",
+      "event_date": "2026-11-22T10:14:21+00:00",
+      "last_update": "2026-11-22T10:14:21+00:00",
+      "event": "PTI should replace Salman Akram Raja, says Ali Zafar",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "akram",
+        "ali",
+        "pti",
+        "raja",
+        "replace",
+        "salman",
+        "samaa",
+        "says",
+        "should",
+        "zafar"
+      ],
+      "source_excerpt": "PTI should replace Salman Akram Raja, says Ali Zafar samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXZvcmlocnROZEVGUEtPLUNmZ3VqWXB0aGpHVEVZRXZYdGVUYWhtamRQSzl4X3RUQ2Z4eXN2dDFRMTFRLXNveEY1eXkwckxtZDI2S2FXZk9EUzUtRWFBcGhJMEROYnFoenhCenNwbE81ZlM1MmVSM3dpYjF0c3haWGRieVFoZnRwdDBJ?oc=5",
+          "published_at": "2026-11-22T10:14:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXZvcmlocnROZEVGUEtPLUNmZ3VqWXB0aGpHVEVZRXZYdGVUYWhtamRQSzl4X3RUQ2Z4eXN2dDFRMTFRLXNveEY1eXkwckxtZDI2S2FXZk9EUzUtRWFBcGhJMEROYnFoenhCenNwbE81ZlM1MmVSM3dpYjF0c3haWGRieVFoZnRwdDBJ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ddfe781404e7e43d51a1bdb5",
+      "remembered_at": "2026-11-22T10:24:35.483421+00:00",
+      "event_date": "2026-11-22T10:16:36+00:00",
+      "last_update": "2026-11-22T10:16:36+00:00",
+      "event": "Sindh CM approves Rs5.3b drought relief package for Tharparkar, Umerkot",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "approves",
+        "drought",
+        "for",
+        "package",
+        "relief",
+        "rs5",
+        "sindh",
+        "tharparkar",
+        "umerkot"
+      ],
+      "source_excerpt": "Sindh CM approves Rs5.3b drought relief package for Tharparkar, Umerkot",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/sindh-cm-approves-rs5-3b-drought-relief-package-for-tharparkar-umerkot",
+          "published_at": "2026-11-22T10:16:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/sindh-cm-approves-rs5-3b-drought-relief-package-for-tharparkar-umerkot",
+        "publisher_url": "https://arynews.tv/sindh-cm-approves-rs5-3b-drought-relief-package-for-tharparkar-umerkot",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T09:30:08.235572+00:00"
+  "updated_at": "2026-11-22T10:24:35.483421+00:00"
 }
