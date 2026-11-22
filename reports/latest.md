@@ -1,35 +1,35 @@
-# News Hub report - Sun 22 Nov, 10:21 AM PKT
+# News Hub report - Sun 22 Nov, 11:24 AM PKT
 
 ## Collection
-- New items this run: 31 | items in rolling pool: 188
-- Unique story clusters: 166 (duplicates merged: 22)
-- Clusters dropped as already published/queued: 19; unchanged since last analysis: 7
-- Items per outlet: samaa tv 3, Dawn Pakistan 3, Al Jazeera 3, ProPakistani 3, Dawn 2, The News International 2, Dunya News 2, Dawn Latest 2, ARY News 2, Geo News 1, Jang Urdu 1, GSMArena 1
+- New items this run: 31 | items in rolling pool: 192
+- Unique story clusters: 168 (duplicates merged: 24)
+- Clusters dropped as already published/queued: 16; unchanged since last analysis: 7
+- Items per outlet: Geo News 6, Dawn 3, Dunya News 3, The Express Tribune 2, Dawn Pakistan 2, Jang Urdu 2, Al Jazeera 2, ProPakistani 2, TechJuice 2, samaa tv 1, ARY News 1, BBC 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
+- Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Echoes of Pakistan's shared past in Rawalpindi's neglected temples | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Markets, schools in Rawalpindi to remain open during Punjab CM’s visit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Eleven killed in burst of violence during Mexican cartel leader’s capture | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICE agents detain two people at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Displaced Palestinians protest as Israeli air strikes continue in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Echoes of Pakistan's shared past in Rawalpindi's neglected temples | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Markets, schools in Rawalpindi to remain open during Punjab CM’s visit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Eleven killed in burst of violence during Mexican cartel leader’s capture | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICE agents detain two people at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Displaced Palestinians protest as Israeli air strikes continue in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Alcaraz to face Zverev for ATP Finals title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran faces a ‘silent economic war’, says Iranian president | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Echoes of Pakistan's shared past in Rawalpindi's neglected temples | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Markets, schools in Rawalpindi to remain open during Punjab CM’s visit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Eleven killed in burst of violence during Mexican cartel leader’s capture | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ICE agents detain two people at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Displaced Palestinians protest as Israeli air strikes continue in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war was ‘perfectly avoidable’, former UN envoy says | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,16 +38,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 1 items
+### Iran faces a silent economic war, says Iranian president  [NORMAL]
+- Poster: ایران ایک خاموش معاشی جنگ کا سامنا کر رہا ہے: صدر پزشکیان / Iran faces silent economic war: President | category politics
+- Alternative headline: Pezeshkian says Iran engaged in silent economic war
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera, Middle East Eye, chinadailyhk
+- Keywords: Iran economic war, Masoud Pezeshkian, economic blockade, Iran sanctions, Iranian president | hashtags: #Iran #Pezeshkian #Economy #MiddleEast
+- Scheduled: Sun 22 Nov, 11:24 AM PKT
+- Caption:
+```
+Iranian President Pezeshkian has stated that Iran is currently facing a silent economic war as restrictions persist.
+
+Iranian President Masoud Pezeshkian stated that Iran is facing a silent economic war as international pressures and blockades continue to impact the country, drawing attention to ongoing economic challenges.
+
+ایران کے صدر مسعود پزشکیان نے کہا ہے کہ بین الاقوامی دباؤ اور پابندیوں کی وجہ سے ملک کو ایک خاموش معاشی جنگ کا سامنا ہے۔
+
+First reported by Al Jazeera.
+
+#Iran #Pezeshkian #Economy #MiddleEast
+```
+
+### Carlos Alcaraz to face Alexander Zverev for ATP Finals title  [NORMAL]
+- Poster: کار্লোস আলকারাজ اے ٹی پی فائنلز کے ٹائٹل کے لیے زویروف سے مقابلہ کریں گے / Alcaraz to face Zverev for ATP Finals title | category sports
+- Alternative headline: Alcaraz and Zverev set up ATP Finals title clash
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEJrNkgyOU1HN01yRXFRaHlvbWJzOFJCUXpoWXpMcl8zNWdPSXpoSVpPQXV6YmRJd21zUmNyUldyTkJuWXQ3RWR4TlRDMnJBMU5tYkR2REJhaldVWmVuX0tZbGVnOFFVdGFRNXByeVliT1I3d0h6Q0t3LVctdFpDM0JZRQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEJrNkgyOU1HN01yRXFRaHlvbWJzOFJCUXpoWXpMcl8zNWdPSXpoSVpPQXV6YmRJd21zUmNyUldyTkJuWXQ3RWR4TlRDMnJBMU5tYkR2REJhaldVWmVuX0tZbGVnOFFVdGFRNXByeVliT1I3d0h6Q0t3LVctdFpDM0JZRQ?oc=5
+- Supporting coverage: Dawn, Dawn Latest, The Express Tribune
+- Keywords: ATP Finals, Carlos Alcaraz, Alexander Zverev, tennis final | hashtags: #ATPFinals #Alcaraz #Zverev #Tennis
+- Scheduled: Sun 22 Nov, 11:34 AM PKT
+- Caption:
+```
+Carlos Alcaraz is set to clash with Alexander Zverev in the ultimate showdown for the ATP Finals title.
+
+Spanish tennis star Carlos Alcaraz is set to face Alexander Zverev in the championship match for the ATP Finals title, following strong performances in the tournament.
+
+ہسپانوی ٹینس اسٹار کار্লোস আলকারাজ اے ٹی پی فائنلز کے ٹائٹل کے لیے الگزینڈر زویروف کے خلاف میدان میں اتریں گے۔
+
+First reported by Dawn.
+
+#ATPFinals #Alcaraz #Zverev #Tennis
+```
+
+### Exploring echoes of Pakistan's shared past in Rawalpindi's neglected temples  [NORMAL]
+- Poster: راولپنڈی کے غیر توجہ شدہ مندر پاکستان کے مشترکہ ماضی کی یاد دلاتے ہیں / Rawalpindi temples show shared past | category other
+- Alternative headline: Rawalpindi's neglected temples reflect Pakistan's shared historical past
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkFmZFlNZ2o3WlFfQ2lyS2oyZVAxaW9SZzVlSVI5Mmhyc3o2OFpianFZUGFTLVgwZW10ZGJWZnl3REQ1NmhkdWdENEhGWnpFbXVtQldRNGV0OW1WYUtiaTFjSUFvMkJOU0ZjRmRRYXBUUkhOZFU4QUFpZDZ2UkJmTTl3Q1VlYkphSzJnYngxRnNNTXN0VDA5NE5JZlhtTkk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkFmZFlNZ2o3WlFfQ2lyS2oyZVAxaW9SZzVlSVI5Mmhyc3o2OFpianFZUGFTLVgwZW10ZGJWZnl3REQ1NmhkdWdENEhGWnpFbXVtQldRNGV0OW1WYUtiaTFjSUFvMkJOU0ZjRmRRYXBUUkhOZFU4QUFpZDZ2UkJmTTl3Q1VlYkphSzJnYngxRnNNTXN0VDA5NE5JZlhtTkk?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Rawalpindi temples, shared past, heritage sites, historic temples | hashtags: #Rawalpindi #Heritage #History #Pakistan
+- Scheduled: Sun 22 Nov, 11:44 AM PKT
+- Caption:
+```
+A closer look at Rawalpindi's neglected historical temples reveals echoes of Pakistan's shared cultural past.
+
+An exploration into Rawalpindi's neglected temples highlights the historical architecture and echoes of Pakistan's shared past, shedding light on heritage sites needing preservation.
+
+راولپنڈی کے نظر انداز شدہ مندروں کا جائزہ پاکستان کے مشترکہ تاریخی ماضی اور ثقافتی ورثے کی جھلک پیش کرتا ہے۔
+
+First reported by Dawn.
+
+#Rawalpindi #Heritage #History #Pakistan
+```
+
+### Markets and schools in Rawalpindi to remain open during Punjab CM's visit  [NORMAL]
+- Poster: پنجاب کی وزیراعلیٰ کے دورے کے دوران راولپنڈی کے بازار اور اسکول کھلے رہیں گے / Rawalpindi markets, schools open during CM visit | category politics
+- Alternative headline: Rawalpindi markets and schools won't close for Maryam Nawaz's visit
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046153/markets-schools-in-rawalpindi-to-remain-open-during-punjab-cms-visit | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046153/markets-schools-in-rawalpindi-to-remain-open-during-punjab-cms-visit
+- Supporting coverage: Dawn Pakistan, Dawn
+- Keywords: Rawalpindi markets open, Maryam Nawaz, Punjab CM visit, Rawalpindi administration, schools open | hashtags: #Rawalpindi #MaryamNawaz #Punjab #Education
+- Scheduled: Sun 22 Nov, 11:54 AM PKT
+- Caption:
+```
+The Rawalpindi administration has confirmed that markets and schools will remain open during the Punjab chief minister's upcoming visit.
+
+Ahead of Punjab Chief Minister Maryam Nawaz's visit to Rawalpindi, the local administration directed that markets, commercial areas, and educational institutions must remain open and maintain normal schedules, avoiding closures seen previously in Jhelum.
+
+پنجاب کی وزیراعلیٰ مریم نواز کے دورہ راولپنڈی کے پیش نظر مقامی انتظامیہ نے واضح کیا ہے کہ بازار اور تعلیمی ادارے معمول کے مطابق کھلے رہیں گے۔
+
+First reported by Dawn Pakistan.
+
+#Rawalpindi #MaryamNawaz #Punjab #Education
+```
+
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
+- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
-- [needs_review] normal | Floodwaters submerge cars and parking lots in Florida town | Thu 19 Nov, 04:11 AM PKT
-- [needs_review] normal | Catherine visits Mumbai maternity hospital on final day of royal tour | Thu 19 Nov, 04:37 AM PKT
-- [needs_review] normal | Myanmar faces historic genocide verdict at UN court over Rohingya | Thu 19 Nov, 04:47 AM PKT
-- [needs_review] normal | Iraq sentences six French nationals to life in prison over ISIL | Thu 19 Nov, 04:57 AM PKT
 - [needs_review] normal | US targets Hezbollah with fresh sanctions over front charities | Thu 19 Nov, 05:35 AM PKT
 - [needs_review] normal | Claude maker Anthropic eyes massive 1.4 trillion dollar stock debut | Thu 19 Nov, 05:45 AM PKT
 - [needs_review] normal | Scottish government faces questions over plans to issue first ever bon | Thu 19 Nov, 05:55 AM PKT
@@ -64,7 +156,6 @@
 - [needs_review] normal | Man arrested for allegedly sexually abusing boy in Rawalpindi | Thu 19 Nov, 10:09 AM PKT
 - [needs_review] normal | Punjab CM approves panchayat system to resolve disputes | Thu 19 Nov, 10:19 AM PKT
 - [needs_review] normal | Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case | Thu 19 Nov, 10:29 AM PKT
-- [published] normal | Top UN court to rule on alleged genocide of Myanmar's Rohingya | Thu 19 Nov, 11:03 AM PKT
 - [needs_review] normal | Trump wants to talk nuclear with Putin and Xi | Thu 19 Nov, 11:13 AM PKT
 - [needs_review] normal | Rangers arrest TTP terrorist in Karachi's Manghopir | Thu 19 Nov, 11:23 AM PKT
 - [needs_review] normal | Search underway after unidentified flying object spotted over Sahiwal  | Thu 19 Nov, 11:33 AM PKT
@@ -261,12 +352,12 @@
 - [needs_review] normal | Bahrain reports industrial facility fire following Iranian attack | Sun 22 Nov, 03:46 AM PKT
 - [needs_review] normal | George Washington's Framed Lock of Hair Sells for $4,000 at Auction | Sun 22 Nov, 04:13 AM PKT
 - [published] normal | Espi's Late Goal Secures Thrilling 2-1 Win for Real Madrid Over Celta  | Sun 22 Nov, 04:23 AM PKT
-- [queued] normal | Can Virtual Relationships in Video Games Count as Cheating? | Sun 22 Nov, 04:33 AM PKT
-- [queued] normal | Will COP31 Climate Summit Conclude with a New Global Agreement? | Sun 22 Nov, 04:43 AM PKT
-- [queued] normal | Iran faces a silent economic war, warns Iranian president | Sun 22 Nov, 04:56 AM PKT
-- [queued] normal | Today's Express Tribune ePaper highlights for November 22, 2026 | Sun 22 Nov, 05:06 AM PKT
-- [queued] normal | Impunity fuels alarming surge in settler violence across West Bank | Sun 22 Nov, 05:16 AM PKT
-- [queued] normal | Nmecha shines as Dortmund defeats Gladbach to claim top spot | Sun 22 Nov, 05:26 AM PKT
+- [needs_review] normal | Can Virtual Relationships in Video Games Count as Cheating? | Sun 22 Nov, 04:33 AM PKT
+- [needs_review] normal | Will COP31 Climate Summit Conclude with a New Global Agreement? | Sun 22 Nov, 04:43 AM PKT
+- [needs_review] normal | Iran faces a silent economic war, warns Iranian president | Sun 22 Nov, 04:56 AM PKT
+- [needs_review] normal | Today's Express Tribune ePaper highlights for November 22, 2026 | Sun 22 Nov, 05:06 AM PKT
+- [needs_review] normal | Impunity fuels alarming surge in settler violence across West Bank | Sun 22 Nov, 05:16 AM PKT
+- [published] normal | Nmecha shines as Dortmund defeats Gladbach to claim top spot | Sun 22 Nov, 05:26 AM PKT
 - [queued] normal | Nigeria Youth Power: Why Aren't Young People Shaping This Election? | Sun 22 Nov, 05:59 AM PKT
 - [queued] normal | Clashes Erupt Across France in Another Night of Protest | Sun 22 Nov, 06:09 AM PKT
 - [queued] normal | Iran War Live: Iran Targets US Bases in Bahrain as Houthi Strikes Cont | Sun 22 Nov, 06:19 AM PKT
@@ -278,30 +369,19 @@
 - [queued] normal | Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike | Sun 22 Nov, 09:28 AM PKT
 - [queued] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
 - [queued] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
+- [queued] normal | Iran faces a silent economic war, says Iranian president | Sun 22 Nov, 11:24 AM PKT
+- [queued] normal | Carlos Alcaraz to face Alexander Zverev for ATP Finals title | Sun 22 Nov, 11:34 AM PKT
+- [queued] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
+- [queued] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
 
 ## Publishing this run
-- Published 'Espi's Late Goal Secures Thrilling 2-1 Win for Real Madrid Over Celta Vigo'.
+- Published 'Nmecha shines as Dortmund defeats Gladbach to claim top spot'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 5982 | output tokens: 2476
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"

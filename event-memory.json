@@ -112115,7 +112115,611 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bcea968400b2c453d99732b3",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T04:22:00+00:00",
+      "last_update": "2026-11-22T05:53:41+00:00",
+      "event": "Iran war was ‘perfectly avoidable’, former UN envoy says",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "avoidable",
+        "dawn",
+        "envoy",
+        "former",
+        "iran",
+        "perfectly",
+        "says",
+        "war",
+        "was"
+      ],
+      "source_excerpt": "Iran war was ‘perfectly avoidable’, former UN envoy says Dawn",
+      "sources": [
+        {
+          "name": "Middle East Eye",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU1E1RFRMTE5YQmZLZzZiU3lmVVlEdk9zamw4SnpNM2RoYk5hUEZ5WTVNTGRqRDJ6cDN3LTNqTzFGbnZoWHlXOEl5dmxaR1NqTkpBWlk1UElQb0lzb3BxeHpRaFdGX1ZNVERpRExNRldEZnBYeGd6UVVzQjRodkVHU2xGMkZWWS1ZMnBMX0RrelZhemhYUXhNSHFweTlXRnB3SFA5N0R0dnoyZnFWTTUw?oc=5",
+          "published_at": "2026-11-22T04:22:00+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0VqWEc0a1hnWExFSTFKc3ZoTEN4Rmd6VXR3UlBaa2h1UmVRZUNkcDF1ZlVmR0VJczFQc2FmT3FRb010bHA0WlJKWTY4bGMtR0tLUkY5a09VMDNUOGx2UmJMTkEycTdVSE9hUzhjWlNxNUZwVHVvRUdPd1pGY01VTloybGlSSmZyd2hZa01GeDc?oc=5",
+          "published_at": "2026-11-22T05:53:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0VqWEc0a1hnWExFSTFKc3ZoTEN4Rmd6VXR3UlBaa2h1UmVRZUNkcDF1ZlVmR0VJczFQc2FmT3FRb010bHA0WlJKWTY4bGMtR0tLUkY5a09VMDNUOGx2UmJMTkEycTdVSE9hUzhjWlNxNUZwVHVvRUdPd1pGY01VTloybGlSSmZyd2hZa01GeDc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1116c076f14543849ff5cde0",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T06:15:34+00:00",
+      "last_update": "2026-11-22T06:15:34+00:00",
+      "event": "Portuguese foreign minister arrives in Pakistan for official visit: FO",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrives",
+        "dawn",
+        "for",
+        "foreign",
+        "minister",
+        "official",
+        "pakistan",
+        "portuguese",
+        "visit"
+      ],
+      "source_excerpt": "Portuguese foreign minister arrives in Pakistan for official visit: FO Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0Fsb0tUZVhPcHBPYXZhYW03TWVLOVBXYVFPWEUzNTFWelhkTFRDVU5fVlVhYlkzZDd6aEVvU2FBa1NSaXA3ZHRTSWVkbE1nVEluMmZmb0JNUGtUUllMNV9ldHJfaU9pYVMxWExMNUFJZFZPRTU0NV9Bc3MwcVAxejhEbGhhVUVzNUc2dmd5ZHJaNXVjNkpoNXdMWXktdDVfdUgteGl3?oc=5",
+          "published_at": "2026-11-22T06:15:34+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046304/portuguese-foreign-minister-arrives-in-pakistan-for-official-visit-fo",
+          "published_at": "2026-11-22T06:15:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0Fsb0tUZVhPcHBPYXZhYW03TWVLOVBXYVFPWEUzNTFWelhkTFRDVU5fVlVhYlkzZDd6aEVvU2FBa1NSaXA3ZHRTSWVkbE1nVEluMmZmb0JNUGtUUllMNV9ldHJfaU9pYVMxWExMNUFJZFZPRTU0NV9Bc3MwcVAxejhEbGhhVUVzNUc2dmd5ZHJaNXVjNkpoNXdMWXktdDVfdUgteGl3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9fb299917a71bdc5f2fb016a",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T06:05:00+00:00",
+      "last_update": "2026-11-22T06:05:00+00:00",
+      "event": "Dozens missing after fire at Indonesian factory",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "confectionary",
+        "dozens",
+        "factory",
+        "fire",
+        "four",
+        "indonesian",
+        "injured",
+        "killed",
+        "least",
+        "missing",
+        "over",
+        "people",
+        "the",
+        "three",
+        "weekend",
+        "were"
+      ],
+      "source_excerpt": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T06:05:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c586704e118ad9222efa11d",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T05:38:52+00:00",
+      "last_update": "2026-11-22T05:38:52+00:00",
+      "event": "Kenya’s internet metering bill raises privacy and affordability concerns",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affordability",
+        "and",
+        "bill",
+        "concerns",
+        "connectivity",
+        "costs",
+        "has",
+        "internet",
+        "kenya",
+        "law",
+        "metering",
+        "over",
+        "privacy",
+        "prompted",
+        "proposed",
+        "raises",
+        "rising",
+        "surveillance"
+      ],
+      "source_excerpt": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
+          "published_at": "2026-11-22T05:38:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bfb464a29861c4afa6ef0f79",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T05:21:46+00:00",
+      "last_update": "2026-11-22T05:21:46+00:00",
+      "event": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aid",
+        "approaching",
+        "bite",
+        "could",
+        "crisis",
+        "cuts",
+        "darfur",
+        "displaced",
+        "displacement",
+        "face",
+        "families",
+        "sudan",
+        "volatile",
+        "winter",
+        "with",
+        "worsen"
+      ],
+      "source_excerpt": "Sudan's displacement crisis could worsen with winter approaching.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+          "published_at": "2026-11-22T05:21:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dfdbdfd47bcbdd84384b8d23",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T05:44:45+00:00",
+      "last_update": "2026-11-22T05:44:45+00:00",
+      "event": "Lahore once again ranks as world's most polluted major city as AQI crosses 500",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500",
+        "according",
+        "again",
+        "air",
+        "aqi",
+        "cities",
+        "city",
+        "crosses",
+        "data",
+        "global",
+        "hourly",
+        "index",
+        "iqair",
+        "lahore",
+        "list",
+        "live",
+        "major",
+        "monitoring",
+        "morning",
+        "most",
+        "once",
+        "over",
+        "placed",
+        "platform",
+        "polluted",
+        "quality",
+        "ranking",
+        "ranks",
+        "reading",
+        "real",
+        "sunday",
+        "swiss",
+        "the",
+        "time",
+        "top",
+        "topped",
+        "with",
+        "world"
+      ],
+      "source_excerpt": "Lahore topped the list of the world’s most polluted major cities once again on Sunday morning with an hourly air quality index (AQI) reading of over 500, according to real-time air quality data. Swiss air quality monitoring platform IQAir’s live global major city ranking placed Lahore at the top at",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046301/lahore-once-again-ranks-as-worlds-most-polluted-major-city-as-aqi-crosses-500",
+          "published_at": "2026-11-22T05:44:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046301/lahore-once-again-ranks-as-worlds-most-polluted-major-city-as-aqi-crosses-500",
+        "publisher_url": "https://www.dawn.com/news/2046301/lahore-once-again-ranks-as-worlds-most-polluted-major-city-as-aqi-crosses-500",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "36cf71c4001d5d5cee8c1f25",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T05:11:09+00:00",
+      "last_update": "2026-11-22T05:11:09+00:00",
+      "event": "Smokers' corner: The migration paradox",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045727",
+        "com",
+        "corner",
+        "dawn",
+        "https",
+        "migration",
+        "news",
+        "paradox",
+        "smokers",
+        "the",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045727",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046300/smokers-corner-the-migration-paradox",
+          "published_at": "2026-11-22T05:11:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046300/smokers-corner-the-migration-paradox",
+        "publisher_url": "https://www.dawn.com/news/2046300/smokers-corner-the-migration-paradox",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9e3553f7e652a71eec41fc78",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T05:13:00+00:00",
+      "last_update": "2026-11-22T05:13:00+00:00",
+      "event": "Wayne Rooney reveals how his wedding celebrations nearly ended in arrest",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "almost",
+        "and",
+        "around",
+        "arrest",
+        "arrested",
+        "been",
+        "being",
+        "came",
+        "celebrations",
+        "close",
+        "coleen",
+        "day",
+        "ended",
+        "england",
+        "former",
+        "given",
+        "half",
+        "has",
+        "his",
+        "how",
+        "incident",
+        "insight",
+        "into",
+        "married",
+        "morning",
+        "nearly",
+        "revealing",
+        "reveals",
+        "rooney",
+        "striker",
+        "that",
+        "the",
+        "wayne",
+        "wedding",
+        "who",
+        "wife",
+        "years"
+      ],
+      "source_excerpt": "The former England striker, 41 has been married to his wife Coleen almost around 18 and a half years Wayne Rooney has given an insight into an incident on the morning of his wedding, revealing that he came close to being arrested that day. The former England striker, 41, who has...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692143-wayne-rooney-reveals-how-his-wedding-celebrations-nearly-ended-in-arrest",
+          "published_at": "2026-11-22T05:13:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVVsSm9SRGx2M2hyREh0VFViZHpPUjR5dEpUem1rZlFreWtrXzVPeXRXUkVnOGVCbUc5VmNHX01ZN19ESHgzM0NsRFY0NGNoS3JFZzJBNXk0TmhQOTR0SnY1OUJvX196dGtJME9yR21wWDE5RGliYTdvQUJGLWVjdGVoY2lfWlhQb3ozSzFIQ04xbzFiYW0yVTFaVmRhdUNvSG9fOGNwUXA?oc=5",
+          "published_at": "2026-11-22T05:13:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692143-wayne-rooney-reveals-how-his-wedding-celebrations-nearly-ended-in-arrest",
+        "publisher_url": "https://www.geo.tv/latest/692143-wayne-rooney-reveals-how-his-wedding-celebrations-nearly-ended-in-arrest",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ec0cee7992200ea6590e52f3",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T05:01:06+00:00",
+      "last_update": "2026-11-22T05:01:06+00:00",
+      "event": "How to obtain a learner’s driving licence via ‘Dastak App’?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "app",
+        "dastak",
+        "driving",
+        "how",
+        "learner",
+        "licence",
+        "obtain",
+        "via"
+      ],
+      "source_excerpt": "How to obtain a learner’s driving licence via ‘Dastak App’?",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/how-to-obtain-a-learners-driving-licence-via-dastak-app",
+          "published_at": "2026-11-22T05:01:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/how-to-obtain-a-learners-driving-licence-via-dastak-app",
+        "publisher_url": "https://arynews.tv/how-to-obtain-a-learners-driving-licence-via-dastak-app",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4ff4fccf4a51606327d4562f",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T05:00:15+00:00",
+      "last_update": "2026-11-22T05:00:15+00:00",
+      "event": "The boy making all the right moves in India’s chess revolution",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "boy",
+        "chess",
+        "cnn",
+        "india",
+        "making",
+        "moves",
+        "revolution",
+        "right",
+        "the"
+      ],
+      "source_excerpt": "The boy making all the right moves in India’s chess revolution CNN",
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwV2szVE05U1IyY0RaRkZoU2d6aElnQ3hoaEtBam9WTTRZQjM3R1RBdUg0clZhZ0w2U1QtVlBGb0hVSnJ3TWVJcnlLdWtnOVRudVBlZG9wWHZ0MEJCdUZ5Q01hY1VLbkRHQW5pcFZrZTRzUkt1WEg0?oc=5",
+          "published_at": "2026-11-22T05:00:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwV2szVE05U1IyY0RaRkZoU2d6aElnQ3hoaEtBam9WTTRZQjM3R1RBdUg0clZhZ0w2U1QtVlBGb0hVSnJ3TWVJcnlLdWtnOVRudVBlZG9wWHZ0MEJCdUZ5Q01hY1VLbkRHQW5pcFZrZTRzUkt1WEg0?oc=5",
+        "publisher_url": "https://www.cnn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a7df8035f3e9bd19e61db189",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T05:45:08+00:00",
+      "last_update": "2026-11-22T05:45:08+00:00",
+      "event": "Saudi Arabia delivery orders exceed 129 million in Q3",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "129",
+        "arabia",
+        "delivery",
+        "exceed",
+        "million",
+        "orders",
+        "samaa",
+        "saudi"
+      ],
+      "source_excerpt": "Saudi Arabia delivery orders exceed 129 million in Q3 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGhZVVNJc2lKMXNUSXVzSWZoN28tMzQyRnFCc1BaR3pXLWJPTzEyVGlmYng4c29rTkRfcmFpRXhWOWx2SFZjam5PVHEzTXpSTlA2MUsxVk91ZVFBbVBpTXoyYlUyNHlEZU8xOG55WFhlelZBamluZjVleEFjYXBvc3hWVkd5UkFCVFc4blVR?oc=5",
+          "published_at": "2026-11-22T05:45:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGhZVVNJc2lKMXNUSXVzSWZoN28tMzQyRnFCc1BaR3pXLWJPTzEyVGlmYng4c29rTkRfcmFpRXhWOWx2SFZjam5PVHEzTXpSTlA2MUsxVk91ZVFBbVBpTXoyYlUyNHlEZU8xOG55WFhlelZBamluZjVleEFjYXBvc3hWVkd5UkFCVFc4blVR?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e2504ba14da9707956fc9152",
+      "remembered_at": "2026-11-22T06:24:33.255973+00:00",
+      "event_date": "2026-11-22T06:04:47+00:00",
+      "last_update": "2026-11-22T06:04:47+00:00",
+      "event": "Broken record: UN entry, Mountbatten’s prejudice and the Grand Mufti’s letter",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "broken",
+        "dawn",
+        "entry",
+        "grand",
+        "letter",
+        "mountbatten",
+        "mufti",
+        "prejudice",
+        "record",
+        "the"
+      ],
+      "source_excerpt": "Broken record: UN entry, Mountbatten’s prejudice and the Grand Mufti’s letter Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0NCSVZqSzZrQ3hkaDdVekN1cnhsRXBqUS1VcGRRYzVPeWR4WW5XYVVZWEN0ZmlYWVlLSFQtbkQxVWgxRnJiUUlGenlfc3BjSFZwd2k0R1k1dVVhX01EQnpmWllPbVZDT3VGTTAwYTc0Q1lHX1d2OGxRdGZRZHhTWFg5ZkhWb2lZWXJEczBVdjJjelh2d2ZpLXNwaUU1QXpWWFZYZTVSMy1jU2M?oc=5",
+          "published_at": "2026-11-22T06:04:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0NCSVZqSzZrQ3hkaDdVekN1cnhsRXBqUS1VcGRRYzVPeWR4WW5XYVVZWEN0ZmlYWVlLSFQtbkQxVWgxRnJiUUlGenlfc3BjSFZwd2k0R1k1dVVhX01EQnpmWllPbVZDT3VGTTAwYTc0Q1lHX1d2OGxRdGZRZHhTWFg5ZkhWb2lZWXJEczBVdjJjelh2d2ZpLXNwaUU1QXpWWFZYZTVSMy1jU2M?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T05:21:47.913521+00:00"
+  "updated_at": "2026-11-22T06:24:33.255973+00:00"
 }
