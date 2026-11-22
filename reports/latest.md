@@ -1,35 +1,35 @@
-# News Hub report - Mon 23 Nov, 04:02 AM PKT
+# News Hub report - Mon 23 Nov, 04:49 AM PKT
 
 ## Collection
-- New items this run: 13 | items in rolling pool: 271
-- Unique story clusters: 241 (duplicates merged: 30)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 8
-- Items per outlet: The Express Tribune 2, Dawn Latest 2, Engadget 2, Geo News 1, Al Jazeera 1, The Guardian 1, The Verge 1, i24NEWS 1, Inquirer.net 1, NPR 1
+- New items this run: 22 | items in rolling pool: 240
+- Unique story clusters: 211 (duplicates merged: 29)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 4
+- Items per outlet: The Express Tribune 5, Dawn Latest 3, Geo News 3, Dawn 2, Engadget 2, Al Jazeera 1, WRAL 1, The Guardian 1, Gulf News 1, Radio Free Europe/Radio Liberty 1, WSJ 1, Around Prague 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Pochettino backs Manchester United players after Liverpool thrashing, rejects relegation talk | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How Pakistanis save | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Naya Pakistan - 22nd November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Oman strengthen energy cooperation with PSO and OQ agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan A erupt with a savage send-off for Harshit Rana after thrilling triumph | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Atalanta grab dramatic draw with Inter Milan in Serie A | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump criticises Schumer amid push for new Democrat leadership in US Senate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fullkrug scores again as Bremen hammer Hamburg in Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Taliban feel weight of Pakistan's pressure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Forces eliminate three terrorists in Peshawar op | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pochettino backs Manchester United players after Liverpool thrashing, rejects relegation talk | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How Pakistanis save | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Naya Pakistan - 22nd November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Oman strengthen energy cooperation with PSO and OQ agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan A erupt with a savage send-off for Harshit Rana after thrilling triumph | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Atalanta grab dramatic draw with Inter Milan in Serie A | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump criticises Schumer amid push for new Democrat leadership in US Senate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fullkrug scores again as Bremen hammer Hamburg in Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Taliban feel weight of Pakistan's pressure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Forces eliminate three terrorists in Peshawar op | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pochettino backs Manchester United players after Liverpool thrashing, rejects relegation talk | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How Pakistanis save | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Naya Pakistan - 22nd November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Oman strengthen energy cooperation with PSO and OQ agreement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan A erupt with a savage send-off for Harshit Rana after thrilling triumph | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Atalanta grab dramatic draw with Inter Milan in Serie A | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump criticises Schumer amid push for new Democrat leadership in US Senate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fullkrug scores again as Bremen hammer Hamburg in Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Taliban feel weight of Pakistan's pressure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Forces eliminate three terrorists in Peshawar op | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,34 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Prince William to Focus on Defence in 2027 Overseas Push  [NORMAL]
-- Poster: برطانوی شہزادہ ولیم 2027 میں دفاعی نوعیت کے غیر ملکی دورے کریں گے / Prince William to Focus on Defence Abroad in 2027 | category politics
-- Alternative headline: Kensington Palace Confirms Prince William's Expanded International Defence Role
+### Trump Targets Schumer as US Senate Democrats Face New Leadership Push  [NORMAL]
+- Poster: ڈونلڈ ٹرمپ کی چک شومر پر تنقید، سینیٹ میں قیادت کی تبدیلی کی دوڑ تیز / Trump criticises Schumer amid US Senate leadership race | category us_politics
+- Alternative headline: US Senate Leadership Race: Trump Criticises Chuck Schumer Amid Democrat Push
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692221-kensington-palace-confirms-prince-williams-overseas-push-focused-on-defence | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692221-kensington-palace-confirms-prince-williams-overseas-push-focused-on-defence
-- Supporting coverage: Geo News
-- Keywords: Prince William, Kensington Palace, defence, UK alliances, international role | hashtags: #PrinceWilliam #KensingtonPalace #UKPolitics #Defence
-- Scheduled: Mon 23 Nov, 04:02 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Chuck Schumer, Donald Trump, US Senate, Democrats, Chris Van Hollen | hashtags: #Trump #Schumer #USSenate #Democrats
+- Scheduled: Mon 23 Nov, 04:49 AM PKT
 - Caption:
 ```
-Kensington Palace has confirmed that Prince William will take on a bigger international role next year with a focus on defence.
+Donald Trump has criticised Chuck Schumer as US Senate Democrats face a fresh internal push for new leadership.
 
-Prince William is set to undertake a series of overseas visits to Europe and the Middle East in early 2027 at the British government's request. Kensington Palace stated that the visits will focus heavily on defence, security, and strengthening key alliances amid global instability.
+Donald Trump has voiced criticism against Chuck Schumer as Democrats face an internal push for new leadership in the US Senate. Schumer, who has led the party since 2017, is currently facing a challenge from Chris Van Hollen in his bid for majority leader.
 
-برطانوی حکومت کی درخواست پر شہزادہ ولیم 2027 کے آغاز میں یورپ اور مشرق وسطیٰ کے دورے کریں گے۔ کینزنگتون محل کے مطابق ان دوروں کا مقصد دفاع، سیکیورٹی اور اتحادیوں کے ساتھ تعلقات کو مزید مضبوط بنانا ہے۔
+ڈونلڈ ٹرمپ نے چک شومر پر تنقید کی ہے جبکہ امریکی سینیٹ میں ڈیموکریٹس کو نئی قیادت کے لیے اندرونی دباؤ کا سامنا ہے۔ شومر، جو 2017 سے پارٹی کی قیادت کر رہے ہیں، کو میجورٹی لیڈر کی دوڑ میں کرس وان ہولڈن کی طرف سے چیلنج کا سامنا ہے۔
 
-First reported by Geo News.
+First reported by Al Jazeera.
 
-#PrinceWilliam #KensingtonPalace #UKPolitics #Defence
-```
-
-### Pochettino Backs Man United Players After Liverpool Thrashing  [NORMAL]
-- Poster: لیورپول کے ہاتھوں شکست کے بعد پوچٹینو نے مانچسٹر یونائیٹڈ کے کھلاڑیوں کی حمایت کر دی / Pochettino Backs United Players After Heavy Defeat | category sports
-- Alternative headline: Mauricio Pochettino Rejects Relegation Fears After Nightmare Liverpool Defeat
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046403/pochettino-backs-manchester-united-players-after-liverpool-thrashing-rejects-relegation-talk | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046403/pochettino-backs-manchester-united-players-after-liverpool-thrashing-rejects-relegation-talk
-- Supporting coverage: Dawn Latest
-- Keywords: Mauricio Pochettino, Manchester United, Liverpool, Premier League, relegation | hashtags: #ManUtd #Pochettino #PremierLeague #LFC
-- Scheduled: Mon 23 Nov, 04:12 AM PKT
-- Caption:
-```
-Mauricio Pochettino has backed his Manchester United players and rejected relegation talk following a heavy defeat to Liverpool.
-
-Following a 4-0 defeat to Liverpool in his first game in charge, Manchester United manager Mauricio Pochettino defended his players' commitment and fight. Despite United remaining 19th in the Premier League, Pochettino rejected suggestions that the club faces a relegation battle.
-
-مانچسٹر یونائیٹڈ کے مینیجر مورشیو پوچٹینو نے لیورپول کے خلاف 4-0 کی شکست کے باوجود اپنے کھلاڑیوں کی کارکردگی اور عزم کی تعریف کی ہے۔ انہوں نے ان تاثرات کو مسترد کر دیا کہ کلب کو ریگریشن کا خطرہ ہے۔
-
-First reported by Dawn.
-
-#ManUtd #Pochettino #PremierLeague #LFC
-```
-
-### How Pakistanis Save: An Express Tribune Report  [NORMAL]
-- Poster: پاکستانی کس طرح بچت کرتے ہیں؟ رپورٹ سامنے آگئی / How Pakistanis Save Money | category other
-- Alternative headline: Exploring Saving Habits Among Pakistanis
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jZ1dUX2xfTUI5Z2Y0bXhoa0JpUk5OdmlwdmRxeS1tLXJnQ1ZWXzlLUkliRktmVVpaOU5xS0lTc2hFRjVDbUJfcnlnU2xDQk5aNDhiZW0tamZBVjNkamU0T3l1blUxdWPSAW9BVV95cUxPZnBjR2RLNkUyeV9ORVBzT19uYlIyZWFWNDZLcDRNRlFIME81UUhnX3E3UHFmVEtqLXl5OGlRaVFhREZOYjdLMmxqWndGc0pGQTZjQThuN2VZWXo1Q3FiN0J1MGJQRUEyU01GZEtKc3M?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jZ1dUX2xfTUI5Z2Y0bXhoa0JpUk5OdmlwdmRxeS1tLXJnQ1ZWXzlLUkliRktmVVpaOU5xS0lTc2hFRjVDbUJfcnlnU2xDQk5aNDhiZW0tamZBVjNkamU0T3l1blUxdWPSAW9BVV95cUxPZnBjR2RLNkUyeV9ORVBzT19uYlIyZWFWNDZLcDRNRlFIME81UUhnX3E3UHFmVEtqLXl5OGlRaVFhREZOYjdLMmxqWndGc0pGQTZjQThuN2VZWXo1Q3FiN0J1MGJQRUEyU01GZEtKc3M?oc=5
-- Supporting coverage: The Express Tribune
-- Keywords: savings, Pakistanis, finance, The Express Tribune | hashtags: #Pakistan #Savings #Economy
-- Scheduled: Mon 23 Nov, 04:22 AM PKT
-- Caption:
-```
-A recent report looks into how people across Pakistan manage their savings.
-
-The Express Tribune published a report discussing saving habits and financial management practices among people in Pakistan.
-
-دی ایکسپریس ٹریبیون نے ایک رپورٹ شائع کی ہے جس میں پاکستان میں لوگوں کی بچت کی عادات اور مالیاتی امور پر روشنی ڈالی گئی ہے۔
-
-First reported by The Express Tribune.
-
-#Pakistan #Savings #Economy
-```
-
-### Naya Pakistan Episode Broadcast on 22nd November 2026  [NORMAL]
-- Poster: جیو نیوز کا پروگرام نیا پاکستان 22 نومبر 2026 / Naya Pakistan Program Airs on Geo News | category politics
-- Alternative headline: Geo News Airs Naya Pakistan Program
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmJVQm5nVHdOV0FEWFdVVTd0ZzlEd3JpTzdfYUtQLUQ4ekhhaTNoRlhTVmlqS3NteWIyOU5xdG9iamZEdTEzdkwyLS1pM0tRb0Z1UUpKeW1wbkpJdEFWZm5RWkpiWmhhQ1B2U19zbGRiNzMzZEgxbEJFYVVEYnpHd2dBMks?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmJVQm5nVHdOV0FEWFdVVTd0ZzlEd3JpTzdfYUtQLUQ4ekhhaTNoRlhTVmlqS3NteWIyOU5xdG9iamZEdTEzdkwyLS1pM0tRb0Z1UUpKeW1wbkpJdEFWZm5RWkpiWmhhQ1B2U19zbGRiNzMzZEgxbEJFYVVEYnpHd2dBMks?oc=5
-- Supporting coverage: Geo News
-- Keywords: Naya Pakistan, Geo News, current affairs, politics | hashtags: #NayaPakistan #GeoNews #CurrentAffairs
-- Scheduled: Mon 23 Nov, 04:32 AM PKT
-- Caption:
-```
-Geo News has broadcast its current affairs program Naya Pakistan.
-
-Geo News aired its regular current affairs television program, Naya Pakistan, covering major political developments of the day.
-
-جیو نیوز نے اپنے سیاسی اور اُمورِ عامہ کے پروگرام 'نیا پاکستان' کی نئی قسط نشر کی ہے جس میں دن بھر کے اہم سیاسی حالات کا احاطہ کیا گیا۔
-
-First reported by Geo News.
-
-#NayaPakistan #GeoNews #CurrentAffairs
+#Trump #Schumer #USSenate #Democrats
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
@@ -145,7 +73,6 @@ First reported by Geo News.
 - [needs_review] normal | Lahore officially named ECO Tourism Capital for 2027 | Fri 20 Nov, 03:51 AM PKT
 - [needs_review] normal | US Approved Sales of Nearly 900,000 AI Chips to China | Fri 20 Nov, 04:15 AM PKT
 - [needs_review] normal | Haiti Police Kill at Least 34 Suspected Gang Members in Raid | Fri 20 Nov, 04:25 AM PKT
-- [published] normal | Anthropic Hits $1.76 Trillion Valuation in Blockbuster Market Debut | Fri 20 Nov, 04:35 AM PKT
 - [needs_review] normal | Fiona the Famous Hippo Dies After Swallowing a Hat at Cincinnati Zoo | Fri 20 Nov, 04:45 AM PKT
 - [needs_review] normal | Prince William and Catherine's India Tour Described as 'Particularly S | Fri 20 Nov, 05:00 AM PKT
 - [needs_review] normal | California Probes Nvidia Over Alleged Unauthorized Tech Transfers to C | Fri 20 Nov, 05:10 AM PKT
@@ -358,7 +285,7 @@ First reported by Geo News.
 - [needs_review] normal | Explosion on Russian ship at Libya port caused by suspected drone atta | Sun 22 Nov, 09:46 PM PKT
 - [needs_review] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
 - [published] normal | Mohsin Naqvi slams minister over repeated TV criticism, defends busine | Sun 22 Nov, 11:01 PM PKT
-- [queued] normal | Pakistan announces first nationwide diabetes prevention and control pr | Sun 22 Nov, 11:11 PM PKT
+- [published] normal | Pakistan announces first nationwide diabetes prevention and control pr | Sun 22 Nov, 11:11 PM PKT
 - [queued] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
 - [queued] normal | Canada’s PM appears next to Trump impersonator at press dinner | Sun 22 Nov, 11:31 PM PKT
 - [queued] normal | Khawaja Asif claims referendum on new provinces is coming soon | Sun 22 Nov, 11:54 PM PKT
@@ -386,12 +313,16 @@ First reported by Geo News.
 - [queued] normal | Pochettino Backs Man United Players After Liverpool Thrashing | Mon 23 Nov, 04:12 AM PKT
 - [queued] normal | How Pakistanis Save: An Express Tribune Report | Mon 23 Nov, 04:22 AM PKT
 - [queued] normal | Naya Pakistan Episode Broadcast on 22nd November 2026 | Mon 23 Nov, 04:32 AM PKT
+- [queued] normal | Trump Targets Schumer as US Senate Democrats Face New Leadership Push | Mon 23 Nov, 04:49 AM PKT
 
 ## Publishing this run
-- Published 'Mohsin Naqvi slams minister over repeated TV criticism, defends business community'.
+- Published 'Pakistan announces first nationwide diabetes prevention and control programme'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4722 | output tokens: 2124
+- Calls: 3 | prompt tokens: 2257 | output tokens: 547
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

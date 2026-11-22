@@ -120505,7 +120505,606 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "75eeecde9f0b5382e245d363",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T23:15:25+00:00",
+      "last_update": "2026-11-22T23:15:25+00:00",
+      "event": "Atalanta grab dramatic draw with Inter Milan in Serie A",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "atalanta",
+        "dawn",
+        "dramatic",
+        "draw",
+        "grab",
+        "inter",
+        "milan",
+        "serie",
+        "with"
+      ],
+      "source_excerpt": "Atalanta grab dramatic draw with Inter Milan in Serie A Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGQ4NnV1Mzc0Y3ljM0RyRXNlbUFPNWRYR1BCcklWOFVvQjBMaXRBektPRWlMazdOeE4tRjctTHNMdWpzNjA0SGxRSXpnQnMwMllQZWdtZ1hRYWthWFk2SU5jNmtTYWdMNW96MGd3VDUyRXlDbkFZcG5Ma1Y1eWg4UldSSHQ0Mmw3UHZvSm5kaDFfREk?oc=5",
+          "published_at": "2026-11-22T23:15:25+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046431/atalanta-grab-dramatic-draw-with-inter-milan-in-serie-a",
+          "published_at": "2026-11-22T23:15:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGQ4NnV1Mzc0Y3ljM0RyRXNlbUFPNWRYR1BCcklWOFVvQjBMaXRBektPRWlMazdOeE4tRjctTHNMdWpzNjA0SGxRSXpnQnMwMllQZWdtZ1hRYWthWFk2SU5jNmtTYWdMNW96MGd3VDUyRXlDbkFZcG5Ma1Y1eWg4UldSSHQ0Mmw3UHZvSm5kaDFfREk?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0ae8cec2459b4ce09a28be4d",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T23:22:59+00:00",
+      "last_update": "2026-11-22T23:22:59+00:00",
+      "event": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2017",
+        "amid",
+        "bid",
+        "challenge",
+        "chris",
+        "criticises",
+        "democrat",
+        "democrats",
+        "faces",
+        "for",
+        "from",
+        "has",
+        "his",
+        "hollen",
+        "leader",
+        "leadership",
+        "led",
+        "majority",
+        "new",
+        "push",
+        "schumer",
+        "senate",
+        "since",
+        "the",
+        "trump",
+        "van",
+        "who"
+      ],
+      "source_excerpt": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+          "published_at": "2026-11-22T23:22:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3c91677e4fbff3306bce44ba",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T23:42:42+00:00",
+      "last_update": "2026-11-22T23:42:42+00:00",
+      "event": "Fullkrug scores again as Bremen hammer Hamburg in Bundesliga",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "again",
+        "bremen",
+        "bundesliga",
+        "dawn",
+        "fullkrug",
+        "hamburg",
+        "hammer",
+        "scores"
+      ],
+      "source_excerpt": "Fullkrug scores again as Bremen hammer Hamburg in Bundesliga Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU9RSndHZ2g2dDZSZWNMa0hMSnhFNlZvMUtfdmdmdkVGdjJMeXlYTzVRQ2hXTmRTaWVyalRsY2VEZXZGYVZxX2tqSk1CTWtyb0NibzN0bm1PQVM3dXNjQVNldkVsMnZFaTh5Rk5IcUJXblk2UjNlOVNGYW5Mc2RCR2U2UC1OWXBiVktBTmpKSWFPVERDZTdvNDZ3?oc=5",
+          "published_at": "2026-11-22T23:42:42+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046450/fullkrug-scores-again-as-bremen-hammer-hamburg-in-bundesliga",
+          "published_at": "2026-11-22T23:42:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU9RSndHZ2g2dDZSZWNMa0hMSnhFNlZvMUtfdmdmdkVGdjJMeXlYTzVRQ2hXTmRTaWVyalRsY2VEZXZGYVZxX2tqSk1CTWtyb0NibzN0bm1PQVM3dXNjQVNldkVsMnZFaTh5Rk5IcUJXblk2UjNlOVNGYW5Mc2RCR2U2UC1OWXBiVktBTmpKSWFPVERDZTdvNDZ3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fffc5734bacf7f34249eda01",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T23:39:49+00:00",
+      "last_update": "2026-11-22T23:39:49+00:00",
+      "event": "Taliban feel weight of Pakistan's pressure",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "feel",
+        "pakistan",
+        "pressure",
+        "taliban",
+        "the",
+        "tribune",
+        "weight"
+      ],
+      "source_excerpt": "Taliban feel weight of Pakistan's pressure The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzd2TDJKNkxDT2tabV9SWlh2NjlCUUs2eUF1RWZLQ1lrOFV0TFRId1lZWTU4VHUtVDR0VS1jOXV1cnRjcU9QYWFKenhxNGNLVUt2VkVEbTl6WHpIRUFocFF3QmQ1cnRKMk1IeGJDZ09PU1dlelNReVdHNDhFeWJWenppSmPSAYwBQVVfeXFMTk42d1ZhRE5KZEpLaEVFVXV0QkpKYVBlLU5GLW9jRjhpSnhqOHJsWWhqcjI5eUt3cmZOaDN1WXBreGJHaVVFNUJyV3M0STBDeDdDSjl4Wm9JUDVycmxfLTdtRHhDdFpMaVBuWjRBbURLM3pIZHZBWXp1azdreXVQcjJWc3FGbXZZb3k0Slk?oc=5",
+          "published_at": "2026-11-22T23:39:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzd2TDJKNkxDT2tabV9SWlh2NjlCUUs2eUF1RWZLQ1lrOFV0TFRId1lZWTU4VHUtVDR0VS1jOXV1cnRjcU9QYWFKenhxNGNLVUt2VkVEbTl6WHpIRUFocFF3QmQ1cnRKMk1IeGJDZ09PU1dlelNReVdHNDhFeWJWenppSmPSAYwBQVVfeXFMTk42d1ZhRE5KZEpLaEVFVXV0QkpKYVBlLU5GLW9jRjhpSnhqOHJsWWhqcjI5eUt3cmZOaDN1WXBreGJHaVVFNUJyV3M0STBDeDdDSjl4Wm9JUDVycmxfLTdtRHhDdFpMaVBuWjRBbURLM3pIZHZBWXp1azdreXVQcjJWc3FGbXZZb3k0Slk?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "340067e4a54ef3a524194a8e",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T23:35:03+00:00",
+      "last_update": "2026-11-22T23:35:03+00:00",
+      "event": "Forces eliminate three terrorists in Peshawar op",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "eliminate",
+        "express",
+        "forces",
+        "peshawar",
+        "terrorists",
+        "the",
+        "three",
+        "tribune"
+      ],
+      "source_excerpt": "Forces eliminate three terrorists in Peshawar op The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkFCQmxlVllpUFhPcE55OFB5VWQwUEpuU0N6cTd1WVNXaFowMHBpcXhhazFwcHdreXhRUGtXbkY2U0tRZDV4TzByNWZYZ0Z3Z3NOSVAxN1BfUnMxeEhLemRORWhPelU1WE51SnZTMVg1VE5hbHdrcnRvaHh2UFJ3dmE0ckowSzJVbnBnMXhR0gGWAUFVX3lxTE1Pd2RHTzNjUm1lOGNGQVgzcDMyTmV3OVc4TTBCejFXVkZKaV9zclVDRUZ5a2dQZmRhUjBRZjdzekZmOXZWcGFqNFU0QVRvempKSlVUZi1HbWJ4UFQ4czJnRl9YVVg1WTRfUkVRSGRRdWd4UE1DYl93cmwxbGlwNFk4Um9DaHYyTm0wSWdFN1NUX2M4eGhNQQ?oc=5",
+          "published_at": "2026-11-22T23:35:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkFCQmxlVllpUFhPcE55OFB5VWQwUEpuU0N6cTd1WVNXaFowMHBpcXhhazFwcHdreXhRUGtXbkY2U0tRZDV4TzByNWZYZ0Z3Z3NOSVAxN1BfUnMxeEhLemRORWhPelU1WE51SnZTMVg1VE5hbHdrcnRvaHh2UFJ3dmE0ckowSzJVbnBnMXhR0gGWAUFVX3lxTE1Pd2RHTzNjUm1lOGNGQVgzcDMyTmV3OVc4TTBCejFXVkZKaV9zclVDRUZ5a2dQZmRhUjBRZjdzekZmOXZWcGFqNFU0QVRvempKSlVUZi1HbWJ4UFQ4czJnRl9YVVg1WTRfUkVRSGRRdWd4UE1DYl93cmwxbGlwNFk4Um9DaHYyTm0wSWdFN1NUX2M4eGhNQQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a97ca20efb56912cc56a05e1",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T22:52:30+00:00",
+      "last_update": "2026-11-22T22:52:30+00:00",
+      "event": "The artist behind the artist: Performing arts' unsung creators",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "artist",
+        "arts",
+        "behind",
+        "creators",
+        "express",
+        "performing",
+        "the",
+        "tribune",
+        "unsung"
+      ],
+      "source_excerpt": "The artist behind the artist: Performing arts' unsung creators The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHdlRnpZLW05VW96V1Q4bVMxbkp6dDBGSDZvMW9iVzdCQkcwUi02bU5UZ0FpTWpJQ01HNlVnVHgxNFRqaG5ZQkhzRjZ6ZG9TQjVObzhRRU1PTmgzcHp2bmxiS2NvSTdNRnRBck1DVDRiM2dSR3IydEhzTDB6RFJzTHlDb2xHeWRmVmdTdm5zcllodGhJbHJDSGxIT1VJd9IBpgFBVV95cUxOaWFLRUcyVDVNX3YySGJCNXNJSkdiLU0tbU04R01TdUlKenl3dUVkV3F3bVZvVm9mekt3RXpfRXpZMnRzdXNfbGQxci1SQXp0N3dGM2xjQVk4eXBBRk16Y1FWNnZEYjlHQ2lPWHAxc0hYUDJ5cHlZazM2WnlQOW1rdU9FUC1yVFp1bWF1STlqOHc2UWl5UDhxZjZkRElxbkh1SmUxYUd3?oc=5",
+          "published_at": "2026-11-22T22:52:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHdlRnpZLW05VW96V1Q4bVMxbkp6dDBGSDZvMW9iVzdCQkcwUi02bU5UZ0FpTWpJQ01HNlVnVHgxNFRqaG5ZQkhzRjZ6ZG9TQjVObzhRRU1PTmgzcHp2bmxiS2NvSTdNRnRBck1DVDRiM2dSR3IydEhzTDB6RFJzTHlDb2xHeWRmVmdTdm5zcllodGhJbHJDSGxIT1VJd9IBpgFBVV95cUxOaWFLRUcyVDVNX3YySGJCNXNJSkdiLU0tbU04R01TdUlKenl3dUVkV3F3bVZvVm9mekt3RXpfRXpZMnRzdXNfbGQxci1SQXp0N3dGM2xjQVk4eXBBRk16Y1FWNnZEYjlHQ2lPWHAxc0hYUDJ5cHlZazM2WnlQOW1rdU9FUC1yVFp1bWF1STlqOHc2UWl5UDhxZjZkRElxbkh1SmUxYUd3?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "44b150c533cd0b6d29f4b5ba",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T23:28:58+00:00",
+      "last_update": "2026-11-22T23:28:58+00:00",
+      "event": "Rosenior warns Paris FC to focus as they climb second in Ligue 1",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "against",
+        "angers",
+        "any",
+        "but",
+        "climb",
+        "coach",
+        "conclusions",
+        "draw",
+        "early",
+        "focus",
+        "games",
+        "germain",
+        "gone",
+        "have",
+        "his",
+        "insisted",
+        "liam",
+        "ligue",
+        "lille",
+        "longer",
+        "over",
+        "paris",
+        "points",
+        "rise",
+        "rosenior",
+        "saint",
+        "second",
+        "side",
+        "sunday",
+        "term",
+        "they",
+        "three",
+        "too",
+        "trail",
+        "warns",
+        "was",
+        "welcomed",
+        "while",
+        "win",
+        "with"
+      ],
+      "source_excerpt": "Paris FC coach Liam Rosenior welcomed his side’s rise to second in Ligue 1 after a 4-0 win over Angers on Sunday, but insisted it was too early to draw any longer-term conclusions. With 11 games gone, Paris FC trail Paris Saint-Germain by three points while Lille have 21. Against Angers, Paris FC’s",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046439/rosenior-warns-paris-fc-to-focus-as-they-climb-second-in-ligue-1",
+          "published_at": "2026-11-22T23:28:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046439/rosenior-warns-paris-fc-to-focus-as-they-climb-second-in-ligue-1",
+        "publisher_url": "https://www.dawn.com/news/2046439/rosenior-warns-paris-fc-to-focus-as-they-climb-second-in-ligue-1",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d6fb03de23fe3d2c8e732fd1",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T23:45:00+00:00",
+      "last_update": "2026-11-22T23:45:00+00:00",
+      "event": "See Taylor Swift hug Travis Kelce's niece Wyatt while cheering for hubby",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afternoon",
+        "arizona",
+        "arrowhead",
+        "cardinals",
+        "celebrated",
+        "cheering",
+        "chiefs",
+        "for",
+        "his",
+        "hosted",
+        "hubby",
+        "hug",
+        "hugging",
+        "kelce",
+        "niece",
+        "old",
+        "pair",
+        "pictured",
+        "second",
+        "see",
+        "seven",
+        "stadium",
+        "sunday",
+        "swift",
+        "taylor",
+        "the",
+        "touchdown",
+        "travis",
+        "was",
+        "while",
+        "wyatt",
+        "year"
+      ],
+      "source_excerpt": "See Taylor Swift hug Travis Kelce's niece Wyatt while cheering for hubby Taylor Swift was pictured hugging Travis Kelce's seven-year-old niece Wyatt at Arrowhead Stadium on Sunday, as the pair celebrated his second touchdown of the afternoon. The Chiefs hosted the Arizona Cardinals...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692229-taylor-swift-hugs-travis-kelces-niece-wyatt-while-cheering-for-hubby",
+          "published_at": "2026-11-22T23:45:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692229-taylor-swift-hugs-travis-kelces-niece-wyatt-while-cheering-for-hubby",
+        "publisher_url": "https://www.geo.tv/latest/692229-taylor-swift-hugs-travis-kelces-niece-wyatt-while-cheering-for-hubby",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0037a58cd5efc36a2a0bc4da",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T23:32:00+00:00",
+      "last_update": "2026-11-22T23:32:00+00:00",
+      "event": "Mahershala Ali says his two Oscars 'don't really mean' much",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "7pm",
+        "academy",
+        "actor",
+        "ali",
+        "awards",
+        "being",
+        "comments",
+        "don",
+        "films",
+        "for",
+        "has",
+        "have",
+        "him",
+        "his",
+        "into",
+        "made",
+        "mahershala",
+        "mean",
+        "most",
+        "much",
+        "not",
+        "old",
+        "oscars",
+        "part",
+        "podcast",
+        "really",
+        "roles",
+        "said",
+        "says",
+        "simply",
+        "telling",
+        "that",
+        "the",
+        "translated",
+        "two",
+        "wants",
+        "winning",
+        "year"
+      ],
+      "source_excerpt": "Mahershala Ali says his two Oscars 'don't really mean' much Mahershala Ali has said that winning two Academy Awards has not translated into the roles he wants, telling a podcast that most films being made simply have no part for him. The 52-year-old actor made the comments on 7PM in...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692227-mahershala-ali-says-his-two-oscars-dont-really-mean-much",
+          "published_at": "2026-11-22T23:32:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692227-mahershala-ali-says-his-two-oscars-dont-really-mean-much",
+        "publisher_url": "https://www.geo.tv/latest/692227-mahershala-ali-says-his-two-oscars-dont-really-mean-much",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "580746d7cba1ab6ce63be09a",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T23:03:00+00:00",
+      "last_update": "2026-11-22T23:03:00+00:00",
+      "event": "Meghan Markle building clever connections in UK as part of new move",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "autumn",
+        "back",
+        "building",
+        "celebrity",
+        "chance",
+        "clever",
+        "connections",
+        "duchess",
+        "friend",
+        "friendship",
+        "george",
+        "giving",
+        "hairstylist",
+        "her",
+        "him",
+        "instagram",
+        "invited",
+        "its",
+        "join",
+        "long",
+        "longtime",
+        "looks",
+        "lunch",
+        "makrle",
+        "markle",
+        "meghan",
+        "move",
+        "new",
+        "northwood",
+        "park",
+        "part",
+        "photos",
+        "restaurant",
+        "series",
+        "sussex",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "Meghan Makrle’s longtime friend George Northwood looks back on autumn lunch with her in new Instagram photos. The celebrity hairstylist invited the Duchess of Sussex to join him at The Park restaurant as part of its “Long Lunch” series, giving friendship a chance...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692188-meghan-markle-helps-friend-prepare-for-baby-son-elijahs-new-milestone",
+          "published_at": "2026-11-22T23:03:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692188-meghan-markle-helps-friend-prepare-for-baby-son-elijahs-new-milestone",
+        "publisher_url": "https://www.geo.tv/latest/692188-meghan-markle-helps-friend-prepare-for-baby-son-elijahs-new-milestone",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe6f6778a48aef4bdc83f057",
+      "remembered_at": "2026-11-22T23:49:11.096131+00:00",
+      "event_date": "2026-11-22T23:42:52+00:00",
+      "last_update": "2026-11-22T23:42:52+00:00",
+      "event": "Met office warns of continued rainfall shortages",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "continued",
+        "express",
+        "met",
+        "office",
+        "rainfall",
+        "shortages",
+        "the",
+        "tribune",
+        "warns"
+      ],
+      "source_excerpt": "Met office warns of continued rainfall shortages The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb00zYUZvU1NxYWROOUhMWERpX20tQl9nT01MTU9WU0dzSUJFb24zOGllSGRJSkRaTS1QZURZWWZ6UllvLWpMN3ctUm85MGtmNlYwM2Z1cU9IY3hxcVM4RTFEZ04xRWRVZ1RUbHc1UTR6Y3FlWGYwcFZCVFpSNDhGUWZvU0hiT2VHYUNxWi1B0gGWAUFVX3lxTE9BVC13NjVoV0dzYkpBVERfX0NEQ2ZDbWRwdUthZHg1UjRUS0ZNT0ZQdFZvY3pLNG9lMDJSNXQ4alhuTkFvaVo5QmVfNkZzTldzXzdRaHhLVVhTLWhVaDlXN21WMDhIbFhDVHdFaUMwVXpVdTVpZ2sxT0ZJZjFSS29tYl9KU2FLcGdyS2lvdnRqdlBnSlRWdw?oc=5",
+          "published_at": "2026-11-22T23:42:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb00zYUZvU1NxYWROOUhMWERpX20tQl9nT01MTU9WU0dzSUJFb24zOGllSGRJSkRaTS1QZURZWWZ6UllvLWpMN3ctUm85MGtmNlYwM2Z1cU9IY3hxcVM4RTFEZ04xRWRVZ1RUbHc1UTR6Y3FlWGYwcFZCVFpSNDhGUWZvU0hiT2VHYUNxWi1B0gGWAUFVX3lxTE9BVC13NjVoV0dzYkpBVERfX0NEQ2ZDbWRwdUthZHg1UjRUS0ZNT0ZQdFZvY3pLNG9lMDJSNXQ4alhuTkFvaVo5QmVfNkZzTldzXzdRaHhLVVhTLWhVaDlXN21WMDhIbFhDVHdFaUMwVXpVdTVpZ2sxT0ZJZjFSS29tYl9KU2FLcGdyS2lvdnRqdlBnSlRWdw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T23:02:45.944869+00:00"
+  "updated_at": "2026-11-22T23:49:11.096131+00:00"
 }
