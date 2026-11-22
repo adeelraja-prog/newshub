@@ -1,34 +1,34 @@
-# News Hub report - Sun 22 Nov, 09:18 AM PKT
+# News Hub report - Sun 22 Nov, 10:21 AM PKT
 
 ## Collection
-- New items this run: 39 | items in rolling pool: 178
-- Unique story clusters: 157 (duplicates merged: 21)
-- Clusters dropped as already published/queued: 20; unchanged since last analysis: 8
-- Items per outlet: samaa tv 11, Dawn Pakistan 10, Dawn Latest 6, ProPakistani 4, ARY News 2, The Express Tribune 1, Geo News 1, Al Jazeera 1, BBC Science 1, Middle East Eye 1, The National 1
+- New items this run: 31 | items in rolling pool: 188
+- Unique story clusters: 166 (duplicates merged: 22)
+- Clusters dropped as already published/queued: 19; unchanged since last analysis: 7
+- Items per outlet: samaa tv 3, Dawn Pakistan 3, Al Jazeera 3, ProPakistani 3, Dawn 2, The News International 2, Dunya News 2, Dawn Latest 2, ARY News 2, Geo News 1, Jang Urdu 1, GSMArena 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Russian cargo ship ablaze after suspected Ukrainian drone strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Portuguese FM due in Islamabad today | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab land reforms project reaches 90pc progress | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Echoes of Pakistan's shared past in Rawalpindi's neglected temples | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Markets, schools in Rawalpindi to remain open during Punjab CM’s visit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Eleven killed in burst of violence during Mexican cartel leader’s capture | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICE agents detain two people at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Displaced Palestinians protest as Israeli air strikes continue in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Russian cargo ship ablaze after suspected Ukrainian drone strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Portuguese FM due in Islamabad today | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab land reforms project reaches 90pc progress | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Echoes of Pakistan's shared past in Rawalpindi's neglected temples | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Markets, schools in Rawalpindi to remain open during Punjab CM’s visit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Eleven killed in burst of violence during Mexican cartel leader’s capture | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICE agents detain two people at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Displaced Palestinians protest as Israeli air strikes continue in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Russian cargo ship ablaze after suspected Ukrainian drone strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Portuguese FM due in Islamabad today | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab land reforms project reaches 90pc progress | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Echoes of Pakistan's shared past in Rawalpindi's neglected temples | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Markets, schools in Rawalpindi to remain open during Punjab CM’s visit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Eleven killed in burst of violence during Mexican cartel leader’s capture | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ICE agents detain two people at Seattle airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Displaced Palestinians protest as Israeli air strikes continue in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
@@ -38,112 +38,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Sindh Seeks French Help and Technology to Restore Manchhar Lake  [NORMAL]
-- Poster: سندھ حکومت کا منچھر جھیل کی بحالی کے لیے فرانسیسی تعاون کا مطالبہ / Sindh Seeks French Help to Restore Manchhar Lake | category politics
-- Alternative headline: Chief Minister Murad Ali Shah Asks France to Assist in Cleaning Manchhar Lake
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046236/sindh-seeks-french-help-to-restore-manchhar-lake | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046236/sindh-seeks-french-help-to-restore-manchhar-lake
-- Supporting coverage: Dawn Pakistan
-- Keywords: Manchhar Lake, Syed Murad Ali Shah, Sindh government, French ambassador, water pollution | hashtags: #ManchharLake #SindhGovernment #MuradAliShah #Environment
-- Scheduled: Sun 22 Nov, 09:18 AM PKT
-- Caption:
-```
-Chief Minister Sindh Syed Murad Ali Shah has sought French cooperation and technology to restore Manchhar Lake and eliminate its severe pollution.
-
-Chief Minister Syed Murad Ali Shah met with French Ambassador Jean-Noël Poirier to discuss cooperation in restoring Manchhar Lake. Decades of declining freshwater inflows and polluted industrial drainage have badly damaged the lake, destroying fisheries and spreading waterborne diseases.
-
-وزیر اعلیٰ سندھ سید مراد علی شاہ نے منچھر جھیل کی بحالی اور آلودگی کے خاتمے کے لیے فرانسیسی تعاون اور ٹیکنالوجی کی درخواست کی ہے۔ فرانسیسی سفیر سے ملاقات میں جھیل میں آلودگی اور تازہ پانی کی کمی کے مسائل پر تبادلہ خیال کیا گیا جس سے ماحولیاتی تباہی پھیلی ہے۔
-
-According to Dawn Pakistan
-
-#ManchharLake #SindhGovernment #MuradAliShah #Environment
-```
-
-### Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike  [NORMAL]
-- Poster: روسی کارگو جہاز پر مبینہ ڈرون حملہ، سمندر میں آگ بھڑک اٹھی / Russian Cargo Ship Ablaze After Suspected Drone Strike | category war
-- Alternative headline: Suspected Ukrainian Drone Attack Sets Russian Cargo Vessel on Fire
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMinAFBVV95cUxNVV9zR2JrQzB5VzFMS1o0UDRFOXFEN3lnbVRjNUFpcVVfMEJqZGVoV1JPY040WmRwVkdIU21KN2dBMHNHaV9rUzNnbGUxZDZqZm9EcXYwN3RoVVk5aGtxTy05TllhamhoQkRSVDFZWWdraEVFZW9NTXNTd0lycWNWcUxBcHRUelg1TWQxLUNSLUMtQUJWX0wzNEliMlI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMinAFBVV95cUxNVV9zR2JrQzB5VzFMS1o0UDRFOXFEN3lnbVRjNUFpcVVfMEJqZGVoV1JPY040WmRwVkdIU21KN2dBMHNHaV9rUzNnbGUxZDZqZm9EcXYwN3RoVVk5aGtxTy05TllhamhoQkRSVDFZWWdraEVFZW9NTXNTd0lycWNWcUxBcHRUelg1TWQxLUNSLUMtQUJWX0wzNEliMlI?oc=5
-- Supporting coverage: Reuters, The Guardian, samaa tv
-- Keywords: Russian cargo ship, Baltic Sea, drone strike, Ukraine war, cargo vessel | hashtags: #BalticSea #UkraineWar #Russia #DroneStrike
-- Scheduled: Sun 22 Nov, 09:28 AM PKT
-- Caption:
-```
-A Russian cargo ship has caught fire in the Baltic Sea following a suspected Ukrainian drone strike, forcing the crew to evacuate.
-
-A Russian cargo ship was left ablaze in the Baltic Sea after being hit in a suspected Ukrainian drone strike. The incident prompted the crew to evacuate the burning vessel amid escalating regional tensions.
-
-بالٹک سمندر میں ایک روسی کارگو جہاز پر مبینہ یوکرینی ڈرون حملے کے بعد جہاز میں آگ لگ گئی، جس کے نتیجے میں عملے کو جہاز سے بحفاظت نکالنا پڑا۔
-
-First reported by samaa tv; also reported by Reuters and The Guardian
-
-#BalticSea #UkraineWar #Russia #DroneStrike
-```
-
-### Portuguese Foreign Minister Arrives in Islamabad Today  [NORMAL]
-- Poster: پرتگال کے وزیر خارجہ آج اسلام آباد پہنچیں گے / Portuguese FM Due in Islamabad Today | category politics
-- Alternative headline: Portugal FM Due in Islamabad for Diplomatic Engagements
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE9uVW16aF9Ndm9QdFFHMmFudUlKOExIOVpIV19mcm9ROTZ1eXBlX2hhSUNQbUU2eHNqNTVhZmtfMFBqaFB0N2N3eTh4SWdId292NllvSm9iSF9uMDNmaWJOS19uTjVvZ3Rqc0FiT2o5ZjdWa3RMNEpKamtn?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE9uVW16aF9Ndm9QdFFHMmFudUlKOExIOVpIV19mcm9ROTZ1eXBlX2hhSUNQbUU2eHNqNTVhZmtfMFBqaFB0N2N3eTh4SWdId292NllvSm9iSF9uMDNmaWJOS19uTjVvZ3Rqc0FiT2o5ZjdWa3RMNEpKamtn?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Portuguese FM, Islamabad, foreign minister, Pakistan Portugal relations | hashtags: #Islamabad #Portugal #ForeignMinister #Diplomacy
-- Scheduled: Sun 22 Nov, 09:38 AM PKT
-- Caption:
-```
-The Foreign Minister of Portugal is scheduled to arrive in Islamabad today for official meetings.
-
-The Portuguese foreign minister is due to arrive in Islamabad today for an official visit. The visit is expected to focus on strengthening bilateral ties and discussing matters of mutual interest between Pakistan and Portugal.
-
-پرتگال کے وزیر خارجہ آج ایک سرکاری دورے پر اسلام آباد پہنچ رہے ہیں۔ اس دورے کے دوران دونوں ملکوں کے درمیان دو طرفہ تعلقات اور باہمی دلچسپی کے امور پر تبادلہ خیال کیا جائے گا۔
-
-According to Dawn
-
-#Islamabad #Portugal #ForeignMinister #Diplomacy
-```
-
-### Punjab Land Reforms Project Reaches 90 Percent Progress  [NORMAL]
-- Poster: پنجاب لینڈ ریفارمز پروجیکٹ نوے فیصد مکمل ہو گیا / Punjab Land Reforms Project Reaches 90pc Progress | category other
-- Alternative headline: Land Reforms Project in Punjab Nears Completion at 90pc
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMy1XSk1rMDBubUNWd0JpOHE1RUxWUDRuXzFyd0dBOHFNZk9LelA0dUEzbjZfU2JrWEZ5U3o5UUZ0Y1FyaEhpMFhqSnNhRzdrQ2otQzBSREI5Y0hTMkh2NXVqRlVDV1Z2amMtTTg2czQtNmFpSGJTQXhRR19RTU9GYXh4R3BwTUc5WFJZ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMy1XSk1rMDBubUNWd0JpOHE1RUxWUDRuXzFyd0dBOHFNZk9LelA0dUEzbjZfU2JrWEZ5U3o5UUZ0Y1FyaEhpMFhqSnNhRzdrQ2otQzBSREI5Y0hTMkh2NXVqRlVDV1Z2amMtTTg2czQtNmFpSGJTQXhRR19RTU9GYXh4R3BwTUc5WFJZ?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Punjab land reforms, land reforms project, Punjab government, land records | hashtags: #Punjab #LandReforms #Governance #Pakistan
-- Scheduled: Sun 22 Nov, 09:48 AM PKT
-- Caption:
-```
-The Punjab land reforms project has achieved significant progress, reaching 90 percent completion according to recent reports.
-
-The Punjab land reforms project has successfully reached 90 percent progress. The initiative aims to streamline land records and governance across the province, bringing administrative improvements to the agricultural and property sectors.
-
-پنجاب میں لینڈ ریفارمز کا منصوبہ نوے فیصد پیش رفت کے ساتھ تکمیل کے قریب پہنچ گیا ہے۔ اس منصوبے کا مقصد صوبے میں زمین کے ریکارڈ اور انتظامی امور کو بہتر بنانا ہے۔
-
-According to Dawn
-
-#Punjab #LandReforms #Governance #Pakistan
-```
-
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
-- [needs_review] normal | Muslims projected to overtake Christians as world’s largest religious  | Thu 19 Nov, 03:10 AM PKT
-- [needs_review] normal | US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal | Thu 19 Nov, 03:20 AM PKT
-- [needs_review] normal | Hakeem Jeffries becomes first Black nominee for US House speaker | Thu 19 Nov, 03:41 AM PKT
-- [needs_review] normal | Pakistan mango exports plunge 36pc amid US-Iran war shipping disruptio | Thu 19 Nov, 03:51 AM PKT
 - [needs_review] normal | Floodwaters submerge cars and parking lots in Florida town | Thu 19 Nov, 04:11 AM PKT
 - [needs_review] normal | Catherine visits Mumbai maternity hospital on final day of royal tour | Thu 19 Nov, 04:37 AM PKT
 - [needs_review] normal | Myanmar faces historic genocide verdict at UN court over Rohingya | Thu 19 Nov, 04:47 AM PKT
@@ -161,7 +61,6 @@ According to Dawn
 - [needs_review] normal | PTI legal eagles Salman Akram Raja and Latif Khosa shake and make up | Thu 19 Nov, 09:03 AM PKT
 - [needs_review] normal | Poll tribunal suspends election results of GBA-16 and Diamer-II | Thu 19 Nov, 09:13 AM PKT
 - [needs_review] normal | Elon Musk calls record spending on US midterms pretty foolish | Thu 19 Nov, 09:23 AM PKT
-- [published] normal | FBISE Introduces On-the-Spot Printing of Exam Papers to Prevent Leaks | Thu 19 Nov, 09:59 AM PKT
 - [needs_review] normal | Man arrested for allegedly sexually abusing boy in Rawalpindi | Thu 19 Nov, 10:09 AM PKT
 - [needs_review] normal | Punjab CM approves panchayat system to resolve disputes | Thu 19 Nov, 10:19 AM PKT
 - [needs_review] normal | Lahore ATC adjourns Shah Mehmood Qureshi's bail plea in May 9 case | Thu 19 Nov, 10:29 AM PKT
@@ -358,10 +257,10 @@ According to Dawn
 - [needs_review] normal | Mexico Captures FBI Most Wanted Drug Kingpin in Dramatic Raid | Sun 22 Nov, 02:57 AM PKT
 - [needs_review] normal | Thousands Protest Across Europe Over Soaring Living Costs and Housing | Sun 22 Nov, 03:07 AM PKT
 - [published] normal | Iran sets condition for reopening strait through Qatari mediators | Sun 22 Nov, 03:26 AM PKT
-- [queued] normal | AOC challenged by activist over Democratic leadership's AIPAC ties | Sun 22 Nov, 03:36 AM PKT
-- [queued] normal | Bahrain reports industrial facility fire following Iranian attack | Sun 22 Nov, 03:46 AM PKT
-- [queued] normal | George Washington's Framed Lock of Hair Sells for $4,000 at Auction | Sun 22 Nov, 04:13 AM PKT
-- [queued] normal | Espi's Late Goal Secures Thrilling 2-1 Win for Real Madrid Over Celta  | Sun 22 Nov, 04:23 AM PKT
+- [needs_review] normal | AOC challenged by activist over Democratic leadership's AIPAC ties | Sun 22 Nov, 03:36 AM PKT
+- [needs_review] normal | Bahrain reports industrial facility fire following Iranian attack | Sun 22 Nov, 03:46 AM PKT
+- [needs_review] normal | George Washington's Framed Lock of Hair Sells for $4,000 at Auction | Sun 22 Nov, 04:13 AM PKT
+- [published] normal | Espi's Late Goal Secures Thrilling 2-1 Win for Real Madrid Over Celta  | Sun 22 Nov, 04:23 AM PKT
 - [queued] normal | Can Virtual Relationships in Video Games Count as Cheating? | Sun 22 Nov, 04:33 AM PKT
 - [queued] normal | Will COP31 Climate Summit Conclude with a New Global Agreement? | Sun 22 Nov, 04:43 AM PKT
 - [queued] normal | Iran faces a silent economic war, warns Iranian president | Sun 22 Nov, 04:56 AM PKT
@@ -381,11 +280,11 @@ According to Dawn
 - [queued] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
 
 ## Publishing this run
-- Published 'Iran sets condition for reopening strait through Qatari mediators'.
+- Published 'Espi's Late Goal Secures Thrilling 2-1 Win for Real Madrid Over Celta Vigo'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 8998 | output tokens: 4241
-- Errors: 3
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -394,4 +293,15 @@ According to Dawn
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 160 column 9 (char 6497)
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"
