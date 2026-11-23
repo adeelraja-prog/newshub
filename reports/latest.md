@@ -1,35 +1,36 @@
-# News Hub report - Mon 23 Nov, 02:45 PM PKT
+# News Hub report - Mon 23 Nov, 03:50 PM PKT
 
 ## Collection
-- New items this run: 161 | items in rolling pool: 519
-- Unique story clusters: 428 (duplicates merged: 91)
-- Clusters dropped as already published/queued: 22; unchanged since last analysis: 10
-- Items per outlet: UrduPoint 71, Geo News 9, Al Jazeera 7, ProPakistani 7, TechJuice 7, ARY News 5, Investify 4, samaa tv 3, Dawn 3, The Express Tribune 3, Dawn Pakistan 3, The Current 3
+- New items this run: 119 | items in rolling pool: 606
+- Unique story clusters: 502 (duplicates merged: 104)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 33, Geo News 9, ProPakistani 8, samaa tv 5, Al Jazeera 5, Wired 4, UNITED24 Media 4, Dunya News 3, ARY News 3, Aaj English TV 3, BBC Business 3, The Current 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: IMRAN KHAN’S HEALTH, MARYAM NAWAZ’S PLANE & PTI POWER POLITICS | https://www.youtube.com/watch?v=IZW2Nf3hipo
 
 ## Top 5 most important
-- Pakistani fintech secures early-stage investment from ADB Ventures | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Naqvi, Shujaat discuss creation of new provinces amid growing political debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Major Audit Reforms: What Changes for Pakistan’s Companies & Investors? | Dawn News English | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kenya and DR Congo agree to restore ties after tensions over conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump signals possible Iran strikes after New Year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AI superintelligence ‘arriving’ warns top Meta executive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Widowed amid war and displacement: Sudanese mothers struggle to survive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistani fintech secures early-stage investment from ADB Ventures | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Naqvi, Shujaat discuss creation of new provinces amid growing political debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Major Audit Reforms: What Changes for Pakistan’s Companies & Investors? | Dawn News English | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kenya and DR Congo agree to restore ties after tensions over conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump signals possible Iran strikes after New Year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AI superintelligence ‘arriving’ warns top Meta executive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Widowed amid war and displacement: Sudanese mothers struggle to survive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistani fintech secures early-stage investment from ADB Ventures | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Naqvi, Shujaat discuss creation of new provinces amid growing political debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Major Audit Reforms: What Changes for Pakistan’s Companies & Investors? | Dawn News English | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kenya and DR Congo agree to restore ties after tensions over conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump signals possible Iran strikes after New Year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AI superintelligence ‘arriving’ warns top Meta executive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Widowed amid war and displacement: Sudanese mothers struggle to survive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,111 +39,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Naqvi and Shujaat Discuss New Provinces and Devolution in Lahore  [NORMAL]
-- Poster: نقوی اور شجاعت کی ملاقات، نئے صوبوں کے قیام پر تبادلہ خیال / Naqvi and Shujaat Discuss New Provinces | category politics
-- Alternative headline: Political Debate Heats Up as Shujaat and Naqvi Discuss New Provinces
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMitAFBVV95cUxORW4ycFB2b2xLM3BaN3IzRk1vcFlvY0lLd2NUSThRek1mY3o0eXRKamFvZHRKN3R4TGRLdldvQmZZNy1hRmVhTVV5THI0R1FUMTNGVEJZVDRBalk3ZC1fVUVmTDJVRTVSVGtPMjZzaUxuYUJuM3cxTDNUcUllN3QxcTFueFFiTTBaUlJYVzhhZzdGWU5mMlpockRwUGdOdkJzRWpGQW1ybWNxU1RpenprUVFUNHbSAbwBQVVfeXFMT01pWGdwQ0lCWmktbzZJVzkzV0FCVGx1SzFuVVpzY3BucWl6VFlBM3ZucU9HWlFzR1hWWWR5Yjl4YWoxazh0VndOWDFLa183enpEeGJldGFIcUlrVnp0WjNZb2tvaWpIa3UwQkR3QTR1THhoNVVYQ2VuVnVQb3RBWkRWZUxud0d2b090ejUtU0FxbFVGVlNNVlpsanU3dHQ3V3NvNDRQSHBPNi0zcjhzQXAtV2dORWZlYzljMXo?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMitAFBVV95cUxORW4ycFB2b2xLM3BaN3IzRk1vcFlvY0lLd2NUSThRek1mY3o0eXRKamFvZHRKN3R4TGRLdldvQmZZNy1hRmVhTVV5THI0R1FUMTNGVEJZVDRBalk3ZC1fVUVmTDJVRTVSVGtPMjZzaUxuYUJuM3cxTDNUcUllN3QxcTFueFFiTTBaUlJYVzhhZzdGWU5mMlpockRwUGdOdkJzRWpGQW1ybWNxU1RpenprUVFUNHbSAbwBQVVfeXFMT01pWGdwQ0lCWmktbzZJVzkzV0FCVGx1SzFuVVpzY3BucWl6VFlBM3ZucU9HWlFzR1hWWWR5Yjl4YWoxazh0VndOWDFLa183enpEeGJldGFIcUlrVnp0WjNZb2tvaWpIa3UwQkR3QTR1THhoNVVYQ2VuVnVQb3RBWkRWZUxud0d2b090ejUtU0FxbFVGVlNNVlpsanU3dHQ3V3NvNDRQSHBPNi0zcjhzQXAtV2dORWZlYzljMXo?oc=5
-- Supporting coverage: The Express Tribune, Dawn Pakistan, Dawn
-- Keywords: new provinces, Mohsin Naqvi, Chaudhry Shujaat Hussain, devolution of power, Lahore meeting, political debate | hashtags: #NewProvinces #MohsinNaqvi #ChaudhryShujaat #PakistanPolitics #Lahore
-- Scheduled: Mon 23 Nov, 02:45 PM PKT
-- Caption:
-```
-Political discussions intensify in Pakistan as leaders meet to deliberate on the creation of new provinces and the devolution of power.
-
-Senior political figures Mohsin Naqvi and Chaudhry Shujaat Hussain met in Lahore to discuss the creation of new provinces and the devolution of power, amid a growing political debate surrounding administrative boundaries in the country.
-
-سینئر سیاسی شخصیات محسن نقوی اور چوہدری شجاعت حسین نے لاہور میں ملاقات کی جس میں ملک میں نئے صوبوں کے قیام اور اختیارات کی منتقلی پر تبادلہ خیال کیا گیا۔
-
-First reported by The Express Tribune.
-
-#NewProvinces #MohsinNaqvi #ChaudhryShujaat #PakistanPolitics #Lahore
-```
-
-### Pakistani Fintech Neem Secures Early-Stage Investment from ADB Ventures  [NORMAL]
-- Poster: پاکستانی فن ٹیک کمپنی نیم نے اے ڈی بی وینچرز سے سرمایہ کاری حاصل کر لی / Fintech Neem Secures ADB Ventures Investment | category other
-- Alternative headline: ADB Ventures Invests in Pakistani Fintech Neem to Boost Financial Inclusion
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHV4WEV4LVdPY01oQjFmaGFHUGo0TDNqekJTYnBHTnhiNHI0dlNWaDNnb3B5eE1pS0V0N3BlbVpTTHVpaV96Y3VQRzFNa092X3hYV3hCNEd0WmFscUsxQnRlSXFaOTNiTVEzNkp1Z2lTZTFoWmdjZlNVb2YydF9SVFVEYS1yTEd0VkNKRXlObFRncFhIQUZTblowQTJfZHc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHV4WEV4LVdPY01oQjFmaGFHUGo0TDNqekJTYnBHTnhiNHI0dlNWaDNnb3B5eE1pS0V0N3BlbVpTTHVpaV96Y3VQRzFNa092X3hYV3hCNEd0WmFscUsxQnRlSXFaOTNiTVEzNkp1Z2lTZTFoWmdjZlNVb2YydF9SVFVEYS1yTEd0VkNKRXlObFRncFhIQUZTblowQTJfZHc?oc=5
-- Supporting coverage: Investify, PhoneWorld, samaa tv, ProPakistani, Investify, Profit by Pakistan Today
-- Keywords: Neem fintech, ADB Ventures, early-stage investment, Pakistani fintech, digital payments, financial infrastructure | hashtags: #Fintech #Neem #ADBVentures #PakistanStartups #DigitalPayments
-- Scheduled: Mon 23 Nov, 02:55 PM PKT
-- Caption:
-```
-Pakistan's digital finance sector receives a boost as fintech startup Neem secures early-stage investment from ADB Ventures.
-
-Pakistani fintech company Neem has successfully secured early-stage investment from ADB Ventures, marking a significant milestone for the country's growing digital financial services and business payments infrastructure.
-
-پاکستانی فن ٹیک کمپنی نیم نے اے ڈی بی وینچرز سے ابتدائی مرحلے کی سرمایہ کاری حاصل کر لی ہے، جو ملک کے ڈیجیٹل مالیاتی اور کاروباری انفراسٹرکچر کے لیے ایک اہم سنگ میل ہے۔
-
-First reported by samaa tv.
-
-#Fintech #Neem #ADBVentures #PakistanStartups #DigitalPayments
-```
-
-### Major Audit Reforms Introduced for Companies and Investors in Pakistan  [NORMAL]
-- Poster: پاکستان میں کمپنیوں اور سرمایہ کاروں کے لیے بڑے آڈٹ اصلاحات کا اعلان / Major Audit Reforms Introduced in Pakistan | category other
-- Alternative headline: What the New Audit Reforms Mean for Pakistan’s Corporate Sector
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVlXM3cyYkN5clhFazNWeS0tX2w0WlI5TEtkZnZFR1hndXlqUTZRUjFBa0xwQ015MnFnSHpLcDM5VTA2LThIQzFGcG10czZ2SllnbnNQSERQMlZISS1lWGl0c0pkT3hLaGRIMkxwOWFlMUlqVG9YaVBWbW1kS2w0My1naU5nUDJaeXpYZDh6R1AwWWg3OW5FSnJScGJwN09TclZOOGNwdElUdTlhV2JoWjJZYVAxNFQwU01HUXpCNA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVlXM3cyYkN5clhFazNWeS0tX2w0WlI5TEtkZnZFR1hndXlqUTZRUjFBa0xwQ015MnFnSHpLcDM5VTA2LThIQzFGcG10czZ2SllnbnNQSERQMlZISS1lWGl0c0pkT3hLaGRIMkxwOWFlMUlqVG9YaVBWbW1kS2w0My1naU5nUDJaeXpYZDh6R1AwWWg3OW5FSnJScGJwN09TclZOOGNwdElUdTlhV2JoWjJZYVAxNFQwU01HUXpCNA?oc=5
-- Supporting coverage: Dawn
-- Keywords: audit reforms, Pakistan companies, investors, corporate governance, financial transparency, Dawn News | hashtags: #AuditReforms #PakistanEconomy #CorporateGovernance #BusinessPakistan #DawnNews
-- Scheduled: Mon 23 Nov, 03:05 PM PKT
-- Caption:
-```
-Pakistan's corporate landscape faces significant changes as major new audit reforms are rolled out for companies and investors.
-
-Major audit reforms have been announced, bringing significant changes for companies and investors operating in Pakistan. The updates aim to enhance financial transparency and regulatory compliance across the corporate sector.
-
-پاکستان میں کمپنیوں اور سرمایہ کاروں کے لیے اہم آڈٹ اصلاحات کا اعلان کیا گیا ہے، جن کا مقصد کارپوریٹ سٹرکچر میں مالیاتی شفافیت کو بہتر بنانا ہے۔
-
-First reported by Dawn.
-
-#AuditReforms #PakistanEconomy #CorporateGovernance #BusinessPakistan #DawnNews
-```
-
-### Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions  [NORMAL]
-- Poster: کینیا اور کانگو نے کشیدگی کے بعد سفارتی تعلقات بحال کرنے پر اتفاق کر لیا / Kenya and DR Congo Restore Diplomatic Ties | category world
-- Alternative headline: Kenya and DR Congo Mend Relations Following Conflict Disputes
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, BBC
-- Keywords: Kenya DR Congo ties, William Ruto, Felix Tshisekedi, diplomatic relations, East Africa, conflict resolution | hashtags: #Kenya #DRCongo #Diplomacy #AfricaNews #BBC
-- Scheduled: Mon 23 Nov, 03:15 PM PKT
-- Caption:
-```
-Diplomatic relations between Kenya and the Democratic Republic of Congo are set to be fully restored following a mediation summit.
-
-Kenya's President William Ruto and DR Congo counterpart Felix Tshisekedi have agreed to restore full diplomatic ties following bilateral tensions that began in 2023 over conflict disputes in the eastern region of DR Congo.
-
-کینیا کے صدر ولیم روٹو اور کانگو کے صدر فیلکس تشیانکیدی نے مشرقی کانگو کے تنازعے پر پیدا ہونے والی کشیدگی کے بعد مکمل سفارتی تعلقات بحال کرنے پر اتفاق کر لیا ہے۔
-
-First reported by BBC World.
-
-#Kenya #DRCongo #Diplomacy #AfricaNews #BBC
-```
-
-- Indian outlets blocked this run: 12 items
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 12
 
 ## Queue status
-- [needs_review] normal | Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unem | Fri 20 Nov, 08:28 AM PKT
-- [needs_review] normal | Pakistan and Maldives Move to Establish Joint Trade Group to Boost Com | Fri 20 Nov, 08:38 AM PKT
-- [needs_review] normal | Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Reh | Fri 20 Nov, 08:48 AM PKT
 - [needs_review] normal | UK asks YouTube to remove Russell Brand’s video | Fri 20 Nov, 09:31 AM PKT
 - [needs_review] normal | Asia’s stock markets dive amid AI bubble fears | Fri 20 Nov, 09:41 AM PKT
 - [needs_review] normal | Trump nominee refuses to call Jan 6 an ‘attack’ | Fri 20 Nov, 09:51 AM PKT
@@ -154,7 +56,6 @@ First reported by BBC World.
 - [needs_review] normal | NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Launderi | Fri 20 Nov, 02:10 PM PKT
 - [needs_review] normal | Trump Ousts US Cyber Director After Tech Outages Spark Criticism | Fri 20 Nov, 02:20 PM PKT
 - [needs_review] normal | Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case | Fri 20 Nov, 02:30 PM PKT
-- [published] normal | Karachi Man Inspired by Batman Arrested Over Alleged US Data Sale | Fri 20 Nov, 03:10 PM PKT
 - [needs_review] normal | Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb | Fri 20 Nov, 03:20 PM PKT
 - [needs_review] normal | El Salvador’s President Bukele Seeks Third Term After Constitutional C | Fri 20 Nov, 03:30 PM PKT
 - [needs_review] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
@@ -374,10 +275,10 @@ First reported by BBC World.
 - [needs_review] normal | Global food import bill projected to rise 1.9pc in 2026: FAO | Mon 23 Nov, 08:17 AM PKT
 - [needs_review] normal | World economy hinges on Iran peace deal, says Hakan Fidan | Mon 23 Nov, 08:27 AM PKT
 - [published] normal | Balochistan doctors demand pending salaries | Mon 23 Nov, 09:03 AM PKT
-- [queued] normal | Missing Panjgur student returns home after two years | Mon 23 Nov, 09:13 AM PKT
-- [queued] normal | JI not against new provinces but urges provision of rights | Mon 23 Nov, 09:23 AM PKT
-- [queued] normal | Pakistan's offshore oil exploration with Turkiye merits cautious optim | Mon 23 Nov, 09:33 AM PKT
-- [queued] normal | UK disability benefits assessment process faces major overhaul recomme | Mon 23 Nov, 10:25 AM PKT
+- [needs_review] normal | Missing Panjgur student returns home after two years | Mon 23 Nov, 09:13 AM PKT
+- [needs_review] normal | JI not against new provinces but urges provision of rights | Mon 23 Nov, 09:23 AM PKT
+- [needs_review] normal | Pakistan's offshore oil exploration with Turkiye merits cautious optim | Mon 23 Nov, 09:33 AM PKT
+- [published] normal | UK disability benefits assessment process faces major overhaul recomme | Mon 23 Nov, 10:25 AM PKT
 - [queued] normal | Port Qasim's only coal conveyor system breaks down, disrupting imports | Mon 23 Nov, 10:35 AM PKT
 - [queued] normal | Government moves to overhaul weak audit oversight system | Mon 23 Nov, 10:45 AM PKT
 - [queued] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
@@ -390,13 +291,14 @@ First reported by BBC World.
 - [queued] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
 - [queued] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
 - [queued] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
+- [queued] promo | [YouTube] IMRAN KHAN’S HEALTH, MARYAM NAWAZ’S PLANE & PTI POWER POLITI | Mon 23 Nov, 03:50 PM PKT
 
 ## Publishing this run
-- Published 'Balochistan doctors demand pending salaries'.
+- Published 'UK disability benefits assessment process faces major overhaul recommendation'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6365 | output tokens: 2072
-- Errors: 2
+- Calls: 7 | prompt tokens: 11098 | output tokens: 4423
+- Errors: 7
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -405,3 +307,13 @@ First reported by BBC World.
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 67 column 7 (char 3137)
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 155 column 7 (char 7136)

@@ -126666,7 +126666,553 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "be345a4e3bae439154ea8327",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T05:50:21+00:00",
+      "last_update": "2026-11-23T10:22:30+00:00",
+      "event": "Trump signals possible Iran strikes after New Year",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "iran",
+        "new",
+        "possible",
+        "samaa",
+        "signals",
+        "strikes",
+        "trump",
+        "year"
+      ],
+      "source_excerpt": "Trump signals possible Iran strikes after New Year samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFEwQ29QRHdLOFhlTVhXU0JIRkU1YzZkNktYVXYxOTFuZzBJU093SmlvOEZFOGs2d3dWeXcwbUZtWUFBZW5CZEZiU0NXOUd3by1DZmdXSjh1SmxhMWZlaXhwMFU3c29xNmtrVlBsa2UxYVk3cUhRZERyekVNamlhWjRfTTAzOUJMemc?oc=5",
+          "published_at": "2026-11-23T05:50:21+00:00"
+        },
+        {
+          "name": "Yeni Safak English",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXo5X2k5aVZVUk9uZ1B4Y2w4em9ITlZFdEpnQ2tnNGxqS2JDZFI5dEhSVUcyVEUyNklWeE9lNWVVMUFQbE1NckxEWkxZNlRZdVcyZFQ0ampDWUZteFY1YWhaVEdFRDd6bnJLQ0V4N3pEcEhXZlR6bkFUelA5V3BjRGZqUjQ0aE02SDhYa3RwRFFaWDNqTGRBY3NsZVB0dFFITlNtZg?oc=5",
+          "published_at": "2026-11-23T10:22:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFEwQ29QRHdLOFhlTVhXU0JIRkU1YzZkNktYVXYxOTFuZzBJU093SmlvOEZFOGs2d3dWeXcwbUZtWUFBZW5CZEZiU0NXOUd3by1DZmdXSjh1SmxhMWZlaXhwMFU3c29xNmtrVlBsa2UxYVk3cUhRZERyekVNamlhWjRfTTAzOUJMemc?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ed62647b7cb09a17f8d115c3",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T09:33:59+00:00",
+      "last_update": "2026-11-23T09:34:34+00:00",
+      "event": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "gaza",
+        "into",
+        "israel",
+        "new",
+        "report",
+        "says",
+        "toxic",
+        "turned",
+        "war",
+        "wasteland"
+      ],
+      "source_excerpt": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+          "published_at": "2026-11-23T09:33:59+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczQxSG9XUzZBRUZEc3VrWUlDbFBDbUM0ZWp1NEZBc1BnY1RUclFOUzlhdDBuRXJmT08tRk9kQndQMmR2MXNTX1dnNFptV0xJOVpLbHRpMjBrWV9sQ3FCQkFPSWczdUxBNVNJMXhBQkx4WHB0YlJ1ZW91T1BuRHkxNUNKYklORXhENlloTG95U2tYME00Mjd2cVR2cFBlaHE4T3loY0NqUmV6enloLU1YTmpXeUtOZ9IBuwFBVV95cUxQVGJGWWE4eHlzRzdqTXN3NkNUd3NWZGNkN291WEZraFo5QjB5azdjV2NYcUN6QzVxdWE2M3ZCSFFQRlRJeExxalZ1Y1J0TFU2alJuY2Nsc0JFQ1dkWmZlY2dlc04wWUJmQTJfS0N1RzNqX2FJT1h4UEIzaUFzTEtWMXVqcXZla25uN1ZkdnlaYnJ1UVdNdUwtQXFvZ3FabGR3UzA2TEQxT0otZGNFVVpqSTNNb3ZnOEZUZGFr?oc=5",
+          "published_at": "2026-11-23T09:34:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "034f3df61031a3dabb8107a0",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T09:45:25+00:00",
+      "last_update": "2026-11-23T09:45:25+00:00",
+      "event": "Thousands displaced after deadly storm hits Brazil town",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "brazil",
+        "brazilian",
+        "deadly",
+        "devastated",
+        "displaced",
+        "hits",
+        "powerful",
+        "storm",
+        "supercell",
+        "the",
+        "thousands",
+        "town",
+        "tupancireta"
+      ],
+      "source_excerpt": "A powerful supercell storm devastated the Brazilian town of Tupancireta.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss",
+          "published_at": "2026-11-23T09:45:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "46b404e0e1b7bfa902cca709",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T09:34:25+00:00",
+      "last_update": "2026-11-23T09:34:25+00:00",
+      "event": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "attacks",
+        "days",
+        "intensifies",
+        "killed",
+        "kyiv",
+        "least",
+        "mulitple",
+        "painful",
+        "promises",
+        "putin",
+        "region",
+        "response",
+        "russia",
+        "strikes",
+        "ukraine",
+        "ukrainian",
+        "unleashed"
+      ],
+      "source_excerpt": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+          "published_at": "2026-11-23T09:34:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7f581236e47db8cffa095aa4",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T10:36:46+00:00",
+      "last_update": "2026-11-23T10:36:46+00:00",
+      "event": "Woman faces hour-long drive to give birth as hospital suspends maternity services",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "area",
+        "birth",
+        "craigavon",
+        "daisy",
+        "drive",
+        "faces",
+        "from",
+        "give",
+        "hill",
+        "hospital",
+        "hour",
+        "long",
+        "maternity",
+        "monday",
+        "move",
+        "services",
+        "suspends",
+        "will",
+        "woman"
+      ],
+      "source_excerpt": "From Monday, maternity services at Daisy Hill Hospital will move to Craigavon Area Hospital.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cv5y10xn90y3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T10:36:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cv5y10xn90y3o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cv5y10xn90y3o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "346d9f02005a96ffa5728731",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T10:33:34+00:00",
+      "last_update": "2026-11-23T10:33:34+00:00",
+      "event": "Antibiotics saved my life - then nearly killed me",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "antibiotics",
+        "davies",
+        "drugs",
+        "falling",
+        "france",
+        "given",
+        "harriet",
+        "ill",
+        "killed",
+        "life",
+        "nearly",
+        "saved",
+        "skiing",
+        "the",
+        "then",
+        "was",
+        "while"
+      ],
+      "source_excerpt": "Harriet Davies was given the drugs after falling ill while skiing in France.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2elqy5g2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T10:33:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/ckvg2elqy5g2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckvg2elqy5g2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3d4154059dda800bc492e50a",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T10:46:56+00:00",
+      "last_update": "2026-11-23T10:46:56+00:00",
+      "event": "Capita shares plunge and boss steps down as civil service pensions saga drags on",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "been",
+        "boss",
+        "capita",
+        "civil",
+        "delays",
+        "down",
+        "drags",
+        "have",
+        "hit",
+        "last",
+        "overseen",
+        "payments",
+        "pension",
+        "pensions",
+        "plunge",
+        "public",
+        "saga",
+        "scheme",
+        "sector",
+        "service",
+        "shares",
+        "since",
+        "steps",
+        "workers",
+        "year"
+      ],
+      "source_excerpt": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T10:46:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3c059c7ecf4d1dbddac27b65",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T09:54:04+00:00",
+      "last_update": "2026-11-23T09:54:04+00:00",
+      "event": "Catering giant to switch stock market listing to US in further blow to UK",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "been",
+        "blow",
+        "catering",
+        "firms",
+        "further",
+        "giant",
+        "growing",
+        "have",
+        "leaving",
+        "list",
+        "listing",
+        "market",
+        "number",
+        "recent",
+        "shares",
+        "stock",
+        "switch",
+        "the",
+        "years"
+      ],
+      "source_excerpt": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T09:54:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6ab25089ee1ac0f44c0bfad1",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T10:19:46+00:00",
+      "last_update": "2026-11-23T10:19:46+00:00",
+      "event": "South East Water reports loss after supply issues",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "east",
+        "issues",
+        "loss",
+        "months",
+        "pre",
+        "records",
+        "reports",
+        "september",
+        "six",
+        "south",
+        "supply",
+        "tax",
+        "the",
+        "water"
+      ],
+      "source_excerpt": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T10:19:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4d7fce71a7e2315154ba0e3d",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T10:34:44+00:00",
+      "last_update": "2026-11-23T10:34:44+00:00",
+      "event": "Gill calls for cricket to relax saliva ban",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "ban",
+        "calls",
+        "cricket",
+        "for",
+        "gill",
+        "relax",
+        "saliva"
+      ],
+      "source_excerpt": "Gill calls for cricket to relax saliva ban ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QMWRuNnIzSkVkaG5pcHRMYnN2ejNYLTU4ZVRNMnM1cURhaUpfcUdoM21VZVpRUHg3Q21QOHJSLU9EaU5FclR0ZzRYbnBmSW9ENGRFRDFJbVlLb2hVUzVmZm9xT3pjTWdhUS0tZmhaOA?oc=5",
+          "published_at": "2026-11-23T10:34:44+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/gill-calls-for-cricket-to-relax-saliva-ban",
+          "published_at": "2026-11-23T10:34:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QMWRuNnIzSkVkaG5pcHRMYnN2ejNYLTU4ZVRNMnM1cURhaUpfcUdoM21VZVpRUHg3Q21QOHJSLU9EaU5FclR0ZzRYbnBmSW9ENGRFRDFJbVlLb2hVUzVmZm9xT3pjTWdhUS0tZmhaOA?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "66320ce51d07ca15d1a872c8",
+      "remembered_at": "2026-11-23T10:50:14.166360+00:00",
+      "event_date": "2026-11-23T10:20:15+00:00",
+      "last_update": "2026-11-23T10:20:15+00:00",
+      "event": "Pakistan’s Coal Supply Disrupted | Power Plants Face Major Risk | Dawn News English",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "coal",
+        "dawn",
+        "disrupted",
+        "english",
+        "face",
+        "major",
+        "news",
+        "pakistan",
+        "plants",
+        "power",
+        "risk",
+        "supply"
+      ],
+      "source_excerpt": "Pakistan’s Coal Supply Disrupted | Power Plants Face Major Risk | Dawn News English Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnRUNWxkMVFUQmREa3ZTVTAzaTlqckxiTWdVQ2tnQWVBWGFGLTAxRkx6U2JYZXpPdDZicGpZQ0kyZTFmdGlXOWx2UTREVHRuNnBBUGlaUG5sMDE2cEZqSlN0UkpqYWM0cDdjVEVNdktVVmJlRC1FR3VKRUlBeXpXQ2JvSGlUUHBVWDl1Z2RQdmktUVR1QmRaYVR6cXV5YW9RZ2plS2JkWGxxWkl5YUp1RjZ3?oc=5",
+          "published_at": "2026-11-23T10:20:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnRUNWxkMVFUQmREa3ZTVTAzaTlqckxiTWdVQ2tnQWVBWGFGLTAxRkx6U2JYZXpPdDZicGpZQ0kyZTFmdGlXOWx2UTREVHRuNnBBUGlaUG5sMDE2cEZqSlN0UkpqYWM0cDdjVEVNdktVVmJlRC1FR3VKRUlBeXpXQ2JvSGlUUHBVWDl1Z2RQdmktUVR1QmRaYVR6cXV5YW9RZ2plS2JkWGxxWkl5YUp1RjZ3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T09:45:21.707526+00:00"
+  "updated_at": "2026-11-23T10:50:14.166360+00:00"
 }
