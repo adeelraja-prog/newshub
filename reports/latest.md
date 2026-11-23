@@ -1,10 +1,10 @@
-# News Hub report - Mon 23 Nov, 04:49 AM PKT
+# News Hub report - Mon 23 Nov, 05:36 AM PKT
 
 ## Collection
-- New items this run: 22 | items in rolling pool: 240
-- Unique story clusters: 211 (duplicates merged: 29)
-- Clusters dropped as already published/queued: 33; unchanged since last analysis: 4
-- Items per outlet: The Express Tribune 5, Dawn Latest 3, Geo News 3, Dawn 2, Engadget 2, Al Jazeera 1, WRAL 1, The Guardian 1, Gulf News 1, Radio Free Europe/Radio Liberty 1, WSJ 1, Around Prague 1
+- New items this run: 68 | items in rolling pool: 272
+- Unique story clusters: 243 (duplicates merged: 29)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 3
+- Items per outlet: Dawn 55, Al Jazeera 5, Engadget 3, BBC Business 2, BBC Technology 1, The Journal 1, BBC 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -12,24 +12,24 @@
 
 ## Top 5 most important
 - Atalanta grab dramatic draw with Inter Milan in Serie A | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump criticises Schumer amid push for new Democrat leadership in US Senate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fullkrug scores again as Bremen hammer Hamburg in Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Taliban feel weight of Pakistan's pressure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Forces eliminate three terrorists in Peshawar op | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 10 injured as quadcopters hit Bannu jirga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine says Russian strikes kill six in Kyiv region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- South Korea’s stock market tumbles as AI bubble fears mount | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cameroon’s ex-rebels caught between hiding and broken promises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Atalanta grab dramatic draw with Inter Milan in Serie A | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump criticises Schumer amid push for new Democrat leadership in US Senate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fullkrug scores again as Bremen hammer Hamburg in Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Taliban feel weight of Pakistan's pressure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Forces eliminate three terrorists in Peshawar op | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 10 injured as quadcopters hit Bannu jirga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine says Russian strikes kill six in Kyiv region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- South Korea’s stock market tumbles as AI bubble fears mount | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cameroon’s ex-rebels caught between hiding and broken promises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Atalanta grab dramatic draw with Inter Milan in Serie A | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump criticises Schumer amid push for new Democrat leadership in US Senate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fullkrug scores again as Bremen hammer Hamburg in Bundesliga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Taliban feel weight of Pakistan's pressure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Forces eliminate three terrorists in Peshawar op | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 10 injured as quadcopters hit Bannu jirga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine says Russian strikes kill six in Kyiv region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- South Korea’s stock market tumbles as AI bubble fears mount | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cameroon’s ex-rebels caught between hiding and broken promises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,34 +38,82 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Trump Targets Schumer as US Senate Democrats Face New Leadership Push  [NORMAL]
-- Poster: ڈونلڈ ٹرمپ کی چک شومر پر تنقید، سینیٹ میں قیادت کی تبدیلی کی دوڑ تیز / Trump criticises Schumer amid US Senate leadership race | category us_politics
-- Alternative headline: US Senate Leadership Race: Trump Criticises Chuck Schumer Amid Democrat Push
+### PTI Questions Sugar Export Approval and Seeks Audit of Import Deal  [NORMAL]
+- Poster: پی ٹی آئی کا شوگر ایکسپورٹ کی منظوری پر سوال، آڈٹ کا مطالبہ / PTI Questions Sugar Export and Seeks Audit | category politics
+- Alternative headline: PTI Demands Complete Audit of Sugar Export Approval and Import Deal
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Chuck Schumer, Donald Trump, US Senate, Democrats, Chris Van Hollen | hashtags: #Trump #Schumer #USSenate #Democrats
-- Scheduled: Mon 23 Nov, 04:49 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUQzakx1Qkl3VzZ4eTJzMkozbzJQZ1E5OWdsWUYycVZqc1JqWUJnU2FCWUFqenhQOW53Qm5ld0tYOUctTl82bXN3QWhZWjIxZHJBdlV4M2R4RHVmMjNUVENHaVdaVmVjWFR6UjNjLXhfNWpYNS1vRVBiMlM5ZGNQWjRDalpNZ19jSEYxSE56LUpBbjdkSkJLWWwwUEk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUQzakx1Qkl3VzZ4eTJzMkozbzJQZ1E5OWdsWUYycVZqc1JqWUJnU2FCWUFqenhQOW53Qm5ld0tYOUctTl82bXN3QWhZWjIxZHJBdlV4M2R4RHVmMjNUVENHaVdaVmVjWFR6UjNjLXhfNWpYNS1vRVBiMlM5ZGNQWjRDalpNZ19jSEYxSE56LUpBbjdkSkJLWWwwUEk?oc=5
+- Supporting coverage: Dawn
+- Keywords: PTI sugar export, sugar export approval, sugar import deal, PTI audit demand, Dawn news | hashtags: #PTI #SugarExport #PakistanPolitics #DawnNews
+- Scheduled: Mon 23 Nov, 05:36 AM PKT
 - Caption:
 ```
-Donald Trump has criticised Chuck Schumer as US Senate Democrats face a fresh internal push for new leadership.
+Pakistan Tehreek-e-Insaf has raised serious questions over the recent approval of sugar exports and demanded an audit of the import deal.
 
-Donald Trump has voiced criticism against Chuck Schumer as Democrats face an internal push for new leadership in the US Senate. Schumer, who has led the party since 2017, is currently facing a challenge from Chris Van Hollen in his bid for majority leader.
+Pakistan Tehreek-e-Insaf (PTI) has questioned the government's decision regarding the approval of sugar exports while seeking a comprehensive audit of the import deal. The party raised concerns over transparency and policy decisions affecting the sugar sector.
 
-ڈونلڈ ٹرمپ نے چک شومر پر تنقید کی ہے جبکہ امریکی سینیٹ میں ڈیموکریٹس کو نئی قیادت کے لیے اندرونی دباؤ کا سامنا ہے۔ شومر، جو 2017 سے پارٹی کی قیادت کر رہے ہیں، کو میجورٹی لیڈر کی دوڑ میں کرس وان ہولڈن کی طرف سے چیلنج کا سامنا ہے۔
+پاکستان تحریک انصاف نے چینی کی برآمد کی منظوری پر سوالات اٹھاتے ہوئے درآمدی معاہدے کا جامع آڈٹ کرنے کا مطالبہ کیا ہے۔ پارٹی نے شفافیت اور پالیسی فیصلوں پر تحفظات کا اظہار کیا ہے۔
 
-First reported by Al Jazeera.
+First reported by Dawn
 
-#Trump #Schumer #USSenate #Democrats
+#PTI #SugarExport #PakistanPolitics #DawnNews
 ```
 
-- Indian outlets blocked this run: 0 items
+### Atalanta Grab Dramatic Draw With Inter Milan in Serie A  [NORMAL]
+- Poster: اٹلانٹا نے سیری اے میں انٹر میلان کے خلاف ڈرامائی ڈرا حاصل کر لیا / Atalanta Secure Dramatic Draw Against Inter Milan | category sports
+- Alternative headline: Late Drama: Atalanta Secure Hard-Fought Draw Against Inter Milan
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGQ4NnV1Mzc0Y3ljM0RyRXNlbUFPNWRYR1BCcklWOFVvQjBMaXRBektPRWlMazdOeE4tRjctTHNMdWpzNjA0SGxRSXpnQnMwMllQZWdtZ1hRYWthWFk2SU5jNmtTYWdMNW96MGd3VDUyRXlDbkFZcG5Ma1Y1eWg4UldSSHQ0Mmw3UHZvSm5kaDFfREk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGQ4NnV1Mzc0Y3ljM0RyRXNlbUFPNWRYR1BCcklWOFVvQjBMaXRBektPRWlMazdOeE4tRjctTHNMdWpzNjA0SGxRSXpnQnMwMllQZWdtZ1hRYWthWFk2SU5jNmtTYWdMNW96MGd3VDUyRXlDbkFZcG5Ma1Y1eWg4UldSSHQ0Mmw3UHZvSm5kaDFfREk?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Atalanta Inter Milan, Serie A, Atalanta draw, Inter Milan, Italian football | hashtags: #Atalanta #InterMilan #SerieA #Football
+- Scheduled: Mon 23 Nov, 05:46 AM PKT
+- Caption:
+```
+Atalanta delivered a thrilling performance to secure a dramatic draw against Inter Milan in an exciting Serie A encounter.
+
+Atalanta managed to grab a dramatic draw against Inter Milan in a thrilling Serie A match. Both sides displayed competitive football, keeping fans on the edge of their seats until the final whistle.
+
+اٹلانٹا نے سیری اے کے ایک سنسنی خیز میچ میں انٹر میلان کے خلاف ڈرامائی انداز میں ڈرا حاصل کر لیا۔ دونوں ٹیموں نے شاندار کھیل کا مظاہرہ کیا۔
+
+First reported by Dawn
+
+#Atalanta #InterMilan #SerieA #Football
+```
+
+### 10 Injured as Quadcopters Hit Peace Jirga in Bannu  [NORMAL]
+- Poster: بنوں جرگہ پر کواڈ کاپٹر حملے میں 10 افراد زخمی ہو گئے / 10 Injured in Quadcopter Attack on Bannu Jirga | category security
+- Alternative headline: Ten People Injured After Drone Strikes Target Bannu Jirga
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUp4VmFDb21oLVBpSGVGUUdBTmlkY2dZenVaOXVtaGloYXJsVEh4Um9YZ2t3MmJvalY4R1hNSUVuOHJOcWt4T2lQa2l0Ym1qYWJ3V2FHSkFWREdZSVBWOC1ZZFM0RlMyVnA2RXNWVGRJOXRfVjNmSEZtVzdvSDljcw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUp4VmFDb21oLVBpSGVGUUdBTmlkY2dZenVaOXVtaGloYXJsVEh4Um9YZ2t3MmJvalY4R1hNSUVuOHJOcWt4T2lQa2l0Ym1qYWJ3V2FHSkFWREdZSVBWOC1ZZFM0RlMyVnA2RXNWVGRJOXRfVjNmSEZtVzdvSDljcw?oc=5
+- Supporting coverage: Pakistan Today, Dawn
+- Keywords: Bannu jirga attack, quadcopter strike Bannu, Bannu jirga injured, security incident Bannu, Dawn news | hashtags: #Bannu #Security #PeaceJirga #DawnNews
+- Scheduled: Mon 23 Nov, 05:56 AM PKT
+- Caption:
+```
+At least ten people sustained injuries after quadcopters reportedly struck a peace jirga in Bannu.
+
+At least 10 people were reported injured after quadcopters hit a peace jirga in Bannu. Emergency services responded to the incident as security officials gathered further details regarding the strike.
+
+بنوں میں امن جرگہ پر کواڈ کاپٹر کے حملے کے نتیجے میں کم از کم 10 افراد زخمی ہو گئے۔ امدادی ٹیموں نے موقع پر پہنچ کر زخمیوں کو منتقل کیا۔
+
+First reported by Dawn
+
+#Bannu #Security #PeaceJirga #DawnNews
+```
+
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
@@ -286,9 +334,9 @@ First reported by Al Jazeera.
 - [needs_review] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
 - [published] normal | Mohsin Naqvi slams minister over repeated TV criticism, defends busine | Sun 22 Nov, 11:01 PM PKT
 - [published] normal | Pakistan announces first nationwide diabetes prevention and control pr | Sun 22 Nov, 11:11 PM PKT
-- [queued] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
-- [queued] normal | Canada’s PM appears next to Trump impersonator at press dinner | Sun 22 Nov, 11:31 PM PKT
-- [queued] normal | Khawaja Asif claims referendum on new provinces is coming soon | Sun 22 Nov, 11:54 PM PKT
+- [needs_review] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
+- [needs_review] normal | Canada’s PM appears next to Trump impersonator at press dinner | Sun 22 Nov, 11:31 PM PKT
+- [published] normal | Khawaja Asif claims referendum on new provinces is coming soon | Sun 22 Nov, 11:54 PM PKT
 - [queued] normal | Russian vessel hit by suspected sea drone in Libya | Mon 23 Nov, 12:04 AM PKT
 - [queued] normal | Civilians killed in RSF drone strikes across Sudan | Mon 23 Nov, 12:14 AM PKT
 - [queued] normal | Cox’s Bazar: Rohingya families face harsh exile during Ramadan | Mon 23 Nov, 12:24 AM PKT
@@ -314,15 +362,21 @@ First reported by Al Jazeera.
 - [queued] normal | How Pakistanis Save: An Express Tribune Report | Mon 23 Nov, 04:22 AM PKT
 - [queued] normal | Naya Pakistan Episode Broadcast on 22nd November 2026 | Mon 23 Nov, 04:32 AM PKT
 - [queued] normal | Trump Targets Schumer as US Senate Democrats Face New Leadership Push | Mon 23 Nov, 04:49 AM PKT
+- [queued] normal | PTI Questions Sugar Export Approval and Seeks Audit of Import Deal | Mon 23 Nov, 05:36 AM PKT
+- [queued] normal | Atalanta Grab Dramatic Draw With Inter Milan in Serie A | Mon 23 Nov, 05:46 AM PKT
+- [queued] normal | 10 Injured as Quadcopters Hit Peace Jirga in Bannu | Mon 23 Nov, 05:56 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan announces first nationwide diabetes prevention and control programme'.
+- Published 'Khawaja Asif claims referendum on new provinces is coming soon'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 2257 | output tokens: 547
+- Calls: 3 | prompt tokens: 3087 | output tokens: 1611
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i

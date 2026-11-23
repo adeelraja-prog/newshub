@@ -121104,7 +121104,788 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "590bf641ff0fa72792c529a9",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-22T18:09:48+00:00",
+      "last_update": "2026-11-23T00:06:42+00:00",
+      "event": "10 injured as quadcopters hit Bannu jirga",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bannu",
+        "dawn",
+        "hit",
+        "injured",
+        "jirga",
+        "quadcopters"
+      ],
+      "source_excerpt": "10 injured as quadcopters hit Bannu jirga Dawn",
+      "sources": [
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHI4LTExRXFyOXZZdklyb09weU5UNzlNQTlYM2UzVHZDX0FXdGZfY0xLVmo1aUFrRWtCczhsYjg1U2E3Q2VSMndBVUVsUV9xTDg4bVBCXzREYTk5V0dPelJBZ0RhRmc1a2ZXWVpPZ2RRcEhlUHlUY1V6X1lyMXpEUDZONU9aY0NFa0I0ZW1rRWY3LUlwTXRCeHdyZzQyWXZIZ0lNRkNn?oc=5",
+          "published_at": "2026-11-22T18:09:48+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUp4VmFDb21oLVBpSGVGUUdBTmlkY2dZenVaOXVtaGloYXJsVEh4Um9YZ2t3MmJvalY4R1hNSUVuOHJOcWt4T2lQa2l0Ym1qYWJ3V2FHSkFWREdZSVBWOC1ZZFM0RlMyVnA2RXNWVGRJOXRfVjNmSEZtVzdvSDljcw?oc=5",
+          "published_at": "2026-11-23T00:06:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUp4VmFDb21oLVBpSGVGUUdBTmlkY2dZenVaOXVtaGloYXJsVEh4Um9YZ2t3MmJvalY4R1hNSUVuOHJOcWt4T2lQa2l0Ym1qYWJ3V2FHSkFWREdZSVBWOC1ZZFM0RlMyVnA2RXNWVGRJOXRfVjNmSEZtVzdvSDljcw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "467818b1e6ec90d3aed0ceda",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-22T18:32:59+00:00",
+      "last_update": "2026-11-23T00:03:53+00:00",
+      "event": "Ukraine says Russian strikes kill six in Kyiv region",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "kill",
+        "kyiv",
+        "region",
+        "russian",
+        "says",
+        "six",
+        "strikes",
+        "ukraine"
+      ],
+      "source_excerpt": "Ukraine says Russian strikes kill six in Kyiv region Dawn",
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUNOMnljaHRpcGxWS2pENUxkclFRSFktMFFOMkk3SkNOdDg1YjRFQ2w4MjNZRXVEczZWQnRuWDFfNmQ4VEw5Y1l3M3hva0JDWUlnQ3JMcy1NZ1FzRURtcDBHRW8wTVBlY3hKTGN1OVJkc1NTT0s2VDFTWW9CYkVyT2hnZWRrUkxKUzl1bTFOQ3NEU2V4Z3lKT3ItT1BucUVoQjMyeNIBpAFBVV95cUxNVHRSVV84dC1qSUI0OGxSMTB0NC1jRWVwR2k3WTdESFVTVkg1dWJDeHI2cFd6d3pEX0NKOXJ0UG84ZDVvSGx5S3A4T0tjeHAzclB1aFlWajYwcmlqcUZ6NkJDcUpua3AxTklOaS1ZWXNIRmVUamhKakhPVnhfLVBaRm5wQU0tMEYtZTk1bjZFdTVnclFYY2p6YlkxT05kaXRYTjVYdg?oc=5",
+          "published_at": "2026-11-22T18:32:59+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXl5Q2lNSUtBNl9ELVhiZ3otNURaYkxFMld6UW1xWFQxMUdhMFVKanFLc1NtdXFQdTRnVE91NmZndVNtVTZCTTMzZllWQld1LVhJWXlFQl92QXpMOXhOZ1VqM1FMMDcxSG1ueEJGZTVvYXl1aFV5TENuRGhVcEczTmk1VmxTdk5BSHdqRGhtYw?oc=5",
+          "published_at": "2026-11-23T00:03:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXl5Q2lNSUtBNl9ELVhiZ3otNURaYkxFMld6UW1xWFQxMUdhMFVKanFLc1NtdXFQdTRnVE91NmZndVNtVTZCTTMzZllWQld1LVhJWXlFQl92QXpMOXhOZ1VqM1FMMDcxSG1ueEJGZTVvYXl1aFV5TENuRGhVcEczTmk1VmxTdk5BSHdqRGhtYw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "05d04e9ec37844194f6dd3d1",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:18:03+00:00",
+      "last_update": "2026-11-23T00:18:03+00:00",
+      "event": "South Korea’s stock market tumbles as AI bubble fears mount",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "brace",
+        "bubble",
+        "falls",
+        "fears",
+        "for",
+        "korea",
+        "kospi",
+        "losses",
+        "market",
+        "markets",
+        "mount",
+        "opening",
+        "percent",
+        "region",
+        "south",
+        "stock",
+        "the",
+        "tumbles"
+      ],
+      "source_excerpt": "Kospi falls 2.8 percent at opening as markets across the region brace for losses.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+          "published_at": "2026-11-23T00:18:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "275d20a85098e932cef7ab02",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:03:30+00:00",
+      "last_update": "2026-11-23T00:03:30+00:00",
+      "event": "Cameroon’s ex-rebels caught between hiding and broken promises",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arrest",
+        "between",
+        "broken",
+        "cameroon",
+        "caught",
+        "face",
+        "failed",
+        "fears",
+        "former",
+        "hiding",
+        "promises",
+        "rebels",
+        "reintegration"
+      ],
+      "source_excerpt": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+          "published_at": "2026-11-23T00:03:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "30275971cb2aa6cf074e379b",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-22T23:59:22+00:00",
+      "last_update": "2026-11-22T23:59:22+00:00",
+      "event": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ablaze",
+        "claims",
+        "contravening",
+        "enemies",
+        "hormuz",
+        "iran",
+        "irgc",
+        "its",
+        "live",
+        "navy",
+        "rules",
+        "said",
+        "set",
+        "sought",
+        "stoke",
+        "tankers",
+        "the",
+        "threat",
+        "unrest",
+        "war",
+        "warns",
+        "were",
+        "while"
+      ],
+      "source_excerpt": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+          "published_at": "2026-11-22T23:59:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "38d640eb0472ab136fa9c247",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-22T23:57:58+00:00",
+      "last_update": "2026-11-22T23:57:58+00:00",
+      "event": "Mystery of the red stream in Turkiye",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "authorities",
+        "degirmendere",
+        "has",
+        "investigations",
+        "local",
+        "mystery",
+        "prompted",
+        "red",
+        "rize",
+        "stream",
+        "the",
+        "turkiye",
+        "turned"
+      ],
+      "source_excerpt": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+          "published_at": "2026-11-22T23:57:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f13b5ded5457368894d4a855",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-22T23:40:48+00:00",
+      "last_update": "2026-11-22T23:40:48+00:00",
+      "event": "Lion on the loose in Turkiye sparks fear among residents",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "fear",
+        "lion",
+        "loose",
+        "residents",
+        "sparks",
+        "the",
+        "turkiye"
+      ],
+      "source_excerpt": "Lion on the loose in Turkiye sparks fear among residents",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+          "published_at": "2026-11-22T23:40:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1b9c25b0873c6a0d64f11f60",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:08:00+00:00",
+      "last_update": "2026-11-23T00:08:00+00:00",
+      "event": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "are",
+        "boom",
+        "but",
+        "crash",
+        "employees",
+        "enjoying",
+        "epicentre",
+        "francisco",
+        "growing",
+        "industry",
+        "overheated",
+        "san",
+        "sector",
+        "that",
+        "the",
+        "worries",
+        "worry"
+      ],
+      "source_excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T00:08:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d5c017a68295214bcd509c4e",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:22:27+00:00",
+      "last_update": "2026-11-23T00:22:27+00:00",
+      "event": "What is going on with Poundland?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "buyer",
+        "collapsing",
+        "days",
+        "face",
+        "find",
+        "going",
+        "has",
+        "into",
+        "matter",
+        "poundland",
+        "what",
+        "why",
+        "with"
+      ],
+      "source_excerpt": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T00:22:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "76c403316b32e618fccd2380",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:05:29+00:00",
+      "last_update": "2026-11-23T00:05:29+00:00",
+      "event": "Energy bills will soar - here's how you can ease the pain",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "are",
+        "bills",
+        "but",
+        "can",
+        "ease",
+        "energy",
+        "expenditure",
+        "here",
+        "household",
+        "how",
+        "keep",
+        "lid",
+        "pain",
+        "soar",
+        "the",
+        "there",
+        "ways",
+        "will",
+        "you",
+        "your"
+      ],
+      "source_excerpt": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T00:05:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "60b7e88694a751d02f242622",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:01:47+00:00",
+      "last_update": "2026-11-23T00:01:47+00:00",
+      "event": "Australia | Latest News & Updates",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australia",
+        "bbc",
+        "latest",
+        "news",
+        "updates"
+      ],
+      "source_excerpt": "Australia | Latest News & Updates BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zM213REFCTUlkQ2xPdUFxVkVwSVBXcmdCQ202cWJ2WHlWZ2tmOUtlLUtHUVpZRHA5Sk1kY3pqUjlEX2o1WU5lTlEwbDZkaXptYXc?oc=5",
+          "published_at": "2026-11-23T00:01:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zM213REFCTUlkQ2xPdUFxVkVwSVBXcmdCQ202cWJ2WHlWZ2tmOUtlLUtHUVpZRHA5Sk1kY3pqUjlEX2o1WU5lTlEwbDZkaXptYXc?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b1d04790b874c21557def9d6",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:06:11+00:00",
+      "last_update": "2026-11-23T00:06:11+00:00",
+      "event": "Pakistan, Portugal celebrate 77 years of ties through music",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "celebrate",
+        "dawn",
+        "music",
+        "pakistan",
+        "portugal",
+        "through",
+        "ties",
+        "years"
+      ],
+      "source_excerpt": "Pakistan, Portugal celebrate 77 years of ties through music Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb09mN0syS0RrY2VKWHphdXlMUFdpNG94VHBJWjhDU3VLd3ZYTW5JcVprYVJvaERqb3NBSldWWFNJTXhrSDlqeE4wUGV5R291LUx2dUxEOFJoY3l1eFNUQzhKZGlPVzR2RGpfUWZTM0dnU0NGR2xOUExrRGVXd2xTeDVXcm1oZFVFbkt4NlJrNkVqU3RhMDU0?oc=5",
+          "published_at": "2026-11-23T00:06:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb09mN0syS0RrY2VKWHphdXlMUFdpNG94VHBJWjhDU3VLd3ZYTW5JcVprYVJvaERqb3NBSldWWFNJTXhrSDlqeE4wUGV5R291LUx2dUxEOFJoY3l1eFNUQzhKZGlPVzR2RGpfUWZTM0dnU0NGR2xOUExrRGVXd2xTeDVXcm1oZFVFbkt4NlJrNkVqU3RhMDU0?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "08eeb574350a342e56b1060b",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:03:37+00:00",
+      "last_update": "2026-11-23T00:03:37+00:00",
+      "event": "PTI questions sugar export approval, seeks audit of import deal",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "approval",
+        "audit",
+        "dawn",
+        "deal",
+        "export",
+        "import",
+        "pti",
+        "questions",
+        "seeks",
+        "sugar"
+      ],
+      "source_excerpt": "PTI questions sugar export approval, seeks audit of import deal Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUQzakx1Qkl3VzZ4eTJzMkozbzJQZ1E5OWdsWUYycVZqc1JqWUJnU2FCWUFqenhQOW53Qm5ld0tYOUctTl82bXN3QWhZWjIxZHJBdlV4M2R4RHVmMjNUVENHaVdaVmVjWFR6UjNjLXhfNWpYNS1vRVBiMlM5ZGNQWjRDalpNZ19jSEYxSE56LUpBbjdkSkJLWWwwUEk?oc=5",
+          "published_at": "2026-11-23T00:03:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUQzakx1Qkl3VzZ4eTJzMkozbzJQZ1E5OWdsWUYycVZqc1JqWUJnU2FCWUFqenhQOW53Qm5ld0tYOUctTl82bXN3QWhZWjIxZHJBdlV4M2R4RHVmMjNUVENHaVdaVmVjWFR6UjNjLXhfNWpYNS1vRVBiMlM5ZGNQWjRDalpNZ19jSEYxSE56LUpBbjdkSkJLWWwwUEk?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "21b1e2baf7ac56ec36a7e116",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:06:11+00:00",
+      "last_update": "2026-11-23T00:06:11+00:00",
+      "event": "Special Branch report exposes safety lapses at Rawalpindi road project",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "branch",
+        "dawn",
+        "exposes",
+        "lapses",
+        "project",
+        "rawalpindi",
+        "report",
+        "road",
+        "safety",
+        "special"
+      ],
+      "source_excerpt": "Special Branch report exposes safety lapses at Rawalpindi road project Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWlNYXNzb3NYbERHWTFxYjQybzQ0X1k0TUZYcktnNS1KcEcwVjdkTUUxdk5MbzZ1WHlQTVdWc0xpc2RNRU5EYzRBenBNT29jZUV4YVl1Nk5GMEI3UkdjLVRfc28yR05GbjU5RWhCd3pHLXI5akEtejd6Wk92SF9TU0tLMnJqOXVnOVBOcU9nczlPRjI1R1FaZWhiZGczUlEwVTdQR0otaw?oc=5",
+          "published_at": "2026-11-23T00:06:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWlNYXNzb3NYbERHWTFxYjQybzQ0X1k0TUZYcktnNS1KcEcwVjdkTUUxdk5MbzZ1WHlQTVdWc0xpc2RNRU5EYzRBenBNT29jZUV4YVl1Nk5GMEI3UkdjLVRfc28yR05GbjU5RWhCd3pHLXI5akEtejd6Wk92SF9TU0tLMnJqOXVnOVBOcU9nczlPRjI1R1FaZWhiZGczUlEwVTdQR0otaw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "37119680cf96fecba9ede24a",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:03:37+00:00",
+      "last_update": "2026-11-23T00:03:37+00:00",
+      "event": "PTI pushes for KP leaders’ freedom after legal changes",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "changes",
+        "dawn",
+        "for",
+        "freedom",
+        "leaders",
+        "legal",
+        "pti",
+        "pushes"
+      ],
+      "source_excerpt": "PTI pushes for KP leaders’ freedom after legal changes Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3BfeHViVWg2alpYNXd1X1ZxRDExZDZqSkFoZ3g3dXphdG9VU2hoMGpfNjZBU0tHTUh1THZRWjZoRmJQOUZoeVdkemNtUkJxVkRabVlzRzJiQUdnOWZFVUhXVjdDM3lIZXVJZmdfbWEycHdlSzlMUFRxbVlaRDI1WEdwQmVrcVFLVXVWLVd3N2g?oc=5",
+          "published_at": "2026-11-23T00:03:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3BfeHViVWg2alpYNXd1X1ZxRDExZDZqSkFoZ3g3dXphdG9VU2hoMGpfNjZBU0tHTUh1THZRWjZoRmJQOUZoeVdkemNtUkJxVkRabVlzRzJiQUdnOWZFVUhXVjdDM3lIZXVJZmdfbWEycHdlSzlMUFRxbVlaRDI1WEdwQmVrcVFLVXVWLVd3N2g?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "245f057aa970df64111a0596",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:04:28+00:00",
+      "last_update": "2026-11-23T00:04:28+00:00",
+      "event": "Sindh Literature Festival concludes after two days of insightful sessions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "concludes",
+        "dawn",
+        "days",
+        "festival",
+        "insightful",
+        "literature",
+        "sessions",
+        "sindh",
+        "two"
+      ],
+      "source_excerpt": "Sindh Literature Festival concludes after two days of insightful sessions Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjVDWmowNUNCemwzZkszcDhEVXhnS2dRLWxVeUdPVkFYalBhV0NXN3BiMFNHM3o4bXZTaW9RSmo1VlhnaFhyZ2VSNF9nWnBwejBKWFJ4WnFhV1h2VnFrdFZQY280QlZfWXE3RUhVNi1ZaExoeWpVd1FCNkxhZUxvS3N2VzFSSlBOcExkZDdsSFVNS2FFbjRhT0t6T3k3YXZDRldTTUtQSEZGQUU?oc=5",
+          "published_at": "2026-11-23T00:04:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjVDWmowNUNCemwzZkszcDhEVXhnS2dRLWxVeUdPVkFYalBhV0NXN3BiMFNHM3o4bXZTaW9RSmo1VlhnaFhyZ2VSNF9nWnBwejBKWFJ4WnFhV1h2VnFrdFZQY280QlZfWXE3RUhVNi1ZaExoeWpVd1FCNkxhZUxvS3N2VzFSSlBOcExkZDdsSFVNS2FFbjRhT0t6T3k3YXZDRldTTUtQSEZGQUU?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "46ac6af552a531d91463b698",
+      "remembered_at": "2026-11-23T00:36:29.861939+00:00",
+      "event_date": "2026-11-23T00:16:35+00:00",
+      "last_update": "2026-11-23T00:16:35+00:00",
+      "event": "From The Past Pages Of Dawn: 1951: Seventy-five years ago: M-East stability",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1951",
+        "ago",
+        "dawn",
+        "east",
+        "five",
+        "from",
+        "pages",
+        "past",
+        "seventy",
+        "stability",
+        "the",
+        "years"
+      ],
+      "source_excerpt": "From The Past Pages Of Dawn: 1951: Seventy-five years ago: M-East stability Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGZPMndyNlFhMW1EOW1xODU3SFozaExNOFRhU2pJREllY2RaX3dHUzgxRUNXUXZSeWFmR0VOdFkxZXJxTWEtRFBDeWxtN0pTNjVXSlZBQ0JUdWRRaGpOam12VjU3Zk9OVHVHWVE2bUs2cGpLb3RQUlJFTThLTGh4MkFxdGR4eDVub012Z3lRNWcxM3dnVWdGa0tHSTFaUDVLcWMxWU5oeEVIdw?oc=5",
+          "published_at": "2026-11-23T00:16:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGZPMndyNlFhMW1EOW1xODU3SFozaExNOFRhU2pJREllY2RaX3dHUzgxRUNXUXZSeWFmR0VOdFkxZXJxTWEtRFBDeWxtN0pTNjVXSlZBQ0JUdWRRaGpOam12VjU3Zk9OVHVHWVE2bUs2cGpLb3RQUlJFTThLTGh4MkFxdGR4eDVub012Z3lRNWcxM3dnVWdGa0tHSTFaUDVLcWMxWU5oeEVIdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-22T23:49:11.096131+00:00"
+  "updated_at": "2026-11-23T00:36:29.861939+00:00"
 }
