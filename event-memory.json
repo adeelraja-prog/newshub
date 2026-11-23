@@ -124848,7 +124848,872 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "759ab2958bfd314c67b8a8c6",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T05:30:05+00:00",
+      "last_update": "2026-11-23T08:01:14+00:00",
+      "event": "Pakistani fintech secures early-stage investment from ADB Ventures",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adb",
+        "early",
+        "fintech",
+        "from",
+        "investment",
+        "pakistani",
+        "samaa",
+        "secures",
+        "stage",
+        "ventures"
+      ],
+      "source_excerpt": "Pakistani fintech secures early-stage investment from ADB Ventures samaa tv",
+      "sources": [
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNHRiendhOUtyeUctdmlTdlpGWFlhbmVBd1k2c1JmMGRSTUJyRXBVVGNpZDhJNmVmd3Z4Qm9JYUt4bnVfR1BXS1pjX2lacTNuTE9sbkNpRkhvTXhXVTQzdHQ5V25mcV9DSlpnNkxhcUtUTVNmTXpHWGkyOElJVWFRenBsbXV2blpiTmgzWDhqcXhCM0xMMHpzeFF6MWNJQVVna3RKY1FvT0lTX3M4QXNDWmZwV3ZRMHluOHRZREs1djJEbkE3VXNaSVUwRGVzdw?oc=5",
+          "published_at": "2026-11-23T05:30:05+00:00"
+        },
+        {
+          "name": "PhoneWorld",
+          "url": "https://www.phoneworld.com.pk/neem-fintech-adb-ventures-seed-investment-pakistan/",
+          "published_at": "2026-11-23T05:57:34+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHV4WEV4LVdPY01oQjFmaGFHUGo0TDNqekJTYnBHTnhiNHI0dlNWaDNnb3B5eE1pS0V0N3BlbVpTTHVpaV96Y3VQRzFNa092X3hYV3hCNEd0WmFscUsxQnRlSXFaOTNiTVEzNkp1Z2lTZTFoWmdjZlNVb2YydF9SVFVEYS1yTEd0VkNKRXlObFRncFhIQUZTblowQTJfZHc?oc=5",
+          "published_at": "2026-11-23T07:51:32+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/23/adb-ventures-invests-pakistani-fintech-neem/",
+          "published_at": "2026-11-23T08:01:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHV4WEV4LVdPY01oQjFmaGFHUGo0TDNqekJTYnBHTnhiNHI0dlNWaDNnb3B5eE1pS0V0N3BlbVpTTHVpaV96Y3VQRzFNa092X3hYV3hCNEd0WmFscUsxQnRlSXFaOTNiTVEzNkp1Z2lTZTFoWmdjZlNVb2YydF9SVFVEYS1yTEd0VkNKRXlObFRncFhIQUZTblowQTJfZHc?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f3c7ebea2bc20c4f533c3b00",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T07:12:17+00:00",
+      "last_update": "2026-11-23T07:12:17+00:00",
+      "event": "ADB invests in Pakistan-based B2B fintech company Neem",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adb",
+        "b2b",
+        "based",
+        "company",
+        "dawn",
+        "fintech",
+        "invests",
+        "neem",
+        "pakistan"
+      ],
+      "source_excerpt": "ADB invests in Pakistan-based B2B fintech company Neem Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG5TSXEyazY3aVZVNTdWdXYyekw4LVBGUTZQamtEZGpKWnZGOFI5bUtrUjBybWhCYXE3YlpPeE1uQklsRlBiTXN6OENZZVRHMEk3VFpjUXJRQWdldE1DUHB4WVJuR3NtRFprSzczRElwMW5xS05ySXFtRlJpVXZxTWhfYnJ2MWdWSEgxa1RsX1hFUQ?oc=5",
+          "published_at": "2026-11-23T07:12:17+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046518/adb-invests-in-pakistan-based-b2b-fintech-company-neem",
+          "published_at": "2026-11-23T07:12:17+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlU3QXgzTVEwTDRkSlk0enNCMHVNWncwdGZUSUNKdzk3RnVIam94VWUzaFpESzhKb2hTZkhGcERCNUV4Y2RvTFdjd1E3SkZZR1dmSFhBR1hxclJtcFVybC1UcldTX24yZDQ1cjcwMzBSdmR6LTlzUlpyRHlhalZqelo3T0tWRlhMdWVwUlVKc3pjQzN1MTNRUmVjMnhsUQ?oc=5",
+          "published_at": "2026-11-23T07:12:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG5TSXEyazY3aVZVNTdWdXYyekw4LVBGUTZQamtEZGpKWnZGOFI5bUtrUjBybWhCYXE3YlpPeE1uQklsRlBiTXN6OENZZVRHMEk3VFpjUXJRQWdldE1DUHB4WVJuR3NtRFprSzczRElwMW5xS05ySXFtRlJpVXZxTWhfYnJ2MWdWSEgxa1RsX1hFUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a51445660963b7584cb3a791",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T07:25:46+00:00",
+      "last_update": "2026-11-23T08:11:00+00:00",
+      "event": "In meeting with Dar, Portugese foreign minister reaffirms commitment to further bolster Islamabad-Lisbon ties",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bolster",
+        "commitment",
+        "dar",
+        "dawn",
+        "foreign",
+        "further",
+        "islamabad",
+        "lisbon",
+        "meeting",
+        "minister",
+        "portugese",
+        "reaffirms",
+        "ties",
+        "with"
+      ],
+      "source_excerpt": "In meeting with Dar, Portugese foreign minister reaffirms commitment to further bolster Islamabad-Lisbon ties Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON09UVXJNdkpsQjM5RmZraC1KSlhfSmJQSVZMMFdsMHpRYnI4OWhKaXZ0V2IzV0phZG5OWDBFN25JaTI0b2V2RzZCQ3hBVjlIMmhnakgxNmw3V3dadUpETTZLbUl6SU9tSnhIRGJNWTlhSnFUbGk3T09uaW5VR2tVYlRHbS1jbDhPd0Y0bjFlLUFXOG43cXBqNkpfQklZMDV3YTVzN0VyeHlLWUt6UnQzR1l4aDVJMUc5M2NMVE1yNHFPbWVSQVpWU2poQUpVQ09nRlJoLTNVdnJ1Zw?oc=5",
+          "published_at": "2026-11-23T07:25:46+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046519/in-meeting-with-dar-portugese-foreign-minister-reaffirms-commitment-to-bolster-islamabad-lisbon-ties",
+          "published_at": "2026-11-23T07:32:36+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046519/in-meeting-with-dar-portuguese-foreign-minister-reaffirms-commitment-to-bolstering-islamabad-lisbon-ties",
+          "published_at": "2026-11-23T08:11:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON09UVXJNdkpsQjM5RmZraC1KSlhfSmJQSVZMMFdsMHpRYnI4OWhKaXZ0V2IzV0phZG5OWDBFN25JaTI0b2V2RzZCQ3hBVjlIMmhnakgxNmw3V3dadUpETTZLbUl6SU9tSnhIRGJNWTlhSnFUbGk3T09uaW5VR2tVYlRHbS1jbDhPd0Y0bjFlLUFXOG43cXBqNkpfQklZMDV3YTVzN0VyeHlLWUt6UnQzR1l4aDVJMUc5M2NMVE1yNHFPbWVSQVpWU2poQUpVQ09nRlJoLTNVdnJ1Zw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fcbe8037f47c1af74b157451",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T08:02:15+00:00",
+      "last_update": "2026-11-23T08:02:15+00:00",
+      "event": "Oil companies delayed depositing Rs3.4bn levy to govt, audit reveals",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "4bn",
+        "audit",
+        "companies",
+        "delayed",
+        "depositing",
+        "govt",
+        "levy",
+        "oil",
+        "reveals",
+        "rs3",
+        "samaa"
+      ],
+      "source_excerpt": "Oil companies delayed depositing Rs3.4bn levy to govt, audit reveals samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGZ6aU16eUM3THNLYWRMYnRCdXRrenc3YnM5ai1VeW1RZm5qeTNUTmxOWlgxMW5oa2lhN1ROb3BhWHUzX3JWdkpmc2VFNHFuVlVGVHVWcEdabncwRy1kUGpVeWFxSTBCX3c0VWlkRDVBTFl0Mmw4anZfcFkzVm9aM2pnY0JUVTNQU29nd2VKZTczU21uM2JvbXhzdHBsMW4w?oc=5",
+          "published_at": "2026-11-23T08:02:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGZ6aU16eUM3THNLYWRMYnRCdXRrenc3YnM5ai1VeW1RZm5qeTNUTmxOWlgxMW5oa2lhN1ROb3BhWHUzX3JWdkpmc2VFNHFuVlVGVHVWcEdabncwRy1kUGpVeWFxSTBCX3c0VWlkRDVBTFl0Mmw4anZfcFkzVm9aM2pnY0JUVTNQU29nd2VKZTczU21uM2JvbXhzdHBsMW4w?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "69bba5f8606f557ae6a27fa6",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T07:47:32+00:00",
+      "last_update": "2026-11-23T07:47:32+00:00",
+      "event": "Taliban deploys police to protect Afghanistan’s vanishing forests",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghanistan",
+        "are",
+        "being",
+        "deploys",
+        "force",
+        "forests",
+        "green",
+        "guarded",
+        "known",
+        "last",
+        "police",
+        "protect",
+        "remaining",
+        "run",
+        "taliban",
+        "units",
+        "vanishing"
+      ],
+      "source_excerpt": "Afghanistan’s last remaining forests are being guarded by a Taliban-run police force known as Green Units.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss",
+          "published_at": "2026-11-23T07:47:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "24ace3e932baabd5d28f1b77",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T07:37:09+00:00",
+      "last_update": "2026-11-23T07:41:15+00:00",
+      "event": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attacks",
+        "behind",
+        "breaking",
+        "drone",
+        "libya",
+        "near",
+        "news",
+        "russian",
+        "says",
+        "ships",
+        "story",
+        "this",
+        "ukraine",
+        "zelenskyy"
+      ],
+      "source_excerpt": "This is a breaking news story.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+          "published_at": "2026-11-23T07:37:09+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1FmOGYwcEh6Rk5MNnNVVjA3eGZ2ZFBIc0VRc0lSNkI2MUE5NTI2WVZnemZZMkRIcmw2UE4zcmJyUGg5ek9VTmhNNXZpeWR1dWtUTE9NTDliaG9LZWNKb2NKdEFVaHE4N0JFMktnVldYWXAtOFBWaE9mZHZxZVE4OWJVV240RmJkOW5aOW9jakdwSzZTeVBLanBxTXh4QmcxWFZhbGJwMndmZTMyN1BHeUh5Z9IBuAFBVV95cUxQVXFtbU85SlhXR3NKMF9Fd1VrelFHOHBzaVRZZVJMcVNlQnFTZkp0bmJKbzRrOWhkWXdFcHROZG5aaGIwempKSGk3R0hmclQ3M2xMMXNKb2VUcG9UNENYOUh6SHh0MWR3UzhNLUpjQ0VnVUE2dGZJUjRLNzZVTUtscFNTbEpLWlpYRGxTeUJveXU4cmJEb0RKYUwwV3M2cVNMclRQd0k0LVZJVm55ZzZLNGNhN1IzREVh?oc=5",
+          "published_at": "2026-11-23T07:41:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "194ea74bd0536d1cfa38ca9e",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T07:19:47+00:00",
+      "last_update": "2026-11-23T07:19:47+00:00",
+      "event": "MotoGP maestro Marquez makes history with eighth premier-class world title",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agostini",
+        "class",
+        "eighth",
+        "giacomo",
+        "great",
+        "his",
+        "history",
+        "italian",
+        "level",
+        "maestro",
+        "makes",
+        "marc",
+        "marquez",
+        "motogp",
+        "motorcycling",
+        "premier",
+        "pulled",
+        "success",
+        "the",
+        "title",
+        "with",
+        "world"
+      ],
+      "source_excerpt": "His eighth success in the premier class of motorcycling pulled Marc Marquez level with Italian great Giacomo Agostini.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
+          "published_at": "2026-11-23T07:19:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "06b200ef0b19823ab402ca9d",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T06:47:10+00:00",
+      "last_update": "2026-11-23T06:47:10+00:00",
+      "event": "How Ireland resisted British rule through sport",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "became",
+        "bigger",
+        "british",
+        "explores",
+        "game",
+        "heritage",
+        "how",
+        "ireland",
+        "irish",
+        "its",
+        "much",
+        "part",
+        "protect",
+        "resisted",
+        "rule",
+        "sport",
+        "struggle",
+        "theory",
+        "through",
+        "traditional"
+      ],
+      "source_excerpt": "Game Theory explores how traditional Irish sport became part of a much bigger struggle to protect its heritage",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/game-theory/2026/11/23/how-ireland-resisted-british-rule-through-sport?traffic_source=rss",
+          "published_at": "2026-11-23T06:47:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/game-theory/2026/11/23/how-ireland-resisted-british-rule-through-sport?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/game-theory/2026/11/23/how-ireland-resisted-british-rule-through-sport?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e0ac04dc7b2c83744e8fc047",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T06:44:00+00:00",
+      "last_update": "2026-11-23T06:44:00+00:00",
+      "event": "Is the global far right really in retreat?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alone",
+        "brought",
+        "defeats",
+        "dismantle",
+        "electoral",
+        "far",
+        "forces",
+        "global",
+        "not",
+        "political",
+        "power",
+        "really",
+        "retreat",
+        "right",
+        "that",
+        "the",
+        "will"
+      ],
+      "source_excerpt": "Electoral defeats alone will not dismantle the political forces that brought the far right to power.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/23/is-the-global-far-right-really-in-retreat?traffic_source=rss",
+          "published_at": "2026-11-23T06:44:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/23/is-the-global-far-right-really-in-retreat?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/23/is-the-global-far-right-really-in-retreat?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5eab7f0e8fffc65485791125",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T06:31:56+00:00",
+      "last_update": "2026-11-23T06:31:56+00:00",
+      "event": "Rangers arrest four suspects linked to over 300 street crimes in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "300",
+        "arrest",
+        "crimes",
+        "four",
+        "karachi",
+        "linked",
+        "over",
+        "rangers",
+        "street",
+        "suspects"
+      ],
+      "source_excerpt": "Rangers arrest four suspects linked to over 300 street crimes in Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/rangers-arrest-four-suspects-linked-to-over-300-street-crimes-in-karachi",
+          "published_at": "2026-11-23T06:31:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/rangers-arrest-four-suspects-linked-to-over-300-street-crimes-in-karachi",
+        "publisher_url": "https://arynews.tv/rangers-arrest-four-suspects-linked-to-over-300-street-crimes-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b1656ad290932cd6af431f3c",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T06:25:25+00:00",
+      "last_update": "2026-11-23T06:25:25+00:00",
+      "event": "Armed dacoits rob youth in just 20 seconds in DHA, Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "armed",
+        "dacoits",
+        "dha",
+        "just",
+        "karachi",
+        "rob",
+        "seconds",
+        "youth"
+      ],
+      "source_excerpt": "Armed dacoits rob youth in just 20 seconds in DHA, Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/armed-dacoits-rob-youth-in-just-20-seconds-in-dha-karachi",
+          "published_at": "2026-11-23T06:25:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/armed-dacoits-rob-youth-in-just-20-seconds-in-dha-karachi",
+        "publisher_url": "https://arynews.tv/armed-dacoits-rob-youth-in-just-20-seconds-in-dha-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c410d29e2c0bda19d9e2c0f3",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T06:29:51+00:00",
+      "last_update": "2026-11-23T06:29:51+00:00",
+      "event": "Pakistan’s first Netflix original series ‘Jo Bachay Hain Sang Samait Lo’ to premiere on Dec 4",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bachay",
+        "dec",
+        "first",
+        "hain",
+        "netflix",
+        "original",
+        "pakistan",
+        "premiere",
+        "samaa",
+        "samait",
+        "sang",
+        "series"
+      ],
+      "source_excerpt": "Pakistan’s first Netflix original series ‘Jo Bachay Hain Sang Samait Lo’ to premiere on Dec 4 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVhfLVVZdDhYLUtFaXE1NkFDRjgxTDhzQjViV2lzSXFRbUlubk5aWWVIZVNtNWFic1lILWIzRGVCcVlHM3d4Tjl6aEtlcWVReFpqWlZZQWJhQllPcEFQQXRDVzlDTkp5cjVhOW1kNlQtQzRPMmxXYkYxZWZ2a2tORlVmVG50SHNDdVRYaDZsWjQ5NUFFckxSVHMxWEJmNngza1VDb3NSb3U1TlFBUjR4UWtnTXhzWGhNYXMxYWo4NXk?oc=5",
+          "published_at": "2026-11-23T06:29:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVhfLVVZdDhYLUtFaXE1NkFDRjgxTDhzQjViV2lzSXFRbUlubk5aWWVIZVNtNWFic1lILWIzRGVCcVlHM3d4Tjl6aEtlcWVReFpqWlZZQWJhQllPcEFQQXRDVzlDTkp5cjVhOW1kNlQtQzRPMmxXYkYxZWZ2a2tORlVmVG50SHNDdVRYaDZsWjQ5NUFFckxSVHMxWEJmNngza1VDb3NSb3U1TlFBUjR4UWtnTXhzWGhNYXMxYWo4NXk?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7b6f51017ebfc98027b61385",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T07:43:00+00:00",
+      "last_update": "2026-11-23T07:43:00+00:00",
+      "event": "Portuguese FM hails Pakistan's constructive role for regional peace in meeting with DPM Dar",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "affairs",
+        "and",
+        "constructive",
+        "dar",
+        "day",
+        "deputy",
+        "dpm",
+        "for",
+        "foreign",
+        "foreignofficepkportuguese",
+        "friendly",
+        "hails",
+        "ishaq",
+        "islamabad",
+        "meeting",
+        "meets",
+        "minister",
+        "ministry",
+        "november",
+        "pakistan",
+        "paulo",
+        "peace",
+        "portugal",
+        "portuguese",
+        "prime",
+        "rangel",
+        "regional",
+        "review",
+        "role",
+        "the",
+        "two",
+        "visit",
+        "with"
+      ],
+      "source_excerpt": "Deputy Prime Minister and Foreign Minister Ishaq Dar meets Portugal’s Foreign Minister Paulo Rangel at the Ministry of Foreign Affairs in Islamabad on November 23, 2026. — X/@ForeignOfficePkPortuguese foreign minister in Islamabad on two-day visit.Dar, Rangel review friendly...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692257-portuguese-fm-hails-pakistans-constructive-role-for-regional-peace-in-meeting-with-dpm-dar",
+          "published_at": "2026-11-23T07:43:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUZBT0M2dWlJZTgza2pLQmJXYVA1QmZKdWU4eUlaX29YY1NvZTNEOUFvQmJkRjRMZE9xVmYyRkFDQWROd21CUTNNMldHcWpfMTg3VG9XdFFPY0FKUEwyUUk0d1VoWmF3cnpFdzRYUkFnU3hNRGd6Zlh4b0c3VkVySnFwOUlvbkZfMWVMei02SUNLNXlyeXpScjlxX3pMei15M3NNeVR0a2RFZ2x3bnRKMm5xWWJsNDlQb0xYMGtNSS0?oc=5",
+          "published_at": "2026-11-23T07:43:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692257-portuguese-fm-hails-pakistans-constructive-role-for-regional-peace-in-meeting-with-dpm-dar",
+        "publisher_url": "https://www.geo.tv/latest/692257-portuguese-fm-hails-pakistans-constructive-role-for-regional-peace-in-meeting-with-dpm-dar",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8c2977fbe217a1af8041f011",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T06:42:00+00:00",
+      "last_update": "2026-11-23T06:42:00+00:00",
+      "event": "Pakistan secures $200m Omani credit facility for petroleum imports",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "200m",
+        "agreement",
+        "ali",
+        "and",
+        "aufi",
+        "between",
+        "credit",
+        "energy",
+        "eng",
+        "extends",
+        "facility",
+        "finance",
+        "for",
+        "fuel",
+        "imports",
+        "malik",
+        "minerals",
+        "minister",
+        "muscat",
+        "november",
+        "oman",
+        "omani",
+        "pakistan",
+        "pervaiz",
+        "petroleum",
+        "pidoman",
+        "products",
+        "pso",
+        "salim",
+        "secures",
+        "signing",
+        "supply",
+        "the",
+        "trading",
+        "witness"
+      ],
+      "source_excerpt": "Petroleum Minister Ali Pervaiz Malik and Oman's Minister for Energy and Minerals, Eng. Salim Al Aufi witness the signing of a Petroleum Products Supply Agreement between PSO and Oman’s OQ Trading in Muscat on November 22. — PIDOman extends $200m credit facility to finance PSO fuel...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692248-pakistan-secures-200m-omani-credit-facility-for-petroleum-imports",
+          "published_at": "2026-11-23T06:42:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFVqQWo1eF9GZGNoNkVoX2xxMEw3QjAyRmRlNThnWUM1aktMLVFEWHlBbDUzdndZa2YxNTJfTVpuOTY4VmhBbDBkYkRES1p2VzdNMExIWVAxY0t3cTYxUkdNRFFPUHEtblRGQnBrRnRKWDltZlpxN3VQUTFINW1vdVMzdnYyQ0kxQU4zQjl2Q2sxRjFxWTFobHBialFWclU?oc=5",
+          "published_at": "2026-11-23T06:42:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692248-pakistan-secures-200m-omani-credit-facility-for-petroleum-imports",
+        "publisher_url": "https://www.geo.tv/latest/692248-pakistan-secures-200m-omani-credit-facility-for-petroleum-imports",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c786586e73dd34e027342ae7",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T07:33:26+00:00",
+      "last_update": "2026-11-23T07:33:26+00:00",
+      "event": "Pakistan moves to import additional wheat to stabilise flour prices",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "additional",
+        "flour",
+        "import",
+        "moves",
+        "pakistan",
+        "prices",
+        "stabilise",
+        "wheat"
+      ],
+      "source_excerpt": "Pakistan moves to import additional wheat to stabilise flour prices",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-moves-to-import-additional-wheat-to-stabilise-flour-prices",
+          "published_at": "2026-11-23T07:33:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-moves-to-import-additional-wheat-to-stabilise-flour-prices",
+        "publisher_url": "https://arynews.tv/pakistan-moves-to-import-additional-wheat-to-stabilise-flour-prices",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "610620c869c1f46d74545762",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T07:22:38+00:00",
+      "last_update": "2026-11-23T07:22:38+00:00",
+      "event": "Peshawar High Court hears 21 missing petitions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "court",
+        "hears",
+        "high",
+        "missing",
+        "peshawar",
+        "petitions"
+      ],
+      "source_excerpt": "Peshawar High Court hears 21 missing petitions",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/peshawar-high-court-21-missing-petitions",
+          "published_at": "2026-11-23T07:22:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/peshawar-high-court-21-missing-petitions",
+        "publisher_url": "https://arynews.tv/peshawar-high-court-21-missing-petitions",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "feb231eb14bbf1d68b0784f8",
+      "remembered_at": "2026-11-23T08:12:53.619620+00:00",
+      "event_date": "2026-11-23T06:03:47+00:00",
+      "last_update": "2026-11-23T06:03:47+00:00",
+      "event": "Rehman Dakait’s son Jibran arrested in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrested",
+        "dakait",
+        "jibran",
+        "karachi",
+        "rehman",
+        "samaa",
+        "son"
+      ],
+      "source_excerpt": "Rehman Dakait’s son Jibran arrested in Karachi samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTI3UWdMbzFlWEU2QTlRUWZDeUJIYUJKbE01MW1UYjZRdW5aVXgzSVhxM0lkSnR5UkhpbUozZWs1UUdqTXVqRTJXek1EdmZSZU9DQ3hEVVk2RzNsdE1kNFlwZ1lsMGdQM1dSYlV3SDE1ZlVwUGkxanFUbWVTNmt2ZU81UDBLbDhY?oc=5",
+          "published_at": "2026-11-23T06:03:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTI3UWdMbzFlWEU2QTlRUWZDeUJIYUJKbE01MW1UYjZRdW5aVXgzSVhxM0lkSnR5UkhpbUozZWs1UUdqTXVqRTJXek1EdmZSZU9DQ3hEVVk2RzNsdE1kNFlwZ1lsMGdQM1dSYlV3SDE1ZlVwUGkxanFUbWVTNmt2ZU81UDBLbDhY?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T06:40:05.645628+00:00"
+  "updated_at": "2026-11-23T08:12:53.619620+00:00"
 }

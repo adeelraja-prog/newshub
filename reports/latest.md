@@ -1,124 +1,122 @@
-# News Hub report - Mon 23 Nov, 11:40 AM PKT
+# News Hub report - Mon 23 Nov, 01:12 PM PKT
 
 ## Collection
-- New items this run: 68 | items in rolling pool: 327
-- Unique story clusters: 273 (duplicates merged: 54)
-- Clusters dropped as already published/queued: 23; unchanged since last analysis: 7
-- Items per outlet: ARY News 7, Al Jazeera 7, Dawn Pakistan 5, TechJuice 5, samaa tv 4, Dawn Latest 4, Investify 4, ProPakistani 3, The Current 3, Profit by Pakistan Today 3, Dawn 2, The Express Tribune 2
+- New items this run: 160 | items in rolling pool: 409
+- Unique story clusters: 353 (duplicates merged: 56)
+- Clusters dropped as already published/queued: 21; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 76, Geo News 12, ProPakistani 10, ARY News 8, samaa tv 7, TechJuice 7, Al Jazeera 6, Profit by Pakistan Today 5, Dawn 3, The News International 2, Dawn Pakistan 2, Dawn Latest 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- ‘Early diagnosis can save countless lives from breast cancer’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 3 killed, 36 missing after Indonesia factory fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistani fintech secures early-stage investment from ADB Ventures | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bad COP, worse COP: What’s next after climate talks fail? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB invests in Pakistan-based B2B fintech company Neem | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In meeting with Dar, Portugese foreign minister reaffirms commitment to further bolster Islamabad-Lisbon ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two TikTokers held for displaying arms in videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman, her four children die as dumper runs over bike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- ‘Early diagnosis can save countless lives from breast cancer’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 3 killed, 36 missing after Indonesia factory fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistani fintech secures early-stage investment from ADB Ventures | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bad COP, worse COP: What’s next after climate talks fail? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB invests in Pakistan-based B2B fintech company Neem | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In meeting with Dar, Portugese foreign minister reaffirms commitment to further bolster Islamabad-Lisbon ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two TikTokers held for displaying arms in videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman, her four children die as dumper runs over bike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- ‘Early diagnosis can save countless lives from breast cancer’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 3 killed, 36 missing after Indonesia factory fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistani fintech secures early-stage investment from ADB Ventures | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bad COP, worse COP: What’s next after climate talks fail? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB invests in Pakistan-based B2B fintech company Neem | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- In meeting with Dar, Portugese foreign minister reaffirms commitment to further bolster Islamabad-Lisbon ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two TikTokers held for displaying arms in videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman, her four children die as dumper runs over bike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 117/120 | empty: 2 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PTI and Imran Khan Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Syria-EU talks advance, but diplomats fear migration will dominate  [NORMAL]
-- Poster: شام اور یورپی یونین کے مذاکرات میں مہاجرین کا معاملہ سر فہرست رہنے کا خدشہ / Syria-EU talks advance as migration fears mount | category politics
-- Alternative headline: Trade and ties on table as Syria-EU discussions focus on repatriation
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Syria EU talks, migration, repatriation, trade ties, diplomats, European Union | hashtags: #Syria #EuropeanUnion #Migration #Politics #AlJazeera
-- Scheduled: Mon 23 Nov, 11:40 AM PKT
-- Caption:
-```
-As Syria and the European Union engage in crucial talks on trade and political ties, diplomats express growing fears that repatriation and migration will overshadow other agenda items.
-
-Syria and the European Union are actively engaged in discussions concerning trade and political ties. However, diplomats have raised concerns that the primary focus of these ongoing talks will heavily center on migration and the repatriation of refugees.
-
-شام اور یورپی یونین کے درمیان تجارت اور سیاسی تعلقات پر مذاکرات جاری ہیں، تاہم سفارتکاروں نے خدشہ ظاہر کیا ہے کہ ان بات چیت کا اصل مرکز مہاجرین کی واپسی کا مسئلہ ہوگا۔
-
-First reported by Al Jazeera.
-
-#Syria #EuropeanUnion #Migration #Politics #AlJazeera
-```
-
-### NHS launches world's largest trial to test AI in breast cancer detection  [NORMAL]
-- Poster: بریسٹ کینسر کی جلد تشخیص کے لیے دنیا کا سب سے بڑا اے آئی ٹرائل شروع / NHS launches world's largest trial for AI cancer detection | category health
-- Alternative headline: Early diagnosis can save countless lives from breast cancer, experts warn
+### Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan  [NORMAL]
+- Poster: پু্তগালের وزیر خارجہ کا پاکستان کے ساتھ دوطرفہ تعلقات مزید مضبوط کرنے کا عزم / Portugal Renews Pledge to Boost Ties with Pakistan | category politics
+- Alternative headline: Pakistan and Portugal Pledge to Further Bolster Bilateral Relations
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlFIaUo5bDhON1JRNjVaN2VaWFJMT19GLTNqcmwxR0EycG9TMUhUM3pFYkxKRE9WM2pXTl85dy1wT0dmMVVsVkl6V1JjSTNQTWlhdnUwdHVUT2N5Z3lfOEo2THA5MlQyd0FyTlNHN2JWNUR1a0dFb2hYTmZtN3dVVHN6LTF1WUFjLWszRktUN3lOYXV4UTBPZA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlFIaUo5bDhON1JRNjVaN2VaWFJMT19GLTNqcmwxR0EycG9TMUhUM3pFYkxKRE9WM2pXTl85dy1wT0dmMVVsVkl6V1JjSTNQTWlhdnUwdHVUT2N5Z3lfOEo2THA5MlQyd0FyTlNHN2JWNUR1a0dFb2hYTmZtN3dVVHN6LTF1WUFjLWszRktUN3lOYXV4UTBPZA?oc=5
-- Supporting coverage: Dawn, BBC Health, BBC Health
-- Keywords: breast cancer AI, NHS trial, early diagnosis, cancer detection, artificial intelligence, health | hashtags: #BreastCancer #NHS #ArtificialIntelligence #Health #CancerDetection
-- Scheduled: Mon 23 Nov, 11:50 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMi2gFBVV95cUxON09UVXJNdkpsQjM5RmZraC1KSlhfSmJQSVZMMFdsMHpRYnI4OWhKaXZ0V2IzV0phZG5OWDBFN25JaTI0b2V2RzZCQ3hBVjlIMmhnakgxNmw3V3dadUpETTZLbUl6SU9tSnhIRGJNWTlhSnFUbGk3T09uaW5VR2tVYlRHbS1jbDhPd0Y0bjFlLUFXOG43cXBqNkpfQklZMDV3YTVzN0VyeHlLWUt6UnQzR1l4aDVJMUc5M2NMVE1yNHFPbWVSQVpWU2poQUpVQ09nRlJoLTNVdnJ1Zw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMi2gFBVV95cUxON09UVXJNdkpsQjM5RmZraC1KSlhfSmJQSVZMMFdsMHpRYnI4OWhKaXZ0V2IzV0phZG5OWDBFN25JaTI0b2V2RzZCQ3hBVjlIMmhnakgxNmw3V3dadUpETTZLbUl6SU9tSnhIRGJNWTlhSnFUbGk3T09uaW5VR2tVYlRHbS1jbDhPd0Y0bjFlLUFXOG43cXBqNkpfQklZMDV3YTVzN0VyeHlLWUt6UnQzR1l4aDVJMUc5M2NMVE1yNHFPbWVSQVpWU2poQUpVQ09nRlJoLTNVdnJ1Zw?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, Dawn Latest
+- Keywords: Pakistan Portugal relations, Ishaq Dar, Portuguese foreign minister, Islamabad Lisbon ties, foreign policy, diplomacy | hashtags: #Pakistan #Portugal #IshaqDar #Diplomacy #Islamabad
+- Scheduled: Mon 23 Nov, 01:12 PM PKT
 - Caption:
 ```
-The NHS has launched the world's largest trial to determine if artificial intelligence can spot breast cancer earlier and save countless lives.
+Portuguese Foreign Minister reaffirmed commitment to further bolster bilateral ties during a meeting with Ishaq Dar.
 
-Experts stress that early diagnosis is critical in saving countless lives from breast cancer. To explore advanced methods, the NHS has launched the world's largest clinical trial investigating whether artificial intelligence can successfully spot breast cancer earlier than traditional methods.
+During a meeting with Deputy Prime Minister and Foreign Minister Ishaq Dar, the Portuguese foreign minister reaffirmed their shared commitment to further strengthen and bolster bilateral relations between Islamabad and Lisbon.
 
-ماہرین کا کہنا ہے کہ چھاتی کے کینسر سے بچاؤ کے لیے بروقت تشخیص جانیں بچا سکتی ہے۔ اسی سلسلے میں این ایچ ایس نے یہ جاننے کے لیے دنیا کا سب سے بڑا ٹرائل شروع کیا ہے کہ کیا مصنوعی ذہانت کینسر کی جلد شناخت کر سکتی ہے۔
+نائب وزیراعظم و وزیر خارجہ اسحاق ڈار سے ملاقات کے دوران پرتگال کے وزیر خارجہ نے اسلام آباد اور لزبن کے درمیان دوطرفہ تعلقات کو مزید مضبوط کرنے کے عزم کا اعادہ کیا۔
 
-First reported by Dawn and BBC Health.
+First reported by Dawn
 
-#BreastCancer #NHS #ArtificialIntelligence #Health #CancerDetection
+#Pakistan #Portugal #IshaqDar #Diplomacy #Islamabad
 ```
 
-### At least 3 killed and 36 missing after devastating Indonesia factory fire  [NORMAL]
-- Poster: انڈونیشیا کی فیکٹری میں خوفناک آتشزدگی، 3 افراد ہلاک اور 36 لاپتہ / 3 killed, 36 missing in Indonesia factory fire | category disaster
-- Alternative headline: Indonesian factory blaze leaves dozens missing as rescue operations continue
+### What Lies Ahead After Climate Talks Fail to Reach Consensus?  [NORMAL]
+- Poster: موسمیاتی مذاکرات کی ناکامی کے بعد آگے کیا ہوگا؟ / What's Next After Climate Talks Fail? | category disaster
+- Alternative headline: Bad COP, Worse COP: Analyzing the Aftermath of Failed Climate Negotiations
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEViYkgyX3hEelR0OGxVZWRFZkFpeGdfRlRYWWhQRUx5V2hDcF9Ib0N6Z1A3Vnp2UkNmTEhCYUZyRHI4cEp3RWY2b29Dcm02NlVCbjBKZWJCLWdVR1NYeFBQSkNYRDZHV0ZybllQa184LXNwZC1Namc2dUQ5ZGZrRVZMYjNTUFZHU0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEViYkgyX3hEelR0OGxVZWRFZkFpeGdfRlRYWWhQRUx5V2hDcF9Ib0N6Z1A3Vnp2UkNmTEhCYUZyRHI4cEp3RWY2b29Dcm02NlVCbjBKZWJCLWdVR1NYeFBQSkNYRDZHV0ZybllQa184LXNwZC1Namc2dUQ5ZGZrRVZMYjNTUFZHU0E?oc=5
-- Supporting coverage: Dawn, Geo News, samaa tv
-- Keywords: Indonesia factory fire, factory blaze, missing persons, rescue operations, casualties, Indonesia | hashtags: #Indonesia #FactoryFire #BreakingNews #Rescue #Disaster
-- Scheduled: Mon 23 Nov, 12:00 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjBPLVkxLTJsVFVaTTVFM2VrVi1hcnQ4YV9aRzdKRUg4QWFlaU9rbmFaOW9FMmk4NjNLSlhyV3dod3duS2FqMU5VYWRQTFZUeEd5OWhvbkNQS3hRd1ZUblEwUnRxYWtfWUxLdGJxd1V5X1ZhTDdqUTVsTEsxVHA4c1VZcUhuU2dRdXJnaG9nUUI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjBPLVkxLTJsVFVaTTVFM2VrVi1hcnQ4YV9aRzdKRUg4QWFlaU9rbmFaOW9FMmk4NjNLSlhyV3dod3duS2FqMU5VYWRQTFZUeEd5OWhvbkNQS3hRd1ZUblEwUnRxYWtfWUxLdGJxd1V5X1ZhTDdqUTVsTEsxVHA4c1VZcUhuU2dRdXJnaG9nUUI?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Geo News
+- Keywords: climate talks failure, COP, climate change, global climate policy, environmental negotiations, climate action | hashtags: #ClimateCrisis #COP #ClimateTalks #Environment #GlobalWarming
+- Scheduled: Mon 23 Nov, 01:22 PM PKT
 - Caption:
 ```
-Rescue teams are frantically searching for dozens of missing people following a massive and deadly fire at an Indonesian factory.
+As recent climate negotiations face significant hurdles, experts examine what comes next after the talks fail.
 
-A tragic factory fire in Indonesia has left at least three people dead and 36 others missing. Rescuers are continuing their search operations to locate the dozens of individuals still unaccounted for following the massive blaze.
+Following the deadlock and failure at recent climate talks, international observers and environmental experts are questioning the path forward for global climate policy, emission targets, and financial commitments to vulnerable nations.
 
-انڈونیشیا میں ایک فیکٹری میں لگنے والی شدید آگ کے نتیجے میں کم از کم 3 افراد ہلاک اور 36 لاپتہ ہو گئے ہیں۔ ریسکیو ٹیمیں لاپتہ افراد کی تلاش کے لیے آپریشن جاری رکھے ہوئے ہیں۔
+حالیہ موسمیاتی مذاکرات میں ڈیڈلاک اور ناکامی کے بعد بین الاقوامی مبصرین اور ماحولیاتی ماہرین عالمی موسمیاتی پالیسی، اخراج کے اہداف اور متاثرہ ممالک کے لیے مالیاتی وعدوں کے مستقبل پر سوالات اٹھا رہے ہیں۔
 
-First reported by Dawn; also reported by Geo News.
+First reported by Dawn
 
-#Indonesia #FactoryFire #BreakingNews #Rescue #Disaster
+#ClimateCrisis #COP #ClimateTalks #Environment #GlobalWarming
 ```
 
-- Indian outlets blocked this run: 4 items
+### ADB Invests in Pakistan-Based B2B Fintech Company Neem  [NORMAL]
+- Poster: ایشین ڈویلپمنٹ بینک کی پاکستان کی فن ٹیک کمپنی 'نیم' میں سرمایہ کاری / ADB Invests in Pakistani Fintech Neem | category tech
+- Alternative headline: Asian Development Bank Backs Pakistani Fintech Startup Neem
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG5TSXEyazY3aVZVNTdWdXYyekw4LVBGUTZQamtEZGpKWnZGOFI5bUtrUjBybWhCYXE3YlpPeE1uQklsRlBiTXN6OENZZVRHMEk3VFpjUXJRQWdldE1DUHB4WVJuR3NtRFprSzczRElwMW5xS05ySXFtRlJpVXZxTWhfYnJ2MWdWSEgxa1RsX1hFUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG5TSXEyazY3aVZVNTdWdXYyekw4LVBGUTZQamtEZGpKWnZGOFI5bUtrUjBybWhCYXE3YlpPeE1uQklsRlBiTXN6OENZZVRHMEk3VFpjUXJRQWdldE1DUHB4WVJuR3NtRFprSzczRElwMW5xS05ySXFtRlJpVXZxTWhfYnJ2MWdWSEgxa1RsX1hFUQ?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Investify
+- Keywords: ADB invests in Neem, Asian Development Bank, Neem fintech, Pakistan startup, B2B fintech, investment | hashtags: #ADB #Neem #Fintech #Investment #Pakistan
+- Scheduled: Mon 23 Nov, 01:32 PM PKT
+- Caption:
+```
+The Asian Development Bank has invested in Pakistan-based B2B fintech company Neem.
+
+The Asian Development Bank (ADB) has announced an investment in Pakistan-based B2B fintech company Neem, supporting the startup's mission to enhance financial inclusion and digital business infrastructure in the country.
+
+ایشین ڈویلپمنٹ بینک (ADB) نے پاکستان میں قائم بی ٹو بی فن ٹیک کمپنی 'نیم' میں سرمایہ کاری کا اعلان کیا ہے، جس سے ملک میں مالیاتی شمولیت اور ڈیجیٹل کاروباری انفراسٹرکچر کو فروغ ملے گا۔
+
+First reported by Dawn
+
+#ADB #Neem #Fintech #Investment #Pakistan
+```
+
+- Indian outlets blocked this run: 10 items
 
 ## Today
-- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
-- [needs_review] normal | PM credits civil-military partnership for economic stability, defends  | Fri 20 Nov, 06:21 AM PKT
-- [needs_review] normal | Cumin-laced fizzy sodas give cola giants a tough fight in India | Fri 20 Nov, 06:31 AM PKT
-- [needs_review] normal | Trump posthumously pardons US baseball legend Pete Rose | Fri 20 Nov, 06:41 AM PKT
 - [needs_review] normal | Africa Climate Funding: Europe Urges Using Existing Pledges | Fri 20 Nov, 07:36 AM PKT
 - [needs_review] normal | Indonesian Daycare Principal Jailed Over Child Abuse | Fri 20 Nov, 07:46 AM PKT
 - [needs_review] normal | Meta Rethinks 2030 Climate Goals Amid AI Energy Surge | Fri 20 Nov, 07:56 AM PKT
@@ -131,8 +129,6 @@ First reported by Dawn; also reported by Geo News.
 - [needs_review] normal | Kushner: Trump open to NATO-like security guarantees for Ukraine | Fri 20 Nov, 10:42 AM PKT
 - [needs_review] normal | Pakistan Medical Association objects to proposed SHCC board members | Fri 20 Nov, 10:52 AM PKT
 - [needs_review] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
-- [published] normal | Pakistan conquer Sri Lanka by eight wickets to seal Test series | Fri 20 Nov, 12:58 PM PKT
-- [published] normal | Daily Editorial Cartoon for November 20, 2026 | Fri 20 Nov, 01:08 PM PKT
 - [needs_review] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
 - [needs_review] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
 - [published] normal | Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026 | Fri 20 Nov, 02:00 PM PKT
@@ -349,10 +345,10 @@ First reported by Dawn; also reported by Geo News.
 - [needs_review] normal | Trump Targets Schumer as US Senate Democrats Face New Leadership Push | Mon 23 Nov, 04:49 AM PKT
 - [needs_review] normal | PTI Questions Sugar Export Approval and Seeks Audit of Import Deal | Mon 23 Nov, 05:36 AM PKT
 - [published] normal | Atalanta Grab Dramatic Draw With Inter Milan in Serie A | Mon 23 Nov, 05:46 AM PKT
-- [queued] normal | 10 Injured as Quadcopters Hit Peace Jirga in Bannu | Mon 23 Nov, 05:56 AM PKT
-- [queued] normal | PTI Pushes for KP Leaders' Freedom Following Legal Changes | Mon 23 Nov, 06:59 AM PKT
-- [queued] normal | Suspected Drone Attack Triggers Explosion on Russian Ship in Libya | Mon 23 Nov, 07:09 AM PKT
-- [queued] normal | South Korea's Stock Market Tumbles Amid Growing AI Bubble Fears | Mon 23 Nov, 07:19 AM PKT
+- [needs_review] normal | 10 Injured as Quadcopters Hit Peace Jirga in Bannu | Mon 23 Nov, 05:56 AM PKT
+- [needs_review] normal | PTI Pushes for KP Leaders' Freedom Following Legal Changes | Mon 23 Nov, 06:59 AM PKT
+- [needs_review] normal | Suspected Drone Attack Triggers Explosion on Russian Ship in Libya | Mon 23 Nov, 07:09 AM PKT
+- [published] normal | South Korea's Stock Market Tumbles Amid Growing AI Bubble Fears | Mon 23 Nov, 07:19 AM PKT
 - [queued] normal | Cameroon's Ex-Rebels Caught Between Hiding and Broken Promises | Mon 23 Nov, 07:29 AM PKT
 - [queued] normal | Pakistani among two injured in Iranian attack on Bahrain | Mon 23 Nov, 07:57 AM PKT
 - [queued] normal | Closing gateway to Central Asia amid regional challenges | Mon 23 Nov, 08:07 AM PKT
@@ -368,16 +364,21 @@ First reported by Dawn; also reported by Geo News.
 - [queued] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
 - [queued] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
 - [queued] normal | At least 3 killed and 36 missing after devastating Indonesia factory f | Mon 23 Nov, 12:00 PM PKT
+- [queued] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
+- [queued] normal | What Lies Ahead After Climate Talks Fail to Reach Consensus? | Mon 23 Nov, 01:22 PM PKT
+- [queued] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
 
 ## Publishing this run
-- Published 'Atalanta Grab Dramatic Draw With Inter Milan in Serie A'.
+- Published 'South Korea's Stock Market Tumbles Amid Growing AI Bubble Fears'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 10670 | output tokens: 5373
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 3 | prompt tokens: 4963 | output tokens: 2186
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 168 column 7 (char 7435)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
