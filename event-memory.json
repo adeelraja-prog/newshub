@@ -132190,7 +132190,404 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "de990f1a23a24f5fb0ba0942",
+      "remembered_at": "2026-11-23T20:35:45.545236+00:00",
+      "event_date": "2026-11-23T14:06:46+00:00",
+      "last_update": "2026-11-23T19:06:13+00:00",
+      "event": "KP governor restores Arbab Niaz name, removes Imran Khan Stadium title",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arbab",
+        "governor",
+        "imran",
+        "khan",
+        "name",
+        "niaz",
+        "removes",
+        "restores",
+        "samaa",
+        "stadium",
+        "title"
+      ],
+      "source_excerpt": "KP governor restores Arbab Niaz name, removes Imran Khan Stadium title samaa tv",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/23/kp-officially-restores-historic-name-of-arbab-niaz-stadium/",
+          "published_at": "2026-11-23T14:06:46+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0NueEdYZmU0SFduNkp1bGxvRS15ek9KT0JRcTcxVklObkx4MXFoQ3JHb2dfTGxlWnJOQTNJRHJiS3NPQXdQWVVmVzdWUC05eHIzQllEeVZiM01CUlZ2Vnk2dGw4TTQ1a2NKdFJoRkFRNkFWM0tUcGVnN1BxUW5tNUhDNThaNkhGTVA2c3BGT0YzQ3pvVWl2YWhEdU5nMEhrbG40?oc=5",
+          "published_at": "2026-11-23T14:24:21+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOalFVTzRxYzgyX1M3aUVBZ0RfZUdNdHdvcndoMFl3dW9jc3hUcnQ2UHk2bkZmYjhtZUJmUWYybTlXNkFEU3hLSWRLb2laaERDT0NHYWpEZS1qc3BCZXR4STBjaEJzVTFZQ3FOUTRiR0Y4emNNY3BrOHZtNHhwRjVJZ1Z4VTB5dFRCVTBJLWVFci0tTWtncG9RN3pwZ1dVc3lsdW1sWW51TQ?oc=5",
+          "published_at": "2026-11-23T19:06:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0NueEdYZmU0SFduNkp1bGxvRS15ek9KT0JRcTcxVklObkx4MXFoQ3JHb2dfTGxlWnJOQTNJRHJiS3NPQXdQWVVmVzdWUC05eHIzQllEeVZiM01CUlZ2Vnk2dGw4TTQ1a2NKdFJoRkFRNkFWM0tUcGVnN1BxUW5tNUhDNThaNkhGTVA2c3BGT0YzQ3pvVWl2YWhEdU5nMEhrbG40?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f1c053efd3713974d2a0cefe",
+      "remembered_at": "2026-11-23T20:35:45.545236+00:00",
+      "event_date": "2026-11-23T13:04:11+00:00",
+      "last_update": "2026-11-23T15:10:00+00:00",
+      "event": "Iran says it will use ‘all available means’ to counter US blockade",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affairs",
+        "all",
+        "and",
+        "available",
+        "blockade",
+        "confront",
+        "counter",
+        "defend",
+        "foreign",
+        "iran",
+        "itself",
+        "means",
+        "ministry",
+        "naval",
+        "says",
+        "siege",
+        "the",
+        "tools",
+        "use",
+        "will"
+      ],
+      "source_excerpt": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+          "published_at": "2026-11-23T13:04:11+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTktLdU1YVmxRUnlCdUNRZmlIdWloVW12TFNEZGVMdXhoWHdpWGdIMmpkMTJnNWdFdXh2WlhFYWNzckVtcFotcW9ya2JHd1VmLVY2b2hsTFdObno2Q0IxM3oyYWsySUszUEtiTHlEV3JOaW1ZbmJ3YUc4X3BndTRMbmJteXpGTG1VZDU3clloNWNtd3RXdEx5dVdQSlZ6TS14T0tpbUg2eXlZZ9IBrwFBVV95cUxObFRhRTR4SXZfbVZ4c0VMbnJvVVNZbFBjaGw5S29VUG1kcXRieXJjUEROZUoyQTRvSGFOeDdKNUpYbmN4UmZxcTAzNmZjOWR2SmJhVHVHTkxBbUJtc2hjT1NGOTZOUzhpbHZsQ0FKNWhQYkl1S0ZRcTdaTWMzU2N4QnBGV1cwOGpJNERSbmJwYzVNRERpb0JwTGlrUmp4LWczVXVxTXkzLXNRS05JNzBV?oc=5",
+          "published_at": "2026-11-23T13:18:45+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTC0yQ1ZkZy1qcnpmUUI2Mjd4RTFLN2cwd1BNMFhTVFlrX2dxRDY4YXlMMXNkY3hBTWJtbTZlYlhvNWI2bjhNUHQtcmNXX2VKZFBiTG1ycWpkR2cxV292LWViU0EwRW13WFNsV01iUkY5bGR3M3U4dFVSXzVzaWZlOGxCQndyLUJHSnlkLW1vYkF1dXR0Z1N5emYwZUdVMUROX3NnTnVOZDQyZWJJdmJiaGU2LUlOQQ?oc=5",
+          "published_at": "2026-11-23T14:20:55+00:00"
+        },
+        {
+          "name": "The American Conservative",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ25HcWEwZ3ppLXNZRzliV1kzbzd5ZkcwamwwUV9rYWZzem5OV295WThwOGJjellNMjMxek5ITV84d3M1TGNzckFLMk82blJtSFZuT0NFcEtpT2RNMWVyeTQwN1hobkVhcjlZMGtKWDU4Z0lRXzZiQlRhR3UwUGdKM1RVbEU4NzVuR2F0TVd1SXJfbUVaaE1jMXZzTDVnb05M?oc=5",
+          "published_at": "2026-11-23T15:10:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6a0b0c522ef9b43a184ad781",
+      "remembered_at": "2026-11-23T20:35:45.545236+00:00",
+      "event_date": "2026-11-23T20:22:28+00:00",
+      "last_update": "2026-11-23T20:22:28+00:00",
+      "event": "Turkish police hunting for lioness stalking Istanbul",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "animal",
+        "asked",
+        "being",
+        "big",
+        "cat",
+        "country",
+        "falling",
+        "for",
+        "growing",
+        "hunting",
+        "istanbul",
+        "lioness",
+        "origins",
+        "police",
+        "questions",
+        "role",
+        "smuggling",
+        "stalking",
+        "suspicion",
+        "the",
+        "turkish",
+        "with"
+      ],
+      "source_excerpt": "Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
+          "published_at": "2026-11-23T20:22:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ee9f836ff63ea68fa242c2f7",
+      "remembered_at": "2026-11-23T20:35:45.545236+00:00",
+      "event_date": "2026-11-23T20:03:48+00:00",
+      "last_update": "2026-11-23T20:03:48+00:00",
+      "event": "Protesting Bangladesh garment workers reject pay offer",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "38bn",
+        "500",
+        "about",
+        "around",
+        "bangladesh",
+        "brings",
+        "garment",
+        "industry",
+        "minimum",
+        "month",
+        "offer",
+        "pay",
+        "per",
+        "protesting",
+        "reject",
+        "taka",
+        "the",
+        "wage",
+        "workers",
+        "year"
+      ],
+      "source_excerpt": "Bangladesh’s garment industry brings in about $38bn a year. The minimum wage is around 12,500 taka ($100) per month.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
+          "published_at": "2026-11-23T20:03:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c55ac5352a06916df29cc7f3",
+      "remembered_at": "2026-11-23T20:35:45.545236+00:00",
+      "event_date": "2026-11-23T20:01:41+00:00",
+      "last_update": "2026-11-23T20:04:36+00:00",
+      "event": "Trump delays explosive detonation in US state of Iowa amid legal battles",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "battles",
+        "cites",
+        "controversy",
+        "court",
+        "delays",
+        "detonation",
+        "explosive",
+        "exposure",
+        "iowa",
+        "lead",
+        "legal",
+        "midwestern",
+        "postponed",
+        "risks",
+        "rulings",
+        "safety",
+        "state",
+        "trump"
+      ],
+      "source_excerpt": "Iowa detonation postponed as Trump cites safety risks, lead exposure, and court rulings in Midwestern controversy.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss",
+          "published_at": "2026-11-23T20:01:41+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHFEMHZsNXF3Yzd0V01OVFp1YkVHa2tGU1gxYmNkaTQwNFZCcHhfMG5aWkFtMlBmdWlwSnBkclR6MEtwdHc1S2Y1NkR3X2lOZm5TcEZJRE8zTTgtMmxSZDVFNTJDYWdkbU5uNUlGdFNnRndpMjNnUVpCZ0NXejRhczctbmVYRTJiUzdHSW5tR0JJLU11V0ZhYjR1VmItcV9DSmdfaHd2RUoydFgwTHllaVp6N0jSAboBQVVfeXFMT0hsTldVQTFCNm1FMHNqSExOY0tVbVZHd2FhTThvdFk2MENVajYyNlY0T3FOQzRwWU44dGJLS2s4SXM0cGh3RGdvVndCeF9taUMzLXpNQ3dRek5sLVBqYlV6RzVFM2xnajRvMlF0eDRsY2NEa2hZVU8xRFRzQThpOG93TE5YeTRZeUlTM3JiM1MzWEdqU3lYZDN4UHBDZzd1Mnk2a1g1ZkVfSkFEOHBJTHBsY3RkY3BYYlRR?oc=5",
+          "published_at": "2026-11-23T20:04:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "036b15ce3ba641991a91859a",
+      "remembered_at": "2026-11-23T20:35:45.545236+00:00",
+      "event_date": "2026-11-23T19:43:45+00:00",
+      "last_update": "2026-11-23T19:43:45+00:00",
+      "event": "As tech outages mount, some New Yorkers prepare for the worst",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "are",
+        "concerns",
+        "digital",
+        "disruptions",
+        "essential",
+        "for",
+        "mount",
+        "new",
+        "outages",
+        "prepare",
+        "preparing",
+        "prolonged",
+        "raise",
+        "residents",
+        "services",
+        "some",
+        "tech",
+        "the",
+        "worst",
+        "yorkers"
+      ],
+      "source_excerpt": "As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
+          "published_at": "2026-11-23T19:43:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fd88aa3bc3784e4891f62457",
+      "remembered_at": "2026-11-23T20:35:45.545236+00:00",
+      "event_date": "2026-11-23T15:57:49+00:00",
+      "last_update": "2026-11-23T16:30:00+00:00",
+      "event": "Two States sue SpaceX over Grok-generated deepfakes and alleged safety failures",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "and",
+        "deepfakes",
+        "failures",
+        "generated",
+        "grok",
+        "international",
+        "news",
+        "over",
+        "safety",
+        "spacex",
+        "states",
+        "sue",
+        "the",
+        "two"
+      ],
+      "source_excerpt": "Two States sue SpaceX over Grok-generated deepfakes and alleged safety failures The News International",
+      "sources": [
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/",
+          "published_at": "2026-11-23T15:57:49+00:00"
+        },
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGtlUXl2QXA3OWVJZXVPeXhPd1pET3hWcHNQMkNJdFhWMEZrMFFNTTlOOGV0eHZPckQ5OWxIaTJuT3VQMlJ1ZzRGeDlxcjZZOTlkUk1GczNOdEs4eTVCdHdBbDY3aVdneFBoS09YNmxqMTdLRVpfYmloMWFxeXlrblg1WUZtb1k5Y3ZHSmE0OVlSQk9CUEM0RWM3M2ZxZ3QyS2ZpRGk0alh5Q19Fa2pRMEJ2UzA1Y01hOXfSAboBQVVfeXFMTVhrZVF5dkFwNzllSWV1T3l4T3daRE94VnBzUDJDSXRYVjBGazBRTU05TjhldHh2T3JEOTlsSGkybk91UDJSdWc0Rng5cXI2WTk5ZFJNRnMzTnRLOHk1QnR3QWw2N2lXZ3hQaEtPWDZsajE3S0VaX2JpaDFhcXl5a25YNVlGbW9ZOWN2R0phNDlZUkJPQlBDNEVjNzNmcWd0MktmaURpNGpYeUNfRWtqUTBCdlMwNWNNYTl3?oc=5",
+          "published_at": "2026-11-23T16:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGtlUXl2QXA3OWVJZXVPeXhPd1pET3hWcHNQMkNJdFhWMEZrMFFNTTlOOGV0eHZPckQ5OWxIaTJuT3VQMlJ1ZzRGeDlxcjZZOTlkUk1GczNOdEs4eTVCdHdBbDY3aVdneFBoS09YNmxqMTdLRVpfYmloMWFxeXlrblg1WUZtb1k5Y3ZHSmE0OVlSQk9CUEM0RWM3M2ZxZ3QyS2ZpRGk0alh5Q19Fa2pRMEJ2UzA1Y01hOXfSAboBQVVfeXFMTVhrZVF5dkFwNzllSWV1T3l4T3daRE94VnBzUDJDSXRYVjBGazBRTU05TjhldHh2T3JEOTlsSGkybk91UDJSdWc0Rng5cXI2WTk5ZFJNRnMzTnRLOHk1QnR3QWw2N2lXZ3hQaEtPWDZsajE3S0VaX2JpaDFhcXl5a25YNVlGbW9ZOWN2R0phNDlZUkJPQlBDNEVjNzNmcWd0MktmaURpNGpYeUNfRWtqUTBCdlMwNWNNYTl3?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T19:44:26.439870+00:00"
+  "updated_at": "2026-11-23T20:35:45.545236+00:00"
 }
