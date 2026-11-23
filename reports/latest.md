@@ -1,10 +1,10 @@
-# News Hub report - Mon 23 Nov, 10:30 PM PKT
+# News Hub report - Mon 23 Nov, 11:32 PM PKT
 
 ## Collection
-- New items this run: 77 | items in rolling pool: 929
-- Unique story clusters: 740 (duplicates merged: 189)
-- Clusters dropped as already published/queued: 17; unchanged since last analysis: 2
-- Items per outlet: Geo News 8, ARY News 6, UrduPoint 6, Al Jazeera 5, ProPakistani 5, Pakistan Today 5, TechCrunch 4, Investify 4, Dawn 3, The Express Tribune 3, Engadget 3, Profit by Pakistan Today 3
+- New items this run: 65 | items in rolling pool: 891
+- Unique story clusters: 722 (duplicates merged: 169)
+- Clusters dropped as already published/queued: 15; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 11, Geo News 7, samaa tv 5, Al Jazeera 5, Pakistan Today 5, Dawn 4, Engadget 4, Aaj English TV 3, The News International 2, X 2, ProPakistani 2, TechJuice 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -12,38 +12,43 @@
 
 ## Top 5 most important
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine claims drone strikes on Russian ships off Libya: What do we know? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine claims drone strikes on Russian ships off Libya: What do we know? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine claims drone strikes on Russian ships off Libya: What do we know? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 2 | failed: 2 | malformed/partial: 2
+- Overall feeds with entries: 111/120 | empty: 2 | failed: 7 | malformed/partial: 7
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The Nation | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Pakistan Provincial Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: World Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Imran Khan and Adiala Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: US Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 6
+- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 3
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
@@ -276,23 +281,20 @@
 - [queued] promo | [YouTube] SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO! | Mon 23 Nov, 04:43 PM PKT
 - [published] normal | Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity | Mon 23 Nov, 04:43 PM PKT
 - [published] normal | Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port | Mon 23 Nov, 04:53 PM PKT
-- [queued] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
-- [queued] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
-- [queued] normal | K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadi | Mon 23 Nov, 05:51 PM PKT
+- [needs_review] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
+- [needs_review] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
+- [published] normal | K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadi | Mon 23 Nov, 05:51 PM PKT
 - [queued] normal | National CERT Flags Five Critical WhatsApp Security Vulnerabilities in | Mon 23 Nov, 06:01 PM PKT
 - [queued] normal | Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game | Mon 23 Nov, 06:11 PM PKT
 - [queued] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
 
 ## Publishing this run
-- Published 'Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port'.
+- Published 'K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadium'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
 - Errors: 5
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,

@@ -131123,7 +131123,525 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "89c36ed4500ff1b4319fc3df",
+      "remembered_at": "2026-11-23T18:32:26.196754+00:00",
+      "event_date": "2026-11-23T11:10:12+00:00",
+      "last_update": "2026-11-23T16:52:25+00:00",
+      "event": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "claims",
+        "drone",
+        "fears",
+        "finnish",
+        "fuels",
+        "know",
+        "libya",
+        "libyan",
+        "off",
+        "russian",
+        "series",
+        "ships",
+        "spread",
+        "strikes",
+        "territories",
+        "ukraine",
+        "vessels",
+        "war",
+        "what"
+      ],
+      "source_excerpt": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+          "published_at": "2026-11-23T11:10:12+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PTFRBblZqQlZpMi1HSXNHd0JQc0hKZGp5MnlVYUZxekllZmRGclZ2YV9IVHJ6bjF2emx4V041NzVGUEJzTEtYUjR2dVVEMkZpX3RPQklzSEw?oc=5",
+          "published_at": "2026-11-23T11:34:10+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T11:34:10+00:00"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+          "published_at": "2026-11-23T15:01:00+00:00"
+        },
+        {
+          "name": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUhjSXM5aEVHUUR2QnkzMG5ieHVoTXRRS3QzR3d6R1VUZmF1V2ZURkVuWThJUDlhTmFTc1Z5Z2x0QTdZNFF6b2hlSWQ2UzJNcDNLclMtU2VCSVJjeUtNb3JkRlZTODEySlVTX2QwREZ6allHWFhPQk5UQVZQektuWWh3?oc=5",
+          "published_at": "2026-11-23T16:52:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "24ec763814e5f370c956cfa8",
+      "remembered_at": "2026-11-23T18:32:26.196754+00:00",
+      "event_date": "2026-11-23T11:30:37+00:00",
+      "last_update": "2026-11-23T15:10:00+00:00",
+      "event": "Iran says it will use ‘all available means’ to counter US blockade",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affairs",
+        "all",
+        "and",
+        "available",
+        "blockade",
+        "confront",
+        "counter",
+        "defend",
+        "foreign",
+        "iran",
+        "itself",
+        "means",
+        "ministry",
+        "naval",
+        "says",
+        "siege",
+        "the",
+        "tools",
+        "use",
+        "will"
+      ],
+      "source_excerpt": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUlsRWg2Szd1Z3JjWkRCcFVMdTh1cDhrT0lxUEZ0UXRHVjZ5QWJaSWRFVmxfT2Nlcnp5UjZPOG9MaFE0SmZ5UndIejdacWRYT3hGVHZiNVQ1a1lOa0tUZVdjRm1rVDZkMWRPTWd2R0JLamZfYm1lcEREbE12ajRCNTZSdERlMFpObDVFSkowV2h3THRkdlFoMUxR?oc=5",
+          "published_at": "2026-11-23T11:30:37+00:00"
+        },
+        {
+          "name": "Khaleej Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWNSTFpsYklxa2l2QU1GU0haVkxxeEQ4UzNGSE9zZVRsUWN0M2puclEzVEdNRGpvMTRiejlHeG5ocC1iOWM0SE5uTmUtdE0wZXFJb1RfTHhLSDhBUEhrLXlqam5Gb0pxa1daZlFiN1J3R01nX3ZQYjlmdHNOSTJoWHgzUFNZU2ZZYnhleE5ERW5JZ2cxR2xtREJiN25ESkxZNUxaNzl3OUY4bkU?oc=5",
+          "published_at": "2026-11-23T11:47:29+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+          "published_at": "2026-11-23T13:04:11+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTktLdU1YVmxRUnlCdUNRZmlIdWloVW12TFNEZGVMdXhoWHdpWGdIMmpkMTJnNWdFdXh2WlhFYWNzckVtcFotcW9ya2JHd1VmLVY2b2hsTFdObno2Q0IxM3oyYWsySUszUEtiTHlEV3JOaW1ZbmJ3YUc4X3BndTRMbmJteXpGTG1VZDU3clloNWNtd3RXdEx5dVdQSlZ6TS14T0tpbUg2eXlZZ9IBrwFBVV95cUxObFRhRTR4SXZfbVZ4c0VMbnJvVVNZbFBjaGw5S29VUG1kcXRieXJjUEROZUoyQTRvSGFOeDdKNUpYbmN4UmZxcTAzNmZjOWR2SmJhVHVHTkxBbUJtc2hjT1NGOTZOUzhpbHZsQ0FKNWhQYkl1S0ZRcTdaTWMzU2N4QnBGV1cwOGpJNERSbmJwYzVNRERpb0JwTGlrUmp4LWczVXVxTXkzLXNRS05JNzBV?oc=5",
+          "published_at": "2026-11-23T13:18:45+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTC0yQ1ZkZy1qcnpmUUI2Mjd4RTFLN2cwd1BNMFhTVFlrX2dxRDY4YXlMMXNkY3hBTWJtbTZlYlhvNWI2bjhNUHQtcmNXX2VKZFBiTG1ycWpkR2cxV292LWViU0EwRW13WFNsV01iUkY5bGR3M3U4dFVSXzVzaWZlOGxCQndyLUJHSnlkLW1vYkF1dXR0Z1N5emYwZUdVMUROX3NnTnVOZDQyZWJJdmJiaGU2LUlOQQ?oc=5",
+          "published_at": "2026-11-23T14:20:55+00:00"
+        },
+        {
+          "name": "The American Conservative",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ25HcWEwZ3ppLXNZRzliV1kzbzd5ZkcwamwwUV9rYWZzem5OV295WThwOGJjellNMjMxek5ITV84d3M1TGNzckFLMk82blJtSFZuT0NFcEtpT2RNMWVyeTQwN1hobkVhcjlZMGtKWDU4Z0lRXzZiQlRhR3UwUGdKM1RVbEU4NzVuR2F0TVd1SXJfbUVaaE1jMXZzTDVnb05M?oc=5",
+          "published_at": "2026-11-23T15:10:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5b482e0ac2f42ff5e0b9c5ae",
+      "remembered_at": "2026-11-23T18:32:26.196754+00:00",
+      "event_date": "2026-11-23T11:01:00+00:00",
+      "last_update": "2026-11-23T17:33:00+00:00",
+      "event": "Miley Cyrus celebrates marriage to Maxx Morando with matching ink",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "celebrates",
+        "cyrus",
+        "ink",
+        "international",
+        "marriage",
+        "matching",
+        "maxx",
+        "miley",
+        "morando",
+        "news",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "Miley Cyrus celebrates marriage to Maxx Morando with matching ink The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmVHZ3E4UmU3Zzd2c3FkVUJza3RnZ08tYkdHcE1nV2xTdjgxWGtmT3g1NFJjOV9IS0ZtUVBEcDRGWmgzcV82OU1sVm9MdDhkQXBtSFZvLTF2bTRBNEg0ZFhZS0dYRUs4aldUUERzU0tKXy1fUHVsaTB1U3JHSkJucjFLd21JUHRMVG1xVXJIejRkeTJOLTdrWWdiaUdUc2J1ZjdlM2hka9IBpwFBVV95cUxPNmVHZ3E4UmU3Zzd2c3FkVUJza3RnZ08tYkdHcE1nV2xTdjgxWGtmT3g1NFJjOV9IS0ZtUVBEcDRGWmgzcV82OU1sVm9MdDhkQXBtSFZvLTF2bTRBNEg0ZFhZS0dYRUs4aldUUERzU0tKXy1fUHVsaTB1U3JHSkJucjFLd21JUHRMVG1xVXJIejRkeTJOLTdrWWdiaUdUc2J1ZjdlM2hkaw?oc=5",
+          "published_at": "2026-11-23T11:01:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692346-miley-cyrus-big-week-gets-even-better-after-marriage-to-maxx-morando",
+          "published_at": "2026-11-23T17:33:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmVHZ3E4UmU3Zzd2c3FkVUJza3RnZ08tYkdHcE1nV2xTdjgxWGtmT3g1NFJjOV9IS0ZtUVBEcDRGWmgzcV82OU1sVm9MdDhkQXBtSFZvLTF2bTRBNEg0ZFhZS0dYRUs4aldUUERzU0tKXy1fUHVsaTB1U3JHSkJucjFLd21JUHRMVG1xVXJIejRkeTJOLTdrWWdiaUdUc2J1ZjdlM2hka9IBpwFBVV95cUxPNmVHZ3E4UmU3Zzd2c3FkVUJza3RnZ08tYkdHcE1nV2xTdjgxWGtmT3g1NFJjOV9IS0ZtUVBEcDRGWmgzcV82OU1sVm9MdDhkQXBtSFZvLTF2bTRBNEg0ZFhZS0dYRUs4aldUUERzU0tKXy1fUHVsaTB1U3JHSkJucjFLd21JUHRMVG1xVXJIejRkeTJOLTdrWWdiaUdUc2J1ZjdlM2hkaw?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9673d476bdf82d43ed592fb9",
+      "remembered_at": "2026-11-23T18:32:26.196754+00:00",
+      "event_date": "2026-11-23T17:51:08+00:00",
+      "last_update": "2026-11-23T17:51:08+00:00",
+      "event": "GTA 6 leaker releases executable for alleged Xbox build",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "build",
+        "executable",
+        "for",
+        "gta",
+        "leaker",
+        "releases",
+        "samaa",
+        "xbox"
+      ],
+      "source_excerpt": "GTA 6 leaker releases executable for alleged Xbox build samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLV9JQ1ZPcjNUM21jM1JfV2FhT1l1TGVkZkREd25wcHRZQW0wand0aFBMbXl1dXRfb0VRbXFSOVZFcnhlZFlWdHZSUWZNLVpEcVNzLUJsLU80WG5FTldpcmZ5MWpOM1dDbTVJdWlXdmtHako1T2lEVkdaY3lRNDI1SjVMcndKdDlaNTFTQW12Z0s?oc=5",
+          "published_at": "2026-11-23T17:51:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLV9JQ1ZPcjNUM21jM1JfV2FhT1l1TGVkZkREd25wcHRZQW0wand0aFBMbXl1dXRfb0VRbXFSOVZFcnhlZFlWdHZSUWZNLVpEcVNzLUJsLU80WG5FTldpcmZ5MWpOM1dDbTVJdWlXdmtHako1T2lEVkdaY3lRNDI1SjVMcndKdDlaNTFTQW12Z0s?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "963c14339544cf34721a97e6",
+      "remembered_at": "2026-11-23T18:32:26.196754+00:00",
+      "event_date": "2026-11-23T18:25:55+00:00",
+      "last_update": "2026-11-23T18:28:16+00:00",
+      "event": "What Russian warship did Ukraine just sink?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "coast",
+        "did",
+        "here",
+        "just",
+        "libya",
+        "merkury",
+        "off",
+        "russian",
+        "sank",
+        "says",
+        "significant",
+        "sink",
+        "the",
+        "ukraine",
+        "vessel",
+        "warship",
+        "what",
+        "why"
+      ],
+      "source_excerpt": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here's why the vessel is significant.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
+          "published_at": "2026-11-23T18:25:55+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDNXME5sRU9sNlRqZFZleEs1V1ZUTlZmOUJlMEJXTFk2UXBLZUtESWxMeDh2YV93X0wtc3hVek9IRW1iSFRXbUpYRXRSUFZvQTJUcmNuR2E5THFlNUd0YVNsNWxlMTFSSE54OWpaMEtEalJfUjQzcGh5NU1Sa0ZxTlFUdzhLV3NLckkwYU5mcjBrLTdLYkszWHB30gGfAUFVX3lxTE1teE1Kd005d1ZHci00NWhHMXRYem5Rd3VxeGVxRkxzbUNheE4yQ20tbmpzb3V2MUpYdDB0aFZqWVhMVW9WRlNqUjUtMTZreHk2TzBOMVBrQUZHUWR3MWZTblhpYUJlSjJSN1JZRGFFbmZmWTVER04wSUF6X3drVTVHTThYeTRsd1UzUUN2NXoya3NPYk5mTmtubTl0b2ktOA?oc=5",
+          "published_at": "2026-11-23T18:28:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c1592331bd48e2d9b678493",
+      "remembered_at": "2026-11-23T18:32:26.196754+00:00",
+      "event_date": "2026-11-23T18:12:55+00:00",
+      "last_update": "2026-11-23T18:12:55+00:00",
+      "event": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "6bn",
+        "balendra",
+        "coming",
+        "day",
+        "delhi",
+        "first",
+        "flood",
+        "for",
+        "his",
+        "india",
+        "march",
+        "minister",
+        "modi",
+        "nepal",
+        "new",
+        "pledges",
+        "power",
+        "prime",
+        "relief",
+        "shah",
+        "since",
+        "two",
+        "visit",
+        "visits"
+      ],
+      "source_excerpt": "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
+          "published_at": "2026-11-23T18:12:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "31855566abb5d94536e7b1be",
+      "remembered_at": "2026-11-23T18:32:26.196754+00:00",
+      "event_date": "2026-11-23T18:00:23+00:00",
+      "last_update": "2026-11-23T18:00:23+00:00",
+      "event": "Danish top court’s ‘ghetto law’ ruling supports hardline immigration policy",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "constitute",
+        "country",
+        "court",
+        "danish",
+        "did",
+        "discrimination",
+        "eviction",
+        "families",
+        "ghetto",
+        "hardline",
+        "immigration",
+        "law",
+        "non",
+        "not",
+        "policy",
+        "ruling",
+        "said",
+        "supports",
+        "the",
+        "top",
+        "western"
+      ],
+      "source_excerpt": "The country's top court said eviction of 'non-Western' families did not constitute discrimination.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
+          "published_at": "2026-11-23T18:00:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "609169748bb6b30972f013d1",
+      "remembered_at": "2026-11-23T18:32:26.196754+00:00",
+      "event_date": "2026-11-23T17:36:17+00:00",
+      "last_update": "2026-11-23T17:36:17+00:00",
+      "event": "Tajikistan moves to leave ICC amid US push against court",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "amid",
+        "arrest",
+        "comply",
+        "court",
+        "failed",
+        "found",
+        "icc",
+        "its",
+        "leave",
+        "moves",
+        "president",
+        "push",
+        "putin",
+        "request",
+        "russian",
+        "tajikistan",
+        "that",
+        "the",
+        "vladimir",
+        "with"
+      ],
+      "source_excerpt": "The ICC found that Tajikistan failed to comply with its request to arrest Russian President Vladimir Putin.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
+          "published_at": "2026-11-23T17:36:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f2fe8139f0d78f857e9d0cd0",
+      "remembered_at": "2026-11-23T18:32:26.196754+00:00",
+      "event_date": "2026-11-23T18:04:20+00:00",
+      "last_update": "2026-11-23T18:04:20+00:00",
+      "event": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahmadi",
+        "and",
+        "authorities",
+        "flog",
+        "given",
+        "hijab",
+        "iranian",
+        "lashes",
+        "lawyers",
+        "musicians",
+        "parastoo",
+        "performed",
+        "producer",
+        "qom",
+        "reportedly",
+        "say",
+        "singer",
+        "three",
+        "were",
+        "who",
+        "without"
+      ],
+      "source_excerpt": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T18:04:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T17:30:58.373832+00:00"
+  "updated_at": "2026-11-23T18:32:26.196754+00:00"
 }
