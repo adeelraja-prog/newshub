@@ -124214,7 +124214,641 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "45ea7da8e0e8263840cc9dd9",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T00:03:53+00:00",
+      "last_update": "2026-11-23T06:16:07+00:00",
+      "event": "3 killed, 36 missing after Indonesia factory fire",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "dawn",
+        "factory",
+        "fire",
+        "indonesia",
+        "killed",
+        "missing"
+      ],
+      "source_excerpt": "3 killed, 36 missing after Indonesia factory fire Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEViYkgyX3hEelR0OGxVZWRFZkFpeGdfRlRYWWhQRUx5V2hDcF9Ib0N6Z1A3Vnp2UkNmTEhCYUZyRHI4cEp3RWY2b29Dcm02NlVCbjBKZWJCLWdVR1NYeFBQSkNYRDZHV0ZybllQa184LXNwZC1Namc2dUQ5ZGZrRVZMYjNTUFZHU0E?oc=5",
+          "published_at": "2026-11-23T00:03:53+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692244-indonesia-says-24-killed-in-factory-blaze-as-rescuers-search-for-dozens-missing",
+          "published_at": "2026-11-23T04:52:00+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1pLYVBOMm5FNnJ4UE1PYVRtTGQ5by1lMGRQcWp3SEZjU1ktSU0xSEhGZ3hMdVdhdXA0d1QwZWhlT0w5NWxRN01WRVdxbXVqQzZUei1MUWZqZFVvLWZQclVPREJtZEhibkxyN19YMnBjVDN0aVlBVnM2eHlaNU1zbHRDQ0VicHpHTURLQmhTaTVHb1FieEpEak12S0xBY05W?oc=5",
+          "published_at": "2026-11-23T06:16:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEViYkgyX3hEelR0OGxVZWRFZkFpeGdfRlRYWWhQRUx5V2hDcF9Ib0N6Z1A3Vnp2UkNmTEhCYUZyRHI4cEp3RWY2b29Dcm02NlVCbjBKZWJCLWdVR1NYeFBQSkNYRDZHV0ZybllQa184LXNwZC1Namc2dUQ5ZGZrRVZMYjNTUFZHU0E?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "801bf2d3bb003af22d928518",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T00:04:49+00:00",
+      "last_update": "2026-11-23T05:22:50+00:00",
+      "event": "Woman, her four children die as dumper runs over bike",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bike",
+        "children",
+        "dawn",
+        "die",
+        "dumper",
+        "four",
+        "her",
+        "over",
+        "runs",
+        "woman"
+      ],
+      "source_excerpt": "Woman, her four children die as dumper runs over bike Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2RSbGNaSjZKTEJjWXd3cjZucWU4dTVvZ3FvUmJCcEFDV1RWZktmT1JUQ2pHTUkyUzQwZ0FuVXEtUmFCd0ZMUTZiTk5VaGU2NmdTNFU2Mmpjb2VhWlluQUoxRmNtV0tTODFEa3RvNFNJQW9JejBMQ1NmQkhaMDNhQUJLY0VjV1RWLWFIUl96dw?oc=5",
+          "published_at": "2026-11-23T00:04:49+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046415/woman-her-four-children-die-as-dumper-runs-over-bike-in-khushab",
+          "published_at": "2026-11-23T05:22:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2RSbGNaSjZKTEJjWXd3cjZucWU4dTVvZ3FvUmJCcEFDV1RWZktmT1JUQ2pHTUkyUzQwZ0FuVXEtUmFCd0ZMUTZiTk5VaGU2NmdTNFU2Mmpjb2VhWlluQUoxRmNtV0tTODFEa3RvNFNJQW9JejBMQ1NmQkhaMDNhQUJLY0VjV1RWLWFIUl96dw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "df766abc211b359135060aea",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T00:06:42+00:00",
+      "last_update": "2026-11-23T05:16:53+00:00",
+      "event": "Governor invites investment in renewable energy sector",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "energy",
+        "governor",
+        "investment",
+        "invites",
+        "renewable",
+        "sector"
+      ],
+      "source_excerpt": "Governor invites investment in renewable energy sector Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2hEZDU0d19wOWhWZWNzOWlvQnZFTURDd1M0TVJXeE9XSDYyZUcxOGxNcUVfelByZGJOWUlxUnRkSU1qSTk0V3dRYVk2al9mQ0Rua1hMRkJsQVVqV0dFczEwZEhmem9BZEYyYmVBbFBuNVU5UV94OTlHRkptTGFCS3NoVVZ3WVBYWDZvNXBkZWtZdw?oc=5",
+          "published_at": "2026-11-23T00:06:42+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046360/kp-governor-invites-investment-in-renewable-energy-sector",
+          "published_at": "2026-11-23T05:16:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2hEZDU0d19wOWhWZWNzOWlvQnZFTURDd1M0TVJXeE9XSDYyZUcxOGxNcUVfelByZGJOWUlxUnRkSU1qSTk0V3dRYVk2al9mQ0Rua1hMRkJsQVVqV0dFczEwZEhmem9BZEYyYmVBbFBuNVU5UV94OTlHRkptTGFCS3NoVVZ3WVBYWDZvNXBkZWtZdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "55b0d5d16903a7363fa45a96",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T05:03:53+00:00",
+      "last_update": "2026-11-23T05:44:31+00:00",
+      "event": "Bhir Mound findings attract renewed archaeological excavations in Taxila",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "again",
+        "ancient",
+        "and",
+        "archaeological",
+        "array",
+        "artefacts",
+        "asia",
+        "attract",
+        "beneath",
+        "bhir",
+        "buried",
+        "drainage",
+        "earliest",
+        "earth",
+        "emerging",
+        "excavations",
+        "findings",
+        "gradually",
+        "mound",
+        "networks",
+        "offer",
+        "once",
+        "one",
+        "quarters",
+        "renewed",
+        "residential",
+        "reveal",
+        "settlements",
+        "south",
+        "story",
+        "streets",
+        "taxila",
+        "that",
+        "the",
+        "urban",
+        "weathered",
+        "wells"
+      ],
+      "source_excerpt": "Beneath the weathered earth of Bhir Mound, one of South Asia’s earliest urban settlements, the buried story of ancient Taxila is gradually emerging once again, as renewed archaeological excavations reveal residential quarters, streets, drainage networks, wells and an array of artefacts that offer a",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046364/bhir-mound-findings-attract-renewed-archaeological-excavations-in-taxila",
+          "published_at": "2026-11-23T05:03:53+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046509/bhir-mound-findings-attract-renewed-archaeological-excavations",
+          "published_at": "2026-11-23T05:44:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046364/bhir-mound-findings-attract-renewed-archaeological-excavations-in-taxila",
+        "publisher_url": "https://www.dawn.com/news/2046364/bhir-mound-findings-attract-renewed-archaeological-excavations-in-taxila",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b74129df8116927465127a1",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T06:08:13+00:00",
+      "last_update": "2026-11-23T06:08:13+00:00",
+      "event": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "but",
+        "diplomats",
+        "discussion",
+        "fear",
+        "focus",
+        "for",
+        "issue",
+        "key",
+        "likely",
+        "migration",
+        "political",
+        "progress",
+        "repatriation",
+        "syria",
+        "talks",
+        "the",
+        "ties",
+        "trade",
+        "will"
+      ],
+      "source_excerpt": "Syria and the EU are in talks on trade and political ties, but migration will likely be the key issue for discussion.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
+          "published_at": "2026-11-23T06:08:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2171891d1f7078838b311561",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T05:58:36+00:00",
+      "last_update": "2026-11-23T06:01:47+00:00",
+      "event": "New Zealand’s Mitchell, Phillips frustrate India as first Test ends in draw",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "120",
+        "239",
+        "close",
+        "day",
+        "display",
+        "draw",
+        "ends",
+        "fighting",
+        "final",
+        "finish",
+        "first",
+        "frustrate",
+        "india",
+        "mitchell",
+        "new",
+        "overs",
+        "phillips",
+        "rescued",
+        "surviving",
+        "test",
+        "the",
+        "zealand"
+      ],
+      "source_excerpt": "New Zealand rescued a draw on the final day, surviving 120 overs in a fighting display to finish on 239-5 at the close.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/23/new-zealand-india-first-test-cricket-wtc-phillips-mitchell-nicholls?traffic_source=rss",
+          "published_at": "2026-11-23T05:58:36+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2pFeC14UjlJNldXckR3VS1vT3hWZkRqdkdIbUlVSjJEa0JmQkRjQ0VmVDVQQkFxMklVOU9mUXFzZ0x4X1Uxb2ZlTU1GU0pFRlpUbHJQZUY2N2wtc3BRRlNUMUI2NHMxSTVRVmNCbEQ5aHdlQjgxM0pXX2R2V0hZZG90di1udVBMSjRoZGlNVzZVdG5JYlh5VXF0QkVEcVVjc2R4VmhlelBXNlBzYU9oNtIBtgFBVV95cUxOSEdQSV9nZW5KLXdRVGdOR2hQaUQtSXhLdzFiU01PUlYteVhDRFY4S1VvYnFpSlhzRHNUdUxGR1FJWW9USF9wSHRzcEh6d2RSMHp1QkJ2ejR6TzVEZmZjb0NBdG9MSXFHU3ViT19PUWlINkdoWElxQm9kU3ZzWjdqN2xQQ21QOS1UMzlkNTF4bk85UENjMF9SZFRhN2dMX1VESGRHYl9BcVRTY2kxamowaEJ2eVg5dw?oc=5",
+          "published_at": "2026-11-23T06:01:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/23/new-zealand-india-first-test-cricket-wtc-phillips-mitchell-nicholls?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/23/new-zealand-india-first-test-cricket-wtc-phillips-mitchell-nicholls?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b451d0b91ea2bb250a4b1e92",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T05:51:00+00:00",
+      "last_update": "2026-11-23T05:51:00+00:00",
+      "event": "Who is Alberto Feijoo, the conservative seeking to become Spain’s new PM?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alberto",
+        "become",
+        "career",
+        "civil",
+        "conservative",
+        "elections",
+        "feijoo",
+        "former",
+        "his",
+        "hopes",
+        "lead",
+        "new",
+        "november",
+        "party",
+        "popular",
+        "seeking",
+        "servant",
+        "spain",
+        "the",
+        "victory",
+        "who"
+      ],
+      "source_excerpt": "The former career civil servant hopes to lead his Popular Party to victory in November 29 elections.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss",
+          "published_at": "2026-11-23T05:51:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a7936ddef0968204d0332bab",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T05:38:01+00:00",
+      "last_update": "2026-11-23T05:38:01+00:00",
+      "event": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "350",
+        "and",
+        "attacks",
+        "bank",
+        "dangerous",
+        "escalation",
+        "face",
+        "for",
+        "from",
+        "group",
+        "human",
+        "israel",
+        "israeli",
+        "medics",
+        "occupied",
+        "physicians",
+        "rights",
+        "says",
+        "settlers",
+        "soldiers",
+        "surge",
+        "violence",
+        "west"
+      ],
+      "source_excerpt": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+          "published_at": "2026-11-23T05:38:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1cb09f0f139013beaf14df41",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T06:33:50+00:00",
+      "last_update": "2026-11-23T06:33:50+00:00",
+      "event": "Five takeaways from the failed climate talks COP31",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "antalya",
+        "climate",
+        "cop31",
+        "failed",
+        "five",
+        "from",
+        "history",
+        "longest",
+        "running",
+        "summit",
+        "takeaways",
+        "talks",
+        "the",
+        "was"
+      ],
+      "source_excerpt": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T06:33:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "02ac930fcbba8d8ac5146c58",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T06:03:32+00:00",
+      "last_update": "2026-11-23T06:03:32+00:00",
+      "event": "I moved from Australia to the Welsh valleys because the houses are so cheap",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afford",
+        "and",
+        "are",
+        "area",
+        "attracted",
+        "australia",
+        "because",
+        "but",
+        "buyer",
+        "cheap",
+        "even",
+        "from",
+        "has",
+        "homes",
+        "houses",
+        "investors",
+        "locals",
+        "moved",
+        "struggle",
+        "the",
+        "valleys",
+        "welsh"
+      ],
+      "source_excerpt": "The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T06:03:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e3adfe4b89d9d1ae07bb8cff",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T05:29:58+00:00",
+      "last_update": "2026-11-23T05:29:58+00:00",
+      "event": "Ukraine urges US to release Patriot missiles as Russian strikes kill 15",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "jazeera",
+        "kill",
+        "missiles",
+        "patriot",
+        "release",
+        "russian",
+        "strikes",
+        "ukraine",
+        "urges"
+      ],
+      "source_excerpt": "Ukraine urges US to release Patriot missiles as Russian strikes kill 15 Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDROSjJ4ZmFrSWp4VDNoeS1aRVlHb25QQXJvV0JhQWtrNjdJekNQWHEyQ0VhZUIyNHBpd3l2eEJSYmc4Zk45V2lhcWxwMzJBT09XYk1hRzZwa0FkT2ltdUl2STFtb1lBVHRtVFpDTGtYc2FVZWJqQXYyYlFSVzBhNzhpbE83NlByTGJHQjloNEZvZ9IBlwFBVV95cUxORzQwam00SzMzbWFrZHNQMlAxQU1sTmJ3ZEFQRU51V1B4MGxUb1FFeUo3R05ya0hQMFRVRjRGOTlVZDliV25wbGdnZzI1YlI5N2lpTnltOE5ZYUItZDViTlJvNkRCaGR0M2NxQ19zeEJrSmhVTGVKVGpoRFBNTlFlMFpxUzNKblhkYjlBek91OUJxbmZNdkRr?oc=5",
+          "published_at": "2026-11-23T05:29:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDROSjJ4ZmFrSWp4VDNoeS1aRVlHb25QQXJvV0JhQWtrNjdJekNQWHEyQ0VhZUIyNHBpd3l2eEJSYmc4Zk45V2lhcWxwMzJBT09XYk1hRzZwa0FkT2ltdUl2STFtb1lBVHRtVFpDTGtYc2FVZWJqQXYyYlFSVzBhNzhpbE83NlByTGJHQjloNEZvZ9IBlwFBVV95cUxORzQwam00SzMzbWFrZHNQMlAxQU1sTmJ3ZEFQRU51V1B4MGxUb1FFeUo3R05ya0hQMFRVRjRGOTlVZDliV25wbGdnZzI1YlI5N2lpTnltOE5ZYUItZDViTlJvNkRCaGR0M2NxQ19zeEJrSmhVTGVKVGpoRFBNTlFlMFpxUzNKblhkYjlBek91OUJxbmZNdkRr?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2c79fe00db953f860a5dc612",
+      "remembered_at": "2026-11-23T06:40:05.645628+00:00",
+      "event_date": "2026-11-23T06:01:36+00:00",
+      "last_update": "2026-11-23T06:01:36+00:00",
+      "event": "Bad COP, worse COP: What’s next after climate talks fail?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bad",
+        "climate",
+        "cop",
+        "dawn",
+        "fail",
+        "next",
+        "talks",
+        "what",
+        "worse"
+      ],
+      "source_excerpt": "Bad COP, worse COP: What’s next after climate talks fail? Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjBPLVkxLTJsVFVaTTVFM2VrVi1hcnQ4YV9aRzdKRUg4QWFlaU9rbmFaOW9FMmk4NjNLSlhyV3dod3duS2FqMU5VYWRQTFZUeEd5OWhvbkNQS3hRd1ZUblEwUnRxYWtfWUxLdGJxd1V5X1ZhTDdqUTVsTEsxVHA4c1VZcUhuU2dRdXJnaG9nUUI?oc=5",
+          "published_at": "2026-11-23T06:01:36+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046511/bad-cop-worse-cop-whats-next-after-climate-talks-fail",
+          "published_at": "2026-11-23T06:01:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjBPLVkxLTJsVFVaTTVFM2VrVi1hcnQ4YV9aRzdKRUg4QWFlaU9rbmFaOW9FMmk4NjNLSlhyV3dod3duS2FqMU5VYWRQTFZUeEd5OWhvbkNQS3hRd1ZUblEwUnRxYWtfWUxLdGJxd1V5X1ZhTDdqUTVsTEsxVHA4c1VZcUhuU2dRdXJnaG9nUUI?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T05:25:04.551183+00:00"
+  "updated_at": "2026-11-23T06:40:05.645628+00:00"
 }

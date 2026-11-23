@@ -1,35 +1,35 @@
-# News Hub report - Mon 23 Nov, 10:25 AM PKT
+# News Hub report - Mon 23 Nov, 11:40 AM PKT
 
 ## Collection
-- New items this run: 57 | items in rolling pool: 281
-- Unique story clusters: 237 (duplicates merged: 44)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 9
-- Items per outlet: Investify 11, Geo News 10, Dawn Pakistan 7, Dawn Latest 5, Al Jazeera 3, TechJuice 3, Profit by Pakistan Today 3, ARY News 2, Aaj English TV 2, ProPakistani 2, Dawn 1, The News International 1
+- New items this run: 68 | items in rolling pool: 327
+- Unique story clusters: 273 (duplicates merged: 54)
+- Clusters dropped as already published/queued: 23; unchanged since last analysis: 7
+- Items per outlet: ARY News 7, Al Jazeera 7, Dawn Pakistan 5, TechJuice 5, samaa tv 4, Dawn Latest 4, Investify 4, ProPakistani 3, The Current 3, Profit by Pakistan Today 3, Dawn 2, The Express Tribune 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
+- ‘Early diagnosis can save countless lives from breast cancer’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 3 killed, 36 missing after Indonesia factory fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's only coal conveyor system at Port Qasim non-functional since last week, disrupting coal imports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt moves to overhaul ‘weak’ audit system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why foreign investment continues to elude Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two killed, one injured in separate encounters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two TikTokers held for displaying arms in videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman, her four children die as dumper runs over bike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- ‘Early diagnosis can save countless lives from breast cancer’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 3 killed, 36 missing after Indonesia factory fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's only coal conveyor system at Port Qasim non-functional since last week, disrupting coal imports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt moves to overhaul ‘weak’ audit system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why foreign investment continues to elude Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two killed, one injured in separate encounters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two TikTokers held for displaying arms in videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman, her four children die as dumper runs over bike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- ‘Early diagnosis can save countless lives from breast cancer’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 3 killed, 36 missing after Indonesia factory fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan's only coal conveyor system at Port Qasim non-functional since last week, disrupting coal imports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt moves to overhaul ‘weak’ audit system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why foreign investment continues to elude Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two killed, one injured in separate encounters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two TikTokers held for displaying arms in videos | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman, her four children die as dumper runs over bike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,94 +38,84 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### UK disability benefits assessment process faces major overhaul recommendation  [NORMAL]
-- Poster: برطانیہ میں معذوری کے فوائد کے نظام میں بڑی تبدیلی کی تجویز / Major overhaul proposed for UK disability benefits assessment | category politics
-- Alternative headline: Disability minister calls for fundamental overhaul of Pip assessment system
+### Syria-EU talks advance, but diplomats fear migration will dominate  [NORMAL]
+- Poster: شام اور یورپی یونین کے مذاکرات میں مہاجرین کا معاملہ سر فہرست رہنے کا خدشہ / Syria-EU talks advance as migration fears mount | category politics
+- Alternative headline: Trade and ties on table as Syria-EU discussions focus on repatriation
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business
-- Keywords: Pip assessment, disability benefits, Sir Stephen Timms, UK politics, benefits review | hashtags: #PipAssessment #DisabilityBenefits #UKPolitics #SocialWelfare
-- Scheduled: Mon 23 Nov, 10:25 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Syria EU talks, migration, repatriation, trade ties, diplomats, European Union | hashtags: #Syria #EuropeanUnion #Migration #Politics #AlJazeera
+- Scheduled: Mon 23 Nov, 11:40 AM PKT
 - Caption:
 ```
-A major review into the UK's personal independence payment (Pip) is set to recommend a fundamental overhaul of the assessment process.
+As Syria and the European Union engage in crucial talks on trade and political ties, diplomats express growing fears that repatriation and migration will overshadow other agenda items.
 
-A review into the UK's personal independence payment (Pip) will recommend a fundamental overhaul of the assessment process to better recognize varying costs and needs. Disability Minister Sir Stephen Timms stated the setup is no longer fit for purpose, citing a substantial growth in mental health claims over the past 13 years.
+Syria and the European Union are actively engaged in discussions concerning trade and political ties. However, diplomats have raised concerns that the primary focus of these ongoing talks will heavily center on migration and the repatriation of refugees.
 
-برطانیہ کے پرسنل انڈیپنڈنس پیمنٹ (پپ) کے جائزے میں جانچ پڑتال کے عمل میں بنیادی تبدیلی کی سفارش کی جائے گی۔ معذوری کے وزیر سر اسٹیفن ٹمز نے کہا کہ یہ نظام اب اپنے مقاصد کے لیے موزوں نہیں رہا، انہوں نے پچھلے 13 برسوں میں ذہنی صحت کے دعووں میں نمایاں اضافے کا حوالہ دیا۔
+شام اور یورپی یونین کے درمیان تجارت اور سیاسی تعلقات پر مذاکرات جاری ہیں، تاہم سفارتکاروں نے خدشہ ظاہر کیا ہے کہ ان بات چیت کا اصل مرکز مہاجرین کی واپسی کا مسئلہ ہوگا۔
 
-According to a published report by BBC Business
+First reported by Al Jazeera.
 
-#PipAssessment #DisabilityBenefits #UKPolitics #SocialWelfare
+#Syria #EuropeanUnion #Migration #Politics #AlJazeera
 ```
 
-### Port Qasim's only coal conveyor system breaks down, disrupting imports  [NORMAL]
-- Poster: پورٹ قاسم کا واحد کول کنویئر سسٹم خراب، درآمدات معطل / Port Qasim coal conveyor breakdown disrupts imports | category other
-- Alternative headline: Coal discharge drops sharply as Port Qasim conveyor system fails
+### NHS launches world's largest trial to test AI in breast cancer detection  [NORMAL]
+- Poster: بریسٹ کینسر کی جلد تشخیص کے لیے دنیا کا سب سے بڑا اے آئی ٹرائل شروع / NHS launches world's largest trial for AI cancer detection | category health
+- Alternative headline: Early diagnosis can save countless lives from breast cancer, experts warn
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-last-week-disrupting-coal-imports | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-last-week-disrupting-coal-imports
-- Supporting coverage: Dawn Pakistan, Dawn Latest, Investify
-- Keywords: coal conveyor system, Port Qasim, PIBT, coal imports, power sector | hashtags: #PortQasim #CoalImports #PowerSector #Pakistan
-- Scheduled: Mon 23 Nov, 10:35 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlFIaUo5bDhON1JRNjVaN2VaWFJMT19GLTNqcmwxR0EycG9TMUhUM3pFYkxKRE9WM2pXTl85dy1wT0dmMVVsVkl6V1JjSTNQTWlhdnUwdHVUT2N5Z3lfOEo2THA5MlQyd0FyTlNHN2JWNUR1a0dFb2hYTmZtN3dVVHN6LTF1WUFjLWszRktUN3lOYXV4UTBPZA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlFIaUo5bDhON1JRNjVaN2VaWFJMT19GLTNqcmwxR0EycG9TMUhUM3pFYkxKRE9WM2pXTl85dy1wT0dmMVVsVkl6V1JjSTNQTWlhdnUwdHVUT2N5Z3lfOEo2THA5MlQyd0FyTlNHN2JWNUR1a0dFb2hYTmZtN3dVVHN6LTF1WUFjLWszRktUN3lOYXV4UTBPZA?oc=5
+- Supporting coverage: Dawn, BBC Health, BBC Health
+- Keywords: breast cancer AI, NHS trial, early diagnosis, cancer detection, artificial intelligence, health | hashtags: #BreastCancer #NHS #ArtificialIntelligence #Health #CancerDetection
+- Scheduled: Mon 23 Nov, 11:50 AM PKT
 - Caption:
 ```
-Pakistan's only coal-handling conveyor system at Port Qasim has been non-functional, sharply reducing discharge rates and causing warnings of heavy financial losses.
+The NHS has launched the world's largest trial to determine if artificial intelligence can spot breast cancer earlier and save countless lives.
 
-The sole coal-handling conveyor system at PIBT Port Qasim has been non-functional since November 18, causing coal discharge rates to fall from 30,000 to 3,000 tonnes per day. Power plants and suppliers face mounting demurrage charges and potential capacity payment losses.
+Experts stress that early diagnosis is critical in saving countless lives from breast cancer. To explore advanced methods, the NHS has launched the world's largest clinical trial investigating whether artificial intelligence can successfully spot breast cancer earlier than traditional methods.
 
-پورٹ قاسم پر پی آئی بی ٹی کا واحد کول ہینڈلنگ کنویئر سسٹم 18 نومبر سے بند ہے، جس کی وجہ سے کوئلے کی ترسیل کی رفتار 30 ہزار ٹن سے کم ہو کر 3 ہزار ٹن یومیه رہ گئی ہے۔ بجلی گھروں اور سپلائرز کو بھاری نقصانات کا سامنا ہے۔
+ماہرین کا کہنا ہے کہ چھاتی کے کینسر سے بچاؤ کے لیے بروقت تشخیص جانیں بچا سکتی ہے۔ اسی سلسلے میں این ایچ ایس نے یہ جاننے کے لیے دنیا کا سب سے بڑا ٹرائل شروع کیا ہے کہ کیا مصنوعی ذہانت کینسر کی جلد شناخت کر سکتی ہے۔
 
-First reported by Dawn Pakistan
+First reported by Dawn and BBC Health.
 
-#PortQasim #CoalImports #PowerSector #Pakistan
+#BreastCancer #NHS #ArtificialIntelligence #Health #CancerDetection
 ```
 
-### Government moves to overhaul weak audit oversight system  [NORMAL]
-- Poster: حکومت کا کمزور آڈٹ نظام بہتر بنانے کے لیے اقدامات کا فیصلہ / Government moves to overhaul weak audit system | category other
-- Alternative headline: Govt initiates major overhaul of the national audit system
+### At least 3 killed and 36 missing after devastating Indonesia factory fire  [NORMAL]
+- Poster: انڈونیشیا کی فیکٹری میں خوفناک آتشزدگی، 3 افراد ہلاک اور 36 لاپتہ / 3 killed, 36 missing in Indonesia factory fire | category disaster
+- Alternative headline: Indonesian factory blaze leaves dozens missing as rescue operations continue
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNE1XYWQ4c2JVMVE2RF9MVEV2RHp5X0ZVY0ZiRGRVMzNkSHVXWjhCMzE4REkwM0hxWlpPeDBwMWd4eGtiSHNhX1drcC05cXVmc0swVjlnUjk4UFNYMlpCTXNER2V6TGR4ekJwRWh6RlNNdUxRU1pZUnFFMjZTUjg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNE1XYWQ4c2JVMVE2RF9MVEV2RHp5X0ZVY0ZiRGRVMzNkSHVXWjhCMzE4REkwM0hxWlpPeDBwMWd4eGtiSHNhX1drcC05cXVmc0swVjlnUjk4UFNYMlpCTXNER2V6TGR4ekJwRWh6RlNNdUxRU1pZUnFFMjZTUjg?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Profit by Pakistan Today
-- Keywords: audit system, government reform, audit oversight, regulatory weakness, Pakistan governance | hashtags: #AuditSystem #GovernmentReforms #Pakistan #Governance
-- Scheduled: Mon 23 Nov, 10:45 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEViYkgyX3hEelR0OGxVZWRFZkFpeGdfRlRYWWhQRUx5V2hDcF9Ib0N6Z1A3Vnp2UkNmTEhCYUZyRHI4cEp3RWY2b29Dcm02NlVCbjBKZWJCLWdVR1NYeFBQSkNYRDZHV0ZybllQa184LXNwZC1Namc2dUQ5ZGZrRVZMYjNTUFZHU0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEViYkgyX3hEelR0OGxVZWRFZkFpeGdfRlRYWWhQRUx5V2hDcF9Ib0N6Z1A3Vnp2UkNmTEhCYUZyRHI4cEp3RWY2b29Dcm02NlVCbjBKZWJCLWdVR1NYeFBQSkNYRDZHV0ZybllQa184LXNwZC1Namc2dUQ5ZGZrRVZMYjNTUFZHU0E?oc=5
+- Supporting coverage: Dawn, Geo News, samaa tv
+- Keywords: Indonesia factory fire, factory blaze, missing persons, rescue operations, casualties, Indonesia | hashtags: #Indonesia #FactoryFire #BreakingNews #Rescue #Disaster
+- Scheduled: Mon 23 Nov, 12:00 PM PKT
 - Caption:
 ```
-The government has initiated steps to overhaul what has been described as a weak audit oversight system.
+Rescue teams are frantically searching for dozens of missing people following a massive and deadly fire at an Indonesian factory.
 
-The government has taken steps to overhaul the country's audit system to address underlying regulatory weaknesses and improve institutional transparency and governance oversight.
+A tragic factory fire in Indonesia has left at least three people dead and 36 others missing. Rescuers are continuing their search operations to locate the dozens of individuals still unaccounted for following the massive blaze.
 
-حکومت نے ریگولیٹری کمزوریوں کو دور کرنے اور ادارہ جاتی شفافیت کو بہتر بنانے کے لیے ملک کے آڈٹ کے نظام میں جامع تبدیلی لانے کے اقدامات شروع کر دیے ہیں۔
+انڈونیشیا میں ایک فیکٹری میں لگنے والی شدید آگ کے نتیجے میں کم از کم 3 افراد ہلاک اور 36 لاپتہ ہو گئے ہیں۔ ریسکیو ٹیمیں لاپتہ افراد کی تلاش کے لیے آپریشن جاری رکھے ہوئے ہیں۔
 
-First reported by Dawn
+First reported by Dawn; also reported by Geo News.
 
-#AuditSystem #GovernmentReforms #Pakistan #Governance
+#Indonesia #FactoryFire #BreakingNews #Rescue #Disaster
 ```
 
 - Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
-- [needs_review] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
-- [needs_review] normal | President urges swift implementation of Pakistan-Maldives agreements | Fri 20 Nov, 03:41 AM PKT
-- [needs_review] normal | Lahore officially named ECO Tourism Capital for 2027 | Fri 20 Nov, 03:51 AM PKT
-- [needs_review] normal | US Approved Sales of Nearly 900,000 AI Chips to China | Fri 20 Nov, 04:15 AM PKT
-- [needs_review] normal | Haiti Police Kill at Least 34 Suspected Gang Members in Raid | Fri 20 Nov, 04:25 AM PKT
-- [needs_review] normal | Fiona the Famous Hippo Dies After Swallowing a Hat at Cincinnati Zoo | Fri 20 Nov, 04:45 AM PKT
-- [needs_review] normal | Prince William and Catherine's India Tour Described as 'Particularly S | Fri 20 Nov, 05:00 AM PKT
-- [needs_review] normal | California Probes Nvidia Over Alleged Unauthorized Tech Transfers to C | Fri 20 Nov, 05:10 AM PKT
-- [needs_review] normal | Judge Rules Thomas Markle Mentally Fit to Stand Trial on Child Abuse C | Fri 20 Nov, 05:20 AM PKT
-- [needs_review] normal | Famed Cincinnati Zoo Hippo Fiona Dies Days After Swallowing Knitted Ha | Fri 20 Nov, 05:30 AM PKT
 - [needs_review] normal | PM credits civil-military partnership for economic stability, defends  | Fri 20 Nov, 06:21 AM PKT
 - [needs_review] normal | Cumin-laced fizzy sodas give cola giants a tough fight in India | Fri 20 Nov, 06:31 AM PKT
 - [needs_review] normal | Trump posthumously pardons US baseball legend Pete Rose | Fri 20 Nov, 06:41 AM PKT
@@ -138,7 +128,6 @@ First reported by Dawn
 - [needs_review] normal | UK asks YouTube to remove Russell Brand’s video | Fri 20 Nov, 09:31 AM PKT
 - [needs_review] normal | Asia’s stock markets dive amid AI bubble fears | Fri 20 Nov, 09:41 AM PKT
 - [needs_review] normal | Trump nominee refuses to call Jan 6 an ‘attack’ | Fri 20 Nov, 09:51 AM PKT
-- [published] normal | Punjab Adds Phone Shake SOS Feature to Women Safety App | Fri 20 Nov, 10:32 AM PKT
 - [needs_review] normal | Kushner: Trump open to NATO-like security guarantees for Ukraine | Fri 20 Nov, 10:42 AM PKT
 - [needs_review] normal | Pakistan Medical Association objects to proposed SHCC board members | Fri 20 Nov, 10:52 AM PKT
 - [needs_review] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
@@ -357,9 +346,9 @@ First reported by Dawn
 - [needs_review] normal | Pochettino Backs Man United Players After Liverpool Thrashing | Mon 23 Nov, 04:12 AM PKT
 - [needs_review] normal | How Pakistanis Save: An Express Tribune Report | Mon 23 Nov, 04:22 AM PKT
 - [published] normal | Naya Pakistan Episode Broadcast on 22nd November 2026 | Mon 23 Nov, 04:32 AM PKT
-- [queued] normal | Trump Targets Schumer as US Senate Democrats Face New Leadership Push | Mon 23 Nov, 04:49 AM PKT
-- [queued] normal | PTI Questions Sugar Export Approval and Seeks Audit of Import Deal | Mon 23 Nov, 05:36 AM PKT
-- [queued] normal | Atalanta Grab Dramatic Draw With Inter Milan in Serie A | Mon 23 Nov, 05:46 AM PKT
+- [needs_review] normal | Trump Targets Schumer as US Senate Democrats Face New Leadership Push | Mon 23 Nov, 04:49 AM PKT
+- [needs_review] normal | PTI Questions Sugar Export Approval and Seeks Audit of Import Deal | Mon 23 Nov, 05:36 AM PKT
+- [published] normal | Atalanta Grab Dramatic Draw With Inter Milan in Serie A | Mon 23 Nov, 05:46 AM PKT
 - [queued] normal | 10 Injured as Quadcopters Hit Peace Jirga in Bannu | Mon 23 Nov, 05:56 AM PKT
 - [queued] normal | PTI Pushes for KP Leaders' Freedom Following Legal Changes | Mon 23 Nov, 06:59 AM PKT
 - [queued] normal | Suspected Drone Attack Triggers Explosion on Russian Ship in Libya | Mon 23 Nov, 07:09 AM PKT
@@ -376,19 +365,19 @@ First reported by Dawn
 - [queued] normal | UK disability benefits assessment process faces major overhaul recomme | Mon 23 Nov, 10:25 AM PKT
 - [queued] normal | Port Qasim's only coal conveyor system breaks down, disrupting imports | Mon 23 Nov, 10:35 AM PKT
 - [queued] normal | Government moves to overhaul weak audit oversight system | Mon 23 Nov, 10:45 AM PKT
+- [queued] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
+- [queued] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
+- [queued] normal | At least 3 killed and 36 missing after devastating Indonesia factory f | Mon 23 Nov, 12:00 PM PKT
 
 ## Publishing this run
-- Published 'Naya Pakistan Episode Broadcast on 22nd November 2026'.
+- Published 'Atalanta Grab Dramatic Draw With Inter Milan in Serie A'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 5746 | output tokens: 2619
+- Calls: 4 | prompt tokens: 10670 | output tokens: 5373
 - Errors: 3
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 168 column 7 (char 7435)
