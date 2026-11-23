@@ -122431,7 +122431,502 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8e3e1a674320f3fbd40fa5c5",
+      "remembered_at": "2026-11-23T02:57:35.286494+00:00",
+      "event_date": "2026-11-23T00:05:46+00:00",
+      "last_update": "2026-11-23T02:44:53+00:00",
+      "event": "‘Global food import bill up 1.9pc in 2026’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "9pc",
+        "bill",
+        "dawn",
+        "food",
+        "global",
+        "import"
+      ],
+      "source_excerpt": "‘Global food import bill up 1.9pc in 2026’ Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVDhoeWNxTkthRGVRTHZXVEtuQUFzUTJIcUE3UHVueDNxTE1MUXRpd0hUR3hlM0VsM0ZrVlZvMHNnYy1rV0FUSGJCSGx1UHZVWVA3V29JOEpsaElRRWNoUVlDWDJKRmRXSVBZMjdsX2RxSVo1N2ozQm55QUFEQQ?oc=5",
+          "published_at": "2026-11-23T00:05:46+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046487/global-food-import-bill-projected-to-be-19pc-higher-than-previously-estimated-fao",
+          "published_at": "2026-11-23T02:44:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVDhoeWNxTkthRGVRTHZXVEtuQUFzUTJIcUE3UHVueDNxTE1MUXRpd0hUR3hlM0VsM0ZrVlZvMHNnYy1rV0FUSGJCSGx1UHZVWVA3V29JOEpsaElRRWNoUVlDWDJKRmRXSVBZMjdsX2RxSVo1N2ozQm55QUFEQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d11e04565081f2cfb30c3716",
+      "remembered_at": "2026-11-23T02:57:35.286494+00:00",
+      "event_date": "2026-11-23T00:05:46+00:00",
+      "last_update": "2026-11-23T02:36:32+00:00",
+      "event": "World economy hinges on Iran peace deal: Fidan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "deal",
+        "economy",
+        "fidan",
+        "hinges",
+        "iran",
+        "peace",
+        "world"
+      ],
+      "source_excerpt": "World economy hinges on Iran peace deal: Fidan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXI2SExISl8zLV9GenBMZTFkQUt2Q05kZUpNRUhiczhvRFBobDFMdExBdE8tNGhPdkJfbld6S216M2RyYTBsSzdFUTlUVWwwV0lBWWJqRE9qZmIwVFREdUVmVVN6X3hGdEZyOVY4N2g2cklySEo1Q3R3VHNfWFJtVTRQOHVmUQ?oc=5",
+          "published_at": "2026-11-23T00:05:46+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046397/world-economy-hinges-on-iran-peace-deal-fidan",
+          "published_at": "2026-11-23T02:36:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXI2SExISl8zLV9GenBMZTFkQUt2Q05kZUpNRUhiczhvRFBobDFMdExBdE8tNGhPdkJfbld6S216M2RyYTBsSzdFUTlUVWwwV0lBWWJqRE9qZmIwVFREdUVmVVN6X3hGdEZyOVY4N2g2cklySEo1Q3R3VHNfWFJtVTRQOHVmUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4cc23078fcc2d4303a6fe662",
+      "remembered_at": "2026-11-23T02:57:35.286494+00:00",
+      "event_date": "2026-11-23T02:23:13+00:00",
+      "last_update": "2026-11-23T02:23:13+00:00",
+      "event": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appropriate",
+        "calling",
+        "chief",
+        "clayton",
+        "comments",
+        "context",
+        "defends",
+        "director",
+        "entirely",
+        "friend",
+        "his",
+        "intelligence",
+        "jay",
+        "national",
+        "putin",
+        "says",
+        "summit",
+        "trump",
+        "were"
+      ],
+      "source_excerpt": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+          "published_at": "2026-11-23T02:23:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7d8d23990c2668bfc48bbbbd",
+      "remembered_at": "2026-11-23T02:57:35.286494+00:00",
+      "event_date": "2026-11-23T02:09:15+00:00",
+      "last_update": "2026-11-23T02:09:15+00:00",
+      "event": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "army",
+        "azide",
+        "concerning",
+        "court",
+        "despite",
+        "detonate",
+        "emergency",
+        "extremely",
+        "inside",
+        "invoke",
+        "iowa",
+        "lead",
+        "ordered",
+        "plan",
+        "plans",
+        "powers",
+        "stay",
+        "stores",
+        "tonnes",
+        "town"
+      ],
+      "source_excerpt": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+          "published_at": "2026-11-23T02:09:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1f62bec4c00239bb6d4e68d8",
+      "remembered_at": "2026-11-23T02:57:35.286494+00:00",
+      "event_date": "2026-11-23T01:53:23+00:00",
+      "last_update": "2026-11-23T01:53:42+00:00",
+      "event": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "alleged",
+        "assassinate",
+        "citizen",
+        "comes",
+        "confirmation",
+        "copenhagen",
+        "danish",
+        "kill",
+        "plot",
+        "poland",
+        "polish",
+        "rapper",
+        "reveals",
+        "russia",
+        "russian",
+        "says",
+        "soil",
+        "tried",
+        "twice",
+        "ukrainian"
+      ],
+      "source_excerpt": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
+          "published_at": "2026-11-23T01:53:23+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGt3S3pPSmc3REtpQ0NRR3VpbDY0ZDRoNkF0V1pMcmNLUmpab2w3cUx4T2hoa0UyX05YLTh4ckZsTlJ6UnpySGFTUHhMN2Y1MjczZE1wdzd4NDhFbmp2b3VONHBaNk9CY0U5czNHZ09YQnZURkZteXM5bzFnSEdUdmZXU1lRVzdvc3RNRXRTVXV3aFZaREk2Q0ZPa0xUUzJDSnpRUkUwUdIBrAFBVV95cUxPYktDalVTajJJMndDT3MtakhWUGxMZmc0Tmk5bjlTVnNPTzJHbmFha2V0LW1JUk9IcEZEWmMyZUhXUGhHX3RxMnljRDFFUWRVOFdONXRERWo2QjQyd25IUlR5UmNyLVlCZGpBODNGZTNyS3ZvaTBDYmNQbm8wX3AwejI1cDIzUjBuVk1EeXNhQ1lkMW9jazRmRU9Ia2NXZW55WGFqN0xsN2x0QTgt?oc=5",
+          "published_at": "2026-11-23T01:53:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9f94cc4f03098673e4c342c9",
+      "remembered_at": "2026-11-23T02:57:35.286494+00:00",
+      "event_date": "2026-11-23T01:51:32+00:00",
+      "last_update": "2026-11-23T01:51:32+00:00",
+      "event": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "attacks",
+        "benghazi",
+        "control",
+        "fully",
+        "libya",
+        "libyan",
+        "military",
+        "port",
+        "prepared",
+        "respond",
+        "says",
+        "threats",
+        "under"
+      ],
+      "source_excerpt": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+          "published_at": "2026-11-23T01:51:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d5a275a266452b2fe609453",
+      "remembered_at": "2026-11-23T02:57:35.286494+00:00",
+      "event_date": "2026-11-23T02:32:55+00:00",
+      "last_update": "2026-11-23T02:32:55+00:00",
+      "event": "Govt moves to overhaul ‘weak’ audit system",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "audit",
+        "dawn",
+        "govt",
+        "moves",
+        "overhaul",
+        "system",
+        "weak"
+      ],
+      "source_excerpt": "Govt moves to overhaul ‘weak’ audit system Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNE1XYWQ4c2JVMVE2RF9MVEV2RHp5X0ZVY0ZiRGRVMzNkSHVXWjhCMzE4REkwM0hxWlpPeDBwMWd4eGtiSHNhX1drcC05cXVmc0swVjlnUjk4UFNYMlpCTXNER2V6TGR4ekJwRWh6RlNNdUxRU1pZUnFFMjZTUjg?oc=5",
+          "published_at": "2026-11-23T02:32:55+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046399/govt-moves-to-overhaul-weak-audit-system",
+          "published_at": "2026-11-23T02:32:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNE1XYWQ4c2JVMVE2RF9MVEV2RHp5X0ZVY0ZiRGRVMzNkSHVXWjhCMzE4REkwM0hxWlpPeDBwMWd4eGtiSHNhX1drcC05cXVmc0swVjlnUjk4UFNYMlpCTXNER2V6TGR4ekJwRWh6RlNNdUxRU1pZUnFFMjZTUjg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f38bf63d369d7632a4682bd0",
+      "remembered_at": "2026-11-23T02:57:35.286494+00:00",
+      "event_date": "2026-11-23T02:55:55+00:00",
+      "last_update": "2026-11-23T02:55:55+00:00",
+      "event": "Editorial: Looking beyond the hype, Pakistan's offshore exploration effort with Turkiye merits cautious optimism",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046470",
+        "beyond",
+        "cautious",
+        "com",
+        "dawn",
+        "drilling",
+        "editorial",
+        "effort",
+        "exploration",
+        "for",
+        "https",
+        "hype",
+        "looking",
+        "merits",
+        "news",
+        "offshore",
+        "oil",
+        "optimism",
+        "pakistan",
+        "the",
+        "turkiye",
+        "with",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046470/drilling-for-oil",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046488/editorial-looking-beyond-the-hype-pakistans-offshore-exploration-effort-with-turkiye-merits-cautious-optimism",
+          "published_at": "2026-11-23T02:55:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046488/editorial-looking-beyond-the-hype-pakistans-offshore-exploration-effort-with-turkiye-merits-cautious-optimism",
+        "publisher_url": "https://www.dawn.com/news/2046488/editorial-looking-beyond-the-hype-pakistans-offshore-exploration-effort-with-turkiye-merits-cautious-optimism",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b55a4ef109fb658a7043b699",
+      "remembered_at": "2026-11-23T02:57:35.286494+00:00",
+      "event_date": "2026-11-23T02:39:11+00:00",
+      "last_update": "2026-11-23T02:39:11+00:00",
+      "event": "Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046421",
+        "35m",
+        "com",
+        "dawn",
+        "exports",
+        "first",
+        "four",
+        "fy27",
+        "https",
+        "months",
+        "news",
+        "pakistan",
+        "rice",
+        "rise",
+        "tonnes",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046421",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046486/pakistans-rice-exports-rise-to-135m-tonnes-in-first-four-months-of-fy27",
+          "published_at": "2026-11-23T02:39:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046486/pakistans-rice-exports-rise-to-135m-tonnes-in-first-four-months-of-fy27",
+        "publisher_url": "https://www.dawn.com/news/2046486/pakistans-rice-exports-rise-to-135m-tonnes-in-first-four-months-of-fy27",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4423237e4051c60008e0d843",
+      "remembered_at": "2026-11-23T02:57:35.286494+00:00",
+      "event_date": "2026-11-23T01:40:41+00:00",
+      "last_update": "2026-11-23T01:40:41+00:00",
+      "event": "Suspect confesses to killing mother-daughter duo",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "confesses",
+        "daughter",
+        "duo",
+        "express",
+        "killing",
+        "mother",
+        "suspect",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Suspect confesses to killing mother-daughter duo The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORVFQR0gwV25nU015UzVkRFh1YnFsV2c5Y19lakNNX3hVamtjM3VfaHlyR0p1eTdvT2xuSnNHNjd6MUhCMzc5WG5UQjl4c1VLdFNrcGVuZmdnTF9ORW1tMC1vS0Vhc0hxbnp5VEQ3OUJHeGQwN0hjbHRoY21zbVZ2anFKbTcwbnpyY2RyQjh30gGWAUFVX3lxTE9xd2Zhd2ZXNUdLWks3WTNjdVJqOXYwaE9RQkNpbWdwTGppSTItNldXUG1yT1FyUDJ6RGpRcjhPb1U4bjBEdGlmOTl0N2lBd1JJNmlmbDM1el9WdXl1bWUyVy1EbUNVYjNIYjFWLXNQek5xdzluaWFQSTZkUUhTNXoyNS1qNEc5MUk2R0RFMjAwMzVKSkRpUQ?oc=5",
+          "published_at": "2026-11-23T01:40:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORVFQR0gwV25nU015UzVkRFh1YnFsV2c5Y19lakNNX3hVamtjM3VfaHlyR0p1eTdvT2xuSnNHNjd6MUhCMzc5WG5UQjl4c1VLdFNrcGVuZmdnTF9ORW1tMC1vS0Vhc0hxbnp5VEQ3OUJHeGQwN0hjbHRoY21zbVZ2anFKbTcwbnpyY2RyQjh30gGWAUFVX3lxTE9xd2Zhd2ZXNUdLWks3WTNjdVJqOXYwaE9RQkNpbWdwTGppSTItNldXUG1yT1FyUDJ6RGpRcjhPb1U4bjBEdGlmOTl0N2lBd1JJNmlmbDM1el9WdXl1bWUyVy1EbUNVYjNIYjFWLXNQek5xdzluaWFQSTZkUUhTNXoyNS1qNEc5MUk2R0RFMjAwMzVKSkRpUQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T01:59:22.479438+00:00"
+  "updated_at": "2026-11-23T02:57:35.286494+00:00"
 }

@@ -1,35 +1,35 @@
-# News Hub report - Mon 23 Nov, 06:59 AM PKT
+# News Hub report - Mon 23 Nov, 07:57 AM PKT
 
 ## Collection
-- New items this run: 35 | items in rolling pool: 255
-- Unique story clusters: 232 (duplicates merged: 23)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 4
-- Items per outlet: Dawn 15, The Express Tribune 7, Engadget 4, Geo News 2, Al Jazeera 2, TechCrunch 1, GSMArena 1, BBC Health 1, CBS News 1, China Daily 1
+- New items this run: 35 | items in rolling pool: 244
+- Unique story clusters: 225 (duplicates merged: 19)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 5
+- Items per outlet: Dawn Latest 7, Al Jazeera 6, Profit by Pakistan Today 4, Geo News 3, Dawn 3, The Express Tribune 3, Investify 3, Vietnam.vn 2, chinadailyhk 1, Eurasia Review 1, Reuters 1, The Guardian 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Suspected drone attack causes explosion on Russian ship in Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- South Korea’s stock market tumbles as AI bubble fears mount | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cameroon’s ex-rebels caught between hiding and broken promises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistani among two injured in Iranian attack on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Closing gateway to Central Asia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Global food import bill up 1.9pc in 2026’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- World economy hinges on Iran peace deal: Fidan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- San Francisco is enjoying an AI boom, but worries about a crash are growing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Suspected drone attack causes explosion on Russian ship in Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- South Korea’s stock market tumbles as AI bubble fears mount | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cameroon’s ex-rebels caught between hiding and broken promises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistani among two injured in Iranian attack on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Closing gateway to Central Asia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Global food import bill up 1.9pc in 2026’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- World economy hinges on Iran peace deal: Fidan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- San Francisco is enjoying an AI boom, but worries about a crash are growing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Suspected drone attack causes explosion on Russian ship in Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- South Korea’s stock market tumbles as AI bubble fears mount | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cameroon’s ex-rebels caught between hiding and broken promises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistani among two injured in Iranian attack on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Closing gateway to Central Asia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Global food import bill up 1.9pc in 2026’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- World economy hinges on Iran peace deal: Fidan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- San Francisco is enjoying an AI boom, but worries about a crash are growing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### PTI Pushes for KP Leaders' Freedom Following Legal Changes  [NORMAL]
-- Poster: قانونی تبدیلیوں کے بعد پی ٹی آئی کی کے پی رہنماؤں کی رہائی کے لیے تگ و دو / PTI Pushes For KP Leaders Freedom | category politics
-- Alternative headline: Pakistan Tehreek-e-Insaf Demands Release of KP Leadership After Legal Overhaul
+### Pakistani among two injured in Iranian attack on Bahrain  [NORMAL]
+- Poster: بہرین میں ایرانی حملے میں ایک پاکستانی سمیت دو افراد زخمی / Pakistani injured in Bahrain attack | category security
+- Alternative headline: Bahrain reports Pakistani injured in recent Iranian attack
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3BfeHViVWg2alpYNXd1X1ZxRDExZDZqSkFoZ3g3dXphdG9VU2hoMGpfNjZBU0tHTUh1THZRWjZoRmJQOUZoeVdkemNtUkJxVkRabVlzRzJiQUdnOWZFVUhXVjdDM3lIZXVJZmdfbWEycHdlSzlMUFRxbVlaRDI1WEdwQmVrcVFLVXVWLVd3N2g?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3BfeHViVWg2alpYNXd1X1ZxRDExZDZqSkFoZ3g3dXphdG9VU2hoMGpfNjZBU0tHTUh1THZRWjZoRmJQOUZoeVdkemNtUkJxVkRabVlzRzJiQUdnOWZFVUhXVjdDM3lIZXVJZmdfbWEycHdlSzlMUFRxbVlaRDI1WEdwQmVrcVFLVXVWLVd3N2g?oc=5
-- Supporting coverage: Dawn
-- Keywords: PTI, Khyber Pakhtunkhwa, legal changes, leaders freedom, politics | hashtags: #PTI #KhyberPakhtunkhwa #PakistanPolitics #DawnNews
-- Scheduled: Mon 23 Nov, 06:59 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnhiYjlmUHVSN1V1YzduTXR4Qmt1RmZWSUVrVlBsRUpiYTd6T3VXd0Q5MU9CRXR6UkVwS202RlpMSmpMMGZiQkREVXJ3X0pBV1hGcnhEV1dwd3FjU2ZXQ1VKRDdWZU1OWjRQWkt4ZmxtVURuVHJEVWlQdV9ZQ2ZwVVd0YllMS2RPSHliVHQ3dUlBWFZ5MnYzb9IBoAFBVV95cUxNb2U1ellteGtIcS0wbmIxR08zQ0tqMEo0RGlpRWZ2d25rclIwZ1NQalhwMlZnZWFiajhnZkFtenJQemdzZmdfRmRHTjdpZGNBa1BuZVEtM1pyQjlTTUtoaDc2bWxxYllvRTlfV3hPUEp4Ulg5MnFrdmJCVkdrVks0Vzc4Tk1jVHZGTU9YdnRtY2RvaUlCNFR5ODRTR2hLbHFH?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnhiYjlmUHVSN1V1YzduTXR4Qmt1RmZWSUVrVlBsRUpiYTd6T3VXd0Q5MU9CRXR6UkVwS202RlpMSmpMMGZiQkREVXJ3X0pBV1hGcnhEV1dwd3FjU2ZXQ1VKRDdWZU1OWjRQWkt4ZmxtVURuVHJEVWlQdV9ZQ2ZwVVd0YllMS2RPSHliVHQ3dUlBWFZ5MnYzb9IBoAFBVV95cUxNb2U1ellteGtIcS0wbmIxR08zQ0tqMEo0RGlpRWZ2d25rclIwZ1NQalhwMlZnZWFiajhnZkFtenJQemdzZmdfRmRHTjdpZGNBa1BuZVEtM1pyQjlTTUtoaDc2bWxxYllvRTlfV3hPUEp4Ulg5MnFrdmJCVkdrVks0Vzc4Tk1jVHZGTU9YdnRtY2RvaUlCNFR5ODRTR2hLbHFH?oc=5
+- Supporting coverage: The Express Tribune
+- Keywords: Pakistani injured, Bahrain attack, Iranian attack, foreign office, injuries | hashtags: #Bahrain #Pakistan #BreakingNews
+- Scheduled: Mon 23 Nov, 07:57 AM PKT
 - Caption:
 ```
-Pakistan Tehreek-e-Insaf is actively pushing for the release of its Khyber Pakhtunkhwa leaders following recent legal changes.
+A Pakistani citizen is among two individuals reported injured following an attack in Bahrain.
 
-Pakistan Tehreek-e-Insaf (PTI) has intensified its efforts to secure the freedom of its Khyber Pakhtunkhwa leaders following recent legal modifications. The party's leadership continues to navigate evolving legal frameworks to press for the release of detained members.
+A Pakistani national is among two people reported injured following an attack in Bahrain, according to recent media reports. Further details regarding the incident and the condition of the injured individuals are awaited as authorities monitor the situation.
 
-پاکستان تحریک انصاف (پی ٹی آئی) نے حالیہ قانونی تبدیلیوں کے بعد اپنے خیبر پختونخوا کے رہنماؤں کی رہائی کے لیے کوششیں تیز کر دی ہیں۔ پارٹی قیادت زیر حتم اراکین کی رہائی کے لیے نئے قانونی دائرہ کار کا جائزہ لے رہی ہے۔
+رپورٹس کے مطابق بہرین میں ہونے والے ایک حملے میں زخمی ہونے والے دو افراد میں ایک پاکستانی شہری بھی شامل ہے۔ واقعے اور زخمیوں کی حالت سے متعلق مزید تفصیلات کا انتظار ہے۔
+
+First reported by The Express Tribune
+
+#Bahrain #Pakistan #BreakingNews
+```
+
+### Closing gateway to Central Asia amid regional challenges  [NORMAL]
+- Poster: وسطی ایشیا کا دروازہ بند ہونے کا معاملہ زیر بحث / Closing gateway to Central Asia | category economy
+- Alternative headline: The Express Tribune examines the closure of the Central Asian trade gateway
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMid0FVX3lxTFB2TnpKbWc3N0FveXdzQUV0Q050Zjg5VUZkcDNWTzE3QTgtR2p0QUhqazJhU2JSSy1IcnpuOTVYeS1zRTYzaU1ZM0NsVGtSMTNqSE9BX1lsUWEzWEFEdlg3ZFhPVF9vVHZYN21OYXptSTFlMG0tMWxV0gF_QVVfeXFMUHRQMnRHSEZjNVVwbUl6UjhzZXhpaE53WUhVckVkbmZoSFpBQ0xVcVVkRHl4ZzFKSTM2MTZuZVdoRXhxT1BvSG1lc3IyWURRYnI3b2tlMnMyWXJKT0I3eGxNRjM5NkFTcUhiUmVBVE9LX3JiOWh6WERUbEpGTkVpVQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMid0FVX3lxTFB2TnpKbWc3N0FveXdzQUV0Q050Zjg5VUZkcDNWTzE3QTgtR2p0QUhqazJhU2JSSy1IcnpuOTVYeS1zRTYzaU1ZM0NsVGtSMTNqSE9BX1lsUWEzWEFEdlg3ZFhPVF9vVHZYN21OYXptSTFlMG0tMWxV0gF_QVVfeXFMUHRQMnRHSEZjNVVwbUl6UjhzZXhpaE53WUhVckVkbmZoSFpBQ0xVcVVkRHl4ZzFKSTM2MTZuZVdoRXhxT1BvSG1lc3IyWURRYnI3b2tlMnMyWXJKT0I3eGxNRjM5NkFTcUhiUmVBVE9LX3JiOWh6WERUbEpGTkVpVQ?oc=5
+- Supporting coverage: The Express Tribune, Investify
+- Keywords: Central Asia gateway, trade route, regional connectivity, The Express Tribune | hashtags: #CentralAsia #Trade #Economy
+- Scheduled: Mon 23 Nov, 08:07 AM PKT
+- Caption:
+```
+The Express Tribune explores the implications of closing the vital gateway to Central Asia.
+
+An analysis published by The Express Tribune discusses the implications of closing the gateway to Central Asia, highlighting potential effects on regional connectivity and trade routes.
+
+ایکسپریس ٹریبیون کی ایک رپورٹ میں وسطی ایشیا کے دروازے کی بندش اور اس کے علاقائی تجارت پر پڑنے والے اثرات کا جائزہ لیا گیا ہے۔
+
+First reported by The Express Tribune
+
+#CentralAsia #Trade #Economy
+```
+
+### Global food import bill projected to rise 1.9pc in 2026: FAO  [NORMAL]
+- Poster: سنہ 2026 میں عالمی غذائی درآمدی بل میں 1.9 فیصد اضافے کا تخمینہ / Global food import bill up 1.9pc | category economy
+- Alternative headline: FAO projects global food import bill will be 1.9pc higher
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVDhoeWNxTkthRGVRTHZXVEtuQUFzUTJIcUE3UHVueDNxTE1MUXRpd0hUR3hlM0VsM0ZrVlZvMHNnYy1rV0FUSGJCSGx1UHZVWVA3V29JOEpsaElRRWNoUVlDWDJKRmRXSVBZMjdsX2RxSVo1N2ozQm55QUFEQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVDhoeWNxTkthRGVRTHZXVEtuQUFzUTJIcUE3UHVueDNxTE1MUXRpd0hUR3hlM0VsM0ZrVlZvMHNnYy1rV0FUSGJCSGx1UHZVWVA3V29JOEpsaElRRWNoUVlDWDJKRmRXSVBZMjdsX2RxSVo1N2ozQm55QUFEQQ?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: global food import bill, FAO, food prices, import costs, global economy | hashtags: #FoodSecurity #FAO #GlobalEconomy
+- Scheduled: Mon 23 Nov, 08:17 AM PKT
+- Caption:
+```
+The FAO projects the global food import bill to be 1.9 percent higher than previously estimated.
+
+According to the Food and Agriculture Organization (FAO), the global food import bill is projected to increase by 1.9 percent in 2026 compared to previous estimates, reflecting shifting international market dynamics and commodity prices.
+
+اقوام متحدہ کے ادارے ایف اے او کے مطابق سنہ 2026 میں عالمی غذائی درآمدی بل میں پہلے کے تخمینوں کے مقابلے میں 1.9 فیصد اضافے کا امکان ہے۔
 
 First reported by Dawn
 
-#PTI #KhyberPakhtunkhwa #PakistanPolitics #DawnNews
+#FoodSecurity #FAO #GlobalEconomy
 ```
 
-### Suspected Drone Attack Triggers Explosion on Russian Ship in Libya  [NORMAL]
-- Poster: لیبیا میں روسی جہاز پر مبینہ ڈرون حملہ، دھماکہ / Russian Ship Hit In Libya | category world
-- Alternative headline: Russian Vessel Hit by Suspected Drone Strike at Benghazi Naval Base
+### World economy hinges on Iran peace deal, says Hakan Fidan  [NORMAL]
+- Poster: عالمی معیشت کا انحصار ایران امن معاہدے پر ہے: ہکان فدان / World economy hinges on Iran peace | category economy
+- Alternative headline: Fidan warns global economic stability depends on an Iran peace agreement
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss
-- Supporting coverage: Al Jazeera, France 24, ABC News - Breaking News, Latest News and Videos, Radio Free Europe/Radio Liberty
-- Keywords: drone attack, Russian ship, Libya, Benghazi naval base, explosion | hashtags: #Libya #Russia #DroneAttack #Benghazi
-- Scheduled: Mon 23 Nov, 07:09 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXI2SExISl8zLV9GenBMZTFkQUt2Q05kZUpNRUhiczhvRFBobDFMdExBdE8tNGhPdkJfbld6S216M2RyYTBsSzdFUTlUVWwwV0lBWWJqRE9qZmIwVFREdUVmVVN6X3hGdEZyOVY4N2g2cklySEo1Q3R3VHNfWFJtVTRQOHVmUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXI2SExISl8zLV9GenBMZTFkQUt2Q05kZUpNRUhiczhvRFBobDFMdExBdE8tNGhPdkJfbld6S216M2RyYTBsSzdFUTlUVWwwV0lBWWJqRE9qZmIwVFREdUVmVVN6X3hGdEZyOVY4N2g2cklySEo1Q3R3VHNfWFJtVTRQOHVmUQ?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Iran peace deal, Hakan Fidan, world economy, global stability, Turkey | hashtags: #Iran #GlobalEconomy #Geopolitics
+- Scheduled: Mon 23 Nov, 08:27 AM PKT
 - Caption:
 ```
-A Russian ship docked at Libya's Benghazi naval base has been struck in a suspected drone attack, officials report.
+Turkish Foreign Minister Hakan Fidan stresses that global economic stability depends heavily on an Iran peace deal.
 
-A Russian vessel sustained an explosion following a suspected drone attack while docked at Libya's Benghazi naval base. The incident has drawn international attention amidst ongoing speculations and regional security concerns.
+Turkish Foreign Minister Hakan Fidan has stated that the future of the world economy is closely tied to achieving a peace deal concerning Iran, highlighting potential impacts on global markets and energy supplies.
 
-لیبیا کے بنغازی بحری اڈے پر لنگر انداز ایک روسی بحری جہاز مبینہ ڈرون حملے کی زد میں آ گیا، جس سے دھماکہ ہوا۔ اس واقعے نے علاقائی سلامتی کے خدشات کو بڑھا دیا ہے۔
+ترک وزیر خارجہ ہکان فدان کا کہنا ہے کہ عالمی معیشت کا استحکام ایران سے متعلق امن معاہدے کے ساتھ جڑا ہوا ہے، جس سے عالمی منڈیوں پر اثرات پڑ سکتے ہیں۔
 
-First reported by Al Jazeera
+First reported by Dawn
 
-#Libya #Russia #DroneAttack #Benghazi
+#Iran #GlobalEconomy #Geopolitics
 ```
 
-### South Korea's Stock Market Tumbles Amid Growing AI Bubble Fears  [NORMAL]
-- Poster: جنوبی کوریا کی اسٹاک مارکیٹ میں اے آئی کے خدشات کے پیش نظر بڑی گراوٹ / South Korea Stocks Fall | category economy
-- Alternative headline: Kospi Plunges 2.8 Percent at Opening Over Artificial Intelligence Bubble Concerns
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: South Korea stock market, Kospi, AI bubble, economy, shares tumbles | hashtags: #SouthKorea #Kospi #StockMarket #AIBubble
-- Scheduled: Mon 23 Nov, 07:19 AM PKT
-- Caption:
-```
-South Korea's stock market tumbled sharply at opening as mounting fears over an artificial intelligence bubble triggered regional losses.
-
-South Korea's stock market experienced a sharp decline, with the Kospi falling 2.8 percent at the opening bell. Markets across the region braced for further losses as growing anxieties regarding an artificial intelligence bubble weighed heavily on investor sentiment.
-
-جنوبی کوریا کی اسٹاک مارکیٹ میں شدید گراوٹ دیکھی گئی، جہاں کاروبار کے آغاز پر کوسپی انڈیکس 2.8 فیصد گر گیا۔ مصنوعی ذہانت (اے آئی) کے بلبلے کے خدشات کے باعث پورے خطے کے بازاروں میں مندی کا رجحان ہے۔
-
-First reported by Al Jazeera
-
-#SouthKorea #Kospi #StockMarket #AIBubble
-```
-
-### Cameroon's Ex-Rebels Caught Between Hiding and Broken Promises  [NORMAL]
-- Poster: کیمرون کے سابق باغی روپوشی اور ٹوٹے ہوئے وعدوں کے درمیان پھنس گئے / Cameroon Ex-Rebels Struggle | category world
-- Alternative headline: Former Rebels in Cameroon Face Arrest Fears and Failed Reintegration
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Cameroon ex-rebels, reintegration, arrest fears, broken promises, world news | hashtags: #Cameroon #ExRebels #Reintegration #WorldNews
-- Scheduled: Mon 23 Nov, 07:29 AM PKT
-- Caption:
-```
-Former rebels in Cameroon are facing severe challenges, caught between the fear of arrest and unfulfilled reintegration promises.
-
-Former rebels in Cameroon find themselves in a precarious situation, grappling with ongoing fears of arrest and the reality of failed reintegration efforts. Many continue to live in hiding as official promises remain unfulfilled.
-
-کیمرون میں سابق باغی گرفتاری کے خوف اور ناکام بحالی کے وعدوں کے درمیان پھنس کر انتہائی کٹھن صورتحال کا سامنا کر رہے ہیں۔ کئی افراد تاحال روپوشی کی زندگی گزارنے پر مجبور ہیں۔
-
-First reported by Al Jazeera
-
-#Cameroon #ExRebels #Reintegration #WorldNews
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
 
 ## Queue status
 - [needs_review] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
@@ -153,7 +153,6 @@ First reported by Al Jazeera
 - [needs_review] normal | PM credits civil-military partnership for economic stability, defends  | Fri 20 Nov, 06:21 AM PKT
 - [needs_review] normal | Cumin-laced fizzy sodas give cola giants a tough fight in India | Fri 20 Nov, 06:31 AM PKT
 - [needs_review] normal | Trump posthumously pardons US baseball legend Pete Rose | Fri 20 Nov, 06:41 AM PKT
-- [published] normal | Houthi Strike Damages Riyadh's Tallest Skyscraper | Fri 20 Nov, 07:26 AM PKT
 - [needs_review] normal | Africa Climate Funding: Europe Urges Using Existing Pledges | Fri 20 Nov, 07:36 AM PKT
 - [needs_review] normal | Indonesian Daycare Principal Jailed Over Child Abuse | Fri 20 Nov, 07:46 AM PKT
 - [needs_review] normal | Meta Rethinks 2030 Climate Goals Amid AI Energy Surge | Fri 20 Nov, 07:56 AM PKT
@@ -366,12 +365,12 @@ First reported by Al Jazeera
 - [needs_review] normal | Aber Kawas makes history as New York's first Palestinian state senator | Mon 23 Nov, 12:46 AM PKT
 - [needs_review] normal | Pakistani national among two injured in Iranian attacks on Bahrain | Mon 23 Nov, 12:56 AM PKT
 - [published] normal | Virginia reports first measles-linked child death of 2026 | Mon 23 Nov, 01:06 AM PKT
-- [queued] normal | Ukrainians search through rubble for missing following deadly Russian  | Mon 23 Nov, 01:16 AM PKT
+- [needs_review] normal | Ukrainians search through rubble for missing following deadly Russian  | Mon 23 Nov, 01:16 AM PKT
 - [queued] promo | [YouTube] MOHSIN NAQVI VS RANA SANAULLAH: WHO WILL BACK DOWN? | Mon 23 Nov, 01:31 AM PKT
-- [queued] normal | PTI urges Bilawal not to back extension of Governor’s Rule | Mon 23 Nov, 01:31 AM PKT
-- [queued] normal | Houthis claim targeted strike on Saudi Arabia's Rabigh refinery | Mon 23 Nov, 01:41 AM PKT
-- [queued] normal | Officials condemn 'horrific' ICE arrests at Seattle airport | Mon 23 Nov, 01:51 AM PKT
-- [queued] normal | Liverpool thrash 10-man Man United 4-0 in nightmare start for Pochetti | Mon 23 Nov, 02:01 AM PKT
+- [needs_review] normal | PTI urges Bilawal not to back extension of Governor’s Rule | Mon 23 Nov, 01:31 AM PKT
+- [needs_review] normal | Houthis claim targeted strike on Saudi Arabia's Rabigh refinery | Mon 23 Nov, 01:41 AM PKT
+- [needs_review] normal | Officials condemn 'horrific' ICE arrests at Seattle airport | Mon 23 Nov, 01:51 AM PKT
+- [published] normal | Liverpool thrash 10-man Man United 4-0 in nightmare start for Pochetti | Mon 23 Nov, 02:01 AM PKT
 - [queued] normal | Washington Governor Slams ICE Raids After Airport Arrests | Mon 23 Nov, 02:24 AM PKT
 - [queued] normal | Democrats Secure Largest House Majority Since 1992 | Mon 23 Nov, 02:34 AM PKT
 - [queued] normal | Cockroaches, Dissent and a Paradigm Shift in India | Mon 23 Nov, 02:44 AM PKT
@@ -392,15 +391,16 @@ First reported by Al Jazeera
 - [queued] normal | Suspected Drone Attack Triggers Explosion on Russian Ship in Libya | Mon 23 Nov, 07:09 AM PKT
 - [queued] normal | South Korea's Stock Market Tumbles Amid Growing AI Bubble Fears | Mon 23 Nov, 07:19 AM PKT
 - [queued] normal | Cameroon's Ex-Rebels Caught Between Hiding and Broken Promises | Mon 23 Nov, 07:29 AM PKT
+- [queued] normal | Pakistani among two injured in Iranian attack on Bahrain | Mon 23 Nov, 07:57 AM PKT
+- [queued] normal | Closing gateway to Central Asia amid regional challenges | Mon 23 Nov, 08:07 AM PKT
+- [queued] normal | Global food import bill projected to rise 1.9pc in 2026: FAO | Mon 23 Nov, 08:17 AM PKT
+- [queued] normal | World economy hinges on Iran peace deal, says Hakan Fidan | Mon 23 Nov, 08:27 AM PKT
 
 ## Publishing this run
-- Published 'Virginia reports first measles-linked child death of 2026'.
+- Published 'Liverpool thrash 10-man Man United 4-0 in nightmare start for Pochettino'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5533 | output tokens: 1934
+- Calls: 3 | prompt tokens: 5621 | output tokens: 1950
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
