@@ -130081,7 +130081,293 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cec10992a8e579e007ee9350",
+      "remembered_at": "2026-11-23T16:30:21.111652+00:00",
+      "event_date": "2026-11-23T14:11:45+00:00",
+      "last_update": "2026-11-23T15:35:51+00:00",
+      "event": "سینیٹر سیف اللّٰہ ابڑو کے 1120 ارب ٹیکس چوری معاملے پر سخت سوالات",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1120",
+        "ابڑو",
+        "ارب",
+        "اللّٰہ",
+        "اٹھادیے۔سینیٹ",
+        "برائے",
+        "داخلہ",
+        "ذیلی",
+        "روپے",
+        "سخت",
+        "سوالات",
+        "سیف",
+        "سینیٹ",
+        "سینیٹر",
+        "معاملے",
+        "میں",
+        "ٹیکس",
+        "چوری",
+        "کمیٹی"
+      ],
+      "source_excerpt": "سینیٹ کی ذیلی کمیٹی برائے داخلہ میں سینیٹر سیف اللّٰہ ابڑو نے 1120 ارب روپے ٹیکس چوری معاملے پر سخت سوالات اٹھادیے۔سینیٹ کی ذیلی کمیٹی...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636049",
+          "published_at": "2026-11-23T14:11:45+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5020434",
+          "published_at": "2026-11-23T15:35:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636049",
+        "publisher_url": "https://jang.com.pk/news/1636049",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7b92805ca4658dac02ade475",
+      "remembered_at": "2026-11-23T16:30:21.111652+00:00",
+      "event_date": "2026-11-23T09:42:33+00:00",
+      "last_update": "2026-11-23T13:40:28+00:00",
+      "event": "7 killed, 2 injured as stone-laden truck overturns onto mini-truck in Bahawalpur",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1122",
+        "abdul",
+        "and",
+        "bahawalpur",
+        "dawn",
+        "district",
+        "dpo",
+        "early",
+        "hit",
+        "injured",
+        "killed",
+        "laden",
+        "lahore",
+        "mini",
+        "monday",
+        "morning",
+        "officer",
+        "official",
+        "onto",
+        "others",
+        "overturned",
+        "overturns",
+        "people",
+        "police",
+        "rana",
+        "rescue",
+        "said",
+        "seven",
+        "sharif",
+        "stone",
+        "that",
+        "the",
+        "told",
+        "truck",
+        "two",
+        "uch",
+        "wahab",
+        "were",
+        "when"
+      ],
+      "source_excerpt": "LAHORE: Seven people were killed and two others were injured when a stone-laden truck hit a mini-truck and overturned onto it in Bahawalpur’s Uch Sharif early on Monday morning, an official and Rescue 1122 said. Bahawalpur District Police Officer (DPO) Rana Abdul Wahab told Dawn that the mini-truck,",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046527/7-killed-2-injured-as-stone-laden-truck-overturns-onto-mini-truck-in-bahawalpur",
+          "published_at": "2026-11-23T09:42:33+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3FWZUhiVTNKcm1vT0JnRWlHRHF3ampqTHVVN1FyUDZVR2pWUlFTZVFSNFdYRm5YN01HaEpGeklvOUp4ckdLOHZmcEYzYmlMVHB4Q0xBcVRKTlpKeVlFcE5tbHBReVhNcUFwOTg4Ymk5V3o2UHlQblctQ1hQMTdPYWN5c0xBeWVvRDB3SFVRRWJpTl9QZmswbEVUdEc0QTVrWkNQZm5pT3B2b25Tb29Ndzh3Q2dzcW8?oc=5",
+          "published_at": "2026-11-23T13:40:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046527/7-killed-2-injured-as-stone-laden-truck-overturns-onto-mini-truck-in-bahawalpur",
+        "publisher_url": "https://www.dawn.com/news/2046527/7-killed-2-injured-as-stone-laden-truck-overturns-onto-mini-truck-in-bahawalpur",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "81cd400d09a8e4da9e91e449",
+      "remembered_at": "2026-11-23T16:30:21.111652+00:00",
+      "event_date": "2026-11-23T15:40:15+00:00",
+      "last_update": "2026-11-23T15:40:15+00:00",
+      "event": "Israeli soldiers assault Palestinian after raiding his home",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "assault",
+        "bank",
+        "during",
+        "forces",
+        "his",
+        "home",
+        "israeli",
+        "man",
+        "occupied",
+        "palestinian",
+        "raid",
+        "raiding",
+        "soldiers",
+        "the",
+        "west"
+      ],
+      "source_excerpt": "Israeli forces assault a Palestinian man during a raid on his home in the occupied West Bank.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-soldiers-assault-palestinian-after-raiding-his-home?traffic_source=rss",
+          "published_at": "2026-11-23T15:40:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-soldiers-assault-palestinian-after-raiding-his-home?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-soldiers-assault-palestinian-after-raiding-his-home?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "88614ee257b8de1e82c2b3bc",
+      "remembered_at": "2026-11-23T16:30:21.111652+00:00",
+      "event_date": "2026-11-23T15:49:52+00:00",
+      "last_update": "2026-11-23T15:49:52+00:00",
+      "event": "The rise and fall and rise again of Jensen Huang",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affairs",
+        "after",
+        "again",
+        "and",
+        "days",
+        "extra",
+        "fall",
+        "huang",
+        "jensen",
+        "making",
+        "marital",
+        "mired",
+        "nvidia",
+        "remarkable",
+        "resigning",
+        "return",
+        "rise",
+        "scandal",
+        "the",
+        "while"
+      ],
+      "source_excerpt": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T15:49:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cf94e7e5e73cef7510e324f6",
+      "remembered_at": "2026-11-23T16:30:21.111652+00:00",
+      "event_date": "2026-11-23T15:48:07+00:00",
+      "last_update": "2026-11-23T15:48:07+00:00",
+      "event": "Village's concern over sewage discharge in dry river",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "call",
+        "campaigners",
+        "concern",
+        "discharge",
+        "discharging",
+        "drought",
+        "dry",
+        "during",
+        "effluent",
+        "for",
+        "over",
+        "plant",
+        "restrictions",
+        "river",
+        "sewage",
+        "treatment",
+        "village"
+      ],
+      "source_excerpt": "Campaigners call for restrictions on sewage treatment plant discharging effluent during drought",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T15:48:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T15:29:16.562059+00:00"
+  "updated_at": "2026-11-23T16:30:21.111652+00:00"
 }

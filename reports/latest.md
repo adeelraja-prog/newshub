@@ -1,35 +1,35 @@
-# News Hub report - Mon 23 Nov, 08:29 PM PKT
+# News Hub report - Mon 23 Nov, 09:30 PM PKT
 
 ## Collection
-- New items this run: 184 | items in rolling pool: 964
-- Unique story clusters: 775 (duplicates merged: 189)
-- Clusters dropped as already published/queued: 19; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 100, Geo News 15, ARY News 6, ProPakistani 6, The Verge 5, Jang Urdu 4, TechJuice 4, Pakistan Today 4, samaa tv 3, Dawn Latest 3, The Express Tribune 3, TechCrunch 3
+- New items this run: 80 | items in rolling pool: 929
+- Unique story clusters: 733 (duplicates merged: 196)
+- Clusters dropped as already published/queued: 15; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 33, Geo News 7, TechJuice 4, Al Jazeera 3, The Guardian 3, Engadget 3, Bloomberg.com 2, The Verge 2, TechCrunch 2, BBC Technology 2, Dawn 1, Dawn Pakistan 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during delegation-level talks in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Geo Pakistan | 23 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during delegation-level talks in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Geo Pakistan | 23 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during delegation-level talks in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Geo Pakistan | 23 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,15 +38,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 6 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
+- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 7
 
 ## Queue status
-- [needs_review] normal | NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Launderi | Fri 20 Nov, 02:10 PM PKT
-- [needs_review] normal | Trump Ousts US Cyber Director After Tech Outages Spark Criticism | Fri 20 Nov, 02:20 PM PKT
-- [needs_review] normal | Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case | Fri 20 Nov, 02:30 PM PKT
 - [needs_review] normal | Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb | Fri 20 Nov, 03:20 PM PKT
 - [needs_review] normal | El Salvador’s President Bukele Seeks Third Term After Constitutional C | Fri 20 Nov, 03:30 PM PKT
 - [needs_review] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
@@ -58,7 +55,6 @@
 - [needs_review] normal | Supreme Court of Pakistan Receives International ISO Certification | Fri 20 Nov, 07:18 PM PKT
 - [needs_review] normal | Spain to Face France and England Take on Norway in Nations League Quar | Fri 20 Nov, 07:51 PM PKT
 - [needs_review] normal | Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperatio | Fri 20 Nov, 08:01 PM PKT
-- [published] normal | Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over  | Fri 20 Nov, 08:41 PM PKT
 - [needs_review] normal | Ringleader pleads guilty to massive $100 million US jewellery heist | Fri 20 Nov, 08:51 PM PKT
 - [needs_review] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
 - [needs_review] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
@@ -274,12 +270,12 @@
 - [published] normal | What Lies Ahead After Climate Talks Fail to Reach Consensus? | Mon 23 Nov, 01:22 PM PKT
 - [needs_review] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
 - [published] normal | Naqvi and Shujaat Discuss New Provinces and Devolution in Lahore | Mon 23 Nov, 02:45 PM PKT
-- [queued] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
-- [queued] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
-- [queued] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
+- [needs_review] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
+- [needs_review] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
+- [needs_review] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
 - [queued] promo | [YouTube] IMRAN KHAN’S HEALTH, MARYAM NAWAZ’S PLANE & PTI POWER POLITI | Mon 23 Nov, 03:50 PM PKT
 - [queued] promo | [YouTube] SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO! | Mon 23 Nov, 04:43 PM PKT
-- [queued] normal | Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity | Mon 23 Nov, 04:43 PM PKT
+- [published] normal | Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity | Mon 23 Nov, 04:43 PM PKT
 - [queued] normal | Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port | Mon 23 Nov, 04:53 PM PKT
 - [queued] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
 - [queued] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
@@ -289,7 +285,7 @@
 - [queued] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
 
 ## Publishing this run
-- Published 'Naqvi and Shujaat Discuss New Provinces and Devolution in Lahore'.
+- Published 'Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
