@@ -128434,7 +128434,1148 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9d001ac0c12b9a04940a4388",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T09:38:45+00:00",
+      "last_update": "2026-11-23T13:18:45+00:00",
+      "event": "Iran says it will use ‘all available means’ to counter US blockade",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affairs",
+        "all",
+        "and",
+        "available",
+        "blockade",
+        "confront",
+        "counter",
+        "defend",
+        "foreign",
+        "iran",
+        "itself",
+        "means",
+        "ministry",
+        "naval",
+        "says",
+        "siege",
+        "the",
+        "tools",
+        "use",
+        "will"
+      ],
+      "source_excerpt": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWxsYjRUNUVtQlVrWm1YSFE3eHduckRPNW5CN0llMTJydFI3dGJIa2ZiTENBSU9HYVYtejVzM2JVUy1nbW9wQmdOZGJhdTlMT2R6cTBYNmFUME9aZ1BhTFI2THpRdlJRY21UeW9odHdFWGZxSjlTSVQ5VlBOV2pSckFraW1JWUtOd3dqVWFDZC0yM0t4RFRKWEktV29YTFdLTlJlZ1NsNlcyZ3phdzlVcTlCQ0pTM29GODhJUDVjUQ?oc=5",
+          "published_at": "2026-11-23T09:38:45+00:00"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUlsRWg2Szd1Z3JjWkRCcFVMdTh1cDhrT0lxUEZ0UXRHVjZ5QWJaSWRFVmxfT2Nlcnp5UjZPOG9MaFE0SmZ5UndIejdacWRYT3hGVHZiNVQ1a1lOa0tUZVdjRm1rVDZkMWRPTWd2R0JLamZfYm1lcEREbE12ajRCNTZSdERlMFpObDVFSkowV2h3THRkdlFoMUxR?oc=5",
+          "published_at": "2026-11-23T11:30:37+00:00"
+        },
+        {
+          "name": "Khaleej Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWNSTFpsYklxa2l2QU1GU0haVkxxeEQ4UzNGSE9zZVRsUWN0M2puclEzVEdNRGpvMTRiejlHeG5ocC1iOWM0SE5uTmUtdE0wZXFJb1RfTHhLSDhBUEhrLXlqam5Gb0pxa1daZlFiN1J3R01nX3ZQYjlmdHNOSTJoWHgzUFNZU2ZZYnhleE5ERW5JZ2cxR2xtREJiN25ESkxZNUxaNzl3OUY4bkU?oc=5",
+          "published_at": "2026-11-23T11:47:29+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+          "published_at": "2026-11-23T13:04:11+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTktLdU1YVmxRUnlCdUNRZmlIdWloVW12TFNEZGVMdXhoWHdpWGdIMmpkMTJnNWdFdXh2WlhFYWNzckVtcFotcW9ya2JHd1VmLVY2b2hsTFdObno2Q0IxM3oyYWsySUszUEtiTHlEV3JOaW1ZbmJ3YUc4X3BndTRMbmJteXpGTG1VZDU3clloNWNtd3RXdEx5dVdQSlZ6TS14T0tpbUg2eXlZZ9IBrwFBVV95cUxObFRhRTR4SXZfbVZ4c0VMbnJvVVNZbFBjaGw5S29VUG1kcXRieXJjUEROZUoyQTRvSGFOeDdKNUpYbmN4UmZxcTAzNmZjOWR2SmJhVHVHTkxBbUJtc2hjT1NGOTZOUzhpbHZsQ0FKNWhQYkl1S0ZRcTdaTWMzU2N4QnBGV1cwOGpJNERSbmJwYzVNRERpb0JwTGlrUmp4LWczVXVxTXkzLXNRS05JNzBV?oc=5",
+          "published_at": "2026-11-23T13:18:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b09b3869f92137e3c1180012",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T08:24:02+00:00",
+      "last_update": "2026-11-23T13:40:25+00:00",
+      "event": "Pakistan, Portugal agree to establish joint trade, investment commission",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agree",
+        "commission",
+        "establish",
+        "investment",
+        "joint",
+        "pakistan",
+        "portugal",
+        "samaa",
+        "trade"
+      ],
+      "source_excerpt": "Pakistan, Portugal agree to establish joint trade, investment commission samaa tv",
+      "sources": [
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXVtdnlfU0ZLZDV6WjM5SU1LeTY4U1o1SUFlUFlqYlU4UUdkOWVVZlQxWmwzb3BDMW1WVEZXYThGUGROZk5sai1VWUtLdmRLY2czMlg1SnpvZWRsTWtkdFVfR2xkQ1dqbEhVSjlzdG1Qa1UtNm90SlN0ZFJXRnN2blJjTk9uX3MzcG45Q0dnTTNMT3N5R0NJVDNTQVFjWEVG?oc=5",
+          "published_at": "2026-11-23T08:24:02+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTVPRTZORDJOY0MwdURqSnhmaDZ3b2w3RG9QUXJHQVVjYVZDTnlIT2VQWmFJUFBvN3E4UFpMb1pvWWdZSFVtWXRVU0d1anhPRlBuSTVJZXZhTXdxTGlMcWI3dExBLW9PVVBUdWNHVDhQMUc1WjhtVklwSVR4YnBacENrNU5HREhDYW9wVkVyQ0RpQkxCM1U2U1VjNFgxNXNibFA3ZQ?oc=5",
+          "published_at": "2026-11-23T11:46:14+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVp0MzUwdjJZUjJaU2szMEhFWU83NFIzZ2Z5ZFZuei05U3JmZDNXODFEa0VBODlENGN2dnBqNW9qN3ZITVlQcGU5MnlzRVBtdTVhQ25xSUtWdlk0aUJtU0M1VUlDV256cmdwTmhNM21ZUXV2YmpCeFI5TVUtYXNubG9pbkdIa2cyelZMV2tpNEJ6bHQ0clVoaWVoSlJCRW04b3NKclE3ODdIUWRrRnc3NWhOcjhSUXRSN293eElZTUtoQdIBU0FVX3lxTE1hVXdyei0yaHFiWDY2RjhTSkFnLXpNMGJzX0xkV3VjYkdOZ055dlZHTk42Z0JpWUZEQi1tUXNjTXRrcmVGU2l0ZkNfUnMzMFNOMnZJ?oc=5",
+          "published_at": "2026-11-23T12:29:20+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWFwVVFBOTRfVk93X0NyeVItanVldFR6MTNiRGZmVjlDcUZnakVuVzZvbnBpMjNqc3dzejRxOFdjS3F5YlV1QVprM29yOXdDb2wwZGV3OGJkdW0zUkJtSEc3QWhiZEJSNmxidndxaWRSSEM2UVU4UmNCQ2Y1Mk5wTFpYM1JYTnlVWFhvRDdmMExxazIxazdxcHJBbGVwVHE0OXFsb9IBU0FVX3lxTE1hVXdyei0yaHFiWDY2RjhTSkFnLXpNMGJzX0xkV3VjYkdOZ055dlZHTk42Z0JpWUZEQi1tUXNjTXRrcmVGU2l0ZkNfUnMzMFNOMnZJ?oc=5",
+          "published_at": "2026-11-23T13:40:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTVPRTZORDJOY0MwdURqSnhmaDZ3b2w3RG9QUXJHQVVjYVZDTnlIT2VQWmFJUFBvN3E4UFpMb1pvWWdZSFVtWXRVU0d1anhPRlBuSTVJZXZhTXdxTGlMcWI3dExBLW9PVVBUdWNHVDhQMUc1WjhtVklwSVR4YnBacENrNU5HREhDYW9wVkVyQ0RpQkxCM1U2U1VjNFgxNXNibFA3ZQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "436de94ba20e66dac99a03b1",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T10:00:06+00:00",
+      "last_update": "2026-11-23T13:27:59+00:00",
+      "event": "Let's get digital: Punjab introduces on-screen marking system with facial recognition for board exams",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "board",
+        "boards",
+        "check",
+        "digital",
+        "education",
+        "effort",
+        "examination",
+        "exams",
+        "facial",
+        "for",
+        "get",
+        "government",
+        "has",
+        "improve",
+        "intermediate",
+        "introduced",
+        "introduces",
+        "lahore",
+        "let",
+        "marking",
+        "modernise",
+        "nine",
+        "papers",
+        "process",
+        "province",
+        "punjab",
+        "recognition",
+        "screen",
+        "secondary",
+        "students",
+        "system",
+        "the",
+        "transparency",
+        "under",
+        "with"
+      ],
+      "source_excerpt": "LAHORE: The Punjab government has introduced a digital on-screen marking system with facial recognition to check examination papers in an effort to modernise the process and improve transparency across the province’s nine boards for intermediate and secondary education. Under the system, students’ h",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/23/punjab-introduces-digital-plan-after-poor-board-exams-results/",
+          "published_at": "2026-11-23T10:00:06+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/punjab-introduces-online-domicile-system/",
+          "published_at": "2026-11-23T13:00:10+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046551/lets-get-digital-punjab-introduces-on-screen-marking-system-with-facial-recognition-for-board-exams",
+          "published_at": "2026-11-23T13:27:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046551/lets-get-digital-punjab-introduces-on-screen-marking-system-with-facial-recognition-for-board-exams",
+        "publisher_url": "https://www.dawn.com/news/2046551/lets-get-digital-punjab-introduces-on-screen-marking-system-with-facial-recognition-for-board-exams",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6f09c65a4c9d84016a4bdc43",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T08:26:32+00:00",
+      "last_update": "2026-11-23T13:40:28+00:00",
+      "event": "7 killed, 2 injured as stone-laden truck overturns onto mini-truck in Bahawalpur",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1122",
+        "abdul",
+        "and",
+        "bahawalpur",
+        "dawn",
+        "district",
+        "dpo",
+        "early",
+        "hit",
+        "injured",
+        "killed",
+        "laden",
+        "lahore",
+        "mini",
+        "monday",
+        "morning",
+        "officer",
+        "official",
+        "onto",
+        "others",
+        "overturned",
+        "overturns",
+        "people",
+        "police",
+        "rana",
+        "rescue",
+        "said",
+        "seven",
+        "sharif",
+        "stone",
+        "that",
+        "the",
+        "told",
+        "truck",
+        "two",
+        "uch",
+        "wahab",
+        "were",
+        "when"
+      ],
+      "source_excerpt": "LAHORE: Seven people were killed and two others were injured when a stone-laden truck hit a mini-truck and overturned onto it in Bahawalpur’s Uch Sharif early on Monday morning, an official and Rescue 1122 said. Bahawalpur District Police Officer (DPO) Rana Abdul Wahab told Dawn that the mini-truck,",
+      "sources": [
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/seven-killed-as-stones-laden-truck-flips-onto-loader-in-ahmedpur-sharqia/",
+          "published_at": "2026-11-23T08:26:32+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046527/7-killed-2-injured-as-stone-laden-truck-overturns-onto-mini-truck-in-bahawalpur",
+          "published_at": "2026-11-23T09:42:33+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3FWZUhiVTNKcm1vT0JnRWlHRHF3ampqTHVVN1FyUDZVR2pWUlFTZVFSNFdYRm5YN01HaEpGeklvOUp4ckdLOHZmcEYzYmlMVHB4Q0xBcVRKTlpKeVlFcE5tbHBReVhNcUFwOTg4Ymk5V3o2UHlQblctQ1hQMTdPYWN5c0xBeWVvRDB3SFVRRWJpTl9QZmswbEVUdEc0QTVrWkNQZm5pT3B2b25Tb29Ndzh3Q2dzcW8?oc=5",
+          "published_at": "2026-11-23T13:40:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046527/7-killed-2-injured-as-stone-laden-truck-overturns-onto-mini-truck-in-bahawalpur",
+        "publisher_url": "https://www.dawn.com/news/2046527/7-killed-2-injured-as-stone-laden-truck-overturns-onto-mini-truck-in-bahawalpur",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f9531f3304c1f9999e4574e9",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T13:54:46+00:00",
+      "last_update": "2026-11-23T14:06:29+00:00",
+      "event": "PSL opening ceremony, first match to be held in Peshawar",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ceremony",
+        "first",
+        "held",
+        "match",
+        "opening",
+        "peshawar",
+        "psl",
+        "samaa"
+      ],
+      "source_excerpt": "PSL opening ceremony, first match to be held in Peshawar samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnVac1N5eXQ2XzFHdndsRlFUQ3BPT1l4VWZ2OVQyS05vaklsSkhyXzd2T0czVmRCVVBNNEtQSVRTRFFkdXBzTjBZd0VnOEJpYTF4a0J4T0dPZVk1U2g5ZjNROGo2aDVVZEVVcER0YVFfQldJaExKcTZ1bm9MYzlBdXRGV0xscmVqb09IemxCQV8?oc=5",
+          "published_at": "2026-11-23T13:54:46+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGJRWlZMal92aGwwTGdWZkpBekRVUjFvVVFwdDZaNnpYSVdWaDhLZHpRZC1ReXBsTWc4VUpnTHFoTUxjR193eXZJbUVmODJMVHZaTzhCdnBKTE9KTUs5Yk9Ma1hpSGRXUDI3YTB4c29pNmRyMWVRNW1Od2JiMThkUWl1SXhOM3RoOFlCOC1PcHZ3UlhQcFpIUFB4MU1hZDAwOTZJYVJuYS1EMDg2Ti0yT1N3bmFlQQ?oc=5",
+          "published_at": "2026-11-23T14:03:32+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046559/peshawar-to-host-opening-ceremony-inaugural-match-for-12-edition-of-psl-pcb-chief",
+          "published_at": "2026-11-23T14:06:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnVac1N5eXQ2XzFHdndsRlFUQ3BPT1l4VWZ2OVQyS05vaklsSkhyXzd2T0czVmRCVVBNNEtQSVRTRFFkdXBzTjBZd0VnOEJpYTF4a0J4T0dPZVk1U2g5ZjNROGo2aDVVZEVVcER0YVFfQldJaExKcTZ1bm9MYzlBdXRGV0xscmVqb09IemxCQV8?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "60b86f087d3df100fa330d72",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T09:55:00+00:00",
+      "last_update": "2026-11-23T13:37:43+00:00",
+      "event": "Russia ready to launch nuclear-armed satellite: report",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2017",
+        "amur",
+        "armed",
+        "concluded",
+        "cosmodrome",
+        "frankfurt",
+        "from",
+        "have",
+        "intelligence",
+        "launch",
+        "launches",
+        "members",
+        "nato",
+        "near",
+        "new",
+        "november",
+        "nuclear",
+        "plans",
+        "ready",
+        "region",
+        "report",
+        "reuters",
+        "russia",
+        "satellite",
+        "services",
+        "souyz",
+        "spacecraft",
+        "that",
+        "the",
+        "town",
+        "tsiolkovsky",
+        "vostochny",
+        "with"
+      ],
+      "source_excerpt": "The Souyz-2 spacecraft launches from Russia's new Vostochny cosmodrome, near the town of Tsiolkovsky in Amur region, Russia November 28, 2017. — Reuters FRANKFURT: Nato members' intelligence services have concluded that Russia plans to launch a satellite armed with a nuclear...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692272-russia-ready-to-launch-nuclear-armed-satellite-report",
+          "published_at": "2026-11-23T09:55:00+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0NqcUdkemNXY2ZXbkhtQVN6RjhHU25GR2hROUhLZmN1ZlhsUnAwR3ExLXA0bWtRd0YxbWsybF9pT3pPdE9pZjF6c0J3LXg5OVJFRjI1a2FuSWZyeV9fc1lGQWsza3VXbUtIXzFaRW9FSktDWGdOenFtbXYySmxJa05WaDNvS1NGV0lndWhrSE9kaGtYRDlra2ZCR2d6QkNyRmFobVJ3dmd1Y2l1QXNEd29KdVpnSlZC0gHAAUFVX3lxTE4xV3FVdFNycURtdE5HUkJ2X0UzTmFDN1NaSS1OWTVrVnItYXd0eDdhTkZ6amhoWVM4bXZCU2xPeE80S0Y1eWtLYXNVVktuV0NDd3BiX3VRcGtPRlNSYk1zQkhoLUtycEtvZGtfVEVhaHJoaG5jT29aRFdvMWdhYjR3ZC1mUkpNTnlpQkR0ZVp3RmJkWUM2VEtjM25yMHViX1dwZTR2VVZ2TW41RHVkTjBjVVNxSGtITnpmc3M0djR1Vw?oc=5",
+          "published_at": "2026-11-23T13:37:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692272-russia-ready-to-launch-nuclear-armed-satellite-report",
+        "publisher_url": "https://www.geo.tv/latest/692272-russia-ready-to-launch-nuclear-armed-satellite-report",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a6de047332304e7a9e36a0eb",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T10:06:36+00:00",
+      "last_update": "2026-11-23T13:22:58+00:00",
+      "event": "TikTok redesigns Family Pairing dashboard with new parental insights and tools",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "dashboard",
+        "family",
+        "insights",
+        "new",
+        "pairing",
+        "parental",
+        "redesigns",
+        "tiktok",
+        "tools",
+        "with"
+      ],
+      "source_excerpt": "TikTok redesigns Family Pairing dashboard with new parental insights and tools",
+      "sources": [
+        {
+          "name": "PhoneWorld",
+          "url": "https://www.phoneworld.com.pk/tiktok-redesigns-family-pairing-with-new-parental-insights-and-educator-resources/",
+          "published_at": "2026-11-23T10:06:36+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/tiktok-redesigns-family-pairing-dashboard-with-new-parental-insights-and-tools",
+          "published_at": "2026-11-23T13:22:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/tiktok-redesigns-family-pairing-dashboard-with-new-parental-insights-and-tools",
+        "publisher_url": "https://arynews.tv/tiktok-redesigns-family-pairing-dashboard-with-new-parental-insights-and-tools",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cbe044abd9d7b6222ff3deec",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T09:47:32+00:00",
+      "last_update": "2026-11-23T14:04:14+00:00",
+      "event": "Kamran Mujahid challenges Sheheryar Munawar to prove his versatility",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "challenges",
+        "his",
+        "kamran",
+        "mujahid",
+        "munawar",
+        "prove",
+        "samaa",
+        "sheheryar",
+        "versatility"
+      ],
+      "source_excerpt": "Kamran Mujahid challenges Sheheryar Munawar to prove his versatility samaa tv",
+      "sources": [
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/do-something-a-little-different-kamran-mujahid-challenges-sheheryar-munawar/",
+          "published_at": "2026-11-23T09:47:32+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTDlpU0dsNHNnV3B2ZHFZRTBxc2txTHJuMURFQ2x1Nlprc094Z25SVUlrWE1xUXJVdkh5aFljQk1jM2RCU1ozTm1xbVc4bWd2aXhySWNJcXN2YlhySXdGNkpIeWZVLVZNWWdtVHRubVkyTzY0ZDNQR0VQRWFPS3Jhb2pHZ3NZZUVDNUR1R0pxQkpPRUFQeTRYZUY3c0tmR0kxcVE?oc=5",
+          "published_at": "2026-11-23T14:04:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTDlpU0dsNHNnV3B2ZHFZRTBxc2txTHJuMURFQ2x1Nlprc094Z25SVUlrWE1xUXJVdkh5aFljQk1jM2RCU1ozTm1xbVc4bWd2aXhySWNJcXN2YlhySXdGNkpIeWZVLVZNWWdtVHRubVkyTzY0ZDNQR0VQRWFPS3Jhb2pHZ3NZZUVDNUR1R0pxQkpPRUFQeTRYZUY3c0tmR0kxcVE?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3cdc85dcc3d0a055af40745e",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T11:34:09+00:00",
+      "last_update": "2026-11-23T12:45:35+00:00",
+      "event": "Bilawal calls for restoring supremacy of Parliament and trust in judiciary, electoral system",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "addressing",
+        "and",
+        "any",
+        "bhutto",
+        "bilawal",
+        "called",
+        "calls",
+        "card",
+        "chairman",
+        "electoral",
+        "event",
+        "for",
+        "judiciary",
+        "launch",
+        "made",
+        "mark",
+        "monday",
+        "pakistan",
+        "parliament",
+        "ppp",
+        "remarks",
+        "restore",
+        "restoring",
+        "sindh",
+        "supremacy",
+        "system",
+        "the",
+        "trust",
+        "well",
+        "while",
+        "youth",
+        "zardari"
+      ],
+      "source_excerpt": "PPP Chairman Bilawal Bhutto-Zardari on Monday called for restoring the supremacy of the Parliament as well as trust in the judiciary and the electoral system. He made the remarks while addressing an event to mark the launch of the Sindh Youth Card. “To restore the trust of Pakistan’s youth, if any r",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046543/bilawal-calls-for-restoring-supremacy-of-parliament-and-trust-in-judiciary-electoral-system",
+          "published_at": "2026-11-23T11:34:09+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTUVlVEl0dHhiY09Ccld6bkpzRVYtOGdoUVlqWmt0Rm9VaW51UHpjMUdaNE5ydHdqZTVyeUxtci1KY3JKUE5HVV9KdDhaNGhUNHdHOGZ4M3l5VTFiNS12TmZmT1RjY0xLaFE4bDRmMzhkNzUxZ2t0LVNEajNHcWo0akV5UTlVcVY5Q0loUktNdGo3MWNfU2xGZldpSEV4VXg2Yi05WHNyZnZnclR5YWJ0S3B0Nm11dGd1WEV0U05vMWM2VU0?oc=5",
+          "published_at": "2026-11-23T12:45:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046543/bilawal-calls-for-restoring-supremacy-of-parliament-and-trust-in-judiciary-electoral-system",
+        "publisher_url": "https://www.dawn.com/news/2046543/bilawal-calls-for-restoring-supremacy-of-parliament-and-trust-in-judiciary-electoral-system",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f300ba0edaf4ebba6b2860f0",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T13:23:14+00:00",
+      "last_update": "2026-11-23T13:40:18+00:00",
+      "event": "PCB announces Pakistan U19 squads for England series",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announces",
+        "england",
+        "for",
+        "pakistan",
+        "pcb",
+        "samaa",
+        "series",
+        "squads",
+        "u19"
+      ],
+      "source_excerpt": "PCB announces Pakistan U19 squads for England series samaa tv",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/23/pakistan-announces-squads-and-schedule-for-u19-series-against-england/",
+          "published_at": "2026-11-23T13:23:14+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQODNXQ2JtR29xWk1kUDI2WFJyOEhldzZERldDdmlOTnUyQkVLS3NvY2NURnVJSDlQdEsxa09fRzkyZTZ6ay1CYkhxOTd4N1U4bE5WRHVZMkwtQjlvMWxxTmYwdHo1VFZ3M3ZjQnJvdVlqRmR4SWcwWldkTWsxRFo5WXg2VENKeUlvaHFRZg?oc=5",
+          "published_at": "2026-11-23T13:40:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQODNXQ2JtR29xWk1kUDI2WFJyOEhldzZERldDdmlOTnUyQkVLS3NvY2NURnVJSDlQdEsxa09fRzkyZTZ6ay1CYkhxOTd4N1U4bE5WRHVZMkwtQjlvMWxxTmYwdHo1VFZ3M3ZjQnJvdVlqRmR4SWcwWldkTWsxRFo5WXg2VENKeUlvaHFRZg?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "446e0c4d8a23a7003855e1c7",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T12:52:56+00:00",
+      "last_update": "2026-11-23T13:15:54+00:00",
+      "event": "Pakistan, Malaysia reaffirm commitment to strengthening bilateral defence ties: ISPR",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bilateral",
+        "commitment",
+        "dawn",
+        "defence",
+        "ispr",
+        "malaysia",
+        "pakistan",
+        "reaffirm",
+        "strengthening",
+        "ties"
+      ],
+      "source_excerpt": "Pakistan, Malaysia reaffirm commitment to strengthening bilateral defence ties: ISPR Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZTAtSHhFMlI4M3ppNjZNNV9Jb0lKS01ySEE4SmpCUEtDbTZsOFRmaDhOUldzZTA5VEh4QTBFYm5DWENJejVNcU9vQjhaMk41eWxfQkxvTmw4UGhaYWFtTVFIaGxZYnZDYXJGczBic1NtSDc2QnBvWmd5RmlYMDFEQjdYVmNZdElnLTdBTnRYR3J4cHRHUzVLdnR4bjVvM2tvU1E3Z0twR25XUV96T0h6YmZPYVJjT1k?oc=5",
+          "published_at": "2026-11-23T12:52:56+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046549/pakistan-malaysia-reaffirm-commitment-to-strengthening-bilateral-defence-ties-ispr",
+          "published_at": "2026-11-23T13:15:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZTAtSHhFMlI4M3ppNjZNNV9Jb0lKS01ySEE4SmpCUEtDbTZsOFRmaDhOUldzZTA5VEh4QTBFYm5DWENJejVNcU9vQjhaMk41eWxfQkxvTmw4UGhaYWFtTVFIaGxZYnZDYXJGczBic1NtSDc2QnBvWmd5RmlYMDFEQjdYVmNZdElnLTdBTnRYR3J4cHRHUzVLdnR4bjVvM2tvU1E3Z0twR25XUV96T0h6YmZPYVJjT1k?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3d0eb5eec0ed6323bb4076f0",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T13:54:48+00:00",
+      "last_update": "2026-11-23T13:54:48+00:00",
+      "event": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aid",
+        "batteries",
+        "cut",
+        "facing",
+        "gaza",
+        "have",
+        "hearing",
+        "israeli",
+        "left",
+        "off",
+        "restrictions",
+        "severe",
+        "shortage",
+        "supplies",
+        "vital"
+      ],
+      "source_excerpt": "Israeli restrictions have left Gaza facing a severe shortage of hearing aid batteries.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
+          "published_at": "2026-11-23T13:54:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d942787140f97edee091fa97",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T13:45:16+00:00",
+      "last_update": "2026-11-23T13:45:16+00:00",
+      "event": "Anti-austerity strike spurs transport chaos across Belgium",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "against",
+        "anti",
+        "austerity",
+        "balance",
+        "belgium",
+        "causes",
+        "chaos",
+        "disruption",
+        "fate",
+        "government",
+        "hanging",
+        "national",
+        "planned",
+        "spurs",
+        "strike",
+        "the",
+        "transport",
+        "widespread",
+        "with"
+      ],
+      "source_excerpt": "National strike against planned austerity causes widespread disruption, with government's fate hanging in the balance.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
+          "published_at": "2026-11-23T13:45:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b2d53f2c5e354aba09340469",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T13:36:00+00:00",
+      "last_update": "2026-11-23T13:36:00+00:00",
+      "event": "COP31 has failed. The climate system is working as designed",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "climate",
+        "cop31",
+        "countries",
+        "designed",
+        "diplomacy",
+        "exposes",
+        "failed",
+        "failure",
+        "fossil",
+        "fuel",
+        "has",
+        "leaving",
+        "pay",
+        "power",
+        "price",
+        "protects",
+        "system",
+        "that",
+        "the",
+        "vulnerable",
+        "while",
+        "working"
+      ],
+      "source_excerpt": "The failure exposes a diplomacy that protects fossil-fuel power while leaving vulnerable countries to pay the price.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss",
+          "published_at": "2026-11-23T13:36:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dde57a71f8ec9e98d6dff97d",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T12:40:21+00:00",
+      "last_update": "2026-11-23T12:40:21+00:00",
+      "event": "Argentina footballer Paredes collapses during post-match interview",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "argentina",
+        "argentinian",
+        "collapsed",
+        "collapses",
+        "colombia",
+        "during",
+        "footballer",
+        "interview",
+        "leandro",
+        "match",
+        "paredes",
+        "post",
+        "their",
+        "win"
+      ],
+      "source_excerpt": "Argentinian footballer Leandro Paredes collapsed during a post-match interview after their win in Colombia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss",
+          "published_at": "2026-11-23T12:40:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "34a619a9b2fa14df3d6ce171",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T14:08:50+00:00",
+      "last_update": "2026-11-23T14:08:50+00:00",
+      "event": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "again",
+        "and",
+        "arion",
+        "carried",
+        "don",
+        "games",
+        "gta",
+        "guilty",
+        "hack",
+        "hacker",
+        "happen",
+        "kurtaj",
+        "let",
+        "licence",
+        "old",
+        "others",
+        "out",
+        "pleaded",
+        "released",
+        "rockstar",
+        "teenager",
+        "the",
+        "this",
+        "warning",
+        "was",
+        "when",
+        "with",
+        "year"
+      ],
+      "source_excerpt": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T14:08:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a36e7ee2bc824d34e277ed33",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T13:52:40+00:00",
+      "last_update": "2026-11-23T13:52:40+00:00",
+      "event": "Welfare cuts: What's been happening with Pip and universal credit?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "been",
+        "benefits",
+        "commissioned",
+        "credit",
+        "cuts",
+        "down",
+        "forced",
+        "government",
+        "happening",
+        "into",
+        "last",
+        "pip",
+        "planned",
+        "review",
+        "the",
+        "universal",
+        "was",
+        "water",
+        "welfare",
+        "what",
+        "with",
+        "year"
+      ],
+      "source_excerpt": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T13:52:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b0cf7a0410eafe237e8f5c4",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T13:26:36+00:00",
+      "last_update": "2026-11-23T13:26:36+00:00",
+      "event": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "are",
+        "arrest",
+        "arrested",
+        "attacked",
+        "chapo",
+        "drug",
+        "eight",
+        "establish",
+        "firing",
+        "following",
+        "isidro",
+        "lord",
+        "mexican",
+        "order",
+        "soldiers",
+        "suspects",
+        "the",
+        "trying",
+        "wake"
+      ],
+      "source_excerpt": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T13:26:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a620fb105312df4a1b3d154e",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T13:39:30+00:00",
+      "last_update": "2026-11-23T13:39:30+00:00",
+      "event": "Nepal PM Balendra Shah visit: India to give $1.62bn economic package",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "62bn",
+        "balendra",
+        "bbc",
+        "economic",
+        "give",
+        "india",
+        "nepal",
+        "package",
+        "shah",
+        "visit"
+      ],
+      "source_excerpt": "Nepal PM Balendra Shah visit: India to give $1.62bn economic package BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BSHRycnFnTGJEUzFNUElLc1NZSV8yczlGNnFXdWJKa2NhRDBZb2R0bkhsZF9RRXpmOG42LW9kYjdKbUIzamZMcno0ajlJa1l5V2dxbmdVVnA4RUk?oc=5",
+          "published_at": "2026-11-23T13:39:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BSHRycnFnTGJEUzFNUElLc1NZSV8yczlGNnFXdWJKa2NhRDBZb2R0bkhsZF9RRXpmOG42LW9kYjdKbUIzamZMcno0ajlJa1l5V2dxbmdVVnA4RUk?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "13c3dcb8387c58bf65e6e52b",
+      "remembered_at": "2026-11-23T14:15:39.755875+00:00",
+      "event_date": "2026-11-23T13:19:03+00:00",
+      "last_update": "2026-11-23T13:48:00+00:00",
+      "event": "Eisenkot says no 'immediate threat from Iran' requiring military operation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "eisenkot",
+        "from",
+        "immediate",
+        "iran",
+        "military",
+        "operation",
+        "requiring",
+        "says",
+        "threat"
+      ],
+      "source_excerpt": "Eisenkot says no 'immediate threat from Iran' requiring military operation Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzZPQWZjUnBSOUktTFBDdDM1VlBFVllwR3AzOE5lSXR0dmZSWTlyenRsX2hmaVEteTF3UXN0ZnlxUlFZUjYxZGhOaXVkUWpOa2sxbkQwQ3RibV9nc0NfcWd3M3NhUzVTVms1VXpIVGdZSUVlNlh2MjlUQnRuVWFsZVNwb1dxZTJpVDlPRlctOHhrYjA0Y0FvVnFuaXRmd0ZOUEFyUC0zY1dFQQ?oc=5",
+          "published_at": "2026-11-23T13:19:03+00:00"
+        },
+        {
+          "name": "Middle East Eye",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV2xvR3M5VnBTUWFxODIzZUN3M0JTci1rUXBoTy1BbUVrZ0dsRFlpVWlMQlZpUnpBTE1KMkp6REk1MjhqVVYwWlpEY3hVMk90aExVT0c4bUYwcEw1UHF3QjFNb0lmT05jYXJPNjJ4c3ZWX2RocHpiMmhxR21XLWdpcVkwTUh2b2s3Vi03b3oteXdibjE1RWc1TVN2Vk0xb1Zyd2h6VXpmdnJJZXRYMUlmWTJDck5NUWwzSlc1a29Lc2dXRzhRaUhTSW9helY0dEx4T2ljRUNEd2RfWlpUX3VyZDdGSTF3dGhyMnNWTTVEZEFOc0l1WXM3eWN2SmYtRmNkYWVOYkVaa0hkWDJmOFNpa0h3?oc=5",
+          "published_at": "2026-11-23T13:48:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzZPQWZjUnBSOUktTFBDdDM1VlBFVllwR3AzOE5lSXR0dmZSWTlyenRsX2hmaVEteTF3UXN0ZnlxUlFZUjYxZGhOaXVkUWpOa2sxbkQwQ3RibV9nc0NfcWd3M3NhUzVTVms1VXpIVGdZSUVlNlh2MjlUQnRuVWFsZVNwb1dxZTJpVDlPRlctOHhrYjA0Y0FvVnFuaXRmd0ZOUEFyUC0zY1dFQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T12:51:07.465411+00:00"
+  "updated_at": "2026-11-23T14:15:39.755875+00:00"
 }

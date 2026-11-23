@@ -1,149 +1,47 @@
-# News Hub report - Mon 23 Nov, 05:51 PM PKT
+# News Hub report - Mon 23 Nov, 07:15 PM PKT
 
 ## Collection
-- New items this run: 177 | items in rolling pool: 774
-- Unique story clusters: 636 (duplicates merged: 138)
-- Clusters dropped as already published/queued: 23; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 101, ARY News 14, Geo News 10, ProPakistani 9, Al Jazeera 6, samaa tv 4, TechJuice 4, Dawn Pakistan 2, Ars Technica 2, Wired 2, BBC World 2, The Current 2
+- New items this run: 209 | items in rolling pool: 918
+- Unique story clusters: 744 (duplicates merged: 174)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 100, Geo News 20, ProPakistani 10, TechJuice 9, samaa tv 7, Dawn 7, Al Jazeera 6, Pakistan Today 6, ARY News 5, Dawn Pakistan 4, Dawn Latest 4, The Verge 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- National CERT flags five WhatsApp security vulnerabilities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- K-P govt to rename Imran Khan Cricket Stadium back to Arbab Niaz Stadium | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rockstar explains why GTA 6 left out classic darts mini game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lebanese families return to ruins after Israeli attacks in south | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Let's get digital: Punjab introduces on-screen marking system with facial recognition for board exams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 7 killed, 2 injured as stone-laden truck overturns onto mini-truck in Bahawalpur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- National CERT flags five WhatsApp security vulnerabilities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- K-P govt to rename Imran Khan Cricket Stadium back to Arbab Niaz Stadium | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rockstar explains why GTA 6 left out classic darts mini game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lebanese families return to ruins after Israeli attacks in south | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Let's get digital: Punjab introduces on-screen marking system with facial recognition for board exams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 7 killed, 2 injured as stone-laden truck overturns onto mini-truck in Bahawalpur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- National CERT flags five WhatsApp security vulnerabilities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- K-P govt to rename Imran Khan Cricket Stadium back to Arbab Niaz Stadium | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rockstar explains why GTA 6 left out classic darts mini game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lebanese families return to ruins after Israeli attacks in south | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Let's get digital: Punjab introduces on-screen marking system with facial recognition for board exams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 7 killed, 2 injured as stone-laden truck overturns onto mini-truck in Bahawalpur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 113/120 | empty: 2 | failed: 5 | malformed/partial: 5
-- Trusted publisher desks with at least one healthy source: 9/10
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Balochistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Weather | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Express News
 
 ## Selected for the queue
-### K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadium  [NORMAL]
-- Poster: عمران خان کرکٹ اسٹیڈیم کا نام تبدیل کرکے ارباب نیاز اسٹیڈیم رکھ دیا گیا / K-P Govt Restores Arbab Niaz Stadium Name | category politics
-- Alternative headline: Khyber Pakhtunkhwa Reverses PTI Decision, Restoring Arbab Niaz Stadium Name
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2lVQTl4WHhMaTY3VkNxM2pPNV9iSHhvNGFSNi12RHl0cVRoeTgzQlo0WThFTlo1Vzd5Y1Q3Z25HV2JCTmtaY2R4MWJfbnhDUFAxLVZhU3Rxa3JzbDVNbi1yMFlHRXlWQU9la3pJZEQ0X3UyYkFQb01MVldHR3hQMWpGdl9ONGkyWGFKNXBnVWx6anpFaDljUmdmQ2V1RHVQUTdMaW1SWlBndFZXTnfSAbYBQVVfeXFMUDNZdXNaTFBJWktKMC1uN0NfTnFxX2dXTmJ2NDhZRVYyMmpNYkgtMVViVXVNNFJFOTlOS2pGWGVXU2l6WUpjOUI1X3dQdGh3QWpkNk9sVHBkcnhJLW1OeWNZQmJXX0RKWjE4ZDFDcHR0TUJ3cVUxYTBBUy02SVRhQlA1bVVhSFVBQ3lvcDRkWldtV09PMmJwV0tHR3Z0bkhsdlBRSUNJc1NnV2lWemUtMGhxNUE3N3c?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2lVQTl4WHhMaTY3VkNxM2pPNV9iSHhvNGFSNi12RHl0cVRoeTgzQlo0WThFTlo1Vzd5Y1Q3Z25HV2JCTmtaY2R4MWJfbnhDUFAxLVZhU3Rxa3JzbDVNbi1yMFlHRXlWQU9la3pJZEQ0X3UyYkFQb01MVldHR3hQMWpGdl9ONGkyWGFKNXBnVWx6anpFaDljUmdmQ2V1RHVQUTdMaW1SWlBndFZXTnfSAbYBQVVfeXFMUDNZdXNaTFBJWktKMC1uN0NfTnFxX2dXTmJ2NDhZRVYyMmpNYkgtMVViVXVNNFJFOTlOS2pGWGVXU2l6WUpjOUI1X3dQdGh3QWpkNk9sVHBkcnhJLW1OeWNZQmJXX0RKWjE4ZDFDcHR0TUJ3cVUxYTBBUy02SVRhQlA1bVVhSFVBQ3lvcDRkWldtV09PMmJwV0tHR3Z0bkhsdlBRSUNJc1NnV2lWemUtMGhxNUE3N3c?oc=5
-- Supporting coverage: The Express Tribune, X
-- Keywords: Arbab Niaz Stadium, Imran Khan Cricket Stadium, K-P government, rename, Peshawar, cricket | hashtags: #ArbabNiazStadium #KPUpdates #Peshawar #PakistanPolitics #Cricket
-- Scheduled: Mon 23 Nov, 05:51 PM PKT
-- Caption:
-```
-The Khyber Pakhtunkhwa government is officially restoring the historic name of Arbab Niaz Stadium, reversing the previous PTI decision.
-
-The Khyber Pakhtunkhwa government has decided to rename the Imran Khan Cricket Stadium back to its historic name, Arbab Niaz Stadium, reversing a previous decision made by the PTI administration. According to reports, critics noted that despite long rule, new sports infrastructure remained limited.
-
-خیبر پختونخوا حکومت نے عمران خان کرکٹ اسٹیڈیم کا نام تبدیل کر کے دوبارہ اس کا تاریخی نام ارباب نیاز اسٹیڈیم رکھنے کا فیصلہ کیا ہے، جس سے پی ٹی آئی کا پرانا فیصلہ تبدیل ہو گیا ہے۔
-
-First reported by The Express Tribune.
-
-#ArbabNiazStadium #KPUpdates #Peshawar #PakistanPolitics #Cricket
-```
-
-### National CERT Flags Five Critical WhatsApp Security Vulnerabilities in Pakistan  [NORMAL]
-- Poster: نیشنل سرٹ نے واٹس ایپ میں پانچ سیکیورٹی خامیوں کی نشاندہی کر دی / National CERT Flags WhatsApp Flaws | category tech
-- Alternative headline: National CERT Urges Immediate WhatsApp Updates Following Five Security Flaws
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0lrYklJNVNxWm90M0I2QTduX1FOczA2anBmVjVRamlBNnRNcmFvZHNYMVp0ejBDMGZOQzV4VS1Wdnp0aHFIanYwNFExZl9xeEdGVVFWcGxkTEtFTjJRUlVkTDVFUEVGdGJ5MUVuWDFwV2VncWJidlcyaUlacGhxTnZzSlJzVnczZHNQb3g2M0tCZUlI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0lrYklJNVNxWm90M0I2QTduX1FOczA2anBmVjVRamlBNnRNcmFvZHNYMVp0ejBDMGZOQzV4VS1Wdnp0aHFIanYwNFExZl9xeEdGVVFWcGxkTEtFTjJRUlVkTDVFUEVGdGJ5MUVuWDFwV2VncWJidlcyaUlacGhxTnZzSlJzVnczZHNQb3g2M0tCZUlI?oc=5
-- Supporting coverage: samaa tv, PhoneWorld, TechJuice, ARYnews.tv, ARY News
-- Keywords: WhatsApp security, National CERT, vulnerabilities, Pakistan, update WhatsApp, cyber security | hashtags: #WhatsApp #NationalCERT #CyberSecurity #Pakistan #TechNews
-- Scheduled: Mon 23 Nov, 06:01 PM PKT
-- Caption:
-```
-Pakistan's National CERT has issued an urgent warning for WhatsApp users regarding five major security vulnerabilities.
-
-National CERT in Pakistan has issued a security advisory urging WhatsApp users to immediately update their applications following the discovery of five distinct security vulnerabilities. Authorities recommend applying updates promptly to protect personal data and maintain device security.
-
-پاکستان کے نیشنل سرٹ نے واٹس ایپ صارفین کے لیے ایک سیکیورٹی الرٹ جاری کیا ہے جس میں پانچ سیکیورٹی خامیوں کی نشاندہی کرتے ہوئے فوری اپ ڈیٹ کرنے کی ہدایت کی گئی ہے۔
-
-First reported by samaa tv; also reported by ARY News.
-
-#WhatsApp #NationalCERT #CyberSecurity #Pakistan #TechNews
-```
-
-### Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game  [NORMAL]
-- Poster: راک سٹار نے جی ٹی اے 6 میں کلاسک ڈارٹس منی گیم نہ ہونے کی وجہ بتا دی / Why GTA 6 Dropped Darts Mini-Game | category tech
-- Alternative headline: Why GTA 6 Dropped the Popular Darts Pub Game According to Rockstar
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/rockstar-explains-why-gta-6-left-out-classic-darts-mini-game | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/rockstar-explains-why-gta-6-left-out-classic-darts-mini-game
-- Supporting coverage: ARY News
-- Keywords: GTA 6 darts, Rockstar Games, Rob Nelson, video games, GTA 6 mini games, VGC | hashtags: #GTA6 #RockstarGames #GamingNews #Darts #Tech
-- Scheduled: Mon 23 Nov, 06:11 PM PKT
-- Caption:
-```
-Rockstar North co-studio lead Rob Nelson explains the tough choices behind cutting the classic darts mini-game from GTA 6.
-
-Rockstar North co-studio lead Rob Nelson revealed that the classic darts mini-game was excluded from GTA 6 due to time and resource constraints. Nelson noted that the studio focuses on delivering high-quality, fully realized side activities like pool and basketball instead.
-
-راک سٹار نارتھ کے کو-اسٹوڈیو لیڈ روب نیلسن نے انکشاف کیا ہے کہ وقت اور وسائل کی کمی کی وجہ سے جی ٹی اے 6 میں کلاسک ڈارٹس منی گیم شامل نہیں کی گئی۔
-
-First reported by ARY News.
-
-#GTA6 #RockstarGames #GamingNews #Darts #Tech
-```
-
-### Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Mustafa Kamal  [NORMAL]
-- Poster: پاکستان کو علاج کے بجائے حفاظتی صحت کی طرف منتقل ہونا چاہیے: مصطفٰی کمال / Shift to Preventive Healthcare: Mustafa Kamal | category health
-- Alternative headline: Mustafa Kamal Urges Urgent Healthcare Reform Focusing on Prevention in Pakistan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUpJV1FSUmE0bG5DdFZINE4wdFU0eXROR3F3TXdvaVdmUURKRWJhMlZGdVhhSGE3cUV1WDlpakp2MHBINEVNM1VVN0JTcFVfWGFFa0lIOThmWlR4ei15Q0RPYWs0bTJPbkJ3ZWQzRkxLb0RGaGN6ZVBaMGFmc2R5WXB6WUp3UFU1djFvWDFMRXRSV0xaNUFR?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUpJV1FSUmE0bG5DdFZINE4wdFU0eXROR3F3TXdvaVdmUURKRWJhMlZGdVhhSGE3cUV1WDlpakp2MHBINEVNM1VVN0JTcFVfWGFFa0lIOThmWlR4ei15Q0RPYWs0bTJPbkJ3ZWQzRkxLb0RGaGN6ZVBaMGFmc2R5WXB6WUp3UFU1djFvWDFMRXRSV0xaNUFR?oc=5
-- Supporting coverage: ARYnews.tv, ARY News
-- Keywords: preventive healthcare, Mustafa Kamal, sick care, Pakistan health, healthcare reform, ARY News | hashtags: #MustafaKamal #Healthcare #PakistanHealth #PreventiveCare #PublicHealth
-- Scheduled: Mon 23 Nov, 06:21 PM PKT
-- Caption:
-```
-Mustafa Kamal emphasizes that Pakistan's healthcare system urgently needs to prioritize preventive measures over traditional sick care.
-
-Mustafa Kamal stated that Pakistan must transition its healthcare focus from reactive 'sick care' to comprehensive preventive healthcare. He highlighted the importance of structural health reforms to better serve the population and ease the burden on medical facilities.
-
-مصطفٰی کمال کا کہنا ہے کہ پاکستان کو اپنے صحت کے نظام کو روایتی علاج سے ہٹا کر حفاظتی صحت کی طرف منتقل کرنے کی ضرورت ہے تاکہ بہتر نتائج حاصل کیے جا سکیں۔
-
-First reported by ARY News.
-
-#MustafaKamal #Healthcare #PakistanHealth #PreventiveCare #PublicHealth
-```
-
-- Indian outlets blocked this run: 6 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 13
 
 ## Queue status
 - [needs_review] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
@@ -157,7 +55,6 @@ First reported by ARY News.
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
-- [published] normal | Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling | Fri 20 Nov, 06:48 PM PKT
 - [needs_review] normal | CDF Asim Munir Vows to Eradicate Terrorism in KP | Fri 20 Nov, 06:58 PM PKT
 - [needs_review] normal | Afghanistan Excluded from ECO Moot Due to Non-Recognition | Fri 20 Nov, 07:08 PM PKT
 - [needs_review] normal | Supreme Court of Pakistan Receives International ISO Certification | Fri 20 Nov, 07:18 PM PKT
@@ -376,8 +273,8 @@ First reported by ARY News.
 - [needs_review] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
 - [needs_review] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
 - [published] normal | At least 3 killed and 36 missing after devastating Indonesia factory f | Mon 23 Nov, 12:00 PM PKT
-- [queued] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
-- [queued] normal | What Lies Ahead After Climate Talks Fail to Reach Consensus? | Mon 23 Nov, 01:22 PM PKT
+- [needs_review] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
+- [published] normal | What Lies Ahead After Climate Talks Fail to Reach Consensus? | Mon 23 Nov, 01:22 PM PKT
 - [queued] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
 - [queued] normal | Naqvi and Shujaat Discuss New Provinces and Devolution in Lahore | Mon 23 Nov, 02:45 PM PKT
 - [queued] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
@@ -395,13 +292,22 @@ First reported by ARY News.
 - [queued] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
 
 ## Publishing this run
-- Published 'At least 3 killed and 36 missing after devastating Indonesia factory fire'.
+- Published 'What Lies Ahead After Climate Talks Fail to Reach Consensus?'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5586 | output tokens: 2108
-- Errors: 2
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapi
