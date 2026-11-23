@@ -1,10 +1,10 @@
-# News Hub report - Mon 23 Nov, 07:15 PM PKT
+# News Hub report - Mon 23 Nov, 08:29 PM PKT
 
 ## Collection
-- New items this run: 209 | items in rolling pool: 918
-- Unique story clusters: 744 (duplicates merged: 174)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 100, Geo News 20, ProPakistani 10, TechJuice 9, samaa tv 7, Dawn 7, Al Jazeera 6, Pakistan Today 6, ARY News 5, Dawn Pakistan 4, Dawn Latest 4, The Verge 2
+- New items this run: 184 | items in rolling pool: 964
+- Unique story clusters: 775 (duplicates merged: 189)
+- Clusters dropped as already published/queued: 19; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 100, Geo News 15, ARY News 6, ProPakistani 6, The Verge 5, Jang Urdu 4, TechJuice 4, Pakistan Today 4, samaa tv 3, Dawn Latest 3, The Express Tribune 3, TechCrunch 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -12,24 +12,24 @@
 
 ## Top 5 most important
 - Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Let's get digital: Punjab introduces on-screen marking system with facial recognition for board exams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 7 killed, 2 injured as stone-laden truck overturns onto mini-truck in Bahawalpur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Geo Pakistan | 23 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Let's get digital: Punjab introduces on-screen marking system with facial recognition for board exams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 7 killed, 2 injured as stone-laden truck overturns onto mini-truck in Bahawalpur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Geo Pakistan | 23 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Let's get digital: Punjab introduces on-screen marking system with facial recognition for board exams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 7 killed, 2 injured as stone-laden truck overturns onto mini-truck in Bahawalpur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Geo Pakistan | 23 November 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,14 +38,12 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 13
+- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
 
 ## Queue status
-- [needs_review] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
-- [needs_review] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
 - [needs_review] normal | NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Launderi | Fri 20 Nov, 02:10 PM PKT
 - [needs_review] normal | Trump Ousts US Cyber Director After Tech Outages Spark Criticism | Fri 20 Nov, 02:20 PM PKT
 - [needs_review] normal | Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case | Fri 20 Nov, 02:30 PM PKT
@@ -58,7 +56,6 @@
 - [needs_review] normal | CDF Asim Munir Vows to Eradicate Terrorism in KP | Fri 20 Nov, 06:58 PM PKT
 - [needs_review] normal | Afghanistan Excluded from ECO Moot Due to Non-Recognition | Fri 20 Nov, 07:08 PM PKT
 - [needs_review] normal | Supreme Court of Pakistan Receives International ISO Certification | Fri 20 Nov, 07:18 PM PKT
-- [published] normal | PCB Chairman Mohsin Naqvi Announces All-Pakistan Tri-Series for Decemb | Fri 20 Nov, 07:41 PM PKT
 - [needs_review] normal | Spain to Face France and England Take on Norway in Nations League Quar | Fri 20 Nov, 07:51 PM PKT
 - [needs_review] normal | Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperatio | Fri 20 Nov, 08:01 PM PKT
 - [published] normal | Pakistan Shaheens kick off Asia Cup Rising Stars with 61-run win over  | Fri 20 Nov, 08:41 PM PKT
@@ -275,8 +272,8 @@
 - [published] normal | At least 3 killed and 36 missing after devastating Indonesia factory f | Mon 23 Nov, 12:00 PM PKT
 - [needs_review] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
 - [published] normal | What Lies Ahead After Climate Talks Fail to Reach Consensus? | Mon 23 Nov, 01:22 PM PKT
-- [queued] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
-- [queued] normal | Naqvi and Shujaat Discuss New Provinces and Devolution in Lahore | Mon 23 Nov, 02:45 PM PKT
+- [needs_review] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
+- [published] normal | Naqvi and Shujaat Discuss New Provinces and Devolution in Lahore | Mon 23 Nov, 02:45 PM PKT
 - [queued] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
 - [queued] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
 - [queued] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
@@ -292,7 +289,7 @@
 - [queued] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
 
 ## Publishing this run
-- Published 'What Lies Ahead After Climate Talks Fail to Reach Consensus?'.
+- Published 'Naqvi and Shujaat Discuss New Provinces and Devolution in Lahore'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
@@ -309,5 +306,11 @@
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"

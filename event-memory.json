@@ -129575,7 +129575,513 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "14e83eb6884619f550268faf",
+      "remembered_at": "2026-11-23T15:29:16.562059+00:00",
+      "event_date": "2026-11-23T14:04:24+00:00",
+      "last_update": "2026-11-23T15:17:09+00:00",
+      "event": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "best",
+        "board",
+        "both",
+        "calling",
+        "chief",
+        "company",
+        "donald",
+        "executive",
+        "for",
+        "founder",
+        "him",
+        "huang",
+        "jensen",
+        "november",
+        "nvidia",
+        "ousted",
+        "president",
+        "publicly",
+        "rehire",
+        "reinstate",
+        "sunday",
+        "the",
+        "thing",
+        "trump",
+        "urged",
+        "urges"
+      ],
+      "source_excerpt": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for US US President Donald Trump on Sunday, November 22, publicly urged Nvidia’s board to rehire Jensen Huang as chief executive, calling the ousted co-founder “the best thing” for both the company and the...",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "published_at": "2026-11-23T14:04:24+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692314-trump-urges-nvidia-to-reinstate-jensen-huang-calling-him-best-thing-for-us",
+          "published_at": "2026-11-23T14:07:00+00:00"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "published_at": "2026-11-23T14:10:18+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046556/nvidia-reinstates-jensen-huang-as-ceo",
+          "published_at": "2026-11-23T14:14:09+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/23/nvidia-reinstates-jensen-huang-ceo/",
+          "published_at": "2026-11-23T14:14:15+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONmVoeW9Dbnp6SkhnNzFONTJ1MndLNDdYbEZkUmJhODBIZ3pzWnRDbVU2NmwyUVhSbWNFZ2paQjNCMkswaDE1cDZPRkZSbWgtcTFUZkhkeUJvN1pLNVNKVDdRWkF3Y2JMTF9jSExOSkpyZ2pTdTFteUJScWpHM0FVS0RYZTNHVTQ5ZGR3?oc=5",
+          "published_at": "2026-11-23T14:15:51+00:00"
+        },
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "published_at": "2026-11-23T14:16:53+00:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+          "published_at": "2026-11-23T14:21:59+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692321-jensen-huang-reinstated-as-nvidia-ceo-president-and-board-director",
+          "published_at": "2026-11-23T14:23:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
+          "published_at": "2026-11-23T14:24:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692314-trump-urges-nvidia-to-reinstate-jensen-huang-calling-him-best-thing-for-us",
+        "publisher_url": "https://www.geo.tv/latest/692314-trump-urges-nvidia-to-reinstate-jensen-huang-calling-him-best-thing-for-us",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fa2652e4a0b2b66d099f26a6",
+      "remembered_at": "2026-11-23T15:29:16.562059+00:00",
+      "event_date": "2026-11-23T08:40:59+00:00",
+      "last_update": "2026-11-23T14:18:54+00:00",
+      "event": "Geo Pakistan | 23 November 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "geo",
+        "news",
+        "november",
+        "pakistan"
+      ],
+      "source_excerpt": "Geo Pakistan | 23 November 2026 Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UUUE2T2VHM0U5RXM2Wmo0TzFwSDhhTG1GRnhqQmZveDVjUkhJZkZEYVdlY2VaZXN3Y3djYThEOTBPMndWV1hXRktJZHF6NzEwOHVUSzFQZ2lhNk9KRVFZSXNlUUsycGpHc1J2Q2lpZE5yZEw0MDlTMHF5Y3JGN00?oc=5",
+          "published_at": "2026-11-23T08:40:59+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHQ1N0RFdkROelVnbXhMTm81cnlHcnJLQ0VSZVRkWDh5UFhNLWFNQmRhR0hqMV9lX3dNa29oSFlOMHI4OXVTSlU2MzE2eTlPY09NakFwdmktQzlmTHJxbzJ5cW5zR1d2aFVJcWt0b0JScV96c21GTUZadTJmQ0hMXzZfQlE4dWlY?oc=5",
+          "published_at": "2026-11-23T11:09:19+00:00"
+        },
+        {
+          "name": "Just Security",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LT3pXT09UNXpxZEpaUHVJMHBHQko0T3dEdnRULW9lZWxCMXRGQ000LVFSX1NqUlhQdXlXNzF1VjJkRC02ZG51eUVRSXhaRHNub0lranhRM3MzS2VGbEYwQTEzVmRnRDJjUFh3NWJwWFZTQUxVMUE?oc=5",
+          "published_at": "2026-11-23T13:25:44+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEFlMEhVRE1QdF9uYnRhZjdaSXVqOEpZMjdfQTV4U1JPMDVva1JtcEdvX3RzdU1hbjZtSWJzOTJndEVtUE01UTVqeXM4by14UXZqN3A2cFdIdGxYT1dTc1oxbi05MG0ydk4ycHhKaHRoOFcyREVTRFFvMlVaRGU5Z1M4V25XTFE?oc=5",
+          "published_at": "2026-11-23T14:18:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UUUE2T2VHM0U5RXM2Wmo0TzFwSDhhTG1GRnhqQmZveDVjUkhJZkZEYVdlY2VaZXN3Y3djYThEOTBPMndWV1hXRktJZHF6NzEwOHVUSzFQZ2lhNk9KRVFZSXNlUUsycGpHc1J2Q2lpZE5yZEw0MDlTMHF5Y3JGN00?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "136a77b96c61de5b244e50e9",
+      "remembered_at": "2026-11-23T15:29:16.562059+00:00",
+      "event_date": "2026-11-23T14:36:02+00:00",
+      "last_update": "2026-11-23T14:36:02+00:00",
+      "event": "Star-studded Pakistani series 'Jo Bachay Hain Sang Samait Lo' to premiere on Netflix on December 4",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bachay",
+        "december",
+        "express",
+        "hain",
+        "netflix",
+        "pakistani",
+        "premiere",
+        "samait",
+        "sang",
+        "series",
+        "star",
+        "studded",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Star-studded Pakistani series 'Jo Bachay Hain Sang Samait Lo' to premiere on Netflix on December 4 The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenJ4VWdla0N1OUctVkxFdTBiMFpQMHU1VU5fM1h2YjFXblRHOXFESFJyd3VUcFVsa1pQYjJPaDV2dDVKV0l4UW9IUEM3c2hFSC1tR3QxRE45eTNTSnR6c2lSWDdyczdOUjJmQ1lEcC02d3J4bkE4Z2lfWUY4cHdQdUJNemthVENTQ2lzYWRWOHR3TVZsdm1QcC1fOFVIZlJqUXk5dmY1ZzVGaE1EMjVlaHNFYy1RU0N1UU9EMHl2NGZscUNsN2JQdEJZR2Jkd9IB1gFBVV95cUxOQUstanlPYkJhMHM1N0FnNU5uTUJ0dDVLWkpLR2dRZ3U0WkhEZEZJLUlYM0FnaTEzSnQ3emdXdnhrSzdGSk9sSjZGNko2cUxwUERfQ1JMczlURlZtQkYwNVFTMGhPUmpzTENVVVVYeXpHQVd0Q05Ld2d4ZVhDMmRoeFJNc0ZsQ25tQlc1ZUJpeEpiUkZpdGdfZzh3NUVib0FCbEpwNDlnZ0ZXTVBHdkF3c3FoeGMxWEt6d2didFkzLXJBZDlZTGgxbElTVkluNlJSRHhDcWpB?oc=5",
+          "published_at": "2026-11-23T14:36:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenJ4VWdla0N1OUctVkxFdTBiMFpQMHU1VU5fM1h2YjFXblRHOXFESFJyd3VUcFVsa1pQYjJPaDV2dDVKV0l4UW9IUEM3c2hFSC1tR3QxRE45eTNTSnR6c2lSWDdyczdOUjJmQ1lEcC02d3J4bkE4Z2lfWUY4cHdQdUJNemthVENTQ2lzYWRWOHR3TVZsdm1QcC1fOFVIZlJqUXk5dmY1ZzVGaE1EMjVlaHNFYy1RU0N1UU9EMHl2NGZscUNsN2JQdEJZR2Jkd9IB1gFBVV95cUxOQUstanlPYkJhMHM1N0FnNU5uTUJ0dDVLWkpLR2dRZ3U0WkhEZEZJLUlYM0FnaTEzSnQ3emdXdnhrSzdGSk9sSjZGNko2cUxwUERfQ1JMczlURlZtQkYwNVFTMGhPUmpzTENVVVVYeXpHQVd0Q05Ld2d4ZVhDMmRoeFJNc0ZsQ25tQlc1ZUJpeEpiUkZpdGdfZzh3NUVib0FCbEpwNDlnZ0ZXTVBHdkF3c3FoeGMxWEt6d2didFkzLXJBZDlZTGgxbElTVkluNlJSRHhDcWpB?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "781c64a90e29f1851add0267",
+      "remembered_at": "2026-11-23T15:29:16.562059+00:00",
+      "event_date": "2026-11-23T09:33:45+00:00",
+      "last_update": "2026-11-23T15:04:30+00:00",
+      "event": "Attacks on shipping near Strait of Hormuz hit wartime high in October: UK maritime monitor",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attacks",
+        "express",
+        "high",
+        "hit",
+        "hormuz",
+        "maritime",
+        "monitor",
+        "near",
+        "october",
+        "shipping",
+        "strait",
+        "the",
+        "tribune",
+        "wartime"
+      ],
+      "source_excerpt": "Attacks on shipping near Strait of Hormuz hit wartime high in October: UK maritime monitor The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjM4czhnLUNXbGwxMHB2NDNRZ2dVMmZWMGIyUFRvLU5BVjF0OWlObGZWTVo0ZjFCVVhBc1NKVFNvWFJmYXRoeF9XM3FhcXpUY3YtY2ZhN1VuUVh2cDBJa0N5dGRJalRRSzh3TU9rTXpQSkl4MVVFeVRfSVRGcHhjTkhTS3VBcWJJaXBqcHF1WDZqSm9zRHl2U1ZELXdQRnc5R01tTnVyNTA4RENxT2FzZ0c0VFI4c2xlMVdnekVyb3pmOVdn0gHMAUFVX3lxTE02LWFZdEFWaXNFSHN2THUxcnkyc1R1VEo4Qk1lREM5dEduZkh3emI2RlI2SHhBeG1QTFZ4eFZTUzQxQm1BTnE2bTJFTDVyckpVc25xcmVGTUZsQlFPNm9OdEo2Z0dLSEFGV3lsbFBLajI3cm5LakxURlNtTEgwMFdYSkhOOU5sanNGeEpBcDdqaXR1WGJ3el9tNzBpLUN3QnJpSjlVc0JmazJtS0l4empPNGxVdG1sWUR1RnFoTmVQeUdPdUgtaE8yWEh0eg?oc=5",
+          "published_at": "2026-11-23T09:33:45+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYzE5S0o5bndRd1dVck9HUmd1dUlZQnBIVXFYWFF1blpYRGJYWTFKTUdGRGF2dEhwd0JNNVFCNzR0cTNxeXd2ei1QSVVlM2FvTjZ5dUhubUJJeGp4ZDFlekRqYTVoN0ZoOGNQcV9XQXg5NXA4el9CUW42Sk5ZaHRId1hJdzdPTDNadUlkNnZOZHhBcWFsNmJhVk12bk9ydVRrdkppbFh6WGRoY1piUXF3OW5BNXo0VlZJZ1pfMVZWc1RiTEVnOGhRd0lHU0l0dw?oc=5",
+          "published_at": "2026-11-23T15:04:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjM4czhnLUNXbGwxMHB2NDNRZ2dVMmZWMGIyUFRvLU5BVjF0OWlObGZWTVo0ZjFCVVhBc1NKVFNvWFJmYXRoeF9XM3FhcXpUY3YtY2ZhN1VuUVh2cDBJa0N5dGRJalRRSzh3TU9rTXpQSkl4MVVFeVRfSVRGcHhjTkhTS3VBcWJJaXBqcHF1WDZqSm9zRHl2U1ZELXdQRnc5R01tTnVyNTA4RENxT2FzZ0c0VFI4c2xlMVdnekVyb3pmOVdn0gHMAUFVX3lxTE02LWFZdEFWaXNFSHN2THUxcnkyc1R1VEo4Qk1lREM5dEduZkh3emI2RlI2SHhBeG1QTFZ4eFZTUzQxQm1BTnE2bTJFTDVyckpVc25xcmVGTUZsQlFPNm9OdEo2Z0dLSEFGV3lsbFBLajI3cm5LakxURlNtTEgwMFdYSkhOOU5sanNGeEpBcDdqaXR1WGJ3el9tNzBpLUN3QnJpSjlVc0JmazJtS0l4empPNGxVdG1sWUR1RnFoTmVQeUdPdUgtaE8yWEh0eg?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3c5d0e7371e3d3104064c9e4",
+      "remembered_at": "2026-11-23T15:29:16.562059+00:00",
+      "event_date": "2026-11-23T09:34:23+00:00",
+      "last_update": "2026-11-23T14:29:08+00:00",
+      "event": "Trump accuses Iran of intensifying its military aggression following US midterm elections",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "aggression",
+        "elections",
+        "express",
+        "following",
+        "intensifying",
+        "iran",
+        "its",
+        "midterm",
+        "military",
+        "the",
+        "tribune",
+        "trump"
+      ],
+      "source_excerpt": "Trump accuses Iran of intensifying its military aggression following US midterm elections The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzdjQ0ZTZ0xpaTdZaTMxNE5SUUJDbTRhZEVkQ29RSmZtcG5nbjBoOThEcnBKSjJQaW8wa1hyZ25iVWJ5Wl91WW94QWtqdnRTREFCaV9xUjlGQ21vY2IwWmkxcWViZE5LTGF4MjVhZDBGcEFTMWlzaWJaekdhWV95ZTZuVkJUUl80ZkkzeTlEb1dBQVZNTlhYbEdUMzFTMEN2MU9hWTFXWm15RzlySDZEV0QxYWZOcFJCbXVwS2JSYzZTNjZw?oc=5",
+          "published_at": "2026-11-23T09:34:23+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0RxaGNZZzNPdW1haFJYYlRRWV9lVGd6Q0FUXzJVT19WWHhQVk5HX1FYNkxEV3pxZXB1Y2ZZRHM4ejFuYTNVSGZNMmN1N0Vtc0I1aFpwY1ZlVm1Ob0VRenhlMFpiU19UWlpMTlJOLW9MdS1NVy1aanV5U21ERHpIWC1raGNTd3pTcVhSQ0NxamtjaTJLYlhIaEd4emdJenlUajZJV2FmcDIzVzB0Zm5UbktVQTNxd21EdEZzUDhpdUlFcU5jbWotV19ZT2szQQ?oc=5",
+          "published_at": "2026-11-23T14:29:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzdjQ0ZTZ0xpaTdZaTMxNE5SUUJDbTRhZEVkQ29RSmZtcG5nbjBoOThEcnBKSjJQaW8wa1hyZ25iVWJ5Wl91WW94QWtqdnRTREFCaV9xUjlGQ21vY2IwWmkxcWViZE5LTGF4MjVhZDBGcEFTMWlzaWJaekdhWV95ZTZuVkJUUl80ZkkzeTlEb1dBQVZNTlhYbEdUMzFTMEN2MU9hWTFXWm15RzlySDZEV0QxYWZOcFJCbXVwS2JSYzZTNjZw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c0777e9d106a87bb26eeea02",
+      "remembered_at": "2026-11-23T15:29:16.562059+00:00",
+      "event_date": "2026-11-23T13:17:13+00:00",
+      "last_update": "2026-11-23T14:10:46+00:00",
+      "event": "Iran seeks $290bn in damages against US",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "290bn",
+        "against",
+        "damages",
+        "dawn",
+        "iran",
+        "seeks"
+      ],
+      "source_excerpt": "Iran seeks $290bn in damages against US Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RTENjY0JVb0F0VFZsV1ZGZzNVZXhRbVN2VFpSbjBoMEYwSnkwellkMWVYSWszYmNwNHloMS1hUnVWSFhUTVpsWTBCZDFFSkU5OVpYNTRlLUU3UTVvU29YMkFJRmdfVXdwMlI4eGJIZzVIQ3N2b1lnTFBYV1M?oc=5",
+          "published_at": "2026-11-23T13:17:13+00:00"
+        },
+        {
+          "name": "Channels Television",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFl4Z19KZl9HVDRyNjVicGxqRHNLSHhSMHFkalk2WVlJX3prMEtoTVYzT1lhRnYtbGpsc0VsNnM3QUZuRndrWFJtSmtxNEhOcXhPMmNzYi1kTGkwU1I1akxDd1BlNmF1YXFJb09YeEYxd0pIYXM5T2hoMHhhMV9xZEdXd3lkdkZN?oc=5",
+          "published_at": "2026-11-23T14:10:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RTENjY0JVb0F0VFZsV1ZGZzNVZXhRbVN2VFpSbjBoMEYwSnkwellkMWVYSWszYmNwNHloMS1hUnVWSFhUTVpsWTBCZDFFSkU5OVpYNTRlLUU3UTVvU29YMkFJRmdfVXdwMlI4eGJIZzVIQ3N2b1lnTFBYV1M?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8cb2ba0826af3a4f9058d35e",
+      "remembered_at": "2026-11-23T15:29:16.562059+00:00",
+      "event_date": "2026-11-23T14:46:16+00:00",
+      "last_update": "2026-11-23T14:46:16+00:00",
+      "event": "Pakistan and Uganda Move to Expand Rice Exports and Trade",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arynews",
+        "expand",
+        "exports",
+        "move",
+        "pakistan",
+        "rice",
+        "trade",
+        "uganda"
+      ],
+      "source_excerpt": "Pakistan and Uganda Move to Expand Rice Exports and Trade ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xUnluSTBTXzN3Z2pvc2dsbFVpZm50bXJxaERNOVJFejRzUG1RQ01KQ3J4azZQVDlvNU1WQnVWUVFnQzRRWmNqVUxSTkljTzJtVmxnSVVLQm1GZDBWcUpmVkQzMXlBTEo4ek85em5scw?oc=5",
+          "published_at": "2026-11-23T14:46:16+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-uganda-move-to-expand-rice-exports",
+          "published_at": "2026-11-23T14:46:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xUnluSTBTXzN3Z2pvc2dsbFVpZm50bXJxaERNOVJFejRzUG1RQ01KQ3J4azZQVDlvNU1WQnVWUVFnQzRRWmNqVUxSTkljTzJtVmxnSVVLQm1GZDBWcUpmVkQzMXlBTEo4ek85em5scw?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "32729de99c7995092471547c",
+      "remembered_at": "2026-11-23T15:29:16.562059+00:00",
+      "event_date": "2026-11-23T14:46:19+00:00",
+      "last_update": "2026-11-23T14:46:48+00:00",
+      "event": "Building near Karachi Press Club evacuated due to hoax bomb threat",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bomb",
+        "building",
+        "club",
+        "dawn",
+        "due",
+        "evacuated",
+        "hoax",
+        "karachi",
+        "near",
+        "press",
+        "threat"
+      ],
+      "source_excerpt": "Building near Karachi Press Club evacuated due to hoax bomb threat Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVBLWk1zQkZHbHFMeXVtdGp6cEQ1T05HVWhmbU0tNEk3MWxTUUdDdmJMa1FKSE9HUi1RdXNzS25IbVpzR3doNEgwZ0M1VGs4VjI2VUd5Zmp5dDNheWRzVV8zTzliSEVranVLXzZRZ2lLZDFZUzcxc3FBZkM5RFZuLVdNNTVESHBpVVBfV0tleF95UC0xWjlYYzZ4NnVQV3F6d1E?oc=5",
+          "published_at": "2026-11-23T14:46:19+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046562/building-near-karachi-press-club-evacuated-due-to-hoax-bomb-threat",
+          "published_at": "2026-11-23T14:46:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVBLWk1zQkZHbHFMeXVtdGp6cEQ1T05HVWhmbU0tNEk3MWxTUUdDdmJMa1FKSE9HUi1RdXNzS25IbVpzR3doNEgwZ0M1VGs4VjI2VUd5Zmp5dDNheWRzVV8zTzliSEVranVLXzZRZ2lLZDFZUzcxc3FBZkM5RFZuLVdNNTVESHBpVVBfV0tleF95UC0xWjlYYzZ4NnVQV3F6d1E?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a54f860c6efaf6a4740ad570",
+      "remembered_at": "2026-11-23T15:29:16.562059+00:00",
+      "event_date": "2026-11-23T14:11:28+00:00",
+      "last_update": "2026-11-23T14:35:15+00:00",
+      "event": "اسلام آباد ہائیکورٹ نیب کے پرائیویٹ کمپنی ملازمین کی خدمات لینے پر برہم",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "احتساب",
+        "اسلام",
+        "اظہار",
+        "آباد",
+        "برہم",
+        "برہمی",
+        "بیورو",
+        "جسٹس",
+        "حسین",
+        "خادم",
+        "خدمات",
+        "سومرو",
+        "قومی",
+        "لینے",
+        "ملازمین",
+        "نیب",
+        "پرائیویٹ",
+        "کمپنی",
+        "کیا",
+        "ہائیکورٹ"
+      ],
+      "source_excerpt": "اسلام آباد ہائیکورٹ کے جسٹس خادم حسین سومرو قومی احتساب بیورو کے پرائیویٹ کمپنی سے ملازمین کی خدمات لینے پر برہمی کا اظہار کیا...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636048",
+          "published_at": "2026-11-23T14:11:28+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5020355",
+          "published_at": "2026-11-23T14:35:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636048",
+        "publisher_url": "https://jang.com.pk/news/1636048",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T14:15:39.755875+00:00"
+  "updated_at": "2026-11-23T15:29:16.562059+00:00"
 }
