@@ -132937,7 +132937,799 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8625a2023851f418757b14bc",
+      "remembered_at": "2026-11-23T22:31:17.047209+00:00",
+      "event_date": "2026-11-23T14:53:57+00:00",
+      "last_update": "2026-11-23T22:10:32+00:00",
+      "event": "'No national security risk': Nvidia reinstates Jensen Huang as CEO after affair scandal",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affair",
+        "after",
+        "alleged",
+        "back",
+        "board",
+        "bring",
+        "ceo",
+        "chief",
+        "confident",
+        "due",
+        "executive",
+        "founder",
+        "from",
+        "government",
+        "huang",
+        "input",
+        "its",
+        "jensen",
+        "left",
+        "less",
+        "monday",
+        "national",
+        "nvidia",
+        "officials",
+        "posed",
+        "reinstated",
+        "reinstates",
+        "resigned",
+        "risk",
+        "scandal",
+        "security",
+        "senior",
+        "spy",
+        "than",
+        "the",
+        "two",
+        "unanimously",
+        "voted",
+        "weeks"
+      ],
+      "source_excerpt": "Nvidia on Monday reinstated Jensen Huang as chief executive after input from senior US government officials left its board confident he posed no national security risk, less than two weeks after the co-founder resigned due to an alleged spy scandal. The board voted unanimously to bring Huang back as",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046556/no-national-security-risk-nvidia-reinstates-jensen-huang-as-ceo-after-affair-scandal",
+          "published_at": "2026-11-23T14:53:57+00:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+          "published_at": "2026-11-23T15:04:01+00:00"
+        },
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T15:15:48+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
+          "published_at": "2026-11-23T15:23:05+00:00"
+        },
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T15:39:41+00:00"
+        },
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T15:49:52+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/nvidia-takes-a-u-turn-reinstates-jensen-huang-as-ceo-president/",
+          "published_at": "2026-11-23T15:52:22+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/trump-endorses-the-decision-by-nvidia-to-bring-jensen-huang-back/",
+          "published_at": "2026-11-23T16:25:19+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/jensen-huang-reinstated-as-nvidia-ceo-after-affair-with-alleged-spy/",
+          "published_at": "2026-11-23T16:52:20+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692344-jensen-huangs-return-as-nvidia-ceo-adds-1-trillion-to-companys-value",
+          "published_at": "2026-11-23T17:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046556/no-national-security-risk-nvidia-reinstates-jensen-huang-as-ceo-after-affair-scandal",
+        "publisher_url": "https://www.dawn.com/news/2046556/no-national-security-risk-nvidia-reinstates-jensen-huang-as-ceo-after-affair-scandal",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "db99076f50c6e517f8d1e533",
+      "remembered_at": "2026-11-23T22:31:17.047209+00:00",
+      "event_date": "2026-11-23T21:30:40+00:00",
+      "last_update": "2026-11-23T21:30:40+00:00",
+      "event": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activities",
+        "banking",
+        "citing",
+        "disrupt",
+        "dozen",
+        "efforts",
+        "entities",
+        "escalates",
+        "financial",
+        "global",
+        "iran",
+        "iranian",
+        "networks",
+        "over",
+        "sanctions",
+        "shadow",
+        "targets",
+        "tehran",
+        "treasury",
+        "two"
+      ],
+      "source_excerpt": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+          "published_at": "2026-11-23T21:30:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4760a47bc32fcd2bfb31d042",
+      "remembered_at": "2026-11-23T22:31:17.047209+00:00",
+      "event_date": "2026-11-23T22:15:26+00:00",
+      "last_update": "2026-11-23T22:15:26+00:00",
+      "event": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "affair",
+        "after",
+        "asian",
+        "became",
+        "been",
+        "blacklist",
+        "china",
+        "chips",
+        "executive",
+        "firm",
+        "former",
+        "funneling",
+        "has",
+        "huang",
+        "jensen",
+        "megaspeed",
+        "nvidia",
+        "public",
+        "scandal",
+        "with"
+      ],
+      "source_excerpt": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T22:15:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0c332ae124fc261e6a04afe2",
+      "remembered_at": "2026-11-23T22:31:17.047209+00:00",
+      "event_date": "2026-11-23T21:40:30+00:00",
+      "last_update": "2026-11-23T21:40:30+00:00",
+      "event": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ages",
+        "bbc",
+        "business",
+        "comeback",
+        "correspondent",
+        "explains",
+        "fleury",
+        "for",
+        "huang",
+        "influence",
+        "michelle",
+        "nvidia",
+        "played",
+        "return",
+        "role",
+        "support",
+        "the",
+        "trump",
+        "what"
+      ],
+      "source_excerpt": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T21:40:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a716e1e6094219862f99e160",
+      "remembered_at": "2026-11-23T22:31:17.047209+00:00",
+      "event_date": "2026-11-23T20:22:12+00:00",
+      "last_update": "2026-11-23T20:22:12+00:00",
+      "event": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "been",
+        "ceo",
+        "chief",
+        "days",
+        "did",
+        "espionage",
+        "get",
+        "has",
+        "here",
+        "how",
+        "huang",
+        "jensen",
+        "just",
+        "nvidia",
+        "over",
+        "reinstated",
+        "resigning",
+        "scandal",
+        "suspected"
+      ],
+      "source_excerpt": "Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
+          "published_at": "2026-11-23T20:22:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "26b0266e6b263ca96c4ffc68",
+      "remembered_at": "2026-11-23T22:31:17.047209+00:00",
+      "event_date": "2026-11-23T18:43:00+00:00",
+      "last_update": "2026-11-23T18:43:00+00:00",
+      "event": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affair",
+        "after",
+        "alleged",
+        "biggest",
+        "ceo",
+        "chinese",
+        "controversy",
+        "economic",
+        "experts",
+        "his",
+        "history",
+        "huang",
+        "jensen",
+        "nvidia",
+        "over",
+        "react",
+        "reinstated",
+        "return",
+        "spy",
+        "the",
+        "turn",
+        "was",
+        "weeks",
+        "with"
+      ],
+      "source_excerpt": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T18:43:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4c5e5e9b8c8b080b8e1f566d",
+      "remembered_at": "2026-11-23T23:30:38.226093+00:00",
+      "event_date": "2026-11-23T15:39:41+00:00",
+      "last_update": "2026-11-23T22:10:32+00:00",
+      "event": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "also",
+        "and",
+        "early",
+        "has",
+        "heavy",
+        "huang",
+        "jensen",
+        "jump",
+        "lifted",
+        "markets",
+        "nasdaq",
+        "nvidia",
+        "rally",
+        "returns",
+        "shares",
+        "stock",
+        "stocks",
+        "tech",
+        "the",
+        "trading",
+        "with"
+      ],
+      "source_excerpt": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T15:39:41+00:00"
+        },
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T15:49:52+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/nvidia-takes-a-u-turn-reinstates-jensen-huang-as-ceo-president/",
+          "published_at": "2026-11-23T15:52:22+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/trump-endorses-the-decision-by-nvidia-to-bring-jensen-huang-back/",
+          "published_at": "2026-11-23T16:25:19+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/jensen-huang-reinstated-as-nvidia-ceo-after-affair-with-alleged-spy/",
+          "published_at": "2026-11-23T16:52:20+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692344-jensen-huangs-return-as-nvidia-ceo-adds-1-trillion-to-companys-value",
+          "published_at": "2026-11-23T17:00:00+00:00"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+          "published_at": "2026-11-23T17:52:56+00:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "published_at": "2026-11-23T18:12:22+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss",
+          "published_at": "2026-11-23T19:40:41+00:00"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+          "published_at": "2026-11-23T19:57:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cbc1e51b549b08396a35433b",
+      "remembered_at": "2026-11-23T23:30:38.226093+00:00",
+      "event_date": "2026-11-23T22:06:33+00:00",
+      "last_update": "2026-11-23T23:06:03+00:00",
+      "event": "Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "after",
+        "american",
+        "are",
+        "board",
+        "ceo",
+        "city",
+        "displayed",
+        "exchange",
+        "floor",
+        "from",
+        "futures",
+        "huang",
+        "jensen",
+        "jumps",
+        "nasdaq",
+        "new",
+        "november",
+        "nvidia",
+        "nyse",
+        "options",
+        "rebound",
+        "recovery",
+        "reinstated",
+        "return",
+        "reuters",
+        "shares",
+        "sharp",
+        "soar",
+        "stages",
+        "stock",
+        "stocks",
+        "the",
+        "ticker",
+        "trader",
+        "trades",
+        "wall",
+        "works",
+        "york"
+      ],
+      "source_excerpt": "NVIDIA trades are displayed on a ticker as a futures-options trader works on the floor of the New York Stock Exchange's NYSE American , after Nvidia's board reinstated Jensen Huang as CEO, in New York City, US, November 23, 2026. — Reuters Nasdaq jumps 6.5% as US stocks rebound from...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692380-wall-st-stages-sharp-recovery-as-nvidia-shares-soar-315-after-jensen-huangs-return",
+          "published_at": "2026-11-23T22:06:33+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXdWZUZDdS1yZ3VVeFJhQ2tUSXJUWVNRTGhoTHFlV2ZiU1BtWi1jMGxxQ1kyc0NvTXk0N0xiNHY1Q1NxVVhZZjNkalpCWnBFTlFJSjJjV1AzUkVBbU1URGZNNWF5c1VoRXhIZGViN1Q4cUxxeUxNaW9CX0VNMEdtWDFwdjEzNF9KM2NXYVV4d0xDMmRaaXBIT1p1Q3VVMEdSMjdFT3Z2WmRuekZjSHRyVXUxUWVRQQ?oc=5",
+          "published_at": "2026-11-23T22:06:33+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
+          "published_at": "2026-11-23T23:06:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692380-wall-st-stages-sharp-recovery-as-nvidia-shares-soar-315-after-jensen-huangs-return",
+        "publisher_url": "https://www.geo.tv/latest/692380-wall-st-stages-sharp-recovery-as-nvidia-shares-soar-315-after-jensen-huangs-return",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "58f7caa83ae9ee20d35f0971",
+      "remembered_at": "2026-11-23T23:30:38.226093+00:00",
+      "event_date": "2026-11-23T22:54:22+00:00",
+      "last_update": "2026-11-23T22:54:22+00:00",
+      "event": "Brentford hit Everton for four to soar into Premier League top six",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "battered",
+        "before",
+        "brentford",
+        "captain",
+        "challenge",
+        "climb",
+        "deflected",
+        "down",
+        "efforts",
+        "everton",
+        "for",
+        "four",
+        "hit",
+        "into",
+        "james",
+        "jordan",
+        "keane",
+        "league",
+        "leave",
+        "left",
+        "lewis",
+        "luck",
+        "man",
+        "monday",
+        "pickford",
+        "potter",
+        "premier",
+        "saw",
+        "six",
+        "soar",
+        "stranded",
+        "struck",
+        "tarkowski",
+        "the",
+        "top",
+        "twice",
+        "was",
+        "wild"
+      ],
+      "source_excerpt": "Keane Lewis-Potter struck twice as Brentford battered 10-man Everton 4-0 to climb into the Premier League’s top six on Monday. Lewis-Potter’s luck was in as twice he saw deflected efforts leave Jordan Pickford stranded before a wild challenge by captain James Tarkowski left Everton a man down for ov",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046713/brentford-hit-everton-for-four-to-soar-into-premier-league-top-six",
+          "published_at": "2026-11-23T22:54:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046713/brentford-hit-everton-for-four-to-soar-into-premier-league-top-six",
+        "publisher_url": "https://www.dawn.com/news/2046713/brentford-hit-everton-for-four-to-soar-into-premier-league-top-six",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c81f6bc5d2a894f247caac6c",
+      "remembered_at": "2026-11-23T23:30:38.226093+00:00",
+      "event_date": "2026-11-23T23:26:16+00:00",
+      "last_update": "2026-11-23T23:26:16+00:00",
+      "event": "EU plans sports ban in sweeping new Russia sanctions proposal",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aim",
+        "and",
+        "ban",
+        "crypto",
+        "curb",
+        "financing",
+        "new",
+        "plans",
+        "propaganda",
+        "proposal",
+        "proposed",
+        "russia",
+        "russian",
+        "sanctions",
+        "sports",
+        "sweeping"
+      ],
+      "source_excerpt": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+          "published_at": "2026-11-23T23:26:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8894dbe768e08173fec862b0",
+      "remembered_at": "2026-11-23T23:30:38.226093+00:00",
+      "event_date": "2026-11-23T22:54:47+00:00",
+      "last_update": "2026-11-23T22:54:47+00:00",
+      "event": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "army",
+        "azide",
+        "detonate",
+        "detonation",
+        "explosives",
+        "five",
+        "further",
+        "has",
+        "iowa",
+        "lead",
+        "nearly",
+        "plan",
+        "planned",
+        "postponed",
+        "postpones",
+        "president",
+        "the",
+        "tonnes",
+        "toxic",
+        "trump"
+      ],
+      "source_excerpt": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+          "published_at": "2026-11-23T22:54:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8daab717149ec64e85ca0887",
+      "remembered_at": "2026-11-23T23:30:38.226093+00:00",
+      "event_date": "2026-11-23T22:55:38+00:00",
+      "last_update": "2026-11-23T22:55:38+00:00",
+      "event": "'A nightmare I'd like to forget' - patients of failing health board say it's beyond redemption",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "almost",
+        "beyond",
+        "board",
+        "days",
+        "decade",
+        "describe",
+        "failing",
+        "for",
+        "forget",
+        "health",
+        "like",
+        "measures",
+        "nightmare",
+        "patients",
+        "redemption",
+        "say",
+        "special",
+        "waiting"
+      ],
+      "source_excerpt": "Patients describe days waiting in A&E at a health board in special measures for almost a decade.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cmde19r99w9go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T22:55:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cmde19r99w9go?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmde19r99w9go?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T21:30:39.140244+00:00"
+  "updated_at": "2026-11-23T23:30:38.226093+00:00"
 }

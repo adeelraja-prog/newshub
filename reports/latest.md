@@ -1,35 +1,35 @@
-# News Hub report - Tue 24 Nov, 02:30 AM PKT
+# News Hub report - Tue 24 Nov, 04:30 AM PKT
 
 ## Collection
-- New items this run: 27 | items in rolling pool: 620
-- Unique story clusters: 493 (duplicates merged: 127)
-- Clusters dropped as already published/queued: 11; unchanged since last analysis: 2
-- Items per outlet: Al Jazeera 5, Engadget 3, ARY News 2, The Verge 2, TechCrunch 2, BBC 2, Facebook 2, The News International 1, Geo News 1, X 1, BBC World 1, Middle East Eye 1
+- New items this run: 18 | items in rolling pool: 390
+- Unique story clusters: 325 (duplicates merged: 65)
+- Clusters dropped as already published/queued: 9; unchanged since last analysis: 7
+- Items per outlet: Al Jazeera 3, The Verge 3, Dawn Latest 2, Anadolu Ajansı 2, The News International 1, Geo News 1, The Express Tribune 1, TechCrunch 1, GSMArena 1, BBC Health 1, Sky News 1, The Sunday Guardian 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nvidia shares up 30% and tech stocks rally after Jensen Huang returns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- KP governor restores Arbab Niaz name, removes Imran Khan Stadium title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NATO believes Russia is ready to launch nuclear-armed satellite, German media say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Brentford hit Everton for four to soar into Premier League top six | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA VI hacker walks free after UK court hands him seven-year sentence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nvidia shares up 30% and tech stocks rally after Jensen Huang returns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- KP governor restores Arbab Niaz name, removes Imran Khan Stadium title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NATO believes Russia is ready to launch nuclear-armed satellite, German media say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Brentford hit Everton for four to soar into Premier League top six | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA VI hacker walks free after UK court hands him seven-year sentence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nvidia shares up 30% and tech stocks rally after Jensen Huang returns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- KP governor restores Arbab Niaz name, removes Imran Khan Stadium title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NATO believes Russia is ready to launch nuclear-armed satellite, German media say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Brentford hit Everton for four to soar into Premier League top six | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- GTA VI hacker walks free after UK court hands him seven-year sentence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -42,14 +42,11 @@
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
-- [needs_review] normal | Ringleader pleads guilty to massive $100 million US jewellery heist | Fri 20 Nov, 08:51 PM PKT
-- [needs_review] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
-- [needs_review] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
 - [needs_review] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
 - [needs_review] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
@@ -62,12 +59,10 @@
 - [needs_review] normal | Israeli drone attacks kill seven Palestinians in central Gaza | Sat 21 Nov, 02:48 AM PKT
 - [needs_review] normal | Nepali cricket fans in Qatar want team to compete globally | Sat 21 Nov, 02:58 AM PKT
 - [needs_review] normal | 10 years after Brexit, UK weighs a ‘Breturn’ to the EU | Sat 21 Nov, 03:23 AM PKT
-- [published] normal | Trump insists Iran won't make an acceptable deal | Sat 21 Nov, 03:33 AM PKT
 - [needs_review] normal | Jennifer Lawrence and Josh Hutcherson reveal favorite Hunger Games fil | Sat 21 Nov, 03:43 AM PKT
 - [needs_review] normal | Gaza’s displaced children gather to celebrate World Children’s Day | Sat 21 Nov, 03:53 AM PKT
 - [needs_review] normal | Russian missiles land in Poland amid NATO drills | Sat 21 Nov, 04:18 AM PKT
 - [needs_review] normal | Iraq PM targets militia stronghold in state control push | Sat 21 Nov, 04:28 AM PKT
-- [published] normal | Denmark accuses Russia of plotting rapper assassination | Sat 21 Nov, 04:38 AM PKT
 - [needs_review] normal | Fossil fuel talks deadlock pushes COP31 into overtime | Sat 21 Nov, 04:48 AM PKT
 - [needs_review] normal | Rahul Gandhi Backs Strong India-Israel Ties Despite Gaza War | Sat 21 Nov, 05:08 AM PKT
 - [needs_review] normal | Pakistan Crowned Men’s Blind Cricket Asia Cup Champions | Sat 21 Nov, 05:18 AM PKT
@@ -269,18 +264,22 @@
 - [needs_review] normal | National CERT Flags Five Critical WhatsApp Security Vulnerabilities in | Mon 23 Nov, 06:01 PM PKT
 - [needs_review] normal | Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game | Mon 23 Nov, 06:11 PM PKT
 - [needs_review] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
-- [queued] promo | [YouTube] RANA SANAULLAH BLASTS MOHSIN NAQVI | IMRAN KHAN HEALTH CRISI | Tue 24 Nov, 01:35 AM PKT
+- [published] promo | [YouTube] RANA SANAULLAH BLASTS MOHSIN NAQVI | IMRAN KHAN HEALTH CRISI | Tue 24 Nov, 01:35 AM PKT
 
 ## Publishing this run
-- Published '[YouTube] SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO!'.
+- No post published: nothing due yet.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 0 | output tokens: 0
-- Errors: 4
-  - Gemini gemini-3.8-flash: HTTP 429 {
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
