@@ -1,36 +1,35 @@
-# News Hub report - Tue 24 Nov, 01:35 AM PKT
+# News Hub report - Tue 24 Nov, 02:30 AM PKT
 
 ## Collection
-- New items this run: 37 | items in rolling pool: 741
-- Unique story clusters: 603 (duplicates merged: 138)
-- Clusters dropped as already published/queued: 14; unchanged since last analysis: 2
-- Items per outlet: Al Jazeera 7, Engadget 4, Geo News 3, The Verge 3, The Express Tribune 2, Ars Technica 2, Pakistan Today 2, WANA News Agency 2, Middle East Eye 2, ARY News 1, Jang Urdu 1, GSMArena 1
+- New items this run: 27 | items in rolling pool: 620
+- Unique story clusters: 493 (duplicates merged: 127)
+- Clusters dropped as already published/queued: 11; unchanged since last analysis: 2
+- Items per outlet: Al Jazeera 5, Engadget 3, ARY News 2, The Verge 2, TechCrunch 2, BBC 2, Facebook 2, The News International 1, Geo News 1, X 1, BBC World 1, Middle East Eye 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: RANA SANAULLAH BLASTS MOHSIN NAQVI | IMRAN KHAN HEALTH CRISIS | https://www.youtube.com/watch?v=Hwthan-drAA
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - KP governor restores Arbab Niaz name, removes Imran Khan Stadium title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NATO believes Russia is ready to launch nuclear-armed satellite, German media say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - KP governor restores Arbab Niaz name, removes Imran Khan Stadium title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NATO believes Russia is ready to launch nuclear-armed satellite, German media say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - KP governor restores Arbab Niaz name, removes Imran Khan Stadium title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NATO believes Russia is ready to launch nuclear-armed satellite, German media say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -40,19 +39,14 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
-- [needs_review] normal | CDF Asim Munir Vows to Eradicate Terrorism in KP | Fri 20 Nov, 06:58 PM PKT
-- [needs_review] normal | Afghanistan Excluded from ECO Moot Due to Non-Recognition | Fri 20 Nov, 07:08 PM PKT
-- [needs_review] normal | Supreme Court of Pakistan Receives International ISO Certification | Fri 20 Nov, 07:18 PM PKT
-- [needs_review] normal | Spain to Face France and England Take on Norway in Nations League Quar | Fri 20 Nov, 07:51 PM PKT
-- [needs_review] normal | Arrival of Oruc Reis Marks New Era of Pak-Turkiye Strategic Cooperatio | Fri 20 Nov, 08:01 PM PKT
 - [needs_review] normal | Ringleader pleads guilty to massive $100 million US jewellery heist | Fri 20 Nov, 08:51 PM PKT
 - [needs_review] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
 - [needs_review] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
@@ -61,11 +55,9 @@
 - [needs_review] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
 - [needs_review] normal | Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Re | Sat 21 Nov, 01:06 AM PKT
 - [needs_review] normal | New York City Plans to Close Notorious Rikers Island by 2032 | Sat 21 Nov, 01:16 AM PKT
-- [published] normal | Trump Threatens Ban and Tremendous Tax on US Firms Building Overseas A | Sat 21 Nov, 01:35 AM PKT
 - [needs_review] normal | US Tech Sell-Off Deepens as Anthropic Tumbles Following Mega IPO Debut | Sat 21 Nov, 01:45 AM PKT
 - [needs_review] normal | CTD and Police Eliminate Three Terrorists Including Kohat Attack Maste | Sat 21 Nov, 01:55 AM PKT
 - [needs_review] normal | Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Ba | Sat 21 Nov, 02:05 AM PKT
-- [published] normal | Minister insists referendum on new provinces 'will happen' | Sat 21 Nov, 02:28 AM PKT
 - [needs_review] normal | Russia complains of new Iron Curtain as Estonia shuts borders | Sat 21 Nov, 02:38 AM PKT
 - [needs_review] normal | Israeli drone attacks kill seven Palestinians in central Gaza | Sat 21 Nov, 02:48 AM PKT
 - [needs_review] normal | Nepali cricket fans in Qatar want team to compete globally | Sat 21 Nov, 02:58 AM PKT
@@ -268,7 +260,7 @@
 - [needs_review] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
 - [needs_review] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
 - [published] promo | [YouTube] IMRAN KHAN’S HEALTH, MARYAM NAWAZ’S PLANE & PTI POWER POLITI | Mon 23 Nov, 03:50 PM PKT
-- [queued] promo | [YouTube] SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO! | Mon 23 Nov, 04:43 PM PKT
+- [published] promo | [YouTube] SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO! | Mon 23 Nov, 04:43 PM PKT
 - [published] normal | Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity | Mon 23 Nov, 04:43 PM PKT
 - [published] normal | Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port | Mon 23 Nov, 04:53 PM PKT
 - [needs_review] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
@@ -280,19 +272,11 @@
 - [queued] promo | [YouTube] RANA SANAULLAH BLASTS MOHSIN NAQVI | IMRAN KHAN HEALTH CRISI | Tue 24 Nov, 01:35 AM PKT
 
 ## Publishing this run
-- Published '[YouTube] IMRAN KHAN’S HEALTH, MARYAM NAWAZ’S PLANE & PTI POWER POLITICS'.
+- Published '[YouTube] SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO!'.
 
 ## Gemini usage
-- Calls: 6 | prompt tokens: 218 | output tokens: 78
-- Errors: 6
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 0 | output tokens: 0
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
