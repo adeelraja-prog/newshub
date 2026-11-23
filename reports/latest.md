@@ -1,35 +1,35 @@
-# News Hub report - Mon 23 Nov, 09:03 AM PKT
+# News Hub report - Mon 23 Nov, 10:25 AM PKT
 
 ## Collection
-- New items this run: 38 | items in rolling pool: 259
-- Unique story clusters: 230 (duplicates merged: 29)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 6
-- Items per outlet: Dawn Pakistan 10, The Express Tribune 5, Profit by Pakistan Today 4, Dawn Latest 3, Al Jazeera 3, Dawn 2, The News International 1, Geo News 1, X 1, The Verge 1, TechJuice 1, PhoneWorld 1
+- New items this run: 57 | items in rolling pool: 281
+- Unique story clusters: 237 (duplicates merged: 44)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 9
+- Items per outlet: Investify 11, Geo News 10, Dawn Pakistan 7, Dawn Latest 5, Al Jazeera 3, TechJuice 3, Profit by Pakistan Today 3, ARY News 2, Aaj English TV 2, ProPakistani 2, Dawn 1, The News International 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Doctors demand pending salaries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Missing student returns home after two years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- JI not against new provinces but urges provision of rights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Editorial: Looking beyond the hype, Pakistan's offshore exploration effort with Turkiye merits cautious optimism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three killed over property dispute | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's only coal conveyor system at Port Qasim non-functional since last week, disrupting coal imports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt moves to overhaul ‘weak’ audit system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why foreign investment continues to elude Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two killed, one injured in separate encounters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Doctors demand pending salaries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Missing student returns home after two years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- JI not against new provinces but urges provision of rights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Editorial: Looking beyond the hype, Pakistan's offshore exploration effort with Turkiye merits cautious optimism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three killed over property dispute | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's only coal conveyor system at Port Qasim non-functional since last week, disrupting coal imports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt moves to overhaul ‘weak’ audit system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why foreign investment continues to elude Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two killed, one injured in separate encounters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Doctors demand pending salaries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Missing student returns home after two years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- JI not against new provinces but urges provision of rights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Editorial: Looking beyond the hype, Pakistan's offshore exploration effort with Turkiye merits cautious optimism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three killed over property dispute | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan's only coal conveyor system at Port Qasim non-functional since last week, disrupting coal imports | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt moves to overhaul ‘weak’ audit system | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why foreign investment continues to elude Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two killed, one injured in separate encounters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,82 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Balochistan doctors demand pending salaries  [NORMAL]
-- Poster: بلوچستان کے ڈاکٹروں کا بقایا تنخواہوں کی ادائیگی کا مطالبہ / Balochistan doctors demand pending salaries | category other
-- Alternative headline: Doctors in Balochistan protest over unpaid salaries
+### UK disability benefits assessment process faces major overhaul recommendation  [NORMAL]
+- Poster: برطانیہ میں معذوری کے فوائد کے نظام میں بڑی تبدیلی کی تجویز / Major overhaul proposed for UK disability benefits assessment | category politics
+- Alternative headline: Disability minister calls for fundamental overhaul of Pip assessment system
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business
+- Keywords: Pip assessment, disability benefits, Sir Stephen Timms, UK politics, benefits review | hashtags: #PipAssessment #DisabilityBenefits #UKPolitics #SocialWelfare
+- Scheduled: Mon 23 Nov, 10:25 AM PKT
+- Caption:
+```
+A major review into the UK's personal independence payment (Pip) is set to recommend a fundamental overhaul of the assessment process.
+
+A review into the UK's personal independence payment (Pip) will recommend a fundamental overhaul of the assessment process to better recognize varying costs and needs. Disability Minister Sir Stephen Timms stated the setup is no longer fit for purpose, citing a substantial growth in mental health claims over the past 13 years.
+
+برطانیہ کے پرسنل انڈیپنڈنس پیمنٹ (پپ) کے جائزے میں جانچ پڑتال کے عمل میں بنیادی تبدیلی کی سفارش کی جائے گی۔ معذوری کے وزیر سر اسٹیفن ٹمز نے کہا کہ یہ نظام اب اپنے مقاصد کے لیے موزوں نہیں رہا، انہوں نے پچھلے 13 برسوں میں ذہنی صحت کے دعووں میں نمایاں اضافے کا حوالہ دیا۔
+
+According to a published report by BBC Business
+
+#PipAssessment #DisabilityBenefits #UKPolitics #SocialWelfare
+```
+
+### Port Qasim's only coal conveyor system breaks down, disrupting imports  [NORMAL]
+- Poster: پورٹ قاسم کا واحد کول کنویئر سسٹم خراب، درآمدات معطل / Port Qasim coal conveyor breakdown disrupts imports | category other
+- Alternative headline: Coal discharge drops sharply as Port Qasim conveyor system fails
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMic0FVX3lxTE42ejJqWFFYUkNyZWdWS210WHZCTWVYVDhoRzk5dnNZR1AzZzByeFFDSlBsQ1pfcVZjNUUtVmlpYzI1SEtwRWh6eHJZVzdKc1dYZTJDZ3NJSm5aY3BoeFhMUVZkblcwdW1BWUh6S0t1cGNHbWs?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMic0FVX3lxTE42ejJqWFFYUkNyZWdWS210WHZCTWVYVDhoRzk5dnNZR1AzZzByeFFDSlBsQ1pfcVZjNUUtVmlpYzI1SEtwRWh6eHJZVzdKc1dYZTJDZ3NJSm5aY3BoeFhMUVZkblcwdW1BWUh6S0t1cGNHbWs?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: doctors salaries, Balochistan, pending salaries, protest, medical professionals, healthcare | hashtags: #Balochistan #Doctors #Pakistan #Healthcare #News
-- Scheduled: Mon 23 Nov, 09:03 AM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-last-week-disrupting-coal-imports | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-last-week-disrupting-coal-imports
+- Supporting coverage: Dawn Pakistan, Dawn Latest, Investify
+- Keywords: coal conveyor system, Port Qasim, PIBT, coal imports, power sector | hashtags: #PortQasim #CoalImports #PowerSector #Pakistan
+- Scheduled: Mon 23 Nov, 10:35 AM PKT
 - Caption:
 ```
-Doctors in Balochistan have raised their voices demanding the release of their long-pending salaries.
+Pakistan's only coal-handling conveyor system at Port Qasim has been non-functional, sharply reducing discharge rates and causing warnings of heavy financial losses.
 
-Doctors across Balochistan have staged demands for the immediate release of their pending salaries, highlighting severe financial distress faced by medical professionals in the province due to administrative delays.
+The sole coal-handling conveyor system at PIBT Port Qasim has been non-functional since November 18, causing coal discharge rates to fall from 30,000 to 3,000 tonnes per day. Power plants and suppliers face mounting demurrage charges and potential capacity payment losses.
 
-بلوچستان بھر کے ڈاکٹروں نے اپنی بقایا تنخواہوں کی فوری ادائیگی کا مطالبہ کیا ہے، جس سے صوبے میں طبی پیشہ ور افراد کو درپیش شدید مالی مشکلات اجاگر ہوتی ہیں۔
+پورٹ قاسم پر پی آئی بی ٹی کا واحد کول ہینڈلنگ کنویئر سسٹم 18 نومبر سے بند ہے، جس کی وجہ سے کوئلے کی ترسیل کی رفتار 30 ہزار ٹن سے کم ہو کر 3 ہزار ٹن یومیه رہ گئی ہے۔ بجلی گھروں اور سپلائرز کو بھاری نقصانات کا سامنا ہے۔
+
+First reported by Dawn Pakistan
+
+#PortQasim #CoalImports #PowerSector #Pakistan
+```
+
+### Government moves to overhaul weak audit oversight system  [NORMAL]
+- Poster: حکومت کا کمزور آڈٹ نظام بہتر بنانے کے لیے اقدامات کا فیصلہ / Government moves to overhaul weak audit system | category other
+- Alternative headline: Govt initiates major overhaul of the national audit system
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNE1XYWQ4c2JVMVE2RF9MVEV2RHp5X0ZVY0ZiRGRVMzNkSHVXWjhCMzE4REkwM0hxWlpPeDBwMWd4eGtiSHNhX1drcC05cXVmc0swVjlnUjk4UFNYMlpCTXNER2V6TGR4ekJwRWh6RlNNdUxRU1pZUnFFMjZTUjg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNE1XYWQ4c2JVMVE2RF9MVEV2RHp5X0ZVY0ZiRGRVMzNkSHVXWjhCMzE4REkwM0hxWlpPeDBwMWd4eGtiSHNhX1drcC05cXVmc0swVjlnUjk4UFNYMlpCTXNER2V6TGR4ekJwRWh6RlNNdUxRU1pZUnFFMjZTUjg?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Profit by Pakistan Today
+- Keywords: audit system, government reform, audit oversight, regulatory weakness, Pakistan governance | hashtags: #AuditSystem #GovernmentReforms #Pakistan #Governance
+- Scheduled: Mon 23 Nov, 10:45 AM PKT
+- Caption:
+```
+The government has initiated steps to overhaul what has been described as a weak audit oversight system.
+
+The government has taken steps to overhaul the country's audit system to address underlying regulatory weaknesses and improve institutional transparency and governance oversight.
+
+حکومت نے ریگولیٹری کمزوریوں کو دور کرنے اور ادارہ جاتی شفافیت کو بہتر بنانے کے لیے ملک کے آڈٹ کے نظام میں جامع تبدیلی لانے کے اقدامات شروع کر دیے ہیں۔
 
 First reported by Dawn
 
-#Balochistan #Doctors #Pakistan #Healthcare #News
-```
-
-### Missing Panjgur student returns home after two years  [NORMAL]
-- Poster: دو سال بعد لاپتہ طالب علم بازیاب ہو کر گھر پہنچ گیا / Missing student returns home after two years | category other
-- Alternative headline: Student from Balochistan's Panjgur returns home after two years
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkJUVF95WlVXSHRFOU5CVkNYQjE1VGtrZUlfU3RFZ2JrSXg3YmxCUHZqNWFKUFBrOVFydzJkb1BObHVHcHBMU3dKMU1yWjVrU1RuTG03Ynk1MVFNVDIyMmVsNzZ5Tmo1NGJ2NTlVQnpiWHZrUEhVeTJXUGc5NmZ1aUswUFM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkJUVF95WlVXSHRFOU5CVkNYQjE1VGtrZUlfU3RFZ2JrSXg3YmxCUHZqNWFKUFBrOVFydzJkb1BObHVHcHBMU3dKMU1yWjVrU1RuTG03Ynk1MVFNVDIyMmVsNzZ5Tmo1NGJ2NTlVQnpiWHZrUEhVeTJXUGc5NmZ1aUswUFM?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: missing student, Panjgur, Balochistan, returns home, missing persons, student | hashtags: #Panjgur #Balochistan #MissingStudent #Pakistan #News
-- Scheduled: Mon 23 Nov, 09:13 AM PKT
-- Caption:
-```
-A student from Balochistan's Panjgur has finally returned home after being missing for two years.
-
-A missing student hailing from Balochistan's Panjgur district has safely returned home after a period of two years, bringing relief to his family after a long ordeal.
-
-بلوچستان کے ضلع پنجگور سے تعلق رکھنے والا لاپتہ طالب علم دو سال کی طویل مدت کے بعد بحفاظت گھر واپس پہنچ گیا ہے، جس سے اس کے اہل خانہ کو بڑی راحت ملی ہے۔
-
-First reported by Dawn
-
-#Panjgur #Balochistan #MissingStudent #Pakistan #News
-```
-
-### JI not against new provinces but urges provision of rights  [NORMAL]
-- Poster: جماعت اسلامی نئے صوبوں کیخلاف نہیں، حقوق کی فراہمی پر زور / JI urges provision of rights over new provinces | category politics
-- Alternative headline: Jamaat-e-Islami outlines stance on new provinces in Balochistan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxORWwxMHhJVnVqaUQ4UkZ1MTJ6Qms0ekhHRXJjdE1JZXhrYXNzQmoydnZyTEZmTF9IR0hiOVJISjlFS3dzZE5PeTAwbVU3SVI1VEJoNmlsVDRyb3RRX2pvNWJOdG1mMTg4LUpHODNBZy1QTU9UVUdNcTRHTFRVOE8xNGVLTENQbFVRUlF3NDg4b1haTlI3am5V?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxORWwxMHhJVnVqaUQ4UkZ1MTJ6Qms0ekhHRXJjdE1JZXhrYXNzQmoydnZyTEZmTF9IR0hiOVJISjlFS3dzZE5PeTAwbVU3SVI1VEJoNmlsVDRyb3RRX2pvNWJOdG1mMTg4LUpHODNBZy1QTU9UVUdNcTRHTFRVOE8xNGVLTENQbFVRUlF3NDg4b1haTlI3am5V?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Jamaat-e-Islami new provinces, JI, Balochistan, provision of rights, political parties, Pakistan politics | hashtags: #JamaatEIslami #Balochistan #PakistaniPolitics #HumanRights #News
-- Scheduled: Mon 23 Nov, 09:23 AM PKT
-- Caption:
-```
-Jamaat-e-Islami has clarified its stance, stating it is not opposed to new provinces while emphasizing the urgent provision of rights.
-
-Jamaat-e-Islami has stated that it is not fundamentally against the creation of new provinces, but has strongly urged that the primary focus should remain on ensuring the constitutional and economic rights of the people, particularly in Balochistan.
-
-جماعت اسلامی نے واضح کیا ہے کہ وہ نئے صوبوں کے قیام کی بنیادی طور پر مخالفت نہیں کرتی، تاہم اس بات پر زور دیا ہے کہ اصل ترجیح عوام بالخصوص بلوچستان کے حقوق کی فراہمی ہونی چاہئے۔
-
-First reported by Dawn
-
-#JamaatEIslami #Balochistan #PakistaniPolitics #HumanRights #News
-```
-
-### Pakistan's offshore oil exploration with Turkiye merits cautious optimism  [NORMAL]
-- Poster: ترکیہ کے ساتھ آف شور تیل تلاش کی کوشش پر محتاط امید / Offshore exploration with Turkiye warrants cautious optimism | category economy
-- Alternative headline: Editorial: Pakistan and Turkiye's offshore exploration requires realistic expectations
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046488/editorial-looking-beyond-the-hype-pakistans-offshore-exploration-effort-with-turkiye-merits-cautious-optimism | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046488/editorial-looking-beyond-the-hype-pakistans-offshore-exploration-effort-with-turkiye-merits-cautious-optimism
-- Supporting coverage: Dawn Latest, Dawn Pakistan
-- Keywords: offshore exploration Turkiye, oil and gas, Turkiye, Pakistan, Kekra-1, energy sector | hashtags: #OilAndGas #Turkiye #PakistanEconomy #EnergyExploration #News
-- Scheduled: Mon 23 Nov, 09:33 AM PKT
-- Caption:
-```
-Pakistan's renewed offshore exploration partnership with Turkiye calls for cautious optimism following past disappointments.
-
-An editorial in Dawn notes that Pakistan's renewed offshore oil and gas exploration effort with Turkiye warrants cautious optimism. Past attempts, including 18 exploratory wells and the 2019 Kekra-1 well, yielded no commercial discoveries, highlighting the need to avoid premature political hype.
-
-ڈان کے اداریے میں کہا گیا ہے کہ ترکیہ کے ساتھ پاکستان کی تیل اور گیس کی تلاش کی نئی کوشش محتاط امید کی متقاضی ہے۔ ماضی کی کوششوں بشمول 18 کنوؤں اور 2019 کے کیکرا ون کنویں سے کوئی کامیابی نہیں ملی تھی، لہذا قبل از وقت سیاسی دعووں سے گریز کرنا چاہئے۔
-
-First reported by Dawn Latest
-
-#OilAndGas #Turkiye #PakistanEconomy #EnergyExploration #News
+#AuditSystem #GovernmentReforms #Pakistan #Governance
 ```
 
 - Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
 - [needs_review] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
@@ -159,7 +135,6 @@ First reported by Dawn Latest
 - [needs_review] normal | Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unem | Fri 20 Nov, 08:28 AM PKT
 - [needs_review] normal | Pakistan and Maldives Move to Establish Joint Trade Group to Boost Com | Fri 20 Nov, 08:38 AM PKT
 - [needs_review] normal | Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Reh | Fri 20 Nov, 08:48 AM PKT
-- [published] normal | Auto financing boom continues as car loans rise | Fri 20 Nov, 09:21 AM PKT
 - [needs_review] normal | UK asks YouTube to remove Russell Brand’s video | Fri 20 Nov, 09:31 AM PKT
 - [needs_review] normal | Asia’s stock markets dive amid AI bubble fears | Fri 20 Nov, 09:41 AM PKT
 - [needs_review] normal | Trump nominee refuses to call Jan 6 an ‘attack’ | Fri 20 Nov, 09:51 AM PKT
@@ -375,13 +350,13 @@ First reported by Dawn Latest
 - [needs_review] normal | Cockroaches, Dissent and a Paradigm Shift in India | Mon 23 Nov, 02:44 AM PKT
 - [needs_review] normal | Massive Fire Destroys Hotels and Shops in Zanzibar | Mon 23 Nov, 02:54 AM PKT
 - [published] normal | Netanyahu and Eisenkot End Coalition Talks Without a Deal | Mon 23 Nov, 03:16 AM PKT
-- [queued] normal | Miley Cyrus Marries Maxx Morando in California Ceremony | Mon 23 Nov, 03:26 AM PKT
-- [queued] normal | Second Ship Targeted in Naval Drone Attacks Off Libyan Coast | Mon 23 Nov, 03:36 AM PKT
-- [queued] normal | Heartbreak for Washington Spirit as KC Current Win NWSL Final | Mon 23 Nov, 03:46 AM PKT
-- [queued] normal | Prince William to Focus on Defence in 2027 Overseas Push | Mon 23 Nov, 04:02 AM PKT
-- [queued] normal | Pochettino Backs Man United Players After Liverpool Thrashing | Mon 23 Nov, 04:12 AM PKT
-- [queued] normal | How Pakistanis Save: An Express Tribune Report | Mon 23 Nov, 04:22 AM PKT
-- [queued] normal | Naya Pakistan Episode Broadcast on 22nd November 2026 | Mon 23 Nov, 04:32 AM PKT
+- [needs_review] normal | Miley Cyrus Marries Maxx Morando in California Ceremony | Mon 23 Nov, 03:26 AM PKT
+- [needs_review] normal | Second Ship Targeted in Naval Drone Attacks Off Libyan Coast | Mon 23 Nov, 03:36 AM PKT
+- [needs_review] normal | Heartbreak for Washington Spirit as KC Current Win NWSL Final | Mon 23 Nov, 03:46 AM PKT
+- [needs_review] normal | Prince William to Focus on Defence in 2027 Overseas Push | Mon 23 Nov, 04:02 AM PKT
+- [needs_review] normal | Pochettino Backs Man United Players After Liverpool Thrashing | Mon 23 Nov, 04:12 AM PKT
+- [needs_review] normal | How Pakistanis Save: An Express Tribune Report | Mon 23 Nov, 04:22 AM PKT
+- [published] normal | Naya Pakistan Episode Broadcast on 22nd November 2026 | Mon 23 Nov, 04:32 AM PKT
 - [queued] normal | Trump Targets Schumer as US Senate Democrats Face New Leadership Push | Mon 23 Nov, 04:49 AM PKT
 - [queued] normal | PTI Questions Sugar Export Approval and Seeks Audit of Import Deal | Mon 23 Nov, 05:36 AM PKT
 - [queued] normal | Atalanta Grab Dramatic Draw With Inter Milan in Serie A | Mon 23 Nov, 05:46 AM PKT
@@ -398,18 +373,22 @@ First reported by Dawn Latest
 - [queued] normal | Missing Panjgur student returns home after two years | Mon 23 Nov, 09:13 AM PKT
 - [queued] normal | JI not against new provinces but urges provision of rights | Mon 23 Nov, 09:23 AM PKT
 - [queued] normal | Pakistan's offshore oil exploration with Turkiye merits cautious optim | Mon 23 Nov, 09:33 AM PKT
+- [queued] normal | UK disability benefits assessment process faces major overhaul recomme | Mon 23 Nov, 10:25 AM PKT
+- [queued] normal | Port Qasim's only coal conveyor system breaks down, disrupting imports | Mon 23 Nov, 10:35 AM PKT
+- [queued] normal | Government moves to overhaul weak audit oversight system | Mon 23 Nov, 10:45 AM PKT
 
 ## Publishing this run
-- Published 'Netanyahu and Eisenkot End Coalition Talks Without a Deal'.
+- Published 'Naya Pakistan Episode Broadcast on 22nd November 2026'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4847 | output tokens: 2194
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
+- Calls: 4 | prompt tokens: 5746 | output tokens: 2619
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "message": "This model is currently experiencing high demand. Spi

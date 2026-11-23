@@ -123540,7 +123540,681 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "41200866cd3d13e6b5d0af8f",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T00:04:49+00:00",
+      "last_update": "2026-11-23T04:49:35+00:00",
+      "event": "Two killed, one injured in separate encounters",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "encounters",
+        "injured",
+        "killed",
+        "one",
+        "separate",
+        "two"
+      ],
+      "source_excerpt": "Two killed, one injured in separate encounters Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHNxLXN5VzA5a0pHMHN3bkRZdFlDZVpla2NubnlsbU5pemFrUTF0al9MMWJwT2d6eUJJS0FfMmVieGo1NWZCOFlINGg5MkI2Rk1sa2h1eFBRVmtjbEtZb2ZYMFgxb1ZUcmRzb2FaZHJQVzlUZHNUZWFXNWpLM1RaczMtUTlpZw?oc=5",
+          "published_at": "2026-11-23T00:04:49+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046414/two-killed-one-injured-in-separate-encounters-in-jhang-lodhran",
+          "published_at": "2026-11-23T04:49:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHNxLXN5VzA5a0pHMHN3bkRZdFlDZVpla2NubnlsbU5pemFrUTF0al9MMWJwT2d6eUJJS0FfMmVieGo1NWZCOFlINGg5MkI2Rk1sa2h1eFBRVmtjbEtZb2ZYMFgxb1ZUcmRzb2FaZHJQVzlUZHNUZWFXNWpLM1RaczMtUTlpZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "65a7aeb2b3024bedcd8e56f8",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T00:04:49+00:00",
+      "last_update": "2026-11-23T04:45:39+00:00",
+      "event": "Worker dies in acid tank explosion in factory",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acid",
+        "dawn",
+        "dies",
+        "explosion",
+        "factory",
+        "tank",
+        "worker"
+      ],
+      "source_excerpt": "Worker dies in acid tank explosion in factory Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2huNGRKWGdUam94QVdoeDB0OGN4WVFLekF6dWppWFFUU2VhU3BIRmM3ZTJBNmowNEhaWXhEVGVSWlV4REZaZkYxRkVXeGNnT2o2Zk1iOXAxM1lRMk5zSmV3b1pxbnRfOWhrdG11X2huaTUzMU1RaVhYcFdUTHpRYjZISjRoZw?oc=5",
+          "published_at": "2026-11-23T00:04:49+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046423/worker-dies-in-acid-tank-explosion-in-faisalabad-factory",
+          "published_at": "2026-11-23T04:45:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2huNGRKWGdUam94QVdoeDB0OGN4WVFLekF6dWppWFFUU2VhU3BIRmM3ZTJBNmowNEhaWXhEVGVSWlV4REZaZkYxRkVXeGNnT2o2Zk1iOXAxM1lRMk5zSmV3b1pxbnRfOWhrdG11X2huaTUzMU1RaVhYcFdUTHpRYjZISjRoZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe9473ef0c9994208616d30b",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T00:54:21+00:00",
+      "last_update": "2026-11-23T04:42:28+00:00",
+      "event": "Mansha wants structural reforms, cheaper energy",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cheaper",
+        "dawn",
+        "energy",
+        "mansha",
+        "reforms",
+        "structural",
+        "wants"
+      ],
+      "source_excerpt": "Mansha wants structural reforms, cheaper energy Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnBBdUFDWU9NdEVUTy01NVk2eXlHOW1EdGRZMno1X2JoOW1hMDZobDZldnNPY1dPMUdWYmxEUFk4R3RYRkJjaUo2YXdRRjBtMnlqZjVpM2Z0VDREM2xIaTV5cE54QmtBbFMxYkYzNlRGTHoybXpUQ2hzR0tQYWZVWW9PczN0MUE?oc=5",
+          "published_at": "2026-11-23T00:54:21+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046409/mian-muhammad-mansha-wants-structural-reforms-cheaper-energy",
+          "published_at": "2026-11-23T04:42:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnBBdUFDWU9NdEVUTy01NVk2eXlHOW1EdGRZMno1X2JoOW1hMDZobDZldnNPY1dPMUdWYmxEUFk4R3RYRkJjaUo2YXdRRjBtMnlqZjVpM2Z0VDREM2xIaTV5cE54QmtBbFMxYkYzNlRGTHoybXpUQ2hzR0tQYWZVWW9PczN0MUE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "da86d44b62fba727dd97ad25",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T00:56:15+00:00",
+      "last_update": "2026-11-23T04:58:36+00:00",
+      "event": "COP31 ends without overarching deal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cop31",
+        "deal",
+        "ends",
+        "express",
+        "overarching",
+        "the",
+        "tribune",
+        "without"
+      ],
+      "source_excerpt": "COP31 ends without overarching deal The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xeHM1TUlGc0Nvc0NwWlJ2cTNFNXRoS1E4bXZUaktGeUJNUjNzNDQ1dThNMVJxdmRmMm93dDJuZmNzOG02TW1FWXBseHdTSERTVEt2R2dJV1ZjZGs2UlJtdDFmelJUWnRfSWRtaFNsVGpIaDlCLUU3S3VzbFBIVFXSAYcBQVVfeXFMTk5KOVVvZTFmeklMTXFSTmF1Q0JlYlV4cWhmQjdkOE8wY1lwc2QydU4xNXcxbVBYaGtITXR5ZXNCOXozZ1BkQk9kcUZFVWFBd0VibVZsMlF1YmVLa1RUTU9yekk2eDU5UnNTSnpScm4zWEhobVV0R28xVlVxOVlaVkE5cGdVSnZB?oc=5",
+          "published_at": "2026-11-23T00:56:15+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/23/cop31-ends-without-a-deal/",
+          "published_at": "2026-11-23T04:58:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xeHM1TUlGc0Nvc0NwWlJ2cTNFNXRoS1E4bXZUaktGeUJNUjNzNDQ1dThNMVJxdmRmMm93dDJuZmNzOG02TW1FWXBseHdTSERTVEt2R2dJV1ZjZGs2UlJtdDFmelJUWnRfSWRtaFNsVGpIaDlCLUU3S3VzbFBIVFXSAYcBQVVfeXFMTk5KOVVvZTFmeklMTXFSTmF1Q0JlYlV4cWhmQjdkOE8wY1lwc2QydU4xNXcxbVBYaGtITXR5ZXNCOXozZ1BkQk9kcUZFVWFBd0VibVZsMlF1YmVLa1RUTU9yekk2eDU5UnNTSnpScm4zWEhobVV0R28xVlVxOVlaVkE5cGdVSnZB?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "54adf9e4a1b5b395f6d7578e",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T04:40:37+00:00",
+      "last_update": "2026-11-23T04:40:37+00:00",
+      "event": "Capitalising on the Middle East conflict: Pakistan's ports can win transshipment business, if policy stays consistent",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046407",
+        "business",
+        "can",
+        "capitalising",
+        "com",
+        "conflict",
+        "consistent",
+        "dawn",
+        "east",
+        "https",
+        "middle",
+        "news",
+        "pakistan",
+        "policy",
+        "ports",
+        "stays",
+        "the",
+        "transshipment",
+        "win",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046407",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046504/capitalising-on-the-middle-east-conflict-pakistans-ports-can-win-transshipment-business-if-policy-stays-consistent",
+          "published_at": "2026-11-23T04:40:37+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQW1kUkx6M1FRQzU3cHZIVUlFSTZyNXJQX01wTlNBM0R3amNOUWVTdkNIY0FaSVFDYkpWSGtvcXNidWtIbklnZmtCc1pXLTlzZTR5ZmczLVo4VlNKdjlDbjVqVVJZSjQySzVIb294VzhVUUdiWFllSGhKV09YRTI5R3JHTERjVUZQcm9RRUktblhORWxYT2k0RFR4S1J4Q0Z1T0xGYmhUejBYbGpMYmV4Y29kMmw5dWd6RmQ0N2xaaXh4V05qdlZ3NWt0QkhCdw?oc=5",
+          "published_at": "2026-11-23T04:40:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046504/capitalising-on-the-middle-east-conflict-pakistans-ports-can-win-transshipment-business-if-policy-stays-consistent",
+        "publisher_url": "https://www.dawn.com/news/2046504/capitalising-on-the-middle-east-conflict-pakistans-ports-can-win-transshipment-business-if-policy-stays-consistent",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3a62e7c707ccf60832981b75",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T04:15:34+00:00",
+      "last_update": "2026-11-23T04:15:34+00:00",
+      "event": "Not short of money, short of reasons: what deters companies from reinvesting profit in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046412",
+        "com",
+        "companies",
+        "dawn",
+        "deters",
+        "from",
+        "https",
+        "money",
+        "news",
+        "not",
+        "pakistan",
+        "profit",
+        "reasons",
+        "reinvesting",
+        "short",
+        "what",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046412",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046501/not-short-of-money-short-of-reasons-what-deters-companies-from-reinvesting-profit-in-pakistan",
+          "published_at": "2026-11-23T04:15:34+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTE1pNlA0bnp6SjZDUlBDYl9DUEtDYzE2azlJLVNJR0dPd1VudzJmSmVmSFI4XzZOenRMNElOMTlIRlBiUTZMUEtFdzItXy1QTlpRbmNqcDJYQmJpYUxfNEJzSjdxVWFVT3d6WEJFbWg5cmFCRWJPS29rWmtvWHZSZDFDYTZ2bzdOWkNLM1ZPSmVLS3MyV2ZVM19pV0lTeEJKWVl2Q2JZTmVaMTVjNlNoMFV3MVlOQkIyLU44NGpNOER6MkdaVzB3Q09xdHBYUQ?oc=5",
+          "published_at": "2026-11-23T04:15:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046501/not-short-of-money-short-of-reasons-what-deters-companies-from-reinvesting-profit-in-pakistan",
+        "publisher_url": "https://www.dawn.com/news/2046501/not-short-of-money-short-of-reasons-what-deters-companies-from-reinvesting-profit-in-pakistan",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9763b7dca44689a0229e6e5d",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T04:38:14+00:00",
+      "last_update": "2026-11-23T04:41:15+00:00",
+      "event": "Child rescued in Ukraine after Russian drone attack kills 10",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "attack",
+        "boy",
+        "called",
+        "child",
+        "david",
+        "drone",
+        "hours",
+        "kills",
+        "old",
+        "rescued",
+        "rubble",
+        "russian",
+        "seven",
+        "spending",
+        "the",
+        "trapped",
+        "ukraine",
+        "was",
+        "year"
+      ],
+      "source_excerpt": "A seven-year-old boy called David was rescued after spending 14 hours trapped in the rubble of a Russian drone attack.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
+          "published_at": "2026-11-23T04:38:14+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWE2WjNzLUJMRy0yRDhTMGVvakRTUjZiQ0xjMVlqZ1ZMb0lqRlFyVDVtcUFsY240eGZlQnZVRzJoakdvSTQxTTE3Vzhhd3dIS1V2aFZyQTJLMXRncjVNYzk3U283UTl2VjdUcmx6bEs3M0dnSEVobGdNZk1Xc3VOYk9WN015MVY5MUdzOWxVc0w2ZmJkR0xZNGNNdHZLUlJVelpUMTBQSXRpM2IzaF9xMTFR0gG3AUFVX3lxTE8zMTdOSDhiMWhiMlBmek5HemxBU1RmMUdOajNYWVNmUk55NzdrRG95QkRTZkJMRzNaMWo4Q0VERmlaRXpubEZkQnNLVDdiaVhXS19mRnozN0xsYW9PV29iRmp1ZkFrbkJVaWFfRU5fUjF5X0cyN0diazNFb0U5UWJMWXpqQTllUlRWUUU5MEV2cGJzUlBvVUpOZ3JnOE1jbjVRLXE2c044WHhtRjJQaFZCbDhVUEhnRQ?oc=5",
+          "published_at": "2026-11-23T04:41:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c6397d62cbf3d6bb86d7592b",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T04:01:13+00:00",
+      "last_update": "2026-11-23T04:01:13+00:00",
+      "event": "Pip assessments need 'fundamental overhaul', report to say",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assessments",
+        "disability",
+        "fundamental",
+        "independence",
+        "major",
+        "minister",
+        "need",
+        "overhaul",
+        "payment",
+        "personal",
+        "pip",
+        "recommend",
+        "reforms",
+        "report",
+        "say",
+        "says",
+        "sir",
+        "stephen",
+        "the",
+        "timms",
+        "will"
+      ],
+      "source_excerpt": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T04:01:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3dc3203b72b87895f6ed1a84",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T04:44:00+00:00",
+      "last_update": "2026-11-23T04:44:00+00:00",
+      "event": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "alive",
+        "are",
+        "attack",
+        "boy",
+        "building",
+        "dead",
+        "dymer",
+        "efforts",
+        "find",
+        "from",
+        "hours",
+        "missing",
+        "ongoing",
+        "people",
+        "pulled",
+        "rescue",
+        "rescuers",
+        "residential",
+        "rubble",
+        "russian",
+        "say",
+        "still",
+        "strike",
+        "ten",
+        "the",
+        "those",
+        "ukraine",
+        "with"
+      ],
+      "source_excerpt": "Ten people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T04:44:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f452e57fff26eeb50fed1a13",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T04:54:51+00:00",
+      "last_update": "2026-11-23T04:54:51+00:00",
+      "event": "Faryal for selection of competent, popular candidates for local polls",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "candidates",
+        "competent",
+        "dawn",
+        "faryal",
+        "for",
+        "local",
+        "polls",
+        "popular",
+        "selection"
+      ],
+      "source_excerpt": "Faryal for selection of competent, popular candidates for local polls Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGNIeE5yWm5VeEhPbVIzRDNvajFvRE52QktLMjhXVURfNlpJQkRqd1J5YnNSZEJyZGRtemwtNlZQZTJEWWJ4U01DdjlnU1lldWY3TFhsd245N1RXaW0xclRXQXdyaFJxaXZoYUt0ZG9KMi1JZXg0b0F5UHhPOFp1YWRnaUtqVHZJb05JaTN0eGlfSlliQ1UzbHU0TFlfNzUtbWdoTg?oc=5",
+          "published_at": "2026-11-23T04:54:51+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046419/faryal-for-selection-of-competent-popular-candidates-for-local-polls",
+          "published_at": "2026-11-23T04:54:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGNIeE5yWm5VeEhPbVIzRDNvajFvRE52QktLMjhXVURfNlpJQkRqd1J5YnNSZEJyZGRtemwtNlZQZTJEWWJ4U01DdjlnU1lldWY3TFhsd245N1RXaW0xclRXQXdyaFJxaXZoYUt0ZG9KMi1JZXg0b0F5UHhPOFp1YWRnaUtqVHZJb05JaTN0eGlfSlliQ1UzbHU0TFlfNzUtbWdoTg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c067ded250ad7cc84da2168a",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T04:59:46+00:00",
+      "last_update": "2026-11-23T04:59:46+00:00",
+      "event": "Why is Barrister Saif facing opposition within PTI?",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "barrister",
+        "facing",
+        "geo",
+        "news",
+        "opposition",
+        "pti",
+        "saif",
+        "why",
+        "within"
+      ],
+      "source_excerpt": "Why is Barrister Saif facing opposition within PTI? Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlhCcnYwTllDRldweklMWl9EM0FQRENLWGVxQ3lSRDhfQlY3T2tlMDR2S1NxMVNQUDA2TFp5ejJfM0xjNTF2d0JIZ3lUdGRVMVBnYUtkeUVtbHgzclR2SHk0SEFicjBfWUtaRHN4ajZwU0FDOXZpTW9pczl4bHpfN2ZScFl1QmNwNHJEXzVEckVYdw?oc=5",
+          "published_at": "2026-11-23T04:59:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlhCcnYwTllDRldweklMWl9EM0FQRENLWGVxQ3lSRDhfQlY3T2tlMDR2S1NxMVNQUDA2TFp5ejJfM0xjNTF2d0JIZ3lUdGRVMVBnYUtkeUVtbHgzclR2SHk0SEFicjBfWUtaRHN4ajZwU0FDOXZpTW9pczl4bHpfN2ZScFl1QmNwNHJEXzVEckVYdw?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8efc6f2be5e19b0c4bbf7c35",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T05:00:17+00:00",
+      "last_update": "2026-11-23T05:00:17+00:00",
+      "event": "Residents protest as work continues at Karachi's Nehr-i-Khayyam despite SHC order",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activities",
+        "and",
+        "area",
+        "clear",
+        "clifton",
+        "concerns",
+        "construction",
+        "continues",
+        "continuing",
+        "court",
+        "despite",
+        "development",
+        "directions",
+        "expressed",
+        "from",
+        "halt",
+        "held",
+        "high",
+        "karachi",
+        "khayyam",
+        "marching",
+        "nehr",
+        "order",
+        "protest",
+        "recent",
+        "residents",
+        "shc",
+        "sindh",
+        "sunday",
+        "talwar",
+        "that",
+        "the",
+        "their",
+        "them",
+        "towards",
+        "weekly",
+        "were",
+        "work"
+      ],
+      "source_excerpt": "KARACHI: Residents of Clifton on Sunday expressed concerns that construction and development activities at Nehr-i-Khayyam were continuing despite recent clear directions from the Sindh High Court (SHC) to halt them. The residents of the area held their weekly protest, marching from Do Talwar towards",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046437/residents-protest-as-work-continues-at-karachis-nehr-i-khayyam-despite-shc-order",
+          "published_at": "2026-11-23T05:00:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046437/residents-protest-as-work-continues-at-karachis-nehr-i-khayyam-despite-shc-order",
+        "publisher_url": "https://www.dawn.com/news/2046437/residents-protest-as-work-continues-at-karachis-nehr-i-khayyam-despite-shc-order",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f1e64a5cd8926cc0c64b034c",
+      "remembered_at": "2026-11-23T05:25:04.551183+00:00",
+      "event_date": "2026-11-23T04:52:39+00:00",
+      "last_update": "2026-11-23T04:52:39+00:00",
+      "event": "Sindh’s concerns over Wapda's proposed drainage project",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046406",
+        "com",
+        "concerns",
+        "dawn",
+        "drainage",
+        "https",
+        "news",
+        "over",
+        "project",
+        "proposed",
+        "sindh",
+        "wapda",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046406",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046506/sindhs-concerns-over-wapdas-proposed-drainage-project",
+          "published_at": "2026-11-23T04:52:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046506/sindhs-concerns-over-wapdas-proposed-drainage-project",
+        "publisher_url": "https://www.dawn.com/news/2046506/sindhs-concerns-over-wapdas-proposed-drainage-project",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T04:03:32.498998+00:00"
+  "updated_at": "2026-11-23T05:25:04.551183+00:00"
 }
