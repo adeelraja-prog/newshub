@@ -1,10 +1,10 @@
-# News Hub report - Mon 23 Nov, 01:12 PM PKT
+# News Hub report - Mon 23 Nov, 02:45 PM PKT
 
 ## Collection
-- New items this run: 160 | items in rolling pool: 409
-- Unique story clusters: 353 (duplicates merged: 56)
-- Clusters dropped as already published/queued: 21; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 76, Geo News 12, ProPakistani 10, ARY News 8, samaa tv 7, TechJuice 7, Al Jazeera 6, Profit by Pakistan Today 5, Dawn 3, The News International 2, Dawn Pakistan 2, Dawn Latest 2
+- New items this run: 161 | items in rolling pool: 519
+- Unique story clusters: 428 (duplicates merged: 91)
+- Clusters dropped as already published/queued: 22; unchanged since last analysis: 10
+- Items per outlet: UrduPoint 71, Geo News 9, Al Jazeera 7, ProPakistani 7, TechJuice 7, ARY News 5, Investify 4, samaa tv 3, Dawn 3, The Express Tribune 3, Dawn Pakistan 3, The Current 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -12,114 +12,134 @@
 
 ## Top 5 most important
 - Pakistani fintech secures early-stage investment from ADB Ventures | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bad COP, worse COP: What’s next after climate talks fail? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB invests in Pakistan-based B2B fintech company Neem | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- In meeting with Dar, Portugese foreign minister reaffirms commitment to further bolster Islamabad-Lisbon ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Naqvi, Shujaat discuss creation of new provinces amid growing political debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Major Audit Reforms: What Changes for Pakistan’s Companies & Investors? | Dawn News English | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kenya and DR Congo agree to restore ties after tensions over conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Pakistani fintech secures early-stage investment from ADB Ventures | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bad COP, worse COP: What’s next after climate talks fail? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB invests in Pakistan-based B2B fintech company Neem | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- In meeting with Dar, Portugese foreign minister reaffirms commitment to further bolster Islamabad-Lisbon ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Naqvi, Shujaat discuss creation of new provinces amid growing political debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Major Audit Reforms: What Changes for Pakistan’s Companies & Investors? | Dawn News English | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kenya and DR Congo agree to restore ties after tensions over conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Pakistani fintech secures early-stage investment from ADB Ventures | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bad COP, worse COP: What’s next after climate talks fail? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB invests in Pakistan-based B2B fintech company Neem | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- In meeting with Dar, Portugese foreign minister reaffirms commitment to further bolster Islamabad-Lisbon ties | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Naqvi, Shujaat discuss creation of new provinces amid growing political debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Major Audit Reforms: What Changes for Pakistan’s Companies & Investors? | Dawn News English | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kenya and DR Congo agree to restore ties after tensions over conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 2 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PTI and Imran Khan Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan  [NORMAL]
-- Poster: پু্তগালের وزیر خارجہ کا پاکستان کے ساتھ دوطرفہ تعلقات مزید مضبوط کرنے کا عزم / Portugal Renews Pledge to Boost Ties with Pakistan | category politics
-- Alternative headline: Pakistan and Portugal Pledge to Further Bolster Bilateral Relations
+### Naqvi and Shujaat Discuss New Provinces and Devolution in Lahore  [NORMAL]
+- Poster: نقوی اور شجاعت کی ملاقات، نئے صوبوں کے قیام پر تبادلہ خیال / Naqvi and Shujaat Discuss New Provinces | category politics
+- Alternative headline: Political Debate Heats Up as Shujaat and Naqvi Discuss New Provinces
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMi2gFBVV95cUxON09UVXJNdkpsQjM5RmZraC1KSlhfSmJQSVZMMFdsMHpRYnI4OWhKaXZ0V2IzV0phZG5OWDBFN25JaTI0b2V2RzZCQ3hBVjlIMmhnakgxNmw3V3dadUpETTZLbUl6SU9tSnhIRGJNWTlhSnFUbGk3T09uaW5VR2tVYlRHbS1jbDhPd0Y0bjFlLUFXOG43cXBqNkpfQklZMDV3YTVzN0VyeHlLWUt6UnQzR1l4aDVJMUc5M2NMVE1yNHFPbWVSQVpWU2poQUpVQ09nRlJoLTNVdnJ1Zw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMi2gFBVV95cUxON09UVXJNdkpsQjM5RmZraC1KSlhfSmJQSVZMMFdsMHpRYnI4OWhKaXZ0V2IzV0phZG5OWDBFN25JaTI0b2V2RzZCQ3hBVjlIMmhnakgxNmw3V3dadUpETTZLbUl6SU9tSnhIRGJNWTlhSnFUbGk3T09uaW5VR2tVYlRHbS1jbDhPd0Y0bjFlLUFXOG43cXBqNkpfQklZMDV3YTVzN0VyeHlLWUt6UnQzR1l4aDVJMUc5M2NMVE1yNHFPbWVSQVpWU2poQUpVQ09nRlJoLTNVdnJ1Zw?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan, Dawn Latest
-- Keywords: Pakistan Portugal relations, Ishaq Dar, Portuguese foreign minister, Islamabad Lisbon ties, foreign policy, diplomacy | hashtags: #Pakistan #Portugal #IshaqDar #Diplomacy #Islamabad
-- Scheduled: Mon 23 Nov, 01:12 PM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMitAFBVV95cUxORW4ycFB2b2xLM3BaN3IzRk1vcFlvY0lLd2NUSThRek1mY3o0eXRKamFvZHRKN3R4TGRLdldvQmZZNy1hRmVhTVV5THI0R1FUMTNGVEJZVDRBalk3ZC1fVUVmTDJVRTVSVGtPMjZzaUxuYUJuM3cxTDNUcUllN3QxcTFueFFiTTBaUlJYVzhhZzdGWU5mMlpockRwUGdOdkJzRWpGQW1ybWNxU1RpenprUVFUNHbSAbwBQVVfeXFMT01pWGdwQ0lCWmktbzZJVzkzV0FCVGx1SzFuVVpzY3BucWl6VFlBM3ZucU9HWlFzR1hWWWR5Yjl4YWoxazh0VndOWDFLa183enpEeGJldGFIcUlrVnp0WjNZb2tvaWpIa3UwQkR3QTR1THhoNVVYQ2VuVnVQb3RBWkRWZUxud0d2b090ejUtU0FxbFVGVlNNVlpsanU3dHQ3V3NvNDRQSHBPNi0zcjhzQXAtV2dORWZlYzljMXo?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMitAFBVV95cUxORW4ycFB2b2xLM3BaN3IzRk1vcFlvY0lLd2NUSThRek1mY3o0eXRKamFvZHRKN3R4TGRLdldvQmZZNy1hRmVhTVV5THI0R1FUMTNGVEJZVDRBalk3ZC1fVUVmTDJVRTVSVGtPMjZzaUxuYUJuM3cxTDNUcUllN3QxcTFueFFiTTBaUlJYVzhhZzdGWU5mMlpockRwUGdOdkJzRWpGQW1ybWNxU1RpenprUVFUNHbSAbwBQVVfeXFMT01pWGdwQ0lCWmktbzZJVzkzV0FCVGx1SzFuVVpzY3BucWl6VFlBM3ZucU9HWlFzR1hWWWR5Yjl4YWoxazh0VndOWDFLa183enpEeGJldGFIcUlrVnp0WjNZb2tvaWpIa3UwQkR3QTR1THhoNVVYQ2VuVnVQb3RBWkRWZUxud0d2b090ejUtU0FxbFVGVlNNVlpsanU3dHQ3V3NvNDRQSHBPNi0zcjhzQXAtV2dORWZlYzljMXo?oc=5
+- Supporting coverage: The Express Tribune, Dawn Pakistan, Dawn
+- Keywords: new provinces, Mohsin Naqvi, Chaudhry Shujaat Hussain, devolution of power, Lahore meeting, political debate | hashtags: #NewProvinces #MohsinNaqvi #ChaudhryShujaat #PakistanPolitics #Lahore
+- Scheduled: Mon 23 Nov, 02:45 PM PKT
 - Caption:
 ```
-Portuguese Foreign Minister reaffirmed commitment to further bolster bilateral ties during a meeting with Ishaq Dar.
+Political discussions intensify in Pakistan as leaders meet to deliberate on the creation of new provinces and the devolution of power.
 
-During a meeting with Deputy Prime Minister and Foreign Minister Ishaq Dar, the Portuguese foreign minister reaffirmed their shared commitment to further strengthen and bolster bilateral relations between Islamabad and Lisbon.
+Senior political figures Mohsin Naqvi and Chaudhry Shujaat Hussain met in Lahore to discuss the creation of new provinces and the devolution of power, amid a growing political debate surrounding administrative boundaries in the country.
 
-نائب وزیراعظم و وزیر خارجہ اسحاق ڈار سے ملاقات کے دوران پرتگال کے وزیر خارجہ نے اسلام آباد اور لزبن کے درمیان دوطرفہ تعلقات کو مزید مضبوط کرنے کے عزم کا اعادہ کیا۔
+سینئر سیاسی شخصیات محسن نقوی اور چوہدری شجاعت حسین نے لاہور میں ملاقات کی جس میں ملک میں نئے صوبوں کے قیام اور اختیارات کی منتقلی پر تبادلہ خیال کیا گیا۔
 
-First reported by Dawn
+First reported by The Express Tribune.
 
-#Pakistan #Portugal #IshaqDar #Diplomacy #Islamabad
+#NewProvinces #MohsinNaqvi #ChaudhryShujaat #PakistanPolitics #Lahore
 ```
 
-### What Lies Ahead After Climate Talks Fail to Reach Consensus?  [NORMAL]
-- Poster: موسمیاتی مذاکرات کی ناکامی کے بعد آگے کیا ہوگا؟ / What's Next After Climate Talks Fail? | category disaster
-- Alternative headline: Bad COP, Worse COP: Analyzing the Aftermath of Failed Climate Negotiations
+### Pakistani Fintech Neem Secures Early-Stage Investment from ADB Ventures  [NORMAL]
+- Poster: پاکستانی فن ٹیک کمپنی نیم نے اے ڈی بی وینچرز سے سرمایہ کاری حاصل کر لی / Fintech Neem Secures ADB Ventures Investment | category other
+- Alternative headline: ADB Ventures Invests in Pakistani Fintech Neem to Boost Financial Inclusion
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjBPLVkxLTJsVFVaTTVFM2VrVi1hcnQ4YV9aRzdKRUg4QWFlaU9rbmFaOW9FMmk4NjNLSlhyV3dod3duS2FqMU5VYWRQTFZUeEd5OWhvbkNQS3hRd1ZUblEwUnRxYWtfWUxLdGJxd1V5X1ZhTDdqUTVsTEsxVHA4c1VZcUhuU2dRdXJnaG9nUUI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjBPLVkxLTJsVFVaTTVFM2VrVi1hcnQ4YV9aRzdKRUg4QWFlaU9rbmFaOW9FMmk4NjNLSlhyV3dod3duS2FqMU5VYWRQTFZUeEd5OWhvbkNQS3hRd1ZUblEwUnRxYWtfWUxLdGJxd1V5X1ZhTDdqUTVsTEsxVHA4c1VZcUhuU2dRdXJnaG9nUUI?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Geo News
-- Keywords: climate talks failure, COP, climate change, global climate policy, environmental negotiations, climate action | hashtags: #ClimateCrisis #COP #ClimateTalks #Environment #GlobalWarming
-- Scheduled: Mon 23 Nov, 01:22 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHV4WEV4LVdPY01oQjFmaGFHUGo0TDNqekJTYnBHTnhiNHI0dlNWaDNnb3B5eE1pS0V0N3BlbVpTTHVpaV96Y3VQRzFNa092X3hYV3hCNEd0WmFscUsxQnRlSXFaOTNiTVEzNkp1Z2lTZTFoWmdjZlNVb2YydF9SVFVEYS1yTEd0VkNKRXlObFRncFhIQUZTblowQTJfZHc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHV4WEV4LVdPY01oQjFmaGFHUGo0TDNqekJTYnBHTnhiNHI0dlNWaDNnb3B5eE1pS0V0N3BlbVpTTHVpaV96Y3VQRzFNa092X3hYV3hCNEd0WmFscUsxQnRlSXFaOTNiTVEzNkp1Z2lTZTFoWmdjZlNVb2YydF9SVFVEYS1yTEd0VkNKRXlObFRncFhIQUZTblowQTJfZHc?oc=5
+- Supporting coverage: Investify, PhoneWorld, samaa tv, ProPakistani, Investify, Profit by Pakistan Today
+- Keywords: Neem fintech, ADB Ventures, early-stage investment, Pakistani fintech, digital payments, financial infrastructure | hashtags: #Fintech #Neem #ADBVentures #PakistanStartups #DigitalPayments
+- Scheduled: Mon 23 Nov, 02:55 PM PKT
 - Caption:
 ```
-As recent climate negotiations face significant hurdles, experts examine what comes next after the talks fail.
+Pakistan's digital finance sector receives a boost as fintech startup Neem secures early-stage investment from ADB Ventures.
 
-Following the deadlock and failure at recent climate talks, international observers and environmental experts are questioning the path forward for global climate policy, emission targets, and financial commitments to vulnerable nations.
+Pakistani fintech company Neem has successfully secured early-stage investment from ADB Ventures, marking a significant milestone for the country's growing digital financial services and business payments infrastructure.
 
-حالیہ موسمیاتی مذاکرات میں ڈیڈلاک اور ناکامی کے بعد بین الاقوامی مبصرین اور ماحولیاتی ماہرین عالمی موسمیاتی پالیسی، اخراج کے اہداف اور متاثرہ ممالک کے لیے مالیاتی وعدوں کے مستقبل پر سوالات اٹھا رہے ہیں۔
+پاکستانی فن ٹیک کمپنی نیم نے اے ڈی بی وینچرز سے ابتدائی مرحلے کی سرمایہ کاری حاصل کر لی ہے، جو ملک کے ڈیجیٹل مالیاتی اور کاروباری انفراسٹرکچر کے لیے ایک اہم سنگ میل ہے۔
 
-First reported by Dawn
+First reported by samaa tv.
 
-#ClimateCrisis #COP #ClimateTalks #Environment #GlobalWarming
+#Fintech #Neem #ADBVentures #PakistanStartups #DigitalPayments
 ```
 
-### ADB Invests in Pakistan-Based B2B Fintech Company Neem  [NORMAL]
-- Poster: ایشین ڈویلپمنٹ بینک کی پاکستان کی فن ٹیک کمپنی 'نیم' میں سرمایہ کاری / ADB Invests in Pakistani Fintech Neem | category tech
-- Alternative headline: Asian Development Bank Backs Pakistani Fintech Startup Neem
+### Major Audit Reforms Introduced for Companies and Investors in Pakistan  [NORMAL]
+- Poster: پاکستان میں کمپنیوں اور سرمایہ کاروں کے لیے بڑے آڈٹ اصلاحات کا اعلان / Major Audit Reforms Introduced in Pakistan | category other
+- Alternative headline: What the New Audit Reforms Mean for Pakistan’s Corporate Sector
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG5TSXEyazY3aVZVNTdWdXYyekw4LVBGUTZQamtEZGpKWnZGOFI5bUtrUjBybWhCYXE3YlpPeE1uQklsRlBiTXN6OENZZVRHMEk3VFpjUXJRQWdldE1DUHB4WVJuR3NtRFprSzczRElwMW5xS05ySXFtRlJpVXZxTWhfYnJ2MWdWSEgxa1RsX1hFUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG5TSXEyazY3aVZVNTdWdXYyekw4LVBGUTZQamtEZGpKWnZGOFI5bUtrUjBybWhCYXE3YlpPeE1uQklsRlBiTXN6OENZZVRHMEk3VFpjUXJRQWdldE1DUHB4WVJuR3NtRFprSzczRElwMW5xS05ySXFtRlJpVXZxTWhfYnJ2MWdWSEgxa1RsX1hFUQ?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Investify
-- Keywords: ADB invests in Neem, Asian Development Bank, Neem fintech, Pakistan startup, B2B fintech, investment | hashtags: #ADB #Neem #Fintech #Investment #Pakistan
-- Scheduled: Mon 23 Nov, 01:32 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVlXM3cyYkN5clhFazNWeS0tX2w0WlI5TEtkZnZFR1hndXlqUTZRUjFBa0xwQ015MnFnSHpLcDM5VTA2LThIQzFGcG10czZ2SllnbnNQSERQMlZISS1lWGl0c0pkT3hLaGRIMkxwOWFlMUlqVG9YaVBWbW1kS2w0My1naU5nUDJaeXpYZDh6R1AwWWg3OW5FSnJScGJwN09TclZOOGNwdElUdTlhV2JoWjJZYVAxNFQwU01HUXpCNA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVlXM3cyYkN5clhFazNWeS0tX2w0WlI5TEtkZnZFR1hndXlqUTZRUjFBa0xwQ015MnFnSHpLcDM5VTA2LThIQzFGcG10czZ2SllnbnNQSERQMlZISS1lWGl0c0pkT3hLaGRIMkxwOWFlMUlqVG9YaVBWbW1kS2w0My1naU5nUDJaeXpYZDh6R1AwWWg3OW5FSnJScGJwN09TclZOOGNwdElUdTlhV2JoWjJZYVAxNFQwU01HUXpCNA?oc=5
+- Supporting coverage: Dawn
+- Keywords: audit reforms, Pakistan companies, investors, corporate governance, financial transparency, Dawn News | hashtags: #AuditReforms #PakistanEconomy #CorporateGovernance #BusinessPakistan #DawnNews
+- Scheduled: Mon 23 Nov, 03:05 PM PKT
 - Caption:
 ```
-The Asian Development Bank has invested in Pakistan-based B2B fintech company Neem.
+Pakistan's corporate landscape faces significant changes as major new audit reforms are rolled out for companies and investors.
 
-The Asian Development Bank (ADB) has announced an investment in Pakistan-based B2B fintech company Neem, supporting the startup's mission to enhance financial inclusion and digital business infrastructure in the country.
+Major audit reforms have been announced, bringing significant changes for companies and investors operating in Pakistan. The updates aim to enhance financial transparency and regulatory compliance across the corporate sector.
 
-ایشین ڈویلپمنٹ بینک (ADB) نے پاکستان میں قائم بی ٹو بی فن ٹیک کمپنی 'نیم' میں سرمایہ کاری کا اعلان کیا ہے، جس سے ملک میں مالیاتی شمولیت اور ڈیجیٹل کاروباری انفراسٹرکچر کو فروغ ملے گا۔
+پاکستان میں کمپنیوں اور سرمایہ کاروں کے لیے اہم آڈٹ اصلاحات کا اعلان کیا گیا ہے، جن کا مقصد کارپوریٹ سٹرکچر میں مالیاتی شفافیت کو بہتر بنانا ہے۔
 
-First reported by Dawn
+First reported by Dawn.
 
-#ADB #Neem #Fintech #Investment #Pakistan
+#AuditReforms #PakistanEconomy #CorporateGovernance #BusinessPakistan #DawnNews
 ```
 
-- Indian outlets blocked this run: 10 items
+### Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions  [NORMAL]
+- Poster: کینیا اور کانگو نے کشیدگی کے بعد سفارتی تعلقات بحال کرنے پر اتفاق کر لیا / Kenya and DR Congo Restore Diplomatic Ties | category world
+- Alternative headline: Kenya and DR Congo Mend Relations Following Conflict Disputes
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, BBC
+- Keywords: Kenya DR Congo ties, William Ruto, Felix Tshisekedi, diplomatic relations, East Africa, conflict resolution | hashtags: #Kenya #DRCongo #Diplomacy #AfricaNews #BBC
+- Scheduled: Mon 23 Nov, 03:15 PM PKT
+- Caption:
+```
+Diplomatic relations between Kenya and the Democratic Republic of Congo are set to be fully restored following a mediation summit.
+
+Kenya's President William Ruto and DR Congo counterpart Felix Tshisekedi have agreed to restore full diplomatic ties following bilateral tensions that began in 2023 over conflict disputes in the eastern region of DR Congo.
+
+کینیا کے صدر ولیم روٹو اور کانگو کے صدر فیلکس تشیانکیدی نے مشرقی کانگو کے تنازعے پر پیدا ہونے والی کشیدگی کے بعد مکمل سفارتی تعلقات بحال کرنے پر اتفاق کر لیا ہے۔
+
+First reported by BBC World.
+
+#Kenya #DRCongo #Diplomacy #AfricaNews #BBC
+```
+
+- Indian outlets blocked this run: 12 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
 
 ## Queue status
-- [needs_review] normal | Africa Climate Funding: Europe Urges Using Existing Pledges | Fri 20 Nov, 07:36 AM PKT
-- [needs_review] normal | Indonesian Daycare Principal Jailed Over Child Abuse | Fri 20 Nov, 07:46 AM PKT
-- [needs_review] normal | Meta Rethinks 2030 Climate Goals Amid AI Energy Surge | Fri 20 Nov, 07:56 AM PKT
 - [needs_review] normal | Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unem | Fri 20 Nov, 08:28 AM PKT
 - [needs_review] normal | Pakistan and Maldives Move to Establish Joint Trade Group to Boost Com | Fri 20 Nov, 08:38 AM PKT
 - [needs_review] normal | Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Reh | Fri 20 Nov, 08:48 AM PKT
@@ -131,7 +151,6 @@ First reported by Dawn
 - [needs_review] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
 - [needs_review] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
 - [needs_review] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
-- [published] normal | Pakistan Jumps 17 Ranks in UN E-Government Development Index 2026 | Fri 20 Nov, 02:00 PM PKT
 - [needs_review] normal | NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Launderi | Fri 20 Nov, 02:10 PM PKT
 - [needs_review] normal | Trump Ousts US Cyber Director After Tech Outages Spark Criticism | Fri 20 Nov, 02:20 PM PKT
 - [needs_review] normal | Awami Raj Party Chief Iqrar-ul-Hassan Indicted in NCCIA Case | Fri 20 Nov, 02:30 PM PKT
@@ -349,12 +368,12 @@ First reported by Dawn
 - [needs_review] normal | PTI Pushes for KP Leaders' Freedom Following Legal Changes | Mon 23 Nov, 06:59 AM PKT
 - [needs_review] normal | Suspected Drone Attack Triggers Explosion on Russian Ship in Libya | Mon 23 Nov, 07:09 AM PKT
 - [published] normal | South Korea's Stock Market Tumbles Amid Growing AI Bubble Fears | Mon 23 Nov, 07:19 AM PKT
-- [queued] normal | Cameroon's Ex-Rebels Caught Between Hiding and Broken Promises | Mon 23 Nov, 07:29 AM PKT
-- [queued] normal | Pakistani among two injured in Iranian attack on Bahrain | Mon 23 Nov, 07:57 AM PKT
-- [queued] normal | Closing gateway to Central Asia amid regional challenges | Mon 23 Nov, 08:07 AM PKT
-- [queued] normal | Global food import bill projected to rise 1.9pc in 2026: FAO | Mon 23 Nov, 08:17 AM PKT
-- [queued] normal | World economy hinges on Iran peace deal, says Hakan Fidan | Mon 23 Nov, 08:27 AM PKT
-- [queued] normal | Balochistan doctors demand pending salaries | Mon 23 Nov, 09:03 AM PKT
+- [needs_review] normal | Cameroon's Ex-Rebels Caught Between Hiding and Broken Promises | Mon 23 Nov, 07:29 AM PKT
+- [needs_review] normal | Pakistani among two injured in Iranian attack on Bahrain | Mon 23 Nov, 07:57 AM PKT
+- [needs_review] normal | Closing gateway to Central Asia amid regional challenges | Mon 23 Nov, 08:07 AM PKT
+- [needs_review] normal | Global food import bill projected to rise 1.9pc in 2026: FAO | Mon 23 Nov, 08:17 AM PKT
+- [needs_review] normal | World economy hinges on Iran peace deal, says Hakan Fidan | Mon 23 Nov, 08:27 AM PKT
+- [published] normal | Balochistan doctors demand pending salaries | Mon 23 Nov, 09:03 AM PKT
 - [queued] normal | Missing Panjgur student returns home after two years | Mon 23 Nov, 09:13 AM PKT
 - [queued] normal | JI not against new provinces but urges provision of rights | Mon 23 Nov, 09:23 AM PKT
 - [queued] normal | Pakistan's offshore oil exploration with Turkiye merits cautious optim | Mon 23 Nov, 09:33 AM PKT
@@ -367,12 +386,16 @@ First reported by Dawn
 - [queued] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
 - [queued] normal | What Lies Ahead After Climate Talks Fail to Reach Consensus? | Mon 23 Nov, 01:22 PM PKT
 - [queued] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
+- [queued] normal | Naqvi and Shujaat Discuss New Provinces and Devolution in Lahore | Mon 23 Nov, 02:45 PM PKT
+- [queued] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
+- [queued] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
+- [queued] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
 
 ## Publishing this run
-- Published 'South Korea's Stock Market Tumbles Amid Growing AI Bubble Fears'.
+- Published 'Balochistan doctors demand pending salaries'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4963 | output tokens: 2186
+- Calls: 3 | prompt tokens: 6365 | output tokens: 2072
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {

@@ -125713,7 +125713,960 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "891b8baca23015d9b0033900",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T07:07:30+00:00",
+      "last_update": "2026-11-23T08:56:40+00:00",
+      "event": "Naqvi, Shujaat discuss creation of new provinces amid growing political debate",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "creation",
+        "debate",
+        "discuss",
+        "express",
+        "growing",
+        "naqvi",
+        "new",
+        "political",
+        "provinces",
+        "shujaat",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Naqvi, Shujaat discuss creation of new provinces amid growing political debate The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORW4ycFB2b2xLM3BaN3IzRk1vcFlvY0lLd2NUSThRek1mY3o0eXRKamFvZHRKN3R4TGRLdldvQmZZNy1hRmVhTVV5THI0R1FUMTNGVEJZVDRBalk3ZC1fVUVmTDJVRTVSVGtPMjZzaUxuYUJuM3cxTDNUcUllN3QxcTFueFFiTTBaUlJYVzhhZzdGWU5mMlpockRwUGdOdkJzRWpGQW1ybWNxU1RpenprUVFUNHbSAbwBQVVfeXFMT01pWGdwQ0lCWmktbzZJVzkzV0FCVGx1SzFuVVpzY3BucWl6VFlBM3ZucU9HWlFzR1hWWWR5Yjl4YWoxazh0VndOWDFLa183enpEeGJldGFIcUlrVnp0WjNZb2tvaWpIa3UwQkR3QTR1THhoNVVYQ2VuVnVQb3RBWkRWZUxud0d2b090ejUtU0FxbFVGVlNNVlpsanU3dHQ3V3NvNDRQSHBPNi0zcjhzQXAtV2dORWZlYzljMXo?oc=5",
+          "published_at": "2026-11-23T07:07:30+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046526/shujaat-naqvi-discuss-creation-of-new-provinces-devolution-of-power-in-lahore-meeting",
+          "published_at": "2026-11-23T08:56:40+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUd5Mkc1VGdhdmZKcWhGTjFtQVNCTkg1Umh4dGh0UUhaZ2tneUZHWVZVQkl4R2RNYmN3aVZETHFLS1hTZ19LdUtIZjlTQWtPRnhMSzVwekprSDFMbUxuT1hMUGhwOTl1M2twZGUyQTdVRnlqWlFrWDU5OHRjZ09OMXlDbFpSY0h2dzctbGs1Q2FFSzBBMWtXNTNfLXRvWVJYcE1VM0I1Y200cUd5TWhWMnZJVmRyaG43QlFR?oc=5",
+          "published_at": "2026-11-23T08:56:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORW4ycFB2b2xLM3BaN3IzRk1vcFlvY0lLd2NUSThRek1mY3o0eXRKamFvZHRKN3R4TGRLdldvQmZZNy1hRmVhTVV5THI0R1FUMTNGVEJZVDRBalk3ZC1fVUVmTDJVRTVSVGtPMjZzaUxuYUJuM3cxTDNUcUllN3QxcTFueFFiTTBaUlJYVzhhZzdGWU5mMlpockRwUGdOdkJzRWpGQW1ybWNxU1RpenprUVFUNHbSAbwBQVVfeXFMT01pWGdwQ0lCWmktbzZJVzkzV0FCVGx1SzFuVVpzY3BucWl6VFlBM3ZucU9HWlFzR1hWWWR5Yjl4YWoxazh0VndOWDFLa183enpEeGJldGFIcUlrVnp0WjNZb2tvaWpIa3UwQkR3QTR1THhoNVVYQ2VuVnVQb3RBWkRWZUxud0d2b090ejUtU0FxbFVGVlNNVlpsanU3dHQ3V3NvNDRQSHBPNi0zcjhzQXAtV2dORWZlYzljMXo?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dfe9e675c863e3e8f2a9308c",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T08:45:13+00:00",
+      "last_update": "2026-11-23T08:45:13+00:00",
+      "event": "Major Audit Reforms: What Changes for Pakistan’s Companies & Investors? | Dawn News English",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "audit",
+        "changes",
+        "companies",
+        "dawn",
+        "english",
+        "for",
+        "investors",
+        "major",
+        "news",
+        "pakistan",
+        "reforms",
+        "what"
+      ],
+      "source_excerpt": "Major Audit Reforms: What Changes for Pakistan’s Companies & Investors? | Dawn News English Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVlXM3cyYkN5clhFazNWeS0tX2w0WlI5TEtkZnZFR1hndXlqUTZRUjFBa0xwQ015MnFnSHpLcDM5VTA2LThIQzFGcG10czZ2SllnbnNQSERQMlZISS1lWGl0c0pkT3hLaGRIMkxwOWFlMUlqVG9YaVBWbW1kS2w0My1naU5nUDJaeXpYZDh6R1AwWWg3OW5FSnJScGJwN09TclZOOGNwdElUdTlhV2JoWjJZYVAxNFQwU01HUXpCNA?oc=5",
+          "published_at": "2026-11-23T08:45:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVlXM3cyYkN5clhFazNWeS0tX2w0WlI5TEtkZnZFR1hndXlqUTZRUjFBa0xwQ015MnFnSHpLcDM5VTA2LThIQzFGcG10czZ2SllnbnNQSERQMlZISS1lWGl0c0pkT3hLaGRIMkxwOWFlMUlqVG9YaVBWbW1kS2w0My1naU5nUDJaeXpYZDh6R1AwWWg3OW5FSnJScGJwN09TclZOOGNwdElUdTlhV2JoWjJZYVAxNFQwU01HUXpCNA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "47525ad3ee1dde8321897db7",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T08:53:01+00:00",
+      "last_update": "2026-11-23T08:53:01+00:00",
+      "event": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affairs",
+        "after",
+        "agree",
+        "and",
+        "committed",
+        "conflict",
+        "congo",
+        "interference",
+        "internal",
+        "kenya",
+        "leaders",
+        "non",
+        "over",
+        "restore",
+        "sovereignty",
+        "states",
+        "tensions",
+        "the",
+        "ties",
+        "two",
+        "upholding"
+      ],
+      "source_excerpt": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T08:53:01+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UeUdBUzZTMzZ5MTlwZzJIUzJSMGwydFppcmhMRGlLNkQ4cjdnTndyS2NRZFFDYW13cTA1ZlNROGd4T0czd2RtWjVqb2pfUlNzYXR6MTBqQzZ1T28?oc=5",
+          "published_at": "2026-11-23T08:53:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "264b4eec3d6b285c3bd9ebad",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T06:28:35+00:00",
+      "last_update": "2026-11-23T08:14:08+00:00",
+      "event": "Pop star Miley Cyrus weds drummer in California",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "california",
+        "cyrus",
+        "drummer",
+        "miley",
+        "pop",
+        "samaa",
+        "star",
+        "weds"
+      ],
+      "source_excerpt": "Pop star Miley Cyrus weds drummer in California samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGtpN1Z4aW9rYlIzdW9jQkVNV2dISktpb2N5M2hLQ0lPajZKVGNRQkpKOEQ3YTdNMUREaWxNeHBNNzhZN01naGZiOUdaeEVZQVFVZ1o3SjdWX3ZYRWp0N0gzTnhVU05ZdmVKUklyZWVWLVFNeVJpZkljQ21QMFpNdm92czRudw?oc=5",
+          "published_at": "2026-11-23T06:28:35+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046524/pop-star-miley-cyrus-marries-drummer-maxx-morando-in-california",
+          "published_at": "2026-11-23T08:14:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGtpN1Z4aW9rYlIzdW9jQkVNV2dISktpb2N5M2hLQ0lPajZKVGNRQkpKOEQ3YTdNMUREaWxNeHBNNzhZN01naGZiOUdaeEVZQVFVZ1o3SjdWX3ZYRWp0N0gzTnhVU05ZdmVKUklyZWVWLVFNeVJpZkljQ21QMFpNdm92czRudw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "04479ba10065c9c321dcbb1b",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T05:15:10+00:00",
+      "last_update": "2026-11-23T08:37:30+00:00",
+      "event": "Oil holds in tight range as Gulf attacks sustain risk premium",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attacks",
+        "dawn",
+        "gulf",
+        "holds",
+        "oil",
+        "premium",
+        "range",
+        "risk",
+        "sustain",
+        "tight"
+      ],
+      "source_excerpt": "Oil holds in tight range as Gulf attacks sustain risk premium Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGhPVzUzUV81STVGX2FLaTJTRWRQSE5VNGlLQndxNlhNY1J4RUQ2c1V1Wm81ZldXT1Q0WUM2ZnRMNXR0aXVjcHhwcnhBZW9kWHdDZTh0Y0J2MkdFUExtV0JBSFNiRU5FYlp5LVlVSFpxTE9ObldNLWVhb1NtaFRwZ2FYU1pJc1FMdDRrdkJRUkpsNE5IaVdZQWhRQQ?oc=5",
+          "published_at": "2026-11-23T05:15:10+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMUJkdk02MlpxSVRTb3ZwX3hmaFd6c1RBdFBhb0ItMmowcHpDdzFnaDFoaWZiMWNUNXVlRDZKdWZVMlJrSUdEYmNmV1N4OWlBOC1Ib0dXZ3c3TlZxUy1BX1RRZURkOTl3Sk1zV1ViN0JnMG5YVURMZDZKcTljM0RpNWNlcFVtM0ZwUUFFLS1reDZLa3p0M1FCQ2p6TFBDTEHSAacBQVVfeXFMUEJmMVFTdm9sSkN2YW5saFEyWmxWYk9kaUU3Zlc5MFMxZmtIRWRid19HeGtwYUFoZ1NkeVhYUUQycVJvWmhEYk83VXFjamxldkYwRkUyOWdfcmZnNFpVUE13VmYxcjRZTXpQaTR5UktuVVZuNk9xR1RiUnQ2NEZaLUpYYWFJTEdhRUtjZm5oT2dQempSOGltOTlrOVVsdjFLQTBkRW5yVU0?oc=5",
+          "published_at": "2026-11-23T08:37:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGhPVzUzUV81STVGX2FLaTJTRWRQSE5VNGlLQndxNlhNY1J4RUQ2c1V1Wm81ZldXT1Q0WUM2ZnRMNXR0aXVjcHhwcnhBZW9kWHdDZTh0Y0J2MkdFUExtV0JBSFNiRU5FYlp5LVlVSFpxTE9ObldNLWVhb1NtaFRwZ2FYU1pJc1FMdDRrdkJRUkpsNE5IaVdZQWhRQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ae48cee85438d190e8398db3",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:10:06+00:00",
+      "last_update": "2026-11-23T09:10:06+00:00",
+      "event": "Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "care",
+        "from",
+        "healthcare",
+        "kamal",
+        "must",
+        "mustafa",
+        "pakistan",
+        "preventive",
+        "shift",
+        "sick"
+      ],
+      "source_excerpt": "Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUpJV1FSUmE0bG5DdFZINE4wdFU0eXROR3F3TXdvaVdmUURKRWJhMlZGdVhhSGE3cUV1WDlpakp2MHBINEVNM1VVN0JTcFVfWGFFa0lIOThmWlR4ei15Q0RPYWs0bTJPbkJ3ZWQzRkxLb0RGaGN6ZVBaMGFmc2R5WXB6WUp3UFU1djFvWDFMRXRSV0xaNUFR?oc=5",
+          "published_at": "2026-11-23T09:10:06+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-must-shift-from-sick-care-to-preventive-healthcare-mustafa-kamal",
+          "published_at": "2026-11-23T09:10:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUpJV1FSUmE0bG5DdFZINE4wdFU0eXROR3F3TXdvaVdmUURKRWJhMlZGdVhhSGE3cUV1WDlpakp2MHBINEVNM1VVN0JTcFVfWGFFa0lIOThmWlR4ei15Q0RPYWs0bTJPbkJ3ZWQzRkxLb0RGaGN6ZVBaMGFmc2R5WXB6WUp3UFU1djFvWDFMRXRSV0xaNUFR?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0bfde270ec8e252dcef07d4a",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:30:16+00:00",
+      "last_update": "2026-11-23T09:30:16+00:00",
+      "event": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "based",
+        "blamed",
+        "charity",
+        "created",
+        "crimes",
+        "destruction",
+        "environmental",
+        "for",
+        "gaza",
+        "has",
+        "how",
+        "israel",
+        "new",
+        "oxfam",
+        "pollution",
+        "report",
+        "shows",
+        "toxic",
+        "wasteland"
+      ],
+      "source_excerpt": "A new report by UK-based charity Oxfam shows how Israel’s destruction of Gaza has created a ‘toxic wasteland'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
+          "published_at": "2026-11-23T09:30:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "455a621979a52c9c630269f9",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:08:07+00:00",
+      "last_update": "2026-11-23T09:08:07+00:00",
+      "event": "AI superintelligence ‘arriving’ warns top Meta executive",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actions",
+        "alexandr",
+        "arriving",
+        "chief",
+        "consequence",
+        "executive",
+        "for",
+        "great",
+        "have",
+        "humankind",
+        "meta",
+        "next",
+        "officer",
+        "over",
+        "says",
+        "superintelligence",
+        "the",
+        "top",
+        "wang",
+        "warns",
+        "will",
+        "world",
+        "year"
+      ],
+      "source_excerpt": "Meta Chief AI Officer Alexandr Wang says humankind's actions over next year will have 'great consequence' for the world.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss",
+          "published_at": "2026-11-23T09:08:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c2b402935442342ca0c7ee96",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T08:53:10+00:00",
+      "last_update": "2026-11-23T08:53:10+00:00",
+      "event": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "challenges",
+        "children",
+        "cost",
+        "displacement",
+        "face",
+        "growing",
+        "increases",
+        "living",
+        "mothers",
+        "struggle",
+        "sudan",
+        "sudanese",
+        "supporting",
+        "survive",
+        "the",
+        "their",
+        "war",
+        "widowed",
+        "widows"
+      ],
+      "source_excerpt": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
+          "published_at": "2026-11-23T08:53:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef9b96b2828e6787177bab2f",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T08:08:00+00:00",
+      "last_update": "2026-11-23T08:08:00+00:00",
+      "event": "Europe’s hot autumn of protests is a symptom of economic breakdown",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "autumn",
+        "beholden",
+        "breakdown",
+        "corporate",
+        "economic",
+        "europe",
+        "european",
+        "governments",
+        "have",
+        "hot",
+        "interests",
+        "longer",
+        "nations",
+        "priority",
+        "protests",
+        "symptom",
+        "the",
+        "their",
+        "top",
+        "wellbeing"
+      ],
+      "source_excerpt": "European governments beholden to corporate interests no longer have the wellbeing of their nations as a top priority.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
+          "published_at": "2026-11-23T08:08:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f38e61df6f46a0b028ccab2b",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:36:10+00:00",
+      "last_update": "2026-11-23T09:36:10+00:00",
+      "event": "Doctors begin fresh strike over pay dispute",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "action",
+        "begin",
+        "dispute",
+        "doctors",
+        "follows",
+        "fresh",
+        "friday",
+        "hour",
+        "industrial",
+        "over",
+        "part",
+        "pay",
+        "resident",
+        "same",
+        "separate",
+        "strike",
+        "the",
+        "took",
+        "which"
+      ],
+      "source_excerpt": "It follows a separate 24-hour strike on Friday in which resident doctors took industrial action as part of the same dispute.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cr3eg5vzn875o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T09:36:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cr3eg5vzn875o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cr3eg5vzn875o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "71a6ad4c98c59ed7d44a3227",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:25:52+00:00",
+      "last_update": "2026-11-23T09:25:52+00:00",
+      "event": "Who is behind the recent street protests in France?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "behind",
+        "blamed",
+        "but",
+        "fighting",
+        "for",
+        "france",
+        "has",
+        "left",
+        "macron",
+        "president",
+        "protesters",
+        "protests",
+        "radical",
+        "recent",
+        "street",
+        "the",
+        "they",
+        "unrest",
+        "what",
+        "who"
+      ],
+      "source_excerpt": "President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cw5y188vzxn8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T09:25:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cw5y188vzxn8o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cw5y188vzxn8o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ae11913180a1f3a0bf132b9c",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:34:34+00:00",
+      "last_update": "2026-11-23T09:34:34+00:00",
+      "event": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "gaza",
+        "into",
+        "israel",
+        "jazeera",
+        "new",
+        "report",
+        "says",
+        "toxic",
+        "turned",
+        "war",
+        "wasteland"
+      ],
+      "source_excerpt": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczQxSG9XUzZBRUZEc3VrWUlDbFBDbUM0ZWp1NEZBc1BnY1RUclFOUzlhdDBuRXJmT08tRk9kQndQMmR2MXNTX1dnNFptV0xJOVpLbHRpMjBrWV9sQ3FCQkFPSWczdUxBNVNJMXhBQkx4WHB0YlJ1ZW91T1BuRHkxNUNKYklORXhENlloTG95U2tYME00Mjd2cVR2cFBlaHE4T3loY0NqUmV6enloLU1YTmpXeUtOZ9IBuwFBVV95cUxQVGJGWWE4eHlzRzdqTXN3NkNUd3NWZGNkN291WEZraFo5QjB5azdjV2NYcUN6QzVxdWE2M3ZCSFFQRlRJeExxalZ1Y1J0TFU2alJuY2Nsc0JFQ1dkWmZlY2dlc04wWUJmQTJfS0N1RzNqX2FJT1h4UEIzaUFzTEtWMXVqcXZla25uN1ZkdnlaYnJ1UVdNdUwtQXFvZ3FabGR3UzA2TEQxT0otZGNFVVpqSTNNb3ZnOEZUZGFr?oc=5",
+          "published_at": "2026-11-23T09:34:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczQxSG9XUzZBRUZEc3VrWUlDbFBDbUM0ZWp1NEZBc1BnY1RUclFOUzlhdDBuRXJmT08tRk9kQndQMmR2MXNTX1dnNFptV0xJOVpLbHRpMjBrWV9sQ3FCQkFPSWczdUxBNVNJMXhBQkx4WHB0YlJ1ZW91T1BuRHkxNUNKYklORXhENlloTG95U2tYME00Mjd2cVR2cFBlaHE4T3loY0NqUmV6enloLU1YTmpXeUtOZ9IBuwFBVV95cUxQVGJGWWE4eHlzRzdqTXN3NkNUd3NWZGNkN291WEZraFo5QjB5azdjV2NYcUN6QzVxdWE2M3ZCSFFQRlRJeExxalZ1Y1J0TFU2alJuY2Nsc0JFQ1dkWmZlY2dlc04wWUJmQTJfS0N1RzNqX2FJT1h4UEIzaUFzTEtWMXVqcXZla25uN1ZkdnlaYnJ1UVdNdUwtQXFvZ3FabGR3UzA2TEQxT0otZGNFVVpqSTNNb3ZnOEZUZGFr?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d4f715c08239cd912467374f",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T08:13:35+00:00",
+      "last_update": "2026-11-23T08:20:59+00:00",
+      "event": "SHC issues notice on plea to transfer Mustafa Amir murder case",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amir",
+        "case",
+        "issues",
+        "murder",
+        "mustafa",
+        "notice",
+        "plea",
+        "shc",
+        "transfer"
+      ],
+      "source_excerpt": "SHC issues notice on plea to transfer Mustafa Amir murder case",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/shc-issues-notice-on-plea-to-transfer-mustafa-amir-murder-case",
+          "published_at": "2026-11-23T08:13:35+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRW52MGJ5YW9hR1JOUHVYdWNEazcwdkZHLXlpaXZSSTVDNmRZajRTSUYwNDhISHUtRG9WWWFfNHlxTTRMLWNyaW8zWWROSnRXaTRrWDlwMm1UM2dqRnZ5dVlxWnRlenlQNGZQZXJaZjZSWGtNVFFuaDZqVnlidDA4Z1RiVkpSTU96?oc=5",
+          "published_at": "2026-11-23T08:20:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/shc-issues-notice-on-plea-to-transfer-mustafa-amir-murder-case",
+        "publisher_url": "https://arynews.tv/shc-issues-notice-on-plea-to-transfer-mustafa-amir-murder-case",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f92efd85bd9a95f903b8f5c9",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:18:13+00:00",
+      "last_update": "2026-11-23T09:18:13+00:00",
+      "event": "Pakistan borrows Rs5.9tr to finance budget deficit in 2025-26",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "9tr",
+        "borrows",
+        "budget",
+        "deficit",
+        "finance",
+        "pakistan",
+        "rs5",
+        "samaa"
+      ],
+      "source_excerpt": "Pakistan borrows Rs5.9tr to finance budget deficit in 2025-26 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQW9QbDJqOENYTVhlNDJmbkFHemViWE9YYy1TbHM2Q1hZZEdud25pc2VTRmtRQ3NIZmtDYjhSNVJFbFMwME9yX24xTGhpQXM5enMwLWlQa1Y3dnlaVWFtUzQ3V18tS25LU2JsRlRxeVRMYmRqd2NjUzUySEU4dHVPb1VVOE5kdldzOWlFbjlCT0VrU0dvWGlkSg?oc=5",
+          "published_at": "2026-11-23T09:18:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQW9QbDJqOENYTVhlNDJmbkFHemViWE9YYy1TbHM2Q1hZZEdud25pc2VTRmtRQ3NIZmtDYjhSNVJFbFMwME9yX24xTGhpQXM5enMwLWlQa1Y3dnlaVWFtUzQ3V18tS25LU2JsRlRxeVRMYmRqd2NjUzUySEU4dHVPb1VVOE5kdldzOWlFbjlCT0VrU0dvWGlkSg?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "de3d2de6f5f60ee0f863a753",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:20:16+00:00",
+      "last_update": "2026-11-23T09:20:16+00:00",
+      "event": "Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during delegation-level talks in Islamabad",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "affairs",
+        "after",
+        "and",
+        "current",
+        "delegation",
+        "during",
+        "european",
+        "expire",
+        "for",
+        "foreign",
+        "full",
+        "gsp",
+        "has",
+        "held",
+        "islam",
+        "islamabad",
+        "level",
+        "minister",
+        "monday",
+        "pakistan",
+        "paulo",
+        "portugal",
+        "portuguese",
+        "rangel",
+        "said",
+        "says",
+        "set",
+        "state",
+        "status",
+        "support",
+        "talks",
+        "the",
+        "union",
+        "visiting",
+        "which"
+      ],
+      "source_excerpt": "Pakistan has Portugal’s “full support” for the European Union’s (EU) GSP+ status, Portuguese Minister of State and Foreign Affairs Paulo Rangel said on Monday during Pakistan-Portugal delegation-level talks held in Islamabad. Pakistan’s current GSP+ status is set to expire in 2027, after which Islam",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-delegation-level-talks-in-islamabad",
+          "published_at": "2026-11-23T09:20:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-delegation-level-talks-in-islamabad",
+        "publisher_url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-delegation-level-talks-in-islamabad",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "870459a17e0cdc0b246ce66c",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:34:21+00:00",
+      "last_update": "2026-11-23T09:34:21+00:00",
+      "event": "Customs seizes liquor worth Rs27.065m from Karachi-Islamabad truck",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "065m",
+        "customs",
+        "from",
+        "islamabad",
+        "karachi",
+        "liquor",
+        "rs27",
+        "seizes",
+        "truck",
+        "worth"
+      ],
+      "source_excerpt": "Customs seizes liquor worth Rs27.065m from Karachi-Islamabad truck",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/customs-seizes-liquor-worth-rs27-065m-from-karachi-islamabad-truck",
+          "published_at": "2026-11-23T09:34:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/customs-seizes-liquor-worth-rs27-065m-from-karachi-islamabad-truck",
+        "publisher_url": "https://arynews.tv/customs-seizes-liquor-worth-rs27-065m-from-karachi-islamabad-truck",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "13ccaac9deb9eaee1b783006",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:27:54+00:00",
+      "last_update": "2026-11-23T09:27:54+00:00",
+      "event": "New road near Karachi airport raises aircraft safety concerns",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aircraft",
+        "airport",
+        "concerns",
+        "karachi",
+        "near",
+        "new",
+        "raises",
+        "road",
+        "safety"
+      ],
+      "source_excerpt": "New road near Karachi airport raises aircraft safety concerns",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/new-road-near-karachi-airport-raises-aircraft-safety-concerns",
+          "published_at": "2026-11-23T09:27:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/new-road-near-karachi-airport-raises-aircraft-safety-concerns",
+        "publisher_url": "https://arynews.tv/new-road-near-karachi-airport-raises-aircraft-safety-concerns",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a2959a19147276e8d39eb44d",
+      "remembered_at": "2026-11-23T09:45:21.707526+00:00",
+      "event_date": "2026-11-23T09:33:45+00:00",
+      "last_update": "2026-11-23T09:33:45+00:00",
+      "event": "Hesson backs Pakistan’s new blood",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "backs",
+        "blood",
+        "express",
+        "hesson",
+        "new",
+        "pakistan",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Hesson backs Pakistan’s new blood The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZZ1ZHTmxkdXByV0swbnM1Z2FWUGZSTHZTR1FPdWNIeFVxaE5nMEJlSTFDOUdqQTNaeFJSTjAxWDZQX2RMSUhUdExJZG5PODg2czhpejJCWHRPU1hoLVA4d21zc0ZHWjhvcldqdl91dTMzTjNPVXJoVtIBgAFBVV95cUxPR1drU2pRTDJtc2Jod3VrT0duQWg4aHZqSXpkZTM5ZmIySlN4MjdTNU1YUm9FdW1DdzFlRlZGZ1E1VmpKUXRwb3U4R0EzQ09RSDU4UnVqRktqS3dXbUpzQ09ZWGtla3lreUEyZlhIWi1MUHpOemFKa1htbDV4OHZCdA?oc=5",
+          "published_at": "2026-11-23T09:33:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZZ1ZHTmxkdXByV0swbnM1Z2FWUGZSTHZTR1FPdWNIeFVxaE5nMEJlSTFDOUdqQTNaeFJSTjAxWDZQX2RMSUhUdExJZG5PODg2czhpejJCWHRPU1hoLVA4d21zc0ZHWjhvcldqdl91dTMzTjNPVXJoVtIBgAFBVV95cUxPR1drU2pRTDJtc2Jod3VrT0duQWg4aHZqSXpkZTM5ZmIySlN4MjdTNU1YUm9FdW1DdzFlRlZGZ1E1VmpKUXRwb3U4R0EzQ09RSDU4UnVqRktqS3dXbUpzQ09ZWGtla3lreUEyZlhIWi1MUHpOemFKa1htbDV4OHZCdA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T08:12:53.619620+00:00"
+  "updated_at": "2026-11-23T09:45:21.707526+00:00"
 }
