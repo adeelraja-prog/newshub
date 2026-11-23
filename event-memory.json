@@ -131641,7 +131641,556 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "df66d3ddbb0efe3b356c037c",
+      "remembered_at": "2026-11-23T19:44:26.439870+00:00",
+      "event_date": "2026-11-23T11:47:29+00:00",
+      "last_update": "2026-11-23T15:10:00+00:00",
+      "event": "Iran says it will use ‘all available means’ to counter US blockade",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affairs",
+        "all",
+        "and",
+        "available",
+        "blockade",
+        "confront",
+        "counter",
+        "defend",
+        "foreign",
+        "iran",
+        "itself",
+        "means",
+        "ministry",
+        "naval",
+        "says",
+        "siege",
+        "the",
+        "tools",
+        "use",
+        "will"
+      ],
+      "source_excerpt": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+      "sources": [
+        {
+          "name": "Khaleej Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWNSTFpsYklxa2l2QU1GU0haVkxxeEQ4UzNGSE9zZVRsUWN0M2puclEzVEdNRGpvMTRiejlHeG5ocC1iOWM0SE5uTmUtdE0wZXFJb1RfTHhLSDhBUEhrLXlqam5Gb0pxa1daZlFiN1J3R01nX3ZQYjlmdHNOSTJoWHgzUFNZU2ZZYnhleE5ERW5JZ2cxR2xtREJiN25ESkxZNUxaNzl3OUY4bkU?oc=5",
+          "published_at": "2026-11-23T11:47:29+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+          "published_at": "2026-11-23T13:04:11+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTktLdU1YVmxRUnlCdUNRZmlIdWloVW12TFNEZGVMdXhoWHdpWGdIMmpkMTJnNWdFdXh2WlhFYWNzckVtcFotcW9ya2JHd1VmLVY2b2hsTFdObno2Q0IxM3oyYWsySUszUEtiTHlEV3JOaW1ZbmJ3YUc4X3BndTRMbmJteXpGTG1VZDU3clloNWNtd3RXdEx5dVdQSlZ6TS14T0tpbUg2eXlZZ9IBrwFBVV95cUxObFRhRTR4SXZfbVZ4c0VMbnJvVVNZbFBjaGw5S29VUG1kcXRieXJjUEROZUoyQTRvSGFOeDdKNUpYbmN4UmZxcTAzNmZjOWR2SmJhVHVHTkxBbUJtc2hjT1NGOTZOUzhpbHZsQ0FKNWhQYkl1S0ZRcTdaTWMzU2N4QnBGV1cwOGpJNERSbmJwYzVNRERpb0JwTGlrUmp4LWczVXVxTXkzLXNRS05JNzBV?oc=5",
+          "published_at": "2026-11-23T13:18:45+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTC0yQ1ZkZy1qcnpmUUI2Mjd4RTFLN2cwd1BNMFhTVFlrX2dxRDY4YXlMMXNkY3hBTWJtbTZlYlhvNWI2bjhNUHQtcmNXX2VKZFBiTG1ycWpkR2cxV292LWViU0EwRW13WFNsV01iUkY5bGR3M3U4dFVSXzVzaWZlOGxCQndyLUJHSnlkLW1vYkF1dXR0Z1N5emYwZUdVMUROX3NnTnVOZDQyZWJJdmJiaGU2LUlOQQ?oc=5",
+          "published_at": "2026-11-23T14:20:55+00:00"
+        },
+        {
+          "name": "The American Conservative",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ25HcWEwZ3ppLXNZRzliV1kzbzd5ZkcwamwwUV9rYWZzem5OV295WThwOGJjellNMjMxek5ITV84d3M1TGNzckFLMk82blJtSFZuT0NFcEtpT2RNMWVyeTQwN1hobkVhcjlZMGtKWDU4Z0lRXzZiQlRhR3UwUGdKM1RVbEU4NzVuR2F0TVd1SXJfbUVaaE1jMXZzTDVnb05M?oc=5",
+          "published_at": "2026-11-23T15:10:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eea56477a59ef16b305a6cb1",
+      "remembered_at": "2026-11-23T19:44:26.439870+00:00",
+      "event_date": "2026-11-23T13:37:43+00:00",
+      "last_update": "2026-11-23T19:28:30+00:00",
+      "event": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "armed",
+        "believes",
+        "express",
+        "german",
+        "launch",
+        "media",
+        "nato",
+        "nuclear",
+        "ready",
+        "russia",
+        "satellite",
+        "say",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0NqcUdkemNXY2ZXbkhtQVN6RjhHU25GR2hROUhLZmN1ZlhsUnAwR3ExLXA0bWtRd0YxbWsybF9pT3pPdE9pZjF6c0J3LXg5OVJFRjI1a2FuSWZyeV9fc1lGQWsza3VXbUtIXzFaRW9FSktDWGdOenFtbXYySmxJa05WaDNvS1NGV0lndWhrSE9kaGtYRDlra2ZCR2d6QkNyRmFobVJ3dmd1Y2l1QXNEd29KdVpnSlZC0gHAAUFVX3lxTE4xV3FVdFNycURtdE5HUkJ2X0UzTmFDN1NaSS1OWTVrVnItYXd0eDdhTkZ6amhoWVM4bXZCU2xPeE80S0Y1eWtLYXNVVktuV0NDd3BiX3VRcGtPRlNSYk1zQkhoLUtycEtvZGtfVEVhaHJoaG5jT29aRFdvMWdhYjR3ZC1mUkpNTnlpQkR0ZVp3RmJkWUM2VEtjM25yMHViX1dwZTR2VVZ2TW41RHVkTjBjVVNxSGtITnpmc3M0djR1Vw?oc=5",
+          "published_at": "2026-11-23T13:37:43+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeFZfcUtRZnRGWmhSQnJhbDNWeE9vNFI2clBnS1NobkVNNTRYeGFlM1d3VzFQZEZoMS1BRHVRUG9kR1RuV1Q3eFZrcTk5QWZvOG00N2YzaVY3eXpHSTBZRUJETEs1YUhuZlVRSGQ4UHMtOHJ4eGV5eXIzNHI0Yng4Mzg1M19MN2N6bUVCQlQ4Q0VyWWpUTVBiSmpPTkZxbGoyRkhWRnd4SzcwOXREQzJZMjMzRE10X1VHSlhFRHZoZTdUTFBL?oc=5",
+          "published_at": "2026-11-23T19:15:49+00:00"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+          "published_at": "2026-11-23T19:28:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0NqcUdkemNXY2ZXbkhtQVN6RjhHU25GR2hROUhLZmN1ZlhsUnAwR3ExLXA0bWtRd0YxbWsybF9pT3pPdE9pZjF6c0J3LXg5OVJFRjI1a2FuSWZyeV9fc1lGQWsza3VXbUtIXzFaRW9FSktDWGdOenFtbXYySmxJa05WaDNvS1NGV0lndWhrSE9kaGtYRDlra2ZCR2d6QkNyRmFobVJ3dmd1Y2l1QXNEd29KdVpnSlZC0gHAAUFVX3lxTE4xV3FVdFNycURtdE5HUkJ2X0UzTmFDN1NaSS1OWTVrVnItYXd0eDdhTkZ6amhoWVM4bXZCU2xPeE80S0Y1eWtLYXNVVktuV0NDd3BiX3VRcGtPRlNSYk1zQkhoLUtycEtvZGtfVEVhaHJoaG5jT29aRFdvMWdhYjR3ZC1mUkpNTnlpQkR0ZVp3RmJkWUM2VEtjM25yMHViX1dwZTR2VVZ2TW41RHVkTjBjVVNxSGtITnpmc3M0djR1Vw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e26888a030b64d5173360ad5",
+      "remembered_at": "2026-11-23T19:44:26.439870+00:00",
+      "event_date": "2026-11-23T14:29:22+00:00",
+      "last_update": "2026-11-23T18:48:12+00:00",
+      "event": "Shehbaz, Portuguese foreign minister discuss trade, investment ties",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "discuss",
+        "foreign",
+        "investment",
+        "minister",
+        "portuguese",
+        "samaa",
+        "shehbaz",
+        "ties",
+        "trade"
+      ],
+      "source_excerpt": "Shehbaz, Portuguese foreign minister discuss trade, investment ties samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNk5FOEE0R2pFYlBzS293aXJiQndzdXNfUHBLc182VmdrVE5CamMzZjZrcjlMUktvUkgxOTJDc2JiUXVwMENPU2JVNHZxT2VoeW5NQ19ZLVdNZWlIV1JzTlZaYUQ4WHhRd3Y0Z0R1X1hvVElOYldZM0Y4ZkNpWUpyblk4aFdPU1ZoX3E3RUxJd1BOM0hQZ2hz?oc=5",
+          "published_at": "2026-11-23T14:29:22+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-oman-discuss-expanding-trade-and-investment-ties",
+          "published_at": "2026-11-23T18:48:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNk5FOEE0R2pFYlBzS293aXJiQndzdXNfUHBLc182VmdrVE5CamMzZjZrcjlMUktvUkgxOTJDc2JiUXVwMENPU2JVNHZxT2VoeW5NQ19ZLVdNZWlIV1JzTlZaYUQ4WHhRd3Y0Z0R1X1hvVElOYldZM0Y4ZkNpWUpyblk4aFdPU1ZoX3E3RUxJd1BOM0hQZ2hz?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "05e595437c36f0ff2396664c",
+      "remembered_at": "2026-11-23T19:44:26.439870+00:00",
+      "event_date": "2026-11-23T19:16:43+00:00",
+      "last_update": "2026-11-23T19:16:43+00:00",
+      "event": "Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "cyberleek",
+        "executable",
+        "file",
+        "for",
+        "gta",
+        "missing",
+        "modding",
+        "releases",
+        "teams",
+        "xbox"
+      ],
+      "source_excerpt": "Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlJRem5YWEo1OTAwV1QzUEVVb2JfVEdrMzMtRnZHZGlxT0xXNzRELUhZa3pRUUZ0YXNtQmpocmhmMFpEb2FFc2g3bFA0WEJaeXMwU1JVeFRGNnVtLXpiVVlGQUtlY0pjdDJUVXl3VTFvLUt3djNySHJONEtObWI5bTZaNEM3SWk1U0dFS0FxUURyb1gwRWhPbQ?oc=5",
+          "published_at": "2026-11-23T19:16:43+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/cyberleek-releases-missing-gta-6-xbox-executable-file-for-pc-modding-teams",
+          "published_at": "2026-11-23T19:16:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlJRem5YWEo1OTAwV1QzUEVVb2JfVEdrMzMtRnZHZGlxT0xXNzRELUhZa3pRUUZ0YXNtQmpocmhmMFpEb2FFc2g3bFA0WEJaeXMwU1JVeFRGNnVtLXpiVVlGQUtlY0pjdDJUVXl3VTFvLUt3djNySHJONEtObWI5bTZaNEM3SWk1U0dFS0FxUURyb1gwRWhPbQ?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3d28a337a9ce8cec5a550403",
+      "remembered_at": "2026-11-23T19:44:26.439870+00:00",
+      "event_date": "2026-11-23T18:25:00+00:00",
+      "last_update": "2026-11-23T18:52:49+00:00",
+      "event": "Rana Sanaullah hits back at Naqvi, says he mishandled debate on new provinces",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adviser",
+        "affairs",
+        "and",
+        "back",
+        "czar",
+        "debate",
+        "decide",
+        "filerejects",
+        "geo",
+        "hits",
+        "interior",
+        "intimidatedaccuses",
+        "issue",
+        "matter",
+        "minister",
+        "mishandled",
+        "mishandling",
+        "mohsin",
+        "naqvi",
+        "new",
+        "news",
+        "not",
+        "now",
+        "pakistan",
+        "parliament",
+        "political",
+        "provinces",
+        "radio",
+        "rana",
+        "sanaullah",
+        "says",
+        "security",
+        "the",
+        "warning",
+        "will"
+      ],
+      "source_excerpt": "Adviser to the PM Political Affairs Rana Sanaullah and Interior Minister Mohsin Naqvi. — Radio Pakistan/Geo News/FileRejects Naqvi’s warning, says he will not be intimidatedAccuses security czar of mishandling new provinces issue.Says parliament will now decide matter of new...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692355-rana-sanaullah-hits-back-at-naqvi-says-he-mishandled-debate-on-new-provinces",
+          "published_at": "2026-11-23T18:25:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcTZZRHhSaDhSZ1lmZi0tQVk4WnZOYzdDZjQ2d25GUXR2QnRGSFN6eHZOS2gxeXZjUGZEWmtFclFqdHRYZXpFLTZfYklrZElnZU9yUFVFS21EeFdwTWJOY0tMcGpTRldGZV8wUzRtckg5S090dWhHWGhnZWl0Wlk2WGI3RnQ5czVpNVhnMm02Q19POWFDVU9GaDQzM1I2bS10dEl4OGRfVmtFVTJHeUE?oc=5",
+          "published_at": "2026-11-23T18:25:00+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2cwRVVHNFFISWl3SDdWcmlmQ3VMQnpnRWRHTTd2Z1BYbnJleFpsZDlqX1N0OXBpTVBsS0tRNWZWRk0zSGtGSE5DZzZpaWxTQXlkWUt1MlJjeXp5VlFKbmVlOGdEOERBUGJ4UmlYdmNoRkpmSm1jeFVKN013SG1GTVZSbDU4S1c0SDVRV2h2ckhEeVRmN19nWlZRckZTR0ZCZ3hIME5EX0ZfMTQ0?oc=5",
+          "published_at": "2026-11-23T18:52:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692355-rana-sanaullah-hits-back-at-naqvi-says-he-mishandled-debate-on-new-provinces",
+        "publisher_url": "https://www.geo.tv/latest/692355-rana-sanaullah-hits-back-at-naqvi-says-he-mishandled-debate-on-new-provinces",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d4742b9f49ee71199d857f02",
+      "remembered_at": "2026-11-23T19:44:26.439870+00:00",
+      "event_date": "2026-11-23T18:26:46+00:00",
+      "last_update": "2026-11-23T18:41:17+00:00",
+      "event": "Pemra bans ads, promotions for commercial infant formula on electronic media",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ads",
+        "bans",
+        "commercial",
+        "dawn",
+        "electronic",
+        "for",
+        "formula",
+        "infant",
+        "media",
+        "pemra",
+        "promotions"
+      ],
+      "source_excerpt": "Pemra bans ads, promotions for commercial infant formula on electronic media Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTE5WUW8ybkNVMXFOSkZ4MUxydk1qZnpSVXBLcXhYVDdVdEpJTHNYMlVISy1RNXVfLU5fX2k3UmZoN0toVFJxWlhCWjNUN2NmWk5rekZ1ZlFVekw4eFlZbm90dnBEUmtWZmRRcjJHbDA5RlRNYTlvRmFrWWg5eUY0Ukp2VTUweTVDUDlldWctZ0VBNnJBNEhmNExXdDVGamJMZUNHT3BNWHV4dVFQYnc?oc=5",
+          "published_at": "2026-11-23T18:26:46+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046573/pemra-bans-ads-promotions-for-commercial-infant-formula-on-electronic-media",
+          "published_at": "2026-11-23T18:41:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTE5WUW8ybkNVMXFOSkZ4MUxydk1qZnpSVXBLcXhYVDdVdEpJTHNYMlVISy1RNXVfLU5fX2k3UmZoN0toVFJxWlhCWjNUN2NmWk5rekZ1ZlFVekw4eFlZbm90dnBEUmtWZmRRcjJHbDA5RlRNYTlvRmFrWWg5eUY0Ukp2VTUweTVDUDlldWctZ0VBNnJBNEhmNExXdDVGamJMZUNHT3BNWHV4dVFQYnc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "afa908ff72a5a6ab01a4bdb7",
+      "remembered_at": "2026-11-23T19:44:26.439870+00:00",
+      "event_date": "2026-11-23T18:37:45+00:00",
+      "last_update": "2026-11-23T18:37:45+00:00",
+      "event": "Punjab launches Rs.22 billion annual honorarium program",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "annual",
+        "arynews",
+        "billion",
+        "honorarium",
+        "launches",
+        "program",
+        "punjab"
+      ],
+      "source_excerpt": "Punjab launches Rs.22 billion annual honorarium program ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CQUxxV2xFWnZxcDNESWNiNWtuV2VpOFNndTFPbDJNWFhCYzQ2MmUyU054aEtZdTlJTjcyNWFzSk5VWGZUc085WmlqNFVKb2p6bHRpWFBxU0xudlRoVnIyMERPRG1MNS05VmFTVDB4bzYtYTJvaVNhTXlWZUpiQzg?oc=5",
+          "published_at": "2026-11-23T18:37:45+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-launches-rs-22-billion-annual-honorarium-program",
+          "published_at": "2026-11-23T18:37:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CQUxxV2xFWnZxcDNESWNiNWtuV2VpOFNndTFPbDJNWFhCYzQ2MmUyU054aEtZdTlJTjcyNWFzSk5VWGZUc085WmlqNFVKb2p6bHRpWFBxU0xudlRoVnIyMERPRG1MNS05VmFTVDB4bzYtYTJvaVNhTXlWZUpiQzg?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "df4d8a0d214050dc2dddd36e",
+      "remembered_at": "2026-11-23T19:44:26.439870+00:00",
+      "event_date": "2026-11-23T17:39:31+00:00",
+      "last_update": "2026-11-23T17:39:31+00:00",
+      "event": "Pop singer Mohsin Raza Khan, known as Bunny, passes away",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "away",
+        "bunny",
+        "khan",
+        "known",
+        "mohsin",
+        "passes",
+        "pop",
+        "raza",
+        "samaa",
+        "singer"
+      ],
+      "source_excerpt": "Pop singer Mohsin Raza Khan, known as Bunny, passes away samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalZueHAtZU1EZ0JpNHNYTjJSa2JJcDZZbTJVcmJkREhabC1lRVFreHgtWXF2c2xmelhVd0FUWllsZ0ctZTFseXdJVmFWT0N1ek9EWjFuTnRnV0xyaGtSZVVUTGJwU3BiSEk4UXVVNzZscGtYUVlqY3paWEN5QUJWSmVZa002YnRBVThmQUoyYw?oc=5",
+          "published_at": "2026-11-23T17:39:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalZueHAtZU1EZ0JpNHNYTjJSa2JJcDZZbTJVcmJkREhabC1lRVFreHgtWXF2c2xmelhVd0FUWllsZ0ctZTFseXdJVmFWT0N1ek9EWjFuTnRnV0xyaGtSZVVUTGJwU3BiSEk4UXVVNzZscGtYUVlqY3paWEN5QUJWSmVZa002YnRBVThmQUoyYw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4f0382141f43b5f162c39b5b",
+      "remembered_at": "2026-11-23T19:44:26.439870+00:00",
+      "event_date": "2026-11-23T19:20:30+00:00",
+      "last_update": "2026-11-23T19:20:49+00:00",
+      "event": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "actions",
+        "allowing",
+        "and",
+        "attacks",
+        "border",
+        "citing",
+        "claiming",
+        "closure",
+        "estonia",
+        "hostile",
+        "launch",
+        "moscow",
+        "open",
+        "russia",
+        "tallinn",
+        "threatens",
+        "ukraine",
+        "war",
+        "with"
+      ],
+      "source_excerpt": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+          "published_at": "2026-11-23T19:20:30+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2tuUzB4em5zWEgwZUpEZ0szQ0R2ajRaWmgtN0JoX0RhOVFtcFUtWm13b2k5a083bjdjRTJnUVlLTEtadUFYRm5HQlh3aXFFWkNhT2JCaUJPWTJIWm1jcmJiUW4wakYyd3EzZHhOenBUX1lud0JvWVN4YmIyQURaVTBQUnRkeG1hd09OT3YzRzlmd9IBlwFBVV95cUxQZ3JmTVA1Q3FTaTBjMUZldjgwTHJpcXRYSHhoTXlUbnNNVTg3UUltZzd1eTNhc3hDYlZCOHdjdFluaUpRTlVuc1E2XzBKMmFwQVBFT2pqNDhPc1BDUG4xLUhhX2VIOHpWTnB0cm9heEthblZmemhjQ2U3WHExWS02WlRCc2JTQVlDVXpiMDBKcE1HTkk0YWVF?oc=5",
+          "published_at": "2026-11-23T19:20:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "36c6a1490d326ab37f82640c",
+      "remembered_at": "2026-11-23T19:44:26.439870+00:00",
+      "event_date": "2026-11-23T19:07:37+00:00",
+      "last_update": "2026-11-23T19:07:37+00:00",
+      "event": "Thousands flee Manchester concert after unknown substance released",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "after",
+        "arena",
+        "concert",
+        "evacuated",
+        "flee",
+        "from",
+        "live",
+        "manchester",
+        "more",
+        "people",
+        "released",
+        "substance",
+        "than",
+        "thousands",
+        "unknown",
+        "were"
+      ],
+      "source_excerpt": "More than 12,000 people were evacuated from Manchester’s Co-op Live arena",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+          "published_at": "2026-11-23T19:07:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T18:32:26.196754+00:00"
+  "updated_at": "2026-11-23T19:44:26.439870+00:00"
 }

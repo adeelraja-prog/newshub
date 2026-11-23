@@ -1,10 +1,10 @@
-# News Hub report - Mon 23 Nov, 11:32 PM PKT
+# News Hub report - Tue 24 Nov, 12:44 AM PKT
 
 ## Collection
-- New items this run: 65 | items in rolling pool: 891
-- Unique story clusters: 722 (duplicates merged: 169)
-- Clusters dropped as already published/queued: 15; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 11, Geo News 7, samaa tv 5, Al Jazeera 5, Pakistan Today 5, Dawn 4, Engadget 4, Aaj English TV 3, The News International 2, X 2, ProPakistani 2, TechJuice 2
+- New items this run: 71 | items in rolling pool: 859
+- Unique story clusters: 698 (duplicates merged: 161)
+- Clusters dropped as already published/queued: 13; unchanged since last analysis: 5
+- Items per outlet: Pakistan Today 14, Geo News 9, ARY News 9, The Verge 6, UrduPoint 3, Al Jazeera 3, Engadget 3, ARYnews.tv 2, Dawn Pakistan 2, TechCrunch 2, Ars Technica 2, Facebook 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -12,43 +12,36 @@
 
 ## Top 5 most important
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine claims drone strikes on Russian ships off Libya: What do we know? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NATO believes Russia is ready to launch nuclear-armed satellite, German media say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine claims drone strikes on Russian ships off Libya: What do we know? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NATO believes Russia is ready to launch nuclear-armed satellite, German media say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine claims drone strikes on Russian ships off Libya: What do we know? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NATO believes Russia is ready to launch nuclear-armed satellite, German media say | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 111/120 | empty: 2 | failed: 7 | malformed/partial: 7
+- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The Nation | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Imran Khan and Adiala Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: US Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 3
+- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
@@ -63,9 +56,6 @@
 - [needs_review] normal | Pakistan and Türkiye sign new mineral and energy cooperation agreement | Fri 20 Nov, 09:01 PM PKT
 - [needs_review] normal | Pakistan strongly condemns Houthi attacks on Riyadh and backs Saudi so | Fri 20 Nov, 09:11 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [published] normal | Top US Democrat Warns Trump Administration Against Destroying Official | Fri 20 Nov, 11:42 PM PKT
-- [published] normal | Pakistan Government Cuts Petrol Price by Re1, Raises Diesel by Rs2 | Fri 20 Nov, 11:52 PM PKT
-- [published] normal | EU and UK Seal Landmark Post-Brexit Reset Deal at Brussels Summit | Sat 21 Nov, 12:02 AM PKT
 - [needs_review] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
 - [published] normal | Belgrade Mayor Faces Three-Year Sentence for Alleged Assault | Sat 21 Nov, 12:46 AM PKT
 - [needs_review] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
@@ -231,7 +221,7 @@
 - [needs_review] normal | Pakistani national among two injured in Iranian attacks on Bahrain | Mon 23 Nov, 12:56 AM PKT
 - [published] normal | Virginia reports first measles-linked child death of 2026 | Mon 23 Nov, 01:06 AM PKT
 - [needs_review] normal | Ukrainians search through rubble for missing following deadly Russian  | Mon 23 Nov, 01:16 AM PKT
-- [queued] promo | [YouTube] MOHSIN NAQVI VS RANA SANAULLAH: WHO WILL BACK DOWN? | Mon 23 Nov, 01:31 AM PKT
+- [published] promo | [YouTube] MOHSIN NAQVI VS RANA SANAULLAH: WHO WILL BACK DOWN? | Mon 23 Nov, 01:31 AM PKT
 - [needs_review] normal | PTI urges Bilawal not to back extension of Governor’s Rule | Mon 23 Nov, 01:31 AM PKT
 - [needs_review] normal | Houthis claim targeted strike on Saudi Arabia's Rabigh refinery | Mon 23 Nov, 01:41 AM PKT
 - [needs_review] normal | Officials condemn 'horrific' ICE arrests at Seattle airport | Mon 23 Nov, 01:51 AM PKT
@@ -284,25 +274,25 @@
 - [needs_review] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
 - [needs_review] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
 - [published] normal | K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadi | Mon 23 Nov, 05:51 PM PKT
-- [queued] normal | National CERT Flags Five Critical WhatsApp Security Vulnerabilities in | Mon 23 Nov, 06:01 PM PKT
-- [queued] normal | Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game | Mon 23 Nov, 06:11 PM PKT
-- [queued] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
+- [needs_review] normal | National CERT Flags Five Critical WhatsApp Security Vulnerabilities in | Mon 23 Nov, 06:01 PM PKT
+- [needs_review] normal | Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game | Mon 23 Nov, 06:11 PM PKT
+- [needs_review] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
 
 ## Publishing this run
-- Published 'K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadium'.
+- Published '[YouTube] MOHSIN NAQVI VS RANA SANAULLAH: WHO WILL BACK DOWN?'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
 - Errors: 5
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
