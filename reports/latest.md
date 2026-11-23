@@ -1,149 +1,151 @@
-# News Hub report - Mon 23 Nov, 04:43 PM PKT
+# News Hub report - Mon 23 Nov, 05:51 PM PKT
 
 ## Collection
-- New items this run: 71 | items in rolling pool: 647
-- Unique story clusters: 532 (duplicates merged: 115)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 7
-- Items per outlet: ProPakistani 9, ARY News 6, samaa tv 6, Geo News 5, Wired 5, The News International 4, Al Jazeera 4, TechJuice 4, Dawn 3, Aaj English TV 3, The Express Tribune 2, PhoneWorld 2
+- New items this run: 177 | items in rolling pool: 774
+- Unique story clusters: 636 (duplicates merged: 138)
+- Clusters dropped as already published/queued: 23; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 101, ARY News 14, Geo News 10, ProPakistani 9, Al Jazeera 6, samaa tv 4, TechJuice 4, Dawn Pakistan 2, Ars Technica 2, Wired 2, BBC World 2, The Current 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja Shorts: SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO! | https://www.youtube.com/watch?v=tY3mQIJeBF0
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port | Russia-Ukraine war News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN urges probe after Russian ship attacked off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Capitalising on the Middle East conflict: Pakistan's ports can win transshipment business, if policy stays consistent | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - National CERT flags five WhatsApp security vulnerabilities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- K-P govt to rename Imran Khan Cricket Stadium back to Arbab Niaz Stadium | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rockstar explains why GTA 6 left out classic darts mini game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lebanese families return to ruins after Israeli attacks in south | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port | Russia-Ukraine war News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN urges probe after Russian ship attacked off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Capitalising on the Middle East conflict: Pakistan's ports can win transshipment business, if policy stays consistent | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - National CERT flags five WhatsApp security vulnerabilities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- K-P govt to rename Imran Khan Cricket Stadium back to Arbab Niaz Stadium | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rockstar explains why GTA 6 left out classic darts mini game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lebanese families return to ruins after Israeli attacks in south | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port | Russia-Ukraine war News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN urges probe after Russian ship attacked off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Capitalising on the Middle East conflict: Pakistan's ports can win transshipment business, if policy stays consistent | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - National CERT flags five WhatsApp security vulnerabilities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- K-P govt to rename Imran Khan Cricket Stadium back to Arbab Niaz Stadium | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rockstar explains why GTA 6 left out classic darts mini game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lebanese families return to ruins after Israeli attacks in south | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
-- Trusted publisher desks with at least one healthy source: 10/10
+- Overall feeds with entries: 113/120 | empty: 2 | failed: 5 | malformed/partial: 5
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Balochistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Weather | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Express News
 
 ## Selected for the queue
-### Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity  [NORMAL]
-- Poster: بیلجیم میں ہنگامہ آرائی، حکومتی پالیسیوں کیخلاف ہڑتال سے پروازیں معطل / Belgium Flights Grounded Due to Anti-Austerity Strike | category politics
-- Alternative headline: Massive Transport Disruptions Hit Belgium Amid Anti-Austerity Protests
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business
-- Keywords: Belgium strike, Belgium flights, austerity measures, Brussels airport, air traffic controllers, transport disruption | hashtags: #Belgium #Strike #Austerity #Brussels #FlightCancellations
-- Scheduled: Mon 23 Nov, 04:43 PM PKT
-- Caption:
-```
-Hundreds of flights are cancelled and public transport is severely disrupted across Belgium as workers launch a major strike against planned austerity measures.
-
-Hundreds of flights were cancelled and public transport disrupted across Belgium due to a strike against planned austerity measures. Air traffic halted at Brussels and Charlerois airports as air traffic controllers walked out, disrupting over 50,000 travellers amid ongoing budget disagreements.
-
-بیلجیم میں مجوزہ کفایت شعاری کے اقدامات کے خلاف ہڑتال کی وجہ سے سیکڑوں پروازیں منسوخ اور پبلک ٹرانسپورٹ معطل ہو گئی۔ برسلز اور شارلروا ہوائی اڈوں پر فضائی ٹریفک رک گئی، جس سے پچاس ہزار سے زائد مسافر متاثر ہوئے۔
-
-First reported by BBC Business.
-
-#Belgium #Strike #Austerity #Brussels #FlightCancellations
-```
-
-### Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port  [NORMAL]
-- Poster: لیبیا کی بندرگاہ پر روسی بحری جہاز پر مبینہ یوکرینی ڈرون حملہ / Russian Vessel Hit by Drone at Libya Port | category war
-- Alternative headline: Suspected Sea Drone Strike Targets Russian Ship off Libyan Coast
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaA?oc=5
-- Supporting coverage: Ukrinform, RFI, EA WorldView, WV News, WV News, The Arab Weekly
-- Keywords: Russian vessel hit, Libya port, Benghazi, Ukraine drone, Russia-Ukraine war, sea drone attack | hashtags: #Libya #Benghazi #UkraineWar #Russia #DroneAttack
-- Scheduled: Mon 23 Nov, 04:53 PM PKT
-- Caption:
-```
-A Russian vessel has been reportedly struck by a suspected Ukrainian sea drone at Libya’s Benghazi port, according to reports.
-
-A Russian vessel was reportedly hit by a suspected Ukrainian sea drone at Libya’s Benghazi port. The incident highlights the expanding geographical reach of the Russia-Ukraine conflict into North African waters, prompting international attention.
-
-لیبیا کی بندرگاہ بنغازی میں ایک روسی بحری جہاز مبینہ طور پر یوکرینی سمندری ڈرون حملے کی زد میں آ گیا ہے۔ اس واقعے سے روس یوکرین جنگ کے اثرات شمالی افریقہ تک پھیلنے کا خدشہ ظاہر کیا جا رہا ہے۔
-
-First reported by Al Jazeera.
-
-#Libya #Benghazi #UkraineWar #Russia #DroneAttack
-```
-
-### UN Urges Independent Probe After Drone Attacks on Ships Off Libya  [NORMAL]
-- Poster: لیبیا کے قریب بحری جہازوں پر حملے، اقوام متحدہ کا غیر جانبدارانہ تحقیقات کا مطالبہ / UN Urges Probe After Ship Attacks Off Libya | category war
-- Alternative headline: United Nations Demands Investigation Following Ship Attacks Near Benghazi
+### K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadium  [NORMAL]
+- Poster: عمران خان کرکٹ اسٹیڈیم کا نام تبدیل کرکے ارباب نیاز اسٹیڈیم رکھ دیا گیا / K-P Govt Restores Arbab Niaz Stadium Name | category politics
+- Alternative headline: Khyber Pakhtunkhwa Reverses PTI Decision, Restoring Arbab Niaz Stadium Name
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/un-urges-probe-russian-ship-attacked-libya | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/un-urges-probe-russian-ship-attacked-libya
-- Supporting coverage: ARY News, Al Jazeera, Al Jazeera, Anadolu Ajansı, Al Jazeera, NanaimoNewsNOW
-- Keywords: UN probe Libya, Libya ship attack, UNSMIL, Benghazi drones, Russian vessel, Ukraine war spillover | hashtags: #UnitedNations #Libya #Benghazi #DroneAttack #UNSMIL
-- Scheduled: Mon 23 Nov, 05:03 PM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2lVQTl4WHhMaTY3VkNxM2pPNV9iSHhvNGFSNi12RHl0cVRoeTgzQlo0WThFTlo1Vzd5Y1Q3Z25HV2JCTmtaY2R4MWJfbnhDUFAxLVZhU3Rxa3JzbDVNbi1yMFlHRXlWQU9la3pJZEQ0X3UyYkFQb01MVldHR3hQMWpGdl9ONGkyWGFKNXBnVWx6anpFaDljUmdmQ2V1RHVQUTdMaW1SWlBndFZXTnfSAbYBQVVfeXFMUDNZdXNaTFBJWktKMC1uN0NfTnFxX2dXTmJ2NDhZRVYyMmpNYkgtMVViVXVNNFJFOTlOS2pGWGVXU2l6WUpjOUI1X3dQdGh3QWpkNk9sVHBkcnhJLW1OeWNZQmJXX0RKWjE4ZDFDcHR0TUJ3cVUxYTBBUy02SVRhQlA1bVVhSFVBQ3lvcDRkWldtV09PMmJwV0tHR3Z0bkhsdlBRSUNJc1NnV2lWemUtMGhxNUE3N3c?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2lVQTl4WHhMaTY3VkNxM2pPNV9iSHhvNGFSNi12RHl0cVRoeTgzQlo0WThFTlo1Vzd5Y1Q3Z25HV2JCTmtaY2R4MWJfbnhDUFAxLVZhU3Rxa3JzbDVNbi1yMFlHRXlWQU9la3pJZEQ0X3UyYkFQb01MVldHR3hQMWpGdl9ONGkyWGFKNXBnVWx6anpFaDljUmdmQ2V1RHVQUTdMaW1SWlBndFZXTnfSAbYBQVVfeXFMUDNZdXNaTFBJWktKMC1uN0NfTnFxX2dXTmJ2NDhZRVYyMmpNYkgtMVViVXVNNFJFOTlOS2pGWGVXU2l6WUpjOUI1X3dQdGh3QWpkNk9sVHBkcnhJLW1OeWNZQmJXX0RKWjE4ZDFDcHR0TUJ3cVUxYTBBUy02SVRhQlA1bVVhSFVBQ3lvcDRkWldtV09PMmJwV0tHR3Z0bkhsdlBRSUNJc1NnV2lWemUtMGhxNUE3N3c?oc=5
+- Supporting coverage: The Express Tribune, X
+- Keywords: Arbab Niaz Stadium, Imran Khan Cricket Stadium, K-P government, rename, Peshawar, cricket | hashtags: #ArbabNiazStadium #KPUpdates #Peshawar #PakistanPolitics #Cricket
+- Scheduled: Mon 23 Nov, 05:51 PM PKT
 - Caption:
 ```
-The United Nations has called for an immediate independent investigation following suspected drone attacks on two ships off the coast of Libya.
+The Khyber Pakhtunkhwa government is officially restoring the historic name of Arbab Niaz Stadium, reversing the previous PTI decision.
 
-The United Nations called for an immediate independent investigation after drone attacks targeted two ships, including a Russian vessel, off Libya's coast near Benghazi. The UN mission expressed serious concern, stating that Libya must not become a battleground for foreign conflicts.
+The Khyber Pakhtunkhwa government has decided to rename the Imran Khan Cricket Stadium back to its historic name, Arbab Niaz Stadium, reversing a previous decision made by the PTI administration. According to reports, critics noted that despite long rule, new sports infrastructure remained limited.
 
-اقوام متحدہ نے لیبیا کے ساحل کے قریب دو بحری جہازوں پر ڈرون حملوں کے بعد فوری اور غیر جانبدارانہ تحقیقات کا مطالبہ کیا ہے۔ مشن نے اس بات پر زور دیا ہے کہ لیبیا کو بیرونی تنازعات کا میدان جنگ نہیں بننا چاہیے۔
+خیبر پختونخوا حکومت نے عمران خان کرکٹ اسٹیڈیم کا نام تبدیل کر کے دوبارہ اس کا تاریخی نام ارباب نیاز اسٹیڈیم رکھنے کا فیصلہ کیا ہے، جس سے پی ٹی آئی کا پرانا فیصلہ تبدیل ہو گیا ہے۔
+
+First reported by The Express Tribune.
+
+#ArbabNiazStadium #KPUpdates #Peshawar #PakistanPolitics #Cricket
+```
+
+### National CERT Flags Five Critical WhatsApp Security Vulnerabilities in Pakistan  [NORMAL]
+- Poster: نیشنل سرٹ نے واٹس ایپ میں پانچ سیکیورٹی خامیوں کی نشاندہی کر دی / National CERT Flags WhatsApp Flaws | category tech
+- Alternative headline: National CERT Urges Immediate WhatsApp Updates Following Five Security Flaws
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0lrYklJNVNxWm90M0I2QTduX1FOczA2anBmVjVRamlBNnRNcmFvZHNYMVp0ejBDMGZOQzV4VS1Wdnp0aHFIanYwNFExZl9xeEdGVVFWcGxkTEtFTjJRUlVkTDVFUEVGdGJ5MUVuWDFwV2VncWJidlcyaUlacGhxTnZzSlJzVnczZHNQb3g2M0tCZUlI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0lrYklJNVNxWm90M0I2QTduX1FOczA2anBmVjVRamlBNnRNcmFvZHNYMVp0ejBDMGZOQzV4VS1Wdnp0aHFIanYwNFExZl9xeEdGVVFWcGxkTEtFTjJRUlVkTDVFUEVGdGJ5MUVuWDFwV2VncWJidlcyaUlacGhxTnZzSlJzVnczZHNQb3g2M0tCZUlI?oc=5
+- Supporting coverage: samaa tv, PhoneWorld, TechJuice, ARYnews.tv, ARY News
+- Keywords: WhatsApp security, National CERT, vulnerabilities, Pakistan, update WhatsApp, cyber security | hashtags: #WhatsApp #NationalCERT #CyberSecurity #Pakistan #TechNews
+- Scheduled: Mon 23 Nov, 06:01 PM PKT
+- Caption:
+```
+Pakistan's National CERT has issued an urgent warning for WhatsApp users regarding five major security vulnerabilities.
+
+National CERT in Pakistan has issued a security advisory urging WhatsApp users to immediately update their applications following the discovery of five distinct security vulnerabilities. Authorities recommend applying updates promptly to protect personal data and maintain device security.
+
+پاکستان کے نیشنل سرٹ نے واٹس ایپ صارفین کے لیے ایک سیکیورٹی الرٹ جاری کیا ہے جس میں پانچ سیکیورٹی خامیوں کی نشاندہی کرتے ہوئے فوری اپ ڈیٹ کرنے کی ہدایت کی گئی ہے۔
+
+First reported by samaa tv; also reported by ARY News.
+
+#WhatsApp #NationalCERT #CyberSecurity #Pakistan #TechNews
+```
+
+### Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game  [NORMAL]
+- Poster: راک سٹار نے جی ٹی اے 6 میں کلاسک ڈارٹس منی گیم نہ ہونے کی وجہ بتا دی / Why GTA 6 Dropped Darts Mini-Game | category tech
+- Alternative headline: Why GTA 6 Dropped the Popular Darts Pub Game According to Rockstar
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/rockstar-explains-why-gta-6-left-out-classic-darts-mini-game | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/rockstar-explains-why-gta-6-left-out-classic-darts-mini-game
+- Supporting coverage: ARY News
+- Keywords: GTA 6 darts, Rockstar Games, Rob Nelson, video games, GTA 6 mini games, VGC | hashtags: #GTA6 #RockstarGames #GamingNews #Darts #Tech
+- Scheduled: Mon 23 Nov, 06:11 PM PKT
+- Caption:
+```
+Rockstar North co-studio lead Rob Nelson explains the tough choices behind cutting the classic darts mini-game from GTA 6.
+
+Rockstar North co-studio lead Rob Nelson revealed that the classic darts mini-game was excluded from GTA 6 due to time and resource constraints. Nelson noted that the studio focuses on delivering high-quality, fully realized side activities like pool and basketball instead.
+
+راک سٹار نارتھ کے کو-اسٹوڈیو لیڈ روب نیلسن نے انکشاف کیا ہے کہ وقت اور وسائل کی کمی کی وجہ سے جی ٹی اے 6 میں کلاسک ڈارٹس منی گیم شامل نہیں کی گئی۔
 
 First reported by ARY News.
 
-#UnitedNations #Libya #Benghazi #DroneAttack #UNSMIL
+#GTA6 #RockstarGames #GamingNews #Darts #Tech
 ```
 
-### Pakistan Ports Can Win Transshipment Business Amid Middle East Conflict  [NORMAL]
-- Poster: مشرق وسطیٰ کا تنازع: پاکستانی بندرگاہیں ٹرانزشپمنٹ کا کاروبار کیسے جیت سکتی ہیں؟ / Pakistan Ports Can Win Transshipment Business | category economy
-- Alternative headline: Consistent Policy Can Help Pakistan Capitalize on Regional Maritime Disruptions
+### Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Mustafa Kamal  [NORMAL]
+- Poster: پاکستان کو علاج کے بجائے حفاظتی صحت کی طرف منتقل ہونا چاہیے: مصطفٰی کمال / Shift to Preventive Healthcare: Mustafa Kamal | category health
+- Alternative headline: Mustafa Kamal Urges Urgent Healthcare Reform Focusing on Prevention in Pakistan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046504/capitalising-on-the-middle-east-conflict-pakistans-ports-can-win-transshipment-business-if-policy-stays-consistent | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046504/capitalising-on-the-middle-east-conflict-pakistans-ports-can-win-transshipment-business-if-policy-stays-consistent
-- Supporting coverage: Dawn Latest, Investify, Dawn
-- Keywords: Pakistan ports transshipment, Middle East conflict, maritime affairs, shipping industry, Pakistan supply chain, LNG supplies | hashtags: #PakistanPorts #Maritime #Transshipment #MiddleEast #Economy
-- Scheduled: Mon 23 Nov, 05:13 PM PKT
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUpJV1FSUmE0bG5DdFZINE4wdFU0eXROR3F3TXdvaVdmUURKRWJhMlZGdVhhSGE3cUV1WDlpakp2MHBINEVNM1VVN0JTcFVfWGFFa0lIOThmWlR4ei15Q0RPYWs0bTJPbkJ3ZWQzRkxLb0RGaGN6ZVBaMGFmc2R5WXB6WUp3UFU1djFvWDFMRXRSV0xaNUFR?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUpJV1FSUmE0bG5DdFZINE4wdFU0eXROR3F3TXdvaVdmUURKRWJhMlZGdVhhSGE3cUV1WDlpakp2MHBINEVNM1VVN0JTcFVfWGFFa0lIOThmWlR4ei15Q0RPYWs0bTJPbkJ3ZWQzRkxLb0RGaGN6ZVBaMGFmc2R5WXB6WUp3UFU1djFvWDFMRXRSV0xaNUFR?oc=5
+- Supporting coverage: ARYnews.tv, ARY News
+- Keywords: preventive healthcare, Mustafa Kamal, sick care, Pakistan health, healthcare reform, ARY News | hashtags: #MustafaKamal #Healthcare #PakistanHealth #PreventiveCare #PublicHealth
+- Scheduled: Mon 23 Nov, 06:21 PM PKT
 - Caption:
 ```
-Pakistan's maritime sector has a unique opportunity to capture new transshipment business if consistent policies are maintained amid Middle East disruptions.
+Mustafa Kamal emphasizes that Pakistan's healthcare system urgently needs to prioritize preventive measures over traditional sick care.
 
-The Middle East conflict has presented Pakistan with an opportunity to protect its maritime supply chains and expand its shipping industry. Government committees have worked to maintain oil and LNG supplies while exploring new transshipment potential, provided policy consistency is maintained.
+Mustafa Kamal stated that Pakistan must transition its healthcare focus from reactive 'sick care' to comprehensive preventive healthcare. He highlighted the importance of structural health reforms to better serve the population and ease the burden on medical facilities.
 
-مشرق وسطیٰ کے تنازع نے پاکستان کے لیے میری ٹائم سپلائی لائنوں کو محفوظ بنانے اور شپنگ انڈسٹری کو وسعت دینے کا موقع فراہم کیا ہے۔ حکومتی کمیٹیوں نے تیل اور ایل این جی کی فراہمی کو یقینی بناتے ہوئے نئے کاروباری امکانات پر کام کیا ہے۔
+مصطفٰی کمال کا کہنا ہے کہ پاکستان کو اپنے صحت کے نظام کو روایتی علاج سے ہٹا کر حفاظتی صحت کی طرف منتقل کرنے کی ضرورت ہے تاکہ بہتر نتائج حاصل کیے جا سکیں۔
 
-First reported by Dawn Latest.
+First reported by ARY News.
 
-#PakistanPorts #Maritime #Transshipment #MiddleEast #Economy
+#MustafaKamal #Healthcare #PakistanHealth #PreventiveCare #PublicHealth
 ```
 
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
-- [needs_review] normal | Kushner: Trump open to NATO-like security guarantees for Ukraine | Fri 20 Nov, 10:42 AM PKT
-- [needs_review] normal | Pakistan Medical Association objects to proposed SHCC board members | Fri 20 Nov, 10:52 AM PKT
-- [needs_review] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
 - [needs_review] normal | KP government plans electric bus service across 14 cities | Fri 20 Nov, 01:18 PM PKT
 - [needs_review] normal | Pakistan's large-scale manufacturing grows 2.07% in three months | Fri 20 Nov, 01:28 PM PKT
 - [needs_review] normal | NCCIA Uncovers Alleged Rs1 Trillion Online Gambling and Money Launderi | Fri 20 Nov, 02:10 PM PKT
@@ -154,9 +156,6 @@ First reported by Dawn Latest.
 - [needs_review] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
-- [published] normal | Ex-Federal Minister Liaquat Abbas Bhatti Strangled to Death at Hafizab | Fri 20 Nov, 05:28 PM PKT
-- [published] normal | Bank of Punjab Wins International Award for SME Financing Innovation | Fri 20 Nov, 05:38 PM PKT
-- [published] normal | Mohammad Abbas Becomes Leading Test Wicket-Taker in 2026 | Fri 20 Nov, 05:48 PM PKT
 - [needs_review] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
 - [published] normal | Myanmar and China Condemn 'Unfair' ICJ Genocide Ruling | Fri 20 Nov, 06:48 PM PKT
 - [needs_review] normal | CDF Asim Munir Vows to Eradicate Terrorism in KP | Fri 20 Nov, 06:58 PM PKT
@@ -374,9 +373,9 @@ First reported by Dawn Latest.
 - [published] normal | UK disability benefits assessment process faces major overhaul recomme | Mon 23 Nov, 10:25 AM PKT
 - [needs_review] normal | Port Qasim's only coal conveyor system breaks down, disrupting imports | Mon 23 Nov, 10:35 AM PKT
 - [published] normal | Government moves to overhaul weak audit oversight system | Mon 23 Nov, 10:45 AM PKT
-- [queued] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
-- [queued] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
-- [queued] normal | At least 3 killed and 36 missing after devastating Indonesia factory f | Mon 23 Nov, 12:00 PM PKT
+- [needs_review] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
+- [needs_review] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
+- [published] normal | At least 3 killed and 36 missing after devastating Indonesia factory f | Mon 23 Nov, 12:00 PM PKT
 - [queued] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
 - [queued] normal | What Lies Ahead After Climate Talks Fail to Reach Consensus? | Mon 23 Nov, 01:22 PM PKT
 - [queued] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
@@ -390,18 +389,19 @@ First reported by Dawn Latest.
 - [queued] normal | Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port | Mon 23 Nov, 04:53 PM PKT
 - [queued] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
 - [queued] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
+- [queued] normal | K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadi | Mon 23 Nov, 05:51 PM PKT
+- [queued] normal | National CERT Flags Five Critical WhatsApp Security Vulnerabilities in | Mon 23 Nov, 06:01 PM PKT
+- [queued] normal | Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game | Mon 23 Nov, 06:11 PM PKT
+- [queued] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
 
 ## Publishing this run
-- Published 'Government moves to overhaul weak audit oversight system'.
+- Published 'At least 3 killed and 36 missing after devastating Indonesia factory fire'.
 
 ## Gemini usage
-- Calls: 7 | prompt tokens: 18298 | output tokens: 4945
-- Errors: 5
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 3 | prompt tokens: 5586 | output tokens: 2108
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: Expecting value: line 212 column 9 (char 8864)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
