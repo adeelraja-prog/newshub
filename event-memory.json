@@ -127212,7 +127212,619 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f6ea9966ee2db96da5ad2566",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T06:18:00+00:00",
+      "last_update": "2026-11-23T11:00:06+00:00",
+      "event": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port | Russia-Ukraine war News",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "benghazi",
+        "drone",
+        "hit",
+        "jazeera",
+        "libya",
+        "news",
+        "port",
+        "russia",
+        "russian",
+        "suspected",
+        "ukraine",
+        "ukrainian",
+        "vessel",
+        "war"
+      ],
+      "source_excerpt": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port | Russia-Ukraine war News Al Jazeera",
+      "sources": [
+        {
+          "name": "Ukrinform",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYk4yNXZOLWU2V0FYNW1fS0I4dW00dU1oeDg4VHpqTFNzZENRSnl4TjhiamhzZUxxcC11VU5zQXpPMXM5RER2LXNqemRzUnJPbjg2Sk5kT1laVkRzWkg1TU9NWW5ZYWhibUFEeDR6aDduZ1pvakY5b2ZfM1h2UkZjUERFM3FfQlAxV0hLb2JlSTZKaEtIQm1WaXZDaGJCaXU2ZGpuUjYyTGN2d3ZwQ3RRZWRqd1c3d2M1d3NoWEdnNlJjVjc5enFhTS1mUXJlSzdq0gHWAUFVX3lxTFBCVjNMQkNkam9ZNWJtMlpyVTRvY2FrZ3VxdmQtODlaVS1sM3poTzZkTEcxWWZGV2N6U2E3NU1EaXM0NFdvb0Fqai1QdEVnaDc4ZXlGVWgzWHdrdU9jcFpMNDBZQXBuOHJpcnhEc2h0SGg0Rlg2bk11TTREdkJ1UUNPTDREVGZtWmpjV2ZHdDE2ZXFHWm9RTEh4dWdVUFpTVlhpUHlfLWFHU1Znd19kVnN1eTNvNjFqa0EwNVN6d2hhb055MXhtUzFFNno4amNJN2R2WktHRGc?oc=5",
+          "published_at": "2026-11-23T06:18:00+00:00"
+        },
+        {
+          "name": "RFI",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeW9GM0pzT0UtRkJLVGZTXzhaeEtIa2V0bGF5NFFPUTRGSm1WQW5fS05kMnpaYUVOYzctRjV6RGJzLW1CcE5zcFNzRGEtblFfUmVOX1ktSVlyX2UtYUpreXhBU3RhekRmTWxpcVlIWHRyZEFHYVJ5SUhfdF9sdHhSb3Bpa0dqQ2k4SzF3dEw2TGEyZFdIdWllcEFONFNOS2ZpaW9qaFJpdzNrQ3ZwN1VvR3B1NjFyclA2Rllia3M1Zms2dw?oc=5",
+          "published_at": "2026-11-23T06:33:00+00:00"
+        },
+        {
+          "name": "EA WorldView",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNl9ybzhPRDgyT1NzeC1jLUJGTDJWNE5Ud21KTzhDS2FhOGxkRElQREdtUF9mQXdBNnUyLVRESGU1UzdxVVhxbnVma1dhRVhQc1pWNWctSm5vN2lnWFp2R3dSSWE3SWZlNWJpRHl3S3VLaHhaRVFmaXkyUEd3TENGZ3Z0SURjZDhJVl9sMGNvdXI?oc=5",
+          "published_at": "2026-11-23T06:42:47+00:00"
+        },
+        {
+          "name": "WV News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamZMbVViUXloU2R3NTFWLXlBRTlaOGFLMEJ0MEFFbzFLekQxZHBEUXdPczV2NTR3OWRIb3BrSGNtZXFiU2JTQ3lzYTFsNF9wb0V0N1U2bTZaRE9fZkFkWGg2SjJLc1VwVEZteG1NTU1KdjJtYkNhb1FwT1BEY2dfUHNCbkVlYW1JYWtndHF3dV9LR09GWWJQd01iRXl1TUcxRjNnWlVTcw?oc=5",
+          "published_at": "2026-11-23T08:26:03+00:00"
+        },
+        {
+          "name": "WV News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTDBkLTNubjhfS1ZUc3lJQXNzaklIa3VGNXM5bFh4X3RDOUNyZXBaYjRHaHlkOEdmVEF0V2JVNVZoTE5kcXdQSFBoOFpoWTYtc3ppNGhVd0NLbXZjcXdHN0hNeldCTndjRzlpMFl0NTNnOW4waVBfZW1wclNraXFqYTJvTTliRkZNRTlDWFk2dndPSjVERHppZW9qbjYyb2lIUUFOaGJhMA?oc=5",
+          "published_at": "2026-11-23T08:57:35+00:00"
+        },
+        {
+          "name": "The Arab Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRUE5bHJRQ3BkVnJPQ0VYalpscjlTNTBPVVJRM0JVUEJUWTM4V0dQWVlVSjAxNmcyNlZMWTVUaF9ZRVV0bUw2ZFZ4dUxSVXBOSGUtekF3cDg4eFJ5NEk5Q1p1RTg5dVJHMXBBTGN2bHNQQks1Y3VfVlZ3bmFjSHVBaUVxWk13SUltWlE?oc=5",
+          "published_at": "2026-11-23T09:22:17+00:00"
+        },
+        {
+          "name": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR05nOTY4VjA4TXR0SF9VSVphYkR3RmF2Qmxoajd6SW1JY2xtSUZURVhmZGRrSk4xYnFmZVN3Z2xMZFltUmY2OHZZUzBSVW5JZHZDak1nMXJ1S09Ha21nQzJFUVMtalo1NXU2Tlc3YXhqVDNOcFJYMk5pNEIzbE02X1hfTXlER2JVMDJMYjBEQUVZdVVWei01ZE94Y3h0Tzd5Zk9faUtuUkRhWHRaY01NYUJ3MGpMMU56Z2JLWDN6bFdGZw?oc=5",
+          "published_at": "2026-11-23T09:44:26+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaA?oc=5",
+          "published_at": "2026-11-23T10:01:03+00:00"
+        },
+        {
+          "name": "Foreign Policy",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ3RnWGR6NThONnMtNXlINE5NUTFJa2JxamJ1UUhkZ0F1Y25QdWlGdlAzZ20zRFE4cllwV3dmT09TbzYtUE9zbFU5eGZ0R0hqUDJpOWVhTUhnanFGbmhyNWtEV3FMMnhHUFFHM2lMTnZ3R040RzNGMlZ6UGVXQU43SnR3ZjF1NVE0b0VLb25CV0F3OFNoUHpHRjJ1R0t1dER4bktjWW5zcm8tYVlYeWpRSmJDbi1vMjJpOGVEWm5XSWRKem8?oc=5",
+          "published_at": "2026-11-23T10:07:30+00:00"
+        },
+        {
+          "name": "WV News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnhfc1E0VnRhOUtsMTV1a2hpamNoYzFGT0VIMUE0ZEMxeC1RcDdMTVBEMzh1VHE1akFIVk9ZQlMzZG9WbkFOUU1qQ2pSYndnbTBTcHhELXRnZDVzN3gtNmJSY0ZGdERMRm1CVXMyZ1ljZVZ6LUlXRG5TMGNxUllYd0pKTm5PYXFhc25od3hVd09Wbk9mUE9IeGY5U1djY2R2cWxZOEZlcw?oc=5",
+          "published_at": "2026-11-23T10:18:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaA?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1b9b51ccf565bca01b4f12d8",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T05:41:46+00:00",
+      "last_update": "2026-11-23T11:34:10+00:00",
+      "event": "UN urges probe after Russian ship attacked off Libya",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "attacked",
+        "libya",
+        "off",
+        "probe",
+        "russian",
+        "ship",
+        "urges"
+      ],
+      "source_excerpt": "UN urges probe after Russian ship attacked off Libya",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/un-urges-probe-russian-ship-attacked-libya",
+          "published_at": "2026-11-23T05:41:46+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+          "published_at": "2026-11-23T07:37:09+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1FmOGYwcEh6Rk5MNnNVVjA3eGZ2ZFBIc0VRc0lSNkI2MUE5NTI2WVZnemZZMkRIcmw2UE4zcmJyUGg5ek9VTmhNNXZpeWR1dWtUTE9NTDliaG9LZWNKb2NKdEFVaHE4N0JFMktnVldYWXAtOFBWaE9mZHZxZVE4OWJVV240RmJkOW5aOW9jakdwSzZTeVBLanBxTXh4QmcxWFZhbGJwMndmZTMyN1BHeUh5Z9IBuAFBVV95cUxQVXFtbU85SlhXR3NKMF9Fd1VrelFHOHBzaVRZZVJMcVNlQnFTZkp0bmJKbzRrOWhkWXdFcHROZG5aaGIwempKSGk3R0hmclQ3M2xMMXNKb2VUcG9UNENYOUh6SHh0MWR3UzhNLUpjQ0VnVUE2dGZJUjRLNzZVTUtscFNTbEpLWlpYRGxTeUJveXU4cmJEb0RKYUwwV3M2cVNMclRQd0k0LVZJVm55ZzZLNGNhN1IzREVh?oc=5",
+          "published_at": "2026-11-23T07:41:15+00:00"
+        },
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2l1ektHU0lTMG5ldUpFQ0dVMWlhZWM3ZEQ5U3JEaG5KSWxhUDFrNVlGQUhud0tSaXNyZVA1eEd4Q1BPbXRPNUNSVlluTk5vckloc0lwVXJsWXItRWFacUxmemhjZGE3WUxpZ0ZCLVBQV01Gd19YbF9pQ3YtQzBnZ3hyMXVxSkFfeU9ra3JURVpoMS1DR2o3RWl0T3F0VmY0Unlzb0JxT1lUby1WSlcxNlhteEkzYU0?oc=5",
+          "published_at": "2026-11-23T07:57:24+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVhvY2xqS1RjNGs5V0Q0bFRhNzN4a0N4cDlZcFNtTEVyU0ItNzJZTXlQZ0xfQUUyMlVRdGxwYTFNUW1CMXFaMDJ6d1ZTaDRfU2xkczRKMWtRbWwzZ1JWMnBjTThsV2s0ZDU0OTZUNDhVMW9JdFpCeF85YTZuZi14bnV6MDdrdWI3TGpQVlVEUzFrZHp6VzA0Q1czU3RGN2hRQllRaXU1TU9FanVzLXJkOUFsSjlGZ9IBuwFBVV95cUxNRFZuUzQzdE9faXRWVTZoN1lsVTA1ck55Sk5Qa1FmaF8zTVZTV0djNXA3LTQ3bmNmWDAzUXdGZjd6dnJ5RzZXUGhRN3JmQ3l2NDVRcmpEZ0UyalIydjdqWEdNdjlFdXpubG44ZGhOd1B1ZXR2RExDQUZXR3NVeWZqaWNaZUtTeEhHQWxOT3A0UjdOMlRUa3pENVJqVExOdUhWNnA0dU5kMWlsSTN4ak91YnhNR3J0RkNrT19n?oc=5",
+          "published_at": "2026-11-23T08:15:00+00:00"
+        },
+        {
+          "name": "NanaimoNewsNOW",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkV6RkYxZ003bmo3amdQcjdHcVJWY1MxcHl0bHAwcjdmMks2SnBuOV9Nak4yQkFUVWtqbzRHVzZYMmU2WHg4NzV2SzZjY1NSeGhuOFNaOUpOa3QzdTM3cDhtamc1N0pwVWNQaXI5cWxaRzREcU1rQml3UUNHZHByMGRqQlIyTFlLYlBjQVlpNFp6UTdNQ0lRMlNnNkgzMFlMdlVwbGx0dUNyekxfTHJpUXZ2V0RieG0xSXl2U2l1aF9ydUNXNmZsdENFUXpuVlRINTItQXBR?oc=5",
+          "published_at": "2026-11-23T08:26:15+00:00"
+        },
+        {
+          "name": "The Japan Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGF2ZkJUQWJpNnU3UVFrR015RWl0UTcyNGxrWWxUOXAtOXJSdlA0UzVhYWFjQVE0Ni1qd2tZa2dST1hqWVN4UmV6bFZGVnlFTmJRRHZub0lhUG5FOFN3RUl6WXVQQTJidG5sdmtLbU1MaHBvdGtMTUhnZnBTS1JMSHdXS0d3eDJjeDRkVjhGRXVxMG5iTVE?oc=5",
+          "published_at": "2026-11-23T08:36:00+00:00"
+        },
+        {
+          "name": "POLITICO.eu",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTEYtVTdPeGgxOXdQTl9uazlOZmhKQ3B0OE5fY0hxRUdlZUR6bE1GLXpxcjNfZFJkX3F1a19WZ1l4MnpZUWg5WUEyLWc4MkFhU0VMZGV1UmdnbUstSGxtWjVSYzRORlpaWFRZbEVpeWtmSEVfaWxfdlcyYmRsOE95QmRHWTliQWc2cWlWd0V1cDNQcHowWUlNWjJMcHdnV0JNRGJBdA?oc=5",
+          "published_at": "2026-11-23T08:45:00+00:00"
+        },
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHJicXdLY1Nhd3J3ZURuYkhJRGdwWjdJMkxwZTAtazd3aHZ0WU1wVkVVZzN1Yl9SRlVqTURrUC1EUk1HSDMyWDhlRTc3cVEtSV9RdkVzV3o5OGFnOFV2QXZ5b0RhZC00R0poZFhGdmhpYUhXSFdna1A4UXUzWEFQMWF4NTY?oc=5",
+          "published_at": "2026-11-23T08:45:07+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2ZjdVdWd015eW1XY3R1RzR1a2J2Y0E2c1UtWHlkOVVSVjVNaWxTb01jVDVDMGNXNEtzc19teUMwWnhBa0VRWGgzc2F1eDRlNjdzVlhqa3FwelQyMU1xTHA4QmZiMlZZZFpEQXVaaUxrZUlNNWEwd3RoenpqRm1zOXRVcFRwMVdxdkRjYVI3RUs?oc=5",
+          "published_at": "2026-11-23T08:52:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/un-urges-probe-russian-ship-attacked-libya",
+        "publisher_url": "https://arynews.tv/un-urges-probe-russian-ship-attacked-libya",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "607a4fe7531b51876ede4456",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T11:08:54+00:00",
+      "last_update": "2026-11-23T11:32:20+00:00",
+      "event": "National CERT flags five WhatsApp security vulnerabilities",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cert",
+        "five",
+        "flags",
+        "national",
+        "samaa",
+        "security",
+        "vulnerabilities",
+        "whatsapp"
+      ],
+      "source_excerpt": "National CERT flags five WhatsApp security vulnerabilities samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0lrYklJNVNxWm90M0I2QTduX1FOczA2anBmVjVRamlBNnRNcmFvZHNYMVp0ejBDMGZOQzV4VS1Wdnp0aHFIanYwNFExZl9xeEdGVVFWcGxkTEtFTjJRUlVkTDVFUEVGdGJ5MUVuWDFwV2VncWJidlcyaUlacGhxTnZzSlJzVnczZHNQb3g2M0tCZUlI?oc=5",
+          "published_at": "2026-11-23T11:08:54+00:00"
+        },
+        {
+          "name": "PhoneWorld",
+          "url": "https://www.phoneworld.com.pk/national-cert-whatsapp-security-vulnerabilities-pakistan/",
+          "published_at": "2026-11-23T11:32:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0lrYklJNVNxWm90M0I2QTduX1FOczA2anBmVjVRamlBNnRNcmFvZHNYMVp0ejBDMGZOQzV4VS1Wdnp0aHFIanYwNFExZl9xeEdGVVFWcGxkTEtFTjJRUlVkTDVFUEVGdGJ5MUVuWDFwV2VncWJidlcyaUlacGhxTnZzSlJzVnczZHNQb3g2M0tCZUlI?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "65aff743cd7eda2b8fe0c324",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T10:57:20+00:00",
+      "last_update": "2026-11-23T10:57:20+00:00",
+      "event": "Lebanese families return to ruins after Israeli attacks in south",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "attacks",
+        "been",
+        "destruction",
+        "displaced",
+        "families",
+        "have",
+        "israeli",
+        "lebanese",
+        "lebanon",
+        "nabatieh",
+        "return",
+        "returning",
+        "ruins",
+        "south",
+        "southern",
+        "widespread"
+      ],
+      "source_excerpt": "In southern Lebanon’s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
+          "published_at": "2026-11-23T10:57:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "966dbbb8939b4c3fb66cfb3f",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T10:55:05+00:00",
+      "last_update": "2026-11-23T10:55:05+00:00",
+      "event": "CAS decision on Senegal’s AFCON 2025 title appeal to announced on Tuesday",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "afcon",
+        "announced",
+        "appeal",
+        "are",
+        "caf",
+        "cas",
+        "champions",
+        "contesting",
+        "decision",
+        "declare",
+        "despite",
+        "final",
+        "january",
+        "morocco",
+        "senegal",
+        "the",
+        "title",
+        "tuesday",
+        "winning"
+      ],
+      "source_excerpt": "Senegal are contesting CAF's decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
+          "published_at": "2026-11-23T10:55:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "79dafa445ab42410fc1cb519",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T11:26:12+00:00",
+      "last_update": "2026-11-23T11:26:12+00:00",
+      "event": "Flights grounded in Belgium due to strike against austerity measures",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "agree",
+        "austerity",
+        "belgium",
+        "budget",
+        "costs",
+        "cut",
+        "due",
+        "flights",
+        "grounded",
+        "have",
+        "hit",
+        "measures",
+        "minister",
+        "months",
+        "prime",
+        "recent",
+        "series",
+        "strike",
+        "strikes",
+        "struggles",
+        "the"
+      ],
+      "source_excerpt": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T11:26:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "08ceb0be0347164d47d0ab1c",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T11:07:11+00:00",
+      "last_update": "2026-11-23T11:07:11+00:00",
+      "event": "China says green transition 'irreversible' after COP31 failure",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "arynews",
+        "china",
+        "cop31",
+        "failure",
+        "green",
+        "irreversible",
+        "says",
+        "transition"
+      ],
+      "source_excerpt": "China says green transition 'irreversible' after COP31 failure ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRNVR0bFZKRU5hNm9mcjVXSnJyMVNZU1oxVno5VUZjeWQ2QTE3ZU5HTklfRXNncEI3Tkl4T2pPLURyeVJvUU9JTmhzYjJTTTluemdWWF8wZE9mU2VsenlmcExkY3dxX0VjODN1TGd1UzRMUUFIUVdYSQ?oc=5",
+          "published_at": "2026-11-23T11:07:11+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/china-green-transition-irreversible-cop31-failure",
+          "published_at": "2026-11-23T11:07:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRNVR0bFZKRU5hNm9mcjVXSnJyMVNZU1oxVno5VUZjeWQ2QTE3ZU5HTklfRXNncEI3Tkl4T2pPLURyeVJvUU9JTmhzYjJTTTluemdWWF8wZE9mU2VsenlmcExkY3dxX0VjODN1TGd1UzRMUUFIUVdYSQ?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "83c6e3466fbf91197801a3ad",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T11:30:39+00:00",
+      "last_update": "2026-11-23T11:30:39+00:00",
+      "event": "Analysis: Myanmar genocide judgment may bolster Gaza case against Israel",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "analysis",
+        "bolster",
+        "case",
+        "dawn",
+        "gaza",
+        "genocide",
+        "israel",
+        "judgment",
+        "may",
+        "myanmar"
+      ],
+      "source_excerpt": "Analysis: Myanmar genocide judgment may bolster Gaza case against Israel Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVhTcU90X25WRFhnMTJsa0dZLVJoVGRKdHVhQUNjdzJuVlU0QjdrTTJnSHU3ZzNUZkkycjRNU1dtR0Rkc3JwNFZsbTZOMHRPVnAtYVFhSjJJWkJuZHpUV3prTGFIb0RROUZpRWx0VE1ucjhzTm5MemtyNUFyWl9GeW51VXh4Q19ITHkzSWZFdFJIenYtQzN0d01CRG5aeVNTaVktUWdRRmE?oc=5",
+          "published_at": "2026-11-23T11:30:39+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046540/analysis-myanmar-genocide-judgment-may-bolster-gaza-case-against-israel",
+          "published_at": "2026-11-23T11:30:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVhTcU90X25WRFhnMTJsa0dZLVJoVGRKdHVhQUNjdzJuVlU0QjdrTTJnSHU3ZzNUZkkycjRNU1dtR0Rkc3JwNFZsbTZOMHRPVnAtYVFhSjJJWkJuZHpUV3prTGFIb0RROUZpRWx0VE1ucjhzTm5MemtyNUFyWl9GeW51VXh4Q19ITHkzSWZFdFJIenYtQzN0d01CRG5aeVNTaVktUWdRRmE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef2f00d79d94217b64baee09",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T10:58:52+00:00",
+      "last_update": "2026-11-23T11:27:16+00:00",
+      "event": "Field Marshal Asim Munir meets Malaysian PM to strengthen defence ties",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asim",
+        "defence",
+        "field",
+        "malaysian",
+        "marshal",
+        "meets",
+        "munir",
+        "samaa",
+        "strengthen",
+        "ties"
+      ],
+      "source_excerpt": "Field Marshal Asim Munir meets Malaysian PM to strengthen defence ties samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOG1YYV9hOTlROUlDM0VlMGxhZVJWdFo5clkxMHhiYmllMWI5d1Nwd1lxam5TZVpSVlktVWpBSXFBUjRTNUZmOFNrWk9oT0dUazNjVlF6clJ6SHNhMEdyMUZkQ1VqaGF1Uk9RdU1BMlFGXzB6eUdzODB0a3dpeEJzcU44bEFFd1RzT2NoNXJyUDFzeTczX1VzMTN1aTJ3NlVPc3U0RA?oc=5",
+          "published_at": "2026-11-23T10:58:52+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/field-marshal-asim-munir-malaysia-pm-anwar-ibrahim-discuss-defence-security-cooperation",
+          "published_at": "2026-11-23T11:27:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOG1YYV9hOTlROUlDM0VlMGxhZVJWdFo5clkxMHhiYmllMWI5d1Nwd1lxam5TZVpSVlktVWpBSXFBUjRTNUZmOFNrWk9oT0dUazNjVlF6clJ6SHNhMEdyMUZkQ1VqaGF1Uk9RdU1BMlFGXzB6eUdzODB0a3dpeEJzcU44bEFFd1RzT2NoNXJyUDFzeTczX1VzMTN1aTJ3NlVPc3U0RA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8b22652668358da5b4c9692b",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T10:52:30+00:00",
+      "last_update": "2026-11-23T10:52:30+00:00",
+      "event": "K-P govt to rename Imran Khan Cricket Stadium back to Arbab Niaz Stadium",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arbab",
+        "back",
+        "cricket",
+        "express",
+        "govt",
+        "imran",
+        "khan",
+        "niaz",
+        "rename",
+        "stadium",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "K-P govt to rename Imran Khan Cricket Stadium back to Arbab Niaz Stadium The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2lVQTl4WHhMaTY3VkNxM2pPNV9iSHhvNGFSNi12RHl0cVRoeTgzQlo0WThFTlo1Vzd5Y1Q3Z25HV2JCTmtaY2R4MWJfbnhDUFAxLVZhU3Rxa3JzbDVNbi1yMFlHRXlWQU9la3pJZEQ0X3UyYkFQb01MVldHR3hQMWpGdl9ONGkyWGFKNXBnVWx6anpFaDljUmdmQ2V1RHVQUTdMaW1SWlBndFZXTnfSAbYBQVVfeXFMUDNZdXNaTFBJWktKMC1uN0NfTnFxX2dXTmJ2NDhZRVYyMmpNYkgtMVViVXVNNFJFOTlOS2pGWGVXU2l6WUpjOUI1X3dQdGh3QWpkNk9sVHBkcnhJLW1OeWNZQmJXX0RKWjE4ZDFDcHR0TUJ3cVUxYTBBUy02SVRhQlA1bVVhSFVBQ3lvcDRkWldtV09PMmJwV0tHR3Z0bkhsdlBRSUNJc1NnV2lWemUtMGhxNUE3N3c?oc=5",
+          "published_at": "2026-11-23T10:52:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2lVQTl4WHhMaTY3VkNxM2pPNV9iSHhvNGFSNi12RHl0cVRoeTgzQlo0WThFTlo1Vzd5Y1Q3Z25HV2JCTmtaY2R4MWJfbnhDUFAxLVZhU3Rxa3JzbDVNbi1yMFlHRXlWQU9la3pJZEQ0X3UyYkFQb01MVldHR3hQMWpGdl9ONGkyWGFKNXBnVWx6anpFaDljUmdmQ2V1RHVQUTdMaW1SWlBndFZXTnfSAbYBQVVfeXFMUDNZdXNaTFBJWktKMC1uN0NfTnFxX2dXTmJ2NDhZRVYyMmpNYkgtMVViVXVNNFJFOTlOS2pGWGVXU2l6WUpjOUI1X3dQdGh3QWpkNk9sVHBkcnhJLW1OeWNZQmJXX0RKWjE4ZDFDcHR0TUJ3cVUxYTBBUy02SVRhQlA1bVVhSFVBQ3lvcDRkWldtV09PMmJwV0tHR3Z0bkhsdlBRSUNJc1NnV2lWemUtMGhxNUE3N3c?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dbcda2a923c170c48e465d28",
+      "remembered_at": "2026-11-23T11:43:17.381563+00:00",
+      "event_date": "2026-11-23T11:23:24+00:00",
+      "last_update": "2026-11-23T11:23:24+00:00",
+      "event": "Bilawal Bhutto inaugurates Sindh Youth Card scheme",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bhutto",
+        "bilawal",
+        "card",
+        "inaugurates",
+        "scheme",
+        "sindh",
+        "youth"
+      ],
+      "source_excerpt": "Bilawal Bhutto inaugurates Sindh Youth Card scheme",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/bilawal-bhutto-inaugurates-sindh-youth-card-scheme",
+          "published_at": "2026-11-23T11:23:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/bilawal-bhutto-inaugurates-sindh-youth-card-scheme",
+        "publisher_url": "https://arynews.tv/bilawal-bhutto-inaugurates-sindh-youth-card-scheme",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T10:50:14.166360+00:00"
+  "updated_at": "2026-11-23T11:43:17.381563+00:00"
 }

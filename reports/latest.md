@@ -1,36 +1,36 @@
-# News Hub report - Mon 23 Nov, 03:50 PM PKT
+# News Hub report - Mon 23 Nov, 04:43 PM PKT
 
 ## Collection
-- New items this run: 119 | items in rolling pool: 606
-- Unique story clusters: 502 (duplicates merged: 104)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 33, Geo News 9, ProPakistani 8, samaa tv 5, Al Jazeera 5, Wired 4, UNITED24 Media 4, Dunya News 3, ARY News 3, Aaj English TV 3, BBC Business 3, The Current 3
+- New items this run: 71 | items in rolling pool: 647
+- Unique story clusters: 532 (duplicates merged: 115)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 7
+- Items per outlet: ProPakistani 9, ARY News 6, samaa tv 6, Geo News 5, Wired 5, The News International 4, Al Jazeera 4, TechJuice 4, Dawn 3, Aaj English TV 3, The Express Tribune 2, PhoneWorld 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: IMRAN KHAN’S HEALTH, MARYAM NAWAZ’S PLANE & PTI POWER POLITICS | https://www.youtube.com/watch?v=IZW2Nf3hipo
+- Adeel Raja Shorts: SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO! | https://www.youtube.com/watch?v=tY3mQIJeBF0
 
 ## Top 5 most important
-- Trump signals possible Iran strikes after New Year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port | Russia-Ukraine war News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN urges probe after Russian ship attacked off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Capitalising on the Middle East conflict: Pakistan's ports can win transshipment business, if policy stays consistent | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- National CERT flags five WhatsApp security vulnerabilities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- AI superintelligence ‘arriving’ warns top Meta executive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Widowed amid war and displacement: Sudanese mothers struggle to survive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Trump signals possible Iran strikes after New Year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port | Russia-Ukraine war News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN urges probe after Russian ship attacked off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Capitalising on the Middle East conflict: Pakistan's ports can win transshipment business, if policy stays consistent | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- National CERT flags five WhatsApp security vulnerabilities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- AI superintelligence ‘arriving’ warns top Meta executive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Widowed amid war and displacement: Sudanese mothers struggle to survive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Trump signals possible Iran strikes after New Year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port | Russia-Ukraine war News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN urges probe after Russian ship attacked off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Capitalising on the Middle East conflict: Pakistan's ports can win transshipment business, if policy stays consistent | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- National CERT flags five WhatsApp security vulnerabilities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan must shift from ‘sick care’ to preventive healthcare: Mustafa Kamal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- AI superintelligence ‘arriving’ warns top Meta executive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Widowed amid war and displacement: Sudanese mothers struggle to survive | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -39,15 +39,108 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 6 items
+### Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity  [NORMAL]
+- Poster: بیلجیم میں ہنگامہ آرائی، حکومتی پالیسیوں کیخلاف ہڑتال سے پروازیں معطل / Belgium Flights Grounded Due to Anti-Austerity Strike | category politics
+- Alternative headline: Massive Transport Disruptions Hit Belgium Amid Anti-Austerity Protests
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business
+- Keywords: Belgium strike, Belgium flights, austerity measures, Brussels airport, air traffic controllers, transport disruption | hashtags: #Belgium #Strike #Austerity #Brussels #FlightCancellations
+- Scheduled: Mon 23 Nov, 04:43 PM PKT
+- Caption:
+```
+Hundreds of flights are cancelled and public transport is severely disrupted across Belgium as workers launch a major strike against planned austerity measures.
+
+Hundreds of flights were cancelled and public transport disrupted across Belgium due to a strike against planned austerity measures. Air traffic halted at Brussels and Charlerois airports as air traffic controllers walked out, disrupting over 50,000 travellers amid ongoing budget disagreements.
+
+بیلجیم میں مجوزہ کفایت شعاری کے اقدامات کے خلاف ہڑتال کی وجہ سے سیکڑوں پروازیں منسوخ اور پبلک ٹرانسپورٹ معطل ہو گئی۔ برسلز اور شارلروا ہوائی اڈوں پر فضائی ٹریفک رک گئی، جس سے پچاس ہزار سے زائد مسافر متاثر ہوئے۔
+
+First reported by BBC Business.
+
+#Belgium #Strike #Austerity #Brussels #FlightCancellations
+```
+
+### Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port  [NORMAL]
+- Poster: لیبیا کی بندرگاہ پر روسی بحری جہاز پر مبینہ یوکرینی ڈرون حملہ / Russian Vessel Hit by Drone at Libya Port | category war
+- Alternative headline: Suspected Sea Drone Strike Targets Russian Ship off Libyan Coast
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaA?oc=5
+- Supporting coverage: Ukrinform, RFI, EA WorldView, WV News, WV News, The Arab Weekly
+- Keywords: Russian vessel hit, Libya port, Benghazi, Ukraine drone, Russia-Ukraine war, sea drone attack | hashtags: #Libya #Benghazi #UkraineWar #Russia #DroneAttack
+- Scheduled: Mon 23 Nov, 04:53 PM PKT
+- Caption:
+```
+A Russian vessel has been reportedly struck by a suspected Ukrainian sea drone at Libya’s Benghazi port, according to reports.
+
+A Russian vessel was reportedly hit by a suspected Ukrainian sea drone at Libya’s Benghazi port. The incident highlights the expanding geographical reach of the Russia-Ukraine conflict into North African waters, prompting international attention.
+
+لیبیا کی بندرگاہ بنغازی میں ایک روسی بحری جہاز مبینہ طور پر یوکرینی سمندری ڈرون حملے کی زد میں آ گیا ہے۔ اس واقعے سے روس یوکرین جنگ کے اثرات شمالی افریقہ تک پھیلنے کا خدشہ ظاہر کیا جا رہا ہے۔
+
+First reported by Al Jazeera.
+
+#Libya #Benghazi #UkraineWar #Russia #DroneAttack
+```
+
+### UN Urges Independent Probe After Drone Attacks on Ships Off Libya  [NORMAL]
+- Poster: لیبیا کے قریب بحری جہازوں پر حملے، اقوام متحدہ کا غیر جانبدارانہ تحقیقات کا مطالبہ / UN Urges Probe After Ship Attacks Off Libya | category war
+- Alternative headline: United Nations Demands Investigation Following Ship Attacks Near Benghazi
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/un-urges-probe-russian-ship-attacked-libya | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/un-urges-probe-russian-ship-attacked-libya
+- Supporting coverage: ARY News, Al Jazeera, Al Jazeera, Anadolu Ajansı, Al Jazeera, NanaimoNewsNOW
+- Keywords: UN probe Libya, Libya ship attack, UNSMIL, Benghazi drones, Russian vessel, Ukraine war spillover | hashtags: #UnitedNations #Libya #Benghazi #DroneAttack #UNSMIL
+- Scheduled: Mon 23 Nov, 05:03 PM PKT
+- Caption:
+```
+The United Nations has called for an immediate independent investigation following suspected drone attacks on two ships off the coast of Libya.
+
+The United Nations called for an immediate independent investigation after drone attacks targeted two ships, including a Russian vessel, off Libya's coast near Benghazi. The UN mission expressed serious concern, stating that Libya must not become a battleground for foreign conflicts.
+
+اقوام متحدہ نے لیبیا کے ساحل کے قریب دو بحری جہازوں پر ڈرون حملوں کے بعد فوری اور غیر جانبدارانہ تحقیقات کا مطالبہ کیا ہے۔ مشن نے اس بات پر زور دیا ہے کہ لیبیا کو بیرونی تنازعات کا میدان جنگ نہیں بننا چاہیے۔
+
+First reported by ARY News.
+
+#UnitedNations #Libya #Benghazi #DroneAttack #UNSMIL
+```
+
+### Pakistan Ports Can Win Transshipment Business Amid Middle East Conflict  [NORMAL]
+- Poster: مشرق وسطیٰ کا تنازع: پاکستانی بندرگاہیں ٹرانزشپمنٹ کا کاروبار کیسے جیت سکتی ہیں؟ / Pakistan Ports Can Win Transshipment Business | category economy
+- Alternative headline: Consistent Policy Can Help Pakistan Capitalize on Regional Maritime Disruptions
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046504/capitalising-on-the-middle-east-conflict-pakistans-ports-can-win-transshipment-business-if-policy-stays-consistent | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046504/capitalising-on-the-middle-east-conflict-pakistans-ports-can-win-transshipment-business-if-policy-stays-consistent
+- Supporting coverage: Dawn Latest, Investify, Dawn
+- Keywords: Pakistan ports transshipment, Middle East conflict, maritime affairs, shipping industry, Pakistan supply chain, LNG supplies | hashtags: #PakistanPorts #Maritime #Transshipment #MiddleEast #Economy
+- Scheduled: Mon 23 Nov, 05:13 PM PKT
+- Caption:
+```
+Pakistan's maritime sector has a unique opportunity to capture new transshipment business if consistent policies are maintained amid Middle East disruptions.
+
+The Middle East conflict has presented Pakistan with an opportunity to protect its maritime supply chains and expand its shipping industry. Government committees have worked to maintain oil and LNG supplies while exploring new transshipment potential, provided policy consistency is maintained.
+
+مشرق وسطیٰ کے تنازع نے پاکستان کے لیے میری ٹائم سپلائی لائنوں کو محفوظ بنانے اور شپنگ انڈسٹری کو وسعت دینے کا موقع فراہم کیا ہے۔ حکومتی کمیٹیوں نے تیل اور ایل این جی کی فراہمی کو یقینی بناتے ہوئے نئے کاروباری امکانات پر کام کیا ہے۔
+
+First reported by Dawn Latest.
+
+#PakistanPorts #Maritime #Transshipment #MiddleEast #Economy
+```
+
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 12
+- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
-- [needs_review] normal | UK asks YouTube to remove Russell Brand’s video | Fri 20 Nov, 09:31 AM PKT
-- [needs_review] normal | Asia’s stock markets dive amid AI bubble fears | Fri 20 Nov, 09:41 AM PKT
-- [needs_review] normal | Trump nominee refuses to call Jan 6 an ‘attack’ | Fri 20 Nov, 09:51 AM PKT
 - [needs_review] normal | Kushner: Trump open to NATO-like security guarantees for Ukraine | Fri 20 Nov, 10:42 AM PKT
 - [needs_review] normal | Pakistan Medical Association objects to proposed SHCC board members | Fri 20 Nov, 10:52 AM PKT
 - [needs_review] normal | Slain anchorperson’s husband released on bail in Rawalpindi | Fri 20 Nov, 11:02 AM PKT
@@ -212,7 +305,7 @@
 - [published] normal | Former UN envoy declares Iran war was entirely preventable | Sun 22 Nov, 03:34 PM PKT
 - [needs_review] normal | Veteran journalist and human rights activist Hussain Naqi passes away  | Sun 22 Nov, 03:44 PM PKT
 - [needs_review] normal | PTI demands jail manual facilities for party founder Imran Khan | Sun 22 Nov, 03:54 PM PKT
-- [queued] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
+- [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
 - [needs_review] normal | South Korea Education Minister Resigns Over National Exam Cheating Sca | Sun 22 Nov, 04:14 PM PKT
 - [published] normal | Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Atta | Sun 22 Nov, 04:24 PM PKT
 - [needs_review] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
@@ -279,8 +372,8 @@
 - [needs_review] normal | JI not against new provinces but urges provision of rights | Mon 23 Nov, 09:23 AM PKT
 - [needs_review] normal | Pakistan's offshore oil exploration with Turkiye merits cautious optim | Mon 23 Nov, 09:33 AM PKT
 - [published] normal | UK disability benefits assessment process faces major overhaul recomme | Mon 23 Nov, 10:25 AM PKT
-- [queued] normal | Port Qasim's only coal conveyor system breaks down, disrupting imports | Mon 23 Nov, 10:35 AM PKT
-- [queued] normal | Government moves to overhaul weak audit oversight system | Mon 23 Nov, 10:45 AM PKT
+- [needs_review] normal | Port Qasim's only coal conveyor system breaks down, disrupting imports | Mon 23 Nov, 10:35 AM PKT
+- [published] normal | Government moves to overhaul weak audit oversight system | Mon 23 Nov, 10:45 AM PKT
 - [queued] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
 - [queued] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
 - [queued] normal | At least 3 killed and 36 missing after devastating Indonesia factory f | Mon 23 Nov, 12:00 PM PKT
@@ -292,28 +385,23 @@
 - [queued] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
 - [queued] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
 - [queued] promo | [YouTube] IMRAN KHAN’S HEALTH, MARYAM NAWAZ’S PLANE & PTI POWER POLITI | Mon 23 Nov, 03:50 PM PKT
+- [queued] promo | [YouTube] SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO! | Mon 23 Nov, 04:43 PM PKT
+- [queued] normal | Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity | Mon 23 Nov, 04:43 PM PKT
+- [queued] normal | Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port | Mon 23 Nov, 04:53 PM PKT
+- [queued] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
+- [queued] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
 
 ## Publishing this run
-- Published 'UK disability benefits assessment process faces major overhaul recommendation'.
+- Published 'Government moves to overhaul weak audit oversight system'.
 
 ## Gemini usage
-- Calls: 7 | prompt tokens: 11098 | output tokens: 4423
-- Errors: 7
+- Calls: 7 | prompt tokens: 18298 | output tokens: 4945
+- Errors: 5
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 67 column 7 (char 3137)
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 155 column 7 (char 7136)
+  - Gemini gemini-3.5-flash-lite: Expecting value: line 212 column 9 (char 8864)
