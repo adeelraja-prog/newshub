@@ -122926,7 +122926,621 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7e0a797ecdc3802a0be7c5b7",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T00:03:37+00:00",
+      "last_update": "2026-11-23T03:50:36+00:00",
+      "event": "Doctors demand pending salaries",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "demand",
+        "doctors",
+        "pending",
+        "salaries"
+      ],
+      "source_excerpt": "Doctors demand pending salaries Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42ejJqWFFYUkNyZWdWS210WHZCTWVYVDhoRzk5dnNZR1AzZzByeFFDSlBsQ1pfcVZjNUUtVmlpYzI1SEtwRWh6eHJZVzdKc1dYZTJDZ3NJSm5aY3BoeFhMUVZkblcwdW1BWUh6S0t1cGNHbWs?oc=5",
+          "published_at": "2026-11-23T00:03:37+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046382/balochistan-doctors-demand-pending-salaries",
+          "published_at": "2026-11-23T03:50:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42ejJqWFFYUkNyZWdWS210WHZCTWVYVDhoRzk5dnNZR1AzZzByeFFDSlBsQ1pfcVZjNUUtVmlpYzI1SEtwRWh6eHJZVzdKc1dYZTJDZ3NJSm5aY3BoeFhMUVZkblcwdW1BWUh6S0t1cGNHbWs?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "db5c108559918861ec151904",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T00:03:37+00:00",
+      "last_update": "2026-11-23T03:54:34+00:00",
+      "event": "Missing student returns home after two years",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "dawn",
+        "home",
+        "missing",
+        "returns",
+        "student",
+        "two",
+        "years"
+      ],
+      "source_excerpt": "Missing student returns home after two years Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkJUVF95WlVXSHRFOU5CVkNYQjE1VGtrZUlfU3RFZ2JrSXg3YmxCUHZqNWFKUFBrOVFydzJkb1BObHVHcHBMU3dKMU1yWjVrU1RuTG03Ynk1MVFNVDIyMmVsNzZ5Tmo1NGJ2NTlVQnpiWHZrUEhVeTJXUGc5NmZ1aUswUFM?oc=5",
+          "published_at": "2026-11-23T00:03:37+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046384/missing-student-from-balochistans-panjgur-returns-home-after-two-years",
+          "published_at": "2026-11-23T03:54:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkJUVF95WlVXSHRFOU5CVkNYQjE1VGtrZUlfU3RFZ2JrSXg3YmxCUHZqNWFKUFBrOVFydzJkb1BObHVHcHBMU3dKMU1yWjVrU1RuTG03Ynk1MVFNVDIyMmVsNzZ5Tmo1NGJ2NTlVQnpiWHZrUEhVeTJXUGc5NmZ1aUswUFM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3cae944c8316ccbf49947332",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T00:03:37+00:00",
+      "last_update": "2026-11-23T03:47:44+00:00",
+      "event": "JI not against new provinces but urges provision of rights",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "but",
+        "dawn",
+        "new",
+        "not",
+        "provinces",
+        "provision",
+        "rights",
+        "urges"
+      ],
+      "source_excerpt": "JI not against new provinces but urges provision of rights Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWwxMHhJVnVqaUQ4UkZ1MTJ6Qms0ekhHRXJjdE1JZXhrYXNzQmoydnZyTEZmTF9IR0hiOVJISjlFS3dzZE5PeTAwbVU3SVI1VEJoNmlsVDRyb3RRX2pvNWJOdG1mMTg4LUpHODNBZy1QTU9UVUdNcTRHTFRVOE8xNGVLTENQbFVRUlF3NDg4b1haTlI3am5V?oc=5",
+          "published_at": "2026-11-23T00:03:37+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046383/ji-not-against-new-provinces-but-urges-provision-of-rights-in-balochistan",
+          "published_at": "2026-11-23T03:47:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWwxMHhJVnVqaUQ4UkZ1MTJ6Qms0ekhHRXJjdE1JZXhrYXNzQmoydnZyTEZmTF9IR0hiOVJISjlFS3dzZE5PeTAwbVU3SVI1VEJoNmlsVDRyb3RRX2pvNWJOdG1mMTg4LUpHODNBZy1QTU9UVUdNcTRHTFRVOE8xNGVLTENQbFVRUlF3NDg4b1haTlI3am5V?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a71078dfd2be5f049b5e093c",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T00:06:42+00:00",
+      "last_update": "2026-11-23T03:33:45+00:00",
+      "event": "Three killed over property dispute",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "dispute",
+        "killed",
+        "over",
+        "property",
+        "three"
+      ],
+      "source_excerpt": "Three killed over property dispute Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92cEJPaWd0Y1oweDR2ODU3Y3ZSOUhxdGdFcGdtNkJ6S1RGZk9TZ25UUWdpUk5DaFFvX0ZMOGVGSEROeVV3bU9ORG5JbGYyRWFiNzN5QjFtRHUzeFBmTEYwX2phM3lnUWVyelk5bjM0M2hITEhTX01V?oc=5",
+          "published_at": "2026-11-23T00:06:42+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGU3NNQjlROHd6UFltVVlDWTlaVkJXUDdsdmw0dHp6ak50bFdMSUtOenQyNGk3dzBZV1FrQnVucDg3YU9YeVBINkVHSTcxWHBEektac1NjUjU2WWRqTWNzZl90bDFKUTBlbHJ5WnRuQXkwbGlGNEsw0gF_QVVfeXFMTm82QjJnVVdYbWhiUm1Sek15Qlp0SG9vTzRzZ1BIMHFOd3M3eGdZVGFlRjlJdktkYzdHYWgwb3pLSXpQTF9KRTNKUU9Xc3QyZ3h5TGtTRDZQMjJhMTFURXRVNUlOVF9MYWdzQ19UbUNXT3M5dlQ5dHNlaDBTTXRxOA?oc=5",
+          "published_at": "2026-11-23T03:33:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92cEJPaWd0Y1oweDR2ODU3Y3ZSOUhxdGdFcGdtNkJ6S1RGZk9TZ25UUWdpUk5DaFFvX0ZMOGVGSEROeVV3bU9ORG5JbGYyRWFiNzN5QjFtRHUzeFBmTEYwX2phM3lnUWVyelk5bjM0M2hITEhTX01V?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b091ed0b7c200ba80fbdf16b",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T00:03:37+00:00",
+      "last_update": "2026-11-23T03:45:06+00:00",
+      "event": "Public role in population planning demanded",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "demanded",
+        "planning",
+        "population",
+        "public",
+        "role"
+      ],
+      "source_excerpt": "Public role in population planning demanded Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS29GY3NjOUJZd0Vkek9WaXlrUHZtQklCY0dia3RwejhkQm9VeDIzaHNRY2ZNMkRZc2hZMG5SU0RzQ0NMWTRnVmFKMk5Bb0dab2lSeDNVcjBueXZDTVg3Rld2dV9rUjZpRVUyd0JnTXJuQk54Q1NyVkNUczB2VWNOaEgtSQ?oc=5",
+          "published_at": "2026-11-23T00:03:37+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046498/senator-stresses-public-engagement-in-population-planning",
+          "published_at": "2026-11-23T03:45:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS29GY3NjOUJZd0Vkek9WaXlrUHZtQklCY0dia3RwejhkQm9VeDIzaHNRY2ZNMkRZc2hZMG5SU0RzQ0NMWTRnVmFKMk5Bb0dab2lSeDNVcjBueXZDTVg3Rld2dV9rUjZpRVUyd0JnTXJuQk54Q1NyVkNUczB2VWNOaEgtSQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "279d41e468a8380b66c6ea20",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T02:14:00+00:00",
+      "last_update": "2026-11-23T03:12:00+00:00",
+      "event": "Usher, Chris Brown concert: See Fire performer fall off stage",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "briefly",
+        "brown",
+        "caesars",
+        "chris",
+        "concert",
+        "during",
+        "fall",
+        "fan",
+        "fell",
+        "fire",
+        "flames",
+        "footage",
+        "new",
+        "november",
+        "off",
+        "orleans",
+        "performer",
+        "saturday",
+        "see",
+        "shows",
+        "stage",
+        "superdome",
+        "surrounded",
+        "the",
+        "twirling",
+        "two",
+        "usher",
+        "was"
+      ],
+      "source_excerpt": "Usher, Chris Brown concert: See Fire performer fall off stage A fire performer fell off the stage and was briefly surrounded by flames during Usher and Chris Brown's concert at the Caesars Superdome in New Orleans on Saturday 21 November. Fan footage shows the performer twirling two...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692233-usher-and-chris-brown-concert",
+          "published_at": "2026-11-23T02:14:00+00:00"
+        },
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1hjdWkzUV85X2J1VzY4RDcyVVpvaTlXbVRiaTJqaW9oaUlZQnBkSEVHbU5qOEtCUVV0bjB0NDl5TGJlNDhzR1dNZHZ2bERVYnJHbFkySTZMM1lsN3BncmdWYjNCYjN3TzRzdmRuY2VRR3RMWXF3cVpSbTRBc1l6SFlMcHhac2RwNWV0MWlkV1BRVDllVUhuVWJhUTc5OXEtYVM0V2JsYmVobThTRldhN9IBsAFBVV95cUxPR1hjdWkzUV85X2J1VzY4RDcyVVpvaTlXbVRiaTJqaW9oaUlZQnBkSEVHbU5qOEtCUVV0bjB0NDl5TGJlNDhzR1dNZHZ2bERVYnJHbFkySTZMM1lsN3BncmdWYjNCYjN3TzRzdmRuY2VRR3RMWXF3cVpSbTRBc1l6SFlMcHhac2RwNWV0MWlkV1BRVDllVUhuVWJhUTc5OXEtYVM0V2JsYmVobThTRldhNw?oc=5",
+          "published_at": "2026-11-23T03:12:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692233-usher-and-chris-brown-concert",
+        "publisher_url": "https://www.geo.tv/latest/692233-usher-and-chris-brown-concert",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5d92c58b626df3a29c8fbcf9",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T03:57:59+00:00",
+      "last_update": "2026-11-23T04:02:17+00:00",
+      "event": "Pakistan's only coal conveyor system at Port Qasim non-functional since last week, disrupting coal imports",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046386",
+        "belt",
+        "bulk",
+        "coal",
+        "com",
+        "conveyor",
+        "dawn",
+        "disrupting",
+        "disrupts",
+        "failure",
+        "functional",
+        "https",
+        "imports",
+        "last",
+        "news",
+        "non",
+        "only",
+        "pakistan",
+        "port",
+        "qasim",
+        "since",
+        "system",
+        "terminal",
+        "week",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046386/conveyor-belt-failure-at-bulk-terminal-disrupts-coal-imports",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-last-week-disrupting-coal-imports",
+          "published_at": "2026-11-23T03:57:59+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-last-week-disrupting-imports",
+          "published_at": "2026-11-23T04:02:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-last-week-disrupting-coal-imports",
+        "publisher_url": "https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-last-week-disrupting-coal-imports",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3d615b82e81745c23a3779ef",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T03:25:25+00:00",
+      "last_update": "2026-11-23T03:25:25+00:00",
+      "event": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "chaos",
+        "concert",
+        "crowd",
+        "don",
+        "let",
+        "off",
+        "substance",
+        "toliver"
+      ],
+      "source_excerpt": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss",
+          "published_at": "2026-11-23T03:25:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c066a56d270123b81afbf590",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T03:15:55+00:00",
+      "last_update": "2026-11-23T03:15:55+00:00",
+      "event": "Belgium’s airports set to shut down due to anti-austerity strike",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "airports",
+        "amid",
+        "anti",
+        "austerity",
+        "belgian",
+        "belgium",
+        "control",
+        "down",
+        "due",
+        "flights",
+        "grounding",
+        "halts",
+        "led",
+        "services",
+        "set",
+        "shut",
+        "skeyes",
+        "strike",
+        "traffic",
+        "union"
+      ],
+      "source_excerpt": "Skeyes halts air traffic control services, grounding flights at Belgian airports amid union-led strike.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
+          "published_at": "2026-11-23T03:15:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e8edea41555012c14401e578",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T03:14:44+00:00",
+      "last_update": "2026-11-23T03:15:23+00:00",
+      "event": "A lopsided arrangement for KP?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrangement",
+        "dawn",
+        "for",
+        "lopsided"
+      ],
+      "source_excerpt": "A lopsided arrangement for KP? Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jVzNXRHd2NmZ1Uk9MT184UFEtZW5UT0F0bmlBNGJkZ2xxYmFPdThyZmtIMVI1S1hZVUJfcTA1NkliRTdzWTJybQ?oc=5",
+          "published_at": "2026-11-23T03:14:44+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046492/finances-since-governors-rule-a-lopsided-arrangement-for-kp",
+          "published_at": "2026-11-23T03:15:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jVzNXRHd2NmZ1Uk9MT184UFEtZW5UT0F0bmlBNGJkZ2xxYmFPdThyZmtIMVI1S1hZVUJfcTA1NkliRTdzWTJybQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4b68c35ee9d036c97c6a84d3",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T03:12:48+00:00",
+      "last_update": "2026-11-23T03:12:48+00:00",
+      "event": "PTV asked to disclose details of foreign trips at public expense",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "about",
+        "asked",
+        "cannot",
+        "commission",
+        "corporation",
+        "details",
+        "directed",
+        "disclose",
+        "expense",
+        "foreign",
+        "funds",
+        "has",
+        "information",
+        "islamabad",
+        "its",
+        "january",
+        "merely",
+        "officials",
+        "pakistan",
+        "pic",
+        "ptv",
+        "public",
+        "ruling",
+        "since",
+        "television",
+        "that",
+        "the",
+        "trips",
+        "undertaken",
+        "utilisation",
+        "withheld"
+      ],
+      "source_excerpt": "ISLAMABAD: The Pakistan Information Commission (PIC) has directed Pakistan Television Corporation ( PTV ) to disclose details of foreign trips undertaken by its officials at public expense since January 2025, ruling that information about the utilisation of public funds cannot be withheld merely by",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046389/ptv-asked-to-disclose-details-of-foreign-trips-at-public-expense",
+          "published_at": "2026-11-23T03:12:48+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWcwUDluSXkzakV3NGs3eUdEN0hJNzI1N3hRYm1RTzlsclZNN2xnTk42S3l0RlpYNk1sU2FydjJrX0RXX3V5NnZsTEY1UVRDU3djM1VacUdrWGF5bkl0eUgwT3hCbk1Jc2xRLVZhZGUxMk1YT19DQUlka3dnSFpmXzJ6akZLZXZmZ2ZxdjRjd2gwRDE3VHI2MFN5ODhOWGs?oc=5",
+          "published_at": "2026-11-23T03:12:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046389/ptv-asked-to-disclose-details-of-foreign-trips-at-public-expense",
+        "publisher_url": "https://www.dawn.com/news/2046389/ptv-asked-to-disclose-details-of-foreign-trips-at-public-expense",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "553d8096dd6f2e9f9d3ee20e",
+      "remembered_at": "2026-11-23T04:03:32.498998+00:00",
+      "event_date": "2026-11-23T03:38:34+00:00",
+      "last_update": "2026-11-23T03:38:34+00:00",
+      "event": "Missed the boat? Pakistan may need a plan B for economic growth",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046466",
+        "and",
+        "boat",
+        "com",
+        "dawn",
+        "economic",
+        "for",
+        "growth",
+        "https",
+        "may",
+        "missed",
+        "need",
+        "news",
+        "pakistan",
+        "plan",
+        "prescriptions",
+        "problems",
+        "the",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046466/problems-and-prescriptions",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046497/missed-the-boat-pakistan-may-need-a-plan-b-for-economic-growth",
+          "published_at": "2026-11-23T03:38:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046497/missed-the-boat-pakistan-may-need-a-plan-b-for-economic-growth",
+        "publisher_url": "https://www.dawn.com/news/2046497/missed-the-boat-pakistan-may-need-a-plan-b-for-economic-growth",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T02:57:35.286494+00:00"
+  "updated_at": "2026-11-23T04:03:32.498998+00:00"
 }

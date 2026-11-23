@@ -1,35 +1,35 @@
-# News Hub report - Mon 23 Nov, 07:57 AM PKT
+# News Hub report - Mon 23 Nov, 09:03 AM PKT
 
 ## Collection
-- New items this run: 35 | items in rolling pool: 244
-- Unique story clusters: 225 (duplicates merged: 19)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 5
-- Items per outlet: Dawn Latest 7, Al Jazeera 6, Profit by Pakistan Today 4, Geo News 3, Dawn 3, The Express Tribune 3, Investify 3, Vietnam.vn 2, chinadailyhk 1, Eurasia Review 1, Reuters 1, The Guardian 1
+- New items this run: 38 | items in rolling pool: 259
+- Unique story clusters: 230 (duplicates merged: 29)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 6
+- Items per outlet: Dawn Pakistan 10, The Express Tribune 5, Profit by Pakistan Today 4, Dawn Latest 3, Al Jazeera 3, Dawn 2, The News International 1, Geo News 1, X 1, The Verge 1, TechJuice 1, PhoneWorld 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Pakistani among two injured in Iranian attack on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Closing gateway to Central Asia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Global food import bill up 1.9pc in 2026’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- World economy hinges on Iran peace deal: Fidan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Doctors demand pending salaries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Missing student returns home after two years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- JI not against new provinces but urges provision of rights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Editorial: Looking beyond the hype, Pakistan's offshore exploration effort with Turkiye merits cautious optimism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three killed over property dispute | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistani among two injured in Iranian attack on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Closing gateway to Central Asia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Global food import bill up 1.9pc in 2026’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- World economy hinges on Iran peace deal: Fidan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Doctors demand pending salaries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Missing student returns home after two years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- JI not against new provinces but urges provision of rights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Editorial: Looking beyond the hype, Pakistan's offshore exploration effort with Turkiye merits cautious optimism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three killed over property dispute | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistani among two injured in Iranian attack on Bahrain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Closing gateway to Central Asia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Global food import bill up 1.9pc in 2026’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- World economy hinges on Iran peace deal: Fidan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Doctors demand pending salaries | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Missing student returns home after two years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- JI not against new provinces but urges provision of rights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Editorial: Looking beyond the hype, Pakistan's offshore exploration effort with Turkiye merits cautious optimism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three killed over property dispute | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,106 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Pakistani among two injured in Iranian attack on Bahrain  [NORMAL]
-- Poster: بہرین میں ایرانی حملے میں ایک پاکستانی سمیت دو افراد زخمی / Pakistani injured in Bahrain attack | category security
-- Alternative headline: Bahrain reports Pakistani injured in recent Iranian attack
+### Balochistan doctors demand pending salaries  [NORMAL]
+- Poster: بلوچستان کے ڈاکٹروں کا بقایا تنخواہوں کی ادائیگی کا مطالبہ / Balochistan doctors demand pending salaries | category other
+- Alternative headline: Doctors in Balochistan protest over unpaid salaries
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnhiYjlmUHVSN1V1YzduTXR4Qmt1RmZWSUVrVlBsRUpiYTd6T3VXd0Q5MU9CRXR6UkVwS202RlpMSmpMMGZiQkREVXJ3X0pBV1hGcnhEV1dwd3FjU2ZXQ1VKRDdWZU1OWjRQWkt4ZmxtVURuVHJEVWlQdV9ZQ2ZwVVd0YllMS2RPSHliVHQ3dUlBWFZ5MnYzb9IBoAFBVV95cUxNb2U1ellteGtIcS0wbmIxR08zQ0tqMEo0RGlpRWZ2d25rclIwZ1NQalhwMlZnZWFiajhnZkFtenJQemdzZmdfRmRHTjdpZGNBa1BuZVEtM1pyQjlTTUtoaDc2bWxxYllvRTlfV3hPUEp4Ulg5MnFrdmJCVkdrVks0Vzc4Tk1jVHZGTU9YdnRtY2RvaUlCNFR5ODRTR2hLbHFH?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnhiYjlmUHVSN1V1YzduTXR4Qmt1RmZWSUVrVlBsRUpiYTd6T3VXd0Q5MU9CRXR6UkVwS202RlpMSmpMMGZiQkREVXJ3X0pBV1hGcnhEV1dwd3FjU2ZXQ1VKRDdWZU1OWjRQWkt4ZmxtVURuVHJEVWlQdV9ZQ2ZwVVd0YllMS2RPSHliVHQ3dUlBWFZ5MnYzb9IBoAFBVV95cUxNb2U1ellteGtIcS0wbmIxR08zQ0tqMEo0RGlpRWZ2d25rclIwZ1NQalhwMlZnZWFiajhnZkFtenJQemdzZmdfRmRHTjdpZGNBa1BuZVEtM1pyQjlTTUtoaDc2bWxxYllvRTlfV3hPUEp4Ulg5MnFrdmJCVkdrVks0Vzc4Tk1jVHZGTU9YdnRtY2RvaUlCNFR5ODRTR2hLbHFH?oc=5
-- Supporting coverage: The Express Tribune
-- Keywords: Pakistani injured, Bahrain attack, Iranian attack, foreign office, injuries | hashtags: #Bahrain #Pakistan #BreakingNews
-- Scheduled: Mon 23 Nov, 07:57 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMic0FVX3lxTE42ejJqWFFYUkNyZWdWS210WHZCTWVYVDhoRzk5dnNZR1AzZzByeFFDSlBsQ1pfcVZjNUUtVmlpYzI1SEtwRWh6eHJZVzdKc1dYZTJDZ3NJSm5aY3BoeFhMUVZkblcwdW1BWUh6S0t1cGNHbWs?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMic0FVX3lxTE42ejJqWFFYUkNyZWdWS210WHZCTWVYVDhoRzk5dnNZR1AzZzByeFFDSlBsQ1pfcVZjNUUtVmlpYzI1SEtwRWh6eHJZVzdKc1dYZTJDZ3NJSm5aY3BoeFhMUVZkblcwdW1BWUh6S0t1cGNHbWs?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: doctors salaries, Balochistan, pending salaries, protest, medical professionals, healthcare | hashtags: #Balochistan #Doctors #Pakistan #Healthcare #News
+- Scheduled: Mon 23 Nov, 09:03 AM PKT
 - Caption:
 ```
-A Pakistani citizen is among two individuals reported injured following an attack in Bahrain.
+Doctors in Balochistan have raised their voices demanding the release of their long-pending salaries.
 
-A Pakistani national is among two people reported injured following an attack in Bahrain, according to recent media reports. Further details regarding the incident and the condition of the injured individuals are awaited as authorities monitor the situation.
+Doctors across Balochistan have staged demands for the immediate release of their pending salaries, highlighting severe financial distress faced by medical professionals in the province due to administrative delays.
 
-رپورٹس کے مطابق بہرین میں ہونے والے ایک حملے میں زخمی ہونے والے دو افراد میں ایک پاکستانی شہری بھی شامل ہے۔ واقعے اور زخمیوں کی حالت سے متعلق مزید تفصیلات کا انتظار ہے۔
-
-First reported by The Express Tribune
-
-#Bahrain #Pakistan #BreakingNews
-```
-
-### Closing gateway to Central Asia amid regional challenges  [NORMAL]
-- Poster: وسطی ایشیا کا دروازہ بند ہونے کا معاملہ زیر بحث / Closing gateway to Central Asia | category economy
-- Alternative headline: The Express Tribune examines the closure of the Central Asian trade gateway
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMid0FVX3lxTFB2TnpKbWc3N0FveXdzQUV0Q050Zjg5VUZkcDNWTzE3QTgtR2p0QUhqazJhU2JSSy1IcnpuOTVYeS1zRTYzaU1ZM0NsVGtSMTNqSE9BX1lsUWEzWEFEdlg3ZFhPVF9vVHZYN21OYXptSTFlMG0tMWxV0gF_QVVfeXFMUHRQMnRHSEZjNVVwbUl6UjhzZXhpaE53WUhVckVkbmZoSFpBQ0xVcVVkRHl4ZzFKSTM2MTZuZVdoRXhxT1BvSG1lc3IyWURRYnI3b2tlMnMyWXJKT0I3eGxNRjM5NkFTcUhiUmVBVE9LX3JiOWh6WERUbEpGTkVpVQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMid0FVX3lxTFB2TnpKbWc3N0FveXdzQUV0Q050Zjg5VUZkcDNWTzE3QTgtR2p0QUhqazJhU2JSSy1IcnpuOTVYeS1zRTYzaU1ZM0NsVGtSMTNqSE9BX1lsUWEzWEFEdlg3ZFhPVF9vVHZYN21OYXptSTFlMG0tMWxV0gF_QVVfeXFMUHRQMnRHSEZjNVVwbUl6UjhzZXhpaE53WUhVckVkbmZoSFpBQ0xVcVVkRHl4ZzFKSTM2MTZuZVdoRXhxT1BvSG1lc3IyWURRYnI3b2tlMnMyWXJKT0I3eGxNRjM5NkFTcUhiUmVBVE9LX3JiOWh6WERUbEpGTkVpVQ?oc=5
-- Supporting coverage: The Express Tribune, Investify
-- Keywords: Central Asia gateway, trade route, regional connectivity, The Express Tribune | hashtags: #CentralAsia #Trade #Economy
-- Scheduled: Mon 23 Nov, 08:07 AM PKT
-- Caption:
-```
-The Express Tribune explores the implications of closing the vital gateway to Central Asia.
-
-An analysis published by The Express Tribune discusses the implications of closing the gateway to Central Asia, highlighting potential effects on regional connectivity and trade routes.
-
-ایکسپریس ٹریبیون کی ایک رپورٹ میں وسطی ایشیا کے دروازے کی بندش اور اس کے علاقائی تجارت پر پڑنے والے اثرات کا جائزہ لیا گیا ہے۔
-
-First reported by The Express Tribune
-
-#CentralAsia #Trade #Economy
-```
-
-### Global food import bill projected to rise 1.9pc in 2026: FAO  [NORMAL]
-- Poster: سنہ 2026 میں عالمی غذائی درآمدی بل میں 1.9 فیصد اضافے کا تخمینہ / Global food import bill up 1.9pc | category economy
-- Alternative headline: FAO projects global food import bill will be 1.9pc higher
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVDhoeWNxTkthRGVRTHZXVEtuQUFzUTJIcUE3UHVueDNxTE1MUXRpd0hUR3hlM0VsM0ZrVlZvMHNnYy1rV0FUSGJCSGx1UHZVWVA3V29JOEpsaElRRWNoUVlDWDJKRmRXSVBZMjdsX2RxSVo1N2ozQm55QUFEQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE9vVDhoeWNxTkthRGVRTHZXVEtuQUFzUTJIcUE3UHVueDNxTE1MUXRpd0hUR3hlM0VsM0ZrVlZvMHNnYy1rV0FUSGJCSGx1UHZVWVA3V29JOEpsaElRRWNoUVlDWDJKRmRXSVBZMjdsX2RxSVo1N2ozQm55QUFEQQ?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: global food import bill, FAO, food prices, import costs, global economy | hashtags: #FoodSecurity #FAO #GlobalEconomy
-- Scheduled: Mon 23 Nov, 08:17 AM PKT
-- Caption:
-```
-The FAO projects the global food import bill to be 1.9 percent higher than previously estimated.
-
-According to the Food and Agriculture Organization (FAO), the global food import bill is projected to increase by 1.9 percent in 2026 compared to previous estimates, reflecting shifting international market dynamics and commodity prices.
-
-اقوام متحدہ کے ادارے ایف اے او کے مطابق سنہ 2026 میں عالمی غذائی درآمدی بل میں پہلے کے تخمینوں کے مقابلے میں 1.9 فیصد اضافے کا امکان ہے۔
+بلوچستان بھر کے ڈاکٹروں نے اپنی بقایا تنخواہوں کی فوری ادائیگی کا مطالبہ کیا ہے، جس سے صوبے میں طبی پیشہ ور افراد کو درپیش شدید مالی مشکلات اجاگر ہوتی ہیں۔
 
 First reported by Dawn
 
-#FoodSecurity #FAO #GlobalEconomy
+#Balochistan #Doctors #Pakistan #Healthcare #News
 ```
 
-### World economy hinges on Iran peace deal, says Hakan Fidan  [NORMAL]
-- Poster: عالمی معیشت کا انحصار ایران امن معاہدے پر ہے: ہکان فدان / World economy hinges on Iran peace | category economy
-- Alternative headline: Fidan warns global economic stability depends on an Iran peace agreement
+### Missing Panjgur student returns home after two years  [NORMAL]
+- Poster: دو سال بعد لاپتہ طالب علم بازیاب ہو کر گھر پہنچ گیا / Missing student returns home after two years | category other
+- Alternative headline: Student from Balochistan's Panjgur returns home after two years
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXI2SExISl8zLV9GenBMZTFkQUt2Q05kZUpNRUhiczhvRFBobDFMdExBdE8tNGhPdkJfbld6S216M2RyYTBsSzdFUTlUVWwwV0lBWWJqRE9qZmIwVFREdUVmVVN6X3hGdEZyOVY4N2g2cklySEo1Q3R3VHNfWFJtVTRQOHVmUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXI2SExISl8zLV9GenBMZTFkQUt2Q05kZUpNRUhiczhvRFBobDFMdExBdE8tNGhPdkJfbld6S216M2RyYTBsSzdFUTlUVWwwV0lBWWJqRE9qZmIwVFREdUVmVVN6X3hGdEZyOVY4N2g2cklySEo1Q3R3VHNfWFJtVTRQOHVmUQ?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Iran peace deal, Hakan Fidan, world economy, global stability, Turkey | hashtags: #Iran #GlobalEconomy #Geopolitics
-- Scheduled: Mon 23 Nov, 08:27 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkJUVF95WlVXSHRFOU5CVkNYQjE1VGtrZUlfU3RFZ2JrSXg3YmxCUHZqNWFKUFBrOVFydzJkb1BObHVHcHBMU3dKMU1yWjVrU1RuTG03Ynk1MVFNVDIyMmVsNzZ5Tmo1NGJ2NTlVQnpiWHZrUEhVeTJXUGc5NmZ1aUswUFM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkJUVF95WlVXSHRFOU5CVkNYQjE1VGtrZUlfU3RFZ2JrSXg3YmxCUHZqNWFKUFBrOVFydzJkb1BObHVHcHBMU3dKMU1yWjVrU1RuTG03Ynk1MVFNVDIyMmVsNzZ5Tmo1NGJ2NTlVQnpiWHZrUEhVeTJXUGc5NmZ1aUswUFM?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: missing student, Panjgur, Balochistan, returns home, missing persons, student | hashtags: #Panjgur #Balochistan #MissingStudent #Pakistan #News
+- Scheduled: Mon 23 Nov, 09:13 AM PKT
 - Caption:
 ```
-Turkish Foreign Minister Hakan Fidan stresses that global economic stability depends heavily on an Iran peace deal.
+A student from Balochistan's Panjgur has finally returned home after being missing for two years.
 
-Turkish Foreign Minister Hakan Fidan has stated that the future of the world economy is closely tied to achieving a peace deal concerning Iran, highlighting potential impacts on global markets and energy supplies.
+A missing student hailing from Balochistan's Panjgur district has safely returned home after a period of two years, bringing relief to his family after a long ordeal.
 
-ترک وزیر خارجہ ہکان فدان کا کہنا ہے کہ عالمی معیشت کا استحکام ایران سے متعلق امن معاہدے کے ساتھ جڑا ہوا ہے، جس سے عالمی منڈیوں پر اثرات پڑ سکتے ہیں۔
+بلوچستان کے ضلع پنجگور سے تعلق رکھنے والا لاپتہ طالب علم دو سال کی طویل مدت کے بعد بحفاظت گھر واپس پہنچ گیا ہے، جس سے اس کے اہل خانہ کو بڑی راحت ملی ہے۔
 
 First reported by Dawn
 
-#Iran #GlobalEconomy #Geopolitics
+#Panjgur #Balochistan #MissingStudent #Pakistan #News
 ```
 
-- Indian outlets blocked this run: 3 items
+### JI not against new provinces but urges provision of rights  [NORMAL]
+- Poster: جماعت اسلامی نئے صوبوں کیخلاف نہیں، حقوق کی فراہمی پر زور / JI urges provision of rights over new provinces | category politics
+- Alternative headline: Jamaat-e-Islami outlines stance on new provinces in Balochistan
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxORWwxMHhJVnVqaUQ4UkZ1MTJ6Qms0ekhHRXJjdE1JZXhrYXNzQmoydnZyTEZmTF9IR0hiOVJISjlFS3dzZE5PeTAwbVU3SVI1VEJoNmlsVDRyb3RRX2pvNWJOdG1mMTg4LUpHODNBZy1QTU9UVUdNcTRHTFRVOE8xNGVLTENQbFVRUlF3NDg4b1haTlI3am5V?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxORWwxMHhJVnVqaUQ4UkZ1MTJ6Qms0ekhHRXJjdE1JZXhrYXNzQmoydnZyTEZmTF9IR0hiOVJISjlFS3dzZE5PeTAwbVU3SVI1VEJoNmlsVDRyb3RRX2pvNWJOdG1mMTg4LUpHODNBZy1QTU9UVUdNcTRHTFRVOE8xNGVLTENQbFVRUlF3NDg4b1haTlI3am5V?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Jamaat-e-Islami new provinces, JI, Balochistan, provision of rights, political parties, Pakistan politics | hashtags: #JamaatEIslami #Balochistan #PakistaniPolitics #HumanRights #News
+- Scheduled: Mon 23 Nov, 09:23 AM PKT
+- Caption:
+```
+Jamaat-e-Islami has clarified its stance, stating it is not opposed to new provinces while emphasizing the urgent provision of rights.
+
+Jamaat-e-Islami has stated that it is not fundamentally against the creation of new provinces, but has strongly urged that the primary focus should remain on ensuring the constitutional and economic rights of the people, particularly in Balochistan.
+
+جماعت اسلامی نے واضح کیا ہے کہ وہ نئے صوبوں کے قیام کی بنیادی طور پر مخالفت نہیں کرتی، تاہم اس بات پر زور دیا ہے کہ اصل ترجیح عوام بالخصوص بلوچستان کے حقوق کی فراہمی ہونی چاہئے۔
+
+First reported by Dawn
+
+#JamaatEIslami #Balochistan #PakistaniPolitics #HumanRights #News
+```
+
+### Pakistan's offshore oil exploration with Turkiye merits cautious optimism  [NORMAL]
+- Poster: ترکیہ کے ساتھ آف شور تیل تلاش کی کوشش پر محتاط امید / Offshore exploration with Turkiye warrants cautious optimism | category economy
+- Alternative headline: Editorial: Pakistan and Turkiye's offshore exploration requires realistic expectations
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046488/editorial-looking-beyond-the-hype-pakistans-offshore-exploration-effort-with-turkiye-merits-cautious-optimism | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046488/editorial-looking-beyond-the-hype-pakistans-offshore-exploration-effort-with-turkiye-merits-cautious-optimism
+- Supporting coverage: Dawn Latest, Dawn Pakistan
+- Keywords: offshore exploration Turkiye, oil and gas, Turkiye, Pakistan, Kekra-1, energy sector | hashtags: #OilAndGas #Turkiye #PakistanEconomy #EnergyExploration #News
+- Scheduled: Mon 23 Nov, 09:33 AM PKT
+- Caption:
+```
+Pakistan's renewed offshore exploration partnership with Turkiye calls for cautious optimism following past disappointments.
+
+An editorial in Dawn notes that Pakistan's renewed offshore oil and gas exploration effort with Turkiye warrants cautious optimism. Past attempts, including 18 exploratory wells and the 2019 Kekra-1 well, yielded no commercial discoveries, highlighting the need to avoid premature political hype.
+
+ڈان کے اداریے میں کہا گیا ہے کہ ترکیہ کے ساتھ پاکستان کی تیل اور گیس کی تلاش کی نئی کوشش محتاط امید کی متقاضی ہے۔ ماضی کی کوششوں بشمول 18 کنوؤں اور 2019 کے کیکرا ون کنویں سے کوئی کامیابی نہیں ملی تھی، لہذا قبل از وقت سیاسی دعووں سے گریز کرنا چاہئے۔
+
+First reported by Dawn Latest
+
+#OilAndGas #Turkiye #PakistanEconomy #EnergyExploration #News
+```
+
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
 - [needs_review] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
@@ -156,7 +156,6 @@ First reported by Dawn
 - [needs_review] normal | Africa Climate Funding: Europe Urges Using Existing Pledges | Fri 20 Nov, 07:36 AM PKT
 - [needs_review] normal | Indonesian Daycare Principal Jailed Over Child Abuse | Fri 20 Nov, 07:46 AM PKT
 - [needs_review] normal | Meta Rethinks 2030 Climate Goals Amid AI Energy Surge | Fri 20 Nov, 07:56 AM PKT
-- [published] normal | German Importers Turn Toward Pakistan as Businesses Shift Sourcing Awa | Fri 20 Nov, 08:18 AM PKT
 - [needs_review] normal | Balochistan Observes Complete Shutter-Down Strike Over Inflation, Unem | Fri 20 Nov, 08:28 AM PKT
 - [needs_review] normal | Pakistan and Maldives Move to Establish Joint Trade Group to Boost Com | Fri 20 Nov, 08:38 AM PKT
 - [needs_review] normal | Official Security Detail Withdrawn From JUI-F Chief Maulana Fazlur Reh | Fri 20 Nov, 08:48 AM PKT
@@ -371,11 +370,11 @@ First reported by Dawn
 - [needs_review] normal | Houthis claim targeted strike on Saudi Arabia's Rabigh refinery | Mon 23 Nov, 01:41 AM PKT
 - [needs_review] normal | Officials condemn 'horrific' ICE arrests at Seattle airport | Mon 23 Nov, 01:51 AM PKT
 - [published] normal | Liverpool thrash 10-man Man United 4-0 in nightmare start for Pochetti | Mon 23 Nov, 02:01 AM PKT
-- [queued] normal | Washington Governor Slams ICE Raids After Airport Arrests | Mon 23 Nov, 02:24 AM PKT
-- [queued] normal | Democrats Secure Largest House Majority Since 1992 | Mon 23 Nov, 02:34 AM PKT
-- [queued] normal | Cockroaches, Dissent and a Paradigm Shift in India | Mon 23 Nov, 02:44 AM PKT
-- [queued] normal | Massive Fire Destroys Hotels and Shops in Zanzibar | Mon 23 Nov, 02:54 AM PKT
-- [queued] normal | Netanyahu and Eisenkot End Coalition Talks Without a Deal | Mon 23 Nov, 03:16 AM PKT
+- [needs_review] normal | Washington Governor Slams ICE Raids After Airport Arrests | Mon 23 Nov, 02:24 AM PKT
+- [needs_review] normal | Democrats Secure Largest House Majority Since 1992 | Mon 23 Nov, 02:34 AM PKT
+- [needs_review] normal | Cockroaches, Dissent and a Paradigm Shift in India | Mon 23 Nov, 02:44 AM PKT
+- [needs_review] normal | Massive Fire Destroys Hotels and Shops in Zanzibar | Mon 23 Nov, 02:54 AM PKT
+- [published] normal | Netanyahu and Eisenkot End Coalition Talks Without a Deal | Mon 23 Nov, 03:16 AM PKT
 - [queued] normal | Miley Cyrus Marries Maxx Morando in California Ceremony | Mon 23 Nov, 03:26 AM PKT
 - [queued] normal | Second Ship Targeted in Naval Drone Attacks Off Libyan Coast | Mon 23 Nov, 03:36 AM PKT
 - [queued] normal | Heartbreak for Washington Spirit as KC Current Win NWSL Final | Mon 23 Nov, 03:46 AM PKT
@@ -395,12 +394,22 @@ First reported by Dawn
 - [queued] normal | Closing gateway to Central Asia amid regional challenges | Mon 23 Nov, 08:07 AM PKT
 - [queued] normal | Global food import bill projected to rise 1.9pc in 2026: FAO | Mon 23 Nov, 08:17 AM PKT
 - [queued] normal | World economy hinges on Iran peace deal, says Hakan Fidan | Mon 23 Nov, 08:27 AM PKT
+- [queued] normal | Balochistan doctors demand pending salaries | Mon 23 Nov, 09:03 AM PKT
+- [queued] normal | Missing Panjgur student returns home after two years | Mon 23 Nov, 09:13 AM PKT
+- [queued] normal | JI not against new provinces but urges provision of rights | Mon 23 Nov, 09:23 AM PKT
+- [queued] normal | Pakistan's offshore oil exploration with Turkiye merits cautious optim | Mon 23 Nov, 09:33 AM PKT
 
 ## Publishing this run
-- Published 'Liverpool thrash 10-man Man United 4-0 in nightmare start for Pochettino'.
+- Published 'Netanyahu and Eisenkot End Coalition Talks Without a Deal'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5621 | output tokens: 1950
+- Calls: 3 | prompt tokens: 4847 | output tokens: 2194
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
