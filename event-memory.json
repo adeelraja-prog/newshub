@@ -130367,7 +130367,763 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3267e98ac7be6c385eac3e3e",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T14:08:02+00:00",
+      "last_update": "2026-11-23T16:54:22+00:00",
+      "event": "Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "china",
+        "cooperation",
+        "established",
+        "gwadar",
+        "institute",
+        "maritime",
+        "pakistan",
+        "technical",
+        "under"
+      ],
+      "source_excerpt": "Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/maritime-technical-institute-to-be-established-in-gwadar-under-pakistan-china-cooperation",
+          "published_at": "2026-11-23T14:08:02+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNallveWxydFdnVU5fOXVqWEg3a3B2QUlJdGh3WkwxTG4zLWc4UU1KOVBWR3pYVGdWeEtzR1htVl91ZXAzOFZwNXc4MWxwR0xTY1h2UFBDSU1sY3RDclFnYUZmbEJHT3VuZnUtdjJaYkdyT2F1VGhGeVo4R2JNXzFpNDZxOEJaakVId0dBanNzYmc2T1RzVmYwX2xwaHg0NUdVV0luck42elotLWdSOUlxeQ?oc=5",
+          "published_at": "2026-11-23T16:52:23+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlRsaDZmVHdGRFZtSXJGbkJVR2xES3JrZVRBS2hPWmthRE5QV0RxSHI5MkJLWV9qZkMwWUV5YnVHMW0tclV4czdCZFhrNnpDMG45aFhsc1h4cVI1V0NXTjNFanN4WXRPR211LW56QlNRVjBCb3BjdHNfRjlrYzNDX0pNUDJEdXdpelpsXzRvdTlTVS1XX0NoblI4TkRtY2FVcUVLYVpIb0w5Ul8wWUp4bWs4Z09Qdw?oc=5",
+          "published_at": "2026-11-23T16:54:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/maritime-technical-institute-to-be-established-in-gwadar-under-pakistan-china-cooperation",
+        "publisher_url": "https://arynews.tv/maritime-technical-institute-to-be-established-in-gwadar-under-pakistan-china-cooperation",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9d70162acd3e1bc5f125af86",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T14:26:44+00:00",
+      "last_update": "2026-11-23T16:25:11+00:00",
+      "event": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "attacks",
+        "baltic",
+        "campaign",
+        "continued",
+        "dangerous",
+        "fury",
+        "has",
+        "its",
+        "libya",
+        "merchant",
+        "naval",
+        "reacted",
+        "russia",
+        "shipping",
+        "targeting",
+        "trend",
+        "ukraine",
+        "warns",
+        "with"
+      ],
+      "source_excerpt": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
+      "sources": [
+        {
+          "name": "TRT World",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4ZTFGVndaSWdNMlJ6R3BQX0NLQjV3ZklibmxxM2g5QlViN1o1bWpKV1lPTWdOTUtvODhCeXItSDFhMzZHY2FiUVBjZERfcGFTWlV2akdEWFQ?oc=5",
+          "published_at": "2026-11-23T14:26:44+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+          "published_at": "2026-11-23T16:23:33+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2ZoN3BTWDJacEJWa2QzYkMzb2ZOQ0RfNnA3eGpkLXVicHRJN2pwNDNOcWwteV9WN01mSnNncWhGVlBfNjRzbjg0eV93NFVQRlIzNDRIblJsc2Y3ZUk4VVFCUjZZT2xabVZVLXVHQUFIOEx1ZV9YYXBRVzk2TVJUaEd2STJXN2tvSktqRTZGejBLdC1ucUZXRFFFUUpfcm85SENEb1Q4Z182Sm1wc0lNSHl30gG3AUFVX3lxTE1pZ3ZEelQtbEthcl94WWp4dE42Z3c4QjNCczNlX3BLZDF3V1ZOMlgxeERPWE9zM3AyRmdsVXVmRXQ3ZGFsRXJmTTN6eUJNWWh0ZG1jWGNON04yek04NWNWQV9oMWd3elFzODVwVkhXNHE3TmNleU5RWElXZW8tNDluamQyZGtWcDJDSmFQejNHNnJDTUVobzV5aHdzZ2Z4UmF2RTJfTmFGSTI4UEhGYjQ0SDhfZVo4MA?oc=5",
+          "published_at": "2026-11-23T16:25:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "36bd303df985a717e0867fb3",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T11:00:00+00:00",
+      "last_update": "2026-11-23T16:30:00+00:00",
+      "event": "Two States sue SpaceX over Grok-generated deepfakes and alleged safety failures",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "and",
+        "deepfakes",
+        "failures",
+        "generated",
+        "grok",
+        "international",
+        "news",
+        "over",
+        "safety",
+        "spacex",
+        "states",
+        "sue",
+        "the",
+        "two"
+      ],
+      "source_excerpt": "Two States sue SpaceX over Grok-generated deepfakes and alleged safety failures The News International",
+      "sources": [
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+          "published_at": "2026-11-23T11:00:00+00:00"
+        },
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/",
+          "published_at": "2026-11-23T15:57:49+00:00"
+        },
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGtlUXl2QXA3OWVJZXVPeXhPd1pET3hWcHNQMkNJdFhWMEZrMFFNTTlOOGV0eHZPckQ5OWxIaTJuT3VQMlJ1ZzRGeDlxcjZZOTlkUk1GczNOdEs4eTVCdHdBbDY3aVdneFBoS09YNmxqMTdLRVpfYmloMWFxeXlrblg1WUZtb1k5Y3ZHSmE0OVlSQk9CUEM0RWM3M2ZxZ3QyS2ZpRGk0alh5Q19Fa2pRMEJ2UzA1Y01hOXfSAboBQVVfeXFMTVhrZVF5dkFwNzllSWV1T3l4T3daRE94VnBzUDJDSXRYVjBGazBRTU05TjhldHh2T3JEOTlsSGkybk91UDJSdWc0Rng5cXI2WTk5ZFJNRnMzTnRLOHk1QnR3QWw2N2lXZ3hQaEtPWDZsajE3S0VaX2JpaDFhcXl5a25YNVlGbW9ZOWN2R0phNDlZUkJPQlBDNEVjNzNmcWd0MktmaURpNGpYeUNfRWtqUTBCdlMwNWNNYTl3?oc=5",
+          "published_at": "2026-11-23T16:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGtlUXl2QXA3OWVJZXVPeXhPd1pET3hWcHNQMkNJdFhWMEZrMFFNTTlOOGV0eHZPckQ5OWxIaTJuT3VQMlJ1ZzRGeDlxcjZZOTlkUk1GczNOdEs4eTVCdHdBbDY3aVdneFBoS09YNmxqMTdLRVpfYmloMWFxeXlrblg1WUZtb1k5Y3ZHSmE0OVlSQk9CUEM0RWM3M2ZxZ3QyS2ZpRGk0alh5Q19Fa2pRMEJ2UzA1Y01hOXfSAboBQVVfeXFMTVhrZVF5dkFwNzllSWV1T3l4T3daRE94VnBzUDJDSXRYVjBGazBRTU05TjhldHh2T3JEOTlsSGkybk91UDJSdWc0Rng5cXI2WTk5ZFJNRnMzTnRLOHk1QnR3QWw2N2lXZ3hQaEtPWDZsajE3S0VaX2JpaDFhcXl5a25YNVlGbW9ZOWN2R0phNDlZUkJPQlBDNEVjNzNmcWd0MktmaURpNGpYeUNfRWtqUTBCdlMwNWNNYTl3?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2086ce7b86840131d7e97980",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T13:41:03+00:00",
+      "last_update": "2026-11-23T16:12:46+00:00",
+      "event": "Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during talks in Islamabad",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affairs",
+        "and",
+        "arrived",
+        "between",
+        "capital",
+        "countries",
+        "delegation",
+        "during",
+        "european",
+        "for",
+        "foreign",
+        "full",
+        "gsp",
+        "has",
+        "held",
+        "islamabad",
+        "level",
+        "minister",
+        "monday",
+        "pakistan",
+        "paulo",
+        "portugal",
+        "portuguese",
+        "rangel",
+        "said",
+        "says",
+        "state",
+        "status",
+        "sunday",
+        "support",
+        "talks",
+        "the",
+        "two",
+        "union",
+        "visiting"
+      ],
+      "source_excerpt": "Pakistan has Portugal’s “full support” for the European Union’s (EU) GSP+ status, Portuguese Minister of State and Foreign Affairs Paulo Rangel said on Monday during delegation-level talks between the two countries held in Islamabad. The Portuguese minister arrived in the capital on Sunday on a two-",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-talks-in-islamabad",
+          "published_at": "2026-11-23T13:41:03+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93VmRlMjB2cWtGb09Sbm1BZ3p6OG1ud044ZndqWW1oN0dXa09VSHV5MVV2V3NGMUN3RWJfNGtOLUg5c1lDVGgtSw?oc=5",
+          "published_at": "2026-11-23T13:41:03+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGtfVGZiQ2Z3M3NURS1pZmxRanlJR3RVTjNSV2NWQmVlMGNLUG5pZ1RGWEVmT3hyYnpBUWdTTzNxSXdrV0NxY2pkUF9mNzFaQW8zTTZEQnNBVVJtX0JtVlF5X3haSzNJSG5nMU5jcmVlZ3VYYmJSNnVPOFliZkZlQWQ0Y2U5TDREYWxpMDN6RHBIdlNfY3JDZlFMXzFEQVdZ?oc=5",
+          "published_at": "2026-11-23T16:12:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-talks-in-islamabad",
+        "publisher_url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-talks-in-islamabad",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "050f0a2802d9da5d0e1a79f1",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T16:25:00+00:00",
+      "last_update": "2026-11-23T17:11:40+00:00",
+      "event": "AB de Villiers makes new claim about Australian ball-tampering",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2018",
+        "about",
+        "africa",
+        "african",
+        "against",
+        "alleged",
+        "australia",
+        "australian",
+        "ball",
+        "batsman",
+        "celebrates",
+        "century",
+        "claim",
+        "elizabeth",
+        "engaged",
+        "first",
+        "former",
+        "from",
+        "has",
+        "his",
+        "makes",
+        "march",
+        "new",
+        "port",
+        "reuters",
+        "second",
+        "south",
+        "tampering",
+        "test",
+        "the",
+        "villiers"
+      ],
+      "source_excerpt": "South Africa's AB de Villiers celebrates his century in the South Africa in the second Test against Australia at Port Elizabeth, South Africa, March 11, 2018. — Reuters Former South African batsman AB de Villiers has alleged Australia engaged in ball-tampering from the first...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692332-ab-de-villiers-makes-new-claim-about-australian-ball-tampering",
+          "published_at": "2026-11-23T16:25:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV09PcHFhWEhON2VJS2xsVUl1UnRXaV9TTjgxaVRXX2U1Wmxyc0JXYVlFSldxbzh1MFpwLXhlTzNORGlfZEF2V25GaG9xNDNVM1pRTU5ZVWloODZpVjFBaThZalZLZzJ4TF8xSG93c21CVjM0WGM1Sy13dlVnaDZRT1FWNWxqWV95dFo2TllzTTNFMUFZWDBZclk2aw?oc=5",
+          "published_at": "2026-11-23T16:25:00+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcjMyRTZPX3hYV2dyTlFVOTNYaU1lYXJFMlB6UXNPV3dwQWNRYWV3N2FsRWFhbTdBQTlkT09VY1JHaTY4TGh3RFI0VEZ3TGxYMFdqTnlydERGWVFTT3lVS1pBQXFmNkxnbi01b0xKSGR2bzVnMW4wOGlDRU4xeUFuenJWVWhnVE14VUhsQks3X3JXSGl0Mlg4cnVBdVU?oc=5",
+          "published_at": "2026-11-23T16:55:40+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046572/ab-de-villiers-makes-new-claim-about-australian-sandpapergate-ball-tampering-scandal",
+          "published_at": "2026-11-23T17:11:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692332-ab-de-villiers-makes-new-claim-about-australian-ball-tampering",
+        "publisher_url": "https://www.geo.tv/latest/692332-ab-de-villiers-makes-new-claim-about-australian-ball-tampering",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "38e5e598e5a813d506a005e7",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T12:50:48+00:00",
+      "last_update": "2026-11-23T17:05:03+00:00",
+      "event": "PSX: Stock close higher as KSE-100 index gains 91 Points",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "close",
+        "gains",
+        "higher",
+        "index",
+        "kse",
+        "points",
+        "psx",
+        "stock"
+      ],
+      "source_excerpt": "PSX: Stock close higher as KSE-100 index gains 91 Points",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/psx-stock-close-higher-as-kse-100-index-gains-91-points",
+          "published_at": "2026-11-23T12:50:48+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/psx-gains-91-points-as-kse-100-ends-nearly-flat-at-177474/",
+          "published_at": "2026-11-23T17:05:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/psx-stock-close-higher-as-kse-100-index-gains-91-points",
+        "publisher_url": "https://arynews.tv/psx-stock-close-higher-as-kse-100-index-gains-91-points",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c077b34b7572ee789a30079d",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T16:34:13+00:00",
+      "last_update": "2026-11-23T17:05:53+00:00",
+      "event": "Karachi Kings sign England leg-spin great Adil Rashid as direct signing for HBL PSL 12",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adil",
+        "direct",
+        "england",
+        "for",
+        "great",
+        "hbl",
+        "karachi",
+        "kings",
+        "leg",
+        "psl",
+        "rashid",
+        "sign",
+        "signing",
+        "spin"
+      ],
+      "source_excerpt": "Karachi Kings sign England leg-spin great Adil Rashid as direct signing for HBL PSL 12",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/23/karachi-kings-sign-world-cup-winning-england-spinner-for-psl-12/",
+          "published_at": "2026-11-23T16:34:13+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-kings-sign-england-leg-spin-great-adil-rashid-as-direct-signing-for-hbl-psl-12",
+          "published_at": "2026-11-23T17:05:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-kings-sign-england-leg-spin-great-adil-rashid-as-direct-signing-for-hbl-psl-12",
+        "publisher_url": "https://arynews.tv/karachi-kings-sign-england-leg-spin-great-adil-rashid-as-direct-signing-for-hbl-psl-12",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a23b731efaef53f3b15f3e05",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T16:36:22+00:00",
+      "last_update": "2026-11-23T16:36:22+00:00",
+      "event": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "across",
+        "attacks",
+        "ceasefire",
+        "continues",
+        "deal",
+        "despite",
+        "enclave",
+        "gaza",
+        "including",
+        "israel",
+        "israeli",
+        "kill",
+        "launch",
+        "least",
+        "october",
+        "strikes",
+        "the",
+        "three",
+        "unrwa",
+        "worker"
+      ],
+      "source_excerpt": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
+          "published_at": "2026-11-23T16:36:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e0674aee0ef3b8a67c6fbdeb",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T16:35:28+00:00",
+      "last_update": "2026-11-23T16:35:28+00:00",
+      "event": "Gaza mourns UNRWA worker killed in Israeli strike",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adel",
+        "airstrike",
+        "duty",
+        "employee",
+        "gaza",
+        "helou",
+        "israeli",
+        "killed",
+        "monday",
+        "mourned",
+        "mourns",
+        "palestinians",
+        "strike",
+        "unrwa",
+        "was",
+        "while",
+        "who",
+        "worker"
+      ],
+      "source_excerpt": "Palestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while on duty",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
+          "published_at": "2026-11-23T16:35:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "01afa4474af2980af6871a3c",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T17:24:25+00:00",
+      "last_update": "2026-11-23T17:24:25+00:00",
+      "event": "What failure of COP31 reveals about a divided world",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "and",
+        "boycott",
+        "climate",
+        "cop31",
+        "countries",
+        "dispute",
+        "divided",
+        "failure",
+        "finance",
+        "have",
+        "interests",
+        "may",
+        "oil",
+        "over",
+        "producing",
+        "reveals",
+        "talks",
+        "torpedoed",
+        "what",
+        "world"
+      ],
+      "source_excerpt": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T17:24:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "76c06ab5f117129cd2df4c23",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T17:11:58+00:00",
+      "last_update": "2026-11-23T17:11:58+00:00",
+      "event": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "big",
+        "centre",
+        "company",
+        "crucial",
+        "faisal",
+        "fire",
+        "his",
+        "huang",
+        "islam",
+        "jensen",
+        "journey",
+        "lynchpin",
+        "proved",
+        "role",
+        "the",
+        "too",
+        "why"
+      ],
+      "source_excerpt": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T17:11:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ae25dc221717ddf0b5c7dfbe",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T17:12:13+00:00",
+      "last_update": "2026-11-23T17:12:13+00:00",
+      "event": "Trio jailed for abusing vulnerable girl in Bradford in 2000s",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2000s",
+        "abusing",
+        "bbc",
+        "bradford",
+        "for",
+        "girl",
+        "jailed",
+        "trio",
+        "vulnerable"
+      ],
+      "source_excerpt": "Trio jailed for abusing vulnerable girl in Bradford in 2000s BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmVDM2VEbWs3VTVkNU1GYXlIUDRiZ29adUNVUmd6Y0gweUM2alVJSEZKR09Sc1pQYmRXQmxhWHQ3MmZsWm5DWVZ5RlBFWXNudldnV2liTGl2R0dQcHpfa3pLakYzQ2syOVlJN0FFSjVDT1Q4U1pqajZrTDVHMjBld1J1Ym50RGhlR3pfeTktMVRqSW9wQUw5RzZnZG9ybDJhZFI5Z3pJMTlkQThReVNXQkVVLVRrSUpXRU92OFF1ZV91VUNmN0djcnBDb0RuLVhCU3VpMGVhbVdpUHBYOHNEWktDaw?oc=5",
+          "published_at": "2026-11-23T17:12:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmVDM2VEbWs3VTVkNU1GYXlIUDRiZ29adUNVUmd6Y0gweUM2alVJSEZKR09Sc1pQYmRXQmxhWHQ3MmZsWm5DWVZ5RlBFWXNudldnV2liTGl2R0dQcHpfa3pLakYzQ2syOVlJN0FFSjVDT1Q4U1pqajZrTDVHMjBld1J1Ym50RGhlR3pfeTktMVRqSW9wQUw5RzZnZG9ybDJhZFI5Z3pJMTlkQThReVNXQkVVLVRrSUpXRU92OFF1ZV91VUNmN0djcnBDb0RuLVhCU3VpMGVhbVdpUHBYOHNEWktDaw?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b6f2bb1d03e40215d995a463",
+      "remembered_at": "2026-11-23T17:30:58.373832+00:00",
+      "event_date": "2026-11-23T16:15:34+00:00",
+      "last_update": "2026-11-23T16:15:34+00:00",
+      "event": "PM Shehbaz vows no cap on homes for poor, sets Rs1,000bn disbursement target under Apna Ghar scheme",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "000bn",
+        "apna",
+        "billion",
+        "build",
+        "cap",
+        "construct",
+        "declared",
+        "disbursement",
+        "disbursements",
+        "for",
+        "ghar",
+        "government",
+        "homes",
+        "limit",
+        "millions",
+        "minister",
+        "monday",
+        "months",
+        "needed",
+        "next",
+        "number",
+        "over",
+        "poor",
+        "prime",
+        "programme",
+        "rs1",
+        "scheme",
+        "set",
+        "sets",
+        "sharif",
+        "shehbaz",
+        "six",
+        "target",
+        "that",
+        "the",
+        "there",
+        "under",
+        "vowing",
+        "vows",
+        "was",
+        "would"
+      ],
+      "source_excerpt": "Prime Minister Shehbaz Sharif on Monday set a target of Rs1,000 billion in disbursements under the Prime Minister Apna Ghar Programme over the next six months. He declared that there was no limit on the number of homes the government would build for the poor, vowing to construct millions if needed.",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046567/pm-shehbaz-vows-no-cap-on-homes-for-poor-sets-rs1000bn-disbursement-target-under-apna-ghar-scheme",
+          "published_at": "2026-11-23T16:15:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046567/pm-shehbaz-vows-no-cap-on-homes-for-poor-sets-rs1000bn-disbursement-target-under-apna-ghar-scheme",
+        "publisher_url": "https://www.dawn.com/news/2046567/pm-shehbaz-vows-no-cap-on-homes-for-poor-sets-rs1000bn-disbursement-target-under-apna-ghar-scheme",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T16:30:21.111652+00:00"
+  "updated_at": "2026-11-23T17:30:58.373832+00:00"
 }

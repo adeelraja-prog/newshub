@@ -1,10 +1,10 @@
-# News Hub report - Mon 23 Nov, 09:30 PM PKT
+# News Hub report - Mon 23 Nov, 10:30 PM PKT
 
 ## Collection
-- New items this run: 80 | items in rolling pool: 929
-- Unique story clusters: 733 (duplicates merged: 196)
-- Clusters dropped as already published/queued: 15; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 33, Geo News 7, TechJuice 4, Al Jazeera 3, The Guardian 3, Engadget 3, Bloomberg.com 2, The Verge 2, TechCrunch 2, BBC Technology 2, Dawn 1, Dawn Pakistan 1
+- New items this run: 77 | items in rolling pool: 929
+- Unique story clusters: 740 (duplicates merged: 189)
+- Clusters dropped as already published/queued: 17; unchanged since last analysis: 2
+- Items per outlet: Geo News 8, ARY News 6, UrduPoint 6, Al Jazeera 5, ProPakistani 5, Pakistan Today 5, TechCrunch 4, Investify 4, Dawn 3, The Express Tribune 3, Engadget 3, Profit by Pakistan Today 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -14,39 +14,38 @@
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during delegation-level talks in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during delegation-level talks in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing' for US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran says it will use ‘all available means’ to counter US blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PSL opening ceremony, first match to be held in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during delegation-level talks in Islamabad | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Portugal agree to establish joint trade, investment commission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Maritime Technical Institute to be established in Gwadar under Pakistan-China cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 2 | failed: 2 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Pakistan Provincial Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: World Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 7
+- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 6
 
 ## Queue status
-- [needs_review] normal | Pakistan’s Resources Worth Up to $10 Trillion, Says Muhammad Aurangzeb | Fri 20 Nov, 03:20 PM PKT
-- [needs_review] normal | El Salvador’s President Bukele Seeks Third Term After Constitutional C | Fri 20 Nov, 03:30 PM PKT
-- [needs_review] normal | Eight Killed as Russian Missiles Strike Three Kyiv Bridges | Fri 20 Nov, 03:40 PM PKT
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] normal | Gold Prices in Pakistan Plunge by Rs15,400 Per Tola | Fri 20 Nov, 05:58 PM PKT
@@ -276,7 +275,7 @@
 - [queued] promo | [YouTube] IMRAN KHAN’S HEALTH, MARYAM NAWAZ’S PLANE & PTI POWER POLITI | Mon 23 Nov, 03:50 PM PKT
 - [queued] promo | [YouTube] SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO! | Mon 23 Nov, 04:43 PM PKT
 - [published] normal | Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity | Mon 23 Nov, 04:43 PM PKT
-- [queued] normal | Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port | Mon 23 Nov, 04:53 PM PKT
+- [published] normal | Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port | Mon 23 Nov, 04:53 PM PKT
 - [queued] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
 - [queued] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
 - [queued] normal | K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadi | Mon 23 Nov, 05:51 PM PKT
@@ -285,7 +284,7 @@
 - [queued] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
 
 ## Publishing this run
-- Published 'Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity'.
+- Published 'Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
