@@ -121885,7 +121885,553 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "30b25fa361efb9a3a56ab407",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-22T18:11:30+00:00",
+      "last_update": "2026-11-22T23:01:07+00:00",
+      "event": "Suspected drone attack causes explosion on Russian ship in Libya",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "base",
+        "been",
+        "benghazi",
+        "causes",
+        "docked",
+        "drone",
+        "explosion",
+        "has",
+        "libya",
+        "naval",
+        "russian",
+        "ship",
+        "struck",
+        "suspected",
+        "while"
+      ],
+      "source_excerpt": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+          "published_at": "2026-11-22T18:11:30+00:00"
+        },
+        {
+          "name": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2gxbWw2eldOeW5XRVpzV3B5blB1SnlCWHpZTDdIbjZFanFVcnpVbTJRVTk1VG9paUJIeFNmY3J5MTR1VjJMVjNsc2RoRG9xR2cxb2FqWVVJMkExUG45WXJIbWJyYzJPaDlqQzhkT0hGU3FiSk5VcTUzbHRPTmc2aVBHOGs3LVJ2ZjkzU0VObHdnMEpVV3NkeTd1S2FrMjRZaHF4U25WRm9zcDMtVDZoMHFKME1oLTY3WllMeFpwbGE?oc=5",
+          "published_at": "2026-11-22T19:41:23+00:00"
+        },
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDFnMHloOVE4ZWZwczNVdjdjb3JUU1dPZ2I3M3NWM00xWWVYdVhSMTIzY2FfR3pCMWRKQUIxM05kZnNHbnY1dWZhMkJhWjc2cG1YdTEzc3BHTTlra1FfVXNiek1NSWZBTW10TjluTUZiM0tNOWt6YmY4SGQ3VzF1TkxndjJVMVU2Rl9YQ1lEVnFhZjlYMHViN3FDNFlOU1hXeTJpRdIBqgFBVV95cUxPY0dfLUtaOXhsVG9ycUszbmxCVk83OWpBLTlhV252STNPX1AwQVpCc2ZtV1d2dEtIaHRsUVBlald1dW0xWlItWWJNTVM2Z2hDaER3djVGUW1RV2VZOEpwb3A5UF90RWFGQV8xLWxJbHZXYnllUmk2Q3IwdTZhdVJZQTd0VmxwRUtlbHFlV25uS3drNF9oaVVPbFpZTlVUeEwxZVdtQXl0OVl2dw?oc=5",
+          "published_at": "2026-11-22T20:14:05+00:00"
+        },
+        {
+          "name": "Radio Free Europe/Radio Liberty",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQVRjMl9RY2w1QlpqbFdkV3Z2VGpDTENnSGNremdYeGlSOTdGOWFNN3c0ZHlJMmZGYndXV2hXR0tQTkcwcnlNSV92U0I0U3BOOXlrMDU2WXI1VTJZWU9ZZWNWVFh4VmRVaDViYnRsOVYwOU1BLWIyZElQblBHbi1NUXRtWDk5SEJQd1puOdIBjwFBVV95cUxQMHVheUJvbGxtT2NhcFotZjdxMUdfdzN4OERlUVJfNWQ2amFWaWZMeGREYngyQW5lbW9ZSm5CVWx6am5wTnlXdjg2Njg3SGpyaU9FbV91bTJVakVLQjNoVy1SWEVDTlZYNlhRV1NnNlBOSGNHVFZRU0RndDVBcG5EM2NzXzNCNFdKcXBFa00yQQ?oc=5",
+          "published_at": "2026-11-22T23:01:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e6caae1e25b94d3de121c263",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:39:51+00:00",
+      "last_update": "2026-11-23T00:39:51+00:00",
+      "event": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "calls",
+        "chief",
+        "congo",
+        "disrupts",
+        "drc",
+        "ebola",
+        "efforts",
+        "fighting",
+        "for",
+        "grave",
+        "heavy",
+        "hit",
+        "hospital",
+        "near",
+        "patients",
+        "peace",
+        "putting",
+        "region",
+        "risk",
+        "warns",
+        "who",
+        "workers"
+      ],
+      "source_excerpt": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+          "published_at": "2026-11-23T00:39:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9346fe57c50081df1d28128e",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:49:22+00:00",
+      "last_update": "2026-11-23T00:49:22+00:00",
+      "event": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "breast",
+        "can",
+        "cancer",
+        "could",
+        "earlier",
+        "ease",
+        "find",
+        "largest",
+        "launches",
+        "nhs",
+        "out",
+        "pressure",
+        "researchers",
+        "screening",
+        "spot",
+        "technology",
+        "test",
+        "the",
+        "trial",
+        "which",
+        "will",
+        "world"
+      ],
+      "source_excerpt": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T00:49:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "285d08664df94c58d3bf21b8",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:54:21+00:00",
+      "last_update": "2026-11-23T00:54:21+00:00",
+      "event": "Sindh’s ‘tax-elusive’ sectors",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "elusive",
+        "sectors",
+        "sindh",
+        "tax"
+      ],
+      "source_excerpt": "Sindh’s ‘tax-elusive’ sectors Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rRmtOMDk4blR0cl9zRk5kTGVPQ3ZWOFRFakpTcV9GOXB3YnFmVmE3dmJ5MGlsNXdSRFFaNWtpSEdlUXJNaV81bDdRN3JiVzVMa0lYdnQ0UHJhRll5ZU1xVEVSazdFY05WVjRKaw?oc=5",
+          "published_at": "2026-11-23T00:54:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rRmtOMDk4blR0cl9zRk5kTGVPQ3ZWOFRFakpTcV9GOXB3YnFmVmE3dmJ5MGlsNXdSRFFaNWtpSEdlUXJNaV81bDdRN3JiVzVMa0lYdnQ0UHJhRll5ZU1xVEVSazdFY05WVjRKaw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d092a66ea251d08ca60b79a4",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:54:21+00:00",
+      "last_update": "2026-11-23T00:54:21+00:00",
+      "event": "Why foreign investment continues to elude Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "continues",
+        "dawn",
+        "elude",
+        "foreign",
+        "investment",
+        "pakistan",
+        "why"
+      ],
+      "source_excerpt": "Why foreign investment continues to elude Pakistan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFZTWXltZjRfdXBNWnM3X3J3MUctQzMwSDZ4Q1htWGNRaTF4RVVQWUlfb1J0LWFkWXlhblRucU5VTHNjTWxxRUY2RzRaNzUtb3JCVmcwT0RNS2Z3Zm82b3Nab2luVUpDdkpxMGgzMG1Vb1NpSzZKcTZGVzJJSm41WGRqT0U1RUhpUWVocA?oc=5",
+          "published_at": "2026-11-23T00:54:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFZTWXltZjRfdXBNWnM3X3J3MUctQzMwSDZ4Q1htWGNRaTF4RVVQWUlfb1J0LWFkWXlhblRucU5VTHNjTWxxRUY2RzRaNzUtb3JCVmcwT0RNS2Z3Zm82b3Nab2luVUpDdkpxMGgzMG1Vb1NpSzZKcTZGVzJJSm41WGRqT0U1RUhpUWVocA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d1a32ec2becfdafb809c0f74",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:50:00+00:00",
+      "last_update": "2026-11-23T00:50:00+00:00",
+      "event": "Punjab teacher interns denied salaries",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "denied",
+        "express",
+        "interns",
+        "punjab",
+        "salaries",
+        "teacher",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Punjab teacher interns denied salaries The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVBhYmpraUVnSXJmUnJRMHJIT3h6ZjhmTDZ5YXlPSGxkQTNEVzl5UmhrRS00ZDlNRXVxdUNQYUhrOGZISzM3cDZ2ZklEWmI2R1FBT2RFbE1xSUxFS000T0tyMEl6S0w1dFhKb01sYzZQT0NPMk9pdHJxeENjcnBOYtIBiAFBVV95cUxNdkhQX21wZ2xvZkhVYWZwTmtadGlGeFRMSk85N3dieDMtbk9vcVo1YUxJWThLWk1UY0lwc2pqbHEtWi0zNERWVk1Xd3M2eTcwRDhIOW9TcFktc3hLRGRvRFBwR2FkZS13aktJMnkwTC1pamw3cVNBVjRjNnJudVJpcS1lSko4X1pB?oc=5",
+          "published_at": "2026-11-23T00:50:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVBhYmpraUVnSXJmUnJRMHJIT3h6ZjhmTDZ5YXlPSGxkQTNEVzl5UmhrRS00ZDlNRXVxdUNQYUhrOGZISzM3cDZ2ZklEWmI2R1FBT2RFbE1xSUxFS000T0tyMEl6S0w1dFhKb01sYzZQT0NPMk9pdHJxeENjcnBOYtIBiAFBVV95cUxNdkhQX21wZ2xvZkhVYWZwTmtadGlGeFRMSk85N3dieDMtbk9vcVo1YUxJWThLWk1UY0lwc2pqbHEtWi0zNERWVk1Xd3M2eTcwRDhIOW9TcFktc3hLRGRvRFBwR2FkZS13aktJMnkwTC1pamw3cVNBVjRjNnJudVJpcS1lSko4X1pB?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4cfbed3086a24d2497b89db6",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:31:46+00:00",
+      "last_update": "2026-11-23T00:31:46+00:00",
+      "event": "Pakistani among two injured in Iranian attack on Bahrain",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "attack",
+        "bahrain",
+        "express",
+        "injured",
+        "iranian",
+        "pakistani",
+        "the",
+        "tribune",
+        "two"
+      ],
+      "source_excerpt": "Pakistani among two injured in Iranian attack on Bahrain The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnhiYjlmUHVSN1V1YzduTXR4Qmt1RmZWSUVrVlBsRUpiYTd6T3VXd0Q5MU9CRXR6UkVwS202RlpMSmpMMGZiQkREVXJ3X0pBV1hGcnhEV1dwd3FjU2ZXQ1VKRDdWZU1OWjRQWkt4ZmxtVURuVHJEVWlQdV9ZQ2ZwVVd0YllMS2RPSHliVHQ3dUlBWFZ5MnYzb9IBoAFBVV95cUxNb2U1ellteGtIcS0wbmIxR08zQ0tqMEo0RGlpRWZ2d25rclIwZ1NQalhwMlZnZWFiajhnZkFtenJQemdzZmdfRmRHTjdpZGNBa1BuZVEtM1pyQjlTTUtoaDc2bWxxYllvRTlfV3hPUEp4Ulg5MnFrdmJCVkdrVks0Vzc4Tk1jVHZGTU9YdnRtY2RvaUlCNFR5ODRTR2hLbHFH?oc=5",
+          "published_at": "2026-11-23T00:31:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnhiYjlmUHVSN1V1YzduTXR4Qmt1RmZWSUVrVlBsRUpiYTd6T3VXd0Q5MU9CRXR6UkVwS202RlpMSmpMMGZiQkREVXJ3X0pBV1hGcnhEV1dwd3FjU2ZXQ1VKRDdWZU1OWjRQWkt4ZmxtVURuVHJEVWlQdV9ZQ2ZwVVd0YllMS2RPSHliVHQ3dUlBWFZ5MnYzb9IBoAFBVV95cUxNb2U1ellteGtIcS0wbmIxR08zQ0tqMEo0RGlpRWZ2d25rclIwZ1NQalhwMlZnZWFiajhnZkFtenJQemdzZmdfRmRHTjdpZGNBa1BuZVEtM1pyQjlTTUtoaDc2bWxxYllvRTlfV3hPUEp4Ulg5MnFrdmJCVkdrVks0Vzc4Tk1jVHZGTU9YdnRtY2RvaUlCNFR5ODRTR2hLbHFH?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0dfca17b9b0568207b841b32",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:16:35+00:00",
+      "last_update": "2026-11-23T00:16:35+00:00",
+      "event": "From The Past Pages Of Dawn: 1976: Fifty Years Ago: End white rule",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1976",
+        "ago",
+        "dawn",
+        "end",
+        "fifty",
+        "from",
+        "pages",
+        "past",
+        "rule",
+        "the",
+        "white",
+        "years"
+      ],
+      "source_excerpt": "From The Past Pages Of Dawn: 1976: Fifty Years Ago: End white rule Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGJyVlE4RTlkYzV4d3M4czRZcS1fcFZvVnVsRjk4VGpoSkltck5seGljLXkwSmExelR0SlI3VVVIaDVXNXIyRDNUQno3N0d1N2ZLV18xR2xvNmRBaXZvcFEwZzVyMHB4ZDVhU1BmeXNGclJvUmJFT1VXTkI2U0pnWkZpcEtjakZtS0pmMFItWHk1UHpnR2NYc2dnU052dw?oc=5",
+          "published_at": "2026-11-23T00:16:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGJyVlE4RTlkYzV4d3M4czRZcS1fcFZvVnVsRjk4VGpoSkltck5seGljLXkwSmExelR0SlI3VVVIaDVXNXIyRDNUQno3N0d1N2ZLV18xR2xvNmRBaXZvcFEwZzVyMHB4ZDVhU1BmeXNGclJvUmJFT1VXTkI2U0pnWkZpcEtjakZtS0pmMFItWHk1UHpnR2NYc2dnU052dw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fddc61687421c8562d6bbbe1",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:06:42+00:00",
+      "last_update": "2026-11-23T00:06:42+00:00",
+      "event": "Aghoosh sports gala begins in Lower Dir",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aghoosh",
+        "begins",
+        "dawn",
+        "dir",
+        "gala",
+        "lower",
+        "sports"
+      ],
+      "source_excerpt": "Aghoosh sports gala begins in Lower Dir Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16eWlSTTVRUXExVjNkODR1Vk5FZ0F3SFNDWlZZakVfVUQzbXBiS3I4NWtzLWNEVU1mNDJmNGNkYUZCdW91Sm5GT3hBLTZZSmhOQmphcjRzcE5OcUR5TnVHMFZnbVE4THJ4WGZFQlFGRjhLa0tsM3JPU2xtZURwZw?oc=5",
+          "published_at": "2026-11-23T00:06:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16eWlSTTVRUXExVjNkODR1Vk5FZ0F3SFNDWlZZakVfVUQzbXBiS3I4NWtzLWNEVU1mNDJmNGNkYUZCdW91Sm5GT3hBLTZZSmhOQmphcjRzcE5OcUR5TnVHMFZnbVE4THJ4WGZFQlFGRjhLa0tsM3JPU2xtZURwZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3d28faf3fdb0b3aefc29f80e",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:06:42+00:00",
+      "last_update": "2026-11-23T00:06:42+00:00",
+      "event": "Bajaur school lacks basic amenities",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amenities",
+        "bajaur",
+        "basic",
+        "dawn",
+        "lacks",
+        "school"
+      ],
+      "source_excerpt": "Bajaur school lacks basic amenities Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XYmRlNlVmUlBKb0w4dG9TUlkxaVJGa05PR0V5alV2UmtZZFQ4RUQzdkVJVTYwWXdyY2pVQ1UyZWhuVmFLeUw1LVZvMGpoNjdHV21VMGt3RlNFbmtoanlKVjQyaFFqQWhxRlFyMTBWMzFxbW83MUh2WQ?oc=5",
+          "published_at": "2026-11-23T00:06:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XYmRlNlVmUlBKb0w4dG9TUlkxaVJGa05PR0V5alV2UmtZZFQ4RUQzdkVJVTYwWXdyY2pVQ1UyZWhuVmFLeUw1LVZvMGpoNjdHV21VMGt3RlNFbmtoanlKVjQyaFFqQWhxRlFyMTBWMzFxbW83MUh2WQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4f87840e6c50ca681a54a1c3",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:04:28+00:00",
+      "last_update": "2026-11-23T00:04:28+00:00",
+      "event": "‘Early diagnosis can save countless lives from breast cancer’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "breast",
+        "can",
+        "cancer",
+        "countless",
+        "dawn",
+        "diagnosis",
+        "early",
+        "from",
+        "lives",
+        "save"
+      ],
+      "source_excerpt": "‘Early diagnosis can save countless lives from breast cancer’ Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlFIaUo5bDhON1JRNjVaN2VaWFJMT19GLTNqcmwxR0EycG9TMUhUM3pFYkxKRE9WM2pXTl85dy1wT0dmMVVsVkl6V1JjSTNQTWlhdnUwdHVUT2N5Z3lfOEo2THA5MlQyd0FyTlNHN2JWNUR1a0dFb2hYTmZtN3dVVHN6LTF1WUFjLWszRktUN3lOYXV4UTBPZA?oc=5",
+          "published_at": "2026-11-23T00:04:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlFIaUo5bDhON1JRNjVaN2VaWFJMT19GLTNqcmwxR0EycG9TMUhUM3pFYkxKRE9WM2pXTl85dy1wT0dmMVVsVkl6V1JjSTNQTWlhdnUwdHVUT2N5Z3lfOEo2THA5MlQyd0FyTlNHN2JWNUR1a0dFb2hYTmZtN3dVVHN6LTF1WUFjLWszRktUN3lOYXV4UTBPZA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d456453775416b60f7ae96a1",
+      "remembered_at": "2026-11-23T01:59:22.479438+00:00",
+      "event_date": "2026-11-23T00:06:42+00:00",
+      "last_update": "2026-11-23T00:06:42+00:00",
+      "event": "Two TikTokers held for displaying arms in videos",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arms",
+        "dawn",
+        "displaying",
+        "for",
+        "held",
+        "tiktokers",
+        "two",
+        "videos"
+      ],
+      "source_excerpt": "Two TikTokers held for displaying arms in videos Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWkJBZXRzQkx5Tl9MYXVJeDJRcXlva3dWZHBLdk51d3NIYWszakJjc3hFYlhxeFhTM3FxdHp2bmpUTXI1WVVBLVZXWDc5cXdrbzI1RENhUHNvZ3Z6YjV4MzZCbE92SXNIYk9yUUpzamF0eVR5d1R6ZWZTM01WellRYm41elZQcG1fX2c?oc=5",
+          "published_at": "2026-11-23T00:06:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWkJBZXRzQkx5Tl9MYXVJeDJRcXlva3dWZHBLdk51d3NIYWszakJjc3hFYlhxeFhTM3FxdHp2bmpUTXI1WVVBLVZXWDc5cXdrbzI1RENhUHNvZ3Z6YjV4MzZCbE92SXNIYk9yUUpzamF0eVR5d1R6ZWZTM01WellRYm41elZQcG1fX2c?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T00:36:29.861939+00:00"
+  "updated_at": "2026-11-23T01:59:22.479438+00:00"
 }

@@ -1,35 +1,35 @@
-# News Hub report - Mon 23 Nov, 05:36 AM PKT
+# News Hub report - Mon 23 Nov, 06:59 AM PKT
 
 ## Collection
-- New items this run: 68 | items in rolling pool: 272
-- Unique story clusters: 243 (duplicates merged: 29)
-- Clusters dropped as already published/queued: 33; unchanged since last analysis: 3
-- Items per outlet: Dawn 55, Al Jazeera 5, Engadget 3, BBC Business 2, BBC Technology 1, The Journal 1, BBC 1
+- New items this run: 35 | items in rolling pool: 255
+- Unique story clusters: 232 (duplicates merged: 23)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 4
+- Items per outlet: Dawn 15, The Express Tribune 7, Engadget 4, Geo News 2, Al Jazeera 2, TechCrunch 1, GSMArena 1, BBC Health 1, CBS News 1, China Daily 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Atalanta grab dramatic draw with Inter Milan in Serie A | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 10 injured as quadcopters hit Bannu jirga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine says Russian strikes kill six in Kyiv region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Suspected drone attack causes explosion on Russian ship in Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - South Korea’s stock market tumbles as AI bubble fears mount | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cameroon’s ex-rebels caught between hiding and broken promises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- San Francisco is enjoying an AI boom, but worries about a crash are growing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Atalanta grab dramatic draw with Inter Milan in Serie A | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 10 injured as quadcopters hit Bannu jirga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine says Russian strikes kill six in Kyiv region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Suspected drone attack causes explosion on Russian ship in Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - South Korea’s stock market tumbles as AI bubble fears mount | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cameroon’s ex-rebels caught between hiding and broken promises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- San Francisco is enjoying an AI boom, but worries about a crash are growing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Atalanta grab dramatic draw with Inter Milan in Serie A | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 10 injured as quadcopters hit Bannu jirga | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine says Russian strikes kill six in Kyiv region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Suspected drone attack causes explosion on Russian ship in Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - South Korea’s stock market tumbles as AI bubble fears mount | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Cameroon’s ex-rebels caught between hiding and broken promises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- San Francisco is enjoying an AI boom, but worries about a crash are growing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 118/120 | empty: 2 | failed: 0 | malformed/partial: 0
@@ -38,82 +38,106 @@
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### PTI Questions Sugar Export Approval and Seeks Audit of Import Deal  [NORMAL]
-- Poster: پی ٹی آئی کا شوگر ایکسپورٹ کی منظوری پر سوال، آڈٹ کا مطالبہ / PTI Questions Sugar Export and Seeks Audit | category politics
-- Alternative headline: PTI Demands Complete Audit of Sugar Export Approval and Import Deal
+### PTI Pushes for KP Leaders' Freedom Following Legal Changes  [NORMAL]
+- Poster: قانونی تبدیلیوں کے بعد پی ٹی آئی کی کے پی رہنماؤں کی رہائی کے لیے تگ و دو / PTI Pushes For KP Leaders Freedom | category politics
+- Alternative headline: Pakistan Tehreek-e-Insaf Demands Release of KP Leadership After Legal Overhaul
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUQzakx1Qkl3VzZ4eTJzMkozbzJQZ1E5OWdsWUYycVZqc1JqWUJnU2FCWUFqenhQOW53Qm5ld0tYOUctTl82bXN3QWhZWjIxZHJBdlV4M2R4RHVmMjNUVENHaVdaVmVjWFR6UjNjLXhfNWpYNS1vRVBiMlM5ZGNQWjRDalpNZ19jSEYxSE56LUpBbjdkSkJLWWwwUEk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUQzakx1Qkl3VzZ4eTJzMkozbzJQZ1E5OWdsWUYycVZqc1JqWUJnU2FCWUFqenhQOW53Qm5ld0tYOUctTl82bXN3QWhZWjIxZHJBdlV4M2R4RHVmMjNUVENHaVdaVmVjWFR6UjNjLXhfNWpYNS1vRVBiMlM5ZGNQWjRDalpNZ19jSEYxSE56LUpBbjdkSkJLWWwwUEk?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3BfeHViVWg2alpYNXd1X1ZxRDExZDZqSkFoZ3g3dXphdG9VU2hoMGpfNjZBU0tHTUh1THZRWjZoRmJQOUZoeVdkemNtUkJxVkRabVlzRzJiQUdnOWZFVUhXVjdDM3lIZXVJZmdfbWEycHdlSzlMUFRxbVlaRDI1WEdwQmVrcVFLVXVWLVd3N2g?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3BfeHViVWg2alpYNXd1X1ZxRDExZDZqSkFoZ3g3dXphdG9VU2hoMGpfNjZBU0tHTUh1THZRWjZoRmJQOUZoeVdkemNtUkJxVkRabVlzRzJiQUdnOWZFVUhXVjdDM3lIZXVJZmdfbWEycHdlSzlMUFRxbVlaRDI1WEdwQmVrcVFLVXVWLVd3N2g?oc=5
 - Supporting coverage: Dawn
-- Keywords: PTI sugar export, sugar export approval, sugar import deal, PTI audit demand, Dawn news | hashtags: #PTI #SugarExport #PakistanPolitics #DawnNews
-- Scheduled: Mon 23 Nov, 05:36 AM PKT
+- Keywords: PTI, Khyber Pakhtunkhwa, legal changes, leaders freedom, politics | hashtags: #PTI #KhyberPakhtunkhwa #PakistanPolitics #DawnNews
+- Scheduled: Mon 23 Nov, 06:59 AM PKT
 - Caption:
 ```
-Pakistan Tehreek-e-Insaf has raised serious questions over the recent approval of sugar exports and demanded an audit of the import deal.
+Pakistan Tehreek-e-Insaf is actively pushing for the release of its Khyber Pakhtunkhwa leaders following recent legal changes.
 
-Pakistan Tehreek-e-Insaf (PTI) has questioned the government's decision regarding the approval of sugar exports while seeking a comprehensive audit of the import deal. The party raised concerns over transparency and policy decisions affecting the sugar sector.
+Pakistan Tehreek-e-Insaf (PTI) has intensified its efforts to secure the freedom of its Khyber Pakhtunkhwa leaders following recent legal modifications. The party's leadership continues to navigate evolving legal frameworks to press for the release of detained members.
 
-پاکستان تحریک انصاف نے چینی کی برآمد کی منظوری پر سوالات اٹھاتے ہوئے درآمدی معاہدے کا جامع آڈٹ کرنے کا مطالبہ کیا ہے۔ پارٹی نے شفافیت اور پالیسی فیصلوں پر تحفظات کا اظہار کیا ہے۔
+پاکستان تحریک انصاف (پی ٹی آئی) نے حالیہ قانونی تبدیلیوں کے بعد اپنے خیبر پختونخوا کے رہنماؤں کی رہائی کے لیے کوششیں تیز کر دی ہیں۔ پارٹی قیادت زیر حتم اراکین کی رہائی کے لیے نئے قانونی دائرہ کار کا جائزہ لے رہی ہے۔
 
 First reported by Dawn
 
-#PTI #SugarExport #PakistanPolitics #DawnNews
+#PTI #KhyberPakhtunkhwa #PakistanPolitics #DawnNews
 ```
 
-### Atalanta Grab Dramatic Draw With Inter Milan in Serie A  [NORMAL]
-- Poster: اٹلانٹا نے سیری اے میں انٹر میلان کے خلاف ڈرامائی ڈرا حاصل کر لیا / Atalanta Secure Dramatic Draw Against Inter Milan | category sports
-- Alternative headline: Late Drama: Atalanta Secure Hard-Fought Draw Against Inter Milan
+### Suspected Drone Attack Triggers Explosion on Russian Ship in Libya  [NORMAL]
+- Poster: لیبیا میں روسی جہاز پر مبینہ ڈرون حملہ، دھماکہ / Russian Ship Hit In Libya | category world
+- Alternative headline: Russian Vessel Hit by Suspected Drone Strike at Benghazi Naval Base
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGQ4NnV1Mzc0Y3ljM0RyRXNlbUFPNWRYR1BCcklWOFVvQjBMaXRBektPRWlMazdOeE4tRjctTHNMdWpzNjA0SGxRSXpnQnMwMllQZWdtZ1hRYWthWFk2SU5jNmtTYWdMNW96MGd3VDUyRXlDbkFZcG5Ma1Y1eWg4UldSSHQ0Mmw3UHZvSm5kaDFfREk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGQ4NnV1Mzc0Y3ljM0RyRXNlbUFPNWRYR1BCcklWOFVvQjBMaXRBektPRWlMazdOeE4tRjctTHNMdWpzNjA0SGxRSXpnQnMwMllQZWdtZ1hRYWthWFk2SU5jNmtTYWdMNW96MGd3VDUyRXlDbkFZcG5Ma1Y1eWg4UldSSHQ0Mmw3UHZvSm5kaDFfREk?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Atalanta Inter Milan, Serie A, Atalanta draw, Inter Milan, Italian football | hashtags: #Atalanta #InterMilan #SerieA #Football
-- Scheduled: Mon 23 Nov, 05:46 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss
+- Supporting coverage: Al Jazeera, France 24, ABC News - Breaking News, Latest News and Videos, Radio Free Europe/Radio Liberty
+- Keywords: drone attack, Russian ship, Libya, Benghazi naval base, explosion | hashtags: #Libya #Russia #DroneAttack #Benghazi
+- Scheduled: Mon 23 Nov, 07:09 AM PKT
 - Caption:
 ```
-Atalanta delivered a thrilling performance to secure a dramatic draw against Inter Milan in an exciting Serie A encounter.
+A Russian ship docked at Libya's Benghazi naval base has been struck in a suspected drone attack, officials report.
 
-Atalanta managed to grab a dramatic draw against Inter Milan in a thrilling Serie A match. Both sides displayed competitive football, keeping fans on the edge of their seats until the final whistle.
+A Russian vessel sustained an explosion following a suspected drone attack while docked at Libya's Benghazi naval base. The incident has drawn international attention amidst ongoing speculations and regional security concerns.
 
-اٹلانٹا نے سیری اے کے ایک سنسنی خیز میچ میں انٹر میلان کے خلاف ڈرامائی انداز میں ڈرا حاصل کر لیا۔ دونوں ٹیموں نے شاندار کھیل کا مظاہرہ کیا۔
+لیبیا کے بنغازی بحری اڈے پر لنگر انداز ایک روسی بحری جہاز مبینہ ڈرون حملے کی زد میں آ گیا، جس سے دھماکہ ہوا۔ اس واقعے نے علاقائی سلامتی کے خدشات کو بڑھا دیا ہے۔
 
-First reported by Dawn
+First reported by Al Jazeera
 
-#Atalanta #InterMilan #SerieA #Football
+#Libya #Russia #DroneAttack #Benghazi
 ```
 
-### 10 Injured as Quadcopters Hit Peace Jirga in Bannu  [NORMAL]
-- Poster: بنوں جرگہ پر کواڈ کاپٹر حملے میں 10 افراد زخمی ہو گئے / 10 Injured in Quadcopter Attack on Bannu Jirga | category security
-- Alternative headline: Ten People Injured After Drone Strikes Target Bannu Jirga
+### South Korea's Stock Market Tumbles Amid Growing AI Bubble Fears  [NORMAL]
+- Poster: جنوبی کوریا کی اسٹاک مارکیٹ میں اے آئی کے خدشات کے پیش نظر بڑی گراوٹ / South Korea Stocks Fall | category economy
+- Alternative headline: Kospi Plunges 2.8 Percent at Opening Over Artificial Intelligence Bubble Concerns
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUp4VmFDb21oLVBpSGVGUUdBTmlkY2dZenVaOXVtaGloYXJsVEh4Um9YZ2t3MmJvalY4R1hNSUVuOHJOcWt4T2lQa2l0Ym1qYWJ3V2FHSkFWREdZSVBWOC1ZZFM0RlMyVnA2RXNWVGRJOXRfVjNmSEZtVzdvSDljcw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUp4VmFDb21oLVBpSGVGUUdBTmlkY2dZenVaOXVtaGloYXJsVEh4Um9YZ2t3MmJvalY4R1hNSUVuOHJOcWt4T2lQa2l0Ym1qYWJ3V2FHSkFWREdZSVBWOC1ZZFM0RlMyVnA2RXNWVGRJOXRfVjNmSEZtVzdvSDljcw?oc=5
-- Supporting coverage: Pakistan Today, Dawn
-- Keywords: Bannu jirga attack, quadcopter strike Bannu, Bannu jirga injured, security incident Bannu, Dawn news | hashtags: #Bannu #Security #PeaceJirga #DawnNews
-- Scheduled: Mon 23 Nov, 05:56 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: South Korea stock market, Kospi, AI bubble, economy, shares tumbles | hashtags: #SouthKorea #Kospi #StockMarket #AIBubble
+- Scheduled: Mon 23 Nov, 07:19 AM PKT
 - Caption:
 ```
-At least ten people sustained injuries after quadcopters reportedly struck a peace jirga in Bannu.
+South Korea's stock market tumbled sharply at opening as mounting fears over an artificial intelligence bubble triggered regional losses.
 
-At least 10 people were reported injured after quadcopters hit a peace jirga in Bannu. Emergency services responded to the incident as security officials gathered further details regarding the strike.
+South Korea's stock market experienced a sharp decline, with the Kospi falling 2.8 percent at the opening bell. Markets across the region braced for further losses as growing anxieties regarding an artificial intelligence bubble weighed heavily on investor sentiment.
 
-بنوں میں امن جرگہ پر کواڈ کاپٹر کے حملے کے نتیجے میں کم از کم 10 افراد زخمی ہو گئے۔ امدادی ٹیموں نے موقع پر پہنچ کر زخمیوں کو منتقل کیا۔
+جنوبی کوریا کی اسٹاک مارکیٹ میں شدید گراوٹ دیکھی گئی، جہاں کاروبار کے آغاز پر کوسپی انڈیکس 2.8 فیصد گر گیا۔ مصنوعی ذہانت (اے آئی) کے بلبلے کے خدشات کے باعث پورے خطے کے بازاروں میں مندی کا رجحان ہے۔
 
-First reported by Dawn
+First reported by Al Jazeera
 
-#Bannu #Security #PeaceJirga #DawnNews
+#SouthKorea #Kospi #StockMarket #AIBubble
 ```
 
-- Indian outlets blocked this run: 7 items
+### Cameroon's Ex-Rebels Caught Between Hiding and Broken Promises  [NORMAL]
+- Poster: کیمرون کے سابق باغی روپوشی اور ٹوٹے ہوئے وعدوں کے درمیان پھنس گئے / Cameroon Ex-Rebels Struggle | category world
+- Alternative headline: Former Rebels in Cameroon Face Arrest Fears and Failed Reintegration
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Cameroon ex-rebels, reintegration, arrest fears, broken promises, world news | hashtags: #Cameroon #ExRebels #Reintegration #WorldNews
+- Scheduled: Mon 23 Nov, 07:29 AM PKT
+- Caption:
+```
+Former rebels in Cameroon are facing severe challenges, caught between the fear of arrest and unfulfilled reintegration promises.
+
+Former rebels in Cameroon find themselves in a precarious situation, grappling with ongoing fears of arrest and the reality of failed reintegration efforts. Many continue to live in hiding as official promises remain unfulfilled.
+
+کیمرون میں سابق باغی گرفتاری کے خوف اور ناکام بحالی کے وعدوں کے درمیان پھنس کر انتہائی کٹھن صورتحال کا سامنا کر رہے ہیں۔ کئی افراد تاحال روپوشی کی زندگی گزارنے پر مجبور ہیں۔
+
+First reported by Al Jazeera
+
+#Cameroon #ExRebels #Reintegration #WorldNews
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
 - [needs_review] normal | Jailed PTI leaders write to top judges over prison conditions | Fri 20 Nov, 03:31 AM PKT
@@ -126,7 +150,6 @@ First reported by Dawn
 - [needs_review] normal | California Probes Nvidia Over Alleged Unauthorized Tech Transfers to C | Fri 20 Nov, 05:10 AM PKT
 - [needs_review] normal | Judge Rules Thomas Markle Mentally Fit to Stand Trial on Child Abuse C | Fri 20 Nov, 05:20 AM PKT
 - [needs_review] normal | Famed Cincinnati Zoo Hippo Fiona Dies Days After Swallowing Knitted Ha | Fri 20 Nov, 05:30 AM PKT
-- [published] normal | Why Canada is embracing AI data centres while the US pushes back | Fri 20 Nov, 06:11 AM PKT
 - [needs_review] normal | PM credits civil-military partnership for economic stability, defends  | Fri 20 Nov, 06:21 AM PKT
 - [needs_review] normal | Cumin-laced fizzy sodas give cola giants a tough fight in India | Fri 20 Nov, 06:31 AM PKT
 - [needs_review] normal | Trump posthumously pardons US baseball legend Pete Rose | Fri 20 Nov, 06:41 AM PKT
@@ -337,12 +360,12 @@ First reported by Dawn
 - [needs_review] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
 - [needs_review] normal | Canada’s PM appears next to Trump impersonator at press dinner | Sun 22 Nov, 11:31 PM PKT
 - [published] normal | Khawaja Asif claims referendum on new provinces is coming soon | Sun 22 Nov, 11:54 PM PKT
-- [queued] normal | Russian vessel hit by suspected sea drone in Libya | Mon 23 Nov, 12:04 AM PKT
-- [queued] normal | Civilians killed in RSF drone strikes across Sudan | Mon 23 Nov, 12:14 AM PKT
-- [queued] normal | Cox’s Bazar: Rohingya families face harsh exile during Ramadan | Mon 23 Nov, 12:24 AM PKT
-- [queued] normal | Aber Kawas makes history as New York's first Palestinian state senator | Mon 23 Nov, 12:46 AM PKT
-- [queued] normal | Pakistani national among two injured in Iranian attacks on Bahrain | Mon 23 Nov, 12:56 AM PKT
-- [queued] normal | Virginia reports first measles-linked child death of 2026 | Mon 23 Nov, 01:06 AM PKT
+- [needs_review] normal | Russian vessel hit by suspected sea drone in Libya | Mon 23 Nov, 12:04 AM PKT
+- [needs_review] normal | Civilians killed in RSF drone strikes across Sudan | Mon 23 Nov, 12:14 AM PKT
+- [needs_review] normal | Cox’s Bazar: Rohingya families face harsh exile during Ramadan | Mon 23 Nov, 12:24 AM PKT
+- [needs_review] normal | Aber Kawas makes history as New York's first Palestinian state senator | Mon 23 Nov, 12:46 AM PKT
+- [needs_review] normal | Pakistani national among two injured in Iranian attacks on Bahrain | Mon 23 Nov, 12:56 AM PKT
+- [published] normal | Virginia reports first measles-linked child death of 2026 | Mon 23 Nov, 01:06 AM PKT
 - [queued] normal | Ukrainians search through rubble for missing following deadly Russian  | Mon 23 Nov, 01:16 AM PKT
 - [queued] promo | [YouTube] MOHSIN NAQVI VS RANA SANAULLAH: WHO WILL BACK DOWN? | Mon 23 Nov, 01:31 AM PKT
 - [queued] normal | PTI urges Bilawal not to back extension of Governor’s Rule | Mon 23 Nov, 01:31 AM PKT
@@ -365,18 +388,19 @@ First reported by Dawn
 - [queued] normal | PTI Questions Sugar Export Approval and Seeks Audit of Import Deal | Mon 23 Nov, 05:36 AM PKT
 - [queued] normal | Atalanta Grab Dramatic Draw With Inter Milan in Serie A | Mon 23 Nov, 05:46 AM PKT
 - [queued] normal | 10 Injured as Quadcopters Hit Peace Jirga in Bannu | Mon 23 Nov, 05:56 AM PKT
+- [queued] normal | PTI Pushes for KP Leaders' Freedom Following Legal Changes | Mon 23 Nov, 06:59 AM PKT
+- [queued] normal | Suspected Drone Attack Triggers Explosion on Russian Ship in Libya | Mon 23 Nov, 07:09 AM PKT
+- [queued] normal | South Korea's Stock Market Tumbles Amid Growing AI Bubble Fears | Mon 23 Nov, 07:19 AM PKT
+- [queued] normal | Cameroon's Ex-Rebels Caught Between Hiding and Broken Promises | Mon 23 Nov, 07:29 AM PKT
 
 ## Publishing this run
-- Published 'Khawaja Asif claims referendum on new provinces is coming soon'.
+- Published 'Virginia reports first measles-linked child death of 2026'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 3087 | output tokens: 1611
+- Calls: 3 | prompt tokens: 5533 | output tokens: 1934
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
