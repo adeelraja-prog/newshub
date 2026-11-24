@@ -1,159 +1,161 @@
-# News Hub report - Tue 24 Nov, 10:02 AM PKT
+# News Hub report - Tue 24 Nov, 11:06 AM PKT
 
 ## Collection
-- New items this run: 49 | items in rolling pool: 254
-- Unique story clusters: 222 (duplicates merged: 32)
-- Clusters dropped as already published/queued: 20; unchanged since last analysis: 9
-- Items per outlet: Dawn Latest 7, Dawn Pakistan 5, ARY News 5, Geo News 4, Al Jazeera 4, samaa tv 3, Dawn 3, Profit by Pakistan Today 3, Dunya News 2, Bloomberg.com 2, Jang 1, The Express Tribune 1
+- New items this run: 69 | items in rolling pool: 300
+- Unique story clusters: 243 (duplicates merged: 57)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 6
+- Items per outlet: Wired 16, Dawn Pakistan 11, Geo News 7, ARY News 7, ProPakistani 3, Profit by Pakistan Today 3, Dawn 2, The Express Tribune 2, TechJuice 2, PhoneWorld 2, The Current 2, Investify 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- FoodAg showcases export potential | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pop singer Bunny passes away in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ATC grants five-day remand of PTI leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Used phone import surge hits industry | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Equities end flat amid regional, political tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petroleum dealers threaten nationwide strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM orders to double wheat, flour supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 11 more ‘illegal’ Afghan nationals detained | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Investigation launched as ‘diphtheria’ claims life in Bajaur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- FoodAg showcases export potential | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pop singer Bunny passes away in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ATC grants five-day remand of PTI leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Used phone import surge hits industry | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Equities end flat amid regional, political tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petroleum dealers threaten nationwide strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM orders to double wheat, flour supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 11 more ‘illegal’ Afghan nationals detained | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Investigation launched as ‘diphtheria’ claims life in Bajaur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- FoodAg showcases export potential | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pop singer Bunny passes away in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ATC grants five-day remand of PTI leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Used phone import surge hits industry | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Equities end flat amid regional, political tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petroleum dealers threaten nationwide strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM orders to double wheat, flour supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 11 more ‘illegal’ Afghan nationals detained | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Investigation launched as ‘diphtheria’ claims life in Bajaur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 111/120 | empty: 3 | failed: 6 | malformed/partial: 6
+- Overall feeds with entries: 93/120 | empty: 2 | failed: 25 | malformed/partial: 25
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: South Asia Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Imran Khan and Adiala Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI and Judiciary Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Provincial Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: World Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: UK Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Lahore ATC Grants Five-Day Physical Remand of PTI Leader  [NORMAL]
-- Poster: لاہور کی انسدادِ دہشت گردی عدالت کا پی ٹی آئی رہنما کا پانچ روزہ ریمانڈ منظور / ATC Grants Five-Day Remand of PTI Leader | category politics
-- Alternative headline: PTI Leader Handed Over to Police on Five-Day Remand by ATC
+### Iran Parliament Speaker Warns US Seeks 'No War, No Peace' Stalemate  [NORMAL]
+- Poster: امریکہ ایران کے ساتھ جنگ اور امن کی غیر یقینی صورتحال چاہتا ہے / US Seeks No War, No Peace Stalemate With Iran | category us_politics
+- Alternative headline: US Seeking 'No War, No Peace' Stalemate With Iran, Says Speaker
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQkU1MHMyM1hCXzhqZjRGZE9OUWhIYVdvVHVqNS11M2lVdEV0elptNFF1S0VkUWR0dGtMN25QVXZaSzhNc3NyX2k4YkJjSkl1R2hWLVpIUmQtSEJVSi1ER1hGeG9vMGFtWDh4TlpCMVdhSlVVNFpzQVJwSW5HekU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQkU1MHMyM1hCXzhqZjRGZE9OUWhIYVdvVHVqNS11M2lVdEV0elptNFF1S0VkUWR0dGtMN25QVXZaSzhNc3NyX2k4YkJjSkl1R2hWLVpIUmQtSEJVSi1ER1hGeG9vMGFtWDh4TlpCMVdhSlVVNFpzQVJwSW5HekU?oc=5
-- Supporting coverage: Dawn, Dawn, Dawn Pakistan
-- Keywords: PTI leader remand, Lahore ATC, police custody, Pakistan politics, court hearing | hashtags: #PTI #ATC #Lahore #PakistanNews
-- Scheduled: Tue 24 Nov, 10:02 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMizwFBVV95cUxQTnF4UWVpWmJwYVNtejZqay00RDVtenNzN0xLYmxSbVFmTjFVZWVVaDU1cmt3QjEzQXM0eGZadDlKS3Q4dzVOWlByTTVrN1NDcjFqX2t1a210SWctQm5pb0VaOHMzVWhmSFJkY0pHNkYzbkk1blJlNlltTFhtZ3AxQzdEa3lfdVYzaGJZVzZvUmtSZm0xMEFjczVsSFF6RUxudHhJaUN0VTBmcnhjWk9iQUtsNjFPc1ZvRTA5VzJ2Q2dkMUMxYmpqVUVqa0dJaE3SAdcBQVVfeXFMTVB1UmEtSnJ1RExTNUhfTkF1ckVaZ0dBd1F5c0xDZ3I4VGI5dmlvYWJ6TGZKQkF4UG1iTTkzcjJqRy1nb0hCRnVsVjV0R1ptSlZ3Z3h5SWVhci14UEVadkc2aEwyR3JlNmF0RWJPZHN0eE4xUFBUQmFGbVZZc2x0aG5qLXhobzZnX2ZHTEVOYWxnVk14b3pSc0tMZ25xUjI5d3MwcjF2Q2N5SnRiLTFzSlJGSUdzOXAtNkc1Ry1iU2o5TGd5XzU0VU5fcTQ3c0ZpWWttaWhqLU0?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMizwFBVV95cUxQTnF4UWVpWmJwYVNtejZqay00RDVtenNzN0xLYmxSbVFmTjFVZWVVaDU1cmt3QjEzQXM0eGZadDlKS3Q4dzVOWlByTTVrN1NDcjFqX2t1a210SWctQm5pb0VaOHMzVWhmSFJkY0pHNkYzbkk1blJlNlltTFhtZ3AxQzdEa3lfdVYzaGJZVzZvUmtSZm0xMEFjczVsSFF6RUxudHhJaUN0VTBmcnhjWk9iQUtsNjFPc1ZvRTA5VzJ2Q2dkMUMxYmpqVUVqa0dJaE3SAdcBQVVfeXFMTVB1UmEtSnJ1RExTNUhfTkF1ckVaZ0dBd1F5c0xDZ3I4VGI5dmlvYWJ6TGZKQkF4UG1iTTkzcjJqRy1nb0hCRnVsVjV0R1ptSlZ3Z3h5SWVhci14UEVadkc2aEwyR3JlNmF0RWJPZHN0eE4xUFBUQmFGbVZZc2x0aG5qLXhobzZnX2ZHTEVOYWxnVk14b3pSc0tMZ25xUjI5d3MwcjF2Q2N5SnRiLTFzSlJGSUdzOXAtNkc1Ry1iU2o5TGd5XzU0VU5fcTQ3c0ZpWWttaWhqLU0?oc=5
+- Supporting coverage: Anadolu Ajansı, The Express Tribune
+- Keywords: Iran US relations, Iran parliament speaker, US Iran stalemate, deterrence, Middle East politics | hashtags: #Iran #US #Geopolitics #MiddleEast
+- Scheduled: Tue 24 Nov, 11:06 AM PKT
 - Caption:
 ```
-An anti-terrorism court in Lahore has approved a five-day physical remand for a PTI leader.
+The Iranian parliament speaker has accused the US of maintaining a 'no war, no peace' stalemate with Iran, urging strong deterrence.
 
-An anti-terrorism court (ATC) in Lahore has granted a five-day physical remand of a Pakistan Tehreek-e-Insaf (PTI) leader. According to Dawn, the court handed over the leader to police custody for further investigation into ongoing legal proceedings.
+The Iranian parliament speaker stated that the United States is seeking a 'no war, no peace' stalemate with Iran, highlighting the ongoing geopolitical tensions. The speaker emphasized the urgent need for robust deterrence strategies to counter these geopolitical maneuvers.
 
-لاہور کی انسدادِ دہشت گردی عدالت نے پاکستان تحریک انصاف کے ایک رہنما کا پانچ روزہ جسمانی ریمانڈ منظور کر لیا ہے۔ ڈان کے مطابق عدالت نے تفتیش کے لیے رہنما کو پولیس کے حوالے کر دیا ہے۔
+اییران کے پارلیمنٹ اسپیکر نے کہا ہے کہ امریکہ ایران کے ساتھ 'نہ جنگ، نہ امن' کی کیفیت برقرار رکھنا چاہتا ہے۔ انہوں نے اس صورتحال سے نمٹنے کے لیے مؤثر دفاعی حکمت عملی اپنانے پر زور دیا۔
 
-First reported by Dawn; also reported via Dawn Pakistan.
+First reported by The Express Tribune.
 
-#PTI #ATC #Lahore #PakistanNews
+#Iran #US #Geopolitics #MiddleEast
 ```
 
-### FoodAg Exhibition Showcases Pakistan's Growing Export Potential  [NORMAL]
-- Poster: فوڈ اگست نمائش میں ملکی برآمدی صلاحیت کا مظاہرہ / FoodAg Exhibition Showcases Export Potential | category economy
-- Alternative headline: Showcasing Agricultural Export Potential at the FoodAg Exhibition
+### Petroleum Dealers Threaten Nationwide Strike Over Pricing Mechanism  [NORMAL]
+- Poster: پیٹرولیم ڈیلرز کی قیمتوں کے طریقہ کار پر ملک گیر ہڑتال کی دھمکی / Petroleum dealers threaten nationwide strike over pricing | category economy
+- Alternative headline: Nationwide Strike Threatened by Petroleum Dealers Over Price Revision
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE5NRzMwUDFnM1B4WXZRblNkclNDcmd4eFBBd3J6WmFMZlNzcXFMOF9VQVZxbWJGRjBlVWtLbjRDejM1YS1TM2d6cmJRaGtENjUzNG95QldOYVk4X1FxRGpNYnJTbFNvcFo3TTgxUTFxN3N4aHR5Z0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE5NRzMwUDFnM1B4WXZRblNkclNDcmd4eFBBd3J6WmFMZlNzcXFMOF9VQVZxbWJGRjBlVWtLbjRDejM1YS1TM2d6cmJRaGtENjUzNG95QldOYVk4X1FxRGpNYnJTbFNvcFo3TTgxUTFxN3N4aHR5Z0E?oc=5
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUl1RndMN18wVW03RmNuRndnM0RRM2FzYndjeVM5Z0pMZi1BVlpieFZ2WGgxcEFTaWNSSWM4MFF4QUNwRUJxcmk3XzFhMm5SVXlRQ2t1ckpfX0RBVGNvd2dNeWZlMGxLMWlHUERHYVBRbVh5dGJGRTFRMWdZeGQ4MXZ2M3hzeVlyWjI40gGTAUFVX3lxTE9oSXNQUXhLbTV1UTRSSk5uNTVKMnlkZG8ybTJwTWEyVWF1emd4dm5OYnBweWotUFRiVEJPSWh4UFBxQW5jVUVqaEh6WFdyZFktTEFDUEhrS3AxVDdONkdvUERuWlBZa0kwVG9aMDRfRjFra19aRHRVYklnU3F2djdwLUQzRWpXUHVjTW92eVVOazhDQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUl1RndMN18wVW03RmNuRndnM0RRM2FzYndjeVM5Z0pMZi1BVlpieFZ2WGgxcEFTaWNSSWM4MFF4QUNwRUJxcmk3XzFhMm5SVXlRQ2t1ckpfX0RBVGNvd2dNeWZlMGxLMWlHUERHYVBRbVh5dGJGRTFRMWdZeGQ4MXZ2M3hzeVlyWjI40gGTAUFVX3lxTE9oSXNQUXhLbTV1UTRSSk5uNTVKMnlkZG8ybTJwTWEyVWF1emd4dm5OYnBweWotUFRiVEJPSWh4UFBxQW5jVUVqaEh6WFdyZFktTEFDUEhrS3AxVDdONkdvUERuWlBZa0kwVG9aMDRfRjFra19aRHRVYklnU3F2djdwLUQzRWpXUHVjTW92eVVOazhDQQ?oc=5
+- Supporting coverage: Business Recorder, The Express Tribune, Geo News, Geo News
+- Keywords: petroleum dealers strike, fuel prices, Pakistan petroleum, strike threat, price revision | hashtags: #PetrolStrike #PakistanEconomy #FuelPrices #BusinessNews
+- Scheduled: Tue 24 Nov, 11:16 AM PKT
+- Caption:
+```
+Petroleum dealers across the country have threatened to launch a nationwide strike over disputes regarding the pricing mechanism.
+
+Petroleum dealers have issued a warning of a nationwide strike due to grievances with the current price revision and profit margin mechanism. The potential shutdown could disrupt fuel supplies across Pakistan if negotiations fail to resolve the deadlock.
+
+پیٹرولیم ڈیلرز نے قیمتوں کے طریقہ کار کے خلاف ملک گیر ہڑتال کی دھمکی دی ہے۔ مطالبات نہ مانے جانے کی صورت میں ملک بھر میں فیول کی فراہمی معطل ہو سکتی ہے۔
+
+First reported by The Express Tribune; also reported by Business Recorder and Geo News.
+
+#PetrolStrike #PakistanEconomy #FuelPrices #BusinessNews
+```
+
+### Punjab CM Orders Authorities to Double Wheat and Flour Supply  [NORMAL]
+- Poster: وزیراعلیٰ پنجاب کا گندم اور آٹے کی فراہمی دوگنا کرنے کا حکم / CM Punjab orders to double wheat and flour supply | category economy
+- Alternative headline: Wheat and Flour Supply to be Doubled Under CM Punjab's Orders
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTE5GWXB0eUFkaDloQTZpUE9zSEFMSzdFRG1QcFlkVUo5eVlkTUQ1MXhYaWl1aW5aUkprM1BxR3otY3JNNFZqc2xEemIwYmtSdUtHSUNTelVKV1kzb1U4VFZjZ2RpeG1JOHNCUEdJbGNVM2x0MGJqMlMwYVJ5OEM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTE5GWXB0eUFkaDloQTZpUE9zSEFMSzdFRG1QcFlkVUo5eVlkTUQ1MXhYaWl1aW5aUkprM1BxR3otY3JNNFZqc2xEemIwYmtSdUtHSUNTelVKV1kzb1U4VFZjZ2RpeG1JOHNCUEdJbGNVM2x0MGJqMlMwYVJ5OEM?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: FoodAg exhibition, export potential, agriculture trade, Pakistan exports, FoodAg Pakistan | hashtags: #FoodAg #Exports #PakistanTrade #Agriculture
-- Scheduled: Tue 24 Nov, 10:12 AM PKT
+- Keywords: wheat supply Punjab, Punjab CM, flour supply, food security, Pakistan economy | hashtags: #Punjab #WheatSupply #FoodSecurity #Pakistan
+- Scheduled: Tue 24 Nov, 11:26 AM PKT
 - Caption:
 ```
-The FoodAg exhibition has highlighted Pakistan's agricultural export potential.
+The Punjab Chief Minister has issued strict directives to double the supply of wheat and flour across the province.
 
-The FoodAg exhibition has successfully showcased Pakistan's export potential in the agricultural sector. According to Dawn, the event aims to connect local producers with international markets and boost the country's trade opportunities.
+In a bid to ensure food security and price stability, the Punjab Chief Minister has ordered authorities to double the supply of wheat and flour. The move aims to facilitate citizens and control potential price hikes in the market.
 
-فوڈ اگست نمائش میں زراعت کے شعبے میں پاکستان کی برآمدی صلاحیت کو اجاگر کیا گیا ہے۔ ڈان کے مطابق اس تقریب کا مقصد مقامی پروڈیوسرز کو بین الاقوامی منڈیوں سے جوڑنا ہے۔
+وزیراعلیٰ پنجاب نے صوبے میں گندم اور آٹے کی فراہمی کو دوگنا کرنے کا حکم دے دیا ہے۔ اس اقدام کا مقصد شہریوں کو ریلیف فراہم کرنا اور مارکیٹ میں قیمتوں کو کنٹرول کرنا ہے۔
 
-First reported by Dawn; also reported via Dawn Pakistan.
+First reported by Dawn.
 
-#FoodAg #Exports #PakistanTrade #Agriculture
+#Punjab #WheatSupply #FoodSecurity #Pakistan
 ```
 
-### Renowned Pop Singer Bunny Passes Away in Karachi  [NORMAL]
-- Poster: معروف پاپ گلوکار بنی کراچی میں انتقال کر گئے / Pop Singer Bunny Passes Away in Karachi | category other
-- Alternative headline: Pop Singer Mohsin Raza Khan Known as Bunny Passes Away
+### 11 More Illegal Afghan Nationals Detained in Rawalpindi  [NORMAL]
+- Poster: راولپنڈی میں مزید 11 غیر قانونی مقیم افغان شہری حراست میں / 11 more illegal Afghan nationals detained in Rawalpindi | category security
+- Alternative headline: Rawalpindi Police Detain 11 More Illegal Afghan Nationals
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5pbGcwVENHc3ZYS2dGMXd0MzVXRzhHRGx3VElCb25BbFdsNXRCeU90VTVlSzkxRm50RHlBc093dENZc2FKeWExZUhXRmdqS1lrU01ackowaGp1R0owdktJclF1NmlRV1V2amJhRTk1WHZzU19XRUdxOHNVNjZWZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5pbGcwVENHc3ZYS2dGMXd0MzVXRzhHRGx3VElCb25BbFdsNXRCeU90VTVlSzkxRm50RHlBc093dENZc2FKeWExZUhXRmdqS1lrU01ackowaGp1R0owdktJclF1NmlRV1V2amJhRTk1WHZzU19XRUdxOHNVNjZWZw?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Pop singer Bunny, Mohsin Raza Khan, Karachi news, Pakistani singer, music industry | hashtags: #Bunny #PopSinger #Karachi #PakistanMusic
-- Scheduled: Tue 24 Nov, 10:22 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmJ1aF93cTVKSzVCV2dITm1fanRKMzd3bUZxanBIMlRyWXkwWncyS0lCNVhKQmFOTVhqZzdJREtBRFJiaEZDbm1nWDJoYVNmWFJJa3VwazVQY0lrYUprT1JzNGlxaUJKSVZ6cmtFdFE0V2RLb08tZ0gzUjVsak9qLQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmJ1aF93cTVKSzVCV2dITm1fanRKMzd3bUZxanBIMlRyWXkwWncyS0lCNVhKQmFOTVhqZzdJREtBRFJiaEZDbm1nWDJoYVNmWFJJa3VwazVQY0lrYUprT1JzNGlxaUJKSVZ6cmtFdFE0V2RLb08tZ0gzUjVsak9qLQ?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: illegal Afghans detained, Rawalpindi police, Afghan nationals, security crackdown, Pakistan security | hashtags: #Rawalpindi #Security #LawEnforcement #Pakistan
+- Scheduled: Tue 24 Nov, 11:36 AM PKT
 - Caption:
 ```
-Renowned Pakistani pop singer Bunny has passed away in Karachi.
+Authorities in Rawalpindi have detained eleven more illegal Afghan nationals as part of ongoing security operations.
 
-Renowned Pakistani pop singer Mohsin Raza Khan, widely known as Bunny, has passed away in Karachi. According to Dawn, the artist left a significant mark on the country's music industry during the pop boom.
+Security forces and law enforcement agencies in Rawalpindi have detained 11 additional Afghan nationals living illegally in the area. The detentions are part of the broader crackdown on undocumented foreign nationals across the country.
 
-پاکستان کے معروف پاپ گلوکار محسن رضا خان، جو 'بنی' کے نام سے مشہور تھے، کراچی میں انتقال کر گئے ہیں۔ ڈان کے مطابق مرحوم نے پاپ موسیقی کے دور میں نمایاں مقام حاصل کیا۔
+راولپنڈی میں قانون نافذ کرنے والے اداروں نے کارروائی کرتے ہوئے مزید 11 غیر قانونی طور پر مقیم افغان شہریوں کو حراست میں لے لیا۔ یہ کارروائیاں ملک بھر میں جاری مہم کا حصہ ہیں۔
 
-First reported by Dawn; also reported by Samaa TV.
+First reported by Dawn.
 
-#Bunny #PopSinger #Karachi #PakistanMusic
+#Rawalpindi #Security #LawEnforcement #Pakistan
 ```
 
-### Surge in Used Phone Imports Hits Local Industry Hard  [NORMAL]
-- Poster: استعمال شدہ فونز کی درآمد میں اضافے سے مقامی صنعت متاثر / Used Phone Import Surge Hits Industry | category economy
-- Alternative headline: Local Industry Impacted by Rising Surge in Used Phone Imports
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE1POUQteFRlN2lxYlh3aTJ5cHpkaEhmSFdLM2hDdWp6SzN6YXdjaXFPMHJfX3k5UXBldE0zbG1oS29UaGNZb1lLb25ZbmtybU54cGRTZXJLVXRzbnNuOXhmOUdBQlctdUlxLUo4SUFWWWw4ZGdZTkdVd2J5cw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE1POUQteFRlN2lxYlh3aTJ5cHpkaEhmSFdLM2hDdWp6SzN6YXdjaXFPMHJfX3k5UXBldE0zbG1oS29UaGNZb1lLb25ZbmtybU54cGRTZXJLVXRzbnNuOXhmOUdBQlctdUlxLUo4SUFWWWw4ZGdZTkdVd2J5cw?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: used phone imports, local industry, mobile import surge, Pakistan economy, tech market | hashtags: #MobileImports #LocalIndustry #PakistanEconomy #Tech
-- Scheduled: Tue 24 Nov, 10:32 AM PKT
-- Caption:
-```
-A surge in used phone imports is heavily impacting the local industry.
-
-A sharp surge in the import of used mobile phones has created significant challenges for the local industry. According to Dawn, stakeholders have raised concerns over how these imports affect domestic manufacturing and market competition.
-
-استعمال شدہ موبائل فونز کی درآمد میں تیز رفتار اضافے نے مقامی صنعت کے لیے شدید مشکلات پیدا کر دی ہیں۔ ڈان کے مطابق اسٹیک ہولڈرز نے اس صورتحال پر تشویش کا اظہار کیا ہے۔
-
-First reported by Dawn; also reported via Dawn Latest.
-
-#MobileImports #LocalIndustry #PakistanEconomy #Tech
-```
-
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [needs_review] normal | Jennifer Lawrence and Josh Hutcherson reveal favorite Hunger Games fil | Sat 21 Nov, 03:43 AM PKT
-- [needs_review] normal | Gaza’s displaced children gather to celebrate World Children’s Day | Sat 21 Nov, 03:53 AM PKT
-- [needs_review] normal | Russian missiles land in Poland amid NATO drills | Sat 21 Nov, 04:18 AM PKT
-- [needs_review] normal | Iraq PM targets militia stronghold in state control push | Sat 21 Nov, 04:28 AM PKT
 - [needs_review] normal | Fossil fuel talks deadlock pushes COP31 into overtime | Sat 21 Nov, 04:48 AM PKT
 - [needs_review] normal | Rahul Gandhi Backs Strong India-Israel Ties Despite Gaza War | Sat 21 Nov, 05:08 AM PKT
 - [needs_review] normal | Pakistan Crowned Men’s Blind Cricket Asia Cup Champions | Sat 21 Nov, 05:18 AM PKT
@@ -357,7 +359,7 @@ First reported by Dawn; also reported via Dawn Latest.
 - [published] normal | Israeli strikes kill at least three, including UNRWA worker, in Gaza | Tue 24 Nov, 05:50 AM PKT
 - [published] normal | Brentford hit Everton for four to soar into Premier League top six | Tue 24 Nov, 06:00 AM PKT
 - [published] normal | Trump Demands Immediate Expedited Federal Executions While Blasting Ga | Tue 24 Nov, 06:53 AM PKT
-- [queued] normal | US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia S | Tue 24 Nov, 07:03 AM PKT
+- [published] normal | US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia S | Tue 24 Nov, 07:03 AM PKT
 - [queued] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
 - [queued] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
 - [queued] normal | Qatar PM Works to Revive US-Iran Talks After Rubio Meeting | Tue 24 Nov, 07:52 AM PKT
@@ -372,12 +374,16 @@ First reported by Dawn; also reported via Dawn Latest.
 - [queued] normal | FoodAg Exhibition Showcases Pakistan's Growing Export Potential | Tue 24 Nov, 10:12 AM PKT
 - [queued] normal | Renowned Pop Singer Bunny Passes Away in Karachi | Tue 24 Nov, 10:22 AM PKT
 - [queued] normal | Surge in Used Phone Imports Hits Local Industry Hard | Tue 24 Nov, 10:32 AM PKT
+- [queued] normal | Iran Parliament Speaker Warns US Seeks 'No War, No Peace' Stalemate | Tue 24 Nov, 11:06 AM PKT
+- [queued] normal | Petroleum Dealers Threaten Nationwide Strike Over Pricing Mechanism | Tue 24 Nov, 11:16 AM PKT
+- [queued] normal | Punjab CM Orders Authorities to Double Wheat and Flour Supply | Tue 24 Nov, 11:26 AM PKT
+- [queued] normal | 11 More Illegal Afghan Nationals Detained in Rawalpindi | Tue 24 Nov, 11:36 AM PKT
 
 ## Publishing this run
-- Published 'Trump Demands Immediate Expedited Federal Executions While Blasting Gavin Newsom'.
+- Published 'US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia Scandal'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4244 | output tokens: 2094
+- Calls: 3 | prompt tokens: 5102 | output tokens: 1978
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {

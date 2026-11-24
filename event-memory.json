@@ -136145,7 +136145,822 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bbf9f35f3e4cfaea6d6e6150",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T01:48:33+00:00",
+      "last_update": "2026-11-24T05:19:31+00:00",
+      "event": "CM orders to double wheat, flour supply",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "double",
+        "flour",
+        "orders",
+        "supply",
+        "wheat"
+      ],
+      "source_excerpt": "CM orders to double wheat, flour supply Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GWXB0eUFkaDloQTZpUE9zSEFMSzdFRG1QcFlkVUo5eVlkTUQ1MXhYaWl1aW5aUkprM1BxR3otY3JNNFZqc2xEemIwYmtSdUtHSUNTelVKV1kzb1U4VFZjZ2RpeG1JOHNCUEdJbGNVM2x0MGJqMlMwYVJ5OEM?oc=5",
+          "published_at": "2026-11-24T01:48:33+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046618/punjab-cm-orders-to-double-wheat-flour-supply",
+          "published_at": "2026-11-24T05:19:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GWXB0eUFkaDloQTZpUE9zSEFMSzdFRG1QcFlkVUo5eVlkTUQ1MXhYaWl1aW5aUkprM1BxR3otY3JNNFZqc2xEemIwYmtSdUtHSUNTelVKV1kzb1U4VFZjZ2RpeG1JOHNCUEdJbGNVM2x0MGJqMlMwYVJ5OEM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d5c5c919215e62f7b956bf14",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T01:49:36+00:00",
+      "last_update": "2026-11-24T05:32:32+00:00",
+      "event": "11 more ‘illegal’ Afghan nationals detained",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghan",
+        "dawn",
+        "detained",
+        "illegal",
+        "more",
+        "nationals"
+      ],
+      "source_excerpt": "11 more ‘illegal’ Afghan nationals detained Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmJ1aF93cTVKSzVCV2dITm1fanRKMzd3bUZxanBIMlRyWXkwWncyS0lCNVhKQmFOTVhqZzdJREtBRFJiaEZDbm1nWDJoYVNmWFJJa3VwazVQY0lrYUprT1JzNGlxaUJKSVZ6cmtFdFE0V2RLb08tZ0gzUjVsak9qLQ?oc=5",
+          "published_at": "2026-11-24T01:49:36+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046599/11-more-illegal-afghan-nationals-detained-in-rawalpindi",
+          "published_at": "2026-11-24T05:32:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmJ1aF93cTVKSzVCV2dITm1fanRKMzd3bUZxanBIMlRyWXkwWncyS0lCNVhKQmFOTVhqZzdJREtBRFJiaEZDbm1nWDJoYVNmWFJJa3VwazVQY0lrYUprT1JzNGlxaUJKSVZ6cmtFdFE0V2RLb08tZ0gzUjVsak9qLQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0d62fbfae615034ad73f4c1d",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-23T23:14:12+00:00",
+      "last_update": "2026-11-24T05:07:50+00:00",
+      "event": "Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "calls",
+        "deterrence",
+        "express",
+        "for",
+        "iran",
+        "iranian",
+        "parliament",
+        "peace",
+        "says",
+        "seeks",
+        "speaker",
+        "stalemate",
+        "the",
+        "tribune",
+        "war",
+        "with"
+      ],
+      "source_excerpt": "Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence The Express Tribune",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdk1uNFpuUmQ2YmhTa3hmM2c5UFo4dlFvWnVNQkpmeEJQMWYyRzBXZE81QUg5SEdBQWtWZ1BJM3ZyOG4yYmhIRVJkWEYteUZCQ0JvUTRZMzBUMHc0YV9FVU53bU9XLXdKNDVYWXU4QzlycGtEQ1hGRVBJcGRiRDBQOENCN1htc2dWWEFWbzJLaGdObFJEelVJcXpacXdweGVFd0NnTnRaWUk5TFBtSTA2elBySkhOMFZVdGZsRmc2NThLV0VPNEVNMHQ0c1Fkcm1OT0RsajBCbjFwc0cyZnc?oc=5",
+          "published_at": "2026-11-23T23:14:12+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTnF4UWVpWmJwYVNtejZqay00RDVtenNzN0xLYmxSbVFmTjFVZWVVaDU1cmt3QjEzQXM0eGZadDlKS3Q4dzVOWlByTTVrN1NDcjFqX2t1a210SWctQm5pb0VaOHMzVWhmSFJkY0pHNkYzbkk1blJlNlltTFhtZ3AxQzdEa3lfdVYzaGJZVzZvUmtSZm0xMEFjczVsSFF6RUxudHhJaUN0VTBmcnhjWk9iQUtsNjFPc1ZvRTA5VzJ2Q2dkMUMxYmpqVUVqa0dJaE3SAdcBQVVfeXFMTVB1UmEtSnJ1RExTNUhfTkF1ckVaZ0dBd1F5c0xDZ3I4VGI5dmlvYWJ6TGZKQkF4UG1iTTkzcjJqRy1nb0hCRnVsVjV0R1ptSlZ3Z3h5SWVhci14UEVadkc2aEwyR3JlNmF0RWJPZHN0eE4xUFBUQmFGbVZZc2x0aG5qLXhobzZnX2ZHTEVOYWxnVk14b3pSc0tMZ25xUjI5d3MwcjF2Q2N5SnRiLTFzSlJGSUdzOXAtNkc1Ry1iU2o5TGd5XzU0VU5fcTQ3c0ZpWWttaWhqLU0?oc=5",
+          "published_at": "2026-11-24T05:07:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTnF4UWVpWmJwYVNtejZqay00RDVtenNzN0xLYmxSbVFmTjFVZWVVaDU1cmt3QjEzQXM0eGZadDlKS3Q4dzVOWlByTTVrN1NDcjFqX2t1a210SWctQm5pb0VaOHMzVWhmSFJkY0pHNkYzbkk1blJlNlltTFhtZ3AxQzdEa3lfdVYzaGJZVzZvUmtSZm0xMEFjczVsSFF6RUxudHhJaUN0VTBmcnhjWk9iQUtsNjFPc1ZvRTA5VzJ2Q2dkMUMxYmpqVUVqa0dJaE3SAdcBQVVfeXFMTVB1UmEtSnJ1RExTNUhfTkF1ckVaZ0dBd1F5c0xDZ3I4VGI5dmlvYWJ6TGZKQkF4UG1iTTkzcjJqRy1nb0hCRnVsVjV0R1ptSlZ3Z3h5SWVhci14UEVadkc2aEwyR3JlNmF0RWJPZHN0eE4xUFBUQmFGbVZZc2x0aG5qLXhobzZnX2ZHTEVOYWxnVk14b3pSc0tMZ25xUjI5d3MwcjF2Q2N5SnRiLTFzSlJGSUdzOXAtNkc1Ry1iU2o5TGd5XzU0VU5fcTQ3c0ZpWWttaWhqLU0?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6444e4d9e49c46204793ccc0",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T01:49:21+00:00",
+      "last_update": "2026-11-24T05:51:49+00:00",
+      "event": "Investigation launched as ‘diphtheria’ claims life in Bajaur",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bajaur",
+        "claims",
+        "dawn",
+        "diphtheria",
+        "investigation",
+        "launched",
+        "life"
+      ],
+      "source_excerpt": "Investigation launched as ‘diphtheria’ claims life in Bajaur Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVm9UMVZnbjdoVHBJMzhDdTR6aVN0WUcyeU03aXFwd0tTTG1nU1E1ZTVONWM4V3oxdkhoZXhOQVZsaGhzN3g3NTFxMEtZVGhtdVh4Z1hjbEhBUVkzN1BlY1lZVnZ0VFNob09mYVRqVG1WTmNOajlDYUNJY2FEbENGRXJ3aG5yaG5WMzVEdGFQSHFaVW9EdERN?oc=5",
+          "published_at": "2026-11-24T01:49:21+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046632/investigation-launched-as-diphtheria-claims-life-in-kps-bajaur",
+          "published_at": "2026-11-24T05:51:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVm9UMVZnbjdoVHBJMzhDdTR6aVN0WUcyeU03aXFwd0tTTG1nU1E1ZTVONWM4V3oxdkhoZXhOQVZsaGhzN3g3NTFxMEtZVGhtdVh4Z1hjbEhBUVkzN1BlY1lZVnZ0VFNob09mYVRqVG1WTmNOajlDYUNJY2FEbENGRXJ3aG5yaG5WMzVEdGFQSHFaVW9EdERN?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "82da68883452b36d210172db",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T01:49:21+00:00",
+      "last_update": "2026-11-24T05:47:58+00:00",
+      "event": "MNJ Road closed to traffic until next summer",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "closed",
+        "dawn",
+        "mnj",
+        "next",
+        "road",
+        "summer",
+        "traffic",
+        "until"
+      ],
+      "source_excerpt": "MNJ Road closed to traffic until next summer Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTAyYlFUM3lpNlFTS2VST2NlRElITTE3dU5GZTBNMFdoWUExNjJUSVRHd0gyVGtZSXhTTTdGTFp1OGIwTUVZVzNnangwWDhSR0hFUko1a2VhQjJGTnBsYXVOVS13U0hoN2hHWjlFYjBZdTBWLVZVQUpxY3pHR2N5amg3RUY?oc=5",
+          "published_at": "2026-11-24T01:49:21+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92d3VJeTJHeDhNb2VnRWN5TTBCT2lpOTFjUnlFUWE5S3NQRmNyNGoyejd4UVJScmlISU5zU2g5eWRfMUtYTU9yNA?oc=5",
+          "published_at": "2026-11-24T05:47:58+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046662/kps-mnj-road-closed-to-traffic-until-next-summer",
+          "published_at": "2026-11-24T05:47:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTAyYlFUM3lpNlFTS2VST2NlRElITTE3dU5GZTBNMFdoWUExNjJUSVRHd0gyVGtZSXhTTTdGTFp1OGIwTUVZVzNnangwWDhSR0hFUko1a2VhQjJGTnBsYXVOVS13U0hoN2hHWjlFYjBZdTBWLVZVQUpxY3pHR2N5amg3RUY?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4b0372d31e998199f8e0ab49",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T01:49:21+00:00",
+      "last_update": "2026-11-24T05:57:04+00:00",
+      "event": "Life returning to Tirah with return of displaced persons",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "displaced",
+        "life",
+        "persons",
+        "return",
+        "returning",
+        "tirah",
+        "with"
+      ],
+      "source_excerpt": "Life returning to Tirah with return of displaced persons Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMkZ3eHI0a2ZBaGdHYjVPNzFzczVBcHE3TnN6SkRsWUFScnQ1T08xX1ViN1BseDNZbExXTVJ1WlNiQnNzVXJ5TElPbF96Ri1CNjhrQ0c4N2JMQktOMTZPckIzU1JmaG1hTl9XNDk0akFobVBwdjByUkJjbHFjZF9wbGkzQ3NGWHlHbmc2TkRoeWp2ZGwt?oc=5",
+          "published_at": "2026-11-24T01:49:21+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046648/life-returning-to-tirah-with-return-of-displaced-persons",
+          "published_at": "2026-11-24T05:57:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMkZ3eHI0a2ZBaGdHYjVPNzFzczVBcHE3TnN6SkRsWUFScnQ1T08xX1ViN1BseDNZbExXTVJ1WlNiQnNzVXJ5TElPbF96Ri1CNjhrQ0c4N2JMQktOMTZPckIzU1JmaG1hTl9XNDk0akFobVBwdjByUkJjbHFjZF9wbGkzQ3NGWHlHbmc2TkRoeWp2ZGwt?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a405f61269bffdc2677ea4b8",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T01:48:09+00:00",
+      "last_update": "2026-11-24T05:14:04+00:00",
+      "event": "Primary schoolteachers hold sit-in near Bhuttos’ mausoleum",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bhuttos",
+        "dawn",
+        "hold",
+        "mausoleum",
+        "near",
+        "primary",
+        "schoolteachers",
+        "sit"
+      ],
+      "source_excerpt": "Primary schoolteachers hold sit-in near Bhuttos’ mausoleum Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWkZGYS1YWlpQNUIzWi1Bc09ScmpBeUtmTGFheGFycGlCVDNlVUg1MFh4SUFGNFdjQl8yU1NLWVFyelBlVjBUVGwtX2Mzc0lEMlRZRC1rdVZJS3NDcGJPQjR1SDdRYjVBT1FTUnFiMHZoRFcxMmFwSTRZbUZiMDViLTlmNFg2ZTVTWUZiLUJjaVl1V19HYkE?oc=5",
+          "published_at": "2026-11-24T01:48:09+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046619/primary-schoolteachers-hold-sit-in-near-bhuttos-mausoleum-in-larkana",
+          "published_at": "2026-11-24T05:14:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWkZGYS1YWlpQNUIzWi1Bc09ScmpBeUtmTGFheGFycGlCVDNlVUg1MFh4SUFGNFdjQl8yU1NLWVFyelBlVjBUVGwtX2Mzc0lEMlRZRC1rdVZJS3NDcGJPQjR1SDdRYjVBT1FTUnFiMHZoRFcxMmFwSTRZbUZiMDViLTlmNFg2ZTVTWUZiLUJjaVl1V19HYkE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b2a145100578398c2444e948",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T04:59:13+00:00",
+      "last_update": "2026-11-24T04:59:13+00:00",
+      "event": "Pennsylvania reports ninth measles death in ongoing state outbreak",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "cdc",
+        "counties",
+        "crisis",
+        "death",
+        "deaths",
+        "differ",
+        "escalating",
+        "faces",
+        "figures",
+        "health",
+        "measles",
+        "ninth",
+        "ongoing",
+        "outbreak",
+        "pennsylvania",
+        "reports",
+        "state"
+      ],
+      "source_excerpt": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+          "published_at": "2026-11-24T04:59:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f6e21ed29562a6e9a65d791d",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T05:33:07+00:00",
+      "last_update": "2026-11-24T05:33:07+00:00",
+      "event": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airport",
+        "authorities",
+        "been",
+        "cockroach",
+        "das",
+        "delhi",
+        "flagged",
+        "flying",
+        "from",
+        "had",
+        "him",
+        "his",
+        "immigration",
+        "india",
+        "leader",
+        "party",
+        "passport",
+        "said",
+        "saurav",
+        "says",
+        "stopped",
+        "that",
+        "told",
+        "was"
+      ],
+      "source_excerpt": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T05:33:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f119e4be956de84744e2addc",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T05:43:16+00:00",
+      "last_update": "2026-11-24T05:43:16+00:00",
+      "event": "Digital gateway launched in Sindh for youth to access banking, education and jobs",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "100",
+        "access",
+        "across",
+        "all",
+        "and",
+        "banking",
+        "begins",
+        "card",
+        "chief",
+        "digital",
+        "districts",
+        "education",
+        "expanded",
+        "financial",
+        "first",
+        "for",
+        "gateway",
+        "govt",
+        "initiative",
+        "jobs",
+        "karachi",
+        "launched",
+        "million",
+        "minister",
+        "murad",
+        "one",
+        "organisations",
+        "people",
+        "phase",
+        "private",
+        "provide",
+        "registration",
+        "says",
+        "sector",
+        "select",
+        "sindh",
+        "support",
+        "syed",
+        "system",
+        "under",
+        "will",
+        "young",
+        "youth"
+      ],
+      "source_excerpt": "• Under Sindh Youth Card, govt, financial organisations and private sector will provide support system to young people, says Murad • Registration begins across all 30 districts to select 100,000 young people in first phase; initiative to be expanded to one million KARACHI: Chief Minister Syed Murad",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046641/digital-gateway-launched-in-sindh-for-youth-to-access-banking-education-and-jobs",
+          "published_at": "2026-11-24T05:43:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046641/digital-gateway-launched-in-sindh-for-youth-to-access-banking-education-and-jobs",
+        "publisher_url": "https://www.dawn.com/news/2046641/digital-gateway-launched-in-sindh-for-youth-to-access-banking-education-and-jobs",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "77c0b176336612d030ee5356",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T05:30:21+00:00",
+      "last_update": "2026-11-24T05:30:21+00:00",
+      "event": "Capital Development Authority receives lowest bid of Rs14.6bn for new convention centre in Islamabad",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "6bn",
+        "and",
+        "authority",
+        "bid",
+        "bids",
+        "billion",
+        "capital",
+        "cda",
+        "centre",
+        "construction",
+        "convention",
+        "cooperation",
+        "development",
+        "financial",
+        "for",
+        "islamabad",
+        "jcc",
+        "jinnah",
+        "lowest",
+        "monday",
+        "new",
+        "next",
+        "opened",
+        "organisation",
+        "receives",
+        "recorded",
+        "rs14",
+        "sco",
+        "shanghai",
+        "summit",
+        "the",
+        "upgradation",
+        "with",
+        "year"
+      ],
+      "source_excerpt": "ISLAMABAD: The Capital Development Authority (CDA) on Monday opened financial bids for the construction of a new convention centre and upgradation of Jinnah Convention Centre (JCC) for the next year’s Shanghai Cooperation Organisation (SCO) summit, with the lowest bid recorded at Rs14.6 billion. The",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046603/capital-development-authority-receives-lowest-bid-of-rs146bn-for-new-convention-centre-in-islamabad",
+          "published_at": "2026-11-24T05:30:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046603/capital-development-authority-receives-lowest-bid-of-rs146bn-for-new-convention-centre-in-islamabad",
+        "publisher_url": "https://www.dawn.com/news/2046603/capital-development-authority-receives-lowest-bid-of-rs146bn-for-new-convention-centre-in-islamabad",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d5e4e5e3fe96cfd4643ee242",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T05:09:59+00:00",
+      "last_update": "2026-11-24T05:09:59+00:00",
+      "event": "Sindh govt won’t allow occupation of land vacated by Afghans, PA told",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghan",
+        "afghans",
+        "after",
+        "allow",
+        "anyone",
+        "assembly",
+        "been",
+        "decades",
+        "for",
+        "government",
+        "govt",
+        "had",
+        "informed",
+        "issue",
+        "jamaat",
+        "karachi",
+        "land",
+        "large",
+        "living",
+        "lone",
+        "member",
+        "monday",
+        "nationals",
+        "not",
+        "number",
+        "occupation",
+        "occupy",
+        "outskirts",
+        "provincial",
+        "raised",
+        "repatriation",
+        "sindh",
+        "that",
+        "the",
+        "told",
+        "vacated",
+        "was",
+        "who",
+        "won",
+        "would"
+      ],
+      "source_excerpt": "KARACHI: The Sindh Assembly was informed on Monday that the provincial government would not allow anyone to occupy land vacated after the repatriation of a large number of Afghan nationals who had been living on Karachi’s outskirts for decades. The issue was raised by the lone member of the Jamaat-i",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046634/sindh-govt-wont-allow-occupation-of-land-vacated-by-afghans-pa-told",
+          "published_at": "2026-11-24T05:09:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046634/sindh-govt-wont-allow-occupation-of-land-vacated-by-afghans-pa-told",
+        "publisher_url": "https://www.dawn.com/news/2046634/sindh-govt-wont-allow-occupation-of-land-vacated-by-afghans-pa-told",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7618250b0863456970890c88",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T05:58:58+00:00",
+      "last_update": "2026-11-24T05:58:58+00:00",
+      "event": "Mustafa Kamal supports ban on infant formula advertisements in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advertisements",
+        "ban",
+        "formula",
+        "infant",
+        "kamal",
+        "mustafa",
+        "pakistan",
+        "supports"
+      ],
+      "source_excerpt": "Mustafa Kamal supports ban on infant formula advertisements in Pakistan",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/mustafa-kamal-supports-ban-on-infant-formula-ads-in-pakistan",
+          "published_at": "2026-11-24T05:58:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/mustafa-kamal-supports-ban-on-infant-formula-ads-in-pakistan",
+        "publisher_url": "https://arynews.tv/mustafa-kamal-supports-ban-on-infant-formula-ads-in-pakistan",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6fa6962785bc82f51fde39f7",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T05:50:46+00:00",
+      "last_update": "2026-11-24T05:50:46+00:00",
+      "event": "Agreement signed to outsource Karachi and Lahore airports",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreement",
+        "airports",
+        "and",
+        "karachi",
+        "lahore",
+        "outsource",
+        "signed"
+      ],
+      "source_excerpt": "Agreement signed to outsource Karachi and Lahore airports",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/agreement-signed-to-outsource-karachi-and-lahore-airports",
+          "published_at": "2026-11-24T05:50:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/agreement-signed-to-outsource-karachi-and-lahore-airports",
+        "publisher_url": "https://arynews.tv/agreement-signed-to-outsource-karachi-and-lahore-airports",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cd4ea6152d5cb9ada3ac95f1",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T05:48:58+00:00",
+      "last_update": "2026-11-24T05:48:58+00:00",
+      "event": "Five terrorists killed in CTD operation in Peshawar",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ctd",
+        "five",
+        "killed",
+        "operation",
+        "peshawar",
+        "terrorists"
+      ],
+      "source_excerpt": "Five terrorists killed in CTD operation in Peshawar",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/five-terrorists-killed-in-ctd-operation-in-peshawar",
+          "published_at": "2026-11-24T05:48:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/five-terrorists-killed-in-ctd-operation-in-peshawar",
+        "publisher_url": "https://arynews.tv/five-terrorists-killed-in-ctd-operation-in-peshawar",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cb67f2eba7541fbae1bc63f5",
+      "remembered_at": "2026-11-24T06:06:04.824268+00:00",
+      "event_date": "2026-11-24T05:24:02+00:00",
+      "last_update": "2026-11-24T05:24:02+00:00",
+      "event": "Punjab introduces QR code system for sanitation complaints",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "code",
+        "complaints",
+        "for",
+        "introduces",
+        "punjab",
+        "sanitation",
+        "system"
+      ],
+      "source_excerpt": "Punjab introduces QR code system for sanitation complaints",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-introduces-qr-code-system-for-sanitation-complaints",
+          "published_at": "2026-11-24T05:24:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-introduces-qr-code-system-for-sanitation-complaints",
+        "publisher_url": "https://arynews.tv/punjab-introduces-qr-code-system-for-sanitation-complaints",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T05:02:26.933631+00:00"
+  "updated_at": "2026-11-24T06:06:04.824268+00:00"
 }
