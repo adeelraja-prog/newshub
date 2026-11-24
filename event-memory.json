@@ -142318,7 +142318,799 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2302a7c9f5c27622a1d19f77",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T10:19:31+00:00",
+      "last_update": "2026-11-24T14:22:04+00:00",
+      "event": "Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "business",
+        "dawn",
+        "deteriorates",
+        "mideast",
+        "oicci",
+        "pakistan",
+        "says",
+        "sentiment",
+        "sharply",
+        "tensions"
+      ],
+      "source_excerpt": "Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI Dawn",
+      "sources": [
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUJSYktjR2lWS3VQT1dnbmNXQkRMUWpmTm91STN2TlNTbGpBenFEcFJsMDNMVG81RWgxRWd3WFF6V2MyR2Z4TVVVRDRHVzRJaTRTRXhWT1c4NVN2WWc0WTh0Q3pnWjJXQmlNZHZEbTdLazRpTjM4Y3Z1S2ZIZ1ducnpvUTRCNHRnNHB2cEZkMm5aT2FyM3JwMl9sYjUwekh6ZnhkLW5MX0hqQW9fX0E4TFVuZWJhMTVNZW5ILVh2XzViNjJtVGlPYVgwNVY?oc=5",
+          "published_at": "2026-11-24T10:19:31+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/24/foreign-investor-confidence-pakistan-crashes-oicci/",
+          "published_at": "2026-11-24T10:38:35+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUk43cDBBTTZJUmd1bGplT0FEaXZHNVlnaHQzY1BRV2lfLUFsTW95M3NJZmU3eE9HdVpWY1F2SU9HbGY0M1JzY042SWoydVNtM2lJVmxUOWpGVHZwX3pnNjVlMG5OWUNnRU5MSEVsd1NjTzdnR19mXzhxRVY1cmFZdFFtbUVtRm9LbGEwUEcyRDh4QkhfeVRLaWluS2p4blQ4c0FESVFmTGpjQUxSbzIwNHdQSVd5QW5wRlUyeVBZUVBjNk14d1AyeVM3YmQ?oc=5",
+          "published_at": "2026-11-24T11:14:54+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzBfVEV4X2FkTjZKSEh2Znk1OWczTWY5NkQwM0lkWnlvYXl4bzQ4NnoxWmZ4YjItbkJqZzNxUFYxQk5MVi16THpXdXN2aE03N1ZMVmJCclNKR2xzTkU5a2hQX1NlZlZuVjQ3YXJsMW1kRTRFek42Q3dZNS13YXRTcnRQSFVrVGx6QUlTZWkzVHhPZUxQQ0M2eEdNVFhFZ1VaV3ZRQ3p4Zk1sbVRfWnZ2Ri03SHJBUWs?oc=5",
+          "published_at": "2026-11-24T14:22:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzBfVEV4X2FkTjZKSEh2Znk1OWczTWY5NkQwM0lkWnlvYXl4bzQ4NnoxWmZ4YjItbkJqZzNxUFYxQk5MVi16THpXdXN2aE03N1ZMVmJCclNKR2xzTkU5a2hQX1NlZlZuVjQ3YXJsMW1kRTRFek42Q3dZNS13YXRTcnRQSFVrVGx6QUlTZWkzVHhPZUxQQ0M2eEdNVFhFZ1VaV3ZRQ3p4Zk1sbVRfWnZ2Ri03SHJBUWs?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d714e91ff1b5cc99374640b7",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T14:35:56+00:00",
+      "last_update": "2026-11-24T15:01:50+00:00",
+      "event": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "africa",
+        "arbitration",
+        "controversial",
+        "court",
+        "cup",
+        "favour",
+        "final",
+        "for",
+        "january",
+        "morocco",
+        "nations",
+        "over",
+        "reinstated",
+        "rules",
+        "senegal",
+        "sport",
+        "the",
+        "winners"
+      ],
+      "source_excerpt": "Court of Arbitration for Sport rules in Senegal's favour over the controversial final in January.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss",
+          "published_at": "2026-11-24T14:35:56+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/senegal-reinstated-as-2025-africa-cup-of-nations-winners",
+          "published_at": "2026-11-24T15:01:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b3a34b60346743ec9f6f0522",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T10:11:14+00:00",
+      "last_update": "2026-11-24T14:40:00+00:00",
+      "event": "Islamabad United snap up Matt Henry, Karachi Kings secure Adil Rashid as direct signings for PSL 12",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "12th",
+        "adil",
+        "also",
+        "bowler",
+        "direct",
+        "edition",
+        "england",
+        "facility",
+        "fast",
+        "for",
+        "have",
+        "henry",
+        "islamabad",
+        "karachi",
+        "kings",
+        "league",
+        "leg",
+        "marquee",
+        "matt",
+        "multan",
+        "new",
+        "pakistan",
+        "psl",
+        "rashid",
+        "secure",
+        "secured",
+        "services",
+        "signed",
+        "signing",
+        "signings",
+        "snap",
+        "spinner",
+        "sultans",
+        "super",
+        "the",
+        "their",
+        "united",
+        "utilised",
+        "while",
+        "zealand"
+      ],
+      "source_excerpt": "Islamabad United have signed New Zealand fast bowler Matt Henry, while Karachi Kings have secured the services of England leg-spinner Adil Rashid as their marquee direct signings for the 12th edition of the Pakistan Super League (PSL). Multan Sultans have also utilised the direct-signing facility, b",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
+          "published_at": "2026-11-24T10:11:14+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmlkdU91ejJ2MmIxSmxPWTNfVndNOUd2dGQ1bWljOXdsaDZkTE1TWFZPTlZkOHFWMU93MWg5TG9zUEtibmRsb1ZaazZWYV96STE0QUpGeWZOT0Y1YzBuX0V1UUJQd3EyeVhjdGZYT2xvVmRibkVKNVpPZXVGTkRvTG8xVXlPUmE1amZuWjRiOEJrSFByQUh5cTNGX3JnS2s1eGxpZFE4OUlsU0VlY3c?oc=5",
+          "published_at": "2026-11-24T14:40:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
+        "publisher_url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f4f0e99d128709bdd92dab25",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T10:36:00+00:00",
+      "last_update": "2026-11-24T15:12:31+00:00",
+      "event": "Stormy Thanksgiving for millions across US as East and West Coast brace for travel trouble",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "americans",
+        "and",
+        "area",
+        "brace",
+        "bring",
+        "coast",
+        "coastal",
+        "day",
+        "east",
+        "for",
+        "forecasters",
+        "gusty",
+        "millions",
+        "powerful",
+        "preparing",
+        "rain",
+        "set",
+        "state",
+        "storm",
+        "stormy",
+        "thanksgiving",
+        "the",
+        "travel",
+        "tri",
+        "trouble",
+        "west",
+        "winds",
+        "with"
+      ],
+      "source_excerpt": "Stormy Thanksgiving for millions across US as East and West Coast brace for travel trouble A powerful coastal storm is set to bring rain and gusty winds to the Tri-State area on Thanksgiving Day. With millions of Americans preparing to travel for Thanksgiving, forecasters...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692443-stormy-thanksgiving-for-millions-across-us-as-east-and-west-coast-brace-for-travel-trouble",
+          "published_at": "2026-11-24T10:36:00+00:00"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
+          "published_at": "2026-11-24T15:12:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692443-stormy-thanksgiving-for-millions-across-us-as-east-and-west-coast-brace-for-travel-trouble",
+        "publisher_url": "https://www.geo.tv/latest/692443-stormy-thanksgiving-for-millions-across-us-as-east-and-west-coast-brace-for-travel-trouble",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cd4efe1441a0f46bec206c20",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T15:25:59+00:00",
+      "last_update": "2026-11-24T15:25:59+00:00",
+      "event": "Punjab Assembly adopts resolution seeking tougher punishment for blasphemy",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adopts",
+        "assembly",
+        "blasphemy",
+        "dawn",
+        "for",
+        "punishment",
+        "punjab",
+        "resolution",
+        "seeking",
+        "tougher"
+      ],
+      "source_excerpt": "Punjab Assembly adopts resolution seeking tougher punishment for blasphemy Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0FmY3VLNjBxMGJaaUVxSHZaVXNTRFlfN0c5TmJaOTlLUXI4TV9XWHlDT1B6b2MzMVJ1UXFkYUdYYk5CMEo4T2FhaGcwSkxKMzJPd2FZbUZqV3B4aGJDYThReUh2S2hzdnVkTGt4QTUxSGdqYm5EQW13dXNFMU9ONGUwcXRJNFE1TWhScE1KUHg2TEV4anRtUXdqeVVLQlNsQktWVUcwaXhvRkQ2?oc=5",
+          "published_at": "2026-11-24T15:25:59+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046787/punjab-assembly-adopts-resolution-seeking-tougher-punishment-for-blasphemy",
+          "published_at": "2026-11-24T15:25:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0FmY3VLNjBxMGJaaUVxSHZaVXNTRFlfN0c5TmJaOTlLUXI4TV9XWHlDT1B6b2MzMVJ1UXFkYUdYYk5CMEo4T2FhaGcwSkxKMzJPd2FZbUZqV3B4aGJDYThReUh2S2hzdnVkTGt4QTUxSGdqYm5EQW13dXNFMU9ONGUwcXRJNFE1TWhScE1KUHg2TEV4anRtUXdqeVVLQlNsQktWVUcwaXhvRkQ2?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a62a2c738d2b311816daa67e",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T11:51:49+00:00",
+      "last_update": "2026-11-24T13:30:48+00:00",
+      "event": "Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "300",
+        "gold",
+        "nov",
+        "pakistan",
+        "per",
+        "price",
+        "rises",
+        "rs1",
+        "samaa",
+        "tola"
+      ],
+      "source_excerpt": "Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 samaa tv",
+      "sources": [
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0lMTUhfQTZWNlB6QVNYVmlMRC1LTmFFakNTNWpxTkVheHlTSWEtc1NQeHhCM2gwdy1YSFowQU5iZEtHTlRxN3Q0MjlOckM3ZVNFTHRXcnhFUlc2b0tMeDlqd01hR2ZxNEpGN09wekgzeUNMeURJeTZKbVhoRkZJcm8yRkhha1JLTVRraEI5bktoUQ?oc=5",
+          "published_at": "2026-11-24T11:51:49+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdU1uUVBnYzljeDQzQlloQWpqclJqTDhHSmh3cDZORTJJNXZ5QjIyVU9UOXZIUmVpU21RODI2QU5zc3BkOEdRQ2FMZ2FzcVJWN3hFN0JDQUVrclcxcTNTS1MzRUZrUnBYQkF0ZEdCQ1pQZVhWcVotSkJaTVFJYU5mNUtmRnRSVWp5NXpIZ3dHbVpHZw?oc=5",
+          "published_at": "2026-11-24T11:51:49+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXpMMGRrT2dMb2NnMm5Za2V6N3M4M254Y1lyV01IWmtTV2xhM2Z1UXpRdl9NblI1MEFodGpUeHotRTNSMnUyNk5NaUpwS3lQYkJ3OGlSZkNtVEJPSjg2azkzalduSnRJdFprRmcwMzhnc1h1Zy15cGlwc3pUdmlzMlNiNl9iTFhBWFU0YkFHQ1Z5QQ?oc=5",
+          "published_at": "2026-11-24T11:54:08+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1FUdVgtRWhMX3lFbFRNX3lkajRBY3hTSERuenVhYnFSQ0tDdVR5d0oxNlFYSFhnRzFwN1dHVVNrenR1MUxVSFU4OGtTTTRpbFNZaGpGVjVvVmdNZGEwVVVZU0ZScmRXUjlwZHVNajg3cWhUVk1uQnBKMkFlYWYtd3dkc2NmemlSWkJRdnVmWnRLVTA4RVlj?oc=5",
+          "published_at": "2026-11-24T12:02:28+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWVZbDIwTjZxbkFvbGNnYWVMWkZ4cW9ldElMaXB4ZXh0MXZ2MzRxb3lVOEU1V1NiNzRyOVgzRFJHbzFNVVdOcnJOanNqdXc1WXBhc0JWRjZhYnAwSVpoN1kxSXU1WnFqZ1RrdDZGVm1RaEplRVR6Nmc5YmVlMFhnbjNCSVRVbjhCcWhXRDM0ODdkZw?oc=5",
+          "published_at": "2026-11-24T13:30:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1FUdVgtRWhMX3lFbFRNX3lkajRBY3hTSERuenVhYnFSQ0tDdVR5d0oxNlFYSFhnRzFwN1dHVVNrenR1MUxVSFU4OGtTTTRpbFNZaGpGVjVvVmdNZGEwVVVZU0ZScmRXUjlwZHVNajg3cWhUVk1uQnBKMkFlYWYtd3dkc2NmemlSWkJRdnVmWnRLVTA4RVlj?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fc83bf29f5d99c6d0455fde6",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T15:19:47+00:00",
+      "last_update": "2026-11-24T15:19:47+00:00",
+      "event": "UK police arrest two after break-in at Prince William’s country residence",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "arrest",
+        "arrests",
+        "break",
+        "country",
+        "eastern",
+        "england",
+        "estate",
+        "family",
+        "made",
+        "norfolk",
+        "police",
+        "prince",
+        "property",
+        "residence",
+        "royal",
+        "sandringham",
+        "the",
+        "two",
+        "were",
+        "william"
+      ],
+      "source_excerpt": "The arrests were made at a property on ⁠⁠⁠⁠the royal family's Sandringham estate in Norfolk, eastern England.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss",
+          "published_at": "2026-11-24T15:19:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a9b334400ab9ff920c4815b9",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T15:10:29+00:00",
+      "last_update": "2026-11-24T15:14:33+00:00",
+      "event": "How the Iran war is reshaping the US military presence in the Middle East",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "could",
+        "domestic",
+        "east",
+        "experts",
+        "fallout",
+        "force",
+        "from",
+        "how",
+        "iran",
+        "middle",
+        "military",
+        "opposition",
+        "permanent",
+        "presence",
+        "reshaping",
+        "say",
+        "smaller",
+        "the",
+        "war"
+      ],
+      "source_excerpt": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
+          "published_at": "2026-11-24T15:10:29+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1lWbk8tVk1NdEplNmRSV2VFb1RGampOZmZQVy00VUUyRHZsYURmWFF6N3ZpRUI5MW45Y01oUUFxeW1vVkNEaXo3c1dqU0JuYmZEOXlVOXlZSlV6S200OEJZQXZTV1RHZ1RQRi1FcGROTTc5cFNkV084VHFfTWJ4dUhCbzgwSlZzUnZiVUYwVDZ3R3hHYVZ3b0F2Y3J1NDVSdmhMQWdfQTYwREE5UXFpeFZGd2J6d9IBuwFBVV95cUxPRzF3TWtNM1BFSFdlbV9wb1dyUjBPak0wUFlVYU1NSHRlVHhJNTRUT0x2bWhYT0g1NUlhTXRCMTM3aG9SLWZsd0FyMWxLRllNWnlXejZVYV9VY3pndkk3am1TaHRlNTFEdGhUM1FzR0k1RmZHc2FhemN2a3lJZHdnUUdrOVpvTGJkRmpVRzlMc2tMWWhuWjJPemJXc1RMaFFJYllzUTR0QXJHMi13aWkxeDJIb0JjMndreExr?oc=5",
+          "published_at": "2026-11-24T15:14:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0ec5c63a8693df073c70ccf4",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T15:09:00+00:00",
+      "last_update": "2026-11-24T15:09:00+00:00",
+      "event": "How Brazil’s mosquitoes are helping to fight dengue",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "battle",
+        "brazil",
+        "dengue",
+        "diseases",
+        "engineer",
+        "fight",
+        "helping",
+        "how",
+        "increasingly",
+        "mosquitoes",
+        "novel",
+        "scientists",
+        "spread",
+        "the",
+        "them",
+        "they",
+        "use",
+        "using",
+        "ways"
+      ],
+      "source_excerpt": "Scientists are increasingly using novel ways to re-engineer mosquitoes and use them to battle the diseases they spread.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss",
+          "published_at": "2026-11-24T15:09:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "405fa417023ff8f655291501",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T14:56:18+00:00",
+      "last_update": "2026-11-24T14:56:18+00:00",
+      "event": "Russia tows it cargo ship back home after Ukrainian drone attack",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "attack",
+        "back",
+        "cargo",
+        "drone",
+        "finland",
+        "gulf",
+        "home",
+        "russia",
+        "russian",
+        "ship",
+        "sparta",
+        "the",
+        "towed",
+        "tows",
+        "ukrainian",
+        "was",
+        "waters"
+      ],
+      "source_excerpt": "The Russian cargo ship Sparta II was towed back to home waters after a Ukrainian drone attack in the Gulf of Finland",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
+          "published_at": "2026-11-24T14:56:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e9bd4b6a910031aa6d1c7eec",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T14:50:02+00:00",
+      "last_update": "2026-11-24T14:50:02+00:00",
+      "event": "The photos from Gaza resonating with the people of Sarajevo",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "children",
+        "exhibition",
+        "from",
+        "gaza",
+        "grows",
+        "killed",
+        "names",
+        "out",
+        "people",
+        "photography",
+        "photos",
+        "reading",
+        "resonating",
+        "sarajevo",
+        "solidarity",
+        "the",
+        "vigil",
+        "weekly",
+        "with"
+      ],
+      "source_excerpt": "From a photography exhibition to a weekly vigil reading out the names of killed children, solidarity grows in Sarajevo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/24/the-photographs-from-gaza-that-sarajevo-took-home?traffic_source=rss",
+          "published_at": "2026-11-24T14:50:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/24/the-photographs-from-gaza-that-sarajevo-took-home?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/24/the-photographs-from-gaza-that-sarajevo-took-home?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fbb79a04b923a85fbf9ea53b",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T14:27:38+00:00",
+      "last_update": "2026-11-24T14:27:38+00:00",
+      "event": "Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "building",
+        "coalition",
+        "condemns",
+        "district",
+        "financial",
+        "led",
+        "marking",
+        "riyadh",
+        "saudi",
+        "says",
+        "second",
+        "targeted",
+        "terrorist",
+        "the",
+        "time",
+        "tower",
+        "week"
+      ],
+      "source_excerpt": "The Saudi-led coalition says building in financial district targeted, marking second time in a week.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
+          "published_at": "2026-11-24T14:27:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "444fed97343ec4910eec059d",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T15:17:28+00:00",
+      "last_update": "2026-11-24T15:17:28+00:00",
+      "event": "Land mine casualties soar in Syria, two years after war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "after",
+        "among",
+        "are",
+        "casualties",
+        "children",
+        "conflict",
+        "explosives",
+        "figures",
+        "from",
+        "injured",
+        "killed",
+        "land",
+        "left",
+        "mine",
+        "nearly",
+        "over",
+        "show",
+        "soar",
+        "syria",
+        "the",
+        "those",
+        "two",
+        "war",
+        "years"
+      ],
+      "source_excerpt": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T15:17:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8f7fcb50cf811a3760b066bb",
+      "remembered_at": "2026-11-24T15:38:30.244720+00:00",
+      "event_date": "2026-11-24T14:19:07+00:00",
+      "last_update": "2026-11-24T14:19:07+00:00",
+      "event": "Man admits manslaughter after Bromeswell punch killing",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admits",
+        "after",
+        "bbc",
+        "bromeswell",
+        "killing",
+        "man",
+        "manslaughter",
+        "punch"
+      ],
+      "source_excerpt": "Man admits manslaughter after Bromeswell punch killing BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGlOWU0zWTRkZmlXcmNFeWxqb05CTkN5ZGp3S2NzSGlTZ28zcnE2bDFuQWJsYnRzQUVVdU1Na0EwVnZpclJzT2JYLTllS21oeVdETS1DdEJLdFhrWVp0QkZOcmVNOXJHM3dfQjB5bE1fYnVQS3ZiSElIYmpmemV4Qjh4Y2lBMWJsb1ozd2dFU2lwOTVxQVNpRUk3cUpVeVJZMHRtN3B4bFU4REJNMGtWNmloT3J3VGV2aUxid3NDMld0c1hoXy1vR2w3dlA5U3NkYldXdnNmcFRZVWdWcWZ0emhqcw?oc=5",
+          "published_at": "2026-11-24T14:19:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGlOWU0zWTRkZmlXcmNFeWxqb05CTkN5ZGp3S2NzSGlTZ28zcnE2bDFuQWJsYnRzQUVVdU1Na0EwVnZpclJzT2JYLTllS21oeVdETS1DdEJLdFhrWVp0QkZOcmVNOXJHM3dfQjB5bE1fYnVQS3ZiSElIYmpmemV4Qjh4Y2lBMWJsb1ozd2dFU2lwOTVxQVNpRUk3cUpVeVJZMHRtN3B4bFU4REJNMGtWNmloT3J3VGV2aUxid3NDMld0c1hoXy1vR2w3dlA5U3NkYldXdnNmcFRZVWdWcWZ0emhqcw?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T14:29:41.877278+00:00"
+  "updated_at": "2026-11-24T15:38:30.244720+00:00"
 }

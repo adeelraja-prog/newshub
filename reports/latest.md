@@ -1,54 +1,53 @@
-# News Hub report - Tue 24 Nov, 07:29 PM PKT
+# News Hub report - Tue 24 Nov, 08:38 PM PKT
 
 ## Collection
-- New items this run: 176 | items in rolling pool: 994
-- Unique story clusters: 800 (duplicates merged: 194)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 100, Geo News 12, Al Jazeera 12, ProPakistani 8, TechJuice 7, samaa tv 5, Dawn Pakistan 4, ARY News 4, Engadget 3, Dawn 2, Pakistan Today 2, Jang Urdu 1
+- New items this run: 153 | items in rolling pool: 1041
+- Unique story clusters: 826 (duplicates merged: 215)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 80, Geo News 12, Pakistan Today 10, Al Jazeera 9, ARY News 6, TechJuice 5, Dawn 3, ARYnews.tv 2, samaa tv 2, AP News 2, The Verge 2, GSMArena 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Donald slams explosive 85 as England thrash Australia in 2nd T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz assures KP governor of continued support to eliminate terrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad United snap up Matt Henry, Karachi Kings secure Adil Rashid as direct signings for PSL 12 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Donald slams explosive 85 as England thrash Australia in 2nd T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz assures KP governor of continued support to eliminate terrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad United snap up Matt Henry, Karachi Kings secure Adil Rashid as direct signings for PSL 12 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Donald slams explosive 85 as England thrash Australia in 2nd T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz assures KP governor of continued support to eliminate terrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad United snap up Matt Henry, Karachi Kings secure Adil Rashid as direct signings for PSL 12 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 5 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 10
 
 ## Queue status
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
-- [needs_review] normal | Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as  | Sat 21 Nov, 01:59 PM PKT
-- [needs_review] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
 - [needs_review] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
 - [needs_review] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
@@ -56,10 +55,8 @@
 - [needs_review] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
 - [needs_review] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
 - [needs_review] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
-- [published] normal | Former Nvidia CEO Jensen Huang to testify at public US Senate hearing | Sat 21 Nov, 08:17 PM PKT
 - [needs_review] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
 - [needs_review] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
-- [published] normal | Pakistan crush USA 5-1 to maintain top spot in Azlan Shah Cup | Sat 21 Nov, 08:47 PM PKT
 - [needs_review] normal | US Midterms 2026: What happens before the new Congress takes office? | Sat 21 Nov, 09:06 PM PKT
 - [needs_review] normal | Chaudhary's 66 helps Australia edge past England in first T20 | Sat 21 Nov, 09:16 PM PKT
 - [published] normal | Gujranwala: Neighbors arrested for mother and daughter's murder | Sat 21 Nov, 09:26 PM PKT
@@ -244,10 +241,10 @@
 - [needs_review] normal | Bus and truck collision kills 11 people in UAE's Ras Al Khaimah | Tue 24 Nov, 12:46 PM PKT
 - [needs_review] normal | Punjab Assembly echoes with fiery exchanges over agricultural crisis | Tue 24 Nov, 12:56 PM PKT
 - [published] normal | Wars Choke Global Food Routes, Threatening Aid for 7.3 Million | Tue 24 Nov, 01:43 PM PKT
-- [queued] normal | Pakistan’s Zeeshan Ali Set to Become First Astronaut in Space | Tue 24 Nov, 01:53 PM PKT
-- [queued] normal | KP's MNJ Road Closed to Traffic Until Next Summer | Tue 24 Nov, 02:03 PM PKT
-- [queued] normal | PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction | Tue 24 Nov, 02:13 PM PKT
-- [queued] normal | Imran Khan directs PTI to expand political alliance and reach out to F | Tue 24 Nov, 02:52 PM PKT
+- [needs_review] normal | Pakistan’s Zeeshan Ali Set to Become First Astronaut in Space | Tue 24 Nov, 01:53 PM PKT
+- [needs_review] normal | KP's MNJ Road Closed to Traffic Until Next Summer | Tue 24 Nov, 02:03 PM PKT
+- [needs_review] normal | PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction | Tue 24 Nov, 02:13 PM PKT
+- [published] normal | Imran Khan directs PTI to expand political alliance and reach out to F | Tue 24 Nov, 02:52 PM PKT
 - [failed] normal | Ousted Bangladesh PM Sheikh Hasina plans to return on December 16 | Tue 24 Nov, 03:02 PM PKT
 - [queued] normal | DR Congo searches for missing cargo plane as rebels claim shootdown | Tue 24 Nov, 03:12 PM PKT
 - [queued] normal | PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust ap | Tue 24 Nov, 03:22 PM PKT
@@ -263,7 +260,7 @@
 - [queued] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
 
 ## Publishing this run
-- Published 'Wars Choke Global Food Routes, Threatening Aid for 7.3 Million'.
+- Published 'Imran Khan directs PTI to expand political alliance and reach out to Fazl'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
