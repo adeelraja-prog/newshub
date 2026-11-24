@@ -1,35 +1,35 @@
-# News Hub report - Wed 25 Nov, 02:39 AM PKT
+# News Hub report - Wed 25 Nov, 04:34 AM PKT
 
 ## Collection
-- New items this run: 31 | items in rolling pool: 552
-- Unique story clusters: 467 (duplicates merged: 85)
-- Clusters dropped as already published/queued: 8; unchanged since last analysis: 3
-- Items per outlet: Al Jazeera 6, AP News 5, TechCrunch 4, Geo News 2, The Verge 2, BBC Technology 2, Pakistan Today 2, The Express Tribune 1, News4JAX 1, Engadget 1, Ars Technica 1, NPR 1
+- New items this run: 18 | items in rolling pool: 400
+- Unique story clusters: 338 (duplicates merged: 62)
+- Clusters dropped as already published/queued: 8; unchanged since last analysis: 9
+- Items per outlet: AP News 4, Engadget 4, Al Jazeera 2, Geo News 1, BBC 1, The New York Times 1, The Verge 1, Ars Technica 1, GSMArena 1, BBC Health 1, CBS News 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Huawei found guilty of stealing trade secrets but acquitted of racketeering | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bellingham stunner, Mbappe brace help Real Madrid rout PSV | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Huawei found guilty of stealing trade secrets but acquitted of racketeering | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bellingham stunner, Mbappe brace help Real Madrid rout PSV | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Huawei found guilty of stealing trade secrets but acquitted of racketeering | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bellingham stunner, Mbappe brace help Real Madrid rout PSV | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,21 +39,14 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
+- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
 
 ## Queue status
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
-- [needs_review] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
-- [needs_review] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
-- [needs_review] normal | US Midterms 2026: What happens before the new Congress takes office? | Sat 21 Nov, 09:06 PM PKT
-- [needs_review] normal | Chaudhary's 66 helps Australia edge past England in first T20 | Sat 21 Nov, 09:16 PM PKT
-- [needs_review] normal | Could Iran reverse its stated policy of a civil-only nuclear programme | Sat 21 Nov, 09:36 PM PKT
-- [needs_review] normal | Africa's CAF Backs FIFA President Infantino's Re-election | Sat 21 Nov, 09:55 PM PKT
-- [needs_review] normal | Newcastle United Faces Arsenal in Premier League Clash | Sat 21 Nov, 10:05 PM PKT
 - [needs_review] normal | Independent Review Ordered into NHS Grampian Surgery Deaths | Sat 21 Nov, 10:25 PM PKT
 - [needs_review] normal | Indian opposition issues ultimatum to Meta over account removals | Sat 21 Nov, 10:39 PM PKT
 - [needs_review] normal | Security forces eliminate 15 terrorists in Balochistan's Mastung | Sat 21 Nov, 10:49 PM PKT
@@ -71,11 +64,9 @@
 - [needs_review] normal | Jair Bolsonaro Admitted to Intensive Care With Bowel Obstruction | Sun 22 Nov, 02:47 AM PKT
 - [needs_review] normal | Mexico Captures FBI Most Wanted Drug Kingpin in Dramatic Raid | Sun 22 Nov, 02:57 AM PKT
 - [needs_review] normal | Thousands Protest Across Europe Over Soaring Living Costs and Housing | Sun 22 Nov, 03:07 AM PKT
-- [published] normal | Iran sets condition for reopening strait through Qatari mediators | Sun 22 Nov, 03:26 AM PKT
 - [needs_review] normal | AOC challenged by activist over Democratic leadership's AIPAC ties | Sun 22 Nov, 03:36 AM PKT
 - [needs_review] normal | Bahrain reports industrial facility fire following Iranian attack | Sun 22 Nov, 03:46 AM PKT
 - [needs_review] normal | George Washington's Framed Lock of Hair Sells for $4,000 at Auction | Sun 22 Nov, 04:13 AM PKT
-- [published] normal | Espi's Late Goal Secures Thrilling 2-1 Win for Real Madrid Over Celta  | Sun 22 Nov, 04:23 AM PKT
 - [needs_review] normal | Can Virtual Relationships in Video Games Count as Cheating? | Sun 22 Nov, 04:33 AM PKT
 - [needs_review] normal | Will COP31 Climate Summit Conclude with a New Global Agreement? | Sun 22 Nov, 04:43 AM PKT
 - [needs_review] normal | Iran faces a silent economic war, warns Iranian president | Sun 22 Nov, 04:56 AM PKT
@@ -244,26 +235,19 @@
 - [needs_review] normal | Woman Receiving British-Era Pension Passes Away at 107 in Sindh | Tue 24 Nov, 05:05 PM PKT
 - [needs_review] normal | Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat | Tue 24 Nov, 05:15 PM PKT
 - [needs_review] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
-- [queued] promo | [YouTube] MARYAM NAWAZ EXPOSED: RS 10 LAKH FLOWERS, MAULANA BLOCKED | Tue 24 Nov, 11:36 PM PKT
+- [published] promo | [YouTube] MARYAM NAWAZ EXPOSED: RS 10 LAKH FLOWERS, MAULANA BLOCKED | Tue 24 Nov, 11:36 PM PKT
 
 ## Publishing this run
-- No post published: due items are waiting for the 10-minute gap, the daily limit or the publishing window.
+- No post published: nothing due yet.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 7177 | output tokens: 3086
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 109 column 7 (char 4987)
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,

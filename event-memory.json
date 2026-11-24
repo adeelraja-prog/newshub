@@ -146446,7 +146446,418 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fb916f0a8ecbe52cfba4e4be",
+      "remembered_at": "2026-11-24T22:40:27.037585+00:00",
+      "event_date": "2026-11-24T22:01:26+00:00",
+      "last_update": "2026-11-24T22:01:26+00:00",
+      "event": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "attorney",
+        "blanche",
+        "claims",
+        "conducted",
+        "confirm",
+        "declines",
+        "discuss",
+        "donald",
+        "general",
+        "his",
+        "huang",
+        "investigated",
+        "jensen",
+        "nvidia",
+        "probe",
+        "refused",
+        "that",
+        "the",
+        "thorough",
+        "todd",
+        "trump",
+        "was"
+      ],
+      "source_excerpt": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
+          "published_at": "2026-11-24T22:01:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "446895bad98cd998ea683da2",
+      "remembered_at": "2026-11-24T22:40:27.037585+00:00",
+      "event_date": "2026-11-24T21:45:42+00:00",
+      "last_update": "2026-11-24T21:45:42+00:00",
+      "event": "Colombian president blames ex-FARC rebels for car bomb blast",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "blames",
+        "blast",
+        "bomb",
+        "bombing",
+        "car",
+        "colombian",
+        "espriella",
+        "farc",
+        "for",
+        "injured",
+        "pledges",
+        "plotting",
+        "president",
+        "rebels",
+        "retaliate",
+        "tens",
+        "that",
+        "the"
+      ],
+      "source_excerpt": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+          "published_at": "2026-11-24T21:45:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9b09e50b8c12be4cdb792e37",
+      "remembered_at": "2026-11-24T22:40:27.037585+00:00",
+      "event_date": "2026-11-24T21:40:58+00:00",
+      "last_update": "2026-11-24T21:40:58+00:00",
+      "event": "Great British Bake Off winner crowned after high-stakes final",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bake",
+        "bbc",
+        "british",
+        "crowned",
+        "final",
+        "great",
+        "high",
+        "off",
+        "stakes",
+        "winner"
+      ],
+      "source_excerpt": "Great British Bake Off winner crowned after high-stakes final BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NUzBFRzFPYkFVZ1RaZlcxYWdsYl9pYW1SZTdWd1J1ekpIUzBDUVF6MkJVOGhZblFqNndfRmxoazJfNzFaSDE1MUs0N2FyaTZzMmxJdHFfLTl2cUU?oc=5",
+          "published_at": "2026-11-24T21:40:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NUzBFRzFPYkFVZ1RaZlcxYWdsYl9pYW1SZTdWd1J1ekpIUzBDUVF6MkJVOGhZblFqNndfRmxoazJfNzFaSDE1MUs0N2FyaTZzMmxJdHFfLTl2cUU?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "26d286f2689507ab3adc3d75",
+      "remembered_at": "2026-11-24T22:40:27.037585+00:00",
+      "event_date": "2026-11-24T22:18:45+00:00",
+      "last_update": "2026-11-24T22:18:45+00:00",
+      "event": "Cybersecurity key to achieving Digital Pakistan vision",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "achieving",
+        "cybersecurity",
+        "digital",
+        "express",
+        "key",
+        "pakistan",
+        "the",
+        "tribune",
+        "vision"
+      ],
+      "source_excerpt": "Cybersecurity key to achieving Digital Pakistan vision The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRi1na3JTVUNpbF8zOEU2ZHU2THdZcUw3c3oxblAteTZCWHA4VHhpZTktSVZMRXJpVGZTY0hWNXZRczJvWWtIcHhyOWhvMHFYbEg2MUF4VmQ4ZVRhN3ZNVlh5YXhSNHduWHhmYV9pT2RReF9Sb213SjZpTm54eHVxOEpCTHVyNVNlSDhRV2JaS0dOOWhjanfSAZ4BQVVfeXFMUGxXUWZVdEw0V0kyc3dJaFlJa051ZFVYWjlNVkVYNC0weS1TcUJwVlV1UG1RX0R6SGw5ZExWNVloQ2pEcUFYeXRacm16NHJpMUEwMVNlek5uWHh6VWtveldxWXF4Z3N4RHVhU05LSG5vVW9IWlZDSFpRVVZpQzQySGM5UGdQQzU0cWlveU4yQUtiM3JhTFZ3WlpXMnV6Qnc?oc=5",
+          "published_at": "2026-11-24T22:18:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRi1na3JTVUNpbF8zOEU2ZHU2THdZcUw3c3oxblAteTZCWHA4VHhpZTktSVZMRXJpVGZTY0hWNXZRczJvWWtIcHhyOWhvMHFYbEg2MUF4VmQ4ZVRhN3ZNVlh5YXhSNHduWHhmYV9pT2RReF9Sb213SjZpTm54eHVxOEpCTHVyNVNlSDhRV2JaS0dOOWhjanfSAZ4BQVVfeXFMUGxXUWZVdEw0V0kyc3dJaFlJa051ZFVYWjlNVkVYNC0weS1TcUJwVlV1UG1RX0R6SGw5ZExWNVloQ2pEcUFYeXRacm16NHJpMUEwMVNlek5uWHh6VWtveldxWXF4Z3N4RHVhU05LSG5vVW9IWlZDSFpRVVZpQzQySGM5UGdQQzU0cWlveU4yQUtiM3JhTFZ3WlpXMnV6Qnc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "715634a04f0e3a7dc4c1cc87",
+      "remembered_at": "2026-11-24T23:34:16.658489+00:00",
+      "event_date": "2026-11-24T22:50:16+00:00",
+      "last_update": "2026-11-24T22:50:16+00:00",
+      "event": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arsenal",
+        "back",
+        "borussia",
+        "champions",
+        "chances",
+        "dominate",
+        "dortmund",
+        "draw",
+        "fight",
+        "football",
+        "for",
+        "from",
+        "goes",
+        "gyokeres",
+        "hero",
+        "league",
+        "the",
+        "villain"
+      ],
+      "source_excerpt": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+          "published_at": "2026-11-24T22:50:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9c4f8c4a015412c353324386",
+      "remembered_at": "2026-11-24T23:34:16.658489+00:00",
+      "event_date": "2026-11-24T22:37:20+00:00",
+      "last_update": "2026-11-24T22:37:20+00:00",
+      "event": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "behind",
+        "bellingham",
+        "brace",
+        "champions",
+        "come",
+        "eindhoven",
+        "football",
+        "from",
+        "help",
+        "league",
+        "madrid",
+        "mbappe",
+        "past",
+        "power",
+        "psv",
+        "real",
+        "rout",
+        "stunner",
+        "win",
+        "with"
+      ],
+      "source_excerpt": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+          "published_at": "2026-11-24T22:37:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2e2c1d53aaef1a53393ea32e",
+      "remembered_at": "2026-11-24T23:34:16.658489+00:00",
+      "event_date": "2026-11-24T23:03:59+00:00",
+      "last_update": "2026-11-24T23:03:59+00:00",
+      "event": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "beaten",
+        "because",
+        "being",
+        "christian",
+        "defectors",
+        "faith",
+        "for",
+        "from",
+        "has",
+        "hundreds",
+        "jailed",
+        "koreans",
+        "new",
+        "north",
+        "persecuted",
+        "report",
+        "say",
+        "spied",
+        "testimonies",
+        "their",
+        "these",
+        "they",
+        "were",
+        "who"
+      ],
+      "source_excerpt": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T23:03:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "800b52cc44b970525ae605bc",
+      "remembered_at": "2026-11-24T23:34:16.658489+00:00",
+      "event_date": "2026-11-24T23:00:13+00:00",
+      "last_update": "2026-11-24T23:00:13+00:00",
+      "event": "A question of trust in the NHS could be Swinney's most dangerous political moment",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "convince",
+        "could",
+        "dangerous",
+        "government",
+        "grampian",
+        "grip",
+        "has",
+        "moment",
+        "most",
+        "nhs",
+        "political",
+        "problems",
+        "public",
+        "question",
+        "rivals",
+        "scottish",
+        "swinney",
+        "that",
+        "the",
+        "trust"
+      ],
+      "source_excerpt": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c65y12kg8711o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T23:00:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c65y12kg8711o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c65y12kg8711o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T21:39:07.251007+00:00"
+  "updated_at": "2026-11-24T23:34:16.658489+00:00"
 }
