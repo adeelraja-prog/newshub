@@ -135534,7 +135534,618 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e172cb19a5b90ab91c2e0742",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T01:47:31+00:00",
+      "last_update": "2026-11-24T03:55:12+00:00",
+      "event": "FoodAg showcases export potential",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "export",
+        "foodag",
+        "potential",
+        "showcases"
+      ],
+      "source_excerpt": "FoodAg showcases export potential Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NRzMwUDFnM1B4WXZRblNkclNDcmd4eFBBd3J6WmFMZlNzcXFMOF9VQVZxbWJGRjBlVWtLbjRDejM1YS1TM2d6cmJRaGtENjUzNG95QldOYVk4X1FxRGpNYnJTbFNvcFo3TTgxUTFxN3N4aHR5Z0E?oc=5",
+          "published_at": "2026-11-24T01:47:31+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046727/foodag-pakistan-exhibition-showcases-export-potential",
+          "published_at": "2026-11-24T03:55:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NRzMwUDFnM1B4WXZRblNkclNDcmd4eFBBd3J6WmFMZlNzcXFMOF9VQVZxbWJGRjBlVWtLbjRDejM1YS1TM2d6cmJRaGtENjUzNG95QldOYVk4X1FxRGpNYnJTbFNvcFo3TTgxUTFxN3N4aHR5Z0E?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "41e12af48929515c1316ec26",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T01:47:31+00:00",
+      "last_update": "2026-11-24T04:07:32+00:00",
+      "event": "Used phone import surge hits industry",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "hits",
+        "import",
+        "industry",
+        "phone",
+        "surge",
+        "used"
+      ],
+      "source_excerpt": "Used phone import surge hits industry Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1POUQteFRlN2lxYlh3aTJ5cHpkaEhmSFdLM2hDdWp6SzN6YXdjaXFPMHJfX3k5UXBldE0zbG1oS29UaGNZb1lLb25ZbmtybU54cGRTZXJLVXRzbnNuOXhmOUdBQlctdUlxLUo4SUFWWWw4ZGdZTkdVd2J5cw?oc=5",
+          "published_at": "2026-11-24T01:47:31+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046653/used-phone-import-surge-hits-industry",
+          "published_at": "2026-11-24T04:07:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1POUQteFRlN2lxYlh3aTJ5cHpkaEhmSFdLM2hDdWp6SzN6YXdjaXFPMHJfX3k5UXBldE0zbG1oS29UaGNZb1lLb25ZbmtybU54cGRTZXJLVXRzbnNuOXhmOUdBQlctdUlxLUo4SUFWWWw4ZGdZTkdVd2J5cw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "063847a365494029eef36f6c",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T01:47:31+00:00",
+      "last_update": "2026-11-24T04:09:26+00:00",
+      "event": "Equities end flat amid regional, political tensions",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "dawn",
+        "end",
+        "equities",
+        "flat",
+        "political",
+        "regional",
+        "tensions"
+      ],
+      "source_excerpt": "Equities end flat amid regional, political tensions Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbU9sNkg1QmtMZlY2Nld0SmRiVU9qc3NNX25iTThkVzlYcnJvUWJKdWwwVjlsMWFDVzNYNWZ1M0FPUUFVWC1PNTBOQlFZMHZaSEtHOGk0UUk2WnF4YUlWam1hOUNROUllSDRBRHl3bFk4Tml6UDZGWEkwOGJ6ZEJMLWZrbnhtZU5GNTk2SA?oc=5",
+          "published_at": "2026-11-24T01:47:31+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046649/equities-end-flat-amid-regional-political-tensions",
+          "published_at": "2026-11-24T04:09:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbU9sNkg1QmtMZlY2Nld0SmRiVU9qc3NNX25iTThkVzlYcnJvUWJKdWwwVjlsMWFDVzNYNWZ1M0FPUUFVWC1PNTBOQlFZMHZaSEtHOGk0UUk2WnF4YUlWam1hOUNROUllSDRBRHl3bFk4Tml6UDZGWEkwOGJ6ZEJMLWZrbnhtZU5GNTk2SA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "328fd2ee92f4725399aba646",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T01:47:31+00:00",
+      "last_update": "2026-11-24T04:03:37+00:00",
+      "event": "Food exports jump, imports stay flat",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "exports",
+        "flat",
+        "food",
+        "imports",
+        "jump",
+        "stay"
+      ],
+      "source_excerpt": "Food exports jump, imports stay flat Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TT0FSdHVhemYwZjFVU2daYVctZm9CUjlpQU9kbjEzTlBhanFWSi1jNS13aS1OVDhMa2N2MmZkNjR0djNNR3pBTms1RHBQUWZjQlpScE9rVjRIZ05OM0NwZlQ2VEd6c20yZ0FrNUU5U1c4eVY2MGVtdQ?oc=5",
+          "published_at": "2026-11-24T01:47:31+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046650/food-exports-jump-imports-stay-flat-in-october",
+          "published_at": "2026-11-24T04:03:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TT0FSdHVhemYwZjFVU2daYVctZm9CUjlpQU9kbjEzTlBhanFWSi1jNS13aS1OVDhMa2N2MmZkNjR0djNNR3pBTms1RHBQUWZjQlpScE9rVjRIZ05OM0NwZlQ2VEd6c20yZ0FrNUU5U1c4eVY2MGVtdQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c6cdb2862ba77a346a445787",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T01:49:21+00:00",
+      "last_update": "2026-11-24T04:17:36+00:00",
+      "event": "NAB files reference in Rs37bn Kohistan corruption case",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "case",
+        "corruption",
+        "dawn",
+        "files",
+        "kohistan",
+        "nab",
+        "reference",
+        "rs37bn"
+      ],
+      "source_excerpt": "NAB files reference in Rs37bn Kohistan corruption case Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVFJRDhZaG1Da0s0cU9aeGQxMDJ4aXU4MXBNeFRNMFNLcmQ1Skxwdlc4clNVMXZxam02UjZ5dkNicWpSTXZXYlUyY3I3NlBmRjhjSmlfNmlyajFNcklxU0NUMDVMRE1KdXo4U0lIS0hJQUtpOGd5SWN4eXBpamplaDNqdFpOYXhYc29RTnFjbFBOdw?oc=5",
+          "published_at": "2026-11-24T01:49:21+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFlIUUowSUNHZGdpQkJWS1Z6VDJVVjlvLWswR0QtMllwZDZrc1p1UXhxcVR1M1hPdmhUdWtGWjI4OHlNMlFuTS1oTGRheWxaQmhGdnRwUDJHMEU3aC1WN2FZMnBsR20wdVdyR1otUmQ1MjVkd2ZIdDVlcUVCS0tRekR3b1hHN3BXNDdwNmFYU1lvcXNRZkVVWXJ0OXNpTmFlak1sSWVZdlFQVVVFZEppb1FqVkxYRndoeFBuMFNoZ3VKeGZD?oc=5",
+          "published_at": "2026-11-24T04:17:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVFJRDhZaG1Da0s0cU9aeGQxMDJ4aXU4MXBNeFRNMFNLcmQ1Skxwdlc4clNVMXZxam02UjZ5dkNicWpSTXZXYlUyY3I3NlBmRjhjSmlfNmlyajFNcklxU0NUMDVMRE1KdXo4U0lIS0hJQUtpOGd5SWN4eXBpamplaDNqdFpOYXhYc29RTnFjbFBOdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ed3e969317e57243800202aa",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T01:46:50+00:00",
+      "last_update": "2026-11-24T04:17:51+00:00",
+      "event": "Saudi Arabia’s influence loomed large over COP31: negotiator",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arabia",
+        "cop31",
+        "dawn",
+        "influence",
+        "large",
+        "loomed",
+        "negotiator",
+        "over",
+        "saudi"
+      ],
+      "source_excerpt": "Saudi Arabia’s influence loomed large over COP31: negotiator Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbTVwUzEzMWpVckZJNkplRzBRWUkxNDZOLXU0TlM4cUFWaEVqMTBHYjI4U2pqWHpCR05CQ0JhU1llOVF3eDRLd3h4Y3pnWG9xRC1VYUx4eXpMXy1UNzhnaXp1RUMwWlRGMjd0SHAzUzZvRnBHSEE1dVU0N1VaOEN4ZjQ3NFRtRF9ZSXNTeXNrOG9PYUJNLTdR?oc=5",
+          "published_at": "2026-11-24T01:46:50+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046686/saudi-arabias-influence-loomed-large-over-cop31-negotiator",
+          "published_at": "2026-11-24T04:17:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbTVwUzEzMWpVckZJNkplRzBRWUkxNDZOLXU0TlM4cUFWaEVqMTBHYjI4U2pqWHpCR05CQ0JhU1llOVF3eDRLd3h4Y3pnWG9xRC1VYUx4eXpMXy1UNzhnaXp1RUMwWlRGMjd0SHAzUzZvRnBHSEE1dVU0N1VaOEN4ZjQ3NFRtRF9ZSXNTeXNrOG9PYUJNLTdR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e472a4ecf815bdb62e2ebb9b",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T01:48:32+00:00",
+      "last_update": "2026-11-24T04:59:28+00:00",
+      "event": "Drug smuggler killed in ‘CCD encounter’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ccd",
+        "dawn",
+        "drug",
+        "encounter",
+        "killed",
+        "smuggler"
+      ],
+      "source_excerpt": "Drug smuggler killed in ‘CCD encounter’ Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UUXFQclVibmhHdEJRSHROV3lIWDIwczRObmpMbFRvdVItOG1sd2M2UWc0NTlJMDZwMWxrcWZNTWc5NnpzNG11Yk1rUVdCUGgzMGJBU0ZCbWFvOGtLMm01RUtHeUxzeHBGTHVWWl9wV2VReGFoYlN1TThsTQ?oc=5",
+          "published_at": "2026-11-24T01:48:32+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046602/drug-smuggler-killed-in-ccd-encounter-in-jhang",
+          "published_at": "2026-11-24T04:59:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UUXFQclVibmhHdEJRSHROV3lIWDIwczRObmpMbFRvdVItOG1sd2M2UWc0NTlJMDZwMWxrcWZNTWc5NnpzNG11Yk1rUVdCUGgzMGJBU0ZCbWFvOGtLMm01RUtHeUxzeHBGTHVWWl9wV2VReGFoYlN1TThsTQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c1877ba5708b5d9bcce4fd59",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T04:47:36+00:00",
+      "last_update": "2026-11-24T04:48:21+00:00",
+      "event": "Punjab PA echoes with fiery exchanges over agri crisis",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agri",
+        "crisis",
+        "dawn",
+        "echoes",
+        "exchanges",
+        "fiery",
+        "over",
+        "punjab",
+        "with"
+      ],
+      "source_excerpt": "Punjab PA echoes with fiery exchanges over agri crisis Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOT3dPSnZZRmVJSzEtY3JIREtBVUZoOHQxVXhKcmpsUGZ0c3lhTFpGVzVWb010YktOUG1QSk1mSXNZX05ReWRPeg?oc=5",
+          "published_at": "2026-11-24T04:47:36+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046729/punjab-assembly-echoes-with-fiery-exchanges-over-agricultural-crisis",
+          "published_at": "2026-11-24T04:48:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOT3dPSnZZRmVJSzEtY3JIREtBVUZoOHQxVXhKcmpsUGZ0c3lhTFpGVzVWb010YktOUG1QSk1mSXNZX05ReWRPeg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "037c4264e944f595990cecba",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T04:52:06+00:00",
+      "last_update": "2026-11-24T04:52:06+00:00",
+      "event": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "backs",
+        "court",
+        "danish",
+        "denmark",
+        "estate",
+        "evict",
+        "evicted",
+        "from",
+        "ghetto",
+        "has",
+        "housing",
+        "law",
+        "mjolnerparken",
+        "non",
+        "residents",
+        "ruled",
+        "supreme",
+        "tenants",
+        "the",
+        "used",
+        "western"
+      ],
+      "source_excerpt": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+          "published_at": "2026-11-24T04:52:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0e3595cb22f4b32db9a6efb7",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T04:49:31+00:00",
+      "last_update": "2026-11-24T04:49:31+00:00",
+      "event": "Car bomb strikes governor’s office in Meta, Colombia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bomb",
+        "car",
+        "city",
+        "colombia",
+        "department",
+        "exploded",
+        "governor",
+        "meta",
+        "office",
+        "strikes",
+        "the",
+        "villavicencio"
+      ],
+      "source_excerpt": "A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+          "published_at": "2026-11-24T04:49:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ffa6135d91920cc2b8f0a0a8",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T04:44:35+00:00",
+      "last_update": "2026-11-24T04:44:35+00:00",
+      "event": "India’s best known bottled water under scrutiny",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "batch",
+        "best",
+        "bisleri",
+        "bottled",
+        "company",
+        "every",
+        "from",
+        "india",
+        "known",
+        "one",
+        "ruled",
+        "samples",
+        "scrutiny",
+        "testing",
+        "under",
+        "unsafe",
+        "was",
+        "water"
+      ],
+      "source_excerpt": "India is testing samples from every bottled water company after one batch of Bisleri bottled water was ruled unsafe.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss",
+          "published_at": "2026-11-24T04:44:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2a11e01e5a279898aceb3077",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T04:35:37+00:00",
+      "last_update": "2026-11-24T04:35:37+00:00",
+      "event": "WHO chief visits Cuba as healthcare system deteriorates",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "analysts",
+        "are",
+        "blamed",
+        "chief",
+        "crisis",
+        "cuba",
+        "deteriorates",
+        "fuel",
+        "healthcare",
+        "sanctions",
+        "say",
+        "shortages",
+        "system",
+        "the",
+        "visits",
+        "who",
+        "worsening"
+      ],
+      "source_excerpt": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
+          "published_at": "2026-11-24T04:35:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7f3d8d006faddc0d715317a2",
+      "remembered_at": "2026-11-24T05:02:26.933631+00:00",
+      "event_date": "2026-11-24T04:31:33+00:00",
+      "last_update": "2026-11-24T04:31:33+00:00",
+      "event": "Pakistan's First Astronaut Set for Historic Space Mission! Final Preparations Complete | Dunya News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "astronaut",
+        "complete",
+        "dunya",
+        "final",
+        "first",
+        "for",
+        "historic",
+        "mission",
+        "news",
+        "pakistan",
+        "preparations",
+        "set",
+        "space"
+      ],
+      "source_excerpt": "Pakistan's First Astronaut Set for Historic Space Mission! Final Preparations Complete | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbzhvRkRlQnAtTnVoUm5zT3lWTFZscFRBYnotQ0NRSjV6dzVrZGloMkNPSXBfbWF4WUxtYzhza0ctd2pqcWk4dVR6bnAwXzVrVlo1RDFhSmJ3QU5EaUNzYU9OLXJDcnBfSGRKSHdNcEE2Y29BMzlpVVdRVGFJMzJ4QlkzdDl0Q25TRW0xVHFROFkwLW1xNjZSbEp6U2dLS3ZpMlphM3dnY0xhX1R5N25JUHh2ZDlneC1rRmlrMHJoNm01LWJrRlA1blV1ZlA4dGdoRmtoYzlmV1E1cmFjMllycjR3aUozcDJrY3c?oc=5",
+          "published_at": "2026-11-24T04:31:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbzhvRkRlQnAtTnVoUm5zT3lWTFZscFRBYnotQ0NRSjV6dzVrZGloMkNPSXBfbWF4WUxtYzhza0ctd2pqcWk4dVR6bnAwXzVrVlo1RDFhSmJ3QU5EaUNzYU9OLXJDcnBfSGRKSHdNcEE2Y29BMzlpVVdRVGFJMzJ4QlkzdDl0Q25TRW0xVHFROFkwLW1xNjZSbEp6U2dLS3ZpMlphM3dnY0xhX1R5N25JUHh2ZDlneC1rRmlrMHJoNm01LWJrRlA1blV1ZlA4dGdoRmtoYzlmV1E1cmFjMllycjR3aUozcDJrY3c?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T03:56:48.763428+00:00"
+  "updated_at": "2026-11-24T05:02:26.933631+00:00"
 }

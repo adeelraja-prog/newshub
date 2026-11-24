@@ -1,166 +1,155 @@
-# News Hub report - Tue 24 Nov, 08:56 AM PKT
+# News Hub report - Tue 24 Nov, 10:02 AM PKT
 
 ## Collection
-- New items this run: 6 | items in rolling pool: 253
-- Unique story clusters: 227 (duplicates merged: 26)
-- Clusters dropped as already published/queued: 19; unchanged since last analysis: 11
-- Items per outlet: ARY News 2, Geo News 1, Al Jazeera 1, ProPakistani 1, PhoneWorld 1, Geo News Fast Lane 0, ARY News Fast Lane 0, Samaa Fast Lane 0, Express News Fast Lane 0, Dawn Fast Lane 0, Jang Fast Lane 0, The News Fast Lane 0
+- New items this run: 49 | items in rolling pool: 254
+- Unique story clusters: 222 (duplicates merged: 32)
+- Clusters dropped as already published/queued: 20; unchanged since last analysis: 9
+- Items per outlet: Dawn Latest 7, Dawn Pakistan 5, ARY News 5, Geo News 4, Al Jazeera 4, samaa tv 3, Dawn 3, Profit by Pakistan Today 3, Dunya News 2, Bloomberg.com 2, Jang 1, The Express Tribune 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Excavator threatens sacred alpine lake in the Himalayas | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN chief calls for world to agree on AI oversight within a year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mexico to try ‘El Chapo Isidro’ despite US extradition request | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bukele shares details on deaths of Salvadoran troops in Haiti intervention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s Zeeshan Ali among crew of China’s Shenzhou-24 mission; liftoff scheduled for Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FoodAg showcases export potential | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pop singer Bunny passes away in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ATC grants five-day remand of PTI leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Used phone import surge hits industry | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Equities end flat amid regional, political tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Excavator threatens sacred alpine lake in the Himalayas | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN chief calls for world to agree on AI oversight within a year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mexico to try ‘El Chapo Isidro’ despite US extradition request | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bukele shares details on deaths of Salvadoran troops in Haiti intervention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s Zeeshan Ali among crew of China’s Shenzhou-24 mission; liftoff scheduled for Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FoodAg showcases export potential | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pop singer Bunny passes away in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ATC grants five-day remand of PTI leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Used phone import surge hits industry | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Equities end flat amid regional, political tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Excavator threatens sacred alpine lake in the Himalayas | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN chief calls for world to agree on AI oversight within a year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mexico to try ‘El Chapo Isidro’ despite US extradition request | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bukele shares details on deaths of Salvadoran troops in Haiti intervention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s Zeeshan Ali among crew of China’s Shenzhou-24 mission; liftoff scheduled for Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FoodAg showcases export potential | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pop singer Bunny passes away in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ATC grants five-day remand of PTI leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Used phone import surge hits industry | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Equities end flat amid regional, political tensions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 26/120 | empty: 0 | failed: 94 | malformed/partial: 94
-- Trusted publisher desks with at least one healthy source: 5/10
-- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 111/120 | empty: 3 | failed: 6 | malformed/partial: 6
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Samaa, Express News, Dawn, Dunya News, Dunya News TV
+- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: South Asia Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Bangladesh Parliament Speaker Begins Six-Day Official Visit to Pakistan  [NORMAL]
-- Poster: بنگلہ دیشی پارلیمنٹ کے اسپیکر چھ روزہ دورے پر پاکستان پہنچ گئے / Bangladesh Speaker arrives in Pakistan | category politics
-- Alternative headline: Pakistan Welcomes Bangladesh Parliament Speaker for Six-Day Visit
+### Lahore ATC Grants Five-Day Physical Remand of PTI Leader  [NORMAL]
+- Poster: لاہور کی انسدادِ دہشت گردی عدالت کا پی ٹی آئی رہنما کا پانچ روزہ ریمانڈ منظور / ATC Grants Five-Day Remand of PTI Leader | category politics
+- Alternative headline: PTI Leader Handed Over to Police on Five-Day Remand by ATC
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTNIYWxSc2F4NGNqb201TWtYZmFKYW44ck15bXlzU2JnRG1rQlFVQXFkcmlfVXRxX25IUkZsVU5jX2tfM2hCSDU2SXgxX2l0c295OUhPNU1EdFBqVGFNSEJTNlJTMGwtdTQ5X3pla0tJYTJzOVQ5aEdXaTR1eHl6T3lQcHZYNDFtYmFTelhHazlzY0U1OEVOUWpsS3hSRDFwOFNNS05ETXI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTNIYWxSc2F4NGNqb201TWtYZmFKYW44ck15bXlzU2JnRG1rQlFVQXFkcmlfVXRxX25IUkZsVU5jX2tfM2hCSDU2SXgxX2l0c295OUhPNU1EdFBqVGFNSEJTNlJTMGwtdTQ5X3pla0tJYTJzOVQ5aEdXaTR1eHl6T3lQcHZYNDFtYmFTelhHazlzY0U1OEVOUWpsS3hSRDFwOFNNS05ETXI?oc=5
-- Supporting coverage: Dawn
-- Keywords: Bangladesh speaker visit, Pakistan Bangladesh relations, Parliamentary visit, Dawn news | hashtags: #Pakistan #Bangladesh #Diplomacy #News
-- Scheduled: Tue 24 Nov, 08:56 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQkU1MHMyM1hCXzhqZjRGZE9OUWhIYVdvVHVqNS11M2lVdEV0elptNFF1S0VkUWR0dGtMN25QVXZaSzhNc3NyX2k4YkJjSkl1R2hWLVpIUmQtSEJVSi1ER1hGeG9vMGFtWDh4TlpCMVdhSlVVNFpzQVJwSW5HekU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQkU1MHMyM1hCXzhqZjRGZE9OUWhIYVdvVHVqNS11M2lVdEV0elptNFF1S0VkUWR0dGtMN25QVXZaSzhNc3NyX2k4YkJjSkl1R2hWLVpIUmQtSEJVSi1ER1hGeG9vMGFtWDh4TlpCMVdhSlVVNFpzQVJwSW5HekU?oc=5
+- Supporting coverage: Dawn, Dawn, Dawn Pakistan
+- Keywords: PTI leader remand, Lahore ATC, police custody, Pakistan politics, court hearing | hashtags: #PTI #ATC #Lahore #PakistanNews
+- Scheduled: Tue 24 Nov, 10:02 AM PKT
 - Caption:
 ```
-The speaker of Bangladesh's parliament has arrived in Pakistan for a six-day official visit, marking a significant diplomatic engagement.
+An anti-terrorism court in Lahore has approved a five-day physical remand for a PTI leader.
 
-The speaker of the Bangladesh parliament has begun a six-day official visit to Pakistan. First reported by Dawn, the visit is expected to focus on bilateral ties and parliamentary cooperation between the two countries.
+An anti-terrorism court (ATC) in Lahore has granted a five-day physical remand of a Pakistan Tehreek-e-Insaf (PTI) leader. According to Dawn, the court handed over the leader to police custody for further investigation into ongoing legal proceedings.
 
-بنگلہ دیشی پارلیمنٹ کے اسپیکر چھ روزہ سرکاری دورے پر پاکستان پہنچ گئے ہیں۔ ڈان کی رپورٹ کے مطابق اس دورے میں دونوں ممالک کے درمیان دوطرفہ تعلقات اور پارلیمانی تعاون پر تبادلہ خیال کیا جائے گا۔
+لاہور کی انسدادِ دہشت گردی عدالت نے پاکستان تحریک انصاف کے ایک رہنما کا پانچ روزہ جسمانی ریمانڈ منظور کر لیا ہے۔ ڈان کے مطابق عدالت نے تفتیش کے لیے رہنما کو پولیس کے حوالے کر دیا ہے۔
 
-First reported by Dawn
+First reported by Dawn; also reported via Dawn Pakistan.
 
-#Pakistan #Bangladesh #Diplomacy #News
+#PTI #ATC #Lahore #PakistanNews
 ```
 
-### Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrage  [NORMAL]
-- Poster: ہمالیہ کی مقدس جھیل کے قریب کھدائی پر شدید غم و غصہ / Outrage over excavator near sacred lake | category disaster
-- Alternative headline: Outrage Erupts Over Excavator Threatening Sacred Himalayan Alpine Lake
+### FoodAg Exhibition Showcases Pakistan's Growing Export Potential  [NORMAL]
+- Poster: فوڈ اگست نمائش میں ملکی برآمدی صلاحیت کا مظاہرہ / FoodAg Exhibition Showcases Export Potential | category economy
+- Alternative headline: Showcasing Agricultural Export Potential at the FoodAg Exhibition
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Sheshnag Lake excavator, Kashmir lake, Al Jazeera news, Himalayas environment | hashtags: #Kashmir #SheshnagLake #Environment #AlJazeera
-- Scheduled: Tue 24 Nov, 09:06 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE5NRzMwUDFnM1B4WXZRblNkclNDcmd4eFBBd3J6WmFMZlNzcXFMOF9VQVZxbWJGRjBlVWtLbjRDejM1YS1TM2d6cmJRaGtENjUzNG95QldOYVk4X1FxRGpNYnJTbFNvcFo3TTgxUTFxN3N4aHR5Z0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE5NRzMwUDFnM1B4WXZRblNkclNDcmd4eFBBd3J6WmFMZlNzcXFMOF9VQVZxbWJGRjBlVWtLbjRDejM1YS1TM2d6cmJRaGtENjUzNG95QldOYVk4X1FxRGpNYnJTbFNvcFo3TTgxUTFxN3N4aHR5Z0E?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: FoodAg exhibition, export potential, agriculture trade, Pakistan exports, FoodAg Pakistan | hashtags: #FoodAg #Exports #PakistanTrade #Agriculture
+- Scheduled: Tue 24 Nov, 10:12 AM PKT
 - Caption:
 ```
-Footage showing an excavator operating near the sacred Sheshnag Lake in India-administered Kashmir has triggered widespread public outrage.
+The FoodAg exhibition has highlighted Pakistan's agricultural export potential.
 
-Footage of an excavator operating near the sacred Sheshnag Lake in India-administered Kashmir has sparked widespread outrage. First reported by Al Jazeera, the incident raises environmental and cultural preservation concerns regarding the Himalayan alpine lake.
+The FoodAg exhibition has successfully showcased Pakistan's export potential in the agricultural sector. According to Dawn, the event aims to connect local producers with international markets and boost the country's trade opportunities.
 
-بھارت کے زیر انتظام کشمیر میں مقدس شیش ناگ جھیل کے قریب ایک کھودنے والی مشین کی ویڈیو سامنے آنے پر شدید غم و غصہ پھیل گیا ہے۔ الجزیرہ کی رپورٹ کے مطابق اس واقعے نے ہمالیہ کی جھیل کے ماحولیاتی تحفظ پر سوالات اٹھا دیے ہیں۔
+فوڈ اگست نمائش میں زراعت کے شعبے میں پاکستان کی برآمدی صلاحیت کو اجاگر کیا گیا ہے۔ ڈان کے مطابق اس تقریب کا مقصد مقامی پروڈیوسرز کو بین الاقوامی منڈیوں سے جوڑنا ہے۔
 
-First reported by Al Jazeera
+First reported by Dawn; also reported via Dawn Pakistan.
 
-#Kashmir #SheshnagLake #Environment #AlJazeera
+#FoodAg #Exports #PakistanTrade #Agriculture
 ```
 
-### UN Chief Urges Global Agreement on AI Oversight Within a Year  [NORMAL]
-- Poster: اقوام متحدہ کے سربراہ کا ایک سال میں عالمی اے آئی ضابطے کا مطالبہ / UN chief calls for AI oversight | category tech_ai
-- Alternative headline: Antonio Guterres Calls for Worldwide AI Regulation Framework in One Year
+### Renowned Pop Singer Bunny Passes Away in Karachi  [NORMAL]
+- Poster: معروف پاپ گلوکار بنی کراچی میں انتقال کر گئے / Pop Singer Bunny Passes Away in Karachi | category other
+- Alternative headline: Pop Singer Mohsin Raza Khan Known as Bunny Passes Away
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: UN AI oversight, Antonio Guterres, Artificial Intelligence regulation, Al Jazeera | hashtags: #ArtificialIntelligence #UN #TechNews #GlobalPolicy
-- Scheduled: Tue 24 Nov, 09:16 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5pbGcwVENHc3ZYS2dGMXd0MzVXRzhHRGx3VElCb25BbFdsNXRCeU90VTVlSzkxRm50RHlBc093dENZc2FKeWExZUhXRmdqS1lrU01ackowaGp1R0owdktJclF1NmlRV1V2amJhRTk1WHZzU19XRUdxOHNVNjZWZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5pbGcwVENHc3ZYS2dGMXd0MzVXRzhHRGx3VElCb25BbFdsNXRCeU90VTVlSzkxRm50RHlBc093dENZc2FKeWExZUhXRmdqS1lrU01ackowaGp1R0owdktJclF1NmlRV1V2amJhRTk1WHZzU19XRUdxOHNVNjZWZw?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Pop singer Bunny, Mohsin Raza Khan, Karachi news, Pakistani singer, music industry | hashtags: #Bunny #PopSinger #Karachi #PakistanMusic
+- Scheduled: Tue 24 Nov, 10:22 AM PKT
 - Caption:
 ```
-UN Secretary-General Antonio Guterres has strongly urged the international community to reach an agreement on artificial intelligence oversight within a year.
+Renowned Pakistani pop singer Bunny has passed away in Karachi.
 
-UN Secretary-General Antonio Guterres has called for the world to agree on artificial intelligence oversight within a year. First reported by Al Jazeera, the UN chief has become increasingly vocal about the need for AI regulation as the end of his term approaches.
+Renowned Pakistani pop singer Mohsin Raza Khan, widely known as Bunny, has passed away in Karachi. According to Dawn, the artist left a significant mark on the country's music industry during the pop boom.
 
-اقوام متحدہ کے سیکرٹری جنرل انتونیو گوتریس نے دنیا سے مطالبہ کیا ہے کہ وہ ایک سال کے اندر مصنوعی ذہانت کے ضابطے پر اتفاق رائے پیدا کرے۔ الجزیرہ کی رپورٹ کے مطابق اپنی مدتِ کار کے اختتام کے قریب وہ اے آئی کے معاملے پر زیادہ آواز اٹھا رہے ہیں۔
+پاکستان کے معروف پاپ گلوکار محسن رضا خان، جو 'بنی' کے نام سے مشہور تھے، کراچی میں انتقال کر گئے ہیں۔ ڈان کے مطابق مرحوم نے پاپ موسیقی کے دور میں نمایاں مقام حاصل کیا۔
 
-First reported by Al Jazeera
+First reported by Dawn; also reported by Samaa TV.
 
-#ArtificialIntelligence #UN #TechNews #GlobalPolicy
+#Bunny #PopSinger #Karachi #PakistanMusic
 ```
 
-### Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request  [NORMAL]
-- Poster: امریکہ کی حوالگی کی درخواست کے باوجود میکسیکو میں ایل چاپو اسیڈرو کا مقدمہ / Mexico to try cartel boss El Chapo Isidro | category crime
-- Alternative headline: Fausto Meza Flores Faces Trial in Mexico Over US Extradition Demands
+### Surge in Used Phone Imports Hits Local Industry Hard  [NORMAL]
+- Poster: استعمال شدہ فونز کی درآمد میں اضافے سے مقامی صنعت متاثر / Used Phone Import Surge Hits Industry | category economy
+- Alternative headline: Local Industry Impacted by Rising Surge in Used Phone Imports
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: El Chapo Isidro trial, Mexico cartel arrest, Fausto Meza Flores, US extradition | hashtags: #Mexico #Crime #Cartel #AlJazeera
-- Scheduled: Tue 24 Nov, 09:26 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE1POUQteFRlN2lxYlh3aTJ5cHpkaEhmSFdLM2hDdWp6SzN6YXdjaXFPMHJfX3k5UXBldE0zbG1oS29UaGNZb1lLb25ZbmtybU54cGRTZXJLVXRzbnNuOXhmOUdBQlctdUlxLUo4SUFWWWw4ZGdZTkdVd2J5cw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE1POUQteFRlN2lxYlh3aTJ5cHpkaEhmSFdLM2hDdWp6SzN6YXdjaXFPMHJfX3k5UXBldE0zbG1oS29UaGNZb1lLb25ZbmtybU54cGRTZXJLVXRzbnNuOXhmOUdBQlctdUlxLUo4SUFWWWw4ZGdZTkdVd2J5cw?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: used phone imports, local industry, mobile import surge, Pakistan economy, tech market | hashtags: #MobileImports #LocalIndustry #PakistanEconomy #Tech
+- Scheduled: Tue 24 Nov, 10:32 AM PKT
 - Caption:
 ```
-Mexico has announced plans to try cartel boss Fausto Meza Flores locally, despite a formal extradition request from the United States.
+A surge in used phone imports is heavily impacting the local industry.
 
-Mexico will try 'El Chapo Isidro' locally despite a US extradition request. First reported by Al Jazeera, Fausto Meza Flores faces drug trafficking and weapons charges following his capture in a violent operation in Sinaloa.
+A sharp surge in the import of used mobile phones has created significant challenges for the local industry. According to Dawn, stakeholders have raised concerns over how these imports affect domestic manufacturing and market competition.
 
-امریکہ کی جانب سے حوالگی کی درخواست کے باوجود میکسیکو میں 'ایل چاپو اسیڈرو' پر مقدمہ چلایا جائے گا۔ الجزیرہ کی رپورٹ کے مطابق فاوستو میزا فلورس کو Sinaloa میں ایک پرتشدد کارروائی کے بعد منشیات کی سمگلنگ اور اسلحے کے الزامات کا سامنا ہے۔
+استعمال شدہ موبائل فونز کی درآمد میں تیز رفتار اضافے نے مقامی صنعت کے لیے شدید مشکلات پیدا کر دی ہیں۔ ڈان کے مطابق اسٹیک ہولڈرز نے اس صورتحال پر تشویش کا اظہار کیا ہے۔
 
-First reported by Al Jazeera
+First reported by Dawn; also reported via Dawn Latest.
 
-#Mexico #Crime #Cartel #AlJazeera
+#MobileImports #LocalIndustry #PakistanEconomy #Tech
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 12
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 15
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [needs_review] normal | Russia complains of new Iron Curtain as Estonia shuts borders | Sat 21 Nov, 02:38 AM PKT
-- [needs_review] normal | Israeli drone attacks kill seven Palestinians in central Gaza | Sat 21 Nov, 02:48 AM PKT
-- [needs_review] normal | Nepali cricket fans in Qatar want team to compete globally | Sat 21 Nov, 02:58 AM PKT
-- [needs_review] normal | 10 years after Brexit, UK weighs a ‘Breturn’ to the EU | Sat 21 Nov, 03:23 AM PKT
 - [needs_review] normal | Jennifer Lawrence and Josh Hutcherson reveal favorite Hunger Games fil | Sat 21 Nov, 03:43 AM PKT
 - [needs_review] normal | Gaza’s displaced children gather to celebrate World Children’s Day | Sat 21 Nov, 03:53 AM PKT
 - [needs_review] normal | Russian missiles land in Poland amid NATO drills | Sat 21 Nov, 04:18 AM PKT
@@ -367,7 +356,7 @@ First reported by Al Jazeera
 - [published] normal | Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen | Tue 24 Nov, 05:40 AM PKT
 - [published] normal | Israeli strikes kill at least three, including UNRWA worker, in Gaza | Tue 24 Nov, 05:50 AM PKT
 - [published] normal | Brentford hit Everton for four to soar into Premier League top six | Tue 24 Nov, 06:00 AM PKT
-- [queued] normal | Trump Demands Immediate Expedited Federal Executions While Blasting Ga | Tue 24 Nov, 06:53 AM PKT
+- [published] normal | Trump Demands Immediate Expedited Federal Executions While Blasting Ga | Tue 24 Nov, 06:53 AM PKT
 - [queued] normal | US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia S | Tue 24 Nov, 07:03 AM PKT
 - [queued] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
 - [queued] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
@@ -379,12 +368,16 @@ First reported by Al Jazeera
 - [queued] normal | Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrag | Tue 24 Nov, 09:06 AM PKT
 - [queued] normal | UN Chief Urges Global Agreement on AI Oversight Within a Year | Tue 24 Nov, 09:16 AM PKT
 - [queued] normal | Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request | Tue 24 Nov, 09:26 AM PKT
+- [queued] normal | Lahore ATC Grants Five-Day Physical Remand of PTI Leader | Tue 24 Nov, 10:02 AM PKT
+- [queued] normal | FoodAg Exhibition Showcases Pakistan's Growing Export Potential | Tue 24 Nov, 10:12 AM PKT
+- [queued] normal | Renowned Pop Singer Bunny Passes Away in Karachi | Tue 24 Nov, 10:22 AM PKT
+- [queued] normal | Surge in Used Phone Imports Hits Local Industry Hard | Tue 24 Nov, 10:32 AM PKT
 
 ## Publishing this run
-- Published 'Brentford hit Everton for four to soar into Premier League top six'.
+- Published 'Trump Demands Immediate Expedited Federal Executions While Blasting Gavin Newsom'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4255 | output tokens: 2076
+- Calls: 3 | prompt tokens: 4244 | output tokens: 2094
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
