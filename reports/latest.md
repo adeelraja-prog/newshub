@@ -1,165 +1,151 @@
-# News Hub report - Tue 24 Nov, 11:06 AM PKT
+# News Hub report - Tue 24 Nov, 12:26 PM PKT
 
 ## Collection
-- New items this run: 69 | items in rolling pool: 300
-- Unique story clusters: 243 (duplicates merged: 57)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 6
-- Items per outlet: Wired 16, Dawn Pakistan 11, Geo News 7, ARY News 7, ProPakistani 3, Profit by Pakistan Today 3, Dawn 2, The Express Tribune 2, TechJuice 2, PhoneWorld 2, The Current 2, Investify 2
+- New items this run: 133 | items in rolling pool: 404
+- Unique story clusters: 343 (duplicates merged: 61)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 59, ARY News 8, TechJuice 8, samaa tv 7, Geo News 7, Dawn Latest 5, Al Jazeera 5, ProPakistani 5, The Current 4, PhoneWorld 3, The Express Tribune 2, Dunya News 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Petroleum dealers threaten nationwide strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM orders to double wheat, flour supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 11 more ‘illegal’ Afghan nationals detained | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Investigation launched as ‘diphtheria’ claims life in Bajaur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bus and truck collision kills 11 in UAE’s Ras Al Khaimah | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab PA echoes with fiery exchanges over agri crisis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Journalists protest closure of media offices in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India's 'cockroach' party leader says he was stopped from flying to UK | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Petroleum dealers threaten nationwide strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM orders to double wheat, flour supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 11 more ‘illegal’ Afghan nationals detained | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Investigation launched as ‘diphtheria’ claims life in Bajaur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bus and truck collision kills 11 in UAE’s Ras Al Khaimah | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab PA echoes with fiery exchanges over agri crisis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Journalists protest closure of media offices in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India's 'cockroach' party leader says he was stopped from flying to UK | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Petroleum dealers threaten nationwide strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM orders to double wheat, flour supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 11 more ‘illegal’ Afghan nationals detained | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Investigation launched as ‘diphtheria’ claims life in Bajaur | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bus and truck collision kills 11 in UAE’s Ras Al Khaimah | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Punjab PA echoes with fiery exchanges over agri crisis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Journalists protest closure of media offices in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India's 'cockroach' party leader says he was stopped from flying to UK | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 93/120 | empty: 2 | failed: 25 | malformed/partial: 25
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
+- Trusted publisher desks with at least one healthy source: 9/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Imran Khan and Adiala Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI and Judiciary Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan National Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Provincial Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: World Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: UK Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- Trusted publisher desks with no healthy source: Dunya News TV
 
 ## Selected for the queue
-### Iran Parliament Speaker Warns US Seeks 'No War, No Peace' Stalemate  [NORMAL]
-- Poster: امریکہ ایران کے ساتھ جنگ اور امن کی غیر یقینی صورتحال چاہتا ہے / US Seeks No War, No Peace Stalemate With Iran | category us_politics
-- Alternative headline: US Seeking 'No War, No Peace' Stalemate With Iran, Says Speaker
+### Why Eisenkot is negotiating with Netanyahu amid political shifts  [NORMAL]
+- Poster: آیزەن کوٹ اور نیتن یاهو کے درمیان مذاکرات کیوں جاری ہیں؟ / Why Eisenkot is negotiating with Netanyahu | category politics
+- Alternative headline: Netanyahu gains political relevance as Eisenkot holds talks
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMizwFBVV95cUxQTnF4UWVpWmJwYVNtejZqay00RDVtenNzN0xLYmxSbVFmTjFVZWVVaDU1cmt3QjEzQXM0eGZadDlKS3Q4dzVOWlByTTVrN1NDcjFqX2t1a210SWctQm5pb0VaOHMzVWhmSFJkY0pHNkYzbkk1blJlNlltTFhtZ3AxQzdEa3lfdVYzaGJZVzZvUmtSZm0xMEFjczVsSFF6RUxudHhJaUN0VTBmcnhjWk9iQUtsNjFPc1ZvRTA5VzJ2Q2dkMUMxYmpqVUVqa0dJaE3SAdcBQVVfeXFMTVB1UmEtSnJ1RExTNUhfTkF1ckVaZ0dBd1F5c0xDZ3I4VGI5dmlvYWJ6TGZKQkF4UG1iTTkzcjJqRy1nb0hCRnVsVjV0R1ptSlZ3Z3h5SWVhci14UEVadkc2aEwyR3JlNmF0RWJPZHN0eE4xUFBUQmFGbVZZc2x0aG5qLXhobzZnX2ZHTEVOYWxnVk14b3pSc0tMZ25xUjI5d3MwcjF2Q2N5SnRiLTFzSlJGSUdzOXAtNkc1Ry1iU2o5TGd5XzU0VU5fcTQ3c0ZpWWttaWhqLU0?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMizwFBVV95cUxQTnF4UWVpWmJwYVNtejZqay00RDVtenNzN0xLYmxSbVFmTjFVZWVVaDU1cmt3QjEzQXM0eGZadDlKS3Q4dzVOWlByTTVrN1NDcjFqX2t1a210SWctQm5pb0VaOHMzVWhmSFJkY0pHNkYzbkk1blJlNlltTFhtZ3AxQzdEa3lfdVYzaGJZVzZvUmtSZm0xMEFjczVsSFF6RUxudHhJaUN0VTBmcnhjWk9iQUtsNjFPc1ZvRTA5VzJ2Q2dkMUMxYmpqVUVqa0dJaE3SAdcBQVVfeXFMTVB1UmEtSnJ1RExTNUhfTkF1ckVaZ0dBd1F5c0xDZ3I4VGI5dmlvYWJ6TGZKQkF4UG1iTTkzcjJqRy1nb0hCRnVsVjV0R1ptSlZ3Z3h5SWVhci14UEVadkc2aEwyR3JlNmF0RWJPZHN0eE4xUFBUQmFGbVZZc2x0aG5qLXhobzZnX2ZHTEVOYWxnVk14b3pSc0tMZ25xUjI5d3MwcjF2Q2N5SnRiLTFzSlJGSUdzOXAtNkc1Ry1iU2o5TGd5XzU0VU5fcTQ3c0ZpWWttaWhqLU0?oc=5
-- Supporting coverage: Anadolu Ajansı, The Express Tribune
-- Keywords: Iran US relations, Iran parliament speaker, US Iran stalemate, deterrence, Middle East politics | hashtags: #Iran #US #Geopolitics #MiddleEast
-- Scheduled: Tue 24 Nov, 11:06 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Eisenkot, Netanyahu, Likud, politics, talks, leverage | hashtags: #Eisenkot #Netanyahu #Likud #Politics #AlJazeera
+- Scheduled: Tue 24 Nov, 12:26 PM PKT
 - Caption:
 ```
-The Iranian parliament speaker has accused the US of maintaining a 'no war, no peace' stalemate with Iran, urging strong deterrence.
+Political dynamics shift as talks with various political powers provide leverage while giving Likud renewed relevance.
 
-The Iranian parliament speaker stated that the United States is seeking a 'no war, no peace' stalemate with Iran, highlighting the ongoing geopolitical tensions. The speaker emphasized the urgent need for robust deterrence strategies to counter these geopolitical maneuvers.
+Talks with different political powers give Yashar leverage while simultaneously offering Likud renewed political relevance amidst changing political equations.
 
-اییران کے پارلیمنٹ اسپیکر نے کہا ہے کہ امریکہ ایران کے ساتھ 'نہ جنگ، نہ امن' کی کیفیت برقرار رکھنا چاہتا ہے۔ انہوں نے اس صورتحال سے نمٹنے کے لیے مؤثر دفاعی حکمت عملی اپنانے پر زور دیا۔
+مختلف سیاسی طاقتوں کے ساتھ مذاکرات جہاں یاشار کو سیاسی فائدہ پہنچاتے ہیں، وہیں لیکوڈ کو بھی نئی سیاسی اہمیت فراہم کرتے ہیں۔
 
-First reported by The Express Tribune.
+According to Al Jazeera
 
-#Iran #US #Geopolitics #MiddleEast
+#Eisenkot #Netanyahu #Likud #Politics #AlJazeera
 ```
 
-### Petroleum Dealers Threaten Nationwide Strike Over Pricing Mechanism  [NORMAL]
-- Poster: پیٹرولیم ڈیلرز کی قیمتوں کے طریقہ کار پر ملک گیر ہڑتال کی دھمکی / Petroleum dealers threaten nationwide strike over pricing | category economy
-- Alternative headline: Nationwide Strike Threatened by Petroleum Dealers Over Price Revision
+### Ousted PM Sheikh Hasina plans December 16 return to Bangladesh  [NORMAL]
+- Poster: معزول وزیراعظم شیخ حسینہ کا 16 دسمبر کو بنگلہ دیش واپس آنے کا اعلان / Sheikh Hasina seeks return to Bangladesh on Dec 16 | category other
+- Alternative headline: Sheikh Hasina seeks state carrier flight for December return home
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUl1RndMN18wVW03RmNuRndnM0RRM2FzYndjeVM5Z0pMZi1BVlpieFZ2WGgxcEFTaWNSSWM4MFF4QUNwRUJxcmk3XzFhMm5SVXlRQ2t1ckpfX0RBVGNvd2dNeWZlMGxLMWlHUERHYVBRbVh5dGJGRTFRMWdZeGQ4MXZ2M3hzeVlyWjI40gGTAUFVX3lxTE9oSXNQUXhLbTV1UTRSSk5uNTVKMnlkZG8ybTJwTWEyVWF1emd4dm5OYnBweWotUFRiVEJPSWh4UFBxQW5jVUVqaEh6WFdyZFktTEFDUEhrS3AxVDdONkdvUERuWlBZa0kwVG9aMDRfRjFra19aRHRVYklnU3F2djdwLUQzRWpXUHVjTW92eVVOazhDQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUl1RndMN18wVW03RmNuRndnM0RRM2FzYndjeVM5Z0pMZi1BVlpieFZ2WGgxcEFTaWNSSWM4MFF4QUNwRUJxcmk3XzFhMm5SVXlRQ2t1ckpfX0RBVGNvd2dNeWZlMGxLMWlHUERHYVBRbVh5dGJGRTFRMWdZeGQ4MXZ2M3hzeVlyWjI40gGTAUFVX3lxTE9oSXNQUXhLbTV1UTRSSk5uNTVKMnlkZG8ybTJwTWEyVWF1emd4dm5OYnBweWotUFRiVEJPSWh4UFBxQW5jVUVqaEh6WFdyZFktTEFDUEhrS3AxVDdONkdvUERuWlBZa0kwVG9aMDRfRjFra19aRHRVYklnU3F2djdwLUQzRWpXUHVjTW92eVVOazhDQQ?oc=5
-- Supporting coverage: Business Recorder, The Express Tribune, Geo News, Geo News
-- Keywords: petroleum dealers strike, fuel prices, Pakistan petroleum, strike threat, price revision | hashtags: #PetrolStrike #PakistanEconomy #FuelPrices #BusinessNews
-- Scheduled: Tue 24 Nov, 11:16 AM PKT
+- Original source: published_report - ARY News https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier
+- Supporting coverage: ARY News, BBC World
+- Keywords: Sheikh Hasina, Bangladesh, return, exile, Biman Bangladesh Airlines, Delhi | hashtags: #SheikhHasina #Bangladesh #Dhaka #Delhi #News
+- Scheduled: Tue 24 Nov, 12:36 PM PKT
 - Caption:
 ```
-Petroleum dealers across the country have threatened to launch a nationwide strike over disputes regarding the pricing mechanism.
+Ousted Bangladeshi Prime Minister Sheikh Hasina plans to end over two years of exile by returning home on December 16.
 
-Petroleum dealers have issued a warning of a nationwide strike due to grievances with the current price revision and profit margin mechanism. The potential shutdown could disrupt fuel supplies across Pakistan if negotiations fail to resolve the deadlock.
+Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return from exile in India on December 16, urging the government to arrange her transport on Biman Bangladesh Airlines, potentially raising political tensions.
 
-پیٹرولیم ڈیلرز نے قیمتوں کے طریقہ کار کے خلاف ملک گیر ہڑتال کی دھمکی دی ہے۔ مطالبات نہ مانے جانے کی صورت میں ملک بھر میں فیول کی فراہمی معطل ہو سکتی ہے۔
+بنگلہ دیش کی معزول وزیراعظم شیخ حسینہ نے 16 دسمبر کو بھارت سے وطن واپس آنے کا اعلان کیا ہے اور حکومت سے مطالبہ کیا ہے کہ ان کی واپسی کے لیے سرکاری ایئر لائن کا انتظام کیا جائے۔
 
-First reported by The Express Tribune; also reported by Business Recorder and Geo News.
+First reported by ARY News; also reported by BBC World
 
-#PetrolStrike #PakistanEconomy #FuelPrices #BusinessNews
+#SheikhHasina #Bangladesh #Dhaka #Delhi #News
 ```
 
-### Punjab CM Orders Authorities to Double Wheat and Flour Supply  [NORMAL]
-- Poster: وزیراعلیٰ پنجاب کا گندم اور آٹے کی فراہمی دوگنا کرنے کا حکم / CM Punjab orders to double wheat and flour supply | category economy
-- Alternative headline: Wheat and Flour Supply to be Doubled Under CM Punjab's Orders
+### Bus and truck collision kills 11 people in UAE's Ras Al Khaimah  [NORMAL]
+- Poster: متحدہ عرب امارات میں بس اور ٹرک کی تصادم میں 11 افراد جاں بحق / Bus-truck collision kills 11 in UAE's Ras Al Khaimah | category other
+- Alternative headline: 11 dead after passenger bus and truck collide in Ras Al Khaimah
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTE5GWXB0eUFkaDloQTZpUE9zSEFMSzdFRG1QcFlkVUo5eVlkTUQ1MXhYaWl1aW5aUkprM1BxR3otY3JNNFZqc2xEemIwYmtSdUtHSUNTelVKV1kzb1U4VFZjZ2RpeG1JOHNCUEdJbGNVM2x0MGJqMlMwYVJ5OEM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTE5GWXB0eUFkaDloQTZpUE9zSEFMSzdFRG1QcFlkVUo5eVlkTUQ1MXhYaWl1aW5aUkprM1BxR3otY3JNNFZqc2xEemIwYmtSdUtHSUNTelVKV1kzb1U4VFZjZ2RpeG1JOHNCUEdJbGNVM2x0MGJqMlMwYVJ5OEM?oc=5
+- Original source: published_report - ARY News https://arynews.tv/bus-and-truck-collision-kills-11-in-uaes-ras-al-khaimah | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/bus-and-truck-collision-kills-11-in-uaes-ras-al-khaimah
+- Supporting coverage: ARY News, Dawn Latest, Geo News, samaa tv
+- Keywords: Ras Al Khaimah, UAE, bus crash, collision, interior ministry, Al Watan Road | hashtags: #RasAlKhaimah #UAE #Accident #BreakingNews #TrafficCrash
+- Scheduled: Tue 24 Nov, 12:46 PM PKT
+- Caption:
+```
+Eleven people lost their lives in a tragic collision between a passenger bus and a truck on Al Watan Road.
+
+Eleven people were killed when a passenger bus and a truck collided on Al Watan Road in Ras Al Khaimah, according to the UAE interior ministry. Emergency teams responded to the scene as authorities launched an investigation.
+
+متحدہ عرب امارات کے علاقے راس الخیمہ میں مسافر بس اور ٹرک کے درمیان تصادم کے نتیجے میں 11 افراد جاں بحق ہو گئے۔ وزارت داخلہ کے مطابق حادثے کی تحقیقات شروع کر دی گئی ہیں۔
+
+First reported by ARY News; also reported by Dawn Latest and Geo News
+
+#RasAlKhaimah #UAE #Accident #BreakingNews #TrafficCrash
+```
+
+### Punjab Assembly echoes with fiery exchanges over agricultural crisis  [NORMAL]
+- Poster: زرعی بحران پر پنجاب اسمبلی کا اجلاس ہنگامہ آرائی کی نذر / Punjab PA echoes with fiery exchanges over agri crisis | category other
+- Alternative headline: MPAs spar in Punjab Assembly amid deepening agrarian crisis
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOT3dPSnZZRmVJSzEtY3JIREtBVUZoOHQxVXhKcmpsUGZ0c3lhTFpGVzVWb010YktOUG1QSk1mSXNZX05ReWRPeg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOT3dPSnZZRmVJSzEtY3JIREtBVUZoOHQxVXhKcmpsUGZ0c3lhTFpGVzVWb010YktOUG1QSk1mSXNZX05ReWRPeg?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: wheat supply Punjab, Punjab CM, flour supply, food security, Pakistan economy | hashtags: #Punjab #WheatSupply #FoodSecurity #Pakistan
-- Scheduled: Tue 24 Nov, 11:26 AM PKT
+- Keywords: Punjab Assembly, agricultural crisis, MPAs, Punjab govt, agri crisis, debate | hashtags: #PunjabAssembly #AgricultureCrisis #PunjabGovt #PakistanNews #Politics
+- Scheduled: Tue 24 Nov, 12:56 PM PKT
 - Caption:
 ```
-The Punjab Chief Minister has issued strict directives to double the supply of wheat and flour across the province.
+Lawmakers engaged in fiery exchanges inside the Punjab Assembly as debates intensified over the deepening agricultural crisis.
 
-In a bid to ensure food security and price stability, the Punjab Chief Minister has ordered authorities to double the supply of wheat and flour. The move aims to facilitate citizens and control potential price hikes in the market.
+The Punjab Assembly witnessed fiery exchanges among lawmakers as discussions focused on the deepening agricultural crisis, with members expressing strong concerns over the state of agriculture in the province.
 
-وزیراعلیٰ پنجاب نے صوبے میں گندم اور آٹے کی فراہمی کو دوگنا کرنے کا حکم دے دیا ہے۔ اس اقدام کا مقصد شہریوں کو ریلیف فراہم کرنا اور مارکیٹ میں قیمتوں کو کنٹرول کرنا ہے۔
+پنجاب اسمبلی میں زرعی بحران پر ہونے والی بحث کے دوران اراکین کے درمیان شدید گرما گرمی اور ہنگامہ آرائی دیکھنے میں آئی۔
 
-First reported by Dawn.
+First reported by Dawn
 
-#Punjab #WheatSupply #FoodSecurity #Pakistan
+#PunjabAssembly #AgricultureCrisis #PunjabGovt #PakistanNews #Politics
 ```
 
-### 11 More Illegal Afghan Nationals Detained in Rawalpindi  [NORMAL]
-- Poster: راولپنڈی میں مزید 11 غیر قانونی مقیم افغان شہری حراست میں / 11 more illegal Afghan nationals detained in Rawalpindi | category security
-- Alternative headline: Rawalpindi Police Detain 11 More Illegal Afghan Nationals
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmJ1aF93cTVKSzVCV2dITm1fanRKMzd3bUZxanBIMlRyWXkwWncyS0lCNVhKQmFOTVhqZzdJREtBRFJiaEZDbm1nWDJoYVNmWFJJa3VwazVQY0lrYUprT1JzNGlxaUJKSVZ6cmtFdFE0V2RLb08tZ0gzUjVsak9qLQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmJ1aF93cTVKSzVCV2dITm1fanRKMzd3bUZxanBIMlRyWXkwWncyS0lCNVhKQmFOTVhqZzdJREtBRFJiaEZDbm1nWDJoYVNmWFJJa3VwazVQY0lrYUprT1JzNGlxaUJKSVZ6cmtFdFE0V2RLb08tZ0gzUjVsak9qLQ?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: illegal Afghans detained, Rawalpindi police, Afghan nationals, security crackdown, Pakistan security | hashtags: #Rawalpindi #Security #LawEnforcement #Pakistan
-- Scheduled: Tue 24 Nov, 11:36 AM PKT
-- Caption:
-```
-Authorities in Rawalpindi have detained eleven more illegal Afghan nationals as part of ongoing security operations.
-
-Security forces and law enforcement agencies in Rawalpindi have detained 11 additional Afghan nationals living illegally in the area. The detentions are part of the broader crackdown on undocumented foreign nationals across the country.
-
-راولپنڈی میں قانون نافذ کرنے والے اداروں نے کارروائی کرتے ہوئے مزید 11 غیر قانونی طور پر مقیم افغان شہریوں کو حراست میں لے لیا۔ یہ کارروائیاں ملک بھر میں جاری مہم کا حصہ ہیں۔
-
-First reported by Dawn.
-
-#Rawalpindi #Security #LawEnforcement #Pakistan
-```
-
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [needs_review] normal | Fossil fuel talks deadlock pushes COP31 into overtime | Sat 21 Nov, 04:48 AM PKT
-- [needs_review] normal | Rahul Gandhi Backs Strong India-Israel Ties Despite Gaza War | Sat 21 Nov, 05:08 AM PKT
-- [needs_review] normal | Pakistan Crowned Men’s Blind Cricket Asia Cup Champions | Sat 21 Nov, 05:18 AM PKT
-- [needs_review] normal | Anthropic Researcher Claims Claude Chatbot Solved Math’s Greatest Ridd | Sat 21 Nov, 05:28 AM PKT
 - [needs_review] normal | Saudi Coalition Intercepts Three Houthi Missiles as Riyadh Triggers Em | Sat 21 Nov, 06:25 AM PKT
 - [needs_review] normal | Nepal's Prime Minister Targets Trade and Connectivity in Crucial India | Sat 21 Nov, 06:35 AM PKT
 - [needs_review] normal | Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Leas | Sat 21 Nov, 06:45 AM PKT
@@ -169,9 +155,6 @@ First reported by Dawn.
 - [needs_review] normal | Pakistan Rises 17 Places in UN E-Governance Ranking | Sat 21 Nov, 08:21 AM PKT
 - [needs_review] normal | SECP Tightens Scrutiny on Corporate Audit Reports | Sat 21 Nov, 08:31 AM PKT
 - [needs_review] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
-- [published] normal | Can Israel’s opposition bloc stay united against Netanyahu? | Sat 21 Nov, 11:30 AM PKT
-- [published] normal | Saudi forces launch major military strikes across Yemen | Sat 21 Nov, 11:40 AM PKT
-- [published] normal | Three suspects remanded into FIA custody over counterfeit vaccine | Sat 21 Nov, 11:50 AM PKT
 - [needs_review] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [published] normal | Mustafa Kamal urges PTI to unconditionally support creation of new pro | Sat 21 Nov, 12:51 PM PKT
@@ -360,7 +343,7 @@ First reported by Dawn.
 - [published] normal | Brentford hit Everton for four to soar into Premier League top six | Tue 24 Nov, 06:00 AM PKT
 - [published] normal | Trump Demands Immediate Expedited Federal Executions While Blasting Ga | Tue 24 Nov, 06:53 AM PKT
 - [published] normal | US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia S | Tue 24 Nov, 07:03 AM PKT
-- [queued] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
+- [published] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
 - [queued] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
 - [queued] normal | Qatar PM Works to Revive US-Iran Talks After Rubio Meeting | Tue 24 Nov, 07:52 AM PKT
 - [queued] normal | Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran | Tue 24 Nov, 08:02 AM PKT
@@ -378,18 +361,19 @@ First reported by Dawn.
 - [queued] normal | Petroleum Dealers Threaten Nationwide Strike Over Pricing Mechanism | Tue 24 Nov, 11:16 AM PKT
 - [queued] normal | Punjab CM Orders Authorities to Double Wheat and Flour Supply | Tue 24 Nov, 11:26 AM PKT
 - [queued] normal | 11 More Illegal Afghan Nationals Detained in Rawalpindi | Tue 24 Nov, 11:36 AM PKT
+- [queued] normal | Why Eisenkot is negotiating with Netanyahu amid political shifts | Tue 24 Nov, 12:26 PM PKT
+- [failed] normal | Ousted PM Sheikh Hasina plans December 16 return to Bangladesh | Tue 24 Nov, 12:36 PM PKT
+- [queued] normal | Bus and truck collision kills 11 people in UAE's Ras Al Khaimah | Tue 24 Nov, 12:46 PM PKT
+- [queued] normal | Punjab Assembly echoes with fiery exchanges over agricultural crisis | Tue 24 Nov, 12:56 PM PKT
 
 ## Publishing this run
-- Published 'US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia Scandal'.
+- Published 'King Charles and Elton John Pay Tribute to Late Australian Music Legend Molly Meldrum'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5102 | output tokens: 1978
+- Calls: 3 | prompt tokens: 4048 | output tokens: 2184
 - Errors: 2
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an

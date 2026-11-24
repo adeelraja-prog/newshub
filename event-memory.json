@@ -136960,7 +136960,588 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a7f4a0ac99868d56367692a4",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T03:42:20+00:00",
+      "last_update": "2026-11-24T06:23:01+00:00",
+      "event": "Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bangladesh",
+        "carrier",
+        "december",
+        "hasina",
+        "return",
+        "seeks",
+        "sheikh",
+        "state"
+      ],
+      "source_excerpt": "Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier",
+          "published_at": "2026-11-24T03:42:20+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T06:23:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier",
+        "publisher_url": "https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a893833dd234b7ca8ff1e7f",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T06:21:23+00:00",
+      "last_update": "2026-11-24T07:26:06+00:00",
+      "event": "Bus and truck collision kills 11 in UAE’s Ras Al Khaimah",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bus",
+        "collision",
+        "khaimah",
+        "kills",
+        "ras",
+        "truck",
+        "uae"
+      ],
+      "source_excerpt": "Bus and truck collision kills 11 in UAE’s Ras Al Khaimah",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/bus-and-truck-collision-kills-11-in-uaes-ras-al-khaimah",
+          "published_at": "2026-11-24T06:21:23+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046739/collision-between-bus-truck-kills-11-in-uae",
+          "published_at": "2026-11-24T06:45:05+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692419-11-killed-in-bus-truck-collision-in-uaes-ras-al-khaimah",
+          "published_at": "2026-11-24T07:12:20+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdEFwUkk2Vlk5Q003VTRIRXVPWFYtM3k0WVFuWDNzYmVReW5fa0ptZUxuTU1MaGY5QXEtUnlNNE55UTZENzRiZ3NlaDUzTnFjeUhjdkxFaHZQZlBrSVNTLWRVM2tuUHlWTFZMV1N0OWRWUWJvZk0wemdkekRtVzVkT2pDLWl1RnRXVkR2cw?oc=5",
+          "published_at": "2026-11-24T07:26:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/bus-and-truck-collision-kills-11-in-uaes-ras-al-khaimah",
+        "publisher_url": "https://arynews.tv/bus-and-truck-collision-kills-11-in-uaes-ras-al-khaimah",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "45cbf50a0a1d0f885bbce906",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T07:13:18+00:00",
+      "last_update": "2026-11-24T07:13:18+00:00",
+      "event": "Member states must not betray the ICC",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "betray",
+        "change",
+        "devastating",
+        "for",
+        "icc",
+        "international",
+        "justice",
+        "member",
+        "must",
+        "not",
+        "pressure",
+        "rome",
+        "states",
+        "statute",
+        "succumbing",
+        "the",
+        "would"
+      ],
+      "source_excerpt": "Succumbing to US pressure to change the Rome Statute would be devastating for international justice.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
+          "published_at": "2026-11-24T07:13:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "77a8e900933017bd6005d71d",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T07:02:52+00:00",
+      "last_update": "2026-11-24T07:02:52+00:00",
+      "event": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australia",
+        "bill",
+        "could",
+        "dollar",
+        "expected",
+        "fines",
+        "firms",
+        "for",
+        "giants",
+        "global",
+        "harm",
+        "impose",
+        "internet",
+        "multibillion",
+        "new",
+        "online",
+        "pass",
+        "percent",
+        "revenue",
+        "safety",
+        "tech",
+        "this",
+        "warns",
+        "week"
+      ],
+      "source_excerpt": "New internet safety bill expected to pass this week could impose fines of up to 5 percent of firms' global revenue.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
+          "published_at": "2026-11-24T07:02:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "33e1c86a5b012bc531d92f94",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T07:02:40+00:00",
+      "last_update": "2026-11-24T07:02:40+00:00",
+      "event": "Why Eisenkot is negotiating with Netanyahu",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "also",
+        "but",
+        "different",
+        "eisenkot",
+        "give",
+        "leverage",
+        "likud",
+        "negotiating",
+        "netanyahu",
+        "political",
+        "powers",
+        "relevance",
+        "renewed",
+        "talks",
+        "they",
+        "why",
+        "with",
+        "yashar"
+      ],
+      "source_excerpt": "Talks with different political powers give Yashar leverage. But they also give Likud renewed political relevance.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss",
+          "published_at": "2026-11-24T07:02:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1253f96765f8c71a394fcbd1",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T05:56:41+00:00",
+      "last_update": "2026-11-24T05:56:41+00:00",
+      "event": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "arsenal",
+        "champions",
+        "club",
+        "competition",
+        "dortmund",
+        "english",
+        "europe",
+        "german",
+        "how",
+        "leaders",
+        "league",
+        "lineups",
+        "pits",
+        "predictions",
+        "premier",
+        "tuesday",
+        "watch"
+      ],
+      "source_excerpt": "Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
+          "published_at": "2026-11-24T05:56:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "98d50376356570965ace3c65",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T06:36:26+00:00",
+      "last_update": "2026-11-24T06:36:26+00:00",
+      "event": "Delia Smith joins opponents of £1.2bn data centre",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2bn",
+        "about",
+        "and",
+        "author",
+        "centre",
+        "cook",
+        "data",
+        "delia",
+        "environmental",
+        "facility",
+        "impact",
+        "joins",
+        "keswick",
+        "opponents",
+        "proposed",
+        "smith",
+        "the",
+        "worried"
+      ],
+      "source_excerpt": "The TV cook and author is worried about the proposed Keswick facility's environmental impact.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T06:36:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "884a5ec6934eb26d5a61ede7",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T06:16:51+00:00",
+      "last_update": "2026-11-24T06:16:51+00:00",
+      "event": "Goats drafted in to tame Greenwich Park slope",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "bagot",
+        "check",
+        "drafted",
+        "from",
+        "goats",
+        "greenwich",
+        "help",
+        "keep",
+        "observatory",
+        "park",
+        "preserve",
+        "royal",
+        "slope",
+        "tame",
+        "the",
+        "used",
+        "vegetation",
+        "view"
+      ],
+      "source_excerpt": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T06:16:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "003dea6a409c619dcc0c337c",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T06:09:27+00:00",
+      "last_update": "2026-11-24T06:09:27+00:00",
+      "event": "Esports gave me a place to belong, says student",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "belong",
+        "esports",
+        "gave",
+        "place",
+        "says",
+        "student"
+      ],
+      "source_excerpt": "Esports gave me a place to belong, says student BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13MVdmWlFGMVBpV2NqOTZzVE5oMVQ5MmlRRk9NS0tSbDVhMTRwbktrWXZ3cGR2d3pVRjJCOElJUEkwMXU4WjBwT3MzbUY0WVR4Q05sOXY1SmZmYW8?oc=5",
+          "published_at": "2026-11-24T06:09:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13MVdmWlFGMVBpV2NqOTZzVE5oMVQ5MmlRRk9NS0tSbDVhMTRwbktrWXZ3cGR2d3pVRjJCOElJUEkwMXU4WjBwT3MzbUY0WVR4Q05sOXY1SmZmYW8?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1ed53e1280c83420d5e0db9b",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T06:00:47+00:00",
+      "last_update": "2026-11-24T06:00:47+00:00",
+      "event": "Afghan women with UK university offers 'heartbroken' after visas stopped",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghan",
+        "after",
+        "bbc",
+        "heartbroken",
+        "offers",
+        "stopped",
+        "university",
+        "visas",
+        "with",
+        "women"
+      ],
+      "source_excerpt": "Afghan women with UK university offers 'heartbroken' after visas stopped BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVXpwRGJZUnNGTWw2bFpJRTBjR0VjbUQxbS1qNTVPY1ktM2ZQZUxQTWtwQjNabGg0Y0xkM210bmZGaTVvOGtPWkN0amZ6enFvN0g0SGJQclhkTTQ?oc=5",
+          "published_at": "2026-11-24T06:00:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVXpwRGJZUnNGTWw2bFpJRTBjR0VjbUQxbS1qNTVPY1ktM2ZQZUxQTWtwQjNabGg0Y0xkM210bmZGaTVvOGtPWkN0amZ6enFvN0g0SGJQclhkTTQ?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f520c03fd0baaa8031166475",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T03:57:26+00:00",
+      "last_update": "2026-11-24T03:57:26+00:00",
+      "event": "NCCIA busts online romance scam involving Rs5.8 mln fraud",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "busts",
+        "fraud",
+        "involving",
+        "mln",
+        "nccia",
+        "online",
+        "romance",
+        "rs5",
+        "scam"
+      ],
+      "source_excerpt": "NCCIA busts online romance scam involving Rs5.8 mln fraud",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/nccia-busts-online-romance-scam-involving-rs5-8-mln-fraud",
+          "published_at": "2026-11-24T03:57:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/nccia-busts-online-romance-scam-involving-rs5-8-mln-fraud",
+        "publisher_url": "https://arynews.tv/nccia-busts-online-romance-scam-involving-rs5-8-mln-fraud",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9ab5cf870891b68f356461f7",
+      "remembered_at": "2026-11-24T07:26:34.793576+00:00",
+      "event_date": "2026-11-24T06:08:04+00:00",
+      "last_update": "2026-11-24T06:08:04+00:00",
+      "event": "Pakistani stars bid emotional farewell to Netflix characters",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bid",
+        "characters",
+        "emotional",
+        "farewell",
+        "netflix",
+        "pakistani",
+        "samaa",
+        "stars"
+      ],
+      "source_excerpt": "Pakistani stars bid emotional farewell to Netflix characters samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEdleHZjaERacWJteU9YdUNSdXVzZWFRTDJ2bS15NVR0ZkRGXy1JUGNHNGV5SmdGci1NVV9ILWw1OUcyZVNUR011cVFGRHRLeGJCQXRhNHlIcjBYc2Ixb2dEMk5mTGFxZ1RPWW5abXlHbVR6SHdVam55M2FTa3gxRTJOa2c5MWdFYVlnbDZVQm80OXZiYUxJ?oc=5",
+          "published_at": "2026-11-24T06:08:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEdleHZjaERacWJteU9YdUNSdXVzZWFRTDJ2bS15NVR0ZkRGXy1JUGNHNGV5SmdGci1NVV9ILWw1OUcyZVNUR011cVFGRHRLeGJCQXRhNHlIcjBYc2Ixb2dEMk5mTGFxZ1RPWW5abXlHbVR6SHdVam55M2FTa3gxRTJOa2c5MWdFYVlnbDZVQm80OXZiYUxJ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T06:06:04.824268+00:00"
+  "updated_at": "2026-11-24T07:26:34.793576+00:00"
 }
