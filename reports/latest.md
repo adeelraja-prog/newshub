@@ -1,55 +1,52 @@
-# News Hub report - Tue 24 Nov, 10:39 PM PKT
+# News Hub report - Wed 25 Nov, 12:44 AM PKT
 
 ## Collection
-- New items this run: 80 | items in rolling pool: 1071
-- Unique story clusters: 856 (duplicates merged: 215)
-- Clusters dropped as already published/queued: 15; unchanged since last analysis: 4
-- Items per outlet: Geo News 10, UrduPoint 10, Pakistan Today 8, ARY News 5, Al Jazeera 5, Engadget 4, Dawn 3, TechCrunch 3, TechJuice 3, BBC 3, The News International 2, The Express Tribune 2
+- New items this run: 58 | items in rolling pool: 839
+- Unique story clusters: 673 (duplicates merged: 166)
+- Clusters dropped as already published/queued: 11; unchanged since last analysis: 2
+- Items per outlet: ARY News 8, Al Jazeera 8, Geo News 5, The News International 5, samaa tv 4, Dawn 3, The Verge 2, Engadget 2, Wired 2, Dunya News 1, Dawn Pakistan 1, Dawn Latest 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
+- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Balochistan govt announces rewards of up to Rs250m for information on wanted terrorists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Muse: Would you let Meta's AI agent run parts of your life? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Huang’s return fails to dispel doubts as Nvidia shares drop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Balochistan govt announces rewards of up to Rs250m for information on wanted terrorists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Muse: Would you let Meta's AI agent run parts of your life? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Huang’s return fails to dispel doubts as Nvidia shares drop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Balochistan govt announces rewards of up to Rs250m for information on wanted terrorists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Muse: Would you let Meta's AI agent run parts of your life? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Huang’s return fails to dispel doubts as Nvidia shares drop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 3
+- News posts published today: 0 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
 
 ## Queue status
-- [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
-- [needs_review] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
 - [needs_review] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
 - [needs_review] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
 - [needs_review] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
@@ -66,7 +63,6 @@
 - [needs_review] normal | Punjab Workers Welfare Fund launches new WhatsApp helpline | Sat 21 Nov, 11:31 PM PKT
 - [needs_review] normal | Chelsea suffer shock 4-1 home defeat against Leeds United | Sat 21 Nov, 11:41 PM PKT
 - [needs_review] normal | Russian strike kills two and wounds 60 in Kryvyi Rih | Sat 21 Nov, 11:51 PM PKT
-- [published] normal | Trump Pushes For Permanent Deal To Block Iran Nuclear Program | Sun 22 Nov, 12:24 AM PKT
 - [needs_review] normal | Kaliningrad-Bound Ship Struck By Drones In Gulf Of Finland | Sun 22 Nov, 12:34 AM PKT
 - [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 12:44 AM PKT
 - [needs_review] normal | UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt | Sun 22 Nov, 12:54 AM PKT
@@ -245,15 +241,16 @@
 - [needs_review] normal | Five suspected terrorists killed in CTD intelligence-based operation i | Tue 24 Nov, 04:03 PM PKT
 - [needs_review] normal | Peshawar CTD operation leaves five terrorists dead, weapons and grenad | Tue 24 Nov, 04:13 PM PKT
 - [needs_review] normal | Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status | Tue 24 Nov, 04:23 PM PKT
-- [queued] promo | [YouTube] MAULANA FAZLUR REHMAN BETRAYED? RANA SLAMS MOHSIN NAQVI | Tue 24 Nov, 04:55 PM PKT
+- [published] promo | [YouTube] MAULANA FAZLUR REHMAN BETRAYED? RANA SLAMS MOHSIN NAQVI | Tue 24 Nov, 04:55 PM PKT
 - [queued] promo | [YouTube] KHAWAJA ASIF EXPOSED! THE ANGRY MAN GOES SILENT | Tue 24 Nov, 04:55 PM PKT
 - [published] normal | Iraq Orders Takeover of Oilfields in Kurdish-Controlled Areas | Tue 24 Nov, 04:55 PM PKT
-- [queued] normal | Woman Receiving British-Era Pension Passes Away at 107 in Sindh | Tue 24 Nov, 05:05 PM PKT
-- [queued] normal | Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat | Tue 24 Nov, 05:15 PM PKT
-- [queued] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
+- [needs_review] normal | Woman Receiving British-Era Pension Passes Away at 107 in Sindh | Tue 24 Nov, 05:05 PM PKT
+- [needs_review] normal | Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat | Tue 24 Nov, 05:15 PM PKT
+- [needs_review] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
+- [queued] promo | [YouTube] MARYAM NAWAZ EXPOSED: RS 10 LAKH FLOWERS, MAULANA BLOCKED | Tue 24 Nov, 11:36 PM PKT
 
 ## Publishing this run
-- Published 'Iraq Orders Takeover of Oilfields in Kurdish-Controlled Areas'.
+- No post published: due items are waiting for the 10-minute gap, the daily limit or the publishing window.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
@@ -262,10 +259,10 @@
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,

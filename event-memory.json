@@ -144362,7 +144362,1312 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4baa7de8fba6ae1c756aa869",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T16:12:42+00:00",
+      "last_update": "2026-11-24T18:06:01+00:00",
+      "event": "Govt selects consortium of 3 foreign banks for $500m finance facility backed by MIGA",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500",
+        "500m",
+        "agency",
+        "and",
+        "arrange",
+        "backed",
+        "bank",
+        "banks",
+        "bids",
+        "competitive",
+        "consortium",
+        "facility",
+        "finance",
+        "following",
+        "for",
+        "foreign",
+        "from",
+        "government",
+        "govt",
+        "group",
+        "guarantee",
+        "investment",
+        "islamabad",
+        "member",
+        "miga",
+        "million",
+        "multilateral",
+        "nin",
+        "process",
+        "receipt",
+        "selected",
+        "selection",
+        "selects",
+        "the",
+        "three",
+        "trade",
+        "tuesday",
+        "world"
+      ],
+      "source_excerpt": "ISLAMABAD: The government on Tuesday selected a consortium of three foreign banks to arrange a $500 million trade finance facility, backed by the Multilateral Investment Guarantee Agency (MIGA), a member of the World Bank Group. “Following a competitive selection process and receipt of bids from nin",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046795/govt-selects-consortium-of-3-foreign-banks-for-500m-finance-facility-backed-by-miga",
+          "published_at": "2026-11-24T16:12:42+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWh4eU1JVzl2MEo2QTBsek91M09TQnh6S0NYTHhuRHhOWjdaa2EwdlNNenNQUFA3X2F0NTFoNXNPQjJIeHkxbjItRmhCNnF3N3Z6eUVtVnpmdGxEbnFTMDFjOHNLcFVsYVlWVDNaRDc0TlpoRTQ5Qk41d2NTai1QQVJ3LWJCS1ZBUGNrUms2aWxvbzQ1OE40ZDQ4X2g2eUZVa3BKOFp2R0dVVGNVUEVSVVk0VzNWQdIBU0FVX3lxTE5xc081SFFYbnBsT3l1eThSUlhtNDltM24yQmVHZ05MRkRKNC11aEFTUlUzOHM0Z2VrdmNKcUMwZHU2bkhESm1QWDdiTU1hM1NxUUhF?oc=5",
+          "published_at": "2026-11-24T18:06:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046795/govt-selects-consortium-of-3-foreign-banks-for-500m-finance-facility-backed-by-miga",
+        "publisher_url": "https://www.dawn.com/news/2046795/govt-selects-consortium-of-3-foreign-banks-for-500m-finance-facility-backed-by-miga",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "472c1720666354b83268722f",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T10:38:35+00:00",
+      "last_update": "2026-11-24T14:22:04+00:00",
+      "event": "Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "business",
+        "dawn",
+        "deteriorates",
+        "mideast",
+        "oicci",
+        "pakistan",
+        "says",
+        "sentiment",
+        "sharply",
+        "tensions"
+      ],
+      "source_excerpt": "Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI Dawn",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/24/foreign-investor-confidence-pakistan-crashes-oicci/",
+          "published_at": "2026-11-24T10:38:35+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUk43cDBBTTZJUmd1bGplT0FEaXZHNVlnaHQzY1BRV2lfLUFsTW95M3NJZmU3eE9HdVpWY1F2SU9HbGY0M1JzY042SWoydVNtM2lJVmxUOWpGVHZwX3pnNjVlMG5OWUNnRU5MSEVsd1NjTzdnR19mXzhxRVY1cmFZdFFtbUVtRm9LbGEwUEcyRDh4QkhfeVRLaWluS2p4blQ4c0FESVFmTGpjQUxSbzIwNHdQSVd5QW5wRlUyeVBZUVBjNk14d1AyeVM3YmQ?oc=5",
+          "published_at": "2026-11-24T11:14:54+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzBfVEV4X2FkTjZKSEh2Znk1OWczTWY5NkQwM0lkWnlvYXl4bzQ4NnoxWmZ4YjItbkJqZzNxUFYxQk5MVi16THpXdXN2aE03N1ZMVmJCclNKR2xzTkU5a2hQX1NlZlZuVjQ3YXJsMW1kRTRFek42Q3dZNS13YXRTcnRQSFVrVGx6QUlTZWkzVHhPZUxQQ0M2eEdNVFhFZ1VaV3ZRQ3p4Zk1sbVRfWnZ2Ri03SHJBUWs?oc=5",
+          "published_at": "2026-11-24T14:22:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzBfVEV4X2FkTjZKSEh2Znk1OWczTWY5NkQwM0lkWnlvYXl4bzQ4NnoxWmZ4YjItbkJqZzNxUFYxQk5MVi16THpXdXN2aE03N1ZMVmJCclNKR2xzTkU5a2hQX1NlZlZuVjQ3YXJsMW1kRTRFek42Q3dZNS13YXRTcnRQSFVrVGx6QUlTZWkzVHhPZUxQQ0M2eEdNVFhFZ1VaV3ZRQ3p4Zk1sbVRfWnZ2Ri03SHJBUWs?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "30c8cc2b75c3c2efd5931e07",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T14:18:37+00:00",
+      "last_update": "2026-11-24T18:27:54+00:00",
+      "event": "11 injured as Riyadh skyscraper hit second time in less than a week",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "also",
+        "attack",
+        "attacked",
+        "building",
+        "coalition",
+        "days",
+        "denounced",
+        "fighting",
+        "for",
+        "high",
+        "hit",
+        "hostilities",
+        "houthis",
+        "injured",
+        "injuring",
+        "last",
+        "less",
+        "one",
+        "people",
+        "profile",
+        "res",
+        "riyadh",
+        "second",
+        "several",
+        "since",
+        "skyscraper",
+        "struck",
+        "tallest",
+        "targets",
+        "terrorist",
+        "than",
+        "the",
+        "thursday",
+        "time",
+        "tuesday",
+        "was",
+        "week",
+        "which",
+        "with"
+      ],
+      "source_excerpt": "Riyadh’s tallest skyscraper was struck for the second time in days on Tuesday, injuring 11 people, as the coalition fighting Houthis denounced a “terrorist attack”. The building, which was also attacked last Thursday , is one of several high-profile targets hit since hostilities with the Houthis res",
+      "sources": [
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHQzUkJreW9MY200d0Q5WVNDMFhUaXB1U0tvUURKOE9XbEtrMzRWSG5NLUJxdWdKUXcyS2RubU82cmR3QzJnNGZYYUs4UVFrN0h6ZUoxMXdtcHhwWDlIdlh2YXRXR3hrWk9hSld4eFVrNkVkbUNoSEl6UXhpNjA1ZUJlYXBoeFdFVUt0aVhtMmdaVkw0SHVrcjVMRl81OHRwOWlSYUZOTFp5M3VnOXpDZ0NB0gFTQVVfeXFMTTNJcDNGVE1ncjBYaF8wQWg4WWhGRVkyTTFKTzZVVkdmaTFCYzB0NVNjeEJXUWlOVDJlcWQtR2t4amNpT0tBdXFZR0RNZVBsXzNOR1U?oc=5",
+          "published_at": "2026-11-24T14:18:37+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046804/11-injured-as-riyadh-skyscraper-hit-second-time-in-less-than-a-week",
+          "published_at": "2026-11-24T18:27:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046804/11-injured-as-riyadh-skyscraper-hit-second-time-in-less-than-a-week",
+        "publisher_url": "https://www.dawn.com/news/2046804/11-injured-as-riyadh-skyscraper-hit-second-time-in-less-than-a-week",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ba10183cc799f238215ef8f7",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T18:01:13+00:00",
+      "last_update": "2026-11-24T18:01:29+00:00",
+      "event": "Petrol, diesel prices revised in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "diesel",
+        "pakistan",
+        "petrol",
+        "prices",
+        "revised"
+      ],
+      "source_excerpt": "Petrol, diesel prices revised in Pakistan",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/petrol-prices-in-pakistan-for-25-november",
+          "published_at": "2026-11-24T18:01:13+00:00"
+        },
+        {
+          "name": "Minute Mirror",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVFrdTZNaHJFSkE4c1ZiWVU1c29aY1JEZmM5Ty1rbGh2YjM2OWo2bjk4bjE2bkhtMnZNeUZkZjUtc2FJNWl5cUtWNW1NSjNMRlFTcUpVcVQ4VUhRTndRNVE2SDRxcUZMbElRMHdBLXAyZTBEdHEzRVNlRjFseW9oQzA1cVBnODNFR053c1dBV215MER6ZncxSFVCVUh5dw?oc=5",
+          "published_at": "2026-11-24T18:01:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/petrol-prices-in-pakistan-for-25-november",
+        "publisher_url": "https://arynews.tv/petrol-prices-in-pakistan-for-25-november",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e9872eacfb19e8aaa64d2a59",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T17:04:20+00:00",
+      "last_update": "2026-11-24T17:04:20+00:00",
+      "event": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "annoucement",
+        "but",
+        "comeback",
+        "gains",
+        "huang",
+        "jensen",
+        "market",
+        "nvidia",
+        "politicians",
+        "questioned",
+        "reappointment",
+        "reversed",
+        "role",
+        "shares",
+        "slide",
+        "some",
+        "stock",
+        "surged",
+        "the",
+        "trading",
+        "trump",
+        "tuesday",
+        "value"
+      ],
+      "source_excerpt": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T17:04:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5044df015cb8618af10293c7",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T16:37:04+00:00",
+      "last_update": "2026-11-24T16:37:04+00:00",
+      "event": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "barred",
+        "bbc",
+        "cockroach",
+        "flight",
+        "from",
+        "government",
+        "has",
+        "indian",
+        "leader",
+        "lost",
+        "plot",
+        "says",
+        "the"
+      ],
+      "source_excerpt": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VNUtERkNONUJCS0FzdTgzcW1QQlJzX0lLQ0tqaEpOLTZ0WnRUaEl6TE9zQ2JKLWdjc2VtRjBnUWJtOG9QdmsyZ3hJcXRYMnNETVphVE9JWFB0bEk?oc=5",
+          "published_at": "2026-11-24T16:37:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VNUtERkNONUJCS0FzdTgzcW1QQlJzX0lLQ0tqaEpOLTZ0WnRUaEl6TE9zQ2JKLWdjc2VtRjBnUWJtOG9QdmsyZ3hJcXRYMnNETVphVE9JWFB0bEk?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "215e93764427b11634449d5b",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T17:02:34+00:00",
+      "last_update": "2026-11-24T17:02:34+00:00",
+      "event": "Cold Norton £300k cannabis farm found after electricity concerns",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "300k",
+        "after",
+        "bbc",
+        "cannabis",
+        "cold",
+        "concerns",
+        "electricity",
+        "farm",
+        "found",
+        "norton"
+      ],
+      "source_excerpt": "Cold Norton £300k cannabis farm found after electricity concerns BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50RlpmTUtYUVRaTWNSbGdhRF8zX081eXc5blBiLW5pOWctb29JSWl3R1lYMXdlOU4zamJfUTlJUktORDlkUmJMWERuUGVLV053NkhlVWdaQXdZcDA?oc=5",
+          "published_at": "2026-11-24T17:02:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50RlpmTUtYUVRaTWNSbGdhRF8zX081eXc5blBiLW5pOWctb29JSWl3R1lYMXdlOU4zamJfUTlJUktORDlkUmJMWERuUGVLV053NkhlVWdaQXdZcDA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8ebfe93767892309ad254891",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T17:45:00+00:00",
+      "last_update": "2026-11-24T17:45:00+00:00",
+      "event": "Should freedom of movement be a right or a privilege?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "freedom",
+        "movement",
+        "privilege",
+        "right",
+        "should"
+      ],
+      "source_excerpt": "Is freedom of movement a right or a privilege?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss",
+          "published_at": "2026-11-24T17:45:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6ed8b3d6072745d32c3cc923",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T17:39:18+00:00",
+      "last_update": "2026-11-24T17:39:18+00:00",
+      "event": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "and",
+        "attacks",
+        "ayaba",
+        "cameroon",
+        "cho",
+        "civilians",
+        "crimes",
+        "dozens",
+        "guilty",
+        "injured",
+        "killed",
+        "leader",
+        "lucas",
+        "norway",
+        "not",
+        "planning",
+        "pleads",
+        "remotely",
+        "separatist",
+        "that",
+        "trial",
+        "war"
+      ],
+      "source_excerpt": "Lucas Cho Ayaba is accused of remotely planning attacks that killed and injured dozens of civilians.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss",
+          "published_at": "2026-11-24T17:39:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b6e42abf12b52ad978511408",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T18:21:43+00:00",
+      "last_update": "2026-11-24T18:21:43+00:00",
+      "event": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abrupt",
+        "and",
+        "away",
+        "before",
+        "boom",
+        "exit",
+        "faisal",
+        "fears",
+        "fix",
+        "from",
+        "gone",
+        "haven",
+        "his",
+        "huang",
+        "islam",
+        "legitimate",
+        "nvidia",
+        "over",
+        "return",
+        "the",
+        "there",
+        "were",
+        "won"
+      ],
+      "source_excerpt": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T18:21:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1fd3197cd445f630184ef815",
+      "remembered_at": "2026-11-24T18:36:25.721028+00:00",
+      "event_date": "2026-11-24T18:08:10+00:00",
+      "last_update": "2026-11-24T18:08:10+00:00",
+      "event": "Muse: Would you let Meta's AI agent run parts of your life?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agent",
+        "bbc",
+        "let",
+        "life",
+        "meta",
+        "muse",
+        "parts",
+        "run",
+        "would",
+        "you",
+        "your"
+      ],
+      "source_excerpt": "Muse: Would you let Meta's AI agent run parts of your life? BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLNklEaF8ydE8yX1N5c0p2LWhiUDJhXy1JelNNVk56MVdmVzgxazV0cmQtRmJKcWVCcFRnaWpaZlBTSFlLbUE1NnpOV2J6Y3lWU1UwTTBoOWE?oc=5",
+          "published_at": "2026-11-24T18:08:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLNklEaF8ydE8yX1N5c0p2LWhiUDJhXy1JelNNVk56MVdmVzgxazV0cmQtRmJKcWVCcFRnaWpaZlBTSFlLbUE1NnpOV2J6Y3lWU1UwTTBoOWE?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6a5d1e422a3bf2eac705baff",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T14:56:50+00:00",
+      "last_update": "2026-11-24T16:22:00+00:00",
+      "event": "Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affair",
+        "back",
+        "behind",
+        "ceo",
+        "china",
+        "could",
+        "didn",
+        "donald",
+        "extramarital",
+        "feared",
+        "following",
+        "for",
+        "has",
+        "him",
+        "his",
+        "huang",
+        "industry",
+        "involving",
+        "its",
+        "jensen",
+        "join",
+        "lead",
+        "nvidia",
+        "president",
+        "reason",
+        "reinstatement",
+        "revealed",
+        "scandal",
+        "states",
+        "support",
+        "take",
+        "the",
+        "trump",
+        "united",
+        "with"
+      ],
+      "source_excerpt": "Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back United States President Donald Trump has revealed the reason behind his support for Nvidia CEO Jensen Huang’s reinstatement following a scandal involving Huang’s extramarital affair with...",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+          "published_at": "2026-11-24T14:56:50+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692497-trump-feared-jensen-huang-could-join-china-to-lead-its-ai-industry-if-nvidia-didnt-take-him-back",
+          "published_at": "2026-11-24T15:36:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcFJ3VlVNYWFMUHphM0I1WmFOTVF3Qk5nSE80RXFwaVZuZE5JS0ZxbEh4UzdXWE03SzhVNHpPM1BvUkpGSFptT2hHbVB1RzdJYzNMeC1KbG56R3MtU2tZSkNzclBjUzI4UzQyTWdER0x1TnhKX2FDVHVwS1ltUXdfR0tleW54ZTZzWUdMWjhERkJiejlkM2tPSkFBU3JiQmNlcjdPT2pwdzM1c0RuS2tETzN5a2pONU9YZlp3Q1IyajFSSEZqYUlVbg?oc=5",
+          "published_at": "2026-11-24T15:36:00+00:00"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHQxVDJnTmhseUozTDFmb0FkSVhDOWhXLTZRcHhoUHdmakJYbmM0RmFobFlYTzBINC0tczQ1UklLNnQwVUY4Z0RFaE9Wd1RuVFRYT3hmUXgzQjR2VG9lc2xfdzN1WG9fVUE1Q0Fka20wX3NPSVNvNjE5ZDdOZ0NQa3lobWVXS05NR2V0ZlVuTmVOaFR2UEJIN25Ublp3TGhIMW9UMjc0YjNyUQ?oc=5",
+          "published_at": "2026-11-24T16:22:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692497-trump-feared-jensen-huang-could-join-china-to-lead-its-ai-industry-if-nvidia-didnt-take-him-back",
+        "publisher_url": "https://www.geo.tv/latest/692497-trump-feared-jensen-huang-could-join-china-to-lead-its-ai-industry-if-nvidia-didnt-take-him-back",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f0bf52c9827b75f130940f00",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T18:12:15+00:00",
+      "last_update": "2026-11-24T19:01:38+00:00",
+      "event": "Huang’s return fails to dispel doubts as Nvidia shares drop",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "dispel",
+        "doubts",
+        "drop",
+        "fails",
+        "huang",
+        "nvidia",
+        "return",
+        "shares"
+      ],
+      "source_excerpt": "Huang’s return fails to dispel doubts as Nvidia shares drop Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjRvekZVdjVXVTF5U3pfT1dLTUI5TGZUaEVJT01fQTdxdVVaLUxmRm41OGUwb3hTUXBuaHNDQ25zZnNXdVVBWnlCSndaYTBiUEFvUklOZTJRWG1ocEkxSXZXWk94aEpVNzg4WDRrWlRjeXJKTkExY0oybm1xNGlqVWtDR3U3TU5FcExYTjlnV1B4c0wwS1ZR?oc=5",
+          "published_at": "2026-11-24T18:12:15+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046803/huangs-return-fails-to-dispel-doubts-as-nvidia-shares-drop",
+          "published_at": "2026-11-24T18:12:15+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/huangs-return-fails-to-dispel-doubts-as-nvidia-shares-drop",
+          "published_at": "2026-11-24T19:01:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjRvekZVdjVXVTF5U3pfT1dLTUI5TGZUaEVJT01fQTdxdVVaLUxmRm41OGUwb3hTUXBuaHNDQ25zZnNXdVVBWnlCSndaYTBiUEFvUklOZTJRWG1ocEkxSXZXWk94aEpVNzg4WDRrWlRjeXJKTkExY0oybm1xNGlqVWtDR3U3TU5FcExYTjlnV1B4c0wwS1ZR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d97c263a161bd72bc31a47e4",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T18:54:21+00:00",
+      "last_update": "2026-11-24T19:40:12+00:00",
+      "event": "Federal cabinet approves sugar sector deregulation policy",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "approves",
+        "cabinet",
+        "deregulation",
+        "federal",
+        "policy",
+        "sector",
+        "sugar"
+      ],
+      "source_excerpt": "Federal cabinet approves sugar sector deregulation policy",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/federal-cabinet-approves-sugar-sector-deregulation-policy",
+          "published_at": "2026-11-24T18:54:21+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUDY2ZmxTRzFKamYwSHJPeWhTMWo3eGVkNG03ZjZjaUF3dnlsTG9QMGl4eFJDQnFobG1sMTdSSEs1MjdsdHpTOFJTSjlockV3b3ozZjFqdTc1dHkxUUNkcUMwbkVFcWhidlFqTGstaVJRdWNmXzFwTExROUZoUkZuWmxPU1llTXJQM0xQekcza3VDV3dtVDFRRkhtc1lMd0tDRTY1bVhB?oc=5",
+          "published_at": "2026-11-24T19:20:14+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046808/sug24n26",
+          "published_at": "2026-11-24T19:40:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/federal-cabinet-approves-sugar-sector-deregulation-policy",
+        "publisher_url": "https://arynews.tv/federal-cabinet-approves-sugar-sector-deregulation-policy",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e825a2d355d06261c3d0f021",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T17:33:13+00:00",
+      "last_update": "2026-11-24T18:26:47+00:00",
+      "event": "Netflix releases trailer for 'Jo Bachay Hain Sang Samait Lo'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bachay",
+        "for",
+        "hain",
+        "netflix",
+        "releases",
+        "samaa",
+        "samait",
+        "sang",
+        "trailer"
+      ],
+      "source_excerpt": "Netflix releases trailer for 'Jo Bachay Hain Sang Samait Lo' samaa tv",
+      "sources": [
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/watch-netflix-drops-trailer-for-jo-bachay-hain-sang-samait-lo/",
+          "published_at": "2026-11-24T17:33:13+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1MwRThpaVZRRm9DX0I3WFBGV2lreUhHbWRqT1Zfcmo3azZ3M2xBWURVMmNBVmhVbVZ4S3A3YXRUXzRlOHRYLWFYVmFVd2dGOGZHSWFsQ3piS0UwOHU4MndaSUZWajlaSm00cG0yT3hINGIyU01uaGZTa0V4TUc1LTUtSUN0dVZOT2N1MUI3bXhRcnNieDM1eFZFOGFmN2hPYjRvVVJXNA?oc=5",
+          "published_at": "2026-11-24T18:26:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1MwRThpaVZRRm9DX0I3WFBGV2lreUhHbWRqT1Zfcmo3azZ3M2xBWURVMmNBVmhVbVZ4S3A3YXRUXzRlOHRYLWFYVmFVd2dGOGZHSWFsQ3piS0UwOHU4MndaSUZWajlaSm00cG0yT3hINGIyU01uaGZTa0V4TUc1LTUtSUN0dVZOT2N1MUI3bXhRcnNieDM1eFZFOGFmN2hPYjRvVVJXNA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d597d4c122e7f3544752c563",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T17:55:59+00:00",
+      "last_update": "2026-11-24T19:27:20+00:00",
+      "event": "Pakistan’s first astronaut set for historic spaceflight from China tomorrow",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "astronaut",
+        "china",
+        "first",
+        "for",
+        "from",
+        "historic",
+        "pakistan",
+        "set",
+        "spaceflight",
+        "tomorrow"
+      ],
+      "source_excerpt": "Pakistan’s first astronaut set for historic spaceflight from China tomorrow",
+      "sources": [
+        {
+          "name": "Bol News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOHJJWlNBM3lpeE5pSWw4N0gycHByVTQzWU1QZS1xcDhTby00Z1hsTkpheUU2Q1NEaGt6THB2OEo1a29HRERIc1JfTXh4OWwtWjlfUHZpTlh2Vl9taTEzU3E3cVZjNDR4M0pKVW45aWhSWkJTdmtGYkdpdzBHMFVSOU1HMWhSUFplSEJnSm1rWDQwckttOEhYM3NIcF9neEg5?oc=5",
+          "published_at": "2026-11-24T17:55:59+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistans-first-astronaut-set-for-historic-spaceflight-from-china-tomorrow",
+          "published_at": "2026-11-24T19:27:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistans-first-astronaut-set-for-historic-spaceflight-from-china-tomorrow",
+        "publisher_url": "https://arynews.tv/pakistans-first-astronaut-set-for-historic-spaceflight-from-china-tomorrow",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c6bc7976de0d6c016461c3bc",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T19:07:41+00:00",
+      "last_update": "2026-11-24T19:07:41+00:00",
+      "event": "Pakistan Customs seizes nearly 1kg of 'Multan-bound' marijuana in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1kg",
+        "900",
+        "airports",
+        "and",
+        "attempt",
+        "bound",
+        "coc",
+        "collectorate",
+        "customs",
+        "during",
+        "foiled",
+        "grams",
+        "imo",
+        "intercepted",
+        "international",
+        "karachi",
+        "mail",
+        "marijuana",
+        "multan",
+        "narcotics",
+        "nearly",
+        "office",
+        "pakistan",
+        "parcel",
+        "routine",
+        "said",
+        "scanning",
+        "seized",
+        "seizes",
+        "smuggling",
+        "staff",
+        "suspicious",
+        "the",
+        "tuesday"
+      ],
+      "source_excerpt": "The Collectorate of Customs (CoC) (airports) in Karachi foiled a narcotics smuggling attempt and seized 900 grams of marijuana during routine scanning at the International Mail Office (IMO), Pakistan Customs said on Tuesday. During routine scanning, Customs staff intercepted a “suspicious parcel” or",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
+          "published_at": "2026-11-24T19:07:41+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNk90dGpCTUdiLUxBcFhlSXgyOXpuMHM4NjAtMjF3U1BKbHVHUFdLeFNUV3VTSm5SX1daNWowZHNNLWpFRDN3VDNhUjItLXFZM0dYQ3BxcDQtMU5SZGtUNUhtcmZvTFJnTlBYS3VuOWFjUWN3NUpxbGNCVXhfbi14QU5PMmlzdG1RLU1UYkNXMGF2SFFPTzd6VVBZQ0RackpnSUh5djdGYzM?oc=5",
+          "published_at": "2026-11-24T19:07:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
+        "publisher_url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e1e143fbe479d8fc6824f840",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T19:22:44+00:00",
+      "last_update": "2026-11-24T19:30:00+00:00",
+      "event": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "afterwards",
+        "again",
+        "attacks",
+        "but",
+        "ceasefire",
+        "declaration",
+        "energy",
+        "hit",
+        "inevitable",
+        "mid",
+        "october",
+        "oil",
+        "picked",
+        "plants",
+        "putin",
+        "retaliation",
+        "russian",
+        "says",
+        "subsided",
+        "trump",
+        "ukraine",
+        "ukrainian"
+      ],
+      "source_excerpt": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+          "published_at": "2026-11-24T19:22:44+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVlLVzNGdDA4X0FlQVJiZDFvR2RncEpnbThvT3ZhSTVrUzlwaXh6aWtreGRaaV82T1B3WjA5dmpkNldEUHUzRFZaUndnMXQyeF9jTnI3LVZ3NTRSWTBaNkpBT05IVEJDMlFyWVN5eTlHTjRPYmZlWm1JS2VNMGNjb09Da1BieC1WdldIQW5IZzFFUkE1MzRRdFFqWjB5STNFdC1zT1k2ZVRvMFlmRDJYZDhjNC0tZlHSAbwBQVVfeXFMTzlnSnlkOTlWUC1oeEdrU3MybWZuN2g2bmlVcFcwY29mZzRtb3IwamlBMEdjSlp3aEpJaTBiUzB0NXA1NElrWmtwMnZSZWdJWWE4dW9Wb3IyNnFqRU5KODh0eVpyLUZxQXBZSUQzTTQ5RWd5Tlp3UXowMnNBQmxRRW9UVkVad3RFZjRiTDVKYWJ1cGwyM1lubHlBNXI3OG9WaWM2SjhEZHlsNWxEdTF2LURHejZlWE52d3F6dlY?oc=5",
+          "published_at": "2026-11-24T19:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d5932bbdd6b3543c33a6ffb4",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T19:19:50+00:00",
+      "last_update": "2026-11-24T19:19:50+00:00",
+      "event": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "737",
+        "agreement",
+        "airlines",
+        "almost",
+        "boeing",
+        "buy",
+        "china",
+        "decade",
+        "first",
+        "from",
+        "major",
+        "marks",
+        "order",
+        "planemaker",
+        "planes",
+        "southern",
+        "the",
+        "unit"
+      ],
+      "source_excerpt": "The agreement marks the US planemaker's first major order from China in almost a decade.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
+          "published_at": "2026-11-24T19:19:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c89df1000b017436888c2571",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T19:15:25+00:00",
+      "last_update": "2026-11-24T19:15:25+00:00",
+      "event": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assertion",
+        "backing",
+        "challenges",
+        "controversial",
+        "counsel",
+        "denies",
+        "doj",
+        "home",
+        "house",
+        "ilhan",
+        "involvement",
+        "legal",
+        "omar",
+        "raid"
+      ],
+      "source_excerpt": "Legal counsel challenges DOJ's assertion of House's involvement in controversial raid on Ilhan Omar's home.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home?traffic_source=rss",
+          "published_at": "2026-11-24T19:15:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6066ce5f20f7c1abffb0b8ad",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T19:02:49+00:00",
+      "last_update": "2026-11-24T19:02:49+00:00",
+      "event": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "ben",
+        "call",
+        "confiscated",
+        "far",
+        "gvir",
+        "have",
+        "israel",
+        "israeli",
+        "lawmakers",
+        "legislation",
+        "loudspeakers",
+        "mosque",
+        "over",
+        "police",
+        "prayer",
+        "push",
+        "raids",
+        "religious",
+        "restrict",
+        "right",
+        "seeking",
+        "war"
+      ],
+      "source_excerpt": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+          "published_at": "2026-11-24T19:02:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "48f441e6dff7266b58e1f6de",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T18:47:05+00:00",
+      "last_update": "2026-11-24T18:47:05+00:00",
+      "event": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asia",
+        "casualties",
+        "caused",
+        "deaths",
+        "driven",
+        "five",
+        "found",
+        "global",
+        "high",
+        "hit",
+        "landmine",
+        "landmines",
+        "monitor",
+        "myanmar",
+        "percent",
+        "southeast",
+        "syria",
+        "were",
+        "year"
+      ],
+      "source_excerpt": "Landmine monitor found 84 percent of deaths caused by landmines were in Southeast Asia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+          "published_at": "2026-11-24T18:47:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b2455af418a59110c7f6149e",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T19:10:31+00:00",
+      "last_update": "2026-11-24T19:10:31+00:00",
+      "event": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "assault",
+        "best",
+        "claims",
+        "daura",
+        "emir",
+        "gain",
+        "his",
+        "known",
+        "monarch",
+        "monarchs",
+        "nigeria",
+        "nigerian",
+        "often",
+        "one",
+        "politicians",
+        "sexual",
+        "support",
+        "suspended",
+        "the",
+        "trying",
+        "with"
+      ],
+      "source_excerpt": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T19:10:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4833bd225a0f3dbad901c7a5",
+      "remembered_at": "2026-11-24T19:44:36.352086+00:00",
+      "event_date": "2026-11-24T19:09:13+00:00",
+      "last_update": "2026-11-24T19:09:13+00:00",
+      "event": "Archers fans urged to back fight to keep show in city",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "archers",
+        "back",
+        "bbc",
+        "city",
+        "fans",
+        "fight",
+        "keep",
+        "show",
+        "urged"
+      ],
+      "source_excerpt": "Archers fans urged to back fight to keep show in city BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KejAwMjUxSHpyLU1PdkJTZ3hzRkk3eTdUQXh0SUtGazhjVkx1VDg5UkpudXhJbXk1MktXZzJLc2E5ZzVLeUp0YWdMTFp1dnNIRFdrTk4wbktNdzg?oc=5",
+          "published_at": "2026-11-24T19:09:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KejAwMjUxSHpyLU1PdkJTZ3hzRkk3eTdUQXh0SUtGazhjVkx1VDg5UkpudXhJbXk1MktXZzJLc2E5ZzVLeUp0YWdMTFp1dnNIRFdrTk4wbktNdzg?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T17:39:28.958820+00:00"
+  "updated_at": "2026-11-24T19:44:36.352086+00:00"
 }
