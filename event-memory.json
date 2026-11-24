@@ -135479,7 +135479,62 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cc5f529190f837029ee233ce",
+      "remembered_at": "2026-11-24T03:56:48.763428+00:00",
+      "event_date": "2026-11-24T03:20:55+00:00",
+      "last_update": "2026-11-24T03:20:55+00:00",
+      "event": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "capture",
+        "chapo",
+        "charges",
+        "despite",
+        "drug",
+        "extradition",
+        "faces",
+        "fausto",
+        "flores",
+        "his",
+        "isidro",
+        "mexico",
+        "meza",
+        "operation",
+        "request",
+        "sinaloa",
+        "trafficking",
+        "try",
+        "violent",
+        "weapons"
+      ],
+      "source_excerpt": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+          "published_at": "2026-11-24T03:20:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T02:52:00.913438+00:00"
+  "updated_at": "2026-11-24T03:56:48.763428+00:00"
 }

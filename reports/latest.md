@@ -1,152 +1,162 @@
-# News Hub report - Tue 24 Nov, 07:52 AM PKT
+# News Hub report - Tue 24 Nov, 08:56 AM PKT
 
 ## Collection
-- New items this run: 66 | items in rolling pool: 298
-- Unique story clusters: 257 (duplicates merged: 41)
-- Clusters dropped as already published/queued: 13; unchanged since last analysis: 8
-- Items per outlet: Dawn 49, Al Jazeera 3, Profit by Pakistan Today 3, Investify 3, Geo News 2, Dawn Pakistan 1, Dawn Latest 1, Jang Urdu 1, The Express Tribune 1, Italianismo 1, Anadolu Ajansı 1
+- New items this run: 6 | items in rolling pool: 253
+- Unique story clusters: 227 (duplicates merged: 26)
+- Clusters dropped as already published/queued: 19; unchanged since last analysis: 11
+- Items per outlet: ARY News 2, Geo News 1, Al Jazeera 1, ProPakistani 1, PhoneWorld 1, Geo News Fast Lane 0, ARY News Fast Lane 0, Samaa Fast Lane 0, Express News Fast Lane 0, Dawn Fast Lane 0, Jang Fast Lane 0, The News Fast Lane 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Iran war live: Iran says three ships catch fire after hitting Hormuz mines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Qatar PM looks to revive US-Iran talks after meeting Rubio | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Appeals court renews Trump bid for federal jurisdiction in hush-money case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli minister approves return of Flydubai flights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Excavator threatens sacred alpine lake in the Himalayas | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN chief calls for world to agree on AI oversight within a year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico to try ‘El Chapo Isidro’ despite US extradition request | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bukele shares details on deaths of Salvadoran troops in Haiti intervention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s Zeeshan Ali among crew of China’s Shenzhou-24 mission; liftoff scheduled for Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Iran war live: Iran says three ships catch fire after hitting Hormuz mines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Qatar PM looks to revive US-Iran talks after meeting Rubio | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Appeals court renews Trump bid for federal jurisdiction in hush-money case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli minister approves return of Flydubai flights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Excavator threatens sacred alpine lake in the Himalayas | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN chief calls for world to agree on AI oversight within a year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico to try ‘El Chapo Isidro’ despite US extradition request | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bukele shares details on deaths of Salvadoran troops in Haiti intervention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s Zeeshan Ali among crew of China’s Shenzhou-24 mission; liftoff scheduled for Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Iran war live: Iran says three ships catch fire after hitting Hormuz mines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Qatar PM looks to revive US-Iran talks after meeting Rubio | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Appeals court renews Trump bid for federal jurisdiction in hush-money case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli minister approves return of Flydubai flights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Excavator threatens sacred alpine lake in the Himalayas | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN chief calls for world to agree on AI oversight within a year | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico to try ‘El Chapo Isidro’ despite US extradition request | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bukele shares details on deaths of Salvadoran troops in Haiti intervention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s Zeeshan Ali among crew of China’s Shenzhou-24 mission; liftoff scheduled for Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- Overall feeds with entries: 26/120 | empty: 0 | failed: 94 | malformed/partial: 94
+- Trusted publisher desks with at least one healthy source: 5/10
+- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Samaa, Express News, Dawn, Dunya News, Dunya News TV
 
 ## Selected for the queue
-### Qatar PM Works to Revive US-Iran Talks After Rubio Meeting  [NORMAL]
-- Poster: قطر کے وزیراعظم کی امریکہ اور ایران کے درمیان مذاکرات بحال کرنے کی کوشش / Qatar PM pushes to revive US-Iran talks | category us_politics
-- Alternative headline: Qatari Prime Minister Pushes for US-Iran De-escalation
+### Bangladesh Parliament Speaker Begins Six-Day Official Visit to Pakistan  [NORMAL]
+- Poster: بنگلہ دیشی پارلیمنٹ کے اسپیکر چھ روزہ دورے پر پاکستان پہنچ گئے / Bangladesh Speaker arrives in Pakistan | category politics
+- Alternative headline: Pakistan Welcomes Bangladesh Parliament Speaker for Six-Day Visit
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTNIYWxSc2F4NGNqb201TWtYZmFKYW44ck15bXlzU2JnRG1rQlFVQXFkcmlfVXRxX25IUkZsVU5jX2tfM2hCSDU2SXgxX2l0c295OUhPNU1EdFBqVGFNSEJTNlJTMGwtdTQ5X3pla0tJYTJzOVQ5aEdXaTR1eHl6T3lQcHZYNDFtYmFTelhHazlzY0U1OEVOUWpsS3hSRDFwOFNNS05ETXI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTNIYWxSc2F4NGNqb201TWtYZmFKYW44ck15bXlzU2JnRG1rQlFVQXFkcmlfVXRxX25IUkZsVU5jX2tfM2hCSDU2SXgxX2l0c295OUhPNU1EdFBqVGFNSEJTNlJTMGwtdTQ5X3pla0tJYTJzOVQ5aEdXaTR1eHl6T3lQcHZYNDFtYmFTelhHazlzY0U1OEVOUWpsS3hSRDFwOFNNS05ETXI?oc=5
+- Supporting coverage: Dawn
+- Keywords: Bangladesh speaker visit, Pakistan Bangladesh relations, Parliamentary visit, Dawn news | hashtags: #Pakistan #Bangladesh #Diplomacy #News
+- Scheduled: Tue 24 Nov, 08:56 AM PKT
+- Caption:
+```
+The speaker of Bangladesh's parliament has arrived in Pakistan for a six-day official visit, marking a significant diplomatic engagement.
+
+The speaker of the Bangladesh parliament has begun a six-day official visit to Pakistan. First reported by Dawn, the visit is expected to focus on bilateral ties and parliamentary cooperation between the two countries.
+
+بنگلہ دیشی پارلیمنٹ کے اسپیکر چھ روزہ سرکاری دورے پر پاکستان پہنچ گئے ہیں۔ ڈان کی رپورٹ کے مطابق اس دورے میں دونوں ممالک کے درمیان دوطرفہ تعلقات اور پارلیمانی تعاون پر تبادلہ خیال کیا جائے گا۔
+
+First reported by Dawn
+
+#Pakistan #Bangladesh #Diplomacy #News
+```
+
+### Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrage  [NORMAL]
+- Poster: ہمالیہ کی مقدس جھیل کے قریب کھدائی پر شدید غم و غصہ / Outrage over excavator near sacred lake | category disaster
+- Alternative headline: Outrage Erupts Over Excavator Threatening Sacred Himalayan Alpine Lake
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: US-Iran talks, Qatar PM, Rubio, de-escalation, diplomacy | hashtags: #Qatar #US #Iran #Diplomacy
-- Scheduled: Tue 24 Nov, 07:52 AM PKT
+- Keywords: Sheshnag Lake excavator, Kashmir lake, Al Jazeera news, Himalayas environment | hashtags: #Kashmir #SheshnagLake #Environment #AlJazeera
+- Scheduled: Tue 24 Nov, 09:06 AM PKT
 - Caption:
 ```
-Qatar's Prime Minister is actively working to de-escalate rising tensions between the United States and Iran following a key meeting.
+Footage showing an excavator operating near the sacred Sheshnag Lake in India-administered Kashmir has triggered widespread public outrage.
 
-Qatar's Prime Minister has announced efforts to de-escalate escalating tensions between Iran and the United States following a meeting with US officials, aiming to reopen diplomatic communication channels and revive stalled talks.
+Footage of an excavator operating near the sacred Sheshnag Lake in India-administered Kashmir has sparked widespread outrage. First reported by Al Jazeera, the incident raises environmental and cultural preservation concerns regarding the Himalayan alpine lake.
 
-قطر کے وزیراعظم نے ایک اہم ملاقات کے بعد ایران اور امریکہ کے درمیان بڑھتی ہوئی کشیدگی کو کم کرنے اور مذاکرات کی بحالی کے لیے کوششیں شروع کرنے کا اعلان کیا ہے۔
+بھارت کے زیر انتظام کشمیر میں مقدس شیش ناگ جھیل کے قریب ایک کھودنے والی مشین کی ویڈیو سامنے آنے پر شدید غم و غصہ پھیل گیا ہے۔ الجزیرہ کی رپورٹ کے مطابق اس واقعے نے ہمالیہ کی جھیل کے ماحولیاتی تحفظ پر سوالات اٹھا دیے ہیں۔
 
-According to Al Jazeera
+First reported by Al Jazeera
 
-#Qatar #US #Iran #Diplomacy
+#Kashmir #SheshnagLake #Environment #AlJazeera
 ```
 
-### Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran  [NORMAL]
-- Poster: تین تیل بردار جہاز آبنائے ہرمز میں بارودی سرنگوں سے ٹکرا کر جل گئے / Three oil tankers on fire in Hormuz strait | category war
-- Alternative headline: Iran Reports Three Ships on Fire in Strait of Hormuz
+### UN Chief Urges Global Agreement on AI Oversight Within a Year  [NORMAL]
+- Poster: اقوام متحدہ کے سربراہ کا ایک سال میں عالمی اے آئی ضابطے کا مطالبہ / UN chief calls for AI oversight | category tech_ai
+- Alternative headline: Antonio Guterres Calls for Worldwide AI Regulation Framework in One Year
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Strait of Hormuz, Iran, oil tankers, naval mines, fire | hashtags: #Iran #Hormuz #OilTankers #MaritimeSecurity
-- Scheduled: Tue 24 Nov, 08:02 AM PKT
-- Caption:
-```
-Iran's Revolutionary Guards report that three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.
-
-Iran's Revolutionary Guards have stated that three oil tankers caught fire after striking naval mines in the strategic Strait of Hormuz, raising fresh concerns over maritime security and regional shipping lanes.
-
-ایران کے پاسداران انقلاب کا کہنا ہے کہ آبنائے ہرمز میں سمندری بارودی سرنگوں سے ٹکرانے کے بعد تین تیل بردار جہازوں میں آگ لگ گئی ہے۔
-
-According to Al Jazeera
-
-#Iran #Hormuz #OilTankers #MaritimeSecurity
-```
-
-### Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money Case  [NORMAL]
-- Poster: عدالتِ اپیل نے ٹرمپ کی وفاقی دائرہ اختیار کی درخواست بحال کر دی / Appeals court renews Trump jurisdiction bid | category courts
-- Alternative headline: Trump Wins Appeals Court Review on Federal Jurisdiction
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Trump hush-money case, appeals court, federal jurisdiction, presidential immunity | hashtags: #Trump #USCourts #LegalNews #Politics
-- Scheduled: Tue 24 Nov, 08:12 AM PKT
+- Keywords: UN AI oversight, Antonio Guterres, Artificial Intelligence regulation, Al Jazeera | hashtags: #ArtificialIntelligence #UN #TechNews #GlobalPolicy
+- Scheduled: Tue 24 Nov, 09:16 AM PKT
 - Caption:
 ```
-A fresh court ruling could pave the way for Donald Trump to invoke presidential immunity in his ongoing legal battle.
+UN Secretary-General Antonio Guterres has strongly urged the international community to reach an agreement on artificial intelligence oversight within a year.
 
-A US appeals court has renewed Donald Trump's bid for federal jurisdiction in his hush-money case. The ruling could potentially allow Trump to argue that prosecutors relied on evidence protected by presidential immunity.
+UN Secretary-General Antonio Guterres has called for the world to agree on artificial intelligence oversight within a year. First reported by Al Jazeera, the UN chief has become increasingly vocal about the need for AI regulation as the end of his term approaches.
 
-امریکہ کی ایک اپیل کورٹ نے خاموشی کی قیمت کے مقدمے میں ڈونلڈ ٹرمپ کی وفاقی دائرہ اختیار کی درخواست بحال کر دی ہے، جس سے انہیں صدارتی استثنیٰ کا دفاع کرنے کا موقع مل سکتا ہے۔
+اقوام متحدہ کے سیکرٹری جنرل انتونیو گوتریس نے دنیا سے مطالبہ کیا ہے کہ وہ ایک سال کے اندر مصنوعی ذہانت کے ضابطے پر اتفاق رائے پیدا کرے۔ الجزیرہ کی رپورٹ کے مطابق اپنی مدتِ کار کے اختتام کے قریب وہ اے آئی کے معاملے پر زیادہ آواز اٹھا رہے ہیں۔
 
-According to Al Jazeera
+First reported by Al Jazeera
 
-#Trump #USCourts #LegalNews #Politics
+#ArtificialIntelligence #UN #TechNews #GlobalPolicy
 ```
 
-### Israeli Minister Approves Return of Flydubai Flights  [NORMAL]
-- Poster: اسرائیلی وزیر نے فلائی دبئی کی پروازیں بحال کرنے کی منظوری دے دی / Flydubai flights approval in Israel | category politics
-- Alternative headline: Flydubai Flights to Israel Get Ministerial Approval
+### Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request  [NORMAL]
+- Poster: امریکہ کی حوالگی کی درخواست کے باوجود میکسیکو میں ایل چاپو اسیڈرو کا مقدمہ / Mexico to try cartel boss El Chapo Isidro | category crime
+- Alternative headline: Fausto Meza Flores Faces Trial in Mexico Over US Extradition Demands
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Flydubai flights, Israeli minister, Dubai, Tel Aviv, aviation | hashtags: #Flydubai #Israel #Aviation #Travel
-- Scheduled: Tue 24 Nov, 08:22 AM PKT
+- Keywords: El Chapo Isidro trial, Mexico cartel arrest, Fausto Meza Flores, US extradition | hashtags: #Mexico #Crime #Cartel #AlJazeera
+- Scheduled: Tue 24 Nov, 09:26 AM PKT
 - Caption:
 ```
-An Israeli minister has approved the resumption of Flydubai flights, pending final security clearance from authorities.
+Mexico has announced plans to try cartel boss Fausto Meza Flores locally, despite a formal extradition request from the United States.
 
-An Israeli minister has approved the return of Flydubai flights between Dubai and Tel Aviv, though the final resumption of the carrier's route remains dependent on approval from Israeli security authorities.
+Mexico will try 'El Chapo Isidro' locally despite a US extradition request. First reported by Al Jazeera, Fausto Meza Flores faces drug trafficking and weapons charges following his capture in a violent operation in Sinaloa.
 
-ایک اسرائیلی وزیر نے دبئی اور تل ابیب کے درمیان فلائی دبئی کی پروازوں کی بحالی کی منظوری دے دی ہے، تاہم حتمی اجازت سکیورٹی حکام کی منظوری سے مشروط ہے۔
+امریکہ کی جانب سے حوالگی کی درخواست کے باوجود میکسیکو میں 'ایل چاپو اسیڈرو' پر مقدمہ چلایا جائے گا۔ الجزیرہ کی رپورٹ کے مطابق فاوستو میزا فلورس کو Sinaloa میں ایک پرتشدد کارروائی کے بعد منشیات کی سمگلنگ اور اسلحے کے الزامات کا سامنا ہے۔
 
-According to Al Jazeera
+First reported by Al Jazeera
 
-#Flydubai #Israel #Aviation #Travel
+#Mexico #Crime #Cartel #AlJazeera
 ```
 
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 12
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [needs_review] normal | US Tech Sell-Off Deepens as Anthropic Tumbles Following Mega IPO Debut | Sat 21 Nov, 01:45 AM PKT
-- [needs_review] normal | CTD and Police Eliminate Three Terrorists Including Kohat Attack Maste | Sat 21 Nov, 01:55 AM PKT
-- [needs_review] normal | Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Ba | Sat 21 Nov, 02:05 AM PKT
 - [needs_review] normal | Russia complains of new Iron Curtain as Estonia shuts borders | Sat 21 Nov, 02:38 AM PKT
 - [needs_review] normal | Israeli drone attacks kill seven Palestinians in central Gaza | Sat 21 Nov, 02:48 AM PKT
 - [needs_review] normal | Nepali cricket fans in Qatar want team to compete globally | Sat 21 Nov, 02:58 AM PKT
@@ -167,7 +177,6 @@ According to Al Jazeera
 - [needs_review] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
 - [needs_review] normal | Pakistan Rises 17 Places in UN E-Governance Ranking | Sat 21 Nov, 08:21 AM PKT
 - [needs_review] normal | SECP Tightens Scrutiny on Corporate Audit Reports | Sat 21 Nov, 08:31 AM PKT
-- [published] normal | Balochistan CM Bugti Promises Province-Wide Jobs | Sat 21 Nov, 08:41 AM PKT
 - [needs_review] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
 - [published] normal | Can Israel’s opposition bloc stay united against Netanyahu? | Sat 21 Nov, 11:30 AM PKT
 - [published] normal | Saudi forces launch major military strikes across Yemen | Sat 21 Nov, 11:40 AM PKT
@@ -357,7 +366,7 @@ According to Al Jazeera
 - [published] normal | Jensen Huang's return as Nvidia CEO adds $1 trillion to company's valu | Tue 24 Nov, 05:30 AM PKT
 - [published] normal | Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen | Tue 24 Nov, 05:40 AM PKT
 - [published] normal | Israeli strikes kill at least three, including UNRWA worker, in Gaza | Tue 24 Nov, 05:50 AM PKT
-- [queued] normal | Brentford hit Everton for four to soar into Premier League top six | Tue 24 Nov, 06:00 AM PKT
+- [published] normal | Brentford hit Everton for four to soar into Premier League top six | Tue 24 Nov, 06:00 AM PKT
 - [queued] normal | Trump Demands Immediate Expedited Federal Executions While Blasting Ga | Tue 24 Nov, 06:53 AM PKT
 - [queued] normal | US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia S | Tue 24 Nov, 07:03 AM PKT
 - [queued] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
@@ -366,12 +375,22 @@ According to Al Jazeera
 - [queued] normal | Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran | Tue 24 Nov, 08:02 AM PKT
 - [queued] normal | Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money | Tue 24 Nov, 08:12 AM PKT
 - [queued] normal | Israeli Minister Approves Return of Flydubai Flights | Tue 24 Nov, 08:22 AM PKT
+- [queued] normal | Bangladesh Parliament Speaker Begins Six-Day Official Visit to Pakista | Tue 24 Nov, 08:56 AM PKT
+- [queued] normal | Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrag | Tue 24 Nov, 09:06 AM PKT
+- [queued] normal | UN Chief Urges Global Agreement on AI Oversight Within a Year | Tue 24 Nov, 09:16 AM PKT
+- [queued] normal | Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request | Tue 24 Nov, 09:26 AM PKT
 
 ## Publishing this run
-- Published 'Israeli strikes kill at least three, including UNRWA worker, in Gaza'.
+- Published 'Brentford hit Everton for four to soar into Premier League top six'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4129 | output tokens: 2129
+- Calls: 3 | prompt tokens: 4255 | output tokens: 2076
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
