@@ -133729,7 +133729,528 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b2fb7bdb715577581852d31",
+      "remembered_at": "2026-11-24T00:30:04.393545+00:00",
+      "event_date": "2026-11-23T16:52:20+00:00",
+      "last_update": "2026-11-23T22:10:32+00:00",
+      "event": "Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adds",
+        "after",
+        "and",
+        "approved",
+        "board",
+        "ceo",
+        "chief",
+        "chipmaking",
+        "company",
+        "executive",
+        "few",
+        "giant",
+        "has",
+        "hours",
+        "huang",
+        "increased",
+        "jensen",
+        "just",
+        "more",
+        "nvidia",
+        "officer",
+        "president",
+        "reinstatement",
+        "return",
+        "than",
+        "the",
+        "trillion",
+        "value"
+      ],
+      "source_excerpt": "Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value Nvidia’s value has increased by more than $1 trillion in just a few hours after the AI chipmaking giant’s Board approved the reinstatement of Jensen Huang as the company’s chief executive officer , president and...",
+      "sources": [
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/jensen-huang-reinstated-as-nvidia-ceo-after-affair-with-alleged-spy/",
+          "published_at": "2026-11-23T16:52:20+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692344-jensen-huangs-return-as-nvidia-ceo-adds-1-trillion-to-companys-value",
+          "published_at": "2026-11-23T17:00:00+00:00"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+          "published_at": "2026-11-23T17:52:56+00:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "published_at": "2026-11-23T18:12:22+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss",
+          "published_at": "2026-11-23T19:40:41+00:00"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+          "published_at": "2026-11-23T19:57:18+00:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+          "published_at": "2026-11-23T20:38:53+00:00"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "published_at": "2026-11-23T22:10:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692344-jensen-huangs-return-as-nvidia-ceo-adds-1-trillion-to-companys-value",
+        "publisher_url": "https://www.geo.tv/latest/692344-jensen-huangs-return-as-nvidia-ceo-adds-1-trillion-to-companys-value",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0ea08a0ebfd7efb68a0d0923",
+      "remembered_at": "2026-11-24T00:30:04.393545+00:00",
+      "event_date": "2026-11-24T00:04:15+00:00",
+      "last_update": "2026-11-24T00:04:15+00:00",
+      "event": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "548",
+        "attack",
+        "blasts",
+        "california",
+        "calls",
+        "commute",
+        "death",
+        "decision",
+        "executions",
+        "expedite",
+        "federal",
+        "for",
+        "gavin",
+        "governor",
+        "his",
+        "newsom",
+        "podium",
+        "president",
+        "sentences",
+        "the",
+        "trump",
+        "used"
+      ],
+      "source_excerpt": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+          "published_at": "2026-11-24T00:04:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b8559f25d51869c9acf50f6f",
+      "remembered_at": "2026-11-24T00:30:04.393545+00:00",
+      "event_date": "2026-11-24T00:02:16+00:00",
+      "last_update": "2026-11-24T00:02:16+00:00",
+      "event": "Borno school enrolment nearly doubles after years of conflict",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "borno",
+        "children",
+        "conflict",
+        "despite",
+        "displacement",
+        "doubles",
+        "enrolment",
+        "keep",
+        "nearly",
+        "northeastern",
+        "out",
+        "poverty",
+        "rising",
+        "school",
+        "state",
+        "violence",
+        "years"
+      ],
+      "source_excerpt": "Despite rising enrolment, violence, displacement and poverty keep children out of school in northeastern state.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
+          "published_at": "2026-11-24T00:02:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dbba4c495bb4a7a98cce9471",
+      "remembered_at": "2026-11-24T00:30:04.393545+00:00",
+      "event_date": "2026-11-24T00:00:00+00:00",
+      "last_update": "2026-11-24T00:00:00+00:00",
+      "event": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "catch",
+        "caught",
+        "fire",
+        "guards",
+        "have",
+        "hitting",
+        "hormuz",
+        "iran",
+        "live",
+        "mines",
+        "naval",
+        "oil",
+        "revolutionary",
+        "say",
+        "says",
+        "ships",
+        "strait",
+        "tankers",
+        "the",
+        "three",
+        "war"
+      ],
+      "source_excerpt": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
+          "published_at": "2026-11-24T00:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "56bdb763f0eb76d790de8fde",
+      "remembered_at": "2026-11-24T00:30:04.393545+00:00",
+      "event_date": "2026-11-23T23:54:27+00:00",
+      "last_update": "2026-11-23T23:54:27+00:00",
+      "event": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "artificial",
+        "blasts",
+        "city",
+        "criticised",
+        "has",
+        "huang",
+        "intelligence",
+        "jensen",
+        "linked",
+        "mamdani",
+        "market",
+        "mayor",
+        "new",
+        "reliant",
+        "return",
+        "stock",
+        "stocks",
+        "the",
+        "volatility",
+        "york",
+        "zohran"
+      ],
+      "source_excerpt": "New York City Mayor Zohran Mamdani has criticised the volatility of artificial intelligence linked stocks in the US.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
+          "published_at": "2026-11-23T23:54:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fd87f0e4b29352f177d361bc",
+      "remembered_at": "2026-11-24T00:30:04.393545+00:00",
+      "event_date": "2026-11-23T23:49:37+00:00",
+      "last_update": "2026-11-23T23:49:37+00:00",
+      "event": "Drone attack on Colombia police base injures civilians, including infant",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "back",
+        "base",
+        "bombs",
+        "civilians",
+        "colombia",
+        "drone",
+        "espriella",
+        "far",
+        "groups",
+        "including",
+        "infant",
+        "injures",
+        "offensive",
+        "police",
+        "president",
+        "rebel",
+        "right",
+        "roadside",
+        "steps",
+        "strike",
+        "strikes",
+        "with"
+      ],
+      "source_excerpt": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+          "published_at": "2026-11-23T23:49:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "29a9d3ddc98a6c4b14d7979b",
+      "remembered_at": "2026-11-24T00:30:04.393545+00:00",
+      "event_date": "2026-11-24T00:00:47+00:00",
+      "last_update": "2026-11-24T00:00:47+00:00",
+      "event": "Why I don't always tell potential employers I'm dyslexic",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "always",
+        "confidence",
+        "don",
+        "dyslexic",
+        "employers",
+        "experiences",
+        "harms",
+        "many",
+        "people",
+        "potential",
+        "report",
+        "say",
+        "suggests",
+        "tell",
+        "the",
+        "their",
+        "why",
+        "workplace"
+      ],
+      "source_excerpt": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T00:00:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2b193a4da9804cfff281a6e6",
+      "remembered_at": "2026-11-24T00:30:04.393545+00:00",
+      "event_date": "2026-11-24T00:01:04+00:00",
+      "last_update": "2026-11-24T00:01:04+00:00",
+      "event": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "250",
+        "admin",
+        "are",
+        "atlantic",
+        "both",
+        "busy",
+        "companies",
+        "else",
+        "for",
+        "handle",
+        "life",
+        "lists",
+        "month",
+        "mothers",
+        "pay",
+        "paying",
+        "sides",
+        "someone",
+        "the",
+        "their",
+        "worth"
+      ],
+      "source_excerpt": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T00:01:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef2dd9805df5d247dae49a46",
+      "remembered_at": "2026-11-24T00:30:04.393545+00:00",
+      "event_date": "2026-11-23T23:50:47+00:00",
+      "last_update": "2026-11-24T00:09:58+00:00",
+      "event": "Petroleum dealers threaten nationwide strike",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dealers",
+        "express",
+        "nationwide",
+        "petroleum",
+        "strike",
+        "the",
+        "threaten",
+        "tribune"
+      ],
+      "source_excerpt": "Petroleum dealers threaten nationwide strike The Express Tribune",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3NhM0R6bjdFakhZSTBjdWt3T3VlX0FYSlkxcEgyU09fSzFkT3J4bG9jeFRkOEtGdzBhX3Itd29oTmxEdGpNenFWT3ZVeTIyTUlrcklaNnlTeUxxYkpYdC1KdnVwUzdCUWptN2F5b0FOZjJJNm9MVVhnc3NvcEhZbzBXSlZRMU5zTmVmLXdvZXBGUEZYYmpLbUdYWVR5endmRHNfbEhNcE92WDBBc0h0ZmpKYTJMUdIBVkFVX3lxTE5zVTVpRmM1ZG5ZSThwYkwyMjRQdEhxUVoycGRNcGxGaGpoVy0zOEt0UmhzVnY2Y0luam5PcjV4UFVpdE1qekE0SFpOa2pQbEpnVEFZNnpR?oc=5",
+          "published_at": "2026-11-23T23:50:47+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUl1RndMN18wVW03RmNuRndnM0RRM2FzYndjeVM5Z0pMZi1BVlpieFZ2WGgxcEFTaWNSSWM4MFF4QUNwRUJxcmk3XzFhMm5SVXlRQ2t1ckpfX0RBVGNvd2dNeWZlMGxLMWlHUERHYVBRbVh5dGJGRTFRMWdZeGQ4MXZ2M3hzeVlyWjI40gGTAUFVX3lxTE9oSXNQUXhLbTV1UTRSSk5uNTVKMnlkZG8ybTJwTWEyVWF1emd4dm5OYnBweWotUFRiVEJPSWh4UFBxQW5jVUVqaEh6WFdyZFktTEFDUEhrS3AxVDdONkdvUERuWlBZa0kwVG9aMDRfRjFra19aRHRVYklnU3F2djdwLUQzRWpXUHVjTW92eVVOazhDQQ?oc=5",
+          "published_at": "2026-11-24T00:09:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUl1RndMN18wVW03RmNuRndnM0RRM2FzYndjeVM5Z0pMZi1BVlpieFZ2WGgxcEFTaWNSSWM4MFF4QUNwRUJxcmk3XzFhMm5SVXlRQ2t1ckpfX0RBVGNvd2dNeWZlMGxLMWlHUERHYVBRbVh5dGJGRTFRMWdZeGQ4MXZ2M3hzeVlyWjI40gGTAUFVX3lxTE9oSXNQUXhLbTV1UTRSSk5uNTVKMnlkZG8ybTJwTWEyVWF1emd4dm5OYnBweWotUFRiVEJPSWh4UFBxQW5jVUVqaEh6WFdyZFktTEFDUEhrS3AxVDdONkdvUERuWlBZa0kwVG9aMDRfRjFra19aRHRVYklnU3F2djdwLUQzRWpXUHVjTW92eVVOazhDQQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-23T23:30:38.226093+00:00"
+  "updated_at": "2026-11-24T00:30:04.393545+00:00"
 }

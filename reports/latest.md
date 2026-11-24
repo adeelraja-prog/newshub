@@ -1,35 +1,35 @@
-# News Hub report - Tue 24 Nov, 04:30 AM PKT
+# News Hub report - Tue 24 Nov, 05:30 AM PKT
 
 ## Collection
-- New items this run: 18 | items in rolling pool: 390
-- Unique story clusters: 325 (duplicates merged: 65)
-- Clusters dropped as already published/queued: 9; unchanged since last analysis: 7
-- Items per outlet: Al Jazeera 3, The Verge 3, Dawn Latest 2, Anadolu Ajansı 2, The News International 1, Geo News 1, The Express Tribune 1, TechCrunch 1, GSMArena 1, BBC Health 1, Sky News 1, The Sunday Guardian 1
+- New items this run: 15 | items in rolling pool: 326
+- Unique story clusters: 271 (duplicates merged: 55)
+- Clusters dropped as already published/queued: 7; unchanged since last analysis: 8
+- Items per outlet: Al Jazeera 5, samaa tv 1, The News International 1, Geo News 1, The Express Tribune 1, The Verge 1, BBC Health 1, BBC Business 1, Business Recorder 1, Traders Union 1, The Fiscal Times 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Nvidia shares up 30% and tech stocks rally after Jensen Huang returns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Brentford hit Everton for four to soar into Premier League top six | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA VI hacker walks free after UK court hands him seven-year sentence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Nvidia shares up 30% and tech stocks rally after Jensen Huang returns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Brentford hit Everton for four to soar into Premier League top six | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA VI hacker walks free after UK court hands him seven-year sentence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Nvidia shares up 30% and tech stocks rally after Jensen Huang returns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Brentford hit Everton for four to soar into Premier League top six | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- GTA VI hacker walks free after UK court hands him seven-year sentence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,10 +39,106 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 0 items
+### Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value  [NORMAL]
+- Poster: ینسن ہوانگ کی بطور این ویڈیا سی ای او واپسی، کمپنی کی قدر میں ایک ٹریلین ڈالر کا اضافہ / Jensen Huang returns as Nvidia CEO, adding $1 trillion | category tech
+- Alternative headline: Jensen Huang reinstated as Nvidia CEO after affair with alleged spy
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/692344-jensen-huangs-return-as-nvidia-ceo-adds-1-trillion-to-companys-value | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692344-jensen-huangs-return-as-nvidia-ceo-adds-1-trillion-to-companys-value
+- Supporting coverage: The Current, Geo News, Wired, TechCrunch, Al Jazeera, The Verge
+- Keywords: Jensen Huang, Nvidia, CEO, shares, market value, tech | hashtags: #Nvidia #JensenHuang #TechNews #StockMarket #Business
+- Scheduled: Tue 24 Nov, 05:30 AM PKT
+- Caption:
+```
+Nvidia's market value surged by over $1 trillion after the board reinstated Jensen Huang as CEO following a brief controversy.
+
+Nvidia's value increased by more than $1 trillion after the board approved the reinstatement of Jensen Huang as CEO, president, and Board chair. Shares jumped 33% to reach $167.56, bringing the total valuation to $4.03 trillion following previous declines due to an espionage controversy.
+
+بورڈ کی جانب سے ینسن ہوانگ کو دوبارہ چیف ایگزیکٹو آفیسر مقرر کرنے کے بعد این ویڈیا کی مالیت میں ایک ٹریلین ڈالر سے زائد کا اضافہ ہوگیا ہے۔ حصص کی قیمتوں میں 33 فیصد تیزی کے بعد کمپنی کی کل مالیت 4.03 ٹریلین ڈالر تک پہنچ گئی ہے۔
+
+First reported by Geo News
+
+#Nvidia #JensenHuang #TechNews #StockMarket #Business
+```
+
+### Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return  [NORMAL]
+- Poster: ینسن ہوانگ کی واپسی کے بعد وال اسٹریٹ میں شاندار بحالی، این ویڈیا کے حصص میں 31.5 فیصد اضافہ / Wall Street recovers as Nvidia shares soar 31.5% | category economy
+- Alternative headline: What Nvidia’s Jensen Huang’s return means for Washington and Wall Street
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/692380-wall-st-stages-sharp-recovery-as-nvidia-shares-soar-315-after-jensen-huangs-return | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692380-wall-st-stages-sharp-recovery-as-nvidia-shares-soar-315-after-jensen-huangs-return
+- Supporting coverage: Geo News, Geo News, Al Jazeera
+- Keywords: Wall Street, Nvidia, Jensen Huang, stocks, Nasdaq, recovery | hashtags: #WallStreet #Nvidia #StockMarket #Economy #USStocks
+- Scheduled: Tue 24 Nov, 05:40 AM PKT
+- Caption:
+```
+US stocks staged a sharp recovery on Monday, led by a massive surge in Nvidia shares following Jensen Huang's reinstatement.
+
+US stocks staged a sharp recovery as technology shares led a strong rally. Nvidia surged 31.5%, adding over $900 billion to its market value after Jensen Huang returned as CEO, helping reverse heavy losses from the previous week.
+
+امریکی اسٹاک مارکیٹ میں شاندار بحالی دیکھی گئی جہاں ٹیکنالوجی کے حصص میں زبردست تیزی آئی۔ ینسن ہوانگ کی بطور سی ای او واپسی کے بعد این ویڈیا کے حصص میں 31.5 فیصد اضافہ ہوا جس سے کمپنی کی مارکیٹ ویلیو میں 900 ارب ڈالر سے زائد کا اضافہ ہوا۔
+
+First reported by Geo News
+
+#WallStreet #Nvidia #StockMarket #Economy #USStocks
+```
+
+### Israeli strikes kill at least three, including UNRWA worker, in Gaza  [NORMAL]
+- Poster: غزہ میں اسرائیلی حملوں میں یو این آر ڈبلیو اے کے کارکن سمیت کم از کم تین افراد جاں بحق / Israeli strikes kill three, including UNRWA worker, in Gaza | category war
+- Alternative headline: Israeli strikes kill at least four Palestinians in Gaza, including UNRWA employee
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss
+- Supporting coverage: Al Jazeera, Ahram Online
+- Keywords: Gaza, Israel, UNRWA, strikes, casualties, Palestine | hashtags: #Gaza #Israel #UNRWA #Palestine #BreakingNews
+- Scheduled: Tue 24 Nov, 05:50 AM PKT
+- Caption:
+```
+Israeli military attacks across the Gaza enclave continue to claim lives, including aid agency personnel.
+
+Israeli strikes across the Gaza enclave have resulted in the deaths of at least three people, including an employee of the United Nations Relief and Works Agency (UNRWA), despite ongoing conflict and previous ceasefire arrangements.
+
+غزہ میں جاری اسرائیلی حملوں کے نتیجے میں اقوام متحدہ کے امدادی ادارے یو این آر ڈبلیو اے کے ایک کارکن سمیت کم از کم تین افراد جاں بحق ہو گئے ہیں۔
+
+First reported by Al Jazeera
+
+#Gaza #Israel #UNRWA #Palestine #BreakingNews
+```
+
+### Brentford hit Everton for four to soar into Premier League top six  [NORMAL]
+- Poster: برینٹفورڈ نے ایورٹن کو چار گول سے شکست دے کر پریمیئر لیگ کے ٹاپ سکس میں جگہ بنالی / Brentford beats Everton 4-0 to enter Premier League top six | category sports
+- Alternative headline: Brentford defeats 10-man Everton 4-0 in Premier League clash
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046713/brentford-hit-everton-for-four-to-soar-into-premier-league-top-six | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046713/brentford-hit-everton-for-four-to-soar-into-premier-league-top-six
+- Supporting coverage: Dawn Latest
+- Keywords: Brentford, Everton, Premier League, Keane Lewis-Potter, football | hashtags: #Brentford #Everton #PremierLeague #Football #BFCVSH
+- Scheduled: Tue 24 Nov, 06:00 AM PKT
+- Caption:
+```
+Keane Lewis-Potter starred as Brentford secured a dominant 4-0 victory over 10-man Everton to break into the top six.
+
+Keane Lewis-Potter scored twice as Brentford defeated 10-man Everton 4-0 to climb into the Premier League's top six. Everton played with a man down after James Tarkowski's red card, while Vitaly Janelt and Fabio Carvalho also scored for Brentford.
+
+کین لیوس پوٹر کے دو گول کی بدولت برینٹفورڈ نے 10 کھلاڑیوں پر مشتمل ایورٹن کو 4-0 سے شکست دے کر پریمیئر لیگ کے ٹاپ سکس میں جگہ بنا لی ہے۔ میچ کے دوران ایورٹن کے کپتان کو ریڈ کارڈ ملا جبکہ برینٹفورڈ کی جانب سے دیگر گول ویٹالی اور فابیو نے اسکور کیے۔
+
+First reported by Dawn Latest
+
+#Brentford #Everton #PremierLeague #Football #BFCVSH
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 3
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
@@ -67,7 +163,6 @@
 - [needs_review] normal | Rahul Gandhi Backs Strong India-Israel Ties Despite Gaza War | Sat 21 Nov, 05:08 AM PKT
 - [needs_review] normal | Pakistan Crowned Men’s Blind Cricket Asia Cup Champions | Sat 21 Nov, 05:18 AM PKT
 - [needs_review] normal | Anthropic Researcher Claims Claude Chatbot Solved Math’s Greatest Ridd | Sat 21 Nov, 05:28 AM PKT
-- [published] normal | Iraqi Security Forces Deploy in Pro-Iran Militia Stronghold | Sat 21 Nov, 05:38 AM PKT
 - [needs_review] normal | Saudi Coalition Intercepts Three Houthi Missiles as Riyadh Triggers Em | Sat 21 Nov, 06:25 AM PKT
 - [needs_review] normal | Nepal's Prime Minister Targets Trade and Connectivity in Crucial India | Sat 21 Nov, 06:35 AM PKT
 - [needs_review] normal | Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Leas | Sat 21 Nov, 06:45 AM PKT
@@ -265,30 +360,18 @@
 - [needs_review] normal | Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game | Mon 23 Nov, 06:11 PM PKT
 - [needs_review] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
 - [published] promo | [YouTube] RANA SANAULLAH BLASTS MOHSIN NAQVI | IMRAN KHAN HEALTH CRISI | Tue 24 Nov, 01:35 AM PKT
+- [published] normal | Jensen Huang's return as Nvidia CEO adds $1 trillion to company's valu | Tue 24 Nov, 05:30 AM PKT
+- [queued] normal | Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen | Tue 24 Nov, 05:40 AM PKT
+- [queued] normal | Israeli strikes kill at least three, including UNRWA worker, in Gaza | Tue 24 Nov, 05:50 AM PKT
+- [queued] normal | Brentford hit Everton for four to soar into Premier League top six | Tue 24 Nov, 06:00 AM PKT
 
 ## Publishing this run
-- No post published: nothing due yet.
+- Published 'Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
-  - Gemini gemini-3.8-flash: HTTP 503 {
+- Calls: 2 | prompt tokens: 5693 | output tokens: 2539
+- Errors: 1
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
