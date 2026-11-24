@@ -253,7 +253,7 @@ def select_balanced(stories, n, min_conf, min_comp, break_urg, break_conf, max_b
         progressed = False
         for k in order:
             while pos[k] < len(lists[k]) and (lists[k][pos[k]]["id"] in ids
-                                              or per_cat.get(lists[k][pos[k]]["category"], 0) >= (5 if lists[k][pos[k]]["category"] == "politics" else 4 if lists[k][pos[k]]["category"] == "economy" else max_per_cat)):
+                                              or per_cat.get(lists[k][pos[k]]["category"], 0) >= (7 if lists[k][pos[k]]["category"] == "politics" else 5 if lists[k][pos[k]]["category"] == "us_politics" else 4 if lists[k][pos[k]]["category"] == "economy" else max_per_cat)):
                 pos[k] += 1
             if pos[k] < len(lists[k]) and len(chosen) < n:
                 s = lists[k][pos[k]]
