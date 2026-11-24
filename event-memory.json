@@ -134785,7 +134785,701 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c7df409d66cc612bdfd0270f",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T02:35:27+00:00",
+      "last_update": "2026-11-24T02:35:27+00:00",
+      "event": "Excavator threatens sacred alpine lake in the Himalayas",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administered",
+        "alpine",
+        "excavator",
+        "footage",
+        "has",
+        "himalayas",
+        "india",
+        "kashmir",
+        "lake",
+        "near",
+        "outrage",
+        "sacred",
+        "sheshnag",
+        "sparked",
+        "the",
+        "threatens"
+      ],
+      "source_excerpt": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+          "published_at": "2026-11-24T02:35:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7d80b38a86d11d22b28d0349",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T02:27:19+00:00",
+      "last_update": "2026-11-24T02:27:19+00:00",
+      "event": "UN chief calls for world to agree on AI oversight within a year",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "agree",
+        "antonio",
+        "become",
+        "calls",
+        "chief",
+        "end",
+        "for",
+        "general",
+        "guterres",
+        "has",
+        "increasingly",
+        "nears",
+        "oversight",
+        "secretary",
+        "term",
+        "vocal",
+        "within",
+        "world",
+        "year"
+      ],
+      "source_excerpt": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+          "published_at": "2026-11-24T02:27:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ed4f7cff894121c531aa629",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:49:21+00:00",
+      "last_update": "2026-11-24T01:49:21+00:00",
+      "event": "Governor’s rule failed to bring peace to Khyber Pakhtunkhwa: Siraj",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bring",
+        "dawn",
+        "failed",
+        "governor",
+        "khyber",
+        "pakhtunkhwa",
+        "peace",
+        "rule",
+        "siraj"
+      ],
+      "source_excerpt": "Governor’s rule failed to bring peace to Khyber Pakhtunkhwa: Siraj Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGdkVXdESkJhLXVnNzRReTJsMFZpbndIVjFQRHpDSml6MVhoYnlGdGc0U202Nlp4UXJERk4yaHQ3Zmh2cFRUWC1scnc1WW5PenpreG56bmRtcWs5V25rTURPYVpmam9kUWpzaGF1eG9jc2NHdlBLN2NLMXBFS2tTTmhkbHhXdTJ6M1A3cWFyTGxyWm9EbXY2aDR4M21WOUE?oc=5",
+          "published_at": "2026-11-24T01:49:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGdkVXdESkJhLXVnNzRReTJsMFZpbndIVjFQRHpDSml6MVhoYnlGdGc0U202Nlp4UXJERk4yaHQ3Zmh2cFRUWC1scnc1WW5PenpreG56bmRtcWs5V25rTURPYVpmam9kUWpzaGF1eG9jc2NHdlBLN2NLMXBFS2tTTmhkbHhXdTJ6M1A3cWFyTGxyWm9EbXY2aDR4M21WOUE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cb592f71f9ac44695d15daba",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:48:09+00:00",
+      "last_update": "2026-11-24T01:48:09+00:00",
+      "event": "Pop singer Bunny passes away in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "away",
+        "bunny",
+        "dawn",
+        "karachi",
+        "passes",
+        "pop",
+        "singer"
+      ],
+      "source_excerpt": "Pop singer Bunny passes away in Karachi Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pbGcwVENHc3ZYS2dGMXd0MzVXRzhHRGx3VElCb25BbFdsNXRCeU90VTVlSzkxRm50RHlBc093dENZc2FKeWExZUhXRmdqS1lrU01ackowaGp1R0owdktJclF1NmlRV1V2amJhRTk1WHZzU19XRUdxOHNVNjZWZw?oc=5",
+          "published_at": "2026-11-24T01:48:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pbGcwVENHc3ZYS2dGMXd0MzVXRzhHRGx3VElCb25BbFdsNXRCeU90VTVlSzkxRm50RHlBc093dENZc2FKeWExZUhXRmdqS1lrU01ackowaGp1R0owdktJclF1NmlRV1V2amJhRTk1WHZzU19XRUdxOHNVNjZWZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9001ee59fbe812a5b8b1a745",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:47:14+00:00",
+      "last_update": "2026-11-24T01:47:14+00:00",
+      "event": "Farhan to lead Pakistan U-19 against England",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "dawn",
+        "england",
+        "farhan",
+        "lead",
+        "pakistan"
+      ],
+      "source_excerpt": "Farhan to lead Pakistan U-19 against England Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1R5aTY3MEltZnlobXZBeUt5N0tlbTdVR050c0k5eDJyczl4ZmFCNjJVWTY2YVlJOWlOb3RpZWx0WWx0R3huTVhZaU0teHRISlhuRVN0MC1WLTRRdFhFTmw1aTJzaE1TUTBHMnZicUxzWHU0cThvQmZHRW1CbHdtQnZPTUQ?oc=5",
+          "published_at": "2026-11-24T01:47:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1R5aTY3MEltZnlobXZBeUt5N0tlbTdVR050c0k5eDJyczl4ZmFCNjJVWTY2YVlJOWlOb3RpZWx0WWx0R3huTVhZaU0teHRISlhuRVN0MC1WLTRRdFhFTmw1aTJzaE1TUTBHMnZicUxzWHU0cThvQmZHRW1CbHdtQnZPTUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2f9d00e3b195468445f3be46",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:48:32+00:00",
+      "last_update": "2026-11-24T01:48:32+00:00",
+      "event": "ATC grants five-day remand of PTI leader",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "atc",
+        "dawn",
+        "day",
+        "five",
+        "grants",
+        "leader",
+        "pti",
+        "remand"
+      ],
+      "source_excerpt": "ATC grants five-day remand of PTI leader Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQkU1MHMyM1hCXzhqZjRGZE9OUWhIYVdvVHVqNS11M2lVdEV0elptNFF1S0VkUWR0dGtMN25QVXZaSzhNc3NyX2k4YkJjSkl1R2hWLVpIUmQtSEJVSi1ER1hGeG9vMGFtWDh4TlpCMVdhSlVVNFpzQVJwSW5HekU?oc=5",
+          "published_at": "2026-11-24T01:48:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQkU1MHMyM1hCXzhqZjRGZE9OUWhIYVdvVHVqNS11M2lVdEV0elptNFF1S0VkUWR0dGtMN25QVXZaSzhNc3NyX2k4YkJjSkl1R2hWLVpIUmQtSEJVSi1ER1hGeG9vMGFtWDh4TlpCMVdhSlVVNFpzQVJwSW5HekU?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c19b729521dddae1c0fc8642",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:47:14+00:00",
+      "last_update": "2026-11-24T01:47:14+00:00",
+      "event": "Pakistan cueists make winning start at World Cup",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cueists",
+        "cup",
+        "dawn",
+        "make",
+        "pakistan",
+        "start",
+        "winning",
+        "world"
+      ],
+      "source_excerpt": "Pakistan cueists make winning start at World Cup Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbjdxY1hTejJtSDVOM0h5LWZKTmliUVRwZnRuZ2VUem9XVFVKeXlhRFp1bWhVYmlNa1paREZCTF9Pazd1Q0czMDdweVhSeHBia1RaRkF1UlBVMURqMHBJa0pHMUFZOGdFdEFWMVgwcjZaZ0xQVm5WOGlKdW5pUjZSS2ZBNVN4SERCcnc?oc=5",
+          "published_at": "2026-11-24T01:47:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbjdxY1hTejJtSDVOM0h5LWZKTmliUVRwZnRuZ2VUem9XVFVKeXlhRFp1bWhVYmlNa1paREZCTF9Pazd1Q0czMDdweVhSeHBia1RaRkF1UlBVMURqMHBJa0pHMUFZOGdFdEFWMVgwcjZaZ0xQVm5WOGlKdW5pUjZSS2ZBNVN4SERCcnc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "60b355d9fe39cbf78cf3526c",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:47:14+00:00",
+      "last_update": "2026-11-24T01:47:14+00:00",
+      "event": "Pakistan women suffer four-run defeat against SL",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "dawn",
+        "defeat",
+        "four",
+        "pakistan",
+        "run",
+        "suffer",
+        "women"
+      ],
+      "source_excerpt": "Pakistan women suffer four-run defeat against SL Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSlMxWWpFMnJqRklocENnSnpTSE80VC1CV3V0eHBacW1KUnFDb2VSMWQ1dHVBUzJZSkNPTHhiQ3AzbXo0VEluV2p2d1d3TkotcE1zZEJPclJObGRDT1JBTWduM05TV3M0NlZtQkxFMmlIZmJSeHJQUWZ5N09DREZsNUdtOUlPZGE5akE?oc=5",
+          "published_at": "2026-11-24T01:47:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSlMxWWpFMnJqRklocENnSnpTSE80VC1CV3V0eHBacW1KUnFDb2VSMWQ1dHVBUzJZSkNPTHhiQ3AzbXo0VEluV2p2d1d3TkotcE1zZEJPclJObGRDT1JBTWduM05TV3M0NlZtQkxFMmlIZmJSeHJQUWZ5N09DREZsNUdtOUlPZGE5akE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a236467a30f44e985f2a7f0c",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:45:19+00:00",
+      "last_update": "2026-11-24T01:45:19+00:00",
+      "event": "BHC orders survey of tube wells in Quetta",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bhc",
+        "dawn",
+        "orders",
+        "quetta",
+        "survey",
+        "tube",
+        "wells"
+      ],
+      "source_excerpt": "BHC orders survey of tube wells in Quetta Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb203OHNrZUM3b2dadFppc2ZQTzVUUlMtSGdDcThqUHk5WTBfcU5ZUERobUZIbjFwVTNqOHpvRU5vbWZtWjQ2V054ekpFcjlXekk0RlVFMHIwdG5ScklIR1JNdWJvWVlpU1g1RlVPNkVuYktPaWNwUEpESXhyaG9WMA?oc=5",
+          "published_at": "2026-11-24T01:45:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb203OHNrZUM3b2dadFppc2ZQTzVUUlMtSGdDcThqUHk5WTBfcU5ZUERobUZIbjFwVTNqOHpvRU5vbWZtWjQ2V054ekpFcjlXekk0RlVFMHIwdG5ScklIR1JNdWJvWVlpU1g1RlVPNkVuYktPaWNwUEpESXhyaG9WMA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7db46d5809f25e744034fd50",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T02:31:13+00:00",
+      "last_update": "2026-11-24T02:31:13+00:00",
+      "event": "Pakistan’s Zeeshan Ali among crew of China’s Shenzhou-24 mission; liftoff scheduled for Nov 25",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "according",
+        "agency",
+        "ali",
+        "among",
+        "announced",
+        "become",
+        "beijing",
+        "board",
+        "china",
+        "cmsa",
+        "crew",
+        "first",
+        "for",
+        "foreign",
+        "launch",
+        "liftoff",
+        "manned",
+        "member",
+        "mission",
+        "named",
+        "national",
+        "nov",
+        "november",
+        "pakistan",
+        "scheduled",
+        "set",
+        "shenzhou",
+        "space",
+        "station",
+        "the",
+        "tiangong",
+        "tuesday",
+        "was",
+        "which",
+        "with",
+        "zeeshan"
+      ],
+      "source_excerpt": "Pakistan’s Zeeshan Ali was named a crew member of China’s Shenzhou-24 space mission on Tuesday, which is scheduled to launch on November 25, with Ali set to become the first foreign national to board Beijing’s Tiangong space station, the China Manned Space Agency (CMSA) announced. According to the C",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046714/pakistans-zeeshan-ali-among-crew-of-chinas-shenzhou-24-mission-liftoff-scheduled-for-nov-25",
+          "published_at": "2026-11-24T02:31:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046714/pakistans-zeeshan-ali-among-crew-of-chinas-shenzhou-24-mission-liftoff-scheduled-for-nov-25",
+        "publisher_url": "https://www.dawn.com/news/2046714/pakistans-zeeshan-ali-among-crew-of-chinas-shenzhou-24-mission-liftoff-scheduled-for-nov-25",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3e13a8725aa14f66247f0357",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:42:41+00:00",
+      "last_update": "2026-11-24T01:42:41+00:00",
+      "event": "Pakistan's first astronaut Zeeshan Ali set for historic liftoff aboard Shenzhou-24",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aboard",
+        "ali",
+        "and",
+        "astronaut",
+        "astronauts",
+        "cgtnofficialali",
+        "china",
+        "chinese",
+        "expected",
+        "first",
+        "for",
+        "historic",
+        "hongbo",
+        "join",
+        "liftoff",
+        "mission",
+        "muhammad",
+        "november",
+        "pakistan",
+        "pakistani",
+        "payload",
+        "set",
+        "shenzhou",
+        "space",
+        "specialist",
+        "spend",
+        "station",
+        "tang",
+        "the",
+        "tiangong",
+        "travel",
+        "who",
+        "will",
+        "zeeshan"
+      ],
+      "source_excerpt": "Pakistan's first astronaut Muhammad Zeeshan Ali, who is set to travel aboard China's Shenzhou-24 mission to the Tiangong space station on November 25. — X/CGTNOfficialAli will join Chinese astronauts Tang Hongbo and Wu Yi as payload specialist.Pakistani astronaut expected to spend...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692393-pakistans-first-astronaut-set-for-historic-liftoff-aboard-chinas-shenzhou-24-tomorrow",
+          "published_at": "2026-11-24T01:42:41+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGNpN3pKXzVHQlp0U05yZFdwRFZNQ1g2ZUVJbERCdTJzdlFvVVp6eDlZd0xwNk1RS3BEQVdNdHQxTXpsekJfMEZiVm9tM25QN1hGaEpoQ3ZiUkxFWjhGaHJxcUN4V3hjNnY4S2RaUEh1Y015TW9xSHBDZTVpRTBnUVgwQkIzRm4xNU45RUJCazRkSXl3OTdra01ORW1tblJtd1NDQ2JhX1JhYklYMk5ZZ0ZKZkszLXZrbVE?oc=5",
+          "published_at": "2026-11-24T01:42:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692393-pakistans-first-astronaut-set-for-historic-liftoff-aboard-chinas-shenzhou-24-tomorrow",
+        "publisher_url": "https://www.geo.tv/latest/692393-pakistans-first-astronaut-set-for-historic-liftoff-aboard-chinas-shenzhou-24-tomorrow",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8c0833b982b81cca6eda4fc2",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:49:36+00:00",
+      "last_update": "2026-11-24T01:49:36+00:00",
+      "event": "Bangladesh parliament speaker begins six-day official visit to Pakistan",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bangladesh",
+        "begins",
+        "dawn",
+        "day",
+        "official",
+        "pakistan",
+        "parliament",
+        "six",
+        "speaker",
+        "visit"
+      ],
+      "source_excerpt": "Bangladesh parliament speaker begins six-day official visit to Pakistan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTNIYWxSc2F4NGNqb201TWtYZmFKYW44ck15bXlzU2JnRG1rQlFVQXFkcmlfVXRxX25IUkZsVU5jX2tfM2hCSDU2SXgxX2l0c295OUhPNU1EdFBqVGFNSEJTNlJTMGwtdTQ5X3pla0tJYTJzOVQ5aEdXaTR1eHl6T3lQcHZYNDFtYmFTelhHazlzY0U1OEVOUWpsS3hSRDFwOFNNS05ETXI?oc=5",
+          "published_at": "2026-11-24T01:49:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTNIYWxSc2F4NGNqb201TWtYZmFKYW44ck15bXlzU2JnRG1rQlFVQXFkcmlfVXRxX25IUkZsVU5jX2tfM2hCSDU2SXgxX2l0c295OUhPNU1EdFBqVGFNSEJTNlJTMGwtdTQ5X3pla0tJYTJzOVQ5aEdXaTR1eHl6T3lQcHZYNDFtYmFTelhHazlzY0U1OEVOUWpsS3hSRDFwOFNNS05ETXI?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "39ebf7fd2ca95e78af370374",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:49:36+00:00",
+      "last_update": "2026-11-24T01:49:36+00:00",
+      "event": "Pakistan, Turkiye sign MoU on judicial cooperation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cooperation",
+        "dawn",
+        "judicial",
+        "mou",
+        "pakistan",
+        "sign",
+        "turkiye"
+      ],
+      "source_excerpt": "Pakistan, Turkiye sign MoU on judicial cooperation Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1FYSlN6bFlRWTdnNGduRHV6cGZFd216REY2RkdIbFZCNW83RzZiU2VVZXFWLWdwZDAzbzZ1M2Q0Q29VbEo0YWhBUXp0cVZaYWR2SnRCakkzQ1pzd052LXZpRHh6RFRrZ0xrenZLR2YtWkxvZ0JWbWVyWFdsYzNRVjlkRGV0RVI2cTVz?oc=5",
+          "published_at": "2026-11-24T01:49:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1FYSlN6bFlRWTdnNGduRHV6cGZFd216REY2RkdIbFZCNW83RzZiU2VVZXFWLWdwZDAzbzZ1M2Q0Q29VbEo0YWhBUXp0cVZaYWR2SnRCakkzQ1pzd052LXZpRHh6RFRrZ0xrenZLR2YtWkxvZ0JWbWVyWFdsYzNRVjlkRGV0RVI2cTVz?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e22d68b17a4bec7dd4b2d871",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:45:57+00:00",
+      "last_update": "2026-11-24T01:45:57+00:00",
+      "event": "Pakistan seeks Portugal’s support for GSP+ renewal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "for",
+        "gsp",
+        "pakistan",
+        "portugal",
+        "renewal",
+        "seeks",
+        "support"
+      ],
+      "source_excerpt": "Pakistan seeks Portugal’s support for GSP+ renewal Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOG5mUXI3LXJUUUxpWURkN3YtZlNGWXNQaTlVM1ExMUdKUXdyMFg2LWNfUnVYTkk2U0t5QzFvU24tYm9yVFBxX2lQVkNjbUZVdHdnakp5QnV2Sk5hQ1lFTFRPNE5rbFdTNHdLb1pOZ2JnYXhRSmZKR194TmRpeURib0pHOENTNmlEeWc?oc=5",
+          "published_at": "2026-11-24T01:45:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOG5mUXI3LXJUUUxpWURkN3YtZlNGWXNQaTlVM1ExMUdKUXdyMFg2LWNfUnVYTkk2U0t5QzFvU24tYm9yVFBxX2lQVkNjbUZVdHdnakp5QnV2Sk5hQ1lFTFRPNE5rbFdTNHdLb1pOZ2JnYXhRSmZKR194TmRpeURib0pHOENTNmlEeWc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8254366b949aa078e1c54304",
+      "remembered_at": "2026-11-24T02:52:00.913438+00:00",
+      "event_date": "2026-11-24T01:46:12+00:00",
+      "last_update": "2026-11-24T01:46:12+00:00",
+      "event": "Arbab Niaz Stadium name restored as Peshawar lands PSL opener",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arbab",
+        "dawn",
+        "lands",
+        "name",
+        "niaz",
+        "opener",
+        "peshawar",
+        "psl",
+        "restored",
+        "stadium"
+      ],
+      "source_excerpt": "Arbab Niaz Stadium name restored as Peshawar lands PSL opener Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeUhqWEJ5VVVrU29TcElKbU05eENsdWRwa0pVNW5UWFB2aE5rdWY5WVlOd3ZyNTg1bGZoUVUyMV9WcTRzeWJzMGJhb0dyTGdfODRjSS1pYldTcVpwVWxwUVh1V3VHZ0JsTDFXdXppS1VLU0RmNk9SdjZhMmJwR1FSSGNZQTNLbUxYa0NsdmF5WkZuV3RiNE5RNGNiNA?oc=5",
+          "published_at": "2026-11-24T01:46:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeUhqWEJ5VVVrU29TcElKbU05eENsdWRwa0pVNW5UWFB2aE5rdWY5WVlOd3ZyNTg1bGZoUVUyMV9WcTRzeWJzMGJhb0dyTGdfODRjSS1pYldTcVpwVWxwUVh1V3VHZ0JsTDFXdXppS1VLU0RmNk9SdjZhMmJwR1FSSGNZQTNLbUxYa0NsdmF5WkZuV3RiNE5RNGNiNA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T01:53:21.257010+00:00"
+  "updated_at": "2026-11-24T02:52:00.913438+00:00"
 }

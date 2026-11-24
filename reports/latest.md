@@ -1,35 +1,35 @@
-# News Hub report - Tue 24 Nov, 06:53 AM PKT
+# News Hub report - Tue 24 Nov, 07:52 AM PKT
 
 ## Collection
-- New items this run: 67 | items in rolling pool: 290
-- Unique story clusters: 241 (duplicates merged: 49)
-- Clusters dropped as already published/queued: 9; unchanged since last analysis: 10
-- Items per outlet: Dawn 42, Al Jazeera 7, Engadget 2, The Japan Times 2, WIBW 2, The News International 1, Dawn Latest 1, Geo News 1, Jang Urdu 1, The Express Tribune 1, Wired 1, GSMArena 1
+- New items this run: 66 | items in rolling pool: 298
+- Unique story clusters: 257 (duplicates merged: 41)
+- Clusters dropped as already published/queued: 13; unchanged since last analysis: 8
+- Items per outlet: Dawn 49, Al Jazeera 3, Profit by Pakistan Today 3, Investify 3, Geo News 2, Dawn Pakistan 1, Dawn Latest 1, Jang Urdu 1, The Express Tribune 1, Italianismo 1, Anadolu Ajansı 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- US to blacklist Asian AI firm Megaspeed after Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- King Charles and Elton John pay tribute to Australian music legend Molly Meldrum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Borno school enrolment nearly doubles after years of conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Iran says three ships catch fire after hitting Hormuz mines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Qatar PM looks to revive US-Iran talks after meeting Rubio | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Appeals court renews Trump bid for federal jurisdiction in hush-money case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli minister approves return of Flydubai flights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bukele shares details on deaths of Salvadoran troops in Haiti intervention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- US to blacklist Asian AI firm Megaspeed after Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- King Charles and Elton John pay tribute to Australian music legend Molly Meldrum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Borno school enrolment nearly doubles after years of conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Iran says three ships catch fire after hitting Hormuz mines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Qatar PM looks to revive US-Iran talks after meeting Rubio | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Appeals court renews Trump bid for federal jurisdiction in hush-money case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli minister approves return of Flydubai flights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bukele shares details on deaths of Salvadoran troops in Haiti intervention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- US to blacklist Asian AI firm Megaspeed after Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- King Charles and Elton John pay tribute to Australian music legend Molly Meldrum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Borno school enrolment nearly doubles after years of conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Iran says three ships catch fire after hitting Hormuz mines | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Qatar PM looks to revive US-Iran talks after meeting Rubio | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Appeals court renews Trump bid for federal jurisdiction in hush-money case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli minister approves return of Flydubai flights | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bukele shares details on deaths of Salvadoran troops in Haiti intervention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,114 +39,111 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Trump Demands Immediate Expedited Federal Executions While Blasting Gavin Newsom  [NORMAL]
-- Poster: ٹرمپ کا وفاقی سزائے موت پر فوری عملدرآمد کا مطالبہ / Trump Calls to Expedite Federal Executions | category us_politics
-- Alternative headline: Trump Slams California Governor Gavin Newsom Over Commuted Death Sentences
+### Qatar PM Works to Revive US-Iran Talks After Rubio Meeting  [NORMAL]
+- Poster: قطر کے وزیراعظم کی امریکہ اور ایران کے درمیان مذاکرات بحال کرنے کی کوشش / Qatar PM pushes to revive US-Iran talks | category us_politics
+- Alternative headline: Qatari Prime Minister Pushes for US-Iran De-escalation
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: federal executions, Trump, Gavin Newsom, death sentences, California, US politics | hashtags: #Trump #GavinNewsom #DeathPenalty #USPolitics #AlJazeera
-- Scheduled: Tue 24 Nov, 06:53 AM PKT
+- Keywords: US-Iran talks, Qatar PM, Rubio, de-escalation, diplomacy | hashtags: #Qatar #US #Iran #Diplomacy
+- Scheduled: Tue 24 Nov, 07:52 AM PKT
 - Caption:
 ```
-US President Donald Trump has strongly criticized California Governor Gavin Newsom, demanding an expedited process for federal executions following recent commutations.
+Qatar's Prime Minister is actively working to de-escalate rising tensions between the United States and Iran following a key meeting.
 
-US President Donald Trump used a public podium to strongly criticize California Governor Gavin Newsom. The sharp rebuke follows Newsom's decision to commute 548 death sentences, prompting Trump to call for an immediate push to expedite US federal executions.
+Qatar's Prime Minister has announced efforts to de-escalate escalating tensions between Iran and the United States following a meeting with US officials, aiming to reopen diplomatic communication channels and revive stalled talks.
 
-امریکہ کے صدر ڈونلڈ جے ٹرمپ نے کیلیفورنیا کے گورنر گیون نیوسم کو کڑی تنقید کا نشانہ بنایا ہے۔ یہ بیان گورنر کی طرف سے 548 سزائے موت کے فیصلوں کو تبدیل کرنے کے فیصلے کے بعد سامنے آیا ہے، جس پر ٹرمپ نے وفاقی سزائے موت پر فوری عمل درآمد کا مطالبہ کیا ہے۔
+قطر کے وزیراعظم نے ایک اہم ملاقات کے بعد ایران اور امریکہ کے درمیان بڑھتی ہوئی کشیدگی کو کم کرنے اور مذاکرات کی بحالی کے لیے کوششیں شروع کرنے کا اعلان کیا ہے۔
 
-According to a report by Al Jazeera.
+According to Al Jazeera
 
-#Trump #GavinNewsom #DeathPenalty #USPolitics #AlJazeera
+#Qatar #US #Iran #Diplomacy
 ```
 
-### US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia Scandal  [NORMAL]
-- Poster: امریکہ کا سنگاپور کی اے آئی فرم میگاسپیڈ کو بلیک لسٹ کرنے کا اعلان / US to Blacklist AI Firm Megaspeed | category tech_ai
-- Alternative headline: Megaspeed Faces US Export Control List Entry Over Nvidia Allegations
+### Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran  [NORMAL]
+- Poster: تین تیل بردار جہاز آبنائے ہرمز میں بارودی سرنگوں سے ٹکرا کر جل گئے / Three oil tankers on fire in Hormuz strait | category war
+- Alternative headline: Iran Reports Three Ships on Fire in Strait of Hormuz
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology, Al Jazeera
-- Keywords: Megaspeed, Nvidia, US Department of Commerce, AI chips, Alice Huang, export control | hashtags: #Megaspeed #Nvidia #ArtificialIntelligence #USCommerce #TechNews
-- Scheduled: Tue 24 Nov, 07:03 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Strait of Hormuz, Iran, oil tankers, naval mines, fire | hashtags: #Iran #Hormuz #OilTankers #MaritimeSecurity
+- Scheduled: Tue 24 Nov, 08:02 AM PKT
 - Caption:
 ```
-The US Department of Commerce plans to ban Singaporean AI firm Megaspeed from American business transactions amid security concerns linked to Nvidia.
+Iran's Revolutionary Guards report that three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.
 
-The United States has announced plans to ban Singaporean artificial intelligence company Megaspeed from conducting business in America. The Department of Commerce intends to add the firm to its export control list following scrutiny over advanced AI computer chips and former executive Alice Huang.
+Iran's Revolutionary Guards have stated that three oil tankers caught fire after striking naval mines in the strategic Strait of Hormuz, raising fresh concerns over maritime security and regional shipping lanes.
 
-امریکہ نے سنگاپور سے تعلق رکھنے والی مصنوعی ذہانت کی فرم میگاسپیڈ پر امریکی کاروبار کرنے پر پابندی لگانے کا ارادہ ظاہر کیا ہے۔ محکمہ تجارت نے این ویڈیا کے چپ اسکینڈل اور سابق ایگزیکٹو سے جڑے خدشات کے بعد کمپنی کو بلیک لسٹ کرنے کا اعلان کیا ہے۔
+ایران کے پاسداران انقلاب کا کہنا ہے کہ آبنائے ہرمز میں سمندری بارودی سرنگوں سے ٹکرانے کے بعد تین تیل بردار جہازوں میں آگ لگ گئی ہے۔
 
-First reported by BBC Technology; also reported by Al Jazeera.
+According to Al Jazeera
 
-#Megaspeed #Nvidia #ArtificialIntelligence #USCommerce #TechNews
+#Iran #Hormuz #OilTankers #MaritimeSecurity
 ```
 
-### King Charles and Elton John Pay Tribute to Late Australian Music Legend Molly Meldrum  [NORMAL]
-- Poster: کنگ چارلس اور ایلٹن جان کی آسٹریلوی موسیقار مولی میلڈرم کو خراج تحسین / Tributes to Molly Meldrum | category other
-- Alternative headline: Tributes Pour In From King Charles and Elton John for Molly Meldrum
+### Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money Case  [NORMAL]
+- Poster: عدالتِ اپیل نے ٹرمپ کی وفاقی دائرہ اختیار کی درخواست بحال کر دی / Appeals court renews Trump jurisdiction bid | category courts
+- Alternative headline: Trump Wins Appeals Court Review on Federal Jurisdiction
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdGZEbUxLQjhnMUJwUWI5QnFDSHJqZFJ2VGNWQzRCY3JSTkxUdjkwQURlNUl6d21aSklaeG53M0hqVC1WdDlIblZfa0NuWExMMC1fV3RodHV2eDg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdGZEbUxLQjhnMUJwUWI5QnFDSHJqZFJ2VGNWQzRCY3JSTkxUdjkwQURlNUl6d21aSklaeG53M0hqVC1WdDlIblZfa0NuWExMMC1fV3RodHV2eDg?oc=5
-- Supporting coverage: BBC, Dawn
-- Keywords: Molly Meldrum, King Charles, Elton John, Australia, music legend, tribute | hashtags: #MollyMeldrum #KingCharles #EltonJohn #MusicLegend #BBC
-- Scheduled: Tue 24 Nov, 07:13 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Trump hush-money case, appeals court, federal jurisdiction, presidential immunity | hashtags: #Trump #USCourts #LegalNews #Politics
+- Scheduled: Tue 24 Nov, 08:12 AM PKT
 - Caption:
 ```
-King Charles and music icon Elton John have led global tributes following the passing of renowned Australian music legend Molly Meldrum.
+A fresh court ruling could pave the way for Donald Trump to invoke presidential immunity in his ongoing legal battle.
 
-King Charles and music superstar Elton John have paid glowing tributes to legendary Australian music promoter and icon Molly Meldrum following his passing. The prominent figure left a lasting legacy in the Australian music industry, drawing condolences from global personalities.
+A US appeals court has renewed Donald Trump's bid for federal jurisdiction in his hush-money case. The ruling could potentially allow Trump to argue that prosecutors relied on evidence protected by presidential immunity.
 
-برطانوی بادشاہ کنگ چارلس اور معروف موسیقار ایلٹن جان نے آسٹریلیا کے لیجنڈری میوزک پرموٹر مولی میلڈرم کے انتقال پر گہرے دکھ اور خراج تحسین کا اظہار کیا ہے۔ مولی میلڈرم نے آسٹریلوی موسیقی کی صنعت میں گہرے نقوش چھوڑے۔
+امریکہ کی ایک اپیل کورٹ نے خاموشی کی قیمت کے مقدمے میں ڈونلڈ ٹرمپ کی وفاقی دائرہ اختیار کی درخواست بحال کر دی ہے، جس سے انہیں صدارتی استثنیٰ کا دفاع کرنے کا موقع مل سکتا ہے۔
 
-First reported by BBC.
+According to Al Jazeera
 
-#MollyMeldrum #KingCharles #EltonJohn #MusicLegend #BBC
+#Trump #USCourts #LegalNews #Politics
 ```
 
-### Zeeshan Ali Set to Become Pakistan's First Astronaut in Space  [NORMAL]
-- Poster: ذیشان علی خلا میں جانے والے پہلے پاکستانی خلاء نورد بن گئے / Pakistan's First Astronaut in Space | category science
-- Alternative headline: Historic Milestone: Zeeshan Ali Ready to Fly as Pakistan's First Space Traveler
+### Israeli Minister Approves Return of Flydubai Flights  [NORMAL]
+- Poster: اسرائیلی وزیر نے فلائی دبئی کی پروازیں بحال کرنے کی منظوری دے دی / Flydubai flights approval in Israel | category politics
+- Alternative headline: Flydubai Flights to Israel Get Ministerial Approval
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZKbFMzcWlkQmVuYkRadURkSHE0dmxPR0xVdkRZYVFpWHRvSzItRGRtYzBNZ2xxT1U1NlpjWVBuZGNJZHhscVUwRFphM3R1cTlwR0pMdkV4Qk1Kc1FLQVdKemhvM0sxbW4wblF5YmRiLTk3R1FsSlF6Y2pnSGt0QUZ1NWpNVVVvSGtYeE5BTDRJSTAtdnNRYUFZZ3IyUlhwWEVqQ1BZZ3FwWkhLN1hLMjUyTQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZKbFMzcWlkQmVuYkRadURkSHE0dmxPR0xVdkRZYVFpWHRvSzItRGRtYzBNZ2xxT1U1NlpjWVBuZGNJZHhscVUwRFphM3R1cTlwR0pMdkV4Qk1Kc1FLQVdKemhvM0sxbW4wblF5YmRiLTk3R1FsSlF6Y2pnSGt0QUZ1NWpNVVVvSGtYeE5BTDRJSTAtdnNRYUFZZ3IyUlhwWEVqQ1BZZ3FwWkhLN1hLMjUyTQ?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Zeeshan Ali, Pakistan astronaut, space mission, first astronaut, Dawn, space travel | hashtags: #ZeeshanAli #PakistanInSpace #FirstPakistaniAstronaut #SpaceMission #Dawn
-- Scheduled: Tue 24 Nov, 07:23 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Flydubai flights, Israeli minister, Dubai, Tel Aviv, aviation | hashtags: #Flydubai #Israel #Aviation #Travel
+- Scheduled: Tue 24 Nov, 08:22 AM PKT
 - Caption:
 ```
-History is in the making as Zeeshan Ali prepares to become Pakistan's very first astronaut to travel into space.
+An Israeli minister has approved the resumption of Flydubai flights, pending final security clearance from authorities.
 
-Zeeshan Ali is set to make history by becoming Pakistan's first astronaut to travel into space. The landmark mission marks a monumental achievement for the country's space aspirations, capturing national and international attention.
+An Israeli minister has approved the return of Flydubai flights between Dubai and Tel Aviv, though the final resumption of the carrier's route remains dependent on approval from Israeli security authorities.
 
-ذیشان علی خلا میں جانے والے پاکستان کے پہلے خلاباز بن کر تاریخ رقم کرنے جا رہے ہیں۔ یہ تاریخی مشن ملک کے خلائی سفر کی تاریخ میں ایک سنگ میل کی حیثیت رکھتا ہے جس نے ملک بھر میں خوشی کی لہر دوڑا دی ہے۔
+ایک اسرائیلی وزیر نے دبئی اور تل ابیب کے درمیان فلائی دبئی کی پروازوں کی بحالی کی منظوری دے دی ہے، تاہم حتمی اجازت سکیورٹی حکام کی منظوری سے مشروط ہے۔
 
-First reported by Dawn.
+According to Al Jazeera
 
-#ZeeshanAli #PakistanInSpace #FirstPakistaniAstronaut #SpaceMission #Dawn
+#Flydubai #Israel #Aviation #Travel
 ```
 
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 6
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [needs_review] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
-- [needs_review] normal | Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Re | Sat 21 Nov, 01:06 AM PKT
-- [needs_review] normal | New York City Plans to Close Notorious Rikers Island by 2032 | Sat 21 Nov, 01:16 AM PKT
 - [needs_review] normal | US Tech Sell-Off Deepens as Anthropic Tumbles Following Mega IPO Debut | Sat 21 Nov, 01:45 AM PKT
 - [needs_review] normal | CTD and Police Eliminate Three Terrorists Including Kohat Attack Maste | Sat 21 Nov, 01:55 AM PKT
 - [needs_review] normal | Japan Offers Saudi Arabia Extra Oil Storage and Plans Eight Million Ba | Sat 21 Nov, 02:05 AM PKT
@@ -168,7 +165,6 @@ First reported by Dawn.
 - [needs_review] normal | ANC fights to keep control of South Africa's key cities after election | Sat 21 Nov, 07:28 AM PKT
 - [needs_review] normal | Mauricio Pochettino takes charge of Manchester United ahead of Liverpo | Sat 21 Nov, 07:38 AM PKT
 - [needs_review] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
-- [published] normal | Denmark expels Russian diplomat over alleged plot against Ukrainian ra | Sat 21 Nov, 07:58 AM PKT
 - [needs_review] normal | Pakistan Rises 17 Places in UN E-Governance Ranking | Sat 21 Nov, 08:21 AM PKT
 - [needs_review] normal | SECP Tightens Scrutiny on Corporate Audit Reports | Sat 21 Nov, 08:31 AM PKT
 - [published] normal | Balochistan CM Bugti Promises Province-Wide Jobs | Sat 21 Nov, 08:41 AM PKT
@@ -360,24 +356,22 @@ First reported by Dawn.
 - [published] promo | [YouTube] RANA SANAULLAH BLASTS MOHSIN NAQVI | IMRAN KHAN HEALTH CRISI | Tue 24 Nov, 01:35 AM PKT
 - [published] normal | Jensen Huang's return as Nvidia CEO adds $1 trillion to company's valu | Tue 24 Nov, 05:30 AM PKT
 - [published] normal | Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen | Tue 24 Nov, 05:40 AM PKT
-- [queued] normal | Israeli strikes kill at least three, including UNRWA worker, in Gaza | Tue 24 Nov, 05:50 AM PKT
+- [published] normal | Israeli strikes kill at least three, including UNRWA worker, in Gaza | Tue 24 Nov, 05:50 AM PKT
 - [queued] normal | Brentford hit Everton for four to soar into Premier League top six | Tue 24 Nov, 06:00 AM PKT
 - [queued] normal | Trump Demands Immediate Expedited Federal Executions While Blasting Ga | Tue 24 Nov, 06:53 AM PKT
 - [queued] normal | US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia S | Tue 24 Nov, 07:03 AM PKT
 - [queued] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
 - [queued] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
+- [queued] normal | Qatar PM Works to Revive US-Iran Talks After Rubio Meeting | Tue 24 Nov, 07:52 AM PKT
+- [queued] normal | Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran | Tue 24 Nov, 08:02 AM PKT
+- [queued] normal | Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money | Tue 24 Nov, 08:12 AM PKT
+- [queued] normal | Israeli Minister Approves Return of Flydubai Flights | Tue 24 Nov, 08:22 AM PKT
 
 ## Publishing this run
-- Published 'Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return'.
+- Published 'Israeli strikes kill at least three, including UNRWA worker, in Gaza'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4815 | output tokens: 2842
+- Calls: 3 | prompt tokens: 4129 | output tokens: 2129
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
