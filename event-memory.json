@@ -138624,7 +138624,502 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "67d313bd4be08ae3f56ff651",
+      "remembered_at": "2026-11-24T09:52:33.887219+00:00",
+      "event_date": "2026-11-24T09:33:00+00:00",
+      "last_update": "2026-11-24T09:33:00+00:00",
+      "event": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "awkward",
+        "bbc",
+        "but",
+        "did",
+        "editor",
+        "for",
+        "found",
+        "helpful",
+        "here",
+        "its",
+        "launch",
+        "messaging",
+        "meta",
+        "muse",
+        "she",
+        "technology",
+        "the",
+        "used",
+        "wants",
+        "week",
+        "what",
+        "whatsapp",
+        "when",
+        "with"
+      ],
+      "source_excerpt": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T09:33:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe8aa4fa034dff87861208ee",
+      "remembered_at": "2026-11-24T09:52:33.887219+00:00",
+      "event_date": "2026-11-24T09:10:43+00:00",
+      "last_update": "2026-11-24T09:10:43+00:00",
+      "event": "'Urgent action' needed to protect lake",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "action",
+        "adding",
+        "and",
+        "are",
+        "buttermere",
+        "decline",
+        "ecological",
+        "lake",
+        "needed",
+        "outdated",
+        "protect",
+        "said",
+        "septic",
+        "tanks",
+        "the",
+        "tourism",
+        "urgent"
+      ],
+      "source_excerpt": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T09:10:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b4e90982337af7f5b0101f14",
+      "remembered_at": "2026-11-24T09:52:33.887219+00:00",
+      "event_date": "2026-11-24T09:09:41+00:00",
+      "last_update": "2026-11-24T09:09:41+00:00",
+      "event": "Watch: Moment troops raid home and capture Mexican drug lord",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bodycam",
+        "capture",
+        "chapo",
+        "detained",
+        "drug",
+        "evade",
+        "footage",
+        "for",
+        "had",
+        "home",
+        "isidro",
+        "lord",
+        "managed",
+        "mexican",
+        "moment",
+        "newly",
+        "raid",
+        "released",
+        "shows",
+        "the",
+        "troops",
+        "watch",
+        "who",
+        "years"
+      ],
+      "source_excerpt": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T09:09:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "39b88c105ce48d9a3126a19b",
+      "remembered_at": "2026-11-24T09:52:33.887219+00:00",
+      "event_date": "2026-11-24T09:17:48+00:00",
+      "last_update": "2026-11-24T09:17:48+00:00",
+      "event": "What could make Milton Keynes the next City of Culture?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "city",
+        "could",
+        "culture",
+        "keynes",
+        "make",
+        "milton",
+        "next",
+        "the",
+        "what"
+      ],
+      "source_excerpt": "What could make Milton Keynes the next City of Culture? BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYZUhFSVY0UFdNY1docTU5Qkdmd3pycUpYTkNSQ0FWQWJCUjRWbjBJVU5KbWVKTG1tbnp4bi1Td0Y1R0Rqb1BrZ0Q5VnRPaXBGcWVVbWdDOUhsbzg?oc=5",
+          "published_at": "2026-11-24T09:17:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYZUhFSVY0UFdNY1docTU5Qkdmd3pycUpYTkNSQ0FWQWJCUjRWbjBJVU5KbWVKTG1tbnp4bi1Td0Y1R0Rqb1BrZ0Q5VnRPaXBGcWVVbWdDOUhsbzg?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9ca9b65108d080fbf3b8730c",
+      "remembered_at": "2026-11-24T09:52:33.887219+00:00",
+      "event_date": "2026-11-24T09:01:37+00:00",
+      "last_update": "2026-11-24T09:01:37+00:00",
+      "event": "Lahore ranks ahead of New York, Paris, London in Safety Index 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "ahead",
+        "index",
+        "lahore",
+        "london",
+        "new",
+        "paris",
+        "ranks",
+        "safety",
+        "samaa",
+        "york"
+      ],
+      "source_excerpt": "Lahore ranks ahead of New York, Paris, London in Safety Index 2026 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMEg0U2VhcXRBUFRzQ2NlOWJwSVlxaXkzaDdWYTUybjc0NzE0R2NlNDB0ZHk4ZkZzNEtla0JUYUZIcktrX2dGeTU0ZmhNY3BVVjVSUGlSbWFZUllBdGVmQ0pNNHl2RV9lTmFDU2JhQVZ2MU10c2JDVEgxVkMwYnZjLVkwOTk3VkE3UlRGd05QcFpJalN3Zmk3dF80Mmk?oc=5",
+          "published_at": "2026-11-24T09:01:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMEg0U2VhcXRBUFRzQ2NlOWJwSVlxaXkzaDdWYTUybjc0NzE0R2NlNDB0ZHk4ZkZzNEtla0JUYUZIcktrX2dGeTU0ZmhNY3BVVjVSUGlSbWFZUllBdGVmQ0pNNHl2RV9lTmFDU2JhQVZ2MU10c2JDVEgxVkMwYnZjLVkwOTk3VkE3UlRGd05QcFpJalN3Zmk3dF80Mmk?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6302570e90df3630ada45289",
+      "remembered_at": "2026-11-24T09:52:33.887219+00:00",
+      "event_date": "2026-11-24T09:21:22+00:00",
+      "last_update": "2026-11-24T09:21:22+00:00",
+      "event": "Australia players allegedly discussed ball-tampering in Pakistan Test",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allegedly",
+        "australia",
+        "ball",
+        "discussed",
+        "pakistan",
+        "players",
+        "samaa",
+        "tampering",
+        "test"
+      ],
+      "source_excerpt": "Australia players allegedly discussed ball-tampering in Pakistan Test samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGJDdUhrYnVzUC10MVpUTVM1N3ZfRVAyYkR6V3BaRG56b3RxQXJBeVVFakZwYm9hRXNQcVMtdjhiQ2xpNGlDdGR1REVwMXZDSml3TlZPa21ESS1mMUFyUjEzYmVkV2lPcHFPV1RRVEtOY2dGQWc1enBvZk5oSG83cXNUc3hGUFRBc0hkTV9Bbm5qT1FfVlZlSWlNVm4xblcxV0Nn?oc=5",
+          "published_at": "2026-11-24T09:21:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGJDdUhrYnVzUC10MVpUTVM1N3ZfRVAyYkR6V3BaRG56b3RxQXJBeVVFakZwYm9hRXNQcVMtdjhiQ2xpNGlDdGR1REVwMXZDSml3TlZPa21ESS1mMUFyUjEzYmVkV2lPcHFPV1RRVEtOY2dGQWc1enBvZk5oSG83cXNUc3hGUFRBc0hkTV9Bbm5qT1FfVlZlSWlNVm4xblcxV0Nn?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f90bea5bb8e1304c1cec75c3",
+      "remembered_at": "2026-11-24T09:52:33.887219+00:00",
+      "event_date": "2026-11-24T09:43:29+00:00",
+      "last_update": "2026-11-24T09:43:29+00:00",
+      "event": "Plea filed in LHC against alleged 'siege' of Fazl's residence in Lahore",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abrar",
+        "advocate",
+        "against",
+        "alleged",
+        "capital",
+        "challenging",
+        "chief",
+        "court",
+        "fazl",
+        "fazlur",
+        "filed",
+        "fixed",
+        "has",
+        "high",
+        "his",
+        "hussain",
+        "islam",
+        "jamiat",
+        "jui",
+        "lahore",
+        "lawyer",
+        "lhc",
+        "maulana",
+        "petition",
+        "plea",
+        "provincial",
+        "punjab",
+        "rehman",
+        "residence",
+        "siege",
+        "the",
+        "tuesday",
+        "ulema",
+        "was",
+        "yet"
+      ],
+      "source_excerpt": "LAHORE: A plea challenging the alleged “siege” of Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman’s residence in Punjab’s provincial capital was filed in the Lahore High Court on Tuesday. The petition, filed by JUI-F lawyer Advocate Abrar Hussain, has yet to be fixed. In his petition,",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046756/plea-filed-in-lhc-against-alleged-siege-of-fazls-residence-in-lahore",
+          "published_at": "2026-11-24T09:43:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046756/plea-filed-in-lhc-against-alleged-siege-of-fazls-residence-in-lahore",
+        "publisher_url": "https://www.dawn.com/news/2046756/plea-filed-in-lhc-against-alleged-siege-of-fazls-residence-in-lahore",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ac71191a8041ca26ea3e25a",
+      "remembered_at": "2026-11-24T09:52:33.887219+00:00",
+      "event_date": "2026-11-24T09:50:54+00:00",
+      "last_update": "2026-11-24T09:50:54+00:00",
+      "event": "Punjab government imposes section 144 in Lahore amid law and order concerns",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "144",
+        "amid",
+        "and",
+        "concerns",
+        "government",
+        "imposes",
+        "lahore",
+        "law",
+        "order",
+        "punjab",
+        "section"
+      ],
+      "source_excerpt": "Punjab government imposes section 144 in Lahore amid law and order concerns",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-government-imposes-section-144-in-lahore-amid-law-and-order-concerns",
+          "published_at": "2026-11-24T09:50:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-government-imposes-section-144-in-lahore-amid-law-and-order-concerns",
+        "publisher_url": "https://arynews.tv/punjab-government-imposes-section-144-in-lahore-amid-law-and-order-concerns",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b97c0899d8b8b0bcc6ae2c93",
+      "remembered_at": "2026-11-24T09:52:33.887219+00:00",
+      "event_date": "2026-11-24T09:36:58+00:00",
+      "last_update": "2026-11-24T09:36:58+00:00",
+      "event": "IMF board to review $1.2bn tranche for Pakistan on Dec 11",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2bn",
+        "board",
+        "dec",
+        "for",
+        "imf",
+        "pakistan",
+        "review",
+        "samaa",
+        "tranche"
+      ],
+      "source_excerpt": "IMF board to review $1.2bn tranche for Pakistan on Dec 11 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVdveXVtMnZvYlRRSzRnT2pMckt1WTlVY2lxYjNSMWlhaW5Yb29WemRxM1NtYWZPTDUzUUNCenk4TnRpMHc1MzlCVUNWSzBhVHR5TDdOeW12S01CcDdRVG5NU1ZXbWlRNWN5TGJySXBqZEhrYzRIenhuaG9HOVJfNTQ0THNCQWpRSmZvNHpuVm1kdw?oc=5",
+          "published_at": "2026-11-24T09:36:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVdveXVtMnZvYlRRSzRnT2pMckt1WTlVY2lxYjNSMWlhaW5Yb29WemRxM1NtYWZPTDUzUUNCenk4TnRpMHc1MzlCVUNWSzBhVHR5TDdOeW12S01CcDdRVG5NU1ZXbWlRNWN5TGJySXBqZEhrYzRIenhuaG9HOVJfNTQ0THNCQWpRSmZvNHpuVm1kdw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "61cdeeceb725886e623f2932",
+      "remembered_at": "2026-11-24T09:52:33.887219+00:00",
+      "event_date": "2026-11-24T09:33:45+00:00",
+      "last_update": "2026-11-24T09:33:45+00:00",
+      "event": "Imran asks PTI to reach out to Fazlur Rehman, expand opposition alliance",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alliance",
+        "asks",
+        "expand",
+        "express",
+        "fazlur",
+        "imran",
+        "opposition",
+        "out",
+        "pti",
+        "reach",
+        "rehman",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Imran asks PTI to reach out to Fazlur Rehman, expand opposition alliance The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXZrTWpXdUNoYlRnUlUwWTJVUThoU1F1YUV5bGE0TTFKU0pmTDFVSmhDMXlpWXFWR0VYcEpUZmh3TDE1d0w5RmNfM0FSSUR6QzZKTDlCcExGcVluU0Q2T181a2dRakhFVlR2dFA3ek9HOTBuR3hNaVYtajlyYklkQWQ1TUFweE9oMWg0cFNuVy1qNkMxNFoyV2c1UkR4dHc3dm1xRU90c19hWlB50gG0AUFVX3lxTFBXcHZ5N3h5MURJSHVueFlBcS1DX0dMUExQNTE0cktaOXpVN08yUXJpR0xkMmtKUEZZQy14RTZwMS11QklXUzhDWGhXdVlRbVlnZHJ5SThKMS1reF9RbnhNOXlrUGpMNUd4X041SGtNWDBZaTZHb1hfYkxILVRTR0NGSC1CZFAtdHl5WUJtUDRTdGFiMnRkU1dzX3lTVXlGWmRMM3JBUjJvQnpEZnpXVE0tMWdFUA?oc=5",
+          "published_at": "2026-11-24T09:33:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXZrTWpXdUNoYlRnUlUwWTJVUThoU1F1YUV5bGE0TTFKU0pmTDFVSmhDMXlpWXFWR0VYcEpUZmh3TDE1d0w5RmNfM0FSSUR6QzZKTDlCcExGcVluU0Q2T181a2dRakhFVlR2dFA3ek9HOTBuR3hNaVYtajlyYklkQWQ1TUFweE9oMWg0cFNuVy1qNkMxNFoyV2c1UkR4dHc3dm1xRU90c19hWlB50gG0AUFVX3lxTFBXcHZ5N3h5MURJSHVueFlBcS1DX0dMUExQNTE0cktaOXpVN08yUXJpR0xkMmtKUEZZQy14RTZwMS11QklXUzhDWGhXdVlRbVlnZHJ5SThKMS1reF9RbnhNOXlrUGpMNUd4X041SGtNWDBZaTZHb1hfYkxILVRTR0NGSC1CZFAtdHl5WUJtUDRTdGFiMnRkU1dzX3lTVXlGWmRMM3JBUjJvQnpEZnpXVE0tMWdFUA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T08:43:32.572119+00:00"
+  "updated_at": "2026-11-24T09:52:33.887219+00:00"
 }

@@ -1,35 +1,35 @@
-# News Hub report - Tue 24 Nov, 01:43 PM PKT
+# News Hub report - Tue 24 Nov, 02:52 PM PKT
 
 ## Collection
-- New items this run: 95 | items in rolling pool: 479
-- Unique story clusters: 411 (duplicates merged: 68)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 23, samaa tv 10, ARY News 10, ProPakistani 10, Geo News 7, Al Jazeera 6, Profit by Pakistan Today 4, Dawn Pakistan 3, TechJuice 3, Dawn 2, Dawn Latest 2, Investify 2
+- New items this run: 116 | items in rolling pool: 483
+- Unique story clusters: 420 (duplicates merged: 63)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 56, samaa tv 7, ProPakistani 7, ARY News 6, TechJuice 6, Geo News 5, Investify 4, GSMArena 3, Dawn 2, Engadget 2, Profit by Pakistan Today 2, UNITED24 Media 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- MNJ Road closed to traffic until next summer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz congratulates CDF Munir on Malaysia Hall of Fame induction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tech firms soar as Huang’s return reinvigorates AI trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Member states must not betray the ICC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- DR Congo says aircraft missing as rebels claim to shoot down plane | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Imran wants PTI to expand political alliance, extend outreach to Fazl and other opposition parties, core committee told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI moves IHC for live broadcast of Al-Qadir Trust case hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US army says detonation of lead explosives in Iowa will proceed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- MNJ Road closed to traffic until next summer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz congratulates CDF Munir on Malaysia Hall of Fame induction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tech firms soar as Huang’s return reinvigorates AI trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Member states must not betray the ICC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- DR Congo says aircraft missing as rebels claim to shoot down plane | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Imran wants PTI to expand political alliance, extend outreach to Fazl and other opposition parties, core committee told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI moves IHC for live broadcast of Al-Qadir Trust case hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US army says detonation of lead explosives in Iowa will proceed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- MNJ Road closed to traffic until next summer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz congratulates CDF Munir on Malaysia Hall of Fame induction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tech firms soar as Huang’s return reinvigorates AI trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Member states must not betray the ICC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- DR Congo says aircraft missing as rebels claim to shoot down plane | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Imran wants PTI to expand political alliance, extend outreach to Fazl and other opposition parties, core committee told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI moves IHC for live broadcast of Al-Qadir Trust case hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US army says detonation of lead explosives in Iowa will proceed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,126 +39,119 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Wars Choke Global Food Routes, Threatening Aid for 7.3 Million  [NORMAL]
-- Poster: جنگوں کی وجہ سے عالمی فوڈ روٹس بند، کروڑوں افراد کے لیے امداد خطرے میں / Wars Choke Food Routes, Threatening Aid | category politics
-- Alternative headline: WFP Warns Ongoing Conflicts Threaten Food Aid for Millions
+### Imran Khan directs PTI to expand political alliance and reach out to Fazl  [NORMAL]
+- Poster: عمران خان کی پی ٹی آئی کو سیاسی اتحاد وسیع کرنے اور فضل الرحمان سے رابطے کی ہدایت / Imran wants PTI to expand alliance and reach out to Fazl | category politics
+- Alternative headline: PTI core committee told of Imran's push for broader opposition alliance
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046742/imran-wants-pti-to-expand-political-alliance-extend-outreach-to-fazl-and-other-opposition-parties-core-committee-told | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046742/imran-wants-pti-to-expand-political-alliance-extend-outreach-to-fazl-and-other-opposition-parties-core-committee-told
+- Supporting coverage: Dawn Pakistan, samaa tv
+- Keywords: Imran Khan, PTI, Maulana Fazlur Rehman, Latif Khosa, opposition alliance, Adiala Jail | hashtags: #ImranKhan #PTI #MaulanaFazlurRehman #PakistanPolitics #AdialaJail
+- Scheduled: Tue 24 Nov, 02:52 PM PKT
+- Caption:
+```
+Jailed PTI founder Imran Khan has directed his party to expand its political alliance and reach out to Maulana Fazlur Rehman and other opposition parties.
+
+The PTI’s core committee was informed that incarcerated founder Imran Khan wants to expand the party's political alliance and initiate outreach to JUI-F chief Maulana Fazlur Rehman and other opposition leaders. The directives were conveyed by lawyer Latif Khosa following his meeting with Imran at Adiala Jail.
+
+پی ٹی آئی کی کور کمیٹی کو بتایا گیا ہے کہ بانی چیئرمین عمران خان نے سیاسی اتحاد کو وسیع کرنے اور جمعیت علمائے اسلام (ف) کے سربراہ مولانا فضل الرحمان سمیت دیگر اپوزیشن جماعتوں سے رابطے بڑھانے کی ہدایت کی ہے۔ یہ ہدایات وکیل لطیف کھوسہ نے اڈیالہ جیل میں ملاقات کے بعد کمیٹی کو دیں۔
+
+First reported by Dawn Pakistan.
+
+#ImranKhan #PTI #MaulanaFazlurRehman #PakistanPolitics #AdialaJail
+```
+
+### Ousted Bangladesh PM Sheikh Hasina plans to return on December 16  [NORMAL]
+- Poster: معزول وزیراعظم شیخ حسینہ کا 16 دسمبر کو بنگلہ دیش واپس آنے کا اعلان / Sheikh Hasina plans to return to Bangladesh on Dec 16 | category other
+- Alternative headline: Sheikh Hasina seeks return to Bangladesh aboard state carrier on Dec 16
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier
+- Supporting coverage: ARY News, BBC World, Al Jazeera, Geo News
+- Keywords: Sheikh Hasina, Bangladesh, Biman Bangladesh Airlines, India, exile, December 16 | hashtags: #SheikhHasina #Bangladesh #Dhaka #Delhi #WorldNews
+- Scheduled: Tue 24 Nov, 03:02 PM PKT
+- Caption:
+```
+Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on December 16, her spokesperson announced.
+
+Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from more than two years of exile in India on December 16, coinciding with the anniversary of the 1971 liberation war. Her spokesperson urged the government to arrange her transport on flag carrier Biman Bangladesh Airlines.
+
+بنگلہ دیش کی معزول وزیر اعظم شیخ حسینہ نے بھارت میں دو سال سے زائد جلاوطنی کے بعد 16 دسمبر کو وطن واپس آنے کا اعلان کیا ہے۔ ان کے ترجمان نے حکومت سے مطالبہ کیا ہے کہ وہ قومی ایئر لائن کے ذریعے ان کی واپسی کا انتظام کرے۔
+
+First reported by ARY News.
+
+#SheikhHasina #Bangladesh #Dhaka #Delhi #WorldNews
+```
+
+### DR Congo searches for missing cargo plane as rebels claim shootdown  [NORMAL]
+- Poster: ڈی آر کانگو میں کارگو طیارہ لاپتہ، باغیوں کی جانب سے گرانے کا دعویٰ / DR Congo searches for missing plane as rebels claim attack | category security
+- Alternative headline: DR Congo military loses contact with cargo plane amid rebel claims
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: food aid, WFP, Luke Lindberg, global food routes, conflicts | hashtags: #WFP #FoodSecurity #GlobalAid #AlJazeera
-- Scheduled: Tue 24 Nov, 01:43 PM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, BBC
+- Keywords: DR Congo, missing plane, rebels, South Kivu, Cessna 208, Uganda | hashtags: #DRCongo #BreakingNews #Africa #Aviation #Security
+- Scheduled: Tue 24 Nov, 03:12 PM PKT
 - Caption:
 ```
-WFP Executive Director Luke Lindberg warns that ongoing wars are choking global food routes, threatening crucial aid for 7.3 million people.
+The Democratic Republic of Congo is searching for a missing cargo plane after rebels claimed they shot down a warplane in the country's east.
 
-WFP Executive Director Luke Lindberg has decried a growing political problem as essential grain fails to reach populations in urgent need. Ongoing conflicts are severely choking global food supply routes, placing vital humanitarian aid for 7.3 million vulnerable people at immediate risk.
+The Democratic Republic of Congo military is searching for a Cessna 208 cargo plane after losing contact with it due to poor weather. Meanwhile, the rebel FRN claimed they shot down a warplane in South Kivu province. Ugandan and South African pilots were reportedly on board.
 
-ڈبلیو ایف پی کے ایگزیکٹو ڈائریکٹر لوک لنڈবার্গ نے کہا ہے کہ سیاسی مسائل کی وجہ سے اناج ضرورت مندوں تک نہیں پہنچ پا رہا۔ جاری تنازعات نے عالمی خوراک کے راستوں کو بند کر دیا ہے، جس سے 73 لاکھ افراد کے لیے امداد خطرے میں پڑ گئی ہے۔
+ڈیموکریٹک ریپبلک آف کانگو کی فوج ایک لاپتہ کارگو طیارے کی تلاش کر رہی ہے جبکہ باغیوں نے ملک کے مشرقی حصے میں ایک جنگی طیارہ گرانے کا دعویٰ کیا ہے۔ حکام کے مطابق طیارے سے رابطہ خراب موسم کی وجہ سے منقطع ہوا۔
 
-First reported by Al Jazeera
+First reported by BBC World.
 
-#WFP #FoodSecurity #GlobalAid #AlJazeera
+#DRCongo #BreakingNews #Africa #Aviation #Security
 ```
 
-### Pakistan’s Zeeshan Ali Set to Become First Astronaut in Space  [NORMAL]
-- Poster: پاکستان کے ذیشان علی خلا میں جانے والے پہلے پاکستانی بننے کو تیار / Pakistan's First Astronaut Ready for Space | category other
-- Alternative headline: Pakistan's First Astronaut Zeeshan Ali Ready for Shenzhou-24 Mission
+### PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust appeal  [NORMAL]
+- Poster: پی ٹی آئی نے القادر ٹرسٹ کیس کی سماعت کی براہ راست نشریات کیلئے عدالت سے رجوع کر لیا / PTI moves IHC for live broadcast of Al-Qadir Trust case | category courts
+- Alternative headline: PTI petitions IHC seeking live coverage of Imran Khan's case hearing
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZKbFMzcWlkQmVuYkRadURkSHE0dmxPR0xVdkRZYVFpWHRvSzItRGRtYzBNZ2xxT1U1NlpjWVBuZGNJZHhscVUwRFphM3R1cTlwR0pMdkV4Qk1Kc1FLQVdKemhvM0sxbW4wblF5YmRiLTk3R1FsSlF6Y2pnSGt0QUZ1NWpNVVVvSGtYeE5BTDRJSTAtdnNRYUFZZ3IyUlhwWEVqQ1BZZ3FwWkhLN1hLMjUyTQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZKbFMzcWlkQmVuYkRadURkSHE0dmxPR0xVdkRZYVFpWHRvSzItRGRtYzBNZ2xxT1U1NlpjWVBuZGNJZHhscVUwRFphM3R1cTlwR0pMdkV4Qk1Kc1FLQVdKemhvM0sxbW4wblF5YmRiLTk3R1FsSlF6Y2pnSGt0QUZ1NWpNVVVvSGtYeE5BTDRJSTAtdnNRYUFZZ3IyUlhwWEVqQ1BZZ3FwWkhLN1hLMjUyTQ?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Geo News, Geo News, Dawn Latest, Dunya News
-- Keywords: Zeeshan Ali, Pakistan astronaut, Shenzhou-24, China space mission | hashtags: #Pakistan #ZeeshanAli #SpaceMission #Shenzhou24
-- Scheduled: Tue 24 Nov, 01:53 PM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046751/pti-moves-ihc-for-live-broadcast-of-al-qadir-trust-case-hearing | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046751/pti-moves-ihc-for-live-broadcast-of-al-qadir-trust-case-hearing
+- Supporting coverage: Dawn Latest, Dawn
+- Keywords: Al-Qadir Trust case, PTI, Islamabad High Court, Imran Khan, live broadcast, Bushra Bibi | hashtags: #PTI #AlQadirTrustCase #IslamabadHighCourt #ImranKhan #PakistanCourts
+- Scheduled: Tue 24 Nov, 03:22 PM PKT
 - Caption:
 ```
-Pakistan is set to make history as Zeeshan Ali prepares to become the country's first astronaut aboard China's Shenzhou-24 mission.
+The PTI has petitioned the Islamabad High Court seeking a live broadcast of the appeal proceedings in the Al-Qadir Trust case.
 
-Pakistan's Zeeshan Ali is set to make history by becoming the country's first astronaut to travel into space. He is part of the crew for China's Shenzhou-24 mission, with liftoff scheduled for November 25.
+The PTI has filed a petition in the Islamabad High Court requesting a live broadcast of the appeal proceedings in the £190 million Al-Qadir Trust case involving founder Imran Khan. Lawyers argue that live coverage is essential to ensure judicial transparency and counter misinformation.
 
-پاکستان کے ذیشان علی ملک کے پہلے خلاباز بننے جا رہے ہیں۔ وہ چین کے شینزو-24 مشن کے عملے کا حصہ ہیں، اور ان کی پرواز 25 نومبر کو طے ہے۔
+پاکستان تحریک انصاف نے بانی چیئرمین عمران خان کے خلاف 190 ملین پاؤنڈز کے القادر ٹرسٹ کیس کی اپیل کی سماعت براہ راست نشر کرنے کے لیے اسلام آباد ہائیکورٹ میں درخواست دائر کر دی ہے۔ وکلاء کا مؤقف ہے کہ اس سے شفافیت کو یقینی بنانے میں مدد ملے گی۔
 
-First reported by Dawn
+First reported by Dawn Latest.
 
-#Pakistan #ZeeshanAli #SpaceMission #Shenzhou24
+#PTI #AlQadirTrustCase #IslamabadHighCourt #ImranKhan #PakistanCourts
 ```
 
-### KP's MNJ Road Closed to Traffic Until Next Summer  [NORMAL]
-- Poster: کے پی کی ایم این جے روڈ اگلے سال گرمیوں تک ٹریفک کے لیے بند / MNJ Road Closed Until Next Summer | category other
-- Alternative headline: Major KP Road Shut Down Until Summer Season
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTAyYlFUM3lpNlFTS2VST2NlRElITTE3dU5GZTBNMFdoWUExNjJUSVRHd0gyVGtZSXhTTTdGTFp1OGIwTUVZVzNnangwWDhSR0hFUko1a2VhQjJGTnBsYXVOVS13U0hoN2hHWjlFYjBZdTBWLVZVQUpxY3pHR2N5amg3RUY?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTAyYlFUM3lpNlFTS2VST2NlRElITTE3dU5GZTBNMFdoWUExNjJUSVRHd0gyVGtZSXhTTTdGTFp1OGIwTUVZVzNnangwWDhSR0hFUko1a2VhQjJGTnBsYXVOVS13U0hoN2hHWjlFYjBZdTBWLVZVQUpxY3pHR2N5amg3RUY?oc=5
-- Supporting coverage: Dawn, Dawn, Dawn Pakistan, ProPakistani
-- Keywords: MNJ Road, KP road closure, traffic advisory, Dawn | hashtags: #KP #MNJRoad #TrafficAlert #Pakistan
-- Scheduled: Tue 24 Nov, 02:03 PM PKT
-- Caption:
-```
-Commuters take note: KP's MNJ Road has been closed to traffic and will remain shut until next summer.
-
-Authorities have announced the closure of MNJ Road in Khyber Pakhtunkhwa to all traffic. The major route will remain inaccessible until next summer.
-
-حکام نے خیبر پختونخوا میں ایم این جے روڈ کو تمام ٹریفک کے لیے بند کرنے کا اعلان کر دیا ہے۔ یہ اہم سڑک اگلے سال گرمیوں تک بند رہے گی۔
-
-First reported by Dawn
-
-#KP #MNJRoad #TrafficAlert #Pakistan
-```
-
-### PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction  [NORMAL]
-- Poster: وزیر اعظم شہباز شریف کی سی ڈی ایف منیر کو ملائیشیا ہال آف فیم میں شمولیت پر مبارکباد / PM Congratulates CDF Munir on Hall of Fame Induction | category other
-- Alternative headline: PM Shehbaz Felicitates CDF Munir on Malaysia Defence Honour
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFp3TjhtSXRGQkg5bjA2RklPUHdhbzRic2ZDX19ZNzhReEZrTnp4QU9ZVzI0b0pSMmpLTVdnTUhCSktjX3IzM29SU3lSX3pXVlotSkZSS3I2VFc2TGdKXzZJbHQ4TmExeFFkQU1uOFNETnJkREMzTjczNVRValBpeGg1YjVpanBBTk5ZQTJlR1BTYWNUS21lQm5iaFFjUW1acjczOG1R?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFp3TjhtSXRGQkg5bjA2RklPUHdhbzRic2ZDX19ZNzhReEZrTnp4QU9ZVzI0b0pSMmpLTVdnTUhCSktjX3IzM29SU3lSX3pXVlotSkZSS3I2VFc2TGdKXzZJbHQ4TmExeFFkQU1uOFNETnJkREMzTjczNVRValBpeGg1YjVpanBBTk5ZQTJlR1BTYWNUS21lQm5iaFFjUW1acjczOG1R?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan, samaa tv
-- Keywords: CDF Munir, PM Shehbaz Sharif, Malaysia Hall of Fame, National Defence Studies Centre | hashtags: #ShehbazSharif #Malaysia #HallOfFame #Pakistan
-- Scheduled: Tue 24 Nov, 02:13 PM PKT
-- Caption:
-```
-Prime Minister Shehbaz Sharif has congratulated CDF Munir on his induction into the Hall of Fame at Malaysia’s National Defence Studies Centre.
-
-Prime Minister Shehbaz Sharif has extended his congratulations to CDF Munir following his prestigious induction into the Hall of Fame at Malaysia’s National Defence Studies Centre.
-
-وزیر اعظم شہباز شریف نے سی ڈی ایف منیر کو ملائیشیا کے نیشنل ڈیفنس سٹڈیز سینٹر کے ہال آف فیم میں شامل ہونے پر مبارکباد دی ہے۔
-
-First reported by Dawn
-
-#ShehbazSharif #Malaysia #HallOfFame #Pakistan
-```
-
-- Indian outlets blocked this run: 9 items
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [needs_review] normal | ANC fights to keep control of South Africa's key cities after election | Sat 21 Nov, 07:28 AM PKT
-- [needs_review] normal | Mauricio Pochettino takes charge of Manchester United ahead of Liverpo | Sat 21 Nov, 07:38 AM PKT
-- [needs_review] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
-- [needs_review] normal | Pakistan Rises 17 Places in UN E-Governance Ranking | Sat 21 Nov, 08:21 AM PKT
-- [needs_review] normal | SECP Tightens Scrutiny on Corporate Audit Reports | Sat 21 Nov, 08:31 AM PKT
 - [needs_review] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
 - [needs_review] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] normal | Basra power station fire in Iraq kills at least four, injures 30 | Sat 21 Nov, 01:01 PM PKT
 - [needs_review] normal | WhatsApp raises group chat limit to 1,500 members | Sat 21 Nov, 01:11 PM PKT
 - [needs_review] normal | Father accused of raping daughter killed in CCD encounter in Kot Addu | Sat 21 Nov, 01:21 PM PKT
-- [published] normal | Islamabad High Court Issues Important Order Regarding Imran Khan and B | Sat 21 Nov, 01:49 PM PKT
 - [needs_review] normal | Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as  | Sat 21 Nov, 01:59 PM PKT
 - [needs_review] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
-- [published] normal | Josh Hazlewood Backs Pat Cummins and Denies Knowledge of Sandpaper | Sat 21 Nov, 02:19 PM PKT
 - [published] normal | Illicit alcohol kills 11 people and poisons 180 in northeast India | Sat 21 Nov, 03:29 PM PKT
 - [needs_review] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
 - [needs_review] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
@@ -340,10 +333,10 @@ First reported by Dawn
 - [published] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
 - [needs_review] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
 - [published] normal | Qatar PM Works to Revive US-Iran Talks After Rubio Meeting | Tue 24 Nov, 07:52 AM PKT
-- [queued] normal | Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran | Tue 24 Nov, 08:02 AM PKT
-- [queued] normal | Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money | Tue 24 Nov, 08:12 AM PKT
-- [queued] normal | Israeli Minister Approves Return of Flydubai Flights | Tue 24 Nov, 08:22 AM PKT
-- [queued] normal | Bangladesh Parliament Speaker Begins Six-Day Official Visit to Pakista | Tue 24 Nov, 08:56 AM PKT
+- [needs_review] normal | Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran | Tue 24 Nov, 08:02 AM PKT
+- [needs_review] normal | Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money | Tue 24 Nov, 08:12 AM PKT
+- [needs_review] normal | Israeli Minister Approves Return of Flydubai Flights | Tue 24 Nov, 08:22 AM PKT
+- [published] normal | Bangladesh Parliament Speaker Begins Six-Day Official Visit to Pakista | Tue 24 Nov, 08:56 AM PKT
 - [queued] normal | Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrag | Tue 24 Nov, 09:06 AM PKT
 - [queued] normal | UN Chief Urges Global Agreement on AI Oversight Within a Year | Tue 24 Nov, 09:16 AM PKT
 - [queued] normal | Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request | Tue 24 Nov, 09:26 AM PKT
@@ -363,13 +356,17 @@ First reported by Dawn
 - [queued] normal | Pakistan’s Zeeshan Ali Set to Become First Astronaut in Space | Tue 24 Nov, 01:53 PM PKT
 - [queued] normal | KP's MNJ Road Closed to Traffic Until Next Summer | Tue 24 Nov, 02:03 PM PKT
 - [queued] normal | PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction | Tue 24 Nov, 02:13 PM PKT
+- [queued] normal | Imran Khan directs PTI to expand political alliance and reach out to F | Tue 24 Nov, 02:52 PM PKT
+- [failed] normal | Ousted Bangladesh PM Sheikh Hasina plans to return on December 16 | Tue 24 Nov, 03:02 PM PKT
+- [queued] normal | DR Congo searches for missing cargo plane as rebels claim shootdown | Tue 24 Nov, 03:12 PM PKT
+- [queued] normal | PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust ap | Tue 24 Nov, 03:22 PM PKT
 
 ## Publishing this run
-- Published 'Qatar PM Works to Revive US-Iran Talks After Rubio Meeting'.
+- Published 'Bangladesh Parliament Speaker Begins Six-Day Official Visit to Pakistan'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5881 | output tokens: 2044
-- Errors: 2
+- Calls: 4 | prompt tokens: 5714 | output tokens: 2604
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -378,3 +375,7 @@ First reported by Dawn
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
