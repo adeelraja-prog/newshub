@@ -1722,17 +1722,25 @@ def pick_due(queue, t0):
     if not due:
         return None, "nothing due yet"
     order = {"P1": 0, "P2": 1, "P3": 2, "P4": 3, "P5": 4}
+    # True breaking/high items first; then fresh YouTube promotions before routine
+    # P2/P3 stories. A separate cooldown prevents promotions flooding the Page.
     due.sort(key=lambda i: (
+        0 if i.get("priority") in ("breaking", "high") else
+        1 if i.get("type") == "youtube" else 2,
         order.get((i.get("meta") or {}).get("editorial_priority_band", "P3"), 2),
-        {"breaking": 0, "high": 1, "normal": 2}.get(i.get("priority"), 2),
         0 if (i.get("meta") or {}).get("direct_source") else 1,
         -((i.get("meta") or {}).get("scores") or {}).get("composite", 0)
     ))
     last = last_published(queue)
+    last_promo = max((parse(i["published"]["time"]) for i in queue["items"]
+                      if i.get("type") == "youtube" and i.get("status") == "published"
+                      and valid_timestamp((i.get("published") or {}).get("time"))), default=None)
     today = t0.astimezone(PKT).date()
     done = count_day(queue, None, today, include_queued=False)
     gap = current_gap(queue)
     for it in due:
+        if it.get("type") == "youtube" and last_promo and t0 - last_promo < timedelta(hours=2):
+            continue
         if it["priority"] in ("breaking", "high", "promo"):
             # Breaking bypasses editorial scoring and the normal queue buffer, not the
             # global publication cadence: never publish two feed posters inside ten minutes.
@@ -2349,7 +2357,7 @@ def main():
             remaining = max(0, selection_limit - len(chosen))
             if remaining:
                 chosen.extend(ed.select_balanced(ordinary_regular, remaining, MIN_CONFIDENCE, min_comp,
-                                                  BREAK_URGENCY, BREAK_CONFIDENCE))
+                                                  BREAK_URGENCY, BREAK_CONFIDENCE, max_breaking=2))
             # Ordinary AI-reviewed candidates can be marked analysed now. Direct-publisher
             # candidates are checkpointed only after a queue write actually succeeds.
             for c in candidates:
