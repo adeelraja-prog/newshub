@@ -1,154 +1,149 @@
-# News Hub report - Tue 24 Nov, 12:26 PM PKT
+# News Hub report - Tue 24 Nov, 01:43 PM PKT
 
 ## Collection
-- New items this run: 133 | items in rolling pool: 404
-- Unique story clusters: 343 (duplicates merged: 61)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 59, ARY News 8, TechJuice 8, samaa tv 7, Geo News 7, Dawn Latest 5, Al Jazeera 5, ProPakistani 5, The Current 4, PhoneWorld 3, The Express Tribune 2, Dunya News 2
+- New items this run: 95 | items in rolling pool: 479
+- Unique story clusters: 411 (duplicates merged: 68)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 23, samaa tv 10, ARY News 10, ProPakistani 10, Geo News 7, Al Jazeera 6, Profit by Pakistan Today 4, Dawn Pakistan 3, TechJuice 3, Dawn 2, Dawn Latest 2, Investify 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bus and truck collision kills 11 in UAE’s Ras Al Khaimah | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab PA echoes with fiery exchanges over agri crisis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Journalists protest closure of media offices in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India's 'cockroach' party leader says he was stopped from flying to UK | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- MNJ Road closed to traffic until next summer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz congratulates CDF Munir on Malaysia Hall of Fame induction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tech firms soar as Huang’s return reinvigorates AI trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Member states must not betray the ICC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bus and truck collision kills 11 in UAE’s Ras Al Khaimah | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab PA echoes with fiery exchanges over agri crisis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Journalists protest closure of media offices in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India's 'cockroach' party leader says he was stopped from flying to UK | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- MNJ Road closed to traffic until next summer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz congratulates CDF Munir on Malaysia Hall of Fame induction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tech firms soar as Huang’s return reinvigorates AI trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Member states must not betray the ICC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bus and truck collision kills 11 in UAE’s Ras Al Khaimah | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Punjab PA echoes with fiery exchanges over agri crisis | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Journalists protest closure of media offices in Balochistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India's 'cockroach' party leader says he was stopped from flying to UK | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- MNJ Road closed to traffic until next summer | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz congratulates CDF Munir on Malaysia Hall of Fame induction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tech firms soar as Huang’s return reinvigorates AI trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Member states must not betray the ICC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
-- Trusted publisher desks with at least one healthy source: 9/10
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- Trusted publisher desks with no healthy source: Dunya News TV
 
 ## Selected for the queue
-### Why Eisenkot is negotiating with Netanyahu amid political shifts  [NORMAL]
-- Poster: آیزەن کوٹ اور نیتن یاهو کے درمیان مذاکرات کیوں جاری ہیں؟ / Why Eisenkot is negotiating with Netanyahu | category politics
-- Alternative headline: Netanyahu gains political relevance as Eisenkot holds talks
+### Wars Choke Global Food Routes, Threatening Aid for 7.3 Million  [NORMAL]
+- Poster: جنگوں کی وجہ سے عالمی فوڈ روٹس بند، کروڑوں افراد کے لیے امداد خطرے میں / Wars Choke Food Routes, Threatening Aid | category politics
+- Alternative headline: WFP Warns Ongoing Conflicts Threaten Food Aid for Millions
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Eisenkot, Netanyahu, Likud, politics, talks, leverage | hashtags: #Eisenkot #Netanyahu #Likud #Politics #AlJazeera
-- Scheduled: Tue 24 Nov, 12:26 PM PKT
+- Keywords: food aid, WFP, Luke Lindberg, global food routes, conflicts | hashtags: #WFP #FoodSecurity #GlobalAid #AlJazeera
+- Scheduled: Tue 24 Nov, 01:43 PM PKT
 - Caption:
 ```
-Political dynamics shift as talks with various political powers provide leverage while giving Likud renewed relevance.
+WFP Executive Director Luke Lindberg warns that ongoing wars are choking global food routes, threatening crucial aid for 7.3 million people.
 
-Talks with different political powers give Yashar leverage while simultaneously offering Likud renewed political relevance amidst changing political equations.
+WFP Executive Director Luke Lindberg has decried a growing political problem as essential grain fails to reach populations in urgent need. Ongoing conflicts are severely choking global food supply routes, placing vital humanitarian aid for 7.3 million vulnerable people at immediate risk.
 
-مختلف سیاسی طاقتوں کے ساتھ مذاکرات جہاں یاشار کو سیاسی فائدہ پہنچاتے ہیں، وہیں لیکوڈ کو بھی نئی سیاسی اہمیت فراہم کرتے ہیں۔
+ڈبلیو ایف پی کے ایگزیکٹو ڈائریکٹر لوک لنڈবার্গ نے کہا ہے کہ سیاسی مسائل کی وجہ سے اناج ضرورت مندوں تک نہیں پہنچ پا رہا۔ جاری تنازعات نے عالمی خوراک کے راستوں کو بند کر دیا ہے، جس سے 73 لاکھ افراد کے لیے امداد خطرے میں پڑ گئی ہے۔
 
-According to Al Jazeera
+First reported by Al Jazeera
 
-#Eisenkot #Netanyahu #Likud #Politics #AlJazeera
+#WFP #FoodSecurity #GlobalAid #AlJazeera
 ```
 
-### Ousted PM Sheikh Hasina plans December 16 return to Bangladesh  [NORMAL]
-- Poster: معزول وزیراعظم شیخ حسینہ کا 16 دسمبر کو بنگلہ دیش واپس آنے کا اعلان / Sheikh Hasina seeks return to Bangladesh on Dec 16 | category other
-- Alternative headline: Sheikh Hasina seeks state carrier flight for December return home
+### Pakistan’s Zeeshan Ali Set to Become First Astronaut in Space  [NORMAL]
+- Poster: پاکستان کے ذیشان علی خلا میں جانے والے پہلے پاکستانی بننے کو تیار / Pakistan's First Astronaut Ready for Space | category other
+- Alternative headline: Pakistan's First Astronaut Zeeshan Ali Ready for Shenzhou-24 Mission
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier
-- Supporting coverage: ARY News, BBC World
-- Keywords: Sheikh Hasina, Bangladesh, return, exile, Biman Bangladesh Airlines, Delhi | hashtags: #SheikhHasina #Bangladesh #Dhaka #Delhi #News
-- Scheduled: Tue 24 Nov, 12:36 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZKbFMzcWlkQmVuYkRadURkSHE0dmxPR0xVdkRZYVFpWHRvSzItRGRtYzBNZ2xxT1U1NlpjWVBuZGNJZHhscVUwRFphM3R1cTlwR0pMdkV4Qk1Kc1FLQVdKemhvM0sxbW4wblF5YmRiLTk3R1FsSlF6Y2pnSGt0QUZ1NWpNVVVvSGtYeE5BTDRJSTAtdnNRYUFZZ3IyUlhwWEVqQ1BZZ3FwWkhLN1hLMjUyTQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZKbFMzcWlkQmVuYkRadURkSHE0dmxPR0xVdkRZYVFpWHRvSzItRGRtYzBNZ2xxT1U1NlpjWVBuZGNJZHhscVUwRFphM3R1cTlwR0pMdkV4Qk1Kc1FLQVdKemhvM0sxbW4wblF5YmRiLTk3R1FsSlF6Y2pnSGt0QUZ1NWpNVVVvSGtYeE5BTDRJSTAtdnNRYUFZZ3IyUlhwWEVqQ1BZZ3FwWkhLN1hLMjUyTQ?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Geo News, Geo News, Dawn Latest, Dunya News
+- Keywords: Zeeshan Ali, Pakistan astronaut, Shenzhou-24, China space mission | hashtags: #Pakistan #ZeeshanAli #SpaceMission #Shenzhou24
+- Scheduled: Tue 24 Nov, 01:53 PM PKT
 - Caption:
 ```
-Ousted Bangladeshi Prime Minister Sheikh Hasina plans to end over two years of exile by returning home on December 16.
+Pakistan is set to make history as Zeeshan Ali prepares to become the country's first astronaut aboard China's Shenzhou-24 mission.
 
-Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return from exile in India on December 16, urging the government to arrange her transport on Biman Bangladesh Airlines, potentially raising political tensions.
+Pakistan's Zeeshan Ali is set to make history by becoming the country's first astronaut to travel into space. He is part of the crew for China's Shenzhou-24 mission, with liftoff scheduled for November 25.
 
-بنگلہ دیش کی معزول وزیراعظم شیخ حسینہ نے 16 دسمبر کو بھارت سے وطن واپس آنے کا اعلان کیا ہے اور حکومت سے مطالبہ کیا ہے کہ ان کی واپسی کے لیے سرکاری ایئر لائن کا انتظام کیا جائے۔
-
-First reported by ARY News; also reported by BBC World
-
-#SheikhHasina #Bangladesh #Dhaka #Delhi #News
-```
-
-### Bus and truck collision kills 11 people in UAE's Ras Al Khaimah  [NORMAL]
-- Poster: متحدہ عرب امارات میں بس اور ٹرک کی تصادم میں 11 افراد جاں بحق / Bus-truck collision kills 11 in UAE's Ras Al Khaimah | category other
-- Alternative headline: 11 dead after passenger bus and truck collide in Ras Al Khaimah
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/bus-and-truck-collision-kills-11-in-uaes-ras-al-khaimah | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/bus-and-truck-collision-kills-11-in-uaes-ras-al-khaimah
-- Supporting coverage: ARY News, Dawn Latest, Geo News, samaa tv
-- Keywords: Ras Al Khaimah, UAE, bus crash, collision, interior ministry, Al Watan Road | hashtags: #RasAlKhaimah #UAE #Accident #BreakingNews #TrafficCrash
-- Scheduled: Tue 24 Nov, 12:46 PM PKT
-- Caption:
-```
-Eleven people lost their lives in a tragic collision between a passenger bus and a truck on Al Watan Road.
-
-Eleven people were killed when a passenger bus and a truck collided on Al Watan Road in Ras Al Khaimah, according to the UAE interior ministry. Emergency teams responded to the scene as authorities launched an investigation.
-
-متحدہ عرب امارات کے علاقے راس الخیمہ میں مسافر بس اور ٹرک کے درمیان تصادم کے نتیجے میں 11 افراد جاں بحق ہو گئے۔ وزارت داخلہ کے مطابق حادثے کی تحقیقات شروع کر دی گئی ہیں۔
-
-First reported by ARY News; also reported by Dawn Latest and Geo News
-
-#RasAlKhaimah #UAE #Accident #BreakingNews #TrafficCrash
-```
-
-### Punjab Assembly echoes with fiery exchanges over agricultural crisis  [NORMAL]
-- Poster: زرعی بحران پر پنجاب اسمبلی کا اجلاس ہنگامہ آرائی کی نذر / Punjab PA echoes with fiery exchanges over agri crisis | category other
-- Alternative headline: MPAs spar in Punjab Assembly amid deepening agrarian crisis
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOT3dPSnZZRmVJSzEtY3JIREtBVUZoOHQxVXhKcmpsUGZ0c3lhTFpGVzVWb010YktOUG1QSk1mSXNZX05ReWRPeg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOT3dPSnZZRmVJSzEtY3JIREtBVUZoOHQxVXhKcmpsUGZ0c3lhTFpGVzVWb010YktOUG1QSk1mSXNZX05ReWRPeg?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Punjab Assembly, agricultural crisis, MPAs, Punjab govt, agri crisis, debate | hashtags: #PunjabAssembly #AgricultureCrisis #PunjabGovt #PakistanNews #Politics
-- Scheduled: Tue 24 Nov, 12:56 PM PKT
-- Caption:
-```
-Lawmakers engaged in fiery exchanges inside the Punjab Assembly as debates intensified over the deepening agricultural crisis.
-
-The Punjab Assembly witnessed fiery exchanges among lawmakers as discussions focused on the deepening agricultural crisis, with members expressing strong concerns over the state of agriculture in the province.
-
-پنجاب اسمبلی میں زرعی بحران پر ہونے والی بحث کے دوران اراکین کے درمیان شدید گرما گرمی اور ہنگامہ آرائی دیکھنے میں آئی۔
+پاکستان کے ذیشان علی ملک کے پہلے خلاباز بننے جا رہے ہیں۔ وہ چین کے شینزو-24 مشن کے عملے کا حصہ ہیں، اور ان کی پرواز 25 نومبر کو طے ہے۔
 
 First reported by Dawn
 
-#PunjabAssembly #AgricultureCrisis #PunjabGovt #PakistanNews #Politics
+#Pakistan #ZeeshanAli #SpaceMission #Shenzhou24
 ```
 
-- Indian outlets blocked this run: 3 items
+### KP's MNJ Road Closed to Traffic Until Next Summer  [NORMAL]
+- Poster: کے پی کی ایم این جے روڈ اگلے سال گرمیوں تک ٹریفک کے لیے بند / MNJ Road Closed Until Next Summer | category other
+- Alternative headline: Major KP Road Shut Down Until Summer Season
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTAyYlFUM3lpNlFTS2VST2NlRElITTE3dU5GZTBNMFdoWUExNjJUSVRHd0gyVGtZSXhTTTdGTFp1OGIwTUVZVzNnangwWDhSR0hFUko1a2VhQjJGTnBsYXVOVS13U0hoN2hHWjlFYjBZdTBWLVZVQUpxY3pHR2N5amg3RUY?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTAyYlFUM3lpNlFTS2VST2NlRElITTE3dU5GZTBNMFdoWUExNjJUSVRHd0gyVGtZSXhTTTdGTFp1OGIwTUVZVzNnangwWDhSR0hFUko1a2VhQjJGTnBsYXVOVS13U0hoN2hHWjlFYjBZdTBWLVZVQUpxY3pHR2N5amg3RUY?oc=5
+- Supporting coverage: Dawn, Dawn, Dawn Pakistan, ProPakistani
+- Keywords: MNJ Road, KP road closure, traffic advisory, Dawn | hashtags: #KP #MNJRoad #TrafficAlert #Pakistan
+- Scheduled: Tue 24 Nov, 02:03 PM PKT
+- Caption:
+```
+Commuters take note: KP's MNJ Road has been closed to traffic and will remain shut until next summer.
+
+Authorities have announced the closure of MNJ Road in Khyber Pakhtunkhwa to all traffic. The major route will remain inaccessible until next summer.
+
+حکام نے خیبر پختونخوا میں ایم این جے روڈ کو تمام ٹریفک کے لیے بند کرنے کا اعلان کر دیا ہے۔ یہ اہم سڑک اگلے سال گرمیوں تک بند رہے گی۔
+
+First reported by Dawn
+
+#KP #MNJRoad #TrafficAlert #Pakistan
+```
+
+### PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction  [NORMAL]
+- Poster: وزیر اعظم شہباز شریف کی سی ڈی ایف منیر کو ملائیشیا ہال آف فیم میں شمولیت پر مبارکباد / PM Congratulates CDF Munir on Hall of Fame Induction | category other
+- Alternative headline: PM Shehbaz Felicitates CDF Munir on Malaysia Defence Honour
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFp3TjhtSXRGQkg5bjA2RklPUHdhbzRic2ZDX19ZNzhReEZrTnp4QU9ZVzI0b0pSMmpLTVdnTUhCSktjX3IzM29SU3lSX3pXVlotSkZSS3I2VFc2TGdKXzZJbHQ4TmExeFFkQU1uOFNETnJkREMzTjczNVRValBpeGg1YjVpanBBTk5ZQTJlR1BTYWNUS21lQm5iaFFjUW1acjczOG1R?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFp3TjhtSXRGQkg5bjA2RklPUHdhbzRic2ZDX19ZNzhReEZrTnp4QU9ZVzI0b0pSMmpLTVdnTUhCSktjX3IzM29SU3lSX3pXVlotSkZSS3I2VFc2TGdKXzZJbHQ4TmExeFFkQU1uOFNETnJkREMzTjczNVRValBpeGg1YjVpanBBTk5ZQTJlR1BTYWNUS21lQm5iaFFjUW1acjczOG1R?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, samaa tv
+- Keywords: CDF Munir, PM Shehbaz Sharif, Malaysia Hall of Fame, National Defence Studies Centre | hashtags: #ShehbazSharif #Malaysia #HallOfFame #Pakistan
+- Scheduled: Tue 24 Nov, 02:13 PM PKT
+- Caption:
+```
+Prime Minister Shehbaz Sharif has congratulated CDF Munir on his induction into the Hall of Fame at Malaysia’s National Defence Studies Centre.
+
+Prime Minister Shehbaz Sharif has extended his congratulations to CDF Munir following his prestigious induction into the Hall of Fame at Malaysia’s National Defence Studies Centre.
+
+وزیر اعظم شہباز شریف نے سی ڈی ایف منیر کو ملائیشیا کے نیشنل ڈیفنس سٹڈیز سینٹر کے ہال آف فیم میں شامل ہونے پر مبارکباد دی ہے۔
+
+First reported by Dawn
+
+#ShehbazSharif #Malaysia #HallOfFame #Pakistan
+```
+
+- Indian outlets blocked this run: 9 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [needs_review] normal | Saudi Coalition Intercepts Three Houthi Missiles as Riyadh Triggers Em | Sat 21 Nov, 06:25 AM PKT
-- [needs_review] normal | Nepal's Prime Minister Targets Trade and Connectivity in Crucial India | Sat 21 Nov, 06:35 AM PKT
-- [needs_review] normal | Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Leas | Sat 21 Nov, 06:45 AM PKT
 - [needs_review] normal | ANC fights to keep control of South Africa's key cities after election | Sat 21 Nov, 07:28 AM PKT
 - [needs_review] normal | Mauricio Pochettino takes charge of Manchester United ahead of Liverpo | Sat 21 Nov, 07:38 AM PKT
 - [needs_review] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
@@ -157,7 +152,6 @@ First reported by Dawn
 - [needs_review] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
 - [needs_review] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
-- [published] normal | Mustafa Kamal urges PTI to unconditionally support creation of new pro | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] normal | Basra power station fire in Iraq kills at least four, injures 30 | Sat 21 Nov, 01:01 PM PKT
 - [needs_review] normal | WhatsApp raises group chat limit to 1,500 members | Sat 21 Nov, 01:11 PM PKT
 - [needs_review] normal | Father accused of raping daughter killed in CCD encounter in Kot Addu | Sat 21 Nov, 01:21 PM PKT
@@ -344,8 +338,8 @@ First reported by Dawn
 - [published] normal | Trump Demands Immediate Expedited Federal Executions While Blasting Ga | Tue 24 Nov, 06:53 AM PKT
 - [published] normal | US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia S | Tue 24 Nov, 07:03 AM PKT
 - [published] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
-- [queued] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
-- [queued] normal | Qatar PM Works to Revive US-Iran Talks After Rubio Meeting | Tue 24 Nov, 07:52 AM PKT
+- [needs_review] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
+- [published] normal | Qatar PM Works to Revive US-Iran Talks After Rubio Meeting | Tue 24 Nov, 07:52 AM PKT
 - [queued] normal | Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran | Tue 24 Nov, 08:02 AM PKT
 - [queued] normal | Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money | Tue 24 Nov, 08:12 AM PKT
 - [queued] normal | Israeli Minister Approves Return of Flydubai Flights | Tue 24 Nov, 08:22 AM PKT
@@ -365,14 +359,21 @@ First reported by Dawn
 - [failed] normal | Ousted PM Sheikh Hasina plans December 16 return to Bangladesh | Tue 24 Nov, 12:36 PM PKT
 - [queued] normal | Bus and truck collision kills 11 people in UAE's Ras Al Khaimah | Tue 24 Nov, 12:46 PM PKT
 - [queued] normal | Punjab Assembly echoes with fiery exchanges over agricultural crisis | Tue 24 Nov, 12:56 PM PKT
+- [queued] normal | Wars Choke Global Food Routes, Threatening Aid for 7.3 Million | Tue 24 Nov, 01:43 PM PKT
+- [queued] normal | Pakistan’s Zeeshan Ali Set to Become First Astronaut in Space | Tue 24 Nov, 01:53 PM PKT
+- [queued] normal | KP's MNJ Road Closed to Traffic Until Next Summer | Tue 24 Nov, 02:03 PM PKT
+- [queued] normal | PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction | Tue 24 Nov, 02:13 PM PKT
 
 ## Publishing this run
-- Published 'King Charles and Elton John Pay Tribute to Late Australian Music Legend Molly Meldrum'.
+- Published 'Qatar PM Works to Revive US-Iran Talks After Rubio Meeting'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4048 | output tokens: 2184
+- Calls: 3 | prompt tokens: 5881 | output tokens: 2044
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
