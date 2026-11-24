@@ -613,7 +613,8 @@ def T7(c, flip, style):
     d.text((cred_x,282),"Former CNN Contributor",
            font=sans(18,600),fill=muted,anchor="la")
     d.rectangle((0,340,W,426),fill=red)
-    d.text((W//2,383),"●  BREAKING NEWS",font=sans(31,900),fill=white,anchor="mm")
+    banner = "BREAKING NEWS" if c.breaking else "NEWS UPDATE"
+    d.text((W//2,383),banner,font=sans(31,900),fill=white,anchor="mm")
     ur=str(c.ur or "").strip(); en=str(c.en or "").strip()
     top,bottom=470,1050
     if ur:
