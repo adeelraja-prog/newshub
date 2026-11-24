@@ -1,49 +1,48 @@
-# News Hub report - Tue 24 Nov, 08:38 PM PKT
+# News Hub report - Tue 24 Nov, 09:45 PM PKT
 
 ## Collection
-- New items this run: 153 | items in rolling pool: 1041
-- Unique story clusters: 826 (duplicates merged: 215)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 80, Geo News 12, Pakistan Today 10, Al Jazeera 9, ARY News 6, TechJuice 5, Dawn 3, ARYnews.tv 2, samaa tv 2, AP News 2, The Verge 2, GSMArena 2
+- New items this run: 109 | items in rolling pool: 1087
+- Unique story clusters: 865 (duplicates merged: 222)
+- Clusters dropped as already published/queued: 20; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 33, Al Jazeera 9, Pakistan Today 9, samaa tv 4, Geo News 4, ARY News 4, TechCrunch 4, Engadget 4, Jang Urdu 3, The Verge 3, Ars Technica 3, Dawn Pakistan 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
+- Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK sanctions Yemen’s Houthi group, four senior officials | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad United snap up Matt Henry, Karachi Kings secure Adil Rashid as direct signings for PSL 12 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Imran Khan moves IHC for live-streaming of £190m case appeal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK sanctions Yemen’s Houthi group, four senior officials | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad United snap up Matt Henry, Karachi Kings secure Adil Rashid as direct signings for PSL 12 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Imran Khan moves IHC for live-streaming of £190m case appeal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK sanctions Yemen’s Houthi group, four senior officials | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad United snap up Matt Henry, Karachi Kings secure Adil Rashid as direct signings for PSL 12 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Imran Khan moves IHC for live-streaming of £190m case appeal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 10
+- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 7
 
 ## Queue status
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
@@ -59,7 +58,6 @@
 - [needs_review] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
 - [needs_review] normal | US Midterms 2026: What happens before the new Congress takes office? | Sat 21 Nov, 09:06 PM PKT
 - [needs_review] normal | Chaudhary's 66 helps Australia edge past England in first T20 | Sat 21 Nov, 09:16 PM PKT
-- [published] normal | Gujranwala: Neighbors arrested for mother and daughter's murder | Sat 21 Nov, 09:26 PM PKT
 - [needs_review] normal | Could Iran reverse its stated policy of a civil-only nuclear programme | Sat 21 Nov, 09:36 PM PKT
 - [needs_review] normal | Africa's CAF Backs FIFA President Infantino's Re-election | Sat 21 Nov, 09:55 PM PKT
 - [needs_review] normal | Newcastle United Faces Arsenal in Premier League Clash | Sat 21 Nov, 10:05 PM PKT
@@ -246,9 +244,9 @@
 - [needs_review] normal | PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction | Tue 24 Nov, 02:13 PM PKT
 - [published] normal | Imran Khan directs PTI to expand political alliance and reach out to F | Tue 24 Nov, 02:52 PM PKT
 - [failed] normal | Ousted Bangladesh PM Sheikh Hasina plans to return on December 16 | Tue 24 Nov, 03:02 PM PKT
-- [queued] normal | DR Congo searches for missing cargo plane as rebels claim shootdown | Tue 24 Nov, 03:12 PM PKT
-- [queued] normal | PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust ap | Tue 24 Nov, 03:22 PM PKT
-- [queued] normal | Plea filed in LHC against alleged police siege of Fazl's Lahore home | Tue 24 Nov, 03:53 PM PKT
+- [needs_review] normal | DR Congo searches for missing cargo plane as rebels claim shootdown | Tue 24 Nov, 03:12 PM PKT
+- [needs_review] normal | PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust ap | Tue 24 Nov, 03:22 PM PKT
+- [published] normal | Plea filed in LHC against alleged police siege of Fazl's Lahore home | Tue 24 Nov, 03:53 PM PKT
 - [queued] normal | Five suspected terrorists killed in CTD intelligence-based operation i | Tue 24 Nov, 04:03 PM PKT
 - [queued] normal | Peshawar CTD operation leaves five terrorists dead, weapons and grenad | Tue 24 Nov, 04:13 PM PKT
 - [queued] normal | Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status | Tue 24 Nov, 04:23 PM PKT
@@ -260,7 +258,7 @@
 - [queued] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
 
 ## Publishing this run
-- Published 'Imran Khan directs PTI to expand political alliance and reach out to Fazl'.
+- Published 'Plea filed in LHC against alleged police siege of Fazl's Lahore home'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0

@@ -143110,7 +143110,702 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cd5e198ef5808f75756af437",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T10:48:38+00:00",
+      "last_update": "2026-11-24T16:22:00+00:00",
+      "event": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "back",
+        "beyond",
+        "big",
+        "brought",
+        "chief",
+        "consequences",
+        "far",
+        "fire",
+        "had",
+        "him",
+        "huang",
+        "jensen",
+        "less",
+        "mistakes",
+        "nonetheless",
+        "nvidia",
+        "silicon",
+        "than",
+        "too",
+        "trump",
+        "two",
+        "valley",
+        "was",
+        "weeks",
+        "why"
+      ],
+      "source_excerpt": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+          "published_at": "2026-11-24T10:48:38+00:00"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+          "published_at": "2026-11-24T14:56:50+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692497-trump-feared-jensen-huang-could-join-china-to-lead-its-ai-industry-if-nvidia-didnt-take-him-back",
+          "published_at": "2026-11-24T15:36:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcFJ3VlVNYWFMUHphM0I1WmFOTVF3Qk5nSE80RXFwaVZuZE5JS0ZxbEh4UzdXWE03SzhVNHpPM1BvUkpGSFptT2hHbVB1RzdJYzNMeC1KbG56R3MtU2tZSkNzclBjUzI4UzQyTWdER0x1TnhKX2FDVHVwS1ltUXdfR0tleW54ZTZzWUdMWjhERkJiejlkM2tPSkFBU3JiQmNlcjdPT2pwdzM1c0RuS2tETzN5a2pONU9YZlp3Q1IyajFSSEZqYUlVbg?oc=5",
+          "published_at": "2026-11-24T15:36:00+00:00"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHQxVDJnTmhseUozTDFmb0FkSVhDOWhXLTZRcHhoUHdmakJYbmM0RmFobFlYTzBINC0tczQ1UklLNnQwVUY4Z0RFaE9Wd1RuVFRYT3hmUXgzQjR2VG9lc2xfdzN1WG9fVUE1Q0Fka20wX3NPSVNvNjE5ZDdOZ0NQa3lobWVXS05NR2V0ZlVuTmVOaFR2UEJIN25Ublp3TGhIMW9UMjc0YjNyUQ?oc=5",
+          "published_at": "2026-11-24T16:22:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f62d8eb51b52617274b23f4e",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T15:36:00+00:00",
+      "last_update": "2026-11-24T15:46:24+00:00",
+      "event": "Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "acc",
+        "accrohail",
+        "against",
+        "asia",
+        "celebrate",
+        "championship",
+        "cricket",
+        "crush",
+        "cup",
+        "doha",
+        "during",
+        "end",
+        "for",
+        "hasnain",
+        "international",
+        "maintain",
+        "match",
+        "men",
+        "nazir",
+        "nepal",
+        "november",
+        "pakistan",
+        "park",
+        "players",
+        "remains",
+        "rising",
+        "run",
+        "scorer",
+        "shaheens",
+        "stadium",
+        "stars",
+        "sufiyan",
+        "take",
+        "the",
+        "their",
+        "three",
+        "top",
+        "unbeaten",
+        "west",
+        "wickets"
+      ],
+      "source_excerpt": "Pakistan Shaheens' players celebrate during their ACC Men's Asia Cup Rising Stars Championship match against Nepal at the West End Park International Cricket Stadium in Doha on November 24, 2026. — ACCRohail Nazir remains top-scorer for Pakistan.Hasnain, Sufiyan take three wickets...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692495-pakistan-shaheens-crush-nepal-to-maintain-unbeaten-run-in-rising-stars-asia-cup",
+          "published_at": "2026-11-24T15:36:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHdIU3N4akEzNjNyYXlDZ1ozSmpCX2ZvbUZiREs0Z0xmdGNQV3VNRUJ1bXY0ajEyTG5LcGpmVDlSM29zTWFKaGJZYk5jTVhjVjVQTXM0OEwtV01LcFJMTDVoZFkzN3VmTHpOMXF1eENLdW9kU3lpeVNsclpZYWdXcUN6QVVRN0dmY29hQU1udzNNLVNuTHRDR1lDWkxVNmdERDU2VFBQU2xlVmd1dnFYUzR3?oc=5",
+          "published_at": "2026-11-24T15:36:00+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkZoeDk4VFZqQmNpbHBXVlNvS3BkTmp0QnJOUXg5bjJ1MTRpTXZjVnNIOGx4VXZYS2pqc0sxQTFLWHBLX0M4YWdHbjhsaVV2bjRXQTd5bktQWDA5TXNjemsxeXYwV0VtajJBZ0k4aWxBbmlrM2xYOTRxUlM5ZVRjRHFTUFJiT01tMW1saFprUk9YajF3SzRLcFJIaWp3NGwybXoySkNKUWZoQk1lVFZNWWloQTNDWFhxbHhUUHNZNGc?oc=5",
+          "published_at": "2026-11-24T15:46:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692495-pakistan-shaheens-crush-nepal-to-maintain-unbeaten-run-in-rising-stars-asia-cup",
+        "publisher_url": "https://www.geo.tv/latest/692495-pakistan-shaheens-crush-nepal-to-maintain-unbeaten-run-in-rising-stars-asia-cup",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9a3f5e209a1bb1a1a92376aa",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T12:11:41+00:00",
+      "last_update": "2026-11-24T15:40:26+00:00",
+      "event": "نئے صوبے بنتے ہیں تو 2 بڑی پارٹیوں کی حیثیت ختم ہوجائے گی، شوکت یوسفزئی",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اطلاعات",
+        "بنتے",
+        "بڑی",
+        "جائے",
+        "حیثیت",
+        "ختم",
+        "خیبر",
+        "دونوں",
+        "سیکریٹری",
+        "شوکت",
+        "صوبے",
+        "نئے",
+        "نیوز",
+        "پارٹیوں",
+        "پختونخوا",
+        "کہا",
+        "گی،",
+        "گی۔جیو",
+        "ہوجائے",
+        "ہیں",
+        "یوسفزئی"
+      ],
+      "source_excerpt": "سیکریٹری اطلاعات خیبر پختونخوا شوکت یوسفزئی نے کہا ہے کہ نئے صوبے بنتے ہیں تو دونوں بڑی پارٹیوں کی حیثیت ختم ہو جائے گی۔جیو نیوز سے...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636360",
+          "published_at": "2026-11-24T12:11:41+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5021904",
+          "published_at": "2026-11-24T15:40:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636360",
+        "publisher_url": "https://jang.com.pk/news/1636360",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "55981df7374048f499bfd78a",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T13:11:50+00:00",
+      "last_update": "2026-11-24T15:40:04+00:00",
+      "event": "خواب دیکھنا کبھی مت چھوڑو، ہماری منزل ستاروں سے آگے ہے، وزیراعظم شہباز شریف",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "آگے",
+        "خواب",
+        "دیکھنا",
+        "رکھو،",
+        "رہو،",
+        "ستاروں",
+        "شریف",
+        "شہباز",
+        "محنت",
+        "منزل",
+        "وزیراعظم",
+        "پاکستان",
+        "چھوڑو،",
+        "کبھی",
+        "کرتے",
+        "کہا",
+        "ہماری",
+        "ہے،",
+        "ہے۔ایک",
+        "یقین"
+      ],
+      "source_excerpt": "وزیراعظم شہباز شریف نے کہا ہے کہ خواب دیکھنا کبھی مت چھوڑو، محنت کرتے رہو، پاکستان پر یقین رکھو، ہماری منزل ستاروں سے آگے ہے۔ایک...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636364",
+          "published_at": "2026-11-24T13:11:50+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5021899",
+          "published_at": "2026-11-24T15:40:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636364",
+        "publisher_url": "https://jang.com.pk/news/1636364",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ada374924a9424e44044b04b",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T15:45:28+00:00",
+      "last_update": "2026-11-24T16:17:17+00:00",
+      "event": "11 injured in Houthi attack on Riyadh’s PIF Tower",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "houthi",
+        "injured",
+        "pif",
+        "riyadh",
+        "samaa",
+        "tower"
+      ],
+      "source_excerpt": "11 injured in Houthi attack on Riyadh’s PIF Tower samaa tv",
+      "sources": [
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlZoNlpDRXJwWGVhQW4zYUJJNDZ4SUlSVUtPTjRxV3lCVVRET0tVaVhITmoxdGVkbzJiQm5mNHBRd1gxVXVFX3p4MF9vM0lMaUVTMFFKMlM1RVJyV0VDWXJaN21Cb284WF9jNUszbFBtdEtpVUJVQXZZV3kxNDMzSzN0V1Q4MnlBeTBBUERLTzB2THVjSFhVV2d2TUdaUmQ50gFTQVVfeXFMTTNJcDNGVE1ncjBYaF8wQWg4WWhGRVkyTTFKTzZVVkdmaTFCYzB0NVNjeEJXUWlOVDJlcWQtR2t4amNpT0tBdXFZR0RNZVBsXzNOR1U?oc=5",
+          "published_at": "2026-11-24T15:45:28+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzJyajIzRS01Y1AwYTZXbDBkNHFzNm50dUZKa0liY1BfVXh1bXJVY2xXY3Z2YXlKcHI2MUdsamlqM0t4eUV0b3ZXZFdleDNVMTduRlBsWkM2ZWZsaFB5UlI2S1NWQ2dGV08zMEFmT3k0VWxZMDViUFlsTm9lek9rMDZKaTQ4bFJU?oc=5",
+          "published_at": "2026-11-24T16:17:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzJyajIzRS01Y1AwYTZXbDBkNHFzNm50dUZKa0liY1BfVXh1bXJVY2xXY3Z2YXlKcHI2MUdsamlqM0t4eUV0b3ZXZFdleDNVMTduRlBsWkM2ZWZsaFB5UlI2S1NWQ2dGV08zMEFmT3k0VWxZMDViUFlsTm9lek9rMDZKaTQ4bFJU?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7bef1b95a293042480b2b0e9",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T16:33:03+00:00",
+      "last_update": "2026-11-24T16:33:03+00:00",
+      "event": "‘Unfinished Beginnings’: Art installation for children affected by war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "affected",
+        "art",
+        "artist",
+        "baby",
+        "bachir",
+        "beginnings",
+        "bottles",
+        "children",
+        "for",
+        "highlight",
+        "installation",
+        "mohamad",
+        "unfinished",
+        "uses",
+        "war"
+      ],
+      "source_excerpt": "Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
+          "published_at": "2026-11-24T16:33:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "979007f92456470f4921a8ee",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T16:31:48+00:00",
+      "last_update": "2026-11-24T16:31:48+00:00",
+      "event": "African rivals fret over Morocco’s growing football dominance",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "african",
+        "and",
+        "benefitting",
+        "dominance",
+        "enjoys",
+        "example",
+        "football",
+        "fret",
+        "from",
+        "growing",
+        "morocco",
+        "off",
+        "over",
+        "pitch",
+        "preferential",
+        "rivals",
+        "setting",
+        "success",
+        "the",
+        "treatment"
+      ],
+      "source_excerpt": "As Morocco enjoys success on and off the pitch, is it benefitting from preferential treatment, or setting an example?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/african-rivals-fret-over-moroccos-growing-football-dominance?traffic_source=rss",
+          "published_at": "2026-11-24T16:31:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/24/african-rivals-fret-over-moroccos-growing-football-dominance?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/24/african-rivals-fret-over-moroccos-growing-football-dominance?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4de06fc77a24daa29789d3ed",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T16:18:11+00:00",
+      "last_update": "2026-11-24T16:18:11+00:00",
+      "event": "Jerusalem Daily: Clash in Israeli parliament",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahmad",
+        "alleged",
+        "altercation",
+        "and",
+        "arab",
+        "between",
+        "clash",
+        "comedian",
+        "controversy",
+        "daily",
+        "guy",
+        "hochman",
+        "israeli",
+        "jerusalem",
+        "lawmaker",
+        "parliament",
+        "sparks",
+        "tibi"
+      ],
+      "source_excerpt": "An alleged altercation between Arab Israeli lawmaker Ahmad Tibi and comedian Guy Hochman sparks controversy.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/jerusalem-daily-clash-in-israeli-parliament?traffic_source=rss",
+          "published_at": "2026-11-24T16:18:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/jerusalem-daily-clash-in-israeli-parliament?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/jerusalem-daily-clash-in-israeli-parliament?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6f5e3d956d38879fa5cbeab8",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T16:11:54+00:00",
+      "last_update": "2026-11-24T16:12:23+00:00",
+      "event": "Qatar urges restraint and dialogue amid US-Iran tensions",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "dialogue",
+        "iran",
+        "pursue",
+        "qatar",
+        "restraint",
+        "rising",
+        "says",
+        "show",
+        "spokesman",
+        "tensions",
+        "the",
+        "urges"
+      ],
+      "source_excerpt": "Qatar urges the US and Iran to show restraint and pursue dialogue amid rising tensions, says FM spokesman.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_qatar-urges-restraint-amid-us-iran-tensions-241126?traffic_source=rss",
+          "published_at": "2026-11-24T16:11:54+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU05BNE5mZk05ZTJuVG5uTFh6RGFES2l3c2xmWFByRVlWenRhbTEtbDg2SF9zaUFzRXVaU2pPaHdwWnoyQzRCVTM3aC1UNGpDM00xT2l0RXd6ZGFEc09rSFBoVFVENVFFOWFrYTNkSE1sTm9HWEVwcTJqS2RGY1NrRGdmd1FYZVVrb09IQ1V2UVYwaEJpOTBaTjNLT0xmbjNfcUYxVnNhLUJ2MnQ2VFhncDBod9IBuAFBVV95cUxQOE9QZF9LYlBLeFk1QUhfYUlsajM5TjFQQmdjaC1wb28yR0ZNWVBKNEhfdVJqQ01PdHZkQ0FnTGpZM05mTEdseDR1UktEbVNTRzNkSzdOaEtTTEFpeDNwcW04X3JOZVRpOVg0T0xiQmVERmFFNnJXcEZNN2VOOEtFbkNuS2lnTnNXWEswS3BQX1lSMUhlbWtuYTJrcFQyaWN5UnNUSnEwNUFnZjBxUE1uQjNZM2Q1OGxI?oc=5",
+          "published_at": "2026-11-24T16:12:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_qatar-urges-restraint-amid-us-iran-tensions-241126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_qatar-urges-restraint-amid-us-iran-tensions-241126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "be7a037c976a61c451a628be",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T16:01:23+00:00",
+      "last_update": "2026-11-24T16:01:23+00:00",
+      "event": "Arsenal vs Borussia Dortmund LIVE: UEFA Champions League",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arsenal",
+        "borussia",
+        "build",
+        "champions",
+        "commentary",
+        "coverage",
+        "dortmund",
+        "follow",
+        "from",
+        "headlines",
+        "league",
+        "live",
+        "martin",
+        "news",
+        "odegaard",
+        "our",
+        "stream",
+        "team",
+        "text",
+        "uefa",
+        "updates",
+        "with"
+      ],
+      "source_excerpt": "Follow updates with build-up and team news coverage from our live text commentary stream as Martin Odegaard headlines.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
+          "published_at": "2026-11-24T16:01:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c93c0f686850563a5d23a8fe",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T15:56:07+00:00",
+      "last_update": "2026-11-24T15:56:07+00:00",
+      "event": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arson",
+        "bank",
+        "continued",
+        "have",
+        "israel",
+        "israeli",
+        "jewish",
+        "night",
+        "occupied",
+        "palestine",
+        "pogroms",
+        "reckoning",
+        "sees",
+        "settler",
+        "terrorism",
+        "the",
+        "weekly",
+        "west"
+      ],
+      "source_excerpt": "Israeli settler pogroms have continued in the occupied West Bank.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/palestine-weekly-a-night-of-arson-sees-israel-jewish-terrorism-reckoning?traffic_source=rss",
+          "published_at": "2026-11-24T15:56:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/palestine-weekly-a-night-of-arson-sees-israel-jewish-terrorism-reckoning?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/palestine-weekly-a-night-of-arson-sees-israel-jewish-terrorism-reckoning?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9053fe168fda9ddae76a0951",
+      "remembered_at": "2026-11-24T16:45:18.458476+00:00",
+      "event_date": "2026-11-24T15:55:36+00:00",
+      "last_update": "2026-11-24T15:55:36+00:00",
+      "event": "Five women killed every hour globally by partner, relative last year: UN",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "barely",
+        "dangerous",
+        "every",
+        "five",
+        "for",
+        "girl",
+        "globally",
+        "has",
+        "home",
+        "hour",
+        "killed",
+        "last",
+        "most",
+        "partner",
+        "pattern",
+        "place",
+        "relative",
+        "remains",
+        "says",
+        "shifted",
+        "that",
+        "the",
+        "woman",
+        "women",
+        "year",
+        "years"
+      ],
+      "source_excerpt": "Home remains the most dangerous place for a woman or girl, 'a pattern that has barely shifted in years', UN Women says.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un?traffic_source=rss",
+          "published_at": "2026-11-24T15:55:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T15:38:30.244720+00:00"
+  "updated_at": "2026-11-24T16:45:18.458476+00:00"
 }
