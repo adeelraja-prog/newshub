@@ -1,149 +1,48 @@
-# News Hub report - Tue 24 Nov, 04:55 PM PKT
+# News Hub report - Tue 24 Nov, 06:09 PM PKT
 
 ## Collection
-- New items this run: 176 | items in rolling pool: 797
-- Unique story clusters: 675 (duplicates merged: 122)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 10
-- Items per outlet: UrduPoint 87, Geo News 12, ProPakistani 9, samaa tv 8, Wired 7, TechJuice 7, Dawn Pakistan 5, Al Jazeera 5, The News International 4, ARY News 4, PhoneWorld 3, The Current 3
+- New items this run: 202 | items in rolling pool: 944
+- Unique story clusters: 791 (duplicates merged: 153)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 100, ARY News 12, Geo News 11, ProPakistani 10, samaa tv 8, Al Jazeera 6, Dawn Latest 5, Investify 4, Dawn 3, AP News 3, Ars Technica 3, Wired 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 2 | first-run seeded: 0
-- Adeel Raja: MAULANA FAZLUR REHMAN BETRAYED? RANA SLAMS MOHSIN NAQVI | https://www.youtube.com/watch?v=bOQMaQNOAMw
-- Adeel Raja Shorts: KHAWAJA ASIF EXPOSED! THE ANGRY MAN GOES SILENT | https://www.youtube.com/watch?v=HE-jONUgFFQ
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Woman receiving British-era pension dies at 107 in Jhudo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Oil holds near three-month low as rising supply offsets Hormuz threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Road closures around Karachi’s PIDC junction cause traffic congestion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russian strike kills two in Ukraine, days after ship attack off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pope Francis revealed in personal diary having seen devil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- صوبوں سے متعلق ہم موقف دے چکے، آپ عوامی رائے لے لیں، اس میں حرج ہی کیا ہے: عطا تارڑ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Misbah Arshad set for Miss Universe 2026 grand finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Woman receiving British-era pension dies at 107 in Jhudo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Oil holds near three-month low as rising supply offsets Hormuz threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Road closures around Karachi’s PIDC junction cause traffic congestion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russian strike kills two in Ukraine, days after ship attack off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pope Francis revealed in personal diary having seen devil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- صوبوں سے متعلق ہم موقف دے چکے، آپ عوامی رائے لے لیں، اس میں حرج ہی کیا ہے: عطا تارڑ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Misbah Arshad set for Miss Universe 2026 grand finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Woman receiving British-era pension dies at 107 in Jhudo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Oil holds near three-month low as rising supply offsets Hormuz threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Road closures around Karachi’s PIDC junction cause traffic congestion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Russian strike kills two in Ukraine, days after ship attack off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pope Francis revealed in personal diary having seen devil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- صوبوں سے متعلق ہم موقف دے چکے، آپ عوامی رائے لے لیں، اس میں حرج ہی کیا ہے: عطا تارڑ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Misbah Arshad set for Miss Universe 2026 grand finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: World Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Balochistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Iraq Orders Takeover of Oilfields in Kurdish-Controlled Areas  [NORMAL]
-- Poster: عراق کا کردستان کے زیر کنٹرول علاقوں میں تیل کے ذخائر پر قبضے کا حکم / Iraq Orders Takeover of Kurdish Oilfields | category politics
-- Alternative headline: Baghdad Directs Seizure of Kurdish Region Oilfields and Crossings
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Iraq oilfields, Kurdish region, Ali al-Zaidi, oil smuggling, Iraq politics, border crossings | hashtags: #Iraq #Kurdistan #Oil #Baghdad #MiddleEast
-- Scheduled: Tue 24 Nov, 04:55 PM PKT
-- Caption:
-```
-Prime Minister Ali al-Zaidi has ordered his government to take over oilfields and crossings in the Kurdish region following an oil smuggling inquiry.
-
-Iraqi Prime Minister Ali al-Zaidi has ordered the government to seize all border crossings and oilfields located within the Kurdish-controlled region. The directive follows an ongoing investigation into oil smuggling operations in the area.
-
-عراقی وزیر اعظم علی الزیدی نے تیل کی سمگلنگ کی تحقیقات کے بعد کرد علاقے کے تمام سرحدی گزرگاہوں اور تیل کے ذخائر پر قبضہ کرنے کا حکم دے دیا ہے۔
-
-First reported by Al Jazeera
-
-#Iraq #Kurdistan #Oil #Baghdad #MiddleEast
-```
-
-### Woman Receiving British-Era Pension Passes Away at 107 in Sindh  [NORMAL]
-- Poster: برطانوی دور کی پینشن حاصل کرنے والی خاتون جھڈو میں 107 برس کی عمر میں انتقال کر گئیں / British-Era Pension Recipient Dies at 107 | category other
-- Alternative headline: Last Surviving British-Era Pension Recipient Dies in Jhudo at 107
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/woman-receiving-british-era-pension-dies-at-107-in-jhudo | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/woman-receiving-british-era-pension-dies-at-107-in-jhudo
-- Supporting coverage: ARY News, The Current
-- Keywords: British-era pension, Jhudo, Sindh, Janat Khatoon Qaimkhani, pensioner, UK pension | hashtags: #Sindh #Jhudo #BritishEra #Pension #History
-- Scheduled: Tue 24 Nov, 05:05 PM PKT
-- Caption:
-```
-Janat Khatoon Qaimkhani, the last surviving woman receiving a pension from the British government, has passed away at 107 in Sindh.
-
-Janat Khatoon Qaimkhani, believed to be the last surviving recipient of a British government pension, has died at the age of 107 in Jhudo, Sindh. Her pension was transferred from her late husband, a sepoy in the Punjab Horse Regiment, and disbursed through the United Nations.
-
-برطانوی حکومت سے پینشن حاصل کرنے والی آخری خاتون جنات خاتون قائمخانی سندھ کے شہر جھڈو میں 107 برس کی عمر میں انتقال کر گئیں۔ ان کے خاوند برطانوی فوج میں سپاہی تھے جن کی وفات کے بعد یہ پینشن انہیں منتقل کی گئی تھی۔
-
-First reported by ARY News; also reported by The Current
-
-#Sindh #Jhudo #BritishEra #Pension #History
-```
-
-### Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat  [NORMAL]
-- Poster: رسد میں اضافے کے باعث تیل کی قیمتیں تین ماہ کی کم ترین سطح کے قریب برقرار / Oil Holds Near Three-Month Low | category economy
-- Alternative headline: Crude Prices Hover Near Three-Month Low Amid Supply Surge and Hormuz Tensions
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/oil-holds-near-three-month-low-as-rising-supply-offsets-hormuz-threat | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/oil-holds-near-three-month-low-as-rising-supply-offsets-hormuz-threat
-- Supporting coverage: ARY News, Dawn
-- Keywords: oil prices, Strait of Hormuz, Brent crude, WTI crude, oil supply, economy | hashtags: #OilPrices #CrudeOil #Economy #Hormuz #Market
-- Scheduled: Tue 24 Nov, 05:15 PM PKT
-- Caption:
-```
-Oil prices hovered near a three-month low as rising crude supply offset ongoing shipping risks through the Strait of Hormuz.
-
-Oil prices remained near three-month lows as increasing crude supplies and potential market surpluses countered persistent shipping risks in the Strait of Hormuz. Brent crude futures fell 0.45 percent to $88.97 a barrel, while US West Texas Intermediate slipped to $79.94.
-
-تیل کی قیمتیں تین ماہ کی کم ترین سطح کے قریب رہیں کیونکہ رسد میں اضافے نے آبنائے ہرمز میں جہاز رانی کے خطرات کے اثرات کو زائل کر دیا۔ برینٹ کروڈ کی قیمت 88.97 ڈالر فی بیرل پر آگئی۔
-
-First reported by ARY News and Reuters
-
-#OilPrices #CrudeOil #Economy #Hormuz #Market
-```
-
-### Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion  [NORMAL]
-- Poster: کراچی کے پی آئی ڈی سی چورنگی کے قریب سڑکیں بند ہونے سے شدید ٹریفک جام / Road Closures Cause Traffic Jam in Karachi | category other
-- Alternative headline: Traffic Jams Reported Due to Road Closures Near Karachi PIDC Junction
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzN5ZURLRXl4d0lvZWJnci1jaWFUSWM4T0RVZkRtN25OeFJSdnF3OVYwQ2ZEVWhySDdTVjNhUWYzZ1BQWFBDSUxYVFJXVFB0R2t3Sm5vdHkyNngzQzNJaUw4ZlUyVmV1YjR6T1gyUGYzV2RTMEFtVFpxeV9DVW1MTFpmYmlUU0o0VUpMbFhiXzlqeGtaS0g0eWE3Y3k1eDVMYmZJdg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzN5ZURLRXl4d0lvZWJnci1jaWFUSWM4T0RVZkRtN25OeFJSdnF3OVYwQ2ZEVWhySDdTVjNhUWYzZ1BQWFBDSUxYVFJXVFB0R2t3Sm5vdHkyNngzQzNJaUw4ZlUyVmV1YjR6T1gyUGYzV2RTMEFtVFpxeV9DVW1MTFpmYmlUU0o0VUpMbFhiXzlqeGtaS0g0eWE3Y3k1eDVMYmZJdg?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Karachi traffic, PIDC junction, road closures, traffic congestion, Karachi, Dawn | hashtags: #Karachi #TrafficAlert #PIDC #Sindh #Dawn
-- Scheduled: Tue 24 Nov, 05:25 PM PKT
-- Caption:
-```
-Road closures around Karachi’s PIDC junction have resulted in heavy traffic congestion across surrounding areas.
-
-Traffic congestion has been reported around Karachi's PIDC junction following the closure of surrounding roads. Commuters faced severe delays and alternate routes as authorities restricted movement in the area.
-
-کراچی میں پی آئی ڈی سی چورنگی کے گردونواح میں سڑکیں بند ہونے کے باعث شدید ٹریفک جام اور شہریوں کو مشکلات کا سامنا کرنا پڑا۔
-
-First reported by Dawn
-
-#Karachi #TrafficAlert #PIDC #Sindh #Dawn
-```
-
-- Indian outlets blocked this run: 7 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
+- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
@@ -346,10 +245,10 @@ First reported by Dawn
 - [needs_review] normal | Renowned Pop Singer Bunny Passes Away in Karachi | Tue 24 Nov, 10:22 AM PKT
 - [needs_review] normal | Surge in Used Phone Imports Hits Local Industry Hard | Tue 24 Nov, 10:32 AM PKT
 - [published] normal | Iran Parliament Speaker Warns US Seeks 'No War, No Peace' Stalemate | Tue 24 Nov, 11:06 AM PKT
-- [queued] normal | Petroleum Dealers Threaten Nationwide Strike Over Pricing Mechanism | Tue 24 Nov, 11:16 AM PKT
-- [queued] normal | Punjab CM Orders Authorities to Double Wheat and Flour Supply | Tue 24 Nov, 11:26 AM PKT
-- [queued] normal | 11 More Illegal Afghan Nationals Detained in Rawalpindi | Tue 24 Nov, 11:36 AM PKT
-- [queued] normal | Why Eisenkot is negotiating with Netanyahu amid political shifts | Tue 24 Nov, 12:26 PM PKT
+- [needs_review] normal | Petroleum Dealers Threaten Nationwide Strike Over Pricing Mechanism | Tue 24 Nov, 11:16 AM PKT
+- [needs_review] normal | Punjab CM Orders Authorities to Double Wheat and Flour Supply | Tue 24 Nov, 11:26 AM PKT
+- [needs_review] normal | 11 More Illegal Afghan Nationals Detained in Rawalpindi | Tue 24 Nov, 11:36 AM PKT
+- [published] normal | Why Eisenkot is negotiating with Netanyahu amid political shifts | Tue 24 Nov, 12:26 PM PKT
 - [failed] normal | Ousted PM Sheikh Hasina plans December 16 return to Bangladesh | Tue 24 Nov, 12:36 PM PKT
 - [queued] normal | Bus and truck collision kills 11 people in UAE's Ras Al Khaimah | Tue 24 Nov, 12:46 PM PKT
 - [queued] normal | Punjab Assembly echoes with fiery exchanges over agricultural crisis | Tue 24 Nov, 12:56 PM PKT
@@ -373,11 +272,11 @@ First reported by Dawn
 - [queued] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
 
 ## Publishing this run
-- Published 'Iran Parliament Speaker Warns US Seeks 'No War, No Peace' Stalemate'.
+- Published 'Why Eisenkot is negotiating with Netanyahu amid political shifts'.
 
 ## Gemini usage
-- Calls: 6 | prompt tokens: 4873 | output tokens: 2554
-- Errors: 4
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -386,11 +285,15 @@ First reported by Dawn
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"

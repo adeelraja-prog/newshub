@@ -140596,7 +140596,1043 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ab7a53a9ca3cf02956c80862",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T06:34:31+00:00",
+      "last_update": "2026-11-24T12:02:28+00:00",
+      "event": "Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "300",
+        "gold",
+        "nov",
+        "pakistan",
+        "per",
+        "price",
+        "rises",
+        "rs1",
+        "samaa",
+        "tola"
+      ],
+      "source_excerpt": "Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 samaa tv",
+      "sources": [
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/petrol-diesel-price-update-for-today-24-nov-2026/",
+          "published_at": "2026-11-24T06:34:31+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/gold-silver-price-update-for-today-24-nov-2026/",
+          "published_at": "2026-11-24T06:39:57+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0lMTUhfQTZWNlB6QVNYVmlMRC1LTmFFakNTNWpxTkVheHlTSWEtc1NQeHhCM2gwdy1YSFowQU5iZEtHTlRxN3Q0MjlOckM3ZVNFTHRXcnhFUlc2b0tMeDlqd01hR2ZxNEpGN09wekgzeUNMeURJeTZKbVhoRkZJcm8yRkhha1JLTVRraEI5bktoUQ?oc=5",
+          "published_at": "2026-11-24T11:51:49+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdU1uUVBnYzljeDQzQlloQWpqclJqTDhHSmh3cDZORTJJNXZ5QjIyVU9UOXZIUmVpU21RODI2QU5zc3BkOEdRQ2FMZ2FzcVJWN3hFN0JDQUVrclcxcTNTS1MzRUZrUnBYQkF0ZEdCQ1pQZVhWcVotSkJaTVFJYU5mNUtmRnRSVWp5NXpIZ3dHbVpHZw?oc=5",
+          "published_at": "2026-11-24T11:51:49+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXpMMGRrT2dMb2NnMm5Za2V6N3M4M254Y1lyV01IWmtTV2xhM2Z1UXpRdl9NblI1MEFodGpUeHotRTNSMnUyNk5NaUpwS3lQYkJ3OGlSZkNtVEJPSjg2azkzalduSnRJdFprRmcwMzhnc1h1Zy15cGlwc3pUdmlzMlNiNl9iTFhBWFU0YkFHQ1Z5QQ?oc=5",
+          "published_at": "2026-11-24T11:54:08+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1FUdVgtRWhMX3lFbFRNX3lkajRBY3hTSERuenVhYnFSQ0tDdVR5d0oxNlFYSFhnRzFwN1dHVVNrenR1MUxVSFU4OGtTTTRpbFNZaGpGVjVvVmdNZGEwVVVZU0ZScmRXUjlwZHVNajg3cWhUVk1uQnBKMkFlYWYtd3dkc2NmemlSWkJRdnVmWnRLVTA4RVlj?oc=5",
+          "published_at": "2026-11-24T12:02:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1FUdVgtRWhMX3lFbFRNX3lkajRBY3hTSERuenVhYnFSQ0tDdVR5d0oxNlFYSFhnRzFwN1dHVVNrenR1MUxVSFU4OGtTTTRpbFNZaGpGVjVvVmdNZGEwVVVZU0ZScmRXUjlwZHVNajg3cWhUVk1uQnBKMkFlYWYtd3dkc2NmemlSWkJRdnVmWnRLVTA4RVlj?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "122c316d9850cbf7f8334706",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T06:29:18+00:00",
+      "last_update": "2026-11-24T12:19:52+00:00",
+      "event": "Pope Francis revealed in personal diary having seen devil",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "devil",
+        "diary",
+        "francis",
+        "having",
+        "personal",
+        "pope",
+        "revealed",
+        "seen"
+      ],
+      "source_excerpt": "Pope Francis revealed in personal diary having seen devil",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pope-francis-personal-diary-seen-devil",
+          "published_at": "2026-11-24T06:29:18+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0I5UUNvRzJSXzlxVEc0elNkaC1ZTXdNOTlWREYzaWdSRG45eVdsMVVGNXpXSkpOWlpJLXNNZDdSTVlwRHlia2NYRDJHaTF4TzY5ZzFUTGM2dS1nUC03aUtTWWZtTi1uTm1PV1F2S1plUVBzVjhXdkxnWHVzOXMtS2NpNWdwRHQ0R3Jka2F5cjBPZk05VWc?oc=5",
+          "published_at": "2026-11-24T12:18:09+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046776/watching-me-with-eyes-of-fire-pope-francis-revealed-in-personal-diary-having-seen-devil",
+          "published_at": "2026-11-24T12:19:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pope-francis-personal-diary-seen-devil",
+        "publisher_url": "https://arynews.tv/pope-francis-personal-diary-seen-devil",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "54bddb22427cc25d3dc30727",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:22:00+00:00",
+      "last_update": "2026-11-24T12:58:00+00:00",
+      "event": "Why is China investigating Shanghai Party Chief Chen Jining? What we know so far",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bureau",
+        "central",
+        "chen",
+        "chief",
+        "china",
+        "committee",
+        "cpc",
+        "disciplinary",
+        "far",
+        "investigating",
+        "investigation",
+        "jining",
+        "know",
+        "member",
+        "municipal",
+        "official",
+        "party",
+        "placed",
+        "political",
+        "press",
+        "release",
+        "secretary",
+        "shanghai",
+        "supervisory",
+        "the",
+        "under",
+        "was",
+        "what",
+        "why"
+      ],
+      "source_excerpt": "Why is China investigating Shanghai Party Chief Chen Jining? What we know so far Member of the Political Bureau of the CPC Central Committee and CPC Shanghai Municipal Committee Secretary Chen Jining was placed under disciplinary and supervisory investigation, the official press release...",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMG44bXNIbVRoRkdsc1FsaEg0ajBQekRydkVTeDZTbWN0TnBCSWZ1MFQxTzMxc2p0VWFTQzBQRWhHdUVrQUItOC1FNGlVQlZkeVRQWjFRRTZUTkFUeHIyWkRIOXIzbktKZk5HdGxNWGFTSldPN1p3QUtFSEM2dUJHYmRXN0g4UVAzSW9rTkZGOTd3cmZJYU1VdEJJNFE?oc=5",
+          "published_at": "2026-11-24T12:22:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692470-why-is-china-investigating-shanghai-party-chief-chen-jining-what-we-know-so-far",
+          "published_at": "2026-11-24T12:58:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692470-why-is-china-investigating-shanghai-party-chief-chen-jining-what-we-know-so-far",
+        "publisher_url": "https://www.geo.tv/latest/692470-why-is-china-investigating-shanghai-party-chief-chen-jining-what-we-know-so-far",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "14f9bc4ea06df80ba97e3ffb",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T11:11:41+00:00",
+      "last_update": "2026-11-24T12:05:42+00:00",
+      "event": "صوبوں سے متعلق ہم موقف دے چکے، آپ عوامی رائے لے لیں، اس میں حرج ہی کیا ہے: عطا تارڑ",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اطلاعات",
+        "تارڑ",
+        "حرج",
+        "رائے",
+        "صوبوں",
+        "عطا",
+        "عطااللّٰہ",
+        "عوامی",
+        "فائلوفاقی",
+        "فوٹو",
+        "لیں،",
+        "متعلق",
+        "موقف",
+        "میں",
+        "واضح",
+        "وزیر",
+        "چکے،",
+        "کہا",
+        "کیا"
+      ],
+      "source_excerpt": "فوٹو: فائلوفاقی وزیر اطلاعات عطااللّٰہ تارڑ نے کہا ہے کہ صوبوں سے متعلق ہم واضح موقف دے چکے، آپ عوامی رائے لے لیں، اس میں حرج ہی کیا...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636351",
+          "published_at": "2026-11-24T11:11:41+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5021236",
+          "published_at": "2026-11-24T12:05:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636351",
+        "publisher_url": "https://jang.com.pk/news/1636351",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ba0baa582abc23a20953076c",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T11:36:16+00:00",
+      "last_update": "2026-11-24T11:36:16+00:00",
+      "event": "Misbah Arshad set for Miss Universe 2026 grand finale",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "arshad",
+        "finale",
+        "for",
+        "grand",
+        "misbah",
+        "miss",
+        "samaa",
+        "set",
+        "universe"
+      ],
+      "source_excerpt": "Misbah Arshad set for Miss Universe 2026 grand finale samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUElDcFVvMVBkNUpERTVmb3V2cTZkV1l2MjFPRnZaeGRUWFBxZTNjaGFYdnZzREdwT2hsYXdZRmZaLXZJbDl3ckJOVWFNanN4Z0RBekRSbWgyUWpHNEp5VS1oZF9FZXFxbXZsVnVIRngteWoyRUNpR21vUXN3UG96T3dUek9JdldRM0QxbVZn?oc=5",
+          "published_at": "2026-11-24T11:36:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUElDcFVvMVBkNUpERTVmb3V2cTZkV1l2MjFPRnZaeGRUWFBxZTNjaGFYdnZzREdwT2hsYXdZRmZaLXZJbDl3ckJOVWFNanN4Z0RBekRSbWgyUWpHNEp5VS1oZF9FZXFxbXZsVnVIRngteWoyRUNpR21vUXN3UG96T3dUek9JdldRM0QxbVZn?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "86213e9f1559b0f487d52521",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:56:29+00:00",
+      "last_update": "2026-11-24T12:56:45+00:00",
+      "event": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accountability",
+        "alleged",
+        "and",
+        "compensation",
+        "courts",
+        "crimes",
+        "experts",
+        "face",
+        "files",
+        "for",
+        "get",
+        "hurdles",
+        "iran",
+        "justice",
+        "lawsuits",
+        "legal",
+        "proceedings",
+        "say",
+        "seeks",
+        "steep",
+        "war",
+        "will"
+      ],
+      "source_excerpt": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
+          "published_at": "2026-11-24T12:56:29+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVVCYzZGZ0dSYTY3c2NCclRXLVIxOExhMEFqN1ZMbDU5Rl9rSU5TX2owRmJGb0pwR2dhRkNUTW52TVJvWGVwT1g3SWpoa1lLWWJXeVZjWWx2NXpiSkdIOHYwVGw0dUpzX0F3Y0RfQkVHeWhQaWRWZGliQmgwY1ZibEpyMUM2dVlKRmU0QTlTd0VLRzhyS254ZWFyU1VpbjJ3ZWJKMjR3SkxqZkZ2M21WZ1NrTHVKd03SAbwBQVVfeXFMTXpPc2VpWkZaZUJHeVB0MHMtamxqOG44QktsQ2tNSGhKaTMtMl9CbHM4TUlWSElSRDFzTlNpY04wRFlsM3h6elFXRVJvdGZVMHlxY29YV3pPajMtQlVsYndDZlZHdUVkRk1Sbks2dmFkN1d2bnBiSDdIQThYbkpmdE5JN0ZzMUlUYTRKNHVYV2REYmNkQzN4VjE1YUw4b1lDTU5IU1pDcUlRSmNMNmJtY3RmRFNUVks3NzBQSXo?oc=5",
+          "published_at": "2026-11-24T12:56:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b045b8052c9a10b8a5d108ca",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:55:55+00:00",
+      "last_update": "2026-11-24T12:55:55+00:00",
+      "event": "UK sanctions Yemen’s Houthi group, four senior officials",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accountable",
+        "and",
+        "civilians",
+        "for",
+        "foreign",
+        "four",
+        "group",
+        "held",
+        "houthi",
+        "innocent",
+        "miliband",
+        "must",
+        "officials",
+        "our",
+        "partners",
+        "sanctions",
+        "says",
+        "secretary",
+        "senior",
+        "targeting",
+        "yemen"
+      ],
+      "source_excerpt": "Group must be held accountable for 'targeting our partners and innocent civilians', says Foreign Secretary Ed Miliband.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss",
+          "published_at": "2026-11-24T12:55:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "960f26b4124762c91a35f17d",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:47:23+00:00",
+      "last_update": "2026-11-24T12:56:15+00:00",
+      "event": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ability",
+        "analysts",
+        "beyond",
+        "challenge",
+        "challenges",
+        "front",
+        "global",
+        "influence",
+        "keep",
+        "kyiv",
+        "libya",
+        "lines",
+        "off",
+        "putin",
+        "reach",
+        "russian",
+        "say",
+        "ships",
+        "signals",
+        "sinking",
+        "strike",
+        "the",
+        "ukraine"
+      ],
+      "source_excerpt": "Ukraine's strike off Libya signals Kyiv's ability to challenge Russian influence beyond the front lines, analysts say.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/can-ukraine-disrupt-russias-operations-in-africa?traffic_source=rss",
+          "published_at": "2026-11-24T12:47:23+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1M4aVFTYm8wQUVFVnZORlp4X0psUWZrTE1NYWdrSkpXSEphSDNBZmw4ZlVRNDJqODdHWXFtRV9manBUeFFIeTB4VVNPbE8wUmRfeXMxclE2dGdwZWgydEhqQV95azhEaWRyU0VqUjgtUzcydU04bmFtQVFDTjVvQ01FMlRDN0RNSDFXZU5QeVRFTHZ10gGaAUFVX3lxTE9GamxQamdqZWQ0T0dUZ1VMOS1tRnBhaDFiMUtWTWNMZVJoeVh2dl83Y1h4amxzNFF3SUZ4WFNxMkdKVlpQeEpDa2RzU1dIZEs4M045d2FHdnZuX0JXdnRhVU5SWlRWWVNOZFJrVExUeXpET1NuUEVXTzhYT2dWdklGWW5jTldVQU9iSkprSTF6anNIQ2FwVTFZamc?oc=5",
+          "published_at": "2026-11-24T12:56:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/can-ukraine-disrupt-russias-operations-in-africa?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/can-ukraine-disrupt-russias-operations-in-africa?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7aef5a4cd5cdaaa559073b2a",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:44:56+00:00",
+      "last_update": "2026-11-24T12:44:56+00:00",
+      "event": "Trump’s Nvidia intervention: What’s at stake?",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "business",
+        "ceo",
+        "concerns",
+        "government",
+        "has",
+        "huang",
+        "influence",
+        "intervention",
+        "jensen",
+        "nvidia",
+        "over",
+        "raised",
+        "reinstate",
+        "stake",
+        "trump",
+        "what"
+      ],
+      "source_excerpt": "Trump’s intervention to reinstate Nvidia CEO Jensen Huang has raised concerns over US government influence in business.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/trumps-nvidia-intervention-whats-at-stake?traffic_source=rss",
+          "published_at": "2026-11-24T12:44:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/trumps-nvidia-intervention-whats-at-stake?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/trumps-nvidia-intervention-whats-at-stake?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8df1440355b641b8687ce5aa",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:58:28+00:00",
+      "last_update": "2026-11-24T12:58:28+00:00",
+      "event": "Nurses vote for industrial action over pay",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "action",
+        "and",
+        "ban",
+        "continuous",
+        "december",
+        "for",
+        "from",
+        "includes",
+        "industrial",
+        "nurses",
+        "over",
+        "overtime",
+        "pay",
+        "rule",
+        "short",
+        "strike",
+        "such",
+        "take",
+        "vote",
+        "will",
+        "working"
+      ],
+      "source_excerpt": "Nurses will take continuous action short of strike from 3 December - such action includes working to rule and a ban on overtime.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/crn4kqk07d9ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T12:58:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/crn4kqk07d9ko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/crn4kqk07d9ko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a29c95875dd5980551a3612e",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:57:26+00:00",
+      "last_update": "2026-11-24T12:57:26+00:00",
+      "event": "Wales' largest health board still failing, says report",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "board",
+        "failing",
+        "fundamental",
+        "governance",
+        "health",
+        "its",
+        "largest",
+        "management",
+        "report",
+        "says",
+        "still",
+        "the",
+        "wales",
+        "weaknesses",
+        "with"
+      ],
+      "source_excerpt": "The largest health board in Wales is still failing, with \"fundamental weaknesses\" in its governance and management.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cm62p8y1lz0go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T12:57:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cm62p8y1lz0go?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cm62p8y1lz0go?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6fb349b76246d7df2f9569b8",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T11:55:03+00:00",
+      "last_update": "2026-11-24T11:55:03+00:00",
+      "event": "'Life is not infinite': Princess Catherine in new documentary",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cancer",
+        "catherine",
+        "clip",
+        "confront",
+        "documentary",
+        "from",
+        "has",
+        "heal",
+        "her",
+        "infinite",
+        "life",
+        "made",
+        "new",
+        "not",
+        "own",
+        "princess",
+        "said",
+        "the",
+        "upcoming",
+        "vulnerabilities",
+        "wales"
+      ],
+      "source_excerpt": "The Princess of Wales has said cancer made her confront her own vulnerabilities, in a new clip from her upcoming documentary, Heal.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cqvg2d2gkldpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T11:55:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cqvg2d2gkldpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cqvg2d2gkldpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8ba1c47770a696130fcff97a",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:01:32+00:00",
+      "last_update": "2026-11-24T12:01:32+00:00",
+      "event": "Badger cull ruled out by Welsh government after speculation",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "badger",
+        "bovine",
+        "cull",
+        "cymru",
+        "government",
+        "mass",
+        "ministers",
+        "new",
+        "out",
+        "part",
+        "plaid",
+        "plans",
+        "rule",
+        "ruled",
+        "speculation",
+        "tackle",
+        "tuberculosis",
+        "welsh"
+      ],
+      "source_excerpt": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T12:01:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1270702d3bb2bed0cf305606",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:12:48+00:00",
+      "last_update": "2026-11-24T12:12:48+00:00",
+      "event": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abu",
+        "air",
+        "been",
+        "chief",
+        "city",
+        "for",
+        "gaza",
+        "had",
+        "hamas",
+        "interior",
+        "internal",
+        "israeli",
+        "kills",
+        "ministry",
+        "months",
+        "naeem",
+        "nahel",
+        "only",
+        "position",
+        "says",
+        "security",
+        "strike",
+        "targeted",
+        "the",
+        "two",
+        "was",
+        "western",
+        "who"
+      ],
+      "source_excerpt": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T12:12:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f698dd6e7d8eb9bba351f316",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T11:45:52+00:00",
+      "last_update": "2026-11-24T11:45:52+00:00",
+      "event": "Car bomb tears through Colombian city wounding more than 20",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attacks",
+        "bomb",
+        "buildings",
+        "car",
+        "city",
+        "colombian",
+        "explosion",
+        "forces",
+        "government",
+        "housing",
+        "latest",
+        "more",
+        "offices",
+        "security",
+        "string",
+        "tears",
+        "than",
+        "the",
+        "through",
+        "wounding"
+      ],
+      "source_excerpt": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T11:45:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2734583113dd6c4f027d2631",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:45:43+00:00",
+      "last_update": "2026-11-24T12:45:43+00:00",
+      "event": "Russian governor detained in rare criminal case against regional leader",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "andrei",
+        "case",
+        "chibis",
+        "criminal",
+        "detained",
+        "first",
+        "five",
+        "for",
+        "governor",
+        "head",
+        "leader",
+        "murmansk",
+        "northern",
+        "rare",
+        "region",
+        "regional",
+        "russia",
+        "russian",
+        "the",
+        "years"
+      ],
+      "source_excerpt": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T12:45:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "03f3d81976765397493551f1",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T08:36:06+00:00",
+      "last_update": "2026-11-24T12:11:10+00:00",
+      "event": "پنجاب میں اب ڈالہ کلچر، بدمعاشی، سفارش نہیں، صرف میرٹ چلتا ہے، مریم نواز",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اسکالرشپ",
+        "اور",
+        "بدمعاشی",
+        "بدمعاشی،",
+        "سفارش",
+        "صرف",
+        "صوبے",
+        "مریم",
+        "میرٹ",
+        "میں",
+        "نواز",
+        "نہیں",
+        "نہیں،",
+        "وزیراعلیٰ",
+        "پنجاب",
+        "چلتا",
+        "ڈالہ",
+        "کلچر،",
+        "کہا",
+        "ہونہار",
+        "ہے،",
+        "ہے۔راولپنڈی"
+      ],
+      "source_excerpt": "وزیراعلیٰ پنجاب مریم نواز نے کہا ہے کہ اب صوبے میں ڈالہ کلچر، بدمعاشی اور سفارش نہیں صرف میرٹ چلتا ہے۔راولپنڈی میں ہونہار اسکالرشپ...",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5020904",
+          "published_at": "2026-11-24T08:36:06+00:00"
+        },
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636354",
+          "published_at": "2026-11-24T12:11:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636354",
+        "publisher_url": "https://jang.com.pk/news/1636354",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "85d2b8424ff459a3d7fd50ce",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T12:11:07+00:00",
+      "last_update": "2026-11-24T12:11:07+00:00",
+      "event": "South Korea says Russian jets entered air defence zone",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "dawn",
+        "defence",
+        "entered",
+        "jets",
+        "korea",
+        "russian",
+        "says",
+        "south",
+        "zone"
+      ],
+      "source_excerpt": "South Korea says Russian jets entered air defence zone Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlI2MGFHS2RzbVA2YUNxR0RvX05GNkhWYmZQWmVoU1padF9GRGlmYm9aV05BMDkzTUpjeFJaQ2xyV19oaTNvSFo2dW1BcHpEOFJvZzVYTUN5dk84WlJCa0V1a080emdjR2Fzd1BEUWFxVDBTcGppdk1pbktJSkZsalpNZzVaOUdCaUxYVE5VZjdLZw?oc=5",
+          "published_at": "2026-11-24T12:11:07+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046773/south-korea-says-russian-jets-entered-air-defence-zone",
+          "published_at": "2026-11-24T12:11:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlI2MGFHS2RzbVA2YUNxR0RvX05GNkhWYmZQWmVoU1padF9GRGlmYm9aV05BMDkzTUpjeFJaQ2xyV19oaTNvSFo2dW1BcHpEOFJvZzVYTUN5dk84WlJCa0V1a080emdjR2Fzd1BEUWFxVDBTcGppdk1pbktJSkZsalpNZzVaOUdCaUxYVE5VZjdLZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "946f7091c235af0010802c3e",
+      "remembered_at": "2026-11-24T13:09:55.717779+00:00",
+      "event_date": "2026-11-24T11:43:18+00:00",
+      "last_update": "2026-11-24T11:43:18+00:00",
+      "event": "Lahore, Islamabad announce direct signing",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announce",
+        "direct",
+        "islamabad",
+        "lahore",
+        "signing"
+      ],
+      "source_excerpt": "Lahore, Islamabad announce direct signing",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/lahore-islamabad-announce-direct-signing",
+          "published_at": "2026-11-24T11:43:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/lahore-islamabad-announce-direct-signing",
+        "publisher_url": "https://arynews.tv/lahore-islamabad-announce-direct-signing",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T11:55:00.452084+00:00"
+  "updated_at": "2026-11-24T13:09:55.717779+00:00"
 }
