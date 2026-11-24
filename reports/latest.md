@@ -1,35 +1,35 @@
-# News Hub report - Wed 25 Nov, 12:44 AM PKT
+# News Hub report - Wed 25 Nov, 02:39 AM PKT
 
 ## Collection
-- New items this run: 58 | items in rolling pool: 839
-- Unique story clusters: 673 (duplicates merged: 166)
-- Clusters dropped as already published/queued: 11; unchanged since last analysis: 2
-- Items per outlet: ARY News 8, Al Jazeera 8, Geo News 5, The News International 5, samaa tv 4, Dawn 3, The Verge 2, Engadget 2, Wired 2, Dunya News 1, Dawn Pakistan 1, Dawn Latest 1
+- New items this run: 31 | items in rolling pool: 552
+- Unique story clusters: 467 (duplicates merged: 85)
+- Clusters dropped as already published/queued: 8; unchanged since last analysis: 3
+- Items per outlet: Al Jazeera 6, AP News 5, TechCrunch 4, Geo News 2, The Verge 2, BBC Technology 2, Pakistan Today 2, The Express Tribune 1, News4JAX 1, Engadget 1, Ars Technica 1, NPR 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Muse: Would you let Meta's AI agent run parts of your life? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Huang’s return fails to dispel doubts as Nvidia shares drop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Muse: Would you let Meta's AI agent run parts of your life? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Huang’s return fails to dispel doubts as Nvidia shares drop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump feared Jensen Huang could join China to lead its AI industry if Nvidia didn't take him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Muse: Would you let Meta's AI agent run parts of your life? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Huang’s return fails to dispel doubts as Nvidia shares drop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -42,12 +42,11 @@
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 0 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
+- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
 
 ## Queue status
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
-- [needs_review] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
 - [needs_review] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
 - [needs_review] normal | Gold prices plunge in Pakistan as per-tola rate drops by Rs3,500 | Sat 21 Nov, 08:37 PM PKT
 - [needs_review] normal | US Midterms 2026: What happens before the new Congress takes office? | Sat 21 Nov, 09:06 PM PKT
@@ -66,11 +65,9 @@
 - [needs_review] normal | Kaliningrad-Bound Ship Struck By Drones In Gulf Of Finland | Sun 22 Nov, 12:34 AM PKT
 - [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 12:44 AM PKT
 - [needs_review] normal | UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt | Sun 22 Nov, 12:54 AM PKT
-- [published] normal | EU Proposes Big Tech Tax to Fund Budget | Sun 22 Nov, 01:13 AM PKT
 - [needs_review] normal | Noni Madueke Salvages Draw for Arsenal Against Newcastle | Sun 22 Nov, 01:23 AM PKT
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
 - [needs_review] normal | President Zardari approves five ordinances on KP legislation | Sun 22 Nov, 02:01 AM PKT
-- [published] normal | Israeli strike hits food aid vehicle in Gaza, killing three | Sun 22 Nov, 02:11 AM PKT
 - [needs_review] normal | Jair Bolsonaro Admitted to Intensive Care With Bowel Obstruction | Sun 22 Nov, 02:47 AM PKT
 - [needs_review] normal | Mexico Captures FBI Most Wanted Drug Kingpin in Dramatic Raid | Sun 22 Nov, 02:57 AM PKT
 - [needs_review] normal | Thousands Protest Across Europe Over Soaring Living Costs and Housing | Sun 22 Nov, 03:07 AM PKT
@@ -242,7 +239,7 @@
 - [needs_review] normal | Peshawar CTD operation leaves five terrorists dead, weapons and grenad | Tue 24 Nov, 04:13 PM PKT
 - [needs_review] normal | Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status | Tue 24 Nov, 04:23 PM PKT
 - [published] promo | [YouTube] MAULANA FAZLUR REHMAN BETRAYED? RANA SLAMS MOHSIN NAQVI | Tue 24 Nov, 04:55 PM PKT
-- [queued] promo | [YouTube] KHAWAJA ASIF EXPOSED! THE ANGRY MAN GOES SILENT | Tue 24 Nov, 04:55 PM PKT
+- [published] promo | [YouTube] KHAWAJA ASIF EXPOSED! THE ANGRY MAN GOES SILENT | Tue 24 Nov, 04:55 PM PKT
 - [published] normal | Iraq Orders Takeover of Oilfields in Kurdish-Controlled Areas | Tue 24 Nov, 04:55 PM PKT
 - [needs_review] normal | Woman Receiving British-Era Pension Passes Away at 107 in Sindh | Tue 24 Nov, 05:05 PM PKT
 - [needs_review] normal | Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat | Tue 24 Nov, 05:15 PM PKT
