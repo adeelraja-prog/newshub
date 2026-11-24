@@ -134250,7 +134250,542 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9aae9abc9a3ee9726be3e756",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T00:23:25+00:00",
+      "last_update": "2026-11-24T01:46:50+00:00",
+      "event": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "australian",
+        "bbc",
+        "charles",
+        "elton",
+        "john",
+        "king",
+        "legend",
+        "meldrum",
+        "molly",
+        "music",
+        "pay",
+        "tribute"
+      ],
+      "source_excerpt": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdGZEbUxLQjhnMUJwUWI5QnFDSHJqZFJ2VGNWQzRCY3JSTkxUdjkwQURlNUl6d21aSklaeG53M0hqVC1WdDlIblZfa0NuWExMMC1fV3RodHV2eDg?oc=5",
+          "published_at": "2026-11-24T00:23:25+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjUtNlg3WUVSdGsxczV0VFhpWVl0dEJDNlQtMlc0ZDZrTmZGb3kycGhkdV9hZmlQRmg0YkR6amhaeDVyd1hFeG9BX0xabFBGMW9xT0JadWdaTUttYlY2NVNxbXY1OHoyd1NPb3g3bk1jMzlfNEtQNFA0Q2JjUmFLYWFiUVY?oc=5",
+          "published_at": "2026-11-24T01:46:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdGZEbUxLQjhnMUJwUWI5QnFDSHJqZFJ2VGNWQzRCY3JSTkxUdjkwQURlNUl6d21aSklaeG53M0hqVC1WdDlIblZfa0NuWExMMC1fV3RodHV2eDg?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a1dd24e4851ba3761b324520",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T01:14:05+00:00",
+      "last_update": "2026-11-24T01:40:19+00:00",
+      "event": "Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ali",
+        "astronaut",
+        "become",
+        "country",
+        "dawn",
+        "first",
+        "nov",
+        "pakistan",
+        "set",
+        "space",
+        "zeeshan"
+      ],
+      "source_excerpt": "Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZKbFMzcWlkQmVuYkRadURkSHE0dmxPR0xVdkRZYVFpWHRvSzItRGRtYzBNZ2xxT1U1NlpjWVBuZGNJZHhscVUwRFphM3R1cTlwR0pMdkV4Qk1Kc1FLQVdKemhvM0sxbW4wblF5YmRiLTk3R1FsSlF6Y2pnSGt0QUZ1NWpNVVVvSGtYeE5BTDRJSTAtdnNRYUFZZ3IyUlhwWEVqQ1BZZ3FwWkhLN1hLMjUyTQ?oc=5",
+          "published_at": "2026-11-24T01:14:05+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046714/pakistans-zeeshan-ali-set-to-become-countrys-first-astronaut-in-space-on-nov-25",
+          "published_at": "2026-11-24T01:40:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZKbFMzcWlkQmVuYkRadURkSHE0dmxPR0xVdkRZYVFpWHRvSzItRGRtYzBNZ2xxT1U1NlpjWVBuZGNJZHhscVUwRFphM3R1cTlwR0pMdkV4Qk1Kc1FLQVdKemhvM0sxbW4wblF5YmRiLTk3R1FsSlF6Y2pnSGt0QUZ1NWpNVVVvSGtYeE5BTDRJSTAtdnNRYUFZZ3IyUlhwWEVqQ1BZZ3FwWkhLN1hLMjUyTQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ad883ec7d1a8eaecdbd58374",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T01:32:12+00:00",
+      "last_update": "2026-11-24T01:32:12+00:00",
+      "event": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "between",
+        "deescalating",
+        "iran",
+        "looks",
+        "meeting",
+        "minister",
+        "prime",
+        "qatar",
+        "revive",
+        "rubio",
+        "says",
+        "talks",
+        "tensions",
+        "the",
+        "towards",
+        "working"
+      ],
+      "source_excerpt": "Qatar’s Prime Minister says he’s working towards deescalating tensions between Iran and the US.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+          "published_at": "2026-11-24T01:32:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4d0d39f5e8e04003658ac7aa",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T01:17:48+00:00",
+      "last_update": "2026-11-24T01:17:48+00:00",
+      "event": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appeals",
+        "argue",
+        "bid",
+        "case",
+        "clear",
+        "could",
+        "court",
+        "evidence",
+        "federal",
+        "for",
+        "hush",
+        "immunity",
+        "jurisdiction",
+        "money",
+        "presidential",
+        "prosecutors",
+        "protected",
+        "relied",
+        "renews",
+        "ruling",
+        "the",
+        "trump",
+        "way"
+      ],
+      "source_excerpt": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+          "published_at": "2026-11-24T01:17:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "08dd6b2e15cff0f9953f55a3",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T01:09:51+00:00",
+      "last_update": "2026-11-24T01:09:51+00:00",
+      "event": "Israeli minister approves return of Flydubai flights",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "approval",
+        "approves",
+        "authorities",
+        "aviv",
+        "between",
+        "carrier",
+        "depends",
+        "dubai",
+        "final",
+        "flights",
+        "flydubai",
+        "israeli",
+        "minister",
+        "resumption",
+        "return",
+        "route",
+        "security",
+        "tel"
+      ],
+      "source_excerpt": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+          "published_at": "2026-11-24T01:09:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1544f134bca2def1e6bf0314",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T01:06:00+00:00",
+      "last_update": "2026-11-24T01:06:00+00:00",
+      "event": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bukele",
+        "comes",
+        "deaths",
+        "details",
+        "four",
+        "gangs",
+        "haiti",
+        "intervention",
+        "kidnapped",
+        "military",
+        "october",
+        "salvadoran",
+        "shares",
+        "technicians",
+        "troops",
+        "were"
+      ],
+      "source_excerpt": "Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+          "published_at": "2026-11-24T01:06:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eb0abc9d413781473e5686ca",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T00:39:22+00:00",
+      "last_update": "2026-11-24T00:39:22+00:00",
+      "event": "What could Democrats do with their expanding congressional majority?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "best",
+        "congressional",
+        "could",
+        "debating",
+        "democratic",
+        "democrats",
+        "elections",
+        "expanding",
+        "how",
+        "its",
+        "large",
+        "majority",
+        "margin",
+        "midterm",
+        "party",
+        "the",
+        "their",
+        "use",
+        "victory",
+        "what",
+        "with"
+      ],
+      "source_excerpt": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
+          "published_at": "2026-11-24T00:39:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6c7875010c9288712ccd93dd",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T00:35:58+00:00",
+      "last_update": "2026-11-24T00:35:58+00:00",
+      "event": "Turns out it wasn’t a lion afterall",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afterall",
+        "animal",
+        "because",
+        "istanbul",
+        "lion",
+        "not",
+        "out",
+        "panic",
+        "people",
+        "sparked",
+        "sunday",
+        "that",
+        "the",
+        "thought",
+        "turns",
+        "was",
+        "wasn"
+      ],
+      "source_excerpt": "The animal that sparked panic in Istanbul on Sunday because people thought it was a lion, was not a lion afterall.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss",
+          "published_at": "2026-11-24T00:35:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "10e85cc81dcc2c75d7beffa1",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T01:45:19+00:00",
+      "last_update": "2026-11-24T01:45:19+00:00",
+      "event": "Journalists protest closure of media offices in Balochistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "balochistan",
+        "closure",
+        "dawn",
+        "journalists",
+        "media",
+        "offices",
+        "protest"
+      ],
+      "source_excerpt": "Journalists protest closure of media offices in Balochistan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaU0zTVZhYm1sRFVLVnZiS3hGcEVwemlhUnprVXI0NGVqYWV5Q2FDWS1OZTgyWVJPV0d1Szg1N1VITm1sdXlqaG1rU2tTeFN2N3EtaXhWb05aS0Z2d29tVGRIam5wRGdQdGkwRVBQdFp3b1NOSmpFbE8tNmpRMFl6N01FVUF2TW9JX2lCaDB2UVhSbUNqRHhoYQ?oc=5",
+          "published_at": "2026-11-24T01:45:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaU0zTVZhYm1sRFVLVnZiS3hGcEVwemlhUnprVXI0NGVqYWV5Q2FDWS1OZTgyWVJPV0d1Szg1N1VITm1sdXlqaG1rU2tTeFN2N3EtaXhWb05aS0Z2d29tVGRIam5wRGdQdGkwRVBQdFp3b1NOSmpFbE8tNmpRMFl6N01FVUF2TW9JX2lCaDB2UVhSbUNqRHhoYQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4399ca5b9a0de45ea145cc0d",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T01:45:19+00:00",
+      "last_update": "2026-11-24T01:45:19+00:00",
+      "event": "Pakistan, Malaysia reaffirm commitment to strengthening defence ties",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "commitment",
+        "dawn",
+        "defence",
+        "malaysia",
+        "pakistan",
+        "reaffirm",
+        "strengthening",
+        "ties"
+      ],
+      "source_excerpt": "Pakistan, Malaysia reaffirm commitment to strengthening defence ties Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYm00TlpyeW1ZUkhDN0dlOVJyVU0wUHduNHh5c1NtX2FoX0F6b0E2OUFyQlBIdlprMkpuekhlZkxFQzVlZFU2LVIxamdxYVFXcm5fbmhMaEZzdGVzbk92bFhfOG1UTDJZSUZvOTJZdGJHSldaMlF1Yzc2NVJPOUxTdERBaEdDd29SeVZGaEJxaUliU0VmdTZNcmR3TjN2UldQZHdN?oc=5",
+          "published_at": "2026-11-24T01:45:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYm00TlpyeW1ZUkhDN0dlOVJyVU0wUHduNHh5c1NtX2FoX0F6b0E2OUFyQlBIdlprMkpuekhlZkxFQzVlZFU2LVIxamdxYVFXcm5fbmhMaEZzdGVzbk92bFhfOG1UTDJZSUZvOTJZdGJHSldaMlF1Yzc2NVJPOUxTdERBaEdDd29SeVZGaEJxaUliU0VmdTZNcmR3TjN2UldQZHdN?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "befd18f89ec38de7f6ec52f3",
+      "remembered_at": "2026-11-24T01:53:21.257010+00:00",
+      "event_date": "2026-11-24T01:45:19+00:00",
+      "last_update": "2026-11-24T01:45:19+00:00",
+      "event": "Islamabad hosts meeting of IAEA nuclear security network",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "hosts",
+        "iaea",
+        "islamabad",
+        "meeting",
+        "network",
+        "nuclear",
+        "security"
+      ],
+      "source_excerpt": "Islamabad hosts meeting of IAEA nuclear security network Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQejZfNVVuVDFlZTVxVzVGVHd2Y0RLSDV5MFV4QzljTGtWeW5rV1JRYnJhZVM4c0JaTVVhUUxQS3dXRUwyYWpMczEtRjZfekNxWDZXVFBDcFhoSTYwOW16UEpyT3oxNk95UWRFWnpTVEcwMTlVdUtwZlAxVjdTWDUwdFNJOUNZZEtIcFVsdV9kWGdXXzE5?oc=5",
+          "published_at": "2026-11-24T01:45:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQejZfNVVuVDFlZTVxVzVGVHd2Y0RLSDV5MFV4QzljTGtWeW5rV1JRYnJhZVM4c0JaTVVhUUxQS3dXRUwyYWpMczEtRjZfekNxWDZXVFBDcFhoSTYwOW16UEpyT3oxNk95UWRFWnpTVEcwMTlVdUtwZlAxVjdTWDUwdFNJOUNZZEtIcFVsdV9kWGdXXzE5?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T00:30:04.393545+00:00"
+  "updated_at": "2026-11-24T01:53:21.257010+00:00"
 }

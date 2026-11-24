@@ -1,35 +1,35 @@
-# News Hub report - Tue 24 Nov, 05:30 AM PKT
+# News Hub report - Tue 24 Nov, 06:53 AM PKT
 
 ## Collection
-- New items this run: 15 | items in rolling pool: 326
-- Unique story clusters: 271 (duplicates merged: 55)
-- Clusters dropped as already published/queued: 7; unchanged since last analysis: 8
-- Items per outlet: Al Jazeera 5, samaa tv 1, The News International 1, Geo News 1, The Express Tribune 1, The Verge 1, BBC Health 1, BBC Business 1, Business Recorder 1, Traders Union 1, The Fiscal Times 1
+- New items this run: 67 | items in rolling pool: 290
+- Unique story clusters: 241 (duplicates merged: 49)
+- Clusters dropped as already published/queued: 9; unchanged since last analysis: 10
+- Items per outlet: Dawn 42, Al Jazeera 7, Engadget 2, The Japan Times 2, WIBW 2, The News International 1, Dawn Latest 1, Geo News 1, Jang Urdu 1, The Express Tribune 1, Wired 1, GSMArena 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Brentford hit Everton for four to soar into Premier League top six | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US to blacklist Asian AI firm Megaspeed after Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- King Charles and Elton John pay tribute to Australian music legend Molly Meldrum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Borno school enrolment nearly doubles after years of conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Brentford hit Everton for four to soar into Premier League top six | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US to blacklist Asian AI firm Megaspeed after Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- King Charles and Elton John pay tribute to Australian music legend Molly Meldrum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Borno school enrolment nearly doubles after years of conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli strikes kill at least three, including UNRWA worker, in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Brentford hit Everton for four to soar into Premier League top six | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cyberleek releases missing GTA 6 Xbox executable file for PC modding teams | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US to blacklist Asian AI firm Megaspeed after Nvidia scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- King Charles and Elton John pay tribute to Australian music legend Molly Meldrum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan’s Zeeshan Ali set to become country’s first astronaut in space on Nov 25 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Borno school enrolment nearly doubles after years of conflict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,112 +39,111 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value  [NORMAL]
-- Poster: ینسن ہوانگ کی بطور این ویڈیا سی ای او واپسی، کمپنی کی قدر میں ایک ٹریلین ڈالر کا اضافہ / Jensen Huang returns as Nvidia CEO, adding $1 trillion | category tech
-- Alternative headline: Jensen Huang reinstated as Nvidia CEO after affair with alleged spy
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692344-jensen-huangs-return-as-nvidia-ceo-adds-1-trillion-to-companys-value | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692344-jensen-huangs-return-as-nvidia-ceo-adds-1-trillion-to-companys-value
-- Supporting coverage: The Current, Geo News, Wired, TechCrunch, Al Jazeera, The Verge
-- Keywords: Jensen Huang, Nvidia, CEO, shares, market value, tech | hashtags: #Nvidia #JensenHuang #TechNews #StockMarket #Business
-- Scheduled: Tue 24 Nov, 05:30 AM PKT
-- Caption:
-```
-Nvidia's market value surged by over $1 trillion after the board reinstated Jensen Huang as CEO following a brief controversy.
-
-Nvidia's value increased by more than $1 trillion after the board approved the reinstatement of Jensen Huang as CEO, president, and Board chair. Shares jumped 33% to reach $167.56, bringing the total valuation to $4.03 trillion following previous declines due to an espionage controversy.
-
-بورڈ کی جانب سے ینسن ہوانگ کو دوبارہ چیف ایگزیکٹو آفیسر مقرر کرنے کے بعد این ویڈیا کی مالیت میں ایک ٹریلین ڈالر سے زائد کا اضافہ ہوگیا ہے۔ حصص کی قیمتوں میں 33 فیصد تیزی کے بعد کمپنی کی کل مالیت 4.03 ٹریلین ڈالر تک پہنچ گئی ہے۔
-
-First reported by Geo News
-
-#Nvidia #JensenHuang #TechNews #StockMarket #Business
-```
-
-### Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return  [NORMAL]
-- Poster: ینسن ہوانگ کی واپسی کے بعد وال اسٹریٹ میں شاندار بحالی، این ویڈیا کے حصص میں 31.5 فیصد اضافہ / Wall Street recovers as Nvidia shares soar 31.5% | category economy
-- Alternative headline: What Nvidia’s Jensen Huang’s return means for Washington and Wall Street
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692380-wall-st-stages-sharp-recovery-as-nvidia-shares-soar-315-after-jensen-huangs-return | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692380-wall-st-stages-sharp-recovery-as-nvidia-shares-soar-315-after-jensen-huangs-return
-- Supporting coverage: Geo News, Geo News, Al Jazeera
-- Keywords: Wall Street, Nvidia, Jensen Huang, stocks, Nasdaq, recovery | hashtags: #WallStreet #Nvidia #StockMarket #Economy #USStocks
-- Scheduled: Tue 24 Nov, 05:40 AM PKT
-- Caption:
-```
-US stocks staged a sharp recovery on Monday, led by a massive surge in Nvidia shares following Jensen Huang's reinstatement.
-
-US stocks staged a sharp recovery as technology shares led a strong rally. Nvidia surged 31.5%, adding over $900 billion to its market value after Jensen Huang returned as CEO, helping reverse heavy losses from the previous week.
-
-امریکی اسٹاک مارکیٹ میں شاندار بحالی دیکھی گئی جہاں ٹیکنالوجی کے حصص میں زبردست تیزی آئی۔ ینسن ہوانگ کی بطور سی ای او واپسی کے بعد این ویڈیا کے حصص میں 31.5 فیصد اضافہ ہوا جس سے کمپنی کی مارکیٹ ویلیو میں 900 ارب ڈالر سے زائد کا اضافہ ہوا۔
-
-First reported by Geo News
-
-#WallStreet #Nvidia #StockMarket #Economy #USStocks
-```
-
-### Israeli strikes kill at least three, including UNRWA worker, in Gaza  [NORMAL]
-- Poster: غزہ میں اسرائیلی حملوں میں یو این آر ڈبلیو اے کے کارکن سمیت کم از کم تین افراد جاں بحق / Israeli strikes kill three, including UNRWA worker, in Gaza | category war
-- Alternative headline: Israeli strikes kill at least four Palestinians in Gaza, including UNRWA employee
+### Trump Demands Immediate Expedited Federal Executions While Blasting Gavin Newsom  [NORMAL]
+- Poster: ٹرمپ کا وفاقی سزائے موت پر فوری عملدرآمد کا مطالبہ / Trump Calls to Expedite Federal Executions | category us_politics
+- Alternative headline: Trump Slams California Governor Gavin Newsom Over Commuted Death Sentences
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss
-- Supporting coverage: Al Jazeera, Ahram Online
-- Keywords: Gaza, Israel, UNRWA, strikes, casualties, Palestine | hashtags: #Gaza #Israel #UNRWA #Palestine #BreakingNews
-- Scheduled: Tue 24 Nov, 05:50 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: federal executions, Trump, Gavin Newsom, death sentences, California, US politics | hashtags: #Trump #GavinNewsom #DeathPenalty #USPolitics #AlJazeera
+- Scheduled: Tue 24 Nov, 06:53 AM PKT
 - Caption:
 ```
-Israeli military attacks across the Gaza enclave continue to claim lives, including aid agency personnel.
+US President Donald Trump has strongly criticized California Governor Gavin Newsom, demanding an expedited process for federal executions following recent commutations.
 
-Israeli strikes across the Gaza enclave have resulted in the deaths of at least three people, including an employee of the United Nations Relief and Works Agency (UNRWA), despite ongoing conflict and previous ceasefire arrangements.
+US President Donald Trump used a public podium to strongly criticize California Governor Gavin Newsom. The sharp rebuke follows Newsom's decision to commute 548 death sentences, prompting Trump to call for an immediate push to expedite US federal executions.
 
-غزہ میں جاری اسرائیلی حملوں کے نتیجے میں اقوام متحدہ کے امدادی ادارے یو این آر ڈبلیو اے کے ایک کارکن سمیت کم از کم تین افراد جاں بحق ہو گئے ہیں۔
+امریکہ کے صدر ڈونلڈ جے ٹرمپ نے کیلیفورنیا کے گورنر گیون نیوسم کو کڑی تنقید کا نشانہ بنایا ہے۔ یہ بیان گورنر کی طرف سے 548 سزائے موت کے فیصلوں کو تبدیل کرنے کے فیصلے کے بعد سامنے آیا ہے، جس پر ٹرمپ نے وفاقی سزائے موت پر فوری عمل درآمد کا مطالبہ کیا ہے۔
 
-First reported by Al Jazeera
+According to a report by Al Jazeera.
 
-#Gaza #Israel #UNRWA #Palestine #BreakingNews
+#Trump #GavinNewsom #DeathPenalty #USPolitics #AlJazeera
 ```
 
-### Brentford hit Everton for four to soar into Premier League top six  [NORMAL]
-- Poster: برینٹفورڈ نے ایورٹن کو چار گول سے شکست دے کر پریمیئر لیگ کے ٹاپ سکس میں جگہ بنالی / Brentford beats Everton 4-0 to enter Premier League top six | category sports
-- Alternative headline: Brentford defeats 10-man Everton 4-0 in Premier League clash
+### US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia Scandal  [NORMAL]
+- Poster: امریکہ کا سنگاپور کی اے آئی فرم میگاسپیڈ کو بلیک لسٹ کرنے کا اعلان / US to Blacklist AI Firm Megaspeed | category tech_ai
+- Alternative headline: Megaspeed Faces US Export Control List Entry Over Nvidia Allegations
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology, Al Jazeera
+- Keywords: Megaspeed, Nvidia, US Department of Commerce, AI chips, Alice Huang, export control | hashtags: #Megaspeed #Nvidia #ArtificialIntelligence #USCommerce #TechNews
+- Scheduled: Tue 24 Nov, 07:03 AM PKT
+- Caption:
+```
+The US Department of Commerce plans to ban Singaporean AI firm Megaspeed from American business transactions amid security concerns linked to Nvidia.
+
+The United States has announced plans to ban Singaporean artificial intelligence company Megaspeed from conducting business in America. The Department of Commerce intends to add the firm to its export control list following scrutiny over advanced AI computer chips and former executive Alice Huang.
+
+امریکہ نے سنگاپور سے تعلق رکھنے والی مصنوعی ذہانت کی فرم میگاسپیڈ پر امریکی کاروبار کرنے پر پابندی لگانے کا ارادہ ظاہر کیا ہے۔ محکمہ تجارت نے این ویڈیا کے چپ اسکینڈل اور سابق ایگزیکٹو سے جڑے خدشات کے بعد کمپنی کو بلیک لسٹ کرنے کا اعلان کیا ہے۔
+
+First reported by BBC Technology; also reported by Al Jazeera.
+
+#Megaspeed #Nvidia #ArtificialIntelligence #USCommerce #TechNews
+```
+
+### King Charles and Elton John Pay Tribute to Late Australian Music Legend Molly Meldrum  [NORMAL]
+- Poster: کنگ چارلس اور ایلٹن جان کی آسٹریلوی موسیقار مولی میلڈرم کو خراج تحسین / Tributes to Molly Meldrum | category other
+- Alternative headline: Tributes Pour In From King Charles and Elton John for Molly Meldrum
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdGZEbUxLQjhnMUJwUWI5QnFDSHJqZFJ2VGNWQzRCY3JSTkxUdjkwQURlNUl6d21aSklaeG53M0hqVC1WdDlIblZfa0NuWExMMC1fV3RodHV2eDg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdGZEbUxLQjhnMUJwUWI5QnFDSHJqZFJ2VGNWQzRCY3JSTkxUdjkwQURlNUl6d21aSklaeG53M0hqVC1WdDlIblZfa0NuWExMMC1fV3RodHV2eDg?oc=5
+- Supporting coverage: BBC, Dawn
+- Keywords: Molly Meldrum, King Charles, Elton John, Australia, music legend, tribute | hashtags: #MollyMeldrum #KingCharles #EltonJohn #MusicLegend #BBC
+- Scheduled: Tue 24 Nov, 07:13 AM PKT
+- Caption:
+```
+King Charles and music icon Elton John have led global tributes following the passing of renowned Australian music legend Molly Meldrum.
+
+King Charles and music superstar Elton John have paid glowing tributes to legendary Australian music promoter and icon Molly Meldrum following his passing. The prominent figure left a lasting legacy in the Australian music industry, drawing condolences from global personalities.
+
+برطانوی بادشاہ کنگ چارلس اور معروف موسیقار ایلٹن جان نے آسٹریلیا کے لیجنڈری میوزک پرموٹر مولی میلڈرم کے انتقال پر گہرے دکھ اور خراج تحسین کا اظہار کیا ہے۔ مولی میلڈرم نے آسٹریلوی موسیقی کی صنعت میں گہرے نقوش چھوڑے۔
+
+First reported by BBC.
+
+#MollyMeldrum #KingCharles #EltonJohn #MusicLegend #BBC
+```
+
+### Zeeshan Ali Set to Become Pakistan's First Astronaut in Space  [NORMAL]
+- Poster: ذیشان علی خلا میں جانے والے پہلے پاکستانی خلاء نورد بن گئے / Pakistan's First Astronaut in Space | category science
+- Alternative headline: Historic Milestone: Zeeshan Ali Ready to Fly as Pakistan's First Space Traveler
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046713/brentford-hit-everton-for-four-to-soar-into-premier-league-top-six | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046713/brentford-hit-everton-for-four-to-soar-into-premier-league-top-six
-- Supporting coverage: Dawn Latest
-- Keywords: Brentford, Everton, Premier League, Keane Lewis-Potter, football | hashtags: #Brentford #Everton #PremierLeague #Football #BFCVSH
-- Scheduled: Tue 24 Nov, 06:00 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZKbFMzcWlkQmVuYkRadURkSHE0dmxPR0xVdkRZYVFpWHRvSzItRGRtYzBNZ2xxT1U1NlpjWVBuZGNJZHhscVUwRFphM3R1cTlwR0pMdkV4Qk1Kc1FLQVdKemhvM0sxbW4wblF5YmRiLTk3R1FsSlF6Y2pnSGt0QUZ1NWpNVVVvSGtYeE5BTDRJSTAtdnNRYUFZZ3IyUlhwWEVqQ1BZZ3FwWkhLN1hLMjUyTQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZKbFMzcWlkQmVuYkRadURkSHE0dmxPR0xVdkRZYVFpWHRvSzItRGRtYzBNZ2xxT1U1NlpjWVBuZGNJZHhscVUwRFphM3R1cTlwR0pMdkV4Qk1Kc1FLQVdKemhvM0sxbW4wblF5YmRiLTk3R1FsSlF6Y2pnSGt0QUZ1NWpNVVVvSGtYeE5BTDRJSTAtdnNRYUFZZ3IyUlhwWEVqQ1BZZ3FwWkhLN1hLMjUyTQ?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Zeeshan Ali, Pakistan astronaut, space mission, first astronaut, Dawn, space travel | hashtags: #ZeeshanAli #PakistanInSpace #FirstPakistaniAstronaut #SpaceMission #Dawn
+- Scheduled: Tue 24 Nov, 07:23 AM PKT
 - Caption:
 ```
-Keane Lewis-Potter starred as Brentford secured a dominant 4-0 victory over 10-man Everton to break into the top six.
+History is in the making as Zeeshan Ali prepares to become Pakistan's very first astronaut to travel into space.
 
-Keane Lewis-Potter scored twice as Brentford defeated 10-man Everton 4-0 to climb into the Premier League's top six. Everton played with a man down after James Tarkowski's red card, while Vitaly Janelt and Fabio Carvalho also scored for Brentford.
+Zeeshan Ali is set to make history by becoming Pakistan's first astronaut to travel into space. The landmark mission marks a monumental achievement for the country's space aspirations, capturing national and international attention.
 
-کین لیوس پوٹر کے دو گول کی بدولت برینٹفورڈ نے 10 کھلاڑیوں پر مشتمل ایورٹن کو 4-0 سے شکست دے کر پریمیئر لیگ کے ٹاپ سکس میں جگہ بنا لی ہے۔ میچ کے دوران ایورٹن کے کپتان کو ریڈ کارڈ ملا جبکہ برینٹفورڈ کی جانب سے دیگر گول ویٹالی اور فابیو نے اسکور کیے۔
+ذیشان علی خلا میں جانے والے پاکستان کے پہلے خلاباز بن کر تاریخ رقم کرنے جا رہے ہیں۔ یہ تاریخی مشن ملک کے خلائی سفر کی تاریخ میں ایک سنگ میل کی حیثیت رکھتا ہے جس نے ملک بھر میں خوشی کی لہر دوڑا دی ہے۔
 
-First reported by Dawn Latest
+First reported by Dawn.
 
-#Brentford #Everton #PremierLeague #Football #BFCVSH
+#ZeeshanAli #PakistanInSpace #FirstPakistaniAstronaut #SpaceMission #Dawn
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 3
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 6
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [needs_review] normal | Youth-Led Strikes Sweep Across Europe Amid Protests Over Living Costs  | Sat 21 Nov, 12:12 AM PKT
 - [needs_review] normal | Indian Man Sentenced to Over 19 Years in US Assassination Plot | Sat 21 Nov, 12:56 AM PKT
 - [needs_review] normal | Pakistan Faced 9.4 Million Cyberattacks in a Single Year, Kaspersky Re | Sat 21 Nov, 01:06 AM PKT
 - [needs_review] normal | New York City Plans to Close Notorious Rikers Island by 2032 | Sat 21 Nov, 01:16 AM PKT
@@ -166,7 +165,6 @@ First reported by Dawn Latest
 - [needs_review] normal | Saudi Coalition Intercepts Three Houthi Missiles as Riyadh Triggers Em | Sat 21 Nov, 06:25 AM PKT
 - [needs_review] normal | Nepal's Prime Minister Targets Trade and Connectivity in Crucial India | Sat 21 Nov, 06:35 AM PKT
 - [needs_review] normal | Boat Carrying Mourners to Funeral Capsizes in Nigeria, Killing at Leas | Sat 21 Nov, 06:45 AM PKT
-- [published] normal | Can Generative AI Actually Help Shoppers Spot Real Black Friday Deals? | Sat 21 Nov, 06:55 AM PKT
 - [needs_review] normal | ANC fights to keep control of South Africa's key cities after election | Sat 21 Nov, 07:28 AM PKT
 - [needs_review] normal | Mauricio Pochettino takes charge of Manchester United ahead of Liverpo | Sat 21 Nov, 07:38 AM PKT
 - [needs_review] normal | Exploring modern technological innovations from AI early warnings to s | Sat 21 Nov, 07:48 AM PKT
@@ -361,16 +359,24 @@ First reported by Dawn Latest
 - [needs_review] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
 - [published] promo | [YouTube] RANA SANAULLAH BLASTS MOHSIN NAQVI | IMRAN KHAN HEALTH CRISI | Tue 24 Nov, 01:35 AM PKT
 - [published] normal | Jensen Huang's return as Nvidia CEO adds $1 trillion to company's valu | Tue 24 Nov, 05:30 AM PKT
-- [queued] normal | Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen | Tue 24 Nov, 05:40 AM PKT
+- [published] normal | Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen | Tue 24 Nov, 05:40 AM PKT
 - [queued] normal | Israeli strikes kill at least three, including UNRWA worker, in Gaza | Tue 24 Nov, 05:50 AM PKT
 - [queued] normal | Brentford hit Everton for four to soar into Premier League top six | Tue 24 Nov, 06:00 AM PKT
+- [queued] normal | Trump Demands Immediate Expedited Federal Executions While Blasting Ga | Tue 24 Nov, 06:53 AM PKT
+- [queued] normal | US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia S | Tue 24 Nov, 07:03 AM PKT
+- [queued] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
+- [queued] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
 
 ## Publishing this run
-- Published 'Jensen Huang's return as Nvidia CEO adds $1 trillion to company's value'.
+- Published 'Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen Huang's return'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 5693 | output tokens: 2539
-- Errors: 1
+- Calls: 3 | prompt tokens: 4815 | output tokens: 2842
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
