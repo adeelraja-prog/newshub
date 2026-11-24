@@ -139678,7 +139678,925 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "69864ab9ded0310e59586f8d",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T09:06:25+00:00",
+      "last_update": "2026-11-24T11:42:29+00:00",
+      "event": "Woman receiving British-era pension dies at 107 in Jhudo",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "107",
+        "british",
+        "dies",
+        "era",
+        "jhudo",
+        "pension",
+        "receiving",
+        "woman"
+      ],
+      "source_excerpt": "Woman receiving British-era pension dies at 107 in Jhudo",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/woman-receiving-british-era-pension-dies-at-107-in-jhudo",
+          "published_at": "2026-11-24T09:06:25+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/woman-receiving-british-era-pension-dies-in-sindh-at-107/",
+          "published_at": "2026-11-24T11:42:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/woman-receiving-british-era-pension-dies-at-107-in-jhudo",
+        "publisher_url": "https://arynews.tv/woman-receiving-british-era-pension-dies-at-107-in-jhudo",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b1556e5fb4e2575a6e6adc08",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T05:18:19+00:00",
+      "last_update": "2026-11-24T10:48:53+00:00",
+      "event": "Oil holds near three-month low as rising supply offsets Hormuz threat",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "holds",
+        "hormuz",
+        "low",
+        "month",
+        "near",
+        "offsets",
+        "oil",
+        "rising",
+        "supply",
+        "threat",
+        "three"
+      ],
+      "source_excerpt": "Oil holds near three-month low as rising supply offsets Hormuz threat",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/oil-holds-near-three-month-low-as-rising-supply-offsets-hormuz-threat",
+          "published_at": "2026-11-24T05:18:19+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUdmbzZndGZUc3ZOUjBzLTRLR2FpVVJsT2RGQTd0eWFqanNKTVdDS3RfdnNaSDNTUTkybV9Xcjltd2FLNFhzc3ZtSXk2LWxjTzE1WERTTWpVcHduY0lwTzctVVFQVHFDdjFoTEttN1ViZWwwSVUwaHdJX20yU1BZOHhGb0NGVG42UEQ2NWFkMldyeDI2N3VoN19NYVFmdllOVnhZ?oc=5",
+          "published_at": "2026-11-24T10:48:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/oil-holds-near-three-month-low-as-rising-supply-offsets-hormuz-threat",
+        "publisher_url": "https://arynews.tv/oil-holds-near-three-month-low-as-rising-supply-offsets-hormuz-threat",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f33dab01edad3b548076568c",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T10:55:57+00:00",
+      "last_update": "2026-11-24T11:48:49+00:00",
+      "event": "Road closures around Karachi’s PIDC junction cause traffic congestion",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "around",
+        "cause",
+        "closures",
+        "congestion",
+        "dawn",
+        "junction",
+        "karachi",
+        "pidc",
+        "road",
+        "traffic"
+      ],
+      "source_excerpt": "Road closures around Karachi’s PIDC junction cause traffic congestion Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzN5ZURLRXl4d0lvZWJnci1jaWFUSWM4T0RVZkRtN25OeFJSdnF3OVYwQ2ZEVWhySDdTVjNhUWYzZ1BQWFBDSUxYVFJXVFB0R2t3Sm5vdHkyNngzQzNJaUw4ZlUyVmV1YjR6T1gyUGYzV2RTMEFtVFpxeV9DVW1MTFpmYmlUU0o0VUpMbFhiXzlqeGtaS0g0eWE3Y3k1eDVMYmZJdg?oc=5",
+          "published_at": "2026-11-24T10:55:57+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046766/road-closures-around-karachis-pidc-junction-cause-traffic-congestion",
+          "published_at": "2026-11-24T11:48:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzN5ZURLRXl4d0lvZWJnci1jaWFUSWM4T0RVZkRtN25OeFJSdnF3OVYwQ2ZEVWhySDdTVjNhUWYzZ1BQWFBDSUxYVFJXVFB0R2t3Sm5vdHkyNngzQzNJaUw4ZlUyVmV1YjR6T1gyUGYzV2RTMEFtVFpxeV9DVW1MTFpmYmlUU0o0VUpMbFhiXzlqeGtaS0g0eWE3Y3k1eDVMYmZJdg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "adcf482310b6a48e01b4eb63",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T09:51:26+00:00",
+      "last_update": "2026-11-24T11:28:02+00:00",
+      "event": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "apartment",
+        "attack",
+        "building",
+        "damaged",
+        "days",
+        "destroyed",
+        "five",
+        "house",
+        "kills",
+        "libya",
+        "off",
+        "officials",
+        "russian",
+        "said",
+        "ship",
+        "storey",
+        "strike",
+        "two",
+        "ukraine",
+        "ukrainian",
+        "zaporizhzhia"
+      ],
+      "source_excerpt": "Russian attack on Zaporizhzhia destroyed a house and damaged a five-storey apartment building, Ukrainian officials said.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+          "published_at": "2026-11-24T09:51:26+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhQTzZUNTFmWlZvRU9kMmJPRXUyYjVlM3V1Y0Q5SU1DbGRMdWJWdS1ZazhfQnNlanI2T3dDbDJhNkltZmNSUF9nSkFHX3JBOXdIYnFhMjdvM2NjTDhZQTVMUktTTVh6ODE1SDJ1b0xGTG1EU0huWnhSYWwwWEhLWnJwMER3ZGhsalE5ajk3WVBCTHhvcERySGFPazhnd0nSAaQBQVVfeXFMTjAyLVJYTzNEWkVPLTctVnk2Znl5TEJQaF9WSUhmNjVvSXg4UUdKS1JZc05RZE1JVlVIVkl4aVJxT0NuY1pFOUIyQ05YVG9zMHNISzd6NWRqeGZmLVg3VkxFNGlBWThZM2hlYmxuTmxTaW1MZGZsNFVZQl9tOTRjLXMwcERzTDBDd2JIdlViRlM5TWpZU1pmUGVJa1RpN25KYVhVQ3k?oc=5",
+          "published_at": "2026-11-24T09:56:15+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
+          "published_at": "2026-11-24T11:27:35+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSk85RXFLazAzd0N4clEzTXBnaVhFVUF4VG9MRlFfSHVuLW02RFNlaENvQzM5OVF1a0FrUEdQUk1PU0dRbUZEbjhqSHpULUJtdzRBTWlubm9ZTWpFYklDZ2VxdXlBR2lfMVlmZ2xQaGt1aC1Tdlo4RTVXUmFBdzRhLUxvNmY2S3hvSW05SjN1aW9jV1A4SXMxaEpuNU1BcURXbnRHVURJM1c0V1dsQVg5aTZaRdIBuAFBVV95cUxOWnc3X1o3VExtU3dOaTMxb0F4MERlaWhhSVoydVdJM1FoN2xDOFMxSHBPa1MzeEcxN29KSlMtaTI0N3NwSnpGVnZ6WFlZR1JWSEZxUEd4dEpwN0I5bzFLNVhjaWo2ZkhaRkwwcml4RDFLdlp1YWJfeFlWU0p1aE5wVHBvb3dOTEdWRzdIOEVnV0JWY1lYdndzSkpZRlNELU5ORmJiczVPSy10SENrcC10Y0dfRmJtRXBZ?oc=5",
+          "published_at": "2026-11-24T11:28:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "90dc4c01e57b904aabb5400e",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T11:30:07+00:00",
+      "last_update": "2026-11-24T11:30:07+00:00",
+      "event": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "american",
+        "and",
+        "budget",
+        "despite",
+        "eighth",
+        "failing",
+        "front",
+        "hasbara",
+        "hearts",
+        "influence",
+        "israel",
+        "its",
+        "losing",
+        "making",
+        "may",
+        "minds",
+        "quadrupling",
+        "the",
+        "war",
+        "why",
+        "worse"
+      ],
+      "source_excerpt": "Despite quadrupling its hasbara budget, Israel is losing American hearts and minds, and its PR may be making it worse.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
+          "published_at": "2026-11-24T11:30:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "efbf58fdbb844fa1caf525c3",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T11:19:04+00:00",
+      "last_update": "2026-11-24T11:19:04+00:00",
+      "event": "Iraq orders takeover of oilfields in areas under Kurdish control",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "ali",
+        "all",
+        "also",
+        "areas",
+        "control",
+        "crossings",
+        "government",
+        "his",
+        "inquiry",
+        "iraq",
+        "kurdish",
+        "oil",
+        "oilfields",
+        "orders",
+        "region",
+        "seize",
+        "smuggling",
+        "takeover",
+        "the",
+        "under",
+        "zaidi"
+      ],
+      "source_excerpt": "PM Ali al-Zaidi also orders his government to seize all crossings in the Kurdish region after an oil smuggling inquiry.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+          "published_at": "2026-11-24T11:19:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a5047bc575a59097326bf3f7",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T11:17:20+00:00",
+      "last_update": "2026-11-24T11:17:20+00:00",
+      "event": "Vietnam restaurant blast kills at least six",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "blast",
+        "district",
+        "dong",
+        "hanoi",
+        "kills",
+        "least",
+        "operations",
+        "rescue",
+        "restaurant",
+        "six",
+        "the",
+        "under",
+        "vietnam",
+        "way",
+        "wounded"
+      ],
+      "source_excerpt": "At least 10 wounded after blast at restaurant in the Dong Da district in Hanoi as rescue operations under way.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
+          "published_at": "2026-11-24T11:17:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "894febec65311172ba9b39a5",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T11:52:28+00:00",
+      "last_update": "2026-11-24T11:52:28+00:00",
+      "event": "Weak and immature management putting patients at risk at failing health board, review finds",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "being",
+        "betsi",
+        "board",
+        "cadwaladr",
+        "care",
+        "failing",
+        "finds",
+        "health",
+        "immature",
+        "management",
+        "money",
+        "over",
+        "patient",
+        "patients",
+        "prioritised",
+        "putting",
+        "review",
+        "risk",
+        "targets",
+        "weak"
+      ],
+      "source_excerpt": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T11:52:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e9d0202ce8a6f04e56d4260e",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T11:14:25+00:00",
+      "last_update": "2026-11-24T11:14:25+00:00",
+      "event": "Does Scotland's NHS have a revolving door problem with senior managers?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "been",
+        "compared",
+        "deckchairs",
+        "does",
+        "door",
+        "for",
+        "has",
+        "have",
+        "lawyer",
+        "managers",
+        "nhs",
+        "problem",
+        "revolving",
+        "scotland",
+        "senior",
+        "shuffling",
+        "sinking",
+        "situation",
+        "the",
+        "titanic",
+        "whistleblower",
+        "with"
+      ],
+      "source_excerpt": "The situation has been compared to \"shuffling of deckchairs on the sinking Titanic\" by the lawyer for an NHS whistleblower.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cr868183e3njo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T11:14:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cr868183e3njo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cr868183e3njo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dd773cfb7f6cb85f323b61a1",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T11:40:46+00:00",
+      "last_update": "2026-11-24T11:40:46+00:00",
+      "event": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "both",
+        "celebrating",
+        "coast",
+        "coasts",
+        "east",
+        "easter",
+        "expected",
+        "family",
+        "for",
+        "friends",
+        "holiday",
+        "impact",
+        "including",
+        "major",
+        "millions",
+        "nor",
+        "people",
+        "snarl",
+        "storms",
+        "targeting",
+        "thanksgiving",
+        "the",
+        "threaten",
+        "travel",
+        "two",
+        "with"
+      ],
+      "source_excerpt": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T11:40:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "580361f396342e6ed4a63d92",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T10:58:51+00:00",
+      "last_update": "2026-11-24T10:58:51+00:00",
+      "event": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "against",
+        "chief",
+        "coming",
+        "defence",
+        "german",
+        "into",
+        "launch",
+        "media",
+        "nato",
+        "nuclear",
+        "planned",
+        "reports",
+        "russia",
+        "russian",
+        "said",
+        "satellite",
+        "space",
+        "threat",
+        "vows",
+        "warhead",
+        "weeks",
+        "with"
+      ],
+      "source_excerpt": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T10:58:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e12f03c4475a4feebe3e143d",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T06:09:11+00:00",
+      "last_update": "2026-11-24T10:57:17+00:00",
+      "event": "The state of Pakistan's health burden",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2045903",
+        "burden",
+        "com",
+        "dawn",
+        "health",
+        "https",
+        "news",
+        "pakistan",
+        "state",
+        "the",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2045903",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046737/the-state-of-pakistans-health-burden",
+          "published_at": "2026-11-24T06:09:11+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046737/the-state-of-pakistans-mental-health",
+          "published_at": "2026-11-24T10:57:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046737/the-state-of-pakistans-health-burden",
+        "publisher_url": "https://www.dawn.com/news/2046737/the-state-of-pakistans-health-burden",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6d27c2cd9157635c40a64883",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T11:22:32+00:00",
+      "last_update": "2026-11-24T11:22:32+00:00",
+      "event": "Supermoon to be visible in Pakistan on Dec 24",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dec",
+        "pakistan",
+        "samaa",
+        "supermoon",
+        "visible"
+      ],
+      "source_excerpt": "Supermoon to be visible in Pakistan on Dec 24 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHp2aU5zUFdFT1hWWjBJeEhWbi1EVktUVGhRY056SWEtaEItSlc2MzBxODN4M0tzbVJJbnNrM1Q4bl9zaHFITnJHaDRUR3c5NFA0aV9fUXBxUXpCVEhteVhJTlBLSzdYam1EcmNlcnB4UTRxUjMzZnBiaFB2NFJvY3RnTQ?oc=5",
+          "published_at": "2026-11-24T11:22:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHp2aU5zUFdFT1hWWjBJeEhWbi1EVktUVGhRY056SWEtaEItSlc2MzBxODN4M0tzbVJJbnNrM1Q4bl9zaHFITnJHaDRUR3c5NFA0aV9fUXBxUXpCVEhteVhJTlBLSzdYam1EcmNlcnB4UTRxUjMzZnBiaFB2NFJvY3RnTQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "db59d7ec863a3e2a8490fbf5",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T11:06:14+00:00",
+      "last_update": "2026-11-24T11:06:14+00:00",
+      "event": "Money tops life priorities for 42% of Pakistanis: Gallup survey",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "for",
+        "gallup",
+        "life",
+        "money",
+        "pakistanis",
+        "priorities",
+        "samaa",
+        "survey",
+        "tops"
+      ],
+      "source_excerpt": "Money tops life priorities for 42% of Pakistanis: Gallup survey samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTExeXZBNFBKWHRpdDNuMHQ2d1JkSjFIdUhTQU03OTlablltclhLUUpEU1VOQk1iMEZ5S1hSTFN0aHRzS25QNXNGRU9JN2E1Vncwd3hvVWROWENfdTZlVHhFdmVEcTN2UkdHa3U2SnFsWXFsMnVZT09MbnBqekNkVE9yWnhiRXUwTGxhVDJ4d3A4WWxxXzdkSQ?oc=5",
+          "published_at": "2026-11-24T11:06:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTExeXZBNFBKWHRpdDNuMHQ2d1JkSjFIdUhTQU03OTlablltclhLUUpEU1VOQk1iMEZ5S1hSTFN0aHRzS25QNXNGRU9JN2E1Vncwd3hvVWROWENfdTZlVHhFdmVEcTN2UkdHa3U2SnFsWXFsMnVZT09MbnBqekNkVE9yWnhiRXUwTGxhVDJ4d3A4WWxxXzdkSQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "203fbee810833d11633ab068",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T10:55:38+00:00",
+      "last_update": "2026-11-24T10:55:38+00:00",
+      "event": "Fazlur Rehman stopped from leaving Lahore residence amid heavy police deployment",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "deployment",
+        "express",
+        "fazlur",
+        "from",
+        "heavy",
+        "lahore",
+        "leaving",
+        "police",
+        "rehman",
+        "residence",
+        "stopped",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Fazlur Rehman stopped from leaving Lahore residence amid heavy police deployment The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDZodEE3eGE4N0dUalQ0RWZzZWJCZXVQREtJemRXZDNzeXM4NHdkYVZ0RUVPUUZPV2tSbGlGOUR1UGQyNmp2MUw5TDM5N1YzZnJQMERNSzV0UDBIWXRhNXA2WVVPU05HdE84X2YzS2hPRVpGNUxTczMyZnQxbGlJTUhqd2wybEx4SW1lLURZeURwalVZQTBMdjg4MVJXRmNfZHRHa1VVelc3NmtiZC1Eby1PdFRFY1Mx?oc=5",
+          "published_at": "2026-11-24T10:55:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDZodEE3eGE4N0dUalQ0RWZzZWJCZXVQREtJemRXZDNzeXM4NHdkYVZ0RUVPUUZPV2tSbGlGOUR1UGQyNmp2MUw5TDM5N1YzZnJQMERNSzV0UDBIWXRhNXA2WVVPU05HdE84X2YzS2hPRVpGNUxTczMyZnQxbGlJTUhqd2wybEx4SW1lLURZeURwalVZQTBMdjg4MVJXRmNfZHRHa1VVelc3NmtiZC1Eby1PdFRFY1Mx?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "663eb1f05100be436371b63b",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T11:49:10+00:00",
+      "last_update": "2026-11-24T11:49:10+00:00",
+      "event": "Fazl alleges he is under ‘state siege’; JUI-F claims police personnel deployed outside his Lahore residence",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "alleges",
+        "and",
+        "been",
+        "chief",
+        "claimed",
+        "claims",
+        "confining",
+        "deployed",
+        "effectively",
+        "fazl",
+        "fazlur",
+        "had",
+        "him",
+        "his",
+        "house",
+        "islam",
+        "jamiat",
+        "jui",
+        "lahore",
+        "maulana",
+        "monday",
+        "night",
+        "outside",
+        "party",
+        "personnel",
+        "police",
+        "reached",
+        "rehman",
+        "residence",
+        "siege",
+        "state",
+        "that",
+        "tuesday",
+        "ulema",
+        "under",
+        "was",
+        "while"
+      ],
+      "source_excerpt": "LAHORE: Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman on Tuesday alleged that he was under “state siege”, while his party claimed that police personnel had been deployed outside his Lahore residence “effectively confining him to his house”. Fazl reached Lahore on Monday night and was",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046756/fazl-alleges-he-is-under-state-siege-jui-f-claims-police-personnel-deployed-outside-his-lahore-residence",
+          "published_at": "2026-11-24T11:49:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046756/fazl-alleges-he-is-under-state-siege-jui-f-claims-police-personnel-deployed-outside-his-lahore-residence",
+        "publisher_url": "https://www.dawn.com/news/2046756/fazl-alleges-he-is-under-state-siege-jui-f-claims-police-personnel-deployed-outside-his-lahore-residence",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "81f048b51d1ae97ab018dbf5",
+      "remembered_at": "2026-11-24T11:55:00.452084+00:00",
+      "event_date": "2026-11-24T10:53:00+00:00",
+      "last_update": "2026-11-24T10:53:00+00:00",
+      "event": "Fresh ball-tampering allegations emerge over Australia's 2018 Test against Pakistan: report",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2018",
+        "action",
+        "afp",
+        "against",
+        "allegations",
+        "another",
+        "attempt",
+        "australia",
+        "azam",
+        "babar",
+        "ball",
+        "cricket",
+        "day",
+        "discussed",
+        "dubai",
+        "emerge",
+        "first",
+        "four",
+        "fresh",
+        "have",
+        "international",
+        "october",
+        "over",
+        "pakistan",
+        "players",
+        "report",
+        "reports",
+        "scandal",
+        "stadium",
+        "suggesting",
+        "surfaced",
+        "tampering",
+        "test",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "Babar Azam in action on day four of the first Test against Pakistan at Dubai International Cricket Stadium in Dubai on October 10, 2018. – AFP Fresh allegations have surfaced in Australia's 2018 ball-tampering scandal, with reports suggesting players discussed another attempt...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692445-fresh-ball-tampering-allegations-emerge-over-australias-2018-test-against-pakistan-report",
+          "published_at": "2026-11-24T10:53:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEtsMjZsVUE3Vk96eGZtOWxZX2t3WFlURFc4bk01azlBNkRzSkdfazJBUFF4SXZrX1U2VUgyeW9IaGhLTTNmdHBiWHpuYXgxaHE1OS1BeElNRHA3ZDhJTVBESGNIUlMyblVJUkNscjJhREt3blRPbmQwQUpWZVA1cHJTQk0xSjRZUWRlQnVldkJsWVdrWUZvZTAxWHM2WjVTd1FacmpfNkE1UUhzbjFlMW5HV1pFUzBaakdnWDJqaw?oc=5",
+          "published_at": "2026-11-24T10:53:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692445-fresh-ball-tampering-allegations-emerge-over-australias-2018-test-against-pakistan-report",
+        "publisher_url": "https://www.geo.tv/latest/692445-fresh-ball-tampering-allegations-emerge-over-australias-2018-test-against-pakistan-report",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T10:53:51.425125+00:00"
+  "updated_at": "2026-11-24T11:55:00.452084+00:00"
 }

@@ -1,144 +1,149 @@
-# News Hub report - Tue 24 Nov, 03:53 PM PKT
+# News Hub report - Tue 24 Nov, 04:55 PM PKT
 
 ## Collection
-- New items this run: 164 | items in rolling pool: 632
-- Unique story clusters: 544 (duplicates merged: 88)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 9
-- Items per outlet: UrduPoint 100, ProPakistani 10, Geo News 8, Dunya News 7, ARY News 6, Al Jazeera 5, Wired 4, The Current 3, The News International 2, Dawn Latest 2, The Express Tribune 2, samaa tv 2
+- New items this run: 176 | items in rolling pool: 797
+- Unique story clusters: 675 (duplicates merged: 122)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 10
+- Items per outlet: UrduPoint 87, Geo News 12, ProPakistani 9, samaa tv 8, Wired 7, TechJuice 7, Dawn Pakistan 5, Al Jazeera 5, The News International 4, ARY News 4, PhoneWorld 3, The Current 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 2 | first-run seeded: 0
+- Adeel Raja: MAULANA FAZLUR REHMAN BETRAYED? RANA SLAMS MOHSIN NAQVI | https://www.youtube.com/watch?v=bOQMaQNOAMw
+- Adeel Raja Shorts: KHAWAJA ASIF EXPOSED! THE ANGRY MAN GOES SILENT | https://www.youtube.com/watch?v=HE-jONUgFFQ
 
 ## Top 5 most important
-- Five terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- پشاور: سی ٹی ڈی کا انٹیلیجنس بیسڈ آپریشن، 5 دہشت گرد ہلاک | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tetra Pak Pakistan's lahore factory becomes fifth globally to achieve WCM Diamond Band Status | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Helpful but awkward: My week with Meta's Muse ahead of its UK launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Urgent action' needed to protect lake | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman receiving British-era pension dies at 107 in Jhudo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oil holds near three-month low as rising supply offsets Hormuz threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Road closures around Karachi’s PIDC junction cause traffic congestion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian strike kills two in Ukraine, days after ship attack off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Five terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- پشاور: سی ٹی ڈی کا انٹیلیجنس بیسڈ آپریشن، 5 دہشت گرد ہلاک | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tetra Pak Pakistan's lahore factory becomes fifth globally to achieve WCM Diamond Band Status | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Helpful but awkward: My week with Meta's Muse ahead of its UK launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Urgent action' needed to protect lake | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman receiving British-era pension dies at 107 in Jhudo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oil holds near three-month low as rising supply offsets Hormuz threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Road closures around Karachi’s PIDC junction cause traffic congestion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian strike kills two in Ukraine, days after ship attack off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Five terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- پشاور: سی ٹی ڈی کا انٹیلیجنس بیسڈ آپریشن، 5 دہشت گرد ہلاک | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tetra Pak Pakistan's lahore factory becomes fifth globally to achieve WCM Diamond Band Status | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Helpful but awkward: My week with Meta's Muse ahead of its UK launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Urgent action' needed to protect lake | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman receiving British-era pension dies at 107 in Jhudo | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Oil holds near three-month low as rising supply offsets Hormuz threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Road closures around Karachi’s PIDC junction cause traffic congestion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russian strike kills two in Ukraine, days after ship attack off Libya | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: World Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Balochistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Plea filed in LHC against alleged police siege of Fazl's Lahore home  [NORMAL]
-- Poster: لاہور ہائیکورٹ میں مولانا فضل الرحمٰن کی رہائش گاہ کے محاصرے کیخلاف درخواست دائر / Plea in LHC against alleged siege of Fazl's residence | category politics
-- Alternative headline: JUI-F moves Lahore High Court challenging police deployment at Maulana Fazl's residence
+### Iraq Orders Takeover of Oilfields in Kurdish-Controlled Areas  [NORMAL]
+- Poster: عراق کا کردستان کے زیر کنٹرول علاقوں میں تیل کے ذخائر پر قبضے کا حکم / Iraq Orders Takeover of Kurdish Oilfields | category politics
+- Alternative headline: Baghdad Directs Seizure of Kurdish Region Oilfields and Crossings
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Iraq oilfields, Kurdish region, Ali al-Zaidi, oil smuggling, Iraq politics, border crossings | hashtags: #Iraq #Kurdistan #Oil #Baghdad #MiddleEast
+- Scheduled: Tue 24 Nov, 04:55 PM PKT
+- Caption:
+```
+Prime Minister Ali al-Zaidi has ordered his government to take over oilfields and crossings in the Kurdish region following an oil smuggling inquiry.
+
+Iraqi Prime Minister Ali al-Zaidi has ordered the government to seize all border crossings and oilfields located within the Kurdish-controlled region. The directive follows an ongoing investigation into oil smuggling operations in the area.
+
+عراقی وزیر اعظم علی الزیدی نے تیل کی سمگلنگ کی تحقیقات کے بعد کرد علاقے کے تمام سرحدی گزرگاہوں اور تیل کے ذخائر پر قبضہ کرنے کا حکم دے دیا ہے۔
+
+First reported by Al Jazeera
+
+#Iraq #Kurdistan #Oil #Baghdad #MiddleEast
+```
+
+### Woman Receiving British-Era Pension Passes Away at 107 in Sindh  [NORMAL]
+- Poster: برطانوی دور کی پینشن حاصل کرنے والی خاتون جھڈو میں 107 برس کی عمر میں انتقال کر گئیں / British-Era Pension Recipient Dies at 107 | category other
+- Alternative headline: Last Surviving British-Era Pension Recipient Dies in Jhudo at 107
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046756/plea-filed-in-lhc-against-alleged-siege-of-fazls-residence-in-lahore | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046756/plea-filed-in-lhc-against-alleged-siege-of-fazls-residence-in-lahore
-- Supporting coverage: Dawn Pakistan
-- Keywords: Maulana Fazlur Rehman, Lahore High Court, JUI-F, police siege, Lahore, petition | hashtags: #MaulanaFazlurRehman #LHC #JUIF #Lahore #PakistanPolitics
-- Scheduled: Tue 24 Nov, 03:53 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/woman-receiving-british-era-pension-dies-at-107-in-jhudo | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/woman-receiving-british-era-pension-dies-at-107-in-jhudo
+- Supporting coverage: ARY News, The Current
+- Keywords: British-era pension, Jhudo, Sindh, Janat Khatoon Qaimkhani, pensioner, UK pension | hashtags: #Sindh #Jhudo #BritishEra #Pension #History
+- Scheduled: Tue 24 Nov, 05:05 PM PKT
 - Caption:
 ```
-A petition has been filed in the Lahore High Court challenging the alleged police siege of JUI-F chief Maulana Fazlur Rehman's residence.
+Janat Khatoon Qaimkhani, the last surviving woman receiving a pension from the British government, has passed away at 107 in Sindh.
 
-A petition was filed in the Lahore High Court by JUI-F challenging the alleged police siege of party chief Maulana Fazlur Rehman's residence in Lahore. The petitioner claimed around 3,000 police personnel were deployed, confining him and denying meetings, while the party stated he was invited to address the Lahore High Court Bar Association.
+Janat Khatoon Qaimkhani, believed to be the last surviving recipient of a British government pension, has died at the age of 107 in Jhudo, Sindh. Her pension was transferred from her late husband, a sepoy in the Punjab Horse Regiment, and disbursed through the United Nations.
 
-لاہور ہائیکورٹ میں جمعیت علمائے اسلام کے سربراہ مولانا فضل الرحمٰن کی رہائش گاہ کے مبینہ محاصرے کے خلاف درخواست دائر کر دی گئی۔ وکیل نے الزام عائد کیا کہ رہائش گاہ کے باہر تین ہزار کے قریب پولیس اہلکار تعینات ہیں اور فضل الرحمٰن کو گھر تک محدود کر دیا گیا ہے۔
+برطانوی حکومت سے پینشن حاصل کرنے والی آخری خاتون جنات خاتون قائمخانی سندھ کے شہر جھڈو میں 107 برس کی عمر میں انتقال کر گئیں۔ ان کے خاوند برطانوی فوج میں سپاہی تھے جن کی وفات کے بعد یہ پینشن انہیں منتقل کی گئی تھی۔
 
-First reported by Dawn Pakistan
+First reported by ARY News; also reported by The Current
 
-#MaulanaFazlurRehman #LHC #JUIF #Lahore #PakistanPolitics
+#Sindh #Jhudo #BritishEra #Pension #History
 ```
 
-### Five suspected terrorists killed in CTD intelligence-based operation in Peshawar  [NORMAL]
-- Poster: پشاور میں سی ٹی ڈی کا آپریشن، فائرنگ کے تبادلے میں پانچ دہشتگرد ہلاک / Five terrorists killed in CTD Peshawar operation | category security
-- Alternative headline: CTD operation in Peshawar leaves five militants dead as TTP commander escapes
+### Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat  [NORMAL]
+- Poster: رسد میں اضافے کے باعث تیل کی قیمتیں تین ماہ کی کم ترین سطح کے قریب برقرار / Oil Holds Near Three-Month Low | category economy
+- Alternative headline: Crude Prices Hover Near Three-Month Low Amid Supply Surge and Hormuz Tensions
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/five-terrorists-killed-in-ctd-operation-in-peshawar | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/five-terrorists-killed-in-ctd-operation-in-peshawar
-- Supporting coverage: ARY News, samaa tv
-- Keywords: CTD operation, Peshawar, terrorists killed, Counter-Terrorism Department, TTP, Badaber | hashtags: #CTD #Peshawar #CounterTerrorism #Security #Pakistan
-- Scheduled: Tue 24 Nov, 04:03 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/oil-holds-near-three-month-low-as-rising-supply-offsets-hormuz-threat | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/oil-holds-near-three-month-low-as-rising-supply-offsets-hormuz-threat
+- Supporting coverage: ARY News, Dawn
+- Keywords: oil prices, Strait of Hormuz, Brent crude, WTI crude, oil supply, economy | hashtags: #OilPrices #CrudeOil #Economy #Hormuz #Market
+- Scheduled: Tue 24 Nov, 05:15 PM PKT
 - Caption:
 ```
-Five suspected terrorists were killed during an intelligence-based operation conducted by the Counter-Terrorism Department in Peshawar.
+Oil prices hovered near a three-month low as rising crude supply offset ongoing shipping risks through the Strait of Hormuz.
 
-Five suspected terrorists were killed in an intelligence-based operation conducted by the Counter-Terrorism Department in the Peshawar region. According to the CTD, the operation took place in the Badaber area following reports of militants planning attacks, while a TTP commander and his accomplices managed to escape during the exchange of fire.
+Oil prices remained near three-month lows as increasing crude supplies and potential market surpluses countered persistent shipping risks in the Strait of Hormuz. Brent crude futures fell 0.45 percent to $88.97 a barrel, while US West Texas Intermediate slipped to $79.94.
 
-پشاور کے علاقے میں انسدادِ دہشت گردی محکمہ کے انٹیلی جنس بیسڈ آپریشن کے دوران پانچ مبینہ دہشت گرد ہلاک ہو گئے۔ سی ٹی ڈی کے مطابق یہ کارروائی مصدقہ اطلاعات پر کی گئی جبکہ فائرنگ کے تبادلے کے دوران ایک ٹی ٹی پی کمانڈر اپنے ساتھیوں سمیت فرار ہونے میں کامیاب ہو گیا۔
+تیل کی قیمتیں تین ماہ کی کم ترین سطح کے قریب رہیں کیونکہ رسد میں اضافے نے آبنائے ہرمز میں جہاز رانی کے خطرات کے اثرات کو زائل کر دیا۔ برینٹ کروڈ کی قیمت 88.97 ڈالر فی بیرل پر آگئی۔
 
-First reported by ARY News
+First reported by ARY News and Reuters
 
-#CTD #Peshawar #CounterTerrorism #Security #Pakistan
+#OilPrices #CrudeOil #Economy #Hormuz #Market
 ```
 
-### Peshawar CTD operation leaves five terrorists dead, weapons and grenades recovered  [NORMAL]
-- Poster: پشاور: سی ٹی ڈی آپریشن میں پانچ دہشتگرد ہلاک، اسلحہ اور دستی بم برآمد / Peshawar CTD operation kills five terrorists | category security
-- Alternative headline: Five militants killed in Peshawar shootout as TTP commander escapes
+### Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion  [NORMAL]
+- Poster: کراچی کے پی آئی ڈی سی چورنگی کے قریب سڑکیں بند ہونے سے شدید ٹریفک جام / Road Closures Cause Traffic Jam in Karachi | category other
+- Alternative headline: Traffic Jams Reported Due to Road Closures Near Karachi PIDC Junction
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Jang Urdu https://jang.com.pk/news/1636293 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Jang Urdu https://jang.com.pk/news/1636293
-- Supporting coverage: Jang Urdu, UrduPoint
-- Keywords: CTD operation Peshawar, Peshawar, terrorists killed, Jang Urdu, weapons recovered, Badaber | hashtags: #Peshawar #CTD #SecurityOperation #BreakingNews #Pakistan
-- Scheduled: Tue 24 Nov, 04:13 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzN5ZURLRXl4d0lvZWJnci1jaWFUSWM4T0RVZkRtN25OeFJSdnF3OVYwQ2ZEVWhySDdTVjNhUWYzZ1BQWFBDSUxYVFJXVFB0R2t3Sm5vdHkyNngzQzNJaUw4ZlUyVmV1YjR6T1gyUGYzV2RTMEFtVFpxeV9DVW1MTFpmYmlUU0o0VUpMbFhiXzlqeGtaS0g0eWE3Y3k1eDVMYmZJdg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzN5ZURLRXl4d0lvZWJnci1jaWFUSWM4T0RVZkRtN25OeFJSdnF3OVYwQ2ZEVWhySDdTVjNhUWYzZ1BQWFBDSUxYVFJXVFB0R2t3Sm5vdHkyNngzQzNJaUw4ZlUyVmV1YjR6T1gyUGYzV2RTMEFtVFpxeV9DVW1MTFpmYmlUU0o0VUpMbFhiXzlqeGtaS0g0eWE3Y3k1eDVMYmZJdg?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Karachi traffic, PIDC junction, road closures, traffic congestion, Karachi, Dawn | hashtags: #Karachi #TrafficAlert #PIDC #Sindh #Dawn
+- Scheduled: Tue 24 Nov, 05:25 PM PKT
 - Caption:
 ```
-Five terrorists were killed in an exchange of fire during a CTD intelligence-based operation in Peshawar.
+Road closures around Karachi’s PIDC junction have resulted in heavy traffic congestion across surrounding areas.
 
-Five terrorists were killed during a 20 to 25 minute exchange of fire in an intelligence-based operation by the Counter-Terrorism Department in Peshawar's Khor Meera Bacha Khel area. Authorities recovered three Kalashnikovs, two pistols, and a hand grenade, while a proscribed group commander managed to escape.
+Traffic congestion has been reported around Karachi's PIDC junction following the closure of surrounding roads. Commuters faced severe delays and alternate routes as authorities restricted movement in the area.
 
-پشاور کے علاقے خوڑ میرہ باچاخیل میں سی ٹی ڈی کے انٹیلی جنس بیسڈ آپریشن کے دوران فائرنگ کے تبادلے میں پانچ دہشت گرد ہلاک ہو گئے۔ حکام کے مطابق آپریشن کے بعد ہلاک دہشت گردوں کے قبضے سے کلاشنکوف، پستول اور دستی بم برآمد ہوئے ہیں۔
-
-First reported by Jang Urdu
-
-#Peshawar #CTD #SecurityOperation #BreakingNews #Pakistan
-```
-
-### Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status  [NORMAL]
-- Poster: ٹیٹرا پیک پاکستان کی لاہور فیکٹری نے ڈائمنڈ بینڈ اسٹیٹس حاصل کر لیا / Tetra Pak Lahore plant achieves Diamond Band status | category other
-- Alternative headline: Lahore plant becomes fifth globally to earn Tetra Pak's WCM Diamond Band
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMixAFBVV95cUxNanFFbGdmVzR4RjluN2VwS1RzVDhMTHJaNm1JUExoQ2JWckw4MW5vbW5hUldmb2pMUTlUX3dfejMzNFBYcFJjTEEzY21Ja0ZKRDVrUGs2VzRYQ3V0VUJ6WkNXcXlFYjJBNTUyRm1xVDExWVVOTFZuazZSNzF5TU1JdHRvTU81b1ZYdTQ2U1pZWENkS2ljdV9zMUU2YWFxUEhzelF5bkFhUk91bE5xenZpMUo5MHFtR2xaNDRxVHhIOC1BaUQ1?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMixAFBVV95cUxNanFFbGdmVzR4RjluN2VwS1RzVDhMTHJaNm1JUExoQ2JWckw4MW5vbW5hUldmb2pMUTlUX3dfejMzNFBYcFJjTEEzY21Ja0ZKRDVrUGs2VzRYQ3V0VUJ6WkNXcXlFYjJBNTUyRm1xVDExWVVOTFZuazZSNzF5TU1JdHRvTU81b1ZYdTQ2U1pZWENkS2ljdV9zMUU2YWFxUEhzelF5bkFhUk91bE5xenZpMUo5MHFtR2xaNDRxVHhIOC1BaUQ1?oc=5
-- Supporting coverage: Dawn
-- Keywords: Tetra Pak Pakistan, Lahore factory, WCM Diamond Band, World Class Manufacturing, Dawn | hashtags: #TetraPak #Lahore #WCM #Manufacturing #Pakistan
-- Scheduled: Tue 24 Nov, 04:23 PM PKT
-- Caption:
-```
-Tetra Pak Pakistan's Lahore factory has become the fifth globally to achieve World Class Manufacturing Diamond Band status.
-
-Tetra Pak Pakistan's Lahore factory has achieved World Class Manufacturing Diamond Band Status, making it the fifth facility globally to reach this milestone, as reported by Dawn.
-
-ڈان کے مطابق ٹیٹرا پیک پاکستان کی لاہور فیکٹری عالمی سطح پر ورلڈ کلاس مینوفیکچرنگ ڈائمنڈ بینڈ اسٹیٹس حاصل کرنے والی دنیا کی پانچویں فیکٹری بن گئی ہے۔
+کراچی میں پی آئی ڈی سی چورنگی کے گردونواح میں سڑکیں بند ہونے کے باعث شدید ٹریفک جام اور شہریوں کو مشکلات کا سامنا کرنا پڑا۔
 
 First reported by Dawn
 
-#TetraPak #Lahore #WCM #Manufacturing #Pakistan
+#Karachi #TrafficAlert #PIDC #Sindh #Dawn
 ```
 
-- Indian outlets blocked this run: 5 items
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
@@ -156,7 +161,6 @@ First reported by Dawn
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] normal | Govt rejects PTI demand on electoral reforms committee | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
-- [published] normal | Rizwan, Masood, and Ayub dropped as PCB unveils central contracts | Sat 21 Nov, 04:42 PM PKT
 - [needs_review] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
 - [published] normal | Zelensky calls Crimean Bridge strikes a fair response to Russian attac | Sat 21 Nov, 07:22 PM PKT
 - [published] normal | Pakistan Cricket Board announces new central contracts list for 38 pla | Sat 21 Nov, 07:32 PM PKT
@@ -338,10 +342,10 @@ First reported by Dawn
 - [needs_review] normal | UN Chief Urges Global Agreement on AI Oversight Within a Year | Tue 24 Nov, 09:16 AM PKT
 - [needs_review] normal | Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request | Tue 24 Nov, 09:26 AM PKT
 - [published] normal | Lahore ATC Grants Five-Day Physical Remand of PTI Leader | Tue 24 Nov, 10:02 AM PKT
-- [queued] normal | FoodAg Exhibition Showcases Pakistan's Growing Export Potential | Tue 24 Nov, 10:12 AM PKT
-- [queued] normal | Renowned Pop Singer Bunny Passes Away in Karachi | Tue 24 Nov, 10:22 AM PKT
-- [queued] normal | Surge in Used Phone Imports Hits Local Industry Hard | Tue 24 Nov, 10:32 AM PKT
-- [queued] normal | Iran Parliament Speaker Warns US Seeks 'No War, No Peace' Stalemate | Tue 24 Nov, 11:06 AM PKT
+- [needs_review] normal | FoodAg Exhibition Showcases Pakistan's Growing Export Potential | Tue 24 Nov, 10:12 AM PKT
+- [needs_review] normal | Renowned Pop Singer Bunny Passes Away in Karachi | Tue 24 Nov, 10:22 AM PKT
+- [needs_review] normal | Surge in Used Phone Imports Hits Local Industry Hard | Tue 24 Nov, 10:32 AM PKT
+- [published] normal | Iran Parliament Speaker Warns US Seeks 'No War, No Peace' Stalemate | Tue 24 Nov, 11:06 AM PKT
 - [queued] normal | Petroleum Dealers Threaten Nationwide Strike Over Pricing Mechanism | Tue 24 Nov, 11:16 AM PKT
 - [queued] normal | Punjab CM Orders Authorities to Double Wheat and Flour Supply | Tue 24 Nov, 11:26 AM PKT
 - [queued] normal | 11 More Illegal Afghan Nationals Detained in Rawalpindi | Tue 24 Nov, 11:36 AM PKT
@@ -361,13 +365,27 @@ First reported by Dawn
 - [queued] normal | Five suspected terrorists killed in CTD intelligence-based operation i | Tue 24 Nov, 04:03 PM PKT
 - [queued] normal | Peshawar CTD operation leaves five terrorists dead, weapons and grenad | Tue 24 Nov, 04:13 PM PKT
 - [queued] normal | Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status | Tue 24 Nov, 04:23 PM PKT
+- [queued] promo | [YouTube] MAULANA FAZLUR REHMAN BETRAYED? RANA SLAMS MOHSIN NAQVI | Tue 24 Nov, 04:55 PM PKT
+- [queued] promo | [YouTube] KHAWAJA ASIF EXPOSED! THE ANGRY MAN GOES SILENT | Tue 24 Nov, 04:55 PM PKT
+- [queued] normal | Iraq Orders Takeover of Oilfields in Kurdish-Controlled Areas | Tue 24 Nov, 04:55 PM PKT
+- [queued] normal | Woman Receiving British-Era Pension Passes Away at 107 in Sindh | Tue 24 Nov, 05:05 PM PKT
+- [queued] normal | Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat | Tue 24 Nov, 05:15 PM PKT
+- [queued] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
 
 ## Publishing this run
-- Published 'Lahore ATC Grants Five-Day Physical Remand of PTI Leader'.
+- Published 'Iran Parliament Speaker Warns US Seeks 'No War, No Peace' Stalemate'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4588 | output tokens: 2254
-- Errors: 2
+- Calls: 6 | prompt tokens: 4873 | output tokens: 2554
+- Errors: 4
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
