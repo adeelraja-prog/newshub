@@ -141632,7 +141632,693 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f4c5332c8a7806fec3a74930",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T11:58:46+00:00",
+      "last_update": "2026-11-24T13:29:35+00:00",
+      "event": "Donald slams explosive 85 as England thrash Australia in 2nd T20",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2nd",
+        "australia",
+        "donald",
+        "england",
+        "explosive",
+        "slams",
+        "t20",
+        "thrash"
+      ],
+      "source_excerpt": "Donald slams explosive 85 as England thrash Australia in 2nd T20",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/donald-slams-explosive-85-as-england-thrash-australia-in-2nd-t20",
+          "published_at": "2026-11-24T11:58:46+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzBrYU9pUWZBNXk3UWZUZ0J3ejFzdExmWnpCRU04RUZMVnd4U290M0FIMUJwZjF3TWZ0SktBZHkwMHZWQ1V4aW8yWVh5dURYVUZ4NE9NZGNBX3FLSUFmR3diWTdnYU5xSUxRNV9hTFhEUl9mQk9RWlRHVVNRN0d4dDIxWHBiTU1URGkzcm5CUHdCdmthRGZsaVZ1dDA2MDhRcjYwYw?oc=5",
+          "published_at": "2026-11-24T13:29:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/donald-slams-explosive-85-as-england-thrash-australia-in-2nd-t20",
+        "publisher_url": "https://arynews.tv/donald-slams-explosive-85-as-england-thrash-australia-in-2nd-t20",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c68df0c0b610292e1327de61",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T13:44:05+00:00",
+      "last_update": "2026-11-24T13:53:37+00:00",
+      "event": "PM Shehbaz assures KP governor of continued support to eliminate terrorism",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assures",
+        "continued",
+        "dawn",
+        "eliminate",
+        "governor",
+        "shehbaz",
+        "support",
+        "terrorism"
+      ],
+      "source_excerpt": "PM Shehbaz assures KP governor of continued support to eliminate terrorism Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclN5VXgwUmRTR2RIT0xyaS1hZjdJRHZMeWhmeVJoTGwxYkpZTTdnZFJSVk9sR2lnOHJLclhTbWkwUk5Hd1h3STdBTjNVSVpqZzdYN1FnVVB1Z2gwVG51dEw4NXdYRVBYa093NTZoa0xUcTRiVmlhMUUzdXVReEFJWkVPV3ZQQ3Vtd2hEZUwtVFRrRFdHamZqQWxSLVNHYXotOXJOUHNrTEhSajY5?oc=5",
+          "published_at": "2026-11-24T13:44:05+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046786/pm-shehbaz-assures-kp-governor-of-continued-support-to-eliminate-terrorism",
+          "published_at": "2026-11-24T13:53:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclN5VXgwUmRTR2RIT0xyaS1hZjdJRHZMeWhmeVJoTGwxYkpZTTdnZFJSVk9sR2lnOHJLclhTbWkwUk5Hd1h3STdBTjNVSVpqZzdYN1FnVVB1Z2gwVG51dEw4NXdYRVBYa093NTZoa0xUcTRiVmlhMUUzdXVReEFJWkVPV3ZQQ3Vtd2hEZUwtVFRrRFdHamZqQWxSLVNHYXotOXJOUHNrTEhSajY5?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7e4a3d5520556fb88d802b6d",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T14:14:18+00:00",
+      "last_update": "2026-11-24T14:14:34+00:00",
+      "event": "Balochistan govt announces rewards of up to Rs250m for information on wanted terrorists",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announces",
+        "balochistan",
+        "dawn",
+        "for",
+        "govt",
+        "information",
+        "rewards",
+        "rs250m",
+        "terrorists",
+        "wanted"
+      ],
+      "source_excerpt": "Balochistan govt announces rewards of up to Rs250m for information on wanted terrorists Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG5CeHdtYThsNW9zNTlTWGZLUTNiYmlfU3hhQ0ZFcHA1a1lsOXJkR0QyRkF2QVpaWkxaUHVSdmkwT3prUzM1NGhCMFlhd2ZIQ3F4T0R0eWZhcThZYUUzeTIyeUtDNzVJdjdrYjdRVl9xd2I0Q20xY0lGWjE4WUhQZy1hX0sxNHBRQkRKa1AxT0pHUkdSY0Q4V3dOdmNCalgtVkM0dWZNbmgyS1hKa1BqVWJRUWtZdEFrQmRzWXJB?oc=5",
+          "published_at": "2026-11-24T14:14:18+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046785/balochistan-govt-announces-rewards-of-up-to-rs250m-for-information-on-wanted-terrorists",
+          "published_at": "2026-11-24T14:14:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG5CeHdtYThsNW9zNTlTWGZLUTNiYmlfU3hhQ0ZFcHA1a1lsOXJkR0QyRkF2QVpaWkxaUHVSdmkwT3prUzM1NGhCMFlhd2ZIQ3F4T0R0eWZhcThZYUUzeTIyeUtDNzVJdjdrYjdRVl9xd2I0Q20xY0lGWjE4WUhQZy1hX0sxNHBRQkRKa1AxT0pHUkdSY0Q4V3dOdmNCalgtVkM0dWZNbmgyS1hKa1BqVWJRUWtZdEFrQmRzWXJB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4da2b19260a158bef4d98449",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T11:59:22+00:00",
+      "last_update": "2026-11-24T11:59:22+00:00",
+      "event": "Mohsin Naqvi warns against social media misinformation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "media",
+        "misinformation",
+        "mohsin",
+        "naqvi",
+        "samaa",
+        "social",
+        "warns"
+      ],
+      "source_excerpt": "Mohsin Naqvi warns against social media misinformation samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMTFCUW1UNzU2ZnNwRmZPdlNiMWttUzluNHNXWDVvYjJrQTRiRXg3VlQ1ZHlnWFByMFF3VDNzWW9BTWF0RjNYT1NMZFBUZ1dVTU14dmhNUUdzbWloR0JsMDRBbXViQWk5c3hUdDdZUWZGYWR1elViN2xOTTdGeXVWTjlGNDBLZ0Uzd0VhZFpuQ2w1RWlnYkpJazFrd3pNSmRLMGlhYThR?oc=5",
+          "published_at": "2026-11-24T11:59:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMTFCUW1UNzU2ZnNwRmZPdlNiMWttUzluNHNXWDVvYjJrQTRiRXg3VlQ1ZHlnWFByMFF3VDNzWW9BTWF0RjNYT1NMZFBUZ1dVTU14dmhNUUdzbWloR0JsMDRBbXViQWk5c3hUdDdZUWZGYWR1elViN2xOTTdGeXVWTjlGNDBLZ0Uzd0VhZFpuQ2w1RWlnYkpJazFrd3pNSmRLMGlhYThR?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4c0d73624b0a73643bfea1ba",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T14:16:33+00:00",
+      "last_update": "2026-11-24T14:16:49+00:00",
+      "event": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admits",
+        "city",
+        "concerns",
+        "could",
+        "fragile",
+        "involvement",
+        "key",
+        "libya",
+        "port",
+        "process",
+        "raises",
+        "reunification",
+        "russia",
+        "russian",
+        "targeting",
+        "threaten",
+        "ukraine",
+        "vessels",
+        "war",
+        "zelenskyy"
+      ],
+      "source_excerpt": "Ukraine's involvement in Libya raises concerns as Zelenskyy admits targeting Russian vessels in a key port city.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss",
+          "published_at": "2026-11-24T14:16:33+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3VCbzA2cllMdlZvQU1ZclBLd0ZOV2xCVElUZi1ZaGdPemZYZFhBeW4xYUE4dkhzaW1VOGFxSjhRQ0Y3Q196TmtYeEpWejEyaEtZUUJLODRNMWNsREkxR1Bibmc1eFJibUdEWHJyTmh2NkJwQXBpd0VFZG1xREROTjJhYTdkUHVQSFAxcFpmQUZLWUFmLS1CUWNLM1lFbTZUN19Ga0Y4T0FLVElKSnM4ZGRLVkItWGMyMFJIMEd30gHDAUFVX3lxTFBDM21DMlk1Mnp6MWwyT2plZVlDdWJXQlVuSHdxd01ZNmJPOGs2ZGYxRGVtRmctRFRtbm1rY01Pc0RvWlVKeXFUSlAzeW5fVEVMblQ1TmFkRy01amkwZWlYbGFSbGlEZzVYRko3anNmcDFySkl0Y1FtdWMxOFVzTFdYbTZYZGdKSkoxT1FzbEZsamttX1dtdU9Ia2JIX0pPRlV0cVh5M3JLU0daLTZUeVkyNF9VdmRQb0tLREFZQ3kxZ3YxVQ?oc=5",
+          "published_at": "2026-11-24T14:16:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e2a1cd8453baa6a5d11ebf7c",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T13:52:45+00:00",
+      "last_update": "2026-11-24T13:52:45+00:00",
+      "event": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "204",
+        "against",
+        "ball",
+        "ever",
+        "indian",
+        "innings",
+        "men",
+        "most",
+        "old",
+        "records",
+        "senior",
+        "sixes",
+        "smashes",
+        "sooryavanshi",
+        "staggering",
+        "struck",
+        "teen",
+        "the",
+        "tumble",
+        "uae",
+        "year"
+      ],
+      "source_excerpt": "The 15-year-old Sooryavanshi struck a staggering 28 sixes, the most ever in a senior men's innings.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae?traffic_source=rss",
+          "published_at": "2026-11-24T13:52:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cf863057b58037a6a976abfb",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T13:35:51+00:00",
+      "last_update": "2026-11-24T13:35:51+00:00",
+      "event": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2016",
+        "abelardo",
+        "after",
+        "colombia",
+        "conflict",
+        "could",
+        "crackdown",
+        "critics",
+        "deal",
+        "espriella",
+        "faces",
+        "fear",
+        "gains",
+        "its",
+        "made",
+        "peace",
+        "return",
+        "security",
+        "ten",
+        "that",
+        "the",
+        "under",
+        "unravel",
+        "years"
+      ],
+      "source_excerpt": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
+          "published_at": "2026-11-24T13:35:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "11be8b87a31ad2b47196127c",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T13:32:24+00:00",
+      "last_update": "2026-11-24T13:35:20+00:00",
+      "event": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "attacks",
+        "down",
+        "flow",
+        "have",
+        "hormuz",
+        "impacting",
+        "increased",
+        "iran",
+        "oil",
+        "percent",
+        "strait",
+        "tanker",
+        "tankers",
+        "the",
+        "through",
+        "traffic",
+        "working"
+      ],
+      "source_excerpt": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
+          "published_at": "2026-11-24T13:32:24+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWtaYWl0aXk3bE1SVS1CWDdMUy1NSmNQTUxHbTFRbFlFemVOS0FkZDE4TjVZWDNUODUycDJHTXpfaGp6SWwya2gxWVhJUlk1bWUxTmpjSk5UZm5wME5ZYWc5SkJsM1I2Vmx2c2paS3owWTdPX0pDN0ZXUUtQck11OHFfSVhwd18yakNEM3NBaTBPbmtTRjVNSnNISklHTUE3ZkJLclh4LXQzbUNZOGx3dC1n0gG3AUFVX3lxTE9yaW03aWdDZFBjTUh0YXhVMk5hdy0ybmpGQXZ5UVkwN3N3M0NrQkRTTVVwQkpEY3BBQ3ZxS0c2cmdyMUlNSlZrbmNWUzQzc05SN29ZS2h4dXJuVzdyWVFOcGVmbEFfaWxPNlpTT1JVdDJqdHRkaTE4QTZMZkFqNFl5RURUOHB6SWR5WmFTSldZcWhSa25SSVBjYkJhT09Od2Jvb2gzQzktYjZJWUxObGFoaW1kbjN1cw?oc=5",
+          "published_at": "2026-11-24T13:35:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7fddbcce8bc39303ae8f30df",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T13:28:50+00:00",
+      "last_update": "2026-11-24T13:28:50+00:00",
+      "event": "Senegalese families wait for news of missing migrant boat",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "boat",
+        "families",
+        "for",
+        "migrant",
+        "missing",
+        "news",
+        "senegalese",
+        "wait"
+      ],
+      "source_excerpt": "Senegalese families wait for news of missing migrant boat",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senegalese-families-wait-for-news-of-missing-migrant-boat?traffic_source=rss",
+          "published_at": "2026-11-24T13:28:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senegalese-families-wait-for-news-of-missing-migrant-boat?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senegalese-families-wait-for-news-of-missing-migrant-boat?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "096aa37698e018ec08c97a72",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T13:11:25+00:00",
+      "last_update": "2026-11-24T13:11:25+00:00",
+      "event": "Heat deaths reach record high in UK in 2026",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "258",
+        "agency",
+        "deaths",
+        "estimates",
+        "for",
+        "has",
+        "health",
+        "heat",
+        "high",
+        "number",
+        "reach",
+        "reached",
+        "record",
+        "security",
+        "summer",
+        "that",
+        "the",
+        "total"
+      ],
+      "source_excerpt": "The UK Health Security Agency estimates that the total number of deaths has reached 5,258 for the summer of 2026.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026?traffic_source=rss",
+          "published_at": "2026-11-24T13:11:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "46073bad726ca1dcfe9b2a4a",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T13:03:20+00:00",
+      "last_update": "2026-11-24T13:03:20+00:00",
+      "event": "World Cup drove profits surge, says Marston's",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "annual",
+        "company",
+        "cup",
+        "drive",
+        "drove",
+        "excellent",
+        "helped",
+        "marston",
+        "profits",
+        "rose",
+        "says",
+        "strong",
+        "surge",
+        "the",
+        "trading",
+        "world"
+      ],
+      "source_excerpt": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T13:03:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b5aaa387f3cacedabc46d917",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T13:25:40+00:00",
+      "last_update": "2026-11-24T13:25:40+00:00",
+      "event": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arrested",
+        "bbc",
+        "burglary",
+        "home",
+        "norfolk",
+        "prince",
+        "princess",
+        "suspicion",
+        "two",
+        "wales"
+      ],
+      "source_excerpt": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ed3drVWY1OGhvb1JvMlpObzFYU0RpalVZLTdCcnIwdUZhVWU2anF2aWtWWUFTTDgyaEZUa180U2dFQll1N29iUDVSUTdfaElad2FUdGJGLV9ldFE?oc=5",
+          "published_at": "2026-11-24T13:25:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ed3drVWY1OGhvb1JvMlpObzFYU0RpalVZLTdCcnIwdUZhVWU2anF2aWtWWUFTTDgyaEZUa180U2dFQll1N29iUDVSUTdfaElad2FUdGJGLV9ldFE?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aab3afc4828facbdf6f3cd2e",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T10:42:26+00:00",
+      "last_update": "2026-11-24T10:42:26+00:00",
+      "event": "Rana Sanaullah Fires Back at Mohsin Naqvi! Strong Response Sparks Political Debate | Breaking News",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "back",
+        "breaking",
+        "debate",
+        "dunya",
+        "fires",
+        "mohsin",
+        "naqvi",
+        "news",
+        "political",
+        "rana",
+        "response",
+        "sanaullah",
+        "sparks",
+        "strong"
+      ],
+      "source_excerpt": "Rana Sanaullah Fires Back at Mohsin Naqvi! Strong Response Sparks Political Debate | Breaking News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNFI1R0xEWkdYNlFpOTBhS2ttQXFDNW85MTlsdU91ZGc4NnBJSmlfY0ZGaC1YcHFtWmthNWl0SFR6Y3dpMGxpVlJIX29scmwyUHVsUmJYNURmZ2x6a2dySUFhXzlkbHdyWnNQNXVzemExV3F0azZRX2Q2VnlpZW9CdnVjem1tQW1heE5WZDZmRl8tTlkwajNWWHZYenZwTDNZWXFGVm1ObURBSlJsZzZDaU0tWl92amgwT2twWGxaNGNUWWp1ZnZJXzRqQVUzSUFQdVcxUk02eldBdkZpREhQY1pReFlFbk1U?oc=5",
+          "published_at": "2026-11-24T10:42:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNFI1R0xEWkdYNlFpOTBhS2ttQXFDNW85MTlsdU91ZGc4NnBJSmlfY0ZGaC1YcHFtWmthNWl0SFR6Y3dpMGxpVlJIX29scmwyUHVsUmJYNURmZ2x6a2dySUFhXzlkbHdyWnNQNXVzemExV3F0azZRX2Q2VnlpZW9CdnVjem1tQW1heE5WZDZmRl8tTlkwajNWWHZYenZwTDNZWXFGVm1ObURBSlJsZzZDaU0tWl92amgwT2twWGxaNGNUWWp1ZnZJXzRqQVUzSUFQdVcxUk02eldBdkZpREhQY1pReFlFbk1U?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "807a7d260cf917ad62431e57",
+      "remembered_at": "2026-11-24T14:29:41.877278+00:00",
+      "event_date": "2026-11-24T12:18:09+00:00",
+      "last_update": "2026-11-24T12:19:52+00:00",
+      "event": "Pope Francis revealed in personal diary having seen devil",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "devil",
+        "diary",
+        "francis",
+        "having",
+        "personal",
+        "pope",
+        "revealed",
+        "seen"
+      ],
+      "source_excerpt": "Pope Francis revealed in personal diary having seen devil Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0I5UUNvRzJSXzlxVEc0elNkaC1ZTXdNOTlWREYzaWdSRG45eVdsMVVGNXpXSkpOWlpJLXNNZDdSTVlwRHlia2NYRDJHaTF4TzY5ZzFUTGM2dS1nUC03aUtTWWZtTi1uTm1PV1F2S1plUVBzVjhXdkxnWHVzOXMtS2NpNWdwRHQ0R3Jka2F5cjBPZk05VWc?oc=5",
+          "published_at": "2026-11-24T12:18:09+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046776/watching-me-with-eyes-of-fire-pope-francis-revealed-in-personal-diary-having-seen-devil",
+          "published_at": "2026-11-24T12:19:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0I5UUNvRzJSXzlxVEc0elNkaC1ZTXdNOTlWREYzaWdSRG45eVdsMVVGNXpXSkpOWlpJLXNNZDdSTVlwRHlia2NYRDJHaTF4TzY5ZzFUTGM2dS1nUC03aUtTWWZtTi1uTm1PV1F2S1plUVBzVjhXdkxnWHVzOXMtS2NpNWdwRHQ0R3Jka2F5cjBPZk05VWc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T13:09:55.717779+00:00"
+  "updated_at": "2026-11-24T14:29:41.877278+00:00"
 }

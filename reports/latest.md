@@ -1,35 +1,35 @@
-# News Hub report - Tue 24 Nov, 06:09 PM PKT
+# News Hub report - Tue 24 Nov, 07:29 PM PKT
 
 ## Collection
-- New items this run: 202 | items in rolling pool: 944
-- Unique story clusters: 791 (duplicates merged: 153)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 100, ARY News 12, Geo News 11, ProPakistani 10, samaa tv 8, Al Jazeera 6, Dawn Latest 5, Investify 4, Dawn 3, AP News 3, Ars Technica 3, Wired 3
+- New items this run: 176 | items in rolling pool: 994
+- Unique story clusters: 800 (duplicates merged: 194)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 100, Geo News 12, Al Jazeera 12, ProPakistani 8, TechJuice 7, samaa tv 5, Dawn Pakistan 4, ARY News 4, Engadget 3, Dawn 2, Pakistan Today 2, Jang Urdu 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
+- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pope Francis revealed in personal diary having seen devil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- صوبوں سے متعلق ہم موقف دے چکے، آپ عوامی رائے لے لیں، اس میں حرج ہی کیا ہے: عطا تارڑ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Misbah Arshad set for Miss Universe 2026 grand finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Donald slams explosive 85 as England thrash Australia in 2nd T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz assures KP governor of continued support to eliminate terrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pope Francis revealed in personal diary having seen devil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- صوبوں سے متعلق ہم موقف دے چکے، آپ عوامی رائے لے لیں، اس میں حرج ہی کیا ہے: عطا تارڑ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Misbah Arshad set for Miss Universe 2026 grand finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Donald slams explosive 85 as England thrash Australia in 2nd T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz assures KP governor of continued support to eliminate terrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Israeli air strike kills Hamas internal security chief in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Gold price rises by Rs1,300 per tola in Pakistan - Nov 24, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pope Francis revealed in personal diary having seen devil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- صوبوں سے متعلق ہم موقف دے چکے، آپ عوامی رائے لے لیں، اس میں حرج ہی کیا ہے: عطا تارڑ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Misbah Arshad set for Miss Universe 2026 grand finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Donald slams explosive 85 as England thrash Australia in 2nd T20 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz assures KP governor of continued support to eliminate terrorism | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,20 +39,14 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
-- [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
-- [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [needs_review] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
-- [needs_review] normal | Basra power station fire in Iraq kills at least four, injures 30 | Sat 21 Nov, 01:01 PM PKT
-- [needs_review] normal | WhatsApp raises group chat limit to 1,500 members | Sat 21 Nov, 01:11 PM PKT
-- [needs_review] normal | Father accused of raping daughter killed in CCD encounter in Kot Addu | Sat 21 Nov, 01:21 PM PKT
 - [needs_review] normal | Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as  | Sat 21 Nov, 01:59 PM PKT
 - [needs_review] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
 - [needs_review] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
@@ -61,9 +55,6 @@
 - [needs_review] normal | Govt rejects PTI demand on electoral reforms committee | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
 - [needs_review] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
-- [published] normal | Zelensky calls Crimean Bridge strikes a fair response to Russian attac | Sat 21 Nov, 07:22 PM PKT
-- [published] normal | Pakistan Cricket Board announces new central contracts list for 38 pla | Sat 21 Nov, 07:32 PM PKT
-- [published] normal | Princess of Wales discusses cancer journey in new documentary Heal | Sat 21 Nov, 07:42 PM PKT
 - [needs_review] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
 - [published] normal | Former Nvidia CEO Jensen Huang to testify at public US Senate hearing | Sat 21 Nov, 08:17 PM PKT
 - [needs_review] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
@@ -250,9 +241,9 @@
 - [needs_review] normal | 11 More Illegal Afghan Nationals Detained in Rawalpindi | Tue 24 Nov, 11:36 AM PKT
 - [published] normal | Why Eisenkot is negotiating with Netanyahu amid political shifts | Tue 24 Nov, 12:26 PM PKT
 - [failed] normal | Ousted PM Sheikh Hasina plans December 16 return to Bangladesh | Tue 24 Nov, 12:36 PM PKT
-- [queued] normal | Bus and truck collision kills 11 people in UAE's Ras Al Khaimah | Tue 24 Nov, 12:46 PM PKT
-- [queued] normal | Punjab Assembly echoes with fiery exchanges over agricultural crisis | Tue 24 Nov, 12:56 PM PKT
-- [queued] normal | Wars Choke Global Food Routes, Threatening Aid for 7.3 Million | Tue 24 Nov, 01:43 PM PKT
+- [needs_review] normal | Bus and truck collision kills 11 people in UAE's Ras Al Khaimah | Tue 24 Nov, 12:46 PM PKT
+- [needs_review] normal | Punjab Assembly echoes with fiery exchanges over agricultural crisis | Tue 24 Nov, 12:56 PM PKT
+- [published] normal | Wars Choke Global Food Routes, Threatening Aid for 7.3 Million | Tue 24 Nov, 01:43 PM PKT
 - [queued] normal | Pakistan’s Zeeshan Ali Set to Become First Astronaut in Space | Tue 24 Nov, 01:53 PM PKT
 - [queued] normal | KP's MNJ Road Closed to Traffic Until Next Summer | Tue 24 Nov, 02:03 PM PKT
 - [queued] normal | PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction | Tue 24 Nov, 02:13 PM PKT
@@ -272,7 +263,7 @@
 - [queued] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
 
 ## Publishing this run
-- Published 'Why Eisenkot is negotiating with Netanyahu amid political shifts'.
+- Published 'Wars Choke Global Food Routes, Threatening Aid for 7.3 Million'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
