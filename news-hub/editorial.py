@@ -174,7 +174,7 @@ def prelim_score(cluster, sig, now):
 
 
 CAT_BOOST = {"tech_ai": 12, "tech_gadgets": 10, "tech_mobile": 10, "tech_laptop": 9, "tech_apps": 8, "tech": 10,
-             "economy": 8, "science": 7, "health": 8, "politics": 22, "weather": 8, "fashion": 5, "lifestyle": 5,
+             "economy": 8, "science": 7, "health": 8, "politics": 28, "weather": 8, "fashion": 5, "lifestyle": 5,
              "crime": 8, "war": 8, "us_politics": 10, "sports": 10, "courts": 18, "security": 12}
 SENSITIVE = ("politics", "security", "courts", "crime", "war", "us_politics")
 SURE_TYPES = ("official_document", "official_statement", "court_order", "wire")
