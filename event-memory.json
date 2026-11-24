@@ -143805,7 +143805,564 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "325455302f0c0b18702abf0e",
+      "remembered_at": "2026-11-24T17:39:28.958820+00:00",
+      "event_date": "2026-11-24T16:37:30+00:00",
+      "last_update": "2026-11-24T16:50:13+00:00",
+      "event": "Fazl stays in Lahore after ‘state siege’ of his residence ends, claims move prevented him from attending event",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "40am",
+        "after",
+        "around",
+        "attending",
+        "barriers",
+        "been",
+        "began",
+        "chief",
+        "claiming",
+        "claims",
+        "ends",
+        "evening",
+        "event",
+        "fazl",
+        "fazlur",
+        "from",
+        "had",
+        "him",
+        "his",
+        "hours",
+        "islam",
+        "jamiat",
+        "jui",
+        "lahore",
+        "long",
+        "maulana",
+        "move",
+        "movement",
+        "place",
+        "police",
+        "post",
+        "prevented",
+        "put",
+        "reached",
+        "rehman",
+        "removing",
+        "residence",
+        "restrict",
+        "said",
+        "siege",
+        "state",
+        "stay",
+        "stays",
+        "the",
+        "tuesday",
+        "ulema",
+        "under",
+        "with"
+      ],
+      "source_excerpt": "LAHORE: Police began removing barriers around Maulana Fazlur Rehman’s place of stay in Lahore on Tuesday evening, with the Jamiat Ulema-i-Islam-Fazl (JUI-F) chief claiming he had been put under an hours-long “state siege” to restrict his movement. In a post at 10:40am, JUI-F said Fazl reached Lahore",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046756/fazl-stays-in-lahore-after-state-siege-of-his-residence-ends-claims-move-prevented-him-from-attending-event",
+          "published_at": "2026-11-24T16:37:30+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DRXFOVG5oZF93Wi1NOW9kdWl3M3YzNWF2VEFaQWY0VDJOeEVYcjVJMFE0QzQyVE9rbTN4TlZJTU1KN2pwdjFCWA?oc=5",
+          "published_at": "2026-11-24T16:37:30+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046756/fazl-decries-state-siege-claims-prevented-from-attending-lahore-event",
+          "published_at": "2026-11-24T16:50:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046756/fazl-stays-in-lahore-after-state-siege-of-his-residence-ends-claims-move-prevented-him-from-attending-event",
+        "publisher_url": "https://www.dawn.com/news/2046756/fazl-stays-in-lahore-after-state-siege-of-his-residence-ends-claims-move-prevented-him-from-attending-event",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bd7b9f6cad70fb3c2a9f364f",
+      "remembered_at": "2026-11-24T17:39:28.958820+00:00",
+      "event_date": "2026-11-24T17:04:00+00:00",
+      "last_update": "2026-11-24T17:04:00+00:00",
+      "event": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "according",
+        "africa",
+        "african",
+        "been",
+        "convicted",
+        "countries",
+        "different",
+        "fight",
+        "for",
+        "from",
+        "have",
+        "hundreds",
+        "people",
+        "recruited",
+        "russia",
+        "south",
+        "trying",
+        "ukraine",
+        "zimbabwean"
+      ],
+      "source_excerpt": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T17:04:00+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0xsTzVtcGdvTV9nWTlqVVVhV2RIZUd3ZmlqcmxqVnBsQUxwNGk2a2Y0T0lsMXFTWkJXSmE2djE5X0FrVXdvUTV6Z2N0b2JRQTlmWVVjVFR3RVk?oc=5",
+          "published_at": "2026-11-24T17:04:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f5c31ce7b8eb3126711855fb",
+      "remembered_at": "2026-11-24T17:39:28.958820+00:00",
+      "event_date": "2026-11-24T15:47:16+00:00",
+      "last_update": "2026-11-24T15:47:16+00:00",
+      "event": "Nvidia stock cools after Huang’s return-driven surge",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "952bn",
+        "after",
+        "ago",
+        "ceo",
+        "cools",
+        "driven",
+        "huang",
+        "jensen",
+        "less",
+        "market",
+        "nvidia",
+        "regains",
+        "reinstated",
+        "resignation",
+        "return",
+        "stock",
+        "surge",
+        "than",
+        "two",
+        "value",
+        "weeks"
+      ],
+      "source_excerpt": "Nvidia regains $952bn in market value after Jensen Huang reinstated as CEO after resignation less than two weeks ago.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
+          "published_at": "2026-11-24T15:47:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "21b65692763eb5601c2bbb7b",
+      "remembered_at": "2026-11-24T17:39:28.958820+00:00",
+      "event_date": "2026-11-24T16:03:03+00:00",
+      "last_update": "2026-11-24T16:03:03+00:00",
+      "event": "Dad calls for 'crisis' education to reduce suicide among men and boys",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ago",
+        "among",
+        "and",
+        "before",
+        "boys",
+        "calls",
+        "crisis",
+        "dad",
+        "died",
+        "education",
+        "for",
+        "his",
+        "men",
+        "old",
+        "reduce",
+        "says",
+        "seamus",
+        "son",
+        "suicide",
+        "there",
+        "waites",
+        "warning",
+        "was",
+        "year",
+        "years"
+      ],
+      "source_excerpt": "Seamus Waites says there was \"no warning\" before his 22-year-old son died by suicide 10 years ago.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cmz9dyd4eegeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T16:03:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cmz9dyd4eegeo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmz9dyd4eegeo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1079936f7d08eb96f7edcb5f",
+      "remembered_at": "2026-11-24T17:39:28.958820+00:00",
+      "event_date": "2026-11-24T16:02:20+00:00",
+      "last_update": "2026-11-24T16:02:20+00:00",
+      "event": "Catherine's cancer documentary makes me feel less alone, says Strictly's Amy Dowden",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "alone",
+        "amy",
+        "awareness",
+        "cancer",
+        "catherine",
+        "dancer",
+        "documentary",
+        "dowden",
+        "feel",
+        "her",
+        "important",
+        "journey",
+        "less",
+        "makes",
+        "raise",
+        "says",
+        "strictly",
+        "the"
+      ],
+      "source_excerpt": "The dancer says Catherine's documentary about her cancer journey is \"so important\" to raise awareness.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr151xj5ego?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T16:02:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr151xj5ego?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqdr151xj5ego?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1487e98f9380e63ab14e11c7",
+      "remembered_at": "2026-11-24T17:39:28.958820+00:00",
+      "event_date": "2026-11-24T16:22:16+00:00",
+      "last_update": "2026-11-24T16:22:16+00:00",
+      "event": "Record 5,200 heat-linked deaths estimated in England this year",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "200",
+        "agency",
+        "deaths",
+        "england",
+        "estimated",
+        "health",
+        "heat",
+        "linked",
+        "number",
+        "previous",
+        "record",
+        "says",
+        "security",
+        "that",
+        "the",
+        "this",
+        "twice",
+        "year"
+      ],
+      "source_excerpt": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T16:22:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "819f2bcd2c60443b82baec0d",
+      "remembered_at": "2026-11-24T17:39:28.958820+00:00",
+      "event_date": "2026-11-24T16:42:46+00:00",
+      "last_update": "2026-11-24T16:42:46+00:00",
+      "event": "Four generations of a family working in one factory",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "avis",
+        "bradley",
+        "factory",
+        "family",
+        "four",
+        "generations",
+        "have",
+        "malmesbury",
+        "now",
+        "one",
+        "sweetnam",
+        "the",
+        "worked",
+        "working"
+      ],
+      "source_excerpt": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T16:42:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9cc9b1c6497dd87dde0adbdc",
+      "remembered_at": "2026-11-24T17:39:28.958820+00:00",
+      "event_date": "2026-11-24T17:33:41+00:00",
+      "last_update": "2026-11-24T17:33:41+00:00",
+      "event": "Five tonnes of explosives set to blow up in Iowa",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "army",
+        "blow",
+        "detonate",
+        "explosives",
+        "five",
+        "iowa",
+        "nearly",
+        "preparing",
+        "set",
+        "the",
+        "tonnes",
+        "unstable",
+        "wednesday"
+      ],
+      "source_excerpt": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
+          "published_at": "2026-11-24T17:33:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ce19f048815aef83b2945ba6",
+      "remembered_at": "2026-11-24T17:39:28.958820+00:00",
+      "event_date": "2026-11-24T17:25:57+00:00",
+      "last_update": "2026-11-24T17:25:57+00:00",
+      "event": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affiliates",
+        "analysts",
+        "but",
+        "everyday",
+        "have",
+        "hezbollah",
+        "hurting",
+        "impact",
+        "lebanese",
+        "lebanon",
+        "limited",
+        "may",
+        "risk",
+        "sanctions",
+        "say",
+        "significantly",
+        "unlikely",
+        "weaken"
+      ],
+      "source_excerpt": "Analysts say US sanctions unlikely to weaken Hezbollah significantly, but risk hurting everyday Lebanese.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
+          "published_at": "2026-11-24T17:25:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9b4862dc6b0b704e608dd281",
+      "remembered_at": "2026-11-24T17:39:28.958820+00:00",
+      "event_date": "2026-11-24T16:41:22+00:00",
+      "last_update": "2026-11-24T16:41:22+00:00",
+      "event": "How Senegal got their AFCON trophy back",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afcon",
+        "back",
+        "controversy",
+        "court",
+        "examines",
+        "got",
+        "highest",
+        "how",
+        "jazeera",
+        "johnson",
+        "reached",
+        "samantha",
+        "senegal",
+        "sport",
+        "their",
+        "title",
+        "trophy"
+      ],
+      "source_excerpt": "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss",
+          "published_at": "2026-11-24T16:41:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T16:45:18.458476+00:00"
+  "updated_at": "2026-11-24T17:39:28.958820+00:00"
 }

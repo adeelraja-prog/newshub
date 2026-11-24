@@ -1,57 +1,54 @@
-# News Hub report - Tue 24 Nov, 09:45 PM PKT
+# News Hub report - Tue 24 Nov, 10:39 PM PKT
 
 ## Collection
-- New items this run: 109 | items in rolling pool: 1087
-- Unique story clusters: 865 (duplicates merged: 222)
-- Clusters dropped as already published/queued: 20; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 33, Al Jazeera 9, Pakistan Today 9, samaa tv 4, Geo News 4, ARY News 4, TechCrunch 4, Engadget 4, Jang Urdu 3, The Verge 3, Ars Technica 3, Dawn Pakistan 2
+- New items this run: 80 | items in rolling pool: 1071
+- Unique story clusters: 856 (duplicates merged: 215)
+- Clusters dropped as already published/queued: 15; unchanged since last analysis: 4
+- Items per outlet: Geo News 10, UrduPoint 10, Pakistan Today 8, ARY News 5, Al Jazeera 5, Engadget 4, Dawn 3, TechCrunch 3, TechJuice 3, BBC 3, The News International 2, The Express Tribune 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
+- Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Balochistan govt announces rewards of up to Rs250m for information on wanted terrorists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Yemen’s Houthi group, four senior officials | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Imran Khan moves IHC for live-streaming of £190m case appeal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Balochistan govt announces rewards of up to Rs250m for information on wanted terrorists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Yemen’s Houthi group, four senior officials | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Imran Khan moves IHC for live-streaming of £190m case appeal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Balochistan govt announces rewards of up to Rs250m for information on wanted terrorists | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why is China investigating Shanghai Party Chief Chen Jining? What we know so far | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK sanctions Yemen’s Houthi group, four senior officials | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan’s business sentiment deteriorates sharply amid Mideast tensions, says OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Imran Khan moves IHC for live-streaming of £190m case appeal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 7
+- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 3
 
 ## Queue status
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
-- [needs_review] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
-- [needs_review] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
-- [needs_review] normal | Govt rejects PTI demand on electoral reforms committee | Sat 21 Nov, 04:22 PM PKT
-- [needs_review] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
 - [needs_review] normal | New drug combo shrinks tumours in most pancreatic cancer patients | Sat 21 Nov, 04:52 PM PKT
 - [needs_review] normal | SICVD treats over 22,600 heart attack patients in ten months | Sat 21 Nov, 07:52 PM PKT
 - [needs_review] normal | Pakistan and Indonesia wrap up Elang Strike-III counter-terrorism dril | Sat 21 Nov, 08:27 PM PKT
@@ -61,11 +58,9 @@
 - [needs_review] normal | Could Iran reverse its stated policy of a civil-only nuclear programme | Sat 21 Nov, 09:36 PM PKT
 - [needs_review] normal | Africa's CAF Backs FIFA President Infantino's Re-election | Sat 21 Nov, 09:55 PM PKT
 - [needs_review] normal | Newcastle United Faces Arsenal in Premier League Clash | Sat 21 Nov, 10:05 PM PKT
-- [published] normal | Tankers Hit in Strait of Hormuz Amid Rising Tensions | Sat 21 Nov, 10:15 PM PKT
 - [needs_review] normal | Independent Review Ordered into NHS Grampian Surgery Deaths | Sat 21 Nov, 10:25 PM PKT
 - [needs_review] normal | Indian opposition issues ultimatum to Meta over account removals | Sat 21 Nov, 10:39 PM PKT
 - [needs_review] normal | Security forces eliminate 15 terrorists in Balochistan's Mastung | Sat 21 Nov, 10:49 PM PKT
-- [published] normal | Punjab CCD school bag checks spark social media debate | Sat 21 Nov, 10:59 PM PKT
 - [needs_review] normal | French presidential candidate blames media for racist attack | Sat 21 Nov, 11:09 PM PKT
 - [needs_review] normal | Could Brexit be reversed in the future? | Sat 21 Nov, 11:21 PM PKT
 - [needs_review] normal | Punjab Workers Welfare Fund launches new WhatsApp helpline | Sat 21 Nov, 11:31 PM PKT
@@ -247,18 +242,18 @@
 - [needs_review] normal | DR Congo searches for missing cargo plane as rebels claim shootdown | Tue 24 Nov, 03:12 PM PKT
 - [needs_review] normal | PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust ap | Tue 24 Nov, 03:22 PM PKT
 - [published] normal | Plea filed in LHC against alleged police siege of Fazl's Lahore home | Tue 24 Nov, 03:53 PM PKT
-- [queued] normal | Five suspected terrorists killed in CTD intelligence-based operation i | Tue 24 Nov, 04:03 PM PKT
-- [queued] normal | Peshawar CTD operation leaves five terrorists dead, weapons and grenad | Tue 24 Nov, 04:13 PM PKT
-- [queued] normal | Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status | Tue 24 Nov, 04:23 PM PKT
+- [needs_review] normal | Five suspected terrorists killed in CTD intelligence-based operation i | Tue 24 Nov, 04:03 PM PKT
+- [needs_review] normal | Peshawar CTD operation leaves five terrorists dead, weapons and grenad | Tue 24 Nov, 04:13 PM PKT
+- [needs_review] normal | Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status | Tue 24 Nov, 04:23 PM PKT
 - [queued] promo | [YouTube] MAULANA FAZLUR REHMAN BETRAYED? RANA SLAMS MOHSIN NAQVI | Tue 24 Nov, 04:55 PM PKT
 - [queued] promo | [YouTube] KHAWAJA ASIF EXPOSED! THE ANGRY MAN GOES SILENT | Tue 24 Nov, 04:55 PM PKT
-- [queued] normal | Iraq Orders Takeover of Oilfields in Kurdish-Controlled Areas | Tue 24 Nov, 04:55 PM PKT
+- [published] normal | Iraq Orders Takeover of Oilfields in Kurdish-Controlled Areas | Tue 24 Nov, 04:55 PM PKT
 - [queued] normal | Woman Receiving British-Era Pension Passes Away at 107 in Sindh | Tue 24 Nov, 05:05 PM PKT
 - [queued] normal | Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat | Tue 24 Nov, 05:15 PM PKT
 - [queued] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
 
 ## Publishing this run
-- Published 'Plea filed in LHC against alleged police siege of Fazl's Lahore home'.
+- Published 'Iraq Orders Takeover of Oilfields in Kurdish-Controlled Areas'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
