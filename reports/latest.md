@@ -1,35 +1,35 @@
-# News Hub report - Tue 24 Nov, 02:52 PM PKT
+# News Hub report - Tue 24 Nov, 03:53 PM PKT
 
 ## Collection
-- New items this run: 116 | items in rolling pool: 483
-- Unique story clusters: 420 (duplicates merged: 63)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 56, samaa tv 7, ProPakistani 7, ARY News 6, TechJuice 6, Geo News 5, Investify 4, GSMArena 3, Dawn 2, Engadget 2, Profit by Pakistan Today 2, UNITED24 Media 2
+- New items this run: 164 | items in rolling pool: 632
+- Unique story clusters: 544 (duplicates merged: 88)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 9
+- Items per outlet: UrduPoint 100, ProPakistani 10, Geo News 8, Dunya News 7, ARY News 6, Al Jazeera 5, Wired 4, The Current 3, The News International 2, Dawn Latest 2, The Express Tribune 2, samaa tv 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- DR Congo says aircraft missing as rebels claim to shoot down plane | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Imran wants PTI to expand political alliance, extend outreach to Fazl and other opposition parties, core committee told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI moves IHC for live broadcast of Al-Qadir Trust case hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US army says detonation of lead explosives in Iowa will proceed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- پشاور: سی ٹی ڈی کا انٹیلیجنس بیسڈ آپریشن، 5 دہشت گرد ہلاک | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tetra Pak Pakistan's lahore factory becomes fifth globally to achieve WCM Diamond Band Status | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Helpful but awkward: My week with Meta's Muse ahead of its UK launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Urgent action' needed to protect lake | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- DR Congo says aircraft missing as rebels claim to shoot down plane | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Imran wants PTI to expand political alliance, extend outreach to Fazl and other opposition parties, core committee told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI moves IHC for live broadcast of Al-Qadir Trust case hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US army says detonation of lead explosives in Iowa will proceed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- پشاور: سی ٹی ڈی کا انٹیلیجنس بیسڈ آپریشن، 5 دہشت گرد ہلاک | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tetra Pak Pakistan's lahore factory becomes fifth globally to achieve WCM Diamond Band Status | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Helpful but awkward: My week with Meta's Muse ahead of its UK launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Urgent action' needed to protect lake | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- DR Congo says aircraft missing as rebels claim to shoot down plane | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Imran wants PTI to expand political alliance, extend outreach to Fazl and other opposition parties, core committee told | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI moves IHC for live broadcast of Al-Qadir Trust case hearing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US army says detonation of lead explosives in Iowa will proceed | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five terrorists killed in CTD operation in Peshawar | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- پشاور: سی ٹی ڈی کا انٹیلیجنس بیسڈ آپریشن، 5 دہشت گرد ہلاک | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tetra Pak Pakistan's lahore factory becomes fifth globally to achieve WCM Diamond Band Status | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Helpful but awkward: My week with Meta's Muse ahead of its UK launch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Urgent action' needed to protect lake | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,112 +39,111 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Imran Khan directs PTI to expand political alliance and reach out to Fazl  [NORMAL]
-- Poster: عمران خان کی پی ٹی آئی کو سیاسی اتحاد وسیع کرنے اور فضل الرحمان سے رابطے کی ہدایت / Imran wants PTI to expand alliance and reach out to Fazl | category politics
-- Alternative headline: PTI core committee told of Imran's push for broader opposition alliance
+### Plea filed in LHC against alleged police siege of Fazl's Lahore home  [NORMAL]
+- Poster: لاہور ہائیکورٹ میں مولانا فضل الرحمٰن کی رہائش گاہ کے محاصرے کیخلاف درخواست دائر / Plea in LHC against alleged siege of Fazl's residence | category politics
+- Alternative headline: JUI-F moves Lahore High Court challenging police deployment at Maulana Fazl's residence
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046742/imran-wants-pti-to-expand-political-alliance-extend-outreach-to-fazl-and-other-opposition-parties-core-committee-told | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046742/imran-wants-pti-to-expand-political-alliance-extend-outreach-to-fazl-and-other-opposition-parties-core-committee-told
-- Supporting coverage: Dawn Pakistan, samaa tv
-- Keywords: Imran Khan, PTI, Maulana Fazlur Rehman, Latif Khosa, opposition alliance, Adiala Jail | hashtags: #ImranKhan #PTI #MaulanaFazlurRehman #PakistanPolitics #AdialaJail
-- Scheduled: Tue 24 Nov, 02:52 PM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046756/plea-filed-in-lhc-against-alleged-siege-of-fazls-residence-in-lahore | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046756/plea-filed-in-lhc-against-alleged-siege-of-fazls-residence-in-lahore
+- Supporting coverage: Dawn Pakistan
+- Keywords: Maulana Fazlur Rehman, Lahore High Court, JUI-F, police siege, Lahore, petition | hashtags: #MaulanaFazlurRehman #LHC #JUIF #Lahore #PakistanPolitics
+- Scheduled: Tue 24 Nov, 03:53 PM PKT
 - Caption:
 ```
-Jailed PTI founder Imran Khan has directed his party to expand its political alliance and reach out to Maulana Fazlur Rehman and other opposition parties.
+A petition has been filed in the Lahore High Court challenging the alleged police siege of JUI-F chief Maulana Fazlur Rehman's residence.
 
-The PTI’s core committee was informed that incarcerated founder Imran Khan wants to expand the party's political alliance and initiate outreach to JUI-F chief Maulana Fazlur Rehman and other opposition leaders. The directives were conveyed by lawyer Latif Khosa following his meeting with Imran at Adiala Jail.
+A petition was filed in the Lahore High Court by JUI-F challenging the alleged police siege of party chief Maulana Fazlur Rehman's residence in Lahore. The petitioner claimed around 3,000 police personnel were deployed, confining him and denying meetings, while the party stated he was invited to address the Lahore High Court Bar Association.
 
-پی ٹی آئی کی کور کمیٹی کو بتایا گیا ہے کہ بانی چیئرمین عمران خان نے سیاسی اتحاد کو وسیع کرنے اور جمعیت علمائے اسلام (ف) کے سربراہ مولانا فضل الرحمان سمیت دیگر اپوزیشن جماعتوں سے رابطے بڑھانے کی ہدایت کی ہے۔ یہ ہدایات وکیل لطیف کھوسہ نے اڈیالہ جیل میں ملاقات کے بعد کمیٹی کو دیں۔
+لاہور ہائیکورٹ میں جمعیت علمائے اسلام کے سربراہ مولانا فضل الرحمٰن کی رہائش گاہ کے مبینہ محاصرے کے خلاف درخواست دائر کر دی گئی۔ وکیل نے الزام عائد کیا کہ رہائش گاہ کے باہر تین ہزار کے قریب پولیس اہلکار تعینات ہیں اور فضل الرحمٰن کو گھر تک محدود کر دیا گیا ہے۔
 
-First reported by Dawn Pakistan.
+First reported by Dawn Pakistan
 
-#ImranKhan #PTI #MaulanaFazlurRehman #PakistanPolitics #AdialaJail
+#MaulanaFazlurRehman #LHC #JUIF #Lahore #PakistanPolitics
 ```
 
-### Ousted Bangladesh PM Sheikh Hasina plans to return on December 16  [NORMAL]
-- Poster: معزول وزیراعظم شیخ حسینہ کا 16 دسمبر کو بنگلہ دیش واپس آنے کا اعلان / Sheikh Hasina plans to return to Bangladesh on Dec 16 | category other
-- Alternative headline: Sheikh Hasina seeks return to Bangladesh aboard state carrier on Dec 16
+### Five suspected terrorists killed in CTD intelligence-based operation in Peshawar  [NORMAL]
+- Poster: پشاور میں سی ٹی ڈی کا آپریشن، فائرنگ کے تبادلے میں پانچ دہشتگرد ہلاک / Five terrorists killed in CTD Peshawar operation | category security
+- Alternative headline: CTD operation in Peshawar leaves five militants dead as TTP commander escapes
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/sheikh-hasina-seeks-to-return-to-bangladesh-on-state-carrier
-- Supporting coverage: ARY News, BBC World, Al Jazeera, Geo News
-- Keywords: Sheikh Hasina, Bangladesh, Biman Bangladesh Airlines, India, exile, December 16 | hashtags: #SheikhHasina #Bangladesh #Dhaka #Delhi #WorldNews
-- Scheduled: Tue 24 Nov, 03:02 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/five-terrorists-killed-in-ctd-operation-in-peshawar | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/five-terrorists-killed-in-ctd-operation-in-peshawar
+- Supporting coverage: ARY News, samaa tv
+- Keywords: CTD operation, Peshawar, terrorists killed, Counter-Terrorism Department, TTP, Badaber | hashtags: #CTD #Peshawar #CounterTerrorism #Security #Pakistan
+- Scheduled: Tue 24 Nov, 04:03 PM PKT
 - Caption:
 ```
-Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on December 16, her spokesperson announced.
+Five suspected terrorists were killed during an intelligence-based operation conducted by the Counter-Terrorism Department in Peshawar.
 
-Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from more than two years of exile in India on December 16, coinciding with the anniversary of the 1971 liberation war. Her spokesperson urged the government to arrange her transport on flag carrier Biman Bangladesh Airlines.
+Five suspected terrorists were killed in an intelligence-based operation conducted by the Counter-Terrorism Department in the Peshawar region. According to the CTD, the operation took place in the Badaber area following reports of militants planning attacks, while a TTP commander and his accomplices managed to escape during the exchange of fire.
 
-بنگلہ دیش کی معزول وزیر اعظم شیخ حسینہ نے بھارت میں دو سال سے زائد جلاوطنی کے بعد 16 دسمبر کو وطن واپس آنے کا اعلان کیا ہے۔ ان کے ترجمان نے حکومت سے مطالبہ کیا ہے کہ وہ قومی ایئر لائن کے ذریعے ان کی واپسی کا انتظام کرے۔
+پشاور کے علاقے میں انسدادِ دہشت گردی محکمہ کے انٹیلی جنس بیسڈ آپریشن کے دوران پانچ مبینہ دہشت گرد ہلاک ہو گئے۔ سی ٹی ڈی کے مطابق یہ کارروائی مصدقہ اطلاعات پر کی گئی جبکہ فائرنگ کے تبادلے کے دوران ایک ٹی ٹی پی کمانڈر اپنے ساتھیوں سمیت فرار ہونے میں کامیاب ہو گیا۔
 
-First reported by ARY News.
+First reported by ARY News
 
-#SheikhHasina #Bangladesh #Dhaka #Delhi #WorldNews
+#CTD #Peshawar #CounterTerrorism #Security #Pakistan
 ```
 
-### DR Congo searches for missing cargo plane as rebels claim shootdown  [NORMAL]
-- Poster: ڈی آر کانگو میں کارگو طیارہ لاپتہ، باغیوں کی جانب سے گرانے کا دعویٰ / DR Congo searches for missing plane as rebels claim attack | category security
-- Alternative headline: DR Congo military loses contact with cargo plane amid rebel claims
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, BBC
-- Keywords: DR Congo, missing plane, rebels, South Kivu, Cessna 208, Uganda | hashtags: #DRCongo #BreakingNews #Africa #Aviation #Security
-- Scheduled: Tue 24 Nov, 03:12 PM PKT
-- Caption:
-```
-The Democratic Republic of Congo is searching for a missing cargo plane after rebels claimed they shot down a warplane in the country's east.
-
-The Democratic Republic of Congo military is searching for a Cessna 208 cargo plane after losing contact with it due to poor weather. Meanwhile, the rebel FRN claimed they shot down a warplane in South Kivu province. Ugandan and South African pilots were reportedly on board.
-
-ڈیموکریٹک ریپبلک آف کانگو کی فوج ایک لاپتہ کارگو طیارے کی تلاش کر رہی ہے جبکہ باغیوں نے ملک کے مشرقی حصے میں ایک جنگی طیارہ گرانے کا دعویٰ کیا ہے۔ حکام کے مطابق طیارے سے رابطہ خراب موسم کی وجہ سے منقطع ہوا۔
-
-First reported by BBC World.
-
-#DRCongo #BreakingNews #Africa #Aviation #Security
-```
-
-### PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust appeal  [NORMAL]
-- Poster: پی ٹی آئی نے القادر ٹرسٹ کیس کی سماعت کی براہ راست نشریات کیلئے عدالت سے رجوع کر لیا / PTI moves IHC for live broadcast of Al-Qadir Trust case | category courts
-- Alternative headline: PTI petitions IHC seeking live coverage of Imran Khan's case hearing
+### Peshawar CTD operation leaves five terrorists dead, weapons and grenades recovered  [NORMAL]
+- Poster: پشاور: سی ٹی ڈی آپریشن میں پانچ دہشتگرد ہلاک، اسلحہ اور دستی بم برآمد / Peshawar CTD operation kills five terrorists | category security
+- Alternative headline: Five militants killed in Peshawar shootout as TTP commander escapes
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046751/pti-moves-ihc-for-live-broadcast-of-al-qadir-trust-case-hearing | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046751/pti-moves-ihc-for-live-broadcast-of-al-qadir-trust-case-hearing
-- Supporting coverage: Dawn Latest, Dawn
-- Keywords: Al-Qadir Trust case, PTI, Islamabad High Court, Imran Khan, live broadcast, Bushra Bibi | hashtags: #PTI #AlQadirTrustCase #IslamabadHighCourt #ImranKhan #PakistanCourts
-- Scheduled: Tue 24 Nov, 03:22 PM PKT
+- Original source: published_report - Jang Urdu https://jang.com.pk/news/1636293 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Jang Urdu https://jang.com.pk/news/1636293
+- Supporting coverage: Jang Urdu, UrduPoint
+- Keywords: CTD operation Peshawar, Peshawar, terrorists killed, Jang Urdu, weapons recovered, Badaber | hashtags: #Peshawar #CTD #SecurityOperation #BreakingNews #Pakistan
+- Scheduled: Tue 24 Nov, 04:13 PM PKT
 - Caption:
 ```
-The PTI has petitioned the Islamabad High Court seeking a live broadcast of the appeal proceedings in the Al-Qadir Trust case.
+Five terrorists were killed in an exchange of fire during a CTD intelligence-based operation in Peshawar.
 
-The PTI has filed a petition in the Islamabad High Court requesting a live broadcast of the appeal proceedings in the £190 million Al-Qadir Trust case involving founder Imran Khan. Lawyers argue that live coverage is essential to ensure judicial transparency and counter misinformation.
+Five terrorists were killed during a 20 to 25 minute exchange of fire in an intelligence-based operation by the Counter-Terrorism Department in Peshawar's Khor Meera Bacha Khel area. Authorities recovered three Kalashnikovs, two pistols, and a hand grenade, while a proscribed group commander managed to escape.
 
-پاکستان تحریک انصاف نے بانی چیئرمین عمران خان کے خلاف 190 ملین پاؤنڈز کے القادر ٹرسٹ کیس کی اپیل کی سماعت براہ راست نشر کرنے کے لیے اسلام آباد ہائیکورٹ میں درخواست دائر کر دی ہے۔ وکلاء کا مؤقف ہے کہ اس سے شفافیت کو یقینی بنانے میں مدد ملے گی۔
+پشاور کے علاقے خوڑ میرہ باچاخیل میں سی ٹی ڈی کے انٹیلی جنس بیسڈ آپریشن کے دوران فائرنگ کے تبادلے میں پانچ دہشت گرد ہلاک ہو گئے۔ حکام کے مطابق آپریشن کے بعد ہلاک دہشت گردوں کے قبضے سے کلاشنکوف، پستول اور دستی بم برآمد ہوئے ہیں۔
 
-First reported by Dawn Latest.
+First reported by Jang Urdu
 
-#PTI #AlQadirTrustCase #IslamabadHighCourt #ImranKhan #PakistanCourts
+#Peshawar #CTD #SecurityOperation #BreakingNews #Pakistan
 ```
 
-- Indian outlets blocked this run: 6 items
+### Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status  [NORMAL]
+- Poster: ٹیٹرا پیک پاکستان کی لاہور فیکٹری نے ڈائمنڈ بینڈ اسٹیٹس حاصل کر لیا / Tetra Pak Lahore plant achieves Diamond Band status | category other
+- Alternative headline: Lahore plant becomes fifth globally to earn Tetra Pak's WCM Diamond Band
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMixAFBVV95cUxNanFFbGdmVzR4RjluN2VwS1RzVDhMTHJaNm1JUExoQ2JWckw4MW5vbW5hUldmb2pMUTlUX3dfejMzNFBYcFJjTEEzY21Ja0ZKRDVrUGs2VzRYQ3V0VUJ6WkNXcXlFYjJBNTUyRm1xVDExWVVOTFZuazZSNzF5TU1JdHRvTU81b1ZYdTQ2U1pZWENkS2ljdV9zMUU2YWFxUEhzelF5bkFhUk91bE5xenZpMUo5MHFtR2xaNDRxVHhIOC1BaUQ1?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMixAFBVV95cUxNanFFbGdmVzR4RjluN2VwS1RzVDhMTHJaNm1JUExoQ2JWckw4MW5vbW5hUldmb2pMUTlUX3dfejMzNFBYcFJjTEEzY21Ja0ZKRDVrUGs2VzRYQ3V0VUJ6WkNXcXlFYjJBNTUyRm1xVDExWVVOTFZuazZSNzF5TU1JdHRvTU81b1ZYdTQ2U1pZWENkS2ljdV9zMUU2YWFxUEhzelF5bkFhUk91bE5xenZpMUo5MHFtR2xaNDRxVHhIOC1BaUQ1?oc=5
+- Supporting coverage: Dawn
+- Keywords: Tetra Pak Pakistan, Lahore factory, WCM Diamond Band, World Class Manufacturing, Dawn | hashtags: #TetraPak #Lahore #WCM #Manufacturing #Pakistan
+- Scheduled: Tue 24 Nov, 04:23 PM PKT
+- Caption:
+```
+Tetra Pak Pakistan's Lahore factory has become the fifth globally to achieve World Class Manufacturing Diamond Band status.
+
+Tetra Pak Pakistan's Lahore factory has achieved World Class Manufacturing Diamond Band Status, making it the fifth facility globally to reach this milestone, as reported by Dawn.
+
+ڈان کے مطابق ٹیٹرا پیک پاکستان کی لاہور فیکٹری عالمی سطح پر ورلڈ کلاس مینوفیکچرنگ ڈائمنڈ بینڈ اسٹیٹس حاصل کرنے والی دنیا کی پانچویں فیکٹری بن گئی ہے۔
+
+First reported by Dawn
+
+#TetraPak #Lahore #WCM #Manufacturing #Pakistan
+```
+
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
 
 ## Queue status
 - [needs_review] promo | [YouTube] Siddiq Jan DESTROYS Komal Butt | Taimur Jhagra Missing? | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] SHAHZEB KHANZADA EXPOSED? BILAWAL INTERVIEW LEAKS! | Fri 20 Nov, 05:28 PM PKT
 - [needs_review] promo | [YouTube] MAULANA'S WARNING TO ESTABLISHMENT | IMRAN KHAN IS THE STATE | Fri 20 Nov, 10:43 PM PKT
-- [needs_review] normal | ECC Lowers Export Threshold for Small and Medium Enterprises | Sat 21 Nov, 08:51 AM PKT
 - [needs_review] normal | Gujranwala and Multan overtake Lahore in severe air pollution | Sat 21 Nov, 12:00 PM PKT
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] normal | Basra power station fire in Iraq kills at least four, injures 30 | Sat 21 Nov, 01:01 PM PKT
@@ -152,10 +151,8 @@ First reported by Dawn Latest.
 - [needs_review] normal | Father accused of raping daughter killed in CCD encounter in Kot Addu | Sat 21 Nov, 01:21 PM PKT
 - [needs_review] normal | Zelensky Calls Putin a Killer After Trump Refers to Russian Leader as  | Sat 21 Nov, 01:59 PM PKT
 - [needs_review] normal | Internet Provider Expects Submarine Cable Repairs to Be Completed by D | Sat 21 Nov, 02:09 PM PKT
-- [published] normal | Illicit alcohol kills 11 people and poisons 180 in northeast India | Sat 21 Nov, 03:29 PM PKT
 - [needs_review] normal | Pat Cummins secures unanimous support from Cricket Australia to remain | Sat 21 Nov, 03:39 PM PKT
 - [needs_review] normal | Pakistan stresses multilateralism, warns against bloc and unilateral p | Sat 21 Nov, 03:49 PM PKT
-- [published] normal | Three US citizens among four convicted in Honduras sex-trafficking cas | Sat 21 Nov, 03:59 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] normal | Govt rejects PTI demand on electoral reforms committee | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] normal | Warner and Khawaja taken off air over Sandpapergate storm | Sat 21 Nov, 04:32 PM PKT
@@ -337,10 +334,10 @@ First reported by Dawn Latest.
 - [needs_review] normal | Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money | Tue 24 Nov, 08:12 AM PKT
 - [needs_review] normal | Israeli Minister Approves Return of Flydubai Flights | Tue 24 Nov, 08:22 AM PKT
 - [published] normal | Bangladesh Parliament Speaker Begins Six-Day Official Visit to Pakista | Tue 24 Nov, 08:56 AM PKT
-- [queued] normal | Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrag | Tue 24 Nov, 09:06 AM PKT
-- [queued] normal | UN Chief Urges Global Agreement on AI Oversight Within a Year | Tue 24 Nov, 09:16 AM PKT
-- [queued] normal | Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request | Tue 24 Nov, 09:26 AM PKT
-- [queued] normal | Lahore ATC Grants Five-Day Physical Remand of PTI Leader | Tue 24 Nov, 10:02 AM PKT
+- [needs_review] normal | Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrag | Tue 24 Nov, 09:06 AM PKT
+- [needs_review] normal | UN Chief Urges Global Agreement on AI Oversight Within a Year | Tue 24 Nov, 09:16 AM PKT
+- [needs_review] normal | Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request | Tue 24 Nov, 09:26 AM PKT
+- [published] normal | Lahore ATC Grants Five-Day Physical Remand of PTI Leader | Tue 24 Nov, 10:02 AM PKT
 - [queued] normal | FoodAg Exhibition Showcases Pakistan's Growing Export Potential | Tue 24 Nov, 10:12 AM PKT
 - [queued] normal | Renowned Pop Singer Bunny Passes Away in Karachi | Tue 24 Nov, 10:22 AM PKT
 - [queued] normal | Surge in Used Phone Imports Hits Local Industry Hard | Tue 24 Nov, 10:32 AM PKT
@@ -360,13 +357,17 @@ First reported by Dawn Latest.
 - [failed] normal | Ousted Bangladesh PM Sheikh Hasina plans to return on December 16 | Tue 24 Nov, 03:02 PM PKT
 - [queued] normal | DR Congo searches for missing cargo plane as rebels claim shootdown | Tue 24 Nov, 03:12 PM PKT
 - [queued] normal | PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust ap | Tue 24 Nov, 03:22 PM PKT
+- [queued] normal | Plea filed in LHC against alleged police siege of Fazl's Lahore home | Tue 24 Nov, 03:53 PM PKT
+- [queued] normal | Five suspected terrorists killed in CTD intelligence-based operation i | Tue 24 Nov, 04:03 PM PKT
+- [queued] normal | Peshawar CTD operation leaves five terrorists dead, weapons and grenad | Tue 24 Nov, 04:13 PM PKT
+- [queued] normal | Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status | Tue 24 Nov, 04:23 PM PKT
 
 ## Publishing this run
-- Published 'Bangladesh Parliament Speaker Begins Six-Day Official Visit to Pakistan'.
+- Published 'Lahore ATC Grants Five-Day Physical Remand of PTI Leader'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 5714 | output tokens: 2604
-- Errors: 3
+- Calls: 3 | prompt tokens: 4588 | output tokens: 2254
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -375,7 +376,3 @@ First reported by Dawn Latest.
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
