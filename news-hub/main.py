@@ -76,7 +76,7 @@ FORCE_PRE = fnum("FORCE_ANALYSIS_SCORE", 70)     # a very strong story triggers 
 DEPTH_SKIP = fnum("QUEUE_DEPTH_SKIP", 24)        # replenish only below the 24-story buffer threshold
 QUEUE_CAP = fnum("QUEUE_CAP", 28)                 # hard cap for normal approved stories
 WINDOW_START, WINDOW_END = fnum("WINDOW_START", 0), fnum("WINDOW_END", 24)   # PKT hours; 24/7 publishing
-SELECT_N = fnum("SELECT_N", 4)                   # add up to four approved stories per analysis cycle
+SELECT_N = fnum("SELECT_N", 6)                   # add up to six approved stories per analysis cycle
 QUEUE_TTL_H = fnum("QUEUE_TTL_HOURS", 6)           # hours after its slot before a queued story is dropped
 MAX_AHEAD_H = fnum("MAX_AHEAD_HOURS", 6)          # do not queue stories that would post later than this
 # --- editorial thresholds ---
