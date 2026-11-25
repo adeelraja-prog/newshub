@@ -1,175 +1,52 @@
-# News Hub report - Wed 25 Nov, 05:34 PM PKT
+# News Hub report - Wed 25 Nov, 06:57 PM PKT
 
 ## Collection
-- New items this run: 126 | items in rolling pool: 768
-- Unique story clusters: 642 (duplicates merged: 126)
-- Clusters dropped as already published/queued: 13; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 55, ProPakistani 10, Al Jazeera 8, samaa tv 6, ARY News 6, Geo News 5, TechJuice 5, Wired 4, BBC World 4, Dawn 3, Dawn Latest 3, The Express Tribune 2
+- New items this run: 178 | items in rolling pool: 860
+- Unique story clusters: 728 (duplicates merged: 132)
+- Clusters dropped as already published/queued: 18; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 100, Geo News 12, ARY News 10, ProPakistani 10, Al Jazeera 9, TechJuice 6, BBC Business 3, samaa tv 2, The Express Tribune 2, Aaj English TV 2, The Verge 2, TechCrunch 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja Shorts: MAULANA FAZLUR REHMAN: IS THIS THE PRICE OF POWER POLITICS? | https://www.youtube.com/watch?v=K7LFc64EkGs
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli strike kills Hamas official, his wife and children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia's own figures show it has lost nearly 500,000 people in Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Amnesty says Israeli actions in Gaza preventing births, urges ICC to investigate genocide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli strike kills Hamas official, his wife and children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia's own figures show it has lost nearly 500,000 people in Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Amnesty says Israeli actions in Gaza preventing births, urges ICC to investigate genocide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israeli strike kills Hamas official, his wife and children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia's own figures show it has lost nearly 500,000 people in Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Amnesty says Israeli actions in Gaza preventing births, urges ICC to investigate genocide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Reuters World | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Pakistan and China Agree on G2G Fuel Storage and Terminal Deals  [NORMAL]
-- Poster: پاکستان اور چین کے درمیان فیول اسٹورج اور ٹرمینل معاہدے طے / Pakistan, China Agree on Fuel Storage Deals | category politics
-- Alternative headline: Islamabad and Beijing Forge New Energy Partnership for Fuel Security
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046979/pakistan-china-agree-on-government-to-government-arrangements-for-fuel-storage-terminal-facilities | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046979/pakistan-china-agree-on-government-to-government-arrangements-for-fuel-storage-terminal-facilities
-- Supporting coverage: Dawn Pakistan, Investify
-- Keywords: fuel storage, Pakistan China energy, LPG plant, Ali Pervaiz Malik, motor gasoline, PSO | hashtags: #PakistanChina #EnergySector #PetroleumDivision #G2GDeal #Islamabad
-- Scheduled: Wed 25 Nov, 05:34 PM PKT
-- Caption:
-```
-Pakistan and China have agreed to pursue government-to-government arrangements for Chinese investment in petrol and LPG storage and terminal facilities.
-
-Pakistan and China agreed on Wednesday to pursue government-to-government arrangements for Chinese investment in petrol and liquefied petroleum gas storage and terminal facilities. Petroleum Minister Ali Pervaiz Malik and PSO CEO Jawwad Ahmed Cheema met Chinese Ambassador Jiang Zaidong to finalize priorities, including an LPG plant and motor gasoline imports.
-
-پاکستان اور چین نے بدھ کے روز پیٹرول اور ایل پی جی کی اسٹورج اور ٹرمینل کی سہولیات کے لیے جی ٹو جی بنیادوں پر تعاون پر اتفاق کیا۔ پیٹرولیم کے وزیر علی پرویز ملک اور پی ایس او کے سی ای او جواد احمد چیمہ نے چینی سفیر سے ملاقات کی۔
-
-According to a Petroleum Division statement reported by Dawn Pakistan
-
-#PakistanChina #EnergySector #PetroleumDivision #G2GDeal #Islamabad
-```
-
-### Veteran Nigerian Nollywood Actor Pete Edochie Dies Aged 79  [NORMAL]
-- Poster: نئیجیریا کے معروف اداکار پیٹ ایڈوچی 79 برس کی عمر میں انتقال کر گئے / Nigerian Actor Pete Edochie Passes Away at 79 | category other
-- Alternative headline: Legendary Nigerian Film Star Pete Edochie Passes Away at 79
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UMmRvZlRYUzM5WGZWOFdDY2c4VjVwVGppMXNpdVZmRS1IRjNkLXJhOHNPazBhRjZ0bHN5MFd3Nnp2NDlkQUZIcEl6TTBnRTNFc1VjLWxSeVdSaGM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UMmRvZlRYUzM5WGZWOFdDY2c4VjVwVGppMXNpdVZmRS1IRjNkLXJhOHNPazBhRjZ0bHN5MFd3Nnp2NDlkQUZIcEl6TTBnRTNFc1VjLWxSeVdSaGM?oc=5
-- Supporting coverage: BBC, BBC World
-- Keywords: Pete Edochie, Nollywood actor, Nigeria, Pete Edochie dies, BBC | hashtags: #PeteEdochie #Nollywood #Nigeria #BBC
-- Scheduled: Wed 25 Nov, 05:44 PM PKT
-- Caption:
-```
-Veteran Nigerian Nollywood actor Pete Edochie has passed away at the age of 79, according to reports.
-
-Veteran Nigerian Nollywood actor Pete Edochie has passed away at the age of 79. The legendary actor's death was reported by the BBC, marking a massive loss for the Nigerian film industry and his numerous fans worldwide.
-
-نئیجیریا کے معروف نولی ووڈ اداکار پیٹ ایڈوچی 79 برس کی عمر میں انتقال کر گئے ہیں۔ بی بی سی کی رپورٹ کے مطابق ان کے انتقال سے نولی ووڈ انڈسٹری ایک بڑے فنکار سے محروم ہو گئی ہے۔
-
-First reported by BBC
-
-#PeteEdochie #Nollywood #Nigeria #BBC
-```
-
-### Israeli Strike Kills Hamas Official Along With Wife and Children  [NORMAL]
-- Poster: اسرائیلی حملے میں حماس عہدیدار، ان کی اہلیہ اور بچے جاں بحق / Israeli Strike Kills Hamas Official and Family | category war
-- Alternative headline: Hamas Official, Wife and Children Killed in Latest Israeli Attack
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDgxNHZkY3NvbmtCNnVjLUVabTZlRVJKbkJGY2h1Vmk1d1FHNGFDdU11ZEFpT2JZZGZpZUdEdU4zLXVJc3Y5RU5FeEZIQ0NPSHJXelNSMi1lTmZtMmNQblZ6bVBRd1VNNUJoMEhwSDdIeWcwT1pLLU5oTTlCNmpMV3NR?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDgxNHZkY3NvbmtCNnVjLUVabTZlRVJKbkJGY2h1Vmk1d1FHNGFDdU11ZEFpT2JZZGZpZUdEdU4zLXVJc3Y5RU5FeEZIQ0NPSHJXelNSMi1lTmZtMmNQblZ6bVBRd1VNNUJoMEhwSDdIeWcwT1pLLU5oTTlCNmpMV3NR?oc=5
-- Supporting coverage: ARYnews.tv, ARY News, Al Jazeera
-- Keywords: Israeli strike, Hamas official, Gaza conflict, Al Jazeera, ARY News | hashtags: #Gaza #Hamas #Israel #Airstrike
-- Scheduled: Wed 25 Nov, 05:54 PM PKT
-- Caption:
-```
-An Israeli strike has reportedly killed a Hamas official, along with his wife and children.
-
-An Israeli airstrike has resulted in the deaths of a Hamas official, his wife, and their children. The incident was reported by ARY News and Al Jazeera amid ongoing regional hostilities.
-
-اسرائیلی فضائی حملے میں حماس کے ایک عہدیدار، ان کی اہلیہ اور بچے جاں بحق ہو گئے۔ اس واقعے کی رپورٹ اے آر وائی نیوز اور الجزیرہ نے دی ہے۔
-
-First reported by ARYnews.tv; also reported by Al Jazeera
-
-#Gaza #Hamas #Israel #Airstrike
-```
-
-### Two Libyan Soldiers Die From Injuries in Attack on Russian Vessels  [NORMAL]
-- Poster: روسی بحری جہازوں پر حملے میں دو لیبیائی فوجی جاں بحق / Two Libyan Soldiers Killed in Benghazi Attack | category war
-- Alternative headline: Libyan Naval Forces Members Killed in Benghazi Port Attack
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/two-libyan-soldiers-die-injuries-attack-russian-vessels | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/two-libyan-soldiers-die-injuries-attack-russian-vessels
-- Supporting coverage: ARY News, Libya Herald, Al Jazeera
-- Keywords: Libyan soldiers, Benghazi attack, Russian vessels, Saddam Haftar, Ukraine | hashtags: #Libya #Benghazi #Russia #Ukraine #Military
-- Scheduled: Wed 25 Nov, 06:04 PM PKT
-- Caption:
-```
-Two Libyan soldiers have died from injuries sustained in an attack on Russian vessels near Benghazi.
-
-Two Libyan soldiers died from injuries sustained in an attack on Russian vessels near Benghazi, claimed by Ukraine, according to eastern Libyan officials. Saddam Haftar paid tribute to the fallen naval personnel following the incident at Benghazi Naval Base.
-
-بنغازی کے قریب روسی بحری جہازوں پر حملے میں دو لیبیائی فوجی جاں بحق ہو گئے۔ مشرقی لیبیا کے حکام کے مطابق یہ حملہ یوکرین کی جانب سے کیا گیا تھا۔
-
-First reported by ARY News; also reported by AFP
-
-#Libya #Benghazi #Russia #Ukraine #Military
-```
-
-### Bangladesh Garment Workers Win 36 Percent Minimum Wage Rise  [NORMAL]
-- Poster: بنگلہ دیشی گارمنٹ ورکرز کے لیے کم از کم اجرت میں 36 فیصد اضافہ / Bangladesh Garment Workers Win 36% Wage Rise | category economy
-- Alternative headline: Bangladesh Garment Workers Secure 36pc Pay Increase After Protests
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/bangladesh-garment-workers-win-36-percent-wage-rise | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/bangladesh-garment-workers-win-36-percent-wage-rise
-- Supporting coverage: ARY News, Dawn, Dawn Latest, Al Jazeera
-- Keywords: Bangladesh garment workers, minimum wage, wage rise, protests, Bangladesh economy | hashtags: #Bangladesh #GarmentWorkers #MinimumWage #Economy
-- Scheduled: Wed 25 Nov, 06:14 PM PKT
-- Caption:
-```
-Bangladesh's garment workers have won a 36 percent minimum wage increase following weeks of protests.
-
-Bangladesh’s garment workers won a 36 percent minimum wage increase on Wednesday following lengthy negotiations and widespread protests. The new minimum wage is set at 17,000 taka, replacing the previous rate after three years instead of the usual five.
-
-بنگلہ دیشی گارمنٹ ورکرز نے طویل مذاکرات اور احتجاج کے بعد کم از کم اجرت میں 36 فیصد اضافے کی کامیابی حاصل کر لی ہے۔ نئی کم از کم اجرت 17,000 ٹکا مقرر کی گئی ہے۔
-
-First reported by ARY News; also reported by AFP and Dawn
-
-#Bangladesh #GarmentWorkers #MinimumWage #Economy
-```
-
-- Indian outlets blocked this run: 7 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 10
 
 ## Queue status
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
-- [needs_review] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
-- [needs_review] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
-- [needs_review] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
 - [needs_review] normal | Veteran journalist Hussain Naqi passes away in Lahore | Sun 22 Nov, 02:50 PM PKT
 - [needs_review] normal | Three TTP-linked terrorists killed in CTD operation near Peshawar | Sun 22 Nov, 03:00 PM PKT
 - [needs_review] normal | Saudi-led coalition intercepts Houthi ballistic missile targeting west | Sun 22 Nov, 03:24 PM PKT
@@ -179,11 +56,8 @@ First reported by ARY News; also reported by AFP and Dawn
 - [needs_review] normal | South Korea Education Minister Resigns Over National Exam Cheating Sca | Sun 22 Nov, 04:14 PM PKT
 - [needs_review] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
 - [needs_review] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
-- [published] normal | Major Karachi roads closed as political parties stage rallies | Sun 22 Nov, 05:58 PM PKT
-- [published] normal | Latest news and updates regarding India from BBC | Sun 22 Nov, 06:08 PM PKT
 - [needs_review] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
 - [needs_review] normal | Karachi placed on high alert amid upcoming political rallies | Sun 22 Nov, 06:28 PM PKT
-- [published] normal | Can the US Congress stop an Iran war like it did in Vietnam? | Sun 22 Nov, 06:57 PM PKT
 - [needs_review] normal | Italian jeweller and businessman Paolo Bulgari dies aged 89 | Sun 22 Nov, 07:07 PM PKT
 - [needs_review] normal | Main suspect in Karachi mother-daughter murder arrested in Larkana | Sun 22 Nov, 07:17 PM PKT
 - [needs_review] normal | Bruno Fernandes puts Manchester United contract talks on hold | Sun 22 Nov, 07:27 PM PKT
@@ -341,7 +215,7 @@ First reported by ARY News; also reported by AFP and Dawn
 - [needs_review] normal | Three held, illegal heavy weapons seized in Gilgit | Wed 25 Nov, 10:51 AM PKT
 - [needs_review] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
 - [published] promo | [YouTube] IMRAN KHAN’S MESSAGE, MARYAM NAWAZ SHOE INCIDENT & PML-N CRI | Wed 25 Nov, 03:18 PM PKT
-- [queued] normal | Could Netanyahu trigger a wider war with Iran to cling to power? | Wed 25 Nov, 04:23 PM PKT
+- [published] normal | Could Netanyahu trigger a wider war with Iran to cling to power? | Wed 25 Nov, 04:23 PM PKT
 - [queued] normal | Pakistan makes history as Zeeshan Ali reaches space aboard China's She | Wed 25 Nov, 04:33 PM PKT
 - [queued] normal | Under-construction building collapses near Karachi's Baloch Colony, ca | Wed 25 Nov, 04:43 PM PKT
 - [queued] normal | ADB approves $250m loan to boost private investment in Pakistan | Wed 25 Nov, 04:53 PM PKT
@@ -355,11 +229,11 @@ First reported by ARY News; also reported by AFP and Dawn
 - [queued] normal | Bangladesh Garment Workers Win 36 Percent Minimum Wage Rise | Wed 25 Nov, 06:14 PM PKT
 
 ## Publishing this run
-- Published '[YouTube] MAULANA FAZLUR REHMAN: IS THIS THE PRICE OF POWER POLITICS?'.
+- Published 'Could Netanyahu trigger a wider war with Iran to cling to power?'.
 
 ## Gemini usage
-- Calls: 7 | prompt tokens: 8172 | output tokens: 3096
-- Errors: 6
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -373,11 +247,7 @@ First reported by ARY News; also reported by AFP and Dawn
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "message"

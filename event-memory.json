@@ -154321,7 +154321,862 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f9987c525e5ef58c5ce3aa7a",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T12:21:49+00:00",
+      "last_update": "2026-11-25T13:50:43+00:00",
+      "event": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "500",
+        "changed",
+        "data",
+        "figures",
+        "full",
+        "fundamentally",
+        "has",
+        "how",
+        "invasion",
+        "leaked",
+        "lost",
+        "mortality",
+        "nearly",
+        "own",
+        "patterns",
+        "people",
+        "reveal",
+        "russia",
+        "scale",
+        "show",
+        "the",
+        "ukraine",
+        "war"
+      ],
+      "source_excerpt": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T12:21:49+00:00"
+        },
+        {
+          "name": "Arise News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTZ4RkRueTZBODRWMEFpWko2eEd5RjdmVURMRkxIVkUxT013T0tKc3dUZ1RqRy1xTHJJdU9KbzZoYU1UcVhJRjN6NGN1NDh5VHBpeGhWWnlLZGtRSWZLWFRYWXZTa2xYX3hxcTA3ZXYzUDBYUl81WFRRcDkzcDZ1RF9zZ3dDOWlEREZReFpmQVFETi1zTFp1MQ?oc=5",
+          "published_at": "2026-11-25T13:50:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "139d4d633d93c1e6f15a7d06",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T12:45:16+00:00",
+      "last_update": "2026-11-25T13:08:00+00:00",
+      "event": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abdul",
+        "after",
+        "agree",
+        "all",
+        "bitter",
+        "calls",
+        "democratic",
+        "for",
+        "guy",
+        "medicare",
+        "meet",
+        "michigan",
+        "president",
+        "race",
+        "renamed",
+        "sayed",
+        "senate",
+        "smart",
+        "trump",
+        "victor",
+        "weeks",
+        "will"
+      ],
+      "source_excerpt": "Weeks after a bitter Senate race in Michigan, US president calls Democratic victor ‘a smart guy’.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
+          "published_at": "2026-11-25T12:45:16+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692604-trump-to-meet-abdul-el-sayed-over-golden-trumpcare-whats-in-the-plan",
+          "published_at": "2026-11-25T13:08:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b6a3f646b5739268521da9c",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T09:18:57+00:00",
+      "last_update": "2026-11-25T12:37:56+00:00",
+      "event": "Amnesty says Israeli actions in Gaza preventing births, urges ICC to investigate genocide",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actions",
+        "amnesty",
+        "births",
+        "gaza",
+        "genocide",
+        "icc",
+        "investigate",
+        "israeli",
+        "preventing",
+        "says",
+        "urges"
+      ],
+      "source_excerpt": "Amnesty says Israeli actions in Gaza preventing births, urges ICC to investigate genocide",
+      "sources": [
+        {
+          "name": "L'Orient Today",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdEE1dERlRHZzaEo1cmpyUm1XLUQxQTRxYzZ3Ym9vRWcwdlp4ZHh5SzM1YW1Oemx0MnlYLTBpZ013WWlpMWNYMjZFbEpsQ2RJVGNNd1Z1NjdncmdwWUhtM3BRQi03WVZBckJvaU5TNXVqZkcxX2Vubm1BVEozUE1qU2ppMmVMQ1c0ZW9oaUF1TDVpek1kS3ZLZThIVjRSY3hrTks1aVN1aE11MzA?oc=5",
+          "published_at": "2026-11-25T09:18:57+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/amnesty-says-israeli-actions-in-gaza-preventing-births-urges-icc-to-investigate-genocide",
+          "published_at": "2026-11-25T12:37:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/amnesty-says-israeli-actions-in-gaza-preventing-births-urges-icc-to-investigate-genocide",
+        "publisher_url": "https://arynews.tv/amnesty-says-israeli-actions-in-gaza-preventing-births-urges-icc-to-investigate-genocide",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cadb6b13deb1faf9679968e0",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T13:32:01+00:00",
+      "last_update": "2026-11-25T13:56:59+00:00",
+      "event": "Tarar urges social media companies to establish offices in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "companies",
+        "dawn",
+        "establish",
+        "media",
+        "offices",
+        "pakistan",
+        "social",
+        "tarar",
+        "urges"
+      ],
+      "source_excerpt": "Tarar urges social media companies to establish offices in Pakistan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWnY3TWZRVktXNzlCYW53RW55OUx6Z1FEVmRWR0pBa1pfYkduYVlKTjFaSHNMakI2OWtaNGRKenRsVV9aWC1ZVHFJSFBqX0ZDQ2pteXh5TXZYT3Y0bmwzekJIVWFLS19ZX3p6SzhSdWVUYVBxSlFBYWpQcDZDcTNGYnVNOFFRMXEydE5UOTRSbUZKSE1iaDZNcWthV1BMT3lWVVpN?oc=5",
+          "published_at": "2026-11-25T13:32:01+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047005/tarar-urges-social-media-companies-to-establish-offices-in-pakistan",
+          "published_at": "2026-11-25T13:56:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWnY3TWZRVktXNzlCYW53RW55OUx6Z1FEVmRWR0pBa1pfYkduYVlKTjFaSHNMakI2OWtaNGRKenRsVV9aWC1ZVHFJSFBqX0ZDQ2pteXh5TXZYT3Y0bmwzekJIVWFLS19ZX3p6SzhSdWVUYVBxSlFBYWpQcDZDcTNGYnVNOFFRMXEydE5UOTRSbUZKSE1iaDZNcWthV1BMT3lWVVpN?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3d5703983eff1d339111c037",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T13:26:00+00:00",
+      "last_update": "2026-11-25T13:26:00+00:00",
+      "event": "Jennifer Barreto of Puerto Rico crowned Miss Universe 2026, making history as first mother to win",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "after",
+        "and",
+        "barreto",
+        "both",
+        "coveted",
+        "crown",
+        "crowned",
+        "first",
+        "for",
+        "from",
+        "history",
+        "jennifer",
+        "making",
+        "miss",
+        "mother",
+        "old",
+        "psychologist",
+        "puerto",
+        "rico",
+        "selected",
+        "she",
+        "social",
+        "the",
+        "tuesday",
+        "universe",
+        "was",
+        "when",
+        "who",
+        "win",
+        "worker",
+        "year"
+      ],
+      "source_excerpt": "Jennifer Barreto of Puerto Rico crowned Miss Universe 2026, making history as first mother to win Miss Universe 2026 was crowned on Tuesday when 27-year-old Jennifer Barreto, who is both a psychologist and a social worker from Puerto Rico, was selected for the coveted crown after she...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692609-jennifer-barreto-of-puerto-rico-crowned-miss-universe-2026-making-history-as-first-mother-to-win",
+          "published_at": "2026-11-25T13:26:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692609-jennifer-barreto-of-puerto-rico-crowned-miss-universe-2026-making-history-as-first-mother-to-win",
+        "publisher_url": "https://www.geo.tv/latest/692609-jennifer-barreto-of-puerto-rico-crowned-miss-universe-2026-making-history-as-first-mother-to-win",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2aaa1cfdfcad692f6676bc12",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T13:37:51+00:00",
+      "last_update": "2026-11-25T13:37:51+00:00",
+      "event": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "asia",
+        "banned",
+        "been",
+        "chinese",
+        "convicts",
+        "court",
+        "europe",
+        "faced",
+        "firm",
+        "from",
+        "giant",
+        "global",
+        "has",
+        "have",
+        "history",
+        "huawei",
+        "its",
+        "legal",
+        "problems",
+        "products",
+        "tech",
+        "theft",
+        "trade",
+        "war",
+        "with",
+        "woes"
+      ],
+      "source_excerpt": "Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
+          "published_at": "2026-11-25T13:37:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "afbf3a1aefffe623bf3115f5",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T13:02:45+00:00",
+      "last_update": "2026-11-25T13:02:45+00:00",
+      "event": "Solomon Islands signs security deal with Australia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australia",
+        "before",
+        "canberra",
+        "consult",
+        "deal",
+        "deals",
+        "have",
+        "infrastructure",
+        "islands",
+        "making",
+        "new",
+        "pact",
+        "security",
+        "signs",
+        "solomon",
+        "under",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "Solomon Islands will have to consult Canberra before making new security or infrastructure deals under new pact.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+          "published_at": "2026-11-25T13:02:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7f35a43ffa8aeb10e680979e",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T12:43:25+00:00",
+      "last_update": "2026-11-25T12:43:25+00:00",
+      "event": "Trinity Rodman out of USWNT’s World Cup qualifier due to shoulder injury",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "city",
+        "cup",
+        "due",
+        "during",
+        "forward",
+        "injury",
+        "kansas",
+        "loss",
+        "minor",
+        "out",
+        "qualifier",
+        "rodman",
+        "shoulder",
+        "spirit",
+        "star",
+        "sustained",
+        "trinity",
+        "uswnt",
+        "washington",
+        "world"
+      ],
+      "source_excerpt": "Star forward Trinity Rodman sustained a minor shoulder injury during Washington Spirit's 2-1 loss to Kansas City.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/trinity-rodman-out-of-uswnts-world-cup-qualifier-due-to-shoulder-injury?traffic_source=rss",
+          "published_at": "2026-11-25T12:43:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/25/trinity-rodman-out-of-uswnts-world-cup-qualifier-due-to-shoulder-injury?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/25/trinity-rodman-out-of-uswnts-world-cup-qualifier-due-to-shoulder-injury?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "00cfdcd38c46251226bcdab2",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T12:42:56+00:00",
+      "last_update": "2026-11-25T12:42:56+00:00",
+      "event": "Bayern Munich’s Musiala checked for neurological symptoms in April 2025",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "after",
+        "april",
+        "bayern",
+        "checked",
+        "club",
+        "dysfunction",
+        "examined",
+        "for",
+        "german",
+        "initial",
+        "munich",
+        "musiala",
+        "neurological",
+        "onset",
+        "symptoms",
+        "the",
+        "was"
+      ],
+      "source_excerpt": "Musiala was examined by the German club for neurological dysfunction after the initial onset of symptoms in 2025.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/bayern-munichs-musiala-checked-for-neurological-symptoms-in-april-2025?traffic_source=rss",
+          "published_at": "2026-11-25T12:42:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/25/bayern-munichs-musiala-checked-for-neurological-symptoms-in-april-2025?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/25/bayern-munichs-musiala-checked-for-neurological-symptoms-in-april-2025?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "92c25313b8f55ba72d40517a",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T12:29:09+00:00",
+      "last_update": "2026-11-25T12:29:09+00:00",
+      "event": "The rising cost of Thanksgiving",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "consumers",
+        "cost",
+        "food",
+        "for",
+        "holiday",
+        "money",
+        "more",
+        "out",
+        "rising",
+        "shelling",
+        "thanksgiving",
+        "the",
+        "this"
+      ],
+      "source_excerpt": "In the US, consumers are shelling out more money for food this Thanksgiving holiday.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
+          "published_at": "2026-11-25T12:29:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d196898c25722654e975a2e5",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T12:25:46+00:00",
+      "last_update": "2026-11-25T12:25:46+00:00",
+      "event": "Catalan separatist Puigdemont to return to Spain on December 12",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "catalan",
+        "december",
+        "for",
+        "former",
+        "his",
+        "independence",
+        "leader",
+        "proposal",
+        "puigdemont",
+        "push",
+        "regional",
+        "renewed",
+        "return",
+        "says",
+        "separatist",
+        "spain",
+        "unveil",
+        "will"
+      ],
+      "source_excerpt": "Former regional leader says he will unveil his proposal for a renewed Catalan independence push on December 17.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
+          "published_at": "2026-11-25T12:25:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0e7a8528fcc1c4c82bc3c64d",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T13:26:47+00:00",
+      "last_update": "2026-11-25T13:26:47+00:00",
+      "event": "NHS Grampian surgeon operated on patient while recovering from endoscopy",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "because",
+        "doctor",
+        "drive",
+        "driven",
+        "elgin",
+        "endoscopy",
+        "felt",
+        "from",
+        "grampian",
+        "gray",
+        "had",
+        "himself",
+        "hospital",
+        "nhs",
+        "operated",
+        "patient",
+        "recovering",
+        "surgeon",
+        "the",
+        "unable",
+        "while"
+      ],
+      "source_excerpt": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T13:26:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4e2f09425ed4bd6f6fec077c",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T13:24:29+00:00",
+      "last_update": "2026-11-25T13:24:29+00:00",
+      "event": "'I'm not looking forward to energy price increase,' says student",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bbc",
+        "but",
+        "choice",
+        "constantly",
+        "due",
+        "energy",
+        "flatmates",
+        "forward",
+        "have",
+        "heating",
+        "his",
+        "increase",
+        "insulation",
+        "isaac",
+        "keep",
+        "looking",
+        "not",
+        "poor",
+        "price",
+        "says",
+        "student",
+        "the",
+        "told"
+      ],
+      "source_excerpt": "Student Isaac told the BBC he and his flatmates have no choice but to keep the heating on 'constantly' due to poor insulation.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T13:24:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5df0e623fea7871b1051c94b",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T13:14:52+00:00",
+      "last_update": "2026-11-25T13:14:52+00:00",
+      "event": "My husband lives off sandwiches due to energy costs",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "already",
+        "anxiety",
+        "costs",
+        "debt",
+        "due",
+        "energy",
+        "further",
+        "husband",
+        "increases",
+        "lives",
+        "off",
+        "over",
+        "roof",
+        "sandwiches",
+        "says",
+        "the",
+        "through",
+        "woman"
+      ],
+      "source_excerpt": "A woman already in energy debt says anxiety is \"through the roof\" over further increases.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/c539gz4nmjm9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T13:14:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/c539gz4nmjm9o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c539gz4nmjm9o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a31659903ea2b6b6f2e16b31",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T13:04:13+00:00",
+      "last_update": "2026-11-25T13:04:13+00:00",
+      "event": "Salon owner's chore woes prompt idea for new app",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "admin",
+        "after",
+        "and",
+        "app",
+        "chore",
+        "chores",
+        "clients",
+        "for",
+        "idea",
+        "moaning",
+        "new",
+        "owner",
+        "prompt",
+        "salon",
+        "sets",
+        "she",
+        "skill",
+        "swapping",
+        "were",
+        "woes"
+      ],
+      "source_excerpt": "A salon owner sets up a skill-swapping app after she and clients were \"moaning\" about chores and admin.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6jren0308xzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T13:04:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6jren0308xzo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6jren0308xzo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "becf0c0e082a2ff12089d0b7",
+      "remembered_at": "2026-11-25T13:57:50.881531+00:00",
+      "event_date": "2026-11-25T13:27:36+00:00",
+      "last_update": "2026-11-25T13:27:36+00:00",
+      "event": "Watch: How the Russia-Ukraine war tore my family apart",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apart",
+        "bbc",
+        "family",
+        "how",
+        "russia",
+        "the",
+        "tore",
+        "ukraine",
+        "war",
+        "watch"
+      ],
+      "source_excerpt": "Watch: How the Russia-Ukraine war tore my family apart BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SUp4aWdiU3pqSGtQQzFENGZLamgwdlVTSXlLemJDczlDdkdjZnVkTF9IWnBKQS1ZcWtRdWIyVVFwSGJrYkdjTWpPaG9qelNHLVN2aEx2a00?oc=5",
+          "published_at": "2026-11-25T13:27:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SUp4aWdiU3pqSGtQQzFENGZLamgwdlVTSXlLemJDczlDdkdjZnVkTF9IWnBKQS1ZcWtRdWIyVVFwSGJrYkdjTWpPaG9qelNHLVN2aEx2a00?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T12:34:09.703687+00:00"
+  "updated_at": "2026-11-25T13:57:50.881531+00:00"
 }
