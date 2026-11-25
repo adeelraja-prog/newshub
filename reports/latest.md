@@ -1,37 +1,35 @@
-# News Hub report - Thu 26 Nov, 02:29 AM PKT
+# News Hub report - Thu 26 Nov, 03:29 AM PKT
 
 ## Collection
-- New items this run: 23 | items in rolling pool: 624
-- Unique story clusters: 541 (duplicates merged: 83)
-- Clusters dropped as already published/queued: 12; unchanged since last analysis: 2
-- Items per outlet: Al Jazeera 4, Pakistan Today 4, The Express Tribune 3, The Verge 1, TechCrunch 1, Ars Technica 1, GSMArena 1, BBC World 1, Eurasia Review 1, Responsible Statecraft 1, 13WHAM-TV 1, Facebook 1
+- New items this run: 14 | items in rolling pool: 467
+- Unique story clusters: 411 (duplicates merged: 56)
+- Clusters dropped as already published/queued: 16; unchanged since last analysis: 1
+- Items per outlet: The Express Tribune 5, Geo News 2, The Verge 2, Engadget 2, The News International 1, Atlantic Council 1, Around Prague 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 2 | first-run seeded: 0
-- Adeel Raja: Latif Khosa’s Upcoming Adiala Visit & New Provinces Game | https://www.youtube.com/watch?v=3J2eXoLgpWE
-- Adeel Raja: AL-QADIR TRUST CASE: WHAT HAPPENED IN TODAY’S HEARING? | https://www.youtube.com/watch?v=LIUPNQZtJBk
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five Russian military jets hit in airfield strike, says Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Education Department probes Virginia schools after sexual abuse scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Baby Aliyah steals the show during Australian Senate debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What’s behind Europe’s protests? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netanyahu says corruption trial ‘must end’ as court suggests dropping case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five Russian military jets hit in airfield strike, says Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Education Department probes Virginia schools after sexual abuse scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Baby Aliyah steals the show during Australian Senate debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What’s behind Europe’s protests? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netanyahu says corruption trial ‘must end’ as court suggests dropping case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Five Russian military jets hit in airfield strike, says Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US Education Department probes Virginia schools after sexual abuse scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Baby Aliyah steals the show during Australian Senate debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What’s behind Europe’s protests? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netanyahu says corruption trial ‘must end’ as court suggests dropping case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -41,154 +39,130 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation  [NORMAL]
-- Poster: صدر زرداری کی پاکستان اور بنگلہ دیش کے درمیان مضبوط تعلقات پر زور / Zardari calls for stronger Pakistan-Bangladesh ties | category politics
-- Alternative headline: Pakistan and Bangladesh pledge wider cooperation as Zardari offers defence ties
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3JGY09GLWh5TW9aSUI3dEpPWTdmN3pQRVcwN3VKSExCOEx1X0VIZDlBalJVWFdoVDZpZlprZGhQaE94MWlaR1FwUVJ0bmdmM3pnOXppSjdld2FUZjU4cTNWTmNZbFdQQ05QbmVVZ3JwaF9vcHlBQ0p6a1lRQktISlIyMnBOdkdtVkZ1c1BEWUQ5WlU1aktGVE1zNWN4X2tETFR5RXE3Rlh1LTVzR0JBNlNLcTRHeDBIZmwxbno4cm9zLXc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3JGY09GLWh5TW9aSUI3dEpPWTdmN3pQRVcwN3VKSExCOEx1X0VIZDlBalJVWFdoVDZpZlprZGhQaE94MWlaR1FwUVJ0bmdmM3pnOXppSjdld2FUZjU4cTNWTmNZbFdQQ05QbmVVZ3JwaF9vcHlBQ0p6a1lRQktISlIyMnBOdkdtVkZ1c1BEWUQ5WlU1aktGVE1zNWN4X2tETFR5RXE3Rlh1LTVzR0JBNlNLcTRHeDBIZmwxbno4cm9zLXc?oc=5
-- Supporting coverage: The Express Tribune, samaa tv, Pakistan Today
-- Keywords: Pakistan-Bangladesh ties, President Zardari, defence cooperation, bilateral relations, Islamabad, Dhaka | hashtags: #Pakistan #Bangladesh #PresidentZardari #ForeignPolicy #Diplomacy
-- Scheduled: Thu 26 Nov, 02:29 AM PKT
-- Caption:
-```
-President Asif Ali Zardari has emphasized stronger bilateral relations and offered defence cooperation during interactions with visiting Bangladeshi officials.
-
-President Asif Ali Zardari has called for enhancing bilateral relations between Pakistan and Bangladesh, specifically offering defence cooperation. The diplomatic outreach highlights a mutual desire to foster closer diplomatic and security ties between the two nations.
-
-صدر آصف علی زرداری نے پاکستان اور بنگلہ دیش کے درمیان دوطرفہ تعلقات کو مزید مضبوط بنانے پر زور دیا ہے اور دفاعی تعاون کی پیشکش کی ہے۔
-
-According to The Express Tribune
-
-#Pakistan #Bangladesh #PresidentZardari #ForeignPolicy #Diplomacy
-```
-
-### PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension  [NORMAL]
-- Poster: نورس اٹلانٹک کی پروازیں معطل، برطانیہ میں پی آئی اے مسافر پریشان / PIA passengers in UK distressed over flight cancellations | category other
-- Alternative headline: Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUR0YVhaTzc2UmxPTFZIcDJJbUJMYVpIMDlfamdVak94cG9aYXBsQjlLd0JLSmU0ckNOLXdfRV9RcDF3OHA0cVVMUktNdmg5TS1VT3c0c2hMampoaHhrcE5va0xfMU1yUEVncDN0akdXTFlBaWh0LUlEMEVOUXJtZ0o0RjJRbkhPNkFIc3JHeWNqVkI3ZG5VeHh4c0hkZWNpOC1TcVJfemd5UTlqZ0JiUnJ3TGV5NTg3MDdNcXY1OWtYaENUbmhrQk1jNWQ1UQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUR0YVhaTzc2UmxPTFZIcDJJbUJMYVpIMDlfamdVak94cG9aYXBsQjlLd0JLSmU0ckNOLXdfRV9RcDF3OHA0cVVMUktNdmg5TS1VT3c0c2hMampoaHhrcE5va0xfMU1yUEVncDN0akdXTFlBaWh0LUlEMEVOUXJtZ0o0RjJRbkhPNkFIc3JHeWNqVkI3ZG5VeHh4c0hkZWNpOC1TcVJfemd5UTlqZ0JiUnJ3TGV5NTg3MDdNcXY1OWtYaENUbmhrQk1jNWQ1UQ?oc=5
-- Supporting coverage: Reuters, Dawn, Dawn Latest
-- Keywords: PIA flight cancellations, Norse Atlantic, UK flights, aviation, stranded passengers, Pakistan International Airlines | hashtags: #PIA #Aviation #UK #FlightCancellation #Travel
-- Scheduled: Thu 26 Nov, 02:39 AM PKT
-- Caption:
-```
-Passengers traveling with PIA in the United Kingdom faced distress after two flights were cancelled following an abrupt suspension by Norse Atlantic.
-
-Passengers of Pakistan International Airlines (PIA) in the UK experienced distress following the cancellation of two flights caused by the abrupt suspension of services by Norse Atlantic. PIA is reportedly looking to manage operations by shifting UK flights to its own fleet.
-
-برطانیہ میں پی آئی اے کے مسافروں کو اس وقت مشکلات کا سامنا کرنا پڑا جب نورس اٹلانٹک کی معطلی کے باعث دو پروازیں منسوخ کر دی گئیں۔
-
-First reported by Dawn
-
-#PIA #Aviation #UK #FlightCancellation #Travel
-```
-
-### Moment Nasa spacecraft leaves stadium-sized crater in asteroid  [NORMAL]
-- Poster: ناسا کے خلائی جہاز کی ٹکر سے سیارچے پر بڑا گڑھا بن گیا / NASA spacecraft leaves stadium-sized crater on asteroid | category science
-- Alternative headline: NASA's DART mission left a stadium-sized crater in an asteroid, ESA finds
+### Baby Aliyah steals the show during Australian Senate debate  [NORMAL]
+- Poster: آسٹریلوی سینیٹ کے اجلاس میں ننھی بچی نے سب کی توجہ کھینچ لی / Baby Aliyah steals the show in Australian Senate | category us_politics
+- Alternative headline: Australian Senator Fatima Payman addresses Senate with baby
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Science, Engadget, Geo News
-- Keywords: asteroid crater, NASA, DART mission, ESA, Dimorphos, space exploration | hashtags: #NASA #Asteroid #SpaceExploration #DARTMission #ESA
-- Scheduled: Thu 26 Nov, 02:49 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Baby Aliyah, Fatima Payman, Australian Senate, Senate debate, Aliyah | hashtags: #FatimaPayman #AustralianSenate #BabyAliyah #Australia
+- Scheduled: Thu 26 Nov, 03:29 AM PKT
 - Caption:
 ```
-New images from the European Space Agency reveal a stadium-sized crater left on an asteroid after NASA's deliberate spacecraft impact.
+Australian Senator Fatima Payman brought a special guest to the floor as her six-month-old daughter, Aliyah, caught everyone's attention during debate.
 
-New images released by the European Space Agency (ESA) have revealed a stadium-sized crater on the surface of the asteroid Dimorphos. The crater is the result of NASA's DART mission, which deliberately crashed a spacecraft into the asteroid in 2022 to test planetary defence capabilities.
+Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms. The adorable moment quickly drew attention during the parliamentary proceedings.
 
-یورپی خلائی ایجنسی کی نئی تصاویر سے انکشاف ہوا ہے کہ ناسا کے خلائی جہاز کی ٹکر سے ایک سیارچے پر اسٹیڈیم کے سائز کا گڑھا بن گیا ہے۔
+آسٹریلوی سینیٹر فاطمہ پے مین نے اپنی چھ ماہ کی بیٹی عالیہ کو گود میں اٹھا کر سینیٹ سے خطاب کیا۔ پارلیمانی کارروائی کے دوران یہ دلکش لمحہ سب کی توجہ کا مرکز بن گیا۔
 
-First reported by BBC Science
+First reported by Al Jazeera
 
-#NASA #Asteroid #SpaceExploration #DARTMission #ESA
+#FatimaPayman #AustralianSenate #BabyAliyah #Australia
 ```
 
-### Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting speaker  [NORMAL]
-- Poster: بنگلہ دیش کے ساتھ تعلقات انتہائی اہم ہیں: صدر اور وزیر اعظم / Bangladesh ties of great importance to Pakistan: PM and President | category politics
-- Alternative headline: Bangladesh ties of great importance to Pakistan, top leaders tell visiting speaker
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker
-- Supporting coverage: Dawn Latest, Dawn
-- Keywords: Pakistan Bangladesh relations, Hafizuddin Ahmad, Shehbaz Sharif, Asif Ali Zardari, Islamabad, parliamentary delegation | hashtags: #Pakistan #Bangladesh #Diplomacy #Islamabad #BilateralTies
-- Scheduled: Thu 26 Nov, 02:59 AM PKT
-- Caption:
-```
-Prime Minister Shehbaz Sharif and President Asif Ali Zardari met visiting Bangladesh Parliament Speaker Hafizuddin Ahmad, emphasizing strong bilateral bonds.
-
-Visiting Bangladesh Parliament Speaker Hafizuddin Ahmad met with President Asif Ali Zardari and Prime Minister Shehbaz Sharif in Islamabad. Pakistani leadership reaffirmed that Islamabad places great importance on its relations with Dhaka, which are rooted in shared history and cultural ties.
-
-بنگلہ دیشی پارلیمنٹ کے اسپیکر حافظ الدین احمد نے صدر آصف علی زرداری اور وزیر اعظم شہباز شریف سے ملاقات کی، جس میں دوطرفہ تعلقات کو اہم قرار دیا گیا۔
-
-First reported by Dawn Latest
-
-#Pakistan #Bangladesh #Diplomacy #Islamabad #BilateralTies
-```
-
-### Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348  [NORMAL]
-- Poster: پیٹرول اور ڈیزل کی قیمتوں میں کمی کا اعلان / Petrol and diesel prices reduced | category economy
-- Alternative headline: Diesel price dips below Rs350 with Rs5 cut; petrol rate down by Rs4
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUVIMUszNWgwX1J4by11Q2kzLVM0REp1LU5XUUUxR3JCZGR3eGxRclFTQ2w0bEZpWTZrY3NnOGFKRmtIZ0ZjV0ktTU4ydm8ySzRESHh0MVU1QzJURXFMZWJvUWduZUVXQlpGZTF6cVRtanczQ2JXMHNMVHEyb3k1b3FhMFpaeVFyQnZLQVAzdmVaU1VmQWdJRW9FRDVXQVlPbTZLb0M0N3Y3NWpMVHVEdA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUVIMUszNWgwX1J4by11Q2kzLVM0REp1LU5XUUUxR3JCZGR3eGxRclFTQ2w0bEZpWTZrY3NnOGFKRmtIZ0ZjV0ktTU4ydm8ySzRESHh0MVU1QzJURXFMZWJvUWduZUVXQlpGZTF6cVRtanczQ2JXMHNMVHEyb3k1b3FhMFpaeVFyQnZLQVAzdmVaU1VmQWdJRW9FRDVXQVlPbTZLb0M0N3Y3NWpMVHVEdA?oc=5
-- Supporting coverage: samaa tv, Dawn, Dawn Latest
-- Keywords: petrol price cut, diesel price, fuel rates, economy, Pakistan, price reduction | hashtags: #PetrolPrice #Diesel #Economy #Pakistan #Inflation
-- Scheduled: Thu 26 Nov, 03:09 AM PKT
-- Caption:
-```
-The government has announced a reduction in petroleum prices, cutting petrol by Rs4 and diesel by Rs5 per litre.
-
-Authorities have slashed the price of petrol by Rs4 to Rs314 per litre, while the price of high-speed diesel has been reduced by Rs5 to Rs348 per litre, bringing diesel rates below the Rs350 threshold.
-
-حکومت نے پیٹرول کی قیمت میں 4 روپے اور ڈیزل کی قیمت میں 5 روپے فی لیٹر کمی کا اعلان کر دیا ہے۔
-
-According to samaa tv
-
-#PetrolPrice #Diesel #Economy #Pakistan #Inflation
-```
-
-### At least 30 killed in Egypt vehicle fire, health ministry says  [NORMAL]
-- Poster: مصر میں گاڑی میں آتشزدگی سے کم از کم 30 افراد ہلاک / At least 30 killed in Egypt vehicle fire | category disaster
-- Alternative headline: Dozens killed and injured after petroleum-carrying vehicle catches fire in Egypt
+### Ukraine says five Russian military jets hit in airfield strike  [NORMAL]
+- Poster: یوکرین کا روسی ایئرفیلڈ پر حملہ، پانچ جنگی طیارے تباہ کرنے کا دعویٰ / Ukraine strikes Russian airfield, hits five jets | category other
+- Alternative headline: Savasleyka airfield strike damages five Russian military aircraft
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Egypt vehicle fire, health ministry, fatal accident, petroleum fire, road accident, casualties | hashtags: #Egypt #FireAccident #BreakingNews #Tragedy #WorldNews
-- Scheduled: Thu 26 Nov, 03:19 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, BBC, Around Prague
+- Keywords: Savasleyka airfield, Ukraine, Russia, military jets, airfield strike, MiG-31 | hashtags: #Ukraine #Russia #AirfieldStrike #War
+- Scheduled: Thu 26 Nov, 03:39 AM PKT
 - Caption:
 ```
-At least 30 people were killed and 15 others injured after a vehicle carrying petroleum products flipped and caught fire on a major road in Egypt.
+Ukraine's military claims it successfully damaged five Russian aircraft during a strategic strike on the Savasleyka airfield.
 
-According to the health ministry, at least 30 people lost their lives and another 15 sustained injuries following a severe vehicle fire in Egypt. The incident occurred when a vehicle transporting petroleum products flipped over on a major road, triggering a massive blaze.
+Ukraine has announced that it damaged five Russian military aircraft, including three MiG-31s and two Su-34s, in an attack on the Savasleyka airfield located 300km east of Moscow. Russia has not yet commented on the strikes, while Kyiv also reported hitting two oil refineries in the Samara region.
 
-مصر میں پیٹرولیم مصنوعات لے جانے والی گاڑی کے حادثے اور آتشزدگی کے نتیجے میں کم از کم 30 افراد جاں بحق اور 15 زخمی ہو گئے ہیں۔
+یوکرین نے اعلان کیا ہے کہ اس نے ماسکو سے 300 کلومیٹر مشرق میں واقع ساواسلییکا ایئرفیلڈ پر حملے کے دوران پانچ روسی فوجی طیاروں کو نقصان پہنچایا ہے۔ روس کی طرف سے حملوں پر کوئی تبصرہ نہیں کیا گیا ہے۔
 
-According to Al Jazeera
+First reported by BBC World
 
-#Egypt #FireAccident #BreakingNews #Tragedy #WorldNews
+#Ukraine #Russia #AirfieldStrike #War
 ```
 
-- Indian outlets blocked this run: 1 items
+### US Education Department probes Virginia schools after abuse scandal  [NORMAL]
+- Poster: امریکی محکمہ تعلیم کا ورجینیا کے اسکولوں میں جنسی استحصال کے اسکینڈل پر تحقیقات کا آغاز / US probes Virginia schools over abuse scandal | category other
+- Alternative headline: Virginia schools face federal investigation over sexual abuse scandal
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: US Education Department, Virginia schools, abuse scandal, background checks, investigation | hashtags: #USEducation #Virginia #SchoolInvestigation #News
+- Scheduled: Thu 26 Nov, 03:49 AM PKT
+- Caption:
+```
+Federal authorities have launched an investigation into Virginia schools following severe revelations of abuse and background check failures.
+
+The US Education Department is probing Virginia schools following shocking revelations of abuse and widespread failures in conducting mandatory staff background checks, placing intense scrutiny on local educational authorities.
+
+امریکی محکمہ تعلیم نے بدسلوکی کے انکشافات اور عملے کی لازمی پس منظر کی جانچ پڑتال میں بڑے پیمانے پر ناکامیوں کے بعد ورجینیا کے اسکولوں کی تحقیقات شروع کر دی ہیں۔
+
+First reported by Al Jazeera
+
+#USEducation #Virginia #SchoolInvestigation #News
+```
+
+### What is really driving the wave of protests across Europe?  [NORMAL]
+- Poster: یورپ میں بڑھتے ہوئے احتجاج اور ہڑتاہوں کے پیچھے اصل وجوہات کیا ہیں؟ / What is behind Europe's growing protests? | category other
+- Alternative headline: Exploring the root causes of rising industrial disputes in the EU and UK
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Europe protests, industrial disputes, EU, UK, demonstrations | hashtags: #EuropeProtests #EU #UK #Demonstrations
+- Scheduled: Thu 26 Nov, 03:59 AM PKT
+- Caption:
+```
+A significant surge in protests and industrial disputes across the European Union and the UK has sparked widespread debate.
+
+An increasing wave of protests and industrial disputes has swept across various parts of the European Union and the United Kingdom, raising critical questions about the underlying economic and social pressures facing citizens.
+
+یورپی یونین اور برطانیہ میں احتجاج اور صنعتی تنازعات کی بڑھتی ہوئی لہر نے شہریوں کو درپیش معاشی اور سماجی دباؤ کے بارے میں اہم سوالات اٹھائے ہیں۔
+
+First reported by Al Jazeera
+
+#EuropeProtests #EU #UK #Demonstrations
+```
+
+### Netanyahu says corruption trial must end as court suggests dropping case  [NORMAL]
+- Poster: عدالت کی جانب سے مقدمہ ختم کرنے کی تجویز پر نیتنیاہو کا مؤقف / Netanyahu says corruption trial must end | category politics
+- Alternative headline: Israeli court suggests dropping charges as Netanyahu fights for survival
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Netanyahu corruption trial, Benjamin Netanyahu, Israel court, corruption charges, politics | hashtags: #Netanyahu #Israel #CorruptionTrial #Politics
+- Scheduled: Thu 26 Nov, 04:09 AM PKT
+- Caption:
+```
+Israeli Prime Minister Benjamin Netanyahu insists his corruption trial must conclude after judges recommended dropping serious charges.
+
+Israeli Prime Minister Benjamin Netanyahu has stated that his corruption trial must end following recommendations by judges to drop key charges, providing a potential relief as he fights for his political survival.
+
+اسرائیلی وزیر اعظم بنجمن نیتنیاہو نے کہا ہے کہ ججوں کی جانب سے اہم الزامات واپس لینے کی تجویز کے بعد ان کا بدعنوانی کا مقدمہ اب ختم ہونا چاہیے۔
+
+First reported by Al Jazeera
+
+#Netanyahu #Israel #CorruptionTrial #Politics
+```
+
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 10
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
@@ -209,7 +183,6 @@ According to Al Jazeera
 - [needs_review] normal | Democrats Secure Largest House Majority Since 1992 | Mon 23 Nov, 02:34 AM PKT
 - [needs_review] normal | Cockroaches, Dissent and a Paradigm Shift in India | Mon 23 Nov, 02:44 AM PKT
 - [needs_review] normal | Massive Fire Destroys Hotels and Shops in Zanzibar | Mon 23 Nov, 02:54 AM PKT
-- [published] normal | Netanyahu and Eisenkot End Coalition Talks Without a Deal | Mon 23 Nov, 03:16 AM PKT
 - [needs_review] normal | Miley Cyrus Marries Maxx Morando in California Ceremony | Mon 23 Nov, 03:26 AM PKT
 - [needs_review] normal | Second Ship Targeted in Naval Drone Attacks Off Libyan Coast | Mon 23 Nov, 03:36 AM PKT
 - [needs_review] normal | Heartbreak for Washington Spirit as KC Current Win NWSL Final | Mon 23 Nov, 03:46 AM PKT
@@ -348,7 +321,7 @@ According to Al Jazeera
 - [needs_review] normal | Bangladesh Garment Workers Win 36 Percent Minimum Wage Rise | Wed 25 Nov, 06:14 PM PKT
 - [published] normal | Trump to meet Abdul El-Sayed over universal healthcare | Thu 26 Nov, 12:20 AM PKT
 - [published] normal | China urges US to avoid new tariffs as trade tensions rise | Thu 26 Nov, 12:30 AM PKT
-- [queued] normal | Pakistan records 10th polio case of 2026 after KP report | Thu 26 Nov, 12:40 AM PKT
+- [published] normal | Pakistan records 10th polio case of 2026 after KP report | Thu 26 Nov, 12:40 AM PKT
 - [queued] normal | Pakistan and Russia target $5 billion trade by 2030 | Thu 26 Nov, 12:50 AM PKT
 - [queued] normal | Tarar urges social media companies to establish offices in Pakistan | Thu 26 Nov, 01:00 AM PKT
 - [queued] normal | Sporting Lisbon vs Manchester United: UEFA Champions League live | Thu 26 Nov, 01:10 AM PKT
@@ -360,20 +333,19 @@ According to Al Jazeera
 - [queued] normal | Bangladesh ties of 'great importance' to Pakistan, President and PM te | Thu 26 Nov, 02:59 AM PKT
 - [queued] normal | Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | Thu 26 Nov, 03:09 AM PKT
 - [queued] normal | At least 30 killed in Egypt vehicle fire, health ministry says | Thu 26 Nov, 03:19 AM PKT
+- [queued] normal | Baby Aliyah steals the show during Australian Senate debate | Thu 26 Nov, 03:29 AM PKT
+- [queued] normal | Ukraine says five Russian military jets hit in airfield strike | Thu 26 Nov, 03:39 AM PKT
+- [queued] normal | US Education Department probes Virginia schools after abuse scandal | Thu 26 Nov, 03:49 AM PKT
+- [queued] normal | What is really driving the wave of protests across Europe? | Thu 26 Nov, 03:59 AM PKT
+- [queued] normal | Netanyahu says corruption trial must end as court suggests dropping ca | Thu 26 Nov, 04:09 AM PKT
 
 ## Publishing this run
-- Published '[YouTube] Latif Khosa’s Upcoming Adiala Visit & New Provinces Game'.
+- Published 'Pakistan records 10th polio case of 2026 after KP report'.
 
 ## Gemini usage
-- Calls: 6 | prompt tokens: 9209 | output tokens: 3282
-- Errors: 5
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 3 | prompt tokens: 6472 | output tokens: 2857
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: Expecting value: line 5 column 17 (char 53)
-  - Gemini gemini-3.5-flash-lite: Expecting value: line 5 column 17 (char 53)
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,

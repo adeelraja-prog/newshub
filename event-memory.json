@@ -159167,7 +159167,212 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "09b829cd66b31dbcbe0525a6",
+      "remembered_at": "2026-11-25T22:29:08.481066+00:00",
+      "event_date": "2026-11-25T21:27:25+00:00",
+      "last_update": "2026-11-25T21:27:25+00:00",
+      "event": "Lahore’s toxic winters",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "lahore",
+        "the",
+        "toxic",
+        "tribune",
+        "winters"
+      ],
+      "source_excerpt": "Lahore’s toxic winters The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hSHVBeVZFU0t5dW1nMHZBMUlxWExwT0xnYjk3blZ6VlFWVFBwbG9Rd05pR3hZWDM5aGRsZDdHdC1IUm9wUVNEMndBNGdvVGoxMEFMeVA2MEUxZWxiSEpkNVJOMXZqVGRZSkxj?oc=5",
+          "published_at": "2026-11-25T21:27:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hSHVBeVZFU0t5dW1nMHZBMUlxWExwT0xnYjk3blZ6VlFWVFBwbG9Rd05pR3hZWDM5aGRsZDdHdC1IUm9wUVNEMndBNGdvVGoxMEFMeVA2MEUxZWxiSEpkNVJOMXZqVGRZSkxj?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "61dddc599fc11cbaf649a17a",
+      "remembered_at": "2026-11-25T22:29:08.481066+00:00",
+      "event_date": "2026-11-25T21:27:25+00:00",
+      "last_update": "2026-11-25T21:27:25+00:00",
+      "event": "Balochistan’s paradox",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "balochistan",
+        "express",
+        "paradox",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Balochistan’s paradox The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80OXVhZldFWDYyU2FKY0NsRWNEV3FnLTA2YW81dU4tdTd5aWtQTWlBc2Z6eXFwb0w2eFg4S21sVF9PengyaHpDZGpFLWR1dUFXcjVDYzZyQ2NSV3g4VkRFMjJYQUlwc3Zocnc?oc=5",
+          "published_at": "2026-11-25T21:27:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80OXVhZldFWDYyU2FKY0NsRWNEV3FnLTA2YW81dU4tdTd5aWtQTWlBc2Z6eXFwb0w2eFg4S21sVF9PengyaHpDZGpFLWR1dUFXcjVDYzZyQ2NSV3g4VkRFMjJYQUlwc3Zocnc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e79c0f81649d7d4c37261b51",
+      "remembered_at": "2026-11-25T22:29:08.481066+00:00",
+      "event_date": "2026-11-25T22:07:30+00:00",
+      "last_update": "2026-11-25T22:07:30+00:00",
+      "event": "Pakistan, China eye gas, mining projects",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "china",
+        "express",
+        "eye",
+        "gas",
+        "mining",
+        "pakistan",
+        "projects",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Pakistan, China eye gas, mining projects The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM29uSVpEZ1o2Wi1NdGdZRWZ6SjhsRjE3b2xqenQyejdiNkk4VTV4SHhqeFMxdzdnZ0sxWFZHbzBLakgwdU1HRlh6TEJaM0RSOE9XRlNlajRMeHdOZ05WeHBHWHRNVXlYMWtkLXZrUDZFU01BZlJmRW1WUzk4clcxb9IBiAFBVV95cUxNOTAxemZ0c0YyaXNHQWFESkFxMUlkcDcwemI2S29NVTJjMG9JM2t1d09ON0VXS2N4Sl9GMHNYV1o0RndqQWZBWDFUck92S1ozVjRMclA4Mmp3Nkt5aUlKLTFVSl9xZC1CUFRlVzNkUG82Q2VrZTVMc0ZhLXRRdmFhbGM4cmFEVkxt?oc=5",
+          "published_at": "2026-11-25T22:07:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM29uSVpEZ1o2Wi1NdGdZRWZ6SjhsRjE3b2xqenQyejdiNkk4VTV4SHhqeFMxdzdnZ0sxWFZHbzBLakgwdU1HRlh6TEJaM0RSOE9XRlNlajRMeHdOZ05WeHBHWHRNVXlYMWtkLXZrUDZFU01BZlJmRW1WUzk4clcxb9IBiAFBVV95cUxNOTAxemZ0c0YyaXNHQWFESkFxMUlkcDcwemI2S29NVTJjMG9JM2t1d09ON0VXS2N4Sl9GMHNYV1o0RndqQWZBWDFUck92S1ozVjRMclA4Mmp3Nkt5aUlKLTFVSl9xZC1CUFRlVzNkUG82Q2VrZTVMc0ZhLXRRdmFhbGM4cmFEVkxt?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "842b02b7a7c6d68070f7789b",
+      "remembered_at": "2026-11-25T22:29:08.481066+00:00",
+      "event_date": "2026-11-25T20:20:20+00:00",
+      "last_update": "2026-11-25T20:20:20+00:00",
+      "event": "Weapon of disinformation - how Pakistan can respond",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "can",
+        "disinformation",
+        "express",
+        "how",
+        "pakistan",
+        "respond",
+        "the",
+        "tribune",
+        "weapon"
+      ],
+      "source_excerpt": "Weapon of disinformation - how Pakistan can respond The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGhVUGVxTTVaY3J5ejF6VzQtejBxZDZTdlJial9HS1ZCX3pndS10NXo5UUswelA5NHVITjNLS0ZJZzZnRk9PeXNjdW1kNjlkTG9EOTNydVVGZzMwRU9Jby1TNjRaMWtjeUtpSXd5bUpsYXpuVUNuaWh6LTd2aEhPWjBvbUVSU3daWXJMRXRsc9IBlwFBVV95cUxNbjZ5aXlReTZJLUQ5RDdxMzRYei12Q1pJaVVCTmQycVhwZ3BSWkJZX3IteTRiY2wzMVlONnkyZTQyVWVMdmZpa0xPSmt4YXc5YjlWX3ZnbDVBVmctczhOLWVUaFRLMElHNE5kMFRBbklHRmJUN0lDRDJQTHcxR1FSdkZuLTJLclFSVE50NnNCUlc2dEk4YkpN?oc=5",
+          "published_at": "2026-11-25T20:20:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGhVUGVxTTVaY3J5ejF6VzQtejBxZDZTdlJial9HS1ZCX3pndS10NXo5UUswelA5NHVITjNLS0ZJZzZnRk9PeXNjdW1kNjlkTG9EOTNydVVGZzMwRU9Jby1TNjRaMWtjeUtpSXd5bUpsYXpuVUNuaWh6LTd2aEhPWjBvbUVSU3daWXJMRXRsc9IBlwFBVV95cUxNbjZ5aXlReTZJLUQ5RDdxMzRYei12Q1pJaVVCTmQycVhwZ3BSWkJZX3IteTRiY2wzMVlONnkyZTQyVWVMdmZpa0xPSmt4YXc5YjlWX3ZnbDVBVmctczhOLWVUaFRLMElHNE5kMFRBbklHRmJUN0lDRDJQTHcxR1FSdkZuLTJLclFSVE50NnNCUlc2dEk4YkpN?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cc429ff030000066b5e53c9d",
+      "remembered_at": "2026-11-25T22:29:08.481066+00:00",
+      "event_date": "2026-11-25T19:47:41+00:00",
+      "last_update": "2026-11-25T19:47:41+00:00",
+      "event": "Rawalpindi’s walled city markets and historic buildings get protected heritage status",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "buildings",
+        "city",
+        "get",
+        "heritage",
+        "historic",
+        "markets",
+        "protected",
+        "rawalpindi",
+        "status",
+        "walled"
+      ],
+      "source_excerpt": "Rawalpindi’s walled city markets and historic buildings get protected heritage status",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/rawalpindis-walled-city-markets-and-historic-buildings-get-protected-heritage-status",
+          "published_at": "2026-11-25T19:47:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/rawalpindis-walled-city-markets-and-historic-buildings-get-protected-heritage-status",
+        "publisher_url": "https://arynews.tv/rawalpindis-walled-city-markets-and-historic-buildings-get-protected-heritage-status",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T21:29:16.749452+00:00"
+  "updated_at": "2026-11-25T22:29:08.481066+00:00"
 }
