@@ -148384,7 +148384,542 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e9e94287332102646049dd5f",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T02:00:05+00:00",
+      "last_update": "2026-11-25T02:00:05+00:00",
+      "event": "What happens when a bank ducks rules in Pakistan? For Deutsche Bank, perhaps nothing",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2018",
+        "action",
+        "against",
+        "bank",
+        "capital",
+        "could",
+        "country",
+        "deutsche",
+        "ducks",
+        "fatf",
+        "financial",
+        "flow",
+        "for",
+        "force",
+        "frantic",
+        "gray",
+        "happens",
+        "illicit",
+        "into",
+        "its",
+        "list",
+        "microscope",
+        "moment",
+        "national",
+        "nothing",
+        "pakistan",
+        "perhaps",
+        "placed",
+        "prove",
+        "race",
+        "rules",
+        "secure",
+        "system",
+        "task",
+        "the",
+        "thrust",
+        "turned",
+        "urgency",
+        "was",
+        "what",
+        "when",
+        "world"
+      ],
+      "source_excerpt": "In 2018, the world turned its microscope on Pakistan’s financial system. Placed on the Financial Action Task Force’s (FATF) “ gray list ”, the country was thrust into a frantic race to prove it could secure its financial system against the flow of illicit capital. It was a moment of national urgency",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046548/what-happens-when-a-bank-ducks-rules-in-pakistan-for-deutsche-bank-perhaps-nothing",
+          "published_at": "2026-11-25T02:00:05+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPekd3ZHVhU2VldUpYMlhmZkZKd0oxQU5rTEFtSEdMeUdrY3BnMHdVZVBTNHUyOFhKQjYxOG9oNmdnZW40ZmZtelVkNWdOT2U3TjJ4QWNvTnhHeURNeGx4cUZ0TDE1UzNULXVfYVJMTW5xSzByTm5sUFlPbEJTQ2lza1JodVdMQ1JSX2NmNS1uZ1JYSmlqdF80bHdOLXA2SEtSbnlSNDZhSWs5Q3dBNEFDREh6VV9nS1U?oc=5",
+          "published_at": "2026-11-25T02:00:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046548/what-happens-when-a-bank-ducks-rules-in-pakistan-for-deutsche-bank-perhaps-nothing",
+        "publisher_url": "https://www.dawn.com/news/2046548/what-happens-when-a-bank-ducks-rules-in-pakistan-for-deutsche-bank-perhaps-nothing",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "859542e9904c10e70ee82002",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T02:23:19+00:00",
+      "last_update": "2026-11-25T02:23:19+00:00",
+      "event": "WHO chief urges end to US fuel blockade on Cuba",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allocates",
+        "and",
+        "blockade",
+        "chief",
+        "critical",
+        "cuba",
+        "cuban",
+        "end",
+        "equipment",
+        "for",
+        "fuel",
+        "healthcare",
+        "immunisation",
+        "medical",
+        "shortages",
+        "struggles",
+        "urges",
+        "who",
+        "with"
+      ],
+      "source_excerpt": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+          "published_at": "2026-11-25T02:23:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7f9db67c5680a90d28b30259",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T01:20:39+00:00",
+      "last_update": "2026-11-25T01:20:39+00:00",
+      "event": "'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "18am",
+        "aboard",
+        "after",
+        "ali",
+        "astronaut",
+        "became",
+        "centre",
+        "china",
+        "enter",
+        "entered",
+        "first",
+        "flag",
+        "following",
+        "forty",
+        "from",
+        "history",
+        "into",
+        "its",
+        "jiuquan",
+        "launch",
+        "liftoff",
+        "long",
+        "makes",
+        "march",
+        "old",
+        "orbit",
+        "pakistani",
+        "place",
+        "preset",
+        "rises",
+        "rocket",
+        "satellite",
+        "shenzhou",
+        "spacecraft",
+        "the",
+        "took",
+        "used",
+        "wednesday",
+        "which",
+        "year",
+        "zeeshan"
+      ],
+      "source_excerpt": "Forty-year-old Zeeshan Ali became the first Pakistani astronaut to enter orbit on Wednesday, after China’s Shenzhou-24 spacecraft entered its preset orbit following liftoff from the Jiuquan Satellite Launch Centre. The launch of the spacecraft, which used a Long March-2F rocket, took place at 8:18am",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft",
+          "published_at": "2026-11-25T01:20:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft",
+        "publisher_url": "https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "76f2d93167fcf1b02a45abe4",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T01:36:04+00:00",
+      "last_update": "2026-11-25T01:36:04+00:00",
+      "event": "Pakistan’s giant leap into space",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "giant",
+        "into",
+        "leap",
+        "pakistan",
+        "space",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Pakistan’s giant leap into space The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95TWQxdDF1YXB3WjltdGxZQWNJTktmTVFnbjl4dnRSSGpsaGhvYmFBcWg5Z0NaY0ZnWXphaFNGd2xUQk5yS2lPd2s0amhvVDR5ekFmLURoU0dKYXBwQnFOWWNiYmNkLVBGc3JtLXhubW1URGxpeDlV0gF_QVVfeXFMTUtic1RheF8wSFowa3h5am5OZmdtSXJEaFZaZVVKX2ZhWnhwNDVKRG9saEVQOFEwV0Q1cV8zYURfaDJrREpnbW9tckhld0tPdlp1Tk40MHNTODBOeVF6OXMzdUZFRFgycWxhR01EMThtTE4yYU9QWVJBY0VzdDBDYw?oc=5",
+          "published_at": "2026-11-25T01:36:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95TWQxdDF1YXB3WjltdGxZQWNJTktmTVFnbjl4dnRSSGpsaGhvYmFBcWg5Z0NaY0ZnWXphaFNGd2xUQk5yS2lPd2s0amhvVDR5ekFmLURoU0dKYXBwQnFOWWNiYmNkLVBGc3JtLXhubW1URGxpeDlV0gF_QVVfeXFMTUtic1RheF8wSFowa3h5am5OZmdtSXJEaFZaZVVKX2ZhWnhwNDVKRG9saEVQOFEwV0Q1cV8zYURfaDJrREpnbW9tckhld0tPdlp1Tk40MHNTODBOeVF6OXMzdUZFRFgycWxhR01EMThtTE4yYU9QWVJBY0VzdDBDYw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "de87b9902c196fd7264cef77",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T02:06:19+00:00",
+      "last_update": "2026-11-25T02:06:19+00:00",
+      "event": "Sindh fixes official flour price at Rs138 per kilo",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "fixes",
+        "flour",
+        "kilo",
+        "official",
+        "per",
+        "price",
+        "rs138",
+        "sindh"
+      ],
+      "source_excerpt": "Sindh fixes official flour price at Rs138 per kilo Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORFIzTVRxbTI1RG1FaXRBTmFDSjRQRS1xM2NzUUU2MXhhWFVmcG5tTXB3amljSUQ1NG9NZ0tSOTZDMTBUUy1ZTnFHSkcxX2hma1pYRno0UW1DMUcwbUFBUDFKOW9FRnNzX3FOdDRrdHNfWU1UNUxWRDNoaEkyUkhjM09WRkdoQ3h4dmNtWQ?oc=5",
+          "published_at": "2026-11-25T02:06:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORFIzTVRxbTI1RG1FaXRBTmFDSjRQRS1xM2NzUUU2MXhhWFVmcG5tTXB3amljSUQ1NG9NZ0tSOTZDMTBUUy1ZTnFHSkcxX2hma1pYRno0UW1DMUcwbUFBUDFKOW9FRnNzX3FOdDRrdHNfWU1UNUxWRDNoaEkyUkhjM09WRkdoQ3h4dmNtWQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b2e75ec8359b6e322f72eb7e",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T02:04:48+00:00",
+      "last_update": "2026-11-25T02:04:48+00:00",
+      "event": "Pakistan cueists secure knockout spots",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cueists",
+        "dawn",
+        "knockout",
+        "pakistan",
+        "secure",
+        "spots"
+      ],
+      "source_excerpt": "Pakistan cueists secure knockout spots Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rZnBhRlVTVGtmMXpBNzFDTl9WTFhQalo3WjFWU193a0x5dzdVNFpVYmkxMGQySzRZLTA0bHREc1h1dnpBOVAtLVRNaWZsMDBqQy1acmcyblNlNzdJZkE5NFlmUUtlRUN6WkZmZ3lEWFp6ZmM1SXJFS1Baa3k?oc=5",
+          "published_at": "2026-11-25T02:04:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rZnBhRlVTVGtmMXpBNzFDTl9WTFhQalo3WjFWU193a0x5dzdVNFpVYmkxMGQySzRZLTA0bHREc1h1dnpBOVAtLVRNaWZsMDBqQy1acmcyblNlNzdJZkE5NFlmUUtlRUN6WkZmZ3lEWFp6ZmM1SXJFS1Baa3k?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "84e242a6b724cbe83e7f12f9",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T02:07:23+00:00",
+      "last_update": "2026-11-25T02:07:23+00:00",
+      "event": "Objections over presidential candidates mar Islamabad bar polls",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bar",
+        "candidates",
+        "dawn",
+        "islamabad",
+        "mar",
+        "objections",
+        "over",
+        "polls",
+        "presidential"
+      ],
+      "source_excerpt": "Objections over presidential candidates mar Islamabad bar polls Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnJ1RjRnX0pYcUJlb2d2NVVrY21tSHFLNlpaOGpoZzR0ckxzNURVSFZicDZpTzgzN3JLM3dhMDZaQlh3LVpCV1NvOWc2c29EbDVHTzR4S19MU1owb1NVdlJsQjVoTTg0N3hGTDFhM2I3MWRnUTdEUllPNmZyZXd3bS1wWUdLUGcyQXZxX09aWUlhVmlRdWRTX1JyWkF3dw?oc=5",
+          "published_at": "2026-11-25T02:07:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnJ1RjRnX0pYcUJlb2d2NVVrY21tSHFLNlpaOGpoZzR0ckxzNURVSFZicDZpTzgzN3JLM3dhMDZaQlh3LVpCV1NvOWc2c29EbDVHTzR4S19MU1owb1NVdlJsQjVoTTg0N3hGTDFhM2I3MWRnUTdEUllPNmZyZXd3bS1wWUdLUGcyQXZxX09aWUlhVmlRdWRTX1JyWkF3dw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3eb078289975070799bd6712",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T02:07:23+00:00",
+      "last_update": "2026-11-25T02:07:23+00:00",
+      "event": "Japan-Pakistan Startup Expansion Programme launched",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "expansion",
+        "japan",
+        "launched",
+        "pakistan",
+        "programme",
+        "startup"
+      ],
+      "source_excerpt": "Japan-Pakistan Startup Expansion Programme launched Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVh5OTBNeHJQY1lpWG5TQzZVLU9PeVgxVUJUNUdBbXJaNkZCd1R4QVpGUE12YkpLbHNsOWZQc0tfck5rMUl6OG1jODVZQjlya1NVQjE2OGYtZDJreGlpZnFfbDV0X1NJMmVhQ2VNTU9GcHZ3anY3MDZnbV9rLW9yZ3JaVVB6ZXFndkdOcEZR?oc=5",
+          "published_at": "2026-11-25T02:07:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVh5OTBNeHJQY1lpWG5TQzZVLU9PeVgxVUJUNUdBbXJaNkZCd1R4QVpGUE12YkpLbHNsOWZQc0tfck5rMUl6OG1jODVZQjlya1NVQjE2OGYtZDJreGlpZnFfbDV0X1NJMmVhQ2VNTU9GcHZ3anY3MDZnbV9rLW9yZ3JaVVB6ZXFndkdOcEZR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8406fb328f8a900b5626e2e3",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T02:07:03+00:00",
+      "last_update": "2026-11-25T02:07:03+00:00",
+      "event": "PPP opens new provincial secretariat in Peshawar",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "new",
+        "opens",
+        "peshawar",
+        "ppp",
+        "provincial",
+        "secretariat"
+      ],
+      "source_excerpt": "PPP opens new provincial secretariat in Peshawar Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVGFhdUhjckFOc05valQxMF9kOEhmSHV0ZnYxRXJxRHAzMlE3bmNpbnMwcnZnZUVPNEFCdXZyQ0drYlkwV0dQeUNYcHFEZk5nZ0RkY2RuRzN3ZGt0TVNnYW5JNXdqbk9IRHF2eDUwODJ3OGxBMjY3dVlzcnZHM0lOOXRFd0xlZ2RtMVE?oc=5",
+          "published_at": "2026-11-25T02:07:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVGFhdUhjckFOc05valQxMF9kOEhmSHV0ZnYxRXJxRHAzMlE3bmNpbnMwcnZnZUVPNEFCdXZyQ0drYlkwV0dQeUNYcHFEZk5nZ0RkY2RuRzN3ZGt0TVNnYW5JNXdqbk9IRHF2eDUwODJ3OGxBMjY3dVlzcnZHM0lOOXRFd0xlZ2RtMVE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9ac2c1e06c0acf29e6f50d47",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T02:07:23+00:00",
+      "last_update": "2026-11-25T02:07:23+00:00",
+      "event": "Bangladeshi parliament speaker calls for strong legislative ties with Pakistan",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bangladeshi",
+        "calls",
+        "dawn",
+        "for",
+        "legislative",
+        "pakistan",
+        "parliament",
+        "speaker",
+        "strong",
+        "ties",
+        "with"
+      ],
+      "source_excerpt": "Bangladeshi parliament speaker calls for strong legislative ties with Pakistan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbUxkNzd0ZXRPcTNxcTJkOU1yWFB1b2xLeVFKNUtRQXoyNGpscDdlY1huVU8zZkVpak41d1ZMSGs3NFdRcVBtbE42cjlHdktPd3RwVzBiTGY3a0VMSVJyY0VqSmZqY3pQUy0tWGtCQ2dXd04waGdyQU54TWZtbWJrWVM3bjA4LTRsX0R1QUl5SHZvZGdlU1luM1RXNm8wdmlYS29OV1FicDdzRE54dWdmTHpR?oc=5",
+          "published_at": "2026-11-25T02:07:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbUxkNzd0ZXRPcTNxcTJkOU1yWFB1b2xLeVFKNUtRQXoyNGpscDdlY1huVU8zZkVpak41d1ZMSGs3NFdRcVBtbE42cjlHdktPd3RwVzBiTGY3a0VMSVJyY0VqSmZqY3pQUy0tWGtCQ2dXd04waGdyQU54TWZtbWJrWVM3bjA4LTRsX0R1QUl5SHZvZGdlU1luM1RXNm8wdmlYS29OV1FicDdzRE54dWdmTHpR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4e6c785ae63dde5d11552c74",
+      "remembered_at": "2026-11-25T02:56:01.985909+00:00",
+      "event_date": "2026-11-25T02:07:23+00:00",
+      "last_update": "2026-11-25T02:07:23+00:00",
+      "event": "Maryam’s visit sees massive security deployment in Rawalpindi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "deployment",
+        "maryam",
+        "massive",
+        "rawalpindi",
+        "security",
+        "sees",
+        "visit"
+      ],
+      "source_excerpt": "Maryam’s visit sees massive security deployment in Rawalpindi Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzFTOFZWQllqU1hRenFZYllEd0xFTmlKYjIxV3ZXaFpkOGFYal9GX3dVS2JqYy1oYUFHdjRBSFJrcTJ2M1pjNVdOdmtvVTJTUm1Nd3RNQ3JRU0V5YmtvTG5JQi1sams1TVMteEdGRzk4cUItN3BHVEJpSmxzWEVWaGZlbGhRMm9CR0MyaURMcDBSOFJQejNWTWRn?oc=5",
+          "published_at": "2026-11-25T02:07:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzFTOFZWQllqU1hRenFZYllEd0xFTmlKYjIxV3ZXaFpkOGFYal9GX3dVS2JqYy1oYUFHdjRBSFJrcTJ2M1pjNVdOdmtvVTJTUm1Nd3RNQ3JRU0V5YmtvTG5JQi1sams1TVMteEdGRzk4cUItN3BHVEJpSmxzWEVWaGZlbGhRMm9CR0MyaURMcDBSOFJQejNWTWRn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T01:58:04.069151+00:00"
+  "updated_at": "2026-11-25T02:56:01.985909+00:00"
 }

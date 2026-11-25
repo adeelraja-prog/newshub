@@ -1,200 +1,197 @@
-# News Hub report - Wed 25 Nov, 06:58 AM PKT
+# News Hub report - Wed 25 Nov, 07:56 AM PKT
 
 ## Collection
-- New items this run: 54 | items in rolling pool: 268
-- Unique story clusters: 236 (duplicates merged: 32)
-- Clusters dropped as already published/queued: 13; unchanged since last analysis: 4
-- Items per outlet: Dawn 17, BBC 6, Al Jazeera 5, BBC Business 4, The Express Tribune 3, Engadget 2, BBC Science 2, The News International 1, Dawn Latest 1, Geo News 1, Reuters 1, The Verge 1
+- New items this run: 78 | items in rolling pool: 299
+- Unique story clusters: 269 (duplicates merged: 30)
+- Clusters dropped as already published/queued: 17; unchanged since last analysis: 5
+- Items per outlet: Dawn 59, The Express Tribune 4, Investify 3, Geo News 2, The News International 1, Dawn Pakistan 1, Dawn Latest 1, Al Jazeera 1, The Nation (Pakistan ) 1, AP News 1, GSMArena 1, chinadailyhk 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Inflation projected at 9.8% as food prices bite | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- South Africa convicts Zimbabwean who tried to fight Ukraine for Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bellingham beauty in Real Madrid win as Arsenal, Man City held in Champions League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Alaska ends deal to give voter records to US Justice Department | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cybersecurity key to achieving Digital Pakistan vision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What happens when a bank ducks rules in Pakistan? For Deutsche Bank, perhaps nothing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran whips singer Parastoo Ahmadi 74 times over YouTube concert | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Poll finds US voters want government to end Iran war regardless of terms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Will there be a White Christmas this year? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Inflation projected at 9.8% as food prices bite | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- South Africa convicts Zimbabwean who tried to fight Ukraine for Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bellingham beauty in Real Madrid win as Arsenal, Man City held in Champions League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Alaska ends deal to give voter records to US Justice Department | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cybersecurity key to achieving Digital Pakistan vision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What happens when a bank ducks rules in Pakistan? For Deutsche Bank, perhaps nothing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran whips singer Parastoo Ahmadi 74 times over YouTube concert | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Poll finds US voters want government to end Iran war regardless of terms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Will there be a White Christmas this year? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Inflation projected at 9.8% as food prices bite | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- South Africa convicts Zimbabwean who tried to fight Ukraine for Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bellingham beauty in Real Madrid win as Arsenal, Man City held in Champions League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Alaska ends deal to give voter records to US Justice Department | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cybersecurity key to achieving Digital Pakistan vision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- What happens when a bank ducks rules in Pakistan? For Deutsche Bank, perhaps nothing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran whips singer Parastoo Ahmadi 74 times over YouTube concert | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Poll finds US voters want government to end Iran war regardless of terms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Will there be a White Christmas this year? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Israel’s Eisenkot secures first coalition partner in bid to form government  [NORMAL]
-- Poster: اسرائیل میں حکومت سازی کی کوششیں، پہلی اتحادی جماعت کا حصول / Israel: Eisenkot secures first coalition partner | category politics
-- Alternative headline: Yashar and Our Home parties sign coalition pact in Israel
+### Poll Finds Majority of US Voters Want Immediate End to Iran War  [NORMAL]
+- Poster: امریکی ووٹرز کی بڑی اکثریت ایران کے ساتھ جنگ فوری ختم کرنے کا مطالبہ / US Voters Demand Immediate End to Iran War | category us_politics
+- Alternative headline: New Survey Shows 55 Percent of US Voters Demand End to Iran Conflict
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Israel coalition, Eisenkot, Yashar party, Avigdor Lieberman, government formation, Our Home party | hashtags: #Israel #Politics #MiddleEast #Government #News
-- Scheduled: Wed 25 Nov, 06:58 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: US voters, Iran war, poll, survey, Democrats | hashtags: #USPolitics #IranWar #USVoters #AlJazeera #Survey
+- Scheduled: Wed 25 Nov, 07:58 AM PKT
 - Caption:
 ```
-Israel's political landscape shifts as key opposition figures make moves to form a new government.
+A new survey reveals that 55 percent of US voters want the government to bring the war with Iran to an end immediately.
 
-The Yashar party announced it has agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman, as efforts continue to form a new government.
+A new survey reveals that 55 percent of US voters, including an overwhelming 80 percent of Democrats, want the government to bring the war with Iran to an end immediately, regardless of terms.
 
-یاشار پارٹی نے اعلان کیا ہے کہ اس نے نئی حکومت بنانے کی کوششوں کے سلسلے میں ایوگڈور لیبرمین کی قیادت میں اسرائیل کی اور ہوم پارٹی کے ساتھ اتحادی معاہدے پر دستخط کرنے پر اتفاق کر لیا ہے۔
+ایک نئے سروے سے انکشاف ہوا ہے کہ 55 فیصد امریکی ووٹرز، جن میں 80 فیصد ڈیموکریٹس شامل ہیں، چاہتے ہیں کہ حکومت ایران کے ساتھ جاری جنگ کو فوری طور پر ختم کرے۔
 
-First reported by Al Jazeera
+According to a published report by Al Jazeera
 
-#Israel #Politics #MiddleEast #Government #News
+#USPolitics #IranWar #USVoters #AlJazeera #Survey
 ```
 
-### Inflation projected at 9.8% as food prices bite  [NORMAL]
-- Poster: کھانے پینے کی اشیاء کی قیمتیں بڑھنے سے مہنگائی 9.8 فیصد تک جانے کا تخمینہ / Inflation projected at 9.8% due to food prices | category economy
-- Alternative headline: Rising food prices push projected inflation to 9.8 percent
+### Cybersecurity Identified as Key Pillar for Digital Pakistan Vision  [NORMAL]
+- Poster: ڈیجیٹل پاکستان کے وژن کی کامیابی کے لیے سائبر سیکیورٹی بنیادی ضرورت / Cybersecurity Key to Digital Pakistan Vision | category tech
+- Alternative headline: Achieving Digital Pakistan Vision Requires Strong Cybersecurity Measures
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1JvTVZDemMyWXNMNUdGSU1HVTV1a0dCZTVYaUJUQ3FZMERNUzhkLTREREIzV3FRemtuRmNkZGdRck96d2V0bXctb2dWenFYdmhsSWk0OWdmLU5SbXJCRDRsZVlwcklSY3o3aXVhbnA0QjBFWXVMLWxPSWRmbnptUGloSnVUcU9icHfSAZIBQVVfeXFMTnQ4VUEyWGZwZmxuMGIxQmZFTy1fR2daT3ZvUUtVaXZpbmFBUnJKNlpyOElPdTBBMXhOa0pESGktV1pJUDBmM1JESmZ1cDVQOEl3UWRmS0luOGlPZ18xTGVfMG5YNWY3SzdFSTNTTGZPenVkSGRZeXFYeGJnWkZFOVdJUGRYRXlyZ3lBUGMxaGpMT1E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1JvTVZDemMyWXNMNUdGSU1HVTV1a0dCZTVYaUJUQ3FZMERNUzhkLTREREIzV3FRemtuRmNkZGdRck96d2V0bXctb2dWenFYdmhsSWk0OWdmLU5SbXJCRDRsZVlwcklSY3o3aXVhbnA0QjBFWXVMLWxPSWRmbnptUGloSnVUcU9icHfSAZIBQVVfeXFMTnQ4VUEyWGZwZmxuMGIxQmZFTy1fR2daT3ZvUUtVaXZpbmFBUnJKNlpyOElPdTBBMXhOa0pESGktV1pJUDBmM1JESmZ1cDVQOEl3UWRmS0luOGlPZ18xTGVfMG5YNWY3SzdFSTNTTGZPenVkSGRZeXFYeGJnWkZFOVdJUGRYRXlyZ3lBUGMxaGpMT1E?oc=5
-- Supporting coverage: The Express Tribune, BBC
-- Keywords: Inflation, food prices, economy, households, cost of living, price hike | hashtags: #Inflation #Economy #FoodPrices #Market #Finance
-- Scheduled: Wed 25 Nov, 07:08 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMilgFBVV95cUxPRi1na3JTVUNpbF8zOEU2ZHU2THdZcUw3c3oxblAteTZCWHA4VHhpZTktSVZMRXJpVGZTY0hWNXZRczJvWWtIcHhyOWhvMHFYbEg2MUF4VmQ4ZVRhN3ZNVlh5YXhSNHduWHhmYV9pT2RReF9Sb213SjZpTm54eHVxOEpCTHVyNVNlSDhRV2JaS0dOOWhjanfSAZ4BQVVfeXFMUGxXUWZVdEw0V0kyc3dJaFlJa051ZFVYWjlNVkVYNC0weS1TcUJwVlV1UG1RX0R6SGw5ZExWNVloQ2pEcUFYeXRacm16NHJpMUEwMVNlek5uWHh6VWtveldxWXF4Z3N4RHVhU05LSG5vVW9IWlZDSFpRVVZpQzQySGM5UGdQQzU0cWlveU4yQUtiM3JhTFZ3WlpXMnV6Qnc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMilgFBVV95cUxPRi1na3JTVUNpbF8zOEU2ZHU2THdZcUw3c3oxblAteTZCWHA4VHhpZTktSVZMRXJpVGZTY0hWNXZRczJvWWtIcHhyOWhvMHFYbEg2MUF4VmQ4ZVRhN3ZNVlh5YXhSNHduWHhmYV9pT2RReF9Sb213SjZpTm54eHVxOEpCTHVyNVNlSDhRV2JaS0dOOWhjanfSAZ4BQVVfeXFMUGxXUWZVdEw0V0kyc3dJaFlJa051ZFVYWjlNVkVYNC0weS1TcUJwVlV1UG1RX0R6SGw5ZExWNVloQ2pEcUFYeXRacm16NHJpMUEwMVNlek5uWHh6VWtveldxWXF4Z3N4RHVhU05LSG5vVW9IWlZDSFpRVVZpQzQySGM5UGdQQzU0cWlveU4yQUtiM3JhTFZ3WlpXMnV6Qnc?oc=5
+- Supporting coverage: The Express Tribune, Investify
+- Keywords: Cybersecurity, Digital Pakistan, vision, technology, security | hashtags: #DigitalPakistan #Cybersecurity #Technology #ExpressTribune
+- Scheduled: Wed 25 Nov, 08:08 AM PKT
 - Caption:
 ```
-Economic pressures mount as household budgets face severe strain from soaring food costs.
+Experts emphasize that robust cybersecurity is essential for achieving the ambitious Digital Pakistan vision.
 
-Inflation is projected to reach 9.8% as climbing food prices put mounting pressure on consumers and household finances, according to recent reports.
+Recent reports highlight that robust cybersecurity measures are a crucial key to successfully achieving the Digital Pakistan vision, protecting critical infrastructure and digital assets across the country.
 
-حالیہ رپورٹوں کے مطابق خوراک کی بڑھتی ہوئی قیمتوں کی وجہ سے صارفین اور گھریلو مالیات پر شدید دباؤ پڑ رہا ہے اور مہنگائی کے 9.8 فیصد تک پہنچنے کا تخمینہ لگایا گیا ہے۔
+حالیہ رپورٹ میں اس بات پر زور دیا گیا ہے کہ ڈیجیٹل پاکستان کے وژن کو کامیابی سے ہمکنار کرنے اور اہم بنیادی ڈھانچے کے تحفظ کے لیے مضبوط سائبر سیکیورٹی انتہائی ضروری ہے۔
 
 First reported by The Express Tribune
 
-#Inflation #Economy #FoodPrices #Market #Finance
+#DigitalPakistan #Cybersecurity #Technology #ExpressTribune
 ```
 
-### Pakistan govt taps three banks for $500m  [NORMAL]
-- Poster: حکومت پاکستان نے 50, کروڑ ڈالر کی فنانسنگ کے لیے تین بینکوں کا انتخاب کر لیا / Govt taps three banks for $500m finance facility | category economy
-- Alternative headline: Pakistan selects consortium of three banks for $500m facility
+### Internal Vulnerabilities Complicated Deutsche Bank's Pakistan Operations Amid FATF Scrutiny  [NORMAL]
+- Poster: ڈیوچے بینک کی اندرونی کمزوریاں اور پاکستان کے مالیاتی نظام پر اثرات / Deutsche Bank Rules and Pakistan Operations | category courts
+- Alternative headline: Deutsche Bank Classified Pakistan as Restricted High-Risk Country, Report Reveals
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMickFVX3lxTFB6Q0xISnU4NHlHZDNMRklpc0lBSmhTMGthWXFPajBBWXk2ZVNjNlVGcGoySXJabDE1ZWNhT2NBM3JmWERLaU1oUlp5OElUcGt0MHJwSDhMdTI4T2lZck93Z1J5V3dSU21LNVpfWS1jbUNlZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMickFVX3lxTFB6Q0xISnU4NHlHZDNMRklpc0lBSmhTMGthWXFPajBBWXk2ZVNjNlVGcGoySXJabDE1ZWNhT2NBM3JmWERLaU1oUlp5OElUcGt0MHJwSDhMdTI4T2lZck93Z1J5V3dSU21LNVpfWS1jbUNlZw?oc=5
-- Supporting coverage: Aaj English TV, Dawn
-- Keywords: Pakistan finance, banks, MIGA, trade finance, economy, government | hashtags: #Pakistan #Economy #Banking #Finance #MIGA
-- Scheduled: Wed 25 Nov, 07:18 AM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046548/what-happens-when-a-bank-ducks-rules-in-pakistan-for-deutsche-bank-perhaps-nothing | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046548/what-happens-when-a-bank-ducks-rules-in-pakistan-for-deutsche-bank-perhaps-nothing
+- Supporting coverage: Dawn Latest, Dawn
+- Keywords: Deutsche Bank, FATF, Pakistan, money laundering, financial system | hashtags: #DeutscheBank #FATF #PakistanEconomy #Banking #DawnNews
+- Scheduled: Wed 25 Nov, 08:18 AM PKT
 - Caption:
 ```
-Pakistan secures financial backing as authorities finalize a major trade finance arrangement.
+An internal report reveals how vulnerabilities in Deutsche Bank's Pakistan operations complicated anti-money laundering efforts during FATF gray-listing.
 
-The government of Pakistan has selected three banks for a $500 million MIGA-backed trade finance facility, strengthening financial support mechanisms for the country.
+During the period when Pakistan was placed on the FATF gray list, internal vulnerabilities in Deutsche Bank's Pakistan operations complicated financial compliance. The global bank's internal assessment had classified Pakistan as a restricted high-risk country.
 
-حکومت پاکستان نے ملک کے لیے مالیاتی معاونت کو مضبوط بناتے ہوئے 50 کروڑ ڈالر کی میگا (MIGA) کی حمایت یافتہ تجارتی فنانسنگ کی سہولت کے لیے تین بینکوں کا انتخاب کیا ہے۔
-
-First reported by Dawn
-
-#Pakistan #Economy #Banking #Finance #MIGA
-```
-
-### South Africa convicts Zimbabwean trying to fight for Russia  [NORMAL]
-- Poster: جنوبی افریقہ میں روس کی طرف سے لڑنے کی کوشش کرنے والا زمبابوے کا شہری سزایافتہ / South Africa convicts Zimbabwean trying to fight for Russia | category crime
-- Alternative headline: South African court convicts Zimbabwean over Ukraine war travel attempt
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss
-- Supporting coverage: The Washington Post, Al Jazeera
-- Keywords: South Africa conviction, Zimbabwean, Russia, Ukraine, Johannesburg airport, arrest | hashtags: #SouthAfrica #Russia #Ukraine #Crime #News
-- Scheduled: Wed 25 Nov, 07:28 AM PKT
-- Caption:
-```
-A security crackdown at a major airport leads to the conviction of an individual attempting to join foreign conflicts.
-
-South Africa has convicted a Zimbabwean man who was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia to fight against Ukraine.
-
-جنوبی افریقہ نے ایک زمبابوے کے شہری کو سزا سنا دی ہے جسے 8 نومبر کو جوہانسبرگ کے ہوائی اڈے پر روس جانے اور یوکرین کے خلاف جنگ میں حصہ لینے کی کوشش کے دوران گرفتار کیا گیا تھا۔
-
-First reported by Al Jazeera
-
-#SouthAfrica #Russia #Ukraine #Crime #News
-```
-
-### Bellingham beauty inspires Real Madrid as Arsenal, Man City held  [NORMAL]
-- Poster: بیلنگھم کا شاندار گول، ریئل میڈرڈ کی فتح جبکہ آرسنل اور مانچسٹر سٹی ڈرائیکا شکار / Bellingham stuns as Real Madrid win in Champions League | category sports
-- Alternative headline: Real Madrid rout PSV 5-1 as Bellingham scores stunner
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046928/bellingham-beauty-in-real-madrid-win-as-arsenal-man-city-held-in-champions-league | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046928/bellingham-beauty-in-real-madrid-win-as-arsenal-man-city-held-in-champions-league
-- Supporting coverage: Dawn Latest
-- Keywords: Champions League, Real Madrid, Jude Bellingham, Kylian Mbappe, Arsenal, Manchester City | hashtags: #ChampionsLeague #RealMadrid #Bellingham #Football #Sports
-- Scheduled: Wed 25 Nov, 07:38 AM PKT
-- Caption:
-```
-European football delivers high drama with brilliant goals and crucial stalemates in the Champions League.
-
-Jude Bellingham scored a remarkable volley as Real Madrid hammered PSV Eindhoven 5-1 to maintain a perfect record in the Champions League, while Arsenal and Manchester City were both held to home draws.
-
-جوڈ بیلنگھم کے شاندار گول کی بدولت ریئل میڈرڈ نے پی ایس وی آئন্দھوون کو 5-1 سے شکست دے کر چیمپئنز لیگ میں اپنی فتوحات کا سلسلہ جاری رکھا، جبکہ آرسنل اور مانچسٹر سٹی اپنے اپنے میچز میں ڈرائیکا شکار ہو گئے۔
+اس دورانیے میں جب پاکستان فیٹف کی گرے لسٹ میں تھا، ڈیوچے بینک کے پاکستان میں آپریشنز کی اندرونی کمزوریوں نے مالیاتی تعمیل کو پیچیدہ بنایا۔ بینک نے پاکستان کو ہائی رسک ملک قرار دیا تھا۔
 
 First reported by Dawn Latest
 
-#ChampionsLeague #RealMadrid #Bellingham #Football #Sports
+#DeutscheBank #FATF #PakistanEconomy #Banking #DawnNews
 ```
 
-### Alaska ends deal to give voter records to US Justice Department  [NORMAL]
-- Poster: الاسکا نے امریکی محکمہ انصاف کو ووٹر ریکارڈ فراہم کرنے کا معاہدہ ختم کر دیا / Alaska ends voter records deal with US Justice Department | category politics
-- Alternative headline: Alaska terminates voter rolls sharing agreement with US Justice Dept
+### Iranian Singer Parastoo Ahmadi Flogged 74 Times Over YouTube Concert  [NORMAL]
+- Poster: یوٹیوب پر پرفارمنس پر ایرانی گلوکارہ پرستو احمدی کو 74 کوڑے مارے گئے / Iranian Singer Parastoo Ahmadi Whipped 74 Times | category crime
+- Alternative headline: Singer Parastoo Ahmadi Whipped in Iran for 2024 YouTube Performance
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Alaska voter records, US Justice Department, midterm elections, voter rolls, Alaska politics, federal agreement | hashtags: #Alaska #USPolitics #VoterRecords #JusticeDepartment #News
-- Scheduled: Wed 25 Nov, 07:48 AM PKT
+- Keywords: Parastoo Ahmadi, Iran, singer, whipped, YouTube concert | hashtags: #ParastooAhmadi #Iran #FreeExpression #AlJazeera #HumanRights
+- Scheduled: Wed 25 Nov, 08:28 AM PKT
 - Caption:
 ```
-Electoral transparency and state autonomy take center stage as a regional voter data agreement is scrapped.
+Iranian authorities have lashed singer Parastoo Ahmadi 74 times over a musical performance streamed live on YouTube.
 
-Alaska has ended an agreement to provide voter records to the US Justice Department, following the conclusion of the 2026 midterm elections and previous federal efforts to gather state voter rolls.
+Iranian authorities have lashed singer Parastoo Ahmadi 74 times as punishment over a 2024 musical performance that was streamed live on YouTube without adhering to strict regulations.
 
-2026 کے وسط مدتی انتخابات کے اختتام اور ریاستی ووٹرز کے ریکارڈ کو اکٹھا کرنے کی پچھلی وفاقی کوششوں کے بعد الاسکا نے امریکی محکمہ انصاف کو ووٹر ریکارڈ فراہم کرنے کا معاہدہ ختم کر دیا ہے۔
+ایرانی حکام نے گلوکارہ پرستو احمدی کو یوٹیوب پر لائیو اسٹریم کی جانے والی 2024 کی ایک پرفارمنس پر 74 کوڑے مارنے کی سزا دی ہے۔
 
-First reported by Al Jazeera
+According to a published report by Al Jazeera
 
-#Alaska #USPolitics #VoterRecords #JusticeDepartment #News
+#ParastooAhmadi #Iran #FreeExpression #AlJazeera #HumanRights
 ```
 
-- Indian outlets blocked this run: 0 items
+### What Are the Chances of Experiencing a White Christmas This Year?  [NORMAL]
+- Poster: کیا اس سال کرسمس پر برفباری ہوگی؟ جانیے موسم کا حال / Chances of a White Christmas This Year | category weather
+- Alternative headline: Met Office Explains Likelihood and Definition of a White Christmas
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Science https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Science https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Science
+- Keywords: White Christmas, weather, Met Office, snow, Christmas Day | hashtags: #WhiteChristmas #Weather #MetOffice #BBC #Snow
+- Scheduled: Wed 25 Nov, 08:38 AM PKT
+- Caption:
+```
+As Christmas approaches, meteorologists explore the historical likelihood and official definition of a white Christmas.
+
+With Christmas Day a month away, weather data shows a significant historical likelihood of a white Christmas in the UK, defined officially as a single snowflake falling on December 25.
+
+کرسمس میں ایک ماہ باقی ہے، اور موسمیاتی اعداد و شمار کے مطابق برطانیہ میں وائٹ کرسمس کا امکان موجود ہے، جس کی سرکاری تعریف 25 دسمبر کو ایک برفانی ذرے کا گرنا ہے۔
+
+According to a published report by BBC Science
+
+#WhiteChristmas #Weather #MetOffice #BBC #Snow
+```
+
+### Food Inflation Surges to 8.94 Percent Amid Rising Cost of Living in India  [NORMAL]
+- Poster: بھارت میں مہنگائی میں اضافہ، فوڈ انفلیشن 8.94 فیصد تک پہنچ گئی / Food Inflation Surges in India | category economy
+- Alternative headline: India Faces Rising Retail and Food Inflation Driven by Weather and Supply Pressures
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Science https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Science https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Science
+- Keywords: food inflation, India, retail inflation, economy, monsoon | hashtags: #Inflation #IndiaEconomy #FoodPrices #BBC #CostOfLiving
+- Scheduled: Wed 25 Nov, 08:48 AM PKT
+- Caption:
+```
+New government data shows India's retail inflation climbed, with food inflation surging significantly faster.
+
+India's retail inflation climbed to 6.09 percent in October, while food inflation surged to 8.94 percent, driven by weather disruptions, uneven monsoons, and rising input costs according to economists.
+
+بھارت میں اکتوبر کے دوران خوردنی اشیاء کی مہنگائی بڑھ کر 8.94 فیصد ہو گئی ہے، جبکہ مجموعی ریٹیل مہنگائی 6.09 فیصد تک پہنچ گئی ہے۔ ماہرین کے مطابق اس کی وجہ خراب موسمی حالات ہیں۔
+
+According to a published report by BBC Science
+
+#Inflation #IndiaEconomy #FoodPrices #BBC #CostOfLiving
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
-- [needs_review] normal | Kaliningrad-Bound Ship Struck By Drones In Gulf Of Finland | Sun 22 Nov, 12:34 AM PKT
-- [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 12:44 AM PKT
-- [needs_review] normal | UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt | Sun 22 Nov, 12:54 AM PKT
 - [needs_review] normal | Noni Madueke Salvages Draw for Arsenal Against Newcastle | Sun 22 Nov, 01:23 AM PKT
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
 - [needs_review] normal | President Zardari approves five ordinances on KP legislation | Sun 22 Nov, 02:01 AM PKT
@@ -212,10 +209,8 @@ First reported by Al Jazeera
 - [needs_review] normal | Nigeria Youth Power: Why Aren't Young People Shaping This Election? | Sun 22 Nov, 05:59 AM PKT
 - [needs_review] normal | Clashes Erupt Across France in Another Night of Protest | Sun 22 Nov, 06:09 AM PKT
 - [needs_review] normal | Iran War Live: Iran Targets US Bases in Bahrain as Houthi Strikes Cont | Sun 22 Nov, 06:19 AM PKT
-- [published] normal | Minister Seeks Comprehensive Upgrade For Fisheries Sector | Sun 22 Nov, 07:10 AM PKT
 - [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 07:20 AM PKT
 - [needs_review] normal | UN Member States Agree To Formal Talks On Killer Robots | Sun 22 Nov, 07:30 AM PKT
-- [published] normal | Panic In Peru As Moviegoers Rush For Exits During Earthquake | Sun 22 Nov, 07:40 AM PKT
 - [published] normal | Sindh Seeks French Help and Technology to Restore Manchhar Lake | Sun 22 Nov, 09:18 AM PKT
 - [published] normal | Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike | Sun 22 Nov, 09:28 AM PKT
 - [needs_review] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
@@ -374,7 +369,7 @@ First reported by Al Jazeera
 - [published] promo | [YouTube] MARYAM NAWAZ EXPOSED: RS 10 LAKH FLOWERS, MAULANA BLOCKED | Tue 24 Nov, 11:36 PM PKT
 - [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
 - [published] normal | Huawei found guilty of stealing trade secrets in US trial | Wed 25 Nov, 05:41 AM PKT
-- [queued] normal | Arsenal and Borussia Dortmund draw 1-1 in Champions League | Wed 25 Nov, 05:51 AM PKT
+- [published] normal | Arsenal and Borussia Dortmund draw 1-1 in Champions League | Wed 25 Nov, 05:51 AM PKT
 - [queued] normal | Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show | Wed 25 Nov, 06:01 AM PKT
 - [queued] normal | Pakistan strongly condemns Houthi attack on Riyadh tower | Wed 25 Nov, 06:11 AM PKT
 - [queued] normal | Israel’s Eisenkot secures first coalition partner in bid to form gover | Wed 25 Nov, 06:58 AM PKT
@@ -383,12 +378,18 @@ First reported by Al Jazeera
 - [queued] normal | South Africa convicts Zimbabwean trying to fight for Russia | Wed 25 Nov, 07:28 AM PKT
 - [queued] normal | Bellingham beauty inspires Real Madrid as Arsenal, Man City held | Wed 25 Nov, 07:38 AM PKT
 - [queued] normal | Alaska ends deal to give voter records to US Justice Department | Wed 25 Nov, 07:48 AM PKT
+- [queued] normal | Poll Finds Majority of US Voters Want Immediate End to Iran War | Wed 25 Nov, 07:58 AM PKT
+- [queued] normal | Cybersecurity Identified as Key Pillar for Digital Pakistan Vision | Wed 25 Nov, 08:08 AM PKT
+- [queued] normal | Internal Vulnerabilities Complicated Deutsche Bank's Pakistan Operatio | Wed 25 Nov, 08:18 AM PKT
+- [queued] normal | Iranian Singer Parastoo Ahmadi Flogged 74 Times Over YouTube Concert | Wed 25 Nov, 08:28 AM PKT
+- [queued] normal | What Are the Chances of Experiencing a White Christmas This Year? | Wed 25 Nov, 08:38 AM PKT
+- [queued] normal | Food Inflation Surges to 8.94 Percent Amid Rising Cost of Living in In | Wed 25 Nov, 08:48 AM PKT
 
 ## Publishing this run
-- Published 'Huawei found guilty of stealing trade secrets in US trial'.
+- Published 'Arsenal and Borussia Dortmund draw 1-1 in Champions League'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 5989 | output tokens: 3330
+- Calls: 2 | prompt tokens: 7187 | output tokens: 3192
 - Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
