@@ -1,10 +1,10 @@
-# News Hub report - Wed 25 Nov, 12:53 PM PKT
+# News Hub report - Wed 25 Nov, 02:00 PM PKT
 
 ## Collection
-- New items this run: 187 | items in rolling pool: 488
-- Unique story clusters: 414 (duplicates merged: 74)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 3
-- Items per outlet: UrduPoint 100, ARY News 10, ProPakistani 10, Geo News 9, Dawn 5, Dawn Latest 5, samaa tv 4, Jang Urdu 4, TechJuice 4, Investify 4, Al Jazeera 3, The Current 3
+- New items this run: 72 | items in rolling pool: 526
+- Unique story clusters: 437 (duplicates merged: 89)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 4
+- Items per outlet: ProPakistani 7, Geo News 5, Investify 5, samaa tv 4, ARY News 4, Al Jazeera 4, Dunya News 3, Dawn Pakistan 3, Dawn 3, AP News 3, TechJuice 3, Profit by Pakistan Today 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -13,44 +13,40 @@
 ## Top 5 most important
 - Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan calls for human control over decisions on nuclear weapons use | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man kills two minor daughters, injures wife | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PCB announces 15-member women’s squad for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan calls for human control over decisions on nuclear weapons use | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man kills two minor daughters, injures wife | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PCB announces 15-member women’s squad for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan calls for human control over decisions on nuclear weapons use | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man kills two minor daughters, injures wife | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PCB announces 15-member women’s squad for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 10 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
 
 ## Queue status
-- [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
-- [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 07:20 AM PKT
-- [needs_review] normal | UN Member States Agree To Formal Talks On Killer Robots | Sun 22 Nov, 07:30 AM PKT
 - [needs_review] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
 - [needs_review] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
 - [needs_review] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
@@ -208,12 +204,12 @@
 - [published] normal | Pakistan strongly condemns Houthi attack on Riyadh tower | Wed 25 Nov, 06:11 AM PKT
 - [published] normal | Israel’s Eisenkot secures first coalition partner in bid to form gover | Wed 25 Nov, 06:58 AM PKT
 - [published] normal | Inflation projected at 9.8% as food prices bite | Wed 25 Nov, 07:08 AM PKT
-- [queued] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
-- [queued] normal | South Africa convicts Zimbabwean trying to fight for Russia | Wed 25 Nov, 07:28 AM PKT
-- [queued] normal | Bellingham beauty inspires Real Madrid as Arsenal, Man City held | Wed 25 Nov, 07:38 AM PKT
-- [queued] normal | Alaska ends deal to give voter records to US Justice Department | Wed 25 Nov, 07:48 AM PKT
-- [queued] normal | Poll Finds Majority of US Voters Want Immediate End to Iran War | Wed 25 Nov, 07:58 AM PKT
-- [queued] normal | Cybersecurity Identified as Key Pillar for Digital Pakistan Vision | Wed 25 Nov, 08:08 AM PKT
+- [needs_review] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
+- [needs_review] normal | South Africa convicts Zimbabwean trying to fight for Russia | Wed 25 Nov, 07:28 AM PKT
+- [needs_review] normal | Bellingham beauty inspires Real Madrid as Arsenal, Man City held | Wed 25 Nov, 07:38 AM PKT
+- [needs_review] normal | Alaska ends deal to give voter records to US Justice Department | Wed 25 Nov, 07:48 AM PKT
+- [needs_review] normal | Poll Finds Majority of US Voters Want Immediate End to Iran War | Wed 25 Nov, 07:58 AM PKT
+- [published] normal | Cybersecurity Identified as Key Pillar for Digital Pakistan Vision | Wed 25 Nov, 08:08 AM PKT
 - [queued] normal | Internal Vulnerabilities Complicated Deutsche Bank's Pakistan Operatio | Wed 25 Nov, 08:18 AM PKT
 - [queued] normal | Iranian Singer Parastoo Ahmadi Flogged 74 Times Over YouTube Concert | Wed 25 Nov, 08:28 AM PKT
 - [queued] normal | What Are the Chances of Experiencing a White Christmas This Year? | Wed 25 Nov, 08:38 AM PKT
@@ -232,16 +228,28 @@
 - [queued] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
 
 ## Publishing this run
-- Published 'Inflation projected at 9.8% as food prices bite'.
+- Published 'Cybersecurity Identified as Key Pillar for Digital Pakistan Vision'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
 - Errors: 5
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=6.39193
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"

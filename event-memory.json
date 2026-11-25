@@ -151529,7 +151529,629 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "52f3780f91d67f6ecda1eab3",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T01:45:40+00:00",
+      "last_update": "2026-11-25T07:30:00+00:00",
+      "event": "Govt taps three banks for $500m",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500m",
+        "banks",
+        "dawn",
+        "for",
+        "govt",
+        "taps",
+        "three"
+      ],
+      "source_excerpt": "Govt taps three banks for $500m Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6Q0xISnU4NHlHZDNMRklpc0lBSmhTMGthWXFPajBBWXk2ZVNjNlVGcGoySXJabDE1ZWNhT2NBM3JmWERLaU1oUlp5OElUcGt0MHJwSDhMdTI4T2lZck93Z1J5V3dSU21LNVpfWS1jbUNlZw?oc=5",
+          "published_at": "2026-11-25T01:45:40+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUlIengzMnFXQ3NqWXpkWVY2ZDZEVm9Oa2RlTl8tdGtEWWFDTDBYZGRoX1Vfa1NsaWduYmdNeGl3WVZZWWpyYVFtSzk3V3JkTGg3SnFhRzQxQ0F3eFgzcU9iU3h1eGhfUDgzY29wRTZRWHNjcl9ZNjRUUU9FcGpGVklhdlRzNWFGcXYzXzI3Y3AyYjQ1VHZtYy1nQTZRMy1GZmFMb0J2R1I?oc=5",
+          "published_at": "2026-11-25T07:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6Q0xISnU4NHlHZDNMRklpc0lBSmhTMGthWXFPajBBWXk2ZVNjNlVGcGoySXJabDE1ZWNhT2NBM3JmWERLaU1oUlp5OElUcGt0MHJwSDhMdTI4T2lZck93Z1J5V3dSU21LNVpfWS1jbUNlZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eb3bbf0d7a8090ba91f5f26f",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T02:06:37+00:00",
+      "last_update": "2026-11-25T08:36:03+00:00",
+      "event": "Man kills two minor daughters, injures wife",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "daughters",
+        "dawn",
+        "injures",
+        "kills",
+        "man",
+        "minor",
+        "two",
+        "wife"
+      ],
+      "source_excerpt": "Man kills two minor daughters, injures wife Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQWE3b1AwYVZac2JfZ3Bhdk52UXFiR0hmOUF4UlFXVFlVSDF3Q3lYVU9uTDJHdE5KbmYxaWpmQXZXTURLRVVKSUZuOU9Ma0ZHVThXOTBsM2pCQ2ZLc0E4VjBMLWNiRjRwSVFwWUZIM3ZZdzdkdWY4M0FITTItOVZOamlB?oc=5",
+          "published_at": "2026-11-25T02:06:37+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/muzaffargarh-man-kills-two-daughters-injured-wife-after-trying-to-marry-again/",
+          "published_at": "2026-11-25T08:36:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQWE3b1AwYVZac2JfZ3Bhdk52UXFiR0hmOUF4UlFXVFlVSDF3Q3lYVU9uTDJHdE5KbmYxaWpmQXZXTURLRVVKSUZuOU9Ma0ZHVThXOTBsM2pCQ2ZLc0E4VjBMLWNiRjRwSVFwWUZIM3ZZdzdkdWY4M0FITTItOVZOamlB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d8afb3d4df1afeef2870ea8a",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T08:32:47+00:00",
+      "last_update": "2026-11-25T08:32:47+00:00",
+      "event": "Peshawar High Court halts extradition of Afghan house job doctors",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghan",
+        "arynews",
+        "court",
+        "doctors",
+        "extradition",
+        "halts",
+        "high",
+        "house",
+        "job",
+        "peshawar"
+      ],
+      "source_excerpt": "Peshawar High Court halts extradition of Afghan house job doctors ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlNWckVzV2lTN2VIZ2l5aDQ4Y1Q4M0JDSFVyaHFOVkZZcE9FY3dTbkNKQnhoUDNUWkRQZG1wZW5YVk10dVJERTYyLWJiRHd1NEowS3k2Vy1FOVdERmdXRU1hVUNPUWkzcExPRUNBZnN4bFpPcGZjaTVVdWZrclNsRHpqQnI1YmRjT2RjYw?oc=5",
+          "published_at": "2026-11-25T08:32:47+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/peshawar-high-court-halts-extradition-of-afghan-house-job-doctors",
+          "published_at": "2026-11-25T08:32:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlNWckVzV2lTN2VIZ2l5aDQ4Y1Q4M0JDSFVyaHFOVkZZcE9FY3dTbkNKQnhoUDNUWkRQZG1wZW5YVk10dVJERTYyLWJiRHd1NEowS3k2Vy1FOVdERmdXRU1hVUNPUWkzcExPRUNBZnN4bFpPcGZjaTVVdWZrclNsRHpqQnI1YmRjT2RjYw?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ce8330bbd0085d225eda5a69",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T08:59:17+00:00",
+      "last_update": "2026-11-25T08:59:17+00:00",
+      "event": "Maldives national airline to start direct flights to Pakistan soon, meeting told",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airline",
+        "and",
+        "announcement",
+        "aviat",
+        "between",
+        "bid",
+        "boost",
+        "civil",
+        "contacts",
+        "countries",
+        "direct",
+        "during",
+        "emerged",
+        "flights",
+        "islamabad",
+        "made",
+        "maldives",
+        "maldivian",
+        "meeting",
+        "national",
+        "pakistan",
+        "people",
+        "soon",
+        "start",
+        "the",
+        "told",
+        "tourism",
+        "trade",
+        "two",
+        "was",
+        "wednesday",
+        "will"
+      ],
+      "source_excerpt": "ISLAMABAD: Maldivian, the national airline of the Maldives, will soon start direct flights to Pakistan in a bid to boost tourism, trade and people-to-people contacts between the two countries, it emerged on Wednesday, The announcement was made during a meeting of the Maldives Tourism and Civil Aviat",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046987/maldives-national-airline-to-start-direct-flights-to-pakistan-soon-meeting-told",
+          "published_at": "2026-11-25T08:59:17+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXNMb1l3OU9mU2tIcW9DNjlabnVSUFhfWlpPaDlyQW5LZ01USzMwa3dwZDBLcHlEVE1KR3c1WmtiUzFGR3g4N1g3ZkkwQkN6dnVqRXpxcTNNSUFBVWVYUERsLURBM2xvakVaWkhPemdpWWxTYmhDc1UyMHFmWmJIR2FJSTlZS1p4U1lvMzNyckkxdWFYVU11WjZBZjF3RGxqb2NmeENrQ3pIMGxkNTJIZ3RxSQ?oc=5",
+          "published_at": "2026-11-25T08:59:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046987/maldives-national-airline-to-start-direct-flights-to-pakistan-soon-meeting-told",
+        "publisher_url": "https://www.dawn.com/news/2046987/maldives-national-airline-to-start-direct-flights-to-pakistan-soon-meeting-told",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7bc61515d80fb4ab939de531",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T08:22:21+00:00",
+      "last_update": "2026-11-25T08:22:21+00:00",
+      "event": "Pakistan, China agree on government-to-government arrangements for fuel storage, terminal facilities",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "according",
+        "agree",
+        "agreed",
+        "ali",
+        "and",
+        "arrangements",
+        "china",
+        "chinese",
+        "division",
+        "facilities",
+        "for",
+        "fuel",
+        "g2g",
+        "gas",
+        "government",
+        "investment",
+        "islamabad",
+        "liquefied",
+        "lpg",
+        "malik",
+        "minister",
+        "pakistan",
+        "pervaiz",
+        "petrol",
+        "petroleum",
+        "pursue",
+        "statement",
+        "storage",
+        "terminal",
+        "wednesday"
+      ],
+      "source_excerpt": "ISLAMABAD: Pakistan and China agreed on Wednesday to pursue government-to-government (G2G) arrangements for Chinese investment in Pakistan’s petrol and liquefied petroleum gas (LPG) storage and terminal facilities, according to a Petroleum Division statement. Petroleum Minister Ali Pervaiz Malik and",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046979/pakistan-china-agree-on-government-to-government-arrangements-for-fuel-storage-terminal-facilities",
+          "published_at": "2026-11-25T08:22:21+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2RrOHJSbGtwMXJuM3V6bXdPTW9tU0pxVWNuMTdPV05FLUk5U1RHN3hNb3NjTGZNYmxWODJFSWpHdVZuQ3FWb0pra0M1eGUyVXAtcEZ4N0xaemVyanJLUmVvZFQxa2tZWXhnNzI2RC1hdUVtZDVkTVdaeThVNmZ3Q0dUSGhnZTRERTUydWFnd0owdzJDWG9BSlhPZ3VIU0RidTFSZDdTTmlXcEdTN29LanVQV3EybEQyc3pmS203QnYzOG5rWjJVQ2JqODRVZw?oc=5",
+          "published_at": "2026-11-25T08:22:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046979/pakistan-china-agree-on-government-to-government-arrangements-for-fuel-storage-terminal-facilities",
+        "publisher_url": "https://www.dawn.com/news/2046979/pakistan-china-agree-on-government-to-government-arrangements-for-fuel-storage-terminal-facilities",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "804346a1c9ef806adaeaa373",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T08:23:35+00:00",
+      "last_update": "2026-11-25T08:23:35+00:00",
+      "event": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "attack",
+        "attacks",
+        "coalition",
+        "comes",
+        "escalation",
+        "group",
+        "hodeidah",
+        "houthi",
+        "intercepts",
+        "kingdom",
+        "led",
+        "ports",
+        "rebel",
+        "red",
+        "retaliation",
+        "saudi",
+        "sea",
+        "strike",
+        "the",
+        "threatened",
+        "yemeni"
+      ],
+      "source_excerpt": "The escalation comes after the Yemeni rebel group threatened to attack the kingdom's Red Sea ports in retaliation.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss",
+          "published_at": "2026-11-25T08:23:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e655ba29662df1b9ba488b80",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T08:23:01+00:00",
+      "last_update": "2026-11-25T08:23:01+00:00",
+      "event": "Countries that thrive on global cooperation must help sustain it",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advance",
+        "and",
+        "combine",
+        "cooperation",
+        "countries",
+        "diplomatic",
+        "economic",
+        "global",
+        "help",
+        "like",
+        "must",
+        "prosperous",
+        "qatar",
+        "resources",
+        "should",
+        "small",
+        "stability",
+        "states",
+        "sustain",
+        "that",
+        "their",
+        "thrive"
+      ],
+      "source_excerpt": "Prosperous small states like Qatar should combine their diplomatic and economic resources to advance global stability.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/25/countries-that-thrive-on-global-cooperation-must-help-sustain-it?traffic_source=rss",
+          "published_at": "2026-11-25T08:23:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/25/countries-that-thrive-on-global-cooperation-must-help-sustain-it?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/25/countries-that-thrive-on-global-cooperation-must-help-sustain-it?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9db2cbbaee3ca37c91cc23ec",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T08:20:55+00:00",
+      "last_update": "2026-11-25T08:20:55+00:00",
+      "event": "Is Russia really aiming for a new European security architecture?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aiming",
+        "architecture",
+        "demands",
+        "diversion",
+        "either",
+        "european",
+        "for",
+        "moscow",
+        "negotiating",
+        "new",
+        "piling",
+        "really",
+        "russia",
+        "security",
+        "strategy",
+        "talks",
+        "ukraine",
+        "with"
+      ],
+      "source_excerpt": "Moscow is piling on new demands in talks with Ukraine, either as a negotiating strategy or as a diversion.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/25/is-russia-really-aiming-for-a-new-european-security-architecture?traffic_source=rss",
+          "published_at": "2026-11-25T08:20:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/25/is-russia-really-aiming-for-a-new-european-security-architecture?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/25/is-russia-really-aiming-for-a-new-european-security-architecture?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "637b92bcac25129383904366",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T08:08:57+00:00",
+      "last_update": "2026-11-25T08:08:57+00:00",
+      "event": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "are",
+        "dozens",
+        "flooded",
+        "for",
+        "from",
+        "gold",
+        "heavy",
+        "indonesia",
+        "mine",
+        "nearby",
+        "overflowed",
+        "police",
+        "rain",
+        "rescued",
+        "rescuers",
+        "river",
+        "say",
+        "search",
+        "that",
+        "trapped",
+        "when",
+        "workers",
+        "yet"
+      ],
+      "source_excerpt": "Police say 26 workers are yet to be rescued from a mine that flooded when a nearby river overflowed after heavy rain.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
+          "published_at": "2026-11-25T08:08:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe4621e9067e450e71588a9b",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T07:50:48+00:00",
+      "last_update": "2026-11-25T07:50:48+00:00",
+      "event": "Karachi ranks second among world’s most polluted cities",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "cities",
+        "karachi",
+        "most",
+        "polluted",
+        "ranks",
+        "second",
+        "world"
+      ],
+      "source_excerpt": "Karachi ranks second among world’s most polluted cities",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-ranks-second-among-worlds-most-polluted-cities",
+          "published_at": "2026-11-25T07:50:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-ranks-second-among-worlds-most-polluted-cities",
+        "publisher_url": "https://arynews.tv/karachi-ranks-second-among-worlds-most-polluted-cities",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "881f187e830217248f3833a5",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T07:42:27+00:00",
+      "last_update": "2026-11-25T07:42:27+00:00",
+      "event": "Armed forces thank China for support in Pakistan’s first human spaceflight mission",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "armed",
+        "china",
+        "first",
+        "for",
+        "forces",
+        "human",
+        "mission",
+        "pakistan",
+        "spaceflight",
+        "support",
+        "thank"
+      ],
+      "source_excerpt": "Armed forces thank China for support in Pakistan’s first human spaceflight mission",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/armed-forces-thank-china-for-support-in-pakistans-first-human-spaceflight-mission",
+          "published_at": "2026-11-25T07:42:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/armed-forces-thank-china-for-support-in-pakistans-first-human-spaceflight-mission",
+        "publisher_url": "https://arynews.tv/armed-forces-thank-china-for-support-in-pakistans-first-human-spaceflight-mission",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b21ed4640f5312705cc3fdbf",
+      "remembered_at": "2026-11-25T09:00:37.187402+00:00",
+      "event_date": "2026-11-25T08:18:32+00:00",
+      "last_update": "2026-11-25T08:18:32+00:00",
+      "event": "Pakistan plans $5.7bn upgrade for 5 major oil refineries",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "7bn",
+        "for",
+        "major",
+        "oil",
+        "pakistan",
+        "plans",
+        "refineries",
+        "samaa",
+        "upgrade"
+      ],
+      "source_excerpt": "Pakistan plans $5.7bn upgrade for 5 major oil refineries samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEN4UGJpUVNtTHRBUzZWeWlIZXU5cHNiV09SUjBEX3YwV3dOOVBoYmNQR2VkR2N0ejhHZkgyUGJGV1FkNW1mYjN0c2N2cWpZb01jdFo2Skpha0d6ci1Uam85VHgxMFd1ZEZKNktPYWVQNk5udzljLUE2MHA1a0JSbWxzYkxoVzZNRElkd2JpNkhjOEk?oc=5",
+          "published_at": "2026-11-25T08:18:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEN4UGJpUVNtTHRBUzZWeWlIZXU5cHNiV09SUjBEX3YwV3dOOVBoYmNQR2VkR2N0ejhHZkgyUGJGV1FkNW1mYjN0c2N2cWpZb01jdFo2Skpha0d6ci1Uam85VHgxMFd1ZEZKNktPYWVQNk5udzljLUE2MHA1a0JSbWxzYkxoVzZNRElkd2JpNkhjOEk?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T07:53:10.765155+00:00"
+  "updated_at": "2026-11-25T09:00:37.187402+00:00"
 }
