@@ -155176,7 +155176,618 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d8de485f9e0be385fcb25cdb",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T14:32:50+00:00",
+      "last_update": "2026-11-25T14:32:50+00:00",
+      "event": "ILT20: Pakistani fast bowler Hunain Shah joins Desert Vipers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bowler",
+        "desert",
+        "fast",
+        "hunain",
+        "ilt20",
+        "joins",
+        "pakistani",
+        "samaa",
+        "shah",
+        "vipers"
+      ],
+      "source_excerpt": "ILT20: Pakistani fast bowler Hunain Shah joins Desert Vipers samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanh5VWJrM0dxcldod2QyejVxbnhOVThlUmZMcXQySTZyNlY4dnBNc3R3UFRYRUFBdmkzdXdVTUhRcjJIcFh5TllqWmdPWV83OEo4djM2Wk55U1pfTENPRGhFN3M3YnZQYjhYN1NTX2w1YTRSNldCRzNKRkJScVRwamlTbGJpT3ltNVdrcVJXZ3c3UGNRT1YtMktTa1laSU1oSmVHYU1sT1E?oc=5",
+          "published_at": "2026-11-25T14:32:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanh5VWJrM0dxcldod2QyejVxbnhOVThlUmZMcXQySTZyNlY4dnBNc3R3UFRYRUFBdmkzdXdVTUhRcjJIcFh5TllqWmdPWV83OEo4djM2Wk55U1pfTENPRGhFN3M3YnZQYjhYN1NTX2w1YTRSNldCRzNKRkJScVRwamlTbGJpT3ltNVdrcVJXZ3c3UGNRT1YtMktTa1laSU1oSmVHYU1sT1E?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ed62f18e5bbecc13bf5c0ff7",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T14:46:41+00:00",
+      "last_update": "2026-11-25T14:46:41+00:00",
+      "event": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aircraft",
+        "airfield",
+        "and",
+        "bombs",
+        "five",
+        "glide",
+        "hit",
+        "hosts",
+        "hypersonic",
+        "jets",
+        "launch",
+        "military",
+        "missiles",
+        "russia",
+        "russian",
+        "savasleyka",
+        "says",
+        "strike",
+        "the",
+        "ukraine",
+        "used"
+      ],
+      "source_excerpt": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T14:46:41+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbjRXZHVvMFBra2FoR20zdnY0MUlXdTZMNy11dGpJeEtNdUM1dXkwMllYa1RvbWdZelg1WlNMbC1XWjZoanNGbml1aXJxV1Z5MTBHUDNCWF9kaGs?oc=5",
+          "published_at": "2026-11-25T14:46:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "84cd7c173d0096497396fcf3",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T12:28:18+00:00",
+      "last_update": "2026-11-25T14:00:00+00:00",
+      "event": "Gold price in Pakistan latest - November 25, 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "gold",
+        "latest",
+        "november",
+        "pakistan",
+        "price",
+        "samaa"
+      ],
+      "source_excerpt": "Gold price in Pakistan latest - November 25, 2026 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjJGSUVrZnZHd0RIck5EQktORm5OU3ZnSnNZMmFESEtIcWVGcU4xUWhGMWN2NU92X3p3YUJ1a0ZXLURmRGZudTFLemhyQUozd3ZfMU8zZG9RUk5nSkswTXp0X2N5TWpEWVBQVGdRdHZDdV83VGhOZWtZWHdiTktMNnBVVEs?oc=5",
+          "published_at": "2026-11-25T12:28:18+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1N4RHE2N3FRTWJhR1pLMU9fT1dLbXM1a2xsUnFpb3FXdVUtUlk2cFJYS2FpN0tVTzRlRXh1UnRFWW9iYkVpTnlTWklSdGQ1X3ZBYXIySEk1YkR3RF9FWklfR0ZDUUVMckswc283TjJZbUwzRmFaSWNpRWVnOU1KVWpHR3JIREYtSTk5WE05N2tRSjZET0tBUHlGSl9WdUhJZnJlenUyWTlxaUVyQ1l6cw?oc=5",
+          "published_at": "2026-11-25T14:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjJGSUVrZnZHd0RIck5EQktORm5OU3ZnSnNZMmFESEtIcWVGcU4xUWhGMWN2NU92X3p3YUJ1a0ZXLURmRGZudTFLemhyQUozd3ZfMU8zZG9RUk5nSkswTXp0X2N5TWpEWVBQVGdRdHZDdV83VGhOZWtZWHdiTktMNnBVVEs?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e9707cd9a1f6041f611bf040",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T13:11:40+00:00",
+      "last_update": "2026-11-25T13:56:08+00:00",
+      "event": "سپریم کورٹ: سابق شوہر کی اپیل خارج، 28 سال بعد خاتون گھر کی مالک قرار",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اخراجاتِ",
+        "الجھائے",
+        "اپیل",
+        "بعد",
+        "خاتون",
+        "خارج،",
+        "روپے",
+        "رکھنے",
+        "زائد",
+        "سابق",
+        "سال",
+        "سپریم",
+        "شوہر",
+        "عرصہ",
+        "فائل",
+        "فوٹو",
+        "قرار",
+        "لاکھ",
+        "مالک",
+        "مقدمہ",
+        "مقدمے",
+        "میں",
+        "پانچ",
+        "کورٹ",
+        "گھر"
+      ],
+      "source_excerpt": "سپریم کورٹ : فائل فوٹو خاتون کو 28 سال سے زائد عرصہ مقدمے میں الجھائے رکھنے پر سپریم کورٹ نے سابق شوہر کو پانچ لاکھ روپے اخراجاتِ مقدمہ...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636676",
+          "published_at": "2026-11-25T13:11:40+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5023067",
+          "published_at": "2026-11-25T13:56:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636676",
+        "publisher_url": "https://jang.com.pk/news/1636676",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "90b210ed8239478c9db7085c",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T13:14:55+00:00",
+      "last_update": "2026-11-25T14:08:42+00:00",
+      "event": "Trump targets China in new round of tariffs",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "china",
+        "cnn",
+        "new",
+        "round",
+        "targets",
+        "tariffs",
+        "trump"
+      ],
+      "source_excerpt": "Trump targets China in new round of tariffs CNN",
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
+          "published_at": "2026-11-25T13:14:55+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUhsNHVrMU1LUUQ4VU9WYjlOczlzR3FMa3hYcnFtMnRkNnQ4eElRNWNTRHRQOGw5N1FjcUpKMmxCLUdmU21IX3Npa1FfTXUybHZOTndSMnlnQTdCVy1aUUJPS0dTNVhHbFJTNmFvdThOOUFJZ1JGbVROZjF4U1JqTF9Sd9IBU0FVX3lxTE1paUFEMkxPQ1RlMEt5SURCdHBPZGVGUEZ5YmlOSkdETmU5Ym56Wlpfa0xkTFBiQWVjREJaNnpjQUdkT3FQdlhjRWJZdE1ZMDc3bmEw?oc=5",
+          "published_at": "2026-11-25T14:08:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
+        "publisher_url": "https://www.cnn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2467fa5a5e247680c3498c67",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T14:48:26+00:00",
+      "last_update": "2026-11-25T14:53:55+00:00",
+      "event": "NCCIA says busted call centre at Karachi's Sharea Faisal defrauding elderly US citizens,",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "busted",
+        "call",
+        "centre",
+        "citizens",
+        "dawn",
+        "defrauding",
+        "elderly",
+        "faisal",
+        "karachi",
+        "nccia",
+        "says",
+        "sharea"
+      ],
+      "source_excerpt": "NCCIA says busted call centre at Karachi's Sharea Faisal defrauding elderly US citizens, Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV3JnSFNpa0lyTFA1RjZLUzF5TElvaHpVeWxzVjJUNkFkbVZTS0dtY1Q3ekV0UHhuLUNhRGtfYUtEU0ZuMHlneUlnaDBjRVc5ZV81QV9VZVFoOHNXTkI0Wk1WT1hVbFNTbDhEZTFuTHhURlhlNzFJWG85NDJ2Uks3Y0JkOE1PaTdDUGl3bm5yRnhCRlUxWDBJZEtPcTdkNmJaN3dnaEx0MXZBQkJEYVFNTTdydkJtajlqS3NvSg?oc=5",
+          "published_at": "2026-11-25T14:48:26+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047010/nccia-claims-busted-call-centre-at-karachis-sharea-faisal-defrauding-elderly-us-citizens",
+          "published_at": "2026-11-25T14:53:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV3JnSFNpa0lyTFA1RjZLUzF5TElvaHpVeWxzVjJUNkFkbVZTS0dtY1Q3ekV0UHhuLUNhRGtfYUtEU0ZuMHlneUlnaDBjRVc5ZV81QV9VZVFoOHNXTkI0Wk1WT1hVbFNTbDhEZTFuTHhURlhlNzFJWG85NDJ2Uks3Y0JkOE1PaTdDUGl3bm5yRnhCRlUxWDBJZEtPcTdkNmJaN3dnaEx0MXZBQkJEYVFNTTdydkJtajlqS3NvSg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8530d09ea960601933ee1950",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T14:54:44+00:00",
+      "last_update": "2026-11-25T14:54:44+00:00",
+      "event": "Trump announces new trade tariffs: Which countries will they target?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "announces",
+        "countries",
+        "economies",
+        "help",
+        "industries",
+        "new",
+        "overproduce",
+        "planning",
+        "subsidies",
+        "target",
+        "tariffs",
+        "the",
+        "their",
+        "they",
+        "trade",
+        "trump",
+        "using",
+        "which",
+        "will"
+      ],
+      "source_excerpt": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+          "published_at": "2026-11-25T14:54:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "589e85b85f35e6123b02813e",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T14:53:49+00:00",
+      "last_update": "2026-11-25T14:53:49+00:00",
+      "event": "Knesset advances October 7 probe despite Netanyahu’s objections",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advance",
+        "advances",
+        "attacks",
+        "despite",
+        "has",
+        "inquiry",
+        "into",
+        "israeli",
+        "knesset",
+        "netanyahu",
+        "objections",
+        "october",
+        "probe",
+        "proposed",
+        "state",
+        "the",
+        "voted"
+      ],
+      "source_excerpt": "The Israeli Knesset has voted to advance a proposed state inquiry into the October 7 attacks",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss",
+          "published_at": "2026-11-25T14:53:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f7ef51d42b6454a0dadd57b7",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T13:51:15+00:00",
+      "last_update": "2026-11-25T13:51:15+00:00",
+      "event": "Syrian teams clear landmines after deadly explosion",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "clear",
+        "deadly",
+        "explosion",
+        "landmines",
+        "syrian",
+        "teams"
+      ],
+      "source_excerpt": "Syrian teams clear landmines after deadly explosion",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
+          "published_at": "2026-11-25T13:51:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6d1a42b85ae6f40458fd4225",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T14:41:42+00:00",
+      "last_update": "2026-11-25T14:41:42+00:00",
+      "event": "New York's annual Thanksgiving Parade threatened by approaching storm",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "annual",
+        "approaching",
+        "are",
+        "celebrations",
+        "could",
+        "day",
+        "expected",
+        "famous",
+        "heavy",
+        "impact",
+        "impacted",
+        "macy",
+        "new",
+        "parade",
+        "rain",
+        "risk",
+        "storm",
+        "strong",
+        "thanksgiving",
+        "that",
+        "the",
+        "threatened",
+        "usa",
+        "winds",
+        "with",
+        "york"
+      ],
+      "source_excerpt": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T14:41:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ee3fe1436e398b1ffdcacf58",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T14:37:44+00:00",
+      "last_update": "2026-11-25T14:37:44+00:00",
+      "event": "Fuel price hike will make life 'almost impossible'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "almost",
+        "already",
+        "and",
+        "are",
+        "back",
+        "bank",
+        "bills",
+        "cutting",
+        "foundation",
+        "fuel",
+        "hike",
+        "homes",
+        "impossible",
+        "life",
+        "make",
+        "many",
+        "price",
+        "says",
+        "struggling",
+        "the",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "The Fuel Bank Foundation says many homes are already cutting back and struggling with bills.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T14:37:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3e2a491e245b662f752840c9",
+      "remembered_at": "2026-11-25T15:04:41.569315+00:00",
+      "event_date": "2026-11-25T14:58:51+00:00",
+      "last_update": "2026-11-25T14:58:51+00:00",
+      "event": "Energy price cap: The Iran war is being blamed for raising bills - here's why",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "being",
+        "bills",
+        "blamed",
+        "cap",
+        "energy",
+        "for",
+        "here",
+        "iran",
+        "price",
+        "raising",
+        "the",
+        "war",
+        "why"
+      ],
+      "source_excerpt": "Energy price cap: The Iran war is being blamed for raising bills - here's why BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Lc1hIT3ZUS3RQVHhnekFxQkxQUmM1Sm44VlY3T1h0Y0xMMDVaWTJXaHhUSl8zODZUeU5lVFd2eHg3ODl5R2xzRXVsUVFRMllKSTZSQ2VDWV9jUDQ?oc=5",
+          "published_at": "2026-11-25T14:58:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Lc1hIT3ZUS3RQVHhnekFxQkxQUmM1Sm44VlY3T1h0Y0xMMDVaWTJXaHhUSl8zODZUeU5lVFd2eHg3ODl5R2xzRXVsUVFRMllKSTZSQ2VDWV9jUDQ?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T13:57:50.881531+00:00"
+  "updated_at": "2026-11-25T15:04:41.569315+00:00"
 }

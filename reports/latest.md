@@ -1,49 +1,48 @@
-# News Hub report - Wed 25 Nov, 06:57 PM PKT
+# News Hub report - Wed 25 Nov, 08:04 PM PKT
 
 ## Collection
-- New items this run: 178 | items in rolling pool: 860
-- Unique story clusters: 728 (duplicates merged: 132)
-- Clusters dropped as already published/queued: 18; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 100, Geo News 12, ARY News 10, ProPakistani 10, Al Jazeera 9, TechJuice 6, BBC Business 3, samaa tv 2, The Express Tribune 2, Aaj English TV 2, The Verge 2, TechCrunch 2
+- New items this run: 170 | items in rolling pool: 896
+- Unique story clusters: 759 (duplicates merged: 137)
+- Clusters dropped as already published/queued: 17; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 100, Geo News 10, ProPakistani 7, TechJuice 6, samaa tv 4, Al Jazeera 4, The Verge 4, Dawn Pakistan 3, ARY News 3, Dawn 3, Aaj English TV 3, The Guardian 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Russia's own figures show it has lost nearly 500,000 people in Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ex-England star Sterling given suspended sentence for dangerous driving | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ILT20: Pakistani fast bowler Hunain Shah joins Desert Vipers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia's own figures show it has lost nearly 500,000 people in Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Amnesty says Israeli actions in Gaza preventing births, urges ICC to investigate genocide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Russia's own figures show it has lost nearly 500,000 people in Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ex-England star Sterling given suspended sentence for dangerous driving | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ILT20: Pakistani fast bowler Hunain Shah joins Desert Vipers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia's own figures show it has lost nearly 500,000 people in Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Amnesty says Israeli actions in Gaza preventing births, urges ICC to investigate genocide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Russia's own figures show it has lost nearly 500,000 people in Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ex-England star Sterling given suspended sentence for dangerous driving | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ILT20: Pakistani fast bowler Hunain Shah joins Desert Vipers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Russia's own figures show it has lost nearly 500,000 people in Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Amnesty says Israeli actions in Gaza preventing births, urges ICC to investigate genocide | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Reuters World | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
 - Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 10
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
 
 ## Queue status
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
@@ -61,7 +60,6 @@
 - [needs_review] normal | Italian jeweller and businessman Paolo Bulgari dies aged 89 | Sun 22 Nov, 07:07 PM PKT
 - [needs_review] normal | Main suspect in Karachi mother-daughter murder arrested in Larkana | Sun 22 Nov, 07:17 PM PKT
 - [needs_review] normal | Bruno Fernandes puts Manchester United contract talks on hold | Sun 22 Nov, 07:27 PM PKT
-- [published] normal | Why Iran Has Ramped Up Attacks Across the Gulf | Sun 22 Nov, 07:49 PM PKT
 - [needs_review] normal | Iran Has Achieved Military Deterrence Against Enemy: Ghalibaf | Sun 22 Nov, 07:59 PM PKT
 - [needs_review] normal | Pakistan to Host IAEA Nuclear Security Meeting in Islamabad | Sun 22 Nov, 08:09 PM PKT
 - [needs_review] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
@@ -216,7 +214,7 @@
 - [needs_review] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
 - [published] promo | [YouTube] IMRAN KHAN’S MESSAGE, MARYAM NAWAZ SHOE INCIDENT & PML-N CRI | Wed 25 Nov, 03:18 PM PKT
 - [published] normal | Could Netanyahu trigger a wider war with Iran to cling to power? | Wed 25 Nov, 04:23 PM PKT
-- [queued] normal | Pakistan makes history as Zeeshan Ali reaches space aboard China's She | Wed 25 Nov, 04:33 PM PKT
+- [published] normal | Pakistan makes history as Zeeshan Ali reaches space aboard China's She | Wed 25 Nov, 04:33 PM PKT
 - [queued] normal | Under-construction building collapses near Karachi's Baloch Colony, ca | Wed 25 Nov, 04:43 PM PKT
 - [queued] normal | ADB approves $250m loan to boost private investment in Pakistan | Wed 25 Nov, 04:53 PM PKT
 - [queued] normal | FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | Wed 25 Nov, 05:03 PM PKT
@@ -229,7 +227,7 @@
 - [queued] normal | Bangladesh Garment Workers Win 36 Percent Minimum Wage Rise | Wed 25 Nov, 06:14 PM PKT
 
 ## Publishing this run
-- Published 'Could Netanyahu trigger a wider war with Iran to cling to power?'.
+- Published 'Pakistan makes history as Zeeshan Ali reaches space aboard China's Shenzhou-24'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
@@ -238,7 +236,10 @@
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
