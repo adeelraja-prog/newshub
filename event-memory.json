@@ -157116,7 +157116,472 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8374e54c393cbb34f2f02cd8",
+      "remembered_at": "2026-11-25T18:14:40.253273+00:00",
+      "event_date": "2026-11-25T16:31:05+00:00",
+      "last_update": "2026-11-25T18:10:53+00:00",
+      "event": "Pakistan records 10th polio case in 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "10th",
+        "2026",
+        "case",
+        "pakistan",
+        "polio",
+        "records",
+        "samaa"
+      ],
+      "source_excerpt": "Pakistan records 10th polio case in 2026 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVBlUGJ6RVFWcGZfU3J2eDlrM2Q5LWxWVjZPLUxyVkJiWkxyeTdlaGQ4MmFrYWYyWmFUVE9RUEhMTnZBeE1LX2xBTHBrMkJWQ3BiRUhYU0NzRENKSEVxaVZURVJydFlhQURmclIwb0ZEeXdLcGtlOElnVzhxb2g2LUdpMEtmQy1sX3ZxSmpTMA?oc=5",
+          "published_at": "2026-11-25T16:31:05+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmJIWlV3UnU0ZllsVUZsNk1hQlpmc3BqQVRTa21OcjNBVXFrMjVHS0gtYWNxbXdDTkpndlpDdm11Q0gwajdQUE9HSFVxLVhQZGdzcEJDQXBINVdWMkZCNENNR1BRZXIwY2dLVm5XblBsY1JtdVRpTkJUV3hvRHBPQy04eW41QVZKQlc3WkFlOWJNS3p5YjdndEtuaFVsTE9FVTBEdlc0V1U3TVVOWWg0WXk1WDdmaFnSAb8BQVVfeXFMTkpuVUVfUVIxVE5fMjNnYzRnZWxrR2F4Rjl3c0FCMi02OF9Wb0hZUGpfa0h3bGRpeWxGODhJdnBCWFBadU42TmIzTUFwcHdHWjNiN3JYcEwwWjFOMHhyR09lRnRaLWRXeloyY2lSX0dCbm91a3JSREtKRW5wU0tQMUdYVlo1Q3hsYmxuYkY4cGNiM3dBdi1MU0p5VnJ1N1dyWE1ndjZtd3hTZk9VRVdFUTVjNEszbjNiUFowMjVrSjg?oc=5",
+          "published_at": "2026-11-25T18:10:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVBlUGJ6RVFWcGZfU3J2eDlrM2Q5LWxWVjZPLUxyVkJiWkxyeTdlaGQ4MmFrYWYyWmFUVE9RUEhMTnZBeE1LX2xBTHBrMkJWQ3BiRUhYU0NzRENKSEVxaVZURVJydFlhQURmclIwb0ZEeXdLcGtlOElnVzhxb2g2LUdpMEtmQy1sX3ZxSmpTMA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7ee82fe75649093773afc2ce",
+      "remembered_at": "2026-11-25T18:14:40.253273+00:00",
+      "event_date": "2026-11-25T12:29:19+00:00",
+      "last_update": "2026-11-25T12:29:19+00:00",
+      "event": "Fatima Sana-led Pakistan squad announced for West Indies tour",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announced",
+        "dawn",
+        "fatima",
+        "for",
+        "indies",
+        "led",
+        "pakistan",
+        "sana",
+        "squad",
+        "tour",
+        "west"
+      ],
+      "source_excerpt": "Fatima Sana-led Pakistan squad announced for West Indies tour Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaG5KOTVLelVISmlfZ2t4cVdiMy1UcHdsd1l6ZTd6UUMwSWNyaEdwbUYxbGVwM2h1WEwtQlBxa2laMWJSVjl2MUhSUXdXRDd2a3VibWxQUGlPZ19UTXZLZTNrSXlHOXl1TVlUdl9idll0Qlo3OC04V2NGMkgzX29FUHpCOWZxQnBUak55MTNqaGF2N2Y5NmNjS1dLdw?oc=5",
+          "published_at": "2026-11-25T12:29:19+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047003/fatima-sana-led-pakistan-squad-announced-for-west-indies-tour",
+          "published_at": "2026-11-25T12:29:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaG5KOTVLelVISmlfZ2t4cVdiMy1UcHdsd1l6ZTd6UUMwSWNyaEdwbUYxbGVwM2h1WEwtQlBxa2laMWJSVjl2MUhSUXdXRDd2a3VibWxQUGlPZ19UTXZLZTNrSXlHOXl1TVlUdl9idll0Qlo3OC04V2NGMkgzX29FUHpCOWZxQnBUak55MTNqaGF2N2Y5NmNjS1dLdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c505528e53afd94c2fbdd7c2",
+      "remembered_at": "2026-11-25T18:14:40.253273+00:00",
+      "event_date": "2026-11-25T17:15:44+00:00",
+      "last_update": "2026-11-25T17:52:25+00:00",
+      "event": "Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cut",
+        "diesel",
+        "litre",
+        "per",
+        "petrol",
+        "price",
+        "rs314",
+        "rs348",
+        "rs4",
+        "rs5",
+        "samaa"
+      ],
+      "source_excerpt": "Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUVIMUszNWgwX1J4by11Q2kzLVM0REp1LU5XUUUxR3JCZGR3eGxRclFTQ2w0bEZpWTZrY3NnOGFKRmtIZ0ZjV0ktTU4ydm8ySzRESHh0MVU1QzJURXFMZWJvUWduZUVXQlpGZTF6cVRtanczQ2JXMHNMVHEyb3k1b3FhMFpaeVFyQnZLQVAzdmVaU1VmQWdJRW9FRDVXQVlPbTZLb0M0N3Y3NWpMVHVEdA?oc=5",
+          "published_at": "2026-11-25T17:15:44+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdEhCdHdqWERURm5pMDVpVWJRSnJNdTRUenpCaVFKa2NhTWFZLUlGTVVqZEpjWnAwdUQ5cTNBLVhEcVZ3a0R6NmxOUDlLSXBTX09EZDVSb0tjbTNCZnFROFlfNVpTckdBY21VTzk4SVVOeU1vUzNMNUFjRFdQaWJwWDVEZVI5S0J3NDVTNWZIaVNvUlBsbW5hcFBpUWdwWFFmOHc?oc=5",
+          "published_at": "2026-11-25T17:25:41+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047017/petrol-diesel-price-for-nov-26-2026",
+          "published_at": "2026-11-25T17:52:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUVIMUszNWgwX1J4by11Q2kzLVM0REp1LU5XUUUxR3JCZGR3eGxRclFTQ2w0bEZpWTZrY3NnOGFKRmtIZ0ZjV0ktTU4ydm8ySzRESHh0MVU1QzJURXFMZWJvUWduZUVXQlpGZTF6cVRtanczQ2JXMHNMVHEyb3k1b3FhMFpaeVFyQnZLQVAzdmVaU1VmQWdJRW9FRDVXQVlPbTZLb0M0N3Y3NWpMVHVEdA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5db7c01df91fe494ebea3775",
+      "remembered_at": "2026-11-25T18:14:40.253273+00:00",
+      "event_date": "2026-11-25T16:36:57+00:00",
+      "last_update": "2026-11-25T16:36:57+00:00",
+      "event": "Why are school shootings continuing to shake the Balkans?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "and",
+        "are",
+        "balkans",
+        "concerns",
+        "continuing",
+        "failures",
+        "firearm",
+        "has",
+        "online",
+        "over",
+        "prevent",
+        "renewed",
+        "school",
+        "serbia",
+        "shake",
+        "shooting",
+        "shootings",
+        "signs",
+        "the",
+        "violence",
+        "warning",
+        "why"
+      ],
+      "source_excerpt": "A shooting in Serbia has renewed concerns over firearm access, online warning signs and failures to prevent violence.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/kragujevac-school-shooting-what-we-know-so-far?traffic_source=rss",
+          "published_at": "2026-11-25T16:36:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/kragujevac-school-shooting-what-we-know-so-far?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/kragujevac-school-shooting-what-we-know-so-far?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7d700af1f9c7d8e3487da80f",
+      "remembered_at": "2026-11-25T18:14:40.253273+00:00",
+      "event_date": "2026-11-25T16:34:42+00:00",
+      "last_update": "2026-11-25T16:34:42+00:00",
+      "event": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arrest",
+        "arrested",
+        "defender",
+        "did",
+        "farmer",
+        "forces",
+        "ghassan",
+        "human",
+        "israel",
+        "israeli",
+        "najjar",
+        "palestinian",
+        "rights",
+        "was",
+        "why"
+      ],
+      "source_excerpt": "Palestinian farmer and human rights defender Ghassan Najjar was arrested by Israeli forces.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/why-did-israel-arrest-human-rights-defender-ghassan-al-najjar?traffic_source=rss",
+          "published_at": "2026-11-25T16:34:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/why-did-israel-arrest-human-rights-defender-ghassan-al-najjar?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/why-did-israel-arrest-human-rights-defender-ghassan-al-najjar?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cfab76f69262a01073b68f30",
+      "remembered_at": "2026-11-25T18:14:40.253273+00:00",
+      "event_date": "2026-11-25T16:56:47+00:00",
+      "last_update": "2026-11-25T16:56:47+00:00",
+      "event": "Scots react to news of rising energy prices",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affect",
+        "bills",
+        "describe",
+        "energy",
+        "how",
+        "increase",
+        "news",
+        "prices",
+        "react",
+        "rising",
+        "scots",
+        "them",
+        "will"
+      ],
+      "source_excerpt": "Scots describe how an increase in energy bills will affect them.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T16:56:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bbd7fc09a7729c7feab6c6af",
+      "remembered_at": "2026-11-25T18:14:40.253273+00:00",
+      "event_date": "2026-11-25T16:24:30+00:00",
+      "last_update": "2026-11-25T16:24:30+00:00",
+      "event": "Why has Poundland collapsed and what happens next?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "american",
+        "and",
+        "being",
+        "bought",
+        "chain",
+        "collapsed",
+        "firm",
+        "for",
+        "happens",
+        "has",
+        "just",
+        "next",
+        "one",
+        "poundland",
+        "retail",
+        "the",
+        "what",
+        "why",
+        "year"
+      ],
+      "source_excerpt": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T16:24:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d3a770a4dfdb388286a6eb0a",
+      "remembered_at": "2026-11-25T18:14:40.253273+00:00",
+      "event_date": "2026-11-25T17:29:51+00:00",
+      "last_update": "2026-11-25T17:29:51+00:00",
+      "event": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "after",
+        "assault",
+        "authorities",
+        "baghdad",
+        "borders",
+        "can",
+        "comes",
+        "constitutional",
+        "court",
+        "day",
+        "fields",
+        "government",
+        "iraq",
+        "kurdish",
+        "oil",
+        "over",
+        "region",
+        "rights",
+        "rules",
+        "ruling",
+        "take",
+        "the",
+        "top"
+      ],
+      "source_excerpt": "The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+          "published_at": "2026-11-25T17:29:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3173ffa9671b069daef77482",
+      "remembered_at": "2026-11-25T18:14:40.253273+00:00",
+      "event_date": "2026-11-25T17:59:14+00:00",
+      "last_update": "2026-11-25T17:59:14+00:00",
+      "event": "Martin Lewis' tips on staying warm this winter",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bills",
+        "energy",
+        "for",
+        "gas",
+        "households",
+        "iran",
+        "january",
+        "lewis",
+        "martin",
+        "millions",
+        "prices",
+        "soar",
+        "sparked",
+        "staying",
+        "surge",
+        "the",
+        "this",
+        "tips",
+        "war",
+        "warm",
+        "will",
+        "winter"
+      ],
+      "source_excerpt": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T17:59:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T17:21:28.796371+00:00"
+  "updated_at": "2026-11-25T18:14:40.253273+00:00"
 }

@@ -1,10 +1,10 @@
-# News Hub report - Wed 25 Nov, 10:21 PM PKT
+# News Hub report - Wed 25 Nov, 11:14 PM PKT
 
 ## Collection
-- New items this run: 119 | items in rolling pool: 901
-- Unique story clusters: 776 (duplicates merged: 125)
-- Clusters dropped as already published/queued: 16; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 53, Pakistan Today 15, Al Jazeera 8, samaa tv 4, Dawn 3, The News International 3, ARY News 3, The Guardian 3, Ars Technica 3, TechJuice 3, BBC Business 2, ProPakistani 2
+- New items this run: 45 | items in rolling pool: 855
+- Unique story clusters: 739 (duplicates merged: 116)
+- Clusters dropped as already published/queued: 11; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 7, TechCrunch 4, Geo News 3, ARY News 3, The Verge 3, TechJuice 2, Pakistan Today 2, samaa tv 1, Dawn 1, Dawn Latest 1, Jang Urdu 1, Al Jazeera 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -14,44 +14,39 @@
 - China warns US against imposing new tariffs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan, Russia target $5bn trade by 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tarar urges social media companies to establish offices in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - China launches Shenzhou-24: What is the mission aimed at? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
 - China warns US against imposing new tariffs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan, Russia target $5bn trade by 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tarar urges social media companies to establish offices in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - China launches Shenzhou-24: What is the mission aimed at? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
 - China warns US against imposing new tariffs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan, Russia target $5bn trade by 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tarar urges social media companies to establish offices in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - China launches Shenzhou-24: What is the mission aimed at? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PTI and Imran Khan Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: South Asia Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Prices | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 7
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 4
 
 ## Queue status
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
-- [needs_review] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
 - [needs_review] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
 - [needs_review] normal | Karachi placed on high alert amid upcoming political rallies | Sun 22 Nov, 06:28 PM PKT
 - [needs_review] normal | Italian jeweller and businessman Paolo Bulgari dies aged 89 | Sun 22 Nov, 07:07 PM PKT
@@ -62,8 +57,6 @@
 - [needs_review] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
 - [needs_review] normal | Explosion on Russian ship at Libya port caused by suspected drone atta | Sun 22 Nov, 09:46 PM PKT
 - [needs_review] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
-- [published] normal | Mohsin Naqvi slams minister over repeated TV criticism, defends busine | Sun 22 Nov, 11:01 PM PKT
-- [published] normal | Pakistan announces first nationwide diabetes prevention and control pr | Sun 22 Nov, 11:11 PM PKT
 - [needs_review] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
 - [needs_review] normal | Canada’s PM appears next to Trump impersonator at press dinner | Sun 22 Nov, 11:31 PM PKT
 - [published] normal | Khawaja Asif claims referendum on new provinces is coming soon | Sun 22 Nov, 11:54 PM PKT
@@ -212,17 +205,17 @@
 - [published] normal | Pakistan makes history as Zeeshan Ali reaches space aboard China's She | Wed 25 Nov, 04:33 PM PKT
 - [published] normal | Under-construction building collapses near Karachi's Baloch Colony, ca | Wed 25 Nov, 04:43 PM PKT
 - [published] normal | ADB approves $250m loan to boost private investment in Pakistan | Wed 25 Nov, 04:53 PM PKT
-- [queued] normal | FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | Wed 25 Nov, 05:03 PM PKT
-- [queued] normal | PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police | Wed 25 Nov, 05:13 PM PKT
+- [needs_review] normal | FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | Wed 25 Nov, 05:03 PM PKT
+- [needs_review] normal | PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police | Wed 25 Nov, 05:13 PM PKT
 - [published] promo | [YouTube] MAULANA FAZLUR REHMAN: IS THIS THE PRICE OF POWER POLITICS? | Wed 25 Nov, 05:34 PM PKT
-- [queued] normal | Pakistan and China Agree on G2G Fuel Storage and Terminal Deals | Wed 25 Nov, 05:34 PM PKT
+- [published] normal | Pakistan and China Agree on G2G Fuel Storage and Terminal Deals | Wed 25 Nov, 05:34 PM PKT
 - [queued] normal | Veteran Nigerian Nollywood Actor Pete Edochie Dies Aged 79 | Wed 25 Nov, 05:44 PM PKT
 - [queued] normal | Israeli Strike Kills Hamas Official Along With Wife and Children | Wed 25 Nov, 05:54 PM PKT
 - [queued] normal | Two Libyan Soldiers Die From Injuries in Attack on Russian Vessels | Wed 25 Nov, 06:04 PM PKT
 - [queued] normal | Bangladesh Garment Workers Win 36 Percent Minimum Wage Rise | Wed 25 Nov, 06:14 PM PKT
 
 ## Publishing this run
-- Published 'ADB approves $250m loan to boost private investment in Pakistan'.
+- Published 'Pakistan and China Agree on G2G Fuel Storage and Terminal Deals'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
