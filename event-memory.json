@@ -156603,7 +156603,520 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fce7b84e0f60bc6940a6a8e4",
+      "remembered_at": "2026-11-25T17:21:28.796371+00:00",
+      "event_date": "2026-11-25T13:55:00+00:00",
+      "last_update": "2026-11-25T16:22:04+00:00",
+      "event": "US Army is detonating five tonnes of explosives in Iowa: Why are residents fleeing?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "americans",
+        "and",
+        "are",
+        "army",
+        "belongings",
+        "celebrate",
+        "detonate",
+        "detonating",
+        "explosives",
+        "families",
+        "fears",
+        "five",
+        "fleeing",
+        "homes",
+        "iowa",
+        "leaving",
+        "millions",
+        "nearly",
+        "over",
+        "packing",
+        "preparing",
+        "residents",
+        "some",
+        "southeastern",
+        "thanksgiving",
+        "their",
+        "tonnes",
+        "toxic",
+        "while",
+        "why",
+        "with"
+      ],
+      "source_excerpt": "US Army to detonate nearly five tonnes of explosives in Iowa: Why are residents fleeing? While millions of Americans are preparing to celebrate Thanksgiving with their families, some residents in southeastern Iowa are packing their belongings and leaving their homes over fears of toxic...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692616-us-army-to-detonate-nearly-five-tonnes-of-explosives-in-iowa-why-are-residents-fleeing",
+          "published_at": "2026-11-25T13:55:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
+          "published_at": "2026-11-25T15:14:08+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss",
+          "published_at": "2026-11-25T16:22:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692616-us-army-to-detonate-nearly-five-tonnes-of-explosives-in-iowa-why-are-residents-fleeing",
+        "publisher_url": "https://www.geo.tv/latest/692616-us-army-to-detonate-nearly-five-tonnes-of-explosives-in-iowa-why-are-residents-fleeing",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "066ac323c6608561ab3602de",
+      "remembered_at": "2026-11-25T17:21:28.796371+00:00",
+      "event_date": "2026-11-25T11:01:48+00:00",
+      "last_update": "2026-11-25T16:26:36+00:00",
+      "event": "£190m corruption case: Imran, Bushra's counsel says transaction caused no loss to exchequer",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "190",
+        "190m",
+        "and",
+        "argued",
+        "beneficial",
+        "bibi",
+        "bushra",
+        "but",
+        "case",
+        "caused",
+        "corruption",
+        "counsel",
+        "couple",
+        "exchequer",
+        "financially",
+        "for",
+        "former",
+        "founder",
+        "had",
+        "his",
+        "imran",
+        "instead",
+        "islamabad",
+        "khan",
+        "loss",
+        "million",
+        "minister",
+        "national",
+        "prime",
+        "prison",
+        "proved",
+        "pti",
+        "says",
+        "sentences",
+        "serving",
+        "that",
+        "the",
+        "transaction",
+        "wife"
+      ],
+      "source_excerpt": "ISLAMABAD: In the £190 million corruption case , counsel for PTI founder and former prime minister Imran Khan and his wife, Bushra Bibi, argued that the transaction had caused no loss to the national exchequer but had instead proved financially beneficial. The couple is serving prison sentences in t",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046995/ps190m-corruption-case-imran-bushras-counsel-says-transaction-caused-no-loss-to-exchequer",
+          "published_at": "2026-11-25T11:01:48+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMDc1VlZ4cGhPaEl0NkdsWmZNR3YtbDNkbUNxT1h6UEJmQXgya0JUV2J2UEc2VllIMVh6YURkWmpxVVFKVG5GZlpVYVJvRnFtOWFSem1mQXlreTkyOFBGTkZPd3NNeW1OUzlsLVduTGpkV1k4SjFYcHFIVndJY2F6OVp5M3JoWkxnQU16cDBoY2dHT0dNTGRLZFBmM1BacDd0bEhyYkR2aEY?oc=5",
+          "published_at": "2026-11-25T16:26:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046995/ps190m-corruption-case-imran-bushras-counsel-says-transaction-caused-no-loss-to-exchequer",
+        "publisher_url": "https://www.dawn.com/news/2046995/ps190m-corruption-case-imran-bushras-counsel-says-transaction-caused-no-loss-to-exchequer",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6b6e01bd48bb63efd3792be3",
+      "remembered_at": "2026-11-25T17:21:28.796371+00:00",
+      "event_date": "2026-11-25T15:00:00+00:00",
+      "last_update": "2026-11-25T16:59:29+00:00",
+      "event": "Pakistan warns nuclear weapons must remain under 'human control', demands global AI guardrails to curb arms race",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arms",
+        "control",
+        "curb",
+        "demands",
+        "express",
+        "global",
+        "guardrails",
+        "human",
+        "must",
+        "nuclear",
+        "pakistan",
+        "race",
+        "remain",
+        "the",
+        "tribune",
+        "under",
+        "warns",
+        "weapons"
+      ],
+      "source_excerpt": "Pakistan warns nuclear weapons must remain under 'human control', demands global AI guardrails to curb arms race The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlBPZ0p6ZVJ2M09nbHhWdE9vQ01uajBTVmZqVlJDcEhXM3N4czFMclZSWmtCZFAwSnZMOFMxT3E3Mk1CdFh4azk1TFltdTl5dWVNbmdNanNkb1AxTEI3V0N1Z3g2Y0lnN1p0Wmk4Zk1UYVRqczJ0QjR6TjU3eGRtcmc2VkVyVEtDZ2VxT3MyUF83dE9BMm5pdXFRZF9ibTZr?oc=5",
+          "published_at": "2026-11-25T15:00:00+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYW5sdUFuenVJOFhoUDhLSHFQWTNINXJmYmo2aGhqWUJSa2xzREtZOURBZjh1cmYtVVkwNzUzR0N0VEpNRDl2bml6RVROQmxvSkxFb1JtZ1B0Zzd0MEllVHVTTmF0bWZZS25NeTFfaDNqS3dJS0ppNHROdUZDY21EUTJOdXYzNjlzbVFMdVNqaVBpa01kQ2VHY1o4TWNhX0lXNkxlR3ZwU3VJNXhadWhEMWlsTUFIZw?oc=5",
+          "published_at": "2026-11-25T16:59:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlBPZ0p6ZVJ2M09nbHhWdE9vQ01uajBTVmZqVlJDcEhXM3N4czFMclZSWmtCZFAwSnZMOFMxT3E3Mk1CdFh4azk1TFltdTl5dWVNbmdNanNkb1AxTEI3V0N1Z3g2Y0lnN1p0Wmk4Zk1UYVRqczJ0QjR6TjU3eGRtcmc2VkVyVEtDZ2VxT3MyUF83dE9BMm5pdXFRZF9ibTZr?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7ae871eff17b613720bb133a",
+      "remembered_at": "2026-11-25T17:21:28.796371+00:00",
+      "event_date": "2026-11-25T16:06:25+00:00",
+      "last_update": "2026-11-25T16:06:25+00:00",
+      "event": "Energy price increase 'could put me in hospital'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "bills",
+        "could",
+        "energy",
+        "expected",
+        "hospital",
+        "increase",
+        "news",
+        "people",
+        "price",
+        "put",
+        "share",
+        "teesside",
+        "the",
+        "their",
+        "views"
+      ],
+      "source_excerpt": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T16:06:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "58b58eac1871ef1ba20db0ed",
+      "remembered_at": "2026-11-25T17:21:28.796371+00:00",
+      "event_date": "2026-11-25T17:05:35+00:00",
+      "last_update": "2026-11-25T17:05:35+00:00",
+      "event": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bars",
+        "behind",
+        "birthday",
+        "caracas",
+        "celebrations",
+        "detained",
+        "former",
+        "leads",
+        "led",
+        "maduro",
+        "nicolas",
+        "president",
+        "son",
+        "the",
+        "turned",
+        "turns",
+        "venezuelan"
+      ],
+      "source_excerpt": "Nicolas Maduro’s son led birthday celebrations in Caracas as the detained former Venezuelan president turned 64",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+          "published_at": "2026-11-25T17:05:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fcffbf0f53f8d32ab5478391",
+      "remembered_at": "2026-11-25T17:21:28.796371+00:00",
+      "event_date": "2026-11-25T17:01:26+00:00",
+      "last_update": "2026-11-25T17:01:26+00:00",
+      "event": "Sporting Lisbon vs Manchester United LIVE: UEFA Champions League",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "and",
+        "bruno",
+        "build",
+        "champions",
+        "commentary",
+        "coverage",
+        "fernandes",
+        "follow",
+        "from",
+        "headlines",
+        "league",
+        "lisbon",
+        "live",
+        "manchester",
+        "news",
+        "our",
+        "sporting",
+        "stream",
+        "team",
+        "text",
+        "the",
+        "uefa",
+        "united"
+      ],
+      "source_excerpt": "Follow all the build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
+          "published_at": "2026-11-25T17:01:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d3a7ecc1f0dfcd1d0c84f249",
+      "remembered_at": "2026-11-25T17:21:28.796371+00:00",
+      "event_date": "2026-11-25T17:00:00+00:00",
+      "last_update": "2026-11-25T17:00:00+00:00",
+      "event": "Djibouti: The Man Who Dared",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "colonial",
+        "dared",
+        "defied",
+        "djibouti",
+        "fight",
+        "for",
+        "harbi",
+        "hero",
+        "independence",
+        "mahmoud",
+        "man",
+        "nationalist",
+        "rule",
+        "the",
+        "today",
+        "turned",
+        "war",
+        "who"
+      ],
+      "source_excerpt": "War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today’s Djibouti.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss",
+          "published_at": "2026-11-25T17:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a81a242be45803b662c64da3",
+      "remembered_at": "2026-11-25T17:21:28.796371+00:00",
+      "event_date": "2026-11-25T16:58:49+00:00",
+      "last_update": "2026-11-25T16:58:49+00:00",
+      "event": "Switzerland forced to close office in North Korea over sanctions feud",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adding",
+        "after",
+        "came",
+        "camp",
+        "children",
+        "close",
+        "closure",
+        "condemned",
+        "feud",
+        "for",
+        "forced",
+        "its",
+        "korea",
+        "list",
+        "north",
+        "office",
+        "over",
+        "sanctions",
+        "switzerland",
+        "the"
+      ],
+      "source_excerpt": "The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
+          "published_at": "2026-11-25T16:58:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "03388463fd0037053c9efa69",
+      "remembered_at": "2026-11-25T17:21:28.796371+00:00",
+      "event_date": "2026-11-25T16:44:22+00:00",
+      "last_update": "2026-11-25T16:44:22+00:00",
+      "event": "Colombian forces rescue all hostages after supermarket siege",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "all",
+        "been",
+        "cartagena",
+        "colombian",
+        "forces",
+        "have",
+        "hostages",
+        "hour",
+        "rescue",
+        "rescued",
+        "siege",
+        "supermarket"
+      ],
+      "source_excerpt": "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
+          "published_at": "2026-11-25T16:44:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T16:17:15.874192+00:00"
+  "updated_at": "2026-11-25T17:21:28.796371+00:00"
 }

@@ -1,59 +1,55 @@
-# News Hub report - Wed 25 Nov, 09:17 PM PKT
+# News Hub report - Wed 25 Nov, 10:21 PM PKT
 
 ## Collection
-- New items this run: 131 | items in rolling pool: 923
-- Unique story clusters: 791 (duplicates merged: 132)
-- Clusters dropped as already published/queued: 19; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 63, Geo News 10, ARY News 6, Al Jazeera 6, AP News 5, TechJuice 5, Dawn Latest 3, The Express Tribune 3, samaa tv 3, Aaj English TV 3, BBC Business 3, Pakistan Today 3
+- New items this run: 119 | items in rolling pool: 901
+- Unique story clusters: 776 (duplicates merged: 125)
+- Clusters dropped as already published/queued: 16; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 53, Pakistan Today 15, Al Jazeera 8, samaa tv 4, Dawn 3, The News International 3, ARY News 3, The Guardian 3, Ars Technica 3, TechJuice 3, BBC Business 2, ProPakistani 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi Building Collapse | Emergency Rescue Operation Underway | Breaking News | Dunya News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - China warns US against imposing new tariffs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kremlin brushes off reports of 700,000 Russian war deaths | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Russia target $5bn trade by 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China launches Shenzhou-24: What is the mission aimed at? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi Building Collapse | Emergency Rescue Operation Underway | Breaking News | Dunya News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - China warns US against imposing new tariffs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kremlin brushes off reports of 700,000 Russian war deaths | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Russia target $5bn trade by 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China launches Shenzhou-24: What is the mission aimed at? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi Building Collapse | Emergency Rescue Operation Underway | Breaking News | Dunya News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - China warns US against imposing new tariffs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kremlin brushes off reports of 700,000 Russian war deaths | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Russia target $5bn trade by 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- China launches Shenzhou-24: What is the mission aimed at? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 2 | failed: 2 | malformed/partial: 2
+- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PTI and Imran Khan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: South Asia Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Prices | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 8
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 7
 
 ## Queue status
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
-- [needs_review] normal | Veteran journalist Hussain Naqi passes away in Lahore | Sun 22 Nov, 02:50 PM PKT
-- [needs_review] normal | Three TTP-linked terrorists killed in CTD operation near Peshawar | Sun 22 Nov, 03:00 PM PKT
-- [needs_review] normal | Saudi-led coalition intercepts Houthi ballistic missile targeting west | Sun 22 Nov, 03:24 PM PKT
-- [needs_review] normal | Veteran journalist and human rights activist Hussain Naqi passes away  | Sun 22 Nov, 03:44 PM PKT
-- [needs_review] normal | PTI demands jail manual facilities for party founder Imran Khan | Sun 22 Nov, 03:54 PM PKT
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | South Korea Education Minister Resigns Over National Exam Cheating Sca | Sun 22 Nov, 04:14 PM PKT
 - [needs_review] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
 - [needs_review] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
 - [needs_review] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
@@ -64,8 +60,6 @@
 - [needs_review] normal | Iran Has Achieved Military Deterrence Against Enemy: Ghalibaf | Sun 22 Nov, 07:59 PM PKT
 - [needs_review] normal | Pakistan to Host IAEA Nuclear Security Meeting in Islamabad | Sun 22 Nov, 08:09 PM PKT
 - [needs_review] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
-- [published] normal | COP31 climate talks collapse as EU and others reject final deal | Sun 22 Nov, 09:26 PM PKT
-- [published] normal | Oman to supply petroleum products with $200m credit facility to PSO | Sun 22 Nov, 09:36 PM PKT
 - [needs_review] normal | Explosion on Russian ship at Libya port caused by suspected drone atta | Sun 22 Nov, 09:46 PM PKT
 - [needs_review] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
 - [published] normal | Mohsin Naqvi slams minister over repeated TV criticism, defends busine | Sun 22 Nov, 11:01 PM PKT
@@ -217,7 +211,7 @@
 - [published] normal | Could Netanyahu trigger a wider war with Iran to cling to power? | Wed 25 Nov, 04:23 PM PKT
 - [published] normal | Pakistan makes history as Zeeshan Ali reaches space aboard China's She | Wed 25 Nov, 04:33 PM PKT
 - [published] normal | Under-construction building collapses near Karachi's Baloch Colony, ca | Wed 25 Nov, 04:43 PM PKT
-- [queued] normal | ADB approves $250m loan to boost private investment in Pakistan | Wed 25 Nov, 04:53 PM PKT
+- [published] normal | ADB approves $250m loan to boost private investment in Pakistan | Wed 25 Nov, 04:53 PM PKT
 - [queued] normal | FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | Wed 25 Nov, 05:03 PM PKT
 - [queued] normal | PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police | Wed 25 Nov, 05:13 PM PKT
 - [published] promo | [YouTube] MAULANA FAZLUR REHMAN: IS THIS THE PRICE OF POWER POLITICS? | Wed 25 Nov, 05:34 PM PKT
@@ -228,7 +222,7 @@
 - [queued] normal | Bangladesh Garment Workers Win 36 Percent Minimum Wage Rise | Wed 25 Nov, 06:14 PM PKT
 
 ## Publishing this run
-- Published 'Under-construction building collapses near Karachi's Baloch Colony, casualties feared'.
+- Published 'ADB approves $250m loan to boost private investment in Pakistan'.
 
 ## Gemini usage
 - Calls: 4 | prompt tokens: 0 | output tokens: 0
