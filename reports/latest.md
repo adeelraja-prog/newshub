@@ -1,203 +1,53 @@
-# News Hub report - Wed 25 Nov, 10:11 AM PKT
+# News Hub report - Wed 25 Nov, 11:19 AM PKT
 
 ## Collection
-- New items this run: 56 | items in rolling pool: 282
-- Unique story clusters: 248 (duplicates merged: 34)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 4
-- Items per outlet: Dawn Pakistan 10, AP News 9, Geo News 5, Dawn Latest 4, ARY News 4, The News International 3, Al Jazeera 3, samaa tv 2, Dawn 2, PhoneWorld 2, ARYnews.tv 1, Jang Urdu 1
+- New items this run: 82 | items in rolling pool: 333
+- Unique story clusters: 285 (duplicates merged: 48)
+- Clusters dropped as already published/queued: 36; unchanged since last analysis: 3
+- Items per outlet: Dawn Pakistan 8, TechJuice 8, ARY News 6, Wired 6, AP News 5, ProPakistani 5, Investify 5, samaa tv 3, The News International 3, Geo News 3, BBC 3, Al Jazeera 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Jam Kamal vows to help traders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- $150m Punjab education project downgraded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Early completion of projects ordered | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three held; illegal heavy weapons seized in Gilgit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Business confidence plunges: OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Japan-Pakistan Startup Expansion Programme launched | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Missing PTI MNA returns home after two months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thieves steal 49,000 litres of fuel from PSO pipeline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Jam Kamal vows to help traders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- $150m Punjab education project downgraded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Early completion of projects ordered | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three held; illegal heavy weapons seized in Gilgit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Business confidence plunges: OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Japan-Pakistan Startup Expansion Programme launched | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Missing PTI MNA returns home after two months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thieves steal 49,000 litres of fuel from PSO pipeline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Jam Kamal vows to help traders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- $150m Punjab education project downgraded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Early completion of projects ordered | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Three held; illegal heavy weapons seized in Gilgit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Business confidence plunges: OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Japan-Pakistan Startup Expansion Programme launched | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Missing PTI MNA returns home after two months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thieves steal 49,000 litres of fuel from PSO pipeline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Aaj News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Al Jazeera India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Bilawal says new provinces only through parliamentary process  [NORMAL]
-- Poster: نئے صوبے صرف پارلیمانی عمل کے ذریعے بن سکتے ہیں: بلاول / New provinces only through parliament: Bilawal | category politics
-- Alternative headline: New provinces possible solely via parliament, asserts Bilawal
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUZWS0kyUHB4TGFNU2JLVWlXZW9pREdYNVhpZzl2NUtlam1EWEhiNjU0dmdvQzBYUDRoWEFZVm9vVEZkajZzanZSbTMtLW5ZNEFyWklXTlRNNC1BODFOWDRVUlBhOFROQkFuVjBTNXBoMkFtUVV5N2V0cG1xeDlOaG81MnpFYUFKX1VJLTZ4S1BMd0QtRkRV?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUZWS0kyUHB4TGFNU2JLVWlXZW9pREdYNVhpZzl2NUtlam1EWEhiNjU0dmdvQzBYUDRoWEFZVm9vVEZkajZzanZSbTMtLW5ZNEFyWklXTlRNNC1BODFOWDRVUlBhOFROQkFuVjBTNXBoMkFtUVV5N2V0cG1xeDlOaG81MnpFYUFKX1VJLTZ4S1BMd0QtRkRV?oc=5
-- Supporting coverage: Dawn, Dawn, Dawn Pakistan
-- Keywords: new provinces, Bilawal Bhutto, parliamentary process, PPP, provinces debate | hashtags: #BilawalBhutto #PPP #PakistanPolitics #NationalAssembly
-- Scheduled: Wed 25 Nov, 10:11 AM PKT
-- Caption:
-```
-PPP Chairman Bilawal Bhutto-Zardari has stated that the creation of any new provinces must take place strictly through the constitutional parliamentary process.
-
-PPP Chairman Bilawal Bhutto-Zardari has clarified that the establishment of new provinces in the country can only be achieved through the proper parliamentary process. His remarks come amid ongoing political debates surrounding administrative units.
-
-پی پی پی کے چیئرمین بلاول بھutto زرداری نے واضح کیا ہے کہ ملک میں نئے صوبوں کا قیام صرف پارلیمانی عمل کے ذریعے ہی ممکن ہے۔ ان کا یہ بیان انتظامی اکائیوں سے متعلق جاری سیاسی بحث کے دوران سامنے آیا ہے۔
-
-First reported by Dawn.
-
-#BilawalBhutto #PPP #PakistanPolitics #NationalAssembly
-```
-
-### Commerce Minister Jam Kamal vows to help Balochistan traders  [NORMAL]
-- Poster: وفاقی وزیر جام کمال کا تاجروں کو ہر ممکن تعاون کی یقین دہانی / Jam Kamal vows full support to traders | category economy
-- Alternative headline: Jam Kamal pledges full support for traders community
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMickFVX3lxTE5pLUpMU1BhVGQ0RFJRYjkxY1VDS3FsMGxYSEYwU2NmRU9TbjJkTVhHbHlDTzFGcC1TR3A0ck9IZUtCaW9XQ0JFeFNFbmluN0VLUTJsckppNExlRDh4MWZzOUpha0Eyd2VUQVRvUkh2VnRpdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMickFVX3lxTE5pLUpMU1BhVGQ0RFJRYjkxY1VDS3FsMGxYSEYwU2NmRU9TbjJkTVhHbHlDTzFGcC1TR3A0ck9IZUtCaW9XQ0JFeFNFbmluN0VLUTJsckppNExlRDh4MWZzOUpha0Eyd2VUQVRvUkh2VnRpdw?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Jam Kamal, Balochistan traders, commerce minister, business community | hashtags: #JamKamal #Balochistan #Traders #PakistanEconomy
-- Scheduled: Wed 25 Nov, 10:21 AM PKT
-- Caption:
-```
-Federal Minister for Commerce Jam Kamal has assured traders in Balochistan of his complete support in resolving their business challenges.
-
-Federal Minister for Commerce Jam Kamal has made a strong commitment to assist the trading community in Balochistan, promising government cooperation to address their key issues and facilitate business activities in the region.
-
-وفاقی وزیر برائے تجارت جام کمال نے بلوچستان کے تاجروں کی مشکلات حل کرنے اور انہیں ہر ممکن تعاون فراہم کرنے کا عزم ظاہر کیا ہے۔
-
-First reported by Dawn.
-
-#JamKamal #Balochistan #Traders #PakistanEconomy
-```
-
-### World Bank downgrades $150m Punjab education project  [NORMAL]
-- Poster: ورلڈ بینک نے پنجاب کے 150 ملین ڈالر کے تعلیمی منصوبے کا درجہ گھٹا دیا / World Bank downgrades $150m Punjab education project | category economy
-- Alternative headline: $150m Punjab education project downgraded by World Bank
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTE5tTkhjSlV5Z2lGQUVZOXc4OTdQeDl4RlZNdzVqTy0tNzdTa0FocWJuYm14eldyV0ZZUVdTcUg1RnRaYUNTRlotTXZDRHBQSGFpVThzNzAySy1jdmpjSzZCbndxQ2hvc0FoWlk5ZV9HWm1QRGc0ZnJRMDFHbnVQa0k?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTE5tTkhjSlV5Z2lGQUVZOXc4OTdQeDl4RlZNdzVqTy0tNzdTa0FocWJuYm14eldyV0ZZUVdTcUg1RnRaYUNTRlotTXZDRHBQSGFpVThzNzAySy1jdmpjSzZCbndxQ2hvc0FoWlk5ZV9HWm1QRGc0ZnJRMDFHbnVQa0k?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Punjab education project, World Bank, $150m project, education sector, Punjab | hashtags: #WorldBank #PunjabEducation #Economy #Pakistan
-- Scheduled: Wed 25 Nov, 10:31 AM PKT
-- Caption:
-```
-The World Bank has reportedly downgraded a significant $150 million education sector project in Punjab.
-
-The World Bank has downgraded a $150 million education project in Punjab, raising concerns over implementation and progress. The decision impacts ongoing educational reforms and funding execution in the province.
-
-ورلڈ بینک نے پنجاب میں 150 ملین ڈالر کے تعلیمی منصوبے کا درجہ گھٹا دیا ہے، جس سے صوبے میں تعلیمی اصلاحات پر عمل درآمد کے حوالے سے خدشات پیدا ہو گئے ہیں۔
-
-First reported by Dawn.
-
-#WorldBank #PunjabEducation #Economy #Pakistan
-```
-
-### Communications minister orders early completion of projects in KP  [NORMAL]
-- Poster: وفاقی وزیر مواصلات کی خیبر پختونخوا میں منصوبے جلد مکمل کرنے کی ہدایت / Early completion of KP projects ordered | category other
-- Alternative headline: KP development projects to be completed early, orders minister
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTFBOZThqLUF4QkxfLTRNTGE0bEdfaXpDRTRtZkhfZ1NER0tJNmtwUXpqaS1wdWhUMFBMVkVDREFXY2RnQkpxMmxQLWs1M1VEYmZHc21tc2FHMWthTkxRQnlkUFdlUlRBMUxsWU02YnliWGRENkRwV2JGb2pB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTFBOZThqLUF4QkxfLTRNTGE0bEdfaXpDRTRtZkhfZ1NER0tJNmtwUXpqaS1wdWhUMFBMVkVDREFXY2RnQkpxMmxQLWs1M1VEYmZHc21tc2FHMWthTkxRQnlkUFdlUlRBMUxsWU02YnliWGRENkRwV2JGb2pB?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: KP projects, communications minister, early completion, Khyber Pakhtunkhwa, development | hashtags: #KhyberPakhtunkhwa #DevelopmentProjects #Pakistan
-- Scheduled: Wed 25 Nov, 10:41 AM PKT
-- Caption:
-```
-The communications minister has directed authorities to ensure the swift and early completion of development projects across Khyber Pakhtunkhwa.
-
-The communications minister has issued strict directives for the early completion of ongoing development projects in Khyber Pakhtunkhwa, emphasizing timely execution and adherence to quality standards.
-
-وزیر مواصلات نے خیبر پختونخوا میں جاری ترقیاتی منصوبوں کی جلد از جلد تکمیل کی سخت ہدایت جاری کی ہے تاکہ عوام کو بروقت سہولیات مل سکیں۔
-
-First reported by Dawn.
-
-#KhyberPakhtunkhwa #DevelopmentProjects #Pakistan
-```
-
-### Three held, illegal heavy weapons seized in Gilgit  [NORMAL]
-- Poster: گلگت میں کارروائی، تین ملزمان گرفتار اور بھاری غیر قانونی اسلحہ برآمد / Three arrested, heavy weapons seized in Gilgit | category crime
-- Alternative headline: Illegal heavy weapons seized in Gilgit; three suspects arrested
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZThrYm5HYTUwcFh3ZElZUnVHY2xPa2pCQU5HS0o1d2JTVEd5Y1F4N1lVVGlFb1h1SXEzUWZsczhiN0ZpVVhmQXV1dXNwdmhKNmFDYkRJZ1dBWEtZOVdzZHBXWGJZR0NGdjg1ZjFJeXplSi00TXI2UmlZRURxaU4xMlI0cnVMdHJZaDlN?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZThrYm5HYTUwcFh3ZElZUnVHY2xPa2pCQU5HS0o1d2JTVEd5Y1F4N1lVVGlFb1h1SXEzUWZsczhiN0ZpVVhmQXV1dXNwdmhKNmFDYkRJZ1dBWEtZOVdzZHBXWGJZR0NGdjg1ZjFJeXplSi00TXI2UmlZRURxaU4xMlI0cnVMdHJZaDlN?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: weapons seized, Gilgit, arrests, illegal weapons, security operation | hashtags: #Gilgit #SecurityOperation #LawAndOrder #Pakistan
-- Scheduled: Wed 25 Nov, 10:51 AM PKT
-- Caption:
-```
-Security forces have arrested three suspects and recovered a cache of illegal heavy weapons during an operation in Gilgit.
-
-Police and security personnel arrested three individuals during a targeted operation in Gilgit, seizing a substantial cache of illegal heavy weapons. An investigation into the suspects' network is currently underway.
-
-گلگت میں سکیورٹی فورسز نے کارروائی کرتے ہوئے تین افراد کو گرفتار کر لیا اور ان کے قبضے سے بھاری غیر قانونی اسلحہ برآمد کر لیا ہے۔
-
-First reported by Dawn.
-
-#Gilgit #SecurityOperation #LawAndOrder #Pakistan
-```
-
-### Business confidence plunges: OICCI  [NORMAL]
-- Poster: کاروباری اعتماد میں بڑی گراوٹ: او آئی سی سی آئی / Business confidence plunges: OICCI | category economy
-- Alternative headline: OICCI reports sharp decline in business confidence across Pakistan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE1QWEVkMktubURyZTVwVERjWHR0emFsTjM5dlpmTm9hVExkb1hrMmRIRm1Fel9OSFFIX0gzY29rQ1B0eEowcWIwYTVZTEFVd2ExcnVrVVJfNzVjWncxR2NpTlJGT3JSMWNNdEwxSFBqUnF0RzFwMVE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE1QWEVkMktubURyZTVwVERjWHR0emFsTjM5dlpmTm9hVExkb1hrMmRIRm1Fel9OSFFIX0gzY29rQ1B0eEowcWIwYTVZTEFVd2ExcnVrVVJfNzVjWncxR2NpTlJGT3JSMWNNdEwxSFBqUnF0RzFwMVE?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: business confidence, OICCI, investors, economy, decline | hashtags: #OICCI #BusinessConfidence #PakistanEconomy #Investment
-- Scheduled: Wed 25 Nov, 11:01 AM PKT
-- Caption:
-```
-The Overseas Investors Chamber of Commerce and Industry (OICCI) has reported a significant drop in business confidence in Pakistan.
-
-According to the Overseas Investors Chamber of Commerce and Industry (OICCI), business confidence in Pakistan has suffered a sharp decline, reflecting ongoing economic challenges and concerns among investors regarding market conditions.
-
-اوورسیز انویسٹرز چیمبر آف کامرس اینڈ انڈسٹری (او آئی سی سی آئی) کے مطابق پاکستان میں کاروباری اعتماد میں نمایاں کمی واقع ہوئی ہے جو کہ معاشی چیلنجز کی عکاسی کرتی ہے۔
-
-First reported by Dawn.
-
-#OICCI #BusinessConfidence #PakistanEconomy #Investment
-```
-
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
-- [needs_review] normal | AOC challenged by activist over Democratic leadership's AIPAC ties | Sun 22 Nov, 03:36 AM PKT
-- [needs_review] normal | Bahrain reports industrial facility fire following Iranian attack | Sun 22 Nov, 03:46 AM PKT
-- [needs_review] normal | George Washington's Framed Lock of Hair Sells for $4,000 at Auction | Sun 22 Nov, 04:13 AM PKT
 - [needs_review] normal | Can Virtual Relationships in Video Games Count as Cheating? | Sun 22 Nov, 04:33 AM PKT
 - [needs_review] normal | Will COP31 Climate Summit Conclude with a New Global Agreement? | Sun 22 Nov, 04:43 AM PKT
 - [needs_review] normal | Iran faces a silent economic war, warns Iranian president | Sun 22 Nov, 04:56 AM PKT
@@ -367,7 +217,7 @@ First reported by Dawn.
 - [published] normal | Arsenal and Borussia Dortmund draw 1-1 in Champions League | Wed 25 Nov, 05:51 AM PKT
 - [published] normal | Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show | Wed 25 Nov, 06:01 AM PKT
 - [published] normal | Pakistan strongly condemns Houthi attack on Riyadh tower | Wed 25 Nov, 06:11 AM PKT
-- [queued] normal | Israel’s Eisenkot secures first coalition partner in bid to form gover | Wed 25 Nov, 06:58 AM PKT
+- [published] normal | Israel’s Eisenkot secures first coalition partner in bid to form gover | Wed 25 Nov, 06:58 AM PKT
 - [queued] normal | Inflation projected at 9.8% as food prices bite | Wed 25 Nov, 07:08 AM PKT
 - [queued] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
 - [queued] normal | South Africa convicts Zimbabwean trying to fight for Russia | Wed 25 Nov, 07:28 AM PKT
@@ -393,12 +243,24 @@ First reported by Dawn.
 - [queued] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan strongly condemns Houthi attack on Riyadh tower'.
+- Published 'Israel’s Eisenkot secures first coalition partner in bid to form government'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 4853 | output tokens: 3090
-- Errors: 1
+- Calls: 3 | prompt tokens: 0 | output tokens: 0
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"

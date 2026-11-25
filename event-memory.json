@@ -150137,7 +150137,855 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f7155bafed15bdccdec2c515",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T02:07:23+00:00",
+      "last_update": "2026-11-25T05:34:24+00:00",
+      "event": "Thieves steal 49,000 litres of fuel from PSO pipeline",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "dawn",
+        "from",
+        "fuel",
+        "litres",
+        "pipeline",
+        "pso",
+        "steal",
+        "thieves"
+      ],
+      "source_excerpt": "Thieves steal 49,000 litres of fuel from PSO pipeline Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFdjVmhBbUU5Wkd6UFRrSlRKQlpRVE9Yb09ndkhsa25NV01OaWh0aXhlUDJNWWduSklGSVdmSVU2WC1RZllSS1lKWDN1dklYWVJGRGtCemliMFRKRWRuRkFCU3FINkVvODZqNDMzbjk2Sk9fdm5iRDI1SFhBUWE1VGk5SmhwZFh2WWhLVmtRdw?oc=5",
+          "published_at": "2026-11-25T02:07:23+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046826/thieves-steal-49000-litres-of-fuel-from-pso-pipeline-in-islamabad",
+          "published_at": "2026-11-25T05:34:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFdjVmhBbUU5Wkd6UFRrSlRKQlpRVE9Yb09ndkhsa25NV01OaWh0aXhlUDJNWWduSklGSVdmSVU2WC1RZllSS1lKWDN1dklYWVJGRGtCemliMFRKRWRuRkFCU3FINkVvODZqNDMzbjk2Sk9fdm5iRDI1SFhBUWE1VGk5SmhwZFh2WWhLVmtRdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e81d17377ca9d158e00eaa3d",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T02:07:23+00:00",
+      "last_update": "2026-11-25T05:48:46+00:00",
+      "event": "Man gets death sentence for killing wife, two children",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "children",
+        "dawn",
+        "death",
+        "for",
+        "gets",
+        "killing",
+        "man",
+        "sentence",
+        "two",
+        "wife"
+      ],
+      "source_excerpt": "Man gets death sentence for killing wife, two children Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2VNN2JLdVJEajh5QkxudFRuaFdfcjRHT1JlM0RWOW1BcmxOcVNTWTZENmpfOU01WVFMSDlXQmVkOC1zTzdneUhFVGluS0RPNjdyRUJ1Skpqb1FGd0paLUUzMURiRy01RlNkalBQOXlFVEFiR2FpeDJKdXg2bjBPdEVnU0hTTW50OFZXeF9TRjI?oc=5",
+          "published_at": "2026-11-25T02:07:23+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046821/jhelum-man-gets-death-sentence-for-killing-wife-two-children",
+          "published_at": "2026-11-25T05:48:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2VNN2JLdVJEajh5QkxudFRuaFdfcjRHT1JlM0RWOW1BcmxOcVNTWTZENmpfOU01WVFMSDlXQmVkOC1zTzdneUhFVGluS0RPNjdyRUJ1Skpqb1FGd0paLUUzMURiRy01RlNkalBQOXlFVEFiR2FpeDJKdXg2bjBPdEVnU0hTTW50OFZXeF9TRjI?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "93f6084467eafa3fa7e3224e",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T02:07:03+00:00",
+      "last_update": "2026-11-25T05:36:20+00:00",
+      "event": "Man held for assaulting boy in Swabi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assaulting",
+        "boy",
+        "dawn",
+        "for",
+        "held",
+        "man",
+        "swabi"
+      ],
+      "source_excerpt": "Man held for assaulting boy in Swabi Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JYTVLVGJoUFNpa19SWkMzemhzeFlhcXhPUGg0bVhQUERHQXdycVlfc1JhY2lmTjRWemI0VFFlNWVpcFZ6dzczeXNpVkVRUzBRa1BxWjU4bkZiaDQtdzZLMjRCLWwxU1ZhaVZYX0ZyaDV0SzNCT0QtZnp3?oc=5",
+          "published_at": "2026-11-25T02:07:03+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046969/man-held-for-allegedly-assaulting-boy-in-swabi",
+          "published_at": "2026-11-25T05:36:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JYTVLVGJoUFNpa19SWkMzemhzeFlhcXhPUGg0bVhQUERHQXdycVlfc1JhY2lmTjRWemI0VFFlNWVpcFZ6dzczeXNpVkVRUzBRa1BxWjU4bkZiaDQtdzZLMjRCLWwxU1ZhaVZYX0ZyaDV0SzNCT0QtZnp3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "253b2f7bf003babb0c19caad",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T02:07:23+00:00",
+      "last_update": "2026-11-25T05:41:34+00:00",
+      "event": "Turkish judicial delegation, ex-Swiss president visit top courts",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "courts",
+        "dawn",
+        "delegation",
+        "judicial",
+        "president",
+        "swiss",
+        "top",
+        "turkish",
+        "visit"
+      ],
+      "source_excerpt": "Turkish judicial delegation, ex-Swiss president visit top courts Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVZvZVRpbDBaMmtrek51WUFVVzh0VzdVNTdmNmxHNXhiZWxNN1prUE1sR2p4UEhEbG5keXBpYm5NMHVwbUF5RHE5TGtQZnpoLWwxOENmUDNPY181TXdqb1JUM1ctUzZtcUpsRVBEY2RDeGpSVmF0Rld5ZnFOYk9UVmVtUUQyTzZIUGFUTE9uRUhsM2w0d3oyWk04MExVdw?oc=5",
+          "published_at": "2026-11-25T02:07:23+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046816/turkish-judicial-delegation-ex-swiss-president-visit-top-courts",
+          "published_at": "2026-11-25T05:41:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVZvZVRpbDBaMmtrek51WUFVVzh0VzdVNTdmNmxHNXhiZWxNN1prUE1sR2p4UEhEbG5keXBpYm5NMHVwbUF5RHE5TGtQZnpoLWwxOENmUDNPY181TXdqb1JUM1ctUzZtcUpsRVBEY2RDeGpSVmF0Rld5ZnFOYk9UVmVtUUQyTzZIUGFUTE9uRUhsM2w0d3oyWk04MExVdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1990948708f81030b7ce5dbb",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T06:09:19+00:00",
+      "last_update": "2026-11-25T06:09:19+00:00",
+      "event": "Pakistan calls for human control over decisions on nuclear weapons use",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "artificial",
+        "called",
+        "calls",
+        "command",
+        "communications",
+        "control",
+        "decisions",
+        "delivered",
+        "for",
+        "has",
+        "human",
+        "intelligence",
+        "keeping",
+        "must",
+        "nations",
+        "never",
+        "nuclear",
+        "over",
+        "pakistan",
+        "permanent",
+        "represe",
+        "systems",
+        "target",
+        "that",
+        "the",
+        "under",
+        "united",
+        "use",
+        "used",
+        "warned",
+        "warning",
+        "was",
+        "weapons"
+      ],
+      "source_excerpt": "UNITED NATIONS: Pakistan has called for keeping decisions on the use of nuclear weapons under human control and warned that artificial intelligence (AI) systems must never be used to target nuclear command, control and communications systems. The warning was delivered by Pakistan’s Permanent Represe",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use",
+          "published_at": "2026-11-25T06:09:19+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVU52NFd4QkdTeUxQalptTjVxZWM2S1RpSUVhU202ODJZUEVSOG1DNFdTLUxiRHlFQjF5c0JyV0lHdmNGTmRObzZCVFdDODlnMlVLQUZLcjNndzJfNWFWWFdSRWdoV3FBUGVOdkI5Rkl6TENuaGxtNUVUbjBYU1RPSEpvLTJuZ0U4Ui1QSVRUS21TWVhvUEdvSllUa2swTWhGMm5YQVFBQQ?oc=5",
+          "published_at": "2026-11-25T06:09:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use",
+        "publisher_url": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cd8574ce62c4942cb5344006",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T05:16:02+00:00",
+      "last_update": "2026-11-25T05:16:02+00:00",
+      "event": "Puerto Rico’s Jennifer Barreto wins Miss Universe 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "barreto",
+        "jennifer",
+        "miss",
+        "puerto",
+        "rico",
+        "samaa",
+        "universe",
+        "wins"
+      ],
+      "source_excerpt": "Puerto Rico’s Jennifer Barreto wins Miss Universe 2026 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMk1SdGcyQW5za2JISVhKdWxkUjhLX0I4X3pOd0RtenZYMVRxLVJfWDNod1huWWMzb2YyRGZ4a3pMRGV0Njlsc2lGVXEwYzUzSFBBQnZsdEc5VlZqSUhUUnhrMHBYbzNWdGtDZHJxdzZUbkdwUFRvUnU0bTRLcF85Ul93bE5vNE1rNnRSYnlHMA?oc=5",
+          "published_at": "2026-11-25T05:16:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMk1SdGcyQW5za2JISVhKdWxkUjhLX0I4X3pOd0RtenZYMVRxLVJfWDNod1huWWMzb2YyRGZ4a3pMRGV0Njlsc2lGVXEwYzUzSFBBQnZsdEc5VlZqSUhUUnhrMHBYbzNWdGtDZHJxdzZUbkdwUFRvUnU0bTRLcF85Ul93bE5vNE1rNnRSYnlHMA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c5ad3743e6fb4306af4c8198",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T05:37:25+00:00",
+      "last_update": "2026-11-25T05:37:25+00:00",
+      "event": "Xi's anti-corruption campaign ensnares rising star in Chinese Communist Party",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anti",
+        "campaign",
+        "chen",
+        "chinese",
+        "communist",
+        "corruption",
+        "decades",
+        "ensnares",
+        "fall",
+        "jining",
+        "part",
+        "party",
+        "politburo",
+        "purge",
+        "rising",
+        "several",
+        "star",
+        "the",
+        "widest"
+      ],
+      "source_excerpt": "Chen Jining's fall is part of the widest purge in the party's Politburo in several decades.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6y80kk4zmdno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T05:37:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c6y80kk4zmdno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6y80kk4zmdno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3f36f883b39c13054541267d",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T05:27:32+00:00",
+      "last_update": "2026-11-25T05:32:08+00:00",
+      "event": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "beyond",
+        "but",
+        "calls",
+        "congress",
+        "gaza",
+        "genocide",
+        "india",
+        "israel",
+        "its",
+        "leader",
+        "missiles",
+        "modi",
+        "opposition",
+        "party",
+        "phone",
+        "spying",
+        "still",
+        "strategic",
+        "strong",
+        "the",
+        "ties",
+        "wants",
+        "war",
+        "why",
+        "with"
+      ],
+      "source_excerpt": "The opposition Congress party calls Israel’s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
+          "published_at": "2026-11-25T05:27:32+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHFibkwxUzhQcTVJYjFVTl9SS3lnT1dFdlFOcGhNMnhRdnRiZ284UnhHSkhsS01jRDQ4ZnJZbEstRjAwVFFqUXN1NXY2cWpOaFNxWHEtSkpSeFVKZ0xsT0FEMnhnMGZhcVRxenlEQ0w0YVpaM2hiOFpvNHNTQ2VxLTVvVTZBYThzbXhLOHdzWXNBR3Y4MFNySGRxZjltZ0EzT0VLVEo1Yk1LYlpYZ1NUcUVSRdIBuAFBVV95cUxNVWFKTmNEcXByb0I3NXAxbFZORG5walcwRGlMcm1UcFZVUk5iOUhvSjltOVRENGFfdTZSQWxIM2F2RFppRUlqOFlVREpsbWROdHVFa3BTWHlUMTRqNlNVVFFjZWkwQUJob3lRckVVWGZ1WEFfR0I0TXhBZ2E1a2xXVHVRZmdmTkRGZ0dvdG56X1VkMFJSMmZGamtBQWdOMHZxYzdmbUxSYTYxUzdIMWkwWFNkQWpFcFlh?oc=5",
+          "published_at": "2026-11-25T05:32:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "79c2bea405e373b9098c8d62",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T05:03:04+00:00",
+      "last_update": "2026-11-25T05:03:04+00:00",
+      "event": "The Gambia election: Can the next president deliver on a decade of promise",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "can",
+        "decade",
+        "deliver",
+        "economic",
+        "election",
+        "gambia",
+        "gambians",
+        "hardship",
+        "head",
+        "justice",
+        "next",
+        "polls",
+        "president",
+        "promise",
+        "promises",
+        "reform",
+        "the",
+        "unfulfilled"
+      ],
+      "source_excerpt": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+          "published_at": "2026-11-25T05:03:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "089ad30ce6d852678a65aaef",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T06:08:39+00:00",
+      "last_update": "2026-11-25T06:08:39+00:00",
+      "event": "Asian women 'never heard' on health, says director",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asian",
+        "average",
+        "develops",
+        "director",
+        "earlier",
+        "female",
+        "five",
+        "health",
+        "heard",
+        "luton",
+        "never",
+        "poor",
+        "react",
+        "report",
+        "saying",
+        "says",
+        "than",
+        "women",
+        "years"
+      ],
+      "source_excerpt": "Women react to a report saying poor female health in Luton develops five years earlier than average.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j6gn6lj43o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T06:08:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j6gn6lj43o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq1j6gn6lj43o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "08b500d27a892a9e3ae8e952",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T06:00:36+00:00",
+      "last_update": "2026-11-25T06:00:36+00:00",
+      "event": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "assess",
+        "asteroid",
+        "colliding",
+        "course",
+        "crash",
+        "damage",
+        "deliberately",
+        "four",
+        "has",
+        "huge",
+        "knocked",
+        "mission",
+        "now",
+        "off",
+        "returned",
+        "spacecraft",
+        "studying",
+        "the",
+        "years"
+      ],
+      "source_excerpt": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T06:00:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "66730b01bf9e110585d0c5bb",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T06:14:26+00:00",
+      "last_update": "2026-11-25T06:14:26+00:00",
+      "event": "Huge fly-tip grew undetected over several months",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "council",
+        "dumped",
+        "fences",
+        "fly",
+        "garden",
+        "grew",
+        "huge",
+        "months",
+        "over",
+        "pile",
+        "rubbish",
+        "says",
+        "several",
+        "the",
+        "tip",
+        "tonne",
+        "undetected",
+        "was"
+      ],
+      "source_excerpt": "The council says the 20-tonne pile of rubbish was dumped over garden fences.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T06:14:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "be6b927944ae337082b92ae8",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T05:13:44+00:00",
+      "last_update": "2026-11-25T05:13:44+00:00",
+      "event": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actor",
+        "aged",
+        "bbc",
+        "dies",
+        "edochie",
+        "nigerian",
+        "nollywood",
+        "pete",
+        "veteran"
+      ],
+      "source_excerpt": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UMmRvZlRYUzM5WGZWOFdDY2c4VjVwVGppMXNpdVZmRS1IRjNkLXJhOHNPazBhRjZ0bHN5MFd3Nnp2NDlkQUZIcEl6TTBnRTNFc1VjLWxSeVdSaGM?oc=5",
+          "published_at": "2026-11-25T05:13:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UMmRvZlRYUzM5WGZWOFdDY2c4VjVwVGppMXNpdVZmRS1IRjNkLXJhOHNPazBhRjZ0bHN5MFd3Nnp2NDlkQUZIcEl6TTBnRTNFc1VjLWxSeVdSaGM?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "519cbdd4b567e934782813f7",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T06:09:53+00:00",
+      "last_update": "2026-11-25T06:09:53+00:00",
+      "event": "'Hope' as Black Friday ad ban comes into effect in first UK city",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ban",
+        "bbc",
+        "black",
+        "city",
+        "comes",
+        "effect",
+        "first",
+        "friday",
+        "hope",
+        "into"
+      ],
+      "source_excerpt": "'Hope' as Black Friday ad ban comes into effect in first UK city BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vaE5uaG1lM21NSjQwX05mNmtWMi0zWlI5MnZpN3dPMER0WmJuQ3Fyd0RvcTZ2Um12RndqV21iMmg1ZnVnZ1ladXFIZlAycXJjeFpXd3ZUY28wU3M?oc=5",
+          "published_at": "2026-11-25T06:09:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vaE5uaG1lM21NSjQwX05mNmtWMi0zWlI5MnZpN3dPMER0WmJuQ3Fyd0RvcTZ2Um12RndqV21iMmg1ZnVnZ1ladXFIZlAycXJjeFpXd3ZUY28wU3M?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c7efacd52b659322c2c1acf9",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T05:26:58+00:00",
+      "last_update": "2026-11-25T05:26:58+00:00",
+      "event": "Eight terrorists gunned down in Peshawar, Bannu operations: officials",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046838",
+        "bannu",
+        "com",
+        "dawn",
+        "down",
+        "eight",
+        "gunned",
+        "https",
+        "news",
+        "officials",
+        "operations",
+        "peshawar",
+        "terrorists",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046838",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046967/eight-terrorists-gunned-down-in-peshawar-bannu-operations-officials",
+          "published_at": "2026-11-25T05:26:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046967/eight-terrorists-gunned-down-in-peshawar-bannu-operations-officials",
+        "publisher_url": "https://www.dawn.com/news/2046967/eight-terrorists-gunned-down-in-peshawar-bannu-operations-officials",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "421e18aedfd5483364619fbf",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T05:56:17+00:00",
+      "last_update": "2026-11-25T05:56:17+00:00",
+      "event": "HRCP-convened moot says Punjab theatre bill 'serious threat to artistic freedom'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1196199",
+        "artistic",
+        "bill",
+        "com",
+        "convened",
+        "dawn",
+        "freedom",
+        "hrcp",
+        "https",
+        "images",
+        "moot",
+        "news",
+        "punjab",
+        "says",
+        "serious",
+        "theatre",
+        "threat"
+      ],
+      "source_excerpt": "https://images.dawn.com/news/1196199/hrcp-convened-moot-says-punjab-theatre-bill-serious-threat-to-artistic-freedom",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046972/hrcp-convened-moot-says-punjab-theatre-bill-serious-threat-to-artistic-freedom",
+          "published_at": "2026-11-25T05:56:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046972/hrcp-convened-moot-says-punjab-theatre-bill-serious-threat-to-artistic-freedom",
+        "publisher_url": "https://www.dawn.com/news/2046972/hrcp-convened-moot-says-punjab-theatre-bill-serious-threat-to-artistic-freedom",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "35cc2fabfd224ddcc8020a1b",
+      "remembered_at": "2026-11-25T06:19:50.095029+00:00",
+      "event_date": "2026-11-25T06:12:50+00:00",
+      "last_update": "2026-11-25T06:12:50+00:00",
+      "event": "FBR seals Karachi superstore over Rs 3.27 billion tax irregularities",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "billion",
+        "fbr",
+        "irregularities",
+        "karachi",
+        "over",
+        "seals",
+        "superstore",
+        "tax"
+      ],
+      "source_excerpt": "FBR seals Karachi superstore over Rs 3.27 billion tax irregularities",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/fbr-seals-karachi-superstore-over-rs-3-27-billion-tax-irregularities",
+          "published_at": "2026-11-25T06:12:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/fbr-seals-karachi-superstore-over-rs-3-27-billion-tax-irregularities",
+        "publisher_url": "https://arynews.tv/fbr-seals-karachi-superstore-over-rs-3-27-billion-tax-irregularities",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T05:11:06.348803+00:00"
+  "updated_at": "2026-11-25T06:19:50.095029+00:00"
 }
