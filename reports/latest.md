@@ -1,36 +1,35 @@
-# News Hub report - Wed 25 Nov, 03:18 PM PKT
+# News Hub report - Wed 25 Nov, 04:23 PM PKT
 
 ## Collection
-- New items this run: 180 | items in rolling pool: 608
-- Unique story clusters: 517 (duplicates merged: 91)
-- Clusters dropped as already published/queued: 18; unchanged since last analysis: 3
-- Items per outlet: UrduPoint 90, samaa tv 9, ProPakistani 9, ARY News 8, Geo News 7, Al Jazeera 5, TechJuice 4, Dawn 3, Dunya News 3, ARYnews.tv 2, AP News 2, Engadget 2
+- New items this run: 95 | items in rolling pool: 681
+- Unique story clusters: 572 (duplicates merged: 109)
+- Clusters dropped as already published/queued: 10; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 20, ProPakistani 9, Geo News 8, samaa tv 6, Al Jazeera 6, Dunya News 5, ARY News 5, Wired 5, The News International 4, AP News 4, TechJuice 4, PhoneWorld 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: IMRAN KHAN’S MESSAGE, MARYAM NAWAZ SHOE INCIDENT & PML-N CRISIS | https://www.youtube.com/watch?v=_lVJNWTb6FQ
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
+- Could Netanyahu take Israel into another war with Iran to cling to power? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB okays $250m loan for Pakistan to boost private investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Could Netanyahu take Israel into another war with Iran to cling to power? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB okays $250m loan for Pakistan to boost private investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Could Netanyahu take Israel into another war with Iran to cling to power? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB okays $250m loan for Pakistan to boost private investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -40,28 +39,168 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 4 items
+### Could Netanyahu trigger a wider war with Iran to cling to power?  [NORMAL]
+- Poster: کیا نیتن یاہو اقتدار بچانے کے لیے ایران سے جنگ چھیڑیں گے؟ / Could Netanyahu trigger war with Iran to cling to power? | category politics
+- Alternative headline: Trump signals narrowing window for regional strikes against Iran
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss
+- Supporting coverage: Ynetnews, The Times of Israel, شفق نيوز, Israel Hayom, Arab News PK, WANA News Agency
+- Keywords: Netanyahu, Iran war, Israel politics, Eisenkot, regional conflict | hashtags: #Netanyahu #Israel #Iran #MiddleEast #Politics
+- Scheduled: Wed 25 Nov, 04:23 PM PKT
+- Caption:
+```
+As political opposition moves to form a government, could escalating tensions with Iran derail talks and help Netanyahu cling to power?
+
+As Israeli opposition leader Eisenkot moves to form a government, questions arise whether potential conflict with Iran could derail political talks and help Prime Minister Benjamin Netanyahu cling to power amidst shifting regional dynamics.
+
+جیسے ہی اسرائیلی اپوزیشن رہنما آئزن کوٹ حکومت بنانے کی کوشش کر رہے ہیں، یہ سوال اٹھ رہا ہے کہ آیا ایران کے ساتھ ممکنہ تنازع سیاسی مذاکرات کو پٹڑی سے اتار سکتا ہے اور وزیر اعظم بنجمن نیتن یاہو کو اقتدار سے چمٹے رہنے میں مدد دے سکتا ہے۔
+
+First reported by Al Jazeera; also reported by regional sources.
+
+#Netanyahu #Israel #Iran #MiddleEast #Politics
+```
+
+### Pakistan makes history as Zeeshan Ali reaches space aboard China's Shenzhou-24  [NORMAL]
+- Poster: پاکستانی خلاء باز ذیشان علی نے چین کے شینزو 24 مشن کے ساتھ خلاء کا سفر کر لیا / Pakistani astronaut Zeeshan Ali reaches space aboard China's Shenzhou-24 | category other
+- Alternative headline: Zeeshan Ali becomes first Pakistani astronaut to dock at Tiangong space station
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission
+- Supporting coverage: The Nation, ARY News, samaa tv, Facebook, The Express Tribune, Dawn
+- Keywords: Zeeshan Ali, Pakistan space mission, Shenzhou-24, Tiangong, China space | hashtags: #ZeeshanAli #PakistanSpace #Shenzhou24 #China #SpaceHistory
+- Scheduled: Wed 25 Nov, 04:33 PM PKT
+- Caption:
+```
+Pakistan has marked a historic milestone as astronaut Zeeshan Ali successfully reaches orbit aboard China's Shenzhou-24 space mission.
+
+Pakistani astronaut Zeeshan Ali has made history by traveling into space aboard China’s Shenzhou-24 mission. The spacecraft successfully docked with the Tiangong space station hours after liftoff, making Ali the first Pakistani in space and the first foreign astronaut to visit Tiangong.
+
+پاکستانی خلاء باز ذیشان علی نے چین کے شینزو 24 مشن کے ذریعے خلاء کا سفر کرکے تاریخ رقم کردی ہے۔ خلائی جہاز نے روانگی کے چند گھنٹوں بعد تیانگونگ خلائی اسٹیشن کے ساتھ کامیابی سے ڈاکیگ کی، جس سے علی خلاء میں جانے والے پہلے پاکستانی بن گئے۔
+
+First reported by ARY News; also reported by Dawn and The Nation.
+
+#ZeeshanAli #PakistanSpace #Shenzhou24 #China #SpaceHistory
+```
+
+### Under-construction building collapses near Karachi's Baloch Colony, casualties feared  [NORMAL]
+- Poster: کراچی میں بلوچ کالونی کے قریب زیر تعمیر عمارت گر گئی، ایک جاں بحق / Building collapse near Karachi's Baloch Colony leaves casualties | category disaster
+- Alternative headline: At least one dead and several injured as Karachi building collapses
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXlGVjgzVWppWXlnRzhkTUtFM2c2U05nTFU1TDFaejhRWmpGQkQxTE5nN1V4N0ppbmt4bk1STE9KREFBc1gwWEVYRWZSZ2FTT2l5cGtsaGdkdEhwUDZ3NF82TXVGUjY5X0FUdTlMN2k5QkY1R3RVWVVtWUV6eUtWZnZnd1E5YmFYWVBVTnZzVk1LdG1JZzNjUENFUXhkMmFOSFd1eUs0aTJCcDRSRFFjb0k5NHVUMWlWZFhkQjl4anVpYW00Wm9QV1d5b2F1enRf?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXlGVjgzVWppWXlnRzhkTUtFM2c2U05nTFU1TDFaejhRWmpGQkQxTE5nN1V4N0ppbmt4bk1STE9KREFBc1gwWEVYRWZSZ2FTT2l5cGtsaGdkdEhwUDZ3NF82TXVGUjY5X0FUdTlMN2k5QkY1R3RVWVVtWUV6eUtWZnZnd1E5YmFYWVBVTnZzVk1LdG1JZzNjUENFUXhkMmFOSFd1eUs0aTJCcDRSRFFjb0k5NHVUMWlWZFhkQjl4anVpYW00Wm9QV1d5b2F1enRf?oc=5
+- Supporting coverage: Dawn, Geo News, Geo News, Dawn Pakistan, Dunya News, samaa tv
+- Keywords: Building collapse, Karachi, Baloch Colony, accident, rescue operation | hashtags: #Karachi #BuildingCollapse #BalochColony #BreakingNews #Pakistan
+- Scheduled: Wed 25 Nov, 04:43 PM PKT
+- Caption:
+```
+Rescue operations are underway after an under-construction building collapsed near Karachi's Baloch Colony, leaving at least one dead and several injured.
+
+An under-construction building collapsed near Karachi's Baloch Colony, leaving at least one person dead and several others injured. Emergency responders and rescue teams rushed to the site as multiple people were feared trapped under the rubble.
+
+کراچی میں بلوچ کالونی کے قریب زیر تعمیر عمارت گرنے سے کم از کم ایک شخص جاں بحق اور کئی زخمی ہو گئے۔ ریسکیو ٹیمیں اور فلاحی ادارے فوری طور پر موقع پر پہنچ گئے کیونکہ ملبے تلے کئی افراد کے دبے ہونے کا خدشہ ظاہر کیا جا رہا ہے۔
+
+First reported by Dawn; also reported by Geo News.
+
+#Karachi #BuildingCollapse #BalochColony #BreakingNews #Pakistan
+```
+
+### ADB approves $250m loan to boost private investment in Pakistan  [NORMAL]
+- Poster: اے ڈی بی نے پاکستان میں نجی سرمایہ کاری کے لیے 250 ملین ڈالر قرض کی منظوری دیدی / ADB approves $250m loan to boost private investment in Pakistan | category economy
+- Alternative headline: Asian Development Bank okays $250m for public-private partnerships
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE1ILWN2Q0N3UnFrdUduZEExUExWY1VxTTQ3SGk5X3YxYmMxWWRDSHYxLUlYWm9HRl9YaktmX0IyM29TNURSSWowUUo0d2Uyb1lfZk4zSy1zV2x1elRDOGVhS1c0ODBPczJScDFNVkZtNHh0ZWNibldEcHlMMUlQdXE3WDZNdUY5OTR4UXFlOEVnZldlWWVv?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE1ILWN2Q0N3UnFrdUduZEExUExWY1VxTTQ3SGk5X3YxYmMxWWRDSHYxLUlYWm9HRl9YaktmX0IyM29TNURSSWowUUo0d2Uyb1lfZk4zSy1zV2x1elRDOGVhS1c0ODBPczJScDFNVkZtNHh0ZWNibldEcHlMMUlQdXE3WDZNdUY5OTR4UXFlOEVnZldlWWVv?oc=5
+- Supporting coverage: samaa tv, Dawn Latest, Investify, TechJuice
+- Keywords: ADB loan, private investment, Pakistan economy, public-private partnership, Asian Development Bank | hashtags: #ADB #PakistanEconomy #Investment #Finance #Development
+- Scheduled: Wed 25 Nov, 04:53 PM PKT
+- Caption:
+```
+The Asian Development Bank has approved a $250 million loan aimed at strengthening Pakistan's public-private partnership system and boosting investment.
+
+The Asian Development Bank (ADB) has approved a $250 million loan for Pakistan. The funding is designated to strengthen the country's public-private partnership framework and boost private sector investment in key infrastructure and development projects.
+
+ایشین ڈویلپمنٹ بینک (اے ڈی بی) نے پاکستان کے لیے 250 ملین ڈالر کے قرض کی منظوری دے دی ہے۔ اس فنڈنگ کا مقصد ملک کے پبلک پرائیویٹ پارٹنرشپ سسٹم کو مضبوط بنانا اور نجی شعبے کی سرمایہ کاری کو فروغ دینا ہے۔
+
+First reported by Samaa TV; also reported by Dawn.
+
+#ADB #PakistanEconomy #Investment #Finance #Development
+```
+
+### FBR seals Karachi superstore over Rs 3.27 billion tax irregularities  [NORMAL]
+- Poster: ایف بی آر نے اربوں روپے کی ٹیکس بے ضابطگیوں پر کراچی کا سپر اسٹور سیل کر دیا / FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | category economy
+- Alternative headline: Karachi retail outlet sealed by FBR for point-of-sale system violations
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/fbr-seals-karachi-superstore-over-rs-3-27-billion-tax-irregularities | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/fbr-seals-karachi-superstore-over-rs-3-27-billion-tax-irregularities
+- Supporting coverage: ARY News, ARYnews.tv, ProPakistani
+- Keywords: FBR, Karachi superstore, tax irregularities, POS system, sales tax | hashtags: #FBR #Karachi #TaxEvasion #PakistanEconomy #Business
+- Scheduled: Wed 25 Nov, 05:03 PM PKT
+- Caption:
+```
+The FBR has sealed a major retail outlet in Karachi after discovering billions of rupees in sales conducted outside the POS system.
+
+The Federal Board of Revenue (FBR) has sealed a retail superstore in Karachi due to major tax irregularities. Authorities found that the store's POS system was disconnected for 122 days, hiding over Rs 3.27 billion in sales conducted between July 2024 and September 2026.
+
+فیڈرل بورڈ آف ریونیو (ایف بی آر) نے ٹیکس میں بڑی بے ضابطگیوں پر کراچی میں ایک بڑے سپر اسٹور کو سیل کر دیا ہے۔ حکام کے مطابق اسٹور کا پی او ایس سسٹم 122 دن تک منقطع رہا، جس کے دوران اربوں روپے کی فروخت ظاہر نہیں کی گئی۔
+
+First reported by ARY News; also reported by ProPakistani.
+
+#FBR #Karachi #TaxEvasion #PakistanEconomy #Business
+```
+
+### PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police  [NORMAL]
+- Poster: وزیر اعظم شہباز شریف کی این سی سی آئی اے کی تشکیل نو اور سائبر پولیس بنانے کی ہدایت / PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police | category politics
+- Alternative headline: Pakistan moves to establish Cyber Police amid NCCIA overhaul
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/pm-shehbaz-sharif-orders-restructuring-of-nccia | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/pm-shehbaz-sharif-orders-restructuring-of-nccia
+- Supporting coverage: ARY News, ProPakistani, TechJuice
+- Keywords: NCCIA, Shehbaz Sharif, Cyber Police, cybercrime, Pakistan government | hashtags: #ShehbazSharif #NCCIA #CyberPolice #Pakistan #CyberSecurity
+- Scheduled: Wed 25 Nov, 05:13 PM PKT
+- Caption:
+```
+Prime Minister Shehbaz Sharif has ordered the restructuring of the NCCIA and proposed establishing a dedicated Pakistan Cyber Police force.
+
+Prime Minister Shehbaz Sharif has directed authorities to accelerate the restructuring of the National Cyber Crime Investigation Agency (NCCIA) into an advanced institution. He also proposed the establishment of a Pakistan Cyber Police force equipped with IT and AI specialists.
+
+وزیر اعظم شہباز شریف نے حکام کو ہدایت کی ہے کہ نیشنل سائبر کرائم انویسٹی گیشن ایجنسی (این سی سی آئی اے) کی تشکیل نو کو تیز کیا جائے۔ انہوں نے آئی ٹی اور اے آئی کے ماہرین پر مشتمل پاکستان سائبر پولیس فورس قائم کرنے کی بھی تجویز دی۔
+
+First reported by ARY News; also reported by ProPakistani and Dawn.
+
+#ShehbazSharif #NCCIA #CyberPolice #Pakistan #CyberSecurity
+```
+
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 10
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
 
 ## Queue status
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
-- [needs_review] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
-- [needs_review] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
 - [needs_review] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
 - [needs_review] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
 - [needs_review] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
 - [needs_review] normal | Veteran journalist Hussain Naqi passes away in Lahore | Sun 22 Nov, 02:50 PM PKT
 - [needs_review] normal | Three TTP-linked terrorists killed in CTD operation near Peshawar | Sun 22 Nov, 03:00 PM PKT
 - [needs_review] normal | Saudi-led coalition intercepts Houthi ballistic missile targeting west | Sun 22 Nov, 03:24 PM PKT
-- [published] normal | Former UN envoy declares Iran war was entirely preventable | Sun 22 Nov, 03:34 PM PKT
 - [needs_review] normal | Veteran journalist and human rights activist Hussain Naqi passes away  | Sun 22 Nov, 03:44 PM PKT
 - [needs_review] normal | PTI demands jail manual facilities for party founder Imran Khan | Sun 22 Nov, 03:54 PM PKT
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
 - [needs_review] normal | South Korea Education Minister Resigns Over National Exam Cheating Sca | Sun 22 Nov, 04:14 PM PKT
-- [published] normal | Russian Cargo Ship Catches Fire Off Finland After Suspected Drone Atta | Sun 22 Nov, 04:24 PM PKT
 - [needs_review] normal | Prime Minister Shehbaz Sharif to Visit Russia and Iran Starting Novemb | Sun 22 Nov, 04:34 PM PKT
 - [needs_review] normal | Josh Hazlewood Clarifies Relationship With Usman Khawaja Amid Book Rel | Sun 22 Nov, 04:44 PM PKT
 - [published] normal | Major Karachi roads closed as political parties stage rallies | Sun 22 Nov, 05:58 PM PKT
@@ -215,24 +354,30 @@
 - [needs_review] normal | Food Inflation Surges to 8.94 Percent Amid Rising Cost of Living in In | Wed 25 Nov, 08:48 AM PKT
 - [needs_review] normal | Trump risks political fortunes on Nvidia after Jensen Huang's return | Wed 25 Nov, 08:59 AM PKT
 - [needs_review] normal | Zeeshan Ali makes history as Pakistan's first astronaut in orbit | Wed 25 Nov, 09:09 AM PKT
-- [queued] normal | Tareen joins political chorus demanding new provinces | Wed 25 Nov, 09:19 AM PKT
-- [queued] normal | Supreme Court declares Auqaf takeover of private shrine void | Wed 25 Nov, 09:29 AM PKT
-- [queued] normal | Trump says Iran war funded through January, warns Democrats | Wed 25 Nov, 09:39 AM PKT
-- [queued] normal | WHO chief urges end to US fuel blockade on Cuba | Wed 25 Nov, 09:49 AM PKT
-- [queued] normal | Bilawal says new provinces only through parliamentary process | Wed 25 Nov, 10:11 AM PKT
-- [queued] normal | Commerce Minister Jam Kamal vows to help Balochistan traders | Wed 25 Nov, 10:21 AM PKT
-- [queued] normal | World Bank downgrades $150m Punjab education project | Wed 25 Nov, 10:31 AM PKT
+- [needs_review] normal | Tareen joins political chorus demanding new provinces | Wed 25 Nov, 09:19 AM PKT
+- [needs_review] normal | Supreme Court declares Auqaf takeover of private shrine void | Wed 25 Nov, 09:29 AM PKT
+- [needs_review] normal | Trump says Iran war funded through January, warns Democrats | Wed 25 Nov, 09:39 AM PKT
+- [needs_review] normal | WHO chief urges end to US fuel blockade on Cuba | Wed 25 Nov, 09:49 AM PKT
+- [needs_review] normal | Bilawal says new provinces only through parliamentary process | Wed 25 Nov, 10:11 AM PKT
+- [needs_review] normal | Commerce Minister Jam Kamal vows to help Balochistan traders | Wed 25 Nov, 10:21 AM PKT
+- [published] normal | World Bank downgrades $150m Punjab education project | Wed 25 Nov, 10:31 AM PKT
 - [queued] normal | Communications minister orders early completion of projects in KP | Wed 25 Nov, 10:41 AM PKT
 - [queued] normal | Three held, illegal heavy weapons seized in Gilgit | Wed 25 Nov, 10:51 AM PKT
 - [queued] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
 - [published] promo | [YouTube] IMRAN KHAN’S MESSAGE, MARYAM NAWAZ SHOE INCIDENT & PML-N CRI | Wed 25 Nov, 03:18 PM PKT
+- [queued] normal | Could Netanyahu trigger a wider war with Iran to cling to power? | Wed 25 Nov, 04:23 PM PKT
+- [queued] normal | Pakistan makes history as Zeeshan Ali reaches space aboard China's She | Wed 25 Nov, 04:33 PM PKT
+- [queued] normal | Under-construction building collapses near Karachi's Baloch Colony, ca | Wed 25 Nov, 04:43 PM PKT
+- [queued] normal | ADB approves $250m loan to boost private investment in Pakistan | Wed 25 Nov, 04:53 PM PKT
+- [queued] normal | FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | Wed 25 Nov, 05:03 PM PKT
+- [queued] normal | PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police | Wed 25 Nov, 05:13 PM PKT
 
 ## Publishing this run
-- Published '[YouTube] IMRAN KHAN’S MESSAGE, MARYAM NAWAZ SHOE INCIDENT & PML-N CRISIS'.
+- Published 'World Bank downgrades $150m Punjab education project'.
 
 ## Gemini usage
-- Calls: 7 | prompt tokens: 219 | output tokens: 78
-- Errors: 7
+- Calls: 3 | prompt tokens: 10805 | output tokens: 4627
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -241,19 +386,3 @@
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi

@@ -153146,7 +153146,510 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8f6a9cf5c4fd3967f5dce113",
+      "remembered_at": "2026-11-25T11:23:55.544739+00:00",
+      "event_date": "2026-11-25T05:20:43+00:00",
+      "last_update": "2026-11-25T10:42:01+00:00",
+      "event": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "another",
+        "cling",
+        "could",
+        "derail",
+        "eisenkot",
+        "form",
+        "government",
+        "into",
+        "iran",
+        "israel",
+        "israeli",
+        "leader",
+        "moves",
+        "netanyahu",
+        "opposition",
+        "power",
+        "save",
+        "take",
+        "talks",
+        "war",
+        "with"
+      ],
+      "source_excerpt": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?",
+      "sources": [
+        {
+          "name": "Ynetnews",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9McGtUQ3Bqb1NQTExDWHY3V3BYTnBhWWVNRmh0Q3hqLVhLRkROVXVnQ3NRZUZOang1a2xubk9rc1dMWUhLSmE4UnZGLXJ1VUdSc3BmQ053?oc=5",
+          "published_at": "2026-11-25T05:20:43+00:00"
+        },
+        {
+          "name": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQkRieFZuakN6Wk5PWkt6VTJMS0hvLVFxUm9CMmR1Z19TSUNXdy1RZ2N1U2RRS1Q5UnMyVnRkdUlKWlpjeDhpbzU1eGZneGNxNTRzdkE5b1NhYUlGVmxQbzRBcXMydlFlN3hRWFU4VUdkbkJaUHRvYUxmWnl5UENqVXVwNWNRcXVEaEtlQlYwNW9PZWkwZ1FfSGRpcmhBVEZGaEZtbElFR1ZZN1FvbFdqM2Q3N2k4dlJBUnZObXhJb2hqdm9CWWE4TUxWWm5IMVlHaDBGWA?oc=5",
+          "published_at": "2026-11-25T05:25:30+00:00"
+        },
+        {
+          "name": "شفق نيوز",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWI4bDNONFcxcGZJcFZ6cmRndXFiSWQ1cVFqTjUxQVlBLU5qVGc2ZlpmeERkYV8talIzTHczSXEzOEhmN2ZablZ0bC02TXZ3b3lOYjdCd0laRkpPcDViMDN4cGVUaUZGLXdXU1E0MlJtRko4UVVDY2xHbllwMTF0UkJCUmc?oc=5",
+          "published_at": "2026-11-25T05:52:33+00:00"
+        },
+        {
+          "name": "Israel Hayom",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NVHNLeDJ2MjlsWDR4YmFXRTk0YXJFNEVLdlFSR29PRkFrWXcxbDRnbkh3STl3NXA1M0FjXzBOS1Y1Nk5TRjhiTDBBV01scE9oclJMUjlMN3lvc2dnb2ltZFdfUWUzYTZfVEd4aXBDNzRKTmhCaGdmZA?oc=5",
+          "published_at": "2026-11-25T06:25:29+00:00"
+        },
+        {
+          "name": "Arab News PK",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0UyN1VJRnMzSEhiY1liOVJ1aHgxbEExaW56R3pIanlGT3JDMFBzNVAyY05VdWNRSFdRMWRCM2l6eG8wQXB1WHZjNjFUV1M4ZUVzVnBrZnVTUExjOG52WGZ3enhjcU9ISjlRQURHS21XaUxjbGlOSTdsVFdQVW0zcUpJWWRhMzlzVGFTaG1ER2txZ1dzSEM5NTktVlRzclVhWndMSFhqYjNEdTFnbFBCTA?oc=5",
+          "published_at": "2026-11-25T06:36:42+00:00"
+        },
+        {
+          "name": "WANA News Agency",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzB2eUQwRTZKdUJ2d0xQZHRuWEFZZ1lHTjVmYzU1ZkNnTzhFRE9OVmlNZzRpdzFNMFY5dk1ZTmo3QVFsbmVGZDFuaV9MMGROUWlFbjZlYzgtaUdwMW9SWmJYZTZ6bU1DVGNUN2FPTlc1UVJodDNxUjE1NlZZUE5Ra3VtbVE2OG9TX2Y1V25Rdw?oc=5",
+          "published_at": "2026-11-25T06:47:37+00:00"
+        },
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNnJ6dmpDdkh4SGpEUE8xb2tYQmxjSzhDMEZjSER6ek5pdElpMlQtb1BTeEFYM2ZuZkcwTVJlM3JHZWF5czMtdWE2NnRHbkNZbThjS0dWLUhhdXM1ZVFhMWNMRXhzZEs3Si00NE1nWlk2V21sbDdCUGFIMFJKdUZ4M3dITDVkNDg?oc=5",
+          "published_at": "2026-11-25T07:10:42+00:00"
+        },
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUNqT2ROSDBJd3U4UWNRX2w2TkJpNGpsemZiZDQyb28xcEdtcWtLbXN2c003N094Y0VhM0Y0WUxfMndTX1haQlJ5YnlvTUtvdTlQWC1vYVhjcWRBYnNBSGlTSWVxYThpdlhGVlN6SGVYeFJYNTd1MHV3Um53c0x4T2pSRS1WSG5ZQW5nazkxbTRmSS0yZVA2LUNCcHd6d0hH?oc=5",
+          "published_at": "2026-11-25T07:34:43+00:00"
+        },
+        {
+          "name": "The New Arab",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkJoQ20zVHM5Z0IwVDc3OGJGQTJPQUUtakoyeUV0Yy0xUk9UWXd6UTdCNi1oMVprS1ItTXY5Z0FRZlIxcEktWG04dWV3Vmdpbjlrdk1GOFk0SDBhRUlKTmJJelNEMWZvLUstQVVxeTRKSTdodEhPS24yUko1em16TzRNbTg3VWU5RURnVVNod9IBlAFBVV95cUxQOU8yR1BsRVpSZktIMlJxSkxIeWdlWlpydm93WEh2c0ZnSmo2TUNiSms0ejFvRHZMNXJhQTE2MndKTnRuMDNfb1hyMDJEc3R0alNTY3Q2YXQ3N1hVZFJVMEdtRzh3NFVkTFkyOXhReWl3VjZ5QktQaUNETVc1eFNkM1pnTTBTVmFaTEVhcjk4V0l3VUxI?oc=5",
+          "published_at": "2026-11-25T07:46:11+00:00"
+        },
+        {
+          "name": "8AM Media",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVdyQ1hVTlJBWnNuVUZSOFpCU1lqVlZaR2F2WTNrOUFHVXY3Ukxab3U1SW85NWtUWmxNczRrTGdpajgxOVRBOF93RTVvNWtENEtLcXNFMHpyVW9nRnVIOWg0T3kwTm1RcEVMSWdwR3U4STAtOEQ5THRmMmNHZGtCUnEyQnh5Ql93NklzMk5RYlFGN0Mw?oc=5",
+          "published_at": "2026-11-25T07:54:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e77ea884159a642f0594e403",
+      "remembered_at": "2026-11-25T11:23:55.544739+00:00",
+      "event_date": "2026-11-25T03:44:45+00:00",
+      "last_update": "2026-11-25T10:52:15+00:00",
+      "event": "Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ali",
+        "china",
+        "embarks",
+        "history",
+        "makes",
+        "mission",
+        "pakistan",
+        "shenzhou",
+        "space",
+        "zeeshan"
+      ],
+      "source_excerpt": "Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission",
+      "sources": [
+        {
+          "name": "The Nation",
+          "url": "https://www.nation.com.pk/25-Nov-2026/pakistan-celebrates-first-astronaut-zeeshan-ali-reaches-orbit-aboard-china-s-shenzhou-24",
+          "published_at": "2026-11-25T03:44:45+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission",
+          "published_at": "2026-11-25T03:48:40+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0FzX0ltYkpyQmlNZzFNeUFVamFKNFBOVlVrRXMzQndtWU1qaWt4TmhDY3czNDREanVjbTNuWkFweDlEX2JSVlhiVFVSOUdwN0tFZEhqQndYaG9lTlRMbDU0ZmJtUEs2VHljampMZmtCdTlsSVF3Ni1lR2RiWHBLZG9XU3U1SnhPYlN3RXZoVVJfMmdHcTMzVTVUc2R2SmFBUlZYTkw2eWU4dHc?oc=5",
+          "published_at": "2026-11-25T04:23:06+00:00"
+        },
+        {
+          "name": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGt4T09IOW10MGhuSXlSS01HTFFrdy1RWlZTQjl1YVduMHhBV1hWVlNJamdjc1NReG9QUVNkUDdTSGVleHZWT0ZBdWMwcUxKeXFpRHJ5M1ZHNFp0SF9WTjNZTlVyRUdYOVAzeVNRLW8wUFgxS3lIeV8xRnViRlFGVGc4NVYtQzdfZVBqZGExMXptN0V4anhTS19BS0FyWFVjOElpdDNjaG5nc0o2MFJhTHpsUnNsYjAxYkJhTl8tdW1IbXpEOHpWeC1HQ09jTDg1eWl0ellnUVZKdTFJdG9oMA?oc=5",
+          "published_at": "2026-11-25T05:04:05+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmpiOUVNXzRxX254aVN5UDZKR2M3QjJpWGpRcUs3OF9HaExkU0doRE1ETHdLaUZjZ0RLRjFoUE90T20xTUgtSzU5MkVSRk5nRXZJamNUSmVwMkRENjVzTjU3aXMxODN2eVVmcy1aMXYzcnkyUGZKa1p2NXBuRFh5UEw5QzRDNFlZUUJxZVZmcElMMnA2MW9TRjZKSnA4a2xRSjR0LWpCNzRiclpQc1hNZFVmNA?oc=5",
+          "published_at": "2026-11-25T06:03:12+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JQy16bmZMTExuNmc4bWkwSlVRM0VQVjZuX2U1V1VKdFpJM2tOTmV1R0t4bEJlRWNsQUV2Y1pnUTNGMFBQZjNlUg?oc=5",
+          "published_at": "2026-11-25T06:31:32+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046974/in-pictures-pakistani-astronaut-zeeshan-alis-ascent-to-space-aboard-shenzhou-24-as-it-happened",
+          "published_at": "2026-11-25T07:27:19+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/chinas-shenzhou-24-carrying-pakistani-astronaut-docks-at-tiangong-space-station/",
+          "published_at": "2026-11-25T08:00:54+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2dybGU4aGZlbHJsOXZHc0sxRUJGLVk1MzcxYzdGbjFBQ0VVMTR2WHFZWFN3VEgta21IdW9HSGFhcnRzcjNFd2JyYVBvRjNuVFU3SGI3UElNVUdnRGt0anJDdXo3bXlQT1lGbGVfYmFoOFp1RGM2Z0JXTU9sYlJHeG1WY3NIeUowNHVVOUJPdlZMbElJRWJoZ29TVFN6R21INUZV0gGrAUFVX3lxTFBYYjRhdjcydFRyVjVpVUtHWXVXb1EzNmNZajRkQXo5N2hDTkpJWlNScXlDei1sQ01raW15MmRYWUpyUXdpbEpTa3ZqaEpreGs1MXAwa1I4RHFGZjh2cVltTDNLbEt1bEFQZnJLdXNOSTQwNDRlTHAySnd2cVBORkpHbnhqQmIxVHpiUWdGQXhTcUVrX2pqcldvNnJZOTc4SWtrWExjb0wtS2U1RQ?oc=5",
+          "published_at": "2026-11-25T08:28:24+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTBWczlocnVCUFBhNVhDcy1nLUsydWxSZnFMWkw1a3dsQUVPdzd0RXZoNVVuM0h2VnVybUJaTEZrdWxaaDVWaFdQVTlTMlctSl93ZzhraUlJRjZERzBuU1lja08wM09LZEJhcXJZbUFtbWlrcTZSRzF3RmJoamdaVllJTUpMSUlQMllqSVFPQ1JkUnBxeU15bV8zQXUyNWQw?oc=5",
+          "published_at": "2026-11-25T08:43:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission",
+        "publisher_url": "https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b57f5e7cffc5a0e491713e73",
+      "remembered_at": "2026-11-25T11:23:55.544739+00:00",
+      "event_date": "2026-11-25T10:22:23+00:00",
+      "last_update": "2026-11-25T11:03:19+00:00",
+      "event": "ADB okays $250m loan for Pakistan to boost private investment",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "250m",
+        "adb",
+        "boost",
+        "for",
+        "investment",
+        "loan",
+        "okays",
+        "pakistan",
+        "private",
+        "samaa"
+      ],
+      "source_excerpt": "ADB okays $250m loan for Pakistan to boost private investment samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE1ILWN2Q0N3UnFrdUduZEExUExWY1VxTTQ3SGk5X3YxYmMxWWRDSHYxLUlYWm9HRl9YaktmX0IyM29TNURSSWowUUo0d2Uyb1lfZk4zSy1zV2x1elRDOGVhS1c0ODBPczJScDFNVkZtNHh0ZWNibldEcHlMMUlQdXE3WDZNdUY5OTR4UXFlOEVnZldlWWVv?oc=5",
+          "published_at": "2026-11-25T10:22:23+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
+          "published_at": "2026-11-25T10:33:36+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXpRNnl3OFBDd3JyUk9HcUNldllXcXdaYk42d3M4Tnd1VTYyR0FlR2VZZ19EWDRpN2JmdEFHSHIyMHF6WUh1c2dWa080Z2dxSk1GbGIwS3hjRG5XM0F4MHBBbVpmQnZBd2RKSVpfdjc4NFU3eTdTVGRDUUVES2M3NVNrak1mRHRpSXdDd0RVWVFndFZZZlYybmNTb2dqZDJJUHR4dEhZaFJxa2l4Y3YySmw0MmRxSFpBNzlyUVZR?oc=5",
+          "published_at": "2026-11-25T10:33:36+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/adb-approves-250m-loan-to-boost-pakistans-public-private-partnerships/",
+          "published_at": "2026-11-25T11:03:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE1ILWN2Q0N3UnFrdUduZEExUExWY1VxTTQ3SGk5X3YxYmMxWWRDSHYxLUlYWm9HRl9YaktmX0IyM29TNURSSWowUUo0d2Uyb1lfZk4zSy1zV2x1elRDOGVhS1c0ODBPczJScDFNVkZtNHh0ZWNibldEcHlMMUlQdXE3WDZNdUY5OTR4UXFlOEVnZldlWWVv?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "afc867fd8bf310bb80382ba3",
+      "remembered_at": "2026-11-25T11:23:55.544739+00:00",
+      "event_date": "2026-11-25T09:24:42+00:00",
+      "last_update": "2026-11-25T10:42:47+00:00",
+      "event": "Newly built 6-floor building collapses in Karachi’s Admin Society",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admin",
+        "building",
+        "built",
+        "collapses",
+        "floor",
+        "karachi",
+        "newly",
+        "society"
+      ],
+      "source_excerpt": "Newly built 6-floor building collapses in Karachi’s Admin Society",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-newly-built-5-floor-building-collapses-in-admin-society",
+          "published_at": "2026-11-25T09:24:42+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/25/newly-built-6-floor-building-collapses-in-karachi/",
+          "published_at": "2026-11-25T10:42:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-newly-built-5-floor-building-collapses-in-admin-society",
+        "publisher_url": "https://arynews.tv/karachi-newly-built-5-floor-building-collapses-in-admin-society",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "70eb097dfd22e5a7ac797946",
+      "remembered_at": "2026-11-25T11:23:55.544739+00:00",
+      "event_date": "2026-11-25T11:02:03+00:00",
+      "last_update": "2026-11-25T11:13:27+00:00",
+      "event": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "after",
+        "among",
+        "auction",
+        "bangladeshi",
+        "eleven",
+        "entered",
+        "expulsion",
+        "for",
+        "from",
+        "have",
+        "ipl",
+        "league",
+        "list",
+        "mustafiz",
+        "mustafizur",
+        "names",
+        "not",
+        "players",
+        "shakib",
+        "the",
+        "their",
+        "year"
+      ],
+      "source_excerpt": "Eleven Bangladeshi players have entered their names for the auction, a year after Mustafiz's expulsion from the league.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
+          "published_at": "2026-11-25T11:02:03+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTDhQM2NCYko2S2RDVGlkZEtkZUpma0pUckd0R3JmMml3UlVPWXJNNFl4MVBjbDBuTzQwLWhpNjljLWF3d0l6TVRMMlFYUjhCSTRvOWJMUjdFRHVGYWM2dHJaUEY2U0RHSHRsc2VHbWJPNFJkbV9RTEVMbVVOaW1jcFRrdlV1NER5M0w4UzVjRm1RYTJTOUZKUV9ZNnZWVlJITlAwOUFnZGpRNjVVQXJwQnVLMF9qbm_SAbwBQVVfeXFMUHhkaGxKS3ZaVFlicXRIcGQxWjhnbEJMTTVXdTFPX3V0U1Nla3RCODFPNXBMSW55cjFOaHVmc0hUVVlzVEpzenh5Q1pjWkl0QmRYWUV1X05wM1JnS0hTZWltNnJ3M0pWeXE5cWRQb1QtRklhenp5SHNEbDZ6Zjk4ME1GM3VRajRTVWxPOHoyem5lR1ZPdTNGYXlfYzJlS0kxVGFRNW0xOURhX2ZyM2xpeS1PWU9ZNHJuRnlNb2M?oc=5",
+          "published_at": "2026-11-25T11:13:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c0a012a7bbcfc4a9f15a2e7f",
+      "remembered_at": "2026-11-25T11:23:55.544739+00:00",
+      "event_date": "2026-11-25T11:01:54+00:00",
+      "last_update": "2026-11-25T11:01:54+00:00",
+      "event": "The cost of Nigeria’s power failures for one small business",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aderayo",
+        "back",
+        "business",
+        "cost",
+        "electricity",
+        "failures",
+        "fashion",
+        "for",
+        "her",
+        "holding",
+        "nigeria",
+        "one",
+        "owner",
+        "power",
+        "says",
+        "small",
+        "soile",
+        "the",
+        "unreliable"
+      ],
+      "source_excerpt": "Fashion business owner Aderayo Soile says unreliable electricity is holding back her business.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-cost-of-nigerias-power-failures-for-one-small-business?traffic_source=rss",
+          "published_at": "2026-11-25T11:01:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-cost-of-nigerias-power-failures-for-one-small-business?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-cost-of-nigerias-power-failures-for-one-small-business?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f61f5b6b3cb2d3e92e84790f",
+      "remembered_at": "2026-11-25T11:23:55.544739+00:00",
+      "event_date": "2026-11-25T10:50:26+00:00",
+      "last_update": "2026-11-25T10:50:26+00:00",
+      "event": "Who is Chen Jining, China’s latest Politburo member under investigation?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "chen",
+        "china",
+        "fourth",
+        "high",
+        "investigation",
+        "jining",
+        "latest",
+        "member",
+        "out",
+        "politburo",
+        "pushed",
+        "ranking",
+        "the",
+        "two",
+        "under",
+        "who",
+        "years"
+      ],
+      "source_excerpt": "Chen is the fourth high-ranking Politburo member to be pushed out in two years.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+          "published_at": "2026-11-25T10:50:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b9ec1fe2248406c6dd318b9e",
+      "remembered_at": "2026-11-25T11:23:55.544739+00:00",
+      "event_date": "2026-11-25T10:12:16+00:00",
+      "last_update": "2026-11-25T10:12:16+00:00",
+      "event": "Israeli strike kills Hamas official, his wife and children",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arynews",
+        "children",
+        "hamas",
+        "his",
+        "israeli",
+        "kills",
+        "official",
+        "strike",
+        "wife"
+      ],
+      "source_excerpt": "Israeli strike kills Hamas official, his wife and children ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDgxNHZkY3NvbmtCNnVjLUVabTZlRVJKbkJGY2h1Vmk1d1FHNGFDdU11ZEFpT2JZZGZpZUdEdU4zLXVJc3Y5RU5FeEZIQ0NPSHJXelNSMi1lTmZtMmNQblZ6bVBRd1VNNUJoMEhwSDdIeWcwT1pLLU5oTTlCNmpMV3NR?oc=5",
+          "published_at": "2026-11-25T10:12:16+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/israeli-strike-kills-hamas-official-his-wife-and-children",
+          "published_at": "2026-11-25T10:12:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDgxNHZkY3NvbmtCNnVjLUVabTZlRVJKbkJGY2h1Vmk1d1FHNGFDdU11ZEFpT2JZZGZpZUdEdU4zLXVJc3Y5RU5FeEZIQ0NPSHJXelNSMi1lTmZtMmNQblZ6bVBRd1VNNUJoMEhwSDdIeWcwT1pLLU5oTTlCNmpMV3NR?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T10:18:46.846652+00:00"
+  "updated_at": "2026-11-25T11:23:55.544739+00:00"
 }
