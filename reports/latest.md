@@ -1,200 +1,200 @@
-# News Hub report - Wed 25 Nov, 08:59 AM PKT
+# News Hub report - Wed 25 Nov, 10:11 AM PKT
 
 ## Collection
-- New items this run: 20 | items in rolling pool: 269
-- Unique story clusters: 243 (duplicates merged: 26)
-- Clusters dropped as already published/queued: 21; unchanged since last analysis: 4
-- Items per outlet: Dawn Pakistan 5, Geo News 3, Dawn 2, ARY News 1, The Nation 1, BBC 1, Al Jazeera 1, Jagonews24 1, X 1, PhoneWorld 1, Profit by Pakistan Today 1, Modern Diplomacy 1
+- New items this run: 56 | items in rolling pool: 282
+- Unique story clusters: 248 (duplicates merged: 34)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 4
+- Items per outlet: Dawn Pakistan 10, AP News 9, Geo News 5, Dawn Latest 4, ARY News 4, The News International 3, Al Jazeera 3, samaa tv 2, Dawn 2, PhoneWorld 2, ARYnews.tv 1, Jang Urdu 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- 'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tareen joins chorus for new provinces | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shrine on private land not waqf; Auqaf takeover void: SC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says Iran war ‘funded’ through January, warns Democrats against halt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- WHO chief urges end to US fuel blockade on Cuba | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jam Kamal vows to help traders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- $150m Punjab education project downgraded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Early completion of projects ordered | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three held; illegal heavy weapons seized in Gilgit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Business confidence plunges: OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tareen joins chorus for new provinces | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shrine on private land not waqf; Auqaf takeover void: SC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says Iran war ‘funded’ through January, warns Democrats against halt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- WHO chief urges end to US fuel blockade on Cuba | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jam Kamal vows to help traders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- $150m Punjab education project downgraded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Early completion of projects ordered | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three held; illegal heavy weapons seized in Gilgit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Business confidence plunges: OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tareen joins chorus for new provinces | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Shrine on private land not waqf; Auqaf takeover void: SC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says Iran war ‘funded’ through January, warns Democrats against halt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- WHO chief urges end to US fuel blockade on Cuba | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jam Kamal vows to help traders | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- $150m Punjab education project downgraded | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Early completion of projects ordered | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Three held; illegal heavy weapons seized in Gilgit | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Business confidence plunges: OICCI | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Aaj News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Al Jazeera India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Trump risks political fortunes on Nvidia after Jensen Huang's return  [NORMAL]
-- Poster: ٹرمپ کی سیاسی قسمت انویڈیا اور جینسن ہوانگ سے جڑ گئی / Trump ties political fortunes to Nvidia | category us_politics
-- Alternative headline: Donald Trump takes victory lap following Jensen Huang's Nvidia return
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business
-- Keywords: Nvidia, Donald Trump, Jensen Huang, AI boom, US politics | hashtags: #Nvidia #DonaldTrump #JensenHuang #AIBoom #USPolitics
-- Scheduled: Wed 25 Nov, 08:59 AM PKT
-- Caption:
-```
-President Donald Trump took a public victory lap after Nvidia brought back former head Jensen Huang, riskily tying his political fortunes to the AI boom.
-
-After AI chipmaker Nvidia announced the return of embattled former head Jensen Huang, President Donald Trump took a public victory lap. Trump claimed credit for the deal and shared an AI-generated image riffing on his 2024 assassination attempt, featuring Huang surrounded by Secret Service guards.
-
-اے آئی چپ بنانے والی کمپنی انویڈیا کے سابق سربراہ جینسن ہوانگ کی واپسی کے بعد صدر ڈونلڈ ٹرمپ نے عوامی سطح پر فتح کا جشن منایا۔ ٹرمپ نے اس ڈیل کا سہرا اپنے سر لیا اور ایک اے آئی سے تیار کردہ تصویر شیئر کی۔
-
-According to BBC Business
-
-#Nvidia #DonaldTrump #JensenHuang #AIBoom #USPolitics
-```
-
-### Zeeshan Ali makes history as Pakistan's first astronaut in orbit  [NORMAL]
-- Poster: ذیشان علی خلا میں پہنچنے والے پہلے پاکستانی خلاباز بن گئے / Zeeshan Ali becomes Pakistan's first astronaut in orbit | category other
-- Alternative headline: Pakistani flag rises into orbit aboard China's Shenzhou-24 spacecraft
+### Bilawal says new provinces only through parliamentary process  [NORMAL]
+- Poster: نئے صوبے صرف پارلیمانی عمل کے ذریعے بن سکتے ہیں: بلاول / New provinces only through parliament: Bilawal | category politics
+- Alternative headline: New provinces possible solely via parliament, asserts Bilawal
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft
-- Supporting coverage: Dawn Latest, Jagonews24, The Nation, ARY News
-- Keywords: Zeeshan Ali, Shenzhou-24, Pakistan astronaut, China space mission, Jiuquan | hashtags: #ZeeshanAli #Shenzhou24 #PakistanInSpace #ChinaSpace #History
-- Scheduled: Wed 25 Nov, 09:09 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUZWS0kyUHB4TGFNU2JLVWlXZW9pREdYNVhpZzl2NUtlam1EWEhiNjU0dmdvQzBYUDRoWEFZVm9vVEZkajZzanZSbTMtLW5ZNEFyWklXTlRNNC1BODFOWDRVUlBhOFROQkFuVjBTNXBoMkFtUVV5N2V0cG1xeDlOaG81MnpFYUFKX1VJLTZ4S1BMd0QtRkRV?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUZWS0kyUHB4TGFNU2JLVWlXZW9pREdYNVhpZzl2NUtlam1EWEhiNjU0dmdvQzBYUDRoWEFZVm9vVEZkajZzanZSbTMtLW5ZNEFyWklXTlRNNC1BODFOWDRVUlBhOFROQkFuVjBTNXBoMkFtUVV5N2V0cG1xeDlOaG81MnpFYUFKX1VJLTZ4S1BMd0QtRkRV?oc=5
+- Supporting coverage: Dawn, Dawn, Dawn Pakistan
+- Keywords: new provinces, Bilawal Bhutto, parliamentary process, PPP, provinces debate | hashtags: #BilawalBhutto #PPP #PakistanPolitics #NationalAssembly
+- Scheduled: Wed 25 Nov, 10:11 AM PKT
 - Caption:
 ```
-Forty-year-old Zeeshan Ali became the first Pakistani astronaut to enter orbit after China's Shenzhou-24 spacecraft successfully lifted off from Jiuquan.
+PPP Chairman Bilawal Bhutto-Zardari has stated that the creation of any new provinces must take place strictly through the constitutional parliamentary process.
 
-Forty-year-old Zeeshan Ali became the first Pakistani astronaut to enter orbit on Wednesday, after China’s Shenzhou-24 spacecraft entered its preset orbit following liftoff from the Jiuquan Satellite Launch Centre using a Long March 2-F rocket.
+PPP Chairman Bilawal Bhutto-Zardari has clarified that the establishment of new provinces in the country can only be achieved through the proper parliamentary process. His remarks come amid ongoing political debates surrounding administrative units.
 
-چالیس سالہ ذیشان علی بدھ کے روز مدار میں داخل ہونے والے پہلے پاکستانی خلاباز بن گئے، جب چین کا شینزو-24 خلائی جہاز لانگ مارچ 2-ایف راکٹ کے ذریعے جیوکوয়ান سیٹلائٹ لانچ سینٹر سے روانہ ہوا۔
+پی پی پی کے چیئرمین بلاول بھutto زرداری نے واضح کیا ہے کہ ملک میں نئے صوبوں کا قیام صرف پارلیمانی عمل کے ذریعے ہی ممکن ہے۔ ان کا یہ بیان انتظامی اکائیوں سے متعلق جاری سیاسی بحث کے دوران سامنے آیا ہے۔
 
-First reported by Dawn Latest; also reported by ARY News
+First reported by Dawn.
 
-#ZeeshanAli #Shenzhou24 #PakistanInSpace #ChinaSpace #History
+#BilawalBhutto #PPP #PakistanPolitics #NationalAssembly
 ```
 
-### Tareen joins political chorus demanding new provinces  [NORMAL]
-- Poster: جہانگیر ترین نے بھی نئے صوبوں کے قیام کی حمایت کر دی / Tareen joins chorus for new provinces | category politics
-- Alternative headline: Jahangir Tareen joins calls for creation of new provinces
+### Commerce Minister Jam Kamal vows to help Balochistan traders  [NORMAL]
+- Poster: وفاقی وزیر جام کمال کا تاجروں کو ہر ممکن تعاون کی یقین دہانی / Jam Kamal vows full support to traders | category economy
+- Alternative headline: Jam Kamal pledges full support for traders community
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE5JeDZWa2txMjlSWkhtSWpYdmFxTlMzdlhHUlhocG5KMEQwT3FxRzk1V1lwck5Hc0Exb3JENVY1UkthYUJfdE5xS1oyczhBMGhELTNLRF9nZXA4RUJDRTRDUm5fODFMUGRLaDBIc1BVQ0tZM0hpQkFhbXh0TQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE5JeDZWa2txMjlSWkhtSWpYdmFxTlMzdlhHUlhocG5KMEQwT3FxRzk1V1lwck5Hc0Exb3JENVY1UkthYUJfdE5xS1oyczhBMGhELTNLRF9nZXA4RUJDRTRDUm5fODFMUGRLaDBIc1BVQ0tZM0hpQkFhbXh0TQ?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMickFVX3lxTE5pLUpMU1BhVGQ0RFJRYjkxY1VDS3FsMGxYSEYwU2NmRU9TbjJkTVhHbHlDTzFGcC1TR3A0ck9IZUtCaW9XQ0JFeFNFbmluN0VLUTJsckppNExlRDh4MWZzOUpha0Eyd2VUQVRvUkh2VnRpdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMickFVX3lxTE5pLUpMU1BhVGQ0RFJRYjkxY1VDS3FsMGxYSEYwU2NmRU9TbjJkTVhHbHlDTzFGcC1TR3A0ck9IZUtCaW9XQ0JFeFNFbmluN0VLUTJsckppNExlRDh4MWZzOUpha0Eyd2VUQVRvUkh2VnRpdw?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: new provinces, Tareen, Pakistan politics, administrative division | hashtags: #NewProvinces #JahangirTareen #PakistanPolitics #Dawn
-- Scheduled: Wed 25 Nov, 09:19 AM PKT
+- Keywords: Jam Kamal, Balochistan traders, commerce minister, business community | hashtags: #JamKamal #Balochistan #Traders #PakistanEconomy
+- Scheduled: Wed 25 Nov, 10:21 AM PKT
 - Caption:
 ```
-Jahangir Tareen has joined the growing political chorus demanding the creation of new provinces in the country.
+Federal Minister for Commerce Jam Kamal has assured traders in Balochistan of his complete support in resolving their business challenges.
 
-Jahangir Tareen has joined the political chorus demanding the creation of new provinces, adding further momentum to the ongoing discussions surrounding administrative division and regional political demands in Pakistan.
+Federal Minister for Commerce Jam Kamal has made a strong commitment to assist the trading community in Balochistan, promising government cooperation to address their key issues and facilitate business activities in the region.
 
-جہانگیر ترین نے نئے صوبوں کے قیام کا مطالبہ کرنے والے سیاستدانوں کی صف میں شمولیت اختیار کر لی ہے، جس سے ملک میں انتظامی تقسیم اور علاقائی مطالبات پر جاری بحث کو مزید تقویت ملی ہے۔
+وفاقی وزیر برائے تجارت جام کمال نے بلوچستان کے تاجروں کی مشکلات حل کرنے اور انہیں ہر ممکن تعاون فراہم کرنے کا عزم ظاہر کیا ہے۔
 
-According to Dawn
+First reported by Dawn.
 
-#NewProvinces #JahangirTareen #PakistanPolitics #Dawn
+#JamKamal #Balochistan #Traders #PakistanEconomy
 ```
 
-### Supreme Court declares Auqaf takeover of private shrine void  [NORMAL]
-- Poster: نجی زمین پر مزار وقف نہیں، اوقاف کا قبضہ کالعدم: سپریم کورٹ / Supreme Court rules Auqaf takeover of private shrine void | category courts
-- Alternative headline: Shrine on private land not waqf, rules Supreme Court
+### World Bank downgrades $150m Punjab education project  [NORMAL]
+- Poster: ورلڈ بینک نے پنجاب کے 150 ملین ڈالر کے تعلیمی منصوبے کا درجہ گھٹا دیا / World Bank downgrades $150m Punjab education project | category economy
+- Alternative headline: $150m Punjab education project downgraded by World Bank
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkJDbThZT2VHSWtYQ1NBQlBpb0JLWE1mcUo4ckowWUM2RGVVZzUtd3dDeVk1c1AwUVJTX2F5OUo5OGJPb1RTNHZlajFPS1pxc2NEclNRcjhiaXdvcUMxNUpMZ2c5MExEWVVja1hsLXpwZWJ6RmlsN2dKZ25RVy13VDB3bG02dWN5VmZWazd0cGJJQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkJDbThZT2VHSWtYQ1NBQlBpb0JLWE1mcUo4ckowWUM2RGVVZzUtd3dDeVk1c1AwUVJTX2F5OUo5OGJPb1RTNHZlajFPS1pxc2NEclNRcjhiaXdvcUMxNUpMZ2c5MExEWVVja1hsLXpwZWJ6RmlsN2dKZ25RVy13VDB3bG02dWN5VmZWazd0cGJJQQ?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTE5tTkhjSlV5Z2lGQUVZOXc4OTdQeDl4RlZNdzVqTy0tNzdTa0FocWJuYm14eldyV0ZZUVdTcUg1RnRaYUNTRlotTXZDRHBQSGFpVThzNzAySy1jdmpjSzZCbndxQ2hvc0FoWlk5ZV9HWm1QRGc0ZnJRMDFHbnVQa0k?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTE5tTkhjSlV5Z2lGQUVZOXc4OTdQeDl4RlZNdzVqTy0tNzdTa0FocWJuYm14eldyV0ZZUVdTcUg1RnRaYUNTRlotTXZDRHBQSGFpVThzNzAySy1jdmpjSzZCbndxQ2hvc0FoWlk5ZV9HWm1QRGc0ZnJRMDFHbnVQa0k?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Punjab education project, World Bank, $150m project, education sector, Punjab | hashtags: #WorldBank #PunjabEducation #Economy #Pakistan
+- Scheduled: Wed 25 Nov, 10:31 AM PKT
+- Caption:
+```
+The World Bank has reportedly downgraded a significant $150 million education sector project in Punjab.
+
+The World Bank has downgraded a $150 million education project in Punjab, raising concerns over implementation and progress. The decision impacts ongoing educational reforms and funding execution in the province.
+
+ورلڈ بینک نے پنجاب میں 150 ملین ڈالر کے تعلیمی منصوبے کا درجہ گھٹا دیا ہے، جس سے صوبے میں تعلیمی اصلاحات پر عمل درآمد کے حوالے سے خدشات پیدا ہو گئے ہیں۔
+
+First reported by Dawn.
+
+#WorldBank #PunjabEducation #Economy #Pakistan
+```
+
+### Communications minister orders early completion of projects in KP  [NORMAL]
+- Poster: وفاقی وزیر مواصلات کی خیبر پختونخوا میں منصوبے جلد مکمل کرنے کی ہدایت / Early completion of KP projects ordered | category other
+- Alternative headline: KP development projects to be completed early, orders minister
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTFBOZThqLUF4QkxfLTRNTGE0bEdfaXpDRTRtZkhfZ1NER0tJNmtwUXpqaS1wdWhUMFBMVkVDREFXY2RnQkpxMmxQLWs1M1VEYmZHc21tc2FHMWthTkxRQnlkUFdlUlRBMUxsWU02YnliWGRENkRwV2JGb2pB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTFBOZThqLUF4QkxfLTRNTGE0bEdfaXpDRTRtZkhfZ1NER0tJNmtwUXpqaS1wdWhUMFBMVkVDREFXY2RnQkpxMmxQLWs1M1VEYmZHc21tc2FHMWthTkxRQnlkUFdlUlRBMUxsWU02YnliWGRENkRwV2JGb2pB?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Supreme Court, Auqaf takeover, shrine, private land, waqf | hashtags: #SupremeCourt #AuqafDepartment #PakistanCourts #LegalNews
-- Scheduled: Wed 25 Nov, 09:29 AM PKT
+- Keywords: KP projects, communications minister, early completion, Khyber Pakhtunkhwa, development | hashtags: #KhyberPakhtunkhwa #DevelopmentProjects #Pakistan
+- Scheduled: Wed 25 Nov, 10:41 AM PKT
 - Caption:
 ```
-The Supreme Court has ruled that a shrine located on private land does not constitute waqf property, declaring its Auqaf takeover void.
+The communications minister has directed authorities to ensure the swift and early completion of development projects across Khyber Pakhtunkhwa.
 
-The Supreme Court has ruled that a shrine situated on private land is not considered waqf property, thereby declaring the official Auqaf department takeover of the site to be completely void.
+The communications minister has issued strict directives for the early completion of ongoing development projects in Khyber Pakhtunkhwa, emphasizing timely execution and adherence to quality standards.
 
-سپریم کورٹ نے فیصلہ دیا ہے کہ نجی زمین پر واقع مزار وقف جائیداد نہیں ہے، اور اس بنیاد پر محکمہ اوقاف کا اس مزار پر قبضہ کالعدم قرار دے دیا ہے۔
+وزیر مواصلات نے خیبر پختونخوا میں جاری ترقیاتی منصوبوں کی جلد از جلد تکمیل کی سخت ہدایت جاری کی ہے تاکہ عوام کو بروقت سہولیات مل سکیں۔
 
-According to Dawn
+First reported by Dawn.
 
-#SupremeCourt #AuqafDepartment #PakistanCourts #LegalNews
+#KhyberPakhtunkhwa #DevelopmentProjects #Pakistan
 ```
 
-### Trump says Iran war funded through January, warns Democrats  [NORMAL]
-- Poster: ٹرامک کا دعویٰ، جنوری تک ایران جنگ کی فنڈنگ موجود ہے / Trump says Iran war funded through January | category war
-- Alternative headline: Trump warns Democrats against halting Iran war funded through January
+### Three held, illegal heavy weapons seized in Gilgit  [NORMAL]
+- Poster: گلگت میں کارروائی، تین ملزمان گرفتار اور بھاری غیر قانونی اسلحہ برآمد / Three arrested, heavy weapons seized in Gilgit | category crime
+- Alternative headline: Illegal heavy weapons seized in Gilgit; three suspects arrested
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0w0bmc1MmF5ZjNaWGtkcXBXWGxrMmpfZXFlTWJwc2Fhd3o2N0ZrbFFIS2N4akNlLW1acnAtQmtrT19COHNxRE5ONEFaTUVCU0NmQ0FHczNJZG1MRXFESW1sbmw1TmFQVWtsSkdnRnU4M1hWN3N3b1FWcXBQaFNja3ZYejNBeGM3dmUtR0NKUmlQREM4UjRyR2xZbWJLYjZEQTFVZFh2WUY?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0w0bmc1MmF5ZjNaWGtkcXBXWGxrMmpfZXFlTWJwc2Fhd3o2N0ZrbFFIS2N4akNlLW1acnAtQmtrT19COHNxRE5ONEFaTUVCU0NmQ0FHczNJZG1MRXFESW1sbmw1TmFQVWtsSkdnRnU4M1hWN3N3b1FWcXBQaFNja3ZYejNBeGM3dmUtR0NKUmlQREM4UjRyR2xZbWJLYjZEQTFVZFh2WUY?oc=5
-- Supporting coverage: New York Post, Dawn
-- Keywords: Iran war, Donald Trump, Democrats, Israel, Tehran regime change | hashtags: #DonaldTrump #IranWar #USPolitics #MiddleEast #Democrats
-- Scheduled: Wed 25 Nov, 09:39 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZThrYm5HYTUwcFh3ZElZUnVHY2xPa2pCQU5HS0o1d2JTVEd5Y1F4N1lVVGlFb1h1SXEzUWZsczhiN0ZpVVhmQXV1dXNwdmhKNmFDYkRJZ1dBWEtZOVdzZHBXWGJZR0NGdjg1ZjFJeXplSi00TXI2UmlZRURxaU4xMlI0cnVMdHJZaDlN?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZThrYm5HYTUwcFh3ZElZUnVHY2xPa2pCQU5HS0o1d2JTVEd5Y1F4N1lVVGlFb1h1SXEzUWZsczhiN0ZpVVhmQXV1dXNwdmhKNmFDYkRJZ1dBWEtZOVdzZHBXWGJZR0NGdjg1ZjFJeXplSi00TXI2UmlZRURxaU4xMlI0cnVMdHJZaDlN?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: weapons seized, Gilgit, arrests, illegal weapons, security operation | hashtags: #Gilgit #SecurityOperation #LawAndOrder #Pakistan
+- Scheduled: Wed 25 Nov, 10:51 AM PKT
 - Caption:
 ```
-President Donald Trump stated that the war against Iran is funded through January and warned Democrats against attempting to halt operations.
+Security forces have arrested three suspects and recovered a cache of illegal heavy weapons during an operation in Gilgit.
 
-President Donald Trump announced that military operations regarding the Iran war are fully funded through January and issued a stern warning to Democrats against attempting to halt the ongoing campaign, while also addressing Israel's regional goals.
+Police and security personnel arrested three individuals during a targeted operation in Gilgit, seizing a substantial cache of illegal heavy weapons. An investigation into the suspects' network is currently underway.
 
-صدر ڈونلڈ ٹرمپ نے اعلان کیا ہے کہ ایران کے خلاف جنگ جنوری تک فنڈ شدہ ہے اور انہوں نے ڈیموکریٹس کو خبردار کیا ہے کہ وہ اس مہم کو روکنے کی کوشش نہ کریں۔
+گلگت میں سکیورٹی فورسز نے کارروائی کرتے ہوئے تین افراد کو گرفتار کر لیا اور ان کے قبضے سے بھاری غیر قانونی اسلحہ برآمد کر لیا ہے۔
 
-First reported by Dawn; also reported by New York Post
+First reported by Dawn.
 
-#DonaldTrump #IranWar #USPolitics #MiddleEast #Democrats
+#Gilgit #SecurityOperation #LawAndOrder #Pakistan
 ```
 
-### WHO chief urges end to US fuel blockade on Cuba  [NORMAL]
-- Poster: ڈبلیو ایچ او کے سربراہ کا کیوبا پر امریکی ایندھن کی ناکہ بندی ختم کرنے کا مطالبہ / WHO chief urges end to US fuel blockade on Cuba | category world
-- Alternative headline: WHO chief calls for lifting US fuel blockade amid Cuban shortages
+### Business confidence plunges: OICCI  [NORMAL]
+- Poster: کاروباری اعتماد میں بڑی گراوٹ: او آئی سی سی آئی / Business confidence plunges: OICCI | category economy
+- Alternative headline: OICCI reports sharp decline in business confidence across Pakistan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: WHO chief, Cuba, US fuel blockade, healthcare shortages, UN | hashtags: #WHO #Cuba #USBlockade #GlobalHealth #UnitedNations
-- Scheduled: Wed 25 Nov, 09:49 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE1QWEVkMktubURyZTVwVERjWHR0emFsTjM5dlpmTm9hVExkb1hrMmRIRm1Fel9OSFFIX0gzY29rQ1B0eEowcWIwYTVZTEFVd2ExcnVrVVJfNzVjWncxR2NpTlJGT3JSMWNNdEwxSFBqUnF0RzFwMVE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMidkFVX3lxTE1QWEVkMktubURyZTVwVERjWHR0emFsTjM5dlpmTm9hVExkb1hrMmRIRm1Fel9OSFFIX0gzY29rQ1B0eEowcWIwYTVZTEFVd2ExcnVrVVJfNzVjWncxR2NpTlJGT3JSMWNNdEwxSFBqUnF0RzFwMVE?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: business confidence, OICCI, investors, economy, decline | hashtags: #OICCI #BusinessConfidence #PakistanEconomy #Investment
+- Scheduled: Wed 25 Nov, 11:01 AM PKT
 - Caption:
 ```
-The head of the WHO has called for an end to the US fuel blockade on Cuba as the nation's healthcare system faces critical shortages.
+The Overseas Investors Chamber of Commerce and Industry (OICCI) has reported a significant drop in business confidence in Pakistan.
 
-The World Health Organization chief has urged an immediate end to the US fuel blockade on Cuba, as the country's healthcare system struggles with critical shortages. Meanwhile, the UN has allocated $2m for immunisation and medical equipment.
+According to the Overseas Investors Chamber of Commerce and Industry (OICCI), business confidence in Pakistan has suffered a sharp decline, reflecting ongoing economic challenges and concerns among investors regarding market conditions.
 
-عالمی ادارہ صحت کے سربراہ نے کیوبا پر امریکی ایندھن کی ناکہ بندی فوری طور پر ختم کرنے کا مطالبہ کیا ہے کیونکہ ملک کا صحت کا نظام شدید قلت کا شکار ہے۔ دریں اثنا، اقوام متحدہ نے 2 ملین ڈالر مختص کیے ہیں۔
+اوورسیز انویسٹرز چیمبر آف کامرس اینڈ انڈسٹری (او آئی سی سی آئی) کے مطابق پاکستان میں کاروباری اعتماد میں نمایاں کمی واقع ہوئی ہے جو کہ معاشی چیلنجز کی عکاسی کرتی ہے۔
 
-According to Al Jazeera
+First reported by Dawn.
 
-#WHO #Cuba #USBlockade #GlobalHealth #UnitedNations
+#OICCI #BusinessConfidence #PakistanEconomy #Investment
 ```
 
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
 
 ## Queue status
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
-- [needs_review] normal | Jair Bolsonaro Admitted to Intensive Care With Bowel Obstruction | Sun 22 Nov, 02:47 AM PKT
-- [needs_review] normal | Mexico Captures FBI Most Wanted Drug Kingpin in Dramatic Raid | Sun 22 Nov, 02:57 AM PKT
-- [needs_review] normal | Thousands Protest Across Europe Over Soaring Living Costs and Housing | Sun 22 Nov, 03:07 AM PKT
 - [needs_review] normal | AOC challenged by activist over Democratic leadership's AIPAC ties | Sun 22 Nov, 03:36 AM PKT
 - [needs_review] normal | Bahrain reports industrial facility fire following Iranian attack | Sun 22 Nov, 03:46 AM PKT
 - [needs_review] normal | George Washington's Framed Lock of Hair Sells for $4,000 at Auction | Sun 22 Nov, 04:13 AM PKT
@@ -208,8 +208,6 @@ According to Al Jazeera
 - [needs_review] normal | Iran War Live: Iran Targets US Bases in Bahrain as Houthi Strikes Cont | Sun 22 Nov, 06:19 AM PKT
 - [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 07:20 AM PKT
 - [needs_review] normal | UN Member States Agree To Formal Talks On Killer Robots | Sun 22 Nov, 07:30 AM PKT
-- [published] normal | Sindh Seeks French Help and Technology to Restore Manchhar Lake | Sun 22 Nov, 09:18 AM PKT
-- [published] normal | Russian Cargo Ship Ablaze in Baltic Sea After Suspected Drone Strike | Sun 22 Nov, 09:28 AM PKT
 - [needs_review] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
 - [needs_review] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
 - [published] normal | Iran faces a silent economic war, says Iranian president | Sun 22 Nov, 11:24 AM PKT
@@ -368,7 +366,7 @@ According to Al Jazeera
 - [published] normal | Huawei found guilty of stealing trade secrets in US trial | Wed 25 Nov, 05:41 AM PKT
 - [published] normal | Arsenal and Borussia Dortmund draw 1-1 in Champions League | Wed 25 Nov, 05:51 AM PKT
 - [published] normal | Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show | Wed 25 Nov, 06:01 AM PKT
-- [queued] normal | Pakistan strongly condemns Houthi attack on Riyadh tower | Wed 25 Nov, 06:11 AM PKT
+- [published] normal | Pakistan strongly condemns Houthi attack on Riyadh tower | Wed 25 Nov, 06:11 AM PKT
 - [queued] normal | Israel’s Eisenkot secures first coalition partner in bid to form gover | Wed 25 Nov, 06:58 AM PKT
 - [queued] normal | Inflation projected at 9.8% as food prices bite | Wed 25 Nov, 07:08 AM PKT
 - [queued] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
@@ -387,12 +385,18 @@ According to Al Jazeera
 - [queued] normal | Supreme Court declares Auqaf takeover of private shrine void | Wed 25 Nov, 09:29 AM PKT
 - [queued] normal | Trump says Iran war funded through January, warns Democrats | Wed 25 Nov, 09:39 AM PKT
 - [queued] normal | WHO chief urges end to US fuel blockade on Cuba | Wed 25 Nov, 09:49 AM PKT
+- [queued] normal | Bilawal says new provinces only through parliamentary process | Wed 25 Nov, 10:11 AM PKT
+- [queued] normal | Commerce Minister Jam Kamal vows to help Balochistan traders | Wed 25 Nov, 10:21 AM PKT
+- [queued] normal | World Bank downgrades $150m Punjab education project | Wed 25 Nov, 10:31 AM PKT
+- [queued] normal | Communications minister orders early completion of projects in KP | Wed 25 Nov, 10:41 AM PKT
+- [queued] normal | Three held, illegal heavy weapons seized in Gilgit | Wed 25 Nov, 10:51 AM PKT
+- [queued] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
 
 ## Publishing this run
-- Published 'Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show'.
+- Published 'Pakistan strongly condemns Houthi attack on Riyadh tower'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 6880 | output tokens: 3111
+- Calls: 2 | prompt tokens: 4853 | output tokens: 3090
 - Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {

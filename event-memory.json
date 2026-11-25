@@ -149391,7 +149391,753 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9e9a46f7616ae2b7e6027fa3",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T01:42:14+00:00",
+      "last_update": "2026-11-25T04:11:05+00:00",
+      "event": "Jam Kamal vows to help traders",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "help",
+        "jam",
+        "kamal",
+        "traders",
+        "vows"
+      ],
+      "source_excerpt": "Jam Kamal vows to help traders Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pLUpMU1BhVGQ0RFJRYjkxY1VDS3FsMGxYSEYwU2NmRU9TbjJkTVhHbHlDTzFGcC1TR3A0ck9IZUtCaW9XQ0JFeFNFbmluN0VLUTJsckppNExlRDh4MWZzOUpha0Eyd2VUQVRvUkh2VnRpdw?oc=5",
+          "published_at": "2026-11-25T01:42:14+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046960/commerce-minister-jam-kamal-vows-to-help-balochistan-traders",
+          "published_at": "2026-11-25T04:11:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pLUpMU1BhVGQ0RFJRYjkxY1VDS3FsMGxYSEYwU2NmRU9TbjJkTVhHbHlDTzFGcC1TR3A0ck9IZUtCaW9XQ0JFeFNFbmluN0VLUTJsckppNExlRDh4MWZzOUpha0Eyd2VUQVRvUkh2VnRpdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d7e2176f63f324cbc86bace2",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T01:42:14+00:00",
+      "last_update": "2026-11-25T04:17:22+00:00",
+      "event": "Early completion of projects ordered",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "completion",
+        "dawn",
+        "early",
+        "ordered",
+        "projects"
+      ],
+      "source_excerpt": "Early completion of projects ordered Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOZThqLUF4QkxfLTRNTGE0bEdfaXpDRTRtZkhfZ1NER0tJNmtwUXpqaS1wdWhUMFBMVkVDREFXY2RnQkpxMmxQLWs1M1VEYmZHc21tc2FHMWthTkxRQnlkUFdlUlRBMUxsWU02YnliWGRENkRwV2JGb2pB?oc=5",
+          "published_at": "2026-11-25T01:42:14+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046962/communications-minister-orders-early-completion-of-projects-in-kp",
+          "published_at": "2026-11-25T04:17:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOZThqLUF4QkxfLTRNTGE0bEdfaXpDRTRtZkhfZ1NER0tJNmtwUXpqaS1wdWhUMFBMVkVDREFXY2RnQkpxMmxQLWs1M1VEYmZHc21tc2FHMWthTkxRQnlkUFdlUlRBMUxsWU02YnliWGRENkRwV2JGb2pB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b491573334ac1aa85d4079ce",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T01:42:14+00:00",
+      "last_update": "2026-11-25T03:59:54+00:00",
+      "event": "Three held; illegal heavy weapons seized in Gilgit",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "gilgit",
+        "heavy",
+        "held",
+        "illegal",
+        "seized",
+        "three",
+        "weapons"
+      ],
+      "source_excerpt": "Three held; illegal heavy weapons seized in Gilgit Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZThrYm5HYTUwcFh3ZElZUnVHY2xPa2pCQU5HS0o1d2JTVEd5Y1F4N1lVVGlFb1h1SXEzUWZsczhiN0ZpVVhmQXV1dXNwdmhKNmFDYkRJZ1dBWEtZOVdzZHBXWGJZR0NGdjg1ZjFJeXplSi00TXI2UmlZRURxaU4xMlI0cnVMdHJZaDlN?oc=5",
+          "published_at": "2026-11-25T01:42:14+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046868/three-held-illegal-heavy-weapons-seized-in-gilgit",
+          "published_at": "2026-11-25T03:59:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZThrYm5HYTUwcFh3ZElZUnVHY2xPa2pCQU5HS0o1d2JTVEd5Y1F4N1lVVGlFb1h1SXEzUWZsczhiN0ZpVVhmQXV1dXNwdmhKNmFDYkRJZ1dBWEtZOVdzZHBXWGJZR0NGdjg1ZjFJeXplSi00TXI2UmlZRURxaU4xMlI0cnVMdHJZaDlN?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7c47e4bfbea6c1e21a1583f9",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T01:45:40+00:00",
+      "last_update": "2026-11-25T04:40:54+00:00",
+      "event": "Business confidence plunges: OICCI",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "business",
+        "confidence",
+        "dawn",
+        "oicci",
+        "plunges"
+      ],
+      "source_excerpt": "Business confidence plunges: OICCI Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QWEVkMktubURyZTVwVERjWHR0emFsTjM5dlpmTm9hVExkb1hrMmRIRm1Fel9OSFFIX0gzY29rQ1B0eEowcWIwYTVZTEFVd2ExcnVrVVJfNzVjWncxR2NpTlJGT3JSMWNNdEwxSFBqUnF0RzFwMVE?oc=5",
+          "published_at": "2026-11-25T01:45:40+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046862/business-confidence-plunges-oicci",
+          "published_at": "2026-11-25T04:40:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QWEVkMktubURyZTVwVERjWHR0emFsTjM5dlpmTm9hVExkb1hrMmRIRm1Fel9OSFFIX0gzY29rQ1B0eEowcWIwYTVZTEFVd2ExcnVrVVJfNzVjWncxR2NpTlJGT3JSMWNNdEwxSFBqUnF0RzFwMVE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "05508a8885a4bf45604d6cb8",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T02:06:37+00:00",
+      "last_update": "2026-11-25T05:00:18+00:00",
+      "event": "Bilawal says new provinces only thru parliamentary process",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bilawal",
+        "dawn",
+        "new",
+        "only",
+        "parliamentary",
+        "process",
+        "provinces",
+        "says",
+        "thru"
+      ],
+      "source_excerpt": "Bilawal says new provinces only thru parliamentary process Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUZWS0kyUHB4TGFNU2JLVWlXZW9pREdYNVhpZzl2NUtlam1EWEhiNjU0dmdvQzBYUDRoWEFZVm9vVEZkajZzanZSbTMtLW5ZNEFyWklXTlRNNC1BODFOWDRVUlBhOFROQkFuVjBTNXBoMkFtUVV5N2V0cG1xeDlOaG81MnpFYUFKX1VJLTZ4S1BMd0QtRkRV?oc=5",
+          "published_at": "2026-11-25T02:06:37+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdkpPOGtlRllqSjBiYndwVFRucE5OczdONkpYVXJ6cFoyeldfWGJzVkk0R1ZSTDd4NUYyWWJvQTNXSktFeDVGellEbWVmU3JYLVgtbEFiZWpMaUNwTWYwcmN4R2N2ZEFfWE90REtMN0cyY1R1QVJSMDc1bTJWbGhiRWdnTEFockk1ZnFZZnYxVmFzZ0VsVmFmMkFIQQ?oc=5",
+          "published_at": "2026-11-25T05:00:18+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046883/bilawal-says-new-provinces-only-through-parliamentary-process",
+          "published_at": "2026-11-25T05:00:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUZWS0kyUHB4TGFNU2JLVWlXZW9pREdYNVhpZzl2NUtlam1EWEhiNjU0dmdvQzBYUDRoWEFZVm9vVEZkajZzanZSbTMtLW5ZNEFyWklXTlRNNC1BODFOWDRVUlBhOFROQkFuVjBTNXBoMkFtUVV5N2V0cG1xeDlOaG81MnpFYUFKX1VJLTZ4S1BMd0QtRkRV?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "93e00bb4dba1713961269c35",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T05:01:20+00:00",
+      "last_update": "2026-11-25T05:01:20+00:00",
+      "event": "Karachi Safe City cameras help trace over 1,600 vehicles, arrest 84 wanted suspects, meeting told",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "600",
+        "ali",
+        "and",
+        "arrest",
+        "authority",
+        "better",
+        "cameras",
+        "capacity",
+        "chief",
+        "cit",
+        "cities",
+        "city",
+        "directed",
+        "effective",
+        "ensuring",
+        "for",
+        "has",
+        "help",
+        "into",
+        "karachi",
+        "kscp",
+        "meeting",
+        "minister",
+        "modern",
+        "murad",
+        "operational",
+        "over",
+        "policing",
+        "project",
+        "protection",
+        "safe",
+        "safer",
+        "shah",
+        "sindh",
+        "ssca",
+        "streets",
+        "strengthen",
+        "surveillance",
+        "suspects",
+        "syed",
+        "technology",
+        "that",
+        "the",
+        "told",
+        "trace",
+        "translates",
+        "vehicles",
+        "wanted"
+      ],
+      "source_excerpt": "KARACHI: Chief Minister Syed Murad Ali Shah has directed the Sindh Safe Cities Authority (SSCA) to strengthen the operational capacity of the Karachi Safe City Project (KSCP), ensuring that modern surveillance technology translates into safer streets, effective policing and better protection for cit",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046903/karachi-safe-city-cameras-help-trace-over-1600-vehicles-arrest-84-wanted-suspects-meeting-told",
+          "published_at": "2026-11-25T05:01:20+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3N6SW1ubWRPenBFWDVJdEFQLUlTV1J3eWk1WlJGMFdDY3c3cjBYQkw3VG15NEZHcWlWTDhXdzNtbWNXeEUtUXlzYVp3cGVSZGI3XzFJbHY0X3hQTFdjc2hzak1vYjg0RkVLY3RidlJrcFd0Mmk5c3JzTzhTN1RtSkxlSGJ3RG1aOVdwcTZnTXZWVG5GOS0tTV92VlhtZDZHR3hlbEZ4cTltX0FiZDNpZmEzeFNoTjNRcmw4cQ?oc=5",
+          "published_at": "2026-11-25T05:01:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046903/karachi-safe-city-cameras-help-trace-over-1600-vehicles-arrest-84-wanted-suspects-meeting-told",
+        "publisher_url": "https://www.dawn.com/news/2046903/karachi-safe-city-cameras-help-trace-over-1600-vehicles-arrest-84-wanted-suspects-meeting-told",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7eac7baaaffe7bde8cb72e7d",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T04:31:00+00:00",
+      "last_update": "2026-11-25T04:31:00+00:00",
+      "event": "'Dancing With the Stars' season 35 winner announced after tense finale",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "announced",
+        "dancing",
+        "finale",
+        "international",
+        "news",
+        "season",
+        "stars",
+        "tense",
+        "the",
+        "winner",
+        "with"
+      ],
+      "source_excerpt": "'Dancing With the Stars' season 35 winner announced after tense finale The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2FqM09oVDZsWHg0dm5BY0dwcUtBdW1wSHRaQ2tXNzVsbnBGLVcyMmllOHRBdkpVenoxS3NlMmNrODhnYjl4OU1rRUNNaEhCZWtqVXFhZ2JJRFJzQzl4alV3bmViSFRMYVpCSF9KSFREZmhLNkJSWmVBSkZCb19hbDR3Q09Qa3FlVFpSeEEtNFcyMnB0OWMwd3lLcmhEQ2wyU041NlJpSGx1OFnSAasBQVVfeXFMTkthajNPaFQ2bFh4NHZuQWNHcHFLQXVtcEh0WkNrVzc1bG5wRi1XMjJpZTh0QXZKVXp6MUtzZTJjazg4Z2I5eDlNa0VDTWhIQmVralVxYWdiSURSc0M5eGpVd25lYkhUTGFaQkhfSkhURGZoSzZCUlplQUpGQm9fYWw0d0NPUGtxZVRaUnhBLTRXMjJwdDljMHd5S3JoRENsMlNONTZSaUhsdThZ?oc=5",
+          "published_at": "2026-11-25T04:31:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2FqM09oVDZsWHg0dm5BY0dwcUtBdW1wSHRaQ2tXNzVsbnBGLVcyMmllOHRBdkpVenoxS3NlMmNrODhnYjl4OU1rRUNNaEhCZWtqVXFhZ2JJRFJzQzl4alV3bmViSFRMYVpCSF9KSFREZmhLNkJSWmVBSkZCb19hbDR3Q09Qa3FlVFpSeEEtNFcyMnB0OWMwd3lLcmhEQ2wyU041NlJpSGx1OFnSAasBQVVfeXFMTkthajNPaFQ2bFh4NHZuQWNHcHFLQXVtcEh0WkNrVzc1bG5wRi1XMjJpZTh0QXZKVXp6MUtzZTJjazg4Z2I5eDlNa0VDTWhIQmVralVxYWdiSURSc0M5eGpVd25lYkhUTGFaQkhfSkhURGZoSzZCUlplQUpGQm9fYWw0d0NPUGtxZVRaUnhBLTRXMjJwdDljMHd5S3JoRENsMlNONTZSaUhsdThZ?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "11f15d028ce5b86ec3cacf6c",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T04:27:10+00:00",
+      "last_update": "2026-11-25T04:27:10+00:00",
+      "event": "Protesters clash with police over Venezuela’s poor minimum wage",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "clash",
+        "clashing",
+        "labour",
+        "minimum",
+        "near",
+        "organisers",
+        "over",
+        "palace",
+        "police",
+        "poor",
+        "presidential",
+        "protesters",
+        "shared",
+        "venezuela",
+        "videos",
+        "violently",
+        "wage",
+        "with"
+      ],
+      "source_excerpt": "Labour organisers shared videos of police violently clashing with protesters near Venezuela’s presidential palace.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
+          "published_at": "2026-11-25T04:27:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "078a384828f8540c1374aebc",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T04:13:58+00:00",
+      "last_update": "2026-11-25T04:13:58+00:00",
+      "event": "Israeli strike kills four people in Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airstrike",
+        "apartment",
+        "building",
+        "camp",
+        "four",
+        "gaza",
+        "has",
+        "israeli",
+        "killed",
+        "kills",
+        "least",
+        "people",
+        "refugee",
+        "shati",
+        "strike",
+        "the"
+      ],
+      "source_excerpt": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+          "published_at": "2026-11-25T04:13:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9d06e60851f4775e91fd4192",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T04:12:11+00:00",
+      "last_update": "2026-11-25T04:12:11+00:00",
+      "event": "Galatasaray says Israel complained to UEFA over Palestine banners",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "banners",
+        "chairman",
+        "club",
+        "complained",
+        "fan",
+        "galatasaray",
+        "government",
+        "has",
+        "israel",
+        "netanyahu",
+        "over",
+        "palestine",
+        "pro",
+        "reported",
+        "says",
+        "the",
+        "uefa"
+      ],
+      "source_excerpt": "Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
+          "published_at": "2026-11-25T04:12:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b46b375b2abb4071433d25f3",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T04:49:55+00:00",
+      "last_update": "2026-11-25T04:49:55+00:00",
+      "event": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agenda",
+        "and",
+        "battle",
+        "became",
+        "brego",
+        "debate",
+        "deportation",
+        "donald",
+        "ending",
+        "flash",
+        "for",
+        "garc",
+        "his",
+        "immigration",
+        "kilmar",
+        "leaving",
+        "over",
+        "point",
+        "president",
+        "return",
+        "salvador",
+        "spain",
+        "the",
+        "trump"
+      ],
+      "source_excerpt": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T04:49:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6e4e364690aea58373bb894d",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T04:17:00+00:00",
+      "last_update": "2026-11-25T04:17:00+00:00",
+      "event": "China's Huawei says US conviction 'without legal or factual merit'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "china",
+        "conviction",
+        "factual",
+        "huawei",
+        "legal",
+        "merit",
+        "says",
+        "without"
+      ],
+      "source_excerpt": "China's Huawei says US conviction 'without legal or factual merit' ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjVWWTVwbHdLSEx3aHpvRlJpOVFMV01Ma3d4bXlnM1JmWkNKSFpOZTkxY2ZXclVkOTM4UWpSNkkzemF2dFh4VjNsVlQxX1I2M2FJLVdpWDJqZGlSQ05tSjJtNHRHS3g2LV9aWGdqLTctUlhMeVBvb3R4LVRHY09SVjBOano4elNjZnVB?oc=5",
+          "published_at": "2026-11-25T04:17:00+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/chinas-huawei-says-us-conviction-without-legal-or-factual-merit",
+          "published_at": "2026-11-25T04:17:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjVWWTVwbHdLSEx3aHpvRlJpOVFMV01Ma3d4bXlnM1JmWkNKSFpOZTkxY2ZXclVkOTM4UWpSNkkzemF2dFh4VjNsVlQxX1I2M2FJLVdpWDJqZGlSQ05tSjJtNHRHS3g2LV9aWGdqLTctUlhMeVBvb3R4LVRHY09SVjBOano4elNjZnVB?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0544b5b4a14029924407c865",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T05:03:26+00:00",
+      "last_update": "2026-11-25T05:03:26+00:00",
+      "event": "Uproar in Punjab Assembly over dead farmers nominated in water theft case",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046882",
+        "assembly",
+        "case",
+        "com",
+        "dawn",
+        "dead",
+        "farmers",
+        "https",
+        "news",
+        "nominated",
+        "over",
+        "punjab",
+        "theft",
+        "uproar",
+        "water",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046882",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046965/uproar-in-punjab-assembly-over-dead-farmers-nominated-in-water-theft-case",
+          "published_at": "2026-11-25T05:03:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046965/uproar-in-punjab-assembly-over-dead-farmers-nominated-in-water-theft-case",
+        "publisher_url": "https://www.dawn.com/news/2046965/uproar-in-punjab-assembly-over-dead-farmers-nominated-in-water-theft-case",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a9d43dc0cea9d254a73910d",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T04:13:14+00:00",
+      "last_update": "2026-11-25T04:13:14+00:00",
+      "event": "Will everyone be able to pay in a cashless Islamabad?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046934",
+        "able",
+        "cashless",
+        "com",
+        "dawn",
+        "everyone",
+        "https",
+        "islamabad",
+        "news",
+        "pay",
+        "will",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046934",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046961/will-everyone-be-able-to-pay-in-a-cashless-islamabad",
+          "published_at": "2026-11-25T04:13:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046961/will-everyone-be-able-to-pay-in-a-cashless-islamabad",
+        "publisher_url": "https://www.dawn.com/news/2046961/will-everyone-be-able-to-pay-in-a-cashless-islamabad",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c7cd7f41ec241f32c38e14db",
+      "remembered_at": "2026-11-25T05:11:06.348803+00:00",
+      "event_date": "2026-11-25T04:54:50+00:00",
+      "last_update": "2026-11-25T04:54:50+00:00",
+      "event": "Peshawar administration plans crackdown on illegal rickshaws",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "crackdown",
+        "illegal",
+        "peshawar",
+        "plans",
+        "rickshaws"
+      ],
+      "source_excerpt": "Peshawar administration plans crackdown on illegal rickshaws",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/peshawar-administration-plans-crackdown-on-illegal-rickshaws",
+          "published_at": "2026-11-25T04:54:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/peshawar-administration-plans-crackdown-on-illegal-rickshaws",
+        "publisher_url": "https://arynews.tv/peshawar-administration-plans-crackdown-on-illegal-rickshaws",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T03:59:26.789360+00:00"
+  "updated_at": "2026-11-25T05:11:06.348803+00:00"
 }
