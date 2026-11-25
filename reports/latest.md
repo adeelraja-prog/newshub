@@ -1,35 +1,36 @@
-# News Hub report - Wed 25 Nov, 04:23 PM PKT
+# News Hub report - Wed 25 Nov, 05:34 PM PKT
 
 ## Collection
-- New items this run: 95 | items in rolling pool: 681
-- Unique story clusters: 572 (duplicates merged: 109)
-- Clusters dropped as already published/queued: 10; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 20, ProPakistani 9, Geo News 8, samaa tv 6, Al Jazeera 6, Dunya News 5, ARY News 5, Wired 5, The News International 4, AP News 4, TechJuice 4, PhoneWorld 3
+- New items this run: 126 | items in rolling pool: 768
+- Unique story clusters: 642 (duplicates merged: 126)
+- Clusters dropped as already published/queued: 13; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 55, ProPakistani 10, Al Jazeera 8, samaa tv 6, ARY News 6, Geo News 5, TechJuice 5, Wired 4, BBC World 4, Dawn 3, Dawn Latest 3, The Express Tribune 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja Shorts: MAULANA FAZLUR REHMAN: IS THIS THE PRICE OF POWER POLITICS? | https://www.youtube.com/watch?v=K7LFc64EkGs
 
 ## Top 5 most important
-- Could Netanyahu take Israel into another war with Iran to cling to power? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB okays $250m loan for Pakistan to boost private investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strike kills Hamas official, his wife and children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Could Netanyahu take Israel into another war with Iran to cling to power? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB okays $250m loan for Pakistan to boost private investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strike kills Hamas official, his wife and children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Could Netanyahu take Israel into another war with Iran to cling to power? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB okays $250m loan for Pakistan to boost private investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strike kills Hamas official, his wife and children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fatima Sana-led Pakistan squad announced for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,157 +40,132 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Could Netanyahu trigger a wider war with Iran to cling to power?  [NORMAL]
-- Poster: کیا نیتن یاہو اقتدار بچانے کے لیے ایران سے جنگ چھیڑیں گے؟ / Could Netanyahu trigger war with Iran to cling to power? | category politics
-- Alternative headline: Trump signals narrowing window for regional strikes against Iran
+### Pakistan and China Agree on G2G Fuel Storage and Terminal Deals  [NORMAL]
+- Poster: پاکستان اور چین کے درمیان فیول اسٹورج اور ٹرمینل معاہدے طے / Pakistan, China Agree on Fuel Storage Deals | category politics
+- Alternative headline: Islamabad and Beijing Forge New Energy Partnership for Fuel Security
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2046979/pakistan-china-agree-on-government-to-government-arrangements-for-fuel-storage-terminal-facilities | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2046979/pakistan-china-agree-on-government-to-government-arrangements-for-fuel-storage-terminal-facilities
+- Supporting coverage: Dawn Pakistan, Investify
+- Keywords: fuel storage, Pakistan China energy, LPG plant, Ali Pervaiz Malik, motor gasoline, PSO | hashtags: #PakistanChina #EnergySector #PetroleumDivision #G2GDeal #Islamabad
+- Scheduled: Wed 25 Nov, 05:34 PM PKT
+- Caption:
+```
+Pakistan and China have agreed to pursue government-to-government arrangements for Chinese investment in petrol and LPG storage and terminal facilities.
+
+Pakistan and China agreed on Wednesday to pursue government-to-government arrangements for Chinese investment in petrol and liquefied petroleum gas storage and terminal facilities. Petroleum Minister Ali Pervaiz Malik and PSO CEO Jawwad Ahmed Cheema met Chinese Ambassador Jiang Zaidong to finalize priorities, including an LPG plant and motor gasoline imports.
+
+پاکستان اور چین نے بدھ کے روز پیٹرول اور ایل پی جی کی اسٹورج اور ٹرمینل کی سہولیات کے لیے جی ٹو جی بنیادوں پر تعاون پر اتفاق کیا۔ پیٹرولیم کے وزیر علی پرویز ملک اور پی ایس او کے سی ای او جواد احمد چیمہ نے چینی سفیر سے ملاقات کی۔
+
+According to a Petroleum Division statement reported by Dawn Pakistan
+
+#PakistanChina #EnergySector #PetroleumDivision #G2GDeal #Islamabad
+```
+
+### Veteran Nigerian Nollywood Actor Pete Edochie Dies Aged 79  [NORMAL]
+- Poster: نئیجیریا کے معروف اداکار پیٹ ایڈوچی 79 برس کی عمر میں انتقال کر گئے / Nigerian Actor Pete Edochie Passes Away at 79 | category other
+- Alternative headline: Legendary Nigerian Film Star Pete Edochie Passes Away at 79
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss
-- Supporting coverage: Ynetnews, The Times of Israel, شفق نيوز, Israel Hayom, Arab News PK, WANA News Agency
-- Keywords: Netanyahu, Iran war, Israel politics, Eisenkot, regional conflict | hashtags: #Netanyahu #Israel #Iran #MiddleEast #Politics
-- Scheduled: Wed 25 Nov, 04:23 PM PKT
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UMmRvZlRYUzM5WGZWOFdDY2c4VjVwVGppMXNpdVZmRS1IRjNkLXJhOHNPazBhRjZ0bHN5MFd3Nnp2NDlkQUZIcEl6TTBnRTNFc1VjLWxSeVdSaGM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UMmRvZlRYUzM5WGZWOFdDY2c4VjVwVGppMXNpdVZmRS1IRjNkLXJhOHNPazBhRjZ0bHN5MFd3Nnp2NDlkQUZIcEl6TTBnRTNFc1VjLWxSeVdSaGM?oc=5
+- Supporting coverage: BBC, BBC World
+- Keywords: Pete Edochie, Nollywood actor, Nigeria, Pete Edochie dies, BBC | hashtags: #PeteEdochie #Nollywood #Nigeria #BBC
+- Scheduled: Wed 25 Nov, 05:44 PM PKT
 - Caption:
 ```
-As political opposition moves to form a government, could escalating tensions with Iran derail talks and help Netanyahu cling to power?
+Veteran Nigerian Nollywood actor Pete Edochie has passed away at the age of 79, according to reports.
 
-As Israeli opposition leader Eisenkot moves to form a government, questions arise whether potential conflict with Iran could derail political talks and help Prime Minister Benjamin Netanyahu cling to power amidst shifting regional dynamics.
+Veteran Nigerian Nollywood actor Pete Edochie has passed away at the age of 79. The legendary actor's death was reported by the BBC, marking a massive loss for the Nigerian film industry and his numerous fans worldwide.
 
-جیسے ہی اسرائیلی اپوزیشن رہنما آئزن کوٹ حکومت بنانے کی کوشش کر رہے ہیں، یہ سوال اٹھ رہا ہے کہ آیا ایران کے ساتھ ممکنہ تنازع سیاسی مذاکرات کو پٹڑی سے اتار سکتا ہے اور وزیر اعظم بنجمن نیتن یاہو کو اقتدار سے چمٹے رہنے میں مدد دے سکتا ہے۔
+نئیجیریا کے معروف نولی ووڈ اداکار پیٹ ایڈوچی 79 برس کی عمر میں انتقال کر گئے ہیں۔ بی بی سی کی رپورٹ کے مطابق ان کے انتقال سے نولی ووڈ انڈسٹری ایک بڑے فنکار سے محروم ہو گئی ہے۔
 
-First reported by Al Jazeera; also reported by regional sources.
+First reported by BBC
 
-#Netanyahu #Israel #Iran #MiddleEast #Politics
+#PeteEdochie #Nollywood #Nigeria #BBC
 ```
 
-### Pakistan makes history as Zeeshan Ali reaches space aboard China's Shenzhou-24  [NORMAL]
-- Poster: پاکستانی خلاء باز ذیشان علی نے چین کے شینزو 24 مشن کے ساتھ خلاء کا سفر کر لیا / Pakistani astronaut Zeeshan Ali reaches space aboard China's Shenzhou-24 | category other
-- Alternative headline: Zeeshan Ali becomes first Pakistani astronaut to dock at Tiangong space station
+### Israeli Strike Kills Hamas Official Along With Wife and Children  [NORMAL]
+- Poster: اسرائیلی حملے میں حماس عہدیدار، ان کی اہلیہ اور بچے جاں بحق / Israeli Strike Kills Hamas Official and Family | category war
+- Alternative headline: Hamas Official, Wife and Children Killed in Latest Israeli Attack
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission
-- Supporting coverage: The Nation, ARY News, samaa tv, Facebook, The Express Tribune, Dawn
-- Keywords: Zeeshan Ali, Pakistan space mission, Shenzhou-24, Tiangong, China space | hashtags: #ZeeshanAli #PakistanSpace #Shenzhou24 #China #SpaceHistory
-- Scheduled: Wed 25 Nov, 04:33 PM PKT
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDgxNHZkY3NvbmtCNnVjLUVabTZlRVJKbkJGY2h1Vmk1d1FHNGFDdU11ZEFpT2JZZGZpZUdEdU4zLXVJc3Y5RU5FeEZIQ0NPSHJXelNSMi1lTmZtMmNQblZ6bVBRd1VNNUJoMEhwSDdIeWcwT1pLLU5oTTlCNmpMV3NR?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDgxNHZkY3NvbmtCNnVjLUVabTZlRVJKbkJGY2h1Vmk1d1FHNGFDdU11ZEFpT2JZZGZpZUdEdU4zLXVJc3Y5RU5FeEZIQ0NPSHJXelNSMi1lTmZtMmNQblZ6bVBRd1VNNUJoMEhwSDdIeWcwT1pLLU5oTTlCNmpMV3NR?oc=5
+- Supporting coverage: ARYnews.tv, ARY News, Al Jazeera
+- Keywords: Israeli strike, Hamas official, Gaza conflict, Al Jazeera, ARY News | hashtags: #Gaza #Hamas #Israel #Airstrike
+- Scheduled: Wed 25 Nov, 05:54 PM PKT
 - Caption:
 ```
-Pakistan has marked a historic milestone as astronaut Zeeshan Ali successfully reaches orbit aboard China's Shenzhou-24 space mission.
+An Israeli strike has reportedly killed a Hamas official, along with his wife and children.
 
-Pakistani astronaut Zeeshan Ali has made history by traveling into space aboard China’s Shenzhou-24 mission. The spacecraft successfully docked with the Tiangong space station hours after liftoff, making Ali the first Pakistani in space and the first foreign astronaut to visit Tiangong.
+An Israeli airstrike has resulted in the deaths of a Hamas official, his wife, and their children. The incident was reported by ARY News and Al Jazeera amid ongoing regional hostilities.
 
-پاکستانی خلاء باز ذیشان علی نے چین کے شینزو 24 مشن کے ذریعے خلاء کا سفر کرکے تاریخ رقم کردی ہے۔ خلائی جہاز نے روانگی کے چند گھنٹوں بعد تیانگونگ خلائی اسٹیشن کے ساتھ کامیابی سے ڈاکیگ کی، جس سے علی خلاء میں جانے والے پہلے پاکستانی بن گئے۔
+اسرائیلی فضائی حملے میں حماس کے ایک عہدیدار، ان کی اہلیہ اور بچے جاں بحق ہو گئے۔ اس واقعے کی رپورٹ اے آر وائی نیوز اور الجزیرہ نے دی ہے۔
 
-First reported by ARY News; also reported by Dawn and The Nation.
+First reported by ARYnews.tv; also reported by Al Jazeera
 
-#ZeeshanAli #PakistanSpace #Shenzhou24 #China #SpaceHistory
+#Gaza #Hamas #Israel #Airstrike
 ```
 
-### Under-construction building collapses near Karachi's Baloch Colony, casualties feared  [NORMAL]
-- Poster: کراچی میں بلوچ کالونی کے قریب زیر تعمیر عمارت گر گئی، ایک جاں بحق / Building collapse near Karachi's Baloch Colony leaves casualties | category disaster
-- Alternative headline: At least one dead and several injured as Karachi building collapses
+### Two Libyan Soldiers Die From Injuries in Attack on Russian Vessels  [NORMAL]
+- Poster: روسی بحری جہازوں پر حملے میں دو لیبیائی فوجی جاں بحق / Two Libyan Soldiers Killed in Benghazi Attack | category war
+- Alternative headline: Libyan Naval Forces Members Killed in Benghazi Port Attack
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXlGVjgzVWppWXlnRzhkTUtFM2c2U05nTFU1TDFaejhRWmpGQkQxTE5nN1V4N0ppbmt4bk1STE9KREFBc1gwWEVYRWZSZ2FTT2l5cGtsaGdkdEhwUDZ3NF82TXVGUjY5X0FUdTlMN2k5QkY1R3RVWVVtWUV6eUtWZnZnd1E5YmFYWVBVTnZzVk1LdG1JZzNjUENFUXhkMmFOSFd1eUs0aTJCcDRSRFFjb0k5NHVUMWlWZFhkQjl4anVpYW00Wm9QV1d5b2F1enRf?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXlGVjgzVWppWXlnRzhkTUtFM2c2U05nTFU1TDFaejhRWmpGQkQxTE5nN1V4N0ppbmt4bk1STE9KREFBc1gwWEVYRWZSZ2FTT2l5cGtsaGdkdEhwUDZ3NF82TXVGUjY5X0FUdTlMN2k5QkY1R3RVWVVtWUV6eUtWZnZnd1E5YmFYWVBVTnZzVk1LdG1JZzNjUENFUXhkMmFOSFd1eUs0aTJCcDRSRFFjb0k5NHVUMWlWZFhkQjl4anVpYW00Wm9QV1d5b2F1enRf?oc=5
-- Supporting coverage: Dawn, Geo News, Geo News, Dawn Pakistan, Dunya News, samaa tv
-- Keywords: Building collapse, Karachi, Baloch Colony, accident, rescue operation | hashtags: #Karachi #BuildingCollapse #BalochColony #BreakingNews #Pakistan
-- Scheduled: Wed 25 Nov, 04:43 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/two-libyan-soldiers-die-injuries-attack-russian-vessels | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/two-libyan-soldiers-die-injuries-attack-russian-vessels
+- Supporting coverage: ARY News, Libya Herald, Al Jazeera
+- Keywords: Libyan soldiers, Benghazi attack, Russian vessels, Saddam Haftar, Ukraine | hashtags: #Libya #Benghazi #Russia #Ukraine #Military
+- Scheduled: Wed 25 Nov, 06:04 PM PKT
 - Caption:
 ```
-Rescue operations are underway after an under-construction building collapsed near Karachi's Baloch Colony, leaving at least one dead and several injured.
+Two Libyan soldiers have died from injuries sustained in an attack on Russian vessels near Benghazi.
 
-An under-construction building collapsed near Karachi's Baloch Colony, leaving at least one person dead and several others injured. Emergency responders and rescue teams rushed to the site as multiple people were feared trapped under the rubble.
+Two Libyan soldiers died from injuries sustained in an attack on Russian vessels near Benghazi, claimed by Ukraine, according to eastern Libyan officials. Saddam Haftar paid tribute to the fallen naval personnel following the incident at Benghazi Naval Base.
 
-کراچی میں بلوچ کالونی کے قریب زیر تعمیر عمارت گرنے سے کم از کم ایک شخص جاں بحق اور کئی زخمی ہو گئے۔ ریسکیو ٹیمیں اور فلاحی ادارے فوری طور پر موقع پر پہنچ گئے کیونکہ ملبے تلے کئی افراد کے دبے ہونے کا خدشہ ظاہر کیا جا رہا ہے۔
+بنغازی کے قریب روسی بحری جہازوں پر حملے میں دو لیبیائی فوجی جاں بحق ہو گئے۔ مشرقی لیبیا کے حکام کے مطابق یہ حملہ یوکرین کی جانب سے کیا گیا تھا۔
 
-First reported by Dawn; also reported by Geo News.
+First reported by ARY News; also reported by AFP
 
-#Karachi #BuildingCollapse #BalochColony #BreakingNews #Pakistan
+#Libya #Benghazi #Russia #Ukraine #Military
 ```
 
-### ADB approves $250m loan to boost private investment in Pakistan  [NORMAL]
-- Poster: اے ڈی بی نے پاکستان میں نجی سرمایہ کاری کے لیے 250 ملین ڈالر قرض کی منظوری دیدی / ADB approves $250m loan to boost private investment in Pakistan | category economy
-- Alternative headline: Asian Development Bank okays $250m for public-private partnerships
+### Bangladesh Garment Workers Win 36 Percent Minimum Wage Rise  [NORMAL]
+- Poster: بنگلہ دیشی گارمنٹ ورکرز کے لیے کم از کم اجرت میں 36 فیصد اضافہ / Bangladesh Garment Workers Win 36% Wage Rise | category economy
+- Alternative headline: Bangladesh Garment Workers Secure 36pc Pay Increase After Protests
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE1ILWN2Q0N3UnFrdUduZEExUExWY1VxTTQ3SGk5X3YxYmMxWWRDSHYxLUlYWm9HRl9YaktmX0IyM29TNURSSWowUUo0d2Uyb1lfZk4zSy1zV2x1elRDOGVhS1c0ODBPczJScDFNVkZtNHh0ZWNibldEcHlMMUlQdXE3WDZNdUY5OTR4UXFlOEVnZldlWWVv?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE1ILWN2Q0N3UnFrdUduZEExUExWY1VxTTQ3SGk5X3YxYmMxWWRDSHYxLUlYWm9HRl9YaktmX0IyM29TNURSSWowUUo0d2Uyb1lfZk4zSy1zV2x1elRDOGVhS1c0ODBPczJScDFNVkZtNHh0ZWNibldEcHlMMUlQdXE3WDZNdUY5OTR4UXFlOEVnZldlWWVv?oc=5
-- Supporting coverage: samaa tv, Dawn Latest, Investify, TechJuice
-- Keywords: ADB loan, private investment, Pakistan economy, public-private partnership, Asian Development Bank | hashtags: #ADB #PakistanEconomy #Investment #Finance #Development
-- Scheduled: Wed 25 Nov, 04:53 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/bangladesh-garment-workers-win-36-percent-wage-rise | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/bangladesh-garment-workers-win-36-percent-wage-rise
+- Supporting coverage: ARY News, Dawn, Dawn Latest, Al Jazeera
+- Keywords: Bangladesh garment workers, minimum wage, wage rise, protests, Bangladesh economy | hashtags: #Bangladesh #GarmentWorkers #MinimumWage #Economy
+- Scheduled: Wed 25 Nov, 06:14 PM PKT
 - Caption:
 ```
-The Asian Development Bank has approved a $250 million loan aimed at strengthening Pakistan's public-private partnership system and boosting investment.
+Bangladesh's garment workers have won a 36 percent minimum wage increase following weeks of protests.
 
-The Asian Development Bank (ADB) has approved a $250 million loan for Pakistan. The funding is designated to strengthen the country's public-private partnership framework and boost private sector investment in key infrastructure and development projects.
+Bangladesh’s garment workers won a 36 percent minimum wage increase on Wednesday following lengthy negotiations and widespread protests. The new minimum wage is set at 17,000 taka, replacing the previous rate after three years instead of the usual five.
 
-ایشین ڈویلپمنٹ بینک (اے ڈی بی) نے پاکستان کے لیے 250 ملین ڈالر کے قرض کی منظوری دے دی ہے۔ اس فنڈنگ کا مقصد ملک کے پبلک پرائیویٹ پارٹنرشپ سسٹم کو مضبوط بنانا اور نجی شعبے کی سرمایہ کاری کو فروغ دینا ہے۔
+بنگلہ دیشی گارمنٹ ورکرز نے طویل مذاکرات اور احتجاج کے بعد کم از کم اجرت میں 36 فیصد اضافے کی کامیابی حاصل کر لی ہے۔ نئی کم از کم اجرت 17,000 ٹکا مقرر کی گئی ہے۔
 
-First reported by Samaa TV; also reported by Dawn.
+First reported by ARY News; also reported by AFP and Dawn
 
-#ADB #PakistanEconomy #Investment #Finance #Development
+#Bangladesh #GarmentWorkers #MinimumWage #Economy
 ```
 
-### FBR seals Karachi superstore over Rs 3.27 billion tax irregularities  [NORMAL]
-- Poster: ایف بی آر نے اربوں روپے کی ٹیکس بے ضابطگیوں پر کراچی کا سپر اسٹور سیل کر دیا / FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | category economy
-- Alternative headline: Karachi retail outlet sealed by FBR for point-of-sale system violations
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/fbr-seals-karachi-superstore-over-rs-3-27-billion-tax-irregularities | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/fbr-seals-karachi-superstore-over-rs-3-27-billion-tax-irregularities
-- Supporting coverage: ARY News, ARYnews.tv, ProPakistani
-- Keywords: FBR, Karachi superstore, tax irregularities, POS system, sales tax | hashtags: #FBR #Karachi #TaxEvasion #PakistanEconomy #Business
-- Scheduled: Wed 25 Nov, 05:03 PM PKT
-- Caption:
-```
-The FBR has sealed a major retail outlet in Karachi after discovering billions of rupees in sales conducted outside the POS system.
-
-The Federal Board of Revenue (FBR) has sealed a retail superstore in Karachi due to major tax irregularities. Authorities found that the store's POS system was disconnected for 122 days, hiding over Rs 3.27 billion in sales conducted between July 2024 and September 2026.
-
-فیڈرل بورڈ آف ریونیو (ایف بی آر) نے ٹیکس میں بڑی بے ضابطگیوں پر کراچی میں ایک بڑے سپر اسٹور کو سیل کر دیا ہے۔ حکام کے مطابق اسٹور کا پی او ایس سسٹم 122 دن تک منقطع رہا، جس کے دوران اربوں روپے کی فروخت ظاہر نہیں کی گئی۔
-
-First reported by ARY News; also reported by ProPakistani.
-
-#FBR #Karachi #TaxEvasion #PakistanEconomy #Business
-```
-
-### PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police  [NORMAL]
-- Poster: وزیر اعظم شہباز شریف کی این سی سی آئی اے کی تشکیل نو اور سائبر پولیس بنانے کی ہدایت / PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police | category politics
-- Alternative headline: Pakistan moves to establish Cyber Police amid NCCIA overhaul
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/pm-shehbaz-sharif-orders-restructuring-of-nccia | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/pm-shehbaz-sharif-orders-restructuring-of-nccia
-- Supporting coverage: ARY News, ProPakistani, TechJuice
-- Keywords: NCCIA, Shehbaz Sharif, Cyber Police, cybercrime, Pakistan government | hashtags: #ShehbazSharif #NCCIA #CyberPolice #Pakistan #CyberSecurity
-- Scheduled: Wed 25 Nov, 05:13 PM PKT
-- Caption:
-```
-Prime Minister Shehbaz Sharif has ordered the restructuring of the NCCIA and proposed establishing a dedicated Pakistan Cyber Police force.
-
-Prime Minister Shehbaz Sharif has directed authorities to accelerate the restructuring of the National Cyber Crime Investigation Agency (NCCIA) into an advanced institution. He also proposed the establishment of a Pakistan Cyber Police force equipped with IT and AI specialists.
-
-وزیر اعظم شہباز شریف نے حکام کو ہدایت کی ہے کہ نیشنل سائبر کرائم انویسٹی گیشن ایجنسی (این سی سی آئی اے) کی تشکیل نو کو تیز کیا جائے۔ انہوں نے آئی ٹی اور اے آئی کے ماہرین پر مشتمل پاکستان سائبر پولیس فورس قائم کرنے کی بھی تجویز دی۔
-
-First reported by ARY News; also reported by ProPakistani and Dawn.
-
-#ShehbazSharif #NCCIA #CyberPolice #Pakistan #CyberSecurity
-```
-
-- Indian outlets blocked this run: 5 items
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
+- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 11
 
 ## Queue status
-- [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
 - [needs_review] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
 - [needs_review] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
@@ -361,9 +337,9 @@ First reported by ARY News; also reported by ProPakistani and Dawn.
 - [needs_review] normal | Bilawal says new provinces only through parliamentary process | Wed 25 Nov, 10:11 AM PKT
 - [needs_review] normal | Commerce Minister Jam Kamal vows to help Balochistan traders | Wed 25 Nov, 10:21 AM PKT
 - [published] normal | World Bank downgrades $150m Punjab education project | Wed 25 Nov, 10:31 AM PKT
-- [queued] normal | Communications minister orders early completion of projects in KP | Wed 25 Nov, 10:41 AM PKT
-- [queued] normal | Three held, illegal heavy weapons seized in Gilgit | Wed 25 Nov, 10:51 AM PKT
-- [queued] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
+- [needs_review] normal | Communications minister orders early completion of projects in KP | Wed 25 Nov, 10:41 AM PKT
+- [needs_review] normal | Three held, illegal heavy weapons seized in Gilgit | Wed 25 Nov, 10:51 AM PKT
+- [needs_review] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
 - [published] promo | [YouTube] IMRAN KHAN’S MESSAGE, MARYAM NAWAZ SHOE INCIDENT & PML-N CRI | Wed 25 Nov, 03:18 PM PKT
 - [queued] normal | Could Netanyahu trigger a wider war with Iran to cling to power? | Wed 25 Nov, 04:23 PM PKT
 - [queued] normal | Pakistan makes history as Zeeshan Ali reaches space aboard China's She | Wed 25 Nov, 04:33 PM PKT
@@ -371,13 +347,32 @@ First reported by ARY News; also reported by ProPakistani and Dawn.
 - [queued] normal | ADB approves $250m loan to boost private investment in Pakistan | Wed 25 Nov, 04:53 PM PKT
 - [queued] normal | FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | Wed 25 Nov, 05:03 PM PKT
 - [queued] normal | PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police | Wed 25 Nov, 05:13 PM PKT
+- [published] promo | [YouTube] MAULANA FAZLUR REHMAN: IS THIS THE PRICE OF POWER POLITICS? | Wed 25 Nov, 05:34 PM PKT
+- [queued] normal | Pakistan and China Agree on G2G Fuel Storage and Terminal Deals | Wed 25 Nov, 05:34 PM PKT
+- [queued] normal | Veteran Nigerian Nollywood Actor Pete Edochie Dies Aged 79 | Wed 25 Nov, 05:44 PM PKT
+- [queued] normal | Israeli Strike Kills Hamas Official Along With Wife and Children | Wed 25 Nov, 05:54 PM PKT
+- [queued] normal | Two Libyan Soldiers Die From Injuries in Attack on Russian Vessels | Wed 25 Nov, 06:04 PM PKT
+- [queued] normal | Bangladesh Garment Workers Win 36 Percent Minimum Wage Rise | Wed 25 Nov, 06:14 PM PKT
 
 ## Publishing this run
-- Published 'World Bank downgrades $150m Punjab education project'.
+- Published '[YouTube] MAULANA FAZLUR REHMAN: IS THIS THE PRICE OF POWER POLITICS?'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 10805 | output tokens: 4627
-- Errors: 2
+- Calls: 7 | prompt tokens: 8172 | output tokens: 3096
+- Errors: 6
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
