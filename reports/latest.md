@@ -1,35 +1,35 @@
-# News Hub report - Thu 26 Nov, 03:29 AM PKT
+# News Hub report - Thu 26 Nov, 04:25 AM PKT
 
 ## Collection
-- New items this run: 14 | items in rolling pool: 467
-- Unique story clusters: 411 (duplicates merged: 56)
-- Clusters dropped as already published/queued: 16; unchanged since last analysis: 1
-- Items per outlet: The Express Tribune 5, Geo News 2, The Verge 2, Engadget 2, The News International 1, Atlantic Council 1, Around Prague 1
+- New items this run: 16 | items in rolling pool: 395
+- Unique story clusters: 348 (duplicates merged: 47)
+- Clusters dropped as already published/queued: 19; unchanged since last analysis: 2
+- Items per outlet: Geo News 5, Al Jazeera 2, The Express Tribune 1, TechCrunch 1, Ars Technica 1, GSMArena 1, BBC Health 1, BBC Science 1, Arab Center Washington DC 1, The New Arab 1, The Guardian 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Five Russian military jets hit in airfield strike, says Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Education Department probes Virginia schools after sexual abuse scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Baby Aliyah steals the show during Australian Senate debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What’s behind Europe’s protests? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netanyahu says corruption trial ‘must end’ as court suggests dropping case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Malen and Roma deny injury-hit PSG in Champions League draw | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Deadly truck fire is latest of Egypt’s transport disasters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Long waits 'a tragedy' as thousands seek ADHD and autism assessments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Images from Earth's asteroid defence test reveal new crater | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At least 30 killed in massive fire as fuel truck crashes on Cairo highway | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Five Russian military jets hit in airfield strike, says Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Education Department probes Virginia schools after sexual abuse scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Baby Aliyah steals the show during Australian Senate debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What’s behind Europe’s protests? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netanyahu says corruption trial ‘must end’ as court suggests dropping case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Malen and Roma deny injury-hit PSG in Champions League draw | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Deadly truck fire is latest of Egypt’s transport disasters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Long waits 'a tragedy' as thousands seek ADHD and autism assessments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Images from Earth's asteroid defence test reveal new crater | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At least 30 killed in massive fire as fuel truck crashes on Cairo highway | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Five Russian military jets hit in airfield strike, says Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- US Education Department probes Virginia schools after sexual abuse scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Baby Aliyah steals the show during Australian Senate debate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What’s behind Europe’s protests? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netanyahu says corruption trial ‘must end’ as court suggests dropping case | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Malen and Roma deny injury-hit PSG in Champions League draw | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Deadly truck fire is latest of Egypt’s transport disasters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Long waits 'a tragedy' as thousands seek ADHD and autism assessments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Images from Earth's asteroid defence test reveal new crater | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At least 30 killed in massive fire as fuel truck crashes on Cairo highway | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,135 +39,133 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Baby Aliyah steals the show during Australian Senate debate  [NORMAL]
-- Poster: آسٹریلوی سینیٹ کے اجلاس میں ننھی بچی نے سب کی توجہ کھینچ لی / Baby Aliyah steals the show in Australian Senate | category us_politics
-- Alternative headline: Australian Senator Fatima Payman addresses Senate with baby
+### Saudi-led coalition reports Houthi projectile strike on Jazan port  [NORMAL]
+- Poster: حوثی میزائل کا سعودی عرب کی جازان پورٹ پر حملہ / Houthi projectile hits Jazan port | category security
+- Alternative headline: Houthi projectile hits Jazan port in Saudi Arabia
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxNTm1iSnBmNThXVEdsX3lrVXJrYmVwSVFhNlh4YWc5eFpmd3hXZS1Uc050bV9BaTBOVGt0VHdpVjJQOWZGYkJYSTVfRlZNWXAyd0FEMWNIYUpVX2YtNEU1Q3lETUQtcjg5LXFEVk56UnpTNTZNLU54UzM5dU4yOWs2NlpWbzJfTVdXQmtCdGZkRDl0R0lhNDBJc2lPRFpoUnVCVUk4?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxNTm1iSnBmNThXVEdsX3lrVXJrYmVwSVFhNlh4YWc5eFpmd3hXZS1Uc050bV9BaTBOVGt0VHdpVjJQOWZGYkJYSTVfRlZNWXAyd0FEMWNIYUpVX2YtNEU1Q3lETUQtcjg5LXFEVk56UnpTNTZNLU54UzM5dU4yOWs2NlpWbzJfTVdXQmtCdGZkRDl0R0lhNDBJc2lPRFpoUnVCVUk4?oc=5
+- Supporting coverage: Dawn, samaa tv
+- Keywords: Jazan port, Houthi projectile, Saudi-led coalition, Saudi Arabia | hashtags: #SaudiArabia #JazanPort #Houthis #MiddleEast
+- Scheduled: Thu 26 Nov, 04:25 AM PKT
+- Caption:
+```
+A Saudi-led coalition reports that a Houthi projectile has struck the kingdom's Jazan port.
+
+The Saudi-led coalition announced that a Houthi projectile struck the kingdom's Jazan port. No immediate details of casualties or extensive damages were widely highlighted in the initial brief report, which follows previous intercepted missile and drone attempts in the region.
+
+سعودی اتحاد نے اعلان کیا ہے کہ حوثی فائر کردہ ایک پراجیکٹائل نے مملکت کی جازان بندرگاہ کو نشانہ بنایا ہے۔ ابتدائی رپورٹ میں جانی نقصان یا بڑے پیمانے پر ہونے والے نقصان کی فوری تفصیلات سامنے نہیں آئیں۔
+
+First reported by Dawn
+
+#SaudiArabia #JazanPort #Houthis #MiddleEast
+```
+
+### Malen and Roma hold injury-hit PSG to 2-2 draw  [NORMAL]
+- Poster: روما نے زخمی پی ایس جی کو چیمپئنز لیگ میں روک دیا / Roma deny injury-hit PSG | category sports
+- Alternative headline: Roma and Malen deny PSG victory in Champions League
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Baby Aliyah, Fatima Payman, Australian Senate, Senate debate, Aliyah | hashtags: #FatimaPayman #AustralianSenate #BabyAliyah #Australia
-- Scheduled: Thu 26 Nov, 03:29 AM PKT
+- Keywords: Champions League, PSG, Roma, Malen | hashtags: #ChampionsLeague #PSG #Roma #Football
+- Scheduled: Thu 26 Nov, 04:35 AM PKT
 - Caption:
 ```
-Australian Senator Fatima Payman brought a special guest to the floor as her six-month-old daughter, Aliyah, caught everyone's attention during debate.
+Holders Paris Saint-Germain struggled with an injury-ravaged squad as Roma held them to a 2-2 draw.
 
-Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms. The adorable moment quickly drew attention during the parliamentary proceedings.
+Champions League holders Paris Saint-Germain were held to a 2-2 draw by Roma. The French side struggled on the pitch as they continued to manage an injury-ravaged squad during the European fixture.
 
-آسٹریلوی سینیٹر فاطمہ پے مین نے اپنی چھ ماہ کی بیٹی عالیہ کو گود میں اٹھا کر سینیٹ سے خطاب کیا۔ پارلیمانی کارروائی کے دوران یہ دلکش لمحہ سب کی توجہ کا مرکز بن گیا۔
+چیمپئنز لیگ کی چیمپئن پیرس سینٹ جرمین کو روما نے دو کے مقابلے میں دو گول سے برابر پر روک دیا۔ انجری کا شکار ہونے والے اسکواڈ کی وجہ سے پی ایس جی کو میچ کے دوران شدید مشکلات کا سامنا کرنا پڑا۔
 
 First reported by Al Jazeera
 
-#FatimaPayman #AustralianSenate #BabyAliyah #Australia
+#ChampionsLeague #PSG #Roma #Football
 ```
 
-### Ukraine says five Russian military jets hit in airfield strike  [NORMAL]
-- Poster: یوکرین کا روسی ایئرفیلڈ پر حملہ، پانچ جنگی طیارے تباہ کرنے کا دعویٰ / Ukraine strikes Russian airfield, hits five jets | category other
-- Alternative headline: Savasleyka airfield strike damages five Russian military aircraft
+### Deadly truck fire is latest of Egypt’s transport disasters  [NORMAL]
+- Poster: قاہرہ کے قریب ٹرک میں آتشزدگی، متعدد ہلاک / Deadly truck fire near Cairo | category disaster
+- Alternative headline: Truck carrying gas cylinders catches fire near Cairo
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, BBC, Around Prague
-- Keywords: Savasleyka airfield, Ukraine, Russia, military jets, airfield strike, MiG-31 | hashtags: #Ukraine #Russia #AirfieldStrike #War
-- Scheduled: Thu 26 Nov, 03:39 AM PKT
-- Caption:
-```
-Ukraine's military claims it successfully damaged five Russian aircraft during a strategic strike on the Savasleyka airfield.
-
-Ukraine has announced that it damaged five Russian military aircraft, including three MiG-31s and two Su-34s, in an attack on the Savasleyka airfield located 300km east of Moscow. Russia has not yet commented on the strikes, while Kyiv also reported hitting two oil refineries in the Samara region.
-
-یوکرین نے اعلان کیا ہے کہ اس نے ماسکو سے 300 کلومیٹر مشرق میں واقع ساواسلییکا ایئرفیلڈ پر حملے کے دوران پانچ روسی فوجی طیاروں کو نقصان پہنچایا ہے۔ روس کی طرف سے حملوں پر کوئی تبصرہ نہیں کیا گیا ہے۔
-
-First reported by BBC World
-
-#Ukraine #Russia #AirfieldStrike #War
-```
-
-### US Education Department probes Virginia schools after abuse scandal  [NORMAL]
-- Poster: امریکی محکمہ تعلیم کا ورجینیا کے اسکولوں میں جنسی استحصال کے اسکینڈل پر تحقیقات کا آغاز / US probes Virginia schools over abuse scandal | category other
-- Alternative headline: Virginia schools face federal investigation over sexual abuse scandal
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: US Education Department, Virginia schools, abuse scandal, background checks, investigation | hashtags: #USEducation #Virginia #SchoolInvestigation #News
-- Scheduled: Thu 26 Nov, 03:49 AM PKT
+- Keywords: truck fire, Cairo, Egypt, transport disaster | hashtags: #Egypt #Cairo #TruckFire #Accident
+- Scheduled: Thu 26 Nov, 04:45 AM PKT
 - Caption:
 ```
-Federal authorities have launched an investigation into Virginia schools following severe revelations of abuse and background check failures.
+Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo's Ring Road.
 
-The US Education Department is probing Virginia schools following shocking revelations of abuse and widespread failures in conducting mandatory staff background checks, placing intense scrutiny on local educational authorities.
+A deadly truck fire near Cairo's Ring Road has added to Egypt's transport disasters. Dozens of people were killed and injured when the vehicle, reportedly carrying gas cylinders, caught fire.
 
-امریکی محکمہ تعلیم نے بدسلوکی کے انکشافات اور عملے کی لازمی پس منظر کی جانچ پڑتال میں بڑے پیمانے پر ناکامیوں کے بعد ورجینیا کے اسکولوں کی تحقیقات شروع کر دی ہیں۔
+قاہرہ کی رنگ روڈ کے قریب گیس سلنڈروں سے بھرے ٹرک میں آگ لگنے سے متعدد افراد جاں بحق اور زخمی ہوگئے، جو مصر میں ٹرانسپورٹ کے حادثات کا تازہ ترین واقعہ ہے۔
 
 First reported by Al Jazeera
 
-#USEducation #Virginia #SchoolInvestigation #News
+#Egypt #Cairo #TruckFire #Accident
 ```
 
-### What is really driving the wave of protests across Europe?  [NORMAL]
-- Poster: یورپ میں بڑھتے ہوئے احتجاج اور ہڑتاہوں کے پیچھے اصل وجوہات کیا ہیں؟ / What is behind Europe's growing protests? | category other
-- Alternative headline: Exploring the root causes of rising industrial disputes in the EU and UK
+### Long waits for ADHD and autism assessments called a tragedy  [NORMAL]
+- Poster: اے ڈی ایچ ڈی اور آٹزم اسسمنٹ کیلئے طویل انتظار / Long waits for ADHD and autism checks | category health
+- Alternative headline: Thousands face long waits for ADHD and autism checks
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Europe protests, industrial disputes, EU, UK, demonstrations | hashtags: #EuropeProtests #EU #UK #Demonstrations
-- Scheduled: Thu 26 Nov, 03:59 AM PKT
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: ADHD assessments, autism, mental health, Scotland, NHS waits | hashtags: #ADHD #Autism #Health #Scotland
+- Scheduled: Thu 26 Nov, 04:55 AM PKT
 - Caption:
 ```
-A significant surge in protests and industrial disputes across the European Union and the UK has sparked widespread debate.
+A GP warns that long waits for ADHD and autism assessments mean those most in need are missed.
 
-An increasing wave of protests and industrial disputes has swept across various parts of the European Union and the United Kingdom, raising critical questions about the underlying economic and social pressures facing citizens.
+New figures show over 38,000 adults are waiting for neurodevelopmental assessments in Scotland, with at least 14,000 waiting longer than two years. Experts warn that soaring demand has overwhelmed mental health services, creating a two-tier system.
 
-یورپی یونین اور برطانیہ میں احتجاج اور صنعتی تنازعات کی بڑھتی ہوئی لہر نے شہریوں کو درپیش معاشی اور سماجی دباؤ کے بارے میں اہم سوالات اٹھائے ہیں۔
+نئے اعداد و شمار سے پتہ چلتا ہے کہ اسکاٹ لینڈ میں 38 ہزار سے زائد بالغ افراد نیورو ڈیولپمنٹل اسسمنٹ کے منتظر ہیں، جن میں سے کم از کم 14 ہزار افراد دو سال سے زائد عرصے سے انتظار کر رہے ہیں۔
 
-First reported by Al Jazeera
+First reported by BBC Health
 
-#EuropeProtests #EU #UK #Demonstrations
+#ADHD #Autism #Health #Scotland
 ```
 
-### Netanyahu says corruption trial must end as court suggests dropping case  [NORMAL]
-- Poster: عدالت کی جانب سے مقدمہ ختم کرنے کی تجویز پر نیتنیاہو کا مؤقف / Netanyahu says corruption trial must end | category politics
-- Alternative headline: Israeli court suggests dropping charges as Netanyahu fights for survival
+### Images from Earth's asteroid defence test reveal new crater  [NORMAL]
+- Poster: زمین کے دفاعی ٹیسٹ کی تصاویر میں نئے گڑھے کا انکشاف / New crater revealed in asteroid test | category science
+- Alternative headline: New crater revealed in images from asteroid defence test
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Netanyahu corruption trial, Benjamin Netanyahu, Israel court, corruption charges, politics | hashtags: #Netanyahu #Israel #CorruptionTrial #Politics
-- Scheduled: Thu 26 Nov, 04:09 AM PKT
+- Original source: published_report - BBC Science https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Science https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Science
+- Keywords: asteroid defence test, crater, NASA, space science | hashtags: #NASA #Asteroid #SpaceScience #Astronomy
+- Scheduled: Thu 26 Nov, 05:05 AM PKT
 - Caption:
 ```
-Israeli Prime Minister Benjamin Netanyahu insists his corruption trial must conclude after judges recommended dropping serious charges.
+New images from Earth's asteroid defence test have successfully revealed a newly formed crater.
 
-Israeli Prime Minister Benjamin Netanyahu has stated that his corruption trial must end following recommendations by judges to drop key charges, providing a potential relief as he fights for his political survival.
+New images from Earth's asteroid defence test have revealed a newly formed crater. The findings provide further scientific insight into the impact mechanics of planetary defense missions.
 
-اسرائیلی وزیر اعظم بنجمن نیتنیاہو نے کہا ہے کہ ججوں کی جانب سے اہم الزامات واپس لینے کی تجویز کے بعد ان کا بدعنوانی کا مقدمہ اب ختم ہونا چاہیے۔
+زمین کے ایسٹرائڈ ڈیفنس ٹیسٹ سے حاصل ہونے والی نئی تصاویر میں ایک نئے گڑھے کا انکشاف ہوا ہے، جو سیارچہ دفاعی مشنز کے اثرات کا جائزہ لینے میں مددگار ہے۔
 
-First reported by Al Jazeera
+First reported by BBC Science
 
-#Netanyahu #Israel #CorruptionTrial #Politics
+#NASA #Asteroid #SpaceScience #Astronomy
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
 
 ## Queue status
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Explosion on Russian ship at Libya port caused by suspected drone atta | Sun 22 Nov, 09:46 PM PKT
-- [needs_review] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
 - [needs_review] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
 - [needs_review] normal | Canada’s PM appears next to Trump impersonator at press dinner | Sun 22 Nov, 11:31 PM PKT
 - [needs_review] normal | Russian vessel hit by suspected sea drone in Libya | Mon 23 Nov, 12:04 AM PKT
@@ -189,7 +187,6 @@ First reported by Al Jazeera
 - [needs_review] normal | Prince William to Focus on Defence in 2027 Overseas Push | Mon 23 Nov, 04:02 AM PKT
 - [needs_review] normal | Pochettino Backs Man United Players After Liverpool Thrashing | Mon 23 Nov, 04:12 AM PKT
 - [needs_review] normal | How Pakistanis Save: An Express Tribune Report | Mon 23 Nov, 04:22 AM PKT
-- [published] normal | Naya Pakistan Episode Broadcast on 22nd November 2026 | Mon 23 Nov, 04:32 AM PKT
 - [needs_review] normal | Trump Targets Schumer as US Senate Democrats Face New Leadership Push | Mon 23 Nov, 04:49 AM PKT
 - [needs_review] normal | PTI Questions Sugar Export Approval and Seeks Audit of Import Deal | Mon 23 Nov, 05:36 AM PKT
 - [published] normal | Atalanta Grab Dramatic Draw With Inter Milan in Serie A | Mon 23 Nov, 05:46 AM PKT
@@ -322,7 +319,7 @@ First reported by Al Jazeera
 - [published] normal | Trump to meet Abdul El-Sayed over universal healthcare | Thu 26 Nov, 12:20 AM PKT
 - [published] normal | China urges US to avoid new tariffs as trade tensions rise | Thu 26 Nov, 12:30 AM PKT
 - [published] normal | Pakistan records 10th polio case of 2026 after KP report | Thu 26 Nov, 12:40 AM PKT
-- [queued] normal | Pakistan and Russia target $5 billion trade by 2030 | Thu 26 Nov, 12:50 AM PKT
+- [published] normal | Pakistan and Russia target $5 billion trade by 2030 | Thu 26 Nov, 12:50 AM PKT
 - [queued] normal | Tarar urges social media companies to establish offices in Pakistan | Thu 26 Nov, 01:00 AM PKT
 - [queued] normal | Sporting Lisbon vs Manchester United: UEFA Champions League live | Thu 26 Nov, 01:10 AM PKT
 - [published] promo | [YouTube] Latif Khosa’s Upcoming Adiala Visit & New Provinces Game | Thu 26 Nov, 02:29 AM PKT
@@ -338,14 +335,18 @@ First reported by Al Jazeera
 - [queued] normal | US Education Department probes Virginia schools after abuse scandal | Thu 26 Nov, 03:49 AM PKT
 - [queued] normal | What is really driving the wave of protests across Europe? | Thu 26 Nov, 03:59 AM PKT
 - [queued] normal | Netanyahu says corruption trial must end as court suggests dropping ca | Thu 26 Nov, 04:09 AM PKT
+- [queued] normal | Saudi-led coalition reports Houthi projectile strike on Jazan port | Thu 26 Nov, 04:25 AM PKT
+- [queued] normal | Malen and Roma hold injury-hit PSG to 2-2 draw | Thu 26 Nov, 04:35 AM PKT
+- [queued] normal | Deadly truck fire is latest of Egypt’s transport disasters | Thu 26 Nov, 04:45 AM PKT
+- [queued] normal | Long waits for ADHD and autism assessments called a tragedy | Thu 26 Nov, 04:55 AM PKT
+- [queued] normal | Images from Earth's asteroid defence test reveal new crater | Thu 26 Nov, 05:05 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan records 10th polio case of 2026 after KP report'.
+- Published 'Pakistan and Russia target $5 billion trade by 2030'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6472 | output tokens: 2857
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 2 | prompt tokens: 6110 | output tokens: 2876
+- Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,

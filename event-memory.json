@@ -159372,7 +159372,311 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fbf766b546a4f854261e2f8a",
+      "remembered_at": "2026-11-25T23:25:31.507623+00:00",
+      "event_date": "2026-11-25T22:41:46+00:00",
+      "last_update": "2026-11-25T22:41:46+00:00",
+      "event": "Malen and Roma deny injury-hit PSG in Champions League draw",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "champions",
+        "deny",
+        "draw",
+        "germain",
+        "held",
+        "hit",
+        "holders",
+        "injury",
+        "league",
+        "malen",
+        "paris",
+        "psg",
+        "ravaged",
+        "roma",
+        "saint",
+        "squad",
+        "struggle"
+      ],
+      "source_excerpt": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+          "published_at": "2026-11-25T22:41:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6d3ed391fb2327acd66048a1",
+      "remembered_at": "2026-11-25T23:25:31.507623+00:00",
+      "event_date": "2026-11-25T22:48:47+00:00",
+      "last_update": "2026-11-25T22:48:47+00:00",
+      "event": "Deadly truck fire is latest of Egypt’s transport disasters",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "cairo",
+        "carrying",
+        "caught",
+        "cylinders",
+        "deadly",
+        "disasters",
+        "dozens",
+        "egypt",
+        "fire",
+        "gas",
+        "injured",
+        "killed",
+        "latest",
+        "near",
+        "ring",
+        "road",
+        "transport",
+        "truck",
+        "were",
+        "when"
+      ],
+      "source_excerpt": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+          "published_at": "2026-11-25T22:48:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a4c15fb2c8ea1207ccb31dcd",
+      "remembered_at": "2026-11-25T23:25:31.507623+00:00",
+      "event_date": "2026-11-25T23:01:45+00:00",
+      "last_update": "2026-11-25T23:01:45+00:00",
+      "event": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adhd",
+        "and",
+        "are",
+        "assessments",
+        "autism",
+        "being",
+        "for",
+        "long",
+        "mean",
+        "most",
+        "need",
+        "not",
+        "seek",
+        "seen",
+        "that",
+        "those",
+        "thousands",
+        "tragedy",
+        "waits",
+        "warns"
+      ],
+      "source_excerpt": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T23:01:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "329921629d920fb948597208",
+      "remembered_at": "2026-11-25T23:25:31.507623+00:00",
+      "event_date": "2026-11-25T23:20:43+00:00",
+      "last_update": "2026-11-25T23:20:43+00:00",
+      "event": "Images from Earth's asteroid defence test reveal new crater",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asteroid",
+        "bbc",
+        "crash",
+        "crater",
+        "defence",
+        "disaster",
+        "earth",
+        "editor",
+        "from",
+        "images",
+        "like",
+        "morelle",
+        "movie",
+        "new",
+        "out",
+        "rebecca",
+        "reveal",
+        "says",
+        "science",
+        "something",
+        "test",
+        "the",
+        "was"
+      ],
+      "source_excerpt": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T23:20:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fd5a10a063cc8ca81b647f96",
+      "remembered_at": "2026-11-25T23:25:31.507623+00:00",
+      "event_date": "2026-11-25T21:52:00+00:00",
+      "last_update": "2026-11-25T21:52:00+00:00",
+      "event": "Travis Barker explains his new tattoo rule since marrying Kourtney Kardashian",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "barker",
+        "explains",
+        "his",
+        "international",
+        "kardashian",
+        "kourtney",
+        "marrying",
+        "new",
+        "news",
+        "rule",
+        "since",
+        "tattoo",
+        "the",
+        "travis"
+      ],
+      "source_excerpt": "Travis Barker explains his new tattoo rule since marrying Kourtney Kardashian The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHljSmFvZmFMeXZxX3RFSktMaklEOFNCMjh1NUk4c1hCTC1udklyQlNQdVFEOTA1Y0ZReXhnMnFSTW9HYXVROHZ5dzhwSndhV1pkWEZBM1ROeXVsMUJuWW92S192N050QURpLURVUTBQUV96Z3I5QjdPUnl5cnZOUGdBWmZyZ09VbXBnTEs2YjU5X0lsNFBaanhpdkNDRWgxWVNrVHJ0UHRBWDZwSjJUY203NEtPZmPSAbcBQVVfeXFMT0h5Y0phb2ZhTHl2cV90RUpLTGpJRDhTQjI4dTVJOHNYQkwtbnZJckJTUHVRRDkwNWNGUXl4ZzJxUk1vR2F1UTh2eXc4cEp3YVdaZFhGQTNUTnl1bDFCbllvdktfdjdOdEFEaS1EVVEwUFFfemdyOUI3T1J5eXJ2TlBnQVpmcmdPVW1wZ0xLNmI1OV9JbDRQWmp4aXZDQ0VoMVlTa1RydFB0QVg2cEoyVGNtNzRLT2Zj?oc=5",
+          "published_at": "2026-11-25T21:52:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHljSmFvZmFMeXZxX3RFSktMaklEOFNCMjh1NUk4c1hCTC1udklyQlNQdVFEOTA1Y0ZReXhnMnFSTW9HYXVROHZ5dzhwSndhV1pkWEZBM1ROeXVsMUJuWW92S192N050QURpLURVUTBQUV96Z3I5QjdPUnl5cnZOUGdBWmZyZ09VbXBnTEs2YjU5X0lsNFBaanhpdkNDRWgxWVNrVHJ0UHRBWDZwSjJUY203NEtPZmPSAbcBQVVfeXFMT0h5Y0phb2ZhTHl2cV90RUpLTGpJRDhTQjI4dTVJOHNYQkwtbnZJckJTUHVRRDkwNWNGUXl4ZzJxUk1vR2F1UTh2eXc4cEp3YVdaZFhGQTNUTnl1bDFCbllvdktfdjdOdEFEaS1EVVEwUFFfemdyOUI3T1J5eXJ2TlBnQVpmcmdPVW1wZ0xLNmI1OV9JbDRQWmp4aXZDQ0VoMVlTa1RydFB0QVg2cEoyVGNtNzRLT2Zj?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "62b090063e912f6dea691486",
+      "remembered_at": "2026-11-25T23:25:31.507623+00:00",
+      "event_date": "2026-11-25T21:42:09+00:00",
+      "last_update": "2026-11-25T21:42:09+00:00",
+      "event": "Gold loses Rs11,500 amid US inflation fears",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500",
+        "amid",
+        "express",
+        "fears",
+        "gold",
+        "inflation",
+        "loses",
+        "rs11",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Gold loses Rs11,500 amid US inflation fears The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWxPVmsyWTNaUXZNUDRpd1o0Q0k5LUlpU0JyQVhJb1pBaUw1bl9Rc2hab0xiTlVvbDBNT1BGaWMzamRVTXFYazBLVV9hM3YtTmttNUM1eDV4Tk11d0M5S1FBVERER21GTjJmQWdzbHBwV2R5Unl1N0VZb3JHWUh2LXVob3ZRQdIBjgFBVV95cUxPaE5Wa0J6RFA5OW44cW9ZVnc1RllRTG5hUmdydXlLdEpZV3VJaDJsTThNOWhWTnMxTWd1cUhFNWsyX3Z6UzB1azRST1NCcmVBdkR4REtrR1FIbkhOeHItZ2tyaVhIejdkTThnZllEYVNaTmpUemctOWszYmxZa3lsWEJvVF9Wa1dCcUoxX0JR?oc=5",
+          "published_at": "2026-11-25T21:42:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWxPVmsyWTNaUXZNUDRpd1o0Q0k5LUlpU0JyQVhJb1pBaUw1bl9Rc2hab0xiTlVvbDBNT1BGaWMzamRVTXFYazBLVV9hM3YtTmttNUM1eDV4Tk11d0M5S1FBVERER21GTjJmQWdzbHBwV2R5Unl1N0VZb3JHWUh2LXVob3ZRQdIBjgFBVV95cUxPaE5Wa0J6RFA5OW44cW9ZVnc1RllRTG5hUmdydXlLdEpZV3VJaDJsTThNOWhWTnMxTWd1cUhFNWsyX3Z6UzB1azRST1NCcmVBdkR4REtrR1FIbkhOeHItZ2tyaVhIejdkTThnZllEYVNaTmpUemctOWszYmxZa3lsWEJvVF9Wa1dCcUoxX0JR?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T22:29:08.481066+00:00"
+  "updated_at": "2026-11-25T23:25:31.507623+00:00"
 }
