@@ -147375,7 +147375,1016 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6fcb1ddaab882db86ad68720",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-24T22:04:29+00:00",
+      "last_update": "2026-11-25T01:02:13+00:00",
+      "event": "Inflation projected at 9.8% as food prices bite",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bite",
+        "express",
+        "food",
+        "inflation",
+        "prices",
+        "projected",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Inflation projected at 9.8% as food prices bite The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1JvTVZDemMyWXNMNUdGSU1HVTV1a0dCZTVYaUJUQ3FZMERNUzhkLTREREIzV3FRemtuRmNkZGdRck96d2V0bXctb2dWenFYdmhsSWk0OWdmLU5SbXJCRDRsZVlwcklSY3o3aXVhbnA0QjBFWXVMLWxPSWRmbnptUGloSnVUcU9icHfSAZIBQVVfeXFMTnQ4VUEyWGZwZmxuMGIxQmZFTy1fR2daT3ZvUUtVaXZpbmFBUnJKNlpyOElPdTBBMXhOa0pESGktV1pJUDBmM1JESmZ1cDVQOEl3UWRmS0luOGlPZ18xTGVfMG5YNWY3SzdFSTNTTGZPenVkSGRZeXFYeGJnWkZFOVdJUGRYRXlyZ3lBUGMxaGpMT1E?oc=5",
+          "published_at": "2026-11-24T22:04:29+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50N2pZZGFad0lzdFpzS2I1cDByVEg4ak11X3BlbkZsODM3eFROdEJzRS04WW1FMHloR3AwVl9Ya0NfNVN2RjdsbGJCaFd4UmJFUjlxVXBoSDVCQkk?oc=5",
+          "published_at": "2026-11-25T01:02:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1JvTVZDemMyWXNMNUdGSU1HVTV1a0dCZTVYaUJUQ3FZMERNUzhkLTREREIzV3FRemtuRmNkZGdRck96d2V0bXctb2dWenFYdmhsSWk0OWdmLU5SbXJCRDRsZVlwcklSY3o3aXVhbnA0QjBFWXVMLWxPSWRmbnptUGloSnVUcU9icHfSAZIBQVVfeXFMTnQ4VUEyWGZwZmxuMGIxQmZFTy1fR2daT3ZvUUtVaXZpbmFBUnJKNlpyOElPdTBBMXhOa0pESGktV1pJUDBmM1JESmZ1cDVQOEl3UWRmS0luOGlPZ18xTGVfMG5YNWY3SzdFSTNTTGZPenVkSGRZeXFYeGJnWkZFOVdJUGRYRXlyZ3lBUGMxaGpMT1E?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b4ed50a18122e1150aaa34e4",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-24T18:06:01+00:00",
+      "last_update": "2026-11-25T01:45:40+00:00",
+      "event": "Govt taps three banks for $500m",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500m",
+        "banks",
+        "dawn",
+        "for",
+        "govt",
+        "taps",
+        "three"
+      ],
+      "source_excerpt": "Govt taps three banks for $500m Dawn",
+      "sources": [
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWh4eU1JVzl2MEo2QTBsek91M09TQnh6S0NYTHhuRHhOWjdaa2EwdlNNenNQUFA3X2F0NTFoNXNPQjJIeHkxbjItRmhCNnF3N3Z6eUVtVnpmdGxEbnFTMDFjOHNLcFVsYVlWVDNaRDc0TlpoRTQ5Qk41d2NTai1QQVJ3LWJCS1ZBUGNrUms2aWxvbzQ1OE40ZDQ4X2g2eUZVa3BKOFp2R0dVVGNVUEVSVVk0VzNWQdIBU0FVX3lxTE5xc081SFFYbnBsT3l1eThSUlhtNDltM24yQmVHZ05MRkRKNC11aEFTUlUzOHM0Z2VrdmNKcUMwZHU2bkhESm1QWDdiTU1hM1NxUUhF?oc=5",
+          "published_at": "2026-11-24T18:06:01+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6Q0xISnU4NHlHZDNMRklpc0lBSmhTMGthWXFPajBBWXk2ZVNjNlVGcGoySXJabDE1ZWNhT2NBM3JmWERLaU1oUlp5OElUcGt0MHJwSDhMdTI4T2lZck93Z1J5V3dSU21LNVpfWS1jbUNlZw?oc=5",
+          "published_at": "2026-11-25T01:45:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6Q0xISnU4NHlHZDNMRklpc0lBSmhTMGthWXFPajBBWXk2ZVNjNlVGcGoySXJabDE1ZWNhT2NBM3JmWERLaU1oUlp5OElUcGt0MHJwSDhMdTI4T2lZck93Z1J5V3dSU21LNVpfWS1jbUNlZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8ac1c1b3e9839ede758b89d5",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-24T20:33:45+00:00",
+      "last_update": "2026-11-24T23:29:40+00:00",
+      "event": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "airport",
+        "arrested",
+        "attempting",
+        "board",
+        "convicts",
+        "fight",
+        "flight",
+        "for",
+        "johannesburg",
+        "man",
+        "november",
+        "russia",
+        "south",
+        "the",
+        "tried",
+        "ukraine",
+        "was",
+        "while",
+        "who",
+        "zimbabwean"
+      ],
+      "source_excerpt": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1pQTkkwbFpnM3VYNXR4Y0FYakstTEVVZ3pJWTZ4SVFMN2N6Y29yQXFFYmJRR09GNzcyODdKNG9vWFFyMlRFUTMyeWx1QWtxNFFzSG4wZDZJdDZJbVdyUFZtcHNnRk1FQ0RpWkk5QTViQ3FXVEFKNmpWbEFIZjFnbXNGRmhwaUxOWGl2cENPVzg2M1RUTkgzckVEQTFfZGN4RGdLSkFDenhWQ1I3MWJZMVZCSXZPaXV0Z0FPUm53ODM4V3ZlZW5Ici1QZzJHZkZNajJv?oc=5",
+          "published_at": "2026-11-24T20:33:45+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+          "published_at": "2026-11-24T23:29:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "38b3b517212e8f05ae037d3e",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T01:30:44+00:00",
+      "last_update": "2026-11-25T01:30:44+00:00",
+      "event": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreed",
+        "avigdor",
+        "bid",
+        "coalition",
+        "eisenkot",
+        "first",
+        "form",
+        "government",
+        "home",
+        "israel",
+        "led",
+        "lieberman",
+        "our",
+        "pact",
+        "partner",
+        "party",
+        "says",
+        "secures",
+        "sign",
+        "the",
+        "with",
+        "yashar"
+      ],
+      "source_excerpt": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+          "published_at": "2026-11-25T01:30:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "05f56f2ee8a543d60d52abb1",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T01:21:02+00:00",
+      "last_update": "2026-11-25T01:21:02+00:00",
+      "event": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "ahmadi",
+        "authorities",
+        "concert",
+        "have",
+        "iran",
+        "iranian",
+        "lashed",
+        "live",
+        "over",
+        "parastoo",
+        "performance",
+        "singer",
+        "streamed",
+        "times",
+        "whips",
+        "youtube"
+      ],
+      "source_excerpt": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+          "published_at": "2026-11-25T01:21:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ea1b1736b60a0375d1a5a2e6",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T01:14:22+00:00",
+      "last_update": "2026-11-25T01:21:15+00:00",
+      "event": "Poll finds US voters want government to end Iran war regardless of terms",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "brought",
+        "democrats",
+        "end",
+        "finds",
+        "government",
+        "immediately",
+        "including",
+        "iran",
+        "new",
+        "percent",
+        "poll",
+        "regardless",
+        "survey",
+        "terms",
+        "that",
+        "voters",
+        "want",
+        "war"
+      ],
+      "source_excerpt": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+          "published_at": "2026-11-25T01:14:22+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm1YOEowMHlEOEFfUDVPVFdFTUFxZzlzd2FTLThDN0hLQmNDaThpZEh1b3BHckMyWE9xcFVkQnB6ZmdOa0lyaS00QTNLT3QwMmkzNXJSTU9YR3ZQQko3c19fLUJjN3liOF91aXp5YU9YQWxDM05TRmhZUjJpcDV0WDZBRVRNY0VMMHA4R1lubzAyR3p6ZzU5WmNETmoyZXJTamVrOEc1Uy13X3JhNzYyN1N2VUTSAboBQVVfeXFMUGMwekN3LWRnMU9RSWQxT292VlZvWWlXY0NEWmJGUmExMWg0RmJLc3hXanhKek9Od042RFVIaEMyVHhmcklVQnJ4TWV2ZmtsTmhuaHY2S2NXODNLcGpnM1B0cEh2SjhhbGhOSk5IU0VqYkNIREItczFWaDdibDlNckNWQnc3RExuWk4yZnRway1jMi1Ra2ZHQU11N1hPdVVHQTlzZHpRRF9NcWd1ZVVjR1JXSC1pRkJLOERR?oc=5",
+          "published_at": "2026-11-25T01:21:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "59ea576a00ea898fb101965d",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T00:49:35+00:00",
+      "last_update": "2026-11-25T00:49:35+00:00",
+      "event": "Gunmen hold dozens hostage in Colombia supermarket",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "armed",
+        "around",
+        "cartagena",
+        "colombia",
+        "dozens",
+        "group",
+        "gunmen",
+        "hold",
+        "holding",
+        "hostage",
+        "men",
+        "people",
+        "supermarket"
+      ],
+      "source_excerpt": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+          "published_at": "2026-11-25T00:49:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "38c88636ef12092eda8e9012",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T00:34:05+00:00",
+      "last_update": "2026-11-25T00:34:05+00:00",
+      "event": "Why tiny cars are taking off across Europe",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "are",
+        "being",
+        "car",
+        "cars",
+        "demographic",
+        "elderly",
+        "embraced",
+        "europe",
+        "for",
+        "off",
+        "once",
+        "people",
+        "rural",
+        "seen",
+        "taking",
+        "tiny",
+        "why",
+        "younger"
+      ],
+      "source_excerpt": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T00:34:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "965ef766647154058d559122",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T01:03:24+00:00",
+      "last_update": "2026-11-25T01:03:24+00:00",
+      "event": "Will there be a White Christmas this year?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "big",
+        "but",
+        "chances",
+        "christmas",
+        "day",
+        "early",
+        "just",
+        "month",
+        "say",
+        "signs",
+        "the",
+        "there",
+        "this",
+        "until",
+        "what",
+        "white",
+        "will",
+        "year"
+      ],
+      "source_excerpt": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T01:03:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f572a1b018c5f7f6afdbb638",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T01:02:13+00:00",
+      "last_update": "2026-11-25T01:02:13+00:00",
+      "event": "The rising cost of putting food on the table in India",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "broadening",
+        "budgets",
+        "cost",
+        "food",
+        "household",
+        "india",
+        "inflation",
+        "putting",
+        "rising",
+        "squeezing",
+        "table",
+        "the"
+      ],
+      "source_excerpt": "India's food inflation is broadening, squeezing household budgets.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T01:02:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8699b83e77d48124ae5e0f6f",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T00:38:01+00:00",
+      "last_update": "2026-11-25T00:38:01+00:00",
+      "event": "US preparing to unveil new tariffs on global trading partners",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "america",
+        "and",
+        "biggest",
+        "china",
+        "global",
+        "hit",
+        "including",
+        "levies",
+        "many",
+        "new",
+        "partners",
+        "preparing",
+        "tariffs",
+        "the",
+        "trading",
+        "unveil",
+        "would"
+      ],
+      "source_excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T00:38:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4aaf3d86808cb41cb875e58b",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T00:33:25+00:00",
+      "last_update": "2026-11-25T00:33:25+00:00",
+      "event": "What will the energy cap changes mean for my bills?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affecting",
+        "bills",
+        "cap",
+        "changes",
+        "energy",
+        "for",
+        "households",
+        "mean",
+        "millions",
+        "ofgem",
+        "raising",
+        "regulator",
+        "the",
+        "what",
+        "will"
+      ],
+      "source_excerpt": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T00:33:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9d057a5cc23b0ed612ca22e4",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T01:03:05+00:00",
+      "last_update": "2026-11-25T01:03:05+00:00",
+      "event": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "boom",
+        "ceo",
+        "fates",
+        "fortunes",
+        "has",
+        "his",
+        "huang",
+        "inextricably",
+        "intercession",
+        "intervention",
+        "jensen",
+        "linked",
+        "nvidia",
+        "political",
+        "president",
+        "reinstate",
+        "the",
+        "their",
+        "ties",
+        "trump"
+      ],
+      "source_excerpt": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T01:03:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "732f27469786dbc5dfadfb75",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T00:30:52+00:00",
+      "last_update": "2026-11-25T00:30:52+00:00",
+      "event": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "bbc",
+        "bills",
+        "control",
+        "down",
+        "energy",
+        "how",
+        "keep",
+        "keeping",
+        "machine",
+        "only",
+        "our",
+        "people",
+        "speaks",
+        "steps",
+        "sunday",
+        "take",
+        "the",
+        "their",
+        "they",
+        "three",
+        "under",
+        "use",
+        "washing"
+      ],
+      "source_excerpt": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T00:30:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "072c818eb7c5283f8a2174f5",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T00:56:51+00:00",
+      "last_update": "2026-11-25T00:56:51+00:00",
+      "event": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "500",
+        "almost",
+        "bbc",
+        "deaths",
+        "figures",
+        "own",
+        "russia",
+        "show",
+        "ukraine",
+        "war"
+      ],
+      "source_excerpt": "Russia's own figures show almost 500,000 deaths in war in Ukraine BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52ekxuU3VuendQQVpId1BlX21DeXpnMW9teFNfV1A3Nng0ODhEblNKSmRVd0dHcjFpY2xfVjh5cVg2bnd5LTRaaWNQQlF3bGVDbE9rUGw5My1lSE0?oc=5",
+          "published_at": "2026-11-25T00:56:51+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9majdiXzYxdlU5VzFlNmlZRTRzMzlJeE9nLUFpQ25QaENDaS1YNjQ1aUcyTGhsUHFBM0lMVnR0VUpwM1NzWDhRNXFuQ05ERmRtVk9HX3ZiemVBejM4NHc?oc=5",
+          "published_at": "2026-11-25T00:56:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52ekxuU3VuendQQVpId1BlX21DeXpnMW9teFNfV1A3Nng0ODhEblNKSmRVd0dHcjFpY2xfVjh5cVg2bnd5LTRaaWNQQlF3bGVDbE9rUGw5My1lSE0?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f2c69efd7af486e3c17659ee",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T00:54:13+00:00",
+      "last_update": "2026-11-25T00:54:13+00:00",
+      "event": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "blamed",
+        "complicated",
+        "died",
+        "family",
+        "mum",
+        "the",
+        "troops",
+        "truth",
+        "ukraine",
+        "zelensky"
+      ],
+      "source_excerpt": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OMkxnUUNpN0VwdFdpMk41aU5yX3pqcjEzSmYxY2VGX1BCOVVscUo3RlZLY1hEQUc3amx5NnFKRXZIcjVjNnNQUUtiOVRKTFZYT1lyXy1qZC1wUDAzNnc?oc=5",
+          "published_at": "2026-11-25T00:54:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OMkxnUUNpN0VwdFdpMk41aU5yX3pqcjEzSmYxY2VGX1BCOVVscUo3RlZLY1hEQUc3amx5NnFKRXZIcjVjNnNQUUtiOVRKTFZYT1lyXy1qZC1wUDAzNnc?oc=5",
+        "publisher_url": "https://www.bbc.co.uk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bf55be8ba55177d4c49aa00b",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T00:58:34+00:00",
+      "last_update": "2026-11-25T00:58:34+00:00",
+      "event": "Clashing political visions reflect a divided Spain ahead of election",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "bbc",
+        "clashing",
+        "divided",
+        "election",
+        "political",
+        "reflect",
+        "spain",
+        "visions"
+      ],
+      "source_excerpt": "Clashing political visions reflect a divided Spain ahead of election BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4dGtiRTc0WWVlRTU1SnBSTXRGSFJZWGtXNWpTTW1LSkduRU1oWkg5LTZKUDR3RkZvYlJncFlSejFWMUlFTmlCTUpnanJmbmJlWTVJY2FKaWxVYzA?oc=5",
+          "published_at": "2026-11-25T00:58:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4dGtiRTc0WWVlRTU1SnBSTXRGSFJZWGtXNWpTTW1LSkduRU1oWkg5LTZKUDR3RkZvYlJncFlSejFWMUlFTmlCTUpnanJmbmJlWTVJY2FKaWxVYzA?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d45b5e3126426ddd370bc1be",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T00:51:17+00:00",
+      "last_update": "2026-11-25T00:51:17+00:00",
+      "event": "World | Latest News & Updates",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "latest",
+        "news",
+        "updates",
+        "world"
+      ],
+      "source_excerpt": "World | Latest News & Updates BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5aUW1MN1dXLUdVRU9VcjdnWDhmdXBwbl9qaWNJYlZBdzA2RGthQkVkVHFvWWw5WEF1MDVveHVBb3pCOEZn?oc=5",
+          "published_at": "2026-11-25T00:51:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5aUW1MN1dXLUdVRU9VcjdnWDhmdXBwbl9qaWNJYlZBdzA2RGthQkVkVHFvWWw5WEF1MDVveHVBb3pCOEZn?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eb34bbd2278a01720f517315",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T01:42:14+00:00",
+      "last_update": "2026-11-25T01:42:14+00:00",
+      "event": "PTI seeks live broadcast of Imran’s appeal hearing",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appeal",
+        "broadcast",
+        "dawn",
+        "hearing",
+        "imran",
+        "live",
+        "pti",
+        "seeks"
+      ],
+      "source_excerpt": "PTI seeks live broadcast of Imran’s appeal hearing Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcm83QkZ4R0F1RVdlNWM2VVc1eUxHQ0lZVjl4dFJQUHZ5X2kwT0o4dlRzam9mOGdtcm84TjhYN1ZCSWR0bUNldXVtWEt4bGVHYWxFSVFRVmpJQ2lacF9YRDM1S0NUMnBJY21NSmZ5XzVybEJpbzJNUmV4VVpKcHZpa3RTTDZXdWpVRFlB?oc=5",
+          "published_at": "2026-11-25T01:42:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcm83QkZ4R0F1RVdlNWM2VVc1eUxHQ0lZVjl4dFJQUHZ5X2kwT0o4dlRzam9mOGdtcm84TjhYN1ZCSWR0bUNldXVtWEt4bGVHYWxFSVFRVmpJQ2lacF9YRDM1S0NUMnBJY21NSmZ5XzVybEJpbzJNUmV4VVpKcHZpa3RTTDZXdWpVRFlB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "79aa90945eb288591c3562b4",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T01:45:40+00:00",
+      "last_update": "2026-11-25T01:45:40+00:00",
+      "event": "$150m Punjab education project downgraded",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "150m",
+        "dawn",
+        "downgraded",
+        "education",
+        "project",
+        "punjab"
+      ],
+      "source_excerpt": "$150m Punjab education project downgraded Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tTkhjSlV5Z2lGQUVZOXc4OTdQeDl4RlZNdzVqTy0tNzdTa0FocWJuYm14eldyV0ZZUVdTcUg1RnRaYUNTRlotTXZDRHBQSGFpVThzNzAySy1jdmpjSzZCbndxQ2hvc0FoWlk5ZV9HWm1QRGc0ZnJRMDFHbnVQa0k?oc=5",
+          "published_at": "2026-11-25T01:45:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tTkhjSlV5Z2lGQUVZOXc4OTdQeDl4RlZNdzVqTy0tNzdTa0FocWJuYm14eldyV0ZZUVdTcUg1RnRaYUNTRlotTXZDRHBQSGFpVThzNzAySy1jdmpjSzZCbndxQ2hvc0FoWlk5ZV9HWm1QRGc0ZnJRMDFHbnVQa0k?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "31cc93a3f71482de02e4fe66",
+      "remembered_at": "2026-11-25T01:58:04.069151+00:00",
+      "event_date": "2026-11-25T01:41:20+00:00",
+      "last_update": "2026-11-25T01:41:20+00:00",
+      "event": "Pakistan warns of global energy crisis as conflicts disrupt supplies",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "conflicts",
+        "crisis",
+        "dawn",
+        "disrupt",
+        "energy",
+        "global",
+        "pakistan",
+        "supplies",
+        "warns"
+      ],
+      "source_excerpt": "Pakistan warns of global energy crisis as conflicts disrupt supplies Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sVENUdlctT0V2VW5tUTM0LTI2eHVWdzRhX1U1cEEzU2lJbUQ1Mi1odUZvWUVQNzBqbHZTbkJsRGwxajdNcEFfYkF3?oc=5",
+          "published_at": "2026-11-25T01:41:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sVENUdlctT0V2VW5tUTM0LTI2eHVWdzRhX1U1cEEzU2lJbUQ1Mi1odUZvWUVQNzBqbHZTbkJsRGwxajdNcEFfYkF3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T00:31:05.043170+00:00"
+  "updated_at": "2026-11-25T01:58:04.069151+00:00"
 }

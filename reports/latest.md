@@ -1,190 +1,197 @@
-# News Hub report - Wed 25 Nov, 05:31 AM PKT
+# News Hub report - Wed 25 Nov, 06:58 AM PKT
 
 ## Collection
-- New items this run: 17 | items in rolling pool: 330
-- Unique story clusters: 277 (duplicates merged: 53)
-- Clusters dropped as already published/queued: 9; unchanged since last analysis: 7
-- Items per outlet: Al Jazeera 5, Dawn Latest 4, TechCrunch 2, Dawn 1, The Verge 1, Engadget 1, Wired 1, BBC Health 1, BBC Business 1, Jang Fast Lane 0, The News International 0, Dawn Search 0
+- New items this run: 54 | items in rolling pool: 268
+- Unique story clusters: 236 (duplicates merged: 32)
+- Clusters dropped as already published/queued: 13; unchanged since last analysis: 4
+- Items per outlet: Dawn 17, BBC 6, Al Jazeera 5, BBC Business 4, The Express Tribune 3, Engadget 2, BBC Science 2, The News International 1, Dawn Latest 1, Geo News 1, Reuters 1, The Verge 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Huawei found guilty of stealing trade secrets but acquitted of racketeering | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bellingham stunner, Mbappe brace help Real Madrid rout PSV | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Inflation projected at 9.8% as food prices bite | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- South Africa convicts Zimbabwean who tried to fight Ukraine for Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bellingham beauty in Real Madrid win as Arsenal, Man City held in Champions League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Alaska ends deal to give voter records to US Justice Department | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Huawei found guilty of stealing trade secrets but acquitted of racketeering | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bellingham stunner, Mbappe brace help Real Madrid rout PSV | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Inflation projected at 9.8% as food prices bite | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- South Africa convicts Zimbabwean who tried to fight Ukraine for Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bellingham beauty in Real Madrid win as Arsenal, Man City held in Champions League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Alaska ends deal to give voter records to US Justice Department | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Huawei found guilty of stealing trade secrets but acquitted of racketeering | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bellingham stunner, Mbappe brace help Real Madrid rout PSV | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Inflation projected at 9.8% as food prices bite | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- South Africa convicts Zimbabwean who tried to fight Ukraine for Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bellingham beauty in Real Madrid win as Arsenal, Man City held in Champions League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Alaska ends deal to give voter records to US Justice Department | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 95/120 | empty: 1 | failed: 24 | malformed/partial: 24
-- Trusted publisher desks with at least one healthy source: 9/10
-- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI and Imran Khan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Khyber Pakhtunkhwa Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Dunya News TV
 
 ## Selected for the queue
-### Houthis threaten Saudi ports as coalition issues evacuation order  [NORMAL]
-- Poster: حوثیوں کی سعودی بندرگاہوں کو نشانہ بنانے کی دھمکی / Houthis threaten Saudi ports | category politics
-- Alternative headline: Yemen's Houthis vow to target Jeddah if Hodeidah is hit
+### Israel’s Eisenkot secures first coalition partner in bid to form government  [NORMAL]
+- Poster: اسرائیل میں حکومت سازی کی کوششیں، پہلی اتحادی جماعت کا حصول / Israel: Eisenkot secures first coalition partner | category politics
+- Alternative headline: Yashar and Our Home parties sign coalition pact in Israel
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Houthis, Saudi ports, Hodeidah, Jeddah, coalition, Yemen | hashtags: #Houthis #SaudiArabia #Hodeidah #Yemen #MiddleEast
-- Scheduled: Wed 25 Nov, 05:31 AM PKT
-- Caption:
-```
-Yemeni rebels have issued a stern warning that they will target key Saudi ports, including Jeddah, if military operations hit Hodeidah.
-
-The Houthis have vowed to target Jeddah and other major Saudi ports if Hodeidah is attacked. This threat follows an evacuation order issued by the Saudi-led coalition, raising tensions in the ongoing regional conflict and threatening vital maritime trade routes.
-
-حوثیوں نے خبردار کیا ہے کہ الحدیدہ پر حملہ ہونے کی صورت میں جدہ سمیت دیگر سعودی بندرگاہوں کو نشانہ بنایا جائے گا۔ یہ دھمکی سعودی اتحاد کی طرف سے انخلا کے حکم کے بعد سامنے آئی ہے، جس سے خطے میں کشیدگی مزید بڑھ گئی ہے۔
-
-First reported by Al Jazeera
-
-#Houthis #SaudiArabia #Hodeidah #Yemen #MiddleEast
-```
-
-### Huawei found guilty of stealing trade secrets in US trial  [NORMAL]
-- Poster: ہواوی تجارتی راز چرانے کے جرم میں قصوروار قرار / Huawei found guilty of theft | category other
-- Alternative headline: US jury convicts Huawei of trade secrets conspiracy
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology, Al Jazeera, The Verge, Engadget
-- Keywords: Huawei, trade secrets, US trial, bank fraud, racketeering, tech giant | hashtags: #Huawei #USTrial #TechNews #Business #Law
-- Scheduled: Wed 25 Nov, 05:41 AM PKT
-- Caption:
-```
-A US jury has found Chinese tech giant Huawei guilty of conspiracy to steal trade secrets and bank fraud.
-
-In a landmark US trial, tech giant Huawei was found guilty of conspiracy to steal trade secrets and bank fraud across 10 out of 12 counts. However, the jury acquitted the company of the more serious racketeering charge, which Huawei stated vindicates its position.
-
-امریکہ میں ایک تاریخی مقدمے کے دوران چینی ٹیکنالوجی کمپنی ہواوی کو تجارتی راز چرانے اور بینک فراڈ کی سازش میں قصوروار قرار دے دیا گیا ہے، تاہم ریکٹی رنگ کے الزامات سے بری کر دیا گیا۔
-
-First reported by BBC Technology
-
-#Huawei #USTrial #TechNews #Business #Law
-```
-
-### Arsenal and Borussia Dortmund draw 1-1 in Champions League  [NORMAL]
-- Poster: آرسنل اور بوروسیا ڈورٹمنڈ کا میچ ایک ایک گول سے برابر / Arsenal draw with Dortmund | category sports
-- Alternative headline: Gyokeres misses out as Arsenal held by Dortmund
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Arsenal, Borussia Dortmund, Champions League, football, draw, Gyokeres | hashtags: #Arsenal #Dortmund #ChampionsLeague #UCL #Football
-- Scheduled: Wed 25 Nov, 05:51 AM PKT
+- Keywords: Israel coalition, Eisenkot, Yashar party, Avigdor Lieberman, government formation, Our Home party | hashtags: #Israel #Politics #MiddleEast #Government #News
+- Scheduled: Wed 25 Nov, 06:58 AM PKT
 - Caption:
 ```
-Arsenal dominated chances but had to settle for a 1-1 draw against Borussia Dortmund in the UEFA Champions League.
+Israel's political landscape shifts as key opposition figures make moves to form a new government.
 
-Arsenal were held to a 1-1 draw by Borussia Dortmund in the UEFA Champions League. Despite dominating the game and creating numerous chances, the English side could not secure a win as Dortmund fought back.
+The Yashar party announced it has agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman, as efforts continue to form a new government.
 
-UEFA چیمپئنز لیگ کے ایک میچ میں آرسنل اور بوروسیا ڈورٹمنڈ کا مقابلہ ایک ایک گول سے برابر رہا۔ آرسنل نے کئی مواقع پیدا کیے لیکن ڈورٹمنڈ نے شاندار واپسی کی۔
+یاشار پارٹی نے اعلان کیا ہے کہ اس نے نئی حکومت بنانے کی کوششوں کے سلسلے میں ایوگڈور لیبرمین کی قیادت میں اسرائیل کی اور ہوم پارٹی کے ساتھ اتحادی معاہدے پر دستخط کرنے پر اتفاق کر لیا ہے۔
 
 First reported by Al Jazeera
 
-#Arsenal #Dortmund #ChampionsLeague #UCL #Football
+#Israel #Politics #MiddleEast #Government #News
 ```
 
-### Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show  [NORMAL]
-- Poster: ریئল মাদریڈ نے پی ایس وی کو پانچ کے مقابلے ایک گول سے ہرادیا / Real Madrid rout PSV 5-1 | category sports
-- Alternative headline: Bellingham and Mbappe lead Real Madrid to 5-1 rout
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Real Madrid, PSV Eindhoven, Champions League, Bellingham, Mbappe, football | hashtags: #RealMadrid #PSV #ChampionsLeague #Bellingham #Mbappe
-- Scheduled: Wed 25 Nov, 06:01 AM PKT
-- Caption:
-```
-Real Madrid overcame an early deficit to thrash PSV Eindhoven 5-1 in the Champions League thanks to stellar performances.
-
-Real Madrid came from behind to secure a dominant 5-1 victory against PSV Eindhoven in the Champions League. A brilliant performance featuring a stunning goal by Jude Bellingham and a brace from Kylian Mbappe sealed the comfortable win.
-
-ریئল মাদریڈ نے چیمپئنز لیگ میں شاندار کم بیک کرتے ہوئے پی ایس وی کو 1-5 سے شکست دے دی۔ جود بیلنگھم اور کاتلیان مبپے نے اپنی ٹیم کی جیت میں اہم کردار ادا کیا۔
-
-First reported by Al Jazeera
-
-#RealMadrid #PSV #ChampionsLeague #Bellingham #Mbappe
-```
-
-### Pakistan strongly condemns Houthi attack on Riyadh tower  [NORMAL]
-- Poster: پاکستان کی ریاض میں ٹاور پر حوثی حملے کی مذمت / Pakistan condemns Riyadh attack | category other
-- Alternative headline: Pakistan says Houthi attack on Riyadh undermines regional peace
+### Inflation projected at 9.8% as food prices bite  [NORMAL]
+- Poster: کھانے پینے کی اشیاء کی قیمتیں بڑھنے سے مہنگائی 9.8 فیصد تک جانے کا تخمینہ / Inflation projected at 9.8% due to food prices | category economy
+- Alternative headline: Rising food prices push projected inflation to 9.8 percent
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHBjalpObzBuNzRUeHJpbG5zYXlLNmF0OWhyd3JFNzB4bVVPQjJjU2Nuc0lRRm04RmdvV09hUUkwcGU5d0FVMnRfcU1xVlRoM1JfWktnVW5fT1djVVZwam42dFVETjV6Z1pzZDdpZU1fek9sT0tWZU54M2VPSUJUSFVIQ2ExZ05PVklMT0d5YVJnaGZWU2xYUnZwYmxkZXh0WVI4SmQ3TGRVbjhtajFWOXp2cXQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHBjalpObzBuNzRUeHJpbG5zYXlLNmF0OWhyd3JFNzB4bVVPQjJjU2Nuc0lRRm04RmdvV09hUUkwcGU5d0FVMnRfcU1xVlRoM1JfWktnVW5fT1djVVZwam42dFVETjV6Z1pzZDdpZU1fek9sT0tWZU54M2VPSUJUSFVIQ2ExZ05PVklMT0d5YVJnaGZWU2xYUnZwYmxkZXh0WVI4SmQ3TGRVbjhtajFWOXp2cXQ?oc=5
-- Supporting coverage: Dawn, The National, samaa tv
-- Keywords: Pakistan, Houthi attack, Riyadh, Saudi Arabia, condemnation, peace | hashtags: #Pakistan #SaudiArabia #Riyadh #Houthis #ForeignPolicy
-- Scheduled: Wed 25 Nov, 06:11 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1JvTVZDemMyWXNMNUdGSU1HVTV1a0dCZTVYaUJUQ3FZMERNUzhkLTREREIzV3FRemtuRmNkZGdRck96d2V0bXctb2dWenFYdmhsSWk0OWdmLU5SbXJCRDRsZVlwcklSY3o3aXVhbnA0QjBFWXVMLWxPSWRmbnptUGloSnVUcU9icHfSAZIBQVVfeXFMTnQ4VUEyWGZwZmxuMGIxQmZFTy1fR2daT3ZvUUtVaXZpbmFBUnJKNlpyOElPdTBBMXhOa0pESGktV1pJUDBmM1JESmZ1cDVQOEl3UWRmS0luOGlPZ18xTGVfMG5YNWY3SzdFSTNTTGZPenVkSGRZeXFYeGJnWkZFOVdJUGRYRXlyZ3lBUGMxaGpMT1E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1JvTVZDemMyWXNMNUdGSU1HVTV1a0dCZTVYaUJUQ3FZMERNUzhkLTREREIzV3FRemtuRmNkZGdRck96d2V0bXctb2dWenFYdmhsSWk0OWdmLU5SbXJCRDRsZVlwcklSY3o3aXVhbnA0QjBFWXVMLWxPSWRmbnptUGloSnVUcU9icHfSAZIBQVVfeXFMTnQ4VUEyWGZwZmxuMGIxQmZFTy1fR2daT3ZvUUtVaXZpbmFBUnJKNlpyOElPdTBBMXhOa0pESGktV1pJUDBmM1JESmZ1cDVQOEl3UWRmS0luOGlPZ18xTGVfMG5YNWY3SzdFSTNTTGZPenVkSGRZeXFYeGJnWkZFOVdJUGRYRXlyZ3lBUGMxaGpMT1E?oc=5
+- Supporting coverage: The Express Tribune, BBC
+- Keywords: Inflation, food prices, economy, households, cost of living, price hike | hashtags: #Inflation #Economy #FoodPrices #Market #Finance
+- Scheduled: Wed 25 Nov, 07:08 AM PKT
 - Caption:
 ```
-Pakistan has strongly condemned the recent Houthi missile attack targeting a tower in Riyadh, stating it undermines peace efforts.
+Economic pressures mount as household budgets face severe strain from soaring food costs.
 
-Pakistan has expressed strong condemnation over the Houthi attack targeting a tower in Riyadh, which left several people injured. Islamabad stated that such escalations seriously undermine regional peace and stability efforts.
+Inflation is projected to reach 9.8% as climbing food prices put mounting pressure on consumers and household finances, according to recent reports.
 
-پاکستان نے ریاض میں ٹاور پر ہونے والے حوثی حملے کی شدید الفاظ میں مذمت کی ہے اور کہا ہے کہ اس طرح کے اقدامات خطے میں امن کی کوششوں کو نقصان پہنچاتے ہیں۔
+حالیہ رپورٹوں کے مطابق خوراک کی بڑھتی ہوئی قیمتوں کی وجہ سے صارفین اور گھریلو مالیات پر شدید دباؤ پڑ رہا ہے اور مہنگائی کے 9.8 فیصد تک پہنچنے کا تخمینہ لگایا گیا ہے۔
+
+First reported by The Express Tribune
+
+#Inflation #Economy #FoodPrices #Market #Finance
+```
+
+### Pakistan govt taps three banks for $500m  [NORMAL]
+- Poster: حکومت پاکستان نے 50, کروڑ ڈالر کی فنانسنگ کے لیے تین بینکوں کا انتخاب کر لیا / Govt taps three banks for $500m finance facility | category economy
+- Alternative headline: Pakistan selects consortium of three banks for $500m facility
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMickFVX3lxTFB6Q0xISnU4NHlHZDNMRklpc0lBSmhTMGthWXFPajBBWXk2ZVNjNlVGcGoySXJabDE1ZWNhT2NBM3JmWERLaU1oUlp5OElUcGt0MHJwSDhMdTI4T2lZck93Z1J5V3dSU21LNVpfWS1jbUNlZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMickFVX3lxTFB6Q0xISnU4NHlHZDNMRklpc0lBSmhTMGthWXFPajBBWXk2ZVNjNlVGcGoySXJabDE1ZWNhT2NBM3JmWERLaU1oUlp5OElUcGt0MHJwSDhMdTI4T2lZck93Z1J5V3dSU21LNVpfWS1jbUNlZw?oc=5
+- Supporting coverage: Aaj English TV, Dawn
+- Keywords: Pakistan finance, banks, MIGA, trade finance, economy, government | hashtags: #Pakistan #Economy #Banking #Finance #MIGA
+- Scheduled: Wed 25 Nov, 07:18 AM PKT
+- Caption:
+```
+Pakistan secures financial backing as authorities finalize a major trade finance arrangement.
+
+The government of Pakistan has selected three banks for a $500 million MIGA-backed trade finance facility, strengthening financial support mechanisms for the country.
+
+حکومت پاکستان نے ملک کے لیے مالیاتی معاونت کو مضبوط بناتے ہوئے 50 کروڑ ڈالر کی میگا (MIGA) کی حمایت یافتہ تجارتی فنانسنگ کی سہولت کے لیے تین بینکوں کا انتخاب کیا ہے۔
 
 First reported by Dawn
 
-#Pakistan #SaudiArabia #Riyadh #Houthis #ForeignPolicy
+#Pakistan #Economy #Banking #Finance #MIGA
+```
+
+### South Africa convicts Zimbabwean trying to fight for Russia  [NORMAL]
+- Poster: جنوبی افریقہ میں روس کی طرف سے لڑنے کی کوشش کرنے والا زمبابوے کا شہری سزایافتہ / South Africa convicts Zimbabwean trying to fight for Russia | category crime
+- Alternative headline: South African court convicts Zimbabwean over Ukraine war travel attempt
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss
+- Supporting coverage: The Washington Post, Al Jazeera
+- Keywords: South Africa conviction, Zimbabwean, Russia, Ukraine, Johannesburg airport, arrest | hashtags: #SouthAfrica #Russia #Ukraine #Crime #News
+- Scheduled: Wed 25 Nov, 07:28 AM PKT
+- Caption:
+```
+A security crackdown at a major airport leads to the conviction of an individual attempting to join foreign conflicts.
+
+South Africa has convicted a Zimbabwean man who was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia to fight against Ukraine.
+
+جنوبی افریقہ نے ایک زمبابوے کے شہری کو سزا سنا دی ہے جسے 8 نومبر کو جوہانسبرگ کے ہوائی اڈے پر روس جانے اور یوکرین کے خلاف جنگ میں حصہ لینے کی کوشش کے دوران گرفتار کیا گیا تھا۔
+
+First reported by Al Jazeera
+
+#SouthAfrica #Russia #Ukraine #Crime #News
+```
+
+### Bellingham beauty inspires Real Madrid as Arsenal, Man City held  [NORMAL]
+- Poster: بیلنگھم کا شاندار گول، ریئل میڈرڈ کی فتح جبکہ آرسنل اور مانچسٹر سٹی ڈرائیکا شکار / Bellingham stuns as Real Madrid win in Champions League | category sports
+- Alternative headline: Real Madrid rout PSV 5-1 as Bellingham scores stunner
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046928/bellingham-beauty-in-real-madrid-win-as-arsenal-man-city-held-in-champions-league | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046928/bellingham-beauty-in-real-madrid-win-as-arsenal-man-city-held-in-champions-league
+- Supporting coverage: Dawn Latest
+- Keywords: Champions League, Real Madrid, Jude Bellingham, Kylian Mbappe, Arsenal, Manchester City | hashtags: #ChampionsLeague #RealMadrid #Bellingham #Football #Sports
+- Scheduled: Wed 25 Nov, 07:38 AM PKT
+- Caption:
+```
+European football delivers high drama with brilliant goals and crucial stalemates in the Champions League.
+
+Jude Bellingham scored a remarkable volley as Real Madrid hammered PSV Eindhoven 5-1 to maintain a perfect record in the Champions League, while Arsenal and Manchester City were both held to home draws.
+
+جوڈ بیلنگھم کے شاندار گول کی بدولت ریئل میڈرڈ نے پی ایس وی آئন্দھوون کو 5-1 سے شکست دے کر چیمپئنز لیگ میں اپنی فتوحات کا سلسلہ جاری رکھا، جبکہ آرسنل اور مانچسٹر سٹی اپنے اپنے میچز میں ڈرائیکا شکار ہو گئے۔
+
+First reported by Dawn Latest
+
+#ChampionsLeague #RealMadrid #Bellingham #Football #Sports
+```
+
+### Alaska ends deal to give voter records to US Justice Department  [NORMAL]
+- Poster: الاسکا نے امریکی محکمہ انصاف کو ووٹر ریکارڈ فراہم کرنے کا معاہدہ ختم کر دیا / Alaska ends voter records deal with US Justice Department | category politics
+- Alternative headline: Alaska terminates voter rolls sharing agreement with US Justice Dept
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Alaska voter records, US Justice Department, midterm elections, voter rolls, Alaska politics, federal agreement | hashtags: #Alaska #USPolitics #VoterRecords #JusticeDepartment #News
+- Scheduled: Wed 25 Nov, 07:48 AM PKT
+- Caption:
+```
+Electoral transparency and state autonomy take center stage as a regional voter data agreement is scrapped.
+
+Alaska has ended an agreement to provide voter records to the US Justice Department, following the conclusion of the 2026 midterm elections and previous federal efforts to gather state voter rolls.
+
+2026 کے وسط مدتی انتخابات کے اختتام اور ریاستی ووٹرز کے ریکارڈ کو اکٹھا کرنے کی پچھلی وفاقی کوششوں کے بعد الاسکا نے امریکی محکمہ انصاف کو ووٹر ریکارڈ فراہم کرنے کا معاہدہ ختم کر دیا ہے۔
+
+First reported by Al Jazeera
+
+#Alaska #USPolitics #VoterRecords #JusticeDepartment #News
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 4
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 9
 
 ## Queue status
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
-- [needs_review] normal | French presidential candidate blames media for racist attack | Sat 21 Nov, 11:09 PM PKT
-- [needs_review] normal | Could Brexit be reversed in the future? | Sat 21 Nov, 11:21 PM PKT
-- [needs_review] normal | Punjab Workers Welfare Fund launches new WhatsApp helpline | Sat 21 Nov, 11:31 PM PKT
-- [needs_review] normal | Chelsea suffer shock 4-1 home defeat against Leeds United | Sat 21 Nov, 11:41 PM PKT
-- [needs_review] normal | Russian strike kills two and wounds 60 in Kryvyi Rih | Sat 21 Nov, 11:51 PM PKT
 - [needs_review] normal | Kaliningrad-Bound Ship Struck By Drones In Gulf Of Finland | Sun 22 Nov, 12:34 AM PKT
 - [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 12:44 AM PKT
 - [needs_review] normal | UK Police Drag Man From Protest Over 'Pallet Sign Acton' Shirt | Sun 22 Nov, 12:54 AM PKT
@@ -366,21 +373,23 @@ First reported by Dawn
 - [needs_review] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
 - [published] promo | [YouTube] MARYAM NAWAZ EXPOSED: RS 10 LAKH FLOWERS, MAULANA BLOCKED | Tue 24 Nov, 11:36 PM PKT
 - [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
-- [queued] normal | Huawei found guilty of stealing trade secrets in US trial | Wed 25 Nov, 05:41 AM PKT
+- [published] normal | Huawei found guilty of stealing trade secrets in US trial | Wed 25 Nov, 05:41 AM PKT
 - [queued] normal | Arsenal and Borussia Dortmund draw 1-1 in Champions League | Wed 25 Nov, 05:51 AM PKT
 - [queued] normal | Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show | Wed 25 Nov, 06:01 AM PKT
 - [queued] normal | Pakistan strongly condemns Houthi attack on Riyadh tower | Wed 25 Nov, 06:11 AM PKT
+- [queued] normal | Israel’s Eisenkot secures first coalition partner in bid to form gover | Wed 25 Nov, 06:58 AM PKT
+- [queued] normal | Inflation projected at 9.8% as food prices bite | Wed 25 Nov, 07:08 AM PKT
+- [queued] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
+- [queued] normal | South Africa convicts Zimbabwean trying to fight for Russia | Wed 25 Nov, 07:28 AM PKT
+- [queued] normal | Bellingham beauty inspires Real Madrid as Arsenal, Man City held | Wed 25 Nov, 07:38 AM PKT
+- [queued] normal | Alaska ends deal to give voter records to US Justice Department | Wed 25 Nov, 07:48 AM PKT
 
 ## Publishing this run
-- Published 'Houthis threaten Saudi ports as coalition issues evacuation order'.
+- Published 'Huawei found guilty of stealing trade secrets in US trial'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 7704 | output tokens: 3326
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 2 | prompt tokens: 5989 | output tokens: 3330
+- Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
