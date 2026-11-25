@@ -157581,7 +157581,631 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cc328e2f2f34111de8c0e6a7",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T15:56:15+00:00",
+      "last_update": "2026-11-25T18:42:25+00:00",
+      "event": "President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bangladesh",
+        "calls",
+        "cooperation",
+        "defence",
+        "express",
+        "for",
+        "offers",
+        "pakistan",
+        "president",
+        "stronger",
+        "the",
+        "ties",
+        "tribune",
+        "zardari"
+      ],
+      "source_excerpt": "President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3JGY09GLWh5TW9aSUI3dEpPWTdmN3pQRVcwN3VKSExCOEx1X0VIZDlBalJVWFdoVDZpZlprZGhQaE94MWlaR1FwUVJ0bmdmM3pnOXppSjdld2FUZjU4cTNWTmNZbFdQQ05QbmVVZ3JwaF9vcHlBQ0p6a1lRQktISlIyMnBOdkdtVkZ1c1BEWUQ5WlU1aktGVE1zNWN4X2tETFR5RXE3Rlh1LTVzR0JBNlNLcTRHeDBIZmwxbno4cm9zLXc?oc=5",
+          "published_at": "2026-11-25T15:56:15+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ0d3U2xiWEJkNUtpdFZGa1E4ZXdFQW9BcFZPRmdxTE1mRzNtNGhHVGJWUXZzckdDaTlqTGEtWnFwNl9sM0pLYVZvT2d2MjlHcUswVGJMcnlkWWFqSl8tdkJLZmxDLVVGbHJ3QVE3THk2cVZyOER2YTNDeFZLNC1kck0wWm1WYUxjbWpSYlVyUHZZSGphLXR5YjBn?oc=5",
+          "published_at": "2026-11-25T18:42:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3JGY09GLWh5TW9aSUI3dEpPWTdmN3pQRVcwN3VKSExCOEx1X0VIZDlBalJVWFdoVDZpZlprZGhQaE94MWlaR1FwUVJ0bmdmM3pnOXppSjdld2FUZjU4cTNWTmNZbFdQQ05QbmVVZ3JwaF9vcHlBQ0p6a1lRQktISlIyMnBOdkdtVkZ1c1BEWUQ5WlU1aktGVE1zNWN4X2tETFR5RXE3Rlh1LTVzR0JBNlNLcTRHeDBIZmwxbno4cm9zLXc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a17a85f0bda3e228f6517f2d",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T15:25:19+00:00",
+      "last_update": "2026-11-25T18:11:16+00:00",
+      "event": "سابق فاٹا اور پاٹا کی ٹیکس رعایتوں کا مبینہ غلط استعمال، کمشنر سمیت دو افسران معطل",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "استعمال",
+        "استعمال،",
+        "افسران",
+        "اور",
+        "ایف",
+        "رعایتوں",
+        "سابق",
+        "سمیت",
+        "غلط",
+        "فائلسابق",
+        "فاٹا",
+        "فوٹو",
+        "مبینہ",
+        "معطل",
+        "ٹیکس",
+        "پاٹا",
+        "کردیا۔ترجمان",
+        "کمشنر"
+      ],
+      "source_excerpt": "فوٹو: فائلسابق فاٹا اور پاٹا کی ٹیکس رعایتوں کے مبینہ غلط استعمال پر ایف بی آر نے کمشنر سمیت دو افسران کو معطل کردیا۔ترجمان ایف بی آر...",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5023214",
+          "published_at": "2026-11-25T15:25:19+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5023250",
+          "published_at": "2026-11-25T15:27:13+00:00"
+        },
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636714",
+          "published_at": "2026-11-25T18:11:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636714",
+        "publisher_url": "https://jang.com.pk/news/1636714",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b89875b945d67f1b5f71e55c",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T16:54:02+00:00",
+      "last_update": "2026-11-25T19:03:29+00:00",
+      "event": "Saudi-led coalition says Houthi projectile hits kingdom’s Jazan port",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "coalition",
+        "dawn",
+        "hits",
+        "houthi",
+        "jazan",
+        "kingdom",
+        "led",
+        "port",
+        "projectile",
+        "saudi",
+        "says"
+      ],
+      "source_excerpt": "Saudi-led coalition says Houthi projectile hits kingdom’s Jazan port Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTm1iSnBmNThXVEdsX3lrVXJrYmVwSVFhNlh4YWc5eFpmd3hXZS1Uc050bV9BaTBOVGt0VHdpVjJQOWZGYkJYSTVfRlZNWXAyd0FEMWNIYUpVX2YtNEU1Q3lETUQtcjg5LXFEVk56UnpTNTZNLU54UzM5dU4yOWs2NlpWbzJfTVdXQmtCdGZkRDl0R0lhNDBJc2lPRFpoUnVCVUk4?oc=5",
+          "published_at": "2026-11-25T16:54:02+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmZ5a2ZNTHpFUDJmbk5TSEh0SUI1b1JWN1hVbWR2dkJMSXNaem1yTjR1SXd1SUJHaUh1Skt5Y0JSYVF5X3NkV05qYVBtZzFLOFBGVHJQS2N6eVBENktjYkZBNFBIcmFoUExDdWhJSmp5eWdDTVhFbmJETnVaWS10VDRER3hPS01vZERIam5mLXdvclM5V0E?oc=5",
+          "published_at": "2026-11-25T19:03:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTm1iSnBmNThXVEdsX3lrVXJrYmVwSVFhNlh4YWc5eFpmd3hXZS1Uc050bV9BaTBOVGt0VHdpVjJQOWZGYkJYSTVfRlZNWXAyd0FEMWNIYUpVX2YtNEU1Q3lETUQtcjg5LXFEVk56UnpTNTZNLU54UzM5dU4yOWs2NlpWbzJfTVdXQmtCdGZkRDl0R0lhNDBJc2lPRFpoUnVCVUk4?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b2f3c4c08693468e069d4996",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T17:32:13+00:00",
+      "last_update": "2026-11-25T17:32:13+00:00",
+      "event": "'Top Gear is back': Gordon Ramsay announced as new host",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announced",
+        "back",
+        "bbc",
+        "gear",
+        "gordon",
+        "host",
+        "new",
+        "ramsay",
+        "top"
+      ],
+      "source_excerpt": "'Top Gear is back': Gordon Ramsay announced as new host BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wdnRyYkhjSmV0c2JDVDFsNXVZd2NYUkFpTEgyQ1EwRXg1R3RUR3lvR05sUy1rSGJ4VnJERld3c1k1MVZ5TU9aNmdxdE9DMGhLSGJiRG1xeWw?oc=5",
+          "published_at": "2026-11-25T17:32:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wdnRyYkhjSmV0c2JDVDFsNXVZd2NYUkFpTEgyQ1EwRXg1R3RUR3lvR05sUy1rSGJ4VnJERld3c1k1MVZ5TU9aNmdxdE9DMGhLSGJiRG1xeWw?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c085fa42e40a5efcafa3d5e6",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T19:15:01+00:00",
+      "last_update": "2026-11-25T19:15:01+00:00",
+      "event": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aircraft",
+        "attacks",
+        "case",
+        "drone",
+        "experts",
+        "hangars",
+        "intelligence",
+        "likely",
+        "logical",
+        "military",
+        "move",
+        "moving",
+        "response",
+        "say",
+        "suggesting",
+        "the",
+        "there",
+        "threat"
+      ],
+      "source_excerpt": "Experts say the move is a 'logical response' if there is intelligence suggesting a likely drone threat.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
+          "published_at": "2026-11-25T19:15:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "26540edbe7c40ad5b8dc666a",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T19:13:02+00:00",
+      "last_update": "2026-11-25T19:13:02+00:00",
+      "event": "US grants SpaceX approval for 1 million space data centres",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "america",
+        "and",
+        "approval",
+        "asset",
+        "centres",
+        "data",
+        "elon",
+        "fcc",
+        "for",
+        "grants",
+        "great",
+        "hails",
+        "million",
+        "musk",
+        "project",
+        "space",
+        "spacex",
+        "starmind",
+        "the",
+        "world"
+      ],
+      "source_excerpt": "Elon Musk hails FCC's approval of SpaceX's Starmind project as 'a great asset to America and the world.'",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+          "published_at": "2026-11-25T19:13:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4baf2ca35752cd66b31fda56",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T18:59:26+00:00",
+      "last_update": "2026-11-25T18:59:26+00:00",
+      "event": "World reacts to Trump’s new tariffs as US stocks tumble",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "come",
+        "eight",
+        "investigation",
+        "launched",
+        "levies",
+        "month",
+        "new",
+        "reacts",
+        "representative",
+        "states",
+        "stocks",
+        "tariffs",
+        "the",
+        "trade",
+        "trump",
+        "tumble",
+        "united",
+        "world"
+      ],
+      "source_excerpt": "The new levies come after an eight-month investigation launched by the United States Trade Representative.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss",
+          "published_at": "2026-11-25T18:59:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "abde7146be11ac20b9756f06",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T18:55:23+00:00",
+      "last_update": "2026-11-25T18:55:23+00:00",
+      "event": "At least 30 killed in Egypt vehicle fire, health ministry says",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "additional",
+        "after",
+        "blaze",
+        "carrying",
+        "egypt",
+        "fire",
+        "flipped",
+        "health",
+        "injured",
+        "killed",
+        "least",
+        "major",
+        "ministry",
+        "petroleum",
+        "products",
+        "road",
+        "says",
+        "vehicle",
+        "were"
+      ],
+      "source_excerpt": "An additional 15 were injured in blaze of fire after vehicle carrying petroleum products flipped on a major road.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
+          "published_at": "2026-11-25T18:55:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "29919d3fe9257b2ef1f20bd3",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T18:14:44+00:00",
+      "last_update": "2026-11-25T18:14:44+00:00",
+      "event": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "border",
+        "bring",
+        "convince",
+        "country",
+        "deliver",
+        "hit",
+        "military",
+        "nigeria",
+        "northeast",
+        "operations",
+        "peace",
+        "pledges",
+        "pressure",
+        "rebellion",
+        "region",
+        "security",
+        "that",
+        "the",
+        "tinubu",
+        "under",
+        "voters",
+        "will"
+      ],
+      "source_excerpt": "Tinubu is under pressure to convince voters that military operations in the country's northeast will deliver security.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+          "published_at": "2026-11-25T18:14:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ecc84436033ed596246766f1",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T19:18:27+00:00",
+      "last_update": "2026-11-25T19:18:27+00:00",
+      "event": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "area",
+        "army",
+        "been",
+        "blast",
+        "concern",
+        "controlled",
+        "despite",
+        "explosives",
+        "far",
+        "from",
+        "have",
+        "huge",
+        "iowa",
+        "lead",
+        "officials",
+        "promising",
+        "readings",
+        "residents",
+        "say",
+        "says",
+        "success",
+        "that",
+        "the",
+        "was",
+        "widespread"
+      ],
+      "source_excerpt": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T19:18:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ba07c6f27ff6fd225c17c6f8",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T19:17:51+00:00",
+      "last_update": "2026-11-25T19:17:51+00:00",
+      "event": "Moment Nasa spacecraft leaves stadium-sized crater in asteroid",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asteroid",
+        "bbc",
+        "crash",
+        "crater",
+        "disaster",
+        "editor",
+        "leaves",
+        "like",
+        "moment",
+        "morelle",
+        "movie",
+        "nasa",
+        "out",
+        "rebecca",
+        "says",
+        "science",
+        "sized",
+        "something",
+        "spacecraft",
+        "stadium",
+        "the",
+        "was"
+      ],
+      "source_excerpt": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T19:17:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "315c2fc5c6705967333f84cb",
+      "remembered_at": "2026-11-25T19:20:42.776441+00:00",
+      "event_date": "2026-11-25T18:25:00+00:00",
+      "last_update": "2026-11-25T18:25:00+00:00",
+      "event": "Council votes to withdraw UK Town of Culture bid after 'great division'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bbc",
+        "bid",
+        "council",
+        "culture",
+        "division",
+        "great",
+        "town",
+        "votes",
+        "withdraw"
+      ],
+      "source_excerpt": "Council votes to withdraw UK Town of Culture bid after 'great division' BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vZTRoaTZLUWhtNTl1VWZJZW1WbGFYZmg0MGFSVlFkbG92U1BLUlBWelJLRERaWVYwNG9LMlF4VHdQVVdNcXBCRWhaSDB4TEpKQ3NDOEZTNURXbmc?oc=5",
+          "published_at": "2026-11-25T18:25:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vZTRoaTZLUWhtNTl1VWZJZW1WbGFYZmg0MGFSVlFkbG92U1BLUlBWelJLRERaWVYwNG9LMlF4VHdQVVdNcXBCRWhaSDB4TEpKQ3NDOEZTNURXbmc?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T18:14:40.253273+00:00"
+  "updated_at": "2026-11-25T19:20:42.776441+00:00"
 }
