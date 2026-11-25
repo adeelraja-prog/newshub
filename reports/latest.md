@@ -1,72 +1,61 @@
-# News Hub report - Wed 25 Nov, 11:19 AM PKT
+# News Hub report - Wed 25 Nov, 12:53 PM PKT
 
 ## Collection
-- New items this run: 82 | items in rolling pool: 333
-- Unique story clusters: 285 (duplicates merged: 48)
-- Clusters dropped as already published/queued: 36; unchanged since last analysis: 3
-- Items per outlet: Dawn Pakistan 8, TechJuice 8, ARY News 6, Wired 6, AP News 5, ProPakistani 5, Investify 5, samaa tv 3, The News International 3, Geo News 3, BBC 3, Al Jazeera 3
+- New items this run: 187 | items in rolling pool: 488
+- Unique story clusters: 414 (duplicates merged: 74)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 3
+- Items per outlet: UrduPoint 100, ARY News 10, ProPakistani 10, Geo News 9, Dawn 5, Dawn Latest 5, samaa tv 4, Jang Urdu 4, TechJuice 4, Investify 4, Al Jazeera 3, The Current 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Japan-Pakistan Startup Expansion Programme launched | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Missing PTI MNA returns home after two months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thieves steal 49,000 litres of fuel from PSO pipeline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan calls for human control over decisions on nuclear weapons use | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Japan-Pakistan Startup Expansion Programme launched | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Missing PTI MNA returns home after two months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thieves steal 49,000 litres of fuel from PSO pipeline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan calls for human control over decisions on nuclear weapons use | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Japan-Pakistan Startup Expansion Programme launched | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Missing PTI MNA returns home after two months | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thieves steal 49,000 litres of fuel from PSO pipeline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Dancing With the Stars' season 35 winner announced after tense finale | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan calls for human control over decisions on nuclear weapons use | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 10 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
-- [needs_review] normal | Can Virtual Relationships in Video Games Count as Cheating? | Sun 22 Nov, 04:33 AM PKT
-- [needs_review] normal | Will COP31 Climate Summit Conclude with a New Global Agreement? | Sun 22 Nov, 04:43 AM PKT
-- [needs_review] normal | Iran faces a silent economic war, warns Iranian president | Sun 22 Nov, 04:56 AM PKT
-- [needs_review] normal | Today's Express Tribune ePaper highlights for November 22, 2026 | Sun 22 Nov, 05:06 AM PKT
-- [needs_review] normal | Impunity fuels alarming surge in settler violence across West Bank | Sun 22 Nov, 05:16 AM PKT
-- [needs_review] normal | Nigeria Youth Power: Why Aren't Young People Shaping This Election? | Sun 22 Nov, 05:59 AM PKT
-- [needs_review] normal | Clashes Erupt Across France in Another Night of Protest | Sun 22 Nov, 06:09 AM PKT
-- [needs_review] normal | Iran War Live: Iran Targets US Bases in Bahrain as Houthi Strikes Cont | Sun 22 Nov, 06:19 AM PKT
 - [needs_review] normal | Iran To Ration Electricity As Regional Conflict Hits Energy Grid | Sun 22 Nov, 07:20 AM PKT
 - [needs_review] normal | UN Member States Agree To Formal Talks On Killer Robots | Sun 22 Nov, 07:30 AM PKT
 - [needs_review] normal | Portuguese Foreign Minister Arrives in Islamabad Today | Sun 22 Nov, 09:38 AM PKT
 - [needs_review] normal | Punjab Land Reforms Project Reaches 90 Percent Progress | Sun 22 Nov, 09:48 AM PKT
-- [published] normal | Iran faces a silent economic war, says Iranian president | Sun 22 Nov, 11:24 AM PKT
-- [published] normal | Carlos Alcaraz to face Alexander Zverev for ATP Finals title | Sun 22 Nov, 11:34 AM PKT
 - [needs_review] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
 - [needs_review] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
-- [published] normal | Portuguese foreign minister arrives in Pakistan for official visit | Sun 22 Nov, 12:44 PM PKT
 - [needs_review] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
-- [published] normal | Jeff Bezos and Lauren Sánchez expand their influence across Hollywood | Sun 22 Nov, 01:04 PM PKT
 - [published] normal | Trump's exit strategy may depend on quietly lifting Iran blockade | Sun 22 Nov, 02:30 PM PKT
 - [published] normal | Three dead and 36 missing after Indonesian factory fire | Sun 22 Nov, 02:40 PM PKT
 - [needs_review] normal | Veteran journalist Hussain Naqi passes away in Lahore | Sun 22 Nov, 02:50 PM PKT
@@ -218,7 +207,7 @@
 - [published] normal | Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show | Wed 25 Nov, 06:01 AM PKT
 - [published] normal | Pakistan strongly condemns Houthi attack on Riyadh tower | Wed 25 Nov, 06:11 AM PKT
 - [published] normal | Israel’s Eisenkot secures first coalition partner in bid to form gover | Wed 25 Nov, 06:58 AM PKT
-- [queued] normal | Inflation projected at 9.8% as food prices bite | Wed 25 Nov, 07:08 AM PKT
+- [published] normal | Inflation projected at 9.8% as food prices bite | Wed 25 Nov, 07:08 AM PKT
 - [queued] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
 - [queued] normal | South Africa convicts Zimbabwean trying to fight for Russia | Wed 25 Nov, 07:28 AM PKT
 - [queued] normal | Bellingham beauty inspires Real Madrid as Arsenal, Man City held | Wed 25 Nov, 07:38 AM PKT
@@ -243,24 +232,16 @@
 - [queued] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
 
 ## Publishing this run
-- Published 'Israel’s Eisenkot secures first coalition partner in bid to form government'.
+- Published 'Inflation projected at 9.8% as food prices bite'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 0 | output tokens: 0
-- Errors: 4
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
+  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=6.39193
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapi

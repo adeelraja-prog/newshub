@@ -150985,7 +150985,551 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dddb8f09d4cc258159019051",
+      "remembered_at": "2026-11-25T07:53:10.765155+00:00",
+      "event_date": "2026-11-25T04:37:46+00:00",
+      "last_update": "2026-11-25T06:58:02+00:00",
+      "event": "Bangladesh garment workers win 36 percent wage rise",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bangladesh",
+        "garment",
+        "percent",
+        "rise",
+        "wage",
+        "win",
+        "workers"
+      ],
+      "source_excerpt": "Bangladesh garment workers win 36 percent wage rise",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/bangladesh-garment-workers-win-36-percent-wage-rise",
+          "published_at": "2026-11-25T04:37:46+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUW9sWVNYWFN0WEJNT05PNzR0U0NGRTFjTkYydGdtXzJ6c2F0UVIzZTJXZ2F3dUE2Zlp4dFZqVm53Q0tEYnZkb0Y5RG5vcW9lUjRaczlfZVBRekt5ZXFDZVZEa0hNd2NtU2VlNWt5QzJjWTdXQkFlR19vOEFpeTNxdThIUFMyZw?oc=5",
+          "published_at": "2026-11-25T06:25:10+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046973/bangladesh-garment-workers-win-36pc-wage-rise",
+          "published_at": "2026-11-25T06:25:10+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss",
+          "published_at": "2026-11-25T06:58:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/bangladesh-garment-workers-win-36-percent-wage-rise",
+        "publisher_url": "https://arynews.tv/bangladesh-garment-workers-win-36-percent-wage-rise",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2bf6bc99b419edca1fbedbd3",
+      "remembered_at": "2026-11-25T07:53:10.765155+00:00",
+      "event_date": "2026-11-25T06:59:25+00:00",
+      "last_update": "2026-11-25T06:59:25+00:00",
+      "event": "Karachi Police Chief transfers airport snatching cases to AVCC",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airport",
+        "arynews",
+        "avcc",
+        "cases",
+        "chief",
+        "karachi",
+        "police",
+        "snatching",
+        "transfers"
+      ],
+      "source_excerpt": "Karachi Police Chief transfers airport snatching cases to AVCC ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXU1QUVRdllNald4ZnlheEtOQlNVNHZjNFNvcEpJTUU2VkdlRXh0dzhnS1RmTlNYOEtFSVlRUWtWclRhWEFqMnpHZW5xOGtnczRtSzBlbU1xYlpFckYxZWZySXpjbTJKUEJLMFhqOUxIOFBoUnowdzY3SkFFZlpDTzRIY19YR1Ju?oc=5",
+          "published_at": "2026-11-25T06:59:25+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-police-chief-transfers-airport-snatching-cases-to-avcc",
+          "published_at": "2026-11-25T06:59:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXU1QUVRdllNald4ZnlheEtOQlNVNHZjNFNvcEpJTUU2VkdlRXh0dzhnS1RmTlNYOEtFSVlRUWtWclRhWEFqMnpHZW5xOGtnczRtSzBlbU1xYlpFckYxZWZySXpjbTJKUEJLMFhqOUxIOFBoUnowdzY3SkFFZlpDTzRIY19YR1Ju?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "53c0aa3371470fb4f1551d20",
+      "remembered_at": "2026-11-25T07:53:10.765155+00:00",
+      "event_date": "2026-11-25T06:35:22+00:00",
+      "last_update": "2026-11-25T07:37:11+00:00",
+      "event": "PCB announces 15-member women’s squad for West Indies tour",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announces",
+        "for",
+        "indies",
+        "member",
+        "pcb",
+        "squad",
+        "tour",
+        "west",
+        "women"
+      ],
+      "source_excerpt": "PCB announces 15-member women’s squad for West Indies tour",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/25/pakistan-announce-15-member-squad-for-west-indies-tour/",
+          "published_at": "2026-11-25T06:35:22+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pcb-announces-15-member-womens-sqaud-for-west-indies-tour",
+          "published_at": "2026-11-25T07:37:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pcb-announces-15-member-womens-sqaud-for-west-indies-tour",
+        "publisher_url": "https://arynews.tv/pcb-announces-15-member-womens-sqaud-for-west-indies-tour",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7438c180d45bccf3a502fd2c",
+      "remembered_at": "2026-11-25T07:53:10.765155+00:00",
+      "event_date": "2026-11-25T07:31:44+00:00",
+      "last_update": "2026-11-25T07:32:11+00:00",
+      "event": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bars",
+        "behind",
+        "but",
+        "completing",
+        "despite",
+        "families",
+        "for",
+        "gaza",
+        "israeli",
+        "loved",
+        "ones",
+        "palestinian",
+        "prisoners",
+        "prisons",
+        "remain",
+        "sentences",
+        "served",
+        "their",
+        "wait",
+        "who"
+      ],
+      "source_excerpt": "Palestinian families in Gaza wait for loved ones who remain in Israeli prisons despite completing their sentences.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+          "published_at": "2026-11-25T07:31:44+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3VOSHI1Nk01T1BuSXpael84UEN0YnVROTg4SGZWWmFDeEl6SFozU1phS0dqSnB3RXdBazVCdlVqU05iWlA5VDNhUGVDdHFQSDNVLXFWY3k5U2s2T0p6dVh4dVpxYkpkRTdhRFU3WlFDdXJRRTRFUWVhWGJ1dnV5UHl0bHF6SFlJWGlmUlF5RHhKUXA0Y2FiNi1aWHp0Vm5XSmR1UGhXY9IBrAFBVV95cUxQbTZUaGNtTWYwUmZ1aUdDQThraWoyOFRIdy1WZE1GRVI5VGpwd3RSdVhPMUNqZjNTR1RYV0Fyc1FWYUstWkVMT0pQb0ZEemlhbV9qYWx1djl0YmJTaVdidno4ZU41a1FiNkEtb1dXM2VXa0s5bmdBbU1nbV8xX0lpUE1XUDVPV2RYMUdZSE44amRCNnFHbm8tWUJhTlh3dFZBeG9iR0w3bzZ6bWRo?oc=5",
+          "published_at": "2026-11-25T07:32:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "71580415bf52186fcc1329e3",
+      "remembered_at": "2026-11-25T07:53:10.765155+00:00",
+      "event_date": "2026-11-25T06:18:38+00:00",
+      "last_update": "2026-11-25T06:18:38+00:00",
+      "event": "How one man built a sporting talks legacy in Leominster",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "built",
+        "how",
+        "legacy",
+        "leominster",
+        "man",
+        "one",
+        "sporting",
+        "talks"
+      ],
+      "source_excerpt": "How one man built a sporting talks legacy in Leominster BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNThRaUdMeWNlNWlxT3VxYkFmX1dVdVJ4dE5jdDFfZlpqcXdUUmI3dW1YckxnMUxvbmNNVnRVOWIycUlpeWNvQ0xDV2FNTm9sTDZ5RXJ0WGpZOTQ?oc=5",
+          "published_at": "2026-11-25T06:18:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNThRaUdMeWNlNWlxT3VxYkFmX1dVdVJ4dE5jdDFfZlpqcXdUUmI3dW1YckxnMUxvbmNNVnRVOWIycUlpeWNvQ0xDV2FNTm9sTDZ5RXJ0WGpZOTQ?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6e618e6a536bcb69734b5439",
+      "remembered_at": "2026-11-25T07:53:10.765155+00:00",
+      "event_date": "2026-11-25T06:30:24+00:00",
+      "last_update": "2026-11-25T07:11:04+00:00",
+      "event": "کراچی: 5 ہزار روپے کے جعلی نوٹوں کے ذریعے فراڈ کرنے کا انکشاف",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "انکشاف",
+        "جعلی",
+        "ذریعے",
+        "روپے",
+        "ساتھ",
+        "شہری",
+        "فائل",
+        "فراڈ",
+        "فوٹو",
+        "لائن",
+        "مطابق",
+        "ملزمان",
+        "میں",
+        "نوٹوں",
+        "کراچی",
+        "کرنے",
+        "ہزار",
+        "ہوا",
+        "ہے۔تفصیلات"
+      ],
+      "source_excerpt": "— فائل فوٹو کراچی میں 5 ہزار روپے کے جعلی نوٹوں کے ذریعے شہری کے ساتھ فراڈ کرنے کا انکشاف ہوا ہے۔تفصیلات کے مطابق ملزمان نے آن لائن...",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5022174",
+          "published_at": "2026-11-25T06:30:24+00:00"
+        },
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636620",
+          "published_at": "2026-11-25T07:11:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636620",
+        "publisher_url": "https://jang.com.pk/news/1636620",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "80f54b5ed77b73aa19365485",
+      "remembered_at": "2026-11-25T07:53:10.765155+00:00",
+      "event_date": "2026-11-25T06:34:08+00:00",
+      "last_update": "2026-11-25T06:34:08+00:00",
+      "event": "At UNSC, Pakistan seeks AI guardrails to curb arms race",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arms",
+        "curb",
+        "geo",
+        "guardrails",
+        "news",
+        "pakistan",
+        "race",
+        "seeks",
+        "unsc"
+      ],
+      "source_excerpt": "At UNSC, Pakistan seeks AI guardrails to curb arms race Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVC1lR1RDOHBjTXMwNmtGRmstaEFwQ0FEUGVMWENkajdIdUVCNld4Tzg2NmxZMWpSclhmYXl1QjdDZFduNjdYSmRUb2VkN0xGV0hGV1BPVmUxdUFkVzdhbHZJV09CdTN1SUxEVFl5Ynh5TEF6UUxLX1JjREc3enBBajM1YWNrZ25IWHNJZS1pZ0E?oc=5",
+          "published_at": "2026-11-25T06:34:08+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692562-at-unsc-pakistan-seeks-ai-guardrails-to-curb-arms-race",
+          "published_at": "2026-11-25T06:34:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVC1lR1RDOHBjTXMwNmtGRmstaEFwQ0FEUGVMWENkajdIdUVCNld4Tzg2NmxZMWpSclhmYXl1QjdDZFduNjdYSmRUb2VkN0xGV0hGV1BPVmUxdUFkVzdhbHZJV09CdTN1SUxEVFl5Ynh5TEF6UUxLX1JjREc3enBBajM1YWNrZ25IWHNJZS1pZ0E?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bf44346c847c9474f4d397e5",
+      "remembered_at": "2026-11-25T07:53:10.765155+00:00",
+      "event_date": "2026-11-25T07:41:37+00:00",
+      "last_update": "2026-11-25T07:41:37+00:00",
+      "event": "Today Weather Update | Toxic Smog in Lahore! City Tops Global Pollution List | Dunya News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "city",
+        "dunya",
+        "global",
+        "lahore",
+        "list",
+        "news",
+        "pollution",
+        "smog",
+        "today",
+        "tops",
+        "toxic",
+        "update",
+        "weather"
+      ],
+      "source_excerpt": "Today Weather Update | Toxic Smog in Lahore! City Tops Global Pollution List | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV0E4dGF5SHN1bWNEcHlZRFFrZjJ4UXNMZnYzMkRBcjEwU1h2UnRqMlM3Y2U2ckFudDlEOEtwZkpLMEhjaVJmRzVZNER0VEVRVS1SQTd4MDEybUlnRTFjZzVSX0llRjZDN0VyTUpKTFZwY3BUMG5FOGhrS2RfV1JnSGE5bExydWk5blV0Nm1ZZ1BHVjZHckNFWlpMamJhTnlpM01OaXFKbXltX2Q2YmRQNHNRZFdfMEQ2Z0lIa1N1NkxWeHN1am1Tc2ljaXoxY3o2aFZCMlk0RzdQOW8?oc=5",
+          "published_at": "2026-11-25T07:41:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV0E4dGF5SHN1bWNEcHlZRFFrZjJ4UXNMZnYzMkRBcjEwU1h2UnRqMlM3Y2U2ckFudDlEOEtwZkpLMEhjaVJmRzVZNER0VEVRVS1SQTd4MDEybUlnRTFjZzVSX0llRjZDN0VyTUpKTFZwY3BUMG5FOGhrS2RfV1JnSGE5bExydWk5blV0Nm1ZZ1BHVjZHckNFWlpMamJhTnlpM01OaXFKbXltX2Q2YmRQNHNRZFdfMEQ2Z0lIa1N1NkxWeHN1am1Tc2ljaXoxY3o2aFZCMlk0RzdQOW8?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "836cc75b1927cf7bcf024383",
+      "remembered_at": "2026-11-25T07:53:10.765155+00:00",
+      "event_date": "2026-11-25T07:27:19+00:00",
+      "last_update": "2026-11-25T07:27:19+00:00",
+      "event": "In pictures: Pakistani astronaut Zeeshan Ali’s ascent to space aboard Shenzhou-24 as it happened",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aboard",
+        "after",
+        "ali",
+        "and",
+        "ascent",
+        "astronaut",
+        "before",
+        "below",
+        "carrying",
+        "ceremony",
+        "china",
+        "departure",
+        "docked",
+        "from",
+        "happened",
+        "hours",
+        "jiuquan",
+        "launch",
+        "liftoff",
+        "minutes",
+        "old",
+        "pakistani",
+        "pictures",
+        "satellite",
+        "selection",
+        "shenzhou",
+        "space",
+        "spacecraft",
+        "station",
+        "successfully",
+        "the",
+        "three",
+        "tiangong",
+        "wednesday",
+        "with",
+        "year",
+        "zeeshan"
+      ],
+      "source_excerpt": "China’s Shenzhou-24 spacecraft, carrying 40-year-old Pakistani astronaut Zeeshan Ali, successfully docked with the Tiangong space station three hours and 38 minutes after liftoff on Wednesday. Below is a selection of pictures from the departure ceremony before launch at the Jiuquan Satellite Launch",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046974/in-pictures-pakistani-astronaut-zeeshan-alis-ascent-to-space-aboard-shenzhou-24-as-it-happened",
+          "published_at": "2026-11-25T07:27:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046974/in-pictures-pakistani-astronaut-zeeshan-alis-ascent-to-space-aboard-shenzhou-24-as-it-happened",
+        "publisher_url": "https://www.dawn.com/news/2046974/in-pictures-pakistani-astronaut-zeeshan-alis-ascent-to-space-aboard-shenzhou-24-as-it-happened",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9e9c5491a510f572195d1de9",
+      "remembered_at": "2026-11-25T07:53:10.765155+00:00",
+      "event_date": "2026-11-25T06:28:33+00:00",
+      "last_update": "2026-11-25T06:28:33+00:00",
+      "event": "China's used phones find new homes from Karachi to Algiers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afp",
+        "africa",
+        "algiers",
+        "are",
+        "arranged",
+        "bangladesh",
+        "buy",
+        "buyers",
+        "china",
+        "cracked",
+        "damaged",
+        "dozens",
+        "electronics",
+        "even",
+        "find",
+        "from",
+        "homes",
+        "huaqiangbei",
+        "hundreds",
+        "karachi",
+        "lit",
+        "market",
+        "markets",
+        "maze",
+        "neon",
+        "new",
+        "one",
+        "phone",
+        "phones",
+        "rows",
+        "shenzhen",
+        "shop",
+        "smartphones",
+        "the",
+        "time",
+        "used",
+        "with"
+      ],
+      "source_excerpt": "Hundreds of used or damaged smartphones are arranged in rows in a shop at one of the phone markets in China. — AFP In the maze of Shenzhen's neon-lit Huaqiangbei electronics market, buyers from Africa to Bangladesh buy dozens of used phones at a time — even with cracked...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692561-chinas-used-phones-find-new-homes-from-karachi-to-algiers",
+          "published_at": "2026-11-25T06:28:33+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGF6dXBXYWk3WW5rQVk2bzBqMjdIUUxXcDNPdGZSLXh4SmFaVDVUZ3paYVJ4ZnZncENWc2RVQTNIMWh5LUdyb2NLRE1OeE9mazUzUkJVOTRVSWNodm1XS1h1ejhReXZldTlmeDY2dGR0a3c2SllrY3FtbWVxeEVkcGs3dTk4UzdDS2hCRnF6NENjN0tG?oc=5",
+          "published_at": "2026-11-25T06:28:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692561-chinas-used-phones-find-new-homes-from-karachi-to-algiers",
+        "publisher_url": "https://www.geo.tv/latest/692561-chinas-used-phones-find-new-homes-from-karachi-to-algiers",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T06:19:50.095029+00:00"
+  "updated_at": "2026-11-25T07:53:10.765155+00:00"
 }
