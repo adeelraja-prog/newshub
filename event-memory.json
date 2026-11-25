@@ -148919,7 +148919,479 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7e9fc931f405669e50d70c1a",
+      "remembered_at": "2026-11-25T03:59:26.789360+00:00",
+      "event_date": "2026-11-25T01:42:14+00:00",
+      "last_update": "2026-11-25T03:50:18+00:00",
+      "event": "Tareen joins chorus for new provinces",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "chorus",
+        "dawn",
+        "for",
+        "joins",
+        "new",
+        "provinces",
+        "tareen"
+      ],
+      "source_excerpt": "Tareen joins chorus for new provinces Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JeDZWa2txMjlSWkhtSWpYdmFxTlMzdlhHUlhocG5KMEQwT3FxRzk1V1lwck5Hc0Exb3JENVY1UkthYUJfdE5xS1oyczhBMGhELTNLRF9nZXA4RUJDRTRDUm5fODFMUGRLaDBIc1BVQ0tZM0hpQkFhbXh0TQ?oc=5",
+          "published_at": "2026-11-25T01:42:14+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046870/tareen-joins-chorus-for-new-provinces",
+          "published_at": "2026-11-25T03:50:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JeDZWa2txMjlSWkhtSWpYdmFxTlMzdlhHUlhocG5KMEQwT3FxRzk1V1lwck5Hc0Exb3JENVY1UkthYUJfdE5xS1oyczhBMGhELTNLRF9nZXA4RUJDRTRDUm5fODFMUGRLaDBIc1BVQ0tZM0hpQkFhbXh0TQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "835e116aaf3f3670ce794226",
+      "remembered_at": "2026-11-25T03:59:26.789360+00:00",
+      "event_date": "2026-11-25T01:42:14+00:00",
+      "last_update": "2026-11-25T03:54:45+00:00",
+      "event": "Shrine on private land not waqf; Auqaf takeover void: SC",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "auqaf",
+        "dawn",
+        "land",
+        "not",
+        "private",
+        "shrine",
+        "takeover",
+        "void",
+        "waqf"
+      ],
+      "source_excerpt": "Shrine on private land not waqf; Auqaf takeover void: SC Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkJDbThZT2VHSWtYQ1NBQlBpb0JLWE1mcUo4ckowWUM2RGVVZzUtd3dDeVk1c1AwUVJTX2F5OUo5OGJPb1RTNHZlajFPS1pxc2NEclNRcjhiaXdvcUMxNUpMZ2c5MExEWVVja1hsLXpwZWJ6RmlsN2dKZ25RVy13VDB3bG02dWN5VmZWazd0cGJJQQ?oc=5",
+          "published_at": "2026-11-25T01:42:14+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046869/hafizabad-shrine-on-private-land-not-waqf-auqaf-takeover-void-sc",
+          "published_at": "2026-11-25T03:54:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkJDbThZT2VHSWtYQ1NBQlBpb0JLWE1mcUo4ckowWUM2RGVVZzUtd3dDeVk1c1AwUVJTX2F5OUo5OGJPb1RTNHZlajFPS1pxc2NEclNRcjhiaXdvcUMxNUpMZ2c5MExEWVVja1hsLXpwZWJ6RmlsN2dKZ25RVy13VDB3bG02dWN5VmZWazd0cGJJQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c56280cfd4085f2ae7dc1c88",
+      "remembered_at": "2026-11-25T03:59:26.789360+00:00",
+      "event_date": "2026-11-25T00:34:00+00:00",
+      "last_update": "2026-11-25T03:00:08+00:00",
+      "event": "Trump says Iran war ‘funded’ through January, warns Democrats against halt",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "dawn",
+        "democrats",
+        "funded",
+        "halt",
+        "iran",
+        "january",
+        "says",
+        "through",
+        "trump",
+        "war",
+        "warns"
+      ],
+      "source_excerpt": "Trump says Iran war ‘funded’ through January, warns Democrats against halt Dawn",
+      "sources": [
+        {
+          "name": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUNqbDJZV1V1ZXh6RnNsNHpoM1VDRzRZVGhvY3FacHJLRXF4LThRX2JURU1wLXlFd2RrdnFTc3k0UW5XclV3dUF4Z0hKVnloYU9tTWpUZXpRSVA3TW0zU3ZGT3d4S2VuaUpId2xkZG40U0ZzSEFVUXZYYldYN0dTWDVVZFpISzExeFlWQ19jZEdsNWVYdlZ3bVR0bVdCUXo1cWdYWjMzZGFmeUkyV3lxQS03S0VibU52QVZMbVZlOTRjNkN6amRGRGZMZnY?oc=5",
+          "published_at": "2026-11-25T00:34:00+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0w0bmc1MmF5ZjNaWGtkcXBXWGxrMmpfZXFlTWJwc2Fhd3o2N0ZrbFFIS2N4akNlLW1acnAtQmtrT19COHNxRE5ONEFaTUVCU0NmQ0FHczNJZG1MRXFESW1sbmw1TmFQVWtsSkdnRnU4M1hWN3N3b1FWcXBQaFNja3ZYejNBeGM3dmUtR0NKUmlQREM4UjRyR2xZbWJLYjZEQTFVZFh2WUY?oc=5",
+          "published_at": "2026-11-25T03:00:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0w0bmc1MmF5ZjNaWGtkcXBXWGxrMmpfZXFlTWJwc2Fhd3o2N0ZrbFFIS2N4akNlLW1acnAtQmtrT19COHNxRE5ONEFaTUVCU0NmQ0FHczNJZG1MRXFESW1sbmw1TmFQVWtsSkdnRnU4M1hWN3N3b1FWcXBQaFNja3ZYejNBeGM3dmUtR0NKUmlQREM4UjRyR2xZbWJLYjZEQTFVZFh2WUY?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "81e613767cbff4a05a75f4dc",
+      "remembered_at": "2026-11-25T03:59:26.789360+00:00",
+      "event_date": "2026-11-25T03:15:12+00:00",
+      "last_update": "2026-11-25T03:15:12+00:00",
+      "event": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australian",
+        "china",
+        "controversial",
+        "country",
+        "ends",
+        "for",
+        "his",
+        "islands",
+        "leader",
+        "longer",
+        "matthew",
+        "pact",
+        "point",
+        "regional",
+        "said",
+        "security",
+        "solomon",
+        "treaty",
+        "uncertainty",
+        "wale",
+        "with",
+        "would"
+      ],
+      "source_excerpt": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T03:15:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "43296677796b001057c2a61a",
+      "remembered_at": "2026-11-25T03:59:26.789360+00:00",
+      "event_date": "2026-11-25T03:31:59+00:00",
+      "last_update": "2026-11-25T03:31:59+00:00",
+      "event": "Asia’s stock markets dive as doubts swirl over AI boom",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "asia",
+        "boom",
+        "dive",
+        "doubts",
+        "fell",
+        "japan",
+        "korea",
+        "latest",
+        "led",
+        "markets",
+        "off",
+        "over",
+        "sell",
+        "sharply",
+        "south",
+        "stock",
+        "swirl",
+        "taiwan",
+        "tech"
+      ],
+      "source_excerpt": "Markets fell sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+          "published_at": "2026-11-25T03:31:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "029e7f0d7ec923c05cf46b3c",
+      "remembered_at": "2026-11-25T03:59:26.789360+00:00",
+      "event_date": "2026-11-25T02:07:03+00:00",
+      "last_update": "2026-11-25T02:07:03+00:00",
+      "event": "Missing PTI MNA returns home after two months",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "dawn",
+        "home",
+        "missing",
+        "mna",
+        "months",
+        "pti",
+        "returns",
+        "two"
+      ],
+      "source_excerpt": "Missing PTI MNA returns home after two months Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbV8waE10d2tDdFUzVkpNV3JlY3NLQVpoN1JWRHZqOWZOajRSUENtR0pLbVR0ZzFfc0lDUWt6eFo4OV9WYW84YzlrQ1pUOHhFV2NtOFY1U0FrdzYwa3hJam85Ymt3QVQ2U1RjMEdsMWRjdVZ6U0Znbkp2c0R4SVYxQnRETUNKUQ?oc=5",
+          "published_at": "2026-11-25T02:07:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbV8waE10d2tDdFUzVkpNV3JlY3NLQVpoN1JWRHZqOWZOajRSUENtR0pLbVR0ZzFfc0lDUWt6eFo4OV9WYW84YzlrQ1pUOHhFV2NtOFY1U0FrdzYwa3hJam85Ymt3QVQ2U1RjMEdsMWRjdVZ6U0Znbkp2c0R4SVYxQnRETUNKUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5783a782618d2c233b10ca0c",
+      "remembered_at": "2026-11-25T03:59:26.789360+00:00",
+      "event_date": "2026-11-25T02:06:37+00:00",
+      "last_update": "2026-11-25T02:06:37+00:00",
+      "event": "PDMA drought warning for south Punjab",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "drought",
+        "for",
+        "pdma",
+        "punjab",
+        "south",
+        "warning"
+      ],
+      "source_excerpt": "PDMA drought warning for south Punjab Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01Y0FXdU9NV1VxWTNDN1Q4QjlSRl9ic2tDaXpuOVhkWjdJQ1RjNWZNdGVCUnlXUi1ubFUxVEZ0M2EtNnFsSGhkWlZGc2ZMWXlXR2otdVBwR2l6Q1Rtamg2QnZBRm8tQnd5Y2ppbGhoeXhrNVRadkg1V1Zraw?oc=5",
+          "published_at": "2026-11-25T02:06:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01Y0FXdU9NV1VxWTNDN1Q4QjlSRl9ic2tDaXpuOVhkWjdJQ1RjNWZNdGVCUnlXUi1ubFUxVEZ0M2EtNnFsSGhkWlZGc2ZMWXlXR2otdVBwR2l6Q1Rtamg2QnZBRm8tQnd5Y2ppbGhoeXhrNVRadkg1V1Zraw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "01be2f6384bc112b80f6b2ea",
+      "remembered_at": "2026-11-25T03:59:26.789360+00:00",
+      "event_date": "2026-11-25T02:39:48+00:00",
+      "last_update": "2026-11-25T02:39:48+00:00",
+      "event": "Pakistan eyes $1.21bn IMF disbursement next month",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046892",
+        "21bn",
+        "com",
+        "dawn",
+        "disbursement",
+        "eyes",
+        "https",
+        "imf",
+        "month",
+        "news",
+        "next",
+        "pakistan",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046892",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046949/pakistan-eyes-121bn-imf-disbursement-next-month",
+          "published_at": "2026-11-25T02:39:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046949/pakistan-eyes-121bn-imf-disbursement-next-month",
+        "publisher_url": "https://www.dawn.com/news/2046949/pakistan-eyes-121bn-imf-disbursement-next-month",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f5ac56370636f84b6b8dfaf3",
+      "remembered_at": "2026-11-25T03:59:26.789360+00:00",
+      "event_date": "2026-11-25T02:26:15+00:00",
+      "last_update": "2026-11-25T02:26:15+00:00",
+      "event": "Anti-Pakistan slogans set off storm in Sindh PA",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anti",
+        "express",
+        "off",
+        "pakistan",
+        "set",
+        "sindh",
+        "slogans",
+        "storm",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Anti-Pakistan slogans set off storm in Sindh PA The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVF4blgyLUpPSkpoc3VoNVNVcGJ4OFJzVkZscENaT2tSdklMZkF5Sm5kMzJwU2lURW81N2lOM3dkX0VuX3NuYmxtX3lKTVUycmJVSWM1U0pfWXVkeldTQVVucl83YnVKbk1iR3pMWk1yZ2EyM2RhVGRnX0VPa3FtU3dQc3BWNFVaSEh6cNIBlAFBVV95cUxPTW55LWwtS2EwQXpGWW5SNDlYbjg4eHRKcVZ2QXV3TnNPb2M2ZUNiRWVRaVhaSWk1OVlmcHV6U2U2NVVvbk1PRzhRNzJzb1UzcXM2aHVtckl3cms3OTI3QXRtd25zT1NSbTdBNzhtbTA1ZlFWMW9fcDdHeG9GZ3BabkhCVHk1OEZPUHRzRThiek5YS1NY?oc=5",
+          "published_at": "2026-11-25T02:26:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVF4blgyLUpPSkpoc3VoNVNVcGJ4OFJzVkZscENaT2tSdklMZkF5Sm5kMzJwU2lURW81N2lOM3dkX0VuX3NuYmxtX3lKTVUycmJVSWM1U0pfWXVkeldTQVVucl83YnVKbk1iR3pMWk1yZ2EyM2RhVGRnX0VPa3FtU3dQc3BWNFVaSEh6cNIBlAFBVV95cUxPTW55LWwtS2EwQXpGWW5SNDlYbjg4eHRKcVZ2QXV3TnNPb2M2ZUNiRWVRaVhaSWk1OVlmcHV6U2U2NVVvbk1PRzhRNzJzb1UzcXM2aHVtckl3cms3OTI3QXRtd25zT1NSbTdBNzhtbTA1ZlFWMW9fcDdHeG9GZ3BabkhCVHk1OEZPUHRzRThiek5YS1NY?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "879690351a58ea59ea40b8bd",
+      "remembered_at": "2026-11-25T03:59:26.789360+00:00",
+      "event_date": "2026-11-25T03:39:33+00:00",
+      "last_update": "2026-11-25T03:39:33+00:00",
+      "event": "PPP urges PTI to prove its role as effective opposition before seeking wider cooperation",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2046874",
+        "before",
+        "com",
+        "cooperation",
+        "dawn",
+        "effective",
+        "https",
+        "its",
+        "news",
+        "opposition",
+        "ppp",
+        "prove",
+        "pti",
+        "role",
+        "seeking",
+        "urges",
+        "wider",
+        "www"
+      ],
+      "source_excerpt": "https://www.dawn.com/news/2046874",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046958/ppp-urges-pti-to-prove-its-role-as-effective-opposition-before-seeking-wider-cooperation",
+          "published_at": "2026-11-25T03:39:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046958/ppp-urges-pti-to-prove-its-role-as-effective-opposition-before-seeking-wider-cooperation",
+        "publisher_url": "https://www.dawn.com/news/2046958/ppp-urges-pti-to-prove-its-role-as-effective-opposition-before-seeking-wider-cooperation",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T02:56:01.985909+00:00"
+  "updated_at": "2026-11-25T03:59:26.789360+00:00"
 }

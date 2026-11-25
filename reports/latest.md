@@ -1,200 +1,197 @@
-# News Hub report - Wed 25 Nov, 07:56 AM PKT
+# News Hub report - Wed 25 Nov, 08:59 AM PKT
 
 ## Collection
-- New items this run: 78 | items in rolling pool: 299
-- Unique story clusters: 269 (duplicates merged: 30)
-- Clusters dropped as already published/queued: 17; unchanged since last analysis: 5
-- Items per outlet: Dawn 59, The Express Tribune 4, Investify 3, Geo News 2, The News International 1, Dawn Pakistan 1, Dawn Latest 1, Al Jazeera 1, The Nation (Pakistan ) 1, AP News 1, GSMArena 1, chinadailyhk 1
+- New items this run: 20 | items in rolling pool: 269
+- Unique story clusters: 243 (duplicates merged: 26)
+- Clusters dropped as already published/queued: 21; unchanged since last analysis: 4
+- Items per outlet: Dawn Pakistan 5, Geo News 3, Dawn 2, ARY News 1, The Nation 1, BBC 1, Al Jazeera 1, Jagonews24 1, X 1, PhoneWorld 1, Profit by Pakistan Today 1, Modern Diplomacy 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Cybersecurity key to achieving Digital Pakistan vision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What happens when a bank ducks rules in Pakistan? For Deutsche Bank, perhaps nothing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran whips singer Parastoo Ahmadi 74 times over YouTube concert | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Poll finds US voters want government to end Iran war regardless of terms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Will there be a White Christmas this year? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tareen joins chorus for new provinces | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shrine on private land not waqf; Auqaf takeover void: SC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says Iran war ‘funded’ through January, warns Democrats against halt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- WHO chief urges end to US fuel blockade on Cuba | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Cybersecurity key to achieving Digital Pakistan vision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What happens when a bank ducks rules in Pakistan? For Deutsche Bank, perhaps nothing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran whips singer Parastoo Ahmadi 74 times over YouTube concert | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Poll finds US voters want government to end Iran war regardless of terms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Will there be a White Christmas this year? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tareen joins chorus for new provinces | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shrine on private land not waqf; Auqaf takeover void: SC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says Iran war ‘funded’ through January, warns Democrats against halt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- WHO chief urges end to US fuel blockade on Cuba | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Cybersecurity key to achieving Digital Pakistan vision | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- What happens when a bank ducks rules in Pakistan? For Deutsche Bank, perhaps nothing | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran whips singer Parastoo Ahmadi 74 times over YouTube concert | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Poll finds US voters want government to end Iran war regardless of terms | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Will there be a White Christmas this year? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tareen joins chorus for new provinces | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Shrine on private land not waqf; Auqaf takeover void: SC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says Iran war ‘funded’ through January, warns Democrats against halt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- WHO chief urges end to US fuel blockade on Cuba | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Poll Finds Majority of US Voters Want Immediate End to Iran War  [NORMAL]
-- Poster: امریکی ووٹرز کی بڑی اکثریت ایران کے ساتھ جنگ فوری ختم کرنے کا مطالبہ / US Voters Demand Immediate End to Iran War | category us_politics
-- Alternative headline: New Survey Shows 55 Percent of US Voters Demand End to Iran Conflict
+### Trump risks political fortunes on Nvidia after Jensen Huang's return  [NORMAL]
+- Poster: ٹرمپ کی سیاسی قسمت انویڈیا اور جینسن ہوانگ سے جڑ گئی / Trump ties political fortunes to Nvidia | category us_politics
+- Alternative headline: Donald Trump takes victory lap following Jensen Huang's Nvidia return
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: US voters, Iran war, poll, survey, Democrats | hashtags: #USPolitics #IranWar #USVoters #AlJazeera #Survey
-- Scheduled: Wed 25 Nov, 07:58 AM PKT
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business
+- Keywords: Nvidia, Donald Trump, Jensen Huang, AI boom, US politics | hashtags: #Nvidia #DonaldTrump #JensenHuang #AIBoom #USPolitics
+- Scheduled: Wed 25 Nov, 08:59 AM PKT
 - Caption:
 ```
-A new survey reveals that 55 percent of US voters want the government to bring the war with Iran to an end immediately.
+President Donald Trump took a public victory lap after Nvidia brought back former head Jensen Huang, riskily tying his political fortunes to the AI boom.
 
-A new survey reveals that 55 percent of US voters, including an overwhelming 80 percent of Democrats, want the government to bring the war with Iran to an end immediately, regardless of terms.
+After AI chipmaker Nvidia announced the return of embattled former head Jensen Huang, President Donald Trump took a public victory lap. Trump claimed credit for the deal and shared an AI-generated image riffing on his 2024 assassination attempt, featuring Huang surrounded by Secret Service guards.
 
-ایک نئے سروے سے انکشاف ہوا ہے کہ 55 فیصد امریکی ووٹرز، جن میں 80 فیصد ڈیموکریٹس شامل ہیں، چاہتے ہیں کہ حکومت ایران کے ساتھ جاری جنگ کو فوری طور پر ختم کرے۔
+اے آئی چپ بنانے والی کمپنی انویڈیا کے سابق سربراہ جینسن ہوانگ کی واپسی کے بعد صدر ڈونلڈ ٹرمپ نے عوامی سطح پر فتح کا جشن منایا۔ ٹرمپ نے اس ڈیل کا سہرا اپنے سر لیا اور ایک اے آئی سے تیار کردہ تصویر شیئر کی۔
 
-According to a published report by Al Jazeera
+According to BBC Business
 
-#USPolitics #IranWar #USVoters #AlJazeera #Survey
+#Nvidia #DonaldTrump #JensenHuang #AIBoom #USPolitics
 ```
 
-### Cybersecurity Identified as Key Pillar for Digital Pakistan Vision  [NORMAL]
-- Poster: ڈیجیٹل پاکستان کے وژن کی کامیابی کے لیے سائبر سیکیورٹی بنیادی ضرورت / Cybersecurity Key to Digital Pakistan Vision | category tech
-- Alternative headline: Achieving Digital Pakistan Vision Requires Strong Cybersecurity Measures
+### Zeeshan Ali makes history as Pakistan's first astronaut in orbit  [NORMAL]
+- Poster: ذیشان علی خلا میں پہنچنے والے پہلے پاکستانی خلاباز بن گئے / Zeeshan Ali becomes Pakistan's first astronaut in orbit | category other
+- Alternative headline: Pakistani flag rises into orbit aboard China's Shenzhou-24 spacecraft
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMilgFBVV95cUxPRi1na3JTVUNpbF8zOEU2ZHU2THdZcUw3c3oxblAteTZCWHA4VHhpZTktSVZMRXJpVGZTY0hWNXZRczJvWWtIcHhyOWhvMHFYbEg2MUF4VmQ4ZVRhN3ZNVlh5YXhSNHduWHhmYV9pT2RReF9Sb213SjZpTm54eHVxOEpCTHVyNVNlSDhRV2JaS0dOOWhjanfSAZ4BQVVfeXFMUGxXUWZVdEw0V0kyc3dJaFlJa051ZFVYWjlNVkVYNC0weS1TcUJwVlV1UG1RX0R6SGw5ZExWNVloQ2pEcUFYeXRacm16NHJpMUEwMVNlek5uWHh6VWtveldxWXF4Z3N4RHVhU05LSG5vVW9IWlZDSFpRVVZpQzQySGM5UGdQQzU0cWlveU4yQUtiM3JhTFZ3WlpXMnV6Qnc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMilgFBVV95cUxPRi1na3JTVUNpbF8zOEU2ZHU2THdZcUw3c3oxblAteTZCWHA4VHhpZTktSVZMRXJpVGZTY0hWNXZRczJvWWtIcHhyOWhvMHFYbEg2MUF4VmQ4ZVRhN3ZNVlh5YXhSNHduWHhmYV9pT2RReF9Sb213SjZpTm54eHVxOEpCTHVyNVNlSDhRV2JaS0dOOWhjanfSAZ4BQVVfeXFMUGxXUWZVdEw0V0kyc3dJaFlJa051ZFVYWjlNVkVYNC0weS1TcUJwVlV1UG1RX0R6SGw5ZExWNVloQ2pEcUFYeXRacm16NHJpMUEwMVNlek5uWHh6VWtveldxWXF4Z3N4RHVhU05LSG5vVW9IWlZDSFpRVVZpQzQySGM5UGdQQzU0cWlveU4yQUtiM3JhTFZ3WlpXMnV6Qnc?oc=5
-- Supporting coverage: The Express Tribune, Investify
-- Keywords: Cybersecurity, Digital Pakistan, vision, technology, security | hashtags: #DigitalPakistan #Cybersecurity #Technology #ExpressTribune
-- Scheduled: Wed 25 Nov, 08:08 AM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft
+- Supporting coverage: Dawn Latest, Jagonews24, The Nation, ARY News
+- Keywords: Zeeshan Ali, Shenzhou-24, Pakistan astronaut, China space mission, Jiuquan | hashtags: #ZeeshanAli #Shenzhou24 #PakistanInSpace #ChinaSpace #History
+- Scheduled: Wed 25 Nov, 09:09 AM PKT
 - Caption:
 ```
-Experts emphasize that robust cybersecurity is essential for achieving the ambitious Digital Pakistan vision.
+Forty-year-old Zeeshan Ali became the first Pakistani astronaut to enter orbit after China's Shenzhou-24 spacecraft successfully lifted off from Jiuquan.
 
-Recent reports highlight that robust cybersecurity measures are a crucial key to successfully achieving the Digital Pakistan vision, protecting critical infrastructure and digital assets across the country.
+Forty-year-old Zeeshan Ali became the first Pakistani astronaut to enter orbit on Wednesday, after China’s Shenzhou-24 spacecraft entered its preset orbit following liftoff from the Jiuquan Satellite Launch Centre using a Long March 2-F rocket.
 
-حالیہ رپورٹ میں اس بات پر زور دیا گیا ہے کہ ڈیجیٹل پاکستان کے وژن کو کامیابی سے ہمکنار کرنے اور اہم بنیادی ڈھانچے کے تحفظ کے لیے مضبوط سائبر سیکیورٹی انتہائی ضروری ہے۔
+چالیس سالہ ذیشان علی بدھ کے روز مدار میں داخل ہونے والے پہلے پاکستانی خلاباز بن گئے، جب چین کا شینزو-24 خلائی جہاز لانگ مارچ 2-ایف راکٹ کے ذریعے جیوکوয়ান سیٹلائٹ لانچ سینٹر سے روانہ ہوا۔
 
-First reported by The Express Tribune
+First reported by Dawn Latest; also reported by ARY News
 
-#DigitalPakistan #Cybersecurity #Technology #ExpressTribune
+#ZeeshanAli #Shenzhou24 #PakistanInSpace #ChinaSpace #History
 ```
 
-### Internal Vulnerabilities Complicated Deutsche Bank's Pakistan Operations Amid FATF Scrutiny  [NORMAL]
-- Poster: ڈیوچے بینک کی اندرونی کمزوریاں اور پاکستان کے مالیاتی نظام پر اثرات / Deutsche Bank Rules and Pakistan Operations | category courts
-- Alternative headline: Deutsche Bank Classified Pakistan as Restricted High-Risk Country, Report Reveals
+### Tareen joins political chorus demanding new provinces  [NORMAL]
+- Poster: جہانگیر ترین نے بھی نئے صوبوں کے قیام کی حمایت کر دی / Tareen joins chorus for new provinces | category politics
+- Alternative headline: Jahangir Tareen joins calls for creation of new provinces
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2046548/what-happens-when-a-bank-ducks-rules-in-pakistan-for-deutsche-bank-perhaps-nothing | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2046548/what-happens-when-a-bank-ducks-rules-in-pakistan-for-deutsche-bank-perhaps-nothing
-- Supporting coverage: Dawn Latest, Dawn
-- Keywords: Deutsche Bank, FATF, Pakistan, money laundering, financial system | hashtags: #DeutscheBank #FATF #PakistanEconomy #Banking #DawnNews
-- Scheduled: Wed 25 Nov, 08:18 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE5JeDZWa2txMjlSWkhtSWpYdmFxTlMzdlhHUlhocG5KMEQwT3FxRzk1V1lwck5Hc0Exb3JENVY1UkthYUJfdE5xS1oyczhBMGhELTNLRF9nZXA4RUJDRTRDUm5fODFMUGRLaDBIc1BVQ0tZM0hpQkFhbXh0TQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE5JeDZWa2txMjlSWkhtSWpYdmFxTlMzdlhHUlhocG5KMEQwT3FxRzk1V1lwck5Hc0Exb3JENVY1UkthYUJfdE5xS1oyczhBMGhELTNLRF9nZXA4RUJDRTRDUm5fODFMUGRLaDBIc1BVQ0tZM0hpQkFhbXh0TQ?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: new provinces, Tareen, Pakistan politics, administrative division | hashtags: #NewProvinces #JahangirTareen #PakistanPolitics #Dawn
+- Scheduled: Wed 25 Nov, 09:19 AM PKT
 - Caption:
 ```
-An internal report reveals how vulnerabilities in Deutsche Bank's Pakistan operations complicated anti-money laundering efforts during FATF gray-listing.
+Jahangir Tareen has joined the growing political chorus demanding the creation of new provinces in the country.
 
-During the period when Pakistan was placed on the FATF gray list, internal vulnerabilities in Deutsche Bank's Pakistan operations complicated financial compliance. The global bank's internal assessment had classified Pakistan as a restricted high-risk country.
+Jahangir Tareen has joined the political chorus demanding the creation of new provinces, adding further momentum to the ongoing discussions surrounding administrative division and regional political demands in Pakistan.
 
-اس دورانیے میں جب پاکستان فیٹف کی گرے لسٹ میں تھا، ڈیوچے بینک کے پاکستان میں آپریشنز کی اندرونی کمزوریوں نے مالیاتی تعمیل کو پیچیدہ بنایا۔ بینک نے پاکستان کو ہائی رسک ملک قرار دیا تھا۔
+جہانگیر ترین نے نئے صوبوں کے قیام کا مطالبہ کرنے والے سیاستدانوں کی صف میں شمولیت اختیار کر لی ہے، جس سے ملک میں انتظامی تقسیم اور علاقائی مطالبات پر جاری بحث کو مزید تقویت ملی ہے۔
 
-First reported by Dawn Latest
+According to Dawn
 
-#DeutscheBank #FATF #PakistanEconomy #Banking #DawnNews
+#NewProvinces #JahangirTareen #PakistanPolitics #Dawn
 ```
 
-### Iranian Singer Parastoo Ahmadi Flogged 74 Times Over YouTube Concert  [NORMAL]
-- Poster: یوٹیوب پر پرفارمنس پر ایرانی گلوکارہ پرستو احمدی کو 74 کوڑے مارے گئے / Iranian Singer Parastoo Ahmadi Whipped 74 Times | category crime
-- Alternative headline: Singer Parastoo Ahmadi Whipped in Iran for 2024 YouTube Performance
+### Supreme Court declares Auqaf takeover of private shrine void  [NORMAL]
+- Poster: نجی زمین پر مزار وقف نہیں، اوقاف کا قبضہ کالعدم: سپریم کورٹ / Supreme Court rules Auqaf takeover of private shrine void | category courts
+- Alternative headline: Shrine on private land not waqf, rules Supreme Court
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkJDbThZT2VHSWtYQ1NBQlBpb0JLWE1mcUo4ckowWUM2RGVVZzUtd3dDeVk1c1AwUVJTX2F5OUo5OGJPb1RTNHZlajFPS1pxc2NEclNRcjhiaXdvcUMxNUpMZ2c5MExEWVVja1hsLXpwZWJ6RmlsN2dKZ25RVy13VDB3bG02dWN5VmZWazd0cGJJQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkJDbThZT2VHSWtYQ1NBQlBpb0JLWE1mcUo4ckowWUM2RGVVZzUtd3dDeVk1c1AwUVJTX2F5OUo5OGJPb1RTNHZlajFPS1pxc2NEclNRcjhiaXdvcUMxNUpMZ2c5MExEWVVja1hsLXpwZWJ6RmlsN2dKZ25RVy13VDB3bG02dWN5VmZWazd0cGJJQQ?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Supreme Court, Auqaf takeover, shrine, private land, waqf | hashtags: #SupremeCourt #AuqafDepartment #PakistanCourts #LegalNews
+- Scheduled: Wed 25 Nov, 09:29 AM PKT
+- Caption:
+```
+The Supreme Court has ruled that a shrine located on private land does not constitute waqf property, declaring its Auqaf takeover void.
+
+The Supreme Court has ruled that a shrine situated on private land is not considered waqf property, thereby declaring the official Auqaf department takeover of the site to be completely void.
+
+سپریم کورٹ نے فیصلہ دیا ہے کہ نجی زمین پر واقع مزار وقف جائیداد نہیں ہے، اور اس بنیاد پر محکمہ اوقاف کا اس مزار پر قبضہ کالعدم قرار دے دیا ہے۔
+
+According to Dawn
+
+#SupremeCourt #AuqafDepartment #PakistanCourts #LegalNews
+```
+
+### Trump says Iran war funded through January, warns Democrats  [NORMAL]
+- Poster: ٹرامک کا دعویٰ، جنوری تک ایران جنگ کی فنڈنگ موجود ہے / Trump says Iran war funded through January | category war
+- Alternative headline: Trump warns Democrats against halting Iran war funded through January
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0w0bmc1MmF5ZjNaWGtkcXBXWGxrMmpfZXFlTWJwc2Fhd3o2N0ZrbFFIS2N4akNlLW1acnAtQmtrT19COHNxRE5ONEFaTUVCU0NmQ0FHczNJZG1MRXFESW1sbmw1TmFQVWtsSkdnRnU4M1hWN3N3b1FWcXBQaFNja3ZYejNBeGM3dmUtR0NKUmlQREM4UjRyR2xZbWJLYjZEQTFVZFh2WUY?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0w0bmc1MmF5ZjNaWGtkcXBXWGxrMmpfZXFlTWJwc2Fhd3o2N0ZrbFFIS2N4akNlLW1acnAtQmtrT19COHNxRE5ONEFaTUVCU0NmQ0FHczNJZG1MRXFESW1sbmw1TmFQVWtsSkdnRnU4M1hWN3N3b1FWcXBQaFNja3ZYejNBeGM3dmUtR0NKUmlQREM4UjRyR2xZbWJLYjZEQTFVZFh2WUY?oc=5
+- Supporting coverage: New York Post, Dawn
+- Keywords: Iran war, Donald Trump, Democrats, Israel, Tehran regime change | hashtags: #DonaldTrump #IranWar #USPolitics #MiddleEast #Democrats
+- Scheduled: Wed 25 Nov, 09:39 AM PKT
+- Caption:
+```
+President Donald Trump stated that the war against Iran is funded through January and warned Democrats against attempting to halt operations.
+
+President Donald Trump announced that military operations regarding the Iran war are fully funded through January and issued a stern warning to Democrats against attempting to halt the ongoing campaign, while also addressing Israel's regional goals.
+
+صدر ڈونلڈ ٹرمپ نے اعلان کیا ہے کہ ایران کے خلاف جنگ جنوری تک فنڈ شدہ ہے اور انہوں نے ڈیموکریٹس کو خبردار کیا ہے کہ وہ اس مہم کو روکنے کی کوشش نہ کریں۔
+
+First reported by Dawn; also reported by New York Post
+
+#DonaldTrump #IranWar #USPolitics #MiddleEast #Democrats
+```
+
+### WHO chief urges end to US fuel blockade on Cuba  [NORMAL]
+- Poster: ڈبلیو ایچ او کے سربراہ کا کیوبا پر امریکی ایندھن کی ناکہ بندی ختم کرنے کا مطالبہ / WHO chief urges end to US fuel blockade on Cuba | category world
+- Alternative headline: WHO chief calls for lifting US fuel blockade amid Cuban shortages
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Parastoo Ahmadi, Iran, singer, whipped, YouTube concert | hashtags: #ParastooAhmadi #Iran #FreeExpression #AlJazeera #HumanRights
-- Scheduled: Wed 25 Nov, 08:28 AM PKT
+- Keywords: WHO chief, Cuba, US fuel blockade, healthcare shortages, UN | hashtags: #WHO #Cuba #USBlockade #GlobalHealth #UnitedNations
+- Scheduled: Wed 25 Nov, 09:49 AM PKT
 - Caption:
 ```
-Iranian authorities have lashed singer Parastoo Ahmadi 74 times over a musical performance streamed live on YouTube.
+The head of the WHO has called for an end to the US fuel blockade on Cuba as the nation's healthcare system faces critical shortages.
 
-Iranian authorities have lashed singer Parastoo Ahmadi 74 times as punishment over a 2024 musical performance that was streamed live on YouTube without adhering to strict regulations.
+The World Health Organization chief has urged an immediate end to the US fuel blockade on Cuba, as the country's healthcare system struggles with critical shortages. Meanwhile, the UN has allocated $2m for immunisation and medical equipment.
 
-ایرانی حکام نے گلوکارہ پرستو احمدی کو یوٹیوب پر لائیو اسٹریم کی جانے والی 2024 کی ایک پرفارمنس پر 74 کوڑے مارنے کی سزا دی ہے۔
+عالمی ادارہ صحت کے سربراہ نے کیوبا پر امریکی ایندھن کی ناکہ بندی فوری طور پر ختم کرنے کا مطالبہ کیا ہے کیونکہ ملک کا صحت کا نظام شدید قلت کا شکار ہے۔ دریں اثنا، اقوام متحدہ نے 2 ملین ڈالر مختص کیے ہیں۔
 
-According to a published report by Al Jazeera
+According to Al Jazeera
 
-#ParastooAhmadi #Iran #FreeExpression #AlJazeera #HumanRights
+#WHO #Cuba #USBlockade #GlobalHealth #UnitedNations
 ```
 
-### What Are the Chances of Experiencing a White Christmas This Year?  [NORMAL]
-- Poster: کیا اس سال کرسمس پر برفباری ہوگی؟ جانیے موسم کا حال / Chances of a White Christmas This Year | category weather
-- Alternative headline: Met Office Explains Likelihood and Definition of a White Christmas
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Science
-- Keywords: White Christmas, weather, Met Office, snow, Christmas Day | hashtags: #WhiteChristmas #Weather #MetOffice #BBC #Snow
-- Scheduled: Wed 25 Nov, 08:38 AM PKT
-- Caption:
-```
-As Christmas approaches, meteorologists explore the historical likelihood and official definition of a white Christmas.
-
-With Christmas Day a month away, weather data shows a significant historical likelihood of a white Christmas in the UK, defined officially as a single snowflake falling on December 25.
-
-کرسمس میں ایک ماہ باقی ہے، اور موسمیاتی اعداد و شمار کے مطابق برطانیہ میں وائٹ کرسمس کا امکان موجود ہے، جس کی سرکاری تعریف 25 دسمبر کو ایک برفانی ذرے کا گرنا ہے۔
-
-According to a published report by BBC Science
-
-#WhiteChristmas #Weather #MetOffice #BBC #Snow
-```
-
-### Food Inflation Surges to 8.94 Percent Amid Rising Cost of Living in India  [NORMAL]
-- Poster: بھارت میں مہنگائی میں اضافہ، فوڈ انفلیشن 8.94 فیصد تک پہنچ گئی / Food Inflation Surges in India | category economy
-- Alternative headline: India Faces Rising Retail and Food Inflation Driven by Weather and Supply Pressures
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Science
-- Keywords: food inflation, India, retail inflation, economy, monsoon | hashtags: #Inflation #IndiaEconomy #FoodPrices #BBC #CostOfLiving
-- Scheduled: Wed 25 Nov, 08:48 AM PKT
-- Caption:
-```
-New government data shows India's retail inflation climbed, with food inflation surging significantly faster.
-
-India's retail inflation climbed to 6.09 percent in October, while food inflation surged to 8.94 percent, driven by weather disruptions, uneven monsoons, and rising input costs according to economists.
-
-بھارت میں اکتوبر کے دوران خوردنی اشیاء کی مہنگائی بڑھ کر 8.94 فیصد ہو گئی ہے، جبکہ مجموعی ریٹیل مہنگائی 6.09 فیصد تک پہنچ گئی ہے۔ ماہرین کے مطابق اس کی وجہ خراب موسمی حالات ہیں۔
-
-According to a published report by BBC Science
-
-#Inflation #IndiaEconomy #FoodPrices #BBC #CostOfLiving
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
 
 ## Queue status
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
-- [needs_review] normal | Noni Madueke Salvages Draw for Arsenal Against Newcastle | Sun 22 Nov, 01:23 AM PKT
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
-- [needs_review] normal | President Zardari approves five ordinances on KP legislation | Sun 22 Nov, 02:01 AM PKT
 - [needs_review] normal | Jair Bolsonaro Admitted to Intensive Care With Bowel Obstruction | Sun 22 Nov, 02:47 AM PKT
 - [needs_review] normal | Mexico Captures FBI Most Wanted Drug Kingpin in Dramatic Raid | Sun 22 Nov, 02:57 AM PKT
 - [needs_review] normal | Thousands Protest Across Europe Over Soaring Living Costs and Housing | Sun 22 Nov, 03:07 AM PKT
@@ -370,7 +367,7 @@ According to a published report by BBC Science
 - [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
 - [published] normal | Huawei found guilty of stealing trade secrets in US trial | Wed 25 Nov, 05:41 AM PKT
 - [published] normal | Arsenal and Borussia Dortmund draw 1-1 in Champions League | Wed 25 Nov, 05:51 AM PKT
-- [queued] normal | Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show | Wed 25 Nov, 06:01 AM PKT
+- [published] normal | Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show | Wed 25 Nov, 06:01 AM PKT
 - [queued] normal | Pakistan strongly condemns Houthi attack on Riyadh tower | Wed 25 Nov, 06:11 AM PKT
 - [queued] normal | Israel’s Eisenkot secures first coalition partner in bid to form gover | Wed 25 Nov, 06:58 AM PKT
 - [queued] normal | Inflation projected at 9.8% as food prices bite | Wed 25 Nov, 07:08 AM PKT
@@ -384,12 +381,18 @@ According to a published report by BBC Science
 - [queued] normal | Iranian Singer Parastoo Ahmadi Flogged 74 Times Over YouTube Concert | Wed 25 Nov, 08:28 AM PKT
 - [queued] normal | What Are the Chances of Experiencing a White Christmas This Year? | Wed 25 Nov, 08:38 AM PKT
 - [queued] normal | Food Inflation Surges to 8.94 Percent Amid Rising Cost of Living in In | Wed 25 Nov, 08:48 AM PKT
+- [queued] normal | Trump risks political fortunes on Nvidia after Jensen Huang's return | Wed 25 Nov, 08:59 AM PKT
+- [queued] normal | Zeeshan Ali makes history as Pakistan's first astronaut in orbit | Wed 25 Nov, 09:09 AM PKT
+- [queued] normal | Tareen joins political chorus demanding new provinces | Wed 25 Nov, 09:19 AM PKT
+- [queued] normal | Supreme Court declares Auqaf takeover of private shrine void | Wed 25 Nov, 09:29 AM PKT
+- [queued] normal | Trump says Iran war funded through January, warns Democrats | Wed 25 Nov, 09:39 AM PKT
+- [queued] normal | WHO chief urges end to US fuel blockade on Cuba | Wed 25 Nov, 09:49 AM PKT
 
 ## Publishing this run
-- Published 'Arsenal and Borussia Dortmund draw 1-1 in Champions League'.
+- Published 'Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 7187 | output tokens: 3192
+- Calls: 2 | prompt tokens: 6880 | output tokens: 3111
 - Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
