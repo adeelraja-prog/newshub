@@ -152151,7 +152151,1002 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c2755fb8cae3252df83431cd",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T02:53:17+00:00",
+      "last_update": "2026-11-25T08:43:32+00:00",
+      "event": "Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ali",
+        "china",
+        "embarks",
+        "history",
+        "makes",
+        "mission",
+        "pakistan",
+        "shenzhou",
+        "space",
+        "zeeshan"
+      ],
+      "source_excerpt": "Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission",
+      "sources": [
+        {
+          "name": "Jagonews24",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhbHBqbF9fZ3ZMcmlWWHM1RXdseFBkUTZoS09jdDkxR1phei13WjlON3FzTlBfaWkwVElhcW1NUXg4YUZ6dXdFOEFhOVJ2VzAyRFRsZnNxM3lyZV9jY3c?oc=5",
+          "published_at": "2026-11-25T02:53:17+00:00"
+        },
+        {
+          "name": "The Nation",
+          "url": "https://www.nation.com.pk/25-Nov-2026/pakistan-celebrates-first-astronaut-zeeshan-ali-reaches-orbit-aboard-china-s-shenzhou-24",
+          "published_at": "2026-11-25T03:44:45+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission",
+          "published_at": "2026-11-25T03:48:40+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0FzX0ltYkpyQmlNZzFNeUFVamFKNFBOVlVrRXMzQndtWU1qaWt4TmhDY3czNDREanVjbTNuWkFweDlEX2JSVlhiVFVSOUdwN0tFZEhqQndYaG9lTlRMbDU0ZmJtUEs2VHljampMZmtCdTlsSVF3Ni1lR2RiWHBLZG9XU3U1SnhPYlN3RXZoVVJfMmdHcTMzVTVUc2R2SmFBUlZYTkw2eWU4dHc?oc=5",
+          "published_at": "2026-11-25T04:23:06+00:00"
+        },
+        {
+          "name": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGt4T09IOW10MGhuSXlSS01HTFFrdy1RWlZTQjl1YVduMHhBV1hWVlNJamdjc1NReG9QUVNkUDdTSGVleHZWT0ZBdWMwcUxKeXFpRHJ5M1ZHNFp0SF9WTjNZTlVyRUdYOVAzeVNRLW8wUFgxS3lIeV8xRnViRlFGVGc4NVYtQzdfZVBqZGExMXptN0V4anhTS19BS0FyWFVjOElpdDNjaG5nc0o2MFJhTHpsUnNsYjAxYkJhTl8tdW1IbXpEOHpWeC1HQ09jTDg1eWl0ellnUVZKdTFJdG9oMA?oc=5",
+          "published_at": "2026-11-25T05:04:05+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmpiOUVNXzRxX254aVN5UDZKR2M3QjJpWGpRcUs3OF9HaExkU0doRE1ETHdLaUZjZ0RLRjFoUE90T20xTUgtSzU5MkVSRk5nRXZJamNUSmVwMkRENjVzTjU3aXMxODN2eVVmcy1aMXYzcnkyUGZKa1p2NXBuRFh5UEw5QzRDNFlZUUJxZVZmcElMMnA2MW9TRjZKSnA4a2xRSjR0LWpCNzRiclpQc1hNZFVmNA?oc=5",
+          "published_at": "2026-11-25T06:03:12+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JQy16bmZMTExuNmc4bWkwSlVRM0VQVjZuX2U1V1VKdFpJM2tOTmV1R0t4bEJlRWNsQUV2Y1pnUTNGMFBQZjNlUg?oc=5",
+          "published_at": "2026-11-25T06:31:32+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046974/in-pictures-pakistani-astronaut-zeeshan-alis-ascent-to-space-aboard-shenzhou-24-as-it-happened",
+          "published_at": "2026-11-25T07:27:19+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/chinas-shenzhou-24-carrying-pakistani-astronaut-docks-at-tiangong-space-station/",
+          "published_at": "2026-11-25T08:00:54+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2dybGU4aGZlbHJsOXZHc0sxRUJGLVk1MzcxYzdGbjFBQ0VVMTR2WHFZWFN3VEgta21IdW9HSGFhcnRzcjNFd2JyYVBvRjNuVFU3SGI3UElNVUdnRGt0anJDdXo3bXlQT1lGbGVfYmFoOFp1RGM2Z0JXTU9sYlJHeG1WY3NIeUowNHVVOUJPdlZMbElJRWJoZ29TVFN6R21INUZV0gGrAUFVX3lxTFBYYjRhdjcydFRyVjVpVUtHWXVXb1EzNmNZajRkQXo5N2hDTkpJWlNScXlDei1sQ01raW15MmRYWUpyUXdpbEpTa3ZqaEpreGs1MXAwa1I4RHFGZjh2cVltTDNLbEt1bEFQZnJLdXNOSTQwNDRlTHAySnd2cVBORkpHbnhqQmIxVHpiUWdGQXhTcUVrX2pqcldvNnJZOTc4SWtrWExjb0wtS2U1RQ?oc=5",
+          "published_at": "2026-11-25T08:28:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission",
+        "publisher_url": "https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0f08ccebcaabae3e9aa5124a",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T05:36:26+00:00",
+      "last_update": "2026-11-25T10:05:46+00:00",
+      "event": "Two Libyan soldiers die from injuries in attack on Russian vessels",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "die",
+        "from",
+        "injuries",
+        "libyan",
+        "russian",
+        "soldiers",
+        "two",
+        "vessels"
+      ],
+      "source_excerpt": "Two Libyan soldiers die from injuries in attack on Russian vessels",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/two-libyan-soldiers-die-injuries-attack-russian-vessels",
+          "published_at": "2026-11-25T05:36:26+00:00"
+        },
+        {
+          "name": "Libya Herald",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTnhRcndLbmc4dGlzTVBBcnFJMTU4b1ZWdDRLbkQ5VHRzWEdEZFF2bzlMeTZrVUxuLTNIRV9DTjVaMmtzSzVzelRiWW9YMXQtZ2hoYktndjFzbzlnb0pmOUhfTF80MnlMODVwMDU2QTdWVUhpQ3VvaXBlRU1UTDlrTXA1cnpaamVuUXFSbUpha2pSVjNUWDQxUUxaa1lfZ3dIR2M4cVhBbzg3U3ZEai1WYmxObzV6NVVKT0RDbGl6SlZ1Mm03SmVHdDNyMk1rbmxFRGpkNjVwQQ?oc=5",
+          "published_at": "2026-11-25T09:27:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGhHeGt2MndaSlZ2Nzd2Wjk1T3BLWG1zUThOcngwLXBKWUlqVE5mTWVJa1FyLVk3U21nUE1hSzQ3dVR1MkFlc1k5Y0czZmUtVkhNU0g5YkhFd2RfdGZaTFFsV0JhRkZSdzgzVi1WTzlSWVZhLURsbTV1RWwxd3d3NFR5Vno1M09ER0tLbDhTbGQ0dlc2SUVreGNtdVVlZHVFQmw2TEJRONIBrAFBVV95cUxOb2hBQWZXRWlVRFd4ZUw0T3hSVVFMMHJmaWhWcUd1TG12QzFIWDBrc1VKOGhFcTRHbUJXbTZONEpTMV84cmY2emctNlJ2dzdvNW9OMmlLRll3czVodElaUkRlT0k0azlFSFlMUnBwU05IN3BYQ3dOaWJCMTJwZlZDWC1MdUpMMnpWSHpJTU90bUd0LUpoMWtKVUVEZ1E2cFg4cWVaTFZOOEZqVjJB?oc=5",
+          "published_at": "2026-11-25T10:05:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/two-libyan-soldiers-die-injuries-attack-russian-vessels",
+        "publisher_url": "https://arynews.tv/two-libyan-soldiers-die-injuries-attack-russian-vessels",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe2461a39dab9919052bfae3",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T06:24:04+00:00",
+      "last_update": "2026-11-25T09:00:25+00:00",
+      "event": "Pakistan, China to fast-track LPG, petroleum projects",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "china",
+        "fast",
+        "lpg",
+        "pakistan",
+        "petroleum",
+        "projects",
+        "samaa",
+        "track"
+      ],
+      "source_excerpt": "Pakistan, China to fast-track LPG, petroleum projects samaa tv",
+      "sources": [
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdWxoNnpKTmpSMXcySURhaU1JY284Z1dtV25zUlplOHk0a3RjVmJ0bUlIT1ZFaUZ2RDg1aGlTMU9rNW14WjhfWWVudUtfXzdBZVN6YWVZSC04cjhkQmxJaFNDR3FfZ2RiWlZOd3p3c19hTEJoNHpDbWVlV0JybEwwOFJkMGhCbzBsVHh0cjNQbzV2TDBlSG5FaGgxaXE?oc=5",
+          "published_at": "2026-11-25T06:24:04+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWNrTDduMWlEY0d6MmM4YXIzYWtGQ0lWY0R1UGJ5enRLSFZWQXNfTlJSTFdPNFE5M0Nwa3JnaDZvNF9GWnBRZklvOHB6NkdtM0l6SUpXaG83MjdWdGh5eEd3NWdrWDFQeWlKZjNvbTZIYmw3RXFFRnNLbVFTbzg1VHVvc0wtWXZ3ZjBQTU14SXZhNnZRQmRPTFpTT2k0QW1ub1VGZjdpMDhmVmVrZnNwSHo0bVk3Y0t4YVRuZmwxVjNFRXFxcXdqMmg4cFBjUQ?oc=5",
+          "published_at": "2026-11-25T08:12:21+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa2pnSTVQcWZGUE1uc3FjQ1Nxdk1UN3ZIWm45VVRvNW0tYlRIbTBUdTJYS3F3V0VRY2RTb3pnMVZuOWhSTU84WkJCbTBtVGdZcnEyd3Rwc1BWNS1Kak1xMnhoWkxaNzJBRmRfRTJEZ2x3TDNFNXMwT3hMbzZZQXdyNkt4bjh4eE9aSU9RUTJEaGNobjhJVnRVQWwzdHVET1YzQXU5RUZQS3ZObkVGSHJDR0VaSElpdUtBTVNla1dMVjZ4aWNXRTB3R2RBb3RENDl5RTZkUzV2NGNFLTJjOEVN?oc=5",
+          "published_at": "2026-11-25T08:12:35+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ01CVHREaGhPWk0wdXJoWUc5alJwVzI1ZlotdzVETjA5dS13a25JUjhYY2VPdTA5NEY2TWUxOVNpOVpZcmtHcFB1ZFQ3WHVmeFJrSnVnZmExZi1DRmRmRldrN3Q4SW9PZ3hXNTctdDNDWEdTQ0RCbXZ0Q1RsZkRGUXpmNmVLemN5dUxwQTVQWm9OR191?oc=5",
+          "published_at": "2026-11-25T09:00:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ01CVHREaGhPWk0wdXJoWUc5alJwVzI1ZlotdzVETjA5dS13a25JUjhYY2VPdTA5NEY2TWUxOVNpOVpZcmtHcFB1ZFQ3WHVmeFJrSnVnZmExZi1DRmRmRldrN3Q4SW9PZ3hXNTctdDNDWEdTQ0RCbXZ0Q1RsZkRGUXpmNmVLemN5dUxwQTVQWm9OR191?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a24def875e4416f621f1890e",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T09:23:46+00:00",
+      "last_update": "2026-11-25T10:10:26+00:00",
+      "event": "Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "baloch",
+        "building",
+        "collapses",
+        "colony",
+        "construction",
+        "dawn",
+        "feared",
+        "karachi",
+        "near",
+        "rubble",
+        "several",
+        "trapped",
+        "under"
+      ],
+      "source_excerpt": "Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXlGVjgzVWppWXlnRzhkTUtFM2c2U05nTFU1TDFaejhRWmpGQkQxTE5nN1V4N0ppbmt4bk1STE9KREFBc1gwWEVYRWZSZ2FTT2l5cGtsaGdkdEhwUDZ3NF82TXVGUjY5X0FUdTlMN2k5QkY1R3RVWVVtWUV6eUtWZnZnd1E5YmFYWVBVTnZzVk1LdG1JZzNjUENFUXhkMmFOSFd1eUs0aTJCcDRSRFFjb0k5NHVUMWlWZFhkQjl4anVpYW00Wm9QV1d5b2F1enRf?oc=5",
+          "published_at": "2026-11-25T09:23:46+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692580-four-injured-as-parts-of-building-collapse-in-karachis-baloch-colony-area",
+          "published_at": "2026-11-25T09:48:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDFMZkNmZlVuTUJEZndmdVhYU0tOMnYwUGMzaHVVRE9ZOXN3dHd1Z3d1QU9nM3dRTHdQZTVLV2pjby1SNXEzVHVZc2ZTTEFCZ09QcnpraUpQYUgwdU51OVFJanpRN1lKcF9vS2hfX094U2tWeHRhbkxmdWE4QUZxZ29EbjduTS1JZFE4SVpoSnd4TjZneHF1TndSOFh5ZWdNZmpoaWU2ZnZDQQ?oc=5",
+          "published_at": "2026-11-25T09:48:00+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046989/at-least-1-dead-after-under-construction-building-collapses-near-karachis-baloch-colony",
+          "published_at": "2026-11-25T10:10:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXlGVjgzVWppWXlnRzhkTUtFM2c2U05nTFU1TDFaejhRWmpGQkQxTE5nN1V4N0ppbmt4bk1STE9KREFBc1gwWEVYRWZSZ2FTT2l5cGtsaGdkdEhwUDZ3NF82TXVGUjY5X0FUdTlMN2k5QkY1R3RVWVVtWUV6eUtWZnZnd1E5YmFYWVBVTnZzVk1LdG1JZzNjUENFUXhkMmFOSFd1eUs0aTJCcDRSRFFjb0k5NHVUMWlWZFhkQjl4anVpYW00Wm9QV1d5b2F1enRf?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f2c44a433770bff880579a91",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T09:02:00+00:00",
+      "last_update": "2026-11-25T09:02:00+00:00",
+      "event": "'Made history': Pakistan cheers as astronaut Zeeshan Ali flies pioneering mission",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "ali",
+        "and",
+        "astronaut",
+        "atmosphere",
+        "cheers",
+        "china",
+        "commission",
+        "displaying",
+        "flies",
+        "headquarters",
+        "history",
+        "islamabad",
+        "launch",
+        "made",
+        "mission",
+        "muhammad",
+        "november",
+        "pakistan",
+        "pakistani",
+        "people",
+        "pioneering",
+        "research",
+        "reuters",
+        "screen",
+        "shenzhou",
+        "showing",
+        "space",
+        "spacecraft",
+        "station",
+        "the",
+        "tiangong",
+        "upper",
+        "watch",
+        "zeeshan"
+      ],
+      "source_excerpt": "People watch a screen displaying Pakistani astronaut Muhammad Zeeshan Ali showing the launch of the Shenzhou-24 spacecraft mission to China's Tiangong space station, at the Pakistan Space and Upper Atmosphere Research Commission headquarters in Islamabad, November 25, 2026. — Reuters<p...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692573-made-history-pakistan-cheers-as-astronaut-zeeshan-ali-flies-pioneering-mission",
+          "published_at": "2026-11-25T09:02:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkctcHd4dGtFSk9OaVd2dlpyQXRlTUxqS3ZUMEU1SzU2ZG4wYzQ3NXdUOWcycXIzVDFWYTFGOE94dVdzQkhxZk90N1MteU9QM3dwQS1ucjlzcnlTcXA1dzhlZ0llVDBpWGlxQVNXal9mcERqN2V4RENhcWVSNTdXTEM2VjBLTWViOWJ6ZE1XaWJLR0gwNWV0eG5tb3NBT091ZnNfRWhYQ1dWYnd6aGVUbQ?oc=5",
+          "published_at": "2026-11-25T09:02:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692573-made-history-pakistan-cheers-as-astronaut-zeeshan-ali-flies-pioneering-mission",
+        "publisher_url": "https://www.geo.tv/latest/692573-made-history-pakistan-cheers-as-astronaut-zeeshan-ali-flies-pioneering-mission",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6d2b9a88447489b1ac8eb203",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T09:18:12+00:00",
+      "last_update": "2026-11-25T10:15:49+00:00",
+      "event": "Khawaja says disappointed by Cummins' Sandpapergate 'attack'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "attack",
+        "cummins",
+        "disappointed",
+        "khawaja",
+        "sandpapergate",
+        "says"
+      ],
+      "source_excerpt": "Khawaja says disappointed by Cummins' Sandpapergate 'attack' ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3B5YXVhRUdkZWVVMzFVcXZiem5OUEg1UmdZLWZuRUNRTWVLSFctcTdzY0lhVnIzd1gtc3ZFOXBRa3pEdGZPQjJ6U2FNUGl6WExDNWNhZjhJLVFpaDdWQmRmMDdCOU03eXNmMzBfS0VId0lGZUc1Z0xfZm42LVZpcWdUaw?oc=5",
+          "published_at": "2026-11-25T09:18:12+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/khawaja-says-disappointed-by-cummins-sandpapergate-attack",
+          "published_at": "2026-11-25T09:18:12+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMUp1cTZyUVk2ckJRT0xhZHc0OGx2bWl4NU1LWGdmSk40Q0xwRVNKcVdiTzVHbGtld0ZjdnJhX19BUnZ4Ul9ZZXc4UGo3WHdTLVBHZGpVamFXbVN0SXo0cnlaNl9DVWFJQ0V1Mm94NTZCLU5rbW44a3FXdXhnZldsaG5fTDlSekJ1V29PSHU4QWo4Y0xaU21MT1pCMzFUZTg?oc=5",
+          "published_at": "2026-11-25T10:15:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3B5YXVhRUdkZWVVMzFVcXZiem5OUEg1UmdZLWZuRUNRTWVLSFctcTdzY0lhVnIzd1gtc3ZFOXBRa3pEdGZPQjJ6U2FNUGl6WExDNWNhZjhJLVFpaDdWQmRmMDdCOU03eXNmMzBfS0VId0lGZUc1Z0xfZm42LVZpcWdUaw?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d160766f9b8a8469b3b11d5",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T05:09:25+00:00",
+      "last_update": "2026-11-25T10:00:15+00:00",
+      "event": "Factory sealed in Faisalabad over producing spices with plaster of Paris",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adulteration",
+        "against",
+        "and",
+        "authorit",
+        "brands",
+        "butt",
+        "counterfeit",
+        "during",
+        "factory",
+        "faisalabad",
+        "fake",
+        "food",
+        "known",
+        "manufacturing",
+        "minister",
+        "ongoing",
+        "operation",
+        "operations",
+        "over",
+        "packaging",
+        "paris",
+        "plaster",
+        "producing",
+        "products",
+        "punjab",
+        "salma",
+        "sealed",
+        "security",
+        "singh",
+        "spices",
+        "substandard",
+        "supervised",
+        "teams",
+        "tek",
+        "the",
+        "toba",
+        "tuesday",
+        "well",
+        "with"
+      ],
+      "source_excerpt": "TOBA TEK SINGH: Punjab Food Security Minister Salma Butt supervised the ongoing operations against manufacturing substandard and fake spices, counterfeit packaging of well-known brands and adulteration of food products in Faisalabad on Tuesday. During the operation, teams of the Punjab Food Authorit",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046877/factory-sealed-in-faisalabad-over-producing-spices-with-plaster-of-paris",
+          "published_at": "2026-11-25T05:09:25+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/25/factory-making-spices-from-plaster-of-paris-sealed/",
+          "published_at": "2026-11-25T10:00:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046877/factory-sealed-in-faisalabad-over-producing-spices-with-plaster-of-paris",
+        "publisher_url": "https://www.dawn.com/news/2046877/factory-sealed-in-faisalabad-over-producing-spices-with-plaster-of-paris",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9330e9acb844dcff7fc6d653",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T06:11:42+00:00",
+      "last_update": "2026-11-25T09:00:48+00:00",
+      "event": "اب تک عمران خان کے خط پر کوئی کارروائی نہیں ہوئی: چیئرمین پی ٹی آئی",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "آئی",
+        "بانی",
+        "بیرسٹر",
+        "تینوں",
+        "خان",
+        "روز",
+        "عمران",
+        "فائل",
+        "فوٹوچیئرمین",
+        "قبل",
+        "نہیں",
+        "چیئرمین",
+        "کارروائی",
+        "کوئی",
+        "کہنا",
+        "گوہر",
+        "ہوئی"
+      ],
+      "source_excerpt": "چیئرمین پی ٹی آئی بیرسٹر گوہر—فائل فوٹوچیئرمین پی ٹی آئی بیرسٹر گوہر کا کہنا ہے کہ بانی پی ٹی آئی عمران خان نے دس روز قبل تینوں...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636611",
+          "published_at": "2026-11-25T06:11:42+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5022351",
+          "published_at": "2026-11-25T09:00:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636611",
+        "publisher_url": "https://jang.com.pk/news/1636611",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dd82a3148a67def84ec7e481",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T08:55:46+00:00",
+      "last_update": "2026-11-25T08:55:46+00:00",
+      "event": "PM approves NCCIA restructuring, orders overhaul of cybercrime prevention system",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agency",
+        "and",
+        "approved",
+        "approves",
+        "country",
+        "crime",
+        "cyber",
+        "cybercrime",
+        "held",
+        "investigation",
+        "islamabad",
+        "meeting",
+        "minister",
+        "modernisation",
+        "national",
+        "nccia",
+        "ordered",
+        "orders",
+        "over",
+        "overhaul",
+        "performa",
+        "premier",
+        "presided",
+        "prevent",
+        "prevention",
+        "prime",
+        "restructuring",
+        "review",
+        "sharif",
+        "shehbaz",
+        "system",
+        "the",
+        "was",
+        "wednesday"
+      ],
+      "source_excerpt": "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday ordered the modernisation of the system to prevent cybercrime in the country and approved the restructuring of the National Cyber Crime Investigation Agency (NCCIA). A meeting, presided over by the premier, was held to review the NCCIA’s performa",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2046984/pm-approves-nccia-restructuring-orders-overhaul-of-cybercrime-prevention-system",
+          "published_at": "2026-11-25T08:55:46+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFl4RDgtRXhoNXdkWUkwNEN4ZDZmRWoxSGl5Z1NhbnNOME1jZFBySko4cDY2bnJVVUxSWUdyOXd3dG5DeVEyUERnd2NrOHJJTWltSDlNbC1Vc3daQnZBbW9BZjJqNW5zQTg0WWczRFJ4UXRWTkktNXotQnZTV0t3V2pudEtMN25HZUZGRDhwWGN6eU02M2JwMTBOVlExQVlPbVcwMWRYSHAyX3lZRUk1RFR2QQ?oc=5",
+          "published_at": "2026-11-25T08:55:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2046984/pm-approves-nccia-restructuring-orders-overhaul-of-cybercrime-prevention-system",
+        "publisher_url": "https://www.dawn.com/news/2046984/pm-approves-nccia-restructuring-orders-overhaul-of-cybercrime-prevention-system",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "470adfc65f69f0c604d61b8e",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T08:11:42+00:00",
+      "last_update": "2026-11-25T08:56:40+00:00",
+      "event": "بلاول بھٹو کا مولانا فضل الرحمان سے رابطہ، رہائش گاہ کے پولیس محاصرے پر اظہار یکجہتی",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اسلام",
+        "اظہار",
+        "الرحمان",
+        "بلاول",
+        "بھٹو",
+        "جمعیت",
+        "رابطہ",
+        "رابطہ،",
+        "رہائش",
+        "زرداری",
+        "سربراہ",
+        "علمائے",
+        "فائل",
+        "فضل",
+        "فون",
+        "فوٹوچیئرمین",
+        "محاصرے",
+        "مولانا",
+        "ٹیلی",
+        "پارٹی",
+        "پاکستان",
+        "پولیس",
+        "پیپلز",
+        "گاہ",
+        "یکجہتی"
+      ],
+      "source_excerpt": "---فائل فوٹوچیئرمین پاکستان پیپلز پارٹی بلاول بھٹو زرداری نے جمعیت علمائے اسلام کے سربراہ مولانا فضل الرحمان سے ٹیلی فون پر رابطہ...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636633",
+          "published_at": "2026-11-25T08:11:42+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5022338",
+          "published_at": "2026-11-25T08:56:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636633",
+        "publisher_url": "https://jang.com.pk/news/1636633",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "68026931721f0c4e09ce98dc",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T09:08:55+00:00",
+      "last_update": "2026-11-25T09:34:18+00:00",
+      "event": "PM Shehbaz Sharif orders restructuring of NCCIA, proposes establishment of Pakistan Cyber Police",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cyber",
+        "establishment",
+        "nccia",
+        "orders",
+        "pakistan",
+        "police",
+        "proposes",
+        "restructuring",
+        "sharif",
+        "shehbaz"
+      ],
+      "source_excerpt": "PM Shehbaz Sharif orders restructuring of NCCIA, proposes establishment of Pakistan Cyber Police",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pm-shehbaz-sharif-orders-restructuring-of-nccia",
+          "published_at": "2026-11-25T09:08:55+00:00"
+        },
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/25/nccia-may-become-pakistan-cyber-police/",
+          "published_at": "2026-11-25T09:34:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pm-shehbaz-sharif-orders-restructuring-of-nccia",
+        "publisher_url": "https://arynews.tv/pm-shehbaz-sharif-orders-restructuring-of-nccia",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0171181a273037a42f409202",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T09:04:03+00:00",
+      "last_update": "2026-11-25T09:04:03+00:00",
+      "event": "Sporting Lisbon vs Manchester United: Champions League – teams, prediction",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "back",
+        "bounce",
+        "champions",
+        "charge",
+        "defeat",
+        "first",
+        "from",
+        "game",
+        "league",
+        "lisbon",
+        "look",
+        "man",
+        "manchester",
+        "mauricio",
+        "pochettino",
+        "prediction",
+        "sporting",
+        "teams",
+        "they",
+        "travel",
+        "united"
+      ],
+      "source_excerpt": "Man United look to bounce back from defeat in Mauricio Pochettino's first game in charge, as they travel to Lisbon.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss",
+          "published_at": "2026-11-25T09:04:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "47b6004fab8f727f46f82855",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T09:00:53+00:00",
+      "last_update": "2026-11-25T09:00:53+00:00",
+      "event": "Rising prices push families to the brink in Yemen’s Hodeidah",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "brink",
+        "city",
+        "controlled",
+        "costs",
+        "deepen",
+        "families",
+        "fighting",
+        "fuel",
+        "hodeidah",
+        "houthi",
+        "incomes",
+        "prices",
+        "push",
+        "renewed",
+        "rising",
+        "shrinking",
+        "struggle",
+        "survive",
+        "the",
+        "yemen"
+      ],
+      "source_excerpt": "Renewed fighting, rising fuel costs and shrinking incomes deepen the struggle to survive in the Houthi-controlled city.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
+          "published_at": "2026-11-25T09:00:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cc6432f27bc7897280e8c6bb",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T10:11:34+00:00",
+      "last_update": "2026-11-25T10:11:34+00:00",
+      "event": "EA adds AI-generated John Motson to FC 27 video game",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adds",
+        "and",
+        "appear",
+        "consent",
+        "game",
+        "generated",
+        "his",
+        "john",
+        "motson",
+        "november",
+        "son",
+        "the",
+        "video",
+        "wife",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T10:11:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0141a8b731753b86a392a1c6",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T10:03:12+00:00",
+      "last_update": "2026-11-25T10:03:12+00:00",
+      "event": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bbc",
+        "boss",
+        "editor",
+        "fire",
+        "himself",
+        "how",
+        "huang",
+        "impossible",
+        "irreplaceable",
+        "jensen",
+        "kleinman",
+        "made",
+        "nobody",
+        "nvidia",
+        "technology",
+        "the",
+        "unless",
+        "you",
+        "zoe"
+      ],
+      "source_excerpt": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T10:03:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3b27951da99a54f31ccd81ff",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T09:56:33+00:00",
+      "last_update": "2026-11-25T09:56:33+00:00",
+      "event": "Interest rate affect on Guernsey's housing market",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affect",
+        "could",
+        "guernsey",
+        "have",
+        "housing",
+        "impact",
+        "interest",
+        "look",
+        "market",
+        "rate",
+        "rates",
+        "rise",
+        "the",
+        "this"
+      ],
+      "source_excerpt": "As interest rates rise, we look at the impact this could have on Guernsey's housing market.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T09:56:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c6f17b6e81e91f469157b1ea",
+      "remembered_at": "2026-11-25T10:18:46.846652+00:00",
+      "event_date": "2026-11-25T10:05:47+00:00",
+      "last_update": "2026-11-25T10:05:47+00:00",
+      "event": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "biting",
+        "blockade",
+        "deeply",
+        "electricity",
+        "how",
+        "iran",
+        "jazeera",
+        "rations",
+        "sanctions"
+      ],
+      "source_excerpt": "Iran rations electricity: How deeply are US sanctions, blockade biting? Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZ0SENvb0cxQVppX2ZNRFQyVDNzb0dKNzl3NHlBQS1TaFpQNlVpd0ZUZUtGSTBaa2pDTk95VVdaWXFxS3UzUTRmYXRXZUtCbndXZnV6VjZSZU92d0ZKU0RzbmptZUM2LXV2M3ZpWkNuMnBpdExGa3gxQjlOc1NyTnFkcnhKODlwbXpnMkhzQ2h1UjhKNUZYMFlWUXJsbm1HUm9Gdm5nZENCenQ2RHVkUUE1WWLSAboBQVVfeXFMTktvbUdsUC1kNmVoLVl3eGY1Yk1vZEpoUFFtQXFOY0NQcXltdzVZSi1HaG91OGxMRmMyWk4zMXFzWThnYjNpYXJzNUVTLVJuUTM5OF9aa2J2RDZIZzNSSW1IdUN1a1QzX2lGYlF0RTVtZFRuREI5Ym9uRFlidUhXT0wxN3cwMXc4YWx2M1lOV2l0eUhhVi1wcEF0emp0bXdwTkpLc2l1WDlkU1JYTElEd1N4eENHUTdnVGpR?oc=5",
+          "published_at": "2026-11-25T10:05:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZ0SENvb0cxQVppX2ZNRFQyVDNzb0dKNzl3NHlBQS1TaFpQNlVpd0ZUZUtGSTBaa2pDTk95VVdaWXFxS3UzUTRmYXRXZUtCbndXZnV6VjZSZU92d0ZKU0RzbmptZUM2LXV2M3ZpWkNuMnBpdExGa3gxQjlOc1NyTnFkcnhKODlwbXpnMkhzQ2h1UjhKNUZYMFlWUXJsbm1HUm9Gdm5nZENCenQ2RHVkUUE1WWLSAboBQVVfeXFMTktvbUdsUC1kNmVoLVl3eGY1Yk1vZEpoUFFtQXFOY0NQcXltdzVZSi1HaG91OGxMRmMyWk4zMXFzWThnYjNpYXJzNUVTLVJuUTM5OF9aa2J2RDZIZzNSSW1IdUN1a1QzX2lGYlF0RTVtZFRuREI5Ym9uRFlidUhXT0wxN3cwMXc4YWx2M1lOV2l0eUhhVi1wcEF0emp0bXdwTkpLc2l1WDlkU1JYTElEd1N4eENHUTdnVGpR?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T09:00:37.187402+00:00"
+  "updated_at": "2026-11-25T10:18:46.846652+00:00"
 }

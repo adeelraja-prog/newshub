@@ -1,35 +1,36 @@
-# News Hub report - Wed 25 Nov, 02:00 PM PKT
+# News Hub report - Wed 25 Nov, 03:18 PM PKT
 
 ## Collection
-- New items this run: 72 | items in rolling pool: 526
-- Unique story clusters: 437 (duplicates merged: 89)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 4
-- Items per outlet: ProPakistani 7, Geo News 5, Investify 5, samaa tv 4, ARY News 4, Al Jazeera 4, Dunya News 3, Dawn Pakistan 3, Dawn 3, AP News 3, TechJuice 3, Profit by Pakistan Today 3
+- New items this run: 180 | items in rolling pool: 608
+- Unique story clusters: 517 (duplicates merged: 91)
+- Clusters dropped as already published/queued: 18; unchanged since last analysis: 3
+- Items per outlet: UrduPoint 90, samaa tv 9, ProPakistani 9, ARY News 8, Geo News 7, Al Jazeera 5, TechJuice 4, Dawn 3, Dunya News 3, ARYnews.tv 2, AP News 2, Engadget 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: IMRAN KHAN’S MESSAGE, MARYAM NAWAZ SHOE INCIDENT & PML-N CRISIS | https://www.youtube.com/watch?v=_lVJNWTb6FQ
 
 ## Top 5 most important
+- Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man kills two minor daughters, injures wife | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PCB announces 15-member women’s squad for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man kills two minor daughters, injures wife | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PCB announces 15-member women’s squad for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Pakistan makes history as Zeeshan Ali embarks on China’s Shenzhou-24 Space mission | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two Libyan soldiers die from injuries in attack on Russian vessels | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladesh garment workers win 36 percent wage rise | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man gets death sentence for killing wife, two children | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt taps three banks for $500m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Man kills two minor daughters, injures wife | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PCB announces 15-member women’s squad for West Indies tour | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, China to fast-track LPG, petroleum projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Under-construction building collapses near Karachi's Baloch Colony, several feared trapped under rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,10 +40,10 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 10
 
 ## Queue status
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
@@ -52,8 +53,6 @@
 - [needs_review] normal | Exploring echoes of Pakistan's shared past in Rawalpindi's neglected t | Sun 22 Nov, 11:44 AM PKT
 - [needs_review] normal | Markets and schools in Rawalpindi to remain open during Punjab CM's vi | Sun 22 Nov, 11:54 AM PKT
 - [needs_review] normal | Domestic worker implicated in Hina Javaid murder as husband cleared | Sun 22 Nov, 12:54 PM PKT
-- [published] normal | Trump's exit strategy may depend on quietly lifting Iran blockade | Sun 22 Nov, 02:30 PM PKT
-- [published] normal | Three dead and 36 missing after Indonesian factory fire | Sun 22 Nov, 02:40 PM PKT
 - [needs_review] normal | Veteran journalist Hussain Naqi passes away in Lahore | Sun 22 Nov, 02:50 PM PKT
 - [needs_review] normal | Three TTP-linked terrorists killed in CTD operation near Peshawar | Sun 22 Nov, 03:00 PM PKT
 - [needs_review] normal | Saudi-led coalition intercepts Houthi ballistic missile targeting west | Sun 22 Nov, 03:24 PM PKT
@@ -210,12 +209,12 @@
 - [needs_review] normal | Alaska ends deal to give voter records to US Justice Department | Wed 25 Nov, 07:48 AM PKT
 - [needs_review] normal | Poll Finds Majority of US Voters Want Immediate End to Iran War | Wed 25 Nov, 07:58 AM PKT
 - [published] normal | Cybersecurity Identified as Key Pillar for Digital Pakistan Vision | Wed 25 Nov, 08:08 AM PKT
-- [queued] normal | Internal Vulnerabilities Complicated Deutsche Bank's Pakistan Operatio | Wed 25 Nov, 08:18 AM PKT
-- [queued] normal | Iranian Singer Parastoo Ahmadi Flogged 74 Times Over YouTube Concert | Wed 25 Nov, 08:28 AM PKT
-- [queued] normal | What Are the Chances of Experiencing a White Christmas This Year? | Wed 25 Nov, 08:38 AM PKT
-- [queued] normal | Food Inflation Surges to 8.94 Percent Amid Rising Cost of Living in In | Wed 25 Nov, 08:48 AM PKT
-- [queued] normal | Trump risks political fortunes on Nvidia after Jensen Huang's return | Wed 25 Nov, 08:59 AM PKT
-- [queued] normal | Zeeshan Ali makes history as Pakistan's first astronaut in orbit | Wed 25 Nov, 09:09 AM PKT
+- [needs_review] normal | Internal Vulnerabilities Complicated Deutsche Bank's Pakistan Operatio | Wed 25 Nov, 08:18 AM PKT
+- [needs_review] normal | Iranian Singer Parastoo Ahmadi Flogged 74 Times Over YouTube Concert | Wed 25 Nov, 08:28 AM PKT
+- [needs_review] normal | What Are the Chances of Experiencing a White Christmas This Year? | Wed 25 Nov, 08:38 AM PKT
+- [needs_review] normal | Food Inflation Surges to 8.94 Percent Amid Rising Cost of Living in In | Wed 25 Nov, 08:48 AM PKT
+- [needs_review] normal | Trump risks political fortunes on Nvidia after Jensen Huang's return | Wed 25 Nov, 08:59 AM PKT
+- [needs_review] normal | Zeeshan Ali makes history as Pakistan's first astronaut in orbit | Wed 25 Nov, 09:09 AM PKT
 - [queued] normal | Tareen joins political chorus demanding new provinces | Wed 25 Nov, 09:19 AM PKT
 - [queued] normal | Supreme Court declares Auqaf takeover of private shrine void | Wed 25 Nov, 09:29 AM PKT
 - [queued] normal | Trump says Iran war funded through January, warns Democrats | Wed 25 Nov, 09:39 AM PKT
@@ -226,13 +225,22 @@
 - [queued] normal | Communications minister orders early completion of projects in KP | Wed 25 Nov, 10:41 AM PKT
 - [queued] normal | Three held, illegal heavy weapons seized in Gilgit | Wed 25 Nov, 10:51 AM PKT
 - [queued] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
+- [published] promo | [YouTube] IMRAN KHAN’S MESSAGE, MARYAM NAWAZ SHOE INCIDENT & PML-N CRI | Wed 25 Nov, 03:18 PM PKT
 
 ## Publishing this run
-- Published 'Cybersecurity Identified as Key Pillar for Digital Pakistan Vision'.
+- Published '[YouTube] IMRAN KHAN’S MESSAGE, MARYAM NAWAZ SHOE INCIDENT & PML-N CRISIS'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
+- Calls: 7 | prompt tokens: 219 | output tokens: 78
+- Errors: 7
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -249,7 +257,3 @@
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
