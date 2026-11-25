@@ -1,35 +1,37 @@
-# News Hub report - Thu 26 Nov, 01:24 AM PKT
+# News Hub report - Thu 26 Nov, 02:29 AM PKT
 
 ## Collection
-- New items this run: 44 | items in rolling pool: 750
-- Unique story clusters: 648 (duplicates merged: 102)
-- Clusters dropped as already published/queued: 12; unchanged since last analysis: 4
-- Items per outlet: Al Jazeera 7, Geo News 4, TechCrunch 4, ARY News 3, BBC World 3, Dawn Latest 2, Dawn 2, Reuters 2, Engadget 2, samaa tv 1, The Express Tribune 1, Aaj English TV 1
+- New items this run: 23 | items in rolling pool: 624
+- Unique story clusters: 541 (duplicates merged: 83)
+- Clusters dropped as already published/queued: 12; unchanged since last analysis: 2
+- Items per outlet: Al Jazeera 4, Pakistan Today 4, The Express Tribune 3, The Verge 1, TechCrunch 1, Ars Technica 1, GSMArena 1, BBC World 1, Eurasia Review 1, Responsible Statecraft 1, 13WHAM-TV 1, Facebook 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 2 | first-run seeded: 0
+- Adeel Raja: Latif Khosa’s Upcoming Adiala Visit & New Provinces Game | https://www.youtube.com/watch?v=3J2eXoLgpWE
+- Adeel Raja: AL-QADIR TRUST CASE: WHAT HAPPENED IN TODAY’S HEARING? | https://www.youtube.com/watch?v=LIUPNQZtJBk
 
 ## Top 5 most important
-- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mulder takes seven as South Africa sweep aside Bangladesh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mulder takes seven as South Africa sweep aside Bangladesh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mulder takes seven as South Africa sweep aside Bangladesh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,20 +41,157 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
+### President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation  [NORMAL]
+- Poster: صدر زرداری کی پاکستان اور بنگلہ دیش کے درمیان مضبوط تعلقات پر زور / Zardari calls for stronger Pakistan-Bangladesh ties | category politics
+- Alternative headline: Pakistan and Bangladesh pledge wider cooperation as Zardari offers defence ties
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3JGY09GLWh5TW9aSUI3dEpPWTdmN3pQRVcwN3VKSExCOEx1X0VIZDlBalJVWFdoVDZpZlprZGhQaE94MWlaR1FwUVJ0bmdmM3pnOXppSjdld2FUZjU4cTNWTmNZbFdQQ05QbmVVZ3JwaF9vcHlBQ0p6a1lRQktISlIyMnBOdkdtVkZ1c1BEWUQ5WlU1aktGVE1zNWN4X2tETFR5RXE3Rlh1LTVzR0JBNlNLcTRHeDBIZmwxbno4cm9zLXc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3JGY09GLWh5TW9aSUI3dEpPWTdmN3pQRVcwN3VKSExCOEx1X0VIZDlBalJVWFdoVDZpZlprZGhQaE94MWlaR1FwUVJ0bmdmM3pnOXppSjdld2FUZjU4cTNWTmNZbFdQQ05QbmVVZ3JwaF9vcHlBQ0p6a1lRQktISlIyMnBOdkdtVkZ1c1BEWUQ5WlU1aktGVE1zNWN4X2tETFR5RXE3Rlh1LTVzR0JBNlNLcTRHeDBIZmwxbno4cm9zLXc?oc=5
+- Supporting coverage: The Express Tribune, samaa tv, Pakistan Today
+- Keywords: Pakistan-Bangladesh ties, President Zardari, defence cooperation, bilateral relations, Islamabad, Dhaka | hashtags: #Pakistan #Bangladesh #PresidentZardari #ForeignPolicy #Diplomacy
+- Scheduled: Thu 26 Nov, 02:29 AM PKT
+- Caption:
+```
+President Asif Ali Zardari has emphasized stronger bilateral relations and offered defence cooperation during interactions with visiting Bangladeshi officials.
+
+President Asif Ali Zardari has called for enhancing bilateral relations between Pakistan and Bangladesh, specifically offering defence cooperation. The diplomatic outreach highlights a mutual desire to foster closer diplomatic and security ties between the two nations.
+
+صدر آصف علی زرداری نے پاکستان اور بنگلہ دیش کے درمیان دوطرفہ تعلقات کو مزید مضبوط بنانے پر زور دیا ہے اور دفاعی تعاون کی پیشکش کی ہے۔
+
+According to The Express Tribune
+
+#Pakistan #Bangladesh #PresidentZardari #ForeignPolicy #Diplomacy
+```
+
+### PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension  [NORMAL]
+- Poster: نورس اٹلانٹک کی پروازیں معطل، برطانیہ میں پی آئی اے مسافر پریشان / PIA passengers in UK distressed over flight cancellations | category other
+- Alternative headline: Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUR0YVhaTzc2UmxPTFZIcDJJbUJMYVpIMDlfamdVak94cG9aYXBsQjlLd0JLSmU0ckNOLXdfRV9RcDF3OHA0cVVMUktNdmg5TS1VT3c0c2hMampoaHhrcE5va0xfMU1yUEVncDN0akdXTFlBaWh0LUlEMEVOUXJtZ0o0RjJRbkhPNkFIc3JHeWNqVkI3ZG5VeHh4c0hkZWNpOC1TcVJfemd5UTlqZ0JiUnJ3TGV5NTg3MDdNcXY1OWtYaENUbmhrQk1jNWQ1UQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUR0YVhaTzc2UmxPTFZIcDJJbUJMYVpIMDlfamdVak94cG9aYXBsQjlLd0JLSmU0ckNOLXdfRV9RcDF3OHA0cVVMUktNdmg5TS1VT3c0c2hMampoaHhrcE5va0xfMU1yUEVncDN0akdXTFlBaWh0LUlEMEVOUXJtZ0o0RjJRbkhPNkFIc3JHeWNqVkI3ZG5VeHh4c0hkZWNpOC1TcVJfemd5UTlqZ0JiUnJ3TGV5NTg3MDdNcXY1OWtYaENUbmhrQk1jNWQ1UQ?oc=5
+- Supporting coverage: Reuters, Dawn, Dawn Latest
+- Keywords: PIA flight cancellations, Norse Atlantic, UK flights, aviation, stranded passengers, Pakistan International Airlines | hashtags: #PIA #Aviation #UK #FlightCancellation #Travel
+- Scheduled: Thu 26 Nov, 02:39 AM PKT
+- Caption:
+```
+Passengers traveling with PIA in the United Kingdom faced distress after two flights were cancelled following an abrupt suspension by Norse Atlantic.
+
+Passengers of Pakistan International Airlines (PIA) in the UK experienced distress following the cancellation of two flights caused by the abrupt suspension of services by Norse Atlantic. PIA is reportedly looking to manage operations by shifting UK flights to its own fleet.
+
+برطانیہ میں پی آئی اے کے مسافروں کو اس وقت مشکلات کا سامنا کرنا پڑا جب نورس اٹلانٹک کی معطلی کے باعث دو پروازیں منسوخ کر دی گئیں۔
+
+First reported by Dawn
+
+#PIA #Aviation #UK #FlightCancellation #Travel
+```
+
+### Moment Nasa spacecraft leaves stadium-sized crater in asteroid  [NORMAL]
+- Poster: ناسا کے خلائی جہاز کی ٹکر سے سیارچے پر بڑا گڑھا بن گیا / NASA spacecraft leaves stadium-sized crater on asteroid | category science
+- Alternative headline: NASA's DART mission left a stadium-sized crater in an asteroid, ESA finds
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Science https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Science https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Science, Engadget, Geo News
+- Keywords: asteroid crater, NASA, DART mission, ESA, Dimorphos, space exploration | hashtags: #NASA #Asteroid #SpaceExploration #DARTMission #ESA
+- Scheduled: Thu 26 Nov, 02:49 AM PKT
+- Caption:
+```
+New images from the European Space Agency reveal a stadium-sized crater left on an asteroid after NASA's deliberate spacecraft impact.
+
+New images released by the European Space Agency (ESA) have revealed a stadium-sized crater on the surface of the asteroid Dimorphos. The crater is the result of NASA's DART mission, which deliberately crashed a spacecraft into the asteroid in 2022 to test planetary defence capabilities.
+
+یورپی خلائی ایجنسی کی نئی تصاویر سے انکشاف ہوا ہے کہ ناسا کے خلائی جہاز کی ٹکر سے ایک سیارچے پر اسٹیڈیم کے سائز کا گڑھا بن گیا ہے۔
+
+First reported by BBC Science
+
+#NASA #Asteroid #SpaceExploration #DARTMission #ESA
+```
+
+### Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting speaker  [NORMAL]
+- Poster: بنگلہ دیش کے ساتھ تعلقات انتہائی اہم ہیں: صدر اور وزیر اعظم / Bangladesh ties of great importance to Pakistan: PM and President | category politics
+- Alternative headline: Bangladesh ties of great importance to Pakistan, top leaders tell visiting speaker
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker
+- Supporting coverage: Dawn Latest, Dawn
+- Keywords: Pakistan Bangladesh relations, Hafizuddin Ahmad, Shehbaz Sharif, Asif Ali Zardari, Islamabad, parliamentary delegation | hashtags: #Pakistan #Bangladesh #Diplomacy #Islamabad #BilateralTies
+- Scheduled: Thu 26 Nov, 02:59 AM PKT
+- Caption:
+```
+Prime Minister Shehbaz Sharif and President Asif Ali Zardari met visiting Bangladesh Parliament Speaker Hafizuddin Ahmad, emphasizing strong bilateral bonds.
+
+Visiting Bangladesh Parliament Speaker Hafizuddin Ahmad met with President Asif Ali Zardari and Prime Minister Shehbaz Sharif in Islamabad. Pakistani leadership reaffirmed that Islamabad places great importance on its relations with Dhaka, which are rooted in shared history and cultural ties.
+
+بنگلہ دیشی پارلیمنٹ کے اسپیکر حافظ الدین احمد نے صدر آصف علی زرداری اور وزیر اعظم شہباز شریف سے ملاقات کی، جس میں دوطرفہ تعلقات کو اہم قرار دیا گیا۔
+
+First reported by Dawn Latest
+
+#Pakistan #Bangladesh #Diplomacy #Islamabad #BilateralTies
+```
+
+### Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348  [NORMAL]
+- Poster: پیٹرول اور ڈیزل کی قیمتوں میں کمی کا اعلان / Petrol and diesel prices reduced | category economy
+- Alternative headline: Diesel price dips below Rs350 with Rs5 cut; petrol rate down by Rs4
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUVIMUszNWgwX1J4by11Q2kzLVM0REp1LU5XUUUxR3JCZGR3eGxRclFTQ2w0bEZpWTZrY3NnOGFKRmtIZ0ZjV0ktTU4ydm8ySzRESHh0MVU1QzJURXFMZWJvUWduZUVXQlpGZTF6cVRtanczQ2JXMHNMVHEyb3k1b3FhMFpaeVFyQnZLQVAzdmVaU1VmQWdJRW9FRDVXQVlPbTZLb0M0N3Y3NWpMVHVEdA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUVIMUszNWgwX1J4by11Q2kzLVM0REp1LU5XUUUxR3JCZGR3eGxRclFTQ2w0bEZpWTZrY3NnOGFKRmtIZ0ZjV0ktTU4ydm8ySzRESHh0MVU1QzJURXFMZWJvUWduZUVXQlpGZTF6cVRtanczQ2JXMHNMVHEyb3k1b3FhMFpaeVFyQnZLQVAzdmVaU1VmQWdJRW9FRDVXQVlPbTZLb0M0N3Y3NWpMVHVEdA?oc=5
+- Supporting coverage: samaa tv, Dawn, Dawn Latest
+- Keywords: petrol price cut, diesel price, fuel rates, economy, Pakistan, price reduction | hashtags: #PetrolPrice #Diesel #Economy #Pakistan #Inflation
+- Scheduled: Thu 26 Nov, 03:09 AM PKT
+- Caption:
+```
+The government has announced a reduction in petroleum prices, cutting petrol by Rs4 and diesel by Rs5 per litre.
+
+Authorities have slashed the price of petrol by Rs4 to Rs314 per litre, while the price of high-speed diesel has been reduced by Rs5 to Rs348 per litre, bringing diesel rates below the Rs350 threshold.
+
+حکومت نے پیٹرول کی قیمت میں 4 روپے اور ڈیزل کی قیمت میں 5 روپے فی لیٹر کمی کا اعلان کر دیا ہے۔
+
+According to samaa tv
+
+#PetrolPrice #Diesel #Economy #Pakistan #Inflation
+```
+
+### At least 30 killed in Egypt vehicle fire, health ministry says  [NORMAL]
+- Poster: مصر میں گاڑی میں آتشزدگی سے کم از کم 30 افراد ہلاک / At least 30 killed in Egypt vehicle fire | category disaster
+- Alternative headline: Dozens killed and injured after petroleum-carrying vehicle catches fire in Egypt
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Egypt vehicle fire, health ministry, fatal accident, petroleum fire, road accident, casualties | hashtags: #Egypt #FireAccident #BreakingNews #Tragedy #WorldNews
+- Scheduled: Thu 26 Nov, 03:19 AM PKT
+- Caption:
+```
+At least 30 people were killed and 15 others injured after a vehicle carrying petroleum products flipped and caught fire on a major road in Egypt.
+
+According to the health ministry, at least 30 people lost their lives and another 15 sustained injuries following a severe vehicle fire in Egypt. The incident occurred when a vehicle transporting petroleum products flipped over on a major road, triggering a massive blaze.
+
+مصر میں پیٹرولیم مصنوعات لے جانے والی گاڑی کے حادثے اور آتشزدگی کے نتیجے میں کم از کم 30 افراد جاں بحق اور 15 زخمی ہو گئے ہیں۔
+
+According to Al Jazeera
+
+#Egypt #FireAccident #BreakingNews #Tragedy #WorldNews
+```
+
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 4
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 10
 
 ## Queue status
-- [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Italian jeweller and businessman Paolo Bulgari dies aged 89 | Sun 22 Nov, 07:07 PM PKT
-- [needs_review] normal | Main suspect in Karachi mother-daughter murder arrested in Larkana | Sun 22 Nov, 07:17 PM PKT
-- [needs_review] normal | Bruno Fernandes puts Manchester United contract talks on hold | Sun 22 Nov, 07:27 PM PKT
-- [needs_review] normal | Iran Has Achieved Military Deterrence Against Enemy: Ghalibaf | Sun 22 Nov, 07:59 PM PKT
-- [needs_review] normal | Pakistan to Host IAEA Nuclear Security Meeting in Islamabad | Sun 22 Nov, 08:09 PM PKT
-- [needs_review] normal | Major Fire Erupts at Fuel Station in Lagos | Sun 22 Nov, 08:19 PM PKT
 - [needs_review] normal | Explosion on Russian ship at Libya port caused by suspected drone atta | Sun 22 Nov, 09:46 PM PKT
 - [needs_review] normal | At least 14 missing after Russian drone hits Kyiv residential building | Sun 22 Nov, 09:56 PM PKT
 - [needs_review] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
@@ -63,11 +202,9 @@
 - [needs_review] normal | Aber Kawas makes history as New York's first Palestinian state senator | Mon 23 Nov, 12:46 AM PKT
 - [needs_review] normal | Pakistani national among two injured in Iranian attacks on Bahrain | Mon 23 Nov, 12:56 AM PKT
 - [needs_review] normal | Ukrainians search through rubble for missing following deadly Russian  | Mon 23 Nov, 01:16 AM PKT
-- [published] promo | [YouTube] MOHSIN NAQVI VS RANA SANAULLAH: WHO WILL BACK DOWN? | Mon 23 Nov, 01:31 AM PKT
 - [needs_review] normal | PTI urges Bilawal not to back extension of Governor’s Rule | Mon 23 Nov, 01:31 AM PKT
 - [needs_review] normal | Houthis claim targeted strike on Saudi Arabia's Rabigh refinery | Mon 23 Nov, 01:41 AM PKT
 - [needs_review] normal | Officials condemn 'horrific' ICE arrests at Seattle airport | Mon 23 Nov, 01:51 AM PKT
-- [published] normal | Liverpool thrash 10-man Man United 4-0 in nightmare start for Pochetti | Mon 23 Nov, 02:01 AM PKT
 - [needs_review] normal | Washington Governor Slams ICE Raids After Airport Arrests | Mon 23 Nov, 02:24 AM PKT
 - [needs_review] normal | Democrats Secure Largest House Majority Since 1992 | Mon 23 Nov, 02:34 AM PKT
 - [needs_review] normal | Cockroaches, Dissent and a Paradigm Shift in India | Mon 23 Nov, 02:44 AM PKT
@@ -215,30 +352,29 @@
 - [queued] normal | Pakistan and Russia target $5 billion trade by 2030 | Thu 26 Nov, 12:50 AM PKT
 - [queued] normal | Tarar urges social media companies to establish offices in Pakistan | Thu 26 Nov, 01:00 AM PKT
 - [queued] normal | Sporting Lisbon vs Manchester United: UEFA Champions League live | Thu 26 Nov, 01:10 AM PKT
+- [published] promo | [YouTube] Latif Khosa’s Upcoming Adiala Visit & New Provinces Game | Thu 26 Nov, 02:29 AM PKT
+- [queued] promo | [YouTube] AL-QADIR TRUST CASE: WHAT HAPPENED IN TODAY’S HEARING? | Thu 26 Nov, 02:29 AM PKT
+- [queued] normal | President Zardari calls for stronger Pakistan-Bangladesh ties, offers  | Thu 26 Nov, 02:29 AM PKT
+- [queued] normal | PIA passengers in UK left distressed as 2 flights cancelled due to abr | Thu 26 Nov, 02:39 AM PKT
+- [queued] normal | Moment Nasa spacecraft leaves stadium-sized crater in asteroid | Thu 26 Nov, 02:49 AM PKT
+- [queued] normal | Bangladesh ties of 'great importance' to Pakistan, President and PM te | Thu 26 Nov, 02:59 AM PKT
+- [queued] normal | Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | Thu 26 Nov, 03:09 AM PKT
+- [queued] normal | At least 30 killed in Egypt vehicle fire, health ministry says | Thu 26 Nov, 03:19 AM PKT
 
 ## Publishing this run
-- Published 'China urges US to avoid new tariffs as trade tensions rise'.
+- Published '[YouTube] Latif Khosa’s Upcoming Adiala Visit & New Provinces Game'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Calls: 6 | prompt tokens: 9209 | output tokens: 3282
 - Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: Expecting value: line 5 column 17 (char 53)
+  - Gemini gemini-3.5-flash-lite: Expecting value: line 5 column 17 (char 53)
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

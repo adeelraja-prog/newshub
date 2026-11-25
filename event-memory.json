@@ -158908,7 +158908,266 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1939851b7b06047e522932c2",
+      "remembered_at": "2026-11-25T21:29:16.749452+00:00",
+      "event_date": "2026-11-25T20:52:32+00:00",
+      "last_update": "2026-11-25T20:52:32+00:00",
+      "event": "US Education Department probes Virginia schools after sexual abuse scandal",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abuse",
+        "after",
+        "and",
+        "background",
+        "checks",
+        "department",
+        "education",
+        "face",
+        "failures",
+        "mandatory",
+        "probes",
+        "revelations",
+        "scandal",
+        "schools",
+        "scrutiny",
+        "sexual",
+        "staff",
+        "virginia",
+        "widespread"
+      ],
+      "source_excerpt": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+          "published_at": "2026-11-25T20:52:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "17244f9e06145b1469574fd6",
+      "remembered_at": "2026-11-25T21:29:16.749452+00:00",
+      "event_date": "2026-11-25T20:42:41+00:00",
+      "last_update": "2026-11-25T20:42:41+00:00",
+      "event": "Baby Aliyah steals the show during Australian Senate debate",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "addressed",
+        "aliyah",
+        "arms",
+        "australian",
+        "baby",
+        "daughter",
+        "debate",
+        "during",
+        "fatima",
+        "her",
+        "month",
+        "old",
+        "payman",
+        "senate",
+        "senator",
+        "show",
+        "six",
+        "steals",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
+          "published_at": "2026-11-25T20:42:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "724b6c895e4093698f1a3448",
+      "remembered_at": "2026-11-25T21:29:16.749452+00:00",
+      "event_date": "2026-11-25T20:30:22+00:00",
+      "last_update": "2026-11-25T20:30:22+00:00",
+      "event": "What’s behind Europe’s protests?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "behind",
+        "disputes",
+        "europe",
+        "increase",
+        "industrial",
+        "protests",
+        "what"
+      ],
+      "source_excerpt": "Increase in protests and industrial disputes across EU and UK.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
+          "published_at": "2026-11-25T20:30:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e9e8e6922991eb340837ffcd",
+      "remembered_at": "2026-11-25T21:29:16.749452+00:00",
+      "event_date": "2026-11-25T20:29:22+00:00",
+      "last_update": "2026-11-25T20:29:22+00:00",
+      "event": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "came",
+        "case",
+        "corruption",
+        "court",
+        "dropping",
+        "end",
+        "fights",
+        "for",
+        "his",
+        "israel",
+        "judges",
+        "longest",
+        "minister",
+        "must",
+        "netanyahu",
+        "political",
+        "prime",
+        "recommendations",
+        "says",
+        "serving",
+        "suggests",
+        "survival",
+        "the",
+        "trial"
+      ],
+      "source_excerpt": "The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+          "published_at": "2026-11-25T20:29:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "30981cbe4f6cf85e98bf5854",
+      "remembered_at": "2026-11-25T21:29:16.749452+00:00",
+      "event_date": "2026-11-25T21:25:14+00:00",
+      "last_update": "2026-11-25T21:25:14+00:00",
+      "event": "At least 30 killed in massive fire as fuel truck crashes on Cairo highway",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "another",
+        "are",
+        "busy",
+        "cairo",
+        "capital",
+        "crashes",
+        "egyptian",
+        "fire",
+        "fuel",
+        "highway",
+        "injured",
+        "killed",
+        "least",
+        "massive",
+        "overturns",
+        "reportedly",
+        "ring",
+        "road",
+        "tanker",
+        "the",
+        "truck"
+      ],
+      "source_excerpt": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T21:25:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T20:24:54.292307+00:00"
+  "updated_at": "2026-11-25T21:29:16.749452+00:00"
 }
