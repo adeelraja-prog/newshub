@@ -146857,7 +146857,525 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "94f7c006ae10bf953fc88853",
+      "remembered_at": "2026-11-25T00:31:05.043170+00:00",
+      "event_date": "2026-11-25T00:00:00+00:00",
+      "last_update": "2026-11-25T00:07:13+00:00",
+      "event": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "coalition",
+        "evacuation",
+        "hit",
+        "hodeidah",
+        "houthis",
+        "iran",
+        "issues",
+        "jeddah",
+        "live",
+        "order",
+        "other",
+        "over",
+        "ports",
+        "saudi",
+        "target",
+        "the",
+        "threaten",
+        "vow",
+        "war"
+      ],
+      "source_excerpt": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+          "published_at": "2026-11-25T00:00:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVTdVVzk0Mm1WUVZsbG40MGM3bGNpak9OMG5GZ05lRHdaT2wyajBla0pxckk0VTkwbDNHYnJSWF9iUl9CcUlXc1RpTHRqTElvRlJkWWVZVFgtUjdqMkFuamRTNndJWlQwQlJnd1ZkUGhZSUxDYjFnbmpjeUpNcmdyZGFCaFZFUmk4LVpoZjNUT01rRFljR0tvTHlVYjFvQURhTnZzYllXUmRBa21FQmhMaEJ2UXowRTRJUmxQNmFJbG1Sd9IBxwFBVV95cUxQWkFuZzJxdC1jMmtReDZjZURsbFlUNV9TVXNFajZKWGxEVUZqSmp6eUhOUFJJajRhclBibjdUY3JIYWItRkxsSmhFRWZLU2ZJUFRfT2MxamJVSHhieXQwZ0c3cDNyX0RfcUY2YVNHampybkU4LURUaDFyWng3M0x2Y0J4ZFNrWkx3cHV1V3U5SXE1R3drc3hPS21HbHIwX1pMVWphdUdURmZVN3NPbUMtSzdXbUNQenJVNFV0RXV1dGxnNjYxSG1v?oc=5",
+          "published_at": "2026-11-25T00:07:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3c2b21c72bb23c8a85537f1a",
+      "remembered_at": "2026-11-25T00:31:05.043170+00:00",
+      "event_date": "2026-11-24T18:46:58+00:00",
+      "last_update": "2026-11-24T19:35:13+00:00",
+      "event": "Pakistan condemns Houthi attack on Riyadh tower, says it undermines peace efforts",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "condemns",
+        "dawn",
+        "efforts",
+        "houthi",
+        "pakistan",
+        "peace",
+        "riyadh",
+        "says",
+        "tower",
+        "undermines"
+      ],
+      "source_excerpt": "Pakistan condemns Houthi attack on Riyadh tower, says it undermines peace efforts Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHBjalpObzBuNzRUeHJpbG5zYXlLNmF0OWhyd3JFNzB4bVVPQjJjU2Nuc0lRRm04RmdvV09hUUkwcGU5d0FVMnRfcU1xVlRoM1JfWktnVW5fT1djVVZwam42dFVETjV6Z1pzZDdpZU1fek9sT0tWZU54M2VPSUJUSFVIQ2ExZ05PVklMT0d5YVJnaGZWU2xYUnZwYmxkZXh0WVI4SmQ3TGRVbjhtajFWOXp2cXQ?oc=5",
+          "published_at": "2026-11-24T18:46:58+00:00"
+        },
+        {
+          "name": "The National",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXhnd0U5NHV1U0V6RmlPTGhnMlM3WFFQWWdJQjlTRFBkVUJreHQ3VVZKZnFtNmNpTGZucTZrbHRzZHVmd0JlN3ljLWlIWU8wWUJuZ0V1ZHBVT2FuYVVpUTJnQ1MzSkg3V3VQcFd3VkItQUNLTDJtM0ZORHBKbWJZUllENjdhZzZuSzR2T3ItTlBvRnhSQ09HTQ?oc=5",
+          "published_at": "2026-11-24T19:22:33+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWVCamY3WDl2ejhqUEtwemM4QklpQnVLb0dhekVzSGVuSnNIVkpXa3VKMDFQOWt1WGZUWnZfZkkyenBmakZkdnAyclVIcVlDY2JwQktJQXJxUU41dmdMMm1PMjJ2UVAzaGw4WTdMbWhxaWZGb045dTdwOFFBZlNjdE5YT2FpRDF5b0doX2Z6MWQ5Mm85RlJNRXpqRWhfY0dBeDNFcVZ3VGdnZw?oc=5",
+          "published_at": "2026-11-24T19:35:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHBjalpObzBuNzRUeHJpbG5zYXlLNmF0OWhyd3JFNzB4bVVPQjJjU2Nuc0lRRm04RmdvV09hUUkwcGU5d0FVMnRfcU1xVlRoM1JfWktnVW5fT1djVVZwam42dFVETjV6Z1pzZDdpZU1fek9sT0tWZU54M2VPSUJUSFVIQ2ExZ05PVklMT0d5YVJnaGZWU2xYUnZwYmxkZXh0WVI4SmQ3TGRVbjhtajFWOXp2cXQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "154a221f0c1d3f5b75671c11",
+      "remembered_at": "2026-11-25T00:31:05.043170+00:00",
+      "event_date": "2026-11-24T23:33:38+00:00",
+      "last_update": "2026-11-24T23:33:38+00:00",
+      "event": "Bellingham beauty in Real Madrid win as Arsenal, Man City held in Champions League",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arsenal",
+        "beauty",
+        "bellingham",
+        "betis",
+        "both",
+        "champions",
+        "city",
+        "como",
+        "continued",
+        "debutants",
+        "draws",
+        "eindhoven",
+        "elsewhere",
+        "goals",
+        "hammered",
+        "held",
+        "home",
+        "jude",
+        "league",
+        "madrid",
+        "maintain",
+        "man",
+        "manchester",
+        "one",
+        "perfect",
+        "psv",
+        "real",
+        "record",
+        "scored",
+        "season",
+        "the",
+        "their",
+        "this",
+        "tuesday",
+        "were",
+        "while",
+        "win"
+      ],
+      "source_excerpt": "Jude Bellingham scored one of the goals of the season as Real Madrid hammered PSV Eindhoven 5-1 on Tuesday to maintain their perfect record in this season’s Champions League, while Arsenal and Manchester City were both held to draws at home. Elsewhere, debutants Como and Real Betis continued their e",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046928/bellingham-beauty-in-real-madrid-win-as-arsenal-man-city-held-in-champions-league",
+          "published_at": "2026-11-24T23:33:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046928/bellingham-beauty-in-real-madrid-win-as-arsenal-man-city-held-in-champions-league",
+        "publisher_url": "https://www.dawn.com/news/2046928/bellingham-beauty-in-real-madrid-win-as-arsenal-man-city-held-in-champions-league",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c5b223ed460af08fadb36692",
+      "remembered_at": "2026-11-25T00:31:05.043170+00:00",
+      "event_date": "2026-11-25T00:28:28+00:00",
+      "last_update": "2026-11-25T00:28:28+00:00",
+      "event": "Alaska ends deal to give voter records to US Justice Department",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "alaska",
+        "and",
+        "conclusion",
+        "deal",
+        "decision",
+        "department",
+        "effort",
+        "elections",
+        "ends",
+        "follows",
+        "gather",
+        "give",
+        "justice",
+        "midterm",
+        "records",
+        "rolls",
+        "state",
+        "the",
+        "trump",
+        "under",
+        "voter"
+      ],
+      "source_excerpt": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+          "published_at": "2026-11-25T00:28:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d383034319105ed82c4f5251",
+      "remembered_at": "2026-11-25T00:31:05.043170+00:00",
+      "event_date": "2026-11-24T23:39:13+00:00",
+      "last_update": "2026-11-24T23:39:13+00:00",
+      "event": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advance",
+        "after",
+        "bunia",
+        "citing",
+        "clashes",
+        "commitments",
+        "congo",
+        "crp",
+        "during",
+        "forces",
+        "government",
+        "group",
+        "halts",
+        "heavy",
+        "made",
+        "mediated",
+        "rebel",
+        "retreats",
+        "talks",
+        "towards",
+        "ugandan",
+        "with"
+      ],
+      "source_excerpt": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+          "published_at": "2026-11-24T23:39:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0add6e8c4b1b3fcf9ab21d56",
+      "remembered_at": "2026-11-25T00:31:05.043170+00:00",
+      "event_date": "2026-11-24T23:38:39+00:00",
+      "last_update": "2026-11-24T23:38:39+00:00",
+      "event": "Third of young Brits have never had sex, but many are sexting and watching porn",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "britain",
+        "brits",
+        "but",
+        "had",
+        "have",
+        "many",
+        "more",
+        "never",
+        "people",
+        "porn",
+        "sex",
+        "sexting",
+        "third",
+        "watching",
+        "young"
+      ],
+      "source_excerpt": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T23:38:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "729162728a8fdc446304588d",
+      "remembered_at": "2026-11-25T00:31:05.043170+00:00",
+      "event_date": "2026-11-25T00:29:58+00:00",
+      "last_update": "2026-11-25T00:29:58+00:00",
+      "event": "Households braced for soaring energy bills with new price cap to be announced",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announced",
+        "bills",
+        "braced",
+        "cap",
+        "domestic",
+        "energy",
+        "for",
+        "gas",
+        "households",
+        "january",
+        "new",
+        "ofgem",
+        "price",
+        "prices",
+        "regulator",
+        "rise",
+        "significantly",
+        "soaring",
+        "under",
+        "will",
+        "with"
+      ],
+      "source_excerpt": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T00:29:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ca3b0f8cf213b183a7084098",
+      "remembered_at": "2026-11-25T00:31:05.043170+00:00",
+      "event_date": "2026-11-25T00:02:32+00:00",
+      "last_update": "2026-11-25T00:02:32+00:00",
+      "event": "Czechs down Canada to reach Davis Cup semi-finals",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "canada",
+        "cup",
+        "czechs",
+        "davis",
+        "dawn",
+        "down",
+        "finals",
+        "reach",
+        "semi"
+      ],
+      "source_excerpt": "Czechs down Canada to reach Davis Cup semi-finals Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON3V6dVVCWlZkOE41bTAzMWlNN1c4R0dVT3EteTlKeVRRQWROZVhhdUNvSTRkbmdlTUtvN3p6YjJhbjFQbm1VdFhHZURYTkM5eExFbEJmVXlHY1ZOMGpSakR1dnhkV2J1QW5OTHUyY0owMlhKVWNESHlFdHlSVHpoWWZUTlpSSFFCVTdn?oc=5",
+          "published_at": "2026-11-25T00:02:32+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046945/czechs-down-canada-to-reach-davis-cup-semi-finals",
+          "published_at": "2026-11-25T00:02:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON3V6dVVCWlZkOE41bTAzMWlNN1c4R0dVT3EteTlKeVRRQWROZVhhdUNvSTRkbmdlTUtvN3p6YjJhbjFQbm1VdFhHZURYTkM5eExFbEJmVXlHY1ZOMGpSakR1dnhkV2J1QW5OTHUyY0owMlhKVWNESHlFdHlSVHpoWWZUTlpSSFFCVTdn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "80f02bf6e06e36916a650573",
+      "remembered_at": "2026-11-25T00:31:05.043170+00:00",
+      "event_date": "2026-11-25T00:29:58+00:00",
+      "last_update": "2026-11-25T00:29:58+00:00",
+      "event": "Chinese spacecraft Shenzhou-24 lifts off with Pakistani astronaut Zeeshan Ali on board",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ali",
+        "astronaut",
+        "become",
+        "board",
+        "centre",
+        "china",
+        "chinese",
+        "crew",
+        "first",
+        "from",
+        "including",
+        "jiuquan",
+        "launch",
+        "lifted",
+        "lifts",
+        "long",
+        "march",
+        "member",
+        "mission",
+        "off",
+        "old",
+        "orbit",
+        "pakistan",
+        "pakistani",
+        "place",
+        "rocket",
+        "satellite",
+        "set",
+        "shenzhou",
+        "spacecraft",
+        "the",
+        "three",
+        "took",
+        "used",
+        "wednesday",
+        "which",
+        "who",
+        "with",
+        "year",
+        "zeeshan"
+      ],
+      "source_excerpt": "China’s Shenzhou-24 spacecraft lifted off from the Jiuquan Satellite Launch Centre on Wednesday with the three-member mission crew including 40-year-old Zeeshan Ali, who is set to become Pakistan’s first astronaut in orbit. The launch of the spacecraft, which used a Long March-2F rocket, took place",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2046753/chinese-spacecraft-shenzhou-24-lifts-off-with-pakistani-astronaut-zeeshan-ali-on-board",
+          "published_at": "2026-11-25T00:29:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2046753/chinese-spacecraft-shenzhou-24-lifts-off-with-pakistani-astronaut-zeeshan-ali-on-board",
+        "publisher_url": "https://www.dawn.com/news/2046753/chinese-spacecraft-shenzhou-24-lifts-off-with-pakistani-astronaut-zeeshan-ali-on-board",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-24T23:34:16.658489+00:00"
+  "updated_at": "2026-11-25T00:31:05.043170+00:00"
 }

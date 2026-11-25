@@ -1,55 +1,185 @@
-# News Hub report - Wed 25 Nov, 04:34 AM PKT
+# News Hub report - Wed 25 Nov, 05:31 AM PKT
 
 ## Collection
-- New items this run: 18 | items in rolling pool: 400
-- Unique story clusters: 338 (duplicates merged: 62)
-- Clusters dropped as already published/queued: 8; unchanged since last analysis: 9
-- Items per outlet: AP News 4, Engadget 4, Al Jazeera 2, Geo News 1, BBC 1, The New York Times 1, The Verge 1, Ars Technica 1, GSMArena 1, BBC Health 1, CBS News 1
+- New items this run: 17 | items in rolling pool: 330
+- Unique story clusters: 277 (duplicates merged: 53)
+- Clusters dropped as already published/queued: 9; unchanged since last analysis: 7
+- Items per outlet: Al Jazeera 5, Dawn Latest 4, TechCrunch 2, Dawn 1, The Verge 1, Engadget 1, Wired 1, BBC Health 1, BBC Business 1, Jang Fast Lane 0, The News International 0, Dawn Search 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
+- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Huawei found guilty of stealing trade secrets but acquitted of racketeering | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bellingham stunner, Mbappe brace help Real Madrid rout PSV | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
+- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Huawei found guilty of stealing trade secrets but acquitted of racketeering | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bellingham stunner, Mbappe brace help Real Madrid rout PSV | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
+- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Huawei found guilty of stealing trade secrets but acquitted of racketeering | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 11 injured in Houthi attack on Riyadh’s PIF Tower | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Bellingham stunner, Mbappe brace help Real Madrid rout PSV | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Zimbabwean convicted in South Africa of trying to fight in Ukraine | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- Overall feeds with entries: 95/120 | empty: 1 | failed: 24 | malformed/partial: 24
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: GNN | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI and Imran Khan Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Khyber Pakhtunkhwa Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Dunya News TV
 
 ## Selected for the queue
+### Houthis threaten Saudi ports as coalition issues evacuation order  [NORMAL]
+- Poster: حوثیوں کی سعودی بندرگاہوں کو نشانہ بنانے کی دھمکی / Houthis threaten Saudi ports | category politics
+- Alternative headline: Yemen's Houthis vow to target Jeddah if Hodeidah is hit
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Houthis, Saudi ports, Hodeidah, Jeddah, coalition, Yemen | hashtags: #Houthis #SaudiArabia #Hodeidah #Yemen #MiddleEast
+- Scheduled: Wed 25 Nov, 05:31 AM PKT
+- Caption:
+```
+Yemeni rebels have issued a stern warning that they will target key Saudi ports, including Jeddah, if military operations hit Hodeidah.
+
+The Houthis have vowed to target Jeddah and other major Saudi ports if Hodeidah is attacked. This threat follows an evacuation order issued by the Saudi-led coalition, raising tensions in the ongoing regional conflict and threatening vital maritime trade routes.
+
+حوثیوں نے خبردار کیا ہے کہ الحدیدہ پر حملہ ہونے کی صورت میں جدہ سمیت دیگر سعودی بندرگاہوں کو نشانہ بنایا جائے گا۔ یہ دھمکی سعودی اتحاد کی طرف سے انخلا کے حکم کے بعد سامنے آئی ہے، جس سے خطے میں کشیدگی مزید بڑھ گئی ہے۔
+
+First reported by Al Jazeera
+
+#Houthis #SaudiArabia #Hodeidah #Yemen #MiddleEast
+```
+
+### Huawei found guilty of stealing trade secrets in US trial  [NORMAL]
+- Poster: ہواوی تجارتی راز چرانے کے جرم میں قصوروار قرار / Huawei found guilty of theft | category other
+- Alternative headline: US jury convicts Huawei of trade secrets conspiracy
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology, Al Jazeera, The Verge, Engadget
+- Keywords: Huawei, trade secrets, US trial, bank fraud, racketeering, tech giant | hashtags: #Huawei #USTrial #TechNews #Business #Law
+- Scheduled: Wed 25 Nov, 05:41 AM PKT
+- Caption:
+```
+A US jury has found Chinese tech giant Huawei guilty of conspiracy to steal trade secrets and bank fraud.
+
+In a landmark US trial, tech giant Huawei was found guilty of conspiracy to steal trade secrets and bank fraud across 10 out of 12 counts. However, the jury acquitted the company of the more serious racketeering charge, which Huawei stated vindicates its position.
+
+امریکہ میں ایک تاریخی مقدمے کے دوران چینی ٹیکنالوجی کمپنی ہواوی کو تجارتی راز چرانے اور بینک فراڈ کی سازش میں قصوروار قرار دے دیا گیا ہے، تاہم ریکٹی رنگ کے الزامات سے بری کر دیا گیا۔
+
+First reported by BBC Technology
+
+#Huawei #USTrial #TechNews #Business #Law
+```
+
+### Arsenal and Borussia Dortmund draw 1-1 in Champions League  [NORMAL]
+- Poster: آرسنل اور بوروسیا ڈورٹمنڈ کا میچ ایک ایک گول سے برابر / Arsenal draw with Dortmund | category sports
+- Alternative headline: Gyokeres misses out as Arsenal held by Dortmund
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Arsenal, Borussia Dortmund, Champions League, football, draw, Gyokeres | hashtags: #Arsenal #Dortmund #ChampionsLeague #UCL #Football
+- Scheduled: Wed 25 Nov, 05:51 AM PKT
+- Caption:
+```
+Arsenal dominated chances but had to settle for a 1-1 draw against Borussia Dortmund in the UEFA Champions League.
+
+Arsenal were held to a 1-1 draw by Borussia Dortmund in the UEFA Champions League. Despite dominating the game and creating numerous chances, the English side could not secure a win as Dortmund fought back.
+
+UEFA چیمپئنز لیگ کے ایک میچ میں آرسنل اور بوروسیا ڈورٹمنڈ کا مقابلہ ایک ایک گول سے برابر رہا۔ آرسنل نے کئی مواقع پیدا کیے لیکن ڈورٹمنڈ نے شاندار واپسی کی۔
+
+First reported by Al Jazeera
+
+#Arsenal #Dortmund #ChampionsLeague #UCL #Football
+```
+
+### Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show  [NORMAL]
+- Poster: ریئল মাদریڈ نے پی ایس وی کو پانچ کے مقابلے ایک گول سے ہرادیا / Real Madrid rout PSV 5-1 | category sports
+- Alternative headline: Bellingham and Mbappe lead Real Madrid to 5-1 rout
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Real Madrid, PSV Eindhoven, Champions League, Bellingham, Mbappe, football | hashtags: #RealMadrid #PSV #ChampionsLeague #Bellingham #Mbappe
+- Scheduled: Wed 25 Nov, 06:01 AM PKT
+- Caption:
+```
+Real Madrid overcame an early deficit to thrash PSV Eindhoven 5-1 in the Champions League thanks to stellar performances.
+
+Real Madrid came from behind to secure a dominant 5-1 victory against PSV Eindhoven in the Champions League. A brilliant performance featuring a stunning goal by Jude Bellingham and a brace from Kylian Mbappe sealed the comfortable win.
+
+ریئল মাদریڈ نے چیمپئنز لیگ میں شاندار کم بیک کرتے ہوئے پی ایس وی کو 1-5 سے شکست دے دی۔ جود بیلنگھم اور کاتلیان مبپے نے اپنی ٹیم کی جیت میں اہم کردار ادا کیا۔
+
+First reported by Al Jazeera
+
+#RealMadrid #PSV #ChampionsLeague #Bellingham #Mbappe
+```
+
+### Pakistan strongly condemns Houthi attack on Riyadh tower  [NORMAL]
+- Poster: پاکستان کی ریاض میں ٹاور پر حوثی حملے کی مذمت / Pakistan condemns Riyadh attack | category other
+- Alternative headline: Pakistan says Houthi attack on Riyadh undermines regional peace
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHBjalpObzBuNzRUeHJpbG5zYXlLNmF0OWhyd3JFNzB4bVVPQjJjU2Nuc0lRRm04RmdvV09hUUkwcGU5d0FVMnRfcU1xVlRoM1JfWktnVW5fT1djVVZwam42dFVETjV6Z1pzZDdpZU1fek9sT0tWZU54M2VPSUJUSFVIQ2ExZ05PVklMT0d5YVJnaGZWU2xYUnZwYmxkZXh0WVI4SmQ3TGRVbjhtajFWOXp2cXQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHBjalpObzBuNzRUeHJpbG5zYXlLNmF0OWhyd3JFNzB4bVVPQjJjU2Nuc0lRRm04RmdvV09hUUkwcGU5d0FVMnRfcU1xVlRoM1JfWktnVW5fT1djVVZwam42dFVETjV6Z1pzZDdpZU1fek9sT0tWZU54M2VPSUJUSFVIQ2ExZ05PVklMT0d5YVJnaGZWU2xYUnZwYmxkZXh0WVI4SmQ3TGRVbjhtajFWOXp2cXQ?oc=5
+- Supporting coverage: Dawn, The National, samaa tv
+- Keywords: Pakistan, Houthi attack, Riyadh, Saudi Arabia, condemnation, peace | hashtags: #Pakistan #SaudiArabia #Riyadh #Houthis #ForeignPolicy
+- Scheduled: Wed 25 Nov, 06:11 AM PKT
+- Caption:
+```
+Pakistan has strongly condemned the recent Houthi missile attack targeting a tower in Riyadh, stating it undermines peace efforts.
+
+Pakistan has expressed strong condemnation over the Houthi attack targeting a tower in Riyadh, which left several people injured. Islamabad stated that such escalations seriously undermine regional peace and stability efforts.
+
+پاکستان نے ریاض میں ٹاور پر ہونے والے حوثی حملے کی شدید الفاظ میں مذمت کی ہے اور کہا ہے کہ اس طرح کے اقدامات خطے میں امن کی کوششوں کو نقصان پہنچاتے ہیں۔
+
+First reported by Dawn
+
+#Pakistan #SaudiArabia #Riyadh #Houthis #ForeignPolicy
+```
+
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 0
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 4
 
 ## Queue status
 - [needs_review] promo | [YouTube] BARRISTER GOHAR: THE BIGGEST PARTY, THE WEAKEST CHAIRMAN! | Sat 21 Nov, 12:51 PM PKT
 - [needs_review] promo | [YouTube] NEW PROVINCES IN PAKISTAN? BILAWAL GETS THE MESSAGE0907 | Sat 21 Nov, 04:22 PM PKT
-- [needs_review] normal | Independent Review Ordered into NHS Grampian Surgery Deaths | Sat 21 Nov, 10:25 PM PKT
-- [needs_review] normal | Indian opposition issues ultimatum to Meta over account removals | Sat 21 Nov, 10:39 PM PKT
-- [needs_review] normal | Security forces eliminate 15 terrorists in Balochistan's Mastung | Sat 21 Nov, 10:49 PM PKT
 - [needs_review] normal | French presidential candidate blames media for racist attack | Sat 21 Nov, 11:09 PM PKT
 - [needs_review] normal | Could Brexit be reversed in the future? | Sat 21 Nov, 11:21 PM PKT
 - [needs_review] normal | Punjab Workers Welfare Fund launches new WhatsApp helpline | Sat 21 Nov, 11:31 PM PKT
@@ -72,7 +202,6 @@
 - [needs_review] normal | Iran faces a silent economic war, warns Iranian president | Sun 22 Nov, 04:56 AM PKT
 - [needs_review] normal | Today's Express Tribune ePaper highlights for November 22, 2026 | Sun 22 Nov, 05:06 AM PKT
 - [needs_review] normal | Impunity fuels alarming surge in settler violence across West Bank | Sun 22 Nov, 05:16 AM PKT
-- [published] normal | Nmecha shines as Dortmund defeats Gladbach to claim top spot | Sun 22 Nov, 05:26 AM PKT
 - [needs_review] normal | Nigeria Youth Power: Why Aren't Young People Shaping This Election? | Sun 22 Nov, 05:59 AM PKT
 - [needs_review] normal | Clashes Erupt Across France in Another Night of Protest | Sun 22 Nov, 06:09 AM PKT
 - [needs_review] normal | Iran War Live: Iran Targets US Bases in Bahrain as Houthi Strikes Cont | Sun 22 Nov, 06:19 AM PKT
@@ -236,23 +365,23 @@
 - [needs_review] normal | Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat | Tue 24 Nov, 05:15 PM PKT
 - [needs_review] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
 - [published] promo | [YouTube] MARYAM NAWAZ EXPOSED: RS 10 LAKH FLOWERS, MAULANA BLOCKED | Tue 24 Nov, 11:36 PM PKT
+- [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
+- [queued] normal | Huawei found guilty of stealing trade secrets in US trial | Wed 25 Nov, 05:41 AM PKT
+- [queued] normal | Arsenal and Borussia Dortmund draw 1-1 in Champions League | Wed 25 Nov, 05:51 AM PKT
+- [queued] normal | Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show | Wed 25 Nov, 06:01 AM PKT
+- [queued] normal | Pakistan strongly condemns Houthi attack on Riyadh tower | Wed 25 Nov, 06:11 AM PKT
 
 ## Publishing this run
-- No post published: nothing due yet.
+- Published 'Houthis threaten Saudi ports as coalition issues evacuation order'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 7177 | output tokens: 3086
-- Errors: 4
+- Calls: 3 | prompt tokens: 7704 | output tokens: 3326
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 109 column 7 (char 4987)
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
