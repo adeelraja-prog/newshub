@@ -155787,7 +155787,823 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5d47eb2e4bcde98e94c7dac2",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T10:21:35+00:00",
+      "last_update": "2026-11-25T15:00:00+00:00",
+      "event": "Karachi Building Collapse | Emergency Rescue Operation Underway | Breaking News | Dunya News",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "breaking",
+        "building",
+        "collapse",
+        "dunya",
+        "emergency",
+        "karachi",
+        "news",
+        "operation",
+        "rescue",
+        "underway"
+      ],
+      "source_excerpt": "Karachi Building Collapse | Emergency Rescue Operation Underway | Breaking News | Dunya News Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNU04SDU0THBHbm5MNVg1VlNlaG5uanl3VDdpYVZkYzkxYncwd3BiTUh1b1pESnJwLXl3S056STJrRF9fWVNXa3NtdnVUMEhtdGs2V1ZVcFJRa1pvMUUtOWloRVlIQ3hhR01wRng1VUFzWHNabmVhNEhja3BDS2MzMG45MzJCVTVaMlplVmdreXh2MlJoRGRvd0VBY2hKQUY3bEdmWWoydkxEMjZYN2FXenp1aV8xcjJzWmJXSWFMZnZuZ25wWkZ5Z2lkVUMyX1BzbEhicGxwUTBrbFo4eE1r?oc=5",
+          "published_at": "2026-11-25T10:21:35+00:00"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeldjamVoaW9sS2N1UUJKdExzblRxbHBRektBM1FwSTd6QkRVYW5uTUt0VV9NNXhxZHBaTlA4Nm12SzdWMGpoMnM0SG94VmJzcW13NkphVVVBNTJkR01maHZXbkQ1OWt1ZE5lbGlwZ2VvdGFCcWZwbG1WOXI1SFJQT2tFM1MxOE9nLXg4dXlvbjh1alRoaENJXzhkVHJuSklKbkZMOW9uOWRqZ2V3eHdiR2JGamV5TUZ1Y0RvanVrbndaTjBISEdIYw?oc=5",
+          "published_at": "2026-11-25T15:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNU04SDU0THBHbm5MNVg1VlNlaG5uanl3VDdpYVZkYzkxYncwd3BiTUh1b1pESnJwLXl3S056STJrRF9fWVNXa3NtdnVUMEhtdGs2V1ZVcFJRa1pvMUUtOWloRVlIQ3hhR01wRng1VUFzWHNabmVhNEhja3BDS2MzMG45MzJCVTVaMlplVmdreXh2MlJoRGRvd0VBY2hKQUY3bEdmWWoydkxEMjZYN2FXenp1aV8xcjJzWmJXSWFMZnZuZ25wWkZ5Z2lkVUMyX1BzbEhicGxwUTBrbFo4eE1r?oc=5",
+        "publisher_url": "https://video.dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0426cce66ced3309f1b6c1ee",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T12:31:11+00:00",
+      "last_update": "2026-11-25T14:56:34+00:00",
+      "event": "China warns US against imposing new tariffs",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "china",
+        "imposing",
+        "new",
+        "tariffs",
+        "warns"
+      ],
+      "source_excerpt": "China warns US against imposing new tariffs",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/china-warns-us-imposing-new-tariffs",
+          "published_at": "2026-11-25T12:31:11+00:00"
+        },
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
+          "published_at": "2026-11-25T13:14:55+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUhsNHVrMU1LUUQ4VU9WYjlOczlzR3FMa3hYcnFtMnRkNnQ4eElRNWNTRHRQOGw5N1FjcUpKMmxCLUdmU21IX3Npa1FfTXUybHZOTndSMnlnQTdCVy1aUUJPS0dTNVhHbFJTNmFvdThOOUFJZ1JGbVROZjF4U1JqTF9Sd9IBU0FVX3lxTE1paUFEMkxPQ1RlMEt5SURCdHBPZGVGUEZ5YmlOSkdETmU5Ym56Wlpfa0xkTFBiQWVjREJaNnpjQUdkT3FQdlhjRWJZdE1ZMDc3bmEw?oc=5",
+          "published_at": "2026-11-25T14:08:42+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692621-us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
+          "published_at": "2026-11-25T14:56:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/china-warns-us-imposing-new-tariffs",
+        "publisher_url": "https://arynews.tv/china-warns-us-imposing-new-tariffs",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "62c99fed8d62569fcfdb3fdf",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T11:38:58+00:00",
+      "last_update": "2026-11-25T15:14:07+00:00",
+      "event": "Kremlin brushes off reports of 700,000 Russian war deaths",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "700",
+        "brushes",
+        "deaths",
+        "kremlin",
+        "off",
+        "reports",
+        "russian",
+        "war"
+      ],
+      "source_excerpt": "Kremlin brushes off reports of 700,000 Russian war deaths",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2pWcjFHdXEyc0tDU1lnYUFVaDhneEg2eHY4ajVDaG9IemhYNXpJejJ0ekFfRmNQM2xXaVVKTWlSRS1XUGNfekxtNGEtXzg3SHNCZlJtOURPdFplQ2N3Z1dLcDVtaldGTmRTSXNEM1RtSTVRUU14WHBINWJfVkRfczczZ3hqaUJGNlVURGpn?oc=5",
+          "published_at": "2026-11-25T11:38:58+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/kremlin-brushes-off-reports-700000-russian-war-deaths",
+          "published_at": "2026-11-25T12:20:52+00:00"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNmcUJzRjV4UVpZYkV4dzdCR25rZ3pLODVLbEJ1eVh2aVM3QU5YTkM4TFptTmNLQzI0cTJwdEZfeHk1TXhkWTYxVXFHU2lTTEZwaDgyRk1pNkJtTEYyVFpndU9BVWFZb3ZvV3hrUmhTbkRUM1k2SVlzbkoyd3JGRVBsdzhTaFc4MHdYVlFJaUF4c252bGxtTnE2SWJXMkoweHZ0WUU0MGFnYzhSTkF2ZVl3?oc=5",
+          "published_at": "2026-11-25T13:54:15+00:00"
+        },
+        {
+          "name": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0pVdDdxUURmTmd4NkNvNFAyY3pJSWVKN0RqaUZWNWlJUUlFY0NEM2swSElrZ0p6U2dlR1NNdnNCNTBRMDNCRmJicmJjbTJtc1YwRzRRRjRYUlJhSEJwQmlUdkVPelh3Z1BVY1NwYWh4d3RWMVhCQUVaMXdFUjY0cERRR05Rd2FHYnBKY0VxUHdxSVZUeVNDOXJ2dGtOVWh6MkJKWjBQUXpXLWx0M182SC1IUlBOZ2xhcDdKcw?oc=5",
+          "published_at": "2026-11-25T15:14:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/kremlin-brushes-off-reports-700000-russian-war-deaths",
+        "publisher_url": "https://arynews.tv/kremlin-brushes-off-reports-700000-russian-war-deaths",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cbb7d3e4677b5f9e45eee559",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T10:23:00+00:00",
+      "last_update": "2026-11-25T15:34:59+00:00",
+      "event": "Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abrego",
+        "arrives",
+        "departure",
+        "deported",
+        "from",
+        "garcia",
+        "kilmar",
+        "lawyer",
+        "national",
+        "said",
+        "salvadoran",
+        "spain",
+        "statement",
+        "temporary",
+        "that",
+        "the",
+        "was",
+        "wrongfully"
+      ],
+      "source_excerpt": "The Salvadoran national's lawyer said in a statement that it was 'a temporary departure'.",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQzJWWEF6QUlGeWdMOVFGak9KT2RjU3hJMVN2VTNhdWVXcEs2WW5aXzFNWGRRV0dTMDFyWURfeF9LeDJIbjltOXZYWFNvU3FJZmZjenRxYmpxeU5HTzlGOUlvY0FCUE5vaHNJTkxhdkt0ZjNJUkMxUGgyakdfVzBiYUM1eGFSRGdaajZKOHQ4VXpQR2d1WGVYMGlYVU0xdmtqSy15Q1ZyWmM0VGNsUkphTlRVb1FESkR2SzdTc184S011b0dHam9DdHVTNVJpNGstYVE1SWdFRnVkQjlidkx0MXYtdmJWUQ?oc=5",
+          "published_at": "2026-11-25T10:23:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss",
+          "published_at": "2026-11-25T15:34:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c0c30efbe35b39cb5783b64c",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T11:30:00+00:00",
+      "last_update": "2026-11-25T15:45:00+00:00",
+      "event": "China launches Shenzhou-24: What is the mission aimed at?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "aimed",
+        "and",
+        "beijing",
+        "broader",
+        "china",
+        "crew",
+        "crewed",
+        "future",
+        "human",
+        "independent",
+        "launched",
+        "launches",
+        "mission",
+        "new",
+        "november",
+        "part",
+        "push",
+        "research",
+        "scientific",
+        "sending",
+        "shenzhou",
+        "space",
+        "spaceflight",
+        "station",
+        "the",
+        "tiangong",
+        "towards",
+        "what"
+      ],
+      "source_excerpt": "China launches Shenzhou-24: What is the mission aimed at? China launched the Shenzhou-24 crewed mission on November 25, 2026, sending a new crew to the Tiangong space station as part of Beijing’s broader push towards independent human spaceflight, scientific research, and a future...",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQlhwWkJ5MTlFNllvQWRaemVnRWFGQ3dabkVjbHpTeTBKX2tEbDd0SmhNRDBUSk5xQ3ZlOHc3QURHUnk5eEVfblBSdlU3NkpremlTRksyaDJvUnRfOUxnakEwZnN2RDYyTmpPckJ6WEY2Zk9CQkFpZk9xRnkzbnlRd19rUGxzbG5kUDBKOG9YNE1sVG1uSE5sWG1MRlAyZi1tM0Z5aVZXd2xPX2syaGhMZlkwZENrUWhyVlNCeFV3WVpoV0cxUUMydlNSel90bE1yRGNEdGtCYw?oc=5",
+          "published_at": "2026-11-25T11:30:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692626-china-launches-shenzhou-24-what-is-the-mission-aimed-at",
+          "published_at": "2026-11-25T15:45:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692626-china-launches-shenzhou-24-what-is-the-mission-aimed-at",
+        "publisher_url": "https://www.geo.tv/latest/692626-china-launches-shenzhou-24-what-is-the-mission-aimed-at",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ba112b47108015d997ab1deb",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T11:23:13+00:00",
+      "last_update": "2026-11-25T15:57:07+00:00",
+      "event": "Pakistan, Russia target $5bn trade by 2030",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2030",
+        "5bn",
+        "pakistan",
+        "russia",
+        "samaa",
+        "target",
+        "trade"
+      ],
+      "source_excerpt": "Pakistan, Russia target $5bn trade by 2030 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rYlRSRi1JNWJub3RYLW1la1hHMXYwOWZVS194LVJoYXZoc1VqbTJEN2loYldmVUt0OXJZbXFjUjRaendJaVJna1NyMmYzWUtOMkVZTmgwU19pMUMxSUU3MjdGeTZnMndpMkJLSFVsQVk3dnlZX3RSaUZJbjU?oc=5",
+          "published_at": "2026-11-25T11:23:13+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2sxYjZ1N3NWYjhnRDQydGhNemdxU3lLZnFQN01tQVg4WUdEUGF2dTZZd043Y2lYS1lwRDFMVG5xNWMtUkQyZnBjWFdoamxJU0MtTGtDR1lKSURWNENjSUNPUEpkRDA5R29xaUQ3MTZVa2pPaWVxakNoU1ZES3FkVGhHQ29QYUlxdkhVX1BKbXJTbGhKMEpEdlZxX2NxNzgyaURkRHplWmbSAVNBVV95cUxOX2pDLXdpLWg3eTFQaUxjT0V1N3BrdEFRTVNRalNzc1hqNlM0bFQ2aU1pUEFHZzRCd2lFZjJlVWpBdnlCZktiUTBHN3RQRXMyS09uUQ?oc=5",
+          "published_at": "2026-11-25T15:57:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rYlRSRi1JNWJub3RYLW1la1hHMXYwOWZVS194LVJoYXZoc1VqbTJEN2loYldmVUt0OXJZbXFjUjRaendJaVJna1NyMmYzWUtOMkVZTmgwU19pMUMxSUU3MjdGeTZnMndpMkJLSFVsQVk3dnlZX3RSaUZJbjU?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e8d28d32c985bf805ae7ed79",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T14:57:58+00:00",
+      "last_update": "2026-11-25T15:01:08+00:00",
+      "event": "The trailer for Pakistan's first Netflix original Jo Bachay Hain Sang Samait Lo is finally out — and we decoded it so you don't have to",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bachay",
+        "dawn",
+        "decoded",
+        "don",
+        "finally",
+        "first",
+        "for",
+        "hain",
+        "have",
+        "netflix",
+        "original",
+        "out",
+        "pakistan",
+        "samait",
+        "sang",
+        "the",
+        "trailer",
+        "you"
+      ],
+      "source_excerpt": "The trailer for Pakistan's first Netflix original Jo Bachay Hain Sang Samait Lo is finally out — and we decoded it so you don't have to Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObWhxeG93VHV3SVJJOGNhZE40WlVMZW5peWVSdU9wZXdxOTVmb2lhNWlVZXE4R2oxWmlXOTFRQkxWcXdHVjhhLUc5Smgzc3liV1Rkb0xpTkh0YkhsRDhXakdra3R1RzZFZ1dUZ3lzWHB4VTVSRjRlWU5XSGJmaDMxaUNzTm1SczdzQ1J3VGNkVnh5VUpVZlB3VW81bm9ieUZCUzVacmZzajZNVlJaaHdJNWpEZGRfZnZkdnBhVWhRU25YNTZjZWdLd25SUHJYYjV0Sl9NUVJkam1fQU9GNnhpNjNxVzRYQnRLakFjVVNoLXVqYy11b08zdzN3TVQ?oc=5",
+          "published_at": "2026-11-25T14:57:58+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047016/the-trailer-for-pakistans-first-netflix-original-jo-bachay-hain-sang-samait-lo-is-finally-out-and-we-decoded-it-so-you-dont-have-to",
+          "published_at": "2026-11-25T15:01:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObWhxeG93VHV3SVJJOGNhZE40WlVMZW5peWVSdU9wZXdxOTVmb2lhNWlVZXE4R2oxWmlXOTFRQkxWcXdHVjhhLUc5Smgzc3liV1Rkb0xpTkh0YkhsRDhXakdra3R1RzZFZ1dUZ3lzWHB4VTVSRjRlWU5XSGJmaDMxaUNzTm1SczdzQ1J3VGNkVnh5VUpVZlB3VW81bm9ieUZCUzVacmZzajZNVlJaaHdJNWpEZGRfZnZkdnBhVWhRU25YNTZjZWdLd25SUHJYYjV0Sl9NUVJkam1fQU9GNnhpNjNxVzRYQnRLakFjVVNoLXVqYy11b08zdzN3TVQ?oc=5",
+        "publisher_url": "https://images.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "28b0ad4744eb5bd63f9a7348",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T15:03:37+00:00",
+      "last_update": "2026-11-25T16:07:58+00:00",
+      "event": "FBR suspends two officials over misuse of tax concessions in former FATA, PATA",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "concessions",
+        "fata",
+        "fbr",
+        "former",
+        "misuse",
+        "officials",
+        "over",
+        "pata",
+        "samaa",
+        "suspends",
+        "tax",
+        "two"
+      ],
+      "source_excerpt": "FBR suspends two officials over misuse of tax concessions in former FATA, PATA samaa tv",
+      "sources": [
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/fbr-suspends-two-tax-officers-over-fata-pata-tax-exemptions-orders-a-30-day-inquiry/",
+          "published_at": "2026-11-25T15:03:37+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/fbr-suspends-two-tax-officers-over-fata-pata-tax-exemptions-orders-an-inquiry/",
+          "published_at": "2026-11-25T15:03:37+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUl9PSFotU1NVVnZuNTJqTmlWNER2aExZejQyazdwMl9qQVRPMm5TWXR5QzVKakM1VElqTXBGU1FNVGhRTnR1RFNQdTZfdGNSLW1ZdlplVWlBYkMxR2EyOEo1Q2dQbF8yR0t2WUFMSzlUSU1acjZ1UG4ydGQ4aTR2VXBaRW1xZzBQUUNHX3d1ZGFMbEs0VjE0RmgwSENGTjZQdF9wM3dCT0NNTEN1Mm1McjI2NkFHQXNDa1VkZzBFcDY?oc=5",
+          "published_at": "2026-11-25T16:07:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUl9PSFotU1NVVnZuNTJqTmlWNER2aExZejQyazdwMl9qQVRPMm5TWXR5QzVKakM1VElqTXBGU1FNVGhRTnR1RFNQdTZfdGNSLW1ZdlplVWlBYkMxR2EyOEo1Q2dQbF8yR0t2WUFMSzlUSU1acjZ1UG4ydGQ4aTR2VXBaRW1xZzBQUUNHX3d1ZGFMbEs0VjE0RmgwSENGTjZQdF9wM3dCT0NNTEN1Mm1McjI2NkFHQXNDa1VkZzBFcDY?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "05f7612adce23ec4cc6e8312",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T16:02:22+00:00",
+      "last_update": "2026-11-25T16:02:22+00:00",
+      "event": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "assassinated",
+        "chief",
+        "city",
+        "daily",
+        "gaza",
+        "hamas",
+        "him",
+        "internal",
+        "israel",
+        "jerusalem",
+        "killing",
+        "kills",
+        "others",
+        "security",
+        "six",
+        "strike"
+      ],
+      "source_excerpt": "Israel assassinated Hamas’s internal security chief in Gaza City, killing him and six others in a strike",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
+          "published_at": "2026-11-25T16:02:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "16a4ef729ed409687ae98a75",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T15:51:58+00:00",
+      "last_update": "2026-11-25T15:51:58+00:00",
+      "event": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "afcon",
+        "african",
+        "allegations",
+        "amid",
+        "arbitration",
+        "cas",
+        "contact",
+        "court",
+        "cup",
+        "deny",
+        "for",
+        "morocco",
+        "nations",
+        "rightful",
+        "row",
+        "ruled",
+        "senegal",
+        "sport",
+        "that",
+        "the",
+        "were",
+        "winners",
+        "with"
+      ],
+      "source_excerpt": "The Court of Arbitration for Sport ruled that Senegal were the rightful winners of the 2025 African Cup of Nations.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
+          "published_at": "2026-11-25T15:51:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dfc699c327193608f61f2c29",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T15:15:53+00:00",
+      "last_update": "2026-11-25T15:15:53+00:00",
+      "event": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "activist",
+        "attacks",
+        "barnea",
+        "calling",
+        "chief",
+        "confronted",
+        "confronts",
+        "criminal",
+        "david",
+        "former",
+        "germany",
+        "has",
+        "him",
+        "jewish",
+        "lebanon",
+        "mossad",
+        "over",
+        "pager",
+        "parliament",
+        "war"
+      ],
+      "source_excerpt": "A Jewish activist has confronted former Mossad chief David Barnea in Germany's parliament, calling him a 'war criminal'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
+          "published_at": "2026-11-25T15:15:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "73c7b81b72714eb6222d36e3",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T15:14:08+00:00",
+      "last_update": "2026-11-25T15:14:08+00:00",
+      "event": "US Army detonates toxic lead explosives in Iowa amid health concerns",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500kg",
+        "affecting",
+        "amid",
+        "and",
+        "army",
+        "azide",
+        "concerns",
+        "destroys",
+        "detonates",
+        "explosives",
+        "fallout",
+        "farms",
+        "fears",
+        "health",
+        "iowa",
+        "lead",
+        "livestock",
+        "nearly",
+        "residents",
+        "the",
+        "toxic"
+      ],
+      "source_excerpt": "The US Army destroys nearly 4,500kg of lead azide amid fears of toxic fallout affecting residents, farms and livestock.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
+          "published_at": "2026-11-25T15:14:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "64b75bf8e5d33faef052c7a0",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T15:41:39+00:00",
+      "last_update": "2026-11-25T15:41:39+00:00",
+      "event": "Canadian astronaut welcomes baby girl from space station",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aboard",
+        "astronaut",
+        "baby",
+        "birth",
+        "canadian",
+        "child",
+        "currently",
+        "first",
+        "fourth",
+        "from",
+        "girl",
+        "his",
+        "history",
+        "international",
+        "joshua",
+        "just",
+        "kutryk",
+        "miss",
+        "mission",
+        "space",
+        "station",
+        "the",
+        "welcomes",
+        "while"
+      ],
+      "source_excerpt": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T15:41:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b79f63ac01cb84de8d397da9",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T16:03:07+00:00",
+      "last_update": "2026-11-25T16:03:07+00:00",
+      "event": "Poundland collapses putting 11,000 jobs at risk",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "administration",
+        "after",
+        "buyer",
+        "chain",
+        "collapsed",
+        "collapses",
+        "discount",
+        "failed",
+        "find",
+        "has",
+        "into",
+        "its",
+        "jobs",
+        "owners",
+        "poundland",
+        "putting",
+        "risk",
+        "the"
+      ],
+      "source_excerpt": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T16:03:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "437438fde4d61a023375e53d",
+      "remembered_at": "2026-11-25T16:17:15.874192+00:00",
+      "event_date": "2026-11-25T16:07:26+00:00",
+      "last_update": "2026-11-25T16:07:26+00:00",
+      "event": "US stocks fall further as fears over AI intensify",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "almost",
+        "dominated",
+        "down",
+        "early",
+        "fall",
+        "fears",
+        "further",
+        "indexes",
+        "intensify",
+        "main",
+        "nasdaq",
+        "over",
+        "stocks",
+        "tech",
+        "the",
+        "three",
+        "trading",
+        "were",
+        "with"
+      ],
+      "source_excerpt": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T16:07:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T15:04:41.569315+00:00"
+  "updated_at": "2026-11-25T16:17:15.874192+00:00"
 }
