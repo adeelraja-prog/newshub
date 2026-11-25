@@ -1,35 +1,35 @@
-# News Hub report - Thu 26 Nov, 12:20 AM PKT
+# News Hub report - Thu 26 Nov, 01:24 AM PKT
 
 ## Collection
-- New items this run: 57 | items in rolling pool: 813
-- Unique story clusters: 708 (duplicates merged: 105)
-- Clusters dropped as already published/queued: 6; unchanged since last analysis: 7
-- Items per outlet: Geo News 6, UrduPoint 5, Al Jazeera 5, Dawn 4, Jang Urdu 4, ProPakistani 4, ARY News 3, samaa tv 2, The Express Tribune 2, Ars Technica 2, BBC Science 2, TechJuice 2
+- New items this run: 44 | items in rolling pool: 750
+- Unique story clusters: 648 (duplicates merged: 102)
+- Clusters dropped as already published/queued: 12; unchanged since last analysis: 4
+- Items per outlet: Al Jazeera 7, Geo News 4, TechCrunch 4, ARY News 3, BBC World 3, Dawn Latest 2, Dawn 2, Reuters 2, Engadget 2, samaa tv 1, The Express Tribune 1, Aaj English TV 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- China warns US against imposing new tariffs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan records 10th polio case in 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Russia target $5bn trade by 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tarar urges social media companies to establish offices in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mulder takes seven as South Africa sweep aside Bangladesh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- China warns US against imposing new tariffs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan records 10th polio case in 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Russia target $5bn trade by 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tarar urges social media companies to establish offices in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mulder takes seven as South Africa sweep aside Bangladesh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- China warns US against imposing new tariffs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan records 10th polio case in 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Russia target $5bn trade by 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tarar urges social media companies to establish offices in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Moment Nasa spacecraft leaves stadium-sized crater in asteroid | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mulder takes seven as South Africa sweep aside Bangladesh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,160 +39,14 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Trump to meet Abdul El-Sayed over universal healthcare  [NORMAL]
-- Poster: ٹرمپ کا عبدالالسید سے ملاقات کا اعلان / Trump to meet Abdul El-Sayed | category us_politics
-- Alternative headline: US President calls Democratic victor Abdul El-Sayed a smart guy
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss
-- Supporting coverage: Al Jazeera, Geo News, Dawn Latest, Pakistan Today
-- Keywords: Abdul El-Sayed, Trump, universal healthcare, Michigan, Senate race | hashtags: #Trump #AbdulElSayed #Healthcare #USPolitics
-- Scheduled: Thu 26 Nov, 12:20 AM PKT
-- Caption:
-```
-US President Donald Trump announced he will meet Democratic victor Abdul El-Sayed to discuss universal healthcare initiatives.
-
-Following a competitive Senate race in Michigan, US President Donald Trump has stated he will meet Democratic victor Abdul El-Sayed. Trump praised El-Sayed as a smart guy as discussions turn towards universal healthcare proposals.
-
-مشی گن میں سینیٹ کے مقابلے کے بعد، امریکی صدر ڈونلڈ ٹرمپ نے ڈیموکریٹک فتح حاصل کرنے والے عبدالالسید سے ملاقات کا اعلان کیا ہے۔ ٹرمپ نے السید کو ایک ہوشیار شخص قرار دیا۔
-
-First reported by Al Jazeera
-
-#Trump #AbdulElSayed #Healthcare #USPolitics
-```
-
-### China urges US to avoid new tariffs as trade tensions rise  [NORMAL]
-- Poster: چین کی امریکہ کو نئے ٹیرف عائد کرنے پر تنبیہ / China warns US against new tariffs | category economy
-- Alternative headline: Beijing warns Washington against imposing fresh tariffs on trading partners
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/china-warns-us-imposing-new-tariffs | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/china-warns-us-imposing-new-tariffs
-- Supporting coverage: ARY News, CNN, Aaj English TV, Geo News, BBC
-- Keywords: tariffs, China, US trade, Beijing, EU | hashtags: #China #US #Tariffs #TradeWar
-- Scheduled: Thu 26 Nov, 12:30 AM PKT
-- Caption:
-```
-Beijing urged Washington to maintain stable trade relations after reports emerged regarding proposed new US tariffs.
-
-China has cautioned the United States against implementing new tariffs affecting major trading partners including the EU, Japan, and South Korea. Beijing emphasized that trade wars serve no one's interests and called for resolving issues through consultation.
-
-چین نے امریکہ کو خبردار کیا ہے کہ وہ تجارتی شراکت داروں پر نئے ٹیرف عائد کرنے سے گریز کرے۔ بیجنگ نے اس بات پر زور دیا کہ تجارتی جنگیں کسی کے مفاد میں نہیں ہیں۔
-
-First reported by ARY News
-
-#China #US #Tariffs #TradeWar
-```
-
-### Pakistan records 10th polio case of 2026 after KP report  [NORMAL]
-- Poster: پاکستان میں سال 2026 کا دسواں پولیو کیس سامنے آ گیا / Pakistan records 10th polio case of 2026 | category health
-- Alternative headline: Karak district reports first polio case in six years
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVBlUGJ6RVFWcGZfU3J2eDlrM2Q5LWxWVjZPLUxyVkJiWkxyeTdlaGQ4MmFrYWYyWmFUVE9RUEhMTnZBeE1LX2xBTHBrMkJWQ3BiRUhYU0NzRENKSEVxaVZURVJydFlhQURmclIwb0ZEeXdLcGtlOElnVzhxb2g2LUdpMEtmQy1sX3ZxSmpTMA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVBlUGJ6RVFWcGZfU3J2eDlrM2Q5LWxWVjZPLUxyVkJiWkxyeTdlaGQ4MmFrYWYyWmFUVE9RUEhMTnZBeE1LX2xBTHBrMkJWQ3BiRUhYU0NzRENKSEVxaVZURVJydFlhQURmclIwb0ZEeXdLcGtlOElnVzhxb2g2LUdpMEtmQy1sX3ZxSmpTMA?oc=5
-- Supporting coverage: samaa tv, The Express Tribune, Dawn, Dawn Pakistan
-- Keywords: polio case, Pakistan, Khyber Pakhtunkhwa, Karak, health | hashtags: #Polio #Pakistan #KP #Health
-- Scheduled: Thu 26 Nov, 12:40 AM PKT
-- Caption:
-```
-Pakistan's nationwide polio tally for 2026 reached 10 after a new case was reported from Khyber Pakhtunkhwa.
-
-Pakistan has recorded its 10th polio case of 2026. The latest case emerged from Karak district in Khyber Pakhtunkhwa, marking the area's first reported polio case in six years and bringing the countrywide total to ten.
-
-پاکستان میں سال 2026 کا دسواں پولیو کیس ریکارڈ کیا گیا ہے۔ خیبر پختونخوا کے ضلع کرک میں چھ سال بعد پہلا پولیو کیس سامنے آنے سے ملک بھر میں مجموعی تعداد دس ہو گئی ہے۔
-
-First reported by Samaa TV
-
-#Polio #Pakistan #KP #Health
-```
-
-### Pakistan and Russia target $5 billion trade by 2030  [NORMAL]
-- Poster: پاکستان اور روس کا 2030 تک 5 ارب ڈالر تجارت کا ہدف / Pakistan, Russia target $5bn trade by 2030 | category economy
-- Alternative headline: Pakistan, Russia agree to boost bilateral trade under new pact
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMifEFVX3lxTE1rYlRSRi1JNWJub3RYLW1la1hHMXYwOWZVS194LVJoYXZoc1VqbTJEN2loYldmVUt0OXJZbXFjUjRaendJaVJna1NyMmYzWUtOMkVZTmgwU19pMUMxSUU3MjdGeTZnMndpMkJLSFVsQVk3dnlZX3RSaUZJbjU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMifEFVX3lxTE1rYlRSRi1JNWJub3RYLW1la1hHMXYwOWZVS194LVJoYXZoc1VqbTJEN2loYldmVUt0OXJZbXFjUjRaendJaVJna1NyMmYzWUtOMkVZTmgwU19pMUMxSUU3MjdGeTZnMndpMkJLSFVsQVk3dnlZX3RSaUZJbjU?oc=5
-- Supporting coverage: samaa tv, Aaj English TV, TechJuice, Profit by Pakistan Today
-- Keywords: bilateral trade, Pakistan, Russia, economy, 2030 target | hashtags: #Pakistan #Russia #Trade #Economy
-- Scheduled: Thu 26 Nov, 12:50 AM PKT
-- Caption:
-```
-Pakistan and Russia have set a bilateral trade target of $5 billion to be achieved by the year 2030.
-
-Pakistan and Russia have agreed to significantly boost their bilateral economic ties, setting a mutual target of $5 billion in trade by 2030 under a new economic framework.
-
-پاکستان اور روس نے باہمی اقتصادی تعلقات کو فروغ دیتے ہوئے 2030 تک تجارت کا ہدف 5 ارب ڈالر مقرر کرنے پر اتفاق کیا ہے۔
-
-First reported by Samaa TV
-
-#Pakistan #Russia #Trade #Economy
-```
-
-### Tarar urges social media companies to establish offices in Pakistan  [NORMAL]
-- Poster: تارڑ کا سوشل میڈیا کمپنیوں کو پاکستان میں دفاتر بنانے کا مطالبہ / Tarar urges social media offices in Pakistan | category tech
-- Alternative headline: Information minister calls for social media platforms to open local offices
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxQWnY3TWZRVktXNzlCYW53RW55OUx6Z1FEVmRWR0pBa1pfYkduYVlKTjFaSHNMakI2OWtaNGRKenRsVV9aWC1ZVHFJSFBqX0ZDQ2pteXh5TXZYT3Y0bmwzekJIVWFLS19ZX3p6SzhSdWVUYVBxSlFBYWpQcDZDcTNGYnVNOFFRMXEydE5UOTRSbUZKSE1iaDZNcWthV1BMT3lWVVpN?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxQWnY3TWZRVktXNzlCYW53RW55OUx6Z1FEVmRWR0pBa1pfYkduYVlKTjFaSHNMakI2OWtaNGRKenRsVV9aWC1ZVHFJSFBqX0ZDQ2pteXh5TXZYT3Y0bmwzekJIVWFLS19ZX3p6SzhSdWVUYVBxSlFBYWpQcDZDcTNGYnVNOFFRMXEydE5UOTRSbUZKSE1iaDZNcWthV1BMT3lWVVpN?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Profit by Pakistan Today
-- Keywords: social media companies, Tarar, Pakistan, offices, tech regulation | hashtags: #SocialMedia #Pakistan #TechRegulation #News
-- Scheduled: Thu 26 Nov, 01:00 AM PKT
-- Caption:
-```
-Authorities have urged major social media companies to establish formal operational offices within Pakistan.
-
-Federal authorities, through statements highlighted by Dawn, have urged social media companies to set up official offices in Pakistan to ensure better cooperation and regulatory compliance.
-
-وفاقی حکام نے سوشل میڈیا کمپنیوں پر زور دیا ہے کہ وہ بہتر تعاون اور ضابطے کی پابندی کو یقینی بنانے کے لیے پاکستان میں اپنے باضابطہ دفاتر قائم کریں۔
-
-First reported by Dawn
-
-#SocialMedia #Pakistan #TechRegulation #News
-```
-
-### Sporting Lisbon vs Manchester United: UEFA Champions League live  [NORMAL]
-- Poster: اسپورٹنگ لزبن اور مانچسٹر یونائیٹڈ کے درمیان چیمپئنز لیگ میچ / Sporting Lisbon vs Man United live | category sports
-- Alternative headline: Follow live text commentary for Sporting Lisbon and Manchester United clash
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: UEFA Champions League, Sporting Lisbon, Manchester United, Bruno Fernandes, live football | hashtags: #UCL #ManUtd #SportingLisbon #ChampionsLeague
-- Scheduled: Thu 26 Nov, 01:10 AM PKT
-- Caption:
-```
-Catch all the live build-up and team news as Sporting Lisbon faces Manchester United in the UEFA Champions League.
-
-Football fans can follow live text commentary, build-up, and team news for the UEFA Champions League fixture between Sporting Lisbon and Manchester United, with Bruno Fernandes headlining the match.
-
-فٹبال کے شائقین یوئیفا چیمپئنز لیگ میں اسپورٹنگ لزبن اور مانچسٹر یونائیٹڈ کے درمیان ہونے والے میچ کی لائیو کمنٹری اور ٹیم کی تازہ ترین خبریں دیکھ سکتے ہیں۔
-
-First reported by Al Jazeera
-
-#UCL #ManUtd #SportingLisbon #ChampionsLeague
-```
-
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 5
+- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 4
 
 ## Queue status
 - [needs_review] promo | [YouTube] PAKISTAN POLITICS: ESTABLISHMENT’S GAME, PTI & MEDIA NARRATI | Sun 22 Nov, 02:01 AM PKT
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Pakistani resident among two injured in Iranian attacks on Bahrain | Sun 22 Nov, 06:18 PM PKT
-- [needs_review] normal | Karachi placed on high alert amid upcoming political rallies | Sun 22 Nov, 06:28 PM PKT
 - [needs_review] normal | Italian jeweller and businessman Paolo Bulgari dies aged 89 | Sun 22 Nov, 07:07 PM PKT
 - [needs_review] normal | Main suspect in Karachi mother-daughter murder arrested in Larkana | Sun 22 Nov, 07:17 PM PKT
 - [needs_review] normal | Bruno Fernandes puts Manchester United contract talks on hold | Sun 22 Nov, 07:27 PM PKT
@@ -208,7 +62,6 @@ First reported by Al Jazeera
 - [needs_review] normal | Cox’s Bazar: Rohingya families face harsh exile during Ramadan | Mon 23 Nov, 12:24 AM PKT
 - [needs_review] normal | Aber Kawas makes history as New York's first Palestinian state senator | Mon 23 Nov, 12:46 AM PKT
 - [needs_review] normal | Pakistani national among two injured in Iranian attacks on Bahrain | Mon 23 Nov, 12:56 AM PKT
-- [published] normal | Virginia reports first measles-linked child death of 2026 | Mon 23 Nov, 01:06 AM PKT
 - [needs_review] normal | Ukrainians search through rubble for missing following deadly Russian  | Mon 23 Nov, 01:16 AM PKT
 - [published] promo | [YouTube] MOHSIN NAQVI VS RANA SANAULLAH: WHO WILL BACK DOWN? | Mon 23 Nov, 01:31 AM PKT
 - [needs_review] normal | PTI urges Bilawal not to back extension of Governor’s Rule | Mon 23 Nov, 01:31 AM PKT
@@ -357,19 +210,22 @@ First reported by Al Jazeera
 - [needs_review] normal | Two Libyan Soldiers Die From Injuries in Attack on Russian Vessels | Wed 25 Nov, 06:04 PM PKT
 - [needs_review] normal | Bangladesh Garment Workers Win 36 Percent Minimum Wage Rise | Wed 25 Nov, 06:14 PM PKT
 - [published] normal | Trump to meet Abdul El-Sayed over universal healthcare | Thu 26 Nov, 12:20 AM PKT
-- [queued] normal | China urges US to avoid new tariffs as trade tensions rise | Thu 26 Nov, 12:30 AM PKT
+- [published] normal | China urges US to avoid new tariffs as trade tensions rise | Thu 26 Nov, 12:30 AM PKT
 - [queued] normal | Pakistan records 10th polio case of 2026 after KP report | Thu 26 Nov, 12:40 AM PKT
 - [queued] normal | Pakistan and Russia target $5 billion trade by 2030 | Thu 26 Nov, 12:50 AM PKT
 - [queued] normal | Tarar urges social media companies to establish offices in Pakistan | Thu 26 Nov, 01:00 AM PKT
 - [queued] normal | Sporting Lisbon vs Manchester United: UEFA Champions League live | Thu 26 Nov, 01:10 AM PKT
 
 ## Publishing this run
-- Published 'Trump to meet Abdul El-Sayed over universal healthcare'.
+- Published 'China urges US to avoid new tariffs as trade tensions rise'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 7963 | output tokens: 3077
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -378,3 +234,11 @@ First reported by Al Jazeera
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"

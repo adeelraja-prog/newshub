@@ -158205,7 +158205,710 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ac8d71407fc2cb8105bed435",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:32:39+00:00",
+      "last_update": "2026-11-25T20:18:25+00:00",
+      "event": "PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abrupt",
+        "atlantic",
+        "cancelled",
+        "dawn",
+        "distressed",
+        "due",
+        "flights",
+        "left",
+        "norse",
+        "passengers",
+        "pia",
+        "suspension"
+      ],
+      "source_excerpt": "PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension Dawn",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkFGakJWZVBjNkpWNGJSajBSZFVudDhWdVhpYU4xWjROeWRjZ05JMHpDa0oxekJDeUUxQTVIVHc3cUZYQktSbmV1bVFZT2VsR0tJVW1NWk9maVVmU0RrY1J0U050cU14S2s5MEZLS28xM3lIVDEzcThxbmlGWXBvOGxaZkNEbEZJdGN5aFRxSndmU0RhSGVyN0tsaS1SWkl1WFJ2ajZZcWJnMEJSS2NZd3A0QUp4MFdPRk1jWlg2SWdhaEFqdlpLZlRTT1JLcVla?oc=5",
+          "published_at": "2026-11-25T19:32:39+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUR0YVhaTzc2UmxPTFZIcDJJbUJMYVpIMDlfamdVak94cG9aYXBsQjlLd0JLSmU0ckNOLXdfRV9RcDF3OHA0cVVMUktNdmg5TS1VT3c0c2hMampoaHhrcE5va0xfMU1yUEVncDN0akdXTFlBaWh0LUlEMEVOUXJtZ0o0RjJRbkhPNkFIc3JHeWNqVkI3ZG5VeHh4c0hkZWNpOC1TcVJfemd5UTlqZ0JiUnJ3TGV5NTg3MDdNcXY1OWtYaENUbmhrQk1jNWQ1UQ?oc=5",
+          "published_at": "2026-11-25T20:02:32+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047053/pia-passengers-in-uk-left-distressed-as-2-flights-cancelled-due-to-abrupt-norse-atlantic-suspension",
+          "published_at": "2026-11-25T20:18:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUR0YVhaTzc2UmxPTFZIcDJJbUJMYVpIMDlfamdVak94cG9aYXBsQjlLd0JLSmU0ckNOLXdfRV9RcDF3OHA0cVVMUktNdmg5TS1VT3c0c2hMampoaHhrcE5va0xfMU1yUEVncDN0akdXTFlBaWh0LUlEMEVOUXJtZ0o0RjJRbkhPNkFIc3JHeWNqVkI3ZG5VeHh4c0hkZWNpOC1TcVJfemd5UTlqZ0JiUnJ3TGV5NTg3MDdNcXY1OWtYaENUbmhrQk1jNWQ1UQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0f9c9de4f38e273d57d641d0",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T12:52:31+00:00",
+      "last_update": "2026-11-25T19:26:22+00:00",
+      "event": "Mulder takes seven as South Africa sweep aside Bangladesh",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "aside",
+        "bangladesh",
+        "mulder",
+        "seven",
+        "south",
+        "sweep",
+        "takes"
+      ],
+      "source_excerpt": "Mulder takes seven as South Africa sweep aside Bangladesh",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/mulder-takes-seven-as-south-africa-sweep-aside-bangladesh",
+          "published_at": "2026-11-25T12:52:31+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclhkR1ZRRXJEQzkwSlFjRGhMazR3dk9SMk1BcGFDbFpjSktOLUVDc1NZQWMzV0VkVWJDaXVTWEZ2RW03SmxZY2lSc2lxakZJNEZoQ2gzNklsNFJ3alVZamkwNkxuanRJeDBBODY1YlJONVNlek9mVUh2YnpSVjdDMGNpWW01azlWdTdGdE50N1RRc1E?oc=5",
+          "published_at": "2026-11-25T19:26:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/mulder-takes-seven-as-south-africa-sweep-aside-bangladesh",
+        "publisher_url": "https://arynews.tv/mulder-takes-seven-as-south-africa-sweep-aside-bangladesh",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0caa030105ffd7d333f70c56",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:26:44+00:00",
+      "last_update": "2026-11-25T19:26:44+00:00",
+      "event": "Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accompanied",
+        "ahmad",
+        "ali",
+        "and",
+        "asif",
+        "attached",
+        "bangladesh",
+        "dhaka",
+        "great",
+        "hafizuddin",
+        "importance",
+        "islamabad",
+        "its",
+        "leaders",
+        "met",
+        "minister",
+        "pakistan",
+        "pakistani",
+        "parliamen",
+        "parliament",
+        "president",
+        "prime",
+        "reaffirmed",
+        "sharif",
+        "shehbaz",
+        "speaker",
+        "tell",
+        "that",
+        "the",
+        "ties",
+        "visiting",
+        "wednesday",
+        "where",
+        "with",
+        "zardari"
+      ],
+      "source_excerpt": "Bangladesh Parliament Speaker Hafizuddin Ahmad on Wednesday met with President Asif Ali Zardari and Prime Minister Shehbaz Sharif in Islamabad, where the Pakistani leaders reaffirmed that Islamabad attached “great importance” to its ties with Dhaka. The parliament speaker, accompanied by a parliamen",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker",
+          "published_at": "2026-11-25T19:26:44+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMEdqREJ1NVRQV0ZMOWh4WFZSc0pWdlo5djdaWEEyNWRWNDEtajZNZWZkWTNaVEdlUWJfX0NPTW91QzJtSldlTHY2VnNVRlNMVG5JUXdVLTNidXRUQmJxZVhjZjlqVUdzRGhMRUE4aUVCRFhtRWhIU3JYM2szTHVFdmZ3YnlZVkNVeVVmanVvaGZpWHNkVXU2VlA0Zkd0dlJRNFhPQ0E2TDB6dG9NOVBHMDBQWHhKR2hJaV9Sc3BkeWtfd1B1dXhNekc4aw?oc=5",
+          "published_at": "2026-11-25T19:26:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker",
+        "publisher_url": "https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f33a3d93681ae4edda61fc9e",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T20:14:28+00:00",
+      "last_update": "2026-11-25T20:14:28+00:00",
+      "event": "Migrant wrongly deported by Trump leaves US for Spain",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abrego",
+        "administration",
+        "after",
+        "arrived",
+        "battle",
+        "deported",
+        "for",
+        "garcia",
+        "has",
+        "his",
+        "kilmar",
+        "leaves",
+        "legal",
+        "migrant",
+        "month",
+        "spain",
+        "the",
+        "trump",
+        "wife",
+        "with",
+        "wrongly"
+      ],
+      "source_excerpt": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
+          "published_at": "2026-11-25T20:14:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cca217a8ea184797e508822b",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:57:08+00:00",
+      "last_update": "2026-11-25T19:57:08+00:00",
+      "event": "Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "alive",
+        "alzheimer",
+        "amazon",
+        "been",
+        "brazil",
+        "days",
+        "elderly",
+        "for",
+        "found",
+        "has",
+        "jungle",
+        "man",
+        "missing",
+        "old",
+        "rainforest",
+        "rescued",
+        "with",
+        "year"
+      ],
+      "source_excerpt": "A 74-year-old man with Alzheimer's has been found alive after missing for 11 days in Brazil's Amazon rainforest.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_man-with-alzheimers-rescued-after-11-days-in-amazon-251126?traffic_source=rss",
+          "published_at": "2026-11-25T19:57:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_man-with-alzheimers-rescued-after-11-days-in-amazon-251126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_man-with-alzheimers-rescued-after-11-days-in-amazon-251126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "85013845b3b89905c41d0c19",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:41:49+00:00",
+      "last_update": "2026-11-25T19:41:49+00:00",
+      "event": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "army",
+        "azide",
+        "declares",
+        "detonation",
+        "disposal",
+        "experts",
+        "hails",
+        "hidden",
+        "iowa",
+        "lead",
+        "operation",
+        "potentially",
+        "some",
+        "successful",
+        "toxins",
+        "tremendously",
+        "warn"
+      ],
+      "source_excerpt": "Army hails Iowa's lead azide disposal operation as some experts warn of potentially hidden toxins.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
+          "published_at": "2026-11-25T19:41:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fdc7c0d927d2452223790ad5",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:27:56+00:00",
+      "last_update": "2026-11-25T19:27:56+00:00",
+      "event": "Bellingham’s wondergoal sparks Zidane comparisons",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bellingham",
+        "club",
+        "comparisons",
+        "goal",
+        "has",
+        "jude",
+        "legend",
+        "madrid",
+        "prompted",
+        "psv",
+        "real",
+        "sparks",
+        "spectacular",
+        "thrashing",
+        "with",
+        "wondergoal",
+        "zidane"
+      ],
+      "source_excerpt": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
+          "published_at": "2026-11-25T19:27:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4e5c6d653e9db7ebc538339a",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:16:15+00:00",
+      "last_update": "2026-11-25T19:16:15+00:00",
+      "event": "Ukrainian laser downs Russian jet-powered drone in world first",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blysk",
+        "combat",
+        "downs",
+        "drone",
+        "first",
+        "for",
+        "has",
+        "intercepted",
+        "its",
+        "jet",
+        "laser",
+        "powered",
+        "russian",
+        "says",
+        "system",
+        "that",
+        "the",
+        "time",
+        "ukraine",
+        "ukrainian",
+        "world"
+      ],
+      "source_excerpt": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+          "published_at": "2026-11-25T19:16:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9b79c1eb7dad38e66da3611d",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:15:52+00:00",
+      "last_update": "2026-11-25T19:15:52+00:00",
+      "event": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aid",
+        "could",
+        "crisis",
+        "disruptions",
+        "exacerbate",
+        "experts",
+        "for",
+        "hardships",
+        "hodeidah",
+        "humanitarian",
+        "largest",
+        "millions",
+        "port",
+        "renewed",
+        "seaport",
+        "strikes",
+        "warn",
+        "worsen",
+        "yemen",
+        "yemenis"
+      ],
+      "source_excerpt": "Disruptions at Yemen's largest seaport could exacerbate hardships for millions of Yemenis, aid experts warn.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
+          "published_at": "2026-11-25T19:15:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "706dff2da665c0882dbb2445",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:38:05+00:00",
+      "last_update": "2026-11-25T19:38:05+00:00",
+      "event": "What we know about Trump's Thanksgiving tariffs",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "and",
+        "china",
+        "donald",
+        "european",
+        "jurisdictions",
+        "know",
+        "new",
+        "other",
+        "round",
+        "targeting",
+        "tariffs",
+        "thanksgiving",
+        "the",
+        "trump",
+        "union",
+        "what"
+      ],
+      "source_excerpt": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T19:38:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "11a7f755a5a777cd2bbacd76",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:47:39+00:00",
+      "last_update": "2026-11-25T19:47:39+00:00",
+      "event": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "against",
+        "cases",
+        "chance",
+        "charges",
+        "conviction",
+        "dropping",
+        "end",
+        "his",
+        "israeli",
+        "judges",
+        "little",
+        "most",
+        "netanyahu",
+        "one",
+        "recommend",
+        "said",
+        "says",
+        "serious",
+        "should",
+        "the",
+        "there",
+        "three",
+        "trial",
+        "was"
+      ],
+      "source_excerpt": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T19:47:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "11acff6ee72d87a5752caa6b",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:19:06+00:00",
+      "last_update": "2026-11-25T19:19:06+00:00",
+      "event": "North Korea expels Swiss diplomat in sanctions row",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "beijing",
+        "bern",
+        "diplomat",
+        "embassy",
+        "expels",
+        "its",
+        "kept",
+        "korea",
+        "north",
+        "officials",
+        "own",
+        "relations",
+        "row",
+        "said",
+        "sanctions",
+        "swiss",
+        "through",
+        "would"
+      ],
+      "source_excerpt": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T19:19:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "588dc63f53408c06279dbf24",
+      "remembered_at": "2026-11-25T20:24:54.292307+00:00",
+      "event_date": "2026-11-25T19:26:44+00:00",
+      "last_update": "2026-11-25T19:26:44+00:00",
+      "event": "Two children among six dead after plane crash off Mississippi coast",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adult",
+        "after",
+        "aged",
+        "among",
+        "and",
+        "bodies",
+        "boys",
+        "children",
+        "coast",
+        "crash",
+        "dead",
+        "divers",
+        "found",
+        "mississippi",
+        "off",
+        "one",
+        "plane",
+        "six",
+        "teenager",
+        "the",
+        "three",
+        "two",
+        "wreckage"
+      ],
+      "source_excerpt": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T19:26:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T19:20:42.776441+00:00"
+  "updated_at": "2026-11-25T20:24:54.292307+00:00"
 }
