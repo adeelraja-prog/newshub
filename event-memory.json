@@ -162590,7 +162590,735 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a11d681f3af0375668ff5f36",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T01:57:04+00:00",
+      "last_update": "2026-11-26T04:21:20+00:00",
+      "event": "CM inaugurates Siemens training academy at NED University",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "academy",
+        "dawn",
+        "inaugurates",
+        "ned",
+        "siemens",
+        "training",
+        "university"
+      ],
+      "source_excerpt": "CM inaugurates Siemens training academy at NED University Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzRYNnBKSm1vRlNFQ29Vak5qeGppYXMtSldQSUNOSGtFdUZuVHR1QjVkbHVFZ0pRSFZJTUtDOEk1NTFhWmZjTlZvU2Z4emlpbjR2eDN2TWQyYmpYT3FudDhVRGlPTXAyYXVhOVlZX195OGhFdkJ2eUszdE95VHE1MkRDWlN5ZnpQbEVfQnhaQXV1VmtnR2c?oc=5",
+          "published_at": "2026-11-26T01:57:04+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047071/sindh-cm-inaugurates-siemens-training-academy-at-karachis-ned-university",
+          "published_at": "2026-11-26T04:21:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzRYNnBKSm1vRlNFQ29Vak5qeGppYXMtSldQSUNOSGtFdUZuVHR1QjVkbHVFZ0pRSFZJTUtDOEk1NTFhWmZjTlZvU2Z4emlpbjR2eDN2TWQyYmpYT3FudDhVRGlPTXAyYXVhOVlZX195OGhFdkJ2eUszdE95VHE1MkRDWlN5ZnpQbEVfQnhaQXV1VmtnR2c?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "089a837e947105235579de02",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T01:56:16+00:00",
+      "last_update": "2026-11-26T04:39:17+00:00",
+      "event": "Replies sought on Multan DBA’s commercial use of court premises",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "commercial",
+        "court",
+        "dawn",
+        "dba",
+        "multan",
+        "premises",
+        "replies",
+        "sought",
+        "use"
+      ],
+      "source_excerpt": "Replies sought on Multan DBA’s commercial use of court premises Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaE9BM1lETjVEam9EaWRWd0hMWjlFaldMQk5uNm1vRGRqTmxDWFQxZnI4bDFYM3MtalRnM0pmUFpIcG9vbTFteUM1Y2M1TDVzM3NpaXFnN28zRkJUeHJGQWRkNVczUDA4SXFVWXMwb0NwT3NIdHRwMV9fRFEybXg3M3VnMjgzQ2Z3U3hUTXctU09mRHY4dmlGeU9WdlI?oc=5",
+          "published_at": "2026-11-26T01:56:16+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047177/lhc-seeks-replies-on-multan-bar-associations-commercial-use-of-court-premises",
+          "published_at": "2026-11-26T04:39:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaE9BM1lETjVEam9EaWRWd0hMWjlFaldMQk5uNm1vRGRqTmxDWFQxZnI4bDFYM3MtalRnM0pmUFpIcG9vbTFteUM1Y2M1TDVzM3NpaXFnN28zRkJUeHJGQWRkNVczUDA4SXFVWXMwb0NwT3NIdHRwMV9fRFEybXg3M3VnMjgzQ2Z3U3hUTXctU09mRHY4dmlGeU9WdlI?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1669f1783d1a49aad556308e",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T01:57:49+00:00",
+      "last_update": "2026-11-26T04:14:05+00:00",
+      "event": "Court seeks IGP report on whereabouts of Sohail Afridi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afridi",
+        "court",
+        "dawn",
+        "igp",
+        "report",
+        "seeks",
+        "sohail",
+        "whereabouts"
+      ],
+      "source_excerpt": "Court seeks IGP report on whereabouts of Sohail Afridi Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXJ5RUs2bFg5ekJNaHVJM3JZUWhla1pKa3Y2ZXJKbVNLdE1TS0JtZjlzN1lVdzY4UDNRQTdYLXdZU1BkTFM1akM5ejNTRDVDM0JjMlhkQV9uQUFJVUc5T1dncThrOW81U1hNN3h3LVVZMGRkRDY5N3ZzemotdUJyMXRuRHZIdUd5ZVF3SUNQNnFnZw?oc=5",
+          "published_at": "2026-11-26T01:57:49+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnVzMWpOQlN0Q2dfSDdqelBZSmtreHgzODBPQXl5SzFpeEJmZ194bmFqTi03UzQ2bzdTb0g2Wk5CcDNmUS1LN2FWNWtUR0k4UmN1UFVwQjdvZVlBLVNYdlVXamlqMGsyYzBRSHU2YkVsN1lUNkxXNmxOR2V3dVprek90WjLSAYwBQVVfeXFMUF8yM20wUUNIeTN5NFNHNlFXSUhGdnNXbkg3WGZrVzVtX1pEaTFxOWtobllQU3F0WmhKVWlIY0hkUG41Z2FfWENmc191Zjk0bmlxdFA5c1AyYVJXVXdKZWF1RFNrVkR6VzR2anlnZDJRSGF1WHU5X21vM2otVmJRMEFOelRzWGpYSHVLZnk?oc=5",
+          "published_at": "2026-11-26T04:14:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXJ5RUs2bFg5ekJNaHVJM3JZUWhla1pKa3Y2ZXJKbVNLdE1TS0JtZjlzN1lVdzY4UDNRQTdYLXdZU1BkTFM1akM5ejNTRDVDM0JjMlhkQV9uQUFJVUc5T1dncThrOW81U1hNN3h3LVVZMGRkRDY5N3ZzemotdUJyMXRuRHZIdUd5ZVF3SUNQNnFnZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "06fcf5905812a82e0e7b2eda",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T03:53:48+00:00",
+      "last_update": "2026-11-26T03:53:48+00:00",
+      "event": "31 dead in Egypt fire after fuel truck overturns",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "dead",
+        "egypt",
+        "fire",
+        "fuel",
+        "overturns",
+        "truck"
+      ],
+      "source_excerpt": "31 dead in Egypt fire after fuel truck overturns",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/31-dead-in-egypt-fire-after-fuel-truck-overturns",
+          "published_at": "2026-11-26T03:53:48+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BVURKUkxxLV9kMFRBN2s2RGRja2p0cXA3N0k1bXFYRzlxa3VLNC10bzJnOElmRGJXbll0Y0lVblg1Y2tKMEFGVFBWSTBITFZuS3F5SlQzV0VNLTFDOTFfa2JvaDZDbW9IN3FPM0RDdEZleGxkU3c?oc=5",
+          "published_at": "2026-11-26T03:53:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/31-dead-in-egypt-fire-after-fuel-truck-overturns",
+        "publisher_url": "https://arynews.tv/31-dead-in-egypt-fire-after-fuel-truck-overturns",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "02ccac8da3983783a26cdef0",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T03:52:03+00:00",
+      "last_update": "2026-11-26T03:52:03+00:00",
+      "event": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "capacity",
+        "defeat",
+        "excess",
+        "industrial",
+        "midterms",
+        "new",
+        "over",
+        "tariffs",
+        "trump",
+        "undeterred",
+        "unveils"
+      ],
+      "source_excerpt": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/donald-trump-unveils-new-tariffs-over-excess-industrial-capacity",
+          "published_at": "2026-11-26T03:52:03+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzRacVRMZExQVzNmS29ucjIyT2F6dDdOdlpBQmlxTF9aY1drdVJZSXRsMFRucjJad1JmWDZYS3JPd25CU1pBM29vYl9zdzZyeHNvY3hhTU9LMG1GM2h6TldtVWx2R0lpb2F1QkJQeEFod1lCNFFNdkg1Wm5RU1IxQ3pKalNhZzg4Y0p3?oc=5",
+          "published_at": "2026-11-26T03:52:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/donald-trump-unveils-new-tariffs-over-excess-industrial-capacity",
+        "publisher_url": "https://arynews.tv/donald-trump-unveils-new-tariffs-over-excess-industrial-capacity",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "90d47ffeadea9695bcdc3cb4",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T04:48:42+00:00",
+      "last_update": "2026-11-26T04:48:42+00:00",
+      "event": "Six killed, including children, in plane crash off Mississippi coast",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "authorities",
+        "behind",
+        "children",
+        "coast",
+        "crash",
+        "families",
+        "including",
+        "investigating",
+        "killed",
+        "knox",
+        "members",
+        "mississippi",
+        "off",
+        "plane",
+        "reason",
+        "six",
+        "stokes",
+        "that",
+        "the"
+      ],
+      "source_excerpt": "US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+          "published_at": "2026-11-26T04:48:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c48bf9ef4274dde0c374099a",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T04:47:47+00:00",
+      "last_update": "2026-11-26T04:47:47+00:00",
+      "event": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aims",
+        "and",
+        "blasts",
+        "brazil",
+        "for",
+        "lula",
+        "negotiated",
+        "new",
+        "not",
+        "office",
+        "president",
+        "proposals",
+        "resolution",
+        "says",
+        "tariff",
+        "threats",
+        "unacceptable",
+        "will",
+        "yield"
+      ],
+      "source_excerpt": "President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
+          "published_at": "2026-11-26T04:47:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9cddc43b890bce992cc14a43",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T04:17:31+00:00",
+      "last_update": "2026-11-26T04:17:31+00:00",
+      "event": "Racecourse office blown away in Brazil",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "away",
+        "blown",
+        "brazil",
+        "debris",
+        "flying",
+        "inside",
+        "office",
+        "powerful",
+        "racecourse",
+        "racetrack",
+        "sent",
+        "shattered",
+        "storm",
+        "windows"
+      ],
+      "source_excerpt": "A powerful storm shattered windows and sent debris flying inside a racetrack office in Brazil.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss",
+          "published_at": "2026-11-26T04:17:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "62dd46905933c2c68baafa9a",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T04:04:14+00:00",
+      "last_update": "2026-11-26T04:04:14+00:00",
+      "event": "Macy's postpones Thanksgiving parade due to severe weather",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "because",
+        "celebration",
+        "damaging",
+        "delayed",
+        "due",
+        "ever",
+        "expects",
+        "first",
+        "heavy",
+        "holiday",
+        "iconic",
+        "macy",
+        "new",
+        "over",
+        "parade",
+        "postpones",
+        "rainfall",
+        "severe",
+        "storms",
+        "thanksgiving",
+        "that",
+        "the",
+        "time",
+        "was",
+        "weather",
+        "winds",
+        "york"
+      ],
+      "source_excerpt": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T04:04:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "43919565263489984707f70c",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T04:02:23+00:00",
+      "last_update": "2026-11-26T04:02:23+00:00",
+      "event": "Saudis down missiles targeting capital after Yemen port strikes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "arynews",
+        "capital",
+        "down",
+        "missiles",
+        "port",
+        "saudis",
+        "strikes",
+        "targeting",
+        "yemen"
+      ],
+      "source_excerpt": "Saudis down missiles targeting capital after Yemen port strikes ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UTGxQWXdwaXNKb2N1ZlIxdVItc21jd0x1eWhoaG5fSjJlN3Fzel8wWVpQb3B6TUZfM0xia2NvZk5lTXJ4cHN3ZzVQcGxtZEMyY09SNkFGRWMwYnhPYVF1M0NRMW9QeVJUS3NxY1V5X0RvUQ?oc=5",
+          "published_at": "2026-11-26T04:02:23+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/saudi-arabia-downs-missiles-targeting-capital",
+          "published_at": "2026-11-26T04:02:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UTGxQWXdwaXNKb2N1ZlIxdVItc21jd0x1eWhoaG5fSjJlN3Fzel8wWVpQb3B6TUZfM0xia2NvZk5lTXJ4cHN3ZzVQcGxtZEMyY09SNkFGRWMwYnhPYVF1M0NRMW9QeVJUS3NxY1V5X0RvUQ?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "887eda4166dd08d585a67e26",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T04:38:41+00:00",
+      "last_update": "2026-11-26T04:38:41+00:00",
+      "event": "Thar women challenge gender stereotypes as global campaign against violence begins",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "and",
+        "backdrop",
+        "begins",
+        "campaign",
+        "challenge",
+        "choices",
+        "continue",
+        "deeply",
+        "driving",
+        "dump",
+        "duty",
+        "emerged",
+        "entrenched",
+        "examples",
+        "gathering",
+        "gender",
+        "global",
+        "heavy",
+        "held",
+        "historic",
+        "mithi",
+        "norms",
+        "operating",
+        "plants",
+        "powerful",
+        "resistance",
+        "restrict",
+        "social",
+        "stereotypes",
+        "thar",
+        "tharparkar",
+        "that",
+        "the",
+        "town",
+        "treatment",
+        "trucks",
+        "violence",
+        "water",
+        "women"
+      ],
+      "source_excerpt": "MITHI: Against the backdrop of deeply entrenched social norms that continue to restrict women’s choices, women driving heavy-duty dump trucks and operating water treatment plants in Tharparkar emerged as powerful examples of resistance to gender stereotypes at a gathering held in the historic town o",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047068/thar-women-challenge-gender-stereotypes-as-global-campaign-against-violence-begins",
+          "published_at": "2026-11-26T04:38:41+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW5HWnlYT0taZ012VGlaTWFneEF0QTBiZ1R4XzktaHVsem9NaVlxTmVWbGVteTB2YXZVaVFVYmRWUFZkYTBPbXVYMUpnd1Z4MUtsdUp2S2Q5WTRsUjctRXpxeWdZUFpZT3A4U2pSNllDRlpiMW9sUjV4SENnZjBlYXg1c3VscnZJeXNYTFVBdG9ySVF0aXFYcVlHMnQzSE9fNVJIOGkzSVJiS0pxazBDbnJkLXJWaDA?oc=5",
+          "published_at": "2026-11-26T04:38:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047068/thar-women-challenge-gender-stereotypes-as-global-campaign-against-violence-begins",
+        "publisher_url": "https://www.dawn.com/news/2047068/thar-women-challenge-gender-stereotypes-as-global-campaign-against-violence-begins",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "65772b70f605ca5b268cf0e5",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T04:16:26+00:00",
+      "last_update": "2026-11-26T04:16:26+00:00",
+      "event": "Sindh High Court restores dissolution of marriage provision in Christian divorce law",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1869",
+        "1981",
+        "act",
+        "ali",
+        "approach",
+        "been",
+        "bench",
+        "christian",
+        "constitutional",
+        "couples",
+        "court",
+        "courts",
+        "dissolution",
+        "divorce",
+        "enabling",
+        "for",
+        "grounds",
+        "had",
+        "headed",
+        "high",
+        "judge",
+        "justice",
+        "karachi",
+        "law",
+        "marriage",
+        "omitted",
+        "ordinary",
+        "province",
+        "provision",
+        "restores",
+        "revived",
+        "sayeed",
+        "sindh",
+        "that",
+        "the",
+        "two",
+        "wednesday",
+        "yousuf"
+      ],
+      "source_excerpt": "KARACHI: The Sindh High Court on Wednesday revived a provision of the Divorce Act of 1869 that had been omitted in 1981, enabling Christian couples in the province to approach courts for dissolution of marriage on ordinary grounds. A two-judge constitutional bench headed by Justice Yousuf Ali Sayeed",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047075/sindh-high-court-restores-dissolution-of-marriage-provision-in-christian-divorce-law",
+          "published_at": "2026-11-26T04:16:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047075/sindh-high-court-restores-dissolution-of-marriage-provision-in-christian-divorce-law",
+        "publisher_url": "https://www.dawn.com/news/2047075/sindh-high-court-restores-dissolution-of-marriage-provision-in-christian-divorce-law",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4ebd65778933f012a6d89301",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T04:26:05+00:00",
+      "last_update": "2026-11-26T04:26:05+00:00",
+      "event": "Karachi building collapse: Eight SBCA officials suspended over negligence",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "building",
+        "collapse",
+        "eight",
+        "karachi",
+        "negligence",
+        "officials",
+        "over",
+        "sbca",
+        "suspended"
+      ],
+      "source_excerpt": "Karachi building collapse: Eight SBCA officials suspended over negligence",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/sindh-suspends-sbca-officials-after-building-collapse-in-karachi",
+          "published_at": "2026-11-26T04:26:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/sindh-suspends-sbca-officials-after-building-collapse-in-karachi",
+        "publisher_url": "https://arynews.tv/sindh-suspends-sbca-officials-after-building-collapse-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "69e108e354ede8b266ef6eea",
+      "remembered_at": "2026-11-26T05:02:27.084894+00:00",
+      "event_date": "2026-11-26T04:34:09+00:00",
+      "last_update": "2026-11-26T04:34:09+00:00",
+      "event": "Student shot in foot as rival groups clash at Sindh University",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "clash",
+        "dawn",
+        "foot",
+        "groups",
+        "rival",
+        "shot",
+        "sindh",
+        "student",
+        "university"
+      ],
+      "source_excerpt": "Student shot in foot as rival groups clash at Sindh University Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk4wUGpmQ0dQU2ZrUjl5ZUhMY3l2cXA1bDI2LXJKN2JpTmN0Z3k4SlJ3OVJDVFV6UjJxU3gwQ0J6LXJET253ZXNYQkRKMWt2aVVQaXBhRjVUX1ptUlFtRkZHSmlYN0ZEbzB6OW15TXNCQjc4VVZrUVJRX1pEdTFUM1ptM0ltMjRJZlhwUVBXcDVFbGk1YURjZmU1QUo?oc=5",
+          "published_at": "2026-11-26T04:34:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk4wUGpmQ0dQU2ZrUjl5ZUhMY3l2cXA1bDI2LXJKN2JpTmN0Z3k4SlJ3OVJDVFV6UjJxU3gwQ0J6LXJET253ZXNYQkRKMWt2aVVQaXBhRjVUX1ptUlFtRkZHSmlYN0ZEbzB6OW15TXNCQjc4VVZrUVJRX1pEdTFUM1ptM0ltMjRJZlhwUVBXcDVFbGk1YURjZmU1QUo?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T03:55:35.788488+00:00"
+  "updated_at": "2026-11-26T05:02:27.084894+00:00"
 }

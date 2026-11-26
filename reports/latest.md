@@ -1,36 +1,35 @@
-# News Hub report - Thu 26 Nov, 08:55 AM PKT
+# News Hub report - Thu 26 Nov, 10:02 AM PKT
 
 ## Collection
-- New items this run: 25 | items in rolling pool: 237
-- Unique story clusters: 205 (duplicates merged: 32)
-- Clusters dropped as already published/queued: 36; unchanged since last analysis: 5
-- Items per outlet: Dawn Latest 7, Dawn Pakistan 3, Profit by Pakistan Today 3, Dawn 2, Geo News 2, ARY News 2, Al Jazeera 1, PhoneWorld 1, Investify 1, WSJ 1, Iran International 1, Saudi Gazette 1
+- New items this run: 45 | items in rolling pool: 253
+- Unique story clusters: 216 (duplicates merged: 37)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 8
+- Items per outlet: Dawn Pakistan 6, Geo News 5, ARYnews.tv 3, Dawn Latest 3, ARY News 3, Al Jazeera 3, Profit by Pakistan Today 3, samaa tv 2, Dawn 2, PhoneWorld 2, Hamariweb.com 1, The Express Tribune 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: Maryam Nawaz’s Medical College Speech & Pindi Show Exposed | https://www.youtube.com/watch?v=UStDFokLYns
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Qatari firm eyes farm investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- LHC seeks police report on Maulana Fazl’s confinement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM inaugurates Siemens training academy at NED University | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PPP concerned about Balochistan situation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Replies sought on Multan DBA’s commercial use of court premises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - CM Bugti warns against anti-state narratives | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt raises Rs689bn via T-bills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Stocks falter on geopolitical uncertainty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Court seeks IGP report on whereabouts of Sohail Afridi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Qatari firm eyes farm investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- LHC seeks police report on Maulana Fazl’s confinement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM inaugurates Siemens training academy at NED University | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PPP concerned about Balochistan situation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Replies sought on Multan DBA’s commercial use of court premises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - CM Bugti warns against anti-state narratives | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt raises Rs689bn via T-bills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Stocks falter on geopolitical uncertainty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Court seeks IGP report on whereabouts of Sohail Afridi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Qatari firm eyes farm investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- LHC seeks police report on Maulana Fazl’s confinement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM inaugurates Siemens training academy at NED University | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PPP concerned about Balochistan situation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Replies sought on Multan DBA’s commercial use of court premises | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - CM Bugti warns against anti-state narratives | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Govt raises Rs689bn via T-bills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Stocks falter on geopolitical uncertainty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Court seeks IGP report on whereabouts of Sohail Afridi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -40,89 +39,13 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### UK and EU set to release post-Brexit trade and emissions treaties  [NORMAL]
-- Poster: برطانیہ اور یورپی یونین کے نئے معاہدے جاری ہوں گے / UK and EU to publish new post-Brexit treaties | category politics
-- Alternative headline: UK government to publish new post-Brexit treaties with the European Union
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business
-- Keywords: UK EU treaties, post-Brexit deal, emissions trading, food exports, UK government, EU | hashtags: #UK #EU #Brexit #Trade #Politics
-- Scheduled: Thu 26 Nov, 08:55 AM PKT
-- Caption:
-```
-The UK government and the EU are publishing two post-Brexit treaties covering food exports and emissions trading, sparking fresh political debate.
-
-The UK government and the European Union are set to publish the texts of two treaties agreed last week as part of a post-Brexit reset. Releasing on Thursday alongside enacting legislation, the agreements cover British food exports and emissions trading, while featuring a debated 10-year termination clause.
-
-برطانوی حکومت اور یورپی یونین نے پوسٹ بریگزٹ ری سیٹ کے تحت طے پانے والے دو معاہدوں کے متن جاری کرنے کا فیصلہ کیا ہے۔ جمعرات کو قانون سازی کے ساتھ شائع ہونے والے ان معاہدوں میں برطانوی خوراک کی برآمدات اور اخراج کی تجارت شامل ہیں۔
-
-First reported by BBC Business
-
-#UK #EU #Brexit #Trade #Politics
-```
-
-### Qatari firm expresses interest in agricultural investment in Pakistan  [NORMAL]
-- Poster: قطری کمپنی کی پاکستان میں زراعت میں سرمایہ کاری میں دلچسپی / Qatari firm eyes farm investment in Pakistan | category economy
-- Alternative headline: Qatari company eyes new farm investment opportunities in Pakistan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMidEFVX3lxTE8zWHJZSEFFdEpZVnMxWThBaEsteFVBUUxoUF9HVkxkSEMxX2xZMEt0MkdkMGhWcFN6MnVFYktqanViNmdYbkZ3SVVsTEtNVnRvVUo3cG9ldEExeS1FTHhSMHZwNEQ1dm5qTFRNeGZ4T2w0YWtz?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMidEFVX3lxTE8zWHJZSEFFdEpZVnMxWThBaEsteFVBUUxoUF9HVkxkSEMxX2xZMEt0MkdkMGhWcFN6MnVFYktqanViNmdYbkZ3SVVsTEtNVnRvVUo3cG9ldEExeS1FTHhSMHZwNEQ1dm5qTFRNeGZ4T2w0YWtz?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Qatari firm farm investment, Pakistan agriculture, Qatari investment, farm investment, Dawn news | hashtags: #Pakistan #Qatar #Agriculture #Investment #Economy
-- Scheduled: Thu 26 Nov, 09:05 AM PKT
-- Caption:
-```
-A Qatari firm has shown active interest in pursuing agricultural investment opportunities within Pakistan.
-
-A Qatari firm has expressed keen interest in making agricultural investments in Pakistan, according to recent reports by Dawn. The potential collaboration highlights growing economic engagement between Qatari enterprises and Pakistan's agricultural sector.
-
-ڈان کی رپورٹ کے مطابق ایک قطری فرم نے پاکستان میں زرعی شعبے میں سرمایہ کاری میں گہری دلچسپی کا اظہار کیا ہے۔ یہ ممکنہ تعاون دونوں ملکوں کے درمیان اقتصادی تعلقات کو اجاگر کرتا ہے۔
-
-First reported by Dawn
-
-#Pakistan #Qatar #Agriculture #Investment #Economy
-```
-
-### Lahore High Court seeks police report on Maulana Fazl's confinement  [NORMAL]
-- Poster: لاہور ہائی کورٹ کا مولانا فضل کی نظ بندی پر پولیس سے رپورٹ طلب / LHC seeks police report on Maulana Fazl confinement | category courts
-- Alternative headline: LHC orders police report regarding alleged confinement of Maulana Fazl
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWI4MENSWFA2ZlcxaTBneURES204aWhCRVBlNmdIREtwX29zZUlRbjlxaVRoQk5zS3dhLV9nWmtfZUF0T09PU0swb1ZCZmxBODVkTkJ3WWQ0Q2xxT1gta1pndWRhc19iakptdU5DcWt3OGhOZnRsSXdXdDByWW1qeXctTDlTM3pVcTdYdW5TMA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWI4MENSWFA2ZlcxaTBneURES204aWhCRVBlNmdIREtwX29zZUlRbjlxaVRoQk5zS3dhLV9nWmtfZUF0T09PU0swb1ZCZmxBODVkTkJ3WWQ0Q2xxT1gta1pndWRhc19iakptdU5DcWt3OGhOZnRsSXdXdDByWW1qeXctTDlTM3pVcTdYdW5TMA?oc=5
-- Supporting coverage: Dawn, Dawn, Dawn Pakistan
-- Keywords: LHC Maulana Fazl confinement, Lahore High Court, Maulana Fazlur Rehman, JUI-F, police report, house arrest | hashtags: #LHC #MaulanaFazl #JUIF #Lahore #Pakistan
-- Scheduled: Thu 26 Nov, 09:15 AM PKT
-- Caption:
-```
-The Lahore High Court has sought a formal police report regarding the alleged confinement of JUI-F chief Maulana Fazlur Rehman.
-
-The Lahore High Court has sought a police report following petitions addressing the alleged confinement and house arrest of JUI-F chief Maulana Fazl in Lahore. The court's intervention comes amid heightened political tensions and claims of state restrictions.
-
-لاہور ہائی کورٹ نے جے یو آئی ف کے سربراہ مولانا فضل الرحمان کی مبینہ نظربندی اور حراست کے معاملے پر پولیس سے رپورٹ طلب کر لی ہے۔
-
-First reported by Dawn
-
-#LHC #MaulanaFazl #JUIF #Lahore #Pakistan
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 28
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
 
 ## Queue status
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Washington Governor Slams ICE Raids After Airport Arrests | Mon 23 Nov, 02:24 AM PKT
-- [needs_review] normal | Democrats Secure Largest House Majority Since 1992 | Mon 23 Nov, 02:34 AM PKT
-- [needs_review] normal | Cockroaches, Dissent and a Paradigm Shift in India | Mon 23 Nov, 02:44 AM PKT
-- [needs_review] normal | Massive Fire Destroys Hotels and Shops in Zanzibar | Mon 23 Nov, 02:54 AM PKT
 - [needs_review] normal | Miley Cyrus Marries Maxx Morando in California Ceremony | Mon 23 Nov, 03:26 AM PKT
 - [needs_review] normal | Second Ship Targeted in Naval Drone Attacks Off Libyan Coast | Mon 23 Nov, 03:36 AM PKT
 - [needs_review] normal | Heartbreak for Washington Spirit as KC Current Win NWSL Final | Mon 23 Nov, 03:46 AM PKT
@@ -139,7 +62,6 @@ First reported by Dawn
 - [needs_review] normal | Closing gateway to Central Asia amid regional challenges | Mon 23 Nov, 08:07 AM PKT
 - [needs_review] normal | Global food import bill projected to rise 1.9pc in 2026: FAO | Mon 23 Nov, 08:17 AM PKT
 - [needs_review] normal | World economy hinges on Iran peace deal, says Hakan Fidan | Mon 23 Nov, 08:27 AM PKT
-- [published] normal | Balochistan doctors demand pending salaries | Mon 23 Nov, 09:03 AM PKT
 - [needs_review] normal | Missing Panjgur student returns home after two years | Mon 23 Nov, 09:13 AM PKT
 - [needs_review] normal | JI not against new provinces but urges provision of rights | Mon 23 Nov, 09:23 AM PKT
 - [needs_review] normal | Pakistan's offshore oil exploration with Turkiye merits cautious optim | Mon 23 Nov, 09:33 AM PKT
@@ -267,14 +189,14 @@ First reported by Dawn
 - [published] normal | President Zardari calls for stronger Pakistan-Bangladesh ties, offers  | Thu 26 Nov, 02:29 AM PKT
 - [needs_review] normal | PIA passengers in UK left distressed as 2 flights cancelled due to abr | Thu 26 Nov, 02:39 AM PKT
 - [needs_review] normal | Moment Nasa spacecraft leaves stadium-sized crater in asteroid | Thu 26 Nov, 02:49 AM PKT
-- [queued] normal | Bangladesh ties of 'great importance' to Pakistan, President and PM te | Thu 26 Nov, 02:59 AM PKT
-- [queued] normal | Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | Thu 26 Nov, 03:09 AM PKT
-- [queued] normal | At least 30 killed in Egypt vehicle fire, health ministry says | Thu 26 Nov, 03:19 AM PKT
-- [queued] normal | Baby Aliyah steals the show during Australian Senate debate | Thu 26 Nov, 03:29 AM PKT
-- [queued] normal | Ukraine says five Russian military jets hit in airfield strike | Thu 26 Nov, 03:39 AM PKT
-- [queued] normal | US Education Department probes Virginia schools after abuse scandal | Thu 26 Nov, 03:49 AM PKT
-- [queued] normal | What is really driving the wave of protests across Europe? | Thu 26 Nov, 03:59 AM PKT
-- [queued] normal | Netanyahu says corruption trial must end as court suggests dropping ca | Thu 26 Nov, 04:09 AM PKT
+- [needs_review] normal | Bangladesh ties of 'great importance' to Pakistan, President and PM te | Thu 26 Nov, 02:59 AM PKT
+- [needs_review] normal | Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | Thu 26 Nov, 03:09 AM PKT
+- [needs_review] normal | At least 30 killed in Egypt vehicle fire, health ministry says | Thu 26 Nov, 03:19 AM PKT
+- [needs_review] normal | Baby Aliyah steals the show during Australian Senate debate | Thu 26 Nov, 03:29 AM PKT
+- [needs_review] normal | Ukraine says five Russian military jets hit in airfield strike | Thu 26 Nov, 03:39 AM PKT
+- [needs_review] normal | US Education Department probes Virginia schools after abuse scandal | Thu 26 Nov, 03:49 AM PKT
+- [needs_review] normal | What is really driving the wave of protests across Europe? | Thu 26 Nov, 03:59 AM PKT
+- [published] normal | Netanyahu says corruption trial must end as court suggests dropping ca | Thu 26 Nov, 04:09 AM PKT
 - [queued] normal | Saudi-led coalition reports Houthi projectile strike on Jazan port | Thu 26 Nov, 04:25 AM PKT
 - [queued] normal | Malen and Roma hold injury-hit PSG to 2-2 draw | Thu 26 Nov, 04:35 AM PKT
 - [queued] normal | Deadly truck fire is latest of Egypt’s transport disasters | Thu 26 Nov, 04:45 AM PKT
@@ -298,16 +220,25 @@ First reported by Dawn
 - [queued] normal | Lahore High Court seeks police report on Maulana Fazl's confinement | Thu 26 Nov, 09:15 AM PKT
 
 ## Publishing this run
-- Published '[YouTube] Maryam Nawaz’s Medical College Speech & Pindi Show Exposed'.
+- Published 'Netanyahu says corruption trial must end as court suggests dropping case'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 3946 | output tokens: 2005
-- Errors: 2
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 429 {
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"
