@@ -1,35 +1,35 @@
-# News Hub report - Thu 26 Nov, 11:05 AM PKT
+# News Hub report - Thu 26 Nov, 12:27 PM PKT
 
 ## Collection
-- New items this run: 75 | items in rolling pool: 311
-- Unique story clusters: 255 (duplicates merged: 56)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 10
-- Items per outlet: Wired 12, UrduPoint 10, Geo News 8, samaa tv 6, ProPakistani 5, TechJuice 5, Dawn Pakistan 4, ARY News 4, The News International 3, ARYnews.tv 2, Al Jazeera 2, PhoneWorld 2
+- New items this run: 104 | items in rolling pool: 391
+- Unique story clusters: 324 (duplicates merged: 67)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 10
+- Items per outlet: samaa tv 14, Al Jazeera 11, Geo News 7, Dunya News 7, ARY News 7, Dawn 6, ProPakistani 5, TechJuice 5, UrduPoint 4, The Current 4, Investify 4, BBC 4
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Trump, NATO chief urge Russia not to 'expand' Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 12 terrorists killed in security forces’ IBOs in Balochistan: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Reminiscing about 1990s Karachi, Tajik ambassador pours his heart out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM inaugurates Siemens training academy at NED University | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two cousins killed in gas cylinder blast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan Bangladesh Relations Take a New Turn! Zardari Holds Key Meeting | Breaking News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Duran Duran guitarist and songwriter Andy Taylor dies at 65 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sindh CM orders suspension of Local Govt Secretary, DG SBCA, DC East, SSP East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Capital Development Authority plans Blue Area-style bylaws for Islamabad Avenue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- South Korea’s central bank hikes interest rates, raises GDP growth forecast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Trump, NATO chief urge Russia not to 'expand' Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 12 terrorists killed in security forces’ IBOs in Balochistan: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Reminiscing about 1990s Karachi, Tajik ambassador pours his heart out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM inaugurates Siemens training academy at NED University | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two cousins killed in gas cylinder blast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan Bangladesh Relations Take a New Turn! Zardari Holds Key Meeting | Breaking News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Duran Duran guitarist and songwriter Andy Taylor dies at 65 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sindh CM orders suspension of Local Govt Secretary, DG SBCA, DC East, SSP East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Capital Development Authority plans Blue Area-style bylaws for Islamabad Avenue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- South Korea’s central bank hikes interest rates, raises GDP growth forecast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Trump, NATO chief urge Russia not to 'expand' Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 12 terrorists killed in security forces’ IBOs in Balochistan: ISPR | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Reminiscing about 1990s Karachi, Tajik ambassador pours his heart out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM inaugurates Siemens training academy at NED University | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Two cousins killed in gas cylinder blast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan Bangladesh Relations Take a New Turn! Zardari Holds Key Meeting | Breaking News | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Duran Duran guitarist and songwriter Andy Taylor dies at 65 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sindh CM orders suspension of Local Govt Secretary, DG SBCA, DC East, SSP East | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Capital Development Authority plans Blue Area-style bylaws for Islamabad Avenue | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- South Korea’s central bank hikes interest rates, raises GDP growth forecast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,159 +39,157 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### PPP expresses serious concern over the ongoing situation in Balochistan  [NORMAL]
-- Poster: بلوچستان کی صورتحال پر پیپلز پارٹی کا اظہارِ تشویش / PPP concerned over Balochistan situation | category politics
-- Alternative headline: Bilawal Bhutto Zardari highlights PPP's deep concern regarding Balochistan
+### CDA Plans Blue Area-Style Commercial Bylaws for New Islamabad Avenue  [NORMAL]
+- Poster: اسلام آباد ایونیو پر بلیو ایریا طرز کے تجارتی بائی لاز بنانے کا فیصلہ / CDA Plans Blue Area-Style Commercial Bylaws for Islamabad Avenue | category politics
+- Alternative headline: Capital Development Authority Proposes High-Rise Commercial Rules for Islamabad Avenue
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFFsYjhDWjcwYjh0NGxrY0YyRlVuTEpfdDlQakxDUE1FYnA2X0hBQlpXUXNfTDhJZVpZclp4OFhpUURNanh4cEp6X0VnQkNON3I3X1hrdUV5NzFHV0h2V05sWkFCOWgxTG4yaVo4SG9obWdYbTk5dm82cGFpLUxqSg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFFsYjhDWjcwYjh0NGxrY0YyRlVuTEpfdDlQakxDUE1FYnA2X0hBQlpXUXNfTDhJZVpZclp4OFhpUURNanh4cEp6X0VnQkNON3I3X1hrdUV5NzFHV0h2V05sWkFCOWgxTG4yaVo4SG9obWdYbTk5dm82cGFpLUxqSg?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Balochistan, PPP, Bilawal Bhutto Zardari, politics, provincial situation | hashtags: #PPP #Balochistan #BilawalBhutto #PakistanPolitics #DawnNews
-- Scheduled: Thu 26 Nov, 11:05 AM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047060/capital-development-authority-plans-blue-area-style-bylaws-for-islamabad-avenue | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047060/capital-development-authority-plans-blue-area-style-bylaws-for-islamabad-avenue
+- Supporting coverage: Dawn Pakistan, Dawn
+- Keywords: Islamabad Avenue, CDA, Capital Development Authority, Blue Area, Zone IV, zoning regulations | hashtags: #CDA #Islamabad #IslamabadAvenue #RealEstate #Pakistan
+- Scheduled: Thu 26 Nov, 12:27 PM PKT
 - Caption:
 ```
-The Pakistan Peoples Party has voiced deep concern over the unfolding situation in Balochistan, calling for immediate attention to provincial matters.
+The Capital Development Authority is moving forward with commercial bylaws for the newly named Islamabad Avenue, proposing high floor area ratios similar to the Blue Area.
 
-The Pakistan Peoples Party (PPP) has expressed grave concern regarding the current situation in Balochistan. Party leadership, including Bilawal Bhutto Zardari, has closely monitored developments and emphasized the need for political engagement and addressing regional grievances.
+Following recent government approval to adjust zoning regulations, the Capital Development Authority board decided to formulate commercial bylaws for Islamabad Avenue, a new road linking Park Road with Margalla Enclave. The authority is considering Blue Area-style regulations with floor area ratios like 1:8, 1:10, and 1:12.
 
-پاکستان پیپلز پارٹی (پی پی پی) نے بلوچستان کی موجودہ صورتحال پر گہری تشویش کا اظہار کیا ہے۔ پارٹی قیادت نے حالات کا جائزہ لیتے ہوئے علاقائی مسائل کے حل پر زور دیا ہے۔
+وفاقی حکومت کی جانب سے زوننگ کے ضوابط میں تبدیلیوں کی منظوری کے بعد، کیپیٹل ڈویلپمنٹ اتھارٹی نے پارک روڈ کو مارگلہ انکلیو سے ملانے والی اسلام آباد ایونیو کے لیے تجارتی بائی لاز تیار کرنے کا فیصلہ کیا ہے۔ حکام اس سڑک کے ساتھ بلیو ایریا کی طرز پر تجارتی قواعد اور فلور ایریا ریشو لاگو کرنے پر غور کر رہے ہیں۔
 
-First reported by Dawn.
+First reported by Dawn Pakistan
 
-#PPP #Balochistan #BilawalBhutto #PakistanPolitics #DawnNews
+#CDA #Islamabad #IslamabadAvenue #RealEstate #Pakistan
 ```
 
-### Trump and NATO chief urge Russia to avoid expanding the Ukraine war  [NORMAL]
-- Poster: ٹرمپ اور نیٹو سربراہ کا روس سے یوکرین جنگ نہ بڑھانے کا مطالبہ / Trump, NATO chief urge Russia to avoid expanding Ukraine war | category world
-- Alternative headline: US President Trump and NATO leadership call on Moscow to halt escalation
+### President Zardari Holds Key Meeting to Strengthen Pakistan-Bangladesh Ties  [NORMAL]
+- Poster: صدر زرداری کی اہم ملاقات، پاک بنگلہ دیش تعلقات میں نیا موڑ / Zardari Holds Key Meeting as Pakistan-Bangladesh Relations Take New Turn | category politics
+- Alternative headline: Pakistan and Bangladesh Relations Take a New Turn Following Zardari's Meeting
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiekFVX3lxTE8teW02RlN0NVlrSXc1SGRvdjFva2UtVWFQWkR5VC1GdnhUTTJrS0NuMkxUM2RoVWliaV83Ny1vQzk4QmhwRjVLVk1LRnFMMjNNR2cyQzh5ZnF0dlJlTDJpZ3ZrTFlkUjI1eGR0OGYzbFlZU2otdEZ4bUxB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiekFVX3lxTE8teW02RlN0NVlrSXc1SGRvdjFva2UtVWFQWkR5VC1GdnhUTTJrS0NuMkxUM2RoVWliaV83Ny1vQzk4QmhwRjVLVk1LRnFMMjNNR2cyQzh5ZnF0dlJlTDJpZ3ZrTFlkUjI1eGR0OGYzbFlZU2otdEZ4bUxB?oc=5
-- Supporting coverage: Reuters, Al-Monitor, Internazionale, Daily Sun, A News, ARYnews.tv
-- Keywords: Ukraine war, Trump, NATO, Russia, escalation, international news | hashtags: #UkraineWar #Trump #NATO #Russia #GlobalNews
-- Scheduled: Thu 26 Nov, 11:15 AM PKT
+- Original source: published_report - Dunya News https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzdpUGdWRThIYmR2RHdPZDVKUjBFN3BPeUpmQTUtdXRVZTdaMlJtMnowV09YT2xJN01hdzNoRllOME1qSEJwRFJsMzQ1THpLQjl0TVVrSjhuSmd5NEU5dEpRTG5LRlhnUVRLaUtnV1lMWTFScDZORkd3MnNyRlpQRE1VazhXemQ3SWlTMlJxaTJBLVByWDJUcjB0UXJpanNtRzRSc0tiOVM4TkNBQlVGbzVJNzk2aVhFdWFPOHlvOTBaTUw2WXdhdnVsbDhJek9SV0w2NHlHaGU3elk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dunya News https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzdpUGdWRThIYmR2RHdPZDVKUjBFN3BPeUpmQTUtdXRVZTdaMlJtMnowV09YT2xJN01hdzNoRllOME1qSEJwRFJsMzQ1THpLQjl0TVVrSjhuSmd5NEU5dEpRTG5LRlhnUVRLaUtnV1lMWTFScDZORkd3MnNyRlpQRE1VazhXemQ3SWlTMlJxaTJBLVByWDJUcjB0UXJpanNtRzRSc0tiOVM4TkNBQlVGbzVJNzk2aVhFdWFPOHlvOTBaTUw2WXdhdnVsbDhJek9SV0w2NHlHaGU3elk?oc=5
+- Supporting coverage: Dunya News
+- Keywords: Pakistan Bangladesh relations, Asif Ali Zardari, Dunya News, diplomatic ties, bilateral cooperation | hashtags: #Pakistan #Bangladesh #AsifAliZardari #ForeignPolicy #Diplomacy
+- Scheduled: Thu 26 Nov, 12:37 PM PKT
 - Caption:
 ```
-Donald Trump and the head of NATO have jointly urged Russia to refrain from taking steps that could further widen the devastating conflict in Ukraine.
+President Asif Ali Zardari engaged in key diplomatic discussions, signaling a fresh trajectory in diplomatic and bilateral relations between Pakistan and Bangladesh.
 
-US President Donald Trump and the NATO chief have called upon Russia to avoid any actions that could escalate or expand the ongoing war in Ukraine. The joint appeal highlights international concerns regarding potential further military escalation in the region.
+Pakistan and Bangladesh relations took a new turn as President Asif Ali Zardari held a key meeting. The high-level engagement focuses on enhancing bilateral cooperation and opening new avenues for diplomatic and institutional engagement between the two nations.
 
-امریکی صدر ڈونلڈ ٹرمپ اور نیٹو کے سربراہ نے روس سے مطالبہ کیا ہے کہ وہ ایسے اقدامات سے گریز کرے جو یوکرین کی جنگ کو مزید وسعت دے سکتے ہیں۔
+صدر آصف علی زرداری کی ایک اہم ملاقات کے بعد پاک بنگلہ دیش تعلقات میں ایک نیا موڑ آ گیا ہے۔ اس اعلیٰ سطحی رابطے کا مقصد دونوں برادر ملکوں کے درمیان دوطرفہ تعاون کو فروغ دینا اور سفارتی تعلقات کو مزید مضبوط بنانا ہے۔
 
-First reported by ARYnews.tv.
+First reported by Dunya News
 
-#UkraineWar #Trump #NATO #Russia #GlobalNews
+#Pakistan #Bangladesh #AsifAliZardari #ForeignPolicy #Diplomacy
 ```
 
-### Security forces eliminate 12 terrorists during intelligence-based operations in Balochistan  [NORMAL]
-- Poster: بلوچستان میں سیکیورٹی فورسز کے آپریشنز، 12 دہشت گرد ہلاک / 12 terrorists killed in Balochistan IBOs: ISPR | category security
-- Alternative headline: ISPR reports 12 terrorists killed in multiple anti-terror sweeps across Balochistan
+### Duran Duran Guitarist and Songwriter Andy Taylor Dies at 65  [NORMAL]
+- Poster: ڈوران ڈوران کے گٹارسٹ اور موسیقار اینڈی ٹیلر 65 برس کی عمر میں انتقال کر گئے / Duran Duran Guitarist Andy Taylor Passes Away at 65 | category other
+- Alternative headline: Rock and Roll Hall of Famer Andy Taylor Passes Away at 65
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFYyazNQMmY4VFd0WEhZVHZqeWdyNlV0TUNWVVVYT0FIdTBoc3ZsQ3VJd2VaVllXVkRmVnFna21GOXBEOGM2dDZSdVoyUkptd2E4ZTVZQkJPZmVlLUVtM0wtc01weWF0Z2cycHdaZDJKWmNQcktJV2daOENrZ053d0U0UnE5d0h1Sk1Z?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFYyazNQMmY4VFd0WEhZVHZqeWdyNlV0TUNWVVVYT0FIdTBoc3ZsQ3VJd2VaVllXVkRmVnFna21GOXBEOGM2dDZSdVoyUkptd2E4ZTVZQkJPZmVlLUVtM0wtc01weWF0Z2cycHdaZDJKWmNQcktJV2daOENrZ053d0U0UnE5d0h1Sk1Z?oc=5
-- Supporting coverage: ARYnews.tv, ARY News, The Express Tribune
-- Keywords: ISPR, Balochistan, terrorists killed, security forces, IBO | hashtags: #ISPR #Balochistan #SecurityForces #PakistanArmy #WarOnTerror
-- Scheduled: Thu 26 Nov, 11:25 AM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047180/duran-duran-guitarist-and-songwriter-andy-taylor-dies-at-65 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2047180/duran-duran-guitarist-and-songwriter-andy-taylor-dies-at-65
+- Supporting coverage: Dawn Latest, samaa tv
+- Keywords: Andy Taylor, Duran Duran, guitarist, songwriter, Rock and Roll Hall of Fame, obituary | hashtags: #AndyTaylor #DuranDuran #MusicNews #Obituary #RockAndRoll
+- Scheduled: Thu 26 Nov, 12:47 PM PKT
 - Caption:
 ```
-Pakistani security forces have successfully neutralized 12 terrorists during intelligence-based operations conducted across various areas of Balochistan.
+Andy Taylor, the iconic guitarist and co-writer for the legendary pop-rock band Duran Duran, has passed away at the age of 65.
 
-According to the Inter-Services Public Relations (ISPR), security forces killed 12 terrorists in intelligence-based operations (IBOs) across Balochistan. The operations were part of ongoing efforts by the military to curb militant activities and restore peace in the province.
+Andy Taylor, guitarist and songwriter for the pop-rock band Duran Duran and a Rock and Roll Hall of Fame inductee, died at age 65 from metastatic prostate cancer. He had co-written major hits like 'Hungry Like the Wolf' and was diagnosed with cancer in 2018.
 
-پاک فوج کے شعبہ تعلقات عامہ (آئی ایس پی آر) کے مطابق سیکیورٹی فورسز نے بلوچستان میں انٹیلی جنس بیسڈ آپریشنز کے دوران 12 دہشت گردوں کو ہلاک کر دیا۔
+معروف پاپ راک بینڈ ڈوران ڈوران کے گٹارسٹ اور نغمہ نگار اینڈی ٹیلر 65 برس کی عمر میں کینسر کے باعث انتقال کر گئے۔ وہ بینڈ کے کئی مشہور گانوں کے خالق تھے اور انہیں 2018 میں اس بیماری کی تشخیص ہوئی تھی۔
 
-First reported by ARYnews.tv.
+First reported by Dawn Latest
 
-#ISPR #Balochistan #SecurityForces #PakistanArmy #WarOnTerror
+#AndyTaylor #DuranDuran #MusicNews #Obituary #RockAndRoll
 ```
 
-### Tajik ambassador shares nostalgic memories of Karachi from the 1990s  [NORMAL]
-- Poster: تاجک سفیر نے نوے کی دہائی کے کراچی کی یادیں تازہ کر دیں / Tajik ambassador reminisces about 1990s Karachi | category other
-- Alternative headline: Reminiscing about 1990s Karachi, Tajik ambassador opens up in heartfelt interview
+### Sindh CM Orders Immediate Suspension of Senior Local Govt and Police Officials  [NORMAL]
+- Poster: سندھ کے وزیراعلیٰ کا سیکرٹری بلدیات، ڈی جی ایس بی سی اے اور ایس ایس پی ایسٹ کو معطل کرنے کا حکم / Sindh CM Orders Suspension of Key Local Govt and Police Officials | category courts
+- Alternative headline: Local Govt Secretary and SSP East Among Top Officials Suspended by Sindh CM
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGxlWXMweTRCVkRCLW9sY3JxWXA3XzVqb1VXeG1vaTBIVmR3Mld2bFprQXhqU2IwNGExb0N6ajNQM0ZpZmJGaEJCTVVvVExxOTAydF8zbW5fRWZaanhxeUJSYklXYTRaYkJzNm9LRVJWcnVyUGRVcV9yZV9VcTVPV0hSRy0yZVI1Y0ZKdElSLWFLUF8taDc5eUptcXVkNnRBXy13UA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGxlWXMweTRCVkRCLW9sY3JxWXA3XzVqb1VXeG1vaTBIVmR3Mld2bFprQXhqU2IwNGExb0N6ajNQM0ZpZmJGaEJCTVVvVExxOTAydF8zbW5fRWZaanhxeUJSYklXYTRaYkJzNm9LRVJWcnVyUGRVcV9yZV9VcTVPV0hSRy0yZVI1Y0ZKdElSLWFLUF8taDc5eUptcXVkNnRBXy13UA?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Karachi, Tajik ambassador, 1990s, nostalgia, diplomacy | hashtags: #Karachi #Tajikistan #Diplomacy #Nostalgia #DawnNews
-- Scheduled: Thu 26 Nov, 11:35 AM PKT
+- Original source: published_report - ARYnews.tv https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDY3d1pEWWNmcXNneThGbktId0dKSllZQ0JGYmYybml1NU1udHB1V2RQTFZVaDdhVmFnSU5HRDA4Ym81Yy1qYUMycjd4UlBRVHZaSHNOdUtsYXFESE14LXBhU0ZSZlAwTldOVWIzVURQWmhyY2dVVUNMNTRiTWdfQlI2SnJ2TDlkVGdwZ1VYWVdDWmdaTlZiZHl3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARYnews.tv https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDY3d1pEWWNmcXNneThGbktId0dKSllZQ0JGYmYybml1NU1udHB1V2RQTFZVaDdhVmFnSU5HRDA4Ym81Yy1qYUMycjd4UlBRVHZaSHNOdUtsYXFESE14LXBhU0ZSZlAwTldOVWIzVURQWmhyY2dVVUNMNTRiTWdfQlI2SnJ2TDlkVGdwZ1VYWVdDWmdaTlZiZHl3?oc=5
+- Supporting coverage: ARYnews.tv, ARY News
+- Keywords: Sindh CM, suspension, Local Govt Secretary, SSP East, DC East, DG SBCA | hashtags: #SindhCM #Karachi #Police #LocalGovernment #BreakingNews
+- Scheduled: Thu 26 Nov, 12:57 PM PKT
 - Caption:
 ```
-The Ambassador of Tajikistan has shared fond and vivid memories of living and experiencing Karachi during the 1990s in a heartfelt reflection.
+Sindh Chief Minister has ordered the suspension of several high-ranking administrative and police officials, including the Local Govt Secretary and SSP East.
 
-The Tajik ambassador recently opened up about his experiences in Pakistan, sharing deep nostalgia and affectionate memories of Karachi as it was during the 1990s. The remarks highlight enduring personal connections and diplomatic warmth between the two countries.
+Sindh Chief Minister has ordered the suspension of key administrative and police officials in the province, including the Local Government Secretary, DG SBCA, DC East, and SSP East, according to reports by ARY News.
 
-تاجکستان کے سفیر نے نوے کی دہائی کے کراچی کے حوالے سے اپنی یادوں اور جذبات کا اظہار کرتے ہوئے شہر کے ساتھ پرانی وابستگی کو اجاگر کیا۔
+وزیر اعلیٰ سندھ نے صوبے کے اہم انتظامی اور پولیس عہدیداروں کو معطل کرنے کا حکم دے دیا ہے جن میں سیکرٹری بلدیات، ڈی جی ایس بی سی اے، ڈی سی ایسٹ اور ایس ایس پی ایسٹ شامل ہیں۔
 
-First reported by Dawn.
+First reported by ARYnews.tv
 
-#Karachi #Tajikistan #Diplomacy #Nostalgia #DawnNews
+#SindhCM #Karachi #Police #LocalGovernment #BreakingNews
 ```
 
-### Sindh CM inaugurates Siemens training academy at NED University  [NORMAL]
-- Poster: سندھ کے وزیر اعلیٰ نے این ای ڈی یونیورسٹی میں سیمنز ٹریننگ اکیڈمی کا افتتاح کر دیا / CM inaugurates Siemens training academy at NED University | category tech
-- Alternative headline: Chief Minister Sindh launches new Siemens training facility in Karachi
+### Bank of Korea Hikes Interest Rates and Raises GDP Growth Forecast  [NORMAL]
+- Poster: جنوبی کوریا کے مرکزی بینک نے شرح سود میں اضافہ اور جی ڈی پی کی پیشگوئی بڑھا دی / South Korea Central Bank Hikes Rates and Raises GDP Growth Forecast | category economy
+- Alternative headline: South Korea Central Bank Raises Key Rate by 0.25 Percent on Strong Chip Exports
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzRYNnBKSm1vRlNFQ29Vak5qeGppYXMtSldQSUNOSGtFdUZuVHR1QjVkbHVFZ0pRSFZJTUtDOEk1NTFhWmZjTlZvU2Z4emlpbjR2eDN2TWQyYmpYT3FudDhVRGlPTXAyYXVhOVlZX195OGhFdkJ2eUszdE95VHE1MkRDWlN5ZnpQbEVfQnhaQXV1VmtnR2c?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzRYNnBKSm1vRlNFQ29Vak5qeGppYXMtSldQSUNOSGtFdUZuVHR1QjVkbHVFZ0pRSFZJTUtDOEk1NTFhWmZjTlZvU2Z4emlpbjR2eDN2TWQyYmpYT3FudDhVRGlPTXAyYXVhOVlZX195OGhFdkJ2eUszdE95VHE1MkRDWlN5ZnpQbEVfQnhaQXV1VmtnR2c?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: NED University, Sindh CM, Siemens, training academy, Karachi, tech education | hashtags: #NEDUniversity #SindhCM #Siemens #TechnicalEducation #Karachi
-- Scheduled: Thu 26 Nov, 11:45 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Bank of Korea, interest rates, GDP growth, AI chips, South Korea economy | hashtags: #SouthKorea #Economy #InterestRates #AIChips #GlobalEconomy
+- Scheduled: Thu 26 Nov, 01:07 PM PKT
 - Caption:
 ```
-The Sindh Chief Minister has officially inaugurated a modern Siemens training academy at NED University in Karachi to boost technical education.
+South Korea's central bank has raised its key interest rate following robust economic indicators and booming exports of artificial intelligence chips.
 
-Sindh Chief Minister inaugurated the Siemens training academy at NED University, Karachi. The new facility aims to provide advanced technical training and skill development opportunities for students and engineering professionals in the province.
+The Bank of Korea raised its key interest rate by 0.25 percent amid surging exports of AI chips. Alongside the rate hike, the central bank also upgraded its economic outlook by raising its GDP growth forecast for the country.
 
-وزیر اعلیٰ سندھ نے کراچی کی این ای ڈی یونیورسٹی میں سیمنز ٹریننگ اکیڈمی کا افتتاح کیا۔ اس اکیڈمی کا مقصد طلباء کو جدید تکنیکی تربیت فراہم کرنا ہے۔
+جنوبی کوریا کے مرکزی بینک نے مصنوعی ذہانت سے متعلقہ چپس کی برآمدات میں اضافے کے بعد شرح سود میں 0.25 فیصد اضافہ کر دیا ہے۔ اس کے ساتھ ہی مرکزی بینک نے ملک کی مجموعی اقتصادی ترقی (جی ڈی پی) کی پیشگوئی میں بھی اضافہ کیا ہے۔
 
-First reported by Dawn.
+First reported by Al Jazeera
 
-#NEDUniversity #SindhCM #Siemens #TechnicalEducation #Karachi
+#SouthKorea #Economy #InterestRates #AIChips #GlobalEconomy
 ```
 
-### Two cousins lose their lives in a tragic gas cylinder blast in KP  [NORMAL]
-- Poster: گیس سلنڈر دھماکہ، دو چچا زاد بھائی جاں بحق / Two cousins killed in gas cylinder blast in KP | category disaster
-- Alternative headline: Gas cylinder explosion claims lives of two cousins in Dera Ismail Khan
+### French Navy Intercepts Suspected Drug-Smuggling Semi-Submersible in Atlantic  [NORMAL]
+- Poster: فرانسیسی بحریہ نے بحرِ اوقیانوس میں منشیات اسمگل کرنے والی آبدوز نما کشتی پکڑ لی / French Navy Intercepts Suspected Drug-Smuggling Semi-Submersible | category security
+- Alternative headline: French Forces Seize Semi-Submersible Vessel Involved in Suspected Drug Trafficking
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTE12ckFfYU9vNnV3Q0RuNjdXcUoxR1V3MkFpcU5YYzNVdGRTZXRDRERfMEMxWEZHSWg5M1ZYbk9OZlhHbkJFNnN0d05WV09ub0hWdG1Ta2l3S3daS1ptTHFQRFE1RDhvcE5fVzRDcXlCMzlzcm50VWR4SmlpX2tNRnM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMif0FVX3lxTE12ckFfYU9vNnV3Q0RuNjdXcUoxR1V3MkFpcU5YYzNVdGRTZXRDRERfMEMxWEZHSWg5M1ZYbk9OZlhHbkJFNnN0d05WV09ub0hWdG1Ta2l3S3daS1ptTHFQRFE1RDhvcE5fVzRDcXlCMzlzcm50VWR4SmlpX2tNRnM?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: gas cylinder blast, Dera Ismail Khan, Khyber Pakhtunkhwa, accident, tragic death | hashtags: #GasCylinderBlast #DIKhan #KhyberPakhtunkhwa #Tragedy #DawnNews
-- Scheduled: Thu 26 Nov, 11:55 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: French navy, semi-submersible, drug smuggling, Atlantic Ocean, maritime security | hashtags: #FrenchNavy #DrugBust #AtlanticOcean #Security #Maritime
+- Scheduled: Thu 26 Nov, 01:17 PM PKT
 - Caption:
 ```
-A devastating gas cylinder explosion in Khyber Pakhtunkhwa's Dera Ismail Khan has tragically claimed the lives of two cousins.
+French security forces have successfully intercepted a semi-submersible vessel suspected of involvement in transnational drug trafficking across the Atlantic.
 
-Two cousins were killed in a gas cylinder blast in Khyber Pakhtunkhwa's Dera Ismail Khan district. Local authorities responded to the tragic incident, which underscores ongoing safety concerns regarding domestic and commercial gas cylinders.
+French naval forces intercepted a semi-submersible craft suspected of drug trafficking operations in the Atlantic Ocean. Authorities are investigating the vessel's origins and intended destinations as part of broader maritime security efforts.
 
-خیبر پختونخوا کے ضلع ڈیرہ اسماعیل خان میں گیس سلنڈر کے دھماکے کے نتیجے میں دو چچا زاد بھائی جاں بحق ہو گئے۔
+فرانسیسی بحریہ نے بحرِ اوقیانوس میں منشیات کی اسمگلنگ میں ملوث ہونے کے شبہ میں ایک نیم آبدوز نما کشتی کو روک لیا ہے۔ حکام اس واقعے کی مزید تفتیش کر رہے ہیں۔
 
-First reported by Dawn.
+First reported by Al Jazeera
 
-#GasCylinderBlast #DIKhan #KhyberPakhtunkhwa #Tragedy #DawnNews
+#FrenchNavy #DrugBust #AtlanticOcean #Security #Maritime
 ```
 
-- Indian outlets blocked this run: 10 items
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
 
 ## Queue status
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Trump Targets Schumer as US Senate Democrats Face New Leadership Push | Mon 23 Nov, 04:49 AM PKT
-- [needs_review] normal | PTI Questions Sugar Export Approval and Seeks Audit of Import Deal | Mon 23 Nov, 05:36 AM PKT
 - [needs_review] normal | 10 Injured as Quadcopters Hit Peace Jirga in Bannu | Mon 23 Nov, 05:56 AM PKT
 - [needs_review] normal | PTI Pushes for KP Leaders' Freedom Following Legal Changes | Mon 23 Nov, 06:59 AM PKT
 - [needs_review] normal | Suspected Drone Attack Triggers Explosion on Russian Ship in Libya | Mon 23 Nov, 07:09 AM PKT
@@ -206,7 +204,6 @@ First reported by Dawn.
 - [needs_review] normal | Port Qasim's only coal conveyor system breaks down, disrupting imports | Mon 23 Nov, 10:35 AM PKT
 - [needs_review] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
 - [needs_review] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
-- [published] normal | At least 3 killed and 36 missing after devastating Indonesia factory f | Mon 23 Nov, 12:00 PM PKT
 - [needs_review] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
 - [published] normal | What Lies Ahead After Climate Talks Fail to Reach Consensus? | Mon 23 Nov, 01:22 PM PKT
 - [needs_review] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
@@ -339,12 +336,12 @@ First reported by Dawn.
 - [needs_review] normal | Long waits for ADHD and autism assessments called a tragedy | Thu 26 Nov, 04:55 AM PKT
 - [needs_review] normal | Images from Earth's asteroid defence test reveal new crater | Thu 26 Nov, 05:05 AM PKT
 - [published] normal | Explosion rocks Sanaa as Saudi coalition intercepts missiles over Riya | Thu 26 Nov, 05:21 AM PKT
-- [queued] normal | US grants SpaceX approval to deploy 1 million space data centres | Thu 26 Nov, 05:31 AM PKT
-- [queued] normal | A meeting with Democrats over healthcare? Trump says he’s open to it | Thu 26 Nov, 05:41 AM PKT
-- [queued] normal | Houthis target Saudi Arabia’s Red Sea ports as regional strikes escala | Thu 26 Nov, 05:51 AM PKT
-- [queued] normal | King tides and massive waves batter coastal California | Thu 26 Nov, 06:01 AM PKT
-- [queued] normal | What UK season changes mean for you, explained by meteorologists | Thu 26 Nov, 06:11 AM PKT
-- [queued] normal | Zambia Bans Protests Against Push to Remove Presidential Term Limits | Thu 26 Nov, 06:53 AM PKT
+- [needs_review] normal | US grants SpaceX approval to deploy 1 million space data centres | Thu 26 Nov, 05:31 AM PKT
+- [needs_review] normal | A meeting with Democrats over healthcare? Trump says he’s open to it | Thu 26 Nov, 05:41 AM PKT
+- [needs_review] normal | Houthis target Saudi Arabia’s Red Sea ports as regional strikes escala | Thu 26 Nov, 05:51 AM PKT
+- [needs_review] normal | King tides and massive waves batter coastal California | Thu 26 Nov, 06:01 AM PKT
+- [needs_review] normal | What UK season changes mean for you, explained by meteorologists | Thu 26 Nov, 06:11 AM PKT
+- [published] normal | Zambia Bans Protests Against Push to Remove Presidential Term Limits | Thu 26 Nov, 06:53 AM PKT
 - [queued] normal | Ukraine Claims Strike on Russian Air Base Damaging Five Planes | Thu 26 Nov, 07:03 AM PKT
 - [queued] normal | Netflix Cancels Will Ferrell's Golf Comedy 'The Hawk' After One Season | Thu 26 Nov, 07:13 AM PKT
 - [queued] normal | UK Winters Getting Shorter and Summers Hotter, Says Met Office | Thu 26 Nov, 07:23 AM PKT
@@ -360,18 +357,20 @@ First reported by Dawn.
 - [queued] normal | Tajik ambassador shares nostalgic memories of Karachi from the 1990s | Thu 26 Nov, 11:35 AM PKT
 - [queued] normal | Sindh CM inaugurates Siemens training academy at NED University | Thu 26 Nov, 11:45 AM PKT
 - [queued] normal | Two cousins lose their lives in a tragic gas cylinder blast in KP | Thu 26 Nov, 11:55 AM PKT
+- [queued] normal | CDA Plans Blue Area-Style Commercial Bylaws for New Islamabad Avenue | Thu 26 Nov, 12:27 PM PKT
+- [queued] normal | President Zardari Holds Key Meeting to Strengthen Pakistan-Bangladesh  | Thu 26 Nov, 12:37 PM PKT
+- [queued] normal | Duran Duran Guitarist and Songwriter Andy Taylor Dies at 65 | Thu 26 Nov, 12:47 PM PKT
+- [queued] normal | Sindh CM Orders Immediate Suspension of Senior Local Govt and Police O | Thu 26 Nov, 12:57 PM PKT
+- [queued] normal | Bank of Korea Hikes Interest Rates and Raises GDP Growth Forecast | Thu 26 Nov, 01:07 PM PKT
+- [queued] normal | French Navy Intercepts Suspected Drug-Smuggling Semi-Submersible in At | Thu 26 Nov, 01:17 PM PKT
 
 ## Publishing this run
-- Published 'Explosion rocks Sanaa as Saudi coalition intercepts missiles over Riyadh'.
+- Published 'Zambia Bans Protests Against Push to Remove Presidential Term Limits'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 7436 | output tokens: 2938
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
+- Calls: 2 | prompt tokens: 6217 | output tokens: 3683
+- Errors: 1
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
