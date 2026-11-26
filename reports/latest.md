@@ -1,99 +1,75 @@
-# News Hub report - Fri 27 Nov, 01:00 AM PKT
+# News Hub report - Fri 27 Nov, 01:57 AM PKT
 
 ## Collection
-- New items this run: 30 | items in rolling pool: 694
-- Unique story clusters: 605 (duplicates merged: 89)
-- Clusters dropped as already published/queued: 37; unchanged since last analysis: 6
-- Items per outlet: Geo News 5, Al Jazeera 5, The Express Tribune 2, samaa tv 2, The News International 1, ARY News 1, X 1, AP News 1, The Verge 1, TechCrunch 1, Engadget 1, GSMArena 1
+- New items this run: 20 | items in rolling pool: 605
+- Unique story clusters: 532 (duplicates merged: 73)
+- Clusters dropped as already published/queued: 37; unchanged since last analysis: 4
+- Items per outlet: The Express Tribune 5, Al Jazeera 4, Geo News 2, TechCrunch 2, Dawn 1, Dawn Pakistan 1, Engadget 1, GSMArena 1, BBC Health 1, Around Prague 1, The Guardian 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Karachi Traffic: Police announce alternative routes after highway closure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM Murad orders removal of SBCA chief, suspension of 16 officers over Karachi building collapse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Chief medical officer Gregor Smith resigns on mental health grounds | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Second court defeat for Trump's deep-sea mining ambitions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Peru burns more than 10 tonnes of seized drugs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why are winter rains forcing Palestinians in Gaza to flee again? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Judge strikes down Trump’s latest restrictions on US birthright citizenship | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Watch: Roofs torn off and streets under water as severe weather hits US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Karachi Traffic: Police announce alternative routes after highway closure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM Murad orders removal of SBCA chief, suspension of 16 officers over Karachi building collapse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Chief medical officer Gregor Smith resigns on mental health grounds | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Second court defeat for Trump's deep-sea mining ambitions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Peru burns more than 10 tonnes of seized drugs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why are winter rains forcing Palestinians in Gaza to flee again? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Judge strikes down Trump’s latest restrictions on US birthright citizenship | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Watch: Roofs torn off and streets under water as severe weather hits US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Karachi Traffic: Police announce alternative routes after highway closure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- CM Murad orders removal of SBCA chief, suspension of 16 officers over Karachi building collapse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Chief medical officer Gregor Smith resigns on mental health grounds | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Second court defeat for Trump's deep-sea mining ambitions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Peru burns more than 10 tonnes of seized drugs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why are winter rains forcing Palestinians in Gaza to flee again? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Judge strikes down Trump’s latest restrictions on US birthright citizenship | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Watch: Roofs torn off and streets under water as severe weather hits US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Teen's Death Sparks Urgent Questions Over Colombia's Security Crackdown  [NORMAL]
-- Poster: کولمبیا میں نو عمر کی ہلاکت کے بعد سیکیورٹی کریک ڈاؤن پر سوالات / Teen's death raises questions on Colombia security | category politics
-- Alternative headline: Colombia Security Crackdown Faces Scrutiny After Teenager's Death
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Colombia security crackdown, Abelardo de la Espriella, Colombia teen death, extrajudicial killing, armed groups, Al Jazeera | hashtags: #Colombia #SecurityCrackdown #AlJazeera #WorldNews
-- Scheduled: Fri 27 Nov, 01:00 AM PKT
-- Caption:
-```
-A teenager's death has ignited intense scrutiny and serious questions regarding President Abelardo de la Espriella's aggressive security crackdown against armed groups.
-
-President Abelardo de la Espriella's ongoing security campaign targeting armed groups in Colombia has drawn heavy scrutiny following the tragic death of a teenager. The incident has resulted in serious accusations of extrajudicial killings, raising concerns about the methods used in the state's crackdown.
-
-کولمبیا میں مسلح گروہوں کے خلاف صدر ابیلارڈو ڈی لا اسپیریلا کی سیکیورٹی مہم کے دوران ایک نوجوان کی ہلاکت کے بعد شدید سوالات اٹھ کھڑے ہوئے ہیں۔ اس واقعے کے نتیجے میں ماڈجیوڈیشل ہلاکتوں کے الزامات عائد کیے جا رہے ہیں۔
-
-First reported by Al Jazeera
-
-#Colombia #SecurityCrackdown #AlJazeera #WorldNews
-```
-
-### Karachi Highway Closed: Traffic Diverted After Protest Near Sassi Toll Plaza  [NORMAL]
-- Poster: کراچی میں نیشنل ہائی وارجام، پولیس کی جانب سے متبادل راستوں کا اعلان / Karachi highway closed; traffic diverted | category other
-- Alternative headline: National Highway Blocked: Karachi Traffic Police Issue Alternate Routes
+### Iran Confirms Qatar and Pakistan Still Relaying US Messages  [NORMAL]
+- Poster: امریکہ اور ایران کے درمیان مذاکرات، ثالثی کا سلسلہ جاری / Qatar and Pakistan Continue US-Iran Mediation | category world
+- Alternative headline: Mediators Keep US-Iran Communication Open, Says Tehran
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/karachi-traffic-police-announce-alternative-routes-after-highway-closure | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/karachi-traffic-police-announce-alternative-routes-after-highway-closure
-- Supporting coverage: ARY News
-- Keywords: Karachi traffic, National Highway, Sassi Toll Plaza, Karachi Traffic Police, Ghaghar Phatak, protest | hashtags: #KarachiTraffic #NationalHighway #TrafficAlert #ARYNews #Karachi
-- Scheduled: Fri 27 Nov, 01:10 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMivwFBVV95cUxQX05WR3h6VHcweTdfS1dfTXVqREJuVkc5UWlQLWxHeUVkTDdZY3ExS194VmNZNDIydm5RYnh6TmUzRk9qcnlQYnNsUHpoZmVpV0NQQXBkOExSQkJmeE5vaHplcF84SHdrMmRZdGEzVVlvbEFpZXdaY2k1cE1CTFlIVGtGMm5RZl9RR0F3aHZ3djUxRldBQnFJcGJ6RWJhZmpYbm5aMjhEU2htYTQ5R1VWa0NRdXBGMlVDYXZPSlVXVQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMivwFBVV95cUxQX05WR3h6VHcweTdfS1dfTXVqREJuVkc5UWlQLWxHeUVkTDdZY3ExS194VmNZNDIydm5RYnh6TmUzRk9qcnlQYnNsUHpoZmVpV0NQQXBkOExSQkJmeE5vaHplcF84SHdrMmRZdGEzVVlvbEFpZXdaY2k1cE1CTFlIVGtGMm5RZl9RR0F3aHZ3djUxRldBQnFJcGJ6RWJhZmpYbm5aMjhEU2htYTQ5R1VWa0NRdXBGMlVDYXZPSlVXVQ?oc=5
+- Supporting coverage: Dawn, samaa tv
+- Keywords: US-Iran talks, Iran foreign minister, Qatar mediation, Pakistan mediation, US Iran messages | hashtags: #USIran #Iran #Pakistan #Qatar #Diplomacy
+- Scheduled: Fri 27 Nov, 01:57 AM PKT
 - Caption:
 ```
-Karachi Traffic Police have issued an urgent advisory after a protest forced the complete closure of the Main National Highway near Sassi Toll Plaza.
+Iran's foreign minister confirms that regional mediators are actively transmitting messages between Tehran and Washington.
 
-Traffic has been suspended on both sides of the Main National Highway near Sassi Toll Plaza towards Ghaghar Phatak due to a protest. Karachi Traffic Police have announced alternative routes, directing commuters coming from Thatta and Steel Mills via specific diversion paths while advising them to contact helpline 1915.
+Iran's foreign minister has stated that regional mediators, including Qatar and Pakistan, continue to transmit messages between Iran and the United States, keeping diplomatic communication channels active amidst ongoing tensions.
 
-کراچی میں سسی ٹول پلازہ کے قریب دھرنے کے باعث مین نیشنل ہائی وے دونوں اطراف سے ٹریفک کے لیے بند کر دی گئی ہے۔ ٹریفک پولیس نے مسافروں کی سہولت کے لیے متبادل راستوں کا اعلان کرتے ہوئے ہیلپ لائن 1915 سے رابطہ کرنے کی ہدایت کی ہے۔
+ایران کے وزیر خارجہ کا کہنا ہے کہ قطر اور پاکستان سمیت علاقائی ثالث ایران اور امریکہ کے درمیان پیغامات کی ترسیل جاری رکھے ہوئے ہیں، جس سے کشیدہ حالات میں سفارتی رابطے بحال ہیں۔
 
-According to ARY News
+First reported by Dawn.
 
-#KarachiTraffic #NationalHighway #TrafficAlert #ARYNews #Karachi
+#USIran #Iran #Pakistan #Qatar #Diplomacy
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [published] promo | [YouTube] RANA SANAULLAH BLASTS MOHSIN NAQVI | IMRAN KHAN HEALTH CRISI | Tue 24 Nov, 01:35 AM PKT
 - [published] normal | Jensen Huang's return as Nvidia CEO adds $1 trillion to company's valu | Tue 24 Nov, 05:30 AM PKT
 - [published] normal | Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen | Tue 24 Nov, 05:40 AM PKT
 - [published] normal | Israeli strikes kill at least three, including UNRWA worker, in Gaza | Tue 24 Nov, 05:50 AM PKT
@@ -251,7 +227,7 @@ According to ARY News
 - [published] promo | [YouTube] 26 NOVEMBER ISLAMABAD PROTEST: WHAT I SAW THAT NIGHT | Thu 26 Nov, 06:22 PM PKT
 - [published] normal | Islamabad and Rawalpindi declare local public holiday on November 27 | Thu 26 Nov, 07:39 PM PKT
 - [published] normal | Pakistan hosts Makkah defense pact meeting in Islamabad today | Thu 26 Nov, 07:49 PM PKT
-- [queued] normal | Gold prices fall in Pakistan as Federal Reserve rate-hike expectations | Thu 26 Nov, 07:59 PM PKT
+- [published] normal | Gold prices fall in Pakistan as Federal Reserve rate-hike expectations | Thu 26 Nov, 07:59 PM PKT
 - [queued] normal | US budget bill creates funding pressure on Trump regarding Iran confli | Thu 26 Nov, 08:09 PM PKT
 - [queued] normal | Karachi court rejects plea to extend stay order in Admin Society build | Thu 26 Nov, 08:19 PM PKT
 - [queued] normal | Karachi building collapse: Former LG secretary suspended for 120 days | Thu 26 Nov, 08:40 PM PKT
@@ -279,19 +255,16 @@ According to ARY News
 - [queued] normal | Guinea-Bissau delays presidential election by two years | Fri 27 Nov, 12:44 AM PKT
 - [queued] normal | Teen's Death Sparks Urgent Questions Over Colombia's Security Crackdow | Fri 27 Nov, 01:00 AM PKT
 - [queued] normal | Karachi Highway Closed: Traffic Diverted After Protest Near Sassi Toll | Fri 27 Nov, 01:10 AM PKT
+- [queued] normal | Iran Confirms Qatar and Pakistan Still Relaying US Messages | Fri 27 Nov, 01:57 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan hosts Makkah defense pact meeting in Islamabad today'.
+- Published 'Gold prices fall in Pakistan as Federal Reserve rate-hike expectations weigh'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 2960 | output tokens: 1157
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+- Calls: 3 | prompt tokens: 2417 | output tokens: 494
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

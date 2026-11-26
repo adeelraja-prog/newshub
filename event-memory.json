@@ -172033,7 +172033,374 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "248b8642e7fda7ad7840e748",
+      "remembered_at": "2026-11-26T20:57:43.639642+00:00",
+      "event_date": "2026-11-26T20:34:34+00:00",
+      "last_update": "2026-11-26T20:34:34+00:00",
+      "event": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attack",
+        "disrupts",
+        "energy",
+        "fire",
+        "injured",
+        "jazan",
+        "killed",
+        "kills",
+        "ministry",
+        "national",
+        "nepali",
+        "one",
+        "operations",
+        "people",
+        "person",
+        "refinery",
+        "saudi",
+        "says",
+        "several",
+        "sparked",
+        "the"
+      ],
+      "source_excerpt": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+          "published_at": "2026-11-26T20:34:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bc509f8473debb235e70512d",
+      "remembered_at": "2026-11-26T20:57:43.639642+00:00",
+      "event_date": "2026-11-26T20:32:43+00:00",
+      "last_update": "2026-11-26T20:32:43+00:00",
+      "event": "Indian politician facing murder charges hosts 400,000-guest wedding",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "400",
+        "anant",
+        "attended",
+        "bihar",
+        "charges",
+        "daughter",
+        "estimated",
+        "facing",
+        "guest",
+        "hosts",
+        "india",
+        "indian",
+        "lavish",
+        "murder",
+        "people",
+        "politician",
+        "poorest",
+        "singh",
+        "state",
+        "wedding"
+      ],
+      "source_excerpt": "An estimated 400,000 people attended politician Anant Singh’s daughter’s lavish wedding in Bihar, India’s poorest state.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
+          "published_at": "2026-11-26T20:32:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0f2f499546e8ac7247e1138a",
+      "remembered_at": "2026-11-26T20:57:43.639642+00:00",
+      "event_date": "2026-11-26T20:31:50+00:00",
+      "last_update": "2026-11-26T20:31:50+00:00",
+      "event": "Mexico seeks US talks about suspected SpaceX debris",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "border",
+        "concerned",
+        "debris",
+        "from",
+        "launches",
+        "mexico",
+        "near",
+        "ramps",
+        "rocket",
+        "seeks",
+        "spacex",
+        "starbase",
+        "suspected",
+        "talks",
+        "texas"
+      ],
+      "source_excerpt": "Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
+          "published_at": "2026-11-26T20:31:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "65b5e98183ed4a46d1308dcf",
+      "remembered_at": "2026-11-26T20:57:43.639642+00:00",
+      "event_date": "2026-11-26T20:53:51+00:00",
+      "last_update": "2026-11-26T20:53:51+00:00",
+      "event": "The baby who gives Christmas tractor run special meaning",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arthur",
+        "baby",
+        "brandreth",
+        "christmas",
+        "fight",
+        "for",
+        "gives",
+        "life",
+        "martin",
+        "meaning",
+        "organiser",
+        "personal",
+        "run",
+        "special",
+        "the",
+        "tractor",
+        "who"
+      ],
+      "source_excerpt": "Arthur's fight for life gives Christmas tractor run personal meaning for organiser Martin Brandreth.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cmvg238elxlgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T20:53:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cmvg238elxlgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cmvg238elxlgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2e8e9f2db9c79578c0077ffb",
+      "remembered_at": "2026-11-26T20:57:43.639642+00:00",
+      "event_date": "2026-11-26T20:17:44+00:00",
+      "last_update": "2026-11-26T20:17:44+00:00",
+      "event": "AJK govt removes Rawalakot mayor over 'anti-state' allegations",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ajk",
+        "allegations",
+        "anti",
+        "dawn",
+        "govt",
+        "mayor",
+        "over",
+        "rawalakot",
+        "removes",
+        "state"
+      ],
+      "source_excerpt": "AJK govt removes Rawalakot mayor over 'anti-state' allegations Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkxIRVlOSTNRRmo0c283NTROdFFjaUNmUTZqclBuVHk2U01SZEZrUGRYT1hYaGpkbnZpTTl1Z2pCdnJjU1cxQjBjZkhqb3NiczRDNjQyb1htcTNWWHJiUV9qeTRBdjFqRTRiamZwSk8yM2c1c3Z5QVFlMkhTaXNkZXNZdDlHV3ZKLURtMElBQUVRUHk5NnJnQzJn?oc=5",
+          "published_at": "2026-11-26T20:17:44+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047249/ajk-govt-removes-rawalakot-mayor-over-anti-state-allegations",
+          "published_at": "2026-11-26T20:17:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkxIRVlOSTNRRmo0c283NTROdFFjaUNmUTZqclBuVHk2U01SZEZrUGRYT1hYaGpkbnZpTTl1Z2pCdnJjU1cxQjBjZkhqb3NiczRDNjQyb1htcTNWWHJiUV9qeTRBdjFqRTRiamZwSk8yM2c1c3Z5QVFlMkhTaXNkZXNZdDlHV3ZKLURtMElBQUVRUHk5NnJnQzJn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2f68975f1a6600d61fbdd4e8",
+      "remembered_at": "2026-11-26T20:57:43.639642+00:00",
+      "event_date": "2026-11-26T15:29:49+00:00",
+      "last_update": "2026-11-26T15:49:01+00:00",
+      "event": "Mediators continue transmitting messages between Iran and US, Iran's foreign minister says",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "between",
+        "continue",
+        "dawn",
+        "foreign",
+        "iran",
+        "mediators",
+        "messages",
+        "minister",
+        "says",
+        "transmitting"
+      ],
+      "source_excerpt": "Mediators continue transmitting messages between Iran and US, Iran's foreign minister says Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX05WR3h6VHcweTdfS1dfTXVqREJuVkc5UWlQLWxHeUVkTDdZY3ExS194VmNZNDIydm5RYnh6TmUzRk9qcnlQYnNsUHpoZmVpV0NQQXBkOExSQkJmeE5vaHplcF84SHdrMmRZdGEzVVlvbEFpZXdaY2k1cE1CTFlIVGtGMm5RZl9RR0F3aHZ3djUxRldBQnFJcGJ6RWJhZmpYbm5aMjhEU2htYTQ5R1VWa0NRdXBGMlVDYXZPSlVXVQ?oc=5",
+          "published_at": "2026-11-26T15:29:49+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjZQdDF0SjhpSWpwNTFiS1UwX0U5Ujk5VE8xVTNfcjRfQVRPLTdZMUdMbXRidHU1V1MtcWxsU1RUSGx0TVl2ZGdYX0ZCdmxRV3hDLWRlczg4dzZ1VTRJd2h5WUZCZFQwaEoxenM0bFlpNWhCd3k5dWpjaF9QZWlmWDhzM1k?oc=5",
+          "published_at": "2026-11-26T15:49:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX05WR3h6VHcweTdfS1dfTXVqREJuVkc5UWlQLWxHeUVkTDdZY3ExS194VmNZNDIydm5RYnh6TmUzRk9qcnlQYnNsUHpoZmVpV0NQQXBkOExSQkJmeE5vaHplcF84SHdrMmRZdGEzVVlvbEFpZXdaY2k1cE1CTFlIVGtGMm5RZl9RR0F3aHZ3djUxRldBQnFJcGJ6RWJhZmpYbm5aMjhEU2htYTQ5R1VWa0NRdXBGMlVDYXZPSlVXVQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a112a1929c8fe9279e8c0df5",
+      "remembered_at": "2026-11-26T20:57:43.639642+00:00",
+      "event_date": "2026-11-26T19:55:00+00:00",
+      "last_update": "2026-11-26T19:55:00+00:00",
+      "event": "Tanker carrying over 8 million litres of fuel capsizes off Ibiza, sparking environmental fears",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "are",
+        "authorities",
+        "capsized",
+        "capsizes",
+        "carrying",
+        "coast",
+        "crew",
+        "disaster",
+        "eight",
+        "environmental",
+        "fears",
+        "fuel",
+        "ibiza",
+        "leaving",
+        "litres",
+        "major",
+        "million",
+        "more",
+        "off",
+        "one",
+        "over",
+        "prevent",
+        "scrambling",
+        "spanish",
+        "sparking",
+        "tanker",
+        "than",
+        "the"
+      ],
+      "source_excerpt": "Tanker carrying over 8 million litres of fuel capsizes off Ibiza, sparking environmental fears Spanish authorities are scrambling to prevent a major environmental disaster after a tanker carrying more than eight million litres of fuel capsized off the coast of Ibiza, leaving one crew...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692788-tanker-carrying-over-8-million-litres-of-fuel-capsizes-off-ibiza-sparking-environmental-fears",
+          "published_at": "2026-11-26T19:55:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692788-tanker-carrying-over-8-million-litres-of-fuel-capsizes-off-ibiza-sparking-environmental-fears",
+        "publisher_url": "https://www.geo.tv/latest/692788-tanker-carrying-over-8-million-litres-of-fuel-capsizes-off-ibiza-sparking-environmental-fears",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T20:00:18.097475+00:00"
+  "updated_at": "2026-11-26T20:57:43.639642+00:00"
 }
